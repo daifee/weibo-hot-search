@@ -1,0 +1,410 @@
+{
+  "runTime": 1693304283008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4146282,
+        "num": 4146282,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358624,
+        "num": 2880777,
+        "word": "男子东北自助扫码买到2元1个的西瓜",
+        "onboard_time": 1693298678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40505,
+        "num": 2225051,
+        "word": "金砖扩员顺应了历史发展潮流",
+        "onboard_time": 1693300177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880876,
+        "num": 1880876,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283428,
+        "num": 1715036,
+        "word": "司机把儿子送的父亲节礼物挂到现在",
+        "onboard_time": 1693302640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558142,
+        "num": 1558142,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159778,
+        "num": 1499857,
+        "word": "当代高中生有多勤俭节约",
+        "onboard_time": 1693303233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1453290,
+        "num": 1453290,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1236347,
+        "num": 1236347,
+        "word": "宁安如梦",
+        "onboard_time": 1693302759,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1231829,
+        "num": 1231829,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1175819,
+        "num": 1175819,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1120888,
+        "num": 1120888,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869229,
+        "num": 869229,
+        "word": "河南安阳42死火灾调查报告",
+        "onboard_time": 1693300837,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715687,
+        "num": 715687,
+        "word": "杨幂称作为演员要自觉抵制天价片酬",
+        "onboard_time": 1693296577,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704670,
+        "num": 704670,
+        "word": "真正喜欢猫咪的人开的店",
+        "onboard_time": 1693300303,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 669138,
+        "num": 669138,
+        "word": "肖战三戏连播",
+        "onboard_time": 1693296697,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522422,
+        "num": 522422,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498570,
+        "num": 498570,
+        "word": "邓为新剧大婚路透图",
+        "onboard_time": 1693299937,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484795,
+        "num": 484795,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 18,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 440262,
+        "num": 440262,
+        "word": "雪糕可以冷门不可以邪门",
+        "onboard_time": 1693302579,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 678434,
+        "num": 429764,
+        "word": "上海40余人吃日料后上吐下泻",
+        "onboard_time": 1693301080,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452005,
+        "num": 428510,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414473,
+        "num": 414473,
+        "word": "超级小桀回应近期争议",
+        "onboard_time": 1693300358,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 400817,
+        "num": 400817,
+        "word": "谁家男女主恋爱谈7次啊",
+        "onboard_time": 1693301977,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380014,
+        "num": 380014,
+        "word": "女生不结婚是什么体验",
+        "onboard_time": 1693300416,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377134,
+        "num": 377134,
+        "word": "Lisa舞台着装",
+        "onboard_time": 1693298916,
+        "rank": 25,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 355596,
+        "num": 355596,
+        "word": "内蒙古露天煤矿坍塌事故调查报告",
+        "onboard_time": 1693300837,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352617,
+        "num": 352617,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351941,
+        "num": 351941,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341230,
+        "num": 341230,
+        "word": "王鹤棣狼尾",
+        "onboard_time": 1693300060,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340123,
+        "num": 340123,
+        "word": "刘诗诗美拉德风",
+        "onboard_time": 1693302640,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327915,
+        "num": 327915,
+        "word": "医院减重门诊挤满了瘦女孩",
+        "onboard_time": 1693300060,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319330,
+        "num": 319330,
+        "word": "孙阳回应和许光汉是大学校友",
+        "onboard_time": 1693302818,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311635,
+        "num": 311635,
+        "word": "金智秀说想吃螺蛳粉",
+        "onboard_time": 1693300778,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302833,
+        "num": 302833,
+        "word": "路人镜头下的沈梦辰",
+        "onboard_time": 1693302579,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253518,
+        "num": 253518,
+        "word": "鬼灭之刃coser灭火",
+        "onboard_time": 1693303537,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 250471,
+        "num": 250471,
+        "word": "笑果文化再被起诉",
+        "onboard_time": 1693301558,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244053,
+        "num": 244053,
+        "word": "小S二女儿Lily状态",
+        "onboard_time": 1693291656,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238049,
+        "num": 238049,
+        "word": "弟弟开学前凌晨厕所灯补暑假作业",
+        "onboard_time": 1693302998,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 230129,
+        "num": 230129,
+        "word": "小事说不停 大事拎不清",
+        "onboard_time": 1693299220,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 241117,
+        "num": 224709,
+        "word": "王一博用无名的文件袋",
+        "onboard_time": 1693298616,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213669,
+        "num": 213669,
+        "word": "锁骨的由来确实和锁有关",
+        "onboard_time": 1693303477,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 213426,
+        "num": 213426,
+        "word": "焦桃烂鹅",
+        "onboard_time": 1693303777,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211345,
+        "num": 211345,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203987,
+        "num": 203987,
+        "word": "为什么重庆火锅锅底要加冰",
+        "onboard_time": 1693299577,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195874,
+        "num": 195874,
+        "word": "给徐良投票白投了",
+        "onboard_time": 1693288777,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195849,
+        "num": 195849,
+        "word": "天津的旅游景点是天津人吧",
+        "onboard_time": 1693303301,
+        "rank": 46,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 192444,
+        "num": 192444,
+        "word": "骑友大哥这回认出来吴磊了",
+        "onboard_time": 1693289855,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183926,
+        "num": 183926,
+        "word": "为什么甲状腺癌爱盯上年轻人",
+        "onboard_time": 1693287101,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 182175,
+        "num": 182175,
+        "word": "吴磊录音紧张得说绕口令",
+        "onboard_time": 1693304137,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
