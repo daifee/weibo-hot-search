@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693347439206,
+  "endTime": 1693348439179,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -155,20 +155,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 405763,
+      "num": 366081,
+      "word": "奖励初婚女性1000元能提升生育率吗",
+      "onboard_time": 1693310676,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402068,
       "num": 261746,
       "word": "内娱野人",
       "onboard_time": 1693328006,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 366081,
-      "num": 366081,
-      "word": "奖励初婚女性1000元能提升生育率吗",
-      "onboard_time": 1693310676,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350732,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53162,
+      "num": 53162,
+      "word": "吴磊骑行偶遇狐狸",
+      "onboard_time": 1693347317,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51902,
       "num": 51902,
       "word": "国外小哥和水豚处成了好朋友",
@@ -499,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38730,
+      "num": 38730,
+      "word": "金星 再瞎编我的新闻见一个打一个",
+      "onboard_time": 1693299700,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38225,
       "num": 1962519,
       "word": "地图一点一线都代表祖国大好山河",
@@ -513,14 +529,6 @@
       "onboard_time": 1693316319,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32641,
-      "num": 32641,
-      "word": "金星 再瞎编我的新闻见一个打一个",
-      "onboard_time": 1693299700,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 31130,
@@ -547,6 +555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 30060,
+      "num": 30060,
+      "word": "70岁奶奶暑假带2孙子一起看书",
+      "onboard_time": 1693346175,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 28341,
       "num": 28341,
       "word": "想被爱是可以主动表达的",
@@ -561,14 +577,6 @@
       "onboard_time": 1693339035,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 23367,
-      "num": 28425,
-      "word": "吴磊骑行偶遇狐狸",
-      "onboard_time": 1693347317,
-      "rank": 48,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
