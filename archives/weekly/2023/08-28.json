@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693348439179,
+  "endTime": 1693350902149,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -1259,6 +1259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 629511,
+      "num": 629511,
+      "word": "鲁山县通报花700多万建牛郎织女雕塑",
+      "onboard_time": 1693329085,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624749,
       "num": 411599,
       "word": "日本超市海鲜打折也没人买",
@@ -2172,7 +2180,7 @@
     },
     {
       "raw_hot": 402068,
-      "num": 261746,
+      "num": 308124,
       "word": "内娱野人",
       "onboard_time": 1693328006,
       "rank": 12,
@@ -2699,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340991,
+      "num": 340991,
+      "word": "中元节",
+      "onboard_time": 1693350204,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340123,
       "num": 340123,
       "word": "刘诗诗美拉德风",
@@ -3219,14 +3235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298154,
-      "num": 298154,
-      "word": "鲁山县通报花700多万建牛郎织女雕塑",
-      "onboard_time": 1693329085,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297267,
       "num": 297267,
       "word": "张颂文给应届毕业生的建议",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1693224633,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 273419,
+      "num": 273419,
+      "word": "要多和大便通畅的人接吻",
+      "onboard_time": 1693350204,
+      "rank": 16,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 272733,
@@ -5459,6 +5475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145779,
+      "num": 145779,
+      "word": "吴磊骑行偶遇狐狸",
+      "onboard_time": 1693347317,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145672,
       "num": 145672,
       "word": "长相思泰语版预告",
@@ -5481,6 +5505,14 @@
       "onboard_time": 1693233818,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143074,
+      "num": 143074,
+      "word": "高质量睡眠拿捏了",
+      "onboard_time": 1693330042,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 142547,
@@ -5771,20 +5803,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 88747,
-      "num": 88747,
-      "word": "高质量睡眠拿捏了",
-      "onboard_time": 1693330042,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85287,
       "num": 2027682,
       "word": "医生给出开学健康锦囊",
       "onboard_time": 1693299937,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77187,
+      "num": 77187,
+      "word": "70岁奶奶暑假带2孙子一起看书",
+      "onboard_time": 1693346175,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 75744,
@@ -5833,6 +5865,14 @@
       "onboard_time": 1693310435,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71120,
+      "num": 71120,
+      "word": "如果不是监控拍下来真的就解释不清了",
+      "onboard_time": 1693333099,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 70837,
@@ -5891,12 +5931,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 53162,
-      "num": 53162,
-      "word": "吴磊骑行偶遇狐狸",
-      "onboard_time": 1693347317,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 52245,
+      "num": 1962519,
+      "word": "地图一点一线都代表祖国大好山河",
+      "onboard_time": 1693313564,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51902,
@@ -5955,14 +5995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39793,
-      "num": 42413,
-      "word": "如果不是监控拍下来真的就解释不清了",
-      "onboard_time": 1693333099,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 39175,
       "num": 39175,
       "word": "感觉上班好像在扮演大人",
@@ -5977,14 +6009,6 @@
       "onboard_time": 1693160837,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38225,
-      "num": 1962519,
-      "word": "地图一点一线都代表祖国大好山河",
-      "onboard_time": 1693313564,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34911,
@@ -6017,14 +6041,6 @@
       "onboard_time": 1693333637,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 30060,
-      "num": 30060,
-      "word": "70岁奶奶暑假带2孙子一起看书",
-      "onboard_time": 1693346175,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 28823,

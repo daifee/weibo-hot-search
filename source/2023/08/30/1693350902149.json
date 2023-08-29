@@ -1,0 +1,410 @@
+{
+  "runTime": 1693350902149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1630143,
+        "num": 1630143,
+        "word": "易建联退役",
+        "onboard_time": 1693325734,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1426281,
+        "num": 1426281,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52245,
+        "num": 927820,
+        "word": "地图一点一线都代表祖国大好山河",
+        "onboard_time": 1693313564,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922576,
+        "num": 922576,
+        "word": "内蒙古赤峰发生重大刑事案件",
+        "onboard_time": 1693309236,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699568,
+        "num": 699568,
+        "word": "苹果发布会",
+        "onboard_time": 1693327110,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 629511,
+        "num": 629511,
+        "word": "鲁山县通报花700多万建牛郎织女雕塑",
+        "onboard_time": 1693329085,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455497,
+        "num": 455497,
+        "word": "科学家建议孕期不要吃这些",
+        "onboard_time": 1693316319,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441615,
+        "num": 441615,
+        "word": "男孩吃饭结账差2元留下了新买的笔",
+        "onboard_time": 1693320103,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340991,
+        "num": 340991,
+        "word": "中元节",
+        "onboard_time": 1693350204,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326153,
+        "num": 326153,
+        "word": "张晚意的两个妹妹有点像啊",
+        "onboard_time": 1693321237,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 927796,
+        "num": 325827,
+        "word": "李湘的履历",
+        "onboard_time": 1693317764,
+        "rank": 10,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 817463,
+        "num": 312068,
+        "word": "奖励初婚女性1000元能提升生育率吗",
+        "onboard_time": 1693310676,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331790,
+        "num": 308124,
+        "word": "内娱野人",
+        "onboard_time": 1693328006,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135199,
+        "num": 302512,
+        "word": "医院为暴雨中降生的神针举办出院仪式",
+        "onboard_time": 1693308518,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89727,
+        "num": 288167,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287160,
+        "num": 287160,
+        "word": "中美商务部长谈了4个半小时",
+        "onboard_time": 1693322562,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273419,
+        "num": 273419,
+        "word": "要多和大便通畅的人接吻",
+        "onboard_time": 1693350204,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 251170,
+        "num": 251170,
+        "word": "央八在干什么",
+        "onboard_time": 1693311038,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238079,
+        "num": 238079,
+        "word": "男孩汽车出入口玩耍被撞身亡",
+        "onboard_time": 1693322023,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228762,
+        "num": 228762,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259619,
+        "num": 226387,
+        "word": "婴儿频繁揉眼20多天医生夹出两条虫",
+        "onboard_time": 1693321481,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249816,
+        "num": 225624,
+        "word": "这就是体制内的休假",
+        "onboard_time": 1693306716,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215713,
+        "num": 215713,
+        "word": "年轻女生不要过度共情",
+        "onboard_time": 1693316802,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 191483,
+        "num": 191483,
+        "word": "这是刚脱素入糊的四位家夫",
+        "onboard_time": 1693321962,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188325,
+        "num": 188325,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188047,
+        "num": 188047,
+        "word": "小猫咪为什么喜欢把手折成这样",
+        "onboard_time": 1693324717,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184491,
+        "num": 184491,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177607,
+        "num": 177607,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153027,
+        "num": 153027,
+        "word": "怀疑陈紫函戴向宇精神状态",
+        "onboard_time": 1693323338,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145779,
+        "num": 145779,
+        "word": "吴磊骑行偶遇狐狸",
+        "onboard_time": 1693347317,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143074,
+        "num": 143074,
+        "word": "高质量睡眠拿捏了",
+        "onboard_time": 1693330042,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136796,
+        "num": 136796,
+        "word": "原来一百根头发这么少",
+        "onboard_time": 1693310379,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136464,
+        "num": 136464,
+        "word": "如果你年纪轻轻的就不懂得约束自己",
+        "onboard_time": 1693321003,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 133393,
+        "num": 133393,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113601,
+        "num": 113601,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113488,
+        "num": 113488,
+        "word": "高叶大嫂劲又出来了",
+        "onboard_time": 1693323637,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112012,
+        "num": 112012,
+        "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+        "onboard_time": 1693307078,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97491,
+        "num": 97491,
+        "word": "就此沙没穿深V",
+        "onboard_time": 1693314880,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95508,
+        "num": 95508,
+        "word": "吉克隽逸微指近2亿",
+        "onboard_time": 1693316564,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91657,
+        "num": 91657,
+        "word": "钢铁侠晒照纪念结婚18周年",
+        "onboard_time": 1693323699,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91130,
+        "num": 91130,
+        "word": "Lisa私服回归中性少年风",
+        "onboard_time": 1693312180,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82889,
+        "num": 82889,
+        "word": "周杰伦邓紫棋合唱黑色毛衣",
+        "onboard_time": 1693326032,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81813,
+        "num": 81813,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80841,
+        "num": 80841,
+        "word": "摩羯座是一个很好的伙伴",
+        "onboard_time": 1693309718,
+        "rank": 43,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 77187,
+        "num": 77187,
+        "word": "70岁奶奶暑假带2孙子一起看书",
+        "onboard_time": 1693346175,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 76811,
+        "num": 76811,
+        "word": "宋茜 我没事拍摄正常进行",
+        "onboard_time": 1693308755,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71776,
+        "num": 71776,
+        "word": "林俊杰去了hybe总部",
+        "onboard_time": 1693309659,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71120,
+        "num": 71120,
+        "word": "如果不是监控拍下来真的就解释不清了",
+        "onboard_time": 1693333099,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63823,
+        "num": 63823,
+        "word": "猫的树是懂cp选角的",
+        "onboard_time": 1693310918,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63460,
+        "num": 63460,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建发展共同体#"
+    }
+  }
+}
