@@ -1,0 +1,410 @@
+{
+  "runTime": 1693344844852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243199,
+        "num": 243199,
+        "word": "易建联退役",
+        "onboard_time": 1693325734,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158005,
+        "num": 158005,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 9736,
+        "num": 146344,
+        "word": "地图一点一线都代表祖国大好山河",
+        "onboard_time": 1693313564,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144584,
+        "num": 144584,
+        "word": "内蒙古赤峰发生重大刑事案件",
+        "onboard_time": 1693309236,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93388,
+        "num": 93388,
+        "word": "苹果发布会",
+        "onboard_time": 1693327110,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 93184,
+        "num": 93184,
+        "word": "男孩吃饭结账差2元留下了新买的笔",
+        "onboard_time": 1693320103,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92699,
+        "num": 92699,
+        "word": "鲁山县通报花700多万建牛郎织女雕塑",
+        "onboard_time": 1693329085,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72766,
+        "num": 72766,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 65433,
+        "num": 65433,
+        "word": "科学家建议孕期不要吃这些",
+        "onboard_time": 1693316319,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55539,
+        "num": 55539,
+        "word": "中美商务部长谈了4个半小时",
+        "onboard_time": 1693322562,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161258,
+        "num": 54978,
+        "word": "奖励初婚女性1000元能提升生育率吗",
+        "onboard_time": 1693310676,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142265,
+        "num": 54670,
+        "word": "李湘的履历",
+        "onboard_time": 1693317764,
+        "rank": 11,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 71749,
+        "num": 53783,
+        "word": "内娱野人",
+        "onboard_time": 1693328006,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32456,
+        "num": 52305,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25385,
+        "num": 51629,
+        "word": "医院为暴雨中降生的神针举办出院仪式",
+        "onboard_time": 1693308518,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56278,
+        "num": 51013,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50605,
+        "num": 50605,
+        "word": "高叶大嫂劲又出来了",
+        "onboard_time": 1693323637,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50037,
+        "num": 50037,
+        "word": "央八在干什么",
+        "onboard_time": 1693311038,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46381,
+        "num": 46381,
+        "word": "张晚意的两个妹妹有点像啊",
+        "onboard_time": 1693321237,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47264,
+        "num": 44645,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50284,
+        "num": 43713,
+        "word": "年轻女生不要过度共情",
+        "onboard_time": 1693316802,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 42775,
+        "num": 42775,
+        "word": "婴儿频繁揉眼20多天医生夹出两条虫",
+        "onboard_time": 1693321481,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37322,
+        "num": 37322,
+        "word": "小猫咪为什么喜欢把手折成这样",
+        "onboard_time": 1693324717,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35741,
+        "num": 35741,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 35149,
+        "num": 35149,
+        "word": "男孩汽车出入口玩耍被撞身亡",
+        "onboard_time": 1693322023,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33468,
+        "num": 33468,
+        "word": "吉克隽逸微指近2亿",
+        "onboard_time": 1693316564,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31340,
+        "num": 31340,
+        "word": "如果你年纪轻轻的就不懂得约束自己",
+        "onboard_time": 1693321003,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 31040,
+        "num": 31040,
+        "word": "齐太磊",
+        "onboard_time": 1693340054,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30301,
+        "num": 30301,
+        "word": "怀疑陈紫函戴向宇精神状态",
+        "onboard_time": 1693323338,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30151,
+        "num": 30151,
+        "word": "高质量睡眠拿捏了",
+        "onboard_time": 1693330042,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29570,
+        "num": 29570,
+        "word": "Lisa私服回归中性少年风",
+        "onboard_time": 1693312180,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29556,
+        "num": 29556,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28864,
+        "num": 28864,
+        "word": "这就是体制内的休假",
+        "onboard_time": 1693306716,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27921,
+        "num": 27921,
+        "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+        "onboard_time": 1693307078,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27792,
+        "num": 27792,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25950,
+        "num": 25950,
+        "word": "乐嘉",
+        "onboard_time": 1693311160,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24300,
+        "num": 24300,
+        "word": "学习不是大脑中塞满知识的行为",
+        "onboard_time": 1693339035,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 24265,
+        "num": 24265,
+        "word": "电动车未来可用上人造太阳",
+        "onboard_time": 1693333637,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 23797,
+        "num": 23797,
+        "word": "原来一百根头发这么少",
+        "onboard_time": 1693310379,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22282,
+        "num": 22282,
+        "word": "海南省委巡视组原组长韩太光被查",
+        "onboard_time": 1693333937,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22204,
+        "num": 22204,
+        "word": "摩羯座是一个很好的伙伴",
+        "onboard_time": 1693309718,
+        "rank": 40,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 21530,
+        "num": 21530,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21125,
+        "num": 21125,
+        "word": "这是刚脱素入糊的四位家夫",
+        "onboard_time": 1693321962,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21029,
+        "num": 21029,
+        "word": "如果不是监控拍下来真的就解释不清了",
+        "onboard_time": 1693333099,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20719,
+        "num": 20719,
+        "word": "易建联",
+        "onboard_time": 1693325313,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20682,
+        "num": 20682,
+        "word": "周杰伦邓紫棋合唱黑色毛衣",
+        "onboard_time": 1693326032,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20283,
+        "num": 20669,
+        "word": "钢铁侠晒照纪念结婚18周年",
+        "onboard_time": 1693323699,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19862,
+        "num": 20656,
+        "word": "想被爱是可以主动表达的",
+        "onboard_time": 1693337474,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19616,
+        "num": 20646,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18187,
+        "num": 20638,
+        "word": "就此沙没穿深V",
+        "onboard_time": 1693314880,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建发展共同体#"
+    }
+  }
+}

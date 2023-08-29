@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693343668422,
+  "endTime": 1693344844852,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -5995,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31040,
+      "num": 31040,
+      "word": "齐太磊",
+      "onboard_time": 1693340054,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30089,
       "num": 30089,
       "word": "电动车未来可用上人造太阳",
@@ -6009,14 +6017,6 @@
       "onboard_time": 1693282718,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28753,
-      "num": 28753,
-      "word": "齐太磊",
-      "onboard_time": 1693340054,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28341,
