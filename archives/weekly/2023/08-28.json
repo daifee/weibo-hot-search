@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693329303291,
+  "endTime": 1693330437454,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -643,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975159,
+      "num": 975159,
+      "word": "苹果发布会",
+      "onboard_time": 1693327110,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 968700,
       "num": 968700,
       "word": "妹妹被正式确诊为曾毅",
@@ -769,14 +777,6 @@
       "onboard_time": 1693216898,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859760,
-      "num": 859760,
-      "word": "苹果发布会",
-      "onboard_time": 1693327110,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 859171,
@@ -2171,6 +2171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 402068,
+      "num": 261746,
+      "word": "内娱野人",
+      "onboard_time": 1693328006,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400643,
       "num": 336416,
       "word": "为了吃螺蛳粉奶奶学会网购",
@@ -3409,14 +3417,6 @@
       "onboard_time": 1693149879,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283578,
-      "num": 261746,
-      "word": "内娱野人",
-      "onboard_time": 1693328006,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 283242,
@@ -4955,6 +4955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185946,
+      "num": 185946,
+      "word": "鲁山县通报花700多万建牛郎织女雕塑",
+      "onboard_time": 1693329085,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185193,
       "num": 185193,
       "word": "大熊猫秀一字马扑通一脚踩空",
@@ -5667,6 +5675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113402,
+      "num": 113402,
+      "word": "用男性思维对付男人",
+      "onboard_time": 1693329145,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 111572,
       "num": 207841,
       "word": "为何说828是中小企业及时雨",
@@ -5731,14 +5747,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 95312,
-      "num": 95312,
-      "word": "鲁山县通报花700多万建牛郎织女雕塑",
-      "onboard_time": 1693329085,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93284,
       "num": 93284,
       "word": "10款椰子水测评",
@@ -5769,14 +5777,6 @@
       "onboard_time": 1693299937,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85134,
-      "num": 85134,
-      "word": "用男性思维对付男人",
-      "onboard_time": 1693329145,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 75744,
@@ -5835,12 +5835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70636,
+      "num": 70636,
+      "word": "高质量睡眠拿捏了",
+      "onboard_time": 1693330042,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69211,
       "num": 69211,
       "word": "韩国渔民心灰意冷",
       "onboard_time": 1693242863,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65798,
+      "num": 65798,
+      "word": "这些货都是咋想出来的呢",
+      "onboard_time": 1693329743,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 64912,
