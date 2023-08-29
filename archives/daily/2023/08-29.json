@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693272654606,
+  "endTime": 1693276443006,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -9,6 +9,14 @@
       "onboard_time": 1693264405,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2657199,
+      "num": 2657199,
+      "word": "日本正采取卑劣手段对中国倒打一耙",
+      "onboard_time": 1693272634,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2593855,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1941751,
-      "num": 314549,
+      "num": 319450,
       "word": "中方回应在华日本学校被砸石头和鸡蛋",
       "onboard_time": 1693266333,
       "rank": 30,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1898008,
-      "num": 438235,
+      "num": 465342,
       "word": "胡歌十七年前的今天经历了车祸",
       "onboard_time": 1693268737,
       "rank": 12,
@@ -67,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222454,
+      "num": 466817,
+      "word": "中国游客赴日意愿下降日本业界很担心",
+      "onboard_time": 1693272577,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1084388,
+      "num": 1084388,
+      "word": "骄阳伴我",
+      "onboard_time": 1693274554,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1030219,
       "num": 1030219,
       "word": "夭玹 改写结局",
@@ -91,10 +115,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852454,
+      "num": 713370,
+      "word": "骄阳伴我定档",
+      "onboard_time": 1693275456,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 821762,
       "num": 821762,
       "word": "大量日本骚扰电话打进我驻日使领馆",
       "onboard_time": 1693217617,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 797439,
+      "num": 797439,
+      "word": "同年同月同日生同专业同班同宿舍",
+      "onboard_time": 1693273656,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -107,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742520,
+      "num": 457235,
+      "word": "日本饭店招牌歧视中国人博主当场报警",
+      "onboard_time": 1693275157,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731470,
       "num": 731470,
       "word": "男子收到儿子饭卡消费记录后泪奔",
@@ -116,7 +164,7 @@
     },
     {
       "raw_hot": 684755,
-      "num": 309380,
+      "num": 317191,
       "word": "黄奕版上错花轿嫁对郎剧照",
       "onboard_time": 1693271616,
       "rank": 21,
@@ -129,6 +177,22 @@
       "onboard_time": 1693268018,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629135,
+      "num": 629135,
+      "word": "印尼巴厘海发生7.1级地震",
+      "onboard_time": 1693274616,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618124,
+      "num": 318274,
+      "word": "iPhone15或新增绿色",
+      "onboard_time": 1693274315,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 591356,
@@ -145,6 +209,14 @@
       "onboard_time": 1693237774,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 569940,
+      "num": 569940,
+      "word": "韩国中小学食堂禁止使用日产海鲜",
+      "onboard_time": 1693272038,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 559902,
@@ -164,7 +236,7 @@
     },
     {
       "raw_hot": 525711,
-      "num": 412474,
+      "num": 463608,
       "word": "你听过虞书欣说英语吗",
       "onboard_time": 1693270358,
       "rank": 30,
@@ -195,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470890,
+      "num": 470890,
+      "word": "白日梦我湖南卫视定档",
+      "onboard_time": 1693275456,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 458875,
+      "num": 458875,
+      "word": "杨紫嗑cp舞到正主面前",
+      "onboard_time": 1693273059,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440829,
       "num": 440829,
       "word": "82岁老人用20万存款为女儿女婿买首饰",
@@ -217,6 +305,14 @@
       "onboard_time": 1693265067,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432200,
+      "num": 432200,
+      "word": "A股",
+      "onboard_time": 1693272936,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 425813,
@@ -249,6 +345,14 @@
       "onboard_time": 1693233041,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393894,
+      "num": 393894,
+      "word": "台风苏拉",
+      "onboard_time": 1693272336,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382637,
@@ -323,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316235,
+      "num": 316235,
+      "word": "谁在给日本排核污染水洗白",
+      "onboard_time": 1693273296,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308244,
       "num": 219775,
       "word": "任敏接发了",
       "onboard_time": 1693233818,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 307441,
+      "num": 263824,
+      "word": "朱婷 祝福中国女排一切顺利",
+      "onboard_time": 1693275935,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 301298,
@@ -347,6 +467,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295837,
+      "num": 295837,
+      "word": "父亲送快递供出3个大学生",
+      "onboard_time": 1693274677,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279527,
+      "num": 279527,
+      "word": "巨型舒芙蕾",
+      "onboard_time": 1693274375,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 269690,
       "num": 269690,
       "word": "马嘉祺说会给大家创造更多见面的机会",
@@ -361,6 +497,14 @@
       "onboard_time": 1693236695,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262850,
+      "num": 262850,
+      "word": "北卡",
+      "onboard_time": 1693274914,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262636,
@@ -395,6 +539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 250165,
+      "num": 250165,
+      "word": "不要成为除了工作没有生活的人",
+      "onboard_time": 1693271976,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "直径6厘米小球能量竟比1吨煤多",
@@ -409,6 +561,14 @@
       "onboard_time": 1693261758,
       "rank": 45,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 242372,
+      "num": 242372,
+      "word": "马立奥好会营业",
+      "onboard_time": 1693273476,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 237694,
@@ -459,20 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213568,
+      "num": 213568,
+      "word": "黄轩正派的脸露出反派的笑容",
+      "onboard_time": 1693276054,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211377,
       "num": 211377,
       "word": "男孩带录取通知书与服刑父亲见面",
       "onboard_time": 1693233400,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 208610,
-      "num": 208610,
-      "word": "不要成为除了工作没有生活的人",
-      "onboard_time": 1693271976,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 205744,
@@ -483,6 +643,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 204157,
+      "num": 204157,
+      "word": "电影莫斯科行动定档国庆",
+      "onboard_time": 1693276054,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202755,
       "num": 202755,
       "word": "量化私募大佬2.85亿上海买房",
@@ -491,11 +659,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195543,
-      "num": 195543,
-      "word": "韩国中小学食堂禁止使用日产海鲜",
-      "onboard_time": 1693272038,
+      "raw_hot": 198983,
+      "num": 198983,
+      "word": "白敬亭你就宠魏大勋吧",
+      "onboard_time": 1693274914,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197123,
+      "num": 197123,
+      "word": "当学生发现喜欢的老师被调走",
+      "onboard_time": 1693272695,
+      "rank": 39,
       "category": "社会新闻,教育"
     },
     {
@@ -531,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183858,
-      "num": 183858,
-      "word": "台风苏拉",
-      "onboard_time": 1693272336,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181324,
       "num": 181324,
       "word": "女子半月被缅北男友骗光850万",
@@ -547,20 +715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180909,
+      "num": 180909,
+      "word": "张杰问两只鸟是啥",
+      "onboard_time": 1693275396,
+      "rank": 41,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 180548,
       "num": 180548,
       "word": "苏醒cue0713披荆斩棘小分队",
       "onboard_time": 1693231960,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180468,
-      "num": 180468,
-      "word": "中国游客赴日意愿下降日本业界很担心",
-      "onboard_time": 1693272577,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177302,
@@ -593,6 +761,14 @@
       "onboard_time": 1693234899,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167016,
+      "num": 167016,
+      "word": "不要因为觉得妈妈可怜就想补偿她",
+      "onboard_time": 1693276234,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 165398,
@@ -651,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151433,
+      "num": 151433,
+      "word": "这设计师太直接了吧",
+      "onboard_time": 1693273835,
+      "rank": 46,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 151210,
       "num": 1239051,
       "word": "亚运村里的江浙菜品有多馋人",
@@ -668,7 +852,7 @@
     },
     {
       "raw_hot": 144414,
-      "num": 792620,
+      "num": 1306025,
       "word": "我国网民规模已达10.79亿人",
       "onboard_time": 1693233818,
       "rank": 2,
@@ -681,14 +865,6 @@
       "onboard_time": 1693225596,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141501,
-      "num": 141501,
-      "word": "日本正采取卑劣手段对中国倒打一耙",
-      "onboard_time": 1693272634,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 138666,
@@ -787,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66921,
+      "num": 459527,
+      "word": "东方甄选正在淘宝直播",
+      "onboard_time": 1693274433,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64912,
       "num": 137996,
       "word": "探寻烟火成都中的幸福感",
@@ -870,6 +1054,9 @@
   "hotgov_list": [
     {
       "word": "#更好建设美丽新疆#"
+    },
+    {
+      "word": "#互联护苗#"
     }
   ]
 }
