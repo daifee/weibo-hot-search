@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693305284273,
+  "endTime": 1693307639212,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -113,6 +113,14 @@
       "onboard_time": 1693228419,
       "rank": 24,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2296189,
+      "num": 1176520,
+      "word": "日本或向世贸组织起诉中国禁令",
+      "onboard_time": 1693303177,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2292521,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1676193,
+      "num": 1676193,
+      "word": "马立奥坐下那刻偶像剧都弱爆了",
+      "onboard_time": 1693303960,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1672535,
       "num": 1672535,
       "word": "大英博物馆馆长辞职",
@@ -319,14 +335,6 @@
       "num": 478344,
       "word": "日本饭店招牌歧视中国人博主当场报警",
       "onboard_time": 1693275157,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1542944,
-      "num": 1176520,
-      "word": "日本或向世贸组织起诉中国禁令",
-      "onboard_time": 1693303177,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -513,14 +521,6 @@
       "onboard_time": 1693179389,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1043019,
-      "num": 1043019,
-      "word": "马立奥坐下那刻偶像剧都弱爆了",
-      "onboard_time": 1693303960,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1040966,
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 726581,
+      "num": 726581,
+      "word": "中国最高龄产妇盛海琳自曝被骗200多万",
+      "onboard_time": 1693305456,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724935,
       "num": 330209,
       "word": "结束一段关系最好的方式",
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 678434,
-      "num": 488258,
+      "num": 563765,
       "word": "上海40余人吃日料后上吐下泻",
       "onboard_time": 1693301080,
       "rank": 23,
@@ -1107,12 +1115,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 611884,
+      "num": 611884,
+      "word": "捉妖记肖战是群演",
+      "onboard_time": 1693305101,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607985,
       "num": 607985,
       "word": "西安五月天",
       "onboard_time": 1693288537,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 604980,
+      "num": 604980,
+      "word": "祝绪丹一直这么显眼吗",
+      "onboard_time": 1693305398,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 603851,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1693151256,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572495,
+      "num": 472028,
+      "word": "工业糖精",
+      "onboard_time": 1693305579,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 571530,
@@ -1515,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 473069,
+      "num": 473069,
+      "word": "王一博快告诉我们杨幂和杜华说什么了",
+      "onboard_time": 1693305518,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471279,
       "num": 471279,
       "word": "唐尚珺宣布继续复读",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1693224219,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441724,
+      "num": 441724,
+      "word": "这就是体制内的休假",
+      "onboard_time": 1693306716,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 440829,
@@ -2115,6 +2163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362558,
+      "num": 626763,
+      "word": "丰田日本全部14座工厂将停产",
+      "onboard_time": 1693305158,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360515,
       "num": 2291255,
       "word": "00后姑娘从北京骑摩托来浙江上学",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1693292375,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358429,
+      "num": 358429,
+      "word": "林志颖朴灿烈同款外套",
+      "onboard_time": 1693306178,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357906,
@@ -2355,6 +2419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 334212,
+      "num": 314197,
+      "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+      "onboard_time": 1693307078,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332950,
       "num": 287950,
       "word": "SEVENTEEN夫胜宽重启活动",
@@ -2411,6 +2483,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 326999,
+      "num": 311547,
+      "word": "貌合神离的商业联姻",
+      "onboard_time": 1693306478,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326993,
       "num": 289296,
       "word": "小事说不停 大事拎不清",
@@ -2457,6 +2537,14 @@
       "onboard_time": 1693266873,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321352,
+      "num": 321352,
+      "word": "Mate60pro",
+      "onboard_time": 1693305218,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 319873,
@@ -2996,7 +3084,7 @@
     },
     {
       "raw_hot": 269893,
-      "num": 269893,
+      "num": 319238,
       "word": "弟弟开学前凌晨厕所灯补暑假作业",
       "onboard_time": 1693302998,
       "rank": 38,
@@ -3049,14 +3137,6 @@
       "onboard_time": 1693207355,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 265522,
-      "num": 193765,
-      "word": "捉妖记肖战是群演",
-      "onboard_time": 1693305101,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 265173,
@@ -3403,14 +3483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234217,
-      "num": 234217,
-      "word": "丰田日本全部14座工厂将停产",
-      "onboard_time": 1693305158,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234161,
       "num": 234161,
       "word": "张晚意小孩版光头强",
@@ -3497,6 +3569,14 @@
       "onboard_time": 1693277736,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228766,
+      "num": 228766,
+      "word": "TF家族五周年",
+      "onboard_time": 1693307433,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 228434,
@@ -3657,6 +3737,14 @@
       "onboard_time": 1693225294,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 214559,
+      "num": 214559,
+      "word": "福建人结婚的传统流水席",
+      "onboard_time": 1693306118,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 213821,
@@ -4147,6 +4235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186189,
+      "num": 186189,
+      "word": "明日方舟中国国家地理联动",
+      "onboard_time": 1693306358,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185993,
       "num": 185993,
       "word": "马嘉祺EP阵容",
@@ -4225,14 +4321,6 @@
       "onboard_time": 1693177884,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180545,
-      "num": 180545,
-      "word": "Mate60pro",
-      "onboard_time": 1693305218,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 180370,
@@ -4377,6 +4465,14 @@
       "onboard_time": 1693205676,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170041,
+      "num": 170041,
+      "word": "来自余华的写作建议",
+      "onboard_time": 1693306299,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 169805,
@@ -4985,6 +5081,14 @@
       "onboard_time": 1693244359,
       "rank": 34,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 50472,
+      "num": 1702278,
+      "word": "医生给出开学健康锦囊",
+      "onboard_time": 1693299937,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50026,

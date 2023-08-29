@@ -1,0 +1,410 @@
+{
+  "runTime": 1693307639212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3119633,
+        "num": 3119633,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373735,
+        "num": 2285107,
+        "word": "男子东北自助扫码买到2元1个的西瓜",
+        "onboard_time": 1693298678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50472,
+        "num": 1702278,
+        "word": "医生给出开学健康锦囊",
+        "onboard_time": 1693299937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1676193,
+        "num": 1676193,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230960,
+        "num": 1410400,
+        "word": "司机把儿子送的父亲节礼物挂到现在",
+        "onboard_time": 1693302640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394890,
+        "num": 1394890,
+        "word": "宁安如梦",
+        "onboard_time": 1693302759,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170813,
+        "num": 1351628,
+        "word": "当代高中生有多勤俭节约",
+        "onboard_time": 1693303233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349123,
+        "num": 1349123,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1081300,
+        "num": 1081300,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1000571,
+        "num": 1000571,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2296189,
+        "num": 915136,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726581,
+        "num": 726581,
+        "word": "中国最高龄产妇盛海琳自曝被骗200多万",
+        "onboard_time": 1693305456,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723679,
+        "num": 723679,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643621,
+        "num": 643621,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 362558,
+        "num": 626763,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625917,
+        "num": 625917,
+        "word": "雪糕可以冷门不可以邪门",
+        "onboard_time": 1693302579,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 611884,
+        "num": 611884,
+        "word": "捉妖记肖战是群演",
+        "onboard_time": 1693305101,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604980,
+        "num": 604980,
+        "word": "祝绪丹一直这么显眼吗",
+        "onboard_time": 1693305398,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 563765,
+        "num": 563765,
+        "word": "上海40余人吃日料后上吐下泻",
+        "onboard_time": 1693301080,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602419,
+        "num": 525517,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473069,
+        "num": 473069,
+        "word": "王一博快告诉我们杨幂和杜华说什么了",
+        "onboard_time": 1693305518,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572495,
+        "num": 472028,
+        "word": "工业糖精",
+        "onboard_time": 1693305579,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464277,
+        "num": 464277,
+        "word": "杨幂称作为演员要自觉抵制天价片酬",
+        "onboard_time": 1693296577,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441724,
+        "num": 441724,
+        "word": "这就是体制内的休假",
+        "onboard_time": 1693306716,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358429,
+        "num": 358429,
+        "word": "林志颖朴灿烈同款外套",
+        "onboard_time": 1693306178,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346301,
+        "num": 346301,
+        "word": "真正喜欢猫咪的人开的店",
+        "onboard_time": 1693300303,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344335,
+        "num": 344335,
+        "word": "肖战三戏连播",
+        "onboard_time": 1693296697,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338898,
+        "num": 338898,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 321352,
+        "num": 321352,
+        "word": "Mate60pro",
+        "onboard_time": 1693305218,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262812,
+        "num": 319238,
+        "word": "弟弟开学前凌晨厕所灯补暑假作业",
+        "onboard_time": 1693302998,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 337725,
+        "num": 318532,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334212,
+        "num": 314197,
+        "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+        "onboard_time": 1693307078,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333277,
+        "num": 313392,
+        "word": "邓为新剧大婚路透图",
+        "onboard_time": 1693299937,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326999,
+        "num": 311547,
+        "word": "貌合神离的商业联姻",
+        "onboard_time": 1693306478,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309294,
+        "num": 309294,
+        "word": "文咏珊找到自己的戏路了",
+        "onboard_time": 1693304737,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290228,
+        "num": 290228,
+        "word": "刘诗诗美拉德风",
+        "onboard_time": 1693302640,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288171,
+        "num": 288171,
+        "word": "谁家男女主恋爱谈7次啊",
+        "onboard_time": 1693301977,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253806,
+        "num": 253806,
+        "word": "鬼灭之刃coser灭火",
+        "onboard_time": 1693303537,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 249136,
+        "num": 249136,
+        "word": "女生不结婚是什么体验",
+        "onboard_time": 1693300416,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242001,
+        "num": 242001,
+        "word": "河南安阳42死火灾调查报告",
+        "onboard_time": 1693300837,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240095,
+        "num": 240095,
+        "word": "南风知我意招商",
+        "onboard_time": 1693304317,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228766,
+        "num": 228766,
+        "word": "TF家族五周年",
+        "onboard_time": 1693307433,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214559,
+        "num": 214559,
+        "word": "福建人结婚的传统流水席",
+        "onboard_time": 1693306118,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213176,
+        "num": 213176,
+        "word": "孙阳回应和许光汉是大学校友",
+        "onboard_time": 1693302818,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199493,
+        "num": 199493,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197259,
+        "num": 197259,
+        "word": "路人镜头下的沈梦辰",
+        "onboard_time": 1693302579,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186189,
+        "num": 186189,
+        "word": "明日方舟中国国家地理联动",
+        "onboard_time": 1693306358,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184278,
+        "num": 184278,
+        "word": "超级小桀回应近期争议",
+        "onboard_time": 1693300358,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170041,
+        "num": 170041,
+        "word": "来自余华的写作建议",
+        "onboard_time": 1693306299,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146626,
+        "num": 163401,
+        "word": "锁骨的由来确实和锁有关",
+        "onboard_time": 1693303477,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建发展共同体#"
+    }
+  }
+}
