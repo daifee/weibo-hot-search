@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693316036168,
+  "endTime": 1693318543067,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1229166,
+      "num": 1229166,
+      "word": "科学家建议孕期不要吃这些",
+      "onboard_time": 1693316319,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1222454,
       "num": 478129,
       "word": "中国游客赴日意愿下降日本业界很担心",
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 959683,
+      "num": 959683,
+      "word": "华为",
+      "onboard_time": 1693309959,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 954524,
       "num": 954524,
       "word": "冯小刚夸虞书欣台词特别好",
@@ -681,6 +697,14 @@
       "onboard_time": 1693208617,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 875860,
+      "num": 606281,
+      "word": "李湘的履历",
+      "onboard_time": 1693317764,
+      "rank": 15,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 871772,
@@ -809,14 +833,6 @@
       "onboard_time": 1693216059,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 781094,
-      "num": 781094,
-      "word": "华为",
-      "onboard_time": 1693309959,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 777313,
@@ -1179,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621082,
+      "num": 621082,
+      "word": "张晚意田曦薇或将二搭古装",
+      "onboard_time": 1693316319,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617663,
       "num": 617663,
       "word": "微笑pasta现在看还是好甜",
@@ -1224,6 +1248,14 @@
       "word": "虞书欣清冷白玫瑰",
       "onboard_time": 1693221936,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 599910,
+      "num": 599910,
+      "word": "张新成这位是你嫂嫂",
+      "onboard_time": 1693312719,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558820,
+      "num": 537684,
+      "word": "年轻女生不要过度共情",
+      "onboard_time": 1693316802,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 558772,
       "num": 558772,
       "word": "你什么档次跟国宝一个飞机",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1693205256,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 555827,
-      "num": 555827,
-      "word": "张新成这位是你嫂嫂",
-      "onboard_time": 1693312719,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 555668,
@@ -1579,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494853,
+      "num": 494853,
+      "word": "马嘉祺回复徐佳莹孟慧圆",
+      "onboard_time": 1693316981,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 494609,
       "num": 494609,
       "word": "全性转版封神第一部",
@@ -1688,6 +1728,14 @@
       "word": "肖战开机杀青首映时间线",
       "onboard_time": 1693310979,
       "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462797,
+      "num": 462797,
+      "word": "吉克隽逸微指近2亿",
+      "onboard_time": 1693316564,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -2995,6 +3043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297267,
+      "num": 297267,
+      "word": "张颂文给应届毕业生的建议",
+      "onboard_time": 1693315662,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296550,
       "num": 296550,
       "word": "费翔代表封神参加威尼斯电影节",
@@ -3195,6 +3251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282205,
+      "num": 282205,
+      "word": "女乘客连衣裙开线地铁小姐姐缝合解围",
+      "onboard_time": 1693317704,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282078,
       "num": 282078,
       "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
@@ -3217,6 +3281,14 @@
       "onboard_time": 1693303477,
       "rank": 41,
       "category": "其它"
+    },
+    {
+      "raw_hot": 280297,
+      "num": 280297,
+      "word": "日本男篮",
+      "onboard_time": 1693315305,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 278807,
@@ -3441,14 +3513,6 @@
       "onboard_time": 1693239451,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261204,
-      "num": 261204,
-      "word": "张颂文给应届毕业生的建议",
-      "onboard_time": 1693315662,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 260126,
@@ -3883,6 +3947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226183,
+      "num": 226183,
+      "word": "天津硬核碳水大饼卷一切",
+      "onboard_time": 1693317944,
+      "rank": 42,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 226137,
       "num": 226137,
       "word": "侯雯元刑台摔落用膝盖支撑",
@@ -4019,6 +4091,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 214931,
+      "num": 214931,
+      "word": "任敏逛街生图",
+      "onboard_time": 1693318366,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213821,
       "num": 200399,
       "word": "孙阳为粉丝串手串",
@@ -4121,14 +4201,6 @@
       "onboard_time": 1693314106,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204493,
-      "num": 204493,
-      "word": "日本男篮",
-      "onboard_time": 1693315305,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 204089,
@@ -4315,6 +4387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197900,
+      "num": 197900,
+      "word": "最终幻想14玩家打造游戏百科全书",
+      "onboard_time": 1693317581,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197725,
       "num": 198302,
       "word": "2023年版标准地图上线",
@@ -4423,6 +4503,14 @@
       "num": 195240,
       "word": "长春电影节",
       "onboard_time": 1693217858,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194915,
+      "num": 194915,
+      "word": "一路朝阳",
+      "onboard_time": 1693316261,
       "rank": 49,
       "category": "影视"
     },
@@ -5505,6 +5593,14 @@
       "onboard_time": 1693249334,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 38770,
+      "num": 608795,
+      "word": "特警跳河堤骨折忍痛救下轻生男子",
+      "onboard_time": 1693317642,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38419,
