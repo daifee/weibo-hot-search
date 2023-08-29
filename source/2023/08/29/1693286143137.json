@@ -1,0 +1,410 @@
+{
+  "runTime": 1693286143137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1823709,
+        "num": 1823709,
+        "word": "学生趴桌午休1学期收费200",
+        "onboard_time": 1693279476,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1436961,
+        "num": 1436961,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 70109,
+        "num": 1249107,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1212360,
+        "num": 1212360,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 787157,
+        "num": 787157,
+        "word": "警察称自己接触的缅北电诈者95%是自愿",
+        "onboard_time": 1693284579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731791,
+        "num": 731791,
+        "word": "骄阳伴我定档",
+        "onboard_time": 1693275456,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617663,
+        "num": 617663,
+        "word": "微笑pasta现在看还是好甜",
+        "onboard_time": 1693283739,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 566922,
+        "num": 566922,
+        "word": "取消公摊面积合理吗",
+        "onboard_time": 1693278335,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549622,
+        "num": 549622,
+        "word": "王俊凯电影野孩子开通官博",
+        "onboard_time": 1693284637,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495484,
+        "num": 495484,
+        "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+        "onboard_time": 1693281578,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3093177,
+        "num": 493945,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893776,
+        "num": 492078,
+        "word": "王栎鑫 我不仅打呼还打人",
+        "onboard_time": 1693279355,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2305927,
+        "num": 490603,
+        "word": "胡歌 我对不起好多人",
+        "onboard_time": 1693264405,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762278,
+        "num": 488711,
+        "word": "博主收到日本公关邮件",
+        "onboard_time": 1693283500,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413163,
+        "num": 486794,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 14,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 639867,
+        "num": 483611,
+        "word": "女生高考结束当天车祸身亡肇事者发声",
+        "onboard_time": 1693285000,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 603740,
+        "num": 482127,
+        "word": "魏哲鸣183的身高170的脸",
+        "onboard_time": 1693284637,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481627,
+        "num": 481627,
+        "word": "董明珠自曝70岁没保养",
+        "onboard_time": 1693271016,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411277,
+        "num": 411277,
+        "word": "殷世航分享留学生活",
+        "onboard_time": 1693279777,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372422,
+        "num": 372422,
+        "word": "李兰迪说李慕嘉身上有莽撞的少年气",
+        "onboard_time": 1693284879,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824949,
+        "num": 371989,
+        "word": "日本饭店招牌歧视中国人博主当场报警",
+        "onboard_time": 1693275157,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378032,
+        "num": 371229,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363632,
+        "num": 363632,
+        "word": "奥本海默",
+        "onboard_time": 1693282298,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336529,
+        "num": 336529,
+        "word": "女娃漫不经心潦草作画成品惊艳",
+        "onboard_time": 1693284279,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336416,
+        "num": 336416,
+        "word": "为了吃螺蛳粉奶奶学会网购",
+        "onboard_time": 1693282298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317528,
+        "num": 317528,
+        "word": "宋亚轩王牌对王牌路透",
+        "onboard_time": 1693279295,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310717,
+        "num": 310717,
+        "word": "在毫不知情的情况下相亲了我的朋友",
+        "onboard_time": 1693281219,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303404,
+        "num": 303404,
+        "word": "张婧仪女大学生既视感",
+        "onboard_time": 1693284700,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 300571,
+        "num": 300571,
+        "word": "不要因为觉得妈妈可怜就想补偿她",
+        "onboard_time": 1693276234,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289262,
+        "num": 289262,
+        "word": "封神全员性转的吸引力",
+        "onboard_time": 1693285896,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292000,
+        "num": 288849,
+        "word": "工作多年后真正的炫耀",
+        "onboard_time": 1693285301,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287346,
+        "num": 287346,
+        "word": "玲娜贝儿中秋变装",
+        "onboard_time": 1693281758,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279453,
+        "num": 279453,
+        "word": "易烊千玺进组小小的我",
+        "onboard_time": 1693285959,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261767,
+        "num": 261767,
+        "word": "肖战盛阳年下感",
+        "onboard_time": 1693280074,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261518,
+        "num": 261518,
+        "word": "虞书欣理解的纯欲感",
+        "onboard_time": 1693279656,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 259890,
+        "num": 259890,
+        "word": "易烊千玺实体专",
+        "onboard_time": 1693281820,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257221,
+        "num": 257221,
+        "word": "黄奕版上错花轿嫁对郎剧照",
+        "onboard_time": 1693271616,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255116,
+        "num": 255116,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252694,
+        "num": 252694,
+        "word": "大爷晨练捡到80多万完璧归赵",
+        "onboard_time": 1693278576,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247986,
+        "num": 247986,
+        "word": "SMTOWN回应洪胜汉缺席音乐节目",
+        "onboard_time": 1693281820,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238637,
+        "num": 238637,
+        "word": "iPhone15或新增绿色",
+        "onboard_time": 1693274315,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "A股",
+        "onboard_time": 1693272936,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235877,
+        "num": 235877,
+        "word": "华为Mate60开售",
+        "onboard_time": 1693284342,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 232214,
+        "num": 232214,
+        "word": "医院回应男子遵医嘱吃24粒头孢后急救",
+        "onboard_time": 1693283322,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231637,
+        "num": 231637,
+        "word": "藤萍为李相夷深夜写番外",
+        "onboard_time": 1693281398,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226571,
+        "num": 226571,
+        "word": "中国游客赴日意愿下降日本业界很担心",
+        "onboard_time": 1693272577,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223179,
+        "num": 223179,
+        "word": "在山城citywalk有多窒息",
+        "onboard_time": 1693284101,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219813,
+        "num": 219813,
+        "word": "于适动态封面",
+        "onboard_time": 1693283981,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211536,
+        "num": 211536,
+        "word": "印尼巴厘海发生7.1级地震",
+        "onboard_time": 1693274616,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198817,
+        "num": 198817,
+        "word": "食困症的表现",
+        "onboard_time": 1693286078,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
