@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693319651199,
+  "endTime": 1693322247844,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3823281,
+      "num": 3823281,
+      "word": "华为",
+      "onboard_time": 1693309959,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 3233295,
       "num": 3233295,
       "word": "中纪委再公布5名内鬼",
@@ -57,6 +65,14 @@
       "onboard_time": 1693272634,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3024929,
+      "num": 606281,
+      "word": "李湘的履历",
+      "onboard_time": 1693317764,
+      "rank": 15,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 2858181,
@@ -89,14 +105,6 @@
       "onboard_time": 1693285420,
       "rank": 14,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 2281667,
-      "num": 606281,
-      "word": "李湘的履历",
-      "onboard_time": 1693317764,
-      "rank": 15,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 2258289,
@@ -208,14 +216,6 @@
       "word": "苹果15",
       "onboard_time": 1693297657,
       "rank": 39,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1760326,
-      "num": 1760326,
-      "word": "华为",
-      "onboard_time": 1693309959,
-      "rank": 8,
       "category": "科技"
     },
     {
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 928512,
+      "num": 928512,
+      "word": "中国生育成本居世界第二",
+      "onboard_time": 1693318604,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 925048,
       "num": 925048,
       "word": "女生高考结束当天车祸身亡肇事者发声",
@@ -427,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 825713,
+      "raw_hot": 837644,
       "num": 537684,
       "word": "年轻女生不要过度共情",
       "onboard_time": 1693316802,
@@ -555,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 687041,
+      "num": 478640,
+      "word": "张晚意的两个妹妹有点像啊",
+      "onboard_time": 1693321237,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684755,
       "num": 317191,
       "word": "黄奕版上错花轿嫁对郎剧照",
@@ -608,6 +624,14 @@
       "word": "警方通报足浴店故意伤害案",
       "onboard_time": 1693268018,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645467,
+      "num": 645467,
+      "word": "男孩吃饭结账差2元留下了新买的笔",
+      "onboard_time": 1693320103,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 429618,
+      "num": 429618,
+      "word": "婴儿频繁揉眼20多天医生夹出两条虫",
+      "onboard_time": 1693321481,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426647,
       "num": 426647,
       "word": "骄阳伴我兜兜转转版预告",
@@ -1243,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376156,
-      "num": 376156,
-      "word": "中国生育成本居世界第二",
-      "onboard_time": 1693318604,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375312,
       "num": 375312,
       "word": "鬼灭之刃coser灭火",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1693284879,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371505,
+      "num": 371505,
+      "word": "一诺",
+      "onboard_time": 1693321364,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 368453,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1693306178,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 357914,
+      "num": 357914,
+      "word": "齐天磊怎么舍得打李玉湖啊",
+      "onboard_time": 1693319862,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 357498,
@@ -1803,6 +1843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281985,
+      "num": 281985,
+      "word": "于适不经意间比了个心",
+      "onboard_time": 1693320822,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280697,
+      "num": 280697,
+      "word": "这是刚脱素入糊的四位家夫",
+      "onboard_time": 1693321962,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280357,
       "num": 280357,
       "word": "锁骨的由来确实和锁有关",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1693286677,
       "rank": 32,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 274215,
+      "num": 274215,
+      "word": "宁安如梦之狼来了",
+      "onboard_time": 1693321303,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 270958,
@@ -2163,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234557,
+      "num": 234557,
+      "word": "如果你年纪轻轻的就不懂得约束自己",
+      "onboard_time": 1693321003,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 234161,
       "num": 234161,
       "word": "张晚意小孩版光头强",
@@ -2243,6 +2315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226435,
+      "num": 226435,
+      "word": "NCT演唱会上的美男三人组饭拍",
+      "onboard_time": 1693321424,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226183,
       "num": 226183,
       "word": "天津硬核碳水大饼卷一切",
@@ -2296,6 +2376,14 @@
       "word": "我想让我爸能亲口说出自己的名字",
       "onboard_time": 1693286496,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215445,
+      "num": 215445,
+      "word": "男孩汽车出入口玩耍被撞身亡",
+      "onboard_time": 1693322023,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2401,6 +2489,14 @@
       "onboard_time": 1693286737,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202082,
+      "num": 202082,
+      "word": "马嘉祺感谢EP制作团队",
+      "onboard_time": 1693321003,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 201040,
@@ -2515,6 +2611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186835,
+      "num": 186835,
+      "word": "被东北路边摊的肉包饭馋到",
+      "onboard_time": 1693320222,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186812,
       "num": 192699,
       "word": "当你觉得自己不受重视时",
@@ -2555,6 +2659,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 185100,
+      "num": 185100,
+      "word": "这就是海星幼体的样子",
+      "onboard_time": 1693321662,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181609,
       "num": 1515221,
       "word": "当代高中生有多勤俭节约",
@@ -2569,6 +2681,14 @@
       "onboard_time": 1693215996,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181272,
+      "num": 181272,
+      "word": "极光哭了",
+      "onboard_time": 1693320039,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 180548,
