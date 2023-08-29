@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693294455443,
+  "endTime": 1693297286739,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -123,6 +123,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 2122259,
+      "num": 459077,
+      "word": "杰尼斯承认喜多川性侵",
+      "onboard_time": 1693295499,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2017418,
       "num": 2017418,
       "word": "香港小姐10号 意难平",
@@ -193,6 +201,14 @@
       "onboard_time": 1693283919,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1841062,
+      "num": 459046,
+      "word": "中纪委再公布5名内鬼",
+      "onboard_time": 1693295136,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1817911,
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1189162,
+      "num": 459019,
+      "word": "李湘否认在伦敦有房产",
+      "onboard_time": 1693295016,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1162747,
       "num": 1162747,
       "word": "谢娜没和张杰合照是不是得洗碗",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 1121050,
-      "num": 365653,
+      "num": 458955,
       "word": "小S二女儿Lily状态",
       "onboard_time": 1693291656,
       "rank": 20,
@@ -449,6 +473,14 @@
       "onboard_time": 1693236815,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 993506,
+      "num": 458960,
+      "word": "年仅16岁的小女孩做了人流",
+      "onboard_time": 1693294296,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 968700,
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 749827,
-      "num": 375126,
+      "num": 458941,
       "word": "张雨绮28岁到35岁颜值变化",
       "onboard_time": 1693292375,
       "rank": 16,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 746373,
-      "num": 367473,
+      "num": 434456,
       "word": "为什么甲状腺癌爱盯上年轻人",
       "onboard_time": 1693287101,
       "rank": 20,
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 537360,
-      "num": 367581,
+      "num": 527108,
       "word": "五月天强实名",
       "onboard_time": 1693293814,
       "rank": 18,
@@ -1227,6 +1259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 515670,
+      "num": 515670,
+      "word": "迪丽热巴的三万水狮重回安乐寨",
+      "onboard_time": 1693293275,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 514337,
       "num": 514337,
       "word": "周琦罚球三不沾",
@@ -1236,7 +1276,7 @@
     },
     {
       "raw_hot": 511026,
-      "num": 360161,
+      "num": 433514,
       "word": "王劲松王一博大手牵小手",
       "onboard_time": 1693293336,
       "rank": 23,
@@ -1331,6 +1371,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 477330,
+      "num": 477330,
+      "word": "一碗面把我留在了小城市",
+      "onboard_time": 1693285601,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 476565,
       "num": 476565,
       "word": "谁给胡兵投的票",
@@ -1363,12 +1411,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 468497,
-      "num": 468497,
-      "word": "一碗面把我留在了小城市",
-      "onboard_time": 1693285601,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 459077,
+      "num": 459077,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693292313,
+      "rank": 28,
+      "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 458915,
+      "num": 458915,
+      "word": "杨幂称作为演员要自觉抵制天价片酬",
+      "onboard_time": 1693296577,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 458875,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1693186656,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 455480,
+      "num": 455480,
+      "word": "肖战三戏连播",
+      "onboard_time": 1693296697,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 454307,
@@ -1489,14 +1553,6 @@
       "onboard_time": 1693151017,
       "rank": 24,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 436731,
-      "num": 436731,
-      "word": "迪丽热巴的三万水狮重回安乐寨",
-      "onboard_time": 1693293275,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 436685,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1693178304,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391041,
+      "num": 391041,
+      "word": "玱玹的乡下表弟玱杰",
+      "onboard_time": 1693294594,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 385867,
@@ -2065,14 +2129,6 @@
       "onboard_time": 1693138835,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 335530,
-      "num": 335530,
-      "word": "逃出大英博物馆",
-      "onboard_time": 1693292313,
-      "rank": 28,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 335016,
@@ -2571,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280763,
+      "num": 280763,
+      "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
+      "onboard_time": 1693295915,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278807,
       "num": 273331,
       "word": "恋人来来去去 朋友永远是朋友",
@@ -2657,6 +2721,14 @@
       "onboard_time": 1693239572,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269264,
+      "num": 269264,
+      "word": "有的人上大学就已拼尽全力",
+      "onboard_time": 1693294417,
+      "rank": 49,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 267312,
@@ -2897,6 +2969,14 @@
       "onboard_time": 1693217678,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242159,
+      "num": 242159,
+      "word": "秦皇岛卢龙县2.3级地震",
+      "onboard_time": 1693296337,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241167,
@@ -3211,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219258,
+      "num": 458973,
+      "word": "OPPO首发三摄小折叠",
+      "onboard_time": 1693295556,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 219060,
       "num": 219060,
       "word": "蓝桉的公孙离",
@@ -3297,6 +3385,14 @@
       "onboard_time": 1693267656,
       "rank": 38,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 205731,
+      "num": 192310,
+      "word": "孙阳为粉丝串手串",
+      "onboard_time": 1693296037,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205552,
@@ -3683,14 +3779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186896,
-      "num": 192861,
-      "word": "年仅16岁的小女孩做了人流",
-      "onboard_time": 1693294296,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186812,
       "num": 192699,
       "word": "当你觉得自己不受重视时",
@@ -3867,6 +3955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175036,
+      "num": 175036,
+      "word": "吉克隽逸又在健身房被偶遇",
+      "onboard_time": 1693295499,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174902,
       "num": 174902,
       "word": "男子洗小龙虾被扎伤吃了消炎药仍去世",
@@ -3971,6 +4067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161987,
+      "num": 459014,
+      "word": "舒淇给自己拍的大片",
+      "onboard_time": 1693296217,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161566,
       "num": 161566,
       "word": "如何让儿子在学校社死",
@@ -4043,12 +4147,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154769,
+      "num": 154769,
+      "word": "医学生路过为残疾流浪猫正骨",
+      "onboard_time": 1693295796,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153530,
       "num": 153530,
       "word": "明日方舟维纳小姐令人捉摸不透",
       "onboard_time": 1693199617,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153081,
+      "num": 153081,
+      "word": "把领导心爱的花浇死了",
+      "onboard_time": 1693296877,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 152930,
@@ -4065,14 +4185,6 @@
       "onboard_time": 1693205795,
       "rank": 39,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 152418,
-      "num": 171998,
-      "word": "有的人上大学就已拼尽全力",
-      "onboard_time": 1693294417,
-      "rank": 49,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 152307,
@@ -4145,6 +4257,14 @@
       "onboard_time": 1693202014,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145413,
+      "num": 145413,
+      "word": "我们只对国王那么干",
+      "onboard_time": 1693295915,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 144823,
@@ -4459,6 +4579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64816,
+      "num": 142670,
+      "word": "李毅村超比赛进球",
+      "onboard_time": 1693296276,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64804,
       "num": 120019,
       "word": "张钧甯说完英语说德语",
@@ -4481,6 +4609,14 @@
       "onboard_time": 1693170733,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 60013,
+      "num": 459036,
+      "word": "论最后一名新生报到的最高仪式感",
+      "onboard_time": 1693296098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51634,
@@ -4587,20 +4723,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 6134,
+      "num": 613878,
+      "word": "亚运吉祥物图案的红绿灯",
+      "onboard_time": 1693282718,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5992,
       "num": 1715279,
       "word": "多渠道多形式讲好新时代新疆故事",
       "onboard_time": 1693221217,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5399,
-      "num": 322215,
-      "word": "亚运吉祥物图案的红绿灯",
-      "onboard_time": 1693282718,
-      "rank": 30,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
