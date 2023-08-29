@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693290892051,
+  "endTime": 1693293331371,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -25,6 +25,14 @@
       "onboard_time": 1693280435,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4413381,
+      "num": 2114778,
+      "word": "你删我出品我删你联合出品",
+      "onboard_time": 1693289734,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 3073455,
@@ -115,14 +123,6 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 2114778,
-      "num": 2114778,
-      "word": "你删我出品我删你联合出品",
-      "onboard_time": 1693289734,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2017418,
       "num": 2017418,
       "word": "香港小姐10号 意难平",
@@ -185,6 +185,14 @@
       "onboard_time": 1693279476,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1845400,
+      "num": 1845400,
+      "word": "华为Mate60",
+      "onboard_time": 1693283919,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1817911,
@@ -355,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1212360,
-      "num": 1212360,
-      "word": "华为Mate60",
-      "onboard_time": 1693283919,
-      "rank": 3,
-      "category": "科技"
+      "raw_hot": 1206289,
+      "num": 562092,
+      "word": "给徐良投票白投了",
+      "onboard_time": 1693288777,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1162747,
@@ -387,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1111616,
-      "num": 562092,
-      "word": "给徐良投票白投了",
-      "onboard_time": 1693288777,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 1121050,
+      "num": 351385,
+      "word": "小S二女儿Lily状态",
+      "onboard_time": 1693291656,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1097542,
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 871772,
+      "num": 871772,
+      "word": "骑友大哥这回认出来吴磊了",
+      "onboard_time": 1693289855,
+      "rank": 29,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 870721,
       "num": 870721,
       "word": "郭台铭宣布参选",
@@ -577,6 +593,14 @@
       "onboard_time": 1693227999,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 821564,
+      "num": 499486,
+      "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+      "onboard_time": 1693288055,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808935,
@@ -761,14 +785,6 @@
       "onboard_time": 1693234239,
       "rank": 6,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 697839,
-      "num": 499486,
-      "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
-      "onboard_time": 1693288055,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691641,
@@ -1075,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 555315,
+      "num": 355527,
+      "word": "张雨绮28岁到35岁颜值变化",
+      "onboard_time": 1693292375,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552771,
       "num": 309151,
       "word": "张晚意原生家庭幸福的不演",
@@ -1315,14 +1339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 459787,
-      "num": 459787,
-      "word": "骑友大哥这回认出来吴磊了",
-      "onboard_time": 1693289855,
-      "rank": 29,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 458875,
       "num": 458875,
       "word": "杨紫嗑cp舞到正主面前",
@@ -1371,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448337,
+      "num": 381027,
+      "word": "网友给迪丽热巴做的AI妆容",
+      "onboard_time": 1693290214,
+      "rank": 19,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 448090,
       "num": 448090,
       "word": "工作多年后真正的炫耀",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1693193981,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 445374,
+      "num": 445374,
+      "word": "一碗面把我留在了小城市",
+      "onboard_time": 1693285601,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 445133,
@@ -1595,12 +1627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399586,
-      "num": 399586,
-      "word": "一碗面把我留在了小城市",
-      "onboard_time": 1693285601,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 399654,
+      "num": 399654,
+      "word": "真实的商战",
+      "onboard_time": 1693289375,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 396957,
@@ -1683,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381027,
-      "num": 381027,
-      "word": "网友给迪丽热巴做的AI妆容",
-      "onboard_time": 1693290214,
-      "rank": 19,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 380285,
       "num": 335134,
       "word": "南风知我意预计Q4播出",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1693149636,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375603,
+      "num": 348570,
+      "word": "纷玩岛退票",
+      "onboard_time": 1693292135,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 372422,
@@ -1897,6 +1929,14 @@
       "onboard_time": 1693237474,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347949,
+      "num": 347949,
+      "word": "一周不洗脸什么体验",
+      "onboard_time": 1693290153,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 345959,
@@ -2187,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305563,
+      "num": 305563,
+      "word": "孙阳扫楼给男员工做美甲",
+      "onboard_time": 1693292557,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303404,
       "num": 303404,
       "word": "张婧仪女大学生既视感",
@@ -2291,14 +2339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296091,
-      "num": 244789,
-      "word": "一周不洗脸什么体验",
-      "onboard_time": 1693290153,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 295932,
       "num": 295932,
       "word": "女警朝马路对面多看一眼救回一命",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1693198479,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292735,
+      "num": 292735,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693292313,
+      "rank": 28,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 291707,
@@ -2531,6 +2579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271114,
+      "num": 271114,
+      "word": "我跟你们有钱人拼了",
+      "onboard_time": 1693292375,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270778,
       "num": 270778,
       "word": "无与伦比的美丽",
@@ -2555,6 +2611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270303,
+      "num": 270303,
+      "word": "杨幂参加广电座谈会",
+      "onboard_time": 1693292857,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269690,
       "num": 269690,
       "word": "马嘉祺说会给大家创造更多见面的机会",
@@ -2568,6 +2632,14 @@
       "word": "网剧星辰令",
       "onboard_time": 1693287159,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 266608,
+      "num": 266608,
+      "word": "甄嬛的gap year",
+      "onboard_time": 1693291296,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -2859,6 +2931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236773,
+      "num": 236773,
+      "word": "我看七时吉祥vs网友看七时吉祥",
+      "onboard_time": 1693290333,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236383,
       "num": 236383,
       "word": "张杰鸟巢收官哭了",
@@ -2881,6 +2961,14 @@
       "onboard_time": 1693152335,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234161,
+      "num": 234161,
+      "word": "张晚意小孩版光头强",
+      "onboard_time": 1693291236,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 233901,
@@ -3027,14 +3115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222603,
-      "num": 222603,
-      "word": "真实的商战",
-      "onboard_time": 1693289375,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222250,
       "num": 222250,
       "word": "procreate笔刷分享",
@@ -3123,20 +3203,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 214743,
+      "num": 354216,
+      "word": "新一代OPPO小折叠发布",
+      "onboard_time": 1693291777,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
       "onboard_time": 1693181495,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210707,
-      "num": 210707,
-      "word": "我看七时吉祥vs网友看七时吉祥",
-      "onboard_time": 1693290333,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 210674,
@@ -3161,6 +3241,14 @@
       "onboard_time": 1693186899,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207858,
+      "num": 207858,
+      "word": "i人的愿望都是逃离城市吧",
+      "onboard_time": 1693292916,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 206789,
@@ -3427,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195552,
+      "num": 195552,
+      "word": "童话版封神往事",
+      "onboard_time": 1693292737,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195490,
       "num": 195490,
       "word": "李凯尔终于进球了",
@@ -3587,6 +3683,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 185086,
+      "num": 185086,
+      "word": "迪丽热巴的三万水狮重回安乐寨",
+      "onboard_time": 1693293275,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184938,
       "num": 184938,
       "word": "杨超越主打一个不服输",
@@ -3641,6 +3745,14 @@
       "onboard_time": 1693177884,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180370,
+      "num": 180370,
+      "word": "50岁老师迎新遇7名昔日学生带娃报到",
+      "onboard_time": 1693292014,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 179525,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1693293331371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1845400,
+        "num": 1845400,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 871772,
+        "num": 871772,
+        "word": "骑友大哥这回认出来吴磊了",
+        "onboard_time": 1693289855,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 26356,
+        "num": 688969,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4413381,
+        "num": 681648,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667632,
+        "num": 667632,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 477713,
+        "num": 477713,
+        "word": "王一博参加广电职业道德建设座谈会",
+        "onboard_time": 1693288655,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445374,
+        "num": 445374,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 417964,
+        "num": 417964,
+        "word": "西安五月天",
+        "onboard_time": 1693288537,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399654,
+        "num": 399654,
+        "word": "真实的商战",
+        "onboard_time": 1693289375,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361713,
+        "num": 361713,
+        "word": "学生趴桌午休1学期收费200",
+        "onboard_time": 1693279476,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1466166,
+        "num": 360856,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1206289,
+        "num": 360651,
+        "word": "给徐良投票白投了",
+        "onboard_time": 1693288777,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821564,
+        "num": 358856,
+        "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+        "onboard_time": 1693288055,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816147,
+        "num": 358055,
+        "word": "警察称自己接触的缅北电诈者95%是自愿",
+        "onboard_time": 1693284579,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277624,
+        "num": 357320,
+        "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+        "onboard_time": 1693281578,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612928,
+        "num": 356779,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555315,
+        "num": 355527,
+        "word": "张雨绮28岁到35岁颜值变化",
+        "onboard_time": 1693292375,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214743,
+        "num": 354216,
+        "word": "新一代OPPO小折叠发布",
+        "onboard_time": 1693291777,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 596361,
+        "num": 353793,
+        "word": "胡歌 我对不起好多人",
+        "onboard_time": 1693264405,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457785,
+        "num": 352810,
+        "word": "女生高考结束当天车祸身亡肇事者发声",
+        "onboard_time": 1693285000,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1121050,
+        "num": 351385,
+        "word": "小S二女儿Lily状态",
+        "onboard_time": 1693291656,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643420,
+        "num": 350625,
+        "word": "为什么甲状腺癌爱盯上年轻人",
+        "onboard_time": 1693287101,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 448337,
+        "num": 349582,
+        "word": "网友给迪丽热巴做的AI妆容",
+        "onboard_time": 1693290214,
+        "rank": 22,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 375603,
+        "num": 348570,
+        "word": "纷玩岛退票",
+        "onboard_time": 1693292135,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347949,
+        "num": 347949,
+        "word": "一周不洗脸什么体验",
+        "onboard_time": 1693290153,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334995,
+        "num": 334995,
+        "word": "易烊千玺进组小小的我",
+        "onboard_time": 1693285959,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314316,
+        "num": 314316,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305563,
+        "num": 305563,
+        "word": "孙阳扫楼给男员工做美甲",
+        "onboard_time": 1693292557,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292735,
+        "num": 292735,
+        "word": "逃出大英博物馆",
+        "onboard_time": 1693292313,
+        "rank": 28,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 271744,
+        "num": 271744,
+        "word": "邓为金冠红发带造型",
+        "onboard_time": 1693287336,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271114,
+        "num": 271114,
+        "word": "我跟你们有钱人拼了",
+        "onboard_time": 1693292375,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270303,
+        "num": 270303,
+        "word": "杨幂参加广电座谈会",
+        "onboard_time": 1693292857,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266608,
+        "num": 266608,
+        "word": "甄嬛的gap year",
+        "onboard_time": 1693291296,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260165,
+        "num": 260165,
+        "word": "SM需要自己的秦始皇",
+        "onboard_time": 1693288417,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236773,
+        "num": 236773,
+        "word": "我看七时吉祥vs网友看七时吉祥",
+        "onboard_time": 1693290333,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235339,
+        "num": 235339,
+        "word": "上班真的很需要钝感力",
+        "onboard_time": 1693287697,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234161,
+        "num": 234161,
+        "word": "张晚意小孩版光头强",
+        "onboard_time": 1693291236,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226631,
+        "num": 226631,
+        "word": "魏哲鸣183的身高170的脸",
+        "onboard_time": 1693284637,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224448,
+        "num": 224448,
+        "word": "南方人的饭量普遍很小吗",
+        "onboard_time": 1693288957,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207858,
+        "num": 207858,
+        "word": "i人的愿望都是逃离城市吧",
+        "onboard_time": 1693292916,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224450,
+        "num": 204879,
+        "word": "陈奕迅上海演唱会",
+        "onboard_time": 1693290214,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200561,
+        "num": 200561,
+        "word": "坏了 让这小子吃到真的了",
+        "onboard_time": 1693288175,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195552,
+        "num": 195552,
+        "word": "童话版封神往事",
+        "onboard_time": 1693292737,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187348,
+        "num": 187348,
+        "word": "王栎鑫 我不仅打呼还打人",
+        "onboard_time": 1693279355,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185086,
+        "num": 185086,
+        "word": "迪丽热巴的三万水狮重回安乐寨",
+        "onboard_time": 1693293275,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180591,
+        "num": 180591,
+        "word": "iPhone15或新增绿色",
+        "onboard_time": 1693274315,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180370,
+        "num": 180370,
+        "word": "50岁老师迎新遇7名昔日学生带娃报到",
+        "onboard_time": 1693292014,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179809,
+        "num": 179809,
+        "word": "大爷晨练捡到80多万完璧归赵",
+        "onboard_time": 1693278576,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171748,
+        "num": 171748,
+        "word": "博主收到日本公关邮件",
+        "onboard_time": 1693283500,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159132,
+        "num": 159132,
+        "word": "华为Mate60开售",
+        "onboard_time": 1693284342,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}

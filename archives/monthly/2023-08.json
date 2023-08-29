@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693290892051,
+  "endTime": 1693293331371,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -369,6 +369,14 @@
       "onboard_time": 1692920858,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4413381,
+      "num": 2114778,
+      "word": "你删我出品我删你联合出品",
+      "onboard_time": 1693289734,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 4382297,
@@ -2835,14 +2843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2114778,
-      "num": 2114778,
-      "word": "你删我出品我删你联合出品",
-      "onboard_time": 1693289734,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2113434,
       "num": 2113434,
       "word": "微信小绿书",
@@ -3841,6 +3841,14 @@
       "onboard_time": 1692340474,
       "rank": 0,
       "category": "综艺,影视"
+    },
+    {
+      "raw_hot": 1845400,
+      "num": 1845400,
+      "word": "华为Mate60",
+      "onboard_time": 1693283919,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1845351,
@@ -8147,14 +8155,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 1212360,
-      "num": 1212360,
-      "word": "华为Mate60",
-      "onboard_time": 1693283919,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1211270,
       "num": 4543041,
       "word": "高校1.31亿科研经费成果转化率为0",
@@ -8217,6 +8217,14 @@
       "onboard_time": 1692077078,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1206289,
+      "num": 562092,
+      "word": "给徐良投票白投了",
+      "onboard_time": 1693288777,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1206086,
@@ -9155,6 +9163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1121050,
+      "num": 351385,
+      "word": "小S二女儿Lily状态",
+      "onboard_time": 1693291656,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1120183,
       "num": 370221,
       "word": "易烊千玺西安高铁到达路透",
@@ -9225,14 +9241,6 @@
       "onboard_time": 1692073659,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1111616,
-      "num": 562092,
-      "word": "给徐良投票白投了",
-      "onboard_time": 1693288777,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1111553,
@@ -12947,6 +12955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 871772,
+      "num": 871772,
+      "word": "骑友大哥这回认出来吴磊了",
+      "onboard_time": 1693289855,
+      "rank": 29,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 871640,
       "num": 871640,
       "word": "周杰伦也没想到这是菊花台",
@@ -14033,6 +14049,14 @@
       "onboard_time": 1692800738,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 821564,
+      "num": 499486,
+      "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+      "onboard_time": 1693288055,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821392,
@@ -17657,14 +17681,6 @@
       "onboard_time": 1693234239,
       "rank": 6,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 697839,
-      "num": 499486,
-      "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
-      "onboard_time": 1693288055,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697752,
@@ -23563,6 +23579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555315,
+      "num": 355527,
+      "word": "张雨绮28岁到35岁颜值变化",
+      "onboard_time": 1693292375,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555271,
       "num": 555271,
       "word": "刘宇宁回应歌手转型演员",
@@ -29227,14 +29251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 459787,
-      "num": 459787,
-      "word": "骑友大哥这回认出来吴磊了",
-      "onboard_time": 1693289855,
-      "rank": 29,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 459635,
       "num": 459635,
       "word": "ChatGPT用aespa Karina作的6行诗",
@@ -30099,6 +30115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 448337,
+      "num": 381027,
+      "word": "网友给迪丽热巴做的AI妆容",
+      "onboard_time": 1693290214,
+      "rank": 19,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 448165,
       "num": 448165,
       "word": "文俊辉直播",
@@ -30329,6 +30353,14 @@
       "onboard_time": 1692507518,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445374,
+      "num": 445374,
+      "word": "一碗面把我留在了小城市",
+      "onboard_time": 1693285601,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 445258,
@@ -33851,12 +33883,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 399586,
-      "num": 399586,
-      "word": "一碗面把我留在了小城市",
-      "onboard_time": 1693285601,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 399654,
+      "num": 399654,
+      "word": "真实的商战",
+      "onboard_time": 1693289375,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 399483,
@@ -35435,14 +35467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381027,
-      "num": 381027,
-      "word": "网友给迪丽热巴做的AI妆容",
-      "onboard_time": 1693290214,
-      "rank": 19,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 381021,
       "num": 381021,
       "word": "吉克隽逸到底有多少美甲",
@@ -35913,6 +35937,14 @@
       "onboard_time": 1691814097,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375603,
+      "num": 348570,
+      "word": "纷玩岛退票",
+      "onboard_time": 1693292135,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 375490,
@@ -38593,6 +38625,14 @@
       "onboard_time": 1693237474,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347949,
+      "num": 347949,
+      "word": "一周不洗脸什么体验",
+      "onboard_time": 1693290153,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 347945,
@@ -42875,6 +42915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305563,
+      "num": 305563,
+      "word": "孙阳扫楼给男员工做美甲",
+      "onboard_time": 1693292557,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305561,
       "num": 305561,
       "word": "与檀健次共度七夕",
@@ -44059,14 +44107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296091,
-      "num": 244789,
-      "word": "一周不洗脸什么体验",
-      "onboard_time": 1693290153,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 295932,
       "num": 295932,
       "word": "女警朝马路对面多看一眼救回一命",
@@ -44569,6 +44609,14 @@
       "onboard_time": 1691025334,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292735,
+      "num": 292735,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693292313,
+      "rank": 28,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 292570,
@@ -47523,6 +47571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271114,
+      "num": 271114,
+      "word": "我跟你们有钱人拼了",
+      "onboard_time": 1693292375,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271000,
       "num": 271000,
       "word": "赵丽颖吃货属性藏不住了",
@@ -47633,6 +47689,14 @@
       "onboard_time": 1692871729,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 270303,
+      "num": 270303,
+      "word": "杨幂参加广电座谈会",
+      "onboard_time": 1693292857,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270259,
@@ -48105,6 +48169,14 @@
       "onboard_time": 1692247178,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266608,
+      "num": 266608,
+      "word": "甄嬛的gap year",
+      "onboard_time": 1693291296,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 266535,
@@ -52435,6 +52507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236773,
+      "num": 236773,
+      "word": "我看七时吉祥vs网友看七时吉祥",
+      "onboard_time": 1693290333,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236757,
       "num": 238089,
       "word": "APP推送能不能别假装来信",
@@ -52961,6 +53041,14 @@
       "onboard_time": 1690984659,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234161,
+      "num": 234161,
+      "word": "张晚意小孩版光头强",
+      "onboard_time": 1693291236,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 233942,
@@ -54779,14 +54867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222603,
-      "num": 222603,
-      "word": "真实的商战",
-      "onboard_time": 1693289375,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222536,
       "num": 222536,
       "word": "中国女排U21世锦赛夺冠",
@@ -56275,6 +56355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214743,
+      "num": 354216,
+      "word": "新一代OPPO小折叠发布",
+      "onboard_time": 1693291777,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 214668,
       "num": 214668,
       "word": "张杰演唱会男女逆战pk",
@@ -57059,14 +57147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210707,
-      "num": 210707,
-      "word": "我看七时吉祥vs网友看七时吉祥",
-      "onboard_time": 1693290333,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210703,
       "num": 210703,
       "word": "Ale单杀Scout",
@@ -57825,6 +57905,14 @@
       "onboard_time": 1691900256,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207858,
+      "num": 207858,
+      "word": "i人的愿望都是逃离城市吧",
+      "onboard_time": 1693292916,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 207797,
@@ -61475,6 +61563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195552,
+      "num": 195552,
+      "word": "童话版封神往事",
+      "onboard_time": 1693292737,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195508,
       "num": 195508,
       "word": "檀健次早期这钱不好挣啊",
@@ -64355,6 +64451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185086,
+      "num": 185086,
+      "word": "迪丽热巴的三万水狮重回安乐寨",
+      "onboard_time": 1693293275,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184980,
       "num": 226032,
       "word": "浙江队",
@@ -65065,6 +65169,14 @@
       "onboard_time": 1692774214,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 180370,
+      "num": 180370,
+      "word": "50岁老师迎新遇7名昔日学生带娃报到",
+      "onboard_time": 1693292014,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180354,
