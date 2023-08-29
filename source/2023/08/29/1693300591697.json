@@ -1,0 +1,410 @@
+{
+  "runTime": 1693300591697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3233295,
+        "num": 3233295,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2071169,
+        "num": 2071169,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21919,
+        "num": 1732610,
+        "word": "金砖扩员顺应了历史发展潮流",
+        "onboard_time": 1693300177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2698482,
+        "num": 1638188,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1531181,
+        "num": 1531181,
+        "word": "杨幂称作为演员要自觉抵制天价片酬",
+        "onboard_time": 1693296577,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 981989,
+        "num": 981989,
+        "word": "肖战三戏连播",
+        "onboard_time": 1693296697,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1544473,
+        "num": 976918,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 954086,
+        "num": 954086,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519222,
+        "num": 519222,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 507240,
+        "num": 507240,
+        "word": "Lisa舞台着装",
+        "onboard_time": 1693298916,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1692369,
+        "num": 506714,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832747,
+        "num": 500499,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734308,
+        "num": 496265,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 490637,
+        "num": 490637,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 243353,
+        "num": 401160,
+        "word": "喀什巴楚县4.6级地震",
+        "onboard_time": 1693298198,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526013,
+        "num": 399528,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392577,
+        "num": 392577,
+        "word": "给徐良投票白投了",
+        "onboard_time": 1693288777,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386166,
+        "num": 386166,
+        "word": "骑友大哥这回认出来吴磊了",
+        "onboard_time": 1693289855,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 352196,
+        "num": 352196,
+        "word": "男子东北自助扫码买到2元1个的西瓜",
+        "onboard_time": 1693298678,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323398,
+        "num": 323398,
+        "word": "中超公司董事长刘军被调查",
+        "onboard_time": 1693299339,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 361782,
+        "num": 322743,
+        "word": "小S二女儿Lily状态",
+        "onboard_time": 1693291656,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342611,
+        "num": 320054,
+        "word": "王一博用无名的文件袋",
+        "onboard_time": 1693298616,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333834,
+        "num": 319814,
+        "word": "为什么甲状腺癌爱盯上年轻人",
+        "onboard_time": 1693287101,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 317142,
+        "num": 317142,
+        "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+        "onboard_time": 1693288055,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306344,
+        "num": 306344,
+        "word": "把领导心爱的花浇死了",
+        "onboard_time": 1693296877,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309389,
+        "num": 303199,
+        "word": "五月天强实名",
+        "onboard_time": 1693293814,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293721,
+        "num": 293721,
+        "word": "邓为新剧大婚路透图",
+        "onboard_time": 1693299937,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284713,
+        "num": 284713,
+        "word": "小事说不停 大事拎不清",
+        "onboard_time": 1693299220,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 262622,
+        "num": 262622,
+        "word": "女生高考结束当天车祸身亡肇事者发声",
+        "onboard_time": 1693285000,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 253288,
+        "num": 253288,
+        "word": "玱玹的乡下表弟玱杰",
+        "onboard_time": 1693294594,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396114,
+        "num": 248415,
+        "word": "为什么重庆火锅锅底要加冰",
+        "onboard_time": 1693299577,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243353,
+        "num": 243353,
+        "word": "张雨绮28岁到35岁颜值变化",
+        "onboard_time": 1693292375,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210755,
+        "num": 226927,
+        "word": "医院减重门诊挤满了瘦女孩",
+        "onboard_time": 1693300060,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216962,
+        "num": 216962,
+        "word": "王劲松王一博大手牵小手",
+        "onboard_time": 1693293336,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213984,
+        "num": 213984,
+        "word": "王鹤棣狼尾",
+        "onboard_time": 1693300060,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210613,
+        "num": 210613,
+        "word": "孙阳叫宝贝",
+        "onboard_time": 1693297718,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208334,
+        "num": 208334,
+        "word": "超级小桀回应近期争议",
+        "onboard_time": 1693300358,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204010,
+        "num": 204010,
+        "word": "逃出大英博物馆",
+        "onboard_time": 1693292313,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194776,
+        "num": 194776,
+        "word": "有的人上大学就已拼尽全力",
+        "onboard_time": 1693294417,
+        "rank": 38,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 193762,
+        "num": 193762,
+        "word": "秦皇岛卢龙县2.3级地震",
+        "onboard_time": 1693296337,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182741,
+        "num": 193721,
+        "word": "真正喜欢猫咪的人开的店",
+        "onboard_time": 1693300303,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171178,
+        "num": 193679,
+        "word": "迪丽热巴的三万水狮重回安乐寨",
+        "onboard_time": 1693293275,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165789,
+        "num": 193659,
+        "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
+        "onboard_time": 1693295915,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160065,
+        "num": 193573,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157610,
+        "num": 193556,
+        "word": "易烊千玺进组小小的我",
+        "onboard_time": 1693285959,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152877,
+        "num": 193516,
+        "word": "王栎鑫 我不仅打呼还打人",
+        "onboard_time": 1693279355,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142758,
+        "num": 193458,
+        "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+        "onboard_time": 1693281578,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128589,
+        "num": 193393,
+        "word": "女生不结婚是什么体验",
+        "onboard_time": 1693300416,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125563,
+        "num": 193352,
+        "word": "论最后一名新生报到的最高仪式感",
+        "onboard_time": 1693296098,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124501,
+        "num": 193317,
+        "word": "警察称自己接触的缅北电诈者95%是自愿",
+        "onboard_time": 1693284579,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市建设必须把让人民宜居安居放在首位#"
+    }
+  }
+}

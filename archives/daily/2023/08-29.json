@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693298063894,
+  "endTime": 1693300591697,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3233295,
+      "num": 3233295,
+      "word": "中纪委再公布5名内鬼",
+      "onboard_time": 1693295136,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 3066670,
       "num": 2974348,
       "word": "日本正采取卑劣手段对中国倒打一耙",
@@ -51,20 +59,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 2182315,
-      "num": 459046,
-      "word": "中纪委再公布5名内鬼",
-      "onboard_time": 1693295136,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 2147035,
-      "num": 459077,
+      "num": 506714,
       "word": "杰尼斯承认喜多川性侵",
       "onboard_time": 1693295499,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2071169,
+      "num": 2071169,
+      "word": "华为Mate60",
+      "onboard_time": 1693283919,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1941751,
@@ -89,14 +97,6 @@
       "onboard_time": 1693279476,
       "rank": 18,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1845400,
-      "num": 1845400,
-      "word": "华为Mate60",
-      "onboard_time": 1693283919,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 1817911,
@@ -155,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1544473,
+      "num": 976918,
+      "word": "苹果15",
+      "onboard_time": 1693297657,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1531181,
+      "num": 1531181,
+      "word": "杨幂称作为演员要自觉抵制天价片酬",
+      "onboard_time": 1693296577,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1499331,
       "num": 1499331,
       "word": "留学女儿要300多万美元买房妈妈报警",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1189162,
-      "num": 459019,
+      "num": 500499,
       "word": "李湘否认在伦敦有房产",
       "onboard_time": 1693295016,
       "rank": 15,
@@ -235,6 +251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 981989,
+      "num": 981989,
+      "word": "肖战三戏连播",
+      "onboard_time": 1693296697,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 954086,
+      "num": 954086,
+      "word": "金星 再瞎编我的新闻见一个打一个",
+      "onboard_time": 1693299700,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 925048,
       "num": 925048,
       "word": "女生高考结束当天车祸身亡肇事者发声",
@@ -243,28 +275,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 896459,
-      "num": 790656,
-      "word": "肖战三戏连播",
-      "onboard_time": 1693296697,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 891040,
       "num": 441253,
       "word": "吴磊被骑友大哥要微信",
       "onboard_time": 1693228419,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 875653,
-      "num": 875653,
-      "word": "杨幂称作为演员要自觉抵制天价片酬",
-      "onboard_time": 1693296577,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 871772,
@@ -571,6 +587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 519222,
+      "num": 519222,
+      "word": "一碗面把我留在了小城市",
+      "onboard_time": 1693285601,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 515670,
       "num": 515670,
       "word": "迪丽热巴的三万水狮重回安乐寨",
@@ -585,6 +609,14 @@
       "onboard_time": 1693293336,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 507240,
+      "num": 507240,
+      "word": "Lisa舞台着装",
+      "onboard_time": 1693298916,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 494609,
@@ -625,14 +657,6 @@
       "onboard_time": 1693279656,
       "rank": 41,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 477330,
-      "num": 477330,
-      "word": "一碗面把我留在了小城市",
-      "onboard_time": 1693285601,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 468583,
@@ -795,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 396114,
+      "num": 248415,
+      "word": "为什么重庆火锅锅底要加冰",
+      "onboard_time": 1693299577,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 395402,
       "num": 395402,
       "word": "肖战白百何新剧定档海报",
@@ -891,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352196,
+      "num": 352196,
+      "word": "男子东北自助扫码买到2元1个的西瓜",
+      "onboard_time": 1693298678,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350783,
       "num": 350783,
       "word": "邓为金冠红发带造型",
@@ -929,6 +969,14 @@
       "onboard_time": 1693211195,
       "rank": 22,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 342611,
+      "num": 320054,
+      "word": "王一博用无名的文件袋",
+      "onboard_time": 1693298616,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337819,
@@ -995,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323398,
+      "num": 323398,
+      "word": "中超公司董事长刘军被调查",
+      "onboard_time": 1693299339,
+      "rank": 19,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 323097,
       "num": 276092,
       "word": "二十多岁其实是很艰难的年纪",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1693233818,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 306344,
+      "num": 306344,
+      "word": "把领导心爱的花浇死了",
+      "onboard_time": 1693296877,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 303404,
@@ -1083,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293721,
+      "num": 293721,
+      "word": "邓为新剧大婚路透图",
+      "onboard_time": 1693299937,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289040,
       "num": 289040,
       "word": "田蓉住进金珑湾",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1693274375,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 284713,
+      "num": 284713,
+      "word": "小事说不停 大事拎不清",
+      "onboard_time": 1693299220,
+      "rank": 27,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 282078,
@@ -1267,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251853,
-      "num": 251853,
-      "word": "把领导心爱的花浇死了",
-      "onboard_time": 1693296877,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251804,
       "num": 251804,
       "word": "黄轩发了一段黑屏",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1693261758,
       "rank": 45,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 243353,
+      "num": 401160,
+      "word": "喀什巴楚县4.6级地震",
+      "onboard_time": 1693298198,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242315,
@@ -1491,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213984,
+      "num": 213984,
+      "word": "王鹤棣狼尾",
+      "onboard_time": 1693300060,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213821,
       "num": 200399,
       "word": "孙阳为粉丝串手串",
@@ -1507,12 +1595,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 210755,
+      "num": 226927,
+      "word": "医院减重门诊挤满了瘦女孩",
+      "onboard_time": 1693300060,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209402,
       "num": 191672,
       "word": "孙阳新浪扫楼",
       "onboard_time": 1693297657,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208334,
+      "num": 208334,
+      "word": "超级小桀回应近期争议",
+      "onboard_time": 1693300358,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 207858,
@@ -1553,14 +1657,6 @@
       "onboard_time": 1693286737,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 201209,
-      "num": 201209,
-      "word": "苹果15",
-      "onboard_time": 1693297657,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 201040,
@@ -1673,6 +1769,14 @@
       "onboard_time": 1693283081,
       "rank": 48,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 182741,
+      "num": 193721,
+      "word": "真正喜欢猫咪的人开的店",
+      "onboard_time": 1693300303,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 181324,
@@ -1923,6 +2027,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128589,
+      "num": 193393,
+      "word": "女生不结婚是什么体验",
+      "onboard_time": 1693300416,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125563,
+      "num": 459036,
+      "word": "论最后一名新生报到的最高仪式感",
+      "onboard_time": 1693296098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104801,
       "num": 477701,
       "word": "东方甄选正在淘宝直播",
@@ -1961,14 +2081,6 @@
       "onboard_time": 1693234539,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 95770,
-      "num": 459036,
-      "word": "论最后一名新生报到的最高仪式感",
-      "onboard_time": 1693296098,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93284,
@@ -2091,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21919,
+      "num": 1732610,
+      "word": "金砖扩员顺应了历史发展潮流",
+      "onboard_time": 1693300177,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18117,
       "num": 20750,
       "word": "去大海开盲盒",
@@ -2108,6 +2228,9 @@
     },
     {
       "word": "#构建发展共同体#"
+    },
+    {
+      "word": "#城市建设必须把让人民宜居安居放在首位#"
     }
   ]
 }
