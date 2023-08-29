@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693279067148,
+  "endTime": 1693280036348,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1007209,
+      "num": 1007209,
+      "word": "取消公摊面积合理吗",
+      "onboard_time": 1693278335,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 968700,
       "num": 968700,
       "word": "妹妹被正式确诊为曾毅",
@@ -433,6 +441,14 @@
       "onboard_time": 1693208617,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872401,
+      "num": 469048,
+      "word": "王栎鑫 我不仅打呼还打人",
+      "onboard_time": 1693279355,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 870721,
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672976,
+      "num": 672976,
+      "word": "宋亚轩王牌对王牌路透",
+      "onboard_time": 1693279295,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 667635,
       "num": 667635,
       "word": "警方通报足浴店故意伤害案",
@@ -931,6 +955,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530751,
+      "num": 335301,
+      "word": "张冕",
+      "onboard_time": 1693277975,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 528289,
+      "num": 528289,
+      "word": "三个少年阵容",
+      "onboard_time": 1693278515,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527309,
       "num": 527309,
       "word": "杨洋韩立生图",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1693192898,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 471341,
-      "num": 335301,
-      "word": "张冕",
-      "onboard_time": 1693277975,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 471279,
@@ -1259,6 +1291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 419454,
+      "num": 419454,
+      "word": "大爷晨练捡到80多万完璧归赵",
+      "onboard_time": 1693278576,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417066,
       "num": 408381,
       "word": "鞠婧祎被停车杆打到",
@@ -1371,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386672,
-      "num": 386672,
-      "word": "取消公摊面积合理吗",
-      "onboard_time": 1693278335,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1693227818,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379853,
-      "num": 326026,
-      "word": "三个少年阵容",
-      "onboard_time": 1693278515,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 379818,
@@ -1787,6 +1811,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 313947,
+      "num": 313947,
+      "word": "学生趴桌午休1学期收费200",
+      "onboard_time": 1693279476,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 312834,
       "num": 312834,
       "word": "中国烟草辟谣卷烟将涨价",
@@ -2059,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279571,
+      "num": 279571,
+      "word": "徐明浩 我说过要成为大家的大树",
+      "onboard_time": 1693279595,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278807,
       "num": 273331,
       "word": "恋人来来去去 朋友永远是朋友",
@@ -2283,20 +2323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248493,
-      "num": 248493,
-      "word": "大爷晨练捡到80多万完璧归赵",
-      "onboard_time": 1693278576,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "直径6厘米小球能量竟比1吨煤多",
       "onboard_time": 1693268435,
       "rank": 31,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 247439,
+      "num": 247439,
+      "word": "殷世航分享留学生活",
+      "onboard_time": 1693279777,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 246529,
@@ -2443,6 +2483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229855,
+      "num": 229855,
+      "word": "学校回应趴桌午休1学期收费200",
+      "onboard_time": 1693279113,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 229791,
       "num": 229791,
       "word": "黄子弘凡回归索尼音乐",
@@ -2521,6 +2569,22 @@
       "onboard_time": 1693215095,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221809,
+      "num": 221809,
+      "word": "妹妹闯祸哥哥连忙俯身向路人道歉",
+      "onboard_time": 1693279174,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221191,
+      "num": 221191,
+      "word": "虞书欣理解的纯欲感",
+      "onboard_time": 1693279656,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 220298,
@@ -2763,6 +2827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198212,
+      "num": 198212,
+      "word": "长大怎么写最刀",
+      "onboard_time": 1693276775,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197725,
       "num": 198302,
       "word": "2023年版标准地图上线",
@@ -2819,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195990,
+      "num": 195990,
+      "word": "田蓉住进金珑湾",
+      "onboard_time": 1693280017,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195938,
       "num": 181877,
       "word": "胡兵又来长沙了",
@@ -2865,14 +2945,6 @@
       "onboard_time": 1693266272,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194194,
-      "num": 194194,
-      "word": "长大怎么写最刀",
-      "onboard_time": 1693276775,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 193899,
@@ -3721,6 +3793,14 @@
       "onboard_time": 1693244359,
       "rank": 34,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 50026,
+      "num": 180262,
+      "word": "徐亮村超现场教孩子射门",
+      "onboard_time": 1693280017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47614,
