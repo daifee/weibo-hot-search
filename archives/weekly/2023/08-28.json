@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693293331371,
+  "endTime": 1693294455443,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1121050,
-      "num": 351385,
+      "num": 365653,
       "word": "小S二女儿Lily状态",
       "onboard_time": 1693291656,
       "rank": 20,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859171,
+      "num": 499486,
+      "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+      "onboard_time": 1693288055,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858633,
       "num": 858633,
       "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
@@ -593,14 +601,6 @@
       "onboard_time": 1693227999,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 821564,
-      "num": 499486,
-      "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
-      "onboard_time": 1693288055,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 808935,
@@ -715,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749827,
+      "num": 375126,
+      "word": "张雨绮28岁到35岁颜值变化",
+      "onboard_time": 1693292375,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747437,
       "num": 747437,
       "word": "台风达维或使核污染水扑向美国",
@@ -753,6 +761,14 @@
       "onboard_time": 1693186535,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 721776,
+      "num": 721776,
+      "word": "杨幂参加广电座谈会",
+      "onboard_time": 1693292857,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 717502,
@@ -1091,14 +1107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 555315,
-      "num": 355527,
-      "word": "张雨绮28岁到35岁颜值变化",
-      "onboard_time": 1693292375,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 552771,
       "num": 309151,
       "word": "张晚意原生家庭幸福的不演",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1693187494,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 537360,
+      "num": 367581,
+      "word": "五月天强实名",
+      "onboard_time": 1693293814,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 535071,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1693212942,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511026,
+      "num": 360161,
+      "word": "王劲松王一博大手牵小手",
+      "onboard_time": 1693293336,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 510873,
@@ -1339,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468497,
+      "num": 468497,
+      "word": "一碗面把我留在了小城市",
+      "onboard_time": 1693285601,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 458875,
       "num": 458875,
       "word": "杨紫嗑cp舞到正主面前",
@@ -1411,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 445374,
-      "num": 445374,
-      "word": "一碗面把我留在了小城市",
-      "onboard_time": 1693285601,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 445133,
       "num": 445133,
       "word": "女子打包40多桌婚宴剩菜喂流浪猫狗",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1693151017,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 436731,
+      "num": 436731,
+      "word": "迪丽热巴的三万水狮重回安乐寨",
+      "onboard_time": 1693293275,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 436685,
@@ -1715,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 380483,
+      "num": 380483,
+      "word": "纷玩岛退票",
+      "onboard_time": 1693292135,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 380285,
       "num": 335134,
       "word": "南风知我意预计Q4播出",
@@ -1753,14 +1793,6 @@
       "onboard_time": 1693149636,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375603,
-      "num": 348570,
-      "word": "纷玩岛退票",
-      "onboard_time": 1693292135,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 372422,
@@ -1857,6 +1889,14 @@
       "onboard_time": 1693217317,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 360088,
+      "num": 360088,
+      "word": "我跟你们有钱人拼了",
+      "onboard_time": 1693292375,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 357906,
@@ -2027,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335530,
+      "num": 335530,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693292313,
+      "rank": 28,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 335016,
       "num": 335016,
       "word": "魏大勋开始形象管理了",
@@ -2043,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334708,
+      "num": 334708,
+      "word": "孙阳扫楼给男员工做美甲",
+      "onboard_time": 1693292557,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332950,
       "num": 287950,
       "word": "SEVENTEEN夫胜宽重启活动",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1693181197,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329605,
+      "num": 302015,
+      "word": "Chuu在葡萄牙被偶遇",
+      "onboard_time": 1693294056,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 328886,
@@ -2227,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305563,
-      "num": 305563,
-      "word": "孙阳扫楼给男员工做美甲",
-      "onboard_time": 1693292557,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303404,
       "num": 303404,
       "word": "张婧仪女大学生既视感",
@@ -2401,14 +2457,6 @@
       "onboard_time": 1693198479,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292735,
-      "num": 292735,
-      "word": "逃出大英博物馆",
-      "onboard_time": 1693292313,
-      "rank": 28,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 291707,
@@ -2579,14 +2627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 271114,
-      "num": 271114,
-      "word": "我跟你们有钱人拼了",
-      "onboard_time": 1693292375,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 270778,
       "num": 270778,
       "word": "无与伦比的美丽",
@@ -2609,14 +2649,6 @@
       "onboard_time": 1693190735,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 270303,
-      "num": 270303,
-      "word": "杨幂参加广电座谈会",
-      "onboard_time": 1693292857,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269690,
@@ -2665,6 +2697,14 @@
       "onboard_time": 1693185098,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265161,
+      "num": 265161,
+      "word": "南方人的饭量普遍很小吗",
+      "onboard_time": 1693288957,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 265099,
@@ -2859,14 +2899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243184,
-      "num": 243184,
-      "word": "南方人的饭量普遍很小吗",
-      "onboard_time": 1693288957,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 241167,
       "num": 241167,
       "word": "张子豪 我会好好养伤早日跟大家见面",
@@ -2952,6 +2984,14 @@
       "word": "华为Mate60开售",
       "onboard_time": 1693284342,
       "rank": 42,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 235122,
+      "num": 371397,
+      "word": "新一代OPPO小折叠发布",
+      "onboard_time": 1693291777,
+      "rank": 17,
       "category": "科技"
     },
     {
@@ -3201,14 +3241,6 @@
       "onboard_time": 1693225294,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 214743,
-      "num": 354216,
-      "word": "新一代OPPO小折叠发布",
-      "onboard_time": 1693291777,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 211131,
@@ -3651,6 +3683,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186896,
+      "num": 192861,
+      "word": "年仅16岁的小女孩做了人流",
+      "onboard_time": 1693294296,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186812,
+      "num": 192699,
+      "word": "当你觉得自己不受重视时",
+      "onboard_time": 1693293814,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186487,
       "num": 186487,
       "word": "美网2023",
@@ -3681,14 +3729,6 @@
       "onboard_time": 1693283081,
       "rank": 48,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 185086,
-      "num": 185086,
-      "word": "迪丽热巴的三万水狮重回安乐寨",
-      "onboard_time": 1693293275,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 184938,
@@ -4025,6 +4065,14 @@
       "onboard_time": 1693205795,
       "rank": 39,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 152418,
+      "num": 171998,
+      "word": "有的人上大学就已拼尽全力",
+      "onboard_time": 1693294417,
+      "rank": 49,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 152307,
