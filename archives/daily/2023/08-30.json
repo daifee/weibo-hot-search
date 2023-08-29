@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693340264624,
+  "endTime": 1693341248410,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -539,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24866,
+      "num": 24866,
+      "word": "学习不是大脑中塞满知识的行为",
+      "onboard_time": 1693339035,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 24174,
       "num": 24174,
       "word": "金星 再瞎编我的新闻见一个打一个",
@@ -547,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21782,
-      "num": 21782,
-      "word": "学习不是大脑中塞满知识的行为",
-      "onboard_time": 1693339035,
-      "rank": 45,
-      "category": "幽默,情感"
+      "raw_hot": 20846,
+      "num": 20846,
+      "word": "齐太磊",
+      "onboard_time": 1693340054,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

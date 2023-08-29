@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/28 00:19:35 ~ 2023/08/30 04:17:44
+本榜单时间：2023/08/28 00:19:35 ~ 2023/08/30 04:34:08
 </p>
 </blockquote>
 <p>
@@ -4527,6 +4527,12 @@ FIFTY FIFTY与经纪公司的专属合约有效（热度：63075）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%98%AF%E5%A4%A7%E8%84%91%E4%B8%AD%E5%A1%9E%E6%BB%A1%E7%9F%A5%E8%AF%86%E7%9A%84%E8%A1%8C%E4%B8%BA%23" target="weibo">
+学习不是大脑中塞满知识的行为（热度：24866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%BD%E5%B8%82%E6%8E%A5%E5%88%B0%E5%8A%9E%E7%83%AD%E7%BA%BF037165732233%23" target="weibo">
 都市接到办热线037165732233（热度：24771）
 </a>
@@ -4539,8 +4545,8 @@ FIFTY FIFTY与经纪公司的专属合约有效（热度：63075）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%98%AF%E5%A4%A7%E8%84%91%E4%B8%AD%E5%A1%9E%E6%BB%A1%E7%9F%A5%E8%AF%86%E7%9A%84%E8%A1%8C%E4%B8%BA%23" target="weibo">
-学习不是大脑中塞满知识的行为（热度：21782）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E5%A4%AA%E7%A3%8A%23" target="weibo">
+齐太磊（热度：20846）
 </a>
 </li>
 
