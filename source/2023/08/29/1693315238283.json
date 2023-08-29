@@ -1,0 +1,410 @@
+{
+  "runTime": 1693315238283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4185601,
+        "num": 4185601,
+        "word": "央八在干什么",
+        "onboard_time": 1693311038,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2858181,
+        "num": 2858181,
+        "word": "内蒙古赤峰发生重大刑事案件",
+        "onboard_time": 1693309236,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11032,
+        "num": 1660511,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1410225,
+        "num": 1410225,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 869563,
+        "num": 869563,
+        "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+        "onboard_time": 1693307078,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856616,
+        "num": 856616,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 851332,
+        "num": 851332,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 721653,
+        "num": 721653,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 676493,
+        "num": 676493,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 545130,
+        "num": 545130,
+        "word": "宋茜 我没事拍摄正常进行",
+        "onboard_time": 1693308755,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2151105,
+        "num": 543778,
+        "word": "奖励初婚女性1000元能提升生育率吗",
+        "onboard_time": 1693310676,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666692,
+        "num": 538762,
+        "word": "乐嘉",
+        "onboard_time": 1693311160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642479,
+        "num": 535452,
+        "word": "林俊杰去了hybe总部",
+        "onboard_time": 1693309659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233153,
+        "num": 530089,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207634,
+        "num": 527790,
+        "word": "医院为暴雨中降生的神针举办出院仪式",
+        "onboard_time": 1693308518,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526190,
+        "num": 526190,
+        "word": "猫的树是懂cp选角的",
+        "onboard_time": 1693310918,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495976,
+        "num": 495976,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456204,
+        "num": 456204,
+        "word": "摩羯座是一个很好的伙伴",
+        "onboard_time": 1693309718,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 444359,
+        "num": 444359,
+        "word": "盛阳家里摆了肖战的照片",
+        "onboard_time": 1693314342,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419440,
+        "num": 441158,
+        "word": "张新成这位是你嫂嫂",
+        "onboard_time": 1693312719,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448995,
+        "num": 441004,
+        "word": "这就是体制内的休假",
+        "onboard_time": 1693306716,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440844,
+        "num": 440844,
+        "word": "Lisa私服回归中性少年风",
+        "onboard_time": 1693312180,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439930,
+        "num": 439930,
+        "word": "女子纹身遮黑痣网友担心癌变劝就医",
+        "onboard_time": 1693313441,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417151,
+        "num": 417151,
+        "word": "花5555元买烧饼的大爷找到了",
+        "onboard_time": 1693313681,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416452,
+        "num": 416452,
+        "word": "肖战开机杀青首映时间线",
+        "onboard_time": 1693310979,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368053,
+        "num": 368053,
+        "word": "人心比痔疮可怕",
+        "onboard_time": 1693312361,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 368018,
+        "num": 368018,
+        "word": "原来一百根头发这么少",
+        "onboard_time": 1693310379,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366961,
+        "num": 366961,
+        "word": "华为Mate60评测",
+        "onboard_time": 1693313741,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 351337,
+        "num": 351337,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347197,
+        "num": 347197,
+        "word": "娇兰直播",
+        "onboard_time": 1693312180,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 321311,
+        "num": 321311,
+        "word": "宁安如梦",
+        "onboard_time": 1693302759,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303270,
+        "num": 303270,
+        "word": "侯雯元好帅",
+        "onboard_time": 1693312963,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302566,
+        "num": 302566,
+        "word": "邓为涂山璟原声",
+        "onboard_time": 1693314280,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282170,
+        "num": 282170,
+        "word": "祝绪丹一直这么显眼吗",
+        "onboard_time": 1693305398,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257069,
+        "num": 257069,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250717,
+        "num": 250717,
+        "word": "王一博快告诉我们杨幂和杜华说什么了",
+        "onboard_time": 1693305518,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247353,
+        "num": 247353,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240790,
+        "num": 240790,
+        "word": "魅族",
+        "onboard_time": 1693312659,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234039,
+        "num": 234039,
+        "word": "心动的信号",
+        "onboard_time": 1693309300,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225483,
+        "num": 225483,
+        "word": "见过最稀有的姓氏是什么",
+        "onboard_time": 1693314221,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221666,
+        "num": 221666,
+        "word": "就此沙没穿深V",
+        "onboard_time": 1693314880,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217064,
+        "num": 217064,
+        "word": "捉妖记肖战是群演",
+        "onboard_time": 1693305101,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211387,
+        "num": 211387,
+        "word": "沈月说出了我的心声",
+        "onboard_time": 1693314880,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206427,
+        "num": 206427,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205254,
+        "num": 205254,
+        "word": "逆水寒",
+        "onboard_time": 1693314106,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201018,
+        "num": 201018,
+        "word": "于适纯白西装",
+        "onboard_time": 1693313983,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188043,
+        "num": 188043,
+        "word": "邓为新剧大婚路透图",
+        "onboard_time": 1693299937,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 963373,
+        "num": 180283,
+        "word": "上海40余人吃日料后上吐下泻",
+        "onboard_time": 1693301080,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153191,
+        "num": 153191,
+        "word": "AG猝死团",
+        "onboard_time": 1693315181,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141880,
+        "num": 141880,
+        "word": "雪糕可以冷门不可以邪门",
+        "onboard_time": 1693302579,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市建设必须把让人民宜居安居放在首位#"
+    }
+  }
+}

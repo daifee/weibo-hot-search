@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693313346295,
+  "endTime": 1693315238283,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -35,19 +35,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 4185601,
+      "num": 4185601,
+      "word": "央八在干什么",
+      "onboard_time": 1693311038,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 4146282,
       "num": 4146282,
       "word": "腾讯爱奇艺和好了",
       "onboard_time": 1693300661,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 3491821,
-      "num": 3491821,
-      "word": "央八在干什么",
-      "onboard_time": 1693311038,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2856232,
-      "num": 2856232,
+      "raw_hot": 2858181,
+      "num": 2858181,
       "word": "内蒙古赤峰发生重大刑事案件",
       "onboard_time": 1693309236,
       "rank": 0,
@@ -161,6 +161,14 @@
       "onboard_time": 1693211195,
       "rank": 30,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 2151105,
+      "num": 659160,
+      "word": "奖励初婚女性1000元能提升生育率吗",
+      "onboard_time": 1693310676,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2147035,
@@ -345,14 +353,6 @@
       "onboard_time": 1693279355,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1589956,
-      "num": 659160,
-      "word": "奖励初婚女性1000元能提升生育率吗",
-      "onboard_time": 1693310676,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1585230,
@@ -1755,12 +1755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444359,
+      "num": 444359,
+      "word": "盛阳家里摆了肖战的照片",
+      "onboard_time": 1693314342,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442446,
       "num": 442446,
       "word": "张靓颖说九月有好事宣布",
       "onboard_time": 1693224219,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440844,
+      "num": 440844,
+      "word": "Lisa私服回归中性少年风",
+      "onboard_time": 1693312180,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 440829,
@@ -1777,6 +1793,14 @@
       "onboard_time": 1693214918,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439930,
+      "num": 439930,
+      "word": "女子纹身遮黑痣网友担心癌变劝就医",
+      "onboard_time": 1693313441,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439327,
@@ -1883,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419440,
+      "num": 441158,
+      "word": "张新成这位是你嫂嫂",
+      "onboard_time": 1693312719,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418462,
       "num": 322211,
       "word": "在毫不知情的情况下相亲了我的朋友",
@@ -1899,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 417151,
+      "num": 417151,
+      "word": "花5555元买烧饼的大爷找到了",
+      "onboard_time": 1693313681,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417066,
       "num": 408381,
       "word": "鞠婧祎被停车杆打到",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1693197584,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 415589,
-      "num": 415589,
-      "word": "Lisa私服回归中性少年风",
-      "onboard_time": 1693312180,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 413001,
@@ -2219,12 +2251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368053,
+      "num": 368053,
+      "word": "人心比痔疮可怕",
+      "onboard_time": 1693312361,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 367712,
       "num": 367712,
       "word": "68元甜品自助",
       "onboard_time": 1693203216,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 366961,
+      "num": 366961,
+      "word": "华为Mate60评测",
+      "onboard_time": 1693313741,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 366745,
@@ -2827,6 +2875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303270,
+      "num": 303270,
+      "word": "侯雯元好帅",
+      "onboard_time": 1693312963,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302833,
       "num": 302833,
       "word": "路人镜头下的沈梦辰",
@@ -2840,6 +2896,14 @@
       "word": "莲花楼成毅出场自带侠气",
       "onboard_time": 1693223017,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302566,
+      "num": 302566,
+      "word": "邓为涂山璟原声",
+      "onboard_time": 1693314280,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -3363,28 +3427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261978,
-      "num": 261978,
-      "word": "人心比痔疮可怕",
-      "onboard_time": 1693312361,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 260126,
       "num": 260126,
       "word": "斑马线前老人突然转身9万点赞",
       "onboard_time": 1693231297,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260106,
-      "num": 260106,
-      "word": "张新成这位是你嫂嫂",
-      "onboard_time": 1693312719,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 258886,
@@ -3571,14 +3619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241557,
-      "num": 204272,
-      "word": "侯雯元好帅",
-      "onboard_time": 1693312963,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 241167,
       "num": 241167,
       "word": "张子豪 我会好好养伤早日跟大家见面",
@@ -3593,6 +3633,14 @@
       "onboard_time": 1693290638,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240790,
+      "num": 240790,
+      "word": "魅族",
+      "onboard_time": 1693312659,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 240582,
@@ -3819,6 +3867,14 @@
       "category": "其它,幽默"
     },
     {
+      "raw_hot": 225483,
+      "num": 225483,
+      "word": "见过最稀有的姓氏是什么",
+      "onboard_time": 1693314221,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224575,
       "num": 224575,
       "word": "张杰的最强站哥站姐们",
@@ -3865,6 +3921,14 @@
       "onboard_time": 1693215095,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221666,
+      "num": 221666,
+      "word": "就此沙没穿深V",
+      "onboard_time": 1693314880,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220298,
@@ -3947,6 +4011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211387,
+      "num": 211387,
+      "word": "沈月说出了我的心声",
+      "onboard_time": 1693314880,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211237,
       "num": 203332,
       "word": "吴彦祖 找到一些高中yearbook的照片",
@@ -4025,6 +4097,14 @@
       "onboard_time": 1693207176,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205254,
+      "num": 205254,
+      "word": "逆水寒",
+      "onboard_time": 1693314106,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 204089,
@@ -4113,6 +4193,14 @@
       "onboard_time": 1693289198,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201018,
+      "num": 201018,
+      "word": "于适纯白西装",
+      "onboard_time": 1693313983,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200757,
@@ -4417,14 +4505,6 @@
       "onboard_time": 1693182458,
       "rank": 40,
       "category": "网红,情感"
-    },
-    {
-      "raw_hot": 188902,
-      "num": 188902,
-      "word": "魅族",
-      "onboard_time": 1693312659,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 188118,
@@ -4848,6 +4928,14 @@
       "word": "明日方舟维纳小姐令人捉摸不透",
       "onboard_time": 1693199617,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 153191,
+      "num": 153191,
+      "word": "AG猝死团",
+      "onboard_time": 1693315181,
+      "rank": 48,
       "category": "游戏"
     },
     {

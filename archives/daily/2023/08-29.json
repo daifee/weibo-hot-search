@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693313346295,
+  "endTime": 1693315238283,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -27,19 +27,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 4185601,
+      "num": 4185601,
+      "word": "央八在干什么",
+      "onboard_time": 1693311038,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 4146282,
       "num": 4146282,
       "word": "腾讯爱奇艺和好了",
       "onboard_time": 1693300661,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 3491821,
-      "num": 3491821,
-      "word": "央八在干什么",
-      "onboard_time": 1693311038,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -59,8 +59,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2856232,
-      "num": 2856232,
+      "raw_hot": 2858181,
+      "num": 2858181,
       "word": "内蒙古赤峰发生重大刑事案件",
       "onboard_time": 1693309236,
       "rank": 0,
@@ -89,6 +89,14 @@
       "onboard_time": 1693285420,
       "rank": 14,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2151105,
+      "num": 659160,
+      "word": "奖励初婚女性1000元能提升生育率吗",
+      "onboard_time": 1693310676,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2147035,
@@ -209,14 +217,6 @@
       "onboard_time": 1693279355,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1589956,
-      "num": 659160,
-      "word": "奖励初婚女性1000元能提升生育率吗",
-      "onboard_time": 1693310676,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1585230,
@@ -915,11 +915,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 444359,
+      "num": 444359,
+      "word": "盛阳家里摆了肖战的照片",
+      "onboard_time": 1693314342,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 440844,
+      "num": 440844,
+      "word": "Lisa私服回归中性少年风",
+      "onboard_time": 1693312180,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 440829,
       "num": 440829,
       "word": "82岁老人用20万存款为女儿女婿买首饰",
       "onboard_time": 1693237054,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439930,
+      "num": 439930,
+      "word": "女子纹身遮黑痣网友担心癌变劝就医",
+      "onboard_time": 1693313441,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419440,
+      "num": 441158,
+      "word": "张新成这位是你嫂嫂",
+      "onboard_time": 1693312719,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418462,
       "num": 322211,
       "word": "在毫不知情的情况下相亲了我的朋友",
@@ -1003,12 +1035,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 415589,
-      "num": 415589,
-      "word": "Lisa私服回归中性少年风",
-      "onboard_time": 1693312180,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 417151,
+      "num": 417151,
+      "word": "花5555元买烧饼的大爷找到了",
+      "onboard_time": 1693313681,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413001,
@@ -1161,6 +1193,22 @@
       "onboard_time": 1693279595,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368053,
+      "num": 368053,
+      "word": "人心比痔疮可怕",
+      "onboard_time": 1693312361,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 366961,
+      "num": 366961,
+      "word": "华为Mate60评测",
+      "onboard_time": 1693313741,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 366745,
@@ -1499,12 +1547,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 303270,
+      "num": 303270,
+      "word": "侯雯元好帅",
+      "onboard_time": 1693312963,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302833,
       "num": 302833,
       "word": "路人镜头下的沈梦辰",
       "onboard_time": 1693302579,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302566,
+      "num": 302566,
+      "word": "邓为涂山璟原声",
+      "onboard_time": 1693314280,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 301990,
@@ -1779,22 +1843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261978,
-      "num": 261978,
-      "word": "人心比痔疮可怕",
-      "onboard_time": 1693312361,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 260106,
-      "num": 260106,
-      "word": "张新成这位是你嫂嫂",
-      "onboard_time": 1693312719,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259044,
       "num": 223215,
       "word": "宝宝拒绝睡觉却被强制关机",
@@ -1899,20 +1947,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241557,
-      "num": 204272,
-      "word": "侯雯元好帅",
-      "onboard_time": 1693312963,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 240866,
       "num": 240866,
       "word": "张涵予说追刘德华追了二十年",
       "onboard_time": 1693290638,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240790,
+      "num": 240790,
+      "word": "魅族",
+      "onboard_time": 1693312659,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 237694,
@@ -2043,12 +2091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225483,
+      "num": 225483,
+      "word": "见过最稀有的姓氏是什么",
+      "onboard_time": 1693314221,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223179,
       "num": 223179,
       "word": "在山城citywalk有多窒息",
       "onboard_time": 1693284101,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221666,
+      "num": 221666,
+      "word": "就此沙没穿深V",
+      "onboard_time": 1693314880,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221364,
@@ -2088,6 +2152,14 @@
       "word": "孙阳为粉丝串手串",
       "onboard_time": 1693296037,
       "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211387,
+      "num": 211387,
+      "word": "沈月说出了我的心声",
+      "onboard_time": 1693314880,
+      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -2131,6 +2203,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 205254,
+      "num": 205254,
+      "word": "逆水寒",
+      "onboard_time": 1693314106,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203203,
       "num": 203203,
       "word": "KSG太猛了",
@@ -2169,6 +2249,14 @@
       "onboard_time": 1693289198,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201018,
+      "num": 201018,
+      "word": "于适纯白西装",
+      "onboard_time": 1693313983,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199790,
@@ -2257,14 +2345,6 @@
       "onboard_time": 1693215577,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188902,
-      "num": 188902,
-      "word": "魅族",
-      "onboard_time": 1693312659,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 186812,
@@ -2481,6 +2561,14 @@
       "onboard_time": 1693295796,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153191,
+      "num": 153191,
+      "word": "AG猝死团",
+      "onboard_time": 1693315181,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 151450,
