@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693334055909,
+  "endTime": 1693336400954,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -5947,20 +5947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39793,
+      "num": 42413,
+      "word": "如果不是监控拍下来真的就解释不清了",
+      "onboard_time": 1693333099,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39175,
       "num": 39175,
       "word": "感觉上班好像在扮演大人",
       "onboard_time": 1693249334,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 38662,
-      "num": 42413,
-      "word": "如果不是监控拍下来真的就解释不清了",
-      "onboard_time": 1693333099,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 38419,
@@ -5985,6 +5985,22 @@
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31130,
+      "num": 31130,
+      "word": "海南省委巡视组原组长韩太光被查",
+      "onboard_time": 1693333937,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30089,
+      "num": 30089,
+      "word": "电动车未来可用上人造太阳",
+      "onboard_time": 1693333637,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 28823,

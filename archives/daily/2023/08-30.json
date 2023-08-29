@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693334055909,
+  "endTime": 1693336400954,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -491,7 +491,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 38662,
+      "raw_hot": 39793,
       "num": 42413,
       "word": "如果不是监控拍下来真的就解释不清了",
       "onboard_time": 1693333099,
@@ -513,6 +513,22 @@
       "onboard_time": 1693316319,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31130,
+      "num": 31130,
+      "word": "海南省委巡视组原组长韩太光被查",
+      "onboard_time": 1693333937,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30089,
+      "num": 30089,
+      "word": "电动车未来可用上人造太阳",
+      "onboard_time": 1693333637,
+      "rank": 45,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
