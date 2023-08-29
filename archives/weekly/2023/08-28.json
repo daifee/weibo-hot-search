@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693297286739,
+  "endTime": 1693298063894,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -123,7 +123,15 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 2122259,
+      "raw_hot": 2182315,
+      "num": 459046,
+      "word": "中纪委再公布5名内鬼",
+      "onboard_time": 1693295136,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2147035,
       "num": 459077,
       "word": "杰尼斯承认喜多川性侵",
       "onboard_time": 1693295499,
@@ -201,14 +209,6 @@
       "onboard_time": 1693283919,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1841062,
-      "num": 459046,
-      "word": "中纪委再公布5名内鬼",
-      "onboard_time": 1693295136,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1817911,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1076991,
+      "num": 458960,
+      "word": "年仅16岁的小女孩做了人流",
+      "onboard_time": 1693294296,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1059813,
       "num": 417921,
       "word": "张新成 杰哥牛逼",
@@ -473,14 +481,6 @@
       "onboard_time": 1693236815,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 993506,
-      "num": 458960,
-      "word": "年仅16岁的小女孩做了人流",
-      "onboard_time": 1693294296,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 968700,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 896459,
+      "num": 790656,
+      "word": "肖战三戏连播",
+      "onboard_time": 1693296697,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 892062,
       "num": 892062,
       "word": "中国男篮vs南苏丹男篮",
@@ -561,6 +569,14 @@
       "onboard_time": 1693208617,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 875653,
+      "num": 875653,
+      "word": "杨幂称作为演员要自觉抵制天价片酬",
+      "onboard_time": 1693296577,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 871772,
@@ -1419,14 +1435,6 @@
       "category": "旅游,情感"
     },
     {
-      "raw_hot": 458915,
-      "num": 458915,
-      "word": "杨幂称作为演员要自觉抵制天价片酬",
-      "onboard_time": 1693296577,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 458875,
       "num": 458875,
       "word": "杨紫嗑cp舞到正主面前",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1693186656,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 455480,
-      "num": 455480,
-      "word": "肖战三戏连播",
-      "onboard_time": 1693296697,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 454307,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1693277433,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425821,
+      "num": 458973,
+      "word": "OPPO首发三摄小折叠",
+      "onboard_time": 1693295556,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 425813,
@@ -2619,20 +2627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282078,
+      "num": 282078,
+      "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
+      "onboard_time": 1693295915,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282036,
       "num": 335333,
       "word": "妹妹闯祸哥哥连忙俯身向路人道歉",
       "onboard_time": 1693279174,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280763,
-      "num": 280763,
-      "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
-      "onboard_time": 1693295915,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 278807,
@@ -2891,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251853,
+      "num": 251853,
+      "word": "把领导心爱的花浇死了",
+      "onboard_time": 1693296877,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251804,
       "num": 251804,
       "word": "黄轩发了一段黑屏",
@@ -2971,8 +2987,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242159,
-      "num": 242159,
+      "raw_hot": 242315,
+      "num": 242315,
       "word": "秦皇岛卢龙县2.3级地震",
       "onboard_time": 1693296337,
       "rank": 36,
@@ -3087,6 +3103,14 @@
       "num": 234161,
       "word": "张晚意小孩版光头强",
       "onboard_time": 1693291236,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234028,
+      "num": 234028,
+      "word": "孙阳叫宝贝",
+      "onboard_time": 1693297718,
       "rank": 36,
       "category": "影视"
     },
@@ -3291,14 +3315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219258,
-      "num": 458973,
-      "word": "OPPO首发三摄小折叠",
-      "onboard_time": 1693295556,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 219060,
       "num": 219060,
       "word": "蓝桉的公孙离",
@@ -3331,6 +3347,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 213821,
+      "num": 200399,
+      "word": "孙阳为粉丝串手串",
+      "onboard_time": 1693296037,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
@@ -3352,6 +3376,14 @@
       "word": "徐冬冬穿高跟鞋以一敌十",
       "onboard_time": 1693208979,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209402,
+      "num": 191672,
+      "word": "孙阳新浪扫楼",
+      "onboard_time": 1693297657,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -3385,14 +3417,6 @@
       "onboard_time": 1693267656,
       "rank": 38,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 205731,
-      "num": 192310,
-      "word": "孙阳为粉丝串手串",
-      "onboard_time": 1693296037,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205552,
@@ -3473,6 +3497,14 @@
       "onboard_time": 1693226138,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201209,
+      "num": 201209,
+      "word": "苹果15",
+      "onboard_time": 1693297657,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 201040,
@@ -3931,6 +3963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176619,
+      "num": 176619,
+      "word": "我们只对国王那么干",
+      "onboard_time": 1693295915,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176579,
       "num": 1422512,
       "word": "亚运村里的江浙菜品有多馋人",
@@ -4163,14 +4203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153081,
-      "num": 153081,
-      "word": "把领导心爱的花浇死了",
-      "onboard_time": 1693296877,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152930,
       "num": 152930,
       "word": "披荆斩棘投票",
@@ -4257,14 +4289,6 @@
       "onboard_time": 1693202014,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145413,
-      "num": 145413,
-      "word": "我们只对国王那么干",
-      "onboard_time": 1693295915,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 144823,
@@ -4507,6 +4531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 95770,
+      "num": 459036,
+      "word": "论最后一名新生报到的最高仪式感",
+      "onboard_time": 1693296098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93284,
       "num": 93284,
       "word": "10款椰子水测评",
@@ -4555,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72157,
+      "num": 142670,
+      "word": "李毅村超比赛进球",
+      "onboard_time": 1693296276,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70837,
       "num": 45792,
       "word": "十个勤天",
@@ -4579,14 +4619,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64816,
-      "num": 142670,
-      "word": "李毅村超比赛进球",
-      "onboard_time": 1693296276,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64804,
       "num": 120019,
       "word": "张钧甯说完英语说德语",
@@ -4609,14 +4641,6 @@
       "onboard_time": 1693170733,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 60013,
-      "num": 459036,
-      "word": "论最后一名新生报到的最高仪式感",
-      "onboard_time": 1693296098,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51634,
@@ -4683,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28823,
+      "num": 798088,
+      "word": "亚运吉祥物图案的红绿灯",
+      "onboard_time": 1693282718,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24771,
       "num": 30792,
       "word": "都市接到办热线037165732233",
@@ -4721,14 +4753,6 @@
       "onboard_time": 1693165754,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 6134,
-      "num": 613878,
-      "word": "亚运吉祥物图案的红绿灯",
-      "onboard_time": 1693282718,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 5992,

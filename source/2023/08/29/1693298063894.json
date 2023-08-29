@@ -1,0 +1,410 @@
+{
+  "runTime": 1693298063894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818340,
+        "num": 1818340,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 875653,
+        "num": 875653,
+        "word": "杨幂称作为演员要自觉抵制天价片酬",
+        "onboard_time": 1693296577,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28823,
+        "num": 798088,
+        "word": "亚运吉祥物图案的红绿灯",
+        "onboard_time": 1693282718,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2545882,
+        "num": 792641,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 896459,
+        "num": 790656,
+        "word": "肖战三戏连播",
+        "onboard_time": 1693296697,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 781312,
+        "num": 781312,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 525674,
+        "num": 525674,
+        "word": "骑友大哥这回认出来吴磊了",
+        "onboard_time": 1693289855,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 503348,
+        "num": 503348,
+        "word": "五月天强实名",
+        "onboard_time": 1693293814,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459809,
+        "num": 459809,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 427779,
+        "num": 427779,
+        "word": "逃出大英博物馆",
+        "onboard_time": 1693292313,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2182315,
+        "num": 427739,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2147035,
+        "num": 427464,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1126221,
+        "num": 427386,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219831,
+        "num": 427151,
+        "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+        "onboard_time": 1693281578,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95770,
+        "num": 426834,
+        "word": "论最后一名新生报到的最高仪式感",
+        "onboard_time": 1693296098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157701,
+        "num": 426722,
+        "word": "舒淇给自己拍的大片",
+        "onboard_time": 1693296217,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 885649,
+        "num": 426587,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 16,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 615827,
+        "num": 426241,
+        "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+        "onboard_time": 1693288055,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540685,
+        "num": 426096,
+        "word": "给徐良投票白投了",
+        "onboard_time": 1693288777,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522587,
+        "num": 425845,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425821,
+        "num": 425821,
+        "word": "OPPO首发三摄小折叠",
+        "onboard_time": 1693295556,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1076991,
+        "num": 424037,
+        "word": "年仅16岁的小女孩做了人流",
+        "onboard_time": 1693294296,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607398,
+        "num": 417472,
+        "word": "小S二女儿Lily状态",
+        "onboard_time": 1693291656,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435228,
+        "num": 411693,
+        "word": "张雨绮28岁到35岁颜值变化",
+        "onboard_time": 1693292375,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358333,
+        "num": 406628,
+        "word": "为什么甲状腺癌爱盯上年轻人",
+        "onboard_time": 1693287101,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 404136,
+        "num": 404136,
+        "word": "王劲松王一博大手牵小手",
+        "onboard_time": 1693293336,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376596,
+        "num": 376596,
+        "word": "杨幂参加广电座谈会",
+        "onboard_time": 1693292857,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362640,
+        "num": 362640,
+        "word": "胡歌 我对不起好多人",
+        "onboard_time": 1693264405,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298901,
+        "num": 347919,
+        "word": "警察称自己接触的缅北电诈者95%是自愿",
+        "onboard_time": 1693284579,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278529,
+        "num": 345624,
+        "word": "女生高考结束当天车祸身亡肇事者发声",
+        "onboard_time": 1693285000,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 344650,
+        "num": 344650,
+        "word": "迪丽热巴的三万水狮重回安乐寨",
+        "onboard_time": 1693293275,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331889,
+        "num": 331889,
+        "word": "玱玹的乡下表弟玱杰",
+        "onboard_time": 1693294594,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282078,
+        "num": 282078,
+        "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
+        "onboard_time": 1693295915,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262593,
+        "num": 262593,
+        "word": "有的人上大学就已拼尽全力",
+        "onboard_time": 1693294417,
+        "rank": 33,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 251853,
+        "num": 251853,
+        "word": "把领导心爱的花浇死了",
+        "onboard_time": 1693296877,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242315,
+        "num": 242315,
+        "word": "秦皇岛卢龙县2.3级地震",
+        "onboard_time": 1693296337,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234028,
+        "num": 234028,
+        "word": "孙阳叫宝贝",
+        "onboard_time": 1693297718,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215867,
+        "num": 215867,
+        "word": "纷玩岛退票",
+        "onboard_time": 1693292135,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201878,
+        "num": 201878,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201209,
+        "num": 201209,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213821,
+        "num": 200399,
+        "word": "孙阳为粉丝串手串",
+        "onboard_time": 1693296037,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194703,
+        "num": 194703,
+        "word": "我跟你们有钱人拼了",
+        "onboard_time": 1693292375,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209402,
+        "num": 191672,
+        "word": "孙阳新浪扫楼",
+        "onboard_time": 1693297657,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179757,
+        "num": 179757,
+        "word": "一周不洗脸什么体验",
+        "onboard_time": 1693290153,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178070,
+        "num": 178070,
+        "word": "易烊千玺进组小小的我",
+        "onboard_time": 1693285959,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176619,
+        "num": 176619,
+        "word": "我们只对国王那么干",
+        "onboard_time": 1693295915,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162098,
+        "num": 162098,
+        "word": "吉克隽逸又在健身房被偶遇",
+        "onboard_time": 1693295499,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148239,
+        "num": 148239,
+        "word": "医学生路过为残疾流浪猫正骨",
+        "onboard_time": 1693295796,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140248,
+        "num": 140248,
+        "word": "真实的商战",
+        "onboard_time": 1693289375,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 72157,
+        "num": 140233,
+        "word": "李毅村超比赛进球",
+        "onboard_time": 1693296276,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}
