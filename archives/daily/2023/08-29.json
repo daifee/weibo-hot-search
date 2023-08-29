@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693277930545,
+  "endTime": 1693279067148,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -59,8 +59,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1615504,
-      "num": 1615504,
+      "raw_hot": 1711154,
+      "num": 1711154,
       "word": "骄阳伴我定档",
       "onboard_time": 1693275456,
       "rank": 5,
@@ -75,19 +75,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1546429,
+      "num": 478344,
+      "word": "日本饭店招牌歧视中国人博主当场报警",
+      "onboard_time": 1693275157,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1499331,
       "num": 1499331,
       "word": "留学女儿要300多万美元买房妈妈报警",
       "onboard_time": 1693230878,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1448002,
-      "num": 478344,
-      "word": "日本饭店招牌歧视中国人博主当场报警",
-      "onboard_time": 1693275157,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 751369,
+      "num": 751369,
+      "word": "印尼巴厘海发生7.1级地震",
+      "onboard_time": 1693274616,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731470,
       "num": 731470,
       "word": "男子收到儿子饭卡消费记录后泪奔",
@@ -193,14 +201,6 @@
       "onboard_time": 1693274315,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 629135,
-      "num": 629135,
-      "word": "印尼巴厘海发生7.1级地震",
-      "onboard_time": 1693274616,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596844,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520835,
+      "num": 314914,
+      "word": "家长吐槽学校30人一宿舍2人一张床",
+      "onboard_time": 1693277736,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 494609,
       "num": 494609,
       "word": "全性转版封神第一部",
@@ -281,6 +289,14 @@
       "onboard_time": 1693234360,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471341,
+      "num": 335301,
+      "word": "张冕",
+      "onboard_time": 1693277975,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 468583,
@@ -371,11 +387,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395402,
+      "num": 395402,
+      "word": "肖战白百何新剧定档海报",
+      "onboard_time": 1693277315,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393894,
       "num": 393894,
       "word": "台风苏拉",
       "onboard_time": 1693272336,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386672,
+      "num": 386672,
+      "word": "取消公摊面积合理吗",
+      "onboard_time": 1693278335,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -385,6 +417,14 @@
       "onboard_time": 1693234239,
       "rank": 12,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 379853,
+      "num": 326026,
+      "word": "三个少年阵容",
+      "onboard_time": 1693278515,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 363962,
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325942,
+      "num": 325942,
+      "word": "谁在给日本排核污染水洗白",
+      "onboard_time": 1693273296,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323097,
       "num": 276092,
       "word": "二十多岁其实是很艰难的年纪",
@@ -448,14 +496,6 @@
       "word": "浙江12岁女孩确诊甲状腺癌",
       "onboard_time": 1693219477,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316235,
-      "num": 316235,
-      "word": "谁在给日本排核污染水洗白",
-      "onboard_time": 1693273296,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -475,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299744,
+      "num": 299744,
+      "word": "马立奥好会营业",
+      "onboard_time": 1693273476,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296550,
       "num": 296550,
       "word": "费翔代表封神参加威尼斯电影节",
@@ -491,11 +539,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292559,
-      "num": 292559,
-      "word": "肖战白百何新剧定档海报",
-      "onboard_time": 1693277315,
-      "rank": 38,
+      "raw_hot": 285715,
+      "num": 285715,
+      "word": "肖春生快来看看盛阳画的肖像",
+      "onboard_time": 1693277854,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -587,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "大爷晨练捡到80多万完璧归赵",
+      "onboard_time": 1693278576,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "直径6厘米小球能量竟比1吨煤多",
@@ -601,14 +657,6 @@
       "onboard_time": 1693261758,
       "rank": 45,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 242372,
-      "num": 242372,
-      "word": "马立奥好会营业",
-      "onboard_time": 1693273476,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 237694,
@@ -627,12 +675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233901,
+      "num": 233901,
+      "word": "白敬亭你就宠魏大勋吧",
+      "onboard_time": 1693274914,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230676,
       "num": 220074,
       "word": "王鹤棣直播",
       "onboard_time": 1693238255,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229456,
+      "num": 229456,
+      "word": "商铺老板一觉醒来门口多了个地毯",
+      "onboard_time": 1693277736,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229002,
@@ -659,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218579,
-      "num": 218579,
-      "word": "白敬亭你就宠魏大勋吧",
-      "onboard_time": 1693274914,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211377,
       "num": 211377,
       "word": "男孩带录取通知书与服刑父亲见面",
@@ -691,20 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201141,
-      "num": 201141,
-      "word": "家长吐槽学校30人一宿舍2人一张床",
-      "onboard_time": 1693277736,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 199900,
-      "num": 199900,
-      "word": "商铺老板一觉醒来门口多了个地毯",
-      "onboard_time": 1693277736,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 199364,
+      "num": 199364,
+      "word": "吴磊跟朋友聚餐路透",
+      "onboard_time": 1693277076,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 197279,
@@ -731,20 +779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194194,
+      "num": 194194,
+      "word": "长大怎么写最刀",
+      "onboard_time": 1693276775,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191332,
       "num": 191332,
       "word": "王鹤棣田曦薇搂腰吻戏",
       "onboard_time": 1693215577,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188884,
-      "num": 188884,
-      "word": "长大怎么写最刀",
-      "onboard_time": 1693276775,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 186487,
@@ -755,28 +803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185753,
-      "num": 185753,
-      "word": "肖春生快来看看盛阳画的肖像",
-      "onboard_time": 1693277854,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185682,
       "num": 185682,
       "word": "谢娜找杨迪要通告费",
       "onboard_time": 1693236157,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184369,
-      "num": 184369,
-      "word": "吴磊跟朋友聚餐路透",
-      "onboard_time": 1693277076,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 181324,
@@ -795,20 +827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179525,
+      "num": 179525,
+      "word": "周笔畅演唱会官宣",
+      "onboard_time": 1693277796,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "4万学费宿舍到处是垃圾没法住",
       "onboard_time": 1693224758,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 175856,
-      "num": 175856,
-      "word": "周笔畅演唱会官宣",
-      "onboard_time": 1693277796,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 174430,

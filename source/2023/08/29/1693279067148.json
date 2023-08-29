@@ -1,0 +1,410 @@
+{
+  "runTime": 1693279067148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711154,
+        "num": 1711154,
+        "word": "骄阳伴我定档",
+        "onboard_time": 1693275456,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1069004,
+        "num": 1069004,
+        "word": "董明珠自曝70岁没保养",
+        "onboard_time": 1693271016,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88801,
+        "num": 763233,
+        "word": "我国网民规模已达10.79亿人",
+        "onboard_time": 1693233818,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751369,
+        "num": 751369,
+        "word": "印尼巴厘海发生7.1级地震",
+        "onboard_time": 1693274616,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730312,
+        "num": 730312,
+        "word": "朱婷 祝福中国女排一切顺利",
+        "onboard_time": 1693275935,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655643,
+        "num": 655643,
+        "word": "同年同月同日生同专业同班同宿舍",
+        "onboard_time": 1693273656,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530442,
+        "num": 530442,
+        "word": "骄阳伴我",
+        "onboard_time": 1693274554,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455851,
+        "num": 455851,
+        "word": "白日梦我湖南卫视定档",
+        "onboard_time": 1693275456,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395402,
+        "num": 395402,
+        "word": "肖战白百何新剧定档海报",
+        "onboard_time": 1693277315,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386672,
+        "num": 386672,
+        "word": "取消公摊面积合理吗",
+        "onboard_time": 1693278335,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3860898,
+        "num": 371639,
+        "word": "胡歌 我对不起好多人",
+        "onboard_time": 1693264405,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2720759,
+        "num": 362881,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 545819,
+        "num": 356106,
+        "word": "胡歌十七年前的今天经历了车祸",
+        "onboard_time": 1693268737,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471341,
+        "num": 335301,
+        "word": "张冕",
+        "onboard_time": 1693277975,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326293,
+        "num": 326293,
+        "word": "台风苏拉",
+        "onboard_time": 1693272336,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364971,
+        "num": 326151,
+        "word": "妈妈翻出女儿离世前拼命学习视频",
+        "onboard_time": 1693264226,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 414164,
+        "num": 326087,
+        "word": "骄阳伴我兜兜转转版预告",
+        "onboard_time": 1693277433,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379853,
+        "num": 326026,
+        "word": "三个少年阵容",
+        "onboard_time": 1693278515,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325942,
+        "num": 325942,
+        "word": "谁在给日本排核污染水洗白",
+        "onboard_time": 1693273296,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315440,
+        "num": 315440,
+        "word": "杨紫嗑cp舞到正主面前",
+        "onboard_time": 1693273059,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1546429,
+        "num": 315424,
+        "word": "日本饭店招牌歧视中国人博主当场报警",
+        "onboard_time": 1693275157,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847582,
+        "num": 315319,
+        "word": "中国游客赴日意愿下降日本业界很担心",
+        "onboard_time": 1693272577,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727111,
+        "num": 315188,
+        "word": "中方回应在华日本学校被砸石头和鸡蛋",
+        "onboard_time": 1693266333,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 589466,
+        "num": 315068,
+        "word": "iPhone15或新增绿色",
+        "onboard_time": 1693274315,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 520835,
+        "num": 314914,
+        "word": "家长吐槽学校30人一宿舍2人一张床",
+        "onboard_time": 1693277736,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 467868,
+        "num": 314760,
+        "word": "不要因为觉得妈妈可怜就想补偿她",
+        "onboard_time": 1693276234,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360934,
+        "num": 314658,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328050,
+        "num": 314525,
+        "word": "韩国中小学食堂禁止使用日产海鲜",
+        "onboard_time": 1693272038,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 314495,
+        "num": 314495,
+        "word": "A股",
+        "onboard_time": 1693272936,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299744,
+        "num": 299744,
+        "word": "马立奥好会营业",
+        "onboard_time": 1693273476,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285715,
+        "num": 285715,
+        "word": "肖春生快来看看盛阳画的肖像",
+        "onboard_time": 1693277854,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280642,
+        "num": 280642,
+        "word": "你听过虞书欣说英语吗",
+        "onboard_time": 1693270358,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260599,
+        "num": 260599,
+        "word": "黄奕版上错花轿嫁对郎剧照",
+        "onboard_time": 1693271616,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248493,
+        "num": 248493,
+        "word": "大爷晨练捡到80多万完璧归赵",
+        "onboard_time": 1693278576,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246446,
+        "num": 246446,
+        "word": "巨型舒芙蕾",
+        "onboard_time": 1693274375,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233901,
+        "num": 233901,
+        "word": "白敬亭你就宠魏大勋吧",
+        "onboard_time": 1693274914,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229456,
+        "num": 229456,
+        "word": "商铺老板一觉醒来门口多了个地毯",
+        "onboard_time": 1693277736,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222020,
+        "num": 222020,
+        "word": "电影莫斯科行动定档国庆",
+        "onboard_time": 1693276054,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209499,
+        "num": 209499,
+        "word": "父亲送快递供出3个大学生",
+        "onboard_time": 1693274677,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199364,
+        "num": 199364,
+        "word": "吴磊跟朋友聚餐路透",
+        "onboard_time": 1693277076,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194194,
+        "num": 194194,
+        "word": "长大怎么写最刀",
+        "onboard_time": 1693276775,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183826,
+        "num": 183826,
+        "word": "北卡",
+        "onboard_time": 1693274914,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181819,
+        "num": 181819,
+        "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
+        "onboard_time": 1693235380,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181516,
+        "num": 181516,
+        "word": "2023歌手演唱会封神现场",
+        "onboard_time": 1693268737,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179525,
+        "num": 179525,
+        "word": "周笔畅演唱会官宣",
+        "onboard_time": 1693277796,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171554,
+        "num": 171554,
+        "word": "张杰问两只鸟是啥",
+        "onboard_time": 1693275396,
+        "rank": 45,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 168513,
+        "num": 168513,
+        "word": "黄轩正派的脸露出反派的笑容",
+        "onboard_time": 1693276054,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164409,
+        "num": 164409,
+        "word": "不要成为除了工作没有生活的人",
+        "onboard_time": 1693271976,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159175,
+        "num": 159175,
+        "word": "白敬亭赢了比赛输了形象",
+        "onboard_time": 1693269398,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153020,
+        "num": 153020,
+        "word": "夭玹 改写结局",
+        "onboard_time": 1693236815,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}

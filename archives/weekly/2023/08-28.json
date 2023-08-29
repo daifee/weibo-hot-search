@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693277930545,
+  "endTime": 1693279067148,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -179,6 +179,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 1711154,
+      "num": 1711154,
+      "word": "骄阳伴我定档",
+      "onboard_time": 1693275456,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1672535,
       "num": 1672535,
       "word": "大英博物馆馆长辞职",
@@ -193,14 +201,6 @@
       "onboard_time": 1693224997,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1615504,
-      "num": 1615504,
-      "word": "骄阳伴我定档",
-      "onboard_time": 1693275456,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1585230,
@@ -219,7 +219,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1448002,
+      "raw_hot": 1546429,
       "num": 478344,
       "word": "日本饭店招牌歧视中国人博主当场报警",
       "onboard_time": 1693275157,
@@ -587,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 751369,
+      "num": 751369,
+      "word": "印尼巴厘海发生7.1级地震",
+      "onboard_time": 1693274616,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747437,
       "num": 747437,
       "word": "台风达维或使核污染水扑向美国",
@@ -753,14 +761,6 @@
       "onboard_time": 1693274315,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 629135,
-      "num": 629135,
-      "word": "印尼巴厘海发生7.1级地震",
-      "onboard_time": 1693274616,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 624749,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520835,
+      "num": 314914,
+      "word": "家长吐槽学校30人一宿舍2人一张床",
+      "onboard_time": 1693277736,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 516848,
       "num": 516848,
       "word": "股市",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1693192898,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 471341,
+      "num": 335301,
+      "word": "张冕",
+      "onboard_time": 1693277975,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 471279,
@@ -1315,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395402,
+      "num": 395402,
+      "word": "肖战白百何新剧定档海报",
+      "onboard_time": 1693277315,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394348,
       "num": 394348,
       "word": "尼格买提报平安",
@@ -1344,6 +1368,14 @@
       "word": "民警酒后足浴店殴打残疾工作人员",
       "onboard_time": 1693178304,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386672,
+      "num": 386672,
+      "word": "取消公摊面积合理吗",
+      "onboard_time": 1693278335,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1385,6 +1417,14 @@
       "onboard_time": 1693227818,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379853,
+      "num": 326026,
+      "word": "三个少年阵容",
+      "onboard_time": 1693278515,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 379818,
@@ -1659,6 +1699,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 325942,
+      "num": 325942,
+      "word": "谁在给日本排核污染水洗白",
+      "onboard_time": 1693273296,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324718,
       "num": 277988,
       "word": "张杰嗓子好忙",
@@ -1713,14 +1761,6 @@
       "onboard_time": 1693181075,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316235,
-      "num": 316235,
-      "word": "谁在给日本排核污染水洗白",
-      "onboard_time": 1693273296,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316202,
@@ -1851,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299744,
+      "num": 299744,
+      "word": "马立奥好会营业",
+      "onboard_time": 1693273476,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298850,
       "num": 298850,
       "word": "七时吉祥初空下线好突然",
@@ -1931,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292559,
-      "num": 292559,
-      "word": "肖战白百何新剧定档海报",
-      "onboard_time": 1693277315,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 291707,
       "num": 291707,
       "word": "魏大勋报了被白敬亭关门外的仇",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1693227576,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285715,
+      "num": 285715,
+      "word": "肖春生快来看看盛阳画的肖像",
+      "onboard_time": 1693277854,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 284813,
@@ -2235,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "大爷晨练捡到80多万完璧归赵",
+      "onboard_time": 1693278576,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "直径6厘米小球能量竟比1吨煤多",
@@ -2273,14 +2329,6 @@
       "onboard_time": 1693217678,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242372,
-      "num": 242372,
-      "word": "马立奥好会营业",
-      "onboard_time": 1693273476,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 241167,
@@ -2355,6 +2403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233901,
+      "num": 233901,
+      "word": "白敬亭你就宠魏大勋吧",
+      "onboard_time": 1693274914,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230676,
       "num": 220074,
       "word": "王鹤棣直播",
@@ -2393,6 +2449,14 @@
       "onboard_time": 1693193077,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229456,
+      "num": 229456,
+      "word": "商铺老板一觉醒来门口多了个地毯",
+      "onboard_time": 1693277736,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228434,
@@ -2489,14 +2553,6 @@
       "onboard_time": 1693229256,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218579,
-      "num": 218579,
-      "word": "白敬亭你就宠魏大勋吧",
-      "onboard_time": 1693274914,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 218090,
@@ -2635,14 +2691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201141,
-      "num": 201141,
-      "word": "家长吐槽学校30人一宿舍2人一张床",
-      "onboard_time": 1693277736,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 200757,
       "num": 200757,
       "word": "原神",
@@ -2675,20 +2723,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199900,
-      "num": 199900,
-      "word": "商铺老板一觉醒来门口多了个地毯",
-      "onboard_time": 1693277736,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199386,
       "num": 196576,
       "word": "WTT名古屋女子总决赛2023",
       "onboard_time": 1693214197,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199364,
+      "num": 199364,
+      "word": "吴磊跟朋友聚餐路透",
+      "onboard_time": 1693277076,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 199150,
@@ -2819,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194194,
+      "num": 194194,
+      "word": "长大怎么写最刀",
+      "onboard_time": 1693276775,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193899,
       "num": 193899,
       "word": "漫展上令人着迷的横幅",
@@ -2899,14 +2955,6 @@
       "category": "网红,情感"
     },
     {
-      "raw_hot": 188884,
-      "num": 188884,
-      "word": "长大怎么写最刀",
-      "onboard_time": 1693276775,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188118,
       "num": 188118,
       "word": "做公益助学的朋友的做法",
@@ -2939,14 +2987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185753,
-      "num": 185753,
-      "word": "肖春生快来看看盛阳画的肖像",
-      "onboard_time": 1693277854,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184938,
       "num": 184938,
       "word": "杨超越主打一个不服输",
@@ -2969,14 +3009,6 @@
       "onboard_time": 1693152272,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184369,
-      "num": 184369,
-      "word": "吴磊跟朋友聚餐路透",
-      "onboard_time": 1693277076,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 183774,
@@ -3009,6 +3041,14 @@
       "onboard_time": 1693177884,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179525,
+      "num": 179525,
+      "word": "周笔畅演唱会官宣",
+      "onboard_time": 1693277796,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 178685,
@@ -3049,14 +3089,6 @@
       "onboard_time": 1693233879,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175856,
-      "num": 175856,
-      "word": "周笔畅演唱会官宣",
-      "onboard_time": 1693277796,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 175516,
