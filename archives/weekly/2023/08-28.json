@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693350902149,
+  "endTime": 1693352033605,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -627,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1016400,
+      "num": 1016400,
+      "word": "中元节",
+      "onboard_time": 1693350204,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1002817,
       "num": 646116,
       "word": "上海40余人吃日料后上吐下泻",
@@ -971,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 752957,
+      "num": 401793,
+      "word": "要多和大便通畅的人接吻",
+      "onboard_time": 1693350204,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 751369,
       "num": 751369,
       "word": "印尼巴厘海发生7.1级地震",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1693234239,
       "rank": 6,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 691882,
+      "num": 691882,
+      "word": "鲁山县通报花700多万建牛郎织女雕塑",
+      "onboard_time": 1693329085,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691641,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1693274315,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 629511,
-      "num": 629511,
-      "word": "鲁山县通报花700多万建牛郎织女雕塑",
-      "onboard_time": 1693329085,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 624749,
@@ -2180,7 +2196,7 @@
     },
     {
       "raw_hot": 402068,
-      "num": 308124,
+      "num": 364107,
       "word": "内娱野人",
       "onboard_time": 1693328006,
       "rank": 12,
@@ -2704,14 +2720,6 @@
       "word": "熊猫幼崽也要好好穿袜子",
       "onboard_time": 1693196198,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340991,
-      "num": 340991,
-      "word": "中元节",
-      "onboard_time": 1693350204,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3555,14 +3563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273419,
-      "num": 273419,
-      "word": "要多和大便通畅的人接吻",
-      "onboard_time": 1693350204,
-      "rank": 16,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 272733,
       "num": 272733,
       "word": "工作室这么会剪成毅知道吗",
@@ -4363,6 +4363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213580,
+      "num": 213580,
+      "word": "广东宏远 祝易建联未来一切顺利",
+      "onboard_time": 1693351046,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212916,
       "num": 212916,
       "word": "这就是海星幼体的样子",
@@ -4441,6 +4449,14 @@
       "onboard_time": 1693292916,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206823,
+      "num": 383256,
+      "word": "男孩拉门不松手被误会为熊孩子",
+      "onboard_time": 1693350986,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206789,
@@ -4729,6 +4745,14 @@
       "onboard_time": 1693197164,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196355,
+      "num": 181561,
+      "word": "9岁摄影师问吉克隽逸美甲扎不扎",
+      "onboard_time": 1693351888,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196260,
@@ -5331,6 +5355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160543,
+      "num": 160543,
+      "word": "高质量睡眠拿捏了",
+      "onboard_time": 1693330042,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160315,
       "num": 160315,
       "word": "许嵩新歌如谜",
@@ -5360,6 +5392,22 @@
       "word": "为什么不上胡金秋",
       "onboard_time": 1693218519,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158602,
+      "num": 158602,
+      "word": "为什么过桥米线门店越来越少",
+      "onboard_time": 1693351769,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 158270,
+      "num": 158270,
+      "word": "杜锋尊重易建联的决定",
+      "onboard_time": 1693351529,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -5507,11 +5555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143074,
-      "num": 143074,
-      "word": "高质量睡眠拿捏了",
-      "onboard_time": 1693330042,
-      "rank": 46,
+      "raw_hot": 142610,
+      "num": 142610,
+      "word": "08中国男篮成员全部退役",
+      "onboard_time": 1693351590,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -5585,6 +5633,14 @@
       "onboard_time": 1693308937,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133992,
+      "num": 133992,
+      "word": "战国时期的黄玉腰带扣有多惊艳",
+      "onboard_time": 1693351709,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132344,
@@ -5729,6 +5785,14 @@
       "onboard_time": 1693178426,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106379,
+      "num": 106379,
+      "word": "欧豪暑期两个角色一个今一个昔",
+      "onboard_time": 1693351407,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 104801,
@@ -5923,20 +5987,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60801,
+      "num": 1962519,
+      "word": "地图一点一线都代表祖国大好山河",
+      "onboard_time": 1693313564,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60512,
       "num": 60512,
       "word": "长沙一学校尚在施工中就开学",
       "onboard_time": 1693170733,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 52245,
-      "num": 1962519,
-      "word": "地图一点一线都代表祖国大好山河",
-      "onboard_time": 1693313564,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51902,
