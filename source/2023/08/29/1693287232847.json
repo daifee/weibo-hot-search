@@ -1,0 +1,410 @@
+{
+  "runTime": 1693287232847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1860421,
+        "num": 1860421,
+        "word": "学生趴桌午休1学期收费200",
+        "onboard_time": 1693279476,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1209096,
+        "num": 1209096,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 54139,
+        "num": 1117962,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1114550,
+        "num": 1114550,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1073632,
+        "num": 1073632,
+        "word": "警察称自己接触的缅北电诈者95%是自愿",
+        "onboard_time": 1693284579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925048,
+        "num": 925048,
+        "word": "女生高考结束当天车祸身亡肇事者发声",
+        "onboard_time": 1693285000,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 671218,
+        "num": 671218,
+        "word": "易烊千玺进组小小的我",
+        "onboard_time": 1693285959,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577639,
+        "num": 577639,
+        "word": "骄阳伴我定档",
+        "onboard_time": 1693275456,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486324,
+        "num": 486324,
+        "word": "封神全员性转的吸引力",
+        "onboard_time": 1693285896,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464731,
+        "num": 464731,
+        "word": "微笑pasta现在看还是好甜",
+        "onboard_time": 1693283739,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2529682,
+        "num": 463449,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683862,
+        "num": 461460,
+        "word": "博主收到日本公关邮件",
+        "onboard_time": 1693283500,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2276669,
+        "num": 459854,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 675540,
+        "num": 456438,
+        "word": "魏哲鸣183的身高170的脸",
+        "onboard_time": 1693284637,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329354,
+        "num": 454300,
+        "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+        "onboard_time": 1693281578,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1623958,
+        "num": 450598,
+        "word": "胡歌 我对不起好多人",
+        "onboard_time": 1693264405,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667853,
+        "num": 448952,
+        "word": "王栎鑫 我不仅打呼还打人",
+        "onboard_time": 1693279355,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448090,
+        "num": 448090,
+        "word": "工作多年后真正的炫耀",
+        "onboard_time": 1693285301,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428255,
+        "num": 428255,
+        "word": "王俊凯电影野孩子开通官博",
+        "onboard_time": 1693284637,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366745,
+        "num": 366745,
+        "word": "Angelababy复刻姚小蝶经典舞台",
+        "onboard_time": 1693286195,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542368,
+        "num": 362558,
+        "word": "日本饭店招牌歧视中国人博主当场报警",
+        "onboard_time": 1693275157,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341845,
+        "num": 341845,
+        "word": "李兰迪说李慕嘉身上有莽撞的少年气",
+        "onboard_time": 1693284879,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325235,
+        "num": 325235,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300975,
+        "num": 300975,
+        "word": "取消公摊面积合理吗",
+        "onboard_time": 1693278335,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288264,
+        "num": 288264,
+        "word": "董明珠自曝70岁没保养",
+        "onboard_time": 1693271016,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332950,
+        "num": 287950,
+        "word": "SEVENTEEN夫胜宽重启活动",
+        "onboard_time": 1693286315,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282240,
+        "num": 282240,
+        "word": "奥本海默",
+        "onboard_time": 1693282298,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280869,
+        "num": 280869,
+        "word": "殷世航分享留学生活",
+        "onboard_time": 1693279777,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278908,
+        "num": 278908,
+        "word": "为了吃螺蛳粉奶奶学会网购",
+        "onboard_time": 1693282298,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266160,
+        "num": 276764,
+        "word": "食困症的表现",
+        "onboard_time": 1693286078,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 476314,
+        "num": 276582,
+        "word": "林志颖自己开车上班录披哥",
+        "onboard_time": 1693286797,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383037,
+        "num": 276205,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275608,
+        "num": 275608,
+        "word": "以为虞书欣在竖中指",
+        "onboard_time": 1693286677,
+        "rank": 32,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 274347,
+        "num": 274347,
+        "word": "张婧仪女大学生既视感",
+        "onboard_time": 1693284700,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 246363,
+        "num": 246363,
+        "word": "iPhone15或新增绿色",
+        "onboard_time": 1693274315,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225989,
+        "num": 225989,
+        "word": "宋亚轩王牌对王牌路透",
+        "onboard_time": 1693279295,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222271,
+        "num": 222271,
+        "word": "在毫不知情的情况下相亲了我的朋友",
+        "onboard_time": 1693281219,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219463,
+        "num": 219463,
+        "word": "我想让我爸能亲口说出自己的名字",
+        "onboard_time": 1693286496,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215862,
+        "num": 215862,
+        "word": "大爷晨练捡到80多万完璧归赵",
+        "onboard_time": 1693278576,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213406,
+        "num": 213406,
+        "word": "黄奕版上错花轿嫁对郎剧照",
+        "onboard_time": 1693271616,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211987,
+        "num": 211987,
+        "word": "不要因为觉得妈妈可怜就想补偿她",
+        "onboard_time": 1693276234,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210587,
+        "num": 210587,
+        "word": "医院回应男子遵医嘱吃24粒头孢后急救",
+        "onboard_time": 1693283322,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209145,
+        "num": 209145,
+        "word": "A股",
+        "onboard_time": 1693272936,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204807,
+        "num": 204807,
+        "word": "华为Mate60开售",
+        "onboard_time": 1693284342,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204522,
+        "num": 204522,
+        "word": "女娃漫不经心潦草作画成品惊艳",
+        "onboard_time": 1693284279,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204137,
+        "num": 204137,
+        "word": "玲娜贝儿中秋变装",
+        "onboard_time": 1693281758,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202709,
+        "num": 202709,
+        "word": "李现雅痞绅士",
+        "onboard_time": 1693286737,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201595,
+        "num": 201595,
+        "word": "网剧星辰令",
+        "onboard_time": 1693287159,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199274,
+        "num": 199274,
+        "word": "SMTOWN回应洪胜汉缺席音乐节目",
+        "onboard_time": 1693281820,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196968,
+        "num": 196968,
+        "word": "虞书欣理解的纯欲感",
+        "onboard_time": 1693279656,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}

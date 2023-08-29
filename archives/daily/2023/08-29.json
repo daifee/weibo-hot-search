@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693286143137,
+  "endTime": 1693287232847,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2276669,
+      "num": 486794,
+      "word": "胡歌早F晚E",
+      "onboard_time": 1693285420,
+      "rank": 14,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1941751,
       "num": 371060,
       "word": "中方回应在华日本学校被砸石头和鸡蛋",
@@ -51,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1823709,
-      "num": 1823709,
+      "raw_hot": 1860421,
+      "num": 1860421,
       "word": "学生趴桌午休1学期收费200",
       "onboard_time": 1693279476,
       "rank": 18,
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1413163,
-      "num": 486794,
-      "word": "胡歌早F晚E",
-      "onboard_time": 1693285420,
-      "rank": 14,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 1222454,
       "num": 478129,
       "word": "中国游客赴日意愿下降日本业界很担心",
@@ -155,12 +155,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1073632,
+      "num": 1073632,
+      "word": "警察称自己接触的缅北电诈者95%是自愿",
+      "onboard_time": 1693284579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030219,
       "num": 1030219,
       "word": "夭玹 改写结局",
       "onboard_time": 1693236815,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 925048,
+      "num": 925048,
+      "word": "女生高考结束当天车祸身亡肇事者发声",
+      "onboard_time": 1693285000,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 891040,
@@ -191,14 +207,6 @@
       "num": 808935,
       "word": "同年同月同日生同专业同班同宿舍",
       "onboard_time": 1693273656,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 787157,
-      "num": 787157,
-      "word": "警察称自己接触的缅北电诈者95%是自愿",
-      "onboard_time": 1693284579,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 675540,
+      "num": 482127,
+      "word": "魏哲鸣183的身高170的脸",
+      "onboard_time": 1693284637,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672976,
       "num": 672976,
       "word": "宋亚轩王牌对王牌路透",
@@ -259,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 671218,
+      "num": 671218,
+      "word": "易烊千玺进组小小的我",
+      "onboard_time": 1693285959,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667635,
       "num": 667635,
       "word": "警方通报足浴店故意伤害案",
       "onboard_time": 1693268018,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 639867,
-      "num": 483611,
-      "word": "女生高考结束当天车祸身亡肇事者发声",
-      "onboard_time": 1693285000,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 639199,
@@ -305,14 +321,6 @@
       "onboard_time": 1693279777,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 603740,
-      "num": 482127,
-      "word": "魏哲鸣183的身高170的脸",
-      "onboard_time": 1693284637,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 596844,
@@ -443,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486324,
+      "num": 486324,
+      "word": "封神全员性转的吸引力",
+      "onboard_time": 1693285896,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478305,
       "num": 335571,
       "word": "虞书欣理解的纯欲感",
       "onboard_time": 1693279656,
       "rank": 41,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 476314,
+      "num": 276582,
+      "word": "林志颖自己开车上班录披哥",
+      "onboard_time": 1693286797,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 468583,
@@ -465,6 +489,14 @@
       "onboard_time": 1693273059,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448090,
+      "num": 448090,
+      "word": "工作多年后真正的炫耀",
+      "onboard_time": 1693285301,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 440829,
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383037,
+      "num": 276205,
+      "word": "一碗面把我留在了小城市",
+      "onboard_time": 1693285601,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 382637,
       "num": 382637,
       "word": "肖战郭靖概念图",
@@ -609,6 +649,14 @@
       "onboard_time": 1693279595,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366745,
+      "num": 366745,
+      "word": "Angelababy复刻姚小蝶经典舞台",
+      "onboard_time": 1693286195,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 365751,
@@ -673,6 +721,14 @@
       "onboard_time": 1693284279,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332950,
+      "num": 287950,
+      "word": "SEVENTEEN夫胜宽重启活动",
+      "onboard_time": 1693286315,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 332077,
@@ -771,22 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292000,
-      "num": 288849,
-      "word": "工作多年后真正的炫耀",
-      "onboard_time": 1693285301,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 289262,
-      "num": 289262,
-      "word": "封神全员性转的吸引力",
-      "onboard_time": 1693285896,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289040,
       "num": 289040,
       "word": "田蓉住进金珑湾",
@@ -827,12 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279453,
-      "num": 279453,
-      "word": "易烊千玺进组小小的我",
-      "onboard_time": 1693285959,
+      "raw_hot": 275608,
+      "num": 275608,
+      "word": "以为虞书欣在竖中指",
+      "onboard_time": 1693286677,
       "rank": 32,
-      "category": "影视"
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 270670,
@@ -849,6 +889,14 @@
       "onboard_time": 1693239572,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266160,
+      "num": 276764,
+      "word": "食困症的表现",
+      "onboard_time": 1693286078,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 265099,
@@ -905,14 +953,6 @@
       "onboard_time": 1693280917,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255116,
-      "num": 255116,
-      "word": "一碗面把我留在了小城市",
-      "onboard_time": 1693285601,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 250885,
@@ -1051,6 +1091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 219463,
+      "num": 219463,
+      "word": "我想让我爸能亲口说出自己的名字",
+      "onboard_time": 1693286496,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211377,
       "num": 211377,
       "word": "男孩带录取通知书与服刑父亲见面",
@@ -1075,20 +1123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202709,
+      "num": 202709,
+      "word": "李现雅痞绅士",
+      "onboard_time": 1693286737,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201595,
+      "num": 201595,
+      "word": "网剧星辰令",
+      "onboard_time": 1693287159,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199364,
       "num": 199364,
       "word": "吴磊跟朋友聚餐路透",
       "onboard_time": 1693277076,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198817,
-      "num": 198817,
-      "word": "食困症的表现",
-      "onboard_time": 1693286078,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 198212,
