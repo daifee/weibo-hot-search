@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693280036348,
+  "endTime": 1693282795304,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -15,6 +15,14 @@
       "num": 483974,
       "word": "胡歌 我对不起好多人",
       "onboard_time": 1693264405,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4479060,
+      "num": 397496,
+      "word": "胡歌删博后发自拍",
+      "onboard_time": 1693280435,
       "rank": 10,
       "category": "艺人"
     },
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1813579,
+      "num": 1813579,
+      "word": "取消公摊面积合理吗",
+      "onboard_time": 1693278335,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1812287,
       "num": 1812287,
       "word": "妈妈翻出女儿离世前拼命学习视频",
@@ -203,6 +219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1600976,
+      "num": 469048,
+      "word": "王栎鑫 我不仅打呼还打人",
+      "onboard_time": 1693279355,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1585230,
       "num": 1585230,
       "word": "董明珠自曝70岁没保养",
@@ -240,6 +264,14 @@
       "word": "男子大三挂科退学10年后再次考上大学",
       "onboard_time": 1693205256,
       "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1406530,
+      "num": 1406530,
+      "word": "学生趴桌午休1学期收费200",
+      "onboard_time": 1693279476,
+      "rank": 18,
       "category": "教育,社会新闻"
     },
     {
@@ -363,14 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1007209,
-      "num": 1007209,
-      "word": "取消公摊面积合理吗",
-      "onboard_time": 1693278335,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 968700,
       "num": 968700,
       "word": "妹妹被正式确诊为曾毅",
@@ -441,14 +465,6 @@
       "onboard_time": 1693208617,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872401,
-      "num": 469048,
-      "word": "王栎鑫 我不仅打呼还打人",
-      "onboard_time": 1693279355,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 870721,
@@ -859,6 +875,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 581643,
+      "num": 396475,
+      "word": "殷世航分享留学生活",
+      "onboard_time": 1693279777,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 575384,
       "num": 567423,
       "word": "男子称按处方吃24粒头孢腹泻进急诊",
@@ -1091,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478305,
+      "num": 335571,
+      "word": "虞书欣理解的纯欲感",
+      "onboard_time": 1693279656,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 476565,
       "num": 476565,
       "word": "谁给胡兵投的票",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1693195783,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448106,
+      "num": 448106,
+      "word": "易烊千玺实体专",
+      "onboard_time": 1693281820,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 445675,
@@ -1299,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418462,
+      "num": 322211,
+      "word": "在毫不知情的情况下相亲了我的朋友",
+      "onboard_time": 1693281219,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 417066,
       "num": 408381,
       "word": "鞠婧祎被停车杆打到",
@@ -1339,6 +1387,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 405161,
+      "num": 405161,
+      "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+      "onboard_time": 1693281578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404908,
       "num": 404908,
       "word": "胡兵私服审美",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1693206877,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396340,
+      "num": 396340,
+      "word": "肖战盛阳年下感",
+      "onboard_time": 1693280074,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 395402,
@@ -1507,12 +1571,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 368412,
+      "num": 368412,
+      "word": "徐明浩 我说过要成为大家的大树",
+      "onboard_time": 1693279595,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367712,
       "num": 367712,
       "word": "68元甜品自助",
       "onboard_time": 1693203216,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 365751,
+      "num": 335273,
+      "word": "文咏珊想说的话到底是什么",
+      "onboard_time": 1693281036,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 364215,
@@ -1619,6 +1699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 344650,
+      "num": 335203,
+      "word": "奥本海默",
+      "onboard_time": 1693282298,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343505,
       "num": 343505,
       "word": "男孩怕瓜有毒让民警先吃",
@@ -1683,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335195,
+      "num": 335195,
+      "word": "SMTOWN回应洪胜汉缺席音乐节目",
+      "onboard_time": 1693281820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335016,
       "num": 335016,
       "word": "魏大勋开始形象管理了",
@@ -1737,6 +1833,14 @@
       "onboard_time": 1693231898,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324045,
+      "num": 324045,
+      "word": "一路朝阳导演说剧本围读先删油腻部分",
+      "onboard_time": 1693280676,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 323442,
@@ -1809,14 +1913,6 @@
       "onboard_time": 1693151433,
       "rank": 17,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 313947,
-      "num": 313947,
-      "word": "学生趴桌午休1学期收费200",
-      "onboard_time": 1693279476,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 312834,
@@ -2027,6 +2123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289040,
+      "num": 289040,
+      "word": "田蓉住进金珑湾",
+      "onboard_time": 1693280017,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288556,
       "num": 279850,
       "word": "时代少年团躺着真舒服舞台",
@@ -2056,6 +2160,14 @@
       "word": "肖春生快来看看盛阳画的肖像",
       "onboard_time": 1693277854,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285030,
+      "num": 285030,
+      "word": "藤萍为李相夷深夜写番外",
+      "onboard_time": 1693281398,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -2091,12 +2203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279571,
-      "num": 279571,
-      "word": "徐明浩 我说过要成为大家的大树",
-      "onboard_time": 1693279595,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 282036,
+      "num": 335333,
+      "word": "妹妹闯祸哥哥连忙俯身向路人道歉",
+      "onboard_time": 1693279174,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278807,
@@ -2267,6 +2379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256358,
+      "num": 256358,
+      "word": "檀健次相柳战报",
+      "onboard_time": 1693280917,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255759,
       "num": 255759,
       "word": "赵樱子演技细节",
@@ -2329,14 +2449,6 @@
       "onboard_time": 1693268435,
       "rank": 31,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 247439,
-      "num": 247439,
-      "word": "殷世航分享留学生活",
-      "onboard_time": 1693279777,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 246529,
@@ -2571,22 +2683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221809,
-      "num": 221809,
-      "word": "妹妹闯祸哥哥连忙俯身向路人道歉",
-      "onboard_time": 1693279174,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221191,
-      "num": 221191,
-      "word": "虞书欣理解的纯欲感",
-      "onboard_time": 1693279656,
-      "rank": 41,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 220298,
       "num": 220298,
       "word": "我替领导开会状态be like",
@@ -2665,6 +2761,22 @@
       "onboard_time": 1693208979,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208618,
+      "num": 208618,
+      "word": "为了吃螺蛳粉奶奶学会网购",
+      "onboard_time": 1693282298,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208304,
+      "num": 208304,
+      "word": "玲娜贝儿中秋变装",
+      "onboard_time": 1693281758,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 208270,
@@ -2891,14 +3003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195990,
-      "num": 195990,
-      "word": "田蓉住进金珑湾",
-      "onboard_time": 1693280017,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195938,
       "num": 181877,
       "word": "胡兵又来长沙了",
@@ -2977,6 +3081,14 @@
       "onboard_time": 1693183961,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193300,
+      "num": 193300,
+      "word": "新生群名场面",
+      "onboard_time": 1693282718,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 191932,
@@ -3897,6 +4009,14 @@
       "onboard_time": 1693221217,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5399,
+      "num": 322215,
+      "word": "亚运吉祥物图案的红绿灯",
+      "onboard_time": 1693282718,
+      "rank": 30,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -3917,6 +4037,9 @@
     },
     {
       "word": "#互联护苗#"
+    },
+    {
+      "word": "#构建发展共同体#"
     }
   ]
 }

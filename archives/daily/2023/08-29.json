@@ -1,12 +1,20 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693280036348,
+  "endTime": 1693282795304,
   "band_list": [
     {
       "raw_hot": 4771641,
       "num": 483974,
       "word": "胡歌 我对不起好多人",
       "onboard_time": 1693264405,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4479060,
+      "num": 397496,
+      "word": "胡歌删博后发自拍",
+      "onboard_time": 1693280435,
       "rank": 10,
       "category": "艺人"
     },
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1813579,
+      "num": 1813579,
+      "word": "取消公摊面积合理吗",
+      "onboard_time": 1693278335,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1812287,
       "num": 1812287,
       "word": "妈妈翻出女儿离世前拼命学习视频",
@@ -65,6 +81,14 @@
       "onboard_time": 1693275456,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1600976,
+      "num": 469048,
+      "word": "王栎鑫 我不仅打呼还打人",
+      "onboard_time": 1693279355,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1585230,
@@ -91,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1406530,
+      "num": 1406530,
+      "word": "学生趴桌午休1学期收费200",
+      "onboard_time": 1693279476,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1222454,
       "num": 478129,
       "word": "中国游客赴日意愿下降日本业界很担心",
@@ -115,28 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1007209,
-      "num": 1007209,
-      "word": "取消公摊面积合理吗",
-      "onboard_time": 1693278335,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 891040,
       "num": 441253,
       "word": "吴磊被骑友大哥要微信",
       "onboard_time": 1693228419,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 872401,
-      "num": 469048,
-      "word": "王栎鑫 我不仅打呼还打人",
-      "onboard_time": 1693279355,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 858633,
@@ -243,6 +259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 581643,
+      "num": 396475,
+      "word": "殷世航分享留学生活",
+      "onboard_time": 1693279777,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 571530,
       "num": 250273,
       "word": "孔雪儿网红感",
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478305,
+      "num": 335571,
+      "word": "虞书欣理解的纯欲感",
+      "onboard_time": 1693279656,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 468583,
       "num": 354451,
       "word": "不要因为觉得妈妈可怜就想补偿她",
@@ -345,6 +377,14 @@
       "onboard_time": 1693273059,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448106,
+      "num": 448106,
+      "word": "易烊千玺实体专",
+      "onboard_time": 1693281820,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 440829,
@@ -403,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418462,
+      "num": 322211,
+      "word": "在毫不知情的情况下相亲了我的朋友",
+      "onboard_time": 1693281219,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "2023歌手演唱会封神现场",
@@ -425,6 +473,22 @@
       "onboard_time": 1693233041,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405161,
+      "num": 405161,
+      "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+      "onboard_time": 1693281578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396340,
+      "num": 396340,
+      "word": "肖战盛阳年下感",
+      "onboard_time": 1693280074,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 395402,
@@ -451,6 +515,22 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 368412,
+      "num": 368412,
+      "word": "徐明浩 我说过要成为大家的大树",
+      "onboard_time": 1693279595,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 365751,
+      "num": 335273,
+      "word": "文咏珊想说的话到底是什么",
+      "onboard_time": 1693281036,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363962,
       "num": 363962,
       "word": "金所炫黄旼炫吻戏",
@@ -475,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344650,
+      "num": 335203,
+      "word": "奥本海默",
+      "onboard_time": 1693282298,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343333,
       "num": 220769,
       "word": "考研暂停 爱笔去世",
@@ -489,6 +577,14 @@
       "onboard_time": 1693267295,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335195,
+      "num": 335195,
+      "word": "SMTOWN回应洪胜汉缺席音乐节目",
+      "onboard_time": 1693281820,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 332077,
@@ -507,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324045,
+      "num": 324045,
+      "word": "一路朝阳导演说剧本围读先删油腻部分",
+      "onboard_time": 1693280676,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323097,
       "num": 276092,
       "word": "二十多岁其实是很艰难的年纪",
@@ -521,14 +625,6 @@
       "onboard_time": 1693219477,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313947,
-      "num": 313947,
-      "word": "学生趴桌午休1学期收费200",
-      "onboard_time": 1693279476,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 308244,
@@ -571,11 +667,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289040,
+      "num": 289040,
+      "word": "田蓉住进金珑湾",
+      "onboard_time": 1693280017,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285715,
       "num": 285715,
       "word": "肖春生快来看看盛阳画的肖像",
       "onboard_time": 1693277854,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285030,
+      "num": 285030,
+      "word": "藤萍为李相夷深夜写番外",
+      "onboard_time": 1693281398,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -587,12 +699,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 279571,
-      "num": 279571,
-      "word": "徐明浩 我说过要成为大家的大树",
-      "onboard_time": 1693279595,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 282036,
+      "num": 335333,
+      "word": "妹妹闯祸哥哥连忙俯身向路人道歉",
+      "onboard_time": 1693279174,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270670,
@@ -659,6 +771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 256358,
+      "num": 256358,
+      "word": "檀健次相柳战报",
+      "onboard_time": 1693280917,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250885,
       "num": 250885,
       "word": "黄轩正派的脸露出反派的笑容",
@@ -681,14 +801,6 @@
       "onboard_time": 1693268435,
       "rank": 31,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 247439,
-      "num": 247439,
-      "word": "殷世航分享留学生活",
-      "onboard_time": 1693279777,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 246529,
@@ -755,28 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221809,
-      "num": 221809,
-      "word": "妹妹闯祸哥哥连忙俯身向路人道歉",
-      "onboard_time": 1693279174,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221364,
       "num": 221364,
       "word": "董明珠怒斥员工吃着碗里看着锅里",
       "onboard_time": 1693207234,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221191,
-      "num": 221191,
-      "word": "虞书欣理解的纯欲感",
-      "onboard_time": 1693279656,
-      "rank": 41,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 220033,
@@ -793,6 +889,22 @@
       "onboard_time": 1693233400,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 208618,
+      "num": 208618,
+      "word": "为了吃螺蛳粉奶奶学会网购",
+      "onboard_time": 1693282298,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208304,
+      "num": 208304,
+      "word": "玲娜贝儿中秋变装",
+      "onboard_time": 1693281758,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 205744,
@@ -843,20 +955,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 195990,
-      "num": 195990,
-      "word": "田蓉住进金珑湾",
-      "onboard_time": 1693280017,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194240,
       "num": 411742,
       "word": "孙志刚接受审查调查",
       "onboard_time": 1693266272,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193300,
+      "num": 193300,
+      "word": "新生群名场面",
+      "onboard_time": 1693282718,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 191332,
@@ -1233,6 +1345,14 @@
       "onboard_time": 1693254553,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 5399,
+      "num": 322215,
+      "word": "亚运吉祥物图案的红绿灯",
+      "onboard_time": 1693282718,
+      "rank": 30,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -1241,6 +1361,9 @@
     },
     {
       "word": "#互联护苗#"
+    },
+    {
+      "word": "#构建发展共同体#"
     }
   ]
 }
