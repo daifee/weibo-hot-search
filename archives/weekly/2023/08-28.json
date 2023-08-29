@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693344844852,
+  "endTime": 1693347439206,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -6041,6 +6041,14 @@
       "onboard_time": 1693247421,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23367,
+      "num": 28425,
+      "word": "吴磊骑行偶遇狐狸",
+      "onboard_time": 1693347317,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 23326,
