@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693304283008,
+  "endTime": 1693305284273,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -323,11 +323,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1542944,
+      "num": 1176520,
+      "word": "日本或向世贸组织起诉中国禁令",
+      "onboard_time": 1693303177,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1531181,
       "num": 1531181,
       "word": "杨幂称作为演员要自觉抵制天价片酬",
       "onboard_time": 1693296577,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1509007,
+      "num": 1509007,
+      "word": "宁安如梦",
+      "onboard_time": 1693302759,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -401,14 +417,6 @@
       "onboard_time": 1693222898,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1236347,
-      "num": 1236347,
-      "word": "宁安如梦",
-      "onboard_time": 1693302759,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1222454,
@@ -505,6 +513,14 @@
       "onboard_time": 1693179389,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1043019,
+      "num": 1043019,
+      "word": "马立奥坐下那刻偶像剧都弱爆了",
+      "onboard_time": 1693303960,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1040966,
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 678434,
-      "num": 429764,
+      "num": 488258,
       "word": "上海40余人吃日料后上吐下泻",
       "onboard_time": 1693301080,
       "rank": 23,
@@ -937,6 +953,14 @@
       "onboard_time": 1693284637,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 674369,
+      "num": 674369,
+      "word": "雪糕可以冷门不可以邪门",
+      "onboard_time": 1693302579,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 673682,
@@ -1315,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 522422,
-      "num": 522422,
-      "word": "日本或向世贸组织起诉中国禁令",
-      "onboard_time": 1693303177,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 520835,
       "num": 314914,
       "word": "家长吐槽学校30人一宿舍2人一张床",
@@ -1619,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440262,
-      "num": 440262,
-      "word": "雪糕可以冷门不可以邪门",
-      "onboard_time": 1693302579,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 439944,
       "num": 439944,
       "word": "周深红毯上修伞",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1693189714,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 434182,
+      "num": 434182,
+      "word": "谁家男女主恋爱谈7次啊",
+      "onboard_time": 1693301977,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 432965,
@@ -1817,14 +1833,6 @@
       "onboard_time": 1693133373,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 400817,
-      "num": 400817,
-      "word": "谁家男女主恋爱谈7次啊",
-      "onboard_time": 1693301977,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 400643,
@@ -1987,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378020,
+      "num": 2880777,
+      "word": "男子东北自助扫码买到2元1个的西瓜",
+      "onboard_time": 1693298678,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377866,
       "num": 334362,
       "word": "赛百味为何不受欢迎了",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1693149636,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375312,
+      "num": 375312,
+      "word": "鬼灭之刃coser灭火",
+      "onboard_time": 1693303537,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 372422,
@@ -2099,20 +2123,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 360504,
+      "num": 360504,
+      "word": "焦桃烂鹅",
+      "onboard_time": 1693303777,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360088,
       "num": 360088,
       "word": "我跟你们有钱人拼了",
       "onboard_time": 1693292375,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358624,
-      "num": 2880777,
-      "word": "男子东北自助扫码买到2元1个的西瓜",
-      "onboard_time": 1693298678,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357906,
@@ -2137,14 +2161,6 @@
       "onboard_time": 1693154606,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 352617,
-      "num": 352617,
-      "word": "马立奥坐下那刻偶像剧都弱爆了",
-      "onboard_time": 1693303960,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 350783,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1693286315,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331321,
+      "num": 331321,
+      "word": "文咏珊找到自己的戏路了",
+      "onboard_time": 1693304737,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 330773,
@@ -2611,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301990,
+      "num": 1715036,
+      "word": "司机把儿子送的父亲节礼物挂到现在",
+      "onboard_time": 1693302640,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301909,
       "num": 301909,
       "word": "天津大爷人均全红婵",
@@ -2787,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287473,
+      "num": 260439,
+      "word": "南风知我意招商",
+      "onboard_time": 1693304317,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287346,
       "num": 287346,
       "word": "玲娜贝儿中秋变装",
@@ -2835,14 +2875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283428,
-      "num": 1715036,
-      "word": "司机把儿子送的父亲节礼物挂到现在",
-      "onboard_time": 1693302640,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283242,
       "num": 283242,
       "word": "姬发姜子牙 同样的装备",
@@ -2873,6 +2905,14 @@
       "onboard_time": 1693279174,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280357,
+      "num": 280357,
+      "word": "锁骨的由来确实和锁有关",
+      "onboard_time": 1693303477,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 278807,
@@ -2955,6 +2995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269893,
+      "num": 269893,
+      "word": "弟弟开学前凌晨厕所灯补暑假作业",
+      "onboard_time": 1693302998,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 269690,
       "num": 269690,
       "word": "马嘉祺说会给大家创造更多见面的机会",
@@ -3001,6 +3049,14 @@
       "onboard_time": 1693207355,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265522,
+      "num": 193765,
+      "word": "捉妖记肖战是群演",
+      "onboard_time": 1693305101,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 265173,
@@ -3123,14 +3179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253518,
-      "num": 253518,
-      "word": "鬼灭之刃coser灭火",
-      "onboard_time": 1693303537,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 251919,
       "num": 248702,
       "word": "我李玉湖就要来了",
@@ -3219,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243908,
+      "num": 193100,
+      "word": "吴磊录音紧张得说绕口令",
+      "onboard_time": 1693304137,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243353,
       "num": 401160,
       "word": "喀什巴楚县4.6级地震",
@@ -3283,14 +3339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238049,
-      "num": 238049,
-      "word": "弟弟开学前凌晨厕所灯补暑假作业",
-      "onboard_time": 1693302998,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 237511,
       "num": 237511,
       "word": "屈楚萧回应网友喊张万森下雪了",
@@ -3353,6 +3401,14 @@
       "onboard_time": 1693152335,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234217,
+      "num": 234217,
+      "word": "丰田日本全部14座工厂将停产",
+      "onboard_time": 1693305158,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234161,
@@ -3609,22 +3665,6 @@
       "onboard_time": 1693296037,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 213669,
-      "num": 213669,
-      "word": "锁骨的由来确实和锁有关",
-      "onboard_time": 1693303477,
-      "rank": 41,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 213426,
-      "num": 213426,
-      "word": "焦桃烂鹅",
-      "onboard_time": 1693303777,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 211131,
@@ -4171,12 +4211,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 182175,
-      "num": 182175,
-      "word": "吴磊录音紧张得说绕口令",
-      "onboard_time": 1693304137,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 181609,
+      "num": 1515221,
+      "word": "当代高中生有多勤俭节约",
+      "onboard_time": 1693303233,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181452,
@@ -4185,6 +4225,14 @@
       "onboard_time": 1693177884,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180545,
+      "num": 180545,
+      "word": "Mate60pro",
+      "onboard_time": 1693305218,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 180370,
@@ -4252,7 +4300,7 @@
     },
     {
       "raw_hot": 176579,
-      "num": 1422512,
+      "num": 1955464,
       "word": "亚运村里的江浙菜品有多馋人",
       "onboard_time": 1693233879,
       "rank": 2,
@@ -4433,14 +4481,6 @@
       "onboard_time": 1693264827,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159778,
-      "num": 1499857,
-      "word": "当代高中生有多勤俭节约",
-      "onboard_time": 1693303233,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159284,

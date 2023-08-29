@@ -1,0 +1,410 @@
+{
+  "runTime": 1693305284273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3741084,
+        "num": 3741084,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378020,
+        "num": 2518747,
+        "word": "男子东北自助扫码买到2元1个的西瓜",
+        "onboard_time": 1693298678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6092,
+        "num": 1955464,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1747427,
+        "num": 1747427,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301990,
+        "num": 1636448,
+        "word": "司机把儿子送的父亲节礼物挂到现在",
+        "onboard_time": 1693302640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1597592,
+        "num": 1597592,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 181609,
+        "num": 1515221,
+        "word": "当代高中生有多勤俭节约",
+        "onboard_time": 1693303233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1509007,
+        "num": 1509007,
+        "word": "宁安如梦",
+        "onboard_time": 1693302759,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1300136,
+        "num": 1300136,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1233787,
+        "num": 1233787,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1542944,
+        "num": 1176520,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058403,
+        "num": 1058403,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1043019,
+        "num": 1043019,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1006631,
+        "num": 1006631,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 608515,
+        "num": 782947,
+        "word": "河南安阳42死火灾调查报告",
+        "onboard_time": 1693300837,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674369,
+        "num": 674369,
+        "word": "雪糕可以冷门不可以邪门",
+        "onboard_time": 1693302579,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 612864,
+        "num": 612864,
+        "word": "杨幂称作为演员要自觉抵制天价片酬",
+        "onboard_time": 1693296577,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585556,
+        "num": 585556,
+        "word": "真正喜欢猫咪的人开的店",
+        "onboard_time": 1693300303,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538016,
+        "num": 538016,
+        "word": "肖战三戏连播",
+        "onboard_time": 1693296697,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 490462,
+        "num": 490462,
+        "word": "邓为新剧大婚路透图",
+        "onboard_time": 1693299937,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660503,
+        "num": 488258,
+        "word": "上海40余人吃日料后上吐下泻",
+        "onboard_time": 1693301080,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464852,
+        "num": 464852,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 21,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 434182,
+        "num": 434182,
+        "word": "谁家男女主恋爱谈7次啊",
+        "onboard_time": 1693301977,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375312,
+        "num": 375312,
+        "word": "鬼灭之刃coser灭火",
+        "onboard_time": 1693303537,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 433740,
+        "num": 373021,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363842,
+        "num": 363842,
+        "word": "超级小桀回应近期争议",
+        "onboard_time": 1693300358,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 360504,
+        "num": 360504,
+        "word": "焦桃烂鹅",
+        "onboard_time": 1693303777,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346292,
+        "num": 346292,
+        "word": "女生不结婚是什么体验",
+        "onboard_time": 1693300416,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331321,
+        "num": 331321,
+        "word": "文咏珊找到自己的戏路了",
+        "onboard_time": 1693304737,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329822,
+        "num": 329822,
+        "word": "刘诗诗美拉德风",
+        "onboard_time": 1693302640,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304782,
+        "num": 304782,
+        "word": "王鹤棣狼尾",
+        "onboard_time": 1693300060,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299503,
+        "num": 299503,
+        "word": "路人镜头下的沈梦辰",
+        "onboard_time": 1693302579,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292151,
+        "num": 292151,
+        "word": "Lisa舞台着装",
+        "onboard_time": 1693298916,
+        "rank": 32,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 280357,
+        "num": 280357,
+        "word": "锁骨的由来确实和锁有关",
+        "onboard_time": 1693303477,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 269893,
+        "num": 269893,
+        "word": "弟弟开学前凌晨厕所灯补暑假作业",
+        "onboard_time": 1693302998,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 287473,
+        "num": 260439,
+        "word": "南风知我意招商",
+        "onboard_time": 1693304317,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273852,
+        "num": 253030,
+        "word": "金智秀说想吃螺蛳粉",
+        "onboard_time": 1693300778,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234217,
+        "num": 234217,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216708,
+        "num": 216708,
+        "word": "内蒙古露天煤矿坍塌事故调查报告",
+        "onboard_time": 1693300837,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195287,
+        "num": 195287,
+        "word": "医院减重门诊挤满了瘦女孩",
+        "onboard_time": 1693300060,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270818,
+        "num": 194926,
+        "word": "孙阳回应和许光汉是大学校友",
+        "onboard_time": 1693302818,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270137,
+        "num": 194120,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265522,
+        "num": 193765,
+        "word": "捉妖记肖战是群演",
+        "onboard_time": 1693305101,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243908,
+        "num": 193100,
+        "word": "吴磊录音紧张得说绕口令",
+        "onboard_time": 1693304137,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224382,
+        "num": 192131,
+        "word": "小S二女儿Lily状态",
+        "onboard_time": 1693291656,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12690,
+        "num": 191518,
+        "word": "亚运吉祥物图案的红绿灯",
+        "onboard_time": 1693282718,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190916,
+        "num": 190916,
+        "word": "小事说不停 大事拎不清",
+        "onboard_time": 1693299220,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 188636,
+        "num": 188636,
+        "word": "笑果文化再被起诉",
+        "onboard_time": 1693301558,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185065,
+        "num": 185065,
+        "word": "为什么重庆火锅锅底要加冰",
+        "onboard_time": 1693299577,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180545,
+        "num": 180545,
+        "word": "Mate60pro",
+        "onboard_time": 1693305218,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}
