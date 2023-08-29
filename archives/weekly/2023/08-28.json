@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693308832307,
+  "endTime": 1693312360954,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -147,6 +147,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 2213749,
+      "num": 2213749,
+      "word": "内蒙古赤峰发生重大刑事案件",
+      "onboard_time": 1693309236,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2147035,
       "num": 1120888,
       "word": "杰尼斯承认喜多川性侵",
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1985108,
+      "num": 1985108,
+      "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+      "onboard_time": 1693307078,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1972735,
       "num": 1972735,
       "word": "胡歌说再拍李逍遥应该让吴磊演",
@@ -225,6 +241,14 @@
       "onboard_time": 1693268737,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1879850,
+      "num": 1457614,
+      "word": "央八在干什么",
+      "onboard_time": 1693311038,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1876203,
@@ -483,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1116070,
+      "num": 669926,
+      "word": "乐嘉",
+      "onboard_time": 1693311160,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1097542,
       "num": 1031694,
       "word": "中国恒大负债2.38万亿",
@@ -547,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 973992,
+      "num": 646116,
+      "word": "上海40余人吃日料后上吐下泻",
+      "onboard_time": 1693301080,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 968700,
       "num": 968700,
       "word": "妹妹被正式确诊为曾毅",
@@ -555,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 956795,
-      "num": 713017,
-      "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
-      "onboard_time": 1693307078,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 964173,
+      "num": 964173,
+      "word": "宋茜 我没事拍摄正常进行",
+      "onboard_time": 1693308755,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 954524,
@@ -593,6 +633,14 @@
       "onboard_time": 1693285000,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 924188,
+      "num": 659160,
+      "word": "奖励初婚女性1000元能提升生育率吗",
+      "onboard_time": 1693310676,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902787,
@@ -723,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805303,
+      "num": 601254,
+      "word": "林俊杰去了hybe总部",
+      "onboard_time": 1693309659,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 805277,
       "num": 805277,
       "word": "产妇羊水栓塞输血超6万毫升被救",
@@ -833,6 +889,14 @@
       "onboard_time": 1693292375,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 749312,
+      "num": 749312,
+      "word": "华为",
+      "onboard_time": 1693309959,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 747437,
@@ -969,14 +1033,6 @@
       "onboard_time": 1693188874,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 678434,
-      "num": 646116,
-      "word": "上海40余人吃日料后上吐下泻",
-      "onboard_time": 1693301080,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675540,
@@ -1411,6 +1467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 515906,
+      "num": 515906,
+      "word": "猫的树是懂cp选角的",
+      "onboard_time": 1693310918,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515670,
       "num": 515670,
       "word": "迪丽热巴的三万水狮重回安乐寨",
@@ -1523,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 488746,
+      "num": 488746,
+      "word": "摩羯座是一个很好的伙伴",
+      "onboard_time": 1693309718,
+      "rank": 18,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 486324,
       "num": 486324,
       "word": "封神全员性转的吸引力",
@@ -1609,6 +1681,14 @@
       "onboard_time": 1693186656,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 454917,
+      "num": 454917,
+      "word": "肖战开机杀青首映时间线",
+      "onboard_time": 1693310979,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 454307,
@@ -1795,14 +1875,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 422244,
-      "num": 309290,
-      "word": "宋茜 我没事拍摄正常进行",
-      "onboard_time": 1693308755,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419454,
       "num": 419454,
       "word": "大爷晨练捡到80多万完璧归赵",
@@ -1929,6 +2001,14 @@
       "onboard_time": 1693206877,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395735,
+      "num": 395735,
+      "word": "原来一百根头发这么少",
+      "onboard_time": 1693310379,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 395402,
@@ -2547,6 +2627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322818,
+      "num": 322818,
+      "word": "胡可减重2.9kg",
+      "onboard_time": 1693310617,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321352,
       "num": 321352,
       "word": "Mate60pro",
@@ -2641,6 +2729,14 @@
       "onboard_time": 1693213179,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311678,
+      "num": 311678,
+      "word": "金美娜",
+      "onboard_time": 1693309992,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 311635,
@@ -3051,8 +3147,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277648,
+      "num": 853947,
+      "word": "7岁弟弟帮上初中姐姐熟练包书皮",
+      "onboard_time": 1693308276,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276761,
-      "num": 224378,
+      "num": 260969,
       "word": "那英澳门演唱会延期",
       "onboard_time": 1693308518,
       "rank": 40,
@@ -3153,6 +3257,14 @@
       "onboard_time": 1693287159,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267046,
+      "num": 267046,
+      "word": "心动的信号",
+      "onboard_time": 1693309300,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 266608,
@@ -3299,14 +3411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253045,
-      "num": 853947,
-      "word": "7岁弟弟帮上初中姐姐熟练包书皮",
-      "onboard_time": 1693308276,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251919,
       "num": 248702,
       "word": "我李玉湖就要来了",
@@ -3320,6 +3424,14 @@
       "word": "黄轩发了一段黑屏",
       "onboard_time": 1693287398,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251138,
+      "num": 183464,
+      "word": "Lisa私服回归中性少年风",
+      "onboard_time": 1693312180,
+      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -4403,6 +4515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178201,
+      "num": 178201,
+      "word": "娇兰直播",
+      "onboard_time": 1693312180,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 177741,
       "num": 177741,
       "word": "七时团综舞王争霸赛",
@@ -4659,6 +4779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155175,
+      "num": 155175,
+      "word": "AG超玩会",
+      "onboard_time": 1693310798,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154769,
       "num": 154769,
       "word": "医学生路过为残疾流浪猫正骨",
@@ -4841,6 +4969,14 @@
       "onboard_time": 1693240408,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135229,
+      "num": 135229,
+      "word": "中式流水席天花板",
+      "onboard_time": 1693308937,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 132344,
@@ -5043,6 +5179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85287,
+      "num": 1948163,
+      "word": "医生给出开学健康锦囊",
+      "onboard_time": 1693299937,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75744,
       "num": 1370668,
       "word": "神十六乘组有自己的Tony老师",
@@ -5088,14 +5232,6 @@
       "word": "韩国渔民心灰意冷",
       "onboard_time": 1693242863,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67322,
-      "num": 1702278,
-      "word": "医生给出开学健康锦囊",
-      "onboard_time": 1693299937,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5145,6 +5281,14 @@
       "onboard_time": 1693280017,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47968,
+      "num": 186502,
+      "word": "请允许河南人再骄傲一次",
+      "onboard_time": 1693310435,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47614,

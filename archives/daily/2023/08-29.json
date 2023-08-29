@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693308832307,
+  "endTime": 1693312360954,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -75,6 +75,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 2213749,
+      "num": 2213749,
+      "word": "内蒙古赤峰发生重大刑事案件",
+      "onboard_time": 1693309236,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2147035,
       "num": 1120888,
       "word": "杰尼斯承认喜多川性侵",
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1985108,
+      "num": 1985108,
+      "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+      "onboard_time": 1693307078,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1941751,
       "num": 371060,
       "word": "中方回应在华日本学校被砸石头和鸡蛋",
@@ -121,6 +137,14 @@
       "onboard_time": 1693268737,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1879850,
+      "num": 1457614,
+      "word": "央八在干什么",
+      "onboard_time": 1693311038,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1860421,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1116070,
+      "num": 669926,
+      "word": "乐嘉",
+      "onboard_time": 1693311160,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1084388,
       "num": 1084388,
       "word": "骄阳伴我",
@@ -299,12 +331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 956795,
-      "num": 713017,
-      "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
-      "onboard_time": 1693307078,
-      "rank": 31,
+      "raw_hot": 973992,
+      "num": 646116,
+      "word": "上海40余人吃日料后上吐下泻",
+      "onboard_time": 1693301080,
+      "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964173,
+      "num": 964173,
+      "word": "宋茜 我没事拍摄正常进行",
+      "onboard_time": 1693308755,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 925048,
@@ -313,6 +353,14 @@
       "onboard_time": 1693285000,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 924188,
+      "num": 659160,
+      "word": "奖励初婚女性1000元能提升生育率吗",
+      "onboard_time": 1693310676,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891040,
@@ -371,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805303,
+      "num": 601254,
+      "word": "林俊杰去了hybe总部",
+      "onboard_time": 1693309659,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777313,
       "num": 777313,
       "word": "朱婷 祝福中国女排一切顺利",
@@ -409,6 +465,14 @@
       "onboard_time": 1693292375,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 749312,
+      "num": 749312,
+      "word": "华为",
+      "onboard_time": 1693309959,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 746373,
@@ -473,14 +537,6 @@
       "onboard_time": 1693306716,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 678434,
-      "num": 646116,
-      "word": "上海40余人吃日料后上吐下泻",
-      "onboard_time": 1693301080,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675540,
@@ -707,6 +763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 515906,
+      "num": 515906,
+      "word": "猫的树是懂cp选角的",
+      "onboard_time": 1693310918,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515670,
       "num": 515670,
       "word": "迪丽热巴的三万水狮重回安乐寨",
@@ -763,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488746,
+      "num": 488746,
+      "word": "摩羯座是一个很好的伙伴",
+      "onboard_time": 1693309718,
+      "rank": 18,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 488181,
       "num": 488181,
       "word": "你什么档次跟国宝一个飞机",
@@ -817,6 +889,14 @@
       "onboard_time": 1693273059,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 454917,
+      "num": 454917,
+      "word": "肖战开机杀青首映时间线",
+      "onboard_time": 1693310979,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448337,
@@ -899,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422244,
-      "num": 309290,
-      "word": "宋茜 我没事拍摄正常进行",
-      "onboard_time": 1693308755,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419454,
       "num": 419454,
       "word": "大爷晨练捡到80多万完璧归赵",
@@ -985,6 +1057,14 @@
       "onboard_time": 1693289375,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 395735,
+      "num": 395735,
+      "word": "原来一百根头发这么少",
+      "onboard_time": 1693310379,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 395402,
@@ -1307,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322818,
+      "num": 322818,
+      "word": "胡可减重2.9kg",
+      "onboard_time": 1693310617,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321352,
       "num": 321352,
       "word": "Mate60pro",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1693281398,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311678,
+      "num": 311678,
+      "word": "金美娜",
+      "onboard_time": 1693309992,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 311635,
@@ -1531,8 +1627,16 @@
       "category": "其它"
     },
     {
+      "raw_hot": 277648,
+      "num": 853947,
+      "word": "7岁弟弟帮上初中姐姐熟练包书皮",
+      "onboard_time": 1693308276,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276761,
-      "num": 224378,
+      "num": 260969,
       "word": "那英澳门演唱会延期",
       "onboard_time": 1693308518,
       "rank": 40,
@@ -1585,6 +1689,14 @@
       "onboard_time": 1693287159,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267046,
+      "num": 267046,
+      "word": "心动的信号",
+      "onboard_time": 1693309300,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 266608,
@@ -1675,19 +1787,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253045,
-      "num": 853947,
-      "word": "7岁弟弟帮上初中姐姐熟练包书皮",
-      "onboard_time": 1693308276,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251804,
       "num": 251804,
       "word": "黄轩发了一段黑屏",
       "onboard_time": 1693287398,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251138,
+      "num": 183464,
+      "word": "Lisa私服回归中性少年风",
+      "onboard_time": 1693312180,
+      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -2179,6 +2291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 178201,
+      "num": 178201,
+      "word": "娇兰直播",
+      "onboard_time": 1693312180,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "4万学费宿舍到处是垃圾没法住",
@@ -2299,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155175,
+      "num": 155175,
+      "word": "AG超玩会",
+      "onboard_time": 1693310798,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154769,
       "num": 154769,
       "word": "医学生路过为残疾流浪猫正骨",
@@ -2395,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135229,
+      "num": 135229,
+      "word": "中式流水席天花板",
+      "onboard_time": 1693308937,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132344,
       "num": 160462,
       "word": "帅哥不想当男爱豆的理由",
@@ -2459,6 +2595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85287,
+      "num": 1948163,
+      "word": "医生给出开学健康锦囊",
+      "onboard_time": 1693299937,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80280,
       "num": 138005,
       "word": "WB晋级败者组第三轮",
@@ -2480,14 +2624,6 @@
       "word": "韩国渔民心灰意冷",
       "onboard_time": 1693242863,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67322,
-      "num": 1702278,
-      "word": "医生给出开学健康锦囊",
-      "onboard_time": 1693299937,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2529,6 +2665,14 @@
       "onboard_time": 1693280017,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47968,
+      "num": 186502,
+      "word": "请允许河南人再骄傲一次",
+      "onboard_time": 1693310435,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47197,

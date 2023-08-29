@@ -1,0 +1,410 @@
+{
+  "runTime": 1693312360954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2213749,
+        "num": 2213749,
+        "word": "内蒙古赤峰发生重大刑事案件",
+        "onboard_time": 1693309236,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1985108,
+        "num": 1985108,
+        "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+        "onboard_time": 1693307078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85287,
+        "num": 1948163,
+        "word": "医生给出开学健康锦囊",
+        "onboard_time": 1693299937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1930075,
+        "num": 1930075,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1531321,
+        "num": 1531321,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1879850,
+        "num": 1457614,
+        "word": "央八在干什么",
+        "onboard_time": 1693311038,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 964173,
+        "num": 964173,
+        "word": "宋茜 我没事拍摄正常进行",
+        "onboard_time": 1693308755,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 890727,
+        "num": 890727,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 749312,
+        "num": 749312,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 682109,
+        "num": 682109,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1116070,
+        "num": 669926,
+        "word": "乐嘉",
+        "onboard_time": 1693311160,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924188,
+        "num": 659160,
+        "word": "奖励初婚女性1000元能提升生育率吗",
+        "onboard_time": 1693310676,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847680,
+        "num": 645485,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287847,
+        "num": 625670,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240562,
+        "num": 621246,
+        "word": "医院为暴雨中降生的神针举办出院仪式",
+        "onboard_time": 1693308518,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805303,
+        "num": 601254,
+        "word": "林俊杰去了hybe总部",
+        "onboard_time": 1693309659,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597084,
+        "num": 597084,
+        "word": "宁安如梦",
+        "onboard_time": 1693302759,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515906,
+        "num": 515906,
+        "word": "猫的树是懂cp选角的",
+        "onboard_time": 1693310918,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488746,
+        "num": 488746,
+        "word": "摩羯座是一个很好的伙伴",
+        "onboard_time": 1693309718,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 457137,
+        "num": 457137,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605593,
+        "num": 456837,
+        "word": "这就是体制内的休假",
+        "onboard_time": 1693306716,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454917,
+        "num": 454917,
+        "word": "肖战开机杀青首映时间线",
+        "onboard_time": 1693310979,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395735,
+        "num": 395735,
+        "word": "原来一百根头发这么少",
+        "onboard_time": 1693310379,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392820,
+        "num": 392820,
+        "word": "祝绪丹一直这么显眼吗",
+        "onboard_time": 1693305398,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 973992,
+        "num": 380462,
+        "word": "上海40余人吃日料后上吐下泻",
+        "onboard_time": 1693301080,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365166,
+        "num": 365166,
+        "word": "捉妖记肖战是群演",
+        "onboard_time": 1693305101,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345790,
+        "num": 345790,
+        "word": "中国最高龄产妇盛海琳自曝被骗200多万",
+        "onboard_time": 1693305456,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344087,
+        "num": 344087,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322818,
+        "num": 322818,
+        "word": "胡可减重2.9kg",
+        "onboard_time": 1693310617,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313178,
+        "num": 313178,
+        "word": "王一博快告诉我们杨幂和杜华说什么了",
+        "onboard_time": 1693305518,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311678,
+        "num": 311678,
+        "word": "金美娜",
+        "onboard_time": 1693309992,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288368,
+        "num": 288368,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 283958,
+        "num": 283958,
+        "word": "檀健次 做人要脚踏实地",
+        "onboard_time": 1693308399,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277648,
+        "num": 277648,
+        "word": "7岁弟弟帮上初中姐姐熟练包书皮",
+        "onboard_time": 1693308276,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267046,
+        "num": 267046,
+        "word": "心动的信号",
+        "onboard_time": 1693309300,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260969,
+        "num": 260969,
+        "word": "那英澳门演唱会延期",
+        "onboard_time": 1693308518,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259861,
+        "num": 259861,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219207,
+        "num": 219207,
+        "word": "雪糕可以冷门不可以邪门",
+        "onboard_time": 1693302579,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188150,
+        "num": 188150,
+        "word": "Mate60pro",
+        "onboard_time": 1693305218,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 47968,
+        "num": 186502,
+        "word": "请允许河南人再骄傲一次",
+        "onboard_time": 1693310435,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253756,
+        "num": 185703,
+        "word": "工业糖精",
+        "onboard_time": 1693305579,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251138,
+        "num": 183464,
+        "word": "Lisa私服回归中性少年风",
+        "onboard_time": 1693312180,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228534,
+        "num": 182866,
+        "word": "邓为新剧大婚路透图",
+        "onboard_time": 1693299937,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223370,
+        "num": 180656,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202464,
+        "num": 178287,
+        "word": "肖战三戏连播",
+        "onboard_time": 1693296697,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178201,
+        "num": 178201,
+        "word": "娇兰直播",
+        "onboard_time": 1693312180,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 206480,
+        "num": 175513,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 46,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 166898,
+        "num": 166898,
+        "word": "福建人结婚的传统流水席",
+        "onboard_time": 1693306118,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155175,
+        "num": 155175,
+        "word": "AG超玩会",
+        "onboard_time": 1693310798,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135229,
+        "num": 135229,
+        "word": "中式流水席天花板",
+        "onboard_time": 1693308937,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市建设必须把让人民宜居安居放在首位#"
+    }
+  }
+}
