@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693341248410,
+  "endTime": 1693343668422,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -531,6 +531,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 28753,
+      "num": 28753,
+      "word": "齐太磊",
+      "onboard_time": 1693340054,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28341,
       "num": 28341,
       "word": "想被爱是可以主动表达的",
@@ -539,8 +547,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 24866,
-      "num": 24866,
+      "raw_hot": 26102,
+      "num": 26102,
       "word": "学习不是大脑中塞满知识的行为",
       "onboard_time": 1693339035,
       "rank": 45,
@@ -553,14 +561,6 @@
       "onboard_time": 1693299700,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20846,
-      "num": 20846,
-      "word": "齐太磊",
-      "onboard_time": 1693340054,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
