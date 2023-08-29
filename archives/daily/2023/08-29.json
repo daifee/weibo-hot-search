@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693318543067,
+  "endTime": 1693319651199,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -89,6 +89,14 @@
       "onboard_time": 1693285420,
       "rank": 14,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2281667,
+      "num": 606281,
+      "word": "李湘的履历",
+      "onboard_time": 1693317764,
+      "rank": 15,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 2258289,
@@ -203,6 +211,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1760326,
+      "num": 1760326,
+      "word": "华为",
+      "onboard_time": 1693309959,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1713467,
+      "num": 1713467,
+      "word": "科学家建议孕期不要吃这些",
+      "onboard_time": 1693316319,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1711154,
       "num": 1711154,
       "word": "骄阳伴我定档",
@@ -272,14 +296,6 @@
       "word": "警察称自己接触的缅北电诈者95%是自愿",
       "onboard_time": 1693284579,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229166,
-      "num": 1229166,
-      "word": "科学家建议孕期不要吃这些",
-      "onboard_time": 1693316319,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 959683,
-      "num": 959683,
-      "word": "华为",
-      "onboard_time": 1693309959,
-      "rank": 8,
-      "category": "科技"
-    },
-    {
       "raw_hot": 925048,
       "num": 925048,
       "word": "女生高考结束当天车祸身亡肇事者发声",
@@ -385,14 +393,6 @@
       "onboard_time": 1693228419,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 875860,
-      "num": 606281,
-      "word": "李湘的履历",
-      "onboard_time": 1693317764,
-      "rank": 15,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 871772,
@@ -425,6 +425,14 @@
       "onboard_time": 1693235380,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825713,
+      "num": 537684,
+      "word": "年轻女生不要过度共情",
+      "onboard_time": 1693316802,
+      "rank": 20,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 821762,
@@ -737,14 +745,6 @@
       "onboard_time": 1693224997,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 558820,
-      "num": 537684,
-      "word": "年轻女生不要过度共情",
-      "onboard_time": 1693316802,
-      "rank": 20,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 557433,
@@ -1243,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376156,
+      "num": 376156,
+      "word": "中国生育成本居世界第二",
+      "onboard_time": 1693318604,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375312,
       "num": 375312,
       "word": "鬼灭之刃coser灭火",
@@ -1411,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338026,
+      "num": 338026,
+      "word": "女乘客连衣裙开线地铁小姐姐缝合解围",
+      "onboard_time": 1693317704,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337819,
       "num": 337819,
       "word": "范丞丞把魏大勋惹急了",
@@ -1499,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324649,
+      "num": 324649,
+      "word": "于适理解的尊嘟假嘟",
+      "onboard_time": 1693318545,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323398,
       "num": 323398,
       "word": "中超公司董事长刘军被调查",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1693305218,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 320348,
+      "num": 320348,
+      "word": "KSG战胜AG",
+      "onboard_time": 1693319081,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 320064,
@@ -1601,6 +1633,14 @@
       "onboard_time": 1693296877,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303921,
+      "num": 303921,
+      "word": "任敏逛街生图",
+      "onboard_time": 1693318366,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 303404,
@@ -1747,14 +1787,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 282205,
-      "num": 282205,
-      "word": "女乘客连衣裙开线地铁小姐姐缝合解围",
-      "onboard_time": 1693317704,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282078,
       "num": 282078,
       "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
@@ -1859,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268182,
+      "num": 268182,
+      "word": "孤注一掷",
+      "onboard_time": 1693318241,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267312,
       "num": 256146,
       "word": "网剧星辰令",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1693286078,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265775,
+      "num": 265775,
+      "word": "谢娜核心力量",
+      "onboard_time": 1693319323,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 265161,
@@ -1928,6 +1976,14 @@
       "word": "房东的猫把云烟穿身上了",
       "onboard_time": 1693229498,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261263,
+      "num": 261263,
+      "word": "侯卓成杨汝晴约会",
+      "onboard_time": 1693318721,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1985,6 +2041,14 @@
       "onboard_time": 1693271976,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248580,
+      "num": 248580,
+      "word": "没有不心心念念郑秀晶的女人",
+      "onboard_time": 1693319081,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 248262,
@@ -2235,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214931,
-      "num": 214931,
-      "word": "任敏逛街生图",
-      "onboard_time": 1693318366,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213821,
       "num": 200399,
       "word": "孙阳为粉丝串手串",
@@ -2273,6 +2329,14 @@
       "onboard_time": 1693313022,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211017,
+      "num": 211017,
+      "word": "一路朝阳",
+      "onboard_time": 1693316261,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 209402,
@@ -2424,14 +2488,6 @@
       "word": "童话版封神往事",
       "onboard_time": 1693292737,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 194915,
-      "num": 194915,
-      "word": "一路朝阳",
-      "onboard_time": 1693316261,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -2875,6 +2931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73952,
+      "num": 608795,
+      "word": "特警跳河堤骨折忍痛救下轻生男子",
+      "onboard_time": 1693317642,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72157,
       "num": 142670,
       "word": "李毅村超比赛进球",
@@ -2961,14 +3025,6 @@
       "onboard_time": 1693249334,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 38770,
-      "num": 608795,
-      "word": "特警跳河堤骨折忍痛救下轻生男子",
-      "onboard_time": 1693317642,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37547,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1693319651199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3207790,
+        "num": 3207790,
+        "word": "央八在干什么",
+        "onboard_time": 1693311038,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1941262,
+        "num": 1941262,
+        "word": "内蒙古赤峰发生重大刑事案件",
+        "onboard_time": 1693309236,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21630,
+        "num": 1784633,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1760326,
+        "num": 1760326,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1713467,
+        "num": 1713467,
+        "word": "科学家建议孕期不要吃这些",
+        "onboard_time": 1693316319,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184916,
+        "num": 1184916,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 774028,
+        "num": 774028,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606705,
+        "num": 606705,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 572510,
+        "num": 572510,
+        "word": "张晚意田曦薇或将二搭古装",
+        "onboard_time": 1693316319,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524344,
+        "num": 524344,
+        "word": "盛阳家里摆了肖战的照片",
+        "onboard_time": 1693314342,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2281667,
+        "num": 524274,
+        "word": "李湘的履历",
+        "onboard_time": 1693317764,
+        "rank": 10,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 1224351,
+        "num": 523626,
+        "word": "奖励初婚女性1000元能提升生育率吗",
+        "onboard_time": 1693310676,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247882,
+        "num": 523301,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210074,
+        "num": 523014,
+        "word": "医院为暴雨中降生的神针举办出院仪式",
+        "onboard_time": 1693308518,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73952,
+        "num": 522678,
+        "word": "特警跳河堤骨折忍痛救下轻生男子",
+        "onboard_time": 1693317642,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096454,
+        "num": 522041,
+        "word": "乐嘉",
+        "onboard_time": 1693311160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691939,
+        "num": 521615,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598725,
+        "num": 521394,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 521073,
+        "num": 521073,
+        "word": "就此沙没穿深V",
+        "onboard_time": 1693314880,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473655,
+        "num": 473655,
+        "word": "张新成这位是你嫂嫂",
+        "onboard_time": 1693312719,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825713,
+        "num": 471530,
+        "word": "年轻女生不要过度共情",
+        "onboard_time": 1693316802,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 443694,
+        "num": 443694,
+        "word": "马嘉祺回复徐佳莹孟慧圆",
+        "onboard_time": 1693316981,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 403249,
+        "num": 403249,
+        "word": "这就是体制内的休假",
+        "onboard_time": 1693306716,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376156,
+        "num": 376156,
+        "word": "中国生育成本居世界第二",
+        "onboard_time": 1693318604,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374609,
+        "num": 374609,
+        "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+        "onboard_time": 1693307078,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347321,
+        "num": 347321,
+        "word": "吉克隽逸微指近2亿",
+        "onboard_time": 1693316564,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339053,
+        "num": 339053,
+        "word": "林俊杰去了hybe总部",
+        "onboard_time": 1693309659,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338026,
+        "num": 338026,
+        "word": "女乘客连衣裙开线地铁小姐姐缝合解围",
+        "onboard_time": 1693317704,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324649,
+        "num": 324649,
+        "word": "于适理解的尊嘟假嘟",
+        "onboard_time": 1693318545,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321630,
+        "num": 321630,
+        "word": "原来一百根头发这么少",
+        "onboard_time": 1693310379,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320348,
+        "num": 320348,
+        "word": "KSG战胜AG",
+        "onboard_time": 1693319081,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316022,
+        "num": 316022,
+        "word": "猫的树是懂cp选角的",
+        "onboard_time": 1693310918,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311318,
+        "num": 311318,
+        "word": "邓为涂山璟原声",
+        "onboard_time": 1693314280,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309863,
+        "num": 309863,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303921,
+        "num": 303921,
+        "word": "任敏逛街生图",
+        "onboard_time": 1693318366,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284643,
+        "num": 284643,
+        "word": "摩羯座是一个很好的伙伴",
+        "onboard_time": 1693309718,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 277624,
+        "num": 277624,
+        "word": "张颂文给应届毕业生的建议",
+        "onboard_time": 1693315662,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271516,
+        "num": 271516,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268182,
+        "num": 268182,
+        "word": "孤注一掷",
+        "onboard_time": 1693318241,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265775,
+        "num": 265775,
+        "word": "谢娜核心力量",
+        "onboard_time": 1693319323,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261274,
+        "num": 261274,
+        "word": "日本男篮",
+        "onboard_time": 1693315305,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261263,
+        "num": 261263,
+        "word": "侯卓成杨汝晴约会",
+        "onboard_time": 1693318721,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260612,
+        "num": 260612,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249662,
+        "num": 249662,
+        "word": "女子纹身遮黑痣网友担心癌变劝就医",
+        "onboard_time": 1693313441,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248580,
+        "num": 248580,
+        "word": "没有不心心念念郑秀晶的女人",
+        "onboard_time": 1693319081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246995,
+        "num": 246995,
+        "word": "华为Mate60评测",
+        "onboard_time": 1693313741,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243527,
+        "num": 243527,
+        "word": "宋茜 我没事拍摄正常进行",
+        "onboard_time": 1693308755,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230668,
+        "num": 230668,
+        "word": "王一博快告诉我们杨幂和杜华说什么了",
+        "onboard_time": 1693305518,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228387,
+        "num": 228387,
+        "word": "花5555元买烧饼的大爷找到了",
+        "onboard_time": 1693313681,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211017,
+        "num": 211017,
+        "word": "一路朝阳",
+        "onboard_time": 1693316261,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市建设必须把让人民宜居安居放在首位#"
+    }
+  }
+}
