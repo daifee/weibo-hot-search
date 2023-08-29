@@ -1,0 +1,410 @@
+{
+  "runTime": 1693283643740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1468079,
+        "num": 1468079,
+        "word": "取消公摊面积合理吗",
+        "onboard_time": 1693278335,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1642902,
+        "num": 1445317,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 43480,
+        "num": 1422512,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1403321,
+        "num": 1403321,
+        "word": "学生趴桌午休1学期收费200",
+        "onboard_time": 1693279476,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 955090,
+        "num": 955090,
+        "word": "骄阳伴我定档",
+        "onboard_time": 1693275456,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643754,
+        "num": 643754,
+        "word": "董明珠自曝70岁没保养",
+        "onboard_time": 1693271016,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639199,
+        "num": 639199,
+        "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+        "onboard_time": 1693281578,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569381,
+        "num": 569381,
+        "word": "奥本海默",
+        "onboard_time": 1693282298,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 558795,
+        "num": 558795,
+        "word": "宋亚轩王牌对王牌路透",
+        "onboard_time": 1693279295,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555668,
+        "num": 555668,
+        "word": "易烊千玺实体专",
+        "onboard_time": 1693281820,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4254287,
+        "num": 534787,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1461605,
+        "num": 469596,
+        "word": "王栎鑫 我不仅打呼还打人",
+        "onboard_time": 1693279355,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3584441,
+        "num": 451486,
+        "word": "胡歌 我对不起好多人",
+        "onboard_time": 1693264405,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616887,
+        "num": 382393,
+        "word": "殷世航分享留学生活",
+        "onboard_time": 1693279777,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 370546,
+        "num": 370546,
+        "word": "同年同月同日生同专业同班同宿舍",
+        "onboard_time": 1693273656,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407853,
+        "num": 365235,
+        "word": "肖战盛阳年下感",
+        "onboard_time": 1693280074,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348804,
+        "num": 348804,
+        "word": "SMTOWN回应洪胜汉缺席音乐节目",
+        "onboard_time": 1693281820,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348311,
+        "num": 348311,
+        "word": "A股",
+        "onboard_time": 1693272936,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 346221,
+        "num": 346221,
+        "word": "大爷晨练捡到80多万完璧归赵",
+        "onboard_time": 1693278576,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302742,
+        "num": 302742,
+        "word": "印尼巴厘海发生7.1级地震",
+        "onboard_time": 1693274616,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025362,
+        "num": 302631,
+        "word": "日本饭店招牌歧视中国人博主当场报警",
+        "onboard_time": 1693275157,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443322,
+        "num": 302597,
+        "word": "中国游客赴日意愿下降日本业界很担心",
+        "onboard_time": 1693272577,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434168,
+        "num": 302410,
+        "word": "虞书欣理解的纯欲感",
+        "onboard_time": 1693279656,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 406577,
+        "num": 302271,
+        "word": "不要因为觉得妈妈可怜就想补偿她",
+        "onboard_time": 1693276234,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400643,
+        "num": 302184,
+        "word": "为了吃螺蛳粉奶奶学会网购",
+        "onboard_time": 1693282298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381282,
+        "num": 302006,
+        "word": "在毫不知情的情况下相亲了我的朋友",
+        "onboard_time": 1693281219,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328886,
+        "num": 301928,
+        "word": "一路朝阳导演说剧本围读先删油腻部分",
+        "onboard_time": 1693280676,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335903,
+        "num": 301848,
+        "word": "三个少年阵容",
+        "onboard_time": 1693278515,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321641,
+        "num": 301703,
+        "word": "文咏珊想说的话到底是什么",
+        "onboard_time": 1693281036,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315504,
+        "num": 301543,
+        "word": "藤萍为李相夷深夜写番外",
+        "onboard_time": 1693281398,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306938,
+        "num": 301441,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306596,
+        "num": 301343,
+        "word": "徐明浩 我说过要成为大家的大树",
+        "onboard_time": 1693279595,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301216,
+        "num": 301216,
+        "word": "黄奕版上错花轿嫁对郎剧照",
+        "onboard_time": 1693271616,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297906,
+        "num": 297906,
+        "word": "iPhone15或新增绿色",
+        "onboard_time": 1693274315,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260860,
+        "num": 260860,
+        "word": "玲娜贝儿中秋变装",
+        "onboard_time": 1693281758,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257299,
+        "num": 257299,
+        "word": "朱婷 祝福中国女排一切顺利",
+        "onboard_time": 1693275935,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252661,
+        "num": 252661,
+        "word": "中方回应在华日本学校被砸石头和鸡蛋",
+        "onboard_time": 1693266333,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 249652,
+        "num": 249652,
+        "word": "檀健次相柳战报",
+        "onboard_time": 1693280917,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245055,
+        "num": 245055,
+        "word": "田蓉住进金珑湾",
+        "onboard_time": 1693280017,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248002,
+        "num": 242760,
+        "word": "胡歌十七年前的今天经历了车祸",
+        "onboard_time": 1693268737,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238753,
+        "num": 238753,
+        "word": "妹妹闯祸哥哥连忙俯身向路人道歉",
+        "onboard_time": 1693279174,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220659,
+        "num": 220659,
+        "word": "韩国中小学食堂禁止使用日产海鲜",
+        "onboard_time": 1693272038,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204408,
+        "num": 204408,
+        "word": "家长吐槽学校30人一宿舍2人一张床",
+        "onboard_time": 1693277736,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194232,
+        "num": 194232,
+        "word": "博主收到日本公关邮件",
+        "onboard_time": 1693283500,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194154,
+        "num": 194154,
+        "word": "医院回应男子遵医嘱吃24粒头孢后急救",
+        "onboard_time": 1693283322,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190844,
+        "num": 190844,
+        "word": "杨紫嗑cp舞到正主面前",
+        "onboard_time": 1693273059,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189185,
+        "num": 189185,
+        "word": "新生群名场面",
+        "onboard_time": 1693282718,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186119,
+        "num": 186119,
+        "word": "马立奥好会营业",
+        "onboard_time": 1693273476,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185193,
+        "num": 185193,
+        "word": "大熊猫秀一字马扑通一脚踩空",
+        "onboard_time": 1693283081,
+        "rank": 48,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 169135,
+        "num": 169135,
+        "word": "白日梦我湖南卫视定档",
+        "onboard_time": 1693275456,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}

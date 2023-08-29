@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693282795304,
+  "endTime": 1693283643740,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4479060,
-      "num": 397496,
+      "num": 534787,
       "word": "胡歌删博后发自拍",
       "onboard_time": 1693280435,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1600976,
-      "num": 469048,
+      "num": 469596,
       "word": "王栎鑫 我不仅打呼还打人",
       "onboard_time": 1693279355,
       "rank": 11,
@@ -235,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639199,
+      "num": 639199,
+      "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+      "onboard_time": 1693281578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636731,
       "num": 367213,
       "word": "iPhone15或新增绿色",
       "onboard_time": 1693274315,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 616887,
+      "num": 396475,
+      "word": "殷世航分享留学生活",
+      "onboard_time": 1693279777,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 596844,
@@ -259,14 +275,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 581643,
-      "num": 396475,
-      "word": "殷世航分享留学生活",
-      "onboard_time": 1693279777,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 571530,
       "num": 250273,
       "word": "孔雪儿网红感",
@@ -283,12 +291,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 569381,
+      "num": 569381,
+      "word": "奥本海默",
+      "onboard_time": 1693282298,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559902,
       "num": 559902,
       "word": "刘亦菲 高定",
       "onboard_time": 1693224997,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 555668,
+      "num": 555668,
+      "word": "易烊千玺实体专",
+      "onboard_time": 1693281820,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 535071,
@@ -379,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 448106,
-      "num": 448106,
-      "word": "易烊千玺实体专",
-      "onboard_time": 1693281820,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 440829,
       "num": 440829,
       "word": "82岁老人用20万存款为女儿女婿买首饰",
@@ -475,20 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405161,
-      "num": 405161,
-      "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
-      "onboard_time": 1693281578,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396340,
+      "raw_hot": 407853,
       "num": 396340,
       "word": "肖战盛阳年下感",
       "onboard_time": 1693280074,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400643,
+      "num": 302184,
+      "word": "为了吃螺蛳粉奶奶学会网购",
+      "onboard_time": 1693282298,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 395402,
@@ -547,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348804,
+      "num": 348804,
+      "word": "SMTOWN回应洪胜汉缺席音乐节目",
+      "onboard_time": 1693281820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347972,
       "num": 230852,
       "word": "oner申请吉尼斯世界纪录签售会最长时间",
       "onboard_time": 1693237474,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344650,
-      "num": 335203,
-      "word": "奥本海默",
-      "onboard_time": 1693282298,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 343333,
@@ -579,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335195,
-      "num": 335195,
-      "word": "SMTOWN回应洪胜汉缺席音乐节目",
-      "onboard_time": 1693281820,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332077,
       "num": 332077,
       "word": "中国在南极意外发现海上粮仓",
@@ -595,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328886,
+      "num": 324045,
+      "word": "一路朝阳导演说剧本围读先删油腻部分",
+      "onboard_time": 1693280676,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325942,
       "num": 325942,
       "word": "谁在给日本排核污染水洗白",
       "onboard_time": 1693273296,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324045,
-      "num": 324045,
-      "word": "一路朝阳导演说剧本围读先删油腻部分",
-      "onboard_time": 1693280676,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 323097,
@@ -625,6 +633,14 @@
       "onboard_time": 1693219477,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315504,
+      "num": 301543,
+      "word": "藤萍为李相夷深夜写番外",
+      "onboard_time": 1693281398,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 308244,
@@ -680,14 +696,6 @@
       "word": "肖春生快来看看盛阳画的肖像",
       "onboard_time": 1693277854,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 285030,
-      "num": 285030,
-      "word": "藤萍为李相夷深夜写番外",
-      "onboard_time": 1693281398,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -753,6 +761,14 @@
       "onboard_time": 1693229498,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260860,
+      "num": 260860,
+      "word": "玲娜贝儿中秋变装",
+      "onboard_time": 1693281758,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 259044,
@@ -891,22 +907,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 208618,
-      "num": 208618,
-      "word": "为了吃螺蛳粉奶奶学会网购",
-      "onboard_time": 1693282298,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 208304,
-      "num": 208304,
-      "word": "玲娜贝儿中秋变装",
-      "onboard_time": 1693281758,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205744,
       "num": 205744,
       "word": "田曦薇中式婚服造型",
@@ -963,6 +963,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194232,
+      "num": 194232,
+      "word": "博主收到日本公关邮件",
+      "onboard_time": 1693283500,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194154,
+      "num": 194154,
+      "word": "医院回应男子遵医嘱吃24粒头孢后急救",
+      "onboard_time": 1693283322,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193300,
       "num": 193300,
       "word": "新生群名场面",
@@ -993,6 +1009,14 @@
       "onboard_time": 1693236157,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185193,
+      "num": 185193,
+      "word": "大熊猫秀一字马扑通一脚踩空",
+      "onboard_time": 1693283081,
+      "rank": 48,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 181324,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 151210,
-      "num": 1239051,
+      "num": 1422512,
       "word": "亚运村里的江浙菜品有多馋人",
       "onboard_time": 1693233879,
       "rank": 2,
