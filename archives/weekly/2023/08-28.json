@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693420452624,
+  "endTime": 1693422814736,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -8379,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42591,
+      "num": 42591,
+      "word": "原来上大学后才是努力的开始",
+      "onboard_time": 1693420217,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41648,
       "num": 1284010,
       "word": "把星辰的声音谱成音乐有多美",
@@ -8411,12 +8419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36912,
+      "num": 36912,
+      "word": "这是中国男篮的真实实力吗",
+      "onboard_time": 1693419976,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34911,
       "num": 43531,
       "word": "刘德华 做朋友是不需要理由的",
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31491,
+      "num": 31491,
+      "word": "七时吉祥结局是BE还是HE",
+      "onboard_time": 1693420696,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 31130,
@@ -8451,14 +8475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28789,
-      "num": 35874,
-      "word": "原来上大学后才是努力的开始",
-      "onboard_time": 1693420217,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 28341,
       "num": 28341,
       "word": "想被爱是可以主动表达的",
@@ -8473,6 +8489,14 @@
       "onboard_time": 1693339035,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 25985,
+      "num": 28298,
+      "word": "上官花卷和心率一样稳",
+      "onboard_time": 1693422255,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 24771,
