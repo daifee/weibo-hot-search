@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693413447328,
+  "endTime": 1693415680853,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -5323,6 +5323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255003,
+      "num": 212733,
+      "word": "吴昕在KTV坐插线板最近的角落",
+      "onboard_time": 1693412492,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254139,
       "num": 238600,
       "word": "莲花楼",
@@ -6131,14 +6139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212733,
-      "num": 212733,
-      "word": "吴昕在KTV坐插线板最近的角落",
-      "onboard_time": 1693412492,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211444,
       "num": 211444,
       "word": "kpop届所谓的冷知识",
@@ -6561,6 +6561,14 @@
       "onboard_time": 1693379315,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 199478,
+      "num": 158647,
+      "word": "越晚精神越好",
+      "onboard_time": 1693412731,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199386,
@@ -7787,14 +7795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135407,
-      "num": 135407,
-      "word": "越晚精神越好",
-      "onboard_time": 1693412731,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 135229,
       "num": 135229,
       "word": "中式流水席天花板",
@@ -8067,6 +8067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97429,
+      "num": 97429,
+      "word": "00后上班能闯什么祸",
+      "onboard_time": 1693414585,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 93284,
       "num": 93284,
       "word": "10款椰子水测评",
@@ -8104,6 +8112,14 @@
       "word": "如何规范使用地图",
       "onboard_time": 1693364914,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82803,
+      "num": 82803,
+      "word": "超强台风苏拉锁定广东",
+      "onboard_time": 1693415243,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -8387,6 +8403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 29702,
+      "num": 568575,
+      "word": "开学季第一张自拍",
+      "onboard_time": 1693399539,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28823,
       "num": 798088,
       "word": "亚运吉祥物图案的红绿灯",
@@ -8449,14 +8473,6 @@
       "onboard_time": 1693165754,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11988,
-      "num": 234805,
-      "word": "开学季第一张自拍",
-      "onboard_time": 1693399539,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5992,
