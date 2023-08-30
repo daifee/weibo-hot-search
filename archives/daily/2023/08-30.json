@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693376495051,
+  "endTime": 1693377274074,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -19,12 +19,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3060940,
+      "num": 3060940,
+      "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+      "onboard_time": 1693375235,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2927046,
       "num": 767212,
       "word": "向佐女装拍杂志吓到儿子了",
       "onboard_time": 1693357297,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2813108,
+      "num": 471608,
+      "word": "周震南连发25条微博",
+      "onboard_time": 1693373738,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 2651959,
@@ -65,22 +81,6 @@
       "onboard_time": 1693362095,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2214781,
-      "num": 2214781,
-      "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
-      "onboard_time": 1693375235,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2021736,
-      "num": 471608,
-      "word": "周震南连发25条微博",
-      "onboard_time": 1693373738,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 1963728,
@@ -155,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1270057,
+      "num": 1230566,
+      "word": "以后吃瓜就知道谁是谁了",
+      "onboard_time": 1693374035,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1262133,
       "num": 1262133,
       "word": "魏大勋 欧莱雅",
       "onboard_time": 1693362393,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1230566,
-      "num": 1230566,
-      "word": "以后吃瓜就知道谁是谁了",
-      "onboard_time": 1693374035,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1192851,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 601932,
+      "num": 601932,
+      "word": "逃出大英博物馆开播",
+      "onboard_time": 1693376015,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 583137,
       "num": 577044,
       "word": "kpop能称得上帅的都在这里了",
@@ -555,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440175,
+      "num": 420660,
+      "word": "黄景瑜申请强执黑粉",
+      "onboard_time": 1693375056,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423781,
       "num": 423781,
       "word": "高叶大嫂劲又出来了",
@@ -569,14 +585,6 @@
       "onboard_time": 1693353214,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 420660,
-      "num": 420660,
-      "word": "黄景瑜申请强执黑粉",
-      "onboard_time": 1693375056,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 413431,
@@ -641,6 +649,14 @@
       "onboard_time": 1693359395,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 377118,
+      "num": 377118,
+      "word": "30岁公务员辞职做短视频博主",
+      "onboard_time": 1693376562,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374094,
@@ -747,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336047,
+      "num": 219695,
+      "word": "完美贴合的下半身",
+      "onboard_time": 1693375776,
+      "rank": 31,
+      "category": "动漫,时尚"
+    },
+    {
       "raw_hot": 334551,
       "num": 334551,
       "word": "华为Mate60",
@@ -785,14 +809,6 @@
       "onboard_time": 1693354479,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319021,
-      "num": 228685,
-      "word": "逃出大英博物馆开播",
-      "onboard_time": 1693376015,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 318626,
@@ -873,6 +889,14 @@
       "onboard_time": 1693324717,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279616,
+      "num": 199625,
+      "word": "那个被诊断为终生无法站立的孩子",
+      "onboard_time": 1693376316,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275889,
@@ -1011,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239747,
+      "num": 413022,
+      "word": "是爷爷奶奶的梦中情孙吧",
+      "onboard_time": 1693375235,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "杨阳洋开学视频",
       "onboard_time": 1693355921,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234779,
+      "num": 199559,
+      "word": "孙阳 欲望如同沼泽",
+      "onboard_time": 1693376316,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 228061,
@@ -1051,22 +1091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220986,
-      "num": 413022,
-      "word": "是爷爷奶奶的梦中情孙吧",
-      "onboard_time": 1693375235,
-      "rank": 14,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 219695,
-      "num": 219695,
-      "word": "完美贴合的下半身",
-      "onboard_time": 1693375776,
-      "rank": 31,
-      "category": "动漫,时尚"
-    },
-    {
       "raw_hot": 219349,
       "num": 219349,
       "word": "一刷弄懂奥本海默",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1693369421,
       "rank": 41,
       "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 214125,
+      "num": 199388,
+      "word": "高中班里的热搜墙",
+      "onboard_time": 1693376196,
+      "rank": 38,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 213580,
@@ -1187,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196865,
-      "num": 196865,
-      "word": "那个被诊断为终生无法站立的孩子",
-      "onboard_time": 1693376316,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192064,
       "num": 192064,
       "word": "我回到十七岁的理由",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1693358917,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190443,
+      "num": 199478,
+      "word": "黄子弘凡新歌预告",
+      "onboard_time": 1693376254,
+      "rank": 37,
+      "category": "音乐,音乐"
     },
     {
       "raw_hot": 189644,
@@ -1235,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186646,
-      "num": 186646,
-      "word": "孙阳 欲望如同沼泽",
-      "onboard_time": 1693376316,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186628,
       "num": 186628,
       "word": "如果你年纪轻轻的就不懂得约束自己",
@@ -1267,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184726,
-      "num": 184726,
-      "word": "黄子弘凡新歌预告",
-      "onboard_time": 1693376254,
-      "rank": 37,
-      "category": "音乐,音乐"
-    },
-    {
       "raw_hot": 183617,
       "num": 183617,
       "word": "张涵予 追一个贼追了20年",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1693309659,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181839,
-      "num": 181839,
-      "word": "高中班里的热搜墙",
-      "onboard_time": 1693376196,
-      "rank": 38,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 172430,
@@ -1419,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145027,
+      "num": 145027,
+      "word": "陈伟霆陆虎把古剑的缘分续上了",
+      "onboard_time": 1693376616,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142610,
       "num": 142610,
       "word": "08中国男篮成员全部退役",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1693315662,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115137,
+      "num": 115137,
+      "word": "雨西湖才是真江南",
+      "onboard_time": 1693377217,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113402,
@@ -1571,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32969,
+      "num": 1004975,
+      "word": "把星辰的声音谱成音乐有多美",
+      "onboard_time": 1693365097,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31130,
       "num": 31130,
       "word": "海南省委巡视组原组长韩太光被查",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1693339035,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 22860,
-      "num": 1004975,
-      "word": "把星辰的声音谱成音乐有多美",
-      "onboard_time": 1693365097,
-      "rank": 30,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
