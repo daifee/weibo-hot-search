@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693380839376,
+  "endTime": 1693383652260,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -11,8 +11,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 5198635,
-      "num": 5198635,
+      "raw_hot": 7720327,
+      "num": 7720327,
       "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
       "onboard_time": 1693375235,
       "rank": 0,
@@ -193,6 +193,14 @@
       "onboard_time": 1693371640,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2486721,
+      "num": 448556,
+      "word": "鸟鸟 我努力到30岁还没过上好日子",
+      "onboard_time": 1693381055,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2477731,
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1181164,
+      "num": 391498,
+      "word": "中元节最大禁忌是什么",
+      "onboard_time": 1693379558,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1175256,
       "num": 1175256,
       "word": "五条悟断臂",
@@ -1019,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 856142,
-      "num": 307548,
-      "word": "中元节最大禁忌是什么",
-      "onboard_time": 1693379558,
-      "rank": 39,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 853381,
       "num": 782459,
       "word": "华为Mate60Pro体验",
@@ -1235,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 754331,
+      "num": 433530,
+      "word": "教师出书称女生是早恋主要责任人",
+      "onboard_time": 1693379375,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 751369,
       "num": 751369,
       "word": "印尼巴厘海发生7.1级地震",
@@ -1267,6 +1283,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 745962,
+      "num": 745962,
+      "word": "张汉杰",
+      "onboard_time": 1693380996,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745871,
       "num": 334188,
       "word": "你妈只是去上厕所了",
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 730487,
-      "num": 351457,
+      "num": 360040,
       "word": "日方反咬中国洗白不了排污入海劣迹",
       "onboard_time": 1693372834,
       "rank": 21,
@@ -1795,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557598,
+      "num": 385339,
+      "word": "杨幂 思加图",
+      "onboard_time": 1693381116,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557438,
       "num": 557438,
       "word": "男子在缅逃跑身后步枪扫射",
@@ -1907,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533731,
+      "num": 533731,
+      "word": "关晓彤王牌对王牌",
+      "onboard_time": 1693379558,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530751,
       "num": 335301,
       "word": "张冕",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1693214017,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526946,
+      "num": 526946,
+      "word": "孙菲菲曾多次为霸凌事件发声",
+      "onboard_time": 1693379257,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 526820,
@@ -2145,14 +2193,6 @@
       "onboard_time": 1693195540,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 490131,
-      "num": 490131,
-      "word": "关晓彤王牌对王牌",
-      "onboard_time": 1693379558,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 486324,
@@ -2529,6 +2569,14 @@
       "onboard_time": 1693353214,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 420372,
+      "num": 420372,
+      "word": "血色恋情",
+      "onboard_time": 1693382859,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 419454,
@@ -3563,14 +3611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 320062,
-      "num": 320062,
-      "word": "孙菲菲曾多次为霸凌事件发声",
-      "onboard_time": 1693379257,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319873,
       "num": 319873,
       "word": "学长背起了三室一厅",
@@ -3729,14 +3769,6 @@
       "onboard_time": 1693308399,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 309548,
-      "num": 309548,
-      "word": "教师出书称女生是早恋主要责任人",
-      "onboard_time": 1693379375,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 306344,
@@ -4003,6 +4035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289660,
+      "num": 443551,
+      "word": "加蓬局势突变",
+      "onboard_time": 1693381540,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 289040,
       "num": 289040,
       "word": "田蓉住进金珑湾",
@@ -4083,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285162,
+      "num": 285162,
+      "word": "谁会不喜欢小青龙呢",
+      "onboard_time": 1693379436,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 285138,
       "num": 285138,
       "word": "陈奕迅上海演唱会",
@@ -4115,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284402,
+      "num": 284402,
+      "word": "小红书回应旅游搭子内容涉黄",
+      "onboard_time": 1693379075,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283339,
       "num": 283339,
       "word": "说一个烧钱但戒不掉的爱好",
@@ -4137,6 +4193,14 @@
       "onboard_time": 1693213538,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282437,
+      "num": 254329,
+      "word": "爱因斯坦的脑子卖了两万份",
+      "onboard_time": 1693382919,
+      "rank": 30,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 282078,
@@ -4209,6 +4273,14 @@
       "onboard_time": 1693308276,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277597,
+      "num": 277597,
+      "word": "何炅把谢依霖抱上木板",
+      "onboard_time": 1693380395,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 276761,
@@ -4483,20 +4555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262788,
-      "num": 220970,
-      "word": "谁会不喜欢小青龙呢",
-      "onboard_time": 1693379436,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 262636,
       "num": 262636,
       "word": "黎光李慕嘉分手后更好嗑了",
       "onboard_time": 1693239451,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262468,
+      "num": 262468,
+      "word": "汪苏泷一开口我斜刘海就长出来了",
+      "onboard_time": 1693382678,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 261263,
@@ -5148,7 +5220,7 @@
     },
     {
       "raw_hot": 220917,
-      "num": 241770,
+      "num": 450464,
       "word": "起猛了蒲熠星出cos了",
       "onboard_time": 1693380273,
       "rank": 27,
@@ -5347,6 +5419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209283,
+      "num": 209283,
+      "word": "于适新疆味尊嘟假嘟",
+      "onboard_time": 1693381836,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208270,
       "num": 208270,
       "word": "证券交易印花税实施减半征收",
@@ -5499,20 +5579,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202082,
+      "num": 202082,
+      "word": "职场无能领导的8个特征",
+      "onboard_time": 1693383099,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201575,
       "num": 195616,
       "word": "这30S谁能听进去于适讲话啊",
       "onboard_time": 1693322679,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201371,
-      "num": 201371,
-      "word": "小红书回应旅游搭子内容涉黄",
-      "onboard_time": 1693379075,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201326,
@@ -6219,6 +6299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176863,
+      "num": 176863,
+      "word": "过半人在急性心梗前有预警征兆",
+      "onboard_time": 1693383164,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176619,
       "num": 176619,
       "word": "我们只对国王那么干",
@@ -6337,6 +6425,14 @@
       "onboard_time": 1693143399,
       "rank": 42,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 169297,
+      "num": 169297,
+      "word": "写简历的人一定很有趣",
+      "onboard_time": 1693383279,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 168916,
@@ -6491,6 +6587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154829,
+      "num": 154829,
+      "word": "星穹铁道丹恒饮月起舞弄清影",
+      "onboard_time": 1693383579,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154769,
       "num": 154769,
       "word": "医学生路过为残疾流浪猫正骨",
@@ -6593,6 +6697,14 @@
       "onboard_time": 1693126232,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148780,
+      "num": 148780,
+      "word": "Jennie参演的偶像漩涡被取消",
+      "onboard_time": 1693383579,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 146965,
@@ -6833,6 +6945,14 @@
       "onboard_time": 1693177644,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123631,
+      "num": 123631,
+      "word": "孕妇街头狂奔追人交警果断出手",
+      "onboard_time": 1693383520,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117675,
@@ -7153,6 +7273,14 @@
       "onboard_time": 1693280017,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48445,
+      "num": 436211,
+      "word": "民警为女子全力修复故去双亲照片",
+      "onboard_time": 1693382499,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47614,

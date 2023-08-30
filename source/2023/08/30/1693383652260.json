@@ -1,0 +1,410 @@
+{
+  "runTime": 1693383652260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7720327,
+        "num": 7720327,
+        "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+        "onboard_time": 1693375235,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1132892,
+        "num": 1132892,
+        "word": "30岁公务员辞职做短视频博主",
+        "onboard_time": 1693376562,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30997,
+        "num": 969435,
+        "word": "把星辰的声音谱成音乐有多美",
+        "onboard_time": 1693365097,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960004,
+        "num": 960004,
+        "word": "以后吃瓜就知道谁是谁了",
+        "onboard_time": 1693374035,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 812571,
+        "num": 812571,
+        "word": "五条悟断臂",
+        "onboard_time": 1693378778,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 745962,
+        "num": 745962,
+        "word": "张汉杰",
+        "onboard_time": 1693380996,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533731,
+        "num": 533731,
+        "word": "关晓彤王牌对王牌",
+        "onboard_time": 1693379558,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634790,
+        "num": 531392,
+        "word": "浙江查获日本核辐射地区进口食品",
+        "onboard_time": 1693371640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526946,
+        "num": 526946,
+        "word": "孙菲菲曾多次为霸凌事件发声",
+        "onboard_time": 1693379257,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452212,
+        "num": 452212,
+        "word": "苹果iPhone15系列价格",
+        "onboard_time": 1693369181,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210229,
+        "num": 450464,
+        "word": "起猛了蒲熠星出cos了",
+        "onboard_time": 1693380273,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2486721,
+        "num": 448556,
+        "word": "鸟鸟 我努力到30岁还没过上好日子",
+        "onboard_time": 1693381055,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289660,
+        "num": 443551,
+        "word": "加蓬局势突变",
+        "onboard_time": 1693381540,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 169354,
+        "num": 441033,
+        "word": "是爷爷奶奶的梦中情孙吧",
+        "onboard_time": 1693375235,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 48445,
+        "num": 436211,
+        "word": "民警为女子全力修复故去双亲照片",
+        "onboard_time": 1693382499,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754331,
+        "num": 433530,
+        "word": "教师出书称女生是早恋主要责任人",
+        "onboard_time": 1693379375,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 639818,
+        "num": 430794,
+        "word": "周震南连发25条微博",
+        "onboard_time": 1693373738,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429480,
+        "num": 429480,
+        "word": "正式确诊为胡歌",
+        "onboard_time": 1693362693,
+        "rank": 17,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 420372,
+        "num": 420372,
+        "word": "血色恋情",
+        "onboard_time": 1693382859,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396806,
+        "num": 396806,
+        "word": "田曦薇小肉手",
+        "onboard_time": 1693377276,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1181164,
+        "num": 391498,
+        "word": "中元节最大禁忌是什么",
+        "onboard_time": 1693379558,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 557598,
+        "num": 385339,
+        "word": "杨幂 思加图",
+        "onboard_time": 1693381116,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360040,
+        "num": 360040,
+        "word": "日方反咬中国洗白不了排污入海劣迹",
+        "onboard_time": 1693372834,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319067,
+        "num": 319067,
+        "word": "逃出大英博物馆开播",
+        "onboard_time": 1693376015,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302899,
+        "num": 302899,
+        "word": "王阳瘦回130斤",
+        "onboard_time": 1693378116,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293498,
+        "num": 293498,
+        "word": "那个被诊断为终生无法站立的孩子",
+        "onboard_time": 1693376316,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285162,
+        "num": 285162,
+        "word": "谁会不喜欢小青龙呢",
+        "onboard_time": 1693379436,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 284402,
+        "num": 284402,
+        "word": "小红书回应旅游搭子内容涉黄",
+        "onboard_time": 1693379075,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277597,
+        "num": 277597,
+        "word": "何炅把谢依霖抱上木板",
+        "onboard_time": 1693380395,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262468,
+        "num": 262468,
+        "word": "汪苏泷一开口我斜刘海就长出来了",
+        "onboard_time": 1693382678,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282437,
+        "num": 254329,
+        "word": "爱因斯坦的脑子卖了两万份",
+        "onboard_time": 1693382919,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 221073,
+        "num": 221073,
+        "word": "谁领到了第一张居民身份证",
+        "onboard_time": 1693377515,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213520,
+        "num": 213520,
+        "word": "奥本海默",
+        "onboard_time": 1693369181,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212804,
+        "num": 212804,
+        "word": "向佐女装拍杂志吓到儿子了",
+        "onboard_time": 1693357297,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209283,
+        "num": 209283,
+        "word": "于适新疆味尊嘟假嘟",
+        "onboard_time": 1693381836,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206940,
+        "num": 206940,
+        "word": "香港15平米的家是什么样的",
+        "onboard_time": 1693365875,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 202082,
+        "num": 202082,
+        "word": "职场无能领导的8个特征",
+        "onboard_time": 1693383099,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176863,
+        "num": 176863,
+        "word": "过半人在急性心梗前有预警征兆",
+        "onboard_time": 1693383164,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169297,
+        "num": 169297,
+        "word": "写简历的人一定很有趣",
+        "onboard_time": 1693383279,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158541,
+        "num": 158541,
+        "word": "失踪俄罗斯花滑运动员戈尔巴乔娃已找到",
+        "onboard_time": 1693371279,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157206,
+        "num": 157206,
+        "word": "kpop届所谓的冷知识",
+        "onboard_time": 1693378054,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 154829,
+        "num": 154829,
+        "word": "星穹铁道丹恒饮月起舞弄清影",
+        "onboard_time": 1693383579,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148780,
+        "num": 148780,
+        "word": "Jennie参演的偶像漩涡被取消",
+        "onboard_time": 1693383579,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148463,
+        "num": 148463,
+        "word": "海豚湾恋人童星畏罪潜逃被通缉",
+        "onboard_time": 1693366962,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 145418,
+        "num": 145418,
+        "word": "华为Mate60Pro体验",
+        "onboard_time": 1693360359,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 141548,
+        "num": 141548,
+        "word": "儿子给妈妈的水壶3D打印了个盖儿",
+        "onboard_time": 1693378477,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134690,
+        "num": 134690,
+        "word": "陈哲远白色披风",
+        "onboard_time": 1693380576,
+        "rank": 46,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 134312,
+        "num": 134312,
+        "word": "黄景瑜申请强执黑粉",
+        "onboard_time": 1693375056,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131156,
+        "num": 131156,
+        "word": "一路朝阳 李慕嘉求婚发言",
+        "onboard_time": 1693367140,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123631,
+        "num": 123631,
+        "word": "孕妇街头狂奔追人交警果断出手",
+        "onboard_time": 1693383520,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩员顺应了历史发展潮流#"
+    }
+  }
+}
