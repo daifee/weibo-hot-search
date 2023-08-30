@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693427653141,
+  "endTime": 1693430111022,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -8243,6 +8243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68732,
+      "num": 50470,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65798,
       "num": 65798,
       "word": "这些货都是咋想出来的呢",
@@ -8280,14 +8288,6 @@
       "word": "FIFTY FIFTY与经纪公司的专属合约有效",
       "onboard_time": 1693251134,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 61200,
-      "num": 50024,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -8531,6 +8531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24937,
+      "num": 24937,
+      "word": "下半年成都演唱会扎堆了",
+      "onboard_time": 1693427353,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 24771,
       "num": 30792,
       "word": "都市接到办热线037165732233",
@@ -8545,14 +8553,6 @@
       "onboard_time": 1693188036,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18760,
-      "num": 18760,
-      "word": "下半年成都演唱会扎堆了",
-      "onboard_time": 1693427353,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 18117,
@@ -8572,7 +8572,7 @@
     },
     {
       "raw_hot": 17755,
-      "num": 18173,
+      "num": 19444,
       "word": "假如你住在这么大的宿舍",
       "onboard_time": 1693426394,
       "rank": 49,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693427653141,
+  "endTime": 1693430111022,
   "band_list": [
     {
       "raw_hot": 2543659,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68732,
+      "num": 50470,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65393,
       "num": 1086028,
       "word": "亚运会场如何让数万人同时丝滑上网",
@@ -449,14 +457,6 @@
       "onboard_time": 1693416802,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 61200,
-      "num": 50024,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 57672,
@@ -547,8 +547,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18760,
-      "num": 18760,
+      "raw_hot": 24937,
+      "num": 24937,
       "word": "下半年成都演唱会扎堆了",
       "onboard_time": 1693427353,
       "rank": 47,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 17755,
-      "num": 18173,
+      "num": 19444,
       "word": "假如你住在这么大的宿舍",
       "onboard_time": 1693426394,
       "rank": 49,
