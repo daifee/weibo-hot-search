@@ -1,0 +1,410 @@
+{
+  "runTime": 1693402430098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2364489,
+        "num": 2364489,
+        "word": "孙菲菲 王阳不在现场大家不要为难他",
+        "onboard_time": 1693397198,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2886092,
+        "num": 2196647,
+        "word": "疯狂小杨哥称公司每个月发工资超5000万元",
+        "onboard_time": 1693395875,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94502,
+        "num": 1427814,
+        "word": "亚运会场如何让数万人同时丝滑上网",
+        "onboard_time": 1693399720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391618,
+        "num": 1391618,
+        "word": "椰树集团招生本科生月薪涨至2万",
+        "onboard_time": 1693398698,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1346531,
+        "num": 1346531,
+        "word": "5岁儿子被撞送医途中车祸致女儿身亡",
+        "onboard_time": 1693395756,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700482,
+        "num": 700482,
+        "word": "辽宁卫视曾报道孙菲菲被霸凌事件",
+        "onboard_time": 1693395394,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690400,
+        "num": 690400,
+        "word": "中国男篮vs波多黎各男篮",
+        "onboard_time": 1693397559,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673289,
+        "num": 673289,
+        "word": "日方反咬中国洗白不了排污入海劣迹",
+        "onboard_time": 1693372834,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648716,
+        "num": 648716,
+        "word": "超级蓝月",
+        "onboard_time": 1693390535,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623229,
+        "num": 623229,
+        "word": "掏180万帮朋友还完房贷对方当场跑了",
+        "onboard_time": 1693398158,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036574,
+        "num": 606346,
+        "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+        "onboard_time": 1693375235,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577542,
+        "num": 577542,
+        "word": "古剑奇谭主题曲竟然是陆虎写的",
+        "onboard_time": 1693392395,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509793,
+        "num": 509793,
+        "word": "鸟鸟 我努力到30岁还没过上好日子",
+        "onboard_time": 1693381055,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506198,
+        "num": 506198,
+        "word": "偷偷藏不住暑期档最热都市剧",
+        "onboard_time": 1693398635,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76644,
+        "num": 484150,
+        "word": "民警翻1小时垃圾桶找回3万救命钱",
+        "onboard_time": 1693400437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468371,
+        "num": 468371,
+        "word": "杜华孟美岐吴宣仪程潇合照",
+        "onboard_time": 1693401577,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458714,
+        "num": 458714,
+        "word": "费翔为了演纣王跟乌尔善极限拉扯",
+        "onboard_time": 1693398937,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429768,
+        "num": 429768,
+        "word": "美国商务部长称持乐观态度离开中国",
+        "onboard_time": 1693399119,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421046,
+        "num": 421046,
+        "word": "范丞丞直播",
+        "onboard_time": 1693399119,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414318,
+        "num": 414318,
+        "word": "12306回应硬卧下铺别人能不能坐",
+        "onboard_time": 1693390835,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067271,
+        "num": 412261,
+        "word": "中元节最大禁忌是什么",
+        "onboard_time": 1693379558,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 632986,
+        "num": 407455,
+        "word": "王哲林",
+        "onboard_time": 1693401034,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453349,
+        "num": 405171,
+        "word": "腾讯有最全的肖战剧集",
+        "onboard_time": 1693400978,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401638,
+        "num": 401638,
+        "word": "逃出大英博物馆商标被抢注",
+        "onboard_time": 1693396716,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397460,
+        "num": 397460,
+        "word": "大爷见女网友被骗800万后身体不适去世",
+        "onboard_time": 1693401639,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389134,
+        "num": 389134,
+        "word": "原来电视剧的女主是能长嘴的啊",
+        "onboard_time": 1693401520,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350937,
+        "num": 350937,
+        "word": "邓为在李一桐面前模仿高启盛摇头",
+        "onboard_time": 1693393835,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326784,
+        "num": 326784,
+        "word": "王阳曾回应孙菲菲与导演的冲突",
+        "onboard_time": 1693386577,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323102,
+        "num": 323102,
+        "word": "边江工作室 女团舞专享版",
+        "onboard_time": 1693400738,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300961,
+        "num": 300961,
+        "word": "韩国人真是什么都Cha",
+        "onboard_time": 1693394136,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419907,
+        "num": 300159,
+        "word": "行政处罚书还原孙菲菲被打事件",
+        "onboard_time": 1693401401,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 303585,
+        "num": 299394,
+        "word": "刘诗诗吴宣仪沈月章若楠同框路透",
+        "onboard_time": 1693397977,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296907,
+        "num": 296907,
+        "word": "李凯尔扣篮",
+        "onboard_time": 1693400678,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290371,
+        "num": 290371,
+        "word": "麻辣烫中必选的菜品是什么",
+        "onboard_time": 1693399897,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 273864,
+        "num": 273864,
+        "word": "深圳明起执行认房不认贷政策",
+        "onboard_time": 1693399958,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 266163,
+        "num": 266163,
+        "word": "恋爱脑一下就被治好了",
+        "onboard_time": 1693395277,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263404,
+        "num": 263404,
+        "word": "不拿包上班的到底是啥工作",
+        "onboard_time": 1693395756,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258440,
+        "num": 258440,
+        "word": "爱奇艺是懂KPI的",
+        "onboard_time": 1693396114,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258372,
+        "num": 258372,
+        "word": "30岁公务员辞职做短视频博主",
+        "onboard_time": 1693376562,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300628,
+        "num": 257741,
+        "word": "岸田文雄午餐全是福岛食材",
+        "onboard_time": 1693387958,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257103,
+        "num": 257103,
+        "word": "根本没人选C",
+        "onboard_time": 1693385498,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245061,
+        "num": 245061,
+        "word": "中国男篮半场落后15分",
+        "onboard_time": 1693402061,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238727,
+        "num": 238727,
+        "word": "当女生收到廉价礼物时是怎么想的",
+        "onboard_time": 1693393356,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 232336,
+        "num": 232336,
+        "word": "可能出现三台风局面",
+        "onboard_time": 1693392093,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224100,
+        "num": 224100,
+        "word": "侯雯元爆料崇应彪姬发对战遗言",
+        "onboard_time": 1693401278,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221853,
+        "num": 221853,
+        "word": "苹果iPhone15系列价格",
+        "onboard_time": 1693369181,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213944,
+        "num": 213944,
+        "word": "香港的人工费有多贵",
+        "onboard_time": 1693398278,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210104,
+        "num": 210104,
+        "word": "为什么要在香菇上划十字",
+        "onboard_time": 1693388016,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 207575,
+        "num": 207575,
+        "word": "周琦状态",
+        "onboard_time": 1693399236,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195771,
+        "num": 195771,
+        "word": "丹恒饮月cos",
+        "onboard_time": 1693402118,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩员顺应了历史发展潮流#"
+    }
+  }
+}

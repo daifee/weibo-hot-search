@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693401618506,
+  "endTime": 1693402430098,
   "band_list": [
     {
       "raw_hot": 7790064,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391618,
+      "num": 1391618,
+      "word": "椰树集团招生本科生月薪涨至2万",
+      "onboard_time": 1693398698,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1363210,
       "num": 1363210,
       "word": "服务员 怎么这个房间唱歌一直放原唱",
@@ -251,16 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1253847,
-      "num": 1253847,
-      "word": "椰树集团招生本科生月薪涨至2万",
-      "onboard_time": 1693398698,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1205447,
-      "num": 391498,
+      "num": 412261,
       "word": "中元节最大禁忌是什么",
       "onboard_time": 1693379558,
       "rank": 39,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690400,
+      "num": 690400,
+      "word": "中国男篮vs波多黎各男篮",
+      "onboard_time": 1693397559,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 688827,
       "num": 688827,
       "word": "广州认房不认贷",
@@ -563,11 +571,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632986,
+      "num": 407455,
+      "word": "王哲林",
+      "onboard_time": 1693401034,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 628440,
       "num": 390553,
       "word": "女子生育期间遭家暴起诉离婚被驳",
       "onboard_time": 1693384657,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623229,
+      "num": 623229,
+      "word": "掏180万帮朋友还完房贷对方当场跑了",
+      "onboard_time": 1693398158,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -585,14 +609,6 @@
       "onboard_time": 1693393835,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 610387,
-      "num": 610387,
-      "word": "中国男篮vs波多黎各男篮",
-      "onboard_time": 1693397559,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 606564,
@@ -739,6 +755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 506198,
+      "num": 506198,
+      "word": "偷偷藏不住暑期档最热都市剧",
+      "onboard_time": 1693398635,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506064,
       "num": 729307,
       "word": "中元节曾是热闹的狂欢日",
@@ -763,22 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 501273,
-      "num": 501273,
-      "word": "掏180万帮朋友还完房贷对方当场跑了",
-      "onboard_time": 1693398158,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492621,
-      "num": 492621,
-      "word": "偷偷藏不住暑期档最热都市剧",
-      "onboard_time": 1693398635,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 487284,
       "num": 420372,
       "word": "血色恋情",
@@ -801,6 +809,14 @@
       "onboard_time": 1693303960,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468371,
+      "num": 468371,
+      "word": "杜华孟美岐吴宣仪程潇合照",
+      "onboard_time": 1693401577,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 468099,
@@ -849,6 +865,14 @@
       "onboard_time": 1693390835,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453349,
+      "num": 405171,
+      "word": "腾讯有最全的肖战剧集",
+      "onboard_time": 1693400978,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 453101,
@@ -907,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429768,
+      "num": 429768,
+      "word": "美国商务部长称持乐观态度离开中国",
+      "onboard_time": 1693399119,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423781,
       "num": 423781,
       "word": "高叶大嫂劲又出来了",
@@ -929,6 +961,14 @@
       "onboard_time": 1693396114,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419907,
+      "num": 300159,
+      "word": "行政处罚书还原孙菲菲被打事件",
+      "onboard_time": 1693401401,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 413431,
@@ -979,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397460,
+      "num": 397460,
+      "word": "大爷见女网友被骗800万后身体不适去世",
+      "onboard_time": 1693401639,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395711,
       "num": 395711,
       "word": "杜冰雁扶老婆婆反被骗",
@@ -995,28 +1043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389134,
+      "num": 389134,
+      "word": "原来电视剧的女主是能长嘴的啊",
+      "onboard_time": 1693401520,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388478,
       "num": 388478,
       "word": "中南财大通报教师擅自离境失去联系",
       "onboard_time": 1693359395,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 385034,
-      "num": 385034,
-      "word": "美国商务部长称持乐观态度离开中国",
-      "onboard_time": 1693399119,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384357,
-      "num": 384357,
-      "word": "腾讯有最全的肖战剧集",
-      "onboard_time": 1693400978,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 383643,
@@ -1251,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323102,
+      "num": 323102,
+      "word": "边江工作室 女团舞专享版",
+      "onboard_time": 1693400738,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322895,
       "num": 322895,
       "word": "恋爱脑一下就被治好了",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1693354479,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318850,
-      "num": 318850,
-      "word": "边江工作室 女团舞专享版",
-      "onboard_time": 1693400738,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 318626,
@@ -1377,6 +1417,14 @@
       "onboard_time": 1693306716,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 296907,
+      "num": 296907,
+      "word": "李凯尔扣篮",
+      "onboard_time": 1693400678,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 294735,
@@ -1603,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251920,
-      "num": 251920,
-      "word": "王哲林",
-      "onboard_time": 1693401034,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250423,
       "num": 250423,
       "word": "马伯骞喜欢姐姐类型",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1693357178,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245061,
+      "num": 245061,
+      "word": "中国男篮半场落后15分",
+      "onboard_time": 1693402061,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 243902,
@@ -1715,28 +1763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236334,
-      "num": 236334,
-      "word": "行政处罚书还原孙菲菲被打事件",
-      "onboard_time": 1693401401,
-      "rank": 39,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 234779,
       "num": 199559,
       "word": "孙阳 欲望如同沼泽",
       "onboard_time": 1693376316,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234741,
-      "num": 234741,
-      "word": "李凯尔扣篮",
-      "onboard_time": 1693400678,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 230813,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1693354540,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224100,
+      "num": 224100,
+      "word": "侯雯元爆料崇应彪姬发对战遗言",
+      "onboard_time": 1693401278,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 221626,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1693381836,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207999,
-      "num": 207999,
-      "word": "侯雯元爆料崇应彪姬发对战遗言",
-      "onboard_time": 1693401278,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 207796,
@@ -2059,12 +2091,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 195684,
-      "num": 195684,
-      "word": "杜华孟美岐吴宣仪程潇合照",
-      "onboard_time": 1693401577,
+      "raw_hot": 195771,
+      "num": 195771,
+      "word": "丹恒饮月cos",
+      "onboard_time": 1693402118,
       "rank": 49,
-      "category": "作品衍生"
+      "category": "动漫"
     },
     {
       "raw_hot": 193427,
@@ -2523,7 +2555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90088,
+      "raw_hot": 94502,
       "num": 1559240,
       "word": "亚运会场如何让数万人同时丝滑上网",
       "onboard_time": 1693399720,
@@ -2561,6 +2593,14 @@
       "onboard_time": 1693346175,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 76644,
+      "num": 493925,
+      "word": "民警翻1小时垃圾桶找回3万救命钱",
+      "onboard_time": 1693400437,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74690,
@@ -2617,14 +2657,6 @@
       "onboard_time": 1693332498,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46398,
-      "num": 493925,
-      "word": "民警翻1小时垃圾桶找回3万救命钱",
-      "onboard_time": 1693400437,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43560,
