@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693419665315,
+  "endTime": 1693420452624,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -77243,6 +77243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65187,
+      "num": 60858,
+      "word": "这么大个柜子只住两个人",
+      "onboard_time": 1693416802,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65032,
       "num": 100367,
       "word": "莲花楼原声配乐大碟已上线",
@@ -77313,14 +77321,6 @@
       "onboard_time": 1692844541,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64127,
-      "num": 60858,
-      "word": "这么大个柜子只住两个人",
-      "onboard_time": 1693416802,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 63484,
@@ -79049,6 +79049,14 @@
       "onboard_time": 1691087595,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28789,
+      "num": 35874,
+      "word": "原来上大学后才是努力的开始",
+      "onboard_time": 1693420217,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 28574,

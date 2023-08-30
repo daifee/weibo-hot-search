@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693419665315,
+  "endTime": 1693420452624,
   "band_list": [
     {
       "raw_hot": 2543659,
@@ -443,7 +443,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64127,
+      "raw_hot": 65187,
       "num": 60858,
       "word": "这么大个柜子只住两个人",
       "onboard_time": 1693416802,
@@ -481,6 +481,14 @@
       "onboard_time": 1693399539,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28789,
+      "num": 35874,
+      "word": "原来上大学后才是努力的开始",
+      "onboard_time": 1693420217,
+      "rank": 49,
+      "category": "教育"
     }
   ],
   "hotgov_list": [

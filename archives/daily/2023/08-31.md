@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/31 00:21:36 ~ 2023/08/31 02:21:05
+本榜单时间：2023/08/31 00:21:36 ~ 2023/08/31 02:34:12
 </p>
 </blockquote>
 <p>
@@ -346,7 +346,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B9%88%E5%A4%A7%E4%B8%AA%E6%9F%9C%E5%AD%90%E5%8F%AA%E4%BD%8F%E4%B8%A4%E4%B8%AA%E4%BA%BA%23" target="weibo">
-这么大个柜子只住两个人（热度：64127）
+这么大个柜子只住两个人（热度：65187）
 </a>
 </li>
 
@@ -371,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E5%AD%A3%E7%AC%AC%E4%B8%80%E5%BC%A0%E8%87%AA%E6%8B%8D%23" target="weibo">
 开学季第一张自拍（热度：37933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%8E%E6%89%8D%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%BC%80%E5%A7%8B%23" target="weibo">
+原来上大学后才是努力的开始（热度：28789）
 </a>
 </li>
 
