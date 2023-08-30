@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693357817370,
+  "endTime": 1693359017014,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2927046,
+      "num": 767212,
+      "word": "向佐女装拍杂志吓到儿子了",
+      "onboard_time": 1693357297,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2858181,
       "num": 2858181,
       "word": "内蒙古赤峰发生重大刑事案件",
@@ -152,6 +160,14 @@
       "word": "日本核废水排海已经开始影响邻国",
       "onboard_time": 1693237474,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2569827,
+      "num": 2569827,
+      "word": "中元节",
+      "onboard_time": 1693350204,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -272,14 +288,6 @@
       "word": "中国在南极意外发现海上粮仓",
       "onboard_time": 1693221878,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1944674,
-      "num": 1944674,
-      "word": "中元节",
-      "onboard_time": 1693350204,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -601,14 +609,6 @@
       "onboard_time": 1693291656,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1120335,
-      "num": 767212,
-      "word": "向佐女装拍杂志吓到儿子了",
-      "onboard_time": 1693357297,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1097542,
@@ -1059,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749202,
+      "num": 535927,
+      "word": "沪上阿姨回应21元饮品仅几块水果",
+      "onboard_time": 1693357775,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747437,
       "num": 747437,
       "word": "台风达维或使核污染水扑向美国",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1693188874,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 677871,
+      "num": 495738,
+      "word": "徐志胜 那是他们能给你的全部了",
+      "onboard_time": 1693356938,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 675540,
@@ -1483,12 +1499,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 577044,
+      "raw_hot": 583137,
       "num": 577044,
       "word": "kpop能称得上帅的都在这里了",
       "onboard_time": 1693356519,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 575471,
+      "num": 575471,
+      "word": "韩媒曝成龙金喜善合作神话2",
+      "onboard_time": 1693358438,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 575384,
@@ -1651,14 +1675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 532651,
-      "num": 339563,
-      "word": "徐志胜 那是他们能给你的全部了",
-      "onboard_time": 1693356938,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 530751,
       "num": 335301,
       "word": "张冕",
@@ -1785,6 +1801,14 @@
       "onboard_time": 1693298916,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 506064,
+      "num": 729307,
+      "word": "中元节曾是热闹的狂欢日",
+      "onboard_time": 1693356938,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501630,
@@ -2675,14 +2699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 359719,
-      "num": 729307,
-      "word": "中元节曾是热闹的狂欢日",
-      "onboard_time": 1693356938,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358429,
       "num": 358429,
       "word": "林志颖朴灿烈同款外套",
@@ -3051,6 +3067,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 326399,
+      "num": 326399,
+      "word": "长相思第二季什么时候来",
+      "onboard_time": 1693358497,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325942,
       "num": 325942,
       "word": "谁在给日本排核污染水洗白",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1693310617,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321531,
+      "num": 321531,
+      "word": "美网",
+      "onboard_time": 1693357775,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 321352,
@@ -3568,6 +3600,14 @@
       "word": "玲娜贝儿中秋变装",
       "onboard_time": 1693281758,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 286448,
+      "num": 286448,
+      "word": "被辞退你能拿到多少钱",
+      "onboard_time": 1693358377,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -4219,14 +4259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237679,
-      "num": 237679,
-      "word": "沪上阿姨回应21元饮品仅几块水果",
-      "onboard_time": 1693357775,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237511,
       "num": 237511,
       "word": "屈楚萧回应网友喊张万森下雪了",
@@ -4675,14 +4707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209642,
-      "num": 209642,
-      "word": "美网",
-      "onboard_time": 1693357775,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209402,
       "num": 191672,
       "word": "孙阳新浪扫楼",
@@ -4843,6 +4867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201326,
+      "num": 201326,
+      "word": "黄铉辰参与戳爷新歌",
+      "onboard_time": 1693358377,
+      "rank": 42,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 201040,
       "num": 194723,
       "word": "HYBE女团选秀公式照",
@@ -4937,6 +4969,14 @@
       "onboard_time": 1693200576,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198612,
+      "num": 198612,
+      "word": "相关部门调查导游评价天价雕塑被威胁",
+      "onboard_time": 1693358560,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198511,
@@ -5337,6 +5377,14 @@
       "onboard_time": 1693292014,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 179902,
+      "num": 179902,
+      "word": "九月你追哪部剧",
+      "onboard_time": 1693358917,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 179525,

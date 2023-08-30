@@ -1,0 +1,410 @@
+{
+  "runTime": 1693359017014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2569827,
+        "num": 2569827,
+        "word": "中元节",
+        "onboard_time": 1693350204,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1902136,
+        "num": 1902136,
+        "word": "华为转让多个姚安娜商标",
+        "onboard_time": 1693352972,
+        "rank": 1,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 79968,
+        "num": 1379382,
+        "word": "地图一点一线都代表祖国大好山河",
+        "onboard_time": 1693313564,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288368,
+        "num": 1288368,
+        "word": "大腿粗居然有这么多好处",
+        "onboard_time": 1693353096,
+        "rank": 3,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 1078063,
+        "num": 1078063,
+        "word": "服务员 怎么这个房间唱歌一直放原唱",
+        "onboard_time": 1693352912,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 872277,
+        "num": 872277,
+        "word": "易建联退役",
+        "onboard_time": 1693325734,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 859331,
+        "num": 859331,
+        "word": "俄罗斯16岁花滑运动员戈尔巴乔娃失踪",
+        "onboard_time": 1693352131,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 837885,
+        "num": 837885,
+        "word": "苹果发布会",
+        "onboard_time": 1693327110,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 575471,
+        "num": 575471,
+        "word": "韩媒曝成龙金喜善合作神话2",
+        "onboard_time": 1693358438,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571677,
+        "num": 571677,
+        "word": "永远的中国队长",
+        "onboard_time": 1693352733,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2927046,
+        "num": 566057,
+        "word": "向佐女装拍杂志吓到儿子了",
+        "onboard_time": 1693357297,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1142281,
+        "num": 563464,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1035465,
+        "num": 553125,
+        "word": "路人拍的景甜",
+        "onboard_time": 1693356280,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506064,
+        "num": 547751,
+        "word": "中元节曾是热闹的狂欢日",
+        "onboard_time": 1693356938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228346,
+        "num": 543598,
+        "word": "男孩拉门不松手被误会为熊孩子",
+        "onboard_time": 1693350986,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749202,
+        "num": 535927,
+        "word": "沪上阿姨回应21元饮品仅几块水果",
+        "onboard_time": 1693357775,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659270,
+        "num": 529347,
+        "word": "李湘的履历",
+        "onboard_time": 1693317764,
+        "rank": 16,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 647651,
+        "num": 526465,
+        "word": "广东队将为易建联举办退役仪式",
+        "onboard_time": 1693356399,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583137,
+        "num": 519589,
+        "word": "kpop能称得上帅的都在这里了",
+        "onboard_time": 1693356519,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514756,
+        "num": 514756,
+        "word": "新版杜冰雁选角",
+        "onboard_time": 1693356221,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 677871,
+        "num": 495738,
+        "word": "徐志胜 那是他们能给你的全部了",
+        "onboard_time": 1693356938,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551889,
+        "num": 493671,
+        "word": "要多和大便通畅的人接吻",
+        "onboard_time": 1693350204,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 445494,
+        "num": 445494,
+        "word": "枪击案被捕中国留学生最后贴文称想交朋友",
+        "onboard_time": 1693352429,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401239,
+        "num": 401239,
+        "word": "相柳版与妻书",
+        "onboard_time": 1693353214,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383503,
+        "num": 383503,
+        "word": "内蒙古赤峰发生重大刑事案件",
+        "onboard_time": 1693309236,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373738,
+        "num": 373738,
+        "word": "原来法令纹和脾胃有关",
+        "onboard_time": 1693353759,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364896,
+        "num": 364896,
+        "word": "眉姐姐的新裙子",
+        "onboard_time": 1693354658,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343218,
+        "num": 343218,
+        "word": "为什么过桥米线门店越来越少",
+        "onboard_time": 1693351769,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326399,
+        "num": 326399,
+        "word": "长相思第二季什么时候来",
+        "onboard_time": 1693358497,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323125,
+        "num": 323125,
+        "word": "给过敏性鼻炎患者的建议",
+        "onboard_time": 1693356818,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322141,
+        "num": 322141,
+        "word": "李宗盛是真厉害啊",
+        "onboard_time": 1693353999,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321531,
+        "num": 321531,
+        "word": "美网",
+        "onboard_time": 1693357775,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317419,
+        "num": 317419,
+        "word": "邓为新剧的人设",
+        "onboard_time": 1693354479,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286448,
+        "num": 286448,
+        "word": "被辞退你能拿到多少钱",
+        "onboard_time": 1693358377,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265228,
+        "num": 265228,
+        "word": "Cat 问心无愧",
+        "onboard_time": 1693352912,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254768,
+        "num": 254768,
+        "word": "张晚意的两个妹妹有点像啊",
+        "onboard_time": 1693321237,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254474,
+        "num": 254474,
+        "word": "中美商务部长谈了4个半小时",
+        "onboard_time": 1693354961,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246215,
+        "num": 246215,
+        "word": "婴儿频繁揉眼20多天医生夹出两条虫",
+        "onboard_time": 1693321481,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235763,
+        "num": 235763,
+        "word": "科学家建议孕期不要吃这些",
+        "onboard_time": 1693316319,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230597,
+        "num": 230597,
+        "word": "乐童音乐家Killing Voice",
+        "onboard_time": 1693356818,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213933,
+        "num": 213933,
+        "word": "小猫咪为什么喜欢把手折成这样",
+        "onboard_time": 1693324717,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205476,
+        "num": 205476,
+        "word": "奖励初婚女性1000元能提升生育率吗",
+        "onboard_time": 1693310676,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201326,
+        "num": 201326,
+        "word": "黄铉辰参与戳爷新歌",
+        "onboard_time": 1693358377,
+        "rank": 42,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 198612,
+        "num": 198612,
+        "word": "相关部门调查导游评价天价雕塑被威胁",
+        "onboard_time": 1693358560,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198041,
+        "num": 198041,
+        "word": "被这个教授的硬核科普惊到了",
+        "onboard_time": 1693357178,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197424,
+        "num": 197424,
+        "word": "视频回顾易建联国家队最后一战",
+        "onboard_time": 1693356459,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 196110,
+        "num": 196110,
+        "word": "鲁山县通报花700多万建牛郎织女雕塑",
+        "onboard_time": 1693329085,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195376,
+        "num": 195376,
+        "word": "年轻女生不要过度共情",
+        "onboard_time": 1693316802,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 188229,
+        "num": 188229,
+        "word": "马伯骞喜欢姐姐类型",
+        "onboard_time": 1693353999,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179902,
+        "num": 179902,
+        "word": "九月你追哪部剧",
+        "onboard_time": 1693358917,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建发展共同体#"
+    }
+  }
+}
