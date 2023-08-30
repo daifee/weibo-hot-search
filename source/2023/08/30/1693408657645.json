@@ -1,0 +1,410 @@
+{
+  "runTime": 1693408657645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1643909,
+        "num": 1643909,
+        "word": "王哲林",
+        "onboard_time": 1693401034,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1296685,
+        "num": 1296685,
+        "word": "孙菲菲 王阳不在现场大家不要为难他",
+        "onboard_time": 1693397198,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85094,
+        "num": 1118234,
+        "word": "亚运会场如何让数万人同时丝滑上网",
+        "onboard_time": 1693399720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100287,
+        "num": 1100287,
+        "word": "中国男篮三连败",
+        "onboard_time": 1693405005,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024059,
+        "num": 1024059,
+        "word": "莲花楼庆功宴",
+        "onboard_time": 1693406504,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1020437,
+        "num": 1020437,
+        "word": "5岁儿子被撞送医途中车祸致女儿身亡",
+        "onboard_time": 1693395756,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944076,
+        "num": 944076,
+        "word": "用华为手机给美国商务部长拍照",
+        "onboard_time": 1693407220,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 875728,
+        "num": 875728,
+        "word": "小夭 我才是我续命的香",
+        "onboard_time": 1693404523,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873091,
+        "num": 873091,
+        "word": "杨丞琳说马伯骞真的很在意杨汝晴",
+        "onboard_time": 1693406620,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788443,
+        "num": 788443,
+        "word": "超级蓝月",
+        "onboard_time": 1693390535,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1830256,
+        "num": 778455,
+        "word": "曾志伟近照",
+        "onboard_time": 1693403078,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1144377,
+        "num": 772403,
+        "word": "华为",
+        "onboard_time": 1693407399,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 761734,
+        "num": 761734,
+        "word": "行政处罚书还原孙菲菲被打事件",
+        "onboard_time": 1693401401,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 738685,
+        "num": 738685,
+        "word": "姚明你上",
+        "onboard_time": 1693405240,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359909,
+        "num": 661596,
+        "word": "日方反咬中国洗白不了排污入海劣迹",
+        "onboard_time": 1693372834,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617201,
+        "num": 617201,
+        "word": "宋亚轩凌晨3点半回酒店",
+        "onboard_time": 1693404223,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519399,
+        "num": 519399,
+        "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+        "onboard_time": 1693375235,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501683,
+        "num": 501683,
+        "word": "美国商务部长称持乐观态度离开中国",
+        "onboard_time": 1693399119,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494906,
+        "num": 494906,
+        "word": "大爷见女网友被骗800万后身体不适去世",
+        "onboard_time": 1693401639,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441276,
+        "num": 441276,
+        "word": "原来电视剧的女主是能长嘴的啊",
+        "onboard_time": 1693401520,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 849060,
+        "num": 423337,
+        "word": "中元节最大禁忌是什么",
+        "onboard_time": 1693379558,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 398026,
+        "num": 398026,
+        "word": "鸟鸟 我努力到30岁还没过上好日子",
+        "onboard_time": 1693381055,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395883,
+        "num": 395883,
+        "word": "王哲林 回家",
+        "onboard_time": 1693405422,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389848,
+        "num": 389848,
+        "word": "古剑奇谭主题曲竟然是陆虎写的",
+        "onboard_time": 1693392395,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363718,
+        "num": 363718,
+        "word": "郎平辟谣执教日本女排",
+        "onboard_time": 1693407100,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355907,
+        "num": 355907,
+        "word": "27岁版张淼怡倒追17岁版方晓东",
+        "onboard_time": 1693406020,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350287,
+        "num": 350287,
+        "word": "杜华孟美岐吴宣仪程潇合照",
+        "onboard_time": 1693401577,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336837,
+        "num": 336837,
+        "word": "胡明轩",
+        "onboard_time": 1693404824,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276194,
+        "num": 276194,
+        "word": "12306回应硬卧下铺别人能不能坐",
+        "onboard_time": 1693390835,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483248,
+        "num": 274346,
+        "word": "椰树集团招生本科生月薪涨至2万",
+        "onboard_time": 1693398698,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 332268,
+        "num": 274244,
+        "word": "30岁公务员辞职做短视频博主",
+        "onboard_time": 1693376562,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271091,
+        "num": 271091,
+        "word": "辽宁卫视曾报道孙菲菲被霸凌事件",
+        "onboard_time": 1693395394,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269792,
+        "num": 269792,
+        "word": "不拿包上班的到底是啥工作",
+        "onboard_time": 1693395756,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257376,
+        "num": 257376,
+        "word": "可能出现三台风局面",
+        "onboard_time": 1693392093,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244593,
+        "num": 244593,
+        "word": "30岁左右的人经常犯的错误",
+        "onboard_time": 1693407278,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 244470,
+        "num": 244470,
+        "word": "恋爱脑一下就被治好了",
+        "onboard_time": 1693395277,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240742,
+        "num": 240742,
+        "word": "舒淇作为威尼斯电影节评委亮相",
+        "onboard_time": 1693407639,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236952,
+        "num": 236952,
+        "word": "韩国人真是什么都Cha",
+        "onboard_time": 1693394136,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221266,
+        "num": 221266,
+        "word": "奇兵付豪",
+        "onboard_time": 1693407162,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214187,
+        "num": 214187,
+        "word": "谢娜环球影城遛弯日记",
+        "onboard_time": 1693405005,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212685,
+        "num": 212685,
+        "word": "大一新生学生档案失而复得抱住环卫工",
+        "onboard_time": 1693403381,
+        "rank": 40,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 205435,
+        "num": 205435,
+        "word": "邓为在李一桐面前模仿高启盛摇头",
+        "onboard_time": 1693393835,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204103,
+        "num": 204103,
+        "word": "钟楚曦闪光抹胸白裙",
+        "onboard_time": 1693407880,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201510,
+        "num": 201510,
+        "word": "KPL",
+        "onboard_time": 1693407998,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198902,
+        "num": 198902,
+        "word": "腾讯有最全的肖战剧集",
+        "onboard_time": 1693400978,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195980,
+        "num": 195980,
+        "word": "掏180万帮朋友还完房贷对方当场跑了",
+        "onboard_time": 1693398158,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190436,
+        "num": 190436,
+        "word": "曾舜晞拍打戏摔倒",
+        "onboard_time": 1693402599,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187929,
+        "num": 187929,
+        "word": "偷偷藏不住暑期档最热都市剧",
+        "onboard_time": 1693398635,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174697,
+        "num": 174697,
+        "word": "致敬易建联",
+        "onboard_time": 1693396957,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166842,
+        "num": 166842,
+        "word": "费翔为了演纣王跟乌尔善极限拉扯",
+        "onboard_time": 1693398937,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对四川凉山州金阳县山洪灾害作出重要指示#"
+    }
+  }
+}
