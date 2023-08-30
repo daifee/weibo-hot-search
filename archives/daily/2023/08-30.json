@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693359017014,
+  "endTime": 1693361001071,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -35,8 +35,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2569827,
-      "num": 2569827,
+      "raw_hot": 2636670,
+      "num": 2636670,
       "word": "中元节",
       "onboard_time": 1693350204,
       "rank": 8,
@@ -67,12 +67,36 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 1379185,
+      "num": 1379185,
+      "word": "韩媒曝成龙金喜善合作神话2",
+      "onboard_time": 1693358438,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1363210,
       "num": 1363210,
       "word": "服务员 怎么这个房间唱歌一直放原唱",
       "onboard_time": 1693352912,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1325504,
+      "num": 551946,
+      "word": "日政客妄言中国游客入境先吃福岛海产",
+      "onboard_time": 1693359037,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1214366,
+      "num": 1214366,
+      "word": "沪上阿姨回应21元饮品仅几块水果",
+      "onboard_time": 1693357775,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1192851,
@@ -144,14 +168,6 @@
       "word": "婴儿频繁揉眼20多天医生夹出两条虫",
       "onboard_time": 1693321481,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749202,
-      "num": 535927,
-      "word": "沪上阿姨回应21元饮品仅几块水果",
-      "onboard_time": 1693357775,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -235,12 +251,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 575471,
-      "num": 575471,
-      "word": "韩媒曝成龙金喜善合作神话2",
-      "onboard_time": 1693358438,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 576838,
+      "num": 576838,
+      "word": "两个台风来了",
+      "onboard_time": 1693359276,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517024,
@@ -315,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 445439,
+      "num": 445439,
+      "word": "长相思第二季什么时候来",
+      "onboard_time": 1693358497,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423781,
       "num": 423781,
       "word": "高叶大嫂劲又出来了",
@@ -361,6 +385,30 @@
       "onboard_time": 1693328006,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 388478,
+      "num": 388478,
+      "word": "中南财大通报教师擅自离境失去联系",
+      "onboard_time": 1693359395,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 364643,
+      "num": 364643,
+      "word": "1岁小奶娃走丢遇上手忙脚乱的警察叔叔",
+      "onboard_time": 1693359875,
+      "rank": 23,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 357507,
+      "num": 357507,
+      "word": "被辞退你能拿到多少钱",
+      "onboard_time": 1693358377,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 353662,
@@ -419,14 +467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 326399,
-      "num": 326399,
-      "word": "长相思第二季什么时候来",
-      "onboard_time": 1693358497,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321531,
       "num": 321531,
       "word": "美网",
@@ -472,14 +512,6 @@
       "word": "这就是体制内的休假",
       "onboard_time": 1693306716,
       "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 286448,
-      "num": 286448,
-      "word": "被辞退你能拿到多少钱",
-      "onboard_time": 1693358377,
-      "rank": 33,
       "category": "情感"
     },
     {
@@ -547,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230234,
+      "num": 230234,
+      "word": "华为Mate60Pro体验",
+      "onboard_time": 1693360359,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 227699,
       "num": 227699,
       "word": "周杰伦邓紫棋合唱黑色毛衣",
@@ -569,6 +609,14 @@
       "onboard_time": 1693310379,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219349,
+      "num": 219349,
+      "word": "一刷弄懂奥本海默",
+      "onboard_time": 1693359759,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 213580,
@@ -635,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190533,
+      "num": 190533,
+      "word": "九月你追哪部剧",
+      "onboard_time": 1693358917,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189644,
       "num": 189644,
       "word": "齐天磊怎么舍得打李玉湖啊",
@@ -675,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179902,
-      "num": 179902,
-      "word": "九月你追哪部剧",
-      "onboard_time": 1693358917,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172430,
       "num": 172430,
       "word": "虞书欣清冷茉莉花妆",
@@ -713,6 +761,14 @@
       "onboard_time": 1693330042,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160172,
+      "num": 160172,
+      "word": "张艺兴回复李荣浩尊嘟假嘟",
+      "onboard_time": 1693360960,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 158270,
