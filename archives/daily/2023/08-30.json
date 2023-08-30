@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693365431336,
+  "endTime": 1693366439824,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -51,8 +51,8 @@
       "category": "科技,艺人"
     },
     {
-      "raw_hot": 2196681,
-      "num": 2196681,
+      "raw_hot": 2460959,
+      "num": 2460959,
       "word": "小红书旅游搭子被指涉黄",
       "onboard_time": 1693362095,
       "rank": 12,
@@ -75,6 +75,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 1761141,
+      "num": 1265129,
+      "word": "正式确诊为胡歌",
+      "onboard_time": 1693362693,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1634613,
       "num": 747927,
       "word": "李湘的履历",
@@ -89,14 +97,6 @@
       "onboard_time": 1693358438,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1451204,
-      "num": 1265129,
-      "word": "正式确诊为胡歌",
-      "onboard_time": 1693362693,
-      "rank": 37,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1363210,
@@ -147,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1065143,
+      "num": 1065143,
+      "word": "iPhone15",
+      "onboard_time": 1693363115,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1055658,
       "num": 1055658,
       "word": "内蒙古赤峰发生重大刑事案件",
       "onboard_time": 1693309236,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1034171,
-      "num": 1034171,
-      "word": "iPhone15",
-      "onboard_time": 1693363115,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 1032490,
@@ -379,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 462434,
+      "num": 462434,
+      "word": "新疆女生收到西安网友免费寄的特产",
+      "onboard_time": 1693363717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459784,
       "num": 459784,
       "word": "眉姐姐的新裙子",
@@ -387,11 +395,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457356,
+      "num": 457356,
+      "word": "乘风2024拟邀阵容名单",
+      "onboard_time": 1693365697,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446873,
       "num": 446873,
       "word": "长相思第二季什么时候来",
       "onboard_time": 1693358497,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 446389,
+      "num": 446389,
+      "word": "张天爱盛一伦二搭演现代剧",
+      "onboard_time": 1693365457,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -451,20 +475,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 378161,
-      "num": 378161,
-      "word": "新疆女生收到西安网友免费寄的特产",
-      "onboard_time": 1693363717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374094,
       "num": 374094,
       "word": "1岁小奶娃走丢遇上手忙脚乱的警察叔叔",
       "onboard_time": 1693359875,
       "rank": 23,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 367849,
+      "num": 367849,
+      "word": "张杰粉丝图书馆30秒文学",
+      "onboard_time": 1693365397,
+      "rank": 49,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 367339,
@@ -523,8 +547,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 336972,
-      "num": 336972,
+      "raw_hot": 338500,
+      "num": 338500,
       "word": "张晚意新剧复读考了理科第一",
       "onboard_time": 1693364198,
       "rank": 23,
@@ -617,6 +641,14 @@
       "onboard_time": 1693324717,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266963,
+      "num": 266963,
+      "word": "披荆斩棘时尚先生一公海报",
+      "onboard_time": 1693364735,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 266485,
@@ -731,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212368,
+      "num": 212368,
+      "word": "香港15平米的家是什么样的",
+      "onboard_time": 1693365875,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 210344,
       "num": 210344,
       "word": "9岁摄影师问吉克隽逸美甲扎不扎",
@@ -771,14 +811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201532,
-      "num": 201532,
-      "word": "披荆斩棘时尚先生一公海报",
-      "onboard_time": 1693364735,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201326,
       "num": 201326,
       "word": "黄铉辰参与戳爷新歌",
@@ -809,6 +841,14 @@
       "onboard_time": 1693358560,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193140,
+      "num": 193140,
+      "word": "德华到处给人养孩子",
+      "onboard_time": 1693366297,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 190533,
@@ -859,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183617,
+      "num": 183617,
+      "word": "张涵予 追一个贼追了20年",
+      "onboard_time": 1693366417,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182710,
       "num": 182710,
       "word": "林俊杰去了hybe总部",
       "onboard_time": 1693309659,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175983,
+      "num": 175983,
+      "word": "48人因洪水失联的工地5人被刑拘",
+      "onboard_time": 1693366417,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172430,
@@ -995,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140880,
-      "num": 140880,
-      "word": "张杰粉丝图书馆30秒文学",
-      "onboard_time": 1693365397,
-      "rank": 49,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 138257,
       "num": 469002,
       "word": "丰田日本全部14座工厂将停产",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1693351709,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126802,
+      "num": 524819,
+      "word": "吴易昺今年大满贯首胜",
+      "onboard_time": 1693364438,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 120785,
@@ -1051,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84732,
+      "num": 1267598,
+      "word": "如何规范使用地图",
+      "onboard_time": 1693364914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81813,
       "num": 81813,
       "word": "杰尼斯承认喜多川性侵",
       "onboard_time": 1693295499,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77602,
-      "num": 524819,
-      "word": "吴易昺今年大满贯首胜",
-      "onboard_time": 1693364438,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 77187,
@@ -1076,7 +1132,7 @@
     },
     {
       "raw_hot": 74690,
-      "num": 388917,
+      "num": 463858,
       "word": "二次元的商战方式",
       "onboard_time": 1693364138,
       "rank": 17,
@@ -1115,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46425,
+      "num": 1570422,
+      "word": "全力搜寻四川金阳山洪失联人员",
+      "onboard_time": 1693366238,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 36857,
       "num": 42125,
       "word": "张晚意田曦薇或将二搭古装",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1693333637,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 28831,
-      "num": 1267598,
-      "word": "如何规范使用地图",
-      "onboard_time": 1693364914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28341,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693365431336,
+  "endTime": 1693366439824,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -187,6 +187,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 2460959,
+      "num": 2460959,
+      "word": "小红书旅游搭子被指涉黄",
+      "onboard_time": 1693362095,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2316828,
       "num": 1176520,
       "word": "日本或向世贸组织起诉中国禁令",
@@ -225,14 +233,6 @@
       "onboard_time": 1693211195,
       "rank": 30,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 2196681,
-      "num": 2196681,
-      "word": "小红书旅游搭子被指涉黄",
-      "onboard_time": 1693362095,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2147035,
@@ -395,6 +395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1761141,
+      "num": 1265129,
+      "word": "正式确诊为胡歌",
+      "onboard_time": 1693362693,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1716784,
       "num": 1716784,
       "word": "本周狗屎运最旺的星座",
@@ -497,14 +505,6 @@
       "onboard_time": 1693286797,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1451204,
-      "num": 1265129,
-      "word": "正式确诊为胡歌",
-      "onboard_time": 1693362693,
-      "rank": 37,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1440243,
@@ -691,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1065143,
+      "num": 1065143,
+      "word": "iPhone15",
+      "onboard_time": 1693363115,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1059813,
       "num": 417921,
       "word": "张新成 杰哥牛逼",
@@ -721,14 +729,6 @@
       "onboard_time": 1693197344,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1034171,
-      "num": 1034171,
-      "word": "iPhone15",
-      "onboard_time": 1693363115,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 1032490,
@@ -2051,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 462434,
+      "num": 462434,
+      "word": "新疆女生收到西安网友免费寄的特产",
+      "onboard_time": 1693363717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459784,
       "num": 459784,
       "word": "眉姐姐的新裙子",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1693273059,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457356,
+      "num": 457356,
+      "word": "乘风2024拟邀阵容名单",
+      "onboard_time": 1693365697,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 456590,
@@ -2136,6 +2152,14 @@
       "word": "长相思第二季什么时候来",
       "onboard_time": 1693358497,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 446389,
+      "num": 446389,
+      "word": "张天爱盛一伦二搭演现代剧",
+      "onboard_time": 1693365457,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -2627,14 +2651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378161,
-      "num": 378161,
-      "word": "新疆女生收到西安网友免费寄的特产",
-      "onboard_time": 1693363717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378020,
       "num": 2880777,
       "word": "男子东北自助扫码买到2元1个的西瓜",
@@ -2721,6 +2737,14 @@
       "onboard_time": 1693279595,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367849,
+      "num": 367849,
+      "word": "张杰粉丝图书馆30秒文学",
+      "onboard_time": 1693365397,
+      "rank": 49,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 367712,
@@ -3035,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338500,
+      "num": 338500,
+      "word": "张晚意新剧复读考了理科第一",
+      "onboard_time": 1693364198,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338050,
       "num": 338050,
       "word": "油酥饼已经工业化生产了",
@@ -3057,14 +3089,6 @@
       "onboard_time": 1693267295,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336972,
-      "num": 336972,
-      "word": "张晚意新剧复读考了理科第一",
-      "onboard_time": 1693364198,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 336529,
@@ -4003,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266963,
+      "num": 266963,
+      "word": "披荆斩棘时尚先生一公海报",
+      "onboard_time": 1693364735,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266608,
       "num": 266608,
       "word": "甄嬛的gap year",
@@ -4803,6 +4835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212368,
+      "num": 212368,
+      "word": "香港15平米的家是什么样的",
+      "onboard_time": 1693365875,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 211387,
       "num": 211387,
       "word": "沈月说出了我的心声",
@@ -5025,14 +5065,6 @@
       "onboard_time": 1693322679,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201532,
-      "num": 201532,
-      "word": "披荆斩棘时尚先生一公海报",
-      "onboard_time": 1693364735,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 201326,
@@ -5347,6 +5379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193140,
+      "num": 193140,
+      "word": "德华到处给人养孩子",
+      "onboard_time": 1693366297,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191932,
       "num": 202816,
       "word": "东北币有它自己的汇率",
@@ -5531,6 +5571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183617,
+      "num": 183617,
+      "word": "张涵予 追一个贼追了20年",
+      "onboard_time": 1693366417,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183611,
       "num": 183611,
       "word": "魏大勋毽子头",
@@ -5640,6 +5688,14 @@
       "word": "亚运村里的江浙菜品有多馋人",
       "onboard_time": 1693233879,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175983,
+      "num": 175983,
+      "word": "48人因洪水失联的工地5人被刑拘",
+      "onboard_time": 1693366417,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6067,14 +6123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140880,
-      "num": 140880,
-      "word": "张杰粉丝图书馆30秒文学",
-      "onboard_time": 1693365397,
-      "rank": 49,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 138666,
       "num": 138666,
       "word": "灼灼风流里的景甜",
@@ -6201,6 +6249,14 @@
       "onboard_time": 1693205436,
       "rank": 41,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 126802,
+      "num": 524819,
+      "word": "吴易昺今年大满贯首胜",
+      "onboard_time": 1693364438,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 125971,
@@ -6371,12 +6427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77602,
-      "num": 524819,
-      "word": "吴易昺今年大满贯首胜",
-      "onboard_time": 1693364438,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 84732,
+      "num": 1267598,
+      "word": "如何规范使用地图",
+      "onboard_time": 1693364914,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77187,
@@ -6404,7 +6460,7 @@
     },
     {
       "raw_hot": 74690,
-      "num": 388917,
+      "num": 463858,
       "word": "二次元的商战方式",
       "onboard_time": 1693364138,
       "rank": 17,
@@ -6547,6 +6603,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 46425,
+      "num": 1570422,
+      "word": "全力搜寻四川金阳山洪失联人员",
+      "onboard_time": 1693366238,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 45371,
       "num": 1885440,
       "word": "多姿多彩多元多样是世界应有的样子",
@@ -6609,14 +6673,6 @@
       "onboard_time": 1693333637,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 28831,
-      "num": 1267598,
-      "word": "如何规范使用地图",
-      "onboard_time": 1693364914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28823,
