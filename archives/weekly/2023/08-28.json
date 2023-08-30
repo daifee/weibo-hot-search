@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693362074154,
+  "endTime": 1693362843353,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 1645186,
-      "num": 551946,
+      "num": 582243,
       "word": "日政客妄言中国游客入境先吃福岛海产",
       "onboard_time": 1693359037,
       "rank": 11,
@@ -883,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853381,
+      "num": 782459,
+      "word": "华为Mate60Pro体验",
+      "onboard_time": 1693360359,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 846018,
       "num": 846018,
       "word": "浙江12岁女孩确诊甲状腺癌",
@@ -977,14 +985,6 @@
       "onboard_time": 1693216059,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 782459,
-      "num": 782459,
-      "word": "华为Mate60Pro体验",
-      "onboard_time": 1693360359,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 777313,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1693186957,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 709617,
+      "num": 709617,
+      "word": "魏大勋 欧莱雅",
+      "onboard_time": 1693362393,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 704670,
@@ -1737,6 +1745,14 @@
       "onboard_time": 1693270358,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525618,
+      "num": 525618,
+      "word": "小红书旅游搭子被指涉黄",
+      "onboard_time": 1693362095,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520835,
@@ -2323,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411852,
+      "num": 411852,
+      "word": "四川金阳洪灾4人遇难48人失联",
+      "onboard_time": 1693361797,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "2023歌手演唱会封神现场",
@@ -2675,6 +2699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 366991,
+      "num": 366991,
+      "word": "张艺兴回复李荣浩尊嘟假嘟",
+      "onboard_time": 1693360960,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366745,
       "num": 366745,
       "word": "Angelababy复刻姚小蝶经典舞台",
@@ -2961,14 +2993,6 @@
       "onboard_time": 1693302640,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 339600,
-      "num": 339600,
-      "word": "张艺兴回复李荣浩尊嘟假嘟",
-      "onboard_time": 1693360960,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 339011,
@@ -4699,14 +4723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213541,
-      "num": 213541,
-      "word": "四川金阳洪灾4人遇难48人失联",
-      "onboard_time": 1693361797,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212916,
       "num": 212916,
       "word": "这就是海星幼体的样子",
@@ -5097,6 +5113,14 @@
       "onboard_time": 1693275396,
       "rank": 41,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 197161,
+      "num": 197161,
+      "word": "正式确诊为胡歌",
+      "onboard_time": 1693362693,
+      "rank": 37,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 197123,
@@ -5881,6 +5905,14 @@
       "onboard_time": 1693126232,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146965,
+      "num": 146965,
+      "word": "芭比粉奶奶成广场舞坛新顶流",
+      "onboard_time": 1693362636,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 145779,
