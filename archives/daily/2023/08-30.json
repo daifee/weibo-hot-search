@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693361001071,
+  "endTime": 1693362074154,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -59,6 +59,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 1645186,
+      "num": 551946,
+      "word": "日政客妄言中国游客入境先吃福岛海产",
+      "onboard_time": 1693359037,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1634613,
       "num": 747927,
       "word": "李湘的履历",
@@ -67,8 +75,8 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 1379185,
-      "num": 1379185,
+      "raw_hot": 1559008,
+      "num": 1559008,
       "word": "韩媒曝成龙金喜善合作神话2",
       "onboard_time": 1693358438,
       "rank": 8,
@@ -83,16 +91,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1325504,
-      "num": 551946,
-      "word": "日政客妄言中国游客入境先吃福岛海产",
-      "onboard_time": 1693359037,
-      "rank": 11,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1214366,
-      "num": 1214366,
+      "raw_hot": 1278359,
+      "num": 1278359,
       "word": "沪上阿姨回应21元饮品仅几块水果",
       "onboard_time": 1693357775,
       "rank": 41,
@@ -153,6 +153,14 @@
       "onboard_time": 1693350204,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 782459,
+      "num": 782459,
+      "word": "华为Mate60Pro体验",
+      "onboard_time": 1693360359,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 773293,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620042,
+      "num": 620042,
+      "word": "两个台风来了",
+      "onboard_time": 1693359276,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606564,
       "num": 606564,
       "word": "新版杜冰雁选角",
@@ -249,14 +265,6 @@
       "onboard_time": 1693356519,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 576838,
-      "num": 576838,
-      "word": "两个台风来了",
-      "onboard_time": 1693359276,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517024,
@@ -331,8 +339,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 445439,
-      "num": 445439,
+      "raw_hot": 446873,
+      "num": 446873,
       "word": "长相思第二季什么时候来",
       "onboard_time": 1693358497,
       "rank": 28,
@@ -395,8 +403,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 364643,
-      "num": 364643,
+      "raw_hot": 374094,
+      "num": 374094,
       "word": "1岁小奶娃走丢遇上手忙脚乱的警察叔叔",
       "onboard_time": 1693359875,
       "rank": 23,
@@ -449,6 +457,14 @@
       "onboard_time": 1693295136,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 339600,
+      "num": 339600,
+      "word": "张艺兴回复李荣浩尊嘟假嘟",
+      "onboard_time": 1693360960,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 334551,
@@ -579,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230234,
-      "num": 230234,
-      "word": "华为Mate60Pro体验",
-      "onboard_time": 1693360359,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 227699,
       "num": 227699,
       "word": "周杰伦邓紫棋合唱黑色毛衣",
@@ -627,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213541,
+      "num": 213541,
+      "word": "四川金阳洪灾4人遇难48人失联",
+      "onboard_time": 1693361797,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210344,
       "num": 210344,
       "word": "9岁摄影师问吉克隽逸美甲扎不扎",
@@ -657,6 +673,14 @@
       "onboard_time": 1693310918,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203616,
+      "num": 203616,
+      "word": "星穹铁道",
+      "onboard_time": 1693361194,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 201326,
@@ -761,14 +785,6 @@
       "onboard_time": 1693330042,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160172,
-      "num": 160172,
-      "word": "张艺兴回复李荣浩尊嘟假嘟",
-      "onboard_time": 1693360960,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 158270,
