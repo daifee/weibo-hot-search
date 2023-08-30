@@ -1,0 +1,410 @@
+{
+  "runTime": 1693372532742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1627184,
+        "num": 1627184,
+        "word": "海豚湾恋人童星畏罪潜逃被通缉",
+        "onboard_time": 1693366962,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1470298,
+        "num": 1470298,
+        "word": "小红书旅游搭子被指涉黄",
+        "onboard_time": 1693362095,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173169,
+        "num": 1452294,
+        "word": "全力搜寻四川金阳山洪失联人员",
+        "onboard_time": 1693366238,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1451199,
+        "num": 1451199,
+        "word": "正式确诊为胡歌",
+        "onboard_time": 1693362693,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 931449,
+        "num": 931449,
+        "word": "香港15平米的家是什么样的",
+        "onboard_time": 1693365875,
+        "rank": 4,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 883684,
+        "num": 883684,
+        "word": "苹果iPhone15系列价格",
+        "onboard_time": 1693369181,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 750922,
+        "num": 750922,
+        "word": "腾讯爱奇艺和好了但没完全和好",
+        "onboard_time": 1693367860,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 691596,
+        "num": 691596,
+        "word": "披荆斩棘真是请对蔡国庆了",
+        "onboard_time": 1693370199,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646317,
+        "num": 646317,
+        "word": "中元节",
+        "onboard_time": 1693350204,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640516,
+        "num": 640516,
+        "word": "一路朝阳 李慕嘉求婚发言",
+        "onboard_time": 1693367140,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 919518,
+        "num": 629801,
+        "word": "陈紫函说戴向宇不火",
+        "onboard_time": 1693370920,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867403,
+        "num": 615238,
+        "word": "向佐女装拍杂志吓到儿子了",
+        "onboard_time": 1693357297,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 718026,
+        "num": 583579,
+        "word": "失踪俄罗斯花滑运动员戈尔巴乔娃已找到",
+        "onboard_time": 1693371279,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260823,
+        "num": 578300,
+        "word": "48人因洪水失联的工地5人被刑拘",
+        "onboard_time": 1693366417,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225021,
+        "num": 547847,
+        "word": "两个台风来了",
+        "onboard_time": 1693359276,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543590,
+        "num": 543590,
+        "word": "浙江查获日本核辐射地区进口食品",
+        "onboard_time": 1693371640,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524150,
+        "num": 524150,
+        "word": "殷郊 母亲的手",
+        "onboard_time": 1693368766,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515649,
+        "num": 515649,
+        "word": "麦当劳回应顾客质疑大小杯豆浆一样多",
+        "onboard_time": 1693368399,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500024,
+        "num": 500024,
+        "word": "乘风2024拟邀阵容名单",
+        "onboard_time": 1693365697,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475226,
+        "num": 475226,
+        "word": "华为Mate60Pro体验",
+        "onboard_time": 1693360359,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 452871,
+        "num": 452871,
+        "word": "iPhone15",
+        "onboard_time": 1693363115,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 397182,
+        "num": 397182,
+        "word": "奥本海默",
+        "onboard_time": 1693369181,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390507,
+        "num": 390507,
+        "word": "张真源王牌对王牌路透",
+        "onboard_time": 1693369965,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375139,
+        "num": 375139,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 359176,
+        "num": 359176,
+        "word": "小县城的慢节奏真的好舒服",
+        "onboard_time": 1693368819,
+        "rank": 24,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 306601,
+        "num": 306601,
+        "word": "徐志胜 那是他们能给你的全部了",
+        "onboard_time": 1693356938,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300260,
+        "num": 300260,
+        "word": "小李琳演的杜冰雁",
+        "onboard_time": 1693367140,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297022,
+        "num": 297022,
+        "word": "Angelababy对镜眼神杀",
+        "onboard_time": 1693367563,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 284979,
+        "num": 284979,
+        "word": "服务员 怎么这个房间唱歌一直放原唱",
+        "onboard_time": 1693352912,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275889,
+        "num": 275889,
+        "word": "肖战白百何笑场花絮",
+        "onboard_time": 1693371696,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275768,
+        "num": 275768,
+        "word": "杜冰雁扶老婆婆反被骗",
+        "onboard_time": 1693372058,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261501,
+        "num": 261501,
+        "word": "广东队将为易建联举办退役仪式",
+        "onboard_time": 1693356399,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199243,
+        "num": 259294,
+        "word": "星穹铁道丹恒饮月",
+        "onboard_time": 1693368219,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257312,
+        "num": 257312,
+        "word": "韩媒曝成龙金喜善合作神话2",
+        "onboard_time": 1693358438,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230794,
+        "num": 230794,
+        "word": "易建联退役",
+        "onboard_time": 1693325734,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228061,
+        "num": 228061,
+        "word": "原来珍珠是这样形成的",
+        "onboard_time": 1693369300,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226052,
+        "num": 226052,
+        "word": "广州认房不认贷",
+        "onboard_time": 1693362936,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220222,
+        "num": 220222,
+        "word": "永远的中国队长",
+        "onboard_time": 1693352733,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215416,
+        "num": 215416,
+        "word": "沪上阿姨回应21元饮品仅几块水果",
+        "onboard_time": 1693357775,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206453,
+        "num": 206453,
+        "word": "三十岁在一线城市失业意味着什么",
+        "onboard_time": 1693371520,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206152,
+        "num": 206152,
+        "word": "大腿粗居然有这么多好处",
+        "onboard_time": 1693353096,
+        "rank": 40,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 206053,
+        "num": 206053,
+        "word": "长相思第二季什么时候来",
+        "onboard_time": 1693358497,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204540,
+        "num": 204540,
+        "word": "张杰粉丝图书馆30秒文学",
+        "onboard_time": 1693365397,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 202052,
+        "num": 202052,
+        "word": "kpop能称得上帅的都在这里了",
+        "onboard_time": 1693356519,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201669,
+        "num": 201669,
+        "word": "密室大逃脱",
+        "onboard_time": 1693372000,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196027,
+        "num": 196027,
+        "word": "新疆女生收到西安网友免费寄的特产",
+        "onboard_time": 1693363717,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168860,
+        "num": 168860,
+        "word": "于适公主抱李昀锐练台词",
+        "onboard_time": 1693367680,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156363,
+        "num": 156363,
+        "word": "德华到处给人养孩子",
+        "onboard_time": 1693366297,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155094,
+        "num": 155094,
+        "word": "张天爱盛一伦二搭演现代剧",
+        "onboard_time": 1693365457,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152793,
+        "num": 152793,
+        "word": "90秒看易建联传奇篮球生涯",
+        "onboard_time": 1693367680,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩员顺应了历史发展潮流#"
+    }
+  }
+}

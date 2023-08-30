@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693370027174,
+  "endTime": 1693372532742,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1963728,
-      "num": 1265129,
+      "num": 1451199,
       "word": "正式确诊为胡歌",
       "onboard_time": 1693362693,
       "rank": 37,
@@ -89,6 +89,14 @@
       "onboard_time": 1693317764,
       "rank": 10,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 1627184,
+      "num": 1627184,
+      "word": "海豚湾恋人童星畏罪潜逃被通缉",
+      "onboard_time": 1693366962,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1559008,
@@ -147,14 +155,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1132997,
-      "num": 1132997,
-      "word": "海豚湾恋人童星畏罪潜逃被通缉",
-      "onboard_time": 1693366962,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1129483,
       "num": 1129483,
       "word": "俄罗斯16岁花滑运动员戈尔巴乔娃失踪",
@@ -201,6 +201,22 @@
       "onboard_time": 1693310676,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919518,
+      "num": 629801,
+      "word": "陈紫函说戴向宇不火",
+      "onboard_time": 1693370920,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 883684,
+      "num": 883684,
+      "word": "苹果iPhone15系列价格",
+      "onboard_time": 1693369181,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 868660,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718026,
+      "num": 583579,
+      "word": "失踪俄罗斯花滑运动员戈尔巴乔娃已找到",
+      "onboard_time": 1693371279,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716698,
       "num": 716698,
       "word": "广东队将为易建联举办退役仪式",
@@ -265,6 +289,14 @@
       "onboard_time": 1693329085,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691596,
+      "num": 691596,
+      "word": "披荆斩棘真是请对蔡国庆了",
+      "onboard_time": 1693370199,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 688827,
@@ -371,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543590,
+      "num": 543590,
+      "word": "浙江查获日本核辐射地区进口食品",
+      "onboard_time": 1693371640,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526489,
       "num": 420354,
       "word": "Angelababy对镜眼神杀",
       "onboard_time": 1693367563,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 524150,
+      "num": 524150,
+      "word": "殷郊 母亲的手",
+      "onboard_time": 1693368766,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 517024,
@@ -475,22 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436031,
-      "num": 436031,
-      "word": "殷郊 母亲的手",
-      "onboard_time": 1693368766,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 428176,
-      "num": 317545,
-      "word": "苹果iPhone15系列价格",
-      "onboard_time": 1693369181,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 423781,
       "num": 423781,
       "word": "高叶大嫂劲又出来了",
@@ -547,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390507,
+      "num": 390507,
+      "word": "张真源王牌对王牌路透",
+      "onboard_time": 1693369965,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388478,
       "num": 388478,
       "word": "中南财大通报教师擅自离境失去联系",
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 369395,
-      "num": 565028,
+      "num": 578300,
       "word": "48人因洪水失联的工地5人被刑拘",
       "onboard_time": 1693366417,
       "rank": 48,
@@ -593,6 +633,14 @@
       "onboard_time": 1693366297,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359176,
+      "num": 359176,
+      "word": "小县城的慢节奏真的好舒服",
+      "onboard_time": 1693368819,
+      "rank": 39,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 357507,
@@ -625,14 +673,6 @@
       "onboard_time": 1693324298,
       "rank": 22,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 344433,
-      "num": 344433,
-      "word": "小县城的慢节奏真的好舒服",
-      "onboard_time": 1693368819,
-      "rank": 39,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 342355,
@@ -763,6 +803,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275889,
+      "num": 275889,
+      "word": "肖战白百何笑场花絮",
+      "onboard_time": 1693371696,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275768,
+      "num": 275768,
+      "word": "杜冰雁扶老婆婆反被骗",
+      "onboard_time": 1693372058,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266963,
       "num": 266963,
       "word": "披荆斩棘时尚先生一公海报",
@@ -851,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228061,
+      "num": 228061,
+      "word": "原来珍珠是这样形成的",
+      "onboard_time": 1693369300,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227699,
       "num": 227699,
       "word": "周杰伦邓紫棋合唱黑色毛衣",
@@ -899,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211014,
-      "num": 211014,
-      "word": "张真源王牌对王牌路透",
-      "onboard_time": 1693369965,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210344,
       "num": 210344,
       "word": "9岁摄影师问吉克隽逸美甲扎不扎",
@@ -921,6 +977,14 @@
       "onboard_time": 1693356099,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206453,
+      "num": 206453,
+      "word": "三十岁在一线城市失业意味着什么",
+      "onboard_time": 1693371520,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 206242,
@@ -939,20 +1003,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204211,
-      "num": 204211,
-      "word": "原来珍珠是这样形成的",
-      "onboard_time": 1693369300,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203616,
       "num": 203616,
       "word": "星穹铁道",
       "onboard_time": 1693361194,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201669,
+      "num": 201669,
+      "word": "密室大逃脱",
+      "onboard_time": 1693372000,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 201326,
@@ -984,6 +1048,14 @@
       "word": "王者荣耀观光团",
       "onboard_time": 1693325914,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 199243,
+      "num": 596525,
+      "word": "星穹铁道丹恒饮月",
+      "onboard_time": 1693368219,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -1137,14 +1209,6 @@
       "onboard_time": 1693325313,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150626,
-      "num": 596525,
-      "word": "星穹铁道丹恒饮月",
-      "onboard_time": 1693368219,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 146965,
