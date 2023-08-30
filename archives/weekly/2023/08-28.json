@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693372532742,
+  "endTime": 1693373629450,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -507,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1479363,
+      "num": 1479363,
+      "word": "浙江查获日本核辐射地区进口食品",
+      "onboard_time": 1693371640,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1452830,
       "num": 1386210,
       "word": "林志颖自己开车上班录披哥",
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130767,
+      "num": 1130767,
+      "word": "苹果iPhone15系列价格",
+      "onboard_time": 1693369181,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1129483,
       "num": 1129483,
       "word": "俄罗斯16岁花滑运动员戈尔巴乔娃失踪",
@@ -705,6 +721,14 @@
       "onboard_time": 1693356280,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1086439,
+      "num": 1086439,
+      "word": "失踪俄罗斯花滑运动员戈尔巴乔娃已找到",
+      "onboard_time": 1693371279,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1084388,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 919518,
-      "num": 629801,
+      "num": 754603,
       "word": "陈紫函说戴向宇不火",
       "onboard_time": 1693370920,
       "rank": 10,
@@ -889,14 +913,6 @@
       "onboard_time": 1693208617,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883684,
-      "num": 883684,
-      "word": "苹果iPhone15系列价格",
-      "onboard_time": 1693369181,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 871772,
@@ -1241,14 +1257,6 @@
       "onboard_time": 1693305398,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 718026,
-      "num": 583579,
-      "word": "失踪俄罗斯花滑运动员戈尔巴乔娃已找到",
-      "onboard_time": 1693371279,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 717502,
@@ -1785,14 +1793,6 @@
       "onboard_time": 1693195116,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 543590,
-      "num": 543590,
-      "word": "浙江查获日本核辐射地区进口食品",
-      "onboard_time": 1693371640,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 542694,
@@ -2603,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395711,
+      "num": 395711,
+      "word": "杜冰雁扶老婆婆反被骗",
+      "onboard_time": 1693372058,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395402,
       "num": 395402,
       "word": "肖战白百何新剧定档海报",
@@ -3032,6 +3040,14 @@
       "word": "给过敏性鼻炎患者的建议",
       "onboard_time": 1693356818,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351457,
+      "num": 351457,
+      "word": "日方反咬中国洗白不了排污入海劣迹",
+      "onboard_time": 1693372834,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4075,20 +4091,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275768,
-      "num": 275768,
-      "word": "杜冰雁扶老婆婆反被骗",
-      "onboard_time": 1693372058,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 275608,
       "num": 275608,
       "word": "以为虞书欣在竖中指",
       "onboard_time": 1693286677,
       "rank": 32,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 273835,
+      "num": 273835,
+      "word": "密室大逃脱",
+      "onboard_time": 1693372000,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 273729,
@@ -4113,6 +4129,14 @@
       "onboard_time": 1693228117,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271552,
+      "num": 271552,
+      "word": "三十岁在一线城市失业意味着什么",
+      "onboard_time": 1693371520,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 270958,
@@ -4369,6 +4393,14 @@
       "onboard_time": 1693363418,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252650,
+      "num": 252650,
+      "word": "杨幂说许凯说走就走",
+      "onboard_time": 1693372776,
+      "rank": 30,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 252364,
@@ -5123,14 +5155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206453,
-      "num": 206453,
-      "word": "三十岁在一线城市失业意味着什么",
-      "onboard_time": 1693371520,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205744,
       "num": 205744,
       "word": "田曦薇中式婚服造型",
@@ -5243,20 +5267,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202153,
+      "num": 202153,
+      "word": "说一个烧钱但戒不掉的爱好",
+      "onboard_time": 1693373494,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 202082,
       "num": 202082,
       "word": "马嘉祺感谢EP制作团队",
       "onboard_time": 1693321003,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201669,
-      "num": 201669,
-      "word": "密室大逃脱",
-      "onboard_time": 1693372000,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 201575,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1693282718,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192064,
+      "num": 192064,
+      "word": "我回到十七岁的理由",
+      "onboard_time": 1693372599,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 191932,
@@ -6161,6 +6193,14 @@
       "onboard_time": 1693247118,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156256,
+      "num": 156256,
+      "word": "演唱会柱子票涉嫌侵犯消费者知情权",
+      "onboard_time": 1693373494,
+      "rank": 49,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 154769,
