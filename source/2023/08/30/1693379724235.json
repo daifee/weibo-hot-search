@@ -1,0 +1,410 @@
+{
+  "runTime": 1693379724235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5198635,
+        "num": 5198635,
+        "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+        "onboard_time": 1693375235,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1455463,
+        "num": 1455463,
+        "word": "30岁公务员辞职做短视频博主",
+        "onboard_time": 1693376562,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41648,
+        "num": 1284010,
+        "word": "把星辰的声音谱成音乐有多美",
+        "onboard_time": 1693365097,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1469177,
+        "num": 1213513,
+        "word": "浙江查获日本核辐射地区进口食品",
+        "onboard_time": 1693371640,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121376,
+        "num": 1121376,
+        "word": "以后吃瓜就知道谁是谁了",
+        "onboard_time": 1693374035,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 575985,
+        "num": 575985,
+        "word": "逃出大英博物馆开播",
+        "onboard_time": 1693376015,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 569116,
+        "num": 569116,
+        "word": "正式确诊为胡歌",
+        "onboard_time": 1693362693,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 505800,
+        "num": 505800,
+        "word": "苹果iPhone15系列价格",
+        "onboard_time": 1693369181,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 487021,
+        "num": 487021,
+        "word": "五条悟断臂",
+        "onboard_time": 1693378778,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 454311,
+        "num": 454311,
+        "word": "失踪俄罗斯花滑运动员戈尔巴乔娃已找到",
+        "onboard_time": 1693371279,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455259,
+        "num": 452816,
+        "word": "周震南连发25条微博",
+        "onboard_time": 1693373738,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 778831,
+        "num": 448816,
+        "word": "田曦薇小肉手",
+        "onboard_time": 1693377276,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191547,
+        "num": 445479,
+        "word": "是爷爷奶奶的梦中情孙吧",
+        "onboard_time": 1693375235,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186022,
+        "num": 443211,
+        "word": "演唱会柱子票涉嫌侵犯消费者知情权",
+        "onboard_time": 1693373494,
+        "rank": 13,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 50010,
+        "num": 441201,
+        "word": "男生暑假作业弄丢老师开车送上门",
+        "onboard_time": 1693378837,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489454,
+        "num": 437980,
+        "word": "向佐女装拍杂志吓到儿子了",
+        "onboard_time": 1693357297,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 436357,
+        "num": 436357,
+        "word": "那个被诊断为终生无法站立的孩子",
+        "onboard_time": 1693376316,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344807,
+        "num": 344807,
+        "word": "黄景瑜申请强执黑粉",
+        "onboard_time": 1693375056,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324216,
+        "num": 324216,
+        "word": "海豚湾恋人童星畏罪潜逃被通缉",
+        "onboard_time": 1693366962,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 305912,
+        "num": 305912,
+        "word": "香港15平米的家是什么样的",
+        "onboard_time": 1693365875,
+        "rank": 19,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 516446,
+        "num": 304598,
+        "word": "日方反咬中国洗白不了排污入海劣迹",
+        "onboard_time": 1693372834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505585,
+        "num": 303464,
+        "word": "王阳瘦回130斤",
+        "onboard_time": 1693378116,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290728,
+        "num": 290728,
+        "word": "谁领到了第一张居民身份证",
+        "onboard_time": 1693377515,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273015,
+        "num": 273015,
+        "word": "儿子给妈妈的水壶3D打印了个盖儿",
+        "onboard_time": 1693378477,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241820,
+        "num": 241820,
+        "word": "小红书旅游搭子被指涉黄",
+        "onboard_time": 1693362095,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228568,
+        "num": 228568,
+        "word": "华为Mate60Pro体验",
+        "onboard_time": 1693360359,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208438,
+        "num": 208438,
+        "word": "陈紫函说戴向宇不火",
+        "onboard_time": 1693370920,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193902,
+        "num": 193902,
+        "word": "咒术回战",
+        "onboard_time": 1693379315,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192423,
+        "num": 192423,
+        "word": "去李维嘉家做客的固定流程",
+        "onboard_time": 1693374696,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183804,
+        "num": 183804,
+        "word": "kpop届所谓的冷知识",
+        "onboard_time": 1693378054,
+        "rank": 29,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 239022,
+        "num": 183772,
+        "word": "孙菲菲曾多次为霸凌事件发声",
+        "onboard_time": 1693379257,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196926,
+        "num": 183747,
+        "word": "小红书辟谣被指涉黄传言",
+        "onboard_time": 1693379075,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183534,
+        "num": 183534,
+        "word": "陈伟霆陆虎把古剑的缘分续上了",
+        "onboard_time": 1693376616,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177575,
+        "num": 177575,
+        "word": "说一个烧钱但戒不掉的爱好",
+        "onboard_time": 1693373494,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 175681,
+        "num": 175681,
+        "word": "关晓彤王牌对王牌",
+        "onboard_time": 1693379558,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167660,
+        "num": 167660,
+        "word": "奥本海默",
+        "onboard_time": 1693369181,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167024,
+        "num": 167024,
+        "word": "完美贴合的下半身",
+        "onboard_time": 1693375776,
+        "rank": 36,
+        "category": "动漫,时尚"
+      },
+      {
+        "raw_hot": 166677,
+        "num": 166677,
+        "word": "一路朝阳 李慕嘉求婚发言",
+        "onboard_time": 1693367140,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164174,
+        "num": 164174,
+        "word": "披荆斩棘真是请对蔡国庆了",
+        "onboard_time": 1693370199,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161899,
+        "num": 161899,
+        "word": "中元节最大禁忌是什么",
+        "onboard_time": 1693379558,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 161420,
+        "num": 161420,
+        "word": "保安劝阻女孩正确停放单车位置遭打骂",
+        "onboard_time": 1693379676,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156069,
+        "num": 156069,
+        "word": "腾讯爱奇艺和好了但没完全和好",
+        "onboard_time": 1693367860,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148763,
+        "num": 148763,
+        "word": "诺兰是怎么拍出奥本海默的",
+        "onboard_time": 1693375175,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143284,
+        "num": 143284,
+        "word": "教师出书称女生是早恋主要责任人",
+        "onboard_time": 1693379375,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 142724,
+        "num": 142724,
+        "word": "乘风2024拟邀阵容名单",
+        "onboard_time": 1693365697,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 141731,
+        "word": "谁会不喜欢小青龙呢",
+        "onboard_time": 1693379436,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135434,
+        "num": 135434,
+        "word": "杭州地铁真的很懂网友了",
+        "onboard_time": 1693374396,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132000,
+        "num": 132000,
+        "word": "杜冰雁扶老婆婆反被骗",
+        "onboard_time": 1693372058,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127775,
+        "num": 127775,
+        "word": "杨幂说许凯说走就走",
+        "onboard_time": 1693372776,
+        "rank": 48,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 125428,
+        "num": 125428,
+        "word": "宋轶放空背台词",
+        "onboard_time": 1693379676,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩员顺应了历史发展潮流#"
+    }
+  }
+}
