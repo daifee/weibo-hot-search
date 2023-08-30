@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693409654223,
+  "endTime": 1693412496686,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -265,6 +265,14 @@
       "onboard_time": 1693362095,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2395227,
+      "num": 2395227,
+      "word": "椰子水价格暴涨4000%",
+      "onboard_time": 1693410096,
+      "rank": 0,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2316828,
@@ -627,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1485400,
+      "num": 1485400,
+      "word": "用华为手机给美国商务部长拍照",
+      "onboard_time": 1693407220,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1452830,
       "num": 1386210,
       "word": "林志颖自己开车上班录披哥",
@@ -649,14 +665,6 @@
       "onboard_time": 1693205256,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1409442,
-      "num": 1409442,
-      "word": "用华为手机给美国商务部长拍照",
-      "onboard_time": 1693407220,
-      "rank": 6,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1391618,
@@ -1019,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 945821,
+      "num": 945821,
+      "word": "超级蓝月",
+      "onboard_time": 1693390535,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 931504,
       "num": 931504,
       "word": "赛百味700亿成功卖身",
@@ -1219,12 +1235,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 852799,
-      "num": 852799,
-      "word": "超级蓝月",
-      "onboard_time": 1693390535,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 850809,
+      "num": 850809,
+      "word": "不小心看到瑞幸员工内讧了",
+      "onboard_time": 1693409619,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 846018,
@@ -6827,6 +6843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192180,
+      "num": 192180,
+      "word": "娜扎余佳恩婚纱造型",
+      "onboard_time": 1693411473,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192064,
       "num": 192064,
       "word": "我回到十七岁的理由",
@@ -7569,14 +7593,6 @@
       "onboard_time": 1693148861,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151670,
-      "num": 151670,
-      "word": "不小心看到瑞幸员工内讧了",
-      "onboard_time": 1693409619,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 151450,
