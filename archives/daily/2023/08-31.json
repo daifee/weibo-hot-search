@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693437389016,
+  "endTime": 1693438438636,
   "band_list": [
     {
       "raw_hot": 2543659,
@@ -19,6 +19,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1235856,
+      "num": 1235856,
+      "word": "行政处罚书还原孙菲菲被打事件",
+      "onboard_time": 1693401401,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1043230,
       "num": 511717,
       "word": "曾志伟近照",
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 929501,
-      "num": 929501,
-      "word": "行政处罚书还原孙菲菲被打事件",
-      "onboard_time": 1693401401,
-      "rank": 12,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 853319,
       "num": 853319,
       "word": "不小心看到瑞幸员工内讧了",
@@ -51,12 +51,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 701859,
+      "num": 256804,
+      "word": "孙菲菲助理回忆现场情况",
+      "onboard_time": 1693436967,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665774,
       "num": 665774,
       "word": "杨丞琳说马伯骞真的很在意杨汝晴",
       "onboard_time": 1693406620,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645393,
+      "num": 645393,
+      "word": "12306回应硬卧下铺别人能不能坐",
+      "onboard_time": 1693390835,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619279,
@@ -91,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 536129,
-      "num": 536129,
-      "word": "12306回应硬卧下铺别人能不能坐",
-      "onboard_time": 1693390835,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527181,
       "num": 527181,
       "word": "王哲林",
@@ -123,20 +131,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 397717,
+      "num": 397717,
+      "word": "大爷见女网友被骗800万后身体不适去世",
+      "onboard_time": 1693401639,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360458,
       "num": 360458,
       "word": "小夭 我才是我续命的香",
       "onboard_time": 1693404523,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337844,
-      "num": 337844,
-      "word": "大爷见女网友被骗800万后身体不适去世",
-      "onboard_time": 1693401639,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325985,
@@ -163,12 +171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284729,
+      "num": 284729,
+      "word": "美国商务部长称希望美企在华投资",
+      "onboard_time": 1693436424,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 283913,
       "num": 283913,
       "word": "姚明你上",
       "onboard_time": 1693405240,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276998,
+      "num": 256836,
+      "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+      "onboard_time": 1693375235,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 273770,
@@ -187,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256836,
-      "num": 256836,
-      "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
-      "onboard_time": 1693375235,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 258591,
+      "num": 340426,
+      "word": "日方反咬中国洗白不了排污入海劣迹",
+      "onboard_time": 1693372834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255136,
@@ -211,12 +235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249126,
-      "num": 340426,
-      "word": "日方反咬中国洗白不了排污入海劣迹",
-      "onboard_time": 1693372834,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 250647,
+      "num": 250647,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250566,
+      "num": 240101,
+      "word": "不拿包上班的到底是啥工作",
+      "onboard_time": 1693395756,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 244165,
@@ -225,14 +257,6 @@
       "onboard_time": 1693376562,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240101,
-      "num": 240101,
-      "word": "不拿包上班的到底是啥工作",
-      "onboard_time": 1693395756,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 233059,
@@ -249,14 +273,6 @@
       "onboard_time": 1693407880,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 218703,
-      "num": 218703,
-      "word": "孙菲菲助理回忆现场情况",
-      "onboard_time": 1693436967,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 210275,
@@ -283,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207723,
-      "num": 207723,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205582,
       "num": 205582,
       "word": "韩国人真是什么都Cha",
@@ -307,12 +315,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194093,
+      "num": 253653,
+      "word": "8月最后一天",
+      "onboard_time": 1693437566,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192515,
+      "num": 192515,
+      "word": "王哲林 回家",
+      "onboard_time": 1693405422,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191295,
       "num": 191295,
       "word": "掏180万帮朋友还完房贷对方当场跑了",
       "onboard_time": 1693398158,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185236,
+      "num": 185236,
+      "word": "费翔威尼斯电影节红毯造型",
+      "onboard_time": 1693437869,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178442,
@@ -331,20 +363,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167116,
+      "num": 167116,
+      "word": "下半年成都演唱会扎堆了",
+      "onboard_time": 1693427353,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163006,
       "num": 163006,
       "word": "邓为在李一桐面前模仿高启盛摇头",
       "onboard_time": 1693393835,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160280,
-      "num": 160280,
-      "word": "王哲林 回家",
-      "onboard_time": 1693405422,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 158658,
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155984,
+      "num": 155984,
+      "word": "这么大个柜子只住两个人",
+      "onboard_time": 1693416802,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155974,
       "num": 155974,
       "word": "原来电视剧的女主是能长嘴的啊",
@@ -363,12 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148467,
-      "num": 148467,
-      "word": "美国商务部长称希望美企在华投资",
-      "onboard_time": 1693436424,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 152515,
+      "num": 152515,
+      "word": "小鸟不能长手的原因",
+      "onboard_time": 1693437928,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151828,
+      "num": 151828,
+      "word": "没人能空着肚子离开重庆夜市",
+      "onboard_time": 1693420275,
+      "rank": 45,
+      "category": "旅游,美食"
     },
     {
       "raw_hot": 146712,
@@ -387,16 +435,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132399,
-      "num": 132399,
-      "word": "下半年成都演唱会扎堆了",
-      "onboard_time": 1693427353,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 129115,
-      "num": 122711,
+      "raw_hot": 141309,
+      "num": 141309,
       "word": "超强台风苏拉锁定广东",
       "onboard_time": 1693415243,
       "rank": 42,
@@ -408,6 +448,14 @@
       "word": "郎平辟谣执教日本女排",
       "onboard_time": 1693407100,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124609,
+      "num": 124609,
+      "word": "这是中国男篮的真实实力吗",
+      "onboard_time": 1693419976,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -425,22 +473,6 @@
       "onboard_time": 1693404824,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119302,
-      "num": 119302,
-      "word": "这么大个柜子只住两个人",
-      "onboard_time": 1693416802,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 118887,
-      "num": 118887,
-      "word": "没人能空着肚子离开重庆夜市",
-      "onboard_time": 1693420275,
-      "rank": 45,
-      "category": "旅游,美食"
     },
     {
       "raw_hot": 115499,
@@ -467,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101529,
-      "num": 101529,
-      "word": "这是中国男篮的真实实力吗",
-      "onboard_time": 1693419976,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 106133,
+      "num": 106133,
+      "word": "罗成 我做出了青花瓷蛋糕",
+      "onboard_time": 1693438290,
+      "rank": 45,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 99066,
@@ -505,6 +537,14 @@
       "onboard_time": 1693433236,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74087,
+      "num": 688089,
+      "word": "开学季第一张自拍",
+      "onboard_time": 1693399539,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70294,
@@ -545,14 +585,6 @@
       "onboard_time": 1693416142,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 53809,
-      "num": 644816,
-      "word": "开学季第一张自拍",
-      "onboard_time": 1693399539,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48598,
