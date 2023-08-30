@@ -1,0 +1,410 @@
+{
+  "runTime": 1693391653174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1846550,
+        "num": 1846550,
+        "word": "王阳曾回应孙菲菲与导演的冲突",
+        "onboard_time": 1693386577,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567506,
+        "num": 1272504,
+        "word": "30岁公务员辞职做短视频博主",
+        "onboard_time": 1693376562,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86387,
+        "num": 1249931,
+        "word": "总导演剧透杭州亚运会开幕式创意",
+        "onboard_time": 1693385798,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237745,
+        "num": 1237745,
+        "word": "日方反咬中国洗白不了排污入海劣迹",
+        "onboard_time": 1693372834,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267340,
+        "num": 884466,
+        "word": "6岁脑瘫女孩豆豆成为小学生",
+        "onboard_time": 1693385257,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577419,
+        "num": 577419,
+        "word": "莲花楼番外 武痴",
+        "onboard_time": 1693388378,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242418,
+        "num": 545301,
+        "word": "孕妇街头狂奔追人交警果断出手",
+        "onboard_time": 1693383520,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544079,
+        "num": 544079,
+        "word": "以后吃瓜就知道谁是谁了",
+        "onboard_time": 1693374035,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430739,
+        "num": 430739,
+        "word": "北京冰雹",
+        "onboard_time": 1693388496,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421466,
+        "num": 421466,
+        "word": "五条悟断臂",
+        "onboard_time": 1693378778,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 2651726,
+        "num": 420236,
+        "word": "岸田文雄午餐全是福岛食材",
+        "onboard_time": 1693387958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1851356,
+        "num": 410273,
+        "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+        "onboard_time": 1693375235,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1473459,
+        "num": 397950,
+        "word": "鸟鸟 我努力到30岁还没过上好日子",
+        "onboard_time": 1693381055,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202772,
+        "num": 394629,
+        "word": "过半人在急性心梗前有预警征兆",
+        "onboard_time": 1693383164,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69706,
+        "num": 387797,
+        "word": "小伙视力残疾用放大镜学习考上大学",
+        "onboard_time": 1693389635,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531056,
+        "num": 379578,
+        "word": "男子持刀威胁未成年堂妹发生性关系",
+        "onboard_time": 1693387419,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521037,
+        "num": 368104,
+        "word": "女子生育期间遭家暴起诉离婚被驳",
+        "onboard_time": 1693384657,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365519,
+        "num": 365519,
+        "word": "教师出书称女生是早恋主要责任人",
+        "onboard_time": 1693379375,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 329401,
+        "num": 329401,
+        "word": "苹果iPhone15系列价格",
+        "onboard_time": 1693369181,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 299209,
+        "num": 299209,
+        "word": "Jennie参演的偶像漩涡被取消",
+        "onboard_time": 1693383579,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1164365,
+        "num": 295530,
+        "word": "中元节最大禁忌是什么",
+        "onboard_time": 1693379558,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 796435,
+        "num": 286928,
+        "word": "根本没人选C",
+        "onboard_time": 1693385498,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428828,
+        "num": 282436,
+        "word": "为什么要在香菇上划十字",
+        "onboard_time": 1693388016,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 337702,
+        "num": 275960,
+        "word": "i人喜欢和一些陌生人社交",
+        "onboard_time": 1693389277,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 335779,
+        "num": 269610,
+        "word": "虞书欣下车动作",
+        "onboard_time": 1693386038,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268370,
+        "num": 268370,
+        "word": "超级蓝月",
+        "onboard_time": 1693390535,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262971,
+        "num": 262971,
+        "word": "易建联吉克隽逸居然认识",
+        "onboard_time": 1693384298,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 260039,
+        "num": 260039,
+        "word": "周震南连发25条微博",
+        "onboard_time": 1693373738,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255715,
+        "num": 255715,
+        "word": "骑友大哥回应向吴磊要微信",
+        "onboard_time": 1693385257,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240011,
+        "num": 240011,
+        "word": "浙江查获日本核辐射地区进口食品",
+        "onboard_time": 1693371640,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334250,
+        "num": 239751,
+        "word": "12306回应硬卧下铺别人能不能坐",
+        "onboard_time": 1693390835,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230813,
+        "num": 230813,
+        "word": "狮子座坚定不移的正义感",
+        "onboard_time": 1693387896,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 216943,
+        "num": 216943,
+        "word": "萝莉街头乱停车被阻单挑十余人",
+        "onboard_time": 1693388317,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206311,
+        "num": 206311,
+        "word": "永夜星河开机官宣",
+        "onboard_time": 1693384240,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200737,
+        "num": 200737,
+        "word": "日本涩谷新出现的SEVENTEEN净汉区",
+        "onboard_time": 1693383761,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198902,
+        "num": 198902,
+        "word": "邓为长相思原声",
+        "onboard_time": 1693387778,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198267,
+        "num": 198267,
+        "word": "莲花楼莲花处处开",
+        "onboard_time": 1693389577,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198321,
+        "num": 194677,
+        "word": "檀健次相柳登顶热播剧集角色吸粉榜",
+        "onboard_time": 1693391375,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190914,
+        "num": 190914,
+        "word": "那个被诊断为终生无法站立的孩子",
+        "onboard_time": 1693376316,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188764,
+        "num": 188764,
+        "word": "虞书欣适合浓妆还是淡妆",
+        "onboard_time": 1693384901,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 187879,
+        "num": 187879,
+        "word": "爱因斯坦的脑子卖了两万份",
+        "onboard_time": 1693382919,
+        "rank": 40,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 179894,
+        "num": 179894,
+        "word": "何炅说凯凯就是一个勇士",
+        "onboard_time": 1693389699,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170375,
+        "num": 170375,
+        "word": "王阳瘦回130斤",
+        "onboard_time": 1693378116,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167312,
+        "num": 167312,
+        "word": "小猫肚子里肯定没少装猪脚饭",
+        "onboard_time": 1693385077,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161427,
+        "num": 161427,
+        "word": "为什么看久了一个字就好像不认识",
+        "onboard_time": 1693391496,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 158647,
+        "num": 158647,
+        "word": "长相思走出国门",
+        "onboard_time": 1693390114,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156504,
+        "num": 156504,
+        "word": "美拉德穿搭",
+        "onboard_time": 1693391375,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 149642,
+        "num": 149642,
+        "word": "电梯里的镜子其实是为方便轮椅人士",
+        "onboard_time": 1693389157,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147049,
+        "num": 147049,
+        "word": "汪苏泷一开口我斜刘海就长出来了",
+        "onboard_time": 1693382678,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145169,
+        "num": 145169,
+        "word": "奥本海默",
+        "onboard_time": 1693369181,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩员顺应了历史发展潮流#"
+    }
+  }
+}
