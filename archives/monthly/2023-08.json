@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693431226943,
+  "endTime": 1693433745978,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -73571,6 +73571,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 131149,
+      "num": 131149,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131101,
       "num": 171380,
       "word": "芬兰的儿童教育",
@@ -76475,14 +76483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80513,
-      "num": 54383,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80395,
       "num": 506315,
       "word": "你的每个瞬间他都小心收藏",
@@ -78403,6 +78403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42292,
+      "num": 42292,
+      "word": "没人能空着肚子离开重庆夜市",
+      "onboard_time": 1693420275,
+      "rank": 45,
+      "category": "旅游,美食"
+    },
+    {
       "raw_hot": 42181,
       "num": 382019,
       "word": "七夕节牛郎织女传说始于淄博沂源",
@@ -78635,6 +78643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37805,
+      "num": 37805,
+      "word": "这是中国男篮的真实实力吗",
+      "onboard_time": 1693419976,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37804,
       "num": 38602,
       "word": "祝绪丹古风撑伞",
@@ -78665,14 +78681,6 @@
       "onboard_time": 1693144900,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36912,
-      "num": 36912,
-      "word": "这是中国男篮的真实实力吗",
-      "onboard_time": 1693419976,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 36742,
@@ -78721,6 +78729,14 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35315,
+      "num": 35315,
+      "word": "下半年成都演唱会扎堆了",
+      "onboard_time": 1693427353,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 34987,
@@ -78908,7 +78924,7 @@
     },
     {
       "raw_hot": 31361,
-      "num": 25869,
+      "num": 29431,
       "word": "拒绝让自己变成父母那样",
       "onboard_time": 1693423817,
       "rank": 49,
@@ -78945,6 +78961,14 @@
       "onboard_time": 1690871014,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30831,
+      "num": 30831,
+      "word": "这和躺在吴磊怀里有什么区别",
+      "onboard_time": 1693433236,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 30775,
@@ -79025,14 +79049,6 @@
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29891,
-      "num": 29891,
-      "word": "没人能空着肚子离开重庆夜市",
-      "onboard_time": 1693420275,
-      "rank": 45,
-      "category": "旅游,美食"
     },
     {
       "raw_hot": 29859,
@@ -79385,14 +79401,6 @@
       "onboard_time": 1691485238,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24937,
-      "num": 24937,
-      "word": "下半年成都演唱会扎堆了",
-      "onboard_time": 1693427353,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 24816,

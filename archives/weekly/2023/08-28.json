@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693431226943,
+  "endTime": 1693433745978,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -7859,6 +7859,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 131149,
+      "num": 131149,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129805,
       "num": 129805,
       "word": "陆毅晒披荆斩棘四人间",
@@ -8121,14 +8129,6 @@
       "onboard_time": 1693364914,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80513,
-      "num": 54383,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 78564,
@@ -8403,6 +8403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42292,
+      "num": 42292,
+      "word": "没人能空着肚子离开重庆夜市",
+      "onboard_time": 1693420275,
+      "rank": 45,
+      "category": "旅游,美食"
+    },
+    {
       "raw_hot": 41648,
       "num": 1284010,
       "word": "把星辰的声音谱成音乐有多美",
@@ -8435,12 +8443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36912,
-      "num": 36912,
+      "raw_hot": 37805,
+      "num": 37805,
       "word": "这是中国男篮的真实实力吗",
       "onboard_time": 1693419976,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35315,
+      "num": 35315,
+      "word": "下半年成都演唱会扎堆了",
+      "onboard_time": 1693427353,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 34911,
@@ -8460,7 +8476,7 @@
     },
     {
       "raw_hot": 31361,
-      "num": 25869,
+      "num": 29431,
       "word": "拒绝让自己变成父母那样",
       "onboard_time": 1693423817,
       "rank": 49,
@@ -8483,20 +8499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30831,
+      "num": 30831,
+      "word": "这和躺在吴磊怀里有什么区别",
+      "onboard_time": 1693433236,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30089,
       "num": 30089,
       "word": "电动车未来可用上人造太阳",
       "onboard_time": 1693333637,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 29891,
-      "num": 29891,
-      "word": "没人能空着肚子离开重庆夜市",
-      "onboard_time": 1693420275,
-      "rank": 45,
-      "category": "旅游,美食"
     },
     {
       "raw_hot": 28823,
@@ -8529,14 +8545,6 @@
       "onboard_time": 1693422255,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24937,
-      "num": 24937,
-      "word": "下半年成都演唱会扎堆了",
-      "onboard_time": 1693427353,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 24771,
