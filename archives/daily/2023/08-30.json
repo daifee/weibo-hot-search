@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693379724235,
+  "endTime": 1693380839376,
   "band_list": [
     {
       "raw_hot": 5198635,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2813108,
-      "num": 471608,
+      "num": 489965,
       "word": "周震南连发25条微博",
       "onboard_time": 1693373738,
       "rank": 10,
@@ -131,8 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1455463,
-      "num": 1455463,
+      "raw_hot": 1534292,
+      "num": 1534292,
       "word": "30岁公务员辞职做短视频博主",
       "onboard_time": 1693376562,
       "rank": 15,
@@ -193,6 +193,14 @@
       "onboard_time": 1693363115,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1175256,
+      "num": 1175256,
+      "word": "五条悟断臂",
+      "onboard_time": 1693378778,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 1130767,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 856142,
+      "num": 307548,
+      "word": "中元节最大禁忌是什么",
+      "onboard_time": 1693379558,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 853381,
       "num": 782459,
       "word": "华为Mate60Pro体验",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 778831,
-      "num": 448816,
+      "num": 486793,
       "word": "田曦薇小肉手",
       "onboard_time": 1693377276,
       "rank": 11,
@@ -515,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487021,
-      "num": 487021,
-      "word": "五条悟断臂",
-      "onboard_time": 1693378778,
-      "rank": 8,
-      "category": "动漫"
+      "raw_hot": 490131,
+      "num": 490131,
+      "word": "关晓彤王牌对王牌",
+      "onboard_time": 1693379558,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 476094,
@@ -595,20 +611,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444325,
+      "num": 444325,
+      "word": "那个被诊断为终生无法站立的孩子",
+      "onboard_time": 1693376316,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440175,
       "num": 420660,
       "word": "黄景瑜申请强执黑粉",
       "onboard_time": 1693375056,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 436357,
-      "num": 436357,
-      "word": "那个被诊断为终生无法站立的孩子",
-      "onboard_time": 1693376316,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423781,
@@ -835,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320062,
+      "num": 320062,
+      "word": "孙菲菲曾多次为霸凌事件发声",
+      "onboard_time": 1693379257,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319321,
       "num": 319321,
       "word": "邓为新剧的人设",
@@ -857,6 +881,14 @@
       "onboard_time": 1693366238,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 309548,
+      "num": 309548,
+      "word": "教师出书称女生是早恋主要责任人",
+      "onboard_time": 1693379375,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 301862,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 284771,
-      "num": 443211,
+      "num": 486325,
       "word": "演唱会柱子票涉嫌侵犯消费者知情权",
       "onboard_time": 1693373494,
       "rank": 49,
@@ -1003,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262788,
+      "num": 220970,
+      "word": "谁会不喜欢小青龙呢",
+      "onboard_time": 1693379436,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 253890,
       "num": 253890,
       "word": "于适狼尾发型错位图",
@@ -1076,19 +1116,11 @@
     },
     {
       "raw_hot": 239747,
-      "num": 445479,
+      "num": 484551,
       "word": "是爷爷奶奶的梦中情孙吧",
       "onboard_time": 1693375235,
       "rank": 14,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 239022,
-      "num": 183772,
-      "word": "孙菲菲曾多次为霸凌事件发声",
-      "onboard_time": 1693379257,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 237212,
@@ -1139,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220917,
+      "num": 241770,
+      "word": "起猛了蒲熠星出cos了",
+      "onboard_time": 1693380273,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219349,
       "num": 219349,
       "word": "一刷弄懂奥本海默",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1693351046,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211444,
+      "num": 211444,
+      "word": "kpop届所谓的冷知识",
+      "onboard_time": 1693378054,
+      "rank": 29,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 210344,
@@ -1211,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201371,
+      "num": 201371,
+      "word": "小红书回应旅游搭子内容涉黄",
+      "onboard_time": 1693379075,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201326,
       "num": 201326,
       "word": "黄铉辰参与戳爷新歌",
@@ -1243,12 +1299,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199551,
+      "num": 199551,
+      "word": "咒术回战",
+      "onboard_time": 1693379315,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 199243,
       "num": 596525,
       "word": "星穹铁道丹恒饮月",
       "onboard_time": 1693368219,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198727,
+      "num": 198727,
+      "word": "保安劝阻女孩正确停放单车位置遭打骂",
+      "onboard_time": 1693379676,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198612,
@@ -1275,12 +1347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193902,
-      "num": 193902,
-      "word": "咒术回战",
-      "onboard_time": 1693379315,
-      "rank": 27,
-      "category": "动漫"
+      "raw_hot": 196342,
+      "num": 196342,
+      "word": "陈哲远白色披风",
+      "onboard_time": 1693380576,
+      "rank": 36,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 193427,
+      "num": 193427,
+      "word": "苏拉",
+      "onboard_time": 1693380456,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192064,
@@ -1355,20 +1435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183804,
-      "num": 183804,
-      "word": "kpop届所谓的冷知识",
-      "onboard_time": 1693378054,
-      "rank": 29,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 183617,
       "num": 183617,
       "word": "张涵予 追一个贼追了20年",
       "onboard_time": 1693366417,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183591,
+      "num": 183591,
+      "word": "宋轶放空背台词",
+      "onboard_time": 1693379676,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183534,
@@ -1385,14 +1465,6 @@
       "onboard_time": 1693309659,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175681,
-      "num": 175681,
-      "word": "关晓彤王牌对王牌",
-      "onboard_time": 1693379558,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 172430,
@@ -1417,22 +1489,6 @@
       "onboard_time": 1693318545,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161899,
-      "num": 161899,
-      "word": "中元节最大禁忌是什么",
-      "onboard_time": 1693379558,
-      "rank": 39,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 161420,
-      "num": 161420,
-      "word": "保安劝阻女孩正确停放单车位置遭打骂",
-      "onboard_time": 1693379676,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160543,
@@ -1531,28 +1587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143284,
-      "num": 143284,
-      "word": "教师出书称女生是早恋主要责任人",
-      "onboard_time": 1693379375,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 142610,
       "num": 142610,
       "word": "08中国男篮成员全部退役",
       "onboard_time": 1693351590,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141731,
-      "num": 141731,
-      "word": "谁会不喜欢小青龙呢",
-      "onboard_time": 1693379436,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 140943,
@@ -1595,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125428,
-      "num": 125428,
-      "word": "宋轶放空背台词",
-      "onboard_time": 1693379676,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 120785,
       "num": 120785,
       "word": "张颂文给应届毕业生的建议",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1693329145,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 110060,
+      "num": 482250,
+      "word": "男生暑假作业弄丢老师开车送上门",
+      "onboard_time": 1693378837,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106379,
@@ -1705,14 +1745,6 @@
       "onboard_time": 1693332498,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50010,
-      "num": 441201,
-      "word": "男生暑假作业弄丢老师开车送上门",
-      "onboard_time": 1693378837,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41648,
