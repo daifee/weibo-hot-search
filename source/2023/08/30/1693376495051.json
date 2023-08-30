@@ -1,0 +1,410 @@
+{
+  "runTime": 1693376495051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2214781,
+        "num": 2214781,
+        "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+        "onboard_time": 1693375235,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1230566,
+        "num": 1230566,
+        "word": "以后吃瓜就知道谁是谁了",
+        "onboard_time": 1693374035,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22860,
+        "num": 1004975,
+        "word": "把星辰的声音谱成音乐有多美",
+        "onboard_time": 1693365097,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2513797,
+        "num": 989375,
+        "word": "浙江查获日本核辐射地区进口食品",
+        "onboard_time": 1693371640,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934082,
+        "num": 934082,
+        "word": "失踪俄罗斯花滑运动员戈尔巴乔娃已找到",
+        "onboard_time": 1693371279,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782916,
+        "num": 782916,
+        "word": "苹果iPhone15系列价格",
+        "onboard_time": 1693369181,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 747301,
+        "num": 747301,
+        "word": "海豚湾恋人童星畏罪潜逃被通缉",
+        "onboard_time": 1693366962,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 738205,
+        "num": 738205,
+        "word": "正式确诊为胡歌",
+        "onboard_time": 1693362693,
+        "rank": 7,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 481632,
+        "num": 481632,
+        "word": "小红书旅游搭子被指涉黄",
+        "onboard_time": 1693362095,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473290,
+        "num": 473290,
+        "word": "陈紫函说戴向宇不火",
+        "onboard_time": 1693370920,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2021736,
+        "num": 471608,
+        "word": "周震南连发25条微博",
+        "onboard_time": 1693373738,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467087,
+        "num": 467087,
+        "word": "向佐女装拍杂志吓到儿子了",
+        "onboard_time": 1693357297,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 420660,
+        "num": 420660,
+        "word": "黄景瑜申请强执黑粉",
+        "onboard_time": 1693375056,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284771,
+        "num": 413135,
+        "word": "演唱会柱子票涉嫌侵犯消费者知情权",
+        "onboard_time": 1693373494,
+        "rank": 13,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 220986,
+        "num": 413022,
+        "word": "是爷爷奶奶的梦中情孙吧",
+        "onboard_time": 1693375235,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 412971,
+        "num": 412971,
+        "word": "香港15平米的家是什么样的",
+        "onboard_time": 1693365875,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 319338,
+        "num": 319338,
+        "word": "华为Mate60Pro体验",
+        "onboard_time": 1693360359,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308809,
+        "num": 308809,
+        "word": "披荆斩棘真是请对蔡国庆了",
+        "onboard_time": 1693370199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293054,
+        "num": 293054,
+        "word": "杜冰雁扶老婆婆反被骗",
+        "onboard_time": 1693372058,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270506,
+        "num": 287671,
+        "word": "诺兰是怎么拍出奥本海默的",
+        "onboard_time": 1693375175,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730487,
+        "num": 286759,
+        "word": "日方反咬中国洗白不了排污入海劣迹",
+        "onboard_time": 1693372834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283339,
+        "num": 283339,
+        "word": "说一个烧钱但戒不掉的爱好",
+        "onboard_time": 1693373494,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 271874,
+        "num": 271874,
+        "word": "去李维嘉家做客的固定流程",
+        "onboard_time": 1693374696,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264524,
+        "num": 264524,
+        "word": "杭州地铁真的很懂网友了",
+        "onboard_time": 1693374396,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249775,
+        "num": 249775,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244562,
+        "num": 244562,
+        "word": "杨幂说许凯说走就走",
+        "onboard_time": 1693372776,
+        "rank": 25,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 234385,
+        "num": 234385,
+        "word": "殷郊 母亲的手",
+        "onboard_time": 1693368766,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233766,
+        "num": 233766,
+        "word": "腾讯爱奇艺和好了但没完全和好",
+        "onboard_time": 1693367860,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233480,
+        "num": 233480,
+        "word": "三十岁在一线城市失业意味着什么",
+        "onboard_time": 1693371520,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229066,
+        "num": 229066,
+        "word": "一路朝阳 李慕嘉求婚发言",
+        "onboard_time": 1693367140,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319021,
+        "num": 228685,
+        "word": "逃出大英博物馆开播",
+        "onboard_time": 1693376015,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219695,
+        "num": 219695,
+        "word": "完美贴合的下半身",
+        "onboard_time": 1693375776,
+        "rank": 31,
+        "category": "动漫,时尚"
+      },
+      {
+        "raw_hot": 199377,
+        "num": 199377,
+        "word": "密室大逃脱",
+        "onboard_time": 1693372000,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198502,
+        "num": 198502,
+        "word": "奥本海默",
+        "onboard_time": 1693369181,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132787,
+        "num": 197380,
+        "word": "48人因洪水失联的工地5人被刑拘",
+        "onboard_time": 1693366417,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196865,
+        "num": 196865,
+        "word": "那个被诊断为终生无法站立的孩子",
+        "onboard_time": 1693376316,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186646,
+        "num": 186646,
+        "word": "孙阳 欲望如同沼泽",
+        "onboard_time": 1693376316,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184726,
+        "num": 184726,
+        "word": "黄子弘凡新歌预告",
+        "onboard_time": 1693376254,
+        "rank": 37,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 181839,
+        "num": 181839,
+        "word": "高中班里的热搜墙",
+        "onboard_time": 1693376196,
+        "rank": 38,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 181103,
+        "num": 181103,
+        "word": "乘风2024拟邀阵容名单",
+        "onboard_time": 1693365697,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171696,
+        "num": 171696,
+        "word": "张真源王牌对王牌路透",
+        "onboard_time": 1693369965,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168813,
+        "num": 168813,
+        "word": "中元节",
+        "onboard_time": 1693350204,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "新疆女生收到西安网友免费寄的特产",
+        "onboard_time": 1693363717,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157379,
+        "num": 157379,
+        "word": "易建联CBA荣誉",
+        "onboard_time": 1693374336,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156260,
+        "num": 156260,
+        "word": "肖战白百何笑场花絮",
+        "onboard_time": 1693371696,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145676,
+        "num": 145676,
+        "word": "沪上阿姨回应21元饮品仅几块水果",
+        "onboard_time": 1693357775,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143703,
+        "num": 143703,
+        "word": "麦当劳回应顾客质疑大小杯豆浆一样多",
+        "onboard_time": 1693368399,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137084,
+        "num": 137084,
+        "word": "服务员 怎么这个房间唱歌一直放原唱",
+        "onboard_time": 1693352912,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133009,
+        "num": 133009,
+        "word": "短剧我回到十七岁的理由",
+        "onboard_time": 1693374939,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131249,
+        "num": 131249,
+        "word": "广东队将为易建联举办退役仪式",
+        "onboard_time": 1693356399,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩员顺应了历史发展潮流#"
+    }
+  }
+}
