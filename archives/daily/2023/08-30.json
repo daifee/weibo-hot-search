@@ -1,10 +1,10 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693383652260,
+  "endTime": 1693384473264,
   "band_list": [
     {
-      "raw_hot": 7720327,
-      "num": 7720327,
+      "raw_hot": 7790064,
+      "num": 7790064,
       "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
       "onboard_time": 1693375235,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1693357297,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2856662,
+      "num": 448556,
+      "word": "鸟鸟 我努力到30岁还没过上好日子",
+      "onboard_time": 1693381055,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2813108,
@@ -65,14 +73,6 @@
       "onboard_time": 1693371640,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2486721,
-      "num": 448556,
-      "word": "鸟鸟 我努力到30岁还没过上好日子",
-      "onboard_time": 1693381055,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 2477731,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1205447,
+      "num": 391498,
+      "word": "中元节最大禁忌是什么",
+      "onboard_time": 1693379558,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1192851,
       "num": 1192851,
       "word": "央八在干什么",
@@ -201,14 +209,6 @@
       "onboard_time": 1693363115,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1181164,
-      "num": 391498,
-      "word": "中元节最大禁忌是什么",
-      "onboard_time": 1693379558,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1175256,
@@ -315,6 +315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 807708,
+      "num": 433530,
+      "word": "教师出书称女生是早恋主要责任人",
+      "onboard_time": 1693379375,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 806011,
       "num": 806011,
       "word": "一路朝阳 李慕嘉求婚发言",
@@ -347,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 754331,
-      "num": 433530,
-      "word": "教师出书称女生是早恋主要责任人",
-      "onboard_time": 1693379375,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 745962,
       "num": 745962,
       "word": "张汉杰",
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 730487,
-      "num": 360040,
+      "num": 378768,
       "word": "日方反咬中国洗白不了排污入海劣迹",
       "onboard_time": 1693372834,
       "rank": 21,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562073,
+      "num": 562073,
+      "word": "孙菲菲曾多次为霸凌事件发声",
+      "onboard_time": 1693379257,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557598,
       "num": 385339,
       "word": "杨幂 思加图",
@@ -521,14 +529,6 @@
       "onboard_time": 1693379558,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 526946,
-      "num": 526946,
-      "word": "孙菲菲曾多次为霸凌事件发声",
-      "onboard_time": 1693379257,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 526489,
@@ -576,6 +576,14 @@
       "word": "王阳瘦回130斤",
       "onboard_time": 1693378116,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 487284,
+      "num": 420372,
+      "word": "血色恋情",
+      "onboard_time": 1693382859,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -683,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 420372,
-      "num": 420372,
-      "word": "血色恋情",
-      "onboard_time": 1693382859,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 413431,
       "num": 413431,
       "word": "李宗盛是真厉害啊",
@@ -763,6 +763,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 372259,
+      "num": 361210,
+      "word": "Jennie参演的偶像漩涡被取消",
+      "onboard_time": 1693383579,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369395,
       "num": 578300,
       "word": "48人因洪水失联的工地5人被刑拘",
@@ -793,6 +801,14 @@
       "onboard_time": 1693366297,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360145,
+      "num": 360145,
+      "word": "爱因斯坦的脑子卖了两万份",
+      "onboard_time": 1693382919,
+      "rank": 30,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 359176,
@@ -833,6 +849,14 @@
       "onboard_time": 1693324298,
       "rank": 22,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 346317,
+      "num": 346317,
+      "word": "日本涩谷新出现的SEVENTEEN净汉区",
+      "onboard_time": 1693383761,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 342355,
@@ -883,6 +907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 325330,
+      "num": 363485,
+      "word": "汪苏泷一开口我斜刘海就长出来了",
+      "onboard_time": 1693382678,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 321531,
       "num": 321531,
       "word": "美网",
@@ -931,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301737,
+      "num": 450464,
+      "word": "起猛了蒲熠星出cos了",
+      "onboard_time": 1693380273,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301513,
       "num": 301513,
       "word": "日本或向世贸组织起诉中国禁令",
@@ -971,20 +1011,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 288868,
+      "num": 288868,
+      "word": "谁会不喜欢小青龙呢",
+      "onboard_time": 1693379436,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 285435,
       "num": 717678,
       "word": "男孩拉门不松手被误会为熊孩子",
       "onboard_time": 1693350986,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285162,
-      "num": 285162,
-      "word": "谁会不喜欢小青龙呢",
-      "onboard_time": 1693379436,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 284771,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1693373494,
       "rank": 37,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 282437,
-      "num": 254329,
-      "word": "爱因斯坦的脑子卖了两万份",
-      "onboard_time": 1693382919,
-      "rank": 30,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 281774,
@@ -1107,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262468,
-      "num": 262468,
-      "word": "汪苏泷一开口我斜刘海就长出来了",
-      "onboard_time": 1693382678,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 253890,
       "num": 253890,
       "word": "于适狼尾发型错位图",
@@ -1179,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240522,
+      "num": 240522,
+      "word": "过半人在急性心梗前有预警征兆",
+      "onboard_time": 1693383164,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240004,
       "num": 240004,
       "word": "90秒看易建联传奇篮球生涯",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1693310379,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 220917,
-      "num": 450464,
-      "word": "起猛了蒲熠星出cos了",
-      "onboard_time": 1693380273,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 219349,
@@ -1337,6 +1361,22 @@
       "onboard_time": 1693361194,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202338,
+      "num": 202338,
+      "word": "星穹铁道丹恒饮月起舞弄清影",
+      "onboard_time": 1693383579,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202189,
+      "num": 202189,
+      "word": "永夜星河开机官宣",
+      "onboard_time": 1693384240,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 202082,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1693380576,
       "rank": 36,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 194576,
+      "num": 194576,
+      "word": "写简历的人一定很有趣",
+      "onboard_time": 1693383279,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 193427,
@@ -1547,11 +1595,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176863,
-      "num": 176863,
-      "word": "过半人在急性心梗前有预警征兆",
-      "onboard_time": 1693383164,
-      "rank": 37,
+      "raw_hot": 179278,
+      "num": 179278,
+      "word": "孕妇街头狂奔追人交警果断出手",
+      "onboard_time": 1693383520,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1571,12 +1619,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 169297,
-      "num": 169297,
-      "word": "写简历的人一定很有趣",
-      "onboard_time": 1693383279,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 167437,
+      "num": 167437,
+      "word": "易建联吉克隽逸居然认识",
+      "onboard_time": 1693384298,
+      "rank": 40,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 167213,
@@ -1627,14 +1675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154829,
-      "num": 154829,
-      "word": "星穹铁道丹恒饮月起舞弄清影",
-      "onboard_time": 1693383579,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154593,
       "num": 154593,
       "word": "这真的不能怪狗狗",
@@ -1643,12 +1683,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148780,
-      "num": 148780,
-      "word": "Jennie参演的偶像漩涡被取消",
-      "onboard_time": 1693383579,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 150622,
+      "num": 150622,
+      "word": "两个温暖善良的人相遇了",
+      "onboard_time": 1693383880,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146965,
@@ -1747,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123631,
-      "num": 123631,
-      "word": "孕妇街头狂奔追人交警果断出手",
-      "onboard_time": 1693383520,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120785,
       "num": 120785,
       "word": "张颂文给应届毕业生的建议",
@@ -1835,6 +1867,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 73810,
+      "num": 436211,
+      "word": "民警为女子全力修复故去双亲照片",
+      "onboard_time": 1693382499,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71120,
       "num": 71120,
       "word": "如果不是监控拍下来真的就解释不清了",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1693332498,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48445,
-      "num": 436211,
-      "word": "民警为女子全力修复故去双亲照片",
-      "onboard_time": 1693382499,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41648,
