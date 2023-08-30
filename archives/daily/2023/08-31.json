@@ -1,10 +1,10 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693412496686,
+  "endTime": 1693413447328,
   "band_list": [
     {
-      "raw_hot": 2395227,
-      "num": 2395227,
+      "raw_hot": 2543659,
+      "num": 2543659,
       "word": "椰子水价格暴涨4000%",
       "onboard_time": 1693410096,
       "rank": 0,
@@ -27,16 +27,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 945821,
-      "num": 945821,
+      "raw_hot": 968562,
+      "num": 968562,
       "word": "超级蓝月",
       "onboard_time": 1693390535,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 850809,
-      "num": 850809,
+      "raw_hot": 853319,
+      "num": 853319,
       "word": "不小心看到瑞幸员工内讧了",
       "onboard_time": 1693409619,
       "rank": 4,
@@ -243,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212733,
+      "num": 212733,
+      "word": "吴昕在KTV坐插线板最近的角落",
+      "onboard_time": 1693412492,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210275,
       "num": 210275,
       "word": "可能出现三台风局面",
@@ -259,20 +267,20 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 209423,
+      "num": 209423,
+      "word": "娜扎余佳恩婚纱造型",
+      "onboard_time": 1693411473,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205582,
       "num": 205582,
       "word": "韩国人真是什么都Cha",
       "onboard_time": 1693394136,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192180,
-      "num": 192180,
-      "word": "娜扎余佳恩婚纱造型",
-      "onboard_time": 1693411473,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 178442,
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135407,
+      "num": 135407,
+      "word": "越晚精神越好",
+      "onboard_time": 1693412731,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128690,
       "num": 128690,
       "word": "郎平辟谣执教日本女排",
@@ -388,11 +404,19 @@
     },
     {
       "raw_hot": 109761,
-      "num": 109761,
+      "num": 113045,
       "word": "致敬易建联",
       "onboard_time": 1693396957,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89203,
+      "num": 113040,
+      "word": "曾舜晞拍打戏摔倒",
+      "onboard_time": 1693402599,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 65393,
