@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693408657645,
+  "endTime": 1693409654223,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -651,6 +651,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1409442,
+      "num": 1409442,
+      "word": "用华为手机给美国商务部长拍照",
+      "onboard_time": 1693407220,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1391618,
       "num": 1391618,
       "word": "椰树集团招生本科生月薪涨至2万",
@@ -979,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 981982,
+      "num": 981982,
+      "word": "杨丞琳说马伯骞真的很在意杨汝晴",
+      "onboard_time": 1693406620,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 968700,
       "num": 968700,
       "word": "妹妹被正式确诊为曾毅",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1693225596,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 944076,
-      "num": 944076,
-      "word": "用华为手机给美国商务部长拍照",
-      "onboard_time": 1693407220,
-      "rank": 6,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 931504,
@@ -1131,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 873091,
-      "num": 873091,
-      "word": "杨丞琳说马伯骞真的很在意杨汝晴",
-      "onboard_time": 1693406620,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 871772,
       "num": 871772,
       "word": "骑友大哥这回认出来吴磊了",
@@ -1217,6 +1217,14 @@
       "onboard_time": 1693360359,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 852799,
+      "num": 852799,
+      "word": "超级蓝月",
+      "onboard_time": 1693390535,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846018,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1693229498,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 788443,
-      "num": 788443,
-      "word": "超级蓝月",
-      "onboard_time": 1693390535,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784919,
@@ -2707,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449292,
+      "num": 352260,
+      "word": "30岁左右的人经常犯的错误",
+      "onboard_time": 1693407278,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 449202,
       "num": 334566,
       "word": "被浙江农村的房子惊艳到了",
@@ -3009,6 +3017,14 @@
       "onboard_time": 1693197584,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415691,
+      "num": 355907,
+      "word": "27岁版张淼怡倒追17岁版方晓东",
+      "onboard_time": 1693406020,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 413431,
@@ -3641,14 +3657,6 @@
       "onboard_time": 1693312180,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 355907,
-      "num": 355907,
-      "word": "27岁版张淼怡倒追17岁版方晓东",
-      "onboard_time": 1693406020,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 354839,
@@ -5067,6 +5075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268657,
+      "num": 268657,
+      "word": "钟楚曦闪光抹胸白裙",
+      "onboard_time": 1693407880,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268182,
       "num": 268182,
       "word": "孤注一掷",
@@ -5473,14 +5489,6 @@
       "onboard_time": 1693181916,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244593,
-      "num": 244593,
-      "word": "30岁左右的人经常犯的错误",
-      "onboard_time": 1693407278,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 243908,
@@ -6267,14 +6275,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 204103,
-      "num": 204103,
-      "word": "钟楚曦闪光抹胸白裙",
-      "onboard_time": 1693407880,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204089,
       "num": 204089,
       "word": "范丞丞有点过于显眼了",
@@ -6761,6 +6761,14 @@
       "onboard_time": 1693217736,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194606,
+      "num": 194606,
+      "word": "周琦太软了",
+      "onboard_time": 1693409020,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 194240,
@@ -7561,6 +7569,14 @@
       "onboard_time": 1693148861,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151670,
+      "num": 151670,
+      "word": "不小心看到瑞幸员工内讧了",
+      "onboard_time": 1693409619,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 151450,
