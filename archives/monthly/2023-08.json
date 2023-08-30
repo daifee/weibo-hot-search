@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693424043211,
+  "endTime": 1693426673592,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -77915,6 +77915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53278,
+      "num": 50791,
+      "word": "欧阳娜娜开学了",
+      "onboard_time": 1693424175,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53047,
       "num": 658974,
       "word": "拾荒残障小伙向涿州灾区捐献物资",
@@ -78201,6 +78209,14 @@
       "onboard_time": 1692370902,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45897,
+      "num": 45897,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 45882,
@@ -78891,6 +78907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31361,
+      "num": 24876,
+      "word": "拒绝让自己变成父母那样",
+      "onboard_time": 1693423817,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31314,
       "num": 549589,
       "word": "三代治沙人用百年时间把沙海变绿洲",
@@ -79001,6 +79025,14 @@
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29891,
+      "num": 29891,
+      "word": "没人能空着肚子离开重庆夜市",
+      "onboard_time": 1693420275,
+      "rank": 45,
+      "category": "旅游,美食"
     },
     {
       "raw_hot": 29859,
@@ -79355,14 +79387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24828,
-      "num": 24828,
-      "word": "没人能空着肚子离开重庆夜市",
-      "onboard_time": 1693420275,
-      "rank": 45,
-      "category": "旅游,美食"
-    },
-    {
       "raw_hot": 24816,
       "num": 24816,
       "word": "核废水和核污水不一样",
@@ -79513,14 +79537,6 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21086,
-      "num": 24127,
-      "word": "拒绝让自己变成父母那样",
-      "onboard_time": 1693423817,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 20509,

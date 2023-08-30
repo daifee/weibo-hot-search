@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693424043211,
+  "endTime": 1693426673592,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -8307,6 +8307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53278,
+      "num": 50791,
+      "word": "欧阳娜娜开学了",
+      "onboard_time": 1693424175,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51902,
       "num": 51902,
       "word": "国外小哥和水豚处成了好朋友",
@@ -8353,6 +8361,14 @@
       "onboard_time": 1693250895,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 45897,
+      "num": 45897,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 45371,
@@ -8443,6 +8459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 31361,
+      "num": 24876,
+      "word": "拒绝让自己变成父母那样",
+      "onboard_time": 1693423817,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31130,
       "num": 31130,
       "word": "海南省委巡视组原组长韩太光被查",
@@ -8465,6 +8489,14 @@
       "onboard_time": 1693333637,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 29891,
+      "num": 29891,
+      "word": "没人能空着肚子离开重庆夜市",
+      "onboard_time": 1693420275,
+      "rank": 45,
+      "category": "旅游,美食"
     },
     {
       "raw_hot": 28823,
@@ -8499,14 +8531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24828,
-      "num": 24828,
-      "word": "没人能空着肚子离开重庆夜市",
-      "onboard_time": 1693420275,
-      "rank": 45,
-      "category": "旅游,美食"
-    },
-    {
       "raw_hot": 24771,
       "num": 30792,
       "word": "都市接到办热线037165732233",
@@ -8521,14 +8545,6 @@
       "onboard_time": 1693188036,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21086,
-      "num": 24127,
-      "word": "拒绝让自己变成父母那样",
-      "onboard_time": 1693423817,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 18117,
