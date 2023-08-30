@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693415680853,
+  "endTime": 1693416832239,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -7867,6 +7867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129115,
+      "num": 122711,
+      "word": "超强台风苏拉锁定广东",
+      "onboard_time": 1693415243,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129085,
       "num": 129085,
       "word": "专业划水的大熊猫",
@@ -8059,20 +8067,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 99066,
+      "num": 99066,
+      "word": "00后上班能闯什么祸",
+      "onboard_time": 1693414585,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 99011,
       "num": 104311,
       "word": "黑执事动画中最帅的执事",
       "onboard_time": 1693240350,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 97429,
-      "num": 97429,
-      "word": "00后上班能闯什么祸",
-      "onboard_time": 1693414585,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 93284,
@@ -8112,14 +8120,6 @@
       "word": "如何规范使用地图",
       "onboard_time": 1693364914,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82803,
-      "num": 82803,
-      "word": "超强台风苏拉锁定广东",
-      "onboard_time": 1693415243,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -8283,6 +8283,30 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 57672,
+      "num": 57672,
+      "word": "为什么这些生活技巧我都不会",
+      "onboard_time": 1693415962,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 55487,
+      "num": 55487,
+      "word": "宋妍霏冷艳小白花",
+      "onboard_time": 1693416142,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53413,
+      "num": 53413,
+      "word": "这么大个柜子只住两个人",
+      "onboard_time": 1693416802,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 51902,
       "num": 51902,
       "word": "国外小哥和水豚处成了好朋友",
@@ -8371,6 +8395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37933,
+      "num": 568575,
+      "word": "开学季第一张自拍",
+      "onboard_time": 1693399539,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34911,
       "num": 43531,
       "word": "刘德华 做朋友是不需要理由的",
@@ -8401,14 +8433,6 @@
       "onboard_time": 1693333637,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 29702,
-      "num": 568575,
-      "word": "开学季第一张自拍",
-      "onboard_time": 1693399539,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28823,
