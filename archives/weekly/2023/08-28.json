@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693426673592,
+  "endTime": 1693427653141,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -8283,6 +8283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61200,
+      "num": 50024,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60512,
       "num": 60512,
       "word": "长沙一学校尚在施工中就开学",
@@ -8361,14 +8369,6 @@
       "onboard_time": 1693250895,
       "rank": 48,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 45897,
-      "num": 45897,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 45371,
@@ -8460,7 +8460,7 @@
     },
     {
       "raw_hot": 31361,
-      "num": 24876,
+      "num": 25869,
       "word": "拒绝让自己变成父母那样",
       "onboard_time": 1693423817,
       "rank": 49,
@@ -8547,6 +8547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18760,
+      "num": 18760,
+      "word": "下半年成都演唱会扎堆了",
+      "onboard_time": 1693427353,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18117,
       "num": 20750,
       "word": "去大海开盲盒",
@@ -8561,6 +8569,14 @@
       "onboard_time": 1693169113,
       "rank": 40,
       "category": "其它"
+    },
+    {
+      "raw_hot": 17755,
+      "num": 18173,
+      "word": "假如你住在这么大的宿舍",
+      "onboard_time": 1693426394,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 17715,

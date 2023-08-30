@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693426673592,
+  "endTime": 1693427653141,
   "band_list": [
     {
       "raw_hot": 2543659,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 61200,
+      "num": 50024,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57672,
       "num": 57672,
       "word": "为什么这些生活技巧我都不会",
@@ -481,14 +489,6 @@
       "onboard_time": 1693417219,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45897,
-      "num": 45897,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 42591,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 31361,
-      "num": 24876,
+      "num": 25869,
       "word": "拒绝让自己变成父母那样",
       "onboard_time": 1693423817,
       "rank": 49,
@@ -545,6 +545,22 @@
       "onboard_time": 1693422255,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18760,
+      "num": 18760,
+      "word": "下半年成都演唱会扎堆了",
+      "onboard_time": 1693427353,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 17755,
+      "num": 18173,
+      "word": "假如你住在这么大的宿舍",
+      "onboard_time": 1693426394,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
