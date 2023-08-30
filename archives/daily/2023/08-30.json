@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693352033605,
+  "endTime": 1693357817370,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -27,12 +27,44 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2477731,
+      "num": 2477731,
+      "word": "华为转让多个姚安娜商标",
+      "onboard_time": 1693352972,
+      "rank": 0,
+      "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 1944674,
+      "num": 1944674,
+      "word": "中元节",
+      "onboard_time": 1693350204,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1845073,
+      "num": 1845073,
+      "word": "大腿粗居然有这么多好处",
+      "onboard_time": 1693353096,
+      "rank": 3,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 1634613,
-      "num": 638635,
+      "num": 747927,
       "word": "李湘的履历",
       "onboard_time": 1693317764,
       "rank": 10,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 1363210,
+      "num": 1363210,
+      "word": "服务员 怎么这个房间唱歌一直放原唱",
+      "onboard_time": 1693352912,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1192851,
@@ -43,6 +75,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1129483,
+      "num": 1129483,
+      "word": "俄罗斯16岁花滑运动员戈尔巴乔娃失踪",
+      "onboard_time": 1693352131,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1120335,
+      "num": 767212,
+      "word": "向佐女装拍杂志吓到儿子了",
+      "onboard_time": 1693357297,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1089080,
+      "num": 757677,
+      "word": "路人拍的景甜",
+      "onboard_time": 1693356280,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055658,
       "num": 1055658,
       "word": "内蒙古赤峰发生重大刑事案件",
@@ -51,16 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1016400,
-      "num": 1016400,
-      "word": "中元节",
-      "onboard_time": 1693350204,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 975159,
-      "num": 975159,
+      "raw_hot": 1032490,
+      "num": 1032490,
       "word": "苹果发布会",
       "onboard_time": 1693327110,
       "rank": 3,
@@ -75,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840633,
+      "num": 528012,
+      "word": "要多和大便通畅的人接吻",
+      "onboard_time": 1693350204,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 773293,
+      "num": 773293,
+      "word": "永远的中国队长",
+      "onboard_time": 1693352733,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 767357,
       "num": 767357,
       "word": "婴儿频繁揉眼20多天医生夹出两条虫",
@@ -83,12 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752957,
-      "num": 401793,
-      "word": "要多和大便通畅的人接吻",
-      "onboard_time": 1693350204,
-      "rank": 16,
-      "category": "幽默,情感"
+      "raw_hot": 716698,
+      "num": 716698,
+      "word": "广东队将为易建联举办退役仪式",
+      "onboard_time": 1693356399,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 691882,
@@ -131,12 +195,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633677,
+      "num": 633677,
+      "word": "枪击案被捕中国留学生最后贴文称想交朋友",
+      "onboard_time": 1693352429,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606564,
+      "num": 606564,
+      "word": "新版杜冰雁选角",
+      "onboard_time": 1693356221,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 577044,
+      "num": 577044,
+      "word": "kpop能称得上帅的都在这里了",
+      "onboard_time": 1693356519,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 532651,
+      "num": 339563,
+      "word": "徐志胜 那是他们能给你的全部了",
+      "onboard_time": 1693356938,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517024,
       "num": 363492,
       "word": "怀疑陈紫函戴向宇精神状态",
       "onboard_time": 1693323338,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510564,
+      "num": 510564,
+      "word": "为什么过桥米线门店越来越少",
+      "onboard_time": 1693351769,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 476094,
@@ -179,12 +283,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 459784,
+      "num": 459784,
+      "word": "眉姐姐的新裙子",
+      "onboard_time": 1693354658,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 423781,
       "num": 423781,
       "word": "高叶大嫂劲又出来了",
       "onboard_time": 1693323637,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422747,
+      "num": 422747,
+      "word": "相柳版与妻书",
+      "onboard_time": 1693353214,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 413431,
+      "num": 413431,
+      "word": "李宗盛是真厉害啊",
+      "onboard_time": 1693353999,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 408613,
@@ -195,12 +323,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 405645,
+      "num": 405645,
+      "word": "原来法令纹和脾胃有关",
+      "onboard_time": 1693353759,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 402068,
       "num": 364107,
       "word": "内娱野人",
       "onboard_time": 1693328006,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359719,
+      "num": 729307,
+      "word": "中元节曾是热闹的狂欢日",
+      "onboard_time": 1693356938,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353662,
+      "num": 353662,
+      "word": "给过敏性鼻炎患者的建议",
+      "onboard_time": 1693356818,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350732,
@@ -217,6 +369,14 @@
       "onboard_time": 1693324298,
       "rank": 22,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 342355,
+      "num": 342355,
+      "word": "Cat 问心无愧",
+      "onboard_time": 1693352912,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 340684,
@@ -243,6 +403,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 319321,
+      "num": 319321,
+      "word": "邓为新剧的人设",
+      "onboard_time": 1693354479,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301862,
+      "num": 301862,
+      "word": "乐童音乐家Killing Voice",
+      "onboard_time": 1693356818,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301513,
       "num": 301513,
       "word": "日本或向世贸组织起诉中国禁令",
@@ -267,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285435,
+      "num": 717678,
+      "word": "男孩拉门不松手被误会为熊孩子",
+      "onboard_time": 1693350986,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281774,
       "num": 281774,
       "word": "小猫咪为什么喜欢把手折成这样",
@@ -283,12 +467,68 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252205,
+      "num": 252205,
+      "word": "女子互换特产收获一只腊猪蹄",
+      "onboard_time": 1693355139,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250423,
+      "num": 250423,
+      "word": "马伯骞喜欢姐姐类型",
+      "onboard_time": 1693353999,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247680,
+      "num": 247680,
+      "word": "视频回顾易建联国家队最后一战",
+      "onboard_time": 1693356459,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 245227,
+      "num": 245227,
+      "word": "被这个教授的硬核科普惊到了",
+      "onboard_time": 1693357178,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 237679,
+      "num": 237679,
+      "word": "沪上阿姨回应21元饮品仅几块水果",
+      "onboard_time": 1693357775,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237212,
+      "num": 237212,
+      "word": "杨阳洋开学视频",
+      "onboard_time": 1693355921,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227699,
       "num": 227699,
       "word": "周杰伦邓紫棋合唱黑色毛衣",
       "onboard_time": 1693326032,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225460,
+      "num": 225460,
+      "word": "张杰 嗓子很忙",
+      "onboard_time": 1693354540,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 221626,
@@ -307,12 +547,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206823,
-      "num": 383256,
-      "word": "男孩拉门不松手被误会为熊孩子",
-      "onboard_time": 1693350986,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 210344,
+      "num": 210344,
+      "word": "9岁摄影师问吉克隽逸美甲扎不扎",
+      "onboard_time": 1693351888,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209642,
+      "num": 209642,
+      "word": "美网",
+      "onboard_time": 1693357775,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207796,
+      "num": 207796,
+      "word": "偶像剧i人女主好少啊",
+      "onboard_time": 1693356099,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206242,
@@ -337,14 +593,6 @@
       "onboard_time": 1693325914,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196355,
-      "num": 181561,
-      "word": "9岁摄影师问吉克隽逸美甲扎不扎",
-      "onboard_time": 1693351888,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189644,
@@ -417,14 +665,6 @@
       "onboard_time": 1693330042,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158602,
-      "num": 158602,
-      "word": "为什么过桥米线门店越来越少",
-      "onboard_time": 1693351769,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 158270,
@@ -555,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105317,
+      "num": 1962519,
+      "word": "地图一点一线都代表祖国大好山河",
+      "onboard_time": 1693313564,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81813,
       "num": 81813,
       "word": "杰尼斯承认喜多川性侵",
@@ -593,14 +841,6 @@
       "onboard_time": 1693299700,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60801,
-      "num": 1962519,
-      "word": "地图一点一线都代表祖国大好山河",
-      "onboard_time": 1693313564,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51902,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693352033605,
+  "endTime": 1693357817370,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 3024929,
-      "num": 717525,
+      "num": 747927,
       "word": "李湘的履历",
       "onboard_time": 1693317764,
       "rank": 15,
@@ -153,6 +153,14 @@
       "onboard_time": 1693237474,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2477731,
+      "num": 2477731,
+      "word": "华为转让多个姚安娜商标",
+      "onboard_time": 1693352972,
+      "rank": 0,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 2461793,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1944674,
+      "num": 1944674,
+      "word": "中元节",
+      "onboard_time": 1693350204,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1941751,
       "num": 371060,
       "word": "中方回应在华日本学校被砸石头和鸡蛋",
@@ -305,6 +321,14 @@
       "onboard_time": 1693279476,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1845073,
+      "num": 1845073,
+      "word": "大腿粗居然有这么多好处",
+      "onboard_time": 1693353096,
+      "rank": 3,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 1843749,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1363210,
+      "num": 1363210,
+      "word": "服务员 怎么这个房间唱歌一直放原唱",
+      "onboard_time": 1693352912,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1312664,
       "num": 444053,
       "word": "吕明星 对这段友情无愧于心",
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129483,
+      "num": 1129483,
+      "word": "俄罗斯16岁花滑运动员戈尔巴乔娃失踪",
+      "onboard_time": 1693352131,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1121050,
       "num": 458955,
       "word": "小S二女儿Lily状态",
@@ -563,12 +603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1120335,
+      "num": 767212,
+      "word": "向佐女装拍杂志吓到儿子了",
+      "onboard_time": 1693357297,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1097542,
       "num": 1031694,
       "word": "中国恒大负债2.38万亿",
       "onboard_time": 1693191037,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1089080,
+      "num": 757677,
+      "word": "路人拍的景甜",
+      "onboard_time": 1693356280,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1084388,
@@ -619,20 +675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1032490,
+      "num": 1032490,
+      "word": "苹果发布会",
+      "onboard_time": 1693327110,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1030219,
       "num": 1030219,
       "word": "夭玹 改写结局",
       "onboard_time": 1693236815,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1016400,
-      "num": 1016400,
-      "word": "中元节",
-      "onboard_time": 1693350204,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1002817,
@@ -649,14 +705,6 @@
       "onboard_time": 1693296697,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 975159,
-      "num": 975159,
-      "word": "苹果发布会",
-      "onboard_time": 1693327110,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 968700,
@@ -819,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840633,
+      "num": 528012,
+      "word": "要多和大便通畅的人接吻",
+      "onboard_time": 1693350204,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 840121,
       "num": 840121,
       "word": "虹猫 一位大侠最极致的爱",
@@ -923,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773293,
+      "num": 773293,
+      "word": "永远的中国队长",
+      "onboard_time": 1693352733,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772511,
       "num": 276862,
       "word": "女子网购蒟蒻果冻吃出整只虫",
@@ -977,14 +1041,6 @@
       "onboard_time": 1693194698,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 752957,
-      "num": 401793,
-      "word": "要多和大便通畅的人接吻",
-      "onboard_time": 1693350204,
-      "rank": 16,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 751369,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1693180833,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 716698,
+      "num": 716698,
+      "word": "广东队将为易建联举办退役仪式",
+      "onboard_time": 1693356399,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 715157,
@@ -1283,6 +1347,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 633677,
+      "num": 633677,
+      "word": "枪击案被捕中国留学生最后贴文称想交朋友",
+      "onboard_time": 1693352429,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624749,
       "num": 411599,
       "word": "日本超市海鲜打折也没人买",
@@ -1347,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 606564,
+      "num": 606564,
+      "word": "新版杜冰雁选角",
+      "onboard_time": 1693356221,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 603851,
       "num": 603851,
       "word": "虞书欣清冷白玫瑰",
@@ -1401,6 +1481,14 @@
       "onboard_time": 1693224758,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 577044,
+      "num": 577044,
+      "word": "kpop能称得上帅的都在这里了",
+      "onboard_time": 1693356519,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 575384,
@@ -1563,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532651,
+      "num": 339563,
+      "word": "徐志胜 那是他们能给你的全部了",
+      "onboard_time": 1693356938,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530751,
       "num": 335301,
       "word": "张冕",
@@ -1665,6 +1761,14 @@
       "onboard_time": 1693211858,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 510564,
+      "num": 510564,
+      "word": "为什么过桥米线门店越来越少",
+      "onboard_time": 1693351769,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 508794,
@@ -1848,6 +1952,14 @@
       "word": "吉克隽逸微指近2亿",
       "onboard_time": 1693316564,
       "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459784,
+      "num": 459784,
+      "word": "眉姐姐的新裙子",
+      "onboard_time": 1693354658,
+      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -2083,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422747,
+      "num": 422747,
+      "word": "相柳版与妻书",
+      "onboard_time": 1693353214,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419454,
       "num": 419454,
       "word": "大爷晨练捡到80多万完璧归赵",
@@ -2131,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413431,
+      "num": 413431,
+      "word": "李宗盛是真厉害啊",
+      "onboard_time": 1693353999,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 413001,
       "num": 355596,
       "word": "内蒙古露天煤矿坍塌事故调查报告",
@@ -2176,6 +2304,14 @@
       "word": "为什么重庆火锅锅底要加冰",
       "onboard_time": 1693299577,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 405645,
+      "num": 405645,
+      "word": "原来法令纹和脾胃有关",
+      "onboard_time": 1693353759,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -2539,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 359719,
+      "num": 729307,
+      "word": "中元节曾是热闹的狂欢日",
+      "onboard_time": 1693356938,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358429,
       "num": 358429,
       "word": "林志颖朴灿烈同款外套",
@@ -2585,6 +2729,14 @@
       "onboard_time": 1693154606,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 353662,
+      "num": 353662,
+      "word": "给过敏性鼻炎患者的建议",
+      "onboard_time": 1693356818,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350783,
@@ -2697,6 +2849,14 @@
       "onboard_time": 1693298616,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342355,
+      "num": 342355,
+      "word": "Cat 问心无愧",
+      "onboard_time": 1693352912,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 341986,
@@ -2979,6 +3139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319321,
+      "num": 319321,
+      "word": "邓为新剧的人设",
+      "onboard_time": 1693354479,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319092,
       "num": 319092,
       "word": "戴向宇家务乱做",
@@ -3185,6 +3353,14 @@
       "onboard_time": 1693192898,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301862,
+      "num": 301862,
+      "word": "乐童音乐家Killing Voice",
+      "onboard_time": 1693356818,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 301494,
@@ -3417,6 +3593,14 @@
       "onboard_time": 1693277854,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285435,
+      "num": 717678,
+      "word": "男孩拉门不松手被误会为熊孩子",
+      "onboard_time": 1693350986,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285138,
@@ -3819,6 +4003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252205,
+      "num": 252205,
+      "word": "女子互换特产收获一只腊猪蹄",
+      "onboard_time": 1693355139,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251919,
       "num": 248702,
       "word": "我李玉湖就要来了",
@@ -3849,6 +4041,14 @@
       "onboard_time": 1693301558,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250423,
+      "num": 250423,
+      "word": "马伯骞喜欢姐姐类型",
+      "onboard_time": 1693353999,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 250165,
@@ -3891,6 +4091,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 247680,
+      "num": 247680,
+      "word": "视频回顾易建联国家队最后一战",
+      "onboard_time": 1693356459,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 246529,
       "num": 213872,
       "word": "全班都是班干部的班级",
@@ -3913,6 +4121,14 @@
       "onboard_time": 1693187317,
       "rank": 25,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 245227,
+      "num": 245227,
+      "word": "被这个教授的硬核科普惊到了",
+      "onboard_time": 1693357178,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 244969,
@@ -4003,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237679,
+      "num": 237679,
+      "word": "沪上阿姨回应21元饮品仅几块水果",
+      "onboard_time": 1693357775,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237511,
       "num": 237511,
       "word": "屈楚萧回应网友喊张万森下雪了",
@@ -4017,6 +4241,14 @@
       "onboard_time": 1693198599,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237212,
+      "num": 237212,
+      "word": "杨阳洋开学视频",
+      "onboard_time": 1693355921,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 237071,
@@ -4235,6 +4467,14 @@
       "category": "其它,幽默"
     },
     {
+      "raw_hot": 225460,
+      "num": 225460,
+      "word": "张杰 嗓子很忙",
+      "onboard_time": 1693354540,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224575,
       "num": 224575,
       "word": "张杰的最强站哥站姐们",
@@ -4419,12 +4659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210344,
+      "num": 210344,
+      "word": "9岁摄影师问吉克隽逸美甲扎不扎",
+      "onboard_time": 1693351888,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210296,
       "num": 210296,
       "word": "徐冬冬穿高跟鞋以一敌十",
       "onboard_time": 1693208979,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209642,
+      "num": 209642,
+      "word": "美网",
+      "onboard_time": 1693357775,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 209402,
@@ -4451,12 +4707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206823,
-      "num": 383256,
-      "word": "男孩拉门不松手被误会为熊孩子",
-      "onboard_time": 1693350986,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 207796,
+      "num": 207796,
+      "word": "偶像剧i人女主好少啊",
+      "onboard_time": 1693356099,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206789,
@@ -4745,14 +5001,6 @@
       "onboard_time": 1693197164,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196355,
-      "num": 181561,
-      "word": "9岁摄影师问吉克隽逸美甲扎不扎",
-      "onboard_time": 1693351888,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196260,
@@ -5395,14 +5643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158602,
-      "num": 158602,
-      "word": "为什么过桥米线门店越来越少",
-      "onboard_time": 1693351769,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 158270,
       "num": 158270,
       "word": "杜锋尊重易建联的决定",
@@ -5795,6 +6035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105317,
+      "num": 1962519,
+      "word": "地图一点一线都代表祖国大好山河",
+      "onboard_time": 1693313564,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104801,
       "num": 477701,
       "word": "东方甄选正在淘宝直播",
@@ -5985,14 +6233,6 @@
       "onboard_time": 1693251134,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60801,
-      "num": 1962519,
-      "word": "地图一点一线都代表祖国大好山河",
-      "onboard_time": 1693313564,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60512,
