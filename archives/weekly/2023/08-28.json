@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693366439824,
+  "endTime": 1693369203613,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1963728,
+      "num": 1265129,
+      "word": "正式确诊为胡歌",
+      "onboard_time": 1693362693,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1941751,
       "num": 371060,
       "word": "中方回应在华日本学校被砸石头和鸡蛋",
@@ -393,14 +401,6 @@
       "onboard_time": 1693297657,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1761141,
-      "num": 1265129,
-      "word": "正式确诊为胡歌",
-      "onboard_time": 1693362693,
-      "rank": 37,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1716784,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1174179,
+      "num": 1174179,
+      "word": "iPhone15",
+      "onboard_time": 1693363115,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1162747,
       "num": 1162747,
       "word": "谢娜没和张杰合照是不是得洗碗",
@@ -691,14 +699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1065143,
-      "num": 1065143,
-      "word": "iPhone15",
-      "onboard_time": 1693363115,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1059813,
       "num": 417921,
       "word": "张新成 杰哥牛逼",
@@ -747,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1003867,
+      "num": 483871,
+      "word": "海豚湾恋人童星畏罪潜逃被通缉",
+      "onboard_time": 1693366962,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1002817,
       "num": 646116,
       "word": "上海40余人吃日料后上吐下泻",
@@ -761,6 +769,14 @@
       "onboard_time": 1693296697,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 979390,
+      "num": 979390,
+      "word": "香港15平米的家是什么样的",
+      "onboard_time": 1693365875,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 968700,
@@ -784,6 +800,14 @@
       "word": "冯小刚夸虞书欣台词特别好",
       "onboard_time": 1693225596,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 939774,
+      "num": 939774,
+      "word": "腾讯爱奇艺和好了但没完全和好",
+      "onboard_time": 1693367860,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -881,6 +905,14 @@
       "onboard_time": 1693300837,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868660,
+      "num": 868660,
+      "word": "乘风2024拟邀阵容名单",
+      "onboard_time": 1693365697,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 864387,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1693321364,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 763283,
+      "num": 763283,
+      "word": "一路朝阳 李慕嘉求婚发言",
+      "onboard_time": 1693367140,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 762278,
@@ -1779,6 +1819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 526489,
+      "num": 395544,
+      "word": "Angelababy对镜眼神杀",
+      "onboard_time": 1693367563,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 525711,
       "num": 478015,
       "word": "你听过虞书欣说英语吗",
@@ -2081,14 +2129,6 @@
       "onboard_time": 1693273059,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 457356,
-      "num": 457356,
-      "word": "乘风2024拟邀阵容名单",
-      "onboard_time": 1693365697,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 456590,
@@ -2475,6 +2515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400213,
+      "num": 400213,
+      "word": "小李琳演的杜冰雁",
+      "onboard_time": 1693367140,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400192,
       "num": 297851,
       "word": "赵露思周也或将合作骄阳似我",
@@ -2715,6 +2763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369395,
+      "num": 478801,
+      "word": "48人因洪水失联的工地5人被刑拘",
+      "onboard_time": 1693366417,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368587,
       "num": 368587,
       "word": "同人女仇恨墙",
@@ -2779,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365666,
+      "num": 365666,
+      "word": "麦当劳回应顾客质疑大小杯豆浆一样多",
+      "onboard_time": 1693368399,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364215,
       "num": 255576,
       "word": "A股超5000股上涨",
@@ -2809,6 +2873,14 @@
       "onboard_time": 1693305158,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362152,
+      "num": 362152,
+      "word": "德华到处给人养孩子",
+      "onboard_time": 1693366297,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 360515,
@@ -3291,6 +3363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 321093,
+      "num": 321093,
+      "word": "于适公主抱李昀锐练台词",
+      "onboard_time": 1693367680,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320348,
       "num": 320348,
       "word": "KSG战胜AG",
@@ -3385,6 +3465,14 @@
       "onboard_time": 1693151433,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 314423,
+      "num": 1570422,
+      "word": "全力搜寻四川金阳山洪失联人员",
+      "onboard_time": 1693366238,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 312834,
@@ -4419,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240004,
+      "num": 240004,
+      "word": "90秒看易建联传奇篮球生涯",
+      "onboard_time": 1693367680,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239592,
       "num": 239592,
       "word": "赵继伟三分",
@@ -4835,12 +4931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212368,
-      "num": 212368,
-      "word": "香港15平米的家是什么样的",
-      "onboard_time": 1693365875,
+      "raw_hot": 211760,
+      "num": 211760,
+      "word": "小县城的慢节奏真的好舒服",
+      "onboard_time": 1693368819,
       "rank": 39,
-      "category": "其它"
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 211387,
@@ -4979,6 +5075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203750,
+      "num": 203750,
+      "word": "殷郊 母亲的手",
+      "onboard_time": 1693368766,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203616,
       "num": 203616,
       "word": "星穹铁道",
@@ -5073,6 +5177,14 @@
       "onboard_time": 1693358377,
       "rank": 42,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 201050,
+      "num": 201050,
+      "word": "被记忆里的考试题创到了",
+      "onboard_time": 1693368940,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 201040,
@@ -5379,14 +5491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193140,
-      "num": 193140,
-      "word": "德华到处给人养孩子",
-      "onboard_time": 1693366297,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191932,
       "num": 202816,
       "word": "东北币有它自己的汇率",
@@ -5449,6 +5553,14 @@
       "onboard_time": 1693182458,
       "rank": 40,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 189303,
+      "num": 189303,
+      "word": "吴磊比心",
+      "onboard_time": 1693367435,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 188998,
@@ -5691,14 +5803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175983,
-      "num": 175983,
-      "word": "48人因洪水失联的工地5人被刑拘",
-      "onboard_time": 1693366417,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175516,
       "num": 175516,
       "word": "和李莲花的漫长告别",
@@ -5841,6 +5945,14 @@
       "onboard_time": 1693210777,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164158,
+      "num": 164158,
+      "word": "苹果iPhone15系列价格",
+      "onboard_time": 1693369181,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 162162,
@@ -6017,6 +6129,14 @@
       "onboard_time": 1693273835,
       "rank": 46,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 150626,
+      "num": 328405,
+      "word": "星穹铁道丹恒饮月",
+      "onboard_time": 1693368219,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 150210,
@@ -6603,14 +6723,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 46425,
-      "num": 1570422,
-      "word": "全力搜寻四川金阳山洪失联人员",
-      "onboard_time": 1693366238,
-      "rank": 1,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 45371,
       "num": 1885440,
       "word": "多姿多彩多元多样是世界应有的样子",
@@ -6782,6 +6894,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#金砖扩员顺应了历史发展潮流#"
     }
   ]
 }
