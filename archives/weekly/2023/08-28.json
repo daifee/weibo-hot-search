@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693384473264,
+  "endTime": 1693386987894,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -851,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1006006,
+      "num": 312732,
+      "word": "根本没人选C",
+      "onboard_time": 1693385498,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1002817,
       "num": 646116,
       "word": "上海40余人吃日料后上吐下泻",
@@ -904,6 +912,14 @@
       "word": "妈妈不让周扬青发的微博",
       "onboard_time": 1693141480,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 929549,
+      "num": 603077,
+      "word": "王阳曾回应孙菲菲与导演的冲突",
+      "onboard_time": 1693386577,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -1308,7 +1324,7 @@
     },
     {
       "raw_hot": 730487,
-      "num": 378768,
+      "num": 596529,
       "word": "日方反咬中国洗白不了排污入海劣迹",
       "onboard_time": 1693372834,
       "rank": 21,
@@ -2019,12 +2035,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 519833,
+      "num": 402585,
+      "word": "日本涩谷新出现的SEVENTEEN净汉区",
+      "onboard_time": 1693383761,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519222,
       "num": 519222,
       "word": "一碗面把我留在了小城市",
       "onboard_time": 1693285601,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 518181,
+      "num": 518181,
+      "word": "永夜星河开机官宣",
+      "onboard_time": 1693384240,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 517024,
@@ -2523,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430551,
+      "num": 312149,
+      "word": "女子生育期间遭家暴起诉离婚被驳",
+      "onboard_time": 1693384657,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427914,
       "num": 427914,
       "word": "万和 孙颖莎",
@@ -2867,6 +2907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383643,
+      "num": 347550,
+      "word": "易建联吉克隽逸居然认识",
+      "onboard_time": 1693384298,
+      "rank": 40,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 382124,
       "num": 382124,
       "word": "华为Mate60评测",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1693147781,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379580,
+      "num": 361210,
+      "word": "Jennie参演的偶像漩涡被取消",
+      "onboard_time": 1693383579,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 379502,
@@ -2971,20 +3027,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 372259,
-      "num": 361210,
-      "word": "Jennie参演的偶像漩涡被取消",
-      "onboard_time": 1693383579,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 370992,
       "num": 292209,
       "word": "宝宝拒绝睡觉却被强制关机",
       "onboard_time": 1693233761,
       "rank": 30,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 370037,
+      "num": 309814,
+      "word": "虞书欣下车动作",
+      "onboard_time": 1693386038,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 369544,
@@ -3235,6 +3291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 349463,
+      "num": 349463,
+      "word": "过半人在急性心梗前有预警征兆",
+      "onboard_time": 1693383164,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348804,
       "num": 348804,
       "word": "SMTOWN回应洪胜汉缺席音乐节目",
@@ -3273,14 +3337,6 @@
       "onboard_time": 1693324298,
       "rank": 22,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 346317,
-      "num": 346317,
-      "word": "日本涩谷新出现的SEVENTEEN净汉区",
-      "onboard_time": 1693383761,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 345959,
@@ -3435,6 +3491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335762,
+      "num": 363485,
+      "word": "汪苏泷一开口我斜刘海就长出来了",
+      "onboard_time": 1693382678,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 335016,
       "num": 335016,
       "word": "魏大勋开始形象管理了",
@@ -3553,14 +3617,6 @@
       "onboard_time": 1693273296,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325330,
-      "num": 363485,
-      "word": "汪苏泷一开口我斜刘海就长出来了",
-      "onboard_time": 1693382678,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 324718,
@@ -3803,6 +3859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308250,
+      "num": 308250,
+      "word": "骑友大哥回应向吴磊要微信",
+      "onboard_time": 1693385257,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306344,
       "num": 306344,
       "word": "把领导心爱的花浇死了",
@@ -3865,6 +3929,14 @@
       "onboard_time": 1693223017,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302427,
+      "num": 302427,
+      "word": "小猫肚子里肯定没少装猪脚饭",
+      "onboard_time": 1693385077,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 302206,
@@ -3993,6 +4065,14 @@
       "onboard_time": 1693274677,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294735,
+      "num": 294735,
+      "word": "虞书欣适合浓妆还是淡妆",
+      "onboard_time": 1693384901,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 294582,
@@ -4787,6 +4867,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 246924,
+      "num": 205761,
+      "word": "刘琳抱八十斤孩子跑山路",
+      "onboard_time": 1693385138,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246529,
       "num": 213872,
       "word": "全班都是班干部的班级",
@@ -4867,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242673,
+      "num": 205300,
+      "word": "欧阳娜娜还没毕业吗",
+      "onboard_time": 1693385677,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242315,
       "num": 242315,
       "word": "秦皇岛卢龙县2.3级地震",
@@ -4897,14 +4993,6 @@
       "onboard_time": 1693234899,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240522,
-      "num": 240522,
-      "word": "过半人在急性心梗前有预警征兆",
-      "onboard_time": 1693383164,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240004,
@@ -5001,6 +5089,14 @@
       "onboard_time": 1693291777,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 234918,
+      "num": 234918,
+      "word": "6岁脑瘫女孩豆豆成为小学生",
+      "onboard_time": 1693385257,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234779,
@@ -5483,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205826,
+      "num": 205826,
+      "word": "孕妇街头狂奔追人交警果断出手",
+      "onboard_time": 1693383520,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205744,
       "num": 205744,
       "word": "田曦薇中式婚服造型",
@@ -5505,6 +5609,14 @@
       "onboard_time": 1693314106,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204732,
+      "num": 204732,
+      "word": "全职猎人黑白插画",
+      "onboard_time": 1693386161,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 204089,
@@ -5603,14 +5715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202189,
-      "num": 202189,
-      "word": "永夜星河开机官宣",
-      "onboard_time": 1693384240,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202082,
       "num": 202082,
       "word": "马嘉祺感谢EP制作团队",
@@ -5633,6 +5737,14 @@
       "onboard_time": 1693322679,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201498,
+      "num": 201498,
+      "word": "写简历的人一定很有趣",
+      "onboard_time": 1693383279,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 201326,
@@ -5953,14 +6065,6 @@
       "onboard_time": 1693217736,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 194576,
-      "num": 194576,
-      "word": "写简历的人一定很有趣",
-      "onboard_time": 1693383279,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 194240,
@@ -6299,14 +6403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179278,
-      "num": 179278,
-      "word": "孕妇街头狂奔追人交警果断出手",
-      "onboard_time": 1693383520,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178816,
       "num": 183614,
       "word": "我国人身安全保护令签发率提升至77.6%",
@@ -6489,14 +6585,6 @@
       "onboard_time": 1693224454,
       "rank": 42,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 167437,
-      "num": 167437,
-      "word": "易建联吉克隽逸居然认识",
-      "onboard_time": 1693384298,
-      "rank": 40,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 167249,
@@ -6843,6 +6931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137308,
+      "num": 159173,
+      "word": "粉丝画的胡歌",
+      "onboard_time": 1693385979,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136003,
       "num": 157567,
       "word": "阴阳师",
@@ -7057,6 +7153,14 @@
       "onboard_time": 1693351407,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105320,
+      "num": 608877,
+      "word": "总导演剧透杭州亚运会开幕式创意",
+      "onboard_time": 1693385798,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105317,
@@ -7505,6 +7609,9 @@
     },
     {
       "word": "#金砖扩员顺应了历史发展潮流#"
+    },
+    {
+      "word": "#习主席南非之行纪实#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1693386987894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6251533,
+        "num": 6251533,
+        "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+        "onboard_time": 1693375235,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674402,
+        "num": 674402,
+        "word": "30岁公务员辞职做短视频博主",
+        "onboard_time": 1693376562,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105320,
+        "num": 608877,
+        "word": "总导演剧透杭州亚运会开幕式创意",
+        "onboard_time": 1693385798,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929549,
+        "num": 603077,
+        "word": "王阳曾回应孙菲菲与导演的冲突",
+        "onboard_time": 1693386577,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899293,
+        "num": 601449,
+        "word": "以后吃瓜就知道谁是谁了",
+        "onboard_time": 1693374035,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596529,
+        "num": 596529,
+        "word": "日方反咬中国洗白不了排污入海劣迹",
+        "onboard_time": 1693372834,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518181,
+        "num": 518181,
+        "word": "永夜星河开机官宣",
+        "onboard_time": 1693384240,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481658,
+        "num": 481658,
+        "word": "张汉杰",
+        "onboard_time": 1693380996,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475788,
+        "num": 475788,
+        "word": "五条悟断臂",
+        "onboard_time": 1693378778,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 436746,
+        "num": 436746,
+        "word": "苹果iPhone15系列价格",
+        "onboard_time": 1693369181,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2644672,
+        "num": 418770,
+        "word": "鸟鸟 我努力到30岁还没过上好日子",
+        "onboard_time": 1693381055,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519833,
+        "num": 402585,
+        "word": "日本涩谷新出现的SEVENTEEN净汉区",
+        "onboard_time": 1693383761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499802,
+        "num": 377944,
+        "word": "周震南连发25条微博",
+        "onboard_time": 1693373738,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 491907,
+        "num": 363779,
+        "word": "教师出书称女生是早恋主要责任人",
+        "onboard_time": 1693379375,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 349463,
+        "num": 349463,
+        "word": "过半人在急性心梗前有预警征兆",
+        "onboard_time": 1693383164,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383643,
+        "num": 347550,
+        "word": "易建联吉克隽逸居然认识",
+        "onboard_time": 1693384298,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 389217,
+        "num": 344844,
+        "word": "浙江查获日本核辐射地区进口食品",
+        "onboard_time": 1693371640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339927,
+        "num": 339927,
+        "word": "那个被诊断为终生无法站立的孩子",
+        "onboard_time": 1693376316,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335762,
+        "num": 335762,
+        "word": "汪苏泷一开口我斜刘海就长出来了",
+        "onboard_time": 1693382678,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314132,
+        "num": 314132,
+        "word": "血色恋情",
+        "onboard_time": 1693382859,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014597,
+        "num": 313701,
+        "word": "中元节最大禁忌是什么",
+        "onboard_time": 1693379558,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1006006,
+        "num": 312732,
+        "word": "根本没人选C",
+        "onboard_time": 1693385498,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430551,
+        "num": 312149,
+        "word": "女子生育期间遭家暴起诉离婚被驳",
+        "onboard_time": 1693384657,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379580,
+        "num": 311142,
+        "word": "Jennie参演的偶像漩涡被取消",
+        "onboard_time": 1693383579,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370037,
+        "num": 309814,
+        "word": "虞书欣下车动作",
+        "onboard_time": 1693386038,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334886,
+        "num": 308640,
+        "word": "爱因斯坦的脑子卖了两万份",
+        "onboard_time": 1693382919,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 308250,
+        "num": 308250,
+        "word": "骑友大哥回应向吴磊要微信",
+        "onboard_time": 1693385257,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302427,
+        "num": 302427,
+        "word": "小猫肚子里肯定没少装猪脚饭",
+        "onboard_time": 1693385077,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300459,
+        "num": 300459,
+        "word": "正式确诊为胡歌",
+        "onboard_time": 1693362693,
+        "rank": 28,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 297597,
+        "num": 297597,
+        "word": "孙菲菲曾多次为霸凌事件发声",
+        "onboard_time": 1693379257,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294735,
+        "num": 294735,
+        "word": "虞书欣适合浓妆还是淡妆",
+        "onboard_time": 1693384901,
+        "rank": 30,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 290292,
+        "num": 290292,
+        "word": "关晓彤王牌对王牌",
+        "onboard_time": 1693379558,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264365,
+        "num": 264365,
+        "word": "王阳瘦回130斤",
+        "onboard_time": 1693378116,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234918,
+        "num": 234918,
+        "word": "6岁脑瘫女孩豆豆成为小学生",
+        "onboard_time": 1693385257,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205826,
+        "num": 205826,
+        "word": "孕妇街头狂奔追人交警果断出手",
+        "onboard_time": 1693383520,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246924,
+        "num": 205761,
+        "word": "刘琳抱八十斤孩子跑山路",
+        "onboard_time": 1693385138,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242673,
+        "num": 205300,
+        "word": "欧阳娜娜还没毕业吗",
+        "onboard_time": 1693385677,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204732,
+        "num": 204732,
+        "word": "全职猎人黑白插画",
+        "onboard_time": 1693386161,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201498,
+        "num": 201498,
+        "word": "写简历的人一定很有趣",
+        "onboard_time": 1693383279,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170252,
+        "num": 170252,
+        "word": "加蓬局势突变",
+        "onboard_time": 1693381540,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 203042,
+        "num": 168768,
+        "word": "田曦薇小肉手",
+        "onboard_time": 1693377276,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176754,
+        "num": 168276,
+        "word": "奥本海默",
+        "onboard_time": 1693369181,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166936,
+        "num": 166936,
+        "word": "逃出大英博物馆开播",
+        "onboard_time": 1693376015,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159191,
+        "num": 159191,
+        "word": "谁领到了第一张居民身份证",
+        "onboard_time": 1693377515,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151677,
+        "num": 159187,
+        "word": "谁会不喜欢小青龙呢",
+        "onboard_time": 1693379436,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137308,
+        "num": 159173,
+        "word": "粉丝画的胡歌",
+        "onboard_time": 1693385979,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133002,
+        "num": 159151,
+        "word": "职场无能领导的8个特征",
+        "onboard_time": 1693383099,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132376,
+        "num": 159143,
+        "word": "小红书回应旅游搭子内容涉黄",
+        "onboard_time": 1693379075,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122355,
+        "num": 159116,
+        "word": "一路朝阳 李慕嘉求婚发言",
+        "onboard_time": 1693367140,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120167,
+        "num": 159105,
+        "word": "演唱会柱子票涉嫌侵犯消费者知情权",
+        "onboard_time": 1693373494,
+        "rank": 49,
+        "category": "社会新闻,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席南非之行纪实#"
+    }
+  }
+}
