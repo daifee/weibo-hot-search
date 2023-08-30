@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693430111022,
+  "endTime": 1693431226943,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -8123,6 +8123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80513,
+      "num": 54383,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78564,
       "num": 210182,
       "word": "硬卧下铺使用权仅限购票者",
@@ -8241,14 +8249,6 @@
       "onboard_time": 1693242863,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68732,
-      "num": 50470,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 65798,

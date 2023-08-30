@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/28 00:19:35 ~ 2023/08/31 05:15:11
+本榜单时间：2023/08/28 00:19:35 ~ 2023/08/31 05:33:46
 </p>
 </blockquote>
 <p>
@@ -6105,6 +6105,12 @@ WB晋级败者组第三轮（热度：167249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%91%A9%E5%A4%A7%E4%BC%9A%E4%B8%81%E9%94%90%E8%A2%AB%E6%9B%9DPUA%E5%AD%A6%E5%91%98%23" target="weibo">
+奇葩大会丁锐被曝PUA学员（热度：80513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A1%AC%E5%8D%A7%E4%B8%8B%E9%93%BA%E4%BD%BF%E7%94%A8%E6%9D%83%E4%BB%85%E9%99%90%E8%B4%AD%E7%A5%A8%E8%80%85%23" target="weibo">
 硬卧下铺使用权仅限购票者（热度：78564）
 </a>
@@ -6191,12 +6197,6 @@ WB晋级败者组第三轮（热度：167249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B8%94%E6%B0%91%E5%BF%83%E7%81%B0%E6%84%8F%E5%86%B7%23" target="weibo">
 韩国渔民心灰意冷（热度：69211）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%91%A9%E5%A4%A7%E4%BC%9A%E4%B8%81%E9%94%90%E8%A2%AB%E6%9B%9DPUA%E5%AD%A6%E5%91%98%23" target="weibo">
-奇葩大会丁锐被曝PUA学员（热度：68732）
 </a>
 </li>
 

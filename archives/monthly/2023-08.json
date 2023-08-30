@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693430111022,
+  "endTime": 1693431226943,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -76475,6 +76475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80513,
+      "num": 54383,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80395,
       "num": 506315,
       "word": "你的每个瞬间他都小心收藏",
@@ -77073,14 +77081,6 @@
       "onboard_time": 1692277238,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68732,
-      "num": 50470,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 68209,
