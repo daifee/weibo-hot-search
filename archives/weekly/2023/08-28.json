@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693434827632,
+  "endTime": 1693437389016,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929501,
+      "num": 929501,
+      "word": "行政处罚书还原孙菲菲被打事件",
+      "onboard_time": 1693401401,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 925048,
       "num": 925048,
       "word": "女生高考结束当天车祸身亡肇事者发声",
@@ -1449,14 +1457,6 @@
       "onboard_time": 1693283500,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761734,
-      "num": 761734,
-      "word": "行政处罚书还原孙菲菲被打事件",
-      "onboard_time": 1693401401,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 758924,
@@ -2227,6 +2227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 536129,
+      "num": 536129,
+      "word": "12306回应硬卧下铺别人能不能坐",
+      "onboard_time": 1693390835,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535071,
       "num": 535071,
       "word": "白敬亭赢了比赛输了形象",
@@ -2665,14 +2673,6 @@
       "onboard_time": 1693273059,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 457182,
-      "num": 421048,
-      "word": "12306回应硬卧下铺别人能不能坐",
-      "onboard_time": 1693390835,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456590,
@@ -6059,6 +6059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218703,
+      "num": 218703,
+      "word": "孙菲菲助理回忆现场情况",
+      "onboard_time": 1693436967,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218574,
       "num": 218574,
       "word": "萝莉街头乱停车被阻单挑十余人",
@@ -6249,6 +6257,14 @@
       "onboard_time": 1693356099,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207723,
+      "num": 207723,
+      "word": "奇葩大会丁锐被曝PUA学员",
+      "onboard_time": 1693425196,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 207535,
@@ -7539,14 +7555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157051,
-      "num": 157051,
-      "word": "奇葩大会丁锐被曝PUA学员",
-      "onboard_time": 1693425196,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156504,
       "num": 156504,
       "word": "美拉德穿搭",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1693126232,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148467,
+      "num": 148467,
+      "word": "美国商务部长称希望美企在华投资",
+      "onboard_time": 1693436424,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 146965,
@@ -7827,6 +7843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132399,
+      "num": 132399,
+      "word": "下半年成都演唱会扎堆了",
+      "onboard_time": 1693427353,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132344,
       "num": 160462,
       "word": "帅哥不想当男爱豆的理由",
@@ -7937,6 +7961,22 @@
       "onboard_time": 1693177644,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119302,
+      "num": 119302,
+      "word": "这么大个柜子只住两个人",
+      "onboard_time": 1693416802,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 118887,
+      "num": 118887,
+      "word": "没人能空着肚子离开重庆夜市",
+      "onboard_time": 1693420275,
+      "rank": 45,
+      "category": "旅游,美食"
     },
     {
       "raw_hot": 117675,
@@ -8067,6 +8107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101529,
+      "num": 101529,
+      "word": "这是中国男篮的真实实力吗",
+      "onboard_time": 1693419976,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100684,
       "num": 100684,
       "word": "长沙医学院回应还在施工就开学",
@@ -8115,6 +8163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91298,
+      "num": 91298,
+      "word": "为什么这些生活技巧我都不会",
+      "onboard_time": 1693415962,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 85287,
       "num": 2027682,
       "word": "医生给出开学健康锦囊",
@@ -8153,6 +8209,14 @@
       "onboard_time": 1693400437,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76539,
+      "num": 76539,
+      "word": "这和躺在吴磊怀里有什么区别",
+      "onboard_time": 1693433236,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 75744,
@@ -8235,6 +8299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70294,
+      "num": 76313,
+      "word": "拒绝让自己变成父母那样",
+      "onboard_time": 1693423817,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70080,
+      "num": 76290,
+      "word": "用两个字形容你现在的工作",
+      "onboard_time": 1693437085,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 69706,
       "num": 393103,
       "word": "小伙视力残疾用放大镜学习考上大学",
@@ -8259,12 +8339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65187,
-      "num": 60858,
-      "word": "这么大个柜子只住两个人",
-      "onboard_time": 1693416802,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 65002,
+      "num": 76257,
+      "word": "欧阳娜娜开学了",
+      "onboard_time": 1693424175,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 64912,
@@ -8299,30 +8379,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 59221,
-      "num": 59221,
-      "word": "这和躺在吴磊怀里有什么区别",
-      "onboard_time": 1693433236,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 58997,
-      "num": 58997,
-      "word": "没人能空着肚子离开重庆夜市",
-      "onboard_time": 1693420275,
-      "rank": 45,
-      "category": "旅游,美食"
-    },
-    {
-      "raw_hot": 57672,
-      "num": 57672,
-      "word": "为什么这些生活技巧我都不会",
-      "onboard_time": 1693415962,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
       "raw_hot": 55487,
       "num": 55487,
       "word": "宋妍霏冷艳小白花",
@@ -8331,20 +8387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55005,
-      "num": 55005,
-      "word": "这是中国男篮的真实实力吗",
-      "onboard_time": 1693419976,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 53278,
-      "num": 50791,
-      "word": "欧阳娜娜开学了",
-      "onboard_time": 1693424175,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 53809,
+      "num": 644816,
+      "word": "开学季第一张自拍",
+      "onboard_time": 1693399539,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51902,
@@ -8411,14 +8459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44021,
-      "num": 44021,
-      "word": "下半年成都演唱会扎堆了",
-      "onboard_time": 1693427353,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 43560,
       "num": 392627,
       "word": "神十六航天员乘组收拾整理太空之家",
@@ -8457,22 +8497,6 @@
       "onboard_time": 1693160837,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37933,
-      "num": 568575,
-      "word": "开学季第一张自拍",
-      "onboard_time": 1693399539,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34987,
-      "num": 34987,
-      "word": "拒绝让自己变成父母那样",
-      "onboard_time": 1693423817,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 34911,
