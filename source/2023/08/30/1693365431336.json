@@ -1,0 +1,410 @@
+{
+  "runTime": 1693365431336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2196681,
+        "num": 2196681,
+        "word": "小红书旅游搭子被指涉黄",
+        "onboard_time": 1693362095,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289077,
+        "num": 1289077,
+        "word": "中元节",
+        "onboard_time": 1693350204,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28831,
+        "num": 1267598,
+        "word": "如何规范使用地图",
+        "onboard_time": 1693364914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1451204,
+        "num": 1265129,
+        "word": "正式确诊为胡歌",
+        "onboard_time": 1693362693,
+        "rank": 3,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1262133,
+        "num": 1262133,
+        "word": "魏大勋 欧莱雅",
+        "onboard_time": 1693362393,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038563,
+        "num": 1038563,
+        "word": "韩媒曝成龙金喜善合作神话2",
+        "onboard_time": 1693358438,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1034171,
+        "num": 1034171,
+        "word": "iPhone15",
+        "onboard_time": 1693363115,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 688827,
+        "num": 688827,
+        "word": "广州认房不认贷",
+        "onboard_time": 1693362936,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 583671,
+        "num": 583671,
+        "word": "沪上阿姨回应21元饮品仅几块水果",
+        "onboard_time": 1693357775,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548868,
+        "num": 548868,
+        "word": "四川金阳洪灾4人遇难48人失联",
+        "onboard_time": 1693361797,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1859335,
+        "num": 546273,
+        "word": "日政客妄言中国游客入境先吃福岛海产",
+        "onboard_time": 1693359037,
+        "rank": 10,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1081349,
+        "num": 541810,
+        "word": "向佐女装拍杂志吓到儿子了",
+        "onboard_time": 1693357297,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 764754,
+        "num": 532270,
+        "word": "华为Mate60Pro体验",
+        "onboard_time": 1693360359,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371210,
+        "num": 530885,
+        "word": "两个台风来了",
+        "onboard_time": 1693359276,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77602,
+        "num": 524819,
+        "word": "吴易昺今年大满贯首胜",
+        "onboard_time": 1693364438,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518995,
+        "num": 518995,
+        "word": "服务员 怎么这个房间唱歌一直放原唱",
+        "onboard_time": 1693352912,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428477,
+        "num": 428477,
+        "word": "大腿粗居然有这么多好处",
+        "onboard_time": 1693353096,
+        "rank": 16,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 74690,
+        "num": 388917,
+        "word": "二次元的商战方式",
+        "onboard_time": 1693364138,
+        "rank": 17,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 382668,
+        "num": 382668,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 378161,
+        "num": 378161,
+        "word": "新疆女生收到西安网友免费寄的特产",
+        "onboard_time": 1693363717,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394890,
+        "num": 374137,
+        "word": "徐志胜 那是他们能给你的全部了",
+        "onboard_time": 1693356938,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367803,
+        "num": 367803,
+        "word": "易建联退役",
+        "onboard_time": 1693325734,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367339,
+        "num": 367339,
+        "word": "张艺兴回复李荣浩尊嘟假嘟",
+        "onboard_time": 1693360960,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336972,
+        "num": 336972,
+        "word": "张晚意新剧复读考了理科第一",
+        "onboard_time": 1693364198,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335638,
+        "num": 335638,
+        "word": "长相思第二季什么时候来",
+        "onboard_time": 1693358497,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318626,
+        "num": 318626,
+        "word": "浙江一地生育三孩补贴最高可领4.6万",
+        "onboard_time": 1693363296,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 312349,
+        "num": 312349,
+        "word": "kpop能称得上帅的都在这里了",
+        "onboard_time": 1693356519,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300990,
+        "num": 300990,
+        "word": "广东队将为易建联举办退役仪式",
+        "onboard_time": 1693356399,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295576,
+        "num": 295576,
+        "word": "华为转让多个姚安娜商标",
+        "onboard_time": 1693352972,
+        "rank": 28,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 287537,
+        "num": 287537,
+        "word": "中南财大通报教师擅自离境失去联系",
+        "onboard_time": 1693359395,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 19611,
+        "num": 286302,
+        "word": "把星辰的声音谱成音乐有多美",
+        "onboard_time": 1693365097,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285398,
+        "num": 285398,
+        "word": "李湘的履历",
+        "onboard_time": 1693317764,
+        "rank": 31,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 262565,
+        "num": 262565,
+        "word": "永远的中国队长",
+        "onboard_time": 1693352733,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253890,
+        "num": 253890,
+        "word": "于适狼尾发型错位图",
+        "onboard_time": 1693363418,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252364,
+        "num": 252364,
+        "word": "骄阳伴我太阳雨大片",
+        "onboard_time": 1693362936,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247622,
+        "num": 247622,
+        "word": "中元节曾是热闹的狂欢日",
+        "onboard_time": 1693356938,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243902,
+        "num": 243902,
+        "word": "最灿烂的我们今日开播",
+        "onboard_time": 1693363362,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242613,
+        "num": 242613,
+        "word": "路人拍的景甜",
+        "onboard_time": 1693356280,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230604,
+        "num": 230604,
+        "word": "1岁小奶娃走丢遇上手忙脚乱的警察叔叔",
+        "onboard_time": 1693359875,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 225950,
+        "num": 225950,
+        "word": "新版杜冰雁选角",
+        "onboard_time": 1693356221,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216700,
+        "num": 216700,
+        "word": "俄罗斯16岁花滑运动员戈尔巴乔娃失踪",
+        "onboard_time": 1693352131,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 214531,
+        "num": 214531,
+        "word": "原来法令纹和脾胃有关",
+        "onboard_time": 1693353759,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201532,
+        "num": 201532,
+        "word": "披荆斩棘时尚先生一公海报",
+        "onboard_time": 1693364735,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200905,
+        "num": 200905,
+        "word": "崔茂虎被双开",
+        "onboard_time": 1693364560,
+        "rank": 43,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 194813,
+        "num": 194813,
+        "word": "要多和大便通畅的人接吻",
+        "onboard_time": 1693350204,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "相柳版与妻书",
+        "onboard_time": 1693353214,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186420,
+        "num": 186420,
+        "word": "七时吉祥今日收官",
+        "onboard_time": 1693363717,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170285,
+        "num": 170285,
+        "word": "邓为新剧的人设",
+        "onboard_time": 1693354479,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146155,
+        "num": 146155,
+        "word": "被辞退你能拿到多少钱",
+        "onboard_time": 1693358377,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140880,
+        "num": 140880,
+        "word": "张杰粉丝图书馆30秒文学",
+        "onboard_time": 1693365397,
+        "rank": 49,
+        "category": "幽默,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市建设必须把让人民宜居安居放在首位#"
+    }
+  }
+}

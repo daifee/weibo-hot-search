@@ -1,6 +1,6 @@
 {
   "startTime": 1693326104876,
-  "endTime": 1693362843353,
+  "endTime": 1693365431336,
   "band_list": [
     {
       "raw_hot": 4848988,
@@ -51,20 +51,28 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 2196681,
+      "num": 2196681,
+      "word": "小红书旅游搭子被指涉黄",
+      "onboard_time": 1693362095,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1859335,
+      "num": 582243,
+      "word": "日政客妄言中国游客入境先吃福岛海产",
+      "onboard_time": 1693359037,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1845073,
       "num": 1845073,
       "word": "大腿粗居然有这么多好处",
       "onboard_time": 1693353096,
       "rank": 3,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 1645186,
-      "num": 582243,
-      "word": "日政客妄言中国游客入境先吃福岛海产",
-      "onboard_time": 1693359037,
-      "rank": 11,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1634613,
@@ -83,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1451204,
+      "num": 1265129,
+      "word": "正式确诊为胡歌",
+      "onboard_time": 1693362693,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1363210,
       "num": 1363210,
       "word": "服务员 怎么这个房间唱歌一直放原唱",
@@ -97,6 +113,14 @@
       "onboard_time": 1693357775,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1262133,
+      "num": 1262133,
+      "word": "魏大勋 欧莱雅",
+      "onboard_time": 1693362393,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1192851,
@@ -129,6 +153,14 @@
       "onboard_time": 1693309236,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1034171,
+      "num": 1034171,
+      "word": "iPhone15",
+      "onboard_time": 1693363115,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 1032490,
@@ -187,20 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 709617,
-      "num": 709617,
-      "word": "魏大勋 欧莱雅",
-      "onboard_time": 1693362393,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 691882,
       "num": 691882,
       "word": "鲁山县通报花700多万建牛郎织女雕塑",
       "onboard_time": 1693329085,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688827,
+      "num": 688827,
+      "word": "广州认房不认贷",
+      "onboard_time": 1693362936,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 682555,
@@ -275,11 +307,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 525618,
-      "num": 525618,
-      "word": "小红书旅游搭子被指涉黄",
-      "onboard_time": 1693362095,
-      "rank": 12,
+      "raw_hot": 548868,
+      "num": 548868,
+      "word": "四川金阳洪灾4人遇难48人失联",
+      "onboard_time": 1693361797,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -387,14 +419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 411852,
-      "num": 411852,
-      "word": "四川金阳洪灾4人遇难48人失联",
-      "onboard_time": 1693361797,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408613,
       "num": 398461,
       "word": "苹果15",
@@ -427,6 +451,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 378161,
+      "num": 378161,
+      "word": "新疆女生收到西安网友免费寄的特产",
+      "onboard_time": 1693363717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374094,
       "num": 374094,
       "word": "1岁小奶娃走丢遇上手忙脚乱的警察叔叔",
@@ -435,8 +467,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 366991,
-      "num": 366991,
+      "raw_hot": 367339,
+      "num": 367339,
       "word": "张艺兴回复李荣浩尊嘟假嘟",
       "onboard_time": 1693360960,
       "rank": 46,
@@ -491,6 +523,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 336972,
+      "num": 336972,
+      "word": "张晚意新剧复读考了理科第一",
+      "onboard_time": 1693364198,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334551,
       "num": 334551,
       "word": "华为Mate60",
@@ -521,6 +561,14 @@
       "onboard_time": 1693354479,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318626,
+      "num": 318626,
+      "word": "浙江一地生育三孩补贴最高可领4.6万",
+      "onboard_time": 1693363296,
+      "rank": 25,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 301862,
@@ -579,6 +627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253890,
+      "num": 253890,
+      "word": "于适狼尾发型错位图",
+      "onboard_time": 1693363418,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252364,
+      "num": 252364,
+      "word": "骄阳伴我太阳雨大片",
+      "onboard_time": 1693362936,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252205,
       "num": 252205,
       "word": "女子互换特产收获一只腊猪蹄",
@@ -609,6 +673,14 @@
       "onboard_time": 1693357178,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243902,
+      "num": 243902,
+      "word": "最灿烂的我们今日开播",
+      "onboard_time": 1693363362,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 237212,
@@ -699,12 +771,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201532,
+      "num": 201532,
+      "word": "披荆斩棘时尚先生一公海报",
+      "onboard_time": 1693364735,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201326,
       "num": 201326,
       "word": "黄铉辰参与戳爷新歌",
       "onboard_time": 1693358377,
       "rank": 42,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 200905,
+      "num": 200905,
+      "word": "崔茂虎被双开",
+      "onboard_time": 1693364560,
+      "rank": 43,
+      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 200622,
@@ -721,14 +809,6 @@
       "onboard_time": 1693358560,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197161,
-      "num": 197161,
-      "word": "正式确诊为胡歌",
-      "onboard_time": 1693362693,
-      "rank": 37,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 190533,
@@ -761,6 +841,14 @@
       "onboard_time": 1693321003,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 186420,
+      "num": 186420,
+      "word": "七时吉祥今日收官",
+      "onboard_time": 1693363717,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 186265,
@@ -907,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140880,
+      "num": 140880,
+      "word": "张杰粉丝图书馆30秒文学",
+      "onboard_time": 1693365397,
+      "rank": 49,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 138257,
       "num": 469002,
       "word": "丰田日本全部14座工厂将停产",
@@ -963,12 +1059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77602,
+      "num": 524819,
+      "word": "吴易昺今年大满贯首胜",
+      "onboard_time": 1693364438,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77187,
       "num": 77187,
       "word": "70岁奶奶暑假带2孙子一起看书",
       "onboard_time": 1693346175,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 74690,
+      "num": 388917,
+      "word": "二次元的商战方式",
+      "onboard_time": 1693364138,
+      "rank": 17,
+      "category": "动漫,幽默"
     },
     {
       "raw_hot": 71120,
@@ -1035,6 +1147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 28831,
+      "num": 1267598,
+      "word": "如何规范使用地图",
+      "onboard_time": 1693364914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28341,
       "num": 28341,
       "word": "想被爱是可以主动表达的",
@@ -1049,6 +1169,14 @@
       "onboard_time": 1693339035,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 19611,
+      "num": 286302,
+      "word": "把星辰的声音谱成音乐有多美",
+      "onboard_time": 1693365097,
+      "rank": 30,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
