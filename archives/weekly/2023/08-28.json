@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693369203613,
+  "endTime": 1693370027174,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272974,
+      "num": 1272974,
+      "word": "腾讯爱奇艺和好了但没完全和好",
+      "onboard_time": 1693367860,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1262346,
       "num": 1262346,
       "word": "王鹤棣田曦薇搂腰吻戏",
@@ -611,20 +619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1190420,
+      "num": 1190420,
+      "word": "iPhone15",
+      "onboard_time": 1693363115,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1189162,
       "num": 500499,
       "word": "李湘否认在伦敦有房产",
       "onboard_time": 1693295016,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1174179,
-      "num": 1174179,
-      "word": "iPhone15",
-      "onboard_time": 1693363115,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 1162747,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132997,
+      "num": 1132997,
+      "word": "海豚湾恋人童星畏罪潜逃被通缉",
+      "onboard_time": 1693366962,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1129483,
       "num": 1129483,
       "word": "俄罗斯16岁花滑运动员戈尔巴乔娃失踪",
@@ -665,6 +681,14 @@
       "onboard_time": 1693291656,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1101468,
+      "num": 1101468,
+      "word": "香港15平米的家是什么样的",
+      "onboard_time": 1693365875,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 1097542,
@@ -747,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1003867,
-      "num": 483871,
-      "word": "海豚湾恋人童星畏罪潜逃被通缉",
-      "onboard_time": 1693366962,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1002817,
       "num": 646116,
       "word": "上海40余人吃日料后上吐下泻",
@@ -769,14 +785,6 @@
       "onboard_time": 1693296697,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 979390,
-      "num": 979390,
-      "word": "香港15平米的家是什么样的",
-      "onboard_time": 1693365875,
-      "rank": 39,
-      "category": "其它"
     },
     {
       "raw_hot": 968700,
@@ -800,14 +808,6 @@
       "word": "冯小刚夸虞书欣台词特别好",
       "onboard_time": 1693225596,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 939774,
-      "num": 939774,
-      "word": "腾讯爱奇艺和好了但没完全和好",
-      "onboard_time": 1693367860,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806011,
+      "num": 806011,
+      "word": "一路朝阳 李慕嘉求婚发言",
+      "onboard_time": 1693367140,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 805303,
       "num": 631545,
       "word": "林俊杰去了hybe总部",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1693321364,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 763283,
-      "num": 763283,
-      "word": "一路朝阳 李慕嘉求婚发言",
-      "onboard_time": 1693367140,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 762278,
@@ -1707,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555678,
+      "num": 555678,
+      "word": "麦当劳回应顾客质疑大小杯豆浆一样多",
+      "onboard_time": 1693368399,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555668,
       "num": 555668,
       "word": "易烊千玺实体专",
@@ -1820,7 +1828,7 @@
     },
     {
       "raw_hot": 526489,
-      "num": 395544,
+      "num": 420354,
       "word": "Angelababy对镜眼神杀",
       "onboard_time": 1693367563,
       "rank": 20,
@@ -2283,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436031,
+      "num": 436031,
+      "word": "殷郊 母亲的手",
+      "onboard_time": 1693368766,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 435618,
       "num": 435618,
       "word": "封神 雪龙驹出差报告",
@@ -2313,6 +2329,14 @@
       "onboard_time": 1693265067,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428176,
+      "num": 317545,
+      "word": "苹果iPhone15系列价格",
+      "onboard_time": 1693369181,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 427914,
@@ -2764,7 +2788,7 @@
     },
     {
       "raw_hot": 369395,
-      "num": 478801,
+      "num": 565028,
       "word": "48人因洪水失联的工地5人被刑拘",
       "onboard_time": 1693366417,
       "rank": 48,
@@ -2833,14 +2857,6 @@
       "onboard_time": 1693281036,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365666,
-      "num": 365666,
-      "word": "麦当劳回应顾客质疑大小杯豆浆一样多",
-      "onboard_time": 1693368399,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364215,
@@ -3049,6 +3065,14 @@
       "onboard_time": 1693190556,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344433,
+      "num": 344433,
+      "word": "小县城的慢节奏真的好舒服",
+      "onboard_time": 1693368819,
+      "rank": 39,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 343505,
@@ -4907,6 +4931,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 216141,
+      "num": 216141,
+      "word": "天津掰掰跳水",
+      "onboard_time": 1693369421,
+      "rank": 41,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 213821,
       "num": 200399,
       "word": "孙阳为粉丝串手串",
@@ -4929,14 +4961,6 @@
       "onboard_time": 1693321662,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211760,
-      "num": 211760,
-      "word": "小县城的慢节奏真的好舒服",
-      "onboard_time": 1693368819,
-      "rank": 39,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 211387,
@@ -4969,6 +4993,14 @@
       "onboard_time": 1693316261,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211014,
+      "num": 211014,
+      "word": "张真源王牌对王牌路透",
+      "onboard_time": 1693369965,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 210674,
@@ -5059,6 +5091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204211,
+      "num": 204211,
+      "word": "原来珍珠是这样形成的",
+      "onboard_time": 1693369300,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204089,
       "num": 204089,
       "word": "范丞丞有点过于显眼了",
@@ -5073,14 +5113,6 @@
       "onboard_time": 1693229197,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203750,
-      "num": 203750,
-      "word": "殷郊 母亲的手",
-      "onboard_time": 1693368766,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203616,
@@ -5313,6 +5345,14 @@
       "onboard_time": 1693276775,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197983,
+      "num": 197983,
+      "word": "郑云龙三贵情史",
+      "onboard_time": 1693369540,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 197900,
@@ -5947,14 +5987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164158,
-      "num": 164158,
-      "word": "苹果iPhone15系列价格",
-      "onboard_time": 1693369181,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 162162,
       "num": 162162,
       "word": "这种狗我一般会目送200米",
@@ -6132,7 +6164,7 @@
     },
     {
       "raw_hot": 150626,
-      "num": 328405,
+      "num": 596525,
       "word": "星穹铁道丹恒饮月",
       "onboard_time": 1693368219,
       "rank": 26,
