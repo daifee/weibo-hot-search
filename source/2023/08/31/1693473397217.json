@@ -1,0 +1,410 @@
+{
+  "runTime": 1693473397217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3170332,
+        "num": 3170332,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2142799,
+        "num": 2142799,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90372,
+        "num": 1798833,
+        "word": "这些重要新规9月起施行",
+        "onboard_time": 1693447537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2445919,
+        "num": 1707575,
+        "word": "税务专管员回应宋祖儿被举报偷逃税",
+        "onboard_time": 1693463439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1575717,
+        "num": 1575717,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794818,
+        "num": 794818,
+        "word": "女儿问妈妈为什么要多花钱",
+        "onboard_time": 1693468302,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 545804,
+        "num": 545804,
+        "word": "90后小伙中6835万大奖没告诉妻子",
+        "onboard_time": 1693453907,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503845,
+        "num": 503845,
+        "word": "张远怎么说服张栋梁徐良的",
+        "onboard_time": 1693468479,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480907,
+        "num": 480907,
+        "word": "中国男篮vs安哥拉男篮",
+        "onboard_time": 1693469922,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466244,
+        "num": 466244,
+        "word": "张晚意收到苦瓜花束",
+        "onboard_time": 1693471601,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1489903,
+        "num": 466132,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765849,
+        "num": 465667,
+        "word": "田曦薇横店奶茶大客户",
+        "onboard_time": 1693465965,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316664,
+        "num": 465408,
+        "word": "深圳机场明日12时起航班暂停",
+        "onboard_time": 1693472202,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155170,
+        "num": 464722,
+        "word": "平顶山就牛郎织女雕塑成立调查组",
+        "onboard_time": 1693464100,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43031,
+        "num": 464495,
+        "word": "昏迷前几秒他稳稳刹车救下52名乘客",
+        "onboard_time": 1693472438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729144,
+        "num": 464020,
+        "word": "税务总局称会对宋祖儿开展税务稽查",
+        "onboard_time": 1693473159,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463917,
+        "num": 463917,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450986,
+        "num": 450986,
+        "word": "起猛了在重庆看到百鬼夜行了",
+        "onboard_time": 1693471837,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422828,
+        "num": 422828,
+        "word": "周琦掉球",
+        "onboard_time": 1693470937,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385094,
+        "num": 385094,
+        "word": "北漂女生爆改奶油风房东免一年租金",
+        "onboard_time": 1693461701,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 650497,
+        "num": 378267,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 636365,
+        "num": 375930,
+        "word": "腾讯爱奇艺卷起来了",
+        "onboard_time": 1693471362,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572704,
+        "num": 375712,
+        "word": "妻子出轨被抓现行称其为了报复丈夫",
+        "onboard_time": 1693465300,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357713,
+        "num": 357713,
+        "word": "角丽谯来了全娶了",
+        "onboard_time": 1693471119,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426026,
+        "num": 356361,
+        "word": "离职前一定要清理电脑",
+        "onboard_time": 1693468239,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351342,
+        "num": 351342,
+        "word": "公交车连续2年为她多等一分钟",
+        "onboard_time": 1693462180,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335280,
+        "num": 335280,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332515,
+        "num": 332515,
+        "word": "这是李玉湖吗",
+        "onboard_time": 1693470343,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323468,
+        "num": 323468,
+        "word": "赵露思手拿玫瑰花气球",
+        "onboard_time": 1693467221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312486,
+        "num": 312486,
+        "word": "杭州有人冒雨赶在利率下调前存1000多万",
+        "onboard_time": 1693468002,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 323184,
+        "num": 310408,
+        "word": "男朋友叠的被子",
+        "onboard_time": 1693471964,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 305818,
+        "num": 305818,
+        "word": "你公积金每月大概有多少",
+        "onboard_time": 1693449455,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 300834,
+        "num": 300834,
+        "word": "唐艺昕男友视角",
+        "onboard_time": 1693467401,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297151,
+        "num": 297151,
+        "word": "胡金秋好用",
+        "onboard_time": 1693472560,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274789,
+        "num": 274789,
+        "word": "在床底发现已逝小狗三年前的脚印",
+        "onboard_time": 1693462900,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254973,
+        "num": 254973,
+        "word": "敖瑞鹏 这是微博吗",
+        "onboard_time": 1693469321,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242944,
+        "num": 242944,
+        "word": "原来方便面还能这么吃",
+        "onboard_time": 1693470400,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224944,
+        "num": 224944,
+        "word": "趁着开学我好像离了个婚",
+        "onboard_time": 1693461581,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 224760,
+        "num": 224760,
+        "word": "女生每天只吃15元省下的全买书",
+        "onboard_time": 1693448852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215228,
+        "num": 215228,
+        "word": "张俪演的李木子",
+        "onboard_time": 1693455170,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213137,
+        "num": 213137,
+        "word": "大的已经被公司三千一月买走了",
+        "onboard_time": 1693444657,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205683,
+        "num": 205683,
+        "word": "李奕臻因为淄博烧烤注意到边天扬",
+        "onboard_time": 1693472740,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200969,
+        "num": 200969,
+        "word": "深圳台风",
+        "onboard_time": 1693467941,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190603,
+        "num": 190603,
+        "word": "俄民众建议日本人移居俄罗斯",
+        "onboard_time": 1693455532,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178364,
+        "num": 178364,
+        "word": "下辈子换我当李湘",
+        "onboard_time": 1693467522,
+        "rank": 44,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 168925,
+        "num": 168925,
+        "word": "A股",
+        "onboard_time": 1693462602,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168551,
+        "num": 168551,
+        "word": "在中医院喝到了中药奶茶",
+        "onboard_time": 1693473339,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162098,
+        "num": 162098,
+        "word": "杨洋宋焰暑期档最热都市剧角色",
+        "onboard_time": 1693457390,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160466,
+        "num": 160466,
+        "word": "网飞海贼王真人版",
+        "onboard_time": 1693467879,
+        "rank": 48,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 158467,
+        "num": 158467,
+        "word": "冯巩形容吃饭吧唧嘴的方式",
+        "onboard_time": 1693466563,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}
