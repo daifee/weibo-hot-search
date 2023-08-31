@@ -1,0 +1,410 @@
+{
+  "runTime": 1693478075525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2652181,
+        "num": 2652181,
+        "word": "税务总局称会对宋祖儿开展税务稽查",
+        "onboard_time": 1693473159,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390950,
+        "num": 2194199,
+        "word": "山东女子学院女性学专业首迎男同学",
+        "onboard_time": 1693466323,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 39975,
+        "num": 2008322,
+        "word": "这些重要新规9月起施行",
+        "onboard_time": 1693447537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1871513,
+        "num": 1871513,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352665,
+        "num": 1797639,
+        "word": "公交车连续2年为她多等一分钟",
+        "onboard_time": 1693462180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1767604,
+        "num": 1767604,
+        "word": "中国男篮首胜",
+        "onboard_time": 1693476819,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107730,
+        "num": 1642952,
+        "word": "广东全力防御台风苏拉",
+        "onboard_time": 1693477178,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606371,
+        "num": 1606371,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1434278,
+        "num": 1434278,
+        "word": "在中医院喝到了中药奶茶",
+        "onboard_time": 1693473339,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1155935,
+        "num": 1155935,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1709172,
+        "num": 1143217,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998228,
+        "num": 998228,
+        "word": "男子钓中1条鲅鱼身上卡着金镯子",
+        "onboard_time": 1693475381,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540676,
+        "num": 922654,
+        "word": "个税专项附加扣除标准最新调整",
+        "onboard_time": 1693474001,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 491508,
+        "num": 888159,
+        "word": "江歌妈妈诉网暴者案二审维持原判",
+        "onboard_time": 1693473584,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60582,
+        "num": 859605,
+        "word": "25岁退伍军人跳海救轻生女",
+        "onboard_time": 1693476102,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858404,
+        "num": 858404,
+        "word": "税务专管员回应宋祖儿被举报偷逃税",
+        "onboard_time": 1693463439,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703431,
+        "num": 703431,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596679,
+        "num": 596679,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 732456,
+        "num": 555368,
+        "word": "偷税和漏税有何区别",
+        "onboard_time": 1693473459,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 447366,
+        "num": 447366,
+        "word": "腾讯爱奇艺卷起来了",
+        "onboard_time": 1693471362,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425920,
+        "num": 425920,
+        "word": "马丽对赵露思说做自己就好",
+        "onboard_time": 1693475741,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403761,
+        "num": 403761,
+        "word": "中国男篮vs安哥拉男篮",
+        "onboard_time": 1693469922,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401862,
+        "num": 401862,
+        "word": "胡金秋20分",
+        "onboard_time": 1693477119,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394705,
+        "num": 394705,
+        "word": "五月天西安抢票",
+        "onboard_time": 1693476519,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 377229,
+        "num": 377229,
+        "word": "田曦薇横店奶茶大客户",
+        "onboard_time": 1693465965,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362720,
+        "num": 362720,
+        "word": "国防部辟谣093核潜艇在台海发生意外",
+        "onboard_time": 1693474180,
+        "rank": 25,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 359906,
+        "num": 359906,
+        "word": "王哲林没上场",
+        "onboard_time": 1693477539,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346489,
+        "num": 346489,
+        "word": "胡金秋好用",
+        "onboard_time": 1693472560,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318919,
+        "num": 318919,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307311,
+        "num": 307311,
+        "word": "檀健次科目一舞台",
+        "onboard_time": 1693477119,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295918,
+        "num": 295918,
+        "word": "女生每天只吃15元省下的全买书",
+        "onboard_time": 1693448852,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281322,
+        "num": 281322,
+        "word": "拿到第一个月工资时",
+        "onboard_time": 1693476459,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 280344,
+        "num": 280344,
+        "word": "莲花楼后劲真的好强",
+        "onboard_time": 1693476760,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260462,
+        "num": 260462,
+        "word": "在床底发现已逝小狗三年前的脚印",
+        "onboard_time": 1693462900,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245511,
+        "num": 245511,
+        "word": "易梦玲穿旗袍跳舞",
+        "onboard_time": 1693473584,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239539,
+        "num": 239539,
+        "word": "起猛了在重庆看到百鬼夜行了",
+        "onboard_time": 1693471837,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227095,
+        "num": 227095,
+        "word": "张晚意收到苦瓜花束",
+        "onboard_time": 1693471601,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221521,
+        "num": 221521,
+        "word": "女儿问妈妈为什么要多花钱",
+        "onboard_time": 1693468302,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212724,
+        "num": 212724,
+        "word": "妻子出轨被抓现行称其为了报复丈夫",
+        "onboard_time": 1693465300,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206549,
+        "num": 206549,
+        "word": "王鹤棣剑舞",
+        "onboard_time": 1693475623,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204425,
+        "num": 204425,
+        "word": "张远怎么说服张栋梁徐良的",
+        "onboard_time": 1693468479,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202974,
+        "num": 202974,
+        "word": "角丽谯来了全娶了",
+        "onboard_time": 1693471119,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199427,
+        "num": 199427,
+        "word": "李凯尔仅休息1分55秒",
+        "onboard_time": 1693477898,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197846,
+        "num": 197846,
+        "word": "逃出大英博物馆第二集开播",
+        "onboard_time": 1693477299,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194384,
+        "num": 194384,
+        "word": "热门待播剧你最期待哪部",
+        "onboard_time": 1693477419,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191173,
+        "num": 191173,
+        "word": "张俪演的李木子",
+        "onboard_time": 1693455170,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187782,
+        "num": 187782,
+        "word": "趁着开学我好像离了个婚",
+        "onboard_time": 1693461581,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 182072,
+        "num": 182072,
+        "word": "90后小伙中6835万大奖没告诉妻子",
+        "onboard_time": 1693453907,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175465,
+        "num": 175465,
+        "word": "张远这两天的嘴角比AK还难压",
+        "onboard_time": 1693477236,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163767,
+        "num": 163767,
+        "word": "这是李玉湖吗",
+        "onboard_time": 1693470343,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对四川凉山州金阳县山洪灾害作出重要指示#"
+    }
+  }
+}
