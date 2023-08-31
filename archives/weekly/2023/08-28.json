@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693496058600,
+  "endTime": 1693498916770,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -336,6 +336,14 @@
       "word": "小红书旅游搭子被指涉黄",
       "onboard_time": 1693362095,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2453526,
+      "num": 407973,
+      "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+      "onboard_time": 1693497155,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1361,6 +1369,14 @@
       "onboard_time": 1693141480,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927885,
+      "num": 345266,
+      "word": "断缴社保的年轻人都是怎么想的",
+      "onboard_time": 1693495481,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927220,
@@ -2841,6 +2857,14 @@
       "onboard_time": 1693195116,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544739,
+      "num": 189545,
+      "word": "国防部回应何时解决台湾问题",
+      "onboard_time": 1693496199,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 543443,
@@ -4907,14 +4931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 345266,
-      "num": 345266,
-      "word": "断缴社保的年轻人都是怎么想的",
-      "onboard_time": 1693495481,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343505,
       "num": 343505,
       "word": "男孩怕瓜有毒让民警先吃",
@@ -5217,6 +5233,14 @@
       "onboard_time": 1693473584,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 328020,
+      "num": 328020,
+      "word": "DRG夏季赛淘汰",
+      "onboard_time": 1693495898,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 327493,
@@ -6155,14 +6179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 285055,
-      "num": 285055,
-      "word": "DRG夏季赛淘汰",
-      "onboard_time": 1693495898,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 284813,
       "num": 284813,
       "word": "巨型舒芙蕾",
@@ -7009,6 +7025,14 @@
       "onboard_time": 1693271976,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249457,
+      "num": 249457,
+      "word": "蔡文静韩东君浴室吻",
+      "onboard_time": 1693496854,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 249066,
@@ -8667,6 +8691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198169,
+      "num": 198169,
+      "word": "欧冠32强全部出炉",
+      "onboard_time": 1693497995,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198084,
       "num": 180867,
       "word": "陈伟霆真的是人间清醒",
@@ -8945,6 +8977,14 @@
       "onboard_time": 1693460800,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192088,
+      "num": 192088,
+      "word": "为什么一紧张会有鸡皮疙瘩",
+      "onboard_time": 1693496560,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 192064,
@@ -9321,6 +9361,14 @@
       "onboard_time": 1693389937,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181095,
+      "num": 181095,
+      "word": "墨菲定律",
+      "onboard_time": 1693498533,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 180370,
@@ -10251,6 +10299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119935,
+      "num": 119935,
+      "word": "灯塔2023暑期档剧集榜单",
+      "onboard_time": 1693498832,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117675,
       "num": 456088,
       "word": "姐姐在校门口与4岁弟弟含泪惜别",
@@ -10977,6 +11033,14 @@
       "onboard_time": 1693165754,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16645,
+      "num": 659011,
+      "word": "砺志逐梦正当时",
+      "onboard_time": 1693493739,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5992,
