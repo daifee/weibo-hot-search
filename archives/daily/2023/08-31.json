@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693495048673,
+  "endTime": 1693496058600,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -139,7 +139,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1780691,
+      "raw_hot": 1810591,
       "num": 1135069,
       "word": "被医院判死刑的孩子",
       "onboard_time": 1693491760,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1575943,
+      "num": 1575943,
+      "word": "奥本海默",
+      "onboard_time": 1693482156,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1549249,
       "num": 646031,
       "word": "王源明天飞美国",
@@ -193,14 +201,6 @@
       "onboard_time": 1693487679,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1506028,
-      "num": 1506028,
-      "word": "奥本海默",
-      "onboard_time": 1693482156,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1485400,
@@ -227,20 +227,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1317521,
+      "num": 1317521,
+      "word": "iPhone15系列爆料",
+      "onboard_time": 1693491639,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1235856,
       "num": 1235856,
       "word": "行政处罚书还原孙菲菲被打事件",
       "onboard_time": 1693401401,
       "rank": 12,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1116120,
-      "num": 1116120,
-      "word": "iPhone15系列爆料",
-      "onboard_time": 1693491639,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 1107951,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 837584,
-      "num": 362253,
+      "num": 417553,
       "word": "女子假离婚后发现丈夫有孩子公婆也知情",
       "onboard_time": 1693493259,
       "rank": 20,
@@ -513,6 +513,14 @@
       "onboard_time": 1693447294,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 675790,
+      "num": 493251,
+      "word": "赵露思把自己穿身上",
+      "onboard_time": 1693494103,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 665774,
@@ -907,6 +915,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 462431,
+      "num": 462431,
+      "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
+      "onboard_time": 1693494760,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 459941,
       "num": 459941,
       "word": "国防部辟谣093核潜艇在台海发生意外",
@@ -1003,14 +1019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 424085,
-      "num": 424085,
-      "word": "赵露思把自己穿身上",
-      "onboard_time": 1693494103,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 422828,
       "num": 422828,
       "word": "周琦掉球",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1693488761,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404179,
+      "num": 404179,
+      "word": "DRG巅峰对决KSG",
+      "onboard_time": 1693493981,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 403348,
@@ -1243,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355557,
-      "num": 355557,
-      "word": "DRG巅峰对决KSG",
-      "onboard_time": 1693493981,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 353587,
       "num": 353587,
       "word": "马立奥负伤漂流记",
@@ -1259,12 +1267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350799,
+      "num": 350799,
+      "word": "捡了东西的狼",
+      "onboard_time": 1693494399,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 350591,
       "num": 350591,
       "word": "上海交大最小新生08年出生",
       "onboard_time": 1693452938,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 345266,
+      "num": 345266,
+      "word": "断缴社保的年轻人都是怎么想的",
+      "onboard_time": 1693495481,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339272,
@@ -1411,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316957,
+      "num": 316957,
+      "word": "中国文物逃出大英博物馆幕后故事",
+      "onboard_time": 1693492240,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 316664,
       "num": 465408,
       "word": "深圳机场明日12时起航班暂停",
@@ -1451,20 +1483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305342,
-      "num": 305342,
-      "word": "中国文物逃出大英博物馆幕后故事",
-      "onboard_time": 1693492240,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 300075,
       "num": 265632,
       "word": "金晨深V蓝风衣",
       "onboard_time": 1693461223,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 299424,
+      "num": 299424,
+      "word": "YG新女团或将亮相BLACKPINK演唱会",
+      "onboard_time": 1693495179,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 298512,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1693490499,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285055,
+      "num": 285055,
+      "word": "DRG夏季赛淘汰",
+      "onboard_time": 1693495898,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 284729,
@@ -1755,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253093,
-      "num": 253093,
-      "word": "捡了东西的狼",
-      "onboard_time": 1693494399,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 252428,
       "num": 252428,
       "word": "战神与高岭之花女主",
@@ -1891,12 +1923,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 240386,
-      "num": 240386,
-      "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
-      "onboard_time": 1693494760,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 239103,
+      "num": 239103,
+      "word": "2023KPL夏季赛季后赛",
+      "onboard_time": 1693495657,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 236928,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1693446334,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 231495,
+      "num": 231495,
+      "word": "朱一龙新片入围多个国际电影节",
+      "onboard_time": 1693494521,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 227957,
@@ -2131,6 +2171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208394,
+      "num": 208394,
+      "word": "蒋依依敖子逸好嗑",
+      "onboard_time": 1693493562,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208072,
       "num": 208072,
       "word": "中国记者就大英博物馆丢文物犀利提问",
@@ -2163,14 +2211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206909,
-      "num": 206909,
-      "word": "蒋依依敖子逸好嗑",
-      "onboard_time": 1693493562,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206587,
       "num": 206587,
       "word": "苏拉",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1693490561,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 206275,
+      "num": 206275,
+      "word": "梁祯元GENTO",
+      "onboard_time": 1693495539,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205699,
@@ -2209,14 +2257,6 @@
       "onboard_time": 1693394136,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205300,
-      "num": 205300,
-      "word": "朱一龙新片入围多个国际电影节",
-      "onboard_time": 1693494521,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 205150,
@@ -2603,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157145,
+      "num": 1137745,
+      "word": "开学第一课",
+      "onboard_time": 1693494037,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155984,
       "num": 155984,
       "word": "这么大个柜子只住两个人",
@@ -2731,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107555,
-      "num": 1137745,
-      "word": "开学第一课",
-      "onboard_time": 1693494037,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103297,
       "num": 2951590,
       "word": "开学季第一张自拍",
@@ -2767,6 +2807,14 @@
       "num": 469945,
       "word": "大熊猫谊谊和升谊已平安回国",
       "onboard_time": 1693465240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95136,
+      "num": 556513,
+      "word": "收暑假作业现场一边赶工一边验收",
+      "onboard_time": 1693494037,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2891,14 +2939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50841,
-      "num": 556513,
-      "word": "收暑假作业现场一边赶工一边验收",
-      "onboard_time": 1693494037,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48598,
       "num": 48598,
       "word": "利雅得胜利4比0利雅得青年人",
@@ -2967,6 +3007,9 @@
     },
     {
       "word": "#习近平复信史迪威将军后人#"
+    },
+    {
+      "word": "#习近平回信勉励安徽省潜山野寨中学新考取军校的同学们#"
     }
   ]
 }
