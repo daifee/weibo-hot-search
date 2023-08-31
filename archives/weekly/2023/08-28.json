@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693480438888,
+  "endTime": 1693481624074,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1849230,
+      "num": 600669,
+      "word": "何洁瘦了近70斤",
+      "onboard_time": 1693478082,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1845073,
       "num": 1845073,
       "word": "大腿粗居然有这么多好处",
@@ -673,14 +681,6 @@
       "onboard_time": 1693275456,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1702948,
-      "num": 600669,
-      "word": "何洁瘦了近70斤",
-      "onboard_time": 1693478082,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1672535,
@@ -849,6 +849,14 @@
       "onboard_time": 1693352912,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1318395,
+      "num": 550411,
+      "word": "王源明天飞美国",
+      "onboard_time": 1693478439,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1312664,
@@ -1491,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 857341,
-      "num": 436608,
-      "word": "王源明天飞美国",
-      "onboard_time": 1693478439,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 853381,
       "num": 782459,
       "word": "华为Mate60Pro体验",
@@ -1521,6 +1521,14 @@
       "onboard_time": 1693219477,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842282,
+      "num": 539500,
+      "word": "张韶涵 我在扬州没空想你",
+      "onboard_time": 1693478257,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 842218,
@@ -1560,14 +1568,6 @@
       "word": "吴磊骑车冷到五官都在用力",
       "onboard_time": 1693227999,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 826058,
-      "num": 523569,
-      "word": "张韶涵 我在扬州没空想你",
-      "onboard_time": 1693478257,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1873,6 +1873,14 @@
       "onboard_time": 1693471362,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 728357,
+      "num": 728357,
+      "word": "上错花轿嫁对郎再火的唯一受害者",
+      "onboard_time": 1693479996,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 727627,
@@ -2803,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529938,
+      "num": 529938,
+      "word": "他和她的猫开播",
+      "onboard_time": 1693480656,
+      "rank": 19,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 528988,
       "num": 621823,
       "word": "台风苏拉或明天在广东沿海登陆",
@@ -3545,6 +3561,14 @@
       "onboard_time": 1693202736,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438030,
+      "num": 310249,
+      "word": "张拿铁训斥奶奶不吃饭就下桌",
+      "onboard_time": 1693480656,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 436975,
@@ -4571,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353587,
+      "num": 353587,
+      "word": "马立奥负伤漂流记",
+      "onboard_time": 1693479457,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350783,
       "num": 350783,
       "word": "邓为金冠红发带造型",
@@ -4907,14 +4939,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 332068,
-      "num": 332068,
-      "word": "马立奥负伤漂流记",
-      "onboard_time": 1693479457,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331321,
       "num": 331321,
       "word": "文咏珊找到自己的戏路了",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1693459242,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316787,
+      "num": 316787,
+      "word": "一直娱",
+      "onboard_time": 1693481080,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 316664,
@@ -5792,14 +5824,6 @@
       "word": "宁安如梦之狼来了",
       "onboard_time": 1693321303,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 285963,
-      "num": 285963,
-      "word": "上错花轿嫁对郎再火的唯一受害者",
-      "onboard_time": 1693479996,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -6531,6 +6555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253668,
+      "num": 1642952,
+      "word": "广东全力防御台风苏拉",
+      "onboard_time": 1693477178,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252650,
       "num": 252650,
       "word": "杨幂说许凯说走就走",
@@ -6577,6 +6609,14 @@
       "onboard_time": 1693287398,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251588,
+      "num": 251588,
+      "word": "原来拉伸真的很重要",
+      "onboard_time": 1693476760,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 251314,
@@ -6777,14 +6817,6 @@
       "onboard_time": 1693394616,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243548,
-      "num": 243548,
-      "word": "原来拉伸真的很重要",
-      "onboard_time": 1693476760,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 243417,
@@ -7099,14 +7131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232970,
-      "num": 1642952,
-      "word": "广东全力防御台风苏拉",
-      "onboard_time": 1693477178,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232214,
       "num": 232214,
       "word": "医院回应男子遵医嘱吃24粒头孢后急救",
@@ -7385,6 +7409,14 @@
       "onboard_time": 1693456012,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 220682,
+      "num": 220682,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1693479037,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 220298,
@@ -7745,14 +7777,6 @@
       "onboard_time": 1693380456,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206192,
-      "num": 206192,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1693479037,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 205744,
@@ -8843,6 +8867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179285,
+      "num": 179285,
+      "word": "台风苏拉趋向广东海面",
+      "onboard_time": 1693480115,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178816,
       "num": 183614,
       "word": "我国人身安全保护令签发率提升至77.6%",
@@ -8969,6 +9001,14 @@
       "onboard_time": 1693475741,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 174327,
+      "num": 174327,
+      "word": "我每个工作日的心情",
+      "onboard_time": 1693481017,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 174260,
@@ -9121,6 +9161,14 @@
       "onboard_time": 1693192235,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165332,
+      "num": 165332,
+      "word": "Tizzy的澳门vlog",
+      "onboard_time": 1693481138,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 164839,
@@ -9411,14 +9459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148034,
-      "num": 148034,
-      "word": "台风苏拉趋向广东海面",
-      "onboard_time": 1693480115,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146965,
       "num": 146965,
       "word": "芭比粉奶奶成广场舞坛新顶流",
@@ -9608,6 +9648,14 @@
       "word": "可隆拍了拍你的焦虑",
       "onboard_time": 1693191396,
       "rank": 28,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 131295,
+      "num": 131295,
+      "word": "秋天的京味儿集市",
+      "onboard_time": 1693481256,
+      "rank": 49,
       "category": "旅游"
     },
     {

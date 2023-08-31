@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693480438888,
+  "endTime": 1693481624074,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1849230,
+      "num": 600669,
+      "word": "何洁瘦了近70斤",
+      "onboard_time": 1693478082,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1767604,
       "num": 1767604,
       "word": "中国男篮首胜",
@@ -147,14 +155,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1702948,
-      "num": 600669,
-      "word": "何洁瘦了近70斤",
-      "onboard_time": 1693478082,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1625786,
       "num": 419021,
       "word": "妻子出轨被抓现行称其为了报复丈夫",
@@ -177,6 +177,14 @@
       "onboard_time": 1693473339,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1318395,
+      "num": 550411,
+      "word": "王源明天飞美国",
+      "onboard_time": 1693478439,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1235856,
@@ -299,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 857341,
-      "num": 436608,
-      "word": "王源明天飞美国",
-      "onboard_time": 1693478439,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 853319,
       "num": 853319,
       "word": "不小心看到瑞幸员工内讧了",
@@ -315,8 +315,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 826058,
-      "num": 523569,
+      "raw_hot": 842282,
+      "num": 539500,
       "word": "张韶涵 我在扬州没空想你",
       "onboard_time": 1693478257,
       "rank": 15,
@@ -385,6 +385,14 @@
       "onboard_time": 1693471362,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 728357,
+      "num": 728357,
+      "word": "上错花轿嫁对郎再火的唯一受害者",
+      "onboard_time": 1693479996,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 727627,
@@ -643,6 +651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 529938,
+      "num": 529938,
+      "word": "他和她的猫开播",
+      "onboard_time": 1693480656,
+      "rank": 19,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 528988,
       "num": 621823,
       "word": "台风苏拉或明天在广东沿海登陆",
@@ -809,6 +825,14 @@
       "onboard_time": 1693463142,
       "rank": 19,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 438030,
+      "num": 310249,
+      "word": "张拿铁训斥奶奶不吃饭就下桌",
+      "onboard_time": 1693480656,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 431734,
@@ -1027,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353587,
+      "num": 353587,
+      "word": "马立奥负伤漂流记",
+      "onboard_time": 1693479457,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350591,
       "num": 350591,
       "word": "上海交大最小新生08年出生",
@@ -1075,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332068,
-      "num": 332068,
-      "word": "马立奥负伤漂流记",
-      "onboard_time": 1693479457,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 328229,
       "num": 328229,
       "word": "易梦玲穿旗袍跳舞",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1693459242,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316787,
+      "num": 316787,
+      "word": "一直娱",
+      "onboard_time": 1693481080,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 316664,
@@ -1225,14 +1257,6 @@
       "onboard_time": 1693460082,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285963,
-      "num": 285963,
-      "word": "上错花轿嫁对郎再火的唯一受害者",
-      "onboard_time": 1693479996,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 284729,
@@ -1419,12 +1443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253668,
+      "num": 1642952,
+      "word": "广东全力防御台风苏拉",
+      "onboard_time": 1693477178,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252428,
       "num": 252428,
       "word": "战神与高岭之花女主",
       "onboard_time": 1693465901,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251588,
+      "num": 251588,
+      "word": "原来拉伸真的很重要",
+      "onboard_time": 1693476760,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 251314,
@@ -1489,14 +1529,6 @@
       "onboard_time": 1693468061,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243548,
-      "num": 243548,
-      "word": "原来拉伸真的很重要",
-      "onboard_time": 1693476760,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 243417,
@@ -1579,14 +1611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 232970,
-      "num": 1642952,
-      "word": "广东全力防御台风苏拉",
-      "onboard_time": 1693477178,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232058,
       "num": 232058,
       "word": "是她发明了北京时间",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1693456012,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 220682,
+      "num": 220682,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1693479037,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 214574,
@@ -1777,14 +1809,6 @@
       "onboard_time": 1693445014,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206192,
-      "num": 206192,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1693479037,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 205683,
@@ -1987,6 +2011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 179285,
+      "num": 179285,
+      "word": "台风苏拉趋向广东海面",
+      "onboard_time": 1693480115,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178442,
       "num": 178442,
       "word": "周琦太软了",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1693475741,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 174327,
+      "num": 174327,
+      "word": "我每个工作日的心情",
+      "onboard_time": 1693481017,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 174260,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1693427353,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165332,
+      "num": 165332,
+      "word": "Tizzy的澳门vlog",
+      "onboard_time": 1693481138,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 163006,
@@ -2115,14 +2163,6 @@
       "category": "旅游,美食"
     },
     {
-      "raw_hot": 148034,
-      "num": 148034,
-      "word": "台风苏拉趋向广东海面",
-      "onboard_time": 1693480115,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146712,
       "num": 146712,
       "word": "辽宁卫视曾报道孙菲菲被霸凌事件",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1693415243,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131295,
+      "num": 131295,
+      "word": "秋天的京味儿集市",
+      "onboard_time": 1693481256,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 128690,
