@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693516481416,
+  "endTime": 1693517643334,
   "band_list": [
     {
       "raw_hot": 2643469,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 27610,
-      "num": 23756,
+      "num": 25617,
       "word": "谐音梗为什么要扣钱",
       "onboard_time": 1693512554,
       "rank": 45,
@@ -571,12 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18363,
-      "num": 18363,
+      "raw_hot": 21381,
+      "num": 21381,
       "word": "好歹毒的一道菜",
       "onboard_time": 1693514652,
       "rank": 42,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 19517,
+      "num": 19517,
+      "word": "榨菜砂锅米粉",
+      "onboard_time": 1693516695,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 17444,
