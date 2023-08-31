@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693502120844,
+  "endTime": 1693503237973,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -10091,6 +10091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139495,
+      "num": 95990,
+      "word": "广东一比一复刻故宫",
+      "onboard_time": 1693501284,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 138666,
       "num": 138666,
       "word": "灼灼风流里的景甜",
@@ -10483,14 +10491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95990,
-      "num": 95990,
-      "word": "广东一比一复刻故宫",
-      "onboard_time": 1693501284,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 95136,
       "num": 556513,
       "word": "收暑假作业现场一边赶工一边验收",
@@ -10537,6 +10537,14 @@
       "onboard_time": 1693415962,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 87279,
+      "num": 87279,
+      "word": "难道这就是恋爱脑",
+      "onboard_time": 1693502064,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 86701,
@@ -10675,6 +10683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71914,
+      "num": 71914,
+      "word": "来自泡面的幸福",
+      "onboard_time": 1693502901,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 71497,
       "num": 204469,
       "word": "请允许河南人再骄傲一次",
@@ -10793,14 +10809,6 @@
       "onboard_time": 1693170733,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 59471,
-      "num": 59471,
-      "word": "难道这就是恋爱脑",
-      "onboard_time": 1693502064,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 55487,
