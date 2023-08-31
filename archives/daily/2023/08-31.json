@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693488903813,
+  "endTime": 1693491366533,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1519813,
+      "num": 1519813,
+      "word": "华为Mate60Pro+",
+      "onboard_time": 1693487679,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1485400,
       "num": 1485400,
       "word": "用华为手机给美国商务部长拍照",
@@ -233,6 +241,14 @@
       "onboard_time": 1693455532,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065969,
+      "num": 1065969,
+      "word": "奥本海默",
+      "onboard_time": 1693482156,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1053504,
@@ -323,14 +339,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 869074,
-      "num": 869074,
-      "word": "奥本海默",
-      "onboard_time": 1693482156,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 866264,
       "num": 866264,
       "word": "孙菲菲回应被霸凌原因",
@@ -385,6 +393,14 @@
       "onboard_time": 1693468302,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 783159,
+      "num": 783159,
+      "word": "美国商务部长乘中国高铁让美媒纠结",
+      "onboard_time": 1693488216,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777897,
@@ -457,14 +473,6 @@
       "onboard_time": 1693436967,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698518,
-      "num": 698518,
-      "word": "华为Mate60Pro+",
-      "onboard_time": 1693487679,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 698116,
@@ -699,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 537002,
+      "num": 537002,
+      "word": "骄阳伴我央视频追剧日历",
+      "onboard_time": 1693487316,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533030,
       "num": 533030,
       "word": "胡金秋好用",
@@ -801,6 +817,14 @@
       "onboard_time": 1693452698,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474055,
+      "num": 413883,
+      "word": "九月各星座注意事项",
+      "onboard_time": 1693488761,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 467394,
@@ -931,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419572,
-      "num": 419572,
-      "word": "骄阳伴我央视频追剧日历",
-      "onboard_time": 1693487316,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 415027,
       "num": 398843,
       "word": "杭州有人冒雨赶在利率下调前存1000多万",
@@ -961,6 +977,14 @@
       "onboard_time": 1693467401,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407092,
+      "num": 407092,
+      "word": "陕西一医院规定男55岁女44岁不续聘",
+      "onboard_time": 1693488761,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403348,
@@ -1259,12 +1283,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 321160,
+      "num": 321160,
+      "word": "小玖掉点",
+      "onboard_time": 1693489779,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320930,
       "num": 320930,
       "word": "十个勤天云南直播",
       "onboard_time": 1693455647,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320153,
+      "num": 320153,
+      "word": "杨紫谈演员职业素养和行为规范",
+      "onboard_time": 1693488761,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 318635,
@@ -1275,12 +1315,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318140,
+      "num": 318140,
+      "word": "韩东君 许子诠你小子终于表白了",
+      "onboard_time": 1693489117,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317698,
       "num": 317698,
       "word": "烟台海边蝼蛄虾根本捡不完",
       "onboard_time": 1693459242,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317423,
+      "num": 317423,
+      "word": "男朋友以为是造型拍了下来",
+      "onboard_time": 1693490680,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 316664,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1693467879,
       "rank": 28,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 292849,
+      "num": 292849,
+      "word": "原来拉伸真的很重要",
+      "onboard_time": 1693476760,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 291833,
@@ -1531,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263319,
+      "num": 263319,
+      "word": "黄子弘凡重新定义非酋",
+      "onboard_time": 1693488337,
+      "rank": 39,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 260989,
       "num": 260989,
       "word": "恩佐首球",
@@ -1595,14 +1667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251588,
-      "num": 251588,
-      "word": "原来拉伸真的很重要",
-      "onboard_time": 1693476760,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251314,
       "num": 251314,
       "word": "深圳台风",
@@ -1625,6 +1689,14 @@
       "onboard_time": 1693395756,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250382,
+      "num": 526448,
+      "word": "男子捡手机疯狂转账民警从浙追到鄂",
+      "onboard_time": 1693486838,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250297,
@@ -1875,6 +1947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 210727,
+      "num": 210727,
+      "word": "马宁",
+      "onboard_time": 1693491282,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210275,
       "num": 210275,
       "word": "可能出现三台风局面",
@@ -1939,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207794,
-      "num": 207794,
-      "word": "杨紫谈演员职业素养和行为规范",
-      "onboard_time": 1693488761,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207678,
       "num": 207678,
       "word": "张颂文拍的月亮",
@@ -1971,12 +2043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206333,
+      "num": 206333,
+      "word": "重庆永川里",
+      "onboard_time": 1693490561,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205683,
       "num": 205683,
       "word": "李奕臻因为淄博烧烤注意到边天扬",
       "onboard_time": 1693472740,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205591,
+      "num": 205591,
+      "word": "孤注一掷",
+      "onboard_time": 1693490499,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 205582,
@@ -2011,6 +2099,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 203212,
+      "num": 203212,
+      "word": "2023暑期档票房创影史新高",
+      "onboard_time": 1693490260,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201265,
       "num": 201265,
       "word": "住房信贷政策官方最新解读",
@@ -2043,14 +2139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199455,
-      "num": 199455,
-      "word": "黄子弘凡重新定义非酋",
-      "onboard_time": 1693488337,
-      "rank": 39,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 199417,
       "num": 199417,
       "word": "何泓姗双剧造型",
@@ -2081,14 +2169,6 @@
       "onboard_time": 1693484495,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197562,
-      "num": 197562,
-      "word": "美国商务部长乘中国高铁让美媒纠结",
-      "onboard_time": 1693488216,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197387,
@@ -2171,14 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190356,
-      "num": 190356,
-      "word": "陕西一医院规定男55岁女44岁不续聘",
-      "onboard_time": 1693488761,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190206,
       "num": 190206,
       "word": "许知远对费翔讲话为什么会这样",
@@ -2187,11 +2259,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190069,
-      "num": 190069,
-      "word": "九月各星座注意事项",
-      "onboard_time": 1693488761,
-      "rank": 43,
+      "raw_hot": 189791,
+      "num": 189791,
+      "word": "九月你好",
+      "onboard_time": 1693490798,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -2249,14 +2321,6 @@
       "onboard_time": 1693473698,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 180897,
-      "num": 526448,
-      "word": "男子捡手机疯狂转账民警从浙追到鄂",
-      "onboard_time": 1693486838,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178442,
@@ -2675,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52629,
+      "num": 508737,
+      "word": "男生在宿舍穿拖鞋拉小提琴引围观",
+      "onboard_time": 1693490435,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48598,
       "num": 48598,
       "word": "利雅得胜利4比0利雅得青年人",
@@ -2699,20 +2771,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 38192,
+      "num": 1200411,
+      "word": "中国人的大飞机梦穿越53个春秋",
+      "onboard_time": 1693470460,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31491,
       "num": 31491,
       "word": "七时吉祥结局是BE还是HE",
       "onboard_time": 1693420696,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31113,
-      "num": 1110751,
-      "word": "中国人的大飞机梦穿越53个春秋",
-      "onboard_time": 1693470460,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25985,
