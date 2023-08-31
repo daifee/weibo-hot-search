@@ -1,10 +1,10 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693455593229,
+  "endTime": 1693456452665,
   "band_list": [
     {
-      "raw_hot": 12419777,
-      "num": 12419777,
+      "raw_hot": 12742602,
+      "num": 12742602,
       "word": "宋祖儿",
       "onboard_time": 1693445614,
       "rank": 10,
@@ -59,12 +59,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1711447,
+      "raw_hot": 2117935,
       "num": 1711447,
       "word": "折腰",
       "onboard_time": 1693447834,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2016342,
+      "num": 2016342,
+      "word": "90后小伙中6835万大奖没告诉妻子",
+      "onboard_time": 1693453907,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1485400,
@@ -73,14 +81,6 @@
       "onboard_time": 1693407220,
       "rank": 1,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1413679,
-      "num": 1413679,
-      "word": "90后小伙中6835万大奖没告诉妻子",
-      "onboard_time": 1693453907,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1235856,
@@ -99,6 +99,14 @@
       "category": "网红,美食"
     },
     {
+      "raw_hot": 1053504,
+      "num": 395990,
+      "word": "张俪演的李木子",
+      "onboard_time": 1693455170,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1051797,
       "num": 705012,
       "word": "宋祖儿待播剧",
@@ -113,6 +121,14 @@
       "onboard_time": 1693403078,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 994962,
+      "num": 994962,
+      "word": "刘宇郑乃馨苍兰诀剧照",
+      "onboard_time": 1693454328,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 968562,
@@ -137,6 +153,14 @@
       "onboard_time": 1693445555,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900404,
+      "num": 900404,
+      "word": "虞书欣赵露思将出席米兰时装周",
+      "onboard_time": 1693454029,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 866264,
@@ -193,14 +217,6 @@
       "onboard_time": 1693442797,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709053,
-      "num": 709053,
-      "word": "刘宇郑乃馨苍兰诀剧照",
-      "onboard_time": 1693454328,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 701859,
@@ -267,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 634609,
-      "num": 471053,
-      "word": "虞书欣赵露思将出席米兰时装周",
-      "onboard_time": 1693454029,
-      "rank": 20,
-      "category": "艺人,时尚"
+      "raw_hot": 623014,
+      "num": 393247,
+      "word": "原来熬夜会让身体变臭是真的",
+      "onboard_time": 1693454809,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 619279,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565894,
+      "num": 565894,
+      "word": "俄民众建议日本人移居俄罗斯",
+      "onboard_time": 1693455532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543443,
       "num": 543443,
       "word": "小夭 我从小就没有老公",
@@ -379,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493440,
-      "num": 493440,
+      "raw_hot": 517404,
+      "num": 517404,
       "word": "孤注一掷票房破35亿",
       "onboard_time": 1693454931,
       "rank": 18,
@@ -451,6 +475,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 400856,
+      "num": 400856,
+      "word": "玲娜贝儿中秋新衣",
+      "onboard_time": 1693454748,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 400841,
       "num": 400841,
       "word": "如果一辈子都租房的话",
@@ -507,6 +539,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 364413,
+      "num": 624287,
+      "word": "终于懂了一片冰心在玉壶",
+      "onboard_time": 1693452339,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360458,
       "num": 360458,
       "word": "小夭 我才是我续命的香",
@@ -523,28 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351029,
-      "num": 351029,
-      "word": "原来熬夜会让身体变臭是真的",
-      "onboard_time": 1693454809,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 350591,
       "num": 350591,
       "word": "上海交大最小新生08年出生",
       "onboard_time": 1693452938,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 340136,
-      "num": 624287,
-      "word": "终于懂了一片冰心在玉壶",
-      "onboard_time": 1693452339,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339272,
@@ -579,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320930,
+      "num": 320930,
+      "word": "十个勤天云南直播",
+      "onboard_time": 1693455647,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318635,
       "num": 308232,
       "word": "原来真的会有这种家庭存在",
@@ -611,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292326,
-      "num": 292326,
-      "word": "玲娜贝儿中秋新衣",
-      "onboard_time": 1693454748,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 291833,
       "num": 291833,
       "word": "宋亚轩凌晨3点半回酒店",
@@ -641,14 +665,6 @@
       "onboard_time": 1693405240,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283398,
-      "num": 283398,
-      "word": "张俪演的李木子",
-      "onboard_time": 1693455170,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 281107,
@@ -875,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220695,
+      "num": 220695,
+      "word": "高校迎新连续13年为新生家长免费推拿",
+      "onboard_time": 1693456012,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 214574,
       "num": 214574,
       "word": "沈月竹业篇路透生图",
@@ -904,6 +928,14 @@
       "word": "骄阳伴我央视版预告",
       "onboard_time": 1693444955,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211255,
+      "num": 211255,
+      "word": "莲花楼2023微博爆款剧集",
+      "onboard_time": 1693456188,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -937,6 +969,14 @@
       "onboard_time": 1693411473,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208083,
+      "num": 208083,
+      "word": "天津大爷直播遇溺水匆匆跳河救人",
+      "onboard_time": 1693456372,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208052,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1693437869,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 184986,
-      "num": 184986,
-      "word": "俄民众建议日本人移居俄罗斯",
-      "onboard_time": 1693455532,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182812,
