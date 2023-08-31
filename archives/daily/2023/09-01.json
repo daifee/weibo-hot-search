@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693510436020,
+  "endTime": 1693513063151,
   "band_list": [
     {
       "raw_hot": 2643469,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76333,
+      "num": 29865,
+      "word": "女大学生被对面卧铺大叔多角度偷拍",
+      "onboard_time": 1693508894,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71914,
       "num": 71914,
       "word": "来自泡面的幸福",
@@ -459,14 +467,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 59769,
-      "num": 29865,
-      "word": "女大学生被对面卧铺大叔多角度偷拍",
-      "onboard_time": 1693508894,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53327,
       "num": 53327,
       "word": "这届父母真的很懂阴阳",
@@ -481,6 +481,14 @@
       "onboard_time": 1693475741,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49701,
+      "num": 38757,
+      "word": "许光汉鬼家人角逐奥斯卡",
+      "onboard_time": 1693509854,
+      "rank": 33,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 46712,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36213,
+      "num": 36213,
+      "word": "金泰亨solo",
+      "onboard_time": 1693511053,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31656,
       "num": 34784,
       "word": "河狸 对呀都是我干的",
@@ -529,14 +545,6 @@
       "onboard_time": 1693506676,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28553,
-      "num": 28553,
-      "word": "许光汉鬼家人角逐奥斯卡",
-      "onboard_time": 1693509854,
-      "rank": 33,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 24101,
@@ -555,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17873,
+      "num": 17873,
+      "word": "谐音梗为什么要扣钱",
+      "onboard_time": 1693512554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17444,
       "num": 659011,
       "word": "砺志逐梦正当时",
       "onboard_time": 1693493739,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17061,
+      "num": 17590,
+      "word": "姬发随时随地大小唱",
+      "onboard_time": 1693510693,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

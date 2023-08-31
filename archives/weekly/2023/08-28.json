@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693510436020,
+  "endTime": 1693513063151,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -10627,6 +10627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76333,
+      "num": 29865,
+      "word": "女大学生被对面卧铺大叔多角度偷拍",
+      "onboard_time": 1693508894,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76243,
       "num": 543616,
       "word": "属于开心麻花的格莱美",
@@ -10819,14 +10827,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 59769,
-      "num": 29865,
-      "word": "女大学生被对面卧铺大叔多角度偷拍",
-      "onboard_time": 1693508894,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55487,
       "num": 55487,
       "word": "宋妍霏冷艳小白花",
@@ -10873,6 +10873,14 @@
       "onboard_time": 1693280017,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49701,
+      "num": 38757,
+      "word": "许光汉鬼家人角逐奥斯卡",
+      "onboard_time": 1693509854,
+      "rank": 33,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 48598,
@@ -11003,6 +11011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36213,
+      "num": 36213,
+      "word": "金泰亨solo",
+      "onboard_time": 1693511053,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34911,
       "num": 43531,
       "word": "刘德华 做朋友是不需要理由的",
@@ -11065,14 +11081,6 @@
       "onboard_time": 1693282718,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28553,
-      "num": 28553,
-      "word": "许光汉鬼家人角逐奥斯卡",
-      "onboard_time": 1693509854,
-      "rank": 33,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 28341,
@@ -11147,6 +11155,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 17873,
+      "num": 17873,
+      "word": "谐音梗为什么要扣钱",
+      "onboard_time": 1693512554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17755,
       "num": 19444,
       "word": "假如你住在这么大的宿舍",
@@ -11169,6 +11185,14 @@
       "onboard_time": 1693493739,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17061,
+      "num": 17590,
+      "word": "姬发随时随地大小唱",
+      "onboard_time": 1693510693,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 5992,
