@@ -1,0 +1,410 @@
+{
+  "runTime": 1693470848837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3493133,
+        "num": 3493133,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2080755,
+        "num": 2080755,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34640,
+        "num": 1839553,
+        "word": "这些重要新规9月起施行",
+        "onboard_time": 1693447537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2835503,
+        "num": 1822776,
+        "word": "税务专管员回应宋祖儿被举报偷逃税",
+        "onboard_time": 1693463439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1627224,
+        "num": 1627224,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662797,
+        "num": 662797,
+        "word": "北漂女生爆改奶油风房东免一年租金",
+        "onboard_time": 1693461701,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 525862,
+        "num": 525862,
+        "word": "张远怎么说服张栋梁徐良的",
+        "onboard_time": 1693468479,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490324,
+        "num": 490324,
+        "word": "90后小伙中6835万大奖没告诉妻子",
+        "onboard_time": 1693453907,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431974,
+        "num": 431974,
+        "word": "你公积金每月大概有多少",
+        "onboard_time": 1693449455,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 377530,
+        "num": 377530,
+        "word": "公交车连续2年为她多等一分钟",
+        "onboard_time": 1693462180,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1659440,
+        "num": 376139,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1039459,
+        "num": 374508,
+        "word": "田曦薇横店奶茶大客户",
+        "onboard_time": 1693465965,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200721,
+        "num": 371707,
+        "word": "平顶山就牛郎织女雕塑成立调查组",
+        "onboard_time": 1693464100,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129680,
+        "num": 369662,
+        "word": "终于懂了一片冰心在玉壶",
+        "onboard_time": 1693452339,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66400,
+        "num": 366889,
+        "word": "体育学院大一新生以武会友",
+        "onboard_time": 1693468839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596252,
+        "num": 363960,
+        "word": "离职前一定要清理电脑",
+        "onboard_time": 1693468239,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 503052,
+        "num": 361259,
+        "word": "女儿问妈妈为什么要多花钱",
+        "onboard_time": 1693468302,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401895,
+        "num": 359406,
+        "word": "赵露思手拿玫瑰花气球",
+        "onboard_time": 1693467221,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356863,
+        "num": 356863,
+        "word": "唐艺昕男友视角",
+        "onboard_time": 1693467401,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323720,
+        "num": 323720,
+        "word": "张俪演的李木子",
+        "onboard_time": 1693455170,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1449519,
+        "num": 323610,
+        "word": "妻子出轨被抓现行称其为了报复丈夫",
+        "onboard_time": 1693465300,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515857,
+        "num": 322368,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392961,
+        "num": 321261,
+        "word": "杭州有人冒雨赶在利率下调前存1000多万",
+        "onboard_time": 1693468002,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 375099,
+        "num": 320332,
+        "word": "敖瑞鹏 这是微博吗",
+        "onboard_time": 1693469321,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319611,
+        "num": 319611,
+        "word": "在床底发现已逝小狗三年前的脚印",
+        "onboard_time": 1693462900,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310514,
+        "num": 310514,
+        "word": "中国男篮vs安哥拉男篮",
+        "onboard_time": 1693469922,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304327,
+        "num": 304327,
+        "word": "趁着开学我好像离了个婚",
+        "onboard_time": 1693461581,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 294209,
+        "num": 294209,
+        "word": "陆毅晒14岁18岁的自己",
+        "onboard_time": 1693464822,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 271712,
+        "num": 271712,
+        "word": "谢娜让吴俊霆红了别忘了她",
+        "onboard_time": 1693468839,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93905,
+        "num": 270028,
+        "word": "原来这就是中国情义",
+        "onboard_time": 1693469201,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269329,
+        "num": 269329,
+        "word": "这是李玉湖吗",
+        "onboard_time": 1693470343,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268137,
+        "num": 268137,
+        "word": "下辈子换我当李湘",
+        "onboard_time": 1693467522,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 69314,
+        "num": 260786,
+        "word": "开学日必备的仪式感",
+        "onboard_time": 1693456972,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256164,
+        "num": 256164,
+        "word": "网飞海贼王真人版",
+        "onboard_time": 1693467879,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 251018,
+        "num": 251018,
+        "word": "冯巩形容吃饭吧唧嘴的方式",
+        "onboard_time": 1693466563,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227262,
+        "num": 227262,
+        "word": "深圳台风",
+        "onboard_time": 1693467941,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224047,
+        "num": 224047,
+        "word": "我痘痘吴来赛里木湖只做两件事",
+        "onboard_time": 1693468061,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217874,
+        "num": 217874,
+        "word": "俄民众建议日本人移居俄罗斯",
+        "onboard_time": 1693455532,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217849,
+        "num": 217849,
+        "word": "女生每天只吃15元省下的全买书",
+        "onboard_time": 1693448852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212557,
+        "num": 212557,
+        "word": "李一桐邓为公主抱路透",
+        "onboard_time": 1693463380,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208133,
+        "num": 208133,
+        "word": "A股",
+        "onboard_time": 1693462602,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208011,
+        "num": 208011,
+        "word": "大的已经被公司三千一月买走了",
+        "onboard_time": 1693444657,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207053,
+        "num": 207053,
+        "word": "山东女子学院女性学专业首迎男同学",
+        "onboard_time": 1693466323,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188942,
+        "num": 188942,
+        "word": "杨洋宋焰暑期档最热都市剧角色",
+        "onboard_time": 1693457390,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183164,
+        "num": 183164,
+        "word": "原来方便面还能这么吃",
+        "onboard_time": 1693470400,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177267,
+        "num": 177267,
+        "word": "有些家庭环境就是精神病院",
+        "onboard_time": 1693466144,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173633,
+        "num": 173633,
+        "word": "徐梦洁余承恩双人封面",
+        "onboard_time": 1693463142,
+        "rank": 46,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 164933,
+        "num": 164933,
+        "word": "战神与高岭之花女主",
+        "onboard_time": 1693465901,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155462,
+        "num": 155462,
+        "word": "看到女友发视频夸婆婆一查她已婚",
+        "onboard_time": 1693449097,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151092,
+        "num": 151092,
+        "word": "李玟去世前给好友发信息",
+        "onboard_time": 1693442918,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对四川凉山州金阳县山洪灾害作出重要指示#"
+    }
+  }
+}

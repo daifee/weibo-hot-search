@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693470076213,
+  "endTime": 1693470848837,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -35,8 +35,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 3157691,
-      "num": 3157691,
+      "raw_hot": 3493133,
+      "num": 3493133,
       "word": "深圳全市将停课",
       "onboard_time": 1693467460,
       "rank": 0,
@@ -115,6 +115,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1627224,
+      "num": 1627224,
+      "word": "女子账户突然多出800万元吓得报警",
+      "onboard_time": 1693467639,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1625786,
       "num": 419021,
       "word": "妻子出轨被抓现行称其为了报复丈夫",
@@ -129,14 +137,6 @@
       "onboard_time": 1693407220,
       "rank": 1,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1453648,
-      "num": 1453648,
-      "word": "女子账户突然多出800万元吓得报警",
-      "onboard_time": 1693467639,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1235856,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596252,
+      "num": 409187,
+      "word": "离职前一定要清理电脑",
+      "onboard_time": 1693468239,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 596041,
       "num": 596041,
       "word": "莲花楼庆功宴",
@@ -515,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525862,
+      "num": 525862,
+      "word": "张远怎么说服张栋梁徐良的",
+      "onboard_time": 1693468479,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520122,
       "num": 520122,
       "word": "6岁男孩在牛棚玩耍被公牛顶撞离世",
@@ -537,6 +553,14 @@
       "onboard_time": 1693459963,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 503052,
+      "num": 411757,
+      "word": "女儿问妈妈为什么要多花钱",
+      "onboard_time": 1693468302,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 485828,
@@ -563,28 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 478636,
-      "num": 411757,
-      "word": "女儿问妈妈为什么要多花钱",
-      "onboard_time": 1693468302,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 467394,
       "num": 467394,
       "word": "A股",
       "onboard_time": 1693462602,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 463834,
-      "num": 463834,
-      "word": "张远怎么说服张栋梁徐良的",
-      "onboard_time": 1693468479,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 463505,
@@ -633,14 +641,6 @@
       "onboard_time": 1693463142,
       "rank": 19,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 440882,
-      "num": 409187,
-      "word": "离职前一定要清理电脑",
-      "onboard_time": 1693468239,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 431734,
@@ -745,6 +745,14 @@
       "onboard_time": 1693458946,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375099,
+      "num": 320332,
+      "word": "敖瑞鹏 这是微博吗",
+      "onboard_time": 1693469321,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 371219,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310514,
+      "num": 310514,
+      "word": "中国男篮vs安哥拉男篮",
+      "onboard_time": 1693469922,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307080,
       "num": 307080,
       "word": "姬发被吓傻",
@@ -897,14 +913,6 @@
       "onboard_time": 1693461223,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 299878,
-      "num": 299878,
-      "word": "敖瑞鹏 这是微博吗",
-      "onboard_time": 1693469321,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 296245,
@@ -1059,8 +1067,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 268080,
-      "num": 268080,
+      "raw_hot": 269329,
+      "num": 269329,
+      "word": "这是李玉湖吗",
+      "onboard_time": 1693470343,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268137,
+      "num": 268137,
       "word": "下辈子换我当李湘",
       "onboard_time": 1693467522,
       "rank": 31,
@@ -1300,7 +1316,7 @@
     },
     {
       "raw_hot": 223731,
-      "num": 223731,
+      "num": 1839553,
       "word": "这些重要新规9月起施行",
       "onboard_time": 1693447537,
       "rank": 32,
@@ -1587,12 +1603,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 183557,
-      "num": 183557,
-      "word": "中国男篮vs安哥拉男篮",
-      "onboard_time": 1693469922,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 183164,
+      "num": 183164,
+      "word": "原来方便面还能这么吃",
+      "onboard_time": 1693470400,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 182812,
@@ -1851,6 +1867,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 66400,
+      "num": 414461,
+      "word": "体育学院大一新生以武会友",
+      "onboard_time": 1693468839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65393,
       "num": 1086028,
       "word": "亚运会场如何让数万人同时丝滑上网",
@@ -1889,14 +1913,6 @@
       "onboard_time": 1693417219,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44256,
-      "num": 414461,
-      "word": "体育学院大一新生以武会友",
-      "onboard_time": 1693468839,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42740,
