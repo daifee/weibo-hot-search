@@ -1,0 +1,410 @@
+{
+  "runTime": 1693466116785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4976854,
+        "num": 4976854,
+        "word": "税务专管员回应宋祖儿被举报偷逃税",
+        "onboard_time": 1693463439,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1533857,
+        "num": 1533857,
+        "word": "北漂女生爆改奶油风房东免一年租金",
+        "onboard_time": 1693461701,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 87240,
+        "num": 847807,
+        "word": "开学日必备的仪式感",
+        "onboard_time": 1693456972,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2961611,
+        "num": 841071,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830377,
+        "num": 830377,
+        "word": "张俪演的李木子",
+        "onboard_time": 1693455170,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754956,
+        "num": 754956,
+        "word": "你公积金每月大概有多少",
+        "onboard_time": 1693449455,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 696849,
+        "num": 696849,
+        "word": "90后小伙中6835万大奖没告诉妻子",
+        "onboard_time": 1693453907,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590872,
+        "num": 590872,
+        "word": "公交车连续2年为她多等一分钟",
+        "onboard_time": 1693462180,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560479,
+        "num": 560479,
+        "word": "喜天声明",
+        "onboard_time": 1693460681,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511040,
+        "num": 511040,
+        "word": "这是敖瑞鹏吗",
+        "onboard_time": 1693459963,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3920089,
+        "num": 509562,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559563,
+        "num": 499090,
+        "word": "陆毅晒14岁18岁的自己",
+        "onboard_time": 1693464822,
+        "rank": 11,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 305578,
+        "num": 486137,
+        "word": "平顶山就牛郎织女雕塑成立调查组",
+        "onboard_time": 1693464100,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205511,
+        "num": 483225,
+        "word": "终于懂了一片冰心在玉壶",
+        "onboard_time": 1693452339,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36796,
+        "num": 469945,
+        "word": "大熊猫谊谊和升谊已平安回国",
+        "onboard_time": 1693465240,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467394,
+        "num": 467394,
+        "word": "A股",
+        "onboard_time": 1693462602,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454933,
+        "num": 454933,
+        "word": "李一桐邓为公主抱路透",
+        "onboard_time": 1693463380,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445928,
+        "num": 445928,
+        "word": "徐梦洁余承恩双人封面",
+        "onboard_time": 1693463142,
+        "rank": 17,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 436343,
+        "num": 436343,
+        "word": "俄民众建议日本人移居俄罗斯",
+        "onboard_time": 1693455532,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333049,
+        "num": 333049,
+        "word": "原来久坐人会变丑是真的",
+        "onboard_time": 1693441357,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 653463,
+        "num": 332498,
+        "word": "在床底发现已逝小狗三年前的脚印",
+        "onboard_time": 1693462900,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 644826,
+        "num": 331150,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495830,
+        "num": 330582,
+        "word": "趁着开学我好像离了个婚",
+        "onboard_time": 1693461581,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 328484,
+        "num": 328484,
+        "word": "大的已经被公司三千一月买走了",
+        "onboard_time": 1693444657,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311830,
+        "num": 311830,
+        "word": "杨洋宋焰暑期档最热都市剧角色",
+        "onboard_time": 1693457390,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307080,
+        "num": 307080,
+        "word": "姬发被吓傻",
+        "onboard_time": 1693464221,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265396,
+        "num": 265396,
+        "word": "看到女友发视频夸婆婆一查她已婚",
+        "onboard_time": 1693449097,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247377,
+        "num": 247377,
+        "word": "你要带我回中国吗",
+        "onboard_time": 1693450416,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241058,
+        "num": 241058,
+        "word": "想跟费翔daddy聊三个夜晚",
+        "onboard_time": 1693463142,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235241,
+        "num": 235241,
+        "word": "虞书欣赵露思将出席米兰时装周",
+        "onboard_time": 1693454029,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 446487,
+        "num": 235009,
+        "word": "妻子出轨被抓现行称其为了报复丈夫",
+        "onboard_time": 1693465300,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273619,
+        "num": 234916,
+        "word": "李玟去世前给好友发信息",
+        "onboard_time": 1693442918,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233494,
+        "num": 233494,
+        "word": "张婧仪惜花芷杀青",
+        "onboard_time": 1693464038,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232794,
+        "num": 232794,
+        "word": "被baby姐轻松秒到",
+        "onboard_time": 1693460743,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232436,
+        "num": 232436,
+        "word": "女生每天只吃15元省下的全买书",
+        "onboard_time": 1693448852,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227955,
+        "num": 227955,
+        "word": "男子断指满手血万幸遇到出警民警",
+        "onboard_time": 1693451616,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214184,
+        "num": 214184,
+        "word": "原来熬夜会让身体变臭是真的",
+        "onboard_time": 1693454809,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208072,
+        "num": 208072,
+        "word": "中国记者就大英博物馆丢文物犀利提问",
+        "onboard_time": 1693463740,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206237,
+        "num": 206237,
+        "word": "孙菲菲回应被霸凌原因",
+        "onboard_time": 1693449637,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198571,
+        "num": 198571,
+        "word": "金晨深V蓝风衣",
+        "onboard_time": 1693461223,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193776,
+        "num": 193776,
+        "word": "敖子逸为蒋依依放了一场烟花",
+        "onboard_time": 1693459544,
+        "rank": 40,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 189527,
+        "num": 189527,
+        "word": "田曦薇横店奶茶大客户",
+        "onboard_time": 1693465965,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188329,
+        "num": 188329,
+        "word": "姐的生活我的梦",
+        "onboard_time": 1693460082,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185499,
+        "num": 185499,
+        "word": "见过蛏子怎么飞吗",
+        "onboard_time": 1693462239,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182838,
+        "num": 182838,
+        "word": "不缴五险一金有何后果",
+        "onboard_time": 1693458349,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174896,
+        "num": 174896,
+        "word": "战神与高岭之花女主",
+        "onboard_time": 1693465901,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158186,
+        "num": 158186,
+        "word": "我国5G基站核心芯片自研成功",
+        "onboard_time": 1693450055,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156985,
+        "num": 156985,
+        "word": "小学生开学爆笑名场面",
+        "onboard_time": 1693466023,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155377,
+        "num": 155377,
+        "word": "00后民警第一次收锦旗被宠成显眼包",
+        "onboard_time": 1693459725,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146338,
+        "num": 146338,
+        "word": "88rising全球音乐艺术节开票",
+        "onboard_time": 1693462484,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席南非之行纪实#"
+    }
+  }
+}

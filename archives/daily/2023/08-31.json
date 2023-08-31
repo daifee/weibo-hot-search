@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693463679043,
+  "endTime": 1693466116785,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -16,6 +16,14 @@
       "word": "李湘 我已退休",
       "onboard_time": 1693456909,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4976854,
+      "num": 4976854,
+      "word": "税务专管员回应宋祖儿被举报偷逃税",
+      "onboard_time": 1693463439,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -89,6 +97,14 @@
       "onboard_time": 1693460681,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1533857,
+      "num": 1533857,
+      "word": "北漂女生爆改奶油风房东免一年租金",
+      "onboard_time": 1693461701,
+      "rank": 20,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1485400,
@@ -227,14 +243,6 @@
       "category": "情感,影视"
     },
     {
-      "raw_hot": 792681,
-      "num": 792681,
-      "word": "北漂女生爆改奶油风房东免一年租金",
-      "onboard_time": 1693461701,
-      "rank": 20,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 777897,
       "num": 436401,
       "word": "奚梦瑶女儿正脸照",
@@ -307,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 653463,
+      "num": 332498,
+      "word": "在床底发现已逝小狗三年前的脚印",
+      "onboard_time": 1693462900,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 648705,
       "num": 648705,
       "word": "金智秀将出演新剧流感",
@@ -320,6 +336,14 @@
       "word": "12306回应硬卧下铺别人能不能坐",
       "onboard_time": 1693390835,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644826,
+      "num": 331150,
+      "word": "23岁小伙猝死宿舍每天工作超10小时",
+      "onboard_time": 1693464879,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1693406504,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 590872,
+      "num": 590872,
+      "word": "公交车连续2年为她多等一分钟",
+      "onboard_time": 1693462180,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586218,
@@ -411,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559563,
+      "num": 499090,
+      "word": "陆毅晒14岁18岁的自己",
+      "onboard_time": 1693464822,
+      "rank": 11,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 543443,
       "num": 543443,
       "word": "小夭 我从小就没有老公",
       "onboard_time": 1693441176,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 535716,
-      "num": 454733,
-      "word": "税务专管员回应宋祖儿被举报偷逃税",
-      "onboard_time": 1693463439,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 531805,
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 511772,
-      "num": 465258,
+      "num": 511040,
       "word": "这是敖瑞鹏吗",
       "onboard_time": 1693459963,
       "rank": 48,
@@ -499,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467394,
+      "num": 467394,
+      "word": "A股",
+      "onboard_time": 1693462602,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 463505,
       "num": 463505,
       "word": "敖子逸为蒋依依放了一场烟花",
@@ -515,12 +555,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454933,
+      "num": 454933,
+      "word": "李一桐邓为公主抱路透",
+      "onboard_time": 1693463380,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448765,
       "num": 448765,
       "word": "新疆导游小祁升职了",
       "onboard_time": 1693445436,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 446487,
+      "num": 235009,
+      "word": "妻子出轨被抓现行称其为了报复丈夫",
+      "onboard_time": 1693465300,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445928,
+      "num": 445928,
+      "word": "徐梦洁余承恩双人封面",
+      "onboard_time": 1693463142,
+      "rank": 19,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 431734,
@@ -537,14 +601,6 @@
       "onboard_time": 1693444176,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 428743,
-      "num": 428743,
-      "word": "A股",
-      "onboard_time": 1693462602,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 424670,
@@ -603,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 384023,
-      "num": 384023,
-      "word": "公交车连续2年为她多等一分钟",
-      "onboard_time": 1693462180,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383872,
       "num": 383872,
       "word": "男子断指满手血万幸遇到出警民警",
@@ -633,14 +681,6 @@
       "onboard_time": 1693443398,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 367580,
-      "num": 367580,
-      "word": "徐梦洁余承恩双人封面",
-      "onboard_time": 1693463142,
-      "rank": 19,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 366082,
@@ -681,14 +721,6 @@
       "onboard_time": 1693452938,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 341268,
-      "num": 272582,
-      "word": "在床底发现已逝小狗三年前的脚印",
-      "onboard_time": 1693462900,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 339272,
@@ -755,12 +787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307080,
+      "num": 307080,
+      "word": "姬发被吓傻",
+      "onboard_time": 1693464221,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306727,
       "num": 306727,
       "word": "JYP新男团颜值",
       "onboard_time": 1693440936,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305578,
+      "num": 486137,
+      "word": "平顶山就牛郎织女雕塑成立调查组",
+      "onboard_time": 1693464100,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300075,
@@ -931,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256590,
-      "num": 256590,
-      "word": "李一桐邓为公主抱路透",
-      "onboard_time": 1693463380,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255136,
       "num": 255136,
       "word": "27岁版张淼怡倒追17岁版方晓东",
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241058,
+      "num": 241058,
+      "word": "想跟费翔daddy聊三个夜晚",
+      "onboard_time": 1693463142,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235891,
       "num": 235891,
       "word": "88rising全球音乐艺术节开票",
@@ -1043,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233494,
+      "num": 233494,
+      "word": "张婧仪惜花芷杀青",
+      "onboard_time": 1693464038,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "恋爱脑一下就被治好了",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1693446334,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 228910,
-      "num": 228910,
-      "word": "想跟费翔daddy聊三个夜晚",
-      "onboard_time": 1693463142,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 227957,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1693462239,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208072,
+      "num": 208072,
+      "word": "中国记者就大英博物馆丢文物犀利提问",
+      "onboard_time": 1693463740,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208052,
@@ -1355,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189527,
+      "num": 189527,
+      "word": "田曦薇横店奶茶大客户",
+      "onboard_time": 1693465965,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188246,
       "num": 188246,
       "word": "舒淇威尼斯开幕红毯造型",
@@ -1392,6 +1456,14 @@
       "word": "杜华孟美岐吴宣仪程潇合照",
       "onboard_time": 1693401577,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174896,
+      "num": 174896,
+      "word": "战神与高岭之花女主",
+      "onboard_time": 1693465901,
+      "rank": 45,
       "category": "作品衍生"
     },
     {
@@ -1433,6 +1505,14 @@
       "onboard_time": 1693398937,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156985,
+      "num": 156985,
+      "word": "小学生开学爆笑名场面",
+      "onboard_time": 1693466023,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155984,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1693420217,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 36796,
+      "num": 469945,
+      "word": "大熊猫谊谊和升谊已平安回国",
+      "onboard_time": 1693465240,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31491,
