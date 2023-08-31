@@ -1,0 +1,410 @@
+{
+  "runTime": 1693451824280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4729324,
+        "num": 4729324,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3053784,
+        "num": 3053784,
+        "word": "五险一金原来是这么回事",
+        "onboard_time": 1693444234,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 50984,
+        "num": 2260198,
+        "word": "开学季第一张自拍",
+        "onboard_time": 1693399539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2162893,
+        "num": 2162893,
+        "word": "你公积金每月大概有多少",
+        "onboard_time": 1693449455,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1434948,
+        "num": 1434948,
+        "word": "折腰",
+        "onboard_time": 1693447834,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1132971,
+        "num": 1132971,
+        "word": "原来久坐人会变丑是真的",
+        "onboard_time": 1693441357,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 875401,
+        "num": 875401,
+        "word": "女生每天只吃15元省下的全买书",
+        "onboard_time": 1693448852,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866264,
+        "num": 866264,
+        "word": "孙菲菲回应被霸凌原因",
+        "onboard_time": 1693449637,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731011,
+        "num": 731011,
+        "word": "玉壶 这么大个柜子只住两个人",
+        "onboard_time": 1693449575,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648254,
+        "num": 648254,
+        "word": "女子同时供职16家公司却从不上班",
+        "onboard_time": 1693445555,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658727,
+        "num": 626321,
+        "word": "宋祖儿待播剧",
+        "onboard_time": 1693447475,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577964,
+        "num": 577964,
+        "word": "长相思你好星期六收视率",
+        "onboard_time": 1693448434,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272370,
+        "num": 540346,
+        "word": "哈尔滨工程大学开学典礼有多燃",
+        "onboard_time": 1693444176,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254988,
+        "num": 518412,
+        "word": "台风苏拉或明天在广东沿海登陆",
+        "onboard_time": 1693438770,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55673,
+        "num": 516728,
+        "word": "属于开心麻花的格莱美",
+        "onboard_time": 1693450837,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516539,
+        "num": 516539,
+        "word": "你要带我回中国吗",
+        "onboard_time": 1693450416,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477969,
+        "num": 477969,
+        "word": "椰子水价格暴涨4000%",
+        "onboard_time": 1693410096,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 495622,
+        "num": 477851,
+        "word": "逃出大英博物馆",
+        "onboard_time": 1693447294,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477544,
+        "num": 477544,
+        "word": "我国5G基站核心芯片自研成功",
+        "onboard_time": 1693450055,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 389696,
+        "num": 389696,
+        "word": "椰子汁与椰子水的区别在哪",
+        "onboard_time": 1693446394,
+        "rank": 19,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 568107,
+        "num": 388365,
+        "word": "看到女友发视频夸婆婆一查她已婚",
+        "onboard_time": 1693449097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428653,
+        "num": 381151,
+        "word": "大的已经被公司三千一月买走了",
+        "onboard_time": 1693444657,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369497,
+        "num": 369497,
+        "word": "费翔想封神质子了",
+        "onboard_time": 1693447174,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359888,
+        "num": 359888,
+        "word": "相柳流血特效改了",
+        "onboard_time": 1693446573,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313944,
+        "num": 313944,
+        "word": "华为",
+        "onboard_time": 1693407399,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311791,
+        "num": 311791,
+        "word": "钟汉良吴镇宇新片尺度",
+        "onboard_time": 1693448313,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276114,
+        "num": 276114,
+        "word": "孟晓苏称取消公摊是把老百姓当傻子忽悠",
+        "onboard_time": 1693439614,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263659,
+        "num": 263659,
+        "word": "新疆导游小祁升职了",
+        "onboard_time": 1693445436,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 260610,
+        "num": 260610,
+        "word": "公司的拖把长得好像一位故人",
+        "onboard_time": 1693448313,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258929,
+        "num": 258929,
+        "word": "张颂文评价檀健次孙阳",
+        "onboard_time": 1693441475,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1019594,
+        "num": 255958,
+        "word": "李玟去世前给好友发信息",
+        "onboard_time": 1693442918,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252466,
+        "num": 252466,
+        "word": "田曦薇李玉湖的十大美德",
+        "onboard_time": 1693451196,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245202,
+        "num": 245202,
+        "word": "无忧渡",
+        "onboard_time": 1693448493,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230534,
+        "num": 230534,
+        "word": "浙江夫妻手工复刻莲花楼太绝了",
+        "onboard_time": 1693447774,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218131,
+        "num": 218131,
+        "word": "奚梦瑶女儿正脸照",
+        "onboard_time": 1693442259,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216213,
+        "num": 216213,
+        "word": "用一首歌打开全新学期",
+        "onboard_time": 1693451737,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 212487,
+        "num": 212487,
+        "word": "用华为手机给美国商务部长拍照",
+        "onboard_time": 1693407220,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 203631,
+        "num": 203631,
+        "word": "被刚入职的00后小姑娘向上管理",
+        "onboard_time": 1693442797,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201748,
+        "num": 201748,
+        "word": "是她发明了北京时间",
+        "onboard_time": 1693446334,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29070,
+        "num": 196550,
+        "word": "饿了么免单瓜分1000万",
+        "onboard_time": 1693450837,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191789,
+        "num": 191789,
+        "word": "刘维携新歌正式回归",
+        "onboard_time": 1693451019,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190052,
+        "num": 190052,
+        "word": "中国男篮三连败",
+        "onboard_time": 1693405005,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187228,
+        "num": 187228,
+        "word": "男子断指满手血万幸遇到出警民警",
+        "onboard_time": 1693451616,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177960,
+        "num": 177960,
+        "word": "魏哲鸣27岁演艺圈再就业",
+        "onboard_time": 1693443696,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161859,
+        "num": 161859,
+        "word": "初音未来最受欢迎曲目排名",
+        "onboard_time": 1693450536,
+        "rank": 44,
+        "category": "音乐,动漫"
+      },
+      {
+        "raw_hot": 160879,
+        "num": 160879,
+        "word": "电影困兽定档",
+        "onboard_time": 1693448255,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156373,
+        "num": 156373,
+        "word": "小夭 我从小就没有老公",
+        "onboard_time": 1693441176,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153482,
+        "num": 153482,
+        "word": "中元节是中国人自己的寻梦环游记",
+        "onboard_time": 1693442858,
+        "rank": 47,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 152811,
+        "num": 152811,
+        "word": "6岁男孩在牛棚玩耍被公牛顶撞离世",
+        "onboard_time": 1693451797,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146385,
+        "num": 146385,
+        "word": "蔡国庆精神状态领先我几十年",
+        "onboard_time": 1693444176,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席南非之行纪实#"
+    }
+  }
+}
