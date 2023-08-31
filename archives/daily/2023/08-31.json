@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693474454359,
+  "endTime": 1693477077324,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -51,6 +51,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 3026908,
+      "num": 3026908,
+      "word": "税务总局称会对宋祖儿开展税务稽查",
+      "onboard_time": 1693473159,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2801207,
       "num": 2801207,
       "word": "原来久坐人会变丑是真的",
@@ -65,14 +73,6 @@
       "onboard_time": 1693410096,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2402911,
-      "num": 2402911,
-      "word": "税务总局称会对宋祖儿开展税务稽查",
-      "onboard_time": 1693473159,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 2186019,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1976706,
+      "num": 1976706,
+      "word": "蔡老板被封号",
+      "onboard_time": 1693472678,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1763255,
       "num": 1061810,
       "word": "喜天声明",
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1572877,
-      "num": 1572877,
-      "word": "蔡老板被封号",
-      "onboard_time": 1693472678,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1485400,
       "num": 1485400,
       "word": "用华为手机给美国商务部长拍照",
       "onboard_time": 1693407220,
       "rank": 1,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1323756,
+      "num": 1323756,
+      "word": "在中医院喝到了中药奶茶",
+      "onboard_time": 1693473339,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 1235856,
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 997898,
+      "num": 971278,
+      "word": "男子钓中1条鲅鱼身上卡着金镯子",
+      "onboard_time": 1693475381,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994962,
       "num": 994962,
       "word": "刘宇郑乃馨苍兰诀剧照",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 966538,
-      "num": 966538,
+      "num": 1900632,
       "word": "女生每天只吃15元省下的全买书",
       "onboard_time": 1693448852,
       "rank": 36,
@@ -307,12 +323,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 763211,
+      "num": 729226,
+      "word": "偷税和漏税有何区别",
+      "onboard_time": 1693473459,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 760074,
+      "num": 760074,
+      "word": "中国男篮vs安哥拉男篮",
+      "onboard_time": 1693469922,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 731011,
       "num": 731011,
       "word": "玉壶 这么大个柜子只住两个人",
       "onboard_time": 1693449575,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 730307,
+      "num": 730307,
+      "word": "内娱银发漫撕男",
+      "onboard_time": 1693471362,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 727627,
@@ -387,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 650497,
-      "num": 378267,
-      "word": "内娱银发漫撕男",
-      "onboard_time": 1693471362,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 648705,
       "num": 648705,
       "word": "金智秀将出演新剧流感",
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 636365,
-      "num": 375930,
+      "num": 449187,
       "word": "腾讯爱奇艺卷起来了",
       "onboard_time": 1693471362,
       "rank": 21,
@@ -441,6 +473,22 @@
       "onboard_time": 1693395756,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619076,
+      "num": 963328,
+      "word": "江歌妈妈诉网暴者案二审维持原判",
+      "onboard_time": 1693473584,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614858,
+      "num": 958734,
+      "word": "个税专项附加扣除标准最新调整",
+      "onboard_time": 1693474001,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 596252,
@@ -460,7 +508,7 @@
     },
     {
       "raw_hot": 590872,
-      "num": 590872,
+      "num": 1472908,
       "word": "公交车连续2年为她多等一分钟",
       "onboard_time": 1693462180,
       "rank": 34,
@@ -531,14 +579,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 548932,
-      "num": 548932,
-      "word": "江歌妈妈诉网暴者案二审维持原判",
-      "onboard_time": 1693473584,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543443,
       "num": 543443,
       "word": "小夭 我从小就没有老公",
@@ -547,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 538754,
-      "num": 390552,
-      "word": "偷税和漏税有何区别",
-      "onboard_time": 1693473459,
-      "rank": 18,
-      "category": "财经,社会新闻"
+      "raw_hot": 533030,
+      "num": 533030,
+      "word": "胡金秋好用",
+      "onboard_time": 1693472560,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 531805,
@@ -569,14 +609,6 @@
       "onboard_time": 1693438770,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528320,
-      "num": 291078,
-      "word": "在中医院喝到了中药奶茶",
-      "onboard_time": 1693473339,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 527181,
@@ -619,14 +651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 510996,
-      "num": 510996,
-      "word": "中国男篮vs安哥拉男篮",
-      "onboard_time": 1693469922,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 503650,
       "num": 503650,
       "word": "起猛了在重庆看到百鬼夜行了",
@@ -659,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474357,
+      "num": 474357,
+      "word": "中国男篮首胜",
+      "onboard_time": 1693476819,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 467394,
       "num": 467394,
       "word": "A股",
@@ -681,6 +713,14 @@
       "onboard_time": 1693459544,
       "rank": 41,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 459941,
+      "num": 459941,
+      "word": "国防部辟谣093核潜艇在台海发生意外",
+      "onboard_time": 1693474180,
+      "rank": 38,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 457742,
@@ -811,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390849,
+      "num": 390849,
+      "word": "五月天西安抢票",
+      "onboard_time": 1693476519,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384396,
       "num": 384396,
       "word": "田曦薇李玉湖的十大美德",
@@ -875,20 +923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362105,
+      "num": 2180075,
+      "word": "山东女子学院女性学专业首迎男同学",
+      "onboard_time": 1693466323,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 360458,
       "num": 360458,
       "word": "小夭 我才是我续命的香",
       "onboard_time": 1693404523,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359292,
-      "num": 359292,
-      "word": "胡金秋好用",
-      "onboard_time": 1693472560,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 359097,
@@ -905,6 +953,14 @@
       "onboard_time": 1693471119,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355416,
+      "num": 355416,
+      "word": "马丽对赵露思说做自己就好",
+      "onboard_time": 1693475741,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 350591,
@@ -945,6 +1001,14 @@
       "onboard_time": 1693452820,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328229,
+      "num": 328229,
+      "word": "易梦玲穿旗袍跳舞",
+      "onboard_time": 1693473584,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325985,
@@ -1025,14 +1089,6 @@
       "onboard_time": 1693464100,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300577,
-      "num": 300577,
-      "word": "易梦玲穿旗袍跳舞",
-      "onboard_time": 1693473584,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 300075,
@@ -1251,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253328,
-      "num": 253328,
-      "word": "山东女子学院女性学专业首迎男同学",
-      "onboard_time": 1693466323,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 252428,
       "num": 252428,
       "word": "战神与高岭之花女主",
@@ -1315,12 +1363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245308,
-      "num": 245308,
-      "word": "国防部辟谣093核潜艇在台海发生意外",
-      "onboard_time": 1693474180,
-      "rank": 38,
-      "category": "军事,国内要闻"
+      "raw_hot": 245629,
+      "num": 245629,
+      "word": "莲花楼后劲真的好强",
+      "onboard_time": 1693476760,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 244165,
@@ -1369,6 +1417,14 @@
       "onboard_time": 1693463142,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236928,
+      "num": 236928,
+      "word": "王鹤棣剑舞",
+      "onboard_time": 1693475623,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 235891,
@@ -1452,7 +1508,7 @@
     },
     {
       "raw_hot": 223731,
-      "num": 1972112,
+      "num": 2057787,
       "word": "这些重要新规9月起施行",
       "onboard_time": 1693447537,
       "rank": 32,
@@ -1465,6 +1521,14 @@
       "onboard_time": 1693407880,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220942,
+      "num": 220942,
+      "word": "拿到第一个月工资时",
+      "onboard_time": 1693476459,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 220695,
@@ -1585,14 +1649,6 @@
       "onboard_time": 1693438831,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207189,
-      "num": 207189,
-      "word": "个税专项附加扣除标准最新调整",
-      "onboard_time": 1693474001,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 206928,
@@ -1803,12 +1859,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174750,
+      "num": 174750,
+      "word": "小辣把水果化在脸上",
+      "onboard_time": 1693475741,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 169925,
       "num": 169925,
       "word": "亲爱的隐居先生开播",
       "onboard_time": 1693457575,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167772,
+      "num": 167772,
+      "word": "大一开学新四件套",
+      "onboard_time": 1693475623,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 167116,
@@ -2113,6 +2185,14 @@
       "onboard_time": 1693420217,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 34853,
+      "num": 953512,
+      "word": "25岁退伍军人跳海救轻生女",
+      "onboard_time": 1693476102,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31491,
