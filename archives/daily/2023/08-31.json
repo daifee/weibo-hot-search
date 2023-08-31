@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693485147280,
+  "endTime": 1693486121086,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -187,20 +187,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1380734,
+      "num": 1380734,
+      "word": "上错花轿嫁对郎再火的唯一受害者",
+      "onboard_time": 1693479996,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1235856,
       "num": 1235856,
       "word": "行政处罚书还原孙菲菲被打事件",
       "onboard_time": 1693401401,
       "rank": 12,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1215996,
-      "num": 1215996,
-      "word": "上错花轿嫁对郎再火的唯一受害者",
-      "onboard_time": 1693479996,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 1107951,
@@ -867,6 +867,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 429639,
+      "num": 398797,
+      "word": "美特斯邦威为什么凉了",
+      "onboard_time": 1693483056,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 424670,
       "num": 356200,
       "word": "不缴五险一金有何后果",
@@ -929,14 +937,6 @@
       "onboard_time": 1693453666,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 398797,
-      "num": 398797,
-      "word": "美特斯邦威为什么凉了",
-      "onboard_time": 1693483056,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 397717,
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357778,
+      "num": 357778,
+      "word": "年轻是该享受还是玩命挣钱",
+      "onboard_time": 1693483835,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357713,
       "num": 357713,
       "word": "角丽谯来了全娶了",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1693452938,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 348530,
+      "num": 360868,
+      "word": "首套房贷款最低首付比例不低于20%",
+      "onboard_time": 1693485453,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 339272,
@@ -1147,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327015,
+      "num": 327015,
+      "word": "暧昧的保质期有多久",
+      "onboard_time": 1693483478,
+      "rank": 27,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 325985,
       "num": 325985,
       "word": "美国商务部长称持乐观态度离开中国",
@@ -1160,6 +1184,14 @@
       "word": "男朋友叠的被子",
       "onboard_time": 1693471964,
       "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 322091,
+      "num": 322091,
+      "word": "到底是什么人在写这种小说",
+      "onboard_time": 1693484555,
+      "rank": 34,
       "category": "幽默,情感"
     },
     {
@@ -1225,14 +1257,6 @@
       "onboard_time": 1693464100,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305265,
-      "num": 305265,
-      "word": "年轻是该享受还是玩命挣钱",
-      "onboard_time": 1693483835,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 300075,
@@ -1443,14 +1467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265184,
-      "num": 265184,
-      "word": "暧昧的保质期有多久",
-      "onboard_time": 1693483478,
-      "rank": 27,
-      "category": "情感,影视"
-    },
-    {
       "raw_hot": 260989,
       "num": 260989,
       "word": "恩佐首球",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1693412492,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254364,
+      "num": 254364,
+      "word": "张杰外南街1982签售会",
+      "onboard_time": 1693485279,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 253668,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1693479037,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215281,
-      "num": 215281,
-      "word": "到底是什么人在写这种小说",
-      "onboard_time": 1693484555,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 214574,
@@ -2075,6 +2091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 184191,
+      "num": 184191,
+      "word": "十个勤天直播",
+      "onboard_time": 1693484795,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182812,
       "num": 182812,
       "word": "2023进度条",
@@ -2115,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175065,
+      "num": 175065,
+      "word": "姬发城头极速酷跑",
+      "onboard_time": 1693485160,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174750,
       "num": 174750,
       "word": "小辣把水果化在脸上",
@@ -2137,14 +2169,6 @@
       "onboard_time": 1693480057,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172036,
-      "num": 172036,
-      "word": "十个勤天直播",
-      "onboard_time": 1693484795,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 169925,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1693395394,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143298,
+      "num": 143298,
+      "word": "封神现代篇",
+      "onboard_time": 1693485995,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 142402,
@@ -2411,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81660,
+      "num": 456830,
+      "word": "关注学生开学焦虑或因被霸凌",
+      "onboard_time": 1693473636,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 76539,
       "num": 76539,
       "word": "这和躺在吴磊怀里有什么区别",
@@ -2449,14 +2489,6 @@
       "onboard_time": 1693468839,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66173,
-      "num": 456830,
-      "word": "关注学生开学焦虑或因被霸凌",
-      "onboard_time": 1693473636,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 65393,
