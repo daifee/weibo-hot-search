@@ -1,0 +1,410 @@
+{
+  "runTime": 1693488903813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2186910,
+        "num": 2186910,
+        "word": "首套房贷款最低首付比例不低于20%",
+        "onboard_time": 1693485453,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1204179,
+        "num": 1204179,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31113,
+        "num": 1077841,
+        "word": "中国人的大飞机梦穿越53个春秋",
+        "onboard_time": 1693470460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303889,
+        "num": 1069490,
+        "word": "税务总局称会对宋祖儿开展税务稽查",
+        "onboard_time": 1693473159,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038037,
+        "num": 1038037,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 969803,
+        "num": 969803,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 869074,
+        "num": 869074,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 698518,
+        "num": 698518,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 662382,
+        "num": 662382,
+        "word": "降存量首套房贷利率",
+        "onboard_time": 1693486478,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 600257,
+        "num": 600257,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293557,
+        "num": 587296,
+        "word": "王源明天飞美国",
+        "onboard_time": 1693478439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1207928,
+        "num": 580246,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810286,
+        "num": 558112,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800343,
+        "num": 549471,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180897,
+        "num": 526448,
+        "word": "男子捡手机疯狂转账民警从浙追到鄂",
+        "onboard_time": 1693486838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521911,
+        "num": 521911,
+        "word": "日本男篮vs委内瑞拉男篮",
+        "onboard_time": 1693486416,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489494,
+        "num": 489494,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488777,
+        "num": 488777,
+        "word": "超级蓝月",
+        "onboard_time": 1693485518,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424477,
+        "num": 424477,
+        "word": "他和她的猫开播",
+        "onboard_time": 1693480656,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420339,
+        "num": 420339,
+        "word": "在中医院喝到了中药奶茶",
+        "onboard_time": 1693473339,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419572,
+        "num": 419572,
+        "word": "骄阳伴我央视频追剧日历",
+        "onboard_time": 1693487316,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391502,
+        "num": 391502,
+        "word": "男子钓中1条鲅鱼身上卡着金镯子",
+        "onboard_time": 1693475381,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365230,
+        "num": 365230,
+        "word": "孤注一掷进入2023年票房榜前三",
+        "onboard_time": 1693487255,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338559,
+        "num": 338559,
+        "word": "美特斯邦威为什么凉了",
+        "onboard_time": 1693483056,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328222,
+        "num": 328222,
+        "word": "日本男篮战胜委内瑞拉男篮",
+        "onboard_time": 1693487378,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293688,
+        "num": 293688,
+        "word": "到底是什么人在写这种小说",
+        "onboard_time": 1693484555,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 274298,
+        "num": 274298,
+        "word": "腾讯爱奇艺卷起来了",
+        "onboard_time": 1693471362,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246550,
+        "num": 246550,
+        "word": "原来拉伸真的很重要",
+        "onboard_time": 1693476760,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245545,
+        "num": 245545,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693479814,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239495,
+        "num": 239495,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228896,
+        "num": 228896,
+        "word": "偷税和漏税有何区别",
+        "onboard_time": 1693473459,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 218233,
+        "num": 218233,
+        "word": "张杰外南街1982签售会",
+        "onboard_time": 1693485279,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210878,
+        "num": 210878,
+        "word": "iQOO发布会",
+        "onboard_time": 1693488639,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210703,
+        "num": 210703,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208729,
+        "num": 208729,
+        "word": "暧昧的保质期有多久",
+        "onboard_time": 1693483478,
+        "rank": 34,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 207794,
+        "num": 207794,
+        "word": "杨紫谈演员职业素养和行为规范",
+        "onboard_time": 1693488761,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205230,
+        "num": 205230,
+        "word": "檀健次科目一舞台",
+        "onboard_time": 1693477119,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201265,
+        "num": 201265,
+        "word": "住房信贷政策官方最新解读",
+        "onboard_time": 1693487559,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200501,
+        "num": 200501,
+        "word": "奥本海默 悲悯和人性挣扎",
+        "onboard_time": 1693488639,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199455,
+        "num": 199455,
+        "word": "黄子弘凡重新定义非酋",
+        "onboard_time": 1693488337,
+        "rank": 39,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 197562,
+        "num": 197562,
+        "word": "美国商务部长乘中国高铁让美媒纠结",
+        "onboard_time": 1693488216,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193052,
+        "num": 193052,
+        "word": "张拿铁训斥奶奶不吃饭就下桌",
+        "onboard_time": 1693480656,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190356,
+        "num": 190356,
+        "word": "陕西一医院规定男55岁女44岁不续聘",
+        "onboard_time": 1693488761,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190069,
+        "num": 190069,
+        "word": "九月各星座注意事项",
+        "onboard_time": 1693488761,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178912,
+        "num": 178912,
+        "word": "马丽对赵露思说做自己就好",
+        "onboard_time": 1693475741,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174903,
+        "num": 174903,
+        "word": "装腔启示录",
+        "onboard_time": 1693484376,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173599,
+        "num": 173599,
+        "word": "年轻是该享受还是玩命挣钱",
+        "onboard_time": 1693483835,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172874,
+        "num": 172874,
+        "word": "张韶涵 我在扬州没空想你",
+        "onboard_time": 1693478257,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172550,
+        "num": 172550,
+        "word": "台风苏拉趋向广东海面",
+        "onboard_time": 1693480115,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169783,
+        "num": 169783,
+        "word": "中国男篮首胜",
+        "onboard_time": 1693476819,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693488025820,
+  "endTime": 1693488903813,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1549249,
-      "num": 550411,
+      "num": 587296,
       "word": "王源明天飞美国",
       "onboard_time": 1693478439,
       "rank": 20,
@@ -259,8 +259,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1032907,
-      "num": 1032907,
+      "raw_hot": 1038037,
+      "num": 1038037,
       "word": "虞书欣点了东北黏糊麻辣烫",
       "onboard_time": 1693486115,
       "rank": 4,
@@ -321,6 +321,14 @@
       "onboard_time": 1693454029,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 869074,
+      "num": 869074,
+      "word": "奥本海默",
+      "onboard_time": 1693482156,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 866264,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698518,
+      "num": 698518,
+      "word": "华为Mate60Pro+",
+      "onboard_time": 1693487679,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 698116,
       "num": 493497,
       "word": "张颂文评价檀健次孙阳",
@@ -467,14 +483,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 667880,
-      "num": 667880,
-      "word": "奥本海默",
-      "onboard_time": 1693482156,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 665774,
       "num": 665774,
       "word": "杨丞琳说马伯骞真的很在意杨汝晴",
@@ -483,8 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 658690,
-      "num": 658690,
+      "raw_hot": 662382,
+      "num": 662382,
       "word": "降存量首套房贷利率",
       "onboard_time": 1693486478,
       "rank": 6,
@@ -923,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419572,
+      "num": 419572,
+      "word": "骄阳伴我央视频追剧日历",
+      "onboard_time": 1693487316,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415027,
       "num": 398843,
       "word": "杭州有人冒雨赶在利率下调前存1000多万",
@@ -1067,6 +1083,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 365230,
+      "num": 365230,
+      "word": "孤注一掷进入2023年票房榜前三",
+      "onboard_time": 1693487255,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364413,
       "num": 624287,
       "word": "终于懂了一片冰心在玉壶",
@@ -1148,7 +1172,7 @@
     },
     {
       "raw_hot": 337443,
-      "num": 228842,
+      "num": 328222,
       "word": "日本男篮战胜委内瑞拉男篮",
       "onboard_time": 1693487378,
       "rank": 30,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1693443339,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275767,
-      "num": 275767,
-      "word": "孤注一掷进入2023年票房榜前三",
-      "onboard_time": 1693487255,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 273770,
@@ -1851,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210878,
+      "num": 210878,
+      "word": "iQOO发布会",
+      "onboard_time": 1693488639,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 210275,
       "num": 210275,
       "word": "可能出现三台风局面",
@@ -1891,14 +1915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209366,
-      "num": 209366,
-      "word": "华为Mate60Pro+",
-      "onboard_time": 1693487679,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 208813,
       "num": 208813,
       "word": "见过蛏子怎么飞吗",
@@ -1920,6 +1936,14 @@
       "word": "朱志鑫赶完了政史作业",
       "onboard_time": 1693439974,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207794,
+      "num": 207794,
+      "word": "杨紫谈演员职业素养和行为规范",
+      "onboard_time": 1693488761,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1979,20 +2003,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205117,
-      "num": 205117,
-      "word": "骄阳伴我央视频追剧日历",
-      "onboard_time": 1693487316,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203638,
       "num": 203638,
       "word": "能同时兼顾追星和工作的人",
       "onboard_time": 1693452280,
       "rank": 37,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 201265,
+      "num": 201265,
+      "word": "住房信贷政策官方最新解读",
+      "onboard_time": 1693487559,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 200846,
@@ -2003,12 +2027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200501,
+      "num": 200501,
+      "word": "奥本海默 悲悯和人性挣扎",
+      "onboard_time": 1693488639,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199478,
       "num": 158647,
       "word": "越晚精神越好",
       "onboard_time": 1693412731,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199455,
+      "num": 199455,
+      "word": "黄子弘凡重新定义非酋",
+      "onboard_time": 1693488337,
+      "rank": 39,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 199417,
@@ -2041,6 +2081,14 @@
       "onboard_time": 1693484495,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197562,
+      "num": 197562,
+      "word": "美国商务部长乘中国高铁让美媒纠结",
+      "onboard_time": 1693488216,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197387,
@@ -2123,12 +2171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190356,
+      "num": 190356,
+      "word": "陕西一医院规定男55岁女44岁不续聘",
+      "onboard_time": 1693488761,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190206,
       "num": 190206,
       "word": "许知远对费翔讲话为什么会这样",
       "onboard_time": 1693473820,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190069,
+      "num": 190069,
+      "word": "九月各星座注意事项",
+      "onboard_time": 1693488761,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 189103,
@@ -2185,6 +2249,14 @@
       "onboard_time": 1693473698,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 180897,
+      "num": 526448,
+      "word": "男子捡手机疯狂转账民警从浙追到鄂",
+      "onboard_time": 1693486838,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178442,
@@ -2265,14 +2337,6 @@
       "onboard_time": 1693475623,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 167767,
-      "num": 167767,
-      "word": "住房信贷政策官方最新解读",
-      "onboard_time": 1693487559,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 167116,
@@ -2491,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94618,
-      "num": 491140,
-      "word": "男子捡手机疯狂转账民警从浙追到鄂",
-      "onboard_time": 1693486838,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93919,
       "num": 283956,
       "word": "原来这就是中国情义",
@@ -2651,20 +2707,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 31113,
+      "num": 1110751,
+      "word": "中国人的大飞机梦穿越53个春秋",
+      "onboard_time": 1693470460,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25985,
       "num": 28298,
       "word": "上官花卷和心率一样稳",
       "onboard_time": 1693422255,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24804,
-      "num": 1110751,
-      "word": "中国人的大飞机梦穿越53个春秋",
-      "onboard_time": 1693470460,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17755,
