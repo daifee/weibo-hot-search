@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693523800533,
+  "endTime": 1693524839006,
   "band_list": [
     {
       "raw_hot": 2643469,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922284,
+      "num": 259567,
+      "word": "女大学生被对面卧铺大叔多角度偷拍",
+      "onboard_time": 1693508894,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 907735,
       "num": 394883,
       "word": "宋祖儿",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 800854,
-      "num": 214227,
-      "word": "女大学生被对面卧铺大叔多角度偷拍",
-      "onboard_time": 1693508894,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 744763,
+      "num": 744763,
+      "word": "首套房贷款最低首付比例不低于20%",
+      "onboard_time": 1693485453,
+      "rank": 5,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 720877,
@@ -65,14 +73,6 @@
       "onboard_time": 1693491639,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 700437,
-      "num": 700437,
-      "word": "首套房贷款最低首付比例不低于20%",
-      "onboard_time": 1693485453,
-      "rank": 5,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 653018,
@@ -155,8 +155,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 337072,
-      "num": 337072,
+      "raw_hot": 415346,
+      "num": 256294,
+      "word": "演员就该于适这样啊",
+      "onboard_time": 1693523125,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378206,
+      "num": 378206,
       "word": "陕西一医院规定男55岁女44岁不续聘",
       "onboard_time": 1693488761,
       "rank": 41,
@@ -171,12 +179,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 308313,
-      "num": 190261,
-      "word": "演员就该于适这样啊",
-      "onboard_time": 1693523125,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 321366,
+      "num": 250883,
+      "word": "欧冠死亡之组",
+      "onboard_time": 1693523426,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 309415,
+      "num": 309415,
+      "word": "美特斯邦威为什么凉了",
+      "onboard_time": 1693483056,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 288802,
@@ -195,12 +211,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 276886,
-      "num": 276886,
-      "word": "美特斯邦威为什么凉了",
-      "onboard_time": 1693483056,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 273285,
+      "num": 229390,
+      "word": "缅北电诈头目姐夫等225人被抓",
+      "onboard_time": 1693504759,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272215,
@@ -211,8 +227,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260504,
-      "num": 260504,
+      "raw_hot": 261686,
+      "num": 261686,
       "word": "美国商务部长乘中国高铁让美媒纠结",
       "onboard_time": 1693488216,
       "rank": 17,
@@ -243,11 +259,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245417,
-      "num": 163996,
-      "word": "缅北电诈头目姐夫等225人被抓",
-      "onboard_time": 1693504759,
-      "rank": 21,
+      "raw_hot": 248859,
+      "num": 248859,
+      "word": "迎击台风苏拉",
+      "onboard_time": 1693523784,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -275,6 +291,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220960,
+      "num": 220960,
+      "word": "你还在开空调吗",
+      "onboard_time": 1693523064,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209498,
+      "num": 209498,
+      "word": "开学",
+      "onboard_time": 1693524208,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 203397,
+      "num": 253830,
+      "word": "9月第一天",
+      "onboard_time": 1693523967,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195012,
       "num": 195012,
       "word": "捡了东西的狼",
@@ -291,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190835,
+      "num": 190835,
+      "word": "台风苏拉趋向广东海面",
+      "onboard_time": 1693480115,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182790,
       "num": 182790,
       "word": "遥遥领先",
@@ -299,11 +347,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 181936,
-      "num": 181936,
-      "word": "台风苏拉趋向广东海面",
-      "onboard_time": 1693480115,
-      "rank": 33,
+      "raw_hot": 177048,
+      "num": 177048,
+      "word": "男子离婚两月后发现2岁儿子非亲生",
+      "onboard_time": 1693491698,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -315,12 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169301,
-      "num": 169301,
-      "word": "男子离婚两月后发现2岁儿子非亲生",
-      "onboard_time": 1693491698,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 167666,
+      "num": 167666,
+      "word": "声生不息港乐季2拟邀阵容",
+      "onboard_time": 1693524510,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 163403,
@@ -355,6 +403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148559,
+      "num": 148559,
+      "word": "张拿铁训斥奶奶不吃饭就下桌",
+      "onboard_time": 1693480656,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 148157,
+      "num": 148157,
+      "word": "火树直播像在上网课",
+      "onboard_time": 1693524326,
+      "rank": 33,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 146373,
       "num": 146373,
       "word": "康辉 如何活出自己喜欢的样子",
@@ -387,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135192,
+      "num": 135192,
+      "word": "张韶涵 我在扬州没空想你",
+      "onboard_time": 1693478257,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134287,
       "num": 134287,
       "word": "蒋依依敖子逸好嗑",
@@ -395,36 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128240,
-      "num": 128240,
-      "word": "张韶涵 我在扬州没空想你",
-      "onboard_time": 1693478257,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127151,
-      "num": 121903,
-      "word": "欧冠死亡之组",
-      "onboard_time": 1693523426,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124379,
       "num": 124379,
       "word": "他和她的猫开播",
       "onboard_time": 1693480656,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124115,
-      "num": 124115,
-      "word": "张拿铁训斥奶奶不吃饭就下桌",
-      "onboard_time": 1693480656,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 124043,
@@ -451,14 +499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113890,
-      "num": 113890,
-      "word": "你还在开空调吗",
-      "onboard_time": 1693523064,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112144,
       "num": 112144,
       "word": "中国文物逃出大英博物馆幕后故事",
@@ -475,12 +515,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 98016,
-      "num": 98016,
+      "raw_hot": 100671,
+      "num": 100671,
       "word": "人在什么情况下会情绪稳定",
       "onboard_time": 1693505538,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 98887,
+      "num": 98887,
+      "word": "KSG战胜DRG",
+      "onboard_time": 1693523848,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 91486,
+      "num": 91486,
+      "word": "骄阳伴我央视频追剧日历",
+      "onboard_time": 1693487316,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 88282,
@@ -521,14 +577,6 @@
       "onboard_time": 1693502901,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 66161,
-      "num": 66161,
-      "word": "迎击台风苏拉",
-      "onboard_time": 1693523784,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53327,
@@ -603,7 +651,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26052,
+      "raw_hot": 29187,
       "num": 659011,
       "word": "砺志逐梦正当时",
       "onboard_time": 1693493739,
