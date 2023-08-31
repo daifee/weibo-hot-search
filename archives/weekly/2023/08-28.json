@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693499873616,
+  "endTime": 1693502120844,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1693138175,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1151262,
+      "num": 1151262,
+      "word": "墨菲定律",
+      "onboard_time": 1693498533,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 1146343,
@@ -3121,14 +3129,6 @@
       "onboard_time": 1693212942,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513389,
-      "num": 513389,
-      "word": "墨菲定律",
-      "onboard_time": 1693498533,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 511772,
@@ -6075,6 +6075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 288802,
+      "num": 288802,
+      "word": "欧冠32强全部出炉",
+      "onboard_time": 1693497995,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288556,
       "num": 279850,
       "word": "时代少年团躺着真舒服舞台",
@@ -7153,14 +7161,6 @@
       "onboard_time": 1693357178,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 245074,
-      "num": 245074,
-      "word": "欧冠32强全部出炉",
-      "onboard_time": 1693497995,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 244969,
@@ -10483,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95990,
+      "num": 95990,
+      "word": "广东一比一复刻故宫",
+      "onboard_time": 1693501284,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 95136,
       "num": 556513,
       "word": "收暑假作业现场一边赶工一边验收",
@@ -10529,6 +10537,14 @@
       "onboard_time": 1693415962,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 86701,
+      "num": 86701,
+      "word": "毛不易说在台上做i人沉默震耳欲聋",
+      "onboard_time": 1693500149,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 85287,
@@ -10777,6 +10793,14 @@
       "onboard_time": 1693170733,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 59471,
+      "num": 59471,
+      "word": "难道这就是恋爱脑",
+      "onboard_time": 1693502064,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 55487,

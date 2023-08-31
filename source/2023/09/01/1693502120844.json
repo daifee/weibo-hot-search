@@ -1,0 +1,410 @@
+{
+  "runTime": 1693502120844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151262,
+        "num": 1151262,
+        "word": "墨菲定律",
+        "onboard_time": 1693498533,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483759,
+        "num": 483759,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13869,
+        "num": 434748,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412532,
+        "num": 412532,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301774,
+        "num": 301774,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297356,
+        "num": 297356,
+        "word": "首套房贷款最低首付比例不低于20%",
+        "onboard_time": 1693485453,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 288802,
+        "num": 288802,
+        "word": "欧冠32强全部出炉",
+        "onboard_time": 1693497995,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285707,
+        "num": 285707,
+        "word": "iPhone15系列爆料",
+        "onboard_time": 1693491639,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 258465,
+        "num": 258465,
+        "word": "九月各星座注意事项",
+        "onboard_time": 1693488761,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211052,
+        "num": 211052,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1948364,
+        "num": 210293,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510723,
+        "num": 209637,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356020,
+        "num": 208457,
+        "word": "被医院判死刑的孩子",
+        "onboard_time": 1693491760,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 323526,
+        "num": 207970,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242164,
+        "num": 206530,
+        "word": "赵露思把自己穿身上",
+        "onboard_time": 1693494103,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240643,
+        "num": 206412,
+        "word": "王源明天飞美国",
+        "onboard_time": 1693478439,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205599,
+        "num": 205599,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148948,
+        "num": 148948,
+        "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
+        "onboard_time": 1693494760,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136425,
+        "num": 136425,
+        "word": "美国商务部长乘中国高铁让美媒纠结",
+        "onboard_time": 1693488216,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121826,
+        "num": 136364,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491321,
+        "num": 136272,
+        "word": "断缴社保的年轻人都是怎么想的",
+        "onboard_time": 1693495481,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182933,
+        "num": 136053,
+        "word": "男朋友以为是造型拍了下来",
+        "onboard_time": 1693490680,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157346,
+        "num": 136048,
+        "word": "第一次不想让男女主谈恋爱",
+        "onboard_time": 1693491819,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135925,
+        "num": 135925,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145117,
+        "num": 133826,
+        "word": "蔡文静韩东君浴室吻",
+        "onboard_time": 1693496854,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140173,
+        "num": 131304,
+        "word": "美特斯邦威为什么凉了",
+        "onboard_time": 1693483056,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127305,
+        "num": 127305,
+        "word": "台风苏拉趋向广东海面",
+        "onboard_time": 1693480115,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119755,
+        "num": 119755,
+        "word": "为什么一紧张会有鸡皮疙瘩",
+        "onboard_time": 1693496560,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114547,
+        "num": 114547,
+        "word": "陕西一医院规定男55岁女44岁不续聘",
+        "onboard_time": 1693488761,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114216,
+        "num": 114216,
+        "word": "DRG夏季赛淘汰",
+        "onboard_time": 1693495898,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349454,
+        "num": 113714,
+        "word": "国防部回应何时解决台湾问题",
+        "onboard_time": 1693496199,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113085,
+        "num": 113085,
+        "word": "YG新女团或将亮相BLACKPINK演唱会",
+        "onboard_time": 1693495179,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112805,
+        "num": 112805,
+        "word": "娇兰 封神质子团",
+        "onboard_time": 1693492179,
+        "rank": 32,
+        "category": "美妆,影视"
+      },
+      {
+        "raw_hot": 110677,
+        "num": 110677,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110011,
+        "num": 110011,
+        "word": "男子离婚两月后发现2岁儿子非亲生",
+        "onboard_time": 1693491698,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101485,
+        "num": 101485,
+        "word": "孤注一掷进入2023年票房榜前三",
+        "onboard_time": 1693487255,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100672,
+        "num": 100672,
+        "word": "他和她的猫开播",
+        "onboard_time": 1693480656,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99310,
+        "num": 99310,
+        "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+        "onboard_time": 1693493259,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 95990,
+        "num": 95990,
+        "word": "广东一比一复刻故宫",
+        "onboard_time": 1693501284,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 88452,
+        "num": 88452,
+        "word": "原来拉伸真的很重要",
+        "onboard_time": 1693476760,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86701,
+        "num": 86701,
+        "word": "毛不易说在台上做i人沉默震耳欲聋",
+        "onboard_time": 1693500149,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77561,
+        "num": 77561,
+        "word": "男子钓中1条鲅鱼身上卡着金镯子",
+        "onboard_time": 1693475381,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75167,
+        "num": 75167,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72781,
+        "num": 72781,
+        "word": "逃出大英博物馆第二集开播",
+        "onboard_time": 1693477299,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69595,
+        "num": 69595,
+        "word": "张韶涵 我在扬州没空想你",
+        "onboard_time": 1693478257,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66757,
+        "num": 66757,
+        "word": "捡了东西的狼",
+        "onboard_time": 1693494399,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65434,
+        "num": 65434,
+        "word": "张拿铁训斥奶奶不吃饭就下桌",
+        "onboard_time": 1693480656,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61494,
+        "num": 61494,
+        "word": "灯塔2023暑期档剧集榜单",
+        "onboard_time": 1693498832,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59471,
+        "num": 59471,
+        "word": "难道这就是恋爱脑",
+        "onboard_time": 1693502064,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59085,
+        "num": 59085,
+        "word": "蒋依依敖子逸好嗑",
+        "onboard_time": 1693493562,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}
