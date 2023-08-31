@@ -1,0 +1,410 @@
+{
+  "runTime": 1693499873616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 834445,
+        "num": 834445,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593401,
+        "num": 593401,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17444,
+        "num": 575650,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708806,
+        "num": 569701,
+        "word": "被医院判死刑的孩子",
+        "onboard_time": 1693491760,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 560906,
+        "num": 560906,
+        "word": "iPhone15系列爆料",
+        "onboard_time": 1693491639,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 513389,
+        "num": 513389,
+        "word": "墨菲定律",
+        "onboard_time": 1693498533,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453471,
+        "num": 453471,
+        "word": "首套房贷款最低首付比例不低于20%",
+        "onboard_time": 1693485453,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 445301,
+        "num": 445301,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 401770,
+        "num": 401770,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 371452,
+        "num": 371452,
+        "word": "九月各星座注意事项",
+        "onboard_time": 1693488761,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2643469,
+        "num": 370141,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899635,
+        "num": 368958,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489230,
+        "num": 366739,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423621,
+        "num": 362915,
+        "word": "赵露思把自己穿身上",
+        "onboard_time": 1693494103,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 362561,
+        "num": 362561,
+        "word": "王源明天飞美国",
+        "onboard_time": 1693478439,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339601,
+        "num": 339601,
+        "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
+        "onboard_time": 1693494760,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259557,
+        "num": 259557,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250924,
+        "num": 250924,
+        "word": "YG新女团或将亮相BLACKPINK演唱会",
+        "onboard_time": 1693495179,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245074,
+        "num": 245074,
+        "word": "欧冠32强全部出炉",
+        "onboard_time": 1693497995,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231137,
+        "num": 231137,
+        "word": "DRG夏季赛淘汰",
+        "onboard_time": 1693495898,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 800843,
+        "num": 230421,
+        "word": "断缴社保的年轻人都是怎么想的",
+        "onboard_time": 1693495481,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293968,
+        "num": 229976,
+        "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+        "onboard_time": 1693493259,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 256195,
+        "num": 229402,
+        "word": "男朋友以为是造型拍了下来",
+        "onboard_time": 1693490680,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172367,
+        "num": 228361,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228200,
+        "num": 228200,
+        "word": "蔡文静韩东君浴室吻",
+        "onboard_time": 1693496854,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202146,
+        "num": 202146,
+        "word": "美国商务部长乘中国高铁让美媒纠结",
+        "onboard_time": 1693488216,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224187,
+        "num": 201920,
+        "word": "第一次不想让男女主谈恋爱",
+        "onboard_time": 1693491819,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199387,
+        "num": 199387,
+        "word": "娇兰 封神质子团",
+        "onboard_time": 1693492179,
+        "rank": 27,
+        "category": "美妆,影视"
+      },
+      {
+        "raw_hot": 192308,
+        "num": 192308,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182345,
+        "num": 182345,
+        "word": "为什么一紧张会有鸡皮疙瘩",
+        "onboard_time": 1693496560,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 529404,
+        "num": 181182,
+        "word": "国防部回应何时解决台湾问题",
+        "onboard_time": 1693496199,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 173680,
+        "num": 173680,
+        "word": "美特斯邦威为什么凉了",
+        "onboard_time": 1693483056,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172041,
+        "num": 172041,
+        "word": "台风苏拉趋向广东海面",
+        "onboard_time": 1693480115,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151012,
+        "num": 151012,
+        "word": "捡了东西的狼",
+        "onboard_time": 1693494399,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149930,
+        "num": 149930,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148230,
+        "num": 148230,
+        "word": "孤注一掷进入2023年票房榜前三",
+        "onboard_time": 1693487255,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138479,
+        "num": 138479,
+        "word": "陕西一医院规定男55岁女44岁不续聘",
+        "onboard_time": 1693488761,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136598,
+        "num": 136598,
+        "word": "男子离婚两月后发现2岁儿子非亲生",
+        "onboard_time": 1693491698,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136442,
+        "num": 136442,
+        "word": "原来拉伸真的很重要",
+        "onboard_time": 1693476760,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124379,
+        "num": 124379,
+        "word": "他和她的猫开播",
+        "onboard_time": 1693480656,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123555,
+        "num": 123555,
+        "word": "遥遥领先",
+        "onboard_time": 1693493081,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120485,
+        "num": 120485,
+        "word": "男子钓中1条鲅鱼身上卡着金镯子",
+        "onboard_time": 1693475381,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116287,
+        "num": 116287,
+        "word": "朱一龙新片入围多个国际电影节",
+        "onboard_time": 1693494521,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108157,
+        "num": 108157,
+        "word": "灯塔2023暑期档剧集榜单",
+        "onboard_time": 1693498832,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104894,
+        "num": 104894,
+        "word": "逃出大英博物馆第二集开播",
+        "onboard_time": 1693477299,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103026,
+        "num": 103026,
+        "word": "蒋依依敖子逸好嗑",
+        "onboard_time": 1693493562,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102400,
+        "num": 102400,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101280,
+        "num": 101280,
+        "word": "张韶涵 我在扬州没空想你",
+        "onboard_time": 1693478257,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91132,
+        "num": 101278,
+        "word": "降存量首套房贷利率",
+        "onboard_time": 1693486478,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 88282,
+        "num": 101275,
+        "word": "杨紫谈演员职业素养和行为规范",
+        "onboard_time": 1693488761,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励安徽省潜山野寨中学新考取军校的同学们#"
+    }
+  }
+}

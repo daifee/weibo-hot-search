@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693498916770,
+  "endTime": 1693499873616,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2643469,
+      "num": 407973,
+      "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+      "onboard_time": 1693497155,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2636670,
       "num": 2636670,
       "word": "中元节",
@@ -336,14 +344,6 @@
       "word": "小红书旅游搭子被指涉黄",
       "onboard_time": 1693362095,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2453526,
-      "num": 407973,
-      "word": "大学生酒后欲强暴女同学被宾馆老板制止",
-      "onboard_time": 1693497155,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3121,6 +3121,14 @@
       "onboard_time": 1693212942,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513389,
+      "num": 513389,
+      "word": "墨菲定律",
+      "onboard_time": 1693498533,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 511772,
@@ -7147,6 +7155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245074,
+      "num": 245074,
+      "word": "欧冠32强全部出炉",
+      "onboard_time": 1693497995,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244969,
       "num": 244969,
       "word": "Lisa托脸wink",
@@ -8691,14 +8707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198169,
-      "num": 198169,
-      "word": "欧冠32强全部出炉",
-      "onboard_time": 1693497995,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198084,
       "num": 180867,
       "word": "陈伟霆真的是人间清醒",
@@ -9361,14 +9369,6 @@
       "onboard_time": 1693389937,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 181095,
-      "num": 181095,
-      "word": "墨菲定律",
-      "onboard_time": 1693498533,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 180370,
@@ -11035,7 +11035,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16645,
+      "raw_hot": 17444,
       "num": 659011,
       "word": "砺志逐梦正当时",
       "onboard_time": 1693493739,
