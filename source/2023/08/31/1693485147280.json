@@ -1,0 +1,410 @@
+{
+  "runTime": 1693485147280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264055,
+        "num": 1264055,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1215996,
+        "num": 1215996,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15551,
+        "num": 870208,
+        "word": "这些重要新规9月起施行",
+        "onboard_time": 1693447537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497054,
+        "num": 862917,
+        "word": "税务总局称会对宋祖儿开展税务稽查",
+        "onboard_time": 1693473159,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836533,
+        "num": 836533,
+        "word": "他和她的猫开播",
+        "onboard_time": 1693480656,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667880,
+        "num": 667880,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561466,
+        "num": 561466,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553155,
+        "num": 553155,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693479814,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528834,
+        "num": 528834,
+        "word": "男子钓中1条鲅鱼身上卡着金镯子",
+        "onboard_time": 1693475381,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476752,
+        "num": 476752,
+        "word": "在中医院喝到了中药奶茶",
+        "onboard_time": 1693473339,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1549249,
+        "num": 474353,
+        "word": "王源明天飞美国",
+        "onboard_time": 1693478439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1407117,
+        "num": 470573,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247041,
+        "num": 467273,
+        "word": "个税专项附加扣除标准最新调整",
+        "onboard_time": 1693474001,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 209048,
+        "num": 460114,
+        "word": "江歌妈妈诉网暴者案二审维持原判",
+        "onboard_time": 1693473584,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60339,
+        "num": 456830,
+        "word": "关注学生开学焦虑或因被霸凌",
+        "onboard_time": 1693473636,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 992299,
+        "num": 452363,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 882301,
+        "num": 445557,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548652,
+        "num": 441606,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519096,
+        "num": 438212,
+        "word": "张韶涵 我在扬州没空想你",
+        "onboard_time": 1693478257,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435113,
+        "num": 435113,
+        "word": "张拿铁训斥奶奶不吃饭就下桌",
+        "onboard_time": 1693480656,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 398797,
+        "num": 398797,
+        "word": "美特斯邦威为什么凉了",
+        "onboard_time": 1693483056,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 330340,
+        "num": 330340,
+        "word": "一直娱",
+        "onboard_time": 1693481080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305265,
+        "num": 305265,
+        "word": "年轻是该享受还是玩命挣钱",
+        "onboard_time": 1693483835,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298512,
+        "num": 298512,
+        "word": "装腔启示录",
+        "onboard_time": 1693484376,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287857,
+        "num": 287857,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276929,
+        "num": 276929,
+        "word": "腾讯爱奇艺卷起来了",
+        "onboard_time": 1693471362,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266808,
+        "num": 266808,
+        "word": "逃出大英博物馆第二集开播",
+        "onboard_time": 1693477299,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265184,
+        "num": 265184,
+        "word": "暧昧的保质期有多久",
+        "onboard_time": 1693483478,
+        "rank": 27,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 259191,
+        "num": 259191,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239123,
+        "num": 239123,
+        "word": "偷税和漏税有何区别",
+        "onboard_time": 1693473459,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 233551,
+        "num": 233551,
+        "word": "aespa新歌舞台",
+        "onboard_time": 1693483178,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222141,
+        "num": 222141,
+        "word": "檀健次科目一舞台",
+        "onboard_time": 1693477119,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239319,
+        "num": 219180,
+        "word": "税务专管员回应宋祖儿被举报偷逃税",
+        "onboard_time": 1693463439,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216102,
+        "num": 216102,
+        "word": "中国男篮首胜",
+        "onboard_time": 1693476819,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215281,
+        "num": 215281,
+        "word": "到底是什么人在写这种小说",
+        "onboard_time": 1693484555,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210023,
+        "num": 210023,
+        "word": "原来拉伸真的很重要",
+        "onboard_time": 1693476760,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198433,
+        "num": 198433,
+        "word": "全身就剩嘴硬了",
+        "onboard_time": 1693484495,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191388,
+        "num": 191388,
+        "word": "马嘉祺重庆森林滤镜随拍",
+        "onboard_time": 1693481679,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188917,
+        "num": 188917,
+        "word": "台风苏拉趋向广东海面",
+        "onboard_time": 1693480115,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187799,
+        "num": 187799,
+        "word": "上海晚霞",
+        "onboard_time": 1693478799,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181661,
+        "num": 181661,
+        "word": "李凯尔仅休息1分55秒",
+        "onboard_time": 1693477898,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177944,
+        "num": 177944,
+        "word": "马立奥负伤漂流记",
+        "onboard_time": 1693479457,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177868,
+        "num": 177868,
+        "word": "马丽对赵露思说做自己就好",
+        "onboard_time": 1693475741,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172440,
+        "num": 172440,
+        "word": "公交车连续2年为她多等一分钟",
+        "onboard_time": 1693462180,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172036,
+        "num": 172036,
+        "word": "十个勤天直播",
+        "onboard_time": 1693484795,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171983,
+        "num": 171983,
+        "word": "山东女子学院女性学专业首迎男同学",
+        "onboard_time": 1693466323,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150856,
+        "num": 150856,
+        "word": "这是李玉湖吗",
+        "onboard_time": 1693470343,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141924,
+        "num": 141924,
+        "word": "北京国安vs山东泰山",
+        "onboard_time": 1693483355,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139378,
+        "num": 139378,
+        "word": "广东全力防御台风苏拉",
+        "onboard_time": 1693477178,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136496,
+        "num": 136496,
+        "word": "蓝月",
+        "onboard_time": 1693485095,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}
