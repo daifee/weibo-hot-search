@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693521228368,
+  "endTime": 1693523800533,
   "band_list": [
     {
       "raw_hot": 2643469,
@@ -51,12 +51,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800854,
+      "num": 214227,
+      "word": "女大学生被对面卧铺大叔多角度偷拍",
+      "onboard_time": 1693508894,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720877,
       "num": 720877,
       "word": "iPhone15系列爆料",
       "onboard_time": 1693491639,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 700437,
+      "num": 700437,
+      "word": "首套房贷款最低首付比例不低于20%",
+      "onboard_time": 1693485453,
+      "rank": 5,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 653018,
@@ -81,14 +97,6 @@
       "onboard_time": 1693494103,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 547320,
-      "num": 547320,
-      "word": "首套房贷款最低首付比例不低于20%",
-      "onboard_time": 1693485453,
-      "rank": 5,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 544739,
@@ -147,12 +155,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337072,
+      "num": 337072,
+      "word": "陕西一医院规定男55岁女44岁不续聘",
+      "onboard_time": 1693488761,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328020,
       "num": 328020,
       "word": "DRG夏季赛淘汰",
       "onboard_time": 1693495898,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308313,
+      "num": 190261,
+      "word": "演员就该于适这样啊",
+      "onboard_time": 1693523125,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288802,
@@ -169,6 +193,14 @@
       "onboard_time": 1693495179,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276886,
+      "num": 276886,
+      "word": "美特斯邦威为什么凉了",
+      "onboard_time": 1693483056,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 272215,
@@ -211,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245417,
+      "num": 163996,
+      "word": "缅北电诈头目姐夫等225人被抓",
+      "onboard_time": 1693504759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232050,
       "num": 214796,
       "word": "第一次不想让男女主谈恋爱",
@@ -235,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217208,
-      "num": 57367,
-      "word": "女大学生被对面卧铺大叔多角度偷拍",
-      "onboard_time": 1693508894,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195012,
       "num": 195012,
       "word": "捡了东西的狼",
@@ -259,14 +291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183643,
-      "num": 183643,
-      "word": "美特斯邦威为什么凉了",
-      "onboard_time": 1693483056,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 182790,
       "num": 182790,
       "word": "遥遥领先",
@@ -281,6 +305,14 @@
       "onboard_time": 1693480115,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174890,
+      "num": 174890,
+      "word": "田曦薇敖瑞鹏的身高差",
+      "onboard_time": 1693518616,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 169301,
@@ -315,20 +347,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158328,
-      "num": 158328,
-      "word": "陕西一医院规定男55岁女44岁不续聘",
-      "onboard_time": 1693488761,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150210,
       "num": 150210,
       "word": "马宁",
       "onboard_time": 1693491282,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146373,
+      "num": 146373,
+      "word": "康辉 如何活出自己喜欢的样子",
+      "onboard_time": 1693505178,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145791,
@@ -363,20 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130844,
-      "num": 73768,
-      "word": "缅北电诈头目姐夫等225人被抓",
-      "onboard_time": 1693504759,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125422,
-      "num": 125422,
+      "raw_hot": 128240,
+      "num": 128240,
       "word": "张韶涵 我在扬州没空想你",
       "onboard_time": 1693478257,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127151,
+      "num": 121903,
+      "word": "欧冠死亡之组",
+      "onboard_time": 1693523426,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 124379,
@@ -385,6 +417,14 @@
       "onboard_time": 1693480656,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124115,
+      "num": 124115,
+      "word": "张拿铁训斥奶奶不吃饭就下桌",
+      "onboard_time": 1693480656,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 124043,
@@ -411,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113890,
+      "num": 113890,
+      "word": "你还在开空调吗",
+      "onboard_time": 1693523064,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112144,
       "num": 112144,
       "word": "中国文物逃出大英博物馆幕后故事",
@@ -427,12 +475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 91945,
-      "num": 91945,
-      "word": "田曦薇敖瑞鹏的身高差",
-      "onboard_time": 1693518616,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 98016,
+      "num": 98016,
+      "word": "人在什么情况下会情绪稳定",
+      "onboard_time": 1693505538,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 88282,
@@ -459,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72409,
-      "num": 72409,
-      "word": "康辉 如何活出自己喜欢的样子",
-      "onboard_time": 1693505178,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 73051,
+      "num": 73051,
+      "word": "谐音梗为什么要扣钱",
+      "onboard_time": 1693512554,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 71914,
@@ -475,20 +523,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 65733,
-      "num": 65733,
-      "word": "张拿铁训斥奶奶不吃饭就下桌",
-      "onboard_time": 1693480656,
+      "raw_hot": 66161,
+      "num": 66161,
+      "word": "迎击台风苏拉",
+      "onboard_time": 1693523784,
       "rank": 46,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 57620,
-      "num": 57620,
-      "word": "人在什么情况下会情绪稳定",
-      "onboard_time": 1693505538,
-      "rank": 47,
-      "category": "其它"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53327,
@@ -539,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38510,
-      "num": 38510,
-      "word": "谐音梗为什么要扣钱",
-      "onboard_time": 1693512554,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 36213,
       "num": 36213,
       "word": "金泰亨solo",
@@ -571,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26052,
+      "num": 659011,
+      "word": "砺志逐梦正当时",
+      "onboard_time": 1693493739,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24101,
       "num": 26963,
       "word": "王鹤棣舞剑vs背文言文",
@@ -593,14 +633,6 @@
       "onboard_time": 1693516695,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 17444,
-      "num": 659011,
-      "word": "砺志逐梦正当时",
-      "onboard_time": 1693493739,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17061,
