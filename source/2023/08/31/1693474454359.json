@@ -1,0 +1,410 @@
+{
+  "runTime": 1693474454359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2871186,
+        "num": 2871186,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2402911,
+        "num": 2402911,
+        "word": "税务总局称会对宋祖儿开展税务稽查",
+        "onboard_time": 1693473159,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86860,
+        "num": 1972112,
+        "word": "这些重要新规9月起施行",
+        "onboard_time": 1693447537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1842204,
+        "num": 1842204,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1572877,
+        "num": 1572877,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1415304,
+        "num": 1415304,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694224,
+        "num": 694224,
+        "word": "女儿问妈妈为什么要多花钱",
+        "onboard_time": 1693468302,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 548932,
+        "num": 548932,
+        "word": "江歌妈妈诉网暴者案二审维持原判",
+        "onboard_time": 1693473584,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510996,
+        "num": 510996,
+        "word": "中国男篮vs安哥拉男篮",
+        "onboard_time": 1693469922,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503650,
+        "num": 503650,
+        "word": "起猛了在重庆看到百鬼夜行了",
+        "onboard_time": 1693471837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2215046,
+        "num": 494049,
+        "word": "税务专管员回应宋祖儿被举报偷逃税",
+        "onboard_time": 1693463439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656892,
+        "num": 488829,
+        "word": "田曦薇横店奶茶大客户",
+        "onboard_time": 1693465965,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460600,
+        "num": 460600,
+        "word": "90后小伙中6835万大奖没告诉妻子",
+        "onboard_time": 1693453907,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309043,
+        "num": 446898,
+        "word": "深圳机场明日12时起航班暂停",
+        "onboard_time": 1693472202,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84541,
+        "num": 446101,
+        "word": "昏迷前几秒他稳稳刹车救下52名乘客",
+        "onboard_time": 1693472438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1631731,
+        "num": 446089,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445537,
+        "num": 445537,
+        "word": "张晚意收到苦瓜花束",
+        "onboard_time": 1693471601,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401196,
+        "num": 401196,
+        "word": "张远怎么说服张栋梁徐良的",
+        "onboard_time": 1693468479,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538754,
+        "num": 390552,
+        "word": "偷税和漏税有何区别",
+        "onboard_time": 1693473459,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 359292,
+        "num": 359292,
+        "word": "胡金秋好用",
+        "onboard_time": 1693472560,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563955,
+        "num": 353150,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526363,
+        "num": 350222,
+        "word": "腾讯爱奇艺卷起来了",
+        "onboard_time": 1693471362,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361567,
+        "num": 349288,
+        "word": "妻子出轨被抓现行称其为了报复丈夫",
+        "onboard_time": 1693465300,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315263,
+        "num": 315263,
+        "word": "角丽谯来了全娶了",
+        "onboard_time": 1693471119,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308595,
+        "num": 308595,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302545,
+        "num": 302545,
+        "word": "离职前一定要清理电脑",
+        "onboard_time": 1693468239,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301670,
+        "num": 301670,
+        "word": "北漂女生爆改奶油风房东免一年租金",
+        "onboard_time": 1693461701,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 300577,
+        "num": 300577,
+        "word": "易梦玲穿旗袍跳舞",
+        "onboard_time": 1693473584,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294108,
+        "num": 294108,
+        "word": "在床底发现已逝小狗三年前的脚印",
+        "onboard_time": 1693462900,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66173,
+        "num": 291231,
+        "word": "关注学生开学焦虑或因被霸凌",
+        "onboard_time": 1693473636,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 528320,
+        "num": 291078,
+        "word": "在中医院喝到了中药奶茶",
+        "onboard_time": 1693473339,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290150,
+        "num": 290150,
+        "word": "周琦掉球",
+        "onboard_time": 1693470937,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284341,
+        "num": 284341,
+        "word": "男朋友叠的被子",
+        "onboard_time": 1693471964,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 276081,
+        "num": 276081,
+        "word": "这是李玉湖吗",
+        "onboard_time": 1693470343,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257483,
+        "num": 257483,
+        "word": "你公积金每月大概有多少",
+        "onboard_time": 1693449455,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 256714,
+        "num": 256714,
+        "word": "赵露思手拿玫瑰花气球",
+        "onboard_time": 1693467221,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253385,
+        "num": 253385,
+        "word": "公交车连续2年为她多等一分钟",
+        "onboard_time": 1693462180,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248882,
+        "num": 248882,
+        "word": "杭州有人冒雨赶在利率下调前存1000多万",
+        "onboard_time": 1693468002,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 245308,
+        "num": 245308,
+        "word": "国防部辟谣093核潜艇在台海发生意外",
+        "onboard_time": 1693474180,
+        "rank": 38,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 234901,
+        "num": 234901,
+        "word": "张俪演的李木子",
+        "onboard_time": 1693455170,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213876,
+        "num": 213876,
+        "word": "原来方便面还能这么吃",
+        "onboard_time": 1693470400,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212034,
+        "num": 212034,
+        "word": "敖瑞鹏 这是微博吗",
+        "onboard_time": 1693469321,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209240,
+        "num": 209240,
+        "word": "唐艺昕男友视角",
+        "onboard_time": 1693467401,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207749,
+        "num": 207749,
+        "word": "趁着开学我好像离了个婚",
+        "onboard_time": 1693461581,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207189,
+        "num": 207189,
+        "word": "个税专项附加扣除标准最新调整",
+        "onboard_time": 1693474001,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200846,
+        "num": 200846,
+        "word": "这届哥哥主打一个简约风",
+        "onboard_time": 1693473459,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198297,
+        "num": 198297,
+        "word": "女生每天只吃15元省下的全买书",
+        "onboard_time": 1693448852,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192626,
+        "num": 192626,
+        "word": "大的已经被公司三千一月买走了",
+        "onboard_time": 1693444657,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190206,
+        "num": 190206,
+        "word": "许知远对费翔讲话为什么会这样",
+        "onboard_time": 1693473820,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181953,
+        "num": 181953,
+        "word": "未来予梦初音未来",
+        "onboard_time": 1693473698,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}
