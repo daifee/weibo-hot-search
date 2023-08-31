@@ -1,0 +1,410 @@
+{
+  "runTime": 1693492453148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1547750,
+        "num": 1547750,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1314134,
+        "num": 1314134,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38810,
+        "num": 1244841,
+        "word": "中国人的大飞机梦穿越53个春秋",
+        "onboard_time": 1693470460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1677822,
+        "num": 1240234,
+        "word": "税务总局称会对宋祖儿开展税务稽查",
+        "onboard_time": 1693473159,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1206160,
+        "num": 1206160,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1095097,
+        "num": 1095097,
+        "word": "首套房贷款最低首付比例不低于20%",
+        "onboard_time": 1693485453,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 978410,
+        "num": 978410,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 927220,
+        "num": 927220,
+        "word": "美国商务部长乘中国高铁让美媒纠结",
+        "onboard_time": 1693488216,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804441,
+        "num": 804441,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648315,
+        "num": 648315,
+        "word": "马宁",
+        "onboard_time": 1693491282,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1288825,
+        "num": 646031,
+        "word": "王源明天飞美国",
+        "onboard_time": 1693478439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1150512,
+        "num": 645907,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687136,
+        "num": 642476,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638137,
+        "num": 638137,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121513,
+        "num": 624564,
+        "word": "男生在宿舍穿拖鞋拉小提琴引围观",
+        "onboard_time": 1693490435,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615114,
+        "num": 615114,
+        "word": "iPhone15系列爆料",
+        "onboard_time": 1693491639,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 488135,
+        "num": 488135,
+        "word": "骄阳伴我央视频追剧日历",
+        "onboard_time": 1693487316,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462183,
+        "num": 462183,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452836,
+        "num": 452836,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413062,
+        "num": 413062,
+        "word": "降存量首套房贷利率",
+        "onboard_time": 1693486478,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 623940,
+        "num": 411959,
+        "word": "男朋友以为是造型拍了下来",
+        "onboard_time": 1693490680,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450285,
+        "num": 411762,
+        "word": "九月各星座注意事项",
+        "onboard_time": 1693488761,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410324,
+        "num": 410324,
+        "word": "男子离婚两月后发现2岁儿子非亲生",
+        "onboard_time": 1693491698,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406321,
+        "num": 406321,
+        "word": "在中医院喝到了中药奶茶",
+        "onboard_time": 1693473339,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396033,
+        "num": 396033,
+        "word": "陕西一医院规定男55岁女44岁不续聘",
+        "onboard_time": 1693488761,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362007,
+        "num": 362007,
+        "word": "孤注一掷进入2023年票房榜前三",
+        "onboard_time": 1693487255,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316291,
+        "num": 316291,
+        "word": "他和她的猫开播",
+        "onboard_time": 1693480656,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305968,
+        "num": 305968,
+        "word": "超级蓝月",
+        "onboard_time": 1693485518,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292085,
+        "num": 292085,
+        "word": "娇兰 封神质子团",
+        "onboard_time": 1693492179,
+        "rank": 28,
+        "category": "美妆,影视"
+      },
+      {
+        "raw_hot": 291049,
+        "num": 291049,
+        "word": "杨紫谈演员职业素养和行为规范",
+        "onboard_time": 1693488761,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419604,
+        "num": 290059,
+        "word": "被医院判死刑的孩子",
+        "onboard_time": 1693491760,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 285744,
+        "num": 285744,
+        "word": "孤注一掷",
+        "onboard_time": 1693490499,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273605,
+        "num": 273605,
+        "word": "原来拉伸真的很重要",
+        "onboard_time": 1693476760,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273210,
+        "num": 273210,
+        "word": "男子钓中1条鲅鱼身上卡着金镯子",
+        "onboard_time": 1693475381,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272079,
+        "num": 272079,
+        "word": "腾讯爱奇艺卷起来了",
+        "onboard_time": 1693471362,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268210,
+        "num": 268210,
+        "word": "小玖掉点",
+        "onboard_time": 1693489779,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252989,
+        "num": 252989,
+        "word": "韩东君 许子诠你小子终于表白了",
+        "onboard_time": 1693489117,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250527,
+        "num": 250527,
+        "word": "黄子弘凡重新定义非酋",
+        "onboard_time": 1693488337,
+        "rank": 37,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 229712,
+        "num": 229712,
+        "word": "日本男篮战胜委内瑞拉男篮",
+        "onboard_time": 1693487378,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217805,
+        "num": 217805,
+        "word": "中国文物逃出大英博物馆幕后故事",
+        "onboard_time": 1693492240,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205699,
+        "num": 205699,
+        "word": "北京国安vs山东泰山",
+        "onboard_time": 1693491639,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200511,
+        "num": 200511,
+        "word": "张拿铁训斥奶奶不吃饭就下桌",
+        "onboard_time": 1693480656,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191405,
+        "num": 191405,
+        "word": "台风苏拉趋向广东海面",
+        "onboard_time": 1693480115,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189681,
+        "num": 189681,
+        "word": "偷税和漏税有何区别",
+        "onboard_time": 1693473459,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 189220,
+        "num": 189220,
+        "word": "檀健次科目一舞台",
+        "onboard_time": 1693477119,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186678,
+        "num": 186678,
+        "word": "第一次不想让男女主谈恋爱",
+        "onboard_time": 1693491819,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180677,
+        "num": 180677,
+        "word": "美特斯邦威为什么凉了",
+        "onboard_time": 1693483056,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171428,
+        "num": 171428,
+        "word": "逃出大英博物馆第二集开播",
+        "onboard_time": 1693477299,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168128,
+        "num": 168128,
+        "word": "到底是什么人在写这种小说",
+        "onboard_time": 1693484555,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162268,
+        "num": 162268,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}

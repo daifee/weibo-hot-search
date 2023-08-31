@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693491366533,
+  "endTime": 1693492453148,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1849230,
-      "num": 600669,
+      "num": 645907,
       "word": "何洁瘦了近70斤",
       "onboard_time": 1693478082,
       "rank": 10,
@@ -172,15 +172,15 @@
     },
     {
       "raw_hot": 1549249,
-      "num": 587296,
+      "num": 646031,
       "word": "王源明天飞美国",
       "onboard_time": 1693478439,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 1519813,
-      "num": 1519813,
+      "raw_hot": 1547750,
+      "num": 1547750,
       "word": "华为Mate60Pro+",
       "onboard_time": 1693487679,
       "rank": 36,
@@ -208,6 +208,14 @@
       "word": "上错花轿嫁对郎再火的唯一受害者",
       "onboard_time": 1693479996,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1314134,
+      "num": 1314134,
+      "word": "奥本海默",
+      "onboard_time": 1693482156,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -241,14 +249,6 @@
       "onboard_time": 1693455532,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1065969,
-      "num": 1065969,
-      "word": "奥本海默",
-      "onboard_time": 1693482156,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1053504,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 927220,
+      "num": 927220,
+      "word": "美国商务部长乘中国高铁让美媒纠结",
+      "onboard_time": 1693488216,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900404,
       "num": 900404,
       "word": "虞书欣赵露思将出席米兰时装周",
@@ -393,14 +401,6 @@
       "onboard_time": 1693468302,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 783159,
-      "num": 783159,
-      "word": "美国商务部长乘中国高铁让美媒纠结",
-      "onboard_time": 1693488216,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 777897,
@@ -531,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648315,
+      "num": 648315,
+      "word": "马宁",
+      "onboard_time": 1693491282,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645393,
       "num": 645393,
       "word": "12306回应硬卧下铺别人能不能坐",
@@ -563,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 623940,
+      "num": 411959,
+      "word": "男朋友以为是造型拍了下来",
+      "onboard_time": 1693490680,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 619279,
       "num": 619279,
       "word": "5岁儿子被撞送医途中车祸致女儿身亡",
@@ -585,6 +601,14 @@
       "onboard_time": 1693478799,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615114,
+      "num": 615114,
+      "word": "iPhone15系列爆料",
+      "onboard_time": 1693491639,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 614858,
@@ -955,12 +979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419604,
+      "num": 290059,
+      "word": "被医院判死刑的孩子",
+      "onboard_time": 1693491760,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 415027,
       "num": 398843,
       "word": "杭州有人冒雨赶在利率下调前存1000多万",
       "onboard_time": 1693468002,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 410324,
+      "num": 410324,
+      "word": "男子离婚两月后发现2岁儿子非亲生",
+      "onboard_time": 1693491698,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409247,
@@ -1331,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317423,
-      "num": 317423,
-      "word": "男朋友以为是造型拍了下来",
-      "onboard_time": 1693490680,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 316664,
       "num": 465408,
       "word": "深圳机场明日12时起航班暂停",
@@ -1419,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292085,
+      "num": 292085,
+      "word": "娇兰 封神质子团",
+      "onboard_time": 1693492179,
+      "rank": 28,
+      "category": "美妆,影视"
+    },
+    {
       "raw_hot": 291833,
       "num": 291833,
       "word": "宋亚轩凌晨3点半回酒店",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1693460082,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285744,
+      "num": 285744,
+      "word": "孤注一掷",
+      "onboard_time": 1693490499,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 284729,
@@ -1899,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217805,
+      "num": 217805,
+      "word": "中国文物逃出大英博物馆幕后故事",
+      "onboard_time": 1693492240,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214574,
       "num": 214574,
       "word": "沈月竹业篇路透生图",
@@ -1945,14 +2001,6 @@
       "onboard_time": 1693488639,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 210727,
-      "num": 210727,
-      "word": "马宁",
-      "onboard_time": 1693491282,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 210275,
@@ -2051,20 +2099,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205699,
+      "num": 205699,
+      "word": "北京国安vs山东泰山",
+      "onboard_time": 1693483355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205683,
       "num": 205683,
       "word": "李奕臻因为淄博烧烤注意到边天扬",
       "onboard_time": 1693472740,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205591,
-      "num": 205591,
-      "word": "孤注一掷",
-      "onboard_time": 1693490499,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 205582,
@@ -2235,6 +2283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191405,
+      "num": 191405,
+      "word": "台风苏拉趋向广东海面",
+      "onboard_time": 1693480115,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191388,
       "num": 191388,
       "word": "马嘉祺重庆森林滤镜随拍",
@@ -2275,20 +2331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188917,
-      "num": 188917,
-      "word": "台风苏拉趋向广东海面",
-      "onboard_time": 1693480115,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188246,
       "num": 188246,
       "word": "舒淇威尼斯开幕红毯造型",
       "onboard_time": 1693447475,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186678,
+      "num": 186678,
+      "word": "第一次不想让男女主谈恋爱",
+      "onboard_time": 1693491819,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 185236,
@@ -2499,14 +2555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141924,
-      "num": 141924,
-      "word": "北京国安vs山东泰山",
-      "onboard_time": 1693483355,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141309,
       "num": 141309,
       "word": "超强台风苏拉锁定广东",
@@ -2553,6 +2601,14 @@
       "onboard_time": 1693398635,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121513,
+      "num": 624564,
+      "word": "男生在宿舍穿拖鞋拉小提琴引围观",
+      "onboard_time": 1693490435,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119908,
@@ -2739,14 +2795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52629,
-      "num": 508737,
-      "word": "男生在宿舍穿拖鞋拉小提琴引围观",
-      "onboard_time": 1693490435,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48598,
       "num": 48598,
       "word": "利雅得胜利4比0利雅得青年人",
@@ -2771,8 +2819,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 38192,
-      "num": 1200411,
+      "raw_hot": 38810,
+      "num": 1244841,
       "word": "中国人的大飞机梦穿越53个春秋",
       "onboard_time": 1693470460,
       "rank": 2,
