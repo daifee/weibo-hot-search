@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693444237533,
+  "endTime": 1693445466920,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -195,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2801207,
+      "num": 2801207,
+      "word": "原来久坐人会变丑是真的",
+      "onboard_time": 1693441357,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2752824,
       "num": 2752824,
       "word": "老板要求转账198万会计立即报警",
@@ -233,14 +241,6 @@
       "onboard_time": 1693237474,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2562046,
-      "num": 2562046,
-      "word": "原来久坐人会变丑是真的",
-      "onboard_time": 1693441357,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 2543659,
@@ -1315,6 +1315,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 838988,
+      "num": 437184,
+      "word": "五险一金原来是这么回事",
+      "onboard_time": 1693444234,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
       "raw_hot": 837644,
       "num": 537684,
       "word": "年轻女生不要过度共情",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1693227999,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 818848,
+      "num": 818848,
+      "word": "中元节是中国人自己的寻梦环游记",
+      "onboard_time": 1693442858,
+      "rank": 5,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 808935,
@@ -1411,20 +1427,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 781006,
-      "num": 781006,
-      "word": "中元节是中国人自己的寻梦环游记",
-      "onboard_time": 1693442858,
-      "rank": 5,
-      "category": "情感,影视"
-    },
-    {
       "raw_hot": 778831,
       "num": 486793,
       "word": "田曦薇小肉手",
       "onboard_time": 1693377276,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 777897,
+      "num": 436401,
+      "word": "奚梦瑶女儿正脸照",
+      "onboard_time": 1693442259,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 777313,
@@ -2267,6 +2283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545203,
+      "num": 233907,
+      "word": "大的已经被公司三千一月买走了",
+      "onboard_time": 1693444657,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 543443,
+      "num": 543443,
+      "word": "小夭 我从小就没有老公",
+      "onboard_time": 1693441176,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542694,
       "num": 312432,
       "word": "李念欢丈夫孕期出轨",
@@ -2361,14 +2393,6 @@
       "onboard_time": 1693233400,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 526817,
-      "num": 526817,
-      "word": "小夭 我从小就没有老公",
-      "onboard_time": 1693441176,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 526489,
@@ -3003,6 +3027,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431734,
+      "num": 429073,
+      "word": "蔡国庆精神状态领先我几十年",
+      "onboard_time": 1693444176,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 430928,
+      "num": 430928,
+      "word": "哈尔滨工程大学开学典礼有多燃",
+      "onboard_time": 1693444176,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 428981,
       "num": 428981,
       "word": "曾舜晞拍打戏摔倒",
@@ -3323,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391759,
+      "num": 391759,
+      "word": "姬发杀殷寿这里真的踮脚了",
+      "onboard_time": 1693443696,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391041,
       "num": 391041,
       "word": "玱玹的乡下表弟玱杰",
@@ -3521,6 +3569,14 @@
       "onboard_time": 1693396957,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371219,
+      "num": 371219,
+      "word": "肖顺尧王鹤润在夏天成毅在冬天",
+      "onboard_time": 1693443398,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 370992,
@@ -4433,22 +4489,6 @@
       "onboard_time": 1693300778,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311520,
-      "num": 311520,
-      "word": "奚梦瑶女儿正脸照",
-      "onboard_time": 1693442259,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 311026,
-      "num": 311026,
-      "word": "肖顺尧王鹤润在夏天成毅在冬天",
-      "onboard_time": 1693443398,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 310999,
@@ -5539,14 +5579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253206,
-      "num": 253206,
-      "word": "姬发杀殷寿这里真的踮脚了",
-      "onboard_time": 1693443696,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252650,
       "num": 252650,
       "word": "杨幂说许凯说走就走",
@@ -6099,6 +6131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227957,
+      "num": 227957,
+      "word": "曾舜晞伤势已无大碍",
+      "onboard_time": 1693440756,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227699,
       "num": 227699,
       "word": "周杰伦邓紫棋合唱黑色毛衣",
@@ -6249,14 +6289,6 @@
       "onboard_time": 1693283981,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219703,
-      "num": 219703,
-      "word": "曾舜晞伤势已无大碍",
-      "onboard_time": 1693440756,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 219463,
@@ -6529,6 +6561,14 @@
       "onboard_time": 1693221036,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206587,
+      "num": 206587,
+      "word": "苏拉",
+      "onboard_time": 1693380456,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205744,
@@ -6811,14 +6851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199814,
-      "num": 199814,
-      "word": "蔡国庆精神状态领先我几十年",
-      "onboard_time": 1693444176,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 199790,
       "num": 199790,
       "word": "OPPO新品发布会",
@@ -6907,12 +6939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198580,
-      "num": 198580,
-      "word": "哈尔滨工程大学开学典礼有多燃",
-      "onboard_time": 1693444176,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 198429,
+      "num": 198429,
+      "word": "骄阳伴我央视版预告",
+      "onboard_time": 1693444955,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 198212,
@@ -6961,6 +6993,14 @@
       "onboard_time": 1693184075,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 197387,
+      "num": 197387,
+      "word": "洪胜汉预录哭了",
+      "onboard_time": 1693444837,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 197279,
@@ -7145,14 +7185,6 @@
       "onboard_time": 1693183961,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193427,
-      "num": 193427,
-      "word": "苏拉",
-      "onboard_time": 1693380456,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193300,
@@ -7435,6 +7467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182812,
+      "num": 182812,
+      "word": "2023进度条",
+      "onboard_time": 1693444297,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181609,
       "num": 1515221,
       "word": "当代高中生有多勤俭节约",
@@ -7689,6 +7729,14 @@
       "onboard_time": 1693185279,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168646,
+      "num": 168646,
+      "word": "新疆导游小祁升职了",
+      "onboard_time": 1693445436,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 168615,

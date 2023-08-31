@@ -1,10 +1,10 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693444237533,
+  "endTime": 1693445466920,
   "band_list": [
     {
-      "raw_hot": 2562046,
-      "num": 2562046,
+      "raw_hot": 2801207,
+      "num": 2801207,
       "word": "原来久坐人会变丑是真的",
       "onboard_time": 1693441357,
       "rank": 0,
@@ -83,12 +83,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 781006,
-      "num": 781006,
+      "raw_hot": 838988,
+      "num": 437184,
+      "word": "五险一金原来是这么回事",
+      "onboard_time": 1693444234,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 818848,
+      "num": 818848,
       "word": "中元节是中国人自己的寻梦环游记",
       "onboard_time": 1693442858,
       "rank": 5,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 777897,
+      "num": 436401,
+      "word": "奚梦瑶女儿正脸照",
+      "onboard_time": 1693442259,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 718472,
@@ -171,6 +187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545203,
+      "num": 233907,
+      "word": "大的已经被公司三千一月买走了",
+      "onboard_time": 1693444657,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 543443,
+      "num": 543443,
+      "word": "小夭 我从小就没有老公",
+      "onboard_time": 1693441176,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 528988,
       "num": 528988,
       "word": "台风苏拉或明天在广东沿海登陆",
@@ -187,20 +219,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 526817,
-      "num": 526817,
-      "word": "小夭 我从小就没有老公",
-      "onboard_time": 1693441176,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 483983,
       "num": 279800,
       "word": "中元节最大禁忌是什么",
       "onboard_time": 1693379558,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 431734,
+      "num": 429073,
+      "word": "蔡国庆精神状态领先我几十年",
+      "onboard_time": 1693444176,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 430928,
+      "num": 430928,
+      "word": "哈尔滨工程大学开学典礼有多燃",
+      "onboard_time": 1693444176,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 403348,
@@ -217,6 +257,22 @@
       "onboard_time": 1693401639,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391759,
+      "num": 391759,
+      "word": "姬发杀殷寿这里真的踮脚了",
+      "onboard_time": 1693443696,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 371219,
+      "num": 371219,
+      "word": "肖顺尧王鹤润在夏天成毅在冬天",
+      "onboard_time": 1693443398,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 366082,
@@ -273,22 +329,6 @@
       "onboard_time": 1693381055,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311520,
-      "num": 311520,
-      "word": "奚梦瑶女儿正脸照",
-      "onboard_time": 1693442259,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 311026,
-      "num": 311026,
-      "word": "肖顺尧王鹤润在夏天成毅在冬天",
-      "onboard_time": 1693443398,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 306727,
@@ -411,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253206,
-      "num": 253206,
-      "word": "姬发杀殷寿这里真的踮脚了",
-      "onboard_time": 1693443696,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250647,
       "num": 250647,
       "word": "奇葩大会丁锐被曝PUA学员",
@@ -467,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227957,
+      "num": 227957,
+      "word": "曾舜晞伤势已无大碍",
+      "onboard_time": 1693440756,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222155,
       "num": 222155,
       "word": "钟楚曦闪光抹胸白裙",
       "onboard_time": 1693407880,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219703,
-      "num": 219703,
-      "word": "曾舜晞伤势已无大碍",
-      "onboard_time": 1693440756,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 214574,
@@ -547,20 +579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206587,
+      "num": 206587,
+      "word": "苏拉",
+      "onboard_time": 1693445014,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205582,
       "num": 205582,
       "word": "韩国人真是什么都Cha",
       "onboard_time": 1693394136,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199814,
-      "num": 199814,
-      "word": "蔡国庆精神状态领先我几十年",
-      "onboard_time": 1693444176,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199478,
@@ -579,12 +611,20 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 198580,
-      "num": 198580,
-      "word": "哈尔滨工程大学开学典礼有多燃",
-      "onboard_time": 1693444176,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 198429,
+      "num": 198429,
+      "word": "骄阳伴我央视版预告",
+      "onboard_time": 1693444955,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197387,
+      "num": 197387,
+      "word": "洪胜汉预录哭了",
+      "onboard_time": 1693444837,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 194093,
@@ -611,6 +651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 182812,
+      "num": 182812,
+      "word": "2023进度条",
+      "onboard_time": 1693444297,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178442,
       "num": 178442,
       "word": "周琦太软了",
@@ -625,6 +673,14 @@
       "onboard_time": 1693401577,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168646,
+      "num": 168646,
+      "word": "新疆导游小祁升职了",
+      "onboard_time": 1693445436,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 167116,
