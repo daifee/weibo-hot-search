@@ -1,0 +1,410 @@
+{
+  "runTime": 1693447471840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2296334,
+        "num": 2296334,
+        "word": "原来久坐人会变丑是真的",
+        "onboard_time": 1693441357,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1799340,
+        "num": 1799340,
+        "word": "五险一金原来是这么回事",
+        "onboard_time": 1693444234,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 74651,
+        "num": 1137122,
+        "word": "开学季第一张自拍",
+        "onboard_time": 1693399539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867153,
+        "num": 867153,
+        "word": "孟晓苏称取消公摊是把老百姓当傻子忽悠",
+        "onboard_time": 1693439614,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817991,
+        "num": 817991,
+        "word": "女子同时供职16家公司却从不上班",
+        "onboard_time": 1693445555,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677528,
+        "num": 677528,
+        "word": "椰子水价格暴涨4000%",
+        "onboard_time": 1693410096,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 606153,
+        "num": 606153,
+        "word": "中元节是中国人自己的寻梦环游记",
+        "onboard_time": 1693442858,
+        "rank": 6,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 465761,
+        "num": 465761,
+        "word": "罗成 我做出了青花瓷蛋糕",
+        "onboard_time": 1693438290,
+        "rank": 7,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 453432,
+        "num": 453432,
+        "word": "小夭 我从小就没有老公",
+        "onboard_time": 1693441176,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421058,
+        "num": 421058,
+        "word": "哈尔滨工程大学开学典礼有多燃",
+        "onboard_time": 1693444176,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 3491511,
+        "num": 420608,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689897,
+        "num": 420538,
+        "word": "奚梦瑶女儿正脸照",
+        "onboard_time": 1693442259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419822,
+        "num": 419822,
+        "word": "椰子汁与椰子水的区别在哪",
+        "onboard_time": 1693446394,
+        "rank": 12,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 412404,
+        "num": 412404,
+        "word": "张颂文评价檀健次孙阳",
+        "onboard_time": 1693441475,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325730,
+        "num": 403610,
+        "word": "台风苏拉或明天在广东沿海登陆",
+        "onboard_time": 1693438770,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397669,
+        "num": 397669,
+        "word": "新疆导游小祁升职了",
+        "onboard_time": 1693445436,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 371930,
+        "num": 371930,
+        "word": "用华为手机给美国商务部长拍照",
+        "onboard_time": 1693407220,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 354370,
+        "num": 354370,
+        "word": "蔡国庆精神状态领先我几十年",
+        "onboard_time": 1693444176,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350617,
+        "num": 350617,
+        "word": "为什么选择玉壶做主角",
+        "onboard_time": 1693438711,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349017,
+        "num": 349017,
+        "word": "华为",
+        "onboard_time": 1693407399,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 589225,
+        "num": 345132,
+        "word": "大的已经被公司三千一月买走了",
+        "onboard_time": 1693444657,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374296,
+        "num": 341870,
+        "word": "被刚入职的00后小姑娘向上管理",
+        "onboard_time": 1693442797,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337698,
+        "num": 337698,
+        "word": "相柳流血特效改了",
+        "onboard_time": 1693446573,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331386,
+        "num": 331386,
+        "word": "魏哲鸣27岁演艺圈再就业",
+        "onboard_time": 1693443696,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304908,
+        "num": 304908,
+        "word": "肖顺尧王鹤润在夏天成毅在冬天",
+        "onboard_time": 1693443398,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267141,
+        "num": 267141,
+        "word": "姬发杀殷寿这里真的踮脚了",
+        "onboard_time": 1693443696,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235966,
+        "num": 235966,
+        "word": "不小心看到瑞幸员工内讧了",
+        "onboard_time": 1693409619,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234151,
+        "num": 234151,
+        "word": "黄晓明见到了资助的学生",
+        "onboard_time": 1693446099,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233696,
+        "num": 233696,
+        "word": "三岁半女孩在跑步中一天天长大",
+        "onboard_time": 1693445614,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224301,
+        "num": 224301,
+        "word": "原来真的会有这种家庭存在",
+        "onboard_time": 1693441777,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2013275,
+        "num": 223915,
+        "word": "李玟去世前给好友发信息",
+        "onboard_time": 1693442918,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234200,
+        "num": 222734,
+        "word": "费翔想封神质子了",
+        "onboard_time": 1693447174,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214375,
+        "num": 214375,
+        "word": "JYP新男团颜值",
+        "onboard_time": 1693440936,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213807,
+        "num": 213807,
+        "word": "中国男篮三连败",
+        "onboard_time": 1693405005,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211571,
+        "num": 211571,
+        "word": "骄阳伴我央视版预告",
+        "onboard_time": 1693444955,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205150,
+        "num": 205150,
+        "word": "八月的最后一天",
+        "onboard_time": 1693446995,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203436,
+        "num": 203436,
+        "word": "逃出大英博物馆",
+        "onboard_time": 1693447294,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194388,
+        "num": 194388,
+        "word": "是她发明了北京时间",
+        "onboard_time": 1693446334,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194383,
+        "num": 194383,
+        "word": "曾舜晞伤势已无大碍",
+        "onboard_time": 1693440756,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189865,
+        "num": 189865,
+        "word": "沈月竹业篇路透生图",
+        "onboard_time": 1693441357,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184864,
+        "num": 184864,
+        "word": "金智秀晒与查理兹塞隆合照",
+        "onboard_time": 1693443339,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182869,
+        "num": 182869,
+        "word": "96岁生日当天他还在给患者做手术",
+        "onboard_time": 1693440875,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177095,
+        "num": 177095,
+        "word": "曾志伟近照",
+        "onboard_time": 1693403078,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175446,
+        "num": 175446,
+        "word": "行政处罚书还原孙菲菲被打事件",
+        "onboard_time": 1693401401,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173131,
+        "num": 173131,
+        "word": "洪胜汉预录哭了",
+        "onboard_time": 1693444837,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175316,
+        "num": 172948,
+        "word": "孙菲菲助理回忆现场情况",
+        "onboard_time": 1693436967,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164554,
+        "num": 164554,
+        "word": "封神推特官号",
+        "onboard_time": 1693443156,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159144,
+        "num": 159144,
+        "word": "大爷见女网友被骗800万后身体不适去世",
+        "onboard_time": 1693401639,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150949,
+        "num": 150949,
+        "word": "P2是多少不幸的家庭的常态",
+        "onboard_time": 1693442197,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150480,
+        "num": 150480,
+        "word": "恩佐首球",
+        "onboard_time": 1693441419,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席南非之行纪实#"
+    }
+  }
+}

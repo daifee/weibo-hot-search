@@ -1,7 +1,15 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693445466920,
+  "endTime": 1693447471840,
   "band_list": [
+    {
+      "raw_hot": 3491511,
+      "num": 420608,
+      "word": "宋祖儿",
+      "onboard_time": 1693445614,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2801207,
       "num": 2801207,
@@ -33,6 +41,14 @@
       "onboard_time": 1693442918,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1799340,
+      "num": 1799340,
+      "word": "五险一金原来是这么回事",
+      "onboard_time": 1693444234,
+      "rank": 10,
+      "category": "其它"
     },
     {
       "raw_hot": 1485400,
@@ -83,20 +99,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 838988,
-      "num": 437184,
-      "word": "五险一金原来是这么回事",
-      "onboard_time": 1693444234,
-      "rank": 10,
-      "category": "其它"
-    },
-    {
       "raw_hot": 818848,
       "num": 818848,
       "word": "中元节是中国人自己的寻梦环游记",
       "onboard_time": 1693442858,
       "rank": 5,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 817991,
+      "num": 817991,
+      "word": "女子同时供职16家公司却从不上班",
+      "onboard_time": 1693445555,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777897,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 718472,
-      "num": 310036,
+      "num": 341870,
       "word": "被刚入职的00后小姑娘向上管理",
       "onboard_time": 1693442797,
       "rank": 20,
@@ -171,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589225,
+      "num": 345132,
+      "word": "大的已经被公司三千一月买走了",
+      "onboard_time": 1693444657,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 586218,
       "num": 500076,
       "word": "华为",
@@ -185,14 +209,6 @@
       "onboard_time": 1693397198,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545203,
-      "num": 233907,
-      "word": "大的已经被公司三千一月买走了",
-      "onboard_time": 1693444657,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 543443,
@@ -243,6 +259,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 419822,
+      "num": 419822,
+      "word": "椰子汁与椰子水的区别在哪",
+      "onboard_time": 1693446394,
+      "rank": 12,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 403348,
       "num": 277463,
       "word": "30岁左右的人经常犯的错误",
@@ -257,6 +281,14 @@
       "onboard_time": 1693401639,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397669,
+      "num": 397669,
+      "word": "新疆导游小祁升职了",
+      "onboard_time": 1693445436,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 391759,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 359097,
-      "num": 309708,
+      "num": 331386,
       "word": "魏哲鸣27岁演艺圈再就业",
       "onboard_time": 1693443696,
       "rank": 21,
@@ -305,6 +337,14 @@
       "onboard_time": 1693440875,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337698,
+      "num": 337698,
+      "word": "相柳流血特效改了",
+      "onboard_time": 1693446573,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 325985,
@@ -491,6 +531,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234200,
+      "num": 222734,
+      "word": "费翔想封神质子了",
+      "onboard_time": 1693447174,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234151,
+      "num": 234151,
+      "word": "黄晓明见到了资助的学生",
+      "onboard_time": 1693446099,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233696,
+      "num": 233696,
+      "word": "三岁半女孩在跑步中一天天长大",
+      "onboard_time": 1693445614,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "恋爱脑一下就被治好了",
@@ -529,6 +593,14 @@
       "onboard_time": 1693437928,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211571,
+      "num": 211571,
+      "word": "骄阳伴我央视版预告",
+      "onboard_time": 1693444955,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 210275,
@@ -595,6 +667,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205150,
+      "num": 205150,
+      "word": "八月的最后一天",
+      "onboard_time": 1693446995,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203436,
+      "num": 203436,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693447294,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 199478,
       "num": 158647,
       "word": "越晚精神越好",
@@ -611,20 +699,20 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 198429,
-      "num": 198429,
-      "word": "骄阳伴我央视版预告",
-      "onboard_time": 1693444955,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197387,
       "num": 197387,
       "word": "洪胜汉预录哭了",
       "onboard_time": 1693444837,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194388,
+      "num": 194388,
+      "word": "是她发明了北京时间",
+      "onboard_time": 1693446334,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 194093,
@@ -673,14 +761,6 @@
       "onboard_time": 1693401577,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168646,
-      "num": 168646,
-      "word": "新疆导游小祁升职了",
-      "onboard_time": 1693445436,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 167116,
