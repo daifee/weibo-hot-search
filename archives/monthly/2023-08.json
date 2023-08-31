@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693492453148,
+  "endTime": 1693495048673,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -4563,6 +4563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1780691,
+      "num": 1135069,
+      "word": "被医院判死刑的孩子",
+      "onboard_time": 1693491760,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1779690,
       "num": 940504,
       "word": "王源炸毛了",
@@ -6331,6 +6339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1506028,
+      "num": 1506028,
+      "word": "奥本海默",
+      "onboard_time": 1690939652,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1503915,
       "num": 978144,
       "word": "当我犯了江浙沪女儿的重罪",
@@ -7777,14 +7793,6 @@
       "onboard_time": 1693030056,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1314134,
-      "num": 1314134,
-      "word": "奥本海默",
-      "onboard_time": 1690939652,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1313634,
@@ -9897,6 +9905,14 @@
       "onboard_time": 1692192158,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1116120,
+      "num": 1116120,
+      "word": "iPhone15系列爆料",
+      "onboard_time": 1693491639,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 1115720,
@@ -14769,6 +14785,14 @@
       "onboard_time": 1693316802,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 837584,
+      "num": 362253,
+      "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+      "onboard_time": 1693493259,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 837523,
@@ -22035,14 +22059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615114,
-      "num": 615114,
-      "word": "iPhone15系列爆料",
-      "onboard_time": 1693491639,
-      "rank": 15,
-      "category": "科技"
-    },
-    {
       "raw_hot": 615052,
       "num": 615052,
       "word": "全职高手 哥几个是不是又整容了",
@@ -22417,6 +22433,14 @@
       "onboard_time": 1693356221,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 606204,
+      "num": 606204,
+      "word": "娇兰 封神质子团",
+      "onboard_time": 1693492179,
+      "rank": 28,
+      "category": "美妆,影视"
     },
     {
       "raw_hot": 606109,
@@ -26067,6 +26091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540497,
+      "num": 540497,
+      "word": "九月各星座注意事项",
+      "onboard_time": 1693488761,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540353,
       "num": 540353,
       "word": "警校生和军校生的婚后生活",
@@ -27977,6 +28009,14 @@
       "onboard_time": 1692173859,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 509605,
+      "num": 410324,
+      "word": "男子离婚两月后发现2岁儿子非亲生",
+      "onboard_time": 1693491698,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509533,
@@ -30377,14 +30417,6 @@
       "onboard_time": 1691906319,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 474055,
-      "num": 413883,
-      "word": "九月各星座注意事项",
-      "onboard_time": 1693488761,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 474049,
@@ -34187,6 +34219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424085,
+      "num": 424085,
+      "word": "赵露思把自己穿身上",
+      "onboard_time": 1693494103,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 424067,
       "num": 424067,
       "word": "某幻 反季节战士",
@@ -34569,14 +34609,6 @@
       "onboard_time": 1692940964,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419604,
-      "num": 290059,
-      "word": "被医院判死刑的孩子",
-      "onboard_time": 1693491760,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 419511,
@@ -35377,14 +35409,6 @@
       "onboard_time": 1691931337,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 410324,
-      "num": 410324,
-      "word": "男子离婚两月后发现2岁儿子非亲生",
-      "onboard_time": 1693491698,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410247,
@@ -37528,6 +37552,14 @@
       "word": "王阳回应与李兰迪演情侣",
       "onboard_time": 1692669633,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385505,
+      "num": 356763,
+      "word": "第一次不想让男女主谈恋爱",
+      "onboard_time": 1693491819,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -40577,6 +40609,14 @@
       "onboard_time": 1691996016,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355557,
+      "num": 355557,
+      "word": "DRG巅峰对决KSG",
+      "onboard_time": 1693493981,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 355554,
@@ -46275,6 +46315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305342,
+      "num": 305342,
+      "word": "中国文物逃出大英博物馆幕后故事",
+      "onboard_time": 1693492240,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305299,
       "num": 249448,
       "word": "牺牲消防员微信昵称头像太戳了",
@@ -48137,14 +48185,6 @@
       "onboard_time": 1691943453,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292085,
-      "num": 292085,
-      "word": "娇兰 封神质子团",
-      "onboard_time": 1693492179,
-      "rank": 28,
-      "category": "美妆,影视"
     },
     {
       "raw_hot": 292021,
@@ -52571,6 +52611,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 262853,
+      "num": 262853,
+      "word": "遥遥领先",
+      "onboard_time": 1693493081,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 262850,
       "num": 262850,
       "word": "北卡",
@@ -54059,6 +54107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253093,
+      "num": 253093,
+      "word": "捡了东西的狼",
+      "onboard_time": 1693494399,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 253075,
       "num": 350161,
       "word": "睡眠不足真的会变胖",
@@ -54305,6 +54361,14 @@
       "onboard_time": 1692527734,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 251331,
+      "num": 251331,
+      "word": "山东泰山晋级足协杯四强",
+      "onboard_time": 1693492663,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 251314,
@@ -55145,6 +55209,14 @@
       "onboard_time": 1693144178,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245688,
+      "num": 245688,
+      "word": "袁一琦 回家的诱惑",
+      "onboard_time": 1693492901,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 245644,
@@ -56169,6 +56241,14 @@
       "onboard_time": 1691201495,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 240386,
+      "num": 240386,
+      "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
+      "onboard_time": 1693494760,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240377,
@@ -60243,14 +60323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217805,
-      "num": 217805,
-      "word": "中国文物逃出大英博物馆幕后故事",
-      "onboard_time": 1693492240,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 217761,
       "num": 201738,
       "word": "檀健次趣味解析相柳九头",
@@ -60473,6 +60545,14 @@
       "onboard_time": 1693225294,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 216699,
+      "num": 216699,
+      "word": "台风苏拉趋向广东海面",
+      "onboard_time": 1693480115,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216665,
@@ -62835,6 +62915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206909,
+      "num": 206909,
+      "word": "蒋依依敖子逸好嗑",
+      "onboard_time": 1693493562,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206818,
       "num": 206818,
       "word": "当你有个不要强的朋友",
@@ -63305,6 +63393,14 @@
       "onboard_time": 1692799423,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205300,
+      "num": 205300,
+      "word": "朱一龙新片入围多个国际电影节",
+      "onboard_time": 1693494521,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 205285,
@@ -64633,6 +64729,14 @@
       "onboard_time": 1691219675,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201156,
+      "num": 201156,
+      "word": "摩登家庭卡司十四年后的样子",
+      "onboard_time": 1693494881,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 201112,
@@ -68043,14 +68147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191405,
-      "num": 191405,
-      "word": "台风苏拉趋向广东海面",
-      "onboard_time": 1693480115,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191404,
       "num": 191404,
       "word": "周深演唱会排练",
@@ -69312,14 +69408,6 @@
       "word": "绝地追击缉毒战士山洪遇难",
       "onboard_time": 1691720612,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 186678,
-      "num": 186678,
-      "word": "第一次不想让男女主谈恋爱",
-      "onboard_time": 1693491819,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -77195,6 +77283,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 107555,
+      "num": 1137745,
+      "word": "开学第一课",
+      "onboard_time": 1693494037,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107541,
       "num": 392083,
       "word": "酷光灯闪耀之夜",
@@ -80272,6 +80368,14 @@
       "word": "暴雨洪涝防疫指南",
       "onboard_time": 1691463935,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50841,
+      "num": 556513,
+      "word": "收暑假作业现场一边赶工一边验收",
+      "onboard_time": 1693494037,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

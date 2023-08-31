@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693492453148,
+  "endTime": 1693495048673,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1780691,
+      "num": 1135069,
+      "word": "被医院判死刑的孩子",
+      "onboard_time": 1693491760,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1767604,
       "num": 1767604,
       "word": "中国男篮首胜",
@@ -187,6 +195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1506028,
+      "num": 1506028,
+      "word": "奥本海默",
+      "onboard_time": 1693482156,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1485400,
       "num": 1485400,
       "word": "用华为手机给美国商务部长拍照",
@@ -211,20 +227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1314134,
-      "num": 1314134,
-      "word": "奥本海默",
-      "onboard_time": 1693482156,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1235856,
       "num": 1235856,
       "word": "行政处罚书还原孙菲菲被打事件",
       "onboard_time": 1693401401,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1116120,
+      "num": 1116120,
+      "word": "iPhone15系列爆料",
+      "onboard_time": 1693491639,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 1107951,
@@ -369,6 +385,14 @@
       "onboard_time": 1693478257,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 837584,
+      "num": 362253,
+      "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+      "onboard_time": 1693493259,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 836533,
@@ -603,20 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615114,
-      "num": 615114,
-      "word": "iPhone15系列爆料",
-      "onboard_time": 1693491639,
-      "rank": 15,
-      "category": "科技"
-    },
-    {
       "raw_hot": 614858,
       "num": 958734,
       "word": "个税专项附加扣除标准最新调整",
       "onboard_time": 1693474001,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 606204,
+      "num": 606204,
+      "word": "娇兰 封神质子团",
+      "onboard_time": 1693492179,
+      "rank": 28,
+      "category": "美妆,影视"
     },
     {
       "raw_hot": 596463,
@@ -731,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540497,
+      "num": 540497,
+      "word": "九月各星座注意事项",
+      "onboard_time": 1693488761,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 537002,
       "num": 537002,
       "word": "骄阳伴我央视频追剧日历",
@@ -803,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 509605,
+      "num": 410324,
+      "word": "男子离婚两月后发现2岁儿子非亲生",
+      "onboard_time": 1693491698,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503650,
       "num": 503650,
       "word": "起猛了在重庆看到百鬼夜行了",
@@ -841,14 +881,6 @@
       "onboard_time": 1693452698,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 474055,
-      "num": 413883,
-      "word": "九月各星座注意事项",
-      "onboard_time": 1693488761,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 467394,
@@ -971,6 +1003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 424085,
+      "num": 424085,
+      "word": "赵露思把自己穿身上",
+      "onboard_time": 1693494103,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 422828,
       "num": 422828,
       "word": "周琦掉球",
@@ -979,28 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419604,
-      "num": 290059,
-      "word": "被医院判死刑的孩子",
-      "onboard_time": 1693491760,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 415027,
       "num": 398843,
       "word": "杭州有人冒雨赶在利率下调前存1000多万",
       "onboard_time": 1693468002,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 410324,
-      "num": 410324,
-      "word": "男子离婚两月后发现2岁儿子非亲生",
-      "onboard_time": 1693491698,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409247,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1693466323,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 385505,
+      "num": 356763,
+      "word": "第一次不想让男女主谈恋爱",
+      "onboard_time": 1693491819,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 384396,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1693471119,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355557,
+      "num": 355557,
+      "word": "DRG巅峰对决KSG",
+      "onboard_time": 1693493981,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 353587,
@@ -1411,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305342,
+      "num": 305342,
+      "word": "中国文物逃出大英博物馆幕后故事",
+      "onboard_time": 1693492240,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300075,
       "num": 265632,
       "word": "金晨深V蓝风衣",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1693476760,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292085,
-      "num": 292085,
-      "word": "娇兰 封神质子团",
-      "onboard_time": 1693492179,
-      "rank": 28,
-      "category": "美妆,影视"
     },
     {
       "raw_hot": 291833,
@@ -1651,6 +1691,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 262853,
+      "num": 262853,
+      "word": "遥遥领先",
+      "onboard_time": 1693493081,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 260989,
       "num": 260989,
       "word": "恩佐首球",
@@ -1707,12 +1755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253093,
+      "num": 253093,
+      "word": "捡了东西的狼",
+      "onboard_time": 1693494399,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 252428,
       "num": 252428,
       "word": "战神与高岭之花女主",
       "onboard_time": 1693465901,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251331,
+      "num": 251331,
+      "word": "山东泰山晋级足协杯四强",
+      "onboard_time": 1693492663,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 251314,
@@ -1771,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245688,
+      "num": 245688,
+      "word": "袁一琦 回家的诱惑",
+      "onboard_time": 1693492901,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244165,
       "num": 220015,
       "word": "30岁公务员辞职做短视频博主",
@@ -1816,6 +1888,14 @@
       "word": "想跟费翔daddy聊三个夜晚",
       "onboard_time": 1693463142,
       "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240386,
+      "num": 240386,
+      "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
+      "onboard_time": 1693494760,
+      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -1947,12 +2027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217805,
-      "num": 217805,
-      "word": "中国文物逃出大英博物馆幕后故事",
-      "onboard_time": 1693492240,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 216699,
+      "num": 216699,
+      "word": "台风苏拉趋向广东海面",
+      "onboard_time": 1693480115,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214574,
@@ -2083,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206909,
+      "num": 206909,
+      "word": "蒋依依敖子逸好嗑",
+      "onboard_time": 1693493562,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206587,
       "num": 206587,
       "word": "苏拉",
@@ -2123,6 +2211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205300,
+      "num": 205300,
+      "word": "朱一龙新片入围多个国际电影节",
+      "onboard_time": 1693494521,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205150,
       "num": 205150,
       "word": "八月的最后一天",
@@ -2161,6 +2257,14 @@
       "onboard_time": 1693487559,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 201156,
+      "num": 201156,
+      "word": "摩登家庭卡司十四年后的样子",
+      "onboard_time": 1693494881,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 200846,
@@ -2283,14 +2387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191405,
-      "num": 191405,
-      "word": "台风苏拉趋向广东海面",
-      "onboard_time": 1693480115,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191388,
       "num": 191388,
       "word": "马嘉祺重庆森林滤镜随拍",
@@ -2337,14 +2433,6 @@
       "onboard_time": 1693447475,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186678,
-      "num": 186678,
-      "word": "第一次不想让男女主谈恋爱",
-      "onboard_time": 1693491819,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 185236,
@@ -2643,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107555,
+      "num": 1137745,
+      "word": "开学第一课",
+      "onboard_time": 1693494037,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103297,
       "num": 2951590,
       "word": "开学季第一张自拍",
@@ -2791,6 +2887,14 @@
       "num": 577362,
       "word": "男子强行进站持刀伤人被制服",
       "onboard_time": 1693458882,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50841,
+      "num": 556513,
+      "word": "收暑假作业现场一边赶工一边验收",
+      "onboard_time": 1693494037,
       "rank": 14,
       "category": "社会新闻"
     },
