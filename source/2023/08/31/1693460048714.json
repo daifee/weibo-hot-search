@@ -1,0 +1,410 @@
+{
+  "runTime": 1693460048714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7994935,
+        "num": 7994935,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1929625,
+        "num": 1929625,
+        "word": "你公积金每月大概有多少",
+        "onboard_time": 1693449455,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 100811,
+        "num": 1384239,
+        "word": "开学日必备的仪式感",
+        "onboard_time": 1693456972,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110095,
+        "num": 1110095,
+        "word": "90后小伙中6835万大奖没告诉妻子",
+        "onboard_time": 1693453907,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024503,
+        "num": 1024503,
+        "word": "杨洋宋焰暑期档最热都市剧角色",
+        "onboard_time": 1693457390,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 844197,
+        "num": 844197,
+        "word": "张俪演的李木子",
+        "onboard_time": 1693455170,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735122,
+        "num": 735122,
+        "word": "虞书欣赵露思将出席米兰时装周",
+        "onboard_time": 1693454029,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 697958,
+        "num": 697958,
+        "word": "五险一金原来是这么回事",
+        "onboard_time": 1693444234,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683220,
+        "num": 683220,
+        "word": "原来久坐人会变丑是真的",
+        "onboard_time": 1693441357,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 635916,
+        "num": 635916,
+        "word": "刘宇郑乃馨苍兰诀剧照",
+        "onboard_time": 1693454328,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5042498,
+        "num": 631149,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1083569,
+        "num": 616804,
+        "word": "俄民众建议日本人移居俄罗斯",
+        "onboard_time": 1693455532,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300802,
+        "num": 597589,
+        "word": "终于懂了一片冰心在玉壶",
+        "onboard_time": 1693452339,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183445,
+        "num": 579679,
+        "word": "台风苏拉或明天在广东沿海登陆",
+        "onboard_time": 1693438770,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53589,
+        "num": 577362,
+        "word": "男子强行进站持刀伤人被制服",
+        "onboard_time": 1693458882,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564326,
+        "num": 564326,
+        "word": "你要带我回中国吗",
+        "onboard_time": 1693450416,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520097,
+        "num": 520097,
+        "word": "孙菲菲回应被霸凌原因",
+        "onboard_time": 1693449637,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458865,
+        "num": 458865,
+        "word": "玉壶 这么大个柜子只住两个人",
+        "onboard_time": 1693449575,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382233,
+        "num": 382233,
+        "word": "披荆斩棘0713番外",
+        "onboard_time": 1693458946,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377126,
+        "num": 377126,
+        "word": "玲娜贝儿中秋新衣",
+        "onboard_time": 1693454748,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 657596,
+        "num": 372986,
+        "word": "原来熬夜会让身体变臭是真的",
+        "onboard_time": 1693454809,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 528399,
+        "num": 366692,
+        "word": "大的已经被公司三千一月买走了",
+        "onboard_time": 1693444657,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424670,
+        "num": 356200,
+        "word": "不缴五险一金有何后果",
+        "onboard_time": 1693458349,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 411364,
+        "num": 352364,
+        "word": "看到女友发视频夸婆婆一查她已婚",
+        "onboard_time": 1693449097,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348358,
+        "num": 348358,
+        "word": "我国5G基站核心芯片自研成功",
+        "onboard_time": 1693450055,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311494,
+        "num": 311494,
+        "word": "男子断指满手血万幸遇到出警民警",
+        "onboard_time": 1693451616,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305090,
+        "num": 305090,
+        "word": "烟台海边蝼蛄虾根本捡不完",
+        "onboard_time": 1693459242,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302026,
+        "num": 302026,
+        "word": "6岁男孩在牛棚玩耍被公牛顶撞离世",
+        "onboard_time": 1693451797,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285534,
+        "num": 285534,
+        "word": "女生每天只吃15元省下的全买书",
+        "onboard_time": 1693448852,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277897,
+        "num": 277897,
+        "word": "文俊辉在going里文化输出",
+        "onboard_time": 1693457508,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717217,
+        "num": 273676,
+        "word": "李玟去世前给好友发信息",
+        "onboard_time": 1693442918,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268800,
+        "num": 268800,
+        "word": "椰子水价格暴涨4000%",
+        "onboard_time": 1693410096,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 264234,
+        "num": 264234,
+        "word": "如果一辈子都租房的话",
+        "onboard_time": 1693453666,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262249,
+        "num": 262249,
+        "word": "敖子逸蒋依依将录制你好星期六",
+        "onboard_time": 1693459182,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249773,
+        "num": 249773,
+        "word": "天津大爷直播遇溺水匆匆跳河救人",
+        "onboard_time": 1693456372,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247287,
+        "num": 247287,
+        "word": "金智秀将出演新剧流感",
+        "onboard_time": 1693451857,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239343,
+        "num": 239343,
+        "word": "女子同时供职16家公司却从不上班",
+        "onboard_time": 1693445555,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228315,
+        "num": 228315,
+        "word": "长相思你好星期六收视率",
+        "onboard_time": 1693448434,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226799,
+        "num": 226799,
+        "word": "很难不怀疑我是ie浏览器",
+        "onboard_time": 1693458049,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227669,
+        "num": 224454,
+        "word": "相柳流血特效改了",
+        "onboard_time": 1693446573,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213596,
+        "num": 213596,
+        "word": "莲花楼2023微博爆款剧集",
+        "onboard_time": 1693456188,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206645,
+        "num": 206645,
+        "word": "敖子逸为蒋依依放了一场烟花",
+        "onboard_time": 1693459544,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 205701,
+        "num": 205701,
+        "word": "胡歌不虚此行睡儿童床",
+        "onboard_time": 1693454148,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200023,
+        "num": 200023,
+        "word": "男子1人同时操控千台手机刷量控评被抓",
+        "onboard_time": 1693452820,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197623,
+        "num": 197623,
+        "word": "孤注一掷票房破35亿",
+        "onboard_time": 1693454931,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190804,
+        "num": 190804,
+        "word": "华为",
+        "onboard_time": 1693407399,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181100,
+        "num": 181100,
+        "word": "00后民警第一次收锦旗被宠成显眼包",
+        "onboard_time": 1693459725,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178138,
+        "num": 178138,
+        "word": "上海交大最小新生08年出生",
+        "onboard_time": 1693452938,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 177093,
+        "num": 177093,
+        "word": "这是敖瑞鹏吗",
+        "onboard_time": 1693459963,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171463,
+        "num": 171463,
+        "word": "所有的温柔都给了晾衣架",
+        "onboard_time": 1693456550,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对四川凉山州金阳县山洪灾害作出重要指示#"
+    }
+  }
+}
