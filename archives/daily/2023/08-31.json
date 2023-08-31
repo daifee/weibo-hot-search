@@ -1,10 +1,10 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693448519832,
+  "endTime": 1693449222488,
   "band_list": [
     {
-      "raw_hot": 4467765,
-      "num": 515207,
+      "raw_hot": 5235169,
+      "num": 554250,
       "word": "宋祖儿",
       "onboard_time": 1693445614,
       "rank": 10,
@@ -27,6 +27,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 2521606,
+      "num": 2521606,
+      "word": "五险一金原来是这么回事",
+      "onboard_time": 1693444234,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
       "raw_hot": 2186019,
       "num": 2186019,
       "word": "孟晓苏称取消公摊是把老百姓当傻子忽悠",
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2143023,
-      "num": 2143023,
-      "word": "五险一金原来是这么回事",
-      "onboard_time": 1693444234,
-      "rank": 10,
-      "category": "其它"
-    },
-    {
       "raw_hot": 2124255,
       "num": 261932,
       "word": "李玟去世前给好友发信息",
       "onboard_time": 1693442918,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1601711,
+      "num": 1601711,
+      "word": "折腰",
+      "onboard_time": 1693447834,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1485400,
@@ -83,19 +91,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1036994,
-      "num": 1036994,
-      "word": "折腰",
-      "onboard_time": 1693447834,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 968562,
       "num": 968562,
       "word": "超级蓝月",
       "onboard_time": 1693390535,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955437,
+      "num": 955437,
+      "word": "女子同时供职16家公司却从不上班",
+      "onboard_time": 1693445555,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1693409619,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 841953,
-      "num": 841953,
-      "word": "女子同时供职16家公司却从不上班",
-      "onboard_time": 1693445555,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 818848,
@@ -161,6 +161,14 @@
       "onboard_time": 1693441475,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696372,
+      "num": 696372,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693447294,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 665774,
@@ -227,28 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572621,
+      "num": 572621,
+      "word": "费翔想封神质子了",
+      "onboard_time": 1693447174,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571581,
       "num": 571581,
       "word": "椰子汁与椰子水的区别在哪",
       "onboard_time": 1693446394,
       "rank": 12,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 562752,
-      "num": 562752,
-      "word": "逃出大英博物馆",
-      "onboard_time": 1693447294,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 544473,
-      "num": 544473,
-      "word": "费翔想封神质子了",
-      "onboard_time": 1693447174,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 543443,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485828,
+      "num": 485828,
+      "word": "相柳流血特效改了",
+      "onboard_time": 1693446573,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483983,
       "num": 279800,
       "word": "中元节最大禁忌是什么",
@@ -283,12 +291,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 471754,
-      "num": 471754,
-      "word": "相柳流血特效改了",
-      "onboard_time": 1693446573,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 448765,
+      "num": 448765,
+      "word": "新疆导游小祁升职了",
+      "onboard_time": 1693445436,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 431734,
@@ -305,14 +313,6 @@
       "onboard_time": 1693444176,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 411213,
-      "num": 411213,
-      "word": "新疆导游小祁升职了",
-      "onboard_time": 1693445436,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 403348,
@@ -337,6 +337,14 @@
       "onboard_time": 1693443696,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386212,
+      "num": 386212,
+      "word": "长相思你好星期六收视率",
+      "onboard_time": 1693448434,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 371219,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332341,
+      "num": 332341,
+      "word": "钟汉良吴镇宇新片尺度",
+      "onboard_time": 1693448313,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325985,
       "num": 325985,
       "word": "美国商务部长称持乐观态度离开中国",
@@ -411,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296245,
+      "num": 296245,
+      "word": "无忧渡",
+      "onboard_time": 1693448493,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291833,
       "num": 291833,
       "word": "宋亚轩凌晨3点半回酒店",
@@ -433,6 +457,14 @@
       "onboard_time": 1693405240,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281107,
+      "num": 245182,
+      "word": "公司的拖把长得好像一位故人",
+      "onboard_time": 1693448313,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 278356,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243417,
+      "num": 243417,
+      "word": "浙江夫妻手工复刻莲花楼太绝了",
+      "onboard_time": 1693447774,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233696,
       "num": 233696,
       "word": "三岁半女孩在跑步中一天天长大",
@@ -585,6 +625,14 @@
       "onboard_time": 1693395277,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232058,
+      "num": 232058,
+      "word": "是她发明了北京时间",
+      "onboard_time": 1693446334,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 227957,
@@ -603,19 +651,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224410,
-      "num": 224410,
-      "word": "是她发明了北京时间",
-      "onboard_time": 1693446334,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 223731,
       "num": 223731,
       "word": "这些重要新规9月起施行",
       "onboard_time": 1693447537,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222757,
+      "num": 222757,
+      "word": "女生每天只吃15元省下的全买书",
+      "onboard_time": 1693448852,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -648,14 +696,6 @@
       "word": "骄阳伴我央视版预告",
       "onboard_time": 1693444955,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211144,
-      "num": 211144,
-      "word": "钟汉良吴镇宇新片尺度",
-      "onboard_time": 1693448313,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -739,11 +779,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204554,
-      "num": 204554,
-      "word": "浙江夫妻手工复刻莲花楼太绝了",
-      "onboard_time": 1693447774,
-      "rank": 35,
+      "raw_hot": 203470,
+      "num": 203470,
+      "word": "看到女友发视频夸婆婆一查她已婚",
+      "onboard_time": 1693449097,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -763,6 +803,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 198905,
+      "num": 198905,
+      "word": "毛晓彤闪光抹胸蓝裙",
+      "onboard_time": 1693448914,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197387,
       "num": 197387,
       "word": "洪胜汉预录哭了",
@@ -779,20 +827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192293,
+      "num": 192293,
+      "word": "张云雷好妹妹合唱版相思赋予谁",
+      "onboard_time": 1693448852,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191295,
       "num": 191295,
       "word": "掏180万帮朋友还完房贷对方当场跑了",
       "onboard_time": 1693398158,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189738,
-      "num": 187974,
-      "word": "长相思你好星期六收视率",
-      "onboard_time": 1693448434,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 188246,
@@ -819,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182317,
-      "num": 182317,
-      "word": "无忧渡",
-      "onboard_time": 1693448493,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 178442,
       "num": 178442,
       "word": "周琦太软了",
@@ -841,14 +881,6 @@
       "onboard_time": 1693401577,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170411,
-      "num": 170411,
-      "word": "公司的拖把长得好像一位故人",
-      "onboard_time": 1693448313,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 167116,
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 103297,
-      "num": 1577156,
+      "num": 1708521,
       "word": "开学季第一张自拍",
       "onboard_time": 1693399539,
       "rank": 2,
