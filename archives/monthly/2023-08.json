@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693447471840,
+  "endTime": 1693448519832,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4467765,
+      "num": 515207,
+      "word": "宋祖儿",
+      "onboard_time": 1693445614,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4461977,
       "num": 930266,
       "word": "日本台风",
@@ -697,14 +705,6 @@
       "onboard_time": 1693009352,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3491511,
-      "num": 420608,
-      "word": "宋祖儿",
-      "onboard_time": 1693445614,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 3442463,
@@ -2979,6 +2979,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 2143023,
+      "num": 2143023,
+      "word": "五险一金原来是这么回事",
+      "onboard_time": 1693444234,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
       "raw_hot": 2142985,
       "num": 1124365,
       "word": "吴倩离婚后真是人间清醒",
@@ -4417,14 +4425,6 @@
       "onboard_time": 1693297657,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1799340,
-      "num": 1799340,
-      "word": "五险一金原来是这么回事",
-      "onboard_time": 1693444234,
-      "rank": 10,
-      "category": "其它"
     },
     {
       "raw_hot": 1795183,
@@ -10891,6 +10891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036994,
+      "num": 1036994,
+      "word": "折腰",
+      "onboard_time": 1692344380,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1034148,
       "num": 954514,
       "word": "范丞丞好韩",
@@ -10977,14 +10985,6 @@
       "onboard_time": 1691031701,
       "rank": 30,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 1025307,
-      "num": 1025307,
-      "word": "折腰",
-      "onboard_time": 1692344380,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1025099,
@@ -12576,6 +12576,14 @@
       "word": "绿衣小夭是长相思最美妆造吗",
       "onboard_time": 1691764600,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 924796,
+      "num": 419122,
+      "word": "宋祖儿待播剧",
+      "onboard_time": 1693447475,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -14331,6 +14339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841953,
+      "num": 841953,
+      "word": "女子同时供职16家公司却从不上班",
+      "onboard_time": 1693445555,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841696,
       "num": 841696,
       "word": "小区解聘物业70岁爷爷无偿当管家",
@@ -14897,14 +14913,6 @@
       "onboard_time": 1691437934,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 817991,
-      "num": 817991,
-      "word": "女子同时供职16家公司却从不上班",
-      "onboard_time": 1693445555,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 817651,
@@ -22779,6 +22787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589616,
+      "num": 355647,
+      "word": "大的已经被公司三千一月买走了",
+      "onboard_time": 1693444657,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 589609,
       "num": 589609,
       "word": "谁说女生不能是鲜衣怒马",
@@ -22849,14 +22865,6 @@
       "onboard_time": 1692455141,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 589225,
-      "num": 345132,
-      "word": "大的已经被公司三千一月买走了",
-      "onboard_time": 1693444657,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 589147,
@@ -23723,6 +23731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 571581,
+      "num": 571581,
+      "word": "椰子汁与椰子水的区别在哪",
+      "onboard_time": 1693446394,
+      "rank": 12,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 571530,
       "num": 250273,
       "word": "孔雪儿网红感",
@@ -24217,6 +24233,14 @@
       "onboard_time": 1693059466,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562752,
+      "num": 562752,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693292313,
+      "rank": 28,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 562552,
@@ -25369,6 +25393,14 @@
       "onboard_time": 1692869989,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544473,
+      "num": 544473,
+      "word": "费翔想封神质子了",
+      "onboard_time": 1693447174,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 544446,
@@ -29907,6 +29939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471754,
+      "num": 471754,
+      "word": "相柳流血特效改了",
+      "onboard_time": 1693446573,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471687,
       "num": 376678,
       "word": "一闪一闪亮星星",
@@ -30705,14 +30745,6 @@
       "onboard_time": 1691045318,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 459077,
-      "num": 459077,
-      "word": "逃出大英博物馆",
-      "onboard_time": 1693292313,
-      "rank": 28,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 459018,
@@ -33851,14 +33883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 419822,
-      "num": 419822,
-      "word": "椰子汁与椰子水的区别在哪",
-      "onboard_time": 1693446394,
-      "rank": 12,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 419753,
       "num": 366691,
       "word": "阿Sa阿娇晒和你天下第一好表情包",
@@ -34609,6 +34633,14 @@
       "onboard_time": 1692154475,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 411213,
+      "num": 411213,
+      "word": "新疆导游小祁升职了",
+      "onboard_time": 1693445436,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 411101,
@@ -35681,14 +35713,6 @@
       "onboard_time": 1691400101,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 397669,
-      "num": 397669,
-      "word": "新疆导游小祁升职了",
-      "onboard_time": 1693445436,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 397659,
@@ -41545,14 +41569,6 @@
       "onboard_time": 1692604717,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 337698,
-      "num": 337698,
-      "word": "相柳流血特效改了",
-      "onboard_time": 1693446573,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 337664,
@@ -53523,6 +53539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248751,
+      "num": 248751,
+      "word": "黄晓明见到了资助的学生",
+      "onboard_time": 1693446099,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248647,
       "num": 248647,
       "word": "被威胁导游回应鲁山天价雕塑后续",
@@ -56075,14 +56099,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 234200,
-      "num": 222734,
-      "word": "费翔想封神质子了",
-      "onboard_time": 1693447174,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234198,
       "num": 234198,
       "word": "WB对战XYG",
@@ -56097,14 +56113,6 @@
       "onboard_time": 1693291236,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234151,
-      "num": 234151,
-      "word": "黄晓明见到了资助的学生",
-      "onboard_time": 1693446099,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 234028,
@@ -57603,6 +57611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224457,
+      "num": 224457,
+      "word": "张之臻vs鲁德",
+      "onboard_time": 1693448135,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224410,
+      "num": 224410,
+      "word": "是她发明了北京时间",
+      "onboard_time": 1693446334,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 224281,
       "num": 224281,
       "word": "林允演唱会速成妆容",
@@ -57713,6 +57737,14 @@
       "onboard_time": 1693052794,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223731,
+      "num": 223731,
+      "word": "这些重要新规9月起施行",
+      "onboard_time": 1693447537,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223710,
@@ -60315,6 +60347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211144,
+      "num": 211144,
+      "word": "钟汉良吴镇宇新片尺度",
+      "onboard_time": 1693448313,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
@@ -61467,6 +61507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 206928,
+      "num": 203745,
+      "word": "电影困兽定档",
+      "onboard_time": 1693448255,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206818,
       "num": 206818,
       "word": "当你有个不要强的朋友",
@@ -62113,6 +62161,14 @@
       "onboard_time": 1692004657,
       "rank": 38,
       "category": "情感,动漫"
+    },
+    {
+      "raw_hot": 204554,
+      "num": 204554,
+      "word": "浙江夫妻手工复刻莲花楼太绝了",
+      "onboard_time": 1693447774,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204530,
@@ -65515,14 +65571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194388,
-      "num": 194388,
-      "word": "是她发明了北京时间",
-      "onboard_time": 1693446334,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 194387,
       "num": 194387,
       "word": "爸爸让我的妈妈多陪我30年",
@@ -66987,6 +67035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189738,
+      "num": 187974,
+      "word": "长相思你好星期六收视率",
+      "onboard_time": 1693448434,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189723,
       "num": 199995,
       "word": "全职高手3动画",
@@ -67337,6 +67393,14 @@
       "onboard_time": 1692243577,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188246,
+      "num": 188246,
+      "word": "舒淇威尼斯开幕红毯造型",
+      "onboard_time": 1693447475,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188211,
@@ -68633,6 +68697,14 @@
       "onboard_time": 1691890594,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182317,
+      "num": 182317,
+      "word": "无忧渡",
+      "onboard_time": 1693448493,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 182118,
@@ -70161,6 +70233,14 @@
       "onboard_time": 1693211496,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170411,
+      "num": 170411,
+      "word": "公司的拖把长得好像一位故人",
+      "onboard_time": 1693448313,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 170373,
@@ -75812,7 +75892,7 @@
     },
     {
       "raw_hot": 103297,
-      "num": 1204979,
+      "num": 1577156,
       "word": "开学季第一张自拍",
       "onboard_time": 1693399539,
       "rank": 34,

@@ -1,10 +1,10 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693447471840,
+  "endTime": 1693448519832,
   "band_list": [
     {
-      "raw_hot": 3491511,
-      "num": 420608,
+      "raw_hot": 4467765,
+      "num": 515207,
       "word": "宋祖儿",
       "onboard_time": 1693445614,
       "rank": 10,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2143023,
+      "num": 2143023,
+      "word": "五险一金原来是这么回事",
+      "onboard_time": 1693444234,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
       "raw_hot": 2124255,
       "num": 261932,
       "word": "李玟去世前给好友发信息",
       "onboard_time": 1693442918,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1799340,
-      "num": 1799340,
-      "word": "五险一金原来是这么回事",
-      "onboard_time": 1693444234,
-      "rank": 10,
-      "category": "其它"
     },
     {
       "raw_hot": 1485400,
@@ -83,12 +83,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1036994,
+      "num": 1036994,
+      "word": "折腰",
+      "onboard_time": 1693447834,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 968562,
       "num": 968562,
       "word": "超级蓝月",
       "onboard_time": 1693390535,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924796,
+      "num": 419122,
+      "word": "宋祖儿待播剧",
+      "onboard_time": 1693447475,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 853319,
@@ -99,20 +115,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 841953,
+      "num": 841953,
+      "word": "女子同时供职16家公司却从不上班",
+      "onboard_time": 1693445555,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818848,
       "num": 818848,
       "word": "中元节是中国人自己的寻梦环游记",
       "onboard_time": 1693442858,
       "rank": 5,
       "category": "情感,影视"
-    },
-    {
-      "raw_hot": 817991,
-      "num": 817991,
-      "word": "女子同时供职16家公司却从不上班",
-      "onboard_time": 1693445555,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 777897,
@@ -187,8 +203,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 589225,
-      "num": 345132,
+      "raw_hot": 589616,
+      "num": 355647,
       "word": "大的已经被公司三千一月买走了",
       "onboard_time": 1693444657,
       "rank": 31,
@@ -209,6 +225,30 @@
       "onboard_time": 1693397198,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571581,
+      "num": 571581,
+      "word": "椰子汁与椰子水的区别在哪",
+      "onboard_time": 1693446394,
+      "rank": 12,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 562752,
+      "num": 562752,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693447294,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 544473,
+      "num": 544473,
+      "word": "费翔想封神质子了",
+      "onboard_time": 1693447174,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 543443,
@@ -243,6 +283,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 471754,
+      "num": 471754,
+      "word": "相柳流血特效改了",
+      "onboard_time": 1693446573,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431734,
       "num": 429073,
       "word": "蔡国庆精神状态领先我几十年",
@@ -259,12 +307,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 419822,
-      "num": 419822,
-      "word": "椰子汁与椰子水的区别在哪",
-      "onboard_time": 1693446394,
-      "rank": 12,
-      "category": "美食,幽默"
+      "raw_hot": 411213,
+      "num": 411213,
+      "word": "新疆导游小祁升职了",
+      "onboard_time": 1693445436,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 403348,
@@ -281,14 +329,6 @@
       "onboard_time": 1693401639,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397669,
-      "num": 397669,
-      "word": "新疆导游小祁升职了",
-      "onboard_time": 1693445436,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 391759,
@@ -337,14 +377,6 @@
       "onboard_time": 1693440875,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337698,
-      "num": 337698,
-      "word": "相柳流血特效改了",
-      "onboard_time": 1693446573,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 325985,
@@ -515,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248751,
+      "num": 248751,
+      "word": "黄晓明见到了资助的学生",
+      "onboard_time": 1693446099,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248647,
       "num": 248647,
       "word": "被威胁导游回应鲁山天价雕塑后续",
@@ -529,22 +569,6 @@
       "onboard_time": 1693376562,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234200,
-      "num": 222734,
-      "word": "费翔想封神质子了",
-      "onboard_time": 1693447174,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 234151,
-      "num": 234151,
-      "word": "黄晓明见到了资助的学生",
-      "onboard_time": 1693446099,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 233696,
@@ -569,6 +593,30 @@
       "onboard_time": 1693440756,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224457,
+      "num": 224457,
+      "word": "张之臻vs鲁德",
+      "onboard_time": 1693448135,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224410,
+      "num": 224410,
+      "word": "是她发明了北京时间",
+      "onboard_time": 1693446334,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 223731,
+      "num": 223731,
+      "word": "这些重要新规9月起施行",
+      "onboard_time": 1693447537,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222155,
@@ -600,6 +648,14 @@
       "word": "骄阳伴我央视版预告",
       "onboard_time": 1693444955,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211144,
+      "num": 211144,
+      "word": "钟汉良吴镇宇新片尺度",
+      "onboard_time": 1693448313,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -651,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206928,
+      "num": 203745,
+      "word": "电影困兽定档",
+      "onboard_time": 1693448255,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206587,
       "num": 206587,
       "word": "苏拉",
@@ -675,12 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203436,
-      "num": 203436,
-      "word": "逃出大英博物馆",
-      "onboard_time": 1693447294,
-      "rank": 36,
-      "category": "网红"
+      "raw_hot": 204554,
+      "num": 204554,
+      "word": "浙江夫妻手工复刻莲花楼太绝了",
+      "onboard_time": 1693447774,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199478,
@@ -707,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194388,
-      "num": 194388,
-      "word": "是她发明了北京时间",
-      "onboard_time": 1693446334,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 194093,
       "num": 253653,
       "word": "8月最后一天",
@@ -729,6 +785,22 @@
       "onboard_time": 1693398158,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189738,
+      "num": 187974,
+      "word": "长相思你好星期六收视率",
+      "onboard_time": 1693448434,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188246,
+      "num": 188246,
+      "word": "舒淇威尼斯开幕红毯造型",
+      "onboard_time": 1693447475,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185236,
@@ -747,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182317,
+      "num": 182317,
+      "word": "无忧渡",
+      "onboard_time": 1693448493,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178442,
       "num": 178442,
       "word": "周琦太软了",
@@ -761,6 +841,14 @@
       "onboard_time": 1693401577,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170411,
+      "num": 170411,
+      "word": "公司的拖把长得好像一位故人",
+      "onboard_time": 1693448313,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 167116,
@@ -892,7 +980,7 @@
     },
     {
       "raw_hot": 103297,
-      "num": 1204979,
+      "num": 1577156,
       "word": "开学季第一张自拍",
       "onboard_time": 1693399539,
       "rank": 2,
