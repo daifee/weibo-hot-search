@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693509114423,
+  "endTime": 1693510436020,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -10819,6 +10819,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 59769,
+      "num": 29865,
+      "word": "女大学生被对面卧铺大叔多角度偷拍",
+      "onboard_time": 1693508894,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55487,
       "num": 55487,
       "word": "宋妍霏冷艳小白花",
@@ -11051,20 +11059,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 29209,
-      "num": 29865,
-      "word": "女大学生被对面卧铺大叔多角度偷拍",
-      "onboard_time": 1693508894,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28823,
       "num": 798088,
       "word": "亚运吉祥物图案的红绿灯",
       "onboard_time": 1693282718,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28553,
+      "num": 28553,
+      "word": "许光汉鬼家人角逐奥斯卡",
+      "onboard_time": 1693509854,
+      "rank": 33,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 28341,
@@ -11097,6 +11105,14 @@
       "onboard_time": 1693247421,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24101,
+      "num": 26963,
+      "word": "王鹤棣舞剑vs背文言文",
+      "onboard_time": 1693509255,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 23326,

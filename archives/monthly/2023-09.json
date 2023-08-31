@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693509114423,
+  "endTime": 1693510436020,
   "band_list": [
     {
       "raw_hot": 2643469,
@@ -459,6 +459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 59769,
+      "num": 29865,
+      "word": "女大学生被对面卧铺大叔多角度偷拍",
+      "onboard_time": 1693508894,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53327,
       "num": 53327,
       "word": "这届父母真的很懂阴阳",
@@ -523,12 +531,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29209,
-      "num": 29865,
-      "word": "女大学生被对面卧铺大叔多角度偷拍",
-      "onboard_time": 1693508894,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 28553,
+      "num": 28553,
+      "word": "许光汉鬼家人角逐奥斯卡",
+      "onboard_time": 1693509854,
+      "rank": 33,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 24101,
+      "num": 26963,
+      "word": "王鹤棣舞剑vs背文言文",
+      "onboard_time": 1693509255,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 22961,
