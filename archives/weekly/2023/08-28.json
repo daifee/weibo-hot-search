@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693456452665,
+  "endTime": 1693458939541,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -24,6 +24,14 @@
       "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
       "onboard_time": 1693375235,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5182206,
+      "num": 554421,
+      "word": "李湘 我已退休",
+      "onboard_time": 1693456909,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042480,
+      "num": 565894,
+      "word": "俄民众建议日本人移居俄罗斯",
+      "onboard_time": 1693455532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1040966,
       "num": 1040966,
       "word": "林志颖推荐林俊杰来下一季披哥",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1693370920,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 907634,
+      "num": 907634,
+      "word": "杨洋宋焰暑期档最热都市剧角色",
+      "onboard_time": 1693457390,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 905099,
@@ -1723,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 721321,
+      "num": 393247,
+      "word": "原来熬夜会让身体变臭是真的",
+      "onboard_time": 1693454809,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 718472,
       "num": 341870,
       "word": "被刚入职的00后小姑娘向上管理",
@@ -2043,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637736,
+      "num": 462751,
+      "word": "大的已经被公司三千一月买走了",
+      "onboard_time": 1693444657,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 636731,
       "num": 367213,
       "word": "iPhone15或新增绿色",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1693398158,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623014,
-      "num": 393247,
-      "word": "原来熬夜会让身体变臭是真的",
-      "onboard_time": 1693454809,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 622771,
@@ -2235,14 +2267,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 589616,
-      "num": 462751,
-      "word": "大的已经被公司三千一月买走了",
-      "onboard_time": 1693444657,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 585627,
       "num": 585627,
       "word": "4万学费宿舍到处是垃圾没法住",
@@ -2344,14 +2368,6 @@
       "word": "看到女友发视频夸婆婆一查她已婚",
       "onboard_time": 1693449097,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565894,
-      "num": 565894,
-      "word": "俄民众建议日本人移居俄罗斯",
-      "onboard_time": 1693455532,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3419,6 +3435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409247,
+      "num": 409247,
+      "word": "玲娜贝儿中秋新衣",
+      "onboard_time": 1693454748,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 408805,
       "num": 307009,
       "word": "小小一个电梯窒息三分钟",
@@ -3473,14 +3497,6 @@
       "onboard_time": 1693328006,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 400856,
-      "num": 400856,
-      "word": "玲娜贝儿中秋新衣",
-      "onboard_time": 1693454748,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 400841,
@@ -5411,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277127,
+      "num": 278416,
+      "word": "天津大爷直播遇溺水匆匆跳河救人",
+      "onboard_time": 1693456372,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276761,
       "num": 260969,
       "word": "那英澳门演唱会延期",
@@ -6187,12 +6211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241319,
+      "num": 241319,
+      "word": "文俊辉在going里文化输出",
+      "onboard_time": 1693457508,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 241167,
       "num": 241167,
       "word": "张子豪 我会好好养伤早日跟大家见面",
       "onboard_time": 1693198900,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241141,
+      "num": 241141,
+      "word": "不缴五险一金有何后果",
+      "onboard_time": 1693458349,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 240866,
@@ -6352,6 +6392,14 @@
       "word": "张晚意小孩版光头强",
       "onboard_time": 1693291236,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234059,
+      "num": 234059,
+      "word": "莲花楼2023微博爆款剧集",
+      "onboard_time": 1693456188,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -6827,14 +6875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211255,
-      "num": 211255,
-      "word": "莲花楼2023微博爆款剧集",
-      "onboard_time": 1693456188,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211237,
       "num": 203332,
       "word": "吴彦祖 找到一些高中yearbook的照片",
@@ -6907,20 +6947,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209237,
+      "num": 209237,
+      "word": "很难不怀疑我是ie浏览器",
+      "onboard_time": 1693458049,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208270,
       "num": 208270,
       "word": "证券交易印花税实施减半征收",
       "onboard_time": 1693186899,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 208083,
-      "num": 208083,
-      "word": "天津大爷直播遇溺水匆匆跳河救人",
-      "onboard_time": 1693456372,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208052,
@@ -7025,6 +7065,14 @@
       "onboard_time": 1693446995,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205129,
+      "num": 205129,
+      "word": "十个勤天呼吁保护野生象",
+      "onboard_time": 1693458409,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 204732,
@@ -7561,6 +7609,14 @@
       "onboard_time": 1693217858,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194933,
+      "num": 194933,
+      "word": "所有的温柔都给了晾衣架",
+      "onboard_time": 1693456550,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 194621,
@@ -8177,6 +8233,14 @@
       "onboard_time": 1693306299,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 169925,
+      "num": 169925,
+      "word": "亲爱的隐居先生开播",
+      "onboard_time": 1693457575,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 169805,
@@ -8947,6 +9011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92279,
+      "num": 1528190,
+      "word": "开学日必备的仪式感",
+      "onboard_time": 1693456972,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92099,
       "num": 398545,
       "word": "管泽元被偷家了",
@@ -9432,6 +9504,14 @@
       "word": "多渠道多形式讲好新时代新疆故事",
       "onboard_time": 1693221217,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5729,
+      "num": 417908,
+      "word": "男子强行进站持刀伤人被制服",
+      "onboard_time": 1693458882,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],

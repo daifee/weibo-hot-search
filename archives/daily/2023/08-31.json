@@ -1,12 +1,20 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693456452665,
+  "endTime": 1693458939541,
   "band_list": [
     {
       "raw_hot": 12742602,
       "num": 12742602,
       "word": "宋祖儿",
       "onboard_time": 1693445614,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5182206,
+      "num": 554421,
+      "word": "李湘 我已退休",
+      "onboard_time": 1693456909,
       "rank": 10,
       "category": "艺人"
     },
@@ -123,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1042480,
+      "num": 565894,
+      "word": "俄民众建议日本人移居俄罗斯",
+      "onboard_time": 1693455532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994962,
       "num": 994962,
       "word": "刘宇郑乃馨苍兰诀剧照",
@@ -153,6 +169,14 @@
       "onboard_time": 1693445555,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 907634,
+      "num": 907634,
+      "word": "杨洋宋焰暑期档最热都市剧角色",
+      "onboard_time": 1693457390,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 900404,
@@ -209,6 +233,14 @@
       "onboard_time": 1693449575,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 721321,
+      "num": 393247,
+      "word": "原来熬夜会让身体变臭是真的",
+      "onboard_time": 1693454809,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 718472,
@@ -283,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 623014,
-      "num": 393247,
-      "word": "原来熬夜会让身体变臭是真的",
-      "onboard_time": 1693454809,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 637736,
+      "num": 462751,
+      "word": "大的已经被公司三千一月买走了",
+      "onboard_time": 1693444657,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 619279,
@@ -305,14 +337,6 @@
       "onboard_time": 1693406504,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 589616,
-      "num": 462751,
-      "word": "大的已经被公司三千一月买走了",
-      "onboard_time": 1693444657,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 586218,
@@ -360,14 +384,6 @@
       "word": "看到女友发视频夸婆婆一查她已婚",
       "onboard_time": 1693449097,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565894,
-      "num": 565894,
-      "word": "俄民众建议日本人移居俄罗斯",
-      "onboard_time": 1693455532,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -467,20 +483,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 409247,
+      "num": 409247,
+      "word": "玲娜贝儿中秋新衣",
+      "onboard_time": 1693454748,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 403348,
       "num": 277463,
       "word": "30岁左右的人经常犯的错误",
       "onboard_time": 1693407278,
       "rank": 21,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 400856,
-      "num": 400856,
-      "word": "玲娜贝儿中秋新衣",
-      "onboard_time": 1693454748,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 400841,
@@ -683,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277127,
+      "num": 278416,
+      "word": "天津大爷直播遇溺水匆匆跳河救人",
+      "onboard_time": 1693456372,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276998,
       "num": 256836,
       "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
@@ -835,6 +859,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241319,
+      "num": 241319,
+      "word": "文俊辉在going里文化输出",
+      "onboard_time": 1693457508,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 241141,
+      "num": 241141,
+      "word": "不缴五险一金有何后果",
+      "onboard_time": 1693458349,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 234059,
+      "num": 234059,
+      "word": "莲花楼2023微博爆款剧集",
+      "onboard_time": 1693456188,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233696,
       "num": 233696,
       "word": "三岁半女孩在跑步中一天天长大",
@@ -931,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211255,
-      "num": 211255,
-      "word": "莲花楼2023微博爆款剧集",
-      "onboard_time": 1693456188,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210275,
       "num": 210275,
       "word": "可能出现三台风局面",
@@ -971,12 +1011,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208083,
-      "num": 208083,
-      "word": "天津大爷直播遇溺水匆匆跳河救人",
-      "onboard_time": 1693456372,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 209237,
+      "num": 209237,
+      "word": "很难不怀疑我是ie浏览器",
+      "onboard_time": 1693458049,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 208052,
@@ -1027,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205129,
+      "num": 205129,
+      "word": "十个勤天呼吁保护野生象",
+      "onboard_time": 1693458409,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203638,
       "num": 203638,
       "word": "能同时兼顾追星和工作的人",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1693444837,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194933,
+      "num": 194933,
+      "word": "所有的温柔都给了晾衣架",
+      "onboard_time": 1693456550,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 194093,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1693401577,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169925,
+      "num": 169925,
+      "word": "亲爱的隐居先生开播",
+      "onboard_time": 1693457575,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 167116,
@@ -1299,6 +1363,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 92279,
+      "num": 1528190,
+      "word": "开学日必备的仪式感",
+      "onboard_time": 1693456972,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91298,
       "num": 91298,
       "word": "为什么这些生活技巧我都不会",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1693426394,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5729,
+      "num": 417908,
+      "word": "男子强行进站持刀伤人被制服",
+      "onboard_time": 1693458882,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
