@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693467236052,
+  "endTime": 1693470076213,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -33,6 +33,14 @@
       "onboard_time": 1693449455,
       "rank": 3,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 3157691,
+      "num": 3157691,
+      "word": "深圳全市将停课",
+      "onboard_time": 1693467460,
+      "rank": 0,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 3053784,
@@ -107,12 +115,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1625786,
+      "num": 419021,
+      "word": "妻子出轨被抓现行称其为了报复丈夫",
+      "onboard_time": 1693465300,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1485400,
       "num": 1485400,
       "word": "用华为手机给美国商务部长拍照",
       "onboard_time": 1693407220,
       "rank": 1,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1453648,
+      "num": 1453648,
+      "word": "女子账户突然多出800万元吓得报警",
+      "onboard_time": 1693467639,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1235856,
@@ -129,6 +153,14 @@
       "onboard_time": 1693438290,
       "rank": 45,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 1091398,
+      "num": 412967,
+      "word": "田曦薇横店奶茶大客户",
+      "onboard_time": 1693465965,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 1083569,
@@ -211,14 +243,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 868617,
-      "num": 348141,
-      "word": "妻子出轨被抓现行称其为了报复丈夫",
-      "onboard_time": 1693465300,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 866264,
       "num": 866264,
       "word": "孙菲菲回应被霸凌原因",
@@ -233,14 +257,6 @@
       "onboard_time": 1693409619,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 850949,
-      "num": 377756,
-      "word": "田曦薇横店奶茶大客户",
-      "onboard_time": 1693465965,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 819339,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 727627,
-      "num": 336029,
+      "num": 402062,
       "word": "23岁小伙猝死宿舍每天工作超10小时",
       "onboard_time": 1693464879,
       "rank": 21,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 653463,
-      "num": 332498,
+      "num": 351522,
       "word": "在床底发现已逝小狗三年前的脚印",
       "onboard_time": 1693462900,
       "rank": 30,
@@ -547,12 +563,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478636,
+      "num": 411757,
+      "word": "女儿问妈妈为什么要多花钱",
+      "onboard_time": 1693468302,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 467394,
       "num": 467394,
       "word": "A股",
       "onboard_time": 1693462602,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 463834,
+      "num": 463834,
+      "word": "张远怎么说服张栋梁徐良的",
+      "onboard_time": 1693468479,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 463505,
@@ -579,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449600,
+      "num": 409698,
+      "word": "赵露思手拿玫瑰花气球",
+      "onboard_time": 1693467221,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448765,
       "num": 448765,
       "word": "新疆导游小祁升职了",
@@ -593,6 +633,14 @@
       "onboard_time": 1693463142,
       "rank": 19,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 440882,
+      "num": 409187,
+      "word": "离职前一定要清理电脑",
+      "onboard_time": 1693468239,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 431734,
@@ -619,12 +667,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 415027,
+      "num": 398843,
+      "word": "杭州有人冒雨赶在利率下调前存1000多万",
+      "onboard_time": 1693468002,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 409247,
       "num": 409247,
       "word": "玲娜贝儿中秋新衣",
       "onboard_time": 1693454748,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 408112,
+      "num": 408112,
+      "word": "唐艺昕男友视角",
+      "onboard_time": 1693467401,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 403348,
@@ -835,12 +899,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 299878,
+      "num": 299878,
+      "word": "敖瑞鹏 这是微博吗",
+      "onboard_time": 1693469321,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296245,
       "num": 296245,
       "word": "无忧渡",
       "onboard_time": 1693448493,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295702,
+      "num": 295702,
+      "word": "网飞海贼王真人版",
+      "onboard_time": 1693467879,
+      "rank": 28,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 291833,
@@ -931,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276869,
+      "num": 276869,
+      "word": "谢娜让吴俊霆红了别忘了她",
+      "onboard_time": 1693468839,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276097,
       "num": 276097,
       "word": "金智秀晒与查理兹塞隆合照",
@@ -969,6 +1057,14 @@
       "onboard_time": 1693451737,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 268080,
+      "num": 268080,
+      "word": "下辈子换我当李湘",
+      "onboard_time": 1693467522,
+      "rank": 31,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 266881,
@@ -1035,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251314,
+      "num": 251314,
+      "word": "深圳台风",
+      "onboard_time": 1693467941,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250647,
       "num": 250647,
       "word": "奇葩大会丁锐被曝PUA学员",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1693376562,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243846,
+      "num": 243846,
+      "word": "我痘痘吴来赛里木湖只做两件事",
+      "onboard_time": 1693468061,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 243417,
@@ -1169,6 +1281,14 @@
       "onboard_time": 1693458049,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226229,
+      "num": 226229,
+      "word": "有些家庭环境就是精神病院",
+      "onboard_time": 1693466144,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 224457,
@@ -1403,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195825,
-      "num": 195825,
-      "word": "有些家庭环境就是精神病院",
-      "onboard_time": 1693466144,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194933,
       "num": 194933,
       "word": "所有的温柔都给了晾衣架",
@@ -1473,6 +1585,14 @@
       "onboard_time": 1693437869,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 183557,
+      "num": 183557,
+      "word": "中国男篮vs安哥拉男篮",
+      "onboard_time": 1693469922,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 182812,
@@ -1571,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144055,
-      "num": 144055,
-      "word": "赵露思手拿玫瑰花气球",
-      "onboard_time": 1693467221,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142402,
       "num": 142402,
       "word": "爱奇艺是懂KPI的",
@@ -1660,7 +1772,7 @@
     },
     {
       "raw_hot": 102722,
-      "num": 1528190,
+      "num": 1537472,
       "word": "开学日必备的仪式感",
       "onboard_time": 1693456972,
       "rank": 2,
@@ -1680,6 +1792,14 @@
       "word": "大熊猫谊谊和升谊已平安回国",
       "onboard_time": 1693465240,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93919,
+      "num": 283956,
+      "word": "原来这就是中国情义",
+      "onboard_time": 1693469201,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1769,6 +1889,14 @@
       "onboard_time": 1693417219,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44256,
+      "num": 414461,
+      "word": "体育学院大一新生以武会友",
+      "onboard_time": 1693468839,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42740,
