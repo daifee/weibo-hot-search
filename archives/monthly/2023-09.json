@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693506062627,
+  "endTime": 1693506846882,
   "band_list": [
     {
       "raw_hot": 2643469,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130844,
+      "num": 71052,
+      "word": "缅北电诈头目姐夫等225人被抓",
+      "onboard_time": 1693504759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125422,
       "num": 125422,
       "word": "张韶涵 我在扬州没空想你",
@@ -409,14 +417,6 @@
       "onboard_time": 1693477299,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 103469,
-      "num": 71052,
-      "word": "缅北电诈头目姐夫等225人被抓",
-      "onboard_time": 1693504759,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88282,
@@ -483,19 +483,35 @@
       "category": "美食"
     },
     {
-      "raw_hot": 39451,
-      "num": 39451,
+      "raw_hot": 46053,
+      "num": 46053,
       "word": "康辉 如何活出自己喜欢的样子",
       "onboard_time": 1693505178,
       "rank": 44,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34910,
+      "raw_hot": 36872,
       "num": 37065,
       "word": "人在什么情况下会情绪稳定",
       "onboard_time": 1693505538,
       "rank": 47,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 30211,
+      "num": 34804,
+      "word": "原来流氓竟是我",
+      "onboard_time": 1693506676,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 29173,
+      "num": 34784,
+      "word": "河狸 对呀都是我干的",
+      "onboard_time": 1693506797,
+      "rank": 49,
       "category": "其它"
     },
     {

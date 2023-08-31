@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693506062627,
+  "endTime": 1693506846882,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -10227,6 +10227,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 130844,
+      "num": 71052,
+      "word": "缅北电诈头目姐夫等225人被抓",
+      "onboard_time": 1693504759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129805,
       "num": 129805,
       "word": "陆毅晒披荆斩棘四人间",
@@ -10433,14 +10441,6 @@
       "onboard_time": 1693255873,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 103469,
-      "num": 71052,
-      "word": "缅北电诈头目姐夫等225人被抓",
-      "onboard_time": 1693504759,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103297,
@@ -10899,6 +10899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46053,
+      "num": 46053,
+      "word": "康辉 如何活出自己喜欢的样子",
+      "onboard_time": 1693505178,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45371,
       "num": 1885440,
       "word": "多姿多彩多元多样是世界应有的样子",
@@ -10947,14 +10955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39451,
-      "num": 39451,
-      "word": "康辉 如何活出自己喜欢的样子",
-      "onboard_time": 1693505178,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39175,
       "num": 39175,
       "word": "感觉上班好像在扮演大人",
@@ -10979,20 +10979,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36872,
+      "num": 37065,
+      "word": "人在什么情况下会情绪稳定",
+      "onboard_time": 1693505538,
+      "rank": 47,
+      "category": "其它"
+    },
+    {
       "raw_hot": 34911,
       "num": 43531,
       "word": "刘德华 做朋友是不需要理由的",
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34910,
-      "num": 37065,
-      "word": "人在什么情况下会情绪稳定",
-      "onboard_time": 1693505538,
-      "rank": 47,
-      "category": "其它"
     },
     {
       "raw_hot": 31491,
@@ -11019,12 +11019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30211,
+      "num": 34804,
+      "word": "原来流氓竟是我",
+      "onboard_time": 1693506676,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30089,
       "num": 30089,
       "word": "电动车未来可用上人造太阳",
       "onboard_time": 1693333637,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 29173,
+      "num": 34784,
+      "word": "河狸 对呀都是我干的",
+      "onboard_time": 1693506797,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 28823,
