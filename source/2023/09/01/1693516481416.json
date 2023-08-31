@@ -1,0 +1,410 @@
+{
+  "runTime": 1693516481416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100114,
+        "num": 100114,
+        "word": "墨菲定律",
+        "onboard_time": 1693498533,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84192,
+        "num": 84192,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6542,
+        "num": 74666,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73945,
+        "num": 73945,
+        "word": "首套房贷款最低首付比例不低于20%",
+        "onboard_time": 1693485453,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 52183,
+        "num": 52183,
+        "word": "iPhone15系列爆料",
+        "onboard_time": 1693491639,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 50791,
+        "num": 50791,
+        "word": "美特斯邦威为什么凉了",
+        "onboard_time": 1693483056,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50201,
+        "num": 50201,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 44841,
+        "num": 44841,
+        "word": "九月各星座注意事项",
+        "onboard_time": 1693488761,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41456,
+        "num": 41456,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41343,
+        "num": 41343,
+        "word": "台风苏拉趋向广东海面",
+        "onboard_time": 1693480115,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303797,
+        "num": 41056,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84715,
+        "num": 40012,
+        "word": "被医院判死刑的孩子",
+        "onboard_time": 1693491760,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 83452,
+        "num": 38486,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50796,
+        "num": 38244,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24908,
+        "num": 37181,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36420,
+        "num": 36420,
+        "word": "陕西一医院规定男55岁女44岁不续聘",
+        "onboard_time": 1693488761,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35141,
+        "num": 35141,
+        "word": "许光汉鬼家人角逐奥斯卡",
+        "onboard_time": 1693509854,
+        "rank": 16,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 34707,
+        "num": 34707,
+        "word": "美国商务部长乘中国高铁让美媒纠结",
+        "onboard_time": 1693488216,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33186,
+        "num": 33186,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29337,
+        "num": 29337,
+        "word": "王源明天飞美国",
+        "onboard_time": 1693478439,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79395,
+        "num": 29204,
+        "word": "断缴社保的年轻人都是怎么想的",
+        "onboard_time": 1693495481,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47781,
+        "num": 28749,
+        "word": "缅北电诈头目姐夫等225人被抓",
+        "onboard_time": 1693504759,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36376,
+        "num": 28540,
+        "word": "男朋友以为是造型拍了下来",
+        "onboard_time": 1693490680,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35657,
+        "num": 27957,
+        "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+        "onboard_time": 1693493259,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 27939,
+        "num": 27939,
+        "word": "赵露思把自己穿身上",
+        "onboard_time": 1693494103,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25643,
+        "num": 25643,
+        "word": "第一次不想让男女主谈恋爱",
+        "onboard_time": 1693491819,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25313,
+        "num": 25313,
+        "word": "男子离婚两月后发现2岁儿子非亲生",
+        "onboard_time": 1693491698,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23606,
+        "num": 23606,
+        "word": "蔡文静韩东君浴室吻",
+        "onboard_time": 1693496854,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23047,
+        "num": 23047,
+        "word": "张拿铁训斥奶奶不吃饭就下桌",
+        "onboard_time": 1693480656,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22336,
+        "num": 22336,
+        "word": "欧冠32强全部出炉",
+        "onboard_time": 1693497995,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69467,
+        "num": 22292,
+        "word": "女大学生被对面卧铺大叔多角度偷拍",
+        "onboard_time": 1693508894,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49153,
+        "num": 22250,
+        "word": "国防部回应何时解决台湾问题",
+        "onboard_time": 1693496199,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 27610,
+        "num": 22226,
+        "word": "谐音梗为什么要扣钱",
+        "onboard_time": 1693512554,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22147,
+        "num": 22147,
+        "word": "DRG夏季赛淘汰",
+        "onboard_time": 1693495898,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21826,
+        "num": 21826,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21136,
+        "num": 21136,
+        "word": "金泰亨solo",
+        "onboard_time": 1693511053,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20713,
+        "num": 20713,
+        "word": "原来拉伸真的很重要",
+        "onboard_time": 1693476760,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20310,
+        "num": 20310,
+        "word": "YG新女团或将亮相BLACKPINK演唱会",
+        "onboard_time": 1693495179,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20274,
+        "num": 20274,
+        "word": "降存量首套房贷利率",
+        "onboard_time": 1693486478,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 20213,
+        "num": 20213,
+        "word": "康辉 如何活出自己喜欢的样子",
+        "onboard_time": 1693505178,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19559,
+        "num": 19559,
+        "word": "人在什么情况下会情绪稳定",
+        "onboard_time": 1693505538,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 18766,
+        "num": 18766,
+        "word": "广东一比一复刻故宫",
+        "onboard_time": 1693501284,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 18363,
+        "num": 18363,
+        "word": "好歹毒的一道菜",
+        "onboard_time": 1693514652,
+        "rank": 42,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 17958,
+        "num": 17958,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17953,
+        "num": 17953,
+        "word": "餐馆限定的杏鲍菇",
+        "onboard_time": 1693503619,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17619,
+        "num": 17619,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 16535,
+        "num": 17616,
+        "word": "逃出大英博物馆第二集开播",
+        "onboard_time": 1693477299,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15400,
+        "num": 17596,
+        "word": "河狸 对呀都是我干的",
+        "onboard_time": 1693506797,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 15341,
+        "num": 17592,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15041,
+        "num": 17581,
+        "word": "张韶涵 我在扬州没空想你",
+        "onboard_time": 1693478257,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励安徽省潜山野寨中学新考取军校的同学们#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693514059520,
+  "endTime": 1693516481416,
   "band_list": [
     {
       "raw_hot": 2643469,
@@ -547,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27610,
+      "num": 23756,
+      "word": "谐音梗为什么要扣钱",
+      "onboard_time": 1693512554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24101,
       "num": 26963,
       "word": "王鹤棣舞剑vs背文言文",
@@ -555,20 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23756,
-      "num": 23756,
-      "word": "谐音梗为什么要扣钱",
-      "onboard_time": 1693512554,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22961,
       "num": 29834,
       "word": "钓鱼佬的乐趣有哪些",
       "onboard_time": 1693506077,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18363,
+      "num": 18363,
+      "word": "好歹毒的一道菜",
+      "onboard_time": 1693514652,
+      "rank": 42,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 17444,

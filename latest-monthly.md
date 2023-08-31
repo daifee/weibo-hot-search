@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/01 04:34:19
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/01 05:14:41
 </p>
 </blockquote>
 <p>
@@ -423,20 +423,26 @@ YG新女团或将亮相BLACKPINK演唱会（热度：284246）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%90%E9%9F%B3%E6%A2%97%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%89%A3%E9%92%B1%23" target="weibo">
+谐音梗为什么要扣钱（热度：27610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%88%9E%E5%89%91vs%E8%83%8C%E6%96%87%E8%A8%80%E6%96%87%23" target="weibo">
 王鹤棣舞剑vs背文言文（热度：24101）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%90%E9%9F%B3%E6%A2%97%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%89%A3%E9%92%B1%23" target="weibo">
-谐音梗为什么要扣钱（热度：23756）
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%93%E9%B1%BC%E4%BD%AC%E7%9A%84%E4%B9%90%E8%B6%A3%E6%9C%89%E5%93%AA%E4%BA%9B%23" target="weibo">
+钓鱼佬的乐趣有哪些（热度：22961）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%93%E9%B1%BC%E4%BD%AC%E7%9A%84%E4%B9%90%E8%B6%A3%E6%9C%89%E5%93%AA%E4%BA%9B%23" target="weibo">
-钓鱼佬的乐趣有哪些（热度：22961）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E4%B8%80%E9%81%93%E8%8F%9C%23" target="weibo">
+好歹毒的一道菜（热度：18363）
 </a>
 </li>
 
