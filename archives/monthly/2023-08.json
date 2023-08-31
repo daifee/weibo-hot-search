@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693486121086,
+  "endTime": 1693488025820,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2841,6 +2841,14 @@
       "onboard_time": 1691453013,
       "rank": 10,
       "category": "其它"
+    },
+    {
+      "raw_hot": 2203659,
+      "num": 2203659,
+      "word": "首套房贷款最低首付比例不低于20%",
+      "onboard_time": 1693485453,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2197630,
@@ -11065,6 +11073,14 @@
       "onboard_time": 1693049677,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1032907,
+      "num": 1032907,
+      "word": "虞书欣点了东北黏糊麻辣烫",
+      "onboard_time": 1693486115,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1032490,
@@ -20195,6 +20211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658690,
+      "num": 658690,
+      "word": "降存量首套房贷利率",
+      "onboard_time": 1693486478,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 658355,
       "num": 392675,
       "word": "QQ音乐",
@@ -22817,6 +22841,14 @@
       "onboard_time": 1691039677,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 596463,
+      "num": 596463,
+      "word": "日本男篮vs委内瑞拉男篮",
+      "onboard_time": 1693486416,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 596337,
@@ -40195,6 +40227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358331,
+      "num": 358331,
+      "word": "不致命但却很烦人的慢性病",
+      "onboard_time": 1693487016,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358152,
       "num": 358152,
       "word": "龚俊版恐龙扛狼",
@@ -41283,14 +41323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 348530,
-      "num": 360868,
-      "word": "首套房贷款最低首付比例不低于20%",
-      "onboard_time": 1693485453,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 348484,
       "num": 348484,
       "word": "相差1岁多兄妹在爷爷肩头争宠",
@@ -42313,6 +42345,14 @@
       "onboard_time": 1692959558,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337443,
+      "num": 228842,
+      "word": "日本男篮战胜委内瑞拉男篮",
+      "onboard_time": 1693487378,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 337408,
@@ -50393,6 +50433,14 @@
       "onboard_time": 1691106690,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275767,
+      "num": 275767,
+      "word": "孤注一掷进入2023年票房榜前三",
+      "onboard_time": 1693487255,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 275760,
@@ -61891,6 +61939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209366,
+      "num": 209366,
+      "word": "华为Mate60Pro+",
+      "onboard_time": 1693487679,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 209334,
       "num": 209334,
       "word": "檀健次谈偶像",
@@ -63137,6 +63193,14 @@
       "onboard_time": 1693458409,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "骄阳伴我央视频追剧日历",
+      "onboard_time": 1693487316,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 205102,
@@ -68427,6 +68491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189103,
+      "num": 189103,
+      "word": "封神现代篇",
+      "onboard_time": 1693485995,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189073,
       "num": 189073,
       "word": "张杰演唱会重返鸟巢",
@@ -71843,6 +71915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167767,
+      "num": 167767,
+      "word": "住房信贷政策官方最新解读",
+      "onboard_time": 1693487559,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 167697,
       "num": 167697,
       "word": "这家日系法餐在上海竟然能火",
@@ -72121,6 +72201,14 @@
       "onboard_time": 1692722250,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165439,
+      "num": 165439,
+      "word": "自制黄桃饮品",
+      "onboard_time": 1693486718,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 165332,
@@ -74353,14 +74441,6 @@
       "onboard_time": 1692881577,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143298,
-      "num": 143298,
-      "word": "封神现代篇",
-      "onboard_time": 1693485995,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 143181,
@@ -77673,6 +77753,14 @@
       "onboard_time": 1692480314,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94618,
+      "num": 491140,
+      "word": "男子捡手机疯狂转账民警从浙追到鄂",
+      "onboard_time": 1693486838,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94318,
@@ -81344,6 +81432,14 @@
       "word": "核废水和核污水不一样",
       "onboard_time": 1692818835,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24804,
+      "num": 1110751,
+      "word": "中国人的大飞机梦穿越53个春秋",
+      "onboard_time": 1693470460,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

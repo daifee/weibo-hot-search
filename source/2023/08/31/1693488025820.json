@@ -1,0 +1,410 @@
+{
+  "runTime": 1693488025820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2203659,
+        "num": 2203659,
+        "word": "首套房贷款最低首付比例不低于20%",
+        "onboard_time": 1693485453,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1211177,
+        "num": 1211177,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24804,
+        "num": 1110751,
+        "word": "中国人的大飞机梦穿越53个春秋",
+        "onboard_time": 1693470460,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378328,
+        "num": 1108329,
+        "word": "税务总局称会对宋祖儿开展税务稽查",
+        "onboard_time": 1693473159,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1032907,
+        "num": 1032907,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 996862,
+        "num": 996862,
+        "word": "深圳全市将停课",
+        "onboard_time": 1693467460,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 658690,
+        "num": 658690,
+        "word": "降存量首套房贷利率",
+        "onboard_time": 1693486478,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 596463,
+        "num": 596463,
+        "word": "日本男篮vs委内瑞拉男篮",
+        "onboard_time": 1693486416,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587465,
+        "num": 587465,
+        "word": "女子账户突然多出800万元吓得报警",
+        "onboard_time": 1693467639,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535943,
+        "num": 535943,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1250516,
+        "num": 532726,
+        "word": "王源明天飞美国",
+        "onboard_time": 1693478439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1201777,
+        "num": 526900,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810636,
+        "num": 517543,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805153,
+        "num": 501970,
+        "word": "蔡老板被封号",
+        "onboard_time": 1693472678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94618,
+        "num": 491140,
+        "word": "男子捡手机疯狂转账民警从浙追到鄂",
+        "onboard_time": 1693486838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491066,
+        "num": 491066,
+        "word": "超级蓝月",
+        "onboard_time": 1693485518,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480422,
+        "num": 480422,
+        "word": "他和她的猫开播",
+        "onboard_time": 1693480656,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459057,
+        "num": 459057,
+        "word": "李湘 我已退休",
+        "onboard_time": 1693456909,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434960,
+        "num": 434960,
+        "word": "男子钓中1条鲅鱼身上卡着金镯子",
+        "onboard_time": 1693475381,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403884,
+        "num": 403884,
+        "word": "在中医院喝到了中药奶茶",
+        "onboard_time": 1693473339,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387573,
+        "num": 387573,
+        "word": "美特斯邦威为什么凉了",
+        "onboard_time": 1693483056,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358331,
+        "num": 358331,
+        "word": "不致命但却很烦人的慢性病",
+        "onboard_time": 1693487016,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322585,
+        "num": 322585,
+        "word": "腾讯爱奇艺卷起来了",
+        "onboard_time": 1693471362,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301070,
+        "num": 301070,
+        "word": "到底是什么人在写这种小说",
+        "onboard_time": 1693484555,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 288717,
+        "num": 288717,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693479814,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275767,
+        "num": 275767,
+        "word": "孤注一掷进入2023年票房榜前三",
+        "onboard_time": 1693487255,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253127,
+        "num": 253127,
+        "word": "张杰外南街1982签售会",
+        "onboard_time": 1693485279,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244219,
+        "num": 244219,
+        "word": "23岁小伙猝死宿舍每天工作超10小时",
+        "onboard_time": 1693464879,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231112,
+        "num": 231112,
+        "word": "内娱银发漫撕男",
+        "onboard_time": 1693471362,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228897,
+        "num": 228897,
+        "word": "暧昧的保质期有多久",
+        "onboard_time": 1693483478,
+        "rank": 29,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 337443,
+        "num": 228842,
+        "word": "日本男篮战胜委内瑞拉男篮",
+        "onboard_time": 1693487378,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224914,
+        "num": 224914,
+        "word": "张拿铁训斥奶奶不吃饭就下桌",
+        "onboard_time": 1693480656,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221700,
+        "num": 221700,
+        "word": "偷税和漏税有何区别",
+        "onboard_time": 1693473459,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 220824,
+        "num": 220824,
+        "word": "张韶涵 我在扬州没空想你",
+        "onboard_time": 1693478257,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210855,
+        "num": 210855,
+        "word": "装腔启示录",
+        "onboard_time": 1693484376,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210715,
+        "num": 210715,
+        "word": "原来拉伸真的很重要",
+        "onboard_time": 1693476760,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209366,
+        "num": 209366,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207771,
+        "num": 207771,
+        "word": "年轻是该享受还是玩命挣钱",
+        "onboard_time": 1693483835,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205117,
+        "num": 205117,
+        "word": "骄阳伴我央视频追剧日历",
+        "onboard_time": 1693487316,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202515,
+        "num": 202515,
+        "word": "檀健次科目一舞台",
+        "onboard_time": 1693477119,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189103,
+        "num": 189103,
+        "word": "封神现代篇",
+        "onboard_time": 1693485995,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184657,
+        "num": 184657,
+        "word": "中国男篮首胜",
+        "onboard_time": 1693476819,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167767,
+        "num": 167767,
+        "word": "住房信贷政策官方最新解读",
+        "onboard_time": 1693487559,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 165968,
+        "num": 165968,
+        "word": "江歌妈妈诉网暴者案二审维持原判",
+        "onboard_time": 1693473584,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165930,
+        "num": 165930,
+        "word": "马丽对赵露思说做自己就好",
+        "onboard_time": 1693475741,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165439,
+        "num": 165439,
+        "word": "自制黄桃饮品",
+        "onboard_time": 1693486718,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163363,
+        "num": 163363,
+        "word": "台风苏拉趋向广东海面",
+        "onboard_time": 1693480115,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161733,
+        "num": 161733,
+        "word": "aespa新歌舞台",
+        "onboard_time": 1693483178,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153061,
+        "num": 153061,
+        "word": "一直娱",
+        "onboard_time": 1693481080,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152796,
+        "num": 152796,
+        "word": "这是李玉湖吗",
+        "onboard_time": 1693470343,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}
