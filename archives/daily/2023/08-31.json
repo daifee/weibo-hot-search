@@ -1,6 +1,6 @@
 {
   "startTime": 1693412496686,
-  "endTime": 1693478075525,
+  "endTime": 1693480438888,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -147,6 +147,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1702948,
+      "num": 600669,
+      "word": "何洁瘦了近70斤",
+      "onboard_time": 1693478082,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1625786,
       "num": 419021,
       "word": "妻子出轨被抓现行称其为了报复丈夫",
@@ -291,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 857341,
+      "num": 436608,
+      "word": "王源明天飞美国",
+      "onboard_time": 1693478439,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 853319,
       "num": 853319,
       "word": "不小心看到瑞幸员工内讧了",
       "onboard_time": 1693409619,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 826058,
+      "num": 523569,
+      "word": "张韶涵 我在扬州没空想你",
+      "onboard_time": 1693478257,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 819339,
@@ -488,6 +512,14 @@
       "word": "江歌妈妈诉网暴者案二审维持原判",
       "onboard_time": 1693473584,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617427,
+      "num": 617427,
+      "word": "上海晚霞",
+      "onboard_time": 1693478799,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -683,6 +715,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 479556,
+      "num": 479556,
+      "word": "李凯尔仅休息1分55秒",
+      "onboard_time": 1693477898,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478806,
       "num": 478806,
       "word": "姚晨片场被路人打赏",
@@ -755,6 +795,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 448211,
+      "num": 448211,
+      "word": "马丽对赵露思说做自己就好",
+      "onboard_time": 1693475741,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445928,
       "num": 445928,
       "word": "徐梦洁余承恩双人封面",
@@ -777,14 +825,6 @@
       "onboard_time": 1693444176,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 425920,
-      "num": 425920,
-      "word": "马丽对赵露思说做自己就好",
-      "onboard_time": 1693475741,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 424670,
@@ -907,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379238,
+      "num": 379238,
+      "word": "逃出大英博物馆第二集开播",
+      "onboard_time": 1693477299,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375099,
       "num": 320332,
       "word": "敖瑞鹏 这是微博吗",
@@ -995,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332618,
+      "num": 332618,
+      "word": "檀健次科目一舞台",
+      "onboard_time": 1693477119,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332515,
       "num": 332515,
       "word": "这是李玉湖吗",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1693452820,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332068,
+      "num": 332068,
+      "word": "马立奥负伤漂流记",
+      "onboard_time": 1693479457,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 328229,
@@ -1083,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307311,
-      "num": 307311,
-      "word": "檀健次科目一舞台",
-      "onboard_time": 1693477119,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 307080,
       "num": 307080,
       "word": "姬发被吓傻",
@@ -1155,12 +1211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287690,
+      "num": 287690,
+      "word": "张远你还瞒着我们成了多少团",
+      "onboard_time": 1693478917,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286781,
       "num": 265299,
       "word": "姐的生活我的梦",
       "onboard_time": 1693460082,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285963,
+      "num": 285963,
+      "word": "上错花轿嫁对郎再火的唯一受害者",
+      "onboard_time": 1693479996,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 284729,
@@ -1419,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243548,
+      "num": 243548,
+      "word": "原来拉伸真的很重要",
+      "onboard_time": 1693476760,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243417,
       "num": 243417,
       "word": "浙江夫妻手工复刻莲花楼太绝了",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1693395277,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232970,
+      "num": 1642952,
+      "word": "广东全力防御台风苏拉",
+      "onboard_time": 1693477178,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232058,
@@ -1691,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206192,
+      "num": 206192,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1693479037,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205683,
       "num": 205683,
       "word": "李奕臻因为淄博烧烤注意到边天扬",
@@ -1747,14 +1843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199427,
-      "num": 199427,
-      "word": "李凯尔仅休息1分55秒",
-      "onboard_time": 1693477898,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199417,
       "num": 199417,
       "word": "何泓姗双剧造型",
@@ -1779,20 +1867,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197846,
-      "num": 197846,
-      "word": "逃出大英博物馆第二集开播",
-      "onboard_time": 1693477299,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197387,
       "num": 197387,
       "word": "洪胜汉预录哭了",
       "onboard_time": 1693444837,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197138,
+      "num": 197138,
+      "word": "超强台风苏拉",
+      "onboard_time": 1693479814,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197027,
+      "num": 197027,
+      "word": "诺兰挑男人的眼光相当毒辣",
+      "onboard_time": 1693479996,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 194933,
@@ -1923,12 +2019,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 174260,
+      "num": 174260,
+      "word": "莲花楼花絮",
+      "onboard_time": 1693480057,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169925,
       "num": 169925,
       "word": "亲爱的隐居先生开播",
       "onboard_time": 1693457575,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168357,
+      "num": 168357,
+      "word": "于适你真的很会撒娇",
+      "onboard_time": 1693478856,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167772,
@@ -1963,6 +2075,14 @@
       "category": "音乐,动漫"
     },
     {
+      "raw_hot": 161129,
+      "num": 161129,
+      "word": "初音十六岁的珍宝盒",
+      "onboard_time": 1693479158,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158658,
       "num": 158658,
       "word": "费翔为了演纣王跟乌尔善极限拉扯",
@@ -1993,6 +2113,14 @@
       "onboard_time": 1693420275,
       "rank": 45,
       "category": "旅游,美食"
+    },
+    {
+      "raw_hot": 148034,
+      "num": 148034,
+      "word": "台风苏拉趋向广东海面",
+      "onboard_time": 1693480115,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146712,
@@ -2073,14 +2201,6 @@
       "onboard_time": 1693396957,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107730,
-      "num": 1642952,
-      "word": "广东全力防御台风苏拉",
-      "onboard_time": 1693477178,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103297,
