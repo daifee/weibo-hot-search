@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693566854206,
+  "endTime": 1693568044640,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2266304,
+      "num": 2266304,
+      "word": "利息少了41万购房者激动得一夜没睡",
+      "onboard_time": 1693563159,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2101246,
       "num": 2101246,
       "word": "七险三金多了哪两险哪两金",
@@ -113,14 +121,6 @@
       "onboard_time": 1693539158,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1692133,
-      "num": 1692133,
-      "word": "利息少了41万购房者激动得一夜没睡",
-      "onboard_time": 1693563159,
-      "rank": 23,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1663551,
@@ -275,6 +275,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1014155,
+      "num": 1014155,
+      "word": "BLACKPINK QQ音乐",
+      "onboard_time": 1693567295,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 995522,
       "num": 995522,
       "word": "奥本海默",
@@ -347,6 +355,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 891894,
+      "num": 891894,
+      "word": "上海认房不认贷",
+      "onboard_time": 1693566637,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 875555,
       "num": 471374,
       "word": "王俊凯石家庄",
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746831,
+      "num": 746831,
+      "word": "惠灵顿牛棚",
+      "onboard_time": 1693565258,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 744763,
       "num": 744763,
       "word": "首套房贷款最低首付比例不低于20%",
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 705527,
-      "num": 390653,
+      "num": 392220,
       "word": "白百何把肖战的痣看成了芝麻",
       "onboard_time": 1693557038,
       "rank": 46,
@@ -569,14 +593,6 @@
       "onboard_time": 1693535195,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609371,
-      "num": 609371,
-      "word": "惠灵顿牛棚",
-      "onboard_time": 1693565258,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 607516,
@@ -971,6 +987,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 411794,
+      "num": 411794,
+      "word": "北京执行认房不认贷",
+      "onboard_time": 1693567055,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 410302,
       "num": 347713,
       "word": "15岁男孩失联7天遗体在河道被发现",
@@ -1267,14 +1291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 304324,
-      "num": 304324,
-      "word": "上海认房不认贷",
-      "onboard_time": 1693566637,
-      "rank": 23,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 303573,
       "num": 303573,
       "word": "王鹤棣平时都是破坏感",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1693560761,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296911,
+      "num": 296911,
+      "word": "原神",
+      "onboard_time": 1693565916,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 296896,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1693536815,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268086,
+      "num": 223395,
+      "word": "晨起一杯水你喝对了吗",
+      "onboard_time": 1693566275,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267558,
@@ -1601,14 +1633,6 @@
       "onboard_time": 1693531654,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232567,
-      "num": 232567,
-      "word": "原神",
-      "onboard_time": 1693565916,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 232170,
@@ -1819,6 +1843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202495,
+      "num": 1024136,
+      "word": "七仔把阿宝的招牌动作学去了",
+      "onboard_time": 1693566038,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201313,
+      "num": 201313,
+      "word": "王心凌上海抢票",
+      "onboard_time": 1693567236,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201278,
       "num": 201278,
       "word": "乐队的夏天",
@@ -1867,20 +1907,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 198227,
-      "num": 198227,
-      "word": "晨起一杯水你喝对了吗",
-      "onboard_time": 1693566275,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198162,
       "num": 198162,
       "word": "泉州草莓音乐节",
       "onboard_time": 1693559619,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198055,
+      "num": 198055,
+      "word": "短篇漫画断掌",
+      "onboard_time": 1693567537,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 197841,
@@ -2003,6 +2043,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 183597,
+      "num": 183597,
+      "word": "再见爱人3定档",
+      "onboard_time": 1693567776,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182790,
       "num": 182790,
       "word": "遥遥领先",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1693566335,
       "rank": 43,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 166679,
-      "num": 184196,
-      "word": "七仔把阿宝的招牌动作学去了",
-      "onboard_time": 1693566038,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164705,
@@ -2243,6 +2283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137246,
+      "num": 137246,
+      "word": "逃出大英博物馆玉壶原型制作者发声",
+      "onboard_time": 1693567957,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "男子钓中1条鲅鱼身上卡着金镯子",
@@ -2403,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83253,
+      "num": 731276,
+      "word": "浙江临海种出2米高巨型水稻",
+      "onboard_time": 1693566097,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79798,
       "num": 317374,
       "word": "退役搜救犬扒着训导员求抱抱",
@@ -2553,14 +2609,6 @@
       "onboard_time": 1693506676,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28736,
-      "num": 611104,
-      "word": "浙江临海种出2米高巨型水稻",
-      "onboard_time": 1693566097,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24101,
