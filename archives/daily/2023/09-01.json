@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693541991454,
+  "endTime": 1693542849092,
   "band_list": [
     {
       "raw_hot": 5262598,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2643469,
-      "num": 551009,
+      "num": 664824,
       "word": "大学生酒后欲强暴女同学被宾馆老板制止",
       "onboard_time": 1693497155,
       "rank": 10,
@@ -28,18 +28,34 @@
     },
     {
       "raw_hot": 1751394,
-      "num": 1089296,
+      "num": 1416773,
       "word": "乌尔善 内娱徒手整形第一人",
       "onboard_time": 1693533037,
       "rank": 3,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1655702,
-      "num": 1655702,
+      "raw_hot": 1708198,
+      "num": 1708198,
       "word": "深圳16时起停工停业停市",
       "onboard_time": 1693539158,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1429671,
+      "num": 1429671,
+      "word": "折腰",
+      "onboard_time": 1693542521,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1414989,
+      "num": 1414989,
+      "word": "幼升小三大件花费近3000元",
+      "onboard_time": 1693535859,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -48,14 +64,6 @@
       "word": "特斯拉Model3",
       "onboard_time": 1693527874,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1318721,
-      "num": 1318721,
-      "word": "幼升小三大件花费近3000元",
-      "onboard_time": 1693535859,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1025208,
-      "num": 403923,
+      "num": 413525,
       "word": "同事离职后的电脑屏保",
       "onboard_time": 1693538017,
       "rank": 45,
@@ -147,11 +155,35 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 828255,
-      "num": 828255,
+      "raw_hot": 840702,
+      "num": 840702,
       "word": "台风",
       "onboard_time": 1693540597,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828673,
+      "num": 828673,
+      "word": "第一届05后大学生来了",
+      "onboard_time": 1693538435,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 796473,
+      "num": 409685,
+      "word": "外国人有多喜欢中国的手机壳",
+      "onboard_time": 1693540478,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 780366,
+      "num": 403406,
+      "word": "台风苏拉路径又变了",
+      "onboard_time": 1693540777,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -171,22 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 775029,
-      "num": 775029,
-      "word": "第一届05后大学生来了",
-      "onboard_time": 1693538435,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 762153,
-      "num": 403505,
-      "word": "外国人有多喜欢中国的手机壳",
-      "onboard_time": 1693540478,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 744763,
       "num": 744763,
       "word": "首套房贷款最低首付比例不低于20%",
@@ -195,20 +211,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 728946,
-      "num": 403406,
-      "word": "台风苏拉路径又变了",
-      "onboard_time": 1693540777,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 720877,
       "num": 720877,
       "word": "iPhone15系列爆料",
       "onboard_time": 1693491639,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 702569,
+      "num": 702569,
+      "word": "张小斐新剧爽文女主",
+      "onboard_time": 1693540358,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 683765,
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622120,
+      "num": 622120,
+      "word": "张晚意孙怡美拉德风剧照",
+      "onboard_time": 1693540058,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610040,
       "num": 610040,
       "word": "丈夫去世后女子自驾9万公里游遍中国",
@@ -281,22 +305,6 @@
       "onboard_time": 1693525591,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 582584,
-      "num": 582584,
-      "word": "张晚意孙怡美拉德风剧照",
-      "onboard_time": 1693540058,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 579231,
-      "num": 579231,
-      "word": "张小斐新剧爽文女主",
-      "onboard_time": 1693540358,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 566743,
@@ -337,6 +345,14 @@
       "onboard_time": 1693496199,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 539383,
+      "num": 539383,
+      "word": "姜广涛 秋天的阳光蛮好",
+      "onboard_time": 1693541800,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 539377,
@@ -459,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 428756,
+      "num": 402420,
+      "word": "妈妈HR式给生活费",
+      "onboard_time": 1693538796,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 428385,
       "num": 362561,
       "word": "王源明天飞美国",
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 420200,
-      "num": 326303,
+      "num": 364699,
       "word": "哈利波特下凡了",
       "onboard_time": 1693539938,
       "rank": 30,
@@ -507,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412162,
-      "num": 402420,
-      "word": "妈妈HR式给生活费",
-      "onboard_time": 1693538796,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 404131,
       "num": 404131,
       "word": "张艺兴新专辑将由华纳音乐发行",
       "onboard_time": 1693539396,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 403738,
+      "num": 363809,
+      "word": "抢注宋祖儿商标均被驳回",
+      "onboard_time": 1693542581,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 402928,
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378674,
+      "num": 378674,
+      "word": "迪丽热巴生活合影的tips",
+      "onboard_time": 1693541919,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378206,
       "num": 378206,
       "word": "陕西一医院规定男55岁女44岁不续聘",
@@ -569,6 +601,14 @@
       "onboard_time": 1693524510,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370670,
+      "num": 370670,
+      "word": "装腔启示录 嗑晕了",
+      "onboard_time": 1693542343,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 362321,
@@ -643,6 +683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 296896,
+      "num": 296896,
+      "word": "听一个人说的话首先要考虑他的身份和立场",
+      "onboard_time": 1693541198,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289613,
       "num": 289613,
       "word": "星空",
@@ -681,6 +729,14 @@
       "onboard_time": 1693534536,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 272435,
+      "num": 272435,
+      "word": "披荆斩棘",
+      "onboard_time": 1693542703,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 272215,
@@ -747,6 +803,14 @@
       "category": "美妆,影视"
     },
     {
+      "raw_hot": 258028,
+      "num": 258028,
+      "word": "超强台风苏拉或正面袭击深圳",
+      "onboard_time": 1693542039,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252838,
       "num": 252838,
       "word": "吴磊说骑行是我的生活",
@@ -785,14 +849,6 @@
       "onboard_time": 1693532016,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 243264,
-      "num": 243264,
-      "word": "听一个人说的话首先要考虑他的身份和立场",
-      "onboard_time": 1693541198,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 242179,
@@ -859,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215761,
-      "num": 215761,
-      "word": "姜广涛 秋天的阳光蛮好",
-      "onboard_time": 1693541800,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214689,
       "num": 214689,
       "word": "魏哲鸣披荆斩棘repo只有一个字",
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 209258,
-      "num": 209258,
+      "num": 228402,
       "word": "齐司礼云月之约",
       "onboard_time": 1693541498,
       "rank": 43,
@@ -937,14 +985,6 @@
       "onboard_time": 1693523967,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201296,
-      "num": 201296,
-      "word": "迪丽热巴生活合影的tips",
-      "onboard_time": 1693541919,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 200636,
@@ -1004,7 +1044,7 @@
     },
     {
       "raw_hot": 190377,
-      "num": 198964,
+      "num": 228360,
       "word": "明日方舟",
       "onboard_time": 1693540896,
       "rank": 48,
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 187358,
-      "num": 198731,
+      "num": 228512,
       "word": "买单吧崩了",
       "onboard_time": 1693539576,
       "rank": 49,
@@ -1235,20 +1275,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 123262,
+      "num": 517998,
+      "word": "沈腾认真脸",
+      "onboard_time": 1693538740,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "灯塔2023暑期档剧集榜单",
       "onboard_time": 1693498832,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112710,
-      "num": 517998,
-      "word": "沈腾认真脸",
-      "onboard_time": 1693538740,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112144,
@@ -1355,6 +1395,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 47801,
+      "num": 486973,
+      "word": "小孩开学应该准备些什么",
+      "onboard_time": 1693540836,
+      "rank": 14,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 46712,
       "num": 46712,
       "word": "餐馆限定的杏鲍菇",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1693511053,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36206,
-      "num": 475791,
-      "word": "小孩开学应该准备些什么",
-      "onboard_time": 1693540836,
-      "rank": 14,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 33577,
