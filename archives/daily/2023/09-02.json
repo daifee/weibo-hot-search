@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693596832850,
+  "endTime": 1693599420360,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46920,
+      "num": 68849,
+      "word": "深圳发布台风红色预警",
+      "onboard_time": 1693595596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44423,
       "num": 44423,
       "word": "妹妹给离家的姐姐塞了小纸条",
@@ -545,14 +553,6 @@
       "onboard_time": 1693593316,
       "rank": 38,
       "category": "动漫,幽默"
-    },
-    {
-      "raw_hot": 41877,
-      "num": 68849,
-      "word": "深圳发布台风红色预警",
-      "onboard_time": 1693595596,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41410,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38700,
+      "num": 38700,
+      "word": "七时吉祥8月最热神话剧",
+      "onboard_time": 1693597694,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 28091,
       "num": 33774,
       "word": "风箫孙尚香抢龙",
@@ -579,7 +587,31 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 3433,
+      "raw_hot": 26246,
+      "num": 26246,
+      "word": "找到了熊猫是万人迷的原因",
+      "onboard_time": 1693598175,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24826,
+      "num": 26235,
+      "word": "深圳市台风橙色预警信号升级为红色",
+      "onboard_time": 1693596375,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22951,
+      "num": 26177,
+      "word": "上海晚霞",
+      "onboard_time": 1693478799,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3674,
       "num": 217857,
       "word": "开学第一课",
       "onboard_time": 1693494037,

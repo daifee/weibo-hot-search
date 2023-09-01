@@ -1,0 +1,410 @@
+{
+  "runTime": 1693599420360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 153867,
+        "num": 153867,
+        "word": "深圳台风",
+        "onboard_time": 1693572879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150058,
+        "num": 150058,
+        "word": "十几分钟却是我的整个青春",
+        "onboard_time": 1693589066,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3674,
+        "num": 122290,
+        "word": "开学第一课",
+        "onboard_time": 1693494037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100624,
+        "num": 100624,
+        "word": "台风吹倒大树砸中汽车造成一死两伤",
+        "onboard_time": 1693587028,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81694,
+        "num": 81694,
+        "word": "骄阳伴我收视率",
+        "onboard_time": 1693575636,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77528,
+        "num": 77528,
+        "word": "徐良 淘汰",
+        "onboard_time": 1693570720,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77508,
+        "num": 77508,
+        "word": "台风路径",
+        "onboard_time": 1693570958,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76715,
+        "num": 76715,
+        "word": "利息少了41万购房者激动得一夜没睡",
+        "onboard_time": 1693563159,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 51603,
+        "num": 51603,
+        "word": "南宁震感",
+        "onboard_time": 1693588047,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46920,
+        "num": 51282,
+        "word": "深圳发布台风红色预警",
+        "onboard_time": 1693595596,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136903,
+        "num": 51170,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 65517,
+        "num": 51152,
+        "word": "母亲不堪家暴找人冒充走失儿子30年",
+        "onboard_time": 1693572699,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51045,
+        "num": 51045,
+        "word": "苏拉或成1949年以来登陆珠三角最强台风",
+        "onboard_time": 1693569219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33128,
+        "num": 50940,
+        "word": "3000多岁国宝曾差点被当废品卖掉",
+        "onboard_time": 1693579664,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31979,
+        "num": 50931,
+        "word": "苏拉的危险半圆将横扫香港和深圳",
+        "onboard_time": 1693569276,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50926,
+        "num": 50926,
+        "word": "沈梦辰穿了茜茜公主最爱的紫色",
+        "onboard_time": 1693582362,
+        "rank": 15,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 47550,
+        "num": 47550,
+        "word": "空姐丸子头",
+        "onboard_time": 1693581879,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 43401,
+        "num": 43401,
+        "word": "一路朝阳 烂尾",
+        "onboard_time": 1693574921,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42640,
+        "num": 42640,
+        "word": "火树 我给指条明路",
+        "onboard_time": 1693578341,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40252,
+        "num": 40252,
+        "word": "林俊杰第一条微博就是胡彦斌",
+        "onboard_time": 1693580983,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74060,
+        "num": 40239,
+        "word": "11个月男婴全身淤青布满针眼惨死",
+        "onboard_time": 1693577562,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73912,
+        "num": 40208,
+        "word": "费翔 爱一个人其实是爱上她的缺点",
+        "onboard_time": 1693592119,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57916,
+        "num": 40183,
+        "word": "江浙沪包邮区包不住了",
+        "onboard_time": 1693579180,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49578,
+        "num": 40168,
+        "word": "刘亦菲 做一个真诚的人好幸福",
+        "onboard_time": 1693589066,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44880,
+        "num": 40125,
+        "word": "原来刘星才是第一个用蚂蚁花被的人",
+        "onboard_time": 1693578941,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40122,
+        "num": 40122,
+        "word": "情绪稳定的根本原因",
+        "onboard_time": 1693569337,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 38700,
+        "num": 38700,
+        "word": "七时吉祥8月最热神话剧",
+        "onboard_time": 1693597694,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36757,
+        "num": 36757,
+        "word": "凤冠霞帔怎么可能被抢风头",
+        "onboard_time": 1693582898,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 35039,
+        "num": 35039,
+        "word": "日本出现大量巨型蛾子布满街道",
+        "onboard_time": 1693549055,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33883,
+        "num": 33883,
+        "word": "黄子弘凡歌词",
+        "onboard_time": 1693572999,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32339,
+        "num": 32339,
+        "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+        "onboard_time": 1693548635,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32315,
+        "num": 32315,
+        "word": "姬发 最后一梦",
+        "onboard_time": 1693582779,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31444,
+        "num": 31444,
+        "word": "开端第二部",
+        "onboard_time": 1693560341,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29891,
+        "num": 29891,
+        "word": "航空公司向李惠利道歉",
+        "onboard_time": 1693568798,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29561,
+        "num": 29561,
+        "word": "画师工作环境",
+        "onboard_time": 1693593316,
+        "rank": 34,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 29452,
+        "num": 29452,
+        "word": "北环大道",
+        "onboard_time": 1693593199,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 29224,
+        "num": 29224,
+        "word": "BLACKPINK QQ音乐",
+        "onboard_time": 1693567295,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28968,
+        "num": 28968,
+        "word": "死刑犯最后一餐吃什么",
+        "onboard_time": 1693558359,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 28724,
+        "num": 28724,
+        "word": "黄宗泽哭了",
+        "onboard_time": 1693581039,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28562,
+        "num": 28562,
+        "word": "大张伟一边蹦一边哭",
+        "onboard_time": 1693581702,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27436,
+        "num": 27436,
+        "word": "谁家女主第一集就办离婚",
+        "onboard_time": 1693575460,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27343,
+        "num": 27343,
+        "word": "尤长靖是你想成为的大人吗",
+        "onboard_time": 1693581344,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26545,
+        "num": 26545,
+        "word": "白羊座心软的神",
+        "onboard_time": 1693570477,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 26246,
+        "num": 26246,
+        "word": "找到了熊猫是万人迷的原因",
+        "onboard_time": 1693598175,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24826,
+        "num": 26235,
+        "word": "深圳市台风橙色预警信号升级为红色",
+        "onboard_time": 1693596375,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24561,
+        "num": 26233,
+        "word": "八仙饭店 改编",
+        "onboard_time": 1693582181,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23846,
+        "num": 26210,
+        "word": "盛阳演我下班",
+        "onboard_time": 1693584455,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23317,
+        "num": 26205,
+        "word": "小舟从此逝 江海寄余生",
+        "onboard_time": 1693573180,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23282,
+        "num": 26183,
+        "word": "菠萝猫猫头",
+        "onboard_time": 1693592597,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22951,
+        "num": 26177,
+        "word": "上海晚霞",
+        "onboard_time": 1693478799,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺国防科技大学建校70周年#"
+    }
+  }
+}
