@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693568044640,
+  "endTime": 1693571507312,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -1051,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1431280,
+      "num": 548234,
+      "word": "航空公司向李惠利道歉",
+      "onboard_time": 1693568798,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1414989,
       "num": 1414989,
       "word": "幼升小三大件花费近3000元",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1693180955,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1295321,
+      "num": 1295321,
+      "word": "徐良 淘汰",
+      "onboard_time": 1693570720,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1278359,
@@ -2227,11 +2243,27 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 762837,
+      "num": 541147,
+      "word": "杨紫发了麦承欢",
+      "onboard_time": 1693569696,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 762278,
       "num": 488711,
       "word": "博主收到日本公关邮件",
       "onboard_time": 1693283500,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760772,
+      "num": 760772,
+      "word": "台风路径",
+      "onboard_time": 1693570958,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2841,6 +2873,14 @@
       "onboard_time": 1693471362,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 633831,
+      "num": 633831,
+      "word": "警方辟谣曾志伟被带走调查",
+      "onboard_time": 1693568977,
+      "rank": 8,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 633677,
@@ -3619,6 +3659,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 526410,
+      "num": 526410,
+      "word": "逃出大英博物馆玉壶原型制作者发声",
+      "onboard_time": 1693567957,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525862,
       "num": 525862,
       "word": "张远怎么说服张栋梁徐良的",
@@ -4163,6 +4211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 465918,
+      "num": 435015,
+      "word": "苏拉或成1949年以来登陆珠三角最强台风",
+      "onboard_time": 1693569219,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465843,
       "num": 412260,
       "word": "前任4",
@@ -4577,6 +4633,14 @@
       "onboard_time": 1693444176,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 429978,
+      "num": 534237,
+      "word": "苏拉的危险半圆将横扫香港和深圳",
+      "onboard_time": 1693569276,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429639,
@@ -5363,6 +5427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 375269,
+      "num": 375269,
+      "word": "情绪稳定的根本原因",
+      "onboard_time": 1693569337,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 375099,
       "num": 320332,
       "word": "敖瑞鹏 这是微博吗",
@@ -5539,6 +5611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366358,
+      "num": 366358,
+      "word": "一出宿舍门就是地铁站",
+      "onboard_time": 1693568257,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366082,
       "num": 338268,
       "word": "城里夫妻租农房养老村民拿租金进城买房",
@@ -5561,6 +5641,14 @@
       "onboard_time": 1693487255,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364457,
+      "num": 364457,
+      "word": "珠海台风",
+      "onboard_time": 1693568135,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364413,
@@ -5993,6 +6081,14 @@
       "onboard_time": 1693212701,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343111,
+      "num": 343111,
+      "word": "白羊座心软的神",
+      "onboard_time": 1693570477,
+      "rank": 26,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 343081,
@@ -6617,6 +6713,14 @@
       "onboard_time": 1693459242,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317434,
+      "num": 317434,
+      "word": "王鹤棣武大靖胡宇轩提醒过路车慢点开",
+      "onboard_time": 1693568377,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 316957,
@@ -8075,6 +8179,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 258672,
+      "num": 258672,
+      "word": "杨幂回横店上班了",
+      "onboard_time": 1693568437,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258662,
       "num": 258662,
       "word": "诺兰在中国收到莲花的反应",
@@ -9203,6 +9315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222329,
+      "num": 222329,
+      "word": "再见爱人3定档",
+      "onboard_time": 1693567776,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222250,
       "num": 222250,
       "word": "procreate笔刷分享",
@@ -9449,6 +9569,14 @@
       "onboard_time": 1693437928,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212743,
+      "num": 212743,
+      "word": "快看今晚的月亮",
+      "onboard_time": 1693571318,
+      "rank": 37,
+      "category": "自然"
     },
     {
       "raw_hot": 212652,
@@ -9849,6 +9977,14 @@
       "onboard_time": 1693386161,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 204463,
+      "num": 204463,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1693560521,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 204089,
@@ -10555,6 +10691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194280,
+      "num": 194280,
+      "word": "白敬亭虽迟但到的甜妹舞",
+      "onboard_time": 1693571378,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194240,
       "num": 411742,
       "word": "孙志刚接受审查调查",
@@ -10643,6 +10787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192194,
+      "num": 192194,
+      "word": "极氪发布会",
+      "onboard_time": 1693570418,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192088,
       "num": 192088,
       "word": "为什么一紧张会有鸡皮疙瘩",
@@ -10713,6 +10865,14 @@
       "onboard_time": 1693481679,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191281,
+      "num": 191281,
+      "word": "刘诗诗沈月东方姐妹路透",
+      "onboard_time": 1693570839,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190605,
@@ -11027,14 +11187,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 183597,
-      "num": 183597,
-      "word": "再见爱人3定档",
-      "onboard_time": 1693567776,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183591,
       "num": 183591,
       "word": "宋轶放空背台词",
@@ -11099,6 +11251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180967,
+      "num": 180967,
+      "word": "韩东君性张力拉满",
+      "onboard_time": 1693570359,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180732,
       "num": 180732,
       "word": "这就是淡颜撕漫感吧",
@@ -11137,6 +11297,14 @@
       "onboard_time": 1693277796,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178895,
+      "num": 178895,
+      "word": "我不相信这是现代人的审美",
+      "onboard_time": 1693568679,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 178816,
@@ -11259,6 +11427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175022,
+      "num": 175022,
+      "word": "7年了狗狗还记得自己叫笨笨",
+      "onboard_time": 1693571259,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174902,
       "num": 174902,
       "word": "男子洗小龙虾被扎伤吃了消炎药仍去世",
@@ -11321,14 +11497,6 @@
       "onboard_time": 1693216238,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173687,
-      "num": 173687,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1693560521,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 173347,
@@ -11619,6 +11787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159904,
+      "num": 159904,
+      "word": "RUNext决赛",
+      "onboard_time": 1693570179,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159284,
       "num": 159284,
       "word": "陈晓娜扎新剧断崖式分手",
@@ -11729,6 +11905,14 @@
       "onboard_time": 1693563938,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 155174,
+      "num": 155174,
+      "word": "张栋梁晒鬼脚梁的养成日记",
+      "onboard_time": 1693568615,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 154769,
@@ -12019,14 +12203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137246,
-      "num": 137246,
-      "word": "逃出大英博物馆玉壶原型制作者发声",
-      "onboard_time": 1693567957,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136496,
       "num": 136496,
       "word": "蓝月",
@@ -12295,6 +12471,14 @@
       "num": 482250,
       "word": "男生暑假作业弄丢老师开车送上门",
       "onboard_time": 1693378837,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108626,
+      "num": 527847,
+      "word": "男子用14年为妻子写10万字护理日记",
+      "onboard_time": 1693569638,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -13207,6 +13391,14 @@
       "num": 1715279,
       "word": "多渠道多形式讲好新时代新疆故事",
       "onboard_time": 1693221217,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5317,
+      "num": 1129847,
+      "word": "开学季注意防范6类易高发疾病",
+      "onboard_time": 1693571497,
       "rank": 2,
       "category": "社会新闻"
     }
