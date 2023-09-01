@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693589629929,
+  "endTime": 1693592359577,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -89,6 +89,14 @@
       "onboard_time": 1693581462,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 530720,
+      "num": 163448,
+      "word": "十几分钟却是我的整个青春",
+      "onboard_time": 1693589066,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 469272,
@@ -241,14 +249,6 @@
       "onboard_time": 1693579664,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302554,
-      "num": 145498,
-      "word": "十几分钟却是我的整个青春",
-      "onboard_time": 1693589066,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 290403,
@@ -467,20 +467,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104987,
+      "num": 99903,
+      "word": "路过的网友全部舔一口",
+      "onboard_time": 1693589004,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 96710,
       "num": 104606,
       "word": "京城大师赛",
       "onboard_time": 1693586371,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95410,
-      "num": 99903,
-      "word": "路过的网友全部舔一口",
-      "onboard_time": 1693589004,
-      "rank": 39,
-      "category": "其它"
     },
     {
       "raw_hot": 91378,
@@ -497,6 +497,30 @@
       "onboard_time": 1693573180,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 68170,
+      "num": 68170,
+      "word": "费翔 爱一个人其实是爱上她的缺点",
+      "onboard_time": 1693592119,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64044,
+      "num": 64044,
+      "word": "张栋梁你还说你不会跳舞",
+      "onboard_time": 1693574618,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 47892,
+      "num": 55012,
+      "word": "广西崇左3.3级地震",
+      "onboard_time": 1693589843,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41410,
