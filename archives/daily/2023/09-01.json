@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693560842280,
+  "endTime": 1693563469912,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2720968,
+      "num": 2720968,
+      "word": "开端第二部",
+      "onboard_time": 1693560341,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2650055,
       "num": 2650055,
       "word": "抢注宋祖儿商标均被驳回",
@@ -65,6 +73,14 @@
       "onboard_time": 1693557637,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1902750,
+      "num": 1902750,
+      "word": "微信文件可撤回三小时内消息",
+      "onboard_time": 1693559379,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1755423,
@@ -107,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1599255,
+      "num": 1599255,
+      "word": "基本每年一部爆剧的演员",
+      "onboard_time": 1693560280,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1504183,
       "num": 1504183,
       "word": "台风苏拉路径又变了",
@@ -121,6 +145,22 @@
       "onboard_time": 1693559743,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1471478,
+      "num": 1471478,
+      "word": "五哈4官宣",
+      "onboard_time": 1693560401,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1468670,
+      "num": 1099592,
+      "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+      "onboard_time": 1693556975,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1443281,
@@ -155,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1316897,
-      "num": 1316897,
-      "word": "微信文件可撤回三小时内消息",
-      "onboard_time": 1693559379,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1240350,
       "num": 400300,
       "word": "韩男子性侵女儿10年被妻子刺伤双眼",
@@ -193,14 +225,6 @@
       "onboard_time": 1693544743,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1099592,
-      "num": 1099592,
-      "word": "女子蒸大闸蟹核辐射检测仪警报不断",
-      "onboard_time": 1693556975,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1089848,
@@ -411,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 705255,
-      "num": 705255,
-      "word": "开端第二部",
-      "onboard_time": 1693560341,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 702569,
       "num": 702569,
       "word": "张小斐新剧爽文女主",
@@ -473,14 +489,6 @@
       "onboard_time": 1693536335,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 631300,
-      "num": 631300,
-      "word": "五哈4官宣",
-      "onboard_time": 1693560401,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 626182,
@@ -723,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485982,
+      "num": 485982,
+      "word": "台风远没有公司这么离谱",
+      "onboard_time": 1693559439,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480143,
       "num": 387887,
       "word": "男生车祸失去右臂欲分手女友骂好傻",
@@ -955,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 403280,
-      "num": 228937,
-      "word": "台风远没有公司这么离谱",
-      "onboard_time": 1693559439,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402928,
       "num": 402928,
       "word": "邓为玉兰花下的清冷氛围感",
@@ -985,6 +993,14 @@
       "onboard_time": 1693540117,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388788,
+      "num": 388788,
+      "word": "徐冬冬尹子维首档恋综",
+      "onboard_time": 1693560280,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 378787,
@@ -1091,14 +1107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 352954,
-      "num": 352954,
-      "word": "基本每年一部爆剧的演员",
-      "onboard_time": 1693560280,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352177,
       "num": 331852,
       "word": "伯远来披荆斩棘当舞蹈老师了",
@@ -1163,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334810,
+      "num": 317461,
+      "word": "利息少了41万购房者激动得一夜没睡",
+      "onboard_time": 1693563159,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 328681,
       "num": 328681,
       "word": "九月",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1693547016,
       "rank": 28,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 301223,
+      "num": 301223,
+      "word": "九月第一天就被甜到了",
+      "onboard_time": 1693560761,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 296896,
@@ -1387,12 +1411,28 @@
       "category": "美妆,影视"
     },
     {
+      "raw_hot": 257083,
+      "num": 257083,
+      "word": "我发现我不是讨厌小孩",
+      "onboard_time": 1693561118,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252838,
       "num": 252838,
       "word": "吴磊说骑行是我的生活",
       "onboard_time": 1693535136,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251076,
+      "num": 2120507,
+      "word": "特警单膝跪地10分钟撑起发病老人",
+      "onboard_time": 1693561839,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250260,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1693556799,
       "rank": 34,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 239368,
+      "num": 239368,
+      "word": "广州地铁",
+      "onboard_time": 1693562558,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239166,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1693523064,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217898,
+      "num": 217898,
+      "word": "双城之战第二季",
+      "onboard_time": 1693561297,
+      "rank": 36,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 214689,
@@ -1707,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200215,
-      "num": 200215,
-      "word": "九月第一天就被甜到了",
-      "onboard_time": 1693560761,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200196,
       "num": 200196,
       "word": "深圳防台风防汛一级应急响应",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1693559619,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197294,
-      "num": 197294,
-      "word": "徐冬冬尹子维首档恋综",
-      "onboard_time": 1693560280,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 196194,
@@ -1785,6 +1825,14 @@
       "onboard_time": 1693496560,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191653,
+      "num": 191653,
+      "word": "神隐预告",
+      "onboard_time": 1693562618,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 190835,
@@ -1859,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180314,
+      "num": 180314,
+      "word": "小时候有就在村里横着走",
+      "onboard_time": 1693562978,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 180247,
       "num": 201312,
       "word": "给北方朋友一点南方烧烤的震撼",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1693518616,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169143,
+      "num": 169143,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1693560521,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 164243,
@@ -1921,6 +1985,14 @@
       "onboard_time": 1693472678,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162134,
+      "num": 162134,
+      "word": "张钧甯吃粉丝",
+      "onboard_time": 1693563397,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 159984,
@@ -2001,6 +2073,14 @@
       "onboard_time": 1693494521,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142339,
+      "num": 1623618,
+      "word": "女子笑着喊口号带阿尔茨海默症婆婆回家",
+      "onboard_time": 1693561962,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139495,
@@ -2107,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106639,
+      "num": 317635,
+      "word": "开学首日小学生霸气立下满分小目标",
+      "onboard_time": 1693561839,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 104894,
       "num": 104894,
       "word": "逃出大英博物馆第二集开播",
@@ -2148,7 +2236,7 @@
     },
     {
       "raw_hot": 87933,
-      "num": 1705467,
+      "num": 1957437,
       "word": "杭州亚运会颁奖花束首次加入花器",
       "onboard_time": 1693543903,
       "rank": 2,
@@ -2169,6 +2257,14 @@
       "onboard_time": 1693500149,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79798,
+      "num": 317374,
+      "word": "退役搜救犬扒着训导员求抱抱",
+      "onboard_time": 1693561002,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73051,
@@ -2305,6 +2401,14 @@
       "onboard_time": 1693506676,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27325,
+      "num": 486427,
+      "word": "路遇司机昏迷溜车5特警徒手拉停",
+      "onboard_time": 1693562437,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24101,
