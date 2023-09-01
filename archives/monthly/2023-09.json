@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693595604267,
+  "endTime": 1693596832850,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -3379,6 +3379,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 41877,
+      "num": 68849,
+      "word": "深圳发布台风红色预警",
+      "onboard_time": 1693595596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41439,
       "num": 395408,
       "word": "校长开学首日校门口迎接学生",
@@ -3451,6 +3459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28091,
+      "num": 33774,
+      "word": "风箫孙尚香抢龙",
+      "onboard_time": 1693596316,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26770,
       "num": 1502037,
       "word": "开学第一课",
@@ -3481,14 +3497,6 @@
       "onboard_time": 1693516695,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 19145,
-      "num": 40634,
-      "word": "深圳发布台风红色预警",
-      "onboard_time": 1693595596,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17061,
