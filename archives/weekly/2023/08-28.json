@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693582457004,
+  "endTime": 1693585290241,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -1811,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 897309,
+      "num": 413203,
+      "word": "空姐丸子头",
+      "onboard_time": 1693581879,
+      "rank": 36,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 896732,
       "num": 896732,
       "word": "新疆三文鱼喜获丰收",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1693394136,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 885906,
+      "num": 410208,
+      "word": "沈梦辰穿了茜茜公主最爱的紫色",
+      "onboard_time": 1693582362,
+      "rank": 43,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 882390,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1693442858,
       "rank": 5,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 818240,
+      "num": 818240,
+      "word": "林俊杰第一条微博就是胡彦斌",
+      "onboard_time": 1693580983,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 808935,
@@ -2593,14 +2617,6 @@
       "onboard_time": 1693178186,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 702065,
-      "num": 463690,
-      "word": "林俊杰第一条微博就是胡彦斌",
-      "onboard_time": 1693580983,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 701859,
@@ -3219,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607212,
+      "num": 607212,
+      "word": "小夭 万般皆是命",
+      "onboard_time": 1693581462,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606564,
       "num": 606564,
       "word": "新版杜冰雁选角",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1693462180,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590802,
-      "num": 444978,
-      "word": "小夭 万般皆是命",
-      "onboard_time": 1693581462,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 585627,
@@ -5635,6 +5651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379010,
+      "num": 379010,
+      "word": "姬发 最后一梦",
+      "onboard_time": 1693582779,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378787,
       "num": 345991,
       "word": "男子点外卖备注放我出来骑手报警",
@@ -6419,6 +6443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341656,
+      "num": 341656,
+      "word": "奥本海默剧情高潮",
+      "onboard_time": 1693579962,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "Mate60真机",
@@ -7065,6 +7097,14 @@
       "onboard_time": 1693385257,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315539,
+      "num": 315539,
+      "word": "八仙饭店 改编",
+      "onboard_time": 1693582181,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 315504,
@@ -7979,14 +8019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278987,
-      "num": 243110,
-      "word": "八仙饭店 改编",
-      "onboard_time": 1693582181,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278807,
       "num": 273331,
       "word": "恋人来来去去 朋友永远是朋友",
@@ -8307,6 +8339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267377,
+      "num": 267377,
+      "word": "凤冠霞帔怎么可能被抢风头",
+      "onboard_time": 1693582898,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 267312,
       "num": 256146,
       "word": "网剧星辰令",
@@ -8473,14 +8513,6 @@
       "onboard_time": 1693441419,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260829,
-      "num": 260829,
-      "word": "空姐丸子头",
-      "onboard_time": 1693581879,
-      "rank": 36,
-      "category": "时尚,美妆"
     },
     {
       "raw_hot": 260611,
@@ -8665,14 +8697,6 @@
       "onboard_time": 1693477178,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253166,
-      "num": 241888,
-      "word": "沈梦辰穿了茜茜公主最爱的紫色",
-      "onboard_time": 1693582362,
-      "rank": 43,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 252838,
@@ -10147,6 +10171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208935,
+      "num": 237775,
+      "word": "被九岁小朋友的便贴可爱到了",
+      "onboard_time": 1693582122,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208813,
       "num": 208813,
       "word": "见过蛏子怎么飞吗",
@@ -10971,6 +11003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197015,
+      "num": 173810,
+      "word": "盛阳演我下班",
+      "onboard_time": 1693584455,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196926,
       "num": 183747,
       "word": "小红书辟谣被指涉黄传言",
@@ -11280,6 +11320,14 @@
       "word": "神隐预告",
       "onboard_time": 1693562618,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191515,
+      "num": 173809,
+      "word": "小夭 万物皆为我歌",
+      "onboard_time": 1693584395,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -12491,20 +12539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148598,
+      "num": 148598,
+      "word": "广东小孩的开学仪式感",
+      "onboard_time": 1693584156,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148157,
       "num": 148157,
       "word": "火树直播像在上网课",
       "onboard_time": 1693524326,
       "rank": 33,
       "category": "网红,游戏"
-    },
-    {
-      "raw_hot": 147943,
-      "num": 237775,
-      "word": "被九岁小朋友的便贴可爱到了",
-      "onboard_time": 1693582122,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 146965,
@@ -12599,6 +12647,14 @@
       "num": 141042,
       "word": "蜂巢",
       "onboard_time": 1693145499,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140919,
+      "num": 140919,
+      "word": "奥本海默 脸盲",
+      "onboard_time": 1693580021,
       "rank": 48,
       "category": "影视"
     },
@@ -12729,6 +12785,14 @@
       "onboard_time": 1693191396,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 131591,
+      "num": 140613,
+      "word": "龟苓膏蛋挞",
+      "onboard_time": 1693585112,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 131295,

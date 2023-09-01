@@ -1,0 +1,411 @@
+{
+  "startTime": 1693585290241,
+  "endTime": 1693585290241,
+  "band_list": [
+    {
+      "raw_hot": 1567359,
+      "num": 1567359,
+      "word": "深圳台风",
+      "onboard_time": 1693572879,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017438,
+      "num": 1017438,
+      "word": "徐良 淘汰",
+      "onboard_time": 1693570720,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 897309,
+      "num": 413203,
+      "word": "空姐丸子头",
+      "onboard_time": 1693581879,
+      "rank": 10,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 885906,
+      "num": 410208,
+      "word": "沈梦辰穿了茜茜公主最爱的紫色",
+      "onboard_time": 1693582362,
+      "rank": 11,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 821085,
+      "num": 406776,
+      "word": "母亲不堪家暴找人冒充走失儿子30年",
+      "onboard_time": 1693572699,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818240,
+      "num": 818240,
+      "word": "林俊杰第一条微博就是胡彦斌",
+      "onboard_time": 1693580983,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 793929,
+      "num": 793929,
+      "word": "骄阳伴我收视率",
+      "onboard_time": 1693575636,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 686416,
+      "num": 349372,
+      "word": "11个月男婴全身淤青布满针眼惨死",
+      "onboard_time": 1693577562,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610647,
+      "num": 610647,
+      "word": "利息少了41万购房者激动得一夜没睡",
+      "onboard_time": 1693563159,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 607212,
+      "num": 607212,
+      "word": "小夭 万般皆是命",
+      "onboard_time": 1693581462,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 469272,
+      "num": 469272,
+      "word": "一路朝阳 烂尾",
+      "onboard_time": 1693574921,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430772,
+      "num": 349291,
+      "word": "江浙沪包邮区包不住了",
+      "onboard_time": 1693579180,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415973,
+      "num": 415973,
+      "word": "台风路径",
+      "onboard_time": 1693570958,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405991,
+      "num": 405991,
+      "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+      "onboard_time": 1693556975,
+      "rank": 13,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 385042,
+      "num": 385042,
+      "word": "肖战王琳新剧对手戏",
+      "onboard_time": 1693581639,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 379010,
+      "num": 379010,
+      "word": "姬发 最后一梦",
+      "onboard_time": 1693582779,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373720,
+      "num": 373720,
+      "word": "火树 我给指条明路",
+      "onboard_time": 1693578341,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 350116,
+      "num": 350116,
+      "word": "黄宗泽哭了",
+      "onboard_time": 1693581039,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349037,
+      "num": 349037,
+      "word": "开端第二部",
+      "onboard_time": 1693560341,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 341656,
+      "num": 341656,
+      "word": "奥本海默剧情高潮",
+      "onboard_time": 1693579962,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 341134,
+      "num": 341134,
+      "word": "尤长靖是你想成为的大人吗",
+      "onboard_time": 1693581344,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 315539,
+      "num": 315539,
+      "word": "八仙饭店 改编",
+      "onboard_time": 1693582181,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312168,
+      "num": 349492,
+      "word": "死刑犯最后一餐吃什么",
+      "onboard_time": 1693558359,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 311462,
+      "num": 311462,
+      "word": "原来刘星才是第一个用蚂蚁花被的人",
+      "onboard_time": 1693578941,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305871,
+      "num": 413653,
+      "word": "3000多岁国宝曾差点被当废品卖掉",
+      "onboard_time": 1693579664,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290403,
+      "num": 290403,
+      "word": "情绪稳定的根本原因",
+      "onboard_time": 1693569337,
+      "rank": 27,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 288861,
+      "num": 241443,
+      "word": "大张伟一边蹦一边哭",
+      "onboard_time": 1693581702,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267377,
+      "num": 267377,
+      "word": "凤冠霞帔怎么可能被抢风头",
+      "onboard_time": 1693582898,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 251477,
+      "num": 238993,
+      "word": "谁家女主第一集就办离婚",
+      "onboard_time": 1693575460,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 243473,
+      "num": 232157,
+      "word": "航空公司向李惠利道歉",
+      "onboard_time": 1693568798,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242172,
+      "num": 242172,
+      "word": "日本出现大量巨型蛾子布满街道",
+      "onboard_time": 1693549055,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242095,
+      "num": 205773,
+      "word": "白敬亭虽迟但到的甜妹舞",
+      "onboard_time": 1693571378,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 239753,
+      "num": 204280,
+      "word": "大张伟又cue易烊千玺了",
+      "onboard_time": 1693577741,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239282,
+      "num": 173835,
+      "word": "黄子弘凡歌词",
+      "onboard_time": 1693572999,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 224561,
+      "num": 224561,
+      "word": "苏拉或成1949年以来登陆珠三角最强台风",
+      "onboard_time": 1693569219,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208935,
+      "num": 208935,
+      "word": "被九岁小朋友的便贴可爱到了",
+      "onboard_time": 1693582122,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 205961,
+      "num": 387639,
+      "word": "苏拉的危险半圆将横扫香港和深圳",
+      "onboard_time": 1693569276,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197015,
+      "num": 173810,
+      "word": "盛阳演我下班",
+      "onboard_time": 1693584455,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192072,
+      "num": 192072,
+      "word": "九尾直播",
+      "onboard_time": 1693580564,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191515,
+      "num": 173809,
+      "word": "小夭 万物皆为我歌",
+      "onboard_time": 1693584395,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186128,
+      "num": 186128,
+      "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+      "onboard_time": 1693548635,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178976,
+      "num": 173762,
+      "word": "HYBE新女团出道名单",
+      "onboard_time": 1693579841,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173852,
+      "num": 173852,
+      "word": "萌娃入园3天学做饭根本没时间哭",
+      "onboard_time": 1693577080,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173781,
+      "num": 173781,
+      "word": "天狼星 天为首",
+      "onboard_time": 1693578221,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170139,
+      "num": 170139,
+      "word": "奥本海默",
+      "onboard_time": 1693579784,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158249,
+      "num": 158249,
+      "word": "白羊座心软的神",
+      "onboard_time": 1693570477,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 148598,
+      "num": 148598,
+      "word": "广东小孩的开学仪式感",
+      "onboard_time": 1693584156,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 140919,
+      "num": 140919,
+      "word": "奥本海默 脸盲",
+      "onboard_time": 1693580021,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 131591,
+      "num": 140613,
+      "word": "龟苓膏蛋挞",
+      "onboard_time": 1693585112,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 41410,
+      "num": 901097,
+      "word": "亚运会媒体中心可同时看九场比赛",
+      "onboard_time": 1693581462,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#系好人生的第一颗纽扣#"
+    }
+  ]
+}
