@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693574400855,
+  "endTime": 1693575234199,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1693436,
+      "num": 597046,
+      "word": "母亲不堪家暴找人冒充走失儿子30年",
+      "onboard_time": 1693572699,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1663551,
       "num": 1663551,
       "word": "北京多区震感明显",
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1284989,
-      "num": 597046,
-      "word": "母亲不堪家暴找人冒充走失儿子30年",
-      "onboard_time": 1693572699,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1240350,
       "num": 400300,
       "word": "韩男子性侵女儿10年被妻子刺伤双眼",
@@ -249,6 +249,14 @@
       "onboard_time": 1693537294,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1184313,
+      "num": 1184313,
+      "word": "深圳台风",
+      "onboard_time": 1693572879,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1151262,
@@ -393,14 +401,6 @@
       "onboard_time": 1693566637,
       "rank": 23,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 886966,
-      "num": 886966,
-      "word": "深圳台风",
-      "onboard_time": 1693572879,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 875555,
@@ -915,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476313,
+      "num": 476313,
+      "word": "张栋梁你还说你不会跳舞",
+      "onboard_time": 1693574618,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474974,
       "num": 474974,
       "word": "深圳地铁全线停运",
@@ -929,6 +937,14 @@
       "onboard_time": 1693551279,
       "rank": 21,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 472293,
+      "num": 472293,
+      "word": "情绪稳定的根本原因",
+      "onboard_time": 1693569337,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 468791,
@@ -987,14 +1003,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 448994,
-      "num": 448994,
-      "word": "情绪稳定的根本原因",
-      "onboard_time": 1693569337,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 448576,
       "num": 410320,
       "word": "陈伟霆说这话时魏大勋就在旁边",
@@ -1019,12 +1027,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434348,
+      "num": 434348,
+      "word": "黄子弘凡歌词",
+      "onboard_time": 1693572999,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433600,
       "num": 433600,
       "word": "白羊座心软的神",
       "onboard_time": 1693570477,
       "rank": 26,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 433004,
+      "num": 433004,
+      "word": "一路朝阳 烂尾",
+      "onboard_time": 1693574921,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 432529,
@@ -1051,14 +1075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 429317,
-      "num": 429317,
-      "word": "黄子弘凡歌词",
-      "onboard_time": 1693572999,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 428756,
       "num": 402420,
       "word": "妈妈HR式给生活费",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1693525950,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 422066,
+      "num": 422066,
+      "word": "狼队阵容 憋屈",
+      "onboard_time": 1693573659,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 420200,
@@ -1203,6 +1227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384750,
+      "num": 384750,
+      "word": "小舟从此逝 江海寄余生",
+      "onboard_time": 1693573180,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 379087,
+      "num": 379087,
+      "word": "香港台风",
+      "onboard_time": 1693572637,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378787,
       "num": 345991,
       "word": "男子点外卖备注放我出来骑手报警",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1693573361,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358119,
-      "num": 358119,
-      "word": "香港台风",
-      "onboard_time": 1693572637,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356425,
@@ -1587,14 +1619,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 272960,
-      "num": 272960,
-      "word": "小舟从此逝 江海寄余生",
-      "onboard_time": 1693573180,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272215,
       "num": 254796,
       "word": "男朋友以为是造型拍了下来",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1693534835,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263625,
+      "num": 477766,
+      "word": "认房不认贷",
+      "onboard_time": 1693573060,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261686,
@@ -1731,20 +1763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250788,
-      "num": 250788,
-      "word": "狼队阵容 憋屈",
-      "onboard_time": 1693573659,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 250260,
       "num": 250260,
       "word": "家长校门口接孩子用手为座位隔热",
       "onboard_time": 1693556318,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250201,
+      "num": 250201,
+      "word": "质子团新综艺",
+      "onboard_time": 1693573959,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 249975,
@@ -1793,14 +1825,6 @@
       "onboard_time": 1693548695,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246298,
-      "num": 246298,
-      "word": "认房不认贷",
-      "onboard_time": 1693573060,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244801,
@@ -1883,14 +1907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229059,
-      "num": 229059,
-      "word": "质子团新综艺",
-      "onboard_time": 1693573959,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228519,
       "num": 228519,
       "word": "王心凌在线为新歌征名",
@@ -1931,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222323,
+      "num": 222323,
+      "word": "张嘉倪新剧里好美",
+      "onboard_time": 1693572222,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221340,
       "num": 221340,
       "word": "没想到粉饼盒还能这么用",
@@ -1945,14 +1969,6 @@
       "onboard_time": 1693523064,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219461,
-      "num": 219461,
-      "word": "张嘉倪新剧里好美",
-      "onboard_time": 1693572222,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 217898,
@@ -2107,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201448,
+      "num": 201448,
+      "word": "盛阳吃瓜吃自己头上",
+      "onboard_time": 1693574140,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201313,
       "num": 201313,
       "word": "王心凌上海抢票",
@@ -2209,14 +2233,6 @@
       "onboard_time": 1693494399,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 194285,
-      "num": 194285,
-      "word": "盛阳吃瓜吃自己头上",
-      "onboard_time": 1693574140,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 194160,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1693493081,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 182695,
+      "num": 182695,
+      "word": "RUNext决赛",
+      "onboard_time": 1693570179,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 180967,
@@ -2481,14 +2505,6 @@
       "onboard_time": 1693487255,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159904,
-      "num": 159904,
-      "word": "RUNext决赛",
-      "onboard_time": 1693570179,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 159790,
@@ -2787,7 +2803,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74295,
+      "raw_hot": 79274,
       "num": 1631499,
       "word": "杭州亚运会游泳馆黑科技大揭秘",
       "onboard_time": 1693571681,
@@ -2815,6 +2831,14 @@
       "num": 633702,
       "word": "民警神预判封路1分钟后山体滑坡",
       "onboard_time": 1693558839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64080,
+      "num": 594338,
+      "word": "高校连续4年为报到时生日学生庆生",
+      "onboard_time": 1693573299,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2897,14 +2921,6 @@
       "onboard_time": 1693506917,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36644,
-      "num": 594338,
-      "word": "高校连续4年为报到时生日学生庆生",
-      "onboard_time": 1693573299,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36213,
