@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693606525737,
+  "endTime": 1693607621518,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -209,6 +209,14 @@
       "onboard_time": 1693582898,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 318645,
+      "num": 318645,
+      "word": "公司对账差1分出动5名会计帮核对",
+      "onboard_time": 1693605376,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 315539,
@@ -483,14 +491,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 97385,
-      "num": 86988,
-      "word": "公司对账差1分出动5名会计帮核对",
-      "onboard_time": 1693605376,
-      "rank": 15,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 96710,
       "num": 104606,
       "word": "京城大师赛",
@@ -531,20 +531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52838,
+      "num": 52838,
+      "word": "七时吉祥8月最热神话剧",
+      "onboard_time": 1693597694,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 49003,
       "num": 49003,
       "word": "菠萝猫猫头",
       "onboard_time": 1693592597,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 49002,
-      "num": 49002,
-      "word": "七时吉祥8月最热神话剧",
-      "onboard_time": 1693597694,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 47892,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 46920,
-      "num": 87213,
+      "num": 130058,
       "word": "深圳发布台风红色预警",
       "onboard_time": 1693595596,
       "rank": 49,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 39276,
-      "num": 40694,
+      "num": 47728,
       "word": "北环大道",
       "onboard_time": 1693593199,
       "rank": 48,
@@ -635,8 +635,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22202,
-      "num": 41125,
+      "raw_hot": 25583,
+      "num": 47717,
       "word": "高佑思打卡天津跳水",
       "onboard_time": 1693604895,
       "rank": 49,
@@ -651,8 +651,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 12931,
-      "num": 217857,
+      "raw_hot": 19010,
+      "num": 315111,
       "word": "开学第一课",
       "onboard_time": 1693494037,
       "rank": 2,
