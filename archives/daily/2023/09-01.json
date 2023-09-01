@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693538257866,
+  "endTime": 1693539240485,
   "band_list": [
     {
       "raw_hot": 5262598,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1751394,
-      "num": 768271,
+      "num": 954510,
       "word": "乌尔善 内娱徒手整形第一人",
       "onboard_time": 1693533037,
       "rank": 3,
@@ -43,20 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1318721,
+      "num": 1318721,
+      "word": "幼升小三大件花费近3000元",
+      "onboard_time": 1693535859,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1227450,
+      "num": 1227450,
+      "word": "2024鹅厂片单",
+      "onboard_time": 1693537294,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1151262,
       "num": 1151262,
       "word": "墨菲定律",
       "onboard_time": 1693498533,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1076325,
-      "num": 1076325,
-      "word": "幼升小三大件花费近3000元",
-      "onboard_time": 1693535859,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 995522,
@@ -115,6 +123,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 779552,
+      "num": 779552,
+      "word": "前任4孟云林佳体面告别",
+      "onboard_time": 1693537174,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 777658,
       "num": 777658,
       "word": "迎击台风苏拉",
@@ -129,14 +145,6 @@
       "onboard_time": 1693485453,
       "rank": 5,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 727485,
-      "num": 727485,
-      "word": "2024鹅厂片单",
-      "onboard_time": 1693537294,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 720877,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654256,
+      "num": 278793,
+      "word": "同事离职后的电脑屏保",
+      "onboard_time": 1693538017,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 653018,
       "num": 653018,
       "word": "上错花轿嫁对郎再火的唯一受害者",
@@ -169,6 +185,14 @@
       "onboard_time": 1693536335,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630525,
+      "num": 630525,
+      "word": "存量房贷",
+      "onboard_time": 1693532917,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 626182,
@@ -203,20 +227,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 610040,
+      "num": 610040,
+      "word": "丈夫去世后女子自驾9万公里游遍中国",
+      "onboard_time": 1693535195,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606408,
       "num": 606408,
       "word": "这不是何群成晓诗婚后生活吗",
       "onboard_time": 1693525591,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 595833,
-      "num": 595833,
-      "word": "存量房贷",
-      "onboard_time": 1693532917,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 566743,
@@ -233,14 +257,6 @@
       "onboard_time": 1693494103,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 556433,
-      "num": 556433,
-      "word": "丈夫去世后女子自驾9万公里游遍中国",
-      "onboard_time": 1693535195,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 553198,
@@ -273,6 +289,14 @@
       "onboard_time": 1693533397,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539325,
+      "num": 539325,
+      "word": "我知道我爱你",
+      "onboard_time": 1693537896,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 538887,
@@ -329,14 +353,6 @@
       "onboard_time": 1693493259,
       "rank": 21,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 446688,
-      "num": 446688,
-      "word": "前任4孟云林佳体面告别",
-      "onboard_time": 1693537174,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 440491,
@@ -425,6 +441,14 @@
       "onboard_time": 1693529975,
       "rank": 30,
       "category": "自然"
+    },
+    {
+      "raw_hot": 384686,
+      "num": 384686,
+      "word": "中国驻日使馆披露被骚扰细节",
+      "onboard_time": 1693538196,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378206,
@@ -521,14 +545,6 @@
       "onboard_time": 1693483056,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 296820,
-      "num": 296820,
-      "word": "我知道我爱你",
-      "onboard_time": 1693537896,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 289613,
@@ -635,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252233,
+      "num": 248203,
+      "word": "妈妈HR式给生活费",
+      "onboard_time": 1693538796,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 249975,
       "num": 243693,
       "word": "奥本海默没拍的历史真相",
@@ -673,6 +697,14 @@
       "onboard_time": 1693532133,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236280,
+      "num": 236280,
+      "word": "第一届05后大学生来了",
+      "onboard_time": 1693538435,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 233524,
@@ -771,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206862,
+      "num": 206862,
+      "word": "骄阳伴我开通角色号",
+      "onboard_time": 1693537536,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205145,
       "num": 205145,
       "word": "周冬雨新片玩复仇高端局",
@@ -793,6 +833,14 @@
       "onboard_time": 1693534115,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200196,
+      "num": 200196,
+      "word": "深圳防台风防汛一级应急响应",
+      "onboard_time": 1693538557,
+      "rank": 43,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 195012,
@@ -843,11 +891,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186125,
-      "num": 186125,
-      "word": "骄阳伴我开通角色号",
-      "onboard_time": 1693537536,
-      "rank": 41,
+      "raw_hot": 185967,
+      "num": 185967,
+      "word": "电影不虚此行预售开启",
+      "onboard_time": 1693539036,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -875,20 +923,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175240,
-      "num": 175240,
-      "word": "同事离职后的电脑屏保",
-      "onboard_time": 1693538017,
-      "rank": 45,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 174890,
       "num": 174890,
       "word": "田曦薇敖瑞鹏的身高差",
       "onboard_time": 1693518616,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174032,
+      "num": 206599,
+      "word": "深圳16时起停工停业停市",
+      "onboard_time": 1693539158,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163940,
@@ -1003,14 +1051,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 136992,
-      "num": 162359,
-      "word": "中国驻日使馆披露被骚扰细节",
-      "onboard_time": 1693538196,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "男子钓中1条鲅鱼身上卡着金镯子",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1693523848,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96252,
+      "num": 200843,
+      "word": "沈腾认真脸",
+      "onboard_time": 1693538740,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 91486,

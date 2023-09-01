@@ -1,0 +1,410 @@
+{
+  "runTime": 1693539240485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1318721,
+        "num": 1318721,
+        "word": "幼升小三大件花费近3000元",
+        "onboard_time": 1693535859,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227450,
+        "num": 1227450,
+        "word": "2024鹅厂片单",
+        "onboard_time": 1693537294,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29552,
+        "num": 964179,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391419,
+        "num": 954510,
+        "word": "乌尔善 内娱徒手整形第一人",
+        "onboard_time": 1693533037,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 779552,
+        "num": 779552,
+        "word": "前任4孟云林佳体面告别",
+        "onboard_time": 1693537174,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648560,
+        "num": 648560,
+        "word": "七险三金多了哪两险哪两金",
+        "onboard_time": 1693526795,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647073,
+        "num": 647073,
+        "word": "迎击台风苏拉",
+        "onboard_time": 1693523784,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630525,
+        "num": 630525,
+        "word": "存量房贷",
+        "onboard_time": 1693532917,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 610040,
+        "num": 610040,
+        "word": "丈夫去世后女子自驾9万公里游遍中国",
+        "onboard_time": 1693535195,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539325,
+        "num": 539325,
+        "word": "我知道我爱你",
+        "onboard_time": 1693537896,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 983497,
+        "num": 535874,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521786,
+        "num": 521786,
+        "word": "李莲花真婆娑步",
+        "onboard_time": 1693535976,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466410,
+        "num": 466410,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1693534357,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426811,
+        "num": 426811,
+        "word": "新疆三文鱼喜获丰收",
+        "onboard_time": 1693527214,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 384686,
+        "num": 384686,
+        "word": "中国驻日使馆披露被骚扰细节",
+        "onboard_time": 1693538196,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351242,
+        "num": 351242,
+        "word": "费翔通宵翻译封神英文字幕",
+        "onboard_time": 1693535376,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345166,
+        "num": 345166,
+        "word": "曾黎到底有多少好看的耳饰",
+        "onboard_time": 1693531895,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338990,
+        "num": 338990,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315645,
+        "num": 315645,
+        "word": "TaylorSwift巡演电影预告片释出",
+        "onboard_time": 1693533817,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279684,
+        "num": 279684,
+        "word": "莲花楼番外 找到你了",
+        "onboard_time": 1693531113,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654256,
+        "num": 278793,
+        "word": "同事离职后的电脑屏保",
+        "onboard_time": 1693538017,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 608970,
+        "num": 278360,
+        "word": "23岁女子自曝遭夫妻两人殴打扒衣",
+        "onboard_time": 1693536335,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549783,
+        "num": 276135,
+        "word": "张远 没工作你试试",
+        "onboard_time": 1693536212,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349871,
+        "num": 275393,
+        "word": "i人无痛装e教程",
+        "onboard_time": 1693535435,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280643,
+        "num": 273252,
+        "word": "女子剖宫产手术纱布遗漏体内14年",
+        "onboard_time": 1693531834,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155830,
+        "num": 271760,
+        "word": "大学生请假捐造血干细胞救助患者",
+        "onboard_time": 1693528418,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271747,
+        "num": 271747,
+        "word": "网友许愿的综艺拍出来了",
+        "onboard_time": 1693527996,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270008,
+        "num": 270008,
+        "word": "用过这书皮的人都长大了吧",
+        "onboard_time": 1693534055,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257098,
+        "num": 257098,
+        "word": "深圳天气",
+        "onboard_time": 1693529975,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 249698,
+        "num": 249698,
+        "word": "吴磊说骑行是我的生活",
+        "onboard_time": 1693535136,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398034,
+        "num": 249175,
+        "word": "特斯拉Model3",
+        "onboard_time": 1693527874,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273776,
+        "num": 249056,
+        "word": "特斯拉新款Model3价格",
+        "onboard_time": 1693534536,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 252233,
+        "num": 248203,
+        "word": "妈妈HR式给生活费",
+        "onboard_time": 1693538796,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 245485,
+        "num": 245485,
+        "word": "深圳地铁",
+        "onboard_time": 1693531232,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236280,
+        "num": 236280,
+        "word": "第一届05后大学生来了",
+        "onboard_time": 1693538435,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 228925,
+        "num": 228925,
+        "word": "黄子韬嘴在前面飞脑子在后面追",
+        "onboard_time": 1693536815,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227541,
+        "num": 227541,
+        "word": "谢娜希望苏可以后少拍一点意难平的戏",
+        "onboard_time": 1693533397,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208116,
+        "num": 208116,
+        "word": "2023年小学入学人数达近年峰值",
+        "onboard_time": 1693532618,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206862,
+        "num": 206862,
+        "word": "骄阳伴我开通角色号",
+        "onboard_time": 1693537536,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174032,
+        "num": 206599,
+        "word": "深圳16时起停工停业停市",
+        "onboard_time": 1693539158,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206544,
+        "num": 206544,
+        "word": "黄子弘凡成为你想成为的大人",
+        "onboard_time": 1693537896,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202584,
+        "num": 202584,
+        "word": "骄阳伴我充充冲冲版预告",
+        "onboard_time": 1693536513,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96252,
+        "num": 200843,
+        "word": "沈腾认真脸",
+        "onboard_time": 1693538740,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200196,
+        "num": 200196,
+        "word": "深圳防台风防汛一级应急响应",
+        "onboard_time": 1693538557,
+        "rank": 43,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 193602,
+        "num": 193602,
+        "word": "和不舒服的人在一起会生病",
+        "onboard_time": 1693527698,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187598,
+        "num": 187598,
+        "word": "李东海李赫宰成立新公司",
+        "onboard_time": 1693527756,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185967,
+        "num": 185967,
+        "word": "电影不虚此行预售开启",
+        "onboard_time": 1693539036,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183112,
+        "num": 183112,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 176896,
+        "num": 176896,
+        "word": "旧照和现在长得一模一样的爱豆们",
+        "onboard_time": 1693534175,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169512,
+        "num": 169512,
+        "word": "减肥为什么先养肝",
+        "onboard_time": 1693530033,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励安徽省潜山野寨中学新考取军校的同学们#"
+    }
+  }
+}
