@@ -1,0 +1,410 @@
+{
+  "runTime": 1693553631631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3921364,
+        "num": 3921364,
+        "word": "日本出现大量巨型蛾子布满街道",
+        "onboard_time": 1693549055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1502710,
+        "num": 1502710,
+        "word": "台风苏拉路径又变了",
+        "onboard_time": 1693540777,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145286,
+        "num": 1300654,
+        "word": "开学第一天",
+        "onboard_time": 1693544146,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238696,
+        "num": 1238696,
+        "word": "抢注宋祖儿商标均被驳回",
+        "onboard_time": 1693542581,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089848,
+        "num": 1089848,
+        "word": "王耀庆 演员是没资格生病的",
+        "onboard_time": 1693549055,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663840,
+        "num": 663840,
+        "word": "张新成王玉雯新剧舍不得星星",
+        "onboard_time": 1693552057,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610827,
+        "num": 610827,
+        "word": "朱一龙再次提名金鹿奖最佳男演员",
+        "onboard_time": 1693551099,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545197,
+        "num": 545197,
+        "word": "幼升小三大件花费近3000元",
+        "onboard_time": 1693535859,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498178,
+        "num": 498178,
+        "word": "刘亦菲提名金熊猫奖最佳女主角",
+        "onboard_time": 1693548877,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474974,
+        "num": 474974,
+        "word": "深圳地铁全线停运",
+        "onboard_time": 1693549475,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691553,
+        "num": 471374,
+        "word": "王俊凯石家庄",
+        "onboard_time": 1693550139,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 591215,
+        "num": 464974,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479020,
+        "num": 453438,
+        "word": "敖子逸蒋依依扫楼生图",
+        "onboard_time": 1693552359,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294297,
+        "num": 441883,
+        "word": "丫丫吃笋像在耍金箍棒",
+        "onboard_time": 1693543903,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 284036,
+        "num": 434044,
+        "word": "没有中国人笑着走出大英博物馆",
+        "onboard_time": 1693543723,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433527,
+        "num": 433527,
+        "word": "乌尔善 内娱徒手整形第一人",
+        "onboard_time": 1693533037,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429560,
+        "num": 429560,
+        "word": "红毯上的舒淇就没输过吧",
+        "onboard_time": 1693547739,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 403995,
+        "num": 403995,
+        "word": "汪苏泷探班徐良",
+        "onboard_time": 1693546299,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369435,
+        "num": 369435,
+        "word": "台风",
+        "onboard_time": 1693540597,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256555,
+        "num": 364988,
+        "word": "B太 海鲜市场还会有做鬼的吗",
+        "onboard_time": 1693543122,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1121588,
+        "num": 356660,
+        "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+        "onboard_time": 1693548635,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499529,
+        "num": 350143,
+        "word": "陆毅说贝儿可能会成为歌手",
+        "onboard_time": 1693551637,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445175,
+        "num": 333186,
+        "word": "李昀锐一天官宣三部剧",
+        "onboard_time": 1693551279,
+        "rank": 22,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 384663,
+        "num": 323138,
+        "word": "15岁男孩失联7天遗体在河道被发现",
+        "onboard_time": 1693550377,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321684,
+        "num": 321684,
+        "word": "男子点外卖备注放我出来骑手报警",
+        "onboard_time": 1693550258,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378243,
+        "num": 314300,
+        "word": "陆毅rap对我眼睛很友好",
+        "onboard_time": 1693544743,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297612,
+        "num": 297612,
+        "word": "骄阳伴我连更17天",
+        "onboard_time": 1693550676,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294564,
+        "num": 294564,
+        "word": "原来张栋梁之前就是唱跳歌手",
+        "onboard_time": 1693545341,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244801,
+        "num": 294193,
+        "word": "代号鸢兔基",
+        "onboard_time": 1693551760,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230401,
+        "num": 293967,
+        "word": "男生上门订婚准备了24束花",
+        "onboard_time": 1693545161,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293931,
+        "num": 293931,
+        "word": "许光汉帅的很稳定",
+        "onboard_time": 1693552417,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264878,
+        "num": 264878,
+        "word": "同人女吃饭be like",
+        "onboard_time": 1693550435,
+        "rank": 31,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 259252,
+        "num": 259252,
+        "word": "封神",
+        "onboard_time": 1693552417,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244476,
+        "num": 244476,
+        "word": "警方回应一女子在山坡上自缢身亡",
+        "onboard_time": 1693552777,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229565,
+        "num": 229565,
+        "word": "狗狗真心的守护却换来了剃毛",
+        "onboard_time": 1693544562,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 226061,
+        "num": 226061,
+        "word": "男生车祸失去右臂欲分手女友骂好傻",
+        "onboard_time": 1693544922,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 221969,
+        "num": 221969,
+        "word": "王一博提名金鹿奖最佳男演员",
+        "onboard_time": 1693553374,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219287,
+        "num": 219287,
+        "word": "迎击台风苏拉",
+        "onboard_time": 1693523784,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218370,
+        "num": 218370,
+        "word": "张栋梁叫鬼脚梁的原因",
+        "onboard_time": 1693548877,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212743,
+        "num": 212743,
+        "word": "超强台风苏拉或正面袭击深圳",
+        "onboard_time": 1693542039,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204530,
+        "num": 204530,
+        "word": "王俊凯出发青岛",
+        "onboard_time": 1693543424,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197367,
+        "num": 197367,
+        "word": "同事离职后的电脑屏保",
+        "onboard_time": 1693538017,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192151,
+        "num": 192151,
+        "word": "电竞选手跳whatever",
+        "onboard_time": 1693552359,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189426,
+        "num": 189426,
+        "word": "没时间后悔全员西装杀",
+        "onboard_time": 1693547615,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180222,
+        "num": 180222,
+        "word": "伯远来披荆斩棘当舞蹈老师了",
+        "onboard_time": 1693548217,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178327,
+        "num": 178327,
+        "word": "丈夫去世后女子自驾9万公里游遍中国",
+        "onboard_time": 1693535195,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174721,
+        "num": 174721,
+        "word": "六公主十一首播人生大事",
+        "onboard_time": 1693545639,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172931,
+        "num": 172931,
+        "word": "王心凌在线为新歌征名",
+        "onboard_time": 1693553142,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152812,
+        "num": 170821,
+        "word": "咒术回战虎杖与小泽",
+        "onboard_time": 1693553259,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124879,
+        "num": 169321,
+        "word": "朋友圈里的显眼包",
+        "onboard_time": 1693547557,
+        "rank": 49,
+        "category": "时尚,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军需要一批又一批有志青年接续奋斗#"
+    }
+  }
+}

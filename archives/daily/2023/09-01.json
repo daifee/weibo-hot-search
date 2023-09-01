@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693552545001,
+  "endTime": 1693553631631,
   "band_list": [
     {
       "raw_hot": 5262598,
@@ -123,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1086974,
-      "num": 1086974,
+      "raw_hot": 1089848,
+      "num": 1089848,
       "word": "王耀庆 演员是没资格生病的",
       "onboard_time": 1693549055,
       "rank": 26,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 875555,
-      "num": 448251,
+      "num": 471374,
       "word": "王俊凯石家庄",
       "onboard_time": 1693550139,
       "rank": 10,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 663840,
+      "num": 663840,
+      "word": "张新成王玉雯新剧舍不得星星",
+      "onboard_time": 1693552057,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653018,
       "num": 653018,
       "word": "上错花轿嫁对郎再火的唯一受害者",
@@ -384,6 +392,14 @@
       "word": "张晚意孙怡美拉德风剧照",
       "onboard_time": 1693540058,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 610827,
+      "num": 610827,
+      "word": "朱一龙再次提名金鹿奖最佳男演员",
+      "onboard_time": 1693551099,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499529,
+      "num": 352980,
+      "word": "陆毅说贝儿可能会成为歌手",
+      "onboard_time": 1693551637,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499279,
       "num": 499279,
       "word": "装腔启示录 嗑晕了",
@@ -561,6 +585,22 @@
       "onboard_time": 1693544922,
       "rank": 33,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 479020,
+      "num": 453438,
+      "word": "敖子逸蒋依依扫楼生图",
+      "onboard_time": 1693552359,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 474974,
+      "num": 474974,
+      "word": "深圳地铁全线停运",
+      "onboard_time": 1693549475,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472901,
@@ -593,14 +633,6 @@
       "onboard_time": 1693543544,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 457354,
-      "num": 457354,
-      "word": "深圳地铁全线停运",
-      "onboard_time": 1693549475,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452709,
@@ -641,14 +673,6 @@
       "onboard_time": 1693488761,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 431278,
-      "num": 431278,
-      "word": "朱一龙再次提名金鹿奖最佳男演员",
-      "onboard_time": 1693551099,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 429367,
@@ -713,14 +737,6 @@
       "onboard_time": 1693528418,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413624,
-      "num": 352980,
-      "word": "陆毅说贝儿可能会成为歌手",
-      "onboard_time": 1693551637,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 412692,
@@ -817,14 +833,6 @@
       "onboard_time": 1693534055,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 372304,
-      "num": 338645,
-      "word": "张新成王玉雯新剧舍不得星星",
-      "onboard_time": 1693552057,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 371878,
@@ -971,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293931,
+      "num": 293931,
+      "word": "许光汉帅的很稳定",
+      "onboard_time": 1693552417,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289613,
       "num": 289613,
       "word": "星空",
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 289179,
-      "num": 232544,
+      "num": 264878,
       "word": "同人女吃饭be like",
       "onboard_time": 1693550435,
       "rank": 30,
@@ -1075,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259252,
+      "num": 259252,
+      "word": "封神",
+      "onboard_time": 1693552417,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258039,
       "num": 258039,
       "word": "娇兰 封神质子团",
@@ -1137,6 +1161,22 @@
       "onboard_time": 1693548695,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244801,
+      "num": 294193,
+      "word": "代号鸢兔基",
+      "onboard_time": 1693551760,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 244476,
+      "num": 244476,
+      "word": "警方回应一女子在山坡上自缢身亡",
+      "onboard_time": 1693552777,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242179,
@@ -1216,6 +1256,14 @@
       "word": "虞书欣点了东北黏糊麻辣烫",
       "onboard_time": 1693486115,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221969,
+      "num": 221969,
+      "word": "王一博提名金鹿奖最佳男演员",
+      "onboard_time": 1693553374,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1355,14 +1403,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 199869,
-      "num": 199869,
-      "word": "敖子逸蒋依依扫楼生图",
-      "onboard_time": 1693552359,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 199052,
       "num": 199052,
       "word": "尼龙九月刊文俊辉封面",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1693527032,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193663,
-      "num": 193663,
-      "word": "许光汉帅的很稳定",
-      "onboard_time": 1693552417,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 192486,
@@ -1475,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183333,
-      "num": 183333,
-      "word": "封神",
-      "onboard_time": 1693552417,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182790,
       "num": 182790,
       "word": "遥遥领先",
@@ -1515,12 +1539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165629,
-      "num": 165629,
-      "word": "代号鸢兔基",
-      "onboard_time": 1693551760,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 172931,
+      "num": 172931,
+      "word": "王心凌在线为新歌征名",
+      "onboard_time": 1693553142,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 164243,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1693527577,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152812,
+      "num": 170821,
+      "word": "咒术回战虎杖与小泽",
+      "onboard_time": 1693553259,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 150210,
