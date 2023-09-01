@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693578836163,
+  "endTime": 1693581428484,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -819,6 +819,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1721936,
+      "num": 1721936,
+      "word": "深圳台风",
+      "onboard_time": 1693467941,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1716784,
       "num": 1716784,
       "word": "本周狗屎运最旺的星座",
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 1386736,
-      "num": 395036,
+      "num": 399696,
       "word": "11个月男婴全身淤青布满针眼惨死",
       "onboard_time": 1693577562,
       "rank": 30,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1693295016,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1184313,
-      "num": 1184313,
-      "word": "深圳台风",
-      "onboard_time": 1693467941,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1175256,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843388,
+      "num": 843388,
+      "word": "火树 我给指条明路",
+      "onboard_time": 1693578341,
+      "rank": 17,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 842282,
       "num": 539500,
       "word": "张韶涵 我在扬州没空想你",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1693216059,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 780612,
+      "num": 780612,
+      "word": "奥本海默高潮",
+      "onboard_time": 1693579962,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 779552,
@@ -2779,6 +2795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 663335,
+      "num": 391641,
+      "word": "江浙沪包邮区包不住了",
+      "onboard_time": 1693579180,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662387,
       "num": 662387,
       "word": "中国烟草回应卷烟涨价传言",
@@ -3155,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608571,
+      "num": 491694,
+      "word": "大张伟又cue易烊千玺了",
+      "onboard_time": 1693577741,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607985,
       "num": 607985,
       "word": "西安五月天",
@@ -3523,6 +3555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550893,
+      "num": 489586,
+      "word": "骄阳伴我片尾",
+      "onboard_time": 1693578581,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 549824,
       "num": 549824,
       "word": "李东海李赫宰成立新公司",
@@ -3553,6 +3593,14 @@
       "onboard_time": 1693195116,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544837,
+      "num": 385886,
+      "word": "原来刘星才是第一个用蚂蚁花被的人",
+      "onboard_time": 1693578941,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 544739,
@@ -3691,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532586,
+      "num": 532586,
+      "word": "天狼星 天为首",
+      "onboard_time": 1693578221,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 531805,
       "num": 465756,
       "word": "被baby姐轻松秒到",
@@ -3721,14 +3777,6 @@
       "onboard_time": 1693278515,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 527326,
-      "num": 471717,
-      "word": "火树 我给指条明路",
-      "onboard_time": 1693578341,
-      "rank": 17,
-      "category": "音乐,游戏"
     },
     {
       "raw_hot": 527309,
@@ -4043,6 +4091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499491,
+      "num": 499491,
+      "word": "3000多岁国宝曾差点被当废品卖掉",
+      "onboard_time": 1693579664,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499279,
       "num": 499279,
       "word": "装腔启示录 嗑晕了",
@@ -4321,14 +4377,6 @@
       "onboard_time": 1693538196,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468289,
-      "num": 468289,
-      "word": "天狼星 天为首",
-      "onboard_time": 1693578221,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 468233,
@@ -4707,6 +4755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438870,
+      "num": 438870,
+      "word": "黄子弘凡歌词",
+      "onboard_time": 1693572999,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 438030,
       "num": 435113,
       "word": "张拿铁训斥奶奶不吃饭就下桌",
@@ -4745,14 +4801,6 @@
       "onboard_time": 1693189714,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 434348,
-      "num": 434348,
-      "word": "黄子弘凡歌词",
-      "onboard_time": 1693572999,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 434182,
@@ -5427,14 +5475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 385195,
-      "num": 385195,
-      "word": "大张伟又cue易烊千玺了",
-      "onboard_time": 1693577741,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384396,
       "num": 384396,
       "word": "田曦薇李玉湖的十大美德",
@@ -5681,6 +5721,14 @@
       "onboard_time": 1693443398,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371082,
+      "num": 371082,
+      "word": "HYBE新女团出道名单",
+      "onboard_time": 1693579841,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 371075,
@@ -6123,6 +6171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351995,
+      "num": 322586,
+      "word": "贝儿是吞了只百灵鸟吗",
+      "onboard_time": 1693579304,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350799,
       "num": 350799,
       "word": "捡了东西的狼",
@@ -6209,6 +6265,14 @@
       "onboard_time": 1693530033,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 347757,
+      "num": 319587,
+      "word": "黄宗泽哭了",
+      "onboard_time": 1693581039,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 346963,
@@ -6475,12 +6539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 334697,
+      "num": 313161,
+      "word": "林俊杰第一条微博就是胡彦斌",
+      "onboard_time": 1693580983,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334024,
       "num": 334024,
       "word": "恋爱脑一下就被治好了",
       "onboard_time": 1693395277,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333694,
+      "num": 333694,
+      "word": "九尾直播",
+      "onboard_time": 1693580564,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 332950,
@@ -6987,14 +7067,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 313041,
-      "num": 313041,
-      "word": "骄阳伴我片尾",
-      "onboard_time": 1693578581,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312834,
       "num": 312834,
       "word": "中国烟草辟谣卷烟将涨价",
@@ -7169,6 +7241,14 @@
       "onboard_time": 1693223017,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302739,
+      "num": 302739,
+      "word": "萌娃入园3天学做饭根本没时间哭",
+      "onboard_time": 1693577080,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302427,
@@ -7425,6 +7505,14 @@
       "onboard_time": 1693552417,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293837,
+      "num": 519237,
+      "word": "司机集体闯红灯却被交警点赞",
+      "onboard_time": 1693576839,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293497,
@@ -8265,14 +8353,6 @@
       "onboard_time": 1693236695,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264922,
-      "num": 264922,
-      "word": "萌娃入园3天学做饭根本没时间哭",
-      "onboard_time": 1693577080,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264524,
@@ -9544,6 +9624,14 @@
       "word": "周柏豪演唱会",
       "onboard_time": 1693198660,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 223258,
+      "num": 223258,
+      "word": "尤长靖是你想成为的大人吗",
+      "onboard_time": 1693581344,
+      "rank": 46,
       "category": "音乐"
     },
     {
@@ -11035,6 +11123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193094,
+      "num": 206141,
+      "word": "极氪王 特斯拉",
+      "onboard_time": 1693580439,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192486,
       "num": 191152,
       "word": "于适OK明天会更好封面大片",
@@ -11273,14 +11369,6 @@
       "onboard_time": 1693572280,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188849,
-      "num": 519237,
-      "word": "司机集体闯红灯却被交警点赞",
-      "onboard_time": 1693576839,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188246,
@@ -12172,7 +12260,7 @@
     },
     {
       "raw_hot": 157145,
-      "num": 1137745,
+      "num": 1502037,
       "word": "开学第一课",
       "onboard_time": 1693494037,
       "rank": 2,
@@ -13758,6 +13846,9 @@
     },
     {
       "word": "#系好人生的第一颗纽扣#"
+    },
+    {
+      "word": "#习近平致信祝贺国防科技大学建校70周年#"
     }
   ]
 }

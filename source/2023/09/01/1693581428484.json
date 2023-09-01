@@ -1,0 +1,410 @@
+{
+  "runTime": 1693581428484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1721936,
+        "num": 1721936,
+        "word": "深圳台风",
+        "onboard_time": 1693572879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512051,
+        "num": 1512051,
+        "word": "一路朝阳 烂尾",
+        "onboard_time": 1693574921,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26770,
+        "num": 1502037,
+        "word": "开学第一课",
+        "onboard_time": 1693494037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501305,
+        "num": 1501305,
+        "word": "徐良 淘汰",
+        "onboard_time": 1693570720,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1208049,
+        "num": 1208049,
+        "word": "骄阳伴我收视率",
+        "onboard_time": 1693575636,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 843388,
+        "num": 843388,
+        "word": "火树 我给指条明路",
+        "onboard_time": 1693578341,
+        "rank": 5,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 806272,
+        "num": 806272,
+        "word": "利息少了41万购房者激动得一夜没睡",
+        "onboard_time": 1693563159,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 780612,
+        "num": 780612,
+        "word": "奥本海默高潮",
+        "onboard_time": 1693579962,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532586,
+        "num": 532586,
+        "word": "天狼星 天为首",
+        "onboard_time": 1693578221,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 499491,
+        "num": 499491,
+        "word": "3000多岁国宝曾差点被当废品卖掉",
+        "onboard_time": 1693579664,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1603880,
+        "num": 497132,
+        "word": "母亲不堪家暴找人冒充走失儿子30年",
+        "onboard_time": 1693572699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634391,
+        "num": 494114,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 608571,
+        "num": 491694,
+        "word": "大张伟又cue易烊千玺了",
+        "onboard_time": 1693577741,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550893,
+        "num": 489586,
+        "word": "骄阳伴我片尾",
+        "onboard_time": 1693578581,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306529,
+        "num": 484871,
+        "word": "苏拉的危险半圆将横扫香港和深圳",
+        "onboard_time": 1693569276,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512327,
+        "num": 481833,
+        "word": "基本每年一部爆剧的演员",
+        "onboard_time": 1693560280,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480563,
+        "num": 480563,
+        "word": "台风路径",
+        "onboard_time": 1693570958,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473434,
+        "num": 473434,
+        "word": "开端第二部",
+        "onboard_time": 1693560341,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438870,
+        "num": 438870,
+        "word": "黄子弘凡歌词",
+        "onboard_time": 1693572999,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400604,
+        "num": 400604,
+        "word": "死刑犯最后一餐吃什么",
+        "onboard_time": 1693558359,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1264142,
+        "num": 399696,
+        "word": "11个月男婴全身淤青布满针眼惨死",
+        "onboard_time": 1693577562,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755466,
+        "num": 395325,
+        "word": "谁家女主第一集就办离婚",
+        "onboard_time": 1693575460,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663335,
+        "num": 391641,
+        "word": "江浙沪包邮区包不住了",
+        "onboard_time": 1693579180,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544837,
+        "num": 385886,
+        "word": "原来刘星才是第一个用蚂蚁花被的人",
+        "onboard_time": 1693578941,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138824,
+        "num": 384173,
+        "word": "认房不认贷",
+        "onboard_time": 1693573060,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381367,
+        "num": 381367,
+        "word": "情绪稳定的根本原因",
+        "onboard_time": 1693569337,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 381070,
+        "num": 381070,
+        "word": "小舟从此逝 江海寄余生",
+        "onboard_time": 1693573180,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371082,
+        "num": 371082,
+        "word": "HYBE新女团出道名单",
+        "onboard_time": 1693579841,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363799,
+        "num": 363799,
+        "word": "航空公司向李惠利道歉",
+        "onboard_time": 1693568798,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333694,
+        "num": 333694,
+        "word": "九尾直播",
+        "onboard_time": 1693580564,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351995,
+        "num": 322586,
+        "word": "贝儿是吞了只百灵鸟吗",
+        "onboard_time": 1693579304,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347757,
+        "num": 319587,
+        "word": "黄宗泽哭了",
+        "onboard_time": 1693581039,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334697,
+        "num": 313161,
+        "word": "林俊杰第一条微博就是胡彦斌",
+        "onboard_time": 1693580983,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302739,
+        "num": 302739,
+        "word": "萌娃入园3天学做饭根本没时间哭",
+        "onboard_time": 1693577080,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301293,
+        "num": 301293,
+        "word": "日本出现大量巨型蛾子布满街道",
+        "onboard_time": 1693549055,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328669,
+        "num": 300222,
+        "word": "张栋梁你还说你不会跳舞",
+        "onboard_time": 1693574618,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54044,
+        "num": 295647,
+        "word": "杭州亚运会游泳馆黑科技大揭秘",
+        "onboard_time": 1693571681,
+        "rank": 36,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 293837,
+        "num": 293837,
+        "word": "司机集体闯红灯却被交警点赞",
+        "onboard_time": 1693576839,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265148,
+        "num": 265148,
+        "word": "奥本海默",
+        "onboard_time": 1693579784,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261887,
+        "num": 261887,
+        "word": "白敬亭虽迟但到的甜妹舞",
+        "onboard_time": 1693571378,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249711,
+        "num": 249711,
+        "word": "苏拉或成1949年以来登陆珠三角最强台风",
+        "onboard_time": 1693569219,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244891,
+        "num": 244891,
+        "word": "微信文件可撤回三小时内消息",
+        "onboard_time": 1693559379,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241496,
+        "num": 241496,
+        "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+        "onboard_time": 1693548635,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232837,
+        "num": 232837,
+        "word": "广州TTG重回总决赛",
+        "onboard_time": 1693577562,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226763,
+        "num": 226763,
+        "word": "BLACKPINK QQ音乐",
+        "onboard_time": 1693567295,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226330,
+        "num": 226330,
+        "word": "庆余年2首支预告",
+        "onboard_time": 1693557637,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223258,
+        "num": 223258,
+        "word": "尤长靖是你想成为的大人吗",
+        "onboard_time": 1693581344,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216544,
+        "num": 216544,
+        "word": "关智斌怎么保养的",
+        "onboard_time": 1693575759,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206311,
+        "num": 206311,
+        "word": "香港台风",
+        "onboard_time": 1693572637,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193094,
+        "num": 206141,
+        "word": "极氪王 特斯拉",
+        "onboard_time": 1693580439,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺国防科技大学建校70周年#"
+    }
+  }
+}
