@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693585290241,
+  "endTime": 1693586272189,
   "band_list": [
     {
       "raw_hot": 1567359,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 897309,
-      "num": 413203,
+      "raw_hot": 1016701,
+      "num": 1016701,
       "word": "空姐丸子头",
       "onboard_time": 1693581879,
       "rank": 10,
@@ -212,27 +212,27 @@
     },
     {
       "raw_hot": 288861,
-      "num": 241443,
+      "num": 250721,
       "word": "大张伟一边蹦一边哭",
       "onboard_time": 1693581702,
       "rank": 30,
       "category": "综艺"
     },
     {
-      "raw_hot": 267377,
-      "num": 267377,
-      "word": "凤冠霞帔怎么可能被抢风头",
-      "onboard_time": 1693582898,
-      "rank": 28,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 251477,
-      "num": 238993,
+      "raw_hot": 285497,
+      "num": 280095,
       "word": "谁家女主第一集就办离婚",
       "onboard_time": 1693575460,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284628,
+      "num": 284628,
+      "word": "凤冠霞帔怎么可能被抢风头",
+      "onboard_time": 1693582898,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 243473,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 239282,
-      "num": 173835,
+      "num": 204475,
       "word": "黄子弘凡歌词",
       "onboard_time": 1693572999,
       "rank": 40,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168092,
+      "num": 143573,
+      "word": "HAERIN活动新闻图",
+      "onboard_time": 1693585773,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 158249,
       "num": 158249,
       "word": "白羊座心软的神",
@@ -379,6 +387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142032,
+      "num": 142032,
+      "word": "贝儿是吞了只百灵鸟吗",
+      "onboard_time": 1693579304,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140919,
       "num": 140919,
       "word": "奥本海默 脸盲",
@@ -387,12 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131591,
+      "raw_hot": 137451,
       "num": 140613,
       "word": "龟苓膏蛋挞",
       "onboard_time": 1693585112,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125434,
+      "num": 125434,
+      "word": "警方辟谣曾志伟被带走调查",
+      "onboard_time": 1693568977,
+      "rank": 47,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 41410,
