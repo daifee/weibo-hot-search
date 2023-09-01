@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693530893773,
+  "endTime": 1693532140874,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -129,6 +129,14 @@
       "onboard_time": 1693467460,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 3482573,
+      "num": 3482573,
+      "word": "各大卫视删除宋祖儿相关微博",
+      "onboard_time": 1693531355,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3371998,
@@ -443,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2101246,
+      "num": 2101246,
+      "word": "七险三金多了哪两险哪两金",
+      "onboard_time": 1693526795,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2097044,
       "num": 2097044,
       "word": "中国男篮三连败",
@@ -465,14 +481,6 @@
       "onboard_time": 1693283919,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2054125,
-      "num": 2054125,
-      "word": "七险三金多了哪两险哪两金",
-      "onboard_time": 1693526795,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2043721,
@@ -915,8 +923,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1341233,
-      "num": 1341233,
+      "raw_hot": 1359114,
+      "num": 1359114,
       "word": "特斯拉Model3",
       "onboard_time": 1693527874,
       "rank": 1,
@@ -3123,6 +3131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 523585,
+      "num": 413902,
+      "word": "莲花楼番外 找到你了",
+      "onboard_time": 1693531113,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 522162,
       "num": 325351,
       "word": "虞书欣下车动作",
@@ -4267,6 +4283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399126,
+      "num": 399126,
+      "word": "深圳天气",
+      "onboard_time": 1693529975,
+      "rank": 30,
+      "category": "自然"
+    },
+    {
       "raw_hot": 397659,
       "num": 397659,
       "word": "旅俄大熊猫丁丁生宝宝啦",
@@ -4940,7 +4964,7 @@
     },
     {
       "raw_hot": 355846,
-      "num": 308927,
+      "num": 337839,
       "word": "和不舒服的人在一起会生病",
       "onboard_time": 1693527698,
       "rank": 21,
@@ -5048,6 +5072,14 @@
       "word": "一周不洗脸什么体验",
       "onboard_time": 1693290153,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 347854,
+      "num": 337672,
+      "word": "减肥为什么先养肝",
+      "onboard_time": 1693530033,
+      "rank": 22,
       "category": "幽默"
     },
     {
@@ -5355,14 +5387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330333,
-      "num": 303449,
-      "word": "减肥为什么先养肝",
-      "onboard_time": 1693530033,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 329605,
       "num": 302015,
       "word": "Chuu在葡萄牙被偶遇",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1693495898,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 327840,
+      "num": 327840,
+      "word": "一路朝阳oe",
+      "onboard_time": 1693529915,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 327493,
@@ -6147,14 +6179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293142,
-      "num": 293142,
-      "word": "一路朝阳oe",
-      "onboard_time": 1693529915,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293127,
       "num": 293127,
       "word": "港姐陈怡回应现场黑脸",
@@ -6187,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292547,
+      "num": 292547,
+      "word": "深圳地铁",
+      "onboard_time": 1693531232,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291707,
       "num": 291707,
       "word": "魏大勋报了被白敬亭关门外的仇",
@@ -6217,6 +6249,14 @@
       "onboard_time": 1693381540,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 289613,
+      "num": 289613,
+      "word": "星空",
+      "onboard_time": 1693529736,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 289601,
@@ -6593,14 +6633,6 @@
       "onboard_time": 1693308518,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 276754,
-      "num": 276754,
-      "word": "星空",
-      "onboard_time": 1693529736,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 276542,
@@ -6995,14 +7027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259977,
-      "num": 259977,
-      "word": "深圳天气",
-      "onboard_time": 1693529975,
-      "rank": 30,
-      "category": "自然"
-    },
-    {
       "raw_hot": 259452,
       "num": 259452,
       "word": "莲花楼断少师是埋葬",
@@ -7241,6 +7265,14 @@
       "onboard_time": 1693271976,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249975,
+      "num": 243693,
+      "word": "奥本海默没拍的历史真相",
+      "onboard_time": 1693530573,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249457,
@@ -7635,6 +7667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236228,
+      "num": 236228,
+      "word": "女子剖宫产手术纱布遗漏体内14年",
+      "onboard_time": 1693531834,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235891,
       "num": 235891,
       "word": "88rising全球音乐艺术节开票",
@@ -7729,6 +7769,14 @@
       "onboard_time": 1693483178,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233524,
+      "num": 233524,
+      "word": "山东开海在即14000艘渔船蓄势待发",
+      "onboard_time": 1693531654,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233494,
@@ -8107,6 +8155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218175,
+      "num": 218175,
+      "word": "陈卓璇这个牛仔裙有点东西",
+      "onboard_time": 1693532016,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218090,
       "num": 218090,
       "word": "国际篮联晒出灌篮高手世纪击掌",
@@ -8299,6 +8355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210594,
+      "num": 210594,
+      "word": "曾黎到底有多少好看的耳饰",
+      "onboard_time": 1693531895,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210344,
       "num": 210344,
       "word": "9岁摄影师问吉克隽逸美甲扎不扎",
@@ -8352,14 +8416,6 @@
       "word": "于适新疆味尊嘟假嘟",
       "onboard_time": 1693381836,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209116,
-      "num": 209116,
-      "word": "奥本海默没拍的历史真相",
-      "onboard_time": 1693530573,
-      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -9731,6 +9787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176553,
+      "num": 176553,
+      "word": "诺兰的拍摄手法有多绝",
+      "onboard_time": 1693531534,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176139,
       "num": 176139,
       "word": "在新疆看见了大话西游里的七彩祥云",
@@ -9993,6 +10057,22 @@
       "onboard_time": 1693210777,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164464,
+      "num": 164464,
+      "word": "王珞丹的马甲线",
+      "onboard_time": 1693532133,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 163940,
+      "num": 163940,
+      "word": "平平无奇的30秒但真的太甜了",
+      "onboard_time": 1693531232,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 162162,
@@ -11348,7 +11428,7 @@
     },
     {
       "raw_hot": 33577,
-      "num": 1022479,
+      "num": 1510498,
       "word": "砺志逐梦正当时",
       "onboard_time": 1693493739,
       "rank": 2,

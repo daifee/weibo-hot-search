@@ -1,0 +1,410 @@
+{
+  "runTime": 1693532140874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3482573,
+        "num": 3482573,
+        "word": "各大卫视删除宋祖儿相关微博",
+        "onboard_time": 1693531355,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2101246,
+        "num": 2101246,
+        "word": "七险三金多了哪两险哪两金",
+        "onboard_time": 1693526795,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28814,
+        "num": 1510498,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359114,
+        "num": 1359114,
+        "word": "特斯拉Model3",
+        "onboard_time": 1693527874,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852574,
+        "num": 852574,
+        "word": "网友许愿的综艺拍出来了",
+        "onboard_time": 1693527996,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723273,
+        "num": 723273,
+        "word": "新疆三文鱼喜获丰收",
+        "onboard_time": 1693527214,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 601298,
+        "num": 601298,
+        "word": "迎击台风苏拉",
+        "onboard_time": 1693523784,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569014,
+        "num": 569014,
+        "word": "民警1小时找回被盗金手镯女子笑到起飞",
+        "onboard_time": 1693527819,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447618,
+        "num": 447618,
+        "word": "李东海李赫宰成立新公司",
+        "onboard_time": 1693527756,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435529,
+        "num": 435529,
+        "word": "这不是何群成晓诗婚后生活吗",
+        "onboard_time": 1693525591,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1485813,
+        "num": 423011,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523585,
+        "num": 413902,
+        "word": "莲花楼番外 找到你了",
+        "onboard_time": 1693531113,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399126,
+        "num": 399126,
+        "word": "深圳天气",
+        "onboard_time": 1693529975,
+        "rank": 12,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 398117,
+        "num": 398117,
+        "word": "缅北电诈头目姐夫等225人被抓",
+        "onboard_time": 1693504759,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321014,
+        "num": 396236,
+        "word": "大学生请假捐造血干细胞救助患者",
+        "onboard_time": 1693528418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395817,
+        "num": 395817,
+        "word": "JYP大楼天花板破了漏水中",
+        "onboard_time": 1693528596,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395171,
+        "num": 395171,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381677,
+        "num": 381677,
+        "word": "女大学生被对面卧铺大叔多角度偷拍",
+        "onboard_time": 1693508894,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344550,
+        "num": 344550,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 338223,
+        "num": 338223,
+        "word": "100万存量房贷每年可省5000多元利息",
+        "onboard_time": 1693525591,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 348342,
+        "num": 337839,
+        "word": "和不舒服的人在一起会生病",
+        "onboard_time": 1693527698,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347854,
+        "num": 337672,
+        "word": "减肥为什么先养肝",
+        "onboard_time": 1693530033,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336965,
+        "num": 336965,
+        "word": "邓为玉兰花下的清冷氛围感",
+        "onboard_time": 1693528837,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327840,
+        "num": 327840,
+        "word": "一路朝阳oe",
+        "onboard_time": 1693529915,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304234,
+        "num": 304234,
+        "word": "你能吃苦就会有吃不完的苦",
+        "onboard_time": 1693525950,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292547,
+        "num": 292547,
+        "word": "深圳地铁",
+        "onboard_time": 1693531232,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289613,
+        "num": 289613,
+        "word": "星空",
+        "onboard_time": 1693529736,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286669,
+        "num": 286669,
+        "word": "声生不息港乐季2拟邀阵容",
+        "onboard_time": 1693524510,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249085,
+        "num": 249085,
+        "word": "对黄奕永远李玉湖滤镜",
+        "onboard_time": 1693525472,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244477,
+        "num": 244477,
+        "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+        "onboard_time": 1693493259,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 249975,
+        "num": 243693,
+        "word": "奥本海默没拍的历史真相",
+        "onboard_time": 1693530573,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236228,
+        "num": 236228,
+        "word": "女子剖宫产手术纱布遗漏体内14年",
+        "onboard_time": 1693531834,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233524,
+        "num": 233524,
+        "word": "山东开海在即14000艘渔船蓄势待发",
+        "onboard_time": 1693531654,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222149,
+        "num": 222149,
+        "word": "九月",
+        "onboard_time": 1693529257,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218175,
+        "num": 218175,
+        "word": "陈卓璇这个牛仔裙有点东西",
+        "onboard_time": 1693532016,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213577,
+        "num": 213577,
+        "word": "iPhone15系列爆料",
+        "onboard_time": 1693491639,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210594,
+        "num": 210594,
+        "word": "曾黎到底有多少好看的耳饰",
+        "onboard_time": 1693531895,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210562,
+        "num": 210562,
+        "word": "赵露思把自己穿身上",
+        "onboard_time": 1693494103,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187545,
+        "num": 187545,
+        "word": "被医院判死刑的孩子",
+        "onboard_time": 1693491760,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 187240,
+        "num": 187240,
+        "word": "上错花轿嫁对郎再火的唯一受害者",
+        "onboard_time": 1693479996,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185421,
+        "num": 185421,
+        "word": "台风红色预警继续发布",
+        "onboard_time": 1693526613,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181425,
+        "num": 181425,
+        "word": "国防部回应何时解决台湾问题",
+        "onboard_time": 1693496199,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180358,
+        "num": 180358,
+        "word": "何洁瘦了近70斤",
+        "onboard_time": 1693478082,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177866,
+        "num": 177866,
+        "word": "男子离婚两月后发现2岁儿子非亲生",
+        "onboard_time": 1693491698,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176553,
+        "num": 176553,
+        "word": "演员就该于适这样啊",
+        "onboard_time": 1693523125,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176553,
+        "num": 176553,
+        "word": "诺兰的拍摄手法有多绝",
+        "onboard_time": 1693531534,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168350,
+        "num": 168350,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168244,
+        "num": 168244,
+        "word": "男朋友以为是造型拍了下来",
+        "onboard_time": 1693490680,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164464,
+        "num": 164464,
+        "word": "王珞丹的马甲线",
+        "onboard_time": 1693532133,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163940,
+        "num": 163940,
+        "word": "平平无奇的30秒但真的太甜了",
+        "onboard_time": 1693531232,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}

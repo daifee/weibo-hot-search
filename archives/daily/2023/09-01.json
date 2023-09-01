@@ -1,7 +1,15 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693530893773,
+  "endTime": 1693532140874,
   "band_list": [
+    {
+      "raw_hot": 3482573,
+      "num": 3482573,
+      "word": "各大卫视删除宋祖儿相关微博",
+      "onboard_time": 1693531355,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2643469,
       "num": 524876,
@@ -11,16 +19,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2054125,
-      "num": 2054125,
+      "raw_hot": 2101246,
+      "num": 2101246,
       "word": "七险三金多了哪两险哪两金",
       "onboard_time": 1693526795,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1341233,
-      "num": 1341233,
+      "raw_hot": 1359114,
+      "num": 1359114,
       "word": "特斯拉Model3",
       "onboard_time": 1693527874,
       "rank": 1,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 907735,
-      "num": 394883,
+      "num": 395171,
       "word": "宋祖儿",
       "onboard_time": 1693445614,
       "rank": 11,
@@ -195,6 +203,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 523585,
+      "num": 413902,
+      "word": "莲花楼番外 找到你了",
+      "onboard_time": 1693531113,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511295,
       "num": 511295,
       "word": "JYP大楼天花板破了漏水中",
@@ -275,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 399126,
+      "num": 399126,
+      "word": "深圳天气",
+      "onboard_time": 1693529975,
+      "rank": 30,
+      "category": "自然"
+    },
+    {
       "raw_hot": 378206,
       "num": 378206,
       "word": "陕西一医院规定男55岁女44岁不续聘",
@@ -292,15 +316,15 @@
     },
     {
       "raw_hot": 355846,
-      "num": 308927,
+      "num": 337839,
       "word": "和不舒服的人在一起会生病",
       "onboard_time": 1693527698,
       "rank": 21,
       "category": "情感"
     },
     {
-      "raw_hot": 330333,
-      "num": 303449,
+      "raw_hot": 347854,
+      "num": 337672,
       "word": "减肥为什么先养肝",
       "onboard_time": 1693530033,
       "rank": 22,
@@ -323,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 327840,
+      "num": 327840,
+      "word": "一路朝阳oe",
+      "onboard_time": 1693529915,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321366,
       "num": 250883,
       "word": "欧冠死亡之组",
@@ -339,12 +371,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 293142,
-      "num": 293142,
-      "word": "一路朝阳oe",
-      "onboard_time": 1693529915,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 292547,
+      "num": 292547,
+      "word": "深圳地铁",
+      "onboard_time": 1693531232,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289613,
+      "num": 289613,
+      "word": "星空",
+      "onboard_time": 1693529736,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 288802,
@@ -371,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 276754,
-      "num": 276754,
-      "word": "星空",
-      "onboard_time": 1693529736,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 272215,
       "num": 254796,
       "word": "男朋友以为是造型拍了下来",
@@ -393,14 +425,6 @@
       "onboard_time": 1693488216,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259977,
-      "num": 259977,
-      "word": "深圳天气",
-      "onboard_time": 1693529975,
-      "rank": 30,
-      "category": "自然"
     },
     {
       "raw_hot": 259557,
@@ -419,6 +443,14 @@
       "category": "美妆,影视"
     },
     {
+      "raw_hot": 249975,
+      "num": 243693,
+      "word": "奥本海默没拍的历史真相",
+      "onboard_time": 1693530573,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249457,
       "num": 249457,
       "word": "蔡文静韩东君浴室吻",
@@ -432,6 +464,22 @@
       "word": "台风红色预警继续发布",
       "onboard_time": 1693526613,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236228,
+      "num": 236228,
+      "word": "女子剖宫产手术纱布遗漏体内14年",
+      "onboard_time": 1693531834,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233524,
+      "num": 233524,
+      "word": "山东开海在即14000艘渔船蓄势待发",
+      "onboard_time": 1693531654,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -467,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218175,
+      "num": 218175,
+      "word": "陈卓璇这个牛仔裙有点东西",
+      "onboard_time": 1693532016,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 214689,
       "num": 214689,
       "word": "魏哲鸣披荆斩棘repo只有一个字",
@@ -483,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210594,
+      "num": 210594,
+      "word": "曾黎到底有多少好看的耳饰",
+      "onboard_time": 1693531895,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209498,
       "num": 209498,
       "word": "开学",
       "onboard_time": 1693524208,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 209116,
-      "num": 209116,
-      "word": "奥本海默没拍的历史真相",
-      "onboard_time": 1693530573,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208365,
@@ -571,12 +627,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 176553,
+      "num": 176553,
+      "word": "诺兰的拍摄手法有多绝",
+      "onboard_time": 1693531534,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174890,
       "num": 174890,
       "word": "田曦薇敖瑞鹏的身高差",
       "onboard_time": 1693518616,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164464,
+      "num": 164464,
+      "word": "王珞丹的马甲线",
+      "onboard_time": 1693532133,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 163940,
+      "num": 163940,
+      "word": "平平无奇的30秒但真的太甜了",
+      "onboard_time": 1693531232,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 163403,
@@ -868,7 +948,7 @@
     },
     {
       "raw_hot": 33577,
-      "num": 1022479,
+      "num": 1510498,
       "word": "砺志逐梦正当时",
       "onboard_time": 1693493739,
       "rank": 2,
