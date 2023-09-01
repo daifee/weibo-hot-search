@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693557229823,
+  "endTime": 1693559804675,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2616328,
+      "num": 1177853,
+      "word": "死刑犯最后一餐吃什么",
+      "onboard_time": 1693558359,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2609904,
       "num": 2609904,
       "word": "留学女儿要300多万美元买房妈妈报警",
@@ -529,6 +537,14 @@
       "onboard_time": 1693453907,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1994585,
+      "num": 1994585,
+      "word": "庆余年2首支预告",
+      "onboard_time": 1693557637,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1985108,
@@ -912,6 +928,14 @@
       "word": "台风苏拉路径又变了",
       "onboard_time": 1693540777,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1489932,
+      "num": 645942,
+      "word": "日本是加害者不该鸣冤叫屈",
+      "onboard_time": 1693559743,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1675,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 893565,
+      "num": 893565,
+      "word": "泰国对中国游客免签",
+      "onboard_time": 1693556380,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 892062,
       "num": 892062,
       "word": "中国男篮vs南苏丹男篮",
@@ -1809,6 +1841,22 @@
       "onboard_time": 1693409619,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 851727,
+      "num": 851727,
+      "word": "撒贝宁预言成功",
+      "onboard_time": 1693558359,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 849244,
+      "num": 336473,
+      "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+      "onboard_time": 1693556975,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 846018,
@@ -2331,6 +2379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 705527,
+      "num": 320150,
+      "word": "白百何把肖战的痣看成了芝麻",
+      "onboard_time": 1693557038,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 704670,
       "num": 704670,
       "word": "真正喜欢猫咪的人开的店",
@@ -2417,6 +2473,14 @@
       "onboard_time": 1693362936,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 687501,
+      "num": 687501,
+      "word": "承欢记真抠",
+      "onboard_time": 1693558302,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 684755,
@@ -3129,14 +3193,6 @@
       "onboard_time": 1693272038,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 569677,
-      "num": 569677,
-      "word": "泰国对中国游客免签",
-      "onboard_time": 1693556380,
-      "rank": 48,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 568107,
@@ -4099,6 +4155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 455588,
+      "num": 455588,
+      "word": "李昀锐赵露思三搭",
+      "onboard_time": 1693557517,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454933,
       "num": 454933,
       "word": "李一桐邓为公主抱路透",
@@ -4209,6 +4273,14 @@
       "onboard_time": 1693285301,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 447232,
+      "num": 447232,
+      "word": "胡彦斌 你把自己想象成林俊杰",
+      "onboard_time": 1693558781,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 446873,
@@ -4553,6 +4625,14 @@
       "onboard_time": 1693278576,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419235,
+      "num": 419235,
+      "word": "仙剑六祈今朝缘起轮回海报",
+      "onboard_time": 1693557637,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 418462,
@@ -5603,6 +5683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354044,
+      "num": 354044,
+      "word": "毛不易 抢票",
+      "onboard_time": 1693557100,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353662,
       "num": 353662,
       "word": "给过敏性鼻炎患者的建议",
@@ -5937,14 +6025,6 @@
       "onboard_time": 1693382678,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 335149,
-      "num": 249895,
-      "word": "女子蒸大闸蟹核辐射检测仪警报不断",
-      "onboard_time": 1693556975,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 335016,
@@ -6560,6 +6640,14 @@
       "word": "东方风云榜红毯",
       "onboard_time": 1693210656,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305845,
+      "num": 305845,
+      "word": "一往无前的蓝官宣第二季",
+      "onboard_time": 1693559260,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -7185,6 +7273,14 @@
       "onboard_time": 1693196680,
       "rank": 28,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 283162,
+      "num": 283162,
+      "word": "微信文件可撤回三小时内消息",
+      "onboard_time": 1693559379,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282932,
@@ -8123,6 +8219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 248286,
+      "num": 248286,
+      "word": "敖子逸看蒋依依的眼神不算清白",
+      "onboard_time": 1693559080,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "直径6厘米小球能量竟比1吨煤多",
@@ -8931,20 +9035,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221340,
+      "num": 221340,
+      "word": "没想到粉饼盒还能这么用",
+      "onboard_time": 1693558060,
+      "rank": 31,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 221266,
       "num": 221266,
       "word": "奇兵付豪",
       "onboard_time": 1693407162,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221177,
-      "num": 221177,
-      "word": "毛不易 抢票",
-      "onboard_time": 1693557100,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 220960,
@@ -9025,6 +9129,14 @@
       "onboard_time": 1693229256,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218595,
+      "num": 218595,
+      "word": "幼儿园开家长会设置自我介绍环节",
+      "onboard_time": 1693558656,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 218574,
@@ -9315,6 +9427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208638,
+      "num": 208638,
+      "word": "鹅综2024综艺片单",
+      "onboard_time": 1693556918,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208394,
       "num": 208394,
       "word": "蒋依依敖子逸好嗑",
@@ -9427,14 +9547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206468,
-      "num": 206468,
-      "word": "鹅综2024综艺片单",
-      "onboard_time": 1693556918,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206333,
       "num": 206333,
       "word": "重庆永川里",
@@ -9497,14 +9609,6 @@
       "onboard_time": 1693207176,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205298,
-      "num": 205298,
-      "word": "白百何把肖战的痣看成了芝麻",
-      "onboard_time": 1693557038,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 205254,
@@ -9633,6 +9737,14 @@
       "onboard_time": 1693289436,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202989,
+      "num": 202989,
+      "word": "卷王姬发 陪练邓姐 监工妲己",
+      "onboard_time": 1693559439,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 202854,
@@ -9995,6 +10107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198162,
+      "num": 198162,
+      "word": "泉州草莓音乐节",
+      "onboard_time": 1693559619,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198084,
       "num": 180867,
       "word": "陈伟霆真的是人间清醒",
@@ -10129,6 +10249,14 @@
       "onboard_time": 1693303301,
       "rank": 46,
       "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 195818,
+      "num": 195818,
+      "word": "台风远没有公司这么离谱",
+      "onboard_time": 1693559439,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195771,
@@ -10737,6 +10865,14 @@
       "onboard_time": 1693292014,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180247,
+      "num": 183387,
+      "word": "给北方朋友一点南方烧烤的震撼",
+      "onboard_time": 1693559080,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 179894,
@@ -12243,6 +12379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68366,
+      "num": 1186111,
+      "word": "杭州亚运会颁奖花束首次加入花器",
+      "onboard_time": 1693543903,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66400,
       "num": 414461,
       "word": "体育学院大一新生以武会友",
@@ -12459,6 +12603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40761,
+      "num": 208349,
+      "word": "孩子发烧是开学综合症吗",
+      "onboard_time": 1693558839,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40302,
       "num": 40302,
       "word": "好歹毒的一道菜",
@@ -12505,6 +12657,14 @@
       "onboard_time": 1693511053,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35597,
+      "num": 448441,
+      "word": "民警神预判封路1分钟后山体滑坡",
+      "onboard_time": 1693558839,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34911,
