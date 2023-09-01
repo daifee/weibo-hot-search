@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693550099938,
+  "endTime": 1693552545001,
   "band_list": [
     {
       "raw_hot": 5262598,
@@ -9,6 +9,14 @@
       "onboard_time": 1693531355,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3986050,
+      "num": 3986050,
+      "word": "日本出现大量巨型蛾子布满街道",
+      "onboard_time": 1693549055,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2650055,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504183,
+      "num": 1504183,
+      "word": "台风苏拉路径又变了",
+      "onboard_time": 1693540777,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429671,
       "num": 1429671,
       "word": "折腰",
@@ -67,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1394581,
-      "num": 1394581,
-      "word": "日本出现大量巨型蛾子布满街道",
-      "onboard_time": 1693549055,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1359114,
       "num": 1359114,
       "word": "特斯拉Model3",
@@ -83,11 +91,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1234026,
-      "num": 1234026,
-      "word": "台风苏拉路径又变了",
-      "onboard_time": 1693540777,
-      "rank": 22,
+      "raw_hot": 1240350,
+      "num": 361264,
+      "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+      "onboard_time": 1693548635,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -115,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1065291,
-      "num": 328179,
-      "word": "韩男子性侵女儿10年被妻子刺伤双眼",
-      "onboard_time": 1693548635,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 1086974,
+      "num": 1086974,
+      "word": "王耀庆 演员是没资格生病的",
+      "onboard_time": 1693549055,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1055874,
@@ -211,6 +219,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 875555,
+      "num": 448251,
+      "word": "王俊凯石家庄",
+      "onboard_time": 1693550139,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 871604,
       "num": 854852,
       "word": "男生上门订婚准备了24束花",
@@ -289,14 +305,6 @@
       "onboard_time": 1693545341,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 712309,
-      "num": 712309,
-      "word": "王耀庆 演员是没资格生病的",
-      "onboard_time": 1693549055,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 702569,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 606195,
-      "num": 468547,
+      "num": 595710,
       "word": "刘亦菲提名金熊猫奖最佳女主角",
       "onboard_time": 1693548877,
       "rank": 17,
@@ -555,6 +563,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 472901,
+      "num": 358063,
+      "word": "李昀锐一天官宣三部剧",
+      "onboard_time": 1693551279,
+      "rank": 21,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 468412,
       "num": 468412,
       "word": "中国驻日使馆披露被骚扰细节",
@@ -577,6 +593,14 @@
       "onboard_time": 1693543544,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457354,
+      "num": 457354,
+      "word": "深圳地铁全线停运",
+      "onboard_time": 1693549475,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452709,
@@ -617,6 +641,14 @@
       "onboard_time": 1693488761,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 431278,
+      "num": 431278,
+      "word": "朱一龙再次提名金鹿奖最佳男演员",
+      "onboard_time": 1693551099,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 429367,
@@ -683,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413624,
+      "num": 352980,
+      "word": "陆毅说贝儿可能会成为歌手",
+      "onboard_time": 1693551637,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412692,
       "num": 466288,
       "word": "丫丫吃笋像在耍金箍棒",
       "onboard_time": 1693543903,
       "rank": 26,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 410302,
+      "num": 347713,
+      "word": "15岁男孩失联7天遗体在河道被发现",
+      "onboard_time": 1693550377,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407372,
@@ -739,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378787,
+      "num": 345991,
+      "word": "男子点外卖备注放我出来骑手报警",
+      "onboard_time": 1693550258,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378674,
       "num": 378674,
       "word": "迪丽热巴生活合影的tips",
@@ -761,6 +817,14 @@
       "onboard_time": 1693534055,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372304,
+      "num": 338645,
+      "word": "张新成王玉雯新剧舍不得星星",
+      "onboard_time": 1693552057,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 371878,
@@ -835,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338104,
+      "num": 338104,
+      "word": "骄阳伴我连更17天",
+      "onboard_time": 1693550676,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328681,
       "num": 328681,
       "word": "九月",
@@ -865,14 +937,6 @@
       "onboard_time": 1693523426,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312974,
-      "num": 312974,
-      "word": "深圳地铁全线停运",
-      "onboard_time": 1693549475,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309415,
@@ -913,6 +977,14 @@
       "onboard_time": 1693529736,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289179,
+      "num": 232544,
+      "word": "同人女吃饭be like",
+      "onboard_time": 1693550435,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 288802,
@@ -1075,6 +1147,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 239166,
+      "num": 230996,
+      "word": "没时间后悔全员西装杀",
+      "onboard_time": 1693547615,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238093,
+      "num": 233422,
+      "word": "张栋梁叫鬼脚梁的原因",
+      "onboard_time": 1693548877,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236430,
       "num": 551631,
       "word": "依法打击邪教观音法门",
@@ -1089,14 +1177,6 @@
       "onboard_time": 1693531654,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233422,
-      "num": 233422,
-      "word": "张栋梁叫鬼脚梁的原因",
-      "onboard_time": 1693548877,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 232170,
@@ -1121,14 +1201,6 @@
       "onboard_time": 1693532556,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228069,
-      "num": 228069,
-      "word": "没时间后悔全员西装杀",
-      "onboard_time": 1693547615,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 226413,
@@ -1235,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205500,
+      "num": 205500,
+      "word": "电竞选手跳whatever",
+      "onboard_time": 1693552359,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205145,
       "num": 205145,
       "word": "周冬雨新片玩复仇高端局",
@@ -1260,7 +1340,7 @@
     },
     {
       "raw_hot": 200215,
-      "num": 1292350,
+      "num": 1404634,
       "word": "开学第一天",
       "onboard_time": 1693544146,
       "rank": 2,
@@ -1275,12 +1355,28 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "敖子逸蒋依依扫楼生图",
+      "onboard_time": 1693552359,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199052,
       "num": 199052,
       "word": "尼龙九月刊文俊辉封面",
       "onboard_time": 1693541679,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196194,
+      "num": 196194,
+      "word": "开学季是e人社交局",
+      "onboard_time": 1693551517,
+      "rank": 43,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 195012,
@@ -1297,6 +1393,14 @@
       "onboard_time": 1693527032,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193663,
+      "num": 193663,
+      "word": "许光汉帅的很稳定",
+      "onboard_time": 1693552417,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 192486,
@@ -1371,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183333,
+      "num": 183333,
+      "word": "封神",
+      "onboard_time": 1693552417,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182790,
       "num": 182790,
       "word": "遥遥领先",
@@ -1401,6 +1513,14 @@
       "onboard_time": 1693518616,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165629,
+      "num": 165629,
+      "word": "代号鸢兔基",
+      "onboard_time": 1693551760,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 164243,
@@ -1828,6 +1948,9 @@
     },
     {
       "word": "#开学第一课#"
+    },
+    {
+      "word": "#强军需要一批又一批有志青年接续奋斗#"
     }
   ]
 }
