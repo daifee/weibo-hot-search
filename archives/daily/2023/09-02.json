@@ -1,7 +1,15 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693586272189,
+  "endTime": 1693588500451,
   "band_list": [
+    {
+      "raw_hot": 1763905,
+      "num": 1763905,
+      "word": "南宁震感",
+      "onboard_time": 1693588047,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1567359,
       "num": 1567359,
@@ -171,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338871,
+      "num": 338871,
+      "word": "凤冠霞帔怎么可能被抢风头",
+      "onboard_time": 1693582898,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 315539,
       "num": 315539,
       "word": "八仙饭店 改编",
@@ -185,6 +201,14 @@
       "onboard_time": 1693558359,
       "rank": 19,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 311868,
+      "num": 280095,
+      "word": "谁家女主第一集就办离婚",
+      "onboard_time": 1693575460,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 311462,
@@ -203,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296217,
+      "num": 296217,
+      "word": "台风吹倒大树砸中汽车造成一死两伤",
+      "onboard_time": 1693587028,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290403,
       "num": 290403,
       "word": "情绪稳定的根本原因",
@@ -217,22 +249,6 @@
       "onboard_time": 1693581702,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285497,
-      "num": 280095,
-      "word": "谁家女主第一集就办离婚",
-      "onboard_time": 1693575460,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 284628,
-      "num": 284628,
-      "word": "凤冠霞帔怎么可能被抢风头",
-      "onboard_time": 1693582898,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 243473,
@@ -411,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133536,
+      "num": 133536,
+      "word": "暑期最好看的剧 孟宴臣cut",
+      "onboard_time": 1693587809,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125434,
       "num": 125434,
       "word": "警方辟谣曾志伟被带走调查",
@@ -419,8 +443,32 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 114526,
+      "num": 114526,
+      "word": "BLACKPINK QQ音乐",
+      "onboard_time": 1693567295,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 96710,
+      "num": 104606,
+      "word": "京城大师赛",
+      "onboard_time": 1693586371,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 91378,
+      "num": 104022,
+      "word": "起床哼唧的橘猫",
+      "onboard_time": 1693587687,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41410,
-      "num": 901097,
+      "num": 915798,
       "word": "亚运会媒体中心可同时看九场比赛",
       "onboard_time": 1693581462,
       "rank": 2,
@@ -430,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#系好人生的第一颗纽扣#"
+    },
+    {
+      "word": "#习近平致信祝贺国防科技大学建校70周年#"
     }
   ]
 }
