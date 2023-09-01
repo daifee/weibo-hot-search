@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693607621518,
+  "endTime": 1693610153201,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -43,6 +43,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 859781,
+      "num": 859781,
+      "word": "公司对账差1分出动5名会计帮核对",
+      "onboard_time": 1693605376,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 821085,
       "num": 406776,
       "word": "母亲不堪家暴找人冒充走失儿子30年",
@@ -73,6 +81,14 @@
       "onboard_time": 1693577562,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643272,
+      "num": 405991,
+      "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+      "onboard_time": 1693556975,
+      "rank": 13,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 610647,
@@ -131,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405991,
-      "num": 405991,
-      "word": "女子蒸大闸蟹核辐射检测仪警报不断",
-      "onboard_time": 1693556975,
-      "rank": 13,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 385042,
       "num": 385042,
       "word": "肖战王琳新剧对手戏",
@@ -153,6 +161,14 @@
       "onboard_time": 1693582779,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377480,
+      "num": 199798,
+      "word": "官方称天津大爷跳水的8A级水域禁止游泳",
+      "onboard_time": 1693607838,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373720,
@@ -209,14 +225,6 @@
       "onboard_time": 1693582898,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 318645,
-      "num": 318645,
-      "word": "公司对账差1分出动5名会计帮核对",
-      "onboard_time": 1693605376,
-      "rank": 15,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 315539,
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193027,
+      "num": 193027,
+      "word": "美国77岁男子靠铁肺生活70年",
+      "onboard_time": 1693609283,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192072,
       "num": 192072,
       "word": "九尾直播",
@@ -395,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172393,
+      "num": 172393,
+      "word": "费翔 爱一个人其实是爱上她的缺点",
+      "onboard_time": 1693592119,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170139,
       "num": 170139,
       "word": "奥本海默",
@@ -435,14 +459,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 142732,
-      "num": 93491,
-      "word": "费翔 爱一个人其实是爱上她的缺点",
-      "onboard_time": 1693592119,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142032,
       "num": 142032,
       "word": "贝儿是吞了只百灵鸟吗",
@@ -475,12 +491,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 120365,
+      "num": 120365,
+      "word": "做着想死的工作居然是为了谋生",
+      "onboard_time": 1693608801,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114526,
       "num": 114526,
       "word": "BLACKPINK QQ音乐",
       "onboard_time": 1693567295,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109512,
+      "num": 109512,
+      "word": "小舟从此逝 江海寄余生",
+      "onboard_time": 1693573180,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 107513,
@@ -499,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92609,
+      "num": 92609,
+      "word": "小朋友闯入比赛场地被红牌罚下",
+      "onboard_time": 1693607899,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91378,
       "num": 104022,
       "word": "起床哼唧的橘猫",
@@ -507,16 +547,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85360,
-      "num": 85360,
-      "word": "小舟从此逝 江海寄余生",
-      "onboard_time": 1693573180,
-      "rank": 44,
+      "raw_hot": 79198,
+      "num": 79198,
+      "word": "七时吉祥8月最热神话剧",
+      "onboard_time": 1693597694,
+      "rank": 26,
       "category": "影视"
     },
     {
+      "raw_hot": 73612,
+      "num": 195591,
+      "word": "深圳发布台风红色预警",
+      "onboard_time": 1693595596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64044,
-      "num": 64044,
+      "num": 68111,
       "word": "张栋梁你还说你不会跳舞",
       "onboard_time": 1693574618,
       "rank": 42,
@@ -529,14 +577,6 @@
       "onboard_time": 1693600155,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52838,
-      "num": 52838,
-      "word": "七时吉祥8月最热神话剧",
-      "onboard_time": 1693597694,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 49003,
@@ -552,14 +592,6 @@
       "word": "广西崇左3.3级地震",
       "onboard_time": 1693589843,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46920,
-      "num": 130058,
-      "word": "深圳发布台风红色预警",
-      "onboard_time": 1693595596,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -651,8 +683,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 19010,
-      "num": 315111,
+      "raw_hot": 19100,
+      "num": 472301,
       "word": "开学第一课",
       "onboard_time": 1693494037,
       "rank": 2,
