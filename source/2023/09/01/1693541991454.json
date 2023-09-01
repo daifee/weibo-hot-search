@@ -1,0 +1,410 @@
+{
+  "runTime": 1693541991454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655702,
+        "num": 1655702,
+        "word": "深圳16时起停工停业停市",
+        "onboard_time": 1693539158,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234400,
+        "num": 1234400,
+        "word": "幼升小三大件花费近3000元",
+        "onboard_time": 1693535859,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 1097370,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425023,
+        "num": 1089296,
+        "word": "乌尔善 内娱徒手整形第一人",
+        "onboard_time": 1693533037,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1055874,
+        "num": 1055874,
+        "word": "存量房贷",
+        "onboard_time": 1693532917,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 828255,
+        "num": 828255,
+        "word": "台风",
+        "onboard_time": 1693540597,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816040,
+        "num": 816040,
+        "word": "2024鹅厂片单",
+        "onboard_time": 1693537294,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775029,
+        "num": 775029,
+        "word": "第一届05后大学生来了",
+        "onboard_time": 1693538435,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 582584,
+        "num": 582584,
+        "word": "张晚意孙怡美拉德风剧照",
+        "onboard_time": 1693540058,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579231,
+        "num": 579231,
+        "word": "张小斐新剧爽文女主",
+        "onboard_time": 1693540358,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112710,
+        "num": 517998,
+        "word": "沈腾认真脸",
+        "onboard_time": 1693538740,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1038801,
+        "num": 516171,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490520,
+        "num": 490520,
+        "word": "前任4孟云林佳体面告别",
+        "onboard_time": 1693537174,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489271,
+        "num": 489271,
+        "word": "神隐首支预告",
+        "onboard_time": 1693540058,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36206,
+        "num": 475791,
+        "word": "小孩开学应该准备些什么",
+        "onboard_time": 1693540836,
+        "rank": 14,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 472508,
+        "num": 472508,
+        "word": "迎击台风苏拉",
+        "onboard_time": 1693523784,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468412,
+        "num": 468412,
+        "word": "中国驻日使馆披露被骚扰细节",
+        "onboard_time": 1693538196,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441657,
+        "num": 441657,
+        "word": "丈夫去世后女子自驾9万公里游遍中国",
+        "onboard_time": 1693535195,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405464,
+        "num": 405464,
+        "word": "李莲花真婆娑步",
+        "onboard_time": 1693535976,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404131,
+        "num": 404131,
+        "word": "张艺兴新专辑将由华纳音乐发行",
+        "onboard_time": 1693539396,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1025208,
+        "num": 403923,
+        "word": "同事离职后的电脑屏保",
+        "onboard_time": 1693538017,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 762153,
+        "num": 403505,
+        "word": "外国人有多喜欢中国的手机壳",
+        "onboard_time": 1693540478,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 728946,
+        "num": 403406,
+        "word": "台风苏拉路径又变了",
+        "onboard_time": 1693540777,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439838,
+        "num": 402973,
+        "word": "七险三金多了哪两险哪两金",
+        "onboard_time": 1693526795,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412587,
+        "num": 402830,
+        "word": "23岁女子自曝遭夫妻两人殴打扒衣",
+        "onboard_time": 1693536335,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412162,
+        "num": 402420,
+        "word": "妈妈HR式给生活费",
+        "onboard_time": 1693538796,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 402216,
+        "num": 402216,
+        "word": "张远 没工作你试试",
+        "onboard_time": 1693536212,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394506,
+        "num": 394506,
+        "word": "新疆三文鱼喜获丰收",
+        "onboard_time": 1693527214,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 393333,
+        "num": 393333,
+        "word": "这哪是开学这是进了晨晨窝",
+        "onboard_time": 1693540117,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328970,
+        "num": 328970,
+        "word": "我知道我爱你",
+        "onboard_time": 1693537896,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420200,
+        "num": 326303,
+        "word": "哈利波特下凡了",
+        "onboard_time": 1693539938,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306043,
+        "num": 306043,
+        "word": "特斯拉Model3",
+        "onboard_time": 1693527874,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287855,
+        "num": 287855,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1693534357,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268945,
+        "num": 268945,
+        "word": "曾黎到底有多少好看的耳饰",
+        "onboard_time": 1693531895,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 263568,
+        "num": 263568,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260037,
+        "num": 260037,
+        "word": "五月天西安",
+        "onboard_time": 1693541379,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253244,
+        "num": 253244,
+        "word": "旧照和现在长得一模一样的爱豆们",
+        "onboard_time": 1693534175,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243264,
+        "num": 243264,
+        "word": "听一个人说的话首先要考虑他的身份和立场",
+        "onboard_time": 1693541198,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243062,
+        "num": 243062,
+        "word": "费翔通宵翻译封神英文字幕",
+        "onboard_time": 1693535376,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238707,
+        "num": 238707,
+        "word": "网友许愿的综艺拍出来了",
+        "onboard_time": 1693527996,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231738,
+        "num": 231738,
+        "word": "i人无痛装e教程",
+        "onboard_time": 1693535435,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227111,
+        "num": 227111,
+        "word": "莲花楼番外 找到你了",
+        "onboard_time": 1693531113,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215761,
+        "num": 215761,
+        "word": "姜广涛 秋天的阳光蛮好",
+        "onboard_time": 1693541800,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209258,
+        "num": 209258,
+        "word": "齐司礼云月之约",
+        "onboard_time": 1693541498,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208803,
+        "num": 208803,
+        "word": "特斯拉新款Model3价格",
+        "onboard_time": 1693534536,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201296,
+        "num": 201296,
+        "word": "迪丽热巴生活合影的tips",
+        "onboard_time": 1693541919,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200569,
+        "num": 200569,
+        "word": "李东海李赫宰成立新公司",
+        "onboard_time": 1693527756,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199052,
+        "num": 199052,
+        "word": "尼龙九月刊文俊辉封面",
+        "onboard_time": 1693541679,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190377,
+        "num": 198964,
+        "word": "明日方舟",
+        "onboard_time": 1693540896,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187358,
+        "num": 198731,
+        "word": "买单吧崩了",
+        "onboard_time": 1693539576,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信史迪威将军后人#"
+    }
+  }
+}

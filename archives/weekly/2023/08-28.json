@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693539240485,
+  "endTime": 1693541991454,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 1751394,
-      "num": 954510,
+      "num": 1089296,
       "word": "乌尔善 内娱徒手整形第一人",
       "onboard_time": 1693533037,
       "rank": 3,
@@ -736,6 +736,14 @@
       "word": "大英博物馆馆长辞职",
       "onboard_time": 1693191037,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1655702,
+      "num": 1655702,
+      "word": "深圳16时起停工停业停市",
+      "onboard_time": 1693539158,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1243,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1055874,
+      "num": 1055874,
+      "word": "存量房贷",
+      "onboard_time": 1693532917,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1053504,
       "num": 1024077,
       "word": "张俪演的李木子",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1693236815,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1025208,
+      "num": 403923,
+      "word": "同事离职后的电脑屏保",
+      "onboard_time": 1693538017,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1024503,
@@ -1747,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828255,
+      "num": 828255,
+      "word": "台风",
+      "onboard_time": 1693181197,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819339,
       "num": 819339,
       "word": "你要带我回中国吗",
@@ -1899,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 775029,
+      "num": 775029,
+      "word": "第一届05后大学生来了",
+      "onboard_time": 1693538435,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 773361,
       "num": 478571,
       "word": "日本海产品出口转攻东南亚市场",
@@ -1961,6 +2001,14 @@
       "onboard_time": 1693283500,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762153,
+      "num": 403505,
+      "word": "外国人有多喜欢中国的手机壳",
+      "onboard_time": 1693540478,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 760074,
@@ -2065,6 +2113,14 @@
       "onboard_time": 1693471362,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 728946,
+      "num": 403406,
+      "word": "台风苏拉路径又变了",
+      "onboard_time": 1693540777,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727627,
@@ -2363,14 +2419,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 654256,
-      "num": 278793,
-      "word": "同事离职后的电脑屏保",
-      "onboard_time": 1693538017,
-      "rank": 45,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 653463,
       "num": 351522,
       "word": "在床底发现已逝小狗三年前的脚印",
@@ -2380,7 +2428,7 @@
     },
     {
       "raw_hot": 651007,
-      "num": 342752,
+      "num": 402830,
       "word": "23岁女子自曝遭夫妻两人殴打扒衣",
       "onboard_time": 1693536335,
       "rank": 20,
@@ -2515,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630525,
-      "num": 630525,
-      "word": "存量房贷",
-      "onboard_time": 1693532917,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 628440,
       "num": 390553,
       "word": "女子生育期间遭家暴起诉离婚被驳",
@@ -2572,7 +2612,7 @@
     },
     {
       "raw_hot": 623191,
-      "num": 337222,
+      "num": 402216,
       "word": "张远 没工作你试试",
       "onboard_time": 1693536212,
       "rank": 21,
@@ -2817,6 +2857,22 @@
       "onboard_time": 1693356519,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 582584,
+      "num": 582584,
+      "word": "张晚意孙怡美拉德风剧照",
+      "onboard_time": 1693540058,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 579231,
+      "num": 579231,
+      "word": "张小斐新剧爽文女主",
+      "onboard_time": 1693540358,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 577964,
@@ -3547,6 +3603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 489271,
+      "num": 489271,
+      "word": "神隐首支预告",
+      "onboard_time": 1693540058,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 487284,
       "num": 420372,
       "word": "血色恋情",
@@ -3649,6 +3713,14 @@
       "onboard_time": 1693276234,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 468412,
+      "num": 468412,
+      "word": "中国驻日使馆披露被骚扰细节",
+      "onboard_time": 1693538196,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468233,
@@ -4171,6 +4243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420200,
+      "num": 326303,
+      "word": "哈利波特下凡了",
+      "onboard_time": 1693539938,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 419454,
       "num": 419454,
       "word": "大爷晨练捡到80多万完璧归赵",
@@ -4267,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412162,
+      "num": 402420,
+      "word": "妈妈HR式给生活费",
+      "onboard_time": 1693538796,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "2023歌手演唱会封神现场",
@@ -4353,6 +4441,14 @@
       "onboard_time": 1693493981,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404131,
+      "num": 404131,
+      "word": "张艺兴新专辑将由华纳音乐发行",
+      "onboard_time": 1693539396,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 403656,
@@ -4499,6 +4595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393333,
+      "num": 393333,
+      "word": "这哪是开学这是进了晨晨窝",
+      "onboard_time": 1693540117,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392559,
       "num": 392559,
       "word": "开市客vs山姆",
@@ -4585,14 +4689,6 @@
       "onboard_time": 1693491819,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 384686,
-      "num": 384686,
-      "word": "中国驻日使馆披露被骚扰细节",
-      "onboard_time": 1693538196,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384396,
@@ -5545,14 +5641,6 @@
       "onboard_time": 1693304737,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330773,
-      "num": 330773,
-      "word": "台风",
-      "onboard_time": 1693181197,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330340,
@@ -7227,6 +7315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260037,
+      "num": 260037,
+      "word": "五月天西安",
+      "onboard_time": 1693541379,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259452,
       "num": 259452,
       "word": "莲花楼断少师是埋葬",
@@ -7377,14 +7473,6 @@
       "onboard_time": 1693362936,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252233,
-      "num": 248203,
-      "word": "妈妈HR式给生活费",
-      "onboard_time": 1693538796,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 252205,
@@ -7691,6 +7779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243264,
+      "num": 243264,
+      "word": "听一个人说的话首先要考虑他的身份和立场",
+      "onboard_time": 1693541198,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242944,
       "num": 242944,
       "word": "原来方便面还能这么吃",
@@ -7897,14 +7993,6 @@
       "onboard_time": 1693196079,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 236280,
-      "num": 236280,
-      "word": "第一届05后大学生来了",
-      "onboard_time": 1693538435,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 235891,
@@ -8443,6 +8531,14 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 215761,
+      "num": 215761,
+      "word": "姜广涛 秋天的阳光蛮好",
+      "onboard_time": 1693541800,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215542,
       "num": 215542,
       "word": "邓为长相思原声",
@@ -8657,6 +8753,14 @@
       "onboard_time": 1693381836,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209258,
+      "num": 209258,
+      "word": "齐司礼云月之约",
+      "onboard_time": 1693541498,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 208813,
@@ -9035,6 +9139,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 201296,
+      "num": 201296,
+      "word": "迪丽热巴生活合影的tips",
+      "onboard_time": 1693541919,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201265,
       "num": 201265,
       "word": "住房信贷政策官方最新解读",
@@ -9233,6 +9345,14 @@
       "onboard_time": 1693226197,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199052,
+      "num": 199052,
+      "word": "尼龙九月刊文俊辉封面",
+      "onboard_time": 1693541679,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199006,
@@ -9667,6 +9787,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 190377,
+      "num": 198964,
+      "word": "明日方舟",
+      "onboard_time": 1693540896,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190350,
       "num": 190350,
       "word": "看得出来它不想上班",
@@ -9769,6 +9897,14 @@
       "onboard_time": 1693529798,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187358,
+      "num": 198731,
+      "word": "买单吧崩了",
+      "onboard_time": 1693539576,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 186835,
@@ -10177,14 +10313,6 @@
       "onboard_time": 1693480057,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174032,
-      "num": 206599,
-      "word": "深圳16时起停工停业停市",
-      "onboard_time": 1693539158,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173721,
@@ -11059,6 +11187,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 112710,
+      "num": 517998,
+      "word": "沈腾认真脸",
+      "onboard_time": 1693538740,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111572,
       "num": 207841,
       "word": "为何说828是中小企业及时雨",
@@ -11201,14 +11337,6 @@
       "onboard_time": 1693465240,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96252,
-      "num": 200843,
-      "word": "沈腾认真脸",
-      "onboard_time": 1693538740,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 95136,
@@ -11721,6 +11849,14 @@
       "onboard_time": 1693511053,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36206,
+      "num": 475791,
+      "word": "小孩开学应该准备些什么",
+      "onboard_time": 1693540836,
+      "rank": 14,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 34911,
