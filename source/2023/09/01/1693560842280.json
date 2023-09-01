@@ -1,0 +1,410 @@
+{
+  "runTime": 1693560842280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2170626,
+        "num": 2170626,
+        "word": "日本出现大量巨型蛾子布满街道",
+        "onboard_time": 1693549055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1755423,
+        "num": 1755423,
+        "word": "撒贝宁预言成功",
+        "onboard_time": 1693558359,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87933,
+        "num": 1705467,
+        "word": "杭州亚运会颁奖花束首次加入花器",
+        "onboard_time": 1693543903,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2730370,
+        "num": 1682552,
+        "word": "死刑犯最后一餐吃什么",
+        "onboard_time": 1693558359,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1659317,
+        "num": 1659317,
+        "word": "庆余年2首支预告",
+        "onboard_time": 1693557637,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1316897,
+        "num": 1316897,
+        "word": "微信文件可撤回三小时内消息",
+        "onboard_time": 1693559379,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099592,
+        "num": 1099592,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 789272,
+        "num": 789272,
+        "word": "日本是加害者不该鸣冤叫屈",
+        "onboard_time": 1693560821,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734726,
+        "num": 734726,
+        "word": "台风苏拉路径又变了",
+        "onboard_time": 1693540777,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705255,
+        "num": 705255,
+        "word": "开端第二部",
+        "onboard_time": 1693560341,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700433,
+        "num": 700433,
+        "word": "泰国对中国游客免签",
+        "onboard_time": 1693556380,
+        "rank": 10,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 668174,
+        "num": 668174,
+        "word": "承欢记真抠",
+        "onboard_time": 1693558302,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651340,
+        "num": 651340,
+        "word": "抢注宋祖儿商标均被驳回",
+        "onboard_time": 1693542581,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413736,
+        "num": 637441,
+        "word": "北京顺义区2.7级地震",
+        "onboard_time": 1693554041,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71376,
+        "num": 633702,
+        "word": "民警神预判封路1分钟后山体滑坡",
+        "onboard_time": 1693558839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631300,
+        "num": 631300,
+        "word": "五哈4官宣",
+        "onboard_time": 1693560401,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473883,
+        "num": 473883,
+        "word": "金晨孤注一掷提名金鹿奖最佳女演员",
+        "onboard_time": 1693554101,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468791,
+        "num": 468791,
+        "word": "胡彦斌 你把自己想象成林俊杰",
+        "onboard_time": 1693558781,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443001,
+        "num": 443001,
+        "word": "李昀锐赵露思三搭",
+        "onboard_time": 1693557517,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406217,
+        "num": 406217,
+        "word": "台风",
+        "onboard_time": 1693540597,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728374,
+        "num": 400300,
+        "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+        "onboard_time": 1693548635,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631650,
+        "num": 390653,
+        "word": "白百何把肖战的痣看成了芝麻",
+        "onboard_time": 1693557038,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374987,
+        "num": 374987,
+        "word": "卷王姬发 陪练邓姐 监工妲己",
+        "onboard_time": 1693559439,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371075,
+        "num": 371075,
+        "word": "一往无前的蓝官宣第二季",
+        "onboard_time": 1693559260,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294917,
+        "num": 359170,
+        "word": "北京多区震感明显",
+        "onboard_time": 1693555181,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352954,
+        "num": 352954,
+        "word": "基本每年一部爆剧的演员",
+        "onboard_time": 1693560280,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340623,
+        "num": 340623,
+        "word": "逃出大英博物馆细节",
+        "onboard_time": 1693560100,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331206,
+        "num": 331206,
+        "word": "仙剑六祈今朝缘起轮回海报",
+        "onboard_time": 1693557637,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260611,
+        "num": 260611,
+        "word": "幼儿园开家长会设置自我介绍环节",
+        "onboard_time": 1693558656,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 233359,
+        "num": 233359,
+        "word": "深圳地铁全线停运",
+        "onboard_time": 1693549475,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403280,
+        "num": 228937,
+        "word": "台风远没有公司这么离谱",
+        "onboard_time": 1693559439,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270735,
+        "num": 226476,
+        "word": "毛不易 抢票",
+        "onboard_time": 1693557100,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250911,
+        "num": 221748,
+        "word": "玫瑰故事",
+        "onboard_time": 1693555423,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246737,
+        "num": 217017,
+        "word": "敖子逸看蒋依依的眼神不算清白",
+        "onboard_time": 1693559080,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215555,
+        "num": 215555,
+        "word": "超强台风苏拉或正面袭击深圳",
+        "onboard_time": 1693542039,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234589,
+        "num": 215495,
+        "word": "王俊凯石家庄",
+        "onboard_time": 1693550139,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215420,
+        "num": 215420,
+        "word": "王耀庆 演员是没资格生病的",
+        "onboard_time": 1693549055,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187572,
+        "num": 204277,
+        "word": "男子中千万大奖带老婆打飞的兑奖",
+        "onboard_time": 1693554763,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180078,
+        "num": 201312,
+        "word": "给北方朋友一点南方烧烤的震撼",
+        "onboard_time": 1693559080,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55663,
+        "num": 200592,
+        "word": "孩子发烧是开学综合症吗",
+        "onboard_time": 1693558839,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200215,
+        "num": 200215,
+        "word": "九月第一天就被甜到了",
+        "onboard_time": 1693560761,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197294,
+        "num": 197294,
+        "word": "徐冬冬尹子维首档恋综",
+        "onboard_time": 1693560280,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190971,
+        "num": 190971,
+        "word": "王一博提名金鹿奖最佳男演员",
+        "onboard_time": 1693553374,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176903,
+        "num": 176903,
+        "word": "警方回应一女子在山坡上自缢身亡",
+        "onboard_time": 1693552777,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174896,
+        "num": 174896,
+        "word": "没想到粉饼盒还能这么用",
+        "onboard_time": 1693558060,
+        "rank": 44,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 171760,
+        "num": 171760,
+        "word": "泉州草莓音乐节",
+        "onboard_time": 1693559619,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170186,
+        "num": 170186,
+        "word": "15岁男孩失联7天遗体在河道被发现",
+        "onboard_time": 1693550377,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169626,
+        "num": 169626,
+        "word": "红毯上的舒淇就没输过吧",
+        "onboard_time": 1693547739,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163289,
+        "num": 163289,
+        "word": "李昀锐一天官宣三部剧",
+        "onboard_time": 1693551279,
+        "rank": 48,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 120914,
+        "num": 163196,
+        "word": "咒术回战涉谷事变片头曲",
+        "onboard_time": 1693553797,
+        "rank": 49,
+        "category": "动漫,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军需要一批又一批有志青年接续奋斗#"
+    }
+  }
+}
