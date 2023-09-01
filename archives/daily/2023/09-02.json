@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693602855111,
+  "endTime": 1693604033609,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -579,20 +579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 38191,
+      "num": 35895,
+      "word": "是什么样的缘分把这仨凑在一起",
+      "onboard_time": 1693600155,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34778,
       "num": 27849,
       "word": "深圳市台风橙色预警信号升级为红色",
       "onboard_time": 1693596375,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31618,
-      "num": 27661,
-      "word": "是什么样的缘分把这仨凑在一起",
-      "onboard_time": 1693600155,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 28091,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 27617,
-      "num": 27617,
+      "num": 35785,
       "word": "找到了熊猫是万人迷的原因",
       "onboard_time": 1693598175,
       "rank": 43,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 23499,
-      "num": 26967,
+      "num": 35754,
       "word": "上海晚霞",
       "onboard_time": 1693478799,
       "rank": 49,
@@ -628,14 +628,14 @@
     },
     {
       "raw_hot": 20041,
-      "num": 23950,
+      "num": 35735,
       "word": "银魂将推20周年新项目",
       "onboard_time": 1693602554,
       "rank": 49,
       "category": "动漫"
     },
     {
-      "raw_hot": 4725,
+      "raw_hot": 8026,
       "num": 217857,
       "word": "开学第一课",
       "onboard_time": 1693494037,
