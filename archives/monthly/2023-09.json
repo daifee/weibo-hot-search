@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693572495836,
+  "endTime": 1693574400855,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -43,8 +43,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2828422,
-      "num": 2828422,
+      "raw_hot": 2851776,
+      "num": 2851776,
       "word": "徐良 淘汰",
       "onboard_time": 1693570720,
       "rank": 1,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1795335,
+      "num": 1795335,
+      "word": "航空公司向李惠利道歉",
+      "onboard_time": 1693568798,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1755423,
       "num": 1755423,
       "word": "撒贝宁预言成功",
@@ -153,14 +161,6 @@
       "onboard_time": 1693560280,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1591275,
-      "num": 1591275,
-      "word": "航空公司向李惠利道歉",
-      "onboard_time": 1693568798,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1504183,
@@ -224,6 +224,14 @@
       "word": "特斯拉Model3",
       "onboard_time": 1693527874,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1284989,
+      "num": 597046,
+      "word": "母亲不堪家暴找人冒充走失儿子30年",
+      "onboard_time": 1693572699,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -387,6 +395,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 886966,
+      "num": 886966,
+      "word": "深圳台风",
+      "onboard_time": 1693572879,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875555,
       "num": 471374,
       "word": "王俊凯石家庄",
@@ -401,6 +417,14 @@
       "onboard_time": 1693545161,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855476,
+      "num": 855476,
+      "word": "骄阳伴我",
+      "onboard_time": 1693545341,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 840702,
@@ -481,6 +505,14 @@
       "onboard_time": 1693491639,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 719991,
+      "num": 596579,
+      "word": "白敬亭虽迟但到的甜妹舞",
+      "onboard_time": 1693571378,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 713357,
@@ -667,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 566763,
-      "num": 566763,
-      "word": "骄阳伴我",
-      "onboard_time": 1693545341,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 591891,
+      "num": 591891,
+      "word": "快看今晚的月亮",
+      "onboard_time": 1693571318,
+      "rank": 37,
+      "category": "自然"
     },
     {
       "raw_hot": 566743,
@@ -753,6 +785,14 @@
       "onboard_time": 1693487679,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 537771,
+      "num": 537771,
+      "word": "邓为茶朔洵跳楼名场面",
+      "onboard_time": 1693571616,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 534188,
@@ -907,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467725,
-      "num": 467725,
-      "word": "快看今晚的月亮",
-      "onboard_time": 1693571318,
-      "rank": 37,
-      "category": "自然"
-    },
-    {
       "raw_hot": 466220,
       "num": 466220,
       "word": "红毯上的舒淇就没输过吧",
@@ -947,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 453907,
-      "num": 453907,
-      "word": "白敬亭虽迟但到的甜妹舞",
-      "onboard_time": 1693571378,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 452709,
       "num": 272436,
       "word": "女子假离婚后发现丈夫有孩子公婆也知情",
@@ -963,20 +987,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 448994,
+      "num": 448994,
+      "word": "情绪稳定的根本原因",
+      "onboard_time": 1693569337,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 448576,
       "num": 410320,
       "word": "陈伟霆说这话时魏大勋就在旁边",
       "onboard_time": 1693543304,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 443289,
-      "num": 443289,
-      "word": "情绪稳定的根本原因",
-      "onboard_time": 1693569337,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 440491,
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 429978,
-      "num": 558397,
+      "num": 595632,
       "word": "苏拉的危险半圆将横扫香港和深圳",
       "onboard_time": 1693569276,
       "rank": 13,
@@ -1024,6 +1048,14 @@
       "word": "TaylorSwift巡演电影预告片释出",
       "onboard_time": 1693533817,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 429317,
+      "num": 429317,
+      "word": "黄子弘凡歌词",
+      "onboard_time": 1693572999,
+      "rank": 23,
       "category": "音乐"
     },
     {
@@ -1049,14 +1081,6 @@
       "onboard_time": 1693525950,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 422303,
-      "num": 422303,
-      "word": "邓为茶朔洵跳楼名场面",
-      "onboard_time": 1693571616,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 420200,
@@ -1259,6 +1283,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 360429,
+      "num": 360429,
+      "word": "盛阳奶狼双修",
+      "onboard_time": 1693573361,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 358119,
+      "num": 358119,
+      "word": "香港台风",
+      "onboard_time": 1693572637,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356425,
       "num": 356425,
       "word": "与凤行预约人数突破300万",
@@ -1451,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298155,
+      "num": 298155,
+      "word": "7年了狗狗还记得自己叫笨笨",
+      "onboard_time": 1693571259,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296911,
       "num": 296911,
       "word": "原神",
@@ -1539,11 +1587,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 282048,
-      "num": 282048,
-      "word": "7年了狗狗还记得自己叫笨笨",
-      "onboard_time": 1693571259,
-      "rank": 45,
+      "raw_hot": 272960,
+      "num": 272960,
+      "word": "小舟从此逝 江海寄余生",
+      "onboard_time": 1693573180,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -1611,6 +1659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259870,
+      "num": 259870,
+      "word": "盛阳阻止饭局咸猪手",
+      "onboard_time": 1693573481,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259845,
       "num": 259845,
       "word": "超强台风苏拉或正面袭击深圳",
@@ -1675,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250788,
+      "num": 250788,
+      "word": "狼队阵容 憋屈",
+      "onboard_time": 1693573659,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250260,
       "num": 250260,
       "word": "家长校门口接孩子用手为座位隔热",
@@ -1729,6 +1793,14 @@
       "onboard_time": 1693548695,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246298,
+      "num": 246298,
+      "word": "认房不认贷",
+      "onboard_time": 1693573060,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244801,
@@ -1811,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229059,
+      "num": 229059,
+      "word": "质子团新综艺",
+      "onboard_time": 1693573959,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228519,
       "num": 228519,
       "word": "王心凌在线为新歌征名",
@@ -1865,6 +1945,14 @@
       "onboard_time": 1693523064,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219461,
+      "num": 219461,
+      "word": "张嘉倪新剧里好美",
+      "onboard_time": 1693572222,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 217898,
@@ -2059,6 +2147,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 199845,
+      "num": 592253,
+      "word": "2秒极氪王来了",
+      "onboard_time": 1693573418,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 199673,
       "num": 199673,
       "word": "电影奥本海默",
@@ -2113,6 +2209,14 @@
       "onboard_time": 1693494399,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 194285,
+      "num": 194285,
+      "word": "盛阳吃瓜吃自己头上",
+      "onboard_time": 1693574140,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 194160,
@@ -2296,14 +2400,6 @@
       "word": "孙阳 阿年只是第七个嫌疑人",
       "onboard_time": 1693565798,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 168747,
-      "num": 207603,
-      "word": "张嘉倪新剧里好美",
-      "onboard_time": 1693572222,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -2691,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74295,
+      "num": 1631499,
+      "word": "杭州亚运会游泳馆黑科技大揭秘",
+      "onboard_time": 1693571681,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73051,
       "num": 73051,
       "word": "谐音梗为什么要扣钱",
@@ -2771,14 +2875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 43155,
-      "num": 1631499,
-      "word": "杭州亚运会游泳馆黑科技大揭秘",
-      "onboard_time": 1693571681,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41439,
       "num": 395408,
       "word": "校长开学首日校门口迎接学生",
@@ -2801,6 +2897,14 @@
       "onboard_time": 1693506917,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36644,
+      "num": 594338,
+      "word": "高校连续4年为报到时生日学生庆生",
+      "onboard_time": 1693573299,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36213,
