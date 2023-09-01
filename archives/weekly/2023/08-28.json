@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693588500451,
+  "endTime": 1693589629929,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2162195,
+      "num": 2162195,
+      "word": "南宁震感",
+      "onboard_time": 1693588047,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2147035,
       "num": 1120888,
       "word": "杰尼斯承认喜多川性侵",
@@ -785,14 +793,6 @@
       "onboard_time": 1693476819,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1763905,
-      "num": 1763905,
-      "word": "南宁震感",
-      "onboard_time": 1693588047,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1763255,
@@ -4411,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468810,
+      "num": 468810,
+      "word": "台风吹倒大树砸中汽车造成一死两伤",
+      "onboard_time": 1693587028,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468791,
       "num": 468791,
       "word": "胡彦斌 你把自己想象成林俊杰",
@@ -6299,6 +6307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348829,
+      "num": 166851,
+      "word": "刘亦菲 做一个真诚的人好幸福",
+      "onboard_time": 1693589066,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348804,
       "num": 348804,
       "word": "SMTOWN回应洪胜汉缺席音乐节目",
@@ -7339,6 +7355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302554,
+      "num": 145498,
+      "word": "十几分钟却是我的整个青春",
+      "onboard_time": 1693589066,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302427,
       "num": 302427,
       "word": "小猫肚子里肯定没少装猪脚饭",
@@ -7537,14 +7561,6 @@
       "onboard_time": 1693448493,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 296217,
-      "num": 296217,
-      "word": "台风吹倒大树砸中汽车造成一死两伤",
-      "onboard_time": 1693587028,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295932,
@@ -12483,6 +12499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152129,
+      "num": 152129,
+      "word": "暑期最好看的剧 孟宴臣cut",
+      "onboard_time": 1693587809,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151828,
       "num": 151828,
       "word": "没人能空着肚子离开重庆夜市",
@@ -12777,14 +12801,6 @@
       "onboard_time": 1693351709,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133536,
-      "num": 133536,
-      "word": "暑期最好看的剧 孟宴臣cut",
-      "onboard_time": 1693587809,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 133009,
@@ -13161,6 +13177,14 @@
       "onboard_time": 1693586371,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95410,
+      "num": 99903,
+      "word": "路过的网友全部舔一口",
+      "onboard_time": 1693589004,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 95136,

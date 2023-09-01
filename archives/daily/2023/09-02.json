@@ -1,10 +1,10 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693588500451,
+  "endTime": 1693589629929,
   "band_list": [
     {
-      "raw_hot": 1763905,
-      "num": 1763905,
+      "raw_hot": 2162195,
+      "num": 2162195,
       "word": "南宁震感",
       "onboard_time": 1693588047,
       "rank": 0,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468810,
+      "num": 468810,
+      "word": "台风吹倒大树砸中汽车造成一死两伤",
+      "onboard_time": 1693587028,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430772,
       "num": 349291,
       "word": "江浙沪包邮区包不住了",
@@ -161,6 +169,14 @@
       "onboard_time": 1693560341,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348829,
+      "num": 166851,
+      "word": "刘亦菲 做一个真诚的人好幸福",
+      "onboard_time": 1693589066,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341656,
@@ -227,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296217,
-      "num": 296217,
-      "word": "台风吹倒大树砸中汽车造成一死两伤",
-      "onboard_time": 1693587028,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 302554,
+      "num": 145498,
+      "word": "十几分钟却是我的整个青春",
+      "onboard_time": 1693589066,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 290403,
@@ -395,6 +411,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 152129,
+      "num": 152129,
+      "word": "暑期最好看的剧 孟宴臣cut",
+      "onboard_time": 1693587809,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148598,
       "num": 148598,
       "word": "广东小孩的开学仪式感",
@@ -427,14 +451,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 133536,
-      "num": 133536,
-      "word": "暑期最好看的剧 孟宴臣cut",
-      "onboard_time": 1693587809,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125434,
       "num": 125434,
       "word": "警方辟谣曾志伟被带走调查",
@@ -459,12 +475,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95410,
+      "num": 99903,
+      "word": "路过的网友全部舔一口",
+      "onboard_time": 1693589004,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 91378,
       "num": 104022,
       "word": "起床哼唧的橘猫",
       "onboard_time": 1693587687,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85360,
+      "num": 85360,
+      "word": "小舟从此逝 江海寄余生",
+      "onboard_time": 1693573180,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 41410,
