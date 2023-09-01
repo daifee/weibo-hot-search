@@ -1,7 +1,15 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693553631631,
+  "endTime": 1693556480370,
   "band_list": [
+    {
+      "raw_hot": 7898237,
+      "num": 8858861,
+      "word": "北京顺义区2.7级地震",
+      "onboard_time": 1693554041,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 5262598,
       "num": 5262598,
@@ -57,6 +65,22 @@
       "onboard_time": 1693539158,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1663551,
+      "num": 1663551,
+      "word": "北京多区震感明显",
+      "onboard_time": 1693555181,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1636378,
+      "num": 1636378,
+      "word": "金晨孤注一掷提名金鹿奖最佳女演员",
+      "onboard_time": 1693554101,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1504183,
@@ -435,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594416,
+      "num": 594416,
+      "word": "玫瑰故事",
+      "onboard_time": 1693555423,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566743,
       "num": 372655,
       "word": "何洁瘦了近70斤",
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527233,
+      "num": 326833,
+      "word": "男子中千万大奖带老婆打飞的兑奖",
+      "onboard_time": 1693554763,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524892,
       "num": 524892,
       "word": "深圳全市将停课",
@@ -585,6 +625,14 @@
       "onboard_time": 1693544922,
       "rank": 33,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 479027,
+      "num": 479027,
+      "word": "王一博提名金鹿奖最佳男演员",
+      "onboard_time": 1693553374,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 479020,
@@ -659,6 +707,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 440035,
+      "num": 440035,
+      "word": "日方称中方是唯一反对核污水排海国家",
+      "onboard_time": 1693555840,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439139,
       "num": 439139,
       "word": "费翔通宵翻译封神英文字幕",
@@ -673,6 +729,14 @@
       "onboard_time": 1693488761,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 431396,
+      "num": 326615,
+      "word": "庆余年预告呢",
+      "onboard_time": 1693556021,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 429367,
@@ -859,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356397,
+      "num": 326437,
+      "word": "警方回应一女子在山坡上自缢身亡",
+      "onboard_time": 1693552777,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355846,
       "num": 337839,
       "word": "和不舒服的人在一起会生病",
@@ -883,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348116,
+      "num": 348116,
+      "word": "咒术回战涉谷事变片头曲",
+      "onboard_time": 1693553797,
+      "rank": 16,
+      "category": "动漫,音乐"
+    },
+    {
       "raw_hot": 347854,
       "num": 337672,
       "word": "减肥为什么先养肝",
@@ -897,6 +977,14 @@
       "onboard_time": 1693545758,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343833,
+      "num": 343833,
+      "word": "电竞选手跳whatever",
+      "onboard_time": 1693552359,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 342008,
@@ -984,6 +1072,14 @@
       "word": "许光汉帅的很稳定",
       "onboard_time": 1693552417,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292364,
+      "num": 292364,
+      "word": "黑夜问白天真的很绝",
+      "onboard_time": 1693553674,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1083,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259845,
+      "num": 259845,
+      "word": "超强台风苏拉或正面袭击深圳",
+      "onboard_time": 1693542039,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259557,
       "num": 259557,
       "word": "女子账户突然多出800万元吓得报警",
@@ -1105,14 +1209,6 @@
       "onboard_time": 1693492179,
       "rank": 18,
       "category": "美妆,影视"
-    },
-    {
-      "raw_hot": 258028,
-      "num": 258028,
-      "word": "超强台风苏拉或正面袭击深圳",
-      "onboard_time": 1693542039,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252838,
@@ -1169,14 +1265,6 @@
       "onboard_time": 1693551760,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 244476,
-      "num": 244476,
-      "word": "警方回应一女子在山坡上自缢身亡",
-      "onboard_time": 1693552777,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242179,
@@ -1243,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228519,
+      "num": 228519,
+      "word": "王心凌在线为新歌征名",
+      "onboard_time": 1693553142,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226413,
       "num": 226413,
       "word": "李湘 我已退休",
@@ -1251,19 +1347,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226339,
+      "num": 226339,
+      "word": "成毅说唱rap",
+      "onboard_time": 1693553979,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223677,
       "num": 257539,
       "word": "虞书欣点了东北黏糊麻辣烫",
       "onboard_time": 1693486115,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 221969,
-      "num": 221969,
-      "word": "王一博提名金鹿奖最佳男演员",
-      "onboard_time": 1693553374,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -1307,12 +1403,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209366,
+      "num": 209366,
+      "word": "烫金方",
+      "onboard_time": 1693556380,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 209258,
       "num": 228402,
       "word": "齐司礼云月之约",
       "onboard_time": 1693541498,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209120,
+      "num": 209120,
+      "word": "费翔想证明外表不重要",
+      "onboard_time": 1693556438,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208379,
+      "num": 208379,
+      "word": "泰国对中国游客免签",
+      "onboard_time": 1693556380,
+      "rank": 48,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 208365,
@@ -1355,14 +1475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205500,
-      "num": 205500,
-      "word": "电竞选手跳whatever",
-      "onboard_time": 1693552359,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205145,
       "num": 205145,
       "word": "周冬雨新片玩复仇高端局",
@@ -1388,7 +1500,7 @@
     },
     {
       "raw_hot": 200215,
-      "num": 1404634,
+      "num": 1681193,
       "word": "开学第一天",
       "onboard_time": 1693544146,
       "rank": 2,
@@ -1537,14 +1649,6 @@
       "onboard_time": 1693518616,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172931,
-      "num": 172931,
-      "word": "王心凌在线为新歌征名",
-      "onboard_time": 1693553142,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 164243,
@@ -1944,6 +2048,22 @@
       "word": "钓鱼佬的乐趣有哪些",
       "onboard_time": 1693506077,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20888,
+      "num": 226361,
+      "word": "重庆人有自己的遛弯方式",
+      "onboard_time": 1693555237,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19775,
+      "num": 395408,
+      "word": "校长开学首日校门口迎接学生",
+      "onboard_time": 1693556200,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
