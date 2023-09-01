@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693599420360,
+  "endTime": 1693600436209,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -13955,11 +13955,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26246,
-      "num": 26246,
+      "raw_hot": 27617,
+      "num": 27617,
       "word": "找到了熊猫是万人迷的原因",
       "onboard_time": 1693598175,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26844,
+      "num": 27047,
+      "word": "深圳市台风橙色预警信号升级为红色",
+      "onboard_time": 1693596375,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -13977,14 +13985,6 @@
       "onboard_time": 1693422255,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24826,
-      "num": 26235,
-      "word": "深圳市台风橙色预警信号升级为红色",
-      "onboard_time": 1693596375,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24771,
@@ -14017,6 +14017,14 @@
       "onboard_time": 1693506077,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21898,
+      "num": 26918,
+      "word": "周五打工人精神状态",
+      "onboard_time": 1693590861,
+      "rank": 48,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 19517,

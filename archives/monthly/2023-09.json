@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693599420360,
+  "endTime": 1693600436209,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -3475,27 +3475,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26770,
-      "num": 1502037,
-      "word": "开学第一课",
-      "onboard_time": 1693494037,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26246,
-      "num": 26246,
+      "raw_hot": 27617,
+      "num": 27617,
       "word": "找到了熊猫是万人迷的原因",
       "onboard_time": 1693598175,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24826,
-      "num": 26235,
+      "raw_hot": 26844,
+      "num": 27047,
       "word": "深圳市台风橙色预警信号升级为红色",
       "onboard_time": 1693596375,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26770,
+      "num": 1502037,
+      "word": "开学第一课",
+      "onboard_time": 1693494037,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3507,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23499,
+      "num": 26967,
+      "word": "上海晚霞",
+      "onboard_time": 1693478799,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22961,
       "num": 29834,
       "word": "钓鱼佬的乐趣有哪些",
@@ -3515,12 +3523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22951,
-      "num": 26177,
-      "word": "上海晚霞",
-      "onboard_time": 1693478799,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 21898,
+      "num": 26918,
+      "word": "周五打工人精神状态",
+      "onboard_time": 1693590861,
+      "rank": 48,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 19517,
