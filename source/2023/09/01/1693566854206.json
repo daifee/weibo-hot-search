@@ -1,0 +1,410 @@
+{
+  "runTime": 1693566854206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3268067,
+        "num": 3268067,
+        "word": "华少 不信谣不传谣",
+        "onboard_time": 1693563760,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403190,
+        "num": 2152104,
+        "word": "宁波男子收到云南来的火腿系救命谢恩礼",
+        "onboard_time": 1693563997,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50958,
+        "num": 1814302,
+        "word": "杭州亚运会颁奖花束首次加入花器",
+        "onboard_time": 1693543903,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1692133,
+        "num": 1692133,
+        "word": "利息少了41万购房者激动得一夜没睡",
+        "onboard_time": 1693563159,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 291985,
+        "num": 1667958,
+        "word": "83岁老人候诊晕倒医护冲刺救人",
+        "onboard_time": 1693564897,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1658692,
+        "num": 1658692,
+        "word": "开端第二部",
+        "onboard_time": 1693560341,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169166,
+        "num": 1309863,
+        "word": "特警单膝跪地10分钟撑起发病老人",
+        "onboard_time": 1693561839,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201361,
+        "num": 1201361,
+        "word": "微信文件可撤回三小时内消息",
+        "onboard_time": 1693559379,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1052096,
+        "num": 1052096,
+        "word": "基本每年一部爆剧的演员",
+        "onboard_time": 1693560280,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 834681,
+        "num": 834681,
+        "word": "五哈4官宣",
+        "onboard_time": 1693560401,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1178485,
+        "num": 802821,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 765272,
+        "num": 765272,
+        "word": "死刑犯最后一餐吃什么",
+        "onboard_time": 1693558359,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 672810,
+        "num": 672810,
+        "word": "庆余年2首支预告",
+        "onboard_time": 1693557637,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107550,
+        "num": 618837,
+        "word": "女子笑着喊口号带阿尔茨海默症婆婆回家",
+        "onboard_time": 1693561962,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28736,
+        "num": 611104,
+        "word": "浙江临海种出2米高巨型水稻",
+        "onboard_time": 1693566097,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609371,
+        "num": 609371,
+        "word": "惠灵顿牛棚",
+        "onboard_time": 1693565258,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521249,
+        "num": 521249,
+        "word": "台风苏拉路径又变了",
+        "onboard_time": 1693540777,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507883,
+        "num": 507883,
+        "word": "广州地铁",
+        "onboard_time": 1693562558,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428463,
+        "num": 428463,
+        "word": "日本出现大量巨型蛾子布满街道",
+        "onboard_time": 1693549055,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374708,
+        "num": 374708,
+        "word": "撒贝宁预言成功",
+        "onboard_time": 1693558359,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446815,
+        "num": 360642,
+        "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+        "onboard_time": 1693548635,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400088,
+        "num": 354950,
+        "word": "白百何把肖战的痣看成了芝麻",
+        "onboard_time": 1693557038,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340725,
+        "num": 340725,
+        "word": "台风",
+        "onboard_time": 1693540597,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304324,
+        "num": 304324,
+        "word": "上海认房不认贷",
+        "onboard_time": 1693566637,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 300009,
+        "num": 300009,
+        "word": "台风远没有公司这么离谱",
+        "onboard_time": 1693559439,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254508,
+        "num": 254508,
+        "word": "日本是加害者不该鸣冤叫屈",
+        "onboard_time": 1693566818,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249376,
+        "num": 249376,
+        "word": "承欢记真抠",
+        "onboard_time": 1693558302,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248360,
+        "num": 248360,
+        "word": "我发现我不是讨厌小孩",
+        "onboard_time": 1693561118,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232567,
+        "num": 232567,
+        "word": "原神",
+        "onboard_time": 1693565916,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228710,
+        "num": 228710,
+        "word": "徐冬冬尹子维首档恋综",
+        "onboard_time": 1693560280,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222906,
+        "num": 222906,
+        "word": "九月第一天就被甜到了",
+        "onboard_time": 1693560761,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217789,
+        "num": 217789,
+        "word": "王鹤棣持剑剧照",
+        "onboard_time": 1693566038,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221757,
+        "num": 213299,
+        "word": "李昀锐赵露思三搭",
+        "onboard_time": 1693557517,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207138,
+        "num": 207138,
+        "word": "李洙赫Arin将合作新剧",
+        "onboard_time": 1693564717,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201278,
+        "num": 201278,
+        "word": "乐队的夏天",
+        "onboard_time": 1693565798,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198227,
+        "num": 198227,
+        "word": "晨起一杯水你喝对了吗",
+        "onboard_time": 1693566275,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197841,
+        "num": 197841,
+        "word": "这届网友是懂提要求的",
+        "onboard_time": 1693565974,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194794,
+        "num": 194794,
+        "word": "卷王姬发 陪练邓姐 监工妲己",
+        "onboard_time": 1693559439,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189505,
+        "num": 189505,
+        "word": "金晨孤注一掷提名金鹿奖最佳女演员",
+        "onboard_time": 1693554101,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166679,
+        "num": 184196,
+        "word": "七仔把阿宝的招牌动作学去了",
+        "onboard_time": 1693566038,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181449,
+        "num": 181449,
+        "word": "王俊凯石家庄",
+        "onboard_time": 1693550139,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177152,
+        "num": 177152,
+        "word": "幼儿园开家长会设置自我介绍环节",
+        "onboard_time": 1693558656,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 174473,
+        "num": 174473,
+        "word": "孙阳 阿年只是第七个嫌疑人",
+        "onboard_time": 1693565798,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167805,
+        "num": 167805,
+        "word": "大三男生开学日救了另一名大学生",
+        "onboard_time": 1693566335,
+        "rank": 43,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 164705,
+        "num": 164705,
+        "word": "水豚为什么爱吃自己便便",
+        "onboard_time": 1693565438,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 164032,
+        "num": 164032,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1693560521,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157556,
+        "num": 157556,
+        "word": "泰国对中国游客免签",
+        "onboard_time": 1693556380,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 154372,
+        "num": 154372,
+        "word": "张钧甯吃粉丝",
+        "onboard_time": 1693563397,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153036,
+        "num": 153036,
+        "word": "超强台风苏拉或正面袭击深圳",
+        "onboard_time": 1693542039,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151020,
+        "num": 151020,
+        "word": "王耀庆 演员是没资格生病的",
+        "onboard_time": 1693549055,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军需要一批又一批有志青年接续奋斗#"
+    }
+  }
+}
