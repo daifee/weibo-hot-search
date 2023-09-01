@@ -1,10 +1,10 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693532140874,
+  "endTime": 1693535174542,
   "band_list": [
     {
-      "raw_hot": 3482573,
-      "num": 3482573,
+      "raw_hot": 5262598,
+      "num": 5262598,
       "word": "各大卫视删除宋祖儿相关微博",
       "onboard_time": 1693531355,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2643469,
-      "num": 524876,
+      "num": 551009,
       "word": "大学生酒后欲强暴女同学被宾馆老板制止",
       "onboard_time": 1693497155,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1693526795,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1751394,
+      "num": 754738,
+      "word": "乌尔善 内娱徒手整形第一人",
+      "onboard_time": 1693533037,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1359114,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 907735,
-      "num": 395171,
+      "num": 410882,
       "word": "宋祖儿",
       "onboard_time": 1693445614,
       "rank": 11,
@@ -123,6 +131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 683765,
+      "num": 268178,
+      "word": "女子剖宫产手术纱布遗漏体内14年",
+      "onboard_time": 1693531834,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653018,
       "num": 653018,
       "word": "上错花轿嫁对郎再火的唯一受害者",
@@ -139,12 +155,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623855,
+      "num": 623855,
+      "word": "2023年小学入学人数达近年峰值",
+      "onboard_time": 1693532618,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 623104,
+      "num": 623104,
+      "word": "莲花楼番外 找到你了",
+      "onboard_time": 1693531113,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606408,
       "num": 606408,
       "word": "这不是何群成晓诗婚后生活吗",
       "onboard_time": 1693525591,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595833,
+      "num": 595833,
+      "word": "存量房贷",
+      "onboard_time": 1693532917,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 566743,
@@ -179,6 +219,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 539377,
+      "num": 539377,
+      "word": "谢娜希望苏可以后少拍一点意难平的戏",
+      "onboard_time": 1693533397,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538887,
       "num": 538887,
       "word": "华为Mate60Pro+",
@@ -203,12 +251,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 523585,
-      "num": 413902,
-      "word": "莲花楼番外 找到你了",
-      "onboard_time": 1693531113,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 519808,
+      "num": 519808,
+      "word": "曾黎到底有多少好看的耳饰",
+      "onboard_time": 1693531895,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 511295,
@@ -267,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 416695,
+      "num": 416695,
+      "word": "TaylorSwift巡演电影预告片释出",
+      "onboard_time": 1693533817,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415346,
       "num": 263380,
       "word": "演员就该于适这样啊",
@@ -323,11 +379,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 355376,
+      "num": 239257,
+      "word": "脑梗最快急救方法",
+      "onboard_time": 1693534357,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347854,
       "num": 337672,
       "word": "减肥为什么先养肝",
       "onboard_time": 1693530033,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 342008,
+      "num": 342008,
+      "word": "深圳地铁",
+      "onboard_time": 1693531232,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332744,
+      "num": 265531,
+      "word": "用过这书皮的人都长大了吧",
+      "onboard_time": 1693534055,
+      "rank": 21,
       "category": "幽默"
     },
     {
@@ -371,14 +451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 292547,
-      "num": 292547,
-      "word": "深圳地铁",
-      "onboard_time": 1693531232,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289613,
       "num": 289613,
       "word": "星空",
@@ -417,6 +489,14 @@
       "onboard_time": 1693490680,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271593,
+      "num": 239069,
+      "word": "旧照和现在长得一模一样的爱豆们",
+      "onboard_time": 1693534175,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 261686,
@@ -467,12 +547,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236228,
-      "num": 236228,
-      "word": "女子剖宫产手术纱布遗漏体内14年",
-      "onboard_time": 1693531834,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 248470,
+      "num": 248470,
+      "word": "陈卓璇这个牛仔裙有点东西",
+      "onboard_time": 1693532016,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 242179,
+      "num": 242179,
+      "word": "王珞丹的马甲线",
+      "onboard_time": 1693532133,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238850,
+      "num": 238850,
+      "word": "特斯拉新款Model3价格",
+      "onboard_time": 1693534536,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 233524,
@@ -488,6 +584,14 @@
       "word": "第一次不想让男女主谈恋爱",
       "onboard_time": 1693491819,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230739,
+      "num": 230739,
+      "word": "父辈的荣耀",
+      "onboard_time": 1693532556,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -515,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218175,
-      "num": 218175,
-      "word": "陈卓璇这个牛仔裙有点东西",
-      "onboard_time": 1693532016,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 214689,
       "num": 214689,
       "word": "魏哲鸣披荆斩棘repo只有一个字",
@@ -537,14 +633,6 @@
       "onboard_time": 1693528779,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210594,
-      "num": 210594,
-      "word": "曾黎到底有多少好看的耳饰",
-      "onboard_time": 1693531895,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209498,
@@ -569,6 +657,22 @@
       "onboard_time": 1693523967,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198319,
+      "num": 198319,
+      "word": "当社牛女孩和社恐男孩成了同桌",
+      "onboard_time": 1693534115,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196215,
+      "num": 196215,
+      "word": "齐溪新片被逃犯骗婚21年",
+      "onboard_time": 1693534835,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 195012,
@@ -641,14 +745,6 @@
       "onboard_time": 1693518616,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164464,
-      "num": 164464,
-      "word": "王珞丹的马甲线",
-      "onboard_time": 1693532133,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163940,
@@ -729,6 +825,14 @@
       "onboard_time": 1693524326,
       "rank": 33,
       "category": "网红,游戏"
+    },
+    {
+      "raw_hot": 146751,
+      "num": 146751,
+      "word": "吴磊说骑行是我的生活",
+      "onboard_time": 1693535136,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 146373,

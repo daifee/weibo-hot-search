@@ -1,0 +1,410 @@
+{
+  "runTime": 1693535174542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5262598,
+        "num": 5262598,
+        "word": "各大卫视删除宋祖儿相关微博",
+        "onboard_time": 1693531355,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1098797,
+        "num": 1098797,
+        "word": "七险三金多了哪两险哪两金",
+        "onboard_time": 1693526795,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23666,
+        "num": 818582,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1751394,
+        "num": 754738,
+        "word": "乌尔善 内娱徒手整形第一人",
+        "onboard_time": 1693533037,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 663589,
+        "num": 663589,
+        "word": "特斯拉Model3",
+        "onboard_time": 1693527874,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623855,
+        "num": 623855,
+        "word": "2023年小学入学人数达近年峰值",
+        "onboard_time": 1693532618,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 623104,
+        "num": 623104,
+        "word": "莲花楼番外 找到你了",
+        "onboard_time": 1693531113,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595833,
+        "num": 595833,
+        "word": "存量房贷",
+        "onboard_time": 1693532917,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 590113,
+        "num": 590113,
+        "word": "新疆三文鱼喜获丰收",
+        "onboard_time": 1693527214,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 555019,
+        "num": 555019,
+        "word": "网友许愿的综艺拍出来了",
+        "onboard_time": 1693527996,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1097700,
+        "num": 551009,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539377,
+        "num": 539377,
+        "word": "谢娜希望苏可以后少拍一点意难平的戏",
+        "onboard_time": 1693533397,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532433,
+        "num": 532433,
+        "word": "迎击台风苏拉",
+        "onboard_time": 1693523784,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519808,
+        "num": 519808,
+        "word": "曾黎到底有多少好看的耳饰",
+        "onboard_time": 1693531895,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201078,
+        "num": 438904,
+        "word": "大学生请假捐造血干细胞救助患者",
+        "onboard_time": 1693528418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416695,
+        "num": 416695,
+        "word": "TaylorSwift巡演电影预告片释出",
+        "onboard_time": 1693533817,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410882,
+        "num": 410882,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380101,
+        "num": 380101,
+        "word": "民警1小时找回被盗金手镯女子笑到起飞",
+        "onboard_time": 1693527819,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342008,
+        "num": 342008,
+        "word": "深圳地铁",
+        "onboard_time": 1693531232,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270857,
+        "num": 270857,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 683765,
+        "num": 268178,
+        "word": "女子剖宫产手术纱布遗漏体内14年",
+        "onboard_time": 1693531834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332744,
+        "num": 265531,
+        "word": "用过这书皮的人都长大了吧",
+        "onboard_time": 1693534055,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313407,
+        "num": 263010,
+        "word": "和不舒服的人在一起会生病",
+        "onboard_time": 1693527698,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311544,
+        "num": 259623,
+        "word": "减肥为什么先养肝",
+        "onboard_time": 1693530033,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258063,
+        "num": 258063,
+        "word": "李东海李赫宰成立新公司",
+        "onboard_time": 1693527756,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248470,
+        "num": 248470,
+        "word": "陈卓璇这个牛仔裙有点东西",
+        "onboard_time": 1693532016,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245258,
+        "num": 245258,
+        "word": "深圳天气",
+        "onboard_time": 1693529975,
+        "rank": 26,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 242179,
+        "num": 242179,
+        "word": "王珞丹的马甲线",
+        "onboard_time": 1693532133,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239553,
+        "num": 239553,
+        "word": "这不是何群成晓诗婚后生活吗",
+        "onboard_time": 1693525591,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239317,
+        "num": 239317,
+        "word": "JYP大楼天花板破了漏水中",
+        "onboard_time": 1693528596,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355376,
+        "num": 239257,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1693534357,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271593,
+        "num": 239069,
+        "word": "旧照和现在长得一模一样的爱豆们",
+        "onboard_time": 1693534175,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238850,
+        "num": 238850,
+        "word": "特斯拉新款Model3价格",
+        "onboard_time": 1693534536,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 233968,
+        "num": 233968,
+        "word": "缅北电诈头目姐夫等225人被抓",
+        "onboard_time": 1693504759,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230739,
+        "num": 230739,
+        "word": "父辈的荣耀",
+        "onboard_time": 1693532556,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223861,
+        "num": 223861,
+        "word": "一路朝阳oe",
+        "onboard_time": 1693529915,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220930,
+        "num": 220930,
+        "word": "星空",
+        "onboard_time": 1693529736,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216261,
+        "num": 216261,
+        "word": "邓为玉兰花下的清冷氛围感",
+        "onboard_time": 1693528837,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208842,
+        "num": 208842,
+        "word": "女大学生被对面卧铺大叔多角度偷拍",
+        "onboard_time": 1693508894,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198319,
+        "num": 198319,
+        "word": "当社牛女孩和社恐男孩成了同桌",
+        "onboard_time": 1693534115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196215,
+        "num": 196215,
+        "word": "齐溪新片被逃犯骗婚21年",
+        "onboard_time": 1693534835,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195859,
+        "num": 195859,
+        "word": "声生不息港乐季2拟邀阵容",
+        "onboard_time": 1693524510,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176040,
+        "num": 176040,
+        "word": "奥本海默没拍的历史真相",
+        "onboard_time": 1693530573,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168644,
+        "num": 168644,
+        "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+        "onboard_time": 1693493259,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 166122,
+        "num": 166122,
+        "word": "iPhone15系列爆料",
+        "onboard_time": 1693491639,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162792,
+        "num": 162792,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157809,
+        "num": 157809,
+        "word": "奥本海默",
+        "onboard_time": 1693482156,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146751,
+        "num": 146751,
+        "word": "吴磊说骑行是我的生活",
+        "onboard_time": 1693535136,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146463,
+        "num": 146463,
+        "word": "山东开海在即14000艘渔船蓄势待发",
+        "onboard_time": 1693531654,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145991,
+        "num": 145991,
+        "word": "你能吃苦就会有吃不完的苦",
+        "onboard_time": 1693525950,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励安徽省潜山野寨中学新考取军校的同学们#"
+    }
+  }
+}
