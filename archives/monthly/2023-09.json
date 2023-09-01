@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693571507312,
+  "endTime": 1693572495836,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -41,6 +41,14 @@
       "onboard_time": 1693560341,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2828422,
+      "num": 2828422,
+      "word": "徐良 淘汰",
+      "onboard_time": 1693570720,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2730370,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1591275,
+      "num": 1591275,
+      "word": "航空公司向李惠利道歉",
+      "onboard_time": 1693568798,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1504183,
       "num": 1504183,
       "word": "台风苏拉路径又变了",
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1431280,
-      "num": 548234,
-      "word": "航空公司向李惠利道歉",
-      "onboard_time": 1693568798,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1429671,
       "num": 1429671,
       "word": "折腰",
@@ -217,14 +225,6 @@
       "onboard_time": 1693527874,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1295321,
-      "num": 1295321,
-      "word": "徐良 淘汰",
-      "onboard_time": 1693570720,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1240350,
@@ -265,6 +265,14 @@
       "onboard_time": 1693549055,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1083199,
+      "num": 1083199,
+      "word": "台风路径",
+      "onboard_time": 1693570958,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1055874,
@@ -411,6 +419,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 806404,
+      "num": 618221,
+      "word": "杨紫发了麦承欢",
+      "onboard_time": 1693569696,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 796473,
       "num": 420752,
       "word": "外国人有多喜欢中国的手机壳",
@@ -432,22 +448,6 @@
       "word": "迎击台风苏拉",
       "onboard_time": 1693523784,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762837,
-      "num": 541147,
-      "word": "杨紫发了麦承欢",
-      "onboard_time": 1693569696,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 760772,
-      "num": 760772,
-      "word": "台风路径",
-      "onboard_time": 1693570958,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -587,6 +587,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 623381,
+      "num": 623381,
+      "word": "逃出大英博物馆玉壶原型制作者发声",
+      "onboard_time": 1693567957,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623191,
       "num": 402216,
       "word": "张远 没工作你试试",
@@ -656,6 +664,14 @@
       "word": "刘亦菲提名金熊猫奖最佳女主角",
       "onboard_time": 1693548877,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 566763,
+      "num": 566763,
+      "word": "骄阳伴我",
+      "onboard_time": 1693545341,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -755,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526410,
-      "num": 526410,
-      "word": "逃出大英博物馆玉壶原型制作者发声",
-      "onboard_time": 1693567957,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524892,
       "num": 524892,
       "word": "深圳全市将停课",
@@ -817,6 +825,14 @@
       "onboard_time": 1693542343,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 489667,
+      "num": 489667,
+      "word": "2023开学第一课",
+      "onboard_time": 1693571920,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 489271,
@@ -891,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467725,
+      "num": 467725,
+      "word": "快看今晚的月亮",
+      "onboard_time": 1693571318,
+      "rank": 37,
+      "category": "自然"
+    },
+    {
       "raw_hot": 466220,
       "num": 466220,
       "word": "红毯上的舒淇就没输过吧",
@@ -923,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453907,
+      "num": 453907,
+      "word": "白敬亭虽迟但到的甜妹舞",
+      "onboard_time": 1693571378,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 452709,
       "num": 272436,
       "word": "女子假离婚后发现丈夫有孩子公婆也知情",
@@ -937,6 +969,14 @@
       "onboard_time": 1693543304,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443289,
+      "num": 443289,
+      "word": "情绪稳定的根本原因",
+      "onboard_time": 1693569337,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 440491,
@@ -955,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433600,
+      "num": 433600,
+      "word": "白羊座心软的神",
+      "onboard_time": 1693570477,
+      "rank": 26,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 432529,
       "num": 432529,
       "word": "九月各星座注意事项",
@@ -964,7 +1012,7 @@
     },
     {
       "raw_hot": 429978,
-      "num": 534237,
+      "num": 558397,
       "word": "苏拉的危险半圆将横扫香港和深圳",
       "onboard_time": 1693569276,
       "rank": 13,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1693525950,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 422303,
+      "num": 422303,
+      "word": "邓为茶朔洵跳楼名场面",
+      "onboard_time": 1693571616,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 420200,
@@ -1073,14 +1129,6 @@
       "onboard_time": 1693542703,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405859,
-      "num": 405859,
-      "word": "骄阳伴我",
-      "onboard_time": 1693545341,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 404131,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1693534055,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 375269,
-      "num": 375269,
-      "word": "情绪稳定的根本原因",
-      "onboard_time": 1693569337,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 374987,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1693552359,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 343111,
-      "num": 343111,
-      "word": "白羊座心软的神",
-      "onboard_time": 1693570477,
-      "rank": 26,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 342008,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1693534536,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 282048,
+      "num": 282048,
+      "word": "7年了狗狗还记得自己叫笨笨",
+      "onboard_time": 1693571259,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 272215,
@@ -1851,14 +1891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212743,
-      "num": 212743,
-      "word": "快看今晚的月亮",
-      "onboard_time": 1693571318,
-      "rank": 37,
-      "category": "自然"
-    },
-    {
       "raw_hot": 210862,
       "num": 210862,
       "word": "黄子弘凡成为你想成为的大人",
@@ -1964,7 +1996,7 @@
     },
     {
       "raw_hot": 204463,
-      "num": 204463,
+      "num": 207842,
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1693560521,
       "rank": 43,
@@ -2083,14 +2115,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 194280,
-      "num": 194280,
-      "word": "白敬亭虽迟但到的甜妹舞",
-      "onboard_time": 1693571378,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 194160,
       "num": 443690,
       "word": "老师我想请假去救个人",
@@ -2108,7 +2132,7 @@
     },
     {
       "raw_hot": 192194,
-      "num": 192194,
+      "num": 207408,
       "word": "极氪发布会",
       "onboard_time": 1693570418,
       "rank": 41,
@@ -2132,7 +2156,7 @@
     },
     {
       "raw_hot": 191281,
-      "num": 191281,
+      "num": 207638,
       "word": "刘诗诗沈月东方姐妹路透",
       "onboard_time": 1693570839,
       "rank": 42,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1693530573,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188982,
+      "num": 207705,
+      "word": "辛爽像是来乐队的夏天过冬",
+      "onboard_time": 1693572280,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 188056,
@@ -2251,14 +2283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175022,
-      "num": 175022,
-      "word": "7年了狗狗还记得自己叫笨笨",
-      "onboard_time": 1693571259,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174890,
       "num": 174890,
       "word": "田曦薇敖瑞鹏的身高差",
@@ -2272,6 +2296,14 @@
       "word": "孙阳 阿年只是第七个嫌疑人",
       "onboard_time": 1693565798,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168747,
+      "num": 207603,
+      "word": "张嘉倪新剧里好美",
+      "onboard_time": 1693572222,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -2289,6 +2321,14 @@
       "onboard_time": 1693565438,
       "rank": 44,
       "category": "其它"
+    },
+    {
+      "raw_hot": 164547,
+      "num": 207480,
+      "word": "张栋梁晒鬼脚梁的养成日记",
+      "onboard_time": 1693568615,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 164243,
@@ -2313,6 +2353,14 @@
       "onboard_time": 1693476760,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163271,
+      "num": 554104,
+      "word": "男子用14年为妻子写10万字护理日记",
+      "onboard_time": 1693569638,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162985,
@@ -2347,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159790,
+      "num": 207389,
+      "word": "悬溺的艺术感扑面而来",
+      "onboard_time": 1693572222,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159255,
       "num": 159255,
       "word": "开学第一天的各科老师",
@@ -2377,14 +2433,6 @@
       "onboard_time": 1693563938,
       "rank": 43,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 155174,
-      "num": 155174,
-      "word": "张栋梁晒鬼脚梁的养成日记",
-      "onboard_time": 1693568615,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 152812,
@@ -2555,14 +2603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108626,
-      "num": 527847,
-      "word": "男子用14年为妻子写10万字护理日记",
-      "onboard_time": 1693569638,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106639,
       "num": 317635,
       "word": "开学首日小学生霸气立下满分小目标",
@@ -2729,6 +2769,14 @@
       "onboard_time": 1693503619,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 43155,
+      "num": 1631499,
+      "word": "杭州亚运会游泳馆黑科技大揭秘",
+      "onboard_time": 1693571681,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41439,
