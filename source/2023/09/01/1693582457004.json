@@ -1,0 +1,410 @@
+{
+  "runTime": 1693582457004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1735672,
+        "num": 1735672,
+        "word": "深圳台风",
+        "onboard_time": 1693572879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1390684,
+        "num": 1390684,
+        "word": "徐良 淘汰",
+        "onboard_time": 1693570720,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42131,
+        "num": 1152505,
+        "word": "亚运会媒体中心可同时看九场比赛",
+        "onboard_time": 1693581462,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1140077,
+        "num": 1140077,
+        "word": "一路朝阳 烂尾",
+        "onboard_time": 1693574921,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1040459,
+        "num": 1040459,
+        "word": "骄阳伴我收视率",
+        "onboard_time": 1693575636,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 794177,
+        "num": 794177,
+        "word": "奥本海默高潮",
+        "onboard_time": 1693579962,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734673,
+        "num": 734673,
+        "word": "利息少了41万购房者激动得一夜没睡",
+        "onboard_time": 1693563159,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 706329,
+        "num": 706329,
+        "word": "黄宗泽哭了",
+        "onboard_time": 1693581039,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502398,
+        "num": 502398,
+        "word": "台风路径",
+        "onboard_time": 1693570958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476987,
+        "num": 476987,
+        "word": "3000多岁国宝曾差点被当废品卖掉",
+        "onboard_time": 1693579664,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372708,
+        "num": 472234,
+        "word": "母亲不堪家暴找人冒充走失儿子30年",
+        "onboard_time": 1693572699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702827,
+        "num": 464774,
+        "word": "火树 我给指条明路",
+        "onboard_time": 1693578341,
+        "rank": 11,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 702065,
+        "num": 463690,
+        "word": "林俊杰第一条微博就是胡彦斌",
+        "onboard_time": 1693580983,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683498,
+        "num": 457310,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 281940,
+        "num": 451962,
+        "word": "苏拉的危险半圆将横扫香港和深圳",
+        "onboard_time": 1693569276,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590802,
+        "num": 444978,
+        "word": "小夭 万般皆是命",
+        "onboard_time": 1693581462,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486028,
+        "num": 439276,
+        "word": "开端第二部",
+        "onboard_time": 1693560341,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485724,
+        "num": 428205,
+        "word": "肖战王琳新剧对手戏",
+        "onboard_time": 1693581639,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427602,
+        "num": 427602,
+        "word": "天狼星 天为首",
+        "onboard_time": 1693578221,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380858,
+        "num": 380858,
+        "word": "死刑犯最后一餐吃什么",
+        "onboard_time": 1693558359,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1096212,
+        "num": 379485,
+        "word": "11个月男婴全身淤青布满针眼惨死",
+        "onboard_time": 1693577562,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480723,
+        "num": 374340,
+        "word": "大张伟又cue易烊千玺了",
+        "onboard_time": 1693577741,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601659,
+        "num": 368618,
+        "word": "江浙沪包邮区包不住了",
+        "onboard_time": 1693579180,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502673,
+        "num": 363358,
+        "word": "谁家女主第一集就办离婚",
+        "onboard_time": 1693575460,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463407,
+        "num": 361284,
+        "word": "尤长靖是你想成为的大人吗",
+        "onboard_time": 1693581344,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 440610,
+        "num": 355198,
+        "word": "原来刘星才是第一个用蚂蚁花被的人",
+        "onboard_time": 1693578941,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422584,
+        "num": 349437,
+        "word": "黄子弘凡歌词",
+        "onboard_time": 1693572999,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348097,
+        "num": 348097,
+        "word": "情绪稳定的根本原因",
+        "onboard_time": 1693569337,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 313479,
+        "num": 313479,
+        "word": "九尾直播",
+        "onboard_time": 1693580564,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278910,
+        "num": 278910,
+        "word": "萌娃入园3天学做饭根本没时间哭",
+        "onboard_time": 1693577080,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385900,
+        "num": 277161,
+        "word": "基本每年一部爆剧的演员",
+        "onboard_time": 1693560280,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364892,
+        "num": 273739,
+        "word": "大张伟一边蹦一边哭",
+        "onboard_time": 1693581702,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316497,
+        "num": 271922,
+        "word": "HYBE新女团出道名单",
+        "onboard_time": 1693579841,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310300,
+        "num": 270895,
+        "word": "航空公司向李惠利道歉",
+        "onboard_time": 1693568798,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268421,
+        "num": 268421,
+        "word": "日本出现大量巨型蛾子布满街道",
+        "onboard_time": 1693549055,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297017,
+        "num": 265570,
+        "word": "贝儿是吞了只百灵鸟吗",
+        "onboard_time": 1693579304,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260829,
+        "num": 260829,
+        "word": "空姐丸子头",
+        "onboard_time": 1693581879,
+        "rank": 36,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 246929,
+        "num": 246929,
+        "word": "苏拉或成1949年以来登陆珠三角最强台风",
+        "onboard_time": 1693569219,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228714,
+        "num": 246079,
+        "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+        "onboard_time": 1693548635,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177027,
+        "num": 245459,
+        "word": "司机集体闯红灯却被交警点赞",
+        "onboard_time": 1693576839,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242762,
+        "num": 244775,
+        "word": "微信文件可撤回三小时内消息",
+        "onboard_time": 1693559379,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 283543,
+        "num": 243957,
+        "word": "小舟从此逝 江海寄余生",
+        "onboard_time": 1693573180,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278987,
+        "num": 243110,
+        "word": "八仙饭店 改编",
+        "onboard_time": 1693582181,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253166,
+        "num": 241888,
+        "word": "沈梦辰穿了茜茜公主最爱的紫色",
+        "onboard_time": 1693582362,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 241490,
+        "num": 241490,
+        "word": "Lady Dior活动",
+        "onboard_time": 1693580683,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238794,
+        "num": 238794,
+        "word": "白敬亭虽迟但到的甜妹舞",
+        "onboard_time": 1693571378,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174302,
+        "num": 238597,
+        "word": "警方辟谣曾志伟被带走调查",
+        "onboard_time": 1693568977,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 157880,
+        "num": 238371,
+        "word": "广州TTG重回总决赛",
+        "onboard_time": 1693577562,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148026,
+        "num": 237938,
+        "word": "白羊座心软的神",
+        "onboard_time": 1693570477,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 147943,
+        "num": 237775,
+        "word": "被九岁小朋友的便贴可爱到了",
+        "onboard_time": 1693582122,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军需要一批又一批有志青年接续奋斗#"
+    }
+  }
+}

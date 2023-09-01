@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693581428484,
+  "endTime": 1693582457004,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -819,8 +819,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1721936,
-      "num": 1721936,
+      "raw_hot": 1735672,
+      "num": 1735672,
       "word": "深圳台风",
       "onboard_time": 1693467941,
       "rank": 33,
@@ -2203,20 +2203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 794177,
+      "num": 794177,
+      "word": "奥本海默高潮",
+      "onboard_time": 1693579962,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 784919,
       "num": 736739,
       "word": "ins全球影响力TOP100",
       "onboard_time": 1693216059,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 780612,
-      "num": 780612,
-      "word": "奥本海默高潮",
-      "onboard_time": 1693579962,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 779552,
@@ -2555,6 +2555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 706329,
+      "num": 706329,
+      "word": "黄宗泽哭了",
+      "onboard_time": 1693581039,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705527,
       "num": 392220,
       "word": "白百何把肖战的痣看成了芝麻",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1693178186,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 702065,
+      "num": 463690,
+      "word": "林俊杰第一条微博就是胡彦斌",
+      "onboard_time": 1693580983,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 701859,
@@ -3329,6 +3345,14 @@
       "onboard_time": 1693462180,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590802,
+      "num": 444978,
+      "word": "小夭 万般皆是命",
+      "onboard_time": 1693581462,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 585627,
@@ -4227,6 +4251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485724,
+      "num": 428205,
+      "word": "肖战王琳新剧对手戏",
+      "onboard_time": 1693581639,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480516,
       "num": 480516,
       "word": "逃出大英博物馆预告片",
@@ -4433,6 +4465,14 @@
       "onboard_time": 1693459544,
       "rank": 41,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 463407,
+      "num": 361284,
+      "word": "尤长靖是你想成为的大人吗",
+      "onboard_time": 1693581344,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 462797,
@@ -5867,6 +5907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364892,
+      "num": 273739,
+      "word": "大张伟一边蹦一边哭",
+      "onboard_time": 1693581702,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364457,
       "num": 364457,
       "word": "珠海台风",
@@ -6267,14 +6315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 347757,
-      "num": 319587,
-      "word": "黄宗泽哭了",
-      "onboard_time": 1693581039,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346963,
       "num": 346963,
       "word": "i人喜欢和一些陌生人社交",
@@ -6537,14 +6577,6 @@
       "onboard_time": 1693292557,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 334697,
-      "num": 313161,
-      "word": "林俊杰第一条微博就是胡彦斌",
-      "onboard_time": 1693580983,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 334024,
@@ -7947,6 +7979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278987,
+      "num": 243110,
+      "word": "八仙饭店 改编",
+      "onboard_time": 1693582181,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278807,
       "num": 273331,
       "word": "恋人来来去去 朋友永远是朋友",
@@ -8435,6 +8475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260829,
+      "num": 260829,
+      "word": "空姐丸子头",
+      "onboard_time": 1693581879,
+      "rank": 36,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 260611,
       "num": 260611,
       "word": "幼儿园开家长会设置自我介绍环节",
@@ -8617,6 +8665,14 @@
       "onboard_time": 1693477178,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253166,
+      "num": 241888,
+      "word": "沈梦辰穿了茜茜公主最爱的紫色",
+      "onboard_time": 1693582362,
+      "rank": 43,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 252838,
@@ -9064,6 +9120,14 @@
       "word": "王珞丹的马甲线",
       "onboard_time": 1693532133,
       "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 241490,
+      "num": 241490,
+      "word": "Lady Dior活动",
+      "onboard_time": 1693580683,
+      "rank": 44,
       "category": "作品衍生,时尚"
     },
     {
@@ -9624,14 +9688,6 @@
       "word": "周柏豪演唱会",
       "onboard_time": 1693198660,
       "rank": 36,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 223258,
-      "num": 223258,
-      "word": "尤长靖是你想成为的大人吗",
-      "onboard_time": 1693581344,
-      "rank": 46,
       "category": "音乐"
     },
     {
@@ -12443,6 +12499,14 @@
       "category": "网红,游戏"
     },
     {
+      "raw_hot": 147943,
+      "num": 237775,
+      "word": "被九岁小朋友的便贴可爱到了",
+      "onboard_time": 1693582122,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146965,
       "num": 146965,
       "word": "芭比粉奶奶成广场舞坛新顶流",
@@ -13521,6 +13585,14 @@
       "onboard_time": 1693420217,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 42131,
+      "num": 1152505,
+      "word": "亚运会媒体中心可同时看九场比赛",
+      "onboard_time": 1693581462,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 41648,
