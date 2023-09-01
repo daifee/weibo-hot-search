@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693535174542,
+  "endTime": 1693535804057,
   "band_list": [
     {
       "raw_hot": 5262598,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 907735,
-      "num": 410882,
+      "num": 429370,
       "word": "宋祖儿",
       "onboard_time": 1693445614,
       "rank": 11,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 683765,
-      "num": 268178,
+      "num": 312134,
       "word": "女子剖宫产手术纱布遗漏体内14年",
       "onboard_time": 1693531834,
       "rank": 31,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502242,
+      "num": 502242,
+      "word": "脑梗最快急救方法",
+      "onboard_time": 1693534357,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452709,
       "num": 272436,
       "word": "女子假离婚后发现丈夫有孩子公婆也知情",
@@ -289,6 +297,14 @@
       "onboard_time": 1693488761,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 429367,
+      "num": 429367,
+      "word": "TaylorSwift巡演电影预告片释出",
+      "onboard_time": 1693533817,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 428385,
@@ -315,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 416695,
-      "num": 416695,
-      "word": "TaylorSwift巡演电影预告片释出",
-      "onboard_time": 1693533817,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 415346,
       "num": 263380,
       "word": "演员就该于适这样啊",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 414854,
-      "num": 458000,
+      "num": 480415,
       "word": "大学生请假捐造血干细胞救助患者",
       "onboard_time": 1693528418,
       "rank": 13,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377577,
+      "num": 309146,
+      "word": "用过这书皮的人都长大了吧",
+      "onboard_time": 1693534055,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 371878,
       "num": 371878,
       "word": "声生不息港乐季2拟邀阵容",
@@ -379,14 +395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 355376,
-      "num": 239257,
-      "word": "脑梗最快急救方法",
-      "onboard_time": 1693534357,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347854,
       "num": 337672,
       "word": "减肥为什么先养肝",
@@ -401,14 +409,6 @@
       "onboard_time": 1693531232,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332744,
-      "num": 265531,
-      "word": "用过这书皮的人都长大了吧",
-      "onboard_time": 1693534055,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 328681,
@@ -483,6 +483,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 282932,
+      "num": 282932,
+      "word": "特斯拉新款Model3价格",
+      "onboard_time": 1693534536,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 272539,
+      "num": 272539,
+      "word": "丈夫去世后女子自驾9万公里游遍中国",
+      "onboard_time": 1693535195,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272215,
       "num": 254796,
       "word": "男朋友以为是造型拍了下来",
@@ -492,11 +508,19 @@
     },
     {
       "raw_hot": 271593,
-      "num": 239069,
+      "num": 263942,
       "word": "旧照和现在长得一模一样的爱豆们",
       "onboard_time": 1693534175,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267558,
+      "num": 267558,
+      "word": "齐溪新片被逃犯骗婚21年",
+      "onboard_time": 1693534835,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 261686,
@@ -563,14 +587,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 238850,
-      "num": 238850,
-      "word": "特斯拉新款Model3价格",
-      "onboard_time": 1693534536,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 233524,
       "num": 233524,
       "word": "山东开海在即14000艘渔船蓄势待发",
@@ -603,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224416,
+      "num": 224416,
+      "word": "费翔通宵翻译封神英文字幕",
+      "onboard_time": 1693535376,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223677,
       "num": 257539,
       "word": "虞书欣点了东北黏糊麻辣烫",
@@ -617,6 +641,14 @@
       "onboard_time": 1693523064,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218912,
+      "num": 218912,
+      "word": "吴磊说骑行是我的生活",
+      "onboard_time": 1693535136,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 214689,
@@ -659,20 +691,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198319,
-      "num": 198319,
+      "raw_hot": 200636,
+      "num": 200636,
       "word": "当社牛女孩和社恐男孩成了同桌",
       "onboard_time": 1693534115,
       "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196215,
-      "num": 196215,
-      "word": "齐溪新片被逃犯骗婚21年",
-      "onboard_time": 1693534835,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 196660,
+      "num": 196660,
+      "word": "i人无痛装e教程",
+      "onboard_time": 1693535435,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 195012,
@@ -763,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162985,
+      "num": 162985,
+      "word": "德云社演出节目单",
+      "onboard_time": 1693535736,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162338,
       "num": 162338,
       "word": "蔡老板被封号",
@@ -825,14 +865,6 @@
       "onboard_time": 1693524326,
       "rank": 33,
       "category": "网红,游戏"
-    },
-    {
-      "raw_hot": 146751,
-      "num": 146751,
-      "word": "吴磊说骑行是我的生活",
-      "onboard_time": 1693535136,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 146373,

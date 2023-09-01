@@ -1,0 +1,410 @@
+{
+  "runTime": 1693535804057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5131860,
+        "num": 5131860,
+        "word": "各大卫视删除宋祖儿相关微博",
+        "onboard_time": 1693531355,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 991315,
+        "num": 991315,
+        "word": "七险三金多了哪两险哪两金",
+        "onboard_time": 1693526795,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20840,
+        "num": 711156,
+        "word": "砺志逐梦正当时",
+        "onboard_time": 1693493739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1737700,
+        "num": 685446,
+        "word": "乌尔善 内娱徒手整形第一人",
+        "onboard_time": 1693533037,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 604993,
+        "num": 604993,
+        "word": "2023年小学入学人数达近年峰值",
+        "onboard_time": 1693532618,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 601084,
+        "num": 601084,
+        "word": "特斯拉Model3",
+        "onboard_time": 1693527874,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563646,
+        "num": 563646,
+        "word": "迎击台风苏拉",
+        "onboard_time": 1693523784,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553781,
+        "num": 553781,
+        "word": "网友许愿的综艺拍出来了",
+        "onboard_time": 1693527996,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547087,
+        "num": 547087,
+        "word": "存量房贷",
+        "onboard_time": 1693532917,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 544668,
+        "num": 544668,
+        "word": "莲花楼番外 找到你了",
+        "onboard_time": 1693531113,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1072771,
+        "num": 541953,
+        "word": "大学生酒后欲强暴女同学被宾馆老板制止",
+        "onboard_time": 1693497155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531435,
+        "num": 531435,
+        "word": "新疆三文鱼喜获丰收",
+        "onboard_time": 1693527214,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 502242,
+        "num": 502242,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1693534357,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481295,
+        "num": 481295,
+        "word": "谢娜希望苏可以后少拍一点意难平的戏",
+        "onboard_time": 1693533397,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188371,
+        "num": 480415,
+        "word": "大学生请假捐造血干细胞救助患者",
+        "onboard_time": 1693528418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480233,
+        "num": 480233,
+        "word": "曾黎到底有多少好看的耳饰",
+        "onboard_time": 1693531895,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 429370,
+        "num": 429370,
+        "word": "宋祖儿",
+        "onboard_time": 1693445614,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429367,
+        "num": 429367,
+        "word": "TaylorSwift巡演电影预告片释出",
+        "onboard_time": 1693533817,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337677,
+        "num": 337677,
+        "word": "民警1小时找回被盗金手镯女子笑到起飞",
+        "onboard_time": 1693527819,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322300,
+        "num": 322300,
+        "word": "深圳地铁",
+        "onboard_time": 1693531232,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653259,
+        "num": 312134,
+        "word": "女子剖宫产手术纱布遗漏体内14年",
+        "onboard_time": 1693531834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377577,
+        "num": 309146,
+        "word": "用过这书皮的人都长大了吧",
+        "onboard_time": 1693534055,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282932,
+        "num": 282932,
+        "word": "特斯拉新款Model3价格",
+        "onboard_time": 1693534536,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 277161,
+        "num": 277161,
+        "word": "减肥为什么先养肝",
+        "onboard_time": 1693530033,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272539,
+        "num": 272539,
+        "word": "丈夫去世后女子自驾9万公里游遍中国",
+        "onboard_time": 1693535195,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267558,
+        "num": 267558,
+        "word": "齐溪新片被逃犯骗婚21年",
+        "onboard_time": 1693534835,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263942,
+        "num": 263942,
+        "word": "旧照和现在长得一模一样的爱豆们",
+        "onboard_time": 1693534175,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256018,
+        "num": 256018,
+        "word": "华为Mate60Pro+",
+        "onboard_time": 1693487679,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 254410,
+        "num": 254410,
+        "word": "和不舒服的人在一起会生病",
+        "onboard_time": 1693527698,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233439,
+        "num": 233439,
+        "word": "王珞丹的马甲线",
+        "onboard_time": 1693532133,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230781,
+        "num": 230781,
+        "word": "JYP大楼天花板破了漏水中",
+        "onboard_time": 1693528596,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225279,
+        "num": 225279,
+        "word": "深圳天气",
+        "onboard_time": 1693529975,
+        "rank": 31,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 224416,
+        "num": 224416,
+        "word": "费翔通宵翻译封神英文字幕",
+        "onboard_time": 1693535376,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218912,
+        "num": 218912,
+        "word": "吴磊说骑行是我的生活",
+        "onboard_time": 1693535136,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218652,
+        "num": 218652,
+        "word": "缅北电诈头目姐夫等225人被抓",
+        "onboard_time": 1693504759,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217154,
+        "num": 217154,
+        "word": "陈卓璇这个牛仔裙有点东西",
+        "onboard_time": 1693532016,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215706,
+        "num": 215706,
+        "word": "李东海李赫宰成立新公司",
+        "onboard_time": 1693527756,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214282,
+        "num": 214282,
+        "word": "这不是何群成晓诗婚后生活吗",
+        "onboard_time": 1693525591,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207944,
+        "num": 207944,
+        "word": "一路朝阳oe",
+        "onboard_time": 1693529915,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202755,
+        "num": 202755,
+        "word": "父辈的荣耀",
+        "onboard_time": 1693532556,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200636,
+        "num": 200636,
+        "word": "当社牛女孩和社恐男孩成了同桌",
+        "onboard_time": 1693534115,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199542,
+        "num": 199542,
+        "word": "声生不息港乐季2拟邀阵容",
+        "onboard_time": 1693524510,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198110,
+        "num": 198110,
+        "word": "邓为玉兰花下的清冷氛围感",
+        "onboard_time": 1693528837,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196660,
+        "num": 196660,
+        "word": "i人无痛装e教程",
+        "onboard_time": 1693535435,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174846,
+        "num": 174846,
+        "word": "星空",
+        "onboard_time": 1693529736,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164884,
+        "num": 164884,
+        "word": "女大学生被对面卧铺大叔多角度偷拍",
+        "onboard_time": 1693508894,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162985,
+        "num": 162985,
+        "word": "德云社演出节目单",
+        "onboard_time": 1693535736,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161416,
+        "num": 161416,
+        "word": "虞书欣点了东北黏糊麻辣烫",
+        "onboard_time": 1693486115,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154444,
+        "num": 154444,
+        "word": "iPhone15系列爆料",
+        "onboard_time": 1693491639,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151104,
+        "num": 151104,
+        "word": "女子假离婚后发现丈夫有孩子公婆也知情",
+        "onboard_time": 1693493259,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励安徽省潜山野寨中学新考取军校的同学们#"
+    }
+  }
+}
