@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693545341082,
+  "endTime": 1693546433316,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -1155,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1136235,
+      "num": 1136235,
+      "word": "陆毅rap对我眼睛很友好",
+      "onboard_time": 1693544743,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1130767,
       "num": 1130767,
       "word": "苹果iPhone15系列价格",
@@ -1699,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854852,
+      "num": 854852,
+      "word": "男生上门订婚准备了24束花",
+      "onboard_time": 1693545161,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853381,
       "num": 782459,
       "word": "华为Mate60Pro体验",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1693314342,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 756434,
+      "num": 756434,
+      "word": "没有中国人笑着走出大英博物馆",
+      "onboard_time": 1693543723,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755112,
@@ -2763,14 +2787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 608104,
-      "num": 608104,
-      "word": "没有中国人笑着走出大英博物馆",
-      "onboard_time": 1693543723,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 607985,
       "num": 607985,
       "word": "西安五月天",
@@ -2859,14 +2875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 596083,
-      "num": 596083,
-      "word": "陆毅rap对我眼睛很友好",
-      "onboard_time": 1693544743,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 594927,
       "num": 315154,
       "word": "原来捧杀才是最好的必杀技",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1693461581,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 575540,
+      "num": 575540,
+      "word": "原来张栋梁之前就是唱跳歌手",
+      "onboard_time": 1693545341,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 575384,
@@ -3595,6 +3611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 498628,
+      "num": 498628,
+      "word": "B太 海鲜市场还会有做鬼的吗",
+      "onboard_time": 1693543122,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 498570,
       "num": 498570,
       "word": "邓为新剧大婚路透图",
@@ -3697,6 +3721,14 @@
       "onboard_time": 1693197881,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480143,
+      "num": 387887,
+      "word": "男生车祸失去右臂欲分手女友骂好傻",
+      "onboard_time": 1693544922,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 479556,
@@ -4427,12 +4459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412924,
-      "num": 348470,
-      "word": "B太 海鲜市场还会有做鬼的吗",
-      "onboard_time": 1693543122,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 412692,
+      "num": 412692,
+      "word": "丫丫吃笋像在耍金箍棒",
+      "onboard_time": 1693543903,
+      "rank": 26,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 409908,
@@ -4571,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401070,
+      "num": 401070,
+      "word": "六公主十一首播人生大事",
+      "onboard_time": 1693545639,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400841,
       "num": 400841,
       "word": "如果一辈子都租房的话",
@@ -4601,14 +4641,6 @@
       "onboard_time": 1693191213,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399857,
-      "num": 399857,
-      "word": "丫丫吃笋像在耍金箍棒",
-      "onboard_time": 1693543903,
-      "rank": 26,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 399654,
@@ -5795,14 +5827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328291,
-      "num": 328291,
-      "word": "男生车祸失去右臂欲分手女友骂好傻",
-      "onboard_time": 1693544922,
-      "rank": 33,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 328229,
       "num": 328229,
       "word": "易梦玲穿旗袍跳舞",
@@ -5824,6 +5848,14 @@
       "word": "一路朝阳oe",
       "onboard_time": 1693529915,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327641,
+      "num": 327641,
+      "word": "张晚意背德男主",
+      "onboard_time": 1693545758,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -5905,6 +5937,14 @@
       "onboard_time": 1693318545,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324592,
+      "num": 324592,
+      "word": "狗狗真心的守护却换来了剃毛",
+      "onboard_time": 1693544562,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 323442,
@@ -6297,6 +6337,14 @@
       "onboard_time": 1693318366,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303573,
+      "num": 303573,
+      "word": "王鹤棣平时都是破坏感",
+      "onboard_time": 1693544081,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 303404,
@@ -6787,14 +6835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285230,
-      "num": 285230,
-      "word": "狗狗真心的守护却换来了剃毛",
-      "onboard_time": 1693544562,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 285138,
       "num": 285138,
       "word": "陈奕迅上海演唱会",
@@ -7065,14 +7105,6 @@
       "onboard_time": 1693286677,
       "rank": 32,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 275466,
-      "num": 275466,
-      "word": "王鹤棣平时都是破坏感",
-      "onboard_time": 1693544081,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 274894,
@@ -8163,14 +8195,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 234845,
-      "num": 234845,
-      "word": "男生上门订婚准备了24束花",
-      "onboard_time": 1693545161,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234779,
       "num": 199559,
       "word": "孙阳 欲望如同沼泽",
@@ -8931,6 +8955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208107,
+      "num": 208107,
+      "word": "王心凌新专",
+      "onboard_time": 1693545942,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208072,
       "num": 208072,
       "word": "中国记者就大英博物馆丢文物犀利提问",
@@ -9121,6 +9153,14 @@
       "onboard_time": 1693216898,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203779,
+      "num": 203779,
+      "word": "汪苏泷探班徐良",
+      "onboard_time": 1693546299,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203755,
@@ -11083,6 +11123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138269,
+      "num": 205950,
+      "word": "哈尔滨麻酱砂锅面",
+      "onboard_time": 1693543544,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138191,
       "num": 138191,
       "word": "七时吉祥捅了哈基米的窝了",
@@ -11145,14 +11193,6 @@
       "onboard_time": 1693351709,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133317,
-      "num": 205950,
-      "word": "哈尔滨麻酱砂锅面",
-      "onboard_time": 1693543544,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 133009,
@@ -11321,6 +11361,14 @@
       "onboard_time": 1693141117,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115747,
+      "num": 191542,
+      "word": "饮月苍龙出水",
+      "onboard_time": 1693545639,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 115137,
@@ -11760,6 +11808,14 @@
       "word": "韩国渔民心灰意冷",
       "onboard_time": 1693242863,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68374,
+      "num": 551631,
+      "word": "依法打击邪教观音法门",
+      "onboard_time": 1693545758,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
