@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693610153201,
+  "endTime": 1693611228317,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916169,
+      "num": 916169,
+      "word": "公司对账差1分出动5名会计帮核对",
+      "onboard_time": 1693605376,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 907735,
       "num": 429370,
       "word": "宋祖儿",
@@ -473,14 +481,6 @@
       "onboard_time": 1693545161,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859781,
-      "num": 859781,
-      "word": "公司对账差1分出动5名会计帮核对",
-      "onboard_time": 1693605376,
-      "rank": 15,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 855476,
@@ -841,6 +841,14 @@
       "onboard_time": 1693571318,
       "rank": 37,
       "category": "自然"
+    },
+    {
+      "raw_hot": 571309,
+      "num": 571309,
+      "word": "官方称天津大爷跳水的8A级水域禁止游泳",
+      "onboard_time": 1693607838,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566743,
@@ -1355,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413937,
+      "num": 252543,
+      "word": "美国77岁男子靠铁肺生活70年",
+      "onboard_time": 1693609283,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412692,
       "num": 466288,
       "word": "丫丫吃笋像在耍金箍棒",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1693534055,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 377480,
-      "num": 199798,
-      "word": "官方称天津大爷跳水的8A级水域禁止游泳",
-      "onboard_time": 1693607838,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374987,
@@ -2203,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237424,
+      "num": 150045,
+      "word": "宫颈切除10余年却查出宫颈癌中晚期",
+      "onboard_time": 1693610726,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236430,
       "num": 551631,
       "word": "依法打击邪教观音法门",
@@ -2595,6 +2611,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 195340,
+      "num": 172393,
+      "word": "费翔 爱一个人其实是爱上她的缺点",
+      "onboard_time": 1693592119,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195012,
       "num": 195012,
       "word": "捡了东西的狼",
@@ -2617,14 +2641,6 @@
       "onboard_time": 1693580439,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 193027,
-      "num": 193027,
-      "word": "美国77岁男子靠铁肺生活70年",
-      "onboard_time": 1693609283,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192486,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1693530573,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190014,
+      "num": 166438,
+      "word": "做着想死的工作居然是为了谋生",
+      "onboard_time": 1693608801,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 188982,
@@ -2817,14 +2841,6 @@
       "onboard_time": 1693565798,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172393,
-      "num": 172393,
-      "word": "费翔 爱一个人其实是爱上她的缺点",
-      "onboard_time": 1693592119,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 168092,
@@ -3123,14 +3139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120365,
-      "num": 120365,
-      "word": "做着想死的工作居然是为了谋生",
-      "onboard_time": 1693608801,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "灯塔2023暑期档剧集榜单",
@@ -3145,6 +3153,14 @@
       "onboard_time": 1693545639,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113220,
+      "num": 113220,
+      "word": "小朋友闯入比赛场地被红牌罚下",
+      "onboard_time": 1693607899,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 113202,
@@ -3203,20 +3219,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97389,
+      "num": 97389,
+      "word": "七时吉祥8月最热神话剧",
+      "onboard_time": 1693597694,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96710,
       "num": 104606,
       "word": "京城大师赛",
       "onboard_time": 1693586371,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92609,
-      "num": 92609,
-      "word": "小朋友闯入比赛场地被红牌罚下",
-      "onboard_time": 1693607899,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 91486,
@@ -3267,6 +3283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85889,
+      "num": 238923,
+      "word": "深圳发布台风红色预警",
+      "onboard_time": 1693595596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84397,
+      "num": 97345,
+      "word": "张之臻止步美网32强",
+      "onboard_time": 1693611146,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83253,
       "num": 731276,
       "word": "浙江临海种出2米高巨型水稻",
@@ -3288,22 +3320,6 @@
       "word": "杭州亚运会游泳馆黑科技大揭秘",
       "onboard_time": 1693571681,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79198,
-      "num": 79198,
-      "word": "七时吉祥8月最热神话剧",
-      "onboard_time": 1693597694,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 73612,
-      "num": 195591,
-      "word": "深圳发布台风红色预警",
-      "onboard_time": 1693595596,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
