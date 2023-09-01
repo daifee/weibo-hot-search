@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693535804057,
+  "endTime": 1693538257866,
   "band_list": [
     {
       "raw_hot": 5262598,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1751394,
-      "num": 754738,
+      "num": 768271,
       "word": "乌尔善 内娱徒手整形第一人",
       "onboard_time": 1693533037,
       "rank": 3,
@@ -49,6 +49,14 @@
       "onboard_time": 1693498533,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1076325,
+      "num": 1076325,
+      "word": "幼升小三大件花费近3000元",
+      "onboard_time": 1693535859,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 995522,
@@ -123,6 +131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 727485,
+      "num": 727485,
+      "word": "2024鹅厂片单",
+      "onboard_time": 1693537294,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 720877,
       "num": 720877,
       "word": "iPhone15系列爆料",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 683765,
-      "num": 312134,
+      "num": 332749,
       "word": "女子剖宫产手术纱布遗漏体内14年",
       "onboard_time": 1693531834,
       "rank": 31,
@@ -145,6 +161,14 @@
       "onboard_time": 1693479996,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 651007,
+      "num": 342752,
+      "word": "23岁女子自曝遭夫妻两人殴打扒衣",
+      "onboard_time": 1693536335,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626182,
@@ -161,6 +185,14 @@
       "onboard_time": 1693532618,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 623191,
+      "num": 337222,
+      "word": "张远 没工作你试试",
+      "onboard_time": 1693536212,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 623104,
@@ -201,6 +233,22 @@
       "onboard_time": 1693494103,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 556433,
+      "num": 556433,
+      "word": "丈夫去世后女子自驾9万公里游遍中国",
+      "onboard_time": 1693535195,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553198,
+      "num": 553198,
+      "word": "李莲花真婆娑步",
+      "onboard_time": 1693535976,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 549824,
@@ -283,12 +331,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 446688,
+      "num": 446688,
+      "word": "前任4孟云林佳体面告别",
+      "onboard_time": 1693537174,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440491,
       "num": 440491,
       "word": "100万存量房贷每年可省5000多元利息",
       "onboard_time": 1693525591,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 439139,
+      "num": 439139,
+      "word": "费翔通宵翻译封神英文字幕",
+      "onboard_time": 1693535376,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 432529,
@@ -387,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362321,
+      "num": 329316,
+      "word": "i人无痛装e教程",
+      "onboard_time": 1693535435,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355846,
       "num": 337839,
       "word": "和不舒服的人在一起会生病",
@@ -451,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 296820,
+      "num": 296820,
+      "word": "我知道我爱你",
+      "onboard_time": 1693537896,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289613,
       "num": 289613,
       "word": "星空",
@@ -491,14 +571,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 272539,
-      "num": 272539,
-      "word": "丈夫去世后女子自驾9万公里游遍中国",
-      "onboard_time": 1693535195,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272215,
       "num": 254796,
       "word": "男朋友以为是造型拍了下来",
@@ -513,6 +585,14 @@
       "onboard_time": 1693534175,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268977,
+      "num": 268977,
+      "word": "黄子韬嘴在前面飞脑子在后面追",
+      "onboard_time": 1693536815,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 267558,
@@ -545,6 +625,14 @@
       "onboard_time": 1693492179,
       "rank": 18,
       "category": "美妆,影视"
+    },
+    {
+      "raw_hot": 252838,
+      "num": 252838,
+      "word": "吴磊说骑行是我的生活",
+      "onboard_time": 1693535136,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 249975,
@@ -595,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232170,
+      "num": 232170,
+      "word": "骄阳伴我充充冲冲版预告",
+      "onboard_time": 1693536513,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232050,
       "num": 214796,
       "word": "第一次不想让男女主谈恋爱",
@@ -619,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224416,
-      "num": 224416,
-      "word": "费翔通宵翻译封神英文字幕",
-      "onboard_time": 1693535376,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223677,
       "num": 257539,
       "word": "虞书欣点了东北黏糊麻辣烫",
@@ -643,20 +731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218912,
-      "num": 218912,
-      "word": "吴磊说骑行是我的生活",
-      "onboard_time": 1693535136,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214689,
       "num": 214689,
       "word": "魏哲鸣披荆斩棘repo只有一个字",
       "onboard_time": 1693529257,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210862,
+      "num": 210862,
+      "word": "黄子弘凡成为你想成为的大人",
+      "onboard_time": 1693537896,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 210777,
@@ -683,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205145,
+      "num": 205145,
+      "word": "周冬雨新片玩复仇高端局",
+      "onboard_time": 1693536694,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203397,
       "num": 253830,
       "word": "9月第一天",
@@ -697,14 +793,6 @@
       "onboard_time": 1693534115,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196660,
-      "num": 196660,
-      "word": "i人无痛装e教程",
-      "onboard_time": 1693535435,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 195012,
@@ -755,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186125,
+      "num": 186125,
+      "word": "骄阳伴我开通角色号",
+      "onboard_time": 1693537536,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182790,
       "num": 182790,
       "word": "遥遥领先",
@@ -763,12 +859,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180732,
+      "num": 180732,
+      "word": "这就是淡颜撕漫感吧",
+      "onboard_time": 1693536395,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176553,
       "num": 176553,
       "word": "诺兰的拍摄手法有多绝",
       "onboard_time": 1693531534,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175240,
+      "num": 175240,
+      "word": "同事离职后的电脑屏保",
+      "onboard_time": 1693538017,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 174890,
@@ -889,6 +1001,14 @@
       "onboard_time": 1693501284,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136992,
+      "num": 162359,
+      "word": "中国驻日使馆披露被骚扰细节",
+      "onboard_time": 1693538196,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135878,
