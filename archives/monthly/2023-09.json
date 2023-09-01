@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693575234199,
+  "endTime": 1693577741379,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2085404,
+      "num": 2085404,
+      "word": "一路朝阳 烂尾",
+      "onboard_time": 1693574921,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2081539,
+      "num": 597046,
+      "word": "母亲不堪家暴找人冒充走失儿子30年",
+      "onboard_time": 1693572699,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1994585,
       "num": 1994585,
       "word": "庆余年2首支预告",
@@ -139,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1693436,
-      "num": 597046,
-      "word": "母亲不堪家暴找人冒充走失儿子30年",
-      "onboard_time": 1693572699,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1674291,
+      "num": 1674291,
+      "word": "骄阳伴我收视率",
+      "onboard_time": 1693575636,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1663551,
@@ -313,6 +329,14 @@
       "onboard_time": 1693538017,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1024100,
+      "num": 439278,
+      "word": "谁家女主第一集就办离婚",
+      "onboard_time": 1693575460,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1014155,
@@ -819,12 +843,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 520801,
+      "num": 520801,
+      "word": "狼队运营",
+      "onboard_time": 1693576000,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 519808,
       "num": 519808,
       "word": "曾黎到底有多少好看的耳饰",
       "onboard_time": 1693531895,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 518455,
+      "num": 518455,
+      "word": "香港台风",
+      "onboard_time": 1693572637,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511295,
@@ -865,6 +905,14 @@
       "onboard_time": 1693542343,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495558,
+      "num": 495558,
+      "word": "小舟从此逝 江海寄余生",
+      "onboard_time": 1693573180,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 489667,
@@ -1019,6 +1067,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 439302,
+      "num": 439302,
+      "word": "广州TTG重回总决赛",
+      "onboard_time": 1693577562,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 439139,
       "num": 439139,
       "word": "费翔通宵翻译封神英文字幕",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1693570477,
       "rank": 26,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 433004,
-      "num": 433004,
-      "word": "一路朝阳 烂尾",
-      "onboard_time": 1693574921,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 432529,
@@ -1227,22 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 384750,
-      "num": 384750,
-      "word": "小舟从此逝 江海寄余生",
-      "onboard_time": 1693573180,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 379087,
-      "num": 379087,
-      "word": "香港台风",
-      "onboard_time": 1693572637,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378787,
       "num": 345991,
       "word": "男子点外卖备注放我出来骑手报警",
@@ -1355,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 355802,
+      "num": 355802,
+      "word": "关智斌怎么保养的",
+      "onboard_time": 1693575759,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354436,
       "num": 354436,
       "word": "狗狗真心的守护却换来了剃毛",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1693557100,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 353480,
+      "num": 353480,
+      "word": "11个月男婴全身淤青布满针眼惨死",
+      "onboard_time": 1693577562,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352177,
@@ -1459,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327483,
+      "num": 519874,
+      "word": "认房不认贷",
+      "onboard_time": 1693573060,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324410,
       "num": 324410,
       "word": "张钧甯吃粉丝",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1693568377,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312822,
+      "num": 312822,
+      "word": "鹊刀门传奇太敢拍了",
+      "onboard_time": 1693575819,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 309415,
@@ -1659,14 +1723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263625,
-      "num": 477766,
-      "word": "认房不认贷",
-      "onboard_time": 1693573060,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261686,
       "num": 261686,
       "word": "美国商务部长乘中国高铁让美媒纠结",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1693526613,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249051,
+      "num": 249051,
+      "word": "中餐厅",
+      "onboard_time": 1693576963,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 248470,
@@ -1971,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217916,
+      "num": 592253,
+      "word": "2秒极氪王来了",
+      "onboard_time": 1693573418,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 217898,
       "num": 217898,
       "word": "双城之战第二季",
@@ -1995,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214142,
+      "num": 214142,
+      "word": "狼队对战TTG",
+      "onboard_time": 1693568856,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210862,
       "num": 210862,
       "word": "黄子弘凡成为你想成为的大人",
@@ -2009,6 +2089,14 @@
       "onboard_time": 1693528779,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209971,
+      "num": 209971,
+      "word": "邪教以驱鬼为由残害男婴致死",
+      "onboard_time": 1693577501,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209498,
@@ -2065,6 +2153,14 @@
       "onboard_time": 1693564717,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207088,
+      "num": 207088,
+      "word": "胡彦斌开口自带混响",
+      "onboard_time": 1693576963,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 206862,
@@ -2169,14 +2265,6 @@
       "onboard_time": 1693538557,
       "rank": 43,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 199845,
-      "num": 592253,
-      "word": "2秒极氪王来了",
-      "onboard_time": 1693573418,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 199673,
@@ -2804,7 +2892,7 @@
     },
     {
       "raw_hot": 79274,
-      "num": 1631499,
+      "num": 1806005,
       "word": "杭州亚运会游泳馆黑科技大揭秘",
       "onboard_time": 1693571681,
       "rank": 2,
@@ -2831,6 +2919,14 @@
       "num": 633702,
       "word": "民警神预判封路1分钟后山体滑坡",
       "onboard_time": 1693558839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66035,
+      "num": 519237,
+      "word": "司机集体闯红灯却被交警点赞",
+      "onboard_time": 1693576839,
       "rank": 14,
       "category": "社会新闻"
     },

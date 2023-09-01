@@ -1,0 +1,410 @@
+{
+  "runTime": 1693577741379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2152609,
+        "num": 2152609,
+        "word": "徐良 淘汰",
+        "onboard_time": 1693570720,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2085404,
+        "num": 2085404,
+        "word": "一路朝阳 烂尾",
+        "onboard_time": 1693574921,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71410,
+        "num": 1806005,
+        "word": "杭州亚运会游泳馆黑科技大揭秘",
+        "onboard_time": 1693571681,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1674291,
+        "num": 1674291,
+        "word": "骄阳伴我收视率",
+        "onboard_time": 1693575636,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1103747,
+        "num": 1103747,
+        "word": "深圳台风",
+        "onboard_time": 1693572879,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905588,
+        "num": 905588,
+        "word": "利息少了41万购房者激动得一夜没睡",
+        "onboard_time": 1693563159,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 856016,
+        "num": 856016,
+        "word": "航空公司向李惠利道歉",
+        "onboard_time": 1693568798,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685999,
+        "num": 685999,
+        "word": "基本每年一部爆剧的演员",
+        "onboard_time": 1693560280,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 543854,
+        "num": 543854,
+        "word": "台风路径",
+        "onboard_time": 1693570958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520801,
+        "num": 520801,
+        "word": "狼队运营",
+        "onboard_time": 1693576000,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2081539,
+        "num": 520529,
+        "word": "母亲不堪家暴找人冒充走失儿子30年",
+        "onboard_time": 1693572699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629078,
+        "num": 520269,
+        "word": "开端第二部",
+        "onboard_time": 1693560341,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327483,
+        "num": 519874,
+        "word": "认房不认贷",
+        "onboard_time": 1693573060,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239503,
+        "num": 519331,
+        "word": "苏拉的危险半圆将横扫香港和深圳",
+        "onboard_time": 1693569276,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66035,
+        "num": 519237,
+        "word": "司机集体闯红灯却被交警点赞",
+        "onboard_time": 1693576839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522368,
+        "num": 518732,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 518455,
+        "num": 518455,
+        "word": "香港台风",
+        "onboard_time": 1693572637,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495558,
+        "num": 495558,
+        "word": "小舟从此逝 江海寄余生",
+        "onboard_time": 1693573180,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475572,
+        "num": 475572,
+        "word": "张栋梁你还说你不会跳舞",
+        "onboard_time": 1693574618,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439302,
+        "num": 439302,
+        "word": "广州TTG重回总决赛",
+        "onboard_time": 1693577562,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1024100,
+        "num": 439278,
+        "word": "谁家女主第一集就办离婚",
+        "onboard_time": 1693575460,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434446,
+        "num": 434446,
+        "word": "情绪稳定的根本原因",
+        "onboard_time": 1693569337,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 415081,
+        "num": 415081,
+        "word": "白敬亭虽迟但到的甜妹舞",
+        "onboard_time": 1693571378,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406529,
+        "num": 406529,
+        "word": "黄子弘凡歌词",
+        "onboard_time": 1693572999,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387215,
+        "num": 387215,
+        "word": "死刑犯最后一餐吃什么",
+        "onboard_time": 1693558359,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 369261,
+        "num": 369261,
+        "word": "杨紫发了麦承欢",
+        "onboard_time": 1693569696,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364758,
+        "num": 364758,
+        "word": "狼队阵容 憋屈",
+        "onboard_time": 1693573659,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361440,
+        "num": 361440,
+        "word": "骄阳伴我",
+        "onboard_time": 1693571798,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359712,
+        "num": 359712,
+        "word": "微信文件可撤回三小时内消息",
+        "onboard_time": 1693559379,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 355802,
+        "num": 355802,
+        "word": "关智斌怎么保养的",
+        "onboard_time": 1693575759,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353480,
+        "num": 353480,
+        "word": "11个月男婴全身淤青布满针眼惨死",
+        "onboard_time": 1693577562,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344654,
+        "num": 344654,
+        "word": "韩男子性侵女儿10年被妻子刺伤双眼",
+        "onboard_time": 1693548635,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342530,
+        "num": 342530,
+        "word": "庆余年2首支预告",
+        "onboard_time": 1693557637,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334791,
+        "num": 334791,
+        "word": "BLACKPINK QQ音乐",
+        "onboard_time": 1693567295,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324433,
+        "num": 324433,
+        "word": "日本出现大量巨型蛾子布满街道",
+        "onboard_time": 1693549055,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312822,
+        "num": 312822,
+        "word": "鹊刀门传奇太敢拍了",
+        "onboard_time": 1693575819,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286191,
+        "num": 286191,
+        "word": "7年了狗狗还记得自己叫笨笨",
+        "onboard_time": 1693571259,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283956,
+        "num": 283956,
+        "word": "邓为茶朔洵跳楼名场面",
+        "onboard_time": 1693571616,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273813,
+        "num": 273813,
+        "word": "苏拉或成1949年以来登陆珠三角最强台风",
+        "onboard_time": 1693569219,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217916,
+        "num": 267672,
+        "word": "2秒极氪王来了",
+        "onboard_time": 1693573418,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266592,
+        "num": 266592,
+        "word": "五哈4官宣",
+        "onboard_time": 1693560401,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249051,
+        "num": 249051,
+        "word": "中餐厅",
+        "onboard_time": 1693576963,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248574,
+        "num": 248574,
+        "word": "白羊座心软的神",
+        "onboard_time": 1693570477,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 248504,
+        "num": 248504,
+        "word": "质子团新综艺",
+        "onboard_time": 1693573959,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247836,
+        "num": 247836,
+        "word": "快看今晚的月亮",
+        "onboard_time": 1693571318,
+        "rank": 44,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 231956,
+        "num": 231956,
+        "word": "逃出大英博物馆玉壶原型制作者发声",
+        "onboard_time": 1693567957,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225571,
+        "num": 225571,
+        "word": "台风苏拉路径又变了",
+        "onboard_time": 1693540777,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214142,
+        "num": 214142,
+        "word": "狼队对战TTG",
+        "onboard_time": 1693568856,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209971,
+        "num": 209971,
+        "word": "邪教以驱鬼为由残害男婴致死",
+        "onboard_time": 1693577501,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207088,
+        "num": 207088,
+        "word": "胡彦斌开口自带混响",
+        "onboard_time": 1693576963,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军需要一批又一批有志青年接续奋斗#"
+    }
+  }
+}
