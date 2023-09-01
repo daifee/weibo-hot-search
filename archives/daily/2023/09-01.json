@@ -1,13 +1,29 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693524839006,
+  "endTime": 1693530893773,
   "band_list": [
     {
       "raw_hot": 2643469,
-      "num": 407973,
+      "num": 524876,
       "word": "大学生酒后欲强暴女同学被宾馆老板制止",
       "onboard_time": 1693497155,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2054125,
+      "num": 2054125,
+      "word": "七险三金多了哪两险哪两金",
+      "onboard_time": 1693526795,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341233,
+      "num": 1341233,
+      "word": "特斯拉Model3",
+      "onboard_time": 1693527874,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -27,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 972319,
+      "num": 972319,
+      "word": "网友许愿的综艺拍出来了",
+      "onboard_time": 1693527996,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 962941,
       "num": 656358,
       "word": "被医院判死刑的孩子",
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 922284,
-      "num": 259567,
+      "num": 511948,
       "word": "女大学生被对面卧铺大叔多角度偷拍",
       "onboard_time": 1693508894,
       "rank": 38,
@@ -57,6 +81,22 @@
       "onboard_time": 1693445614,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 896732,
+      "num": 896732,
+      "word": "新疆三文鱼喜获丰收",
+      "onboard_time": 1693527214,
+      "rank": 4,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 777658,
+      "num": 777658,
+      "word": "迎击台风苏拉",
+      "onboard_time": 1693523784,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 744763,
@@ -83,6 +123,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 626182,
+      "num": 626182,
+      "word": "民警1小时找回被盗金手镯女子笑到起飞",
+      "onboard_time": 1693527819,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606408,
+      "num": 606408,
+      "word": "这不是何群成晓诗婚后生活吗",
+      "onboard_time": 1693525591,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566743,
       "num": 372655,
       "word": "何洁瘦了近70斤",
@@ -99,8 +155,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 549824,
+      "num": 549824,
+      "word": "李东海李赫宰成立新公司",
+      "onboard_time": 1693527756,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544739,
-      "num": 189545,
+      "num": 220511,
       "word": "国防部回应何时解决台湾问题",
       "onboard_time": 1693496199,
       "rank": 30,
@@ -115,6 +179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 534188,
+      "num": 534188,
+      "word": "缅北电诈头目姐夫等225人被抓",
+      "onboard_time": 1693504759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524892,
       "num": 524892,
       "word": "深圳全市将停课",
@@ -123,12 +195,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 511295,
+      "num": 511295,
+      "word": "JYP大楼天花板破了漏水中",
+      "onboard_time": 1693528596,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452709,
-      "num": 255864,
+      "num": 272436,
       "word": "女子假离婚后发现丈夫有孩子公婆也知情",
       "onboard_time": 1693493259,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 440491,
+      "num": 440491,
+      "word": "100万存量房贷每年可省5000多元利息",
+      "onboard_time": 1693525591,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 432529,
@@ -147,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423759,
+      "num": 318570,
+      "word": "你能吃苦就会有吃不完的苦",
+      "onboard_time": 1693525950,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 419737,
       "num": 419737,
       "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
@@ -156,10 +252,26 @@
     },
     {
       "raw_hot": 415346,
-      "num": 256294,
+      "num": 263380,
       "word": "演员就该于适这样啊",
       "onboard_time": 1693523125,
       "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 414854,
+      "num": 458000,
+      "word": "大学生请假捐造血干细胞救助患者",
+      "onboard_time": 1693528418,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402928,
+      "num": 402928,
+      "word": "邓为玉兰花下的清冷氛围感",
+      "onboard_time": 1693528837,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -168,6 +280,38 @@
       "word": "陕西一医院规定男55岁女44岁不续聘",
       "onboard_time": 1693488761,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371878,
+      "num": 371878,
+      "word": "声生不息港乐季2拟邀阵容",
+      "onboard_time": 1693524510,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355846,
+      "num": 308927,
+      "word": "和不舒服的人在一起会生病",
+      "onboard_time": 1693527698,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 330333,
+      "num": 303449,
+      "word": "减肥为什么先养肝",
+      "onboard_time": 1693530033,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 328681,
+      "num": 328681,
+      "word": "九月",
+      "onboard_time": 1693529257,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -195,6 +339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 293142,
+      "num": 293142,
+      "word": "一路朝阳oe",
+      "onboard_time": 1693529915,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288802,
       "num": 288802,
       "word": "欧冠32强全部出炉",
@@ -211,12 +363,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273285,
-      "num": 229390,
-      "word": "缅北电诈头目姐夫等225人被抓",
-      "onboard_time": 1693504759,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 283883,
+      "num": 283883,
+      "word": "对黄奕永远李玉湖滤镜",
+      "onboard_time": 1693525472,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276754,
+      "num": 276754,
+      "word": "星空",
+      "onboard_time": 1693529736,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 272215,
@@ -233,6 +393,14 @@
       "onboard_time": 1693488216,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259977,
+      "num": 259977,
+      "word": "深圳天气",
+      "onboard_time": 1693529975,
+      "rank": 30,
+      "category": "自然"
     },
     {
       "raw_hot": 259557,
@@ -259,11 +427,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248859,
-      "num": 248859,
-      "word": "迎击台风苏拉",
-      "onboard_time": 1693523784,
-      "rank": 46,
+      "raw_hot": 249229,
+      "num": 249229,
+      "word": "台风红色预警继续发布",
+      "onboard_time": 1693526613,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -299,12 +467,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214689,
+      "num": 214689,
+      "word": "魏哲鸣披荆斩棘repo只有一个字",
+      "onboard_time": 1693529257,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210777,
+      "num": 210777,
+      "word": "殷寿是懂杀人诛心的",
+      "onboard_time": 1693528779,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209498,
       "num": 209498,
       "word": "开学",
       "onboard_time": 1693524208,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209116,
+      "num": 209116,
+      "word": "奥本海默没拍的历史真相",
+      "onboard_time": 1693530573,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208365,
+      "num": 208365,
+      "word": "男子离婚两月后发现2岁儿子非亲生",
+      "onboard_time": 1693491698,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203397,
@@ -323,6 +523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194160,
+      "num": 443690,
+      "word": "老师我想请假去救个人",
+      "onboard_time": 1693527032,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192088,
       "num": 192088,
       "word": "为什么一紧张会有鸡皮疙瘩",
@@ -339,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190278,
+      "num": 190278,
+      "word": "齐司礼0901生日快乐",
+      "onboard_time": 1693530573,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187841,
+      "num": 187841,
+      "word": "百兽讲本赛季的自己",
+      "onboard_time": 1693529798,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182790,
       "num": 182790,
       "word": "遥遥领先",
@@ -347,28 +571,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 177048,
-      "num": 177048,
-      "word": "男子离婚两月后发现2岁儿子非亲生",
-      "onboard_time": 1693491698,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174890,
       "num": 174890,
       "word": "田曦薇敖瑞鹏的身高差",
       "onboard_time": 1693518616,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167666,
-      "num": 167666,
-      "word": "声生不息港乐季2拟邀阵容",
-      "onboard_time": 1693524510,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 163403,
@@ -393,6 +601,30 @@
       "onboard_time": 1693487255,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159255,
+      "num": 159255,
+      "word": "开学第一天的各科老师",
+      "onboard_time": 1693526012,
+      "rank": 45,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 159026,
+      "num": 159026,
+      "word": "新的起点",
+      "onboard_time": 1693529855,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158298,
+      "num": 158298,
+      "word": "都暻秀solo2",
+      "onboard_time": 1693527577,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 150210,
@@ -635,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33577,
+      "num": 1022479,
+      "word": "砺志逐梦正当时",
+      "onboard_time": 1693493739,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31656,
       "num": 34784,
       "word": "河狸 对呀都是我干的",
@@ -649,14 +889,6 @@
       "onboard_time": 1693506676,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29187,
-      "num": 659011,
-      "word": "砺志逐梦正当时",
-      "onboard_time": 1693493739,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24101,
