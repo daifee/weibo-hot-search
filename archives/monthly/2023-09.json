@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693593246775,
+  "endTime": 1693595604267,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -3003,6 +3003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142732,
+      "num": 93491,
+      "word": "费翔 爱一个人其实是爱上她的缺点",
+      "onboard_time": 1693592119,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140919,
       "num": 140919,
       "word": "奥本海默 脸盲",
@@ -3137,14 +3145,6 @@
       "onboard_time": 1693561839,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 105632,
-      "num": 93491,
-      "word": "费翔 爱一个人其实是爱上她的缺点",
-      "onboard_time": 1693592119,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 104894,
@@ -3315,6 +3315,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 49003,
+      "num": 49003,
+      "word": "菠萝猫猫头",
+      "onboard_time": 1693592597,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47892,
       "num": 55012,
       "word": "广西崇左3.3级地震",
@@ -3329,14 +3337,6 @@
       "onboard_time": 1693540836,
       "rank": 14,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 47473,
-      "num": 47473,
-      "word": "菠萝猫猫头",
-      "onboard_time": 1693592597,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 47232,
@@ -3361,6 +3361,14 @@
       "onboard_time": 1693591639,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42990,
+      "num": 42990,
+      "word": "画师工作环境",
+      "onboard_time": 1693593316,
+      "rank": 38,
+      "category": "动漫,幽默"
     },
     {
       "raw_hot": 42131,
@@ -3396,7 +3404,7 @@
     },
     {
       "raw_hot": 39276,
-      "num": 39276,
+      "num": 40694,
       "word": "北环大道",
       "onboard_time": 1693593199,
       "rank": 48,
@@ -3473,6 +3481,14 @@
       "onboard_time": 1693516695,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 19145,
+      "num": 40634,
+      "word": "深圳发布台风红色预警",
+      "onboard_time": 1693595596,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17061,

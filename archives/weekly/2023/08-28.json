@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693593246775,
+  "endTime": 1693595604267,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -12667,6 +12667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142732,
+      "num": 93491,
+      "word": "费翔 爱一个人其实是爱上她的缺点",
+      "onboard_time": 1693592119,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142610,
       "num": 142610,
       "word": "08中国男篮成员全部退役",
@@ -13065,14 +13073,6 @@
       "onboard_time": 1693351407,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105632,
-      "num": 93491,
-      "word": "费翔 爱一个人其实是爱上她的缺点",
-      "onboard_time": 1693592119,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 105320,
@@ -13643,6 +13643,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 49003,
+      "num": 49003,
+      "word": "菠萝猫猫头",
+      "onboard_time": 1693592597,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48598,
       "num": 48598,
       "word": "利雅得胜利4比0利雅得青年人",
@@ -13673,14 +13681,6 @@
       "onboard_time": 1693158799,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 47473,
-      "num": 47473,
-      "word": "菠萝猫猫头",
-      "onboard_time": 1693592597,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 47232,
@@ -13737,6 +13737,14 @@
       "onboard_time": 1693393236,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42990,
+      "num": 42990,
+      "word": "画师工作环境",
+      "onboard_time": 1693593316,
+      "rank": 38,
+      "category": "动漫,幽默"
     },
     {
       "raw_hot": 42740,
@@ -13796,7 +13804,7 @@
     },
     {
       "raw_hot": 39276,
-      "num": 39276,
+      "num": 40694,
       "word": "北环大道",
       "onboard_time": 1693593199,
       "rank": 48,
@@ -13977,6 +13985,14 @@
       "onboard_time": 1693516695,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 19145,
+      "num": 40634,
+      "word": "深圳发布台风红色预警",
+      "onboard_time": 1693595596,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18117,
