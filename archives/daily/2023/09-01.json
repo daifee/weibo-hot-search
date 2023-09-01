@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693542849092,
+  "endTime": 1693545341082,
   "band_list": [
     {
       "raw_hot": 5262598,
@@ -8,6 +8,14 @@
       "word": "各大卫视删除宋祖儿相关微博",
       "onboard_time": 1693531355,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2650055,
+      "num": 2650055,
+      "word": "抢注宋祖儿商标均被驳回",
+      "onboard_time": 1693542581,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -91,8 +99,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1051764,
+      "num": 1051764,
+      "word": "披荆斩棘一公",
+      "onboard_time": 1693544081,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1025208,
-      "num": 413525,
+      "num": 416333,
       "word": "同事离职后的电脑屏保",
       "onboard_time": 1693538017,
       "rank": 45,
@@ -172,15 +188,15 @@
     },
     {
       "raw_hot": 796473,
-      "num": 409685,
+      "num": 420752,
       "word": "外国人有多喜欢中国的手机壳",
       "onboard_time": 1693540478,
       "rank": 21,
       "category": "幽默"
     },
     {
-      "raw_hot": 780366,
-      "num": 403406,
+      "raw_hot": 790915,
+      "num": 425326,
       "word": "台风苏拉路径又变了",
       "onboard_time": 1693540777,
       "rank": 22,
@@ -299,11 +315,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608104,
+      "num": 608104,
+      "word": "没有中国人笑着走出大英博物馆",
+      "onboard_time": 1693543723,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607516,
+      "num": 607516,
+      "word": "王俊凯出发青岛",
+      "onboard_time": 1693543424,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606408,
       "num": 606408,
       "word": "这不是何群成晓诗婚后生活吗",
       "onboard_time": 1693525591,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 596083,
+      "num": 596083,
+      "word": "陆毅rap对我眼睛很友好",
+      "onboard_time": 1693544743,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -419,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499279,
+      "num": 499279,
+      "word": "装腔启示录 嗑晕了",
+      "onboard_time": 1693542343,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489271,
       "num": 489271,
       "word": "神隐首支预告",
@@ -435,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465843,
+      "num": 412260,
+      "word": "前任4",
+      "onboard_time": 1693543544,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452709,
       "num": 272436,
       "word": "女子假离婚后发现丈夫有孩子公婆也知情",
       "onboard_time": 1693493259,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 448576,
+      "num": 410320,
+      "word": "陈伟霆说这话时魏大勋就在旁边",
+      "onboard_time": 1693543304,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 440491,
@@ -531,6 +595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412924,
+      "num": 348470,
+      "word": "B太 海鲜市场还会有做鬼的吗",
+      "onboard_time": 1693543122,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 407372,
+      "num": 407372,
+      "word": "披荆斩棘",
+      "onboard_time": 1693542703,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404131,
       "num": 404131,
       "word": "张艺兴新专辑将由华纳音乐发行",
@@ -539,20 +619,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 403738,
-      "num": 363809,
-      "word": "抢注宋祖儿商标均被驳回",
-      "onboard_time": 1693542581,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 402928,
       "num": 402928,
       "word": "邓为玉兰花下的清冷氛围感",
       "onboard_time": 1693528837,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 399857,
+      "num": 399857,
+      "word": "丫丫吃笋像在耍金箍棒",
+      "onboard_time": 1693543903,
+      "rank": 26,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 399126,
@@ -603,20 +683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370670,
-      "num": 370670,
-      "word": "装腔启示录 嗑晕了",
-      "onboard_time": 1693542343,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362321,
       "num": 329316,
       "word": "i人无痛装e教程",
       "onboard_time": 1693535435,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356425,
+      "num": 356425,
+      "word": "与凤行预约人数突破300万",
+      "onboard_time": 1693543363,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 355846,
@@ -649,6 +729,14 @@
       "onboard_time": 1693529257,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328291,
+      "num": 328291,
+      "word": "男生车祸失去右臂欲分手女友骂好傻",
+      "onboard_time": 1693544922,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 328020,
@@ -707,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285230,
+      "num": 285230,
+      "word": "狗狗真心的守护却换来了剃毛",
+      "onboard_time": 1693544562,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 284246,
       "num": 284246,
       "word": "YG新女团或将亮相BLACKPINK演唱会",
@@ -731,11 +827,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 272435,
-      "num": 272435,
-      "word": "披荆斩棘",
-      "onboard_time": 1693542703,
-      "rank": 39,
+      "raw_hot": 275466,
+      "num": 275466,
+      "word": "王鹤棣平时都是破坏感",
+      "onboard_time": 1693544081,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -859,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 234845,
+      "num": 234845,
+      "word": "男生上门订婚准备了24束花",
+      "onboard_time": 1693545161,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233524,
       "num": 233524,
       "word": "山东开海在即14000艘渔船蓄势待发",
@@ -971,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206023,
+      "num": 206023,
+      "word": "姜云升新专辑",
+      "onboard_time": 1693544858,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205145,
       "num": 205145,
       "word": "周冬雨新片玩复仇高端局",
@@ -992,6 +1104,14 @@
       "word": "当社牛女孩和社恐男孩成了同桌",
       "onboard_time": 1693534115,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200215,
+      "num": 1160661,
+      "word": "开学第一天",
+      "onboard_time": 1693544146,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1251,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133317,
+      "num": 205950,
+      "word": "哈尔滨麻酱砂锅面",
+      "onboard_time": 1693543544,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124379,
       "num": 124379,
       "word": "他和她的猫开播",
@@ -1505,6 +1633,9 @@
     },
     {
       "word": "#习近平回信勉励安徽省潜山野寨中学新考取军校的同学们#"
+    },
+    {
+      "word": "#开学第一课#"
     }
   ]
 }
