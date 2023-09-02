@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693638845063,
+  "endTime": 1693640045903,
   "band_list": [
     {
       "raw_hot": 3452863,
@@ -24,6 +24,14 @@
       "word": "日本第一代丁克正疯狂相亲",
       "onboard_time": 1693615654,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1906915,
+      "num": 431969,
+      "word": "核污水排放1周海水一片漆黑",
+      "onboard_time": 1693637495,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -139,14 +147,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 921014,
-      "num": 431969,
-      "word": "核污水排放1周海水一片漆黑",
-      "onboard_time": 1693637495,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 916169,
       "num": 916169,
       "word": "公司对账差1分出动5名会计帮核对",
@@ -217,6 +217,14 @@
       "onboard_time": 1693575636,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 739677,
+      "num": 739677,
+      "word": "张远三年内经历了赔钱生离死别",
+      "onboard_time": 1693638692,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 727009,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554083,
+      "num": 554083,
+      "word": "许绍洋淘汰",
+      "onboard_time": 1693638270,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553579,
       "num": 553579,
       "word": "沈梦辰下期中餐厅哭了",
@@ -475,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455589,
+      "num": 455589,
+      "word": "台风苏拉一天两次登陆广东",
+      "onboard_time": 1693638210,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449842,
       "num": 449842,
       "word": "上山下全场第一",
@@ -505,14 +529,6 @@
       "onboard_time": 1693616673,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419057,
-      "num": 419057,
-      "word": "许绍洋淘汰",
-      "onboard_time": 1693638270,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 415973,
@@ -571,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394806,
+      "num": 295394,
+      "word": "麻雀",
+      "onboard_time": 1693638812,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393966,
       "num": 327641,
       "word": "魏如萱 不管怎样我都要唱",
@@ -619,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 371032,
+      "num": 343308,
+      "word": "上海500万的房首付降175万",
+      "onboard_time": 1693637190,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 369889,
       "num": 300989,
       "word": "班里男同学帮我买卫生巾",
@@ -633,6 +665,14 @@
       "onboard_time": 1693629574,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367813,
+      "num": 331914,
+      "word": "面包为什么越来越贵了",
+      "onboard_time": 1693636352,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 355369,
@@ -665,14 +705,6 @@
       "onboard_time": 1693589066,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 343308,
-      "num": 343308,
-      "word": "上海500万的房首付降175万",
-      "onboard_time": 1693637190,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 342203,
@@ -713,14 +745,6 @@
       "onboard_time": 1693582898,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 331914,
-      "num": 331914,
-      "word": "面包为什么越来越贵了",
-      "onboard_time": 1693636352,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 326801,
@@ -801,14 +825,6 @@
       "onboard_time": 1693618536,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308181,
-      "num": 409416,
-      "word": "台风苏拉一天两次登陆广东",
-      "onboard_time": 1693638210,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305871,
@@ -931,6 +947,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 261660,
+      "num": 261660,
+      "word": "封神票房破25亿flag",
+      "onboard_time": 1693639292,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256146,
       "num": 256146,
       "word": "对方撤回一个盛阳",
@@ -977,6 +1001,14 @@
       "onboard_time": 1693568798,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243045,
+      "num": 243045,
+      "word": "吴世勋杂志",
+      "onboard_time": 1693639414,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242756,
@@ -1060,7 +1092,7 @@
     },
     {
       "raw_hot": 225093,
-      "num": 165363,
+      "num": 177488,
       "word": "张栋梁担心自己会被淘汰",
       "onboard_time": 1693632753,
       "rank": 41,
@@ -1155,12 +1187,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203555,
+      "num": 182916,
+      "word": "送李玖哲去封神吧",
+      "onboard_time": 1693638270,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202880,
+      "num": 182162,
+      "word": "水豚叠叠乐",
+      "onboard_time": 1693639292,
+      "rank": 35,
+      "category": "其它"
+    },
+    {
       "raw_hot": 199616,
       "num": 199616,
       "word": "女子反应过人秒按停自动扶梯救人",
       "onboard_time": 1693612770,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 198742,
+      "num": 264528,
+      "word": "寿司店的酱油包被我当U盘了",
+      "onboard_time": 1693636292,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 198169,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1693618234,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196187,
-      "num": 209760,
-      "word": "寿司店的酱油包被我当U盘了",
-      "onboard_time": 1693636292,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 194902,
@@ -1300,18 +1348,10 @@
     },
     {
       "raw_hot": 184000,
-      "num": 160227,
+      "num": 177421,
       "word": "马嘉祺丁程鑫玩321看挑战",
       "onboard_time": 1693633772,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 183424,
-      "num": 183424,
-      "word": "张远三年内经历了赔钱生离死别",
-      "onboard_time": 1693638692,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1321,14 +1361,6 @@
       "onboard_time": 1693627955,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 182885,
-      "num": 182885,
-      "word": "送李玖哲去封神吧",
-      "onboard_time": 1693638270,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 178976,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1693616974,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 178530,
+      "num": 178530,
+      "word": "八仙饭店仙品",
+      "onboard_time": 1693639113,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 175316,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1693632636,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172193,
+      "num": 187369,
+      "word": "熊猫界的娃娃脸",
+      "onboard_time": 1693639591,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169983,
@@ -1443,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154174,
+      "num": 179014,
+      "word": "如果没条件去旅行",
+      "onboard_time": 1693635750,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 152129,
       "num": 152129,
       "word": "暑期最好看的剧 孟宴臣cut",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1693634431,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144041,
-      "num": 151325,
-      "word": "如果没条件去旅行",
-      "onboard_time": 1693635750,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 142032,
@@ -1539,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132288,
-      "num": 132288,
-      "word": "麻雀",
-      "onboard_time": 1693638812,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131740,
       "num": 153843,
       "word": "会使用平板的鹦鹉",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1693635090,
       "rank": 44,
       "category": "其它"
+    },
+    {
+      "raw_hot": 128856,
+      "num": 177477,
+      "word": "鲁川合力助患癌男子找到亲生父母",
+      "onboard_time": 1693639772,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125434,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1693607899,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110161,
+      "num": 402491,
+      "word": "男子地铁内倒地休克他们接力抢救",
+      "onboard_time": 1693638033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107513,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1693600155,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51910,
-      "num": 402491,
-      "word": "男子地铁内倒地休克他们接力抢救",
-      "onboard_time": 1693638033,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49003,
