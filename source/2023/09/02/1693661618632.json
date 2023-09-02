@@ -1,0 +1,410 @@
+{
+  "runTime": 1693661618632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2963582,
+        "num": 2963582,
+        "word": "秀才被封",
+        "onboard_time": 1693649312,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2444230,
+        "num": 2444230,
+        "word": "易烊千玺金鹿奖最佳男演员",
+        "onboard_time": 1693658618,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72077,
+        "num": 2053391,
+        "word": "杭州亚运会颁奖物资背后满是祝福",
+        "onboard_time": 1693657118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1922102,
+        "num": 1922102,
+        "word": "云之羽空降",
+        "onboard_time": 1693651298,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1806071,
+        "num": 1806071,
+        "word": "好羡慕23级大学生",
+        "onboard_time": 1693658914,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1579004,
+        "num": 1579004,
+        "word": "日本接连发生大规模集体食物中毒",
+        "onboard_time": 1693651598,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131311,
+        "num": 1131311,
+        "word": "马冬梅任北京市平谷区副区长",
+        "onboard_time": 1693652920,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103826,
+        "num": 1103826,
+        "word": "金靖出场把我笑死",
+        "onboard_time": 1693658378,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1020482,
+        "num": 1020482,
+        "word": "倪妮金鹿奖最佳女演员",
+        "onboard_time": 1693658676,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 947852,
+        "num": 947852,
+        "word": "范丞丞终于放出杨迪直拍了",
+        "onboard_time": 1693659517,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1168415,
+        "num": 936753,
+        "word": "老番茄结婚",
+        "onboard_time": 1693644633,
+        "rank": 10,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 925116,
+        "num": 925116,
+        "word": "一笑倾城",
+        "onboard_time": 1693652680,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 268345,
+        "num": 905885,
+        "word": "西安市第一医院两名医生被停职调查",
+        "onboard_time": 1693655376,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158495,
+        "num": 903942,
+        "word": "近视还无法治愈",
+        "onboard_time": 1693643496,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90900,
+        "num": 902681,
+        "word": "开学第1天爸爸蹲守校外担心女儿",
+        "onboard_time": 1693659640,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902096,
+        "num": 902096,
+        "word": "云之羽开播口碑",
+        "onboard_time": 1693656339,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874844,
+        "num": 874844,
+        "word": "中国男篮无缘直通巴黎奥运会",
+        "onboard_time": 1693660601,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824525,
+        "num": 824525,
+        "word": "肖战说书已买钱已转",
+        "onboard_time": 1693660121,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751181,
+        "num": 751181,
+        "word": "中国男篮vs菲律宾男篮",
+        "onboard_time": 1693658018,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 749554,
+        "num": 749554,
+        "word": "宝剑嫂好会拍",
+        "onboard_time": 1693661019,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 675005,
+        "num": 675005,
+        "word": "我吃宫子羽这张脸",
+        "onboard_time": 1693657537,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557154,
+        "num": 557154,
+        "word": "公司逼员工主动离职常用套路",
+        "onboard_time": 1693653757,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549156,
+        "num": 549156,
+        "word": "四舍五入只有27天就放寒假了",
+        "onboard_time": 1693660302,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520168,
+        "num": 520168,
+        "word": "Uzi说明年打不了",
+        "onboard_time": 1693656636,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454248,
+        "num": 454248,
+        "word": "云之羽追剧日历",
+        "onboard_time": 1693659219,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443349,
+        "num": 443349,
+        "word": "21岁休学29岁存款5000万",
+        "onboard_time": 1693640554,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436769,
+        "num": 436769,
+        "word": "秀才被举报涉嫌税收违法",
+        "onboard_time": 1693661321,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 416523,
+        "num": 416523,
+        "word": "你现在收入存够1千万要多久",
+        "onboard_time": 1693648115,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403399,
+        "num": 403399,
+        "word": "花少北沙一汀合照",
+        "onboard_time": 1693660420,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 389761,
+        "num": 389761,
+        "word": "日本男篮直通巴黎奥运会",
+        "onboard_time": 1693660719,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503187,
+        "num": 382780,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370900,
+        "num": 370900,
+        "word": "汪苏泷演唱会通知王鹤棣了吗",
+        "onboard_time": 1693659818,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348033,
+        "num": 348033,
+        "word": "时代少年团 外务",
+        "onboard_time": 1693654718,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344526,
+        "num": 344526,
+        "word": "内娱顶级贵公子",
+        "onboard_time": 1693642236,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327833,
+        "num": 327833,
+        "word": "周琦受伤",
+        "onboard_time": 1693658676,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307342,
+        "num": 307342,
+        "word": "莲花楼",
+        "onboard_time": 1693661140,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305767,
+        "num": 305767,
+        "word": "生娃之前 可先看看李湘谷燕",
+        "onboard_time": 1693652257,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 280529,
+        "num": 280529,
+        "word": "变丑的原因是灵气没了",
+        "onboard_time": 1693644935,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273998,
+        "num": 273998,
+        "word": "克拉克森爆砍",
+        "onboard_time": 1693661562,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263971,
+        "num": 263971,
+        "word": "于适追猪",
+        "onboard_time": 1693655977,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263114,
+        "num": 263114,
+        "word": "蔡文静片场只有名字文静",
+        "onboard_time": 1693658857,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258192,
+        "num": 258192,
+        "word": "不是说弹钢琴会变优雅吗",
+        "onboard_time": 1693660241,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254861,
+        "num": 254861,
+        "word": "徐佳莹翻唱Ditto",
+        "onboard_time": 1693659338,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253367,
+        "num": 253367,
+        "word": "记某幻账上",
+        "onboard_time": 1693655437,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 246739,
+        "num": 246739,
+        "word": "范丞丞把沈腾放C位",
+        "onboard_time": 1693656098,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239731,
+        "num": 239731,
+        "word": "第18届长春电影节获奖名单",
+        "onboard_time": 1693658914,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229144,
+        "num": 229144,
+        "word": "前程似今",
+        "onboard_time": 1693659939,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218669,
+        "num": 218669,
+        "word": "梁朝伟刘嘉玲李安胡歌威尼斯相见",
+        "onboard_time": 1693648291,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211098,
+        "num": 211098,
+        "word": "原来我小时候这么有品",
+        "onboard_time": 1693658257,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207369,
+        "num": 207369,
+        "word": "日本男篮vs佛得角男篮",
+        "onboard_time": 1693655679,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}
