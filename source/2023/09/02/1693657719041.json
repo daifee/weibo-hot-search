@@ -1,0 +1,410 @@
+{
+  "runTime": 1693657719041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5383708,
+        "num": 5383708,
+        "word": "秀才被封",
+        "onboard_time": 1693649312,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 3010628,
+        "num": 3010628,
+        "word": "云之羽空降",
+        "onboard_time": 1693651298,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41527,
+        "num": 1904418,
+        "word": "杭州亚运会颁奖物资背后满是祝福",
+        "onboard_time": 1693657118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1589296,
+        "num": 1589296,
+        "word": "一笑倾城",
+        "onboard_time": 1693652680,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1290404,
+        "num": 1290404,
+        "word": "日本接连发生大规模集体食物中毒",
+        "onboard_time": 1693651598,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247403,
+        "num": 1247403,
+        "word": "云之羽开播口碑",
+        "onboard_time": 1693656339,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 899925,
+        "num": 899925,
+        "word": "马冬梅任北京市平谷区副区长",
+        "onboard_time": 1693652920,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926456,
+        "num": 898667,
+        "word": "郭敬明镜头美学",
+        "onboard_time": 1693655135,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 896632,
+        "num": 896632,
+        "word": "公司逼员工主动离职常用套路",
+        "onboard_time": 1693653757,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 770655,
+        "num": 770655,
+        "word": "Uzi说明年打不了",
+        "onboard_time": 1693656636,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1274198,
+        "num": 769146,
+        "word": "老番茄结婚",
+        "onboard_time": 1693644633,
+        "rank": 10,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 722515,
+        "num": 722515,
+        "word": "生娃之前 可先看看李湘谷燕",
+        "onboard_time": 1693652257,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 298946,
+        "num": 601256,
+        "word": "西安市第一医院两名医生被停职调查",
+        "onboard_time": 1693655376,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156491,
+        "num": 588068,
+        "word": "近视还无法治愈",
+        "onboard_time": 1693643496,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124398,
+        "num": 581026,
+        "word": "姐姐精心策划救回身陷缅甸弟弟",
+        "onboard_time": 1693656098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579400,
+        "num": 579400,
+        "word": "21岁休学29岁存款5000万",
+        "onboard_time": 1693640554,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480017,
+        "num": 480017,
+        "word": "时代少年团 外务",
+        "onboard_time": 1693654718,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 449723,
+        "num": 449723,
+        "word": "虞书欣泥浆打戏花絮剧照",
+        "onboard_time": 1693655918,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398393,
+        "num": 425653,
+        "word": "记某幻账上",
+        "onboard_time": 1693655437,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 402640,
+        "num": 418660,
+        "word": "云之羽导演顾晓声",
+        "onboard_time": 1693655558,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413648,
+        "num": 413648,
+        "word": "你现在收入存够1千万要多久",
+        "onboard_time": 1693648115,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410278,
+        "num": 410278,
+        "word": "内娱顶级贵公子",
+        "onboard_time": 1693642236,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398319,
+        "num": 398319,
+        "word": "于适追猪",
+        "onboard_time": 1693655977,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381327,
+        "num": 381327,
+        "word": "宁安如梦什么时候抬",
+        "onboard_time": 1693653817,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326773,
+        "num": 326773,
+        "word": "范丞丞把沈腾放C位",
+        "onboard_time": 1693656098,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718813,
+        "num": 324260,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317976,
+        "num": 317976,
+        "word": "变丑的原因是灵气没了",
+        "onboard_time": 1693644935,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315110,
+        "num": 315110,
+        "word": "王栎鑫儿子女儿来披荆斩棘当观众了",
+        "onboard_time": 1693647930,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299696,
+        "num": 299696,
+        "word": "我吃宫子羽这张脸",
+        "onboard_time": 1693657537,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297342,
+        "num": 297342,
+        "word": "赵丽颖小乌龟连续剧又更新了",
+        "onboard_time": 1693645773,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401044,
+        "num": 295730,
+        "word": "云之羽OST阵容",
+        "onboard_time": 1693653037,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293801,
+        "num": 293801,
+        "word": "新加坡偶遇周冬雨",
+        "onboard_time": 1693653219,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278929,
+        "num": 278929,
+        "word": "卡琳娜cos莲",
+        "onboard_time": 1693643135,
+        "rank": 32,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 263013,
+        "num": 263013,
+        "word": "日本男篮vs佛得角男篮",
+        "onboard_time": 1693655679,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252312,
+        "num": 252312,
+        "word": "数学的诡异漏洞",
+        "onboard_time": 1693655918,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232295,
+        "num": 232295,
+        "word": "我看封神质子团belike",
+        "onboard_time": 1693657361,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222687,
+        "num": 222687,
+        "word": "侯雯元长春电影节闭幕式主持人",
+        "onboard_time": 1693656818,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218150,
+        "num": 218150,
+        "word": "车祸后18个人54秒救了2条命",
+        "onboard_time": 1693645292,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216171,
+        "num": 216171,
+        "word": "张柏芝公主切",
+        "onboard_time": 1693649734,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201724,
+        "num": 201724,
+        "word": "长春电影节闭幕式",
+        "onboard_time": 1693655977,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200102,
+        "num": 200102,
+        "word": "黄曦彦视频几点发",
+        "onboard_time": 1693656758,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198887,
+        "num": 198887,
+        "word": "WB稳住",
+        "onboard_time": 1693657361,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193898,
+        "num": 193898,
+        "word": "梁朝伟刘嘉玲李安胡歌威尼斯相见",
+        "onboard_time": 1693648291,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189236,
+        "num": 189236,
+        "word": "秀才是谁",
+        "onboard_time": 1693656458,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 189074,
+        "num": 189074,
+        "word": "杨玏说到做到",
+        "onboard_time": 1693640793,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186566,
+        "num": 186566,
+        "word": "于适工作室真的很有sense",
+        "onboard_time": 1693651414,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184967,
+        "num": 184967,
+        "word": "封神雷震子倒立洗头",
+        "onboard_time": 1693645237,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184468,
+        "num": 184468,
+        "word": "马伯骞票数",
+        "onboard_time": 1693640612,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153255,
+        "num": 153255,
+        "word": "Zoom和Tian担任解说杯嘉宾",
+        "onboard_time": 1693649312,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135924,
+        "num": 135924,
+        "word": "2023男篮世界杯",
+        "onboard_time": 1693654778,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693654437668,
+  "endTime": 1693657719041,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2981150,
-      "num": 766410,
+      "num": 769146,
       "word": "老番茄结婚",
       "onboard_time": 1693644633,
       "rank": 10,
@@ -139,6 +139,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 1247403,
+      "num": 1247403,
+      "word": "云之羽开播口碑",
+      "onboard_time": 1693656339,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1161330,
       "num": 1161330,
       "word": "武艺问武艺拿蛋糕好笑吗",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 984497,
-      "num": 341810,
+      "num": 410278,
       "word": "内娱顶级贵公子",
       "onboard_time": 1693642236,
       "rank": 25,
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 926456,
+      "num": 898667,
+      "word": "郭敬明镜头美学",
+      "onboard_time": 1693655135,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 916169,
       "num": 916169,
       "word": "公司对账差1分出动5名会计帮核对",
@@ -243,12 +259,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 899925,
+      "num": 899925,
+      "word": "马冬梅任北京市平谷区副区长",
+      "onboard_time": 1693652920,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 898734,
       "num": 898734,
       "word": "台风刮来一张演唱会门票",
       "onboard_time": 1693625552,
       "rank": 38,
       "category": "情感,作品衍生"
+    },
+    {
+      "raw_hot": 896632,
+      "num": 896632,
+      "word": "公司逼员工主动离职常用套路",
+      "onboard_time": 1693653757,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 885906,
@@ -323,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 785717,
-      "num": 785717,
-      "word": "马冬梅任北京市平谷区副区长",
-      "onboard_time": 1693652920,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 785268,
       "num": 785268,
       "word": "生娃之前 可先看看李湘谷燕",
       "onboard_time": 1693652257,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 770655,
+      "num": 770655,
+      "word": "Uzi说明年打不了",
+      "onboard_time": 1693656636,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 739677,
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 581756,
-      "num": 339128,
+      "num": 413648,
       "word": "你现在收入存够1千万要多久",
       "onboard_time": 1693648115,
       "rank": 23,
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480017,
+      "num": 480017,
+      "word": "时代少年团 外务",
+      "onboard_time": 1693654718,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 480004,
       "num": 480004,
       "word": "就让这大雨全都落下",
@@ -729,6 +769,14 @@
       "onboard_time": 1693634492,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449723,
+      "num": 449723,
+      "word": "虞书欣泥浆打戏花絮剧照",
+      "onboard_time": 1693655918,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 441427,
@@ -819,6 +867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 402640,
+      "num": 418660,
+      "word": "云之羽导演顾晓声",
+      "onboard_time": 1693655558,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402460,
       "num": 402460,
       "word": "get到了胡彦斌的魅力",
@@ -833,6 +889,22 @@
       "onboard_time": 1693636051,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398393,
+      "num": 425653,
+      "word": "记某幻账上",
+      "onboard_time": 1693655437,
+      "rank": 18,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 398319,
+      "num": 398319,
+      "word": "于适追猪",
+      "onboard_time": 1693655977,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 394806,
@@ -1043,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326773,
+      "num": 326773,
+      "word": "范丞丞把沈腾放C位",
+      "onboard_time": 1693656098,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326369,
       "num": 334393,
       "word": "大爷毫不犹豫跳进水塘勇救3岁男童",
@@ -1155,11 +1235,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299696,
+      "num": 299696,
+      "word": "我吃宫子羽这张脸",
+      "onboard_time": 1693657537,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299589,
       "num": 394116,
       "word": "苏拉把广东海岸线描了一遍",
       "onboard_time": 1693616735,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298946,
+      "num": 601256,
+      "word": "西安市第一医院两名医生被停职调查",
+      "onboard_time": 1693655376,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1307,20 +1403,20 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 263013,
+      "num": 263013,
+      "word": "日本男篮vs佛得角男篮",
+      "onboard_time": 1693655679,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262491,
       "num": 262491,
       "word": "吴世勋杂志",
       "onboard_time": 1693639414,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 260604,
-      "num": 260604,
-      "word": "公司逼员工主动离职常用套路",
-      "onboard_time": 1693653757,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 256882,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1693613733,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252312,
+      "num": 252312,
+      "word": "数学的诡异漏洞",
+      "onboard_time": 1693655918,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 247825,
@@ -1467,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232295,
+      "num": 232295,
+      "word": "我看封神质子团belike",
+      "onboard_time": 1693657361,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231093,
       "num": 231093,
       "word": "小伙用水桶存私房钱218天共5.3万",
@@ -1497,6 +1609,14 @@
       "onboard_time": 1693569219,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222687,
+      "num": 222687,
+      "word": "侯雯元长春电影节闭幕式主持人",
+      "onboard_time": 1693656818,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 218596,
@@ -1643,11 +1763,27 @@
       "category": "其它"
     },
     {
+      "raw_hot": 201724,
+      "num": 201724,
+      "word": "长春电影节闭幕式",
+      "onboard_time": 1693655977,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200720,
       "num": 191771,
       "word": "审判奥本海默",
       "onboard_time": 1693644092,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200102,
+      "num": 200102,
+      "word": "黄曦彦视频几点发",
+      "onboard_time": 1693656758,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1657,6 +1793,14 @@
       "onboard_time": 1693612770,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 198887,
+      "num": 198887,
+      "word": "WB稳住",
+      "onboard_time": 1693657361,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 198742,
@@ -1809,6 +1953,14 @@
       "onboard_time": 1693608801,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189236,
+      "num": 189236,
+      "word": "秀才是谁",
+      "onboard_time": 1693656458,
+      "rank": 43,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 188784,
@@ -2187,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135924,
+      "num": 135924,
+      "word": "2023男篮世界杯",
+      "onboard_time": 1693654778,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132891,
       "num": 132891,
       "word": "诺兰谈配乐对奥本海默的重要性",
@@ -2241,6 +2401,14 @@
       "onboard_time": 1693573180,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124398,
+      "num": 581026,
+      "word": "姐姐精心策划救回身陷缅甸弟弟",
+      "onboard_time": 1693656098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124077,
@@ -2411,6 +2579,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 41527,
+      "num": 1904418,
+      "word": "杭州亚运会颁奖物资背后满是祝福",
+      "onboard_time": 1693657118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41410,
       "num": 915798,
       "word": "亚运会媒体中心可同时看九场比赛",
@@ -2517,6 +2693,9 @@
     },
     {
       "word": "#我们将共享中国式现代化建设成果#"
+    },
+    {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
     }
   ]
 }
