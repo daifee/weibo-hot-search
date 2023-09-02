@@ -1,0 +1,410 @@
+{
+  "runTime": 1693632841690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3228997,
+        "num": 3228997,
+        "word": "微信图片可以生成excel",
+        "onboard_time": 1693626453,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1774717,
+        "num": 1774717,
+        "word": "香港月租12000元的房子",
+        "onboard_time": 1693629934,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43847,
+        "num": 1052587,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813381,
+        "num": 813381,
+        "word": "胡兵一公排名倒数",
+        "onboard_time": 1693629155,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656161,
+        "num": 656161,
+        "word": "核污染水排放口检测出氚",
+        "onboard_time": 1693626453,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572743,
+        "num": 572743,
+        "word": "台风刮来一张演唱会门票",
+        "onboard_time": 1693625552,
+        "rank": 5,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 570675,
+        "num": 570675,
+        "word": "你好星期六",
+        "onboard_time": 1693630534,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504939,
+        "num": 504939,
+        "word": "世界网速排名中国都蓝得发黑了",
+        "onboard_time": 1693619135,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 454860,
+        "num": 454860,
+        "word": "就让这大雨全都落下",
+        "onboard_time": 1693628852,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 447111,
+        "num": 447111,
+        "word": "鸟鸟 要只在意最重要的人",
+        "onboard_time": 1693625133,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813441,
+        "num": 433626,
+        "word": "林一NewJeans跳了supershy",
+        "onboard_time": 1693628913,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 664189,
+        "num": 412383,
+        "word": "女儿的书桌上没有一丁点学习的东西",
+        "onboard_time": 1693630655,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 643440,
+        "num": 401704,
+        "word": "毕业一个月女儿变成了野人",
+        "onboard_time": 1693615474,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189879,
+        "num": 390681,
+        "word": "一个台风刚登陆另一个台风又来了",
+        "onboard_time": 1693613493,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90657,
+        "num": 364623,
+        "word": "新生从西藏走到四川报到",
+        "onboard_time": 1693631553,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356254,
+        "num": 356254,
+        "word": "骄阳伴我剪辑师招募计划",
+        "onboard_time": 1693629574,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323281,
+        "num": 323281,
+        "word": "有一种沉默是两个人看了部国产烂片",
+        "onboard_time": 1693616375,
+        "rank": 16,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 320447,
+        "num": 320447,
+        "word": "杨紫小夭8月角色热度TOP1",
+        "onboard_time": 1693629334,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317632,
+        "num": 317632,
+        "word": "披荆斩棘",
+        "onboard_time": 1693629274,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313463,
+        "num": 313463,
+        "word": "微信通讯录界面右滑可改备注",
+        "onboard_time": 1693625374,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 608777,
+        "num": 300272,
+        "word": "孙怡问melody喜欢软桃子还是硬桃子",
+        "onboard_time": 1693630837,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280559,
+        "num": 280559,
+        "word": "奥本海默",
+        "onboard_time": 1693630294,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246620,
+        "num": 246620,
+        "word": "蔡国庆可云式演技",
+        "onboard_time": 1693631617,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233530,
+        "num": 233530,
+        "word": "没想到成毅台风还挺活泼的",
+        "onboard_time": 1693629035,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216069,
+        "num": 216069,
+        "word": "用iPhone5s拍照",
+        "onboard_time": 1693621176,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208435,
+        "num": 208435,
+        "word": "再见爱人3预告片",
+        "onboard_time": 1693631617,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207065,
+        "num": 207065,
+        "word": "宫颈切除10余年却查出宫颈癌中晚期",
+        "onboard_time": 1693610726,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204122,
+        "num": 204122,
+        "word": "陈楚生就是冲着唱演舞台来的",
+        "onboard_time": 1693632034,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201731,
+        "num": 201731,
+        "word": "武艺问武艺拿蛋糕好笑吗",
+        "onboard_time": 1693621834,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186731,
+        "num": 186731,
+        "word": "北上广深全部认房不认贷",
+        "onboard_time": 1693614213,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 176874,
+        "num": 176874,
+        "word": "周深朴宰范梦幻联动",
+        "onboard_time": 1693629934,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164952,
+        "num": 164952,
+        "word": "国航回应西安飞温州航班备降武汉",
+        "onboard_time": 1693628794,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158332,
+        "num": 158332,
+        "word": "班里男同学帮我买卫生巾",
+        "onboard_time": 1693616196,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156721,
+        "num": 156721,
+        "word": "魏如萱 不管怎样我都要唱",
+        "onboard_time": 1693625796,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152758,
+        "num": 152758,
+        "word": "我承认当年是我笑太大声了",
+        "onboard_time": 1693627472,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152660,
+        "num": 152660,
+        "word": "苏拉登陆广东珠海",
+        "onboard_time": 1693612170,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145576,
+        "num": 145576,
+        "word": "人一辈子的危机有三次",
+        "onboard_time": 1693616798,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143906,
+        "num": 143906,
+        "word": "刘恋 努力就是一种天赋",
+        "onboard_time": 1693632636,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142515,
+        "num": 142515,
+        "word": "封神第一部的封神之路",
+        "onboard_time": 1693626033,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141732,
+        "num": 141732,
+        "word": "认房不认贷后开发商制造紧张气氛",
+        "onboard_time": 1693615775,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 139340,
+        "num": 139340,
+        "word": "零基础孩子的第一堂美术课",
+        "onboard_time": 1693632813,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135999,
+        "num": 135999,
+        "word": "张栋梁担心自己会被淘汰",
+        "onboard_time": 1693632753,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "德约科维奇",
+        "onboard_time": 1693626033,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133968,
+        "num": 133968,
+        "word": "女子遇暴雨急穿雨衣暖心司机耐心等待",
+        "onboard_time": 1693625250,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 132449,
+        "num": 132449,
+        "word": "医院连续一月为夜班护士免费送宵夜",
+        "onboard_time": 1693620395,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129930,
+        "num": 129930,
+        "word": "天津跳水大爷逐渐专业化了",
+        "onboard_time": 1693616014,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126681,
+        "num": 126681,
+        "word": "长相思腾讯暑期档最大爆款",
+        "onboard_time": 1693621235,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124077,
+        "num": 124077,
+        "word": "时代少年团碰肩挑战",
+        "onboard_time": 1693629755,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117168,
+        "num": 117168,
+        "word": "最有爆相的待播剧",
+        "onboard_time": 1693617936,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115848,
+        "num": 115848,
+        "word": "蒙语版孤勇者专掀天灵盖",
+        "onboard_time": 1693632753,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同贝宁总统会谈#"
+    }
+  }
+}

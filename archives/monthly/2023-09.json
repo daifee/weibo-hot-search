@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693631670532,
+  "endTime": 1693632841690,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -161,6 +161,14 @@
       "onboard_time": 1693568798,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1774717,
+      "num": 1774717,
+      "word": "香港月租12000元的房子",
+      "onboard_time": 1693629934,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1755423,
@@ -331,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1166695,
-      "num": 399449,
-      "word": "香港月租12000元的房子",
-      "onboard_time": 1693629934,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1161330,
       "num": 1161330,
       "word": "武艺问武艺拿蛋糕好笑吗",
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 989861,
-      "num": 394142,
+      "num": 433626,
       "word": "林一NewJeans跳了supershy",
       "onboard_time": 1693628913,
       "rank": 11,
@@ -803,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 664189,
+      "num": 412383,
+      "word": "女儿的书桌上没有一丁点学习的东西",
+      "onboard_time": 1693630655,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 663840,
       "num": 663840,
       "word": "张新成王玉雯新剧舍不得星星",
@@ -816,6 +824,14 @@
       "word": "江浙沪包邮区包不住了",
       "onboard_time": 1693579180,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656161,
+      "num": 656161,
+      "word": "核污染水排放口检测出氚",
+      "onboard_time": 1693626453,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608777,
+      "num": 300272,
+      "word": "孙怡问melody喜欢软桃子还是硬桃子",
+      "onboard_time": 1693630837,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608571,
       "num": 491694,
       "word": "大张伟又cue易烊千玺了",
@@ -1003,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 592376,
-      "num": 592376,
-      "word": "核污染水排放口检测出氚",
-      "onboard_time": 1693626453,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 591891,
       "num": 591891,
       "word": "快看今晚的月亮",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1693607838,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570675,
+      "num": 570675,
+      "word": "你好星期六",
+      "onboard_time": 1693630534,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 569894,
@@ -1483,14 +1507,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 450441,
-      "num": 271151,
-      "word": "孙怡问melody喜欢软桃子还是硬桃子",
-      "onboard_time": 1693630837,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448576,
       "num": 410320,
       "word": "陈伟霆说这话时魏大勋就在旁边",
@@ -1747,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391700,
-      "num": 203697,
-      "word": "女儿的书桌上没有一丁点学习的东西",
-      "onboard_time": 1693630655,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 388788,
       "num": 388788,
       "word": "徐冬冬尹子维首档恋综",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1693541919,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378422,
-      "num": 378422,
-      "word": "你好星期六",
-      "onboard_time": 1693630534,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 378206,
@@ -2651,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246620,
+      "num": 246620,
+      "word": "蔡国庆可云式演技",
+      "onboard_time": 1693631617,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246618,
       "num": 246618,
       "word": "关智斌徐良何展成悬溺",
@@ -2947,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208435,
+      "num": 208435,
+      "word": "再见爱人3预告片",
+      "onboard_time": 1693631617,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208365,
       "num": 208365,
       "word": "男子离婚两月后发现2岁儿子非亲生",
@@ -3032,6 +3048,14 @@
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1693560521,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204122,
+      "num": 204122,
+      "word": "陈楚生就是冲着唱演舞台来的",
+      "onboard_time": 1693632034,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -3377,14 +3401,6 @@
       "onboard_time": 1693539036,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184645,
-      "num": 203685,
-      "word": "再见爱人3预告片",
-      "onboard_time": 1693631617,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 184246,
@@ -3755,6 +3771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143906,
+      "num": 143906,
+      "word": "刘恋 努力就是一种天赋",
+      "onboard_time": 1693632636,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140919,
       "num": 140919,
       "word": "奥本海默 脸盲",
@@ -3769,6 +3793,14 @@
       "onboard_time": 1693501284,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 139340,
+      "num": 139340,
+      "word": "零基础孩子的第一堂美术课",
+      "onboard_time": 1693632813,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 138269,
@@ -3793,6 +3825,14 @@
       "onboard_time": 1693621053,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135999,
+      "num": 135999,
+      "word": "张栋梁担心自己会被淘汰",
+      "onboard_time": 1693632753,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135878,
@@ -3827,6 +3867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124077,
+      "num": 124077,
+      "word": "时代少年团碰肩挑战",
+      "onboard_time": 1693629755,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124043,
       "num": 124043,
       "word": "内娱银发漫撕男",
@@ -3851,14 +3899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121223,
-      "num": 203629,
-      "word": "蔡国庆可云式演技",
-      "onboard_time": 1693631617,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "灯塔2023暑期档剧集榜单",
@@ -3873,6 +3913,14 @@
       "onboard_time": 1693627235,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115848,
+      "num": 115848,
+      "word": "蒙语版孤勇者专掀天灵盖",
+      "onboard_time": 1693632753,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115747,
@@ -3977,6 +4025,14 @@
       "onboard_time": 1693587687,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90657,
+      "num": 377257,
+      "word": "新生从西藏走到四川报到",
+      "onboard_time": 1693631553,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88282,
@@ -4171,6 +4227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43847,
+      "num": 1052587,
+      "word": "感受2023服贸会风采",
+      "onboard_time": 1693631015,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42990,
       "num": 42990,
       "word": "画师工作环境",
@@ -4275,14 +4339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28778,
-      "num": 701947,
-      "word": "感受2023服贸会风采",
-      "onboard_time": 1693631015,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28091,
       "num": 33774,
       "word": "风箫孙尚香抢龙",
@@ -4377,14 +4433,6 @@
       "onboard_time": 1693571497,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4751,
-      "num": 377257,
-      "word": "新生从西藏走到四川报到",
-      "onboard_time": 1693631553,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -4408,6 +4456,9 @@
     },
     {
       "word": "#2023服贸会开幕#"
+    },
+    {
+      "word": "#习近平同贝宁总统会谈#"
     }
   ]
 }
