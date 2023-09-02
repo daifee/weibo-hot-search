@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693632841690,
+  "endTime": 1693635586798,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -787,6 +787,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1804685,
+      "num": 1804685,
+      "word": "香港月租12000元的房子",
+      "onboard_time": 1693629934,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1799943,
       "num": 1175819,
       "word": "苹果15",
@@ -809,14 +817,6 @@
       "onboard_time": 1693568798,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1774717,
-      "num": 1774717,
-      "word": "香港月租12000元的房子",
-      "onboard_time": 1693629934,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 1767604,
@@ -1724,7 +1724,7 @@
     },
     {
       "raw_hot": 989861,
-      "num": 433626,
+      "num": 440759,
       "word": "林一NewJeans跳了supershy",
       "onboard_time": 1693628913,
       "rank": 11,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1693605376,
       "rank": 15,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 910005,
+      "num": 910005,
+      "word": "韩东君突然有人夫感了",
+      "onboard_time": 1693633711,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 905099,
@@ -2225,6 +2233,14 @@
       "onboard_time": 1693538435,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 822677,
+      "num": 822677,
+      "word": "孙怡问melody喜欢软桃子还是硬桃子",
+      "onboard_time": 1693630837,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 819339,
@@ -2635,6 +2651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 723795,
+      "num": 723795,
+      "word": "女儿的书桌上没有一丁点学习的东西",
+      "onboard_time": 1693630655,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 721776,
       "num": 721776,
       "word": "杨幂参加广电座谈会",
@@ -2961,14 +2985,6 @@
       "onboard_time": 1693220198,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 664189,
-      "num": 412383,
-      "word": "女儿的书桌上没有一丁点学习的东西",
-      "onboard_time": 1693630655,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 663840,
@@ -3393,14 +3409,6 @@
       "onboard_time": 1693535195,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608777,
-      "num": 300272,
-      "word": "孙怡问melody喜欢软桃子还是硬桃子",
-      "onboard_time": 1693630837,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 608571,
@@ -4619,6 +4627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 477174,
+      "num": 259248,
+      "word": "陈楚生张远俞灏明演了同一个人",
+      "onboard_time": 1693633292,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 476565,
       "num": 476565,
       "word": "谁给胡兵投的票",
@@ -5563,6 +5579,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 408733,
+      "num": 252751,
+      "word": "爸爸送3岁女儿入学后哭成泪人",
+      "onboard_time": 1693632753,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 408112,
       "num": 408112,
       "word": "唐艺昕男友视角",
@@ -6080,6 +6104,14 @@
       "word": "庄子璇港姐冠军",
       "onboard_time": 1693149636,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 376651,
+      "num": 376651,
+      "word": "敖子逸录别的综艺还想着蒋依依",
+      "onboard_time": 1693633832,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -7217,6 +7249,14 @@
       "onboard_time": 1693299220,
       "rank": 27,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 326801,
+      "num": 250232,
+      "word": "周柯宇这次淘汰没有哭",
+      "onboard_time": 1693633292,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 326649,
@@ -8659,6 +8699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272992,
+      "num": 272992,
+      "word": "上山下全场第一",
+      "onboard_time": 1693634492,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272733,
       "num": 272733,
       "word": "工作室这么会剪成毅知道吗",
@@ -9739,6 +9787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240765,
+      "num": 216495,
+      "word": "再见爱人",
+      "onboard_time": 1693633892,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240742,
       "num": 240742,
       "word": "舒淇作为威尼斯电影节评委亮相",
@@ -10259,11 +10315,27 @@
       "category": "其它,幽默"
     },
     {
+      "raw_hot": 225602,
+      "num": 225602,
+      "word": "小伙用水桶存私房钱218天共5.3万",
+      "onboard_time": 1693634135,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225460,
       "num": 225460,
       "word": "张杰 嗓子很忙",
       "onboard_time": 1693354540,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225093,
+      "num": 165363,
+      "word": "张栋梁担心自己会被淘汰",
+      "onboard_time": 1693632753,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -12019,6 +12091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191203,
+      "num": 140358,
+      "word": "敖子逸和黄锐不用避嫌吗",
+      "onboard_time": 1693633113,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190605,
       "num": 190605,
       "word": "花轿喜事今日开播",
@@ -12344,6 +12424,14 @@
       "word": "十个勤天直播",
       "onboard_time": 1693484795,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184000,
+      "num": 138507,
+      "word": "马嘉祺丁程鑫玩321看挑战",
+      "onboard_time": 1693633772,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -12737,6 +12825,14 @@
       "onboard_time": 1693327229,
       "rank": 27,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 172326,
+      "num": 143906,
+      "word": "刘恋 努力就是一种天赋",
+      "onboard_time": 1693632636,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172224,
@@ -13427,14 +13523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143906,
-      "num": 143906,
-      "word": "刘恋 努力就是一种天赋",
-      "onboard_time": 1693632636,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142610,
       "num": 142610,
       "word": "08中国男篮成员全部退役",
@@ -13539,6 +13627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137277,
+      "num": 377257,
+      "word": "新生从西藏走到四川报到",
+      "onboard_time": 1693631553,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137080,
       "num": 154212,
       "word": "全盲男生说上天关的门是自己破出来的",
@@ -13561,14 +13657,6 @@
       "onboard_time": 1693224099,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135999,
-      "num": 135999,
-      "word": "张栋梁担心自己会被淘汰",
-      "onboard_time": 1693632753,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 135543,
@@ -13643,12 +13731,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 131285,
+      "num": 131285,
+      "word": "蒙语版孤勇者专掀天灵盖",
+      "onboard_time": 1693632753,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131208,
       "num": 169039,
       "word": "磁悬浮小兔",
       "onboard_time": 1693315960,
       "rank": 49,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 130146,
+      "num": 130146,
+      "word": "伦敦跑酷玩家日常下楼",
+      "onboard_time": 1693635090,
+      "rank": 44,
+      "category": "其它"
     },
     {
       "raw_hot": 129805,
@@ -13769,14 +13873,6 @@
       "onboard_time": 1693224099,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115848,
-      "num": 115848,
-      "word": "蒙语版孤勇者专掀天灵盖",
-      "onboard_time": 1693632753,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 115766,
@@ -14059,6 +14155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91612,
+      "num": 366298,
+      "word": "西安警方101天跨5省追回200万",
+      "onboard_time": 1693634431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91378,
       "num": 104022,
       "word": "起床哼唧的橘猫",
@@ -14073,14 +14177,6 @@
       "onboard_time": 1693415962,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 90657,
-      "num": 377257,
-      "word": "新生从西藏走到四川报到",
-      "onboard_time": 1693631553,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87933,
@@ -14588,7 +14684,7 @@
     },
     {
       "raw_hot": 43847,
-      "num": 1052587,
+      "num": 1077946,
       "word": "感受2023服贸会风采",
       "onboard_time": 1693631015,
       "rank": 2,
