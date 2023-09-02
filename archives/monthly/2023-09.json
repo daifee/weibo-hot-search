@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693679637295,
+  "endTime": 1693681945777,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -5931,8 +5931,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58008,
-      "num": 58008,
+      "raw_hot": 62378,
+      "num": 58810,
+      "word": "费翔 年轻时最不感兴趣的就是父母",
+      "onboard_time": 1693680918,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61501,
+      "num": 61501,
       "word": "生病之后特别能理解这句话",
       "onboard_time": 1693678820,
       "rank": 44,
@@ -6043,12 +6051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43187,
+      "num": 43187,
+      "word": "锈湖梗图",
+      "onboard_time": 1693681757,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42990,
       "num": 42990,
       "word": "画师工作环境",
       "onboard_time": 1693593316,
       "rank": 38,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 42775,
+      "num": 42775,
+      "word": "957 我们虹桥见",
+      "onboard_time": 1693679778,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 42131,

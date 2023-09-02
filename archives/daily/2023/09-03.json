@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693679637295,
+  "endTime": 1693681945777,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -483,8 +483,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 58008,
-      "num": 58008,
+      "raw_hot": 62378,
+      "num": 58810,
+      "word": "费翔 年轻时最不感兴趣的就是父母",
+      "onboard_time": 1693680918,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61501,
+      "num": 61501,
       "word": "生病之后特别能理解这句话",
       "onboard_time": 1693678820,
       "rank": 44,
@@ -497,6 +505,22 @@
       "onboard_time": 1693678760,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43187,
+      "num": 43187,
+      "word": "锈湖梗图",
+      "onboard_time": 1693681757,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 42775,
+      "num": 42775,
+      "word": "957 我们虹桥见",
+      "onboard_time": 1693679778,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 34749,
@@ -518,6 +542,9 @@
   "hotgov_list": [
     {
       "word": "#我们将共享中国式现代化建设成果#"
+    },
+    {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
     }
   ]
 }
