@@ -1,14 +1,22 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693650845774,
+  "endTime": 1693653171020,
   "band_list": [
     {
-      "raw_hot": 4631644,
-      "num": 4631644,
+      "raw_hot": 8493935,
+      "num": 8493935,
       "word": "秀才被封",
       "onboard_time": 1693649312,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5620154,
+      "num": 5620154,
+      "word": "云之羽空降",
+      "onboard_time": 1693651298,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 3452863,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 2981150,
-      "num": 525679,
+      "num": 531249,
       "word": "老番茄结婚",
       "onboard_time": 1693644633,
       "rank": 10,
@@ -113,6 +121,14 @@
       "onboard_time": 1693616375,
       "rank": 16,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 1286424,
+      "num": 1286424,
+      "word": "日本接连发生大规模集体食物中毒",
+      "onboard_time": 1693651598,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1161330,
@@ -291,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 761195,
+      "num": 761195,
+      "word": "一笑倾城",
+      "onboard_time": 1693652680,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 739677,
       "num": 739677,
       "word": "张远三年内经历了赔钱生离死别",
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 627606,
-      "num": 1767465,
+      "num": 5728689,
       "word": "车祸后18个人54秒救了2条命",
       "onboard_time": 1693645292,
       "rank": 14,
@@ -460,11 +484,19 @@
     },
     {
       "raw_hot": 581756,
-      "num": 322911,
+      "num": 325942,
       "word": "你现在收入存够1千万要多久",
       "onboard_time": 1693648115,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571543,
+      "num": 422995,
+      "word": "生娃之前 可先看看李湘谷燕",
+      "onboard_time": 1693652257,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 571309,
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 538566,
-      "num": 309693,
+      "num": 324395,
       "word": "变丑的原因是灵气没了",
       "onboard_time": 1693644935,
       "rank": 21,
@@ -747,8 +779,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 404471,
-      "num": 298625,
+      "raw_hot": 406631,
+      "num": 325220,
       "word": "张柏芝公主切",
       "onboard_time": 1693649734,
       "rank": 49,
@@ -899,6 +931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348374,
+      "num": 324931,
+      "word": "范丞丞王安宇合体录综艺",
+      "onboard_time": 1693650934,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343422,
       "num": 320693,
       "word": "国色芳华女主",
@@ -955,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327298,
+      "num": 327298,
+      "word": "云之羽OST阵容",
+      "onboard_time": 1693653037,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326801,
       "num": 250232,
       "word": "周柯宇这次淘汰没有哭",
@@ -971,6 +1019,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 322432,
+      "num": 322432,
+      "word": "Zoom和Tian担任解说杯嘉宾",
+      "onboard_time": 1693649312,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 321364,
       "num": 321364,
       "word": "奥本海默妻子",
@@ -985,6 +1041,14 @@
       "onboard_time": 1693582181,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314872,
+      "num": 314872,
+      "word": "五月天广州开船",
+      "onboard_time": 1693650876,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 314044,
@@ -1043,12 +1107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306312,
+      "num": 1977303,
+      "word": "熊猫界的娃娃脸",
+      "onboard_time": 1693639591,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305871,
       "num": 413653,
       "word": "3000多岁国宝曾差点被当废品卖掉",
       "onboard_time": 1693579664,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303815,
+      "num": 303815,
+      "word": "于适工作室真的很有sense",
+      "onboard_time": 1693651414,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 299589,
@@ -1169,14 +1249,6 @@
       "onboard_time": 1693626873,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271285,
-      "num": 873957,
-      "word": "熊猫界的娃娃脸",
-      "onboard_time": 1693639591,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270592,
@@ -1395,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216354,
+      "num": 216354,
+      "word": "蔡依林长沙",
+      "onboard_time": 1693651720,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216006,
       "num": 258717,
       "word": "苏拉再次登陆广东最大风力10级",
@@ -1409,14 +1489,6 @@
       "onboard_time": 1693621954,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210340,
-      "num": 210340,
-      "word": "Zoom和Tian担任解说杯嘉宾",
-      "onboard_time": 1693649312,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 208935,
@@ -1603,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195035,
+      "num": 195035,
+      "word": "现在就出发",
+      "onboard_time": 1693650994,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194902,
       "num": 194902,
       "word": "秋天来央视追剧",
@@ -1656,6 +1736,14 @@
       "word": "小夭 万物皆为我歌",
       "onboard_time": 1693584395,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191439,
+      "num": 191439,
+      "word": "长春电影节闭幕式红毯",
+      "onboard_time": 1693653037,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1723,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186336,
+      "num": 186336,
+      "word": "马冬梅任北京市平谷区副区长",
+      "onboard_time": 1693652920,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186128,
       "num": 186128,
       "word": "韩男子性侵女儿10年被妻子刺伤双眼",
@@ -1753,6 +1849,14 @@
       "onboard_time": 1693627955,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 180752,
+      "num": 180752,
+      "word": "蓝色监狱 虾淘",
+      "onboard_time": 1693650515,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 178976,
@@ -1796,7 +1900,7 @@
     },
     {
       "raw_hot": 174758,
-      "num": 574384,
+      "num": 1035416,
       "word": "的哥送还10万现金只收失主10块钱",
       "onboard_time": 1693648236,
       "rank": 6,
@@ -1849,14 +1953,6 @@
       "onboard_time": 1693585773,
       "rank": 42,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 165994,
-      "num": 165994,
-      "word": "蓝色监狱 虾淘",
-      "onboard_time": 1693650515,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 164082,
@@ -2156,7 +2252,7 @@
     },
     {
       "raw_hot": 97149,
-      "num": 1545974,
+      "num": 5640878,
       "word": "服贸会朋友圈为何能越做越大",
       "onboard_time": 1693645834,
       "rank": 2,
@@ -2280,6 +2376,14 @@
       "word": "深圳市台风橙色预警信号升级为红色",
       "onboard_time": 1693596375,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33697,
+      "num": 442855,
+      "word": "高校连续4年为独自报到新生发奖状",
+      "onboard_time": 1693652499,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
