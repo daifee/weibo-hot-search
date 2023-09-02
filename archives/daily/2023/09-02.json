@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693657719041,
+  "endTime": 1693658662693,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2981150,
-      "num": 769146,
+      "num": 788304,
       "word": "老番茄结婚",
       "onboard_time": 1693644633,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1508709,
+      "num": 1508709,
+      "word": "云之羽开播口碑",
+      "onboard_time": 1693656339,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1426577,
       "num": 352329,
       "word": "赵丽颖小乌龟连续剧又更新了",
@@ -139,20 +147,20 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 1247403,
-      "num": 1247403,
-      "word": "云之羽开播口碑",
-      "onboard_time": 1693656339,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1161330,
       "num": 1161330,
       "word": "武艺问武艺拿蛋糕好笑吗",
       "onboard_time": 1693621834,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1155673,
+      "num": 1155673,
+      "word": "马冬梅任北京市平谷区副区长",
+      "onboard_time": 1693652920,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1138592,
@@ -227,6 +235,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 952704,
+      "num": 952704,
+      "word": "公司逼员工主动离职常用套路",
+      "onboard_time": 1693653757,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 940506,
       "num": 940506,
       "word": "哪个演员敢拿金熊猫奖",
@@ -259,28 +275,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 899925,
-      "num": 899925,
-      "word": "马冬梅任北京市平谷区副区长",
-      "onboard_time": 1693652920,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 898734,
       "num": 898734,
       "word": "台风刮来一张演唱会门票",
       "onboard_time": 1693625552,
       "rank": 38,
       "category": "情感,作品衍生"
-    },
-    {
-      "raw_hot": 896632,
-      "num": 896632,
-      "word": "公司逼员工主动离职常用套路",
-      "onboard_time": 1693653757,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 885906,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 812816,
+      "num": 812816,
+      "word": "Uzi说明年打不了",
+      "onboard_time": 1693656636,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 807214,
       "num": 807214,
       "word": "封神雷震子倒立洗头",
@@ -363,14 +371,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 770655,
-      "num": 770655,
-      "word": "Uzi说明年打不了",
-      "onboard_time": 1693656636,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 739677,
       "num": 739677,
       "word": "张远三年内经历了赔钱生离死别",
@@ -393,6 +393,14 @@
       "onboard_time": 1693630655,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 714103,
+      "num": 714103,
+      "word": "我吃宫子羽这张脸",
+      "onboard_time": 1693657537,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 694103,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 581756,
-      "num": 413648,
+      "num": 433345,
       "word": "你现在收入存够1千万要多久",
       "onboard_time": 1693648115,
       "rank": 23,
@@ -747,6 +755,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460635,
+      "num": 460635,
+      "word": "记某幻账上",
+      "onboard_time": 1693655437,
+      "rank": 18,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 459601,
+      "num": 459601,
+      "word": "虞书欣泥浆打戏花絮剧照",
+      "onboard_time": 1693655918,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 458404,
       "num": 458404,
       "word": "白百何新剧出场镜头",
@@ -769,14 +793,6 @@
       "onboard_time": 1693634492,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 449723,
-      "num": 449723,
-      "word": "虞书欣泥浆打戏花絮剧照",
-      "onboard_time": 1693655918,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 441427,
@@ -883,28 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401210,
+      "num": 401210,
+      "word": "于适追猪",
+      "onboard_time": 1693655977,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400787,
       "num": 400787,
       "word": "二战德国为什么没有造出原子弹",
       "onboard_time": 1693636051,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 398393,
-      "num": 425653,
-      "word": "记某幻账上",
-      "onboard_time": 1693655437,
-      "rank": 18,
-      "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 398319,
-      "num": 398319,
-      "word": "于适追猪",
-      "onboard_time": 1693655977,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 394806,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1693636352,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 364205,
+      "num": 710710,
+      "word": "西安市第一医院两名医生被停职调查",
+      "onboard_time": 1693655376,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355369,
@@ -1147,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316447,
+      "num": 316447,
+      "word": "金靖出场把我笑死",
+      "onboard_time": 1693658378,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315539,
       "num": 315539,
       "word": "八仙饭店 改编",
@@ -1235,27 +1259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299696,
-      "num": 299696,
-      "word": "我吃宫子羽这张脸",
-      "onboard_time": 1693657537,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 299589,
       "num": 394116,
       "word": "苏拉把广东海岸线描了一遍",
       "onboard_time": 1693616735,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298946,
-      "num": 601256,
-      "word": "西安市第一医院两名医生被停职调查",
-      "onboard_time": 1693655376,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1392,6 +1400,14 @@
       "word": "肖战盛阳V榜破9登顶",
       "onboard_time": 1693622853,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 266088,
+      "num": 220641,
+      "word": "虞书欣云之羽泥潭厮杀戏",
+      "onboard_time": 1693657897,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1571,12 +1587,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236279,
+      "num": 236279,
+      "word": "侯雯元长春电影节闭幕式主持人",
+      "onboard_time": 1693656818,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232295,
       "num": 232295,
       "word": "我看封神质子团belike",
       "onboard_time": 1693657361,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232285,
+      "num": 232285,
+      "word": "中国男篮vs菲律宾男篮",
+      "onboard_time": 1693658018,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 231093,
@@ -1603,20 +1635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224984,
+      "num": 224984,
+      "word": "长春电影节闭幕式",
+      "onboard_time": 1693655977,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224561,
       "num": 224561,
       "word": "苏拉或成1949年以来登陆珠三角最强台风",
       "onboard_time": 1693569219,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222687,
-      "num": 222687,
-      "word": "侯雯元长春电影节闭幕式主持人",
-      "onboard_time": 1693656818,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 218596,
@@ -1633,6 +1665,14 @@
       "onboard_time": 1693651720,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216201,
+      "num": 216201,
+      "word": "易烊千玺金鹿奖最佳男演员",
+      "onboard_time": 1693658618,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 216006,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1693629934,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206381,
+      "num": 710167,
+      "word": "姐姐精心策划救回身陷缅甸弟弟",
+      "onboard_time": 1693656098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205961,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1693639292,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 201724,
-      "num": 201724,
-      "word": "长春电影节闭幕式",
-      "onboard_time": 1693655977,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 200720,
@@ -1848,6 +1888,14 @@
       "word": "屈楚萧都在看些什么",
       "onboard_time": 1693618234,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196799,
+      "num": 196799,
+      "word": "盛阳这样的到底是谁在谈",
+      "onboard_time": 1693657717,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -2019,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184160,
+      "num": 184160,
+      "word": "装腔启示录一口气炫到大结局",
+      "onboard_time": 1693657778,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184000,
       "num": 177421,
       "word": "马嘉祺丁程鑫玩321看挑战",
@@ -2185,6 +2241,14 @@
       "onboard_time": 1693631195,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154396,
+      "num": 176417,
+      "word": "原来我小时候这么有品",
+      "onboard_time": 1693658257,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 154174,
@@ -2403,14 +2467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124398,
-      "num": 581026,
-      "word": "姐姐精心策划救回身陷缅甸弟弟",
-      "onboard_time": 1693656098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124077,
       "num": 124077,
       "word": "时代少年团碰肩挑战",
@@ -2515,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66040,
+      "num": 1904418,
+      "word": "杭州亚运会颁奖物资背后满是祝福",
+      "onboard_time": 1693657118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64044,
       "num": 68111,
       "word": "张栋梁你还说你不会跳舞",
@@ -2577,14 +2641,6 @@
       "onboard_time": 1693593316,
       "rank": 38,
       "category": "动漫,幽默"
-    },
-    {
-      "raw_hot": 41527,
-      "num": 1904418,
-      "word": "杭州亚运会颁奖物资背后满是祝福",
-      "onboard_time": 1693657118,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41410,
