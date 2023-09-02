@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693685763357,
+  "endTime": 1693686848517,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -499,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63130,
+      "num": 55737,
+      "word": "王耀庆一公个人喜爱度第一",
+      "onboard_time": 1693684514,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61501,
       "num": 61501,
       "word": "生病之后特别能理解这句话",
@@ -513,14 +521,6 @@
       "onboard_time": 1693678760,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 48025,
-      "num": 50125,
-      "word": "王耀庆一公个人喜爱度第一",
-      "onboard_time": 1693684514,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 43766,
@@ -552,6 +552,14 @@
       "word": "杭州亚运会颁奖物资背后满是祝福",
       "onboard_time": 1693657118,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34720,
+      "num": 34720,
+      "word": "女儿送58元戒指没想到妈妈戴了9年",
+      "onboard_time": 1693685895,
+      "rank": 28,
       "category": "社会新闻"
     },
     {

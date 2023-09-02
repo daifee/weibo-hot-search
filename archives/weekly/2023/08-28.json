@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693685763357,
+  "endTime": 1693686848517,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -16163,6 +16163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63130,
+      "num": 55737,
+      "word": "王耀庆一公个人喜爱度第一",
+      "onboard_time": 1693684514,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63075,
       "num": 63075,
       "word": "FIFTY FIFTY与经纪公司的专属合约有效",
@@ -16289,14 +16297,6 @@
       "onboard_time": 1693417219,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48025,
-      "num": 50125,
-      "word": "王耀庆一公个人喜爱度第一",
-      "onboard_time": 1693684514,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 47892,
@@ -16528,6 +16528,14 @@
       "word": "深圳市台风橙色预警信号升级为红色",
       "onboard_time": 1693596375,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34720,
+      "num": 34720,
+      "word": "女儿送58元戒指没想到妈妈戴了9年",
+      "onboard_time": 1693685895,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
