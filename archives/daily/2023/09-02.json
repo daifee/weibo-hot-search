@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693635586798,
+  "endTime": 1693636435232,
   "band_list": [
     {
       "raw_hot": 3452863,
@@ -107,6 +107,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1008885,
+      "num": 1008885,
+      "word": "韩东君突然有人夫感了",
+      "onboard_time": 1693633711,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 999101,
       "num": 999101,
       "word": "胡兵一公排名倒数",
@@ -137,14 +145,6 @@
       "onboard_time": 1693605376,
       "rank": 15,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 910005,
-      "num": 910005,
-      "word": "韩东君突然有人夫感了",
-      "onboard_time": 1693633711,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 898734,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 477174,
-      "num": 259248,
+      "num": 452465,
       "word": "陈楚生张远俞灏明演了同一个人",
       "onboard_time": 1693633292,
       "rank": 20,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463188,
+      "num": 463188,
+      "word": "敖子逸录别的综艺还想着蒋依依",
+      "onboard_time": 1693633832,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463049,
       "num": 463049,
       "word": "最有爆相的待播剧",
@@ -433,6 +441,14 @@
       "onboard_time": 1693617754,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 449842,
+      "num": 449842,
+      "word": "上山下全场第一",
+      "onboard_time": 1693634492,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 441427,
@@ -539,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376651,
-      "num": 376651,
-      "word": "敖子逸录别的综艺还想着蒋依依",
-      "onboard_time": 1693633832,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376409,
       "num": 376409,
       "word": "杨紫小夭8月角色热度TOP1",
@@ -561,6 +569,14 @@
       "onboard_time": 1693578341,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370361,
+      "num": 243014,
+      "word": "唐禹哲一公排名",
+      "onboard_time": 1693636171,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 369889,
@@ -803,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272992,
-      "num": 272992,
-      "word": "上山下全场第一",
-      "onboard_time": 1693634492,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271618,
       "num": 271618,
       "word": "骄阳伴我里缺一个我",
@@ -947,8 +955,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225602,
-      "num": 225602,
+      "raw_hot": 231360,
+      "num": 207669,
+      "word": "Angelababy张大大走红毯",
+      "onboard_time": 1693635692,
+      "rank": 25,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 231093,
+      "num": 231093,
       "word": "小伙用水桶存私房钱218天共5.3万",
       "onboard_time": 1693634135,
       "rank": 24,
@@ -992,6 +1008,14 @@
       "word": "再见爱人3预告片",
       "onboard_time": 1693631617,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207311,
+      "num": 207311,
+      "word": "无数舞台",
+      "onboard_time": 1693636111,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1059,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196110,
+      "num": 196110,
+      "word": "披荆斩棘排名",
+      "onboard_time": 1693636412,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194902,
       "num": 194902,
       "word": "秋天来央视追剧",
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 191203,
-      "num": 140358,
+      "num": 160668,
       "word": "敖子逸和黄锐不用避嫌吗",
       "onboard_time": 1693633113,
       "rank": 35,
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 184000,
-      "num": 138507,
+      "num": 160227,
       "word": "马嘉祺丁程鑫玩321看挑战",
       "onboard_time": 1693633772,
       "rank": 37,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1693627955,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 181887,
+      "num": 160577,
+      "word": "二战德国为什么没有造出原子弹",
+      "onboard_time": 1693636051,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 178976,
@@ -1243,12 +1283,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 165052,
+      "num": 196836,
+      "word": "面包为什么越来越贵了",
+      "onboard_time": 1693636352,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161430,
       "num": 178132,
       "word": "魏如萱演唱会",
       "onboard_time": 1693619796,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160023,
+      "num": 160023,
+      "word": "王栎鑫架子鼓",
+      "onboard_time": 1693635812,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 158249,
@@ -1307,12 +1363,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142820,
+      "num": 160892,
+      "word": "显微镜下皮肤上的针孔",
+      "onboard_time": 1693635992,
+      "rank": 34,
+      "category": "其它"
+    },
+    {
       "raw_hot": 142032,
       "num": 142032,
       "word": "贝儿是吞了只百灵鸟吗",
       "onboard_time": 1693579304,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141957,
+      "num": 366298,
+      "word": "西安警方101天跨5省追回200万",
+      "onboard_time": 1693634431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140919,
@@ -1355,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131740,
+      "num": 153843,
+      "word": "会使用平板的鹦鹉",
+      "onboard_time": 1693636232,
+      "rank": 41,
+      "category": "自然"
+    },
+    {
       "raw_hot": 131285,
       "num": 131285,
       "word": "蒙语版孤勇者专掀天灵盖",
@@ -1395,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120427,
+      "num": 151325,
+      "word": "如果没条件去旅行",
+      "onboard_time": 1693635750,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 118545,
       "num": 135469,
       "word": "汪苏泷郑州演唱会",
@@ -1419,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110253,
+      "num": 148694,
+      "word": "寿司店的酱油包被我当U盘了",
+      "onboard_time": 1693636292,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107513,
       "num": 99903,
       "word": "路过的网友全部舔一口",
@@ -1441,14 +1537,6 @@
       "onboard_time": 1693586371,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91612,
-      "num": 366298,
-      "word": "西安警方101天跨5省追回200万",
-      "onboard_time": 1693634431,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91378,
@@ -1516,7 +1604,7 @@
     },
     {
       "raw_hot": 43847,
-      "num": 1077946,
+      "num": 1124770,
       "word": "感受2023服贸会风采",
       "onboard_time": 1693631015,
       "rank": 2,
