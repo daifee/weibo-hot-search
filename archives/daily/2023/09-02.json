@@ -1,7 +1,15 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693649749349,
+  "endTime": 1693650845774,
   "band_list": [
+    {
+      "raw_hot": 4631644,
+      "num": 4631644,
+      "word": "秀才被封",
+      "onboard_time": 1693649312,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3452863,
       "num": 3452863,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1426577,
-      "num": 311877,
+      "num": 352329,
       "word": "赵丽颖小乌龟连续剧又更新了",
       "onboard_time": 1693645773,
       "rank": 22,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 984497,
-      "num": 318403,
+      "num": 341810,
       "word": "内娱顶级贵公子",
       "onboard_time": 1693642236,
       "rank": 25,
@@ -185,14 +193,6 @@
       "onboard_time": 1693625374,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 963370,
-      "num": 963370,
-      "word": "秀才被封",
-      "onboard_time": 1693649312,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 940506,
@@ -371,6 +371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 628968,
+      "num": 628968,
+      "word": "王栎鑫儿子女儿来披荆斩棘当观众了",
+      "onboard_time": 1693647930,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 627606,
+      "num": 1767465,
+      "word": "车祸后18个人54秒救了2条命",
+      "onboard_time": 1693645292,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627596,
       "num": 627596,
       "word": "长相思腾讯暑期档最大爆款",
@@ -419,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601314,
-      "num": 1133691,
-      "word": "车祸后18个人54秒救了2条命",
-      "onboard_time": 1693645292,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 599344,
       "num": 599344,
       "word": "原来真的有小人国",
@@ -449,6 +457,14 @@
       "onboard_time": 1693636171,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 581756,
+      "num": 322911,
+      "word": "你现在收入存够1千万要多久",
+      "onboard_time": 1693648115,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571309,
@@ -508,19 +524,11 @@
     },
     {
       "raw_hot": 538566,
-      "num": 309135,
+      "num": 309693,
       "word": "变丑的原因是灵气没了",
       "onboard_time": 1693644935,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 531445,
-      "num": 298740,
-      "word": "你现在收入存够1千万要多久",
-      "onboard_time": 1693648115,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530720,
@@ -585,14 +593,6 @@
       "onboard_time": 1693616014,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483375,
-      "num": 483375,
-      "word": "王栎鑫儿子女儿来披荆斩棘当观众了",
-      "onboard_time": 1693647930,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 480004,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 455589,
-      "num": 455589,
+      "num": 489619,
       "word": "台风苏拉一天两次登陆广东",
       "onboard_time": 1693638210,
       "rank": 13,
@@ -745,6 +745,14 @@
       "onboard_time": 1693632753,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 404471,
+      "num": 298625,
+      "word": "张柏芝公主切",
+      "onboard_time": 1693649734,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 402460,
@@ -1052,7 +1060,7 @@
     },
     {
       "raw_hot": 296625,
-      "num": 484294,
+      "num": 492142,
       "word": "近视还无法治愈",
       "onboard_time": 1693643496,
       "rank": 12,
@@ -1163,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271285,
+      "num": 873957,
+      "word": "熊猫界的娃娃脸",
+      "onboard_time": 1693639591,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270592,
       "num": 270592,
       "word": "定向免费医学生考上研究生后欲违约",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1693613733,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247825,
+      "num": 247825,
+      "word": "小夭以爱为笼",
+      "onboard_time": 1693649073,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 246620,
@@ -1379,20 +1403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213321,
-      "num": 717555,
-      "word": "熊猫界的娃娃脸",
-      "onboard_time": 1693639591,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211022,
       "num": 211022,
       "word": "暑期的最后一个星期六干什么",
       "onboard_time": 1693621954,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210340,
+      "num": 210340,
+      "word": "Zoom和Tian担任解说杯嘉宾",
+      "onboard_time": 1693649312,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 208935,
@@ -1451,16 +1475,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204914,
-      "num": 204914,
-      "word": "小夭以爱为笼",
-      "onboard_time": 1693649073,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 204862,
-      "num": 204862,
+      "raw_hot": 204918,
+      "num": 204918,
       "word": "盛阳扫码支父",
       "onboard_time": 1693648832,
       "rank": 32,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1693628794,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203670,
+      "num": 203670,
+      "word": "长春电影节",
+      "onboard_time": 1693650093,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 203555,
@@ -1545,6 +1569,14 @@
       "onboard_time": 1693638092,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197049,
+      "num": 197049,
+      "word": "现在就出发山系自拍pk",
+      "onboard_time": 1693650457,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 197015,
@@ -1747,8 +1779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176738,
-      "num": 176738,
+      "raw_hot": 176975,
+      "num": 176975,
       "word": "找到伴侣不是交卷 找到自己才是",
       "onboard_time": 1693646134,
       "rank": 37,
@@ -1777,14 +1809,6 @@
       "onboard_time": 1693615295,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174109,
-      "num": 174109,
-      "word": "Zoom和Tian担任解说杯嘉宾",
-      "onboard_time": 1693649312,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 173852,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1693585773,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 165994,
+      "num": 165994,
+      "word": "蓝色监狱 虾淘",
+      "onboard_time": 1693650515,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 164082,
@@ -2011,14 +2043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136074,
-      "num": 136074,
-      "word": "张柏芝公主切",
-      "onboard_time": 1693649734,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 132891,
       "num": 132891,
       "word": "诺兰谈配乐对奥本海默的重要性",
@@ -2131,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97149,
+      "num": 1545974,
+      "word": "服贸会朋友圈为何能越做越大",
+      "onboard_time": 1693645834,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96710,
       "num": 104606,
       "word": "京城大师赛",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1693587687,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89227,
-      "num": 1030296,
-      "word": "服贸会朋友圈为何能越做越大",
-      "onboard_time": 1693645834,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85889,
@@ -2313,6 +2337,14 @@
       "onboard_time": 1693602554,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19113,
+      "num": 481536,
+      "word": "在雪如意遇见山海",
+      "onboard_time": 1693648832,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
