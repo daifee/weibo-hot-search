@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693664009296,
+  "endTime": 1693665237685,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -57,6 +57,14 @@
       "onboard_time": 1693563760,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3020207,
+      "num": 2432212,
+      "word": "韩国石斑鱼大量死亡",
+      "onboard_time": 1693662099,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3019332,
@@ -129,14 +137,6 @@
       "onboard_time": 1693658914,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2432212,
-      "num": 2432212,
-      "word": "韩国石斑鱼大量死亡",
-      "onboard_time": 1693662099,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2308482,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1747371,
+      "num": 1747371,
+      "word": "中国男篮小组倒数第一",
+      "onboard_time": 1693663546,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1735672,
       "num": 1735672,
       "word": "深圳台风",
@@ -289,6 +297,14 @@
       "onboard_time": 1693539158,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1693065,
+      "num": 1693065,
+      "word": "中国男篮崩盘",
+      "onboard_time": 1693663546,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 1674291,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 1497880,
-      "num": 1038170,
+      "num": 1154969,
       "word": "宝剑嫂好会拍",
       "onboard_time": 1693661019,
       "rank": 19,
@@ -475,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1226255,
+      "num": 1226255,
+      "word": "王宝强终于可以把金扫帚还回去了",
+      "onboard_time": 1693662946,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1217488,
       "num": 1217488,
       "word": "倪妮金鹿奖最佳女演员",
@@ -497,6 +521,14 @@
       "onboard_time": 1693621834,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1156014,
+      "num": 1156014,
+      "word": "杨健哭了",
+      "onboard_time": 1693664081,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 1151262,
@@ -537,14 +569,6 @@
       "onboard_time": 1693570958,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1062640,
-      "num": 1062640,
-      "word": "中国男篮崩盘",
-      "onboard_time": 1693663546,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 1055874,
@@ -721,6 +745,14 @@
       "onboard_time": 1693658018,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 928148,
+      "num": 928148,
+      "word": "无忧渡",
+      "onboard_time": 1693663183,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 927885,
@@ -907,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 807169,
-      "num": 807169,
-      "word": "中国男篮小组倒数第一",
-      "onboard_time": 1693663546,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 806404,
       "num": 618221,
       "word": "杨紫发了麦承欢",
@@ -977,6 +1001,14 @@
       "onboard_time": 1693523784,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774259,
+      "num": 774259,
+      "word": "梁朝伟领取威尼斯终身成就奖",
+      "onboard_time": 1693663242,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 756434,
@@ -1291,14 +1323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 620461,
-      "num": 620461,
-      "word": "梁朝伟领取威尼斯终身成就奖",
-      "onboard_time": 1693663242,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 619681,
       "num": 619681,
       "word": "用iPhone5s拍照",
@@ -1312,14 +1336,6 @@
       "word": "玫瑰故事",
       "onboard_time": 1693555423,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 613631,
-      "num": 613631,
-      "word": "王宝强终于可以把金扫帚还回去了",
-      "onboard_time": 1693662946,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -1385,6 +1401,14 @@
       "onboard_time": 1693531232,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602384,
+      "num": 572074,
+      "word": "卢昱晓妆造好看",
+      "onboard_time": 1693663967,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 599344,
@@ -1707,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508336,
+      "num": 400680,
+      "word": "解说怒吼质问中国男篮",
+      "onboard_time": 1693664564,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507883,
       "num": 507883,
       "word": "广州地铁",
@@ -1899,14 +1931,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 468926,
-      "num": 468926,
-      "word": "无忧渡",
-      "onboard_time": 1693663183,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 468810,
       "num": 468810,
       "word": "台风吹倒大树砸中汽车造成一死两伤",
@@ -2056,6 +2080,14 @@
       "word": "美国77岁男子靠铁肺生活70年",
       "onboard_time": 1693609283,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441419,
+      "num": 399179,
+      "word": "爸爸看了一圈儿子同学的名字懵了",
+      "onboard_time": 1693664564,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2572,7 +2604,7 @@
     },
     {
       "raw_hot": 364205,
-      "num": 974985,
+      "num": 993647,
       "word": "西安市第一医院两名医生被停职调查",
       "onboard_time": 1693655376,
       "rank": 12,
@@ -2665,6 +2697,14 @@
       "onboard_time": 1693579304,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 351343,
+      "num": 351343,
+      "word": "安崎不服张郁梓一直第一名",
+      "onboard_time": 1693664924,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 348829,
@@ -3089,6 +3129,14 @@
       "onboard_time": 1693564897,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 290847,
+      "num": 290847,
+      "word": "王仕鹏",
+      "onboard_time": 1693664984,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 289613,
@@ -3803,6 +3851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223526,
+      "num": 223526,
+      "word": "95岁爷爷跨省送23岁研究生孙女报到",
+      "onboard_time": 1693665042,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 222329,
       "num": 222329,
       "word": "再见爱人3定档",
@@ -4352,14 +4408,6 @@
       "word": "盛阳这样的到底是谁在谈",
       "onboard_time": 1693657717,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 196300,
-      "num": 196300,
-      "word": "卢昱晓妆造好看",
-      "onboard_time": 1693663967,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -5555,6 +5603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75767,
+      "num": 936622,
+      "word": "高校准备3款自酿啤酒迎新生",
+      "onboard_time": 1693663242,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73051,
       "num": 73051,
       "word": "谐音梗为什么要扣钱",
@@ -5753,14 +5809,6 @@
       "onboard_time": 1693511053,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34921,
-      "num": 893771,
-      "word": "高校准备3款自酿啤酒迎新生",
-      "onboard_time": 1693663242,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34778,
