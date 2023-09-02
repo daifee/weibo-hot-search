@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693621154302,
+  "endTime": 1693622049246,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -512,6 +512,14 @@
       "word": "女子账户突然多出800万元吓得报警",
       "onboard_time": 1693467639,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2134015,
+      "num": 2134015,
+      "word": "日本第一代丁克正疯狂相亲",
+      "onboard_time": 1693615654,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1040,14 +1048,6 @@
       "word": "台风苏拉路径又变了",
       "onboard_time": 1693540777,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1495638,
-      "num": 1495638,
-      "word": "日本第一代丁克正疯狂相亲",
-      "onboard_time": 1693615654,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5763,6 +5763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383998,
+      "num": 383998,
+      "word": "网购厕所",
+      "onboard_time": 1693618414,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 383872,
       "num": 383872,
       "word": "男子断指满手血万幸遇到出警民警",
@@ -5993,14 +6001,6 @@
       "onboard_time": 1693443398,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 371122,
-      "num": 371122,
-      "word": "网购厕所",
-      "onboard_time": 1693618414,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 371082,
@@ -6507,6 +6507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 349715,
+      "num": 349715,
+      "word": "长相思腾讯暑期档最大爆款",
+      "onboard_time": 1693621235,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349463,
       "num": 398258,
       "word": "过半人在急性心梗前有预警征兆",
@@ -6660,7 +6668,7 @@
     },
     {
       "raw_hot": 342203,
-      "num": 222973,
+      "num": 234983,
       "word": "顶着恐龙头像名叫momo的人是谁",
       "onboard_time": 1693619556,
       "rank": 41,
@@ -6913,6 +6921,14 @@
       "onboard_time": 1693321003,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 331895,
+      "num": 294072,
+      "word": "日本签字投降历史影像",
+      "onboard_time": 1693619975,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331321,
@@ -7459,6 +7475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308629,
+      "num": 308629,
+      "word": "曾舜晞选择出演方多病的原因",
+      "onboard_time": 1693618536,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307080,
       "num": 307080,
       "word": "姬发被吓傻",
@@ -7497,14 +7521,6 @@
       "onboard_time": 1693464100,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304875,
-      "num": 304875,
-      "word": "曾舜晞选择出演方多病的原因",
-      "onboard_time": 1693618536,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 304383,
@@ -8347,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277216,
+      "num": 277216,
+      "word": "肖战说盛阳更贴近生活",
+      "onboard_time": 1693619975,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277127,
       "num": 278416,
       "word": "天津大爷直播遇溺水匆匆跳河救人",
@@ -8369,6 +8393,14 @@
       "onboard_time": 1693308518,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276654,
+      "num": 276654,
+      "word": "医院连续一月为夜班护士免费送宵夜",
+      "onboard_time": 1693620395,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276542,
@@ -8753,14 +8785,6 @@
       "onboard_time": 1693488337,
       "rank": 39,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 263111,
-      "num": 263111,
-      "word": "肖战说盛阳更贴近生活",
-      "onboard_time": 1693619975,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 262936,
@@ -9571,6 +9595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239070,
+      "num": 239070,
+      "word": "get到了胡彦斌的魅力",
+      "onboard_time": 1693621536,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "刘昊然公主抱白敬亭了",
@@ -9680,6 +9712,14 @@
       "word": "华为Mate60开售",
       "onboard_time": 1693284342,
       "rank": 42,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 235278,
+      "num": 235278,
+      "word": "用iPhone5s拍照",
+      "onboard_time": 1693621176,
+      "rank": 29,
       "category": "科技"
     },
     {
@@ -10051,14 +10091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223302,
-      "num": 223302,
-      "word": "日本签字投降历史影像",
-      "onboard_time": 1693619975,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223179,
       "num": 223179,
       "word": "在山城citywalk有多窒息",
@@ -10073,14 +10105,6 @@
       "onboard_time": 1693203995,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222545,
-      "num": 222545,
-      "word": "医院连续一月为夜班护士免费送宵夜",
-      "onboard_time": 1693620395,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222329,
@@ -10411,6 +10435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211022,
+      "num": 211022,
+      "word": "暑期的最后一个星期六干什么",
+      "onboard_time": 1693621954,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211017,
       "num": 211017,
       "word": "一路朝阳",
@@ -10737,6 +10769,14 @@
       "onboard_time": 1693207176,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205382,
+      "num": 205382,
+      "word": "武艺问武艺拿蛋糕好笑吗",
+      "onboard_time": 1693621834,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 205254,
@@ -11499,6 +11539,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 194902,
+      "num": 194902,
+      "word": "秋天来央视追剧",
+      "onboard_time": 1693621235,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194621,
       "num": 194621,
       "word": "自制蜜桃冻",
@@ -11721,6 +11769,14 @@
       "onboard_time": 1693570839,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191203,
+      "num": 191203,
+      "word": "蔡文静好会亲",
+      "onboard_time": 1693621834,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 190605,

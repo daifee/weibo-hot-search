@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693621154302,
+  "endTime": 1693622049246,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -96,6 +96,14 @@
       "word": "南宁震感",
       "onboard_time": 1693588047,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2134015,
+      "num": 2134015,
+      "word": "日本第一代丁克正疯狂相亲",
+      "onboard_time": 1693615654,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -216,14 +224,6 @@
       "word": "台风苏拉路径又变了",
       "onboard_time": 1693540777,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1495638,
-      "num": 1495638,
-      "word": "日本第一代丁克正疯狂相亲",
-      "onboard_time": 1693615654,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1619,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383998,
+      "num": 383998,
+      "word": "网购厕所",
+      "onboard_time": 1693618414,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 379010,
       "num": 379010,
       "word": "姬发 最后一梦",
@@ -1673,14 +1681,6 @@
       "onboard_time": 1693524510,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371122,
-      "num": 371122,
-      "word": "网购厕所",
-      "onboard_time": 1693618414,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 371082,
@@ -1811,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349715,
+      "num": 349715,
+      "word": "长相思腾讯暑期档最大爆款",
+      "onboard_time": 1693621235,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348829,
       "num": 205860,
       "word": "刘亦菲 做一个真诚的人好幸福",
@@ -1852,7 +1860,7 @@
     },
     {
       "raw_hot": 342203,
-      "num": 222973,
+      "num": 234983,
       "word": "顶着恐龙头像名叫momo的人是谁",
       "onboard_time": 1693619556,
       "rank": 41,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1693580564,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 331895,
+      "num": 294072,
+      "word": "日本签字投降历史影像",
+      "onboard_time": 1693619975,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328681,
@@ -1995,8 +2011,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 304875,
-      "num": 304875,
+      "raw_hot": 308629,
+      "num": 308629,
       "word": "曾舜晞选择出演方多病的原因",
       "onboard_time": 1693618536,
       "rank": 19,
@@ -2171,6 +2187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277216,
+      "num": 277216,
+      "word": "肖战说盛阳更贴近生活",
+      "onboard_time": 1693619975,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276654,
+      "num": 276654,
+      "word": "医院连续一月为夜班护士免费送宵夜",
+      "onboard_time": 1693620395,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275519,
       "num": 275519,
       "word": "肖战骄阳伴我开场90S",
@@ -2224,14 +2256,6 @@
       "word": "齐溪新片被逃犯骗婚21年",
       "onboard_time": 1693534835,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 263111,
-      "num": 263111,
-      "word": "肖战说盛阳更贴近生活",
-      "onboard_time": 1693619975,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -2467,6 +2491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 239070,
+      "num": 239070,
+      "word": "get到了胡彦斌的魅力",
+      "onboard_time": 1693621536,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238093,
       "num": 233422,
       "word": "张栋梁叫鬼脚梁的原因",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1693545758,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235278,
+      "num": 235278,
+      "word": "用iPhone5s拍照",
+      "onboard_time": 1693621176,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 233524,
@@ -2561,22 +2601,6 @@
       "onboard_time": 1693486115,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223302,
-      "num": 223302,
-      "word": "日本签字投降历史影像",
-      "onboard_time": 1693619975,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222545,
-      "num": 222545,
-      "word": "医院连续一月为夜班护士免费送宵夜",
-      "onboard_time": 1693620395,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222329,
@@ -2649,6 +2673,14 @@
       "onboard_time": 1693568856,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211022,
+      "num": 211022,
+      "word": "暑期的最后一个星期六干什么",
+      "onboard_time": 1693621954,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 210862,
@@ -2761,6 +2793,14 @@
       "onboard_time": 1693544858,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205382,
+      "num": 205382,
+      "word": "武艺问武艺拿蛋糕好笑吗",
+      "onboard_time": 1693621834,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 205145,
@@ -2923,6 +2963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194902,
+      "num": 194902,
+      "word": "秋天来央视追剧",
+      "onboard_time": 1693621235,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194160,
       "num": 443690,
       "word": "老师我想请假去救个人",
@@ -2993,6 +3041,14 @@
       "onboard_time": 1693570839,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191203,
+      "num": 191203,
+      "word": "蔡文静好会亲",
+      "onboard_time": 1693621834,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 190835,

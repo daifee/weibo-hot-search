@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693621154302,
+  "endTime": 1693622049246,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -8,6 +8,14 @@
       "word": "南宁震感",
       "onboard_time": 1693588047,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2134015,
+      "num": 2134015,
+      "word": "日本第一代丁克正疯狂相亲",
+      "onboard_time": 1693615654,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "深圳台风",
       "onboard_time": 1693572879,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1495638,
-      "num": 1495638,
-      "word": "日本第一代丁克正疯狂相亲",
-      "onboard_time": 1693615654,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383998,
+      "num": 383998,
+      "word": "网购厕所",
+      "onboard_time": 1693618414,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 379010,
       "num": 379010,
       "word": "姬发 最后一梦",
@@ -347,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 371122,
-      "num": 371122,
-      "word": "网购厕所",
-      "onboard_time": 1693618414,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 369889,
       "num": 300989,
       "word": "班里男同学帮我买卫生巾",
@@ -369,6 +369,14 @@
       "onboard_time": 1693581039,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349715,
+      "num": 349715,
+      "word": "长相思腾讯暑期档最大爆款",
+      "onboard_time": 1693621235,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 349037,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 342203,
-      "num": 222973,
+      "num": 234983,
       "word": "顶着恐龙头像名叫momo的人是谁",
       "onboard_time": 1693619556,
       "rank": 41,
@@ -417,6 +425,14 @@
       "onboard_time": 1693582898,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 331895,
+      "num": 294072,
+      "word": "日本签字投降历史影像",
+      "onboard_time": 1693619975,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326369,
@@ -459,20 +475,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308629,
+      "num": 308629,
+      "word": "曾舜晞选择出演方多病的原因",
+      "onboard_time": 1693618536,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305871,
       "num": 413653,
       "word": "3000多岁国宝曾差点被当废品卖掉",
       "onboard_time": 1693579664,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304875,
-      "num": 304875,
-      "word": "曾舜晞选择出演方多病的原因",
-      "onboard_time": 1693618536,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 299589,
@@ -515,6 +531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277216,
+      "num": 277216,
+      "word": "肖战说盛阳更贴近生活",
+      "onboard_time": 1693619975,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276654,
+      "num": 276654,
+      "word": "医院连续一月为夜班护士免费送宵夜",
+      "onboard_time": 1693620395,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275519,
       "num": 275519,
       "word": "肖战骄阳伴我开场90S",
@@ -529,14 +561,6 @@
       "onboard_time": 1693619197,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263111,
-      "num": 263111,
-      "word": "肖战说盛阳更贴近生活",
-      "onboard_time": 1693619975,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 256146,
@@ -603,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239070,
+      "num": 239070,
+      "word": "get到了胡彦斌的魅力",
+      "onboard_time": 1693621536,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237648,
       "num": 237648,
       "word": "小猫的交班仪式",
@@ -619,6 +651,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 235278,
+      "num": 235278,
+      "word": "用iPhone5s拍照",
+      "onboard_time": 1693621176,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 224561,
       "num": 224561,
       "word": "苏拉或成1949年以来登陆珠三角最强台风",
@@ -627,20 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223302,
-      "num": 223302,
-      "word": "日本签字投降历史影像",
-      "onboard_time": 1693619975,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222545,
-      "num": 222545,
-      "word": "医院连续一月为夜班护士免费送宵夜",
-      "onboard_time": 1693620395,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 211022,
+      "num": 211022,
+      "word": "暑期的最后一个星期六干什么",
+      "onboard_time": 1693621954,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 208935,
@@ -657,6 +689,14 @@
       "onboard_time": 1693569276,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205382,
+      "num": 205382,
+      "word": "武艺问武艺拿蛋糕好笑吗",
+      "onboard_time": 1693621834,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 199616,
@@ -683,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194902,
+      "num": 194902,
+      "word": "秋天来央视追剧",
+      "onboard_time": 1693621235,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192072,
       "num": 192072,
       "word": "九尾直播",
@@ -704,6 +752,14 @@
       "word": "小夭 万物皆为我歌",
       "onboard_time": 1693584395,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191203,
+      "num": 191203,
+      "word": "蔡文静好会亲",
+      "onboard_time": 1693621834,
+      "rank": 40,
       "category": "影视"
     },
     {
