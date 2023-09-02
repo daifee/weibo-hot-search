@@ -1,0 +1,410 @@
+{
+  "runTime": 1693619914744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240487,
+        "num": 1240487,
+        "word": "有一种沉默是两个人看了部国产烂片",
+        "onboard_time": 1693616375,
+        "rank": 0,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 774140,
+        "num": 774140,
+        "word": "苏拉登陆广东珠海",
+        "onboard_time": 1693612170,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25336,
+        "num": 727899,
+        "word": "开学第一课",
+        "onboard_time": 1693494037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727009,
+        "num": 727009,
+        "word": "北上广深全部认房不认贷",
+        "onboard_time": 1693614213,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 553579,
+        "num": 553579,
+        "word": "沈梦辰下期中餐厅哭了",
+        "onboard_time": 1693617513,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478935,
+        "num": 478935,
+        "word": "一个台风刚登陆另一个台风又来了",
+        "onboard_time": 1693613493,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460976,
+        "num": 460976,
+        "word": "深圳台风",
+        "onboard_time": 1693572879,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428814,
+        "num": 428814,
+        "word": "小夭 只手风雨翻",
+        "onboard_time": 1693616673,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407636,
+        "num": 407636,
+        "word": "天津跳水大爷逐渐专业化了",
+        "onboard_time": 1693616014,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362622,
+        "num": 362622,
+        "word": "白百何新剧出场镜头",
+        "onboard_time": 1693617754,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1799867,
+        "num": 355645,
+        "word": "毕业一个月女儿变成了野人",
+        "onboard_time": 1693615474,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 569894,
+        "num": 351571,
+        "word": "小李子中国分李",
+        "onboard_time": 1693617275,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391578,
+        "num": 349704,
+        "word": "人一辈子的危机有三次",
+        "onboard_time": 1693616798,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345823,
+        "num": 345823,
+        "word": "最有爆相的待播剧",
+        "onboard_time": 1693617936,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299589,
+        "num": 345093,
+        "word": "苏拉把广东海岸线描了一遍",
+        "onboard_time": 1693616735,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344847,
+        "num": 344847,
+        "word": "成都官宣认房不认贷",
+        "onboard_time": 1693611991,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 320171,
+        "num": 320171,
+        "word": "网购厕所",
+        "onboard_time": 1693618414,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 320112,
+        "num": 320112,
+        "word": "公司对账差1分出动5名会计帮核对",
+        "onboard_time": 1693605376,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 304258,
+        "num": 304258,
+        "word": "沈梦辰穿了茜茜公主最爱的紫色",
+        "onboard_time": 1693582362,
+        "rank": 18,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 296984,
+        "num": 296984,
+        "word": "曾舜晞选择出演方多病的原因",
+        "onboard_time": 1693618536,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854695,
+        "num": 295089,
+        "word": "日本第一代丁克正疯狂相亲",
+        "onboard_time": 1693615654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405157,
+        "num": 292915,
+        "word": "宫颈切除10余年却查出宫颈癌中晚期",
+        "onboard_time": 1693610726,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353876,
+        "num": 291047,
+        "word": "11个月男婴全身淤青布满针眼惨死",
+        "onboard_time": 1693577562,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309018,
+        "num": 288257,
+        "word": "班里男同学帮我买卫生巾",
+        "onboard_time": 1693616196,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285732,
+        "num": 285732,
+        "word": "玲娜贝儿狐狸版惊鸿舞",
+        "onboard_time": 1693617754,
+        "rank": 24,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 276304,
+        "num": 276304,
+        "word": "骄阳伴我收视率",
+        "onboard_time": 1693575636,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266515,
+        "num": 266515,
+        "word": "30年内日本首都圈7级地震概率达七成",
+        "onboard_time": 1693612110,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267837,
+        "num": 260604,
+        "word": "骄阳伴我首播符合你的期待吗",
+        "onboard_time": 1693614876,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254389,
+        "num": 254389,
+        "word": "地铁被诬陷偷拍男子首曝光现场视频",
+        "onboard_time": 1693613733,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255312,
+        "num": 253491,
+        "word": "对方撤回一个盛阳",
+        "onboard_time": 1693617157,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412546,
+        "num": 247253,
+        "word": "申公豹看姜王后面子教殷郊断头术",
+        "onboard_time": 1693618714,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407940,
+        "num": 246629,
+        "word": "世界网速排名中国都蓝得发黑了",
+        "onboard_time": 1693619135,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 240551,
+        "num": 240551,
+        "word": "苏氏兄妹也好惨",
+        "onboard_time": 1693619014,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233201,
+        "num": 233201,
+        "word": "美国77岁男子靠铁肺生活70年",
+        "onboard_time": 1693609283,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226533,
+        "num": 226533,
+        "word": "原来刘星才是第一个用蚂蚁花被的人",
+        "onboard_time": 1693578941,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224820,
+        "num": 224820,
+        "word": "江浙沪包邮区包不住了",
+        "onboard_time": 1693579180,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218184,
+        "num": 218184,
+        "word": "彩虹的微笑 笑中含泪",
+        "onboard_time": 1693619197,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211320,
+        "num": 211320,
+        "word": "认房不认贷后开发商制造紧张气氛",
+        "onboard_time": 1693615775,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 196848,
+        "num": 196848,
+        "word": "屈楚萧都在看些什么",
+        "onboard_time": 1693618234,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195538,
+        "num": 195538,
+        "word": "费翔 爱一个人其实是爱上她的缺点",
+        "onboard_time": 1693592119,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193025,
+        "num": 193025,
+        "word": "徐良 淘汰",
+        "onboard_time": 1693570720,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192139,
+        "num": 192139,
+        "word": "顶着恐龙头像名叫momo的人是谁",
+        "onboard_time": 1693619556,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184921,
+        "num": 184921,
+        "word": "大爷毫不犹豫跳进水塘勇救3岁男童",
+        "onboard_time": 1693614514,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 178624,
+        "num": 178624,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 174268,
+        "num": 174268,
+        "word": "利息少了41万购房者激动得一夜没睡",
+        "onboard_time": 1693563159,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 168685,
+        "num": 168685,
+        "word": "刘亦菲 做一个真诚的人好幸福",
+        "onboard_time": 1693589066,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156411,
+        "num": 156411,
+        "word": "小猫的交班仪式",
+        "onboard_time": 1693613251,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152560,
+        "num": 152560,
+        "word": "母亲不堪家暴找人冒充走失儿子30年",
+        "onboard_time": 1693572699,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152471,
+        "num": 152471,
+        "word": "深圳地铁",
+        "onboard_time": 1693611452,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144722,
+        "num": 144722,
+        "word": "魏如萱演唱会",
+        "onboard_time": 1693619796,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺国防科技大学建校70周年#"
+    }
+  }
+}

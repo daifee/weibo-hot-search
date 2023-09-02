@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693618032004,
+  "endTime": 1693619914744,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1799867,
+      "num": 431024,
+      "word": "毕业一个月女儿变成了野人",
+      "onboard_time": 1693615474,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1567359,
       "num": 1567359,
       "word": "深圳台风",
@@ -19,12 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1543322,
-      "num": 431024,
-      "word": "毕业一个月女儿变成了野人",
-      "onboard_time": 1693615474,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 1240487,
+      "num": 1240487,
+      "word": "有一种沉默是两个人看了部国产烂片",
+      "onboard_time": 1693616375,
+      "rank": 16,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 1138592,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 948064,
-      "num": 275061,
+      "num": 295089,
       "word": "日本第一代丁克正疯狂相亲",
       "onboard_time": 1693615654,
       "rank": 20,
@@ -81,14 +89,6 @@
       "onboard_time": 1693582362,
       "rank": 11,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 852936,
-      "num": 852936,
-      "word": "有一种沉默是两个人看了部国产烂片",
-      "onboard_time": 1693616375,
-      "rank": 16,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 821085,
@@ -113,6 +113,14 @@
       "onboard_time": 1693575636,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 727009,
+      "num": 727009,
+      "word": "北上广深全部认房不认贷",
+      "onboard_time": 1693614213,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 686416,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 598253,
-      "num": 275015,
+      "num": 292915,
       "word": "宫颈切除10余年却查出宫颈癌中晚期",
       "onboard_time": 1693610726,
       "rank": 30,
@@ -179,12 +187,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569894,
+      "num": 351571,
+      "word": "小李子中国分李",
+      "onboard_time": 1693617275,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 553579,
+      "num": 553579,
+      "word": "沈梦辰下期中餐厅哭了",
+      "onboard_time": 1693617513,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530720,
       "num": 502009,
       "word": "十几分钟却是我的整个青春",
       "onboard_time": 1693589066,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 478935,
+      "num": 478935,
+      "word": "一个台风刚登陆另一个台风又来了",
+      "onboard_time": 1693613493,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477811,
@@ -227,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427724,
-      "num": 427724,
+      "raw_hot": 428814,
+      "num": 428814,
       "word": "小夭 只手风雨翻",
       "onboard_time": 1693616673,
       "rank": 41,
@@ -243,12 +275,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412487,
-      "num": 250977,
-      "word": "小李子中国分李",
-      "onboard_time": 1693617275,
+      "raw_hot": 412546,
+      "num": 247253,
+      "word": "申公豹看姜王后面子教殷郊断头术",
+      "onboard_time": 1693618714,
       "rank": 30,
-      "category": "艺人"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 407940,
+      "num": 246629,
+      "word": "世界网速排名中国都蓝得发黑了",
+      "onboard_time": 1693619135,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 407636,
+      "num": 407636,
+      "word": "天津跳水大爷逐渐专业化了",
+      "onboard_time": 1693616014,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391578,
+      "num": 349704,
+      "word": "人一辈子的危机有三次",
+      "onboard_time": 1693616798,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385042,
@@ -275,28 +331,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 370313,
-      "num": 370313,
-      "word": "北上广深全部认房不认贷",
-      "onboard_time": 1693614213,
-      "rank": 23,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 369889,
-      "num": 259588,
+      "num": 288257,
       "word": "班里男同学帮我买卫生巾",
       "onboard_time": 1693616196,
       "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 368610,
-      "num": 368610,
-      "word": "一个台风刚登陆另一个台风又来了",
-      "onboard_time": 1693613493,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 362622,
+      "num": 362622,
+      "word": "白百何新剧出场镜头",
+      "onboard_time": 1693617754,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 350116,
@@ -323,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345823,
+      "num": 345823,
+      "word": "最有爆相的待播剧",
+      "onboard_time": 1693617936,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341656,
       "num": 341656,
       "word": "奥本海默剧情高潮",
@@ -347,20 +403,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 331845,
-      "num": 331845,
-      "word": "天津跳水大爷逐渐专业化了",
-      "onboard_time": 1693616014,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326369,
       "num": 334393,
       "word": "大爷毫不犹豫跳进水塘勇救3岁男童",
       "onboard_time": 1693614514,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 320171,
+      "num": 320171,
+      "word": "网购厕所",
+      "onboard_time": 1693618414,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 315539,
@@ -403,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299589,
+      "num": 345093,
+      "word": "苏拉把广东海岸线描了一遍",
+      "onboard_time": 1693616735,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296984,
+      "num": 296984,
+      "word": "曾舜晞选择出演方多病的原因",
+      "onboard_time": 1693618536,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290403,
       "num": 290403,
       "word": "情绪稳定的根本原因",
@@ -417,6 +489,14 @@
       "onboard_time": 1693581702,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285732,
+      "num": 285732,
+      "word": "玲娜贝儿狐狸版惊鸿舞",
+      "onboard_time": 1693617754,
+      "rank": 42,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 278764,
@@ -435,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259335,
-      "num": 259335,
-      "word": "苏拉把广东海岸线描了一遍",
-      "onboard_time": 1693616735,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256146,
       "num": 256146,
       "word": "对方撤回一个盛阳",
@@ -451,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250436,
-      "num": 250436,
-      "word": "人一辈子的危机有三次",
-      "onboard_time": 1693616798,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 254389,
+      "num": 254389,
+      "word": "地铁被诬陷偷拍男子首曝光现场视频",
+      "onboard_time": 1693613733,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243473,
@@ -481,6 +553,14 @@
       "onboard_time": 1693571378,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240551,
+      "num": 240551,
+      "word": "苏氏兄妹也好惨",
+      "onboard_time": 1693619014,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 239753,
@@ -515,14 +595,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 234755,
-      "num": 234755,
-      "word": "地铁被诬陷偷拍男子首曝光现场视频",
-      "onboard_time": 1693613733,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224561,
       "num": 224561,
       "word": "苏拉或成1949年以来登陆珠三角最强台风",
@@ -531,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218184,
+      "num": 218184,
+      "word": "彩虹的微笑 笑中含泪",
+      "onboard_time": 1693619197,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208935,
       "num": 208935,
       "word": "被九岁小朋友的便贴可爱到了",
       "onboard_time": 1693582122,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208169,
-      "num": 208169,
-      "word": "白百何新剧出场镜头",
-      "onboard_time": 1693617754,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 205961,
@@ -571,6 +643,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196848,
+      "num": 196848,
+      "word": "屈楚萧都在看些什么",
+      "onboard_time": 1693618234,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192139,
+      "num": 192139,
+      "word": "顶着恐龙头像名叫momo的人是谁",
+      "onboard_time": 1693619556,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192072,
       "num": 192072,
       "word": "九尾直播",
@@ -585,22 +673,6 @@
       "onboard_time": 1693615775,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191951,
-      "num": 191951,
-      "word": "沈梦辰下期中餐厅哭了",
-      "onboard_time": 1693617513,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 191821,
-      "num": 191821,
-      "word": "玲娜贝儿狐狸版惊鸿舞",
-      "onboard_time": 1693617754,
-      "rank": 42,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 191515,
@@ -699,14 +771,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 160887,
-      "num": 160887,
-      "word": "最有爆相的待播剧",
-      "onboard_time": 1693617936,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158249,
       "num": 158249,
       "word": "白羊座心软的神",
@@ -729,6 +793,14 @@
       "onboard_time": 1693584156,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144722,
+      "num": 144722,
+      "word": "魏如萱演唱会",
+      "onboard_time": 1693619796,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 142032,
@@ -947,7 +1019,7 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 25053,
+      "raw_hot": 25336,
       "num": 826270,
       "word": "开学第一课",
       "onboard_time": 1693494037,
