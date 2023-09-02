@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693646071826,
+  "endTime": 1693647228929,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -249,6 +249,14 @@
       "onboard_time": 1693560341,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2981150,
+      "num": 408320,
+      "word": "老番茄结婚",
+      "onboard_time": 1693644633,
+      "rank": 10,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 2939723,
@@ -689,14 +697,6 @@
       "onboard_time": 1693266333,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1933067,
-      "num": 408320,
-      "word": "老番茄结婚",
-      "onboard_time": 1693644633,
-      "rank": 10,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1921993,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1693473339,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1426577,
+      "num": 303986,
+      "word": "赵丽颖小乌龟连续剧又更新了",
+      "onboard_time": 1693645773,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1414989,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1693379375,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 807214,
+      "num": 807214,
+      "word": "封神雷震子倒立洗头",
+      "onboard_time": 1693645237,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 806404,
@@ -4444,7 +4460,7 @@
     },
     {
       "raw_hot": 508935,
-      "num": 331287,
+      "num": 352000,
       "word": "伯邑考吃了多少彪子",
       "onboard_time": 1693643433,
       "rank": 34,
@@ -4497,6 +4513,14 @@
       "onboard_time": 1693378116,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504464,
+      "num": 309135,
+      "word": "变丑的原因是灵气没了",
+      "onboard_time": 1693644935,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 503650,
@@ -5747,14 +5771,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 408887,
-      "num": 408887,
-      "word": "封神雷震子倒立洗头",
-      "onboard_time": 1693645237,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 408805,
       "num": 307009,
       "word": "小小一个电梯窒息三分钟",
@@ -6097,14 +6113,6 @@
       "onboard_time": 1693359395,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 388251,
-      "num": 309135,
-      "word": "变丑的原因是灵气没了",
-      "onboard_time": 1693644935,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 385867,
@@ -6481,14 +6489,6 @@
       "onboard_time": 1693366417,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368799,
-      "num": 303986,
-      "word": "赵丽颖小乌龟连续剧又更新了",
-      "onboard_time": 1693645773,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 368587,
@@ -7643,6 +7643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321364,
+      "num": 321364,
+      "word": "奥本海默妻子",
+      "onboard_time": 1693646134,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321352,
       "num": 321352,
       "word": "Mate60pro",
@@ -8347,6 +8355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293547,
+      "num": 386444,
+      "word": "近视还无法治愈",
+      "onboard_time": 1693643496,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293497,
       "num": 205534,
       "word": "甲虫咬出来的蛇骨架",
@@ -8785,6 +8801,14 @@
       "onboard_time": 1693315305,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279347,
+      "num": 238917,
+      "word": "费翔真的演出来一个最东亚的王",
+      "onboard_time": 1693645412,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 278807,
@@ -9243,14 +9267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265492,
-      "num": 386444,
-      "word": "近视还无法治愈",
-      "onboard_time": 1693643496,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265482,
       "num": 265482,
       "word": "2023男篮世界杯",
@@ -9515,6 +9531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256436,
+      "num": 362269,
+      "word": "车祸后18个人54秒救了2条命",
+      "onboard_time": 1693645292,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256358,
       "num": 256358,
       "word": "檀健次相柳战报",
@@ -9689,14 +9713,6 @@
       "onboard_time": 1693425196,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250482,
-      "num": 238917,
-      "word": "费翔真的演出来一个最东亚的王",
-      "onboard_time": 1693645412,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 250471,
@@ -11995,6 +12011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198692,
+      "num": 198692,
+      "word": "很明显有一只大雁偷懒了",
+      "onboard_time": 1693644935,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198612,
       "num": 198612,
       "word": "相关部门调查导游评价天价雕塑被威胁",
@@ -12377,6 +12401,14 @@
       "onboard_time": 1693580439,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 192581,
+      "num": 192581,
+      "word": "上海逛吃vlog",
+      "onboard_time": 1693646734,
+      "rank": 35,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 192486,
@@ -13107,6 +13139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176738,
+      "num": 176738,
+      "word": "找到伴侣不是交卷 找到自己才是",
+      "onboard_time": 1693646134,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176619,
       "num": 176619,
       "word": "我们只对国王那么干",
@@ -13385,14 +13425,6 @@
       "onboard_time": 1693478856,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168261,
-      "num": 168261,
-      "word": "很明显有一只大雁偷懒了",
-      "onboard_time": 1693644935,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 168092,
@@ -14057,6 +14089,14 @@
       "onboard_time": 1693210417,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141388,
+      "num": 141388,
+      "word": "包饺子进化到这种程度了吗",
+      "onboard_time": 1693647036,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 141309,
@@ -14883,6 +14923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75071,
+      "num": 880460,
+      "word": "服贸会朋友圈为何能越做越大",
+      "onboard_time": 1693645834,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74690,
       "num": 463858,
       "word": "二次元的商战方式",
@@ -14937,14 +14985,6 @@
       "onboard_time": 1693502901,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 71775,
-      "num": 362269,
-      "word": "车祸后18个人54秒救了2条命",
-      "onboard_time": 1693645292,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71497,
@@ -15593,14 +15633,6 @@
       "onboard_time": 1693510693,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 16625,
-      "num": 750240,
-      "word": "服贸会朋友圈为何能越做越大",
-      "onboard_time": 1693645834,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16335,
