@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693692866472,
+  "endTime": 1693694032984,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -5867,6 +5867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80142,
+      "num": 80142,
+      "word": "王耀庆一公个人喜爱度第一",
+      "onboard_time": 1693684514,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79798,
       "num": 317374,
       "word": "退役搜救犬扒着训导员求抱抱",
@@ -5947,12 +5955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63130,
-      "num": 61584,
-      "word": "王耀庆一公个人喜爱度第一",
-      "onboard_time": 1693684514,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 64046,
+      "num": 64046,
+      "word": "女儿送58元戒指没想到妈妈戴了9年",
+      "onboard_time": 1693685895,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61501,
@@ -5961,6 +5969,22 @@
       "onboard_time": 1693678820,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61311,
+      "num": 61311,
+      "word": "美网2023",
+      "onboard_time": 1693692795,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60267,
+      "num": 60267,
+      "word": "有人趁着下雨为他人遮伞",
+      "onboard_time": 1693691596,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55663,
@@ -5993,14 +6017,6 @@
       "onboard_time": 1693503741,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 52982,
-      "num": 52982,
-      "word": "女儿送58元戒指没想到妈妈戴了9年",
-      "onboard_time": 1693685895,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50534,
@@ -6155,14 +6171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35691,
-      "num": 35691,
-      "word": "美网2023",
-      "onboard_time": 1693692795,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34778,
       "num": 27849,
       "word": "深圳市台风橙色预警信号升级为红色",
@@ -6176,14 +6184,6 @@
       "word": "砺志逐梦正当时",
       "onboard_time": 1693493739,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33119,
-      "num": 33119,
-      "word": "有人趁着下雨为他人遮伞",
-      "onboard_time": 1693691596,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
