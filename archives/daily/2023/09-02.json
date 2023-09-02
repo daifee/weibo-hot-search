@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693628357296,
+  "endTime": 1693629234179,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -17,6 +17,14 @@
       "onboard_time": 1693615654,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1916881,
+      "num": 1916881,
+      "word": "微信图片可以生成excel",
+      "onboard_time": 1693626453,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 1799867,
@@ -49,14 +57,6 @@
       "onboard_time": 1693616375,
       "rank": 16,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 1263426,
-      "num": 337319,
-      "word": "微信图片可以生成excel",
-      "onboard_time": 1693626453,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 1161330,
@@ -115,20 +115,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 898734,
+      "num": 898734,
+      "word": "台风刮来一张演唱会门票",
+      "onboard_time": 1693625552,
+      "rank": 38,
+      "category": "情感,作品衍生"
+    },
+    {
       "raw_hot": 885906,
       "num": 410208,
       "word": "沈梦辰穿了茜茜公主最爱的紫色",
       "onboard_time": 1693582362,
       "rank": 11,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 845451,
-      "num": 845451,
-      "word": "台风刮来一张演唱会门票",
-      "onboard_time": 1693625552,
-      "rank": 38,
-      "category": "情感,作品衍生"
     },
     {
       "raw_hot": 821085,
@@ -147,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800870,
+      "num": 800870,
+      "word": "鸟鸟 要只在意最重要的人",
+      "onboard_time": 1693625133,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 793929,
       "num": 793929,
       "word": "骄阳伴我收视率",
       "onboard_time": 1693575636,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 766971,
-      "num": 766971,
-      "word": "鸟鸟 要只在意最重要的人",
-      "onboard_time": 1693625133,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 727009,
@@ -283,8 +283,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 502378,
-      "num": 502378,
+      "raw_hot": 511548,
+      "num": 511548,
       "word": "微信通讯录界面右滑可改备注",
       "onboard_time": 1693625374,
       "rank": 32,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 490880,
-      "num": 235760,
+      "num": 253978,
       "word": "核污染水排放口检测出氚",
       "onboard_time": 1693626453,
       "rank": 20,
@@ -313,6 +313,14 @@
       "onboard_time": 1693616014,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483975,
+      "num": 313346,
+      "word": "林一NewJeans跳了supershy",
+      "onboard_time": 1693628913,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 477811,
@@ -675,20 +683,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271618,
+      "num": 271618,
+      "word": "骄阳伴我里缺一个我",
+      "onboard_time": 1693626873,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269240,
       "num": 269240,
       "word": "认房不认贷后开发商制造紧张气氛",
       "onboard_time": 1693615775,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 269144,
-      "num": 269144,
-      "word": "骄阳伴我里缺一个我",
-      "onboard_time": 1693626873,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 266112,
@@ -704,6 +712,14 @@
       "word": "对方撤回一个盛阳",
       "onboard_time": 1693617157,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254737,
+      "num": 254737,
+      "word": "封神第一部的封神之路",
+      "onboard_time": 1693626033,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239743,
+      "num": 239743,
+      "word": "我承认当年是我笑太大声了",
+      "onboard_time": 1693627472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239282,
       "num": 204475,
       "word": "黄子弘凡歌词",
@@ -777,14 +801,6 @@
       "onboard_time": 1693569219,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220863,
-      "num": 220863,
-      "word": "封神第一部的封神之路",
-      "onboard_time": 1693626033,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 211022,
@@ -811,20 +827,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205835,
-      "num": 179016,
-      "word": "我承认当年是我笑太大声了",
-      "onboard_time": 1693627472,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205069,
       "num": 205069,
       "word": "于适少年新气",
       "onboard_time": 1693624414,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203071,
+      "num": 203071,
+      "word": "胡兵一公排名倒数",
+      "onboard_time": 1693629155,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 199616,
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183024,
+      "num": 183024,
+      "word": "拥堵车辆被小男孩的指挥解救了",
+      "onboard_time": 1693627955,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 178976,
       "num": 173762,
       "word": "HYBE新女团出道名单",
@@ -1003,6 +1027,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 162728,
+      "num": 162728,
+      "word": "就让这大雨全都落下",
+      "onboard_time": 1693628852,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161430,
       "num": 178132,
       "word": "魏如萱演唱会",
@@ -1051,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149230,
+      "num": 149230,
+      "word": "没想到成毅台风还挺活泼的",
+      "onboard_time": 1693629035,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148598,
       "num": 148598,
       "word": "广东小孩的开学仪式感",
@@ -1091,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135517,
-      "num": 135517,
-      "word": "拥堵车辆被小男孩的指挥解救了",
-      "onboard_time": 1693627955,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 125434,
       "num": 125434,
       "word": "警方辟谣曾志伟被带走调查",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1693573180,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123882,
+      "num": 123882,
+      "word": "国航回应西安飞温州航班备降武汉",
+      "onboard_time": 1693628794,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118545,

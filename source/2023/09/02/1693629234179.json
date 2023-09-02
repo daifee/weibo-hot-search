@@ -1,0 +1,410 @@
+{
+  "runTime": 1693629234179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1916881,
+        "num": 1916881,
+        "word": "微信图片可以生成excel",
+        "onboard_time": 1693626453,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 993101,
+        "num": 993101,
+        "word": "世界网速排名中国都蓝得发黑了",
+        "onboard_time": 1693619135,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 22300,
+        "num": 911852,
+        "word": "开学第一课",
+        "onboard_time": 1693494037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898734,
+        "num": 898734,
+        "word": "台风刮来一张演唱会门票",
+        "onboard_time": 1693625552,
+        "rank": 3,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 800870,
+        "num": 800870,
+        "word": "鸟鸟 要只在意最重要的人",
+        "onboard_time": 1693625133,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511548,
+        "num": 511548,
+        "word": "微信通讯录界面右滑可改备注",
+        "onboard_time": 1693625374,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 489096,
+        "num": 489096,
+        "word": "有一种沉默是两个人看了部国产烂片",
+        "onboard_time": 1693616375,
+        "rank": 6,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 410363,
+        "num": 410363,
+        "word": "武艺问武艺拿蛋糕好笑吗",
+        "onboard_time": 1693621834,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326179,
+        "num": 326179,
+        "word": "用iPhone5s拍照",
+        "onboard_time": 1693621176,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 314016,
+        "num": 314016,
+        "word": "一个台风刚登陆另一个台风又来了",
+        "onboard_time": 1693613493,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839007,
+        "num": 313669,
+        "word": "毕业一个月女儿变成了野人",
+        "onboard_time": 1693615474,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483975,
+        "num": 313346,
+        "word": "林一NewJeans跳了supershy",
+        "onboard_time": 1693628913,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356407,
+        "num": 312374,
+        "word": "魏如萱 不管怎样我都要唱",
+        "onboard_time": 1693625796,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234514,
+        "num": 311857,
+        "word": "苏拉登陆广东珠海",
+        "onboard_time": 1693612170,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191500,
+        "num": 311544,
+        "word": "日本签字投降历史影像",
+        "onboard_time": 1693619975,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311054,
+        "num": 311054,
+        "word": "长相思腾讯暑期档最大爆款",
+        "onboard_time": 1693621235,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283537,
+        "num": 283537,
+        "word": "美网",
+        "onboard_time": 1693623755,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271618,
+        "num": 271618,
+        "word": "骄阳伴我里缺一个我",
+        "onboard_time": 1693626873,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270056,
+        "num": 270056,
+        "word": "北上广深全部认房不认贷",
+        "onboard_time": 1693614213,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 254737,
+        "num": 254737,
+        "word": "封神第一部的封神之路",
+        "onboard_time": 1693626033,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481226,
+        "num": 253978,
+        "word": "核污染水排放口检测出氚",
+        "onboard_time": 1693626453,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278733,
+        "num": 250604,
+        "word": "宫颈切除10余年却查出宫颈癌中晚期",
+        "onboard_time": 1693610726,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239743,
+        "num": 239743,
+        "word": "我承认当年是我笑太大声了",
+        "onboard_time": 1693627472,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214992,
+        "num": 214992,
+        "word": "认房不认贷后开发商制造紧张气氛",
+        "onboard_time": 1693615775,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 203071,
+        "num": 203071,
+        "word": "胡兵一公排名倒数",
+        "onboard_time": 1693629155,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200791,
+        "num": 200791,
+        "word": "get到了胡彦斌的魅力",
+        "onboard_time": 1693621536,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198750,
+        "num": 198750,
+        "word": "西出玉门",
+        "onboard_time": 1693623332,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188091,
+        "num": 188091,
+        "word": "班里男同学帮我买卫生巾",
+        "onboard_time": 1693616196,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183024,
+        "num": 183024,
+        "word": "拥堵车辆被小男孩的指挥解救了",
+        "onboard_time": 1693627955,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177179,
+        "num": 177179,
+        "word": "人一辈子的危机有三次",
+        "onboard_time": 1693616798,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176143,
+        "num": 176143,
+        "word": "敖子逸蒋依依的拉扯",
+        "onboard_time": 1693622797,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175948,
+        "num": 175948,
+        "word": "德约科维奇",
+        "onboard_time": 1693626033,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175529,
+        "num": 175529,
+        "word": "天津跳水大爷逐渐专业化了",
+        "onboard_time": 1693616014,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174842,
+        "num": 174842,
+        "word": "11个月男婴全身淤青布满针眼惨死",
+        "onboard_time": 1693577562,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163399,
+        "num": 163399,
+        "word": "顶着恐龙头像名叫momo的人是谁",
+        "onboard_time": 1693619556,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162728,
+        "num": 162728,
+        "word": "就让这大雨全都落下",
+        "onboard_time": 1693628852,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160463,
+        "num": 160463,
+        "word": "小李子中国分李",
+        "onboard_time": 1693617275,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153167,
+        "num": 153167,
+        "word": "地铁被诬陷偷拍男子首曝光现场视频",
+        "onboard_time": 1693613733,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149942,
+        "num": 149942,
+        "word": "医院连续一月为夜班护士免费送宵夜",
+        "onboard_time": 1693620395,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149230,
+        "num": 149230,
+        "word": "没想到成毅台风还挺活泼的",
+        "onboard_time": 1693629035,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144443,
+        "num": 144443,
+        "word": "女子遇暴雨急穿雨衣暖心司机耐心等待",
+        "onboard_time": 1693625250,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "最有爆相的待播剧",
+        "onboard_time": 1693617936,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136111,
+        "num": 136111,
+        "word": "大爷毫不犹豫跳进水塘勇救3岁男童",
+        "onboard_time": 1693614514,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 131787,
+        "num": 131787,
+        "word": "时代少年团hi6剧照",
+        "onboard_time": 1693626212,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128949,
+        "num": 128949,
+        "word": "苏拉把广东海岸线描了一遍",
+        "onboard_time": 1693616735,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127532,
+        "num": 127532,
+        "word": "肖战盛阳V榜破9登顶",
+        "onboard_time": 1693622853,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124393,
+        "num": 124393,
+        "word": "白百何新剧出场镜头",
+        "onboard_time": 1693617754,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123882,
+        "num": 123882,
+        "word": "国航回应西安飞温州航班备降武汉",
+        "onboard_time": 1693628794,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117909,
+        "num": 117909,
+        "word": "沈梦辰下期中餐厅哭了",
+        "onboard_time": 1693617513,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111539,
+        "num": 111539,
+        "word": "蔡文静好会亲",
+        "onboard_time": 1693621834,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺国防科技大学建校70周年#"
+    }
+  }
+}
