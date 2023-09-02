@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693619914744,
+  "endTime": 1693621154302,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1799867,
-      "num": 431024,
+      "num": 461902,
       "word": "毕业一个月女儿变成了野人",
       "onboard_time": 1693615474,
       "rank": 10,
@@ -27,8 +27,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1240487,
-      "num": 1240487,
+      "raw_hot": 1495638,
+      "num": 1495638,
+      "word": "日本第一代丁克正疯狂相亲",
+      "onboard_time": 1693615654,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1288966,
+      "num": 1288966,
       "word": "有一种沉默是两个人看了部国产烂片",
       "onboard_time": 1693616375,
       "rank": 16,
@@ -41,6 +49,14 @@
       "onboard_time": 1693612110,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024576,
+      "num": 1024576,
+      "word": "世界网速排名中国都蓝得发黑了",
+      "onboard_time": 1693619135,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1017483,
@@ -65,14 +81,6 @@
       "onboard_time": 1693581879,
       "rank": 10,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 948064,
-      "num": 295089,
-      "word": "日本第一代丁克正疯狂相亲",
-      "onboard_time": 1693615654,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 916169,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 598253,
-      "num": 292915,
+      "num": 303215,
       "word": "宫颈切除10余年却查出宫颈癌中晚期",
       "onboard_time": 1693610726,
       "rank": 30,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 569894,
-      "num": 351571,
+      "num": 460579,
       "word": "小李子中国分李",
       "onboard_time": 1693617275,
       "rank": 30,
@@ -211,11 +219,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 478935,
-      "num": 478935,
+      "raw_hot": 492805,
+      "num": 492805,
       "word": "一个台风刚登陆另一个台风又来了",
       "onboard_time": 1693613493,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485355,
+      "num": 485355,
+      "word": "天津跳水大爷逐渐专业化了",
+      "onboard_time": 1693616014,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -241,6 +257,22 @@
       "onboard_time": 1693587028,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463049,
+      "num": 463049,
+      "word": "最有爆相的待播剧",
+      "onboard_time": 1693617936,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 458404,
+      "num": 458404,
+      "word": "白百何新剧出场镜头",
+      "onboard_time": 1693617754,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 441427,
@@ -275,36 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412546,
-      "num": 247253,
-      "word": "申公豹看姜王后面子教殷郊断头术",
-      "onboard_time": 1693618714,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 407940,
-      "num": 246629,
-      "word": "世界网速排名中国都蓝得发黑了",
-      "onboard_time": 1693619135,
-      "rank": 31,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 407636,
-      "num": 407636,
-      "word": "天津跳水大爷逐渐专业化了",
-      "onboard_time": 1693616014,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391578,
-      "num": 349704,
+      "raw_hot": 413607,
+      "num": 393984,
       "word": "人一辈子的危机有三次",
       "onboard_time": 1693616798,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412546,
+      "num": 394480,
+      "word": "申公豹看姜王后面子教殷郊断头术",
+      "onboard_time": 1693618714,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 385042,
@@ -331,20 +347,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 371122,
+      "num": 371122,
+      "word": "网购厕所",
+      "onboard_time": 1693618414,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 369889,
-      "num": 288257,
+      "num": 300989,
       "word": "班里男同学帮我买卫生巾",
       "onboard_time": 1693616196,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362622,
-      "num": 362622,
-      "word": "白百何新剧出场镜头",
-      "onboard_time": 1693617754,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 350116,
@@ -371,12 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 345823,
-      "num": 345823,
-      "word": "最有爆相的待播剧",
-      "onboard_time": 1693617936,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 342203,
+      "num": 222973,
+      "word": "顶着恐龙头像名叫momo的人是谁",
+      "onboard_time": 1693619556,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 341656,
@@ -409,14 +425,6 @@
       "onboard_time": 1693614514,
       "rank": 13,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 320171,
-      "num": 320171,
-      "word": "网购厕所",
-      "onboard_time": 1693618414,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 315539,
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299589,
-      "num": 345093,
-      "word": "苏拉把广东海岸线描了一遍",
-      "onboard_time": 1693616735,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296984,
-      "num": 296984,
+      "raw_hot": 304875,
+      "num": 304875,
       "word": "曾舜晞选择出演方多病的原因",
       "onboard_time": 1693618536,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299589,
+      "num": 394116,
+      "word": "苏拉把广东海岸线描了一遍",
+      "onboard_time": 1693616735,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290403,
@@ -512,6 +520,22 @@
       "word": "肖战骄阳伴我开场90S",
       "onboard_time": 1693612470,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273500,
+      "num": 273500,
+      "word": "彩虹的微笑 笑中含泪",
+      "onboard_time": 1693619197,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263111,
+      "num": 263111,
+      "word": "肖战说盛阳更贴近生活",
+      "onboard_time": 1693619975,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -603,12 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218184,
-      "num": 218184,
-      "word": "彩虹的微笑 笑中含泪",
-      "onboard_time": 1693619197,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 223302,
+      "num": 223302,
+      "word": "日本签字投降历史影像",
+      "onboard_time": 1693619975,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222545,
+      "num": 222545,
+      "word": "医院连续一月为夜班护士免费送宵夜",
+      "onboard_time": 1693620395,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208935,
@@ -649,14 +681,6 @@
       "onboard_time": 1693618234,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192139,
-      "num": 192139,
-      "word": "顶着恐龙头像名叫momo的人是谁",
-      "onboard_time": 1693619556,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 192072,
@@ -763,12 +787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169983,
+      "num": 169983,
+      "word": "许知远采访费翔 落花时节又逢君",
+      "onboard_time": 1693620813,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168092,
       "num": 143573,
       "word": "HAERIN活动新闻图",
       "onboard_time": 1693585773,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 161430,
+      "num": 161430,
+      "word": "魏如萱演唱会",
+      "onboard_time": 1693619796,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 158249,
@@ -795,14 +835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 144722,
-      "num": 144722,
-      "word": "魏如萱演唱会",
-      "onboard_time": 1693619796,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 142032,
       "num": 142032,
       "word": "贝儿是吞了只百灵鸟吗",
@@ -825,6 +857,14 @@
       "onboard_time": 1693585112,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137080,
+      "num": 154212,
+      "word": "全盲男生说上天关的门是自己破出来的",
+      "onboard_time": 1693621053,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125434,
@@ -1011,20 +1051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26206,
+      "num": 1071210,
+      "word": "开学第一课",
+      "onboard_time": 1693494037,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25583,
       "num": 47717,
       "word": "高佑思打卡天津跳水",
       "onboard_time": 1693604895,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 25336,
-      "num": 826270,
-      "word": "开学第一课",
-      "onboard_time": 1693494037,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20041,
