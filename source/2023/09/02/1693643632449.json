@@ -1,0 +1,410 @@
+{
+  "runTime": 1693643632449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2228305,
+        "num": 2228305,
+        "word": "21岁休学29岁存款5000万",
+        "onboard_time": 1693640554,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1100216,
+        "num": 1100216,
+        "word": "微信图片可以生成excel",
+        "onboard_time": 1693626453,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 30391,
+        "num": 939433,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1980946,
+        "num": 936919,
+        "word": "马伯骞票数",
+        "onboard_time": 1693640612,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913121,
+        "num": 913121,
+        "word": "哪个演员敢拿金熊猫奖",
+        "onboard_time": 1693640253,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548100,
+        "num": 548100,
+        "word": "南阳理工给予虐猫学生开除学籍处分",
+        "onboard_time": 1693641214,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 523919,
+        "num": 523919,
+        "word": "原来真的有小人国",
+        "onboard_time": 1693641935,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 491558,
+        "num": 491558,
+        "word": "张远三年内经历了赔钱生离死别",
+        "onboard_time": 1693638692,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375225,
+        "num": 375225,
+        "word": "骄阳伴我 血压飙升的职场",
+        "onboard_time": 1693641634,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364612,
+        "num": 364612,
+        "word": "封神票房破25亿flag",
+        "onboard_time": 1693639292,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1880785,
+        "num": 352925,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769279,
+        "num": 346169,
+        "word": "杨玏说到做到",
+        "onboard_time": 1693640793,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 633825,
+        "num": 339222,
+        "word": "日本大爷称核污水没有危害",
+        "onboard_time": 1693640313,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328953,
+        "num": 328953,
+        "word": "台风苏拉一天两次登陆广东",
+        "onboard_time": 1693638210,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115394,
+        "num": 326944,
+        "word": "兵哥哥高铁站求婚同日退伍女战友",
+        "onboard_time": 1693641634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374458,
+        "num": 323802,
+        "word": "香港月租12000元的房子",
+        "onboard_time": 1693629934,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 446109,
+        "num": 319376,
+        "word": "杨幂 生活中很多东西要学会原谅",
+        "onboard_time": 1693640676,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343422,
+        "num": 312061,
+        "word": "国色芳华女主",
+        "onboard_time": 1693641873,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310446,
+        "num": 310446,
+        "word": "许绍洋淘汰",
+        "onboard_time": 1693638270,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307210,
+        "num": 307210,
+        "word": "唐禹哲一公排名",
+        "onboard_time": 1693636171,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694120,
+        "num": 304562,
+        "word": "内娱顶级贵公子",
+        "onboard_time": 1693642236,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299551,
+        "num": 299551,
+        "word": "卡琳娜cos莲",
+        "onboard_time": 1693643135,
+        "rank": 21,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 284129,
+        "num": 284129,
+        "word": "麻雀",
+        "onboard_time": 1693638812,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261364,
+        "num": 261364,
+        "word": "面包为什么越来越贵了",
+        "onboard_time": 1693636352,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188593,
+        "num": 258717,
+        "word": "苏拉再次登陆广东最大风力10级",
+        "onboard_time": 1693642053,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272343,
+        "num": 258551,
+        "word": "侯雯元跳舞别跳科目一",
+        "onboard_time": 1693641273,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256882,
+        "num": 256882,
+        "word": "乌尔善是懂我们想看什么的",
+        "onboard_time": 1693642236,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256198,
+        "num": 256198,
+        "word": "吴世勋杂志",
+        "onboard_time": 1693639414,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179795,
+        "num": 248835,
+        "word": "核污染水排放口检测出氚",
+        "onboard_time": 1693626453,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247023,
+        "num": 247023,
+        "word": "上海500万的房首付降175万",
+        "onboard_time": 1693637190,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252478,
+        "num": 242327,
+        "word": "上班下班 上班是为了下班",
+        "onboard_time": 1693637373,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232623,
+        "num": 232623,
+        "word": "定向免费医学生考上研究生后欲违约",
+        "onboard_time": 1693641214,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 226676,
+        "num": 226676,
+        "word": "世界网速排名中国都蓝得发黑了",
+        "onboard_time": 1693619135,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 196094,
+        "num": 196094,
+        "word": "拉下绳子居然当上了教皇",
+        "onboard_time": 1693642533,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195386,
+        "num": 195386,
+        "word": "伯邑考吃了多少彪子",
+        "onboard_time": 1693643433,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195068,
+        "num": 195068,
+        "word": "小夭 人间走一遭",
+        "onboard_time": 1693640733,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193246,
+        "num": 193246,
+        "word": "奥本海默",
+        "onboard_time": 1693630294,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171466,
+        "num": 171466,
+        "word": "女儿的书桌上没有一丁点学习的东西",
+        "onboard_time": 1693630655,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158021,
+        "num": 158021,
+        "word": "熊猫界的娃娃脸",
+        "onboard_time": 1693639591,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152328,
+        "num": 152328,
+        "word": "套娃套成这样也是没谁了",
+        "onboard_time": 1693642294,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190348,
+        "num": 151147,
+        "word": "封神第一部",
+        "onboard_time": 1693643433,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175951,
+        "num": 150806,
+        "word": "孙怡问melody喜欢软桃子还是硬桃子",
+        "onboard_time": 1693630837,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171244,
+        "num": 149081,
+        "word": "林一NewJeans跳了supershy",
+        "onboard_time": 1693628913,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169519,
+        "num": 147628,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1693636412,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163632,
+        "num": 146670,
+        "word": "时代少年团Hi6玩游戏胜负欲",
+        "onboard_time": 1693642415,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146233,
+        "num": 146233,
+        "word": "98年民警收到锦旗笑得合不拢嘴",
+        "onboard_time": 1693643135,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145159,
+        "num": 145159,
+        "word": "毕业一个月女儿变成了野人",
+        "onboard_time": 1693615474,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145054,
+        "num": 145054,
+        "word": "寿司店的酱油包被我当U盘了",
+        "onboard_time": 1693636292,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144658,
+        "num": 144658,
+        "word": "一家三代跨万里送孩子上大学",
+        "onboard_time": 1693642474,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132891,
+        "num": 132891,
+        "word": "诺兰谈配乐对奥本海默的重要性",
+        "onboard_time": 1693643192,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#系好人生的第一颗纽扣#"
+    }
+  }
+}
