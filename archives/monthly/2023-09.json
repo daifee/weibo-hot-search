@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693678747692,
+  "endTime": 1693679637295,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -2483,6 +2483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 404941,
+      "num": 404941,
+      "word": "云之羽",
+      "onboard_time": 1693677442,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404131,
       "num": 404131,
       "word": "张艺兴新专辑将由华纳音乐发行",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1693529975,
       "rank": 30,
       "category": "自然"
-    },
-    {
-      "raw_hot": 398964,
-      "num": 398964,
-      "word": "云之羽",
-      "onboard_time": 1693677442,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 394806,
@@ -5931,12 +5931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58008,
+      "num": 58008,
+      "word": "生病之后特别能理解这句话",
+      "onboard_time": 1693678820,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55663,
       "num": 208349,
       "word": "孩子发烧是开学综合症吗",
       "onboard_time": 1693558839,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54809,
+      "num": 54809,
+      "word": "现在脑子里的西岐生活",
+      "onboard_time": 1693678760,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 54565,
