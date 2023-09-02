@@ -1,7 +1,15 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693629234179,
+  "endTime": 1693631670532,
   "band_list": [
+    {
+      "raw_hot": 3452863,
+      "num": 3452863,
+      "word": "微信图片可以生成excel",
+      "onboard_time": 1693626453,
+      "rank": 10,
+      "category": "科技"
+    },
     {
       "raw_hot": 2162195,
       "num": 2162195,
@@ -17,14 +25,6 @@
       "onboard_time": 1693615654,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1916881,
-      "num": 1916881,
-      "word": "微信图片可以生成excel",
-      "onboard_time": 1693626453,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 1799867,
@@ -57,6 +57,14 @@
       "onboard_time": 1693616375,
       "rank": 16,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 1166695,
+      "num": 399449,
+      "word": "香港月租12000元的房子",
+      "onboard_time": 1693629934,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1161330,
@@ -97,6 +105,22 @@
       "onboard_time": 1693581879,
       "rank": 10,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 999101,
+      "num": 999101,
+      "word": "胡兵一公排名倒数",
+      "onboard_time": 1693629155,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 989861,
+      "num": 394142,
+      "word": "林一NewJeans跳了supershy",
+      "onboard_time": 1693628913,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 969522,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592376,
+      "num": 592376,
+      "word": "核污染水排放口检测出氚",
+      "onboard_time": 1693626453,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571309,
       "num": 571309,
       "word": "官方称天津大爷跳水的8A级水域禁止游泳",
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490880,
-      "num": 253978,
-      "word": "核污染水排放口检测出氚",
-      "onboard_time": 1693626453,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485355,
       "num": 485355,
       "word": "天津跳水大爷逐渐专业化了",
@@ -315,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483975,
-      "num": 313346,
-      "word": "林一NewJeans跳了supershy",
-      "onboard_time": 1693628913,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 480004,
+      "num": 480004,
+      "word": "就让这大雨全都落下",
+      "onboard_time": 1693628852,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 477811,
@@ -371,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450441,
+      "num": 271151,
+      "word": "孙怡问melody喜欢软桃子还是硬桃子",
+      "onboard_time": 1693630837,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441427,
       "num": 441427,
       "word": "美国77岁男子靠铁肺生活70年",
@@ -411,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 412975,
+      "num": 412975,
+      "word": "披荆斩棘",
+      "onboard_time": 1693629274,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412546,
       "num": 394480,
       "word": "申公豹看姜王后面子教殷郊断头术",
@@ -433,6 +473,14 @@
       "onboard_time": 1693625796,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 391700,
+      "num": 203697,
+      "word": "女儿的书桌上没有一丁点学习的东西",
+      "onboard_time": 1693630655,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 385042,
@@ -459,6 +507,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378422,
+      "num": 378422,
+      "word": "你好星期六",
+      "onboard_time": 1693630534,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 376409,
+      "num": 376409,
+      "word": "杨紫小夭8月角色热度TOP1",
+      "onboard_time": 1693629334,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373720,
       "num": 373720,
       "word": "火树 我给指条明路",
@@ -473,6 +537,14 @@
       "onboard_time": 1693616196,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 369697,
+      "num": 369697,
+      "word": "骄阳伴我剪辑师招募计划",
+      "onboard_time": 1693629574,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 350116,
@@ -619,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293206,
+      "num": 293206,
+      "word": "奥本海默",
+      "onboard_time": 1693579784,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290403,
       "num": 290403,
       "word": "情绪稳定的根本原因",
@@ -731,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243574,
+      "num": 243574,
+      "word": "没想到成毅台风还挺活泼的",
+      "onboard_time": 1693629035,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243473,
       "num": 232157,
       "word": "航空公司向李惠利道歉",
@@ -819,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206849,
+      "num": 206849,
+      "word": "周深朴宰范梦幻联动",
+      "onboard_time": 1693629934,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205961,
       "num": 387639,
       "word": "苏拉的危险半圆将横扫香港和深圳",
@@ -835,12 +931,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203071,
-      "num": 203071,
-      "word": "胡兵一公排名倒数",
-      "onboard_time": 1693629155,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 203698,
+      "num": 203698,
+      "word": "国航回应西安飞温州航班备降武汉",
+      "onboard_time": 1693628794,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199616,
@@ -876,7 +972,7 @@
     },
     {
       "raw_hot": 194045,
-      "num": 194045,
+      "num": 203668,
       "word": "德约科维奇",
       "onboard_time": 1693626033,
       "rank": 27,
@@ -923,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188392,
+      "num": 203691,
+      "word": "以闪亮之名的神仙姐妹",
+      "onboard_time": 1693631135,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186951,
       "num": 186951,
       "word": "朱琳 美网",
@@ -945,6 +1049,14 @@
       "onboard_time": 1693548635,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184645,
+      "num": 203685,
+      "word": "再见爱人3预告片",
+      "onboard_time": 1693631617,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 183024,
@@ -1003,14 +1115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170139,
-      "num": 170139,
-      "word": "奥本海默",
-      "onboard_time": 1693579784,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169983,
       "num": 169983,
       "word": "许知远采访费翔 落花时节又逢君",
@@ -1025,14 +1129,6 @@
       "onboard_time": 1693585773,
       "rank": 42,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 162728,
-      "num": 162728,
-      "word": "就让这大雨全都落下",
-      "onboard_time": 1693628852,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 161430,
@@ -1052,11 +1148,19 @@
     },
     {
       "raw_hot": 157866,
-      "num": 157866,
+      "num": 203645,
       "word": "女子遇暴雨急穿雨衣暖心司机耐心等待",
       "onboard_time": 1693625250,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 156786,
+      "num": 203667,
+      "word": "崇应彪最后的笑",
+      "onboard_time": 1693631195,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 152129,
@@ -1080,14 +1184,6 @@
       "word": "时代少年团hi6剧照",
       "onboard_time": 1693626212,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 149230,
-      "num": 149230,
-      "word": "没想到成毅台风还挺活泼的",
-      "onboard_time": 1693629035,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1147,12 +1243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123882,
-      "num": 123882,
-      "word": "国航回应西安飞温州航班备降武汉",
-      "onboard_time": 1693628794,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 121223,
+      "num": 203629,
+      "word": "蔡国庆可云式演技",
+      "onboard_time": 1693631617,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 118545,
@@ -1307,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28778,
+      "num": 701947,
+      "word": "感受2023服贸会风采",
+      "onboard_time": 1693631015,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28091,
       "num": 33774,
       "word": "风箫孙尚香抢龙",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1693602554,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 4751,
+      "num": 377257,
+      "word": "新生从西藏走到四川报到",
+      "onboard_time": 1693631553,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
