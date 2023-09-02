@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693624588512,
+  "endTime": 1693625621814,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1520364,
-      "num": 1520364,
+      "raw_hot": 1566771,
+      "num": 1566771,
       "word": "世界网速排名中国都蓝得发黑了",
       "onboard_time": 1693619135,
       "rank": 31,
@@ -49,6 +49,14 @@
       "onboard_time": 1693616375,
       "rank": 16,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 1161330,
+      "num": 1161330,
+      "word": "武艺问武艺拿蛋糕好笑吗",
+      "onboard_time": 1693621834,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 1138592,
@@ -131,12 +139,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 710909,
-      "num": 710909,
-      "word": "武艺问武艺拿蛋糕好笑吗",
-      "onboard_time": 1693621834,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 694103,
+      "num": 694103,
+      "word": "日本签字投降历史影像",
+      "onboard_time": 1693619975,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686416,
@@ -171,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619681,
+      "num": 619681,
+      "word": "用iPhone5s拍照",
+      "onboard_time": 1693621176,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 610647,
       "num": 610647,
       "word": "利息少了41万购房者激动得一夜没睡",
@@ -201,14 +217,6 @@
       "onboard_time": 1693610726,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585439,
-      "num": 585439,
-      "word": "用iPhone5s拍照",
-      "onboard_time": 1693621176,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 571309,
@@ -243,14 +251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 527428,
-      "num": 527428,
-      "word": "日本签字投降历史影像",
-      "onboard_time": 1693619975,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492805,
       "num": 492805,
       "word": "一个台风刚登陆另一个台风又来了",
@@ -273,6 +273,14 @@
       "onboard_time": 1693614876,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475584,
+      "num": 475584,
+      "word": "美网",
+      "onboard_time": 1693623755,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 469272,
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314044,
+      "num": 314044,
+      "word": "敖子逸蒋依依的拉扯",
+      "onboard_time": 1693622797,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312715,
       "num": 262732,
       "word": "蔡文静好会亲",
@@ -563,20 +579,20 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 280374,
-      "num": 280374,
-      "word": "美网",
-      "onboard_time": 1693623755,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278764,
       "num": 251166,
       "word": "费翔 爱一个人其实是爱上她的缺点",
       "onboard_time": 1693592119,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277965,
+      "num": 189722,
+      "word": "鸟鸟 要只在意最重要的人",
+      "onboard_time": 1693625133,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277216,
@@ -611,12 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267332,
-      "num": 267332,
-      "word": "敖子逸蒋依依的拉扯",
-      "onboard_time": 1693622797,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 269240,
+      "num": 269240,
+      "word": "认房不认贷后开发商制造紧张气氛",
+      "onboard_time": 1693615775,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 266112,
@@ -697,14 +713,6 @@
       "onboard_time": 1693613251,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236682,
-      "num": 236682,
-      "word": "认房不认贷后开发商制造紧张气氛",
-      "onboard_time": 1693615775,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 224561,
@@ -795,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191749,
+      "num": 189063,
+      "word": "微信通讯录界面右滑可改备注",
+      "onboard_time": 1693625374,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191515,
       "num": 173809,
       "word": "小夭 万物皆为我歌",
@@ -833,6 +849,14 @@
       "onboard_time": 1693548635,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183054,
+      "num": 183054,
+      "word": "北京多楼盘连夜涨价",
+      "onboard_time": 1693625374,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 178976,
@@ -905,6 +929,14 @@
       "onboard_time": 1693585773,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 166499,
+      "num": 166499,
+      "word": "台风刮来一张演唱会门票",
+      "onboard_time": 1693625552,
+      "rank": 38,
+      "category": "情感,作品衍生"
     },
     {
       "raw_hot": 161430,
