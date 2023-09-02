@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693681945777,
+  "endTime": 1693683250745,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -5883,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73713,
+      "num": 58810,
+      "word": "费翔 年轻时最不感兴趣的就是父母",
+      "onboard_time": 1693680918,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73051,
       "num": 73051,
       "word": "谐音梗为什么要扣钱",
@@ -5931,20 +5939,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62378,
-      "num": 58810,
-      "word": "费翔 年轻时最不感兴趣的就是父母",
-      "onboard_time": 1693680918,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61501,
       "num": 61501,
       "word": "生病之后特别能理解这句话",
       "onboard_time": 1693678820,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55851,
+      "num": 47742,
+      "word": "上迪销冠小玲",
+      "onboard_time": 1693682117,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 55663,
@@ -6051,8 +6059,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43766,
+      "num": 43766,
+      "word": "蔡依林长沙演唱会",
+      "onboard_time": 1693683196,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 43187,
-      "num": 43187,
+      "num": 43802,
       "word": "锈湖梗图",
       "onboard_time": 1693681757,
       "rank": 43,
