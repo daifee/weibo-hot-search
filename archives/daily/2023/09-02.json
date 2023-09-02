@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693625621814,
+  "endTime": 1693628357296,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -51,6 +51,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 1263426,
+      "num": 337319,
+      "word": "微信图片可以生成excel",
+      "onboard_time": 1693626453,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1161330,
       "num": 1161330,
       "word": "武艺问武艺拿蛋糕好笑吗",
@@ -91,6 +99,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 969522,
+      "num": 235520,
+      "word": "北京多楼盘连夜涨价",
+      "onboard_time": 1693625374,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 916169,
       "num": 916169,
       "word": "公司对账差1分出动5名会计帮核对",
@@ -105,6 +121,14 @@
       "onboard_time": 1693582362,
       "rank": 11,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 845451,
+      "num": 845451,
+      "word": "台风刮来一张演唱会门票",
+      "onboard_time": 1693625552,
+      "rank": 38,
+      "category": "情感,作品衍生"
     },
     {
       "raw_hot": 821085,
@@ -129,6 +153,14 @@
       "onboard_time": 1693575636,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 766971,
+      "num": 766971,
+      "word": "鸟鸟 要只在意最重要的人",
+      "onboard_time": 1693625133,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 727009,
@@ -251,11 +283,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 502378,
+      "num": 502378,
+      "word": "微信通讯录界面右滑可改备注",
+      "onboard_time": 1693625374,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 492805,
       "num": 492805,
       "word": "一个台风刚登陆另一个台风又来了",
       "onboard_time": 1693613493,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490880,
+      "num": 235760,
+      "word": "核污染水排放口检测出氚",
+      "onboard_time": 1693626453,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -369,6 +417,14 @@
       "onboard_time": 1693621536,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393966,
+      "num": 327641,
+      "word": "魏如萱 不管怎样我都要唱",
+      "onboard_time": 1693625796,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 385042,
@@ -587,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277965,
-      "num": 189722,
-      "word": "鸟鸟 要只在意最重要的人",
-      "onboard_time": 1693625133,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 277216,
       "num": 277216,
       "word": "肖战说盛阳更贴近生活",
@@ -633,6 +681,14 @@
       "onboard_time": 1693615775,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 269144,
+      "num": 269144,
+      "word": "骄阳伴我里缺一个我",
+      "onboard_time": 1693626873,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 266112,
@@ -723,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220863,
+      "num": 220863,
+      "word": "封神第一部的封神之路",
+      "onboard_time": 1693626033,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211022,
       "num": 211022,
       "word": "暑期的最后一个星期六干什么",
@@ -744,6 +808,14 @@
       "word": "苏拉的危险半圆将横扫香港和深圳",
       "onboard_time": 1693569276,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205835,
+      "num": 179016,
+      "word": "我承认当年是我笑太大声了",
+      "onboard_time": 1693627472,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -787,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194045,
+      "num": 194045,
+      "word": "德约科维奇",
+      "onboard_time": 1693626033,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192072,
       "num": 192072,
       "word": "九尾直播",
@@ -801,14 +881,6 @@
       "onboard_time": 1693615775,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191749,
-      "num": 189063,
-      "word": "微信通讯录界面右滑可改备注",
-      "onboard_time": 1693625374,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 191515,
@@ -843,20 +915,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186778,
+      "num": 178552,
+      "word": "受到了舞台四大联盟冲击",
+      "onboard_time": 1693627055,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186128,
       "num": 186128,
       "word": "韩男子性侵女儿10年被妻子刺伤双眼",
       "onboard_time": 1693548635,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183054,
-      "num": 183054,
-      "word": "北京多楼盘连夜涨价",
-      "onboard_time": 1693625374,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 178976,
@@ -931,14 +1003,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 166499,
-      "num": 166499,
-      "word": "台风刮来一张演唱会门票",
-      "onboard_time": 1693625552,
-      "rank": 38,
-      "category": "情感,作品衍生"
-    },
-    {
       "raw_hot": 161430,
       "num": 178132,
       "word": "魏如萱演唱会",
@@ -955,6 +1019,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 157866,
+      "num": 157866,
+      "word": "女子遇暴雨急穿雨衣暖心司机耐心等待",
+      "onboard_time": 1693625250,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 152129,
       "num": 152129,
       "word": "暑期最好看的剧 孟宴臣cut",
@@ -969,6 +1041,14 @@
       "onboard_time": 1693622976,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150673,
+      "num": 150673,
+      "word": "时代少年团hi6剧照",
+      "onboard_time": 1693626212,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 148598,
@@ -1011,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135517,
+      "num": 135517,
+      "word": "拥堵车辆被小男孩的指挥解救了",
+      "onboard_time": 1693627955,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 125434,
       "num": 125434,
       "word": "警方辟谣曾志伟被带走调查",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1693573180,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118545,
+      "num": 135469,
+      "word": "汪苏泷郑州演唱会",
+      "onboard_time": 1693627235,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 114526,
