@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693653171020,
+  "endTime": 1693654437668,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 2981150,
-      "num": 531249,
+      "num": 766410,
       "word": "老番茄结婚",
       "onboard_time": 1693644633,
       "rank": 10,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 2160557,
-      "num": 523929,
+      "num": 755963,
       "word": "核污水排放1周海水一片漆黑",
       "onboard_time": 1693637495,
       "rank": 10,
@@ -867,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1794145,
+      "num": 1794145,
+      "word": "一笑倾城",
+      "onboard_time": 1693652680,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1767604,
       "num": 1767604,
       "word": "中国男篮首胜",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1693478439,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1548372,
+      "num": 1548372,
+      "word": "日本接连发生大规模集体食物中毒",
+      "onboard_time": 1693651598,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1547750,
@@ -1297,14 +1313,6 @@
       "onboard_time": 1693616375,
       "rank": 16,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 1286424,
-      "num": 1286424,
-      "word": "日本接连发生大规模集体食物中毒",
-      "onboard_time": 1693651598,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1278359,
@@ -2467,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 794777,
+      "num": 794777,
+      "word": "云之羽OST阵容",
+      "onboard_time": 1693653037,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 794334,
       "num": 330200,
       "word": "房东的猫把云烟穿身上了",
@@ -2481,6 +2497,22 @@
       "onboard_time": 1693579962,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 785717,
+      "num": 785717,
+      "word": "马冬梅任北京市平谷区副区长",
+      "onboard_time": 1693652920,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785268,
+      "num": 785268,
+      "word": "生娃之前 可先看看李湘谷燕",
+      "onboard_time": 1693652257,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 784919,
@@ -2601,14 +2633,6 @@
       "onboard_time": 1693283500,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761195,
-      "num": 761195,
-      "word": "一笑倾城",
-      "onboard_time": 1693652680,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 760074,
@@ -3780,7 +3804,7 @@
     },
     {
       "raw_hot": 581756,
-      "num": 325942,
+      "num": 339128,
       "word": "你现在收入存够1千万要多久",
       "onboard_time": 1693648115,
       "rank": 23,
@@ -3809,6 +3833,14 @@
       "onboard_time": 1693461581,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 576122,
+      "num": 576122,
+      "word": "宁安如梦什么时候抬",
+      "onboard_time": 1693653817,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 575384,
@@ -3841,14 +3873,6 @@
       "onboard_time": 1693446394,
       "rank": 12,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 571543,
-      "num": 422995,
-      "word": "生娃之前 可先看看李湘谷燕",
-      "onboard_time": 1693652257,
-      "rank": 15,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 571530,
@@ -5148,7 +5172,7 @@
     },
     {
       "raw_hot": 455589,
-      "num": 489619,
+      "num": 690986,
       "word": "台风苏拉一天两次登陆广东",
       "onboard_time": 1693638210,
       "rank": 13,
@@ -5657,6 +5681,14 @@
       "onboard_time": 1693573659,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 421928,
+      "num": 421928,
+      "word": "新加坡偶遇周冬雨",
+      "onboard_time": 1693653219,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 420719,
@@ -7155,6 +7187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344041,
+      "num": 344041,
+      "word": "于适工作室真的很有sense",
+      "onboard_time": 1693651414,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343833,
       "num": 343833,
       "word": "电竞选手跳whatever",
@@ -7571,14 +7611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327298,
-      "num": 327298,
-      "word": "云之羽OST阵容",
-      "onboard_time": 1693653037,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 327019,
       "num": 327019,
       "word": "肖战诉两黑粉侵权案审理终结",
@@ -7667,6 +7699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324568,
+      "num": 324568,
+      "word": "Zoom和Tian担任解说杯嘉宾",
+      "onboard_time": 1693649312,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 324410,
       "num": 324410,
       "word": "张钧甯吃粉丝",
@@ -7721,14 +7761,6 @@
       "onboard_time": 1693310617,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322432,
-      "num": 322432,
-      "word": "Zoom和Tian担任解说杯嘉宾",
-      "onboard_time": 1693649312,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 322383,
@@ -8147,14 +8179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303815,
-      "num": 303815,
-      "word": "于适工作室真的很有sense",
-      "onboard_time": 1693651414,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303573,
       "num": 303573,
       "word": "王鹤棣平时都是破坏感",
@@ -8404,7 +8428,7 @@
     },
     {
       "raw_hot": 296625,
-      "num": 492142,
+      "num": 731424,
       "word": "近视还无法治愈",
       "onboard_time": 1693643496,
       "rank": 12,
@@ -9547,6 +9571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 260604,
+      "num": 260604,
+      "word": "公司逼员工主动离职常用套路",
+      "onboard_time": 1693653757,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260126,
       "num": 260126,
       "word": "斑马线前老人突然转身9万点赞",
@@ -10673,6 +10705,14 @@
       "onboard_time": 1693277736,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228734,
+      "num": 228734,
+      "word": "云之羽终极预告片",
+      "onboard_time": 1693653939,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 228519,
@@ -12379,6 +12419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196127,
+      "num": 196127,
+      "word": "长春电影节闭幕式红毯",
+      "onboard_time": 1693653037,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196094,
       "num": 196094,
       "word": "拉下绳子居然当上了教皇",
@@ -12699,14 +12747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191439,
-      "num": 191439,
-      "word": "长春电影节闭幕式红毯",
-      "onboard_time": 1693653037,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191388,
       "num": 191388,
       "word": "马嘉祺重庆森林滤镜随拍",
@@ -12993,14 +13033,6 @@
       "onboard_time": 1693221397,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 186336,
-      "num": 186336,
-      "word": "马冬梅任北京市平谷区副区长",
-      "onboard_time": 1693652920,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186189,
@@ -14107,6 +14139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151275,
+      "num": 151275,
+      "word": "薛之谦沈阳",
+      "onboard_time": 1693652680,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150901,
       "num": 150901,
       "word": "秋天的第一张骄阳",
@@ -14225,6 +14265,14 @@
       "onboard_time": 1693202014,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145052,
+      "num": 145052,
+      "word": "WB对战KSG",
+      "onboard_time": 1693654418,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 144823,
@@ -15043,6 +15091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83969,
+      "num": 676433,
+      "word": "高校连续4年为独自报到新生发奖状",
+      "onboard_time": 1693652499,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83253,
       "num": 731276,
       "word": "浙江临海种出2米高巨型水稻",
@@ -15624,14 +15680,6 @@
       "word": "深圳市台风橙色预警信号升级为红色",
       "onboard_time": 1693596375,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33697,
-      "num": 442855,
-      "word": "高校连续4年为独自报到新生发奖状",
-      "onboard_time": 1693652499,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
