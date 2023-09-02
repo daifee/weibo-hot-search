@@ -1,0 +1,410 @@
+{
+  "runTime": 1693696525298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 874287,
+        "num": 874287,
+        "word": "千万粉丝网红家中失火",
+        "onboard_time": 1693669720,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 622624,
+        "num": 622624,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3709,
+        "num": 462705,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447070,
+        "num": 447070,
+        "word": "羡慕杜海涛婴儿般的睡眠",
+        "onboard_time": 1693668582,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336707,
+        "num": 336707,
+        "word": "利息少了130万房主美滋滋换电脑换手机",
+        "onboard_time": 1693665584,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 279723,
+        "num": 279723,
+        "word": "中国男篮或将连续缺席两届奥运会",
+        "onboard_time": 1693670200,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279327,
+        "num": 279327,
+        "word": "公司逼员工主动离职常用套路",
+        "onboard_time": 1693653757,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240548,
+        "num": 240548,
+        "word": "日本接连发生大规模集体食物中毒",
+        "onboard_time": 1693651598,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227247,
+        "num": 227247,
+        "word": "盛阳 伪装小奶狗的小狼狗",
+        "onboard_time": 1693674566,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208681,
+        "num": 208681,
+        "word": "解说怒吼质问中国男篮",
+        "onboard_time": 1693664564,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1271838,
+        "num": 207875,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762583,
+        "num": 205900,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512473,
+        "num": 204552,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84014,
+        "num": 203600,
+        "word": "西安市第一医院两名医生被停职调查",
+        "onboard_time": 1693655376,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59789,
+        "num": 201779,
+        "word": "全国道德模范龚全珍逝世",
+        "onboard_time": 1693668524,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346360,
+        "num": 200380,
+        "word": "周杰伦与小女儿牵手照",
+        "onboard_time": 1693666184,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200028,
+        "num": 200028,
+        "word": "张凌赫粉底太白了",
+        "onboard_time": 1693661860,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171900,
+        "num": 171900,
+        "word": "梁朝伟威尼斯领奖变表情包",
+        "onboard_time": 1693670739,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166796,
+        "num": 166796,
+        "word": "我喜欢你 暂时两字不发音",
+        "onboard_time": 1693666546,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147126,
+        "num": 147126,
+        "word": "刘宇宁直播",
+        "onboard_time": 1693667268,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245663,
+        "num": 144307,
+        "word": "爸爸看了一圈儿子同学的名字懵了",
+        "onboard_time": 1693664564,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199840,
+        "num": 142403,
+        "word": "在上海吃到了42块的可丽饼",
+        "onboard_time": 1693671633,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156373,
+        "num": 139992,
+        "word": "四舍五入只有27天就放寒假了",
+        "onboard_time": 1693660302,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135116,
+        "num": 135116,
+        "word": "生娃之前 可先看看李湘谷燕",
+        "onboard_time": 1693652257,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 128761,
+        "num": 128761,
+        "word": "姚明黑脸",
+        "onboard_time": 1693665644,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125880,
+        "num": 125880,
+        "word": "陈都灵兰夫人",
+        "onboard_time": 1693669001,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120974,
+        "num": 120974,
+        "word": "易烊千玺金鹿奖最佳男演员",
+        "onboard_time": 1693658618,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120223,
+        "num": 120223,
+        "word": "王耀庆一公个人喜爱度第一",
+        "onboard_time": 1693684514,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118707,
+        "num": 118707,
+        "word": "王宝强终于可以把金扫帚还回去了",
+        "onboard_time": 1693662946,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118094,
+        "num": 118094,
+        "word": "女儿送58元戒指没想到妈妈戴了9年",
+        "onboard_time": 1693685895,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179876,
+        "num": 117801,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117179,
+        "num": 117179,
+        "word": "好羡慕23级大学生",
+        "onboard_time": 1693658914,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113448,
+        "num": 113448,
+        "word": "有人趁着下雨为他人遮伞",
+        "onboard_time": 1693691596,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109338,
+        "num": 109338,
+        "word": "21岁休学29岁存款5000万",
+        "onboard_time": 1693640554,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101838,
+        "num": 101838,
+        "word": "北京众多市民涌入干涸河道捡金粒",
+        "onboard_time": 1693696162,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96221,
+        "num": 96221,
+        "word": "云之羽空降",
+        "onboard_time": 1693651298,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91433,
+        "num": 91433,
+        "word": "中国男篮小组倒数第一",
+        "onboard_time": 1693663546,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 89793,
+        "word": "秀才被举报涉嫌税收违法",
+        "onboard_time": 1693661321,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 87545,
+        "num": 87545,
+        "word": "费翔 年轻时最不感兴趣的就是父母",
+        "onboard_time": 1693680918,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84812,
+        "num": 84812,
+        "word": "安崎不服张郁梓一直第一名",
+        "onboard_time": 1693664924,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84617,
+        "num": 84617,
+        "word": "倪妮金鹿奖最佳女演员",
+        "onboard_time": 1693658676,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84360,
+        "num": 84360,
+        "word": "你现在收入存够1千万要多久",
+        "onboard_time": 1693648115,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80235,
+        "num": 80235,
+        "word": "金靖出场把我笑死",
+        "onboard_time": 1693658378,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77235,
+        "num": 77235,
+        "word": "中国男篮崩盘",
+        "onboard_time": 1693663546,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75778,
+        "num": 75778,
+        "word": "老番茄结婚",
+        "onboard_time": 1693644633,
+        "rank": 44,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 74025,
+        "num": 74025,
+        "word": "时团纪录片目前唯二笑出来的部分",
+        "onboard_time": 1693671277,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62263,
+        "num": 62263,
+        "word": "宝剑嫂好会拍",
+        "onboard_time": 1693661019,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62129,
+        "num": 62129,
+        "word": "秀才账号被封",
+        "onboard_time": 1693649312,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 60334,
+        "num": 60334,
+        "word": "汪苏泷不分手的恋爱独唱失败",
+        "onboard_time": 1693668103,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57389,
+        "num": 57389,
+        "word": "梁朝伟领取威尼斯终身成就奖",
+        "onboard_time": 1693663242,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693694032984,
+  "endTime": 1693696525298,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -3779,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622624,
+      "num": 622624,
+      "word": "云之羽",
+      "onboard_time": 1693677442,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622120,
       "num": 622120,
       "word": "张晚意孙怡美拉德风剧照",
@@ -6377,14 +6385,6 @@
       "onboard_time": 1693353759,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 404941,
-      "num": 404941,
-      "word": "云之羽",
-      "onboard_time": 1693677442,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 404908,
@@ -11395,6 +11395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227247,
+      "num": 227247,
+      "word": "盛阳 伪装小奶狗的小狼狗",
+      "onboard_time": 1693674566,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227162,
       "num": 227162,
       "word": "AG猝死团",
@@ -14307,14 +14315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171251,
-      "num": 171251,
-      "word": "盛阳 伪装小奶狗的小狼狗",
-      "onboard_time": 1693674566,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171136,
       "num": 171136,
       "word": "电梯里的镜子其实是为方便轮椅人士",
@@ -15435,6 +15435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120223,
+      "num": 120223,
+      "word": "王耀庆一公个人喜爱度第一",
+      "onboard_time": 1693684514,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "灯塔2023暑期档剧集榜单",
@@ -15457,6 +15465,14 @@
       "onboard_time": 1693627235,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118094,
+      "num": 118094,
+      "word": "女儿送58元戒指没想到妈妈戴了9年",
+      "onboard_time": 1693685895,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117675,
@@ -15505,6 +15521,14 @@
       "onboard_time": 1693133851,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113448,
+      "num": 113448,
+      "word": "有人趁着下雨为他人遮伞",
+      "onboard_time": 1693691596,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113402,
@@ -15648,6 +15672,14 @@
       "word": "开学日必备的仪式感",
       "onboard_time": 1693456972,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101838,
+      "num": 101838,
+      "word": "北京众多市民涌入干涸河道捡金粒",
+      "onboard_time": 1693696162,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -15803,6 +15835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87545,
+      "num": 87545,
+      "word": "费翔 年轻时最不感兴趣的就是父母",
+      "onboard_time": 1693680918,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87279,
       "num": 87279,
       "word": "难道这就是恋爱脑",
@@ -15889,14 +15929,6 @@
       "onboard_time": 1693473636,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 80142,
-      "num": 80142,
-      "word": "王耀庆一公个人喜爱度第一",
-      "onboard_time": 1693684514,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 79798,
@@ -16009,14 +16041,6 @@
       "onboard_time": 1693382499,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73713,
-      "num": 58810,
-      "word": "费翔 年轻时最不感兴趣的就是父母",
-      "onboard_time": 1693680918,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 73051,
@@ -16171,14 +16195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64046,
-      "num": 64046,
-      "word": "女儿送58元戒指没想到妈妈戴了9年",
-      "onboard_time": 1693685895,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63075,
       "num": 63075,
       "word": "FIFTY FIFTY与经纪公司的专属合约有效",
@@ -16209,14 +16225,6 @@
       "onboard_time": 1693170733,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 60267,
-      "num": 60267,
-      "word": "有人趁着下雨为他人遮伞",
-      "onboard_time": 1693691596,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55663,
