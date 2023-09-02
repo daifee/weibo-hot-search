@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693640045903,
+  "endTime": 1693642753057,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2160557,
+      "num": 431969,
+      "word": "核污水排放1周海水一片漆黑",
+      "onboard_time": 1693637495,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2134015,
       "num": 2134015,
       "word": "日本第一代丁克正疯狂相亲",
@@ -139,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1906915,
-      "num": 431969,
-      "word": "核污水排放1周海水一片漆黑",
-      "onboard_time": 1693637495,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1917213,
+      "num": 1917213,
+      "word": "马伯骞票数",
+      "onboard_time": 1693640612,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1902750,
@@ -193,6 +201,14 @@
       "onboard_time": 1693533037,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1739126,
+      "num": 1739126,
+      "word": "21岁休学29岁存款5000万",
+      "onboard_time": 1693640554,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1735672,
@@ -515,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 934092,
+      "num": 374388,
+      "word": "杨玏说到做到",
+      "onboard_time": 1693640793,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 927885,
       "num": 256278,
       "word": "断缴社保的年轻人都是怎么想的",
@@ -545,6 +569,14 @@
       "onboard_time": 1693445614,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902468,
+      "num": 902468,
+      "word": "哪个演员敢拿金熊猫奖",
+      "onboard_time": 1693640253,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 898734,
@@ -875,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655925,
+      "num": 366267,
+      "word": "日本大爷称核污水没有危害",
+      "onboard_time": 1693640313,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653018,
       "num": 653018,
       "word": "上错花轿嫁对郎再火的唯一受害者",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1693494103,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 555966,
+      "num": 364681,
+      "word": "杨幂 生活中很多东西要学会原谅",
+      "onboard_time": 1693640676,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 554083,
@@ -1691,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427299,
+      "num": 427299,
+      "word": "南阳理工给予虐猫学生开除学籍处分",
+      "onboard_time": 1693641214,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 423759,
       "num": 318570,
       "word": "你能吃苦就会有吃不完的苦",
@@ -1931,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377950,
+      "num": 377950,
+      "word": "封神票房破25亿flag",
+      "onboard_time": 1693639292,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377577,
       "num": 309146,
       "word": "用过这书皮的人都长大了吧",
@@ -2123,6 +2187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349593,
+      "num": 349593,
+      "word": "骄阳伴我 血压飙升的职场",
+      "onboard_time": 1693641634,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348829,
       "num": 205860,
       "word": "刘亦菲 做一个真诚的人好幸福",
@@ -2211,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333852,
+      "num": 333852,
+      "word": "侯雯元跳舞别跳科目一",
+      "onboard_time": 1693641273,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333694,
       "num": 333694,
       "word": "九尾直播",
@@ -2281,6 +2361,30 @@
       "onboard_time": 1693523426,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320693,
+      "num": 320693,
+      "word": "国色芳华女主",
+      "onboard_time": 1693641873,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 320236,
+      "num": 320236,
+      "word": "原来真的有小人国",
+      "onboard_time": 1693641935,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 318403,
+      "num": 318403,
+      "word": "内娱顶级贵公子",
+      "onboard_time": 1693642236,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317987,
@@ -2627,20 +2731,20 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 262491,
+      "num": 262491,
+      "word": "吴世勋杂志",
+      "onboard_time": 1693639414,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261686,
       "num": 261686,
       "word": "美国商务部长乘中国高铁让美媒纠结",
       "onboard_time": 1693488216,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261660,
-      "num": 261660,
-      "word": "封神票房破25亿flag",
-      "onboard_time": 1693639292,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 260611,
@@ -2851,14 +2955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243045,
-      "num": 243045,
-      "word": "吴世勋杂志",
-      "onboard_time": 1693639414,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 242756,
       "num": 199670,
       "word": "显微镜下皮肤上的针孔",
@@ -3059,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218596,
+      "num": 218596,
+      "word": "小夭 人间走一遭",
+      "onboard_time": 1693640733,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217916,
       "num": 592253,
       "word": "2秒极氪王来了",
@@ -3185,6 +3289,14 @@
       "onboard_time": 1693545942,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207588,
+      "num": 263528,
+      "word": "套娃套成这样也是没谁了",
+      "onboard_time": 1693642294,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 207311,
@@ -3459,6 +3571,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 195410,
+      "num": 195410,
+      "word": "乌尔善是懂我们想看什么的",
+      "onboard_time": 1693642236,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195012,
       "num": 195012,
       "word": "捡了东西的狼",
@@ -3499,12 +3619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193355,
+      "num": 202410,
+      "word": "苏拉再次登陆广东最大风力10级",
+      "onboard_time": 1693642053,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193094,
       "num": 206141,
       "word": "极氪王 特斯拉",
       "onboard_time": 1693580439,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 192776,
+      "num": 192776,
+      "word": "定向免费医学生考上研究生后欲违约",
+      "onboard_time": 1693641214,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192486,
@@ -3603,6 +3739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189825,
+      "num": 189825,
+      "word": "拉下绳子居然当上了教皇",
+      "onboard_time": 1693642533,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188982,
       "num": 207705,
       "word": "辛爽像是来乐队的夏天过冬",
@@ -3625,6 +3769,14 @@
       "onboard_time": 1693631135,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188108,
+      "num": 188108,
+      "word": "时代少年团Hi6玩游戏胜负欲",
+      "onboard_time": 1693642415,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 188056,
@@ -3672,6 +3824,14 @@
       "word": "电影不虚此行预售开启",
       "onboard_time": 1693539036,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185831,
+      "num": 185831,
+      "word": "封神演员生活照合集",
+      "onboard_time": 1693641873,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -3865,6 +4025,14 @@
       "onboard_time": 1693546897,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164082,
+      "num": 164082,
+      "word": "此沙丸子头教程来了",
+      "onboard_time": 1693640190,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 163940,
@@ -4121,6 +4289,14 @@
       "onboard_time": 1693632813,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138887,
+      "num": 138887,
+      "word": "一家三代跨万里送孩子上大学",
+      "onboard_time": 1693642474,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 138269,
@@ -4451,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77388,
+      "num": 367732,
+      "word": "兵哥哥高铁站求婚同日退伍女战友",
+      "onboard_time": 1693641634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73051,
       "num": 73051,
       "word": "谐音梗为什么要扣钱",
@@ -4572,7 +4756,7 @@
     },
     {
       "raw_hot": 43847,
-      "num": 1124770,
+      "num": 1458369,
       "word": "感受2023服贸会风采",
       "onboard_time": 1693631015,
       "rank": 2,
