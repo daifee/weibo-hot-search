@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693622049246,
+  "endTime": 1693624588512,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1520364,
+      "num": 1520364,
+      "word": "世界网速排名中国都蓝得发黑了",
+      "onboard_time": 1693619135,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1288966,
       "num": 1288966,
       "word": "有一种沉默是两个人看了部国产烂片",
@@ -49,14 +57,6 @@
       "onboard_time": 1693612110,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1024576,
-      "num": 1024576,
-      "word": "世界网速排名中国都蓝得发黑了",
-      "onboard_time": 1693619135,
-      "rank": 31,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1017483,
@@ -131,6 +131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 710909,
+      "num": 710909,
+      "word": "武艺问武艺拿蛋糕好笑吗",
+      "onboard_time": 1693621834,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686416,
       "num": 349372,
       "word": "11个月男婴全身淤青布满针眼惨死",
@@ -153,6 +161,14 @@
       "onboard_time": 1693556975,
       "rank": 13,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 627596,
+      "num": 627596,
+      "word": "长相思腾讯暑期档最大爆款",
+      "onboard_time": 1693621235,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 610647,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585439,
+      "num": 585439,
+      "word": "用iPhone5s拍照",
+      "onboard_time": 1693621176,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 571309,
       "num": 571309,
       "word": "官方称天津大爷跳水的8A级水域禁止游泳",
@@ -217,6 +241,14 @@
       "onboard_time": 1693589066,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 527428,
+      "num": 527428,
+      "word": "日本签字投降历史影像",
+      "onboard_time": 1693619975,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492805,
@@ -323,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402460,
+      "num": 402460,
+      "word": "get到了胡彦斌的魅力",
+      "onboard_time": 1693621536,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385042,
       "num": 385042,
       "word": "肖战王琳新剧对手戏",
@@ -371,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349715,
-      "num": 349715,
-      "word": "长相思腾讯暑期档最大爆款",
-      "onboard_time": 1693621235,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 349037,
       "num": 349037,
       "word": "开端第二部",
@@ -419,20 +451,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339837,
+      "num": 262836,
+      "word": "西出玉门",
+      "onboard_time": 1693623332,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338871,
       "num": 338871,
       "word": "凤冠霞帔怎么可能被抢风头",
       "onboard_time": 1693582898,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 331895,
-      "num": 294072,
-      "word": "日本签字投降历史影像",
-      "onboard_time": 1693619975,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326369,
@@ -449,6 +481,14 @@
       "onboard_time": 1693582181,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312715,
+      "num": 262732,
+      "word": "蔡文静好会亲",
+      "onboard_time": 1693621834,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 312168,
@@ -523,6 +563,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 280374,
+      "num": 280374,
+      "word": "美网",
+      "onboard_time": 1693623755,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278764,
       "num": 251166,
       "word": "费翔 爱一个人其实是爱上她的缺点",
@@ -561,6 +609,22 @@
       "onboard_time": 1693619197,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267332,
+      "num": 267332,
+      "word": "敖子逸蒋依依的拉扯",
+      "onboard_time": 1693622797,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266112,
+      "num": 266112,
+      "word": "肖战盛阳V榜破9登顶",
+      "onboard_time": 1693622853,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 256146,
@@ -627,14 +691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 239070,
-      "num": 239070,
-      "word": "get到了胡彦斌的魅力",
-      "onboard_time": 1693621536,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237648,
       "num": 237648,
       "word": "小猫的交班仪式",
@@ -649,14 +705,6 @@
       "onboard_time": 1693615775,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 235278,
-      "num": 235278,
-      "word": "用iPhone5s拍照",
-      "onboard_time": 1693621176,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 224561,
@@ -691,12 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205382,
-      "num": 205382,
-      "word": "武艺问武艺拿蛋糕好笑吗",
-      "onboard_time": 1693621834,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 205069,
+      "num": 205069,
+      "word": "于适少年新气",
+      "onboard_time": 1693624414,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199616,
@@ -755,20 +803,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191203,
-      "num": 191203,
-      "word": "蔡文静好会亲",
-      "onboard_time": 1693621834,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190014,
       "num": 166438,
       "word": "做着想死的工作居然是为了谋生",
       "onboard_time": 1693608801,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188784,
+      "num": 188784,
+      "word": "台风苏拉风雨影响广州",
+      "onboard_time": 1693623155,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186951,
@@ -860,7 +908,7 @@
     },
     {
       "raw_hot": 161430,
-      "num": 161430,
+      "num": 178132,
       "word": "魏如萱演唱会",
       "onboard_time": 1693619796,
       "rank": 49,
@@ -880,6 +928,14 @@
       "word": "暑期最好看的剧 孟宴臣cut",
       "onboard_time": 1693587809,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151300,
+      "num": 178207,
+      "word": "盛阳委屈小狗",
+      "onboard_time": 1693622976,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1140,6 +1196,9 @@
     },
     {
       "word": "#强军需要一批又一批有志青年接续奋斗#"
+    },
+    {
+      "word": "#2023服贸会开幕#"
     }
   ]
 }
