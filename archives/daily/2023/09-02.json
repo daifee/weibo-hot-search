@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693658662693,
+  "endTime": 1693660633049,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2981150,
-      "num": 788304,
+      "num": 1073140,
       "word": "老番茄结婚",
       "onboard_time": 1693644633,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1693640554,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2628220,
+      "num": 2628220,
+      "word": "易烊千玺金鹿奖最佳男演员",
+      "onboard_time": 1693658618,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 2162195,
@@ -99,6 +107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1578404,
+      "num": 1578404,
+      "word": "日本接连发生大规模集体食物中毒",
+      "onboard_time": 1693651598,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1567359,
       "num": 1567359,
       "word": "深圳台风",
@@ -113,14 +129,6 @@
       "onboard_time": 1693619135,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1548372,
-      "num": 1548372,
-      "word": "日本接连发生大规模集体食物中毒",
-      "onboard_time": 1693651598,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1508709,
@@ -139,12 +147,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1308821,
+      "num": 1308821,
+      "word": "马冬梅任北京市平谷区副区长",
+      "onboard_time": 1693652920,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1288966,
       "num": 1288966,
       "word": "有一种沉默是两个人看了部国产烂片",
       "onboard_time": 1693616375,
       "rank": 16,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 1217488,
+      "num": 1217488,
+      "word": "倪妮金鹿奖最佳女演员",
+      "onboard_time": 1693658676,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1189934,
+      "num": 1189934,
+      "word": "金靖出场把我笑死",
+      "onboard_time": 1693658378,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 1161330,
@@ -155,20 +187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1155673,
-      "num": 1155673,
-      "word": "马冬梅任北京市平谷区副区长",
-      "onboard_time": 1693652920,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1138592,
       "num": 1138592,
       "word": "30年内日本首都圈7级地震概率达七成",
       "onboard_time": 1693612110,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075510,
+      "num": 1075510,
+      "word": "好羡慕23级大学生",
+      "onboard_time": 1693658914,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 1017483,
@@ -291,6 +323,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 868794,
+      "num": 868794,
+      "word": "我吃宫子羽这张脸",
+      "onboard_time": 1693657537,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 822677,
       "num": 822677,
       "word": "孙怡问melody喜欢软桃子还是硬桃子",
@@ -395,12 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 714103,
-      "num": 714103,
-      "word": "我吃宫子羽这张脸",
-      "onboard_time": 1693657537,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 720797,
+      "num": 720797,
+      "word": "范丞丞终于放出杨迪直拍了",
+      "onboard_time": 1693659517,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 694103,
@@ -835,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417732,
+      "num": 417732,
+      "word": "肖战说书已买钱已转",
+      "onboard_time": 1693660121,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415973,
       "num": 415973,
       "word": "台风路径",
@@ -931,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 391562,
+      "num": 391562,
+      "word": "中国男篮vs菲律宾男篮",
+      "onboard_time": 1693658018,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385042,
       "num": 385042,
       "word": "肖战王琳新剧对手戏",
@@ -979,12 +1035,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 371768,
+      "num": 371768,
+      "word": "汪苏泷演唱会通知王鹤棣了吗",
+      "onboard_time": 1693659818,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371032,
       "num": 343308,
       "word": "上海500万的房首付降175万",
       "onboard_time": 1693637190,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 370961,
+      "num": 370961,
+      "word": "周琦受伤",
+      "onboard_time": 1693658676,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 369889,
@@ -1012,7 +1084,7 @@
     },
     {
       "raw_hot": 364205,
-      "num": 710710,
+      "num": 974985,
       "word": "西安市第一医院两名医生被停职调查",
       "onboard_time": 1693655376,
       "rank": 12,
@@ -1163,11 +1235,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316447,
-      "num": 316447,
-      "word": "金靖出场把我笑死",
-      "onboard_time": 1693658378,
-      "rank": 24,
+      "raw_hot": 316551,
+      "num": 316551,
+      "word": "第18届长春电影节获奖名单",
+      "onboard_time": 1693658914,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1267,8 +1339,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299157,
+      "num": 299157,
+      "word": "花少北沙一汀合照",
+      "onboard_time": 1693660420,
+      "rank": 32,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 296625,
-      "num": 731424,
+      "num": 921091,
       "word": "近视还无法治愈",
       "onboard_time": 1693643496,
       "rank": 12,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1693581702,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287533,
+      "num": 287533,
+      "word": "日本男篮vs佛得角男篮",
+      "onboard_time": 1693655679,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 285732,
@@ -1411,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265488,
+      "num": 265488,
+      "word": "前程似今",
+      "onboard_time": 1693659939,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263292,
       "num": 221864,
       "word": "Angelababy张大大走红毯",
@@ -1419,20 +1515,28 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 263013,
-      "num": 263013,
-      "word": "日本男篮vs佛得角男篮",
-      "onboard_time": 1693655679,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262491,
       "num": 262491,
       "word": "吴世勋杂志",
       "onboard_time": 1693639414,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 261498,
+      "num": 261498,
+      "word": "原来我小时候这么有品",
+      "onboard_time": 1693658257,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258812,
+      "num": 258812,
+      "word": "徐佳莹翻唱Ditto",
+      "onboard_time": 1693659338,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 256882,
@@ -1595,20 +1699,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235492,
+      "num": 235492,
+      "word": "蔡文静片场只有名字文静",
+      "onboard_time": 1693658857,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232295,
       "num": 232295,
       "word": "我看封神质子团belike",
       "onboard_time": 1693657361,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232285,
-      "num": 232285,
-      "word": "中国男篮vs菲律宾男篮",
-      "onboard_time": 1693658018,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 231093,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1693653939,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228379,
+      "num": 228379,
+      "word": "中国男篮无缘直通巴黎奥运会",
+      "onboard_time": 1693660601,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 225093,
@@ -1651,6 +1763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221830,
+      "num": 221830,
+      "word": "不是说弹钢琴会变优雅吗",
+      "onboard_time": 1693660241,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 221423,
+      "num": 221423,
+      "word": "装腔启示录",
+      "onboard_time": 1693659037,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218596,
       "num": 218596,
       "word": "小夭 人间走一遭",
@@ -1667,20 +1795,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216201,
-      "num": 216201,
-      "word": "易烊千玺金鹿奖最佳男演员",
-      "onboard_time": 1693658618,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216006,
       "num": 258717,
       "word": "苏拉再次登陆广东最大风力10级",
       "onboard_time": 1693642053,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211929,
+      "num": 211929,
+      "word": "四舍五入只有27天就放寒假了",
+      "onboard_time": 1693660302,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 211022,
@@ -1707,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207920,
+      "num": 710167,
+      "word": "姐姐精心策划救回身陷缅甸弟弟",
+      "onboard_time": 1693656098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207588,
       "num": 263528,
       "word": "套娃套成这样也是没谁了",
@@ -1731,20 +1867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206381,
-      "num": 710167,
-      "word": "姐姐精心策划救回身陷缅甸弟弟",
-      "onboard_time": 1693656098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205961,
       "num": 387639,
       "word": "苏拉的危险半圆将横扫香港和深圳",
       "onboard_time": 1693569276,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205128,
+      "num": 205128,
+      "word": "长春电影节都听你北伯侯的",
+      "onboard_time": 1693659818,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 205069,
@@ -2243,14 +2379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154396,
-      "num": 176417,
-      "word": "原来我小时候这么有品",
-      "onboard_time": 1693658257,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154174,
       "num": 179014,
       "word": "如果没条件去旅行",
@@ -2571,8 +2699,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66040,
-      "num": 1904418,
+      "raw_hot": 71693,
+      "num": 2359541,
       "word": "杭州亚运会颁奖物资背后满是祝福",
       "onboard_time": 1693657118,
       "rank": 2,
@@ -2608,6 +2736,14 @@
       "word": "广西崇左3.3级地震",
       "onboard_time": 1693589843,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45036,
+      "num": 887877,
+      "word": "开学第1天爸爸蹲守校外担心女儿",
+      "onboard_time": 1693659640,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693658662693,
+  "endTime": 1693660633049,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2981150,
-      "num": 788304,
+      "num": 1073140,
       "word": "老番茄结婚",
       "onboard_time": 1693644633,
       "rank": 10,
@@ -113,6 +113,14 @@
       "onboard_time": 1693497155,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2628220,
+      "num": 2628220,
+      "word": "易烊千玺金鹿奖最佳男演员",
+      "onboard_time": 1693658618,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 2285999,
@@ -291,20 +299,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1578404,
+      "num": 1578404,
+      "word": "日本接连发生大规模集体食物中毒",
+      "onboard_time": 1693651598,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1566771,
       "num": 1566771,
       "word": "世界网速排名中国都蓝得发黑了",
       "onboard_time": 1693619135,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1548372,
-      "num": 1548372,
-      "word": "日本接连发生大规模集体食物中毒",
-      "onboard_time": 1693651598,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1508709,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1308821,
+      "num": 1308821,
+      "word": "马冬梅任北京市平谷区副区长",
+      "onboard_time": 1693652920,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1288966,
       "num": 1288966,
       "word": "有一种沉默是两个人看了部国产烂片",
@@ -419,20 +435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1217488,
+      "num": 1217488,
+      "word": "倪妮金鹿奖最佳女演员",
+      "onboard_time": 1693658676,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1189934,
+      "num": 1189934,
+      "word": "金靖出场把我笑死",
+      "onboard_time": 1693658378,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1161330,
       "num": 1161330,
       "word": "武艺问武艺拿蛋糕好笑吗",
       "onboard_time": 1693621834,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1155673,
-      "num": 1155673,
-      "word": "马冬梅任北京市平谷区副区长",
-      "onboard_time": 1693652920,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1151262,
@@ -473,6 +497,14 @@
       "onboard_time": 1693570958,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075510,
+      "num": 1075510,
+      "word": "好羡慕23级大学生",
+      "onboard_time": 1693658914,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 1055874,
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868794,
+      "num": 868794,
+      "word": "我吃宫子羽这张脸",
+      "onboard_time": 1693657537,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 855476,
       "num": 855476,
       "word": "骄阳伴我",
@@ -915,20 +955,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 720797,
+      "num": 720797,
+      "word": "范丞丞终于放出杨迪直拍了",
+      "onboard_time": 1693659517,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719991,
       "num": 596579,
       "word": "白敬亭虽迟但到的甜妹舞",
       "onboard_time": 1693571378,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 714103,
-      "num": 714103,
-      "word": "我吃宫子羽这张脸",
-      "onboard_time": 1693657537,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 713357,
@@ -2035,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417732,
+      "num": 417732,
+      "word": "肖战说书已买钱已转",
+      "onboard_time": 1693660121,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415346,
       "num": 263380,
       "word": "演员就该于适这样啊",
@@ -2203,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391562,
+      "num": 391562,
+      "word": "中国男篮vs菲律宾男篮",
+      "onboard_time": 1693658018,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388788,
       "num": 388788,
       "word": "徐冬冬尹子维首档恋综",
@@ -2299,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371768,
+      "num": 371768,
+      "word": "汪苏泷演唱会通知王鹤棣了吗",
+      "onboard_time": 1693659818,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371082,
       "num": 371082,
       "word": "HYBE新女团出道名单",
@@ -2321,6 +2385,14 @@
       "onboard_time": 1693637190,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 370961,
+      "num": 370961,
+      "word": "周琦受伤",
+      "onboard_time": 1693658676,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 369889,
@@ -2372,7 +2444,7 @@
     },
     {
       "raw_hot": 364205,
-      "num": 710710,
+      "num": 974985,
       "word": "西安市第一医院两名医生被停职调查",
       "onboard_time": 1693655376,
       "rank": 12,
@@ -2699,11 +2771,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316447,
-      "num": 316447,
-      "word": "金靖出场把我笑死",
-      "onboard_time": 1693658378,
-      "rank": 24,
+      "raw_hot": 316551,
+      "num": 316551,
+      "word": "第18届长春电影节获奖名单",
+      "onboard_time": 1693658914,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -2811,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299157,
+      "num": 299157,
+      "word": "花少北沙一汀合照",
+      "onboard_time": 1693660420,
+      "rank": 32,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 298155,
       "num": 298155,
       "word": "7年了狗狗还记得自己叫笨笨",
@@ -2836,7 +2916,7 @@
     },
     {
       "raw_hot": 296625,
-      "num": 731424,
+      "num": 921091,
       "word": "近视还无法治愈",
       "onboard_time": 1693643496,
       "rank": 12,
@@ -2904,6 +2984,14 @@
       "word": "欧冠32强全部出炉",
       "onboard_time": 1693497995,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287533,
+      "num": 287533,
+      "word": "日本男篮vs佛得角男篮",
+      "onboard_time": 1693655679,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -3091,20 +3179,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265488,
+      "num": 265488,
+      "word": "前程似今",
+      "onboard_time": 1693659939,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263292,
       "num": 221864,
       "word": "Angelababy张大大走红毯",
       "onboard_time": 1693635692,
       "rank": 25,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 263013,
-      "num": 263013,
-      "word": "日本男篮vs佛得角男篮",
-      "onboard_time": 1693655679,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 262491,
@@ -3121,6 +3209,14 @@
       "onboard_time": 1693488216,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261498,
+      "num": 261498,
+      "word": "原来我小时候这么有品",
+      "onboard_time": 1693658257,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 260611,
@@ -3169,6 +3265,14 @@
       "onboard_time": 1693552417,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258812,
+      "num": 258812,
+      "word": "徐佳莹翻唱Ditto",
+      "onboard_time": 1693659338,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 258672,
@@ -3451,6 +3555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235492,
+      "num": 235492,
+      "word": "蔡文静片场只有名字文静",
+      "onboard_time": 1693658857,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233524,
       "num": 233524,
       "word": "山东开海在即14000艘渔船蓄势待发",
@@ -3465,14 +3577,6 @@
       "onboard_time": 1693657361,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232285,
-      "num": 232285,
-      "word": "中国男篮vs菲律宾男篮",
-      "onboard_time": 1693658018,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 232170,
@@ -3521,6 +3625,14 @@
       "onboard_time": 1693553142,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228379,
+      "num": 228379,
+      "word": "中国男篮无缘直通巴黎奥运会",
+      "onboard_time": 1693660601,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 226413,
@@ -3575,6 +3687,22 @@
       "num": 222323,
       "word": "张嘉倪新剧里好美",
       "onboard_time": 1693572222,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221830,
+      "num": 221830,
+      "word": "不是说弹钢琴会变优雅吗",
+      "onboard_time": 1693660241,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 221423,
+      "num": 221423,
+      "word": "装腔启示录",
+      "onboard_time": 1693659037,
       "rank": 45,
       "category": "影视"
     },
@@ -3635,14 +3763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216201,
-      "num": 216201,
-      "word": "易烊千玺金鹿奖最佳男演员",
-      "onboard_time": 1693658618,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216006,
       "num": 258717,
       "word": "苏拉再次登陆广东最大风力10级",
@@ -3665,6 +3785,14 @@
       "onboard_time": 1693568856,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211929,
+      "num": 211929,
+      "word": "四舍五入只有27天就放寒假了",
+      "onboard_time": 1693660302,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 211022,
@@ -3755,6 +3883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207920,
+      "num": 710167,
+      "word": "姐姐精心策划救回身陷缅甸弟弟",
+      "onboard_time": 1693656098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207588,
       "num": 263528,
       "word": "套娃套成这样也是没谁了",
@@ -3811,14 +3947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206381,
-      "num": 710167,
-      "word": "姐姐精心策划救回身陷缅甸弟弟",
-      "onboard_time": 1693656098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206023,
       "num": 206023,
       "word": "姜云升新专辑",
@@ -3832,6 +3960,14 @@
       "word": "周冬雨新片玩复仇高端局",
       "onboard_time": 1693536694,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205128,
+      "num": 205128,
+      "word": "长春电影节都听你北伯侯的",
+      "onboard_time": 1693659818,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -4731,14 +4867,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 154396,
-      "num": 176417,
-      "word": "原来我小时候这么有品",
-      "onboard_time": 1693658257,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154174,
       "num": 179014,
       "word": "如果没条件去旅行",
@@ -5307,19 +5435,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 71693,
+      "num": 2359541,
+      "word": "杭州亚运会颁奖物资背后满是祝福",
+      "onboard_time": 1693657118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71376,
       "num": 633702,
       "word": "民警神预判封路1分钟后山体滑坡",
       "onboard_time": 1693558839,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66040,
-      "num": 1904418,
-      "word": "杭州亚运会颁奖物资背后满是祝福",
-      "onboard_time": 1693657118,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5409,6 +5537,14 @@
       "onboard_time": 1693503619,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 45036,
+      "num": 887877,
+      "word": "开学第1天爸爸蹲守校外担心女儿",
+      "onboard_time": 1693659640,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44423,
