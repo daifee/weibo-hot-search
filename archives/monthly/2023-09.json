@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693661618632,
+  "endTime": 1693664009296,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -123,6 +123,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2481208,
+      "num": 2481208,
+      "word": "好羡慕23级大学生",
+      "onboard_time": 1693658914,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2432212,
+      "num": 2432212,
+      "word": "韩国石斑鱼大量死亡",
+      "onboard_time": 1693662099,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2308482,
+      "num": 2308482,
+      "word": "张凌赫粉底太白了",
+      "onboard_time": 1693661860,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2285999,
       "num": 2285999,
       "word": "一路朝阳 烂尾",
@@ -201,14 +225,6 @@
       "onboard_time": 1693559379,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1806071,
-      "num": 1806071,
-      "word": "好羡慕23级大学生",
-      "onboard_time": 1693658914,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 1804685,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1497880,
+      "num": 1038170,
+      "word": "宝剑嫂好会拍",
+      "onboard_time": 1693661019,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1489932,
       "num": 789272,
       "word": "日本是加害者不该鸣冤叫屈",
@@ -409,6 +433,14 @@
       "onboard_time": 1693527874,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1335894,
+      "num": 1335894,
+      "word": "中国男篮无缘直通巴黎奥运会",
+      "onboard_time": 1693660601,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 1308821,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062640,
+      "num": 1062640,
+      "word": "中国男篮崩盘",
+      "onboard_time": 1693663546,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1055874,
       "num": 1055874,
       "word": "存量房贷",
@@ -569,6 +609,14 @@
       "onboard_time": 1693633711,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1005078,
+      "num": 1005078,
+      "word": "秀才被举报涉嫌税收违法",
+      "onboard_time": 1693661321,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 999101,
@@ -667,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 929312,
+      "num": 929312,
+      "word": "中国男篮vs菲律宾男篮",
+      "onboard_time": 1693658018,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 927885,
       "num": 256278,
       "word": "断缴社保的年轻人都是怎么想的",
@@ -753,14 +809,6 @@
       "onboard_time": 1693550139,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 874844,
-      "num": 874844,
-      "word": "中国男篮无缘直通巴黎奥运会",
-      "onboard_time": 1693660601,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 871604,
@@ -859,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 807169,
+      "num": 807169,
+      "word": "中国男篮小组倒数第一",
+      "onboard_time": 1693663546,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 806404,
       "num": 618221,
       "word": "杨紫发了麦承欢",
@@ -929,22 +985,6 @@
       "onboard_time": 1693543723,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751181,
-      "num": 751181,
-      "word": "中国男篮vs菲律宾男篮",
-      "onboard_time": 1693658018,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 749554,
-      "num": 749554,
-      "word": "宝剑嫂好会拍",
-      "onboard_time": 1693661019,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 746831,
@@ -1019,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 708001,
+      "num": 708001,
+      "word": "克拉克森爆砍",
+      "onboard_time": 1693661562,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 706329,
       "num": 706329,
       "word": "黄宗泽哭了",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1693545639,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 668531,
+      "num": 668531,
+      "word": "四舍五入只有27天就放寒假了",
+      "onboard_time": 1693660302,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 663840,
@@ -1235,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620461,
+      "num": 620461,
+      "word": "梁朝伟领取威尼斯终身成就奖",
+      "onboard_time": 1693663242,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 619681,
       "num": 619681,
       "word": "用iPhone5s拍照",
@@ -1248,6 +1312,14 @@
       "word": "玫瑰故事",
       "onboard_time": 1693555423,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 613631,
+      "num": 613631,
+      "word": "王宝强终于可以把金扫帚还回去了",
+      "onboard_time": 1693662946,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1465,14 +1537,6 @@
       "onboard_time": 1693527756,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 549156,
-      "num": 549156,
-      "word": "四舍五入只有27天就放寒假了",
-      "onboard_time": 1693660302,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 548100,
@@ -1835,6 +1899,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 468926,
+      "num": 468926,
+      "word": "无忧渡",
+      "onboard_time": 1693663183,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468810,
       "num": 468810,
       "word": "台风吹倒大树砸中汽车造成一死两伤",
@@ -2011,14 +2083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 436769,
-      "num": 436769,
-      "word": "秀才被举报涉嫌税收违法",
-      "onboard_time": 1693661321,
-      "rank": 26,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 433600,
       "num": 433600,
       "word": "白羊座心软的神",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1693478439,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427091,
+      "num": 427091,
+      "word": "乔尔杰维奇用人",
+      "onboard_time": 1693662883,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 423759,
@@ -2387,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 376801,
+      "num": 376801,
+      "word": "汪苏泷演唱会通知王鹤棣了吗",
+      "onboard_time": 1693659818,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376409,
       "num": 376409,
       "word": "杨紫小夭8月角色热度TOP1",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1693524510,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371768,
-      "num": 371768,
-      "word": "汪苏泷演唱会通知王鹤棣了吗",
-      "onboard_time": 1693659818,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 371082,
@@ -3137,14 +3209,6 @@
       "onboard_time": 1693612470,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273998,
-      "num": 273998,
-      "word": "克拉克森爆砍",
-      "onboard_time": 1693661562,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 273500,
@@ -4059,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203885,
+      "num": 203885,
+      "word": "这个时代让人痛苦的原因之一",
+      "onboard_time": 1693663065,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203698,
       "num": 203698,
       "word": "国航回应西安飞温州航班备降武汉",
@@ -4280,6 +4352,14 @@
       "word": "盛阳这样的到底是谁在谈",
       "onboard_time": 1693657717,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196300,
+      "num": 196300,
+      "word": "卢昱晓妆造好看",
+      "onboard_time": 1693663967,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -5484,7 +5564,7 @@
     },
     {
       "raw_hot": 72077,
-      "num": 2359541,
+      "num": 2436330,
       "word": "杭州亚运会颁奖物资背后满是祝福",
       "onboard_time": 1693657118,
       "rank": 2,
@@ -5673,6 +5753,14 @@
       "onboard_time": 1693511053,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34921,
+      "num": 893771,
+      "word": "高校准备3款自酿啤酒迎新生",
+      "onboard_time": 1693663242,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34778,
