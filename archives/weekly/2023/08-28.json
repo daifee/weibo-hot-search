@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693671567499,
+  "endTime": 1693672447435,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2229924,
+      "num": 606876,
+      "word": "男子发生关系后猝死情人被起诉",
+      "onboard_time": 1693669961,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2226366,
       "num": 715811,
       "word": "郭碧婷越来越像向太了",
@@ -984,14 +992,6 @@
       "word": "深圳台风",
       "onboard_time": 1693467941,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1719442,
-      "num": 606876,
-      "word": "男子发生关系后猝死情人被起诉",
-      "onboard_time": 1693669961,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1851,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1036699,
+      "num": 1036699,
+      "word": "千万粉丝网红家中失火",
+      "onboard_time": 1693669720,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1033611,
       "num": 799503,
       "word": "bibi",
@@ -2331,12 +2339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 879247,
-      "num": 591319,
-      "word": "千万粉丝网红家中失火",
-      "onboard_time": 1693669720,
-      "rank": 16,
-      "category": "社会新闻,网红"
+      "raw_hot": 876187,
+      "num": 693983,
+      "word": "陈都灵兰夫人",
+      "onboard_time": 1693669001,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 875728,
@@ -2539,14 +2547,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 836757,
-      "num": 676997,
-      "word": "陈都灵兰夫人",
-      "onboard_time": 1693669001,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 836533,
       "num": 836533,
       "word": "他和她的猫开播",
@@ -2625,6 +2625,14 @@
       "onboard_time": 1693656636,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 809098,
+      "num": 610450,
+      "word": "云之羽热度",
+      "onboard_time": 1693670798,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 808935,
@@ -3137,6 +3145,14 @@
       "onboard_time": 1693545341,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 711287,
+      "num": 711287,
+      "word": "羡慕杜海涛婴儿般的睡眠",
+      "onboard_time": 1693668582,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 708001,
@@ -3859,6 +3875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614210,
+      "num": 614210,
+      "word": "中国男篮或将连续缺席两届奥运会",
+      "onboard_time": 1693670200,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 613970,
       "num": 613970,
       "word": "安崎不服张郁梓一直第一名",
@@ -3883,28 +3907,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 611391,
-      "num": 610256,
-      "word": "云之羽热度",
-      "onboard_time": 1693670798,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 610827,
       "num": 610827,
       "word": "朱一龙再次提名金鹿奖最佳男演员",
       "onboard_time": 1693551099,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 610475,
-      "num": 610475,
-      "word": "羡慕杜海涛婴儿般的睡眠",
-      "onboard_time": 1693668582,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 610040,
@@ -5681,14 +5689,6 @@
       "onboard_time": 1693543304,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448480,
-      "num": 448480,
-      "word": "中国男篮或将连续缺席两届奥运会",
-      "onboard_time": 1693670200,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 448337,
@@ -9891,6 +9891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267402,
+      "num": 267402,
+      "word": "在上海吃到了42块的可丽饼",
+      "onboard_time": 1693671633,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267312,
       "num": 256146,
       "word": "网剧星辰令",
@@ -9920,6 +9928,14 @@
       "word": "甄嬛的gap year",
       "onboard_time": 1693291296,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 266344,
+      "num": 266344,
+      "word": "梁朝伟威尼斯领奖变表情包",
+      "onboard_time": 1693670739,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -10097,6 +10113,14 @@
       "onboard_time": 1693639414,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 261742,
+      "num": 261742,
+      "word": "时团纪录片目前唯二笑出来的部分",
+      "onboard_time": 1693671277,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 261498,
@@ -10393,14 +10417,6 @@
       "onboard_time": 1693355139,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252149,
-      "num": 252149,
-      "word": "梁朝伟威尼斯领奖变表情包",
-      "onboard_time": 1693670739,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 251919,
@@ -12259,6 +12275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205339,
+      "num": 205339,
+      "word": "皇马",
+      "onboard_time": 1693672057,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205254,
       "num": 205254,
       "word": "逆水寒",
@@ -12985,14 +13009,6 @@
       "onboard_time": 1693444837,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197343,
-      "num": 197343,
-      "word": "时团纪录片目前唯二笑出来的部分",
-      "onboard_time": 1693671277,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 197279,

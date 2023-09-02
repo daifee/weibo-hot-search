@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693671567499,
+  "endTime": 1693672447435,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -171,6 +171,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 2229924,
+      "num": 606876,
+      "word": "男子发生关系后猝死情人被起诉",
+      "onboard_time": 1693669961,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2162195,
       "num": 2162195,
       "word": "南宁震感",
@@ -312,14 +320,6 @@
       "word": "深圳台风",
       "onboard_time": 1693572879,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1719442,
-      "num": 606876,
-      "word": "男子发生关系后猝死情人被起诉",
-      "onboard_time": 1693669961,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -635,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1036699,
+      "num": 1036699,
+      "word": "千万粉丝网红家中失火",
+      "onboard_time": 1693669720,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1033611,
       "num": 799503,
       "word": "bibi",
@@ -891,12 +899,12 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 879247,
-      "num": 591319,
-      "word": "千万粉丝网红家中失火",
-      "onboard_time": 1693669720,
-      "rank": 16,
-      "category": "社会新闻,网红"
+      "raw_hot": 876187,
+      "num": 693983,
+      "word": "陈都灵兰夫人",
+      "onboard_time": 1693669001,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 875555,
@@ -947,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 836757,
-      "num": 676997,
-      "word": "陈都灵兰夫人",
-      "onboard_time": 1693669001,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 828673,
       "num": 828673,
       "word": "第一届05后大学生来了",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1693656636,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 809098,
+      "num": 610450,
+      "word": "云之羽热度",
+      "onboard_time": 1693670798,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 807214,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1693545341,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 711287,
+      "num": 711287,
+      "word": "羡慕杜海涛婴儿般的睡眠",
+      "onboard_time": 1693668582,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 708001,
@@ -1435,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614210,
+      "num": 614210,
+      "word": "中国男篮或将连续缺席两届奥运会",
+      "onboard_time": 1693670200,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 613970,
       "num": 613970,
       "word": "安崎不服张郁梓一直第一名",
@@ -1443,28 +1467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611391,
-      "num": 610256,
-      "word": "云之羽热度",
-      "onboard_time": 1693670798,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 610827,
       "num": 610827,
       "word": "朱一龙再次提名金鹿奖最佳男演员",
       "onboard_time": 1693551099,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 610475,
-      "num": 610475,
-      "word": "羡慕杜海涛婴儿般的睡眠",
-      "onboard_time": 1693668582,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 610040,
@@ -2225,14 +2233,6 @@
       "onboard_time": 1693543304,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448480,
-      "num": 448480,
-      "word": "中国男篮或将连续缺席两届奥运会",
-      "onboard_time": 1693670200,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 441427,
@@ -3499,6 +3499,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267402,
+      "num": 267402,
+      "word": "在上海吃到了42块的可丽饼",
+      "onboard_time": 1693671633,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 266344,
+      "num": 266344,
+      "word": "梁朝伟威尼斯领奖变表情包",
+      "onboard_time": 1693670739,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266112,
       "num": 266112,
       "word": "肖战盛阳V榜破9登顶",
@@ -3553,6 +3569,14 @@
       "onboard_time": 1693639414,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 261742,
+      "num": 261742,
+      "word": "时团纪录片目前唯二笑出来的部分",
+      "onboard_time": 1693671277,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 261686,
@@ -3705,14 +3729,6 @@
       "onboard_time": 1693655918,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 252149,
-      "num": 252149,
-      "word": "梁朝伟威尼斯领奖变表情包",
-      "onboard_time": 1693670739,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 251756,
@@ -4315,6 +4331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205339,
+      "num": 205339,
+      "word": "皇马",
+      "onboard_time": 1693672057,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205145,
       "num": 205145,
       "word": "周冬雨新片玩复仇高端局",
@@ -4569,14 +4593,6 @@
       "onboard_time": 1693565974,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197343,
-      "num": 197343,
-      "word": "时团纪录片目前唯二笑出来的部分",
-      "onboard_time": 1693671277,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 197049,
