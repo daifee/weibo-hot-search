@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693683250745,
+  "endTime": 1693685763357,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -5859,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83143,
+      "num": 60178,
+      "word": "上迪销冠小玲",
+      "onboard_time": 1693682117,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 79798,
       "num": 317374,
       "word": "退役搜救犬扒着训导员求抱抱",
@@ -5947,14 +5955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55851,
-      "num": 47742,
-      "word": "上迪销冠小玲",
-      "onboard_time": 1693682117,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 55663,
       "num": 208349,
       "word": "孩子发烧是开学综合症吗",
@@ -6009,6 +6009,14 @@
       "onboard_time": 1693592597,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 48025,
+      "num": 50125,
+      "word": "王耀庆一公个人喜爱度第一",
+      "onboard_time": 1693684514,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 47892,
