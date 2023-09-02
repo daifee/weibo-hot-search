@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693643632449,
+  "endTime": 1693646071826,
   "band_list": [
     {
       "raw_hot": 3452863,
@@ -11,8 +11,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2228305,
-      "num": 2228305,
+      "raw_hot": 2654334,
+      "num": 2654334,
       "word": "21岁休学29岁存款5000万",
       "onboard_time": 1693640554,
       "rank": 1,
@@ -49,6 +49,14 @@
       "onboard_time": 1693640612,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1933067,
+      "num": 408320,
+      "word": "老番茄结婚",
+      "onboard_time": 1693644633,
+      "rank": 10,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1804685,
@@ -155,12 +163,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 984497,
+      "num": 318403,
+      "word": "内娱顶级贵公子",
+      "onboard_time": 1693642236,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 969522,
       "num": 235520,
       "word": "北京多楼盘连夜涨价",
       "onboard_time": 1693625374,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 940506,
+      "num": 940506,
+      "word": "哪个演员敢拿金熊猫奖",
+      "onboard_time": 1693640253,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 934092,
@@ -177,14 +201,6 @@
       "onboard_time": 1693605376,
       "rank": 15,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 913121,
-      "num": 913121,
-      "word": "哪个演员敢拿金熊猫奖",
-      "onboard_time": 1693640253,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 898734,
@@ -275,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 694120,
-      "num": 318403,
-      "word": "内娱顶级贵公子",
-      "onboard_time": 1693642236,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 694103,
       "num": 694103,
       "word": "日本签字投降历史影像",
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 626494,
+      "num": 626494,
+      "word": "卡琳娜cos莲",
+      "onboard_time": 1693643135,
+      "rank": 21,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 619681,
       "num": 619681,
       "word": "用iPhone5s拍照",
@@ -377,6 +393,14 @@
       "onboard_time": 1693611452,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599344,
+      "num": 599344,
+      "word": "原来真的有小人国",
+      "onboard_time": 1693641935,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 598253,
@@ -467,20 +491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 523919,
-      "num": 523919,
-      "word": "原来真的有小人国",
-      "onboard_time": 1693641935,
-      "rank": 22,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 511548,
       "num": 511548,
       "word": "微信通讯录界面右滑可改备注",
       "onboard_time": 1693625374,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 508935,
+      "num": 331287,
+      "word": "伯邑考吃了多少彪子",
+      "onboard_time": 1693643433,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 492805,
@@ -603,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423064,
+      "num": 423064,
+      "word": "骄阳伴我 血压飙升的职场",
+      "onboard_time": 1693641634,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415973,
       "num": 415973,
       "word": "台风路径",
@@ -632,6 +664,14 @@
       "word": "申公豹看姜王后面子教殷郊断头术",
       "onboard_time": 1693618714,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 408887,
+      "num": 408887,
+      "word": "封神雷震子倒立洗头",
+      "onboard_time": 1693645237,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -675,6 +715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388251,
+      "num": 309135,
+      "word": "变丑的原因是灵气没了",
+      "onboard_time": 1693644935,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385042,
       "num": 385042,
       "word": "肖战王琳新剧对手戏",
@@ -715,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 375225,
-      "num": 375225,
-      "word": "骄阳伴我 血压飙升的职场",
-      "onboard_time": 1693641634,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 373720,
       "num": 373720,
       "word": "火树 我给指条明路",
@@ -753,6 +793,14 @@
       "onboard_time": 1693629574,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368799,
+      "num": 303986,
+      "word": "赵丽颖小乌龟连续剧又更新了",
+      "onboard_time": 1693645773,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 367813,
@@ -947,12 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299551,
-      "num": 299551,
-      "word": "卡琳娜cos莲",
-      "onboard_time": 1693643135,
-      "rank": 21,
-      "category": "动漫,艺人"
+      "raw_hot": 294878,
+      "num": 294878,
+      "word": "古人吃剩的螺蛳壳堆成了一座山",
+      "onboard_time": 1693643792,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290403,
@@ -1035,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270592,
+      "num": 270592,
+      "word": "定向免费医学生考上研究生后欲违约",
+      "onboard_time": 1693641214,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 269240,
       "num": 269240,
       "word": "认房不认贷后开发商制造紧张气氛",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1693622853,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265492,
+      "num": 386444,
+      "word": "近视还无法治愈",
+      "onboard_time": 1693643496,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263292,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1693613733,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250482,
+      "num": 238917,
+      "word": "费翔真的演出来一个最东亚的王",
+      "onboard_time": 1693645412,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 246620,
@@ -1195,14 +1267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 232623,
-      "num": 232623,
-      "word": "定向免费医学生考上研究生后欲违约",
-      "onboard_time": 1693641214,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 231093,
       "num": 231093,
       "word": "小伙用水桶存私房钱218天共5.3万",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1693640733,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216006,
+      "num": 258717,
+      "word": "苏拉再次登陆广东最大风力10级",
+      "onboard_time": 1693642053,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211022,
@@ -1339,6 +1411,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 200720,
+      "num": 191771,
+      "word": "审判奥本海默",
+      "onboard_time": 1693644092,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199616,
       "num": 199616,
       "word": "女子反应过人秒按停自动扶梯救人",
@@ -1387,14 +1467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195386,
-      "num": 195386,
-      "word": "伯邑考吃了多少彪子",
-      "onboard_time": 1693643433,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194902,
       "num": 194902,
       "word": "秋天来央视追剧",
@@ -1417,14 +1489,6 @@
       "onboard_time": 1693637791,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193355,
-      "num": 258717,
-      "word": "苏拉再次登陆广东最大风力10级",
-      "onboard_time": 1693642053,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192072,
@@ -1627,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168261,
+      "num": 168261,
+      "word": "很明显有一只大雁偷懒了",
+      "onboard_time": 1693644935,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168092,
       "num": 143573,
       "word": "HAERIN活动新闻图",
@@ -1739,6 +1811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 144355,
+      "num": 144355,
+      "word": "王一博陈烁是发光的少年",
+      "onboard_time": 1693644514,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144146,
       "num": 366298,
       "word": "西安警方101天跨5省追回200万",
@@ -1769,6 +1849,14 @@
       "onboard_time": 1693632813,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137644,
+      "num": 367732,
+      "word": "兵哥哥高铁站求婚同日退伍女战友",
+      "onboard_time": 1693641634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137451,
@@ -1867,14 +1955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115394,
-      "num": 367732,
-      "word": "兵哥哥高铁站求婚同日退伍女战友",
-      "onboard_time": 1693641634,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114526,
       "num": 114526,
       "word": "BLACKPINK QQ音乐",
@@ -1945,6 +2025,14 @@
       "onboard_time": 1693611146,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71775,
+      "num": 362269,
+      "word": "车祸后18个人54秒救了2条命",
+      "onboard_time": 1693645292,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64044,
@@ -2081,6 +2169,14 @@
       "onboard_time": 1693602554,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16625,
+      "num": 750240,
+      "word": "服贸会朋友圈为何能越做越大",
+      "onboard_time": 1693645834,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

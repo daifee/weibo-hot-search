@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693643632449,
+  "endTime": 1693646071826,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2654334,
+      "num": 2654334,
+      "word": "21岁休学29岁存款5000万",
+      "onboard_time": 1693640554,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2651726,
       "num": 618490,
       "word": "岸田文雄午餐全是福岛食材",
@@ -457,14 +465,6 @@
       "onboard_time": 1693310676,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2228305,
-      "num": 2228305,
-      "word": "21岁休学29岁存款5000万",
-      "onboard_time": 1693640554,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 2226366,
@@ -689,6 +689,14 @@
       "onboard_time": 1693266333,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1933067,
+      "num": 408320,
+      "word": "老番茄结婚",
+      "onboard_time": 1693644633,
+      "rank": 10,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1921993,
@@ -1763,6 +1771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 984497,
+      "num": 318403,
+      "word": "内娱顶级贵公子",
+      "onboard_time": 1693642236,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 981989,
       "num": 981989,
       "word": "肖战三戏连播",
@@ -1851,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 940506,
+      "num": 940506,
+      "word": "哪个演员敢拿金熊猫奖",
+      "onboard_time": 1693640253,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 934092,
       "num": 374388,
       "word": "杨玏说到做到",
@@ -1921,14 +1945,6 @@
       "onboard_time": 1693605376,
       "rank": 15,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 913121,
-      "num": 913121,
-      "word": "哪个演员敢拿金熊猫奖",
-      "onboard_time": 1693640253,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 905099,
@@ -2867,14 +2883,6 @@
       "category": "旅游,情感"
     },
     {
-      "raw_hot": 694120,
-      "num": 318403,
-      "word": "内娱顶级贵公子",
-      "onboard_time": 1693642236,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 694103,
       "num": 694103,
       "word": "日本签字投降历史影像",
@@ -3291,6 +3299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 626494,
+      "num": 626494,
+      "word": "卡琳娜cos莲",
+      "onboard_time": 1693643135,
+      "rank": 21,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 626182,
       "num": 626182,
       "word": "民警1小时找回被盗金手镯女子笑到起飞",
@@ -3585,6 +3601,14 @@
       "onboard_time": 1693312719,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 599344,
+      "num": 599344,
+      "word": "原来真的有小人国",
+      "onboard_time": 1693641935,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 598253,
@@ -4251,14 +4275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 523919,
-      "num": 523919,
-      "word": "原来真的有小人国",
-      "onboard_time": 1693641935,
-      "rank": 22,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 522162,
       "num": 325351,
       "word": "虞书欣下车动作",
@@ -4425,6 +4441,14 @@
       "onboard_time": 1693491698,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508935,
+      "num": 331287,
+      "word": "伯邑考吃了多少彪子",
+      "onboard_time": 1693643433,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 508794,
@@ -5499,6 +5523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 423064,
+      "num": 423064,
+      "word": "骄阳伴我 血压飙升的职场",
+      "onboard_time": 1693641634,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422828,
       "num": 422828,
       "word": "周琦掉球",
@@ -5713,6 +5745,14 @@
       "onboard_time": 1693454748,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 408887,
+      "num": 408887,
+      "word": "封神雷震子倒立洗头",
+      "onboard_time": 1693645237,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 408805,
@@ -6059,6 +6099,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 388251,
+      "num": 309135,
+      "word": "变丑的原因是灵气没了",
+      "onboard_time": 1693644935,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
@@ -6291,14 +6339,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 375225,
-      "num": 375225,
-      "word": "骄阳伴我 血压飙升的职场",
-      "onboard_time": 1693641634,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 375099,
       "num": 320332,
       "word": "敖瑞鹏 这是微博吗",
@@ -6441,6 +6481,14 @@
       "onboard_time": 1693366417,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368799,
+      "num": 303986,
+      "word": "赵丽颖小乌龟连续剧又更新了",
+      "onboard_time": 1693645773,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 368587,
@@ -8147,14 +8195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299551,
-      "num": 299551,
-      "word": "卡琳娜cos莲",
-      "onboard_time": 1693643135,
-      "rank": 21,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 299424,
       "num": 299424,
       "word": "YG新女团或将亮相BLACKPINK演唱会",
@@ -8257,6 +8297,14 @@
       "onboard_time": 1693467879,
       "rank": 28,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 294878,
+      "num": 294878,
+      "word": "古人吃剩的螺蛳壳堆成了一座山",
+      "onboard_time": 1693643792,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294735,
@@ -9027,6 +9075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270592,
+      "num": 270592,
+      "word": "定向免费医学生考上研究生后欲违约",
+      "onboard_time": 1693641214,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 270506,
       "num": 287671,
       "word": "诺兰是怎么拍出奥本海默的",
@@ -9185,6 +9241,14 @@
       "onboard_time": 1693319323,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265492,
+      "num": 386444,
+      "word": "近视还无法治愈",
+      "onboard_time": 1693643496,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265482,
@@ -9625,6 +9689,14 @@
       "onboard_time": 1693425196,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250482,
+      "num": 238917,
+      "word": "费翔真的演出来一个最东亚的王",
+      "onboard_time": 1693645412,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 250471,
@@ -10331,14 +10403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232623,
-      "num": 232623,
-      "word": "定向免费医学生考上研究生后欲违约",
-      "onboard_time": 1693641214,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 232214,
       "num": 232214,
       "word": "医院回应男子遵医嘱吃24粒头孢后急救",
@@ -10849,6 +10913,14 @@
       "onboard_time": 1693369421,
       "rank": 41,
       "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 216006,
+      "num": 258717,
+      "word": "苏拉再次登陆广东最大风力10级",
+      "onboard_time": 1693642053,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215542,
@@ -11715,6 +11787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200720,
+      "num": 191771,
+      "word": "审判奥本海默",
+      "onboard_time": 1693644092,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200636,
       "num": 200636,
       "word": "当社牛女孩和社恐男孩成了同桌",
@@ -12163,14 +12243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195386,
-      "num": 195386,
-      "word": "伯邑考吃了多少彪子",
-      "onboard_time": 1693643433,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195240,
       "num": 195240,
       "word": "长春电影节",
@@ -12289,14 +12361,6 @@
       "onboard_time": 1693183961,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193355,
-      "num": 258717,
-      "word": "苏拉再次登陆广东最大风力10级",
-      "onboard_time": 1693642053,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193300,
@@ -13323,6 +13387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168261,
+      "num": 168261,
+      "word": "很明显有一只大雁偷懒了",
+      "onboard_time": 1693644935,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168092,
       "num": 143573,
       "word": "HAERIN活动新闻图",
@@ -13955,6 +14027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144355,
+      "num": 144355,
+      "word": "王一博陈烁是发光的少年",
+      "onboard_time": 1693644514,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144146,
       "num": 366298,
       "word": "西安警方101天跨5省追回200万",
@@ -14049,6 +14129,14 @@
       "onboard_time": 1693266996,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137644,
+      "num": 367732,
+      "word": "兵哥哥高铁站求婚同日退伍女战友",
+      "onboard_time": 1693641634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137451,
@@ -14353,14 +14441,6 @@
       "onboard_time": 1693545639,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115394,
-      "num": 367732,
-      "word": "兵哥哥高铁站求婚同日退伍女战友",
-      "onboard_time": 1693641634,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115137,
@@ -14857,6 +14937,14 @@
       "onboard_time": 1693502901,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 71775,
+      "num": 362269,
+      "word": "车祸后18个人54秒救了2条命",
+      "onboard_time": 1693645292,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71497,
@@ -15505,6 +15593,14 @@
       "onboard_time": 1693510693,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16625,
+      "num": 750240,
+      "word": "服贸会朋友圈为何能越做越大",
+      "onboard_time": 1693645834,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16335,
