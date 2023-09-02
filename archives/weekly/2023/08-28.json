@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693672447435,
+  "endTime": 1693674819175,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -2628,7 +2628,7 @@
     },
     {
       "raw_hot": 809098,
-      "num": 610450,
+      "num": 683305,
       "word": "云之羽热度",
       "onboard_time": 1693670798,
       "rank": 9,
@@ -5129,6 +5129,14 @@
       "onboard_time": 1693195540,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 490774,
+      "num": 272922,
+      "word": "在上海吃到了42块的可丽饼",
+      "onboard_time": 1693671633,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 489667,
@@ -9889,14 +9897,6 @@
       "onboard_time": 1693534835,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267402,
-      "num": 267402,
-      "word": "在上海吃到了42块的可丽饼",
-      "onboard_time": 1693671633,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 267312,
@@ -14987,6 +14987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145623,
+      "num": 145623,
+      "word": "盛阳 社畜之歌",
+      "onboard_time": 1693673191,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145052,
       "num": 145052,
       "word": "WB对战KSG",
@@ -15353,6 +15361,14 @@
       "onboard_time": 1693364438,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126621,
+      "num": 126621,
+      "word": "盛阳 伪装小奶狗的小狼狗",
+      "onboard_time": 1693674566,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 125971,
