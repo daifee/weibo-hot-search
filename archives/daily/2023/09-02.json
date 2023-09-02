@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693616873690,
+  "endTime": 1693618032004,
   "band_list": [
     {
       "raw_hot": 2162195,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1543322,
+      "num": 431024,
+      "word": "毕业一个月女儿变成了野人",
+      "onboard_time": 1693615474,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1138592,
       "num": 1138592,
       "word": "30年内日本首都圈7级地震概率达七成",
@@ -27,12 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1020805,
-      "num": 431024,
-      "word": "毕业一个月女儿变成了野人",
-      "onboard_time": 1693615474,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 1017483,
+      "num": 1017483,
+      "word": "苏拉登陆广东珠海",
+      "onboard_time": 1693612170,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1017438,
@@ -51,11 +59,11 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 985120,
-      "num": 985120,
-      "word": "苏拉登陆广东珠海",
-      "onboard_time": 1693612170,
-      "rank": 1,
+      "raw_hot": 948064,
+      "num": 275061,
+      "word": "日本第一代丁克正疯狂相亲",
+      "onboard_time": 1693615654,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -75,12 +83,12 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 854809,
-      "num": 275061,
-      "word": "日本第一代丁克正疯狂相亲",
-      "onboard_time": 1693615654,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 852936,
+      "num": 852936,
+      "word": "有一种沉默是两个人看了部国产烂片",
+      "onboard_time": 1693616375,
+      "rank": 16,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 821085,
@@ -219,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427724,
+      "num": 427724,
+      "word": "小夭 只手风雨翻",
+      "onboard_time": 1693616673,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415973,
       "num": 415973,
       "word": "台风路径",
       "onboard_time": 1693570958,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412487,
+      "num": 250977,
+      "word": "小李子中国分李",
+      "onboard_time": 1693617275,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 385042,
@@ -251,12 +275,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 355003,
-      "num": 274612,
+      "raw_hot": 370313,
+      "num": 370313,
       "word": "北上广深全部认房不认贷",
       "onboard_time": 1693614213,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 369889,
+      "num": 259588,
+      "word": "班里男同学帮我买卫生巾",
+      "onboard_time": 1693616196,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 368610,
+      "num": 368610,
+      "word": "一个台风刚登陆另一个台风又来了",
+      "onboard_time": 1693613493,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350116,
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 348829,
-      "num": 205361,
+      "num": 205860,
       "word": "刘亦菲 做一个真诚的人好幸福",
       "onboard_time": 1693589066,
       "rank": 20,
@@ -307,16 +347,16 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 332196,
-      "num": 268473,
-      "word": "一个台风刚登陆另一个台风又来了",
-      "onboard_time": 1693613493,
-      "rank": 25,
+      "raw_hot": 331845,
+      "num": 331845,
+      "word": "天津跳水大爷逐渐专业化了",
+      "onboard_time": 1693616014,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
       "raw_hot": 326369,
-      "num": 326369,
+      "num": 334393,
       "word": "大爷毫不犹豫跳进水塘勇救3岁男童",
       "onboard_time": 1693614514,
       "rank": 13,
@@ -363,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291572,
-      "num": 291572,
-      "word": "有一种沉默是两个人看了部国产烂片",
-      "onboard_time": 1693616375,
-      "rank": 16,
-      "category": "幽默,影视"
-    },
-    {
       "raw_hot": 290403,
       "num": 290403,
       "word": "情绪稳定的根本原因",
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 278764,
-      "num": 249874,
+      "num": 251166,
       "word": "费翔 爱一个人其实是爱上她的缺点",
       "onboard_time": 1693592119,
       "rank": 39,
@@ -403,12 +435,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271751,
-      "num": 247933,
-      "word": "班里男同学帮我买卫生巾",
-      "onboard_time": 1693616196,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 259335,
+      "num": 259335,
+      "word": "苏拉把广东海岸线描了一遍",
+      "onboard_time": 1693616735,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256146,
+      "num": 256146,
+      "word": "对方撤回一个盛阳",
+      "onboard_time": 1693617157,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250436,
+      "num": 250436,
+      "word": "人一辈子的危机有三次",
+      "onboard_time": 1693616798,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243473,
@@ -459,8 +507,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236643,
-      "num": 236643,
+      "raw_hot": 236682,
+      "num": 236682,
       "word": "认房不认贷后开发商制造紧张气氛",
       "onboard_time": 1693615775,
       "rank": 32,
@@ -483,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217104,
-      "num": 217104,
-      "word": "天津跳水大爷逐渐专业化了",
-      "onboard_time": 1693616014,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208935,
       "num": 208935,
       "word": "被九岁小朋友的便贴可爱到了",
       "onboard_time": 1693582122,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208169,
+      "num": 208169,
+      "word": "白百何新剧出场镜头",
+      "onboard_time": 1693617754,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 205961,
@@ -539,6 +587,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191951,
+      "num": 191951,
+      "word": "沈梦辰下期中餐厅哭了",
+      "onboard_time": 1693617513,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191821,
+      "num": 191821,
+      "word": "玲娜贝儿狐狸版惊鸿舞",
+      "onboard_time": 1693617754,
+      "rank": 42,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 191515,
       "num": 173809,
       "word": "小夭 万物皆为我歌",
@@ -579,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176455,
-      "num": 176455,
-      "word": "小夭 只手风雨翻",
-      "onboard_time": 1693616673,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 178533,
+      "num": 178533,
+      "word": "大号的覆盆子形状蛋糕",
+      "onboard_time": 1693616974,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 175316,
@@ -593,6 +657,14 @@
       "onboard_time": 1693613613,
       "rank": 42,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 174183,
+      "num": 174183,
+      "word": "相声演员玉浩买房遭遇维权难",
+      "onboard_time": 1693615295,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 173852,
@@ -627,12 +699,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 166757,
-      "num": 166757,
-      "word": "相声演员玉浩买房遭遇维权难",
-      "onboard_time": 1693615295,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 160887,
+      "num": 160887,
+      "word": "最有爆相的待播剧",
+      "onboard_time": 1693617936,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 158249,
@@ -659,14 +731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 142346,
-      "num": 142346,
-      "word": "苏拉把广东海岸线描了一遍",
-      "onboard_time": 1693616735,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142032,
       "num": 142032,
       "word": "贝儿是吞了只百灵鸟吗",
@@ -689,14 +753,6 @@
       "onboard_time": 1693585112,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 134957,
-      "num": 134957,
-      "word": "人一辈子的危机有三次",
-      "onboard_time": 1693616798,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 125434,
@@ -891,7 +947,7 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 24078,
+      "raw_hot": 25053,
       "num": 826270,
       "word": "开学第一课",
       "onboard_time": 1693494037,

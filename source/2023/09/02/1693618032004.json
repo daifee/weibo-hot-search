@@ -1,0 +1,410 @@
+{
+  "runTime": 1693618032004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017483,
+        "num": 1017483,
+        "word": "苏拉登陆广东珠海",
+        "onboard_time": 1693612170,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852936,
+        "num": 852936,
+        "word": "有一种沉默是两个人看了部国产烂片",
+        "onboard_time": 1693616375,
+        "rank": 1,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 25053,
+        "num": 742335,
+        "word": "开学第一课",
+        "onboard_time": 1693494037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736523,
+        "num": 736523,
+        "word": "30年内日本首都圈7级地震概率达七成",
+        "onboard_time": 1693612110,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576918,
+        "num": 576918,
+        "word": "成都官宣认房不认贷",
+        "onboard_time": 1693611991,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 566301,
+        "num": 566301,
+        "word": "深圳台风",
+        "onboard_time": 1693572879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450759,
+        "num": 450759,
+        "word": "骄阳伴我收视率",
+        "onboard_time": 1693575636,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427724,
+        "num": 427724,
+        "word": "小夭 只手风雨翻",
+        "onboard_time": 1693616673,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419659,
+        "num": 419659,
+        "word": "公司对账差1分出动5名会计帮核对",
+        "onboard_time": 1693605376,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 378181,
+        "num": 378181,
+        "word": "美国77岁男子靠铁肺生活70年",
+        "onboard_time": 1693609283,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1543322,
+        "num": 377939,
+        "word": "毕业一个月女儿变成了野人",
+        "onboard_time": 1693615474,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370313,
+        "num": 370313,
+        "word": "北上广深全部认房不认贷",
+        "onboard_time": 1693614213,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 368610,
+        "num": 368610,
+        "word": "一个台风刚登陆另一个台风又来了",
+        "onboard_time": 1693613493,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361938,
+        "num": 361938,
+        "word": "骄阳伴我首播符合你的期待吗",
+        "onboard_time": 1693614876,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302021,
+        "num": 334393,
+        "word": "大爷毫不犹豫跳进水塘勇救3岁男童",
+        "onboard_time": 1693614514,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 333244,
+        "num": 333244,
+        "word": "沈梦辰穿了茜茜公主最爱的紫色",
+        "onboard_time": 1693582362,
+        "rank": 15,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 331845,
+        "num": 331845,
+        "word": "天津跳水大爷逐渐专业化了",
+        "onboard_time": 1693616014,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324949,
+        "num": 324949,
+        "word": "深圳地铁",
+        "onboard_time": 1693611452,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284620,
+        "num": 284620,
+        "word": "女子蒸大闸蟹核辐射检测仪警报不断",
+        "onboard_time": 1693556975,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 259824,
+        "num": 259824,
+        "word": "徐良 淘汰",
+        "onboard_time": 1693570720,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 948064,
+        "num": 259815,
+        "word": "日本第一代丁克正疯狂相亲",
+        "onboard_time": 1693615654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481269,
+        "num": 259743,
+        "word": "宫颈切除10余年却查出宫颈癌中晚期",
+        "onboard_time": 1693610726,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369889,
+        "num": 259588,
+        "word": "班里男同学帮我买卫生巾",
+        "onboard_time": 1693616196,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330723,
+        "num": 259558,
+        "word": "11个月男婴全身淤青布满针眼惨死",
+        "onboard_time": 1693577562,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281579,
+        "num": 259443,
+        "word": "原来刘星才是第一个用蚂蚁花被的人",
+        "onboard_time": 1693578941,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274423,
+        "num": 259336,
+        "word": "江浙沪包邮区包不住了",
+        "onboard_time": 1693579180,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259335,
+        "num": 259335,
+        "word": "苏拉把广东海岸线描了一遍",
+        "onboard_time": 1693616735,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256146,
+        "num": 256146,
+        "word": "对方撤回一个盛阳",
+        "onboard_time": 1693617157,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253717,
+        "num": 253717,
+        "word": "利息少了41万购房者激动得一夜没睡",
+        "onboard_time": 1693563159,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 251166,
+        "num": 251166,
+        "word": "费翔 爱一个人其实是爱上她的缺点",
+        "onboard_time": 1693592119,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412487,
+        "num": 250977,
+        "word": "小李子中国分李",
+        "onboard_time": 1693617275,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250436,
+        "num": 250436,
+        "word": "人一辈子的危机有三次",
+        "onboard_time": 1693616798,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240193,
+        "num": 240193,
+        "word": "母亲不堪家暴找人冒充走失儿子30年",
+        "onboard_time": 1693572699,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239522,
+        "num": 239522,
+        "word": "官方称天津大爷跳水的8A级水域禁止游泳",
+        "onboard_time": 1693607838,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236682,
+        "num": 236682,
+        "word": "认房不认贷后开发商制造紧张气氛",
+        "onboard_time": 1693615775,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 230595,
+        "num": 230595,
+        "word": "十几分钟却是我的整个青春",
+        "onboard_time": 1693589066,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220212,
+        "num": 220212,
+        "word": "小猫的交班仪式",
+        "onboard_time": 1693613251,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210140,
+        "num": 210140,
+        "word": "地铁被诬陷偷拍男子首曝光现场视频",
+        "onboard_time": 1693613733,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208169,
+        "num": 208169,
+        "word": "白百何新剧出场镜头",
+        "onboard_time": 1693617754,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205860,
+        "num": 205860,
+        "word": "刘亦菲 做一个真诚的人好幸福",
+        "onboard_time": 1693589066,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206275,
+        "num": 202480,
+        "word": "肖战骄阳伴我开场90S",
+        "onboard_time": 1693612470,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191951,
+        "num": 191951,
+        "word": "沈梦辰下期中餐厅哭了",
+        "onboard_time": 1693617513,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191821,
+        "num": 191821,
+        "word": "玲娜贝儿狐狸版惊鸿舞",
+        "onboard_time": 1693617754,
+        "rank": 42,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 178533,
+        "num": 178533,
+        "word": "大号的覆盆子形状蛋糕",
+        "onboard_time": 1693616974,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174183,
+        "num": 174183,
+        "word": "相声演员玉浩买房遭遇维权难",
+        "onboard_time": 1693615295,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168132,
+        "num": 168132,
+        "word": "凤冠霞帔怎么可能被抢风头",
+        "onboard_time": 1693582898,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167810,
+        "num": 167810,
+        "word": "女子反应过人秒按停自动扶梯救人",
+        "onboard_time": 1693612770,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 164227,
+        "num": 164227,
+        "word": "火树 我给指条明路",
+        "onboard_time": 1693578341,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160887,
+        "num": 160887,
+        "word": "最有爆相的待播剧",
+        "onboard_time": 1693617936,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154617,
+        "num": 154617,
+        "word": "朱琳 美网",
+        "onboard_time": 1693613914,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军需要一批又一批有志青年接续奋斗#"
+    }
+  }
+}
