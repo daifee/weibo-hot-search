@@ -1,0 +1,410 @@
+{
+  "runTime": 1693638845063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2602802,
+        "num": 2602802,
+        "word": "微信图片可以生成excel",
+        "onboard_time": 1693626453,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1335741,
+        "num": 1335741,
+        "word": "香港月租12000元的房子",
+        "onboard_time": 1693629934,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32845,
+        "num": 919636,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813053,
+        "num": 813053,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1693636412,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724585,
+        "num": 724585,
+        "word": "韩东君突然有人夫感了",
+        "onboard_time": 1693633711,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639680,
+        "num": 639680,
+        "word": "上班下班 上班是为了下班",
+        "onboard_time": 1693637373,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591193,
+        "num": 591193,
+        "word": "唐禹哲一公排名",
+        "onboard_time": 1693636171,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540723,
+        "num": 540723,
+        "word": "孙怡问melody喜欢软桃子还是硬桃子",
+        "onboard_time": 1693630837,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491178,
+        "num": 491178,
+        "word": "核污染水排放口检测出氚",
+        "onboard_time": 1693626453,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436619,
+        "num": 436619,
+        "word": "女儿的书桌上没有一丁点学习的东西",
+        "onboard_time": 1693630655,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 921014,
+        "num": 431969,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525210,
+        "num": 428389,
+        "word": "陈楚生张远俞灏明演了同一个人",
+        "onboard_time": 1693633292,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419057,
+        "num": 419057,
+        "word": "许绍洋淘汰",
+        "onboard_time": 1693638270,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308181,
+        "num": 409416,
+        "word": "台风苏拉一天两次登陆广东",
+        "onboard_time": 1693638210,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51910,
+        "num": 402491,
+        "word": "男子地铁内倒地休克他们接力抢救",
+        "onboard_time": 1693638033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400787,
+        "num": 400787,
+        "word": "二战德国为什么没有造出原子弹",
+        "onboard_time": 1693636051,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394332,
+        "num": 394332,
+        "word": "敖子逸录别的综艺还想着蒋依依",
+        "onboard_time": 1693633832,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385710,
+        "num": 385710,
+        "word": "世界网速排名中国都蓝得发黑了",
+        "onboard_time": 1693619135,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 374652,
+        "num": 374652,
+        "word": "上山下全场第一",
+        "onboard_time": 1693634492,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280995,
+        "num": 362807,
+        "word": "毕业一个月女儿变成了野人",
+        "onboard_time": 1693615474,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355369,
+        "num": 355369,
+        "word": "封神票房",
+        "onboard_time": 1693636651,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343308,
+        "num": 343308,
+        "word": "上海500万的房首付降175万",
+        "onboard_time": 1693637190,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 331914,
+        "num": 331914,
+        "word": "面包为什么越来越贵了",
+        "onboard_time": 1693636352,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293073,
+        "num": 293073,
+        "word": "林一NewJeans跳了supershy",
+        "onboard_time": 1693628913,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253559,
+        "num": 253559,
+        "word": "台风刮来一张演唱会门票",
+        "onboard_time": 1693625552,
+        "rank": 24,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 276397,
+        "num": 232756,
+        "word": "封神第一部票房破25亿",
+        "onboard_time": 1693637190,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263292,
+        "num": 221864,
+        "word": "Angelababy张大大走红毯",
+        "onboard_time": 1693635692,
+        "rank": 26,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 196187,
+        "num": 209760,
+        "word": "寿司店的酱油包被我当U盘了",
+        "onboard_time": 1693636292,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204382,
+        "num": 204382,
+        "word": "终于知道Gemini为什么生气了",
+        "onboard_time": 1693636171,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157541,
+        "num": 199877,
+        "word": "小伙用水桶存私房钱218天共5.3万",
+        "onboard_time": 1693634135,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242756,
+        "num": 199670,
+        "word": "显微镜下皮肤上的针孔",
+        "onboard_time": 1693635992,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 198169,
+        "num": 198169,
+        "word": "商场大叔给躲雨的金毛擦水",
+        "onboard_time": 1693638092,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193934,
+        "num": 193934,
+        "word": "胡兵 唱跳新人会继续努力",
+        "onboard_time": 1693637791,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183822,
+        "num": 183822,
+        "word": "鸟鸟 要只在意最重要的人",
+        "onboard_time": 1693625133,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183424,
+        "num": 183424,
+        "word": "张远三年内经历了赔钱生离死别",
+        "onboard_time": 1693638692,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182885,
+        "num": 182885,
+        "word": "送李玖哲去封神吧",
+        "onboard_time": 1693638270,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165098,
+        "num": 165098,
+        "word": "奥本海默",
+        "onboard_time": 1693630294,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164454,
+        "num": 164454,
+        "word": "周柯宇这次淘汰没有哭",
+        "onboard_time": 1693633292,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154694,
+        "num": 154694,
+        "word": "爸爸送3岁女儿入学后哭成泪人",
+        "onboard_time": 1693632753,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150655,
+        "num": 150655,
+        "word": "微信通讯录界面右滑可改备注",
+        "onboard_time": 1693625374,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160073,
+        "num": 148467,
+        "word": "胡兵一公排名倒数",
+        "onboard_time": 1693629155,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157230,
+        "num": 147954,
+        "word": "马嘉祺丁程鑫玩321看挑战",
+        "onboard_time": 1693633772,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144146,
+        "num": 144146,
+        "word": "西安警方101天跨5省追回200万",
+        "onboard_time": 1693634431,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144041,
+        "num": 144041,
+        "word": "如果没条件去旅行",
+        "onboard_time": 1693635750,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136311,
+        "num": 136311,
+        "word": "敖子逸和黄锐不用避嫌吗",
+        "onboard_time": 1693633113,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132288,
+        "num": 132288,
+        "word": "麻雀",
+        "onboard_time": 1693638812,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114190,
+        "num": 131825,
+        "word": "女子遇暴雨急穿雨衣暖心司机耐心等待",
+        "onboard_time": 1693625250,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 112132,
+        "num": 130254,
+        "word": "用iPhone5s拍照",
+        "onboard_time": 1693621176,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107516,
+        "num": 129068,
+        "word": "有一种沉默是两个人看了部国产烂片",
+        "onboard_time": 1693616375,
+        "rank": 48,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 97813,
+        "num": 126556,
+        "word": "一个台风刚登陆另一个台风又来了",
+        "onboard_time": 1693613493,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同贝宁总统会谈#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693636435232,
+  "endTime": 1693638845063,
   "band_list": [
     {
       "raw_hot": 7898237,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921014,
+      "num": 431969,
+      "word": "核污水排放1周海水一片漆黑",
+      "onboard_time": 1693637495,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916169,
       "num": 916169,
       "word": "公司对账差1分出动5名会计帮核对",
@@ -640,6 +648,14 @@
       "word": "林俊杰第一条微博就是胡彦斌",
       "onboard_time": 1693580983,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 813053,
+      "num": 813053,
+      "word": "披荆斩棘排名",
+      "onboard_time": 1693636412,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -875,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639680,
+      "num": 639680,
+      "word": "上班下班 上班是为了下班",
+      "onboard_time": 1693637373,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 633831,
       "num": 633831,
       "word": "警方辟谣曾志伟被带走调查",
@@ -1043,6 +1067,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 591193,
+      "num": 591193,
+      "word": "唐禹哲一公排名",
+      "onboard_time": 1693636171,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571309,
       "num": 571309,
       "word": "官方称天津大爷跳水的8A级水域禁止游泳",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1693554763,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525210,
+      "num": 452465,
+      "word": "陈楚生张远俞灏明演了同一个人",
+      "onboard_time": 1693633292,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 524892,
@@ -1384,14 +1424,6 @@
       "word": "骄阳伴我首播符合你的期待吗",
       "onboard_time": 1693614876,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 477174,
-      "num": 452465,
-      "word": "陈楚生张远俞灏明演了同一个人",
-      "onboard_time": 1693633292,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -1675,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419057,
+      "num": 419057,
+      "word": "许绍洋淘汰",
+      "onboard_time": 1693638270,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415346,
       "num": 263380,
       "word": "演员就该于适这样啊",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1693621536,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400787,
+      "num": 400787,
+      "word": "二战德国为什么没有造出原子弹",
+      "onboard_time": 1693636051,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 399126,
@@ -1907,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370361,
-      "num": 243014,
-      "word": "唐禹哲一公排名",
-      "onboard_time": 1693636171,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369889,
       "num": 300989,
       "word": "班里男同学帮我买卫生巾",
@@ -2003,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355369,
+      "num": 355369,
+      "word": "封神票房",
+      "onboard_time": 1693636651,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354436,
       "num": 354436,
       "word": "狗狗真心的守护却换来了剃毛",
@@ -2075,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 343308,
+      "num": 343308,
+      "word": "上海500万的房首付降175万",
+      "onboard_time": 1693637190,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 342203,
       "num": 234983,
       "word": "顶着恐龙头像名叫momo的人是谁",
@@ -2129,6 +2185,14 @@
       "onboard_time": 1693580564,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 331914,
+      "num": 331914,
+      "word": "面包为什么越来越贵了",
+      "onboard_time": 1693636352,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 328681,
@@ -2257,6 +2321,14 @@
       "onboard_time": 1693618536,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308181,
+      "num": 409416,
+      "word": "台风苏拉一天两次登陆广东",
+      "onboard_time": 1693638210,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303573,
@@ -2443,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276397,
+      "num": 232756,
+      "word": "封神第一部票房破25亿",
+      "onboard_time": 1693637190,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275519,
       "num": 275519,
       "word": "肖战骄阳伴我开场90S",
@@ -2521,6 +2601,14 @@
       "onboard_time": 1693622853,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263292,
+      "num": 221864,
+      "word": "Angelababy张大大走红毯",
+      "onboard_time": 1693635692,
+      "rank": 25,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 261686,
@@ -2739,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242756,
+      "num": 199670,
+      "word": "显微镜下皮肤上的针孔",
+      "onboard_time": 1693635992,
+      "rank": 34,
+      "category": "其它"
+    },
+    {
       "raw_hot": 242179,
       "num": 242179,
       "word": "王珞丹的马甲线",
@@ -2841,14 +2937,6 @@
       "onboard_time": 1693491819,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231360,
-      "num": 207669,
-      "word": "Angelababy张大大走红毯",
-      "onboard_time": 1693635692,
-      "rank": 25,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 231093,
@@ -3147,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204382,
+      "num": 204382,
+      "word": "终于知道Gemini为什么生气了",
+      "onboard_time": 1693636171,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204122,
       "num": 204122,
       "word": "陈楚生就是冲着唱演舞台来的",
@@ -3251,6 +3347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198169,
+      "num": 198169,
+      "word": "商场大叔给躲雨的金毛擦水",
+      "onboard_time": 1693638092,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198162,
       "num": 198162,
       "word": "泉州草莓音乐节",
@@ -3299,12 +3403,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 196110,
-      "num": 196110,
-      "word": "披荆斩棘排名",
-      "onboard_time": 1693636412,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 196187,
+      "num": 209760,
+      "word": "寿司店的酱油包被我当U盘了",
+      "onboard_time": 1693636292,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 195012,
@@ -3337,6 +3441,14 @@
       "onboard_time": 1693626033,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193934,
+      "num": 193934,
+      "word": "胡兵 唱跳新人会继续努力",
+      "onboard_time": 1693637791,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 193094,
@@ -3531,12 +3643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183424,
+      "num": 183424,
+      "word": "张远三年内经历了赔钱生离死别",
+      "onboard_time": 1693638692,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183024,
       "num": 183024,
       "word": "拥堵车辆被小男孩的指挥解救了",
       "onboard_time": 1693627955,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 182885,
+      "num": 182885,
+      "word": "送李玖哲去封神吧",
+      "onboard_time": 1693638270,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 182790,
@@ -3553,14 +3681,6 @@
       "onboard_time": 1693570179,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181887,
-      "num": 160577,
-      "word": "二战德国为什么没有造出原子弹",
-      "onboard_time": 1693636051,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 180967,
@@ -3673,14 +3793,6 @@
       "onboard_time": 1693566335,
       "rank": 43,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 165052,
-      "num": 196836,
-      "word": "面包为什么越来越贵了",
-      "onboard_time": 1693636352,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 164705,
@@ -3923,20 +4035,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142820,
-      "num": 160892,
-      "word": "显微镜下皮肤上的针孔",
-      "onboard_time": 1693635992,
-      "rank": 34,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 141957,
+      "raw_hot": 144146,
       "num": 366298,
       "word": "西安警方101天跨5省追回200万",
       "onboard_time": 1693634431,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144041,
+      "num": 151325,
+      "word": "如果没条件去旅行",
+      "onboard_time": 1693635750,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 140919,
@@ -4019,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132288,
+      "num": 132288,
+      "word": "麻雀",
+      "onboard_time": 1693638812,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131740,
       "num": 153843,
       "word": "会使用平板的鹦鹉",
@@ -4083,14 +4203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120427,
-      "num": 151325,
-      "word": "如果没条件去旅行",
-      "onboard_time": 1693635750,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "灯塔2023暑期档剧集榜单",
@@ -4137,14 +4249,6 @@
       "onboard_time": 1693492240,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110253,
-      "num": 148694,
-      "word": "寿司店的酱油包被我当U盘了",
-      "onboard_time": 1693636292,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 107513,
@@ -4345,6 +4449,14 @@
       "onboard_time": 1693503741,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 51910,
+      "num": 402491,
+      "word": "男子地铁内倒地休克他们接力抢救",
+      "onboard_time": 1693638033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50534,
