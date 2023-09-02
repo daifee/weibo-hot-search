@@ -1,6 +1,6 @@
 {
   "startTime": 1693585290241,
-  "endTime": 1693667709831,
+  "endTime": 1693668828462,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3370539,
-      "num": 735545,
+      "num": 807633,
       "word": "胡歌 你才大小姐呢",
       "onboard_time": 1693665824,
       "rank": 20,
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2089835,
+      "num": 2089835,
+      "word": "解说怒吼质问中国男篮",
+      "onboard_time": 1693664564,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1980946,
       "num": 1917213,
       "word": "马伯骞票数",
       "onboard_time": 1693640612,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1822554,
-      "num": 1822554,
-      "word": "解说怒吼质问中国男篮",
-      "onboard_time": 1693664564,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 1804685,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1033611,
+      "num": 799503,
+      "word": "bibi",
+      "onboard_time": 1693667685,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017483,
       "num": 1017483,
       "word": "苏拉登陆广东珠海",
@@ -401,6 +409,14 @@
       "onboard_time": 1693640793,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 931716,
+      "num": 931716,
+      "word": "我喜欢你 暂时两字不发音",
+      "onboard_time": 1693666546,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 929312,
@@ -587,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 700730,
+      "num": 700730,
+      "word": "刘宇宁直播",
+      "onboard_time": 1693667268,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694103,
       "num": 694103,
       "word": "日本签字投降历史影像",
@@ -611,20 +635,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668951,
+      "num": 668951,
+      "word": "利息少了130万房主美滋滋换电脑换手机",
+      "onboard_time": 1693665584,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 668531,
       "num": 668531,
       "word": "四舍五入只有27天就放寒假了",
       "onboard_time": 1693660302,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 656612,
-      "num": 656612,
-      "word": "利息少了130万房主美滋滋换电脑换手机",
-      "onboard_time": 1693665584,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 656161,
@@ -713,14 +737,6 @@
       "onboard_time": 1693664924,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 612557,
-      "num": 612557,
-      "word": "我喜欢你 暂时两字不发音",
-      "onboard_time": 1693666546,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 610647,
@@ -1003,6 +1019,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 459746,
+      "num": 459746,
+      "word": "王猛 我们都成新耻辱史见证者",
+      "onboard_time": 1693667685,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459601,
       "num": 459601,
       "word": "虞书欣泥浆打戏花絮剧照",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1693609283,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439850,
+      "num": 439850,
+      "word": "羡慕杜海涛婴儿般的睡眠",
+      "onboard_time": 1693668582,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 430772,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1693621536,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401300,
+      "num": 401300,
+      "word": "汪苏泷不分手的恋爱独唱失败",
+      "onboard_time": 1693668103,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 401210,
@@ -1355,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347620,
+      "num": 347620,
+      "word": "侯雯元疯狂举铁给小白都整无语了",
+      "onboard_time": 1693666124,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344041,
       "num": 344041,
       "word": "于适工作室真的很有sense",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1693641873,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342303,
-      "num": 342303,
-      "word": "侯雯元疯狂举铁给小白都整无语了",
-      "onboard_time": 1693666124,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 342203,
@@ -1427,12 +1467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333143,
-      "num": 333143,
-      "word": "bibi",
-      "onboard_time": 1693667685,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 330216,
+      "num": 330216,
+      "word": "封神25亿 编剧贴文应景",
+      "onboard_time": 1693667867,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 326801,
@@ -1609,14 +1649,6 @@
       "onboard_time": 1693569337,
       "rank": 27,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 289289,
-      "num": 289289,
-      "word": "刘宇宁直播",
-      "onboard_time": 1693667268,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 288861,
@@ -1907,6 +1939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241142,
+      "num": 241142,
+      "word": "全国道德模范龚全珍逝世",
+      "onboard_time": 1693668524,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240765,
       "num": 216495,
       "word": "再见爱人",
@@ -2049,14 +2089,6 @@
       "onboard_time": 1693642053,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214275,
-      "num": 214275,
-      "word": "王猛 我们都成新耻辱史见证者",
-      "onboard_time": 1693667685,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 211022,
@@ -2859,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119706,
+      "num": 788726,
+      "word": "抑郁症男子跳车轻生交警暖心救助",
+      "onboard_time": 1693649254,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118545,
       "num": 135469,
       "word": "汪苏泷郑州演唱会",
@@ -2993,14 +3033,6 @@
       "onboard_time": 1693600155,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53261,
-      "num": 788726,
-      "word": "抑郁症男子跳车轻生交警暖心救助",
-      "onboard_time": 1693649254,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49003,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1693668828462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2089835,
+        "num": 2089835,
+        "word": "解说怒吼质问中国男篮",
+        "onboard_time": 1693664564,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1586787,
+        "num": 1586787,
+        "word": "张凌赫粉底太白了",
+        "onboard_time": 1693661860,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58250,
+        "num": 1398437,
+        "word": "杭州亚运会颁奖物资背后满是祝福",
+        "onboard_time": 1693657118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2222590,
+        "num": 1392416,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1352735,
+        "num": 1352735,
+        "word": "姚明黑脸",
+        "onboard_time": 1693665644,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1146953,
+        "num": 1146953,
+        "word": "云之羽空降",
+        "onboard_time": 1693651298,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1077463,
+        "num": 1077463,
+        "word": "王宝强终于可以把金扫帚还回去了",
+        "onboard_time": 1693662946,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 931716,
+        "num": 931716,
+        "word": "我喜欢你 暂时两字不发音",
+        "onboard_time": 1693666546,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 903566,
+        "num": 903566,
+        "word": "好羡慕23级大学生",
+        "onboard_time": 1693658914,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 813710,
+        "num": 813710,
+        "word": "中国男篮小组倒数第一",
+        "onboard_time": 1693663546,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3322224,
+        "num": 807633,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1112548,
+        "num": 806620,
+        "word": "秀才被封",
+        "onboard_time": 1693649312,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1033611,
+        "num": 799503,
+        "word": "bibi",
+        "onboard_time": 1693667685,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165966,
+        "num": 790021,
+        "word": "西安市第一医院两名医生被停职调查",
+        "onboard_time": 1693655376,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119706,
+        "num": 785348,
+        "word": "抑郁症男子跳车轻生交警暖心救助",
+        "onboard_time": 1693649254,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004957,
+        "num": 781390,
+        "word": "周杰伦与小女儿牵手照",
+        "onboard_time": 1693666184,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776056,
+        "num": 776056,
+        "word": "无忧渡",
+        "onboard_time": 1693663183,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700730,
+        "num": 700730,
+        "word": "刘宇宁直播",
+        "onboard_time": 1693667268,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698990,
+        "num": 698990,
+        "word": "易烊千玺金鹿奖最佳男演员",
+        "onboard_time": 1693658618,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674499,
+        "num": 674499,
+        "word": "老番茄结婚",
+        "onboard_time": 1693644633,
+        "rank": 19,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 668951,
+        "num": 668951,
+        "word": "利息少了130万房主美滋滋换电脑换手机",
+        "onboard_time": 1693665584,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 627401,
+        "num": 627401,
+        "word": "宝剑嫂好会拍",
+        "onboard_time": 1693661019,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 609508,
+        "num": 609508,
+        "word": "卢昱晓妆造好看",
+        "onboard_time": 1693663967,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584278,
+        "num": 584278,
+        "word": "日本接连发生大规模集体食物中毒",
+        "onboard_time": 1693651598,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533708,
+        "num": 533708,
+        "word": "中国男篮崩盘",
+        "onboard_time": 1693663546,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460924,
+        "num": 460924,
+        "word": "金靖出场把我笑死",
+        "onboard_time": 1693658378,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459746,
+        "num": 459746,
+        "word": "王猛 我们都成新耻辱史见证者",
+        "onboard_time": 1693667685,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452291,
+        "num": 452291,
+        "word": "秀才被举报涉嫌税收违法",
+        "onboard_time": 1693661321,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 439850,
+        "num": 439850,
+        "word": "羡慕杜海涛婴儿般的睡眠",
+        "onboard_time": 1693668582,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439799,
+        "num": 439799,
+        "word": "爸爸看了一圈儿子同学的名字懵了",
+        "onboard_time": 1693664564,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438734,
+        "num": 438734,
+        "word": "杨健哭了",
+        "onboard_time": 1693664081,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436918,
+        "num": 436918,
+        "word": "王仕鹏",
+        "onboard_time": 1693664984,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433738,
+        "num": 433738,
+        "word": "安崎不服张郁梓一直第一名",
+        "onboard_time": 1693664924,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409524,
+        "num": 409524,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401300,
+        "num": 401300,
+        "word": "汪苏泷不分手的恋爱独唱失败",
+        "onboard_time": 1693668103,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347620,
+        "num": 347620,
+        "word": "侯雯元疯狂举铁给小白都整无语了",
+        "onboard_time": 1693666124,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338128,
+        "num": 338128,
+        "word": "四舍五入只有27天就放寒假了",
+        "onboard_time": 1693660302,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332238,
+        "num": 332238,
+        "word": "21岁休学29岁存款5000万",
+        "onboard_time": 1693640554,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330216,
+        "num": 330216,
+        "word": "封神25亿 编剧贴文应景",
+        "onboard_time": 1693667867,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299193,
+        "num": 299193,
+        "word": "梁朝伟领取威尼斯终身成就奖",
+        "onboard_time": 1693663242,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298417,
+        "num": 298417,
+        "word": "倪妮金鹿奖最佳女演员",
+        "onboard_time": 1693658676,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286938,
+        "num": 286938,
+        "word": "你现在收入存够1千万要多久",
+        "onboard_time": 1693648115,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284416,
+        "num": 284416,
+        "word": "范丞丞终于放出杨迪直拍了",
+        "onboard_time": 1693659517,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276076,
+        "num": 276076,
+        "word": "公司逼员工主动离职常用套路",
+        "onboard_time": 1693653757,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272576,
+        "num": 272576,
+        "word": "KSG一穿四",
+        "onboard_time": 1693666006,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250877,
+        "num": 250877,
+        "word": "一笑倾城",
+        "onboard_time": 1693652680,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248587,
+        "num": 248587,
+        "word": "中国男篮无缘直通巴黎奥运会",
+        "onboard_time": 1693660601,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243561,
+        "num": 243561,
+        "word": "肖战说书已买钱已转",
+        "onboard_time": 1693660121,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241142,
+        "num": 241142,
+        "word": "全国道德模范龚全珍逝世",
+        "onboard_time": 1693668524,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227219,
+        "num": 227219,
+        "word": "Uzi说明年打不了",
+        "onboard_time": 1693656636,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}
