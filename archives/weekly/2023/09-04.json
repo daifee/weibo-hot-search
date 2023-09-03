@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693765150675,
+  "endTime": 1693766039164,
   "band_list": [
     {
       "raw_hot": 2081687,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61883,
+      "num": 61883,
+      "word": "看奥本海默仿佛参观一场人类的葬礼",
+      "onboard_time": 1693764559,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 59370,
       "num": 1415982,
       "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
@@ -475,20 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53801,
-      "num": 51905,
-      "word": "看奥本海默仿佛参观一场人类的葬礼",
-      "onboard_time": 1693764559,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 40918,
-      "num": 40918,
+      "raw_hot": 44866,
+      "num": 44866,
       "word": "能活到今天我都想奖励自己",
       "onboard_time": 1693763777,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36641,
+      "num": 36641,
+      "word": "周杰伦写给其他歌手歌曲合集",
+      "onboard_time": 1693765936,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 36371,
+      "num": 36371,
+      "word": "梁朝伟哭哭包",
+      "onboard_time": 1693765877,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 18565,
