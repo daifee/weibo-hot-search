@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693732487371,
+  "endTime": 1693733643108,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -19,8 +19,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2561131,
-      "num": 2561131,
+      "raw_hot": 2588897,
+      "num": 2588897,
       "word": "税务局已收到秀才举报材料",
       "onboard_time": 1693728816,
       "rank": 30,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1695389,
+      "num": 384209,
+      "word": "殡葬专业大一课表长这样",
+      "onboard_time": 1693729118,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1527573,
       "num": 1527573,
       "word": "被困横店到处客串",
@@ -129,14 +137,6 @@
       "onboard_time": 1693711174,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1485058,
-      "num": 298315,
-      "word": "殡葬专业大一课表长这样",
-      "onboard_time": 1693729118,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 1432512,
@@ -217,6 +217,14 @@
       "onboard_time": 1693709555,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1019300,
+      "num": 1019300,
+      "word": "南京地铁票竟然是个币",
+      "onboard_time": 1693731575,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 1010858,
@@ -427,19 +435,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 650119,
+      "num": 650119,
+      "word": "从此世上只有李莲花了",
+      "onboard_time": 1693728576,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648183,
       "num": 648183,
       "word": "抱歉陈晓是真的帅",
       "onboard_time": 1693724192,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 644923,
-      "num": 644923,
-      "word": "从此世上只有李莲花了",
-      "onboard_time": 1693728576,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -515,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581254,
+      "num": 284435,
+      "word": "离职退群前好好发泄了一波情绪",
+      "onboard_time": 1693731157,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 564965,
       "num": 564965,
       "word": "王哲林把朱芳雨微信删了",
@@ -577,14 +593,6 @@
       "onboard_time": 1693700550,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 532359,
-      "num": 219314,
-      "word": "离职退群前好好发泄了一波情绪",
-      "onboard_time": 1693731157,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 518589,
@@ -747,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395673,
-      "num": 296902,
-      "word": "南京地铁票竟然是个币",
-      "onboard_time": 1693731575,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 391834,
       "num": 391834,
       "word": "正式确诊为金靖",
@@ -769,6 +769,14 @@
       "onboard_time": 1693727255,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384972,
+      "num": 384972,
+      "word": "闫妮让姚晨做套卷子清醒一下",
+      "onboard_time": 1693732175,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 383549,
@@ -883,12 +891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315901,
+      "num": 315901,
+      "word": "虞书欣卢昱晓一起跳手势舞",
+      "onboard_time": 1693732656,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314180,
       "num": 314180,
       "word": "刘宇宁回应蝉女短发造型",
       "onboard_time": 1693702114,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314153,
+      "num": 283841,
+      "word": "原来捐步数的几毛钱真的有用",
+      "onboard_time": 1693729774,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 311785,
@@ -929,6 +953,22 @@
       "onboard_time": 1693723774,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308541,
+      "num": 283056,
+      "word": "虞书欣新娘珍珠眼妆",
+      "onboard_time": 1693732056,
+      "rank": 32,
+      "category": "影视,美妆"
+    },
+    {
+      "raw_hot": 307385,
+      "num": 307385,
+      "word": "王源留学日记更新",
+      "onboard_time": 1693732355,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 304274,
@@ -1003,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284724,
+      "num": 284724,
+      "word": "曾有72岁老太跨越1700公里去见秀才",
+      "onboard_time": 1693732535,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 284640,
       "num": 383112,
       "word": "深山里踢出19名大学生",
@@ -1012,7 +1060,7 @@
     },
     {
       "raw_hot": 282901,
-      "num": 218396,
+      "num": 262071,
       "word": "给狗狗买尿垫买错了尺寸",
       "onboard_time": 1693729958,
       "rank": 49,
@@ -1048,14 +1096,6 @@
       "word": "21岁休学29岁存款5000万",
       "onboard_time": 1693640554,
       "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 267347,
-      "num": 267347,
-      "word": "原来捐步数的几毛钱真的有用",
-      "onboard_time": 1693729774,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -1155,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245723,
+      "num": 245723,
+      "word": "为什么跑步要跑一休一",
+      "onboard_time": 1693732236,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245560,
       "num": 245560,
       "word": "田曦薇她好宠",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1693664984,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235111,
-      "num": 217905,
-      "word": "虞书欣新娘珍珠眼妆",
-      "onboard_time": 1693732056,
-      "rank": 32,
-      "category": "影视,美妆"
     },
     {
       "raw_hot": 234922,
@@ -1347,6 +1387,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 207894,
+      "num": 207894,
+      "word": "狮子林桥",
+      "onboard_time": 1693732656,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207822,
       "num": 207822,
       "word": "倪妮银色羽毛西装",
@@ -1435,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199249,
-      "num": 199249,
-      "word": "闫妮让姚晨做套卷子清醒一下",
-      "onboard_time": 1693732175,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198279,
       "num": 198279,
       "word": "博士生汪顺报到",
@@ -1475,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192458,
+      "num": 192458,
+      "word": "魏大勋秋千pose大片",
+      "onboard_time": 1693731636,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 190068,
       "num": 190068,
       "word": "这个鸳鸯火锅是馒头做的",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1693707634,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 189419,
-      "num": 189419,
-      "word": "魏大勋秋千pose大片",
-      "onboard_time": 1693731636,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189279,
@@ -1571,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183608,
+      "num": 183608,
+      "word": "云合",
+      "onboard_time": 1693733318,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182400,
       "num": 602013,
       "word": "全国道德模范龚全珍逝世",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1693704755,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171754,
-      "num": 171754,
-      "word": "王源留学日记更新",
-      "onboard_time": 1693732355,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 170998,
@@ -1723,12 +1763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159360,
-      "num": 159360,
-      "word": "为什么跑步要跑一休一",
-      "onboard_time": 1693732236,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 153567,
+      "num": 153567,
+      "word": "熊猫幼崽碰瓷妈妈失败现场",
+      "onboard_time": 1693733614,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150094,
+      "num": 150094,
+      "word": "李湘太清醒了",
+      "onboard_time": 1693733614,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 149250,
@@ -1835,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97198,
+      "num": 238124,
+      "word": "新生军训名场面",
+      "onboard_time": 1693732535,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84014,
       "num": 601436,
       "word": "西安市第一医院两名医生被停职调查",
@@ -1891,6 +1947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47735,
+      "num": 329856,
+      "word": "7旬保安冲入火场救火全身被熏黑",
+      "onboard_time": 1693731696,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43766,
       "num": 43766,
       "word": "蔡依林长沙演唱会",
@@ -1931,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34473,
+      "num": 1156403,
+      "word": "阿尔山风光美如画",
+      "onboard_time": 1693732175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33928,
       "num": 445308,
       "word": "女护士百米冲刺跪地救援溺水老人",
@@ -1944,22 +2016,6 @@
       "word": "父亲接站退役儿子被单手抱起",
       "onboard_time": 1693692856,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21284,
-      "num": 910479,
-      "word": "阿尔山风光美如画",
-      "onboard_time": 1693732175,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19772,
-      "num": 296160,
-      "word": "7旬保安冲入火场救火全身被熏黑",
-      "onboard_time": 1693731696,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
