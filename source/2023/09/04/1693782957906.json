@@ -1,0 +1,410 @@
+{
+  "runTime": 1693782957906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2781906,
+        "num": 2781906,
+        "word": "大熊猫成功死亡",
+        "onboard_time": 1693782326,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286131,
+        "num": 1286131,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55829,
+        "num": 865815,
+        "word": "迎亚运的杭州好漂亮",
+        "onboard_time": 1693747242,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827604,
+        "num": 827604,
+        "word": "今年已有5位网红因违法违规被封",
+        "onboard_time": 1693749704,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 698798,
+        "num": 698798,
+        "word": "湖南被患者抹脖子牙医朋友发声",
+        "onboard_time": 1693755636,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573055,
+        "num": 573055,
+        "word": "清华大学研究生重量级宿舍",
+        "onboard_time": 1693757434,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 544604,
+        "num": 544604,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290545,
+        "num": 290545,
+        "word": "原来真有人后发际线长到脖子上",
+        "onboard_time": 1693750483,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274820,
+        "num": 274820,
+        "word": "你什么档次敢骂雪姨",
+        "onboard_time": 1693750063,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262308,
+        "num": 262308,
+        "word": "花花没有妈妈了",
+        "onboard_time": 1693782567,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670720,
+        "num": 256549,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511597,
+        "num": 253678,
+        "word": "我们学校复变函数老师是杨幂大伯",
+        "onboard_time": 1693755399,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361917,
+        "num": 241600,
+        "word": "这居然是纪凌尘",
+        "onboard_time": 1693747242,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147994,
+        "num": 236071,
+        "word": "警犬找回走失男子被奖励一盆鸡腿",
+        "onboard_time": 1693757613,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113445,
+        "num": 230974,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 225817,
+        "num": 225817,
+        "word": "男子退伍妻子偷偷中途上车送惊喜",
+        "onboard_time": 1693778055,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334069,
+        "num": 221540,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215636,
+        "num": 215636,
+        "word": "央视评华为争气机",
+        "onboard_time": 1693749767,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 195224,
+        "num": 195224,
+        "word": "成都地震",
+        "onboard_time": 1693751985,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192177,
+        "num": 192177,
+        "word": "韩版黄雨萱",
+        "onboard_time": 1693750727,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265550,
+        "num": 181134,
+        "word": "女生125斤被质问你胖成啥了",
+        "onboard_time": 1693746706,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199596,
+        "num": 170274,
+        "word": "工作后发现5000块真的很难挣",
+        "onboard_time": 1693745141,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195711,
+        "num": 168609,
+        "word": "女子被狗撕碎左脸缝了500多针",
+        "onboard_time": 1693753483,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152984,
+        "num": 152984,
+        "word": "为什么现在年轻人很少去KTV了",
+        "onboard_time": 1693745141,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148528,
+        "num": 148528,
+        "word": "网传女子治牙发生纠纷抹了医生脖子",
+        "onboard_time": 1693754922,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137803,
+        "num": 137803,
+        "word": "皮肤和情绪的关系",
+        "onboard_time": 1693750606,
+        "rank": 25,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 125998,
+        "num": 125998,
+        "word": "Mate60遥遥领先",
+        "onboard_time": 1693745680,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121130,
+        "num": 121130,
+        "word": "汉服女生这个系列对我眼睛太好了",
+        "onboard_time": 1693751627,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 116207,
+        "num": 116207,
+        "word": "张慧雯妆造好端庄",
+        "onboard_time": 1693755636,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114509,
+        "num": 114509,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113885,
+        "num": 113885,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 106949,
+        "num": 106949,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 31,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 104966,
+        "num": 104966,
+        "word": "曾舜晞莲花楼后官宣了两个代言",
+        "onboard_time": 1693781061,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101324,
+        "num": 101324,
+        "word": "郭品超回山东泰安寻亲落泪",
+        "onboard_time": 1693782626,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 97488,
+        "num": 97488,
+        "word": "人下意识的举动能说明很多信息",
+        "onboard_time": 1693760963,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93466,
+        "num": 93466,
+        "word": "Twins说毛不易粤语像她们普通话一样标准",
+        "onboard_time": 1693782747,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93207,
+        "num": 93207,
+        "word": "谁是周冬雨",
+        "onboard_time": 1693754144,
+        "rank": 36,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 92691,
+        "num": 92691,
+        "word": "鼻炎的痛苦谁懂啊",
+        "onboard_time": 1693780639,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90706,
+        "num": 90706,
+        "word": "奥本海默里消失的她",
+        "onboard_time": 1693752647,
+        "rank": 38,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 83537,
+        "num": 83537,
+        "word": "宋轶哎呀好身材5路透",
+        "onboard_time": 1693782326,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83478,
+        "num": 83478,
+        "word": "林一是巨人吧",
+        "onboard_time": 1693757854,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83444,
+        "num": 83444,
+        "word": "阿森纳vs曼联",
+        "onboard_time": 1693753664,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81889,
+        "num": 81889,
+        "word": "台风海葵带来一场天空的浪漫",
+        "onboard_time": 1693770494,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81819,
+        "num": 81819,
+        "word": "这种洗大猫的工作去哪应聘",
+        "onboard_time": 1693768394,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79861,
+        "num": 79861,
+        "word": "上官浅宫尚角",
+        "onboard_time": 1693761203,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78448,
+        "num": 78448,
+        "word": "鹊刀门传奇大结局",
+        "onboard_time": 1693771574,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75665,
+        "num": 75665,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71182,
+        "num": 71182,
+        "word": "民警翻垃圾桶1小时找回3万救命钱",
+        "onboard_time": 1693778657,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68289,
+        "num": 68289,
+        "word": "李安舒淇刘嘉玲胡歌合影",
+        "onboard_time": 1693742981,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62514,
+        "num": 62514,
+        "word": "ive",
+        "onboard_time": 1693751385,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席服贸会致辞释放鲜明信号#"
+    }
+  }
+}
