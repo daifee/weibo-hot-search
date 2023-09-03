@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693748023388,
+  "endTime": 1693750425262,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -65,6 +65,14 @@
       "onboard_time": 1693563760,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3072308,
+      "num": 3072308,
+      "word": "这居然是纪凌尘",
+      "onboard_time": 1693747242,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 3020207,
@@ -683,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1229263,
-      "num": 1229263,
-      "word": "这居然是纪凌尘",
-      "onboard_time": 1693747242,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1227450,
       "num": 1227450,
       "word": "2024鹅厂片单",
@@ -705,6 +705,14 @@
       "onboard_time": 1693662946,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1224493,
+      "num": 324314,
+      "word": "肛肠科待太久对帅哥都无感了",
+      "onboard_time": 1693749465,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1217488,
@@ -931,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1006159,
+      "num": 359856,
+      "word": "工作后发现5000块真的很难挣",
+      "onboard_time": 1693745141,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1005078,
       "num": 1005078,
       "word": "秀才被举报涉嫌税收违法",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1693546299,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 961744,
-      "num": 359856,
-      "word": "工作后发现5000块真的很难挣",
-      "onboard_time": 1693745141,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 953646,
@@ -1339,6 +1347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 801540,
+      "num": 354319,
+      "word": "女生125斤被质问你胖成啥了",
+      "onboard_time": 1693746706,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 800870,
       "num": 800870,
       "word": "鸟鸟 要只在意最重要的人",
@@ -1419,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 769127,
-      "num": 354319,
-      "word": "女生125斤被质问你胖成啥了",
-      "onboard_time": 1693746706,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 767584,
       "num": 767584,
       "word": "陈都灵新剧演张凌赫的妈",
@@ -1499,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 737142,
+      "num": 595816,
+      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+      "onboard_time": 1693742564,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737128,
       "num": 737128,
       "word": "日本已排放超3800吨核污染水",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1693630655,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 723714,
+      "num": 593595,
+      "word": "顾客吃必胜客披萨一口咬在铁片上",
+      "onboard_time": 1693746281,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720877,
@@ -2059,6 +2083,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600958,
+      "num": 600958,
+      "word": "Mate60遥遥领先",
+      "onboard_time": 1693745680,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 600346,
+      "num": 496926,
+      "word": "张晚意工作室宣发审美",
+      "onboard_time": 1693745262,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 600002,
       "num": 539639,
       "word": "段奥娟银色流苏礼裙",
@@ -2073,14 +2113,6 @@
       "onboard_time": 1693641935,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 598303,
-      "num": 595816,
-      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
-      "onboard_time": 1693742564,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598253,
@@ -2105,14 +2137,6 @@
       "onboard_time": 1693573180,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 593595,
-      "num": 593595,
-      "word": "顾客吃必胜客披萨一口咬在铁片上",
-      "onboard_time": 1693746281,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591891,
@@ -2177,14 +2201,6 @@
       "onboard_time": 1693617275,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 568426,
-      "num": 333958,
-      "word": "张晚意工作室宣发审美",
-      "onboard_time": 1693745262,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 566743,
@@ -2955,14 +2971,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 451614,
-      "num": 451614,
-      "word": "Mate60遥遥领先",
-      "onboard_time": 1693745680,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 449842,
       "num": 449842,
       "word": "上山下全场第一",
@@ -3483,20 +3491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378279,
+      "num": 322771,
+      "word": "汪苏泷朋友圈是早C晚E",
+      "onboard_time": 1693747004,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378206,
       "num": 378206,
       "word": "陕西一医院规定男55岁女44岁不续聘",
       "onboard_time": 1693488761,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378115,
-      "num": 322771,
-      "word": "汪苏泷朋友圈是早C晚E",
-      "onboard_time": 1693747004,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 377950,
@@ -3875,6 +3883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336686,
+      "num": 336686,
+      "word": "为什么好多人都消失在朋友圈了",
+      "onboard_time": 1693749704,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335176,
       "num": 335176,
       "word": "盛阳 今天俺是被宰羔阳",
@@ -3971,6 +3987,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 326171,
+      "num": 321812,
+      "word": "今年已有5位网红因违法违规被封",
+      "onboard_time": 1693749704,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 324568,
       "num": 324568,
       "word": "Zoom和Tian担任解说杯嘉宾",
@@ -3993,6 +4017,14 @@
       "onboard_time": 1693729292,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321576,
+      "num": 321576,
+      "word": "央视评华为争气机",
+      "onboard_time": 1693749767,
+      "rank": 28,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 321366,
@@ -4523,6 +4555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274509,
+      "num": 274509,
+      "word": "张晚意直播",
+      "onboard_time": 1693747844,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273500,
       "num": 273500,
       "word": "彩虹的微笑 笑中含泪",
@@ -4651,6 +4691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263841,
+      "num": 263841,
+      "word": "宿舍搬来了一个新的女孩子",
+      "onboard_time": 1693748505,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263292,
       "num": 221864,
       "word": "Angelababy张大大走红毯",
@@ -4761,6 +4809,14 @@
       "onboard_time": 1693552417,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258925,
+      "num": 258925,
+      "word": "果然写作是一种天赋",
+      "onboard_time": 1693746463,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 258812,
@@ -5009,6 +5065,14 @@
       "onboard_time": 1693548695,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246326,
+      "num": 246326,
+      "word": "对方撤回了一排假牙",
+      "onboard_time": 1693749044,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245560,
@@ -5643,14 +5707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207649,
-      "num": 207649,
-      "word": "张晚意直播",
-      "onboard_time": 1693747844,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207588,
       "num": 263528,
       "word": "套娃套成这样也是没谁了",
@@ -5721,6 +5777,14 @@
       "onboard_time": 1693696824,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 206063,
+      "num": 206063,
+      "word": "盛阳胖揍公司领导",
+      "onboard_time": 1693749644,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 206023,
@@ -6035,6 +6099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198488,
+      "num": 191762,
+      "word": "你什么档次敢骂雪姨",
+      "onboard_time": 1693750063,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198279,
       "num": 198279,
       "word": "博士生汪顺报到",
@@ -6275,12 +6347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191853,
+      "num": 191853,
+      "word": "短道速滑陆地训练",
+      "onboard_time": 1693749883,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191653,
       "num": 191653,
       "word": "神隐预告",
       "onboard_time": 1693562618,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191573,
+      "num": 191573,
+      "word": "宁波200一碗海鲜面",
+      "onboard_time": 1693750063,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 191515,
@@ -6491,19 +6579,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186411,
-      "num": 186411,
-      "word": "果然写作是一种天赋",
-      "onboard_time": 1693746463,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185967,
       "num": 185967,
       "word": "电影不虚此行预售开启",
       "onboard_time": 1693539036,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185965,
+      "num": 185965,
+      "word": "简冰高情商回复王友德",
+      "onboard_time": 1693749105,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -6633,6 +6721,14 @@
       "onboard_time": 1693536395,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180664,
+      "num": 180664,
+      "word": "利物浦vs阿斯顿维拉",
+      "onboard_time": 1693750243,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 180247,
@@ -7531,6 +7627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112455,
+      "num": 1286185,
+      "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
+      "onboard_time": 1693747544,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112144,
       "num": 112144,
       "word": "中国文物逃出大英博物馆幕后故事",
@@ -8059,14 +8163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38773,
-      "num": 1286185,
-      "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
-      "onboard_time": 1693747544,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36213,
       "num": 36213,
       "word": "金泰亨solo",
@@ -8104,6 +8200,14 @@
       "word": "砺志逐梦正当时",
       "onboard_time": 1693493739,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31767,
+      "num": 459686,
+      "word": "姐妹花同桌同分考进石大同专业同班",
+      "onboard_time": 1693749644,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8287,6 +8391,9 @@
     },
     {
       "word": "#在开放中创造机遇在合作中破解难题#"
+    },
+    {
+      "word": "#开放引领发展合作共赢未来#"
     }
   ]
 }
