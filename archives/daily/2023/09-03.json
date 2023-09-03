@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693744158217,
+  "endTime": 1693745101560,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1256365,
+      "num": 1256365,
+      "word": "华科新闻学院院长回应张雪峰",
+      "onboard_time": 1693740528,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1111667,
       "num": 728260,
       "word": "李湘太清醒了",
@@ -211,6 +219,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1109283,
+      "num": 1109283,
+      "word": "日本2亿头海参滞销养殖户实在没招",
+      "onboard_time": 1693740043,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105069,
       "num": 1105069,
       "word": "张凌赫粉底太白了",
@@ -224,6 +240,14 @@
       "word": "敖子逸待播剧",
       "onboard_time": 1693738183,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1060554,
+      "num": 1060554,
+      "word": "虞书欣拍的卢昱晓",
+      "onboard_time": 1693741606,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -267,11 +291,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 962200,
-      "num": 823184,
-      "word": "虞书欣拍的卢昱晓",
-      "onboard_time": 1693741606,
-      "rank": 3,
+      "raw_hot": 953646,
+      "num": 953646,
+      "word": "梁朝伟刘嘉玲亲亲",
+      "onboard_time": 1693741964,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -299,27 +323,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 865742,
+      "num": 865742,
+      "word": "白百何就没演过受气的角色",
+      "onboard_time": 1693740164,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 861844,
       "num": 756738,
       "word": "云之羽空降",
       "onboard_time": 1693651298,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 852920,
-      "num": 852920,
-      "word": "华科新闻学院院长回应张雪峰",
-      "onboard_time": 1693740528,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 841974,
-      "num": 368249,
-      "word": "梁朝伟刘嘉玲亲亲",
-      "onboard_time": 1693741964,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -329,14 +345,6 @@
       "onboard_time": 1693713274,
       "rank": 10,
       "category": "音乐,游戏"
-    },
-    {
-      "raw_hot": 821476,
-      "num": 821476,
-      "word": "日本2亿头海参滞销养殖户实在没招",
-      "onboard_time": 1693740043,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 811888,
@@ -547,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 631741,
-      "num": 302156,
-      "word": "白百何就没演过受气的角色",
-      "onboard_time": 1693740164,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 627576,
       "num": 627576,
       "word": "厦门晚霞",
@@ -643,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 578019,
+      "num": 308363,
+      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+      "onboard_time": 1693742564,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564965,
       "num": 564965,
       "word": "王哲林把朱芳雨微信删了",
@@ -659,20 +667,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 561561,
-      "num": 299376,
-      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
-      "onboard_time": 1693742564,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 560420,
       "num": 560420,
       "word": "9岁摄影师拍胡歌吴磊",
       "onboard_time": 1693714238,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 557747,
+      "num": 452399,
+      "word": "李安舒淇刘嘉玲胡歌合影",
+      "onboard_time": 1693742981,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 540866,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503873,
+      "num": 450015,
+      "word": "8岁女孩去世捐遗体开学第1天成大体老师",
+      "onboard_time": 1693743102,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 498895,
       "num": 498895,
       "word": "夭柳 不负相思意大电影",
@@ -803,14 +819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 482801,
-      "num": 361676,
-      "word": "李安舒淇刘嘉玲胡歌合影",
-      "onboard_time": 1693742981,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 481897,
       "num": 481897,
       "word": "好羡慕23级大学生",
@@ -833,6 +841,14 @@
       "onboard_time": 1693706493,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462055,
+      "num": 462055,
+      "word": "长沙烧烤的分量真的这么少吗",
+      "onboard_time": 1693741964,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 453199,
@@ -873,14 +889,6 @@
       "onboard_time": 1693714296,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 436202,
-      "num": 248735,
-      "word": "8岁女孩去世捐遗体开学第1天成大体老师",
-      "onboard_time": 1693743102,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 434012,
@@ -977,14 +985,6 @@
       "onboard_time": 1693658618,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372656,
-      "num": 351517,
-      "word": "长沙烧烤的分量真的这么少吗",
-      "onboard_time": 1693741964,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 368988,
@@ -1155,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307981,
+      "num": 307981,
+      "word": "云为衫好一朵衫茶花",
+      "onboard_time": 1693743762,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307160,
       "num": 307160,
       "word": "为什么跑步要跑一休一",
@@ -1283,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276960,
+      "num": 276960,
+      "word": "肖战片场笑得前仰后合",
+      "onboard_time": 1693744422,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275319,
       "num": 275319,
       "word": "蔡文静怕不是流的E型血",
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260962,
+      "num": 260962,
+      "word": "茶朔洵 既然被你发现了",
+      "onboard_time": 1693743580,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256812,
       "num": 256812,
       "word": "侯雯元真的跳了科目一",
@@ -1379,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252380,
+      "num": 252380,
+      "word": "全国多地华为门店抢购Mate60",
+      "onboard_time": 1693742743,
+      "rank": 33,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 251678,
       "num": 251678,
       "word": "奥本海默是历史",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1693726175,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246449,
-      "num": 246449,
-      "word": "茶朔洵 既然被你发现了",
-      "onboard_time": 1693743580,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 245560,
@@ -1539,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222898,
-      "num": 222898,
-      "word": "全国多地华为门店抢购Mate60",
-      "onboard_time": 1693742743,
-      "rank": 33,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 222317,
       "num": 222317,
       "word": "爷爷扶着水桶喂猫咪喝水",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1693726117,
       "rank": 39,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 211327,
-      "num": 211327,
-      "word": "云为衫好一朵衫茶花",
-      "onboard_time": 1693743762,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 207894,
@@ -1763,20 +1771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199391,
+      "num": 199391,
+      "word": "云之羽cp海报",
+      "onboard_time": 1693743460,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198279,
       "num": 198279,
       "word": "博士生汪顺报到",
       "onboard_time": 1693704873,
       "rank": 37,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 198162,
-      "num": 198162,
-      "word": "云之羽cp海报",
-      "onboard_time": 1693743460,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 197438,
@@ -1969,6 +1977,14 @@
       "onboard_time": 1693709075,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175580,
+      "num": 175580,
+      "word": "给殷寿一点小小的武王震撼",
+      "onboard_time": 1693744541,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 174816,
@@ -2267,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64923,
+      "num": 409202,
+      "word": "9岁妹妹不舍上学姐姐写一盒分别信",
+      "onboard_time": 1693743405,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64787,
       "num": 100924,
       "word": "各行各业都有猫师傅的身影",
@@ -2359,14 +2383,6 @@
       "num": 445308,
       "word": "女护士百米冲刺跪地救援溺水老人",
       "onboard_time": 1693728098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27153,
-      "num": 356827,
-      "word": "9岁妹妹不舍上学姐姐写一盒分别信",
-      "onboard_time": 1693743405,
       "rank": 14,
       "category": "社会新闻"
     },

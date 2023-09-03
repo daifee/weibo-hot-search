@@ -1,0 +1,410 @@
+{
+  "runTime": 1693745101560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1844554,
+        "num": 1844554,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1256365,
+        "num": 1256365,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 63152,
+        "num": 1174577,
+        "word": "阿尔山风光美如画",
+        "onboard_time": 1693732175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109283,
+        "num": 1109283,
+        "word": "日本2亿头海参滞销养殖户实在没招",
+        "onboard_time": 1693740043,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060554,
+        "num": 1060554,
+        "word": "虞书欣拍的卢昱晓",
+        "onboard_time": 1693741606,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 953646,
+        "num": 953646,
+        "word": "梁朝伟刘嘉玲亲亲",
+        "onboard_time": 1693741964,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 865742,
+        "num": 865742,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701902,
+        "num": 701902,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 7,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 675202,
+        "num": 675202,
+        "word": "女子称买1公斤软糖花了161元",
+        "onboard_time": 1693737940,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462055,
+        "num": 462055,
+        "word": "长沙烧烤的分量真的这么少吗",
+        "onboard_time": 1693741964,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 595606,
+        "num": 461043,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557747,
+        "num": 452399,
+        "word": "李安舒淇刘嘉玲胡歌合影",
+        "onboard_time": 1693742981,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503873,
+        "num": 450015,
+        "word": "8岁女孩去世捐遗体开学第1天成大体老师",
+        "onboard_time": 1693743102,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 439249,
+        "num": 439249,
+        "word": "暧昧对象是个小爱豆",
+        "onboard_time": 1693738786,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64923,
+        "num": 409202,
+        "word": "9岁妹妹不舍上学姐姐写一盒分别信",
+        "onboard_time": 1693743405,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392830,
+        "num": 392830,
+        "word": "Mate60pro",
+        "onboard_time": 1693737880,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371669,
+        "num": 371669,
+        "word": "杨幂红秀封面",
+        "onboard_time": 1693741062,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 364362,
+        "num": 364362,
+        "word": "殡葬专业大一课表长这样",
+        "onboard_time": 1693729118,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 334549,
+        "num": 334549,
+        "word": "南京地铁票竟然是个币",
+        "onboard_time": 1693731575,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 308503,
+        "num": 308503,
+        "word": "厦门晚霞",
+        "onboard_time": 1693739443,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 578019,
+        "num": 308363,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373065,
+        "num": 308221,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 347959,
+        "num": 308178,
+        "word": "离职退群前好好发泄了一波情绪",
+        "onboard_time": 1693731157,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307981,
+        "num": 307981,
+        "word": "云为衫好一朵衫茶花",
+        "onboard_time": 1693743762,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296034,
+        "num": 296034,
+        "word": "俄顶尖火箭科学家中毒身亡",
+        "onboard_time": 1693734937,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286213,
+        "num": 286213,
+        "word": "何炅 不要被自己的情绪绑架",
+        "onboard_time": 1693723294,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276960,
+        "num": 276960,
+        "word": "肖战片场笑得前仰后合",
+        "onboard_time": 1693744422,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260962,
+        "num": 260962,
+        "word": "茶朔洵 既然被你发现了",
+        "onboard_time": 1693743580,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252380,
+        "num": 252380,
+        "word": "全国多地华为门店抢购Mate60",
+        "onboard_time": 1693742743,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 250685,
+        "num": 250685,
+        "word": "央妈推荐曾舜晞的终极笔记三次了",
+        "onboard_time": 1693737097,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250407,
+        "num": 250407,
+        "word": "女孩被男友嫌胖从115斤瘦到68斤",
+        "onboard_time": 1693725033,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219163,
+        "num": 219163,
+        "word": "西瓜冰柠茶",
+        "onboard_time": 1693741367,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216894,
+        "num": 216894,
+        "word": "猫咪深夜发现陌生男子入室及时护主",
+        "onboard_time": 1693738248,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215537,
+        "num": 215537,
+        "word": "知道为什么倒霉的总是你吗",
+        "onboard_time": 1693742682,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209041,
+        "num": 209041,
+        "word": "十个勤天头像",
+        "onboard_time": 1693727794,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199564,
+        "num": 199564,
+        "word": "从此世上只有李莲花了",
+        "onboard_time": 1693728576,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199391,
+        "num": 199391,
+        "word": "云之羽cp海报",
+        "onboard_time": 1693743460,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187190,
+        "num": 187190,
+        "word": "为什么跑步要跑一休一",
+        "onboard_time": 1693732236,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186231,
+        "num": 186231,
+        "word": "盛阳做饭对强迫症很友好",
+        "onboard_time": 1693743879,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184470,
+        "num": 184470,
+        "word": "奥本海默",
+        "onboard_time": 1693728393,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183366,
+        "num": 183366,
+        "word": "王源留学日记更新",
+        "onboard_time": 1693732355,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175580,
+        "num": 175580,
+        "word": "给殷寿一点小小的武王震撼",
+        "onboard_time": 1693744541,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167382,
+        "num": 167382,
+        "word": "我为自己下辈子找的妈妈",
+        "onboard_time": 1693738305,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157779,
+        "num": 157779,
+        "word": "奶爸快冲闯关为3岁萌娃留照庆生",
+        "onboard_time": 1693744123,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154605,
+        "num": 154605,
+        "word": "房东溜进租客房间被监控直播",
+        "onboard_time": 1693735656,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153790,
+        "num": 153790,
+        "word": "狼队对战KSG",
+        "onboard_time": 1693741004,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147208,
+        "num": 147208,
+        "word": "从小就有侵入性思维",
+        "onboard_time": 1693736140,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141321,
+        "num": 141321,
+        "word": "大学生拿1万2奖学金给村里修路",
+        "onboard_time": 1693720834,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 137539,
+        "num": 137539,
+        "word": "乌尔善带娃打卡威尼斯",
+        "onboard_time": 1693740825,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133086,
+        "num": 133086,
+        "word": "林志玲回应郭台铭有意找其当副手传闻",
+        "onboard_time": 1693728393,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在开放中创造机遇在合作中破解难题#"
+    }
+  }
+}
