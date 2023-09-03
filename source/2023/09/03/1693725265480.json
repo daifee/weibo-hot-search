@@ -1,0 +1,410 @@
+{
+  "runTime": 1693725265480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527573,
+        "num": 1527573,
+        "word": "被困横店到处客串",
+        "onboard_time": 1693719513,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1177785,
+        "num": 1177785,
+        "word": "何炅 不要被自己的情绪绑架",
+        "onboard_time": 1693723294,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5696,
+        "num": 1070861,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060741,
+        "num": 1060741,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 835605,
+        "num": 835605,
+        "word": "12306回应高铁动车二等座无座同价",
+        "onboard_time": 1693714595,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633764,
+        "num": 633764,
+        "word": "女子修复双眼皮后竟然多个洞",
+        "onboard_time": 1693720534,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586447,
+        "num": 586447,
+        "word": "平原县地震",
+        "onboard_time": 1693724135,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516951,
+        "num": 516951,
+        "word": "刘琳演技",
+        "onboard_time": 1693721736,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441483,
+        "num": 441483,
+        "word": "大学生拿1万2奖学金给村里修路",
+        "onboard_time": 1693720834,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398037,
+        "num": 398037,
+        "word": "傅首尔老刘参加再见爱人3",
+        "onboard_time": 1693711174,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1070273,
+        "num": 397784,
+        "word": "妈妈被家暴女儿留下的纸条让人泪目",
+        "onboard_time": 1693716578,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796174,
+        "num": 391906,
+        "word": "王源又一次被问成年了吗",
+        "onboard_time": 1693724017,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485338,
+        "num": 383831,
+        "word": "六公主谈逃出大英博物馆火出圈",
+        "onboard_time": 1693724374,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284640,
+        "num": 383112,
+        "word": "深山里踢出19名大学生",
+        "onboard_time": 1693722332,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18556,
+        "num": 374604,
+        "word": "女生公交上晕倒驾驶员乘客暖心救助",
+        "onboard_time": 1693724433,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373769,
+        "num": 373769,
+        "word": "女子买到发霉面包店员当场吃下",
+        "onboard_time": 1693715916,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369595,
+        "num": 369595,
+        "word": "抱歉陈晓是真的帅",
+        "onboard_time": 1693724192,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350519,
+        "num": 350519,
+        "word": "全国唯一考生已经在答题了",
+        "onboard_time": 1693706075,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 316600,
+        "num": 316600,
+        "word": "泰国坠崖案女子称离婚要很多材料",
+        "onboard_time": 1693717537,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283737,
+        "num": 316260,
+        "word": "日本政府拟拨款200亿日元紧急支援水产业",
+        "onboard_time": 1693716098,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 522704,
+        "num": 316194,
+        "word": "丧偶式恋爱",
+        "onboard_time": 1693721314,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315998,
+        "num": 315998,
+        "word": "怪不得都说不要吃虾头",
+        "onboard_time": 1693714055,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296733,
+        "num": 296733,
+        "word": "张栋梁的衣服是穿反了吗",
+        "onboard_time": 1693723774,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262063,
+        "num": 262063,
+        "word": "魏哲鸣张远至上励合时期就认识",
+        "onboard_time": 1693720353,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253633,
+        "num": 253633,
+        "word": "起猛了看到殷寿护妲己了",
+        "onboard_time": 1693722034,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242487,
+        "num": 242487,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213233,
+        "num": 213233,
+        "word": "于正希望内娱好好对待蒋依依",
+        "onboard_time": 1693712015,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211723,
+        "num": 211723,
+        "word": "牛 虽然听不懂但感觉被净化了",
+        "onboard_time": 1693719513,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211175,
+        "num": 211175,
+        "word": "安乐传hi6暑期收视率TOP1",
+        "onboard_time": 1693723713,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209774,
+        "num": 209774,
+        "word": "因发际线高花3万植发长出成撮卷发",
+        "onboard_time": 1693717115,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284506,
+        "num": 209772,
+        "word": "王哲林把朱芳雨微信删了",
+        "onboard_time": 1693724494,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229164,
+        "num": 209761,
+        "word": "想把马杨的这句话送给领导",
+        "onboard_time": 1693724558,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210822,
+        "num": 209758,
+        "word": "蔡文静怕不是流的E型血",
+        "onboard_time": 1693724315,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209682,
+        "num": 209682,
+        "word": "鹿晗范志毅十年前曾一起上报纸",
+        "onboard_time": 1693716158,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209162,
+        "num": 209162,
+        "word": "女孩被男友嫌胖从115斤瘦到68斤",
+        "onboard_time": 1693725033,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196234,
+        "num": 196234,
+        "word": "混天绫里裹着的人真的是陈牧驰",
+        "onboard_time": 1693718074,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191814,
+        "num": 191814,
+        "word": "骄阳伴我广告竟然来真的",
+        "onboard_time": 1693705172,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185055,
+        "num": 185055,
+        "word": "看孟美岐安崎互怼梦回青创",
+        "onboard_time": 1693722093,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177566,
+        "num": 177566,
+        "word": "陈都灵新剧演张凌赫的妈",
+        "onboard_time": 1693704693,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173886,
+        "num": 173886,
+        "word": "日本投降的真正原因是什么",
+        "onboard_time": 1693709555,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168700,
+        "num": 168700,
+        "word": "台风海葵",
+        "onboard_time": 1693701752,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164234,
+        "num": 164234,
+        "word": "陈奕迅上海抢票",
+        "onboard_time": 1693716878,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162714,
+        "num": 162714,
+        "word": "华晨宇演唱会抢票",
+        "onboard_time": 1693723174,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160052,
+        "num": 160052,
+        "word": "呼市现大量哮喘患者急诊排长队",
+        "onboard_time": 1693711174,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157649,
+        "num": 157649,
+        "word": "法老在老番茄婚礼唱健将",
+        "onboard_time": 1693713274,
+        "rank": 44,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 157046,
+        "num": 157046,
+        "word": "张凌赫舞剑梦回长珩仙君",
+        "onboard_time": 1693723116,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149336,
+        "num": 149336,
+        "word": "爷爷扶着水桶喂猫咪喝水",
+        "onboard_time": 1693718675,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151059,
+        "num": 148216,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140657,
+        "num": 140657,
+        "word": "女富豪们是怎么白手起家的",
+        "onboard_time": 1693725156,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148236,
+        "num": 139597,
+        "word": "宫子羽的成长日记",
+        "onboard_time": 1693723895,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693722843106,
+  "endTime": 1693725265480,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -1283,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1527573,
+      "num": 1527573,
+      "word": "被困横店到处客串",
+      "onboard_time": 1693719513,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1513556,
       "num": 1513556,
       "word": "傅首尔老刘参加再见爱人3",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1693286797,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1444483,
-      "num": 1444483,
-      "word": "被困横店到处客串",
-      "onboard_time": 1693719513,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1443281,
@@ -1689,6 +1689,14 @@
       "onboard_time": 1693295016,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1177785,
+      "num": 1177785,
+      "word": "何炅 不要被自己的情绪绑架",
+      "onboard_time": 1693723294,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1175256,
@@ -2889,6 +2897,14 @@
       "onboard_time": 1693540478,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 796174,
+      "num": 391906,
+      "word": "王源又一次被问成年了吗",
+      "onboard_time": 1693724017,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 795615,
@@ -4395,6 +4411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586447,
+      "num": 586447,
+      "word": "平原县地震",
+      "onboard_time": 1693724135,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585627,
       "num": 585627,
       "word": "4万学费宿舍到处是垃圾没法住",
@@ -4540,7 +4564,7 @@
     },
     {
       "raw_hot": 563626,
-      "num": 280228,
+      "num": 316194,
       "word": "丧偶式恋爱",
       "onboard_time": 1693721314,
       "rank": 21,
@@ -5123,6 +5147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516951,
+      "num": 516951,
+      "word": "刘琳演技",
+      "onboard_time": 1693721736,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516848,
       "num": 516848,
       "word": "股市",
@@ -5537,6 +5569,14 @@
       "onboard_time": 1693616014,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485338,
+      "num": 383831,
+      "word": "六公主谈逃出大英博物馆火出圈",
+      "onboard_time": 1693724374,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 483809,
@@ -6139,14 +6179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444956,
-      "num": 444956,
-      "word": "刘琳演技",
-      "onboard_time": 1693721736,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 444325,
       "num": 444325,
       "word": "那个被诊断为终生无法站立的孩子",
@@ -6161,6 +6193,14 @@
       "onboard_time": 1693224219,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441483,
+      "num": 441483,
+      "word": "大学生拿1万2奖学金给村里修路",
+      "onboard_time": 1693720834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441427,
@@ -7479,6 +7519,14 @@
       "num": 369697,
       "word": "骄阳伴我剪辑师招募计划",
       "onboard_time": 1693629574,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369595,
+      "num": 369595,
+      "word": "抱歉陈晓是真的帅",
+      "onboard_time": 1693724192,
       "rank": 16,
       "category": "影视"
     },
@@ -9155,14 +9203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305629,
-      "num": 390607,
-      "word": "大学生拿1万2奖学金给村里修路",
-      "onboard_time": 1693720834,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305578,
       "num": 486137,
       "word": "平顶山就牛郎织女雕塑成立调查组",
@@ -9449,6 +9489,14 @@
       "onboard_time": 1693712192,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296733,
+      "num": 296733,
+      "word": "张栋梁的衣服是穿反了吗",
+      "onboard_time": 1693723774,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 296625,
@@ -9867,12 +9915,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 284640,
+      "num": 383112,
+      "word": "深山里踢出19名大学生",
+      "onboard_time": 1693722332,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284575,
       "num": 284575,
       "word": "魏大勋再现孟宴臣名台词",
       "onboard_time": 1693149879,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284506,
+      "num": 209772,
+      "word": "王哲林把朱芳雨微信删了",
+      "onboard_time": 1693724494,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 284402,
@@ -10931,6 +10995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253633,
+      "num": 253633,
+      "word": "起猛了看到殷寿护妲己了",
+      "onboard_time": 1693722034,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252838,
       "num": 252838,
       "word": "吴磊说骑行是我的生活",
@@ -11305,14 +11377,6 @@
       "onboard_time": 1693551760,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 244625,
-      "num": 209077,
-      "word": "起猛了看到殷寿护妲己了",
-      "onboard_time": 1693722034,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 243908,
@@ -11923,6 +11987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229164,
+      "num": 209761,
+      "word": "想把马杨的这句话送给领导",
+      "onboard_time": 1693724558,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228734,
       "num": 228734,
       "word": "云之羽终极预告片",
@@ -12515,14 +12587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211977,
-      "num": 211977,
-      "word": "深山里踢出19名大学生",
-      "onboard_time": 1693722332,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211937,
       "num": 211937,
       "word": "肖战送你一束光",
@@ -12563,6 +12627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211175,
+      "num": 211175,
+      "word": "安乐传hi6暑期收视率TOP1",
+      "onboard_time": 1693723713,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
@@ -12601,6 +12673,14 @@
       "onboard_time": 1693537896,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210822,
+      "num": 209758,
+      "word": "蔡文静怕不是流的E型血",
+      "onboard_time": 1693724315,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 210777,
@@ -12689,6 +12769,14 @@
       "onboard_time": 1693541498,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209162,
+      "num": 209162,
+      "word": "女孩被男友嫌胖从115斤瘦到68斤",
+      "onboard_time": 1693725033,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208935,
@@ -15419,6 +15507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162714,
+      "num": 162714,
+      "word": "华晨宇演唱会抢票",
+      "onboard_time": 1693723174,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162162,
       "num": 162162,
       "word": "这种狗我一般会目送200米",
@@ -15641,6 +15737,14 @@
       "onboard_time": 1693494037,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157046,
+      "num": 157046,
+      "word": "张凌赫舞剑梦回长珩仙君",
+      "onboard_time": 1693723116,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 156786,
@@ -15867,6 +15971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 148236,
+      "num": 139597,
+      "word": "宫子羽的成长日记",
+      "onboard_time": 1693723895,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148157,
       "num": 148157,
       "word": "火树直播像在上网课",
@@ -16033,6 +16145,14 @@
       "onboard_time": 1693580021,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140657,
+      "num": 140657,
+      "word": "女富豪们是怎么白手起家的",
+      "onboard_time": 1693725156,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 139495,
@@ -17665,6 +17785,14 @@
       "onboard_time": 1693648832,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18556,
+      "num": 374604,
+      "word": "女生公交上晕倒驾驶员乘客暖心救助",
+      "onboard_time": 1693724433,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18117,
