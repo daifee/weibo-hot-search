@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693710994904,
+  "endTime": 1693712027601,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -27,7 +27,7 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 2234785,
+      "raw_hot": 2291601,
       "num": 1094615,
       "word": "洗完澡后不要马上穿内裤",
       "onboard_time": 1693708773,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1382211,
-      "num": 620118,
+      "num": 635094,
       "word": "向佐在KTV团建睡着了",
       "onboard_time": 1693704873,
       "rank": 10,
@@ -171,6 +171,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 843333,
+      "num": 637574,
+      "word": "傅首尔老刘参加再见爱人3",
+      "onboard_time": 1693711174,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 825247,
+      "num": 825247,
+      "word": "日本投降的真正原因是什么",
+      "onboard_time": 1693709555,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809098,
       "num": 683305,
       "word": "云之羽热度",
@@ -236,11 +252,19 @@
     },
     {
       "raw_hot": 684896,
-      "num": 580335,
+      "num": 583875,
       "word": "老番茄结婚照",
       "onboard_time": 1693708234,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 662265,
+      "num": 662265,
+      "word": "顾晓声 郭小四",
+      "onboard_time": 1693709915,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 650482,
@@ -299,14 +323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 573686,
-      "num": 573686,
-      "word": "顾晓声 郭小四",
-      "onboard_time": 1693709915,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 540866,
       "num": 540866,
       "word": "汪苏泷不分手的恋爱独唱失败",
@@ -363,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 483809,
+      "num": 483809,
+      "word": "骄阳伴我月饼礼盒",
+      "onboard_time": 1693710636,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 481897,
       "num": 481897,
       "word": "好羡慕23级大学生",
@@ -385,14 +409,6 @@
       "onboard_time": 1693649312,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 438300,
-      "num": 438300,
-      "word": "日本投降的真正原因是什么",
-      "onboard_time": 1693709555,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407485,
@@ -449,6 +465,14 @@
       "onboard_time": 1693663183,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327053,
+      "num": 327053,
+      "word": "呼市现大量哮喘患者急诊排长队",
+      "onboard_time": 1693711174,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321213,
@@ -531,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289666,
-      "num": 289666,
-      "word": "骄阳伴我月饼礼盒",
-      "onboard_time": 1693710636,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 285312,
+      "num": 285312,
+      "word": "弟弟想念住校姐姐半夜哭成泪人",
+      "onboard_time": 1693710454,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285306,
@@ -619,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245560,
+      "num": 245560,
+      "word": "田曦薇她好宠",
+      "onboard_time": 1693710872,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "侯雯元疯狂举铁给小白都整无语了",
@@ -641,14 +673,6 @@
       "onboard_time": 1693661321,
       "rank": 23,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 233348,
-      "num": 233348,
-      "word": "弟弟想念住校姐姐半夜哭成泪人",
-      "onboard_time": 1693710454,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228565,
@@ -705,6 +729,14 @@
       "onboard_time": 1693706612,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214137,
+      "num": 214137,
+      "word": "西班牙运动员与官员合影被要求下跪",
+      "onboard_time": 1693711052,
+      "rank": 32,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 207822,
@@ -777,6 +809,14 @@
       "onboard_time": 1693704873,
       "rank": 37,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 197438,
+      "num": 197438,
+      "word": "云之羽热度破7500",
+      "onboard_time": 1693711233,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 195452,
@@ -907,20 +947,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139417,
-      "num": 139417,
-      "word": "田曦薇她好宠",
-      "onboard_time": 1693710872,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138199,
       "num": 138199,
       "word": "这是你印象中的东北乡村吗",
       "onboard_time": 1693710573,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136834,
+      "num": 136834,
+      "word": "男孩睡醒后看奶奶伏案读书自觉加入",
+      "onboard_time": 1693711955,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136690,
+      "num": 136690,
+      "word": "于正希望内娱好好对待蒋依依",
+      "onboard_time": 1693712015,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 120223,

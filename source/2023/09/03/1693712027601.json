@@ -1,0 +1,410 @@
+{
+  "runTime": 1693712027601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2526806,
+        "num": 2526806,
+        "word": "全国唯一考生已经在答题了",
+        "onboard_time": 1693706075,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1526289,
+        "num": 1526289,
+        "word": "为什么无座和二等座是同价",
+        "onboard_time": 1693699108,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 5651,
+        "num": 1026020,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2291601,
+        "num": 982823,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 825247,
+        "num": 825247,
+        "word": "日本投降的真正原因是什么",
+        "onboard_time": 1693709555,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771713,
+        "num": 771713,
+        "word": "女大学生报到第一天拿着电瓶车钥匙哭了",
+        "onboard_time": 1693708895,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736096,
+        "num": 736096,
+        "word": "骄阳伴我广告竟然来真的",
+        "onboard_time": 1693705172,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730079,
+        "num": 730079,
+        "word": "陈都灵新剧演张凌赫的妈",
+        "onboard_time": 1693704693,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818280,
+        "num": 701273,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662265,
+        "num": 662265,
+        "word": "顾晓声 郭小四",
+        "onboard_time": 1693709915,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 843333,
+        "num": 637574,
+        "word": "傅首尔老刘参加再见爱人3",
+        "onboard_time": 1693711174,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 834080,
+        "num": 635094,
+        "word": "向佐在KTV团建睡着了",
+        "onboard_time": 1693704873,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583875,
+        "num": 583875,
+        "word": "老番茄结婚照",
+        "onboard_time": 1693708234,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 486313,
+        "num": 486313,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466364,
+        "num": 484255,
+        "word": "日本首相岸田文雄被检举",
+        "onboard_time": 1693696943,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 483809,
+        "num": 483809,
+        "word": "骄阳伴我月饼礼盒",
+        "onboard_time": 1693710636,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466677,
+        "num": 466677,
+        "word": "秀才曾被大妈举报欺诈51万",
+        "onboard_time": 1693697365,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 403517,
+        "num": 403517,
+        "word": "每个中国人都该记住0903",
+        "onboard_time": 1693696582,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368519,
+        "num": 368519,
+        "word": "梁朝伟李安双i并地走",
+        "onboard_time": 1693708954,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362046,
+        "num": 362046,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349378,
+        "num": 349378,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338218,
+        "num": 338218,
+        "word": "练背能治垮脸",
+        "onboard_time": 1693706493,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327053,
+        "num": 327053,
+        "word": "呼市现大量哮喘患者急诊排长队",
+        "onboard_time": 1693711174,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318605,
+        "num": 318605,
+        "word": "李相夷不是天下第一么",
+        "onboard_time": 1693702592,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295692,
+        "num": 295692,
+        "word": "李荣浩演唱会讲话时嘴里进了只蚊子",
+        "onboard_time": 1693705715,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291452,
+        "num": 291452,
+        "word": "刮刮乐卖疯了开彩票店是躺赚吗",
+        "onboard_time": 1693703614,
+        "rank": 25,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 290248,
+        "num": 290248,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289771,
+        "num": 289771,
+        "word": "利息少了130万房主美滋滋换电脑换手机",
+        "onboard_time": 1693665584,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 289442,
+        "num": 289442,
+        "word": "长相思相柳战死概念图",
+        "onboard_time": 1693705594,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285312,
+        "num": 285312,
+        "word": "弟弟想念住校姐姐半夜哭成泪人",
+        "onboard_time": 1693710454,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272261,
+        "num": 272261,
+        "word": "曾舜晞特别出演云之羽",
+        "onboard_time": 1693709613,
+        "rank": 30,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 245560,
+        "num": 245560,
+        "word": "田曦薇她好宠",
+        "onboard_time": 1693710872,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214137,
+        "num": 214137,
+        "word": "西班牙运动员与官员合影被要求下跪",
+        "onboard_time": 1693711052,
+        "rank": 32,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 208367,
+        "num": 208367,
+        "word": "台风海葵",
+        "onboard_time": 1693701752,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208039,
+        "num": 208039,
+        "word": "西安交大再现校长脱稿演讲迎新",
+        "onboard_time": 1693709375,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 197438,
+        "num": 197438,
+        "word": "云之羽热度破7500",
+        "onboard_time": 1693711233,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191146,
+        "num": 191146,
+        "word": "夭柳 不负相思意大电影",
+        "onboard_time": 1693701032,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184987,
+        "num": 184987,
+        "word": "看完奥本海默开始狂搜书单的我",
+        "onboard_time": 1693700550,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181498,
+        "num": 181498,
+        "word": "日版produce101女团主题曲",
+        "onboard_time": 1693706973,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177953,
+        "num": 177953,
+        "word": "雪姨的精神状态好超前啊",
+        "onboard_time": 1693698869,
+        "rank": 39,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 172961,
+        "num": 172961,
+        "word": "奶奶深夜给11个月大孙子包花形馄饨",
+        "onboard_time": 1693708593,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158597,
+        "num": 158597,
+        "word": "北京众多市民涌入干涸河道捡金粒",
+        "onboard_time": 1693696162,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158314,
+        "num": 158314,
+        "word": "妈妈身患渐冻症00后儿子呵护12年",
+        "onboard_time": 1693708954,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155211,
+        "num": 155211,
+        "word": "不要太快试图建立特殊关系",
+        "onboard_time": 1693702953,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154856,
+        "num": 154856,
+        "word": "刘宇宁回应蝉女短发造型",
+        "onboard_time": 1693702114,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150747,
+        "num": 150747,
+        "word": "年轻人在秀才倾城评论区做纪检委员",
+        "onboard_time": 1693707634,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 143220,
+        "num": 143220,
+        "word": "白百何新剧穿帮镜头",
+        "onboard_time": 1693702234,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136834,
+        "num": 136834,
+        "word": "男孩睡醒后看奶奶伏案读书自觉加入",
+        "onboard_time": 1693711955,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136690,
+        "num": 136690,
+        "word": "于正希望内娱好好对待蒋依依",
+        "onboard_time": 1693712015,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134436,
+        "num": 134436,
+        "word": "在上海吃到了42块的可丽饼",
+        "onboard_time": 1693671633,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}
