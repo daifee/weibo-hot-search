@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693782957906,
+  "endTime": 1693784038717,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -15,6 +15,14 @@
       "num": 8858861,
       "word": "北京顺义区2.7级地震",
       "onboard_time": 1693554041,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5865095,
+      "num": 7115095,
+      "word": "大熊猫成功死亡",
+      "onboard_time": 1693782326,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -121,14 +129,6 @@
       "onboard_time": 1693570720,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2781906,
-      "num": 2781906,
-      "word": "大熊猫成功死亡",
-      "onboard_time": 1693782326,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2742101,
@@ -856,6 +856,14 @@
       "word": "日本2亿头海参滞销养殖户实在没招",
       "onboard_time": 1693740043,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103709,
+      "num": 1103709,
+      "word": "花花没有妈妈了",
+      "onboard_time": 1693782567,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4531,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294378,
+      "num": 294378,
+      "word": "Twins说毛不易粤语像她们普通话一样标准",
+      "onboard_time": 1693782747,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293931,
       "num": 293931,
       "word": "许光汉帅的很稳定",
@@ -4953,14 +4969,6 @@
       "onboard_time": 1693639414,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 262308,
-      "num": 262308,
-      "word": "花花没有妈妈了",
-      "onboard_time": 1693782567,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262190,
@@ -5715,6 +5723,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 221182,
+      "num": 221182,
+      "word": "郭品超回山东泰安寻亲落泪",
+      "onboard_time": 1693782626,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 220960,
       "num": 220960,
       "word": "你还在开空调吗",
@@ -6161,6 +6177,14 @@
       "onboard_time": 1693648832,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204624,
+      "num": 204624,
+      "word": "好想告诉你第3季制作决定",
+      "onboard_time": 1693783168,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 204463,
@@ -7187,6 +7211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174539,
+      "num": 174539,
+      "word": "宋轶哎呀好身材5路透",
+      "onboard_time": 1693782326,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174473,
       "num": 174473,
       "word": "孙阳 阿年只是第七个嫌疑人",
@@ -7521,6 +7553,14 @@
       "onboard_time": 1693563938,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 154584,
+      "num": 154584,
+      "word": "阿森纳3比1曼联",
+      "onboard_time": 1693783530,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 154174,
@@ -8027,12 +8067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111383,
+      "num": 111383,
+      "word": "曾舜晞莲花楼后官宣了两个代言",
+      "onboard_time": 1693781061,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110161,
       "num": 402491,
       "word": "男子地铁内倒地休克他们接力抢救",
       "onboard_time": 1693638033,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109062,
+      "num": 109062,
+      "word": "人下意识的举动能说明很多信息",
+      "onboard_time": 1693760963,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 107513,
@@ -8067,14 +8123,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 104966,
-      "num": 104966,
-      "word": "曾舜晞莲花楼后官宣了两个代言",
-      "onboard_time": 1693781061,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 104894,
       "num": 104894,
       "word": "逃出大英博物馆第二集开播",
@@ -8091,20 +8139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101838,
-      "num": 101726,
-      "word": "人下意识的举动能说明很多信息",
-      "onboard_time": 1693760963,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 101324,
-      "num": 101324,
-      "word": "郭品超回山东泰安寻亲落泪",
-      "onboard_time": 1693782626,
-      "rank": 33,
-      "category": "社会新闻,艺人"
+      "raw_hot": 101056,
+      "num": 101056,
+      "word": "欧阳娜娜沙滩照",
+      "onboard_time": 1693783649,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 100671,
@@ -8129,6 +8169,14 @@
       "onboard_time": 1693523848,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98774,
+      "num": 98774,
+      "word": "台风海葵带来一场天空的浪漫",
+      "onboard_time": 1693770494,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97389,
@@ -8163,12 +8211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93466,
-      "num": 93466,
-      "word": "Twins说毛不易粤语像她们普通话一样标准",
-      "onboard_time": 1693782747,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 93278,
+      "num": 93278,
+      "word": "这种洗大猫的工作去哪应聘",
+      "onboard_time": 1693768394,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 92691,
@@ -8176,6 +8224,14 @@
       "word": "鼻炎的痛苦谁懂啊",
       "onboard_time": 1693780639,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91888,
+      "num": 91888,
+      "word": "白桃星座",
+      "onboard_time": 1693783892,
+      "rank": 44,
       "category": "情感"
     },
     {
@@ -8267,14 +8323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83537,
-      "num": 83537,
-      "word": "宋轶哎呀好身材5路透",
-      "onboard_time": 1693782326,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83459,
       "num": 539819,
       "word": "姐妹花同桌同分考进石大同专业同班",
@@ -8299,22 +8347,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 81889,
-      "num": 81889,
-      "word": "台风海葵带来一场天空的浪漫",
-      "onboard_time": 1693770494,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81819,
-      "num": 81819,
-      "word": "这种洗大猫的工作去哪应聘",
-      "onboard_time": 1693768394,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 79798,
       "num": 317374,
       "word": "退役搜救犬扒着训导员求抱抱",
@@ -8337,6 +8369,22 @@
       "onboard_time": 1693771574,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 78032,
+      "num": 78032,
+      "word": "周杰伦写给其他歌手歌曲合集",
+      "onboard_time": 1693765936,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 77560,
+      "num": 77560,
+      "word": "民警翻垃圾桶1小时找回3万救命钱",
+      "onboard_time": 1693778657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75767,
@@ -8379,11 +8427,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71182,
-      "num": 71182,
-      "word": "民警翻垃圾桶1小时找回3万救命钱",
-      "onboard_time": 1693778657,
-      "rank": 48,
+      "raw_hot": 68678,
+      "num": 1260855,
+      "word": "迎亚运的杭州好漂亮",
+      "onboard_time": 1693747242,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -8459,14 +8507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55829,
-      "num": 865815,
-      "word": "迎亚运的杭州好漂亮",
-      "onboard_time": 1693747242,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55663,
       "num": 208349,
       "word": "孩子发烧是开学综合症吗",
@@ -8513,14 +8553,6 @@
       "onboard_time": 1693475741,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49795,
-      "num": 49795,
-      "word": "周杰伦写给其他歌手歌曲合集",
-      "onboard_time": 1693765936,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 49701,

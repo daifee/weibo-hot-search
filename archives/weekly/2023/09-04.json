@@ -1,10 +1,10 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693782957906,
+  "endTime": 1693784038717,
   "band_list": [
     {
-      "raw_hot": 2781906,
-      "num": 2781906,
+      "raw_hot": 5865095,
+      "num": 7115095,
       "word": "大熊猫成功死亡",
       "onboard_time": 1693782326,
       "rank": 0,
@@ -19,20 +19,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1500051,
+      "num": 1500051,
+      "word": "为什么好多人都消失在朋友圈了",
+      "onboard_time": 1693749704,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1499561,
       "num": 1499561,
       "word": "今年已有5位网红因违法违规被封",
       "onboard_time": 1693749704,
       "rank": 1,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1409964,
-      "num": 1409964,
-      "word": "为什么好多人都消失在朋友圈了",
-      "onboard_time": 1693749704,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1307229,
@@ -48,6 +48,14 @@
       "word": "湖南被患者抹脖子牙医朋友发声",
       "onboard_time": 1693755636,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103709,
+      "num": 1103709,
+      "word": "花花没有妈妈了",
+      "onboard_time": 1693782567,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354756,
+      "num": 302442,
+      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+      "onboard_time": 1693742564,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352028,
       "num": 352028,
       "word": "ive",
@@ -171,12 +187,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 334069,
-      "num": 302442,
-      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
-      "onboard_time": 1693742564,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 317276,
+      "num": 282323,
+      "word": "女生125斤被质问你胖成啥了",
+      "onboard_time": 1693746706,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 310781,
@@ -187,20 +203,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294378,
+      "num": 294378,
+      "word": "Twins说毛不易粤语像她们普通话一样标准",
+      "onboard_time": 1693782747,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286476,
       "num": 286476,
       "word": "刘嘉玲 今天是你的日子",
       "onboard_time": 1693752227,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282323,
-      "num": 282323,
-      "word": "女生125斤被质问你胖成啥了",
-      "onboard_time": 1693746706,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 271743,
@@ -225,14 +241,6 @@
       "onboard_time": 1693750902,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262308,
-      "num": 262308,
-      "word": "花花没有妈妈了",
-      "onboard_time": 1693782567,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253529,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221182,
+      "num": 221182,
+      "word": "郭品超回山东泰安寻亲落泪",
+      "onboard_time": 1693782626,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 218855,
       "num": 218855,
       "word": "白百何就没演过受气的角色",
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204624,
+      "num": 204624,
+      "word": "好想告诉你第3季制作决定",
+      "onboard_time": 1693783168,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197876,
       "num": 197876,
       "word": "云为衫瀑布前假哭",
@@ -361,6 +385,14 @@
       "onboard_time": 1693751808,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174539,
+      "num": 174539,
+      "word": "宋轶哎呀好身材5路透",
+      "onboard_time": 1693782326,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 170457,
@@ -401,6 +433,14 @@
       "onboard_time": 1693737097,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154584,
+      "num": 154584,
+      "word": "阿森纳3比1曼联",
+      "onboard_time": 1693783530,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 134681,
@@ -451,28 +491,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 104966,
-      "num": 104966,
+      "raw_hot": 111383,
+      "num": 111383,
       "word": "曾舜晞莲花楼后官宣了两个代言",
       "onboard_time": 1693781061,
       "rank": 32,
       "category": "影视"
     },
     {
-      "raw_hot": 101838,
-      "num": 101726,
+      "raw_hot": 109062,
+      "num": 109062,
       "word": "人下意识的举动能说明很多信息",
       "onboard_time": 1693760963,
       "rank": 46,
       "category": "情感"
     },
     {
-      "raw_hot": 101324,
-      "num": 101324,
-      "word": "郭品超回山东泰安寻亲落泪",
-      "onboard_time": 1693782626,
-      "rank": 33,
-      "category": "社会新闻,艺人"
+      "raw_hot": 101056,
+      "num": 101056,
+      "word": "欧阳娜娜沙滩照",
+      "onboard_time": 1693783649,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 98908,
@@ -483,12 +523,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 93466,
-      "num": 93466,
-      "word": "Twins说毛不易粤语像她们普通话一样标准",
-      "onboard_time": 1693782747,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 98774,
+      "num": 98774,
+      "word": "台风海葵带来一场天空的浪漫",
+      "onboard_time": 1693770494,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93278,
+      "num": 93278,
+      "word": "这种洗大猫的工作去哪应聘",
+      "onboard_time": 1693768394,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 92691,
@@ -496,6 +544,14 @@
       "word": "鼻炎的痛苦谁懂啊",
       "onboard_time": 1693780639,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91888,
+      "num": 91888,
+      "word": "白桃星座",
+      "onboard_time": 1693783892,
+      "rank": 44,
       "category": "情感"
     },
     {
@@ -507,30 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83537,
-      "num": 83537,
-      "word": "宋轶哎呀好身材5路透",
-      "onboard_time": 1693782326,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 81889,
-      "num": 81889,
-      "word": "台风海葵带来一场天空的浪漫",
-      "onboard_time": 1693770494,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81819,
-      "num": 81819,
-      "word": "这种洗大猫的工作去哪应聘",
-      "onboard_time": 1693768394,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 78448,
       "num": 78448,
       "word": "鹊刀门传奇大结局",
@@ -539,11 +571,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71182,
-      "num": 71182,
+      "raw_hot": 78032,
+      "num": 78032,
+      "word": "周杰伦写给其他歌手歌曲合集",
+      "onboard_time": 1693765936,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 77560,
+      "num": 77560,
       "word": "民警翻垃圾桶1小时找回3万救命钱",
       "onboard_time": 1693778657,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68678,
+      "num": 1260855,
+      "word": "迎亚运的杭州好漂亮",
+      "onboard_time": 1693747242,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -587,28 +635,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55829,
-      "num": 865815,
-      "word": "迎亚运的杭州好漂亮",
-      "onboard_time": 1693747242,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51127,
       "num": 51127,
       "word": "罗杰夫认证林志颖泰国人气",
       "onboard_time": 1693775654,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49795,
-      "num": 49795,
-      "word": "周杰伦写给其他歌手歌曲合集",
-      "onboard_time": 1693765936,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 44866,
