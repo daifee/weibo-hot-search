@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693733643108,
+  "endTime": 1693736171853,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1695389,
-      "num": 384209,
+      "num": 466938,
       "word": "殡葬专业大一课表长这样",
       "onboard_time": 1693729118,
       "rank": 47,
@@ -203,6 +203,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1082705,
+      "num": 466439,
+      "word": "李湘太清醒了",
+      "onboard_time": 1693733614,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1053970,
+      "num": 1053970,
+      "word": "南京地铁票竟然是个币",
+      "onboard_time": 1693731575,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1036699,
       "num": 1036699,
       "word": "千万粉丝网红家中失火",
@@ -217,14 +233,6 @@
       "onboard_time": 1693709555,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1019300,
-      "num": 1019300,
-      "word": "南京地铁票竟然是个币",
-      "onboard_time": 1693731575,
-      "rank": 13,
-      "category": "旅游"
     },
     {
       "raw_hot": 1010858,
@@ -329,6 +337,14 @@
       "onboard_time": 1693665644,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 758300,
+      "num": 758300,
+      "word": "奥本海默",
+      "onboard_time": 1693728393,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 752241,
@@ -483,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 605251,
+      "num": 324672,
+      "word": "离职退群前好好发泄了一波情绪",
+      "onboard_time": 1693731157,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 604489,
       "num": 332516,
       "word": "刮刮乐卖疯了开彩票店是躺赚吗",
@@ -521,14 +545,6 @@
       "onboard_time": 1693713213,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 581254,
-      "num": 284435,
-      "word": "离职退群前好好发泄了一波情绪",
-      "onboard_time": 1693731157,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 564965,
@@ -577,14 +593,6 @@
       "onboard_time": 1693644633,
       "rank": 22,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 534126,
-      "num": 534126,
-      "word": "奥本海默",
-      "onboard_time": 1693728393,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 533101,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 482553,
-      "num": 482553,
+      "num": 1585863,
       "word": "大学生拿1万2奖学金给村里修路",
       "onboard_time": 1693720834,
       "rank": 14,
@@ -705,6 +713,14 @@
       "onboard_time": 1693706493,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 463476,
+      "num": 463476,
+      "word": "俄顶尖火箭科学家中毒身亡",
+      "onboard_time": 1693734937,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453199,
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424375,
+      "num": 424375,
+      "word": "曾有72岁老太跨越1700公里去见秀才",
+      "onboard_time": 1693732535,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 413928,
       "num": 413928,
       "word": "装腔启示录导演3年3部8分以上现代剧",
@@ -769,6 +793,14 @@
       "onboard_time": 1693727255,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390581,
+      "num": 390581,
+      "word": "王源留学日记更新",
+      "onboard_time": 1693732355,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 384972,
@@ -835,6 +867,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341509,
+      "num": 341509,
+      "word": "虞书欣卢昱晓一起跳手势舞",
+      "onboard_time": 1693732656,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 340435,
+      "num": 234124,
+      "word": "用张元英当头像被骚扰了",
+      "onboard_time": 1693735777,
+      "rank": 30,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 339949,
       "num": 339949,
       "word": "卢昱晓妆造好看",
@@ -848,6 +896,14 @@
       "word": "无忧渡",
       "onboard_time": 1693663183,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335176,
+      "num": 335176,
+      "word": "盛阳 今天俺是被宰羔阳",
+      "onboard_time": 1693734275,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -889,14 +945,6 @@
       "onboard_time": 1693664564,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315901,
-      "num": 315901,
-      "word": "虞书欣卢昱晓一起跳手势舞",
-      "onboard_time": 1693732656,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 314180,
@@ -956,19 +1004,11 @@
     },
     {
       "raw_hot": 308541,
-      "num": 283056,
+      "num": 302679,
       "word": "虞书欣新娘珍珠眼妆",
       "onboard_time": 1693732056,
       "rank": 32,
       "category": "影视,美妆"
-    },
-    {
-      "raw_hot": 307385,
-      "num": 307385,
-      "word": "王源留学日记更新",
-      "onboard_time": 1693732355,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 304274,
@@ -1027,6 +1067,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 287849,
+      "num": 287849,
+      "word": "为什么跑步要跑一休一",
+      "onboard_time": 1693732236,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285980,
       "num": 285980,
       "word": "女子受朋友邀请赴泰旅游后在缅甸失联",
@@ -1043,12 +1091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284724,
-      "num": 284724,
-      "word": "曾有72岁老太跨越1700公里去见秀才",
-      "onboard_time": 1693732535,
-      "rank": 19,
-      "category": "社会新闻,网红"
+      "raw_hot": 284744,
+      "num": 284744,
+      "word": "中医馆买酸梅汤",
+      "onboard_time": 1693734157,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 284640,
@@ -1195,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245723,
-      "num": 245723,
-      "word": "为什么跑步要跑一休一",
-      "onboard_time": 1693732236,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245560,
       "num": 245560,
       "word": "田曦薇她好宠",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1693664984,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235536,
+      "num": 235536,
+      "word": "女主女二姐妹情好好嗑",
+      "onboard_time": 1693733973,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 234922,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1693706612,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216885,
+      "num": 216885,
+      "word": "房东溜进租客房间被监控直播",
+      "onboard_time": 1693735656,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215455,
@@ -1515,6 +1571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193340,
+      "num": 193340,
+      "word": "小妞白百何vs姐感白百何",
+      "onboard_time": 1693733918,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192458,
       "num": 192458,
       "word": "魏大勋秋千pose大片",
@@ -1667,6 +1731,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174715,
+      "num": 949156,
+      "word": "休假辅警遇汽车自燃一路狂追灭火",
+      "onboard_time": 1693731457,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173021,
       "num": 173021,
       "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
@@ -1723,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162719,
+      "num": 162719,
+      "word": "第一次见这么懂事的金毛",
+      "onboard_time": 1693735836,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162714,
       "num": 162714,
       "word": "华晨宇演唱会抢票",
@@ -1755,28 +1835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160057,
-      "num": 160057,
-      "word": "休假辅警遇汽车自燃一路狂追灭火",
-      "onboard_time": 1693731457,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153567,
       "num": 153567,
       "word": "熊猫幼崽碰瓷妈妈失败现场",
       "onboard_time": 1693733614,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150094,
-      "num": 150094,
-      "word": "李湘太清醒了",
-      "onboard_time": 1693733614,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 149250,
@@ -1795,12 +1859,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146052,
+      "num": 802652,
+      "word": "罕见同心莲含露绽放太惊艳",
+      "onboard_time": 1693734632,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145623,
       "num": 145623,
       "word": "盛阳 社畜之歌",
       "onboard_time": 1693673191,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140094,
+      "num": 140094,
+      "word": "从小就有侵入性思维",
+      "onboard_time": 1693736140,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 138199,
@@ -1907,6 +1987,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81008,
+      "num": 1316267,
+      "word": "阿尔山风光美如画",
+      "onboard_time": 1693732175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66213,
       "num": 389111,
       "word": "女生公交上晕倒驾驶员乘客暖心救助",
@@ -1995,14 +2083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34473,
-      "num": 1156403,
-      "word": "阿尔山风光美如画",
-      "onboard_time": 1693732175,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33928,
       "num": 445308,
       "word": "女护士百米冲刺跪地救援溺水老人",
@@ -2016,6 +2096,14 @@
       "word": "父亲接站退役儿子被单手抱起",
       "onboard_time": 1693692856,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17951,
+      "num": 427747,
+      "word": "辅警与大叔合力救起溺水者后虚脱呕吐",
+      "onboard_time": 1693735236,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
