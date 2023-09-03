@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693730037008,
+  "endTime": 1693732487371,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -17,6 +17,14 @@
       "onboard_time": 1693706075,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2561131,
+      "num": 2561131,
+      "word": "税务局已收到秀才举报材料",
+      "onboard_time": 1693728816,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2517604,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1485058,
+      "num": 298315,
+      "word": "殡葬专业大一课表长这样",
+      "onboard_time": 1693729118,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1432512,
       "num": 1432512,
       "word": "解说怒吼质问中国男篮",
@@ -185,14 +201,6 @@
       "onboard_time": 1693661860,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1051756,
-      "num": 478325,
-      "word": "税务局已收到秀才举报材料",
-      "onboard_time": 1693728816,
-      "rank": 30,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1036699,
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 644923,
+      "num": 644923,
+      "word": "从此世上只有李莲花了",
+      "onboard_time": 1693728576,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 626505,
       "num": 573696,
       "word": "周杰伦与小女儿牵手照",
@@ -547,12 +563,28 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 534126,
+      "num": 534126,
+      "word": "奥本海默",
+      "onboard_time": 1693728393,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533101,
       "num": 507101,
       "word": "看完奥本海默开始狂搜书单的我",
       "onboard_time": 1693700550,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 532359,
+      "num": 219314,
+      "word": "离职退群前好好发泄了一波情绪",
+      "onboard_time": 1693731157,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 518589,
@@ -667,36 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 466040,
-      "num": 466040,
-      "word": "从此世上只有李莲花了",
-      "onboard_time": 1693728576,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 455290,
-      "num": 455290,
-      "word": "奥本海默",
-      "onboard_time": 1693728393,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 453199,
       "num": 328075,
       "word": "秀才账号被封",
       "onboard_time": 1693649312,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 442200,
-      "num": 248667,
-      "word": "殡葬专业大一课表长这样",
-      "onboard_time": 1693729118,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 440874,
@@ -739,12 +747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395673,
+      "num": 296902,
+      "word": "南京地铁票竟然是个币",
+      "onboard_time": 1693731575,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 391834,
       "num": 391834,
       "word": "正式确诊为金靖",
       "onboard_time": 1693713755,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 390988,
+      "num": 371465,
+      "word": "老太地铁如厕后消失民警推理寻人",
+      "onboard_time": 1693727255,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383549,
@@ -769,14 +793,6 @@
       "onboard_time": 1693658618,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 371465,
-      "num": 371465,
-      "word": "老太地铁如厕后消失民警推理寻人",
-      "onboard_time": 1693727255,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368988,
@@ -833,6 +849,14 @@
       "onboard_time": 1693709613,
       "rank": 27,
       "category": "影视,影视"
+    },
+    {
+      "raw_hot": 323609,
+      "num": 301632,
+      "word": "云之羽是be还是he",
+      "onboard_time": 1693729292,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 321213,
@@ -915,14 +939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301632,
-      "num": 301632,
-      "word": "云之羽是be还是he",
-      "onboard_time": 1693729292,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300886,
       "num": 300886,
       "word": "四舍五入只有27天就放寒假了",
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282901,
+      "num": 218396,
+      "word": "给狗狗买尿垫买错了尺寸",
+      "onboard_time": 1693729958,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279327,
       "num": 279327,
       "word": "公司逼员工主动离职常用套路",
@@ -1024,6 +1048,14 @@
       "word": "21岁休学29岁存款5000万",
       "onboard_time": 1693640554,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 267347,
+      "num": 267347,
+      "word": "原来捐步数的几毛钱真的有用",
+      "onboard_time": 1693729774,
+      "rank": 24,
       "category": "情感"
     },
     {
@@ -1131,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243404,
+      "num": 243404,
+      "word": "张凌赫回应没唱云之羽OST",
+      "onboard_time": 1693728098,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243219,
       "num": 243219,
       "word": "代号鸢",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1693664984,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235111,
+      "num": 217905,
+      "word": "虞书欣新娘珍珠眼妆",
+      "onboard_time": 1693732056,
+      "rank": 32,
+      "category": "影视,美妆"
     },
     {
       "raw_hot": 234922,
@@ -1227,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219699,
+      "num": 219699,
+      "word": "独居女生被陌生男子反锁屋内",
+      "onboard_time": 1693729118,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217786,
       "num": 217786,
       "word": "奶奶深夜给11个月大孙子包花形馄饨",
@@ -1259,12 +1315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213355,
-      "num": 213355,
-      "word": "张凌赫回应没唱云之羽OST",
-      "onboard_time": 1693728098,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 214986,
+      "num": 214986,
+      "word": "领导看到这个头像火速被劝退",
+      "onboard_time": 1693731273,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 213022,
@@ -1379,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199249,
+      "num": 199249,
+      "word": "闫妮让姚晨做套卷子清醒一下",
+      "onboard_time": 1693732175,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198279,
       "num": 198279,
       "word": "博士生汪顺报到",
@@ -1411,14 +1475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191160,
-      "num": 191160,
-      "word": "独居女生被陌生男子反锁屋内",
-      "onboard_time": 1693729118,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190068,
       "num": 190068,
       "word": "这个鸳鸯火锅是馒头做的",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1693707634,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189419,
+      "num": 189419,
+      "word": "魏大勋秋千pose大片",
+      "onboard_time": 1693731636,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189279,
@@ -1571,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171754,
+      "num": 171754,
+      "word": "王源留学日记更新",
+      "onboard_time": 1693732355,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170998,
       "num": 170998,
       "word": "生娃之前 可先看看李湘谷燕",
@@ -1643,6 +1715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160057,
+      "num": 160057,
+      "word": "休假辅警遇汽车自燃一路狂追灭火",
+      "onboard_time": 1693731457,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159360,
+      "num": 159360,
+      "word": "为什么跑步要跑一休一",
+      "onboard_time": 1693732236,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149250,
       "num": 149250,
       "word": "胡兵眼疾手快嘴还严",
@@ -1665,14 +1753,6 @@
       "onboard_time": 1693673191,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139641,
-      "num": 139641,
-      "word": "给狗狗买尿垫买错了尺寸",
-      "onboard_time": 1693729958,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 138199,
@@ -1864,6 +1944,22 @@
       "word": "父亲接站退役儿子被单手抱起",
       "onboard_time": 1693692856,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21284,
+      "num": 910479,
+      "word": "阿尔山风光美如画",
+      "onboard_time": 1693732175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19772,
+      "num": 296160,
+      "word": "7旬保安冲入火场救火全身被熏黑",
+      "onboard_time": 1693731696,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
