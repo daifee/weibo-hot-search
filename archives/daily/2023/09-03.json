@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693745101560,
+  "endTime": 1693747054223,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -115,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1712419,
+      "num": 1712419,
+      "word": "华科新闻学院院长回应张雪峰",
+      "onboard_time": 1693740528,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1697639,
       "num": 1697639,
       "word": "北京众多市民涌入干涸河道捡金粒",
@@ -193,14 +201,6 @@
       "onboard_time": 1693702234,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1256365,
-      "num": 1256365,
-      "word": "华科新闻学院院长回应张雪峰",
-      "onboard_time": 1693740528,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1111667,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 958724,
+      "num": 305425,
+      "word": "工作后发现5000块真的很难挣",
+      "onboard_time": 1693745141,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 953646,
       "num": 953646,
       "word": "梁朝伟刘嘉玲亲亲",
@@ -361,6 +369,14 @@
       "onboard_time": 1693670798,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 806607,
+      "num": 483761,
+      "word": "黄明昊在韩国说中文",
+      "onboard_time": 1693745324,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 803861,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709022,
+      "num": 303434,
+      "word": "为什么现在年轻人很少去KTV了",
+      "onboard_time": 1693745141,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 708628,
       "num": 708628,
       "word": "女子修复双眼皮后竟然多个洞",
@@ -553,6 +577,14 @@
       "onboard_time": 1693724192,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 632347,
+      "num": 483661,
+      "word": "8岁女孩去世捐遗体开学第1天成大体老师",
+      "onboard_time": 1693743102,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 627576,
@@ -643,12 +675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588452,
+      "num": 588452,
+      "word": "宫远徵叫姐姐",
+      "onboard_time": 1693745501,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578019,
       "num": 308363,
       "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
       "onboard_time": 1693742564,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568426,
+      "num": 302545,
+      "word": "张晚意工作室宣发审美",
+      "onboard_time": 1693745262,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 564965,
@@ -771,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503873,
-      "num": 450015,
-      "word": "8岁女孩去世捐遗体开学第1天成大体老师",
-      "onboard_time": 1693743102,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 498895,
       "num": 498895,
       "word": "夭柳 不负相思意大电影",
@@ -803,10 +843,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483868,
+      "num": 483868,
+      "word": "长沙烧烤的分量真的这么少吗",
+      "onboard_time": 1693741964,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 483809,
       "num": 483809,
       "word": "骄阳伴我月饼礼盒",
       "onboard_time": 1693710636,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 483492,
+      "num": 483492,
+      "word": "肖战片场笑得前仰后合",
+      "onboard_time": 1693744422,
       "rank": 26,
       "category": "影视"
     },
@@ -841,14 +897,6 @@
       "onboard_time": 1693706493,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462055,
-      "num": 462055,
-      "word": "长沙烧烤的分量真的这么少吗",
-      "onboard_time": 1693741964,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 453199,
@@ -1099,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316632,
+      "num": 243999,
+      "word": "顾客吃必胜客披萨一口咬在铁片上",
+      "onboard_time": 1693746281,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314180,
       "num": 314180,
       "word": "刘宇宁回应蝉女短发造型",
@@ -1171,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306179,
+      "num": 306179,
+      "word": "Mate60遥遥领先",
+      "onboard_time": 1693745680,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 304274,
       "num": 304274,
       "word": "中国男篮崩盘",
@@ -1235,6 +1299,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 287940,
+      "num": 287940,
+      "word": "茶朔洵 既然被你发现了",
+      "onboard_time": 1693743580,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286227,
       "num": 283637,
       "word": "从小就有侵入性思维",
@@ -1291,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276960,
-      "num": 276960,
-      "word": "肖战片场笑得前仰后合",
-      "onboard_time": 1693744422,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 275319,
       "num": 275319,
       "word": "蔡文静怕不是流的E型血",
@@ -1312,6 +1376,14 @@
       "word": "21岁休学29岁存款5000万",
       "onboard_time": 1693640554,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 267622,
+      "num": 243714,
+      "word": "女生125斤被质问你胖成啥了",
+      "onboard_time": 1693746706,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -1361,14 +1433,6 @@
       "onboard_time": 1693671277,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260962,
-      "num": 260962,
-      "word": "茶朔洵 既然被你发现了",
-      "onboard_time": 1693743580,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 256812,
@@ -2163,11 +2227,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140624,
+      "num": 140624,
+      "word": "果然写作是一种天赋",
+      "onboard_time": 1693746463,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138199,
       "num": 138199,
       "word": "这是你印象中的东北乡村吗",
       "onboard_time": 1693710573,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137775,
+      "num": 137775,
+      "word": "汪苏泷朋友圈是早C晚E",
+      "onboard_time": 1693747004,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2383,6 +2463,14 @@
       "num": 445308,
       "word": "女护士百米冲刺跪地救援溺水老人",
       "onboard_time": 1693728098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33218,
+      "num": 436934,
+      "word": "老兵姐姐穿军装接空军妹妹退伍",
+      "onboard_time": 1693746109,
       "rank": 14,
       "category": "社会新闻"
     },
