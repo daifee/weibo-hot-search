@@ -1,0 +1,410 @@
+{
+  "runTime": 1693714742342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1947828,
+        "num": 1947828,
+        "word": "全国唯一考生已经在答题了",
+        "onboard_time": 1693706075,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1513556,
+        "num": 1513556,
+        "word": "傅首尔老刘参加再见爱人3",
+        "onboard_time": 1693711174,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4854,
+        "num": 1349847,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2020754,
+        "num": 1293429,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1217667,
+        "num": 1217667,
+        "word": "于正希望内娱好好对待蒋依依",
+        "onboard_time": 1693712015,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1167331,
+        "num": 1167331,
+        "word": "为什么无座和二等座是同价",
+        "onboard_time": 1693699108,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1021326,
+        "num": 1021326,
+        "word": "日本投降的真正原因是什么",
+        "onboard_time": 1693709555,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523593,
+        "num": 523593,
+        "word": "陈都灵新剧演张凌赫的妈",
+        "onboard_time": 1693704693,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518589,
+        "num": 518589,
+        "word": "江苏一学校开学一年级仅3人",
+        "onboard_time": 1693712436,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 485898,
+        "num": 485898,
+        "word": "骄阳伴我广告竟然来真的",
+        "onboard_time": 1693705172,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 768131,
+        "num": 479113,
+        "word": "法老在老番茄婚礼唱健将",
+        "onboard_time": 1693713274,
+        "rank": 10,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 545940,
+        "num": 475591,
+        "word": "向佐在KTV团建睡着了",
+        "onboard_time": 1693704873,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464691,
+        "num": 464691,
+        "word": "虞书欣说拍泥浆戏很像巧克力广告",
+        "onboard_time": 1693713213,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429410,
+        "num": 429410,
+        "word": "女大学生报到第一天拿着电瓶车钥匙哭了",
+        "onboard_time": 1693708895,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360495,
+        "num": 418720,
+        "word": "日本首相岸田文雄被检举",
+        "onboard_time": 1693696943,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 418424,
+        "num": 418424,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391261,
+        "num": 391261,
+        "word": "顾晓声 郭小四",
+        "onboard_time": 1693709915,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374347,
+        "num": 374347,
+        "word": "老番茄结婚照",
+        "onboard_time": 1693708234,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 348511,
+        "num": 348511,
+        "word": "正式确诊为金靖",
+        "onboard_time": 1693713755,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339674,
+        "num": 339674,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657698,
+        "num": 338368,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381232,
+        "num": 336320,
+        "word": "呼市现大量哮喘患者急诊排长队",
+        "onboard_time": 1693711174,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333727,
+        "num": 333727,
+        "word": "曾舜晞特别出演云之羽",
+        "onboard_time": 1693709613,
+        "rank": 22,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 304526,
+        "num": 304526,
+        "word": "秀才曾被大妈举报欺诈51万",
+        "onboard_time": 1693697365,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 330761,
+        "num": 303596,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301804,
+        "num": 301804,
+        "word": "骄阳伴我月饼礼盒",
+        "onboard_time": 1693710636,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296815,
+        "num": 296815,
+        "word": "尚雯婕直播回应聂心远被立案调查",
+        "onboard_time": 1693712192,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288719,
+        "num": 288719,
+        "word": "西班牙运动员与官员合影被要求下跪",
+        "onboard_time": 1693711052,
+        "rank": 27,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 268700,
+        "num": 268700,
+        "word": "9岁摄影师拍胡歌吴磊",
+        "onboard_time": 1693714238,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256357,
+        "num": 256357,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323228,
+        "num": 254462,
+        "word": "怪不得都说不要吃虾头",
+        "onboard_time": 1693714055,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 260553,
+        "num": 253674,
+        "word": "谭卓 喜欢费翔爱咋咋地",
+        "onboard_time": 1693714296,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247347,
+        "num": 247347,
+        "word": "外甥女舍不得小姨上大学钻进行李箱",
+        "onboard_time": 1693713873,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245841,
+        "num": 245841,
+        "word": "李相夷不是天下第一么",
+        "onboard_time": 1693702592,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241400,
+        "num": 241400,
+        "word": "男子为蹭热度制造河道淘金谣言",
+        "onboard_time": 1693713935,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236300,
+        "num": 236300,
+        "word": "李荣浩演唱会讲话时嘴里进了只蚊子",
+        "onboard_time": 1693705715,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240062,
+        "num": 233996,
+        "word": "刮刮乐卖疯了开彩票店是躺赚吗",
+        "onboard_time": 1693703614,
+        "rank": 36,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 213904,
+        "num": 213904,
+        "word": "田曦薇她好宠",
+        "onboard_time": 1693710872,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210400,
+        "num": 210400,
+        "word": "台风海葵",
+        "onboard_time": 1693701752,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201387,
+        "num": 201387,
+        "word": "梁朝伟李安双i并地走",
+        "onboard_time": 1693708954,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200031,
+        "num": 200031,
+        "word": "12306回应高铁动车二等座无座同价",
+        "onboard_time": 1693714595,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175897,
+        "num": 175897,
+        "word": "长相思相柳战死概念图",
+        "onboard_time": 1693705594,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170047,
+        "num": 170047,
+        "word": "和费翔聊完的许知远",
+        "onboard_time": 1693714356,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163715,
+        "num": 163715,
+        "word": "男孩睡醒后看奶奶伏案读书自觉加入",
+        "onboard_time": 1693711955,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159626,
+        "num": 159626,
+        "word": "夭柳 不负相思意大电影",
+        "onboard_time": 1693701032,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149819,
+        "num": 149819,
+        "word": "奥本海默是历史",
+        "onboard_time": 1693714535,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149774,
+        "num": 149774,
+        "word": "弟弟想念住校姐姐半夜哭成泪人",
+        "onboard_time": 1693710454,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148971,
+        "num": 148971,
+        "word": "西安交大再现校长脱稿演讲迎新",
+        "onboard_time": 1693709375,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 146037,
+        "num": 146037,
+        "word": "每个中国人都该记住0903",
+        "onboard_time": 1693696582,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135980,
+        "num": 135980,
+        "word": "练背能治垮脸",
+        "onboard_time": 1693706493,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}

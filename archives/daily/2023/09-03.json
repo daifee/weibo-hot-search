@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693712027601,
+  "endTime": 1693714742342,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2291601,
-      "num": 1094615,
+      "num": 1293429,
       "word": "洗完澡后不要马上穿内裤",
       "onboard_time": 1693708773,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1513556,
+      "num": 1513556,
+      "word": "傅首尔老刘参加再见爱人3",
+      "onboard_time": 1693711174,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1432512,
       "num": 1432512,
       "word": "解说怒吼质问中国男篮",
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1217667,
+      "num": 1217667,
+      "word": "于正希望内娱好好对待蒋依依",
+      "onboard_time": 1693712015,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1105069,
       "num": 1105069,
       "word": "张凌赫粉底太白了",
@@ -129,6 +145,14 @@
       "onboard_time": 1693669720,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1021326,
+      "num": 1021326,
+      "word": "日本投降的真正原因是什么",
+      "onboard_time": 1693709555,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1010858,
@@ -171,28 +195,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 843333,
-      "num": 637574,
-      "word": "傅首尔老刘参加再见爱人3",
-      "onboard_time": 1693711174,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 825247,
-      "num": 825247,
-      "word": "日本投降的真正原因是什么",
-      "onboard_time": 1693709555,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 809098,
       "num": 683305,
       "word": "云之羽热度",
       "onboard_time": 1693670798,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 768131,
+      "num": 479113,
+      "word": "法老在老番茄婚礼唱健将",
+      "onboard_time": 1693713274,
+      "rank": 10,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 767584,
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518589,
+      "num": 518589,
+      "word": "江苏一学校开学一年级仅3人",
+      "onboard_time": 1693712436,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 505708,
       "num": 505708,
       "word": "台风海葵",
@@ -403,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464691,
+      "num": 464691,
+      "word": "虞书欣说拍泥浆戏很像巧克力广告",
+      "onboard_time": 1693713213,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453199,
       "num": 328075,
       "word": "秀才账号被封",
@@ -427,11 +459,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381232,
+      "num": 336320,
+      "word": "呼市现大量哮喘患者急诊排长队",
+      "onboard_time": 1693711174,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373306,
       "num": 373306,
       "word": "易烊千玺金鹿奖最佳男演员",
       "onboard_time": 1693658618,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 348511,
+      "num": 348511,
+      "word": "正式确诊为金靖",
+      "onboard_time": 1693713755,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -467,12 +515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327053,
-      "num": 327053,
-      "word": "呼市现大量哮喘患者急诊排长队",
-      "onboard_time": 1693711174,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 333727,
+      "num": 333727,
+      "word": "曾舜晞特别出演云之羽",
+      "onboard_time": 1693709613,
+      "rank": 27,
+      "category": "影视,影视"
+    },
+    {
+      "raw_hot": 323228,
+      "num": 254462,
+      "word": "怪不得都说不要吃虾头",
+      "onboard_time": 1693714055,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 321213,
@@ -555,6 +611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296815,
+      "num": 296815,
+      "word": "尚雯婕直播回应聂心远被立案调查",
+      "onboard_time": 1693712192,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288719,
+      "num": 288719,
+      "word": "西班牙运动员与官员合影被要求下跪",
+      "onboard_time": 1693711052,
+      "rank": 32,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 285312,
       "num": 285312,
       "word": "弟弟想念住校姐姐半夜哭成泪人",
@@ -563,20 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285306,
-      "num": 285306,
-      "word": "曾舜晞特别出演云之羽",
-      "onboard_time": 1693709613,
-      "rank": 27,
-      "category": "影视,影视"
-    },
-    {
       "raw_hot": 279327,
       "num": 279327,
       "word": "公司逼员工主动离职常用套路",
       "onboard_time": 1693653757,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 268700,
+      "num": 268700,
+      "word": "9岁摄影师拍胡歌吴磊",
+      "onboard_time": 1693714238,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268100,
@@ -627,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260553,
+      "num": 253674,
+      "word": "谭卓 喜欢费翔爱咋咋地",
+      "onboard_time": 1693714296,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256812,
       "num": 256812,
       "word": "侯雯元真的跳了科目一",
@@ -643,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247347,
+      "num": 247347,
+      "word": "外甥女舍不得小姨上大学钻进行李箱",
+      "onboard_time": 1693713873,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245560,
       "num": 245560,
       "word": "田曦薇她好宠",
@@ -657,6 +745,14 @@
       "onboard_time": 1693666124,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241400,
+      "num": 241400,
+      "word": "男子为蹭热度制造河道淘金谣言",
+      "onboard_time": 1693713935,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241344,
@@ -731,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214137,
-      "num": 214137,
-      "word": "西班牙运动员与官员合影被要求下跪",
-      "onboard_time": 1693711052,
-      "rank": 32,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 207822,
       "num": 207822,
       "word": "倪妮银色羽毛西装",
@@ -801,6 +889,14 @@
       "onboard_time": 1693667867,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200031,
+      "num": 200031,
+      "word": "12306回应高铁动车二等座无座同价",
+      "onboard_time": 1693714595,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198279,
@@ -907,12 +1003,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 170047,
+      "num": 170047,
+      "word": "和费翔聊完的许知远",
+      "onboard_time": 1693714356,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164942,
       "num": 164942,
       "word": "KAI和Bada超绝的双人舞",
       "onboard_time": 1693704515,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163715,
+      "num": 163715,
+      "word": "男孩睡醒后看奶奶伏案读书自觉加入",
+      "onboard_time": 1693711955,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161654,
@@ -939,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149819,
+      "num": 149819,
+      "word": "奥本海默是历史",
+      "onboard_time": 1693714535,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145623,
       "num": 145623,
       "word": "盛阳 社畜之歌",
@@ -953,22 +1073,6 @@
       "onboard_time": 1693710573,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136834,
-      "num": 136834,
-      "word": "男孩睡醒后看奶奶伏案读书自觉加入",
-      "onboard_time": 1693711955,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136690,
-      "num": 136690,
-      "word": "于正希望内娱好好对待蒋依依",
-      "onboard_time": 1693712015,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 120223,
