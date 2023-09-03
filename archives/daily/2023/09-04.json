@@ -1,10 +1,10 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693757979266,
+  "endTime": 1693758932712,
   "band_list": [
     {
-      "raw_hot": 1639893,
-      "num": 1639893,
+      "raw_hot": 2081687,
+      "num": 2081687,
       "word": "适合做老婆 不是赞扬是冒犯",
       "onboard_time": 1693755518,
       "rank": 0,
@@ -35,8 +35,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1121977,
-      "num": 392586,
+      "raw_hot": 1135570,
+      "num": 1135570,
       "word": "湖南被患者抹脖子牙医朋友发声",
       "onboard_time": 1693755636,
       "rank": 11,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 864192,
+      "num": 324944,
+      "word": "清华大学研究生重量级宿舍",
+      "onboard_time": 1693757434,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 809625,
       "num": 809625,
       "word": "成都地震",
@@ -59,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 738191,
+      "raw_hot": 761307,
       "num": 372763,
       "word": "我们学校复变函数老师是杨幂大伯",
       "onboard_time": 1693755399,
@@ -131,7 +139,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 374646,
+      "raw_hot": 388257,
       "num": 304035,
       "word": "工作后发现5000块真的很难挣",
       "onboard_time": 1693745141,
@@ -209,14 +217,6 @@
       "onboard_time": 1693750902,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259386,
-      "num": 245964,
-      "word": "清华大学研究生重量级宿舍",
-      "onboard_time": 1693757434,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 253529,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208194,
+      "num": 208194,
+      "word": "林一是巨人吧",
+      "onboard_time": 1693757854,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197876,
       "num": 197876,
       "word": "云为衫瀑布前假哭",
@@ -339,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 168522,
+      "num": 324585,
+      "word": "警犬找回走失男子被奖励一盆鸡腿",
+      "onboard_time": 1693757613,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167528,
       "num": 167528,
       "word": "决赛圈遇到盾牌让我兴奋",
@@ -371,20 +387,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134493,
-      "num": 134493,
-      "word": "林一是巨人吧",
-      "onboard_time": 1693757854,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 132513,
+      "num": 132513,
+      "word": "南号尚风 搬书",
+      "onboard_time": 1693757973,
+      "rank": 44,
+      "category": "动漫"
     },
     {
-      "raw_hot": 109903,
-      "num": 305284,
-      "word": "警犬找回走失男子被奖励一盆鸡腿",
-      "onboard_time": 1693757613,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 126072,
+      "num": 126072,
+      "word": "小夭 猛兽终会破笼",
+      "onboard_time": 1693758333,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114311,
+      "num": 114311,
+      "word": "李安舒淇刘嘉玲胡歌合影",
+      "onboard_time": 1693742981,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 87798,
