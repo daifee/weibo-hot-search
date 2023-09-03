@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693751620136,
+  "endTime": 1693754141700,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3576649,
+      "num": 3576649,
+      "word": "成都地震",
+      "onboard_time": 1693751985,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3452863,
       "num": 3452863,
       "word": "微信图片可以生成excel",
@@ -57,6 +65,14 @@
       "onboard_time": 1693665824,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3304469,
+      "num": 3304469,
+      "word": "为什么好多人都消失在朋友圈了",
+      "onboard_time": 1693749704,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 3268067,
@@ -105,14 +121,6 @@
       "onboard_time": 1693570720,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2764177,
-      "num": 2764177,
-      "word": "为什么好多人都消失在朋友圈了",
-      "onboard_time": 1693749704,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 2742101,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 2085166,
-      "num": 482672,
+      "num": 692155,
       "word": "肛肠科待太久对帅哥都无感了",
       "onboard_time": 1693749465,
       "rank": 20,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1378745,
+      "num": 1378745,
+      "word": "今年已有5位网红因违法违规被封",
+      "onboard_time": 1693749704,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1359114,
       "num": 1359114,
       "word": "特斯拉Model3",
@@ -745,6 +761,14 @@
       "onboard_time": 1693621834,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1159740,
+      "num": 1159740,
+      "word": "9月1日 9月3日",
+      "onboard_time": 1693750785,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1156014,
@@ -1064,6 +1088,22 @@
       "word": "哪个演员敢拿金熊猫奖",
       "onboard_time": 1693640253,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 938240,
+      "num": 938240,
+      "word": "你什么档次敢骂雪姨",
+      "onboard_time": 1693750063,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 937702,
+      "num": 937702,
+      "word": "韩版黄雨萱",
+      "onboard_time": 1693750727,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -1443,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 769059,
-      "num": 555036,
-      "word": "韩版黄雨萱",
-      "onboard_time": 1693750727,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 767584,
       "num": 767584,
       "word": "陈都灵新剧演张凌赫的妈",
@@ -1539,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732428,
+      "num": 732428,
+      "word": "ive",
+      "onboard_time": 1693751385,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732079,
       "num": 732079,
       "word": "雪姨的精神状态好超前啊",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1693571378,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 717011,
+      "num": 717011,
+      "word": "央视评华为争气机",
+      "onboard_time": 1693749767,
+      "rank": 28,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 713357,
@@ -1747,14 +1795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 678631,
-      "num": 659390,
-      "word": "你什么档次敢骂雪姨",
-      "onboard_time": 1693750063,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 678332,
       "num": 492465,
       "word": "六公主十一首播人生大事",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1693709915,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 661528,
-      "num": 661528,
-      "word": "央视评华为争气机",
-      "onboard_time": 1693749767,
-      "rank": 28,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 656161,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1693728576,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 649787,
+      "num": 649787,
+      "word": "原来真有人后发际线长到脖子上",
+      "onboard_time": 1693750483,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 648183,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1693577741,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607814,
+      "num": 607814,
+      "word": "刘嘉玲 今天是你的日子",
+      "onboard_time": 1693752227,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 607516,
@@ -2427,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 536292,
+      "num": 478312,
+      "word": "猫的树是懂纯爱的",
+      "onboard_time": 1693750902,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535346,
       "num": 535346,
       "word": "宿舍搬来了一个新的女孩子",
@@ -2489,14 +2545,6 @@
       "onboard_time": 1693467460,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 523156,
-      "num": 523156,
-      "word": "今年已有5位网红因违法违规被封",
-      "onboard_time": 1693749704,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 520801,
@@ -2617,6 +2665,14 @@
       "onboard_time": 1693647393,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503144,
+      "num": 503144,
+      "word": "都江堰市3.4级地震",
+      "onboard_time": 1693752884,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502242,
@@ -3019,14 +3075,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 451159,
-      "num": 341676,
-      "word": "原来真有人后发际线长到脖子上",
-      "onboard_time": 1693750483,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 449842,
       "num": 449842,
       "word": "上山下全场第一",
@@ -3059,12 +3107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446329,
-      "num": 446329,
-      "word": "9月1日 9月3日",
-      "onboard_time": 1693750785,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 443322,
+      "num": 429463,
+      "word": "女子被狗撕碎左脸缝了500多针",
+      "onboard_time": 1693753483,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441427,
@@ -3113,6 +3161,14 @@
       "onboard_time": 1693714296,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436624,
+      "num": 436624,
+      "word": "Fly",
+      "onboard_time": 1693751808,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 434012,
@@ -3184,6 +3240,14 @@
       "word": "乔尔杰维奇用人",
       "onboard_time": 1693662883,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 425429,
+      "num": 425429,
+      "word": "美国男篮不敌立陶宛男篮",
+      "onboard_time": 1693753426,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -3417,6 +3481,22 @@
       "onboard_time": 1693529975,
       "rank": 30,
       "category": "自然"
+    },
+    {
+      "raw_hot": 397271,
+      "num": 397271,
+      "word": "皮肤和情绪的关系",
+      "onboard_time": 1693750606,
+      "rank": 35,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 394996,
+      "num": 329025,
+      "word": "奥本海默里消失的她",
+      "onboard_time": 1693752647,
+      "rank": 30,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 394806,
@@ -3896,14 +3976,6 @@
       "word": "国色芳华女主",
       "onboard_time": 1693641873,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 343355,
-      "num": 343355,
-      "word": "猫的树是懂纯爱的",
-      "onboard_time": 1693750902,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -4427,6 +4499,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 291110,
+      "num": 291110,
+      "word": "费翔时尚芭莎",
+      "onboard_time": 1693751685,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289613,
       "num": 289613,
       "word": "星空",
@@ -4587,6 +4667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277323,
+      "num": 277323,
+      "word": "单依纯清唱想你时风起",
+      "onboard_time": 1693751263,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277216,
       "num": 277216,
       "word": "肖战说盛阳更贴近生活",
@@ -4617,6 +4705,14 @@
       "onboard_time": 1693612470,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275325,
+      "num": 275325,
+      "word": "汉服女生这个系列对我眼睛太好了",
+      "onboard_time": 1693751627,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 275319,
@@ -4673,6 +4769,14 @@
       "onboard_time": 1693534175,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270870,
+      "num": 270870,
+      "word": "薛之谦多来东北好不好",
+      "onboard_time": 1693751808,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 270592,
@@ -5115,14 +5219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247292,
-      "num": 247292,
-      "word": "皮肤和情绪的关系",
-      "onboard_time": 1693750606,
-      "rank": 35,
-      "category": "美妆,幽默"
-    },
-    {
       "raw_hot": 246620,
       "num": 246620,
       "word": "蔡国庆可云式演技",
@@ -5161,6 +5257,14 @@
       "onboard_time": 1693551760,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243722,
+      "num": 243722,
+      "word": "当幼师妈妈有个边界感超强的儿子",
+      "onboard_time": 1693751747,
+      "rank": 42,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 243574,
@@ -5603,6 +5707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216336,
+      "num": 216336,
+      "word": "殷寿营帐妲己求生 彪哥姬发篝火斗殴",
+      "onboard_time": 1693752170,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216006,
       "num": 258717,
       "word": "苏拉再次登陆广东最大风力10级",
@@ -5715,6 +5827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209008,
+      "num": 209008,
+      "word": "老林又哭了",
+      "onboard_time": 1693753904,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208935,
       "num": 237775,
       "word": "被九岁小朋友的便贴可爱到了",
@@ -5769,6 +5889,14 @@
       "onboard_time": 1693732656,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207881,
+      "num": 207881,
+      "word": "狼队晋级夏季赛总决赛",
+      "onboard_time": 1693753185,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 207822,
@@ -6059,14 +6187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200913,
-      "num": 200913,
-      "word": "ive",
-      "onboard_time": 1693751385,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200720,
       "num": 191771,
       "word": "审判奥本海默",
@@ -6113,14 +6233,6 @@
       "onboard_time": 1693656758,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200039,
-      "num": 200039,
-      "word": "单依纯清唱想你时风起",
-      "onboard_time": 1693751263,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 199673,
@@ -6299,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195836,
+      "num": 195836,
+      "word": "无与伦比的美丽",
+      "onboard_time": 1693753664,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195452,
       "num": 195452,
       "word": "李荣浩演唱会",
@@ -6441,6 +6561,22 @@
       "onboard_time": 1693584395,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191343,
+      "num": 191343,
+      "word": "为什么现在喜欢钓鱼的人变多了",
+      "onboard_time": 1693753967,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 191309,
+      "num": 191309,
+      "word": "阿森纳vs曼联",
+      "onboard_time": 1693753664,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 191281,
@@ -7708,7 +7844,7 @@
     },
     {
       "raw_hot": 112455,
-      "num": 1685701,
+      "num": 2221067,
       "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
       "onboard_time": 1693747544,
       "rank": 2,
