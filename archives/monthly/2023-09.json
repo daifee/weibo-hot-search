@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693776851703,
+  "endTime": 1693779277421,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -8363,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57858,
+      "num": 57858,
+      "word": "男子退伍妻子偷偷中途上车送惊喜",
+      "onboard_time": 1693778055,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55663,
       "num": 208349,
       "word": "孩子发烧是开学综合症吗",
@@ -8401,6 +8409,14 @@
       "onboard_time": 1693503741,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 51127,
+      "num": 51127,
+      "word": "罗杰夫认证林志颖泰国人气",
+      "onboard_time": 1693775654,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 50534,
@@ -8473,6 +8489,14 @@
       "onboard_time": 1693503619,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 45625,
+      "num": 45625,
+      "word": "台风海葵带来一场天空的浪漫",
+      "onboard_time": 1693770494,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44866,
@@ -8587,14 +8611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37621,
-      "num": 31428,
-      "word": "台风海葵带来一场天空的浪漫",
-      "onboard_time": 1693770494,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36371,
       "num": 36371,
       "word": "梁朝伟哭哭包",
@@ -8609,6 +8625,14 @@
       "onboard_time": 1693511053,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35951,
+      "num": 35951,
+      "word": "鹊刀门传奇大结局",
+      "onboard_time": 1693771574,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 35554,
@@ -8659,14 +8683,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 31124,
-      "num": 28557,
-      "word": "罗杰夫认证林志颖泰国人气",
-      "onboard_time": 1693775654,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30613,
       "num": 34804,
       "word": "原来流氓竟是我",
@@ -8681,6 +8697,22 @@
       "onboard_time": 1693478799,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29191,
+      "num": 29191,
+      "word": "范丞丞做菜难评的原因找到了",
+      "onboard_time": 1693772295,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28544,
+      "num": 28544,
+      "word": "这种洗大猫的工作去哪应聘",
+      "onboard_time": 1693768394,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 28091,
@@ -8739,28 +8771,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 24318,
-      "num": 24318,
-      "word": "这种洗大猫的工作去哪应聘",
-      "onboard_time": 1693768394,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 24101,
       "num": 26963,
       "word": "王鹤棣舞剑vs背文言文",
       "onboard_time": 1693509255,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23315,
-      "num": 23315,
-      "word": "鹊刀门传奇大结局",
-      "onboard_time": 1693771574,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 23228,
@@ -8776,6 +8792,14 @@
       "word": "钓鱼佬的乐趣有哪些",
       "onboard_time": 1693506077,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22822,
+      "num": 28327,
+      "word": "民警翻垃圾桶1小时找回3万救命钱",
+      "onboard_time": 1693778657,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -8809,14 +8833,6 @@
       "onboard_time": 1693648832,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18658,
-      "num": 18658,
-      "word": "范丞丞做菜难评的原因找到了",
-      "onboard_time": 1693772295,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 17061,
