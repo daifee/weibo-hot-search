@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693708433136,
+  "endTime": 1693710994904,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2742101,
+      "num": 2742101,
+      "word": "全国唯一考生已经在答题了",
+      "onboard_time": 1693706075,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2517604,
       "num": 2517604,
       "word": "为什么无座和二等座是同价",
       "onboard_time": 1693699108,
       "rank": 3,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2234785,
+      "num": 1094615,
+      "word": "洗完澡后不要马上穿内裤",
+      "onboard_time": 1693708773,
+      "rank": 3,
+      "category": "其它"
     },
     {
       "raw_hot": 2229924,
@@ -49,14 +65,6 @@
       "onboard_time": 1693697365,
       "rank": 27,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1762415,
-      "num": 1762415,
-      "word": "全国唯一考生已经在答题了",
-      "onboard_time": 1693706075,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1760427,
@@ -131,12 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 957995,
-      "num": 957995,
+      "raw_hot": 971101,
+      "num": 971101,
       "word": "骄阳伴我广告竟然来真的",
       "onboard_time": 1693705172,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 921762,
+      "num": 921762,
+      "word": "女大学生报到第一天拿着电瓶车钥匙哭了",
+      "onboard_time": 1693708895,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 876187,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 684896,
-      "num": 222226,
+      "num": 580335,
       "word": "老番茄结婚照",
       "onboard_time": 1693708234,
       "rank": 30,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 604489,
-      "num": 317597,
+      "num": 332516,
       "word": "刮刮乐卖疯了开彩票店是躺赚吗",
       "onboard_time": 1693703614,
       "rank": 49,
@@ -281,6 +297,14 @@
       "onboard_time": 1693669838,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 573686,
+      "num": 573686,
+      "word": "顾晓声 郭小四",
+      "onboard_time": 1693709915,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 540866,
@@ -347,12 +371,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 471245,
+      "num": 471245,
+      "word": "练背能治垮脸",
+      "onboard_time": 1693706493,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453199,
       "num": 328075,
       "word": "秀才账号被封",
       "onboard_time": 1693649312,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 438300,
+      "num": 438300,
+      "word": "日本投降的真正原因是什么",
+      "onboard_time": 1693709555,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407485,
@@ -363,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383549,
+      "num": 383549,
+      "word": "梁朝伟李安双i并地走",
+      "onboard_time": 1693708954,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373306,
       "num": 373306,
       "word": "易烊千玺金鹿奖最佳男演员",
@@ -371,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346443,
-      "num": 346443,
-      "word": "练背能治垮脸",
-      "onboard_time": 1693706493,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 344076,
+      "num": 344076,
+      "word": "长相思相柳战死概念图",
+      "onboard_time": 1693705594,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 341959,
@@ -483,6 +531,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289666,
+      "num": 289666,
+      "word": "骄阳伴我月饼礼盒",
+      "onboard_time": 1693710636,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285306,
+      "num": 285306,
+      "word": "曾舜晞特别出演云之羽",
+      "onboard_time": 1693709613,
+      "rank": 27,
+      "category": "影视,影视"
+    },
+    {
       "raw_hot": 279327,
       "num": 279327,
       "word": "公司逼员工主动离职常用套路",
@@ -523,6 +587,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 262125,
+      "num": 262125,
+      "word": "西安交大再现校长脱稿演讲迎新",
+      "onboard_time": 1693709375,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 261742,
       "num": 261742,
       "word": "时团纪录片目前唯二笑出来的部分",
@@ -547,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252714,
-      "num": 252714,
-      "word": "长相思相柳战死概念图",
-      "onboard_time": 1693705594,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "侯雯元疯狂举铁给小白都整无语了",
@@ -577,6 +641,14 @@
       "onboard_time": 1693661321,
       "rank": 23,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 233348,
+      "num": 233348,
+      "word": "弟弟想念住校姐姐半夜哭成泪人",
+      "onboard_time": 1693710454,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228565,
@@ -609,6 +681,14 @@
       "onboard_time": 1693698927,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217786,
+      "num": 217786,
+      "word": "奶奶深夜给11个月大孙子包花形馄饨",
+      "onboard_time": 1693708593,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217628,
@@ -665,6 +745,14 @@
       "onboard_time": 1693672057,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202714,
+      "num": 202714,
+      "word": "云之羽爱奇艺热度值破7000",
+      "onboard_time": 1693709972,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 202523,
@@ -731,6 +819,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 186775,
+      "num": 186775,
+      "word": "妈妈身患渐冻症00后儿子呵护12年",
+      "onboard_time": 1693708954,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182400,
       "num": 602013,
       "word": "全国道德模范龚全珍逝世",
@@ -745,6 +841,14 @@
       "onboard_time": 1693698446,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176711,
+      "num": 176711,
+      "word": "柳演锡fm机医五人组合体",
+      "onboard_time": 1693709075,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171827,
@@ -771,6 +875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161654,
+      "num": 161654,
+      "word": "芭比登顶2023年度全球票房榜",
+      "onboard_time": 1693709195,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160861,
       "num": 160861,
       "word": "杭州程序员帮邻居精准灭火火了",
@@ -793,6 +905,22 @@
       "onboard_time": 1693673191,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139417,
+      "num": 139417,
+      "word": "田曦薇她好宠",
+      "onboard_time": 1693710872,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138199,
+      "num": 138199,
+      "word": "这是你印象中的东北乡村吗",
+      "onboard_time": 1693710573,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 120223,
@@ -947,7 +1075,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6300,
+      "raw_hot": 6383,
       "num": 1774850,
       "word": "感受2023服贸会风采",
       "onboard_time": 1693631015,
