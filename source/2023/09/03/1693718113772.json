@@ -1,0 +1,410 @@
+{
+  "runTime": 1693718113772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2340051,
+        "num": 2340051,
+        "word": "12306回应高铁动车二等座无座同价",
+        "onboard_time": 1693714595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385808,
+        "num": 1385808,
+        "word": "全国唯一考生已经在答题了",
+        "onboard_time": 1693706075,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 5837,
+        "num": 1092321,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1726469,
+        "num": 1061598,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1025165,
+        "num": 1025165,
+        "word": "傅首尔老刘参加再见爱人3",
+        "onboard_time": 1693711174,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 912776,
+        "num": 912776,
+        "word": "日本政府拟拨款200亿日元紧急支援水产业",
+        "onboard_time": 1693716098,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1213195,
+        "num": 853867,
+        "word": "于正希望内娱好好对待蒋依依",
+        "onboard_time": 1693712015,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 747707,
+        "num": 747707,
+        "word": "妈妈被家暴女儿留下的纸条让人泪目",
+        "onboard_time": 1693716578,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723314,
+        "num": 723314,
+        "word": "陈奕迅上海抢票",
+        "onboard_time": 1693716878,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 585938,
+        "num": 585938,
+        "word": "虞书欣说拍泥浆戏很像巧克力广告",
+        "onboard_time": 1693713213,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560420,
+        "num": 560420,
+        "word": "9岁摄影师拍胡歌吴磊",
+        "onboard_time": 1693714238,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 516048,
+        "num": 516048,
+        "word": "女大学生报到第一天拿着电瓶车钥匙哭了",
+        "onboard_time": 1693708895,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508677,
+        "num": 508677,
+        "word": "丁程鑫恨不得自己上去泼",
+        "onboard_time": 1693717115,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491983,
+        "num": 491983,
+        "word": "日本投降的真正原因是什么",
+        "onboard_time": 1693709555,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490667,
+        "num": 490667,
+        "word": "鹿晗范志毅十年前曾一起上报纸",
+        "onboard_time": 1693716158,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477422,
+        "num": 477422,
+        "word": "法老在老番茄婚礼唱健将",
+        "onboard_time": 1693713274,
+        "rank": 15,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 401974,
+        "num": 401974,
+        "word": "骄阳伴我广告竟然来真的",
+        "onboard_time": 1693705172,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386891,
+        "num": 386891,
+        "word": "江苏一学校开学一年级仅3人",
+        "onboard_time": 1693712436,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 373530,
+        "num": 373530,
+        "word": "正式确诊为金靖",
+        "onboard_time": 1693713755,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334856,
+        "num": 334856,
+        "word": "泰国坠崖案女子称离婚要很多材料",
+        "onboard_time": 1693717537,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640553,
+        "num": 332169,
+        "word": "怪不得都说不要吃虾头",
+        "onboard_time": 1693714055,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 434012,
+        "num": 331293,
+        "word": "女子买到发霉面包店员当场吃下",
+        "onboard_time": 1693715916,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405015,
+        "num": 330627,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327978,
+        "num": 327978,
+        "word": "日本首相岸田文雄被检举",
+        "onboard_time": 1693696943,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 358580,
+        "num": 326442,
+        "word": "陈都灵新剧演张凌赫的妈",
+        "onboard_time": 1693704693,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311562,
+        "num": 311562,
+        "word": "张晚意金丝眼镜",
+        "onboard_time": 1693717479,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 294495,
+        "num": 294495,
+        "word": "向佐在KTV团建睡着了",
+        "onboard_time": 1693704873,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287768,
+        "num": 287768,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262894,
+        "num": 262894,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250782,
+        "num": 250782,
+        "word": "呼市现大量哮喘患者急诊排长队",
+        "onboard_time": 1693711174,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393572,
+        "num": 250759,
+        "word": "因发际线高花3万植发长出成撮卷发",
+        "onboard_time": 1693717115,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313703,
+        "num": 250519,
+        "word": "谭卓 喜欢费翔爱咋咋地",
+        "onboard_time": 1693714296,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250012,
+        "num": 250012,
+        "word": "为什么无座和二等座是同价",
+        "onboard_time": 1693699108,
+        "rank": 32,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 249576,
+        "num": 249576,
+        "word": "卢昱晓喊虞书欣姐姐",
+        "onboard_time": 1693717299,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233147,
+        "num": 233147,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231369,
+        "num": 231369,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222835,
+        "num": 222835,
+        "word": "外甥女舍不得小姨上大学钻进行李箱",
+        "onboard_time": 1693713873,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218432,
+        "num": 218432,
+        "word": "尚雯婕直播回应聂心远被立案调查",
+        "onboard_time": 1693712192,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205792,
+        "num": 205792,
+        "word": "老番茄结婚照",
+        "onboard_time": 1693708234,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 198065,
+        "num": 198065,
+        "word": "李相夷不是天下第一么",
+        "onboard_time": 1693702592,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187979,
+        "num": 187979,
+        "word": "奥本海默是历史",
+        "onboard_time": 1693714535,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184943,
+        "num": 184943,
+        "word": "这画质好像用B超拍的",
+        "onboard_time": 1693715558,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183628,
+        "num": 183628,
+        "word": "代号鸢",
+        "onboard_time": 1693717479,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178695,
+        "num": 178695,
+        "word": "台风海葵",
+        "onboard_time": 1693701752,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169590,
+        "num": 169590,
+        "word": "刮刮乐卖疯了开彩票店是躺赚吗",
+        "onboard_time": 1693703614,
+        "rank": 44,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 167172,
+        "num": 167172,
+        "word": "骄阳伴我月饼礼盒",
+        "onboard_time": 1693710636,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160682,
+        "num": 160682,
+        "word": "混天绫里裹着的人真的是陈牧驰",
+        "onboard_time": 1693718074,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158872,
+        "num": 158872,
+        "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
+        "onboard_time": 1693717957,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 155935,
+        "num": 155935,
+        "word": "西班牙运动员与官员合影被要求下跪",
+        "onboard_time": 1693711052,
+        "rank": 48,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 153147,
+        "num": 153147,
+        "word": "骄阳伴我双榜登顶",
+        "onboard_time": 1693715194,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们将共享中国式现代化建设成果#"
+    }
+  }
+}

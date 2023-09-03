@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693715634655,
+  "endTime": 1693718113772,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -161,6 +161,14 @@
       "onboard_time": 1693658914,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2340051,
+      "num": 2340051,
+      "word": "12306回应高铁动车二等座无座同价",
+      "onboard_time": 1693714595,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2308482,
@@ -971,6 +979,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 912776,
+      "num": 912776,
+      "word": "日本政府拟拨款200亿日元紧急支援水产业",
+      "onboard_time": 1693716098,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 907735,
       "num": 429370,
       "word": "宋祖儿",
@@ -1243,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747707,
+      "num": 747707,
+      "word": "妈妈被家暴女儿留下的纸条让人泪目",
+      "onboard_time": 1693716578,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746831,
       "num": 746831,
       "word": "惠灵顿牛棚",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1693630655,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 723314,
+      "num": 723314,
+      "word": "陈奕迅上海抢票",
+      "onboard_time": 1693716878,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 720877,
@@ -1699,14 +1731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 606542,
-      "num": 606542,
-      "word": "12306回应高铁动车二等座无座同价",
-      "onboard_time": 1693714595,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 606408,
       "num": 606408,
       "word": "这不是何群成晓诗婚后生活吗",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1693478082,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560420,
+      "num": 560420,
+      "word": "9岁摄影师拍胡歌吴磊",
+      "onboard_time": 1693714238,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 560297,
@@ -2107,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508677,
+      "num": 508677,
+      "word": "丁程鑫恨不得自己上去泼",
+      "onboard_time": 1693717115,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507883,
       "num": 507883,
       "word": "广州地铁",
@@ -2129,14 +2169,6 @@
       "onboard_time": 1693647393,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503296,
-      "num": 503296,
-      "word": "9岁摄影师拍胡歌吴磊",
-      "onboard_time": 1693714238,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 502242,
@@ -2209,6 +2241,14 @@
       "onboard_time": 1693671633,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 490667,
+      "num": 490667,
+      "word": "鹿晗范志毅十年前曾一起上报纸",
+      "onboard_time": 1693716158,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 489667,
@@ -2555,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434012,
+      "num": 331293,
+      "word": "女子买到发霉面包店员当场吃下",
+      "onboard_time": 1693715916,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433600,
       "num": 433600,
       "word": "白羊座心软的神",
@@ -2849,6 +2897,14 @@
       "onboard_time": 1693625796,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 393572,
+      "num": 250759,
+      "word": "因发际线高花3万植发长出成撮卷发",
+      "onboard_time": 1693717115,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393333,
@@ -3299,6 +3355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334856,
+      "num": 334856,
+      "word": "泰国坠崖案女子称离婚要很多材料",
+      "onboard_time": 1693717537,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333852,
       "num": 333852,
       "word": "侯雯元跳舞别跳科目一",
@@ -3505,6 +3569,14 @@
       "onboard_time": 1693702953,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311562,
+      "num": 311562,
+      "word": "张晚意金丝眼镜",
+      "onboard_time": 1693717479,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 309526,
@@ -4185,6 +4257,14 @@
       "onboard_time": 1693530573,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249576,
+      "num": 249576,
+      "word": "卢昱晓喊虞书欣姐姐",
+      "onboard_time": 1693717299,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 249457,
@@ -5507,6 +5587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184943,
+      "num": 184943,
+      "word": "这画质好像用B超拍的",
+      "onboard_time": 1693715558,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184246,
       "num": 184246,
       "word": "小时候有就在村里横着走",
@@ -5537,6 +5625,14 @@
       "onboard_time": 1693714356,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183628,
+      "num": 183628,
+      "word": "代号鸢",
+      "onboard_time": 1693717479,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 183024,
@@ -5843,6 +5939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160682,
+      "num": 160682,
+      "word": "混天绫里裹着的人真的是陈牧驰",
+      "onboard_time": 1693718074,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160515,
       "num": 160515,
       "word": "大熊猫从满格到没电只需一秒钟",
@@ -5899,6 +6003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158872,
+      "num": 158872,
+      "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
+      "onboard_time": 1693717957,
+      "rank": 47,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 158298,
       "num": 158298,
       "word": "都暻秀solo2",
@@ -5913,14 +6025,6 @@
       "onboard_time": 1693625250,
       "rank": 38,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 157651,
-      "num": 157651,
-      "word": "这画质好像用B超拍的",
-      "onboard_time": 1693715558,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 156786,
