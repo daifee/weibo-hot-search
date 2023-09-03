@@ -1,10 +1,10 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693704802636,
+  "endTime": 1693707745193,
   "band_list": [
     {
       "raw_hot": 2903215,
-      "num": 607242,
+      "num": 619734,
       "word": "胡歌 你才大小姐呢",
       "onboard_time": 1693665824,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1693696943,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1944031,
+      "num": 929050,
+      "word": "重庆警方通报母子3人家中去世",
+      "onboard_time": 1693703313,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1779007,
@@ -83,12 +91,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1172535,
-      "num": 574666,
-      "word": "重庆警方通报母子3人家中去世",
-      "onboard_time": 1693703313,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1314699,
+      "num": 620118,
+      "word": "向佐在KTV团建睡着了",
+      "onboard_time": 1693704873,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1105069,
@@ -99,12 +107,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1089182,
+      "num": 1089182,
+      "word": "全国唯一考生已经在答题了",
+      "onboard_time": 1693706075,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1036699,
       "num": 1036699,
       "word": "千万粉丝网红家中失火",
       "onboard_time": 1693669720,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 916580,
+      "num": 916580,
+      "word": "骄阳伴我广告竟然来真的",
+      "onboard_time": 1693705172,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 891845,
+      "num": 891845,
+      "word": "每个中国人都该记住0903",
+      "onboard_time": 1693696582,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 876187,
@@ -131,14 +163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 764782,
-      "num": 764782,
-      "word": "每个中国人都该记住0903",
-      "onboard_time": 1693696582,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 762378,
       "num": 762378,
       "word": "姚明黑脸",
@@ -160,6 +184,14 @@
       "word": "李相夷不是天下第一么",
       "onboard_time": 1693702592,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 721609,
+      "num": 721609,
+      "word": "陈都灵新剧演张凌赫的妈",
+      "onboard_time": 1693704693,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -187,6 +219,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 650482,
+      "num": 650482,
+      "word": "李荣浩演唱会讲话时嘴里进了只蚊子",
+      "onboard_time": 1693705715,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 626505,
       "num": 573696,
       "word": "周杰伦与小女儿牵手照",
@@ -211,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604489,
+      "num": 317597,
+      "word": "刮刮乐卖疯了开彩票店是躺赚吗",
+      "onboard_time": 1693703614,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 600069,
       "num": 600069,
       "word": "刘宇宁直播",
@@ -225,14 +273,6 @@
       "onboard_time": 1693669838,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 543377,
-      "num": 317597,
-      "word": "刮刮乐卖疯了开彩票店是躺赚吗",
-      "onboard_time": 1693703614,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 540866,
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 311714,
-      "num": 236261,
+      "num": 263639,
       "word": "不要太快试图建立特殊关系",
       "onboard_time": 1693702953,
       "rank": 32,
@@ -443,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267011,
+      "num": 267011,
+      "word": "云之羽观后感",
+      "onboard_time": 1693700309,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266344,
       "num": 266344,
       "word": "梁朝伟威尼斯领奖变表情包",
@@ -467,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257640,
-      "num": 257640,
-      "word": "云之羽观后感",
-      "onboard_time": 1693700309,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256812,
       "num": 256812,
       "word": "侯雯元真的跳了科目一",
@@ -491,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252714,
+      "num": 252714,
+      "word": "长相思相柳战死概念图",
+      "onboard_time": 1693705594,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "侯雯元疯狂举铁给小白都整无语了",
       "onboard_time": 1693666124,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242047,
+      "num": 229312,
+      "word": "练背能治垮脸",
+      "onboard_time": 1693706493,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 241344,
@@ -545,6 +601,22 @@
       "onboard_time": 1693698927,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217201,
+      "num": 217201,
+      "word": "平昌亚锦赛",
+      "onboard_time": 1693706612,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213315,
+      "num": 213315,
+      "word": "日版produce101女团主题曲",
+      "onboard_time": 1693706973,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 207822,
@@ -603,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198279,
+      "num": 198279,
+      "word": "博士生汪顺报到",
+      "onboard_time": 1693704873,
+      "rank": 37,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 195452,
       "num": 195452,
       "word": "李荣浩演唱会",
@@ -617,6 +697,14 @@
       "onboard_time": 1693685895,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189182,
+      "num": 189182,
+      "word": "盛阳温柔放大镜",
+      "onboard_time": 1693707215,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 186972,
@@ -641,6 +729,14 @@
       "onboard_time": 1693698446,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171827,
+      "num": 171827,
+      "word": "起猛了以为真的在云端了",
+      "onboard_time": 1693704755,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170998,
@@ -675,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155786,
-      "num": 155786,
-      "word": "陈都灵新剧演张凌赫的妈",
-      "onboard_time": 1693704693,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145623,
       "num": 145623,
       "word": "盛阳 社畜之歌",
@@ -691,12 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142229,
-      "num": 142229,
-      "word": "起猛了以为真的在云端了",
-      "onboard_time": 1693704755,
+      "raw_hot": 139784,
+      "num": 139784,
+      "word": "年轻人在秀才倾城评论区做纪检委员",
+      "onboard_time": 1693707634,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "网红"
     },
     {
       "raw_hot": 120223,
