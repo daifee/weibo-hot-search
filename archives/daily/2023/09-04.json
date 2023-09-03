@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693758932712,
+  "endTime": 1693761264979,
   "band_list": [
     {
       "raw_hot": 2081687,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098930,
+      "num": 1098930,
+      "word": "清华大学研究生重量级宿舍",
+      "onboard_time": 1693757434,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1028523,
       "num": 384327,
       "word": "这居然是纪凌尘",
       "onboard_time": 1693747242,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 864192,
-      "num": 324944,
-      "word": "清华大学研究生重量级宿舍",
-      "onboard_time": 1693757434,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 809625,
@@ -411,12 +411,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98908,
+      "num": 98908,
+      "word": "林一韩国路演生图",
+      "onboard_time": 1693759706,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 87798,
       "num": 135931,
       "word": "都江堰市3.4级地震",
       "onboard_time": 1693752884,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72659,
+      "num": 72659,
+      "word": "人下意识的举动能说明很多信息",
+      "onboard_time": 1693760963,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 64413,
+      "num": 64413,
+      "word": "上官浅宫尚角",
+      "onboard_time": 1693761203,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 59370,
@@ -430,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#开放引领发展合作共赢未来#"
+    },
+    {
+      "word": "#在开放中创造机遇在合作中破解难题#"
     }
   ]
 }
