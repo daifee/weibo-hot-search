@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693766039164,
+  "endTime": 1693768349346,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -8411,6 +8411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49795,
+      "num": 49795,
+      "word": "周杰伦写给其他歌手歌曲合集",
+      "onboard_time": 1693765936,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 49701,
       "num": 38757,
       "word": "许光汉鬼家人角逐奥斯卡",
@@ -8571,14 +8579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36641,
-      "num": 36641,
-      "word": "周杰伦写给其他歌手歌曲合集",
-      "onboard_time": 1693765936,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 36371,
       "num": 36371,
       "word": "梁朝伟哭哭包",
@@ -8625,6 +8625,14 @@
       "onboard_time": 1693493739,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32542,
+      "num": 32542,
+      "word": "虞书欣云为衫人物分析笔记",
+      "onboard_time": 1693767856,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 31706,
@@ -8681,6 +8689,14 @@
       "onboard_time": 1693598175,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26776,
+      "num": 26776,
+      "word": "当表情包被AI重置五次后",
+      "onboard_time": 1693767496,
+      "rank": 45,
+      "category": "情感,科技"
     },
     {
       "raw_hot": 26770,
