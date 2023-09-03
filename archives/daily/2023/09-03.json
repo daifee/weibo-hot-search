@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693747054223,
+  "endTime": 1693748023388,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1229263,
+      "num": 1229263,
+      "word": "这居然是纪凌尘",
+      "onboard_time": 1693747242,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1111667,
       "num": 728260,
       "word": "李湘太清醒了",
@@ -291,8 +299,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 958724,
-      "num": 305425,
+      "raw_hot": 961744,
+      "num": 359856,
       "word": "工作后发现5000块真的很难挣",
       "onboard_time": 1693745141,
       "rank": 20,
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 858966,
+      "num": 595951,
+      "word": "黄明昊在韩国说中文",
+      "onboard_time": 1693745324,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838474,
       "num": 508490,
       "word": "法老在老番茄婚礼唱健将",
@@ -371,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 806607,
-      "num": 483761,
-      "word": "黄明昊在韩国说中文",
-      "onboard_time": 1693745324,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 803861,
       "num": 507563,
       "word": "怪不得都说不要吃虾头",
@@ -401,6 +409,14 @@
       "onboard_time": 1693727794,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769127,
+      "num": 354319,
+      "word": "女生125斤被质问你胖成啥了",
+      "onboard_time": 1693746706,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 767584,
@@ -433,6 +449,14 @@
       "onboard_time": 1693725033,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751367,
+      "num": 751367,
+      "word": "8岁女孩去世捐遗体开学第1天成大体老师",
+      "onboard_time": 1693743102,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 749531,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 709022,
-      "num": 303434,
+      "num": 344430,
       "word": "为什么现在年轻人很少去KTV了",
       "onboard_time": 1693745141,
       "rank": 21,
@@ -577,14 +601,6 @@
       "onboard_time": 1693724192,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 632347,
-      "num": 483661,
-      "word": "8岁女孩去世捐遗体开学第1天成大体老师",
-      "onboard_time": 1693743102,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 627576,
@@ -667,6 +683,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 598303,
+      "num": 595816,
+      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+      "onboard_time": 1693742564,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597099,
+      "num": 597099,
+      "word": "宫远徵叫姐姐",
+      "onboard_time": 1693745501,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 593595,
+      "num": 593595,
+      "word": "顾客吃必胜客披萨一口咬在铁片上",
+      "onboard_time": 1693746281,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588876,
       "num": 588876,
       "word": "虞书欣说拍泥浆戏很像巧克力广告",
@@ -675,24 +715,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 588452,
-      "num": 588452,
-      "word": "宫远徵叫姐姐",
-      "onboard_time": 1693745501,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 578019,
-      "num": 308363,
-      "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
-      "onboard_time": 1693742564,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568426,
-      "num": 302545,
+      "num": 333958,
       "word": "张晚意工作室宣发审美",
       "onboard_time": 1693745262,
       "rank": 22,
@@ -907,6 +931,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 451614,
+      "num": 451614,
+      "word": "Mate60遥遥领先",
+      "onboard_time": 1693745680,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 449822,
       "num": 1977923,
       "word": "猫咪深夜发现陌生男子入室及时护主",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1693711174,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378115,
+      "num": 322771,
+      "word": "汪苏泷朋友圈是早C晚E",
+      "onboard_time": 1693747004,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 373306,
@@ -1147,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316632,
-      "num": 243999,
-      "word": "顾客吃必胜客披萨一口咬在铁片上",
-      "onboard_time": 1693746281,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314180,
       "num": 314180,
       "word": "刘宇宁回应蝉女短发造型",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1693732236,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306179,
-      "num": 306179,
-      "word": "Mate60遥遥领先",
-      "onboard_time": 1693745680,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 304274,
@@ -1376,14 +1400,6 @@
       "word": "21岁休学29岁存款5000万",
       "onboard_time": 1693640554,
       "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 267622,
-      "num": 243714,
-      "word": "女生125斤被质问你胖成啥了",
-      "onboard_time": 1693746706,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -1739,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207649,
+      "num": 207649,
+      "word": "张晚意直播",
+      "onboard_time": 1693747844,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206921,
       "num": 206921,
       "word": "云之羽爱奇艺热度值破6500",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1693743460,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199044,
+      "num": 199044,
+      "word": "F1",
+      "onboard_time": 1693747065,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 198279,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1693708954,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186411,
+      "num": 186411,
+      "word": "果然写作是一种天赋",
+      "onboard_time": 1693746463,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 185208,
@@ -2227,27 +2267,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140624,
-      "num": 140624,
-      "word": "果然写作是一种天赋",
-      "onboard_time": 1693746463,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138199,
       "num": 138199,
       "word": "这是你印象中的东北乡村吗",
       "onboard_time": 1693710573,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 137775,
-      "num": 137775,
-      "word": "汪苏泷朋友圈是早C晚E",
-      "onboard_time": 1693747004,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2363,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65370,
+      "num": 586348,
+      "word": "老兵姐姐穿军装接空军妹妹退伍",
+      "onboard_time": 1693746109,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64923,
       "num": 409202,
       "word": "9岁妹妹不舍上学姐姐写一盒分别信",
@@ -2393,6 +2425,14 @@
       "onboard_time": 1693692795,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55127,
+      "num": 151513,
+      "word": "迎亚运的杭州好漂亮",
+      "onboard_time": 1693747242,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54809,
@@ -2443,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38773,
+      "num": 1286185,
+      "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
+      "onboard_time": 1693747544,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35554,
       "num": 427747,
       "word": "辅警与大叔合力救起溺水者后虚脱呕吐",
@@ -2463,14 +2511,6 @@
       "num": 445308,
       "word": "女护士百米冲刺跪地救援溺水老人",
       "onboard_time": 1693728098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33218,
-      "num": 436934,
-      "word": "老兵姐姐穿军装接空军妹妹退伍",
-      "onboard_time": 1693746109,
       "rank": 14,
       "category": "社会新闻"
     },
