@@ -1,0 +1,410 @@
+{
+  "runTime": 1693780419316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739011,
+        "num": 739011,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479901,
+        "num": 479901,
+        "word": "今年已有5位网红因违法违规被封",
+        "onboard_time": 1693749704,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 24775,
+        "num": 425295,
+        "word": "迎亚运的杭州好漂亮",
+        "onboard_time": 1693747242,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406274,
+        "num": 406274,
+        "word": "湖南被患者抹脖子牙医朋友发声",
+        "onboard_time": 1693755636,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321393,
+        "num": 321393,
+        "word": "清华大学研究生重量级宿舍",
+        "onboard_time": 1693757434,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241445,
+        "num": 241445,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146127,
+        "num": 146127,
+        "word": "男子退伍妻子偷偷中途上车送惊喜",
+        "onboard_time": 1693778055,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140249,
+        "num": 140249,
+        "word": "你什么档次敢骂雪姨",
+        "onboard_time": 1693750063,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137909,
+        "num": 137909,
+        "word": "原来真有人后发际线长到脖子上",
+        "onboard_time": 1693750483,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117949,
+        "num": 117949,
+        "word": "央视评华为争气机",
+        "onboard_time": 1693749767,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 378102,
+        "num": 117665,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291876,
+        "num": 115727,
+        "word": "我们学校复变函数老师是杨幂大伯",
+        "onboard_time": 1693755399,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216200,
+        "num": 114660,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90983,
+        "num": 114127,
+        "word": "警犬找回走失男子被奖励一盆鸡腿",
+        "onboard_time": 1693757613,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71384,
+        "num": 113043,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 205686,
+        "num": 111261,
+        "word": "这居然是纪凌尘",
+        "onboard_time": 1693747242,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111190,
+        "num": 111190,
+        "word": "成都地震",
+        "onboard_time": 1693751985,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97680,
+        "num": 97680,
+        "word": "韩版黄雨萱",
+        "onboard_time": 1693750727,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96550,
+        "num": 96550,
+        "word": "网传女子治牙发生纠纷抹了医生脖子",
+        "onboard_time": 1693754922,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86748,
+        "num": 86748,
+        "word": "皮肤和情绪的关系",
+        "onboard_time": 1693750606,
+        "rank": 19,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 151701,
+        "num": 84197,
+        "word": "女生125斤被质问你胖成啥了",
+        "onboard_time": 1693746706,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109120,
+        "num": 82738,
+        "word": "女子被狗撕碎左脸缝了500多针",
+        "onboard_time": 1693753483,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92680,
+        "num": 81788,
+        "word": "工作后发现5000块真的很难挣",
+        "onboard_time": 1693745141,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79470,
+        "num": 79470,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77840,
+        "num": 77840,
+        "word": "张慧雯妆造好端庄",
+        "onboard_time": 1693755636,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74378,
+        "num": 74378,
+        "word": "为什么现在年轻人很少去KTV了",
+        "onboard_time": 1693745141,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71178,
+        "num": 71178,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 66262,
+        "num": 66262,
+        "word": "汉服女生这个系列对我眼睛太好了",
+        "onboard_time": 1693751627,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 65148,
+        "num": 65148,
+        "word": "金晨绝地反杀王霏霏",
+        "onboard_time": 1693755164,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64740,
+        "num": 64740,
+        "word": "Mate60遥遥领先",
+        "onboard_time": 1693745680,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 58885,
+        "num": 58885,
+        "word": "人下意识的举动能说明很多信息",
+        "onboard_time": 1693760963,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56292,
+        "num": 56292,
+        "word": "肖战片场笑得前仰后合",
+        "onboard_time": 1693744422,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49244,
+        "num": 49244,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 32,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 49093,
+        "num": 49093,
+        "word": "民警翻垃圾桶1小时找回3万救命钱",
+        "onboard_time": 1693778657,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46904,
+        "num": 46904,
+        "word": "鹊刀门传奇大结局",
+        "onboard_time": 1693771574,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46214,
+        "num": 46214,
+        "word": "上官浅宫尚角",
+        "onboard_time": 1693761203,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45634,
+        "num": 45634,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44263,
+        "num": 44263,
+        "word": "罗杰夫认证林志颖泰国人气",
+        "onboard_time": 1693775654,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43060,
+        "num": 43060,
+        "word": "谁是周冬雨",
+        "onboard_time": 1693754144,
+        "rank": 38,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 41727,
+        "num": 41727,
+        "word": "奥本海默里消失的她",
+        "onboard_time": 1693752647,
+        "rank": 39,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 41262,
+        "num": 41262,
+        "word": "央妈推荐曾舜晞的终极笔记三次了",
+        "onboard_time": 1693737097,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40531,
+        "num": 40531,
+        "word": "李安舒淇刘嘉玲胡歌合影",
+        "onboard_time": 1693742981,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40076,
+        "num": 40076,
+        "word": "这种洗大猫的工作去哪应聘",
+        "onboard_time": 1693768394,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38952,
+        "num": 38952,
+        "word": "阿森纳vs曼联",
+        "onboard_time": 1693753664,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38028,
+        "num": 38028,
+        "word": "梁朝伟刘嘉玲亲亲",
+        "onboard_time": 1693741964,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37049,
+        "num": 37049,
+        "word": "周杰伦写给其他歌手歌曲合集",
+        "onboard_time": 1693765936,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34893,
+        "num": 34893,
+        "word": "台风海葵带来一场天空的浪漫",
+        "onboard_time": 1693770494,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32588,
+        "num": 32588,
+        "word": "林一是巨人吧",
+        "onboard_time": 1693757854,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32489,
+        "num": 32489,
+        "word": "ive",
+        "onboard_time": 1693751385,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32432,
+        "num": 32432,
+        "word": "范丞丞做菜难评的原因找到了",
+        "onboard_time": 1693772295,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在开放中创造机遇在合作中破解难题#"
+    }
+  }
+}
