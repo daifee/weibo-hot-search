@@ -1,0 +1,410 @@
+{
+  "runTime": 1693730037008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1967227,
+        "num": 1967227,
+        "word": "何炅 不要被自己的情绪绑架",
+        "onboard_time": 1693723294,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1384718,
+        "num": 1384718,
+        "word": "六公主谈逃出大英博物馆火出圈",
+        "onboard_time": 1693724374,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38080,
+        "num": 1148953,
+        "word": "一带一路全球行",
+        "onboard_time": 1693725875,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110860,
+        "num": 1110860,
+        "word": "林志玲回应郭台铭有意找其当副手传闻",
+        "onboard_time": 1693728393,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 792305,
+        "num": 792305,
+        "word": "十个勤天头像",
+        "onboard_time": 1693727794,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737128,
+        "num": 737128,
+        "word": "日本已排放超3800吨核污染水",
+        "onboard_time": 1693727015,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551301,
+        "num": 551301,
+        "word": "抱歉陈晓是真的帅",
+        "onboard_time": 1693724192,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507094,
+        "num": 507094,
+        "word": "王哲林把朱芳雨微信删了",
+        "onboard_time": 1693724494,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501888,
+        "num": 501888,
+        "word": "被困横店到处客串",
+        "onboard_time": 1693719513,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482882,
+        "num": 482882,
+        "word": "风象星座情绪稳定才最疯狂",
+        "onboard_time": 1693726534,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1051756,
+        "num": 478325,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 526336,
+        "num": 472296,
+        "word": "王源又一次被问成年了吗",
+        "onboard_time": 1693724017,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466040,
+        "num": 466040,
+        "word": "从此世上只有李莲花了",
+        "onboard_time": 1693728576,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455290,
+        "num": 455290,
+        "word": "奥本海默",
+        "onboard_time": 1693728393,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33928,
+        "num": 427583,
+        "word": "女护士百米冲刺跪地救援溺水老人",
+        "onboard_time": 1693728098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421629,
+        "num": 421629,
+        "word": "女富豪们是怎么白手起家的",
+        "onboard_time": 1693725156,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413928,
+        "num": 413928,
+        "word": "装腔启示录导演3年3部8分以上现代剧",
+        "onboard_time": 1693727315,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411301,
+        "num": 411301,
+        "word": "相柳 绝世舞姬",
+        "onboard_time": 1693725514,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403169,
+        "num": 403169,
+        "word": "平原县地震",
+        "onboard_time": 1693724135,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398186,
+        "num": 398186,
+        "word": "妈妈被家暴女儿留下的纸条让人泪目",
+        "onboard_time": 1693716578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737912,
+        "num": 386331,
+        "word": "女孩被男友嫌胖从115斤瘦到68斤",
+        "onboard_time": 1693725033,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664925,
+        "num": 380340,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 364220,
+        "num": 364220,
+        "word": "老太地铁如厕后消失民警推理寻人",
+        "onboard_time": 1693727255,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340571,
+        "num": 340571,
+        "word": "大学生拿1万2奖学金给村里修路",
+        "onboard_time": 1693720834,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 324369,
+        "num": 324369,
+        "word": "汕头全市中小学9月4日起停课",
+        "onboard_time": 1693725994,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 301632,
+        "num": 301632,
+        "word": "云之羽是be还是he",
+        "onboard_time": 1693729292,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296706,
+        "num": 296706,
+        "word": "12306回应高铁动车二等座无座同价",
+        "onboard_time": 1693714595,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268231,
+        "num": 268231,
+        "word": "张栋梁的衣服是穿反了吗",
+        "onboard_time": 1693723774,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261938,
+        "num": 261938,
+        "word": "女子修复双眼皮后竟然多个洞",
+        "onboard_time": 1693720534,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249425,
+        "num": 249425,
+        "word": "云之羽爱奇艺热度值破8500",
+        "onboard_time": 1693727315,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442200,
+        "num": 248667,
+        "word": "殡葬专业大一课表长这样",
+        "onboard_time": 1693729118,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247611,
+        "num": 247611,
+        "word": "傅首尔老刘参加再见爱人3",
+        "onboard_time": 1693711174,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230129,
+        "num": 230129,
+        "word": "全国唯一考生已经在答题了",
+        "onboard_time": 1693706075,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219186,
+        "num": 219186,
+        "word": "95后姑娘3个月连买20多条珍珠项链",
+        "onboard_time": 1693726175,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217735,
+        "num": 217735,
+        "word": "怪不得都说不要吃虾头",
+        "onboard_time": 1693714055,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213355,
+        "num": 213355,
+        "word": "张凌赫回应没唱云之羽OST",
+        "onboard_time": 1693728098,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205233,
+        "num": 205233,
+        "word": "泰国坠崖案女子称离婚要很多材料",
+        "onboard_time": 1693717537,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197239,
+        "num": 197239,
+        "word": "炸毛的白敬亭",
+        "onboard_time": 1693726056,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191160,
+        "num": 191160,
+        "word": "独居女生被陌生男子反锁屋内",
+        "onboard_time": 1693729118,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185416,
+        "num": 185416,
+        "word": "日本男篮赛后全场合唱灌篮高手主题曲",
+        "onboard_time": 1693726117,
+        "rank": 39,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 185208,
+        "num": 185208,
+        "word": "发现总有人吵架爱叫别人多读点书",
+        "onboard_time": 1693728756,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179740,
+        "num": 179740,
+        "word": "蔡文静怕不是流的E型血",
+        "onboard_time": 1693724315,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168120,
+        "num": 168120,
+        "word": "日本政府拟拨款200亿日元紧急支援水产业",
+        "onboard_time": 1693716098,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 167873,
+        "num": 167873,
+        "word": "丧偶式恋爱",
+        "onboard_time": 1693721314,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163602,
+        "num": 163602,
+        "word": "想把马杨的这句话送给领导",
+        "onboard_time": 1693724558,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163531,
+        "num": 163531,
+        "word": "女子买到发霉面包店员当场吃下",
+        "onboard_time": 1693715916,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162957,
+        "num": 162957,
+        "word": "没入坑你cp但是我入坑你了",
+        "onboard_time": 1693728695,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150030,
+        "num": 150030,
+        "word": "骄阳伴我台词深度",
+        "onboard_time": 1693728633,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149250,
+        "num": 149250,
+        "word": "胡兵眼疾手快嘴还严",
+        "onboard_time": 1693726956,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139641,
+        "num": 139641,
+        "word": "给狗狗买尿垫买错了尺寸",
+        "onboard_time": 1693729958,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}

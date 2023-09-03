@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693729140739,
+  "endTime": 1693730037008,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -291,20 +291,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1967227,
+      "num": 1967227,
+      "word": "何炅 不要被自己的情绪绑架",
+      "onboard_time": 1693723294,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1944031,
       "num": 1722939,
       "word": "重庆警方通报母子3人家中去世",
       "onboard_time": 1693703313,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1943188,
-      "num": 1943188,
-      "word": "何炅 不要被自己的情绪绑架",
-      "onboard_time": 1693723294,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1902750,
@@ -579,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1384718,
+      "num": 1384718,
+      "word": "六公主谈逃出大英博物馆火出圈",
+      "onboard_time": 1693724374,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1382211,
       "num": 635094,
       "word": "向佐在KTV团建睡着了",
       "onboard_time": 1693704873,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1371518,
-      "num": 1371518,
-      "word": "六公主谈逃出大英博物馆火出圈",
-      "onboard_time": 1693724374,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1359114,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1110860,
+      "num": 1110860,
+      "word": "林志玲回应郭台铭有意找其当副手传闻",
+      "onboard_time": 1693728393,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1089848,
       "num": 1089848,
       "word": "王耀庆 演员是没资格生病的",
@@ -761,6 +769,14 @@
       "onboard_time": 1693544081,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1051756,
+      "num": 478325,
+      "word": "税务局已收到秀才举报材料",
+      "onboard_time": 1693728816,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1036699,
@@ -1228,7 +1244,7 @@
     },
     {
       "raw_hot": 796174,
-      "num": 459797,
+      "num": 472296,
       "word": "王源又一次被问成年了吗",
       "onboard_time": 1693724017,
       "rank": 11,
@@ -1251,8 +1267,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 789684,
-      "num": 789684,
+      "raw_hot": 792305,
+      "num": 792305,
       "word": "十个勤天头像",
       "onboard_time": 1693727794,
       "rank": 3,
@@ -1308,7 +1324,7 @@
     },
     {
       "raw_hot": 752241,
-      "num": 344607,
+      "num": 386331,
       "word": "女孩被男友嫌胖从115斤瘦到68斤",
       "onboard_time": 1693725033,
       "rank": 34,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1693638692,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 737128,
+      "num": 737128,
+      "word": "日本已排放超3800吨核污染水",
+      "onboard_time": 1693727015,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 732079,
@@ -1393,14 +1417,6 @@
       "onboard_time": 1693571378,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 715830,
-      "num": 465366,
-      "word": "林志玲回应郭台铭有意找其当副手传闻",
-      "onboard_time": 1693728393,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 713357,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1693709915,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 656833,
-      "num": 656833,
-      "word": "日本已排放超3800吨核污染水",
-      "onboard_time": 1693727015,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 656161,
@@ -2435,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482882,
+      "num": 482882,
+      "word": "风象星座情绪稳定才最疯狂",
+      "onboard_time": 1693726534,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 482553,
       "num": 482553,
       "word": "大学生拿1万2奖学金给村里修路",
@@ -2571,20 +2587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466844,
-      "num": 466844,
-      "word": "风象星座情绪稳定才最疯狂",
-      "onboard_time": 1693726534,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 466220,
       "num": 466220,
       "word": "红毯上的舒淇就没输过吧",
       "onboard_time": 1693547739,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 466040,
+      "num": 466040,
+      "word": "从此世上只有李莲花了",
+      "onboard_time": 1693728576,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 465918,
@@ -2713,6 +2729,14 @@
       "onboard_time": 1693543304,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442200,
+      "num": 248667,
+      "word": "殡葬专业大一课表长这样",
+      "onboard_time": 1693729118,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 441427,
@@ -2913,6 +2937,14 @@
       "onboard_time": 1693528418,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413928,
+      "num": 413928,
+      "word": "装腔启示录导演3年3部8分以上现代剧",
+      "onboard_time": 1693727315,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 413607,
@@ -3643,14 +3675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323493,
-      "num": 257715,
-      "word": "税务局已收到秀才举报材料",
-      "onboard_time": 1693728816,
-      "rank": 30,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 321366,
       "num": 250883,
       "word": "欧冠死亡之组",
@@ -3672,14 +3696,6 @@
       "word": "你最喜欢易烊千玺塑造的哪个角色",
       "onboard_time": 1693703554,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 320606,
-      "num": 320606,
-      "word": "装腔启示录导演3年3部8分以上现代剧",
-      "onboard_time": 1693727315,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -3841,6 +3857,14 @@
       "onboard_time": 1693547016,
       "rank": 28,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 301632,
+      "num": 301632,
+      "word": "云之羽是be还是he",
+      "onboard_time": 1693729292,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 301223,
@@ -4369,14 +4393,6 @@
       "onboard_time": 1693659338,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258686,
-      "num": 258686,
-      "word": "从此世上只有李莲花了",
-      "onboard_time": 1693728576,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 258672,
@@ -5035,6 +5051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213355,
+      "num": 213355,
+      "word": "张凌赫回应没唱云之羽OST",
+      "onboard_time": 1693728098,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213022,
       "num": 213022,
       "word": "安乐传hi6暑期收视率TOP1",
@@ -5080,14 +5104,6 @@
       "word": "殷寿是懂杀人诛心的",
       "onboard_time": 1693528779,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 210436,
-      "num": 210436,
-      "word": "张凌赫回应没唱云之羽OST",
-      "onboard_time": 1693728098,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -5771,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191160,
+      "num": 191160,
+      "word": "独居女生被陌生男子反锁屋内",
+      "onboard_time": 1693729118,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190835,
       "num": 190835,
       "word": "台风苏拉趋向广东海面",
@@ -5961,6 +5985,14 @@
       "onboard_time": 1693641873,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185208,
+      "num": 185208,
+      "word": "发现总有人吵架爱叫别人多读点书",
+      "onboard_time": 1693728756,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 184943,
@@ -6443,14 +6475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155732,
-      "num": 155732,
-      "word": "发现总有人吵架爱叫别人多读点书",
-      "onboard_time": 1693728756,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155248,
       "num": 155248,
       "word": "深圳实行五停",
@@ -6521,6 +6545,14 @@
       "onboard_time": 1693491282,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149250,
+      "num": 149250,
+      "word": "胡兵眼疾手快嘴还严",
+      "onboard_time": 1693726956,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 148598,
@@ -6627,14 +6659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144033,
-      "num": 144033,
-      "word": "殡葬专业大一课表长这样",
-      "onboard_time": 1693729118,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 141388,
       "num": 141388,
       "word": "包饺子进化到这种程度了吗",
@@ -6651,6 +6675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139641,
+      "num": 139641,
+      "word": "给狗狗买尿垫买错了尺寸",
+      "onboard_time": 1693729958,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139495,
       "num": 95990,
       "word": "广东一比一复刻故宫",
@@ -6665,14 +6697,6 @@
       "onboard_time": 1693632813,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 138996,
-      "num": 138996,
-      "word": "独居女生被陌生男子反锁屋内",
-      "onboard_time": 1693729118,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138269,
@@ -7324,7 +7348,7 @@
     },
     {
       "raw_hot": 43267,
-      "num": 1064268,
+      "num": 1148953,
       "word": "一带一路全球行",
       "onboard_time": 1693725875,
       "rank": 2,
@@ -7408,6 +7432,14 @@
       "word": "深圳市台风橙色预警信号升级为红色",
       "onboard_time": 1693596375,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33928,
+      "num": 445308,
+      "word": "女护士百米冲刺跪地救援溺水老人",
+      "onboard_time": 1693728098,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7512,14 +7544,6 @@
       "word": "钓鱼佬的乐趣有哪些",
       "onboard_time": 1693506077,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20901,
-      "num": 445308,
-      "word": "女护士百米冲刺跪地救援溺水老人",
-      "onboard_time": 1693728098,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
