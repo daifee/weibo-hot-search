@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693754141700,
+  "endTime": 1693755233083,
   "band_list": [
     {
       "raw_hot": 3576649,
@@ -187,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1514373,
+      "num": 1514373,
+      "word": "今年已有5位网红因违法违规被封",
+      "onboard_time": 1693749704,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1513556,
       "num": 1513556,
       "word": "傅首尔老刘参加再见爱人3",
@@ -225,14 +233,6 @@
       "onboard_time": 1693704873,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1378745,
-      "num": 1378745,
-      "word": "今年已有5位网红因违法违规被封",
-      "onboard_time": 1693749704,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1331600,
@@ -643,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 686666,
+      "num": 686666,
+      "word": "原来真有人后发际线长到脖子上",
+      "onboard_time": 1693750483,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 685317,
       "num": 685317,
       "word": "泰国坠崖案女子称离婚要很多材料",
@@ -657,6 +665,14 @@
       "onboard_time": 1693708234,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 680271,
+      "num": 429463,
+      "word": "女子被狗撕碎左脸缝了500多针",
+      "onboard_time": 1693753483,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662265,
@@ -681,14 +697,6 @@
       "onboard_time": 1693728576,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 649787,
-      "num": 649787,
-      "word": "原来真有人后发际线长到脖子上",
-      "onboard_time": 1693750483,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 648183,
@@ -744,6 +752,14 @@
       "word": "中国男篮或将连续缺席两届奥运会",
       "onboard_time": 1693670200,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 610229,
+      "num": 610229,
+      "word": "美国男篮不敌立陶宛男篮",
+      "onboard_time": 1693753426,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -851,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545084,
+      "num": 545084,
+      "word": "谁是周冬雨",
+      "onboard_time": 1693754144,
+      "rank": 15,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 540866,
       "num": 540866,
       "word": "汪苏泷不分手的恋爱独唱失败",
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 503144,
-      "num": 503144,
+      "num": 548493,
       "word": "都江堰市3.4级地震",
       "onboard_time": 1693752884,
       "rank": 13,
@@ -1067,14 +1091,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 443322,
-      "num": 429463,
-      "word": "女子被狗撕碎左脸缝了500多针",
-      "onboard_time": 1693753483,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440874,
       "num": 440874,
       "word": "女富豪们是怎么白手起家的",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1693715916,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425429,
-      "num": 425429,
-      "word": "美国男篮不敌立陶宛男篮",
-      "onboard_time": 1693753426,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 424375,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1693663183,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337764,
+      "num": 337764,
+      "word": "网传女子治牙发生纠纷抹了医生脖子",
+      "onboard_time": 1693754922,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335176,
@@ -1883,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224096,
+      "num": 224096,
+      "word": "泪点低真的看不了这些",
+      "onboard_time": 1693754742,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222317,
       "num": 222317,
       "word": "爷爷扶着水桶喂猫咪喝水",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1693706973,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217294,
+      "num": 217294,
+      "word": "老林又哭了",
+      "onboard_time": 1693753904,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 217201,
@@ -1985,14 +2017,6 @@
       "onboard_time": 1693726117,
       "rank": 39,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 209008,
-      "num": 209008,
-      "word": "老林又哭了",
-      "onboard_time": 1693753904,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 207894,
@@ -2065,6 +2089,22 @@
       "onboard_time": 1693672057,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205200,
+      "num": 205200,
+      "word": "我在学校很想家",
+      "onboard_time": 1693754439,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204059,
+      "num": 204059,
+      "word": "金晨绝地反杀王霏霏",
+      "onboard_time": 1693755164,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 203886,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1693711233,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197082,
+      "num": 197082,
+      "word": "男人集体敷面膜是什么景象",
+      "onboard_time": 1693754323,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 196647,

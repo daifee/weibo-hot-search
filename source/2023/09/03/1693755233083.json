@@ -1,0 +1,410 @@
+{
+  "runTime": 1693755233083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2740417,
+        "num": 2740417,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2528231,
+        "num": 2528231,
+        "word": "成都地震",
+        "onboard_time": 1693751985,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90179,
+        "num": 1998853,
+        "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
+        "onboard_time": 1693747544,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1545768,
+        "num": 1545768,
+        "word": "这居然是纪凌尘",
+        "onboard_time": 1693747242,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1514373,
+        "num": 1514373,
+        "word": "今年已有5位网红因违法违规被封",
+        "onboard_time": 1693749704,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1146676,
+        "num": 1146676,
+        "word": "9月1日 9月3日",
+        "onboard_time": 1693750785,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 903074,
+        "num": 903074,
+        "word": "你什么档次敢骂雪姨",
+        "onboard_time": 1693750063,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788133,
+        "num": 788133,
+        "word": "韩版黄雨萱",
+        "onboard_time": 1693750727,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 686666,
+        "num": 686666,
+        "word": "原来真有人后发际线长到脖子上",
+        "onboard_time": 1693750483,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 668484,
+        "num": 668484,
+        "word": "ive",
+        "onboard_time": 1693751385,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1938009,
+        "num": 663826,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 638066,
+        "num": 638066,
+        "word": "央视评华为争气机",
+        "onboard_time": 1693749767,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 610229,
+        "num": 610229,
+        "word": "美国男篮不敌立陶宛男篮",
+        "onboard_time": 1693753426,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440476,
+        "num": 548493,
+        "word": "都江堰市3.4级地震",
+        "onboard_time": 1693752884,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402629,
+        "num": 545533,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 545084,
+        "num": 545084,
+        "word": "谁是周冬雨",
+        "onboard_time": 1693754144,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 542234,
+        "num": 542234,
+        "word": "刘嘉玲 今天是你的日子",
+        "onboard_time": 1693752227,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471893,
+        "num": 471893,
+        "word": "猫的树是懂纯爱的",
+        "onboard_time": 1693750902,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414437,
+        "num": 414437,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400237,
+        "num": 400237,
+        "word": "虞书欣拍的卢昱晓",
+        "onboard_time": 1693741606,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 680271,
+        "num": 399633,
+        "word": "女子被狗撕碎左脸缝了500多针",
+        "onboard_time": 1693753483,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490071,
+        "num": 399172,
+        "word": "工作后发现5000块真的很难挣",
+        "onboard_time": 1693745141,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397322,
+        "num": 397322,
+        "word": "女生125斤被质问你胖成啥了",
+        "onboard_time": 1693746706,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371171,
+        "num": 371171,
+        "word": "Fly",
+        "onboard_time": 1693751808,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361801,
+        "num": 361801,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355820,
+        "num": 355820,
+        "word": "皮肤和情绪的关系",
+        "onboard_time": 1693750606,
+        "rank": 25,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 337764,
+        "num": 337764,
+        "word": "网传女子治牙发生纠纷抹了医生脖子",
+        "onboard_time": 1693754922,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335788,
+        "num": 335788,
+        "word": "黄明昊在韩国说中文",
+        "onboard_time": 1693745324,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316703,
+        "num": 316703,
+        "word": "奥本海默里消失的她",
+        "onboard_time": 1693752647,
+        "rank": 28,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 313693,
+        "num": 313693,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306354,
+        "num": 306354,
+        "word": "Mate60遥遥领先",
+        "onboard_time": 1693745680,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 285234,
+        "num": 285234,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 31,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 272123,
+        "num": 272123,
+        "word": "张晚意工作室宣发审美",
+        "onboard_time": 1693745262,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272100,
+        "num": 272100,
+        "word": "为什么现在年轻人很少去KTV了",
+        "onboard_time": 1693745141,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247750,
+        "num": 247750,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 236530,
+        "num": 236530,
+        "word": "单依纯清唱想你时风起",
+        "onboard_time": 1693751263,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226388,
+        "num": 226388,
+        "word": "宫远徵叫姐姐",
+        "onboard_time": 1693745501,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224096,
+        "num": 224096,
+        "word": "泪点低真的看不了这些",
+        "onboard_time": 1693754742,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223365,
+        "num": 223365,
+        "word": "费翔时尚芭莎",
+        "onboard_time": 1693751685,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219657,
+        "num": 219657,
+        "word": "薛之谦多来东北好不好",
+        "onboard_time": 1693751808,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217294,
+        "num": 217294,
+        "word": "老林又哭了",
+        "onboard_time": 1693753904,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213808,
+        "num": 213808,
+        "word": "汉服女生这个系列对我眼睛太好了",
+        "onboard_time": 1693751627,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 210949,
+        "num": 210949,
+        "word": "肖战在线揽活",
+        "onboard_time": 1693751385,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205200,
+        "num": 205200,
+        "word": "我在学校很想家",
+        "onboard_time": 1693754439,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204059,
+        "num": 204059,
+        "word": "金晨绝地反杀王霏霏",
+        "onboard_time": 1693755164,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203197,
+        "num": 203197,
+        "word": "当幼师妈妈有个边界感超强的儿子",
+        "onboard_time": 1693751747,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202651,
+        "num": 202651,
+        "word": "梁朝伟刘嘉玲亲亲",
+        "onboard_time": 1693741964,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197082,
+        "num": 197082,
+        "word": "男人集体敷面膜是什么景象",
+        "onboard_time": 1693754323,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197053,
+        "num": 197053,
+        "word": "日本2亿头海参滞销养殖户实在没招",
+        "onboard_time": 1693740043,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193287,
+        "num": 193287,
+        "word": "宁波200一碗海鲜面",
+        "onboard_time": 1693750063,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#在开放中创造机遇在合作中破解难题#"
+    }
+  }
+}
