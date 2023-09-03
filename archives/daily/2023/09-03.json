@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693722028770,
+  "endTime": 1693722843106,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1444483,
+      "num": 1444483,
+      "word": "被困横店到处客串",
+      "onboard_time": 1693719513,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1432512,
       "num": 1432512,
       "word": "解说怒吼质问中国男篮",
@@ -121,14 +129,6 @@
       "onboard_time": 1693662099,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1394652,
-      "num": 1394652,
-      "word": "被困横店到处客串",
-      "onboard_time": 1693719513,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1382211,
@@ -307,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 708628,
+      "num": 708628,
+      "word": "女子修复双眼皮后竟然多个洞",
+      "onboard_time": 1693720534,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705756,
       "num": 705756,
       "word": "利息少了130万房主美滋滋换电脑换手机",
       "onboard_time": 1693665584,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 691561,
-      "num": 511336,
-      "word": "女子修复双眼皮后竟然多个洞",
-      "onboard_time": 1693720534,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685317,
@@ -417,6 +417,14 @@
       "onboard_time": 1693713213,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 563626,
+      "num": 280228,
+      "word": "丧偶式恋爱",
+      "onboard_time": 1693721314,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 560420,
@@ -545,6 +553,14 @@
       "onboard_time": 1693649312,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 444956,
+      "num": 444956,
+      "word": "刘琳演技",
+      "onboard_time": 1693721736,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 438558,
@@ -715,12 +731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307465,
-      "num": 279044,
-      "word": "丧偶式恋爱",
-      "onboard_time": 1693721314,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 305629,
+      "num": 390607,
+      "word": "大学生拿1万2奖学金给村里修路",
+      "onboard_time": 1693720834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304274,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 278519,
-      "num": 223669,
+      "num": 261724,
       "word": "牛 虽然听不懂但感觉被净化了",
       "onboard_time": 1693719513,
       "rank": 30,
@@ -899,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244625,
+      "num": 209077,
+      "word": "起猛了看到殷寿护妲己了",
+      "onboard_time": 1693722034,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243219,
       "num": 243219,
       "word": "代号鸢",
@@ -955,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223815,
-      "num": 223815,
-      "word": "刘琳演技",
-      "onboard_time": 1693721736,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222317,
       "num": 222317,
       "word": "爷爷扶着水桶喂猫咪喝水",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1693706612,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211977,
+      "num": 211977,
+      "word": "深山里踢出19名大学生",
+      "onboard_time": 1693722332,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211937,
@@ -1139,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194681,
-      "num": 390607,
-      "word": "大学生拿1万2奖学金给村里修路",
-      "onboard_time": 1693720834,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190068,
       "num": 190068,
       "word": "这个鸳鸯火锅是馒头做的",
@@ -1187,6 +1203,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 186871,
+      "num": 186871,
+      "word": "看孟美岐安崎互怼梦回青创",
+      "onboard_time": 1693722093,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186775,
       "num": 186775,
       "word": "妈妈身患渐冻症00后儿子呵护12年",
@@ -1219,8 +1243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180730,
-      "num": 180730,
+      "raw_hot": 181121,
+      "num": 181121,
       "word": "范丞丞镜头下的Angelababy",
       "onboard_time": 1693720115,
       "rank": 40,
