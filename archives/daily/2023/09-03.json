@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693750425262,
+  "endTime": 1693751620136,
   "band_list": [
     {
       "raw_hot": 3072308,
@@ -17,6 +17,14 @@
       "onboard_time": 1693665824,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2764177,
+      "num": 2764177,
+      "word": "为什么好多人都消失在朋友圈了",
+      "onboard_time": 1693749704,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 2742101,
@@ -73,6 +81,14 @@
       "onboard_time": 1693712015,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2085166,
+      "num": 482672,
+      "word": "肛肠科待太久对帅哥都无感了",
+      "onboard_time": 1693749465,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 2061807,
@@ -211,14 +227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1224493,
-      "num": 324314,
-      "word": "肛肠科待太久对帅哥都无感了",
-      "onboard_time": 1693749465,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1111667,
       "num": 728260,
       "word": "李湘太清醒了",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 1006159,
-      "num": 359856,
+      "num": 479481,
       "word": "工作后发现5000块真的很难挣",
       "onboard_time": 1693745141,
       "rank": 20,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 801540,
-      "num": 354319,
+      "num": 473603,
       "word": "女生125斤被质问你胖成啥了",
       "onboard_time": 1693746706,
       "rank": 31,
@@ -425,6 +433,14 @@
       "onboard_time": 1693727794,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769059,
+      "num": 555036,
+      "word": "韩版黄雨萱",
+      "onboard_time": 1693750727,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 767584,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 709022,
-      "num": 344430,
+      "num": 348905,
       "word": "为什么现在年轻人很少去KTV了",
       "onboard_time": 1693745141,
       "rank": 21,
@@ -595,12 +611,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 678631,
+      "num": 659390,
+      "word": "你什么档次敢骂雪姨",
+      "onboard_time": 1693750063,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662265,
       "num": 662265,
       "word": "顾晓声 郭小四",
       "onboard_time": 1693709915,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 661528,
+      "num": 661528,
+      "word": "央视评华为争气机",
+      "onboard_time": 1693749767,
+      "rank": 28,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 650482,
@@ -633,6 +665,14 @@
       "onboard_time": 1693739443,
       "rank": 41,
       "category": "自然"
+    },
+    {
+      "raw_hot": 627029,
+      "num": 627029,
+      "word": "Mate60遥遥领先",
+      "onboard_time": 1693745680,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 626505,
@@ -691,16 +731,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600958,
-      "num": 600958,
-      "word": "Mate60遥遥领先",
-      "onboard_time": 1693745680,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 600346,
-      "num": 496926,
+      "num": 525344,
       "word": "张晚意工作室宣发审美",
       "onboard_time": 1693745262,
       "rank": 22,
@@ -795,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535346,
+      "num": 535346,
+      "word": "宿舍搬来了一个新的女孩子",
+      "onboard_time": 1693748505,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 534910,
       "num": 534910,
       "word": "老番茄结婚",
@@ -809,6 +849,14 @@
       "onboard_time": 1693700550,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 523156,
+      "num": 523156,
+      "word": "今年已有5位网红因违法违规被封",
+      "onboard_time": 1693749704,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 518589,
@@ -947,6 +995,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 451159,
+      "num": 341676,
+      "word": "原来真有人后发际线长到脖子上",
+      "onboard_time": 1693750483,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449822,
       "num": 1977923,
       "word": "猫咪深夜发现陌生男子入室及时护主",
@@ -961,6 +1017,14 @@
       "onboard_time": 1693741062,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 446329,
+      "num": 446329,
+      "word": "9月1日 9月3日",
+      "onboard_time": 1693750785,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 440874,
@@ -1075,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376454,
+      "num": 376454,
+      "word": "肖战在线揽活",
+      "onboard_time": 1693751385,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373306,
       "num": 373306,
       "word": "易烊千玺金鹿奖最佳男演员",
@@ -1107,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343355,
+      "num": 343355,
+      "word": "猫的树是懂纯爱的",
+      "onboard_time": 1693750902,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341959,
       "num": 341959,
       "word": "王猛 我们都成新耻辱史见证者",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1693732656,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339984,
+      "num": 339984,
+      "word": "宁波200一碗海鲜面",
+      "onboard_time": 1693750063,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 339949,
@@ -1139,14 +1227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336686,
-      "num": 336686,
-      "word": "为什么好多人都消失在朋友圈了",
-      "onboard_time": 1693749704,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 335176,
       "num": 335176,
       "word": "盛阳 今天俺是被宰羔阳",
@@ -1163,28 +1243,12 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 326171,
-      "num": 321812,
-      "word": "今年已有5位网红因违法违规被封",
-      "onboard_time": 1693749704,
-      "rank": 27,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 323609,
       "num": 301632,
       "word": "云之羽是be还是he",
       "onboard_time": 1693729292,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 321576,
-      "num": 321576,
-      "word": "央视评华为争气机",
-      "onboard_time": 1693749767,
-      "rank": 28,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 321213,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1693729774,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313469,
+      "num": 313469,
+      "word": "狼队对战KSG",
+      "onboard_time": 1693741004,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 311785,
@@ -1467,14 +1539,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 263841,
-      "num": 263841,
-      "word": "宿舍搬来了一个新的女孩子",
-      "onboard_time": 1693748505,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 262190,
       "num": 262190,
       "word": "卢昱晓喊虞书欣姐姐",
@@ -1577,6 +1641,14 @@
       "onboard_time": 1693726175,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247292,
+      "num": 247292,
+      "word": "皮肤和情绪的关系",
+      "onboard_time": 1693750606,
+      "rank": 35,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 246326,
@@ -1915,11 +1987,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200913,
+      "num": 200913,
+      "word": "ive",
+      "onboard_time": 1693751385,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200657,
       "num": 200657,
       "word": "乃万粉裙打歌造型",
       "onboard_time": 1693721014,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200039,
+      "num": 200039,
+      "word": "单依纯清唱想你时风起",
+      "onboard_time": 1693751263,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1937,14 +2025,6 @@
       "onboard_time": 1693747065,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198488,
-      "num": 191762,
-      "word": "你什么档次敢骂雪姨",
-      "onboard_time": 1693750063,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 198279,
@@ -1979,14 +2059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193898,
-      "num": 193898,
-      "word": "狼队对战KSG",
-      "onboard_time": 1693741004,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193340,
       "num": 193340,
       "word": "小妞白百何vs姐感白百何",
@@ -2009,14 +2081,6 @@
       "onboard_time": 1693749883,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191573,
-      "num": 191573,
-      "word": "宁波200一碗海鲜面",
-      "onboard_time": 1693750063,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 190366,
@@ -2131,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182436,
+      "num": 182436,
+      "word": "KPL",
+      "onboard_time": 1693751506,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182400,
       "num": 602013,
       "word": "全国道德模范龚全珍逝世",
@@ -2169,6 +2241,14 @@
       "onboard_time": 1693723116,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177620,
+      "num": 177620,
+      "word": "汪苏泷想躺着开演唱会",
+      "onboard_time": 1693751385,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 176711,
@@ -2412,7 +2492,7 @@
     },
     {
       "raw_hot": 112455,
-      "num": 1286185,
+      "num": 1685701,
       "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
       "onboard_time": 1693747544,
       "rank": 2,
@@ -2471,6 +2551,14 @@
       "num": 601436,
       "word": "西安市第一医院两名医生被停职调查",
       "onboard_time": 1693655376,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83459,
+      "num": 539819,
+      "word": "姐妹花同桌同分考进石大同专业同班",
+      "onboard_time": 1693749644,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2607,14 +2695,6 @@
       "num": 445308,
       "word": "女护士百米冲刺跪地救援溺水老人",
       "onboard_time": 1693728098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31767,
-      "num": 459686,
-      "word": "姐妹花同桌同分考进石大同专业同班",
-      "onboard_time": 1693749644,
       "rank": 14,
       "category": "社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1693751620136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2764177,
+        "num": 2764177,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2743132,
+        "num": 2743132,
+        "word": "这居然是纪凌尘",
+        "onboard_time": 1693747242,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103054,
+        "num": 1685701,
+        "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
+        "onboard_time": 1693747544,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952028,
+        "num": 952028,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 702613,
+        "num": 702613,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 661528,
+        "num": 661528,
+        "word": "央视评华为争气机",
+        "onboard_time": 1693749767,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 678631,
+        "num": 659390,
+        "word": "你什么档次敢骂雪姨",
+        "onboard_time": 1693750063,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627029,
+        "num": 627029,
+        "word": "Mate60遥遥领先",
+        "onboard_time": 1693745680,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 605029,
+        "num": 605029,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 559057,
+        "num": 559057,
+        "word": "虞书欣拍的卢昱晓",
+        "onboard_time": 1693741606,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 769059,
+        "num": 555036,
+        "word": "韩版黄雨萱",
+        "onboard_time": 1693750727,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654637,
+        "num": 553710,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610631,
+        "num": 547596,
+        "word": "黄明昊在韩国说中文",
+        "onboard_time": 1693745324,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362432,
+        "num": 543854,
+        "word": "日本2亿头海参滞销养殖户实在没招",
+        "onboard_time": 1693740043,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83459,
+        "num": 539819,
+        "word": "姐妹花同桌同分考进石大同专业同班",
+        "onboard_time": 1693749644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535346,
+        "num": 535346,
+        "word": "宿舍搬来了一个新的女孩子",
+        "onboard_time": 1693748505,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 525344,
+        "num": 525344,
+        "word": "张晚意工作室宣发审美",
+        "onboard_time": 1693745262,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523156,
+        "num": 523156,
+        "word": "今年已有5位网红因违法违规被封",
+        "onboard_time": 1693749704,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 495102,
+        "num": 495102,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485629,
+        "num": 485629,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 19,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 2085166,
+        "num": 482672,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 800829,
+        "num": 479481,
+        "word": "工作后发现5000块真的很难挣",
+        "onboard_time": 1693745141,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 695780,
+        "num": 473603,
+        "word": "女生125斤被质问你胖成啥了",
+        "onboard_time": 1693746706,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463228,
+        "num": 463228,
+        "word": "梁朝伟刘嘉玲亲亲",
+        "onboard_time": 1693741964,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446329,
+        "num": 446329,
+        "word": "9月1日 9月3日",
+        "onboard_time": 1693750785,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422527,
+        "num": 422527,
+        "word": "顾客吃必胜客披萨一口咬在铁片上",
+        "onboard_time": 1693746281,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377510,
+        "num": 377510,
+        "word": "宫远徵叫姐姐",
+        "onboard_time": 1693745501,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376454,
+        "num": 376454,
+        "word": "肖战在线揽活",
+        "onboard_time": 1693751385,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348905,
+        "num": 348905,
+        "word": "为什么现在年轻人很少去KTV了",
+        "onboard_time": 1693745141,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343355,
+        "num": 343355,
+        "word": "猫的树是懂纯爱的",
+        "onboard_time": 1693750902,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451159,
+        "num": 341676,
+        "word": "原来真有人后发际线长到脖子上",
+        "onboard_time": 1693750483,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339984,
+        "num": 339984,
+        "word": "宁波200一碗海鲜面",
+        "onboard_time": 1693750063,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331335,
+        "num": 331335,
+        "word": "8岁女孩去世捐遗体开学第1天成大体老师",
+        "onboard_time": 1693743102,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 313469,
+        "num": 313469,
+        "word": "狼队对战KSG",
+        "onboard_time": 1693741004,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272373,
+        "num": 272373,
+        "word": "女子称买1公斤软糖花了161元",
+        "onboard_time": 1693737940,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247292,
+        "num": 247292,
+        "word": "皮肤和情绪的关系",
+        "onboard_time": 1693750606,
+        "rank": 35,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 243114,
+        "num": 243114,
+        "word": "汪苏泷朋友圈是早C晚E",
+        "onboard_time": 1693747004,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234153,
+        "num": 234153,
+        "word": "张晚意直播",
+        "onboard_time": 1693747844,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231473,
+        "num": 231473,
+        "word": "长沙烧烤的分量真的这么少吗",
+        "onboard_time": 1693741964,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211209,
+        "num": 211209,
+        "word": "暧昧对象是个小爱豆",
+        "onboard_time": 1693738786,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205776,
+        "num": 205776,
+        "word": "李安舒淇刘嘉玲胡歌合影",
+        "onboard_time": 1693742981,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205079,
+        "num": 205079,
+        "word": "央妈推荐曾舜晞的终极笔记三次了",
+        "onboard_time": 1693737097,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200913,
+        "num": 200913,
+        "word": "ive",
+        "onboard_time": 1693751385,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200039,
+        "num": 200039,
+        "word": "单依纯清唱想你时风起",
+        "onboard_time": 1693751263,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192784,
+        "num": 192784,
+        "word": "果然写作是一种天赋",
+        "onboard_time": 1693746463,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188954,
+        "num": 188954,
+        "word": "俄顶尖火箭科学家中毒身亡",
+        "onboard_time": 1693734937,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182498,
+        "num": 182498,
+        "word": "殡葬专业大一课表长这样",
+        "onboard_time": 1693729118,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182436,
+        "num": 182436,
+        "word": "KPL",
+        "onboard_time": 1693751506,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180888,
+        "num": 180888,
+        "word": "何炅 不要被自己的情绪绑架",
+        "onboard_time": 1693723294,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177620,
+        "num": 177620,
+        "word": "汪苏泷想躺着开演唱会",
+        "onboard_time": 1693751385,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}
