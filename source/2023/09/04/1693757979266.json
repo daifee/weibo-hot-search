@@ -1,0 +1,410 @@
+{
+  "runTime": 1693757979266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639893,
+        "num": 1639893,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1499561,
+        "num": 1499561,
+        "word": "今年已有5位网红因违法违规被封",
+        "onboard_time": 1693749704,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 59370,
+        "num": 1415982,
+        "word": "虚拟世界的莫高窟能看到砖石上的尘埃",
+        "onboard_time": 1693747544,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409964,
+        "num": 1409964,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 809625,
+        "num": 809625,
+        "word": "成都地震",
+        "onboard_time": 1693751985,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733115,
+        "num": 733115,
+        "word": "网传女子治牙发生纠纷抹了医生脖子",
+        "onboard_time": 1693754922,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594494,
+        "num": 594494,
+        "word": "张慧雯妆造好端庄",
+        "onboard_time": 1693755636,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463472,
+        "num": 463472,
+        "word": "你什么档次敢骂雪姨",
+        "onboard_time": 1693750063,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442495,
+        "num": 442495,
+        "word": "原来真有人后发际线长到脖子上",
+        "onboard_time": 1693750483,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409313,
+        "num": 409313,
+        "word": "韩版黄雨萱",
+        "onboard_time": 1693750727,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1307229,
+        "num": 407587,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1121977,
+        "num": 392586,
+        "word": "湖南被患者抹脖子牙医朋友发声",
+        "onboard_time": 1693755636,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028523,
+        "num": 384327,
+        "word": "这居然是纪凌尘",
+        "onboard_time": 1693747242,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738191,
+        "num": 372763,
+        "word": "我们学校复变函数老师是杨幂大伯",
+        "onboard_time": 1693755399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250431,
+        "num": 362335,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 425931,
+        "num": 357147,
+        "word": "谁是周冬雨",
+        "onboard_time": 1693754144,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 352028,
+        "num": 352028,
+        "word": "ive",
+        "onboard_time": 1693751385,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 340980,
+        "num": 340980,
+        "word": "央视评华为争气机",
+        "onboard_time": 1693749767,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 310781,
+        "num": 310781,
+        "word": "美国男篮不敌立陶宛男篮",
+        "onboard_time": 1693753426,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109903,
+        "num": 305284,
+        "word": "警犬找回走失男子被奖励一盆鸡腿",
+        "onboard_time": 1693757613,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478534,
+        "num": 304152,
+        "word": "女子被狗撕碎左脸缝了500多针",
+        "onboard_time": 1693753483,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374646,
+        "num": 304035,
+        "word": "工作后发现5000块真的很难挣",
+        "onboard_time": 1693745141,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302442,
+        "num": 302442,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286476,
+        "num": 286476,
+        "word": "刘嘉玲 今天是你的日子",
+        "onboard_time": 1693752227,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282323,
+        "num": 282323,
+        "word": "女生125斤被质问你胖成啥了",
+        "onboard_time": 1693746706,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271743,
+        "num": 271743,
+        "word": "虞书欣拍的卢昱晓",
+        "onboard_time": 1693741606,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271222,
+        "num": 271222,
+        "word": "黄明昊在韩国说中文",
+        "onboard_time": 1693745324,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264839,
+        "num": 264839,
+        "word": "猫的树是懂纯爱的",
+        "onboard_time": 1693750902,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253529,
+        "num": 253529,
+        "word": "为什么现在年轻人很少去KTV了",
+        "onboard_time": 1693745141,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253423,
+        "num": 253423,
+        "word": "金晨绝地反杀王霏霏",
+        "onboard_time": 1693755164,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259386,
+        "num": 245964,
+        "word": "清华大学研究生重量级宿舍",
+        "onboard_time": 1693757434,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236025,
+        "num": 236025,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 31,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 230351,
+        "num": 230351,
+        "word": "皮肤和情绪的关系",
+        "onboard_time": 1693750606,
+        "rank": 32,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 218855,
+        "num": 218855,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216674,
+        "num": 216674,
+        "word": "Mate60遥遥领先",
+        "onboard_time": 1693745680,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211671,
+        "num": 211671,
+        "word": "汉服女生这个系列对我眼睛太好了",
+        "onboard_time": 1693751627,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 210047,
+        "num": 210047,
+        "word": "奥本海默里消失的她",
+        "onboard_time": 1693752647,
+        "rank": 36,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 209736,
+        "num": 209736,
+        "word": "男人集体敷面膜是什么景象",
+        "onboard_time": 1693754323,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197876,
+        "num": 197876,
+        "word": "云为衫瀑布前假哭",
+        "onboard_time": 1693755578,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551125,
+        "num": 196760,
+        "word": "9月1日 9月3日",
+        "onboard_time": 1693750785,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193165,
+        "num": 193165,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182236,
+        "num": 182236,
+        "word": "张晚意工作室宣发审美",
+        "onboard_time": 1693745262,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181733,
+        "num": 181733,
+        "word": "Fly",
+        "onboard_time": 1693751808,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170457,
+        "num": 170457,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167528,
+        "num": 167528,
+        "word": "决赛圈遇到盾牌让我兴奋",
+        "onboard_time": 1693756897,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159993,
+        "num": 159993,
+        "word": "宫远徵叫姐姐",
+        "onboard_time": 1693745501,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158254,
+        "num": 158254,
+        "word": "央妈推荐曾舜晞的终极笔记三次了",
+        "onboard_time": 1693737097,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87798,
+        "num": 135931,
+        "word": "都江堰市3.4级地震",
+        "onboard_time": 1693752884,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134681,
+        "num": 134681,
+        "word": "无与伦比的美丽",
+        "onboard_time": 1693753664,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134493,
+        "num": 134493,
+        "word": "林一是巨人吧",
+        "onboard_time": 1693757854,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}
