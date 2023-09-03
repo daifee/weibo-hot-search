@@ -1,0 +1,410 @@
+{
+  "runTime": 1693704802636,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2517604,
+        "num": 2517604,
+        "word": "为什么无座和二等座是同价",
+        "onboard_time": 1693699108,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1571504,
+        "num": 1571504,
+        "word": "日本首相岸田文雄被检举",
+        "onboard_time": 1693696943,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 6300,
+        "num": 1466379,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463024,
+        "num": 1463024,
+        "word": "秀才曾被大妈举报欺诈51万",
+        "onboard_time": 1693697365,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1320373,
+        "num": 1320373,
+        "word": "白百何新剧穿帮镜头",
+        "onboard_time": 1693702234,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1086660,
+        "num": 1086660,
+        "word": "北京众多市民涌入干涸河道捡金粒",
+        "onboard_time": 1693696162,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764782,
+        "num": 764782,
+        "word": "每个中国人都该记住0903",
+        "onboard_time": 1693696582,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730255,
+        "num": 730255,
+        "word": "李相夷不是天下第一么",
+        "onboard_time": 1693702592,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604191,
+        "num": 604191,
+        "word": "雪姨的精神状态好超前啊",
+        "onboard_time": 1693698869,
+        "rank": 8,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 582654,
+        "num": 582654,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1172535,
+        "num": 574666,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099116,
+        "num": 555131,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809701,
+        "num": 538158,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492145,
+        "num": 492145,
+        "word": "利息少了130万房主美滋滋换电脑换手机",
+        "onboard_time": 1693665584,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 491062,
+        "num": 491062,
+        "word": "看完奥本海默开始狂搜书单的我",
+        "onboard_time": 1693700550,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466523,
+        "num": 466523,
+        "word": "夭柳 不负相思意大电影",
+        "onboard_time": 1693701032,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452033,
+        "num": 452033,
+        "word": "台风海葵",
+        "onboard_time": 1693701752,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376359,
+        "num": 376359,
+        "word": "张凌赫粉底太白了",
+        "onboard_time": 1693661860,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357376,
+        "num": 357376,
+        "word": "羡慕杜海涛婴儿般的睡眠",
+        "onboard_time": 1693668582,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321213,
+        "num": 321213,
+        "word": "你最喜欢易烊千玺塑造的哪个角色",
+        "onboard_time": 1693703554,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557889,
+        "num": 319432,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543377,
+        "num": 317597,
+        "word": "刮刮乐卖疯了开彩票店是躺赚吗",
+        "onboard_time": 1693703614,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 314180,
+        "num": 314180,
+        "word": "刘宇宁回应蝉女短发造型",
+        "onboard_time": 1693702114,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280626,
+        "num": 280626,
+        "word": "周杰伦与小女儿牵手照",
+        "onboard_time": 1693666184,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279513,
+        "num": 279513,
+        "word": "爸爸看了一圈儿子同学的名字懵了",
+        "onboard_time": 1693664564,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263111,
+        "num": 263111,
+        "word": "尊重九岁小孩的隐私",
+        "onboard_time": 1693701452,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256812,
+        "num": 256812,
+        "word": "侯雯元真的跳了科目一",
+        "onboard_time": 1693697064,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254782,
+        "num": 254782,
+        "word": "云之羽观后感",
+        "onboard_time": 1693700309,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253787,
+        "num": 253787,
+        "word": "千万粉丝网红家中失火",
+        "onboard_time": 1693669720,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 239648,
+        "num": 239648,
+        "word": "在上海吃到了42块的可丽饼",
+        "onboard_time": 1693671633,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311714,
+        "num": 236261,
+        "word": "不要太快试图建立特殊关系",
+        "onboard_time": 1693702953,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202523,
+        "num": 202523,
+        "word": "这个鱼真的好灵啊",
+        "onboard_time": 1693702714,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195452,
+        "num": 195452,
+        "word": "李荣浩演唱会",
+        "onboard_time": 1693703915,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191270,
+        "num": 191270,
+        "word": "中国男篮或将连续缺席两届奥运会",
+        "onboard_time": 1693670200,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191078,
+        "num": 191078,
+        "word": "我喜欢你 暂时两字不发音",
+        "onboard_time": 1693666546,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189753,
+        "num": 189753,
+        "word": "云之羽爱奇艺热度值破6500",
+        "onboard_time": 1693699226,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184283,
+        "num": 184283,
+        "word": "黄曦彦怎么游泳还穿衣服的",
+        "onboard_time": 1693698927,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183201,
+        "num": 183201,
+        "word": "女儿送58元戒指没想到妈妈戴了9年",
+        "onboard_time": 1693685895,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180543,
+        "num": 180543,
+        "word": "孟美岐安崎唱跳演合作舞台",
+        "onboard_time": 1693698566,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177482,
+        "num": 177482,
+        "word": "熊猫妈妈剥竹子给幼崽吃",
+        "onboard_time": 1693698446,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174016,
+        "num": 174016,
+        "word": "陈都灵兰夫人",
+        "onboard_time": 1693669001,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172612,
+        "num": 172612,
+        "word": "好羡慕23级大学生",
+        "onboard_time": 1693658914,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169542,
+        "num": 169542,
+        "word": "姚明黑脸",
+        "onboard_time": 1693665644,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167499,
+        "num": 167499,
+        "word": "盛阳 伪装小奶狗的小狼狗",
+        "onboard_time": 1693674566,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164942,
+        "num": 164942,
+        "word": "KAI和Bada超绝的双人舞",
+        "onboard_time": 1693704515,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162777,
+        "num": 162777,
+        "word": "中国男篮小组倒数第一",
+        "onboard_time": 1693663546,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155838,
+        "num": 155838,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155786,
+        "num": 155786,
+        "word": "陈都灵新剧演张凌赫的妈",
+        "onboard_time": 1693704693,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149239,
+        "num": 149239,
+        "word": "四舍五入只有27天就放寒假了",
+        "onboard_time": 1693660302,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142229,
+        "num": 142229,
+        "word": "起猛了以为真的在云端了",
+        "onboard_time": 1693704755,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动世界经济走上持续复苏轨道#"
+    }
+  }
+}

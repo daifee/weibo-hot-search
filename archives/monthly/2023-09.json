@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693703638669,
+  "endTime": 1693704802636,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -137,6 +137,14 @@
       "onboard_time": 1693658618,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2517604,
+      "num": 2517604,
+      "word": "为什么无座和二等座是同价",
+      "onboard_time": 1693699108,
+      "rank": 3,
+      "category": "社会议题"
     },
     {
       "raw_hot": 2481208,
@@ -297,14 +305,6 @@
       "onboard_time": 1693697365,
       "rank": 27,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1771616,
-      "num": 1771616,
-      "word": "为什么无座和二等座是同价",
-      "onboard_time": 1693699108,
-      "rank": 3,
-      "category": "社会议题"
     },
     {
       "raw_hot": 1760427,
@@ -593,6 +593,14 @@
       "onboard_time": 1693658378,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1172535,
+      "num": 574666,
+      "word": "重庆警方通报母子3人家中去世",
+      "onboard_time": 1693703313,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1161330,
@@ -1131,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 764782,
+      "num": 764782,
+      "word": "每个中国人都该记住0903",
+      "onboard_time": 1693696582,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756434,
       "num": 756434,
       "word": "没有中国人笑着走出大英博物馆",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1693698869,
       "rank": 6,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 730255,
+      "num": 730255,
+      "word": "李相夷不是天下第一么",
+      "onboard_time": 1693702592,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 727009,
@@ -1771,6 +1795,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 543377,
+      "num": 317597,
+      "word": "刮刮乐卖疯了开彩票店是躺赚吗",
+      "onboard_time": 1693703614,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 540866,
       "num": 540866,
       "word": "汪苏泷不分手的恋爱独唱失败",
@@ -1936,14 +1968,6 @@
       "word": "伯邑考吃了多少彪子",
       "onboard_time": 1693643433,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 508449,
-      "num": 508449,
-      "word": "李相夷不是天下第一么",
-      "onboard_time": 1693702592,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -2121,14 +2145,6 @@
       "onboard_time": 1693552359,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 478446,
-      "num": 502166,
-      "word": "每个中国人都该记住0903",
-      "onboard_time": 1693696582,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477811,
@@ -3195,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321213,
+      "num": 321213,
+      "word": "你最喜欢易烊千玺塑造的哪个角色",
+      "onboard_time": 1693703554,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317987,
       "num": 249700,
       "word": "费翔想证明外表不重要",
@@ -3235,6 +3259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314180,
+      "num": 314180,
+      "word": "刘宇宁回应蝉女短发造型",
+      "onboard_time": 1693702114,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314044,
       "num": 314044,
       "word": "敖子逸蒋依依的拉扯",
@@ -3257,6 +3289,14 @@
       "onboard_time": 1693621834,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311714,
+      "num": 236261,
+      "word": "不要太快试图建立特殊关系",
+      "onboard_time": 1693702953,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 309415,
@@ -3539,14 +3579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272235,
-      "num": 217878,
-      "word": "重庆警方通报母子3人家中去世",
-      "onboard_time": 1693703313,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272215,
       "num": 254796,
       "word": "男朋友以为是造型拍了下来",
@@ -3755,14 +3787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258984,
-      "num": 258984,
-      "word": "刘宇宁回应蝉女短发造型",
-      "onboard_time": 1693702114,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258812,
       "num": 258812,
       "word": "徐佳莹翻唱Ditto",
@@ -3816,6 +3840,14 @@
       "word": "乌尔善是懂我们想看什么的",
       "onboard_time": 1693642236,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256812,
+      "num": 256812,
+      "word": "侯雯元真的跳了科目一",
+      "onboard_time": 1693697064,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -3961,14 +3993,6 @@
       "onboard_time": 1693551760,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243900,
-      "num": 243900,
-      "word": "侯雯元真的跳了科目一",
-      "onboard_time": 1693697064,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 243574,
@@ -4427,14 +4451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207633,
-      "num": 207633,
-      "word": "不要太快试图建立特殊关系",
-      "onboard_time": 1693702953,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207588,
       "num": 263528,
       "word": "套娃套成这样也是没谁了",
@@ -4625,6 +4641,14 @@
       "onboard_time": 1693639292,
       "rank": 35,
       "category": "其它"
+    },
+    {
+      "raw_hot": 202523,
+      "num": 202523,
+      "word": "这个鱼真的好灵啊",
+      "onboard_time": 1693702714,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 202495,
@@ -4835,12 +4859,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195121,
-      "num": 195121,
-      "word": "这个鱼真的好灵啊",
-      "onboard_time": 1693702714,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 195452,
+      "num": 195452,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1693703915,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 195035,
@@ -5323,12 +5347,12 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 167090,
-      "num": 167090,
-      "word": "你最喜欢易烊千玺塑造的哪个角色",
-      "onboard_time": 1693703554,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 164942,
+      "num": 164942,
+      "word": "KAI和Bada超绝的双人舞",
+      "onboard_time": 1693704515,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 164705,
@@ -5491,6 +5515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155786,
+      "num": 155786,
+      "word": "陈都灵新剧演张凌赫的妈",
+      "onboard_time": 1693704693,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155248,
       "num": 155248,
       "word": "深圳实行五停",
@@ -5561,14 +5593,6 @@
       "onboard_time": 1693491282,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150050,
-      "num": 150050,
-      "word": "刮刮乐卖疯了开彩票店是躺赚吗",
-      "onboard_time": 1693703614,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 148598,
@@ -5664,6 +5688,14 @@
       "word": "西安警方101天跨5省追回200万",
       "onboard_time": 1693634431,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142229,
+      "num": 142229,
+      "word": "起猛了以为真的在云端了",
+      "onboard_time": 1693704755,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
