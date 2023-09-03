@@ -1,0 +1,410 @@
+{
+  "runTime": 1693722028770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681511,
+        "num": 1681511,
+        "word": "12306回应高铁动车二等座无座同价",
+        "onboard_time": 1693714595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394652,
+        "num": 1394652,
+        "word": "被困横店到处客串",
+        "onboard_time": 1693719513,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5800,
+        "num": 1219555,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128816,
+        "num": 1128816,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 2061807,
+        "num": 899956,
+        "word": "妈妈被家暴女儿留下的纸条让人泪目",
+        "onboard_time": 1693716578,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662899,
+        "num": 662899,
+        "word": "日本政府拟拨款200亿日元紧急支援水产业",
+        "onboard_time": 1693716098,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 608591,
+        "num": 608591,
+        "word": "全国唯一考生已经在答题了",
+        "onboard_time": 1693706075,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 551548,
+        "num": 551548,
+        "word": "因发际线高花3万植发长出成撮卷发",
+        "onboard_time": 1693717115,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594936,
+        "num": 539212,
+        "word": "泰国坠崖案女子称离婚要很多材料",
+        "onboard_time": 1693717537,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514986,
+        "num": 514986,
+        "word": "傅首尔老刘参加再见爱人3",
+        "onboard_time": 1693711174,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691561,
+        "num": 511336,
+        "word": "女子修复双眼皮后竟然多个洞",
+        "onboard_time": 1693720534,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451363,
+        "num": 451363,
+        "word": "于正希望内娱好好对待蒋依依",
+        "onboard_time": 1693712015,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391821,
+        "num": 391821,
+        "word": "女子买到发霉面包店员当场吃下",
+        "onboard_time": 1693715916,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221357,
+        "num": 390741,
+        "word": "日本投降的真正原因是什么",
+        "onboard_time": 1693709555,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194681,
+        "num": 390607,
+        "word": "大学生拿1万2奖学金给村里修路",
+        "onboard_time": 1693720834,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390494,
+        "num": 390494,
+        "word": "鹿晗范志毅十年前曾一起上报纸",
+        "onboard_time": 1693716158,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381954,
+        "num": 381954,
+        "word": "陈奕迅上海抢票",
+        "onboard_time": 1693716878,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368988,
+        "num": 368988,
+        "word": "魏哲鸣张远至上励合时期就认识",
+        "onboard_time": 1693720353,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310433,
+        "num": 310433,
+        "word": "混天绫里裹着的人真的是陈牧驰",
+        "onboard_time": 1693718074,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285980,
+        "num": 285980,
+        "word": "女子受朋友邀请赴泰旅游后在缅甸失联",
+        "onboard_time": 1693719035,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385907,
+        "num": 285933,
+        "word": "怪不得都说不要吃虾头",
+        "onboard_time": 1693714055,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 307465,
+        "num": 279044,
+        "word": "丧偶式恋爱",
+        "onboard_time": 1693721314,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286601,
+        "num": 276247,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265294,
+        "num": 265294,
+        "word": "骄阳伴我广告竟然来真的",
+        "onboard_time": 1693705172,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262190,
+        "num": 262190,
+        "word": "卢昱晓喊虞书欣姐姐",
+        "onboard_time": 1693717299,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241914,
+        "num": 241914,
+        "word": "9岁摄影师拍胡歌吴磊",
+        "onboard_time": 1693714238,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242075,
+        "num": 239558,
+        "word": "虞书欣说拍泥浆戏很像巧克力广告",
+        "onboard_time": 1693713213,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236060,
+        "num": 236060,
+        "word": "法老在老番茄婚礼唱健将",
+        "onboard_time": 1693713274,
+        "rank": 27,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 231734,
+        "num": 231734,
+        "word": "丁程鑫恨不得自己上去泼",
+        "onboard_time": 1693717115,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223815,
+        "num": 223815,
+        "word": "刘琳演技",
+        "onboard_time": 1693721736,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278519,
+        "num": 223669,
+        "word": "牛 虽然听不懂但感觉被净化了",
+        "onboard_time": 1693719513,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223252,
+        "num": 223252,
+        "word": "张晚意金丝眼镜",
+        "onboard_time": 1693717479,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220177,
+        "num": 220177,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202061,
+        "num": 202061,
+        "word": "爷爷扶着水桶喂猫咪喝水",
+        "onboard_time": 1693718675,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212207,
+        "num": 202057,
+        "word": "陈都灵新剧演张凌赫的妈",
+        "onboard_time": 1693704693,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202053,
+        "num": 202053,
+        "word": "代号鸢全新密探剪影曝光",
+        "onboard_time": 1693721614,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200657,
+        "num": 200657,
+        "word": "乃万粉裙打歌造型",
+        "onboard_time": 1693721014,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194988,
+        "num": 194988,
+        "word": "宋亚轩试图撤回一分",
+        "onboard_time": 1693718795,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192088,
+        "num": 192088,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183191,
+        "num": 183191,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180730,
+        "num": 180730,
+        "word": "范丞丞镜头下的Angelababy",
+        "onboard_time": 1693720115,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "女大学生报到第一天拿着电瓶车钥匙哭了",
+        "onboard_time": 1693708895,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177765,
+        "num": 177765,
+        "word": "江苏一学校开学一年级仅3人",
+        "onboard_time": 1693712436,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169946,
+        "num": 169946,
+        "word": "张真源斗志燃起来了",
+        "onboard_time": 1693720956,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167532,
+        "num": 167532,
+        "word": "呼市现大量哮喘患者急诊排长队",
+        "onboard_time": 1693711174,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162010,
+        "num": 162010,
+        "word": "肖战送你一束光",
+        "onboard_time": 1693718135,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153482,
+        "num": 153482,
+        "word": "代号鸢",
+        "onboard_time": 1693717479,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153383,
+        "num": 153383,
+        "word": "老番茄结婚照",
+        "onboard_time": 1693708234,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 147713,
+        "num": 147713,
+        "word": "秀才曾被大妈举报欺诈51万",
+        "onboard_time": 1693697365,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 142192,
+        "num": 142192,
+        "word": "日本首相岸田文雄被检举",
+        "onboard_time": 1693696943,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们将共享中国式现代化建设成果#"
+    }
+  }
+}
