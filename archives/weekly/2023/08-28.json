@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693707745193,
+  "endTime": 1693708433136,
   "band_list": [
     {
       "raw_hot": 12742602,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 1944031,
-      "num": 929050,
+      "num": 1722939,
       "word": "重庆警方通报母子3人家中去世",
       "onboard_time": 1693703313,
       "rank": 30,
@@ -977,6 +977,14 @@
       "onboard_time": 1693460681,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1762415,
+      "num": 1762415,
+      "word": "全国唯一考生已经在答题了",
+      "onboard_time": 1693706075,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1760427,
@@ -1387,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382211,
+      "num": 620118,
+      "word": "向佐在KTV团建睡着了",
+      "onboard_time": 1693704873,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1380734,
       "num": 1380734,
       "word": "上错花轿嫁对郎再火的唯一受害者",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1693491639,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1314699,
-      "num": 620118,
-      "word": "向佐在KTV团建睡着了",
-      "onboard_time": 1693704873,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1312664,
@@ -1787,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1089182,
-      "num": 1089182,
-      "word": "全国唯一考生已经在答题了",
-      "onboard_time": 1693706075,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1089080,
       "num": 757677,
       "word": "路人拍的景甜",
@@ -2003,6 +2003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1010858,
+      "num": 1010858,
+      "word": "每个中国人都该记住0903",
+      "onboard_time": 1693696582,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1008885,
       "num": 1008885,
       "word": "韩东君突然有人夫感了",
@@ -2139,6 +2147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 957995,
+      "num": 957995,
+      "word": "骄阳伴我广告竟然来真的",
+      "onboard_time": 1693705172,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 955437,
       "num": 955437,
       "word": "女子同时供职16家公司却从不上班",
@@ -2267,14 +2283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 916580,
-      "num": 916580,
-      "word": "骄阳伴我广告竟然来真的",
-      "onboard_time": 1693705172,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 916169,
       "num": 916169,
       "word": "公司对账差1分出动5名会计帮核对",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1693566637,
       "rank": 23,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 891845,
-      "num": 891845,
-      "word": "每个中国人都该记住0903",
-      "onboard_time": 1693696582,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 887593,
@@ -2963,6 +2963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 767584,
+      "num": 767584,
+      "word": "陈都灵新剧演张凌赫的妈",
+      "onboard_time": 1693704693,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 763211,
       "num": 729226,
       "word": "偷税和漏税有何区别",
@@ -3169,14 +3177,6 @@
       "onboard_time": 1693292857,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 721609,
-      "num": 721609,
-      "word": "陈都灵新剧演张凌赫的妈",
-      "onboard_time": 1693704693,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 721321,
@@ -3401,6 +3401,14 @@
       "onboard_time": 1693558302,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 684896,
+      "num": 222226,
+      "word": "老番茄结婚照",
+      "onboard_time": 1693708234,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 684755,
@@ -7811,6 +7819,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 346443,
+      "num": 346443,
+      "word": "练背能治垮脸",
+      "onboard_time": 1693706493,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345959,
       "num": 345959,
       "word": "莲花楼售后美美的",
@@ -11067,14 +11083,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 242047,
-      "num": 229312,
-      "word": "练背能治垮脸",
-      "onboard_time": 1693706493,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 241490,
       "num": 241490,
       "word": "Lady Dior活动",
@@ -11955,6 +11963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217628,
+      "num": 217628,
+      "word": "日版produce101女团主题曲",
+      "onboard_time": 1693706973,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217201,
       "num": 217201,
       "word": "平昌亚锦赛",
@@ -12073,14 +12089,6 @@
       "onboard_time": 1693454568,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213315,
-      "num": 213315,
-      "word": "日版produce101女团主题曲",
-      "onboard_time": 1693706973,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 212916,
@@ -13867,6 +13875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189917,
+      "num": 189917,
+      "word": "年轻人在秀才倾城评论区做纪检委员",
+      "onboard_time": 1693707634,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 189791,
       "num": 189791,
       "word": "九月你好",
@@ -15449,14 +15465,6 @@
       "onboard_time": 1693580021,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139784,
-      "num": 139784,
-      "word": "年轻人在秀才倾城评论区做纪检委员",
-      "onboard_time": 1693707634,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 139495,
