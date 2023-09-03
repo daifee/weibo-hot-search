@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693736171853,
+  "endTime": 1693737238489,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1695389,
-      "num": 466938,
+      "num": 721977,
       "word": "殡葬专业大一课表长这样",
       "onboard_time": 1693729118,
       "rank": 47,
@@ -457,6 +457,14 @@
       "onboard_time": 1693554101,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1612180,
+      "num": 1612180,
+      "word": "用张元英当头像被骚扰了",
+      "onboard_time": 1693735777,
+      "rank": 30,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 1599255,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1111667,
+      "num": 720860,
+      "word": "李湘太清醒了",
+      "onboard_time": 1693733614,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1110860,
       "num": 1110860,
       "word": "林志玲回应郭台铭有意找其当副手传闻",
@@ -769,14 +785,6 @@
       "onboard_time": 1693570958,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1082705,
-      "num": 466439,
-      "word": "李湘太清醒了",
-      "onboard_time": 1693733614,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 1055874,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1693614213,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 724145,
+      "num": 724145,
+      "word": "俄顶尖火箭科学家中毒身亡",
+      "onboard_time": 1693734937,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723795,
@@ -2451,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487468,
+      "num": 1916771,
+      "word": "大学生拿1万2奖学金给村里修路",
+      "onboard_time": 1693720834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485982,
       "num": 485982,
       "word": "台风远没有公司这么离谱",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1693726534,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 482553,
-      "num": 1585863,
-      "word": "大学生拿1万2奖学金给村里修路",
-      "onboard_time": 1693720834,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480143,
@@ -2649,14 +2665,6 @@
       "onboard_time": 1693543544,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 463476,
-      "num": 463476,
-      "word": "俄顶尖火箭科学家中毒身亡",
-      "onboard_time": 1693734937,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463407,
@@ -3219,6 +3227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382571,
+      "num": 320152,
+      "word": "房东溜进租客房间被监控直播",
+      "onboard_time": 1693735656,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381232,
       "num": 336320,
       "word": "呼市现大量哮喘患者急诊排长队",
@@ -3611,14 +3627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340435,
-      "num": 234124,
-      "word": "用张元英当头像被骚扰了",
-      "onboard_time": 1693735777,
-      "rank": 30,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 339837,
       "num": 262836,
       "word": "西出玉门",
@@ -3787,6 +3795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319813,
+      "num": 319813,
+      "word": "虞书欣新娘珍珠眼妆",
+      "onboard_time": 1693732056,
+      "rank": 32,
+      "category": "影视,美妆"
+    },
+    {
       "raw_hot": 318686,
       "num": 318686,
       "word": "混天绫里裹着的人真的是陈牧驰",
@@ -3915,20 +3931,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308541,
-      "num": 302679,
-      "word": "虞书欣新娘珍珠眼妆",
-      "onboard_time": 1693732056,
-      "rank": 32,
-      "category": "影视,美妆"
-    },
-    {
       "raw_hot": 307342,
       "num": 307342,
       "word": "莲花楼",
       "onboard_time": 1693661140,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307160,
+      "num": 307160,
+      "word": "为什么跑步要跑一休一",
+      "onboard_time": 1693732236,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 306312,
@@ -4083,6 +4099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289515,
+      "num": 289515,
+      "word": "中医馆买酸梅汤",
+      "onboard_time": 1693734157,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 289179,
       "num": 264878,
       "word": "同人女吃饭be like",
@@ -4107,20 +4131,20 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 287849,
-      "num": 287849,
-      "word": "为什么跑步要跑一休一",
-      "onboard_time": 1693732236,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287533,
       "num": 287533,
       "word": "日本男篮vs佛得角男篮",
       "onboard_time": 1693655679,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286227,
+      "num": 237320,
+      "word": "从小就有侵入性思维",
+      "onboard_time": 1693736140,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 285980,
@@ -4145,14 +4169,6 @@
       "onboard_time": 1693710454,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284744,
-      "num": 284744,
-      "word": "中医馆买酸梅汤",
-      "onboard_time": 1693734157,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 284640,
@@ -5155,14 +5171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216885,
-      "num": 216885,
-      "word": "房东溜进租客房间被监控直播",
-      "onboard_time": 1693735656,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216354,
       "num": 216354,
       "word": "蔡依林长沙",
@@ -5361,6 +5369,14 @@
       "onboard_time": 1693636111,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207268,
+      "num": 949156,
+      "word": "休假辅警遇汽车自燃一路狂追灭火",
+      "onboard_time": 1693731457,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207138,
@@ -6283,6 +6299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 179816,
+      "num": 179816,
+      "word": "央妈推荐曾舜晞的终极笔记三次了",
+      "onboard_time": 1693737097,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179177,
       "num": 179177,
       "word": "熊猫妈妈剥竹子给幼崽吃",
@@ -6379,14 +6403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174715,
-      "num": 949156,
-      "word": "休假辅警遇汽车自燃一路狂追灭火",
-      "onboard_time": 1693731457,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174473,
       "num": 174473,
       "word": "孙阳 阿年只是第七个嫌疑人",
@@ -6401,6 +6417,14 @@
       "onboard_time": 1693615295,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173908,
+      "num": 173908,
+      "word": "奥本海默每一秒都激情澎湃",
+      "onboard_time": 1693736977,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 173021,
@@ -6467,6 +6491,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 165907,
+      "num": 165907,
+      "word": "控分学霸云为衫",
+      "onboard_time": 1693736319,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164942,
       "num": 164942,
       "word": "KAI和Bada超绝的双人舞",
@@ -6515,6 +6547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163727,
+      "num": 163727,
+      "word": "第一次见这么懂事的金毛",
+      "onboard_time": 1693735836,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163715,
       "num": 163715,
       "word": "男孩睡醒后看奶奶伏案读书自觉加入",
@@ -6545,14 +6585,6 @@
       "onboard_time": 1693535736,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162719,
-      "num": 162719,
-      "word": "第一次见这么懂事的金毛",
-      "onboard_time": 1693735836,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 162714,
@@ -6881,14 +6913,6 @@
       "onboard_time": 1693580021,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140094,
-      "num": 140094,
-      "word": "从小就有侵入性思维",
-      "onboard_time": 1693736140,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 139495,
@@ -7283,6 +7307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89895,
+      "num": 1652945,
+      "word": "阿尔山风光美如画",
+      "onboard_time": 1693732175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88282,
       "num": 101275,
       "word": "杨紫谈演员职业素养和行为规范",
@@ -7353,14 +7385,6 @@
       "onboard_time": 1693682117,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 81008,
-      "num": 1316267,
-      "word": "阿尔山风光美如画",
-      "onboard_time": 1693732175,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79798,
@@ -7659,6 +7683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35554,
+      "num": 427747,
+      "word": "辅警与大叔合力救起溺水者后虚脱呕吐",
+      "onboard_time": 1693735236,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34778,
       "num": 27849,
       "word": "深圳市台风橙色预警信号升级为红色",
@@ -7801,14 +7833,6 @@
       "onboard_time": 1693648832,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17951,
-      "num": 427747,
-      "word": "辅警与大叔合力救起溺水者后虚脱呕吐",
-      "onboard_time": 1693735236,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17061,
