@@ -1,0 +1,410 @@
+{
+  "runTime": 1693740830588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2326199,
+        "num": 2326199,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 449822,
+        "num": 1977923,
+        "word": "猫咪深夜发现陌生男子入室及时护主",
+        "onboard_time": 1693738248,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57420,
+        "num": 1921318,
+        "word": "阿尔山风光美如画",
+        "onboard_time": 1693732175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1917161,
+        "num": 1917161,
+        "word": "于正希望内娱好好对待蒋依依",
+        "onboard_time": 1693712015,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310326,
+        "num": 1246821,
+        "word": "大学生拿1万2奖学金给村里修路",
+        "onboard_time": 1693720834,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1135491,
+        "num": 1135491,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 5,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 181770,
+        "num": 1069856,
+        "word": "休假辅警遇汽车自燃一路狂追灭火",
+        "onboard_time": 1693731457,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065903,
+        "num": 1065903,
+        "word": "敖子逸待播剧",
+        "onboard_time": 1693738183,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749531,
+        "num": 749531,
+        "word": "Mate60pro",
+        "onboard_time": 1693737880,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 653673,
+        "num": 653673,
+        "word": "何炅 不要被自己的情绪绑架",
+        "onboard_time": 1693723294,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 812809,
+        "num": 650452,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731648,
+        "num": 644248,
+        "word": "殡葬专业大一课表长这样",
+        "onboard_time": 1693729118,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 699130,
+        "num": 638642,
+        "word": "暧昧对象是个小爱豆",
+        "onboard_time": 1693738786,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 627576,
+        "num": 627576,
+        "word": "厦门晚霞",
+        "onboard_time": 1693739443,
+        "rank": 13,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 471367,
+        "num": 589509,
+        "word": "女子称买1公斤软糖花了161元",
+        "onboard_time": 1693737940,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571431,
+        "num": 571431,
+        "word": "俄顶尖火箭科学家中毒身亡",
+        "onboard_time": 1693734937,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387825,
+        "num": 387825,
+        "word": "南京地铁票竟然是个币",
+        "onboard_time": 1693731575,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 345962,
+        "num": 345962,
+        "word": "奥本海默",
+        "onboard_time": 1693728393,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281801,
+        "num": 281801,
+        "word": "虞书欣新娘珍珠眼妆",
+        "onboard_time": 1693732056,
+        "rank": 18,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 268528,
+        "num": 268528,
+        "word": "六公主谈逃出大英博物馆火出圈",
+        "onboard_time": 1693724374,
+        "rank": 19,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 538888,
+        "num": 268425,
+        "word": "央妈推荐曾舜晞的终极笔记三次了",
+        "onboard_time": 1693737097,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453790,
+        "num": 268315,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 342197,
+        "num": 268181,
+        "word": "离职退群前好好发泄了一波情绪",
+        "onboard_time": 1693731157,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311822,
+        "num": 268085,
+        "word": "日本2亿头海参滞销养殖户实在没招",
+        "onboard_time": 1693740043,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305354,
+        "num": 267932,
+        "word": "女孩被男友嫌胖从115斤瘦到68斤",
+        "onboard_time": 1693725033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294722,
+        "num": 267862,
+        "word": "房东溜进租客房间被监控直播",
+        "onboard_time": 1693735656,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293063,
+        "num": 267744,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267648,
+        "num": 267648,
+        "word": "十个勤天头像",
+        "onboard_time": 1693727794,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258511,
+        "num": 258511,
+        "word": "从小就有侵入性思维",
+        "onboard_time": 1693736140,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239907,
+        "num": 239907,
+        "word": "我为自己下辈子找的妈妈",
+        "onboard_time": 1693738305,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231182,
+        "num": 231182,
+        "word": "王源留学日记更新",
+        "onboard_time": 1693732355,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223396,
+        "num": 223396,
+        "word": "曾有72岁老太跨越1700公里去见秀才",
+        "onboard_time": 1693732535,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 218067,
+        "num": 218067,
+        "word": "虞书欣不会是黑切白切黑吧",
+        "onboard_time": 1693738364,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197510,
+        "num": 197510,
+        "word": "从此世上只有李莲花了",
+        "onboard_time": 1693728576,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195755,
+        "num": 195755,
+        "word": "日本已排放超3800吨核污染水",
+        "onboard_time": 1693727015,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187581,
+        "num": 187581,
+        "word": "为什么跑步要跑一休一",
+        "onboard_time": 1693732236,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178864,
+        "num": 178864,
+        "word": "奥本海默每一秒都激情澎湃",
+        "onboard_time": 1693736977,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172093,
+        "num": 172093,
+        "word": "崇应彪一身肌肉难自弃",
+        "onboard_time": 1693738424,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170974,
+        "num": 170974,
+        "word": "中医馆买酸梅汤",
+        "onboard_time": 1693734157,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163864,
+        "num": 163864,
+        "word": "风象星座情绪稳定才最疯狂",
+        "onboard_time": 1693726534,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158653,
+        "num": 158653,
+        "word": "盛阳 今天俺是被宰羔阳",
+        "onboard_time": 1693734275,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155515,
+        "num": 155515,
+        "word": "给狗狗买尿垫买错了尺寸",
+        "onboard_time": 1693729958,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155007,
+        "num": 155007,
+        "word": "相柳 绝世舞姬",
+        "onboard_time": 1693725514,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154978,
+        "num": 154978,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148833,
+        "num": 148833,
+        "word": "云之羽是be还是he",
+        "onboard_time": 1693729292,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145235,
+        "num": 145235,
+        "word": "王源又一次被问成年了吗",
+        "onboard_time": 1693724017,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "林志玲回应郭台铭有意找其当副手传闻",
+        "onboard_time": 1693728393,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 137532,
+        "num": 137532,
+        "word": "想把马杨的这句话送给领导",
+        "onboard_time": 1693724558,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127067,
+        "num": 127067,
+        "word": "抱歉陈晓是真的帅",
+        "onboard_time": 1693724192,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123606,
+        "num": 123606,
+        "word": "女子修复双眼皮后竟然多个洞",
+        "onboard_time": 1693720534,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在开放中创造机遇在合作中破解难题#"
+    }
+  }
+}
