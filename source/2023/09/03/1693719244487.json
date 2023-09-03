@@ -1,0 +1,410 @@
+{
+  "runTime": 1693719244487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2507855,
+        "num": 2507855,
+        "word": "12306回应高铁动车二等座无座同价",
+        "onboard_time": 1693714595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356484,
+        "num": 1356484,
+        "word": "全国唯一考生已经在答题了",
+        "onboard_time": 1693706075,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 6074,
+        "num": 1300780,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1487176,
+        "num": 1297031,
+        "word": "洗完澡后不要马上穿内裤",
+        "onboard_time": 1693708773,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1254294,
+        "num": 1254294,
+        "word": "妈妈被家暴女儿留下的纸条让人泪目",
+        "onboard_time": 1693716578,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850468,
+        "num": 850468,
+        "word": "日本政府拟拨款200亿日元紧急支援水产业",
+        "onboard_time": 1693716098,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 907921,
+        "num": 835025,
+        "word": "于正希望内娱好好对待蒋依依",
+        "onboard_time": 1693712015,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818211,
+        "num": 818211,
+        "word": "傅首尔老刘参加再见爱人3",
+        "onboard_time": 1693711174,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743841,
+        "num": 743841,
+        "word": "陈奕迅上海抢票",
+        "onboard_time": 1693716878,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 685317,
+        "num": 685317,
+        "word": "泰国坠崖案女子称离婚要很多材料",
+        "onboard_time": 1693717537,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619282,
+        "num": 619282,
+        "word": "因发际线高花3万植发长出成撮卷发",
+        "onboard_time": 1693717115,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514235,
+        "num": 514235,
+        "word": "鹿晗范志毅十年前曾一起上报纸",
+        "onboard_time": 1693716158,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492421,
+        "num": 492421,
+        "word": "丁程鑫恨不得自己上去泼",
+        "onboard_time": 1693717115,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471897,
+        "num": 471897,
+        "word": "张晚意金丝眼镜",
+        "onboard_time": 1693717479,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355239,
+        "num": 461172,
+        "word": "日本投降的真正原因是什么",
+        "onboard_time": 1693709555,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458172,
+        "num": 458172,
+        "word": "虞书欣说拍泥浆戏很像巧克力广告",
+        "onboard_time": 1693713213,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424321,
+        "num": 424321,
+        "word": "9岁摄影师拍胡歌吴磊",
+        "onboard_time": 1693714238,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 373383,
+        "num": 373383,
+        "word": "法老在老番茄婚礼唱健将",
+        "onboard_time": 1693713274,
+        "rank": 17,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 371076,
+        "num": 371076,
+        "word": "女大学生报到第一天拿着电瓶车钥匙哭了",
+        "onboard_time": 1693708895,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363095,
+        "num": 363095,
+        "word": "骄阳伴我广告竟然来真的",
+        "onboard_time": 1693705172,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536699,
+        "num": 362301,
+        "word": "怪不得都说不要吃虾头",
+        "onboard_time": 1693714055,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360328,
+        "num": 360328,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346473,
+        "num": 346473,
+        "word": "女子买到发霉面包店员当场吃下",
+        "onboard_time": 1693715916,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318686,
+        "num": 318686,
+        "word": "混天绫里裹着的人真的是陈牧驰",
+        "onboard_time": 1693718074,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296670,
+        "num": 296670,
+        "word": "正式确诊为金靖",
+        "onboard_time": 1693713755,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279966,
+        "num": 279966,
+        "word": "江苏一学校开学一年级仅3人",
+        "onboard_time": 1693712436,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 276114,
+        "num": 276114,
+        "word": "陈都灵新剧演张凌赫的妈",
+        "onboard_time": 1693704693,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260319,
+        "num": 260319,
+        "word": "日本首相岸田文雄被检举",
+        "onboard_time": 1693696943,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 263113,
+        "num": 251854,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243219,
+        "num": 243219,
+        "word": "代号鸢",
+        "onboard_time": 1693717479,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265375,
+        "num": 240161,
+        "word": "谭卓 喜欢费翔爱咋咋地",
+        "onboard_time": 1693714296,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257053,
+        "num": 239369,
+        "word": "卢昱晓喊虞书欣姐姐",
+        "onboard_time": 1693717299,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234874,
+        "num": 234874,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222317,
+        "num": 222317,
+        "word": "爷爷扶着水桶喂猫咪喝水",
+        "onboard_time": 1693718675,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220460,
+        "num": 220460,
+        "word": "宋亚轩试图撤回一分",
+        "onboard_time": 1693718795,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212008,
+        "num": 212008,
+        "word": "向佐在KTV团建睡着了",
+        "onboard_time": 1693704873,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211937,
+        "num": 211937,
+        "word": "肖战送你一束光",
+        "onboard_time": 1693718135,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208913,
+        "num": 208913,
+        "word": "呼市现大量哮喘患者急诊排长队",
+        "onboard_time": 1693711174,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206204,
+        "num": 206204,
+        "word": "女子受朋友邀请赴泰旅游后在缅甸失联",
+        "onboard_time": 1693719035,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199925,
+        "num": 199925,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190068,
+        "num": 190068,
+        "word": "这个鸳鸯火锅是馒头做的",
+        "onboard_time": 1693717838,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178083,
+        "num": 178083,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175678,
+        "num": 175678,
+        "word": "老番茄结婚照",
+        "onboard_time": 1693708234,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 174816,
+        "num": 174816,
+        "word": "楚乌第五回",
+        "onboard_time": 1693718197,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173021,
+        "num": 173021,
+        "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
+        "onboard_time": 1693717957,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 172463,
+        "num": 172463,
+        "word": "奥本海默是历史",
+        "onboard_time": 1693714535,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169885,
+        "num": 169885,
+        "word": "芭比在某种语言上是超级电影",
+        "onboard_time": 1693715558,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169217,
+        "num": 169217,
+        "word": "外甥女舍不得小姨上大学钻进行李箱",
+        "onboard_time": 1693713873,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166551,
+        "num": 166551,
+        "word": "李相夷不是天下第一么",
+        "onboard_time": 1693702592,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165085,
+        "num": 165085,
+        "word": "这画质好像用B超拍的",
+        "onboard_time": 1693715558,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们将共享中国式现代化建设成果#"
+    }
+  }
+}
