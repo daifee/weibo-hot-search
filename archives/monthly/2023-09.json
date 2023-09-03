@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693775606087,
+  "endTime": 1693776851703,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -8659,6 +8659,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 31124,
+      "num": 28557,
+      "word": "罗杰夫认证林志颖泰国人气",
+      "onboard_time": 1693775654,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30613,
       "num": 34804,
       "word": "原来流氓竟是我",
@@ -8747,6 +8755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23315,
+      "num": 23315,
+      "word": "鹊刀门传奇大结局",
+      "onboard_time": 1693771574,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23228,
       "num": 23228,
       "word": "这是什么二次元",
@@ -8761,14 +8777,6 @@
       "onboard_time": 1693506077,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22951,
-      "num": 22951,
-      "word": "鹊刀门传奇大结局",
-      "onboard_time": 1693771574,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 21233,
@@ -8803,8 +8811,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17901,
-      "num": 17901,
+      "raw_hot": 18658,
+      "num": 18658,
       "word": "范丞丞做菜难评的原因找到了",
       "onboard_time": 1693772295,
       "rank": 45,
@@ -8835,8 +8843,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15682,
-      "num": 15682,
+      "raw_hot": 16265,
+      "num": 16265,
       "word": "网友的失败让人暖心",
       "onboard_time": 1693773853,
       "rank": 45,
