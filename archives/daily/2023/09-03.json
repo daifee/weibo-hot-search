@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693726417217,
+  "endTime": 1693729140739,
   "band_list": [
     {
       "raw_hot": 2903215,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1879576,
-      "num": 1879576,
+      "raw_hot": 1943188,
+      "num": 1943188,
       "word": "何炅 不要被自己的情绪绑架",
       "onboard_time": 1693723294,
       "rank": 1,
@@ -145,6 +145,14 @@
       "onboard_time": 1693704873,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1371518,
+      "num": 1371518,
+      "word": "六公主谈逃出大英博物馆火出圈",
+      "onboard_time": 1693724374,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1331600,
@@ -219,14 +227,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 894781,
-      "num": 894781,
-      "word": "六公主谈逃出大英博物馆火出圈",
-      "onboard_time": 1693724374,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 876187,
       "num": 693983,
       "word": "陈都灵兰夫人",
@@ -268,11 +268,19 @@
     },
     {
       "raw_hot": 796174,
-      "num": 458594,
+      "num": 459797,
       "word": "王源又一次被问成年了吗",
       "onboard_time": 1693724017,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 789684,
+      "num": 789684,
+      "word": "十个勤天头像",
+      "onboard_time": 1693727794,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 767584,
@@ -289,6 +297,14 @@
       "onboard_time": 1693665644,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 752241,
+      "num": 344607,
+      "word": "女孩被男友嫌胖从115斤瘦到68斤",
+      "onboard_time": 1693725033,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 743841,
@@ -321,6 +337,14 @@
       "onboard_time": 1693667685,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715830,
+      "num": 465366,
+      "word": "林志玲回应郭台铭有意找其当副手传闻",
+      "onboard_time": 1693728393,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 711287,
@@ -371,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 656833,
+      "num": 656833,
+      "word": "日本已排放超3800吨核污染水",
+      "onboard_time": 1693727015,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650482,
       "num": 650482,
       "word": "李荣浩演唱会讲话时嘴里进了只蚊子",
@@ -379,20 +411,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 639419,
-      "num": 639419,
+      "raw_hot": 648183,
+      "num": 648183,
       "word": "抱歉陈晓是真的帅",
       "onboard_time": 1693724192,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 635753,
-      "num": 298332,
-      "word": "女孩被男友嫌胖从115斤瘦到68斤",
-      "onboard_time": 1693725033,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 626505,
@@ -467,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564965,
+      "num": 564965,
+      "word": "王哲林把朱芳雨微信删了",
+      "onboard_time": 1693724494,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 563626,
       "num": 316194,
       "word": "丧偶式恋爱",
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513834,
+      "num": 451906,
+      "word": "相柳 绝世舞姬",
+      "onboard_time": 1693725514,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508677,
       "num": 508677,
       "word": "丁程鑫恨不得自己上去泼",
@@ -561,14 +601,6 @@
       "onboard_time": 1693701032,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 496992,
-      "num": 434927,
-      "word": "王哲林把朱芳雨微信删了",
-      "onboard_time": 1693724494,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 490774,
@@ -619,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466844,
+      "num": 466844,
+      "word": "风象星座情绪稳定才最疯狂",
+      "onboard_time": 1693726534,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453199,
       "num": 328075,
       "word": "秀才账号被封",
       "onboard_time": 1693649312,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 440874,
+      "num": 440874,
+      "word": "女富豪们是怎么白手起家的",
+      "onboard_time": 1693725156,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 438558,
@@ -659,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 384665,
-      "num": 384665,
-      "word": "相柳 绝世舞姬",
-      "onboard_time": 1693725514,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 383549,
       "num": 383549,
       "word": "梁朝伟李安双i并地走",
@@ -691,12 +731,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371465,
+      "num": 371465,
+      "word": "老太地铁如厕后消失民警推理寻人",
+      "onboard_time": 1693727255,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368988,
       "num": 368988,
       "word": "魏哲鸣张远至上励合时期就认识",
       "onboard_time": 1693720353,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365835,
+      "num": 365835,
+      "word": "汕头全市中小学9月4日起停课",
+      "onboard_time": 1693725994,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 344076,
@@ -731,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334642,
+      "num": 334642,
+      "word": "奥本海默",
+      "onboard_time": 1693728393,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333727,
       "num": 333727,
       "word": "曾舜晞特别出演云之羽",
@@ -739,11 +803,27 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 323493,
+      "num": 257715,
+      "word": "税务局已收到秀才举报材料",
+      "onboard_time": 1693728816,
+      "rank": 30,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 321213,
       "num": 321213,
       "word": "你最喜欢易烊千玺塑造的哪个角色",
       "onboard_time": 1693703554,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 320606,
+      "num": 320606,
+      "word": "装腔启示录导演3年3部8分以上现代剧",
+      "onboard_time": 1693727315,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -803,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308951,
+      "num": 308951,
+      "word": "张栋梁的衣服是穿反了吗",
+      "onboard_time": 1693723774,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304274,
       "num": 304274,
       "word": "中国男篮崩盘",
@@ -817,6 +905,14 @@
       "onboard_time": 1693660302,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300289,
+      "num": 300289,
+      "word": "云之羽爱奇艺热度值破8500",
+      "onboard_time": 1693727315,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 299257,
@@ -841,14 +937,6 @@
       "onboard_time": 1693712192,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296733,
-      "num": 296733,
-      "word": "张栋梁的衣服是穿反了吗",
-      "onboard_time": 1693723774,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 288719,
@@ -963,12 +1051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259069,
-      "num": 203406,
-      "word": "女富豪们是怎么白手起家的",
-      "onboard_time": 1693725156,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 258686,
+      "num": 258686,
+      "word": "从此世上只有李莲花了",
+      "onboard_time": 1693728576,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 256812,
@@ -1011,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247604,
+      "num": 247604,
+      "word": "95后姑娘3个月连买20多条珍珠项链",
+      "onboard_time": 1693726175,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245560,
       "num": 245560,
       "word": "田曦薇她好宠",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1693661321,
       "rank": 23,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 231206,
+      "num": 231206,
+      "word": "炸毛的白敬亭",
+      "onboard_time": 1693726056,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 229164,
@@ -1131,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215455,
+      "num": 215455,
+      "word": "没入坑你cp但是我入坑你了",
+      "onboard_time": 1693728695,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213022,
       "num": 213022,
       "word": "安乐传hi6暑期收视率TOP1",
@@ -1144,6 +1256,22 @@
       "word": "肖战送你一束光",
       "onboard_time": 1693718135,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211731,
+      "num": 211731,
+      "word": "日本男篮赛后全场合唱灌篮高手主题曲",
+      "onboard_time": 1693726117,
+      "rank": 39,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 210436,
+      "num": 210436,
+      "word": "张凌赫回应没唱云之羽OST",
+      "onboard_time": 1693728098,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1193,14 +1321,6 @@
       "onboard_time": 1693715194,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203651,
-      "num": 203651,
-      "word": "汕头全市中小学9月4日起停课",
-      "onboard_time": 1693725994,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 202714,
@@ -1347,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183706,
+      "num": 183706,
+      "word": "骄阳伴我台词深度",
+      "onboard_time": 1693728633,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182400,
       "num": 602013,
       "word": "全国道德模范龚全珍逝世",
@@ -1395,28 +1523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 173136,
-      "num": 173136,
-      "word": "炸毛的白敬亭",
-      "onboard_time": 1693726056,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173021,
       "num": 173021,
       "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
       "onboard_time": 1693717957,
       "rank": 47,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 172767,
-      "num": 172767,
-      "word": "日本男篮赛后全场合唱灌篮高手主题曲",
-      "onboard_time": 1693726117,
-      "rank": 39,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 171827,
@@ -1499,12 +1611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160077,
-      "num": 160077,
-      "word": "95后姑娘3个月连买20多条珍珠项链",
-      "onboard_time": 1693726175,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 155732,
+      "num": 155732,
+      "word": "发现总有人吵架爱叫别人多读点书",
+      "onboard_time": 1693728756,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 148236,
@@ -1521,6 +1633,22 @@
       "onboard_time": 1693673191,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144033,
+      "num": 144033,
+      "word": "殡葬专业大一课表长这样",
+      "onboard_time": 1693729118,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 138996,
+      "num": 138996,
+      "word": "独居女生被陌生男子反锁屋内",
+      "onboard_time": 1693729118,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138199,
@@ -1667,6 +1795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43267,
+      "num": 1064268,
+      "word": "一带一路全球行",
+      "onboard_time": 1693725875,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43187,
       "num": 43802,
       "word": "锈湖梗图",
@@ -1691,19 +1827,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31450,
-      "num": 1064268,
-      "word": "一带一路全球行",
-      "onboard_time": 1693725875,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25997,
       "num": 25997,
       "word": "父亲接站退役儿子被单手抱起",
       "onboard_time": 1693692856,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20901,
+      "num": 445308,
+      "word": "女护士百米冲刺跪地救援溺水老人",
+      "onboard_time": 1693728098,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1721,6 +1857,9 @@
     },
     {
       "word": "#携手推动世界经济走上持续复苏轨道#"
+    },
+    {
+      "word": "#习近平主席服贸会致辞释放鲜明信号#"
     }
   ]
 }
