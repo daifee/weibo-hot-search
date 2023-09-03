@@ -1,0 +1,410 @@
+{
+  "runTime": 1693703638669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2019384,
+        "num": 2019384,
+        "word": "日本首相岸田文雄被检举",
+        "onboard_time": 1693696943,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1779007,
+        "num": 1779007,
+        "word": "秀才曾被大妈举报欺诈51万",
+        "onboard_time": 1693697365,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 6217,
+        "num": 1774850,
+        "word": "感受2023服贸会风采",
+        "onboard_time": 1693631015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1771616,
+        "num": 1771616,
+        "word": "为什么无座和二等座是同价",
+        "onboard_time": 1693699108,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1697639,
+        "num": 1697639,
+        "word": "北京众多市民涌入干涸河道捡金粒",
+        "onboard_time": 1693696162,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331600,
+        "num": 1331600,
+        "word": "白百何新剧穿帮镜头",
+        "onboard_time": 1693702234,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 732079,
+        "num": 732079,
+        "word": "雪姨的精神状态好超前啊",
+        "onboard_time": 1693698869,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 598362,
+        "num": 598362,
+        "word": "云之羽",
+        "onboard_time": 1693677442,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543046,
+        "num": 543046,
+        "word": "利息少了130万房主美滋滋换电脑换手机",
+        "onboard_time": 1693665584,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 508449,
+        "num": 508449,
+        "word": "李相夷不是天下第一么",
+        "onboard_time": 1693702592,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1384726,
+        "num": 508243,
+        "word": "胡歌 你才大小姐呢",
+        "onboard_time": 1693665824,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924746,
+        "num": 507270,
+        "word": "韩国石斑鱼大量死亡",
+        "onboard_time": 1693662099,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533101,
+        "num": 507101,
+        "word": "看完奥本海默开始狂搜书单的我",
+        "onboard_time": 1693700550,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505708,
+        "num": 505708,
+        "word": "台风海葵",
+        "onboard_time": 1693701752,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478446,
+        "num": 502166,
+        "word": "每个中国人都该记住0903",
+        "onboard_time": 1693696582,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498895,
+        "num": 498895,
+        "word": "夭柳 不负相思意大电影",
+        "onboard_time": 1693701032,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455182,
+        "num": 455182,
+        "word": "羡慕杜海涛婴儿般的睡眠",
+        "onboard_time": 1693668582,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367134,
+        "num": 367134,
+        "word": "张凌赫粉底太白了",
+        "onboard_time": 1693661860,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344909,
+        "num": 344909,
+        "word": "千万粉丝网红家中失火",
+        "onboard_time": 1693669720,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 283774,
+        "num": 317291,
+        "word": "周杰伦与小女儿牵手照",
+        "onboard_time": 1693666184,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663200,
+        "num": 317282,
+        "word": "男子发生关系后猝死情人被起诉",
+        "onboard_time": 1693669961,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317110,
+        "num": 317110,
+        "word": "爸爸看了一圈儿子同学的名字懵了",
+        "onboard_time": 1693664564,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299257,
+        "num": 299257,
+        "word": "尊重九岁小孩的隐私",
+        "onboard_time": 1693701452,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258984,
+        "num": 258984,
+        "word": "刘宇宁回应蝉女短发造型",
+        "onboard_time": 1693702114,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257640,
+        "num": 257640,
+        "word": "云之羽观后感",
+        "onboard_time": 1693700309,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253057,
+        "num": 253057,
+        "word": "我喜欢你 暂时两字不发音",
+        "onboard_time": 1693666546,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245895,
+        "num": 245895,
+        "word": "在上海吃到了42块的可丽饼",
+        "onboard_time": 1693671633,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243900,
+        "num": 243900,
+        "word": "侯雯元真的跳了科目一",
+        "onboard_time": 1693697064,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228565,
+        "num": 228565,
+        "word": "孟美岐安崎唱跳演合作舞台",
+        "onboard_time": 1693698566,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221609,
+        "num": 221609,
+        "word": "中国男篮或将连续缺席两届奥运会",
+        "onboard_time": 1693670200,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272235,
+        "num": 217878,
+        "word": "重庆警方通报母子3人家中去世",
+        "onboard_time": 1693703313,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221996,
+        "num": 217506,
+        "word": "黄曦彦怎么游泳还穿衣服的",
+        "onboard_time": 1693698927,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207633,
+        "num": 207633,
+        "word": "不要太快试图建立特殊关系",
+        "onboard_time": 1693702953,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207602,
+        "num": 207602,
+        "word": "公司逼员工主动离职常用套路",
+        "onboard_time": 1693653757,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206921,
+        "num": 206921,
+        "word": "云之羽爱奇艺热度值破6500",
+        "onboard_time": 1693699226,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195121,
+        "num": 195121,
+        "word": "这个鱼真的好灵啊",
+        "onboard_time": 1693702714,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189537,
+        "num": 189537,
+        "word": "盛阳 伪装小奶狗的小狼狗",
+        "onboard_time": 1693674566,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189279,
+        "num": 189279,
+        "word": "女儿送58元戒指没想到妈妈戴了9年",
+        "onboard_time": 1693685895,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187838,
+        "num": 187838,
+        "word": "陈都灵兰夫人",
+        "onboard_time": 1693669001,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185514,
+        "num": 185514,
+        "word": "好羡慕23级大学生",
+        "onboard_time": 1693658914,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184646,
+        "num": 184646,
+        "word": "四舍五入只有27天就放寒假了",
+        "onboard_time": 1693660302,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179177,
+        "num": 179177,
+        "word": "熊猫妈妈剥竹子给幼崽吃",
+        "onboard_time": 1693698446,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170170,
+        "num": 170170,
+        "word": "解说怒吼质问中国男篮",
+        "onboard_time": 1693664564,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167090,
+        "num": 167090,
+        "word": "你最喜欢易烊千玺塑造的哪个角色",
+        "onboard_time": 1693703554,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164839,
+        "num": 164839,
+        "word": "核污水排放1周海水一片漆黑",
+        "onboard_time": 1693637495,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162146,
+        "num": 162146,
+        "word": "姚明黑脸",
+        "onboard_time": 1693665644,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160861,
+        "num": 160861,
+        "word": "杭州程序员帮邻居精准灭火火了",
+        "onboard_time": 1693699589,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160515,
+        "num": 160515,
+        "word": "大熊猫从满格到没电只需一秒钟",
+        "onboard_time": 1693698748,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154361,
+        "num": 154361,
+        "word": "中国男篮小组倒数第一",
+        "onboard_time": 1693663546,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150050,
+        "num": 150050,
+        "word": "刮刮乐卖疯了开彩票店是躺赚吗",
+        "onboard_time": 1693703614,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们将共享中国式现代化建设成果#"
+    }
+  }
+}
