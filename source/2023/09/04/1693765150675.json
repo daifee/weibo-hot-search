@@ -1,0 +1,410 @@
+{
+  "runTime": 1693765150675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640439,
+        "num": 640439,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420912,
+        "num": 420912,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18565,
+        "num": 360826,
+        "word": "迎亚运的杭州好漂亮",
+        "onboard_time": 1693747242,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309565,
+        "num": 309565,
+        "word": "清华大学研究生重量级宿舍",
+        "onboard_time": 1693757434,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283241,
+        "num": 283241,
+        "word": "今年已有5位网红因违法违规被封",
+        "onboard_time": 1693749704,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 187059,
+        "num": 187059,
+        "word": "湖南被患者抹脖子牙医朋友发声",
+        "onboard_time": 1693755636,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137689,
+        "num": 137689,
+        "word": "原来真有人后发际线长到脖子上",
+        "onboard_time": 1693750483,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126631,
+        "num": 126631,
+        "word": "阿森纳vs曼联",
+        "onboard_time": 1693753664,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113875,
+        "num": 113875,
+        "word": "用张元英当头像被骚扰了",
+        "onboard_time": 1693735777,
+        "rank": 8,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 98130,
+        "num": 98130,
+        "word": "成都地震",
+        "onboard_time": 1693751985,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283934,
+        "num": 97569,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246759,
+        "num": 97370,
+        "word": "这居然是纪凌尘",
+        "onboard_time": 1693747242,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206370,
+        "num": 96620,
+        "word": "我们学校复变函数老师是杨幂大伯",
+        "onboard_time": 1693755399,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75777,
+        "num": 96157,
+        "word": "税务局已收到秀才举报材料",
+        "onboard_time": 1693728816,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 71208,
+        "num": 95828,
+        "word": "警犬找回走失男子被奖励一盆鸡腿",
+        "onboard_time": 1693757613,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117901,
+        "num": 95009,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94769,
+        "num": 94769,
+        "word": "虞书欣拍的卢昱晓",
+        "onboard_time": 1693741606,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94404,
+        "num": 94404,
+        "word": "韩版黄雨萱",
+        "onboard_time": 1693750727,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88421,
+        "num": 88421,
+        "word": "张慧雯妆造好端庄",
+        "onboard_time": 1693755636,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84707,
+        "num": 84707,
+        "word": "央视评华为争气机",
+        "onboard_time": 1693749767,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 122143,
+        "num": 84133,
+        "word": "工作后发现5000块真的很难挣",
+        "onboard_time": 1693745141,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115175,
+        "num": 81170,
+        "word": "上官浅宫尚角",
+        "onboard_time": 1693761203,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107373,
+        "num": 77913,
+        "word": "为什么现在年轻人很少去KTV了",
+        "onboard_time": 1693745141,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94087,
+        "num": 76485,
+        "word": "女生125斤被质问你胖成啥了",
+        "onboard_time": 1693746706,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84736,
+        "num": 73529,
+        "word": "女子被狗撕碎左脸缝了500多针",
+        "onboard_time": 1693753483,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73183,
+        "num": 73183,
+        "word": "皮肤和情绪的关系",
+        "onboard_time": 1693750606,
+        "rank": 25,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 69006,
+        "num": 69006,
+        "word": "Mate60遥遥领先",
+        "onboard_time": 1693745680,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 64755,
+        "num": 64755,
+        "word": "英超",
+        "onboard_time": 1693762760,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57562,
+        "num": 57562,
+        "word": "黄明昊在韩国说中文",
+        "onboard_time": 1693745324,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57368,
+        "num": 57368,
+        "word": "李湘太清醒了",
+        "onboard_time": 1693733614,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81439,
+        "num": 56275,
+        "word": "人下意识的举动能说明很多信息",
+        "onboard_time": 1693760963,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54918,
+        "num": 54918,
+        "word": "林一是巨人吧",
+        "onboard_time": 1693757854,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54684,
+        "num": 54684,
+        "word": "奥本海默里消失的她",
+        "onboard_time": 1693752647,
+        "rank": 32,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 52146,
+        "num": 52146,
+        "word": "你什么档次敢骂雪姨",
+        "onboard_time": 1693750063,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53801,
+        "num": 51905,
+        "word": "看奥本海默仿佛参观一场人类的葬礼",
+        "onboard_time": 1693764559,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51128,
+        "num": 51128,
+        "word": "白百何就没演过受气的角色",
+        "onboard_time": 1693740164,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50821,
+        "num": 50821,
+        "word": "谁是周冬雨",
+        "onboard_time": 1693754144,
+        "rank": 36,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 50713,
+        "num": 50713,
+        "word": "网传女子治牙发生纠纷抹了医生脖子",
+        "onboard_time": 1693754922,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50523,
+        "num": 50523,
+        "word": "华科新闻学院院长回应张雪峰",
+        "onboard_time": 1693740528,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 49688,
+        "num": 49688,
+        "word": "林一韩国路演生图",
+        "onboard_time": 1693759706,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 49387,
+        "num": 49387,
+        "word": "李安舒淇刘嘉玲胡歌合影",
+        "onboard_time": 1693742981,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49194,
+        "num": 49194,
+        "word": "汉服女生这个系列对我眼睛太好了",
+        "onboard_time": 1693751627,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 49106,
+        "num": 49106,
+        "word": "ive",
+        "onboard_time": 1693751385,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49009,
+        "num": 49009,
+        "word": "宫远徵叫姐姐",
+        "onboard_time": 1693745501,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47776,
+        "num": 47776,
+        "word": "金晨绝地反杀王霏霏",
+        "onboard_time": 1693755164,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44580,
+        "num": 44580,
+        "word": "梁朝伟刘嘉玲亲亲",
+        "onboard_time": 1693741964,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43688,
+        "num": 43688,
+        "word": "猫的树是懂纯爱的",
+        "onboard_time": 1693750902,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40959,
+        "num": 40959,
+        "word": "央妈推荐曾舜晞的终极笔记三次了",
+        "onboard_time": 1693737097,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40918,
+        "num": 40918,
+        "word": "能活到今天我都想奖励自己",
+        "onboard_time": 1693763777,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40680,
+        "num": 40680,
+        "word": "小夭 猛兽终会破笼",
+        "onboard_time": 1693758333,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}
