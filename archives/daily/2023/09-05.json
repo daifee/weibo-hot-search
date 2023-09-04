@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693848838691,
+  "endTime": 1693851606613,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -475,8 +475,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 45340,
-      "num": 53238,
+      "raw_hot": 62175,
+      "num": 62175,
       "word": "人际关系开悟的三个认知",
       "onboard_time": 1693848380,
       "rank": 47,
@@ -488,6 +488,14 @@
       "word": "对所爱之事有最真挚的期待",
       "onboard_time": 1693848559,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 31596,
+      "num": 36882,
+      "word": "恋爱中卑微的结果",
+      "onboard_time": 1693851317,
+      "rank": 46,
       "category": "情感"
     },
     {
