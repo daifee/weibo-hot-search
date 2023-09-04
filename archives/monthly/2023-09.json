@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693852445299,
+  "endTime": 1693854781820,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -10915,6 +10915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45294,
+      "num": 43207,
+      "word": "恋爱中卑微的结果",
+      "onboard_time": 1693851317,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44866,
       "num": 44866,
       "word": "能活到今天我都想奖励自己",
@@ -10953,14 +10961,6 @@
       "onboard_time": 1693725875,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43207,
-      "num": 43207,
-      "word": "恋爱中卑微的结果",
-      "onboard_time": 1693851317,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 43187,
@@ -11193,6 +11193,14 @@
       "onboard_time": 1693509255,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23723,
+      "num": 23723,
+      "word": "选狗窍门",
+      "onboard_time": 1693853955,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 23246,

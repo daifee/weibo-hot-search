@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693852445299,
+  "endTime": 1693854781820,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -483,7 +483,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43207,
+      "raw_hot": 45294,
       "num": 43207,
       "word": "恋爱中卑微的结果",
       "onboard_time": 1693851317,
@@ -497,6 +497,14 @@
       "onboard_time": 1693848559,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23723,
+      "num": 23723,
+      "word": "选狗窍门",
+      "onboard_time": 1693853955,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 4433,
