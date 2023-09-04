@@ -1,0 +1,410 @@
+{
+  "runTime": 1693804553171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3155461,
+        "num": 3155461,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1591378,
+        "num": 1591378,
+        "word": "天津大爷已经没空跳水了",
+        "onboard_time": 1693796676,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189551,
+        "num": 1444465,
+        "word": "博物馆里那些一眼惊艳的文案",
+        "onboard_time": 1693800036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379706,
+        "num": 1379706,
+        "word": "范丞丞关晓彤 小巷人家",
+        "onboard_time": 1693802024,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1197337,
+        "num": 1197337,
+        "word": "一亿个孩子一间房",
+        "onboard_time": 1693800400,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 923656,
+        "num": 923656,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 791557,
+        "num": 791557,
+        "word": "蒲松龄后人驳斥刀郎侵权言论",
+        "onboard_time": 1693801300,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 751720,
+        "num": 751720,
+        "word": "中国女性肥胖比例不足10%",
+        "onboard_time": 1693800277,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655577,
+        "num": 655577,
+        "word": "滕州高铁站跳轨男子已被送医",
+        "onboard_time": 1693800880,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651236,
+        "num": 651236,
+        "word": "大熊猫花花的妈妈死亡",
+        "onboard_time": 1693782326,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163605,
+        "num": 646469,
+        "word": "拒绝退伍军人买优惠票客车停运7天",
+        "onboard_time": 1693802385,
+        "rank": 10,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 588622,
+        "num": 588622,
+        "word": "杨振宁 奥本海默",
+        "onboard_time": 1693795054,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475198,
+        "num": 475198,
+        "word": "云之羽第五集",
+        "onboard_time": 1693800880,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431915,
+        "num": 431915,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30574,
+        "num": 422880,
+        "word": "7旬奶奶用废弃木板手工复刻老房子",
+        "onboard_time": 1693803762,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417448,
+        "num": 417448,
+        "word": "逐月主演",
+        "onboard_time": 1693801603,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407473,
+        "num": 407473,
+        "word": "酱香拿铁",
+        "onboard_time": 1693796736,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 404758,
+        "num": 404758,
+        "word": "骄阳伴我里很现实的悲哀",
+        "onboard_time": 1693799499,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397039,
+        "num": 397039,
+        "word": "郭小四搁这儿拍小时代呢",
+        "onboard_time": 1693786720,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340748,
+        "num": 340748,
+        "word": "易烊千玺怀化市城市形象大使",
+        "onboard_time": 1693796915,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 983317,
+        "num": 337877,
+        "word": "满杯茅台去咖啡液",
+        "onboard_time": 1693802024,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 660580,
+        "num": 334852,
+        "word": "让自己的面相变好的方法",
+        "onboard_time": 1693801481,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 531237,
+        "num": 333328,
+        "word": "虞书欣鲨鱼夹",
+        "onboard_time": 1693799194,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327681,
+        "num": 327681,
+        "word": "舒淇威尼斯偶遇封神",
+        "onboard_time": 1693801421,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321658,
+        "num": 321658,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299698,
+        "num": 299698,
+        "word": "高铁站回应男子跳下站台被火车轧车底",
+        "onboard_time": 1693801722,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280353,
+        "num": 280353,
+        "word": "武汉一市民服用中药2天后身亡",
+        "onboard_time": 1693789538,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278278,
+        "num": 278278,
+        "word": "关晓彤山根碎钻妆",
+        "onboard_time": 1693801722,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 276561,
+        "num": 276561,
+        "word": "云之羽",
+        "onboard_time": 1693788158,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266255,
+        "num": 266255,
+        "word": "为什么现在酒店都不收押金了",
+        "onboard_time": 1693788338,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259778,
+        "num": 259778,
+        "word": "莲花楼男主选角",
+        "onboard_time": 1693787318,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253277,
+        "num": 253277,
+        "word": "洛杉矶1比3迈阿密国际",
+        "onboard_time": 1693801840,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234702,
+        "num": 234702,
+        "word": "再见爱人3开播",
+        "onboard_time": 1693803877,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231650,
+        "num": 231650,
+        "word": "离职后被要求退回奶茶钱",
+        "onboard_time": 1693784373,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217563,
+        "num": 217563,
+        "word": "于适你真的很疯",
+        "onboard_time": 1693795896,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217450,
+        "num": 217450,
+        "word": "整个洛杉矶都来看梅西了",
+        "onboard_time": 1693796857,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214449,
+        "num": 214449,
+        "word": "上海现不明飞行物似火球般高速坠落",
+        "onboard_time": 1693791933,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204903,
+        "num": 204903,
+        "word": "如何判断鸡蛋的新鲜程度",
+        "onboard_time": 1693804060,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197743,
+        "num": 197743,
+        "word": "野球帝 退出",
+        "onboard_time": 1693792892,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197705,
+        "num": 197705,
+        "word": "广东的KTV有多离谱",
+        "onboard_time": 1693791577,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192949,
+        "num": 192949,
+        "word": "虞书欣让田嘉瑞叫姐姐",
+        "onboard_time": 1693804358,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192616,
+        "num": 192616,
+        "word": "坚如磐石全阵容芭莎大片",
+        "onboard_time": 1693804182,
+        "rank": 41,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 989625,
+        "num": 192580,
+        "word": "高铁",
+        "onboard_time": 1693799256,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192233,
+        "num": 192233,
+        "word": "美网",
+        "onboard_time": 1693802262,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188729,
+        "num": 188729,
+        "word": "密室大逃脱5收官晚宴",
+        "onboard_time": 1693801540,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184234,
+        "num": 184234,
+        "word": "Melody参加再见爱人3的原因",
+        "onboard_time": 1693790015,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182413,
+        "num": 182413,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182303,
+        "num": 182303,
+        "word": "同事让我们孤立他",
+        "onboard_time": 1693793612,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170578,
+        "num": 170578,
+        "word": "快速进入学习状态的方法",
+        "onboard_time": 1693801661,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169543,
+        "num": 169543,
+        "word": "那些被秀才圈粉的中老年女性",
+        "onboard_time": 1693800880,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席服贸会致辞释放鲜明信号#"
+    }
+  }
+}

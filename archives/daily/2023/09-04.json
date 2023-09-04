@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693802037788,
+  "endTime": 1693804553171,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -99,6 +99,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1379706,
+      "num": 1379706,
+      "word": "范丞丞关晓彤 小巷人家",
+      "onboard_time": 1693802024,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1307229,
       "num": 578932,
       "word": "肛肠科待太久对帅哥都无感了",
@@ -107,12 +115,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1172364,
-      "num": 630463,
+      "raw_hot": 1197337,
+      "num": 1197337,
       "word": "一亿个孩子一间房",
       "onboard_time": 1693800400,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1163605,
+      "num": 646469,
+      "word": "拒绝退伍军人买优惠票客车停运7天",
+      "onboard_time": 1693802385,
+      "rank": 10,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 1135570,
@@ -155,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 983317,
+      "num": 337877,
+      "word": "满杯茅台去咖啡液",
+      "onboard_time": 1693802024,
+      "rank": 48,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 944775,
       "num": 944775,
       "word": "滕州高铁站跳轨男子已被送医",
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791557,
+      "num": 791557,
+      "word": "蒲松龄后人驳斥刀郎侵权言论",
+      "onboard_time": 1693801300,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 789085,
       "num": 789085,
       "word": "上海现不明飞行物似火球般高速坠落",
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 775192,
-      "num": 379020,
+      "num": 751720,
       "word": "中国女性肥胖比例不足10%",
       "onboard_time": 1693800277,
       "rank": 21,
@@ -249,6 +281,14 @@
       "onboard_time": 1693784673,
       "rank": 8,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 660580,
+      "num": 334852,
+      "word": "让自己的面相变好的方法",
+      "onboard_time": 1693801481,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 643239,
@@ -363,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475198,
+      "num": 475198,
+      "word": "云之羽第五集",
+      "onboard_time": 1693800880,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463472,
       "num": 463472,
       "word": "你什么档次敢骂雪姨",
@@ -411,20 +459,20 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 417448,
+      "num": 417448,
+      "word": "逐月主演",
+      "onboard_time": 1693801603,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417289,
       "num": 417289,
       "word": "马立奥 我和我的冤种老爸",
       "onboard_time": 1693787198,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416678,
-      "num": 416678,
-      "word": "蒲松龄后人驳斥刀郎侵权言论",
-      "onboard_time": 1693801300,
-      "rank": 17,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 415155,
@@ -457,14 +505,6 @@
       "onboard_time": 1693745141,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 382306,
-      "num": 382306,
-      "word": "云之羽第五集",
-      "onboard_time": 1693800880,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 367902,
@@ -539,11 +579,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324559,
-      "num": 324559,
-      "word": "逐月主演",
-      "onboard_time": 1693801603,
-      "rank": 27,
+      "raw_hot": 327681,
+      "num": 327681,
+      "word": "舒淇威尼斯偶遇封神",
+      "onboard_time": 1693801421,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -579,14 +619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 314434,
-      "num": 310564,
-      "word": "舒淇威尼斯偶遇封神",
-      "onboard_time": 1693801421,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310949,
       "num": 310949,
       "word": "关晓彤山根碎钻妆",
@@ -619,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299698,
+      "num": 299698,
+      "word": "高铁站回应男子跳下站台被火车轧车底",
+      "onboard_time": 1693801722,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297875,
       "num": 279719,
       "word": "国家发展改革委内设民营经济发展局",
@@ -633,14 +673,6 @@
       "onboard_time": 1693791577,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295118,
-      "num": 295118,
-      "word": "让自己的面相变好的方法",
-      "onboard_time": 1693801481,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 286476,
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253277,
+      "num": 253277,
+      "word": "洛杉矶1比3迈阿密国际",
+      "onboard_time": 1693801840,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250431,
       "num": 362335,
       "word": "税务局已收到秀才举报材料",
@@ -763,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244279,
-      "num": 244279,
-      "word": "高铁站回应男子跳下站台被火车轧车底",
-      "onboard_time": 1693801722,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238032,
       "num": 238032,
       "word": "1993年的电视剧有多经典",
@@ -793,6 +825,14 @@
       "onboard_time": 1693735777,
       "rank": 31,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 234702,
+      "num": 234702,
+      "word": "再见爱人3开播",
+      "onboard_time": 1693803877,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 234187,
@@ -923,20 +963,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204903,
+      "num": 204903,
+      "word": "如何判断鸡蛋的新鲜程度",
+      "onboard_time": 1693804060,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 204624,
       "num": 204624,
       "word": "好想告诉你第3季制作决定",
       "onboard_time": 1693783168,
       "rank": 18,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 203005,
-      "num": 203005,
-      "word": "范丞丞关晓彤 小巷人家",
-      "onboard_time": 1693802024,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 199998,
@@ -1003,20 +1043,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191918,
-      "num": 191918,
-      "word": "洛杉矶1比3迈阿密国际",
-      "onboard_time": 1693801840,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 192949,
+      "num": 192949,
+      "word": "虞书欣让田嘉瑞叫姐姐",
+      "onboard_time": 1693804358,
+      "rank": 40,
+      "category": "影视"
     },
     {
-      "raw_hot": 191708,
-      "num": 191708,
-      "word": "满杯茅台去咖啡液",
-      "onboard_time": 1693802024,
-      "rank": 48,
-      "category": "美食,幽默"
+      "raw_hot": 192616,
+      "num": 192616,
+      "word": "坚如磐石全阵容芭莎大片",
+      "onboard_time": 1693804182,
+      "rank": 41,
+      "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 192233,
+      "num": 192233,
+      "word": "美网",
+      "onboard_time": 1693802262,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 190473,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1693799136,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189551,
+      "num": 2035446,
+      "word": "博物馆里那些一眼惊艳的文案",
+      "onboard_time": 1693800036,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189166,
@@ -1200,14 +1256,6 @@
       "word": "海葵5日登陆粤闽交界",
       "onboard_time": 1693784792,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159106,
-      "num": 2035446,
-      "word": "博物馆里那些一眼惊艳的文案",
-      "onboard_time": 1693800036,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1473,6 +1521,14 @@
       "onboard_time": 1693772295,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30574,
+      "num": 422880,
+      "word": "7旬奶奶用废弃木板手工复刻老房子",
+      "onboard_time": 1693803762,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26776,
