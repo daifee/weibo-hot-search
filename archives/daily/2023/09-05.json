@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693859640994,
+  "endTime": 1693862039975,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -505,6 +505,14 @@
       "onboard_time": 1693848559,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35821,
+      "num": 24393,
+      "word": "这些食物容易存在黄曲霉素",
+      "onboard_time": 1693859772,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 29332,
