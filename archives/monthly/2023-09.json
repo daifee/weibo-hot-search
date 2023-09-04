@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693798437750,
+  "endTime": 1693801202455,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 3446437,
+      "num": 3446437,
+      "word": "瑞幸回应喝茅台联名咖啡能否开车",
+      "onboard_time": 1693795114,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3370539,
       "num": 807633,
       "word": "胡歌 你才大小姐呢",
@@ -137,14 +145,6 @@
       "onboard_time": 1693570720,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2784347,
-      "num": 2784347,
-      "word": "瑞幸回应喝茅台联名咖啡能否开车",
-      "onboard_time": 1693795114,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2742101,
@@ -225,6 +225,14 @@
       "onboard_time": 1693658914,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2363502,
+      "num": 2363502,
+      "word": "天津大爷已经没空跳水了",
+      "onboard_time": 1693796676,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2308482,
@@ -384,6 +392,14 @@
       "word": "重庆警方通报母子3人家中去世",
       "onboard_time": 1693703313,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1910569,
+      "num": 1910569,
+      "word": "高铁",
+      "onboard_time": 1693799256,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -833,14 +849,6 @@
       "onboard_time": 1693750785,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1158248,
-      "num": 1158248,
-      "word": "天津大爷已经没空跳水了",
-      "onboard_time": 1693796676,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1156014,
@@ -1899,12 +1907,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 697203,
+      "num": 697203,
+      "word": "易烊千玺怀化市城市形象大使",
+      "onboard_time": 1693796915,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 694103,
       "num": 694103,
       "word": "日本签字投降历史影像",
       "onboard_time": 1693619975,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690385,
+      "num": 690385,
+      "word": "酱香拿铁",
+      "onboard_time": 1693796736,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 687501,
@@ -2083,12 +2107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 644348,
-      "num": 644348,
-      "word": "易烊千玺怀化市城市形象大使",
-      "onboard_time": 1693796915,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 643239,
+      "num": 342557,
+      "word": "虞书欣鲨鱼夹",
+      "onboard_time": 1693799194,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 639680,
@@ -2667,6 +2691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 540183,
+      "num": 540183,
+      "word": "骄阳伴我里很现实的悲哀",
+      "onboard_time": 1693799499,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539383,
       "num": 539383,
       "word": "姜广涛 秋天的阳光蛮好",
@@ -2763,12 +2795,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 531343,
+      "num": 340148,
+      "word": "中国女性肥胖比例不足10%",
+      "onboard_time": 1693800277,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530720,
       "num": 502009,
       "word": "十几分钟却是我的整个青春",
       "onboard_time": 1693589066,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 530173,
+      "num": 234157,
+      "word": "一亿个孩子一间房",
+      "onboard_time": 1693800400,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 527233,
@@ -2793,6 +2841,14 @@
       "onboard_time": 1693467460,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 521258,
+      "num": 521258,
+      "word": "整个洛杉矶都来看梅西了",
+      "onboard_time": 1693796857,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 520801,
@@ -2924,7 +2980,7 @@
     },
     {
       "raw_hot": 502994,
-      "num": 324510,
+      "num": 332081,
       "word": "武汉一市民服用中药2天后身亡",
       "onboard_time": 1693789538,
       "rank": 31,
@@ -2977,14 +3033,6 @@
       "onboard_time": 1693664564,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495589,
-      "num": 495589,
-      "word": "酱香拿铁",
-      "onboard_time": 1693796736,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 495045,
@@ -3224,6 +3272,14 @@
       "word": "中国驻日使馆披露被骚扰细节",
       "onboard_time": 1693538196,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467382,
+      "num": 467382,
+      "word": "滕州高铁站跳轨男子已被送医",
+      "onboard_time": 1693800880,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4369,14 +4425,6 @@
       "onboard_time": 1693550676,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 335304,
-      "num": 335304,
-      "word": "整个洛杉矶都来看梅西了",
-      "onboard_time": 1693796857,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 335176,
@@ -5827,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238032,
+      "num": 238032,
+      "word": "1993年的电视剧有多经典",
+      "onboard_time": 1693794333,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237648,
       "num": 237648,
       "word": "小猫的交班仪式",
@@ -5995,6 +6051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228022,
+      "num": 228022,
+      "word": "云之羽第五集",
+      "onboard_time": 1693800880,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227247,
       "num": 227247,
       "word": "盛阳 伪装小奶狗的小狼狗",
@@ -6153,6 +6217,14 @@
       "onboard_time": 1693718795,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220219,
+      "num": 220219,
+      "word": "那些被秀才圈粉的中老年女性",
+      "onboard_time": 1693800880,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 219699,
@@ -6907,6 +6979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197541,
+      "num": 197541,
+      "word": "动物适界",
+      "onboard_time": 1693800097,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197438,
       "num": 197438,
       "word": "云之羽热度破7500",
@@ -7195,6 +7275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190473,
+      "num": 190473,
+      "word": "周一早上根本醒不来的你",
+      "onboard_time": 1693799136,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190377,
       "num": 228360,
       "word": "明日方舟",
@@ -7331,6 +7419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187403,
+      "num": 187403,
+      "word": "月薪5000是什么水平",
+      "onboard_time": 1693799381,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187358,
       "num": 228512,
       "word": "买单吧崩了",
@@ -7387,19 +7483,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186617,
-      "num": 186617,
-      "word": "1993年的电视剧有多经典",
-      "onboard_time": 1693794333,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186369,
       "num": 186369,
       "word": "成功去潘达星陪和盛了",
       "onboard_time": 1693792117,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186286,
+      "num": 186286,
+      "word": "义乌老板娘是懂做亚运生意的",
+      "onboard_time": 1693801120,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -7739,6 +7835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173106,
+      "num": 173106,
+      "word": "彪子真的很努力",
+      "onboard_time": 1693801183,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173021,
       "num": 173021,
       "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
@@ -7993,6 +8097,14 @@
       "onboard_time": 1693787679,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161443,
+      "num": 161443,
+      "word": "女魔头小助理奥本海默女主是同一人",
+      "onboard_time": 1693798957,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 161430,
@@ -8640,6 +8752,14 @@
       "word": "中国文物逃出大英博物馆幕后故事",
       "onboard_time": 1693492240,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111712,
+      "num": 2035446,
+      "word": "博物馆里那些一眼惊艳的文案",
+      "onboard_time": 1693800036,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

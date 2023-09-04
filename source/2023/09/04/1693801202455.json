@@ -1,0 +1,410 @@
+{
+  "runTime": 1693801202455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3446437,
+        "num": 3446437,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2363502,
+        "num": 2363502,
+        "word": "天津大爷已经没空跳水了",
+        "onboard_time": 1693796676,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111712,
+        "num": 2035446,
+        "word": "博物馆里那些一眼惊艳的文案",
+        "onboard_time": 1693800036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1910569,
+        "num": 1910569,
+        "word": "高铁",
+        "onboard_time": 1693799256,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919757,
+        "num": 919757,
+        "word": "杨振宁 奥本海默",
+        "onboard_time": 1693795054,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 883039,
+        "num": 883039,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 804465,
+        "num": 804465,
+        "word": "大熊猫花花的妈妈死亡",
+        "onboard_time": 1693782326,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697203,
+        "num": 697203,
+        "word": "易烊千玺怀化市城市形象大使",
+        "onboard_time": 1693796915,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 690385,
+        "num": 690385,
+        "word": "酱香拿铁",
+        "onboard_time": 1693796736,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 617037,
+        "num": 617037,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 540183,
+        "num": 540183,
+        "word": "骄阳伴我里很现实的悲哀",
+        "onboard_time": 1693799499,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521258,
+        "num": 521258,
+        "word": "整个洛杉矶都来看梅西了",
+        "onboard_time": 1693796857,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494636,
+        "num": 494636,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478333,
+        "num": 478333,
+        "word": "郭小四搁这儿拍小时代呢",
+        "onboard_time": 1693786720,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232741,
+        "num": 472012,
+        "word": "认房不认贷",
+        "onboard_time": 1693794396,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467382,
+        "num": 467382,
+        "word": "滕州高铁站跳轨男子已被送医",
+        "onboard_time": 1693800880,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440688,
+        "num": 440688,
+        "word": "于适你真的很疯",
+        "onboard_time": 1693795896,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414155,
+        "num": 414155,
+        "word": "上海现不明飞行物似火球般高速坠落",
+        "onboard_time": 1693791933,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380827,
+        "num": 380827,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348486,
+        "num": 348486,
+        "word": "莲花楼男主选角",
+        "onboard_time": 1693787318,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643239,
+        "num": 342557,
+        "word": "虞书欣鲨鱼夹",
+        "onboard_time": 1693799194,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531343,
+        "num": 340148,
+        "word": "中国女性肥胖比例不足10%",
+        "onboard_time": 1693800277,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371835,
+        "num": 332081,
+        "word": "武汉一市民服用中药2天后身亡",
+        "onboard_time": 1693789538,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354757,
+        "num": 325756,
+        "word": "离职后被要求退回奶茶钱",
+        "onboard_time": 1693784373,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319231,
+        "num": 319231,
+        "word": "为什么现在酒店都不收押金了",
+        "onboard_time": 1693788338,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308793,
+        "num": 308793,
+        "word": "云之羽还没谈上就开始看眼色了",
+        "onboard_time": 1693786898,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276274,
+        "num": 276274,
+        "word": "野球帝 退出",
+        "onboard_time": 1693792892,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257891,
+        "num": 257891,
+        "word": "云之羽",
+        "onboard_time": 1693788158,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238032,
+        "num": 238032,
+        "word": "1993年的电视剧有多经典",
+        "onboard_time": 1693794333,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234792,
+        "num": 234792,
+        "word": "同事让我们孤立他",
+        "onboard_time": 1693793612,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 530173,
+        "num": 234157,
+        "word": "一亿个孩子一间房",
+        "onboard_time": 1693800400,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231572,
+        "num": 231572,
+        "word": "国家发展改革委内设民营经济发展局",
+        "onboard_time": 1693795834,
+        "rank": 31,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 228022,
+        "num": 228022,
+        "word": "云之羽第五集",
+        "onboard_time": 1693800880,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220219,
+        "num": 220219,
+        "word": "那些被秀才圈粉的中老年女性",
+        "onboard_time": 1693800880,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 212511,
+        "num": 212511,
+        "word": "俞灏明感叹陈楚生没有选错歌",
+        "onboard_time": 1693794811,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197541,
+        "num": 197541,
+        "word": "动物适界",
+        "onboard_time": 1693800097,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197004,
+        "num": 197004,
+        "word": "王师傅回应退出野球帝",
+        "onboard_time": 1693794952,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190634,
+        "num": 190634,
+        "word": "广东的KTV有多离谱",
+        "onboard_time": 1693791577,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190473,
+        "num": 190473,
+        "word": "周一早上根本醒不来的你",
+        "onboard_time": 1693799136,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189149,
+        "num": 189149,
+        "word": "这部剧的受众到底是谁",
+        "onboard_time": 1693792712,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187403,
+        "num": 187403,
+        "word": "月薪5000是什么水平",
+        "onboard_time": 1693799381,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 186286,
+        "word": "义乌老板娘是懂做亚运生意的",
+        "onboard_time": 1693801120,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184387,
+        "num": 184387,
+        "word": "不虚此行吴磊让胡歌坚持下去",
+        "onboard_time": 1693795834,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173106,
+        "num": 173106,
+        "word": "彪子真的很努力",
+        "onboard_time": 1693801183,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173044,
+        "num": 173044,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1693784494,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170030,
+        "num": 170030,
+        "word": "Melody参加再见爱人3的原因",
+        "onboard_time": 1693790015,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167611,
+        "num": 167611,
+        "word": "清华大学研究生重量级宿舍",
+        "onboard_time": 1693757434,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161909,
+        "num": 161909,
+        "word": "余佳恩连续工作22小时进急诊",
+        "onboard_time": 1693791335,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161769,
+        "num": 161769,
+        "word": "济南拍到不明飞行物坠落",
+        "onboard_time": 1693790734,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161443,
+        "num": 161443,
+        "word": "女魔头小助理奥本海默女主是同一人",
+        "onboard_time": 1693798957,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席服贸会致辞释放鲜明信号#"
+    }
+  }
+}
