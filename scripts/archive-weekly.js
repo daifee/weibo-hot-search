@@ -1,5 +1,6 @@
 /**
  * 归档（周榜）
+ * 周日为第一天
  */
 const path = require('path');
 const fs = require('fs');
@@ -9,8 +10,8 @@ const utils = require('./utils');
 
 const { ARCHIVE_WEEKLY_PATH, TEMPLATES_PATH, LATEST_WEEKLY } = require('./config');
 
-function setMonday(date) {
-  while (date.getDay() !== 1) {
+function setSunday(date) {
+  while (date.getDay() !== 0) {
     const d = date.getDate();
     date.setDate(d - 1);
   }
@@ -20,14 +21,13 @@ function setMonday(date) {
 
 // 通过本周每天对应的时间对象
 function getWeeklyDates(runTime) {
-  const result = [];
   let date = new Date(runTime);
-
-  do {
-    result.unshift(date);
+  const result = [date];
+  while (date.getDay() !== 0) { // 周六
     date = new Date(date.getTime());
     date.setDate((date.getDate() - 1));
-  } while (date.getDay() !== 0); // 周日
+    result.unshift(date);
+  }
 
   return result;
 }
@@ -48,12 +48,12 @@ function getArchiveDir(runTime) {
   return dir;
 }
 
-// 每周周一
+// 每周周日
 // ARCHIVE_MONTHLY_PATH/2022/07-12.json
 function getFilePath(runTime, ext) {
-  const dir = getArchiveDir(runTime);
   const date = new Date(runTime);
-  setMonday(date);
+  setSunday(date);
+  const dir = getArchiveDir(date.getTime());
   const temp = [
     `${date.getMonth() + 1}`.padStart(2, '0'),
     `${date.getDate()}`.padStart(2, '0'),
@@ -118,7 +118,7 @@ async function run(timestamp) {
 module.exports = {
   getWeeklyDates,
   getSourceFiles,
-  setMonday,
+  setSunday,
   getArchiveDir,
   getFilePath,
   archiveJSON,
