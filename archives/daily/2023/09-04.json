@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693797454435,
+  "endTime": 1693798437750,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2784347,
+      "num": 2784347,
+      "word": "瑞幸回应喝茅台联名咖啡能否开车",
+      "onboard_time": 1693795114,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2081687,
       "num": 2081687,
       "word": "适合做老婆 不是赞扬是冒犯",
       "onboard_time": 1693755518,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1936309,
-      "num": 1936309,
-      "word": "瑞幸回应喝茅台联名咖啡能否开车",
-      "onboard_time": 1693795114,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1708101,
@@ -89,6 +89,14 @@
       "onboard_time": 1693749465,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1158248,
+      "num": 1158248,
+      "word": "天津大爷已经没空跳水了",
+      "onboard_time": 1693796676,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135570,
@@ -195,6 +203,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 644348,
+      "num": 644348,
+      "word": "易烊千玺怀化市城市形象大使",
+      "onboard_time": 1693796915,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 616985,
       "num": 616985,
       "word": "本周狗屎运最旺的星座",
@@ -260,11 +276,19 @@
     },
     {
       "raw_hot": 502994,
-      "num": 309203,
+      "num": 324510,
       "word": "武汉一市民服用中药2天后身亡",
       "onboard_time": 1693789538,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495589,
+      "num": 495589,
+      "word": "酱香拿铁",
+      "onboard_time": 1693796736,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 479916,
@@ -337,14 +361,6 @@
       "onboard_time": 1693787198,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 415283,
-      "num": 402536,
-      "word": "天津大爷已经没空跳水了",
-      "onboard_time": 1693796676,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415155,
@@ -435,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335304,
+      "num": 335304,
+      "word": "整个洛杉矶都来看梅西了",
+      "onboard_time": 1693796857,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332547,
       "num": 332547,
       "word": "Twins说毛不易粤语像她们普通话一样标准",
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 327786,
-      "num": 400486,
+      "num": 422771,
       "word": "认房不认贷",
       "onboard_time": 1693794396,
       "rank": 14,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 297875,
-      "num": 250301,
+      "num": 279719,
       "word": "国家发展改革委内设民营经济发展局",
       "onboard_time": 1693795834,
       "rank": 30,
@@ -523,16 +547,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284951,
-      "num": 284951,
-      "word": "易烊千玺怀化市城市形象大使",
-      "onboard_time": 1693796915,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279038,
-      "num": 279038,
+      "raw_hot": 282837,
+      "num": 282837,
       "word": "同事让我们孤立他",
       "onboard_time": 1693793612,
       "rank": 39,
@@ -619,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244921,
+      "num": 244921,
+      "word": "西出玉门",
+      "onboard_time": 1693797276,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244720,
       "num": 244720,
       "word": "美娟这辈子没这么穷过",
@@ -657,14 +681,6 @@
       "onboard_time": 1693788635,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230476,
-      "num": 230476,
-      "word": "酱香拿铁",
-      "onboard_time": 1693796736,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 230351,
@@ -763,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204729,
-      "num": 204729,
-      "word": "整个洛杉矶都来看梅西了",
-      "onboard_time": 1693796857,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204624,
       "num": 204624,
       "word": "好想告诉你第3季制作决定",
@@ -843,20 +851,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 186617,
+      "num": 186617,
+      "word": "1993年的电视剧有多经典",
+      "onboard_time": 1693794333,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186369,
       "num": 186369,
       "word": "成功去潘达星陪和盛了",
       "onboard_time": 1693792117,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184026,
-      "num": 184026,
-      "word": "1993年的电视剧有多经典",
-      "onboard_time": 1693794333,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 182236,
@@ -905,14 +913,6 @@
       "onboard_time": 1693786720,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175529,
-      "num": 175529,
-      "word": "西出玉门",
-      "onboard_time": 1693797276,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 174539,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1693737097,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156327,
+      "num": 156327,
+      "word": "许光汉说冰粉蛮会逃的",
+      "onboard_time": 1693795594,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 155111,

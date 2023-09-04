@@ -1,0 +1,410 @@
+{
+  "runTime": 1693798437750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2784347,
+        "num": 2784347,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381950,
+        "num": 1381950,
+        "word": "杨振宁 奥本海默",
+        "onboard_time": 1693795054,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42041,
+        "num": 1239222,
+        "word": "迎亚运的杭州好漂亮",
+        "onboard_time": 1693747242,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158248,
+        "num": 1158248,
+        "word": "天津大爷已经没空跳水了",
+        "onboard_time": 1693796676,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890740,
+        "num": 890740,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 886373,
+        "num": 886373,
+        "word": "大熊猫花花的妈妈死亡",
+        "onboard_time": 1693782326,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674078,
+        "num": 674078,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 644348,
+        "num": 644348,
+        "word": "易烊千玺怀化市城市形象大使",
+        "onboard_time": 1693796915,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609103,
+        "num": 609103,
+        "word": "上海现不明飞行物似火球般高速坠落",
+        "onboard_time": 1693791933,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526583,
+        "num": 526583,
+        "word": "于适你真的很疯",
+        "onboard_time": 1693795896,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577610,
+        "num": 512759,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495589,
+        "num": 495589,
+        "word": "酱香拿铁",
+        "onboard_time": 1693796736,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 446539,
+        "num": 446539,
+        "word": "野球帝 退出",
+        "onboard_time": 1693792892,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424808,
+        "num": 424808,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293298,
+        "num": 422771,
+        "word": "认房不认贷",
+        "onboard_time": 1693794396,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421309,
+        "num": 421309,
+        "word": "郭小四搁这儿拍小时代呢",
+        "onboard_time": 1693786720,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344922,
+        "num": 344922,
+        "word": "莲花楼男主选角",
+        "onboard_time": 1693787318,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356201,
+        "num": 344878,
+        "word": "云之羽还没谈上就开始看眼色了",
+        "onboard_time": 1693786898,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343838,
+        "num": 343838,
+        "word": "王师傅回应退出野球帝",
+        "onboard_time": 1693794952,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335304,
+        "num": 335304,
+        "word": "整个洛杉矶都来看梅西了",
+        "onboard_time": 1693796857,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387723,
+        "num": 332513,
+        "word": "王鹤棣 雅诗兰黛",
+        "onboard_time": 1693795114,
+        "rank": 20,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 328812,
+        "num": 328812,
+        "word": "济南拍到不明飞行物坠落",
+        "onboard_time": 1693790734,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324510,
+        "num": 324510,
+        "word": "武汉一市民服用中药2天后身亡",
+        "onboard_time": 1693789538,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298283,
+        "num": 298283,
+        "word": "俞灏明感叹陈楚生没有选错歌",
+        "onboard_time": 1693794811,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289358,
+        "num": 289358,
+        "word": "这部剧的受众到底是谁",
+        "onboard_time": 1693792712,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286795,
+        "num": 286795,
+        "word": "虞书欣黑色镂空套装",
+        "onboard_time": 1693795654,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282837,
+        "num": 282837,
+        "word": "同事让我们孤立他",
+        "onboard_time": 1693793612,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279719,
+        "num": 279719,
+        "word": "国家发展改革委内设民营经济发展局",
+        "onboard_time": 1693795834,
+        "rank": 27,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 278220,
+        "num": 278220,
+        "word": "为什么现在酒店都不收押金了",
+        "onboard_time": 1693788338,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267233,
+        "num": 267233,
+        "word": "离职后被要求退回奶茶钱",
+        "onboard_time": 1693784373,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248545,
+        "num": 248545,
+        "word": "Melody参加再见爱人3的原因",
+        "onboard_time": 1693790015,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244921,
+        "num": 244921,
+        "word": "西出玉门",
+        "onboard_time": 1693797276,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231004,
+        "num": 231004,
+        "word": "这个暑假最出圈的台词",
+        "onboard_time": 1693791096,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226075,
+        "num": 226075,
+        "word": "余佳恩连续工作22小时进急诊",
+        "onboard_time": 1693791335,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218050,
+        "num": 218050,
+        "word": "不虚此行吴磊让胡歌坚持下去",
+        "onboard_time": 1693795834,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210550,
+        "num": 210550,
+        "word": "清华大学研究生重量级宿舍",
+        "onboard_time": 1693757434,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192798,
+        "num": 192798,
+        "word": "云之羽",
+        "onboard_time": 1693788158,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187861,
+        "num": 187861,
+        "word": "马立奥睫毛好长",
+        "onboard_time": 1693796435,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189410,
+        "num": 187787,
+        "word": "云之羽弹幕有多搞笑",
+        "onboard_time": 1693796313,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186617,
+        "num": 186617,
+        "word": "1993年的电视剧有多经典",
+        "onboard_time": 1693794333,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186247,
+        "num": 186247,
+        "word": "美娟这辈子没这么穷过",
+        "onboard_time": 1693791755,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184079,
+        "num": 184079,
+        "word": "广东的KTV有多离谱",
+        "onboard_time": 1693791577,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181406,
+        "num": 181406,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1693784494,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179012,
+        "num": 179012,
+        "word": "原来大学没课时可以搞那么多事",
+        "onboard_time": 1693784673,
+        "rank": 43,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 169959,
+        "num": 169959,
+        "word": "窗边的小豆豆出续作",
+        "onboard_time": 1693791755,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168785,
+        "num": 168785,
+        "word": "当一家火锅店开始宣传五颜六色的甜品",
+        "onboard_time": 1693794872,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162283,
+        "num": 162283,
+        "word": "内马尔 我和梅西在巴黎经历了地狱",
+        "onboard_time": 1693787078,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156327,
+        "num": 156327,
+        "word": "许光汉说冰粉蛮会逃的",
+        "onboard_time": 1693795594,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139308,
+        "num": 139308,
+        "word": "听说很好吃团建式官宣",
+        "onboard_time": 1693796976,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138822,
+        "num": 138822,
+        "word": "我们学校复变函数老师是杨幂大伯",
+        "onboard_time": 1693755399,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在开放中创造机遇在合作中破解难题#"
+    }
+  }
+}
