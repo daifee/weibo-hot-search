@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693809345067,
+  "endTime": 1693811751582,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -33,6 +33,14 @@
       "onboard_time": 1693806696,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2568297,
+      "num": 2568297,
+      "word": "杨迪信息被泄露",
+      "onboard_time": 1693808678,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2363502,
@@ -139,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1243633,
+      "num": 1243633,
+      "word": "山东滕州高铁站跳轨者已身亡",
+      "onboard_time": 1693808314,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1197337,
       "num": 1197337,
       "word": "一亿个孩子一间房",
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 950001,
-      "num": 479812,
-      "word": "杨迪信息被泄露",
-      "onboard_time": 1693808678,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 944775,
       "num": 944775,
       "word": "滕州高铁站跳轨男子已被送医",
@@ -233,14 +241,6 @@
       "onboard_time": 1693791096,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 904441,
-      "num": 904441,
-      "word": "山东滕州高铁站跳轨者已身亡",
-      "onboard_time": 1693808314,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 809625,
@@ -347,6 +347,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 602438,
+      "num": 602438,
+      "word": "封神真的和芒果合作质子训练营综艺了",
+      "onboard_time": 1693811073,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 602149,
+      "num": 602149,
+      "word": "瑞幸客服回应酱香拿铁不加咖啡液",
+      "onboard_time": 1693806696,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 597482,
       "num": 597482,
       "word": "信息茧房",
@@ -387,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565398,
+      "num": 229708,
+      "word": "突然明白了省钱的意义",
+      "onboard_time": 1693808853,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 561779,
       "num": 534331,
       "word": "野球帝 退出",
@@ -425,14 +449,6 @@
       "onboard_time": 1693796857,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 507550,
-      "num": 251153,
-      "word": "瑞幸客服回应酱香拿铁不加咖啡液",
-      "onboard_time": 1693806696,
-      "rank": 22,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 502994,
@@ -497,6 +513,14 @@
       "onboard_time": 1693750483,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 428750,
+      "num": 194940,
+      "word": "怎么连宫女都给自己搞人物小传",
+      "onboard_time": 1693811014,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 425931,
@@ -619,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345522,
+      "num": 227629,
+      "word": "男孩饮料上瘾牙全烂14岁戴假牙",
+      "onboard_time": 1693808915,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340980,
       "num": 340980,
       "word": "央视评华为争气机",
@@ -691,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319307,
+      "num": 319307,
+      "word": "针孔摄像头",
+      "onboard_time": 1693811134,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 317276,
       "num": 282323,
       "word": "女生125斤被质问你胖成啥了",
@@ -721,6 +761,14 @@
       "onboard_time": 1693801120,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301946,
+      "num": 301946,
+      "word": "胡彦斌唱再见爱人3主题曲",
+      "onboard_time": 1693811194,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 301827,
@@ -939,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231867,
+      "num": 231867,
+      "word": "宫子羽腹黑起来了",
+      "onboard_time": 1693810779,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230351,
       "num": 230351,
       "word": "皮肤和情绪的关系",
@@ -979,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225339,
-      "num": 194278,
-      "word": "突然明白了省钱的意义",
-      "onboard_time": 1693808853,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 224621,
+      "num": 193446,
+      "word": "以为是特效结果全是真的",
+      "onboard_time": 1693811014,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 223307,
@@ -1091,14 +1147,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 203945,
-      "num": 203945,
-      "word": "男孩饮料上瘾牙全烂14岁戴假牙",
-      "onboard_time": 1693808915,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199998,
       "num": 199998,
       "word": "马立奥睫毛好长",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1693800097,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197171,
+      "num": 197171,
+      "word": "被孙怡介绍Melody笑到",
+      "onboard_time": 1693810715,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 195750,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1693802262,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191232,
+      "num": 191232,
+      "word": "傅首尔提到老刘送的生日卡片哭了",
+      "onboard_time": 1693811734,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 190473,
@@ -1387,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156865,
+      "num": 156865,
+      "word": "大笨狗 坚强的人先享受折磨",
+      "onboard_time": 1693809155,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156327,
       "num": 156327,
       "word": "许光汉说冰粉蛮会逃的",
@@ -1435,12 +1507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140038,
-      "num": 140038,
-      "word": "大笨狗 坚强的人先享受折磨",
-      "onboard_time": 1693809155,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 135257,
+      "num": 343270,
+      "word": "爸爸送女儿上大学躲角落偷偷抹泪",
+      "onboard_time": 1693807234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134681,
@@ -1451,20 +1523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134023,
-      "num": 343270,
-      "word": "爸爸送女儿上大学躲角落偷偷抹泪",
-      "onboard_time": 1693807234,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132513,
       "num": 132513,
       "word": "南号尚风 搬书",
       "onboard_time": 1693757973,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 130821,
+      "num": 130821,
+      "word": "孙颖莎3比0曾尖",
+      "onboard_time": 1693811134,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 127164,
@@ -1513,6 +1585,14 @@
       "onboard_time": 1693742981,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111655,
+      "num": 123934,
+      "word": "研究称老年女性体重稳定或更长寿",
+      "onboard_time": 1693811493,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111383,
@@ -1659,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56539,
+      "num": 325583,
+      "word": "老人欲转账百万女警扮成物业劝阻",
+      "onboard_time": 1693810894,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56292,
       "num": 56292,
       "word": "肖战片场笑得前仰后合",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1693773254,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 10852,
+      "num": 137163,
+      "word": "超6亿中国人都做过公益",
+      "onboard_time": 1693810835,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
