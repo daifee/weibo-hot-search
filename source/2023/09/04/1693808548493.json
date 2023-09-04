@@ -1,0 +1,410 @@
+{
+  "runTime": 1693808548493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2751930,
+        "num": 2751930,
+        "word": "老刘想和傅首尔离婚的原因",
+        "onboard_time": 1693806696,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2156374,
+        "num": 2156374,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135211,
+        "num": 1311314,
+        "word": "博物馆里那些一眼惊艳的文案",
+        "onboard_time": 1693800036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291917,
+        "num": 1291917,
+        "word": "拒绝退伍军人买优惠票客车停运7天",
+        "onboard_time": 1693802385,
+        "rank": 3,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 676986,
+        "num": 676986,
+        "word": "中国女性肥胖比例不足10%",
+        "onboard_time": 1693800277,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604365,
+        "num": 604365,
+        "word": "一亿个孩子一间房",
+        "onboard_time": 1693800400,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 598458,
+        "num": 598458,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 597482,
+        "num": 597482,
+        "word": "信息茧房",
+        "onboard_time": 1693806578,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 595318,
+        "num": 595318,
+        "word": "范丞丞关晓彤 小巷人家",
+        "onboard_time": 1693802024,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490325,
+        "num": 490325,
+        "word": "天津大爷已经没空跳水了",
+        "onboard_time": 1693796676,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499127,
+        "num": 420964,
+        "word": "孙阳直播哽咽",
+        "onboard_time": 1693805380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344815,
+        "num": 344815,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338192,
+        "num": 338192,
+        "word": "于适去幼儿园实习过",
+        "onboard_time": 1693807594,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326767,
+        "num": 333554,
+        "word": "大熊猫花花的妈妈死亡",
+        "onboard_time": 1693782326,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95247,
+        "num": 333450,
+        "word": "爸爸送女儿上大学躲角落偷偷抹泪",
+        "onboard_time": 1693807234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333364,
+        "num": 333364,
+        "word": "杨振宁 奥本海默",
+        "onboard_time": 1693795054,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324505,
+        "num": 324505,
+        "word": "梦泪兮兮婚纱照",
+        "onboard_time": 1693806874,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315942,
+        "num": 315942,
+        "word": "关晓彤山根碎钻妆",
+        "onboard_time": 1693801722,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 249997,
+        "num": 249997,
+        "word": "云之羽第五集",
+        "onboard_time": 1693800880,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207206,
+        "num": 207206,
+        "word": "患者急需用血超100名熊猫侠主动报名",
+        "onboard_time": 1693807178,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666790,
+        "num": 206924,
+        "word": "满杯茅台去咖啡液",
+        "onboard_time": 1693802024,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 510792,
+        "num": 206716,
+        "word": "iPhone15新款手机壳曝光",
+        "onboard_time": 1693807713,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 507550,
+        "num": 206014,
+        "word": "瑞幸客服回应酱香拿铁不加咖啡液",
+        "onboard_time": 1693806696,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 375471,
+        "num": 205854,
+        "word": "让自己的面相变好的方法",
+        "onboard_time": 1693801481,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228483,
+        "num": 205368,
+        "word": "虞书欣鲨鱼夹",
+        "onboard_time": 1693799194,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205098,
+        "num": 205098,
+        "word": "再见爱人",
+        "onboard_time": 1693807053,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227103,
+        "num": 203271,
+        "word": "郭小四搁这儿拍小时代呢",
+        "onboard_time": 1693786720,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201440,
+        "num": 201440,
+        "word": "酱香拿铁",
+        "onboard_time": 1693796736,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200451,
+        "num": 200451,
+        "word": "为什么现在酒店都不收押金了",
+        "onboard_time": 1693788338,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188489,
+        "num": 188489,
+        "word": "山东滕州高铁站跳轨者已身亡",
+        "onboard_time": 1693808314,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181230,
+        "num": 181230,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177213,
+        "num": 177213,
+        "word": "高铁站回应男子跳下站台被火车轧车底",
+        "onboard_time": 1693801722,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175624,
+        "num": 175624,
+        "word": "如何判断鸡蛋的新鲜程度",
+        "onboard_time": 1693804060,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174088,
+        "num": 174088,
+        "word": "逐月主演",
+        "onboard_time": 1693801603,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172329,
+        "num": 172329,
+        "word": "舒淇威尼斯偶遇封神",
+        "onboard_time": 1693801421,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172046,
+        "num": 172046,
+        "word": "虞书欣让田嘉瑞叫姐姐",
+        "onboard_time": 1693804358,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163867,
+        "num": 163867,
+        "word": "武汉一市民服用中药2天后身亡",
+        "onboard_time": 1693789538,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163303,
+        "num": 163303,
+        "word": "再见爱人3开播",
+        "onboard_time": 1693803877,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159664,
+        "num": 159664,
+        "word": "好莱坞女星玛格丽特库里结婚",
+        "onboard_time": 1693805136,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81868,
+        "num": 159094,
+        "word": "喜茶宣布跨界做牛奶",
+        "onboard_time": 1693807234,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158737,
+        "num": 158737,
+        "word": "云之羽",
+        "onboard_time": 1693788158,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144757,
+        "num": 144757,
+        "word": "领结猫表情包吃饭时间",
+        "onboard_time": 1693808433,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298265,
+        "num": 144479,
+        "word": "蒲松龄后人驳斥刀郎侵权言论",
+        "onboard_time": 1693801300,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 144092,
+        "num": 144092,
+        "word": "易烊千玺怀化市城市形象大使",
+        "onboard_time": 1693796915,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141864,
+        "num": 141864,
+        "word": "洛杉矶1比3迈阿密国际",
+        "onboard_time": 1693801840,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137784,
+        "num": 137784,
+        "word": "上海现不明飞行物似火球般高速坠落",
+        "onboard_time": 1693791933,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131894,
+        "num": 131894,
+        "word": "野球帝 退出",
+        "onboard_time": 1693792892,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130477,
+        "num": 130477,
+        "word": "广东的KTV有多离谱",
+        "onboard_time": 1693791577,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128264,
+        "num": 128264,
+        "word": "骄阳伴我里很现实的悲哀",
+        "onboard_time": 1693799499,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125886,
+        "num": 125886,
+        "word": "大学生不能没有饭搭子",
+        "onboard_time": 1693807894,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席服贸会致辞释放鲜明信号#"
+    }
+  }
+}
