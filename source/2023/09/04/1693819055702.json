@@ -1,0 +1,410 @@
+{
+  "runTime": 1693819055702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1642085,
+        "num": 1642085,
+        "word": "90后夫妻结婚3年不领证",
+        "onboard_time": 1693815638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 974562,
+        "num": 974562,
+        "word": "女子P付款截图4年逃单33万",
+        "onboard_time": 1693813233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41543,
+        "num": 921072,
+        "word": "服贸会满满科技范儿",
+        "onboard_time": 1693817017,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994178,
+        "num": 916415,
+        "word": "老刘想和傅首尔离婚的原因",
+        "onboard_time": 1693806696,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900112,
+        "num": 900112,
+        "word": "杨迪信息被泄露",
+        "onboard_time": 1693808678,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 840158,
+        "num": 840158,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742067,
+        "num": 742067,
+        "word": "一杯酱香拿铁含约2毫升茅台酒",
+        "onboard_time": 1693816836,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 668500,
+        "num": 668500,
+        "word": "满杯茅台去咖啡液",
+        "onboard_time": 1693802024,
+        "rank": 7,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 512716,
+        "num": 512716,
+        "word": "何运晨带5本民法典录offer5",
+        "onboard_time": 1693818276,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495866,
+        "num": 495866,
+        "word": "山东滕州高铁站跳轨者已身亡",
+        "onboard_time": 1693808314,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084915,
+        "num": 492165,
+        "word": "针孔摄像头",
+        "onboard_time": 1693811134,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 486609,
+        "num": 486609,
+        "word": "日本福岛县近海地震",
+        "onboard_time": 1693815279,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464059,
+        "num": 464059,
+        "word": "盛阳喊前夫哥",
+        "onboard_time": 1693818936,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462173,
+        "num": 462173,
+        "word": "王楚钦3比0张本智和",
+        "onboard_time": 1693817497,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54752,
+        "num": 402095,
+        "word": "女子得知爷爷身体不好请1月假陪伴",
+        "onboard_time": 1693818097,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386053,
+        "num": 386053,
+        "word": "瑞幸客服回应酱香拿铁不加咖啡液",
+        "onboard_time": 1693806696,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 367953,
+        "num": 367953,
+        "word": "iPhone15新款手机壳曝光",
+        "onboard_time": 1693807713,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 351097,
+        "num": 351097,
+        "word": "骄阳伴我海外评分8.7分",
+        "onboard_time": 1693816896,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346616,
+        "num": 346616,
+        "word": "封神真的和芒果合作质子训练营综艺了",
+        "onboard_time": 1693811073,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330418,
+        "num": 330418,
+        "word": "王俊凯参加文艺志愿者协会代表大会",
+        "onboard_time": 1693818276,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547194,
+        "num": 326502,
+        "word": "金珉奎知道茅台咖啡了",
+        "onboard_time": 1693815580,
+        "rank": 20,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 414547,
+        "num": 326011,
+        "word": "张晚意有6部一番男主剧",
+        "onboard_time": 1693817796,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347727,
+        "num": 324838,
+        "word": "突然明白了省钱的意义",
+        "onboard_time": 1693808853,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316385,
+        "num": 316385,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1693817197,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307395,
+        "num": 307395,
+        "word": "小狗生病以为自己快不行了",
+        "onboard_time": 1693815036,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304813,
+        "num": 304813,
+        "word": "瑞幸点单系统疑似卡崩",
+        "onboard_time": 1693817378,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285561,
+        "num": 285561,
+        "word": "杨幂狼尾猫眼妆",
+        "onboard_time": 1693815819,
+        "rank": 26,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 279537,
+        "num": 279537,
+        "word": "宋亚轩每次上学都有新笑料",
+        "onboard_time": 1693817858,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275407,
+        "num": 275407,
+        "word": "中国女性肥胖比例不足10%",
+        "onboard_time": 1693800277,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255228,
+        "num": 255228,
+        "word": "迷笛开票",
+        "onboard_time": 1693818097,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235931,
+        "num": 235931,
+        "word": "没想到说脏话还有这层好处",
+        "onboard_time": 1693816358,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231540,
+        "num": 231540,
+        "word": "怎么连宫女都给自己搞人物小传",
+        "onboard_time": 1693811014,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225935,
+        "num": 225935,
+        "word": "肖战你怎么这么见外",
+        "onboard_time": 1693818877,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211873,
+        "num": 211873,
+        "word": "女子被男孩撞倒家长听说骨折后急忙离开",
+        "onboard_time": 1693815220,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205706,
+        "num": 205706,
+        "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
+        "onboard_time": 1693812576,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198670,
+        "num": 198670,
+        "word": "一亿个孩子一间房",
+        "onboard_time": 1693800400,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197373,
+        "num": 197373,
+        "word": "Angelababy收到过周杰伦奶茶探班",
+        "onboard_time": 1693813476,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190736,
+        "num": 190736,
+        "word": "阴阳师",
+        "onboard_time": 1693818457,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183961,
+        "num": 183961,
+        "word": "倪妮李现 星河滚烫",
+        "onboard_time": 1693812395,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183310,
+        "num": 183310,
+        "word": "雷暴哮喘",
+        "onboard_time": 1693815398,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179685,
+        "num": 179685,
+        "word": "朝歌幼儿园园长哄孩子画面",
+        "onboard_time": 1693815458,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178350,
+        "num": 178350,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174793,
+        "num": 174793,
+        "word": "让自己的面相变好的方法",
+        "onboard_time": 1693801481,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171519,
+        "num": 171519,
+        "word": "厦门市教育局发布停课紧急通知",
+        "onboard_time": 1693814858,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167080,
+        "num": 167080,
+        "word": "RIIZE出道",
+        "onboard_time": 1693818998,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161710,
+        "num": 161710,
+        "word": "姚琛在那玛峰举国旗",
+        "onboard_time": 1693817558,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153382,
+        "num": 153382,
+        "word": "天津大爷已经没空跳水了",
+        "onboard_time": 1693796676,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153056,
+        "num": 153056,
+        "word": "地球属于e人 而互联网属于i人",
+        "onboard_time": 1693816717,
+        "rank": 47,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 152872,
+        "num": 152872,
+        "word": "孙阳直播哽咽",
+        "onboard_time": 1693805380,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151214,
+        "num": 151214,
+        "word": "明日方舟",
+        "onboard_time": 1693818457,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}
