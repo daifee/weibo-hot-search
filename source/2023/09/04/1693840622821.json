@@ -1,0 +1,410 @@
+{
+  "runTime": 1693840622821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2101185,
+        "num": 2101185,
+        "word": "瑞幸回应男子怒砸多杯酱香拿铁",
+        "onboard_time": 1693838678,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264330,
+        "num": 1264330,
+        "word": "瑞幸公开原料生产记录视频",
+        "onboard_time": 1693837481,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 4768,
+        "num": 1083333,
+        "word": "一起探营杭州亚运村",
+        "onboard_time": 1693799799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013615,
+        "num": 1013615,
+        "word": "虞书欣又拍了张凌赫",
+        "onboard_time": 1693838437,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678985,
+        "num": 678985,
+        "word": "白鹿王鹤棣以爱为营过审",
+        "onboard_time": 1693835138,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1750467,
+        "num": 676550,
+        "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+        "onboard_time": 1693829855,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1740682,
+        "num": 676529,
+        "word": "亲爱的雪 我已嫁入豪门",
+        "onboard_time": 1693828774,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1081515,
+        "num": 674514,
+        "word": "瑞幸 真茅台",
+        "onboard_time": 1693822897,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 671108,
+        "num": 671108,
+        "word": "已读不回很正常",
+        "onboard_time": 1693837901,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 664161,
+        "num": 664161,
+        "word": "令人心动的offer5",
+        "onboard_time": 1693835380,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1835022,
+        "num": 662011,
+        "word": "蒋依依搭好的帐篷不小心被海风吹塌",
+        "onboard_time": 1693835620,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639630,
+        "num": 639630,
+        "word": "韩国推出只有名人可以加入的社交平台",
+        "onboard_time": 1693839636,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622229,
+        "num": 622229,
+        "word": "原来樱花妹觉得高颅顶很丑",
+        "onboard_time": 1693828413,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 613515,
+        "num": 613515,
+        "word": "檀健次再跳孤独颂歌",
+        "onboard_time": 1693839220,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610677,
+        "num": 610677,
+        "word": "云为衫是双胞胎",
+        "onboard_time": 1693829974,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595256,
+        "num": 595256,
+        "word": "云之羽",
+        "onboard_time": 1693839520,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507983,
+        "num": 507983,
+        "word": "孕妇做B超拍到上下铺宝宝",
+        "onboard_time": 1693834537,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495904,
+        "num": 495904,
+        "word": "她拍的",
+        "onboard_time": 1693840118,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416437,
+        "num": 447040,
+        "word": "云之羽爱奇艺热度值破9000",
+        "onboard_time": 1693831294,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343682,
+        "num": 446777,
+        "word": "男子在瑞幸店外怒砸多杯酱香拿铁",
+        "onboard_time": 1693839337,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 446770,
+        "num": 446770,
+        "word": "19岁姑娘常熬夜确诊甲状腺癌",
+        "onboard_time": 1693829914,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435566,
+        "num": 435566,
+        "word": "张凌赫评论虞书欣",
+        "onboard_time": 1693839281,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429950,
+        "num": 429950,
+        "word": "中国地铁站最好听的站名",
+        "onboard_time": 1693836701,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410815,
+        "num": 410815,
+        "word": "罗美娟你配过好日子",
+        "onboard_time": 1693834777,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341854,
+        "num": 390580,
+        "word": "女子P付款截图4年逃单33万",
+        "onboard_time": 1693813233,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377360,
+        "num": 377360,
+        "word": "马丽说和沈腾最不熟",
+        "onboard_time": 1693838437,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364769,
+        "num": 364769,
+        "word": "檀健次直播",
+        "onboard_time": 1693838739,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341774,
+        "num": 341774,
+        "word": "字字不提穷但又很穷的话",
+        "onboard_time": 1693832977,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297775,
+        "num": 297775,
+        "word": "胡歌 把获奖感言说成满分作文的人",
+        "onboard_time": 1693833340,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278566,
+        "num": 278566,
+        "word": "浙江舟山现巨大双彩虹",
+        "onboard_time": 1693834298,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419717,
+        "num": 275702,
+        "word": "没想到现在取快递这么高级了",
+        "onboard_time": 1693839162,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295572,
+        "num": 272483,
+        "word": "骄阳伴我9分钟破1",
+        "onboard_time": 1693831719,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264314,
+        "num": 264314,
+        "word": "文咏珊轻泰式复古妆容",
+        "onboard_time": 1693839760,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 242151,
+        "num": 242151,
+        "word": "父辈的荣耀",
+        "onboard_time": 1693839876,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237416,
+        "num": 237416,
+        "word": "当代社会内卷现状",
+        "onboard_time": 1693839998,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212975,
+        "num": 212975,
+        "word": "大学生真的对钱没概念",
+        "onboard_time": 1693832077,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206114,
+        "num": 206114,
+        "word": "易烊千玺包场不虚此行",
+        "onboard_time": 1693831898,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203901,
+        "num": 203901,
+        "word": "90后夫妻结婚3年不领证",
+        "onboard_time": 1693815638,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202527,
+        "num": 202527,
+        "word": "大连一烤肉店谢绝日本人进入",
+        "onboard_time": 1693830877,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197632,
+        "num": 197632,
+        "word": "麦当劳回应内地是否停售咖啡",
+        "onboard_time": 1693830698,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 195138,
+        "num": 195138,
+        "word": "伍佰演唱会唱也不能唱走也不能走",
+        "onboard_time": 1693832679,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192829,
+        "num": 192829,
+        "word": "骄阳伴我母子日常不够看",
+        "onboard_time": 1693839457,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191866,
+        "num": 191866,
+        "word": "你以为的瑞幸vs实际的瑞幸",
+        "onboard_time": 1693822232,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191237,
+        "num": 191237,
+        "word": "云为衫宫远徵有感情线",
+        "onboard_time": 1693830636,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185016,
+        "num": 185016,
+        "word": "一个人是怎么慢慢废掉的",
+        "onboard_time": 1693823195,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184467,
+        "num": 184467,
+        "word": "RIIZE空降成绩",
+        "onboard_time": 1693838140,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183255,
+        "num": 183255,
+        "word": "电影院遇到这么懂原子弹的",
+        "onboard_time": 1693830217,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152297,
+        "num": 182842,
+        "word": "一旦上班你的气质就会改变",
+        "onboard_time": 1693821635,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147006,
+        "num": 181738,
+        "word": "王维诗里的红豆是有毒的",
+        "onboard_time": 1693837363,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144604,
+        "num": 180616,
+        "word": "年轻人最需要的是一笔钱",
+        "onboard_time": 1693833216,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强服务贸易发展对接创新合作方式#"
+    }
+  }
+}
