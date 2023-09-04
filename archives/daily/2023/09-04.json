@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693830751608,
+  "endTime": 1693831739939,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2395485,
+      "num": 1828636,
+      "word": "亲爱的雪 我已嫁入豪门",
+      "onboard_time": 1693828774,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2363502,
       "num": 2363502,
       "word": "天津大爷已经没空跳水了",
@@ -91,20 +99,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1953652,
+      "num": 1953652,
+      "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+      "onboard_time": 1693829855,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1910569,
       "num": 1910569,
       "word": "高铁",
       "onboard_time": 1693799256,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1828636,
-      "num": 1828636,
-      "word": "亲爱的雪 我已嫁入豪门",
-      "onboard_time": 1693828774,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1759970,
@@ -201,6 +209,14 @@
       "onboard_time": 1693828413,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1254707,
+      "num": 1254707,
+      "word": "云为衫是双胞胎",
+      "onboard_time": 1693829974,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1243633,
@@ -323,14 +339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 854124,
-      "num": 854124,
-      "word": "云为衫是双胞胎",
-      "onboard_time": 1693829974,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 816640,
       "num": 816640,
       "word": "易烊千玺提名金熊猫奖最佳男主角",
@@ -371,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786077,
+      "num": 786077,
+      "word": "云之羽爱奇艺热度值破9000",
+      "onboard_time": 1693831294,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 769622,
       "num": 379073,
       "word": "离职后被要求退回奶茶钱",
       "onboard_time": 1693784373,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 763453,
-      "num": 489861,
-      "word": "在咖啡中擅自添加茅台售卖是侵权行为",
-      "onboard_time": 1693829855,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 761307,
@@ -481,6 +489,22 @@
       "onboard_time": 1693823195,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 620288,
+      "num": 304463,
+      "word": "19岁姑娘常熬夜确诊甲状腺癌",
+      "onboard_time": 1693829914,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620096,
+      "num": 410090,
+      "word": "电影院遇到这么懂原子弹的",
+      "onboard_time": 1693830217,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 616985,
@@ -763,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 429416,
+      "num": 429416,
+      "word": "金靖模仿虞书欣哇哦",
+      "onboard_time": 1693830395,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427318,
       "num": 384637,
       "word": "秀才爆红 老年人精神产品供应",
@@ -843,14 +875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 388785,
-      "num": 276715,
-      "word": "19岁姑娘常熬夜确诊甲状腺癌",
-      "onboard_time": 1693829914,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388257,
       "num": 304035,
       "word": "工作后发现5000块真的很难挣",
@@ -865,14 +889,6 @@
       "onboard_time": 1693812576,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377757,
-      "num": 187974,
-      "word": "电影院遇到这么懂原子弹的",
-      "onboard_time": 1693830217,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 377714,
@@ -1123,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302351,
+      "num": 302351,
+      "word": "大连一烤肉店谢绝日本人进入",
+      "onboard_time": 1693830877,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301946,
       "num": 301946,
       "word": "胡彦斌唱再见爱人3主题曲",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1693791577,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291294,
+      "num": 291294,
+      "word": "麦当劳回应内地是否停售咖啡",
+      "onboard_time": 1693830698,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 286476,
@@ -1331,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246899,
+      "num": 246899,
+      "word": "云为衫宫远徵有感情线",
+      "onboard_time": 1693830636,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244921,
       "num": 244921,
       "word": "西出玉门",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1693814858,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 242288,
-      "num": 242288,
-      "word": "金靖模仿虞书欣哇哦",
-      "onboard_time": 1693830395,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 239464,
@@ -1923,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176006,
+      "num": 176006,
+      "word": "这乒乓球少一个人都玩不起来",
+      "onboard_time": 1693831657,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174539,
       "num": 174539,
       "word": "宋轶哎呀好身材5路透",
@@ -2243,14 +2283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115334,
-      "num": 115334,
-      "word": "云为衫宫远徵有感情线",
-      "onboard_time": 1693830636,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 115130,
       "num": 1556266,
       "word": "迎亚运的杭州好漂亮",
@@ -2267,12 +2299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113577,
-      "num": 113577,
-      "word": "麦当劳回应内地是否停售咖啡",
-      "onboard_time": 1693830698,
-      "rank": 48,
-      "category": "社会新闻,财经"
+      "raw_hot": 113050,
+      "num": 113050,
+      "word": "骄阳伴我9分钟破1",
+      "onboard_time": 1693831719,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 111383,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1693829192,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110052,
+      "num": 110052,
+      "word": "原神",
+      "onboard_time": 1693831719,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 109062,
@@ -2443,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58083,
+      "num": 396286,
+      "word": "消防车出警路遇求助秒变救护车",
+      "onboard_time": 1693828832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56292,
       "num": 56292,
       "word": "肖战片场笑得前仰后合",
@@ -2505,14 +2553,6 @@
       "onboard_time": 1693767856,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 37695,
-      "num": 313205,
-      "word": "消防车出警路遇求助秒变救护车",
-      "onboard_time": 1693828832,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36371,
@@ -2600,6 +2640,14 @@
       "word": "截瘫大叔办学校31年培育千余名幼儿",
       "onboard_time": 1693812153,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8383,
+      "num": 205589,
+      "word": "2023服贸会有哪些科技亮点",
+      "onboard_time": 1693831597,
+      "rank": 30,
       "category": "社会新闻"
     }
   ],
