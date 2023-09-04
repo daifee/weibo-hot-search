@@ -1,0 +1,410 @@
+{
+  "runTime": 1693844454620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1965951,
+        "num": 1965951,
+        "word": "她拍的",
+        "onboard_time": 1693840118,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1132782,
+        "num": 1132782,
+        "word": "已读不回很正常",
+        "onboard_time": 1693837901,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4433,
+        "num": 838190,
+        "word": "一起探营杭州亚运村",
+        "onboard_time": 1693799799,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 765578,
+        "num": 765578,
+        "word": "没想到现在取快递这么高级了",
+        "onboard_time": 1693839162,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535619,
+        "num": 535619,
+        "word": "韩国推出只有名人可以加入的社交平台",
+        "onboard_time": 1693839636,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1217857,
+        "num": 533854,
+        "word": "亲爱的雪 我已嫁入豪门",
+        "onboard_time": 1693828774,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 997746,
+        "num": 530588,
+        "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+        "onboard_time": 1693829855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523981,
+        "num": 523981,
+        "word": "瑞幸 真茅台",
+        "onboard_time": 1693822897,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 444292,
+        "num": 444292,
+        "word": "原来樱花妹觉得高颅顶很丑",
+        "onboard_time": 1693828413,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1844112,
+        "num": 442938,
+        "word": "瑞幸回应男子怒砸多杯酱香拿铁",
+        "onboard_time": 1693838678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572240,
+        "num": 441040,
+        "word": "蒋依依搭好的帐篷不小心被海风吹塌",
+        "onboard_time": 1693835620,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438967,
+        "num": 438967,
+        "word": "丞磊演虚颜的时候就上桌了",
+        "onboard_time": 1693842096,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422289,
+        "num": 422289,
+        "word": "田雨朱珠不小心嗑到了",
+        "onboard_time": 1693841376,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363800,
+        "num": 363800,
+        "word": "一女干部要求每块砖缝无尘土沙粒",
+        "onboard_time": 1693843233,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341985,
+        "num": 341985,
+        "word": "云为衫是双胞胎",
+        "onboard_time": 1693829974,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322007,
+        "num": 322007,
+        "word": "云之羽",
+        "onboard_time": 1693839520,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320784,
+        "num": 320784,
+        "word": "瑞幸公开原料生产记录视频",
+        "onboard_time": 1693837481,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 314294,
+        "num": 314294,
+        "word": "檀健次再跳孤独颂歌",
+        "onboard_time": 1693839220,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307745,
+        "num": 307745,
+        "word": "云之羽爱奇艺热度值破9000",
+        "onboard_time": 1693831294,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265245,
+        "num": 305108,
+        "word": "孕妇做B超拍到上下铺宝宝",
+        "onboard_time": 1693834537,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496738,
+        "num": 305093,
+        "word": "19岁姑娘常熬夜确诊甲状腺癌",
+        "onboard_time": 1693829914,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304545,
+        "num": 304545,
+        "word": "虞书欣又拍了张凌赫",
+        "onboard_time": 1693838437,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281361,
+        "num": 281361,
+        "word": "宫远徵年下小狗",
+        "onboard_time": 1693841376,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240689,
+        "num": 240689,
+        "word": "中国地铁站最好听的站名",
+        "onboard_time": 1693836701,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235855,
+        "num": 235855,
+        "word": "字字不提穷但又很穷的话",
+        "onboard_time": 1693832977,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260075,
+        "num": 234515,
+        "word": "令人心动的offer5",
+        "onboard_time": 1693835380,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301314,
+        "num": 234023,
+        "word": "张凌赫评论虞书欣",
+        "onboard_time": 1693839281,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230153,
+        "num": 230153,
+        "word": "女子P付款截图4年逃单33万",
+        "onboard_time": 1693813233,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225702,
+        "num": 225702,
+        "word": "白鹿王鹤棣以爱为营过审",
+        "onboard_time": 1693835138,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188443,
+        "num": 188443,
+        "word": "檀健次直播",
+        "onboard_time": 1693838739,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430827,
+        "num": 184715,
+        "word": "您的摄像机已经被狮子捡到",
+        "onboard_time": 1693842456,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174447,
+        "num": 174447,
+        "word": "大学生真的对钱没概念",
+        "onboard_time": 1693832077,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168907,
+        "num": 168907,
+        "word": "男子在瑞幸店外怒砸多杯酱香拿铁",
+        "onboard_time": 1693839337,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 163421,
+        "num": 163421,
+        "word": "一个人是怎么慢慢废掉的",
+        "onboard_time": 1693823195,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161263,
+        "num": 161263,
+        "word": "大连一烤肉店谢绝日本人进入",
+        "onboard_time": 1693830877,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159447,
+        "num": 159447,
+        "word": "马丽说和沈腾最不熟",
+        "onboard_time": 1693838437,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155110,
+        "num": 155110,
+        "word": "骄阳伴我9分钟破1",
+        "onboard_time": 1693831719,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152444,
+        "num": 152444,
+        "word": "胡歌 把获奖感言说成满分作文的人",
+        "onboard_time": 1693833340,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151380,
+        "num": 151380,
+        "word": "伍佰演唱会唱也不能唱走也不能走",
+        "onboard_time": 1693832679,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145603,
+        "num": 145603,
+        "word": "蒲熠星 不要轻易地陷入自我否定",
+        "onboard_time": 1693827514,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142160,
+        "num": 142160,
+        "word": "盛阳在这儿等你呢",
+        "onboard_time": 1693842994,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139237,
+        "num": 139237,
+        "word": "年轻人最需要的是一笔钱",
+        "onboard_time": 1693833216,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132931,
+        "num": 132931,
+        "word": "中国文艺志愿者协会第三次全国代表大会",
+        "onboard_time": 1693842215,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131722,
+        "num": 131722,
+        "word": "易烊千玺包场不虚此行",
+        "onboard_time": 1693831898,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123584,
+        "num": 123584,
+        "word": "看到衫羽欲来这段想到长生花",
+        "onboard_time": 1693841436,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123379,
+        "num": 123379,
+        "word": "当代社会内卷现状",
+        "onboard_time": 1693839998,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122577,
+        "num": 122577,
+        "word": "封神 奖从四面八方来",
+        "onboard_time": 1693832137,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121343,
+        "num": 121343,
+        "word": "全程没有感情全是功德",
+        "onboard_time": 1693841738,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112141,
+        "num": 112141,
+        "word": "麦当劳回应内地是否停售咖啡",
+        "onboard_time": 1693830698,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 89119,
+        "num": 112105,
+        "word": "你以为的瑞幸vs实际的瑞幸",
+        "onboard_time": 1693822232,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#服贸会描绘低碳绿色的生活图景#"
+    }
+  }
+}

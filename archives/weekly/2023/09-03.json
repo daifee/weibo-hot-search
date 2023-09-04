@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693841644972,
+  "endTime": 1693844454620,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -233,6 +233,14 @@
       "onboard_time": 1693723294,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1965951,
+      "num": 1965951,
+      "word": "她拍的",
+      "onboard_time": 1693840118,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1944031,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132782,
+      "num": 1132782,
+      "word": "已读不回很正常",
+      "onboard_time": 1693837901,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1111667,
       "num": 728260,
       "word": "李湘太清醒了",
@@ -657,22 +673,6 @@
       "onboard_time": 1693800277,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 990159,
-      "num": 990159,
-      "word": "已读不回很正常",
-      "onboard_time": 1693837901,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 988212,
-      "num": 988212,
-      "word": "她拍的",
-      "onboard_time": 1693840118,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 979258,
@@ -931,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 765578,
+      "num": 765578,
+      "word": "没想到现在取快递这么高级了",
+      "onboard_time": 1693839162,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 762378,
       "num": 762378,
       "word": "姚明黑脸",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1693708234,
       "rank": 30,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 683761,
-      "num": 683761,
-      "word": "没想到现在取快递这么高级了",
-      "onboard_time": 1693839162,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 680311,
@@ -1995,6 +1995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 438967,
+      "num": 438967,
+      "word": "丞磊演虚颜的时候就上桌了",
+      "onboard_time": 1693842096,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438558,
       "num": 260953,
       "word": "谭卓 喜欢费翔爱咋咋地",
@@ -2027,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430827,
+      "num": 184715,
+      "word": "您的摄像机已经被狮子捡到",
+      "onboard_time": 1693842456,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 427318,
       "num": 384637,
       "word": "秀才爆红 老年人精神产品供应",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1693790015,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422289,
+      "num": 422289,
+      "word": "田雨朱珠不小心嗑到了",
+      "onboard_time": 1693841376,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 419863,
@@ -2281,6 +2305,14 @@
       "onboard_time": 1693838739,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363800,
+      "num": 363800,
+      "word": "一女干部要求每块砖缝无尘土沙粒",
+      "onboard_time": 1693843233,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352649,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1693793612,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281361,
+      "num": 281361,
+      "word": "宫远徵年下小狗",
+      "onboard_time": 1693841376,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 279327,
@@ -3555,14 +3595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221442,
-      "num": 221442,
-      "word": "宫远徵年下小狗",
-      "onboard_time": 1693841376,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221182,
       "num": 221182,
       "word": "郭品超回山东泰安寻亲落泪",
@@ -3688,14 +3720,6 @@
       "word": "肖战送你一束光",
       "onboard_time": 1693718135,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211833,
-      "num": 211833,
-      "word": "田雨朱珠不小心嗑到了",
-      "onboard_time": 1693841376,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -4875,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142160,
+      "num": 142160,
+      "word": "盛阳在这儿等你呢",
+      "onboard_time": 1693842994,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140786,
       "num": 140786,
       "word": "代号鸢蔡琰张飞",
@@ -4913,6 +4945,14 @@
       "onboard_time": 1693826911,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132931,
+      "num": 132931,
+      "word": "中国文艺志愿者协会第三次全国代表大会",
+      "onboard_time": 1693842215,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132513,
@@ -4961,6 +5001,14 @@
       "onboard_time": 1693758333,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121343,
+      "num": 121343,
+      "word": "全程没有感情全是功德",
+      "onboard_time": 1693841738,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 120223,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693841644972,
+  "endTime": 1693844454620,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -457,6 +457,14 @@
       "onboard_time": 1693723294,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1965951,
+      "num": 1965951,
+      "word": "她拍的",
+      "onboard_time": 1693840118,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1944031,
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132782,
+      "num": 1132782,
+      "word": "已读不回很正常",
+      "onboard_time": 1693837901,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1111667,
       "num": 728260,
       "word": "李湘太清醒了",
@@ -1323,28 +1339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 990159,
-      "num": 990159,
-      "word": "已读不回很正常",
-      "onboard_time": 1693837901,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 989861,
       "num": 440759,
       "word": "林一NewJeans跳了supershy",
       "onboard_time": 1693628913,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 988212,
-      "num": 988212,
-      "word": "她拍的",
-      "onboard_time": 1693840118,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 984497,
@@ -1939,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 765578,
+      "num": 765578,
+      "word": "没想到现在取快递这么高级了",
+      "onboard_time": 1693839162,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 761307,
       "num": 526210,
       "word": "我们学校复变函数老师是杨幂大伯",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1693531834,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 683761,
-      "num": 683761,
-      "word": "没想到现在取快递这么高级了",
-      "onboard_time": 1693839162,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 682090,
@@ -4059,6 +4059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438967,
+      "num": 438967,
+      "word": "丞磊演虚颜的时候就上桌了",
+      "onboard_time": 1693842096,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438870,
       "num": 438870,
       "word": "黄子弘凡歌词",
@@ -4113,6 +4121,14 @@
       "onboard_time": 1693488761,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 430827,
+      "num": 184715,
+      "word": "您的摄像机已经被狮子捡到",
+      "onboard_time": 1693842456,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 429978,
@@ -4200,6 +4216,14 @@
       "word": "骄阳伴我 血压飙升的职场",
       "onboard_time": 1693641634,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422289,
+      "num": 422289,
+      "word": "田雨朱珠不小心嗑到了",
+      "onboard_time": 1693841376,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -4840,6 +4864,14 @@
       "word": "西安市第一医院两名医生被停职调查",
       "onboard_time": 1693655376,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363800,
+      "num": 363800,
+      "word": "一女干部要求每块砖缝无尘土沙粒",
+      "onboard_time": 1693843233,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5945,6 +5977,14 @@
       "onboard_time": 1693576963,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281361,
+      "num": 281361,
+      "word": "宫远徵年下小狗",
+      "onboard_time": 1693841376,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 279347,
@@ -7235,14 +7275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221442,
-      "num": 221442,
-      "word": "宫远徵年下小狗",
-      "onboard_time": 1693841376,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221423,
       "num": 221423,
       "word": "装腔启示录",
@@ -7456,14 +7488,6 @@
       "word": "肖战送你一束光",
       "onboard_time": 1693718135,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211833,
-      "num": 211833,
-      "word": "田雨朱珠不小心嗑到了",
-      "onboard_time": 1693841376,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -9811,6 +9835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142160,
+      "num": 142160,
+      "word": "盛阳在这儿等你呢",
+      "onboard_time": 1693842994,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141388,
       "num": 141388,
       "word": "包饺子进化到这种程度了吗",
@@ -9955,6 +9987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132931,
+      "num": 132931,
+      "word": "中国文艺志愿者协会第三次全国代表大会",
+      "onboard_time": 1693842215,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132891,
       "num": 132891,
       "word": "诺兰谈配乐对奥本海默的重要性",
@@ -10081,6 +10121,14 @@
       "onboard_time": 1693538740,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121343,
+      "num": 121343,
+      "word": "全程没有感情全是功德",
+      "onboard_time": 1693841738,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 120223,
