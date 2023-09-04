@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693789879188,
+  "endTime": 1693791100577,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1708101,
+      "num": 1521182,
+      "word": "原来婴儿是没有后脚跟的",
+      "onboard_time": 1693787738,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1697639,
       "num": 1697639,
       "word": "北京众多市民涌入干涸河道捡金粒",
@@ -587,12 +595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1521182,
-      "num": 1521182,
-      "word": "原来婴儿是没有后脚跟的",
-      "onboard_time": 1693787738,
-      "rank": 3,
-      "category": "幽默"
+      "raw_hot": 1525834,
+      "num": 1525834,
+      "word": "茅台瑞幸酱香拿铁",
+      "onboard_time": 1693788458,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 1514373,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1693580983,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 815848,
-      "num": 815848,
-      "word": "茅台瑞幸酱香拿铁",
-      "onboard_time": 1693788458,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 813053,
@@ -2403,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582870,
+      "num": 349163,
+      "word": "女朋友一部手机8个手机壳",
+      "onboard_time": 1693789057,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 581756,
       "num": 433345,
       "word": "你现在收入存够1千万要多久",
@@ -2840,6 +2848,14 @@
       "word": "都江堰市3.4级地震",
       "onboard_time": 1693752884,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502994,
+      "num": 309203,
+      "word": "武汉一市民服用中药2天后身亡",
+      "onboard_time": 1693789538,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3281,14 +3297,6 @@
       "onboard_time": 1693543304,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 442485,
-      "num": 349163,
-      "word": "女朋友一部手机8个手机壳",
-      "onboard_time": 1693789057,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 441427,
@@ -4348,7 +4356,7 @@
     },
     {
       "raw_hot": 323417,
-      "num": 235995,
+      "num": 272393,
       "word": "这班上的让人连假都不敢请",
       "onboard_time": 1693788699,
       "rank": 30,
@@ -4369,6 +4377,14 @@
       "onboard_time": 1693646134,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321264,
+      "num": 321264,
+      "word": "南宁至重庆一航班遭鸟击返航",
+      "onboard_time": 1693790072,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321213,
@@ -4393,14 +4409,6 @@
       "onboard_time": 1693718074,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318574,
-      "num": 235137,
-      "word": "武汉一市民服用中药2天后身亡",
-      "onboard_time": 1693789538,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317987,
@@ -4585,6 +4593,14 @@
       "onboard_time": 1693547016,
       "rank": 28,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 301827,
+      "num": 301827,
+      "word": "原来大家都在假装大人",
+      "onboard_time": 1693789775,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 301223,
@@ -5281,6 +5297,14 @@
       "onboard_time": 1693613733,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254041,
+      "num": 231213,
+      "word": "Melody参加再见爱人3的原因",
+      "onboard_time": 1693790015,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 253633,
@@ -7011,6 +7035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189166,
+      "num": 231241,
+      "word": "追忆老阿姨龚全珍",
+      "onboard_time": 1693790494,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188982,
       "num": 207705,
       "word": "辛爽像是来乐队的夏天过冬",
@@ -7339,6 +7371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177527,
+      "num": 177527,
+      "word": "济南拍到不明飞行物坠落",
+      "onboard_time": 1693790734,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176975,
       "num": 176975,
       "word": "找到伴侣不是交卷 找到自己才是",
@@ -7659,14 +7699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161565,
-      "num": 161565,
-      "word": "原来大家都在假装大人",
-      "onboard_time": 1693789775,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161430,
       "num": 178132,
       "word": "魏如萱演唱会",
@@ -7777,6 +7809,14 @@
       "onboard_time": 1693563938,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 155111,
+      "num": 155111,
+      "word": "松弛感减肥操太好跳了",
+      "onboard_time": 1693789895,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 154584,
