@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693865701206,
+  "endTime": 1693866842449,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273778,
+      "num": 273778,
+      "word": "妻子双腿卡收割机丈夫紧抱大喊名字",
+      "onboard_time": 1693862834,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265245,
       "num": 305108,
       "word": "孕妇做B超拍到上下铺宝宝",
@@ -281,14 +289,6 @@
       "onboard_time": 1693832077,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170615,
-      "num": 170615,
-      "word": "妻子双腿卡收割机丈夫紧抱大喊名字",
-      "onboard_time": 1693862834,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168907,
@@ -435,6 +435,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 110872,
+      "num": 58799,
+      "word": "这些食物容易存在黄曲霉素",
+      "onboard_time": 1693859772,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 98276,
       "num": 98276,
       "word": "何运晨带5本民法典录offer5",
@@ -459,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 80622,
-      "num": 41454,
-      "word": "这些食物容易存在黄曲霉素",
-      "onboard_time": 1693859772,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 74145,
       "num": 74145,
       "word": "电影院遇到这么懂原子弹的",
@@ -483,11 +483,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64867,
+      "num": 64867,
+      "word": "逛超市是一件很亲密的事",
+      "onboard_time": 1693865775,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64668,
       "num": 64668,
       "word": "云为衫宫远徵有感情线",
       "onboard_time": 1693830636,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 63935,
+      "num": 63935,
+      "word": "以前的花絮是真花絮",
+      "onboard_time": 1693863975,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -515,20 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45083,
-      "num": 41328,
-      "word": "以前的花絮是真花絮",
-      "onboard_time": 1693863975,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 42699,
       "num": 53016,
       "word": "对所爱之事有最真挚的期待",
       "onboard_time": 1693848559,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36308,
+      "num": 38581,
+      "word": "山西王家大院",
+      "onboard_time": 1693866317,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 29332,
