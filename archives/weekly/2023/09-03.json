@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693827247840,
+  "endTime": 1693830751608,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1828636,
+      "num": 1828636,
+      "word": "亲爱的雪 我已嫁入豪门",
+      "onboard_time": 1693828774,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1779007,
       "num": 1779007,
       "word": "秀才曾被大妈举报欺诈51万",
@@ -401,6 +409,14 @@
       "onboard_time": 1693702234,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1283227,
+      "num": 1283227,
+      "word": "原来樱花妹觉得高颅顶很丑",
+      "onboard_time": 1693828413,
+      "rank": 3,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1243633,
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 854124,
+      "num": 854124,
+      "word": "云为衫是双胞胎",
+      "onboard_time": 1693829974,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838474,
       "num": 508490,
       "word": "法老在老番茄婚礼唱健将",
@@ -793,6 +817,14 @@
       "onboard_time": 1693704693,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 763453,
+      "num": 489861,
+      "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+      "onboard_time": 1693829855,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 762378,
@@ -1563,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497679,
+      "num": 497679,
+      "word": "蒲熠星 不要轻易地陷入自我否定",
+      "onboard_time": 1693827514,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490774,
       "num": 272922,
       "word": "在上海吃到了42块的可丽饼",
@@ -1577,6 +1617,14 @@
       "onboard_time": 1693720834,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487431,
+      "num": 487431,
+      "word": "这波文化输出真是赢麻了",
+      "onboard_time": 1693828293,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 486609,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1693706493,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462599,
+      "num": 462599,
+      "word": "西出玉门到底播不播",
+      "onboard_time": 1693828893,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 462173,
@@ -1875,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388785,
+      "num": 276715,
+      "word": "19岁姑娘常熬夜确诊甲状腺癌",
+      "onboard_time": 1693829914,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385351,
       "num": 385351,
       "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
@@ -1921,6 +1985,14 @@
       "onboard_time": 1693747004,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377757,
+      "num": 187974,
+      "word": "电影院遇到这么懂原子弹的",
+      "onboard_time": 1693830217,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 377714,
@@ -2265,6 +2337,14 @@
       "onboard_time": 1693741004,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311989,
+      "num": 311989,
+      "word": "大鹏 很开心热烈可以卡到9",
+      "onboard_time": 1693828471,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 311785,
@@ -2883,6 +2963,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 242288,
+      "num": 242288,
+      "word": "金靖模仿虞书欣哇哦",
+      "onboard_time": 1693830395,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241344,
       "num": 241344,
       "word": "王仕鹏",
@@ -3264,6 +3352,22 @@
       "word": "肖战送你一束光",
       "onboard_time": 1693718135,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211826,
+      "num": 211826,
+      "word": "易烊千玺讲述种子的力量",
+      "onboard_time": 1693828954,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211758,
+      "num": 211758,
+      "word": "郑云龙三贵情史",
+      "onboard_time": 1693829794,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -3795,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "感谢费莱尼 永远的队长",
+      "onboard_time": 1693830334,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185208,
       "num": 185208,
       "word": "发现总有人吵架爱叫别人多读点书",
@@ -3913,6 +4025,14 @@
       "onboard_time": 1693698446,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179065,
+      "num": 179065,
+      "word": "你见过哪些离谱的外卖备注",
+      "onboard_time": 1693830217,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 178702,
@@ -4435,12 +4555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118308,
+      "num": 118308,
+      "word": "前两秒真的以为在给小猫化妆",
+      "onboard_time": 1693827753,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118096,
       "num": 118096,
       "word": "8岁孤独症男孩研究太阳轨迹",
       "onboard_time": 1693697185,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115334,
+      "num": 115334,
+      "word": "云为衫宫远徵有感情线",
+      "onboard_time": 1693830636,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 115130,
@@ -4457,6 +4593,14 @@
       "onboard_time": 1693663242,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113577,
+      "num": 113577,
+      "word": "麦当劳回应内地是否停售咖啡",
+      "onboard_time": 1693830698,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 113448,
@@ -4480,6 +4624,14 @@
       "word": "曾舜晞莲花楼后官宣了两个代言",
       "onboard_time": 1693781061,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 110351,
+      "num": 110351,
+      "word": "吴磊谈和胡歌第三搭",
+      "onboard_time": 1693829192,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -4833,6 +4985,14 @@
       "onboard_time": 1693767856,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 37695,
+      "num": 313205,
+      "word": "消防车出警路遇求助秒变救护车",
+      "onboard_time": 1693828832,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36371,
