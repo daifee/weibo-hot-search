@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693854781820,
+  "endTime": 1693856033378,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -499,12 +499,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23723,
-      "num": 23723,
+      "raw_hot": 27493,
+      "num": 26467,
       "word": "选狗窍门",
       "onboard_time": 1693853955,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20122,
+      "num": 20122,
+      "word": "人在尴尬的时候就会假装很忙",
+      "onboard_time": 1693855994,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19435,
+      "num": 20114,
+      "word": "和主人一起四处旅游的耶耶",
+      "onboard_time": 1693855216,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 4433,

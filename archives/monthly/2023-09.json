@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693854781820,
+  "endTime": 1693856033378,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -11155,6 +11155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27493,
+      "num": 26467,
+      "word": "选狗窍门",
+      "onboard_time": 1693853955,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26776,
       "num": 26776,
       "word": "当表情包被AI重置五次后",
@@ -11195,14 +11203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23723,
-      "num": 23723,
-      "word": "选狗窍门",
-      "onboard_time": 1693853955,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23246,
       "num": 1165598,
       "word": "一起探营杭州亚运村",
@@ -11235,6 +11235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20122,
+      "num": 20122,
+      "word": "人在尴尬的时候就会假装很忙",
+      "onboard_time": 1693855994,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20041,
       "num": 35735,
       "word": "银魂将推20周年新项目",
@@ -11249,6 +11257,14 @@
       "onboard_time": 1693516695,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 19435,
+      "num": 20114,
+      "word": "和主人一起四处旅游的耶耶",
+      "onboard_time": 1693855216,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 19113,
