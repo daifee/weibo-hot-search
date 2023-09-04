@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693791100577,
+  "endTime": 1693794152382,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 883152,
+      "num": 883152,
+      "word": "这个暑假最出圈的台词",
+      "onboard_time": 1693791096,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 809625,
       "num": 809625,
       "word": "成都地震",
@@ -145,6 +153,14 @@
       "onboard_time": 1693755399,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 749468,
+      "num": 749468,
+      "word": "上海现不明飞行物似火球般高速坠落",
+      "onboard_time": 1693791933,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733115,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468776,
+      "num": 402644,
+      "word": "野球帝 退出",
+      "onboard_time": 1693792892,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463472,
       "num": 463472,
       "word": "你什么档次敢骂雪姨",
@@ -275,6 +299,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408516,
+      "num": 408516,
+      "word": "Melody参加再见爱人3的原因",
+      "onboard_time": 1693790015,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 397533,
+      "num": 397533,
+      "word": "窗边的小豆豆出续作",
+      "onboard_time": 1693791755,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 388257,
       "num": 304035,
       "word": "工作后发现5000块真的很难挣",
@@ -291,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353052,
+      "num": 353052,
+      "word": "余佳恩连续工作22小时进急诊",
+      "onboard_time": 1693791335,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352028,
       "num": 352028,
       "word": "ive",
       "onboard_time": 1693751385,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346445,
+      "num": 346445,
+      "word": "奥本海默中没有提到的女科学家们",
+      "onboard_time": 1693792236,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 340980,
@@ -355,11 +411,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296865,
+      "num": 296865,
+      "word": "广东的KTV有多离谱",
+      "onboard_time": 1693791577,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286476,
       "num": 286476,
       "word": "刘嘉玲 今天是你的日子",
       "onboard_time": 1693752227,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281494,
+      "num": 281494,
+      "word": "济南拍到不明飞行物坠落",
+      "onboard_time": 1693790734,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281258,
+      "num": 281258,
+      "word": "这部剧的受众到底是谁",
+      "onboard_time": 1693792712,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -395,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254041,
-      "num": 231213,
-      "word": "Melody参加再见爱人3的原因",
-      "onboard_time": 1693790015,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253529,
       "num": 253529,
       "word": "为什么现在年轻人很少去KTV了",
@@ -435,6 +507,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242223,
+      "num": 242223,
+      "word": "美娟这辈子没这么穷过",
+      "onboard_time": 1693791755,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 240583,
+      "num": 240583,
+      "word": "韩东君腿太长沙发不够躺",
+      "onboard_time": 1693792353,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237273,
       "num": 237273,
       "word": "篮球世界杯八强名单",
@@ -451,6 +539,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 234187,
+      "num": 234187,
+      "word": "RIIZE出道专预售量突破103万张",
+      "onboard_time": 1693793733,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233307,
       "num": 233307,
       "word": "不敢想象金靖拍这部剧时有多快乐",
@@ -465,6 +561,14 @@
       "onboard_time": 1693750606,
       "rank": 32,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 229978,
+      "num": 229978,
+      "word": "女子帮离世村民养大3个孩子并送上大学",
+      "onboard_time": 1693793255,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229804,
@@ -579,11 +683,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192951,
+      "num": 192951,
+      "word": "同事让我们孤立他",
+      "onboard_time": 1693793612,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189166,
       "num": 231241,
       "word": "追忆老阿姨龚全珍",
       "onboard_time": 1693790494,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186888,
+      "num": 186888,
+      "word": "大学生晒被子新招式",
+      "onboard_time": 1693793554,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 186369,
+      "num": 186369,
+      "word": "成功去潘达星陪和盛了",
+      "onboard_time": 1693792117,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -603,6 +731,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180602,
+      "num": 180602,
+      "word": "云之羽世界观",
+      "onboard_time": 1693793255,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179622,
+      "num": 179622,
+      "word": "周一到底谁在幸福",
+      "onboard_time": 1693793554,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179595,
       "num": 179595,
       "word": "央视主持人做饭好像过大年",
@@ -619,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177527,
-      "num": 177527,
-      "word": "济南拍到不明飞行物坠落",
-      "onboard_time": 1693790734,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174539,
       "num": 174539,
       "word": "宋轶哎呀好身材5路透",
@@ -641,6 +777,14 @@
       "onboard_time": 1693740528,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 169956,
+      "num": 169956,
+      "word": "说一部证明你年龄的动画片",
+      "onboard_time": 1693793378,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 169635,
