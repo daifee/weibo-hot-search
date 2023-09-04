@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693808548493,
+  "endTime": 1693809345067,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -99,6 +99,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1512220,
+      "num": 526549,
+      "word": "孙阳直播哽咽",
+      "onboard_time": 1693805380,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1500051,
       "num": 1500051,
       "word": "为什么好多人都消失在朋友圈了",
@@ -113,14 +121,6 @@
       "onboard_time": 1693749704,
       "rank": 1,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1499127,
-      "num": 526549,
-      "word": "孙阳直播哽咽",
-      "onboard_time": 1693805380,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1379706,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950001,
+      "num": 479812,
+      "word": "杨迪信息被泄露",
+      "onboard_time": 1693808678,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 944775,
       "num": 944775,
       "word": "滕州高铁站跳轨男子已被送医",
@@ -225,6 +233,14 @@
       "onboard_time": 1693791096,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 904441,
+      "num": 904441,
+      "word": "山东滕州高铁站跳轨者已身亡",
+      "onboard_time": 1693808314,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 809625,
@@ -305,6 +321,14 @@
       "onboard_time": 1693801481,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 648123,
+      "num": 257880,
+      "word": "iPhone15新款手机壳曝光",
+      "onboard_time": 1693807713,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 643239,
@@ -403,16 +427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 510792,
-      "num": 206716,
-      "word": "iPhone15新款手机壳曝光",
-      "onboard_time": 1693807713,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 507550,
-      "num": 206014,
+      "num": 251153,
       "word": "瑞幸客服回应酱香拿铁不加咖啡液",
       "onboard_time": 1693806696,
       "rank": 22,
@@ -441,6 +457,14 @@
       "onboard_time": 1693753483,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478281,
+      "num": 478281,
+      "word": "于适去幼儿园实习过",
+      "onboard_time": 1693807594,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 475198,
@@ -609,14 +633,6 @@
       "onboard_time": 1693792712,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338192,
-      "num": 338192,
-      "word": "于适去幼儿园实习过",
-      "onboard_time": 1693807594,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 332547,
@@ -867,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239464,
+      "num": 239464,
+      "word": "患者急需用血超100名熊猫侠主动报名",
+      "onboard_time": 1693807178,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238032,
       "num": 238032,
       "word": "1993年的电视剧有多经典",
@@ -955,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225339,
+      "num": 194278,
+      "word": "突然明白了省钱的意义",
+      "onboard_time": 1693808853,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223307,
       "num": 223307,
       "word": "15岁姐姐挑食不爱运动比妹妹矮9厘米",
@@ -1035,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207206,
-      "num": 207206,
-      "word": "患者急需用血超100名熊猫侠主动报名",
-      "onboard_time": 1693807178,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206861,
       "num": 206861,
       "word": "快速进入学习状态的方法",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1693783168,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203945,
+      "num": 203945,
+      "word": "男孩饮料上瘾牙全烂14岁戴假牙",
+      "onboard_time": 1693808915,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199998,
@@ -1171,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188489,
-      "num": 188489,
-      "word": "山东滕州高铁站跳轨者已身亡",
-      "onboard_time": 1693808314,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187403,
       "num": 187403,
       "word": "月薪5000是什么水平",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1693786720,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177948,
+      "num": 177948,
+      "word": "好莱坞女星玛格丽特库里结婚",
+      "onboard_time": 1693805136,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 174539,
@@ -1339,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159664,
-      "num": 159664,
-      "word": "好莱坞女星玛格丽特库里结婚",
-      "onboard_time": 1693805136,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159472,
       "num": 159472,
       "word": "海葵5日登陆粤闽交界",
@@ -1387,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149128,
+      "num": 149128,
+      "word": "大学生不能没有饭搭子",
+      "onboard_time": 1693807894,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146177,
       "num": 146177,
       "word": "一个动作改善换季鼻塞",
@@ -1403,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140038,
+      "num": 140038,
+      "word": "大笨狗 坚强的人先享受折磨",
+      "onboard_time": 1693809155,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134681,
       "num": 134681,
       "word": "无与伦比的美丽",
@@ -1411,11 +1451,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134023,
+      "num": 343270,
+      "word": "爸爸送女儿上大学躲角落偷偷抹泪",
+      "onboard_time": 1693807234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132513,
       "num": 132513,
       "word": "南号尚风 搬书",
       "onboard_time": 1693757973,
       "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 127164,
+      "num": 127164,
+      "word": "银魂荆棘流氓篇海报",
+      "onboard_time": 1693809334,
+      "rank": 48,
       "category": "动漫"
     },
     {
@@ -1441,14 +1497,6 @@
       "onboard_time": 1693758333,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125886,
-      "num": 125886,
-      "word": "大学生不能没有饭搭子",
-      "onboard_time": 1693807894,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 115130,
@@ -1507,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95247,
-      "num": 333450,
-      "word": "爸爸送女儿上大学躲角落偷偷抹泪",
-      "onboard_time": 1693807234,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93278,
       "num": 93278,
       "word": "这种洗大猫的工作去哪应聘",
@@ -1547,7 +1587,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81868,
+      "raw_hot": 85971,
       "num": 159094,
       "word": "喜茶宣布跨界做牛奶",
       "onboard_time": 1693807234,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1693741964,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 66237,
+      "num": 137509,
+      "word": "美媒称华为推出新机引发华盛顿担忧",
+      "onboard_time": 1693809213,
+      "rank": 44,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 64755,
