@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693869357668,
+  "endTime": 1693870428747,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -9,6 +9,14 @@
       "onboard_time": 1693840118,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1869085,
+      "num": 556545,
+      "word": "网曝重庆一医生值班时被患者家属捅死",
+      "onboard_time": 1693868482,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1844112,
@@ -75,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 556545,
-      "num": 556545,
-      "word": "网曝重庆一医生值班时被患者家属捅死",
-      "onboard_time": 1693868482,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535619,
       "num": 535619,
       "word": "韩国推出只有名人可以加入的社交平台",
@@ -139,11 +139,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358158,
-      "num": 358158,
+      "raw_hot": 395471,
+      "num": 395471,
+      "word": "孕妇做B超拍到上下铺宝宝",
+      "onboard_time": 1693834537,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366198,
+      "num": 366198,
       "word": "女子P付款截图4年逃单33万",
       "onboard_time": 1693813233,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352902,
+      "num": 352902,
+      "word": "台风天气福州一消防车坠河",
+      "onboard_time": 1693869506,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -187,20 +203,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305193,
-      "num": 305193,
-      "word": "孕妇做B超拍到上下铺宝宝",
-      "onboard_time": 1693834537,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304545,
       "num": 304545,
       "word": "虞书欣又拍了张凌赫",
       "onboard_time": 1693838437,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302136,
+      "num": 302136,
+      "word": "山西王家大院",
+      "onboard_time": 1693866317,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 301314,
@@ -211,20 +227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290833,
-      "num": 290833,
-      "word": "山西王家大院",
-      "onboard_time": 1693866317,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 281361,
       "num": 281361,
       "word": "宫远徵年下小狗",
       "onboard_time": 1693841376,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278045,
+      "num": 211397,
+      "word": "逛超市是一件很亲密的事",
+      "onboard_time": 1693865775,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 260075,
@@ -252,19 +268,11 @@
     },
     {
       "raw_hot": 230023,
-      "num": 150625,
+      "num": 209525,
       "word": "詹青云 你想自信光靠想有什么用",
       "onboard_time": 1693846104,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 226092,
-      "num": 178194,
-      "word": "逛超市是一件很亲密的事",
-      "onboard_time": 1693865775,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 225702,
@@ -283,6 +291,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220033,
+      "num": 220033,
+      "word": "郑钦文首进大满贯八强",
+      "onboard_time": 1693868785,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216761,
+      "num": 216761,
+      "word": "胡歌 把获奖感言说成满分作文的人",
+      "onboard_time": 1693833340,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208405,
+      "num": 162389,
+      "word": "原来睡觉真的很有用",
+      "onboard_time": 1693870234,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "姬发真是谐音梗富翁",
@@ -291,20 +323,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205775,
-      "num": 205775,
-      "word": "胡歌 把获奖感言说成满分作文的人",
-      "onboard_time": 1693833340,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 204542,
+      "num": 158688,
+      "word": "和游客玩的小象被妈妈叫回去了",
+      "onboard_time": 1693868482,
+      "rank": 31,
+      "category": "其它"
     },
     {
-      "raw_hot": 202390,
-      "num": 202390,
-      "word": "郑钦文首进大满贯八强",
-      "onboard_time": 1693868785,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 204468,
+      "num": 192333,
+      "word": "郭敬明审美",
+      "onboard_time": 1693870168,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195708,
+      "num": 195708,
+      "word": "这些食物容易存在黄曲霉素",
+      "onboard_time": 1693859772,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 188443,
@@ -315,12 +355,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187446,
+      "num": 154530,
+      "word": "准备离职时突然找我谈辞退",
+      "onboard_time": 1693870234,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183193,
       "num": 129288,
       "word": "让床变舒服的办法",
       "onboard_time": 1693844968,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182500,
+      "num": 182500,
+      "word": "福清暴雨",
+      "onboard_time": 1693869687,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 179440,
+      "num": 179440,
+      "word": "伍佰演唱会唱也不能唱走也不能走",
+      "onboard_time": 1693832679,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 174447,
@@ -363,28 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159434,
-      "num": 159434,
-      "word": "这些食物容易存在黄曲霉素",
-      "onboard_time": 1693859772,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "骄阳伴我9分钟破1",
       "onboard_time": 1693831719,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151380,
-      "num": 151380,
-      "word": "伍佰演唱会唱也不能唱走也不能走",
-      "onboard_time": 1693832679,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 145603,
@@ -401,6 +449,14 @@
       "onboard_time": 1693842994,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142054,
+      "num": 142054,
+      "word": "希腊女生第一次来西安穿汉服扮东方美人",
+      "onboard_time": 1693870048,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 139237,
@@ -433,14 +489,6 @@
       "onboard_time": 1693832137,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126663,
-      "num": 126663,
-      "word": "和游客玩的小象被妈妈叫回去了",
-      "onboard_time": 1693868482,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 123584,
@@ -491,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101107,
+      "num": 101107,
+      "word": "台风",
+      "onboard_time": 1693857493,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98276,
       "num": 98276,
       "word": "何运晨带5本民法典录offer5",
       "onboard_time": 1693818276,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92341,
-      "num": 92341,
-      "word": "台风",
-      "onboard_time": 1693857493,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89119,
@@ -603,7 +651,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 4433,
+      "raw_hot": 5211,
       "num": 838190,
       "word": "一起探营杭州亚运村",
       "onboard_time": 1693799799,

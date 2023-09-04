@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693869357668,
+  "endTime": 1693870428747,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -256,6 +256,14 @@
       "word": "高铁",
       "onboard_time": 1693799256,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1869085,
+      "num": 556545,
+      "word": "网曝重庆一医生值班时被患者家属捅死",
+      "onboard_time": 1693868482,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1555,14 +1563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 556545,
-      "num": 556545,
-      "word": "网曝重庆一医生值班时被患者家属捅死",
-      "onboard_time": 1693868482,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556024,
       "num": 556024,
       "word": "余佳恩连续工作22小时进急诊",
@@ -2331,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352902,
+      "num": 352902,
+      "word": "台风天气福州一消防车坠河",
+      "onboard_time": 1693869506,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352649,
       "num": 352649,
       "word": "俞灏明感叹陈楚生没有选错歌",
@@ -2731,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302136,
+      "num": 302136,
+      "word": "山西王家大院",
+      "onboard_time": 1693866317,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 301946,
       "num": 301946,
       "word": "胡彦斌唱再见爱人3主题曲",
@@ -2833,14 +2849,6 @@
       "onboard_time": 1693751685,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 290833,
-      "num": 290833,
-      "word": "山西王家大院",
-      "onboard_time": 1693866317,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 289515,
@@ -2953,6 +2961,14 @@
       "onboard_time": 1693719513,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278045,
+      "num": 211397,
+      "word": "逛超市是一件很亲密的事",
+      "onboard_time": 1693865775,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 277323,
@@ -3484,7 +3500,7 @@
     },
     {
       "raw_hot": 230023,
-      "num": 150625,
+      "num": 209525,
       "word": "詹青云 你想自信光靠想有什么用",
       "onboard_time": 1693846104,
       "rank": 30,
@@ -3537,14 +3553,6 @@
       "onboard_time": 1693674566,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226092,
-      "num": 178194,
-      "word": "逛超市是一件很亲密的事",
-      "onboard_time": 1693865775,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 225817,
@@ -3683,6 +3691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220033,
+      "num": 220033,
+      "word": "郑钦文首进大满贯八强",
+      "onboard_time": 1693868785,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219699,
       "num": 219699,
       "word": "独居女生被陌生男子反锁屋内",
@@ -3809,6 +3825,14 @@
       "onboard_time": 1693835019,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208405,
+      "num": 162389,
+      "word": "原来睡觉真的很有用",
+      "onboard_time": 1693870234,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 208194,
@@ -3955,6 +3979,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 204542,
+      "num": 158688,
+      "word": "和游客玩的小象被妈妈叫回去了",
+      "onboard_time": 1693868482,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 204468,
+      "num": 192333,
+      "word": "郭敬明审美",
+      "onboard_time": 1693870168,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203886,
       "num": 203886,
       "word": "骄阳伴我双榜登顶",
@@ -3977,14 +4017,6 @@
       "onboard_time": 1693702714,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202390,
-      "num": 202390,
-      "word": "郑钦文首进大满贯八强",
-      "onboard_time": 1693868785,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 202064,
@@ -4113,6 +4145,14 @@
       "onboard_time": 1693796313,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195708,
+      "num": 195708,
+      "word": "这些食物容易存在黄曲霉素",
+      "onboard_time": 1693859772,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 195452,
@@ -4323,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187446,
+      "num": 154530,
+      "word": "准备离职时突然找我谈辞退",
+      "onboard_time": 1693870234,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187403,
       "num": 187403,
       "word": "月薪5000是什么水平",
@@ -4465,6 +4513,14 @@
       "onboard_time": 1693813536,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182500,
+      "num": 182500,
+      "word": "福清暴雨",
+      "onboard_time": 1693869687,
+      "rank": 27,
+      "category": "自然"
     },
     {
       "raw_hot": 182436,
@@ -4835,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159434,
-      "num": 159434,
-      "word": "这些食物容易存在黄曲霉素",
-      "onboard_time": 1693859772,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 156865,
       "num": 156865,
       "word": "大笨狗 坚强的人先享受折磨",
@@ -4987,6 +5035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142054,
+      "num": 142054,
+      "word": "希腊女生第一次来西安穿汉服扮东方美人",
+      "onboard_time": 1693870048,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 140786,
       "num": 140786,
       "word": "代号鸢蔡琰张飞",
@@ -5073,14 +5129,6 @@
       "onboard_time": 1693761203,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126663,
-      "num": 126663,
-      "word": "和游客玩的小象被妈妈叫回去了",
-      "onboard_time": 1693868482,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 126072,
@@ -5219,6 +5267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101107,
+      "num": 101107,
+      "word": "台风",
+      "onboard_time": 1693857493,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101056,
       "num": 101056,
       "word": "欧阳娜娜沙滩照",
@@ -5265,14 +5321,6 @@
       "onboard_time": 1693780639,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92341,
-      "num": 92341,
-      "word": "台风",
-      "onboard_time": 1693857493,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91888,
