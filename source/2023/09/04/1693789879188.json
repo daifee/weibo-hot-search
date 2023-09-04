@@ -1,0 +1,410 @@
+{
+  "runTime": 1693789879188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5180071,
+        "num": 5180071,
+        "word": "大熊猫花花的妈妈死亡",
+        "onboard_time": 1693782326,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1667761,
+        "num": 1667761,
+        "word": "郭小四搁这儿拍小时代呢",
+        "onboard_time": 1693786720,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115130,
+        "num": 1556266,
+        "word": "迎亚运的杭州好漂亮",
+        "onboard_time": 1693747242,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1521182,
+        "num": 1521182,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1049419,
+        "num": 1049419,
+        "word": "内马尔 我和梅西在巴黎经历了地狱",
+        "onboard_time": 1693787078,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1021875,
+        "num": 1021875,
+        "word": "为什么好多人都消失在朋友圈了",
+        "onboard_time": 1693749704,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 918931,
+        "num": 918931,
+        "word": "莲花楼男主选角",
+        "onboard_time": 1693787318,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815848,
+        "num": 815848,
+        "word": "茅台瑞幸酱香拿铁",
+        "onboard_time": 1693788458,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 680311,
+        "num": 680311,
+        "word": "原来大学没课时可以搞那么多事",
+        "onboard_time": 1693784673,
+        "rank": 8,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 616985,
+        "num": 616985,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1693784494,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 735105,
+        "num": 578932,
+        "word": "肛肠科待太久对帅哥都无感了",
+        "onboard_time": 1693749465,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 526210,
+        "num": 526210,
+        "word": "我们学校复变函数老师是杨幂大伯",
+        "onboard_time": 1693755399,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492098,
+        "num": 492098,
+        "word": "湖南被患者抹脖子牙医朋友发声",
+        "onboard_time": 1693755636,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479916,
+        "num": 479916,
+        "word": "云之羽还没谈上就开始看眼色了",
+        "onboard_time": 1693786898,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229475,
+        "num": 463349,
+        "word": "花花没有妈妈了",
+        "onboard_time": 1693782567,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462477,
+        "num": 462477,
+        "word": "云之羽",
+        "onboard_time": 1693788158,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417289,
+        "num": 417289,
+        "word": "马立奥 我和我的冤种老爸",
+        "onboard_time": 1693787198,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440862,
+        "num": 417000,
+        "word": "这居然是纪凌尘",
+        "onboard_time": 1693747242,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416678,
+        "num": 416678,
+        "word": "适合做老婆 不是赞扬是冒犯",
+        "onboard_time": 1693755518,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413282,
+        "num": 413282,
+        "word": "清华大学研究生重量级宿舍",
+        "onboard_time": 1693757434,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 769622,
+        "num": 379073,
+        "word": "离职后被要求退回奶茶钱",
+        "onboard_time": 1693784373,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 584043,
+        "num": 358502,
+        "word": "为什么现在酒店都不收押金了",
+        "onboard_time": 1693788338,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442485,
+        "num": 349163,
+        "word": "女朋友一部手机8个手机壳",
+        "onboard_time": 1693789057,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332547,
+        "num": 332547,
+        "word": "Twins说毛不易粤语像她们普通话一样标准",
+        "onboard_time": 1693782747,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297622,
+        "num": 297622,
+        "word": "今年已有5位网红因违法违规被封",
+        "onboard_time": 1693749704,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 292829,
+        "num": 292829,
+        "word": "工作后发现5000块真的很难挣",
+        "onboard_time": 1693745141,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275994,
+        "num": 275994,
+        "word": "女生125斤被质问你胖成啥了",
+        "onboard_time": 1693746706,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248284,
+        "num": 248284,
+        "word": "被于适射箭转场笑死",
+        "onboard_time": 1693788878,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247761,
+        "num": 247761,
+        "word": "女子被狗撕碎左脸缝了500多针",
+        "onboard_time": 1693753483,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237273,
+        "num": 237273,
+        "word": "篮球世界杯八强名单",
+        "onboard_time": 1693784855,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323417,
+        "num": 235995,
+        "word": "这班上的让人连假都不敢请",
+        "onboard_time": 1693788699,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318574,
+        "num": 235137,
+        "word": "武汉一市民服用中药2天后身亡",
+        "onboard_time": 1693789538,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268597,
+        "num": 234287,
+        "word": "这是从海底捞退役下来的吧",
+        "onboard_time": 1693788036,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233307,
+        "num": 233307,
+        "word": "不敢想象金靖拍这部剧时有多快乐",
+        "onboard_time": 1693788635,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229804,
+        "num": 229804,
+        "word": "虞书欣眼神里面都是戏",
+        "onboard_time": 1693788818,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229447,
+        "num": 229447,
+        "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
+        "onboard_time": 1693742564,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223307,
+        "num": 223307,
+        "word": "15岁姐姐挑食不爱运动比妹妹矮9厘米",
+        "onboard_time": 1693786777,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206163,
+        "num": 206163,
+        "word": "央视评华为争气机",
+        "onboard_time": 1693749767,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 198426,
+        "num": 198426,
+        "word": "原来真有人后发际线长到脖子上",
+        "onboard_time": 1693750483,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195347,
+        "num": 195347,
+        "word": "i人面试至暗时刻",
+        "onboard_time": 1693786057,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179595,
+        "num": 179595,
+        "word": "央视主持人做饭好像过大年",
+        "onboard_time": 1693785456,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178702,
+        "num": 178702,
+        "word": "胡兵说第几名不重要主要得体面",
+        "onboard_time": 1693786720,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176532,
+        "num": 176532,
+        "word": "男子退伍妻子偷偷中途上车送惊喜",
+        "onboard_time": 1693778055,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174650,
+        "num": 174650,
+        "word": "韩版黄雨萱",
+        "onboard_time": 1693750727,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173812,
+        "num": 173812,
+        "word": "成都地震",
+        "onboard_time": 1693751985,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169635,
+        "num": 169635,
+        "word": "养狗让我意识到我不适合当妈",
+        "onboard_time": 1693786597,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161649,
+        "num": 161649,
+        "word": "等了27年终于圆梦的笑有多感人",
+        "onboard_time": 1693787679,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161565,
+        "num": 161565,
+        "word": "原来大家都在假装大人",
+        "onboard_time": 1693789775,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160980,
+        "num": 160980,
+        "word": "你什么档次敢骂雪姨",
+        "onboard_time": 1693750063,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159472,
+        "num": 159472,
+        "word": "海葵5日登陆粤闽交界",
+        "onboard_time": 1693784792,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}

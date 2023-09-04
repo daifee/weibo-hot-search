@@ -1,11 +1,19 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693784038717,
+  "endTime": 1693789879188,
   "band_list": [
     {
       "raw_hot": 5865095,
       "num": 7115095,
       "word": "大熊猫成功死亡",
+      "onboard_time": 1693782326,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5180071,
+      "num": 5180071,
+      "word": "大熊猫花花的妈妈死亡",
       "onboard_time": 1693782326,
       "rank": 0,
       "category": "社会新闻"
@@ -17,6 +25,22 @@
       "onboard_time": 1693755518,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1667761,
+      "num": 1667761,
+      "word": "郭小四搁这儿拍小时代呢",
+      "onboard_time": 1693786720,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1521182,
+      "num": 1521182,
+      "word": "原来婴儿是没有后脚跟的",
+      "onboard_time": 1693787738,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1500051,
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 1307229,
-      "num": 407587,
+      "num": 578932,
       "word": "肛肠科待太久对帅哥都无感了",
       "onboard_time": 1693749465,
       "rank": 10,
@@ -67,12 +91,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1049419,
+      "num": 1049419,
+      "word": "内马尔 我和梅西在巴黎经历了地狱",
+      "onboard_time": 1693787078,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1028523,
-      "num": 384327,
+      "num": 417000,
       "word": "这居然是纪凌尘",
       "onboard_time": 1693747242,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 918931,
+      "num": 918931,
+      "word": "莲花楼男主选角",
+      "onboard_time": 1693787318,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 815848,
+      "num": 815848,
+      "word": "茅台瑞幸酱香拿铁",
+      "onboard_time": 1693788458,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 809625,
@@ -83,8 +131,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769622,
+      "num": 379073,
+      "word": "离职后被要求退回奶茶钱",
+      "onboard_time": 1693784373,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 761307,
-      "num": 372763,
+      "num": 526210,
       "word": "我们学校复变函数老师是杨幂大伯",
       "onboard_time": 1693755399,
       "rank": 13,
@@ -99,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680311,
+      "num": 680311,
+      "word": "原来大学没课时可以搞那么多事",
+      "onboard_time": 1693784673,
+      "rank": 8,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 616985,
+      "num": 616985,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1693784494,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 594494,
       "num": 594494,
       "word": "张慧雯妆造好端庄",
@@ -107,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 584043,
+      "num": 358502,
+      "word": "为什么现在酒店都不收押金了",
+      "onboard_time": 1693788338,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551125,
       "num": 196760,
       "word": "9月1日 9月3日",
       "onboard_time": 1693750785,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 479916,
+      "num": 479916,
+      "word": "云之羽还没谈上就开始看眼色了",
+      "onboard_time": 1693786898,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 478534,
@@ -131,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462477,
+      "num": 462477,
+      "word": "云之羽",
+      "onboard_time": 1693788158,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442495,
       "num": 442495,
       "word": "原来真有人后发际线长到脖子上",
@@ -139,12 +235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442485,
+      "num": 349163,
+      "word": "女朋友一部手机8个手机壳",
+      "onboard_time": 1693789057,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 425931,
       "num": 357147,
       "word": "谁是周冬雨",
       "onboard_time": 1693754144,
       "rank": 15,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 417289,
+      "num": 417289,
+      "word": "马立奥 我和我的冤种老爸",
+      "onboard_time": 1693787198,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 409313,
@@ -187,6 +299,30 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 332547,
+      "num": 332547,
+      "word": "Twins说毛不易粤语像她们普通话一样标准",
+      "onboard_time": 1693782747,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 323417,
+      "num": 235995,
+      "word": "这班上的让人连假都不敢请",
+      "onboard_time": 1693788699,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 318574,
+      "num": 235137,
+      "word": "武汉一市民服用中药2天后身亡",
+      "onboard_time": 1693789538,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317276,
       "num": 282323,
       "word": "女生125斤被质问你胖成啥了",
@@ -201,14 +337,6 @@
       "onboard_time": 1693753426,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294378,
-      "num": 294378,
-      "word": "Twins说毛不易粤语像她们普通话一样标准",
-      "onboard_time": 1693782747,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 286476,
@@ -233,6 +361,14 @@
       "onboard_time": 1693745324,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268597,
+      "num": 234287,
+      "word": "这是从海底捞退役下来的吧",
+      "onboard_time": 1693788036,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 264839,
@@ -267,12 +403,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 248284,
+      "num": 248284,
+      "word": "被于适射箭转场笑死",
+      "onboard_time": 1693788878,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237273,
+      "num": 237273,
+      "word": "篮球世界杯八强名单",
+      "onboard_time": 1693784855,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236025,
       "num": 236025,
       "word": "用张元英当头像被骚扰了",
       "onboard_time": 1693735777,
       "rank": 31,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 233307,
+      "num": 233307,
+      "word": "不敢想象金靖拍这部剧时有多快乐",
+      "onboard_time": 1693788635,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 230351,
@@ -283,11 +443,27 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 229804,
+      "num": 229804,
+      "word": "虞书欣眼神里面都是戏",
+      "onboard_time": 1693788818,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225817,
       "num": 225817,
       "word": "男子退伍妻子偷偷中途上车送惊喜",
       "onboard_time": 1693778055,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223307,
+      "num": 223307,
+      "word": "15岁姐姐挑食不爱运动比妹妹矮9厘米",
+      "onboard_time": 1693786777,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -363,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195347,
+      "num": 195347,
+      "word": "i人面试至暗时刻",
+      "onboard_time": 1693786057,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193165,
       "num": 193165,
       "word": "李湘太清醒了",
@@ -387,6 +571,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179595,
+      "num": 179595,
+      "word": "央视主持人做饭好像过大年",
+      "onboard_time": 1693785456,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178702,
+      "num": 178702,
+      "word": "胡兵说第几名不重要主要得体面",
+      "onboard_time": 1693786720,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174539,
       "num": 174539,
       "word": "宋轶哎呀好身材5路透",
@@ -401,6 +601,14 @@
       "onboard_time": 1693740528,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 169635,
+      "num": 169635,
+      "word": "养狗让我意识到我不适合当妈",
+      "onboard_time": 1693786597,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 168522,
@@ -419,12 +627,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161649,
+      "num": 161649,
+      "word": "等了27年终于圆梦的笑有多感人",
+      "onboard_time": 1693787679,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161565,
+      "num": 161565,
+      "word": "原来大家都在假装大人",
+      "onboard_time": 1693789775,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159993,
       "num": 159993,
       "word": "宫远徵叫姐姐",
       "onboard_time": 1693745501,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159472,
+      "num": 159472,
+      "word": "海葵5日登陆粤闽交界",
+      "onboard_time": 1693784792,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158254,
@@ -481,6 +713,14 @@
       "onboard_time": 1693758333,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115130,
+      "num": 1556266,
+      "word": "迎亚运的杭州好漂亮",
+      "onboard_time": 1693747242,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114311,
@@ -584,14 +824,6 @@
       "word": "民警翻垃圾桶1小时找回3万救命钱",
       "onboard_time": 1693778657,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68678,
-      "num": 1260855,
-      "word": "迎亚运的杭州好漂亮",
-      "onboard_time": 1693747242,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
