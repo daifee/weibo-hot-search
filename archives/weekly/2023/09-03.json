@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693844454620,
+  "endTime": 1693845374308,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -1203,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 664418,
+      "num": 664418,
+      "word": "一女干部要求每块砖缝无尘土沙粒",
+      "onboard_time": 1693843233,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662265,
       "num": 662265,
       "word": "顾晓声 郭小四",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1693755636,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 589535,
+      "num": 395027,
+      "word": "您的摄像机已经被狮子捡到",
+      "onboard_time": 1693842456,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 588876,
@@ -2035,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430827,
-      "num": 184715,
-      "word": "您的摄像机已经被狮子捡到",
-      "onboard_time": 1693842456,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 427318,
       "num": 384637,
       "word": "秀才爆红 老年人精神产品供应",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1693838739,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363800,
-      "num": 363800,
-      "word": "一女干部要求每块砖缝无尘土沙粒",
-      "onboard_time": 1693843233,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352649,
@@ -4969,6 +4969,14 @@
       "onboard_time": 1693811134,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129288,
+      "num": 129288,
+      "word": "让床变舒服的办法",
+      "onboard_time": 1693844968,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 128177,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693844454620,
+  "endTime": 1693845374308,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -51,6 +51,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 664418,
+      "num": 664418,
+      "word": "一女干部要求每块砖缝无尘土沙粒",
+      "onboard_time": 1693843233,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589535,
+      "num": 395027,
+      "word": "您的摄像机已经被狮子捡到",
+      "onboard_time": 1693842456,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 572240,
       "num": 441040,
       "word": "蒋依依搭好的帐篷不小心被海风吹塌",
@@ -99,28 +115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430827,
-      "num": 184715,
-      "word": "您的摄像机已经被狮子捡到",
-      "onboard_time": 1693842456,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 422289,
       "num": 422289,
       "word": "田雨朱珠不小心嗑到了",
       "onboard_time": 1693841376,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363800,
-      "num": 363800,
-      "word": "一女干部要求每块砖缝无尘土沙粒",
-      "onboard_time": 1693843233,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341985,
@@ -347,6 +347,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130850,
+      "num": 130850,
+      "word": "封神 奖从四面八方来",
+      "onboard_time": 1693832137,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129288,
+      "num": 129288,
+      "word": "让床变舒服的办法",
+      "onboard_time": 1693844968,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123584,
       "num": 123584,
       "word": "看到衫羽欲来这段想到长生花",
@@ -363,11 +379,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122577,
-      "num": 122577,
-      "word": "封神 奖从四面八方来",
-      "onboard_time": 1693832137,
-      "rank": 46,
+      "raw_hot": 123289,
+      "num": 123289,
+      "word": "父辈的荣耀",
+      "onboard_time": 1693839876,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1693830698,
       "rank": 48,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 98276,
+      "num": 98276,
+      "word": "何运晨带5本民法典录offer5",
+      "onboard_time": 1693818276,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 89119,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#服贸会描绘低碳绿色的生活图景#"
+    },
+    {
+      "word": "#感受2023服贸会风采#"
     }
   ]
 }
