@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693840622821,
+  "endTime": 1693841644972,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -25,6 +25,14 @@
       "onboard_time": 1693822897,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3609493,
+      "num": 2101185,
+      "word": "瑞幸回应男子怒砸多杯酱香拿铁",
+      "onboard_time": 1693838678,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3446437,
@@ -89,14 +97,6 @@
       "onboard_time": 1693811134,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2101185,
-      "num": 2101185,
-      "word": "瑞幸回应男子怒砸多杯酱香拿铁",
-      "onboard_time": 1693838678,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2081687,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1264330,
-      "num": 1264330,
+      "num": 1491537,
       "word": "瑞幸公开原料生产记录视频",
       "onboard_time": 1693837481,
       "rank": 19,
@@ -355,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990159,
+      "num": 990159,
+      "word": "已读不回很正常",
+      "onboard_time": 1693837901,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 988212,
+      "num": 988212,
+      "word": "她拍的",
+      "onboard_time": 1693840118,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 979258,
       "num": 979258,
       "word": "Jessi要来成都",
@@ -400,6 +416,14 @@
       "word": "这个暑假最出圈的台词",
       "onboard_time": 1693791096,
       "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 825223,
+      "num": 825223,
+      "word": "韩国推出只有名人可以加入的社交平台",
+      "onboard_time": 1693839636,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -523,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 683761,
+      "num": 683761,
+      "word": "没想到现在取快递这么高级了",
+      "onboard_time": 1693839162,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 680311,
       "num": 680311,
       "word": "原来大学没课时可以搞那么多事",
@@ -537,14 +569,6 @@
       "onboard_time": 1693831898,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 671108,
-      "num": 671108,
-      "word": "已读不回很正常",
-      "onboard_time": 1693837901,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 660580,
@@ -577,14 +601,6 @@
       "onboard_time": 1693799194,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 639630,
-      "num": 639630,
-      "word": "韩国推出只有名人可以加入的社交平台",
-      "onboard_time": 1693839636,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 638645,
@@ -819,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495904,
-      "num": 495904,
-      "word": "她拍的",
-      "onboard_time": 1693840118,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 492356,
       "num": 317782,
       "word": "大学生真的对钱没概念",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1693795114,
       "rank": 21,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 419717,
-      "num": 275702,
-      "word": "没想到现在取快递这么高级了",
-      "onboard_time": 1693839162,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 418189,
@@ -1851,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221442,
+      "num": 221442,
+      "word": "宫远徵年下小狗",
+      "onboard_time": 1693841376,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221182,
       "num": 221182,
       "word": "郭品超回山东泰安寻亲落泪",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1693810715,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211833,
+      "num": 211833,
+      "word": "田雨朱珠不小心嗑到了",
+      "onboard_time": 1693841376,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 211826,
@@ -1993,6 +2009,14 @@
       "onboard_time": 1693807053,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204935,
+      "num": 204935,
+      "word": "看到衫羽欲来这段想到长生花",
+      "onboard_time": 1693841436,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 204624,

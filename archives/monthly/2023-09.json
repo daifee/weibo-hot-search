@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693840622821,
+  "endTime": 1693841644972,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -64,6 +64,14 @@
       "word": "日本出现大量巨型蛾子布满街道",
       "onboard_time": 1693549055,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3609493,
+      "num": 2101185,
+      "word": "瑞幸回应男子怒砸多杯酱香拿铁",
+      "onboard_time": 1693838678,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -367,14 +375,6 @@
       "num": 2101246,
       "word": "七险三金多了哪两险哪两金",
       "onboard_time": 1693526795,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2101185,
-      "num": 2101185,
-      "word": "瑞幸回应男子怒砸多杯酱香拿铁",
-      "onboard_time": 1693838678,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 1264330,
-      "num": 1264330,
+      "num": 1491537,
       "word": "瑞幸公开原料生产记录视频",
       "onboard_time": 1693837481,
       "rank": 19,
@@ -1323,12 +1323,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 990159,
+      "num": 990159,
+      "word": "已读不回很正常",
+      "onboard_time": 1693837901,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 989861,
       "num": 440759,
       "word": "林一NewJeans跳了supershy",
       "onboard_time": 1693628913,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 988212,
+      "num": 988212,
+      "word": "她拍的",
+      "onboard_time": 1693840118,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 984497,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1693538435,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 825223,
+      "num": 825223,
+      "word": "韩国推出只有名人可以加入的社交平台",
+      "onboard_time": 1693839636,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 824525,
@@ -2275,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683761,
+      "num": 683761,
+      "word": "没想到现在取快递这么高级了",
+      "onboard_time": 1693839162,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 682090,
       "num": 682090,
       "word": "广州TTG重回总决赛",
@@ -2321,14 +2353,6 @@
       "onboard_time": 1693831898,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 671108,
-      "num": 671108,
-      "word": "已读不回很正常",
-      "onboard_time": 1693837901,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 668531,
@@ -2465,14 +2489,6 @@
       "onboard_time": 1693637373,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 639630,
-      "num": 639630,
-      "word": "韩国推出只有名人可以加入的社交平台",
-      "onboard_time": 1693839636,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 638645,
@@ -3507,14 +3523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495904,
-      "num": 495904,
-      "word": "她拍的",
-      "onboard_time": 1693840118,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495045,
       "num": 495045,
       "word": "梁朝伟刘嘉玲李安胡歌威尼斯相见",
@@ -4233,14 +4241,6 @@
       "onboard_time": 1693494760,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419717,
-      "num": 275702,
-      "word": "没想到现在取快递这么高级了",
-      "onboard_time": 1693839162,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 419235,
@@ -7235,6 +7235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221442,
+      "num": 221442,
+      "word": "宫远徵年下小狗",
+      "onboard_time": 1693841376,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221423,
       "num": 221423,
       "word": "装腔启示录",
@@ -7448,6 +7456,14 @@
       "word": "肖战送你一束光",
       "onboard_time": 1693718135,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211833,
+      "num": 211833,
+      "word": "田雨朱珠不小心嗑到了",
+      "onboard_time": 1693841376,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -7777,6 +7793,14 @@
       "onboard_time": 1693624414,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204935,
+      "num": 204935,
+      "word": "看到衫羽欲来这段想到长生花",
+      "onboard_time": 1693841436,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 204918,
