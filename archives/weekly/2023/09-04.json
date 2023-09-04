@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693812851819,
+  "endTime": 1693815690479,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -49,6 +49,14 @@
       "onboard_time": 1693796676,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2101748,
+      "num": 1325709,
+      "word": "针孔摄像头",
+      "onboard_time": 1693811134,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 2081687,
@@ -139,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1325709,
-      "num": 1325709,
-      "word": "针孔摄像头",
-      "onboard_time": 1693811134,
-      "rank": 15,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1307229,
       "num": 578932,
       "word": "肛肠科待太久对帅哥都无感了",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1001335,
-      "num": 337877,
+      "num": 607570,
       "word": "满杯茅台去咖啡液",
       "onboard_time": 1693802024,
       "rank": 48,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717488,
+      "num": 312055,
+      "word": "女子P付款截图4年逃单33万",
+      "onboard_time": 1693813233,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712287,
       "num": 712287,
       "word": "瑞幸客服回应酱香拿铁不加咖啡液",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 648123,
-      "num": 257880,
+      "num": 514825,
       "word": "iPhone15新款手机壳曝光",
       "onboard_time": 1693807713,
       "rank": 21,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 565398,
-      "num": 229708,
+      "num": 307438,
       "word": "突然明白了省钱的意义",
       "onboard_time": 1693808853,
       "rank": 30,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 555961,
-      "num": 385338,
+      "num": 407960,
       "word": "怎么连宫女都给自己搞人物小传",
       "onboard_time": 1693811014,
       "rank": 30,
@@ -563,6 +571,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 418189,
+      "num": 418189,
+      "word": "Angelababy收到过周杰伦奶茶探班",
+      "onboard_time": 1693813476,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417448,
       "num": 417448,
       "word": "逐月主演",
@@ -603,12 +619,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 392344,
+      "num": 392344,
+      "word": "90后夫妻结婚3年不领证",
+      "onboard_time": 1693815638,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388257,
       "num": 304035,
       "word": "工作后发现5000块真的很难挣",
       "onboard_time": 1693745141,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 385351,
+      "num": 385351,
+      "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
+      "onboard_time": 1693812576,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367902,
@@ -691,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335930,
+      "num": 335930,
+      "word": "倪妮白宇够野",
+      "onboard_time": 1693814259,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332547,
       "num": 332547,
       "word": "Twins说毛不易粤语像她们普通话一样标准",
@@ -712,6 +752,14 @@
       "word": "舒淇威尼斯偶遇封神",
       "onboard_time": 1693801421,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 326376,
+      "num": 305043,
+      "word": "倪妮李现 星河滚烫",
+      "onboard_time": 1693812395,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -844,7 +892,7 @@
     },
     {
       "raw_hot": 273857,
-      "num": 198755,
+      "num": 271342,
       "word": "以为是特效结果全是真的",
       "onboard_time": 1693811014,
       "rank": 31,
@@ -1107,6 +1155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 215000,
+      "num": 215000,
+      "word": "被孙怡介绍Melody笑到",
+      "onboard_time": 1693810715,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211671,
       "num": 211671,
       "word": "汉服女生这个系列对我眼睛太好了",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1693757854,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207184,
+      "num": 207184,
+      "word": "朝歌幼儿园园长哄孩子画面",
+      "onboard_time": 1693815458,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206861,
@@ -1171,14 +1235,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 200527,
-      "num": 200527,
-      "word": "被孙怡介绍Melody笑到",
-      "onboard_time": 1693810715,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199998,
       "num": 199998,
       "word": "马立奥睫毛好长",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1693800097,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196691,
+      "num": 196691,
+      "word": "小狗生病以为自己快不行了",
+      "onboard_time": 1693815036,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 196144,
@@ -1251,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194321,
-      "num": 194321,
-      "word": "倪妮李现 星河滚烫",
-      "onboard_time": 1693812395,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193165,
       "num": 193165,
       "word": "李湘太清醒了",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1693802262,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191912,
+      "num": 191912,
+      "word": "厦门市教育局发布停课紧急通知",
+      "onboard_time": 1693814858,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 190473,
@@ -1331,12 +1395,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 186866,
+      "num": 186866,
+      "word": "金珉奎知道茅台咖啡了",
+      "onboard_time": 1693815580,
+      "rank": 34,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 186369,
       "num": 186369,
       "word": "成功去潘达星陪和盛了",
       "onboard_time": 1693792117,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182789,
+      "num": 182789,
+      "word": "热烈票房破9亿",
+      "onboard_time": 1693813536,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 182236,
@@ -1361,6 +1441,14 @@
       "onboard_time": 1693793255,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179970,
+      "num": 179970,
+      "word": "日本福岛县近海地震",
+      "onboard_time": 1693815279,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179622,
@@ -1499,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158382,
+      "num": 158382,
+      "word": "女子被男孩撞倒家长听说骨折后急忙离开",
+      "onboard_time": 1693815220,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158254,
       "num": 158254,
       "word": "央妈推荐曾舜晞的终极笔记三次了",
@@ -1547,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147919,
+      "num": 147919,
+      "word": "原来狮子这么好客的吗",
+      "onboard_time": 1693813178,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146177,
       "num": 146177,
       "word": "一个动作改善换季鼻塞",
@@ -1563,12 +1667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143138,
-      "num": 143138,
-      "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
-      "onboard_time": 1693812576,
+      "raw_hot": 142710,
+      "num": 142710,
+      "word": "王楚钦加油",
+      "onboard_time": 1693813355,
       "rank": 43,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 135257,
@@ -1601,6 +1705,14 @@
       "onboard_time": 1693811134,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128426,
+      "num": 128426,
+      "word": "雷暴哮喘",
+      "onboard_time": 1693815398,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127164,
@@ -1779,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63624,
+      "num": 383675,
+      "word": "济南交警机场送云南断指幼儿就医",
+      "onboard_time": 1693814499,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61883,
       "num": 61883,
       "word": "看奥本海默仿佛参观一场人类的葬礼",
@@ -1873,6 +1993,14 @@
       "onboard_time": 1693768816,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19148,
+      "num": 1165598,
+      "word": "一起探营杭州亚运村",
+      "onboard_time": 1693799799,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17886,
