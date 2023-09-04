@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693856033378,
+  "endTime": 1693858612800,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -11131,6 +11131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29332,
+      "num": 23915,
+      "word": "人在尴尬的时候就会假装很忙",
+      "onboard_time": 1693855994,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28091,
       "num": 33774,
       "word": "风箫孙尚香抢龙",
@@ -11235,12 +11243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20122,
-      "num": 20122,
-      "word": "人在尴尬的时候就会假装很忙",
-      "onboard_time": 1693855994,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 21231,
+      "num": 22306,
+      "word": "爸爸好像那个智能识图",
+      "onboard_time": 1693856713,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 20041,
