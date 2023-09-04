@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693858612800,
+  "endTime": 1693859640994,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -5395,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59698,
+      "num": 59698,
+      "word": "台风",
+      "onboard_time": 1693857493,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58083,
       "num": 396286,
       "word": "消防车出警路遇求助秒变救护车",
@@ -5521,14 +5529,6 @@
       "onboard_time": 1693767856,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38932,
-      "num": 38932,
-      "word": "台风",
-      "onboard_time": 1693857493,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36371,

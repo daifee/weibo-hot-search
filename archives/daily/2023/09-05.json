@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693858612800,
+  "endTime": 1693859640994,
   "band_list": [
     {
       "raw_hot": 1965951,
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59698,
+      "num": 59698,
+      "word": "台风",
+      "onboard_time": 1693857493,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45294,
       "num": 43207,
       "word": "恋爱中卑微的结果",
@@ -497,14 +505,6 @@
       "onboard_time": 1693848559,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38932,
-      "num": 38932,
-      "word": "台风",
-      "onboard_time": 1693857493,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29332,
