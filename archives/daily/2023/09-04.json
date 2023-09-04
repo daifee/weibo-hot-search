@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693794823794,
+  "endTime": 1693797454435,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -27,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1936309,
+      "num": 1936309,
+      "word": "瑞幸回应喝茅台联名咖啡能否开车",
+      "onboard_time": 1693795114,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1708101,
       "num": 1521182,
       "word": "原来婴儿是没有后脚跟的",
@@ -39,6 +47,14 @@
       "num": 1667761,
       "word": "郭小四搁这儿拍小时代呢",
       "onboard_time": 1693786720,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1581335,
+      "num": 1581335,
+      "word": "杨振宁 奥本海默",
+      "onboard_time": 1693795054,
       "rank": 1,
       "category": "影视"
     },
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789085,
+      "num": 789085,
+      "word": "上海现不明飞行物似火球般高速坠落",
+      "onboard_time": 1693791933,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769622,
       "num": 379073,
       "word": "离职后被要求退回奶茶钱",
@@ -153,14 +177,6 @@
       "onboard_time": 1693755399,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 749468,
-      "num": 749468,
-      "word": "上海现不明飞行物似火球般高速坠落",
-      "onboard_time": 1693791933,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 733115,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 561779,
-      "num": 402644,
+      "num": 534331,
       "word": "野球帝 退出",
       "onboard_time": 1693792892,
       "rank": 12,
@@ -225,6 +241,14 @@
       "onboard_time": 1693791335,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555923,
+      "num": 555923,
+      "word": "于适你真的很疯",
+      "onboard_time": 1693795896,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 551125,
@@ -299,12 +323,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419863,
+      "num": 335010,
+      "word": "王鹤棣 雅诗兰黛",
+      "onboard_time": 1693795114,
+      "rank": 21,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 417289,
       "num": 417289,
       "word": "马立奥 我和我的冤种老爸",
       "onboard_time": 1693787198,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415283,
+      "num": 402536,
+      "word": "天津大爷已经没空跳水了",
+      "onboard_time": 1693796676,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415155,
+      "num": 415155,
+      "word": "济南拍到不明飞行物坠落",
+      "onboard_time": 1693790734,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409313,
@@ -331,12 +379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 367902,
+      "num": 367902,
+      "word": "王师傅回应退出野球帝",
+      "onboard_time": 1693794952,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354756,
       "num": 302442,
       "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
       "onboard_time": 1693742564,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352649,
+      "num": 352649,
+      "word": "俞灏明感叹陈楚生没有选错歌",
+      "onboard_time": 1693794811,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 352028,
@@ -379,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327786,
+      "num": 400486,
+      "word": "认房不认贷",
+      "onboard_time": 1693794396,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323417,
       "num": 272393,
       "word": "这班上的让人连假都不敢请",
@@ -393,6 +465,14 @@
       "onboard_time": 1693790072,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321154,
+      "num": 321154,
+      "word": "虞书欣黑色镂空套装",
+      "onboard_time": 1693795654,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 317276,
@@ -419,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297875,
+      "num": 250301,
+      "word": "国家发展改革委内设民营经济发展局",
+      "onboard_time": 1693795834,
+      "rank": 30,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 296865,
       "num": 296865,
       "word": "广东的KTV有多离谱",
@@ -427,20 +515,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 291640,
-      "num": 291640,
-      "word": "济南拍到不明飞行物坠落",
-      "onboard_time": 1693790734,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286476,
       "num": 286476,
       "word": "刘嘉玲 今天是你的日子",
       "onboard_time": 1693752227,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284951,
+      "num": 284951,
+      "word": "易烊千玺怀化市城市形象大使",
+      "onboard_time": 1693796915,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279038,
+      "num": 279038,
+      "word": "同事让我们孤立他",
+      "onboard_time": 1693793612,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 278536,
@@ -507,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250771,
-      "num": 250771,
-      "word": "同事让我们孤立他",
-      "onboard_time": 1693793612,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250431,
       "num": 362335,
       "word": "税务局已收到秀才举报材料",
@@ -571,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230476,
+      "num": 230476,
+      "word": "酱香拿铁",
+      "onboard_time": 1693796736,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 230351,
       "num": 230351,
       "word": "皮肤和情绪的关系",
@@ -579,20 +675,20 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 229825,
+      "num": 229825,
+      "word": "不虚此行吴磊让胡歌坚持下去",
+      "onboard_time": 1693795834,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229804,
       "num": 229804,
       "word": "虞书欣眼神里面都是戏",
       "onboard_time": 1693788818,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229230,
-      "num": 369236,
-      "word": "认房不认贷",
-      "onboard_time": 1693794396,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225817,
@@ -667,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204729,
+      "num": 204729,
+      "word": "整个洛杉矶都来看梅西了",
+      "onboard_time": 1693796857,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204624,
       "num": 204624,
       "word": "好想告诉你第3季制作决定",
       "onboard_time": 1693783168,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 199998,
+      "num": 199998,
+      "word": "马立奥睫毛好长",
+      "onboard_time": 1693796435,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197876,
@@ -683,12 +795,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195750,
+      "num": 193810,
+      "word": "云之羽弹幕有多搞笑",
+      "onboard_time": 1693796313,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195347,
       "num": 195347,
       "word": "i人面试至暗时刻",
       "onboard_time": 1693786057,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194938,
+      "num": 194938,
+      "word": "听说很好吃团建式官宣",
+      "onboard_time": 1693796976,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193165,
@@ -779,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175529,
+      "num": 175529,
+      "word": "西出玉门",
+      "onboard_time": 1693797276,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174539,
       "num": 174539,
       "word": "宋轶哎呀好身材5路透",
       "onboard_time": 1693782326,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172735,
+      "num": 172735,
+      "word": "当一家火锅店开始宣传五颜六色的甜品",
+      "onboard_time": 1693794872,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 170457,
@@ -825,6 +969,14 @@
       "onboard_time": 1693756897,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163154,
+      "num": 163154,
+      "word": "微博手机影像年",
+      "onboard_time": 1693797095,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 161649,
@@ -873,14 +1025,6 @@
       "onboard_time": 1693783530,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151066,
-      "num": 151066,
-      "word": "俞灏明感叹陈楚生没有选错歌",
-      "onboard_time": 1693794811,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 134681,
