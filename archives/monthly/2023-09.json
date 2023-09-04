@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693801202455,
+  "endTime": 1693802037788,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -835,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1172364,
+      "num": 630463,
+      "word": "一亿个孩子一间房",
+      "onboard_time": 1693800400,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1161330,
       "num": 1161330,
       "word": "武艺问武艺拿蛋糕好笑吗",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1693659517,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 944775,
+      "num": 944775,
+      "word": "滕州高铁站跳轨男子已被送医",
+      "onboard_time": 1693800880,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 940506,
@@ -1611,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775192,
+      "num": 379020,
+      "word": "中国女性肥胖比例不足10%",
+      "onboard_time": 1693800277,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774259,
       "num": 774259,
       "word": "梁朝伟领取威尼斯终身成就奖",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1693727015,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735080,
+      "num": 735080,
+      "word": "酱香拿铁",
+      "onboard_time": 1693796736,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 733115,
@@ -1923,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 690385,
-      "num": 690385,
-      "word": "酱香拿铁",
-      "onboard_time": 1693796736,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 687501,
       "num": 687501,
       "word": "承欢记真抠",
@@ -2108,7 +2132,7 @@
     },
     {
       "raw_hot": 643239,
-      "num": 342557,
+      "num": 374744,
       "word": "虞书欣鲨鱼夹",
       "onboard_time": 1693799194,
       "rank": 20,
@@ -2491,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580073,
+      "num": 580073,
+      "word": "骄阳伴我里很现实的悲哀",
+      "onboard_time": 1693799499,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 576122,
       "num": 576122,
       "word": "宁安如梦什么时候抬",
@@ -2667,6 +2699,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 545075,
+      "num": 545075,
+      "word": "整个洛杉矶都来看梅西了",
+      "onboard_time": 1693796857,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 544837,
       "num": 385886,
       "word": "原来刘星才是第一个用蚂蚁花被的人",
@@ -2689,14 +2729,6 @@
       "onboard_time": 1693668103,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 540183,
-      "num": 540183,
-      "word": "骄阳伴我里很现实的悲哀",
-      "onboard_time": 1693799499,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 539383,
@@ -2795,28 +2827,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 531343,
-      "num": 340148,
-      "word": "中国女性肥胖比例不足10%",
-      "onboard_time": 1693800277,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 530720,
       "num": 502009,
       "word": "十几分钟却是我的整个青春",
       "onboard_time": 1693589066,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 530173,
-      "num": 234157,
-      "word": "一亿个孩子一间房",
-      "onboard_time": 1693800400,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 527233,
@@ -2841,14 +2857,6 @@
       "onboard_time": 1693467460,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 521258,
-      "num": 521258,
-      "word": "整个洛杉矶都来看梅西了",
-      "onboard_time": 1693796857,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 520801,
@@ -2980,7 +2988,7 @@
     },
     {
       "raw_hot": 502994,
-      "num": 332081,
+      "num": 353975,
       "word": "武汉一市民服用中药2天后身亡",
       "onboard_time": 1693789538,
       "rank": 31,
@@ -3272,14 +3280,6 @@
       "word": "中国驻日使馆披露被骚扰细节",
       "onboard_time": 1693538196,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467382,
-      "num": 467382,
-      "word": "滕州高铁站跳轨男子已被送医",
-      "onboard_time": 1693800880,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3651,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416678,
+      "num": 416678,
+      "word": "蒲松龄后人驳斥刀郎侵权言论",
+      "onboard_time": 1693801300,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 415435,
       "num": 415435,
       "word": "KSG一穿四",
@@ -3953,6 +3961,14 @@
       "onboard_time": 1693735656,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382306,
+      "num": 382306,
+      "word": "云之羽第五集",
+      "onboard_time": 1693800880,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 381232,
@@ -4539,6 +4555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324559,
+      "num": 324559,
+      "word": "逐月主演",
+      "onboard_time": 1693801603,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324410,
       "num": 324410,
       "word": "张钧甯吃粉丝",
@@ -4659,6 +4683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314434,
+      "num": 310564,
+      "word": "舒淇威尼斯偶遇封神",
+      "onboard_time": 1693801421,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314180,
       "num": 314180,
       "word": "刘宇宁回应蝉女短发造型",
@@ -4713,6 +4745,14 @@
       "onboard_time": 1693702953,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310949,
+      "num": 310949,
+      "word": "关晓彤山根碎钻妆",
+      "onboard_time": 1693801722,
+      "rank": 28,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 309526,
@@ -4776,6 +4816,14 @@
       "word": "熊猫界的娃娃脸",
       "onboard_time": 1693639591,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305663,
+      "num": 305663,
+      "word": "义乌老板娘是懂做亚运生意的",
+      "onboard_time": 1693801120,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4897,6 +4945,14 @@
       "onboard_time": 1693643496,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295118,
+      "num": 295118,
+      "word": "让自己的面相变好的方法",
+      "onboard_time": 1693801481,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 294878,
@@ -5435,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259357,
+      "num": 259357,
+      "word": "密室大逃脱5收官晚宴",
+      "onboard_time": 1693801540,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259252,
       "num": 259252,
       "word": "封神",
@@ -5755,6 +5819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244279,
+      "num": 244279,
+      "word": "高铁站回应男子跳下站台被火车轧车底",
+      "onboard_time": 1693801722,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243722,
       "num": 243722,
       "word": "当幼师妈妈有个边界感超强的儿子",
@@ -6049,14 +6121,6 @@
       "onboard_time": 1693553142,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228022,
-      "num": 228022,
-      "word": "云之羽第五集",
-      "onboard_time": 1693800880,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 227247,
@@ -6563,6 +6627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206861,
+      "num": 206861,
+      "word": "快速进入学习状态的方法",
+      "onboard_time": 1693801661,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206849,
       "num": 206849,
       "word": "周深朴宰范梦幻联动",
@@ -6737,6 +6809,14 @@
       "onboard_time": 1693523967,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203005,
+      "num": 203005,
+      "word": "范丞丞关晓彤 小巷人家",
+      "onboard_time": 1693802024,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 202880,
@@ -7091,6 +7171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195140,
+      "num": 195140,
+      "word": "彪子真的很努力",
+      "onboard_time": 1693801183,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195035,
       "num": 195035,
       "word": "现在就出发",
@@ -7211,12 +7299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191918,
+      "num": 191918,
+      "word": "洛杉矶1比3迈阿密国际",
+      "onboard_time": 1693801840,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191853,
       "num": 191853,
       "word": "短道速滑陆地训练",
       "onboard_time": 1693749883,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191708,
+      "num": 191708,
+      "word": "满杯茅台去咖啡液",
+      "onboard_time": 1693802024,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 191653,
@@ -7488,14 +7592,6 @@
       "word": "成功去潘达星陪和盛了",
       "onboard_time": 1693792117,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186286,
-      "num": 186286,
-      "word": "义乌老板娘是懂做亚运生意的",
-      "onboard_time": 1693801120,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -7835,14 +7931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173106,
-      "num": 173106,
-      "word": "彪子真的很努力",
-      "onboard_time": 1693801183,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173021,
       "num": 173021,
       "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
@@ -8177,6 +8265,14 @@
       "onboard_time": 1693526012,
       "rank": 45,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 159106,
+      "num": 2035446,
+      "word": "博物馆里那些一眼惊艳的文案",
+      "onboard_time": 1693800036,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159026,
@@ -8752,14 +8848,6 @@
       "word": "中国文物逃出大英博物馆幕后故事",
       "onboard_time": 1693492240,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111712,
-      "num": 2035446,
-      "word": "博物馆里那些一眼惊艳的文案",
-      "onboard_time": 1693800036,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
