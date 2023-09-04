@@ -1,0 +1,410 @@
+{
+  "runTime": 1693834431040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3207852,
+        "num": 3207852,
+        "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+        "onboard_time": 1693829855,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379525,
+        "num": 1379525,
+        "word": "云为衫是双胞胎",
+        "onboard_time": 1693829974,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 5388,
+        "num": 993344,
+        "word": "一起探营杭州亚运村",
+        "onboard_time": 1693799799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837134,
+        "num": 837134,
+        "word": "原来樱花妹觉得高颅顶很丑",
+        "onboard_time": 1693828413,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 829748,
+        "num": 829748,
+        "word": "骄阳伴我9分钟破1",
+        "onboard_time": 1693831719,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3142098,
+        "num": 802545,
+        "word": "亲爱的雪 我已嫁入豪门",
+        "onboard_time": 1693828774,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1114443,
+        "num": 736350,
+        "word": "瑞幸 真茅台",
+        "onboard_time": 1693822897,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 609612,
+        "num": 609612,
+        "word": "易烊千玺包场不虚此行",
+        "onboard_time": 1693831898,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601208,
+        "num": 601208,
+        "word": "云之羽爱奇艺热度值破9000",
+        "onboard_time": 1693831294,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528258,
+        "num": 570769,
+        "word": "女子P付款截图4年逃单33万",
+        "onboard_time": 1693813233,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568747,
+        "num": 568747,
+        "word": "电影院遇到这么懂原子弹的",
+        "onboard_time": 1693830217,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458879,
+        "num": 458879,
+        "word": "我有一个朋友定档",
+        "onboard_time": 1693833038,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521003,
+        "num": 446704,
+        "word": "胡歌 把获奖感言说成满分作文的人",
+        "onboard_time": 1693833340,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433686,
+        "num": 433686,
+        "word": "金靖模仿虞书欣哇哦",
+        "onboard_time": 1693830395,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75155,
+        "num": 408237,
+        "word": "90后资阳小伙剪出百所高校通知书",
+        "onboard_time": 1693832434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384238,
+        "num": 384238,
+        "word": "封神 奖从四面八方来",
+        "onboard_time": 1693832137,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352107,
+        "num": 352107,
+        "word": "麦当劳回应内地是否停售咖啡",
+        "onboard_time": 1693830698,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 349096,
+        "num": 349096,
+        "word": "你以为的瑞幸vs实际的瑞幸",
+        "onboard_time": 1693822232,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321323,
+        "num": 321323,
+        "word": "90后夫妻结婚3年不领证",
+        "onboard_time": 1693815638,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298812,
+        "num": 298812,
+        "word": "这波文化输出真是赢麻了",
+        "onboard_time": 1693828293,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 814895,
+        "num": 298418,
+        "word": "虞书欣发了4个抱拳",
+        "onboard_time": 1693832679,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644411,
+        "num": 297732,
+        "word": "19岁姑娘常熬夜确诊甲状腺癌",
+        "onboard_time": 1693829914,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448908,
+        "num": 297335,
+        "word": "字字不提穷但又很穷的话",
+        "onboard_time": 1693832977,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416338,
+        "num": 296552,
+        "word": "大学生真的对钱没概念",
+        "onboard_time": 1693832077,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325811,
+        "num": 295597,
+        "word": "大连一烤肉店谢绝日本人进入",
+        "onboard_time": 1693830877,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295437,
+        "num": 295437,
+        "word": "云为衫宫远徵有感情线",
+        "onboard_time": 1693830636,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273657,
+        "num": 273657,
+        "word": "一杯酱香拿铁含约2毫升茅台酒",
+        "onboard_time": 1693816836,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 271627,
+        "num": 271627,
+        "word": "伍佰演唱会唱也不能唱走也不能走",
+        "onboard_time": 1693832679,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269495,
+        "num": 269495,
+        "word": "外地人在一线城市被开除只能回老家吗",
+        "onboard_time": 1693833097,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262253,
+        "num": 262253,
+        "word": "张本智和称赞王楚钦完美",
+        "onboard_time": 1693832916,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 248741,
+        "num": 248741,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1693832199,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233525,
+        "num": 233525,
+        "word": "一个人是怎么慢慢废掉的",
+        "onboard_time": 1693823195,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228758,
+        "num": 228758,
+        "word": "老刘想和傅首尔离婚的原因",
+        "onboard_time": 1693806696,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227387,
+        "num": 227387,
+        "word": "西出玉门到底播不播",
+        "onboard_time": 1693828893,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214348,
+        "num": 214348,
+        "word": "蒲熠星 不要轻易地陷入自我否定",
+        "onboard_time": 1693827514,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208763,
+        "num": 208763,
+        "word": "何运晨带5本民法典录offer5",
+        "onboard_time": 1693818276,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186863,
+        "num": 186863,
+        "word": "一旦上班你的气质就会改变",
+        "onboard_time": 1693821635,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181933,
+        "num": 181933,
+        "word": "年轻人最需要的是一笔钱",
+        "onboard_time": 1693833216,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177814,
+        "num": 177814,
+        "word": "原神",
+        "onboard_time": 1693831719,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172706,
+        "num": 172706,
+        "word": "Jessi要来成都",
+        "onboard_time": 1693822474,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160235,
+        "num": 160235,
+        "word": "薛之谦滁州演唱会",
+        "onboard_time": 1693823558,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160017,
+        "num": 160017,
+        "word": "这乒乓球少一个人都玩不起来",
+        "onboard_time": 1693831657,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158632,
+        "num": 158632,
+        "word": "金珉奎知道茅台咖啡了",
+        "onboard_time": 1693815580,
+        "rank": 42,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 150875,
+        "num": 150875,
+        "word": "人太委屈是会变成正方形的",
+        "onboard_time": 1693833757,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147985,
+        "num": 147985,
+        "word": "现在就出发早F晚C",
+        "onboard_time": 1693832977,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135472,
+        "num": 135472,
+        "word": "薛之谦广州演唱会",
+        "onboard_time": 1693819895,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134831,
+        "num": 134831,
+        "word": "张晚意有6部一番男主剧",
+        "onboard_time": 1693817796,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130047,
+        "num": 130047,
+        "word": "浙江舟山现巨大双彩虹",
+        "onboard_time": 1693834298,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128383,
+        "num": 128383,
+        "word": "中国男篮亚运会名单",
+        "onboard_time": 1693821757,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128186,
+        "num": 128186,
+        "word": "山东滕州高铁站跳轨者已身亡",
+        "onboard_time": 1693808314,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强服务贸易发展对接创新合作方式#"
+    }
+  }
+}

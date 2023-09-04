@@ -1,6 +1,6 @@
 {
   "startTime": 1693757979266,
-  "endTime": 1693833648928,
+  "endTime": 1693834431040,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -43,8 +43,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 3033329,
-      "num": 3033329,
+      "raw_hot": 3207852,
+      "num": 3207852,
       "word": "在咖啡中擅自添加茅台售卖是侵权行为",
       "onboard_time": 1693829855,
       "rank": 10,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 814895,
+      "num": 616312,
+      "word": "虞书欣发了4个抱拳",
+      "onboard_time": 1693832679,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809625,
       "num": 809625,
       "word": "成都地震",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 620096,
-      "num": 554760,
+      "num": 568747,
       "word": "电影院遇到这么懂原子弹的",
       "onboard_time": 1693830217,
       "rank": 30,
@@ -529,14 +537,6 @@
       "onboard_time": 1693784494,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 616312,
-      "num": 616312,
-      "word": "虞书欣发了4个抱拳",
-      "onboard_time": 1693832679,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 597482,
@@ -675,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 521003,
+      "num": 446704,
+      "word": "胡歌 把获奖感言说成满分作文的人",
+      "onboard_time": 1693833340,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515235,
       "num": 515235,
       "word": "王俊凯参加文艺志愿者协会代表大会",
@@ -795,8 +803,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458879,
+      "num": 458879,
+      "word": "我有一个朋友定档",
+      "onboard_time": 1693833038,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452089,
-      "num": 429416,
+      "num": 433686,
       "word": "金靖模仿虞书欣哇哦",
       "onboard_time": 1693830395,
       "rank": 23,
@@ -819,20 +835,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448908,
+      "num": 297335,
+      "word": "字字不提穷但又很穷的话",
+      "onboard_time": 1693832977,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 442495,
       "num": 442495,
       "word": "原来真有人后发际线长到脖子上",
       "onboard_time": 1693750483,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 432179,
-      "num": 432179,
-      "word": "我有一个朋友定档",
-      "onboard_time": 1693833038,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 427318,
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384238,
+      "num": 384238,
+      "word": "封神 奖从四面八方来",
+      "onboard_time": 1693832137,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377714,
       "num": 377714,
       "word": "国乒男团3比0横扫日本",
@@ -955,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359056,
-      "num": 359056,
-      "word": "封神 奖从四面八方来",
-      "onboard_time": 1693832137,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354756,
       "num": 302442,
       "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
@@ -977,6 +993,14 @@
       "onboard_time": 1693794811,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352107,
+      "num": 352107,
+      "word": "麦当劳回应内地是否停售咖啡",
+      "onboard_time": 1693830698,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 352028,
@@ -1235,12 +1259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 296138,
-      "num": 296138,
-      "word": "麦当劳回应内地是否停售咖啡",
-      "onboard_time": 1693830698,
-      "rank": 48,
-      "category": "社会新闻,财经"
+      "raw_hot": 295437,
+      "num": 295437,
+      "word": "云为衫宫远徵有感情线",
+      "onboard_time": 1693830636,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 286476,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1693815819,
       "rank": 26,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 285060,
-      "num": 285060,
-      "word": "云为衫宫远徵有感情线",
-      "onboard_time": 1693830636,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 282837,
@@ -1299,12 +1315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271627,
+      "num": 271627,
+      "word": "伍佰演唱会唱也不能唱走也不能走",
+      "onboard_time": 1693832679,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271222,
       "num": 271222,
       "word": "黄明昊在韩国说中文",
       "onboard_time": 1693745324,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269495,
+      "num": 269495,
+      "word": "外地人在一线城市被开除只能回老家吗",
+      "onboard_time": 1693833097,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 268597,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1693832199,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262253,
+      "num": 262253,
+      "word": "张本智和称赞王楚钦完美",
+      "onboard_time": 1693832916,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 259357,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1693788878,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 246502,
-      "num": 246502,
-      "word": "胡歌 把获奖感言说成满分作文的人",
-      "onboard_time": 1693833340,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 244921,
@@ -1571,36 +1603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228756,
-      "num": 228756,
-      "word": "外地人在一线城市被开除只能回老家吗",
-      "onboard_time": 1693833097,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228711,
       "num": 228711,
       "word": "好莱坞女星格丽特库里结婚",
       "onboard_time": 1693805136,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227037,
-      "num": 227037,
-      "word": "伍佰演唱会唱也不能唱走也不能走",
-      "onboard_time": 1693832679,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 226840,
-      "num": 226840,
-      "word": "字字不提穷但又很穷的话",
-      "onboard_time": 1693832977,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 225817,
@@ -2011,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181933,
+      "num": 181933,
+      "word": "年轻人最需要的是一笔钱",
+      "onboard_time": 1693833216,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181733,
       "num": 181733,
       "word": "Fly",
@@ -2243,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150875,
+      "num": 150875,
+      "word": "人太委屈是会变成正方形的",
+      "onboard_time": 1693833757,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149760,
       "num": 450024,
       "word": "女子得知爷爷身体不好请1月假陪伴",
@@ -2323,28 +2347,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133725,
-      "num": 185717,
-      "word": "张本智和称赞王楚钦完美",
-      "onboard_time": 1693832916,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 133662,
       "num": 133662,
       "word": "今天我是张门",
       "onboard_time": 1693826911,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132788,
-      "num": 132788,
-      "word": "年轻人最需要的是一笔钱",
-      "onboard_time": 1693833216,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 132513,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1693811134,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130047,
+      "num": 130047,
+      "word": "浙江舟山现巨大双彩虹",
+      "onboard_time": 1693834298,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127164,
@@ -2547,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75155,
+      "num": 408237,
+      "word": "90后资阳小伙剪出百所高校通知书",
+      "onboard_time": 1693832434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67524,
       "num": 67524,
       "word": "梁朝伟刘嘉玲亲亲",
@@ -2632,14 +2656,6 @@
       "word": "服贸会满满科技范儿",
       "onboard_time": 1693817017,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49240,
-      "num": 368891,
-      "word": "90后资阳小伙剪出百所高校通知书",
-      "onboard_time": 1693832434,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
