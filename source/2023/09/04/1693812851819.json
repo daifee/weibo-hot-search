@@ -1,0 +1,410 @@
+{
+  "runTime": 1693812851819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2723682,
+        "num": 2723682,
+        "word": "杨迪信息被泄露",
+        "onboard_time": 1693808678,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2032373,
+        "num": 2032373,
+        "word": "老刘想和傅首尔离婚的原因",
+        "onboard_time": 1693806696,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123214,
+        "num": 1653360,
+        "word": "博物馆里那些一眼惊艳的文案",
+        "onboard_time": 1693800036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325709,
+        "num": 1325709,
+        "word": "针孔摄像头",
+        "onboard_time": 1693811134,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1267235,
+        "num": 1267235,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055169,
+        "num": 1055169,
+        "word": "封神真的和芒果合作质子训练营综艺了",
+        "onboard_time": 1693811073,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 983688,
+        "num": 983688,
+        "word": "山东滕州高铁站跳轨者已身亡",
+        "onboard_time": 1693808314,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712287,
+        "num": 712287,
+        "word": "瑞幸客服回应酱香拿铁不加咖啡液",
+        "onboard_time": 1693806696,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 466506,
+        "num": 466506,
+        "word": "中国女性肥胖比例不足10%",
+        "onboard_time": 1693800277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387930,
+        "num": 387930,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 631610,
+        "num": 386395,
+        "word": "孙阳直播哽咽",
+        "onboard_time": 1693805380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555961,
+        "num": 385338,
+        "word": "怎么连宫女都给自己搞人物小传",
+        "onboard_time": 1693811014,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427318,
+        "num": 384637,
+        "word": "秀才爆红 老年人精神产品供应",
+        "onboard_time": 1693812033,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 382018,
+        "num": 382018,
+        "word": "一亿个孩子一间房",
+        "onboard_time": 1693800400,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13952,
+        "num": 347791,
+        "word": "截瘫大叔办学校31年培育千余名幼儿",
+        "onboard_time": 1693812153,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340468,
+        "num": 340468,
+        "word": "傅首尔提到老刘送的生日卡片哭了",
+        "onboard_time": 1693811734,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337764,
+        "num": 337764,
+        "word": "拒绝退伍军人买优惠票客车停运7天",
+        "onboard_time": 1693802385,
+        "rank": 16,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 294889,
+        "num": 294889,
+        "word": "范丞丞关晓彤 小巷人家",
+        "onboard_time": 1693802024,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290851,
+        "num": 290851,
+        "word": "天津大爷已经没空跳水了",
+        "onboard_time": 1693796676,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239236,
+        "num": 239236,
+        "word": "胡彦斌唱再见爱人3主题曲",
+        "onboard_time": 1693811194,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565822,
+        "num": 235164,
+        "word": "iPhone15新款手机壳曝光",
+        "onboard_time": 1693807713,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 533629,
+        "num": 228294,
+        "word": "突然明白了省钱的意义",
+        "onboard_time": 1693808853,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351841,
+        "num": 226712,
+        "word": "满杯茅台去咖啡液",
+        "onboard_time": 1693802024,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 330935,
+        "num": 216595,
+        "word": "男孩饮料上瘾牙全烂14岁戴假牙",
+        "onboard_time": 1693808915,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244652,
+        "num": 215408,
+        "word": "让自己的面相变好的方法",
+        "onboard_time": 1693801481,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210066,
+        "num": 210066,
+        "word": "宫子羽腹黑起来了",
+        "onboard_time": 1693810779,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207541,
+        "num": 207541,
+        "word": "于适去幼儿园实习过",
+        "onboard_time": 1693807594,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205141,
+        "num": 205141,
+        "word": "虞书欣吊威亚打戏",
+        "onboard_time": 1693812395,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200527,
+        "num": 200527,
+        "word": "被孙怡介绍Melody笑到",
+        "onboard_time": 1693810715,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199898,
+        "num": 199898,
+        "word": "汪苏泷实体专辑21世纪罗曼史",
+        "onboard_time": 1693811793,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273857,
+        "num": 198755,
+        "word": "以为是特效结果全是真的",
+        "onboard_time": 1693811014,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196472,
+        "num": 196472,
+        "word": "信息茧房",
+        "onboard_time": 1693806578,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196144,
+        "num": 196144,
+        "word": "张雨绮女扮男装古装造型",
+        "onboard_time": 1693811853,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194321,
+        "num": 194321,
+        "word": "倪妮李现 星河滚烫",
+        "onboard_time": 1693812395,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191306,
+        "num": 191306,
+        "word": "关晓彤山根碎钻妆",
+        "onboard_time": 1693801722,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 188557,
+        "num": 188557,
+        "word": "研究称老年女性体重稳定或更长寿",
+        "onboard_time": 1693811493,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186066,
+        "num": 186066,
+        "word": "虞书欣鲨鱼夹",
+        "onboard_time": 1693799194,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178042,
+        "num": 178042,
+        "word": "酱香拿铁",
+        "onboard_time": 1693796736,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169011,
+        "num": 169011,
+        "word": "梦泪兮兮婚纱照",
+        "onboard_time": 1693806874,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17886,
+        "num": 166817,
+        "word": "超6亿中国人都做过公益",
+        "onboard_time": 1693810835,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166245,
+        "num": 166245,
+        "word": "老人欲转账百万女警扮成物业劝阻",
+        "onboard_time": 1693810894,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153377,
+        "num": 153377,
+        "word": "杨振宁 奥本海默",
+        "onboard_time": 1693795054,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148474,
+        "num": 148474,
+        "word": "云之羽第五集",
+        "onboard_time": 1693800880,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143138,
+        "num": 143138,
+        "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
+        "onboard_time": 1693812576,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141925,
+        "num": 141925,
+        "word": "患者急需用血超100名熊猫侠主动报名",
+        "onboard_time": 1693807178,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133738,
+        "num": 133738,
+        "word": "大熊猫花花的妈妈死亡",
+        "onboard_time": 1693782326,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129741,
+        "num": 129741,
+        "word": "大笨狗 坚强的人先享受折磨",
+        "onboard_time": 1693809155,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 125156,
+        "word": "云之羽",
+        "onboard_time": 1693788158,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114991,
+        "num": 114991,
+        "word": "孙颖莎3比0曾尖",
+        "onboard_time": 1693811134,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105789,
+        "num": 105789,
+        "word": "再见爱人",
+        "onboard_time": 1693807053,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}
