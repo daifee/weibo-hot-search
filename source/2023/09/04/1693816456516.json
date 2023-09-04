@@ -1,0 +1,410 @@
+{
+  "runTime": 1693816456516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1558515,
+        "num": 1558515,
+        "word": "杨迪信息被泄露",
+        "onboard_time": 1693808678,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 986949,
+        "num": 986949,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23246,
+        "num": 985540,
+        "word": "一起探营杭州亚运村",
+        "onboard_time": 1693799799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984938,
+        "num": 984938,
+        "word": "老刘想和傅首尔离婚的原因",
+        "onboard_time": 1693806696,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727314,
+        "num": 727314,
+        "word": "满杯茅台去咖啡液",
+        "onboard_time": 1693802024,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 853562,
+        "num": 689692,
+        "word": "90后夫妻结婚3年不领证",
+        "onboard_time": 1693815638,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622026,
+        "num": 622026,
+        "word": "山东滕州高铁站跳轨者已身亡",
+        "onboard_time": 1693808314,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549876,
+        "num": 549876,
+        "word": "封神真的和芒果合作质子训练营综艺了",
+        "onboard_time": 1693811073,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540681,
+        "num": 540681,
+        "word": "瑞幸客服回应酱香拿铁不加咖啡液",
+        "onboard_time": 1693806696,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 437076,
+        "num": 437076,
+        "word": "iPhone15新款手机壳曝光",
+        "onboard_time": 1693807713,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1721957,
+        "num": 421619,
+        "word": "针孔摄像头",
+        "onboard_time": 1693811134,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 375636,
+        "num": 375636,
+        "word": "Angelababy收到过周杰伦奶茶探班",
+        "onboard_time": 1693813476,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359403,
+        "num": 359403,
+        "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
+        "onboard_time": 1693812576,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357884,
+        "num": 357884,
+        "word": "怎么连宫女都给自己搞人物小传",
+        "onboard_time": 1693811014,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84351,
+        "num": 350865,
+        "word": "济南交警机场送云南断指幼儿就医",
+        "onboard_time": 1693814499,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350120,
+        "num": 350120,
+        "word": "日本福岛县近海地震",
+        "onboard_time": 1693815279,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334904,
+        "num": 334904,
+        "word": "中国女性肥胖比例不足10%",
+        "onboard_time": 1693800277,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304243,
+        "num": 304243,
+        "word": "倪妮白宇够野",
+        "onboard_time": 1693814259,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299814,
+        "num": 299814,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277210,
+        "num": 277210,
+        "word": "秀才爆红 老年人精神产品供应",
+        "onboard_time": 1693812033,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 626761,
+        "num": 275742,
+        "word": "女子P付款截图4年逃单33万",
+        "onboard_time": 1693813233,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369475,
+        "num": 274124,
+        "word": "金珉奎知道茅台咖啡了",
+        "onboard_time": 1693815580,
+        "rank": 21,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 357416,
+        "num": 272927,
+        "word": "突然明白了省钱的意义",
+        "onboard_time": 1693808853,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271506,
+        "num": 271506,
+        "word": "倪妮李现 星河滚烫",
+        "onboard_time": 1693812395,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269548,
+        "num": 269548,
+        "word": "一亿个孩子一间房",
+        "onboard_time": 1693800400,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242291,
+        "num": 242291,
+        "word": "厦门市教育局发布停课紧急通知",
+        "onboard_time": 1693814858,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 236814,
+        "num": 236814,
+        "word": "杨幂狼尾猫眼妆",
+        "onboard_time": 1693815819,
+        "rank": 26,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 231393,
+        "num": 231393,
+        "word": "雷暴哮喘",
+        "onboard_time": 1693815398,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228053,
+        "num": 228053,
+        "word": "以为是特效结果全是真的",
+        "onboard_time": 1693811014,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224203,
+        "num": 224203,
+        "word": "女子被男孩撞倒家长听说骨折后急忙离开",
+        "onboard_time": 1693815220,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288428,
+        "num": 224200,
+        "word": "小狗生病以为自己快不行了",
+        "onboard_time": 1693815036,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259209,
+        "num": 224128,
+        "word": "朝歌幼儿园园长哄孩子画面",
+        "onboard_time": 1693815458,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223624,
+        "num": 223624,
+        "word": "让自己的面相变好的方法",
+        "onboard_time": 1693801481,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208014,
+        "num": 208014,
+        "word": "孙阳直播哽咽",
+        "onboard_time": 1693805380,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195817,
+        "num": 195817,
+        "word": "被孙怡介绍Melody笑到",
+        "onboard_time": 1693810715,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177237,
+        "num": 177237,
+        "word": "拒绝退伍军人买优惠票客车停运7天",
+        "onboard_time": 1693802385,
+        "rank": 35,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 185932,
+        "num": 177160,
+        "word": "傅首尔提到老刘送的生日卡片哭了",
+        "onboard_time": 1693811734,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175591,
+        "num": 175591,
+        "word": "天津大爷已经没空跳水了",
+        "onboard_time": 1693796676,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166398,
+        "num": 166398,
+        "word": "酱香拿铁",
+        "onboard_time": 1693796736,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160589,
+        "num": 160589,
+        "word": "男孩饮料上瘾牙全烂14岁戴假牙",
+        "onboard_time": 1693808915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141630,
+        "num": 141630,
+        "word": "虞书欣鲨鱼夹",
+        "onboard_time": 1693799194,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140786,
+        "num": 140786,
+        "word": "代号鸢蔡琰张飞",
+        "onboard_time": 1693816240,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137254,
+        "num": 137254,
+        "word": "原来狮子这么好客的吗",
+        "onboard_time": 1693813178,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136769,
+        "num": 136769,
+        "word": "王楚钦加油",
+        "onboard_time": 1693813355,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134841,
+        "num": 134841,
+        "word": "研究称老年女性体重稳定或更长寿",
+        "onboard_time": 1693811493,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128896,
+        "num": 128896,
+        "word": "热烈票房破9亿",
+        "onboard_time": 1693813536,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115524,
+        "num": 115524,
+        "word": "范丞丞关晓彤 小巷人家",
+        "onboard_time": 1693802024,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114396,
+        "num": 114396,
+        "word": "云之羽第五集",
+        "onboard_time": 1693800880,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109364,
+        "num": 109364,
+        "word": "没想到说脏话还有这层好处",
+        "onboard_time": 1693816358,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104255,
+        "num": 104255,
+        "word": "于适去幼儿园实习过",
+        "onboard_time": 1693807594,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}
