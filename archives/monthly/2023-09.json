@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693823701155,
+  "endTime": 1693826064504,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -49,6 +49,14 @@
       "onboard_time": 1693782326,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4104461,
+      "num": 4104461,
+      "word": "瑞幸 真茅台",
+      "onboard_time": 1693822897,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 3986050,
@@ -1227,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 989893,
+      "num": 989893,
+      "word": "你以为的瑞幸vs实际的瑞幸",
+      "onboard_time": 1693822232,
+      "rank": 33,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 989861,
       "num": 440759,
       "word": "林一NewJeans跳了supershy",
@@ -1521,14 +1537,6 @@
       "onboard_time": 1693740164,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 862264,
-      "num": 668584,
-      "word": "瑞幸 真茅台",
-      "onboard_time": 1693822897,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 858966,
@@ -1883,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735727,
+      "num": 735727,
+      "word": "胡先煦说暂时不想演吻戏了",
+      "onboard_time": 1693823374,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 735080,
       "num": 735080,
       "word": "酱香拿铁",
@@ -1977,14 +1993,6 @@
       "onboard_time": 1693749767,
       "rank": 28,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 714875,
-      "num": 714875,
-      "word": "你以为的瑞幸vs实际的瑞幸",
-      "onboard_time": 1693822232,
-      "rank": 33,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 713357,
@@ -2329,6 +2337,14 @@
       "onboard_time": 1693568977,
       "rank": 8,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 633340,
+      "num": 337416,
+      "word": "一个人是怎么慢慢废掉的",
+      "onboard_time": 1693823195,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 628968,
@@ -2684,7 +2700,7 @@
     },
     {
       "raw_hot": 583522,
-      "num": 279280,
+      "num": 455486,
       "word": "薛之谦滁州演唱会",
       "onboard_time": 1693823558,
       "rank": 30,
@@ -2888,14 +2904,6 @@
       "word": "盛阳喊前夫哥",
       "onboard_time": 1693818936,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 552592,
-      "num": 552592,
-      "word": "胡先煦说暂时不想演吻戏了",
-      "onboard_time": 1693823374,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -5036,7 +5044,7 @@
     },
     {
       "raw_hot": 319803,
-      "num": 1419044,
+      "num": 1584720,
       "word": "3岁男孩落水69岁大爷毫不犹豫跳水救起",
       "onboard_time": 1693821034,
       "rank": 4,
@@ -6675,14 +6683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227100,
-      "num": 227100,
-      "word": "一个人是怎么慢慢废掉的",
-      "onboard_time": 1693823195,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 226413,
       "num": 226413,
       "word": "李湘 我已退休",
@@ -6816,6 +6816,14 @@
       "word": "黄曦彦怎么游泳还穿衣服的",
       "onboard_time": 1693698927,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221567,
+      "num": 221567,
+      "word": "罗云熙唱了千秋迭梦",
+      "onboard_time": 1693823735,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -8267,6 +8275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184936,
+      "num": 674556,
+      "word": "张雪峰用上Mate60",
+      "onboard_time": 1693821816,
+      "rank": 26,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 184246,
       "num": 184246,
       "word": "小时候有就在村里横着走",
@@ -8859,14 +8875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161541,
-      "num": 674556,
-      "word": "张雪峰用上Mate60",
-      "onboard_time": 1693821816,
-      "rank": 26,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 161443,
       "num": 161443,
       "word": "女魔头小助理奥本海默女主是同一人",
@@ -9356,7 +9364,7 @@
     },
     {
       "raw_hot": 136378,
-      "num": 855287,
+      "num": 999699,
       "word": "路遇车辆起火休假辅警狂追扑灭",
       "onboard_time": 1693822292,
       "rank": 6,
@@ -10504,6 +10512,14 @@
       "word": "钓鱼佬的乐趣有哪些",
       "onboard_time": 1693506077,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22300,
+      "num": 452793,
+      "word": "民警帮阿婆找回存有已故母亲照片的手机",
+      "onboard_time": 1693825234,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
