@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693794152382,
+  "endTime": 1693794823794,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 905612,
+      "num": 905612,
+      "word": "这个暑假最出圈的台词",
+      "onboard_time": 1693791096,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 898734,
       "num": 898734,
       "word": "台风刮来一张演唱会门票",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1693582362,
       "rank": 43,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 883152,
-      "num": 883152,
-      "word": "这个暑假最出圈的台词",
-      "onboard_time": 1693791096,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 876187,
@@ -2491,6 +2491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 561779,
+      "num": 402644,
+      "word": "野球帝 退出",
+      "onboard_time": 1693792892,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 560420,
       "num": 560420,
       "word": "9岁摄影师拍胡歌吴磊",
@@ -2520,6 +2528,14 @@
       "word": "李安舒淇刘嘉玲胡歌合影",
       "onboard_time": 1693742981,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 556024,
+      "num": 556024,
+      "word": "余佳恩连续工作22小时进急诊",
+      "onboard_time": 1693791335,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -3155,14 +3171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468776,
-      "num": 402644,
-      "word": "野球帝 退出",
-      "onboard_time": 1693792892,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 468412,
       "num": 468412,
       "word": "中国驻日使馆披露被骚扰细节",
@@ -3459,6 +3467,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 424194,
+      "num": 424194,
+      "word": "Melody参加再见爱人3的原因",
+      "onboard_time": 1693790015,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423759,
       "num": 318570,
       "word": "你能吃苦就会有吃不完的苦",
@@ -3609,14 +3625,6 @@
       "onboard_time": 1693632753,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 408516,
-      "num": 408516,
-      "word": "Melody参加再见爱人3的原因",
-      "onboard_time": 1693790015,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 406631,
@@ -4107,14 +4115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353052,
-      "num": 353052,
-      "word": "余佳恩连续工作22小时进急诊",
-      "onboard_time": 1693791335,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352177,
       "num": 331852,
       "word": "伯远来披荆斩棘当舞蹈老师了",
@@ -4273,6 +4273,14 @@
       "onboard_time": 1693582898,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 338574,
+      "num": 338574,
+      "word": "这部剧的受众到底是谁",
+      "onboard_time": 1693792712,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 338104,
@@ -4779,6 +4787,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 291640,
+      "num": 291640,
+      "word": "济南拍到不明飞行物坠落",
+      "onboard_time": 1693790734,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291110,
       "num": 291110,
       "word": "费翔时尚芭莎",
@@ -4915,28 +4931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 281494,
-      "num": 281494,
-      "word": "济南拍到不明飞行物坠落",
-      "onboard_time": 1693790734,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281367,
       "num": 281367,
       "word": "中餐厅",
       "onboard_time": 1693576963,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281258,
-      "num": 281258,
-      "word": "这部剧的受众到底是谁",
-      "onboard_time": 1693792712,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 279347,
@@ -4953,6 +4953,14 @@
       "onboard_time": 1693592119,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278536,
+      "num": 278536,
+      "word": "韩东君腿太长沙发不够躺",
+      "onboard_time": 1693792353,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 278519,
@@ -5307,6 +5315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258588,
+      "num": 258588,
+      "word": "女子帮离世村民养大3个孩子并送上大学",
+      "onboard_time": 1693793255,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258192,
       "num": 258192,
       "word": "不是说弹钢琴会变优雅吗",
@@ -5441,6 +5457,14 @@
       "onboard_time": 1693561839,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250771,
+      "num": 250771,
+      "word": "同事让我们孤立他",
+      "onboard_time": 1693793612,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 250260,
@@ -5579,6 +5603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244720,
+      "num": 244720,
+      "word": "美娟这辈子没这么穷过",
+      "onboard_time": 1693791755,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243722,
       "num": 243722,
       "word": "当幼师妈妈有个边界感超强的儿子",
@@ -5619,14 +5651,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 242223,
-      "num": 242223,
-      "word": "美娟这辈子没这么穷过",
-      "onboard_time": 1693791755,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242179,
       "num": 242179,
       "word": "王珞丹的马甲线",
@@ -5657,14 +5681,6 @@
       "onboard_time": 1693633892,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240583,
-      "num": 240583,
-      "word": "韩东君腿太长沙发不够躺",
-      "onboard_time": 1693792353,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 240551,
@@ -5833,14 +5849,6 @@
       "onboard_time": 1693532556,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229978,
-      "num": 229978,
-      "word": "女子帮离世村民养大3个孩子并送上大学",
-      "onboard_time": 1693793255,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229804,
@@ -6947,14 +6955,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 192951,
-      "num": 192951,
-      "word": "同事让我们孤立他",
-      "onboard_time": 1693793612,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192581,
       "num": 192581,
       "word": "上海逛吃vlog",
@@ -7320,6 +7320,14 @@
       "word": "装腔启示录一口气炫到大结局",
       "onboard_time": 1693657778,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184026,
+      "num": 184026,
+      "word": "1993年的电视剧有多经典",
+      "onboard_time": 1693794333,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -8017,6 +8025,14 @@
       "onboard_time": 1693652680,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151066,
+      "num": 151066,
+      "word": "俞灏明感叹陈楚生没有选错歌",
+      "onboard_time": 1693794811,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 150901,

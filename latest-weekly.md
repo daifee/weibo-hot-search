@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/04 00:19:39 ~ 2023/09/04 10:22:32
+本榜单时间：2023/09/04 00:19:39 ~ 2023/09/04 10:33:43
 </p>
 </blockquote>
 <p>
@@ -106,7 +106,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%9A%91%E5%81%87%E6%9C%80%E5%87%BA%E5%9C%88%E7%9A%84%E5%8F%B0%E8%AF%8D%23" target="weibo">
-这个暑假最出圈的台词（热度：883152）
+这个暑假最出圈的台词（热度：905612）
 </a>
 </li>
 
@@ -171,6 +171,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%90%83%E5%B8%9D%20%E9%80%80%E5%87%BA%23" target="weibo">
+野球帝 退出（热度：561779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E4%BD%B3%E6%81%A9%E8%BF%9E%E7%BB%AD%E5%B7%A5%E4%BD%9C22%E5%B0%8F%E6%97%B6%E8%BF%9B%E6%80%A5%E8%AF%8A%23" target="weibo">
+余佳恩连续工作22小时进急诊（热度：556024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%881%E6%97%A5%209%E6%9C%883%E6%97%A5%23" target="weibo">
 9月1日 9月3日（热度：551125）
 </a>
@@ -191,12 +203,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88%23" target="weibo">
 女子被狗撕碎左脸缝了500多针（热度：478534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%90%83%E5%B8%9D%20%E9%80%80%E5%87%BA%23" target="weibo">
-野球帝 退出（热度：468776）
 </a>
 </li>
 
@@ -225,6 +231,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Melody%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+Melody参加再见爱人3的原因（热度：424194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%20%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%86%A4%E7%A7%8D%E8%80%81%E7%88%B8%23" target="weibo">
 马立奥 我和我的冤种老爸（热度：417289）
 </a>
@@ -233,12 +245,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%89%88%E9%BB%84%E9%9B%A8%E8%90%B1%23" target="weibo">
 韩版黄雨萱（热度：409313）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Melody%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-Melody参加再见爱人3的原因（热度：408516）
 </a>
 </li>
 
@@ -261,12 +267,6 @@ Melody参加再见爱人3的原因（热度：408516）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E4%BD%B3%E6%81%A9%E8%BF%9E%E7%BB%AD%E5%B7%A5%E4%BD%9C22%E5%B0%8F%E6%97%B6%E8%BF%9B%E6%80%A5%E8%AF%8A%23" target="weibo">
-余佳恩连续工作22小时进急诊（热度：353052）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23ive%23" target="weibo">
 ive（热度：352028）
 </a>
@@ -281,6 +281,12 @@ ive（热度：352028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E6%9C%BA%23" target="weibo">
 央视评华为争气机（热度：340980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E5%89%A7%E7%9A%84%E5%8F%97%E4%BC%97%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23" target="weibo">
+这部剧的受众到底是谁（热度：338574）
 </a>
 </li>
 
@@ -327,20 +333,20 @@ Twins说毛不易粤语像她们普通话一样标准（热度：332547）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E6%8B%8D%E5%88%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%9D%A0%E8%90%BD%23" target="weibo">
+济南拍到不明飞行物坠落（热度：291640）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%20%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E6%97%A5%E5%AD%90%23" target="weibo">
 刘嘉玲 今天是你的日子（热度：286476）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E6%8B%8D%E5%88%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%9D%A0%E8%90%BD%23" target="weibo">
-济南拍到不明飞行物坠落（热度：281494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E5%89%A7%E7%9A%84%E5%8F%97%E4%BC%97%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23" target="weibo">
-这部剧的受众到底是谁（热度：281258）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%85%BF%E5%A4%AA%E9%95%BF%E6%B2%99%E5%8F%91%E4%B8%8D%E5%A4%9F%E8%BA%BA%23" target="weibo">
+韩东君腿太长沙发不够躺（热度：278536）
 </a>
 </li>
 
@@ -369,6 +375,12 @@ Twins说毛不易粤语像她们普通话一样标准（热度：332547）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E6%9D%91%E6%B0%91%E5%85%BB%E5%A4%A73%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%B9%B6%E9%80%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%23" target="weibo">
+女子帮离世村民养大3个孩子并送上大学（热度：258588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BE%88%E5%B0%91%E5%8E%BBKTV%E4%BA%86%23" target="weibo">
 为什么现在年轻人很少去KTV了（热度：253529）
 </a>
@@ -377,6 +389,12 @@ Twins说毛不易粤语像她们普通话一样标准（热度：332547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%BB%9D%E5%9C%B0%E5%8F%8D%E6%9D%80%E7%8E%8B%E9%9C%8F%E9%9C%8F%23" target="weibo">
 金晨绝地反杀王霏霏（热度：253423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%AD%A4%E7%AB%8B%E4%BB%96%23" target="weibo">
+同事让我们孤立他（热度：250771）
 </a>
 </li>
 
@@ -394,13 +412,7 @@ Twins说毛不易粤语像她们普通话一样标准（热度：332547）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A8%9F%E8%BF%99%E8%BE%88%E5%AD%90%E6%B2%A1%E8%BF%99%E4%B9%88%E7%A9%B7%E8%BF%87%23" target="weibo">
-美娟这辈子没这么穷过（热度：242223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%85%BF%E5%A4%AA%E9%95%BF%E6%B2%99%E5%8F%91%E4%B8%8D%E5%A4%9F%E8%BA%BA%23" target="weibo">
-韩东君腿太长沙发不够躺（热度：240583）
+美娟这辈子没这么穷过（热度：244720）
 </a>
 </li>
 
@@ -435,14 +447,14 @@ RIIZE出道专预售量突破103万张（热度：234187）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E6%9D%91%E6%B0%91%E5%85%BB%E5%A4%A73%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%B9%B6%E9%80%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%23" target="weibo">
-女子帮离世村民养大3个孩子并送上大学（热度：229978）
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9C%BC%E7%A5%9E%E9%87%8C%E9%9D%A2%E9%83%BD%E6%98%AF%E6%88%8F%23" target="weibo">
+虞书欣眼神里面都是戏（热度：229804）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9C%BC%E7%A5%9E%E9%87%8C%E9%9D%A2%E9%83%BD%E6%98%AF%E6%88%8F%23" target="weibo">
-虞书欣眼神里面都是戏（热度：229804）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23" target="weibo">
+认房不认贷（热度：229230）
 </a>
 </li>
 
@@ -525,12 +537,6 @@ i人面试至暗时刻（热度：195347）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%AD%A4%E7%AB%8B%E4%BB%96%23" target="weibo">
-同事让我们孤立他（热度：192951）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%BF%86%E8%80%81%E9%98%BF%E5%A7%A8%E9%BE%9A%E5%85%A8%E7%8F%8D%23" target="weibo">
 追忆老阿姨龚全珍（热度：189166）
 </a>
@@ -545,6 +551,12 @@ i人面试至暗时刻（热度：195347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%8E%BB%E6%BD%98%E8%BE%BE%E6%98%9F%E9%99%AA%E5%92%8C%E7%9B%9B%E4%BA%86%23" target="weibo">
 成功去潘达星陪和盛了（热度：186369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231993%E5%B9%B4%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%E6%9C%89%E5%A4%9A%E7%BB%8F%E5%85%B8%23" target="weibo">
+1993年的电视剧有多经典（热度：184026）
 </a>
 </li>
 
@@ -653,6 +665,12 @@ Fly（热度：181733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B33%E6%AF%941%E6%9B%BC%E8%81%94%23" target="weibo">
 阿森纳3比1曼联（热度：154584）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E6%84%9F%E5%8F%B9%E9%99%88%E6%A5%9A%E7%94%9F%E6%B2%A1%E6%9C%89%E9%80%89%E9%94%99%E6%AD%8C%23" target="weibo">
+俞灏明感叹陈楚生没有选错歌（热度：151066）
 </a>
 </li>
 
