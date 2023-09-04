@@ -1,0 +1,410 @@
+{
+  "runTime": 1693820060577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1759970,
+        "num": 1759970,
+        "word": "90后夫妻结婚3年不领证",
+        "onboard_time": 1693815638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1448246,
+        "num": 1448246,
+        "word": "女子P付款截图4年逃单33万",
+        "onboard_time": 1693813233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50581,
+        "num": 1299405,
+        "word": "服贸会满满科技范儿",
+        "onboard_time": 1693817017,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176440,
+        "num": 1176440,
+        "word": "一杯酱香拿铁含约2毫升茅台酒",
+        "onboard_time": 1693816836,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 809450,
+        "num": 809450,
+        "word": "何运晨带5本民法典录offer5",
+        "onboard_time": 1693818276,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 742735,
+        "num": 742735,
+        "word": "瑞幸回应喝茅台联名咖啡能否开车",
+        "onboard_time": 1693795114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735032,
+        "num": 735032,
+        "word": "老刘想和傅首尔离婚的原因",
+        "onboard_time": 1693806696,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697443,
+        "num": 697443,
+        "word": "杨迪信息被泄露",
+        "onboard_time": 1693808678,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660410,
+        "num": 660410,
+        "word": "满杯茅台去咖啡液",
+        "onboard_time": 1693802024,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 553066,
+        "num": 553066,
+        "word": "盛阳喊前夫哥",
+        "onboard_time": 1693818936,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 918996,
+        "num": 551265,
+        "word": "针孔摄像头",
+        "onboard_time": 1693811134,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 546212,
+        "num": 546212,
+        "word": "肖战你怎么这么见外",
+        "onboard_time": 1693818877,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515235,
+        "num": 515235,
+        "word": "王俊凯参加文艺志愿者协会代表大会",
+        "onboard_time": 1693818276,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478518,
+        "num": 478518,
+        "word": "山东滕州高铁站跳轨者已身亡",
+        "onboard_time": 1693808314,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139286,
+        "num": 450024,
+        "word": "女子得知爷爷身体不好请1月假陪伴",
+        "onboard_time": 1693818097,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449297,
+        "num": 449297,
+        "word": "RIIZE出道",
+        "onboard_time": 1693818998,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437927,
+        "num": 437927,
+        "word": "薛之谦广州演唱会",
+        "onboard_time": 1693819895,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422934,
+        "num": 422934,
+        "word": "王楚钦3比0张本智和",
+        "onboard_time": 1693817497,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406726,
+        "num": 406726,
+        "word": "日本福岛县近海地震",
+        "onboard_time": 1693815279,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358137,
+        "num": 358137,
+        "word": "iPhone15新款手机壳曝光",
+        "onboard_time": 1693807713,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 530565,
+        "num": 356608,
+        "word": "张晚意有6部一番男主剧",
+        "onboard_time": 1693817796,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428777,
+        "num": 355084,
+        "word": "金珉奎知道茅台咖啡了",
+        "onboard_time": 1693815580,
+        "rank": 21,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 366645,
+        "num": 353855,
+        "word": "突然明白了省钱的意义",
+        "onboard_time": 1693808853,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348793,
+        "num": 348793,
+        "word": "瑞幸客服回应酱香拿铁不加咖啡液",
+        "onboard_time": 1693806696,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 318376,
+        "num": 318376,
+        "word": "宋亚轩每次上学都有新笑料",
+        "onboard_time": 1693817858,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306560,
+        "num": 306560,
+        "word": "封神真的和芒果合作质子训练营综艺了",
+        "onboard_time": 1693811073,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295213,
+        "num": 295213,
+        "word": "小狗生病以为自己快不行了",
+        "onboard_time": 1693815036,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294908,
+        "num": 294908,
+        "word": "瑞幸点单系统疑似卡崩",
+        "onboard_time": 1693817378,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293175,
+        "num": 293175,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1693817197,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260209,
+        "num": 260209,
+        "word": "杨幂狼尾猫眼妆",
+        "onboard_time": 1693815819,
+        "rank": 29,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 235274,
+        "num": 235274,
+        "word": "骄阳伴我海外评分8.7分",
+        "onboard_time": 1693816896,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223065,
+        "num": 223065,
+        "word": "云为衫变脸",
+        "onboard_time": 1693819177,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220864,
+        "num": 220864,
+        "word": "迷笛开票",
+        "onboard_time": 1693818097,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218984,
+        "num": 218984,
+        "word": "没想到说脏话还有这层好处",
+        "onboard_time": 1693816358,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212382,
+        "num": 212382,
+        "word": "中国女性肥胖比例不足10%",
+        "onboard_time": 1693800277,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194661,
+        "num": 194661,
+        "word": "BOYNEXTDOOR回归新歌",
+        "onboard_time": 1693819778,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193842,
+        "num": 193842,
+        "word": "女子被男孩撞倒家长听说骨折后急忙离开",
+        "onboard_time": 1693815220,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187031,
+        "num": 187031,
+        "word": "怎么连宫女都给自己搞人物小传",
+        "onboard_time": 1693811014,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184424,
+        "num": 184424,
+        "word": "国乒男团3比0横扫日本",
+        "onboard_time": 1693819895,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170962,
+        "num": 170962,
+        "word": "雷暴哮喘",
+        "onboard_time": 1693815398,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175478,
+        "num": 170370,
+        "word": "Angelababy收到过周杰伦奶茶探班",
+        "onboard_time": 1693813476,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169720,
+        "num": 169720,
+        "word": "一亿个孩子一间房",
+        "onboard_time": 1693800400,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167810,
+        "num": 167810,
+        "word": "厦门市教育局发布停课紧急通知",
+        "onboard_time": 1693814858,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162794,
+        "num": 162794,
+        "word": "让自己的面相变好的方法",
+        "onboard_time": 1693801481,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162228,
+        "num": 162228,
+        "word": "倪妮李现 星河滚烫",
+        "onboard_time": 1693812395,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161893,
+        "num": 161893,
+        "word": "朝歌幼儿园园长哄孩子画面",
+        "onboard_time": 1693815458,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161435,
+        "num": 161435,
+        "word": "阴阳师",
+        "onboard_time": 1693818457,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151861,
+        "num": 151861,
+        "word": "原来婴儿是没有后脚跟的",
+        "onboard_time": 1693787738,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149897,
+        "num": 149897,
+        "word": "5岁幼童帮渐冻症母亲拍出卡住药物",
+        "onboard_time": 1693819116,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136731,
+        "num": 136731,
+        "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
+        "onboard_time": 1693812576,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放引领发展合作共赢未来#"
+    }
+  }
+}
