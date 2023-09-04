@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693845374308,
+  "endTime": 1693847677853,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -1163,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 686580,
+      "num": 686580,
+      "word": "您的摄像机已经被狮子捡到",
+      "onboard_time": 1693842456,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 685317,
       "num": 685317,
       "word": "泰国坠崖案女子称离婚要很多材料",
@@ -1449,14 +1457,6 @@
       "onboard_time": 1693755636,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 589535,
-      "num": 395027,
-      "word": "您的摄像机已经被狮子捡到",
-      "onboard_time": 1693842456,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 588876,
@@ -3459,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230023,
+      "num": 104392,
+      "word": "詹青云 你想自信光靠想有什么用",
+      "onboard_time": 1693846104,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229825,
       "num": 229825,
       "word": "不虚此行吴磊让胡歌坚持下去",
@@ -3569,6 +3577,14 @@
       "onboard_time": 1693819177,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222415,
+      "num": 222415,
+      "word": "洪胜汉选的都是自己",
+      "onboard_time": 1693847362,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 222317,
@@ -3800,6 +3816,14 @@
       "word": "倪妮银色羽毛西装",
       "onboard_time": 1693668041,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "姬发真是谐音梗富翁",
+      "onboard_time": 1693846823,
+      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -4387,6 +4411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183193,
+      "num": 129288,
+      "word": "让床变舒服的办法",
+      "onboard_time": 1693844968,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182789,
       "num": 182789,
       "word": "热烈票房破9亿",
@@ -4971,14 +5003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129288,
-      "num": 129288,
-      "word": "让床变舒服的办法",
-      "onboard_time": 1693844968,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128177,
       "num": 128177,
       "word": "盛阳是懂解释自己名字的",
@@ -5273,6 +5297,14 @@
       "onboard_time": 1693832434,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69344,
+      "num": 69344,
+      "word": "享受这个瞬间",
+      "onboard_time": 1693846583,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 66237,
