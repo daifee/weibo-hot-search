@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693883845318,
+  "endTime": 1693884842315,
   "band_list": [
     {
       "raw_hot": 3160252,
@@ -11,12 +11,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2273177,
+      "num": 2273177,
+      "word": "酱香拿铁一日销售542万杯",
+      "onboard_time": 1693881275,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2144281,
       "num": 2144281,
       "word": "茅台巧克力即将上线",
       "onboard_time": 1693875217,
       "rank": 8,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1994408,
+      "num": 1994408,
+      "word": "日本就中国暂停进口水产品向WTO提交文件",
+      "onboard_time": 1693882055,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1965951,
@@ -51,12 +67,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1586530,
-      "num": 1586530,
-      "word": "酱香拿铁一日销售542万杯",
-      "onboard_time": 1693881275,
-      "rank": 1,
-      "category": "社会新闻,财经"
+      "raw_hot": 1546056,
+      "num": 461666,
+      "word": "第一批00后已经开始离婚了",
+      "onboard_time": 1693877013,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1514383,
@@ -67,28 +83,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1388556,
-      "num": 461666,
-      "word": "第一批00后已经开始离婚了",
-      "onboard_time": 1693877013,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1267507,
       "num": 1267507,
       "word": "我来接我未过门的妻子怎么了",
       "onboard_time": 1693878873,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1230898,
-      "num": 1230898,
-      "word": "日本就中国暂停进口水产品向WTO提交文件",
-      "onboard_time": 1693882055,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1217857,
@@ -104,6 +104,14 @@
       "word": "日本核污染水排海量已超4200吨",
       "onboard_time": 1693872040,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1141526,
+      "num": 1141526,
+      "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
+      "onboard_time": 1693881876,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986951,
+      "num": 256552,
+      "word": "刘亦菲林一演情侣",
+      "onboard_time": 1693883976,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 974275,
       "num": 337860,
       "word": "原来睡觉真的很有用",
@@ -136,14 +152,6 @@
       "word": "8岁女孩去世成为大体老师",
       "onboard_time": 1693875516,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 943845,
-      "num": 943845,
-      "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
-      "onboard_time": 1693881876,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568625,
+      "num": 307300,
+      "word": "对月薪过万有误解",
+      "onboard_time": 1693881876,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 549678,
       "num": 549678,
       "word": "光明网评云之羽",
@@ -292,19 +308,11 @@
     },
     {
       "raw_hot": 542568,
-      "num": 302361,
+      "num": 346867,
       "word": "河北一市委书记上衣被P掉logo引猜测",
       "onboard_time": 1693877554,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541581,
-      "num": 307300,
-      "word": "对月薪过万有误解",
-      "onboard_time": 1693881876,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 540228,
@@ -361,6 +369,14 @@
       "onboard_time": 1693880674,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448949,
+      "num": 298808,
+      "word": "突然看到大学生的微信聊天界面",
+      "onboard_time": 1693882958,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 444292,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389432,
+      "num": 389432,
+      "word": "杨紫许凯承欢记吻戏路透",
+      "onboard_time": 1693882055,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380016,
       "num": 301890,
       "word": "入境船舶上发现1万余只蟑螂",
@@ -473,22 +497,6 @@
       "onboard_time": 1693813233,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364384,
-      "num": 364384,
-      "word": "杨紫许凯承欢记吻戏路透",
-      "onboard_time": 1693882055,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 355146,
-      "num": 298808,
-      "word": "突然看到大学生的微信聊天界面",
-      "onboard_time": 1693882958,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 352902,
@@ -635,8 +643,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248912,
+      "num": 248912,
+      "word": "吃菌子产生幻觉的小猫咪",
+      "onboard_time": 1693883678,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248198,
-      "num": 236486,
+      "num": 244437,
       "word": "爸妈吵架的尽头永远是我",
       "onboard_time": 1693876835,
       "rank": 44,
@@ -747,6 +763,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 203274,
+      "num": 205177,
+      "word": "99公益日",
+      "onboard_time": 1693883797,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202098,
       "num": 202098,
       "word": "玫瑰故事首发剧照",
@@ -769,6 +793,14 @@
       "onboard_time": 1693873599,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189445,
+      "num": 195910,
+      "word": "陈幸同3比0伊藤美诚",
+      "onboard_time": 1693884278,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 188443,
@@ -819,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174119,
+      "num": 195846,
+      "word": "阿维塔12",
+      "onboard_time": 1693884577,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 168907,
       "num": 168907,
       "word": "男子在瑞幸店外怒砸多杯酱香拿铁",
@@ -833,6 +873,14 @@
       "onboard_time": 1693823195,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161762,
+      "num": 195627,
+      "word": "彭冠英金丝眼镜",
+      "onboard_time": 1693884577,
+      "rank": 44,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 161263,
@@ -851,6 +899,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 160225,
+      "num": 205829,
+      "word": "长得像史前生物的温柔巨兽",
+      "onboard_time": 1693882836,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159447,
       "num": 159447,
       "word": "马丽说和沈腾最不熟",
@@ -865,14 +921,6 @@
       "onboard_time": 1693831719,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149825,
-      "num": 205829,
-      "word": "长得像史前生物的温柔巨兽",
-      "onboard_time": 1693882836,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 146060,
@@ -939,22 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129750,
-      "num": 205177,
-      "word": "99公益日",
-      "onboard_time": 1693883797,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129280,
-      "num": 205149,
-      "word": "吃菌子产生幻觉的小猫咪",
-      "onboard_time": 1693883678,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123584,
       "num": 123584,
       "word": "看到衫羽欲来这段想到长生花",
@@ -993,6 +1025,14 @@
       "onboard_time": 1693830698,
       "rank": 48,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 108802,
+      "num": 195343,
+      "word": "东北7元三个肉菜的盒饭",
+      "onboard_time": 1693884814,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 107289,
@@ -1116,7 +1156,7 @@
     },
     {
       "raw_hot": 11990,
-      "num": 1342456,
+      "num": 2070877,
       "word": "一起探营杭州亚运村",
       "onboard_time": 1693799799,
       "rank": 2,
