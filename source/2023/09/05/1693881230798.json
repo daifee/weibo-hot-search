@@ -1,0 +1,410 @@
+{
+  "runTime": 1693881230798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760222,
+        "num": 1760222,
+        "word": "茅台巧克力即将上线",
+        "onboard_time": 1693875217,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1267507,
+        "num": 1267507,
+        "word": "我来接我未过门的妻子怎么了",
+        "onboard_time": 1693878873,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8240,
+        "num": 822684,
+        "word": "一起探营杭州亚运村",
+        "onboard_time": 1693799799,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 772012,
+        "num": 772012,
+        "word": "烤肉店回应谢绝日本人进入",
+        "onboard_time": 1693872275,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732081,
+        "num": 732081,
+        "word": "理解诺兰成为诺兰",
+        "onboard_time": 1693877495,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611827,
+        "num": 611827,
+        "word": "景甜张凌赫四海重明杀青",
+        "onboard_time": 1693878756,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585893,
+        "num": 585893,
+        "word": "不接受办公室恋情的原因",
+        "onboard_time": 1693872936,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549678,
+        "num": 549678,
+        "word": "光明网评云之羽",
+        "onboard_time": 1693878756,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491587,
+        "num": 491587,
+        "word": "日本核污染水排海量已超4200吨",
+        "onboard_time": 1693872040,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431588,
+        "num": 431588,
+        "word": "巨蟹座永远不会奔谁而去",
+        "onboard_time": 1693873898,
+        "rank": 9,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 631405,
+        "num": 426333,
+        "word": "张彬彬的画技在内娱是什么水平",
+        "onboard_time": 1693880012,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598290,
+        "num": 423314,
+        "word": "封神妲己 我跟他们不一样",
+        "onboard_time": 1693879474,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514597,
+        "num": 416906,
+        "word": "瑞幸回应男子怒砸多杯酱香拿铁",
+        "onboard_time": 1693838678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502766,
+        "num": 409760,
+        "word": "重庆警方通报男子在医院持刀行凶",
+        "onboard_time": 1693868482,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406696,
+        "num": 406696,
+        "word": "王心凌国风旗袍太美了",
+        "onboard_time": 1693870890,
+        "rank": 14,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 398949,
+        "num": 398949,
+        "word": "玫瑰故事",
+        "onboard_time": 1693878514,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348087,
+        "num": 348087,
+        "word": "您的摄像机已经被狮子捡到",
+        "onboard_time": 1693842456,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316622,
+        "num": 316622,
+        "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+        "onboard_time": 1693829855,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294892,
+        "num": 294892,
+        "word": "商黎光被查",
+        "onboard_time": 1693876895,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247973,
+        "num": 247973,
+        "word": "王一博给三贵情史包了4场",
+        "onboard_time": 1693875338,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1019061,
+        "num": 246968,
+        "word": "第一批00后已经开始离婚了",
+        "onboard_time": 1693877013,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829349,
+        "num": 244406,
+        "word": "林彦俊一关联公司拟注销",
+        "onboard_time": 1693881096,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 660898,
+        "num": 241326,
+        "word": "喝一杯酱香拿铁或赚9元",
+        "onboard_time": 1693877915,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 501636,
+        "num": 238314,
+        "word": "突然就不想存钱了",
+        "onboard_time": 1693877074,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480172,
+        "num": 236960,
+        "word": "宫二先生和上官小姐",
+        "onboard_time": 1693878093,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468001,
+        "num": 234712,
+        "word": "河北一市委书记上衣被P掉logo引猜测",
+        "onboard_time": 1693877554,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452115,
+        "num": 231073,
+        "word": "原来睡觉真的很有用",
+        "onboard_time": 1693870234,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434747,
+        "num": 228703,
+        "word": "成毅傅云深",
+        "onboard_time": 1693879114,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404308,
+        "num": 225504,
+        "word": "31岁男子常喝可乐奶茶长得像40多岁",
+        "onboard_time": 1693880369,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379853,
+        "num": 222579,
+        "word": "准备离职时突然找我谈辞退",
+        "onboard_time": 1693870234,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479882,
+        "num": 222476,
+        "word": "封神 睡在我隔壁的小马",
+        "onboard_time": 1693880674,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296180,
+        "num": 218020,
+        "word": "关闭朋友圈两年半后的变化",
+        "onboard_time": 1693872517,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248198,
+        "num": 216009,
+        "word": "爸妈吵架的尽头永远是我",
+        "onboard_time": 1693876835,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214845,
+        "num": 214845,
+        "word": "180小伙想当演员被爸爸骗去学评弹",
+        "onboard_time": 1693875698,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205634,
+        "num": 205634,
+        "word": "她拍的",
+        "onboard_time": 1693840118,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202098,
+        "num": 202098,
+        "word": "玫瑰故事首发剧照",
+        "onboard_time": 1693881035,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199061,
+        "num": 199061,
+        "word": "孙颖莎3比0早田希娜",
+        "onboard_time": 1693878637,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176714,
+        "num": 176714,
+        "word": "孕妇做B超拍到上下铺宝宝",
+        "onboard_time": 1693834537,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154579,
+        "num": 154579,
+        "word": "乡村小学仅5名师生仍坚持升国旗唱国歌",
+        "onboard_time": 1693877735,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153644,
+        "num": 153644,
+        "word": "8岁女孩去世成为大体老师",
+        "onboard_time": 1693875516,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146628,
+        "num": 146628,
+        "word": "长生花这次终于正大光明营业了",
+        "onboard_time": 1693878996,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142944,
+        "num": 142944,
+        "word": "陈奕迅的声音就像梁朝伟的脸",
+        "onboard_time": 1693873536,
+        "rank": 41,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 142277,
+        "num": 142277,
+        "word": "亲爱的雪 我已嫁入豪门",
+        "onboard_time": 1693828774,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131128,
+        "num": 131128,
+        "word": "马立奥和况三喜有多同频",
+        "onboard_time": 1693881218,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126734,
+        "num": 126734,
+        "word": "上海本帮爆鱼",
+        "onboard_time": 1693874618,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126514,
+        "num": 126514,
+        "word": "一干部要求每块砖缝无尘土沙粒",
+        "onboard_time": 1693843233,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123179,
+        "num": 123179,
+        "word": "国旗护卫队老兵退役拥抱父母时哭了",
+        "onboard_time": 1693879836,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121513,
+        "num": 121513,
+        "word": "受伤狍子闯入北京药王谷求救",
+        "onboard_time": 1693872575,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121399,
+        "num": 121399,
+        "word": "云之羽爱奇艺热度值破9000",
+        "onboard_time": 1693831294,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120853,
+        "num": 120853,
+        "word": "台风天气福州一消防车坠河",
+        "onboard_time": 1693869506,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#服贸会描绘低碳绿色的生活图景#"
+    }
+  }
+}

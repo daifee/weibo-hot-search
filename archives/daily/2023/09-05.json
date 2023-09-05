@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693880449142,
+  "endTime": 1693881230798,
   "band_list": [
     {
       "raw_hot": 2144281,
@@ -49,6 +49,14 @@
       "onboard_time": 1693872936,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1267507,
+      "num": 1267507,
+      "word": "我来接我未过门的妻子怎么了",
+      "onboard_time": 1693878873,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1217857,
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 829349,
+      "num": 244406,
+      "word": "林彦俊一关联公司拟注销",
+      "onboard_time": 1693881096,
+      "rank": 21,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 826768,
       "num": 826768,
       "word": "巨蟹座永远不会奔谁而去",
@@ -153,6 +169,14 @@
       "onboard_time": 1693877915,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 772012,
+      "num": 772012,
+      "word": "烤肉店回应谢绝日本人进入",
+      "onboard_time": 1693872275,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765578,
@@ -179,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716753,
-      "num": 716753,
-      "word": "我来接我未过门的妻子怎么了",
-      "onboard_time": 1693878873,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 686580,
       "num": 686580,
       "word": "您的摄像机已经被狮子捡到",
@@ -203,12 +219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639608,
-      "num": 639608,
-      "word": "烤肉店回应谢绝日本人进入",
-      "onboard_time": 1693872275,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 631405,
+      "num": 435965,
+      "word": "张彬彬的画技在内娱是什么水平",
+      "onboard_time": 1693880012,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 598290,
+      "num": 436476,
+      "word": "封神妲己 我跟他们不一样",
+      "onboard_time": 1693879474,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 572240,
@@ -217,6 +241,14 @@
       "onboard_time": 1693835620,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549678,
+      "num": 549678,
+      "word": "光明网评云之羽",
+      "onboard_time": 1693878756,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 542568,
@@ -243,28 +275,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 529362,
-      "num": 529362,
-      "word": "光明网评云之羽",
-      "onboard_time": 1693878756,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 524987,
       "num": 306527,
       "word": "突然就不想存钱了",
       "onboard_time": 1693877074,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 524571,
-      "num": 436476,
-      "word": "封神妲己 我跟他们不一样",
-      "onboard_time": 1693879474,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 523981,
@@ -291,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484476,
-      "num": 435965,
-      "word": "张彬彬的画技在内娱是什么水平",
-      "onboard_time": 1693880012,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 479882,
+      "num": 222476,
+      "word": "封神 睡在我隔壁的小马",
+      "onboard_time": 1693880674,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 444292,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434747,
+      "num": 295597,
+      "word": "成毅傅云深",
+      "onboard_time": 1693879114,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433192,
       "num": 433192,
       "word": "妻子双腿卡收割机丈夫紧抱大喊名字",
@@ -339,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427521,
-      "num": 295597,
-      "word": "成毅傅云深",
-      "onboard_time": 1693879114,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 422289,
       "num": 422289,
       "word": "田雨朱珠不小心嗑到了",
@@ -355,11 +371,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404308,
+      "num": 225504,
+      "word": "31岁男子常喝可乐奶茶长得像40多岁",
+      "onboard_time": 1693880369,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399035,
       "num": 399035,
       "word": "王一博给三贵情史包了4场",
       "onboard_time": 1693875338,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 398949,
+      "num": 398949,
+      "word": "玫瑰故事",
+      "onboard_time": 1693878514,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -409,14 +441,6 @@
       "onboard_time": 1693870048,
       "rank": 36,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 337371,
-      "num": 337371,
-      "word": "玫瑰故事",
-      "onboard_time": 1693878514,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 322007,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248198,
+      "num": 216009,
+      "word": "爸妈吵架的尽头永远是我",
+      "onboard_time": 1693876835,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240689,
       "num": 240689,
       "word": "中国地铁站最好听的站名",
@@ -603,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214935,
-      "num": 214935,
-      "word": "爸妈吵架的尽头永远是我",
-      "onboard_time": 1693876835,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208071,
       "num": 208071,
       "word": "孙颖莎3比0早田希娜",
@@ -633,6 +657,14 @@
       "onboard_time": 1693868482,
       "rank": 31,
       "category": "其它"
+    },
+    {
+      "raw_hot": 202098,
+      "num": 202098,
+      "word": "玫瑰故事首发剧照",
+      "onboard_time": 1693881035,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 195708,
@@ -689,14 +721,6 @@
       "onboard_time": 1693832679,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179039,
-      "num": 179039,
-      "word": "31岁男子常喝可乐奶茶长得像40多岁",
-      "onboard_time": 1693880369,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174447,
@@ -801,6 +825,14 @@
       "onboard_time": 1693831898,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131128,
+      "num": 131128,
+      "word": "马立奥和况三喜有多同频",
+      "onboard_time": 1693881218,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 130850,
