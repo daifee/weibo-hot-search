@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693935239847,
+  "endTime": 1693938070630,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -7683,6 +7683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72375,
+      "num": 72375,
+      "word": "当老师最轻松的是上课的45分钟",
+      "onboard_time": 1693934301,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69344,
       "num": 69344,
       "word": "享受这个瞬间",
@@ -7761,14 +7769,6 @@
       "onboard_time": 1693764559,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 61613,
-      "num": 61613,
-      "word": "当老师最轻松的是上课的45分钟",
-      "onboard_time": 1693934301,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 61501,
@@ -7931,6 +7931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41561,
+      "num": 41561,
+      "word": "Shotaro成灿Challenge",
+      "onboard_time": 1693935738,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39608,
       "num": 39608,
       "word": "虞书欣云为衫人物分析笔记",
@@ -7969,6 +7977,14 @@
       "onboard_time": 1693728098,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32640,
+      "num": 34205,
+      "word": "如果你喜欢那就大大方方",
+      "onboard_time": 1693937539,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 32432,

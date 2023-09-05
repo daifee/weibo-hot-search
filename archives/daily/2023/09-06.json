@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693935239847,
+  "endTime": 1693938070630,
   "band_list": [
     {
       "raw_hot": 1492866,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72375,
+      "num": 72375,
+      "word": "当老师最轻松的是上课的45分钟",
+      "onboard_time": 1693934301,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63987,
       "num": 63987,
       "word": "盛爹 手势谐音梗鼻祖",
@@ -443,20 +451,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 61613,
-      "num": 61613,
-      "word": "当老师最轻松的是上课的45分钟",
-      "onboard_time": 1693934301,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 54996,
       "num": 59666,
       "word": "我与华晨宇的十年记忆",
       "onboard_time": 1693933884,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41561,
+      "num": 41561,
+      "word": "Shotaro成灿Challenge",
+      "onboard_time": 1693935738,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32640,
+      "num": 34205,
+      "word": "如果你喜欢那就大大方方",
+      "onboard_time": 1693937539,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 5595,
