@@ -1,0 +1,410 @@
+{
+  "runTime": 1693902858678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989848,
+        "num": 1989848,
+        "word": "papi酱气离婚的又气不离婚的",
+        "onboard_time": 1693896097,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 954485,
+        "num": 954485,
+        "word": "为什么卤味三巨头卖不动了",
+        "onboard_time": 1693900596,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 58148,
+        "num": 811852,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1926414,
+        "num": 811510,
+        "word": "果然毒唯只对真嫂子破防",
+        "onboard_time": 1693899577,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 809099,
+        "num": 809099,
+        "word": "逃出大英博物馆第三集",
+        "onboard_time": 1693899517,
+        "rank": 4,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 867489,
+        "num": 809013,
+        "word": "小时代5 封建时代",
+        "onboard_time": 1693894056,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808752,
+        "num": 808752,
+        "word": "路过都觉得脏的程度",
+        "onboard_time": 1693899277,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 695843,
+        "num": 695843,
+        "word": "姆巴佩放弃奖金为巴黎节省1亿欧",
+        "onboard_time": 1693899277,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684171,
+        "num": 684171,
+        "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
+        "onboard_time": 1693881876,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529721,
+        "num": 529721,
+        "word": "秀才曾在直播时高喊给我你的医药费",
+        "onboard_time": 1693900957,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 699669,
+        "num": 524827,
+        "word": "第一批00后已经开始离婚了",
+        "onboard_time": 1693877013,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576995,
+        "num": 523347,
+        "word": "产后5年头发掉光还绝经了",
+        "onboard_time": 1693899577,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519032,
+        "num": 519032,
+        "word": "范加尔暗示梅西拿世界杯是内定",
+        "onboard_time": 1693900119,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293832,
+        "num": 475605,
+        "word": "男子接住坠楼幼童2个月才被外人知晓",
+        "onboard_time": 1693888304,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 215280,
+        "num": 460796,
+        "word": "儿子在妈妈再婚现场发言送祝福",
+        "onboard_time": 1693900896,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578757,
+        "num": 460531,
+        "word": "日本就中国暂停进口水产品向WTO提交文件",
+        "onboard_time": 1693882055,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460263,
+        "num": 460263,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693897115,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445113,
+        "num": 445113,
+        "word": "陈哲远一怒之下怒了一下",
+        "onboard_time": 1693902218,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430713,
+        "num": 430713,
+        "word": "孤注一掷进入中国影史票房TOP11",
+        "onboard_time": 1693899037,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222891,
+        "num": 430005,
+        "word": "日本6分钟两次4级以上地震",
+        "onboard_time": 1693891717,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792222,
+        "num": 410484,
+        "word": "姑姑的钱算我的家庭资产吗",
+        "onboard_time": 1693899937,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 707742,
+        "num": 398540,
+        "word": "不要再乱买便宜纸巾了",
+        "onboard_time": 1693901497,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461176,
+        "num": 376202,
+        "word": "王睡睡张硕因婚闹至今未领证",
+        "onboard_time": 1693901497,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370926,
+        "num": 370926,
+        "word": "大的死鱼脸 小的死鱼眼",
+        "onboard_time": 1693897956,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350362,
+        "num": 350362,
+        "word": "易烊千玺为空军招飞宣传",
+        "onboard_time": 1693896215,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328909,
+        "num": 328909,
+        "word": "千万别相信免费看手相",
+        "onboard_time": 1693901977,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317805,
+        "num": 317805,
+        "word": "62岁北京女粉丝打赏秀才52万只追回数万",
+        "onboard_time": 1693887039,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 310009,
+        "num": 310009,
+        "word": "徐良说影响别人的青春要负责任",
+        "onboard_time": 1693898138,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307958,
+        "num": 307958,
+        "word": "542万杯酱香拿铁叠起来相当于95座珠峰",
+        "onboard_time": 1693898496,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 292319,
+        "num": 292319,
+        "word": "霍建华的新剧状态",
+        "onboard_time": 1693892138,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291959,
+        "num": 291959,
+        "word": "小玉壶读信我哭死",
+        "onboard_time": 1693901195,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269331,
+        "num": 269331,
+        "word": "周迅小肉手",
+        "onboard_time": 1693901555,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252207,
+        "num": 252207,
+        "word": "华晨宇工作室呼吁文明观演",
+        "onboard_time": 1693902278,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237698,
+        "num": 237698,
+        "word": "刘亦菲万茜演闺蜜",
+        "onboard_time": 1693902278,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226001,
+        "num": 233828,
+        "word": "警方一举打掉缅北诈骗窝点11个",
+        "onboard_time": 1693899338,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233384,
+        "num": 233384,
+        "word": "酱香拿铁一日销售542万杯",
+        "onboard_time": 1693881275,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 230967,
+        "num": 230967,
+        "word": "这种人民币千万不要花",
+        "onboard_time": 1693887280,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227209,
+        "num": 227209,
+        "word": "石凯半夜2点坐起来也想不明白",
+        "onboard_time": 1693901433,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225336,
+        "num": 225336,
+        "word": "上海迪士尼疯狂动物城园区",
+        "onboard_time": 1693893757,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 222226,
+        "num": 222226,
+        "word": "电影一闪一闪亮星星杀青",
+        "onboard_time": 1693897716,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211221,
+        "num": 211221,
+        "word": "没开玩笑新疆真的产海鲜",
+        "onboard_time": 1693902517,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211211,
+        "num": 211211,
+        "word": "殷郊把姬发拉出火海",
+        "onboard_time": 1693901318,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193450,
+        "num": 193450,
+        "word": "瑞幸给员工发红包",
+        "onboard_time": 1693888904,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 185977,
+        "num": 185977,
+        "word": "取快递的方式已经进化成这样了",
+        "onboard_time": 1693896097,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183395,
+        "num": 183395,
+        "word": "赵丽颖黑粉被强执3万",
+        "onboard_time": 1693893757,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 179305,
+        "num": 179305,
+        "word": "新人男团奖候补三巨头",
+        "onboard_time": 1693900957,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167080,
+        "num": 167080,
+        "word": "刘亦菲我真的吃醋了",
+        "onboard_time": 1693881395,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162457,
+        "num": 162457,
+        "word": "fx十四周年",
+        "onboard_time": 1693890939,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156433,
+        "num": 156433,
+        "word": "盛阳说妈上八道总菜",
+        "onboard_time": 1693900656,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147555,
+        "num": 147555,
+        "word": "真实存在于南极冰层下的死亡冰柱",
+        "onboard_time": 1693896576,
+        "rank": 49,
+        "category": "自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#共促世界经济复苏和增长#"
+    }
+  }
+}

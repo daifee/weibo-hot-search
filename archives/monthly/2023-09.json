@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693902097430,
+  "endTime": 1693902858678,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1926414,
+      "num": 828966,
+      "word": "果然毒唯只对真嫂子破防",
+      "onboard_time": 1693899577,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1910569,
       "num": 1910569,
       "word": "高铁",
@@ -681,14 +689,6 @@
       "onboard_time": 1693787738,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1702045,
-      "num": 828966,
-      "word": "果然毒唯只对真嫂子破防",
-      "onboard_time": 1693899577,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1697639,
@@ -1603,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 954485,
+      "num": 954485,
+      "word": "为什么卤味三巨头卖不动了",
+      "onboard_time": 1693900596,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 953646,
       "num": 953646,
       "word": "梁朝伟刘嘉玲亲亲",
@@ -2033,6 +2041,14 @@
       "onboard_time": 1693670798,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 808752,
+      "num": 808752,
+      "word": "路过都觉得脏的程度",
+      "onboard_time": 1693899277,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 807214,
@@ -2507,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 707742,
+      "num": 398540,
+      "word": "不要再乱买便宜纸巾了",
+      "onboard_time": 1693901497,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 706329,
       "num": 706329,
       "word": "黄宗泽哭了",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1693796915,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 695843,
+      "num": 695843,
+      "word": "姆巴佩放弃奖金为巴黎节省1亿欧",
+      "onboard_time": 1693899277,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 694103,
@@ -2689,14 +2721,6 @@
       "onboard_time": 1693831898,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 674295,
-      "num": 674295,
-      "word": "姆巴佩放弃奖金为巴黎节省1亿欧",
-      "onboard_time": 1693899277,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 670897,
@@ -3132,7 +3156,7 @@
     },
     {
       "raw_hot": 606900,
-      "num": 441693,
+      "num": 523347,
       "word": "产后5年头发掉光还绝经了",
       "onboard_time": 1693899577,
       "rank": 11,
@@ -3339,14 +3363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 574482,
-      "num": 574482,
-      "word": "路过都觉得脏的程度",
-      "onboard_time": 1693899277,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 571309,
       "num": 571309,
       "word": "官方称天津大爷跳水的8A级水域禁止游泳",
@@ -3500,7 +3516,7 @@
     },
     {
       "raw_hot": 555417,
-      "num": 409907,
+      "num": 460263,
       "word": "大爷地铁与人争吵遭陌生男子打耳光",
       "onboard_time": 1693897115,
       "rank": 16,
@@ -3635,14 +3651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541682,
-      "num": 404458,
-      "word": "为什么卤味三巨头卖不动了",
-      "onboard_time": 1693900596,
-      "rank": 17,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 540866,
       "num": 540866,
       "word": "汪苏泷不分手的恋爱独唱失败",
@@ -3771,6 +3779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 529721,
+      "num": 529721,
+      "word": "秀才曾在直播时高喊给我你的医药费",
+      "onboard_time": 1693900957,
+      "rank": 21,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 527233,
       "num": 326833,
       "word": "男子中千万大奖带老婆打飞的兑奖",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1693531895,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 519032,
+      "num": 519032,
+      "word": "范加尔暗示梅西拿世界杯是内定",
+      "onboard_time": 1693900119,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 518589,
@@ -4073,14 +4097,6 @@
       "onboard_time": 1693540058,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 487758,
-      "num": 487758,
-      "word": "范加尔暗示梅西拿世界杯是内定",
-      "onboard_time": 1693900119,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 487468,
@@ -4411,6 +4427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461176,
+      "num": 376202,
+      "word": "王睡睡张硕因婚闹至今未领证",
+      "onboard_time": 1693901497,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460635,
       "num": 460635,
       "word": "记某幻账上",
@@ -4587,6 +4611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445113,
+      "num": 445113,
+      "word": "陈哲远一怒之下怒了一下",
+      "onboard_time": 1693902218,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443154,
       "num": 443154,
       "word": "商黎光被查",
@@ -4729,6 +4761,14 @@
       "onboard_time": 1693875698,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430713,
+      "num": 430713,
+      "word": "孤注一掷进入中国影史票房TOP11",
+      "onboard_time": 1693899037,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 429978,
@@ -5139,22 +5179,6 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 396643,
-      "num": 261696,
-      "word": "王睡睡张硕因婚闹至今未领证",
-      "onboard_time": 1693901497,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 395246,
-      "num": 395246,
-      "word": "孤注一掷进入中国影史票房TOP11",
-      "onboard_time": 1693899037,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 394996,
       "num": 329025,
       "word": "奥本海默里消失的她",
@@ -5233,14 +5257,6 @@
       "onboard_time": 1693560280,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387960,
-      "num": 387960,
-      "word": "秀才曾在直播时高喊给我你的医药费",
-      "onboard_time": 1693900957,
-      "rank": 21,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 385351,
@@ -5963,6 +5979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328909,
+      "num": 328909,
+      "word": "千万别相信免费看手相",
+      "onboard_time": 1693901977,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328681,
       "num": 328681,
       "word": "九月",
@@ -6483,14 +6507,6 @@
       "category": "国内要闻,财经"
     },
     {
-      "raw_hot": 297173,
-      "num": 261590,
-      "word": "不要再乱买便宜纸巾了",
-      "onboard_time": 1693901497,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296911,
       "num": 296911,
       "word": "原神",
@@ -6577,6 +6593,14 @@
       "onboard_time": 1693564897,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 291959,
+      "num": 291959,
+      "word": "小玉壶读信我哭死",
+      "onboard_time": 1693901195,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 291508,
@@ -6859,14 +6883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276087,
-      "num": 276087,
-      "word": "小玉壶读信我哭死",
-      "onboard_time": 1693901195,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 275519,
       "num": 275519,
       "word": "肖战骄阳伴我开场90S",
@@ -6993,6 +7009,14 @@
       "onboard_time": 1693833097,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269331,
+      "num": 269331,
+      "word": "周迅小肉手",
+      "onboard_time": 1693901555,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 269240,
@@ -7363,14 +7387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256681,
-      "num": 256681,
-      "word": "周迅小肉手",
-      "onboard_time": 1693901555,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256173,
       "num": 256173,
       "word": "西瓜冰柠茶",
@@ -7465,6 +7481,14 @@
       "onboard_time": 1693655918,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 252207,
+      "num": 252207,
+      "word": "华晨宇工作室呼吁文明观演",
+      "onboard_time": 1693902278,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 251756,
@@ -7835,6 +7859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237698,
+      "num": 237698,
+      "word": "刘亦菲万茜演闺蜜",
+      "onboard_time": 1693902278,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237648,
       "num": 237648,
       "word": "小猫的交班仪式",
@@ -8097,6 +8129,14 @@
       "onboard_time": 1693553979,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226001,
+      "num": 233828,
+      "word": "警方一举打掉缅北诈骗窝点11个",
+      "onboard_time": 1693899338,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225896,
@@ -8435,6 +8475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215280,
+      "num": 460796,
+      "word": "儿子在妈妈再婚现场发言送祝福",
+      "onboard_time": 1693900896,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215000,
       "num": 215000,
       "word": "被孙怡介绍Melody笑到",
@@ -8505,6 +8553,14 @@
       "onboard_time": 1693726117,
       "rank": 39,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 211221,
+      "num": 211221,
+      "word": "没开玩笑新疆真的产海鲜",
+      "onboard_time": 1693902517,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211022,
@@ -10115,20 +10171,20 @@
       "category": "自然"
     },
     {
+      "raw_hot": 179305,
+      "num": 179305,
+      "word": "新人男团奖候补三巨头",
+      "onboard_time": 1693900957,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179177,
       "num": 179177,
       "word": "熊猫妈妈剥竹子给幼崽吃",
       "onboard_time": 1693698446,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179133,
-      "num": 179133,
-      "word": "警方一举打掉缅北诈骗窝点11个",
-      "onboard_time": 1693899338,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179065,
@@ -10393,14 +10449,6 @@
       "onboard_time": 1693894117,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168123,
-      "num": 168123,
-      "word": "新人男团奖候补三巨头",
-      "onboard_time": 1693900957,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 168092,
@@ -10761,14 +10809,6 @@
       "onboard_time": 1693631195,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156414,
-      "num": 156414,
-      "word": "千万别相信免费看手相",
-      "onboard_time": 1693901977,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 156327,
@@ -11401,14 +11441,6 @@
       "onboard_time": 1693841738,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121314,
-      "num": 421107,
-      "word": "儿子在妈妈再婚现场发言送祝福",
-      "onboard_time": 1693900896,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120223,
