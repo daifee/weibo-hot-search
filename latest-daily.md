@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/06 00:21:55 ~ 2023/09/06 04:34:13
+本榜单时间：2023/09/06 00:21:55 ~ 2023/09/06 05:14:48
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ Shotaro成灿Challenge（热度：41561）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
+宝妈晒娃大小眼就医查出颅缝早闭（热度：35148）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%23" target="weibo">
 酱香拿铁（热度：32467）
 </a>
@@ -383,12 +389,6 @@ Shotaro成灿Challenge（热度：41561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%80%92%E7%A0%B810%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%23" target="weibo">
 当事人回应怒砸10杯酱香拿铁（热度：30014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
-宝妈晒娃大小眼就医查出颅缝早闭（热度：27820）
 </a>
 </li>
 
@@ -418,7 +418,7 @@ Shotaro成灿Challenge（热度：41561）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%98%B4%E8%A7%92%E5%90%91%E4%B8%8B%E4%B9%9F%E8%83%BD%E7%AC%91%23" target="weibo">
-原来嘴角向下也能笑（热度：17672）
+原来嘴角向下也能笑（热度：19251）
 </a>
 </li>
 
