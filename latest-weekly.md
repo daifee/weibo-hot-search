@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/03 00:19:27 ~ 2023/09/06 06:15:45
+本榜单时间：2023/09/03 00:19:27 ~ 2023/09/06 06:33:52
 </p>
 </blockquote>
 <p>
@@ -5535,6 +5535,12 @@ KAI和Bada超绝的双人舞（热度：164942）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E6%9C%80%E8%BD%BB%E6%9D%BE%E7%9A%84%E6%98%AF%E4%B8%8A%E8%AF%BE%E7%9A%8445%E5%88%86%E9%92%9F%23" target="weibo">
+当老师最轻松的是上课的45分钟（热度：115803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%8E%E4%BA%9A%E8%BF%90%E7%9A%84%E6%9D%AD%E5%B7%9E%E5%A5%BD%E6%BC%82%E4%BA%AE%23" target="weibo">
 迎亚运的杭州好漂亮（热度：115130）
 </a>
@@ -5573,6 +5579,12 @@ KAI和Bada超绝的双人舞（热度：164942）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%8B%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BE%E5%8A%A8%E8%83%BD%E8%AF%B4%E6%98%8E%E5%BE%88%E5%A4%9A%E4%BF%A1%E6%81%AF%23" target="weibo">
 人下意识的举动能说明很多信息（热度：109062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E5%8C%BB%E8%80%85%E9%9A%BE%E8%87%AA%E5%8C%BB%23" target="weibo">
+傅首尔医者难自医（热度：107524）
 </a>
 </li>
 
@@ -5639,6 +5651,12 @@ KAI和Bada超绝的双人舞（热度：164942）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%B5%B7%E8%91%B5%E5%B8%A6%E6%9D%A5%E4%B8%80%E5%9C%BA%E5%A4%A9%E7%A9%BA%E7%9A%84%E6%B5%AA%E6%BC%AB%23" target="weibo">
 台风海葵带来一场天空的浪漫（热度：98774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
+宝妈晒娃大小眼就医查出颅缝早闭（热度：97452）
 </a>
 </li>
 
@@ -5763,12 +5781,6 @@ KAI和Bada超绝的双人舞（热度：164942）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E5%8C%BB%E8%80%85%E9%9A%BE%E8%87%AA%E5%8C%BB%23" target="weibo">
-傅首尔医者难自医（热度：77515）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%95%91%E5%87%BA%E5%A5%B6%E5%A8%83%E4%B8%8D%E5%81%9C%E6%8B%8D%E6%8B%8D%E8%AF%B4%E6%B2%A1%E4%BA%8B%E4%BA%86%23" target="weibo">
 消防员救出奶娃不停拍拍说没事了（热度：76241）
 </a>
@@ -5777,18 +5789,6 @@ KAI和Bada超绝的双人舞（热度：164942）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E8%B5%84%E9%98%B3%E5%B0%8F%E4%BC%99%E5%89%AA%E5%87%BA%E7%99%BE%E6%89%80%E9%AB%98%E6%A0%A1%E9%80%9A%E7%9F%A5%E4%B9%A6%23" target="weibo">
 90后资阳小伙剪出百所高校通知书（热度：75155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
-宝妈晒娃大小眼就医查出颅缝早闭（热度：74059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E6%9C%80%E8%BD%BB%E6%9D%BE%E7%9A%84%E6%98%AF%E4%B8%8A%E8%AF%BE%E7%9A%8445%E5%88%86%E9%92%9F%23" target="weibo">
-当老师最轻松的是上课的45分钟（热度：72375）
 </a>
 </li>
 
@@ -5919,6 +5919,12 @@ KAI和Bada超绝的双人舞（热度：164942）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B5%B7%E5%B9%B3%E9%9D%A2%E5%8D%87%E8%B5%B7%E7%9A%84%E6%81%B6%E9%AD%94%E4%B9%8B%E8%A7%92%23" target="weibo">
+卡塔尔海平面升起的恶魔之角（热度：48985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%237%E6%97%AC%E4%BF%9D%E5%AE%89%E5%86%B2%E5%85%A5%E7%81%AB%E5%9C%BA%E6%95%91%E7%81%AB%E5%85%A8%E8%BA%AB%E8%A2%AB%E7%86%8F%E9%BB%91%23" target="weibo">
 7旬保安冲入火场救火全身被熏黑（热度：47735）
 </a>
@@ -5945,6 +5951,12 @@ KAI和Bada超绝的双人舞（热度：164942）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 蔡依林长沙演唱会（热度：43766）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%98%B4%E8%A7%92%E5%90%91%E4%B8%8B%E4%B9%9F%E8%83%BD%E7%AC%91%23" target="weibo">
+原来嘴角向下也能笑（热度：43283）
 </a>
 </li>
 
@@ -5979,6 +5991,12 @@ KAI和Bada超绝的双人舞（热度：164942）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%B8%82%E7%9B%91%E5%B1%80%E8%AF%A2%E9%97%AE%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%85%8D%E6%96%99%23" target="weibo">
+瑞幸回应市监局询问酱香拿铁配料（热度：41991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Shotaro%E6%88%90%E7%81%BFChallenge%23" target="weibo">
 Shotaro成灿Challenge（热度：41561）
 </a>
@@ -6005,12 +6023,6 @@ Shotaro成灿Challenge（热度：41561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E4%B8%8E%E5%A4%A7%E5%8F%94%E5%90%88%E5%8A%9B%E6%95%91%E8%B5%B7%E6%BA%BA%E6%B0%B4%E8%80%85%E5%90%8E%E8%99%9A%E8%84%B1%E5%91%95%E5%90%90%23" target="weibo">
 辅警与大叔合力救起溺水者后虚脱呕吐（热度：35554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%98%B4%E8%A7%92%E5%90%91%E4%B8%8B%E4%B9%9F%E8%83%BD%E7%AC%91%23" target="weibo">
-原来嘴角向下也能笑（热度：35375）
 </a>
 </li>
 
@@ -6047,12 +6059,6 @@ Shotaro成灿Challenge（热度：41561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E8%AF%A2%E9%97%AE%E7%91%9E%E5%B9%B8%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%85%8D%E6%96%99%23" target="weibo">
 市监局询问瑞幸酱香拿铁配料（热度：29241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%B8%82%E7%9B%91%E5%B1%80%E8%AF%A2%E9%97%AE%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%85%8D%E6%96%99%23" target="weibo">
-瑞幸回应市监局询问酱香拿铁配料（热度：27841）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693952145401,
+  "endTime": 1693953232170,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -7363,6 +7363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115803,
+      "num": 79695,
+      "word": "当老师最轻松的是上课的45分钟",
+      "onboard_time": 1693934301,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115130,
       "num": 1556266,
       "word": "迎亚运的杭州好漂亮",
@@ -7417,6 +7425,14 @@
       "onboard_time": 1693760963,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107524,
+      "num": 78957,
+      "word": "傅首尔医者难自医",
+      "onboard_time": 1693949593,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 107289,
@@ -7504,6 +7520,14 @@
       "word": "台风海葵带来一场天空的浪漫",
       "onboard_time": 1693770494,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97452,
+      "num": 56309,
+      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+      "onboard_time": 1693944253,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -7667,14 +7691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77515,
-      "num": 56807,
-      "word": "傅首尔医者难自医",
-      "onboard_time": 1693949593,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76241,
       "num": 440323,
       "word": "消防员救出奶娃不停拍拍说没事了",
@@ -7689,22 +7705,6 @@
       "onboard_time": 1693832434,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74059,
-      "num": 39400,
-      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
-      "onboard_time": 1693944253,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72375,
-      "num": 72375,
-      "word": "当老师最轻松的是上课的45分钟",
-      "onboard_time": 1693934301,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 69344,
@@ -7875,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48985,
+      "num": 48985,
+      "word": "卡塔尔海平面升起的恶魔之角",
+      "onboard_time": 1693952718,
+      "rank": 34,
+      "category": "自然"
+    },
+    {
       "raw_hot": 47735,
       "num": 329856,
       "word": "7旬保安冲入火场救火全身被熏黑",
@@ -7913,6 +7921,14 @@
       "onboard_time": 1693683196,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43283,
+      "num": 43283,
+      "word": "原来嘴角向下也能笑",
+      "onboard_time": 1693945154,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 43267,
@@ -7955,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41991,
+      "num": 41991,
+      "word": "瑞幸回应市监局询问酱香拿铁配料",
+      "onboard_time": 1693938196,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -7993,14 +8017,6 @@
       "onboard_time": 1693735236,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35375,
-      "num": 35375,
-      "word": "原来嘴角向下也能笑",
-      "onboard_time": 1693945154,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 34749,
@@ -8048,14 +8064,6 @@
       "word": "市监局询问瑞幸酱香拿铁配料",
       "onboard_time": 1693943055,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27841,
-      "num": 28056,
-      "word": "瑞幸回应市监局询问酱香拿铁配料",
-      "onboard_time": 1693938196,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

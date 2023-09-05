@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693952145401,
+  "endTime": 1693953232170,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -12499,6 +12499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115803,
+      "num": 79695,
+      "word": "当老师最轻松的是上课的45分钟",
+      "onboard_time": 1693934301,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115747,
       "num": 191542,
       "word": "饮月苍龙出水",
@@ -12585,6 +12593,14 @@
       "onboard_time": 1693760963,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107524,
+      "num": 78957,
+      "word": "傅首尔医者难自医",
+      "onboard_time": 1693949593,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 107513,
@@ -12696,6 +12712,14 @@
       "word": "台风海葵带来一场天空的浪漫",
       "onboard_time": 1693770494,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97452,
+      "num": 56309,
+      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+      "onboard_time": 1693944253,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -12979,14 +13003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77515,
-      "num": 56807,
-      "word": "傅首尔医者难自医",
-      "onboard_time": 1693949593,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76241,
       "num": 440323,
       "word": "消防员救出奶娃不停拍拍说没事了",
@@ -13011,28 +13027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74059,
-      "num": 39400,
-      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
-      "onboard_time": 1693944253,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73051,
       "num": 73051,
       "word": "谐音梗为什么要扣钱",
       "onboard_time": 1693512554,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72375,
-      "num": 72375,
-      "word": "当老师最轻松的是上课的45分钟",
-      "onboard_time": 1693934301,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 72077,
@@ -13283,6 +13283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48985,
+      "num": 48985,
+      "word": "卡塔尔海平面升起的恶魔之角",
+      "onboard_time": 1693952718,
+      "rank": 34,
+      "category": "自然"
+    },
+    {
       "raw_hot": 47892,
       "num": 55012,
       "word": "广西崇左3.3级地震",
@@ -13371,6 +13379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43283,
+      "num": 43283,
+      "word": "原来嘴角向下也能笑",
+      "onboard_time": 1693945154,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 43267,
       "num": 1148953,
       "word": "一带一路全球行",
@@ -13425,6 +13441,14 @@
       "onboard_time": 1693581462,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 41991,
+      "num": 41991,
+      "word": "瑞幸回应市监局询问酱香拿铁配料",
+      "onboard_time": 1693938196,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41561,
@@ -13505,14 +13529,6 @@
       "onboard_time": 1693735236,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35375,
-      "num": 35375,
-      "word": "原来嘴角向下也能笑",
-      "onboard_time": 1693945154,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 34778,
@@ -13617,14 +13633,6 @@
       "onboard_time": 1693590861,
       "rank": 48,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 27841,
-      "num": 28056,
-      "word": "瑞幸回应市监局询问酱香拿铁配料",
-      "onboard_time": 1693938196,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27617,

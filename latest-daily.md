@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/06 00:21:55 ~ 2023/09/06 06:15:45
+本榜单时间：2023/09/06 00:21:55 ~ 2023/09/06 06:33:52
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ IU抄袭指控警方不予立案（热度：141061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E6%9C%80%E8%BD%BB%E6%9D%BE%E7%9A%84%E6%98%AF%E4%B8%8A%E8%AF%BE%E7%9A%8445%E5%88%86%E9%92%9F%23" target="weibo">
+当老师最轻松的是上课的45分钟（热度：115803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BA%8E%E9%80%82%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%87%BA%E7%AB%A0%E5%AD%90%E6%80%A1%E7%9A%84%E5%BD%B1%E5%AD%90%23" target="weibo">
 从于适身上看出章子怡的影子（热度：112798）
 </a>
@@ -334,25 +340,19 @@ IU抄袭指控警方不予立案（热度：141061）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E5%8C%BB%E8%80%85%E9%9A%BE%E8%87%AA%E5%8C%BB%23" target="weibo">
-傅首尔医者难自医（热度：77515）
+傅首尔医者难自医（热度：107524）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
+宝妈晒娃大小眼就医查出颅缝早闭（热度：97452）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AF%B4%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E7%9A%84%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 虞书欣说有可以相亲的名场面（热度：75927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
-宝妈晒娃大小眼就医查出颅缝早闭（热度：74059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E6%9C%80%E8%BD%BB%E6%9D%BE%E7%9A%84%E6%98%AF%E4%B8%8A%E8%AF%BE%E7%9A%8445%E5%88%86%E9%92%9F%23" target="weibo">
-当老师最轻松的是上课的45分钟（热度：72375）
 </a>
 </li>
 
@@ -369,8 +369,26 @@ IU抄袭指控警方不予立案（热度：141061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B5%B7%E5%B9%B3%E9%9D%A2%E5%8D%87%E8%B5%B7%E7%9A%84%E6%81%B6%E9%AD%94%E4%B9%8B%E8%A7%92%23" target="weibo">
+卡塔尔海平面升起的恶魔之角（热度：48985）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%98%B4%E8%A7%92%E5%90%91%E4%B8%8B%E4%B9%9F%E8%83%BD%E7%AC%91%23" target="weibo">
+原来嘴角向下也能笑（热度：43283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E24%E5%B0%8F%E6%97%B6%E9%99%8D%E9%9B%A8%E9%87%8F%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E9%87%8F%E7%BA%A7%23" target="weibo">
 福州24小时降雨量特大暴雨量级（热度：42588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%B8%82%E7%9B%91%E5%B1%80%E8%AF%A2%E9%97%AE%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%85%8D%E6%96%99%23" target="weibo">
+瑞幸回应市监局询问酱香拿铁配料（热度：41991）
 </a>
 </li>
 
@@ -383,12 +401,6 @@ Shotaro成灿Challenge（热度：41561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%BD%A0%E5%96%9C%E6%AC%A2%E9%82%A3%E5%B0%B1%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%23" target="weibo">
 如果你喜欢那就大大方方（热度：38537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%98%B4%E8%A7%92%E5%90%91%E4%B8%8B%E4%B9%9F%E8%83%BD%E7%AC%91%23" target="weibo">
-原来嘴角向下也能笑（热度：35375）
 </a>
 </li>
 
@@ -407,12 +419,6 @@ Shotaro成灿Challenge（热度：41561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E8%AF%A2%E9%97%AE%E7%91%9E%E5%B9%B8%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%85%8D%E6%96%99%23" target="weibo">
 市监局询问瑞幸酱香拿铁配料（热度：29241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%B8%82%E7%9B%91%E5%B1%80%E8%AF%A2%E9%97%AE%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%85%8D%E6%96%99%23" target="weibo">
-瑞幸回应市监局询问酱香拿铁配料（热度：27841）
 </a>
 </li>
 
