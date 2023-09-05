@@ -1,10 +1,10 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693955770671,
+  "endTime": 1693956840499,
   "band_list": [
     {
-      "raw_hot": 2107663,
-      "num": 2107663,
+      "raw_hot": 2290284,
+      "num": 2290284,
       "word": "地铁判官找到了",
       "onboard_time": 1693930831,
       "rank": 5,
@@ -27,8 +27,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1150386,
-      "num": 1150386,
+      "raw_hot": 1203535,
+      "num": 1203535,
       "word": "男子称怒砸10杯酱香拿铁不是因奶油太丑",
       "onboard_time": 1693929036,
       "rank": 11,
@@ -51,19 +51,19 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 894418,
+      "num": 894418,
+      "word": "福州暴雨",
+      "onboard_time": 1693919858,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678290,
       "num": 678290,
       "word": "地铁判官解说",
       "onboard_time": 1693915959,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654119,
-      "num": 654119,
-      "word": "福州暴雨",
-      "onboard_time": 1693919858,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1693917518,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 610270,
+      "num": 192790,
+      "word": "卡塔尔海平面升起的恶魔之角",
+      "onboard_time": 1693952718,
+      "rank": 34,
+      "category": "自然"
     },
     {
       "raw_hot": 543364,
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432290,
-      "num": 125579,
-      "word": "卡塔尔海平面升起的恶魔之角",
-      "onboard_time": 1693952718,
-      "rank": 34,
-      "category": "自然"
+      "raw_hot": 446739,
+      "num": 446739,
+      "word": "肖战剧里的画竟然都是自己画的",
+      "onboard_time": 1693920221,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 417778,
@@ -115,19 +123,27 @@
       "category": "美食"
     },
     {
-      "raw_hot": 411218,
-      "num": 411218,
-      "word": "肖战剧里的画竟然都是自己画的",
-      "onboard_time": 1693920221,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 408649,
       "num": 408649,
       "word": "警方称地铁判官精神有问题",
       "onboard_time": 1693911515,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392183,
+      "num": 192451,
+      "word": "结束一段关系最好的方式",
+      "onboard_time": 1693955066,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 376755,
+      "num": 376755,
+      "word": "福州地铁",
+      "onboard_time": 1693955546,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -187,12 +203,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 303911,
+      "num": 170064,
+      "word": "让宿管阿姨害怕的女大学生",
+      "onboard_time": 1693955126,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274347,
       "num": 239704,
       "word": "听说右手中指戴戒指招财",
       "onboard_time": 1693922023,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263400,
+      "num": 263400,
+      "word": "只有被偷抢的文物才有遗憾",
+      "onboard_time": 1693954041,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 260670,
@@ -220,11 +252,19 @@
     },
     {
       "raw_hot": 246637,
-      "num": 161520,
+      "num": 191690,
       "word": "当老师最轻松的是上课的45分钟",
       "onboard_time": 1693934301,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239064,
+      "num": 239064,
+      "word": "傅首尔医者难自医",
+      "onboard_time": 1693949593,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 234598,
@@ -243,6 +283,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 229323,
+      "num": 191833,
+      "word": "李健 忘记时间你才能更自由",
+      "onboard_time": 1693955126,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224201,
       "num": 224201,
       "word": "papi酱气离婚的又气不离婚的",
@@ -259,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214717,
+      "num": 214717,
+      "word": "女孩开学坐最后一排反安慰妈妈",
+      "onboard_time": 1693955005,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 207329,
       "num": 207329,
       "word": "27岁在不同人的眼里",
       "onboard_time": 1693924543,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204902,
+      "num": 376140,
+      "word": "学校的小床也有了妈妈的味道",
+      "onboard_time": 1693921059,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202105,
@@ -283,30 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185608,
-      "num": 376140,
-      "word": "学校的小床也有了妈妈的味道",
-      "onboard_time": 1693921059,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184720,
-      "num": 125366,
-      "word": "只有被偷抢的文物才有遗憾",
-      "onboard_time": 1693954041,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 171593,
-      "num": 171593,
-      "word": "傅首尔医者难自医",
-      "onboard_time": 1693949593,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170511,
       "num": 170511,
       "word": "茅台冰淇淋卖不动了",
@@ -315,10 +355,18 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 168531,
-      "num": 125358,
-      "word": "让宿管阿姨害怕的女大学生",
-      "onboard_time": 1693955126,
+      "raw_hot": 165907,
+      "num": 165907,
+      "word": "野良神最新话",
+      "onboard_time": 1693956630,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 165563,
+      "num": 165563,
+      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+      "onboard_time": 1693944253,
       "rank": 32,
       "category": "社会新闻"
     },
@@ -337,14 +385,6 @@
       "onboard_time": 1693930296,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160184,
-      "num": 120737,
-      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
-      "onboard_time": 1693944253,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158488,
@@ -369,22 +409,6 @@
       "onboard_time": 1693928795,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148873,
-      "num": 148873,
-      "word": "李健 忘记时间你才能更自由",
-      "onboard_time": 1693955126,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 142539,
-      "num": 142539,
-      "word": "结束一段关系最好的方式",
-      "onboard_time": 1693955066,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 142435,
@@ -419,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137875,
+      "num": 137875,
+      "word": "原来看演唱会可以这么有安全感",
+      "onboard_time": 1693955066,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137382,
       "num": 137382,
       "word": "云之羽包含了很多中国传统元素",
@@ -427,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137165,
-      "num": 137165,
-      "word": "女孩开学坐最后一排反安慰妈妈",
-      "onboard_time": 1693955005,
-      "rank": 27,
-      "category": "社会新闻,教育"
+      "raw_hot": 136612,
+      "num": 136612,
+      "word": "盛阳衣服上都是细节",
+      "onboard_time": 1693955546,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 135391,
@@ -457,6 +489,14 @@
       "onboard_time": 1693918538,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127803,
+      "num": 127803,
+      "word": "4岁男孩受伤躺交警怀中说舒服多了",
+      "onboard_time": 1693956329,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127733,
@@ -491,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115122,
+      "num": 115122,
+      "word": "福州暴雨I级响应",
+      "onboard_time": 1693956569,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112798,
       "num": 112798,
       "word": "从于适身上看出章子怡的影子",
@@ -499,19 +547,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110897,
-      "num": 110897,
-      "word": "盛阳衣服上都是细节",
-      "onboard_time": 1693955546,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 107300,
+      "num": 107300,
+      "word": "瑞幸回应市监局询问酱香拿铁配料",
+      "onboard_time": 1693938196,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 108915,
-      "num": 108915,
-      "word": "福州地铁",
-      "onboard_time": 1693955546,
-      "rank": 36,
+      "raw_hot": 105597,
+      "num": 105597,
+      "word": "福州24小时降雨量特大暴雨量级",
+      "onboard_time": 1693938796,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -520,30 +568,6 @@
       "word": "是母亲也是可以被爱的女孩",
       "onboard_time": 1693955066,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87371,
-      "num": 87371,
-      "word": "瑞幸回应市监局询问酱香拿铁配料",
-      "onboard_time": 1693938196,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86194,
-      "num": 86194,
-      "word": "原来看演唱会可以这么有安全感",
-      "onboard_time": 1693955066,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82931,
-      "num": 82931,
-      "word": "福州24小时降雨量特大暴雨量级",
-      "onboard_time": 1693938796,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -635,7 +659,7 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 5595,
+      "raw_hot": 7475,
       "num": 1117598,
       "word": "杭州亚运会逛玩指南",
       "onboard_time": 1693891837,
