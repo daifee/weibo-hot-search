@@ -1,0 +1,410 @@
+{
+  "runTime": 1693883845318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3160252,
+        "num": 3160252,
+        "word": "刘亦菲我真的吃醋了",
+        "onboard_time": 1693881395,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1586530,
+        "num": 1586530,
+        "word": "酱香拿铁一日销售542万杯",
+        "onboard_time": 1693881275,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 8264,
+        "num": 1342456,
+        "word": "一起探营杭州亚运村",
+        "onboard_time": 1693799799,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1230898,
+        "num": 1230898,
+        "word": "日本就中国暂停进口水产品向WTO提交文件",
+        "onboard_time": 1693882055,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183902,
+        "num": 1183902,
+        "word": "我来接我未过门的妻子怎么了",
+        "onboard_time": 1693878873,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 943845,
+        "num": 943845,
+        "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
+        "onboard_time": 1693881876,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713860,
+        "num": 713860,
+        "word": "茅台巧克力即将上线",
+        "onboard_time": 1693875217,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 689901,
+        "num": 689901,
+        "word": "烤肉店回应谢绝日本人进入",
+        "onboard_time": 1693872275,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538831,
+        "num": 538831,
+        "word": "不接受办公室恋情的原因",
+        "onboard_time": 1693872936,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467505,
+        "num": 467505,
+        "word": "理解诺兰成为诺兰",
+        "onboard_time": 1693877495,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1388556,
+        "num": 461666,
+        "word": "第一批00后已经开始离婚了",
+        "onboard_time": 1693877013,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694369,
+        "num": 461498,
+        "word": "林彦俊一关联公司拟注销",
+        "onboard_time": 1693881096,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 448144,
+        "num": 448144,
+        "word": "瑞幸回应男子怒砸多杯酱香拿铁",
+        "onboard_time": 1693838678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434491,
+        "num": 434491,
+        "word": "光明网评云之羽",
+        "onboard_time": 1693878756,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405729,
+        "num": 405729,
+        "word": "封神 睡在我隔壁的小马",
+        "onboard_time": 1693880674,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380770,
+        "num": 380770,
+        "word": "景甜张凌赫四海重明杀青",
+        "onboard_time": 1693878756,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364384,
+        "num": 364384,
+        "word": "杨紫许凯承欢记吻戏路透",
+        "onboard_time": 1693882055,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349808,
+        "num": 349808,
+        "word": "日本核污染水排海量已超4200吨",
+        "onboard_time": 1693872040,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329143,
+        "num": 329143,
+        "word": "封神妲己 我跟他们不一样",
+        "onboard_time": 1693879474,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307367,
+        "num": 307367,
+        "word": "张彬彬的画技在内娱是什么水平",
+        "onboard_time": 1693880012,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541581,
+        "num": 307300,
+        "word": "对月薪过万有误解",
+        "onboard_time": 1693881876,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422272,
+        "num": 305832,
+        "word": "原来睡觉真的很有用",
+        "onboard_time": 1693870234,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387145,
+        "num": 303348,
+        "word": "宫二先生和上官小姐",
+        "onboard_time": 1693878093,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380016,
+        "num": 301890,
+        "word": "入境船舶上发现1万余只蟑螂",
+        "onboard_time": 1693881816,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356746,
+        "num": 301373,
+        "word": "突然就不想存钱了",
+        "onboard_time": 1693877074,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355146,
+        "num": 298808,
+        "word": "突然看到大学生的微信聊天界面",
+        "onboard_time": 1693882958,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337018,
+        "num": 297154,
+        "word": "成毅傅云深",
+        "onboard_time": 1693879114,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332569,
+        "num": 295730,
+        "word": "准备离职时突然找我谈辞退",
+        "onboard_time": 1693870234,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295693,
+        "num": 295693,
+        "word": "河北一市委书记上衣被P掉logo引猜测",
+        "onboard_time": 1693877554,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287781,
+        "num": 287781,
+        "word": "喝一杯酱香拿铁或赚9元",
+        "onboard_time": 1693877915,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 283207,
+        "num": 283207,
+        "word": "马立奥和况三喜有多同频",
+        "onboard_time": 1693881218,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264597,
+        "num": 264597,
+        "word": "巨蟹座永远不会奔谁而去",
+        "onboard_time": 1693873898,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 262801,
+        "num": 262801,
+        "word": "您的摄像机已经被狮子捡到",
+        "onboard_time": 1693842456,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 679778,
+        "num": 257783,
+        "word": "刘亦菲彭冠英吻戏",
+        "onboard_time": 1693881515,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236486,
+        "num": 236486,
+        "word": "爸妈吵架的尽头永远是我",
+        "onboard_time": 1693876835,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230986,
+        "num": 230986,
+        "word": "关闭朋友圈两年半后的变化",
+        "onboard_time": 1693872517,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228363,
+        "num": 228363,
+        "word": "玫瑰故事",
+        "onboard_time": 1693878514,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227686,
+        "num": 227686,
+        "word": "王心凌国风旗袍太美了",
+        "onboard_time": 1693870890,
+        "rank": 37,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 208182,
+        "num": 208182,
+        "word": "31岁男子常喝可乐奶茶长得像40多岁",
+        "onboard_time": 1693880369,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166967,
+        "num": 206458,
+        "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+        "onboard_time": 1693829855,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149825,
+        "num": 205829,
+        "word": "长得像史前生物的温柔巨兽",
+        "onboard_time": 1693882836,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148883,
+        "num": 205352,
+        "word": "王一博给三贵情史包了4场",
+        "onboard_time": 1693875338,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205266,
+        "num": 205266,
+        "word": "王心凌新歌rap",
+        "onboard_time": 1693883678,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146060,
+        "num": 205266,
+        "word": "陈梦3比1平野美宇",
+        "onboard_time": 1693882055,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138753,
+        "num": 205215,
+        "word": "乡村小学仅5名师生仍坚持升国旗唱国歌",
+        "onboard_time": 1693877735,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129750,
+        "num": 205177,
+        "word": "99公益日",
+        "onboard_time": 1693883797,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129280,
+        "num": 205149,
+        "word": "吃菌子产生幻觉的小猫咪",
+        "onboard_time": 1693883678,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129171,
+        "num": 205124,
+        "word": "重庆警方通报男子在医院持刀行凶",
+        "onboard_time": 1693868482,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119799,
+        "num": 205092,
+        "word": "180小伙想当演员被爸爸骗去学评弹",
+        "onboard_time": 1693875698,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118651,
+        "num": 205050,
+        "word": "孙颖莎3比0早田希娜",
+        "onboard_time": 1693878637,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#服贸会描绘低碳绿色的生活图景#"
+    }
+  }
+}
