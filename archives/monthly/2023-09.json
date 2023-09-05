@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693923353567,
+  "endTime": 1693924441402,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2959581,
-      "num": 1340268,
+      "num": 1391481,
       "word": "虽然是精神病但没关系",
       "onboard_time": 1693916078,
       "rank": 11,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1927782,
-      "num": 1115768,
+      "num": 1386154,
       "word": "药水哥消失4个月变这样了",
       "onboard_time": 1693917518,
       "rank": 9,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1693802024,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1363578,
+      "num": 1363578,
+      "word": "瑞幸加茅台 华尔街跪下来",
+      "onboard_time": 1693922679,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 1359114,
@@ -2571,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 728636,
+      "num": 381956,
+      "word": "听说右手中指戴戒指招财",
+      "onboard_time": 1693922023,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 727009,
       "num": 727009,
       "word": "北上广深全部认房不认贷",
@@ -2937,14 +2953,6 @@
       "onboard_time": 1693897956,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 665188,
-      "num": 381956,
-      "word": "听说右手中指戴戒指招财",
-      "onboard_time": 1693922023,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 663840,
@@ -3499,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 596259,
+      "num": 596259,
+      "word": "愿山河无恙 家国永安",
+      "onboard_time": 1693921902,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 594494,
       "num": 594494,
       "word": "张慧雯妆造好端庄",
@@ -3664,6 +3680,14 @@
       "word": "丧偶式恋爱",
       "onboard_time": 1693721314,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 563259,
+      "num": 367382,
+      "word": "原来眼镜布并不是擦眼镜的",
+      "onboard_time": 1693922023,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -4195,14 +4219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 509957,
-      "num": 509957,
-      "word": "愿山河无恙 家国永安",
-      "onboard_time": 1693921902,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509566,
       "num": 509566,
       "word": "受伤狍子闯入北京药王谷求救",
@@ -4376,14 +4392,6 @@
       "word": "大学生真的对钱没概念",
       "onboard_time": 1693832077,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 491417,
-      "num": 367382,
-      "word": "原来眼镜布并不是擦眼镜的",
-      "onboard_time": 1693922023,
-      "rank": 23,
       "category": "情感"
     },
     {
@@ -5899,6 +5907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368889,
+      "num": 368889,
+      "word": "福州暴雨",
+      "onboard_time": 1693919858,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368852,
       "num": 341349,
       "word": "盖章用力过猛导致公章碎了",
@@ -6001,14 +6017,6 @@
       "onboard_time": 1693573361,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358165,
-      "num": 358165,
-      "word": "瑞幸加茅台 华尔街跪下来",
-      "onboard_time": 1693922679,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 356425,
@@ -6587,14 +6595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320942,
-      "num": 320942,
-      "word": "福州暴雨",
-      "onboard_time": 1693919858,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319813,
       "num": 319813,
       "word": "虞书欣新娘珍珠眼妆",
@@ -7035,6 +7035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294532,
+      "num": 294532,
+      "word": "韩国流行的自助煮面火到上海了",
+      "onboard_time": 1693923825,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 293931,
       "num": 293931,
       "word": "许光汉帅的很稳定",
@@ -7049,6 +7057,14 @@
       "onboard_time": 1693576839,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292377,
+      "num": 292377,
+      "word": "于和伟竟然会回复评论了",
+      "onboard_time": 1693923707,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292364,
@@ -7107,6 +7123,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 290567,
+      "num": 425470,
+      "word": "学校的小床也有了妈妈的味道",
+      "onboard_time": 1693921059,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289613,
       "num": 289613,
       "word": "星空",
@@ -7161,6 +7185,14 @@
       "onboard_time": 1693655679,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287306,
+      "num": 287306,
+      "word": "地铁判官说到做到",
+      "onboard_time": 1693923400,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286227,
@@ -7657,6 +7689,14 @@
       "onboard_time": 1693658857,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262896,
+      "num": 262896,
+      "word": "杨汝晴给侯卓成盖章",
+      "onboard_time": 1693922980,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 262567,
@@ -8587,6 +8627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231458,
+      "num": 231458,
+      "word": "满江红韩国定档",
+      "onboard_time": 1693923282,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231393,
       "num": 231393,
       "word": "雷暴哮喘",
@@ -8625,6 +8673,14 @@
       "onboard_time": 1693846104,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229829,
+      "num": 229829,
+      "word": "殷郊抚琴",
+      "onboard_time": 1693924063,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 229825,
@@ -9099,14 +9155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213257,
-      "num": 213257,
-      "word": "杨汝晴给侯卓成盖章",
-      "onboard_time": 1693922980,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213022,
       "num": 213022,
       "word": "安乐传hi6暑期收视率TOP1",
@@ -9537,14 +9585,6 @@
       "onboard_time": 1693636171,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204370,
-      "num": 359002,
-      "word": "学校的小床也有了妈妈的味道",
-      "onboard_time": 1693921059,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204122,
@@ -10729,14 +10769,6 @@
       "onboard_time": 1693570179,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182503,
-      "num": 196789,
-      "word": "满江红韩国定档",
-      "onboard_time": 1693923282,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 182500,
@@ -12915,6 +12947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54948,
+      "num": 451005,
+      "word": "90后赝复师8年为千人修补残缺",
+      "onboard_time": 1693922503,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54914,
       "num": 422880,
       "word": "7旬奶奶用废弃木板手工复刻老房子",
@@ -13265,14 +13305,6 @@
       "onboard_time": 1693855994,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29188,
-      "num": 451005,
-      "word": "90后赝复师8年为千人修补残缺",
-      "onboard_time": 1693922503,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28091,
