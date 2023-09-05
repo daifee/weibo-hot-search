@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693895669131,
+  "endTime": 1693898143363,
   "band_list": [
     {
       "raw_hot": 3160252,
@@ -17,6 +17,14 @@
       "onboard_time": 1693882055,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2671752,
+      "num": 2671752,
+      "word": "papi酱气离婚的又气不离婚的",
+      "onboard_time": 1693896097,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2273177,
@@ -275,6 +283,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 781540,
+      "num": 781540,
+      "word": "上海迪士尼疯狂动物城园区",
+      "onboard_time": 1693893757,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 777250,
       "num": 777250,
       "word": "fx十四周年",
@@ -411,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558153,
-      "num": 558153,
-      "word": "上海迪士尼疯狂动物城园区",
-      "onboard_time": 1693893757,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 555964,
       "num": 393891,
       "word": "蔡文静薄薄一片腰",
@@ -433,6 +441,14 @@
       "onboard_time": 1693878756,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544579,
+      "num": 331823,
+      "word": "易烊千玺为空军招飞宣传",
+      "onboard_time": 1693896215,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 542568,
@@ -555,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434325,
+      "num": 320861,
+      "word": "取快递的方式已经进化成这样了",
+      "onboard_time": 1693896097,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 433192,
       "num": 433192,
       "word": "妻子双腿卡收割机丈夫紧抱大喊名字",
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378724,
+      "num": 378724,
+      "word": "电影一闪一闪亮星星杀青",
+      "onboard_time": 1693897716,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376027,
       "num": 376027,
       "word": "南风知我意混剪",
@@ -689,6 +721,14 @@
       "onboard_time": 1693869506,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343481,
+      "num": 343481,
+      "word": "地铁判官",
+      "onboard_time": 1693897115,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 341985,
@@ -723,6 +763,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 333610,
+      "num": 333610,
+      "word": "大的死鱼脸 小的死鱼眼",
+      "onboard_time": 1693897956,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 324951,
+      "num": 324951,
+      "word": "梦泪的婚礼邀请",
+      "onboard_time": 1693894236,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322007,
       "num": 322007,
       "word": "云之羽",
@@ -739,14 +795,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 320300,
-      "num": 320300,
-      "word": "梦泪的婚礼邀请",
-      "onboard_time": 1693894236,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 314294,
       "num": 314294,
       "word": "檀健次再跳孤独颂歌",
@@ -761,6 +809,14 @@
       "onboard_time": 1693831294,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306472,
+      "num": 306472,
+      "word": "粉丝称得知秀才被封后很高兴",
+      "onboard_time": 1693896457,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 304545,
@@ -833,6 +889,14 @@
       "onboard_time": 1693865775,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271699,
+      "num": 225571,
+      "word": "真实存在于南极冰层下的死亡冰柱",
+      "onboard_time": 1693896576,
+      "rank": 30,
+      "category": "自然"
     },
     {
       "raw_hot": 270480,
@@ -1099,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188039,
+      "num": 188039,
+      "word": "杨紫对粉丝大声说谢谢",
+      "onboard_time": 1693896875,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184297,
       "num": 184297,
       "word": "张杰演唱云之羽同名主题曲",
@@ -1195,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164849,
+      "num": 164849,
+      "word": "母亲看到当兵儿子出现先是大笑然后大哭",
+      "onboard_time": 1693894774,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 163421,
       "num": 163421,
       "word": "一个人是怎么慢慢废掉的",
@@ -1243,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158159,
-      "num": 158159,
-      "word": "母亲看到当兵儿子出现先是大笑然后大哭",
-      "onboard_time": 1693894774,
-      "rank": 42,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "骄阳伴我9分钟破1",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1693842994,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141045,
+      "num": 141045,
+      "word": "祖孙三代跨越70年成为同一大学校友",
+      "onboard_time": 1693897476,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 139237,
@@ -1489,6 +1569,14 @@
       "onboard_time": 1693848559,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41421,
+      "num": 417357,
+      "word": "小女孩卖废品给过生日的外公买奶茶",
+      "onboard_time": 1693897298,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29332,
