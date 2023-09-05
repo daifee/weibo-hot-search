@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693894891627,
+  "endTime": 1693895669131,
   "band_list": [
     {
       "raw_hot": 3160252,
@@ -65,6 +65,14 @@
       "onboard_time": 1693838678,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1768056,
+      "num": 1768056,
+      "word": "小时代5 封建时代",
+      "onboard_time": 1693894056,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1767592,
@@ -225,14 +233,6 @@
       "onboard_time": 1693872517,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 839937,
-      "num": 839937,
-      "word": "小时代5 封建时代",
-      "onboard_time": 1693894056,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 829349,
@@ -403,6 +403,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 563768,
+      "num": 563768,
+      "word": "血常规检查到底如何看",
+      "onboard_time": 1693893995,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558153,
+      "num": 558153,
+      "word": "上海迪士尼疯狂动物城园区",
+      "onboard_time": 1693893757,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 555964,
+      "num": 393891,
+      "word": "蔡文静薄薄一片腰",
+      "onboard_time": 1693892438,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 549678,
       "num": 549678,
       "word": "光明网评云之羽",
@@ -483,12 +507,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 466024,
-      "num": 393891,
-      "word": "蔡文静薄薄一片腰",
-      "onboard_time": 1693892438,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 458093,
+      "num": 458093,
+      "word": "又看见宋茜跳HotSummer了",
+      "onboard_time": 1693893156,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448949,
@@ -537,14 +561,6 @@
       "onboard_time": 1693862834,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432488,
-      "num": 432488,
-      "word": "又看见宋茜跳HotSummer了",
-      "onboard_time": 1693893156,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 430908,
@@ -667,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 353926,
-      "num": 353926,
-      "word": "上海迪士尼疯狂动物城园区",
-      "onboard_time": 1693893757,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 352902,
       "num": 352902,
       "word": "台风天气福州一消防车坠河",
@@ -729,6 +737,14 @@
       "onboard_time": 1693837481,
       "rank": 16,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 320300,
+      "num": 320300,
+      "word": "梦泪的婚礼邀请",
+      "onboard_time": 1693894236,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 314294,
@@ -809,14 +825,6 @@
       "onboard_time": 1693889322,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279301,
-      "num": 279301,
-      "word": "血常规检查到底如何看",
-      "onboard_time": 1693893995,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278045,
@@ -931,12 +939,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233279,
-      "num": 233279,
-      "word": "梦泪的婚礼邀请",
-      "onboard_time": 1693894236,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 233828,
+      "num": 233828,
+      "word": "尾鱼女主没一个好惹的",
+      "onboard_time": 1693893995,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 230023,
@@ -1011,14 +1019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206699,
-      "num": 206699,
-      "word": "尾鱼女主没一个好惹的",
-      "onboard_time": 1693893995,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205266,
       "num": 205266,
       "word": "王心凌新歌rap",
@@ -1051,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201185,
+      "num": 201185,
+      "word": "文韬双buff的压迫感",
+      "onboard_time": 1693894357,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197317,
       "num": 197317,
       "word": "齐溪呼吁女孩们别做恋爱脑",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1693859772,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 192415,
-      "num": 192415,
-      "word": "文韬双buff的压迫感",
-      "onboard_time": 1693894357,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 192310,
@@ -1187,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165360,
+      "num": 165360,
+      "word": "姬发控制马的起扬动作可遇不可求",
+      "onboard_time": 1693894894,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163421,
       "num": 163421,
       "word": "一个人是怎么慢慢废掉的",
@@ -1235,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158159,
+      "num": 158159,
+      "word": "母亲看到当兵儿子出现先是大笑然后大哭",
+      "onboard_time": 1693894774,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "骄阳伴我9分钟破1",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1693827514,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142786,
+      "num": 142786,
+      "word": "王子奇的目标是胡歌和黄景瑜",
+      "onboard_time": 1693895434,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 142160,
@@ -1379,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92766,
+      "num": 474665,
+      "word": "孙女回家得知奶奶受伤心疼大哭",
+      "onboard_time": 1693893698,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89119,
       "num": 112105,
       "word": "你以为的瑞幸vs实际的瑞幸",
@@ -1419,28 +1451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64668,
-      "num": 64668,
-      "word": "云为衫宫远徵有感情线",
-      "onboard_time": 1693830636,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 64366,
-      "num": 1346003,
+      "raw_hot": 67296,
+      "num": 1452498,
       "word": "杭州亚运会逛玩指南",
       "onboard_time": 1693891837,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57563,
-      "num": 456346,
-      "word": "孙女回家得知奶奶受伤心疼大哭",
-      "onboard_time": 1693893698,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 64668,
+      "num": 64668,
+      "word": "云为衫宫远徵有感情线",
+      "onboard_time": 1693830636,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 56389,
