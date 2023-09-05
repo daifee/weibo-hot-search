@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693938070630,
+  "endTime": 1693938847903,
   "band_list": [
     {
       "raw_hot": 1492866,
@@ -467,12 +467,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32640,
-      "num": 34205,
+      "raw_hot": 38537,
+      "num": 38537,
       "word": "如果你喜欢那就大大方方",
       "onboard_time": 1693937539,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 32467,
+      "num": 32467,
+      "word": "酱香拿铁",
+      "onboard_time": 1693796736,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 28300,
+      "num": 31904,
+      "word": "福州24小时降雨量特大暴雨量级",
+      "onboard_time": 1693938796,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5595,
