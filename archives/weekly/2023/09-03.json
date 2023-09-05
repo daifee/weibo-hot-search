@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693938847903,
+  "endTime": 1693941206186,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -7931,6 +7931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41716,
+      "num": 41716,
+      "word": "福州24小时降雨量特大暴雨量级",
+      "onboard_time": 1693938796,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -7995,20 +8003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30014,
+      "num": 30014,
+      "word": "当事人回应怒砸10杯酱香拿铁",
+      "onboard_time": 1693938554,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29332,
       "num": 23915,
       "word": "人在尴尬的时候就会假装很忙",
       "onboard_time": 1693855994,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28300,
-      "num": 31904,
-      "word": "福州24小时降雨量特大暴雨量级",
-      "onboard_time": 1693938796,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27493,
@@ -8049,6 +8057,14 @@
       "onboard_time": 1693770014,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22133,
+      "num": 28056,
+      "word": "瑞幸回应市监局询问酱香拿铁配料",
+      "onboard_time": 1693938196,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21233,
