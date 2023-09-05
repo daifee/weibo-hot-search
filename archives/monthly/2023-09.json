@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693902858678,
+  "endTime": 1693905404333,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -313,6 +313,14 @@
       "onboard_time": 1693796676,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2345927,
+      "num": 2345927,
+      "word": "为什么卤味三巨头卖不动了",
+      "onboard_time": 1693900596,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2308482,
@@ -1499,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 987054,
+      "num": 390394,
+      "word": "欧阳娜娜变化",
+      "onboard_time": 1693904079,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 986951,
       "num": 256552,
       "word": "刘亦菲林一演情侣",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1693835380,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 954485,
-      "num": 954485,
-      "word": "为什么卤味三巨头卖不动了",
-      "onboard_time": 1693900596,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 953646,
@@ -2027,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810310,
+      "num": 445113,
+      "word": "陈哲远一怒之下怒了一下",
+      "onboard_time": 1693902218,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809450,
       "num": 809450,
       "word": "何运晨带5本民法典录offer5",
@@ -2371,6 +2387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 734332,
+      "num": 398540,
+      "word": "不要再乱买便宜纸巾了",
+      "onboard_time": 1693901497,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 733115,
       "num": 733115,
       "word": "网传女子治牙发生纠纷抹了医生脖子",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1693661562,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707742,
-      "num": 398540,
-      "word": "不要再乱买便宜纸巾了",
-      "onboard_time": 1693901497,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 706329,
@@ -2865,6 +2881,14 @@
       "onboard_time": 1693893757,
       "rank": 9,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 644938,
+      "num": 644938,
+      "word": "秀才曾在直播时高喊给我你的医药费",
+      "onboard_time": 1693900957,
+      "rank": 21,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 643239,
@@ -3779,14 +3803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 529721,
-      "num": 529721,
-      "word": "秀才曾在直播时高喊给我你的医药费",
-      "onboard_time": 1693900957,
-      "rank": 21,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 527233,
       "num": 326833,
       "word": "男子中千万大奖带老婆打飞的兑奖",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1693572637,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517169,
+      "num": 517169,
+      "word": "傅首尔说和老刘的爱情降到0了",
+      "onboard_time": 1693902936,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 516951,
@@ -4001,6 +4025,14 @@
       "onboard_time": 1693534357,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501388,
+      "num": 385570,
+      "word": "卢昱晓 舒服的长相",
+      "onboard_time": 1693903896,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 499529,
@@ -4611,14 +4643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 445113,
-      "num": 445113,
-      "word": "陈哲远一怒之下怒了一下",
-      "onboard_time": 1693902218,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443154,
       "num": 443154,
       "word": "商黎光被查",
@@ -5227,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390861,
+      "num": 390861,
+      "word": "没开玩笑新疆真的产海鲜",
+      "onboard_time": 1693902517,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390581,
       "num": 390581,
       "word": "王源留学日记更新",
@@ -5273,6 +5305,14 @@
       "onboard_time": 1693732175,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384792,
+      "num": 384792,
+      "word": "华晨宇工作室呼吁文明观演",
+      "onboard_time": 1693902278,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 384322,
@@ -5843,6 +5883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341319,
+      "num": 341319,
+      "word": "我愿意嫁入宫门服从调剂",
+      "onboard_time": 1693904738,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340623,
       "num": 340623,
       "word": "逃出大英博物馆细节",
@@ -6345,6 +6393,14 @@
       "onboard_time": 1693618536,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308253,
+      "num": 308253,
+      "word": "王俊凯再唱奔跑的青春",
+      "onboard_time": 1693904619,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 307981,
@@ -7483,14 +7539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 252207,
-      "num": 252207,
-      "word": "华晨宇工作室呼吁文明观演",
-      "onboard_time": 1693902278,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 251756,
       "num": 251756,
       "word": "狼队好好复盘",
@@ -7537,6 +7585,14 @@
       "onboard_time": 1693573959,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249982,
+      "num": 388260,
+      "word": "警方一举打掉缅北诈骗窝点11个",
+      "onboard_time": 1693899338,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249975,
@@ -7665,6 +7721,14 @@
       "onboard_time": 1693749044,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246003,
+      "num": 246003,
+      "word": "男子返乡创业免费给70岁以上老人做早餐",
+      "onboard_time": 1693904256,
+      "rank": 32,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 245560,
@@ -8131,14 +8195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226001,
-      "num": 233828,
-      "word": "警方一举打掉缅北诈骗窝点11个",
-      "onboard_time": 1693899338,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225896,
       "num": 225896,
       "word": "官方回应医生值班时被患者家属捅死",
@@ -8281,6 +8337,14 @@
       "onboard_time": 1693698927,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221940,
+      "num": 460796,
+      "word": "儿子在妈妈再婚现场发言送祝福",
+      "onboard_time": 1693900896,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221567,
@@ -8475,14 +8539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215280,
-      "num": 460796,
-      "word": "儿子在妈妈再婚现场发言送祝福",
-      "onboard_time": 1693900896,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215000,
       "num": 215000,
       "word": "被孙怡介绍Melody笑到",
@@ -8523,6 +8579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212169,
+      "num": 212169,
+      "word": "陈哲远现身成都",
+      "onboard_time": 1693904435,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211937,
       "num": 211937,
       "word": "肖战送你一束光",
@@ -8553,14 +8617,6 @@
       "onboard_time": 1693726117,
       "rank": 39,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 211221,
-      "num": 211221,
-      "word": "没开玩笑新疆真的产海鲜",
-      "onboard_time": 1693902517,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211022,
@@ -8995,6 +9051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203346,
+      "num": 203346,
+      "word": "徐静雨请缨男篮主教练",
+      "onboard_time": 1693905037,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203274,
       "num": 205177,
       "word": "99公益日",
@@ -9113,6 +9177,14 @@
       "onboard_time": 1693534115,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200288,
+      "num": 200288,
+      "word": "王一博选择雷宇的故事",
+      "onboard_time": 1693903837,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 200215,
@@ -10291,6 +10363,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 175303,
+      "num": 387166,
+      "word": "南方的干vs北方的干",
+      "onboard_time": 1693903959,
+      "rank": 15,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 174890,
       "num": 174890,
       "word": "田曦薇敖瑞鹏的身高差",
@@ -10481,6 +10561,14 @@
       "onboard_time": 1693823315,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166717,
+      "num": 166717,
+      "word": "Angelababy草原走红毯",
+      "onboard_time": 1693905338,
+      "rank": 47,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 166245,
@@ -12360,6 +12448,14 @@
       "word": "北环大道",
       "onboard_time": 1693593199,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38009,
+      "num": 387994,
+      "word": "用一场橘子味的火烧云告别夏天",
+      "onboard_time": 1693904499,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

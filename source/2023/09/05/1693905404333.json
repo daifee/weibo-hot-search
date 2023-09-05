@@ -1,0 +1,410 @@
+{
+  "runTime": 1693905404333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2345927,
+        "num": 2345927,
+        "word": "为什么卤味三巨头卖不动了",
+        "onboard_time": 1693900596,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1560573,
+        "num": 1560573,
+        "word": "papi酱气离婚的又气不离婚的",
+        "onboard_time": 1693896097,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702523,
+        "num": 702523,
+        "word": "逃出大英博物馆第三集",
+        "onboard_time": 1693899517,
+        "rank": 2,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1297918,
+        "num": 687891,
+        "word": "果然毒唯只对真嫂子破防",
+        "onboard_time": 1693899577,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644938,
+        "num": 644938,
+        "word": "秀才曾在直播时高喊给我你的医药费",
+        "onboard_time": 1693900957,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 631678,
+        "num": 631678,
+        "word": "路过都觉得脏的程度",
+        "onboard_time": 1693899277,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558417,
+        "num": 558417,
+        "word": "小时代5 封建时代",
+        "onboard_time": 1693894056,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517169,
+        "num": 517169,
+        "word": "傅首尔说和老刘的爱情降到0了",
+        "onboard_time": 1693902936,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440278,
+        "num": 440278,
+        "word": "姆巴佩放弃奖金为巴黎节省1亿欧",
+        "onboard_time": 1693899277,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390861,
+        "num": 390861,
+        "word": "没开玩笑新疆真的产海鲜",
+        "onboard_time": 1693902517,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987054,
+        "num": 390394,
+        "word": "欧阳娜娜变化",
+        "onboard_time": 1693904079,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 810310,
+        "num": 389576,
+        "word": "陈哲远一怒之下怒了一下",
+        "onboard_time": 1693902218,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504783,
+        "num": 389296,
+        "word": "第一批00后已经开始离婚了",
+        "onboard_time": 1693877013,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249982,
+        "num": 388260,
+        "word": "警方一举打掉缅北诈骗窝点11个",
+        "onboard_time": 1693899338,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38009,
+        "num": 387994,
+        "word": "用一场橘子味的火烧云告别夏天",
+        "onboard_time": 1693904499,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175303,
+        "num": 387166,
+        "word": "南方的干vs北方的干",
+        "onboard_time": 1693903959,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 47152,
+        "num": 386477,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501388,
+        "num": 385570,
+        "word": "卢昱晓 舒服的长相",
+        "onboard_time": 1693903896,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 401923,
+        "num": 385129,
+        "word": "日本就中国暂停进口水产品向WTO提交文件",
+        "onboard_time": 1693882055,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384792,
+        "num": 384792,
+        "word": "华晨宇工作室呼吁文明观演",
+        "onboard_time": 1693902278,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 734332,
+        "num": 378583,
+        "word": "不要再乱买便宜纸巾了",
+        "onboard_time": 1693901497,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437032,
+        "num": 373209,
+        "word": "姑姑的钱算我的家庭资产吗",
+        "onboard_time": 1693899937,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345996,
+        "num": 345996,
+        "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
+        "onboard_time": 1693881876,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341319,
+        "num": 341319,
+        "word": "我愿意嫁入宫门服从调剂",
+        "onboard_time": 1693904738,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223944,
+        "num": 325160,
+        "word": "男子接住坠楼幼童2个月才被外人知晓",
+        "onboard_time": 1693888304,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 319884,
+        "num": 319884,
+        "word": "产后5年头发掉光还绝经了",
+        "onboard_time": 1693899577,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317264,
+        "num": 317264,
+        "word": "王睡睡张硕因婚闹至今未领证",
+        "onboard_time": 1693901497,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308253,
+        "num": 308253,
+        "word": "王俊凯再唱奔跑的青春",
+        "onboard_time": 1693904619,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287181,
+        "num": 287181,
+        "word": "孤注一掷进入中国影史票房TOP11",
+        "onboard_time": 1693899037,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273146,
+        "num": 273146,
+        "word": "千万别相信免费看手相",
+        "onboard_time": 1693901977,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271253,
+        "num": 271253,
+        "word": "范加尔暗示梅西拿世界杯是内定",
+        "onboard_time": 1693900119,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265729,
+        "num": 265729,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693905400,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246003,
+        "num": 246003,
+        "word": "男子返乡创业免费给70岁以上老人做早餐",
+        "onboard_time": 1693904256,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 240912,
+        "num": 240912,
+        "word": "易烊千玺为空军招飞宣传",
+        "onboard_time": 1693896215,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221940,
+        "num": 221940,
+        "word": "儿子在妈妈再婚现场发言送祝福",
+        "onboard_time": 1693900896,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212169,
+        "num": 212169,
+        "word": "陈哲远现身成都",
+        "onboard_time": 1693904435,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207735,
+        "num": 207735,
+        "word": "刘亦菲万茜演闺蜜",
+        "onboard_time": 1693902278,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203346,
+        "num": 203346,
+        "word": "徐静雨请缨男篮主教练",
+        "onboard_time": 1693905037,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200288,
+        "num": 200288,
+        "word": "王一博选择雷宇的故事",
+        "onboard_time": 1693903837,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195600,
+        "num": 195600,
+        "word": "霍建华的新剧状态",
+        "onboard_time": 1693892138,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194500,
+        "num": 194500,
+        "word": "酱香拿铁一日销售542万杯",
+        "onboard_time": 1693881275,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 185117,
+        "num": 185117,
+        "word": "542万杯酱香拿铁叠起来相当于95座珠峰",
+        "onboard_time": 1693898496,
+        "rank": 41,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 180788,
+        "num": 180788,
+        "word": "大的死鱼脸 小的死鱼眼",
+        "onboard_time": 1693897956,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178958,
+        "num": 178958,
+        "word": "上海迪士尼疯狂动物城园区",
+        "onboard_time": 1693893757,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 174992,
+        "num": 174992,
+        "word": "蔡文静薄薄一片腰",
+        "onboard_time": 1693892438,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171139,
+        "num": 171139,
+        "word": "周迅小肉手",
+        "onboard_time": 1693901555,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171095,
+        "num": 171095,
+        "word": "石凯半夜2点坐起来也想不明白",
+        "onboard_time": 1693901433,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166717,
+        "num": 166717,
+        "word": "Angelababy草原走红毯",
+        "onboard_time": 1693905338,
+        "rank": 47,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 161986,
+        "num": 161986,
+        "word": "62岁北京女粉丝打赏秀才52万只追回数万",
+        "onboard_time": 1693887039,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 158560,
+        "num": 158560,
+        "word": "这种人民币千万不要花",
+        "onboard_time": 1693887280,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#服贸会描绘低碳绿色的生活图景#"
+    }
+  }
+}
