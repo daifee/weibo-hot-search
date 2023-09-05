@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693931821873,
+  "endTime": 1693934112939,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -1000,6 +1000,14 @@
       "word": "幼升小三大件花费近3000元",
       "onboard_time": 1693535859,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1414653,
+      "num": 1414653,
+      "word": "地铁判官找到了",
+      "onboard_time": 1693930831,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2377,14 +2385,6 @@
       "onboard_time": 1693652257,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 785256,
-      "num": 785256,
-      "word": "地铁判官找到了",
-      "onboard_time": 1693930831,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 781540,
@@ -12083,6 +12083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142435,
+      "num": 119341,
+      "word": "杭州有咖啡店生意少一半",
+      "onboard_time": 1693932028,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 142160,
       "num": 142160,
       "word": "盛阳在这儿等你呢",
@@ -12368,6 +12376,14 @@
       "word": "上官浅宫尚角",
       "onboard_time": 1693761203,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126991,
+      "num": 126991,
+      "word": "云之羽包含了很多中国传统元素",
+      "onboard_time": 1693932266,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -13091,6 +13107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63987,
+      "num": 63987,
+      "word": "盛爹 手势谐音梗鼻祖",
+      "onboard_time": 1693932445,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 61883,
       "num": 61883,
       "word": "看奥本海默仿佛参观一场人类的葬礼",
@@ -13137,6 +13161,14 @@
       "onboard_time": 1693558839,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54996,
+      "num": 59666,
+      "word": "我与华晨宇的十年记忆",
+      "onboard_time": 1693933884,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 54948,
