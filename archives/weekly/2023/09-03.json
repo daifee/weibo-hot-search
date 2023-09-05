@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693941206186,
+  "endTime": 1693942415742,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -7931,7 +7931,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 41716,
+      "raw_hot": 42588,
       "num": 41716,
       "word": "福州24小时降雨量特大暴雨量级",
       "onboard_time": 1693938796,
@@ -8065,6 +8065,14 @@
       "onboard_time": 1693938196,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21846,
+      "num": 21846,
+      "word": "孙怡好会共情王睡睡",
+      "onboard_time": 1693941913,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 21233,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693941206186,
+  "endTime": 1693942415742,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -13395,20 +13395,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42588,
+      "num": 41716,
+      "word": "福州24小时降雨量特大暴雨量级",
+      "onboard_time": 1693938796,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42131,
       "num": 1152505,
       "word": "亚运会媒体中心可同时看九场比赛",
       "onboard_time": 1693581462,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 41716,
-      "num": 41716,
-      "word": "福州24小时降雨量特大暴雨量级",
-      "onboard_time": 1693938796,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41561,
@@ -13673,6 +13673,14 @@
       "onboard_time": 1693938196,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21846,
+      "num": 21846,
+      "word": "孙怡好会共情王睡睡",
+      "onboard_time": 1693941913,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 21233,
