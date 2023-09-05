@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693920048102,
+  "endTime": 1693920839964,
   "band_list": [
     {
       "raw_hot": 3794387,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2896653,
+      "num": 1340268,
+      "word": "虽然是精神病但没关系",
+      "onboard_time": 1693916078,
+      "rank": 11,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 2671752,
       "num": 2671752,
       "word": "papi酱气离婚的又气不离婚的",
       "onboard_time": 1693896097,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2570876,
-      "num": 1340268,
-      "word": "虽然是精神病但没关系",
-      "onboard_time": 1693916078,
-      "rank": 11,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 2345927,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1927782,
+      "num": 1052754,
+      "word": "药水哥消失4个月变这样了",
+      "onboard_time": 1693917518,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1926414,
       "num": 1094795,
       "word": "果然毒唯只对真嫂子破防",
@@ -113,14 +121,6 @@
       "onboard_time": 1693838678,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1835068,
-      "num": 1049359,
-      "word": "药水哥消失4个月变这样了",
-      "onboard_time": 1693917518,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 1768056,
@@ -281,6 +281,14 @@
       "onboard_time": 1693915959,
       "rank": 10,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1010318,
+      "num": 574059,
+      "word": "我爸把我的化妆品全摔碎了",
+      "onboard_time": 1693918956,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 997746,
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 769323,
-      "num": 574059,
-      "word": "我爸把我的化妆品全摔碎了",
-      "onboard_time": 1693918956,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 765578,
       "num": 765578,
       "word": "没想到现在取快递这么高级了",
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624637,
+      "num": 624637,
+      "word": "英国伯明翰市政府宣布破产",
+      "onboard_time": 1693917216,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621724,
       "num": 621724,
       "word": "日本6分钟两次4级以上地震",
@@ -731,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 546901,
+      "num": 546901,
+      "word": "肖战剧里的画竟然都是自己画的",
+      "onboard_time": 1693920221,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544579,
       "num": 394745,
       "word": "易烊千玺为空军招飞宣传",
@@ -779,14 +795,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 532988,
-      "num": 532988,
-      "word": "英国伯明翰市政府宣布破产",
-      "onboard_time": 1693917216,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532273,
       "num": 532273,
       "word": "傅首尔说和老刘的爱情降到0了",
@@ -809,6 +817,22 @@
       "onboard_time": 1693822897,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 523659,
+      "num": 523659,
+      "word": "徐海乔公主抱公主",
+      "onboard_time": 1693918836,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 520372,
+      "num": 520372,
+      "word": "地铁判官解说",
+      "onboard_time": 1693915959,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519032,
@@ -995,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434020,
-      "num": 434020,
-      "word": "地铁判官解说",
-      "onboard_time": 1693915959,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433192,
       "num": 433192,
       "word": "妻子双腿卡收割机丈夫紧抱大喊名字",
@@ -1163,14 +1179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377926,
-      "num": 377926,
-      "word": "徐海乔公主抱公主",
-      "onboard_time": 1693918836,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376027,
       "num": 376027,
       "word": "南风知我意混剪",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1693839520,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320942,
+      "num": 320942,
+      "word": "福州暴雨",
+      "onboard_time": 1693919858,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320784,
@@ -1555,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252654,
+      "num": 252654,
+      "word": "如果给你做手术的是女外科医生",
+      "onboard_time": 1693919500,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249982,
       "num": 454923,
       "word": "警方一举打掉缅北诈骗窝点11个",
@@ -1676,7 +1700,7 @@
     },
     {
       "raw_hot": 231605,
-      "num": 509867,
+      "num": 520693,
       "word": "郑州三孩补贴1.5万",
       "onboard_time": 1693909117,
       "rank": 39,
@@ -1819,12 +1843,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 204152,
+      "num": 204152,
+      "word": "宫子羽叫云为衫云云",
+      "onboard_time": 1693920821,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204048,
       "num": 204048,
       "word": "一闪一闪亮星星直播",
       "onboard_time": 1693913376,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203370,
+      "num": 203370,
+      "word": "来姨妈前有哪些奇怪的生理反应",
+      "onboard_time": 1693920701,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 203342,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1693894357,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200589,
+      "num": 200589,
+      "word": "无畏首张专辑无畏",
+      "onboard_time": 1693920458,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 200288,
@@ -1915,14 +1963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190143,
-      "num": 190143,
-      "word": "福州暴雨",
-      "onboard_time": 1693919858,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189445,
       "num": 195910,
       "word": "陈幸同3比0伊藤美诚",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1693915598,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185076,
-      "num": 185076,
-      "word": "如果给你做手术的是女外科医生",
-      "onboard_time": 1693919500,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 184297,
@@ -2344,6 +2376,14 @@
       "word": "看到衫羽欲来这段想到长生花",
       "onboard_time": 1693841436,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123382,
+      "num": 198102,
+      "word": "骄阳伴我微博开分8.6",
+      "onboard_time": 1693920821,
+      "rank": 49,
       "category": "影视"
     },
     {
