@@ -1,0 +1,410 @@
+{
+  "runTime": 1693892034364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2906210,
+        "num": 2906210,
+        "word": "日本就中国暂停进口水产品向WTO提交文件",
+        "onboard_time": 1693882055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431926,
+        "num": 1431926,
+        "word": "刘亦菲我真的吃醋了",
+        "onboard_time": 1693881395,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21774,
+        "num": 1346003,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333818,
+        "num": 1333818,
+        "word": "62岁北京女粉丝打赏秀才52万只追回数万",
+        "onboard_time": 1693887039,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1269622,
+        "num": 1269622,
+        "word": "费翔 那你能原谅我吗",
+        "onboard_time": 1693890101,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1057627,
+        "num": 1057627,
+        "word": "瑞幸给员工发红包",
+        "onboard_time": 1693888904,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 796875,
+        "num": 796875,
+        "word": "这种人民币千万不要花",
+        "onboard_time": 1693887280,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777250,
+        "num": 777250,
+        "word": "fx十四周年",
+        "onboard_time": 1693890939,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766651,
+        "num": 766651,
+        "word": "酱香拿铁一日销售542万杯",
+        "onboard_time": 1693881275,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 710810,
+        "num": 710810,
+        "word": "男子接住坠楼幼童2个月才被外人知晓",
+        "onboard_time": 1693888304,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1719926,
+        "num": 686199,
+        "word": "第一批00后已经开始离婚了",
+        "onboard_time": 1693877013,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814805,
+        "num": 667500,
+        "word": "林更新新剧演刘亦菲前夫",
+        "onboard_time": 1693889922,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 558316,
+        "num": 558316,
+        "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
+        "onboard_time": 1693881876,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554364,
+        "num": 554364,
+        "word": "赵丽颖中式风格时尚大片",
+        "onboard_time": 1693888965,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56389,
+        "num": 516624,
+        "word": "小伙9年走50城为万名老人免费照相",
+        "onboard_time": 1693890101,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502129,
+        "num": 502129,
+        "word": "我来接我未过门的妻子怎么了",
+        "onboard_time": 1693878873,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472230,
+        "num": 472230,
+        "word": "他花8年拍下深海珍稀生物",
+        "onboard_time": 1693888424,
+        "rank": 16,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 420001,
+        "num": 420001,
+        "word": "华西村村民称账面百万财富成空头支票",
+        "onboard_time": 1693890401,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 413358,
+        "num": 413358,
+        "word": "茅台巧克力即将上线",
+        "onboard_time": 1693875217,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 399215,
+        "num": 399215,
+        "word": "张小斐央视采访说自己是东北四川人",
+        "onboard_time": 1693891896,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615824,
+        "num": 399128,
+        "word": "妻子婚前隐瞒患癌丈夫诉离婚被驳",
+        "onboard_time": 1693886503,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399009,
+        "num": 399009,
+        "word": "原来睡觉真的很有用",
+        "onboard_time": 1693870234,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362260,
+        "num": 362260,
+        "word": "肖战新剧送走前夫哥又来情敌哥",
+        "onboard_time": 1693890939,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343665,
+        "num": 343665,
+        "word": "云为衫就是最顶级的猎手",
+        "onboard_time": 1693886321,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312678,
+        "num": 312678,
+        "word": "对月薪过万有误解",
+        "onboard_time": 1693881876,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343558,
+        "num": 311731,
+        "word": "云之羽金靖",
+        "onboard_time": 1693890939,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310395,
+        "num": 310395,
+        "word": "突然就不想存钱了",
+        "onboard_time": 1693877074,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306562,
+        "num": 306562,
+        "word": "河北一市委书记上衣被P掉logo引猜测",
+        "onboard_time": 1693877554,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268448,
+        "num": 268448,
+        "word": "卢昱晓丞磊自拍合照",
+        "onboard_time": 1693886860,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257889,
+        "num": 257889,
+        "word": "黄亦玫 都是姐的过客",
+        "onboard_time": 1693891775,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253751,
+        "num": 253751,
+        "word": "准备离职时突然找我谈辞退",
+        "onboard_time": 1693870234,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247472,
+        "num": 247472,
+        "word": "宫二先生和上官小姐",
+        "onboard_time": 1693878093,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222603,
+        "num": 222603,
+        "word": "日本6分钟两次4级以上地震",
+        "onboard_time": 1693891717,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217134,
+        "num": 217134,
+        "word": "森林进化论",
+        "onboard_time": 1693889322,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202982,
+        "num": 202982,
+        "word": "吃菌子产生幻觉的小猫咪",
+        "onboard_time": 1693883678,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201464,
+        "num": 201464,
+        "word": "东北7元三个肉菜的盒饭",
+        "onboard_time": 1693884814,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196701,
+        "num": 196701,
+        "word": "理解诺兰成为诺兰",
+        "onboard_time": 1693877495,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193728,
+        "num": 193728,
+        "word": "广东男篮官宣双外援",
+        "onboard_time": 1693886561,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186263,
+        "num": 186263,
+        "word": "谁偷袭了卤味三巨头",
+        "onboard_time": 1693891417,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 184592,
+        "num": 184592,
+        "word": "入境船舶上发现1万余只蟑螂",
+        "onboard_time": 1693881816,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179989,
+        "num": 179989,
+        "word": "16岁女孩绑钢筋获全国二等奖",
+        "onboard_time": 1693886021,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178724,
+        "num": 178724,
+        "word": "烤肉店回应谢绝日本人进入",
+        "onboard_time": 1693872275,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176875,
+        "num": 176875,
+        "word": "关闭朋友圈两年半后的变化",
+        "onboard_time": 1693872517,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172420,
+        "num": 172420,
+        "word": "韩东君蔡文静装腔浴室吻",
+        "onboard_time": 1693888061,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167371,
+        "num": 167371,
+        "word": "喝一杯酱香拿铁或赚9元",
+        "onboard_time": 1693877915,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 162964,
+        "num": 162964,
+        "word": "巨蟹座永远不会奔谁而去",
+        "onboard_time": 1693873898,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 18202,
+        "num": 161533,
+        "word": "沉浸式感受科技感拉满的服贸会",
+        "onboard_time": 1693891657,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160663,
+        "num": 160663,
+        "word": "成毅傅云深",
+        "onboard_time": 1693879114,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149222,
+        "num": 160657,
+        "word": "爸妈吵架的尽头永远是我",
+        "onboard_time": 1693876835,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137477,
+        "num": 160645,
+        "word": "杨紫许凯承欢记吻戏路透",
+        "onboard_time": 1693882055,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#服贸会描绘低碳绿色的生活图景#"
+    }
+  }
+}
