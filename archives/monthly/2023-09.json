@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693920839964,
+  "endTime": 1693923353567,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -187,20 +187,20 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 2959581,
+      "num": 1340268,
+      "word": "虽然是精神病但没关系",
+      "onboard_time": 1693916078,
+      "rank": 11,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 2906210,
       "num": 2906210,
       "word": "日本就中国暂停进口水产品向WTO提交文件",
       "onboard_time": 1693882055,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2896653,
-      "num": 1340268,
-      "word": "虽然是精神病但没关系",
-      "onboard_time": 1693916078,
-      "rank": 11,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 2851776,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1927782,
-      "num": 1052754,
+      "num": 1115768,
       "word": "药水哥消失4个月变这样了",
       "onboard_time": 1693917518,
       "rank": 9,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1693740043,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1104499,
+      "num": 1104499,
+      "word": "肖战剧里的画竟然都是自己画的",
+      "onboard_time": 1693920221,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1103709,
@@ -2931,6 +2939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665188,
+      "num": 381956,
+      "word": "听说右手中指戴戒指招财",
+      "onboard_time": 1693922023,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 663840,
       "num": 663840,
       "word": "张新成王玉雯新剧舍不得星星",
@@ -3691,6 +3707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557110,
+      "num": 376436,
+      "word": "来姨妈前有哪些奇怪的生理反应",
+      "onboard_time": 1693920701,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556024,
       "num": 556024,
       "word": "余佳恩连续工作22小时进急诊",
@@ -3763,6 +3787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 552626,
+      "num": 552626,
+      "word": "逃出大英博物馆",
+      "onboard_time": 1693920882,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550893,
       "num": 489586,
       "word": "骄阳伴我片尾",
@@ -3793,14 +3825,6 @@
       "onboard_time": 1693641214,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 546901,
-      "num": 546901,
-      "word": "肖战剧里的画竟然都是自己画的",
-      "onboard_time": 1693920221,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 546212,
@@ -4171,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509957,
+      "num": 509957,
+      "word": "愿山河无恙 家国永安",
+      "onboard_time": 1693921902,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509566,
       "num": 509566,
       "word": "受伤狍子闯入北京药王谷求救",
@@ -4344,6 +4376,14 @@
       "word": "大学生真的对钱没概念",
       "onboard_time": 1693832077,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 491417,
+      "num": 367382,
+      "word": "原来眼镜布并不是擦眼镜的",
+      "onboard_time": 1693922023,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -5155,6 +5195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 423134,
+      "num": 423134,
+      "word": "骄阳伴我微博开分8.6",
+      "onboard_time": 1693920821,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423064,
       "num": 423064,
       "word": "骄阳伴我 血压飙升的职场",
@@ -5953,6 +6001,14 @@
       "onboard_time": 1693573361,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358165,
+      "num": 358165,
+      "word": "瑞幸加茅台 华尔街跪下来",
+      "onboard_time": 1693922679,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 356425,
@@ -7211,6 +7267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281824,
+      "num": 281824,
+      "word": "云之羽小时代5海报",
+      "onboard_time": 1693921598,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281367,
       "num": 281367,
       "word": "中餐厅",
@@ -7803,6 +7867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257402,
+      "num": 257402,
+      "word": "如果给你做手术的是女外科医生",
+      "onboard_time": 1693919500,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257083,
       "num": 257083,
       "word": "我发现我不是讨厌小孩",
@@ -7905,14 +7977,6 @@
       "onboard_time": 1693535136,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252654,
-      "num": 252654,
-      "word": "如果给你做手术的是女外科医生",
-      "onboard_time": 1693919500,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 252380,
@@ -8096,6 +8160,14 @@
       "word": "韩东君蔡文静装腔浴室吻",
       "onboard_time": 1693888061,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247122,
+      "num": 247122,
+      "word": "宫子羽叫云为衫云云",
+      "onboard_time": 1693920821,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -9003,6 +9075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214926,
+      "num": 214926,
+      "word": "无畏首张专辑无畏",
+      "onboard_time": 1693920458,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214689,
       "num": 214689,
       "word": "魏哲鸣披荆斩棘repo只有一个字",
@@ -9017,6 +9097,14 @@
       "onboard_time": 1693568856,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213257,
+      "num": 213257,
+      "word": "杨汝晴给侯卓成盖章",
+      "onboard_time": 1693922980,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 213022,
@@ -9451,12 +9539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204152,
-      "num": 204152,
-      "word": "宫子羽叫云为衫云云",
-      "onboard_time": 1693920821,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 204370,
+      "num": 359002,
+      "word": "学校的小床也有了妈妈的味道",
+      "onboard_time": 1693921059,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204122,
@@ -9521,14 +9609,6 @@
       "onboard_time": 1693523967,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203370,
-      "num": 203370,
-      "word": "来姨妈前有哪些奇怪的生理反应",
-      "onboard_time": 1693920701,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 203342,
@@ -9657,14 +9737,6 @@
       "onboard_time": 1693534115,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200589,
-      "num": 200589,
-      "word": "无畏首张专辑无畏",
-      "onboard_time": 1693920458,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 200288,
@@ -10657,6 +10729,14 @@
       "onboard_time": 1693570179,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182503,
+      "num": 196789,
+      "word": "满江红韩国定档",
+      "onboard_time": 1693923282,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 182500,
@@ -12123,14 +12203,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 123382,
-      "num": 198102,
-      "word": "骄阳伴我微博开分8.6",
-      "onboard_time": 1693920821,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 123262,
       "num": 517998,
       "word": "沈腾认真脸",
@@ -13193,6 +13265,14 @@
       "onboard_time": 1693855994,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29188,
+      "num": 451005,
+      "word": "90后赝复师8年为千人修补残缺",
+      "onboard_time": 1693922503,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28091,
