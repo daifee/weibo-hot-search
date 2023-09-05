@@ -1,0 +1,410 @@
+{
+  "runTime": 1693894891627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2779870,
+        "num": 2779870,
+        "word": "日本就中国暂停进口水产品向WTO提交文件",
+        "onboard_time": 1693882055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1449726,
+        "num": 1449726,
+        "word": "这种人民币千万不要花",
+        "onboard_time": 1693887280,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64366,
+        "num": 1011661,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947048,
+        "num": 947048,
+        "word": "62岁北京女粉丝打赏秀才52万只追回数万",
+        "onboard_time": 1693887039,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 874210,
+        "num": 874210,
+        "word": "刘亦菲我真的吃醋了",
+        "onboard_time": 1693881395,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 839937,
+        "num": 839937,
+        "word": "小时代5 封建时代",
+        "onboard_time": 1693894056,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 693341,
+        "num": 693341,
+        "word": "霍建华的新剧状态",
+        "onboard_time": 1693892138,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 677925,
+        "num": 677925,
+        "word": "费翔 那你能原谅我吗",
+        "onboard_time": 1693890101,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 657232,
+        "num": 657232,
+        "word": "瑞幸给员工发红包",
+        "onboard_time": 1693888904,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 646831,
+        "num": 646831,
+        "word": "赵丽颖黑粉被强执3万",
+        "onboard_time": 1693893757,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1063298,
+        "num": 642936,
+        "word": "第一批00后已经开始离婚了",
+        "onboard_time": 1693877013,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621724,
+        "num": 621724,
+        "word": "日本6分钟两次4级以上地震",
+        "onboard_time": 1693891717,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507066,
+        "num": 507066,
+        "word": "酱香拿铁一日销售542万杯",
+        "onboard_time": 1693881275,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 492705,
+        "num": 492705,
+        "word": "林更新新剧演刘亦菲前夫",
+        "onboard_time": 1693889922,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57563,
+        "num": 456346,
+        "word": "孙女回家得知奶奶受伤心疼大哭",
+        "onboard_time": 1693893698,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452700,
+        "num": 452700,
+        "word": "男子接住坠楼幼童2个月才被外人知晓",
+        "onboard_time": 1693888304,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 435801,
+        "num": 435801,
+        "word": "fx十四周年",
+        "onboard_time": 1693890939,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432488,
+        "num": 432488,
+        "word": "又看见宋茜跳HotSummer了",
+        "onboard_time": 1693893156,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417560,
+        "num": 417560,
+        "word": "云之羽金靖",
+        "onboard_time": 1693890939,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394885,
+        "num": 394885,
+        "word": "张小斐央视采访说自己是东北四川人",
+        "onboard_time": 1693891896,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466024,
+        "num": 393891,
+        "word": "蔡文静薄薄一片腰",
+        "onboard_time": 1693892438,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465436,
+        "num": 392948,
+        "word": "对月薪过万有误解",
+        "onboard_time": 1693881876,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385114,
+        "num": 385114,
+        "word": "我来接我未过门的妻子怎么了",
+        "onboard_time": 1693878873,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358669,
+        "num": 358669,
+        "word": "他花8年拍下深海珍稀生物",
+        "onboard_time": 1693888424,
+        "rank": 23,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 353926,
+        "num": 353926,
+        "word": "上海迪士尼疯狂动物城园区",
+        "onboard_time": 1693893757,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 300961,
+        "num": 300961,
+        "word": "肖战新剧送走前夫哥又来情敌哥",
+        "onboard_time": 1693890939,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297707,
+        "num": 297707,
+        "word": "华西村村民称账面百万财富成空头支票",
+        "onboard_time": 1693890401,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 290783,
+        "num": 290783,
+        "word": "超级小桀复播",
+        "onboard_time": 1693892256,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 288704,
+        "num": 288704,
+        "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
+        "onboard_time": 1693881876,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279301,
+        "num": 279301,
+        "word": "血常规检查到底如何看",
+        "onboard_time": 1693893995,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277084,
+        "num": 277084,
+        "word": "赵丽颖中式风格时尚大片",
+        "onboard_time": 1693888965,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266236,
+        "num": 266236,
+        "word": "妻子婚前隐瞒患癌丈夫诉离婚被驳",
+        "onboard_time": 1693886503,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259054,
+        "num": 259054,
+        "word": "谁偷袭了卤味三巨头",
+        "onboard_time": 1693891417,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 258232,
+        "num": 258232,
+        "word": "原来睡觉真的很有用",
+        "onboard_time": 1693870234,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233279,
+        "num": 233279,
+        "word": "梦泪的婚礼邀请",
+        "onboard_time": 1693894236,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206699,
+        "num": 206699,
+        "word": "尾鱼女主没一个好惹的",
+        "onboard_time": 1693893995,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205746,
+        "num": 205746,
+        "word": "突然就不想存钱了",
+        "onboard_time": 1693877074,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197317,
+        "num": 197317,
+        "word": "齐溪呼吁女孩们别做恋爱脑",
+        "onboard_time": 1693892616,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192415,
+        "num": 192415,
+        "word": "文韬双buff的压迫感",
+        "onboard_time": 1693894357,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190321,
+        "num": 190321,
+        "word": "茅台巧克力即将上线",
+        "onboard_time": 1693875217,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184297,
+        "num": 184297,
+        "word": "张杰演唱云之羽同名主题曲",
+        "onboard_time": 1693892494,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180785,
+        "num": 180785,
+        "word": "河北一市委书记上衣被P掉logo引猜测",
+        "onboard_time": 1693877554,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179334,
+        "num": 179334,
+        "word": "婆罗门牛",
+        "onboard_time": 1693892977,
+        "rank": 42,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 177983,
+        "num": 177983,
+        "word": "黄亦玫 都是姐的过客",
+        "onboard_time": 1693891775,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168477,
+        "num": 168477,
+        "word": "看到流浪的小猫请给它拍张照片",
+        "onboard_time": 1693894117,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159002,
+        "num": 159002,
+        "word": "烤肉店回应谢绝日本人进入",
+        "onboard_time": 1693872275,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152365,
+        "num": 152365,
+        "word": "16岁女孩绑钢筋获全国二等奖",
+        "onboard_time": 1693886021,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151920,
+        "num": 151920,
+        "word": "森林进化论",
+        "onboard_time": 1693889322,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149851,
+        "num": 149851,
+        "word": "入境船舶上发现1万余只蟑螂",
+        "onboard_time": 1693881816,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141182,
+        "num": 141182,
+        "word": "卢昱晓丞磊自拍合照",
+        "onboard_time": 1693886860,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#共促世界经济复苏和增长#"
+    }
+  }
+}
