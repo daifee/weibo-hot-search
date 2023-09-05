@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693877362630,
+  "endTime": 1693879293794,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -169,6 +169,14 @@
       "onboard_time": 1693669961,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2144281,
+      "num": 2144281,
+      "word": "茅台巧克力即将上线",
+      "onboard_time": 1693875217,
+      "rank": 8,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 2114747,
@@ -369,14 +377,6 @@
       "onboard_time": 1693802385,
       "rank": 10,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 1572629,
-      "num": 1572629,
-      "word": "茅台巧克力即将上线",
-      "onboard_time": 1693875217,
-      "rank": 8,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1527573,
@@ -659,6 +659,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1032515,
+      "num": 292962,
+      "word": "第一批00后已经开始离婚了",
+      "onboard_time": 1693877013,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021326,
       "num": 1021326,
       "word": "日本投降的真正原因是什么",
@@ -737,6 +745,14 @@
       "onboard_time": 1693705172,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 964015,
+      "num": 964015,
+      "word": "8岁女孩去世成为大体老师",
+      "onboard_time": 1693875516,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 963865,
@@ -835,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 883540,
+      "num": 883540,
+      "word": "理解诺兰成为诺兰",
+      "onboard_time": 1693877495,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 876187,
       "num": 693983,
       "word": "陈都灵兰夫人",
@@ -873,14 +897,6 @@
       "onboard_time": 1693745324,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 857199,
-      "num": 857199,
-      "word": "8岁女孩去世成为大体老师",
-      "onboard_time": 1693875516,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 838474,
@@ -1707,12 +1723,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543189,
+      "num": 543189,
+      "word": "喝一杯酱香拿铁或赚9元",
+      "onboard_time": 1693877915,
+      "rank": 7,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 542568,
+      "num": 253323,
+      "word": "河北一市委书记上衣被P掉logo引猜测",
+      "onboard_time": 1693877554,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540866,
       "num": 540866,
       "word": "汪苏泷不分手的恋爱独唱失败",
       "onboard_time": 1693668103,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 540228,
+      "num": 248131,
+      "word": "宫二先生和上官小姐",
+      "onboard_time": 1693878093,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 538888,
@@ -1769,6 +1809,22 @@
       "onboard_time": 1693817796,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 525576,
+      "num": 525576,
+      "word": "烤肉店回应谢绝日本人进入",
+      "onboard_time": 1693872275,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524987,
+      "num": 240495,
+      "word": "突然就不想存钱了",
+      "onboard_time": 1693877074,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 518589,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1693741062,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 443154,
+      "num": 443154,
+      "word": "商黎光被查",
+      "onboard_time": 1693876895,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440874,
@@ -2459,14 +2523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351917,
-      "num": 332935,
-      "word": "烤肉店回应谢绝日本人进入",
-      "onboard_time": 1693872275,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351913,
       "num": 351913,
       "word": "瑞幸点单系统疑似卡崩",
@@ -2481,14 +2537,6 @@
       "onboard_time": 1693816896,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 350508,
-      "num": 279100,
-      "word": "第一批00后已经开始离婚了",
-      "onboard_time": 1693877013,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348288,
@@ -2859,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306572,
+      "num": 306572,
+      "word": "我来接我未过门的妻子怎么了",
+      "onboard_time": 1693878873,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305663,
       "num": 305663,
       "word": "义乌老板娘是懂做亚运生意的",
@@ -2961,6 +3017,14 @@
       "onboard_time": 1693712192,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295784,
+      "num": 295784,
+      "word": "光明网评云之羽",
+      "onboard_time": 1693878756,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 295437,
@@ -3155,6 +3219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271290,
+      "num": 296683,
+      "word": "景甜张凌赫四海重明杀青",
+      "onboard_time": 1693878756,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270870,
       "num": 270870,
       "word": "薛之谦多来东北好不好",
@@ -3281,14 +3353,6 @@
       "onboard_time": 1693671277,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260558,
-      "num": 260558,
-      "word": "商黎光被查",
-      "onboard_time": 1693876895,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259357,
@@ -3955,6 +4019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214935,
+      "num": 214935,
+      "word": "爸妈吵架的尽头永远是我",
+      "onboard_time": 1693876835,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213022,
       "num": 213022,
       "word": "安乐传hi6暑期收视率TOP1",
@@ -4025,6 +4097,14 @@
       "onboard_time": 1693837363,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208071,
+      "num": 208071,
+      "word": "孙颖莎3比0早田希娜",
+      "onboard_time": 1693878637,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 207894,
@@ -4171,6 +4251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203609,
+      "num": 203609,
+      "word": "玫瑰故事",
+      "onboard_time": 1693878514,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202714,
       "num": 202714,
       "word": "云之羽爱奇艺热度值破7000",
@@ -4297,6 +4385,14 @@
       "onboard_time": 1693811853,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195936,
+      "num": 195936,
+      "word": "成毅傅云深",
+      "onboard_time": 1693879114,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 195836,
@@ -4457,14 +4553,6 @@
       "onboard_time": 1693832977,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190764,
-      "num": 190764,
-      "word": "突然就不想存钱了",
-      "onboard_time": 1693877074,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 190736,
@@ -4649,6 +4737,14 @@
       "onboard_time": 1693838140,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184248,
+      "num": 184248,
+      "word": "长生花这次终于正大光明营业了",
+      "onboard_time": 1693878996,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 183783,
@@ -5043,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160522,
+      "num": 160522,
+      "word": "乡村小学仅5名师生仍坚持升国旗唱国歌",
+      "onboard_time": 1693877735,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 160515,
       "num": 160515,
       "word": "大熊猫从满格到没电只需一秒钟",
@@ -5193,14 +5297,6 @@
       "onboard_time": 1693808433,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143262,
-      "num": 143262,
-      "word": "爸妈吵架的尽头永远是我",
-      "onboard_time": 1693876835,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 142710,
