@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693927055095,
+  "endTime": 1693928052408,
   "band_list": [
     {
       "raw_hot": 3794387,
@@ -73,6 +73,14 @@
       "onboard_time": 1693875217,
       "rank": 8,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1983710,
+      "num": 467394,
+      "word": "袁冰妍为什么没有被认定偷税漏税",
+      "onboard_time": 1693926163,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1965951,
@@ -169,14 +177,6 @@
       "onboard_time": 1693887280,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1340798,
-      "num": 462908,
-      "word": "袁冰妍为什么没有被认定偷税漏税",
-      "onboard_time": 1693926163,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1325369,
@@ -1371,6 +1371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 334582,
+      "num": 334582,
+      "word": "地铁判官说到做到",
+      "onboard_time": 1693923400,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329238,
       "num": 329238,
       "word": "王俊凯再唱奔跑的青春",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1693905037,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322160,
-      "num": 322160,
-      "word": "地铁判官说到做到",
-      "onboard_time": 1693923400,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322007,
@@ -1531,6 +1531,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299917,
+      "num": 299917,
+      "word": "云之羽小时代5海报",
+      "onboard_time": 1693921598,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298712,
+      "num": 298712,
+      "word": "白百何卜冠今新剧一物降一物",
+      "onboard_time": 1693927119,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298321,
       "num": 298321,
       "word": "虞书欣说有可以相亲的名场面",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1693881218,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281824,
-      "num": 281824,
-      "word": "云之羽小时代5海报",
-      "onboard_time": 1693921598,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 281361,
@@ -1979,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215572,
+      "num": 215572,
+      "word": "男人间这该死的胜负欲",
+      "onboard_time": 1693927236,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214926,
       "num": 214926,
       "word": "无畏首张专辑无畏",
@@ -2275,6 +2291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 173276,
+      "num": 173276,
+      "word": "胡锡进 我们需要管理自己的厌日情绪",
+      "onboard_time": 1693927779,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170894,
       "num": 170894,
       "word": "国乒女团亚锦赛夺冠",
@@ -2435,12 +2459,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149703,
+      "num": 149703,
+      "word": "中科院专家评奥本海默",
+      "onboard_time": 1693928018,
+      "rank": 47,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 148692,
       "num": 148692,
       "word": "老同学们背着书包去老年大学",
       "onboard_time": 1693909057,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 148429,
+      "num": 148429,
+      "word": "不要担心还没发生的事",
+      "onboard_time": 1693927903,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 146308,
@@ -2699,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76241,
+      "num": 440323,
+      "word": "消防员救出奶娃不停拍拍说没事了",
+      "onboard_time": 1693926039,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74145,
       "num": 74145,
       "word": "电影院遇到这么懂原子弹的",
@@ -2753,14 +2801,6 @@
       "onboard_time": 1693851317,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 44036,
-      "num": 440323,
-      "word": "消防员救出奶娃不停拍拍说没事了",
-      "onboard_time": 1693926039,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42699,

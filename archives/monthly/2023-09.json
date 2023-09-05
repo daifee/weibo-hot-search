@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693927055095,
+  "endTime": 1693928052408,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -505,6 +505,14 @@
       "onboard_time": 1693557637,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1983710,
+      "num": 467394,
+      "word": "袁冰妍为什么没有被认定偷税漏税",
+      "onboard_time": 1693926163,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1980946,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1693527874,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1340798,
-      "num": 462908,
-      "word": "袁冰妍为什么没有被认定偷税漏税",
-      "onboard_time": 1693926163,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1335894,
@@ -6411,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334582,
+      "num": 334582,
+      "word": "地铁判官说到做到",
+      "onboard_time": 1693923400,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333852,
       "num": 333852,
       "word": "侯雯元跳舞别跳科目一",
@@ -6601,14 +6609,6 @@
       "onboard_time": 1693905037,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322160,
-      "num": 322160,
-      "word": "地铁判官说到做到",
-      "onboard_time": 1693923400,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321366,
@@ -7011,6 +7011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299917,
+      "num": 299917,
+      "word": "云之羽小时代5海报",
+      "onboard_time": 1693921598,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299698,
       "num": 299698,
       "word": "高铁站回应男子跳下站台被火车轧车底",
@@ -7033,6 +7041,14 @@
       "onboard_time": 1693701452,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298712,
+      "num": 298712,
+      "word": "白百何卜冠今新剧一物降一物",
+      "onboard_time": 1693927119,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 298321,
@@ -7353,14 +7369,6 @@
       "onboard_time": 1693793612,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281824,
-      "num": 281824,
-      "word": "云之羽小时代5海报",
-      "onboard_time": 1693921598,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 281367,
@@ -9161,6 +9169,14 @@
       "onboard_time": 1693642053,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215572,
+      "num": 215572,
+      "word": "男人间这该死的胜负欲",
+      "onboard_time": 1693927236,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 215455,
@@ -11147,6 +11163,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 173276,
+      "num": 173276,
+      "word": "胡锡进 我们需要管理自己的厌日情绪",
+      "onboard_time": 1693927779,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173021,
       "num": 173021,
       "word": "B太2小时帮残疾大姐清空4冰箱雪糕",
@@ -11795,6 +11819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149703,
+      "num": 149703,
+      "word": "中科院专家评奥本海默",
+      "onboard_time": 1693928018,
+      "rank": 47,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 149250,
       "num": 149250,
       "word": "胡兵眼疾手快嘴还严",
@@ -11833,6 +11865,14 @@
       "onboard_time": 1693480656,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 148429,
+      "num": 148429,
+      "word": "不要担心还没发生的事",
+      "onboard_time": 1693927903,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 148236,
@@ -12859,6 +12899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76241,
+      "num": 440323,
+      "word": "消防员救出奶娃不停拍拍说没事了",
+      "onboard_time": 1693926039,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75767,
       "num": 936622,
       "word": "高校准备3款自酿啤酒迎新生",
@@ -13185,14 +13233,6 @@
       "onboard_time": 1693591639,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 44036,
-      "num": 440323,
-      "word": "消防员救出奶娃不停拍拍说没事了",
-      "onboard_time": 1693926039,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43847,
