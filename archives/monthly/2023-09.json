@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693924441402,
+  "endTime": 1693927055095,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1920466,
+      "num": 1920466,
+      "word": "瑞幸加茅台 华尔街跪下来",
+      "onboard_time": 1693922679,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1911707,
       "num": 1911707,
       "word": "警方称地铁判官精神有问题",
@@ -1027,20 +1035,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1363578,
-      "num": 1363578,
-      "word": "瑞幸加茅台 华尔街跪下来",
-      "onboard_time": 1693922679,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1359114,
       "num": 1359114,
       "word": "特斯拉Model3",
       "onboard_time": 1693527874,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340798,
+      "num": 462908,
+      "word": "袁冰妍为什么没有被认定偷税漏税",
+      "onboard_time": 1693926163,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1335894,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1693566637,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 888510,
+      "num": 888510,
+      "word": "韩国流行的自助煮面火到上海了",
+      "onboard_time": 1693923825,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 885906,
@@ -3739,6 +3755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 556485,
+      "num": 351591,
+      "word": "100根头发有多少",
+      "onboard_time": 1693925619,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556024,
       "num": 556024,
       "word": "余佳恩连续工作22小时进急诊",
@@ -4955,6 +4979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447192,
+      "num": 447192,
+      "word": "福州暴雨",
+      "onboard_time": 1693919858,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443154,
       "num": 443154,
       "word": "商黎光被查",
@@ -5707,6 +5739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382583,
+      "num": 348424,
+      "word": "27岁在不同人的眼里",
+      "onboard_time": 1693924543,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 382571,
       "num": 320152,
       "word": "房东溜进租客房间被监控直播",
@@ -5843,6 +5883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373062,
+      "num": 373062,
+      "word": "张艺兴谈究竟什么算是成功",
+      "onboard_time": 1693926401,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371878,
       "num": 371878,
       "word": "声生不息港乐季2拟邀阵容",
@@ -5905,14 +5953,6 @@
       "onboard_time": 1693720353,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 368889,
-      "num": 368889,
-      "word": "福州暴雨",
-      "onboard_time": 1693919858,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368852,
@@ -6169,6 +6209,14 @@
       "onboard_time": 1693666124,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347073,
+      "num": 347073,
+      "word": "杨紫麦承欢营业照",
+      "onboard_time": 1693925563,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 346445,
@@ -6555,6 +6603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322160,
+      "num": 322160,
+      "word": "地铁判官说到做到",
+      "onboard_time": 1693923400,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321366,
       "num": 250883,
       "word": "欧冠死亡之组",
@@ -6665,6 +6721,14 @@
       "onboard_time": 1693817197,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 316067,
+      "num": 316067,
+      "word": "杨汝晴给侯卓成盖章",
+      "onboard_time": 1693922980,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 315942,
@@ -6835,6 +6899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307051,
+      "num": 442500,
+      "word": "学校的小床也有了妈妈的味道",
+      "onboard_time": 1693921059,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306472,
       "num": 306472,
       "word": "粉丝称得知秀才被封后很高兴",
@@ -6905,6 +6977,14 @@
       "onboard_time": 1693789775,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301815,
+      "num": 301815,
+      "word": "云为衫金繁怎么打起来了",
+      "onboard_time": 1693925801,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 301223,
@@ -7035,14 +7115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294532,
-      "num": 294532,
-      "word": "韩国流行的自助煮面火到上海了",
-      "onboard_time": 1693923825,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 293931,
       "num": 293931,
       "word": "许光汉帅的很稳定",
@@ -7123,14 +7195,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 290567,
-      "num": 425470,
-      "word": "学校的小床也有了妈妈的味道",
-      "onboard_time": 1693921059,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289613,
       "num": 289613,
       "word": "星空",
@@ -7185,14 +7249,6 @@
       "onboard_time": 1693655679,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287306,
-      "num": 287306,
-      "word": "地铁判官说到做到",
-      "onboard_time": 1693923400,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286227,
@@ -7691,14 +7747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262896,
-      "num": 262896,
-      "word": "杨汝晴给侯卓成盖章",
-      "onboard_time": 1693922980,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262567,
       "num": 262567,
       "word": "张杰未live巡回演唱会",
@@ -7937,6 +7985,14 @@
       "onboard_time": 1693697064,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256557,
+      "num": 256557,
+      "word": "人人公益节",
+      "onboard_time": 1693926640,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 256173,
@@ -9217,6 +9273,14 @@
       "onboard_time": 1693621954,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210972,
+      "num": 210972,
+      "word": "美国男篮晋级四强",
+      "onboard_time": 1693925201,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 210862,
@@ -10659,6 +10723,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 184724,
+      "num": 184724,
+      "word": "用四个字形容你当下的生活",
+      "onboard_time": 1693926580,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184467,
       "num": 184467,
       "word": "RIIZE空降成绩",
@@ -11385,6 +11457,14 @@
       "onboard_time": 1693472678,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162262,
+      "num": 162262,
+      "word": "没见过这么离谱的大学宿舍",
+      "onboard_time": 1693925682,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 161762,
@@ -13105,6 +13185,14 @@
       "onboard_time": 1693591639,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44036,
+      "num": 440323,
+      "word": "消防员救出奶娃不停拍拍说没事了",
+      "onboard_time": 1693926039,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43847,

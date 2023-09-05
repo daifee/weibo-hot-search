@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693924441402,
+  "endTime": 1693927055095,
   "band_list": [
     {
       "raw_hot": 3794387,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1920466,
+      "num": 1920466,
+      "word": "瑞幸加茅台 华尔街跪下来",
+      "onboard_time": 1693922679,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1911707,
       "num": 1911707,
       "word": "警方称地铁判官精神有问题",
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1363578,
-      "num": 1363578,
-      "word": "瑞幸加茅台 华尔街跪下来",
-      "onboard_time": 1693922679,
-      "rank": 25,
-      "category": "美食"
+      "raw_hot": 1340798,
+      "num": 462908,
+      "word": "袁冰妍为什么没有被认定偷税漏税",
+      "onboard_time": 1693926163,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1325369,
@@ -369,6 +377,14 @@
       "onboard_time": 1693843233,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888510,
+      "num": 888510,
+      "word": "韩国流行的自助煮面火到上海了",
+      "onboard_time": 1693923825,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 883540,
@@ -771,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 556485,
+      "num": 351591,
+      "word": "100根头发有多少",
+      "onboard_time": 1693925619,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 555964,
       "num": 393891,
       "word": "蔡文静薄薄一片腰",
@@ -1011,6 +1035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 447192,
+      "num": 447192,
+      "word": "福州暴雨",
+      "onboard_time": 1693919858,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444292,
       "num": 444292,
       "word": "原来樱花妹觉得高颅顶很丑",
@@ -1227,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382583,
+      "num": 348424,
+      "word": "27岁在不同人的眼里",
+      "onboard_time": 1693924543,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 380016,
       "num": 301890,
       "word": "入境船舶上发现1万余只蟑螂",
@@ -1243,12 +1283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368889,
-      "num": 368889,
-      "word": "福州暴雨",
-      "onboard_time": 1693919858,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 373062,
+      "num": 373062,
+      "word": "张艺兴谈究竟什么算是成功",
+      "onboard_time": 1693926401,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 368852,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1693869506,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347073,
+      "num": 347073,
+      "word": "杨紫麦承欢营业照",
+      "onboard_time": 1693925563,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 341985,
@@ -1363,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322160,
+      "num": 322160,
+      "word": "地铁判官说到做到",
+      "onboard_time": 1693923400,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322007,
       "num": 322007,
       "word": "云之羽",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1693908936,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316067,
+      "num": 316067,
+      "word": "杨汝晴给侯卓成盖章",
+      "onboard_time": 1693922980,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 314512,
@@ -1411,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307051,
+      "num": 442500,
+      "word": "学校的小床也有了妈妈的味道",
+      "onboard_time": 1693921059,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306472,
       "num": 306472,
       "word": "粉丝称得知秀才被封后很高兴",
@@ -1435,6 +1507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 301815,
+      "num": 301815,
+      "word": "云为衫金繁怎么打起来了",
+      "onboard_time": 1693925801,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301314,
       "num": 234023,
       "word": "张凌赫评论虞书欣",
@@ -1457,14 +1537,6 @@
       "onboard_time": 1693916920,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294532,
-      "num": 294532,
-      "word": "韩国流行的自助煮面火到上海了",
-      "onboard_time": 1693923825,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 292377,
@@ -1497,22 +1569,6 @@
       "onboard_time": 1693892256,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 290567,
-      "num": 425470,
-      "word": "学校的小床也有了妈妈的味道",
-      "onboard_time": 1693921059,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287306,
-      "num": 287306,
-      "word": "地铁判官说到做到",
-      "onboard_time": 1693923400,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284044,
@@ -1619,14 +1675,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 262896,
-      "num": 262896,
-      "word": "杨汝晴给侯卓成盖章",
-      "onboard_time": 1693922980,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261840,
       "num": 261840,
       "word": "石凯半夜2点坐起来也想不明白",
@@ -1673,6 +1721,14 @@
       "onboard_time": 1693919500,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256557,
+      "num": 256557,
+      "word": "人人公益节",
+      "onboard_time": 1693926640,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 254644,
@@ -1947,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210972,
+      "num": 210972,
+      "word": "美国男篮晋级四强",
+      "onboard_time": 1693925201,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208071,
       "num": 208071,
       "word": "孙颖莎3比0早田希娜",
@@ -2097,6 +2161,14 @@
       "onboard_time": 1693915598,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184724,
+      "num": 184724,
+      "word": "用四个字形容你当下的生活",
+      "onboard_time": 1693926580,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 184297,
@@ -2265,6 +2337,14 @@
       "onboard_time": 1693823195,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162262,
+      "num": 162262,
+      "word": "没见过这么离谱的大学宿舍",
+      "onboard_time": 1693925682,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 161762,
@@ -2673,6 +2753,14 @@
       "onboard_time": 1693851317,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44036,
+      "num": 440323,
+      "word": "消防员救出奶娃不停拍拍说没事了",
+      "onboard_time": 1693926039,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42699,
