@@ -1,0 +1,410 @@
+{
+  "runTime": 1693876155242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1767592,
+        "num": 1767592,
+        "word": "郭敬明审美",
+        "onboard_time": 1693870168,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1139891,
+        "num": 1139891,
+        "word": "日本核污染水排海量已超4200吨",
+        "onboard_time": 1693872040,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11990,
+        "num": 950071,
+        "word": "一起探营杭州亚运村",
+        "onboard_time": 1693799799,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1514383,
+        "num": 942486,
+        "word": "不接受办公室恋情的原因",
+        "onboard_time": 1693872936,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 826768,
+        "num": 826768,
+        "word": "巨蟹座永远不会奔谁而去",
+        "onboard_time": 1693873898,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 750311,
+        "num": 750311,
+        "word": "在咖啡中擅自添加茅台售卖是侵权行为",
+        "onboard_time": 1693829855,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738568,
+        "num": 738568,
+        "word": "王心凌国风旗袍太美了",
+        "onboard_time": 1693870890,
+        "rank": 6,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 625517,
+        "num": 625517,
+        "word": "一女干部要求每块砖缝无尘土沙粒",
+        "onboard_time": 1693843233,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587225,
+        "num": 587225,
+        "word": "茅台巧克力即将上线",
+        "onboard_time": 1693875217,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 534827,
+        "num": 534827,
+        "word": "您的摄像机已经被狮子捡到",
+        "onboard_time": 1693842456,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1762315,
+        "num": 528310,
+        "word": "网曝重庆一医生值班时被患者家属捅死",
+        "onboard_time": 1693868482,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121389,
+        "num": 526111,
+        "word": "瑞幸回应男子怒砸多杯酱香拿铁",
+        "onboard_time": 1693838678,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509566,
+        "num": 509566,
+        "word": "受伤狍子闯入北京药王谷求救",
+        "onboard_time": 1693872575,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477364,
+        "num": 477364,
+        "word": "亲爱的雪 我已嫁入豪门",
+        "onboard_time": 1693828774,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376027,
+        "num": 376027,
+        "word": "南风知我意混剪",
+        "onboard_time": 1693873536,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367220,
+        "num": 367220,
+        "word": "王一博给三贵情史包了4场",
+        "onboard_time": 1693875338,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362357,
+        "num": 362357,
+        "word": "她拍的",
+        "onboard_time": 1693840118,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357939,
+        "num": 357939,
+        "word": "已读不回很正常",
+        "onboard_time": 1693837901,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354495,
+        "num": 354495,
+        "word": "8岁女孩去世成为大体老师",
+        "onboard_time": 1693875516,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339500,
+        "num": 339500,
+        "word": "希腊女生第一次来西安穿汉服扮东方美人",
+        "onboard_time": 1693870048,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 974275,
+        "num": 337860,
+        "word": "原来睡觉真的很有用",
+        "onboard_time": 1693870234,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 930890,
+        "num": 337363,
+        "word": "准备离职时突然找我谈辞退",
+        "onboard_time": 1693870234,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 869569,
+        "num": 335289,
+        "word": "关闭朋友圈两年半后的变化",
+        "onboard_time": 1693872517,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351917,
+        "num": 332935,
+        "word": "烤肉店回应谢绝日本人进入",
+        "onboard_time": 1693872275,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332586,
+        "num": 332586,
+        "word": "孕妇做B超拍到上下铺宝宝",
+        "onboard_time": 1693834537,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290964,
+        "num": 290964,
+        "word": "上海本帮爆鱼",
+        "onboard_time": 1693874618,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286954,
+        "num": 286954,
+        "word": "台风天气福州一消防车坠河",
+        "onboard_time": 1693869506,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263779,
+        "num": 263779,
+        "word": "陈奕迅的声音就像梁朝伟的脸",
+        "onboard_time": 1693873536,
+        "rank": 27,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 258377,
+        "num": 258377,
+        "word": "180小伙想当演员被爸爸骗去学评弹",
+        "onboard_time": 1693875698,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257381,
+        "num": 257381,
+        "word": "原来樱花妹觉得高颅顶很丑",
+        "onboard_time": 1693828413,
+        "rank": 29,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 254644,
+        "num": 254644,
+        "word": "台风海葵登陆福建东山",
+        "onboard_time": 1693870590,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239988,
+        "num": 239988,
+        "word": "19岁姑娘常熬夜确诊甲状腺癌",
+        "onboard_time": 1693829914,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233099,
+        "num": 233099,
+        "word": "韩国推出只有名人可以加入的社交平台",
+        "onboard_time": 1693839636,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225896,
+        "num": 225896,
+        "word": "官方回应医生值班时被患者家属捅死",
+        "onboard_time": 1693874018,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223765,
+        "num": 223765,
+        "word": "能不能放弃你那烂梗",
+        "onboard_time": 1693873717,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211633,
+        "num": 211633,
+        "word": "瑞幸公开原料生产记录视频",
+        "onboard_time": 1693837481,
+        "rank": 35,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 209359,
+        "num": 209359,
+        "word": "詹青云 你想自信光靠想有什么用",
+        "onboard_time": 1693846104,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198853,
+        "num": 198853,
+        "word": "云为衫是双胞胎",
+        "onboard_time": 1693829974,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196591,
+        "num": 196591,
+        "word": "女子P付款截图4年逃单33万",
+        "onboard_time": 1693813233,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194357,
+        "num": 194357,
+        "word": "中国地铁站最好听的站名",
+        "onboard_time": 1693836701,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192310,
+        "num": 192310,
+        "word": "瑞幸酱香拿铁",
+        "onboard_time": 1693873599,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161643,
+        "num": 161643,
+        "word": "和游客玩的小象被妈妈叫回去了",
+        "onboard_time": 1693868482,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 158726,
+        "num": 158726,
+        "word": "张凌赫评论虞书欣",
+        "onboard_time": 1693839281,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158187,
+        "num": 158187,
+        "word": "胡歌 把获奖感言说成满分作文的人",
+        "onboard_time": 1693833340,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157621,
+        "num": 157621,
+        "word": "令人心动的offer5",
+        "onboard_time": 1693835380,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156859,
+        "num": 156859,
+        "word": "田雨朱珠不小心嗑到了",
+        "onboard_time": 1693841376,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156668,
+        "num": 156668,
+        "word": "这些食物容易存在黄曲霉素",
+        "onboard_time": 1693859772,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147314,
+        "num": 147314,
+        "word": "妻子双腿卡收割机丈夫紧抱大喊名字",
+        "onboard_time": 1693862834,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144491,
+        "num": 144491,
+        "word": "字字不提穷但又很穷的话",
+        "onboard_time": 1693832977,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138437,
+        "num": 138437,
+        "word": "蒋依依搭好的帐篷不小心被海风吹塌",
+        "onboard_time": 1693835620,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受2023服贸会风采#"
+    }
+  }
+}
