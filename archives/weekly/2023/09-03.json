@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693918130037,
+  "endTime": 1693920048102,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -153,6 +153,14 @@
       "onboard_time": 1693728816,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2570876,
+      "num": 1340268,
+      "word": "虽然是精神病但没关系",
+      "onboard_time": 1693916078,
+      "rank": 11,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 2517604,
@@ -345,6 +353,14 @@
       "onboard_time": 1693868482,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1835068,
+      "num": 1049359,
+      "word": "药水哥消失4个月变这样了",
+      "onboard_time": 1693917518,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 1835022,
@@ -569,14 +585,6 @@
       "onboard_time": 1693802024,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1340268,
-      "num": 1340268,
-      "word": "虽然是精神病但没关系",
-      "onboard_time": 1693916078,
-      "rank": 11,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1331600,
@@ -851,6 +859,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1026426,
+      "num": 1026426,
+      "word": "瑞幸今年已联名12次",
+      "onboard_time": 1693915959,
+      "rank": 10,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1021326,
       "num": 1021326,
       "word": "日本投降的真正原因是什么",
@@ -977,14 +993,6 @@
       "onboard_time": 1693835380,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 957631,
-      "num": 957631,
-      "word": "瑞幸今年已联名12次",
-      "onboard_time": 1693915959,
-      "rank": 10,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 953646,
@@ -1371,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 769323,
+      "num": 574059,
+      "word": "我爸把我的化妆品全摔碎了",
+      "onboard_time": 1693918956,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 767584,
       "num": 767584,
       "word": "陈都灵新剧演张凌赫的妈",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1693716878,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 741995,
-      "num": 741995,
-      "word": "药水哥消失4个月变这样了",
-      "onboard_time": 1693917518,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 738568,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1693801481,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 657543,
+      "num": 657543,
+      "word": "丞磊卢昱晓这么会营业不要命啦",
+      "onboard_time": 1693918538,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 652698,
@@ -2307,6 +2323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 537100,
+      "num": 537100,
+      "word": "宋茜屋顶着火出道十四周年版",
+      "onboard_time": 1693918000,
+      "rank": 33,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 536292,
       "num": 478312,
       "word": "猫的树是懂纯爱的",
@@ -2345,6 +2369,14 @@
       "onboard_time": 1693700550,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 532988,
+      "num": 532988,
+      "word": "英国伯明翰市政府宣布破产",
+      "onboard_time": 1693917216,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532273,
@@ -2891,6 +2923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434020,
+      "num": 434020,
+      "word": "地铁判官解说",
+      "onboard_time": 1693915959,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434012,
       "num": 391821,
       "word": "女子买到发霉面包店员当场吃下",
@@ -3083,14 +3123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398964,
-      "num": 398964,
-      "word": "地铁判官解说",
-      "onboard_time": 1693915959,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398949,
       "num": 398949,
       "word": "玫瑰故事",
@@ -3113,14 +3145,6 @@
       "onboard_time": 1693750606,
       "rank": 35,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 396110,
-      "num": 491035,
-      "word": "英国伯明翰市政府宣布破产",
-      "onboard_time": 1693917216,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394996,
@@ -3249,6 +3273,14 @@
       "onboard_time": 1693747004,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377926,
+      "num": 377926,
+      "word": "徐海乔公主抱公主",
+      "onboard_time": 1693918836,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 377714,
@@ -3715,6 +3747,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 314512,
+      "num": 314512,
+      "word": "从于适身上看出章子怡的影子",
+      "onboard_time": 1693917459,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314180,
       "num": 314180,
       "word": "刘宇宁回应蝉女短发造型",
@@ -3913,6 +3953,14 @@
       "onboard_time": 1693651598,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298321,
+      "num": 298321,
+      "word": "虞书欣说有可以相亲的名场面",
+      "onboard_time": 1693916920,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 297875,
@@ -4499,14 +4547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251067,
-      "num": 251067,
-      "word": "虞书欣说有可以相亲的名场面",
-      "onboard_time": 1693916920,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249982,
       "num": 454923,
       "word": "警方一举打掉缅北诈骗窝点11个",
@@ -4753,6 +4793,14 @@
       "onboard_time": 1693839998,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237321,
+      "num": 237321,
+      "word": "华晨宇说歌迷五年前在鸟巢翻过车",
+      "onboard_time": 1693918236,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 237273,
@@ -5003,14 +5051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223741,
-      "num": 223741,
-      "word": "从于适身上看出章子怡的影子",
-      "onboard_time": 1693917459,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223307,
       "num": 223307,
       "word": "15岁姐姐挑食不爱运动比妹妹矮9厘米",
@@ -5249,14 +5289,6 @@
       "onboard_time": 1693726117,
       "rank": 39,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 211136,
-      "num": 211136,
-      "word": "宋茜屋顶着火出道十四周年版",
-      "onboard_time": 1693918000,
-      "rank": 33,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 209736,
@@ -5715,6 +5747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194140,
+      "num": 194140,
+      "word": "清融活在热爱也活在当下",
+      "onboard_time": 1693919138,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193340,
       "num": 193340,
       "word": "小妞白百何vs姐感白百何",
@@ -5833,6 +5873,14 @@
       "onboard_time": 1693743879,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190143,
+      "num": 190143,
+      "word": "福州暴雨",
+      "onboard_time": 1693919858,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190068,
@@ -5985,6 +6033,14 @@
       "onboard_time": 1693728756,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185076,
+      "num": 185076,
+      "word": "如果给你做手术的是女外科医生",
+      "onboard_time": 1693919500,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 184943,
@@ -6865,6 +6921,14 @@
       "onboard_time": 1693842215,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132796,
+      "num": 171419,
+      "word": "从钓鱼博主变成了宠物博主",
+      "onboard_time": 1693918597,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 132513,
