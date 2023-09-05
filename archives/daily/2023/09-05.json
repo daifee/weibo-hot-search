@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693898143363,
+  "endTime": 1693899236041,
   "band_list": [
     {
       "raw_hot": 3160252,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 855286,
+      "num": 855286,
+      "word": "地铁判官",
+      "onboard_time": 1693897115,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 829349,
       "num": 461498,
       "word": "林彦俊一关联公司拟注销",
@@ -363,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665571,
+      "num": 665571,
+      "word": "大的死鱼脸 小的死鱼眼",
+      "onboard_time": 1693897956,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 646831,
       "num": 646831,
       "word": "赵丽颖黑粉被强执3万",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 544579,
-      "num": 331823,
+      "num": 361589,
       "word": "易烊千玺为空军招飞宣传",
       "onboard_time": 1693896215,
       "rank": 20,
@@ -523,12 +539,28 @@
       "category": "自然"
     },
     {
+      "raw_hot": 471290,
+      "num": 471290,
+      "word": "电影一闪一闪亮星星杀青",
+      "onboard_time": 1693897716,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458093,
       "num": 458093,
       "word": "又看见宋茜跳HotSummer了",
       "onboard_time": 1693893156,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 454986,
+      "num": 454986,
+      "word": "黄亦玫怀里的孩子是谁的",
+      "onboard_time": 1693898318,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 448949,
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440126,
+      "num": 440126,
+      "word": "徐良说影响别人的青春要负责任",
+      "onboard_time": 1693898138,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438967,
       "num": 438967,
       "word": "丞磊演虚颜的时候就上桌了",
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 434325,
-      "num": 320861,
+      "num": 357137,
       "word": "取快递的方式已经进化成这样了",
       "onboard_time": 1693896097,
       "rank": 23,
@@ -683,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378724,
-      "num": 378724,
-      "word": "电影一闪一闪亮星星杀青",
-      "onboard_time": 1693897716,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376027,
       "num": 376027,
       "word": "南风知我意混剪",
@@ -721,14 +753,6 @@
       "onboard_time": 1693869506,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343481,
-      "num": 343481,
-      "word": "地铁判官",
-      "onboard_time": 1693897115,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 341985,
@@ -763,14 +787,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 333610,
-      "num": 333610,
-      "word": "大的死鱼脸 小的死鱼眼",
-      "onboard_time": 1693897956,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 324951,
       "num": 324951,
       "word": "梦泪的婚礼邀请",
@@ -801,6 +817,14 @@
       "onboard_time": 1693839220,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313241,
+      "num": 313241,
+      "word": "542万杯酱香拿铁叠起来相当于95座珠峰",
+      "onboard_time": 1693898496,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 307745,
@@ -931,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259803,
+      "num": 259803,
+      "word": "孤注一掷进入中国影史票房TOP11",
+      "onboard_time": 1693899037,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259054,
       "num": 259054,
       "word": "谁偷袭了卤味三巨头",
@@ -1011,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231384,
+      "num": 222746,
+      "word": "宫家往后数几代就是宫洺了",
+      "onboard_time": 1693898558,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230023,
       "num": 209525,
       "word": "詹青云 你想自信光靠想有什么用",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1693868785,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217483,
+      "num": 217483,
+      "word": "杨紫对粉丝大声说谢谢",
+      "onboard_time": 1693896875,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 216761,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1693838739,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188039,
-      "num": 188039,
-      "word": "杨紫对粉丝大声说谢谢",
-      "onboard_time": 1693896875,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 184297,
@@ -1331,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152164,
+      "num": 152164,
+      "word": "王子奇的目标是胡歌和黄景瑜",
+      "onboard_time": 1693895434,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146060,
       "num": 205266,
       "word": "陈梦3比1平野美宇",
@@ -1347,12 +1395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142786,
-      "num": 142786,
-      "word": "王子奇的目标是胡歌和黄景瑜",
-      "onboard_time": 1693895434,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 142842,
+      "num": 142842,
+      "word": "高校食堂推2元套餐",
+      "onboard_time": 1693899098,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142160,
@@ -1419,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128187,
+      "num": 128187,
+      "word": "盛阳劝不动根本劝不动",
+      "onboard_time": 1693895734,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123584,
       "num": 123584,
       "word": "看到衫羽欲来这段想到长生花",
@@ -1472,6 +1528,14 @@
       "word": "台风",
       "onboard_time": 1693857493,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100840,
+      "num": 455453,
+      "word": "小女孩卖废品给过生日的外公买奶茶",
+      "onboard_time": 1693897298,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1569,14 +1633,6 @@
       "onboard_time": 1693848559,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41421,
-      "num": 417357,
-      "word": "小女孩卖废品给过生日的外公买奶茶",
-      "onboard_time": 1693897298,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29332,

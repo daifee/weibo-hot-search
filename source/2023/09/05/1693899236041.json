@@ -1,0 +1,410 @@
+{
+  "runTime": 1693899236041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2621123,
+        "num": 2621123,
+        "word": "papi酱气离婚的又气不离婚的",
+        "onboard_time": 1693896097,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1476563,
+        "num": 1476563,
+        "word": "小时代5 封建时代",
+        "onboard_time": 1693894056,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61835,
+        "num": 1073047,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855286,
+        "num": 855286,
+        "word": "地铁判官",
+        "onboard_time": 1693897115,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 678242,
+        "num": 678242,
+        "word": "上海迪士尼疯狂动物城园区",
+        "onboard_time": 1693893757,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1128196,
+        "num": 676234,
+        "word": "日本就中国暂停进口水产品向WTO提交文件",
+        "onboard_time": 1693882055,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665571,
+        "num": 665571,
+        "word": "大的死鱼脸 小的死鱼眼",
+        "onboard_time": 1693897956,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656007,
+        "num": 656007,
+        "word": "62岁北京女粉丝打赏秀才52万只追回数万",
+        "onboard_time": 1693887039,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 573651,
+        "num": 573651,
+        "word": "这种人民币千万不要花",
+        "onboard_time": 1693887280,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502171,
+        "num": 502171,
+        "word": "血常规检查到底如何看",
+        "onboard_time": 1693893995,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837133,
+        "num": 490372,
+        "word": "第一批00后已经开始离婚了",
+        "onboard_time": 1693877013,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471290,
+        "num": 471290,
+        "word": "电影一闪一闪亮星星杀青",
+        "onboard_time": 1693897716,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349251,
+        "num": 462950,
+        "word": "男子接住坠楼幼童2个月才被外人知晓",
+        "onboard_time": 1693888304,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 242312,
+        "num": 458952,
+        "word": "日本6分钟两次4级以上地震",
+        "onboard_time": 1693891717,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100840,
+        "num": 455453,
+        "word": "小女孩卖废品给过生日的外公买奶茶",
+        "onboard_time": 1693897298,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454986,
+        "num": 454986,
+        "word": "黄亦玫怀里的孩子是谁的",
+        "onboard_time": 1693898318,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440126,
+        "num": 440126,
+        "word": "徐良说影响别人的青春要负责任",
+        "onboard_time": 1693898138,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431894,
+        "num": 431894,
+        "word": "霍建华的新剧状态",
+        "onboard_time": 1693892138,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428755,
+        "num": 428755,
+        "word": "酱香拿铁一日销售542万杯",
+        "onboard_time": 1693881275,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 372914,
+        "num": 372914,
+        "word": "赵丽颖黑粉被强执3万",
+        "onboard_time": 1693893757,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 541931,
+        "num": 361589,
+        "word": "易烊千玺为空军招飞宣传",
+        "onboard_time": 1693896215,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376958,
+        "num": 357137,
+        "word": "取快递的方式已经进化成这样了",
+        "onboard_time": 1693896097,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340415,
+        "num": 340415,
+        "word": "刘亦菲我真的吃醋了",
+        "onboard_time": 1693881395,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313241,
+        "num": 313241,
+        "word": "542万杯酱香拿铁叠起来相当于95座珠峰",
+        "onboard_time": 1693898496,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 291725,
+        "num": 291725,
+        "word": "粉丝称得知秀才被封后很高兴",
+        "onboard_time": 1693896457,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 270934,
+        "num": 270934,
+        "word": "梦泪的婚礼邀请",
+        "onboard_time": 1693894236,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259803,
+        "num": 259803,
+        "word": "孤注一掷进入中国影史票房TOP11",
+        "onboard_time": 1693899037,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241465,
+        "num": 241465,
+        "word": "瑞幸给员工发红包",
+        "onboard_time": 1693888904,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 240325,
+        "num": 240325,
+        "word": "我来接我未过门的妻子怎么了",
+        "onboard_time": 1693878873,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222835,
+        "num": 222835,
+        "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
+        "onboard_time": 1693881876,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246639,
+        "num": 222766,
+        "word": "真实存在于南极冰层下的死亡冰柱",
+        "onboard_time": 1693896576,
+        "rank": 30,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 231384,
+        "num": 222746,
+        "word": "宫家往后数几代就是宫洺了",
+        "onboard_time": 1693898558,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222632,
+        "num": 222632,
+        "word": "蔡文静薄薄一片腰",
+        "onboard_time": 1693892438,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218674,
+        "num": 218674,
+        "word": "妻子婚前隐瞒患癌丈夫诉离婚被驳",
+        "onboard_time": 1693886503,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217483,
+        "num": 217483,
+        "word": "杨紫对粉丝大声说谢谢",
+        "onboard_time": 1693896875,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202220,
+        "num": 202220,
+        "word": "对月薪过万有误解",
+        "onboard_time": 1693881876,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191402,
+        "num": 191402,
+        "word": "费翔 那你能原谅我吗",
+        "onboard_time": 1693890101,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189813,
+        "num": 189813,
+        "word": "fx十四周年",
+        "onboard_time": 1693890939,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177187,
+        "num": 177187,
+        "word": "突然就不想存钱了",
+        "onboard_time": 1693877074,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169665,
+        "num": 169665,
+        "word": "肖战新剧送走前夫哥又来情敌哥",
+        "onboard_time": 1693890939,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158901,
+        "num": 158901,
+        "word": "云之羽金靖",
+        "onboard_time": 1693890939,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156365,
+        "num": 156365,
+        "word": "文韬双buff的压迫感",
+        "onboard_time": 1693894357,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152164,
+        "num": 152164,
+        "word": "王子奇的目标是胡歌和黄景瑜",
+        "onboard_time": 1693895434,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144489,
+        "num": 144489,
+        "word": "谁偷袭了卤味三巨头",
+        "onboard_time": 1693891417,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 142842,
+        "num": 142842,
+        "word": "高校食堂推2元套餐",
+        "onboard_time": 1693899098,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140194,
+        "num": 140194,
+        "word": "母亲看到当兵儿子出现先是大笑然后大哭",
+        "onboard_time": 1693894774,
+        "rank": 45,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 131831,
+        "num": 131831,
+        "word": "超级小桀复播",
+        "onboard_time": 1693892256,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 131282,
+        "num": 131282,
+        "word": "16岁女孩绑钢筋获全国二等奖",
+        "onboard_time": 1693886021,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129205,
+        "num": 129205,
+        "word": "卢昱晓丞磊自拍合照",
+        "onboard_time": 1693886860,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128187,
+        "num": 128187,
+        "word": "盛阳劝不动根本劝不动",
+        "onboard_time": 1693895734,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#服贸会描绘低碳绿色的生活图景#"
+    }
+  }
+}
