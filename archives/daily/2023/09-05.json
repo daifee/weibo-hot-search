@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693879293794,
+  "endTime": 1693880449142,
   "band_list": [
     {
       "raw_hot": 2144281,
@@ -75,8 +75,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1032515,
-      "num": 292962,
+      "raw_hot": 1060519,
+      "num": 319481,
       "word": "第一批00后已经开始离婚了",
       "onboard_time": 1693877013,
       "rank": 23,
@@ -147,6 +147,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 795560,
+      "num": 543189,
+      "word": "喝一杯酱香拿铁或赚9元",
+      "onboard_time": 1693877915,
+      "rank": 7,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 765578,
       "num": 765578,
       "word": "没想到现在取快递这么高级了",
@@ -163,12 +171,44 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 726329,
+      "num": 436963,
+      "word": "重庆警方通报男子在医院持刀行凶",
+      "onboard_time": 1693868482,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716753,
+      "num": 716753,
+      "word": "我来接我未过门的妻子怎么了",
+      "onboard_time": 1693878873,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686580,
       "num": 686580,
       "word": "您的摄像机已经被狮子捡到",
       "onboard_time": 1693842456,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 670897,
+      "num": 670897,
+      "word": "景甜张凌赫四海重明杀青",
+      "onboard_time": 1693878756,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 639608,
+      "num": 639608,
+      "word": "烤肉店回应谢绝日本人进入",
+      "onboard_time": 1693872275,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572240,
@@ -179,16 +219,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543189,
-      "num": 543189,
-      "word": "喝一杯酱香拿铁或赚9元",
-      "onboard_time": 1693877915,
-      "rank": 7,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 542568,
-      "num": 253323,
+      "num": 302361,
       "word": "河北一市委书记上衣被P掉logo引猜测",
       "onboard_time": 1693877554,
       "rank": 23,
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 540228,
-      "num": 248131,
+      "num": 308352,
       "word": "宫二先生和上官小姐",
       "onboard_time": 1693878093,
       "rank": 24,
@@ -211,20 +243,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 525576,
-      "num": 525576,
-      "word": "烤肉店回应谢绝日本人进入",
-      "onboard_time": 1693872275,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 529362,
+      "num": 529362,
+      "word": "光明网评云之羽",
+      "onboard_time": 1693878756,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 524987,
-      "num": 240495,
+      "num": 306527,
       "word": "突然就不想存钱了",
       "onboard_time": 1693877074,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524571,
+      "num": 436476,
+      "word": "封神妲己 我跟他们不一样",
+      "onboard_time": 1693879474,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 523981,
@@ -249,6 +289,14 @@
       "onboard_time": 1693829914,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484476,
+      "num": 435965,
+      "word": "张彬彬的画技在内娱是什么水平",
+      "onboard_time": 1693880012,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 444292,
@@ -289,6 +337,14 @@
       "onboard_time": 1693875698,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427521,
+      "num": 295597,
+      "word": "成毅傅云深",
+      "onboard_time": 1693879114,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 422289,
@@ -355,6 +411,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 337371,
+      "num": 337371,
+      "word": "玫瑰故事",
+      "onboard_time": 1693878514,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322007,
       "num": 322007,
       "word": "云之羽",
@@ -387,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306572,
-      "num": 306572,
-      "word": "我来接我未过门的妻子怎么了",
-      "onboard_time": 1693878873,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304545,
       "num": 304545,
       "word": "虞书欣又拍了张凌赫",
@@ -416,14 +472,6 @@
       "word": "张凌赫评论虞书欣",
       "onboard_time": 1693839281,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 295784,
-      "num": 295784,
-      "word": "光明网评云之羽",
-      "onboard_time": 1693878756,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -451,12 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 271290,
-      "num": 296683,
-      "word": "景甜张凌赫四海重明杀青",
-      "onboard_time": 1693878756,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 270480,
+      "num": 270480,
+      "word": "国旗护卫队老兵退役拥抱父母时哭了",
+      "onboard_time": 1693879836,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263779,
@@ -587,22 +635,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 203609,
-      "num": 203609,
-      "word": "玫瑰故事",
-      "onboard_time": 1693878514,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 195936,
-      "num": 195936,
-      "word": "成毅傅云深",
-      "onboard_time": 1693879114,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195708,
       "num": 195708,
       "word": "这些食物容易存在黄曲霉素",
@@ -657,6 +689,14 @@
       "onboard_time": 1693832679,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179039,
+      "num": 179039,
+      "word": "31岁男子常喝可乐奶茶长得像40多岁",
+      "onboard_time": 1693880369,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174447,
@@ -737,6 +777,14 @@
       "onboard_time": 1693833216,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136475,
+      "num": 136475,
+      "word": "一干部要求每块砖缝无尘土沙粒",
+      "onboard_time": 1693843233,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132931,

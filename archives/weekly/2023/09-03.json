@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693879293794,
+  "endTime": 1693880449142,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -627,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1060519,
+      "num": 319481,
+      "word": "第一批00后已经开始离婚了",
+      "onboard_time": 1693877013,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055169,
       "num": 1055169,
       "word": "封神真的和芒果合作质子训练营综艺了",
@@ -657,14 +665,6 @@
       "onboard_time": 1693669720,
       "rank": 16,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1032515,
-      "num": 292962,
-      "word": "第一批00后已经开始离婚了",
-      "onboard_time": 1693877013,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1021326,
@@ -987,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795560,
+      "num": 543189,
+      "word": "喝一杯酱香拿铁或赚9元",
+      "onboard_time": 1693877915,
+      "rank": 7,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 792305,
       "num": 792305,
       "word": "十个勤天头像",
@@ -1171,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 726329,
+      "num": 436963,
+      "word": "重庆警方通报男子在医院持刀行凶",
+      "onboard_time": 1693868482,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724145,
       "num": 724145,
       "word": "俄顶尖火箭科学家中毒身亡",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1693749767,
       "rank": 28,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 716753,
+      "num": 716753,
+      "word": "我来接我未过门的妻子怎么了",
+      "onboard_time": 1693878873,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 712287,
@@ -1323,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 670897,
+      "num": 670897,
+      "word": "景甜张凌赫四海重明杀青",
+      "onboard_time": 1693878756,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662265,
       "num": 662265,
       "word": "顾晓声 郭小四",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1693799194,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 639608,
+      "num": 639608,
+      "word": "烤肉店回应谢绝日本人进入",
+      "onboard_time": 1693872275,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638645,
@@ -1723,16 +1763,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543189,
-      "num": 543189,
-      "word": "喝一杯酱香拿铁或赚9元",
-      "onboard_time": 1693877915,
-      "rank": 7,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 542568,
-      "num": 253323,
+      "num": 302361,
       "word": "河北一市委书记上衣被P掉logo引猜测",
       "onboard_time": 1693877554,
       "rank": 23,
@@ -1748,7 +1780,7 @@
     },
     {
       "raw_hot": 540228,
-      "num": 248131,
+      "num": 308352,
       "word": "宫二先生和上官小姐",
       "onboard_time": 1693878093,
       "rank": 24,
@@ -1811,20 +1843,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 525576,
-      "num": 525576,
-      "word": "烤肉店回应谢绝日本人进入",
-      "onboard_time": 1693872275,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 529362,
+      "num": 529362,
+      "word": "光明网评云之羽",
+      "onboard_time": 1693878756,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 524987,
-      "num": 240495,
+      "num": 306527,
       "word": "突然就不想存钱了",
       "onboard_time": 1693877074,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524571,
+      "num": 436476,
+      "word": "封神妲己 我跟他们不一样",
+      "onboard_time": 1693879474,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 518589,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1693832977,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 484476,
+      "num": 435965,
+      "word": "张彬彬的画技在内娱是什么水平",
+      "onboard_time": 1693880012,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 483868,
@@ -2225,6 +2273,14 @@
       "onboard_time": 1693875698,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427521,
+      "num": 295597,
+      "word": "成毅傅云深",
+      "onboard_time": 1693879114,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 427318,
@@ -2643,6 +2699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337371,
+      "num": 337371,
+      "word": "玫瑰故事",
+      "onboard_time": 1693878514,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335930,
       "num": 335930,
       "word": "倪妮白宇够野",
@@ -2907,14 +2971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306572,
-      "num": 306572,
-      "word": "我来接我未过门的妻子怎么了",
-      "onboard_time": 1693878873,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 305663,
       "num": 305663,
       "word": "义乌老板娘是懂做亚运生意的",
@@ -3017,14 +3073,6 @@
       "onboard_time": 1693712192,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295784,
-      "num": 295784,
-      "word": "光明网评云之羽",
-      "onboard_time": 1693878756,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 295437,
@@ -3219,20 +3267,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271290,
-      "num": 296683,
-      "word": "景甜张凌赫四海重明杀青",
-      "onboard_time": 1693878756,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 270870,
       "num": 270870,
       "word": "薛之谦多来东北好不好",
       "onboard_time": 1693751808,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 270480,
+      "num": 270480,
+      "word": "国旗护卫队老兵退役拥抱父母时哭了",
+      "onboard_time": 1693879836,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269495,
@@ -4251,14 +4299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203609,
-      "num": 203609,
-      "word": "玫瑰故事",
-      "onboard_time": 1693878514,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202714,
       "num": 202714,
       "word": "云之羽爱奇艺热度值破7000",
@@ -4385,14 +4425,6 @@
       "onboard_time": 1693811853,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195936,
-      "num": 195936,
-      "word": "成毅傅云深",
-      "onboard_time": 1693879114,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 195836,
@@ -4867,6 +4899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179039,
+      "num": 179039,
+      "word": "31岁男子常喝可乐奶茶长得像40多岁",
+      "onboard_time": 1693880369,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178702,
       "num": 178702,
       "word": "胡兵说第几名不重要主要得体面",
@@ -5329,6 +5369,14 @@
       "onboard_time": 1693710573,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136475,
+      "num": 136475,
+      "word": "一干部要求每块砖缝无尘土沙粒",
+      "onboard_time": 1693843233,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136378,
