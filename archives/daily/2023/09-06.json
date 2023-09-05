@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693942415742,
+  "endTime": 1693945072288,
   "band_list": [
     {
       "raw_hot": 1492866,
@@ -499,7 +499,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22133,
+      "raw_hot": 24194,
       "num": 28056,
       "word": "瑞幸回应市监局询问酱香拿铁配料",
       "onboard_time": 1693938196,
@@ -507,12 +507,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21846,
-      "num": 21846,
+      "raw_hot": 23796,
+      "num": 23796,
       "word": "孙怡好会共情王睡睡",
       "onboard_time": 1693941913,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23372,
+      "num": 23372,
+      "word": "市监局询问瑞幸酱香拿铁配料",
+      "onboard_time": 1693943055,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21850,
+      "num": 21850,
+      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+      "onboard_time": 1693944253,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19416,
+      "num": 19416,
+      "word": "你一般用哪个纸巾品牌",
+      "onboard_time": 1693943415,
+      "rank": 40,
+      "category": "社会议题"
     },
     {
       "raw_hot": 5595,
