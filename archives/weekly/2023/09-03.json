@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693949633853,
+  "endTime": 1693952145401,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -7667,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77515,
+      "num": 56807,
+      "word": "傅首尔医者难自医",
+      "onboard_time": 1693949593,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76241,
       "num": 440323,
       "word": "消防员救出奶娃不停拍拍说没事了",
@@ -7680,6 +7688,14 @@
       "word": "90后资阳小伙剪出百所高校通知书",
       "onboard_time": 1693832434,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74059,
+      "num": 39400,
+      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+      "onboard_time": 1693944253,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -7939,14 +7955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42285,
-      "num": 23282,
-      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
-      "onboard_time": 1693944253,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -7985,6 +7993,14 @@
       "onboard_time": 1693735236,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35375,
+      "num": 35375,
+      "word": "原来嘴角向下也能笑",
+      "onboard_time": 1693945154,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 34749,
@@ -8027,6 +8043,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29241,
+      "num": 29241,
+      "word": "市监局询问瑞幸酱香拿铁配料",
+      "onboard_time": 1693943055,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27841,
+      "num": 28056,
+      "word": "瑞幸回应市监局询问酱香拿铁配料",
+      "onboard_time": 1693938196,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27493,
       "num": 28380,
       "word": "选狗窍门",
@@ -8051,28 +8083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24194,
-      "num": 28056,
-      "word": "瑞幸回应市监局询问酱香拿铁配料",
-      "onboard_time": 1693938196,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23796,
       "num": 23796,
       "word": "孙怡好会共情王睡睡",
       "onboard_time": 1693941913,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23372,
-      "num": 23372,
-      "word": "市监局询问瑞幸酱香拿铁配料",
-      "onboard_time": 1693943055,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23246,
@@ -8088,14 +8104,6 @@
       "word": "这是什么二次元",
       "onboard_time": 1693770014,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 22317,
-      "num": 23155,
-      "word": "原来嘴角向下也能笑",
-      "onboard_time": 1693945154,
-      "rank": 42,
       "category": "幽默"
     },
     {
@@ -8129,14 +8137,6 @@
       "onboard_time": 1693943415,
       "rank": 40,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 18526,
-      "num": 22074,
-      "word": "傅首尔医者难自医",
-      "onboard_time": 1693949593,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 18202,
