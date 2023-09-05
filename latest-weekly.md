@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/03 00:19:27 ~ 2023/09/06 05:14:48
+本榜单时间：2023/09/03 00:19:27 ~ 2023/09/06 05:33:53
 </p>
 </blockquote>
 <p>
@@ -5967,6 +5967,12 @@ KAI和Bada超绝的双人舞（热度：164942）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
+宝妈晒娃大小眼就医查出颅缝早闭（热度：42285）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Shotaro%E6%88%90%E7%81%BFChallenge%23" target="weibo">
 Shotaro成灿Challenge（热度：41561）
 </a>
@@ -5993,12 +5999,6 @@ Shotaro成灿Challenge（热度：41561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E4%B8%8E%E5%A4%A7%E5%8F%94%E5%90%88%E5%8A%9B%E6%95%91%E8%B5%B7%E6%BA%BA%E6%B0%B4%E8%80%85%E5%90%8E%E8%99%9A%E8%84%B1%E5%91%95%E5%90%90%23" target="weibo">
 辅警与大叔合力救起溺水者后虚脱呕吐（热度：35554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%99%92%E5%A8%83%E5%A4%A7%E5%B0%8F%E7%9C%BC%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E9%A2%85%E7%BC%9D%E6%97%A9%E9%97%AD%23" target="weibo">
-宝妈晒娃大小眼就医查出颅缝早闭（热度：35148）
 </a>
 </li>
 
@@ -6081,6 +6081,12 @@ Shotaro成灿Challenge（热度：41561）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%98%B4%E8%A7%92%E5%90%91%E4%B8%8B%E4%B9%9F%E8%83%BD%E7%AC%91%23" target="weibo">
+原来嘴角向下也能笑（热度：22317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%BE%AE%E9%A3%8E%E6%98%AF%E6%A1%82%E8%8A%B1%E5%91%B3%23" target="weibo">
 秋天的微风是桂花味（热度：21233）
 </a>
@@ -6105,8 +6111,8 @@ Shotaro成灿Challenge（热度：41561）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%98%B4%E8%A7%92%E5%90%91%E4%B8%8B%E4%B9%9F%E8%83%BD%E7%AC%91%23" target="weibo">
-原来嘴角向下也能笑（热度：19251）
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E5%8C%BB%E8%80%85%E9%9A%BE%E8%87%AA%E5%8C%BB%23" target="weibo">
+傅首尔医者难自医（热度：18526）
 </a>
 </li>
 

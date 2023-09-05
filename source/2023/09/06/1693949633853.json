@@ -1,0 +1,410 @@
+{
+  "runTime": 1693949633853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 307790,
+        "num": 307790,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123741,
+        "num": 123741,
+        "word": "福州暴雨",
+        "onboard_time": 1693919858,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1934,
+        "num": 101529,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 2,
+        "category": "旅游,体育"
+      },
+      {
+        "raw_hot": 99521,
+        "num": 99521,
+        "word": "男子称怒砸10杯酱香拿铁不是因奶油太丑",
+        "onboard_time": 1693929036,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78613,
+        "num": 78613,
+        "word": "虽然是精神病但没关系",
+        "onboard_time": 1693916078,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 73970,
+        "num": 73970,
+        "word": "瑞幸加茅台 华尔街跪下来",
+        "onboard_time": 1693922679,
+        "rank": 5,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 70918,
+        "num": 70918,
+        "word": "蜜雪冰城 五粮液",
+        "onboard_time": 1693914455,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 58538,
+        "num": 58538,
+        "word": "药水哥消失4个月变这样了",
+        "onboard_time": 1693917518,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50596,
+        "num": 50596,
+        "word": "肖战剧里的画竟然都是自己画的",
+        "onboard_time": 1693920221,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49008,
+        "num": 49008,
+        "word": "韩国流行的自助煮面火到上海了",
+        "onboard_time": 1693923825,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119177,
+        "num": 48311,
+        "word": "袁冰妍为什么没有被认定偷税漏税",
+        "onboard_time": 1693926163,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59759,
+        "num": 47564,
+        "word": "胡锡进 我们需要管理自己的厌日情绪",
+        "onboard_time": 1693927779,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39259,
+        "num": 39259,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693930712,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30958,
+        "num": 38270,
+        "word": "英国伯明翰市政府宣布破产",
+        "onboard_time": 1693917216,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30712,
+        "num": 37892,
+        "word": "学校的小床也有了妈妈的味道",
+        "onboard_time": 1693921059,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37753,
+        "num": 37753,
+        "word": "地铁判官解说",
+        "onboard_time": 1693915959,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37409,
+        "num": 37409,
+        "word": "为什么卤味三巨头卖不动了",
+        "onboard_time": 1693900596,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 37292,
+        "num": 37292,
+        "word": "中国人不做那种偷鸡摸狗的事",
+        "onboard_time": 1693930053,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31891,
+        "num": 31891,
+        "word": "papi酱气离婚的又气不离婚的",
+        "onboard_time": 1693896097,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29460,
+        "num": 29460,
+        "word": "警方称地铁判官精神有问题",
+        "onboard_time": 1693911515,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40365,
+        "num": 29453,
+        "word": "白百何卜冠今新剧一物降一物",
+        "onboard_time": 1693927119,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33637,
+        "num": 29449,
+        "word": "女子因常遭丈夫家暴将其勒死获刑15年",
+        "onboard_time": 1693912834,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32742,
+        "num": 29440,
+        "word": "原来眼镜布并不是擦眼镜的",
+        "onboard_time": 1693922023,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32574,
+        "num": 29426,
+        "word": "来姨妈前有哪些奇怪的生理反应",
+        "onboard_time": 1693920701,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30784,
+        "num": 29420,
+        "word": "女孩读书可以比嫁人更风光",
+        "onboard_time": 1693927956,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29413,
+        "num": 29413,
+        "word": "我爸把我的化妆品全摔碎了",
+        "onboard_time": 1693918956,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27639,
+        "num": 27639,
+        "word": "杨紫麦承欢营业照",
+        "onboard_time": 1693925563,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27161,
+        "num": 27161,
+        "word": "听说右手中指戴戒指招财",
+        "onboard_time": 1693922023,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23330,
+        "num": 23330,
+        "word": "地铁上遇到有人发生冲突你会劝阻吗",
+        "onboard_time": 1693911755,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22756,
+        "num": 22756,
+        "word": "茅台冰淇淋卖不动了",
+        "onboard_time": 1693916678,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 42285,
+        "num": 22728,
+        "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+        "onboard_time": 1693944253,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24322,
+        "num": 22625,
+        "word": "当事人回应怒砸10杯酱香拿铁",
+        "onboard_time": 1693938554,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22372,
+        "num": 22372,
+        "word": "杭州有咖啡店生意少一半",
+        "onboard_time": 1693932028,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 22317,
+        "num": 22317,
+        "word": "原来嘴角向下也能笑",
+        "onboard_time": 1693945154,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22108,
+        "num": 22108,
+        "word": "福州24小时降雨量特大暴雨量级",
+        "onboard_time": 1693938796,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21084,
+        "num": 22105,
+        "word": "瑞幸回应市监局询问酱香拿铁配料",
+        "onboard_time": 1693938196,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20378,
+        "num": 22101,
+        "word": "逃出大英博物馆",
+        "onboard_time": 1693920882,
+        "rank": 36,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 20317,
+        "num": 22097,
+        "word": "杨汝晴给侯卓成盖章",
+        "onboard_time": 1693922980,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19938,
+        "num": 22095,
+        "word": "云之羽包含了很多中国传统元素",
+        "onboard_time": 1693932266,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19583,
+        "num": 22088,
+        "word": "市监局询问瑞幸酱香拿铁配料",
+        "onboard_time": 1693943055,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19695,
+        "num": 22088,
+        "word": "100根头发有多少",
+        "onboard_time": 1693925619,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 18256,
+        "num": 22082,
+        "word": "酱香拿铁",
+        "onboard_time": 1693796736,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18864,
+        "num": 22077,
+        "word": "张艺兴谈究竟什么算是成功",
+        "onboard_time": 1693926401,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18526,
+        "num": 22074,
+        "word": "傅首尔医者难自医",
+        "onboard_time": 1693949593,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17978,
+        "num": 22067,
+        "word": "27岁在不同人的眼里",
+        "onboard_time": 1693924543,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16828,
+        "num": 22063,
+        "word": "地铁判官说到做到",
+        "onboard_time": 1693923400,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16640,
+        "num": 22063,
+        "word": "瑞幸今年已联名12次",
+        "onboard_time": 1693915959,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 15850,
+        "num": 22055,
+        "word": "你一般用哪个纸巾品牌",
+        "onboard_time": 1693943415,
+        "rank": 47,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 15850,
+        "num": 22052,
+        "word": "IU抄袭指控警方不予立案",
+        "onboard_time": 1693913195,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15089,
+        "num": 22048,
+        "word": "孙怡好会共情王睡睡",
+        "onboard_time": 1693941913,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共促世界经济复苏和增长#"
+    }
+  }
+}

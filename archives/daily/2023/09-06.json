@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693948488007,
+  "endTime": 1693949633853,
   "band_list": [
     {
       "raw_hot": 1492866,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42285,
+      "num": 23282,
+      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+      "onboard_time": 1693944253,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -481,14 +489,6 @@
       "onboard_time": 1693937539,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35148,
-      "num": 23282,
-      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
-      "onboard_time": 1693944253,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32467,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22317,
+      "num": 23155,
+      "word": "原来嘴角向下也能笑",
+      "onboard_time": 1693945154,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19416,
       "num": 23170,
       "word": "你一般用哪个纸巾品牌",
@@ -539,12 +547,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 19251,
-      "num": 23155,
-      "word": "原来嘴角向下也能笑",
-      "onboard_time": 1693945154,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 18526,
+      "num": 22074,
+      "word": "傅首尔医者难自医",
+      "onboard_time": 1693949593,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 5595,
