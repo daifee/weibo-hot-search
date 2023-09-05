@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693905404333,
+  "endTime": 1693906504812,
   "band_list": [
     {
       "raw_hot": 3160252,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1926414,
-      "num": 828966,
+      "num": 1094795,
       "word": "果然毒唯只对真嫂子破防",
       "onboard_time": 1693899577,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141571,
+      "num": 491330,
+      "word": "大爷地铁与人争吵遭陌生男子打耳光",
+      "onboard_time": 1693897115,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1141526,
       "num": 1141526,
       "word": "42岁主持人感冒未痊愈去健身突发心梗去世",
@@ -203,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 987054,
-      "num": 390394,
+      "raw_hot": 991455,
+      "num": 391033,
       "word": "欧阳娜娜变化",
       "onboard_time": 1693904079,
       "rank": 10,
@@ -403,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701545,
+      "num": 701545,
+      "word": "秀才曾在直播时高喊给我你的医药费",
+      "onboard_time": 1693900957,
+      "rank": 21,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 695843,
       "num": 695843,
       "word": "姆巴佩放弃奖金为巴黎节省1亿欧",
       "onboard_time": 1693899277,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 695062,
+      "num": 695062,
+      "word": "我愿意嫁入宫门服从调剂",
+      "onboard_time": 1693904738,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 693341,
@@ -457,14 +481,6 @@
       "onboard_time": 1693893757,
       "rank": 9,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 644938,
-      "num": 644938,
-      "word": "秀才曾在直播时高喊给我你的医药费",
-      "onboard_time": 1693900957,
-      "rank": 21,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 632117,
@@ -539,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 555417,
-      "num": 460263,
-      "word": "大爷地铁与人争吵遭陌生男子打耳光",
-      "onboard_time": 1693897115,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 549678,
       "num": 549678,
       "word": "光明网评云之羽",
@@ -587,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532273,
+      "num": 532273,
+      "word": "傅首尔说和老刘的爱情降到0了",
+      "onboard_time": 1693902936,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524987,
       "num": 336351,
       "word": "突然就不想存钱了",
@@ -611,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 517169,
-      "num": 517169,
-      "word": "傅首尔说和老刘的爱情降到0了",
-      "onboard_time": 1693902936,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 509566,
       "num": 509566,
       "word": "受伤狍子闯入北京药王谷求救",
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 501388,
-      "num": 385570,
+      "num": 389585,
       "word": "卢昱晓 舒服的长相",
       "onboard_time": 1693903896,
       "rank": 17,
@@ -795,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415131,
+      "num": 475742,
+      "word": "没开玩笑新疆真的产海鲜",
+      "onboard_time": 1693902517,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410322,
       "num": 410322,
       "word": "云为衫就是最顶级的猎手",
@@ -843,12 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390861,
-      "num": 390861,
-      "word": "没开玩笑新疆真的产海鲜",
-      "onboard_time": 1693902517,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 393133,
+      "num": 393133,
+      "word": "Angelababy草原走红毯",
+      "onboard_time": 1693905338,
+      "rank": 47,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 390846,
+      "num": 390846,
+      "word": "虞书欣5集演了4个人",
+      "onboard_time": 1693905938,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 389432,
@@ -915,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 341319,
-      "num": 341319,
-      "word": "我愿意嫁入宫门服从调剂",
-      "onboard_time": 1693904738,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339500,
       "num": 339500,
       "word": "希腊女生第一次来西安穿汉服扮东方美人",
@@ -945,6 +961,14 @@
       "onboard_time": 1693884814,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 329238,
+      "num": 329238,
+      "word": "王俊凯再唱奔跑的青春",
+      "onboard_time": 1693904619,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 328909,
@@ -971,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 323397,
+      "num": 323397,
+      "word": "徐静雨请缨男篮主教练",
+      "onboard_time": 1693905037,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322007,
       "num": 322007,
       "word": "云之羽",
@@ -993,14 +1025,6 @@
       "onboard_time": 1693839220,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308253,
-      "num": 308253,
-      "word": "王俊凯再唱奔跑的青春",
-      "onboard_time": 1693904619,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 307745,
@@ -1099,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273357,
+      "num": 273357,
+      "word": "石凯演唱会抢票",
+      "onboard_time": 1693905700,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271755,
       "num": 271755,
       "word": "殷郊把姬发拉出火海",
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 249982,
-      "num": 388260,
+      "num": 454923,
       "word": "警方一举打掉缅北诈骗窝点11个",
       "onboard_time": 1693899338,
       "rank": 40,
@@ -1323,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220718,
+      "num": 220718,
+      "word": "金晨近几年荧幕变化",
+      "onboard_time": 1693905938,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220033,
       "num": 220033,
       "word": "郑钦文首进大满贯八强",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1693868482,
       "rank": 31,
       "category": "其它"
-    },
-    {
-      "raw_hot": 203346,
-      "num": 203346,
-      "word": "徐静雨请缨男篮主教练",
-      "onboard_time": 1693905037,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 203274,
@@ -1532,11 +1564,19 @@
     },
     {
       "raw_hot": 175303,
-      "num": 387166,
+      "num": 464092,
       "word": "南方的干vs北方的干",
       "onboard_time": 1693903959,
       "rank": 15,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 174879,
+      "num": 174879,
+      "word": "毛剑卿道歉",
+      "onboard_time": 1693905818,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 174447,
@@ -1577,14 +1617,6 @@
       "onboard_time": 1693894117,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166717,
-      "num": 166717,
-      "word": "Angelababy草原走红毯",
-      "onboard_time": 1693905338,
-      "rank": 47,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 165360,
@@ -1665,6 +1697,14 @@
       "onboard_time": 1693895434,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146308,
+      "num": 146308,
+      "word": "讨厌没有眼力的人类",
+      "onboard_time": 1693906359,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 146060,
@@ -1851,6 +1891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88402,
+      "num": 443306,
+      "word": "用一场橘子味的火烧云告别夏天",
+      "onboard_time": 1693904499,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85769,
       "num": 85769,
       "word": "奥本海默爱因斯坦对话",
@@ -1923,14 +1971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 38009,
-      "num": 387994,
-      "word": "用一场橘子味的火烧云告别夏天",
-      "onboard_time": 1693904499,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29332,
       "num": 23915,
       "word": "人在尴尬的时候就会假装很忙",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1693799799,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 3674,
+      "num": 1107340,
+      "word": "服贸会满满科技范儿",
+      "onboard_time": 1693817017,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
