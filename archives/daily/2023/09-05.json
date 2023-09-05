@@ -1,6 +1,6 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693910093940,
+  "endTime": 1693912465545,
   "band_list": [
     {
       "raw_hot": 3160252,
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 925422,
+      "num": 925422,
+      "word": "多少杯酱香拿铁能提出一瓶茅台",
+      "onboard_time": 1693910198,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 921737,
       "num": 921737,
       "word": "一女干部要求每块砖缝无尘土沙粒",
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770991,
+      "num": 495920,
+      "word": "警方称地铁判官精神有问题",
+      "onboard_time": 1693911515,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765578,
       "num": 765578,
       "word": "没想到现在取快递这么高级了",
@@ -440,6 +456,14 @@
       "word": "重庆警方通报男子在医院持刀行凶",
       "onboard_time": 1693868482,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725697,
+      "num": 491430,
+      "word": "国外18岁富家子在普吉岛度假身亡",
+      "onboard_time": 1693909117,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -515,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652698,
+      "num": 487696,
+      "word": "SM编舞总监跳槽HYBE",
+      "onboard_time": 1693909715,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646831,
       "num": 646831,
       "word": "赵丽颖黑粉被强执3万",
@@ -569,6 +601,14 @@
       "onboard_time": 1693835620,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568689,
+      "num": 483113,
+      "word": "杜华曝李飞的秘密",
+      "onboard_time": 1693907258,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 568625,
@@ -635,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 533430,
+      "num": 363693,
+      "word": "鸡丝凉面",
+      "onboard_time": 1693910856,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 532273,
       "num": 532273,
       "word": "傅首尔说和老刘的爱情降到0了",
@@ -683,6 +731,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 500130,
+      "num": 500130,
+      "word": "地铁上遇到有人发生冲突你会劝阻吗",
+      "onboard_time": 1693911755,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496738,
       "num": 305093,
       "word": "19岁姑娘常熬夜确诊甲状腺癌",
@@ -697,6 +753,14 @@
       "onboard_time": 1693906598,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491106,
+      "num": 360081,
+      "word": "为什么年轻人不愿意干销售",
+      "onboard_time": 1693910435,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 479882,
@@ -737,6 +801,14 @@
       "onboard_time": 1693893156,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 456420,
+      "num": 456420,
+      "word": "姬发 脆皮射手",
+      "onboard_time": 1693912416,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 454986,
@@ -827,11 +899,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423636,
-      "num": 265638,
-      "word": "国外18岁富家子在普吉岛度假身亡",
-      "onboard_time": 1693909117,
-      "rank": 30,
+      "raw_hot": 424235,
+      "num": 942246,
+      "word": "酸梅汤爆火后浙江省中医院推出秋季茶饮",
+      "onboard_time": 1693909778,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -881,14 +953,6 @@
       "onboard_time": 1693880369,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402231,
-      "num": 390940,
-      "word": "SM编舞总监跳槽HYBE",
-      "onboard_time": 1693909715,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 399215,
@@ -947,12 +1011,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 382559,
-      "num": 338923,
-      "word": "杜华曝李飞的秘密",
-      "onboard_time": 1693907258,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 383689,
+      "num": 383689,
+      "word": "青岛地铁回应大爷与大妈争吵被小伙掌掴",
+      "onboard_time": 1693911097,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380016,
@@ -969,6 +1033,14 @@
       "onboard_time": 1693873536,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368852,
+      "num": 341349,
+      "word": "盖章用力过猛导致公章碎了",
+      "onboard_time": 1693909959,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 366198,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1693839281,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301033,
+      "num": 301033,
+      "word": "有钱人能不能换个互联网上啊",
+      "onboard_time": 1693910917,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 291959,
@@ -1595,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193874,
+      "num": 193874,
+      "word": "美依礼芽阴阳师主题曲",
+      "onboard_time": 1693912416,
+      "rank": 40,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 192310,
       "num": 192310,
       "word": "瑞幸酱香拿铁",
@@ -1667,14 +1755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180838,
-      "num": 180838,
-      "word": "盖章用力过猛导致公章碎了",
-      "onboard_time": 1693909959,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179440,
       "num": 179440,
       "word": "伍佰演唱会唱也不能唱走也不能走",
@@ -1729,14 +1809,6 @@
       "onboard_time": 1693884577,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 171431,
-      "num": 171431,
-      "word": "酸梅汤爆火后浙江省中医院推出秋季茶饮",
-      "onboard_time": 1693909778,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169357,
@@ -1843,12 +1915,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155825,
+      "num": 155825,
+      "word": "孙颖莎3比0申裕斌",
+      "onboard_time": 1693910735,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "骄阳伴我9分钟破1",
       "onboard_time": 1693831719,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153481,
+      "num": 153481,
+      "word": "谷神星一号海射型运载火箭发射成功",
+      "onboard_time": 1693911335,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 152164,
@@ -2083,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 79149,
+      "num": 497673,
+      "word": "原神4.0卡池更新",
+      "onboard_time": 1693910974,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78251,
       "num": 78251,
       "word": "人际关系开悟的三个认知",
@@ -2195,7 +2291,7 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 6304,
+      "raw_hot": 6436,
       "num": 1341517,
       "word": "服贸会满满科技范儿",
       "onboard_time": 1693817017,
