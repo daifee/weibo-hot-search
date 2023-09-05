@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693909077579,
+  "endTime": 1693910093940,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -633,6 +633,14 @@
       "onboard_time": 1693800400,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1190550,
+      "num": 1190550,
+      "word": "孙菲菲晒行政处罚书",
+      "onboard_time": 1693908576,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1159740,
@@ -1819,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617604,
-      "num": 617604,
-      "word": "孙菲菲晒行政处罚书",
-      "onboard_time": 1693908576,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 616985,
       "num": 616985,
       "word": "本周狗屎运最旺的星座",
@@ -2787,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423636,
+      "num": 265638,
+      "word": "国外18岁富家子在普吉岛度假身亡",
+      "onboard_time": 1693909117,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422289,
       "num": 422289,
       "word": "田雨朱珠不小心嗑到了",
@@ -2867,6 +2875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408278,
+      "num": 1242816,
+      "word": "儿子在妈妈再婚现场发言送祝福",
+      "onboard_time": 1693900896,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407485,
       "num": 407485,
       "word": "中国男篮小组倒数第一",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1693880369,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402231,
+      "num": 390940,
+      "word": "SM编舞总监跳槽HYBE",
+      "onboard_time": 1693909715,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 399215,
@@ -3137,14 +3161,6 @@
       "onboard_time": 1693890939,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356063,
-      "num": 1242816,
-      "word": "儿子在妈妈再婚现场发言送祝福",
-      "onboard_time": 1693900896,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352902,
@@ -3457,6 +3473,14 @@
       "onboard_time": 1693821034,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 319702,
+      "num": 264434,
+      "word": "宿舍寝室长直接升级为族长",
+      "onboard_time": 1693908936,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 318686,
@@ -4323,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247453,
+      "num": 247453,
+      "word": "不考虑收入想做什么工作",
+      "onboard_time": 1693908576,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247202,
       "num": 247202,
       "word": "韩东君蔡文静装腔浴室吻",
@@ -4436,7 +4468,7 @@
     },
     {
       "raw_hot": 240445,
-      "num": 388080,
+      "num": 1029275,
       "word": "龚全珍资助过的孩子长大后也成了老师",
       "onboard_time": 1693908455,
       "rank": 15,
@@ -5267,6 +5299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199315,
+      "num": 199315,
+      "word": "郑州三孩补贴1.5万",
+      "onboard_time": 1693909117,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199044,
       "num": 199044,
       "word": "F1",
@@ -5385,14 +5425,6 @@
       "onboard_time": 1693796976,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194920,
-      "num": 194920,
-      "word": "不考虑收入想做什么工作",
-      "onboard_time": 1693908576,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 194661,
@@ -5803,6 +5835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180838,
+      "num": 180838,
+      "word": "盖章用力过猛导致公章碎了",
+      "onboard_time": 1693909959,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180664,
       "num": 180664,
       "word": "利物浦vs阿斯顿维拉",
@@ -5979,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171431,
+      "num": 171431,
+      "word": "酸梅汤爆火后浙江省中医院推出秋季茶饮",
+      "onboard_time": 1693909778,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170998,
       "num": 170998,
       "word": "生娃之前 可先看看李湘谷燕",
@@ -6051,6 +6099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168266,
+      "num": 168266,
+      "word": "机智盛阳胡说八道劝退情敌",
+      "onboard_time": 1693909417,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167528,
       "num": 167528,
       "word": "决赛圈遇到盾牌让我兴奋",
@@ -6065,14 +6121,6 @@
       "onboard_time": 1693823315,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166780,
-      "num": 166780,
-      "word": "宿舍寝室长直接升级为族长",
-      "onboard_time": 1693908936,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 166245,
@@ -6441,6 +6489,14 @@
       "onboard_time": 1693842994,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141531,
+      "num": 396161,
+      "word": "原神 钟离达达利亚复刻",
+      "onboard_time": 1693908034,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 141045,
@@ -6849,14 +6905,6 @@
       "onboard_time": 1693682117,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 78510,
-      "num": 396161,
-      "word": "原神 钟离达达利亚复刻",
-      "onboard_time": 1693908034,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 78448,
