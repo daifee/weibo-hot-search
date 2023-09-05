@@ -1,10 +1,10 @@
 {
   "startTime": 1693844454620,
-  "endTime": 1693917155375,
+  "endTime": 1693918130037,
   "band_list": [
     {
-      "raw_hot": 3760820,
-      "num": 3760820,
+      "raw_hot": 3794387,
+      "num": 3794387,
       "word": "蜜雪冰城 五粮液",
       "onboard_time": 1693914455,
       "rank": 0,
@@ -145,6 +145,14 @@
       "onboard_time": 1693887280,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340268,
+      "num": 1340268,
+      "word": "虽然是精神病但没关系",
+      "onboard_time": 1693916078,
+      "rank": 11,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1325369,
@@ -307,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 957631,
+      "num": 957631,
+      "word": "瑞幸今年已联名12次",
+      "onboard_time": 1693915959,
+      "rank": 10,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 930890,
       "num": 337363,
       "word": "准备离职时突然找我谈辞退",
@@ -353,6 +369,14 @@
       "onboard_time": 1693897115,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 842415,
+      "num": 842415,
+      "word": "西出玉门定档",
+      "onboard_time": 1693916737,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 832009,
@@ -473,6 +497,14 @@
       "onboard_time": 1693839162,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 741995,
+      "num": 741995,
+      "word": "药水哥消失4个月变这样了",
+      "onboard_time": 1693917518,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 738568,
@@ -667,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563704,
-      "num": 524200,
-      "word": "瑞幸今年已联名12次",
-      "onboard_time": 1693915959,
-      "rank": 10,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 555964,
       "num": 393891,
       "word": "蔡文静薄薄一片腰",
@@ -763,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 517784,
-      "num": 517784,
-      "word": "虽然是精神病但没关系",
-      "onboard_time": 1693916078,
-      "rank": 11,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 509566,
       "num": 509566,
       "word": "受伤狍子闯入北京药王谷求救",
@@ -825,6 +841,14 @@
       "onboard_time": 1693880674,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477743,
+      "num": 385593,
+      "word": "茅台冰淇淋卖不动了",
+      "onboard_time": 1693916678,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 472230,
@@ -987,14 +1011,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 419834,
-      "num": 419834,
-      "word": "西出玉门定档",
-      "onboard_time": 1693916737,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 417560,
       "num": 417560,
       "word": "云之羽金靖",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1693886321,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409915,
+      "num": 369505,
+      "word": "瑞幸门店回应咖啡机炸了",
+      "onboard_time": 1693916678,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408278,
@@ -1043,12 +1067,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398964,
+      "num": 398964,
+      "word": "地铁判官解说",
+      "onboard_time": 1693915959,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398949,
       "num": 398949,
       "word": "玫瑰故事",
       "onboard_time": 1693878514,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396110,
+      "num": 491035,
+      "word": "英国伯明翰市政府宣布破产",
+      "onboard_time": 1693917216,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395471,
@@ -1163,20 +1203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337253,
+      "num": 337253,
+      "word": "女子因常遭丈夫家暴将其勒死获刑15年",
+      "onboard_time": 1693912834,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335792,
       "num": 335792,
       "word": "东北7元三个肉菜的盒饭",
       "onboard_time": 1693884814,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 332695,
-      "num": 323526,
-      "word": "女子因常遭丈夫家暴将其勒死获刑15年",
-      "onboard_time": 1693912834,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329238,
@@ -1217,14 +1257,6 @@
       "onboard_time": 1693905037,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322931,
-      "num": 322931,
-      "word": "地铁判官解说",
-      "onboard_time": 1693915959,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322007,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1693910917,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 297545,
-      "num": 297545,
-      "word": "茅台冰淇淋卖不动了",
-      "onboard_time": 1693916678,
-      "rank": 23,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 291959,
@@ -1483,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251067,
+      "num": 251067,
+      "word": "虞书欣说有可以相亲的名场面",
+      "onboard_time": 1693916920,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249982,
       "num": 454923,
       "word": "警方一举打掉缅北诈骗窝点11个",
@@ -1651,20 +1683,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223741,
+      "num": 223741,
+      "word": "从于适身上看出章子怡的影子",
+      "onboard_time": 1693917459,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222415,
       "num": 222415,
       "word": "洪胜汉选的都是自己",
       "onboard_time": 1693847362,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222361,
-      "num": 222361,
-      "word": "瑞幸门店回应咖啡机炸了",
-      "onboard_time": 1693916678,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220718,
@@ -1705,6 +1737,22 @@
       "onboard_time": 1693904435,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212070,
+      "num": 212070,
+      "word": "云为衫被直球打蒙的一生",
+      "onboard_time": 1693918120,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211136,
+      "num": 211136,
+      "word": "宋茜屋顶着火出道十四周年版",
+      "onboard_time": 1693918000,
+      "rank": 33,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 208071,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1693883797,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202256,
-      "num": 189437,
-      "word": "虞书欣说有可以相亲的名场面",
-      "onboard_time": 1693916920,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 202098,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1693900957,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176018,
+      "num": 176018,
+      "word": "王心凌新歌实时热聊",
+      "onboard_time": 1693917339,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 175303,
@@ -2291,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100212,
+      "num": 1408558,
+      "word": "我国成功从海上发射一箭四星",
+      "onboard_time": 1693916502,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 98276,
       "num": 98276,
       "word": "何运晨带5本民法典录offer5",
@@ -2347,12 +2403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75348,
-      "num": 1197640,
-      "word": "我国成功从海上发射一箭四星",
-      "onboard_time": 1693916502,
-      "rank": 2,
-      "category": "社会新闻,科技"
+      "raw_hot": 77781,
+      "num": 508969,
+      "word": "00后小伙用105张a4纸手绘家乡地图",
+      "onboard_time": 1693915297,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74145,
@@ -2391,14 +2447,6 @@
       "num": 532717,
       "word": "小伙9年走50城为万名老人免费照相",
       "onboard_time": 1693890101,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55043,
-      "num": 508969,
-      "word": "00后小伙用105张a4纸手绘家乡地图",
-      "onboard_time": 1693915297,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2490,6 +2538,9 @@
     },
     {
       "word": "#互联护苗#"
+    },
+    {
+      "word": "#以开放合作共享服务贸易发展机遇#"
     }
   ]
 }
