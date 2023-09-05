@@ -1,7 +1,15 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693953232170,
+  "endTime": 1693955770671,
   "band_list": [
+    {
+      "raw_hot": 2107663,
+      "num": 2107663,
+      "word": "地铁判官找到了",
+      "onboard_time": 1693930831,
+      "rank": 5,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1492866,
       "num": 541895,
@@ -9,14 +17,6 @@
       "onboard_time": 1693926163,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1414653,
-      "num": 1414653,
-      "word": "地铁判官找到了",
-      "onboard_time": 1693930831,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1345167,
@@ -99,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432290,
+      "num": 125579,
+      "word": "卡塔尔海平面升起的恶魔之角",
+      "onboard_time": 1693952718,
+      "rank": 34,
+      "category": "自然"
+    },
+    {
       "raw_hot": 417778,
       "num": 417778,
       "word": "韩国流行的自助煮面火到上海了",
       "onboard_time": 1693923825,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 411218,
+      "num": 411218,
+      "word": "肖战剧里的画竟然都是自己画的",
+      "onboard_time": 1693920221,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 408649,
@@ -120,14 +136,6 @@
       "word": "白百何卜冠今新剧一物降一物",
       "onboard_time": 1693927119,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 371686,
-      "num": 371686,
-      "word": "肖战剧里的画竟然都是自己画的",
-      "onboard_time": 1693920221,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246637,
+      "num": 161520,
+      "word": "当老师最轻松的是上课的45分钟",
+      "onboard_time": 1693934301,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234598,
       "num": 234598,
       "word": "张艺兴谈究竟什么算是成功",
@@ -275,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184720,
+      "num": 125366,
+      "word": "只有被偷抢的文物才有遗憾",
+      "onboard_time": 1693954041,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171593,
+      "num": 171593,
+      "word": "傅首尔医者难自医",
+      "onboard_time": 1693949593,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170511,
       "num": 170511,
       "word": "茅台冰淇淋卖不动了",
@@ -283,8 +315,16 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 168531,
+      "num": 125358,
+      "word": "让宿管阿姨害怕的女大学生",
+      "onboard_time": 1693955126,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162469,
-      "num": 162469,
+      "num": 165541,
       "word": "杨紫麦承欢营业照",
       "onboard_time": 1693925563,
       "rank": 35,
@@ -297,6 +337,14 @@
       "onboard_time": 1693930296,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160184,
+      "num": 120737,
+      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
+      "onboard_time": 1693944253,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158488,
@@ -321,6 +369,22 @@
       "onboard_time": 1693928795,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148873,
+      "num": 148873,
+      "word": "李健 忘记时间你才能更自由",
+      "onboard_time": 1693955126,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142539,
+      "num": 142539,
+      "word": "结束一段关系最好的方式",
+      "onboard_time": 1693955066,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 142435,
@@ -361,6 +425,14 @@
       "onboard_time": 1693932266,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137165,
+      "num": 137165,
+      "word": "女孩开学坐最后一排反安慰妈妈",
+      "onboard_time": 1693955005,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 135391,
@@ -419,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115803,
-      "num": 79695,
-      "word": "当老师最轻松的是上课的45分钟",
-      "onboard_time": 1693934301,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112798,
       "num": 112798,
       "word": "从于适身上看出章子怡的影子",
@@ -435,20 +499,60 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107524,
-      "num": 78957,
-      "word": "傅首尔医者难自医",
-      "onboard_time": 1693949593,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 110897,
+      "num": 110897,
+      "word": "盛阳衣服上都是细节",
+      "onboard_time": 1693955546,
+      "rank": 35,
+      "category": "影视"
     },
     {
-      "raw_hot": 97452,
-      "num": 56309,
-      "word": "宝妈晒娃大小眼就医查出颅缝早闭",
-      "onboard_time": 1693944253,
-      "rank": 32,
+      "raw_hot": 108915,
+      "num": 108915,
+      "word": "福州地铁",
+      "onboard_time": 1693955546,
+      "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90865,
+      "num": 90865,
+      "word": "是母亲也是可以被爱的女孩",
+      "onboard_time": 1693955066,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87371,
+      "num": 87371,
+      "word": "瑞幸回应市监局询问酱香拿铁配料",
+      "onboard_time": 1693938196,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86194,
+      "num": 86194,
+      "word": "原来看演唱会可以这么有安全感",
+      "onboard_time": 1693955066,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82931,
+      "num": 82931,
+      "word": "福州24小时降雨量特大暴雨量级",
+      "onboard_time": 1693938796,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76955,
+      "num": 76955,
+      "word": "原来嘴角向下也能笑",
+      "onboard_time": 1693945154,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 75927,
@@ -473,38 +577,6 @@
       "onboard_time": 1693933884,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48985,
-      "num": 48985,
-      "word": "卡塔尔海平面升起的恶魔之角",
-      "onboard_time": 1693952718,
-      "rank": 34,
-      "category": "自然"
-    },
-    {
-      "raw_hot": 43283,
-      "num": 43283,
-      "word": "原来嘴角向下也能笑",
-      "onboard_time": 1693945154,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 42588,
-      "num": 41716,
-      "word": "福州24小时降雨量特大暴雨量级",
-      "onboard_time": 1693938796,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41991,
-      "num": 41991,
-      "word": "瑞幸回应市监局询问酱香拿铁配料",
-      "onboard_time": 1693938196,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41561,
