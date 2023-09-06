@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1694010845171,
+  "endTime": 1694013550208,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -105,6 +105,14 @@
       "onboard_time": 1693984172,
       "rank": 17,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1986433,
+      "num": 520256,
+      "word": "文俊辉 茅台咖啡真那么好喝吗",
+      "onboard_time": 1694010759,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 1966079,
@@ -331,6 +339,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1008024,
+      "num": 1008024,
+      "word": "在韩国穿睡衣出门被嘲笑了",
+      "onboard_time": 1694010699,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 984389,
+      "num": 383364,
+      "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
+      "onboard_time": 1694011836,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974097,
       "num": 974097,
       "word": "考研人很难不心动",
@@ -419,6 +443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 809268,
+      "num": 505777,
+      "word": "男子驾车撞丈母娘店铺致1岁儿子死亡",
+      "onboard_time": 1694010879,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805826,
       "num": 295964,
       "word": "被我爱豆揽到腿上",
@@ -489,6 +521,14 @@
       "onboard_time": 1693960478,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 697238,
+      "num": 697238,
+      "word": "宫尚角坠入爱河了",
+      "onboard_time": 1694009317,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 680647,
@@ -699,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587580,
+      "num": 587580,
+      "word": "杨幂央视中秋晚会",
+      "onboard_time": 1694011420,
+      "rank": 8,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 579193,
       "num": 579193,
       "word": "福州2名牺牲消防员身份已确认",
@@ -777,14 +825,6 @@
       "onboard_time": 1694001995,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 531778,
-      "num": 531778,
-      "word": "宫尚角坠入爱河了",
-      "onboard_time": 1694009317,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 528924,
@@ -987,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427665,
+      "num": 427665,
+      "word": "终于轮到吴磊公主抱胡歌了",
+      "onboard_time": 1694011962,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425433,
       "num": 425433,
       "word": "樊振东当选杭州亚运会火炬手",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1693969957,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400632,
+      "num": 495466,
+      "word": "华为卡脖子问题解决了吗",
+      "onboard_time": 1694012379,
+      "rank": 12,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 399961,
@@ -1227,6 +1283,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 337079,
+      "num": 337079,
+      "word": "自费盖8间房找出哪台空调最省电",
+      "onboard_time": 1694010579,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 334924,
       "num": 334924,
       "word": "职场讨坏型人格",
@@ -1251,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330027,
+      "num": 330027,
+      "word": "杨紫妆容分析",
+      "onboard_time": 1694013397,
+      "rank": 25,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 329544,
       "num": 329544,
       "word": "男子造谣五月天嘉宾是王俊凯被抓",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1693958254,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325329,
+      "num": 269001,
+      "word": "帕梅拉真不是AI",
+      "onboard_time": 1694012920,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 324531,
@@ -1395,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299295,
+      "num": 299295,
+      "word": "我现在一个人很快乐",
+      "onboard_time": 1694012260,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295959,
       "num": 295959,
       "word": "杨丞琳说孟子义好难追",
@@ -1505,6 +1593,14 @@
       "onboard_time": 1693922023,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267321,
+      "num": 483129,
+      "word": "台风海葵造成福建超159万人受灾",
+      "onboard_time": 1694012980,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265106,
@@ -1683,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235377,
+      "num": 235377,
+      "word": "杨幂穿旗袍好美",
+      "onboard_time": 1694013157,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 234645,
       "num": 219607,
       "word": "知网回应网信办处罚决定",
@@ -1811,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222559,
-      "num": 222559,
-      "word": "自费盖8间房找出哪台空调最省电",
-      "onboard_time": 1694010579,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 221875,
       "num": 221875,
       "word": "有人自林中坠落",
@@ -1857,14 +1953,6 @@
       "onboard_time": 1693917216,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214880,
-      "num": 214880,
-      "word": "文俊辉 茅台咖啡真那么好喝吗",
-      "onboard_time": 1694010759,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 214717,
@@ -1923,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208631,
+      "num": 208631,
+      "word": "防窥屏里的世界",
+      "onboard_time": 1694012980,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208302,
       "num": 208302,
       "word": "倪妮孟子义新剧对手戏",
@@ -1977,14 +2073,6 @@
       "onboard_time": 1693971516,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203324,
-      "num": 203324,
-      "word": "在韩国穿睡衣出门被嘲笑了",
-      "onboard_time": 1694010699,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 203256,
@@ -2099,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197426,
+      "num": 197426,
+      "word": "不虚此行",
+      "onboard_time": 1694012799,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197401,
       "num": 197401,
       "word": "范丞丞吃饭是真等不了一点",
@@ -2113,6 +2209,14 @@
       "onboard_time": 1693972778,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196676,
+      "num": 196676,
+      "word": "加拿大男篮vs斯洛文尼亚男篮",
+      "onboard_time": 1694011364,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 196088,
@@ -2161,6 +2265,14 @@
       "onboard_time": 1693964976,
       "rank": 34,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 191103,
+      "num": 191103,
+      "word": "杭州CityWalk好去处",
+      "onboard_time": 1694013157,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 191045,
@@ -2241,6 +2353,14 @@
       "onboard_time": 1693995455,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182803,
+      "num": 182803,
+      "word": "这下谁还分得清爱豆和伴舞",
+      "onboard_time": 1694013277,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 181006,
@@ -2811,6 +2931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54117,
+      "num": 475141,
+      "word": "小伙去柬埔寨捞金民警连打21个电话劝回",
+      "onboard_time": 1694012499,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -2843,19 +2971,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32520,
+      "num": 1675065,
+      "word": "绿色低碳为服务贸易注入新动力",
+      "onboard_time": 1694008959,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31728,
       "num": 117429,
       "word": "外滩大会十大黑科技",
       "onboard_time": 1693997313,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31011,
-      "num": 1675065,
-      "word": "绿色低碳为服务贸易注入新动力",
-      "onboard_time": 1694008959,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

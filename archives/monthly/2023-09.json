@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694010845171,
+  "endTime": 1694013550208,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -609,6 +609,14 @@
       "onboard_time": 1693557637,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1986433,
+      "num": 520256,
+      "word": "文俊辉 茅台咖啡真那么好喝吗",
+      "onboard_time": 1694010759,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 1983710,
@@ -1867,6 +1875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1008024,
+      "num": 1008024,
+      "word": "在韩国穿睡衣出门被嘲笑了",
+      "onboard_time": 1694010699,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1006159,
       "num": 479481,
       "word": "工作后发现5000块真的很难挣",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1693642236,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 984389,
+      "num": 383364,
+      "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
+      "onboard_time": 1694011836,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979258,
@@ -2595,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 809268,
+      "num": 505777,
+      "word": "男子驾车撞丈母娘店铺致1岁儿子死亡",
+      "onboard_time": 1694010879,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809098,
       "num": 683305,
       "word": "云之羽热度",
@@ -3241,6 +3273,14 @@
       "onboard_time": 1693960478,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 697238,
+      "num": 697238,
+      "word": "宫尚角坠入爱河了",
+      "onboard_time": 1694009317,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 697203,
@@ -4219,6 +4259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587580,
+      "num": 587580,
+      "word": "杨幂央视中秋晚会",
+      "onboard_time": 1694011420,
+      "rank": 8,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 584043,
       "num": 358502,
       "word": "为什么现在酒店都不收押金了",
@@ -4809,14 +4857,6 @@
       "onboard_time": 1693902936,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 531778,
-      "num": 531778,
-      "word": "宫尚角坠入爱河了",
-      "onboard_time": 1694009317,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 530720,
@@ -6091,6 +6131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427665,
+      "num": 427665,
+      "word": "终于轮到吴磊公主抱胡歌了",
+      "onboard_time": 1694011962,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427318,
       "num": 384637,
       "word": "秀才爆红 老年人精神产品供应",
@@ -6489,6 +6537,14 @@
       "onboard_time": 1693636051,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400632,
+      "num": 495466,
+      "word": "华为卡脖子问题解决了吗",
+      "onboard_time": 1694012379,
+      "rank": 12,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 399961,
@@ -7507,6 +7563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337079,
+      "num": 337079,
+      "word": "自费盖8间房找出哪台空调最省电",
+      "onboard_time": 1694010579,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 335930,
       "num": 335930,
       "word": "倪妮白宇够野",
@@ -7601,6 +7665,14 @@
       "onboard_time": 1693667867,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330027,
+      "num": 330027,
+      "word": "杨紫妆容分析",
+      "onboard_time": 1694013397,
+      "rank": 25,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 329544,
@@ -7713,6 +7785,14 @@
       "onboard_time": 1693614514,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 325329,
+      "num": 269001,
+      "word": "帕梅拉真不是AI",
+      "onboard_time": 1694012920,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 324951,
@@ -8305,6 +8385,14 @@
       "onboard_time": 1693999474,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299295,
+      "num": 299295,
+      "word": "我现在一个人很快乐",
+      "onboard_time": 1694012260,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 299257,
@@ -9025,6 +9113,14 @@
       "onboard_time": 1693534835,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267321,
+      "num": 483129,
+      "word": "台风海葵造成福建超159万人受灾",
+      "onboard_time": 1694012980,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267011,
@@ -10131,6 +10227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235377,
+      "num": 235377,
+      "word": "杨幂穿旗袍好美",
+      "onboard_time": 1694013157,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 234645,
       "num": 219607,
       "word": "知网回应网信办处罚决定",
@@ -10563,14 +10667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222559,
-      "num": 222559,
-      "word": "自费盖8间房找出哪台空调最省电",
-      "onboard_time": 1694010579,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 222415,
       "num": 222415,
       "word": "洪胜汉选的都是自己",
@@ -10875,14 +10971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214880,
-      "num": 214880,
-      "word": "文俊辉 茅台咖啡真那么好喝吗",
-      "onboard_time": 1694010759,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214717,
       "num": 214717,
       "word": "女孩开学坐最后一排反安慰妈妈",
@@ -11089,6 +11177,14 @@
       "onboard_time": 1693556918,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208631,
+      "num": 208631,
+      "word": "防窥屏里的世界",
+      "onboard_time": 1694012980,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 208571,
@@ -11499,14 +11595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203324,
-      "num": 203324,
-      "word": "在韩国穿睡衣出门被嘲笑了",
-      "onboard_time": 1694010699,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203274,
       "num": 205177,
       "word": "99公益日",
@@ -11899,6 +11987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197426,
+      "num": 197426,
+      "word": "不虚此行",
+      "onboard_time": 1694012799,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197401,
       "num": 197401,
       "word": "范丞丞吃饭是真等不了一点",
@@ -11953,6 +12049,14 @@
       "onboard_time": 1693657717,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196676,
+      "num": 196676,
+      "word": "加拿大男篮vs斯洛文尼亚男篮",
+      "onboard_time": 1694011364,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 196647,
@@ -12329,6 +12433,14 @@
       "onboard_time": 1693633113,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191103,
+      "num": 191103,
+      "word": "杭州CityWalk好去处",
+      "onboard_time": 1694013157,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 191045,
@@ -12833,6 +12945,14 @@
       "onboard_time": 1693627955,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 182803,
+      "num": 182803,
+      "word": "这下谁还分得清爱豆和伴舞",
+      "onboard_time": 1694013277,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 182790,
@@ -15547,6 +15667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54117,
+      "num": 475141,
+      "word": "小伙去柬埔寨捞金民警连打21个电话劝回",
+      "onboard_time": 1694012499,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53327,
       "num": 53327,
       "word": "这届父母真的很懂阴阳",
@@ -15851,6 +15979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32520,
+      "num": 1675065,
+      "word": "绿色低碳为服务贸易注入新动力",
+      "onboard_time": 1694008959,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32432,
       "num": 32432,
       "word": "范丞丞做菜难评的原因找到了",
@@ -15881,14 +16017,6 @@
       "onboard_time": 1693506797,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 31011,
-      "num": 1675065,
-      "word": "绿色低碳为服务贸易注入新动力",
-      "onboard_time": 1694008959,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30613,
