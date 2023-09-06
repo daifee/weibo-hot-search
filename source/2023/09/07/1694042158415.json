@@ -1,0 +1,410 @@
+{
+  "runTime": 1694042158415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 592357,
+        "num": 592357,
+        "word": "天津大爷们宣布退出狮子林桥跳水",
+        "onboard_time": 1694019863,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460143,
+        "num": 460143,
+        "word": "减脂事半功倍的三件事",
+        "onboard_time": 1694016752,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61071,
+        "num": 385350,
+        "word": "原来航天员在太空是这样练腿的",
+        "onboard_time": 1694002356,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859441,
+        "num": 380926,
+        "word": "在韩国穿睡衣出门被嘲笑了",
+        "onboard_time": 1694010699,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351279,
+        "num": 351279,
+        "word": "赵今麦团队回应出演大熊猫",
+        "onboard_time": 1694037435,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337044,
+        "num": 337044,
+        "word": "真的讨厌二三十块叫一杯奶茶钱",
+        "onboard_time": 1694002896,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310005,
+        "num": 310005,
+        "word": "iPhone15国行售价曝光",
+        "onboard_time": 1693993657,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 306565,
+        "num": 306565,
+        "word": "每读到史铁生这段都被震撼",
+        "onboard_time": 1694016214,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288259,
+        "num": 288259,
+        "word": "16岁少年心脏骤停1小时后恢复",
+        "onboard_time": 1694013821,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244709,
+        "num": 244709,
+        "word": "肖战白百何新剧差点差辈了",
+        "onboard_time": 1693998636,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539676,
+        "num": 242862,
+        "word": "男子驾车撞丈母娘店铺致1岁儿子死亡",
+        "onboard_time": 1694010879,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326513,
+        "num": 239589,
+        "word": "伊能静说回来要检查秦昊的手机",
+        "onboard_time": 1694027833,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304028,
+        "num": 234616,
+        "word": "两岁的小朋友已经有自己的过山车了",
+        "onboard_time": 1694040081,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223406,
+        "num": 223406,
+        "word": "马伯骞的家造型像博物馆",
+        "onboard_time": 1694006978,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142464,
+        "num": 209549,
+        "word": "台风海葵造成福建超159万人受灾",
+        "onboard_time": 1694012980,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202567,
+        "num": 202567,
+        "word": "我回到十七岁的理由播放量破亿",
+        "onboard_time": 1694024776,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192943,
+        "num": 192943,
+        "word": "不带黑但又能体现黑的名字",
+        "onboard_time": 1694014598,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177736,
+        "num": 177736,
+        "word": "一万块回农村可以躺平多久",
+        "onboard_time": 1693994078,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167008,
+        "num": 167008,
+        "word": "手机自动转账女子冲进派出所",
+        "onboard_time": 1694041587,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166741,
+        "num": 166741,
+        "word": "王一博终于晒自拍了",
+        "onboard_time": 1694006436,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479370,
+        "num": 166648,
+        "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
+        "onboard_time": 1694011836,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259330,
+        "num": 166595,
+        "word": "头发硬到割坏了抓夹",
+        "onboard_time": 1694009138,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163732,
+        "num": 163732,
+        "word": "文俊辉 茅台咖啡真那么好喝吗",
+        "onboard_time": 1694010759,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156973,
+        "num": 156973,
+        "word": "EXO 安踏",
+        "onboard_time": 1694008598,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136605,
+        "num": 136605,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130461,
+        "num": 130461,
+        "word": "450万是很大一笔钱了",
+        "onboard_time": 1693995218,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130014,
+        "num": 130014,
+        "word": "东契奇狄龙被驱逐",
+        "onboard_time": 1694036954,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128959,
+        "num": 128959,
+        "word": "金球奖候选名单",
+        "onboard_time": 1694041766,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127097,
+        "num": 127097,
+        "word": "TFBOYS为易烊千玺新电影做宣传",
+        "onboard_time": 1694002356,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124142,
+        "num": 124142,
+        "word": "杨幂穿旗袍好美",
+        "onboard_time": 1694013157,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231778,
+        "num": 124138,
+        "word": "女生去中医馆买酸梅汤被医师教育",
+        "onboard_time": 1694041646,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204939,
+        "num": 124107,
+        "word": "为什么不能扣肚脐眼",
+        "onboard_time": 1694041766,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123730,
+        "num": 123730,
+        "word": "虞书欣做了八百个综艺效果",
+        "onboard_time": 1694015435,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113160,
+        "num": 113160,
+        "word": "辅导员建议考研能不吃的苦别吃",
+        "onboard_time": 1693998214,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109956,
+        "num": 109956,
+        "word": "朋友结婚随礼多随了一个零",
+        "onboard_time": 1693999114,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108190,
+        "num": 108190,
+        "word": "不愧是考公大省",
+        "onboard_time": 1693996959,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100313,
+        "num": 100313,
+        "word": "月薪5万有多难",
+        "onboard_time": 1694004276,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95986,
+        "num": 95986,
+        "word": "我很少用歹毒来形容一首歌",
+        "onboard_time": 1694033713,
+        "rank": 37,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 95530,
+        "num": 95530,
+        "word": "宫尚角坠入爱河了",
+        "onboard_time": 1694009317,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90941,
+        "num": 90941,
+        "word": "杨幂央视中秋晚会",
+        "onboard_time": 1694011420,
+        "rank": 39,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 90862,
+        "num": 90862,
+        "word": "JonyJ举行婚礼",
+        "onboard_time": 1694001335,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88188,
+        "num": 88188,
+        "word": "刘诗诗霍建华为胡歌新片打call",
+        "onboard_time": 1694014417,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87295,
+        "num": 87295,
+        "word": "猫猫虽年龄不大但工作能力强",
+        "onboard_time": 1694014836,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86013,
+        "num": 86013,
+        "word": "4岁萌娃走失完整写下爸爸手机号",
+        "onboard_time": 1694035815,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84773,
+        "num": 84773,
+        "word": "一杯咖啡 两代人的沉默",
+        "onboard_time": 1693997676,
+        "rank": 44,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 83238,
+        "num": 83238,
+        "word": "作家的敏感度不是一般人能比的",
+        "onboard_time": 1694020103,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81336,
+        "num": 81336,
+        "word": "关智斌霍汶希听不懂对方的普通话",
+        "onboard_time": 1694039543,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75367,
+        "num": 75367,
+        "word": "宫子羽坚信宫门只有一个细作",
+        "onboard_time": 1694016092,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75084,
+        "num": 75084,
+        "word": "王欣瑜晋级美网女双四强",
+        "onboard_time": 1694042007,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73139,
+        "num": 73139,
+        "word": "奥本海默片尾删除80%特效员工署名",
+        "onboard_time": 1693994676,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路机会和成果属于世界#"
+    }
+  }
+}
