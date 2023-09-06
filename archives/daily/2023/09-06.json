@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693977342022,
+  "endTime": 1693978441318,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -107,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1235306,
+      "num": 1235306,
+      "word": "虞书欣张凌赫来演云之羽的原因一模一样",
+      "onboard_time": 1693977457,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1220914,
       "num": 1220914,
       "word": "异人之下",
@@ -153,6 +161,14 @@
       "onboard_time": 1693966053,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 950380,
+      "num": 444712,
+      "word": "为什么二手房卖不动了价格却还坚挺",
+      "onboard_time": 1693975418,
+      "rank": 10,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 920296,
@@ -219,14 +235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 694813,
-      "num": 417939,
-      "word": "为什么二手房卖不动了价格却还坚挺",
-      "onboard_time": 1693975418,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 678290,
       "num": 678290,
       "word": "地铁判官解说",
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611301,
+      "num": 611301,
+      "word": "张子枫登VOGUE银十封面",
+      "onboard_time": 1693977036,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 611003,
       "num": 371452,
       "word": "厦门暴雨下到全国第一",
@@ -281,6 +297,14 @@
       "onboard_time": 1693952718,
       "rank": 34,
       "category": "自然"
+    },
+    {
+      "raw_hot": 608925,
+      "num": 608925,
+      "word": "黄奕时隔23年再扮李玉湖",
+      "onboard_time": 1693977098,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 606097,
@@ -329,6 +353,14 @@
       "onboard_time": 1693927779,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525950,
+      "num": 285025,
+      "word": "我都是追星女了",
+      "onboard_time": 1693977397,
+      "rank": 22,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 524899,
@@ -411,6 +443,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 422099,
+      "num": 422099,
+      "word": "热狗向朱德庸道歉",
+      "onboard_time": 1693976320,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417778,
       "num": 417778,
       "word": "韩国流行的自助煮面火到上海了",
@@ -433,6 +473,14 @@
       "onboard_time": 1693969957,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396635,
+      "num": 281586,
+      "word": "赵露思范思哲大片",
+      "onboard_time": 1693977457,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 392726,
@@ -481,14 +529,6 @@
       "onboard_time": 1693970498,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 374023,
-      "num": 374023,
-      "word": "热狗向朱德庸道歉",
-      "onboard_time": 1693976320,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 373113,
@@ -619,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281511,
+      "num": 281511,
+      "word": "成毅起诉黑粉侵犯名誉权",
+      "onboard_time": 1693977161,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281459,
       "num": 228744,
       "word": "第一次见笼子给自己用的",
@@ -705,14 +753,6 @@
       "onboard_time": 1693934301,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245962,
-      "num": 245962,
-      "word": "张子枫登VOGUE银十封面",
-      "onboard_time": 1693977036,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 241935,
@@ -803,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220548,
-      "num": 220548,
-      "word": "黄奕时隔23年再扮李玉湖",
-      "onboard_time": 1693977098,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220374,
       "num": 220374,
       "word": "想给趵突泉颁个最具毅力奖",
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211206,
+      "num": 211206,
+      "word": "云之羽今天播2集",
+      "onboard_time": 1693977397,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209539,
       "num": 209539,
       "word": "李泳知街头女战士challenge",
@@ -899,20 +939,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 202262,
+      "num": 202262,
+      "word": "张小斐走街串巷一日行",
+      "onboard_time": 1693976799,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202105,
       "num": 202105,
       "word": "愿山河无恙 家国永安",
       "onboard_time": 1693921902,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201858,
-      "num": 201858,
-      "word": "成毅起诉黑粉侵犯名誉权",
-      "onboard_time": 1693977161,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 201769,
@@ -969,14 +1009,6 @@
       "onboard_time": 1693956931,
       "rank": 45,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 193378,
-      "num": 193378,
-      "word": "张小斐走街串巷一日行",
-      "onboard_time": 1693976799,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193134,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1693914936,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141981,
+      "num": 282641,
+      "word": "肖战梦境大片",
+      "onboard_time": 1693977875,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141061,
@@ -1403,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24145,
+      "num": 415375,
+      "word": "跳江救人快递小哥当选亚运火炬手",
+      "onboard_time": 1693977575,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23796,
       "num": 23796,
       "word": "孙怡好会共情王睡睡",
@@ -1436,6 +1484,9 @@
     },
     {
       "word": "#互联护苗#"
+    },
+    {
+      "word": "#人道主义是能够凝聚不同文明的最大共识#"
     }
   ]
 }
