@@ -1,0 +1,410 @@
+{
+  "runTime": 1694010845171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2293793,
+        "num": 2293793,
+        "word": "真的讨厌二三十块叫一杯奶茶钱",
+        "onboard_time": 1694002896,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2070313,
+        "num": 2070313,
+        "word": "EXO 安踏",
+        "onboard_time": 1694008598,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31011,
+        "num": 1675065,
+        "word": "绿色低碳为服务贸易注入新动力",
+        "onboard_time": 1694008959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438314,
+        "num": 1438314,
+        "word": "一杯咖啡 两代人的沉默",
+        "onboard_time": 1693997676,
+        "rank": 3,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 1138124,
+        "num": 1138124,
+        "word": "450万是很大一笔钱了",
+        "onboard_time": 1693995218,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800376,
+        "num": 800376,
+        "word": "TFBOYS为易烊千玺新电影做宣传",
+        "onboard_time": 1694002356,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626528,
+        "num": 626528,
+        "word": "马龙回应决赛未上场",
+        "onboard_time": 1694009379,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 591911,
+        "num": 591911,
+        "word": "iPhone15国行售价曝光",
+        "onboard_time": 1693993657,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 540274,
+        "num": 540274,
+        "word": "骄阳伴我央视收视率",
+        "onboard_time": 1694007698,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531778,
+        "num": 531778,
+        "word": "宫尚角坠入爱河了",
+        "onboard_time": 1694009317,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749263,
+        "num": 529589,
+        "word": "王一博终于晒自拍了",
+        "onboard_time": 1694006436,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699408,
+        "num": 527393,
+        "word": "马伯骞的家造型像博物馆",
+        "onboard_time": 1694006978,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270851,
+        "num": 523127,
+        "word": "幼童4根手指被绞断交警狂飙送医",
+        "onboard_time": 1693996293,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671601,
+        "num": 520330,
+        "word": "JonyJ举行婚礼",
+        "onboard_time": 1694001335,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16433,
+        "num": 517782,
+        "word": "微博公示自媒体乱象治理情况",
+        "onboard_time": 1694010460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516290,
+        "num": 516290,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496211,
+        "num": 496211,
+        "word": "一万块回农村可以躺平多久",
+        "onboard_time": 1693994078,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484636,
+        "num": 484636,
+        "word": "云之羽月长老",
+        "onboard_time": 1694009562,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474838,
+        "num": 474838,
+        "word": "酱香拿铁已经火到韩国了",
+        "onboard_time": 1693994974,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 434432,
+        "num": 434432,
+        "word": "5名大学生人均花37元改造宿舍",
+        "onboard_time": 1694002477,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658855,
+        "num": 434252,
+        "word": "头发硬到割坏了抓夹",
+        "onboard_time": 1694009138,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405507,
+        "num": 405507,
+        "word": "原定金钟奖主持人炎亚纶被撤换",
+        "onboard_time": 1694007997,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381246,
+        "num": 381246,
+        "word": "邓紫棋说我是歌手已经是十年前了",
+        "onboard_time": 1694004457,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368774,
+        "num": 368774,
+        "word": "虞书欣怎么这么会哭",
+        "onboard_time": 1694010159,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332874,
+        "num": 332874,
+        "word": "梦泪婚礼炸出AG新成员",
+        "onboard_time": 1694007097,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329313,
+        "num": 329313,
+        "word": "月薪5万有多难",
+        "onboard_time": 1694004276,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318668,
+        "num": 318668,
+        "word": "不愧是考公大省",
+        "onboard_time": 1693996959,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303798,
+        "num": 303798,
+        "word": "有多少人记得这种手帕老鼠",
+        "onboard_time": 1694005898,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322703,
+        "num": 299206,
+        "word": "云之羽",
+        "onboard_time": 1693998874,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292079,
+        "num": 292079,
+        "word": "朋友结婚随礼多随了一个零",
+        "onboard_time": 1693999114,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 608800,
+        "num": 288399,
+        "word": "被我爱豆揽到腿上",
+        "onboard_time": 1694004698,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283390,
+        "num": 283390,
+        "word": "肖战白百何新剧差点差辈了",
+        "onboard_time": 1693998636,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281928,
+        "num": 281928,
+        "word": "易烊千玺舒淇居然是二搭",
+        "onboard_time": 1694004758,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278733,
+        "num": 278733,
+        "word": "中国女排获亚锦赛亚军",
+        "onboard_time": 1694009859,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253306,
+        "num": 253306,
+        "word": "辅导员建议考研能不吃的苦别吃",
+        "onboard_time": 1693998214,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 245900,
+        "num": 245900,
+        "word": "洪知秀演唱会哭了",
+        "onboard_time": 1694003197,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234677,
+        "num": 234677,
+        "word": "王垲智爆灯",
+        "onboard_time": 1694008717,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228152,
+        "num": 228152,
+        "word": "天津掰掰退出狮子林桥跳水",
+        "onboard_time": 1694005716,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222559,
+        "num": 222559,
+        "word": "自费盖8间房找出哪台空调最省电",
+        "onboard_time": 1694010579,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217706,
+        "num": 217706,
+        "word": "Lisa更新",
+        "onboard_time": 1693992815,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215420,
+        "num": 215420,
+        "word": "Doinb新贯口",
+        "onboard_time": 1694006377,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214880,
+        "num": 214880,
+        "word": "文俊辉 茅台咖啡真那么好喝吗",
+        "onboard_time": 1694010759,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213588,
+        "num": 213588,
+        "word": "男子饭店点干锅兔惹哭店主女儿",
+        "onboard_time": 1694008177,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211564,
+        "num": 211564,
+        "word": "云之羽也喝了白粥",
+        "onboard_time": 1694006500,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203324,
+        "num": 203324,
+        "word": "在韩国穿睡衣出门被嘲笑了",
+        "onboard_time": 1694010699,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201802,
+        "num": 201802,
+        "word": "吴磊说随便说胡歌说怎么能随便",
+        "onboard_time": 1694010036,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196181,
+        "num": 196181,
+        "word": "奥本海默片尾删除80%特效员工署名",
+        "onboard_time": 1693994676,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187479,
+        "num": 187479,
+        "word": "没想到我提离职猫同事也要走",
+        "onboard_time": 1693998156,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184186,
+        "num": 184186,
+        "word": "福建暴雨",
+        "onboard_time": 1694010579,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153572,
+        "num": 183794,
+        "word": "福州2名牺牲消防员身份已确认",
+        "onboard_time": 1694000376,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人道主义是能够凝聚不同文明的最大共识#"
+    }
+  }
+}

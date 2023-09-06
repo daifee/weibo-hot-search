@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694009761347,
+  "endTime": 1694010845171,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2070313,
+      "num": 2070313,
+      "word": "EXO 安踏",
+      "onboard_time": 1694008598,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2065404,
       "num": 2065404,
       "word": "灵隐寺出奶茶了",
@@ -579,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1725004,
-      "num": 1725004,
-      "word": "EXO 安踏",
-      "onboard_time": 1694008598,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1712419,
       "num": 1712419,
       "word": "华科新闻学院院长回应张雪峰",
@@ -729,6 +729,14 @@
       "onboard_time": 1693887280,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1438314,
+      "num": 1438314,
+      "word": "一杯咖啡 两代人的沉默",
+      "onboard_time": 1693997676,
+      "rank": 10,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 1432512,
@@ -889,14 +897,6 @@
       "onboard_time": 1693808314,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1237096,
-      "num": 1237096,
-      "word": "一杯咖啡 两代人的沉默",
-      "onboard_time": 1693997676,
-      "rank": 10,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 1226099,
@@ -2355,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 658855,
+      "num": 434252,
+      "word": "头发硬到割坏了抓夹",
+      "onboard_time": 1694009138,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 657543,
       "num": 657543,
       "word": "丞磊卢昱晓这么会营业不要命啦",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1693745680,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 626528,
+      "num": 626528,
+      "word": "马龙回应决赛未上场",
+      "onboard_time": 1694009379,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 626505,
@@ -3187,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531778,
+      "num": 531778,
+      "word": "宫尚角坠入爱河了",
+      "onboard_time": 1694009317,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 530565,
       "num": 397271,
       "word": "张晚意有6部一番男主剧",
@@ -3489,6 +3513,14 @@
       "onboard_time": 1693815279,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484636,
+      "num": 484636,
+      "word": "云之羽月长老",
+      "onboard_time": 1694009562,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 484571,
@@ -4403,14 +4435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375069,
-      "num": 375069,
-      "word": "云之羽月长老",
-      "onboard_time": 1694009562,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 373306,
       "num": 373306,
       "word": "易烊千玺金鹿奖最佳男演员",
@@ -4449,6 +4473,14 @@
       "onboard_time": 1693909959,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 368774,
+      "num": 368774,
+      "word": "虞书欣怎么这么会哭",
+      "onboard_time": 1694010159,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 368765,
@@ -4491,14 +4523,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 365514,
-      "num": 302471,
-      "word": "宫尚角坠入爱河了",
-      "onboard_time": 1694009317,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 365086,
       "num": 365086,
       "word": "再见爱人3开播",
@@ -4537,14 +4561,6 @@
       "onboard_time": 1693930831,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356063,
-      "num": 295333,
-      "word": "头发硬到割坏了抓夹",
-      "onboard_time": 1694009138,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 355957,
@@ -5595,14 +5611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282816,
-      "num": 282816,
-      "word": "马龙回应决赛未上场",
-      "onboard_time": 1694009379,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 282355,
       "num": 282355,
       "word": "女神大赛棋手战鹰夺冠",
@@ -5665,6 +5673,14 @@
       "onboard_time": 1693984834,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278733,
+      "num": 278733,
+      "word": "中国女排获亚锦赛亚军",
+      "onboard_time": 1694009859,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 278536,
@@ -6891,6 +6907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222559,
+      "num": 222559,
+      "word": "自费盖8间房找出哪台空调最省电",
+      "onboard_time": 1694010579,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 222415,
       "num": 222415,
       "word": "洪胜汉选的都是自己",
@@ -7105,6 +7129,14 @@
       "onboard_time": 1693920458,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214880,
+      "num": 214880,
+      "word": "文俊辉 茅台咖啡真那么好喝吗",
+      "onboard_time": 1694010759,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 214717,
@@ -7467,6 +7499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203324,
+      "num": 203324,
+      "word": "在韩国穿睡衣出门被嘲笑了",
+      "onboard_time": 1694010699,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203274,
       "num": 205177,
       "word": "99公益日",
@@ -7553,6 +7593,14 @@
       "onboard_time": 1694009138,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201802,
+      "num": 201802,
+      "word": "吴磊说随便说胡歌说怎么能随便",
+      "onboard_time": 1694010036,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 201769,
@@ -8249,6 +8297,14 @@
       "onboard_time": 1693878996,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184186,
+      "num": 184186,
+      "word": "福建暴雨",
+      "onboard_time": 1694010579,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183783,
@@ -10291,6 +10347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31011,
+      "num": 1675065,
+      "word": "绿色低碳为服务贸易注入新动力",
+      "onboard_time": 1694008959,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30014,
       "num": 30014,
       "word": "当事人回应怒砸10杯酱香拿铁",
@@ -10371,14 +10435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21376,
-      "num": 1434668,
-      "word": "绿色低碳为服务贸易注入新动力",
-      "onboard_time": 1694008959,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21233,
       "num": 21233,
       "word": "秋天的微风是桂花味",
@@ -10433,6 +10489,14 @@
       "onboard_time": 1693769654,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16433,
+      "num": 517782,
+      "word": "微博公示自媒体乱象治理情况",
+      "onboard_time": 1694010460,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16265,
