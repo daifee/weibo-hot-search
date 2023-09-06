@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/06 21:20:55
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/06 21:33:55
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E8%AE%A8%E5%8E%8C%E4%BA%8C%E4%B8%89%E5%8D%81%E5%9D%97%E5%8F%AB%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%23" target="weibo">
+真的讨厌二三十块叫一杯奶茶钱（热度：2806005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%88%B7%E5%A4%96%E6%B6%89%E9%BB%84%E7%9B%B4%E6%92%AD%E5%BD%93%E5%9C%BA%E8%A2%AB%E6%8A%93%23" target="weibo">
 女主播户外涉黄直播当场被抓（热度：2757911）
 </a>
@@ -245,12 +251,6 @@ papi酱气离婚的又气不离婚的（热度：2671752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%BD%9A%E6%AC%BE5000%E4%B8%87%E5%85%83%23" target="weibo">
 知网被罚款5000万元（热度：2614461）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E8%AE%A8%E5%8E%8C%E4%BA%8C%E4%B8%89%E5%8D%81%E5%9D%97%E5%8F%AB%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%23" target="weibo">
-真的讨厌二三十块叫一杯奶茶钱（热度：2604812）
 </a>
 </li>
 
@@ -1677,6 +1677,12 @@ Jessi要来成都（热度：979258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BB%88%E4%BA%8E%E6%99%92%E8%87%AA%E6%8B%8D%E4%BA%86%23" target="weibo">
+王一博终于晒自拍了（热度：906057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%9A%91%E5%81%87%E6%9C%80%E5%87%BA%E5%9C%88%E7%9A%84%E5%8F%B0%E8%AF%8D%23" target="weibo">
 这个暑假最出圈的台词（热度：905612）
 </a>
@@ -2577,6 +2583,12 @@ IU抄袭指控警方不予立案（热度：694848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%BA%E5%9D%87%E8%8A%B137%E5%85%83%E6%94%B9%E9%80%A0%E5%AE%BF%E8%88%8D%23" target="weibo">
+5名大学生人均花37元改造宿舍（热度：670752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%B0%86%E9%92%93%E9%B1%BC%E5%B2%9B%E6%A0%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%9C%9F%E7%90%86%E6%89%80%E5%BD%93%E7%84%B6%23" target="weibo">
 中国地图将钓鱼岛标为中国领土理所当然（热度：670462）
 </a>
@@ -2627,6 +2639,12 @@ Lisa更新（热度：660868）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9D%A2%E7%9B%B8%E5%8F%98%E5%A5%BD%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 让自己的面相变好的方法（热度：660580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%91%E7%88%B1%E8%B1%86%E6%8F%BD%E5%88%B0%E8%85%BF%E4%B8%8A%23" target="weibo">
+被我爱豆揽到腿上（热度：658411）
 </a>
 </li>
 
@@ -3003,12 +3021,6 @@ Mate60遥遥领先（热度：627029）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%BA%E5%9D%87%E8%8A%B137%E5%85%83%E6%94%B9%E9%80%A0%E5%AE%BF%E8%88%8D%23" target="weibo">
-5名大学生人均花37元改造宿舍（热度：605922）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E9%80%80%E7%BE%A4%E5%89%8D%E5%A5%BD%E5%A5%BD%E5%8F%91%E6%B3%84%E4%BA%86%E4%B8%80%E6%B3%A2%E6%83%85%E7%BB%AA%23" target="weibo">
 离职退群前好好发泄了一波情绪（热度：605251）
 </a>
@@ -3381,6 +3393,12 @@ B太 海鲜市场还会有做鬼的吗（热度：560297）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E7%9A%84%E5%AE%B6%E9%80%A0%E5%9E%8B%E5%83%8F%E5%8D%9A%E7%89%A9%E9%A6%86%23" target="weibo">
+马伯骞的家造型像博物馆（热度：549878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%9C%E6%B5%B7%E6%9D%8E%E8%B5%AB%E5%AE%B0%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23" target="weibo">
 李东海李赫宰成立新公司（热度：549824）
 </a>
@@ -3399,8 +3417,8 @@ B太 海鲜市场还会有做鬼的吗（热度：560297）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%91%E7%88%B1%E8%B1%86%E6%8F%BD%E5%88%B0%E8%85%BF%E4%B8%8A%23" target="weibo">
-被我爱豆揽到腿上（热度：548573）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA5%E4%B8%87%E6%9C%89%E5%A4%9A%E9%9A%BE%23" target="weibo">
+月薪5万有多难（热度：548947）
 </a>
 </li>
 
@@ -3593,12 +3611,6 @@ DF（热度：539896）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%993%E6%AF%940%E5%AE%89%E5%AE%B0%E8%B4%A4%23" target="weibo">
 马龙3比0安宰贤（热度：528924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA5%E4%B8%87%E6%9C%89%E5%A4%9A%E9%9A%BE%23" target="weibo">
-月薪5万有多难（热度：527903）
 </a>
 </li>
 
@@ -5193,6 +5205,12 @@ HYBE新女团出道名单（热度：371082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%8E%B0%E6%8E%B0%E9%80%80%E5%87%BA%E7%8B%AE%E5%AD%90%E6%9E%97%E6%A1%A5%E8%B7%B3%E6%B0%B4%23" target="weibo">
+天津掰掰退出狮子林桥跳水（热度：368765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%B8%88%E5%82%85%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E9%87%8E%E7%90%83%E5%B8%9D%23" target="weibo">
 王师傅回应退出野球帝（热度：367902）
 </a>
@@ -5397,12 +5415,6 @@ i人无痛装e教程（热度：362321）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BB%88%E4%BA%8E%E6%99%92%E8%87%AA%E6%8B%8D%E4%BA%86%23" target="weibo">
-王一博终于晒自拍了（热度：348674）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E5%AE%89%E5%AE%87%E5%90%88%E4%BD%93%E5%BD%95%E7%BB%BC%E8%89%BA%23" target="weibo">
 范丞丞王安宇合体录综艺（热度：348374）
 </a>
@@ -5573,12 +5585,6 @@ i人无痛装e教程（热度：362321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%B8%B8%E9%81%AD%E4%B8%88%E5%A4%AB%E5%AE%B6%E6%9A%B4%E5%B0%86%E5%85%B6%E5%8B%92%E6%AD%BB%E8%8E%B7%E5%88%9115%E5%B9%B4%23" target="weibo">
 女子因常遭丈夫家暴将其勒死获刑15年（热度：337253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%8E%B0%E6%8E%B0%E9%80%80%E5%87%BA%E7%8B%AE%E5%AD%90%E6%9E%97%E6%A1%A5%E8%B7%B3%E6%B0%B4%23" target="weibo">
-天津掰掰退出狮子林桥跳水（热度：336476）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Zoom和Tian担任解说杯嘉宾（热度：324568）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E9%80%89%E6%8B%A9%E5%87%BA%E6%BC%94%E6%96%B9%E5%A4%9A%E7%97%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 曾舜晞选择出演方多病的原因（热度：308629）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E9%9B%AF%E7%8F%BA%E5%A7%9C%E7%8F%AE%E7%91%B6%E5%90%BB%E6%88%8F%E5%A5%BD%E6%AC%B2%23" target="weibo">
-毕雯珺姜珮瑶吻戏好欲（热度：308148）
 </a>
 </li>
 

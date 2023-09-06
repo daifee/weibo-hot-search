@@ -1,0 +1,410 @@
+{
+  "runTime": 1694007235756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2806005,
+        "num": 2806005,
+        "word": "真的讨厌二三十块叫一杯奶茶钱",
+        "onboard_time": 1694002896,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1349851,
+        "num": 1349851,
+        "word": "450万是很大一笔钱了",
+        "onboard_time": 1693995218,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 6462,
+        "num": 1072525,
+        "word": "沉浸式体验服贸会上的科幻互动",
+        "onboard_time": 1693975661,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865560,
+        "num": 865560,
+        "word": "TFBOYS为易烊千玺新电影做宣传",
+        "onboard_time": 1694002356,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670752,
+        "num": 670752,
+        "word": "5名大学生人均花37元改造宿舍",
+        "onboard_time": 1694002477,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646695,
+        "num": 646695,
+        "word": "一杯咖啡 两代人的沉默",
+        "onboard_time": 1693997676,
+        "rank": 5,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 631361,
+        "num": 631361,
+        "word": "酱香拿铁已经火到韩国了",
+        "onboard_time": 1693994974,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 582913,
+        "num": 582913,
+        "word": "邓紫棋说我是歌手已经是十年前了",
+        "onboard_time": 1694004457,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518866,
+        "num": 518866,
+        "word": "iPhone15国行售价曝光",
+        "onboard_time": 1693993657,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 483739,
+        "num": 483739,
+        "word": "一万块回农村可以躺平多久",
+        "onboard_time": 1693994078,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 906057,
+        "num": 483647,
+        "word": "王一博终于晒自拍了",
+        "onboard_time": 1694006436,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796527,
+        "num": 482134,
+        "word": "JonyJ举行婚礼",
+        "onboard_time": 1694001335,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595660,
+        "num": 480792,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260204,
+        "num": 480241,
+        "word": "幼童4根手指被绞断交警狂飙送医",
+        "onboard_time": 1693996293,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181177,
+        "num": 479337,
+        "word": "福州2名牺牲消防员身份已确认",
+        "onboard_time": 1694000376,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478441,
+        "num": 478441,
+        "word": "洪知秀演唱会哭了",
+        "onboard_time": 1694003197,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 549878,
+        "num": 464954,
+        "word": "马伯骞的家造型像博物馆",
+        "onboard_time": 1694006978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532155,
+        "num": 464799,
+        "word": "易烊千玺舒淇居然是二搭",
+        "onboard_time": 1694004758,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442169,
+        "num": 442169,
+        "word": "肖战工作室发了九宫格",
+        "onboard_time": 1694002778,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420286,
+        "num": 420286,
+        "word": "张凌赫虞书欣hi6不同期录制",
+        "onboard_time": 1694003077,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548947,
+        "num": 401289,
+        "word": "月薪5万有多难",
+        "onboard_time": 1694004276,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 368765,
+        "num": 368765,
+        "word": "天津掰掰退出狮子林桥跳水",
+        "onboard_time": 1694005716,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349940,
+        "num": 349940,
+        "word": "古力 恭喜首冠",
+        "onboard_time": 1694004096,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 339180,
+        "num": 339180,
+        "word": "不愧是考公大省",
+        "onboard_time": 1693996959,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331657,
+        "num": 331657,
+        "word": "没想到我提离职猫同事也要走",
+        "onboard_time": 1693998156,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308165,
+        "num": 308165,
+        "word": "云之羽也喝了白粥",
+        "onboard_time": 1694006500,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306980,
+        "num": 306980,
+        "word": "辅导员建议考研能不吃的苦别吃",
+        "onboard_time": 1693998214,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 297104,
+        "num": 297104,
+        "word": "奥本海默片尾删除80%特效员工署名",
+        "onboard_time": 1693994676,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274131,
+        "num": 274131,
+        "word": "朋友结婚随礼多随了一个零",
+        "onboard_time": 1693999114,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265106,
+        "num": 265106,
+        "word": "Doinb新贯口",
+        "onboard_time": 1694006377,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 658411,
+        "num": 263718,
+        "word": "被我爱豆揽到腿上",
+        "onboard_time": 1694004698,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252676,
+        "num": 252676,
+        "word": "李一桐曾舜晞一个敢吹一个敢灭",
+        "onboard_time": 1694004997,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250536,
+        "num": 250536,
+        "word": "兮兮",
+        "onboard_time": 1694001820,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229685,
+        "num": 229685,
+        "word": "Lisa更新",
+        "onboard_time": 1693992815,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210186,
+        "num": 210186,
+        "word": "经理因我有两个弟弟而录用我",
+        "onboard_time": 1694002835,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210017,
+        "num": 210017,
+        "word": "云之羽",
+        "onboard_time": 1693998874,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208630,
+        "num": 208630,
+        "word": "有多少人记得这种手帕老鼠",
+        "onboard_time": 1694005898,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203839,
+        "num": 203839,
+        "word": "17岁小伙疑因付不起280元房租杀害房东",
+        "onboard_time": 1693999413,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199307,
+        "num": 199307,
+        "word": "林俊杰北京",
+        "onboard_time": 1694002778,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197401,
+        "num": 197401,
+        "word": "范丞丞吃饭是真等不了一点",
+        "onboard_time": 1694006858,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185475,
+        "num": 185475,
+        "word": "地铁判官已赔礼道歉",
+        "onboard_time": 1693986033,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171741,
+        "num": 171741,
+        "word": "张栋梁唐禹哲居然早就认识了",
+        "onboard_time": 1693995874,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168091,
+        "num": 168091,
+        "word": "难怪于适封神上课不走神",
+        "onboard_time": 1694004698,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162745,
+        "num": 162745,
+        "word": "Hero取关久哲",
+        "onboard_time": 1693988376,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155005,
+        "num": 155005,
+        "word": "seventeen演唱会",
+        "onboard_time": 1694003977,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151667,
+        "num": 151667,
+        "word": "国乒男团亚锦赛夺冠",
+        "onboard_time": 1694004640,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145856,
+        "num": 145856,
+        "word": "梦泪婚礼炸出AG新成员",
+        "onboard_time": 1694007097,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132288,
+        "num": 132288,
+        "word": "王源出国前录的音综定档了",
+        "onboard_time": 1694003256,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131183,
+        "num": 131183,
+        "word": "1只小白虎在狮群里被挤成银渐层",
+        "onboard_time": 1693996233,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126555,
+        "num": 126555,
+        "word": "DF",
+        "onboard_time": 1694001995,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#人道主义是能够凝聚不同文明的最大共识#"
+    }
+  }
+}
