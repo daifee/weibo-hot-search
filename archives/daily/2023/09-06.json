@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693967615529,
+  "endTime": 1693970220398,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -9,6 +9,14 @@
       "onboard_time": 1693962400,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2757911,
+      "num": 2757911,
+      "word": "女主播户外涉黄直播当场被抓",
+      "onboard_time": 1693965394,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2672615,
@@ -35,12 +43,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2164601,
-      "num": 2164601,
-      "word": "女主播户外涉黄直播当场被抓",
-      "onboard_time": 1693965394,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 1966079,
+      "num": 1966079,
+      "word": "D社曝黑暗荣耀金赫拉校园暴力",
+      "onboard_time": 1693968272,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1943476,
@@ -115,6 +123,22 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 974097,
+      "num": 974097,
+      "word": "考研人很难不心动",
+      "onboard_time": 1693966053,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 906917,
+      "num": 460730,
+      "word": "酱香拿铁在泰国火了",
+      "onboard_time": 1693969295,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 900419,
       "num": 900419,
       "word": "为什么要多和婴儿聊天",
@@ -131,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809215,
+      "num": 446897,
+      "word": "王源今天正式开始上课",
+      "onboard_time": 1693969415,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800270,
       "num": 800270,
       "word": "活牛2分钟被强行灌水近50升",
       "onboard_time": 1693960058,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770970,
-      "num": 511284,
-      "word": "考研人很难不心动",
-      "onboard_time": 1693966053,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 697918,
@@ -227,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541134,
+      "num": 431015,
+      "word": "赵丽颖自在丰盈大片",
+      "onboard_time": 1693969654,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 527283,
       "num": 440477,
       "word": "胡锡进 我们需要管理自己的厌日情绪",
@@ -281,6 +313,14 @@
       "onboard_time": 1693960058,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418019,
+      "num": 442837,
+      "word": "新疆大螃蟹发货了",
+      "onboard_time": 1693969114,
+      "rank": 13,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 417778,
@@ -371,19 +411,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355957,
+      "num": 355957,
+      "word": "虞书欣命运的齿轮开始转动",
+      "onboard_time": 1693966535,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354730,
       "num": 354730,
       "word": "年下不叫姐心思有点野",
       "onboard_time": 1693960478,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 339986,
-      "num": 339986,
-      "word": "虞书欣命运的齿轮开始转动",
-      "onboard_time": 1693966535,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -451,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281952,
+      "num": 281952,
+      "word": "女子接受医美机构血液净化疗法后身体不适",
+      "onboard_time": 1693968878,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278189,
       "num": 278189,
       "word": "刘亦菲霍建华玫瑰故事路透",
@@ -481,6 +529,14 @@
       "onboard_time": 1693922023,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259207,
+      "num": 259207,
+      "word": "梦泪伴郎各忙各的",
+      "onboard_time": 1693967014,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 258792,
@@ -555,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231791,
+      "num": 231791,
+      "word": "3岁走失萌娃说爸爸的电话是123",
+      "onboard_time": 1693968157,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231334,
       "num": 231334,
       "word": "孟子义我的恋综嘴替",
@@ -601,14 +665,6 @@
       "onboard_time": 1693917216,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217161,
-      "num": 217161,
-      "word": "梦泪伴郎各忙各的",
-      "onboard_time": 1693967014,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 214717,
@@ -697,6 +753,14 @@
       "onboard_time": 1693964976,
       "rank": 34,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 191045,
+      "num": 191045,
+      "word": "蔡国庆的精神状态好美",
+      "onboard_time": 1693969114,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 190095,
@@ -795,12 +859,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160120,
+      "num": 160120,
+      "word": "男生骑兄弟脖子上跟女友吻别",
+      "onboard_time": 1693969957,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158488,
       "num": 158488,
       "word": "杨汝晴给侯卓成盖章",
       "onboard_time": 1693922980,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153337,
+      "num": 153337,
+      "word": "一代人有一代人的符号看象限",
+      "onboard_time": 1693969415,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153052,
+      "num": 153052,
+      "word": "汪苏泷上海抢票",
+      "onboard_time": 1693970076,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 152663,
@@ -913,6 +1001,14 @@
       "onboard_time": 1693918538,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128972,
+      "num": 128972,
+      "word": "警察哥哥眼里含笑迎退伍弟弟",
+      "onboard_time": 1693969236,
+      "rank": 47,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 127803,
@@ -1083,7 +1179,7 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 12904,
+      "raw_hot": 18196,
       "num": 1727581,
       "word": "杭州亚运会逛玩指南",
       "onboard_time": 1693891837,

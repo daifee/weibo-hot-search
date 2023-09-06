@@ -1,0 +1,410 @@
+{
+  "runTime": 1693970220398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2757911,
+        "num": 2757911,
+        "word": "女主播户外涉黄直播当场被抓",
+        "onboard_time": 1693965394,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1966079,
+        "num": 1966079,
+        "word": "D社曝黑暗荣耀金赫拉校园暴力",
+        "onboard_time": 1693968272,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18196,
+        "num": 1134666,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 2,
+        "category": "旅游,体育"
+      },
+      {
+        "raw_hot": 2954890,
+        "num": 1125789,
+        "word": "秀才账号被封 信息茧房",
+        "onboard_time": 1693962400,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 974097,
+        "num": 974097,
+        "word": "考研人很难不心动",
+        "onboard_time": 1693966053,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1085809,
+        "num": 971667,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895313,
+        "num": 895313,
+        "word": "15800的月嫂一天都在做什么",
+        "onboard_time": 1693959577,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 630881,
+        "num": 630881,
+        "word": "张艺谋",
+        "onboard_time": 1693962520,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486780,
+        "num": 486780,
+        "word": "异人之下",
+        "onboard_time": 1693963118,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461930,
+        "num": 461930,
+        "word": "蜜雪冰城 五粮液",
+        "onboard_time": 1693914455,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 906917,
+        "num": 460730,
+        "word": "酱香拿铁在泰国火了",
+        "onboard_time": 1693969295,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 826240,
+        "num": 451353,
+        "word": "日本称为应对中国禁令已砸千亿日元",
+        "onboard_time": 1693960236,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809215,
+        "num": 446897,
+        "word": "王源今天正式开始上课",
+        "onboard_time": 1693969415,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418019,
+        "num": 442837,
+        "word": "新疆大螃蟹发货了",
+        "onboard_time": 1693969114,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 310908,
+        "num": 436135,
+        "word": "弟弟接放学姐姐拦不住根本拦不住",
+        "onboard_time": 1693964130,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541134,
+        "num": 431015,
+        "word": "赵丽颖自在丰盈大片",
+        "onboard_time": 1693969654,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 429264,
+        "num": 429264,
+        "word": "瑞幸加茅台 华尔街跪下来",
+        "onboard_time": 1693922679,
+        "rank": 16,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 395470,
+        "num": 395470,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693967734,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363713,
+        "num": 363713,
+        "word": "袁冰妍为什么没有被认定偷税漏税",
+        "onboard_time": 1693926163,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355957,
+        "num": 355957,
+        "word": "虞书欣命运的齿轮开始转动",
+        "onboard_time": 1693966535,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397479,
+        "num": 355512,
+        "word": "厦门暴雨下到全国第一",
+        "onboard_time": 1693965633,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354832,
+        "num": 354832,
+        "word": "活牛2分钟被强行灌水近50升",
+        "onboard_time": 1693960058,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304578,
+        "num": 304578,
+        "word": "梦泪婚礼",
+        "onboard_time": 1693960478,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297622,
+        "num": 297622,
+        "word": "李圣经好像迪士尼公主在唱歌",
+        "onboard_time": 1693960418,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284610,
+        "num": 284610,
+        "word": "贵州杀妻灭子案重审宣判",
+        "onboard_time": 1693963836,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281952,
+        "num": 281952,
+        "word": "女子接受医美机构血液净化疗法后身体不适",
+        "onboard_time": 1693968878,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261831,
+        "num": 261831,
+        "word": "为什么要多和婴儿聊天",
+        "onboard_time": 1693957471,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259207,
+        "num": 259207,
+        "word": "梦泪伴郎各忙各的",
+        "onboard_time": 1693967014,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244386,
+        "num": 244386,
+        "word": "地铁判官 起初人们没注意到那条动态",
+        "onboard_time": 1693960837,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 240888,
+        "num": 240888,
+        "word": "小萝卜头如果还活着今年82岁了",
+        "onboard_time": 1693960720,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 234760,
+        "num": 234760,
+        "word": "杭州阿姨账户里的1700万保住了",
+        "onboard_time": 1693958013,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231791,
+        "num": 231791,
+        "word": "3岁走失萌娃说爸爸的电话是123",
+        "onboard_time": 1693968157,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221273,
+        "num": 221273,
+        "word": "关于00后老板睡过头这件事",
+        "onboard_time": 1693958856,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208812,
+        "num": 208812,
+        "word": "为什么要找高个男友",
+        "onboard_time": 1693960058,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196220,
+        "num": 196220,
+        "word": "杨丞琳说孟子义好难追",
+        "onboard_time": 1693964076,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191045,
+        "num": 191045,
+        "word": "蔡国庆的精神状态好美",
+        "onboard_time": 1693969114,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189741,
+        "num": 189741,
+        "word": "年下不叫姐心思有点野",
+        "onboard_time": 1693960478,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160120,
+        "num": 160120,
+        "word": "男生骑兄弟脖子上跟女友吻别",
+        "onboard_time": 1693969957,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159457,
+        "num": 159457,
+        "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
+        "onboard_time": 1693965454,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153337,
+        "num": 153337,
+        "word": "一代人有一代人的符号看象限",
+        "onboard_time": 1693969415,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153052,
+        "num": 153052,
+        "word": "汪苏泷上海抢票",
+        "onboard_time": 1693970076,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150830,
+        "num": 150830,
+        "word": "如何看待浏览器推送张艺谋谣言",
+        "onboard_time": 1693964856,
+        "rank": 41,
+        "category": "社会议题,艺人"
+      },
+      {
+        "raw_hot": 146503,
+        "num": 146503,
+        "word": "马立奥点头笑",
+        "onboard_time": 1693960779,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142895,
+        "num": 142895,
+        "word": "宫子羽 牛高马大",
+        "onboard_time": 1693958254,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141079,
+        "num": 141079,
+        "word": "妹妹第一天上托班大班哥哥惊喜现身",
+        "onboard_time": 1693963178,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135437,
+        "num": 135437,
+        "word": "福州厦门两地发布暴雨红色预警",
+        "onboard_time": 1693961139,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134299,
+        "num": 134299,
+        "word": "印媒曝印度或讨论将国名改为巴拉特",
+        "onboard_time": 1693956990,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128972,
+        "num": 128972,
+        "word": "警察哥哥眼里含笑迎退伍弟弟",
+        "onboard_time": 1693969236,
+        "rank": 47,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 128521,
+        "num": 128521,
+        "word": "男子称怒砸10杯酱香拿铁不是因奶油太丑",
+        "onboard_time": 1693929036,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128410,
+        "num": 128410,
+        "word": "财神节",
+        "onboard_time": 1693962696,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共促世界经济复苏和增长#"
+    }
+  }
+}
