@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1694004559805,
+  "endTime": 1694006455571,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -33,6 +33,14 @@
       "onboard_time": 1693991137,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2604812,
+      "num": 2604812,
+      "word": "真的讨厌二三十块叫一杯奶茶钱",
+      "onboard_time": 1694002896,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 2512971,
@@ -145,14 +153,6 @@
       "onboard_time": 1693960236,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1608567,
-      "num": 1608567,
-      "word": "真的讨厌二三十块叫一杯奶茶钱",
-      "onboard_time": 1694002896,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 1590640,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653324,
+      "num": 535407,
+      "word": "易烊千玺舒淇居然是二搭",
+      "onboard_time": 1694004758,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 651387,
       "num": 651387,
       "word": "药水哥消失4个月变这样了",
@@ -595,6 +603,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 605922,
+      "num": 605922,
+      "word": "5名大学生人均花37元改造宿舍",
+      "onboard_time": 1694002477,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605016,
       "num": 605016,
       "word": "梦泪婚礼聚集大半个电竞圈",
@@ -617,6 +633,14 @@
       "onboard_time": 1693993476,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 588924,
+      "num": 588924,
+      "word": "邓紫棋说我是歌手已经是十年前了",
+      "onboard_time": 1694004457,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 579193,
@@ -667,6 +691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 548573,
+      "num": 247762,
+      "word": "被我爱豆揽到腿上",
+      "onboard_time": 1694004698,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 543364,
       "num": 543364,
       "word": "中国人不做那种偷鸡摸狗的事",
@@ -697,6 +729,14 @@
       "onboard_time": 1693979254,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 527903,
+      "num": 387854,
+      "word": "月薪5万有多难",
+      "onboard_time": 1694004276,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 527283,
@@ -819,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455305,
+      "num": 455305,
+      "word": "张凌赫虞书欣hi6不同期录制",
+      "onboard_time": 1694003077,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453411,
       "num": 560947,
       "word": "知网运营的14款APP存在违法行为",
@@ -873,14 +921,6 @@
       "onboard_time": 1693976320,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 421672,
-      "num": 421672,
-      "word": "张凌赫虞书欣hi6不同期录制",
-      "onboard_time": 1694003077,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 417778,
@@ -961,6 +1001,14 @@
       "onboard_time": 1693958856,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 389130,
+      "num": 389130,
+      "word": "古力 恭喜首冠",
+      "onboard_time": 1694004096,
+      "rank": 31,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 383186,
@@ -1067,6 +1115,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 348674,
+      "num": 348674,
+      "word": "王一博终于晒自拍了",
+      "onboard_time": 1694006436,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348192,
       "num": 326612,
       "word": "教一年级学生的老师都太伟大了",
@@ -1083,10 +1139,10 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 344116,
-      "num": 344116,
-      "word": "5名大学生人均花37元改造宿舍",
-      "onboard_time": 1694002477,
+      "raw_hot": 336476,
+      "num": 336476,
+      "word": "天津掰掰退出狮子林桥跳水",
+      "onboard_time": 1694005716,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -1395,20 +1451,20 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 256643,
-      "num": 237037,
-      "word": "古力 恭喜首冠",
-      "onboard_time": 1694004096,
-      "rank": 31,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 255042,
       "num": 248625,
       "word": "我爸把我的化妆品全摔碎了",
       "onboard_time": 1693918956,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254640,
+      "num": 254640,
+      "word": "李一桐曾舜晞一个敢吹一个敢灭",
+      "onboard_time": 1694004997,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 252234,
@@ -1667,14 +1723,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 214465,
-      "num": 205770,
-      "word": "邓紫棋说我是歌手已经是十年前了",
-      "onboard_time": 1694004457,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212460,
       "num": 212460,
       "word": "亚锦赛男团半决赛",
@@ -1819,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201316,
+      "num": 201316,
+      "word": "有多少人记得这种手帕老鼠",
+      "onboard_time": 1694005898,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201211,
       "num": 201211,
       "word": "福州",
@@ -1833,6 +1889,14 @@
       "onboard_time": 1694002896,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198415,
+      "num": 198415,
+      "word": "难怪于适封神上课不走神",
+      "onboard_time": 1694004698,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198378,
@@ -2011,6 +2075,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 174511,
+      "num": 174511,
+      "word": "国乒男团亚锦赛夺冠",
+      "onboard_time": 1694004640,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173847,
       "num": 173847,
       "word": "房东的猫世界青年北美巡演官宣",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1693965333,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 172164,
+      "num": 172164,
+      "word": "梁靖崑3比0庄智渊",
+      "onboard_time": 1694006077,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 171696,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1693913195,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140916,
-      "num": 140916,
-      "word": "月薪5万有多难",
-      "onboard_time": 1694004276,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 140263,
