@@ -1,7 +1,15 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693963848632,
+  "endTime": 1693965851039,
   "band_list": [
+    {
+      "raw_hot": 3315800,
+      "num": 3315800,
+      "word": "秀才账号被封 信息茧房",
+      "onboard_time": 1693962400,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 2672615,
       "num": 1727198,
@@ -65,6 +73,14 @@
       "onboard_time": 1693914455,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1220914,
+      "num": 1220914,
+      "word": "异人之下",
+      "onboard_time": 1693963118,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1203535,
@@ -131,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666809,
-      "num": 666809,
-      "word": "异人之下",
-      "onboard_time": 1693963118,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 651387,
       "num": 651387,
       "word": "药水哥消失4个月变这样了",
       "onboard_time": 1693917518,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 614268,
+      "num": 614268,
+      "word": "贵州杀妻灭子案重审宣判",
+      "onboard_time": 1693963836,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610270,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 573694,
-      "num": 525710,
+      "num": 526164,
       "word": "李圣经好像迪士尼公主在唱歌",
       "onboard_time": 1693960418,
       "rank": 15,
@@ -235,8 +251,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 440943,
-      "num": 440943,
+      "raw_hot": 441560,
+      "num": 441560,
       "word": "为什么要找高个男友",
       "onboard_time": 1693960058,
       "rank": 18,
@@ -315,6 +331,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 358882,
+      "num": 492238,
+      "word": "弟弟接放学姐姐拦不住根本拦不住",
+      "onboard_time": 1693964130,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356769,
       "num": 221713,
       "word": "掌掴争执占座大爷的小伙已被找到",
@@ -363,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312890,
+      "num": 312890,
+      "word": "女主播户外涉黄直播当场被抓",
+      "onboard_time": 1693965394,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306661,
       "num": 240623,
       "word": "100根头发有多少",
@@ -377,6 +409,14 @@
       "onboard_time": 1693955126,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295549,
+      "num": 295549,
+      "word": "杨丞琳说孟子义好难追",
+      "onboard_time": 1693964076,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 288685,
@@ -419,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258792,
+      "num": 258792,
+      "word": "TMA阵容",
+      "onboard_time": 1693963956,
+      "rank": 29,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 255042,
       "num": 248625,
       "word": "我爸把我的化妆品全摔碎了",
@@ -449,6 +497,14 @@
       "onboard_time": 1693949593,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238297,
+      "num": 238297,
+      "word": "妹妹第一天上托班大班哥哥惊喜现身",
+      "onboard_time": 1693963178,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234598,
@@ -523,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211747,
-      "num": 211747,
-      "word": "妹妹第一天上托班大班哥哥惊喜现身",
-      "onboard_time": 1693963178,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207329,
       "num": 207329,
       "word": "27岁在不同人的眼里",
@@ -547,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202263,
+      "num": 202263,
+      "word": "财神节",
+      "onboard_time": 1693962696,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202105,
       "num": 202105,
       "word": "愿山河无恙 家国永安",
@@ -560,14 +616,6 @@
       "word": "别人家的物理老师都成闪电侠了",
       "onboard_time": 1693961139,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201018,
-      "num": 201018,
-      "word": "财神节",
-      "onboard_time": 1693962696,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -595,11 +643,43 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 193134,
+      "num": 193134,
+      "word": "中国队消防世锦赛首金",
+      "onboard_time": 1693964976,
+      "rank": 34,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 190095,
       "num": 190095,
       "word": "地铁上遇到有人发生冲突你会劝阻吗",
       "onboard_time": 1693911755,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187381,
+      "num": 187381,
+      "word": "如何看待浏览器推送张艺谋谣言",
+      "onboard_time": 1693964856,
+      "rank": 36,
+      "category": "社会议题,艺人"
+    },
+    {
+      "raw_hot": 187143,
+      "num": 187143,
+      "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
+      "onboard_time": 1693965454,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186142,
+      "num": 186142,
+      "word": "厦门暴雨下到全国第一",
+      "onboard_time": 1693965633,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -611,12 +691,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175600,
+      "num": 175600,
+      "word": "四川70岁父亲将儿子背进大学",
+      "onboard_time": 1693964195,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 173847,
       "num": 173847,
       "word": "房东的猫世界青年北美巡演官宣",
       "onboard_time": 1693959158,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173555,
+      "num": 173555,
+      "word": "曼陀罗风铃",
+      "onboard_time": 1693965333,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 170511,
@@ -640,14 +736,6 @@
       "word": "宝妈晒娃大小眼就医查出颅缝早闭",
       "onboard_time": 1693944253,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163026,
-      "num": 163026,
-      "word": "贵州杀妻灭子案重审宣判",
-      "onboard_time": 1693963836,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -689,6 +777,14 @@
       "onboard_time": 1693928795,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146604,
+      "num": 146604,
+      "word": "异人之下今日更新",
+      "onboard_time": 1693964256,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 142435,
