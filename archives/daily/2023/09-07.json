@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694017328303,
+  "endTime": 1694018233666,
   "band_list": [
     {
       "raw_hot": 1138075,
@@ -43,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 612864,
+      "num": 612864,
+      "word": "一杯咖啡 两代人的沉默",
+      "onboard_time": 1693997676,
+      "rank": 6,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 593781,
       "num": 593781,
       "word": "450万是很大一笔钱了",
@@ -57,14 +65,6 @@
       "onboard_time": 1694002356,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 583248,
-      "num": 583248,
-      "word": "一杯咖啡 两代人的沉默",
-      "onboard_time": 1693997676,
-      "rank": 6,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 502841,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420678,
+      "num": 420678,
+      "word": "16岁少年心脏骤停1小时后恢复",
+      "onboard_time": 1694013821,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411990,
       "num": 411990,
       "word": "iPhone15国行售价曝光",
@@ -113,14 +121,6 @@
       "onboard_time": 1694009317,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331237,
-      "num": 331237,
-      "word": "16岁少年心脏骤停1小时后恢复",
-      "onboard_time": 1694013821,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298332,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286248,
+      "num": 286248,
+      "word": "宫子羽坚信宫门只有一个细作",
+      "onboard_time": 1694016092,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285986,
       "num": 285986,
       "word": "帕梅拉真不是AI",
@@ -163,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271826,
+      "num": 271826,
+      "word": "我有一个朋友",
+      "onboard_time": 1694016692,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261996,
       "num": 261996,
       "word": "杨幂穿旗袍好美",
@@ -177,14 +193,6 @@
       "onboard_time": 1694006436,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244606,
-      "num": 244606,
-      "word": "宫子羽坚信宫门只有一个细作",
-      "onboard_time": 1694016092,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 238898,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215112,
+      "num": 215112,
+      "word": "每读到史铁生这段都被震撼",
+      "onboard_time": 1694016214,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207163,
       "num": 207163,
       "word": "月薪5万有多难",
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200264,
+      "num": 200264,
+      "word": "减脂事半功倍的三件事",
+      "onboard_time": 1694016752,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198461,
       "num": 198461,
       "word": "不愧是考公大省",
       "onboard_time": 1693996959,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 192711,
-      "num": 192711,
-      "word": "我有一个朋友",
-      "onboard_time": 1694016692,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 188682,
@@ -299,12 +315,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 163958,
-      "num": 163958,
-      "word": "每读到史铁生这段都被震撼",
-      "onboard_time": 1694016214,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 157812,
+      "num": 157812,
+      "word": "云之羽谁是无名版预告",
+      "onboard_time": 1694017469,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 157132,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136768,
+      "num": 136768,
+      "word": "东北的路边炸串有多实惠",
+      "onboard_time": 1694013577,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136359,
       "num": 136359,
       "word": "云之羽",
@@ -355,20 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136181,
-      "num": 136181,
-      "word": "东北的路边炸串有多实惠",
-      "onboard_time": 1694013577,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 130747,
-      "num": 130747,
-      "word": "减脂事半功倍的三件事",
-      "onboard_time": 1694016752,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 131123,
+      "num": 131123,
+      "word": "Lisa更新",
+      "onboard_time": 1693992815,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 122101,
@@ -379,7 +395,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99559,
+      "raw_hot": 104523,
       "num": 120328,
       "word": "人需要体验到持续不断的价值感",
       "onboard_time": 1694017111,
