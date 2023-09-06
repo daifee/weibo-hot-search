@@ -1,0 +1,410 @@
+{
+  "runTime": 1694032443833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 74950,
+        "num": 74950,
+        "word": "450万是很大一笔钱了",
+        "onboard_time": 1693995218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59935,
+        "num": 59935,
+        "word": "天津大爷们宣布退出狮子林桥跳水",
+        "onboard_time": 1694019863,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9166,
+        "num": 54029,
+        "word": "原来航天员在太空是这样练腿的",
+        "onboard_time": 1694002356,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53125,
+        "num": 53125,
+        "word": "在韩国穿睡衣出门被嘲笑了",
+        "onboard_time": 1694010699,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50102,
+        "num": 50102,
+        "word": "iPhone15国行售价曝光",
+        "onboard_time": 1693993657,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49020,
+        "num": 49020,
+        "word": "真的讨厌二三十块叫一杯奶茶钱",
+        "onboard_time": 1694002896,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42266,
+        "num": 42266,
+        "word": "减脂事半功倍的三件事",
+        "onboard_time": 1694016752,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40096,
+        "num": 40096,
+        "word": "我回到十七岁的理由播放量破亿",
+        "onboard_time": 1694024776,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39261,
+        "num": 39261,
+        "word": "每读到史铁生这段都被震撼",
+        "onboard_time": 1694016214,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31850,
+        "num": 31850,
+        "word": "16岁少年心脏骤停1小时后恢复",
+        "onboard_time": 1694013821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54677,
+        "num": 31481,
+        "word": "伊能静说回来要检查秦昊的手机",
+        "onboard_time": 1694027833,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45204,
+        "num": 30754,
+        "word": "男子驾车撞丈母娘店铺致1岁儿子死亡",
+        "onboard_time": 1694010879,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35241,
+        "num": 30012,
+        "word": "马伯骞的家造型像博物馆",
+        "onboard_time": 1694006978,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33923,
+        "num": 29380,
+        "word": "日本京阿尼纵火案首次庭审",
+        "onboard_time": 1694029454,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29099,
+        "num": 29099,
+        "word": "台风海葵造成福建超159万人受灾",
+        "onboard_time": 1694012980,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28160,
+        "num": 28160,
+        "word": "邓紫棋说我是歌手已经是十年前了",
+        "onboard_time": 1694004457,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27698,
+        "num": 27698,
+        "word": "虞书欣做了八百个综艺效果",
+        "onboard_time": 1694015435,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27368,
+        "num": 27368,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27273,
+        "num": 27273,
+        "word": "文俊辉 茅台咖啡真那么好喝吗",
+        "onboard_time": 1694010759,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27039,
+        "num": 27039,
+        "word": "不带黑但又能体现黑的名字",
+        "onboard_time": 1694014598,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65354,
+        "num": 27030,
+        "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
+        "onboard_time": 1694011836,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32841,
+        "num": 26641,
+        "word": "头发硬到割坏了抓夹",
+        "onboard_time": 1694009138,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 25990,
+        "word": "一杯咖啡 两代人的沉默",
+        "onboard_time": 1693997676,
+        "rank": 22,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 25935,
+        "num": 25935,
+        "word": "王一博终于晒自拍了",
+        "onboard_time": 1694006436,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24420,
+        "num": 24420,
+        "word": "作家的敏感度不是一般人能比的",
+        "onboard_time": 1694020103,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23999,
+        "num": 23999,
+        "word": "JonyJ举行婚礼",
+        "onboard_time": 1694001335,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23887,
+        "num": 23887,
+        "word": "EXO 安踏",
+        "onboard_time": 1694008598,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21953,
+        "num": 23875,
+        "word": "月薪5万有多难",
+        "onboard_time": 1694004276,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20889,
+        "num": 23865,
+        "word": "杨幂穿旗袍好美",
+        "onboard_time": 1694013157,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20553,
+        "num": 23861,
+        "word": "Apex英雄",
+        "onboard_time": 1694028135,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30395,
+        "num": 23842,
+        "word": "哥们过敏这么严重心态还挺好",
+        "onboard_time": 1694026336,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20473,
+        "num": 23831,
+        "word": "洪知秀演唱会哭了",
+        "onboard_time": 1694003197,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20225,
+        "num": 23822,
+        "word": "Lisa更新",
+        "onboard_time": 1693992815,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20198,
+        "num": 23813,
+        "word": "朋友结婚随礼多随了一个零",
+        "onboard_time": 1693999114,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19829,
+        "num": 23798,
+        "word": "刘诗诗霍建华为胡歌新片打call",
+        "onboard_time": 1694014417,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19722,
+        "num": 23788,
+        "word": "人需要体验到持续不断的价值感",
+        "onboard_time": 1694017111,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19422,
+        "num": 23770,
+        "word": "一万块回农村可以躺平多久",
+        "onboard_time": 1693994078,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18828,
+        "num": 23764,
+        "word": "TFBOYS为易烊千玺新电影做宣传",
+        "onboard_time": 1694002356,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18521,
+        "num": 23751,
+        "word": "肖战白百何新剧差点差辈了",
+        "onboard_time": 1693998636,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18238,
+        "num": 23738,
+        "word": "辅导员建议考研能不吃的苦别吃",
+        "onboard_time": 1693998214,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 17941,
+        "num": 23718,
+        "word": "宫尚角坠入爱河了",
+        "onboard_time": 1694009317,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17380,
+        "num": 23703,
+        "word": "被我爱豆揽到腿上",
+        "onboard_time": 1694004698,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17310,
+        "num": 23697,
+        "word": "奥本海默片尾删除80%特效员工署名",
+        "onboard_time": 1693994676,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17265,
+        "num": 23682,
+        "word": "达达利亚女仆装",
+        "onboard_time": 1694029094,
+        "rank": 43,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 16838,
+        "num": 23676,
+        "word": "宫子羽坚信宫门只有一个细作",
+        "onboard_time": 1694016092,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16583,
+        "num": 23663,
+        "word": "18岁小伙暑假环渤海骑行2200公里",
+        "onboard_time": 1694026816,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16243,
+        "num": 23644,
+        "word": "不愧是考公大省",
+        "onboard_time": 1693996959,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16075,
+        "num": 23635,
+        "word": "俞灏明的演员信念感差点没绷住",
+        "onboard_time": 1694024896,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15794,
+        "num": 23620,
+        "word": "酱香拿铁已经火到韩国了",
+        "onboard_time": 1693994974,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15758,
+        "num": 23615,
+        "word": "排球少年 黑月",
+        "onboard_time": 1694030954,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路机会和成果属于世界#"
+    }
+  }
+}
