@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694025257314,
+  "endTime": 1694027612049,
   "band_list": [
     {
       "raw_hot": 1138075,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67083,
+      "num": 67083,
+      "word": "我回到十七岁的理由播放量破亿",
+      "onboard_time": 1694024776,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65387,
       "num": 65387,
       "word": "洪知秀演唱会哭了",
@@ -467,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43596,
-      "num": 45847,
-      "word": "我回到十七岁的理由播放量破亿",
-      "onboard_time": 1694024776,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 40063,
       "num": 51126,
       "word": "猫猫拎包入住",
@@ -497,6 +497,38 @@
       "onboard_time": 1694004698,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34018,
+      "num": 32765,
+      "word": "哥们过敏这么严重心态还挺好",
+      "onboard_time": 1694026336,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 27876,
+      "num": 29435,
+      "word": "18岁小伙暑假环渤海骑行2200公里",
+      "onboard_time": 1694026816,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27405,
+      "num": 29417,
+      "word": "俞灏明的演员信念感差点没绷住",
+      "onboard_time": 1694024896,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20803,
+      "num": 29294,
+      "word": "孙晨竣金繁片场日记",
+      "onboard_time": 1694027416,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 19416,
