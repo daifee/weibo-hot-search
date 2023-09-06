@@ -1,0 +1,410 @@
+{
+  "runTime": 1693996514779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2123680,
+        "num": 2123680,
+        "word": "iPhone15国行售价曝光",
+        "onboard_time": 1693993657,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 359369,
+        "num": 1818922,
+        "word": "西安成功救治早产镜面宝宝",
+        "onboard_time": 1693991434,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35588,
+        "num": 1800420,
+        "word": "详解杭州亚运会会徽和口号",
+        "onboard_time": 1693989455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1787949,
+        "num": 1787949,
+        "word": "一万块回农村可以躺平多久",
+        "onboard_time": 1693994078,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225259,
+        "num": 1506253,
+        "word": "脑瘫女孩妈妈被小朋友的回答暖到",
+        "onboard_time": 1693993834,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1475481,
+        "num": 1475481,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1195621,
+        "num": 1195621,
+        "word": "知网被罚款5000万元",
+        "onboard_time": 1693991137,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133747,
+        "num": 1133747,
+        "word": "酱香拿铁已经火到韩国了",
+        "onboard_time": 1693994974,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 887375,
+        "num": 887375,
+        "word": "九尾 高铁没赶上",
+        "onboard_time": 1693992277,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 633080,
+        "num": 633080,
+        "word": "周渝民夫妻被诈骗保险金案宣判",
+        "onboard_time": 1693986513,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857193,
+        "num": 621225,
+        "word": "奥本海默片尾删除80%特效员工署名",
+        "onboard_time": 1693994676,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 791412,
+        "num": 618081,
+        "word": "450万是很大一笔钱了",
+        "onboard_time": 1693995218,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 608673,
+        "num": 608673,
+        "word": "地铁判官已赔礼道歉",
+        "onboard_time": 1693986033,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551793,
+        "num": 551793,
+        "word": "Lisa更新",
+        "onboard_time": 1693992815,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174128,
+        "num": 506587,
+        "word": "知网运营的14款APP存在违法行为",
+        "onboard_time": 1693991195,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477559,
+        "num": 477559,
+        "word": "封神 留不住坠落的玄鸟",
+        "onboard_time": 1693993476,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412478,
+        "num": 412478,
+        "word": "肖战好像长了兔耳朵",
+        "onboard_time": 1693994136,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381833,
+        "num": 381833,
+        "word": "久哲回应Hero取关",
+        "onboard_time": 1693991617,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352100,
+        "num": 352100,
+        "word": "车银优晒与宋慧乔合影",
+        "onboard_time": 1693990895,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348121,
+        "num": 348121,
+        "word": "Hero取关久哲",
+        "onboard_time": 1693988376,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311537,
+        "num": 311537,
+        "word": "职场讨坏型人格",
+        "onboard_time": 1693990775,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255221,
+        "num": 255221,
+        "word": "男子造谣五月天嘉宾是王俊凯被抓",
+        "onboard_time": 1693992336,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 247317,
+        "num": 247317,
+        "word": "张栋梁唐禹哲居然早就认识了",
+        "onboard_time": 1693995874,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240691,
+        "num": 240691,
+        "word": "梦泪婚礼聚集大半个电竞圈",
+        "onboard_time": 1693988559,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89429,
+        "num": 237249,
+        "word": "幼童4根手指被绞断交警狂飙送医",
+        "onboard_time": 1693996293,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236681,
+        "num": 236681,
+        "word": "中国地图将钓鱼岛标为中国领土理所当然",
+        "onboard_time": 1693989516,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 136461,
+        "num": 222680,
+        "word": "希林娜依高青春主题曲首发上线",
+        "onboard_time": 1693993687,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221531,
+        "num": 221531,
+        "word": "3000万元茅台只够卖1.5天咖啡",
+        "onboard_time": 1693974459,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 209709,
+        "num": 209709,
+        "word": "灵隐出奶茶了",
+        "onboard_time": 1693984172,
+        "rank": 28,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 209024,
+        "num": 209024,
+        "word": "杨幂蓝牛仔套装造型",
+        "onboard_time": 1693996173,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202564,
+        "num": 202564,
+        "word": "虞书欣张凌赫来演云之羽的原因一模一样",
+        "onboard_time": 1693977457,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201635,
+        "num": 201635,
+        "word": "7对女儿女婿和2个儿子为父亲庆生",
+        "onboard_time": 1693980633,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 189656,
+        "num": 189656,
+        "word": "傅首尔和老刘",
+        "onboard_time": 1693980094,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186624,
+        "num": 186624,
+        "word": "张碧晨一周六天都在普拉提",
+        "onboard_time": 1693981116,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186097,
+        "num": 186097,
+        "word": "戴向宇在垃圾桶捡剩饭吃",
+        "onboard_time": 1693983574,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183509,
+        "num": 183509,
+        "word": "没想到最后被宫紫商演了",
+        "onboard_time": 1693995455,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182102,
+        "num": 182102,
+        "word": "地铁被打大爷与小伙已和解",
+        "onboard_time": 1693978833,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175187,
+        "num": 175187,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171279,
+        "num": 171279,
+        "word": "教一年级学生的老师都太伟大了",
+        "onboard_time": 1693983273,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161222,
+        "num": 161222,
+        "word": "余华 是他自己消失了",
+        "onboard_time": 1693988915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92789,
+        "num": 159664,
+        "word": "1只小白虎在狮群里被挤成银渐层",
+        "onboard_time": 1693996233,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158866,
+        "num": 158866,
+        "word": "有些事过了25岁就懂了",
+        "onboard_time": 1693989935,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155512,
+        "num": 155512,
+        "word": "密室大逃脱全员感谢NPC",
+        "onboard_time": 1693989574,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146586,
+        "num": 146586,
+        "word": "小玉壶的自拍",
+        "onboard_time": 1693984114,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142915,
+        "num": 142915,
+        "word": "谁在考公可以进来学申论",
+        "onboard_time": 1693986757,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141254,
+        "num": 141254,
+        "word": "檀健次莫青成",
+        "onboard_time": 1693987774,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136940,
+        "num": 136940,
+        "word": "虞书欣云之羽打戏用的是真刀",
+        "onboard_time": 1693990176,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128647,
+        "num": 128647,
+        "word": "知网回应网信办处罚决定",
+        "onboard_time": 1693992455,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125514,
+        "num": 125514,
+        "word": "水瓶座总是假洒脱",
+        "onboard_time": 1693996415,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 124010,
+        "num": 124010,
+        "word": "情绪稳定的老板和客户天塌了也要吃炒粉",
+        "onboard_time": 1693996475,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人道主义是能够凝聚不同文明的最大共识#"
+    }
+  }
+}

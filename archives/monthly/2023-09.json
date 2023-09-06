@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693995486243,
+  "endTime": 1693996514779,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2123680,
+      "num": 2123680,
+      "word": "iPhone15国行售价曝光",
+      "onboard_time": 1693993657,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2114747,
       "num": 2114747,
       "word": "于正希望内娱好好对待蒋依依",
@@ -561,14 +569,6 @@
       "onboard_time": 1693716578,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2019688,
-      "num": 2019688,
-      "word": "iPhone15国行售价曝光",
-      "onboard_time": 1693993657,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 2019384,
@@ -769,6 +769,14 @@
       "onboard_time": 1693652680,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1787949,
+      "num": 1787949,
+      "word": "一万块回农村可以躺平多久",
+      "onboard_time": 1693994078,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 1779007,
@@ -1507,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1133747,
+      "num": 1133747,
+      "word": "酱香拿铁已经火到韩国了",
+      "onboard_time": 1693994974,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1132782,
       "num": 1132782,
       "word": "已读不回很正常",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1693570958,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1067129,
-      "num": 1067129,
-      "word": "一万块回农村可以躺平多久",
-      "onboard_time": 1693994078,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 1066573,
@@ -2307,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857193,
+      "num": 621225,
+      "word": "奥本海默片尾删除80%特效员工署名",
+      "onboard_time": 1693994676,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 855476,
       "num": 855476,
       "word": "骄阳伴我",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1693873898,
       "rank": 4,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 825573,
-      "num": 202902,
-      "word": "奥本海默片尾删除80%特效员工署名",
-      "onboard_time": 1693994676,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 825223,
@@ -2649,6 +2657,14 @@
       "onboard_time": 1693801300,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 791412,
+      "num": 618081,
+      "word": "450万是很大一笔钱了",
+      "onboard_time": 1693995218,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 789085,
@@ -5313,14 +5329,6 @@
       "onboard_time": 1693538196,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467003,
-      "num": 467003,
-      "word": "酱香拿铁已经火到韩国了",
-      "onboard_time": 1693994974,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 466220,
@@ -9275,6 +9283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247317,
+      "num": 247317,
+      "word": "张栋梁唐禹哲居然早就认识了",
+      "onboard_time": 1693995874,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247202,
       "num": 247202,
       "word": "韩东君蔡文静装腔浴室吻",
@@ -10235,14 +10251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219958,
-      "num": 202859,
-      "word": "450万是很大一笔钱了",
-      "onboard_time": 1693995218,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 219699,
       "num": 219699,
       "word": "独居女生被陌生男子反锁屋内",
@@ -10577,6 +10585,14 @@
       "onboard_time": 1693541498,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209024,
+      "num": 209024,
+      "word": "杨幂蓝牛仔套装造型",
+      "onboard_time": 1693996173,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208935,
@@ -12192,6 +12208,14 @@
       "word": "云合",
       "onboard_time": 1693733318,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183509,
+      "num": 183509,
+      "word": "没想到最后被宫紫商演了",
+      "onboard_time": 1693995455,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -13907,12 +13931,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 125389,
-      "num": 125389,
-      "word": "没想到最后被宫紫商演了",
-      "onboard_time": 1693995455,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 125514,
+      "num": 125514,
+      "word": "水瓶座总是假洒脱",
+      "onboard_time": 1693996415,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 124520,
@@ -13945,6 +13969,14 @@
       "onboard_time": 1693471362,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124010,
+      "num": 124010,
+      "word": "情绪稳定的老板和客户天塌了也要吃炒粉",
+      "onboard_time": 1693996475,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123598,
@@ -14307,6 +14339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92789,
+      "num": 159664,
+      "word": "1只小白虎在狮群里被挤成银渐层",
+      "onboard_time": 1693996233,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92766,
       "num": 474665,
       "word": "孙女回家得知奶奶受伤心疼大哭",
@@ -14376,6 +14416,14 @@
       "word": "阿尔山风光美如画",
       "onboard_time": 1693732175,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89429,
+      "num": 237249,
+      "word": "幼童4根手指被绞断交警狂飙送医",
+      "onboard_time": 1693996293,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
