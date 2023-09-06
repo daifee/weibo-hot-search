@@ -1,0 +1,410 @@
+{
+  "runTime": 1693981302685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590640,
+        "num": 1590640,
+        "word": "地铁被打大爷与小伙已和解",
+        "onboard_time": 1693978833,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281897,
+        "num": 1281897,
+        "word": "虞书欣张凌赫来演云之羽的原因一模一样",
+        "onboard_time": 1693977457,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39539,
+        "num": 1089492,
+        "word": "沉浸式体验服贸会上的科幻互动",
+        "onboard_time": 1693975661,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904438,
+        "num": 904438,
+        "word": "黄奕时隔23年再扮李玉湖",
+        "onboard_time": 1693977098,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813908,
+        "num": 813908,
+        "word": "傅首尔和老刘",
+        "onboard_time": 1693980094,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700411,
+        "num": 700411,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579193,
+        "num": 579193,
+        "word": "福州2名牺牲消防员身份已确认",
+        "onboard_time": 1693978653,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557506,
+        "num": 557506,
+        "word": "酱香拿铁在泰国火了",
+        "onboard_time": 1693969295,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 528924,
+        "num": 528924,
+        "word": "马龙3比0安宰贤",
+        "onboard_time": 1693979254,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412474,
+        "num": 412474,
+        "word": "张子枫登VOGUE银十封面",
+        "onboard_time": 1693977036,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1161718,
+        "num": 401817,
+        "word": "女主播户外涉黄直播当场被抓",
+        "onboard_time": 1693965394,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040012,
+        "num": 397200,
+        "word": "为什么二手房卖不动了价格却还坚挺",
+        "onboard_time": 1693975418,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 347396,
+        "num": 347396,
+        "word": "D社曝黑暗荣耀金赫拉校园暴力",
+        "onboard_time": 1693968272,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316574,
+        "num": 337969,
+        "word": "华为新型5G芯片是否突破卡脖子问题",
+        "onboard_time": 1693973738,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 54891,
+        "num": 334381,
+        "word": "73岁意大利奶奶徒步重走古丝绸之路",
+        "onboard_time": 1693980032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332790,
+        "num": 332790,
+        "word": "15800的月嫂一天都在做什么",
+        "onboard_time": 1693959577,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313338,
+        "num": 313338,
+        "word": "日本称为应对中国禁令已砸千亿日元",
+        "onboard_time": 1693960236,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273352,
+        "num": 273352,
+        "word": "考研人很难不心动",
+        "onboard_time": 1693966053,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259905,
+        "num": 259905,
+        "word": "包上恩 开拍之前也有认真漱口",
+        "onboard_time": 1693980935,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253891,
+        "num": 253891,
+        "word": "咒术回战",
+        "onboard_time": 1693980513,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 678014,
+        "num": 253680,
+        "word": "iPhone15四款机型相机曝光",
+        "onboard_time": 1693970974,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 447964,
+        "num": 253510,
+        "word": "3000万元茅台只够卖1.5天咖啡",
+        "onboard_time": 1693974459,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 366270,
+        "num": 252903,
+        "word": "张碧晨一周六天都在普拉提",
+        "onboard_time": 1693981116,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 488205,
+        "num": 252594,
+        "word": "包上恩拍吻戏前吃了辣条",
+        "onboard_time": 1693978475,
+        "rank": 23,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 472588,
+        "num": 252496,
+        "word": "白宫回应华为新手机",
+        "onboard_time": 1693973496,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 252234,
+        "num": 252234,
+        "word": "异人之下海外评分9.4",
+        "onboard_time": 1693979915,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345903,
+        "num": 252149,
+        "word": "我都是追星女了",
+        "onboard_time": 1693977397,
+        "rank": 26,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 333070,
+        "num": 251068,
+        "word": "新手爸爸将14天婴儿装塑料袋称重",
+        "onboard_time": 1693974278,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321239,
+        "num": 250477,
+        "word": "秀才账号被封 信息茧房",
+        "onboard_time": 1693962400,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263015,
+        "num": 250215,
+        "word": "月薪多少你才会有安全感",
+        "onboard_time": 1693974940,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249777,
+        "num": 249777,
+        "word": "肖战梦境大片",
+        "onboard_time": 1693977875,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227648,
+        "num": 227648,
+        "word": "赵露思范思哲大片",
+        "onboard_time": 1693977457,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 221875,
+        "num": 221875,
+        "word": "有人自林中坠落",
+        "onboard_time": 1693979792,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219720,
+        "num": 219720,
+        "word": "冯宝宝假死",
+        "onboard_time": 1693973376,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217449,
+        "num": 217449,
+        "word": "7对女儿女婿和2个儿子为父亲庆生",
+        "onboard_time": 1693980633,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 230567,
+        "num": 217403,
+        "word": "骄阳伴我翻杂志把肖战翻出来了",
+        "onboard_time": 1693980275,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216393,
+        "num": 216393,
+        "word": "热狗向朱德庸道歉",
+        "onboard_time": 1693976320,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213617,
+        "num": 213617,
+        "word": "野球帝公告",
+        "onboard_time": 1693973197,
+        "rank": 37,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 196985,
+        "num": 196985,
+        "word": "大奉打更人",
+        "onboard_time": 1693980935,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187284,
+        "num": 187284,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693967734,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184523,
+        "num": 184523,
+        "word": "密室大逃脱5收官",
+        "onboard_time": 1693980633,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178537,
+        "num": 178537,
+        "word": "成毅起诉黑粉侵犯名誉权",
+        "onboard_time": 1693977161,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175172,
+        "num": 175172,
+        "word": "新疆大螃蟹发货了",
+        "onboard_time": 1693969114,
+        "rank": 42,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 173895,
+        "num": 173895,
+        "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
+        "onboard_time": 1693981116,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172450,
+        "num": 172450,
+        "word": "赵丽颖自在丰盈大片",
+        "onboard_time": 1693969654,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165511,
+        "num": 165511,
+        "word": "时光音乐会",
+        "onboard_time": 1693978894,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164237,
+        "num": 164237,
+        "word": "厦门暴雨下到全国第一",
+        "onboard_time": 1693965633,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155285,
+        "num": 155285,
+        "word": "第一次见笼子给自己用的",
+        "onboard_time": 1693974879,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137034,
+        "num": 137034,
+        "word": "云之羽今天播2集",
+        "onboard_time": 1693977397,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136151,
+        "num": 136151,
+        "word": "瑞幸加茅台 华尔街跪下来",
+        "onboard_time": 1693922679,
+        "rank": 49,
+        "category": "财经,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#以开放合作共享服务贸易发展机遇#"
+    }
+  }
+}
