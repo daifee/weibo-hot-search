@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1694000030773,
+  "endTime": 1694003570264,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1450905,
+      "num": 568734,
+      "word": "JonyJ举行婚礼",
+      "onboard_time": 1694001335,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1429846,
       "num": 1429846,
       "word": "酱香拿铁已经火到韩国了",
@@ -267,6 +275,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 1124087,
+      "num": 1124087,
+      "word": "TFBOYS为易烊千玺新电影做宣传",
+      "onboard_time": 1694002356,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1114110,
       "num": 1114110,
       "word": "虽然是精神病但没关系",
@@ -281,6 +297,14 @@
       "onboard_time": 1693997200,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1042500,
+      "num": 1042500,
+      "word": "辅导员建议考研能不吃的苦别吃",
+      "onboard_time": 1693998214,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1040012,
@@ -369,14 +393,6 @@
       "onboard_time": 1693986757,
       "rank": 10,
       "category": "教育"
-    },
-    {
-      "raw_hot": 828616,
-      "num": 828616,
-      "word": "辅导员建议考研能不吃的苦别吃",
-      "onboard_time": 1693998214,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 800270,
@@ -499,12 +515,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 649173,
+      "num": 557052,
+      "word": "肖战工作室发了九宫格",
+      "onboard_time": 1694002778,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 641244,
       "num": 566131,
       "word": "车银优晒与宋慧乔合影",
       "onboard_time": 1693990895,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635967,
+      "num": 635967,
+      "word": "林俊杰北京",
+      "onboard_time": 1694002778,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 624779,
+      "num": 624779,
+      "word": "真的讨厌二三十块叫一杯奶茶钱",
+      "onboard_time": 1694002896,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 614268,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 570326,
-      "num": 232981,
+      "num": 333738,
       "word": "朋友结婚随礼多随了一个零",
       "onboard_time": 1693999114,
       "rank": 30,
@@ -633,6 +673,14 @@
       "onboard_time": 1693988915,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539896,
+      "num": 340190,
+      "word": "DF",
+      "onboard_time": 1694001995,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 528924,
@@ -753,6 +801,14 @@
       "onboard_time": 1693980935,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459212,
+      "num": 459212,
+      "word": "洪知秀演唱会哭了",
+      "onboard_time": 1694003197,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 457823,
@@ -1107,6 +1163,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 309531,
+      "num": 309531,
+      "word": "17岁小伙疑因付不起280元房租杀害房东",
+      "onboard_time": 1693999413,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308148,
       "num": 308148,
       "word": "毕雯珺姜珮瑶吻戏好欲",
@@ -1121,6 +1185,22 @@
       "onboard_time": 1693925619,
       "rank": 23,
       "category": "其它"
+    },
+    {
+      "raw_hot": 305382,
+      "num": 305382,
+      "word": "5名大学生人均花37元改造宿舍",
+      "onboard_time": 1694002477,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304591,
+      "num": 304591,
+      "word": "兮兮",
+      "onboard_time": 1694001820,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 303911,
@@ -1155,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299029,
-      "num": 299029,
-      "word": "17岁小伙疑因付不起280元房租杀害房东",
-      "onboard_time": 1693999413,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295959,
       "num": 295959,
       "word": "杨丞琳说孟子义好难追",
@@ -1187,12 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288150,
+      "num": 288150,
+      "word": "王源出国前录的音综定档了",
+      "onboard_time": 1694003256,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287890,
       "num": 287890,
       "word": "杨幂蓝牛仔套装造型",
       "onboard_time": 1693996173,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 282355,
+      "num": 282355,
+      "word": "女神大赛棋手战鹰夺冠",
+      "onboard_time": 1694003018,
+      "rank": 29,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 281952,
@@ -1337,6 +1425,14 @@
       "onboard_time": 1693934301,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246450,
+      "num": 211581,
+      "word": "张凌赫虞书欣hi6不同期录制",
+      "onboard_time": 1694003077,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 241935,
@@ -1619,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206598,
+      "num": 206598,
+      "word": "经理因我有两个弟弟而录用我",
+      "onboard_time": 1694002835,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204902,
       "num": 376140,
       "word": "学校的小床也有了妈妈的味道",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1693999295,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199171,
+      "num": 199171,
+      "word": "AG",
+      "onboard_time": 1694002896,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 198378,
@@ -1787,12 +1899,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 188679,
+      "num": 188679,
+      "word": "樊振东vs林昀儒",
+      "onboard_time": 1693999956,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188594,
       "num": 192484,
       "word": "以闪亮之名新阁",
       "onboard_time": 1693967014,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187494,
+      "num": 187494,
+      "word": "樊振东救赛点逆转",
+      "onboard_time": 1694002356,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 187381,
@@ -1825,14 +1953,6 @@
       "onboard_time": 1693995455,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183267,
-      "num": 183267,
-      "word": "樊振东vs林昀儒",
-      "onboard_time": 1693999956,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 181006,
@@ -1961,6 +2081,14 @@
       "onboard_time": 1693922980,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158232,
+      "num": 158232,
+      "word": "侯明昊王也自带扎丸子头技能",
+      "onboard_time": 1694003139,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 152663,
@@ -2137,6 +2265,14 @@
       "onboard_time": 1693989163,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 133545,
+      "num": 133545,
+      "word": "这才是我们自己的奢侈品",
+      "onboard_time": 1694000376,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 131910,
