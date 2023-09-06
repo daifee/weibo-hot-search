@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693981302685,
+  "endTime": 1693982084079,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1040012,
-      "num": 444712,
+      "num": 465495,
       "word": "为什么二手房卖不动了价格却还坚挺",
       "onboard_time": 1693975418,
       "rank": 10,
@@ -185,6 +185,14 @@
       "onboard_time": 1693969415,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920195,
+      "num": 920195,
+      "word": "傅首尔和老刘",
+      "onboard_time": 1693980094,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 904438,
@@ -209,14 +217,6 @@
       "onboard_time": 1693919858,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 813908,
-      "num": 813908,
-      "word": "傅首尔和老刘",
-      "onboard_time": 1693980094,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 800270,
@@ -281,6 +281,14 @@
       "onboard_time": 1693969114,
       "rank": 13,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 660732,
+      "num": 293117,
+      "word": "张碧晨一周六天都在普拉提",
+      "onboard_time": 1693981116,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 651387,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 525950,
-      "num": 285025,
+      "num": 292288,
       "word": "我都是追星女了",
       "onboard_time": 1693977397,
       "rank": 22,
@@ -435,8 +443,16 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 498402,
+      "num": 498402,
+      "word": "咒术回战",
+      "onboard_time": 1693980513,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 488205,
-      "num": 252594,
+      "num": 292472,
       "word": "包上恩拍吻戏前吃了辣条",
       "onboard_time": 1693978475,
       "rank": 23,
@@ -449,6 +465,14 @@
       "onboard_time": 1693974940,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465707,
+      "num": 465707,
+      "word": "包上恩 开拍之前也有认真漱口",
+      "onboard_time": 1693980935,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 451003,
@@ -587,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366270,
-      "num": 252903,
-      "word": "张碧晨一周六天都在普拉提",
-      "onboard_time": 1693981116,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 358924,
       "num": 358924,
       "word": "为什么卤味三巨头卖不动了",
@@ -617,6 +633,14 @@
       "onboard_time": 1693966535,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355003,
+      "num": 355003,
+      "word": "肖战梦境大片",
+      "onboard_time": 1693977875,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354730,
@@ -691,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289048,
+      "num": 289048,
+      "word": "7对女儿女婿和2个儿子为父亲庆生",
+      "onboard_time": 1693980633,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 288685,
       "num": 288685,
       "word": "马立奥点头笑",
@@ -747,20 +779,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262304,
+      "num": 262304,
+      "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
+      "onboard_time": 1693981116,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260670,
       "num": 238282,
       "word": "原来眼镜布并不是擦眼镜的",
       "onboard_time": 1693922023,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259905,
-      "num": 259905,
-      "word": "包上恩 开拍之前也有认真漱口",
-      "onboard_time": 1693980935,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259662,
@@ -795,12 +827,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 253891,
-      "num": 253891,
-      "word": "咒术回战",
-      "onboard_time": 1693980513,
-      "rank": 19,
-      "category": "动漫"
+      "raw_hot": 253181,
+      "num": 253181,
+      "word": "大奉打更人",
+      "onboard_time": 1693980935,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 252234,
@@ -809,14 +841,6 @@
       "onboard_time": 1693979915,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249777,
-      "num": 282641,
-      "word": "肖战梦境大片",
-      "onboard_time": 1693977875,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 248500,
@@ -841,6 +865,14 @@
       "onboard_time": 1693962696,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239859,
+      "num": 239859,
+      "word": "骄阳伴我翻杂志把肖战翻出来了",
+      "onboard_time": 1693980275,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 239064,
@@ -891,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230567,
-      "num": 217403,
-      "word": "骄阳伴我翻杂志把肖战翻出来了",
-      "onboard_time": 1693980275,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230496,
       "num": 230496,
       "word": "瑞幸今年已联名12次",
@@ -913,6 +937,14 @@
       "onboard_time": 1693955126,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226288,
+      "num": 226288,
+      "word": "封神大学周边好多",
+      "onboard_time": 1693981715,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 224201,
@@ -953,14 +985,6 @@
       "onboard_time": 1693976320,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217449,
-      "num": 217449,
-      "word": "7对女儿女婿和2个儿子为父亲庆生",
-      "onboard_time": 1693980633,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 217332,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1693973677,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207745,
+      "num": 207745,
+      "word": "西出玉门",
+      "onboard_time": 1693981656,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 207329,
@@ -1089,14 +1121,6 @@
       "onboard_time": 1693972778,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196985,
-      "num": 196985,
-      "word": "大奉打更人",
-      "onboard_time": 1693980935,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 196088,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1693964195,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 173895,
-      "num": 173895,
-      "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
-      "onboard_time": 1693981116,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173847,
@@ -1499,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84986,
+      "num": 362964,
+      "word": "73岁意大利奶奶徒步重走古丝绸之路",
+      "onboard_time": 1693980032,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76955,
       "num": 76955,
       "word": "原来嘴角向下也能笑",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1693933884,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 54891,
-      "num": 334381,
-      "word": "73岁意大利奶奶徒步重走古丝绸之路",
-      "onboard_time": 1693980032,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41561,
