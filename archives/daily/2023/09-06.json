@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693984559804,
+  "endTime": 1693985650043,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1403814,
+      "num": 1403814,
+      "word": "戴向宇在垃圾桶捡剩饭吃",
+      "onboard_time": 1693983574,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1345167,
       "num": 1345167,
       "word": "蜜雪冰城 五粮液",
@@ -177,6 +185,14 @@
       "onboard_time": 1693975418,
       "rank": 10,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1039042,
+      "num": 1039042,
+      "word": "灵隐寺出奶茶了",
+      "onboard_time": 1693984172,
+      "rank": 17,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 974097,
@@ -355,14 +371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 597213,
-      "num": 369100,
-      "word": "戴向宇在垃圾桶捡剩饭吃",
-      "onboard_time": 1693983574,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 579193,
       "num": 579193,
       "word": "福州2名牺牲消防员身份已确认",
@@ -465,6 +473,14 @@
       "onboard_time": 1693980513,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 497479,
+      "num": 306059,
+      "word": "小玉壶的自拍",
+      "onboard_time": 1693984114,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 488205,
@@ -675,14 +691,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 347131,
-      "num": 347131,
-      "word": "灵隐寺出奶茶了",
-      "onboard_time": 1693984172,
-      "rank": 17,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 345159,
       "num": 345159,
       "word": "7对女儿女婿和2个儿子为父亲庆生",
@@ -817,6 +825,14 @@
       "onboard_time": 1693974879,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278897,
+      "num": 278897,
+      "word": "白百何是简冰造型师",
+      "onboard_time": 1693984834,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 278189,
@@ -1035,14 +1051,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 220055,
-      "num": 220055,
-      "word": "小玉壶的自拍",
-      "onboard_time": 1693984114,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217586,
       "num": 217586,
       "word": "VaVa毛不易开学季新歌",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1693971516,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202444,
+      "num": 202444,
+      "word": "厚打底妆大法",
+      "onboard_time": 1693985012,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 202311,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1693969415,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178894,
+      "num": 178894,
+      "word": "此沙出道首封",
+      "onboard_time": 1693984716,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175600,
@@ -1603,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82769,
+      "num": 371965,
+      "word": "被刺伤后他忍痛将碎尸案逃犯制服",
+      "onboard_time": 1693983634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76955,
       "num": 76955,
       "word": "原来嘴角向下也能笑",
@@ -1635,14 +1667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 43359,
-      "num": 371965,
-      "word": "被刺伤后他忍痛将碎尸案逃犯制服",
-      "onboard_time": 1693983634,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -1652,7 +1676,7 @@
     },
     {
       "raw_hot": 39539,
-      "num": 1160981,
+      "num": 1189742,
       "word": "沉浸式体验服贸会上的科幻互动",
       "onboard_time": 1693975661,
       "rank": 2,

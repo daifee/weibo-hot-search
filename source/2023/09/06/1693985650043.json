@@ -1,0 +1,410 @@
+{
+  "runTime": 1693985650043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403814,
+        "num": 1403814,
+        "word": "戴向宇在垃圾桶捡剩饭吃",
+        "onboard_time": 1693983574,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1385773,
+        "num": 1385773,
+        "word": "张碧晨一周六天都在普拉提",
+        "onboard_time": 1693981116,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34629,
+        "num": 1189742,
+        "word": "沉浸式体验服贸会上的科幻互动",
+        "onboard_time": 1693975661,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039042,
+        "num": 1039042,
+        "word": "灵隐寺出奶茶了",
+        "onboard_time": 1693984172,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 648379,
+        "num": 648379,
+        "word": "内江地震",
+        "onboard_time": 1693982493,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632815,
+        "num": 632815,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569642,
+        "num": 569642,
+        "word": "地铁被打大爷与小伙已和解",
+        "onboard_time": 1693978833,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545271,
+        "num": 545271,
+        "word": "傅首尔和老刘",
+        "onboard_time": 1693980094,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531948,
+        "num": 531948,
+        "word": "虞书欣张凌赫来演云之羽的原因一模一样",
+        "onboard_time": 1693977457,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439609,
+        "num": 439609,
+        "word": "黄奕时隔23年再扮李玉湖",
+        "onboard_time": 1693977098,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681901,
+        "num": 417831,
+        "word": "女主播户外涉黄直播当场被抓",
+        "onboard_time": 1693965394,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537175,
+        "num": 386280,
+        "word": "为什么二手房卖不动了价格却还坚挺",
+        "onboard_time": 1693975418,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 321696,
+        "num": 321696,
+        "word": "华为新型5G芯片是否突破卡脖子问题",
+        "onboard_time": 1693973738,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 241357,
+        "num": 306591,
+        "word": "福州2名牺牲消防员身份已确认",
+        "onboard_time": 1693978653,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82769,
+        "num": 306098,
+        "word": "被刺伤后他忍痛将碎尸案逃犯制服",
+        "onboard_time": 1693983634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497479,
+        "num": 306059,
+        "word": "小玉壶的自拍",
+        "onboard_time": 1693984114,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305895,
+        "num": 305895,
+        "word": "包上恩 开拍之前也有认真漱口",
+        "onboard_time": 1693980935,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299404,
+        "num": 299404,
+        "word": "咒术回战",
+        "onboard_time": 1693980513,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 281645,
+        "num": 281645,
+        "word": "7对女儿女婿和2个儿子为父亲庆生",
+        "onboard_time": 1693980633,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 278897,
+        "num": 278897,
+        "word": "白百何是简冰造型师",
+        "onboard_time": 1693984834,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460698,
+        "num": 276911,
+        "word": "3000万元茅台只够卖1.5天咖啡",
+        "onboard_time": 1693974459,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 391401,
+        "num": 275816,
+        "word": "iPhone15四款机型相机曝光",
+        "onboard_time": 1693970974,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 321989,
+        "num": 275735,
+        "word": "教一年级学生的老师都太伟大了",
+        "onboard_time": 1693983273,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 274057,
+        "num": 274057,
+        "word": "爱奇艺9月片单来了",
+        "onboard_time": 1693983093,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266734,
+        "num": 266734,
+        "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
+        "onboard_time": 1693981116,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258888,
+        "num": 258888,
+        "word": "当一碗熊猫突然滚落一地",
+        "onboard_time": 1693983273,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258280,
+        "num": 258280,
+        "word": "马龙3比0安宰贤",
+        "onboard_time": 1693979254,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254603,
+        "num": 254603,
+        "word": "大奉打更人",
+        "onboard_time": 1693980935,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234973,
+        "num": 234973,
+        "word": "酱香拿铁在泰国火了",
+        "onboard_time": 1693969295,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214848,
+        "num": 214848,
+        "word": "新手爸爸将14天婴儿装塑料袋称重",
+        "onboard_time": 1693974278,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202444,
+        "num": 202444,
+        "word": "厚打底妆大法",
+        "onboard_time": 1693985012,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 198501,
+        "num": 198501,
+        "word": "倪妮孟子义新剧对手戏",
+        "onboard_time": 1693984293,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195322,
+        "num": 195322,
+        "word": "我都是追星女了",
+        "onboard_time": 1693977397,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 194282,
+        "num": 194282,
+        "word": "秀才账号被封 信息茧房",
+        "onboard_time": 1693962400,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182749,
+        "num": 182749,
+        "word": "月薪多少你才会有安全感",
+        "onboard_time": 1693974940,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178894,
+        "num": 178894,
+        "word": "此沙出道首封",
+        "onboard_time": 1693984716,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178664,
+        "num": 178664,
+        "word": "五条悟获胜",
+        "onboard_time": 1693982433,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178084,
+        "num": 178084,
+        "word": "D社曝黑暗荣耀金赫拉校园暴力",
+        "onboard_time": 1693968272,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175227,
+        "num": 175227,
+        "word": "有人自林中坠落",
+        "onboard_time": 1693979792,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169118,
+        "num": 169118,
+        "word": "日本称为应对中国禁令已砸千亿日元",
+        "onboard_time": 1693960236,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164039,
+        "num": 164039,
+        "word": "野球帝公告",
+        "onboard_time": 1693973197,
+        "rank": 40,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 157942,
+        "num": 157942,
+        "word": "骄阳伴我翻杂志把肖战翻出来了",
+        "onboard_time": 1693980275,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156837,
+        "num": 156837,
+        "word": "冯宝宝假死",
+        "onboard_time": 1693973376,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150177,
+        "num": 150177,
+        "word": "福州牺牲消防员陈祖严胡旭东都是90后",
+        "onboard_time": 1693982192,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143443,
+        "num": 143443,
+        "word": "张子枫登VOGUE银十封面",
+        "onboard_time": 1693977036,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693967734,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137521,
+        "num": 137521,
+        "word": "赵丽颖自在丰盈大片",
+        "onboard_time": 1693969654,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130439,
+        "num": 130439,
+        "word": "15800的月嫂一天都在做什么",
+        "onboard_time": 1693959577,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128824,
+        "num": 128824,
+        "word": "考研人很难不心动",
+        "onboard_time": 1693966053,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123088,
+        "num": 123088,
+        "word": "包上恩拍吻戏前吃了辣条",
+        "onboard_time": 1693978475,
+        "rank": 49,
+        "category": "影视,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以开放合作共享服务贸易发展机遇#"
+    }
+  }
+}
