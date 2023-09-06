@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693966905510,
+  "endTime": 1693967615529,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -33,6 +33,14 @@
       "onboard_time": 1693959577,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2164601,
+      "num": 2164601,
+      "word": "女主播户外涉黄直播当场被抓",
+      "onboard_time": 1693965394,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1943476,
@@ -73,14 +81,6 @@
       "onboard_time": 1693914455,
       "rank": 0,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1321741,
-      "num": 1321741,
-      "word": "女主播户外涉黄直播当场被抓",
-      "onboard_time": 1693965394,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1220914,
@@ -137,6 +137,14 @@
       "onboard_time": 1693960058,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770970,
+      "num": 511284,
+      "word": "考研人很难不心动",
+      "onboard_time": 1693966053,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 697918,
@@ -249,14 +257,6 @@
       "onboard_time": 1693960837,
       "rank": 17,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 470774,
-      "num": 222699,
-      "word": "考研人很难不心动",
-      "onboard_time": 1693966053,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 451003,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339986,
+      "num": 339986,
+      "word": "虞书欣命运的齿轮开始转动",
+      "onboard_time": 1693966535,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328363,
       "num": 276257,
       "word": "来姨妈前有哪些奇怪的生理反应",
@@ -427,8 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295549,
-      "num": 295549,
+      "raw_hot": 295959,
+      "num": 295959,
       "word": "杨丞琳说孟子义好难追",
       "onboard_time": 1693964076,
       "rank": 24,
@@ -507,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241935,
+      "num": 241935,
+      "word": "财神节",
+      "onboard_time": 1693962696,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239064,
       "num": 239064,
       "word": "傅首尔医者难自医",
@@ -529,6 +545,14 @@
       "onboard_time": 1693926401,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232921,
+      "num": 232921,
+      "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
+      "onboard_time": 1693965454,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231334,
@@ -563,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220711,
-      "num": 220711,
-      "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
-      "onboard_time": 1693965454,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220374,
       "num": 220374,
       "word": "想给趵突泉颁个最具毅力奖",
@@ -585,6 +601,14 @@
       "onboard_time": 1693917216,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217161,
+      "num": 217161,
+      "word": "梦泪伴郎各忙各的",
+      "onboard_time": 1693967014,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 214717,
@@ -616,22 +640,6 @@
       "word": "学校的小床也有了妈妈的味道",
       "onboard_time": 1693921059,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203993,
-      "num": 203993,
-      "word": "虞书欣命运的齿轮开始转动",
-      "onboard_time": 1693966535,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 202860,
-      "num": 202860,
-      "word": "财神节",
-      "onboard_time": 1693962696,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196088,
+      "num": 196088,
+      "word": "肖战白百何表白戏",
+      "onboard_time": 1693966653,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195905,
       "num": 195905,
       "word": "当你在意大利用筷子吃意面",
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188594,
+      "num": 192484,
+      "word": "以闪亮之名新阁",
+      "onboard_time": 1693967014,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187381,
       "num": 187381,
       "word": "如何看待浏览器推送张艺谋谣言",
@@ -705,14 +729,6 @@
       "onboard_time": 1693962937,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179470,
-      "num": 179470,
-      "word": "肖战白百何表白戏",
-      "onboard_time": 1693966653,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 175600,

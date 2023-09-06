@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693966905510,
+  "endTime": 1693967615529,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -424,6 +424,14 @@
       "word": "第一批00后已经开始离婚了",
       "onboard_time": 1693877013,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2164601,
+      "num": 2164601,
+      "word": "女主播户外涉黄直播当场被抓",
+      "onboard_time": 1693965394,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1128,14 +1136,6 @@
       "word": "台湾4.9级地震",
       "onboard_time": 1693907617,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1321741,
-      "num": 1321741,
-      "word": "女主播户外涉黄直播当场被抓",
-      "onboard_time": 1693965394,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2521,6 +2521,14 @@
       "onboard_time": 1693872275,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770970,
+      "num": 511284,
+      "word": "考研人很难不心动",
+      "onboard_time": 1693966053,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 769622,
@@ -4891,14 +4899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 470774,
-      "num": 222699,
-      "word": "考研人很难不心动",
-      "onboard_time": 1693966053,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 468810,
       "num": 468810,
       "word": "台风吹倒大树砸中汽车造成一死两伤",
@@ -6603,6 +6603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339986,
+      "num": 339986,
+      "word": "虞书欣命运的齿轮开始转动",
+      "onboard_time": 1693966535,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339984,
       "num": 339984,
       "word": "宁波200一碗海鲜面",
@@ -7419,8 +7427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295549,
-      "num": 295549,
+      "raw_hot": 295959,
+      "num": 295959,
       "word": "杨丞琳说孟子义好难追",
       "onboard_time": 1693964076,
       "rank": 24,
@@ -8755,6 +8763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241935,
+      "num": 241935,
+      "word": "财神节",
+      "onboard_time": 1693962696,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241490,
       "num": 241490,
       "word": "Lady Dior活动",
@@ -9017,6 +9033,14 @@
       "onboard_time": 1693788635,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232921,
+      "num": 232921,
+      "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
+      "onboard_time": 1693965454,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232295,
@@ -9411,14 +9435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220711,
-      "num": 220711,
-      "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
-      "onboard_time": 1693965454,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220572,
       "num": 220572,
       "word": "年轻人最需要的是一笔钱",
@@ -9545,6 +9561,14 @@
       "onboard_time": 1693706612,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217161,
+      "num": 217161,
+      "word": "梦泪伴郎各忙各的",
+      "onboard_time": 1693967014,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 216354,
@@ -10099,14 +10123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203993,
-      "num": 203993,
-      "word": "虞书欣命运的齿轮开始转动",
-      "onboard_time": 1693966535,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203886,
       "num": 203886,
       "word": "骄阳伴我双榜登顶",
@@ -10177,14 +10193,6 @@
       "onboard_time": 1693639292,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 202860,
-      "num": 202860,
-      "word": "财神节",
-      "onboard_time": 1693962696,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202714,
@@ -10568,6 +10576,14 @@
       "word": "拉下绳子居然当上了教皇",
       "onboard_time": 1693642533,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196088,
+      "num": 196088,
+      "word": "肖战白百何表白戏",
+      "onboard_time": 1693966653,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -11027,6 +11043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188594,
+      "num": 192484,
+      "word": "以闪亮之名新阁",
+      "onboard_time": 1693967014,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188557,
       "num": 188557,
       "word": "研究称老年女性体重稳定或更长寿",
@@ -11441,14 +11465,6 @@
       "onboard_time": 1693785456,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179470,
-      "num": 179470,
-      "word": "肖战白百何表白戏",
-      "onboard_time": 1693966653,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 179334,
