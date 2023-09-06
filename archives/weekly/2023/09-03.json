@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694003570264,
+  "endTime": 1694004559805,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -619,6 +619,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 1608567,
+      "num": 1608567,
+      "word": "真的讨厌二三十块叫一杯奶茶钱",
+      "onboard_time": 1694002896,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1590640,
       "num": 1590640,
       "word": "地铁被打大爷与小伙已和解",
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1217324,
+      "num": 1217324,
+      "word": "TFBOYS为易烊千玺新电影做宣传",
+      "onboard_time": 1694002356,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1203535,
       "num": 1203535,
       "word": "男子称怒砸10杯酱香拿铁不是因奶油太丑",
@@ -1008,14 +1024,6 @@
       "word": "林更新新剧演刘亦菲前夫",
       "onboard_time": 1693889922,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1124087,
-      "num": 1124087,
-      "word": "TFBOYS为易烊千玺新电影做宣传",
-      "onboard_time": 1694002356,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -1721,6 +1729,14 @@
       "onboard_time": 1693877915,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 793003,
+      "num": 793003,
+      "word": "洪知秀演唱会哭了",
+      "onboard_time": 1694003197,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 792305,
@@ -2451,14 +2467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 624779,
-      "num": 624779,
-      "word": "真的讨厌二三十块叫一杯奶茶钱",
-      "onboard_time": 1694002896,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 624637,
       "num": 624637,
       "word": "英国伯明翰市政府宣布破产",
@@ -2772,7 +2780,7 @@
     },
     {
       "raw_hot": 570326,
-      "num": 333738,
+      "num": 337783,
       "word": "朋友结婚随礼多随了一个零",
       "onboard_time": 1693999114,
       "rank": 30,
@@ -3579,14 +3587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 459212,
-      "num": 459212,
-      "word": "洪知秀演唱会哭了",
-      "onboard_time": 1694003197,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 458879,
       "num": 458879,
       "word": "我有一个朋友定档",
@@ -3897,6 +3897,14 @@
       "onboard_time": 1693976320,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421672,
+      "num": 421672,
+      "word": "张凌赫虞书欣hi6不同期录制",
+      "onboard_time": 1694003077,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 420001,
@@ -4523,6 +4531,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 344116,
+      "num": 344116,
+      "word": "5名大学生人均花37元改造宿舍",
+      "onboard_time": 1694002477,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344076,
       "num": 344076,
       "word": "长相思相柳战死概念图",
@@ -5080,14 +5096,6 @@
       "word": "义乌老板娘是懂做亚运生意的",
       "onboard_time": 1693801120,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305382,
-      "num": 305382,
-      "word": "5名大学生人均花37元改造宿舍",
-      "onboard_time": 1694002477,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -5891,6 +5899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256643,
+      "num": 237037,
+      "word": "古力 恭喜首冠",
+      "onboard_time": 1694004096,
+      "rank": 31,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 256557,
       "num": 256557,
       "word": "人人公益节",
@@ -6083,14 +6099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 246450,
-      "num": 211581,
-      "word": "张凌赫虞书欣hi6不同期录制",
-      "onboard_time": 1694003077,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246326,
       "num": 246326,
       "word": "对方撤回了一排假牙",
@@ -6265,6 +6273,14 @@
       "onboard_time": 1693949593,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238874,
+      "num": 238874,
+      "word": "经理因我有两个弟弟而录用我",
+      "onboard_time": 1694002835,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 238297,
@@ -6923,6 +6939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 214465,
+      "num": 205770,
+      "word": "邓紫棋说我是歌手已经是十年前了",
+      "onboard_time": 1694004457,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213022,
       "num": 213022,
       "word": "安乐传hi6暑期收视率TOP1",
@@ -7131,12 +7155,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 206598,
-      "num": 206598,
-      "word": "经理因我有两个弟弟而录用我",
-      "onboard_time": 1694002835,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 206441,
+      "num": 206441,
+      "word": "樊振东救赛点逆转",
+      "onboard_time": 1694002356,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 206408,
@@ -7595,6 +7619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194742,
+      "num": 194742,
+      "word": "seventeen演唱会",
+      "onboard_time": 1694003977,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194661,
       "num": 194661,
       "word": "BOYNEXTDOOR回归新歌",
@@ -7857,14 +7889,6 @@
       "onboard_time": 1693915598,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187494,
-      "num": 187494,
-      "word": "樊振东救赛点逆转",
-      "onboard_time": 1694002356,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 187403,
@@ -8811,6 +8835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150872,
+      "num": 150872,
+      "word": "一份严谨的求婚誓词",
+      "onboard_time": 1694003676,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150351,
       "num": 363392,
       "word": "希林娜依高青春主题曲首发上线",
@@ -9017,6 +9049,14 @@
       "onboard_time": 1693897476,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 140916,
+      "num": 140916,
+      "word": "月薪5万有多难",
+      "onboard_time": 1694004276,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 140786,
