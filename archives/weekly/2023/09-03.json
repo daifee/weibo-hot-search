@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694036048711,
+  "endTime": 1694038521721,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -9691,6 +9691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 130991,
+      "num": 83841,
+      "word": "伊能静说回来要检查秦昊的手机",
+      "onboard_time": 1694027833,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130821,
       "num": 130821,
       "word": "孙颖莎3比0曾尖",
@@ -10123,6 +10131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86886,
+      "num": 86886,
+      "word": "我很少用歹毒来形容一首歌",
+      "onboard_time": 1694033713,
+      "rank": 10,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 85971,
       "num": 159094,
       "word": "喜茶宣布跨界做牛奶",
@@ -10267,28 +10283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73866,
+      "num": 73866,
+      "word": "我回到十七岁的理由播放量破亿",
+      "onboard_time": 1694024776,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 73006,
       "num": 73006,
       "word": "作家的敏感度不是一般人能比的",
       "onboard_time": 1694020103,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70290,
-      "num": 40275,
-      "word": "我很少用歹毒来形容一首歌",
-      "onboard_time": 1694033713,
-      "rank": 10,
-      "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 69602,
-      "num": 39461,
-      "word": "伊能静说回来要检查秦昊的手机",
-      "onboard_time": 1694027833,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 69344,
@@ -10299,11 +10307,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67303,
-      "num": 67303,
-      "word": "我回到十七岁的理由播放量破亿",
-      "onboard_time": 1694024776,
-      "rank": 34,
+      "raw_hot": 68004,
+      "num": 68004,
+      "word": "赵今麦团队回应出演大熊猫",
+      "onboard_time": 1694037435,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -10499,6 +10507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46279,
+      "num": 46279,
+      "word": "4岁萌娃走失完整写下爸爸手机号",
+      "onboard_time": 1694035815,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45294,
       "num": 43207,
       "word": "恋爱中卑微的结果",
@@ -10563,6 +10579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41967,
+      "num": 41967,
+      "word": "东契奇狄龙被驱逐",
+      "onboard_time": 1694036954,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -10612,7 +10636,7 @@
     },
     {
       "raw_hot": 37393,
-      "num": 32765,
+      "num": 41542,
       "word": "哥们过敏这么严重心态还挺好",
       "onboard_time": 1694026336,
       "rank": 30,
@@ -10779,6 +10803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23177,
+      "num": 41518,
+      "word": "微博开学季",
+      "onboard_time": 1694023877,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21233,
       "num": 21233,
       "word": "秋天的微风是桂花味",
@@ -10851,6 +10883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17576,
+      "num": 196725,
+      "word": "原来航天员在太空是这样练腿的",
+      "onboard_time": 1694002356,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17470,
       "num": 23615,
       "word": "排球少年 黑月",
@@ -10881,30 +10921,6 @@
       "onboard_time": 1693773853,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15524,
-      "num": 196725,
-      "word": "原来航天员在太空是这样练腿的",
-      "onboard_time": 1694002356,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15386,
-      "num": 31762,
-      "word": "4岁萌娃走失完整写下爸爸手机号",
-      "onboard_time": 1694035815,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15332,
-      "num": 31758,
-      "word": "微博开学季",
-      "onboard_time": 1694023877,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 14795,
