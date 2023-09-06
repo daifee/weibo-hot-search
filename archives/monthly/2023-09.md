@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/07 01:34:00
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/07 02:21:21
 </p>
 </blockquote>
 <p>
@@ -5751,6 +5751,12 @@ i人无痛装e教程（热度：362321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E4%BB%AC%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E7%8B%AE%E5%AD%90%E6%9E%97%E6%A1%A5%E8%B7%B3%E6%B0%B4%23" target="weibo">
+天津大爷们宣布退出狮子林桥跳水（热度：334880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0%23" target="weibo">
 地铁判官说到做到（热度：334582）
 </a>
@@ -6005,12 +6011,6 @@ Zoom和Tian担任解说杯嘉宾（热度：324568）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B7%E5%A4%A9%E7%BB%AB%E9%87%8C%E8%A3%B9%E7%9D%80%E7%9A%84%E4%BA%BA%E7%9C%9F%E7%9A%84%E6%98%AF%E9%99%88%E7%89%A7%E9%A9%B0%23" target="weibo">
 混天绫里裹着的人真的是陈牧驰（热度：318686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%AF%8F%E6%AC%A1%E4%B8%8A%E5%AD%A6%E9%83%BD%E6%9C%89%E6%96%B0%E7%AC%91%E6%96%99%23" target="weibo">
-宋亚轩每次上学都有新笑料（热度：318376）
 </a>
 </li>
 
