@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693998849371,
+  "endTime": 1694000030773,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -329,6 +329,14 @@
       "onboard_time": 1693699108,
       "rank": 3,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2512971,
+      "num": 2512971,
+      "word": "450万是很大一笔钱了",
+      "onboard_time": 1693995218,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 2507855,
@@ -689,14 +697,6 @@
       "onboard_time": 1693799256,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1905994,
-      "num": 1905994,
-      "word": "450万是很大一笔钱了",
-      "onboard_time": 1693995218,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 1902750,
@@ -1275,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1301960,
+      "num": 1301960,
+      "word": "易烊千玺舒淇主演毕赣新片",
+      "onboard_time": 1693998574,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1288966,
       "num": 1288966,
       "word": "有一种沉默是两个人看了部国产烂片",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1693915959,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1160922,
+      "num": 1160922,
+      "word": "一杯咖啡 两代人的沉默",
+      "onboard_time": 1693997676,
+      "rank": 10,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 1159740,
@@ -2427,6 +2443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 828616,
+      "num": 828616,
+      "word": "辅导员建议考研能不吃的苦别吃",
+      "onboard_time": 1693998214,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 826768,
       "num": 826768,
       "word": "巨蟹座永远不会奔谁而去",
@@ -3227,14 +3251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 685813,
-      "num": 685813,
-      "word": "一杯咖啡 两代人的沉默",
-      "onboard_time": 1693997676,
-      "rank": 10,
-      "category": "情感,美食"
-    },
-    {
       "raw_hot": 685317,
       "num": 685317,
       "word": "泰国坠崖案女子称离婚要很多材料",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1693577562,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 680647,
+      "num": 680647,
+      "word": "肖战白百何新剧差点差辈了",
+      "onboard_time": 1693998636,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 680311,
@@ -3313,6 +3337,14 @@
       "onboard_time": 1693663967,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 675815,
+      "num": 675815,
+      "word": "没想到我提离职猫同事也要走",
+      "onboard_time": 1693998156,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 675398,
@@ -4155,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570326,
+      "num": 232981,
+      "word": "朋友结婚随礼多随了一个零",
+      "onboard_time": 1693999114,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 569894,
       "num": 460579,
       "word": "小李子中国分李",
@@ -4396,7 +4436,7 @@
     },
     {
       "raw_hot": 549446,
-      "num": 319452,
+      "num": 436078,
       "word": "不愧是考公大省",
       "onboard_time": 1693996959,
       "rank": 20,
@@ -5171,6 +5211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 481149,
+      "num": 481149,
+      "word": "王一博或将演家在北京",
+      "onboard_time": 1693998333,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480143,
       "num": 387887,
       "word": "男生车祸失去右臂欲分手女友骂好傻",
@@ -5289,14 +5337,6 @@
       "onboard_time": 1693549475,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473270,
-      "num": 473270,
-      "word": "肖战白百何新剧差点差辈了",
-      "onboard_time": 1693998636,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 472901,
@@ -5441,14 +5481,6 @@
       "onboard_time": 1693817497,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461400,
-      "num": 461400,
-      "word": "王一博或将演家在北京",
-      "onboard_time": 1693998333,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 461176,
@@ -6049,6 +6081,14 @@
       "onboard_time": 1693787198,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416914,
+      "num": 416914,
+      "word": "吴磊发言情商太高了",
+      "onboard_time": 1693998937,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 415435,
@@ -6780,7 +6820,7 @@
     },
     {
       "raw_hot": 366467,
-      "num": 319142,
+      "num": 321511,
       "word": "张栋梁唐禹哲居然早就认识了",
       "onboard_time": 1693995874,
       "rank": 22,
@@ -6865,14 +6905,6 @@
       "onboard_time": 1693573361,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359370,
-      "num": 226512,
-      "word": "辅导员建议考研能不吃的苦别吃",
-      "onboard_time": 1693998214,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 358087,
@@ -7547,14 +7579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322837,
-      "num": 322837,
-      "word": "易烊千玺舒淇主演毕赣新片",
-      "onboard_time": 1693998574,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321489,
       "num": 273294,
       "word": "女孩读书可以比嫁人更风光",
@@ -8035,12 +8059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299494,
+      "num": 891710,
+      "word": "女子浑身抽搐的哥连闯红灯送医",
+      "onboard_time": 1693999474,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299257,
       "num": 299257,
       "word": "尊重九岁小孩的隐私",
       "onboard_time": 1693701452,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299029,
+      "num": 299029,
+      "word": "17岁小伙疑因付不起280元房租杀害房东",
+      "onboard_time": 1693999413,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298321,
@@ -8923,6 +8963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260559,
+      "num": 260559,
+      "word": "严浩翔发文说不仅姓时还姓严",
+      "onboard_time": 1693998275,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260037,
       "num": 260037,
       "word": "五月天西安",
@@ -9731,14 +9779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237155,
-      "num": 237155,
-      "word": "没想到我提离职猫同事也要走",
-      "onboard_time": 1693998156,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 237070,
       "num": 237070,
       "word": "孟子义西出玉门演疯批恶女",
@@ -9809,6 +9849,14 @@
       "onboard_time": 1693992455,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234274,
+      "num": 234274,
+      "word": "密室大逃脱IP对撞季预告",
+      "onboard_time": 1693999593,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 234187,
@@ -11115,6 +11163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203256,
+      "num": 203256,
+      "word": "现实版的纯爱到底谁在谈啊",
+      "onboard_time": 1693999114,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 203005,
+      "num": 203005,
+      "word": "狂野时代",
+      "onboard_time": 1693999233,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202880,
       "num": 182162,
       "word": "水豚叠叠乐",
@@ -11219,6 +11283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201211,
+      "num": 201211,
+      "word": "福州",
+      "onboard_time": 1693999295,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201185,
       "num": 201185,
       "word": "文韬双buff的压迫感",
@@ -11297,14 +11369,6 @@
       "onboard_time": 1693811793,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199679,
-      "num": 199679,
-      "word": "严浩翔发文说不仅姓时还姓严",
-      "onboard_time": 1693998275,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 199673,
@@ -11600,6 +11664,14 @@
       "word": "i人面试至暗时刻",
       "onboard_time": 1693786057,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 195231,
+      "num": 195231,
+      "word": "财神",
+      "onboard_time": 1693999174,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -12329,6 +12401,14 @@
       "onboard_time": 1693995455,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183267,
+      "num": 183267,
+      "word": "樊振东vs林昀儒",
+      "onboard_time": 1693999956,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 183193,
@@ -13467,6 +13547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149757,
+      "num": 149757,
+      "word": "王楚钦3比2高承睿",
+      "onboard_time": 1693998874,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149250,
       "num": 149250,
       "word": "胡兵眼疾手快嘴还严",
@@ -13627,6 +13715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145081,
+      "num": 708643,
+      "word": "婴儿高铁上哭闹乘客耐心帮哄娃",
+      "onboard_time": 1693998032,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145052,
       "num": 145052,
       "word": "WB对战KSG",
@@ -13769,6 +13865,14 @@
       "onboard_time": 1693632813,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139181,
+      "num": 139181,
+      "word": "华莎MV",
+      "onboard_time": 1693998992,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 138269,
@@ -15177,14 +15281,6 @@
       "onboard_time": 1693581462,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 42012,
-      "num": 464012,
-      "word": "婴儿高铁上哭闹乘客耐心帮哄娃",
-      "onboard_time": 1693998032,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41561,
