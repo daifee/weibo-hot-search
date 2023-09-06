@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693974830208,
+  "endTime": 1693977342022,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -801,6 +801,14 @@
       "onboard_time": 1693910198,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1165866,
+      "num": 1165866,
+      "word": "白宫回应华为新手机",
+      "onboard_time": 1693973496,
+      "rank": 23,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1160981,
@@ -1715,6 +1723,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 731746,
+      "num": 327499,
+      "word": "3000万元茅台只够卖1.5天咖啡",
+      "onboard_time": 1693974459,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 731373,
       "num": 422589,
       "word": "冯宝宝假死",
@@ -1883,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694813,
+      "num": 417939,
+      "word": "为什么二手房卖不动了价格却还坚挺",
+      "onboard_time": 1693975418,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 693341,
       "num": 693341,
       "word": "霍建华的新剧状态",
@@ -1905,14 +1929,6 @@
       "onboard_time": 1693842456,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 685526,
-      "num": 685526,
-      "word": "白宫回应华为新手机",
-      "onboard_time": 1693973496,
-      "rank": 23,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 685317,
@@ -2819,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511975,
+      "num": 422370,
+      "word": "新手爸爸将14天婴儿装塑料袋称重",
+      "onboard_time": 1693974278,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511890,
       "num": 511890,
       "word": "麦当劳回应内地是否停售咖啡",
@@ -2865,6 +2889,14 @@
       "onboard_time": 1693960837,
       "rank": 17,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 504345,
+      "num": 504345,
+      "word": "华为新型5G芯片是否突破卡脖子问题",
+      "onboard_time": 1693973738,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 503144,
@@ -3049,6 +3081,14 @@
       "onboard_time": 1693916678,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 476725,
+      "num": 319538,
+      "word": "月薪多少你才会有安全感",
+      "onboard_time": 1693974940,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475198,
@@ -3395,14 +3435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422370,
-      "num": 422370,
-      "word": "新手爸爸将14天婴儿装塑料袋称重",
-      "onboard_time": 1693974278,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422289,
       "num": 422289,
       "word": "田雨朱珠不小心嗑到了",
@@ -3691,14 +3723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383068,
-      "num": 262728,
-      "word": "3000万元茅台只够卖1.5天咖啡",
-      "onboard_time": 1693974459,
-      "rank": 30,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 382583,
       "num": 348424,
       "word": "27岁在不同人的眼里",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1693970498,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374023,
+      "num": 374023,
+      "word": "热狗向朱德庸道歉",
+      "onboard_time": 1693976320,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 373306,
@@ -4267,14 +4299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 318923,
-      "num": 318923,
-      "word": "华为新型5G芯片是否突破卡脖子问题",
-      "onboard_time": 1693973738,
-      "rank": 43,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 318686,
       "num": 318686,
       "word": "混天绫里裹着的人真的是陈牧驰",
@@ -4289,6 +4313,14 @@
       "onboard_time": 1693817858,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317515,
+      "num": 317515,
+      "word": "上一次看到这么混乱的场面还是小时代",
+      "onboard_time": 1693975180,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 317110,
@@ -4769,6 +4801,14 @@
       "onboard_time": 1693968878,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281459,
+      "num": 228744,
+      "word": "第一次见笼子给自己用的",
+      "onboard_time": 1693974879,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 281361,
@@ -5347,6 +5387,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 245962,
+      "num": 245962,
+      "word": "张子枫登VOGUE银十封面",
+      "onboard_time": 1693977036,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 245560,
       "num": 245560,
       "word": "田曦薇她好宠",
@@ -5899,12 +5947,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220663,
+      "num": 220663,
+      "word": "樊振东3比2林钟勋",
+      "onboard_time": 1693976199,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220572,
       "num": 220572,
       "word": "年轻人最需要的是一笔钱",
       "onboard_time": 1693833216,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220548,
+      "num": 220548,
+      "word": "黄奕时隔23年再扮李玉湖",
+      "onboard_time": 1693977098,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 220460,
@@ -5969,6 +6033,14 @@
       "onboard_time": 1693706973,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217586,
+      "num": 217586,
+      "word": "VaVa毛不易开学季新歌",
+      "onboard_time": 1693976320,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 217483,
@@ -6403,6 +6475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201858,
+      "num": 201858,
+      "word": "成毅起诉黑粉侵犯名誉权",
+      "onboard_time": 1693977161,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201769,
       "num": 201769,
       "word": "别人家的物理老师都成闪电侠了",
@@ -6665,6 +6745,14 @@
       "onboard_time": 1693919138,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193378,
+      "num": 193378,
+      "word": "张小斐走街串巷一日行",
+      "onboard_time": 1693976799,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193340,
@@ -7320,6 +7408,14 @@
       "word": "起猛了以为真的在云端了",
       "onboard_time": 1693704755,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171696,
+      "num": 171696,
+      "word": "警犬护学被小朋友热情包围",
+      "onboard_time": 1693976978,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -8753,6 +8849,14 @@
       "onboard_time": 1693937539,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38351,
+      "num": 1160981,
+      "word": "沉浸式体验服贸会上的科幻互动",
+      "onboard_time": 1693975661,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36371,

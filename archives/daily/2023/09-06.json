@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693974830208,
+  "endTime": 1693977342022,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1165866,
+      "num": 1165866,
+      "word": "白宫回应华为新手机",
+      "onboard_time": 1693973496,
+      "rank": 23,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1124826,
       "num": 1124826,
       "word": "瑞幸加茅台 华尔街跪下来",
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 731746,
+      "num": 327499,
+      "word": "3000万元茅台只够卖1.5天咖啡",
+      "onboard_time": 1693974459,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 731373,
       "num": 422589,
       "word": "冯宝宝假死",
@@ -203,12 +219,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 685526,
-      "num": 685526,
-      "word": "白宫回应华为新手机",
-      "onboard_time": 1693973496,
-      "rank": 23,
-      "category": "社会新闻,科技"
+      "raw_hot": 694813,
+      "num": 417939,
+      "word": "为什么二手房卖不动了价格却还坚挺",
+      "onboard_time": 1693975418,
+      "rank": 10,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 678290,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511975,
+      "num": 422370,
+      "word": "新手爸爸将14天婴儿装塑料袋称重",
+      "onboard_time": 1693974278,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507111,
       "num": 507111,
       "word": "虞书欣朋友发的片场日常",
@@ -337,6 +361,22 @@
       "onboard_time": 1693960837,
       "rank": 17,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 504345,
+      "num": 504345,
+      "word": "华为新型5G芯片是否突破卡脖子问题",
+      "onboard_time": 1693973738,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 476725,
+      "num": 319538,
+      "word": "月薪多少你才会有安全感",
+      "onboard_time": 1693974940,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451003,
@@ -369,14 +409,6 @@
       "onboard_time": 1693970974,
       "rank": 40,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 422370,
-      "num": 422370,
-      "word": "新手爸爸将14天婴儿装塑料袋称重",
-      "onboard_time": 1693974278,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417778,
@@ -435,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383068,
-      "num": 262728,
-      "word": "3000万元茅台只够卖1.5天咖啡",
-      "onboard_time": 1693974459,
-      "rank": 30,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 376755,
       "num": 376755,
       "word": "福州地铁",
@@ -457,6 +481,14 @@
       "onboard_time": 1693970498,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374023,
+      "num": 374023,
+      "word": "热狗向朱德庸道歉",
+      "onboard_time": 1693976320,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 373113,
@@ -539,12 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 318923,
-      "num": 318923,
-      "word": "华为新型5G芯片是否突破卡脖子问题",
-      "onboard_time": 1693973738,
-      "rank": 43,
-      "category": "社会新闻,科技"
+      "raw_hot": 317515,
+      "num": 317515,
+      "word": "上一次看到这么混乱的场面还是小时代",
+      "onboard_time": 1693975180,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 306661,
@@ -585,6 +617,14 @@
       "onboard_time": 1693968878,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281459,
+      "num": 228744,
+      "word": "第一次见笼子给自己用的",
+      "onboard_time": 1693974879,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 278189,
@@ -667,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245962,
+      "num": 245962,
+      "word": "张子枫登VOGUE银十封面",
+      "onboard_time": 1693977036,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 241935,
       "num": 241935,
       "word": "财神节",
@@ -747,12 +795,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220663,
+      "num": 220663,
+      "word": "樊振东3比2林钟勋",
+      "onboard_time": 1693976199,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220548,
+      "num": 220548,
+      "word": "黄奕时隔23年再扮李玉湖",
+      "onboard_time": 1693977098,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220374,
       "num": 220374,
       "word": "想给趵突泉颁个最具毅力奖",
       "onboard_time": 1693961259,
       "rank": 35,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 217586,
+      "num": 217586,
+      "word": "VaVa毛不易开学季新歌",
+      "onboard_time": 1693976320,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 217332,
@@ -835,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201858,
+      "num": 201858,
+      "word": "成毅起诉黑粉侵犯名誉权",
+      "onboard_time": 1693977161,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201769,
       "num": 201769,
       "word": "别人家的物理老师都成闪电侠了",
@@ -889,6 +969,14 @@
       "onboard_time": 1693956931,
       "rank": 45,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 193378,
+      "num": 193378,
+      "word": "张小斐走街串巷一日行",
+      "onboard_time": 1693976799,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193134,
@@ -969,6 +1057,14 @@
       "onboard_time": 1693965333,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 171696,
+      "num": 171696,
+      "word": "警犬护学被小朋友热情包围",
+      "onboard_time": 1693976978,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170511,
@@ -1281,6 +1377,14 @@
       "onboard_time": 1693937539,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38351,
+      "num": 1160981,
+      "word": "沉浸式体验服贸会上的科幻互动",
+      "onboard_time": 1693975661,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30014,
