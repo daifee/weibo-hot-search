@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693973996127,
+  "endTime": 1693974830208,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1730989,
-      "num": 666782,
-      "word": "日本称为应对中国禁令已砸千亿日元",
-      "onboard_time": 1693960236,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1631315,
-      "num": 1631315,
+      "raw_hot": 1825898,
+      "num": 1825898,
       "word": "iPhone15四款机型相机曝光",
       "onboard_time": 1693970974,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1730989,
+      "num": 666872,
+      "word": "日本称为应对中国禁令已砸千亿日元",
+      "onboard_time": 1693960236,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1492866,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 920296,
-      "num": 483843,
+      "num": 653634,
       "word": "王源今天正式开始上课",
       "onboard_time": 1693969415,
       "rank": 12,
@@ -187,12 +187,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 731373,
+      "num": 422589,
+      "word": "冯宝宝假死",
+      "onboard_time": 1693973376,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 697918,
       "num": 613768,
       "word": "梦泪婚礼",
       "onboard_time": 1693960478,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 685526,
+      "num": 685526,
+      "word": "白宫回应华为新手机",
+      "onboard_time": 1693973496,
+      "rank": 23,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 678290,
@@ -204,15 +220,15 @@
     },
     {
       "raw_hot": 672148,
-      "num": 463820,
+      "num": 509676,
       "word": "赵丽颖自在丰盈大片",
       "onboard_time": 1693969654,
       "rank": 15,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 659220,
-      "num": 659220,
+      "raw_hot": 670404,
+      "num": 670404,
       "word": "新疆大螃蟹发货了",
       "onboard_time": 1693969114,
       "rank": 13,
@@ -249,6 +265,14 @@
       "onboard_time": 1693952718,
       "rank": 34,
       "category": "自然"
+    },
+    {
+      "raw_hot": 606097,
+      "num": 606097,
+      "word": "野球帝公告",
+      "onboard_time": 1693973197,
+      "rank": 15,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 599248,
@@ -315,28 +339,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 472485,
-      "num": 414415,
-      "word": "冯宝宝假死",
-      "onboard_time": 1693973376,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 451003,
       "num": 618285,
       "word": "小萝卜头如果还活着今年82岁了",
       "onboard_time": 1693960720,
       "rank": 14,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 450180,
-      "num": 450180,
-      "word": "野球帝公告",
-      "onboard_time": 1693973197,
-      "rank": 15,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 446739,
@@ -363,6 +371,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 422370,
+      "num": 422370,
+      "word": "新手爸爸将14天婴儿装塑料袋称重",
+      "onboard_time": 1693974278,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417778,
       "num": 417778,
       "word": "韩国流行的自助煮面火到上海了",
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 405161,
-      "num": 450711,
+      "num": 544276,
       "word": "男生骑兄弟脖子上跟女友吻别",
       "onboard_time": 1693969957,
       "rank": 37,
@@ -417,6 +433,14 @@
       "onboard_time": 1693964130,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383068,
+      "num": 262728,
+      "word": "3000万元茅台只够卖1.5天咖啡",
+      "onboard_time": 1693974459,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 376755,
@@ -515,11 +539,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 313349,
-      "num": 313349,
-      "word": "白宫回应华为新手机",
-      "onboard_time": 1693973496,
-      "rank": 23,
+      "raw_hot": 318923,
+      "num": 318923,
+      "word": "华为新型5G芯片是否突破卡脖子问题",
+      "onboard_time": 1693973738,
+      "rank": 43,
       "category": "社会新闻,科技"
     },
     {
@@ -747,12 +771,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 212460,
+      "num": 212460,
+      "word": "亚锦赛男团半决赛",
+      "onboard_time": 1693973919,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211945,
       "num": 211945,
       "word": "6岁男孩捡走饭店所有空瓶子",
       "onboard_time": 1693963057,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209539,
+      "num": 209539,
+      "word": "李泳知街头女战士challenge",
+      "onboard_time": 1693973677,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 207329,
@@ -803,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201139,
-      "num": 201139,
-      "word": "李泳知街头女战士challenge",
-      "onboard_time": 1693973677,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198378,
       "num": 198378,
       "word": "时光音乐会宣传片",
@@ -841,6 +873,14 @@
       "onboard_time": 1693966653,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195978,
+      "num": 195978,
+      "word": "微博音乐盛典官宣",
+      "onboard_time": 1693973859,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 195905,
@@ -907,36 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180795,
-      "num": 180795,
-      "word": "微博音乐盛典官宣",
-      "onboard_time": 1693973859,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 176536,
-      "num": 176536,
-      "word": "华为新型5G芯片是否突破卡脖子问题",
-      "onboard_time": 1693973738,
-      "rank": 43,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 175600,
       "num": 175600,
       "word": "四川70岁父亲将儿子背进大学",
       "onboard_time": 1693964195,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 175117,
-      "num": 175117,
-      "word": "亚锦赛男团半决赛",
-      "onboard_time": 1693973919,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 173847,
