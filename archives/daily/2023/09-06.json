@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1694007235756,
+  "endTime": 1694009761347,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1725004,
+      "num": 1725004,
+      "word": "EXO 安踏",
+      "onboard_time": 1694008598,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1590640,
       "num": 1590640,
       "word": "地铁被打大爷与小伙已和解",
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1237096,
+      "num": 1237096,
+      "word": "一杯咖啡 两代人的沉默",
+      "onboard_time": 1693997676,
+      "rank": 10,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 1220914,
       "num": 1220914,
       "word": "异人之下",
@@ -273,14 +289,6 @@
       "onboard_time": 1693973496,
       "rank": 23,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1160922,
-      "num": 1160922,
-      "word": "一杯咖啡 两代人的沉默",
-      "onboard_time": 1693997676,
-      "rank": 10,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 1124826,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 906057,
-      "num": 483647,
+      "num": 538584,
       "word": "王一博终于晒自拍了",
       "onboard_time": 1694006436,
       "rank": 22,
@@ -411,6 +419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 805826,
+      "num": 295964,
+      "word": "被我爱豆揽到腿上",
+      "onboard_time": 1694004698,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 800270,
       "num": 800270,
       "word": "活牛2分钟被强行灌水近50升",
@@ -425,6 +441,14 @@
       "onboard_time": 1694003197,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 778224,
+      "num": 537868,
+      "word": "马伯骞的家造型像博物馆",
+      "onboard_time": 1694006978,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 761769,
@@ -539,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 658411,
-      "num": 263718,
-      "word": "被我爱豆揽到腿上",
-      "onboard_time": 1694004698,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 653324,
       "num": 535407,
       "word": "易烊千玺舒淇居然是二搭",
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587665,
+      "num": 587665,
+      "word": "骄阳伴我央视收视率",
+      "onboard_time": 1694007698,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579193,
       "num": 579193,
       "word": "福州2名牺牲消防员身份已确认",
@@ -699,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 549878,
-      "num": 464954,
-      "word": "马伯骞的家造型像博物馆",
-      "onboard_time": 1694006978,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549446,
       "num": 436078,
       "word": "不愧是考公大省",
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 548947,
-      "num": 401289,
+      "num": 405189,
       "word": "月薪5万有多难",
       "onboard_time": 1694004276,
       "rank": 49,
@@ -899,12 +915,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 450272,
+      "num": 450272,
+      "word": "原定金钟奖主持人炎亚纶被撤换",
+      "onboard_time": 1694007997,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446739,
       "num": 446739,
       "word": "肖战剧里的画竟然都是自己画的",
       "onboard_time": 1693920221,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441886,
+      "num": 441886,
+      "word": "梦泪婚礼炸出AG新成员",
+      "onboard_time": 1694007097,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 441560,
@@ -1051,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375069,
+      "num": 375069,
+      "word": "云之羽月长老",
+      "onboard_time": 1694009562,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373113,
       "num": 277293,
       "word": "白百何卜冠今新剧一物降一物",
@@ -1083,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365514,
+      "num": 302471,
+      "word": "宫尚角坠入爱河了",
+      "onboard_time": 1694009317,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358924,
       "num": 358924,
       "word": "为什么卤味三巨头卖不动了",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1693930831,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356063,
+      "num": 295333,
+      "word": "头发硬到割坏了抓夹",
+      "onboard_time": 1694009138,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 355957,
@@ -1224,6 +1280,14 @@
       "word": "女孩读书可以比嫁人更风光",
       "onboard_time": 1693927956,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 320412,
+      "num": 320412,
+      "word": "有多少人记得这种手帕老鼠",
+      "onboard_time": 1694005898,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -1353,6 +1417,14 @@
       "onboard_time": 1693996173,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 282816,
+      "num": 282816,
+      "word": "马龙回应决赛未上场",
+      "onboard_time": 1694009379,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 282355,
@@ -1579,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236739,
+      "num": 236739,
+      "word": "王垲智爆灯",
+      "onboard_time": 1694008717,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235627,
       "num": 1811050,
       "word": "脑瘫女孩妈妈被小朋友的回答暖到",
@@ -1643,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231185,
+      "num": 231185,
+      "word": "男子饭店点干锅兔惹哭店主女儿",
+      "onboard_time": 1694008177,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230496,
       "num": 230496,
       "word": "瑞幸今年已联名12次",
@@ -1696,6 +1784,14 @@
       "word": "林高远王艺迪混双晋级四强",
       "onboard_time": 1693991797,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223838,
+      "num": 223838,
+      "word": "亚锦赛中国女排vs泰国女排",
+      "onboard_time": 1694007338,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1779,20 +1875,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211043,
+      "num": 211043,
+      "word": "崔胜澈去看SEVENTEEN演唱会了",
+      "onboard_time": 1694007579,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209539,
       "num": 209539,
       "word": "李泳知街头女战士challenge",
       "onboard_time": 1693973677,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208630,
-      "num": 208630,
-      "word": "有多少人记得这种手帕老鼠",
-      "onboard_time": 1694005898,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 208302,
@@ -1833,6 +1929,14 @@
       "onboard_time": 1693921059,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204779,
+      "num": 204779,
+      "word": "亚锦赛",
+      "onboard_time": 1694008717,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 204548,
@@ -1889,6 +1993,14 @@
       "onboard_time": 1693921902,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201857,
+      "num": 201857,
+      "word": "00后开学行李有多野",
+      "onboard_time": 1694009138,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 201769,
@@ -2307,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145856,
-      "num": 145856,
-      "word": "梦泪婚礼炸出AG新成员",
-      "onboard_time": 1694007097,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145081,
       "num": 708643,
       "word": "婴儿高铁上哭闹乘客耐心帮哄娃",
@@ -2675,6 +2779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37579,
+      "num": 535066,
+      "word": "福州暴雨旱鸭子拉水管拼命救人",
+      "onboard_time": 1694008899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31728,
       "num": 117429,
       "word": "外滩大会十大黑科技",
@@ -2713,6 +2825,14 @@
       "onboard_time": 1693941913,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21376,
+      "num": 1434668,
+      "word": "绿色低碳为服务贸易注入新动力",
+      "onboard_time": 1694008959,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19416,
