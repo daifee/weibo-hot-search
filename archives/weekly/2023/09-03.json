@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693992862975,
+  "endTime": 1693995486243,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 2444237,
-      "num": 1266081,
+      "num": 1779905,
       "word": "杨丽萍新舞再被批尺度大",
       "onboard_time": 1693987538,
       "rank": 20,
@@ -353,6 +353,14 @@
       "onboard_time": 1693716578,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2019688,
+      "num": 2019688,
+      "word": "iPhone15国行售价曝光",
+      "onboard_time": 1693993657,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 2019384,
@@ -1019,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1067129,
+      "num": 1067129,
+      "word": "一万块回农村可以躺平多久",
+      "onboard_time": 1693994078,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1066573,
       "num": 1066573,
       "word": "白鹿王鹤棣以爱为营过审",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1693899937,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 960369,
+      "num": 960369,
+      "word": "九尾 高铁没赶上",
+      "onboard_time": 1693992277,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 958815,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1693873898,
       "rank": 4,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 825573,
+      "num": 202902,
+      "word": "奥本海默片尾删除80%特效员工署名",
+      "onboard_time": 1693994676,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 825223,
@@ -2171,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660868,
+      "num": 660868,
+      "word": "Lisa更新",
+      "onboard_time": 1693992815,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660580,
       "num": 334852,
       "word": "让自己的面相变好的方法",
@@ -2544,6 +2584,14 @@
       "word": "张慧雯妆造好端庄",
       "onboard_time": 1693755636,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 590346,
+      "num": 590346,
+      "word": "封神 留不住坠落的玄鸟",
+      "onboard_time": 1693993476,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -3035,6 +3083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513628,
+      "num": 513628,
+      "word": "肖战好像长了兔耳朵",
+      "onboard_time": 1693994136,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511975,
       "num": 422370,
       "word": "新手爸爸将14天婴儿装塑料袋称重",
@@ -3219,14 +3275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485762,
-      "num": 221190,
-      "word": "九尾 高铁没赶上",
-      "onboard_time": 1693992277,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 484571,
       "num": 341774,
       "word": "字字不提穷但又很穷的话",
@@ -3353,6 +3401,14 @@
       "onboard_time": 1693706493,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 467003,
+      "num": 467003,
+      "word": "酱香拿铁已经火到韩国了",
+      "onboard_time": 1693994974,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 465707,
@@ -3776,6 +3832,14 @@
       "word": "瑞幸门店回应咖啡机炸了",
       "onboard_time": 1693916678,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409735,
+      "num": 1952763,
+      "word": "西安成功救治早产镜面宝宝",
+      "onboard_time": 1693991434,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -4292,7 +4356,7 @@
     },
     {
       "raw_hot": 345159,
-      "num": 345159,
+      "num": 1278384,
       "word": "7对女儿女婿和2个儿子为父亲庆生",
       "onboard_time": 1693980633,
       "rank": 34,
@@ -4419,6 +4483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334924,
+      "num": 334924,
+      "word": "职场讨坏型人格",
+      "onboard_time": 1693990775,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334582,
       "num": 334582,
       "word": "地铁判官说到做到",
@@ -4449,6 +4521,14 @@
       "onboard_time": 1693981116,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329544,
+      "num": 329544,
+      "word": "男子造谣五月天嘉宾是王俊凯被抓",
+      "onboard_time": 1693992336,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 329238,
@@ -4643,6 +4723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317271,
+      "num": 317271,
+      "word": "灵隐出奶茶了",
+      "onboard_time": 1693984172,
+      "rank": 23,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 317110,
       "num": 317110,
       "word": "爸爸看了一圈儿子同学的名字懵了",
@@ -4753,14 +4841,6 @@
       "onboard_time": 1693713873,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309346,
-      "num": 301366,
-      "word": "职场讨坏型人格",
-      "onboard_time": 1693990775,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 308951,
@@ -5009,14 +5089,6 @@
       "onboard_time": 1693901195,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 291956,
-      "num": 495161,
-      "word": "西安成功救治早产镜面宝宝",
-      "onboard_time": 1693991434,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291508,
@@ -5843,14 +5915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242612,
-      "num": 242612,
-      "word": "男子造谣五月天嘉宾是王俊凯被抓",
-      "onboard_time": 1693992336,
-      "rank": 26,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 242291,
       "num": 242291,
       "word": "厦门市教育局发布停课紧急通知",
@@ -5971,6 +6035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237780,
+      "num": 202871,
+      "word": "初音未来后空翻变身",
+      "onboard_time": 1693994855,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 237698,
       "num": 237698,
       "word": "刘亦菲万茜演闺蜜",
@@ -6033,6 +6105,14 @@
       "onboard_time": 1693816358,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235627,
+      "num": 1811050,
+      "word": "脑瘫女孩妈妈被小朋友的回答暖到",
+      "onboard_time": 1693993834,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235536,
@@ -6457,6 +6537,14 @@
       "onboard_time": 1693868785,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219958,
+      "num": 202859,
+      "word": "450万是很大一笔钱了",
+      "onboard_time": 1693995218,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 219699,
@@ -8251,14 +8339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160083,
-      "num": 160083,
-      "word": "Lisa更新",
-      "onboard_time": 1693992815,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159472,
       "num": 159472,
       "word": "海葵5日登陆粤闽交界",
@@ -8385,6 +8465,14 @@
       "onboard_time": 1693818457,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150351,
+      "num": 363392,
+      "word": "希林娜依高青春主题曲首发上线",
+      "onboard_time": 1693993687,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 149940,
@@ -8745,6 +8833,14 @@
       "onboard_time": 1693988796,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 125389,
+      "num": 125389,
+      "word": "没想到最后被宫紫商演了",
+      "onboard_time": 1693995455,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 124520,
@@ -9292,7 +9388,7 @@
     },
     {
       "raw_hot": 59257,
-      "num": 1292322,
+      "num": 1933165,
       "word": "详解杭州亚运会会徽和口号",
       "onboard_time": 1693989455,
       "rank": 2,
