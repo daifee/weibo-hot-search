@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694027612049,
+  "endTime": 1694028832270,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -15635,20 +15635,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67303,
+      "num": 67303,
+      "word": "我回到十七岁的理由播放量破亿",
+      "onboard_time": 1694024776,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67296,
       "num": 1727581,
       "word": "杭州亚运会逛玩指南",
       "onboard_time": 1693891837,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67083,
-      "num": 67083,
-      "word": "我回到十七岁的理由播放量破亿",
-      "onboard_time": 1694024776,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 66237,
@@ -16091,6 +16091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37393,
+      "num": 32765,
+      "word": "哥们过敏这么严重心态还挺好",
+      "onboard_time": 1694026336,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36371,
       "num": 36371,
       "word": "梁朝伟哭哭包",
@@ -16115,6 +16123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35048,
+      "num": 35048,
+      "word": "伊能静说回来要检查秦昊的手机",
+      "onboard_time": 1694027833,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34792,
       "num": 45761,
       "word": "国奥队23人大名单公布",
@@ -16129,14 +16145,6 @@
       "onboard_time": 1693596375,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34018,
-      "num": 32765,
-      "word": "哥们过敏这么严重心态还挺好",
-      "onboard_time": 1694026336,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 33928,
@@ -16393,6 +16401,14 @@
       "onboard_time": 1693602554,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19847,
+      "num": 27279,
+      "word": "Apex英雄",
+      "onboard_time": 1694028135,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 19517,
