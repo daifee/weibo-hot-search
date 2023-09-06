@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694028832270,
+  "endTime": 1694031460903,
   "band_list": [
     {
       "raw_hot": 1138075,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69602,
+      "num": 35315,
+      "word": "伊能静说回来要检查秦昊的手机",
+      "onboard_time": 1694027833,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67303,
       "num": 67303,
       "word": "我回到十七岁的理由播放量破亿",
@@ -491,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35048,
-      "num": 35048,
-      "word": "伊能静说回来要检查秦昊的手机",
-      "onboard_time": 1694027833,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 34792,
       "num": 45761,
       "word": "国奥队23人大名单公布",
@@ -513,6 +513,14 @@
       "onboard_time": 1694004698,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30827,
+      "num": 30827,
+      "word": "日本京阿尼纵火案首次庭审",
+      "onboard_time": 1694029454,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27876,
@@ -553,6 +561,22 @@
       "onboard_time": 1694008959,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19169,
+      "num": 23076,
+      "word": "达达利亚女仆装",
+      "onboard_time": 1694029094,
+      "rank": 42,
+      "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 17470,
+      "num": 23027,
+      "word": "排球少年 黑月",
+      "onboard_time": 1694030954,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 15524,
