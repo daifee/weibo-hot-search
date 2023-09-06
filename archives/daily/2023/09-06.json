@@ -1,9 +1,9 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693965851039,
+  "endTime": 1693966905510,
   "band_list": [
     {
-      "raw_hot": 3315800,
+      "raw_hot": 3411419,
       "num": 3315800,
       "word": "秀才账号被封 信息茧房",
       "onboard_time": 1693962400,
@@ -73,6 +73,14 @@
       "onboard_time": 1693914455,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1321741,
+      "num": 1321741,
+      "word": "女主播户外涉黄直播当场被抓",
+      "onboard_time": 1693965394,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1220914,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611003,
+      "num": 371452,
+      "word": "厦门暴雨下到全国第一",
+      "onboard_time": 1693965633,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610270,
       "num": 192790,
       "word": "卡塔尔海平面升起的恶魔之角",
@@ -235,6 +251,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 470774,
+      "num": 222699,
+      "word": "考研人很难不心动",
+      "onboard_time": 1693966053,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 451003,
       "num": 618285,
       "word": "小萝卜头如果还活着今年82岁了",
@@ -299,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 383186,
+      "num": 492238,
+      "word": "弟弟接放学姐姐拦不住根本拦不住",
+      "onboard_time": 1693964130,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376755,
       "num": 376755,
       "word": "福州地铁",
@@ -329,14 +361,6 @@
       "onboard_time": 1693900596,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 358882,
-      "num": 492238,
-      "word": "弟弟接放学姐姐拦不住根本拦不住",
-      "onboard_time": 1693964130,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356769,
@@ -385,14 +409,6 @@
       "onboard_time": 1693927956,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 312890,
-      "num": 312890,
-      "word": "女主播户外涉黄直播当场被抓",
-      "onboard_time": 1693965394,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306661,
@@ -547,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220711,
+      "num": 220711,
+      "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
+      "onboard_time": 1693965454,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220374,
       "num": 220374,
       "word": "想给趵突泉颁个最具毅力奖",
@@ -595,8 +619,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202263,
-      "num": 202263,
+      "raw_hot": 203993,
+      "num": 203993,
+      "word": "虞书欣命运的齿轮开始转动",
+      "onboard_time": 1693966535,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202860,
+      "num": 202860,
       "word": "财神节",
       "onboard_time": 1693962696,
       "rank": 36,
@@ -667,28 +699,20 @@
       "category": "社会议题,艺人"
     },
     {
-      "raw_hot": 187143,
-      "num": 187143,
-      "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
-      "onboard_time": 1693965454,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186142,
-      "num": 186142,
-      "word": "厦门暴雨下到全国第一",
-      "onboard_time": 1693965633,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185807,
       "num": 185807,
       "word": "P人的至暗时刻",
       "onboard_time": 1693962937,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179470,
+      "num": 179470,
+      "word": "肖战白百何表白戏",
+      "onboard_time": 1693966653,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 175600,
@@ -785,6 +809,14 @@
       "onboard_time": 1693964256,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142652,
+      "num": 142652,
+      "word": "女子花84万在医美机构做血液净化",
+      "onboard_time": 1693966893,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 142435,
