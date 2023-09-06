@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693971248466,
+  "endTime": 1693973996127,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2215667,
+      "num": 2215667,
+      "word": "酱香拿铁在泰国火了",
+      "onboard_time": 1693969295,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1966079,
       "num": 1966079,
       "word": "D社曝黑暗荣耀金赫拉校园暴力",
@@ -75,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1704023,
-      "num": 1704023,
-      "word": "酱香拿铁在泰国火了",
-      "onboard_time": 1693969295,
-      "rank": 10,
-      "category": "美食"
+      "raw_hot": 1631315,
+      "num": 1631315,
+      "word": "iPhone15四款机型相机曝光",
+      "onboard_time": 1693970974,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 1492866,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 920296,
-      "num": 446897,
+      "num": 483843,
       "word": "王源今天正式开始上课",
       "onboard_time": 1693969415,
       "rank": 12,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741953,
+      "num": 741953,
+      "word": "冯宝宝求人不跪人",
+      "onboard_time": 1693970615,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 697918,
       "num": 613768,
       "word": "梦泪婚礼",
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 672148,
-      "num": 431015,
+      "num": 463820,
       "word": "赵丽颖自在丰盈大片",
       "onboard_time": 1693969654,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 659220,
+      "num": 659220,
+      "word": "新疆大螃蟹发货了",
+      "onboard_time": 1693969114,
+      "rank": 13,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 651387,
@@ -217,14 +241,6 @@
       "onboard_time": 1693965633,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 610469,
-      "num": 610469,
-      "word": "新疆大螃蟹发货了",
-      "onboard_time": 1693969114,
-      "rank": 13,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 610270,
@@ -299,12 +315,28 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 472485,
+      "num": 414415,
+      "word": "冯宝宝假死",
+      "onboard_time": 1693973376,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451003,
       "num": 618285,
       "word": "小萝卜头如果还活着今年82岁了",
       "onboard_time": 1693960720,
       "rank": 14,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 450180,
+      "num": 450180,
+      "word": "野球帝公告",
+      "onboard_time": 1693973197,
+      "rank": 15,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 446739,
@@ -323,12 +355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 425308,
-      "num": 425308,
-      "word": "冯宝宝求人不跪人",
-      "onboard_time": 1693970615,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 425433,
+      "num": 425433,
+      "word": "樊振东当选杭州亚运会火炬手",
+      "onboard_time": 1693970974,
+      "rank": 40,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 417778,
@@ -344,6 +376,14 @@
       "word": "警方称地铁判官精神有问题",
       "onboard_time": 1693911515,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405161,
+      "num": 450711,
+      "word": "男生骑兄弟脖子上跟女友吻别",
+      "onboard_time": 1693969957,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -387,28 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373113,
-      "num": 277293,
-      "word": "白百何卜冠今新剧一物降一物",
-      "onboard_time": 1693927119,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 370009,
-      "num": 370009,
+      "raw_hot": 376017,
+      "num": 376017,
       "word": "伍德加盟湖人",
       "onboard_time": 1693970498,
       "rank": 18,
       "category": "体育"
     },
     {
-      "raw_hot": 369041,
-      "num": 425240,
-      "word": "男生骑兄弟脖子上跟女友吻别",
-      "onboard_time": 1693969957,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 373113,
+      "num": 277293,
+      "word": "白百何卜冠今新剧一物降一物",
+      "onboard_time": 1693927119,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 366797,
@@ -483,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313349,
+      "num": 313349,
+      "word": "白宫回应华为新手机",
+      "onboard_time": 1693973496,
+      "rank": 23,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 306661,
       "num": 240623,
       "word": "100根头发有多少",
@@ -555,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259662,
+      "num": 259662,
+      "word": "汪苏泷上海抢票",
+      "onboard_time": 1693970076,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259207,
       "num": 259207,
       "word": "梦泪伴郎各忙各的",
@@ -569,14 +617,6 @@
       "onboard_time": 1693963956,
       "rank": 29,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 258252,
-      "num": 258252,
-      "word": "汪苏泷上海抢票",
-      "onboard_time": 1693970076,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 255042,
@@ -601,14 +641,6 @@
       "onboard_time": 1693934301,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245916,
-      "num": 245916,
-      "word": "iPhone15四款机型相机曝光",
-      "onboard_time": 1693970974,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 241935,
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204548,
+      "num": 204548,
+      "word": "封神 导演拉片重场戏",
+      "onboard_time": 1693971516,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202311,
       "num": 202311,
       "word": "酱香拿铁",
@@ -763,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201139,
+      "num": 201139,
+      "word": "李泳知街头女战士challenge",
+      "onboard_time": 1693973677,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198378,
       "num": 198378,
       "word": "时光音乐会宣传片",
@@ -777,6 +825,14 @@
       "onboard_time": 1693959337,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197305,
+      "num": 197305,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1693972778,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 196088,
@@ -819,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189163,
-      "num": 190498,
-      "word": "樊振东当选杭州亚运会火炬手",
-      "onboard_time": 1693970974,
-      "rank": 40,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 188594,
       "num": 192484,
       "word": "以闪亮之名新阁",
@@ -859,12 +907,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180795,
+      "num": 180795,
+      "word": "微博音乐盛典官宣",
+      "onboard_time": 1693973859,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 176536,
+      "num": 176536,
+      "word": "华为新型5G芯片是否突破卡脖子问题",
+      "onboard_time": 1693973738,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 175600,
       "num": 175600,
       "word": "四川70岁父亲将儿子背进大学",
       "onboard_time": 1693964195,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 175117,
+      "num": 175117,
+      "word": "亚锦赛男团半决赛",
+      "onboard_time": 1693973919,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 173847,
@@ -953,6 +1025,14 @@
       "onboard_time": 1693928795,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149940,
+      "num": 149940,
+      "word": "原来羚羊飞渡是写实的",
+      "onboard_time": 1693971576,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 146604,
