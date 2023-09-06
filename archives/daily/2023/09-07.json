@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694018233666,
+  "endTime": 1694020513853,
   "band_list": [
     {
       "raw_hot": 1138075,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286119,
+      "num": 286119,
+      "word": "我有一个朋友",
+      "onboard_time": 1694016692,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285986,
       "num": 285986,
       "word": "帕梅拉真不是AI",
@@ -171,12 +179,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271826,
-      "num": 271826,
-      "word": "我有一个朋友",
-      "onboard_time": 1694016692,
-      "rank": 29,
-      "category": "影视"
+      "raw_hot": 274002,
+      "num": 258405,
+      "word": "减脂事半功倍的三件事",
+      "onboard_time": 1694016752,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 261996,
@@ -233,14 +241,6 @@
       "onboard_time": 1694004276,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200264,
-      "num": 200264,
-      "word": "减脂事半功倍的三件事",
-      "onboard_time": 1694016752,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 198461,
@@ -409,6 +409,30 @@
       "onboard_time": 1694009379,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 83773,
+      "num": 210135,
+      "word": "天津大爷们宣布退出狮子林桥跳水",
+      "onboard_time": 1694019863,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73006,
+      "num": 73006,
+      "word": "作家的敏感度不是一般人能比的",
+      "onboard_time": 1694020103,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 65387,
+      "num": 65387,
+      "word": "洪知秀演唱会哭了",
+      "onboard_time": 1694003197,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 19416,
