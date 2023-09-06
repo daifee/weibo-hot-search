@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/03 00:19:27 ~ 2023/09/07 04:34:03
+本榜单时间：2023/09/03 00:19:27 ~ 2023/09/07 05:14:49
 </p>
 </blockquote>
 <p>
@@ -7809,6 +7809,12 @@ C罗晒照备战欧预赛（热度：90145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%BE%88%E5%B0%91%E7%94%A8%E6%AD%B9%E6%AF%92%E6%9D%A5%E5%BD%A2%E5%AE%B9%E4%B8%80%E9%A6%96%E6%AD%8C%23" target="weibo">
+我很少用歹毒来形容一首歌（热度：57318）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%999%E5%B9%B4%E8%B5%B050%E5%9F%8E%E4%B8%BA%E4%B8%87%E5%90%8D%E8%80%81%E4%BA%BA%E5%85%8D%E8%B4%B9%E7%85%A7%E7%9B%B8%23" target="weibo">
 小伙9年走50城为万名老人免费照相（热度：56389）
 </a>
@@ -7923,6 +7929,12 @@ C罗晒照备战欧预赛（热度：90145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%98%BF%E5%B0%BC%E7%BA%B5%E7%81%AB%E6%A1%88%E9%A6%96%E6%AC%A1%E5%BA%AD%E5%AE%A1%23" target="weibo">
+日本京阿尼纵火案首次庭审（热度：42205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Shotaro%E6%88%90%E7%81%BFChallenge%23" target="weibo">
 Shotaro成灿Challenge（热度：41561）
 </a>
@@ -7991,12 +8003,6 @@ Shotaro成灿Challenge（热度：41561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8A%A4%E5%A3%AB%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA%E8%B7%AA%E5%9C%B0%E6%95%91%E6%8F%B4%E6%BA%BA%E6%B0%B4%E8%80%81%E4%BA%BA%23" target="weibo">
 女护士百米冲刺跪地救援溺水老人（热度：33928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%98%BF%E5%B0%BC%E7%BA%B5%E7%81%AB%E6%A1%88%E9%A6%96%E6%AC%A1%E5%BA%AD%E5%AE%A1%23" target="weibo">
-日本京阿尼纵火案首次庭审（热度：33923）
 </a>
 </li>
 
@@ -8171,6 +8177,12 @@ Apex英雄（热度：20553）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E7%BB%83%E8%85%BF%E7%9A%84%23" target="weibo">
 原来航天员在太空是这样练腿的（热度：15524）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%AD%A6%E5%AD%A3%23" target="weibo">
+微博开学季（热度：15147）
 </a>
 </li>
 

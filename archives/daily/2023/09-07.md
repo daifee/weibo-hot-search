@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/07 00:22:08 ~ 2023/09/07 04:34:03
+本榜单时间：2023/09/07 00:22:08 ~ 2023/09/07 05:14:49
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ C罗晒照备战欧预赛（热度：90145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%BE%88%E5%B0%91%E7%94%A8%E6%AD%B9%E6%AF%92%E6%9D%A5%E5%BD%A2%E5%AE%B9%E4%B8%80%E9%A6%96%E6%AD%8C%23" target="weibo">
+我很少用歹毒来形容一首歌（热度：57318）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%88%90%E9%83%BD%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%B5%B7%E5%A4%96%E6%AD%8C%E6%89%8B%E5%A4%A7%E5%9E%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 今年成都第一场海外歌手大型演唱会（热度：55253）
 </a>
@@ -371,6 +377,12 @@ C罗晒照备战欧预赛（热度：90145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%90%9D%E5%95%AC%E7%88%B1%E6%84%8F%E7%9A%84%E8%A1%A8%E8%BE%BE%23" target="weibo">
 不要吝啬爱意的表达（热度：50680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%98%BF%E5%B0%BC%E7%BA%B5%E7%81%AB%E6%A1%88%E9%A6%96%E6%AC%A1%E5%BA%AD%E5%AE%A1%23" target="weibo">
+日本京阿尼纵火案首次庭审（热度：42205）
 </a>
 </li>
 
@@ -395,12 +407,6 @@ C罗晒照备战欧预赛（热度：90145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%91%E7%88%B1%E8%B1%86%E6%8F%BD%E5%88%B0%E8%85%BF%E4%B8%8A%23" target="weibo">
 被我爱豆揽到腿上（热度：34464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%98%BF%E5%B0%BC%E7%BA%B5%E7%81%AB%E6%A1%88%E9%A6%96%E6%AC%A1%E5%BA%AD%E5%AE%A1%23" target="weibo">
-日本京阿尼纵火案首次庭审（热度：33923）
 </a>
 </li>
 
@@ -449,6 +455,12 @@ Apex英雄（热度：20553）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E7%BB%83%E8%85%BF%E7%9A%84%23" target="weibo">
 原来航天员在太空是这样练腿的（热度：15524）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%AD%A6%E5%AD%A3%23" target="weibo">
+微博开学季（热度：15147）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694032443833,
+  "endTime": 1694034889875,
   "band_list": [
     {
       "raw_hot": 1138075,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 69602,
-      "num": 35315,
+      "num": 37639,
       "word": "伊能静说回来要检查秦昊的手机",
       "onboard_time": 1694027833,
       "rank": 22,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57318,
+      "num": 38197,
+      "word": "我很少用歹毒来形容一首歌",
+      "onboard_time": 1694033713,
+      "rank": 10,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 55253,
       "num": 55253,
       "word": "今年成都第一场海外歌手大型演唱会",
@@ -481,6 +489,14 @@
       "onboard_time": 1694021181,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42205,
+      "num": 35904,
+      "word": "日本京阿尼纵火案首次庭审",
+      "onboard_time": 1694029454,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40063,
@@ -513,14 +529,6 @@
       "onboard_time": 1694004698,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33923,
-      "num": 30827,
-      "word": "日本京阿尼纵火案首次庭审",
-      "onboard_time": 1694029454,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27876,
@@ -585,6 +593,14 @@
       "onboard_time": 1694002356,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15147,
+      "num": 20012,
+      "word": "微博开学季",
+      "onboard_time": 1694023877,
+      "rank": 48,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
