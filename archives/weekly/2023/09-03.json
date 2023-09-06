@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693982084079,
+  "endTime": 1693984559804,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -665,6 +665,14 @@
       "onboard_time": 1693662099,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1409029,
+      "num": 1409029,
+      "word": "张碧晨一周六天都在普拉提",
+      "onboard_time": 1693981116,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 1398502,
@@ -1355,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 857507,
+      "num": 857507,
+      "word": "内江地震",
+      "onboard_time": 1693982493,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855286,
       "num": 855286,
       "word": "地铁判官",
@@ -1764,7 +1780,7 @@
     },
     {
       "raw_hot": 731746,
-      "num": 327499,
+      "num": 327515,
       "word": "3000万元茅台只够卖1.5天咖啡",
       "onboard_time": 1693974459,
       "rank": 30,
@@ -2065,14 +2081,6 @@
       "onboard_time": 1693709915,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 660732,
-      "num": 293117,
-      "word": "张碧晨一周六天都在普拉提",
-      "onboard_time": 1693981116,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 660580,
@@ -2409,6 +2417,14 @@
       "onboard_time": 1693806578,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 597213,
+      "num": 369100,
+      "word": "戴向宇在垃圾桶捡剩饭吃",
+      "onboard_time": 1693983574,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 597099,
@@ -4083,6 +4099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348192,
+      "num": 326612,
+      "word": "教一年级学生的老师都太伟大了",
+      "onboard_time": 1693983273,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 347131,
+      "num": 347131,
+      "word": "灵隐寺出奶茶了",
+      "onboard_time": 1693984172,
+      "rank": 17,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 347073,
       "num": 347073,
       "word": "杨紫麦承欢营业照",
@@ -4105,6 +4137,14 @@
       "onboard_time": 1693808915,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345159,
+      "num": 345159,
+      "word": "7对女儿女婿和2个儿子为父亲庆生",
+      "onboard_time": 1693980633,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 344076,
@@ -4251,6 +4291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331048,
+      "num": 331048,
+      "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
+      "onboard_time": 1693981116,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329238,
       "num": 329238,
       "word": "王俊凯再唱奔跑的青春",
@@ -4313,6 +4361,14 @@
       "onboard_time": 1693894236,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324531,
+      "num": 324531,
+      "word": "爱奇艺9月片单来了",
+      "onboard_time": 1693983093,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 324505,
@@ -4803,20 +4859,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 290547,
+      "num": 290547,
+      "word": "大奉打更人",
+      "onboard_time": 1693980935,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289515,
       "num": 289515,
       "word": "中医馆买酸梅汤",
       "onboard_time": 1693734157,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 289048,
-      "num": 289048,
-      "word": "7对女儿女婿和2个儿子为父亲庆生",
-      "onboard_time": 1693980633,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 288719,
@@ -4872,6 +4928,14 @@
       "word": "弟弟想念住校姐姐半夜哭成泪人",
       "onboard_time": 1693710454,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284974,
+      "num": 284974,
+      "word": "当一碗熊猫突然滚落一地",
+      "onboard_time": 1693983273,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -5187,14 +5251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 262304,
-      "num": 262304,
-      "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
-      "onboard_time": 1693981116,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262253,
       "num": 262253,
       "word": "张本智和称赞王楚钦完美",
@@ -5393,14 +5449,6 @@
       "onboard_time": 1693801840,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253181,
-      "num": 253181,
-      "word": "大奉打更人",
-      "onboard_time": 1693980935,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 252380,
@@ -5947,6 +5995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228619,
+      "num": 228619,
+      "word": "五条悟获胜",
+      "onboard_time": 1693982433,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 228565,
       "num": 228565,
       "word": "孟美岐安崎唱跳演合作舞台",
@@ -6161,6 +6217,14 @@
       "onboard_time": 1693804358,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220055,
+      "num": 220055,
+      "word": "小玉壶的自拍",
+      "onboard_time": 1693984114,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 220033,
@@ -6393,6 +6457,14 @@
       "onboard_time": 1693835019,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208302,
+      "num": 208302,
+      "word": "倪妮孟子义新剧对手戏",
+      "onboard_time": 1693984293,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 208194,
@@ -8003,6 +8075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152136,
+      "num": 152136,
+      "word": "福州牺牲消防员陈祖严胡旭东都是90后",
+      "onboard_time": 1693982192,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151871,
       "num": 151871,
       "word": "揭秘佛系的孟美岐是如何炼成的",
@@ -8977,6 +9057,14 @@
       "onboard_time": 1693683196,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43359,
+      "num": 371965,
+      "word": "被刺伤后他忍痛将碎尸案逃犯制服",
+      "onboard_time": 1693983634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43267,

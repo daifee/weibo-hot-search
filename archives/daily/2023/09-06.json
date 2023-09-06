@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693982084079,
+  "endTime": 1693984559804,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -105,6 +105,14 @@
       "onboard_time": 1693926163,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1409029,
+      "num": 1409029,
+      "word": "张碧晨一周六天都在普拉提",
+      "onboard_time": 1693981116,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 1345167,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857507,
+      "num": 857507,
+      "word": "内江地震",
+      "onboard_time": 1693982493,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800270,
       "num": 800270,
       "word": "活牛2分钟被强行灌水近50升",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 731746,
-      "num": 327499,
+      "num": 327515,
       "word": "3000万元茅台只够卖1.5天咖啡",
       "onboard_time": 1693974459,
       "rank": 30,
@@ -281,14 +297,6 @@
       "onboard_time": 1693969114,
       "rank": 13,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 660732,
-      "num": 293117,
-      "word": "张碧晨一周六天都在普拉提",
-      "onboard_time": 1693981116,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 651387,
@@ -345,6 +353,14 @@
       "onboard_time": 1693961319,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 597213,
+      "num": 369100,
+      "word": "戴向宇在垃圾桶捡剩饭吃",
+      "onboard_time": 1693983574,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 579193,
@@ -651,6 +667,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348192,
+      "num": 326612,
+      "word": "教一年级学生的老师都太伟大了",
+      "onboard_time": 1693983273,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 347131,
+      "num": 347131,
+      "word": "灵隐寺出奶茶了",
+      "onboard_time": 1693984172,
+      "rank": 17,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 345159,
+      "num": 345159,
+      "word": "7对女儿女婿和2个儿子为父亲庆生",
+      "onboard_time": 1693980633,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 331048,
+      "num": 331048,
+      "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
+      "onboard_time": 1693981116,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328363,
       "num": 276257,
       "word": "来姨妈前有哪些奇怪的生理反应",
@@ -664,6 +712,14 @@
       "word": "宫子羽 牛高马大",
       "onboard_time": 1693958254,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 324531,
+      "num": 324531,
+      "word": "爱奇艺9月片单来了",
+      "onboard_time": 1693983093,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -715,12 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289048,
-      "num": 289048,
-      "word": "7对女儿女婿和2个儿子为父亲庆生",
-      "onboard_time": 1693980633,
-      "rank": 34,
-      "category": "社会新闻,情感"
+      "raw_hot": 290547,
+      "num": 290547,
+      "word": "大奉打更人",
+      "onboard_time": 1693980935,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 288685,
@@ -729,6 +785,14 @@
       "onboard_time": 1693960779,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284974,
+      "num": 284974,
+      "word": "当一碗熊猫突然滚落一地",
+      "onboard_time": 1693983273,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281952,
@@ -779,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262304,
-      "num": 262304,
-      "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
-      "onboard_time": 1693981116,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260670,
       "num": 238282,
       "word": "原来眼镜布并不是擦眼镜的",
@@ -825,14 +881,6 @@
       "onboard_time": 1693918956,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253181,
-      "num": 253181,
-      "word": "大奉打更人",
-      "onboard_time": 1693980935,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 252234,
@@ -939,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228619,
+      "num": 228619,
+      "word": "五条悟获胜",
+      "onboard_time": 1693982433,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 226288,
       "num": 226288,
       "word": "封神大学周边好多",
@@ -977,6 +1033,14 @@
       "onboard_time": 1693961259,
       "rank": 35,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 220055,
+      "num": 220055,
+      "word": "小玉壶的自拍",
+      "onboard_time": 1693984114,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 217586,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1693973677,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208302,
+      "num": 208302,
+      "word": "倪妮孟子义新剧对手戏",
+      "onboard_time": 1693984293,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 207745,
@@ -1315,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152136,
+      "num": 152136,
+      "word": "福州牺牲消防员陈祖严胡旭东都是90后",
+      "onboard_time": 1693982192,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151871,
       "num": 151871,
       "word": "揭秘佛系的孟美岐是如何炼成的",
@@ -1553,6 +1633,14 @@
       "onboard_time": 1693933884,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43359,
+      "num": 371965,
+      "word": "被刺伤后他忍痛将碎尸案逃犯制服",
+      "onboard_time": 1693983634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41561,
