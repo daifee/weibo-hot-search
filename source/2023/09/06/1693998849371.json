@@ -1,0 +1,410 @@
+{
+  "runTime": 1693998849371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1905994,
+        "num": 1905994,
+        "word": "450万是很大一笔钱了",
+        "onboard_time": 1693995218,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 507023,
+        "num": 1756421,
+        "word": "1只小白虎在狮群里被挤成银渐层",
+        "onboard_time": 1693996233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30452,
+        "num": 1730206,
+        "word": "详解杭州亚运会会徽和口号",
+        "onboard_time": 1693989455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1710618,
+        "num": 1710618,
+        "word": "iPhone15国行售价曝光",
+        "onboard_time": 1693993657,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 334204,
+        "num": 1590463,
+        "word": "幼童4根手指被绞断交警狂飙送医",
+        "onboard_time": 1693996293,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1555330,
+        "num": 1555330,
+        "word": "一万块回农村可以躺平多久",
+        "onboard_time": 1693994078,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197816,
+        "num": 1482210,
+        "word": "西安成功救治早产镜面宝宝",
+        "onboard_time": 1693991434,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429846,
+        "num": 1429846,
+        "word": "酱香拿铁已经火到韩国了",
+        "onboard_time": 1693994974,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1087518,
+        "num": 1087518,
+        "word": "王楚钦",
+        "onboard_time": 1693997200,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1051181,
+        "num": 1051181,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685813,
+        "num": 685813,
+        "word": "一杯咖啡 两代人的沉默",
+        "onboard_time": 1693997676,
+        "rank": 10,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 562801,
+        "num": 562801,
+        "word": "奥本海默片尾删除80%特效员工署名",
+        "onboard_time": 1693994676,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485106,
+        "num": 485106,
+        "word": "地铁判官已赔礼道歉",
+        "onboard_time": 1693986033,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473270,
+        "num": 473270,
+        "word": "肖战白百何新剧差点差辈了",
+        "onboard_time": 1693998636,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42012,
+        "num": 464012,
+        "word": "婴儿高铁上哭闹乘客耐心帮哄娃",
+        "onboard_time": 1693998032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461400,
+        "num": 461400,
+        "word": "王一博或将演家在北京",
+        "onboard_time": 1693998333,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452524,
+        "num": 452524,
+        "word": "九尾 高铁没赶上",
+        "onboard_time": 1693992277,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423740,
+        "num": 423740,
+        "word": "Lisa更新",
+        "onboard_time": 1693992815,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322837,
+        "num": 322837,
+        "word": "易烊千玺舒淇主演毕赣新片",
+        "onboard_time": 1693998574,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319783,
+        "num": 319783,
+        "word": "知网被罚款5000万元",
+        "onboard_time": 1693991137,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549446,
+        "num": 319452,
+        "word": "不愧是考公大省",
+        "onboard_time": 1693996959,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366467,
+        "num": 319142,
+        "word": "张栋梁唐禹哲居然早就认识了",
+        "onboard_time": 1693995874,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318313,
+        "num": 318313,
+        "word": "封神 留不住坠落的玄鸟",
+        "onboard_time": 1693993476,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301737,
+        "num": 301737,
+        "word": "周渝民夫妻被诈骗保险金案宣判",
+        "onboard_time": 1693986513,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287890,
+        "num": 287890,
+        "word": "杨幂蓝牛仔套装造型",
+        "onboard_time": 1693996173,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284500,
+        "num": 284500,
+        "word": "Hero取关久哲",
+        "onboard_time": 1693988376,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249076,
+        "num": 249076,
+        "word": "张小斐爆发戏用力到手指骨折",
+        "onboard_time": 1693997975,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237155,
+        "num": 237155,
+        "word": "没想到我提离职猫同事也要走",
+        "onboard_time": 1693998156,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229828,
+        "num": 229828,
+        "word": "顺丰 偶像梦幻祭",
+        "onboard_time": 1693996895,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229420,
+        "num": 229420,
+        "word": "久哲回应Hero取关",
+        "onboard_time": 1693991617,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359370,
+        "num": 226512,
+        "word": "辅导员建议考研能不吃的苦别吃",
+        "onboard_time": 1693998214,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 233519,
+        "num": 214254,
+        "word": "情绪稳定的老板和客户天塌了也要吃炒粉",
+        "onboard_time": 1693996475,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199679,
+        "num": 199679,
+        "word": "严浩翔发文说不仅姓时还姓严",
+        "onboard_time": 1693998275,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195611,
+        "num": 195611,
+        "word": "职场讨坏型人格",
+        "onboard_time": 1693990775,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172776,
+        "num": 172776,
+        "word": "地铁被打大爷与小伙已和解",
+        "onboard_time": 1693978833,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171758,
+        "num": 171758,
+        "word": "梦泪婚礼聚集大半个电竞圈",
+        "onboard_time": 1693988559,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164751,
+        "num": 164751,
+        "word": "车银优晒与宋慧乔合影",
+        "onboard_time": 1693990895,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161023,
+        "num": 161023,
+        "word": "3000万元茅台只够卖1.5天咖啡",
+        "onboard_time": 1693974459,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 147873,
+        "num": 147873,
+        "word": "傅首尔和老刘",
+        "onboard_time": 1693980094,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146187,
+        "num": 146187,
+        "word": "努力的意义可以是带父母吃大学食堂",
+        "onboard_time": 1693997493,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145908,
+        "num": 145908,
+        "word": "教一年级学生的老师都太伟大了",
+        "onboard_time": 1693983273,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 140263,
+        "num": 140263,
+        "word": "晨练大哥跳5米高桥将落水者救起",
+        "onboard_time": 1693998156,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140214,
+        "num": 140214,
+        "word": "没想到最后被宫紫商演了",
+        "onboard_time": 1693995455,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127362,
+        "num": 127362,
+        "word": "男子造谣五月天嘉宾是王俊凯被抓",
+        "onboard_time": 1693992336,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 135071,
+        "num": 126086,
+        "word": "虞书欣张凌赫来演云之羽的原因一模一样",
+        "onboard_time": 1693977457,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122773,
+        "num": 122773,
+        "word": "戴向宇在垃圾桶捡剩饭吃",
+        "onboard_time": 1693983574,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120274,
+        "num": 120274,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118264,
+        "num": 118264,
+        "word": "李彩演新歌",
+        "onboard_time": 1693998814,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117604,
+        "num": 117604,
+        "word": "男篮世界杯",
+        "onboard_time": 1693997915,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31728,
+        "num": 117429,
+        "word": "外滩大会十大黑科技",
+        "onboard_time": 1693997313,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}

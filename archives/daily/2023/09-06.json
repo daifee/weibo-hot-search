@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693996514779,
+  "endTime": 1693998849371,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -99,6 +99,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1905994,
+      "num": 1905994,
+      "word": "450万是很大一笔钱了",
+      "onboard_time": 1693995218,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1838987,
       "num": 1838987,
       "word": "杭州阿姨账户里的1700万保住了",
@@ -153,6 +161,14 @@
       "onboard_time": 1693926163,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1429846,
+      "num": 1429846,
+      "word": "酱香拿铁已经火到韩国了",
+      "onboard_time": 1693994974,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 1409029,
@@ -227,14 +243,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1133747,
-      "num": 1133747,
-      "word": "酱香拿铁已经火到韩国了",
-      "onboard_time": 1693994974,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1124826,
       "num": 1124826,
       "word": "瑞幸加茅台 华尔街跪下来",
@@ -249,6 +257,14 @@
       "onboard_time": 1693916078,
       "rank": 3,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1087518,
+      "num": 1087518,
+      "word": "王楚钦",
+      "onboard_time": 1693997200,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1040012,
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 791412,
-      "num": 618081,
-      "word": "450万是很大一笔钱了",
-      "onboard_time": 1693995218,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 761769,
       "num": 761769,
       "word": "沈阳宣布在校大学生买房每平米补贴200元",
@@ -393,6 +401,14 @@
       "onboard_time": 1693960478,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 685813,
+      "num": 685813,
+      "word": "一杯咖啡 两代人的沉默",
+      "onboard_time": 1693997676,
+      "rank": 10,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 678290,
@@ -555,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 549446,
+      "num": 319452,
+      "word": "不愧是考公大省",
+      "onboard_time": 1693996959,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 543364,
       "num": 543364,
       "word": "中国人不做那种偷鸡摸狗的事",
@@ -627,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507023,
+      "num": 1756421,
+      "word": "1只小白虎在狮群里被挤成银渐层",
+      "onboard_time": 1693996233,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505672,
       "num": 505672,
       "word": "地铁判官 起初人们没注意到那条动态",
@@ -667,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473270,
+      "num": 473270,
+      "word": "肖战白百何新剧差点差辈了",
+      "onboard_time": 1693998636,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465707,
       "num": 465707,
       "word": "包上恩 开拍之前也有认真漱口",
       "onboard_time": 1693980935,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 461400,
+      "num": 461400,
+      "word": "王一博或将演家在北京",
+      "onboard_time": 1693998333,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 457823,
@@ -843,6 +891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366467,
+      "num": 319142,
+      "word": "张栋梁唐禹哲居然早就认识了",
+      "onboard_time": 1693995874,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 359370,
+      "num": 226512,
+      "word": "辅导员建议考研能不吃的苦别吃",
+      "onboard_time": 1693998214,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 358924,
       "num": 358924,
       "word": "为什么卤味三巨头卖不动了",
@@ -923,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334204,
+      "num": 1590463,
+      "word": "幼童4根手指被绞断交警狂飙送医",
+      "onboard_time": 1693996293,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331048,
       "num": 331048,
       "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
@@ -969,6 +1041,14 @@
       "onboard_time": 1693928018,
       "rank": 18,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 322837,
+      "num": 322837,
+      "word": "易烊千玺舒淇主演毕赣新片",
+      "onboard_time": 1693998574,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 321489,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1693960779,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287890,
+      "num": 287890,
+      "word": "杨幂蓝牛仔套装造型",
+      "onboard_time": 1693996173,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 281952,
@@ -1171,20 +1259,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249076,
+      "num": 249076,
+      "word": "张小斐爆发戏用力到手指骨折",
+      "onboard_time": 1693997975,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248500,
       "num": 248500,
       "word": "地铁判官说到做到",
       "onboard_time": 1693923400,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247317,
-      "num": 247317,
-      "word": "张栋梁唐禹哲居然早就认识了",
-      "onboard_time": 1693995874,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 246637,
@@ -1235,6 +1323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 237155,
+      "num": 237155,
+      "word": "没想到我提离职猫同事也要走",
+      "onboard_time": 1693998156,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237070,
       "num": 237070,
       "word": "孟子义西出玉门演疯批恶女",
@@ -1267,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233519,
+      "num": 214254,
+      "word": "情绪稳定的老板和客户天塌了也要吃炒粉",
+      "onboard_time": 1693996475,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232921,
       "num": 232921,
       "word": "民警追回25万牛蛙苗骗款获赠牛哇锦旗",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1693915959,
       "rank": 28,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 229828,
+      "num": 229828,
+      "word": "顺丰 偶像梦幻祭",
+      "onboard_time": 1693996895,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 229323,
@@ -1427,14 +1539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209024,
-      "num": 209024,
-      "word": "杨幂蓝牛仔套装造型",
-      "onboard_time": 1693996173,
-      "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 208302,
       "num": 208302,
       "word": "倪妮孟子义新剧对手戏",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1693961139,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199679,
+      "num": 199679,
+      "word": "严浩翔发文说不仅姓时还姓严",
+      "onboard_time": 1693998275,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 198378,
@@ -1819,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146187,
+      "num": 146187,
+      "word": "努力的意义可以是带父母吃大学食堂",
+      "onboard_time": 1693997493,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142652,
       "num": 142652,
       "word": "女子花84万在医美机构做血液净化",
@@ -1849,6 +1969,14 @@
       "onboard_time": 1693913195,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140263,
+      "num": 140263,
+      "word": "晨练大哥跳5米高桥将落水者救起",
+      "onboard_time": 1693998156,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138436,
@@ -1971,20 +2099,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124010,
-      "num": 124010,
-      "word": "情绪稳定的老板和客户天塌了也要吃炒粉",
-      "onboard_time": 1693996475,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118913,
       "num": 118913,
       "word": "明日方舟 涤火杰西卡漫画",
       "onboard_time": 1693988376,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118264,
+      "num": 118264,
+      "word": "李彩演新歌",
+      "onboard_time": 1693998814,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 117604,
+      "num": 117604,
+      "word": "男篮世界杯",
+      "onboard_time": 1693997915,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117602,
@@ -2043,27 +2179,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92789,
-      "num": 159664,
-      "word": "1只小白虎在狮群里被挤成银渐层",
-      "onboard_time": 1693996233,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90865,
       "num": 90865,
       "word": "是母亲也是可以被爱的女孩",
       "onboard_time": 1693955066,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89429,
-      "num": 237249,
-      "word": "幼童4根手指被绞断交警狂飙送医",
-      "onboard_time": 1693996293,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2131,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42012,
+      "num": 464012,
+      "word": "婴儿高铁上哭闹乘客耐心帮哄娃",
+      "onboard_time": 1693998032,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41561,
       "num": 41561,
       "word": "Shotaro成灿Challenge",
@@ -2153,6 +2281,14 @@
       "onboard_time": 1693937539,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31728,
+      "num": 117429,
+      "word": "外滩大会十大黑科技",
+      "onboard_time": 1693997313,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30014,
