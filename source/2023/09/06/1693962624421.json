@@ -1,0 +1,410 @@
+{
+  "runTime": 1693962624421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1838987,
+        "num": 1838987,
+        "word": "杭州阿姨账户里的1700万保住了",
+        "onboard_time": 1693958013,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1761890,
+        "num": 1761890,
+        "word": "15800的月嫂一天都在做什么",
+        "onboard_time": 1693959577,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12904,
+        "num": 1727581,
+        "word": "杭州亚运会逛玩指南",
+        "onboard_time": 1693891837,
+        "rank": 2,
+        "category": "旅游,体育"
+      },
+      {
+        "raw_hot": 2079035,
+        "num": 1727396,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1727198,
+        "num": 1727198,
+        "word": "张艺谋",
+        "onboard_time": 1693962520,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 926378,
+        "num": 926378,
+        "word": "蜜雪冰城 五粮液",
+        "onboard_time": 1693914455,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 900419,
+        "num": 900419,
+        "word": "为什么要多和婴儿聊天",
+        "onboard_time": 1693957471,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 890950,
+        "num": 890950,
+        "word": "男子称怒砸10杯酱香拿铁不是因奶油太丑",
+        "onboard_time": 1693929036,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784361,
+        "num": 784361,
+        "word": "活牛2分钟被强行灌水近50升",
+        "onboard_time": 1693960058,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657473,
+        "num": 657473,
+        "word": "瑞幸加茅台 华尔街跪下来",
+        "onboard_time": 1693922679,
+        "rank": 9,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 1730989,
+        "num": 646821,
+        "word": "日本称为应对中国禁令已砸千亿日元",
+        "onboard_time": 1693960236,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862980,
+        "num": 638567,
+        "word": "袁冰妍为什么没有被认定偷税漏税",
+        "onboard_time": 1693926163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697918,
+        "num": 613768,
+        "word": "梦泪婚礼",
+        "onboard_time": 1693960478,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 572423,
+        "num": 572423,
+        "word": "印媒曝印度或讨论将国名改为巴拉特",
+        "onboard_time": 1693956990,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 451003,
+        "num": 516272,
+        "word": "小萝卜头如果还活着今年82岁了",
+        "onboard_time": 1693960720,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 573694,
+        "num": 514404,
+        "word": "李圣经好像迪士尼公主在唱歌",
+        "onboard_time": 1693960418,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507111,
+        "num": 507111,
+        "word": "虞书欣朋友发的片场日常",
+        "onboard_time": 1693960236,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505672,
+        "num": 505672,
+        "word": "地铁判官 起初人们没注意到那条动态",
+        "onboard_time": 1693960837,
+        "rank": 17,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 438985,
+        "num": 438985,
+        "word": "为什么要找高个男友",
+        "onboard_time": 1693960058,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434144,
+        "num": 434144,
+        "word": "福州暴雨",
+        "onboard_time": 1693919858,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392726,
+        "num": 392726,
+        "word": "北京发布中秋国庆放假安排",
+        "onboard_time": 1693958373,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390929,
+        "num": 390929,
+        "word": "关于00后老板睡过头这件事",
+        "onboard_time": 1693958856,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363728,
+        "num": 363728,
+        "word": "福州厦门两地发布暴雨红色预警",
+        "onboard_time": 1693961139,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354730,
+        "num": 354730,
+        "word": "年下不叫姐心思有点野",
+        "onboard_time": 1693960478,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349538,
+        "num": 349538,
+        "word": "结束一段关系最好的方式",
+        "onboard_time": 1693955066,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328286,
+        "num": 328286,
+        "word": "宫子羽 牛高马大",
+        "onboard_time": 1693958254,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297800,
+        "num": 297800,
+        "word": "药水哥消失4个月变这样了",
+        "onboard_time": 1693917518,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292738,
+        "num": 292738,
+        "word": "肖战剧里的画竟然都是自己画的",
+        "onboard_time": 1693920221,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288685,
+        "num": 288685,
+        "word": "马立奥点头笑",
+        "onboard_time": 1693960779,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278189,
+        "num": 278189,
+        "word": "刘亦菲霍建华玫瑰故事路透",
+        "onboard_time": 1693956931,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 599248,
+        "num": 277316,
+        "word": "关系户实习生",
+        "onboard_time": 1693961319,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535835,
+        "num": 276720,
+        "word": "秀才被封 信息茧房",
+        "onboard_time": 1693962400,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273442,
+        "num": 273442,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693962579,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244295,
+        "num": 244295,
+        "word": "让宿管阿姨害怕的女大学生",
+        "onboard_time": 1693955126,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231334,
+        "num": 231334,
+        "word": "孟子义我的恋综嘴替",
+        "onboard_time": 1693959816,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220374,
+        "num": 220374,
+        "word": "想给趵突泉颁个最具毅力奖",
+        "onboard_time": 1693961259,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 216212,
+        "num": 216212,
+        "word": "韩国流行的自助煮面火到上海了",
+        "onboard_time": 1693923825,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213476,
+        "num": 213476,
+        "word": "傅首尔医者难自医",
+        "onboard_time": 1693949593,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201769,
+        "num": 201769,
+        "word": "别人家的物理老师都成闪电侠了",
+        "onboard_time": 1693961139,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199711,
+        "num": 199711,
+        "word": "白百何卜冠今新剧一物降一物",
+        "onboard_time": 1693927119,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198378,
+        "num": 198378,
+        "word": "时光音乐会宣传片",
+        "onboard_time": 1693959635,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197810,
+        "num": 197810,
+        "word": "此沙理解的妈生好皮",
+        "onboard_time": 1693959337,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197451,
+        "num": 197451,
+        "word": "警方称地铁判官精神有问题",
+        "onboard_time": 1693911515,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196646,
+        "num": 196646,
+        "word": "地铁判官解说",
+        "onboard_time": 1693915959,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195991,
+        "num": 195991,
+        "word": "原来眼镜布并不是擦眼镜的",
+        "onboard_time": 1693922023,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195905,
+        "num": 195905,
+        "word": "当你在意大利用筷子吃意面",
+        "onboard_time": 1693956931,
+        "rank": 45,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 191656,
+        "num": 191656,
+        "word": "李健 忘记时间你才能更自由",
+        "onboard_time": 1693955126,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186302,
+        "num": 186302,
+        "word": "福州地铁",
+        "onboard_time": 1693955546,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180639,
+        "num": 180639,
+        "word": "胡锡进 我们需要管理自己的厌日情绪",
+        "onboard_time": 1693927779,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173847,
+        "num": 173847,
+        "word": "房东的猫世界青年北美巡演官宣",
+        "onboard_time": 1693959158,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#共促世界经济复苏和增长#"
+    }
+  }
+}
