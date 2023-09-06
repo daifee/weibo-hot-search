@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1693989282995,
+  "endTime": 1693991807431,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -217,6 +217,14 @@
       "onboard_time": 1693796676,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2363214,
+      "num": 1266081,
+      "word": "杨丽萍新舞再被批尺度大",
+      "onboard_time": 1693987538,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2345927,
@@ -723,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1381597,
+      "num": 1381597,
+      "word": "Hero取关久哲",
+      "onboard_time": 1693988376,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1379706,
       "num": 1379706,
       "word": "范丞丞关晓彤 小巷人家",
@@ -824,6 +840,14 @@
       "word": "日本核污染水排海量已超4200吨",
       "onboard_time": 1693872040,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1209035,
+      "num": 1209035,
+      "word": "知网被罚款5000万元",
+      "onboard_time": 1693991137,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1459,14 +1483,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 827629,
-      "num": 827629,
-      "word": "杨丽萍新舞再被批尺度大",
-      "onboard_time": 1693987538,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 826768,
       "num": 826768,
       "word": "巨蟹座永远不会奔谁而去",
@@ -2051,14 +2067,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 680783,
-      "num": 680783,
-      "word": "Hero取关久哲",
-      "onboard_time": 1693988376,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 680311,
       "num": 680311,
       "word": "原来大学没课时可以搞那么多事",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1693878756,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 670462,
+      "num": 571414,
+      "word": "中国地图将钓鱼岛标为中国领土理所当然",
+      "onboard_time": 1693989516,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 670404,
@@ -2547,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 580094,
+      "num": 566131,
+      "word": "车银优晒与宋慧乔合影",
+      "onboard_time": 1693990895,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580073,
       "num": 580073,
       "word": "骄阳伴我里很现实的悲哀",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1693819895,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 577271,
+      "num": 577271,
+      "word": "梦泪婚礼聚集大半个电竞圈",
+      "onboard_time": 1693988559,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 573694,
@@ -2792,6 +2824,14 @@
       "word": "河北一市委书记上衣被P掉logo引猜测",
       "onboard_time": 1693877554,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541194,
+      "num": 541194,
+      "word": "余华 是他自己消失了",
+      "onboard_time": 1693988915,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -4227,6 +4267,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 344237,
+      "num": 560947,
+      "word": "知网运营的14款APP存在违法行为",
+      "onboard_time": 1693991195,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344076,
       "num": 344076,
       "word": "长相思相柳战死概念图",
@@ -4289,6 +4337,14 @@
       "onboard_time": 1693870048,
       "rank": 36,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 339150,
+      "num": 339150,
+      "word": "密室大逃脱全员感谢NPC",
+      "onboard_time": 1693989574,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 339130,
@@ -4828,7 +4884,7 @@
     },
     {
       "raw_hot": 300133,
-      "num": 451026,
+      "num": 554214,
       "word": "当一碗熊猫突然滚落一地",
       "onboard_time": 1693983273,
       "rank": 26,
@@ -5107,6 +5163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280743,
+      "num": 280743,
+      "word": "久哲回应Hero取关",
+      "onboard_time": 1693991617,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280049,
       "num": 280049,
       "word": "森林进化论",
@@ -5273,6 +5337,14 @@
       "onboard_time": 1693788036,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268479,
+      "num": 268479,
+      "word": "有些事过了25岁就懂了",
+      "onboard_time": 1693989935,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268100,
@@ -6227,6 +6299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222528,
+      "num": 222528,
+      "word": "职场讨坏型人格",
+      "onboard_time": 1693990775,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222415,
       "num": 222415,
       "word": "洪胜汉选的都是自己",
@@ -6337,14 +6417,6 @@
       "onboard_time": 1693868785,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219911,
-      "num": 219911,
-      "word": "梦泪婚礼聚集大半个电竞圈",
-      "onboard_time": 1693988559,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 219699,
@@ -7291,6 +7363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189203,
+      "num": 189203,
+      "word": "自制酱香拿铁是什么体验",
+      "onboard_time": 1693990654,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189182,
       "num": 189182,
       "word": "盛阳温柔放大镜",
@@ -7875,19 +7955,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168393,
-      "num": 168393,
-      "word": "余华 是他自己消失了",
-      "onboard_time": 1693988915,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168266,
       "num": 168266,
       "word": "机智盛阳胡说八道劝退情敌",
       "onboard_time": 1693909417,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168146,
+      "num": 168146,
+      "word": "虞书欣云之羽打戏用的是真刀",
+      "onboard_time": 1693990176,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -7953,6 +8033,14 @@
       "onboard_time": 1693894894,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165201,
+      "num": 165201,
+      "word": "西安成功救治早产镜面宝宝",
+      "onboard_time": 1693991434,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164942,
@@ -8435,6 +8523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138958,
+      "num": 138958,
+      "word": "林高远王艺迪混双晋级四强",
+      "onboard_time": 1693991797,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138199,
       "num": 138199,
       "word": "这是你印象中的东北乡村吗",
@@ -8603,6 +8699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125966,
+      "num": 187489,
+      "word": "是我能穿的明星高定",
+      "onboard_time": 1693988796,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 124520,
       "num": 124520,
       "word": "胖子印度朋友总结奥本海默",
@@ -8697,14 +8801,6 @@
       "onboard_time": 1693747544,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112314,
-      "num": 187489,
-      "word": "是我能穿的明星高定",
-      "onboard_time": 1693988796,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 111383,
@@ -9059,6 +9155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69260,
+      "num": 543006,
+      "word": "不经意的捕捉比摆拍更动人",
+      "onboard_time": 1693990834,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67296,
       "num": 1727581,
       "word": "杭州亚运会逛玩指南",
@@ -9145,6 +9249,14 @@
       "onboard_time": 1693692795,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59257,
+      "num": 1292322,
+      "word": "详解杭州亚运会会徽和口号",
+      "onboard_time": 1693989455,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58083,
