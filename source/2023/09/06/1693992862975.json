@@ -1,0 +1,410 @@
+{
+  "runTime": 1693992862975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2614461,
+        "num": 2614461,
+        "word": "知网被罚款5000万元",
+        "onboard_time": 1693991137,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324309,
+        "num": 1324309,
+        "word": "周渝民夫妻被诈骗保险金案宣判",
+        "onboard_time": 1693986513,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55355,
+        "num": 1162064,
+        "word": "详解杭州亚运会会徽和口号",
+        "onboard_time": 1693989455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2444237,
+        "num": 1099790,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001516,
+        "num": 1001516,
+        "word": "Hero取关久哲",
+        "onboard_time": 1693988376,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 916246,
+        "num": 916246,
+        "word": "地铁判官已赔礼道歉",
+        "onboard_time": 1693986033,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714964,
+        "num": 714964,
+        "word": "灵隐寺出奶茶了",
+        "onboard_time": 1693984172,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 651134,
+        "num": 651134,
+        "word": "中国地图将钓鱼岛标为中国领土理所当然",
+        "onboard_time": 1693989516,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 605016,
+        "num": 605016,
+        "word": "梦泪婚礼聚集大半个电竞圈",
+        "onboard_time": 1693988559,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 505372,
+        "num": 505372,
+        "word": "余华 是他自己消失了",
+        "onboard_time": 1693988915,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641244,
+        "num": 503924,
+        "word": "车银优晒与宋慧乔合影",
+        "onboard_time": 1693990895,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569494,
+        "num": 500294,
+        "word": "久哲回应Hero取关",
+        "onboard_time": 1693991617,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 453411,
+        "num": 498109,
+        "word": "知网运营的14款APP存在违法行为",
+        "onboard_time": 1693991195,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291956,
+        "num": 495161,
+        "word": "西安成功救治早产镜面宝宝",
+        "onboard_time": 1693991434,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94066,
+        "num": 490733,
+        "word": "不经意的捕捉比摆拍更动人",
+        "onboard_time": 1693990834,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488918,
+        "num": 488918,
+        "word": "谁在考公可以进来学申论",
+        "onboard_time": 1693986757,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 471697,
+        "num": 471697,
+        "word": "沈阳宣布在校大学生买房每平米补贴200元",
+        "onboard_time": 1693986213,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 358087,
+        "num": 358087,
+        "word": "密室大逃脱全员感谢NPC",
+        "onboard_time": 1693989574,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333208,
+        "num": 333208,
+        "word": "戴向宇在垃圾桶捡剩饭吃",
+        "onboard_time": 1693983574,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305953,
+        "num": 305953,
+        "word": "张碧晨一周六天都在普拉提",
+        "onboard_time": 1693981116,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309346,
+        "num": 301366,
+        "word": "职场讨坏型人格",
+        "onboard_time": 1693990775,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294256,
+        "num": 294256,
+        "word": "3000万元茅台只够卖1.5天咖啡",
+        "onboard_time": 1693974459,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 290028,
+        "num": 290028,
+        "word": "小玉壶的自拍",
+        "onboard_time": 1693984114,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278885,
+        "num": 278885,
+        "word": "iPhone15四款机型相机曝光",
+        "onboard_time": 1693970974,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 277783,
+        "num": 277783,
+        "word": "有些事过了25岁就懂了",
+        "onboard_time": 1693989935,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253058,
+        "num": 253058,
+        "word": "檀健次莫青成",
+        "onboard_time": 1693987774,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242612,
+        "num": 242612,
+        "word": "男子造谣五月天嘉宾是王俊凯被抓",
+        "onboard_time": 1693992336,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 239899,
+        "num": 239899,
+        "word": "女主播户外涉黄直播当场被抓",
+        "onboard_time": 1693965394,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223842,
+        "num": 223842,
+        "word": "林高远王艺迪混双晋级四强",
+        "onboard_time": 1693991797,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221653,
+        "num": 221653,
+        "word": "云为衫从来不用苹果手机因为她不i锋",
+        "onboard_time": 1693987653,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485762,
+        "num": 221190,
+        "word": "九尾 高铁没赶上",
+        "onboard_time": 1693992277,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234645,
+        "num": 219607,
+        "word": "知网回应网信办处罚决定",
+        "onboard_time": 1693992455,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215939,
+        "num": 215939,
+        "word": "傅首尔和老刘",
+        "onboard_time": 1693980094,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214257,
+        "num": 214257,
+        "word": "虞书欣张凌赫来演云之羽的原因一模一样",
+        "onboard_time": 1693977457,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206663,
+        "num": 206663,
+        "word": "野球帝公告",
+        "onboard_time": 1693973197,
+        "rank": 34,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 204408,
+        "num": 204408,
+        "word": "野球帝洋妈回应",
+        "onboard_time": 1693987834,
+        "rank": 35,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 202808,
+        "num": 202808,
+        "word": "新手爸爸将14天婴儿装塑料袋称重",
+        "onboard_time": 1693974278,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192849,
+        "num": 192849,
+        "word": "为什么二手房卖不动了价格却还坚挺",
+        "onboard_time": 1693975418,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 187494,
+        "num": 187494,
+        "word": "教一年级学生的老师都太伟大了",
+        "onboard_time": 1693983273,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184349,
+        "num": 184349,
+        "word": "当一碗熊猫突然滚落一地",
+        "onboard_time": 1693983273,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176212,
+        "num": 176212,
+        "word": "夜色尚浅",
+        "onboard_time": 1693992400,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173968,
+        "num": 173968,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172520,
+        "num": 172520,
+        "word": "地铁被打大爷与小伙已和解",
+        "onboard_time": 1693978833,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162747,
+        "num": 162747,
+        "word": "爱奇艺9月片单来了",
+        "onboard_time": 1693983093,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160083,
+        "num": 160083,
+        "word": "Lisa更新",
+        "onboard_time": 1693992815,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151791,
+        "num": 151791,
+        "word": "虞书欣云之羽打戏用的是真刀",
+        "onboard_time": 1693990176,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148672,
+        "num": 148672,
+        "word": "黄奕时隔23年再扮李玉湖",
+        "onboard_time": 1693977098,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145174,
+        "num": 145174,
+        "word": "孟子义西出玉门演疯批恶女",
+        "onboard_time": 1693987296,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144915,
+        "num": 144915,
+        "word": "D社你人还怪好的嘞",
+        "onboard_time": 1693987961,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138352,
+        "num": 138352,
+        "word": "华为新型5G芯片是否突破卡脖子问题",
+        "onboard_time": 1693973738,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#人道主义是能够凝聚不同文明的最大共识#"
+    }
+  }
+}

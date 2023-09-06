@@ -1,6 +1,6 @@
 {
   "startTime": 1693930915248,
-  "endTime": 1693991807431,
+  "endTime": 1693992862975,
   "band_list": [
     {
       "raw_hot": 3411419,
@@ -27,7 +27,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2363214,
+      "raw_hot": 2614461,
+      "num": 2614461,
+      "word": "知网被罚款5000万元",
+      "onboard_time": 1693991137,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2444237,
       "num": 1266081,
       "word": "杨丽萍新舞再被批尺度大",
       "onboard_time": 1693987538,
@@ -185,14 +193,6 @@
       "onboard_time": 1693963118,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1209035,
-      "num": 1209035,
-      "word": "知网被罚款5000万元",
-      "onboard_time": 1693991137,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1203535,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 670462,
-      "num": 571414,
+      "num": 651134,
       "word": "中国地图将钓鱼岛标为中国领土理所当然",
       "onboard_time": 1693989516,
       "rank": 10,
@@ -393,6 +393,14 @@
       "onboard_time": 1693917518,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 641244,
+      "num": 566131,
+      "word": "车银优晒与宋慧乔合影",
+      "onboard_time": 1693990895,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 614268,
@@ -435,6 +443,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 605016,
+      "num": 605016,
+      "word": "梦泪婚礼聚集大半个电竞圈",
+      "onboard_time": 1693988559,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 599248,
       "num": 445292,
       "word": "关系户实习生",
@@ -443,28 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 580094,
-      "num": 566131,
-      "word": "车银优晒与宋慧乔合影",
-      "onboard_time": 1693990895,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 579193,
       "num": 579193,
       "word": "福州2名牺牲消防员身份已确认",
       "onboard_time": 1693978653,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577271,
-      "num": 577271,
-      "word": "梦泪婚礼聚集大半个电竞圈",
-      "onboard_time": 1693988559,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 573694,
@@ -481,6 +481,14 @@
       "onboard_time": 1693956990,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 569494,
+      "num": 500294,
+      "word": "久哲回应Hero取关",
+      "onboard_time": 1693991617,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 543364,
@@ -579,6 +587,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 485762,
+      "num": 221190,
+      "word": "九尾 高铁没赶上",
+      "onboard_time": 1693992277,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 476725,
       "num": 319538,
       "word": "月薪多少你才会有安全感",
@@ -601,6 +617,14 @@
       "onboard_time": 1693987653,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453411,
+      "num": 560947,
+      "word": "知网运营的14款APP存在违法行为",
+      "onboard_time": 1693991195,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451003,
@@ -755,6 +779,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 358087,
+      "num": 358087,
+      "word": "密室大逃脱全员感谢NPC",
+      "onboard_time": 1693989574,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356769,
       "num": 221713,
       "word": "掌掴争执占座大爷的小伙已被找到",
@@ -809,22 +841,6 @@
       "onboard_time": 1693980633,
       "rank": 34,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 344237,
-      "num": 560947,
-      "word": "知网运营的14款APP存在违法行为",
-      "onboard_time": 1693991195,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339150,
-      "num": 339150,
-      "word": "密室大逃脱全员感谢NPC",
-      "onboard_time": 1693989574,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 331048,
@@ -883,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309346,
+      "num": 301366,
+      "word": "职场讨坏型人格",
+      "onboard_time": 1693990775,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 308148,
       "num": 308148,
       "word": "毕雯珺姜珮瑶吻戏好欲",
@@ -931,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291956,
+      "num": 495161,
+      "word": "西安成功救治早产镜面宝宝",
+      "onboard_time": 1693991434,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290547,
       "num": 290547,
       "word": "大奉打更人",
@@ -971,14 +1003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280743,
-      "num": 280743,
-      "word": "久哲回应Hero取关",
-      "onboard_time": 1693991617,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 278897,
       "num": 278897,
       "word": "白百何是简冰造型师",
@@ -995,20 +1019,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277783,
+      "num": 277783,
+      "word": "有些事过了25岁就懂了",
+      "onboard_time": 1693989935,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274347,
       "num": 239704,
       "word": "听说右手中指戴戒指招财",
       "onboard_time": 1693922023,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 268479,
-      "num": 268479,
-      "word": "有些事过了25岁就懂了",
-      "onboard_time": 1693989935,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263400,
@@ -1083,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242612,
+      "num": 242612,
+      "word": "男子造谣五月天嘉宾是王俊凯被抓",
+      "onboard_time": 1693992336,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 241935,
       "num": 241935,
       "word": "财神节",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1693987296,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234645,
+      "num": 219607,
+      "word": "知网回应网信办处罚决定",
+      "onboard_time": 1693992455,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234598,
@@ -1195,12 +1235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222528,
-      "num": 222528,
-      "word": "职场讨坏型人格",
-      "onboard_time": 1693990775,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 223842,
+      "num": 223842,
+      "word": "林高远王艺迪混双晋级四强",
+      "onboard_time": 1693991797,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 221875,
@@ -1499,6 +1539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 176212,
+      "num": 176212,
+      "word": "夜色尚浅",
+      "onboard_time": 1693992400,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175600,
       "num": 175600,
       "word": "四川70岁父亲将儿子背进大学",
@@ -1571,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165201,
-      "num": 165201,
-      "word": "西安成功救治早产镜面宝宝",
-      "onboard_time": 1693991434,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162469,
       "num": 165541,
       "word": "杨紫麦承欢营业照",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1693971157,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160083,
+      "num": 160083,
+      "word": "Lisa更新",
+      "onboard_time": 1693992815,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 158488,
@@ -1689,14 +1737,6 @@
       "onboard_time": 1693913195,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138958,
-      "num": 138958,
-      "word": "林高远王艺迪混双晋级四强",
-      "onboard_time": 1693991797,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 138436,
@@ -1867,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94066,
+      "num": 543006,
+      "word": "不经意的捕捉比摆拍更动人",
+      "onboard_time": 1693990834,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90865,
       "num": 90865,
       "word": "是母亲也是可以被爱的女孩",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1693916920,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69260,
-      "num": 543006,
-      "word": "不经意的捕捉比摆拍更动人",
-      "onboard_time": 1693990834,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 63987,
