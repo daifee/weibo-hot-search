@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1693985650043,
+  "endTime": 1693988488177,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2065404,
+      "num": 2065404,
+      "word": "灵隐寺出奶茶了",
+      "onboard_time": 1693984172,
+      "rank": 17,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 2061807,
       "num": 1254294,
       "word": "妈妈被家暴女儿留下的纸条让人泪目",
@@ -689,6 +697,14 @@
       "onboard_time": 1693835620,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1834998,
+      "num": 1834998,
+      "word": "周渝民夫妻被诈骗保险金案宣判",
+      "onboard_time": 1693986513,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1825898,
@@ -1155,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1376210,
+      "num": 1376210,
+      "word": "地铁判官已赔礼道歉",
+      "onboard_time": 1693986033,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1359114,
       "num": 1359114,
       "word": "特斯拉Model3",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1693975418,
       "rank": 10,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1039042,
-      "num": 1039042,
-      "word": "灵隐寺出奶茶了",
-      "onboard_time": 1693984172,
-      "rank": 17,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1036699,
@@ -2691,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751537,
+      "num": 751537,
+      "word": "沈阳宣布在校大学生买房每平米补贴200元",
+      "onboard_time": 1693986213,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 751367,
       "num": 751367,
       "word": "8岁女孩去世捐遗体开学第1天成大体老师",
@@ -3163,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679867,
+      "num": 324934,
+      "word": "谁在考公可以进来学申论",
+      "onboard_time": 1693986757,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 679778,
       "num": 257783,
       "word": "刘亦菲彭冠英吻戏",
@@ -3193,6 +3225,14 @@
       "onboard_time": 1693663967,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 675398,
+      "num": 320439,
+      "word": "小玉壶的自拍",
+      "onboard_time": 1693984114,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 674516,
@@ -4803,14 +4843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 497479,
-      "num": 306059,
-      "word": "小玉壶的自拍",
-      "onboard_time": 1693984114,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 495045,
       "num": 495045,
       "word": "梁朝伟刘嘉玲李安胡歌威尼斯相见",
@@ -5193,6 +5225,14 @@
       "onboard_time": 1693980935,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 463975,
+      "num": 253997,
+      "word": "杨丽萍新舞再被批尺度大",
+      "onboard_time": 1693987538,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 463407,
@@ -6187,6 +6227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386741,
+      "num": 252775,
+      "word": "檀健次莫青成",
+      "onboard_time": 1693987774,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385351,
       "num": 385351,
       "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
@@ -6963,6 +7011,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 338783,
+      "num": 255437,
+      "word": "云为衫从来不用苹果手机因为她不i锋",
+      "onboard_time": 1693987653,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338574,
       "num": 338574,
       "word": "这部剧的受众到底是谁",
@@ -7667,6 +7723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300133,
+      "num": 300133,
+      "word": "当一碗熊猫突然滚落一地",
+      "onboard_time": 1693983273,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299917,
       "num": 299917,
       "word": "云之羽小时代5海报",
@@ -7801,6 +7865,14 @@
       "onboard_time": 1693576839,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293823,
+      "num": 254991,
+      "word": "毕雯珺姜珮瑶吻戏好欲",
+      "onboard_time": 1693985914,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 292377,
@@ -7976,14 +8048,6 @@
       "word": "弟弟想念住校姐姐半夜哭成泪人",
       "onboard_time": 1693710454,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284974,
-      "num": 284974,
-      "word": "当一碗熊猫突然滚落一地",
-      "onboard_time": 1693983273,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -8609,6 +8673,14 @@
       "onboard_time": 1693467639,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259512,
+      "num": 213237,
+      "word": "野球帝洋妈回应",
+      "onboard_time": 1693987834,
+      "rank": 30,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 259357,
@@ -9361,6 +9433,14 @@
       "onboard_time": 1693784855,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237070,
+      "num": 237070,
+      "word": "孟子义西出玉门演疯批恶女",
+      "onboard_time": 1693987296,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 236871,
@@ -10249,6 +10329,14 @@
       "onboard_time": 1693524208,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209400,
+      "num": 209400,
+      "word": "SVTstraykids将出演TMA",
+      "onboard_time": 1693986095,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 209366,
@@ -11209,6 +11297,14 @@
       "onboard_time": 1693819778,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194585,
+      "num": 194585,
+      "word": "D社你人还怪好的嘞",
+      "onboard_time": 1693987961,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 194167,
@@ -12939,6 +13035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150978,
+      "num": 150978,
+      "word": "吴世勋聚光杂志金九封面",
+      "onboard_time": 1693985973,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 150901,
       "num": 150901,
       "word": "秋天的第一张骄阳",
@@ -13209,6 +13313,14 @@
       "onboard_time": 1693842994,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141610,
+      "num": 141610,
+      "word": "Hero取关久哲",
+      "onboard_time": 1693988376,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 141531,
@@ -13539,6 +13651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124520,
+      "num": 124520,
+      "word": "胖子印度朋友总结奥本海默",
+      "onboard_time": 1693986033,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124379,
       "num": 124379,
       "word": "他和她的猫开播",
@@ -13609,6 +13729,14 @@
       "onboard_time": 1693649254,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118913,
+      "num": 118913,
+      "word": "明日方舟 涤火杰西卡漫画",
+      "onboard_time": 1693988376,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 118545,
@@ -14339,6 +14467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58716,
+      "num": 257198,
+      "word": "两只羚羊用身体搭梯帮同伴越过阻碍",
+      "onboard_time": 1693987234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58083,
       "num": 396286,
       "word": "消防车出警路遇求助秒变救护车",
@@ -14628,7 +14764,7 @@
     },
     {
       "raw_hot": 39539,
-      "num": 1189742,
+      "num": 1404928,
       "word": "沉浸式体验服贸会上的科幻互动",
       "onboard_time": 1693975661,
       "rank": 2,

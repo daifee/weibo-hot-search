@@ -1,0 +1,410 @@
+{
+  "runTime": 1693988488177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2065404,
+        "num": 2065404,
+        "word": "灵隐寺出奶茶了",
+        "onboard_time": 1693984172,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1834998,
+        "num": 1834998,
+        "word": "周渝民夫妻被诈骗保险金案宣判",
+        "onboard_time": 1693986513,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36124,
+        "num": 1404928,
+        "word": "沉浸式体验服贸会上的科幻互动",
+        "onboard_time": 1693975661,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1376210,
+        "num": 1376210,
+        "word": "地铁判官已赔礼道歉",
+        "onboard_time": 1693986033,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792325,
+        "num": 792325,
+        "word": "张碧晨一周六天都在普拉提",
+        "onboard_time": 1693981116,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 761742,
+        "num": 761742,
+        "word": "戴向宇在垃圾桶捡剩饭吃",
+        "onboard_time": 1693983574,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751537,
+        "num": 751537,
+        "word": "沈阳宣布在校大学生买房每平米补贴200元",
+        "onboard_time": 1693986213,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 427664,
+        "num": 427664,
+        "word": "虞书欣张凌赫来演云之羽的原因一模一样",
+        "onboard_time": 1693977457,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422552,
+        "num": 422552,
+        "word": "地铁判官找到了",
+        "onboard_time": 1693930831,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330107,
+        "num": 330107,
+        "word": "傅首尔和老刘",
+        "onboard_time": 1693980094,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679867,
+        "num": 324934,
+        "word": "谁在考公可以进来学申论",
+        "onboard_time": 1693986757,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 675398,
+        "num": 320439,
+        "word": "小玉壶的自拍",
+        "onboard_time": 1693984114,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300133,
+        "num": 300133,
+        "word": "当一碗熊猫突然滚落一地",
+        "onboard_time": 1693983273,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257303,
+        "num": 257303,
+        "word": "华为新型5G芯片是否突破卡脖子问题",
+        "onboard_time": 1693973738,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 58716,
+        "num": 257198,
+        "word": "两只羚羊用身体搭梯帮同伴越过阻碍",
+        "onboard_time": 1693987234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453990,
+        "num": 256342,
+        "word": "女主播户外涉黄直播当场被抓",
+        "onboard_time": 1693965394,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350662,
+        "num": 255940,
+        "word": "为什么二手房卖不动了价格却还坚挺",
+        "onboard_time": 1693975418,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 338783,
+        "num": 255437,
+        "word": "云为衫从来不用苹果手机因为她不i锋",
+        "onboard_time": 1693987653,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293823,
+        "num": 254991,
+        "word": "毕雯珺姜珮瑶吻戏好欲",
+        "onboard_time": 1693985914,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254644,
+        "num": 254644,
+        "word": "黄奕时隔23年再扮李玉湖",
+        "onboard_time": 1693977098,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463975,
+        "num": 253997,
+        "word": "杨丽萍新舞再被批尺度大",
+        "onboard_time": 1693987538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386741,
+        "num": 252775,
+        "word": "檀健次莫青成",
+        "onboard_time": 1693987774,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339310,
+        "num": 251955,
+        "word": "3000万元茅台只够卖1.5天咖啡",
+        "onboard_time": 1693974459,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 316463,
+        "num": 250840,
+        "word": "iPhone15四款机型相机曝光",
+        "onboard_time": 1693970974,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257167,
+        "num": 250019,
+        "word": "爱奇艺9月片单来了",
+        "onboard_time": 1693983093,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249466,
+        "num": 249466,
+        "word": "教一年级学生的老师都太伟大了",
+        "onboard_time": 1693983273,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237070,
+        "num": 237070,
+        "word": "孟子义西出玉门演疯批恶女",
+        "onboard_time": 1693987296,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221432,
+        "num": 221432,
+        "word": "地铁被打大爷与小伙已和解",
+        "onboard_time": 1693978833,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214726,
+        "num": 214726,
+        "word": "内江地震",
+        "onboard_time": 1693982493,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214172,
+        "num": 214172,
+        "word": "野球帝公告",
+        "onboard_time": 1693973197,
+        "rank": 29,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 259512,
+        "num": 213237,
+        "word": "野球帝洋妈回应",
+        "onboard_time": 1693987834,
+        "rank": 30,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 209400,
+        "num": 209400,
+        "word": "SVTstraykids将出演TMA",
+        "onboard_time": 1693986095,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206514,
+        "num": 206514,
+        "word": "白百何是简冰造型师",
+        "onboard_time": 1693984834,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194585,
+        "num": 194585,
+        "word": "D社你人还怪好的嘞",
+        "onboard_time": 1693987961,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179267,
+        "num": 179267,
+        "word": "7对女儿女婿和2个儿子为父亲庆生",
+        "onboard_time": 1693980633,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 177687,
+        "num": 177687,
+        "word": "新手爸爸将14天婴儿装塑料袋称重",
+        "onboard_time": 1693974278,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174664,
+        "num": 174664,
+        "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
+        "onboard_time": 1693981116,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165666,
+        "num": 165666,
+        "word": "倪妮孟子义新剧对手戏",
+        "onboard_time": 1693984293,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153443,
+        "num": 153443,
+        "word": "此沙出道首封",
+        "onboard_time": 1693984716,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151536,
+        "num": 151536,
+        "word": "酱香拿铁在泰国火了",
+        "onboard_time": 1693969295,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150978,
+        "num": 150978,
+        "word": "吴世勋聚光杂志金九封面",
+        "onboard_time": 1693985973,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148713,
+        "num": 148713,
+        "word": "月薪多少你才会有安全感",
+        "onboard_time": 1693974940,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143910,
+        "num": 143910,
+        "word": "我都是追星女了",
+        "onboard_time": 1693977397,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 142482,
+        "num": 142482,
+        "word": "五条悟获胜",
+        "onboard_time": 1693982433,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 141610,
+        "word": "Hero取关久哲",
+        "onboard_time": 1693988376,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137208,
+        "num": 137208,
+        "word": "福州2名牺牲消防员身份已确认",
+        "onboard_time": 1693978653,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132931,
+        "num": 132931,
+        "word": "包上恩 开拍之前也有认真漱口",
+        "onboard_time": 1693980935,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129430,
+        "num": 129430,
+        "word": "大爷地铁与人争吵遭陌生男子打耳光",
+        "onboard_time": 1693967734,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 124520,
+        "word": "胖子印度朋友总结奥本海默",
+        "onboard_time": 1693986033,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118913,
+        "num": 118913,
+        "word": "明日方舟 涤火杰西卡漫画",
+        "onboard_time": 1693988376,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以开放合作共享服务贸易发展机遇#"
+    }
+  }
+}
