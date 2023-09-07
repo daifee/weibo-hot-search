@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694064844886,
+  "endTime": 1694067680085,
   "band_list": [
     {
       "raw_hot": 2676591,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032379,
+      "num": 337533,
+      "word": "网传洛阳理工发生命案",
+      "onboard_time": 1694064938,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978243,
       "num": 515455,
       "word": "黄子韬出品徐艺洋新剧",
@@ -169,6 +177,14 @@
       "onboard_time": 1694051732,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758322,
+      "num": 320921,
+      "word": "科学家称50年前美国或杀死了外星生命",
+      "onboard_time": 1694064219,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 758241,
@@ -267,6 +283,14 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 598442,
+      "num": 236960,
+      "word": "三年了吴昕的一字马还没丢",
+      "onboard_time": 1694067035,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593781,
       "num": 593781,
       "word": "450万是很大一笔钱了",
@@ -289,6 +313,14 @@
       "onboard_time": 1694047476,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 577379,
+      "num": 315179,
+      "word": "用苹果备忘录做电子衣橱",
+      "onboard_time": 1694066316,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 564853,
@@ -451,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457044,
+      "num": 324941,
+      "word": "超6成网友认为劣迹艺人的历史作品能收看",
+      "onboard_time": 1694062662,
+      "rank": 24,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 454634,
       "num": 454634,
       "word": "将地铁判官捧成榜样是在粉饰暴力",
@@ -473,6 +513,14 @@
       "onboard_time": 1694059836,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 446315,
+      "num": 446315,
+      "word": "长沙一小学男教师打伤学生头骨",
+      "onboard_time": 1694062060,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 433827,
@@ -531,14 +579,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 409220,
-      "num": 409220,
-      "word": "长沙一小学男教师打伤学生头骨",
-      "onboard_time": 1694062060,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 407492,
       "num": 407492,
       "word": "福州一车主将爱车装入塑料袋防水",
@@ -561,14 +601,6 @@
       "onboard_time": 1694054494,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 374058,
-      "num": 324941,
-      "word": "超6成网友认为劣迹艺人的历史作品能收看",
-      "onboard_time": 1694062662,
-      "rank": 24,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 372467,
@@ -617,6 +649,14 @@
       "onboard_time": 1694009317,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339448,
+      "num": 339448,
+      "word": "云台山音乐节取消",
+      "onboard_time": 1694066136,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 337472,
@@ -835,20 +875,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264258,
-      "num": 264258,
-      "word": "科学家称50年前美国或杀死了外星生命",
-      "onboard_time": 1694064219,
-      "rank": 30,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 261996,
       "num": 261996,
       "word": "杨幂穿旗袍好美",
       "onboard_time": 1694013157,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 261534,
+      "num": 261534,
+      "word": "莫小贝女孩子的本真个性",
+      "onboard_time": 1694065357,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254940,
@@ -939,6 +979,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 233131,
+      "num": 233131,
+      "word": "云为衫的项链",
+      "onboard_time": 1694066559,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225680,
       "num": 225680,
       "word": "前任带走的狗自己找回来了",
@@ -1003,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204676,
+      "num": 204676,
+      "word": "东山纪之继任杰尼斯社长",
+      "onboard_time": 1694066738,
+      "rank": 29,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 202567,
       "num": 202567,
       "word": "我回到十七岁的理由播放量破亿",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1693994078,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194352,
+      "num": 194352,
+      "word": "这些体检指标暗示有病",
+      "onboard_time": 1694067275,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194209,
@@ -1179,6 +1243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166968,
+      "num": 166968,
+      "word": "DK的即兴part是不容易跟上的",
+      "onboard_time": 1694066373,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 163497,
+      "num": 163497,
+      "word": "48岁阿姨再高考考上大学学中医",
+      "onboard_time": 1694066373,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 163161,
       "num": 163161,
       "word": "梅西第16次入围金球奖",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1694015256,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153150,
+      "num": 378844,
+      "word": "女子执意转账柜员一眼识破关权限报警",
+      "onboard_time": 1694062901,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152215,
@@ -1267,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145374,
+      "num": 145374,
+      "word": "NCT日本队",
+      "onboard_time": 1694067455,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141069,
       "num": 141069,
       "word": "密室大逃脱大神版",
@@ -1297,14 +1393,6 @@
       "onboard_time": 1693998874,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135524,
-      "num": 378844,
-      "word": "女子执意转账柜员一眼识破关权限报警",
-      "onboard_time": 1694062901,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131123,
@@ -1417,6 +1505,14 @@
       "onboard_time": 1694039543,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77068,
+      "num": 293954,
+      "word": "外滩大会",
+      "onboard_time": 1694066435,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 65387,
