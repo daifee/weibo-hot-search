@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694067680085,
+  "endTime": 1694068485670,
   "band_list": [
     {
       "raw_hot": 2676591,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 918963,
+      "num": 918963,
+      "word": "用苹果备忘录做电子衣橱",
+      "onboard_time": 1694066316,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 894286,
       "num": 638182,
       "word": "在韩国穿睡衣出门被嘲笑了",
@@ -171,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788674,
+      "num": 788674,
+      "word": "科学家称50年前美国或杀死了外星生命",
+      "onboard_time": 1694064219,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 770884,
       "num": 770884,
       "word": "女子穿汉服拍照被认作日本服饰驱赶",
       "onboard_time": 1694051732,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 758322,
-      "num": 320921,
-      "word": "科学家称50年前美国或杀死了外星生命",
-      "onboard_time": 1694064219,
-      "rank": 30,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 758241,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 598442,
-      "num": 236960,
+      "num": 245329,
       "word": "三年了吴昕的一字马还没丢",
       "onboard_time": 1694067035,
       "rank": 20,
@@ -313,14 +321,6 @@
       "onboard_time": 1694047476,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 577379,
-      "num": 315179,
-      "word": "用苹果备忘录做电子衣橱",
-      "onboard_time": 1694066316,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 564853,
@@ -411,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 505173,
+      "num": 328772,
+      "word": "超6成网友认为劣迹艺人的历史作品能收看",
+      "onboard_time": 1694062662,
+      "rank": 24,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 502841,
       "num": 502841,
       "word": "华为卡脖子问题解决了吗",
@@ -481,14 +489,6 @@
       "onboard_time": 1694043934,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 457044,
-      "num": 324941,
-      "word": "超6成网友认为劣迹艺人的历史作品能收看",
-      "onboard_time": 1694062662,
-      "rank": 24,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 454634,
@@ -619,6 +619,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 361265,
+      "num": 245290,
+      "word": "这些体检指标暗示有病",
+      "onboard_time": 1694067275,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360815,
       "num": 360815,
       "word": "25岁存款多少才算正常",
@@ -729,6 +737,14 @@
       "onboard_time": 1694044834,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 314187,
+      "num": 314187,
+      "word": "张馨予300颗钻石头饰造型",
+      "onboard_time": 1694068055,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 314064,
@@ -923,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244955,
+      "num": 244955,
+      "word": "曾黎5分钟给自己化全妆",
+      "onboard_time": 1694067757,
+      "rank": 22,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 244258,
       "num": 518023,
       "word": "儿子送妈妈上学反复叮嘱",
@@ -1003,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225043,
+      "num": 210372,
+      "word": "避孕套如何正确使用",
+      "onboard_time": 1694068233,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 219542,
       "num": 219542,
       "word": "西出玉门今晚开播",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1694061878,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209401,
+      "num": 209401,
+      "word": "NCT日本队",
+      "onboard_time": 1694067455,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 208265,
@@ -1083,6 +1123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 198702,
+      "num": 198702,
+      "word": "48岁阿姨再高考考上大学学中医",
+      "onboard_time": 1694066373,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 198461,
       "num": 198461,
       "word": "不愧是考公大省",
@@ -1107,20 +1155,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194352,
-      "num": 194352,
-      "word": "这些体检指标暗示有病",
-      "onboard_time": 1694067275,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194209,
       "num": 194209,
       "word": "张子枫VOGUE梦境实境大片",
       "onboard_time": 1694062363,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192304,
+      "num": 192304,
+      "word": "公安介入调查老师打碎学生头骨",
+      "onboard_time": 1694068176,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188895,
@@ -1251,14 +1299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 163497,
-      "num": 163497,
-      "word": "48岁阿姨再高考考上大学学中医",
-      "onboard_time": 1694066373,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 163161,
       "num": 163161,
       "word": "梅西第16次入围金球奖",
@@ -1355,12 +1395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145374,
-      "num": 145374,
-      "word": "NCT日本队",
-      "onboard_time": 1694067455,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 143604,
+      "num": 143604,
+      "word": "华为 天通卫星",
+      "onboard_time": 1694068476,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 141069,
@@ -1395,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134879,
+      "num": 134879,
+      "word": "大米里的虫子从哪里来",
+      "onboard_time": 1694068355,
+      "rank": 46,
+      "category": "自然,美食"
+    },
+    {
       "raw_hot": 131123,
       "num": 131123,
       "word": "Lisa更新",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1694036954,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121030,
+      "num": 298860,
+      "word": "外滩大会",
+      "onboard_time": 1694066435,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 116071,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1694039543,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77068,
-      "num": 293954,
-      "word": "外滩大会",
-      "onboard_time": 1694066435,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 65387,
