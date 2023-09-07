@@ -1,0 +1,410 @@
+{
+  "runTime": 1694104608472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651213,
+        "num": 1651213,
+        "word": "长期不吃晚餐真的会瘦吗",
+        "onboard_time": 1694099439,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 897330,
+        "num": 897330,
+        "word": "深圳泄洪",
+        "onboard_time": 1694104289,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13199,
+        "num": 893121,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 890094,
+        "num": 890094,
+        "word": "人民日报评肖战演技",
+        "onboard_time": 1694099980,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 755023,
+        "num": 755023,
+        "word": "广州暴雨",
+        "onboard_time": 1694101001,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734597,
+        "num": 734597,
+        "word": "内蒙古发生高压气体喷出事故致9死3伤",
+        "onboard_time": 1694099620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637081,
+        "num": 637081,
+        "word": "日本核污染水已排海6100吨",
+        "onboard_time": 1694098720,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509604,
+        "num": 509604,
+        "word": "檀健次直播穿了防风被",
+        "onboard_time": 1694098961,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494618,
+        "num": 494618,
+        "word": "原来只有晕车的人才闻得到异味",
+        "onboard_time": 1694099379,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 472776,
+        "num": 472776,
+        "word": "被困横店后我成了所有男主的白月光",
+        "onboard_time": 1694098601,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 887382,
+        "num": 472766,
+        "word": "深圳暴雨",
+        "onboard_time": 1694092057,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577742,
+        "num": 469414,
+        "word": "新郎和新娘不在一个图层",
+        "onboard_time": 1694099620,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 439538,
+        "num": 439538,
+        "word": "广州全市暴雨戒备状态",
+        "onboard_time": 1694101957,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374975,
+        "num": 374975,
+        "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
+        "onboard_time": 1694099980,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224575,
+        "num": 345851,
+        "word": "请人员车辆暂勿前往深圳龙岗中心城",
+        "onboard_time": 1694097699,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341267,
+        "num": 341267,
+        "word": "桂花壁纸 招财",
+        "onboard_time": 1694100637,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261583,
+        "num": 261583,
+        "word": "维密天使 众神回归",
+        "onboard_time": 1694083056,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 247245,
+        "num": 247245,
+        "word": "龙岗 内涝",
+        "onboard_time": 1694094878,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240929,
+        "num": 240929,
+        "word": "白露",
+        "onboard_time": 1694100340,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237801,
+        "num": 237801,
+        "word": "莲花楼",
+        "onboard_time": 1694099261,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337347,
+        "num": 235899,
+        "word": "龚俊二闹周杰伦演唱会",
+        "onboard_time": 1694101776,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303146,
+        "num": 235698,
+        "word": "房子给人特别干净舒服的感觉",
+        "onboard_time": 1694101538,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244308,
+        "num": 232670,
+        "word": "妈妈被家暴女儿冲出揪爸爸头发阻止",
+        "onboard_time": 1694098118,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244042,
+        "num": 230173,
+        "word": "儿子教便秘妈妈水龙头灌肠致肠穿孔",
+        "onboard_time": 1694089608,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230095,
+        "num": 230095,
+        "word": "七时吉祥",
+        "onboard_time": 1694100520,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217672,
+        "num": 217672,
+        "word": "深圳全市暴雨戒备状态",
+        "onboard_time": 1694098118,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208527,
+        "num": 208527,
+        "word": "公职人员被儿子举报出轨停职",
+        "onboard_time": 1694094462,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186741,
+        "num": 186741,
+        "word": "韩国娱乐公司内部食堂菜品",
+        "onboard_time": 1694086358,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183607,
+        "num": 183607,
+        "word": "男生开学来晚了意外被分到教师精装宿舍",
+        "onboard_time": 1694097582,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180220,
+        "num": 180220,
+        "word": "陈都灵西出玉门剧照",
+        "onboard_time": 1694085576,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319754,
+        "num": 178809,
+        "word": "洛阳一大学生杀害同学后跳楼自杀",
+        "onboard_time": 1694092598,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172364,
+        "num": 172364,
+        "word": "农行卡状态异常",
+        "onboard_time": 1694095779,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168998,
+        "num": 168998,
+        "word": "猫妈妈上门看望被领养的小猫咪",
+        "onboard_time": 1694099379,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168407,
+        "num": 168407,
+        "word": "浙江一村被曝出现上千条眼镜蛇",
+        "onboard_time": 1694082156,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165880,
+        "num": 165880,
+        "word": "年收入10万元以下个人基本不缴个税",
+        "onboard_time": 1694084080,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164963,
+        "num": 164963,
+        "word": "深圳水库",
+        "onboard_time": 1694104586,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163588,
+        "num": 163588,
+        "word": "倪妮把8块钱的围裙穿这么好看",
+        "onboard_time": 1694094219,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162787,
+        "num": 162787,
+        "word": "桂花",
+        "onboard_time": 1694100161,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 145848,
+        "num": 145848,
+        "word": "Somi和小娟challenge",
+        "onboard_time": 1694100761,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138319,
+        "num": 138319,
+        "word": "华为mate60和iPhone15选哪个",
+        "onboard_time": 1694076817,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134149,
+        "num": 134149,
+        "word": "为什么很多人买了车不开",
+        "onboard_time": 1694093919,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129942,
+        "num": 129942,
+        "word": "林志颖车祸后首露脸部伤疤",
+        "onboard_time": 1694073757,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129893,
+        "num": 129893,
+        "word": "檀健次李佳琦直播",
+        "onboard_time": 1694094637,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128315,
+        "num": 128315,
+        "word": "宫尚角角色魅力爆表的一段",
+        "onboard_time": 1694102255,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127759,
+        "num": 127759,
+        "word": "让领导认为你不堪重用的摆件",
+        "onboard_time": 1694094160,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126229,
+        "num": 126229,
+        "word": "丞磊卢昱晓共同见证云之羽破九千",
+        "onboard_time": 1694097520,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122385,
+        "num": 122385,
+        "word": "西出玉门",
+        "onboard_time": 1694087259,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126194,
+        "num": 121343,
+        "word": "虞书欣赐梦录制花絮vlog",
+        "onboard_time": 1694094938,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117953,
+        "num": 117953,
+        "word": "瑞幸将再向茅台采购飞天茅台酒",
+        "onboard_time": 1694086358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112618,
+        "num": 112618,
+        "word": "尾鱼 西出玉门",
+        "onboard_time": 1694097159,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民群众遇到困难国家全力支持#"
+    }
+  }
+}

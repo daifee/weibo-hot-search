@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694103654277,
+  "endTime": 1694104608472,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -1819,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 897330,
+      "num": 897330,
+      "word": "深圳泄洪",
+      "onboard_time": 1694104289,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894418,
       "num": 894418,
       "word": "福州暴雨",
@@ -2339,6 +2347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 755023,
+      "num": 755023,
+      "word": "广州暴雨",
+      "onboard_time": 1694101001,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754389,
       "num": 567314,
       "word": "倪妮好飒",
@@ -2584,14 +2600,6 @@
       "word": "女子修复双眼皮后竟然多个洞",
       "onboard_time": 1693720534,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707447,
-      "num": 707447,
-      "word": "广州暴雨",
-      "onboard_time": 1694101001,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -4907,6 +4915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439538,
+      "num": 439538,
+      "word": "广州全市暴雨戒备状态",
+      "onboard_time": 1694101957,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439143,
       "num": 439143,
       "word": "美依礼芽阴阳师主题曲",
@@ -5809,14 +5825,6 @@
       "onboard_time": 1694067757,
       "rank": 22,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 364258,
-      "num": 364258,
-      "word": "广州全市暴雨戒备状态",
-      "onboard_time": 1694101957,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362260,
@@ -6803,8 +6811,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302358,
-      "num": 198898,
+      "raw_hot": 303146,
+      "num": 235698,
       "word": "房子给人特别干净舒服的感觉",
       "onboard_time": 1694101538,
       "rank": 31,
@@ -11089,6 +11097,14 @@
       "onboard_time": 1693894894,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164963,
+      "num": 164963,
+      "word": "深圳水库",
+      "onboard_time": 1694104586,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164942,

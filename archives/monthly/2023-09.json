@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694103654277,
+  "endTime": 1694104608472,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -2627,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 897330,
+      "num": 897330,
+      "word": "深圳泄洪",
+      "onboard_time": 1694104289,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896732,
       "num": 896732,
       "word": "新疆三文鱼喜获丰收",
@@ -3339,6 +3347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 755023,
+      "num": 755023,
+      "word": "广州暴雨",
+      "onboard_time": 1694101001,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754389,
       "num": 567314,
       "word": "倪妮好飒",
@@ -3657,14 +3673,6 @@
       "onboard_time": 1693661562,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707447,
-      "num": 707447,
-      "word": "广州暴雨",
-      "onboard_time": 1694101001,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 706329,
@@ -6963,6 +6971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439538,
+      "num": 439538,
+      "word": "广州全市暴雨戒备状态",
+      "onboard_time": 1694101957,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439143,
       "num": 439143,
       "word": "美依礼芽阴阳师主题曲",
@@ -8355,14 +8371,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 364258,
-      "num": 364258,
-      "word": "广州全市暴雨戒备状态",
-      "onboard_time": 1694101957,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364205,
       "num": 993647,
       "word": "西安市第一医院两名医生被停职调查",
@@ -9699,20 +9707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303146,
+      "num": 235698,
+      "word": "房子给人特别干净舒服的感觉",
+      "onboard_time": 1694101538,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302739,
       "num": 302739,
       "word": "萌娃入园3天学做饭根本没时间哭",
       "onboard_time": 1693577080,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302358,
-      "num": 198898,
-      "word": "房子给人特别干净舒服的感觉",
-      "onboard_time": 1694101538,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 302346,
@@ -15713,6 +15721,14 @@
       "onboard_time": 1693894894,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164963,
+      "num": 164963,
+      "word": "深圳水库",
+      "onboard_time": 1694104586,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164942,
