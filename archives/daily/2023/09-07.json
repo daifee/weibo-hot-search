@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694070945473,
+  "endTime": 1694072055750,
   "band_list": [
     {
       "raw_hot": 2676591,
@@ -35,20 +35,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2319885,
+      "num": 464632,
+      "word": "避孕套如何正确使用",
+      "onboard_time": 1694068233,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 2308374,
       "num": 2308374,
       "word": "瑞幸为什么不直接倒茅台酒",
       "onboard_time": 1694047118,
       "rank": 10,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 2092437,
-      "num": 363650,
-      "word": "避孕套如何正确使用",
-      "onboard_time": 1694068233,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 1746169,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1545270,
-      "num": 763422,
+      "num": 813205,
       "word": "张馨予300颗钻石头饰造型",
       "onboard_time": 1694068055,
       "rank": 13,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1240480,
+      "num": 1240480,
+      "word": "公安介入调查老师打碎学生头骨",
+      "onboard_time": 1694068176,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138075,
       "num": 1138075,
       "word": "真的讨厌二三十块叫一杯奶茶钱",
@@ -113,14 +121,6 @@
       "onboard_time": 1694060858,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1105423,
-      "num": 1105423,
-      "word": "公安介入调查老师打碎学生头骨",
-      "onboard_time": 1694068176,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1095533,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 950031,
+      "num": 950031,
+      "word": "胡锡进持仓近50万元",
+      "onboard_time": 1694070156,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 894286,
       "num": 638182,
       "word": "在韩国穿睡衣出门被嘲笑了",
@@ -169,6 +177,14 @@
       "onboard_time": 1694047540,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 846203,
+      "num": 458947,
+      "word": "男子抢注学籍致6岁儿子无法入学",
+      "onboard_time": 1694070213,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 820400,
@@ -243,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722516,
-      "num": 722516,
-      "word": "胡锡进持仓近50万元",
-      "onboard_time": 1694070156,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 696592,
       "num": 389495,
       "word": "杨紫 不要自卑要自信",
@@ -265,6 +273,14 @@
       "onboard_time": 1694045737,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 660290,
+      "num": 660290,
+      "word": "被男老师打破头骨女生父亲发声",
+      "onboard_time": 1694070033,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 655071,
@@ -363,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 563549,
+      "num": 563549,
+      "word": "大米里的虫子从哪里来",
+      "onboard_time": 1694068355,
+      "rank": 46,
+      "category": "自然,美食"
+    },
+    {
       "raw_hot": 560316,
       "num": 327670,
       "word": "假性亲密关系",
@@ -403,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 545816,
-      "num": 545816,
-      "word": "大米里的虫子从哪里来",
-      "onboard_time": 1694068355,
-      "rank": 46,
-      "category": "自然,美食"
-    },
-    {
       "raw_hot": 545245,
       "num": 315531,
       "word": "男朋友嗦完后的鸡爪子",
@@ -443,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 523619,
+      "num": 523619,
+      "word": "角徵浅 狐狸精",
+      "onboard_time": 1694070994,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517046,
       "num": 517046,
       "word": "赵丽颖时装男士九月封面",
@@ -457,6 +481,14 @@
       "onboard_time": 1694062662,
       "rank": 24,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 503444,
+      "num": 503444,
+      "word": "一念关山",
+      "onboard_time": 1694070634,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 502841,
@@ -651,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382566,
-      "num": 189622,
-      "word": "男子抢注学籍致6岁儿子无法入学",
-      "onboard_time": 1694070213,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 372467,
       "num": 372467,
       "word": "27年有望实现尿液宫颈癌HPV筛查",
@@ -673,6 +697,14 @@
       "onboard_time": 1694058634,
       "rank": 18,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 364293,
+      "num": 364293,
+      "word": "曾黎5分钟给自己化全妆",
+      "onboard_time": 1694067757,
+      "rank": 22,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 361265,
@@ -697,14 +729,6 @@
       "onboard_time": 1694064159,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 349178,
-      "num": 349178,
-      "word": "被男老师打破头骨女生父亲发声",
-      "onboard_time": 1694070033,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 345151,
@@ -801,14 +825,6 @@
       "onboard_time": 1694044834,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316536,
-      "num": 316536,
-      "word": "曾黎5分钟给自己化全妆",
-      "onboard_time": 1694067757,
-      "rank": 22,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 314064,
@@ -913,6 +929,22 @@
       "onboard_time": 1694049455,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285556,
+      "num": 285556,
+      "word": "张碧晨最喜欢迪丽热巴倪妮的红毯",
+      "onboard_time": 1694071535,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 283380,
+      "num": 283380,
+      "word": "成毅 快说你是不是被渣爹附体了",
+      "onboard_time": 1694071535,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 282642,
@@ -1059,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234827,
+      "num": 206133,
+      "word": "对方撤回了一根薯条",
+      "onboard_time": 1694071233,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234062,
       "num": 234062,
       "word": "辅导员建议考研能不吃的苦别吃",
@@ -1096,6 +1136,14 @@
       "word": "西出玉门今晚开播",
       "onboard_time": 1694060919,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219204,
+      "num": 219204,
+      "word": "张艺谋现身坚如磐石发布会",
+      "onboard_time": 1694070514,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1147,12 +1195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204997,
-      "num": 204997,
-      "word": "张艺谋现身坚如磐石发布会",
-      "onboard_time": 1694070514,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 206616,
+      "num": 206616,
+      "word": "肖战再做客央视专访",
+      "onboard_time": 1694071535,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204676,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1694066738,
       "rank": 29,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 204297,
+      "num": 204297,
+      "word": "女儿出嫁现场和爸爸同台跳舞",
+      "onboard_time": 1694070695,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203529,
@@ -1209,14 +1265,6 @@
       "onboard_time": 1693996959,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 198354,
-      "num": 198354,
-      "word": "一念关山",
-      "onboard_time": 1694070634,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 197335,
@@ -1371,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165281,
+      "num": 454065,
+      "word": "34名公交司机每天为他多等一分钟",
+      "onboard_time": 1694070033,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163161,
       "num": 163161,
       "word": "梅西第16次入围金球奖",
@@ -1379,20 +1435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160930,
-      "num": 160930,
-      "word": "女儿出嫁现场和爸爸同台跳舞",
-      "onboard_time": 1694070695,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159994,
       "num": 159994,
       "word": "宫商角上官浅的纯爱战歌",
       "onboard_time": 1694052873,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159092,
+      "num": 159092,
+      "word": "陈赫说如果采耳采出很多请帮藏一藏",
+      "onboard_time": 1694070874,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 158603,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1694017469,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157700,
+      "num": 157700,
+      "word": "倪妮希腊梦神",
+      "onboard_time": 1694071115,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157656,
@@ -1475,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148448,
+      "num": 458125,
+      "word": "原来这就是流光溢彩的白",
+      "onboard_time": 1694069374,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147332,
       "num": 147332,
       "word": "i人当司机真是为难他了",
@@ -1531,14 +1603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131774,
-      "num": 131774,
-      "word": "陈赫说如果采耳采出很多请帮藏一藏",
-      "onboard_time": 1694070874,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131123,
       "num": 131123,
       "word": "Lisa更新",
@@ -1555,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126897,
-      "num": 354706,
-      "word": "原来这就是流光溢彩的白",
-      "onboard_time": 1694069374,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121030,
       "num": 298860,
       "word": "外滩大会",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1694033713,
       "rank": 10,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 115475,
+      "num": 115475,
+      "word": "大熊猫现在流行拿孔雀毛当时尚单品了",
+      "onboard_time": 1694071955,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104523,
@@ -1665,14 +1729,6 @@
       "onboard_time": 1694039543,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80543,
-      "num": 353712,
-      "word": "34名公交司机每天为他多等一分钟",
-      "onboard_time": 1694070033,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65387,
