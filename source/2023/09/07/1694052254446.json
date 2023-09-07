@@ -1,0 +1,410 @@
+{
+  "runTime": 1694052254446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2300785,
+        "num": 2300785,
+        "word": "瑞幸为什么不直接倒茅台酒",
+        "onboard_time": 1694047118,
+        "rank": 0,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 1324517,
+        "num": 1324517,
+        "word": "考研和考编同时上岸选哪个",
+        "onboard_time": 1694043869,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 61647,
+        "num": 1048969,
+        "word": "原来航天员在太空是这样练腿的",
+        "onboard_time": 1694002356,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993682,
+        "num": 993682,
+        "word": "父母坚持每周给女儿拍一张照片",
+        "onboard_time": 1694047837,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879399,
+        "num": 879399,
+        "word": "iPhone信号太差或将解决",
+        "onboard_time": 1694049097,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 872749,
+        "num": 872749,
+        "word": "河南拿快递失踪女孩遗体被找到",
+        "onboard_time": 1694042849,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808633,
+        "num": 808633,
+        "word": "杨丽萍回应舞蹈大尺度设置",
+        "onboard_time": 1694047780,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734239,
+        "num": 734239,
+        "word": "肖战向涵之新剧一鸽还一鸽",
+        "onboard_time": 1694047540,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726659,
+        "num": 726659,
+        "word": "四川工商学院通报公开播放劣迹艺人视频",
+        "onboard_time": 1694051253,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533710,
+        "num": 533710,
+        "word": "女生去中医馆买酸梅汤被医师教育",
+        "onboard_time": 1694041646,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515455,
+        "num": 515455,
+        "word": "黄子韬出品徐艺洋新剧",
+        "onboard_time": 1694044834,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454634,
+        "num": 454634,
+        "word": "将地铁判官捧成榜样是在粉饰暴力",
+        "onboard_time": 1694050113,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381948,
+        "num": 381948,
+        "word": "预制菜进校园",
+        "onboard_time": 1694045556,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 269988,
+        "num": 327097,
+        "word": "小学生捡10万个空瓶卖了献爱心",
+        "onboard_time": 1694043451,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 231027,
+        "num": 326078,
+        "word": "天津大爷们宣布退出狮子林桥跳水",
+        "onboard_time": 1694019863,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325696,
+        "num": 325696,
+        "word": "手机自动转账女子冲进派出所",
+        "onboard_time": 1694041587,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325477,
+        "num": 325477,
+        "word": "女子穿汉服拍照被认作日本服饰驱赶",
+        "onboard_time": 1694051732,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322113,
+        "num": 322113,
+        "word": "C罗说和梅西的竞争结束了",
+        "onboard_time": 1694045315,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302632,
+        "num": 302632,
+        "word": "云之羽热度破爱奇艺24集剧集记录",
+        "onboard_time": 1694044352,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243272,
+        "num": 302482,
+        "word": "在韩国穿睡衣出门被嘲笑了",
+        "onboard_time": 1694010699,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 639860,
+        "num": 299276,
+        "word": "正在消失又很难买到的水果",
+        "onboard_time": 1694046757,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 449020,
+        "num": 293760,
+        "word": "假性亲密关系",
+        "onboard_time": 1694046035,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408666,
+        "num": 292885,
+        "word": "考上了离家9分钟路程的单位",
+        "onboard_time": 1694047476,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393772,
+        "num": 287372,
+        "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
+        "onboard_time": 1694011836,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383773,
+        "num": 284724,
+        "word": "苹果市值一夜蒸发1062亿美元",
+        "onboard_time": 1694046698,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 320472,
+        "num": 283505,
+        "word": "成毅 人生嘛睡一觉就好了",
+        "onboard_time": 1694045495,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319775,
+        "num": 280315,
+        "word": "iPad的生产力比你想象的要大",
+        "onboard_time": 1694045737,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 303574,
+        "num": 275081,
+        "word": "金毛假装不经意地舔了宝宝一口",
+        "onboard_time": 1694047540,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274653,
+        "num": 274653,
+        "word": "男朋友嗦完后的鸡爪子",
+        "onboard_time": 1694045075,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264648,
+        "num": 264648,
+        "word": "猫猫胖的进不去窝窝了",
+        "onboard_time": 1694050291,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249342,
+        "num": 249342,
+        "word": "为什么不能抠肚脐眼",
+        "onboard_time": 1694041766,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239409,
+        "num": 239409,
+        "word": "家里有必要安装蹲厕吗",
+        "onboard_time": 1694049455,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229867,
+        "num": 229867,
+        "word": "酒店最喜欢嘉哥这样的顾客",
+        "onboard_time": 1694049455,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226337,
+        "num": 226337,
+        "word": "真的讨厌二三十块叫一杯奶茶钱",
+        "onboard_time": 1694002896,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217766,
+        "num": 217766,
+        "word": "熊猫生气什么样",
+        "onboard_time": 1694049516,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215764,
+        "num": 215764,
+        "word": "福州一车主将爱车装入塑料袋防水",
+        "onboard_time": 1694044293,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207265,
+        "num": 207265,
+        "word": "曾舜晞竟然提前上线了",
+        "onboard_time": 1694042849,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201775,
+        "num": 201775,
+        "word": "代号鸢",
+        "onboard_time": 1694044834,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200382,
+        "num": 200382,
+        "word": "高校回应迎新晚会播涉劣迹艺人视频",
+        "onboard_time": 1694051131,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 197351,
+        "num": 197351,
+        "word": "怎么有人长得又老又年轻",
+        "onboard_time": 1694046398,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190729,
+        "num": 190729,
+        "word": "第一次见这么肥的乌龟",
+        "onboard_time": 1694045916,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176093,
+        "num": 176093,
+        "word": "EXO 安踏",
+        "onboard_time": 1694008598,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172691,
+        "num": 172691,
+        "word": "伍佰演唱会开场前门票3排变11排",
+        "onboard_time": 1694043990,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154014,
+        "num": 154014,
+        "word": "文俊辉 茅台咖啡真那么好喝吗",
+        "onboard_time": 1694010759,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150252,
+        "num": 150252,
+        "word": "男子驾车撞丈母娘店铺致1岁儿子死亡",
+        "onboard_time": 1694010879,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139954,
+        "num": 139954,
+        "word": "杨幂穿旗袍好美",
+        "onboard_time": 1694013157,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139507,
+        "num": 139507,
+        "word": "开个学做了13遍自我介绍",
+        "onboard_time": 1694043934,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137638,
+        "num": 137638,
+        "word": "减脂事半功倍的三件事",
+        "onboard_time": 1694016752,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134651,
+        "num": 134651,
+        "word": "iPhone15国行售价曝光",
+        "onboard_time": 1693993657,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133659,
+        "num": 133659,
+        "word": "一只撞在玻璃上撞晕的隼",
+        "onboard_time": 1694049455,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#人道主义是能够凝聚不同文明的最大共识#"
+    }
+  }
+}
