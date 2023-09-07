@@ -1,7 +1,39 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694043226457,
+  "endTime": 1694049034552,
   "band_list": [
+    {
+      "raw_hot": 2363682,
+      "num": 2363682,
+      "word": "考研和考编同时上岸选哪个",
+      "onboard_time": 1694043869,
+      "rank": 0,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1895587,
+      "num": 451605,
+      "word": "瑞幸为什么不直接倒茅台酒",
+      "onboard_time": 1694047118,
+      "rank": 10,
+      "category": "财经,美食"
+    },
+    {
+      "raw_hot": 1746169,
+      "num": 1746169,
+      "word": "河南拿快递失踪女孩遗体被找到",
+      "onboard_time": 1694042849,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1246285,
+      "num": 1246285,
+      "word": "女生去中医馆买酸梅汤被医师教育",
+      "onboard_time": 1694041646,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1138075,
       "num": 1138075,
@@ -11,12 +43,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 903047,
-      "num": 266798,
-      "word": "女生去中医馆买酸梅汤被医师教育",
-      "onboard_time": 1694041646,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 978243,
+      "num": 451064,
+      "word": "黄子韬出品徐艺洋新剧",
+      "onboard_time": 1694044834,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 894286,
@@ -25,6 +57,14 @@
       "onboard_time": 1694010699,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 875694,
+      "num": 875694,
+      "word": "肖战向涵之新剧一鸽还一鸽",
+      "onboard_time": 1694047540,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 820400,
@@ -36,11 +76,19 @@
     },
     {
       "raw_hot": 791852,
-      "num": 280856,
+      "num": 315476,
       "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
       "onboard_time": 1694011836,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755593,
+      "num": 317060,
+      "word": "正在消失又很难买到的水果",
+      "onboard_time": 1694046757,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 724327,
@@ -49,6 +97,22 @@
       "onboard_time": 1694019863,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690822,
+      "num": 316680,
+      "word": "iPad的生产力比你想象的要大",
+      "onboard_time": 1694045737,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 653979,
+      "num": 316486,
+      "word": "苹果市值一夜蒸发1062亿美元",
+      "onboard_time": 1694046698,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 617374,
@@ -67,12 +131,28 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 608504,
+      "num": 608504,
+      "word": "预制菜进校园",
+      "onboard_time": 1694045556,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 593781,
       "num": 593781,
       "word": "450万是很大一笔钱了",
       "onboard_time": 1693995218,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589811,
+      "num": 589811,
+      "word": "杨丽萍回应舞蹈大尺度设置",
+      "onboard_time": 1694047780,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 588959,
@@ -83,12 +163,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586299,
+      "num": 316359,
+      "word": "考上了离家9分钟路程的单位",
+      "onboard_time": 1694047476,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 560316,
+      "num": 315779,
+      "word": "假性亲密关系",
+      "onboard_time": 1694046035,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 557732,
+      "num": 557732,
+      "word": "C罗说和梅西的竞争结束了",
+      "onboard_time": 1694045315,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 555665,
+      "num": 555665,
+      "word": "手机自动转账女子冲进派出所",
+      "onboard_time": 1694041587,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551559,
       "num": 551559,
       "word": "减脂事半功倍的三件事",
       "onboard_time": 1694016752,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 545245,
+      "num": 315531,
+      "word": "男朋友嗦完后的鸡爪子",
+      "onboard_time": 1694045075,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 539676,
@@ -100,11 +220,19 @@
     },
     {
       "raw_hot": 536835,
-      "num": 193381,
+      "num": 295027,
       "word": "为什么不能扣肚脐眼",
       "onboard_time": 1694041766,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 527755,
+      "num": 315172,
+      "word": "成毅 人生嘛睡一觉就好了",
+      "onboard_time": 1694045495,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 502841,
@@ -139,12 +267,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451095,
-      "num": 451095,
-      "word": "手机自动转账女子冲进派出所",
-      "onboard_time": 1694041587,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 463147,
+      "num": 314593,
+      "word": "开个学做了13遍自我介绍",
+      "onboard_time": 1694043934,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 454407,
+      "num": 454407,
+      "word": "云之羽热度破爱奇艺24集剧集记录",
+      "onboard_time": 1694044352,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 433827,
@@ -153,6 +289,14 @@
       "onboard_time": 1694040081,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 425772,
+      "num": 314238,
+      "word": "金毛假装不经意地舔了宝宝一口",
+      "onboard_time": 1694047540,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 420678,
@@ -171,11 +315,35 @@
       "category": "科技"
     },
     {
+      "raw_hot": 406381,
+      "num": 314388,
+      "word": "第一次见这么肥的乌龟",
+      "onboard_time": 1694045916,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 405154,
+      "num": 405154,
+      "word": "福州一车主将爱车装入塑料袋防水",
+      "onboard_time": 1694044293,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342675,
       "num": 342675,
       "word": "宫尚角坠入爱河了",
       "onboard_time": 1694009317,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333615,
+      "num": 333615,
+      "word": "曾舜晞竟然提前上线了",
+      "onboard_time": 1694042849,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -193,6 +361,30 @@
       "onboard_time": 1694016214,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321472,
+      "num": 321472,
+      "word": "伍佰演唱会开场前门票3排变11排",
+      "onboard_time": 1694043990,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 317246,
+      "num": 317246,
+      "word": "代号鸢",
+      "onboard_time": 1694044834,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 314004,
+      "num": 314004,
+      "word": "父母坚持每周给女儿拍一张照片",
+      "onboard_time": 1694047837,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298332,
@@ -219,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288401,
+      "num": 378453,
+      "word": "小学生捡10万个空瓶卖了献爱心",
+      "onboard_time": 1694043451,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 286248,
       "num": 286248,
       "word": "宫子羽坚信宫门只有一个细作",
@@ -235,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286030,
+      "num": 286030,
+      "word": "怎么有人长得又老又年轻",
+      "onboard_time": 1694046398,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285986,
       "num": 285986,
       "word": "帕梅拉真不是AI",
@@ -249,14 +457,6 @@
       "onboard_time": 1694009138,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281772,
-      "num": 145566,
-      "word": "河南拿快递失踪女孩遗体被找到",
-      "onboard_time": 1694042849,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266883,
@@ -297,6 +497,14 @@
       "onboard_time": 1694041766,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242384,
+      "num": 242384,
+      "word": "当妈妈描述我不可思议的睡眠质量",
+      "onboard_time": 1694045916,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 238898,
@@ -395,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176774,
+      "num": 176774,
+      "word": "宫崎骏新片首发预告",
+      "onboard_time": 1694045135,
+      "rank": 41,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 171904,
       "num": 171904,
       "word": "酱香拿铁已经火到韩国了",
@@ -443,6 +659,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 148732,
+      "num": 148732,
+      "word": "情绪稳定的领导有多重要",
+      "onboard_time": 1694042549,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148731,
       "num": 148731,
       "word": "这下谁还分得清爱豆和伴舞",
@@ -459,11 +683,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145832,
-      "num": 145832,
-      "word": "情绪稳定的领导有多重要",
-      "onboard_time": 1694042549,
-      "rank": 29,
+      "raw_hot": 141069,
+      "num": 141069,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1694042969,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -515,14 +739,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 105804,
-      "num": 105804,
-      "word": "密室大逃脱大神版",
-      "onboard_time": 1694042969,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104523,
       "num": 120328,
       "word": "人需要体验到持续不断的价值感",
@@ -563,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93696,
-      "num": 93696,
-      "word": "曾舜晞竟然提前上线了",
-      "onboard_time": 1694042849,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 90145,
       "num": 87322,
       "word": "C罗晒照备战欧预赛",
@@ -584,6 +792,14 @@
       "word": "4岁萌娃走失完整写下爸爸手机号",
       "onboard_time": 1694035815,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85905,
+      "num": 1339689,
+      "word": "原来航天员在太空是这样练腿的",
+      "onboard_time": 1694002356,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -601,14 +817,6 @@
       "onboard_time": 1694039543,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72556,
-      "num": 486411,
-      "word": "原来航天员在太空是这样练腿的",
-      "onboard_time": 1694002356,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65387,
