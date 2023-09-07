@@ -1,7 +1,15 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694104608472,
+  "endTime": 1694106927430,
   "band_list": [
+    {
+      "raw_hot": 2101836,
+      "num": 2101836,
+      "word": "深圳泄洪",
+      "onboard_time": 1694104289,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1746223,
       "num": 1746223,
@@ -32,14 +40,6 @@
       "word": "深圳暴雨",
       "onboard_time": 1694092057,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 897330,
-      "num": 897330,
-      "word": "深圳泄洪",
-      "onboard_time": 1694104289,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -89,6 +89,22 @@
       "onboard_time": 1694099620,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 565297,
+      "num": 236987,
+      "word": "9岁女孩称发私密视频是为交朋友",
+      "onboard_time": 1694105307,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517441,
+      "num": 517441,
+      "word": "深圳水库",
+      "onboard_time": 1694104586,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483479,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 200007,
-      "num": 200007,
+      "num": 232497,
       "word": "年收入10万元以下个人基本不缴个税",
       "onboard_time": 1694084080,
       "rank": 29,
@@ -305,14 +321,6 @@
       "onboard_time": 1694094219,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164963,
-      "num": 164963,
-      "word": "深圳水库",
-      "onboard_time": 1694104586,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160013,
@@ -403,12 +411,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132679,
+      "num": 132679,
+      "word": "深圳多地暴雨升级为橙色预警",
+      "onboard_time": 1694105426,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128587,
       "num": 128587,
       "word": "盛阳妈妈远比想象中了解孩子",
       "onboard_time": 1694100579,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71961,
+      "num": 71961,
+      "word": "被倪妮这个镜头美到了",
+      "onboard_time": 1694106444,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 62117,
+      "num": 70636,
+      "word": "霍楠徐静雨对线",
+      "onboard_time": 1694106683,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 13199,

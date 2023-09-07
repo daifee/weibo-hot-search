@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694104608472,
+  "endTime": 1694106927430,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -409,6 +409,14 @@
       "onboard_time": 1693712015,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2101836,
+      "num": 2101836,
+      "word": "深圳泄洪",
+      "onboard_time": 1694104289,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2101748,
@@ -1817,14 +1825,6 @@
       "onboard_time": 1694075555,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 897330,
-      "num": 897330,
-      "word": "深圳泄洪",
-      "onboard_time": 1694104289,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 894418,
@@ -3595,6 +3595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 565297,
+      "num": 236987,
+      "word": "9岁女孩称发私密视频是为交朋友",
+      "onboard_time": 1694105307,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564965,
       "num": 564965,
       "word": "王哲林把朱芳雨微信删了",
@@ -4105,6 +4113,14 @@
       "onboard_time": 1693712436,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 517441,
+      "num": 517441,
+      "word": "深圳水库",
+      "onboard_time": 1694104586,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517046,
@@ -11099,14 +11115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164963,
-      "num": 164963,
-      "word": "深圳水库",
-      "onboard_time": 1694104586,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164942,
       "num": 164942,
       "word": "KAI和Bada超绝的双人舞",
@@ -12011,6 +12019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132679,
+      "num": 132679,
+      "word": "深圳多地暴雨升级为橙色预警",
+      "onboard_time": 1694105426,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132513,
       "num": 132513,
       "word": "南号尚风 搬书",
@@ -12755,6 +12771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71961,
+      "num": 71961,
+      "word": "被倪妮这个镜头美到了",
+      "onboard_time": 1694106444,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 70108,
       "num": 226402,
       "word": "雅万高铁开通运行",
@@ -12833,6 +12857,14 @@
       "onboard_time": 1693932445,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 62117,
+      "num": 70636,
+      "word": "霍楠徐静雨对线",
+      "onboard_time": 1694106683,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 61883,
