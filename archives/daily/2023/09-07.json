@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694054025385,
+  "endTime": 1694056613132,
   "band_list": [
     {
       "raw_hot": 2363682,
@@ -19,6 +19,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 2217898,
+      "num": 2217898,
+      "word": "2022届本科生平均月收入5990元",
+      "onboard_time": 1694053653,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1746169,
       "num": 1746169,
       "word": "河南拿快递失踪女孩遗体被找到",
@@ -27,12 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1716271,
-      "num": 1716271,
+      "raw_hot": 1716894,
+      "num": 1716894,
       "word": "iPhone信号太差或将解决",
       "onboard_time": 1694049097,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1453710,
+      "num": 553126,
+      "word": "劣迹艺人的历史作品还能不能收看",
+      "onboard_time": 1694054016,
+      "rank": 40,
+      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 1246285,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 755593,
-      "num": 342899,
+      "num": 378498,
       "word": "正在消失又很难买到的水果",
       "onboard_time": 1694046757,
       "rank": 20,
@@ -147,12 +163,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 655071,
+      "num": 655071,
+      "word": "原来易烊千玺早就剧透新电影了",
+      "onboard_time": 1694054554,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653979,
       "num": 364201,
       "word": "苹果市值一夜蒸发1062亿美元",
       "onboard_time": 1694046698,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 646204,
+      "num": 646204,
+      "word": "遇到这样的男同桌高低暗恋三年",
+      "onboard_time": 1694053293,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 634855,
@@ -200,6 +232,14 @@
       "word": "考上了离家9分钟路程的单位",
       "onboard_time": 1694047476,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 564853,
+      "num": 564853,
+      "word": "新加坡地铁果然是中国造的",
+      "onboard_time": 1694052635,
+      "rank": 17,
       "category": "情感"
     },
     {
@@ -267,12 +307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 523042,
-      "num": 523042,
-      "word": "新加坡地铁果然是中国造的",
-      "onboard_time": 1694052635,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 517046,
+      "num": 517046,
+      "word": "赵丽颖时装男士九月封面",
+      "onboard_time": 1694054313,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 502841,
@@ -304,6 +344,14 @@
       "word": "刘诗诗霍建华为胡歌新片打call",
       "onboard_time": 1694014417,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 466688,
+      "num": 466688,
+      "word": "白百何最有cp感的男主",
+      "onboard_time": 1694054016,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -347,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431428,
+      "num": 389495,
+      "word": "杨紫 不要自卑要自信",
+      "onboard_time": 1694056234,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425772,
       "num": 314238,
       "word": "金毛假装不经意地舔了宝宝一口",
@@ -371,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 408173,
+      "num": 384293,
+      "word": "一个班里两个炸裂的名字",
+      "onboard_time": 1694054494,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 407492,
       "num": 407492,
       "word": "福州一车主将爱车装入塑料袋防水",
@@ -387,12 +451,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 390641,
+      "num": 390641,
+      "word": "姬发被饕餮追逐的戏拍了两三个月",
+      "onboard_time": 1694054494,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 375071,
+      "num": 375071,
+      "word": "广州二胎宝妈将50平住出90平效果",
+      "onboard_time": 1694055219,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372467,
       "num": 372467,
       "word": "27年有望实现尿液宫颈癌HPV筛查",
       "onboard_time": 1694052755,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360815,
+      "num": 360815,
+      "word": "25岁存款多少才算正常",
+      "onboard_time": 1694055875,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 342675,
@@ -417,14 +505,6 @@
       "onboard_time": 1694027833,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 326424,
-      "num": 343014,
-      "word": "遇到这样的男同桌高低暗恋三年",
-      "onboard_time": 1694053293,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 325215,
@@ -468,7 +548,7 @@
     },
     {
       "raw_hot": 291435,
-      "num": 401961,
+      "num": 517217,
       "word": "小学生捡10万个空瓶卖了献爱心",
       "onboard_time": 1694043451,
       "rank": 14,
@@ -571,6 +651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258253,
+      "num": 258253,
+      "word": "狐妖小红娘面具还原度百分百",
+      "onboard_time": 1694056173,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254940,
       "num": 254940,
       "word": "马伯骞的家造型像博物馆",
@@ -587,20 +675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251767,
-      "num": 251767,
-      "word": "2022届本科生平均月收入5990元",
-      "onboard_time": 1694053653,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 248480,
       "num": 248480,
       "word": "金球奖候选名单",
       "onboard_time": 1694041766,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244258,
+      "num": 518023,
+      "word": "儿子送妈妈上学反复叮嘱",
+      "onboard_time": 1694054851,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242384,
@@ -643,6 +731,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 226181,
+      "num": 226181,
+      "word": "周杰伦天津演唱会打卡点刷新了",
+      "onboard_time": 1694056234,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225680,
       "num": 225680,
       "word": "前任带走的狗自己找回来了",
@@ -659,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208265,
+      "num": 208265,
+      "word": "宫尚角上官浅的纯爱战歌",
+      "onboard_time": 1694052873,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207163,
       "num": 207163,
       "word": "月薪5万有多难",
       "onboard_time": 1694004276,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204715,
+      "num": 204715,
+      "word": "这就是芬兰的儿童教育",
+      "onboard_time": 1694055817,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 202567,
@@ -697,14 +809,6 @@
       "onboard_time": 1693994078,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190540,
-      "num": 190540,
-      "word": "白百何最有cp感的男主",
-      "onboard_time": 1694054016,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 186445,
@@ -771,14 +875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172378,
-      "num": 172378,
-      "word": "劣迹艺人的历史作品还能不能收看",
-      "onboard_time": 1694054016,
-      "rank": 40,
-      "category": "社会议题,艺人"
-    },
-    {
       "raw_hot": 171904,
       "num": 171904,
       "word": "酱香拿铁已经火到韩国了",
@@ -787,20 +883,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168489,
+      "num": 168489,
+      "word": "张楚岚因为母胎solo哭了",
+      "onboard_time": 1694054673,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168301,
+      "num": 168301,
+      "word": "enhypen完美融入中国餐桌",
+      "onboard_time": 1694053892,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163161,
       "num": 163161,
       "word": "梅西第16次入围金球奖",
       "onboard_time": 1694042612,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160999,
-      "num": 160999,
-      "word": "enhypen完美融入中国餐桌",
-      "onboard_time": 1694053892,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 159994,
@@ -817,6 +921,14 @@
       "onboard_time": 1694017469,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157656,
+      "num": 157656,
+      "word": "多家银行降低存量首套住房贷款利率",
+      "onboard_time": 1694055272,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 157132,
@@ -1097,6 +1209,14 @@
       "onboard_time": 1694023877,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 22122,
+      "num": 517085,
+      "word": "周扬青获雅诗兰黛集团投资",
+      "onboard_time": 1694056417,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 20803,
