@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694121275582,
+  "endTime": 1694122427249,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -18507,6 +18507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44580,
+      "num": 27335,
+      "word": "上海治安很好 手表还在",
+      "onboard_time": 1694120114,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 44423,
       "num": 44423,
       "word": "妹妹给离家的姐姐塞了小纸条",
@@ -18817,14 +18825,6 @@
       "onboard_time": 1693478799,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29545,
-      "num": 26891,
-      "word": "上海治安很好 手表还在",
-      "onboard_time": 1694120114,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 29332,
