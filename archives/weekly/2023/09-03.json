@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694111668403,
+  "endTime": 1694114002745,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -12395,6 +12395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104127,
+      "num": 63652,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101107,
       "num": 101107,
       "word": "台风",
@@ -13043,14 +13051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45173,
-      "num": 45173,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 44866,
       "num": 44866,
       "word": "能活到今天我都想奖励自己",
@@ -13065,6 +13065,14 @@
       "onboard_time": 1693683196,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43317,
+      "num": 43317,
+      "word": "大鹏 与警察同志拍照好紧张",
+      "onboard_time": 1694111716,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 43267,
@@ -13329,6 +13337,14 @@
       "onboard_time": 1693692856,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24831,
+      "num": 24831,
+      "word": "oc作者的必修课",
+      "onboard_time": 1694111896,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 24145,
