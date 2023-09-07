@@ -1,0 +1,410 @@
+{
+  "runTime": 1694110865563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925550,
+        "num": 925550,
+        "word": "深圳泄洪",
+        "onboard_time": 1694104289,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273585,
+        "num": 273585,
+        "word": "广州暴雨",
+        "onboard_time": 1694101001,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5573,
+        "num": 200579,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 528395,
+        "num": 199132,
+        "word": "9岁女孩称发私密视频是为交朋友",
+        "onboard_time": 1694105307,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193626,
+        "num": 193626,
+        "word": "长期不吃晚餐真的会瘦吗",
+        "onboard_time": 1694099439,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168625,
+        "num": 168625,
+        "word": "深圳水库",
+        "onboard_time": 1694104586,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168339,
+        "num": 168339,
+        "word": "深圳多地暴雨升级为橙色预警",
+        "onboard_time": 1694105426,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137252,
+        "num": 137252,
+        "word": "广州全市暴雨戒备状态",
+        "onboard_time": 1694101957,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127160,
+        "num": 127160,
+        "word": "原来只有晕车的人才闻得到异味",
+        "onboard_time": 1694099379,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 114154,
+        "num": 114154,
+        "word": "被困横店后我成了所有男主的白月光",
+        "onboard_time": 1694098601,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126951,
+        "num": 109099,
+        "word": "日本核污染水已排海6100吨",
+        "onboard_time": 1694098720,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102178,
+        "num": 102178,
+        "word": "新郎和新娘不在一个图层",
+        "onboard_time": 1694099620,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96850,
+        "num": 96850,
+        "word": "檀健次直播穿了防风被",
+        "onboard_time": 1694098961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67193,
+        "num": 89293,
+        "word": "请人员车辆暂勿前往深圳龙岗中心城",
+        "onboard_time": 1694097699,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61497,
+        "num": 86166,
+        "word": "年收入10万元以下个人基本不缴个税",
+        "onboard_time": 1694084080,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85463,
+        "num": 85463,
+        "word": "龚俊二闹周杰伦演唱会",
+        "onboard_time": 1694101776,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83406,
+        "num": 83406,
+        "word": "维密天使 众神回归",
+        "onboard_time": 1694083056,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 79240,
+        "num": 79240,
+        "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
+        "onboard_time": 1694099980,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78617,
+        "num": 78617,
+        "word": "深圳暴雨",
+        "onboard_time": 1694092057,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73547,
+        "num": 73547,
+        "word": "龙岗 内涝",
+        "onboard_time": 1694094878,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78335,
+        "num": 72808,
+        "word": "儿子教便秘妈妈水龙头灌肠致肠穿孔",
+        "onboard_time": 1694089608,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70920,
+        "num": 70920,
+        "word": "房子给人特别干净舒服的感觉",
+        "onboard_time": 1694101538,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69185,
+        "num": 69185,
+        "word": "霍楠徐静雨对线",
+        "onboard_time": 1694106683,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67719,
+        "num": 67719,
+        "word": "韩国娱乐公司内部食堂菜品",
+        "onboard_time": 1694086358,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66174,
+        "num": 66174,
+        "word": "妈妈被家暴女儿冲出揪爸爸头发阻止",
+        "onboard_time": 1694098118,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64237,
+        "num": 64237,
+        "word": "一档综艺总决赛集齐半个娱乐圈",
+        "onboard_time": 1694108240,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62510,
+        "num": 62510,
+        "word": "跟别人谈恋爱前先跟自己谈下",
+        "onboard_time": 1694109498,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58220,
+        "num": 58220,
+        "word": "公职人员被儿子举报出轨停职",
+        "onboard_time": 1694094462,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55298,
+        "num": 55298,
+        "word": "被倪妮这个镜头美到了",
+        "onboard_time": 1694106444,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54880,
+        "num": 54880,
+        "word": "浙江一村被曝出现上千条眼镜蛇",
+        "onboard_time": 1694082156,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101996,
+        "num": 54464,
+        "word": "洛阳一大学生杀害同学后跳楼自杀",
+        "onboard_time": 1694092598,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53970,
+        "num": 53970,
+        "word": "陈都灵西出玉门剧照",
+        "onboard_time": 1694085576,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52993,
+        "num": 52993,
+        "word": "为什么很多人买了车不开",
+        "onboard_time": 1694093919,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52584,
+        "num": 52584,
+        "word": "猫妈妈上门看望被领养的小猫咪",
+        "onboard_time": 1694099379,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50751,
+        "num": 50751,
+        "word": "虞书欣赐梦录制花絮vlog",
+        "onboard_time": 1694094938,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48835,
+        "num": 48835,
+        "word": "华为mate60和iPhone15选哪个",
+        "onboard_time": 1694076817,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 47064,
+        "num": 48828,
+        "word": "金泰亨solo",
+        "onboard_time": 1694108840,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45604,
+        "num": 48826,
+        "word": "桂花壁纸 招财",
+        "onboard_time": 1694100637,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45220,
+        "num": 48821,
+        "word": "七时吉祥",
+        "onboard_time": 1694100520,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44539,
+        "num": 48813,
+        "word": "西出玉门",
+        "onboard_time": 1694087259,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44308,
+        "num": 48805,
+        "word": "瑞幸将再向茅台采购飞天茅台酒",
+        "onboard_time": 1694086358,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41138,
+        "num": 48799,
+        "word": "檀健次李佳琦直播",
+        "onboard_time": 1694094637,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41027,
+        "num": 48790,
+        "word": "陈翔做声带手术",
+        "onboard_time": 1694088758,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40630,
+        "num": 48781,
+        "word": "内蒙古发生高压气体喷出事故致9死3伤",
+        "onboard_time": 1694099620,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37778,
+        "num": 48777,
+        "word": "小时候以为杨紫说的工作满大街都是",
+        "onboard_time": 1694092837,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37547,
+        "num": 48772,
+        "word": "林志颖车祸后首露脸部伤疤",
+        "onboard_time": 1694073757,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37547,
+        "num": 48763,
+        "word": "农行卡状态异常",
+        "onboard_time": 1694095779,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36829,
+        "num": 48752,
+        "word": "两个猫宝宝交换袜子穿",
+        "onboard_time": 1694110517,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36170,
+        "num": 48748,
+        "word": "让领导认为你不堪重用的摆件",
+        "onboard_time": 1694094160,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33718,
+        "num": 48741,
+        "word": "男生开学来晚了意外被分到教师精装宿舍",
+        "onboard_time": 1694097582,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江考察#"
+    }
+  }
+}

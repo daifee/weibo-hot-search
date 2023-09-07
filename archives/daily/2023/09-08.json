@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694108041683,
+  "endTime": 1694110865563,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -441,6 +441,54 @@
       "onboard_time": 1694106683,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64237,
+      "num": 64237,
+      "word": "一档综艺总决赛集齐半个娱乐圈",
+      "onboard_time": 1694108240,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62510,
+      "num": 62510,
+      "word": "跟别人谈恋爱前先跟自己谈下",
+      "onboard_time": 1694109498,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 47064,
+      "num": 48828,
+      "word": "金泰亨solo",
+      "onboard_time": 1694108840,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 41027,
+      "num": 48790,
+      "word": "陈翔做声带手术",
+      "onboard_time": 1694088758,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37778,
+      "num": 48777,
+      "word": "小时候以为杨紫说的工作满大街都是",
+      "onboard_time": 1694092837,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 36829,
+      "num": 48752,
+      "word": "两个猫宝宝交换袜子穿",
+      "onboard_time": 1694110517,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 13199,
