@@ -1,0 +1,410 @@
+{
+  "runTime": 1694057634447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2653767,
+        "num": 2653767,
+        "word": "2022届本科生平均月收入5990元",
+        "onboard_time": 1694053653,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1303542,
+        "num": 1303542,
+        "word": "瑞幸为什么不直接倒茅台酒",
+        "onboard_time": 1694047118,
+        "rank": 1,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 29728,
+        "num": 1298574,
+        "word": "原来航天员在太空是这样练腿的",
+        "onboard_time": 1694002356,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1295157,
+        "num": 1295157,
+        "word": "iPhone信号太差或将解决",
+        "onboard_time": 1694049097,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 758241,
+        "num": 758241,
+        "word": "遇到这样的男同桌高低暗恋三年",
+        "onboard_time": 1694053293,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 753782,
+        "num": 753782,
+        "word": "女子穿汉服拍照被认作日本服饰驱赶",
+        "onboard_time": 1694051732,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606766,
+        "num": 606766,
+        "word": "四川工商学院通报公开播放劣迹艺人视频",
+        "onboard_time": 1694051253,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606016,
+        "num": 606016,
+        "word": "原来易烊千玺早就剧透新电影了",
+        "onboard_time": 1694054554,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505320,
+        "num": 505320,
+        "word": "赵丽颖时装男士九月封面",
+        "onboard_time": 1694054313,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 482753,
+        "num": 482753,
+        "word": "河南拿快递失踪女孩遗体被找到",
+        "onboard_time": 1694042849,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2436829,
+        "num": 470328,
+        "word": "劣迹艺人的历史作品还能不能收看",
+        "onboard_time": 1694054016,
+        "rank": 10,
+        "category": "社会议题,艺人"
+      },
+      {
+        "raw_hot": 453468,
+        "num": 453468,
+        "word": "杨丽萍回应舞蹈大尺度设置",
+        "onboard_time": 1694047780,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242494,
+        "num": 452189,
+        "word": "儿子送妈妈上学反复叮嘱",
+        "onboard_time": 1694054851,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212395,
+        "num": 451281,
+        "word": "小学生捡10万个空瓶卖了献爱心",
+        "onboard_time": 1694043451,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 148434,
+        "num": 451065,
+        "word": "周扬青获雅诗兰黛集团投资",
+        "onboard_time": 1694056417,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451018,
+        "num": 451018,
+        "word": "广州二胎宝妈将50平住出90平效果",
+        "onboard_time": 1694055219,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421846,
+        "num": 421846,
+        "word": "白百何最有cp感的男主",
+        "onboard_time": 1694054016,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420316,
+        "num": 420316,
+        "word": "新加坡地铁果然是中国造的",
+        "onboard_time": 1694052635,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388937,
+        "num": 388937,
+        "word": "考研和考编同时上岸选哪个",
+        "onboard_time": 1694043869,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 374114,
+        "num": 374114,
+        "word": "狐妖小红娘面具还原度百分百",
+        "onboard_time": 1694056173,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 696592,
+        "num": 363284,
+        "word": "杨紫 不要自卑要自信",
+        "onboard_time": 1694056234,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414906,
+        "num": 345375,
+        "word": "一个班里两个炸裂的名字",
+        "onboard_time": 1694054494,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389820,
+        "num": 344361,
+        "word": "正在消失又很难买到的水果",
+        "onboard_time": 1694046757,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 319394,
+        "num": 319394,
+        "word": "周杰伦天津演唱会打卡点刷新了",
+        "onboard_time": 1694056234,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317576,
+        "num": 317576,
+        "word": "A股",
+        "onboard_time": 1694057017,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312990,
+        "num": 312990,
+        "word": "肖战向涵之新剧一鸽还一鸽",
+        "onboard_time": 1694047540,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309625,
+        "num": 309625,
+        "word": "周也新片抱的是真老鼠",
+        "onboard_time": 1694056775,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305734,
+        "num": 305734,
+        "word": "这就是芬兰的儿童教育",
+        "onboard_time": 1694055817,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302614,
+        "num": 302614,
+        "word": "姬发被饕餮追逐的戏拍了两三个月",
+        "onboard_time": 1694054494,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292526,
+        "num": 292526,
+        "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
+        "onboard_time": 1694011836,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264069,
+        "num": 264069,
+        "word": "iPhone15价格你能接受吗",
+        "onboard_time": 1694057135,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 263241,
+        "num": 263241,
+        "word": "假性亲密关系",
+        "onboard_time": 1694046035,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259581,
+        "num": 259581,
+        "word": "苹果市值一夜蒸发1062亿美元",
+        "onboard_time": 1694046698,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 251607,
+        "num": 251607,
+        "word": "父母坚持每周给女儿拍一张照片",
+        "onboard_time": 1694047837,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217417,
+        "num": 217417,
+        "word": "金毛假装不经意地舔了宝宝一口",
+        "onboard_time": 1694047540,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204778,
+        "num": 204778,
+        "word": "成毅 人生嘛睡一觉就好了",
+        "onboard_time": 1694045495,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202928,
+        "num": 202928,
+        "word": "iPad的生产力比你想象的要大",
+        "onboard_time": 1694045737,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200565,
+        "num": 200565,
+        "word": "小伙创业失败三次瞒着父亲偷偷干",
+        "onboard_time": 1694053112,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200290,
+        "num": 200290,
+        "word": "前任带走的狗自己找回来了",
+        "onboard_time": 1694053171,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197888,
+        "num": 197888,
+        "word": "男朋友嗦完后的鸡爪子",
+        "onboard_time": 1694045075,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197335,
+        "num": 197335,
+        "word": "西藏民警称棕熊是大家心中的哈基米",
+        "onboard_time": 1694057375,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173185,
+        "num": 173185,
+        "word": "云之羽热度破爱奇艺24集剧集记录",
+        "onboard_time": 1694044352,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166259,
+        "num": 166259,
+        "word": "以为健康其实并不健康的食品",
+        "onboard_time": 1694057495,
+        "rank": 42,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 165971,
+        "num": 165971,
+        "word": "27年有望实现尿液宫颈癌HPV筛查",
+        "onboard_time": 1694052755,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164248,
+        "num": 164248,
+        "word": "C罗说和梅西的竞争结束了",
+        "onboard_time": 1694045315,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159334,
+        "num": 159334,
+        "word": "黄子韬出品徐艺洋新剧",
+        "onboard_time": 1694044834,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158077,
+        "num": 158077,
+        "word": "enhypen完美融入中国餐桌",
+        "onboard_time": 1694053892,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155684,
+        "num": 155684,
+        "word": "宫尚角上官浅的纯爱战歌",
+        "onboard_time": 1694052873,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151156,
+        "num": 151156,
+        "word": "多家银行降低存量首套住房贷款利率",
+        "onboard_time": 1694055272,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 147067,
+        "num": 147067,
+        "word": "女生去中医馆买酸梅汤被医师教育",
+        "onboard_time": 1694041646,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路机会和成果属于世界#"
+    }
+  }
+}
