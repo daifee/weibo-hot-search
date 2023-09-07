@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694122427249,
+  "endTime": 1694124939763,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 136277,
-      "num": 99980,
+      "num": 103826,
       "word": "小孩不会撒谎但会胡说八道",
       "onboard_time": 1694110337,
       "rank": 32,
@@ -435,12 +435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109352,
+      "num": 109352,
+      "word": "脱口秀演员称城市越穷事越多",
+      "onboard_time": 1694113755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81342,
       "num": 81342,
       "word": "被倪妮这个镜头美到了",
       "onboard_time": 1694106444,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 80356,
+      "num": 48210,
+      "word": "上海治安很好 手表还在",
+      "onboard_time": 1694120114,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 79893,
@@ -457,14 +473,6 @@
       "onboard_time": 1694109498,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72289,
-      "num": 72289,
-      "word": "脱口秀演员称城市越穷事越多",
-      "onboard_time": 1694113755,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64237,
@@ -491,12 +499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 44580,
-      "num": 27335,
-      "word": "上海治安很好 手表还在",
-      "onboard_time": 1694120114,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 45489,
+      "num": 48777,
+      "word": "小时候以为杨紫说的工作满大街都是",
+      "onboard_time": 1694092837,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 41109,
+      "num": 41109,
+      "word": "深圳地铁",
+      "onboard_time": 1694124318,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41027,
@@ -505,14 +521,6 @@
       "onboard_time": 1694088758,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37778,
-      "num": 48777,
-      "word": "小时候以为杨紫说的工作满大街都是",
-      "onboard_time": 1694092837,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 36829,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 26283,
-      "num": 27466,
+      "num": 32881,
       "word": "第一次坐阿联酋航空攻略",
       "onboard_time": 1694113035,
       "rank": 38,

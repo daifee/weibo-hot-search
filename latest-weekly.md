@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/03 00:19:27 ~ 2023/09/08 05:33:47
+本榜单时间：2023/09/03 00:19:27 ~ 2023/09/08 06:15:39
 </p>
 </blockquote>
 <p>
@@ -9255,6 +9255,12 @@ i人当司机真是为难他了（热度：147332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E7%A7%B0%E5%9F%8E%E5%B8%82%E8%B6%8A%E7%A9%B7%E4%BA%8B%E8%B6%8A%E5%A4%9A%23" target="weibo">
+脱口秀演员称城市越穷事越多（热度：109352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%8B%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BE%E5%8A%A8%E8%83%BD%E8%AF%B4%E6%98%8E%E5%BE%88%E5%A4%9A%E4%BF%A1%E6%81%AF%23" target="weibo">
 人下意识的举动能说明很多信息（热度：109062）
 </a>
@@ -9543,6 +9549,12 @@ C罗晒照备战欧预赛（热度：90145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B2%BB%E5%AE%89%E5%BE%88%E5%A5%BD%20%E6%89%8B%E8%A1%A8%E8%BF%98%E5%9C%A8%23" target="weibo">
+上海治安很好 手表还在（热度：80356）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%A5%A0%E5%BE%90%E9%9D%99%E9%9B%A8%E5%AF%B9%E7%BA%BF%23" target="weibo">
 霍楠徐静雨对线（热度：79893）
 </a>
@@ -9611,12 +9623,6 @@ C罗晒照备战欧预赛（热度：90145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E5%88%AB%E4%BA%BA%E8%B0%88%E6%81%8B%E7%88%B1%E5%89%8D%E5%85%88%E8%B7%9F%E8%87%AA%E5%B7%B1%E8%B0%88%E4%B8%8B%23" target="weibo">
 跟别人谈恋爱前先跟自己谈下（热度：72665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E7%A7%B0%E5%9F%8E%E5%B8%82%E8%B6%8A%E7%A9%B7%E4%BA%8B%E8%B6%8A%E5%A4%9A%23" target="weibo">
-脱口秀演员称城市越穷事越多（热度：72289）
 </a>
 </li>
 
@@ -9819,12 +9825,6 @@ C罗晒照备战欧预赛（热度：90145）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B2%BB%E5%AE%89%E5%BE%88%E5%A5%BD%20%E6%89%8B%E8%A1%A8%E8%BF%98%E5%9C%A8%23" target="weibo">
-上海治安很好 手表还在（热度：44580）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 蔡依林长沙演唱会（热度：43766）
 </a>
@@ -9869,6 +9869,12 @@ C罗晒照备战欧预赛（热度：90145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Shotaro%E6%88%90%E7%81%BFChallenge%23" target="weibo">
 Shotaro成灿Challenge（热度：41561）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%23" target="weibo">
+深圳地铁（热度：41109）
 </a>
 </li>
 
