@@ -1,0 +1,410 @@
+{
+  "runTime": 1694128599363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899892,
+        "num": 1899892,
+        "word": "深圳泄洪",
+        "onboard_time": 1694104289,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190173,
+        "num": 1190173,
+        "word": "长期不吃晚餐真的会瘦吗",
+        "onboard_time": 1694099439,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12163,
+        "num": 514749,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1394856,
+        "num": 500307,
+        "word": "9岁女孩称发私密视频是为交朋友",
+        "onboard_time": 1694105307,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480008,
+        "num": 480008,
+        "word": "新郎和新娘不在一个图层",
+        "onboard_time": 1694099620,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430790,
+        "num": 430790,
+        "word": "深圳地铁",
+        "onboard_time": 1694124318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406512,
+        "num": 406512,
+        "word": "广州暴雨",
+        "onboard_time": 1694101001,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340635,
+        "num": 340635,
+        "word": "檀健次直播穿了防风被",
+        "onboard_time": 1694098961,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296988,
+        "num": 296988,
+        "word": "被困横店后我成了所有男主的白月光",
+        "onboard_time": 1694098601,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294715,
+        "num": 294715,
+        "word": "小孩不会撒谎但会胡说八道",
+        "onboard_time": 1694110337,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341248,
+        "num": 292021,
+        "word": "日本核污染水已排海6100吨",
+        "onboard_time": 1694098720,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289012,
+        "num": 289012,
+        "word": "脱口秀演员称城市越穷事越多",
+        "onboard_time": 1694113755,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283647,
+        "num": 283647,
+        "word": "公职人员被儿子举报出轨停职",
+        "onboard_time": 1694094462,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178389,
+        "num": 256800,
+        "word": "年收入10万元以下个人基本不缴个税",
+        "onboard_time": 1694084080,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127304,
+        "num": 254541,
+        "word": "请人员车辆暂勿前往深圳龙岗中心城",
+        "onboard_time": 1694097699,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253150,
+        "num": 253150,
+        "word": "龚俊二闹周杰伦演唱会",
+        "onboard_time": 1694101776,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216159,
+        "num": 216159,
+        "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
+        "onboard_time": 1694099980,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 204842,
+        "word": "广州全市暴雨戒备状态",
+        "onboard_time": 1694101957,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187291,
+        "num": 187291,
+        "word": "白露",
+        "onboard_time": 1694100340,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158946,
+        "num": 158946,
+        "word": "Twins听到古巨基儿子唱歌反应",
+        "onboard_time": 1694126723,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216079,
+        "num": 158795,
+        "word": "为什么很多人买了车不开",
+        "onboard_time": 1694093919,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199626,
+        "num": 158260,
+        "word": "儿子教便秘妈妈水龙头灌肠致肠穿孔",
+        "onboard_time": 1694089608,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178744,
+        "num": 157594,
+        "word": "妈妈被家暴女儿冲出揪爸爸头发阻止",
+        "onboard_time": 1694098118,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171755,
+        "num": 157474,
+        "word": "小时候以为杨紫说的工作满大街都是",
+        "onboard_time": 1694092837,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161442,
+        "num": 156990,
+        "word": "房子给人特别干净舒服的感觉",
+        "onboard_time": 1694101538,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156639,
+        "num": 156639,
+        "word": "原来只有晕车的人才闻得到异味",
+        "onboard_time": 1694099379,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 149835,
+        "num": 149835,
+        "word": "盛阳妈妈远比想象中了解孩子",
+        "onboard_time": 1694100579,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143876,
+        "num": 143876,
+        "word": "维密天使 众神回归",
+        "onboard_time": 1694083056,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 141905,
+        "num": 141905,
+        "word": "桂花壁纸 招财",
+        "onboard_time": 1694100637,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135959,
+        "num": 135959,
+        "word": "这才是男女对唱的天花板",
+        "onboard_time": 1694126180,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271748,
+        "num": 134679,
+        "word": "洛阳一大学生杀害同学后跳楼自杀",
+        "onboard_time": 1694092598,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148145,
+        "num": 134093,
+        "word": "周杰伦灵魂粉",
+        "onboard_time": 1694128589,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131362,
+        "num": 131362,
+        "word": "深圳遭暴雨突袭地铁站进水",
+        "onboard_time": 1694127868,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127494,
+        "num": 127494,
+        "word": "上海治安很好 手表还在",
+        "onboard_time": 1694120114,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124098,
+        "num": 124098,
+        "word": "浙江一村被曝出现上千条眼镜蛇",
+        "onboard_time": 1694082156,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115201,
+        "num": 115201,
+        "word": "韩国娱乐公司内部食堂菜品",
+        "onboard_time": 1694086358,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108363,
+        "num": 108363,
+        "word": "冒犯民族感情该不该入罪入罚",
+        "onboard_time": 1694127986,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105116,
+        "num": 105116,
+        "word": "深圳多地暴雨升级为橙色预警",
+        "onboard_time": 1694105426,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102914,
+        "num": 102914,
+        "word": "猫妈妈上门看望被领养的小猫咪",
+        "onboard_time": 1694099379,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101680,
+        "num": 101680,
+        "word": "深圳水库",
+        "onboard_time": 1694104586,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99343,
+        "num": 99343,
+        "word": "瑞幸将再向茅台采购飞天茅台酒",
+        "onboard_time": 1694086358,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96813,
+        "num": 96813,
+        "word": "深圳暴雨",
+        "onboard_time": 1694092057,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96504,
+        "num": 96504,
+        "word": "林志颖车祸后首露脸部伤疤",
+        "onboard_time": 1694073757,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91626,
+        "num": 91626,
+        "word": "方沐又被盛阳截胡了",
+        "onboard_time": 1694127022,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90756,
+        "num": 90756,
+        "word": "一档综艺总决赛集齐半个娱乐圈",
+        "onboard_time": 1694108240,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83486,
+        "num": 83486,
+        "word": "陈翔做声带手术",
+        "onboard_time": 1694088758,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82635,
+        "num": 82635,
+        "word": "广州地铁",
+        "onboard_time": 1694128349,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72245,
+        "num": 72245,
+        "word": "深圳全市暴雨戒备状态",
+        "onboard_time": 1694098118,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71900,
+        "num": 71900,
+        "word": "华为mate60和iPhone15选哪个",
+        "onboard_time": 1694076817,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 61707,
+        "num": 69325,
+        "word": "霍楠徐静雨对线",
+        "onboard_time": 1694106683,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江考察#"
+    }
+  }
+}

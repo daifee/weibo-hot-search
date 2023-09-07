@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694126034137,
+  "endTime": 1694128599363,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -17,6 +17,14 @@
       "onboard_time": 1694099439,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1394856,
+      "num": 500307,
+      "word": "9岁女孩称发私密视频是为交朋友",
+      "onboard_time": 1694105307,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1171488,
@@ -48,14 +56,6 @@
       "word": "日本核污染水已排海6100吨",
       "onboard_time": 1694098720,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771072,
-      "num": 464945,
-      "word": "9岁女孩称发私密视频是为交朋友",
-      "onboard_time": 1694105307,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430790,
+      "num": 430790,
+      "word": "深圳地铁",
+      "onboard_time": 1694124318,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394679,
       "num": 292487,
       "word": "龚俊二闹周杰伦演唱会",
@@ -203,6 +211,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294715,
+      "num": 294715,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 289012,
+      "num": 289012,
+      "word": "脱口秀演员称城市越穷事越多",
+      "onboard_time": 1694113755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282939,
       "num": 282939,
       "word": "七时吉祥",
@@ -267,8 +291,16 @@
       "category": "其它"
     },
     {
+      "raw_hot": 216079,
+      "num": 158795,
+      "word": "为什么很多人买了车不开",
+      "onboard_time": 1694093919,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200007,
-      "num": 232497,
+      "num": 256800,
       "word": "年收入10万元以下个人基本不缴个税",
       "onboard_time": 1694084080,
       "rank": 29,
@@ -323,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171755,
+      "num": 157474,
+      "word": "小时候以为杨紫说的工作满大街都是",
+      "onboard_time": 1694092837,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167405,
       "num": 167405,
       "word": "倪妮把8块钱的围裙穿这么好看",
@@ -347,20 +387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158946,
+      "num": 158946,
+      "word": "Twins听到古巨基儿子唱歌反应",
+      "onboard_time": 1694126723,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156795,
       "num": 156795,
       "word": "宫尚角角色魅力爆表的一段",
       "onboard_time": 1694102255,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154911,
-      "num": 154911,
-      "word": "脱口秀演员称城市越穷事越多",
-      "onboard_time": 1694113755,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151212,
@@ -379,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149835,
+      "num": 149835,
+      "word": "盛阳妈妈远比想象中了解孩子",
+      "onboard_time": 1694100579,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149186,
       "num": 149186,
       "word": "让领导认为你不堪重用的摆件",
@@ -387,12 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148569,
-      "num": 148569,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 148145,
+      "num": 134093,
+      "word": "周杰伦灵魂粉",
+      "onboard_time": 1694128589,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 148105,
@@ -427,36 +475,68 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135121,
-      "num": 135121,
-      "word": "为什么很多人买了车不开",
-      "onboard_time": 1694093919,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 135959,
+      "num": 135959,
+      "word": "这才是男女对唱的天花板",
+      "onboard_time": 1694126180,
+      "rank": 29,
+      "category": "音乐"
     },
     {
-      "raw_hot": 128587,
-      "num": 128587,
-      "word": "盛阳妈妈远比想象中了解孩子",
-      "onboard_time": 1694100579,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 107107,
-      "num": 107107,
-      "word": "深圳地铁",
-      "onboard_time": 1694124318,
-      "rank": 36,
+      "raw_hot": 131362,
+      "num": 131362,
+      "word": "深圳遭暴雨突袭地铁站进水",
+      "onboard_time": 1694127868,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92901,
-      "num": 66363,
+      "raw_hot": 127494,
+      "num": 127494,
       "word": "上海治安很好 手表还在",
       "onboard_time": 1694120114,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108363,
+      "num": 108363,
+      "word": "冒犯民族感情该不该入罪入罚",
+      "onboard_time": 1694127986,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91626,
+      "num": 91626,
+      "word": "方沐又被盛阳截胡了",
+      "onboard_time": 1694127022,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 90756,
+      "num": 90756,
+      "word": "一档综艺总决赛集齐半个娱乐圈",
+      "onboard_time": 1694108240,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83486,
+      "num": 83486,
+      "word": "陈翔做声带手术",
+      "onboard_time": 1694088758,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82635,
+      "num": 82635,
+      "word": "广州地铁",
+      "onboard_time": 1694128349,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81342,
@@ -483,22 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71800,
-      "num": 71800,
-      "word": "小时候以为杨紫说的工作满大街都是",
-      "onboard_time": 1694092837,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 67033,
-      "num": 67033,
-      "word": "一档综艺总决赛集齐半个娱乐圈",
-      "onboard_time": 1694108240,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 51163,
       "num": 50071,
       "word": "大鹏 与警察同志拍照好紧张",
@@ -513,14 +577,6 @@
       "onboard_time": 1694108840,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 46081,
-      "num": 48790,
-      "word": "陈翔做声带手术",
-      "onboard_time": 1694088758,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 36829,
