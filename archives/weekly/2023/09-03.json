@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694124939763,
+  "endTime": 1694126034137,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -2267,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771072,
+      "num": 464945,
+      "word": "9岁女孩称发私密视频是为交朋友",
+      "onboard_time": 1694105307,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770884,
       "num": 770884,
       "word": "女子穿汉服拍照被认作日本服饰驱赶",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1694084677,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 753693,
-      "num": 464945,
-      "word": "9岁女孩称发私密视频是为交朋友",
-      "onboard_time": 1694105307,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752241,
@@ -11467,6 +11467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154911,
+      "num": 154911,
+      "word": "脱口秀演员称城市越穷事越多",
+      "onboard_time": 1694113755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154584,
       "num": 154584,
       "word": "阿森纳3比1曼联",
@@ -11641,6 +11649,14 @@
       "onboard_time": 1693909057,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 148569,
+      "num": 148569,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 148429,
@@ -11961,14 +11977,6 @@
       "onboard_time": 1693822292,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136277,
-      "num": 103826,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 135396,
@@ -12323,14 +12331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109352,
-      "num": 109352,
-      "word": "脱口秀演员称城市越穷事越多",
-      "onboard_time": 1694113755,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109062,
       "num": 109062,
       "word": "人下意识的举动能说明很多信息",
@@ -12361,6 +12361,14 @@
       "onboard_time": 1693675406,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107107,
+      "num": 107107,
+      "word": "深圳地铁",
+      "onboard_time": 1694124318,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106791,
@@ -12505,6 +12513,14 @@
       "onboard_time": 1693768394,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92901,
+      "num": 66363,
+      "word": "上海治安很好 手表还在",
+      "onboard_time": 1694120114,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 92766,
@@ -12715,14 +12731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80356,
-      "num": 48210,
-      "word": "上海治安很好 手表还在",
-      "onboard_time": 1694120114,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 79893,
       "num": 79893,
       "word": "霍楠徐静雨对线",
@@ -12843,6 +12851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67033,
+      "num": 67033,
+      "word": "一档综艺总决赛集齐半个娱乐圈",
+      "onboard_time": 1694108240,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66237,
       "num": 137509,
       "word": "美媒称华为推出新机引发华盛顿担忧",
@@ -12889,14 +12905,6 @@
       "onboard_time": 1693762760,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64237,
-      "num": 64237,
-      "word": "一档综艺总决赛集齐半个娱乐圈",
-      "onboard_time": 1694108240,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 63987,
@@ -13145,14 +13153,6 @@
       "onboard_time": 1693935738,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41109,
-      "num": 41109,
-      "word": "深圳地铁",
-      "onboard_time": 1694124318,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40063,

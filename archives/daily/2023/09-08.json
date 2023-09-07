@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694124939763,
+  "endTime": 1694126034137,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -51,19 +51,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771072,
+      "num": 464945,
+      "word": "9岁女孩称发私密视频是为交朋友",
+      "onboard_time": 1694105307,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755023,
       "num": 755023,
       "word": "广州暴雨",
       "onboard_time": 1694101001,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753693,
-      "num": 464945,
-      "word": "9岁女孩称发私密视频是为交朋友",
-      "onboard_time": 1694105307,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154911,
+      "num": 154911,
+      "word": "脱口秀演员称城市越穷事越多",
+      "onboard_time": 1694113755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151212,
       "num": 151212,
       "word": "尾鱼 西出玉门",
@@ -377,6 +385,14 @@
       "onboard_time": 1694094160,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148569,
+      "num": 148569,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 148105,
@@ -403,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136277,
-      "num": 103826,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136269,
       "num": 136269,
       "word": "林志颖车祸后首露脸部伤疤",
@@ -435,12 +443,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109352,
-      "num": 109352,
-      "word": "脱口秀演员称城市越穷事越多",
-      "onboard_time": 1694113755,
-      "rank": 6,
+      "raw_hot": 107107,
+      "num": 107107,
+      "word": "深圳地铁",
+      "onboard_time": 1694124318,
+      "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92901,
+      "num": 66363,
+      "word": "上海治安很好 手表还在",
+      "onboard_time": 1694120114,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 81342,
@@ -449,14 +465,6 @@
       "onboard_time": 1694106444,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 80356,
-      "num": 48210,
-      "word": "上海治安很好 手表还在",
-      "onboard_time": 1694120114,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 79893,
@@ -475,8 +483,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64237,
-      "num": 64237,
+      "raw_hot": 71800,
+      "num": 71800,
+      "word": "小时候以为杨紫说的工作满大街都是",
+      "onboard_time": 1694092837,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 67033,
+      "num": 67033,
       "word": "一档综艺总决赛集齐半个娱乐圈",
       "onboard_time": 1694108240,
       "rank": 25,
@@ -499,23 +515,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 45489,
-      "num": 48777,
-      "word": "小时候以为杨紫说的工作满大街都是",
-      "onboard_time": 1694092837,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 41109,
-      "num": 41109,
-      "word": "深圳地铁",
-      "onboard_time": 1694124318,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41027,
+      "raw_hot": 46081,
       "num": 48790,
       "word": "陈翔做声带手术",
       "onboard_time": 1694088758,
