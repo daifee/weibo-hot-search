@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/07 12:34:52
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/07 13:15:33
 </p>
 </blockquote>
 <p>
@@ -957,6 +957,12 @@ JonyJ举行婚礼（热度：1450905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
+教育局回应小学教师打伤学生头骨（热度：1413066）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%80%E5%91%A8%E5%85%AD%E5%A4%A9%E9%83%BD%E5%9C%A8%E6%99%AE%E6%8B%89%E6%8F%90%23" target="weibo">
 张碧晨一周六天都在普拉提（热度：1409029）
 </a>
@@ -1265,6 +1271,12 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%96%B0%E5%89%A7%E6%BC%94%E5%88%98%E4%BA%A6%E8%8F%B2%E5%89%8D%E5%A4%AB%23" target="weibo">
 林更新新剧演刘亦菲前夫（热度：1126979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E6%88%91%E4%B8%8D%E8%BD%BB%E6%98%93%E5%92%8C%E5%88%AB%E4%BA%BA%E5%90%83%E9%A5%AD%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+汪苏泷 我不轻易和别人吃饭的原因（热度：1111818）
 </a>
 </li>
 
@@ -2907,12 +2919,6 @@ iPhone15新款手机壳曝光（热度：648123）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E6%88%91%E4%B8%8D%E8%BD%BB%E6%98%93%E5%92%8C%E5%88%AB%E4%BA%BA%E5%90%83%E9%A5%AD%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-汪苏泷 我不轻易和别人吃饭的原因（热度：647967）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A7%91%E5%A8%98%E5%B8%B8%E7%86%AC%E5%A4%9C%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23" target="weibo">
 19岁姑娘常熬夜确诊甲状腺癌（热度：647610）
 </a>
@@ -4311,6 +4317,12 @@ JYP大楼天花板破了漏水中（热度：511295）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%8F%AE%E7%91%B6%E7%9C%BC%E7%9D%9B%E5%A5%BD%E4%BC%9A%E6%92%A9%23" target="weibo">
+姜珮瑶眼睛好会撩（热度：482191）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%BA%E8%83%A1%E6%AD%8C%E6%96%B0%E7%89%87%E6%89%93call%23" target="weibo">
 刘诗诗霍建华为胡歌新片打call（热度：481298）
 </a>
@@ -4697,6 +4709,12 @@ JYP大楼天花板破了漏水中（热度：511295）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E6%B7%B1%E5%A4%9C%E5%8F%91%E7%8E%B0%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%85%A5%E5%AE%A4%E5%8F%8A%E6%97%B6%E6%8A%A4%E4%B8%BB%23" target="weibo">
 猫咪深夜发现陌生男子入室及时护主（热度：449822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%82%9F%E7%A9%BA%20%E4%BC%91%E5%BE%97%E6%97%A0%E7%A4%BC%23" target="weibo">
+悟空 休得无礼（热度：449470）
 </a>
 </li>
 
@@ -5511,12 +5529,6 @@ Angelababy草原走红毯（热度：393133）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%8F%AE%E7%91%B6%E7%9C%BC%E7%9D%9B%E5%A5%BD%E4%BC%9A%E6%92%A9%23" target="weibo">
-姜珮瑶眼睛好会撩（热度：376932）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%9A%E7%9F%A5%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BA%86%E5%90%97%23" target="weibo">
 汪苏泷演唱会通知王鹤棣了吗（热度：376801）
 </a>
@@ -5565,6 +5577,12 @@ Angelababy草原走红毯（热度：393133）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
+长沙一小学男教师打伤学生头骨（热度：373820）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%8D%9C%E5%86%A0%E4%BB%8A%E6%96%B0%E5%89%A7%E4%B8%80%E7%89%A9%E9%99%8D%E4%B8%80%E7%89%A9%23" target="weibo">
 白百何卜冠今新剧一物降一物（热度：373113）
 </a>
@@ -5591,12 +5609,6 @@ Angelababy草原走红毯（热度：393133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E6%B8%AF%E4%B9%90%E5%AD%A32%E6%8B%9F%E9%82%80%E9%98%B5%E5%AE%B9%23" target="weibo">
 声生不息港乐季2拟邀阵容（热度：371878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%82%9F%E7%A9%BA%20%E4%BC%91%E5%BE%97%E6%97%A0%E7%A4%BC%23" target="weibo">
-悟空 休得无礼（热度：371368）
 </a>
 </li>
 
@@ -5681,12 +5693,6 @@ HYBE新女团出道名单（热度：371082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E5%8E%A6%E9%97%A8%E4%B8%A4%E5%9C%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
 福州厦门两地发布暴雨红色预警（热度：366797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
-教育局回应小学教师打伤学生头骨（热度：366760）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ i人无痛装e教程（热度：362321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8D%A2%E6%98%B1%E6%99%93%E4%B8%80%E8%B5%B7%E8%B7%B3%E6%89%8B%E5%8A%BF%E8%88%9E%23" target="weibo">
 虞书欣卢昱晓一起跳手势舞（热度：341509）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%BB%86%E8%8A%82%23" target="weibo">
-逃出大英博物馆细节（热度：340623）
 </a>
 </li>
 
