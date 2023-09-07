@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694060396525,
+  "endTime": 1694061292442,
   "band_list": [
     {
       "raw_hot": 2676591,
@@ -9,6 +9,14 @@
       "onboard_time": 1694054016,
       "rank": 40,
       "category": "社会议题,艺人"
+    },
+    {
+      "raw_hot": 2674278,
+      "num": 2674278,
+      "word": "iPhone15价格你能接受吗",
+      "onboard_time": 1694057135,
+      "rank": 30,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 2653767,
@@ -33,14 +41,6 @@
       "onboard_time": 1694047118,
       "rank": 10,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 1779591,
-      "num": 1779591,
-      "word": "iPhone15价格你能接受吗",
-      "onboard_time": 1694057135,
-      "rank": 30,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 1746169,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813973,
+      "num": 813973,
+      "word": "印媒担心巴基斯坦更名叫印度",
+      "onboard_time": 1694059114,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 808633,
       "num": 808633,
       "word": "杨丽萍回应舞蹈大尺度设置",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 791852,
-      "num": 339209,
+      "num": 343568,
       "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
       "onboard_time": 1694011836,
       "rank": 20,
@@ -203,6 +211,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 647967,
+      "num": 508518,
+      "word": "汪苏泷 我不轻易和别人吃饭的原因",
+      "onboard_time": 1694060858,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640905,
       "num": 640905,
       "word": "演肖战的同事是一种什么样的体验",
@@ -217,6 +233,14 @@
       "onboard_time": 1694045556,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 621442,
+      "num": 621442,
+      "word": "狐妖小红娘面具还原度百分百",
+      "onboard_time": 1694056173,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 617374,
@@ -257,14 +281,6 @@
       "onboard_time": 1694047476,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 585299,
-      "num": 585299,
-      "word": "狐妖小红娘面具还原度百分百",
-      "onboard_time": 1694056173,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 564853,
@@ -363,14 +379,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 499554,
-      "num": 499554,
-      "word": "印媒担心巴基斯坦更名叫印度",
-      "onboard_time": 1694059114,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494697,
       "num": 494697,
       "word": "EXO 安踏",
@@ -393,6 +401,14 @@
       "onboard_time": 1694014417,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 479774,
+      "num": 479774,
+      "word": "关于我在韩国公交车站钓鱼这件事",
+      "onboard_time": 1694057974,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 466688,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414269,
+      "num": 372711,
+      "word": "以为健康其实并不健康的食品",
+      "onboard_time": 1694057495,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 411990,
       "num": 411990,
       "word": "iPhone15国行售价曝光",
@@ -491,27 +515,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 393623,
-      "num": 370425,
-      "word": "以为健康其实并不健康的食品",
-      "onboard_time": 1694057495,
-      "rank": 42,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 392714,
-      "num": 392714,
-      "word": "关于我在韩国公交车站钓鱼这件事",
-      "onboard_time": 1694057974,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 390641,
       "num": 390641,
       "word": "姬发被饕餮追逐的戏拍了两三个月",
       "onboard_time": 1694054494,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 376932,
+      "num": 376932,
+      "word": "姜珮瑶眼睛好会撩",
+      "onboard_time": 1694060077,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -531,12 +547,36 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 371368,
+      "num": 371368,
+      "word": "悟空 休得无礼",
+      "onboard_time": 1694059836,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 366760,
+      "num": 481554,
+      "word": "教育局回应小学教师打伤学生头骨",
+      "onboard_time": 1694060678,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360815,
       "num": 360815,
       "word": "25岁存款多少才算正常",
       "onboard_time": 1694055875,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 345151,
+      "num": 345151,
+      "word": "实习结束才发现单位有猫",
+      "onboard_time": 1694060378,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 342675,
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 337472,
-      "num": 294944,
+      "num": 315912,
       "word": "感觉像是周迅会做的事",
       "onboard_time": 1694058332,
       "rank": 30,
@@ -843,20 +883,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219542,
+      "num": 219542,
+      "word": "西出玉门今晚开播",
+      "onboard_time": 1694060919,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217766,
       "num": 217766,
       "word": "熊猫生气什么样",
       "onboard_time": 1694049516,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210603,
-      "num": 210603,
-      "word": "姜珮瑶眼睛好会撩",
-      "onboard_time": 1694060077,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 208265,
@@ -915,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188895,
+      "num": 188895,
+      "word": "张凌赫秒变虞书欣夸夸群群主",
+      "onboard_time": 1694059297,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188393,
       "num": 517085,
       "word": "周扬青获雅诗兰黛集团投资",
@@ -931,12 +979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186039,
-      "num": 186039,
-      "word": "悟空 休得无礼",
-      "onboard_time": 1694059836,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 185279,
+      "num": 185279,
+      "word": "这周日是教师节",
+      "onboard_time": 1694060497,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 184568,
@@ -961,22 +1009,6 @@
       "onboard_time": 1694013397,
       "rank": 35,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 180506,
-      "num": 180506,
-      "word": "张凌赫秒变虞书欣夸夸群群主",
-      "onboard_time": 1694059297,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 180308,
-      "num": 180308,
-      "word": "实习结束才发现单位有猫",
-      "onboard_time": 1694060378,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 177865,
@@ -1227,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89247,
+      "num": 480322,
+      "word": "奶奶忘带定位器外出爷爷5次出门寻找",
+      "onboard_time": 1694059897,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86013,
       "num": 86013,
       "word": "4岁萌娃走失完整写下爸爸手机号",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1694024896,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24356,
-      "num": 419555,
-      "word": "奶奶忘带定位器外出爷爷5次出门寻找",
-      "onboard_time": 1694059897,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23177,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694061292442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2674278,
+        "num": 2674278,
+        "word": "iPhone15价格你能接受吗",
+        "onboard_time": 1694057135,
+        "rank": 0,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1550531,
+        "num": 1550531,
+        "word": "2022届本科生平均月收入5990元",
+        "onboard_time": 1694053653,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 53852,
+        "num": 1378341,
+        "word": "一带一路上的中国工程师",
+        "onboard_time": 1694058694,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264328,
+        "num": 1264328,
+        "word": "瑞幸为什么不直接倒茅台酒",
+        "onboard_time": 1694047118,
+        "rank": 3,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 813973,
+        "num": 813973,
+        "word": "印媒担心巴基斯坦更名叫印度",
+        "onboard_time": 1694059114,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644602,
+        "num": 644602,
+        "word": "女子穿汉服拍照被认作日本服饰驱赶",
+        "onboard_time": 1694051732,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629878,
+        "num": 629878,
+        "word": "演肖战的同事是一种什么样的体验",
+        "onboard_time": 1694059358,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621442,
+        "num": 621442,
+        "word": "狐妖小红娘面具还原度百分百",
+        "onboard_time": 1694056173,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570632,
+        "num": 570632,
+        "word": "iPhone信号太差或将解决",
+        "onboard_time": 1694049097,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 525545,
+        "num": 525545,
+        "word": "遇到这样的男同桌高低暗恋三年",
+        "onboard_time": 1694053293,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2531383,
+        "num": 510089,
+        "word": "劣迹艺人的历史作品还能不能收看",
+        "onboard_time": 1694054016,
+        "rank": 10,
+        "category": "社会议题,艺人"
+      },
+      {
+        "raw_hot": 647967,
+        "num": 508518,
+        "word": "汪苏泷 我不轻易和别人吃饭的原因",
+        "onboard_time": 1694060858,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488890,
+        "num": 488890,
+        "word": "广州二胎宝妈将50平住出90平效果",
+        "onboard_time": 1694055219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366760,
+        "num": 481554,
+        "word": "教育局回应小学教师打伤学生头骨",
+        "onboard_time": 1694060678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89247,
+        "num": 480322,
+        "word": "奶奶忘带定位器外出爷爷5次出门寻找",
+        "onboard_time": 1694059897,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479774,
+        "num": 479774,
+        "word": "关于我在韩国公交车站钓鱼这件事",
+        "onboard_time": 1694057974,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 476570,
+        "num": 476570,
+        "word": "河南拿快递失踪女孩遗体被找到",
+        "onboard_time": 1694042849,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435878,
+        "num": 435878,
+        "word": "杨丽萍回应舞蹈大尺度设置",
+        "onboard_time": 1694047780,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376932,
+        "num": 376932,
+        "word": "姜珮瑶眼睛好会撩",
+        "onboard_time": 1694060077,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374434,
+        "num": 374434,
+        "word": "四川工商学院通报公开播放劣迹艺人视频",
+        "onboard_time": 1694051253,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564124,
+        "num": 373057,
+        "word": "杨紫 不要自卑要自信",
+        "onboard_time": 1694056234,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414269,
+        "num": 372711,
+        "word": "以为健康其实并不健康的食品",
+        "onboard_time": 1694057495,
+        "rank": 21,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 387694,
+        "num": 372639,
+        "word": "正在消失又很难买到的水果",
+        "onboard_time": 1694046757,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 371368,
+        "num": 371368,
+        "word": "悟空 休得无礼",
+        "onboard_time": 1694059836,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371031,
+        "num": 371031,
+        "word": "一个班里两个炸裂的名字",
+        "onboard_time": 1694054494,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345151,
+        "num": 345151,
+        "word": "实习结束才发现单位有猫",
+        "onboard_time": 1694060378,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343568,
+        "num": 343568,
+        "word": "女子痛经空腹吃布洛芬晕厥裹民警棉被休息",
+        "onboard_time": 1694011836,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342557,
+        "num": 342557,
+        "word": "宝石老舅和大鹏一条路走到黑",
+        "onboard_time": 1694058634,
+        "rank": 27,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 331675,
+        "num": 331675,
+        "word": "原来易烊千玺早就剧透新电影了",
+        "onboard_time": 1694054554,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318535,
+        "num": 318535,
+        "word": "赵丽颖时装男士九月封面",
+        "onboard_time": 1694054313,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315912,
+        "num": 315912,
+        "word": "感觉像是周迅会做的事",
+        "onboard_time": 1694058332,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300191,
+        "num": 300191,
+        "word": "考研和考编同时上岸选哪个",
+        "onboard_time": 1694043869,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 296433,
+        "num": 296433,
+        "word": "医学硕士毕业先用另一种方式救人",
+        "onboard_time": 1694057915,
+        "rank": 32,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 285335,
+        "num": 285335,
+        "word": "假性亲密关系",
+        "onboard_time": 1694046035,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278032,
+        "num": 278032,
+        "word": "A股",
+        "onboard_time": 1694057017,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273407,
+        "num": 273407,
+        "word": "白百何最有cp感的男主",
+        "onboard_time": 1694054016,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242660,
+        "num": 242660,
+        "word": "苹果市值一夜蒸发1062亿美元",
+        "onboard_time": 1694046698,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 240078,
+        "num": 240078,
+        "word": "周也新片抱的是真老鼠",
+        "onboard_time": 1694056775,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240007,
+        "num": 240007,
+        "word": "这就是芬兰的儿童教育",
+        "onboard_time": 1694055817,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233614,
+        "num": 233614,
+        "word": "金毛假装不经意地舔了宝宝一口",
+        "onboard_time": 1694047540,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219542,
+        "num": 219542,
+        "word": "西出玉门今晚开播",
+        "onboard_time": 1694060919,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210842,
+        "num": 210842,
+        "word": "周杰伦天津演唱会打卡点刷新了",
+        "onboard_time": 1694056234,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208014,
+        "num": 208014,
+        "word": "莫斯科行动首支长预告",
+        "onboard_time": 1694058995,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196124,
+        "num": 196124,
+        "word": "姬发被饕餮追逐的戏拍了两三个月",
+        "onboard_time": 1694054494,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188895,
+        "num": 188895,
+        "word": "张凌赫秒变虞书欣夸夸群群主",
+        "onboard_time": 1694059297,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187613,
+        "num": 187613,
+        "word": "男朋友嗦完后的鸡爪子",
+        "onboard_time": 1694045075,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185279,
+        "num": 185279,
+        "word": "这周日是教师节",
+        "onboard_time": 1694060497,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 183948,
+        "num": 183948,
+        "word": "iPad的生产力比你想象的要大",
+        "onboard_time": 1694045737,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172114,
+        "num": 172114,
+        "word": "儿子送妈妈上学反复叮嘱",
+        "onboard_time": 1694054851,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163798,
+        "num": 163798,
+        "word": "新加坡地铁果然是中国造的",
+        "onboard_time": 1694052635,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设绿色丝绸之路和数字丝绸之路#"
+    }
+  }
+}
