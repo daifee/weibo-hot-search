@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694049034552,
+  "endTime": 1694050262010,
   "band_list": [
     {
       "raw_hot": 2363682,
@@ -11,8 +11,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1895587,
-      "num": 451605,
+      "raw_hot": 2308374,
+      "num": 2308374,
       "word": "瑞幸为什么不直接倒茅台酒",
       "onboard_time": 1694047118,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779038,
+      "num": 779038,
+      "word": "杨丽萍回应舞蹈大尺度设置",
+      "onboard_time": 1694047780,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755593,
       "num": 317060,
       "word": "正在消失又很难买到的水果",
@@ -115,6 +123,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 641093,
+      "num": 277924,
+      "word": "iPhone信号太差或将解决",
+      "onboard_time": 1694049097,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 634855,
+      "num": 634855,
+      "word": "预制菜进校园",
+      "onboard_time": 1694045556,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 617374,
       "num": 617374,
       "word": "虞书欣做了八百个综艺效果",
@@ -131,28 +155,12 @@
       "category": "情感,美食"
     },
     {
-      "raw_hot": 608504,
-      "num": 608504,
-      "word": "预制菜进校园",
-      "onboard_time": 1694045556,
-      "rank": 5,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 593781,
       "num": 593781,
       "word": "450万是很大一笔钱了",
       "onboard_time": 1693995218,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589811,
-      "num": 589811,
-      "word": "杨丽萍回应舞蹈大尺度设置",
-      "onboard_time": 1694047780,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 588959,
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434059,
+      "num": 434059,
+      "word": "父母坚持每周给女儿拍一张照片",
+      "onboard_time": 1694047837,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433827,
       "num": 261721,
       "word": "两岁的小朋友已经有自己的过山车了",
@@ -315,20 +331,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 407492,
+      "num": 407492,
+      "word": "福州一车主将爱车装入塑料袋防水",
+      "onboard_time": 1694044293,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406381,
       "num": 314388,
       "word": "第一次见这么肥的乌龟",
       "onboard_time": 1694045916,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 405154,
-      "num": 405154,
-      "word": "福州一车主将爱车装入塑料袋防水",
-      "onboard_time": 1694044293,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342675,
@@ -379,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 314004,
-      "num": 314004,
-      "word": "父母坚持每周给女儿拍一张照片",
-      "onboard_time": 1694047837,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298332,
       "num": 298332,
       "word": "杨幂央视中秋晚会",
@@ -403,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291435,
+      "num": 380216,
+      "word": "小学生捡10万个空瓶卖了献爱心",
+      "onboard_time": 1694043451,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 289545,
       "num": 289545,
       "word": "JonyJ举行婚礼",
       "onboard_time": 1694001335,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288401,
-      "num": 378453,
-      "word": "小学生捡10万个空瓶卖了献爱心",
-      "onboard_time": 1694043451,
-      "rank": 14,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 286248,
@@ -449,6 +457,14 @@
       "onboard_time": 1694012920,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 285705,
+      "num": 268348,
+      "word": "家里有必要安装蹲厕吗",
+      "onboard_time": 1694049455,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 282642,
@@ -547,6 +563,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201870,
+      "num": 201870,
+      "word": "酒店最喜欢嘉哥这样的顾客",
+      "onboard_time": 1694049455,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199739,
+      "num": 199739,
+      "word": "熊猫生气什么样",
+      "onboard_time": 1694049516,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198461,
       "num": 198461,
       "word": "不愧是考公大省",
@@ -611,6 +643,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 173070,
+      "num": 173070,
+      "word": "一只撞在玻璃上撞晕的隼",
+      "onboard_time": 1694049455,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171904,
       "num": 171904,
       "word": "酱香拿铁已经火到韩国了",
@@ -641,6 +681,14 @@
       "onboard_time": 1694015256,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152215,
+      "num": 152215,
+      "word": "8类人群应及时接种流感疫苗",
+      "onboard_time": 1694049934,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151721,
@@ -689,6 +737,14 @@
       "onboard_time": 1694042969,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139986,
+      "num": 139986,
+      "word": "将地铁判官捧成榜样是在粉饰暴力",
+      "onboard_time": 1694050113,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139936,
@@ -796,7 +852,7 @@
     },
     {
       "raw_hot": 85905,
-      "num": 1339689,
+      "num": 1464356,
       "word": "原来航天员在太空是这样练腿的",
       "onboard_time": 1694002356,
       "rank": 2,
