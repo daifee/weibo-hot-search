@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694117837044,
+  "endTime": 1694118877761,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -12803,6 +12803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72289,
+      "num": 72289,
+      "word": "脱口秀演员称城市越穷事越多",
+      "onboard_time": 1694113755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70108,
       "num": 226402,
       "word": "雅万高铁开通运行",
@@ -12936,14 +12944,6 @@
       "word": "小伙9年走50城为万名老人免费照相",
       "onboard_time": 1693890101,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56272,
-      "num": 56272,
-      "word": "脱口秀演员称城市越穷事越多",
-      "onboard_time": 1694113755,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -13339,20 +13339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26283,
+      "num": 27466,
+      "word": "第一次坐阿联酋航空攻略",
+      "onboard_time": 1694113035,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 25997,
       "num": 25997,
       "word": "父亲接站退役儿子被单手抱起",
       "onboard_time": 1693692856,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25814,
-      "num": 27466,
-      "word": "第一次坐阿联酋航空攻略",
-      "onboard_time": 1694113035,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 24831,
