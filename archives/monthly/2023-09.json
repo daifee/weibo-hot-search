@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694093669303,
+  "endTime": 1694096142458,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -57,6 +57,14 @@
       "onboard_time": 1693822897,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 4152047,
+      "num": 433967,
+      "word": "虞书欣 阿云嘎老师对不起",
+      "onboard_time": 1694094938,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 3986050,
@@ -1427,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1359997,
+      "num": 1359997,
+      "word": "深圳暴雨",
+      "onboard_time": 1694092057,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1359114,
       "num": 1359114,
       "word": "特斯拉Model3",
@@ -2067,6 +2083,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 1015815,
+      "num": 256020,
+      "word": "洛阳一大学生杀害同学后跳楼自杀",
+      "onboard_time": 1694092598,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014155,
       "num": 1014155,
       "word": "BLACKPINK QQ音乐",
@@ -2665,14 +2689,6 @@
       "onboard_time": 1693914936,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 866815,
-      "num": 866815,
-      "word": "深圳暴雨",
-      "onboard_time": 1694092057,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865742,
@@ -3731,6 +3747,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 689869,
+      "num": 302133,
+      "word": "檀健次李佳琦直播",
+      "onboard_time": 1694094637,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687501,
       "num": 687501,
       "word": "承欢记真抠",
@@ -4657,14 +4681,6 @@
       "onboard_time": 1693806578,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 597446,
-      "num": 238138,
-      "word": "洛阳一大学生杀害同学后跳楼自杀",
-      "onboard_time": 1694092598,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597099,
@@ -5947,6 +5963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493350,
+      "num": 299809,
+      "word": "公职人员被儿子举报出轨停职",
+      "onboard_time": 1694094462,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492805,
       "num": 492805,
       "word": "一个台风刚登陆另一个台风又来了",
@@ -6561,6 +6585,14 @@
       "onboard_time": 1694003077,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 455100,
+      "num": 288285,
+      "word": "龙岗 内涝",
+      "onboard_time": 1694094878,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454986,
@@ -7459,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401216,
+      "num": 281612,
+      "word": "倪妮把8块钱的围裙穿这么好看",
+      "onboard_time": 1694094219,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401210,
       "num": 401210,
       "word": "于适追猪",
@@ -7504,6 +7544,14 @@
       "word": "王一博给三贵情史包了4场",
       "onboard_time": 1693875338,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 398893,
+      "num": 398893,
+      "word": "陈都灵西出玉门剧照",
+      "onboard_time": 1694085576,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -7553,6 +7601,14 @@
       "onboard_time": 1693625796,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 393445,
+      "num": 255941,
+      "word": "让领导认为你不堪重用的摆件",
+      "onboard_time": 1694094160,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 393333,
@@ -7657,6 +7713,14 @@
       "onboard_time": 1693560280,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388159,
+      "num": 255668,
+      "word": "虞书欣赐梦录制花絮vlog",
+      "onboard_time": 1694094938,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 386414,
@@ -8065,6 +8129,14 @@
       "onboard_time": 1693636352,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 367397,
+      "num": 279869,
+      "word": "小时候以为杨紫说的工作满大街都是",
+      "onboard_time": 1694092837,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 366797,
@@ -8587,6 +8659,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 338583,
+      "num": 273964,
+      "word": "为什么很多人买了车不开",
+      "onboard_time": 1694093919,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338574,
       "num": 338574,
       "word": "这部剧的受众到底是谁",
@@ -8665,14 +8745,6 @@
       "onboard_time": 1693923400,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334213,
-      "num": 334213,
-      "word": "陈都灵西出玉门剧照",
-      "onboard_time": 1694085576,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 334204,
@@ -10419,6 +10491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268499,
+      "num": 268499,
+      "word": "云为衫宫子羽牵手成功",
+      "onboard_time": 1694094637,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268086,
       "num": 223395,
       "word": "晨起一杯水你喝对了吗",
@@ -10521,14 +10601,6 @@
       "onboard_time": 1693839760,
       "rank": 32,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 263892,
-      "num": 263892,
-      "word": "小时候以为杨紫说的工作满大街都是",
-      "onboard_time": 1694092837,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 263779,
@@ -11785,6 +11857,14 @@
       "onboard_time": 1693909117,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231592,
+      "num": 231592,
+      "word": "C罗在葡萄牙队发布会被问到和梅西的竞争",
+      "onboard_time": 1694095600,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 231458,
@@ -13281,6 +13361,14 @@
       "onboard_time": 1693961139,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201612,
+      "num": 201612,
+      "word": "农行卡状态异常",
+      "onboard_time": 1694095779,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 201448,
@@ -16331,6 +16419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143304,
+      "num": 143304,
+      "word": "当导师对你的信息了如指掌时",
+      "onboard_time": 1694093919,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142990,
       "num": 142990,
       "word": "大人感不如松弛感",
@@ -16377,6 +16473,14 @@
       "onboard_time": 1693932028,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 142371,
+      "num": 131294,
+      "word": "清融去看周杰伦演唱会了",
+      "onboard_time": 1694093919,
+      "rank": 49,
+      "category": "游戏,音乐"
     },
     {
       "raw_hot": 142160,
@@ -16536,6 +16640,14 @@
       "word": "全盲男生说上天关的门是自己破出来的",
       "onboard_time": 1693621053,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136656,
+      "num": 136656,
+      "word": "兵哥哥从10余米高桥上跳水救人",
+      "onboard_time": 1694094820,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -17555,6 +17667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 82981,
+      "num": 1169918,
+      "word": "首艘国产大型邮轮开启新试航",
+      "onboard_time": 1694089960,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82769,
       "num": 371965,
       "word": "被刺伤后他忍痛将碎尸案逃犯制服",
@@ -17601,14 +17721,6 @@
       "onboard_time": 1693910974,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 78887,
-      "num": 1169918,
-      "word": "首艘国产大型邮轮开启新试航",
-      "onboard_time": 1694089960,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78448,
@@ -18577,6 +18689,14 @@
       "onboard_time": 1693648832,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18645,
+      "num": 426193,
+      "word": "退伍军人坚守海边1年救起63人",
+      "onboard_time": 1694095299,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18202,
