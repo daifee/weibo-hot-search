@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694090912732,
+  "endTime": 1694092815820,
   "band_list": [
     {
       "raw_hot": 2676591,
@@ -91,6 +91,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1673523,
+      "num": 1673523,
+      "word": "日上崩了",
+      "onboard_time": 1694089304,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1626125,
       "num": 1626125,
       "word": "年收入10万元以下个人基本不缴个税",
@@ -179,6 +187,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1141478,
+      "num": 330375,
+      "word": "儿子教便秘妈妈水龙头灌肠致肠穿孔",
+      "onboard_time": 1694089608,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138075,
       "num": 1138075,
       "word": "真的讨厌二三十块叫一杯奶茶钱",
@@ -243,12 +259,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 945648,
-      "num": 330375,
-      "word": "儿子教便秘妈妈水龙头灌肠致肠穿孔",
-      "onboard_time": 1694089608,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 926445,
+      "num": 926445,
+      "word": "王楚钦2比3田中佑汰",
+      "onboard_time": 1694091817,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 897786,
@@ -273,14 +289,6 @@
       "onboard_time": 1694047540,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 848192,
-      "num": 848192,
-      "word": "日上崩了",
-      "onboard_time": 1694089304,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 820400,
@@ -377,6 +385,14 @@
       "onboard_time": 1694019863,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720544,
+      "num": 720544,
+      "word": "库迪 五常大米",
+      "onboard_time": 1694089130,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 696592,
@@ -531,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576305,
+      "num": 518502,
+      "word": "成毅直播",
+      "onboard_time": 1694090259,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564853,
       "num": 564853,
       "word": "新加坡地铁果然是中国造的",
@@ -643,14 +667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 525975,
-      "num": 525975,
-      "word": "库迪 五常大米",
-      "onboard_time": 1694089130,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 523120,
       "num": 523120,
       "word": "华为mate60和iPhone15选哪个",
@@ -707,6 +723,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 502570,
+      "num": 502570,
+      "word": "巴奴赔付顾客835.4万",
+      "onboard_time": 1694091636,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500402,
       "num": 500402,
       "word": "华为 天通卫星",
@@ -736,6 +760,14 @@
       "word": "姜珮瑶眼睛好会撩",
       "onboard_time": 1694060077,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 482025,
+      "num": 482025,
+      "word": "无名的身份",
+      "onboard_time": 1694090314,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1059,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343345,
+      "num": 343345,
+      "word": "深圳暴雨",
+      "onboard_time": 1694092057,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342675,
       "num": 342675,
       "word": "宫尚角坠入爱河了",
@@ -1083,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335700,
-      "num": 335700,
-      "word": "成毅直播",
-      "onboard_time": 1694090259,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334213,
       "num": 334213,
       "word": "陈都灵西出玉门剧照",
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 330421,
-      "num": 246416,
+      "num": 247906,
       "word": "只要被摸一下头就开始喜欢人类",
       "onboard_time": 1694078558,
       "rank": 30,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1694057017,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 329824,
+      "num": 329824,
+      "word": "巴奴创始人致歉",
+      "onboard_time": 1694091938,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326513,
@@ -1379,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270036,
+      "num": 270036,
+      "word": "胡歌吴磊女团舞flag",
+      "onboard_time": 1694090856,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269783,
       "num": 269783,
       "word": "Loopy阴阳怪气表情包",
@@ -1443,20 +1491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249168,
+      "num": 249168,
+      "word": "小伙一边抗癌一边骑行30000公里环游世界",
+      "onboard_time": 1694091696,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248480,
       "num": 248480,
       "word": "金球奖候选名单",
       "onboard_time": 1694041766,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247977,
-      "num": 247977,
-      "word": "无名的身份",
-      "onboard_time": 1694090314,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 246842,
@@ -1667,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205833,
+      "num": 212722,
+      "word": "刘同 你总觉得自己不幸福",
+      "onboard_time": 1694090078,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204676,
       "num": 204676,
       "word": "东山纪之继任杰尼斯社长",
@@ -1747,14 +1803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199038,
-      "num": 199038,
-      "word": "刘同 你总觉得自己不幸福",
-      "onboard_time": 1694090078,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198702,
       "num": 198702,
       "word": "48岁阿姨再高考考上大学学中医",
@@ -1788,7 +1836,7 @@
     },
     {
       "raw_hot": 195690,
-      "num": 195690,
+      "num": 212647,
       "word": "周杰伦天津演唱会",
       "onboard_time": 1694080295,
       "rank": 32,
@@ -1863,6 +1911,14 @@
       "num": 187890,
       "word": "坚如磐石",
       "onboard_time": 1694077418,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187601,
+      "num": 212706,
+      "word": "哈尔滨一九四四伪预告",
+      "onboard_time": 1694092358,
       "rank": 37,
       "category": "影视"
     },
@@ -2011,6 +2067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165122,
+      "num": 212679,
+      "word": "伤心凉粉好吃哭了",
+      "onboard_time": 1694089896,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164741,
       "num": 386022,
       "word": "爸爸嘱咐女儿学不进去就多吃点",
@@ -2060,11 +2124,19 @@
     },
     {
       "raw_hot": 158994,
-      "num": 158994,
+      "num": 212578,
       "word": "你的下一个泡脚桶何必是桶",
       "onboard_time": 1694085576,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158723,
+      "num": 212662,
+      "word": "洛阳一大学生杀害同学后跳楼自杀",
+      "onboard_time": 1694092598,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158603,
@@ -2137,6 +2209,14 @@
       "onboard_time": 1694009562,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151026,
+      "num": 212653,
+      "word": "白宇西出玉门老年妆",
+      "onboard_time": 1694091760,
+      "rank": 42,
+      "category": "影视,美妆"
     },
     {
       "raw_hot": 149335,
@@ -2243,20 +2323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135193,
+      "num": 212633,
+      "word": "封神第一部连线",
+      "onboard_time": 1694092716,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132784,
       "num": 132784,
       "word": "消防员出警小姐姐忙问费用咋支付",
       "onboard_time": 1694085758,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131994,
-      "num": 131994,
-      "word": "伤心凉粉好吃哭了",
-      "onboard_time": 1694089896,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 131123,
@@ -2283,12 +2363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128965,
-      "num": 128965,
-      "word": "胡歌吴磊女团舞flag",
-      "onboard_time": 1694090856,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 126574,
+      "num": 212600,
+      "word": "乌冬面的隐藏吃法",
+      "onboard_time": 1694092297,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 121030,
@@ -2419,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77339,
+      "num": 1169918,
+      "word": "首艘国产大型邮轮开启新试航",
+      "onboard_time": 1694089960,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76397,
       "num": 1722975,
       "word": "直击杭州亚运会",
@@ -2464,6 +2552,14 @@
       "word": "一带一路上的中国工程师",
       "onboard_time": 1694058694,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53814,
+      "num": 483566,
+      "word": "男子被洪水冲走店主一把拽回",
+      "onboard_time": 1694091696,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2521,14 +2617,6 @@
       "onboard_time": 1694004698,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31300,
-      "num": 999794,
-      "word": "首艘国产大型邮轮开启新试航",
-      "onboard_time": 1694089960,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27876,
