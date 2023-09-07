@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694114002745,
+  "endTime": 1694115234473,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136277,
+      "num": 63652,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136269,
       "num": 136269,
       "word": "林志颖车祸后首露脸部伤疤",
@@ -425,14 +433,6 @@
       "onboard_time": 1694100579,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 104127,
-      "num": 63652,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 81342,
@@ -467,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51163,
+      "num": 50071,
+      "word": "大鹏 与警察同志拍照好紧张",
+      "onboard_time": 1694111716,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47064,
       "num": 48828,
       "word": "金泰亨solo",
       "onboard_time": 1694108840,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 43317,
-      "num": 43317,
-      "word": "大鹏 与警察同志拍照好紧张",
-      "onboard_time": 1694111716,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 41027,
@@ -513,6 +513,14 @@
       "onboard_time": 1694111659,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25556,
+      "num": 25556,
+      "word": "第一次坐阿联酋航空攻略",
+      "onboard_time": 1694113035,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 24831,

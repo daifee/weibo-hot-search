@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694114002745,
+  "endTime": 1694115234473,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -11963,6 +11963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136277,
+      "num": 63652,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135396,
       "num": 192386,
       "word": "魏翔新片预告一个笑点都没",
@@ -12393,14 +12401,6 @@
       "onboard_time": 1694017111,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104127,
-      "num": 63652,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 101107,
@@ -12995,6 +12995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51163,
+      "num": 50071,
+      "word": "大鹏 与警察同志拍照好紧张",
+      "onboard_time": 1694111716,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 51127,
       "num": 51127,
       "word": "罗杰夫认证林志颖泰国人气",
@@ -13065,14 +13073,6 @@
       "onboard_time": 1693683196,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 43317,
-      "num": 43317,
-      "word": "大鹏 与警察同志拍照好紧张",
-      "onboard_time": 1694111716,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 43267,
@@ -13337,6 +13337,14 @@
       "onboard_time": 1693692856,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25556,
+      "num": 25556,
+      "word": "第一次坐阿联酋航空攻略",
+      "onboard_time": 1694113035,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 24831,
