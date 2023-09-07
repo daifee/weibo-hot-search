@@ -1,7 +1,15 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694057634447,
+  "endTime": 1694060396525,
   "band_list": [
+    {
+      "raw_hot": 2676591,
+      "num": 553126,
+      "word": "劣迹艺人的历史作品还能不能收看",
+      "onboard_time": 1694054016,
+      "rank": 40,
+      "category": "社会议题,艺人"
+    },
     {
       "raw_hot": 2653767,
       "num": 2653767,
@@ -9,14 +17,6 @@
       "onboard_time": 1694053653,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2436829,
-      "num": 553126,
-      "word": "劣迹艺人的历史作品还能不能收看",
-      "onboard_time": 1694054016,
-      "rank": 40,
-      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 2363682,
@@ -33,6 +33,14 @@
       "onboard_time": 1694047118,
       "rank": 10,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 1779591,
+      "num": 1779591,
+      "word": "iPhone15价格你能接受吗",
+      "onboard_time": 1694057135,
+      "rank": 30,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 1746169,
@@ -195,6 +203,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 640905,
+      "num": 640905,
+      "word": "演肖战的同事是一种什么样的体验",
+      "onboard_time": 1694059358,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 634855,
       "num": 634855,
       "word": "预制菜进校园",
@@ -243,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 585299,
+      "num": 585299,
+      "word": "狐妖小红娘面具还原度百分百",
+      "onboard_time": 1694056173,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 564853,
       "num": 564853,
       "word": "新加坡地铁果然是中国造的",
@@ -272,6 +296,14 @@
       "word": "手机自动转账女子冲进派出所",
       "onboard_time": 1694041587,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552415,
+      "num": 552415,
+      "word": "广州二胎宝妈将50平住出90平效果",
+      "onboard_time": 1694055219,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -331,6 +363,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 499554,
+      "num": 499554,
+      "word": "印媒担心巴基斯坦更名叫印度",
+      "onboard_time": 1694059114,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494697,
       "num": 494697,
       "word": "EXO 安踏",
@@ -387,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451018,
-      "num": 451018,
-      "word": "广州二胎宝妈将50平住出90平效果",
-      "onboard_time": 1694055219,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433827,
       "num": 261721,
       "word": "两岁的小朋友已经有自己的过山车了",
@@ -411,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 429986,
+      "num": 384293,
+      "word": "一个班里两个炸裂的名字",
+      "onboard_time": 1694054494,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 425772,
       "num": 314238,
       "word": "金毛假装不经意地舔了宝宝一口",
@@ -425,14 +465,6 @@
       "onboard_time": 1694013821,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414906,
-      "num": 384293,
-      "word": "一个班里两个炸裂的名字",
-      "onboard_time": 1694054494,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 411990,
@@ -459,19 +491,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393623,
+      "num": 370425,
+      "word": "以为健康其实并不健康的食品",
+      "onboard_time": 1694057495,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 392714,
+      "num": 392714,
+      "word": "关于我在韩国公交车站钓鱼这件事",
+      "onboard_time": 1694057974,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390641,
       "num": 390641,
       "word": "姬发被饕餮追逐的戏拍了两三个月",
       "onboard_time": 1694054494,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 374114,
-      "num": 374114,
-      "word": "狐妖小红娘面具还原度百分百",
-      "onboard_time": 1694056173,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -481,6 +521,14 @@
       "onboard_time": 1694052755,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372256,
+      "num": 372256,
+      "word": "宝石老舅和大鹏一条路走到黑",
+      "onboard_time": 1694058634,
+      "rank": 18,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 360815,
@@ -499,12 +547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337472,
+      "num": 294944,
+      "word": "感觉像是周迅会做的事",
+      "onboard_time": 1694058332,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333615,
       "num": 333615,
       "word": "曾舜晞竟然提前上线了",
       "onboard_time": 1694042849,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329934,
+      "num": 329934,
+      "word": "A股",
+      "onboard_time": 1694057017,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 326513,
@@ -539,12 +603,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 317576,
-      "num": 317576,
-      "word": "A股",
-      "onboard_time": 1694057017,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 318107,
+      "num": 318107,
+      "word": "医学硕士毕业先用另一种方式救人",
+      "onboard_time": 1694057915,
+      "rank": 27,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 317246,
@@ -683,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264069,
-      "num": 264069,
-      "word": "iPhone15价格你能接受吗",
-      "onboard_time": 1694057135,
-      "rank": 30,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 261996,
       "num": 261996,
       "word": "杨幂穿旗袍好美",
@@ -721,6 +777,14 @@
       "onboard_time": 1694041766,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246842,
+      "num": 246842,
+      "word": "莫斯科行动首支长预告",
+      "onboard_time": 1694058995,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 244258,
@@ -787,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210603,
+      "num": 210603,
+      "word": "姜珮瑶眼睛好会撩",
+      "onboard_time": 1694060077,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208265,
       "num": 208265,
       "word": "宫尚角上官浅的纯爱战歌",
@@ -843,11 +915,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188393,
+      "num": 517085,
+      "word": "周扬青获雅诗兰黛集团投资",
+      "onboard_time": 1694056417,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186445,
       "num": 186445,
       "word": "猫猫虽年龄不大但工作能力强",
       "onboard_time": 1694014836,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186039,
+      "num": 186039,
+      "word": "悟空 休得无礼",
+      "onboard_time": 1694059836,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -873,6 +961,22 @@
       "onboard_time": 1694013397,
       "rank": 35,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 180506,
+      "num": 180506,
+      "word": "张凌赫秒变虞书欣夸夸群群主",
+      "onboard_time": 1694059297,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180308,
+      "num": 180308,
+      "word": "实习结束才发现单位有猫",
+      "onboard_time": 1694060378,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 177865,
@@ -929,14 +1033,6 @@
       "onboard_time": 1694053892,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166259,
-      "num": 166259,
-      "word": "以为健康其实并不健康的食品",
-      "onboard_time": 1694057495,
-      "rank": 42,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 163161,
@@ -1016,14 +1112,6 @@
       "word": "这下谁还分得清爱豆和伴舞",
       "onboard_time": 1694013277,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148434,
-      "num": 517085,
-      "word": "周扬青获雅诗兰黛集团投资",
-      "onboard_time": 1694056417,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1187,6 +1275,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 54780,
+      "num": 1476401,
+      "word": "一带一路上的中国工程师",
+      "onboard_time": 1694058694,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50680,
       "num": 50680,
       "word": "不要吝啬爱意的表达",
@@ -1251,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24356,
+      "num": 419555,
+      "word": "奶奶忘带定位器外出爷爷5次出门寻找",
+      "onboard_time": 1694059897,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23177,
       "num": 41518,
       "word": "微博开学季",
@@ -1305,6 +1409,9 @@
     },
     {
       "word": "#人道主义是能够凝聚不同文明的最大共识#"
+    },
+    {
+      "word": "#加快建设绿色丝绸之路和数字丝绸之路#"
     }
   ]
 }
