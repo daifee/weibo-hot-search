@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/07 00:22:08 ~ 2023/09/07 16:34:25
+本榜单时间：2023/09/07 00:22:08 ~ 2023/09/07 17:16:46
 </p>
 </blockquote>
 <p>
@@ -123,6 +123,12 @@ iPhone信号太差或将解决（热度：1716894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
+教育局通报小学教师打伤学生头骨（热度：1094999）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%9D%9A%E6%8C%81%E6%AF%8F%E5%91%A8%E7%BB%99%E5%A5%B3%E5%84%BF%E6%8B%8D%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%23" target="weibo">
 父母坚持每周给女儿拍一张照片（热度：1077546）
 </a>
@@ -149,6 +155,12 @@ iPhone信号太差或将解决（热度：1716894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%A9%BF%E7%9D%A1%E8%A1%A3%E5%87%BA%E9%97%A8%E8%A2%AB%E5%98%B2%E7%AC%91%E4%BA%86%23" target="weibo">
 在韩国穿睡衣出门被嘲笑了（热度：894286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E7%AB%8B%E6%8E%A5%E4%BA%86%E9%99%88%E9%81%93%E6%98%8E%E5%A9%89%E6%8B%92%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
+张国立接了陈道明婉拒的角色（热度：876254）
 </a>
 </li>
 
@@ -339,6 +351,12 @@ C罗说和梅西的竞争结束了（热度：557732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1%23" target="weibo">
+警方通报洛阳理工学院学生死亡（热度：551960）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%84%82%E4%BA%8B%E5%8D%8A%E5%8A%9F%E5%80%8D%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B%23" target="weibo">
 减脂事半功倍的三件事（热度：551559）
 </a>
@@ -383,6 +401,18 @@ C罗说和梅西的竞争结束了（热度：557732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%97%B6%E8%A3%85%E7%94%B7%E5%A3%AB%E4%B9%9D%E6%9C%88%E5%B0%81%E9%9D%A2%23" target="weibo">
 赵丽颖时装男士九月封面（热度：517046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E6%96%B0%E7%96%86%E8%99%B9%E9%B3%9F%23" target="weibo">
+关于新疆虹鳟（热度：516151）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%83%B8%E5%8F%A3%E8%97%8F16%E5%8F%AA%E6%B4%BB%E8%9C%A5%E8%9C%B4%E5%85%A5%E5%A2%83%23" target="weibo">
+女子胸口藏16只活蜥蜴入境（热度：515180）
 </a>
 </li>
 
@@ -447,12 +477,6 @@ EXO 安踏（热度：494697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%83%B8%E5%8F%A3%E8%97%8F16%E5%8F%AA%E6%B4%BB%E8%9C%A5%E8%9C%B4%E5%85%A5%E5%A2%83%23" target="weibo">
-女子胸口藏16只活蜥蜴入境（热度：465729）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E4%B8%AA%E5%AD%A6%E5%81%9A%E4%BA%8613%E9%81%8D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%23" target="weibo">
 开个学做了13遍自我介绍（热度：463147）
 </a>
@@ -479,6 +503,18 @@ EXO 安踏（热度：494697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
 长沙一小学男教师打伤学生头骨（热度：446315）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAmate60%E5%92%8CiPhone15%E9%80%89%E5%93%AA%E4%B8%AA%23" target="weibo">
+华为mate60和iPhone15选哪个（热度：443768）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9B%B8%E6%9F%B3%E5%92%8C%E5%AE%AB%E5%AD%90%E7%BE%BD%E8%B5%B0%E7%9A%84%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%98%B6%23" target="weibo">
+原来相柳和宫子羽走的是一个台阶（热度：434186）
 </a>
 </li>
 
@@ -537,6 +573,18 @@ iPhone15国行售价曝光（热度：411990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E5%89%B2%E9%9F%AD%E8%8F%9C%23" target="weibo">
+冯宝宝被割韭菜（热度：410173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E5%A5%B9%E4%BB%A5%E7%AC%AC%E4%B8%80%E5%90%8D%E8%80%83%E4%B8%8A%E4%BA%86%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
+患抑郁症的她以第一名考上了研究生（热度：408377）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%B0%86%E7%88%B1%E8%BD%A6%E8%A3%85%E5%85%A5%E5%A1%91%E6%96%99%E8%A2%8B%E9%98%B2%E6%B0%B4%23" target="weibo">
 福州一车主将爱车装入塑料袋防水（热度：407492）
 </a>
@@ -557,6 +605,12 @@ iPhone15国行售价曝光（热度：411990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%AC%E5%8F%91%E8%A2%AB%E9%A5%95%E9%A4%AE%E8%BF%BD%E9%80%90%E7%9A%84%E6%88%8F%E6%8B%8D%E4%BA%86%E4%B8%A4%E4%B8%89%E4%B8%AA%E6%9C%88%23" target="weibo">
 姬发被饕餮追逐的戏拍了两三个月（热度：390641）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%AF%B4%E5%92%8CDoinb%E4%BA%92%E4%B8%BA%E5%93%A5%E5%93%A5%23" target="weibo">
+罗云熙说和Doinb互为哥哥（热度：375319）
 </a>
 </li>
 
@@ -627,6 +681,12 @@ iPhone15国行售价曝光（热度：411990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E9%AB%98%E6%83%85%E5%95%86%E5%9B%9E%E5%A4%8D%E4%BA%86%23" target="weibo">
+终于学会高情商回复了（热度：333393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
 A股（热度：329934）
 </a>
@@ -677,6 +737,12 @@ A股（热度：329934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%96%B0%E7%89%87%E6%8A%B1%E7%9A%84%E6%98%AF%E7%9C%9F%E8%80%81%E9%BC%A0%23" target="weibo">
 周也新片抱的是真老鼠（热度：309625）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E8%8E%B7%E5%BE%97%E4%BA%86%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%9C%80%E5%A4%9A%E4%B8%AA%E6%9C%80%23" target="weibo">
+胡兵获得了披荆斩棘最多个最（热度：305812）
 </a>
 </li>
 
@@ -777,6 +843,12 @@ JonyJ举行婚礼（热度：289545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E7%9A%84%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA%23" target="weibo">
+张艺谋说于和伟的反派角色胜过高启强（热度：265498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8C%AB%E8%83%96%E7%9A%84%E8%BF%9B%E4%B8%8D%E5%8E%BB%E7%AA%9D%E7%AA%9D%E4%BA%86%23" target="weibo">
 猫猫胖的进不去窝窝了（热度：264648）
 </a>
@@ -843,6 +915,12 @@ JonyJ举行婚礼（热度：289545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E6%96%B0%E5%89%A7%E6%80%95%E4%B8%8D%E6%98%AF%E5%B0%8F%E9%AD%94%E4%BB%99%E5%90%A7%23" target="weibo">
+彭昱畅新剧怕不是小魔仙吧（热度：239188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7%23" target="weibo">
 杨丽萍新舞再被批尺度大（热度：238898）
 </a>
@@ -891,12 +969,6 @@ JonyJ举行婚礼（热度：289545）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E5%A5%B9%E4%BB%A5%E7%AC%AC%E4%B8%80%E5%90%8D%E8%80%83%E4%B8%8A%E4%BA%86%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
-患抑郁症的她以第一名考上了研究生（热度：222121）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%87%BA%E7%8E%89%E9%97%A8%E4%BB%8A%E6%99%9A%E5%BC%80%E6%92%AD%23" target="weibo">
 西出玉门今晚开播（热度：219542）
 </a>
@@ -927,8 +999,26 @@ JonyJ举行婚礼（热度：289545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%B8%A4%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1%23" target="weibo">
+警方通报洛阳理工学院两学生死亡（热度：212173）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23NCT%E6%97%A5%E6%9C%AC%E9%98%9F%23" target="weibo">
 NCT日本队（热度：209401）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E4%B8%BB%E5%8A%9B%E5%87%BA%E6%88%98WTT%E5%85%B0%E5%B7%9E%E7%AB%99%23" target="weibo">
+国乒全主力出战WTT兰州站（热度：209161）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%840%E5%85%83%E5%9C%A8%E6%89%93%E6%88%91%E7%9A%8413000%23" target="weibo">
+我的0元在打我的13000（热度：208955）
 </a>
 </li>
 
@@ -1023,12 +1113,6 @@ NCT日本队（热度：209401）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E7%AB%8B%E6%8E%A5%E4%BA%86%E9%99%88%E9%81%93%E6%98%8E%E5%A9%89%E6%8B%92%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
-张国立接了陈道明婉拒的角色（热度：191756）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%941%E5%BE%90%E5%AD%9D%E5%85%83%23" target="weibo">
 王曼昱3比1徐孝元（热度：191551）
 </a>
@@ -1043,6 +1127,12 @@ NCT日本队（热度：209401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E8%8E%B7%E9%9B%85%E8%AF%97%E5%85%B0%E9%BB%9B%E9%9B%86%E5%9B%A2%E6%8A%95%E8%B5%84%23" target="weibo">
 周扬青获雅诗兰黛集团投资（热度：188393）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%23" target="weibo">
+坚如磐石（热度：187890）
 </a>
 </li>
 
@@ -1109,12 +1199,6 @@ NCT日本队（热度：209401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B4%8E%E9%AA%8F%E6%96%B0%E7%89%87%E9%A6%96%E5%8F%91%E9%A2%84%E5%91%8A%23" target="weibo">
 宫崎骏新片首发预告（热度：176774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
-教育局通报小学教师打伤学生头骨（热度：175527）
 </a>
 </li>
 
@@ -1385,6 +1469,12 @@ C罗晒照备战欧预赛（热度：90145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E7%9A%84%E6%95%8F%E6%84%9F%E5%BA%A6%E4%B8%8D%E6%98%AF%E4%B8%80%E8%88%AC%E4%BA%BA%E8%83%BD%E6%AF%94%E7%9A%84%23" target="weibo">
 作家的敏感度不是一般人能比的（热度：83238）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%98%B1%E5%92%90%E5%A5%B3%E5%84%BF%E5%AD%A6%E4%B8%8D%E8%BF%9B%E5%8E%BB%E5%B0%B1%E5%A4%9A%E5%90%83%E7%82%B9%23" target="weibo">
+爸爸嘱咐女儿学不进去就多吃点（热度：81487）
 </a>
 </li>
 
