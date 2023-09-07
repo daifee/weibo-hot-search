@@ -1,6 +1,6 @@
 {
   "startTime": 1694017328303,
-  "endTime": 1694099846890,
+  "endTime": 1694100844034,
   "band_list": [
     {
       "raw_hot": 4152047,
@@ -81,6 +81,14 @@
       "onboard_time": 1694073757,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1865735,
+      "num": 1865735,
+      "word": "内蒙古发生高压气体喷出事故致9死3伤",
+      "onboard_time": 1694099620,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1746169,
@@ -291,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 969189,
+      "num": 969189,
+      "word": "被困横店后我成了所有男主的白月光",
+      "onboard_time": 1694098601,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 950031,
       "num": 950031,
       "word": "胡锡进持仓近50万元",
@@ -329,6 +345,22 @@
       "onboard_time": 1694047540,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 869457,
+      "num": 869457,
+      "word": "檀健次直播穿了防风被",
+      "onboard_time": 1694098961,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 822709,
+      "num": 822709,
+      "word": "日本核污染水已排海6100吨",
+      "onboard_time": 1694098720,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 820400,
@@ -387,6 +419,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 777550,
+      "num": 777550,
+      "word": "人民日报评肖战演技",
+      "onboard_time": 1694099980,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770884,
       "num": 770884,
       "word": "女子穿汉服拍照被认作日本服饰驱赶",
@@ -419,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734506,
+      "num": 734506,
+      "word": "长期不吃晚餐真的会瘦吗",
+      "onboard_time": 1694099439,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 728540,
       "num": 728540,
       "word": "巴奴称羊肉卷确实含有鸭肉成份",
@@ -441,14 +489,6 @@
       "onboard_time": 1694089130,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 697080,
-      "num": 697080,
-      "word": "被困横店后我成了所有男主的白月光",
-      "onboard_time": 1694098601,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 696592,
@@ -489,14 +529,6 @@
       "onboard_time": 1694070033,
       "rank": 16,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 676865,
-      "num": 676865,
-      "word": "檀健次直播穿了防风被",
-      "onboard_time": 1694098961,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 655071,
@@ -795,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517490,
+      "num": 240221,
+      "word": "新郎和新娘不在一个图层",
+      "onboard_time": 1694099620,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517046,
       "num": 517046,
       "word": "赵丽颖时装男士九月封面",
@@ -816,6 +856,14 @@
       "word": "让领导认为你不堪重用的摆件",
       "onboard_time": 1694094160,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 508757,
+      "num": 508757,
+      "word": "原来只有晕车的人才闻得到异味",
+      "onboard_time": 1694099379,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -939,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 458534,
-      "num": 458534,
-      "word": "日本核污染水已排海6100吨",
-      "onboard_time": 1694098720,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455100,
       "num": 342195,
       "word": "龙岗 内涝",
@@ -968,6 +1008,14 @@
       "word": "云之羽热度破爱奇艺24集剧集记录",
       "onboard_time": 1694044352,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 453790,
+      "num": 453790,
+      "word": "莲花楼",
+      "onboard_time": 1694099261,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1163,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382970,
-      "num": 273783,
-      "word": "内蒙古发生高压气体喷出事故致9死3伤",
-      "onboard_time": 1694099620,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380351,
       "num": 380351,
       "word": "巴奴创始人致歉",
@@ -1256,14 +1296,6 @@
       "word": "为什么很多人买了车不开",
       "onboard_time": 1694093919,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 348509,
-      "num": 348509,
-      "word": "长期不吃晚餐真的会瘦吗",
-      "onboard_time": 1694099439,
-      "rank": 17,
       "category": "情感"
     },
     {
@@ -1459,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299669,
+      "num": 299669,
+      "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
+      "onboard_time": 1694099980,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298332,
       "num": 298332,
       "word": "杨幂央视中秋晚会",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1694001335,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289419,
-      "num": 289419,
-      "word": "莲花楼",
-      "onboard_time": 1694099261,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 288353,
@@ -1601,14 +1633,6 @@
       "onboard_time": 1694063679,
       "rank": 49,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 279382,
-      "num": 279382,
-      "word": "原来只有晕车的人才闻得到异味",
-      "onboard_time": 1694099379,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 276058,
@@ -1715,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252283,
+      "num": 252283,
+      "word": "桂花",
+      "onboard_time": 1694100161,
+      "rank": 28,
+      "category": "其它"
+    },
+    {
       "raw_hot": 249168,
       "num": 249168,
       "word": "小伙一边抗癌一边骑行30000公里环游世界",
@@ -1752,6 +1784,14 @@
       "word": "当妈妈描述我不可思议的睡眠质量",
       "onboard_time": 1694045916,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242177,
+      "num": 242177,
+      "word": "白露",
+      "onboard_time": 1694100340,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -1867,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219418,
+      "num": 219418,
+      "word": "桂花壁纸 招财",
+      "onboard_time": 1694100637,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219204,
       "num": 219204,
       "word": "张艺谋现身坚如磐石发布会",
@@ -1915,12 +1963,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211688,
-      "num": 211688,
-      "word": "新郎和新娘不在一个图层",
-      "onboard_time": 1694099620,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 211472,
+      "num": 211472,
+      "word": "七时吉祥",
+      "onboard_time": 1694100520,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 209401,
@@ -1961,6 +2009,14 @@
       "onboard_time": 1694004276,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206739,
+      "num": 206739,
+      "word": "盛阳妈妈远比想象中了解孩子",
+      "onboard_time": 1694100579,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 205833,
@@ -2201,6 +2257,14 @@
       "onboard_time": 1694072433,
       "rank": 15,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 186467,
+      "num": 186467,
+      "word": "Somi和小娟challenge",
+      "onboard_time": 1694100761,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 186445,
@@ -2931,20 +2995,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26590,
+      "num": 218836,
+      "word": "科学家称短期内AI难让人实现永生",
+      "onboard_time": 1694098839,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23177,
       "num": 41518,
       "word": "微博开学季",
       "onboard_time": 1694023877,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 21071,
-      "num": 218836,
-      "word": "科学家称短期内AI难让人实现永生",
-      "onboard_time": 1694098839,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20803,
