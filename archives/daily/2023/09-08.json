@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694118877761,
+  "endTime": 1694121275582,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -521,6 +521,14 @@
       "onboard_time": 1694111659,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29545,
+      "num": 26891,
+      "word": "上海治安很好 手表还在",
+      "onboard_time": 1694120114,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 26283,
