@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694082923847,
+  "endTime": 1694085262688,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -1595,12 +1595,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1205046,
+      "num": 1205046,
+      "word": "致学生受伤老师涉嫌故意伤害罪被刑拘",
+      "onboard_time": 1694082815,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1203535,
       "num": 1203535,
       "word": "男子称怒砸10杯酱香拿铁不是因奶油太丑",
       "onboard_time": 1693929036,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201536,
+      "num": 1201536,
+      "word": "维密天使 众神回归",
+      "onboard_time": 1694083056,
+      "rank": 5,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1197337,
@@ -4019,6 +4035,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 646058,
+      "num": 578153,
+      "word": "浙江一村被曝出现上千条眼镜蛇",
+      "onboard_time": 1694082156,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643239,
       "num": 374744,
       "word": "虞书欣鲨鱼夹",
@@ -4691,14 +4715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578153,
-      "num": 578153,
-      "word": "浙江一村被曝出现上千条眼镜蛇",
-      "onboard_time": 1694082156,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577965,
       "num": 577965,
       "word": "薛之谦广州演唱会",
@@ -4713,6 +4729,14 @@
       "onboard_time": 1693653817,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 575272,
+      "num": 575272,
+      "word": "李佳琦直播",
+      "onboard_time": 1694083837,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 573694,
@@ -4745,6 +4769,14 @@
       "onboard_time": 1693630534,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 570509,
+      "num": 570509,
+      "word": "年收入10万元以下个人基本不缴个税",
+      "onboard_time": 1694084080,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570326,
@@ -4785,6 +4817,14 @@
       "onboard_time": 1693881876,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 567314,
+      "num": 567314,
+      "word": "倪妮好飒",
+      "onboard_time": 1694084677,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 566743,
@@ -5425,6 +5465,14 @@
       "onboard_time": 1693918836,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 523120,
+      "num": 523120,
+      "word": "华为mate60和iPhone15选哪个",
+      "onboard_time": 1694076817,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 521960,
@@ -6459,14 +6507,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 452382,
-      "num": 347403,
-      "word": "华为mate60和iPhone15选哪个",
-      "onboard_time": 1694076817,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 452089,
       "num": 433686,
       "word": "金靖模仿虞书欣哇哦",
@@ -6985,6 +7025,14 @@
       "onboard_time": 1693557637,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418802,
+      "num": 418802,
+      "word": "不好意思 老娘振翅开场",
+      "onboard_time": 1694083418,
+      "rank": 17,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 418189,
@@ -8011,6 +8059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356595,
+      "num": 356595,
+      "word": "卢昱晓ccd直出",
+      "onboard_time": 1694083357,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 356425,
       "num": 356425,
       "word": "与凤行预约人数突破300万",
@@ -8587,6 +8643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328668,
+      "num": 328668,
+      "word": "国企董事长扎小人报复举报人",
+      "onboard_time": 1694083720,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328286,
       "num": 328286,
       "word": "宫子羽 牛高马大",
@@ -9049,6 +9113,14 @@
       "onboard_time": 1693702953,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310633,
+      "num": 310633,
+      "word": "S13抽签仪式",
+      "onboard_time": 1694082517,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 309625,
@@ -9929,14 +10001,6 @@
       "onboard_time": 1693989935,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277384,
-      "num": 191274,
-      "word": "S13抽签仪式",
-      "onboard_time": 1694082517,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 277323,
@@ -13579,6 +13643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194373,
+      "num": 1064247,
+      "word": "老人干农活手臂受伤流血交警急送医",
+      "onboard_time": 1694081977,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194209,
       "num": 194209,
       "word": "张子枫VOGUE梦境实境大片",
@@ -14995,14 +15067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167085,
-      "num": 167085,
-      "word": "致学生受伤老师涉嫌故意伤害罪被刑拘",
-      "onboard_time": 1694082815,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166994,
       "num": 166994,
       "word": "封神哪吒精心为妈妈准备礼物",
@@ -15280,14 +15344,6 @@
       "word": "等了27年终于圆梦的笑有多感人",
       "onboard_time": 1693787679,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161624,
-      "num": 1059796,
-      "word": "老人干农活手臂受伤流血交警急送医",
-      "onboard_time": 1694081977,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -16499,6 +16555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 120447,
+      "num": 120447,
+      "word": "林高远王艺迪混双晋级决赛",
+      "onboard_time": 1694082996,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120223,
       "num": 120223,
       "word": "王耀庆一公个人喜爱度第一",
@@ -16529,6 +16593,14 @@
       "onboard_time": 1693988376,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118605,
+      "num": 118605,
+      "word": "Loopy阴阳怪气表情包",
+      "onboard_time": 1694085157,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 118545,
@@ -16577,6 +16649,14 @@
       "onboard_time": 1693930772,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117062,
+      "num": 117062,
+      "word": "梦泪沉浸式结婚",
+      "onboard_time": 1694085157,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 116071,
@@ -17984,6 +18064,14 @@
       "word": "开学第一课",
       "onboard_time": 1693494037,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26464,
+      "num": 538774,
+      "word": "西迁老教授成为大体老师奉献终生",
+      "onboard_time": 1694084496,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

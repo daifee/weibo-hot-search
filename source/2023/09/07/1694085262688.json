@@ -1,0 +1,410 @@
+{
+  "runTime": 1694085262688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263288,
+        "num": 1263288,
+        "word": "警方通报洛阳理工学院学生死亡",
+        "onboard_time": 1694077116,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310470,
+        "num": 1209248,
+        "word": "90后给女儿做40片花瓣仙女裙",
+        "onboard_time": 1694073034,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52987,
+        "num": 1205678,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205046,
+        "num": 1205046,
+        "word": "致学生受伤老师涉嫌故意伤害罪被刑拘",
+        "onboard_time": 1694082815,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254300,
+        "num": 1201907,
+        "word": "大熊猫现在流行拿孔雀毛当时尚单品了",
+        "onboard_time": 1694071955,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1201536,
+        "num": 1201536,
+        "word": "维密天使 众神回归",
+        "onboard_time": 1694083056,
+        "rank": 5,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 194373,
+        "num": 1064247,
+        "word": "老人干农活手臂受伤流血交警急送医",
+        "onboard_time": 1694081977,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058757,
+        "num": 1058757,
+        "word": "何穗 天使",
+        "onboard_time": 1694080295,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 765371,
+        "num": 765371,
+        "word": "被老师打破头骨女生已清醒",
+        "onboard_time": 1694078855,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613997,
+        "num": 613997,
+        "word": "林志颖车祸后首露脸部伤疤",
+        "onboard_time": 1694073757,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 920719,
+        "num": 607837,
+        "word": "避孕套如何正确使用",
+        "onboard_time": 1694068233,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 575272,
+        "num": 575272,
+        "word": "李佳琦直播",
+        "onboard_time": 1694083837,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 570509,
+        "num": 570509,
+        "word": "年收入10万元以下个人基本不缴个税",
+        "onboard_time": 1694084080,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567314,
+        "num": 567314,
+        "word": "倪妮好飒",
+        "onboard_time": 1694084677,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26464,
+        "num": 538774,
+        "word": "西迁老教授成为大体老师奉献终生",
+        "onboard_time": 1694084496,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523120,
+        "num": 523120,
+        "word": "华为mate60和iPhone15选哪个",
+        "onboard_time": 1694076817,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 469256,
+        "num": 469256,
+        "word": "巴奴称羊肉卷确实含有鸭肉成份",
+        "onboard_time": 1694081317,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418802,
+        "num": 418802,
+        "word": "不好意思 老娘振翅开场",
+        "onboard_time": 1694083418,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 377410,
+        "num": 377410,
+        "word": "云之羽",
+        "onboard_time": 1694081614,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356595,
+        "num": 356595,
+        "word": "卢昱晓ccd直出",
+        "onboard_time": 1694083357,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 646058,
+        "num": 355402,
+        "word": "浙江一村被曝出现上千条眼镜蛇",
+        "onboard_time": 1694082156,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341158,
+        "num": 341158,
+        "word": "教育局通报小学教师打伤学生头骨",
+        "onboard_time": 1694075495,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328668,
+        "num": 328668,
+        "word": "国企董事长扎小人报复举报人",
+        "onboard_time": 1694083720,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310633,
+        "num": 310633,
+        "word": "S13抽签仪式",
+        "onboard_time": 1694082517,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267606,
+        "num": 267606,
+        "word": "张国立接了陈道明婉拒的角色",
+        "onboard_time": 1694075555,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265748,
+        "num": 265748,
+        "word": "男子抢注学籍致6岁儿子无法入学",
+        "onboard_time": 1694070213,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 236795,
+        "num": 236795,
+        "word": "只要被摸一下头就开始喜欢人类",
+        "onboard_time": 1694078558,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235939,
+        "num": 235939,
+        "word": "张馨予300颗钻石头饰造型",
+        "onboard_time": 1694068055,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234184,
+        "num": 234184,
+        "word": "终于学会高情商回复了",
+        "onboard_time": 1694076337,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203451,
+        "num": 203451,
+        "word": "为什么油条都是两根一起炸",
+        "onboard_time": 1694072677,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185773,
+        "num": 185773,
+        "word": "周杰伦天津演唱会",
+        "onboard_time": 1694080295,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184112,
+        "num": 184112,
+        "word": "患抑郁症的她以第一名考上了研究生",
+        "onboard_time": 1694073695,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175812,
+        "num": 175812,
+        "word": "车主 我不认识字啊",
+        "onboard_time": 1694078916,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171277,
+        "num": 171277,
+        "word": "张碧晨最喜欢迪丽热巴倪妮的红毯",
+        "onboard_time": 1694071535,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151821,
+        "num": 151821,
+        "word": "原来相柳和宫子羽走的是一个台阶",
+        "onboard_time": 1694077715,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148191,
+        "num": 148191,
+        "word": "角徵浅 狐狸精",
+        "onboard_time": 1694070994,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139989,
+        "num": 139989,
+        "word": "想看看领导在不在结果被发群里了",
+        "onboard_time": 1694081135,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138054,
+        "num": 138054,
+        "word": "华为 天通卫星",
+        "onboard_time": 1694068476,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129213,
+        "num": 129213,
+        "word": "成毅 快说你是不是被渣爹附体了",
+        "onboard_time": 1694071535,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126534,
+        "num": 126534,
+        "word": "女子胸口藏16只活蜥蜴入境",
+        "onboard_time": 1694074476,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123282,
+        "num": 123282,
+        "word": "胡兵获得了披荆斩棘最多个最",
+        "onboard_time": 1694076096,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121779,
+        "num": 121779,
+        "word": "被男老师打破头骨女生父亲发声",
+        "onboard_time": 1694070033,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121370,
+        "num": 121370,
+        "word": "罗云熙说和Doinb互为哥哥",
+        "onboard_time": 1694077956,
+        "rank": 42,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 120447,
+        "num": 120447,
+        "word": "林高远王艺迪混双晋级决赛",
+        "onboard_time": 1694082996,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118605,
+        "num": 118605,
+        "word": "Loopy阴阳怪气表情包",
+        "onboard_time": 1694085157,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117977,
+        "num": 117977,
+        "word": "网传洛阳理工发生命案",
+        "onboard_time": 1694064938,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117062,
+        "num": 117062,
+        "word": "梦泪沉浸式结婚",
+        "onboard_time": 1694085157,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 114447,
+        "word": "张艺谋说被骂被夸都是幸事",
+        "onboard_time": 1694079215,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110697,
+        "num": 110697,
+        "word": "冯宝宝被割韭菜",
+        "onboard_time": 1694077116,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111152,
+        "num": 110617,
+        "word": "iPhone15价格你能接受吗",
+        "onboard_time": 1694057135,
+        "rank": 49,
+        "category": "科技,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设绿色丝绸之路和数字丝绸之路#"
+    }
+  }
+}
