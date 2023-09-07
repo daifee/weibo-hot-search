@@ -1,0 +1,410 @@
+{
+  "runTime": 1694081941724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2349796,
+        "num": 2349796,
+        "word": "警方通报洛阳理工学院学生死亡",
+        "onboard_time": 1694077116,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322663,
+        "num": 1842143,
+        "word": "90后给女儿做40片花瓣仙女裙",
+        "onboard_time": 1694073034,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50803,
+        "num": 1722975,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633482,
+        "num": 1633482,
+        "word": "何穗 天使",
+        "onboard_time": 1694080295,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239350,
+        "num": 1477848,
+        "word": "大熊猫现在流行拿孔雀毛当时尚单品了",
+        "onboard_time": 1694071955,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1394525,
+        "num": 1394525,
+        "word": "被老师打破头骨女生已清醒",
+        "onboard_time": 1694078855,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114625,
+        "num": 1089091,
+        "word": "独腿小伙装上假肢跑货运重拾生活勇气",
+        "onboard_time": 1694079692,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072198,
+        "num": 1072198,
+        "word": "林志颖车祸后首露脸部伤疤",
+        "onboard_time": 1694073757,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698364,
+        "num": 698364,
+        "word": "教育局通报小学教师打伤学生头骨",
+        "onboard_time": 1694075495,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 545582,
+        "num": 545582,
+        "word": "终于学会高情商回复了",
+        "onboard_time": 1694076337,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1096678,
+        "num": 544644,
+        "word": "避孕套如何正确使用",
+        "onboard_time": 1694068233,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 538665,
+        "num": 538665,
+        "word": "张国立接了陈道明婉拒的角色",
+        "onboard_time": 1694075555,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429466,
+        "num": 429466,
+        "word": "男子抢注学籍致6岁儿子无法入学",
+        "onboard_time": 1694070213,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 378497,
+        "num": 378497,
+        "word": "巴奴称羊肉卷确实含有鸭肉成份",
+        "onboard_time": 1694081317,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366107,
+        "num": 366107,
+        "word": "原来相柳和宫子羽走的是一个台阶",
+        "onboard_time": 1694077715,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349348,
+        "num": 349348,
+        "word": "张馨予300颗钻石头饰造型",
+        "onboard_time": 1694068055,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285983,
+        "num": 285983,
+        "word": "罗云熙说和Doinb互为哥哥",
+        "onboard_time": 1694077956,
+        "rank": 16,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 247358,
+        "num": 247358,
+        "word": "冯宝宝被割韭菜",
+        "onboard_time": 1694077116,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243828,
+        "num": 243828,
+        "word": "患抑郁症的她以第一名考上了研究生",
+        "onboard_time": 1694073695,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239184,
+        "num": 239184,
+        "word": "张艺谋说于和伟的反派角色胜过高启强",
+        "onboard_time": 1694077418,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400833,
+        "num": 238020,
+        "word": "华为mate60和iPhone15选哪个",
+        "onboard_time": 1694076817,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 324020,
+        "num": 237722,
+        "word": "只要被摸一下头就开始喜欢人类",
+        "onboard_time": 1694078558,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252601,
+        "num": 237578,
+        "word": "被男老师打破头骨女生父亲发声",
+        "onboard_time": 1694070033,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 235406,
+        "num": 235406,
+        "word": "女子胸口藏16只活蜥蜴入境",
+        "onboard_time": 1694074476,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218567,
+        "num": 218567,
+        "word": "张碧晨最喜欢迪丽热巴倪妮的红毯",
+        "onboard_time": 1694071535,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213141,
+        "num": 213141,
+        "word": "胡兵获得了披荆斩棘最多个最",
+        "onboard_time": 1694076096,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199753,
+        "num": 199753,
+        "word": "iPhone15价格你能接受吗",
+        "onboard_time": 1694057135,
+        "rank": 26,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 198830,
+        "num": 198830,
+        "word": "云之羽角浅好好嗑",
+        "onboard_time": 1694081135,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198463,
+        "num": 198463,
+        "word": "网传洛阳理工发生命案",
+        "onboard_time": 1694064938,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196921,
+        "num": 196921,
+        "word": "角徵浅 狐狸精",
+        "onboard_time": 1694070994,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295133,
+        "num": 196405,
+        "word": "车主 我不认识字啊",
+        "onboard_time": 1694078916,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227847,
+        "num": 196278,
+        "word": "想看看领导在不在结果被发群里了",
+        "onboard_time": 1694081135,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195690,
+        "num": 195690,
+        "word": "周杰伦天津演唱会",
+        "onboard_time": 1694080295,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193840,
+        "num": 193840,
+        "word": "云之羽",
+        "onboard_time": 1694081614,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176168,
+        "num": 176168,
+        "word": "为什么油条都是两根一起炸",
+        "onboard_time": 1694072677,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188054,
+        "num": 175755,
+        "word": "白粥梗和云为衫不适配",
+        "onboard_time": 1694079634,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175320,
+        "num": 175320,
+        "word": "成毅 快说你是不是被渣爹附体了",
+        "onboard_time": 1694071535,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172826,
+        "num": 172826,
+        "word": "华为 天通卫星",
+        "onboard_time": 1694068476,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171877,
+        "num": 171877,
+        "word": "你小子故意的吧",
+        "onboard_time": 1694078973,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164741,
+        "num": 164741,
+        "word": "爸爸嘱咐女儿学不进去就多吃点",
+        "onboard_time": 1694077294,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157165,
+        "num": 157165,
+        "word": "彭昱畅新剧怕不是小魔仙吧",
+        "onboard_time": 1694076696,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155911,
+        "num": 155911,
+        "word": "科学家称50年前美国或杀死了外星生命",
+        "onboard_time": 1694064219,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 151495,
+        "num": 151495,
+        "word": "维密2023环球时尚盛典",
+        "onboard_time": 1694081795,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 146063,
+        "num": 146063,
+        "word": "张艺谋说被骂被夸都是幸事",
+        "onboard_time": 1694079215,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143810,
+        "num": 143810,
+        "word": "原来中秋送礼也是一门学问",
+        "onboard_time": 1694078436,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138393,
+        "num": 143806,
+        "word": "这些体检指标暗示有病",
+        "onboard_time": 1694067275,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118746,
+        "num": 143801,
+        "word": "对方撤回了一根薯条",
+        "onboard_time": 1694071233,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106346,
+        "num": 143785,
+        "word": "虞书欣张凌赫云之羽海报拍摄花絮",
+        "onboard_time": 1694073275,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101859,
+        "num": 143774,
+        "word": "男朋友的共情能力",
+        "onboard_time": 1694074958,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101666,
+        "num": 143771,
+        "word": "2022届本科生平均月收入5990元",
+        "onboard_time": 1694053653,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路倡议十周年#"
+    }
+  }
+}
