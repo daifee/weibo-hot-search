@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694100844034,
+  "endTime": 1694103654277,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -673,6 +673,14 @@
       "onboard_time": 1693815638,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1746223,
+      "num": 1746223,
+      "word": "长期不吃晚餐真的会瘦吗",
+      "onboard_time": 1694099439,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 1746169,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1694051253,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095298,
+      "num": 1095298,
+      "word": "人民日报评肖战演技",
+      "onboard_time": 1694099980,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1094999,
@@ -2227,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 777550,
-      "num": 777550,
-      "word": "人民日报评肖战演技",
-      "onboard_time": 1694099980,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 777250,
       "num": 777250,
       "word": "fx十四周年",
@@ -2419,14 +2427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 734506,
-      "num": 734506,
-      "word": "长期不吃晚餐真的会瘦吗",
-      "onboard_time": 1694099439,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 734332,
       "num": 398540,
       "word": "不要再乱买便宜纸巾了",
@@ -2584,6 +2584,14 @@
       "word": "女子修复双眼皮后竟然多个洞",
       "onboard_time": 1693720534,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707447,
+      "num": 707447,
+      "word": "广州暴雨",
+      "onboard_time": 1694101001,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3387,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594228,
+      "num": 594228,
+      "word": "原来只有晕车的人才闻得到异味",
+      "onboard_time": 1694099379,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 592118,
       "num": 575272,
       "word": "李佳琦直播",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1694075974,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590591,
+      "num": 590591,
+      "word": "新郎和新娘不在一个图层",
+      "onboard_time": 1694099620,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 590346,
@@ -4075,14 +4099,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 517490,
-      "num": 240221,
-      "word": "新郎和新娘不在一个图层",
-      "onboard_time": 1694099620,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 517046,
       "num": 517046,
       "word": "赵丽颖时装男士九月封面",
@@ -4176,14 +4192,6 @@
       "word": "让领导认为你不堪重用的摆件",
       "onboard_time": 1694094160,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 508757,
-      "num": 508757,
-      "word": "原来只有晕车的人才闻得到异味",
-      "onboard_time": 1694099379,
-      "rank": 28,
       "category": "情感"
     },
     {
@@ -4435,6 +4443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 483479,
+      "num": 483479,
+      "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
+      "onboard_time": 1694099980,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482882,
       "num": 482882,
       "word": "风象星座情绪稳定才最疯狂",
@@ -4496,6 +4512,14 @@
       "word": "关于我在韩国公交车站钓鱼这件事",
       "onboard_time": 1694057974,
       "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 478812,
+      "num": 478812,
+      "word": "桂花壁纸 招财",
+      "onboard_time": 1694100637,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -5379,6 +5403,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 394679,
+      "num": 292487,
+      "word": "龚俊二闹周杰伦演唱会",
+      "onboard_time": 1694101776,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 393133,
       "num": 393133,
       "word": "Angelababy草原走红毯",
@@ -5777,6 +5809,14 @@
       "onboard_time": 1694067757,
       "rank": 22,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 364258,
+      "num": 364258,
+      "word": "广州全市暴雨戒备状态",
+      "onboard_time": 1694101957,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362260,
@@ -6459,6 +6499,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 318044,
+      "num": 318044,
+      "word": "白露",
+      "onboard_time": 1694100340,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317515,
       "num": 317515,
       "word": "上一次看到这么混乱的场面还是小时代",
@@ -6755,6 +6803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302358,
+      "num": 198898,
+      "word": "房子给人特别干净舒服的感觉",
+      "onboard_time": 1694101538,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302136,
       "num": 302136,
       "word": "山西王家大院",
@@ -6840,14 +6896,6 @@
       "word": "高铁站回应男子跳下站台被火车轧车底",
       "onboard_time": 1693801722,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299669,
-      "num": 299669,
-      "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
-      "onboard_time": 1694099980,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -7177,6 +7225,14 @@
       "onboard_time": 1693881218,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282939,
+      "num": 282939,
+      "word": "七时吉祥",
+      "onboard_time": 1694100520,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 282901,
@@ -8059,14 +8115,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 242177,
-      "num": 242177,
-      "word": "白露",
-      "onboard_time": 1694100340,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 242151,
       "num": 242151,
       "word": "父辈的荣耀",
@@ -8835,14 +8883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219418,
-      "num": 219418,
-      "word": "桂花壁纸 招财",
-      "onboard_time": 1694100637,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219204,
       "num": 219204,
       "word": "张艺谋现身坚如磐石发布会",
@@ -9073,14 +9113,6 @@
       "onboard_time": 1693726117,
       "rank": 39,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 211472,
-      "num": 211472,
-      "word": "七时吉祥",
-      "onboard_time": 1694100520,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 211206,
@@ -10307,6 +10339,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 186957,
+      "num": 186957,
+      "word": "Somi和小娟challenge",
+      "onboard_time": 1694100761,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186888,
       "num": 186888,
       "word": "大学生晒被子新招式",
@@ -10337,14 +10377,6 @@
       "onboard_time": 1694072433,
       "rank": 15,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 186467,
-      "num": 186467,
-      "word": "Somi和小娟challenge",
-      "onboard_time": 1694100761,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 186445,
@@ -11347,6 +11379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156795,
+      "num": 156795,
+      "word": "宫尚角角色魅力爆表的一段",
+      "onboard_time": 1694102255,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156695,
       "num": 156695,
       "word": "钟离达达利亚复刻",
@@ -11584,6 +11624,14 @@
       "word": "宫子羽的成长日记",
       "onboard_time": 1693723895,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148105,
+      "num": 148105,
+      "word": "白宇好会演",
+      "onboard_time": 1694102673,
+      "rank": 44,
       "category": "影视"
     },
     {
