@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694198043088,
+  "endTime": 1694200396019,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -440,6 +440,30 @@
       "word": "刘雅瑟 我不教你做人你也别教我做人",
       "onboard_time": 1694180795,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37459,
+      "num": 37459,
+      "word": "旅日游客称不介意福岛鱼",
+      "onboard_time": 1694198655,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36537,
+      "num": 36537,
+      "word": "网友为不实言论向黄晓明道歉",
+      "onboard_time": 1694198777,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31734,
+      "num": 31734,
+      "word": "王琳推荐肖战参加战至巅峰",
+      "onboard_time": 1694200095,
+      "rank": 36,
       "category": "综艺"
     },
     {
