@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694200396019,
+  "endTime": 1694201632328,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88423,
+      "num": 47005,
+      "word": "旅日游客称不介意福岛鱼",
+      "onboard_time": 1694198655,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62346,
       "num": 62346,
       "word": "KTV配的歌手照片越来越离谱",
@@ -435,20 +443,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 43856,
+      "num": 38897,
+      "word": "白百何拜托网友还原张曼玉发型",
+      "onboard_time": 1694200455,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37729,
       "num": 37729,
       "word": "刘雅瑟 我不教你做人你也别教我做人",
       "onboard_time": 1694180795,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37459,
-      "num": 37459,
-      "word": "旅日游客称不介意福岛鱼",
-      "onboard_time": 1694198655,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36537,
@@ -481,6 +489,14 @@
       "onboard_time": 1694197696,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22256,
+      "num": 22256,
+      "word": "感觉不到爱意就是没有",
+      "onboard_time": 1694201355,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 14872,
