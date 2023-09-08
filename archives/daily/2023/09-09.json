@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694212427365,
+  "endTime": 1694214964317,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -41,6 +41,14 @@
       "onboard_time": 1694168554,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690653,
+      "num": 146290,
+      "word": "旅日游客称不介意福岛鱼",
+      "onboard_time": 1694198655,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686449,
@@ -155,14 +163,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 335300,
-      "num": 83624,
-      "word": "旅日游客称不介意福岛鱼",
-      "onboard_time": 1694198655,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333488,
       "num": 360626,
       "word": "iPhone15Pro减轻约10%",
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178015,
+      "num": 178015,
+      "word": "一车钢筋砸大爷身上119高喊120",
+      "onboard_time": 1694214201,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174577,
       "num": 174577,
       "word": "俞灏明问为什么要笑我",
@@ -273,6 +281,14 @@
       "onboard_time": 1694167593,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156454,
+      "num": 120633,
+      "word": "公职人员理发不满意举报店家偷税漏税",
+      "onboard_time": 1694214201,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155464,
@@ -321,6 +337,14 @@
       "onboard_time": 1694190270,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135433,
+      "num": 135433,
+      "word": "摩洛哥6.9级地震",
+      "onboard_time": 1694214382,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134210,
@@ -395,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119791,
+      "num": 119791,
+      "word": "张艺兴和林俊杰合唱",
+      "onboard_time": 1694214261,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116505,
       "num": 116505,
       "word": "李子维是老了不是变野人了",
@@ -409,6 +441,14 @@
       "onboard_time": 1694188477,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114417,
+      "num": 114417,
+      "word": "太原一家长群筹备五千元给老师买礼物",
+      "onboard_time": 1694214141,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113558,
@@ -435,6 +475,54 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107407,
+      "num": 107407,
+      "word": "白百何拜托网友还原张曼玉发型",
+      "onboard_time": 1694200455,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105884,
+      "num": 105884,
+      "word": "盗墓笔记博物馆",
+      "onboard_time": 1694213119,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103375,
+      "num": 103375,
+      "word": "见过最能提供情绪价值的小孩",
+      "onboard_time": 1694211796,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 93237,
+      "num": 93237,
+      "word": "王琳推荐肖战参加战至巅峰",
+      "onboard_time": 1694200095,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87622,
+      "num": 87622,
+      "word": "男子在长白山天池拍到神秘生物",
+      "onboard_time": 1694214802,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80120,
+      "num": 80120,
+      "word": "妈妈听到走失儿子在派出所瞬间放心",
+      "onboard_time": 1694214141,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62346,
       "num": 62346,
       "word": "KTV配的歌手照片越来越离谱",
@@ -443,28 +531,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 61853,
+      "num": 61853,
+      "word": "感觉不到爱意就是没有",
+      "onboard_time": 1694201355,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58273,
       "num": 49565,
       "word": "Ella爸爸和爷爷撞脸任贤齐",
       "onboard_time": 1694204354,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53893,
-      "num": 49145,
-      "word": "王琳推荐肖战参加战至巅峰",
-      "onboard_time": 1694200095,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 48398,
-      "num": 48398,
-      "word": "白百何拜托网友还原张曼玉发型",
-      "onboard_time": 1694200455,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 44669,
@@ -483,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38379,
+      "num": 247813,
+      "word": "来杭州看看梦里江南的模样",
+      "onboard_time": 1694179416,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37729,
       "num": 37729,
       "word": "刘雅瑟 我不教你做人你也别教我做人",
@@ -491,28 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36632,
-      "num": 38366,
-      "word": "感觉不到爱意就是没有",
-      "onboard_time": 1694201355,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 36537,
       "num": 36537,
       "word": "网友为不实言论向黄晓明道歉",
       "onboard_time": 1694198777,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33460,
-      "num": 38352,
-      "word": "见过最能提供情绪价值的小孩",
-      "onboard_time": 1694211796,
-      "rank": 42,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 31643,
@@ -553,14 +625,6 @@
       "onboard_time": 1694203514,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22558,
-      "num": 247813,
-      "word": "来杭州看看梦里江南的模样",
-      "onboard_time": 1694179416,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10296,
