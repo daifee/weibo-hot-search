@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694205245947,
+  "endTime": 1694207652274,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -15875,6 +15875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35236,
+      "num": 25563,
+      "word": "Ella爸爸和爷爷撞脸任贤齐",
+      "onboard_time": 1694204354,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34792,
       "num": 45761,
       "word": "国奥队23人大名单公布",
@@ -16035,14 +16043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25563,
-      "num": 25563,
-      "word": "Ella爸爸和爷爷撞脸任贤齐",
-      "onboard_time": 1694204354,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25029,
       "num": 1277410,
       "word": "共建一带一路倡议十周年",
@@ -16107,6 +16107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 22641,
+      "num": 22641,
+      "word": "东莞暴雨",
+      "onboard_time": 1694206094,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21682,
       "num": 21682,
       "word": "唐禹哲不愧是年轻的身体",
@@ -16155,6 +16163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20075,
+      "num": 21127,
+      "word": "纽约大学医生带你1分钟拉伸",
+      "onboard_time": 1694206814,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19435,
       "num": 20114,
       "word": "和主人一起四处旅游的耶耶",
@@ -16185,6 +16201,14 @@
       "onboard_time": 1693891657,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18099,
+      "num": 21070,
+      "word": "檀健次相柳二创reaction",
+      "onboard_time": 1694205313,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 17886,
