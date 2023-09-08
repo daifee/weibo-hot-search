@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694158440922,
+  "endTime": 1694161228235,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1541228,
+      "num": 279697,
+      "word": "男性生殖器HPV感染率高达45.2%",
+      "onboard_time": 1694160093,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1308075,
       "num": 1308075,
       "word": "香港暴雨",
@@ -203,6 +211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 944171,
+      "num": 944171,
+      "word": "一张图证明广东的雨有多大",
+      "onboard_time": 1694155355,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906244,
       "num": 574033,
       "word": "iPhone15机型比例为3比1",
@@ -275,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696384,
+      "num": 696384,
+      "word": "王鹤棣田曦薇新剧的cp感",
+      "onboard_time": 1694157213,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 696303,
       "num": 1039618,
       "word": "梅西任意球破门",
       "onboard_time": 1694137955,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 692583,
+      "num": 692583,
+      "word": "男子钱包丢10年被分文不少送回",
+      "onboard_time": 1694158113,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 683038,
@@ -307,12 +339,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 655606,
-      "num": 655606,
-      "word": "一张图证明广东的雨有多大",
-      "onboard_time": 1694155355,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 656253,
+      "num": 656253,
+      "word": "莲花楼演唱会",
+      "onboard_time": 1694158656,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 652792,
@@ -411,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532241,
+      "num": 278657,
+      "word": "内娱顶级淡颜系代表",
+      "onboard_time": 1694159911,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 531100,
       "num": 385807,
       "word": "妈妈请不要再报我的虚岁了",
@@ -499,12 +539,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 457593,
+      "num": 457593,
+      "word": "香港遇百年一遇大暴雨",
+      "onboard_time": 1694157874,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456693,
       "num": 456693,
       "word": "公职人员被儿子举报出轨停职",
       "onboard_time": 1694094462,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442982,
+      "num": 442982,
+      "word": "今年你会从iPhone转华为吗",
+      "onboard_time": 1694160033,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 439538,
@@ -516,7 +572,7 @@
     },
     {
       "raw_hot": 432487,
-      "num": 204293,
+      "num": 234195,
       "word": "海豚用塑料垃圾袋换了小鱼",
       "onboard_time": 1694155955,
       "rank": 30,
@@ -568,14 +624,6 @@
       "word": "爱奇艺热度破万剧评分TOP9",
       "onboard_time": 1694156191,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 416607,
-      "num": 309008,
-      "word": "王鹤棣田曦薇新剧的cp感",
-      "onboard_time": 1694157213,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -729,6 +777,14 @@
       "onboard_time": 1694098118,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333644,
+      "num": 333644,
+      "word": "乌尔善关心于适像我爸查岗",
+      "onboard_time": 1694159675,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 330302,
@@ -931,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281666,
+      "num": 281666,
+      "word": "张雪峰换Mate60后MateX5开售",
+      "onboard_time": 1694160275,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 278890,
       "num": 278890,
       "word": "梅西首发出战厄瓜多尔",
@@ -1035,12 +1099,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257415,
+      "num": 257415,
+      "word": "衫姐 我对象的想法怎么越来越脱缰了",
+      "onboard_time": 1694158593,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257073,
       "num": 257073,
       "word": "陈飞宇去看周杰伦演唱会",
       "onboard_time": 1694133579,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253273,
+      "num": 253273,
+      "word": "宫脇咲良认为的必须要学习的原因",
+      "onboard_time": 1694159315,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252752,
@@ -1123,6 +1203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233627,
+      "num": 233627,
+      "word": "华为OPPO在一起",
+      "onboard_time": 1694160155,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 230416,
+      "num": 230416,
+      "word": "五月天西安演唱会",
+      "onboard_time": 1694160574,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228912,
       "num": 228912,
       "word": "詹青云 年轻就是选择权的巅峰",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1694097582,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 225112,
+      "num": 225112,
+      "word": "华为MateX5发售1秒卖光",
+      "onboard_time": 1694147500,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 220573,
@@ -1195,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210936,
+      "num": 210936,
+      "word": "亚运会电竞",
+      "onboard_time": 1694160155,
+      "rank": 34,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 208059,
       "num": 208059,
       "word": "现在年轻人许的愿有多奇葩",
@@ -1227,20 +1339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203867,
-      "num": 203867,
-      "word": "男子钱包丢10年被分文不少送回",
-      "onboard_time": 1694158113,
-      "rank": 28,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 203774,
       "num": 203774,
       "word": "萨巴伦卡晋级美网决赛",
       "onboard_time": 1694150078,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201181,
+      "num": 201181,
+      "word": "当妈后开始为i做e",
+      "onboard_time": 1694160391,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 200552,
@@ -1265,6 +1377,14 @@
       "onboard_time": 1694092837,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198722,
+      "num": 198722,
+      "word": "外交部回应美国调查华为最新手机芯片",
+      "onboard_time": 1694160875,
+      "rank": 37,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 198080,
@@ -1305,14 +1425,6 @@
       "onboard_time": 1694146057,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193507,
-      "num": 193507,
-      "word": "华为MateX5发售1秒卖光",
-      "onboard_time": 1694147500,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 192969,
@@ -1491,14 +1603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168574,
-      "num": 168574,
-      "word": "香港遇百年一遇大暴雨",
-      "onboard_time": 1694157874,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167498,
       "num": 167498,
       "word": "我上专业课",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1694094219,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166127,
+      "num": 166127,
+      "word": "梅西成全球国家队参与进球历史第1人",
+      "onboard_time": 1694160334,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 165561,
@@ -1611,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149766,
+      "num": 149766,
+      "word": "考古的风还是吹向了丞磊",
+      "onboard_time": 1694159013,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149186,
       "num": 149186,
       "word": "让领导认为你不堪重用的摆件",
@@ -1691,6 +1811,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127541,
+      "num": 145488,
+      "word": "黄景瑜皮衣机车造型",
+      "onboard_time": 1694158955,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125730,
+      "num": 125730,
+      "word": "陈梦3比1佐藤瞳",
+      "onboard_time": 1694159614,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106756,
+      "num": 1069783,
+      "word": "人民群众遇到困难一方有难八方支援",
+      "onboard_time": 1694159372,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104018,
       "num": 432846,
       "word": "15岁少年痴迷非遗创作拿了两项大奖",
@@ -1708,11 +1852,19 @@
     },
     {
       "raw_hot": 97219,
-      "num": 150356,
+      "num": 445685,
       "word": "直击亚运火炬传递",
       "onboard_time": 1694158173,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94843,
+      "num": 400232,
+      "word": "店主凌晨冒雨打开店门营救被淹车辆",
+      "onboard_time": 1694160033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91268,
