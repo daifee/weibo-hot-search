@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694182521350,
+  "endTime": 1694183643037,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -73,6 +73,14 @@
       "onboard_time": 1694132559,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2010785,
+      "num": 2010785,
+      "word": "周杰伦演唱会受伤",
+      "onboard_time": 1694183017,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1933149,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1475183,
-      "num": 765949,
+      "num": 942054,
       "word": "华为",
       "onboard_time": 1694169759,
       "rank": 10,
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 954665,
+      "num": 954665,
+      "word": "阿信演唱会吸氧",
+      "onboard_time": 1694182957,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 944171,
       "num": 944171,
       "word": "一张图证明广东的雨有多大",
@@ -353,6 +369,14 @@
       "onboard_time": 1694179654,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 788705,
+      "num": 788705,
+      "word": "刘恋MVP",
+      "onboard_time": 1694180916,
+      "rank": 6,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 774039,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623553,
+      "num": 420249,
+      "word": "G社拍的倪妮",
+      "onboard_time": 1694181939,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 617118,
       "num": 297108,
       "word": "内娱顶级淡颜系代表",
@@ -593,14 +625,6 @@
       "onboard_time": 1694099379,
       "rank": 9,
       "category": "其它"
-    },
-    {
-      "raw_hot": 591760,
-      "num": 591760,
-      "word": "刘恋MVP",
-      "onboard_time": 1694180916,
-      "rank": 6,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 581941,
@@ -915,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420605,
+      "num": 420605,
+      "word": "Wind战至巅峰第二季总冠军",
+      "onboard_time": 1694183198,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420186,
       "num": 420186,
       "word": "于适抬眼 武王初现",
@@ -953,6 +985,14 @@
       "onboard_time": 1694135557,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409238,
+      "num": 409238,
+      "word": "黄明昊丝血反杀敖子逸",
+      "onboard_time": 1694182957,
+      "rank": 15,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 405803,
@@ -1041,14 +1081,6 @@
       "onboard_time": 1694174912,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 385993,
-      "num": 385993,
-      "word": "G社拍的倪妮",
-      "onboard_time": 1694181939,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 382417,
@@ -1243,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323445,
+      "num": 323445,
+      "word": "美国男篮vs德国男篮",
+      "onboard_time": 1694180916,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323019,
       "num": 323019,
       "word": "当妈后开始为i做e",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1694100340,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317910,
-      "num": 317910,
-      "word": "美国男篮vs德国男篮",
-      "onboard_time": 1694180916,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 317510,
@@ -1355,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306025,
+      "num": 306025,
+      "word": "企业回应把日本食材引进无锡学生餐",
+      "onboard_time": 1694182477,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303868,
       "num": 303868,
       "word": "男性HPV疫苗要来了",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1694101538,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 300878,
+      "num": 300878,
+      "word": "容祖儿晒其在香港暴雨中开车",
+      "onboard_time": 1694180138,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 299600,
@@ -1475,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276438,
+      "num": 276438,
+      "word": "黄明昊FMVP",
+      "onboard_time": 1694183438,
+      "rank": 27,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 276281,
       "num": 276281,
       "word": "暑假开学都被桐华支配了",
@@ -1537,14 +1593,6 @@
       "onboard_time": 1694179834,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 268165,
-      "num": 268165,
-      "word": "容祖儿晒其在香港暴雨中开车",
-      "onboard_time": 1694180138,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 266720,
@@ -1731,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240507,
+      "num": 240507,
+      "word": "张远也能给苏醒介绍活了",
+      "onboard_time": 1694183198,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239546,
       "num": 239546,
       "word": "花样青春",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1694143175,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228675,
+      "num": 228675,
+      "word": "魏哲鸣脑子里都是周杰伦吧",
+      "onboard_time": 1694180375,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 228514,
@@ -2115,14 +2179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189212,
-      "num": 189212,
-      "word": "魏哲鸣脑子里都是周杰伦吧",
-      "onboard_time": 1694180375,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187937,
       "num": 187937,
       "word": "苹果两日市值蒸发1898亿美元",
@@ -2419,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156496,
+      "num": 156496,
+      "word": "90后牺牲民警生前说人民公安为人民",
+      "onboard_time": 1694182598,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155917,
       "num": 155917,
       "word": "国产带状疱疹疫苗来西安了",
@@ -2473,14 +2537,6 @@
       "onboard_time": 1694097159,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 150568,
-      "num": 150568,
-      "word": "企业回应把日本食材引进无锡学生餐",
-      "onboard_time": 1694182477,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150429,
@@ -2803,6 +2859,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 44345,
+      "num": 409402,
+      "word": "货车侧翻几十位好心人神同步帮忙",
+      "onboard_time": 1694181635,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43794,
+      "num": 193390,
+      "word": "胡锡进谈巴奴赔付顾客835万",
+      "onboard_time": 1694181635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38558,
       "num": 1785400,
       "word": "让更多国家更多民众共享发展成果",
@@ -2844,7 +2916,7 @@
     },
     {
       "raw_hot": 25029,
-      "num": 789313,
+      "num": 984638,
       "word": "共建一带一路倡议十周年",
       "onboard_time": 1694165614,
       "rank": 2,
@@ -2857,22 +2929,6 @@
       "onboard_time": 1694111896,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24651,
-      "num": 170032,
-      "word": "胡锡进谈巴奴赔付顾客835万",
-      "onboard_time": 1694181635,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22895,
-      "num": 386559,
-      "word": "货车侧翻几十位好心人神同步帮忙",
-      "onboard_time": 1694181635,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
