@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694162051914,
+  "endTime": 1694164587217,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2054672,
-      "num": 279697,
+      "num": 301351,
       "word": "男性生殖器HPV感染率高达45.2%",
       "onboard_time": 1694160093,
       "rank": 20,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1316325,
+      "num": 1316325,
+      "word": "今年你会从iPhone转华为吗",
+      "onboard_time": 1694160033,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1308075,
       "num": 1308075,
       "word": "香港暴雨",
@@ -145,6 +153,14 @@
       "onboard_time": 1694099620,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1141887,
+      "num": 1141887,
+      "word": "义乳女团",
+      "onboard_time": 1694163636,
+      "rank": 3,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1141656,
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 916773,
-      "num": 916773,
-      "word": "今年你会从iPhone转华为吗",
-      "onboard_time": 1694160033,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 906244,
       "num": 574033,
       "word": "iPhone15机型比例为3比1",
@@ -257,6 +265,14 @@
       "onboard_time": 1694098720,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807484,
+      "num": 807484,
+      "word": "外交部回应美国调查华为最新手机芯片",
+      "onboard_time": 1694160875,
+      "rank": 37,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 795788,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 617118,
-      "num": 278657,
+      "num": 295737,
       "word": "内娱顶级淡颜系代表",
       "onboard_time": 1694159911,
       "rank": 21,
@@ -441,6 +457,14 @@
       "onboard_time": 1694155172,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 536995,
+      "num": 282613,
+      "word": "偷吃了7斤狗粮的肚子",
+      "onboard_time": 1694162616,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 533313,
@@ -523,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 474127,
+      "num": 270863,
+      "word": "张凌赫微信头像",
+      "onboard_time": 1694164538,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 472608,
       "num": 354176,
       "word": "看了伴娘服瞬间不想当她的伴娘了",
@@ -545,6 +577,14 @@
       "onboard_time": 1694145096,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 459915,
+      "num": 459915,
+      "word": "18岁少年离世前一个决定心碎又感动",
+      "onboard_time": 1694162556,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 457593,
@@ -601,14 +641,6 @@
       "onboard_time": 1694135018,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 425650,
-      "num": 425650,
-      "word": "外交部回应美国调查华为最新手机芯片",
-      "onboard_time": 1694160875,
-      "rank": 37,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 424618,
@@ -715,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 393629,
+      "num": 393629,
+      "word": "被删减的殷寿在苏护刀下救姬发片段",
+      "onboard_time": 1694163514,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382417,
       "num": 382417,
       "word": "上海杜莎将揭幕宋茜蜡像",
@@ -747,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369108,
+      "num": 369108,
+      "word": "内蒙古高压气体泄漏事故10死3伤",
+      "onboard_time": 1694164115,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 362299,
       "num": 206909,
       "word": "洛阳一大学生杀害同学后跳楼自杀",
@@ -777,6 +825,14 @@
       "onboard_time": 1694145699,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344456,
+      "num": 344456,
+      "word": "小学生徒手挖出炮弹送校长室",
+      "onboard_time": 1694163454,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338913,
@@ -857,6 +913,14 @@
       "onboard_time": 1694133702,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321757,
+      "num": 321757,
+      "word": "当妈后开始为i做e",
+      "onboard_time": 1694160391,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 321258,
@@ -979,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293957,
+      "num": 223880,
+      "word": "当我爸把我化妆品摔碎",
+      "onboard_time": 1694163815,
+      "rank": 30,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 284427,
       "num": 284427,
       "word": "披荆斩棘二公真人秀海报",
@@ -1083,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260867,
+      "num": 260867,
+      "word": "父辈的荣耀太好哭了",
+      "onboard_time": 1694162013,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260480,
       "num": 458495,
       "word": "年收入10万元以下个人基本不缴个税",
@@ -1171,6 +1251,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 245670,
+      "num": 245670,
+      "word": "男生对不喜欢的人都很双标吗",
+      "onboard_time": 1694161654,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244113,
       "num": 244113,
       "word": "逆水寒",
@@ -1187,20 +1275,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240636,
+      "num": 240636,
+      "word": "林高远vs筱塚大登",
+      "onboard_time": 1694164115,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239546,
       "num": 239546,
       "word": "花样青春",
       "onboard_time": 1694135853,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239174,
-      "num": 239174,
-      "word": "当妈后开始为i做e",
-      "onboard_time": 1694160391,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 237133,
@@ -1275,11 +1363,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 224179,
+      "num": 224179,
+      "word": "肖战骄阳伴我雨中笑名场面",
+      "onboard_time": 1694164538,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220573,
       "num": 220573,
       "word": "陈都灵西出玉门剧照",
       "onboard_time": 1694085576,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219665,
+      "num": 219665,
+      "word": "倪妮本色出演",
+      "onboard_time": 1694163815,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1331,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207957,
+      "num": 207957,
+      "word": "梅西成全球国家队参与进球历史第1人",
+      "onboard_time": 1694160334,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207389,
       "num": 207389,
       "word": "深圳遭暴雨突袭地铁站进水",
@@ -1361,6 +1473,14 @@
       "onboard_time": 1694150078,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201304,
+      "num": 201304,
+      "word": "韩版想见你全集上线",
+      "onboard_time": 1694164293,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 200552,
@@ -1400,14 +1520,6 @@
       "word": "阿根廷vs厄瓜多尔",
       "onboard_time": 1694135378,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196304,
-      "num": 196304,
-      "word": "梅西成全球国家队参与进球历史第1人",
-      "onboard_time": 1694160334,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1643,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166178,
+      "num": 166178,
+      "word": "二公伶人",
+      "onboard_time": 1694161894,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165561,
       "num": 165561,
       "word": "宋亚轩骑平衡车路过军训新生队伍",
@@ -1665,14 +1785,6 @@
       "onboard_time": 1694156914,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162454,
-      "num": 162454,
-      "word": "男生对不喜欢的人都很双标吗",
-      "onboard_time": 1694161654,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 160013,
@@ -1705,6 +1817,22 @@
       "onboard_time": 1694127986,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154197,
+      "num": 154197,
+      "word": "费翔乌尔善芭莎",
+      "onboard_time": 1694162074,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 153256,
+      "num": 154546,
+      "word": "公交司机送发病游客就医全车鼓掌",
+      "onboard_time": 1694163693,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 151590,
@@ -1795,22 +1923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140848,
-      "num": 140848,
-      "word": "二公伶人",
-      "onboard_time": 1694161894,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 139851,
-      "num": 139851,
-      "word": "父辈的荣耀太好哭了",
-      "onboard_time": 1694162013,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 139404,
       "num": 139404,
       "word": "瑞幸将再向茅台采购飞天茅台酒",
@@ -1867,8 +1979,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115410,
+      "num": 360049,
+      "word": "蚂蚁集团发布金融大模型",
+      "onboard_time": 1694163636,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108415,
-      "num": 1069783,
+      "num": 1165536,
       "word": "人民群众遇到困难一方有难八方支援",
       "onboard_time": 1694159372,
       "rank": 2,
