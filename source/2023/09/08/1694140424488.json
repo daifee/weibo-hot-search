@@ -1,0 +1,410 @@
+{
+  "runTime": 1694140424488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 705526,
+        "num": 884081,
+        "word": "丫丫大口大口地炫饭",
+        "onboard_time": 1694137894,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696303,
+        "num": 696303,
+        "word": "梅西任意球破门",
+        "onboard_time": 1694137955,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21946,
+        "num": 679684,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1803031,
+        "num": 670104,
+        "word": "何超莲想和窦骁一起录综艺",
+        "onboard_time": 1694138734,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697425,
+        "num": 654600,
+        "word": "深圳泄洪",
+        "onboard_time": 1694104289,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1576644,
+        "num": 639967,
+        "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
+        "onboard_time": 1694134180,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629461,
+        "num": 629461,
+        "word": "长期不吃晚餐真的会瘦吗",
+        "onboard_time": 1694099439,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446873,
+        "num": 446873,
+        "word": "大英博物馆为什么天天这么多人",
+        "onboard_time": 1694131596,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396847,
+        "num": 396847,
+        "word": "00后入警2个月收锦旗变显眼包",
+        "onboard_time": 1694139756,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393281,
+        "num": 393281,
+        "word": "香港暴雨",
+        "onboard_time": 1694129070,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126756,
+        "num": 388449,
+        "word": "这居然是向佐",
+        "onboard_time": 1694132559,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860602,
+        "num": 386746,
+        "word": "iPhone15机型比例为3比1",
+        "onboard_time": 1694133638,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 735641,
+        "num": 381339,
+        "word": "华为MateX5开售",
+        "onboard_time": 1694140117,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 690776,
+        "num": 376593,
+        "word": "新郎和新娘不在一个图层",
+        "onboard_time": 1694099620,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373139,
+        "num": 373139,
+        "word": "香港的雨有多大",
+        "onboard_time": 1694139574,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569631,
+        "num": 370145,
+        "word": "虞书欣 我被谁表扬过啊",
+        "onboard_time": 1694132197,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460393,
+        "num": 367057,
+        "word": "番禺",
+        "onboard_time": 1694134901,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436209,
+        "num": 364991,
+        "word": "Mystic前女友发长文控诉",
+        "onboard_time": 1694132378,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359825,
+        "num": 359825,
+        "word": "被困横店后我成了所有男主的白月光",
+        "onboard_time": 1694098601,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355120,
+        "num": 355120,
+        "word": "日本核污染水已排海6100吨",
+        "onboard_time": 1694098720,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472608,
+        "num": 354176,
+        "word": "看了伴娘服瞬间不想当她的伴娘了",
+        "onboard_time": 1694138554,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449285,
+        "num": 345663,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328113,
+        "num": 328113,
+        "word": "林俊杰广州",
+        "onboard_time": 1694134236,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327521,
+        "num": 327521,
+        "word": "12斤的猫是什么概念",
+        "onboard_time": 1694136633,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298487,
+        "num": 298487,
+        "word": "原来屈原才是中国飞天第一人",
+        "onboard_time": 1694138674,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272503,
+        "num": 272503,
+        "word": "意大利的罚单给我寄广西来了",
+        "onboard_time": 1694134121,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260279,
+        "num": 260279,
+        "word": "突然就不怕变老了",
+        "onboard_time": 1694134778,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255456,
+        "num": 255456,
+        "word": "深圳9月8日全市停课",
+        "onboard_time": 1694133702,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251810,
+        "num": 251810,
+        "word": "檀健次kisskiss",
+        "onboard_time": 1694136214,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250731,
+        "num": 250731,
+        "word": "Angelababy 静奢风",
+        "onboard_time": 1694130514,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253892,
+        "num": 249999,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244840,
+        "num": 244840,
+        "word": "深圳外卖小哥急流中帮市民拽起电动车",
+        "onboard_time": 1694138375,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 228435,
+        "num": 228435,
+        "word": "云为衫 定制化新娘",
+        "onboard_time": 1694137595,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220778,
+        "num": 220778,
+        "word": "詹青云 年轻就是选择权的巅峰",
+        "onboard_time": 1694136697,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203097,
+        "num": 203097,
+        "word": "男性HPV疫苗要来了",
+        "onboard_time": 1694130032,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199079,
+        "num": 199079,
+        "word": "西出玉门首播反响",
+        "onboard_time": 1694139516,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191933,
+        "num": 191933,
+        "word": "丞磊的人夫感",
+        "onboard_time": 1694138917,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188121,
+        "num": 188121,
+        "word": "9岁女孩被40岁男子隔空猥亵",
+        "onboard_time": 1694105307,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181866,
+        "num": 181866,
+        "word": "双子座被人低估的一面",
+        "onboard_time": 1694138254,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177374,
+        "num": 177374,
+        "word": "张皓宸新书",
+        "onboard_time": 1694139337,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173624,
+        "num": 173624,
+        "word": "龚俊二闹周杰伦演唱会",
+        "onboard_time": 1694101776,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168366,
+        "num": 168366,
+        "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
+        "onboard_time": 1694099980,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167022,
+        "num": 167022,
+        "word": "花样青春",
+        "onboard_time": 1694135853,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165561,
+        "num": 165561,
+        "word": "宋亚轩骑平衡车路过军训新生队伍",
+        "onboard_time": 1694140173,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163160,
+        "num": 163160,
+        "word": "官方通报四川达州5死16伤交通事故",
+        "onboard_time": 1694130995,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162620,
+        "num": 162620,
+        "word": "今年夏天最有人气的内娱剧角色",
+        "onboard_time": 1694137713,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160208,
+        "num": 160208,
+        "word": "檀健次直播穿了防风被",
+        "onboard_time": 1694098961,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150612,
+        "num": 150612,
+        "word": "陈飞宇去看周杰伦演唱会",
+        "onboard_time": 1694133579,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147275,
+        "num": 147275,
+        "word": "妈妈被家暴女儿冲出揪爸爸头发阻止",
+        "onboard_time": 1694098118,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143897,
+        "num": 143897,
+        "word": "白露",
+        "onboard_time": 1694100340,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江省尚志市看望慰问受灾群众#"
+    }
+  }
+}
