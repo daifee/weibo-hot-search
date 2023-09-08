@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694176304821,
+  "endTime": 1694177278230,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1370219,
+      "num": 765949,
+      "word": "华为",
+      "onboard_time": 1694169759,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1316325,
       "num": 1316325,
       "word": "今年你会从iPhone转华为吗",
@@ -217,14 +225,6 @@
       "onboard_time": 1694131596,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1060998,
-      "num": 705754,
-      "word": "华为",
-      "onboard_time": 1694169759,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 1059017,
@@ -345,6 +345,14 @@
       "onboard_time": 1694164115,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 768455,
+      "num": 768455,
+      "word": "金繁红玉侍卫",
+      "onboard_time": 1694175514,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 764138,
@@ -563,20 +571,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 556766,
+      "num": 556766,
+      "word": "我课表出来了",
+      "onboard_time": 1694174193,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 552455,
       "num": 552455,
       "word": "陈梦vs王曼昱",
       "onboard_time": 1694172338,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 550707,
-      "num": 550707,
-      "word": "金繁红玉侍卫",
-      "onboard_time": 1694175514,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 540077,
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498931,
-      "num": 359442,
-      "word": "我课表出来了",
-      "onboard_time": 1694174193,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 491353,
       "num": 491353,
       "word": "女生杭州毕业旅行一周后定居",
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 469240,
-      "num": 359166,
+      "num": 422203,
       "word": "马龙vs林高远",
       "onboard_time": 1694175337,
       "rank": 11,
@@ -891,6 +891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 401961,
+      "num": 401961,
+      "word": "李亚男的画",
+      "onboard_time": 1694171854,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400402,
       "num": 400402,
       "word": "原来屈原才是中国飞天第一人",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1694165973,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 345291,
-      "num": 345291,
-      "word": "李亚男的画",
-      "onboard_time": 1694171854,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 338913,
@@ -1659,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224379,
+      "num": 224379,
+      "word": "夜色尚浅是一见钟情",
+      "onboard_time": 1694175153,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220573,
       "num": 220573,
       "word": "陈都灵西出玉门剧照",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1694153196,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205452,
-      "num": 205452,
-      "word": "夜色尚浅是一见钟情",
-      "onboard_time": 1694175153,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 204008,
@@ -2019,6 +2019,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 178755,
+      "num": 178755,
+      "word": "马龙晋级亚锦赛4强",
+      "onboard_time": 1694177137,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177888,
       "num": 177888,
       "word": "货车司机高速上教科书式救援",
@@ -2163,6 +2171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162241,
+      "num": 162241,
+      "word": "孙颖莎晋级亚锦赛4强",
+      "onboard_time": 1694176177,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160013,
       "num": 160013,
       "word": "华为mate60和iPhone15选哪个",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1694164896,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "国产带状疱疹疫苗来西安了",
+      "onboard_time": 1694176712,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155394,
@@ -2323,14 +2347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140766,
-      "num": 140766,
-      "word": "孙颖莎晋级亚锦赛4强",
-      "onboard_time": 1694176177,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140731,
       "num": 140731,
       "word": "长白山拍到手欠儿小熊",
@@ -2395,6 +2411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133061,
+      "num": 133061,
+      "word": "新式神渺念萤草",
+      "onboard_time": 1694176474,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128838,
       "num": 400232,
       "word": "店主凌晨冒雨打开店门营救被淹车辆",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1694173412,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120710,
+      "num": 120710,
+      "word": "女儿记录爸爸用簸箕英勇捞出触电者",
+      "onboard_time": 1694177137,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117892,

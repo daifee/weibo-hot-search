@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694176304821,
+  "endTime": 1694177278230,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1370219,
+      "num": 765949,
+      "word": "华为",
+      "onboard_time": 1694169759,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1348630,
       "num": 1348630,
       "word": "农行卡状态异常",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1693834537,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1060998,
-      "num": 705754,
-      "word": "华为",
-      "onboard_time": 1694169759,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 1060554,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1693784373,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 768455,
+      "num": 768455,
+      "word": "金繁红玉侍卫",
+      "onboard_time": 1694175514,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 767584,
@@ -4171,6 +4179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 556766,
+      "num": 556766,
+      "word": "我课表出来了",
+      "onboard_time": 1694174193,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 556485,
       "num": 351591,
       "word": "100根头发有多少",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1694016752,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 550707,
-      "num": 550707,
-      "word": "金繁红玉侍卫",
-      "onboard_time": 1694175514,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 549678,
@@ -4883,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498931,
-      "num": 359442,
-      "word": "我课表出来了",
-      "onboard_time": 1694174193,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 498895,
       "num": 498895,
       "word": "夭柳 不负相思意大电影",
@@ -5204,7 +5204,7 @@
     },
     {
       "raw_hot": 469240,
-      "num": 359166,
+      "num": 422203,
       "word": "马龙vs林高远",
       "onboard_time": 1694175337,
       "rank": 11,
@@ -6107,6 +6107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 401961,
+      "num": 401961,
+      "word": "李亚男的画",
+      "onboard_time": 1694171854,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401216,
       "num": 341858,
       "word": "倪妮把8块钱的围裙穿这么好看",
@@ -6889,14 +6897,6 @@
       "onboard_time": 1693808915,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345291,
-      "num": 345291,
-      "word": "李亚男的画",
-      "onboard_time": 1694171854,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 345159,
@@ -10107,6 +10107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224379,
+      "num": 224379,
+      "word": "夜色尚浅是一见钟情",
+      "onboard_time": 1694175153,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224203,
       "num": 224203,
       "word": "女子被男孩撞倒家长听说骨折后急忙离开",
@@ -10833,14 +10841,6 @@
       "onboard_time": 1693738424,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205452,
-      "num": 205452,
-      "word": "夜色尚浅是一见钟情",
-      "onboard_time": 1694175153,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 205339,
@@ -12387,6 +12387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178755,
+      "num": 178755,
+      "word": "马龙晋级亚锦赛4强",
+      "onboard_time": 1694177137,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178702,
       "num": 178702,
       "word": "胡兵说第几名不重要主要得体面",
@@ -13035,6 +13043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162241,
+      "num": 162241,
+      "word": "孙颖莎晋级亚锦赛4强",
+      "onboard_time": 1694176177,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162235,
       "num": 458125,
       "word": "原来这就是流光溢彩的白",
@@ -13249,6 +13265,14 @@
       "onboard_time": 1693795594,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "国产带状疱疹疫苗来西安了",
+      "onboard_time": 1694176712,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155902,
@@ -13779,14 +13803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140766,
-      "num": 140766,
-      "word": "孙颖莎晋级亚锦赛4强",
-      "onboard_time": 1694176177,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140731,
       "num": 140731,
       "word": "长白山拍到手欠儿小熊",
@@ -13945,6 +13961,14 @@
       "onboard_time": 1694000376,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133061,
+      "num": 133061,
+      "word": "新式神渺念萤草",
+      "onboard_time": 1694176474,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 132931,
@@ -14153,6 +14177,14 @@
       "onboard_time": 1694066435,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 120710,
+      "num": 120710,
+      "word": "女儿记录爸爸用簸箕英勇捞出触电者",
+      "onboard_time": 1694177137,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120447,
