@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694177278230,
+  "endTime": 1694179206801,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -163,7 +163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1370219,
+      "raw_hot": 1403962,
       "num": 765949,
       "word": "华为",
       "onboard_time": 1694169759,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620001,
+      "num": 298340,
+      "word": "比熬夜更耗气血的其实是玩手机",
+      "onboard_time": 1694178364,
+      "rank": 21,
+      "category": "其它"
+    },
+    {
       "raw_hot": 617118,
       "num": 297108,
       "word": "内娱顶级淡颜系代表",
@@ -585,6 +593,14 @@
       "onboard_time": 1694172338,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 546875,
+      "num": 546875,
+      "word": "Uzi纪念限定薇恩",
+      "onboard_time": 1694177854,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 540077,
@@ -699,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 471024,
+      "num": 471024,
+      "word": "西游记才是废话文学鼻祖",
+      "onboard_time": 1694177735,
+      "rank": 9,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 469240,
       "num": 422203,
       "word": "马龙vs林高远",
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 442241,
-      "num": 247751,
+      "num": 296758,
       "word": "爸妈让我保证30岁前不结婚",
       "onboard_time": 1694173772,
       "rank": 22,
@@ -835,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420186,
+      "num": 420186,
+      "word": "于适抬眼 武王初现",
+      "onboard_time": 1694177854,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419172,
       "num": 419172,
       "word": "被删减的殷寿在苏护刀下救姬发片段",
@@ -849,6 +881,14 @@
       "onboard_time": 1694156191,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416986,
+      "num": 416986,
+      "word": "朝日集团不再邀请杰尼斯艺人代言",
+      "onboard_time": 1694178513,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 415639,
@@ -947,6 +987,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 389284,
+      "num": 389284,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1694174912,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 388142,
+      "num": 388142,
+      "word": "真的有龙吗",
+      "onboard_time": 1694177613,
+      "rank": 16,
+      "category": "其它"
+    },
+    {
       "raw_hot": 382417,
       "num": 382417,
       "word": "上海杜莎将揭幕宋茜蜡像",
@@ -1017,14 +1073,6 @@
       "onboard_time": 1694145699,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356300,
-      "num": 356300,
-      "word": "林俊杰广州演唱会",
-      "onboard_time": 1694174912,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 354093,
@@ -1252,7 +1300,7 @@
     },
     {
       "raw_hot": 291523,
-      "num": 242793,
+      "num": 252400,
       "word": "敖子逸打着石膏参加决赛",
       "onboard_time": 1694175274,
       "rank": 23,
@@ -1371,6 +1419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 266720,
+      "num": 266720,
+      "word": "中餐厅",
+      "onboard_time": 1694178513,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262925,
       "num": 262925,
       "word": "海岸或在接触成毅王一博",
@@ -1416,6 +1472,14 @@
       "word": "韩版想见你全集上线",
       "onboard_time": 1694164293,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258888,
+      "num": 258888,
+      "word": "孟子义邀请西出玉门全员去桃花坞",
+      "onboard_time": 1694177973,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1731,6 +1795,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 208578,
+      "num": 208578,
+      "word": "女儿记录爸爸用簸箕英勇捞出触电者",
+      "onboard_time": 1694177137,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208059,
       "num": 208059,
       "word": "现在年轻人许的愿有多奇葩",
@@ -2003,6 +2075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183032,
+      "num": 183032,
+      "word": "中国赛石宇奇进4强",
+      "onboard_time": 1694177973,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179892,
       "num": 179892,
       "word": "战至巅峰",
@@ -2011,20 +2091,20 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 179576,
+      "num": 179576,
+      "word": "马龙晋级亚锦赛4强",
+      "onboard_time": 1694177137,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178954,
       "num": 246944,
       "word": "中国的银行AI有多牛",
       "onboard_time": 1694145998,
       "rank": 41,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 178755,
-      "num": 178755,
-      "word": "马龙晋级亚锦赛4强",
-      "onboard_time": 1694177137,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 177888,
@@ -2195,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157372,
+      "num": 157372,
+      "word": "王曼昱加油",
+      "onboard_time": 1694178035,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156795,
       "num": 156795,
       "word": "宫尚角角色魅力爆表的一段",
@@ -2347,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141188,
+      "num": 141188,
+      "word": "U15国足晋级东亚杯决赛",
+      "onboard_time": 1694179115,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140731,
       "num": 140731,
       "word": "长白山拍到手欠儿小熊",
@@ -2467,20 +2563,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120710,
-      "num": 120710,
-      "word": "女儿记录爸爸用簸箕英勇捞出触电者",
-      "onboard_time": 1694177137,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117892,
       "num": 117892,
       "word": "志晟中国首封",
       "onboard_time": 1694174493,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 113598,
+      "num": 113598,
+      "word": "大熊猫圆润当妈妈了",
+      "onboard_time": 1694179176,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108415,
@@ -2497,6 +2593,14 @@
       "onboard_time": 1694146538,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103177,
+      "num": 206812,
+      "word": "买车听开车的还是坐车的",
+      "onboard_time": 1694178455,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 100417,
