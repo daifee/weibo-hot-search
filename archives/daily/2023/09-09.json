@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694204236249,
+  "endTime": 1694205245947,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -459,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36632,
+      "num": 29065,
+      "word": "感觉不到爱意就是没有",
+      "onboard_time": 1694201355,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36537,
       "num": 36537,
       "word": "网友为不实言论向黄晓明道歉",
       "onboard_time": 1694198777,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32892,
-      "num": 29065,
-      "word": "感觉不到爱意就是没有",
-      "onboard_time": 1694201355,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 31734,
@@ -499,20 +499,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20466,
-      "num": 20466,
-      "word": "唐禹哲不愧是年轻的身体",
-      "onboard_time": 1694203514,
-      "rank": 38,
+      "raw_hot": 25563,
+      "num": 25563,
+      "word": "Ella爸爸和爷爷撞脸任贤齐",
+      "onboard_time": 1694204354,
+      "rank": 29,
       "category": "综艺"
     },
     {
-      "raw_hot": 19628,
-      "num": 19628,
+      "raw_hot": 24907,
+      "num": 24907,
       "word": "孙阳的真挚不代表他就必须要完美",
       "onboard_time": 1694203993,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21682,
+      "num": 21682,
+      "word": "唐禹哲不愧是年轻的身体",
+      "onboard_time": 1694203514,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 14872,

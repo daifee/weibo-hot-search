@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694204236249,
+  "endTime": 1694205245947,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -15843,6 +15843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36632,
+      "num": 29065,
+      "word": "感觉不到爱意就是没有",
+      "onboard_time": 1694201355,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36537,
       "num": 36537,
       "word": "网友为不实言论向黄晓明道歉",
@@ -15889,14 +15897,6 @@
       "onboard_time": 1693728098,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32892,
-      "num": 29065,
-      "word": "感觉不到爱意就是没有",
-      "onboard_time": 1694201355,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 32520,
@@ -16035,12 +16035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25563,
+      "num": 25563,
+      "word": "Ella爸爸和爷爷撞脸任贤齐",
+      "onboard_time": 1694204354,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25029,
       "num": 1277410,
       "word": "共建一带一路倡议十周年",
       "onboard_time": 1694165614,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24907,
+      "num": 24907,
+      "word": "孙阳的真挚不代表他就必须要完美",
+      "onboard_time": 1694203993,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24831,
@@ -16091,6 +16107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 21682,
+      "num": 21682,
+      "word": "唐禹哲不愧是年轻的身体",
+      "onboard_time": 1694203514,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21246,
       "num": 203907,
       "word": "你会选择AI帮你理财吗",
@@ -16129,22 +16153,6 @@
       "onboard_time": 1694028135,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20466,
-      "num": 20466,
-      "word": "唐禹哲不愧是年轻的身体",
-      "onboard_time": 1694203514,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 19628,
-      "num": 19628,
-      "word": "孙阳的真挚不代表他就必须要完美",
-      "onboard_time": 1694203993,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19435,
