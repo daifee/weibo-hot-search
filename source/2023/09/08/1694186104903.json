@@ -1,0 +1,410 @@
+{
+  "runTime": 1694186104903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8806920,
+        "num": 8806920,
+        "word": "周杰伦演唱会受伤",
+        "onboard_time": 1694183017,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2465171,
+        "num": 2465171,
+        "word": "阿信演唱会吸氧",
+        "onboard_time": 1694182957,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22261,
+        "num": 866762,
+        "word": "共建一带一路倡议十周年",
+        "onboard_time": 1694165614,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 648132,
+        "num": 648132,
+        "word": "云之羽一口气追到大结局",
+        "onboard_time": 1694179595,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576898,
+        "num": 576898,
+        "word": "刘恋MVP",
+        "onboard_time": 1694180916,
+        "rank": 4,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 555468,
+        "num": 555468,
+        "word": "为什么上岸第一剑先斩意中人",
+        "onboard_time": 1694166935,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 551423,
+        "num": 551423,
+        "word": "金泰亨销量违反规定",
+        "onboard_time": 1694185482,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546947,
+        "num": 546947,
+        "word": "德国男篮战胜美国男篮",
+        "onboard_time": 1694184343,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506060,
+        "num": 506060,
+        "word": "华为",
+        "onboard_time": 1694169759,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 502593,
+        "num": 502593,
+        "word": "义乳女团",
+        "onboard_time": 1694163636,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 620631,
+        "num": 497568,
+        "word": "企业回应把日本食材引进无锡学生餐",
+        "onboard_time": 1694182477,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470960,
+        "num": 470960,
+        "word": "G社拍的倪妮",
+        "onboard_time": 1694181939,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 362275,
+        "num": 440176,
+        "word": "大熊猫园润当妈妈了",
+        "onboard_time": 1694179176,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207734,
+        "num": 437183,
+        "word": "8月新增501例猴痘确诊",
+        "onboard_time": 1694164958,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167438,
+        "num": 436673,
+        "word": "90后牺牲民警生前说人民公安为人民",
+        "onboard_time": 1694182598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436354,
+        "num": 436354,
+        "word": "日本皇室的狗血婚嫁史",
+        "onboard_time": 1694180196,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 411331,
+        "num": 411331,
+        "word": "iPhone15Pro减轻约10%",
+        "onboard_time": 1694184218,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 404324,
+        "num": 404324,
+        "word": "林俊杰广州演唱会",
+        "onboard_time": 1694174912,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 381867,
+        "num": 381867,
+        "word": "虞书欣张凌赫卢昱晓聚餐",
+        "onboard_time": 1694179654,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318208,
+        "num": 318208,
+        "word": "黄明昊丝血反杀敖子逸",
+        "onboard_time": 1694182957,
+        "rank": 19,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 1162714,
+        "num": 318150,
+        "word": "沈梦辰杜海涛可以一起生活不能一起工作",
+        "onboard_time": 1694168554,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 845089,
+        "num": 317231,
+        "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
+        "onboard_time": 1694184218,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806460,
+        "num": 316383,
+        "word": "长期不换头像的情绪更稳定吗",
+        "onboard_time": 1694184940,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415371,
+        "num": 315928,
+        "word": "比熬夜更耗气血的其实是玩手机",
+        "onboard_time": 1694178364,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 315592,
+        "num": 315592,
+        "word": "刘宪华Jessi真的在内娱合体了",
+        "onboard_time": 1694185603,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285043,
+        "num": 285043,
+        "word": "敖子逸四杀",
+        "onboard_time": 1694185844,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281647,
+        "num": 281647,
+        "word": "吃石头小猫的后续",
+        "onboard_time": 1694180558,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268606,
+        "num": 268606,
+        "word": "黄明昊FMVP",
+        "onboard_time": 1694183438,
+        "rank": 27,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 251412,
+        "num": 251412,
+        "word": "英语四级从424到423",
+        "onboard_time": 1694167593,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244395,
+        "num": 244395,
+        "word": "Uzi纪念限定薇恩",
+        "onboard_time": 1694177854,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234244,
+        "num": 234244,
+        "word": "容祖儿晒其在香港暴雨中开车",
+        "onboard_time": 1694180138,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 225071,
+        "num": 225071,
+        "word": "深圳外卖小哥回应帮市民拽起电动车",
+        "onboard_time": 1694183680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223629,
+        "num": 223629,
+        "word": "Wind战至巅峰第二季总冠军",
+        "onboard_time": 1694183198,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221762,
+        "num": 221762,
+        "word": "不要轻易去外省读大学",
+        "onboard_time": 1694185603,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219826,
+        "num": 219826,
+        "word": "刘雅瑟 我不教你做人你也别教我做人",
+        "onboard_time": 1694180795,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218496,
+        "num": 218496,
+        "word": "爸妈让我保证30岁前不结婚",
+        "onboard_time": 1694173772,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211513,
+        "num": 211513,
+        "word": "金繁红玉侍卫",
+        "onboard_time": 1694175514,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208369,
+        "num": 208369,
+        "word": "西游记才是废话文学鼻祖",
+        "onboard_time": 1694177735,
+        "rank": 37,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 206470,
+        "num": 206470,
+        "word": "德国男篮晋级世界杯决赛",
+        "onboard_time": 1694185000,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11285,
+        "num": 203907,
+        "word": "你会选择AI帮你理财吗",
+        "onboard_time": 1694185237,
+        "rank": 39,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 202370,
+        "num": 202370,
+        "word": "真的有龙吗",
+        "onboard_time": 1694177613,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 184411,
+        "num": 184411,
+        "word": "池约翰大心脏",
+        "onboard_time": 1694183861,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178045,
+        "num": 178045,
+        "word": "刘诗诗沈月狐妖竹业篇异域造型",
+        "onboard_time": 1694179834,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171112,
+        "num": 171112,
+        "word": "魏哲鸣脑子里都是周杰伦吧",
+        "onboard_time": 1694180375,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164369,
+        "num": 164369,
+        "word": "美国男篮vs德国男篮",
+        "onboard_time": 1694180916,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161745,
+        "num": 161745,
+        "word": "乐队的夏天3",
+        "onboard_time": 1694185666,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161174,
+        "num": 161174,
+        "word": "张远也能给苏醒介绍活了",
+        "onboard_time": 1694183198,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152407,
+        "num": 152407,
+        "word": "安吉丽娜朱莉带女儿看演唱会",
+        "onboard_time": 1694185180,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150581,
+        "num": 150581,
+        "word": "赵露思美拉德穿搭",
+        "onboard_time": 1694172575,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148434,
+        "num": 148434,
+        "word": "金靖给张凌赫备注宫子牛",
+        "onboard_time": 1694171495,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国广大教师节日快乐#"
+    }
+  }
+}

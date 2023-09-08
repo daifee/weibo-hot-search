@@ -1,7 +1,15 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694183643037,
+  "endTime": 1694186104903,
   "band_list": [
+    {
+      "raw_hot": 8806920,
+      "num": 8806920,
+      "word": "周杰伦演唱会受伤",
+      "onboard_time": 1694183017,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 3436547,
       "num": 3175422,
@@ -33,6 +41,14 @@
       "onboard_time": 1694163636,
       "rank": 3,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 2465171,
+      "num": 2465171,
+      "word": "阿信演唱会吸氧",
+      "onboard_time": 1694182957,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 2416523,
@@ -73,14 +89,6 @@
       "onboard_time": 1694132559,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2010785,
-      "num": 2010785,
-      "word": "周杰伦演唱会受伤",
-      "onboard_time": 1694183017,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1933149,
@@ -291,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 954665,
-      "num": 954665,
-      "word": "阿信演唱会吸氧",
-      "onboard_time": 1694182957,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 944171,
       "num": 944171,
       "word": "一张图证明广东的雨有多大",
@@ -321,6 +321,14 @@
       "onboard_time": 1694133638,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 845089,
+      "num": 317231,
+      "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
+      "onboard_time": 1694184218,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 833946,
@@ -353,6 +361,14 @@
       "onboard_time": 1694098720,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806460,
+      "num": 316383,
+      "word": "长期不换头像的情绪更稳定吗",
+      "onboard_time": 1694184940,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 795788,
@@ -588,11 +604,19 @@
     },
     {
       "raw_hot": 623553,
-      "num": 420249,
+      "num": 470960,
       "word": "G社拍的倪妮",
       "onboard_time": 1694181939,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 620631,
+      "num": 497568,
+      "word": "企业回应把日本食材引进无锡学生餐",
+      "onboard_time": 1694182477,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617118,
@@ -672,6 +696,22 @@
       "word": "陈梦vs王曼昱",
       "onboard_time": 1694172338,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 551423,
+      "num": 551423,
+      "word": "金泰亨销量违反规定",
+      "onboard_time": 1694185482,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 546947,
+      "num": 546947,
+      "word": "德国男篮战胜美国男篮",
+      "onboard_time": 1694184343,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -979,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 411331,
+      "num": 411331,
+      "word": "iPhone15Pro减轻约10%",
+      "onboard_time": 1694184218,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 410582,
       "num": 410582,
       "word": "人民日报评异人之下",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1694142396,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404324,
+      "num": 404324,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1694174912,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 403962,
@@ -1072,14 +1128,6 @@
       "word": "龚俊二闹周杰伦演唱会",
       "onboard_time": 1694101776,
       "rank": 20,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 389284,
-      "num": 389284,
-      "word": "林俊杰广州演唱会",
-      "onboard_time": 1694174912,
-      "rank": 16,
       "category": "音乐"
     },
     {
@@ -1339,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315592,
+      "num": 315592,
+      "word": "刘宪华Jessi真的在内娱合体了",
+      "onboard_time": 1694185603,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315366,
       "num": 315366,
       "word": "深圳暴雨现场画面",
@@ -1385,14 +1441,6 @@
       "onboard_time": 1694134778,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 306025,
-      "num": 306025,
-      "word": "企业回应把日本食材引进无锡学生餐",
-      "onboard_time": 1694182477,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303868,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1694164538,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285043,
+      "num": 285043,
+      "word": "敖子逸四杀",
+      "onboard_time": 1694185844,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 284427,
@@ -1891,6 +1947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 225071,
+      "num": 225071,
+      "word": "深圳外卖小哥回应帮市民拽起电动车",
+      "onboard_time": 1694183680,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224815,
       "num": 224815,
       "word": "王艺迪3比1伊藤美诚",
@@ -1905,6 +1969,14 @@
       "onboard_time": 1694175153,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221762,
+      "num": 221762,
+      "word": "不要轻易去外省读大学",
+      "onboard_time": 1694185603,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 220573,
@@ -2001,6 +2073,14 @@
       "onboard_time": 1694127868,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206470,
+      "num": 206470,
+      "word": "德国男篮晋级世界杯决赛",
+      "onboard_time": 1694185000,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 206347,
@@ -2227,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184411,
+      "num": 184411,
+      "word": "池约翰大心脏",
+      "onboard_time": 1694183861,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184210,
       "num": 184210,
       "word": "博格丹23分",
@@ -2379,6 +2467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167438,
+      "num": 436673,
+      "word": "90后牺牲民警生前说人民公安为人民",
+      "onboard_time": 1694182598,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167405,
       "num": 167405,
       "word": "倪妮把8块钱的围裙穿这么好看",
@@ -2435,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161745,
+      "num": 161745,
+      "word": "乐队的夏天3",
+      "onboard_time": 1694185666,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160013,
       "num": 160013,
       "word": "华为mate60和iPhone15选哪个",
@@ -2475,14 +2579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156496,
-      "num": 156496,
-      "word": "90后牺牲民警生前说人民公安为人民",
-      "onboard_time": 1694182598,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155917,
       "num": 155917,
       "word": "国产带状疱疹疫苗来西安了",
@@ -2513,6 +2609,14 @@
       "onboard_time": 1694163693,
       "rank": 41,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 152407,
+      "num": 152407,
+      "word": "安吉丽娜朱莉带女儿看演唱会",
+      "onboard_time": 1694185180,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 151590,
@@ -2929,6 +3033,14 @@
       "onboard_time": 1694111896,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11285,
+      "num": 203907,
+      "word": "你会选择AI帮你理财吗",
+      "onboard_time": 1694185237,
+      "rank": 39,
+      "category": "社会议题,科技"
     }
   ],
   "hotgov_list": [
