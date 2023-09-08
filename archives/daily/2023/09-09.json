@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694207652274,
+  "endTime": 1694208838576,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37123,
+      "num": 27339,
+      "word": "Ella爸爸和爷爷撞脸任贤齐",
+      "onboard_time": 1694204354,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36632,
       "num": 29065,
       "word": "感觉不到爱意就是没有",
@@ -473,14 +481,6 @@
       "onboard_time": 1694198777,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35236,
-      "num": 25563,
-      "word": "Ella爸爸和爷爷撞脸任贤齐",
-      "onboard_time": 1694204354,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 31734,
@@ -507,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27923,
+      "num": 27923,
+      "word": "东莞暴雨",
+      "onboard_time": 1694206094,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24907,
       "num": 24907,
       "word": "孙阳的真挚不代表他就必须要完美",
@@ -515,12 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22641,
-      "num": 22641,
-      "word": "东莞暴雨",
-      "onboard_time": 1694206094,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 23100,
+      "num": 23100,
+      "word": "纽约大学医生带你1分钟拉伸",
+      "onboard_time": 1694206814,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 21682,
@@ -529,14 +537,6 @@
       "onboard_time": 1694203514,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20075,
-      "num": 21127,
-      "word": "纽约大学医生带你1分钟拉伸",
-      "onboard_time": 1694206814,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 18099,
