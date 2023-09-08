@@ -1,0 +1,410 @@
+{
+  "runTime": 1694198043088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 202422,
+        "num": 202422,
+        "word": "11.4万人都知道盛阳失业了",
+        "onboard_time": 1694190989,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142267,
+        "num": 142267,
+        "word": "王源说希望赵英俊能为自己感到骄傲",
+        "onboard_time": 1694195660,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14872,
+        "num": 136781,
+        "word": "来杭州看看梦里江南的模样",
+        "onboard_time": 1694179416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439137,
+        "num": 136579,
+        "word": "周杰伦演唱会受伤",
+        "onboard_time": 1694183017,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354549,
+        "num": 135388,
+        "word": "大学生贷款参加就业培训后自缢身亡",
+        "onboard_time": 1694187761,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133475,
+        "num": 133475,
+        "word": "义乳女团",
+        "onboard_time": 1694163636,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 123766,
+        "num": 123766,
+        "word": "阿信演唱会吸氧",
+        "onboard_time": 1694182957,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99249,
+        "num": 99249,
+        "word": "为什么上岸第一剑先斩意中人",
+        "onboard_time": 1694166935,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 95453,
+        "num": 95453,
+        "word": "云之羽一口气追到大结局",
+        "onboard_time": 1694179595,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79713,
+        "num": 93894,
+        "word": "女子照顾植物人丈夫4年终苏醒",
+        "onboard_time": 1694187939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132445,
+        "num": 93721,
+        "word": "周杰伦幽闭恐惧症",
+        "onboard_time": 1694187463,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92745,
+        "num": 92745,
+        "word": "刘宪华Jessi真的在内娱合体了",
+        "onboard_time": 1694185603,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58053,
+        "num": 90510,
+        "word": "8月新增501例猴痘确诊",
+        "onboard_time": 1694164958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43670,
+        "num": 89790,
+        "word": "大熊猫园润当妈妈了",
+        "onboard_time": 1694179176,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36535,
+        "num": 89647,
+        "word": "暴雨中最让人安心的橙色",
+        "onboard_time": 1694188358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89587,
+        "num": 89587,
+        "word": "没唱玫瑰少年",
+        "onboard_time": 1694186564,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78804,
+        "num": 78804,
+        "word": "金泰亨销量违反规定",
+        "onboard_time": 1694185482,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75240,
+        "num": 75240,
+        "word": "企业回应把日本食材引进无锡学生餐",
+        "onboard_time": 1694182477,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71068,
+        "num": 71068,
+        "word": "乌尔善说封神破30亿会有演唱会",
+        "onboard_time": 1694186440,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67440,
+        "num": 67440,
+        "word": "iPhone15Pro减轻约10%",
+        "onboard_time": 1694184218,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148841,
+        "num": 66969,
+        "word": "沈梦辰杜海涛可以一起生活不能一起工作",
+        "onboard_time": 1694168554,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128537,
+        "num": 66129,
+        "word": "长期不换头像的情绪更稳定吗",
+        "onboard_time": 1694184940,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118652,
+        "num": 66013,
+        "word": "比熬夜更耗气血的其实是玩手机",
+        "onboard_time": 1694178364,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 102235,
+        "num": 64760,
+        "word": "广东人是如何做到这么统一的",
+        "onboard_time": 1694187761,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 64643,
+        "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
+        "onboard_time": 1694184218,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80914,
+        "num": 63988,
+        "word": "李在明已绝食抗议9天",
+        "onboard_time": 1694187279,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63351,
+        "num": 63351,
+        "word": "林俊杰广州演唱会",
+        "onboard_time": 1694174912,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59324,
+        "num": 59324,
+        "word": "不要轻易去外省读大学",
+        "onboard_time": 1694185603,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57958,
+        "num": 57958,
+        "word": "被寄养一个月的猫咪骂了",
+        "onboard_time": 1694187221,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53518,
+        "num": 53518,
+        "word": "KTV配的歌手照片越来越离谱",
+        "onboard_time": 1694194223,
+        "rank": 29,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 53048,
+        "num": 53048,
+        "word": "Uzi纪念限定薇恩",
+        "onboard_time": 1694177854,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50550,
+        "num": 50550,
+        "word": "虞书欣张凌赫卢昱晓聚餐",
+        "onboard_time": 1694179654,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45790,
+        "num": 45790,
+        "word": "吃石头小猫的后续",
+        "onboard_time": 1694180558,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43952,
+        "num": 43952,
+        "word": "刘恋MVP",
+        "onboard_time": 1694180916,
+        "rank": 33,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 42941,
+        "num": 42941,
+        "word": "容祖儿晒其在香港暴雨中开车",
+        "onboard_time": 1694180138,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 39371,
+        "num": 39371,
+        "word": "爸妈让我保证30岁前不结婚",
+        "onboard_time": 1694173772,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41958,
+        "num": 39271,
+        "word": "金靖给张凌赫备注宫子牛",
+        "onboard_time": 1694171495,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39011,
+        "num": 39011,
+        "word": "德国男篮战胜美国男篮",
+        "onboard_time": 1694184343,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39111,
+        "num": 38921,
+        "word": "金繁红玉侍卫",
+        "onboard_time": 1694175514,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38777,
+        "num": 38777,
+        "word": "黄明昊FMVP",
+        "onboard_time": 1694183438,
+        "rank": 39,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 37519,
+        "num": 37519,
+        "word": "夜色尚浅是一见钟情",
+        "onboard_time": 1694175153,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36594,
+        "num": 36594,
+        "word": "英语四级从424到423",
+        "onboard_time": 1694167593,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36139,
+        "num": 36139,
+        "word": "刘雅瑟 我不教你做人你也别教我做人",
+        "onboard_time": 1694180795,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34741,
+        "num": 36138,
+        "word": "G社拍的倪妮",
+        "onboard_time": 1694181939,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33407,
+        "num": 36134,
+        "word": "李子维是老了不是变野人了",
+        "onboard_time": 1694168495,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32667,
+        "num": 36124,
+        "word": "骄阳伴我我哭了我演的",
+        "onboard_time": 1694187404,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31507,
+        "num": 36119,
+        "word": "现在做什么可在5年后受益匪浅",
+        "onboard_time": 1694188298,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30332,
+        "num": 36112,
+        "word": "李现网球王子随拍照",
+        "onboard_time": 1694190270,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29092,
+        "num": 36106,
+        "word": "朝日集团不再邀请杰尼斯艺人代言",
+        "onboard_time": 1694178513,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28758,
+        "num": 36100,
+        "word": "从广州亚运到杭州亚运",
+        "onboard_time": 1694197696,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国广大教师节日快乐#"
+    }
+  }
+}
