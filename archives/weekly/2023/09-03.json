@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694208838576,
+  "endTime": 1694211324873,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -9659,6 +9659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247435,
+      "num": 58788,
+      "word": "旅日游客称不介意福岛鱼",
+      "onboard_time": 1694198655,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247202,
       "num": 247202,
       "word": "韩东君蔡文静装腔浴室吻",
@@ -14523,14 +14531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 132164,
-      "num": 47005,
-      "word": "旅日游客称不介意福岛鱼",
-      "onboard_time": 1694198655,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131012,
       "num": 131012,
       "word": "野球帝八位师傅力挺洋妈",
@@ -15643,6 +15643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49465,
+      "num": 42455,
+      "word": "Ella爸爸和爷爷撞脸任贤齐",
+      "onboard_time": 1694204354,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47735,
       "num": 329856,
       "word": "7旬保安冲入火场救火全身被熏黑",
@@ -15683,6 +15691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44616,
+      "num": 42368,
+      "word": "王琳推荐肖战参加战至巅峰",
+      "onboard_time": 1694200095,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44345,
       "num": 409402,
       "word": "货车侧翻几十位好心人神同步帮忙",
@@ -15713,6 +15729,14 @@
       "onboard_time": 1693683196,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43766,
+      "num": 43766,
+      "word": "东莞暴雨",
+      "onboard_time": 1694206094,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43267,
@@ -15819,6 +15843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38031,
+      "num": 38031,
+      "word": "纽约大学医生带你1分钟拉伸",
+      "onboard_time": 1694206814,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37579,
       "num": 535066,
       "word": "福州暴雨旱鸭子拉水管拼命救人",
@@ -15835,14 +15867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37123,
-      "num": 27339,
-      "word": "Ella爸爸和爷爷撞脸任贤齐",
-      "onboard_time": 1694204354,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36829,
       "num": 48752,
       "word": "两个猫宝宝交换袜子穿",
@@ -15852,7 +15876,7 @@
     },
     {
       "raw_hot": 36632,
-      "num": 29065,
+      "num": 29882,
       "word": "感觉不到爱意就是没有",
       "onboard_time": 1694201355,
       "rank": 47,
@@ -15923,14 +15947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31734,
-      "num": 31734,
-      "word": "王琳推荐肖战参加战至巅峰",
-      "onboard_time": 1694200095,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31728,
       "num": 117429,
       "word": "外滩大会十大黑科技",
@@ -15985,14 +16001,6 @@
       "onboard_time": 1694197696,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27923,
-      "num": 27923,
-      "word": "东莞暴雨",
-      "onboard_time": 1694206094,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27876,
@@ -16091,6 +16099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23396,
+      "num": 29288,
+      "word": "檀健次相柳二创reaction",
+      "onboard_time": 1694205313,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23246,
       "num": 2070877,
       "word": "一起探营杭州亚运村",
@@ -16115,16 +16131,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 23100,
-      "num": 23100,
-      "word": "纽约大学医生带你1分钟拉伸",
-      "onboard_time": 1694206814,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21682,
-      "num": 21682,
+      "num": 29276,
       "word": "唐禹哲不愧是年轻的身体",
       "onboard_time": 1694203514,
       "rank": 38,
@@ -16203,19 +16211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18099,
-      "num": 21070,
-      "word": "檀健次相柳二创reaction",
-      "onboard_time": 1694205313,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 17886,
       "num": 166817,
       "word": "超6亿中国人都做过公益",
       "onboard_time": 1693810835,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17748,
+      "num": 247813,
+      "word": "来杭州看看梦里江南的模样",
+      "onboard_time": 1694179416,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -16249,14 +16257,6 @@
       "onboard_time": 1693773853,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14872,
-      "num": 247813,
-      "word": "来杭州看看梦里江南的模样",
-      "onboard_time": 1694179416,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14795,
