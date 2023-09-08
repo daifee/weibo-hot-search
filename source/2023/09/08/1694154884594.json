@@ -1,0 +1,410 @@
+{
+  "runTime": 1694154884594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1561197,
+        "num": 1561197,
+        "word": "华为王炸",
+        "onboard_time": 1694144016,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1536038,
+        "num": 1536038,
+        "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+        "onboard_time": 1694148280,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 1499011,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1483063,
+        "num": 1483063,
+        "word": "香港宣布极端情况至少维持至下午6时",
+        "onboard_time": 1694147861,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818051,
+        "num": 818051,
+        "word": "马斯克称iPhone换代毫无新意",
+        "onboard_time": 1694151634,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 674188,
+        "num": 674188,
+        "word": "消费降级一年后的真实变化",
+        "onboard_time": 1694149420,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 667763,
+        "num": 667763,
+        "word": "大奉打更人首发剧照",
+        "onboard_time": 1694153974,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572378,
+        "num": 572378,
+        "word": "丫丫胖出褶子了",
+        "onboard_time": 1694144137,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484452,
+        "num": 484452,
+        "word": "机圈汪峰",
+        "onboard_time": 1694150494,
+        "rank": 8,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 398914,
+        "num": 398914,
+        "word": "金晨野生眉",
+        "onboard_time": 1694150618,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1096053,
+        "num": 397000,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674109,
+        "num": 393446,
+        "word": "檀健次的狗让他颜面尽失",
+        "onboard_time": 1694146478,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378852,
+        "num": 378852,
+        "word": "北电2023级新生开学典礼",
+        "onboard_time": 1694152654,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 284673,
+        "num": 358179,
+        "word": "香港的雨有多大",
+        "onboard_time": 1694139574,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52290,
+        "num": 350489,
+        "word": "外卖小哥接力帮市民穿过汹涌水流",
+        "onboard_time": 1694152834,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347595,
+        "num": 347595,
+        "word": "可以是水牛但不可以是黄牛",
+        "onboard_time": 1694148221,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329826,
+        "num": 329826,
+        "word": "南风知我意",
+        "onboard_time": 1694141976,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328176,
+        "num": 328176,
+        "word": "上海杜莎将揭幕宋茜蜡像",
+        "onboard_time": 1694151815,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309822,
+        "num": 309822,
+        "word": "林志颖痛失队长",
+        "onboard_time": 1694154635,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275490,
+        "num": 275490,
+        "word": "范丞丞的身高优势都在这2米81里了",
+        "onboard_time": 1694154275,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272466,
+        "num": 272466,
+        "word": "何超莲想和窦骁一起录综艺",
+        "onboard_time": 1694138734,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272261,
+        "num": 272261,
+        "word": "华为和OPPO杠上了吗",
+        "onboard_time": 1694148040,
+        "rank": 21,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 241001,
+        "num": 241001,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238223,
+        "num": 238223,
+        "word": "深圳暴雨现场画面",
+        "onboard_time": 1694140835,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238124,
+        "num": 238124,
+        "word": "迪丽热巴上城士九月刊封面",
+        "onboard_time": 1694148099,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231991,
+        "num": 231991,
+        "word": "赵丽颖复古摩登发型",
+        "onboard_time": 1694148764,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 221991,
+        "num": 221991,
+        "word": "妈妈请不要再报我的虚岁了",
+        "onboard_time": 1694141195,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219340,
+        "num": 219340,
+        "word": "1207名缅北电诈嫌疑人移交我方",
+        "onboard_time": 1694144196,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216463,
+        "num": 216463,
+        "word": "下班后试婚纱会失去表情管理",
+        "onboard_time": 1694148999,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215416,
+        "num": 215416,
+        "word": "暑假开学都被桐华支配了",
+        "onboard_time": 1694153257,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214180,
+        "num": 214180,
+        "word": "孙颖莎王艺迪3比0平野美宇张本美和",
+        "onboard_time": 1694153852,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210649,
+        "num": 210649,
+        "word": "Mate60熊猫配色",
+        "onboard_time": 1694141735,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207268,
+        "num": 207268,
+        "word": "成毅的白衬衫偷偷想开了",
+        "onboard_time": 1694154453,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204123,
+        "num": 204123,
+        "word": "进去一个彪子 出来八百彪子",
+        "onboard_time": 1694147200,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202935,
+        "num": 202935,
+        "word": "这居然是向佐",
+        "onboard_time": 1694132559,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195175,
+        "num": 195175,
+        "word": "华为折叠屏满血回归",
+        "onboard_time": 1694145096,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191525,
+        "num": 191525,
+        "word": "华为推出Mate60Pro",
+        "onboard_time": 1694140475,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191071,
+        "num": 191071,
+        "word": "披荆斩棘二公真人秀海报",
+        "onboard_time": 1694149662,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190941,
+        "num": 190941,
+        "word": "看了伴娘服瞬间不想当她的伴娘了",
+        "onboard_time": 1694138554,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190100,
+        "num": 190100,
+        "word": "金珉奎综艺效果拉满",
+        "onboard_time": 1694154635,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162407,
+        "num": 162407,
+        "word": "华为MateX5开售",
+        "onboard_time": 1694140117,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164375,
+        "num": 162127,
+        "word": "崔胜澈将不出演花样青春",
+        "onboard_time": 1694148764,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160274,
+        "num": 160274,
+        "word": "林俊杰广州",
+        "onboard_time": 1694134236,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156791,
+        "num": 156791,
+        "word": "海岸或在接触成毅王一博",
+        "onboard_time": 1694149060,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145480,
+        "num": 145480,
+        "word": "宫远徵你怎么不笑了",
+        "onboard_time": 1694152295,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143818,
+        "num": 143818,
+        "word": "在逆水寒扮演陈情令",
+        "onboard_time": 1694141015,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139220,
+        "num": 139220,
+        "word": "檀健次诚意喊话剪刀手入职",
+        "onboard_time": 1694151398,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134638,
+        "num": 134638,
+        "word": "陈伟霆 一定不要以貌取人",
+        "onboard_time": 1694149237,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130283,
+        "num": 130283,
+        "word": "金泰亨solo出道",
+        "onboard_time": 1694147077,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122613,
+        "num": 122613,
+        "word": "益生菌是真养生还是智商税",
+        "onboard_time": 1694149778,
+        "rank": 49,
+        "category": "社会新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江考察#"
+    }
+  }
+}

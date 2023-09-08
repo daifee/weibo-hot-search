@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694154098389,
+  "endTime": 1694154884594,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1536038,
+      "num": 1536038,
+      "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+      "onboard_time": 1694148280,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1308075,
       "num": 1308075,
       "word": "香港暴雨",
@@ -113,14 +121,6 @@
       "onboard_time": 1694099620,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1196219,
-      "num": 1196219,
-      "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
-      "onboard_time": 1694148280,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1171488,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 818051,
+      "num": 818051,
+      "word": "马斯克称iPhone换代毫无新意",
+      "onboard_time": 1694151634,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 810052,
       "num": 810052,
       "word": "日本核污染水已排海6100吨",
@@ -225,14 +233,6 @@
       "onboard_time": 1694132378,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 764463,
-      "num": 764463,
-      "word": "马斯克称iPhone换代毫无新意",
-      "onboard_time": 1694151634,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 756217,
@@ -281,6 +281,14 @@
       "onboard_time": 1694133518,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 667763,
+      "num": 667763,
+      "word": "大奉打更人首发剧照",
+      "onboard_time": 1694153974,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 652792,
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398914,
+      "num": 398914,
+      "word": "金晨野生眉",
+      "onboard_time": 1694150618,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 395493,
       "num": 395493,
       "word": "崔胜澈将不出演花样青春",
@@ -569,6 +585,14 @@
       "onboard_time": 1694151815,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378852,
+      "num": 378852,
+      "word": "北电2023级新生开学典礼",
+      "onboard_time": 1694152654,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 378625,
@@ -617,22 +641,6 @@
       "onboard_time": 1694145699,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343847,
-      "num": 343847,
-      "word": "北电2023级新生开学典礼",
-      "onboard_time": 1694152654,
-      "rank": 15,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 339488,
-      "num": 339488,
-      "word": "金晨野生眉",
-      "onboard_time": 1694150618,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 338913,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309822,
+      "num": 309822,
+      "word": "林志颖痛失队长",
+      "onboard_time": 1694154635,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306704,
       "num": 306704,
       "word": "突然就不怕变老了",
@@ -809,14 +825,6 @@
       "onboard_time": 1694149237,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293490,
-      "num": 293490,
-      "word": "大奉打更人首发剧照",
-      "onboard_time": 1694153974,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 284427,
@@ -881,6 +889,14 @@
       "onboard_time": 1694097699,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275490,
+      "num": 275490,
+      "word": "范丞丞的身高优势都在这2米81里了",
+      "onboard_time": 1694154275,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 273904,
@@ -1075,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214180,
+      "num": 214180,
+      "word": "孙颖莎王艺迪3比0平野美宇张本美和",
+      "onboard_time": 1694153852,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208059,
       "num": 208059,
       "word": "现在年轻人许的愿有多奇葩",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1694127868,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207268,
+      "num": 207268,
+      "word": "成毅的白衬衫偷偷想开了",
+      "onboard_time": 1694154453,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 206347,
@@ -1163,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195286,
-      "num": 195286,
-      "word": "孙颖莎王艺迪3比0平野美宇张本美和",
-      "onboard_time": 1694153852,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194920,
       "num": 194920,
       "word": "香港天文台发黑色暴雨警告信号",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1694141976,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190100,
+      "num": 190100,
+      "word": "金珉奎综艺效果拉满",
+      "onboard_time": 1694154635,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 190093,
@@ -1579,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52290,
+      "num": 350489,
+      "word": "外卖小哥接力帮市民穿过汹涌水流",
+      "onboard_time": 1694152834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51163,
       "num": 50071,
       "word": "大鹏 与警察同志拍照好紧张",
@@ -1601,14 +1641,6 @@
       "onboard_time": 1694110517,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35306,
-      "num": 344836,
-      "word": "外卖小哥接力帮市民穿过汹涌水流",
-      "onboard_time": 1694152834,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31270,
