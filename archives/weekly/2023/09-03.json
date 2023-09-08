@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694143009889,
+  "endTime": 1694144052998,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -219,6 +219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2641943,
+      "num": 588212,
+      "word": "7岁艾滋病毒携带儿童无法入校",
+      "onboard_time": 1694140295,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2614461,
       "num": 2614461,
       "word": "知网被罚款5000万元",
@@ -272,14 +280,6 @@
       "word": "女子P付款截图4年逃单33万",
       "onboard_time": 1693813233,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2378119,
-      "num": 588212,
-      "word": "7岁艾滋病毒携带儿童无法入校",
-      "onboard_time": 1694140295,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -819,6 +819,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 1601529,
+      "num": 1601529,
+      "word": "南风知我意",
+      "onboard_time": 1694141976,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1600897,
       "num": 1600897,
       "word": "华为推出Mate60Pro",
@@ -1315,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1141656,
+      "num": 1141656,
+      "word": "Mate60熊猫配色",
+      "onboard_time": 1694141735,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1141571,
       "num": 598551,
       "word": "大爷地铁与人争吵遭陌生男子打耳光",
@@ -1507,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1059017,
+      "num": 1059017,
+      "word": "00后入警2个月收锦旗变显眼包",
+      "onboard_time": 1694139756,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055169,
       "num": 1055169,
       "word": "封神真的和芒果合作质子训练营综艺了",
@@ -1627,14 +1651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1007197,
-      "num": 1007197,
-      "word": "00后入警2个月收锦旗变显眼包",
-      "onboard_time": 1694139756,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1006159,
       "num": 479481,
       "word": "工作后发现5000块真的很难挣",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1693800277,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996776,
-      "num": 996776,
-      "word": "南风知我意",
-      "onboard_time": 1694141976,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 991455,
@@ -2417,14 +2425,6 @@
       "onboard_time": 1693839162,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 763978,
-      "num": 763978,
-      "word": "Mate60熊猫配色",
-      "onboard_time": 1694141735,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 762378,
@@ -3259,6 +3259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628076,
+      "num": 628076,
+      "word": "香港的雨有多大",
+      "onboard_time": 1694139574,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627576,
       "num": 627576,
       "word": "厦门晚霞",
@@ -3363,6 +3371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 614808,
+      "num": 614808,
+      "word": "Mate60Pro+",
+      "onboard_time": 1694141735,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 614268,
       "num": 614268,
       "word": "贵州杀妻灭子案重审宣判",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1693753426,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 609133,
-      "num": 609133,
-      "word": "香港的雨有多大",
-      "onboard_time": 1694139574,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608186,
@@ -4180,7 +4188,7 @@
     },
     {
       "raw_hot": 531100,
-      "num": 330005,
+      "num": 356498,
       "word": "妈妈请不要再报我的虚岁了",
       "onboard_time": 1694141195,
       "rank": 20,
@@ -5555,6 +5563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405251,
+      "num": 405251,
+      "word": "Mystic发文回应",
+      "onboard_time": 1694142396,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405161,
       "num": 544276,
       "word": "男生骑兄弟脖子上跟女友吻别",
@@ -5577,6 +5593,14 @@
       "onboard_time": 1693880369,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401225,
+      "num": 401225,
+      "word": "在逆水寒扮演陈情令",
+      "onboard_time": 1694141015,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401216,
@@ -5843,14 +5867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381607,
-      "num": 381607,
-      "word": "Mate60Pro+",
-      "onboard_time": 1694141735,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 381232,
       "num": 336320,
       "word": "呼市现大量哮喘患者急诊排长队",
@@ -5905,14 +5921,6 @@
       "onboard_time": 1693838437,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376797,
-      "num": 376797,
-      "word": "在逆水寒扮演陈情令",
-      "onboard_time": 1694141015,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 376755,
@@ -6153,6 +6161,14 @@
       "onboard_time": 1693989574,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356851,
+      "num": 356851,
+      "word": "OPPO",
+      "onboard_time": 1694143357,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 356769,
@@ -6497,6 +6513,14 @@
       "onboard_time": 1694042849,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332710,
+      "num": 332710,
+      "word": "女生杭州毕业旅行一周后定居",
+      "onboard_time": 1694142334,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332547,
@@ -7251,14 +7275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299641,
-      "num": 299641,
-      "word": "Mystic发文回应",
-      "onboard_time": 1694142396,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 299494,
       "num": 891710,
       "word": "女子浑身抽搐的哥连闯红灯送医",
@@ -7361,6 +7377,14 @@
       "onboard_time": 1694088875,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293502,
+      "num": 293502,
+      "word": "谁让云之羽剧粉这么造梗的",
+      "onboard_time": 1694143416,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 292377,
@@ -7585,6 +7609,14 @@
       "onboard_time": 1693881218,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283029,
+      "num": 283029,
+      "word": "深圳暴雨现场画面",
+      "onboard_time": 1694140835,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282939,
@@ -7849,6 +7881,14 @@
       "onboard_time": 1693896576,
       "rank": 30,
       "category": "自然"
+    },
+    {
+      "raw_hot": 270902,
+      "num": 270902,
+      "word": "华为王炸",
+      "onboard_time": 1694144016,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 270870,
@@ -8304,14 +8344,6 @@
       "word": "5岁幼童帮渐冻症母亲拍出卡住药物",
       "onboard_time": 1693819116,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250882,
-      "num": 250882,
-      "word": "深圳暴雨现场画面",
-      "onboard_time": 1694140835,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -9067,6 +9099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228686,
+      "num": 228686,
+      "word": "亚运会火炬手",
+      "onboard_time": 1694143175,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228619,
       "num": 228619,
       "word": "五条悟获胜",
@@ -9707,6 +9747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208059,
+      "num": 208059,
+      "word": "现在年轻人许的愿有多奇葩",
+      "onboard_time": 1694143294,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207894,
       "num": 207894,
       "word": "狮子林桥",
@@ -9729,14 +9777,6 @@
       "onboard_time": 1693668041,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207767,
-      "num": 207767,
-      "word": "女生杭州毕业旅行一周后定居",
-      "onboard_time": 1694142334,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207389,
@@ -10435,6 +10475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195538,
+      "num": 195538,
+      "word": "亚运会",
+      "onboard_time": 1694143595,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195452,
       "num": 195452,
       "word": "李荣浩演唱会",
@@ -11124,7 +11172,7 @@
     },
     {
       "raw_hot": 183269,
-      "num": 249441,
+      "num": 423924,
       "word": "高能英雄王鹤棣",
       "onboard_time": 1694142396,
       "rank": 28,
@@ -11209,6 +11257,14 @@
       "onboard_time": 1693793255,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180344,
+      "num": 180344,
+      "word": "主人以为狗狗中毒了",
+      "onboard_time": 1694143777,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 179622,
@@ -11985,6 +12041,14 @@
       "onboard_time": 1694071115,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157665,
+      "num": 157665,
+      "word": "央视揭造谣短视频摆拍流程",
+      "onboard_time": 1694143958,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157656,

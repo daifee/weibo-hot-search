@@ -1,9 +1,9 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694143009889,
+  "endTime": 1694144052998,
   "band_list": [
     {
-      "raw_hot": 2378119,
+      "raw_hot": 2641943,
       "num": 588212,
       "word": "7岁艾滋病毒携带儿童无法入校",
       "onboard_time": 1694140295,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1601529,
+      "num": 1601529,
+      "word": "南风知我意",
+      "onboard_time": 1694141976,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1600897,
       "num": 1600897,
       "word": "华为推出Mate60Pro",
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141656,
+      "num": 1141656,
+      "word": "Mate60熊猫配色",
+      "onboard_time": 1694141735,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1095298,
       "num": 1095298,
       "word": "人民日报评肖战演技",
@@ -104,6 +120,14 @@
       "word": "大英博物馆为什么天天这么多人",
       "onboard_time": 1694131596,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059017,
+      "num": 1059017,
+      "word": "00后入警2个月收锦旗变显眼包",
+      "onboard_time": 1694139756,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -123,28 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1007197,
-      "num": 1007197,
-      "word": "00后入警2个月收锦旗变显眼包",
-      "onboard_time": 1694139756,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1001994,
       "num": 1001994,
       "word": "华为MateX5开售",
       "onboard_time": 1694140117,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 996776,
-      "num": 996776,
-      "word": "南风知我意",
-      "onboard_time": 1694141976,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 906244,
@@ -169,14 +177,6 @@
       "onboard_time": 1694132378,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 763978,
-      "num": 763978,
-      "word": "Mate60熊猫配色",
-      "onboard_time": 1694141735,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 755023,
@@ -235,12 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 609133,
-      "num": 609133,
+      "raw_hot": 628076,
+      "num": 628076,
       "word": "香港的雨有多大",
       "onboard_time": 1694139574,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614808,
+      "num": 614808,
+      "word": "Mate60Pro+",
+      "onboard_time": 1694141735,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 604325,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 531100,
-      "num": 330005,
+      "num": 356498,
       "word": "妈妈请不要再报我的虚岁了",
       "onboard_time": 1694141195,
       "rank": 20,
@@ -363,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405251,
+      "num": 405251,
+      "word": "Mystic发文回应",
+      "onboard_time": 1694142396,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 401225,
+      "num": 401225,
+      "word": "在逆水寒扮演陈情令",
+      "onboard_time": 1694141015,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400402,
       "num": 400402,
       "word": "原来屈原才是中国飞天第一人",
@@ -387,28 +411,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 381607,
-      "num": 381607,
-      "word": "Mate60Pro+",
-      "onboard_time": 1694141735,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 378625,
       "num": 327521,
       "word": "12斤的猫是什么概念",
       "onboard_time": 1694136633,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 376797,
-      "num": 376797,
-      "word": "在逆水寒扮演陈情令",
-      "onboard_time": 1694141015,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 374815,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356851,
+      "num": 356851,
+      "word": "OPPO",
+      "onboard_time": 1694143357,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 338913,
       "num": 338913,
       "word": "深圳紧急提醒非必要不外出",
@@ -440,6 +456,14 @@
       "word": "深圳全市暴雨戒备状态",
       "onboard_time": 1694098118,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332710,
+      "num": 332710,
+      "word": "女生杭州毕业旅行一周后定居",
+      "onboard_time": 1694142334,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -531,20 +555,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299641,
-      "num": 299641,
-      "word": "Mystic发文回应",
-      "onboard_time": 1694142396,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 297536,
       "num": 297536,
       "word": "莲花楼",
       "onboard_time": 1694099261,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293502,
+      "num": 293502,
+      "word": "谁让云之羽剧粉这么造梗的",
+      "onboard_time": 1694143416,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 283029,
+      "num": 283029,
+      "word": "深圳暴雨现场画面",
+      "onboard_time": 1694140835,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282939,
@@ -595,6 +627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 270902,
+      "num": 270902,
+      "word": "华为王炸",
+      "onboard_time": 1694144016,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 261411,
       "num": 261411,
       "word": "云为衫 定制化新娘",
@@ -633,14 +673,6 @@
       "onboard_time": 1694095779,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 250882,
-      "num": 250882,
-      "word": "深圳暴雨现场画面",
-      "onboard_time": 1694140835,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247245,
@@ -707,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228686,
+      "num": 228686,
+      "word": "亚运会火炬手",
+      "onboard_time": 1694143175,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228514,
       "num": 228514,
       "word": "男生开学来晚了意外被分到教师精装宿舍",
@@ -739,12 +779,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207767,
-      "num": 207767,
-      "word": "女生杭州毕业旅行一周后定居",
-      "onboard_time": 1694142334,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 208059,
+      "num": 208059,
+      "word": "现在年轻人许的愿有多奇葩",
+      "onboard_time": 1694143294,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 207389,
@@ -800,6 +840,14 @@
       "word": "阿根廷vs厄瓜多尔",
       "onboard_time": 1694135378,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195538,
+      "num": 195538,
+      "word": "亚运会",
+      "onboard_time": 1694143595,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -892,11 +940,19 @@
     },
     {
       "raw_hot": 183269,
-      "num": 249441,
+      "num": 423924,
       "word": "高能英雄王鹤棣",
       "onboard_time": 1694142396,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180344,
+      "num": 180344,
+      "word": "主人以为狗狗中毒了",
+      "onboard_time": 1694143777,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 177888,
@@ -969,6 +1025,14 @@
       "onboard_time": 1694094637,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157665,
+      "num": 157665,
+      "word": "央视揭造谣短视频摆拍流程",
+      "onboard_time": 1694143958,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156795,
