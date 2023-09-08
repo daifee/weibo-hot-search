@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694147683216,
+  "endTime": 1694150128371,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -43,19 +43,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1933149,
+      "num": 1933149,
+      "word": "丫丫胖出褶子了",
+      "onboard_time": 1694144137,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1846397,
       "num": 736039,
       "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
       "onboard_time": 1694134180,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1846225,
-      "num": 1846225,
-      "word": "丫丫胖出褶子了",
-      "onboard_time": 1694144137,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -111,6 +111,14 @@
       "num": 1171488,
       "word": "内蒙古发生高压气体喷出事故致9死3伤",
       "onboard_time": 1694099620,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148745,
+      "num": 1148745,
+      "word": "香港宣布极端情况至少维持至下午6时",
+      "onboard_time": 1694147861,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -187,6 +195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 833946,
+      "num": 432361,
+      "word": "檀健次的狗让他颜面尽失",
+      "onboard_time": 1694146478,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 810052,
       "num": 810052,
       "word": "日本核污染水已排海6100吨",
@@ -225,14 +241,6 @@
       "onboard_time": 1694137894,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703702,
-      "num": 432361,
-      "word": "檀健次的狗让他颜面尽失",
-      "onboard_time": 1694146478,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 696303,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613381,
+      "num": 338038,
+      "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+      "onboard_time": 1694148280,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604325,
       "num": 604325,
       "word": "被困横店后我成了所有男主的白月光",
@@ -305,6 +321,30 @@
       "onboard_time": 1694134901,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570043,
+      "num": 570043,
+      "word": "可以是水牛但不可以是黄牛",
+      "onboard_time": 1694148221,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 557556,
+      "num": 557556,
+      "word": "迪丽热巴上城士九月刊封面",
+      "onboard_time": 1694148099,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 533313,
+      "num": 385566,
+      "word": "张远38岁状态",
+      "onboard_time": 1694147260,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 531100,
@@ -371,8 +411,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 465592,
+      "num": 414995,
+      "word": "赵丽颖复古摩登发型",
+      "onboard_time": 1694148764,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 461284,
-      "num": 386287,
+      "num": 413953,
       "word": "华为折叠屏满血回归",
       "onboard_time": 1694145096,
       "rank": 21,
@@ -419,12 +467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418563,
-      "num": 385566,
-      "word": "张远38岁状态",
-      "onboard_time": 1694147260,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 420753,
+      "num": 420753,
+      "word": "进去一个彪子 出来八百彪子",
+      "onboard_time": 1694147200,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 415639,
+      "num": 280127,
+      "word": "下班后试婚纱会失去表情管理",
+      "onboard_time": 1694148999,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 410582,
@@ -456,6 +512,14 @@
       "word": "原来屈原才是中国飞天第一人",
       "onboard_time": 1694138674,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395493,
+      "num": 395493,
+      "word": "崔胜澈将不出演花样青春",
+      "onboard_time": 1694148764,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -497,6 +561,14 @@
       "onboard_time": 1694092598,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361780,
+      "num": 334819,
+      "word": "华为和OPPO杠上了吗",
+      "onboard_time": 1694148040,
+      "rank": 23,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 358859,
@@ -675,6 +747,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 295573,
+      "num": 295573,
+      "word": "陈伟霆 一定不要以貌取人",
+      "onboard_time": 1694149237,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284427,
+      "num": 284427,
+      "word": "披荆斩棘二公真人秀海报",
+      "onboard_time": 1694149662,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282939,
       "num": 282939,
       "word": "七时吉祥",
@@ -707,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277299,
+      "num": 277299,
+      "word": "丫丫提篮子吃胡萝卜太可爱",
+      "onboard_time": 1694149599,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276194,
       "num": 345851,
       "word": "请人员车辆暂勿前往深圳龙岗中心城",
@@ -721,6 +817,14 @@
       "onboard_time": 1694141134,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 262925,
+      "num": 262925,
+      "word": "海岸或在接触成毅王一博",
+      "onboard_time": 1694149060,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 261726,
@@ -747,20 +851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258237,
+      "num": 258237,
+      "word": "檀健次 心理暗示真的很重要",
+      "onboard_time": 1694148340,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257073,
       "num": 257073,
       "word": "陈飞宇去看周杰伦演唱会",
       "onboard_time": 1694133579,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 252943,
-      "num": 252943,
-      "word": "进去一个彪子 出来八百彪子",
-      "onboard_time": 1694147200,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 252752,
@@ -777,6 +881,14 @@
       "onboard_time": 1694095779,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 251812,
+      "num": 251812,
+      "word": "Amber刘恋李雪琴梦幻合作",
+      "onboard_time": 1694147077,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 247245,
@@ -803,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243967,
+      "num": 243967,
+      "word": "消费降级一年后的真实变化",
+      "onboard_time": 1694149420,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241410,
       "num": 241410,
       "word": "赵丽颖为丁子峻电影打call",
@@ -825,6 +945,14 @@
       "onboard_time": 1694139337,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236523,
+      "num": 236523,
+      "word": "益生菌是真养生还是智商税",
+      "onboard_time": 1694149778,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 233662,
@@ -883,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215828,
+      "num": 215828,
+      "word": "披荆斩棘",
+      "onboard_time": 1694147740,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208059,
       "num": 208059,
       "word": "现在年轻人许的愿有多奇葩",
@@ -905,6 +1041,14 @@
       "onboard_time": 1694137713,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203774,
+      "num": 203774,
+      "word": "萨巴伦卡晋级美网决赛",
+      "onboard_time": 1694150078,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 200552,
@@ -1011,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189743,
-      "num": 189743,
-      "word": "Amber刘恋李雪琴梦幻合作",
-      "onboard_time": 1694147077,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189371,
       "num": 189371,
       "word": "丞磊卢昱晓共同见证云之羽破九千",
@@ -1076,7 +1212,7 @@
     },
     {
       "raw_hot": 178954,
-      "num": 178954,
+      "num": 246944,
       "word": "中国的银行AI有多牛",
       "onboard_time": 1694145998,
       "rank": 41,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694150128371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1933149,
+        "num": 1933149,
+        "word": "丫丫胖出褶子了",
+        "onboard_time": 1694144137,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148745,
+        "num": 1148745,
+        "word": "香港宣布极端情况至少维持至下午6时",
+        "onboard_time": 1694147861,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17783,
+        "num": 981211,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 841226,
+        "num": 841226,
+        "word": "南风知我意",
+        "onboard_time": 1694141976,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749614,
+        "num": 749614,
+        "word": "1207名缅北电诈嫌疑人移交我方",
+        "onboard_time": 1694144196,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622494,
+        "num": 622494,
+        "word": "香港的雨有多大",
+        "onboard_time": 1694139574,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594801,
+        "num": 594801,
+        "word": "何超莲想和窦骁一起录综艺",
+        "onboard_time": 1694138734,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570043,
+        "num": 570043,
+        "word": "可以是水牛但不可以是黄牛",
+        "onboard_time": 1694148221,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557556,
+        "num": 557556,
+        "word": "迪丽热巴上城士九月刊封面",
+        "onboard_time": 1694148099,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 420753,
+        "num": 420753,
+        "word": "进去一个彪子 出来八百彪子",
+        "onboard_time": 1694147200,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2140483,
+        "num": 420346,
+        "word": "华为王炸",
+        "onboard_time": 1694144016,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1983415,
+        "num": 419109,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833946,
+        "num": 417660,
+        "word": "檀健次的狗让他颜面尽失",
+        "onboard_time": 1694146478,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 618823,
+        "num": 416374,
+        "word": "Mate60熊猫配色",
+        "onboard_time": 1694141735,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 465592,
+        "num": 414995,
+        "word": "赵丽颖复古摩登发型",
+        "onboard_time": 1694148764,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 450990,
+        "num": 413953,
+        "word": "华为折叠屏满血回归",
+        "onboard_time": 1694145096,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 413382,
+        "num": 413382,
+        "word": "这居然是向佐",
+        "onboard_time": 1694132559,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395493,
+        "num": 395493,
+        "word": "崔胜澈将不出演花样青春",
+        "onboard_time": 1694148764,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387081,
+        "num": 387081,
+        "word": "00后入警2个月收锦旗变显眼包",
+        "onboard_time": 1694139756,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339059,
+        "num": 339059,
+        "word": "女生杭州毕业旅行一周后定居",
+        "onboard_time": 1694142334,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613381,
+        "num": 338038,
+        "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+        "onboard_time": 1694148280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533313,
+        "num": 337577,
+        "word": "张远38岁状态",
+        "onboard_time": 1694147260,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369656,
+        "num": 335446,
+        "word": "妈妈请不要再报我的虚岁了",
+        "onboard_time": 1694141195,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361780,
+        "num": 334819,
+        "word": "华为和OPPO杠上了吗",
+        "onboard_time": 1694148040,
+        "rank": 23,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 352285,
+        "num": 332649,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332204,
+        "num": 332204,
+        "word": "华为推出Mate60Pro",
+        "onboard_time": 1694140475,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308667,
+        "num": 308667,
+        "word": "在逆水寒扮演陈情令",
+        "onboard_time": 1694141015,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295573,
+        "num": 295573,
+        "word": "陈伟霆 一定不要以貌取人",
+        "onboard_time": 1694149237,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284427,
+        "num": 284427,
+        "word": "披荆斩棘二公真人秀海报",
+        "onboard_time": 1694149662,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281395,
+        "num": 281395,
+        "word": "隔空猥亵是什么",
+        "onboard_time": 1694144739,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415639,
+        "num": 280127,
+        "word": "下班后试婚纱会失去表情管理",
+        "onboard_time": 1694148999,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278250,
+        "num": 278250,
+        "word": "金泰亨solo出道",
+        "onboard_time": 1694147077,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277299,
+        "num": 277299,
+        "word": "丫丫提篮子吃胡萝卜太可爱",
+        "onboard_time": 1694149599,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262925,
+        "num": 262925,
+        "word": "海岸或在接触成毅王一博",
+        "onboard_time": 1694149060,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260093,
+        "num": 260093,
+        "word": "华为MateX5开售",
+        "onboard_time": 1694140117,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 259553,
+        "num": 259553,
+        "word": "看了伴娘服瞬间不想当她的伴娘了",
+        "onboard_time": 1694138554,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258563,
+        "num": 258563,
+        "word": "林俊杰广州",
+        "onboard_time": 1694134236,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258237,
+        "num": 258237,
+        "word": "檀健次 心理暗示真的很重要",
+        "onboard_time": 1694148340,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251812,
+        "num": 251812,
+        "word": "Amber刘恋李雪琴梦幻合作",
+        "onboard_time": 1694147077,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87834,
+        "num": 246944,
+        "word": "中国的银行AI有多牛",
+        "onboard_time": 1694149237,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 243967,
+        "num": 243967,
+        "word": "消费降级一年后的真实变化",
+        "onboard_time": 1694149420,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240143,
+        "num": 240143,
+        "word": "深圳暴雨现场画面",
+        "onboard_time": 1694140835,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236523,
+        "num": 236523,
+        "word": "益生菌是真养生还是智商税",
+        "onboard_time": 1694149778,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 221337,
+        "num": 221337,
+        "word": "深圳泄洪",
+        "onboard_time": 1694104289,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218375,
+        "num": 218375,
+        "word": "杭州是在通知天庭下来看亚运吗",
+        "onboard_time": 1694145699,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215828,
+        "num": 215828,
+        "word": "披荆斩棘",
+        "onboard_time": 1694147740,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211082,
+        "num": 211082,
+        "word": "Mate60Pro+",
+        "onboard_time": 1694141735,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207165,
+        "num": 207165,
+        "word": "12斤的猫是什么概念",
+        "onboard_time": 1694136633,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204103,
+        "num": 204103,
+        "word": "央视揭造谣短视频摆拍流程",
+        "onboard_time": 1694143958,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203774,
+        "num": 203774,
+        "word": "萨巴伦卡晋级美网决赛",
+        "onboard_time": 1694150078,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江考察#"
+    }
+  }
+}
