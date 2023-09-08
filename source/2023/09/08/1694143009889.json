@@ -1,0 +1,410 @@
+{
+  "runTime": 1694143009889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600897,
+        "num": 1600897,
+        "word": "华为推出Mate60Pro",
+        "onboard_time": 1694140475,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1007197,
+        "num": 1007197,
+        "word": "00后入警2个月收锦旗变显眼包",
+        "onboard_time": 1694139756,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19555,
+        "num": 1002459,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1059652,
+        "num": 1002373,
+        "word": "何超莲想和窦骁一起录综艺",
+        "onboard_time": 1694138734,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1001994,
+        "num": 1001994,
+        "word": "华为MateX5开售",
+        "onboard_time": 1694140117,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 996776,
+        "num": 996776,
+        "word": "南风知我意",
+        "onboard_time": 1694141976,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763978,
+        "num": 763978,
+        "word": "Mate60熊猫配色",
+        "onboard_time": 1694141735,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 736039,
+        "num": 736039,
+        "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
+        "onboard_time": 1694134180,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609133,
+        "num": 609133,
+        "word": "香港的雨有多大",
+        "onboard_time": 1694139574,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595730,
+        "num": 595730,
+        "word": "长期不吃晚餐真的会瘦吗",
+        "onboard_time": 1694099439,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2378119,
+        "num": 588212,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740302,
+        "num": 581736,
+        "word": "这居然是向佐",
+        "onboard_time": 1694132559,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 647422,
+        "num": 574033,
+        "word": "iPhone15机型比例为3比1",
+        "onboard_time": 1694133638,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 553385,
+        "num": 553385,
+        "word": "深圳泄洪",
+        "onboard_time": 1694104289,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478605,
+        "num": 478605,
+        "word": "丫丫大口大口地炫饭",
+        "onboard_time": 1694137894,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400402,
+        "num": 400402,
+        "word": "原来屈原才是中国飞天第一人",
+        "onboard_time": 1694138674,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381607,
+        "num": 381607,
+        "word": "Mate60Pro+",
+        "onboard_time": 1694141735,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 376797,
+        "num": 376797,
+        "word": "在逆水寒扮演陈情令",
+        "onboard_time": 1694141015,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368987,
+        "num": 368987,
+        "word": "虞书欣 我被谁表扬过啊",
+        "onboard_time": 1694132197,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337269,
+        "num": 337269,
+        "word": "新郎和新娘不在一个图层",
+        "onboard_time": 1694099620,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 531100,
+        "num": 330005,
+        "word": "妈妈请不要再报我的虚岁了",
+        "onboard_time": 1694141195,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361603,
+        "num": 326431,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317510,
+        "num": 317510,
+        "word": "卢昱晓吴俊霆蔚蓝海报",
+        "onboard_time": 1694141675,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299641,
+        "num": 299641,
+        "word": "Mystic发文回应",
+        "onboard_time": 1694142396,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273904,
+        "num": 273904,
+        "word": "华为抢不到",
+        "onboard_time": 1694141134,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 273334,
+        "num": 273334,
+        "word": "Mystic前女友发长文控诉",
+        "onboard_time": 1694132378,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262724,
+        "num": 262724,
+        "word": "被困横店后我成了所有男主的白月光",
+        "onboard_time": 1694098601,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250882,
+        "num": 250882,
+        "word": "深圳暴雨现场画面",
+        "onboard_time": 1694140835,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183269,
+        "num": 249441,
+        "word": "高能英雄王鹤棣",
+        "onboard_time": 1694142396,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248978,
+        "num": 248978,
+        "word": "12斤的猫是什么概念",
+        "onboard_time": 1694136633,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244113,
+        "num": 244113,
+        "word": "逆水寒",
+        "onboard_time": 1694142213,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241410,
+        "num": 241410,
+        "word": "赵丽颖为丁子峻电影打call",
+        "onboard_time": 1694141436,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239340,
+        "num": 239340,
+        "word": "檀健次kisskiss",
+        "onboard_time": 1694136214,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238557,
+        "num": 238557,
+        "word": "梅西任意球破门",
+        "onboard_time": 1694137955,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225261,
+        "num": 225261,
+        "word": "林俊杰广州",
+        "onboard_time": 1694134236,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215396,
+        "num": 215396,
+        "word": "日本核污染水已排海6100吨",
+        "onboard_time": 1694098720,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210715,
+        "num": 210715,
+        "word": "看了伴娘服瞬间不想当她的伴娘了",
+        "onboard_time": 1694138554,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207767,
+        "num": 207767,
+        "word": "女生杭州毕业旅行一周后定居",
+        "onboard_time": 1694142334,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200792,
+        "num": 200792,
+        "word": "番禺",
+        "onboard_time": 1694134901,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190630,
+        "num": 190630,
+        "word": "张楚岚误会冯宝宝",
+        "onboard_time": 1694141976,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184762,
+        "num": 184762,
+        "word": "阿根廷1比0厄瓜多尔",
+        "onboard_time": 1694141675,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184192,
+        "num": 184192,
+        "word": "双子座被人低估的一面",
+        "onboard_time": 1694138254,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183085,
+        "num": 183085,
+        "word": "Angelababy 静奢风",
+        "onboard_time": 1694130514,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177888,
+        "num": 177888,
+        "word": "货车司机高速上教科书式救援",
+        "onboard_time": 1694142515,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 166969,
+        "num": 166969,
+        "word": "大英博物馆为什么天天这么多人",
+        "onboard_time": 1694131596,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163650,
+        "num": 163650,
+        "word": "丞磊的人夫感",
+        "onboard_time": 1694138917,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158832,
+        "num": 158832,
+        "word": "云为衫 定制化新娘",
+        "onboard_time": 1694137595,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155223,
+        "num": 155223,
+        "word": "深圳外卖小哥急流中帮市民拽起电动车",
+        "onboard_time": 1694138375,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 153719,
+        "num": 153719,
+        "word": "宋亚轩骑平衡车路过军训新生队伍",
+        "onboard_time": 1694140173,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 152289,
+        "word": "西出玉门首播反响",
+        "onboard_time": 1694139516,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江省尚志市看望慰问受灾群众#"
+    }
+  }
+}
