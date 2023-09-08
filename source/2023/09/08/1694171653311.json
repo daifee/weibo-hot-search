@@ -1,0 +1,410 @@
+{
+  "runTime": 1694171653311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2416523,
+        "num": 2416523,
+        "word": "沈梦辰杜海涛可以一起生活不能一起工作",
+        "onboard_time": 1694168554,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336373,
+        "num": 1971698,
+        "word": "18岁少年离世前一个决定心碎又感动",
+        "onboard_time": 1694162556,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 32026,
+        "num": 1785400,
+        "word": "让更多国家更多民众共享发展成果",
+        "onboard_time": 1694165794,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1603245,
+        "num": 1603245,
+        "word": "英语四级从424到423",
+        "onboard_time": 1694167593,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301507,
+        "num": 1379112,
+        "word": "哥哥3次劝学网瘾弟弟返校考上一本",
+        "onboard_time": 1694170832,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1167889,
+        "num": 1167889,
+        "word": "为什么上岸第一剑先斩意中人",
+        "onboard_time": 1694166935,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 277114,
+        "num": 1154148,
+        "word": "男子钱包丢10年被分文不少送回",
+        "onboard_time": 1694158113,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1144791,
+        "num": 1144791,
+        "word": "义乳女团",
+        "onboard_time": 1694163636,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 994495,
+        "num": 994495,
+        "word": "李子维是老了不是变野人了",
+        "onboard_time": 1694168495,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694270,
+        "num": 694270,
+        "word": "顾里孟宴臣天生一对",
+        "onboard_time": 1694169454,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617885,
+        "num": 617885,
+        "word": "华为",
+        "onboard_time": 1694169759,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 504198,
+        "num": 504198,
+        "word": "8月新增501例猴痘确诊",
+        "onboard_time": 1694164958,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463803,
+        "num": 463803,
+        "word": "香港暴雨已致2人死亡117人受伤",
+        "onboard_time": 1694168673,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 302171,
+        "num": 424748,
+        "word": "外交部回应美国调查华为最新手机芯片",
+        "onboard_time": 1694160875,
+        "rank": 13,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 101251,
+        "num": 403934,
+        "word": "内蒙古高压气体泄漏事故10死3伤",
+        "onboard_time": 1694164115,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 390330,
+        "num": 390330,
+        "word": "张雪峰问华为什么意思",
+        "onboard_time": 1694154994,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 373301,
+        "num": 373301,
+        "word": "进京探亲遇暴雨失联女童遗体找到",
+        "onboard_time": 1694170235,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353255,
+        "num": 353255,
+        "word": "李宇春请我吃四川火锅啦",
+        "onboard_time": 1694170054,
+        "rank": 17,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 327312,
+        "num": 327312,
+        "word": "今年你会从iPhone转华为吗",
+        "onboard_time": 1694160033,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311258,
+        "num": 311258,
+        "word": "我们的歌 马嘉祺",
+        "onboard_time": 1694166454,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1237738,
+        "num": 300911,
+        "word": "男性生殖器HPV感染率高达45.2%",
+        "onboard_time": 1694160093,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288366,
+        "num": 288366,
+        "word": "这四位是写纯古言里口碑较好的了",
+        "onboard_time": 1694170774,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282932,
+        "num": 282932,
+        "word": "塞尔维亚男篮战胜加拿大男篮",
+        "onboard_time": 1694170958,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274808,
+        "num": 274808,
+        "word": "张凌赫微信头像",
+        "onboard_time": 1694164538,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274481,
+        "num": 274481,
+        "word": "虽然是矮个子但命长",
+        "onboard_time": 1694169697,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 242139,
+        "num": 242139,
+        "word": "HR好像很喜欢傻白甜人设",
+        "onboard_time": 1694165973,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 240603,
+        "num": 240603,
+        "word": "战至巅峰2总决赛直播",
+        "onboard_time": 1694170174,
+        "rank": 26,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 222205,
+        "num": 222205,
+        "word": "Angelababy复古工装风",
+        "onboard_time": 1694171016,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 221094,
+        "num": 221094,
+        "word": "内娱顶级淡颜系代表",
+        "onboard_time": 1694159911,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219919,
+        "num": 219919,
+        "word": "一张图证明广东的雨有多大",
+        "onboard_time": 1694155355,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218030,
+        "num": 218030,
+        "word": "金靖给张凌赫备注宫子牛",
+        "onboard_time": 1694171495,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201485,
+        "num": 201485,
+        "word": "当我爸把我化妆品摔碎",
+        "onboard_time": 1694163815,
+        "rank": 31,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 208472,
+        "num": 201061,
+        "word": "虞书欣镜头下的温峥嵘",
+        "onboard_time": 1694170355,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198165,
+        "num": 198165,
+        "word": "华为王炸",
+        "onboard_time": 1694144016,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197178,
+        "num": 197178,
+        "word": "小学生徒手挖出炮弹送校长室",
+        "onboard_time": 1694163454,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186949,
+        "num": 186949,
+        "word": "莲花楼演唱会",
+        "onboard_time": 1694158656,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184210,
+        "num": 184210,
+        "word": "博格丹23分",
+        "onboard_time": 1694171373,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171205,
+        "num": 171205,
+        "word": "普通人的钱是省出来的",
+        "onboard_time": 1694165973,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164576,
+        "num": 164576,
+        "word": "偷吃了7斤狗粮的肚子",
+        "onboard_time": 1694162616,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142306,
+        "num": 142306,
+        "word": "民警轮番劝阻帮阿姨止损10万",
+        "onboard_time": 1694166337,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113800,
+        "num": 142143,
+        "word": "没有优秀车机的车企终将掉队吗",
+        "onboard_time": 1694171495,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 142014,
+        "num": 142014,
+        "word": "被删减的殷寿在苏护刀下救姬发片段",
+        "onboard_time": 1694163514,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140376,
+        "num": 140376,
+        "word": "张雪峰换Mate60后MateX5开售",
+        "onboard_time": 1694160275,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139814,
+        "num": 139814,
+        "word": "爱奇艺热度破万剧评分TOP9",
+        "onboard_time": 1694156191,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135680,
+        "num": 135680,
+        "word": "Lauv抢票",
+        "onboard_time": 1694171254,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132464,
+        "num": 132464,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130596,
+        "num": 130596,
+        "word": "韩版想见你全集上线",
+        "onboard_time": 1694164293,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129405,
+        "num": 129405,
+        "word": "王鹤棣田曦薇新剧的cp感",
+        "onboard_time": 1694157213,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127680,
+        "num": 127680,
+        "word": "田嘉瑞陪看云之羽reaction",
+        "onboard_time": 1694170832,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127015,
+        "num": 127015,
+        "word": "肖战骄阳伴我雨中笑名场面",
+        "onboard_time": 1694164538,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与一带一路的故事#"
+    }
+  }
+}
