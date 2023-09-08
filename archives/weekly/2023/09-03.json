@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694135457069,
+  "endTime": 1694136686840,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -1443,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1069860,
+      "num": 1069860,
+      "word": "大英博物馆为什么天天这么多人",
+      "onboard_time": 1694131596,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1066573,
       "num": 1066573,
       "word": "白鹿王鹤棣以爱为营过审",
@@ -1744,14 +1752,6 @@
       "word": "滕州高铁站跳轨男子已被送医",
       "onboard_time": 1693800880,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 944409,
-      "num": 944409,
-      "word": "大英博物馆为什么天天这么多人",
-      "onboard_time": 1694131596,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2812,7 +2812,7 @@
     },
     {
       "raw_hot": 683038,
-      "num": 356303,
+      "num": 413923,
       "word": "拉黑删除后的朋友圈是这样",
       "onboard_time": 1694133518,
       "rank": 20,
@@ -3475,6 +3475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595049,
+      "num": 595049,
+      "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
+      "onboard_time": 1694134180,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594494,
       "num": 594494,
       "word": "张慧雯妆造好端庄",
@@ -3625,6 +3633,14 @@
       "onboard_time": 1693956990,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 571074,
+      "num": 421757,
+      "word": "番禺",
+      "onboard_time": 1694134901,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570326,
@@ -4844,7 +4860,7 @@
     },
     {
       "raw_hot": 454859,
-      "num": 349327,
+      "num": 409633,
       "word": "iPhone15机型比例为3比1",
       "onboard_time": 1694133638,
       "rank": 21,
@@ -5116,7 +5132,7 @@
     },
     {
       "raw_hot": 431174,
-      "num": 282893,
+      "num": 372137,
       "word": "意大利的罚单给我寄广西来了",
       "onboard_time": 1694134121,
       "rank": 30,
@@ -5153,6 +5169,14 @@
       "onboard_time": 1694072677,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 428261,
+      "num": 428261,
+      "word": "杭州亚运火炬开始传递",
+      "onboard_time": 1694135018,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 427665,
@@ -5336,6 +5360,14 @@
       "word": "装腔启示录导演3年3部8分以上现代剧",
       "onboard_time": 1693727315,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 410582,
+      "num": 410582,
+      "word": "人民日报评异人之下",
+      "onboard_time": 1694135557,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -6347,14 +6379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331536,
-      "num": 331536,
-      "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
-      "onboard_time": 1694134180,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331048,
       "num": 331048,
       "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
@@ -6907,12 +6931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306872,
-      "num": 306872,
-      "word": "杭州亚运火炬开始传递",
-      "onboard_time": 1694135018,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 306704,
+      "num": 306704,
+      "word": "突然就不怕变老了",
+      "onboard_time": 1694134778,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 306472,
@@ -7321,14 +7345,6 @@
       "onboard_time": 1694077418,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286837,
-      "num": 286837,
-      "word": "番禺",
-      "onboard_time": 1694134901,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286248,
@@ -8123,14 +8139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249936,
-      "num": 249936,
-      "word": "突然就不怕变老了",
-      "onboard_time": 1694134778,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 249729,
       "num": 249729,
       "word": "知道为什么倒霉的总是你吗",
@@ -8416,6 +8424,14 @@
       "word": "檀健次希望池约翰能拿冠军",
       "onboard_time": 1694069914,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239546,
+      "num": 239546,
+      "word": "花样青春",
+      "onboard_time": 1694135853,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -8963,6 +8979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223617,
+      "num": 223617,
+      "word": "深圳9月8日全市停课",
+      "onboard_time": 1694133702,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223311,
       "num": 223311,
       "word": "维密2023环球时尚盛典",
@@ -9097,6 +9121,14 @@
       "onboard_time": 1693868785,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219841,
+      "num": 219841,
+      "word": "檀健次kisskiss",
+      "onboard_time": 1694136214,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 219699,
@@ -9963,14 +9995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198859,
-      "num": 198859,
-      "word": "深圳9月8日全市停课",
-      "onboard_time": 1694133702,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198702,
       "num": 198702,
       "word": "48岁阿姨再高考考上大学学中医",
@@ -10081,6 +10105,14 @@
       "onboard_time": 1693972778,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197186,
+      "num": 197186,
+      "word": "阿根廷vs厄瓜多尔",
+      "onboard_time": 1694135378,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 196676,
@@ -10233,6 +10265,14 @@
       "onboard_time": 1693819778,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194375,
+      "num": 194375,
+      "word": "12斤的猫是什么概念",
+      "onboard_time": 1694136633,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 194373,
@@ -10689,14 +10729,6 @@
       "onboard_time": 1693749105,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185912,
-      "num": 185912,
-      "word": "阿根廷vs厄瓜多尔",
-      "onboard_time": 1694135378,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 185807,
@@ -11337,6 +11369,14 @@
       "onboard_time": 1693756897,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167498,
+      "num": 167498,
+      "word": "我上专业课",
+      "onboard_time": 1694135917,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 166994,
