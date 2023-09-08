@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694172831416,
+  "endTime": 1694176304821,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060998,
+      "num": 705754,
+      "word": "华为",
+      "onboard_time": 1694169759,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1059017,
       "num": 1059017,
       "word": "00后入警2个月收锦旗变显眼包",
@@ -297,6 +305,14 @@
       "onboard_time": 1694146478,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 820908,
+      "num": 820908,
+      "word": "云为衫宫子羽初吻",
+      "onboard_time": 1694174737,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 818051,
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 632289,
-      "num": 632289,
-      "word": "华为",
-      "onboard_time": 1694169759,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 628076,
       "num": 628076,
       "word": "香港的雨有多大",
@@ -561,6 +569,14 @@
       "onboard_time": 1694172338,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 550707,
+      "num": 550707,
+      "word": "金繁红玉侍卫",
+      "onboard_time": 1694175514,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 540077,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498931,
+      "num": 359442,
+      "word": "我课表出来了",
+      "onboard_time": 1694174193,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 491353,
       "num": 491353,
       "word": "女生杭州毕业旅行一周后定居",
@@ -673,6 +697,14 @@
       "onboard_time": 1694138554,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 469240,
+      "num": 359166,
+      "word": "马龙vs林高远",
+      "onboard_time": 1694175337,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 465592,
@@ -721,6 +753,14 @@
       "onboard_time": 1694094462,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442241,
+      "num": 247751,
+      "word": "爸妈让我保证30岁前不结婚",
+      "onboard_time": 1694173772,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 439538,
@@ -971,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356300,
+      "num": 356300,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1694174912,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354093,
       "num": 354093,
       "word": "李宇春请我吃四川火锅啦",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1694149237,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291523,
+      "num": 242793,
+      "word": "敖子逸打着石膏参加决赛",
+      "onboard_time": 1694175274,
+      "rank": 23,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 289458,
@@ -1507,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238985,
+      "num": 238985,
+      "word": "陈牧驰直播",
+      "onboard_time": 1694174912,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237133,
       "num": 237133,
       "word": "张皓宸新书",
@@ -1643,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212931,
+      "num": 212931,
+      "word": "周杰伦天津",
+      "onboard_time": 1694175337,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210936,
       "num": 210936,
       "word": "亚运会电竞",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1694153196,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205452,
+      "num": 205452,
+      "word": "夜色尚浅是一见钟情",
+      "onboard_time": 1694175153,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 204008,
@@ -2219,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145087,
+      "num": 145087,
+      "word": "王曼昱3比2陈梦",
+      "onboard_time": 1694173592,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142923,
       "num": 142923,
       "word": "音乐没有亏待过80后90后",
@@ -2233,6 +2321,22 @@
       "onboard_time": 1694120114,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140766,
+      "num": 140766,
+      "word": "孙颖莎晋级亚锦赛4强",
+      "onboard_time": 1694176177,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140731,
+      "num": 140731,
+      "word": "长白山拍到手欠儿小熊",
+      "onboard_time": 1694173233,
+      "rank": 43,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 139404,
@@ -2329,6 +2433,22 @@
       "onboard_time": 1694159614,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125606,
+      "num": 125606,
+      "word": "金泰亨专辑",
+      "onboard_time": 1694173412,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 117892,
+      "num": 117892,
+      "word": "志晟中国首封",
+      "onboard_time": 1694174493,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 108415,
@@ -2498,6 +2618,9 @@
     },
     {
       "word": "#习近平在黑龙江尚志看望慰问受灾群众#"
+    },
+    {
+      "word": "#习近平祝全国广大教师节日快乐#"
     }
   ]
 }
