@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694150128371,
+  "endTime": 1694151253301,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1622098,
+      "num": 1622098,
+      "word": "香港宣布极端情况至少维持至下午6时",
+      "onboard_time": 1694147861,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1601529,
       "num": 1601529,
       "word": "南风知我意",
@@ -111,14 +119,6 @@
       "num": 1171488,
       "word": "内蒙古发生高压气体喷出事故致9死3伤",
       "onboard_time": 1694099620,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1148745,
-      "num": 1148745,
-      "word": "香港宣布极端情况至少维持至下午6时",
-      "onboard_time": 1694147861,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 833946,
-      "num": 432361,
+      "num": 465187,
       "word": "檀健次的狗让他颜面尽失",
       "onboard_time": 1694146478,
       "rank": 33,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519454,
+      "num": 519454,
+      "word": "机圈汪峰",
+      "onboard_time": 1694150494,
+      "rank": 7,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 517441,
       "num": 517441,
       "word": "深圳水库",
@@ -385,6 +393,14 @@
       "onboard_time": 1694142334,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489492,
+      "num": 462181,
+      "word": "消费降级一年后的真实变化",
+      "onboard_time": 1694149420,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 483479,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 415639,
-      "num": 280127,
+      "num": 331345,
       "word": "下班后试婚纱会失去表情管理",
       "onboard_time": 1694148999,
       "rank": 30,
@@ -627,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326670,
+      "num": 326670,
+      "word": "益生菌是真养生还是智商税",
+      "onboard_time": 1694149778,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 326117,
       "num": 370679,
       "word": "Angelababy 静奢风",
@@ -705,6 +729,14 @@
       "onboard_time": 1694134778,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303937,
+      "num": 303937,
+      "word": "金晨野生眉",
+      "onboard_time": 1694150618,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 303868,
@@ -915,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 243967,
-      "num": 243967,
-      "word": "消费降级一年后的真实变化",
-      "onboard_time": 1694149420,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241410,
       "num": 241410,
       "word": "赵丽颖为丁子峻电影打call",
@@ -945,14 +969,6 @@
       "onboard_time": 1694139337,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 236523,
-      "num": 236523,
-      "word": "益生菌是真养生还是智商税",
-      "onboard_time": 1694149778,
-      "rank": 42,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 233662,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1694147500,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 192969,
+      "num": 192969,
+      "word": "原神音乐会",
+      "onboard_time": 1694150137,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 192457,
