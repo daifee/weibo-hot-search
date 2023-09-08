@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694191006873,
+  "endTime": 1694193304984,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -2145,6 +2145,14 @@
       "onboard_time": 1693877495,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 882679,
+      "num": 326159,
+      "word": "大学生贷款参加就业培训后自缢身亡",
+      "onboard_time": 1694187761,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 876187,
@@ -5011,14 +5019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 501392,
-      "num": 239451,
-      "word": "大学生贷款参加就业培训后自缢身亡",
-      "onboard_time": 1694187761,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501388,
       "num": 389585,
       "word": "卢昱晓 舒服的长相",
@@ -5448,6 +5448,14 @@
       "word": "西出玉门到底播不播",
       "onboard_time": 1693828893,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 462507,
+      "num": 462507,
+      "word": "11.4万人都知道盛阳失业了",
+      "onboard_time": 1694190989,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -6600,14 +6608,6 @@
       "word": "梁朝伟李安双i并地走",
       "onboard_time": 1693708954,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 383532,
-      "num": 355420,
-      "word": "11.4万人都知道盛阳失业了",
-      "onboard_time": 1694190989,
-      "rank": 11,
       "category": "影视"
     },
     {
