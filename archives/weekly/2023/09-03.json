@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694129639719,
+  "endTime": 1694135457069,
   "band_list": [
     {
       "raw_hot": 5865095,
@@ -465,6 +465,14 @@
       "onboard_time": 1693716578,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2042256,
+      "num": 462372,
+      "word": "这居然是向佐",
+      "onboard_time": 1694132559,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2019384,
@@ -1067,12 +1075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1308075,
+      "num": 1308075,
+      "word": "香港暴雨",
+      "onboard_time": 1694129070,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1301960,
       "num": 1301960,
       "word": "易烊千玺舒淇主演毕赣新片",
       "onboard_time": 1693998574,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1290637,
+      "num": 674313,
+      "word": "新郎和新娘不在一个图层",
+      "onboard_time": 1694099620,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 1283227,
@@ -1475,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1045578,
+      "num": 460777,
+      "word": "虞书欣 我被谁表扬过啊",
+      "onboard_time": 1694132197,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1042500,
       "num": 1042500,
       "word": "辅导员建议考研能不吃的苦别吃",
@@ -1712,6 +1744,14 @@
       "word": "滕州高铁站跳轨男子已被送医",
       "onboard_time": 1693800880,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944409,
+      "num": 944409,
+      "word": "大英博物馆为什么天天这么多人",
+      "onboard_time": 1694131596,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2185,6 +2225,14 @@
       "onboard_time": 1693907377,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795788,
+      "num": 458859,
+      "word": "Mystic前女友发长文控诉",
+      "onboard_time": 1694132378,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 795560,
@@ -2763,6 +2811,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 683038,
+      "num": 356303,
+      "word": "拉黑删除后的朋友圈是这样",
+      "onboard_time": 1694133518,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 680799,
       "num": 660290,
       "word": "被男老师打破头骨女生父亲发声",
@@ -2833,14 +2889,6 @@
       "onboard_time": 1693831898,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 674313,
-      "num": 674313,
-      "word": "新郎和新娘不在一个图层",
-      "onboard_time": 1694099620,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 672302,
@@ -2963,6 +3011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652792,
+      "num": 652792,
+      "word": "广州停课",
+      "onboard_time": 1694130154,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652698,
       "num": 500417,
       "word": "SM编舞总监跳槽HYBE",
@@ -3017,6 +3073,14 @@
       "onboard_time": 1693829914,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647157,
+      "num": 647157,
+      "word": "林俊杰广州",
+      "onboard_time": 1694134236,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 646831,
@@ -4323,6 +4387,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 500863,
+      "num": 500863,
+      "word": "官方通报四川达州5死16伤交通事故",
+      "onboard_time": 1694130995,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500402,
       "num": 500402,
       "word": "华为 天通卫星",
@@ -4771,6 +4843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454859,
+      "num": 349327,
+      "word": "iPhone15机型比例为3比1",
+      "onboard_time": 1694133638,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 454634,
       "num": 454634,
       "word": "将地铁判官捧成榜样是在粉饰暴力",
@@ -4881,14 +4961,6 @@
       "onboard_time": 1693882958,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 448909,
-      "num": 448909,
-      "word": "香港暴雨",
-      "onboard_time": 1694129070,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448735,
@@ -5041,6 +5113,14 @@
       "onboard_time": 1693862834,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431174,
+      "num": 282893,
+      "word": "意大利的罚单给我寄广西来了",
+      "onboard_time": 1694134121,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 430908,
@@ -5443,6 +5523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 395303,
+      "num": 339139,
+      "word": "9岁女孩被40岁男子隔空猥亵",
+      "onboard_time": 1694105307,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394996,
       "num": 329025,
       "word": "奥本海默里消失的她",
@@ -5452,7 +5540,7 @@
     },
     {
       "raw_hot": 394679,
-      "num": 292487,
+      "num": 327308,
       "word": "龚俊二闹周杰伦演唱会",
       "onboard_time": 1694101776,
       "rank": 20,
@@ -5705,6 +5793,14 @@
       "onboard_time": 1693970498,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374815,
+      "num": 374815,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 373306,
@@ -6139,6 +6235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338913,
+      "num": 338913,
+      "word": "深圳紧急提醒非必要不外出",
+      "onboard_time": 1694133278,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338574,
       "num": 338574,
       "word": "这部剧的受众到底是谁",
@@ -6243,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331536,
+      "num": 331536,
+      "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
+      "onboard_time": 1694134180,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331048,
       "num": 331048,
       "word": "宝宝上幼儿园看妈妈照片大哭着吃早饭",
@@ -6331,6 +6443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326977,
+      "num": 326977,
+      "word": "脱口秀演员称城市越穷事越多",
+      "onboard_time": 1694113755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326694,
       "num": 326694,
       "word": "542万杯酱香拿铁叠起来相当于95座珠峰",
@@ -6353,6 +6473,14 @@
       "onboard_time": 1693812395,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326117,
+      "num": 370679,
+      "word": "Angelababy 静奢风",
+      "onboard_time": 1694130514,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 325857,
@@ -6393,14 +6521,6 @@
       "onboard_time": 1693806874,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 324201,
-      "num": 324201,
-      "word": "脱口秀演员称城市越穷事越多",
-      "onboard_time": 1694113755,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323829,
@@ -6787,6 +6907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306872,
+      "num": 306872,
+      "word": "杭州亚运火炬开始传递",
+      "onboard_time": 1694135018,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306472,
       "num": 306472,
       "word": "粉丝称得知秀才被封后很高兴",
@@ -6827,14 +6955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305061,
-      "num": 305061,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304591,
       "num": 304591,
       "word": "兮兮",
@@ -6856,6 +6976,14 @@
       "word": "让宿管阿姨害怕的女大学生",
       "onboard_time": 1693955126,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303868,
+      "num": 303868,
+      "word": "男性HPV疫苗要来了",
+      "onboard_time": 1694130032,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -7195,6 +7323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286837,
+      "num": 286837,
+      "word": "番禺",
+      "onboard_time": 1694134901,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286248,
       "num": 286248,
       "word": "宫子羽坚信宫门只有一个细作",
@@ -7377,6 +7513,14 @@
       "onboard_time": 1693984834,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278890,
+      "num": 278890,
+      "word": "梅西首发出战厄瓜多尔",
+      "onboard_time": 1694132920,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 278733,
@@ -7835,6 +7979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257073,
+      "num": 257073,
+      "word": "陈飞宇去看周杰伦演唱会",
+      "onboard_time": 1694133579,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256812,
       "num": 256812,
       "word": "侯雯元真的跳了科目一",
@@ -7969,6 +8121,14 @@
       "onboard_time": 1693899338,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249936,
+      "num": 249936,
+      "word": "突然就不怕变老了",
+      "onboard_time": 1694134778,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 249729,
@@ -9331,6 +9491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207389,
+      "num": 207389,
+      "word": "深圳遭暴雨突袭地铁站进水",
+      "onboard_time": 1694127868,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "姬发真是谐音梗富翁",
@@ -9457,14 +9625,6 @@
       "onboard_time": 1693841436,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204815,
-      "num": 191494,
-      "word": "深圳遭暴雨突袭地铁站进水",
-      "onboard_time": 1694127868,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204779,
@@ -9715,6 +9875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200552,
+      "num": 200552,
+      "word": "李宗盛演唱会内场观众盘丝洞体验",
+      "onboard_time": 1694134421,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200382,
       "num": 200382,
       "word": "高校回应迎新晚会播涉劣迹艺人视频",
@@ -9793,6 +9961,14 @@
       "onboard_time": 1693747065,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198859,
+      "num": 198859,
+      "word": "深圳9月8日全市停课",
+      "onboard_time": 1694133702,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198702,
@@ -10035,6 +10211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194920,
+      "num": 194920,
+      "word": "香港天文台发黑色暴雨警告信号",
+      "onboard_time": 1694129731,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194742,
       "num": 194742,
       "word": "seventeen演唱会",
@@ -10251,6 +10435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "有这样的哥哥太骄傲了",
+      "onboard_time": 1694135317,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190068,
       "num": 190068,
       "word": "这个鸳鸯火锅是馒头做的",
@@ -10361,6 +10553,14 @@
       "onboard_time": 1694079634,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187937,
+      "num": 187937,
+      "word": "苹果两日市值蒸发1898亿美元",
+      "onboard_time": 1694129970,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 187890,
@@ -10489,6 +10689,14 @@
       "onboard_time": 1693749105,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185912,
+      "num": 185912,
+      "word": "阿根廷vs厄瓜多尔",
+      "onboard_time": 1694135378,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 185807,
@@ -10897,6 +11105,14 @@
       "onboard_time": 1694052513,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174270,
+      "num": 174270,
+      "word": "深圳罗湖区停工",
+      "onboard_time": 1694132617,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174119,

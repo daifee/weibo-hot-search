@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694129639719,
+  "endTime": 1694135457069,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -9,6 +9,14 @@
       "onboard_time": 1694104289,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2042256,
+      "num": 462372,
+      "word": "这居然是向佐",
+      "onboard_time": 1694132559,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1746223,
@@ -27,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1308075,
+      "num": 1308075,
+      "word": "香港暴雨",
+      "onboard_time": 1694129070,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1290637,
+      "num": 674313,
+      "word": "新郎和新娘不在一个图层",
+      "onboard_time": 1694099620,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1171488,
       "num": 1171488,
       "word": "内蒙古发生高压气体喷出事故致9死3伤",
@@ -43,11 +67,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1045578,
+      "num": 460777,
+      "word": "虞书欣 我被谁表扬过啊",
+      "onboard_time": 1694132197,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1036192,
       "num": 685644,
       "word": "深圳暴雨",
       "onboard_time": 1694092057,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944409,
+      "num": 944409,
+      "word": "大英博物馆为什么天天这么多人",
+      "onboard_time": 1694131596,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -59,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795788,
+      "num": 458859,
+      "word": "Mystic前女友发长文控诉",
+      "onboard_time": 1694132378,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 755023,
       "num": 755023,
       "word": "广州暴雨",
@@ -67,12 +115,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 674313,
-      "num": 674313,
-      "word": "新郎和新娘不在一个图层",
-      "onboard_time": 1694099620,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 683038,
+      "num": 356303,
+      "word": "拉黑删除后的朋友圈是这样",
+      "onboard_time": 1694133518,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 652792,
+      "num": 652792,
+      "word": "广州停课",
+      "onboard_time": 1694130154,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647157,
+      "num": 647157,
+      "word": "林俊杰广州",
+      "onboard_time": 1694134236,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 640372,
@@ -115,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500863,
+      "num": 500863,
+      "word": "官方通报四川达州5死16伤交通事故",
+      "onboard_time": 1694130995,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483479,
       "num": 483479,
       "word": "男子怕孕妻受疼痛用卷纸反复练习扎针",
@@ -131,12 +203,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 448909,
-      "num": 448909,
-      "word": "香港暴雨",
-      "onboard_time": 1694129070,
-      "rank": 6,
+      "raw_hot": 456693,
+      "num": 456693,
+      "word": "公职人员被儿子举报出轨停职",
+      "onboard_time": 1694094462,
+      "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454859,
+      "num": 349327,
+      "word": "iPhone15机型比例为3比1",
+      "onboard_time": 1694133638,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 439538,
@@ -147,19 +227,51 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431174,
+      "num": 282893,
+      "word": "意大利的罚单给我寄广西来了",
+      "onboard_time": 1694134121,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 395303,
+      "num": 339139,
+      "word": "9岁女孩被40岁男子隔空猥亵",
+      "onboard_time": 1694105307,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394679,
-      "num": 292487,
+      "num": 327308,
       "word": "龚俊二闹周杰伦演唱会",
       "onboard_time": 1694101776,
       "rank": 20,
       "category": "音乐"
     },
     {
+      "raw_hot": 374815,
+      "num": 374815,
+      "word": "小孩不会撒谎但会胡说八道",
+      "onboard_time": 1694110337,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362299,
-      "num": 199361,
+      "num": 206909,
       "word": "洛阳一大学生杀害同学后跳楼自杀",
       "onboard_time": 1694092598,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338913,
+      "num": 338913,
+      "word": "深圳紧急提醒非必要不外出",
+      "onboard_time": 1694133278,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -171,20 +283,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328763,
-      "num": 328763,
-      "word": "公职人员被儿子举报出轨停职",
-      "onboard_time": 1694094462,
-      "rank": 18,
+      "raw_hot": 331536,
+      "num": 331536,
+      "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
+      "onboard_time": 1694134180,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324201,
-      "num": 324201,
+      "raw_hot": 326977,
+      "num": 326977,
       "word": "脱口秀演员称城市越穷事越多",
       "onboard_time": 1694113755,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326117,
+      "num": 370679,
+      "word": "Angelababy 静奢风",
+      "onboard_time": 1694130514,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 321258,
@@ -203,12 +323,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 305061,
-      "num": 305061,
-      "word": "小孩不会撒谎但会胡说八道",
-      "onboard_time": 1694110337,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 306872,
+      "num": 306872,
+      "word": "杭州亚运火炬开始传递",
+      "onboard_time": 1694135018,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303868,
+      "num": 303868,
+      "word": "男性HPV疫苗要来了",
+      "onboard_time": 1694130032,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303507,
@@ -235,12 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286837,
+      "num": 286837,
+      "word": "番禺",
+      "onboard_time": 1694134901,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282939,
       "num": 282939,
       "word": "七时吉祥",
       "onboard_time": 1694100520,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278890,
+      "num": 278890,
+      "word": "梅西首发出战厄瓜多尔",
+      "onboard_time": 1694132920,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 277759,
@@ -259,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260480,
+      "num": 458495,
+      "word": "年收入10万元以下个人基本不缴个税",
+      "onboard_time": 1694084080,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257073,
+      "num": 257073,
+      "word": "陈飞宇去看周杰伦演唱会",
+      "onboard_time": 1694133579,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252752,
       "num": 197082,
       "word": "周杰伦灵魂粉",
@@ -273,6 +433,14 @@
       "onboard_time": 1694095779,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 249936,
+      "num": 249936,
+      "word": "突然就不怕变老了",
+      "onboard_time": 1694134778,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 247245,
@@ -323,19 +491,27 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210949,
-      "num": 306587,
-      "word": "年收入10万元以下个人基本不缴个税",
-      "onboard_time": 1694084080,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204815,
-      "num": 191494,
+      "raw_hot": 207389,
+      "num": 207389,
       "word": "深圳遭暴雨突袭地铁站进水",
       "onboard_time": 1694127868,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200552,
+      "num": 200552,
+      "word": "李宗盛演唱会内场观众盘丝洞体验",
+      "onboard_time": 1694134421,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 198859,
+      "num": 198859,
+      "word": "深圳9月8日全市停课",
+      "onboard_time": 1694133702,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -355,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194920,
+      "num": 194920,
+      "word": "香港天文台发黑色暴雨警告信号",
+      "onboard_time": 1694129731,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "猫妈妈上门看望被领养的小猫咪",
@@ -363,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "有这样的哥哥太骄傲了",
+      "onboard_time": 1694135317,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189371,
       "num": 189371,
       "word": "丞磊卢昱晓共同见证云之羽破九千",
       "onboard_time": 1694097520,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187937,
+      "num": 187937,
+      "word": "苹果两日市值蒸发1898亿美元",
+      "onboard_time": 1694129970,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 186957,
@@ -387,11 +587,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185912,
+      "num": 185912,
+      "word": "阿根廷vs厄瓜多尔",
+      "onboard_time": 1694135378,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180073,
+      "num": 366229,
+      "word": "台风海葵",
+      "onboard_time": 1694132559,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175150,
       "num": 175150,
       "word": "深圳多地暴雨升级为橙色预警",
       "onboard_time": 1694105426,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174270,
+      "num": 174270,
+      "word": "深圳罗湖区停工",
+      "onboard_time": 1694132617,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -619,7 +843,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 14012,
+      "raw_hot": 21371,
       "num": 1103694,
       "word": "直击杭州亚运会",
       "onboard_time": 1694072495,
