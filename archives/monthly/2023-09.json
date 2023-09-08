@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694146815156,
+  "endTime": 1694147683216,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3436547,
+      "num": 3175422,
+      "word": "华为王炸",
+      "onboard_time": 1694144016,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 3411419,
       "num": 3315800,
       "word": "秀才账号被封 信息茧房",
@@ -161,14 +169,6 @@
       "onboard_time": 1693829855,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3175422,
-      "num": 3175422,
-      "word": "华为王炸",
-      "onboard_time": 1694144016,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 3160252,
@@ -875,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1846225,
+      "num": 1846225,
+      "word": "丫丫胖出褶子了",
+      "onboard_time": 1694144137,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1838987,
       "num": 1838987,
       "word": "杭州阿姨账户里的1700万保住了",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1693994974,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1429683,
-      "num": 1429683,
-      "word": "丫丫胖出褶子了",
-      "onboard_time": 1694144137,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1429671,
@@ -2243,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1019024,
+      "num": 1019024,
+      "word": "1207名缅北电诈嫌疑人移交我方",
+      "onboard_time": 1694144196,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017483,
       "num": 1017483,
       "word": "苏拉登陆广东珠海",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1693659517,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 946270,
-      "num": 946270,
-      "word": "1207名缅北电诈嫌疑人移交我方",
-      "onboard_time": 1694144196,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 944775,
@@ -3865,6 +3865,14 @@
       "onboard_time": 1694137894,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703702,
+      "num": 432361,
+      "word": "檀健次的狗让他颜面尽失",
+      "onboard_time": 1694146478,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 702569,
@@ -5820,7 +5828,7 @@
     },
     {
       "raw_hot": 531100,
-      "num": 376522,
+      "num": 385807,
       "word": "妈妈请不要再报我的虚岁了",
       "onboard_time": 1694141195,
       "rank": 20,
@@ -6355,6 +6363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 491353,
+      "num": 491353,
+      "word": "女生杭州毕业旅行一周后定居",
+      "onboard_time": 1694142334,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491106,
       "num": 360081,
       "word": "为什么年轻人不愿意干销售",
@@ -6868,7 +6884,7 @@
     },
     {
       "raw_hot": 461284,
-      "num": 372210,
+      "num": 386287,
       "word": "华为折叠屏满血回归",
       "onboard_time": 1694145096,
       "rank": 21,
@@ -7625,6 +7641,14 @@
       "onboard_time": 1694083418,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 418563,
+      "num": 385566,
+      "word": "张远38岁状态",
+      "onboard_time": 1694147260,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 418189,
@@ -8387,14 +8411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 377474,
-      "num": 377474,
-      "word": "女生杭州毕业旅行一周后定居",
-      "onboard_time": 1694142334,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377360,
       "num": 377360,
       "word": "马丽说和沈腾最不熟",
@@ -8763,12 +8779,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358859,
+      "num": 358859,
+      "word": "隔空猥亵是什么",
+      "onboard_time": 1694144739,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358087,
       "num": 358087,
       "word": "密室大逃脱全员感谢NPC",
       "onboard_time": 1693989574,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357639,
+      "num": 357639,
+      "word": "杭州是在通知天庭下来看亚运吗",
+      "onboard_time": 1694145699,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 356769,
@@ -9067,14 +9099,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 343425,
-      "num": 343425,
-      "word": "隔空猥亵是什么",
-      "onboard_time": 1694144739,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343423,
       "num": 343423,
       "word": "尾鱼 西出玉门",
@@ -9329,6 +9353,14 @@
       "onboard_time": 1694078558,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330302,
+      "num": 330302,
+      "word": "金泰亨solo出道",
+      "onboard_time": 1694147077,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 330216,
@@ -9923,6 +9955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311913,
+      "num": 311913,
+      "word": "盛阳妈妈的美貌你一无所知",
+      "onboard_time": 1694146716,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311714,
       "num": 263639,
       "word": "不要太快试图建立特殊关系",
@@ -9937,14 +9977,6 @@
       "onboard_time": 1694082517,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 309732,
-      "num": 309732,
-      "word": "杭州是在通知天庭下来看亚运吗",
-      "onboard_time": 1694145699,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 309625,
@@ -10305,6 +10337,14 @@
       "onboard_time": 1693795834,
       "rank": 30,
       "category": "国内要闻,财经"
+    },
+    {
+      "raw_hot": 297317,
+      "num": 297317,
+      "word": "天官赐福动画神武殿场景公开",
+      "onboard_time": 1694146178,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 296911,
@@ -11395,14 +11435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261150,
-      "num": 261150,
-      "word": "檀健次的狗让他颜面尽失",
-      "onboard_time": 1694146478,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 260611,
       "num": 260611,
       "word": "幼儿园开家长会设置自我介绍环节",
@@ -11699,6 +11731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252943,
+      "num": 252943,
+      "word": "进去一个彪子 出来八百彪子",
+      "onboard_time": 1694147200,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252838,
       "num": 252838,
       "word": "吴磊说骑行是我的生活",
@@ -11857,14 +11897,6 @@
       "onboard_time": 1693883678,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248755,
-      "num": 248755,
-      "word": "天官赐福动画神武殿场景公开",
-      "onboard_time": 1694146178,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 248480,
@@ -12137,14 +12169,6 @@
       "onboard_time": 1693962696,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241862,
-      "num": 241862,
-      "word": "盛阳妈妈的美貌你一无所知",
-      "onboard_time": 1694146716,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 241723,
@@ -14899,6 +14923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193507,
+      "num": 193507,
+      "word": "华为MateX5发售1秒卖光",
+      "onboard_time": 1694147500,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 193340,
       "num": 193340,
       "word": "小妞白百何vs姐感白百何",
@@ -15209,6 +15241,14 @@
       "onboard_time": 1693707634,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189743,
+      "num": 189743,
+      "word": "Amber刘恋李雪琴梦幻合作",
+      "onboard_time": 1694147077,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 189551,
@@ -16169,6 +16209,14 @@
       "onboard_time": 1693965333,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 173402,
+      "num": 173402,
+      "word": "怎么老是殷郊在救姬发",
+      "onboard_time": 1694146779,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 173070,
@@ -17467,6 +17515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142923,
+      "num": 142923,
+      "word": "音乐没有亏待过80后90后",
+      "onboard_time": 1694147622,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142842,
       "num": 142842,
       "word": "高校食堂推2元套餐",
@@ -17673,14 +17729,6 @@
       "onboard_time": 1693631553,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137253,
-      "num": 137253,
-      "word": "怎么老是殷郊在救姬发",
-      "onboard_time": 1694146779,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 137080,
@@ -18345,6 +18393,14 @@
       "onboard_time": 1694017111,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104018,
+      "num": 432846,
+      "word": "15岁少年痴迷非遗创作拿了两项大奖",
+      "onboard_time": 1694146538,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101056,
@@ -19688,14 +19744,6 @@
       "word": "父亲接站退役儿子被单手抱起",
       "onboard_time": 1693692856,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25611,
-      "num": 432846,
-      "word": "15岁少年痴迷非遗创作拿了两项大奖",
-      "onboard_time": 1694146538,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
