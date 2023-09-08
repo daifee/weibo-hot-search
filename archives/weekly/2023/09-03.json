@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694211324873,
+  "endTime": 1694212427365,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -7339,6 +7339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 335300,
+      "num": 83624,
+      "word": "旅日游客称不介意福岛鱼",
+      "onboard_time": 1694198655,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335176,
       "num": 335176,
       "word": "盛阳 今天俺是被宰羔阳",
@@ -9657,14 +9665,6 @@
       "onboard_time": 1693908576,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 247435,
-      "num": 58788,
-      "word": "旅日游客称不介意福岛鱼",
-      "onboard_time": 1694198655,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247202,
@@ -15523,6 +15523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58273,
+      "num": 49565,
+      "word": "Ella爸爸和爷爷撞脸任贤齐",
+      "onboard_time": 1694204354,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58083,
       "num": 396286,
       "word": "消防车出警路遇求助秒变救护车",
@@ -15603,6 +15611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53893,
+      "num": 49145,
+      "word": "王琳推荐肖战参加战至巅峰",
+      "onboard_time": 1694200095,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52290,
       "num": 350489,
       "word": "外卖小哥接力帮市民穿过汹涌水流",
@@ -15643,12 +15659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49465,
-      "num": 42455,
-      "word": "Ella爸爸和爷爷撞脸任贤齐",
-      "onboard_time": 1694204354,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 48398,
+      "num": 48398,
+      "word": "白百何拜托网友还原张曼玉发型",
+      "onboard_time": 1694200455,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 47735,
@@ -15691,12 +15707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44616,
-      "num": 42368,
-      "word": "王琳推荐肖战参加战至巅峰",
-      "onboard_time": 1694200095,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 44669,
+      "num": 44669,
+      "word": "纽约大学医生带你1分钟拉伸",
+      "onboard_time": 1694206814,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 44345,
@@ -15705,14 +15721,6 @@
       "onboard_time": 1694181635,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43856,
-      "num": 38897,
-      "word": "白百何拜托网友还原张曼玉发型",
-      "onboard_time": 1694200455,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 43794,
@@ -15843,14 +15851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 38031,
-      "num": 38031,
-      "word": "纽约大学医生带你1分钟拉伸",
-      "onboard_time": 1694206814,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37579,
       "num": 535066,
       "word": "福州暴雨旱鸭子拉水管拼命救人",
@@ -15876,7 +15876,7 @@
     },
     {
       "raw_hot": 36632,
-      "num": 29882,
+      "num": 38366,
       "word": "感觉不到爱意就是没有",
       "onboard_time": 1694201355,
       "rank": 47,
@@ -15929,6 +15929,14 @@
       "onboard_time": 1693728098,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33460,
+      "num": 38352,
+      "word": "见过最能提供情绪价值的小孩",
+      "onboard_time": 1694211796,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 32520,
@@ -16001,6 +16009,14 @@
       "onboard_time": 1694197696,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28462,
+      "num": 38336,
+      "word": "檀健次相柳二创reaction",
+      "onboard_time": 1694205313,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 27876,
@@ -16091,20 +16107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23943,
+      "num": 38299,
+      "word": "唐禹哲不愧是年轻的身体",
+      "onboard_time": 1694203514,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23796,
       "num": 23796,
       "word": "孙怡好会共情王睡睡",
       "onboard_time": 1693941913,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23396,
-      "num": 29288,
-      "word": "檀健次相柳二创reaction",
-      "onboard_time": 1694205313,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 23246,
@@ -16131,12 +16147,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 21682,
-      "num": 29276,
-      "word": "唐禹哲不愧是年轻的身体",
-      "onboard_time": 1694203514,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 22558,
+      "num": 247813,
+      "word": "来杭州看看梦里江南的模样",
+      "onboard_time": 1694179416,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21246,
@@ -16216,14 +16232,6 @@
       "word": "超6亿中国人都做过公益",
       "onboard_time": 1693810835,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17748,
-      "num": 247813,
-      "word": "来杭州看看梦里江南的模样",
-      "onboard_time": 1694179416,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

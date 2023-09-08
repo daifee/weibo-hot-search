@@ -1,0 +1,410 @@
+{
+  "runTime": 1694212427365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 176295,
+        "num": 176295,
+        "word": "女子照顾植物人丈夫4年终苏醒",
+        "onboard_time": 1694187939,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 138059,
+        "word": "11.4万人都知道盛阳失业了",
+        "onboard_time": 1694190989,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22558,
+        "num": 125405,
+        "word": "来杭州看看梦里江南的模样",
+        "onboard_time": 1694179416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471147,
+        "num": 122816,
+        "word": "周杰伦演唱会受伤",
+        "onboard_time": 1694183017,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395957,
+        "num": 122420,
+        "word": "大学生贷款参加就业培训后自缢身亡",
+        "onboard_time": 1694187761,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118761,
+        "num": 118761,
+        "word": "为什么上岸第一剑先斩意中人",
+        "onboard_time": 1694166935,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 100872,
+        "num": 100872,
+        "word": "骄阳伴我我哭了我演的",
+        "onboard_time": 1694187404,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91054,
+        "num": 91054,
+        "word": "刘宪华Jessi真的在内娱合体了",
+        "onboard_time": 1694185603,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85877,
+        "num": 85877,
+        "word": "乌尔善说封神破30亿会有演唱会",
+        "onboard_time": 1694186440,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59979,
+        "num": 85549,
+        "word": "义乳女团",
+        "onboard_time": 1694163636,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 335300,
+        "num": 83624,
+        "word": "旅日游客称不介意福岛鱼",
+        "onboard_time": 1694198655,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150973,
+        "num": 81984,
+        "word": "周杰伦幽闭恐惧症",
+        "onboard_time": 1694187463,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52824,
+        "num": 79839,
+        "word": "大熊猫园润当妈妈了",
+        "onboard_time": 1694179176,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48974,
+        "num": 79075,
+        "word": "暴雨中最让人安心的橙色",
+        "onboard_time": 1694188358,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33408,
+        "num": 77449,
+        "word": "8月新增501例猴痘确诊",
+        "onboard_time": 1694164958,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 75842,
+        "word": "企业回应把日本食材引进无锡学生餐",
+        "onboard_time": 1694182477,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74571,
+        "num": 74571,
+        "word": "不要轻易去外省读大学",
+        "onboard_time": 1694185603,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67552,
+        "num": 67552,
+        "word": "云之羽一口气追到大结局",
+        "onboard_time": 1694179595,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62897,
+        "num": 62897,
+        "word": "阿信演唱会吸氧",
+        "onboard_time": 1694182957,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52860,
+        "num": 52860,
+        "word": "iPhone15Pro减轻约10%",
+        "onboard_time": 1694184218,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167359,
+        "num": 52601,
+        "word": "沈梦辰杜海涛可以一起生活不能一起工作",
+        "onboard_time": 1694168554,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151899,
+        "num": 52172,
+        "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
+        "onboard_time": 1694184218,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123112,
+        "num": 51881,
+        "word": "李在明已绝食抗议9天",
+        "onboard_time": 1694187279,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108000,
+        "num": 51353,
+        "word": "长期不换头像的情绪更稳定吗",
+        "onboard_time": 1694184940,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87347,
+        "num": 51038,
+        "word": "比熬夜更耗气血的其实是玩手机",
+        "onboard_time": 1694178364,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 69733,
+        "num": 50242,
+        "word": "被寄养一个月的猫咪骂了",
+        "onboard_time": 1694187221,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66690,
+        "num": 50137,
+        "word": "广东人是如何做到这么统一的",
+        "onboard_time": 1694187761,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58273,
+        "num": 49565,
+        "word": "Ella爸爸和爷爷撞脸任贤齐",
+        "onboard_time": 1694204354,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53893,
+        "num": 49145,
+        "word": "王琳推荐肖战参加战至巅峰",
+        "onboard_time": 1694200095,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53412,
+        "num": 48429,
+        "word": "现在做什么可在5年后受益匪浅",
+        "onboard_time": 1694188298,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48398,
+        "num": 48398,
+        "word": "白百何拜托网友还原张曼玉发型",
+        "onboard_time": 1694200455,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48395,
+        "num": 48395,
+        "word": "德国男篮战胜美国男篮",
+        "onboard_time": 1694184343,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44797,
+        "num": 44797,
+        "word": "金泰亨销量违反规定",
+        "onboard_time": 1694185482,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44669,
+        "num": 44669,
+        "word": "纽约大学医生带你1分钟拉伸",
+        "onboard_time": 1694206814,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42633,
+        "num": 42633,
+        "word": "Uzi纪念限定薇恩",
+        "onboard_time": 1694177854,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42037,
+        "num": 42037,
+        "word": "东莞暴雨",
+        "onboard_time": 1694206094,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40006,
+        "num": 40006,
+        "word": "爸妈让我保证30岁前不结婚",
+        "onboard_time": 1694173772,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39432,
+        "num": 39432,
+        "word": "没唱玫瑰少年",
+        "onboard_time": 1694186564,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38377,
+        "num": 38377,
+        "word": "吃石头小猫的后续",
+        "onboard_time": 1694180558,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35199,
+        "num": 38375,
+        "word": "容祖儿晒其在香港暴雨中开车",
+        "onboard_time": 1694180138,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 34989,
+        "num": 38366,
+        "word": "感觉不到爱意就是没有",
+        "onboard_time": 1694201355,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34676,
+        "num": 38357,
+        "word": "虞书欣张凌赫卢昱晓聚餐",
+        "onboard_time": 1694179654,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33460,
+        "num": 38352,
+        "word": "见过最能提供情绪价值的小孩",
+        "onboard_time": 1694211796,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 31369,
+        "num": 38341,
+        "word": "G社拍的倪妮",
+        "onboard_time": 1694181939,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28462,
+        "num": 38336,
+        "word": "檀健次相柳二创reaction",
+        "onboard_time": 1694205313,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28300,
+        "num": 38329,
+        "word": "黄明昊FMVP",
+        "onboard_time": 1694183438,
+        "rank": 45,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 27169,
+        "num": 38317,
+        "word": "王源说希望赵英俊能为自己感到骄傲",
+        "onboard_time": 1694195660,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25676,
+        "num": 38312,
+        "word": "朝日集团不再邀请杰尼斯艺人代言",
+        "onboard_time": 1694178513,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23943,
+        "num": 38299,
+        "word": "唐禹哲不愧是年轻的身体",
+        "onboard_time": 1694203514,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23481,
+        "num": 38296,
+        "word": "不虚此行",
+        "onboard_time": 1694188477,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国广大教师节日快乐#"
+    }
+  }
+}
