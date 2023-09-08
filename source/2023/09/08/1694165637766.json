@@ -1,0 +1,410 @@
+{
+  "runTime": 1694165637766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 916615,
+        "num": 916615,
+        "word": "外交部回应美国调查华为最新手机芯片",
+        "onboard_time": 1694160875,
+        "rank": 0,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 2283413,
+        "num": 910951,
+        "word": "义乳女团",
+        "onboard_time": 1694163636,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 5264,
+        "num": 789313,
+        "word": "共建一带一路倡议十周年",
+        "onboard_time": 1694165614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265232,
+        "num": 781762,
+        "word": "张雪峰问华为什么意思",
+        "onboard_time": 1694154994,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 774039,
+        "num": 774039,
+        "word": "内蒙古高压气体泄漏事故10死3伤",
+        "onboard_time": 1694164115,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 659443,
+        "num": 659443,
+        "word": "小学生徒手挖出炮弹送校长室",
+        "onboard_time": 1694163454,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496518,
+        "num": 496518,
+        "word": "一张图证明广东的雨有多大",
+        "onboard_time": 1694155355,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419172,
+        "num": 419172,
+        "word": "被删减的殷寿在苏护刀下救姬发片段",
+        "onboard_time": 1694163514,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415447,
+        "num": 415447,
+        "word": "18岁少年离世前一个决定心碎又感动",
+        "onboard_time": 1694162556,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 411636,
+        "num": 411636,
+        "word": "莲花楼演唱会",
+        "onboard_time": 1694158656,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1062405,
+        "num": 402773,
+        "word": "华为王炸",
+        "onboard_time": 1694144016,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 969337,
+        "num": 397718,
+        "word": "今年你会从iPhone转华为吗",
+        "onboard_time": 1694160033,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 78368,
+        "num": 384145,
+        "word": "人民群众遇到困难一方有难八方支援",
+        "onboard_time": 1694159372,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267770,
+        "num": 379764,
+        "word": "香港遇百年一遇大暴雨",
+        "onboard_time": 1694157874,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173117,
+        "num": 366062,
+        "word": "蚂蚁集团发布金融大模型",
+        "onboard_time": 1694163636,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360493,
+        "num": 360493,
+        "word": "张雪峰换Mate60后MateX5开售",
+        "onboard_time": 1694160275,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329980,
+        "num": 329980,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323019,
+        "num": 323019,
+        "word": "当妈后开始为i做e",
+        "onboard_time": 1694160391,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321489,
+        "num": 321489,
+        "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+        "onboard_time": 1694148280,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300907,
+        "num": 300907,
+        "word": "王鹤棣田曦薇新剧的cp感",
+        "onboard_time": 1694157213,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1878795,
+        "num": 300446,
+        "word": "男性生殖器HPV感染率高达45.2%",
+        "onboard_time": 1694160093,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653758,
+        "num": 298564,
+        "word": "张凌赫微信头像",
+        "onboard_time": 1694164538,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 440321,
+        "num": 298266,
+        "word": "偷吃了7斤狗粮的肚子",
+        "onboard_time": 1694162616,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438395,
+        "num": 297108,
+        "word": "内娱顶级淡颜系代表",
+        "onboard_time": 1694159911,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296132,
+        "num": 296132,
+        "word": "男子钱包丢10年被分文不少送回",
+        "onboard_time": 1694158113,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 396861,
+        "num": 294003,
+        "word": "当我爸把我化妆品摔碎",
+        "onboard_time": 1694163815,
+        "rank": 25,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 287268,
+        "num": 287268,
+        "word": "肖战骄阳伴我雨中笑名场面",
+        "onboard_time": 1694164538,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265980,
+        "num": 265980,
+        "word": "8月新增501例猴痘确诊",
+        "onboard_time": 1694164958,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260054,
+        "num": 260054,
+        "word": "韩版想见你全集上线",
+        "onboard_time": 1694164293,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231140,
+        "num": 231140,
+        "word": "父辈的荣耀太好哭了",
+        "onboard_time": 1694162013,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214695,
+        "num": 214695,
+        "word": "倪妮本色出演",
+        "onboard_time": 1694163815,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212904,
+        "num": 212904,
+        "word": "丫丫胖出褶子了",
+        "onboard_time": 1694144137,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210133,
+        "num": 210133,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204008,
+        "num": 204008,
+        "word": "桂花壁纸",
+        "onboard_time": 1694164832,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197008,
+        "num": 197008,
+        "word": "母子就医路上捡包等不到失主送消防",
+        "onboard_time": 1694165254,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195045,
+        "num": 195045,
+        "word": "檀健次的狗让他颜面尽失",
+        "onboard_time": 1694146478,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193740,
+        "num": 193740,
+        "word": "王耀庆当队长是12位哥哥选出来的",
+        "onboard_time": 1694165555,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187917,
+        "num": 187917,
+        "word": "梅西成全球国家队参与进球历史第1人",
+        "onboard_time": 1694160334,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185593,
+        "num": 185593,
+        "word": "爱奇艺热度破万剧评分TOP9",
+        "onboard_time": 1694156191,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180850,
+        "num": 180850,
+        "word": "华为OPPO在一起",
+        "onboard_time": 1694160155,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178324,
+        "num": 178324,
+        "word": "男生对不喜欢的人都很双标吗",
+        "onboard_time": 1694161654,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175888,
+        "num": 175888,
+        "word": "林高远vs筱塚大登",
+        "onboard_time": 1694164115,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167153,
+        "num": 167153,
+        "word": "乌尔善关心于适像我爸查岗",
+        "onboard_time": 1694159675,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156732,
+        "num": 156732,
+        "word": "可惜你不看云之羽",
+        "onboard_time": 1694164896,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151789,
+        "num": 151789,
+        "word": "五月天西安演唱会",
+        "onboard_time": 1694160574,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150625,
+        "num": 150625,
+        "word": "二公伶人",
+        "onboard_time": 1694161894,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143736,
+        "num": 143736,
+        "word": "家长称小学强制订牛奶3箱330元",
+        "onboard_time": 1694155172,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 139528,
+        "num": 139528,
+        "word": "费翔乌尔善芭莎",
+        "onboard_time": 1694162074,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139381,
+        "num": 139381,
+        "word": "亚运会电竞",
+        "onboard_time": 1694160155,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 137866,
+        "num": 137866,
+        "word": "消费降级一年后的真实变化",
+        "onboard_time": 1694149420,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江考察#"
+    }
+  }
+}
