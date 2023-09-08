@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694186104903,
+  "endTime": 1694187244927,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 976766,
+      "num": 976766,
+      "word": "没唱玫瑰少年",
+      "onboard_time": 1694186564,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 944171,
       "num": 944171,
       "word": "一张图证明广东的雨有多大",
@@ -323,8 +331,16 @@
       "category": "科技"
     },
     {
+      "raw_hot": 848857,
+      "num": 357228,
+      "word": "长期不换头像的情绪更稳定吗",
+      "onboard_time": 1694184940,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 845089,
-      "num": 317231,
+      "num": 354334,
       "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
       "onboard_time": 1694184218,
       "rank": 21,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819525,
+      "num": 819525,
+      "word": "金泰亨销量违反规定",
+      "onboard_time": 1694185482,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 818051,
       "num": 818051,
       "word": "马斯克称iPhone换代毫无新意",
@@ -361,14 +385,6 @@
       "onboard_time": 1694098720,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806460,
-      "num": 316383,
-      "word": "长期不换头像的情绪更稳定吗",
-      "onboard_time": 1694184940,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 795788,
@@ -675,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566267,
+      "num": 566267,
+      "word": "刘宪华Jessi真的在内娱合体了",
+      "onboard_time": 1694185603,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557556,
       "num": 557556,
       "word": "迪丽热巴上城士九月刊封面",
@@ -697,14 +721,6 @@
       "onboard_time": 1694172338,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 551423,
-      "num": 551423,
-      "word": "金泰亨销量违反规定",
-      "onboard_time": 1694185482,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 546947,
@@ -1179,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 362847,
+      "num": 362847,
+      "word": "不要轻易去外省读大学",
+      "onboard_time": 1694185603,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362299,
       "num": 206909,
       "word": "洛阳一大学生杀害同学后跳楼自杀",
@@ -1235,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347177,
+      "num": 347177,
+      "word": "乌尔善说封神破30亿会有演唱会",
+      "onboard_time": 1694186440,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338913,
       "num": 338913,
       "word": "深圳紧急提醒非必要不外出",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1694159675,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333366,
+      "num": 333366,
+      "word": "胡夏清唱主题曲",
+      "onboard_time": 1694186623,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 330302,
@@ -1355,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319236,
+      "num": 254451,
+      "word": "周杰伦 经营好自己的一技之长",
+      "onboard_time": 1694187104,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318044,
       "num": 318044,
       "word": "白露",
@@ -1387,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315592,
-      "num": 315592,
-      "word": "刘宪华Jessi真的在内娱合体了",
-      "onboard_time": 1694185603,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315366,
       "num": 315366,
       "word": "深圳暴雨现场画面",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1694132559,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308763,
+      "num": 308763,
+      "word": "敖子逸四杀",
+      "onboard_time": 1694185844,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 307505,
@@ -1523,14 +1571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 285043,
-      "num": 285043,
-      "word": "敖子逸四杀",
-      "onboard_time": 1694185844,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 284427,
       "num": 284427,
       "word": "披荆斩棘二公真人秀海报",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1694141134,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 273781,
+      "num": 273781,
+      "word": "俞灏明问为什么要笑我",
+      "onboard_time": 1694186325,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 273037,
@@ -1971,14 +2019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221762,
-      "num": 221762,
-      "word": "不要轻易去外省读大学",
-      "onboard_time": 1694185603,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220573,
       "num": 220573,
       "word": "陈都灵西出玉门剧照",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1694163815,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219370,
+      "num": 219370,
+      "word": "时代少年团跳小熊舞",
+      "onboard_time": 1694186143,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 218888,
@@ -2843,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125723,
+      "num": 125723,
+      "word": "被寄养一个月的猫咪骂了",
+      "onboard_time": 1694187221,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125606,
       "num": 144507,
       "word": "金泰亨专辑",
@@ -3020,7 +3076,7 @@
     },
     {
       "raw_hot": 25029,
-      "num": 984638,
+      "num": 1277410,
       "word": "共建一带一路倡议十周年",
       "onboard_time": 1694165614,
       "rank": 2,
@@ -3035,7 +3091,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11285,
+      "raw_hot": 21246,
       "num": 203907,
       "word": "你会选择AI帮你理财吗",
       "onboard_time": 1694185237,
