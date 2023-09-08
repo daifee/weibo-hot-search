@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694171653311,
+  "endTime": 1694172831416,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2054672,
-      "num": 302061,
+      "num": 399671,
       "word": "男性生殖器HPV感染率高达45.2%",
       "onboard_time": 1694160093,
       "rank": 20,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 668794,
+      "num": 1493342,
+      "word": "哥哥3次劝学网瘾弟弟返校考上一本",
+      "onboard_time": 1694170832,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 667763,
       "num": 667763,
       "word": "大奉打更人首发剧照",
@@ -432,6 +440,14 @@
       "word": "莲花楼演唱会",
       "onboard_time": 1694158656,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 656019,
+      "num": 620860,
+      "word": "金靖给张凌赫备注宫子牛",
+      "onboard_time": 1694171495,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -475,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632289,
+      "num": 632289,
+      "word": "华为",
+      "onboard_time": 1694169759,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 628076,
       "num": 628076,
       "word": "香港的雨有多大",
       "onboard_time": 1694139574,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617885,
-      "num": 617885,
-      "word": "华为",
-      "onboard_time": 1694169759,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 617118,
@@ -537,6 +553,14 @@
       "onboard_time": 1694148099,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 552455,
+      "num": 552455,
+      "word": "陈梦vs王曼昱",
+      "onboard_time": 1694172338,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 540077,
@@ -739,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427832,
+      "num": 427832,
+      "word": "进京探亲遇暴雨失联女童遗体找到",
+      "onboard_time": 1694170235,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424618,
       "num": 424618,
       "word": "林志颖痛失队长",
       "onboard_time": 1694154635,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423222,
+      "num": 423222,
+      "word": "塞尔维亚男篮战胜加拿大男篮",
+      "onboard_time": 1694170958,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 420753,
@@ -891,12 +931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 373301,
-      "num": 373301,
-      "word": "进京探亲遇暴雨失联女童遗体找到",
-      "onboard_time": 1694170235,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 371185,
+      "num": 371185,
+      "word": "这四位是写纯古言里口碑较好的了",
+      "onboard_time": 1694170774,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362299,
@@ -931,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354093,
+      "num": 354093,
+      "word": "李宇春请我吃四川火锅啦",
+      "onboard_time": 1694170054,
+      "rank": 17,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 353814,
       "num": 353814,
       "word": "普通人的钱是省出来的",
@@ -939,12 +987,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 353255,
-      "num": 353255,
-      "word": "李宇春请我吃四川火锅啦",
-      "onboard_time": 1694170054,
-      "rank": 17,
-      "category": "艺人,美食"
+      "raw_hot": 345291,
+      "num": 345291,
+      "word": "李亚男的画",
+      "onboard_time": 1694171854,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 338913,
@@ -1131,14 +1179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 301507,
-      "num": 1379112,
-      "word": "哥哥3次劝学网瘾弟弟返校考上一本",
-      "onboard_time": 1694170832,
-      "rank": 4,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 297536,
       "num": 297536,
       "word": "莲花楼",
@@ -1171,14 +1211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288366,
-      "num": 288366,
-      "word": "这四位是写纯古言里口碑较好的了",
-      "onboard_time": 1694170774,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 287268,
       "num": 287268,
       "word": "肖战骄阳伴我雨中笑名场面",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1694100520,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282932,
-      "num": 282932,
-      "word": "塞尔维亚男篮战胜加拿大男篮",
-      "onboard_time": 1694170958,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 282331,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1694141134,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 269203,
+      "num": 269203,
+      "word": "赵露思美拉德穿搭",
+      "onboard_time": 1694172575,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262925,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1694133579,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254818,
+      "num": 254818,
+      "word": "Angelababy复古工装风",
+      "onboard_time": 1694171016,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 253273,
@@ -1475,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234085,
+      "num": 234085,
+      "word": "虞书欣镜头下的温峥嵘",
+      "onboard_time": 1694170355,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233662,
       "num": 233662,
       "word": "广州地铁",
@@ -1539,12 +1587,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 222205,
-      "num": 222205,
-      "word": "Angelababy复古工装风",
-      "onboard_time": 1694171016,
-      "rank": 27,
-      "category": "作品衍生,时尚"
+      "raw_hot": 224815,
+      "num": 224815,
+      "word": "王艺迪3比1伊藤美诚",
+      "onboard_time": 1694171974,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 220573,
@@ -1569,14 +1617,6 @@
       "onboard_time": 1694100161,
       "rank": 28,
       "category": "其它"
-    },
-    {
-      "raw_hot": 218030,
-      "num": 218030,
-      "word": "金靖给张凌赫备注宫子牛",
-      "onboard_time": 1694171495,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 216079,
@@ -1609,14 +1649,6 @@
       "onboard_time": 1694160155,
       "rank": 34,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 208472,
-      "num": 201061,
-      "word": "虞书欣镜头下的温峥嵘",
-      "onboard_time": 1694170355,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 208059,
@@ -1851,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185390,
+      "num": 185390,
+      "word": "TTG夏决出征宣言",
+      "onboard_time": 1694171854,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184762,
       "num": 184762,
       "word": "阿根廷1比0厄瓜多尔",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1694146779,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173304,
+      "num": 473275,
+      "word": "没有优秀车机的车企终将掉队吗",
+      "onboard_time": 1694171495,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 173117,
@@ -2267,20 +2315,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126011,
+      "num": 126011,
+      "word": "KPL发育路头脑共享",
+      "onboard_time": 1694172454,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125730,
       "num": 125730,
       "word": "陈梦3比1佐藤瞳",
       "onboard_time": 1694159614,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113800,
-      "num": 142143,
-      "word": "没有优秀车机的车企终将掉队吗",
-      "onboard_time": 1694171495,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 108415,
