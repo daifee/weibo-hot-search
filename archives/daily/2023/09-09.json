@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694190108788,
+  "endTime": 1694191006873,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -19,20 +19,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 900556,
+      "num": 357928,
+      "word": "周杰伦幽闭恐惧症",
+      "onboard_time": 1694187463,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 786257,
       "num": 243517,
       "word": "沈梦辰杜海涛可以一起生活不能一起工作",
       "onboard_time": 1694168554,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 759126,
-      "num": 298165,
-      "word": "周杰伦幽闭恐惧症",
-      "onboard_time": 1694187463,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 686449,
@@ -83,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435589,
+      "raw_hot": 451257,
       "num": 231274,
       "word": "李在明已绝食抗议9天",
       "onboard_time": 1694187279,
@@ -108,9 +108,17 @@
     },
     {
       "raw_hot": 402522,
-      "num": 297621,
+      "num": 344696,
       "word": "云之羽一口气追到大结局",
       "onboard_time": 1694179595,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383532,
+      "num": 355420,
+      "word": "11.4万人都知道盛阳失业了",
+      "onboard_time": 1694190989,
       "rank": 11,
       "category": "影视"
     },
@@ -132,27 +140,35 @@
     },
     {
       "raw_hot": 345266,
-      "num": 295711,
+      "num": 301295,
       "word": "不要轻易去外省读大学",
       "onboard_time": 1694185603,
       "rank": 16,
       "category": "情感"
     },
     {
+      "raw_hot": 339099,
+      "num": 227231,
+      "word": "比熬夜更耗气血的其实是玩手机",
+      "onboard_time": 1694178364,
+      "rank": 26,
+      "category": "其它"
+    },
+    {
       "raw_hot": 333488,
-      "num": 333488,
+      "num": 360626,
       "word": "iPhone15Pro减轻约10%",
       "onboard_time": 1694184218,
       "rank": 8,
       "category": "科技"
     },
     {
-      "raw_hot": 316625,
-      "num": 227231,
-      "word": "比熬夜更耗气血的其实是玩手机",
-      "onboard_time": 1694178364,
-      "rank": 26,
-      "category": "其它"
+      "raw_hot": 328457,
+      "num": 328457,
+      "word": "乌尔善说封神破30亿会有演唱会",
+      "onboard_time": 1694186440,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 313722,
@@ -164,19 +180,11 @@
     },
     {
       "raw_hot": 298391,
-      "num": 298391,
+      "num": 365570,
       "word": "女子照顾植物人丈夫4年终苏醒",
       "onboard_time": 1694187939,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295110,
-      "num": 295110,
-      "word": "乌尔善说封神破30亿会有演唱会",
-      "onboard_time": 1694186440,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 275862,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 179502,
-      "num": 297547,
+      "num": 349405,
       "word": "大熊猫园润当妈妈了",
       "onboard_time": 1694179176,
       "rank": 12,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 155464,
-      "num": 296988,
+      "num": 351310,
       "word": "8月新增501例猴痘确诊",
       "onboard_time": 1694164958,
       "rank": 13,
@@ -273,6 +281,22 @@
       "onboard_time": 1694180916,
       "rank": 35,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 143226,
+      "num": 143226,
+      "word": "乌尔善拉片",
+      "onboard_time": 1694190031,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 137604,
+      "num": 137604,
+      "word": "李现网球王子随拍照",
+      "onboard_time": 1694190270,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 134210,
@@ -379,20 +403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109177,
+      "num": 347852,
+      "word": "暴雨中最让人安心的橙色",
+      "onboard_time": 1694188358,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103140,
       "num": 103140,
       "word": "奥本海默",
       "onboard_time": 1694188658,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101281,
-      "num": 296598,
-      "word": "暴雨中最让人安心的橙色",
-      "onboard_time": 1694188358,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10296,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习近平祝全国广大教师节日快乐#"
+    },
+    {
+      "word": "#习近平总书记最深的牵挂#"
     }
   ]
 }
