@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694179206801,
+  "endTime": 1694180040550,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1475183,
+      "num": 765949,
+      "word": "华为",
+      "onboard_time": 1694169759,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1438929,
       "num": 1438929,
       "word": "8月新增501例猴痘确诊",
       "onboard_time": 1694164958,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1403962,
-      "num": 765949,
-      "word": "华为",
-      "onboard_time": 1694169759,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 1316325,
@@ -339,6 +339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 793120,
+      "num": 460588,
+      "word": "虞书欣张凌赫卢昱晓聚餐",
+      "onboard_time": 1694179654,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 774039,
       "num": 774039,
       "word": "内蒙古高压气体泄漏事故10死3伤",
@@ -385,6 +393,14 @@
       "onboard_time": 1694149420,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 731115,
+      "num": 370741,
+      "word": "比熬夜更耗气血的其实是玩手机",
+      "onboard_time": 1694178364,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 705526,
@@ -441,6 +457,14 @@
       "onboard_time": 1694170832,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 668616,
+      "num": 668616,
+      "word": "云之羽一口气追到大结局",
+      "onboard_time": 1694179595,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 667763,
@@ -523,20 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620001,
-      "num": 298340,
-      "word": "比熬夜更耗气血的其实是玩手机",
-      "onboard_time": 1694178364,
-      "rank": 21,
-      "category": "其它"
-    },
-    {
       "raw_hot": 617118,
       "num": 297108,
       "word": "内娱顶级淡颜系代表",
       "onboard_time": 1694159911,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 615658,
+      "num": 615658,
+      "word": "真的有龙吗",
+      "onboard_time": 1694177613,
+      "rank": 16,
+      "category": "其它"
     },
     {
       "raw_hot": 604325,
@@ -553,6 +577,14 @@
       "onboard_time": 1694099379,
       "rank": 9,
       "category": "其它"
+    },
+    {
+      "raw_hot": 581941,
+      "num": 581941,
+      "word": "Uzi纪念限定薇恩",
+      "onboard_time": 1694177854,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 571074,
@@ -593,14 +625,6 @@
       "onboard_time": 1694172338,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 546875,
-      "num": 546875,
-      "word": "Uzi纪念限定薇恩",
-      "onboard_time": 1694177854,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 540077,
@@ -697,6 +721,14 @@
       "onboard_time": 1694099980,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481127,
+      "num": 459208,
+      "word": "朝日集团不再邀请杰尼斯艺人代言",
+      "onboard_time": 1694178513,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 478812,
@@ -883,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416986,
-      "num": 416986,
-      "word": "朝日集团不再邀请杰尼斯艺人代言",
-      "onboard_time": 1694178513,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 415639,
       "num": 331345,
       "word": "下班后试婚纱会失去表情管理",
@@ -995,20 +1019,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 388142,
-      "num": 388142,
-      "word": "真的有龙吗",
-      "onboard_time": 1694177613,
-      "rank": 16,
-      "category": "其它"
-    },
-    {
       "raw_hot": 382417,
       "num": 382417,
       "word": "上海杜莎将揭幕宋茜蜡像",
       "onboard_time": 1694151815,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380257,
+      "num": 380257,
+      "word": "U15国足夺得东亚杯冠军",
+      "onboard_time": 1694179896,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 378852,
@@ -1123,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 328510,
+      "num": 328510,
+      "word": "敖子逸打着石膏参加决赛",
+      "onboard_time": 1694175274,
+      "rank": 23,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 326977,
       "num": 326977,
       "word": "脱口秀演员称城市越穷事越多",
@@ -1179,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322177,
+      "num": 322177,
+      "word": "大熊猫圆润当妈妈了",
+      "onboard_time": 1694179176,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321258,
       "num": 287859,
       "word": "妈妈被家暴女儿冲出揪爸爸头发阻止",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1694143958,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316417,
+      "num": 316417,
+      "word": "孟子义邀请西出玉门全员去桃花坞",
+      "onboard_time": 1694177973,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 315366,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1694149237,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291523,
-      "num": 252400,
-      "word": "敖子逸打着石膏参加决赛",
-      "onboard_time": 1694175274,
-      "rank": 23,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 289458,
@@ -1411,6 +1451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 273037,
+      "num": 273037,
+      "word": "孤注一掷票房破37亿",
+      "onboard_time": 1694179654,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269203,
       "num": 269203,
       "word": "赵露思美拉德穿搭",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1694178513,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263135,
+      "num": 263135,
+      "word": "战至巅峰2总决赛直播",
+      "onboard_time": 1694170174,
+      "rank": 26,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 262925,
@@ -1472,14 +1528,6 @@
       "word": "韩版想见你全集上线",
       "onboard_time": 1694164293,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 258888,
-      "num": 258888,
-      "word": "孟子义邀请西出玉门全员去桃花坞",
-      "onboard_time": 1694177973,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -1609,14 +1657,6 @@
       "onboard_time": 1694164115,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240603,
-      "num": 240603,
-      "word": "战至巅峰2总决赛直播",
-      "onboard_time": 1694170174,
-      "rank": 26,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 239546,
@@ -2515,6 +2555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132664,
+      "num": 132664,
+      "word": "刘诗诗沈月狐妖竹业篇异域造型",
+      "onboard_time": 1694179834,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 128838,
       "num": 400232,
       "word": "店主凌晨冒雨打开店门营救被淹车辆",
@@ -2571,14 +2619,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 113598,
-      "num": 113598,
-      "word": "大熊猫圆润当妈妈了",
-      "onboard_time": 1694179176,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108415,
       "num": 1165536,
       "word": "人民群众遇到困难一方有难八方支援",
@@ -2596,7 +2636,7 @@
     },
     {
       "raw_hot": 103177,
-      "num": 206812,
+      "num": 386219,
       "word": "买车听开车的还是坐车的",
       "onboard_time": 1694178455,
       "rank": 32,
@@ -2731,7 +2771,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 5264,
+      "raw_hot": 12891,
       "num": 789313,
       "word": "共建一带一路倡议十周年",
       "onboard_time": 1694165614,
