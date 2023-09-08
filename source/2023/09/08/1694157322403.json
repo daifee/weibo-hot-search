@@ -1,0 +1,410 @@
+{
+  "runTime": 1694157322403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2537561,
+        "num": 2537561,
+        "word": "张雪峰问华为什么意思",
+        "onboard_time": 1694154994,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1637700,
+        "num": 1637700,
+        "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+        "onboard_time": 1694148280,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28710,
+        "num": 1252258,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1171950,
+        "num": 1171950,
+        "word": "华为王炸",
+        "onboard_time": 1694144016,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 714960,
+        "num": 714960,
+        "word": "香港宣布极端情况至少维持至下午6时",
+        "onboard_time": 1694147861,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570128,
+        "num": 570128,
+        "word": "马斯克称iPhone换代毫无新意",
+        "onboard_time": 1694151634,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 546587,
+        "num": 546587,
+        "word": "大奉打更人首发剧照",
+        "onboard_time": 1694153974,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540077,
+        "num": 540077,
+        "word": "张远没选0713",
+        "onboard_time": 1694155172,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457901,
+        "num": 457901,
+        "word": "家长称小学强制订牛奶3箱330元",
+        "onboard_time": 1694155172,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 436311,
+        "num": 436311,
+        "word": "消费降级一年后的真实变化",
+        "onboard_time": 1694149420,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 891736,
+        "num": 434396,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495886,
+        "num": 434073,
+        "word": "一张图证明广东的雨有多大",
+        "onboard_time": 1694155355,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418840,
+        "num": 431013,
+        "word": "丫丫胖出褶子了",
+        "onboard_time": 1694144137,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240700,
+        "num": 429668,
+        "word": "香港的雨有多大",
+        "onboard_time": 1694139574,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51715,
+        "num": 427639,
+        "word": "老人将孙子学费错转民警全力帮寻回",
+        "onboard_time": 1694156434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461650,
+        "num": 426436,
+        "word": "檀健次的狗让他颜面尽失",
+        "onboard_time": 1694146478,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424618,
+        "num": 424618,
+        "word": "林志颖痛失队长",
+        "onboard_time": 1694154635,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421285,
+        "num": 421285,
+        "word": "徐良自带版权来披荆斩棘",
+        "onboard_time": 1694156312,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290660,
+        "num": 290660,
+        "word": "北电2023级新生开学典礼",
+        "onboard_time": 1694152654,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 258395,
+        "num": 258395,
+        "word": "陈楚生当队长操碎了心",
+        "onboard_time": 1694156136,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417527,
+        "num": 256914,
+        "word": "爱奇艺热度破万剧评分TOP9",
+        "onboard_time": 1694156191,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254653,
+        "num": 254653,
+        "word": "主办方回应去有风的地方涉嫌抄袭",
+        "onboard_time": 1694156554,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242853,
+        "num": 242853,
+        "word": "何超莲想和窦骁一起录综艺",
+        "onboard_time": 1694138734,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240726,
+        "num": 240726,
+        "word": "南风知我意",
+        "onboard_time": 1694141976,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233703,
+        "num": 233703,
+        "word": "金晨野生眉",
+        "onboard_time": 1694150618,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228823,
+        "num": 228823,
+        "word": "成毅的白衬衫偷偷想开了",
+        "onboard_time": 1694154453,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228581,
+        "num": 228581,
+        "word": "华为MateX5开售",
+        "onboard_time": 1694140117,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 215017,
+        "num": 215017,
+        "word": "机圈汪峰",
+        "onboard_time": 1694150494,
+        "rank": 27,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 209923,
+        "num": 209923,
+        "word": "华为推出Mate60Pro",
+        "onboard_time": 1694140475,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205387,
+        "num": 205387,
+        "word": "妈妈请不要再报我的虚岁了",
+        "onboard_time": 1694141195,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432487,
+        "num": 204293,
+        "word": "海豚用塑料垃圾袋换了小鱼",
+        "onboard_time": 1694155955,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202129,
+        "num": 202129,
+        "word": "范丞丞的身高优势都在这2米81里了",
+        "onboard_time": 1694154275,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199785,
+        "num": 199785,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185825,
+        "num": 185825,
+        "word": "姬发一人一马一弓箭主动出击",
+        "onboard_time": 1694156434,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182688,
+        "num": 182688,
+        "word": "上海杜莎将揭幕宋茜蜡像",
+        "onboard_time": 1694151815,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182356,
+        "num": 182356,
+        "word": "华为和OPPO杠上了吗",
+        "onboard_time": 1694148040,
+        "rank": 35,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 177549,
+        "num": 177549,
+        "word": "金珉奎综艺效果拉满",
+        "onboard_time": 1694154635,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169235,
+        "num": 169235,
+        "word": "赵丽颖复古摩登发型",
+        "onboard_time": 1694148764,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165795,
+        "num": 165795,
+        "word": "王鹤棣田曦薇新剧的cp感",
+        "onboard_time": 1694157213,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164063,
+        "num": 164063,
+        "word": "代号鸢张飞",
+        "onboard_time": 1694156914,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160892,
+        "num": 160892,
+        "word": "看了伴娘服瞬间不想当她的伴娘了",
+        "onboard_time": 1694138554,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157613,
+        "num": 157613,
+        "word": "华为折叠屏满血回归",
+        "onboard_time": 1694145096,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155855,
+        "num": 155855,
+        "word": "深圳暴雨现场画面",
+        "onboard_time": 1694140835,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153797,
+        "num": 153797,
+        "word": "可以是水牛但不可以是黄牛",
+        "onboard_time": 1694148221,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148440,
+        "num": 148440,
+        "word": "海岸或在接触成毅王一博",
+        "onboard_time": 1694149060,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145696,
+        "num": 145696,
+        "word": "下班后试婚纱会失去表情管理",
+        "onboard_time": 1694148999,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142470,
+        "num": 142470,
+        "word": "迪丽热巴上城士九月刊封面",
+        "onboard_time": 1694148099,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142309,
+        "num": 142309,
+        "word": "虞书欣 我被谁表扬过啊",
+        "onboard_time": 1694132197,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135626,
+        "num": 135626,
+        "word": "Mate60熊猫配色",
+        "onboard_time": 1694141735,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135409,
+        "num": 135409,
+        "word": "孙颖莎王艺迪3比0平野美宇张本美和",
+        "onboard_time": 1694153852,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江省尚志市看望慰问受灾群众#"
+    }
+  }
+}

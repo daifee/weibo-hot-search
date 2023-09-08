@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694154884594,
+  "endTime": 1694157322403,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -17,6 +17,14 @@
       "onboard_time": 1694140295,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2537561,
+      "num": 2537561,
+      "word": "张雪峰问华为什么意思",
+      "onboard_time": 1694154994,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 2101836,
@@ -75,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1637700,
+      "num": 1637700,
+      "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+      "onboard_time": 1694148280,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1601529,
       "num": 1601529,
       "word": "南风知我意",
@@ -96,14 +112,6 @@
       "word": "9岁女孩称发私密视频是为交朋友",
       "onboard_time": 1694105307,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1536038,
-      "num": 1536038,
-      "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
-      "onboard_time": 1694148280,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 540077,
+      "num": 540077,
+      "word": "张远没选0713",
+      "onboard_time": 1694155172,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533313,
       "num": 385566,
       "word": "张远38岁状态",
@@ -408,6 +424,14 @@
       "word": "官方通报四川达州5死16伤交通事故",
       "onboard_time": 1694130995,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495886,
+      "num": 434073,
+      "word": "一张图证明广东的雨有多大",
+      "onboard_time": 1694155355,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -459,6 +483,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 457901,
+      "num": 457901,
+      "word": "家长称小学强制订牛奶3箱330元",
+      "onboard_time": 1694155172,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 456693,
       "num": 456693,
       "word": "公职人员被儿子举报出轨停职",
@@ -473,6 +505,14 @@
       "onboard_time": 1694101957,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432487,
+      "num": 204293,
+      "word": "海豚用塑料垃圾袋换了小鱼",
+      "onboard_time": 1694155955,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 431174,
@@ -499,11 +539,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424618,
+      "num": 424618,
+      "word": "林志颖痛失队长",
+      "onboard_time": 1694154635,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421285,
+      "num": 421285,
+      "word": "徐良自带版权来披荆斩棘",
+      "onboard_time": 1694156312,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420753,
       "num": 420753,
       "word": "进去一个彪子 出来八百彪子",
       "onboard_time": 1694147200,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 417527,
+      "num": 256914,
+      "word": "爱奇艺热度破万剧评分TOP9",
+      "onboard_time": 1694156191,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -763,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309822,
-      "num": 309822,
-      "word": "林志颖痛失队长",
-      "onboard_time": 1694154635,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306704,
       "num": 306704,
       "word": "突然就不怕变老了",
@@ -939,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258395,
+      "num": 258395,
+      "word": "陈楚生当队长操碎了心",
+      "onboard_time": 1694156136,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258237,
       "num": 258237,
       "word": "檀健次 心理暗示真的很重要",
@@ -953,6 +1017,14 @@
       "onboard_time": 1694133579,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254653,
+      "num": 254653,
+      "word": "主办方回应去有风的地方涉嫌抄袭",
+      "onboard_time": 1694156554,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 252752,
@@ -1043,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228823,
+      "num": 228823,
+      "word": "成毅的白衬衫偷偷想开了",
+      "onboard_time": 1694154453,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228686,
       "num": 228686,
       "word": "亚运会火炬手",
@@ -1113,14 +1193,6 @@
       "onboard_time": 1694127868,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207268,
-      "num": 207268,
-      "word": "成毅的白衬衫偷偷想开了",
-      "onboard_time": 1694154453,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 206347,
@@ -1299,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185825,
+      "num": 185825,
+      "word": "姬发一人一马一弓箭主动出击",
+      "onboard_time": 1694156434,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184762,
       "num": 184762,
       "word": "阿根廷1比0厄瓜多尔",
@@ -1395,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165795,
+      "num": 165795,
+      "word": "王鹤棣田曦薇新剧的cp感",
+      "onboard_time": 1694157213,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165561,
       "num": 165561,
       "word": "宋亚轩骑平衡车路过军训新生队伍",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1694151398,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164063,
+      "num": 164063,
+      "word": "代号鸢张飞",
+      "onboard_time": 1694156914,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 160013,
@@ -1615,6 +1711,14 @@
       "num": 350489,
       "word": "外卖小哥接力帮市民穿过汹涌水流",
       "onboard_time": 1694152834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51715,
+      "num": 427639,
+      "word": "老人将孙子学费错转民警全力帮寻回",
+      "onboard_time": 1694156434,
       "rank": 14,
       "category": "社会新闻"
     },
