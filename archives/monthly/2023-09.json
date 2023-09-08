@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694161228235,
+  "endTime": 1694162051914,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2054672,
+      "num": 279697,
+      "word": "男性生殖器HPV感染率高达45.2%",
+      "onboard_time": 1694160093,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2042256,
       "num": 581736,
       "word": "这居然是向佐",
@@ -1288,14 +1296,6 @@
       "word": "9岁女孩称发私密视频是为交朋友",
       "onboard_time": 1694105307,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1541228,
-      "num": 279697,
-      "word": "男性生殖器HPV感染率高达45.2%",
-      "onboard_time": 1694160093,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2737,6 +2737,14 @@
       "onboard_time": 1693787318,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 916773,
+      "num": 916773,
+      "word": "今年你会从iPhone转华为吗",
+      "onboard_time": 1694160033,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 916169,
@@ -4811,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617118,
+      "num": 278657,
+      "word": "内娱顶级淡颜系代表",
+      "onboard_time": 1694159911,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 616985,
       "num": 616985,
       "word": "本周狗屎运最旺的星座",
@@ -5961,14 +5977,6 @@
       "onboard_time": 1693902936,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532241,
-      "num": 278657,
-      "word": "内娱顶级淡颜系代表",
-      "onboard_time": 1694159911,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 531100,
@@ -7355,14 +7363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442982,
-      "num": 442982,
-      "word": "今年你会从iPhone转华为吗",
-      "onboard_time": 1694160033,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 441886,
       "num": 441886,
       "word": "梦泪婚礼炸出AG新成员",
@@ -7673,6 +7673,14 @@
       "onboard_time": 1694047540,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 425650,
+      "num": 425650,
+      "word": "外交部回应美国调查华为最新手机芯片",
+      "onboard_time": 1694160875,
+      "rank": 37,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 425433,
@@ -8145,6 +8153,14 @@
       "onboard_time": 1693539396,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 403962,
+      "num": 403962,
+      "word": "张雪峰换Mate60后MateX5开售",
+      "onboard_time": 1694160275,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 403399,
@@ -11099,14 +11115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281666,
-      "num": 281666,
-      "word": "张雪峰换Mate60后MateX5开售",
-      "onboard_time": 1694160275,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 281511,
       "num": 281511,
       "word": "成毅起诉黑粉侵犯名誉权",
@@ -12673,6 +12681,14 @@
       "onboard_time": 1694076696,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239174,
+      "num": 239174,
+      "word": "当妈后开始为i做e",
+      "onboard_time": 1694160391,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 239166,
@@ -14683,14 +14699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201181,
-      "num": 201181,
-      "word": "当妈后开始为i做e",
-      "onboard_time": 1694160391,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200984,
       "num": 200984,
       "word": "猫妈妈上门看望被领养的小猫咪",
@@ -14899,14 +14907,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 198722,
-      "num": 198722,
-      "word": "外交部回应美国调查华为最新手机芯片",
-      "onboard_time": 1694160875,
-      "rank": 37,
-      "category": "国内要闻,科技"
-    },
-    {
       "raw_hot": 198702,
       "num": 198702,
       "word": "48岁阿姨再高考考上大学学中医",
@@ -15113,6 +15113,14 @@
       "onboard_time": 1693714773,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196304,
+      "num": 196304,
+      "word": "梅西成全球国家队参与进球历史第1人",
+      "onboard_time": 1694160334,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 196194,
@@ -16763,6 +16771,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170682,
+      "num": 170682,
+      "word": "辽宁一动物园断粮市民自发投喂",
+      "onboard_time": 1694161595,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170395,
+      "num": 170395,
+      "word": "考古的风还是吹向了丞磊",
+      "onboard_time": 1694159013,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169983,
       "num": 169983,
       "word": "许知远采访费翔 落花时节又逢君",
@@ -16945,14 +16969,6 @@
       "onboard_time": 1693810894,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166127,
-      "num": 166127,
-      "word": "梅西成全球国家队参与进球历史第1人",
-      "onboard_time": 1694160334,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 165907,
@@ -17169,6 +17185,14 @@
       "onboard_time": 1694078436,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162454,
+      "num": 162454,
+      "word": "男生对不喜欢的人都很双标吗",
+      "onboard_time": 1694161654,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 162352,
@@ -17707,14 +17731,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 149766,
-      "num": 149766,
-      "word": "考古的风还是吹向了丞磊",
-      "onboard_time": 1694159013,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149760,
       "num": 450024,
       "word": "女子得知爷爷身体不好请1月假陪伴",
@@ -18139,6 +18155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140848,
+      "num": 140848,
+      "word": "二公伶人",
+      "onboard_time": 1694161894,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140786,
       "num": 140786,
       "word": "代号鸢蔡琰张飞",
@@ -18153,6 +18177,14 @@
       "onboard_time": 1693998156,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139851,
+      "num": 139851,
+      "word": "父辈的荣耀太好哭了",
+      "onboard_time": 1694162013,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 139495,
@@ -18464,6 +18496,14 @@
       "word": "鲁川合力助患癌男子找到亲生父母",
       "onboard_time": 1693639772,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128838,
+      "num": 400232,
+      "word": "店主凌晨冒雨打开店门营救被淹车辆",
+      "onboard_time": 1694160033,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -18835,6 +18875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108415,
+      "num": 1069783,
+      "word": "人民群众遇到困难一方有难八方支援",
+      "onboard_time": 1694159372,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107513,
       "num": 99903,
       "word": "路过的网友全部舔一口",
@@ -18873,14 +18921,6 @@
       "onboard_time": 1693680918,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106756,
-      "num": 1069783,
-      "word": "人民群众遇到困难一方有难八方支援",
-      "onboard_time": 1694159372,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106727,
@@ -19057,14 +19097,6 @@
       "onboard_time": 1693586371,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94843,
-      "num": 400232,
-      "word": "店主凌晨冒雨打开店门营救被淹车辆",
-      "onboard_time": 1694160033,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94693,

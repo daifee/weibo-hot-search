@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694161228235,
+  "endTime": 1694162051914,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -41,6 +41,14 @@
       "onboard_time": 1694138734,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2054672,
+      "num": 279697,
+      "word": "男性生殖器HPV感染率高达45.2%",
+      "onboard_time": 1694160093,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2042256,
@@ -112,14 +120,6 @@
       "word": "9岁女孩称发私密视频是为交朋友",
       "onboard_time": 1694105307,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1541228,
-      "num": 279697,
-      "word": "男性生殖器HPV感染率高达45.2%",
-      "onboard_time": 1694160093,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1694155355,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916773,
+      "num": 916773,
+      "word": "今年你会从iPhone转华为吗",
+      "onboard_time": 1694160033,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 906244,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617118,
+      "num": 278657,
+      "word": "内娱顶级淡颜系代表",
+      "onboard_time": 1694159911,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 604325,
       "num": 604325,
       "word": "被困横店后我成了所有男主的白月光",
@@ -441,14 +457,6 @@
       "onboard_time": 1694156312,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532241,
-      "num": 278657,
-      "word": "内娱顶级淡颜系代表",
-      "onboard_time": 1694159911,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 531100,
@@ -555,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442982,
-      "num": 442982,
-      "word": "今年你会从iPhone转华为吗",
-      "onboard_time": 1694160033,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 439538,
       "num": 439538,
       "word": "广州全市暴雨戒备状态",
@@ -601,6 +601,14 @@
       "onboard_time": 1694135018,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425650,
+      "num": 425650,
+      "word": "外交部回应美国调查华为最新手机芯片",
+      "onboard_time": 1694160875,
+      "rank": 37,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 424618,
@@ -657,6 +665,14 @@
       "onboard_time": 1694142396,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 403962,
+      "num": 403962,
+      "word": "张雪峰换Mate60后MateX5开售",
+      "onboard_time": 1694160275,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 400402,
@@ -987,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281666,
-      "num": 281666,
-      "word": "张雪峰换Mate60后MateX5开售",
-      "onboard_time": 1694160275,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 278890,
       "num": 278890,
       "word": "梅西首发出战厄瓜多尔",
@@ -1187,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239174,
+      "num": 239174,
+      "word": "当妈后开始为i做e",
+      "onboard_time": 1694160391,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237133,
       "num": 237133,
       "word": "张皓宸新书",
@@ -1347,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201181,
-      "num": 201181,
-      "word": "当妈后开始为i做e",
-      "onboard_time": 1694160391,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200552,
       "num": 200552,
       "word": "李宗盛演唱会内场观众盘丝洞体验",
@@ -1379,14 +1387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198722,
-      "num": 198722,
-      "word": "外交部回应美国调查华为最新手机芯片",
-      "onboard_time": 1694160875,
-      "rank": 37,
-      "category": "国内要闻,科技"
-    },
-    {
       "raw_hot": 198080,
       "num": 198080,
       "word": "浙江一村被曝出现上千条眼镜蛇",
@@ -1400,6 +1400,14 @@
       "word": "阿根廷vs厄瓜多尔",
       "onboard_time": 1694135378,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196304,
+      "num": 196304,
+      "word": "梅西成全球国家队参与进球历史第1人",
+      "onboard_time": 1694160334,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1587,6 +1595,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170682,
+      "num": 170682,
+      "word": "辽宁一动物园断粮市民自发投喂",
+      "onboard_time": 1694161595,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170395,
+      "num": 170395,
+      "word": "考古的风还是吹向了丞磊",
+      "onboard_time": 1694159013,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169940,
       "num": 169940,
       "word": "Twins听到古巨基儿子唱歌反应",
@@ -1619,14 +1643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166127,
-      "num": 166127,
-      "word": "梅西成全球国家队参与进球历史第1人",
-      "onboard_time": 1694160334,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165561,
       "num": 165561,
       "word": "宋亚轩骑平衡车路过军训新生队伍",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1694156914,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162454,
+      "num": 162454,
+      "word": "男生对不喜欢的人都很双标吗",
+      "onboard_time": 1694161654,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 160013,
@@ -1723,14 +1747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149766,
-      "num": 149766,
-      "word": "考古的风还是吹向了丞磊",
-      "onboard_time": 1694159013,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149186,
       "num": 149186,
       "word": "让领导认为你不堪重用的摆件",
@@ -1779,6 +1795,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140848,
+      "num": 140848,
+      "word": "二公伶人",
+      "onboard_time": 1694161894,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139851,
+      "num": 139851,
+      "word": "父辈的荣耀太好哭了",
+      "onboard_time": 1694162013,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139404,
       "num": 139404,
       "word": "瑞幸将再向茅台采购飞天茅台酒",
@@ -1811,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128838,
+      "num": 400232,
+      "word": "店主凌晨冒雨打开店门营救被淹车辆",
+      "onboard_time": 1694160033,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127541,
       "num": 145488,
       "word": "黄景瑜皮衣机车造型",
@@ -1827,7 +1867,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106756,
+      "raw_hot": 108415,
       "num": 1069783,
       "word": "人民群众遇到困难一方有难八方支援",
       "onboard_time": 1694159372,
@@ -1857,14 +1897,6 @@
       "onboard_time": 1694158173,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94843,
-      "num": 400232,
-      "word": "店主凌晨冒雨打开店门营救被淹车辆",
-      "onboard_time": 1694160033,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91268,

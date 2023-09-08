@@ -1,0 +1,410 @@
+{
+  "runTime": 1694162051914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2089287,
+        "num": 2089287,
+        "word": "张雪峰问华为什么意思",
+        "onboard_time": 1694154994,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1115907,
+        "num": 1115907,
+        "word": "华为王炸",
+        "onboard_time": 1694144016,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 108415,
+        "num": 1004797,
+        "word": "人民群众遇到困难一方有难八方支援",
+        "onboard_time": 1694159372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916773,
+        "num": 916773,
+        "word": "今年你会从iPhone转华为吗",
+        "onboard_time": 1694160033,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 777978,
+        "num": 777978,
+        "word": "一张图证明广东的雨有多大",
+        "onboard_time": 1694155355,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681883,
+        "num": 681883,
+        "word": "男子钱包丢10年被分文不少送回",
+        "onboard_time": 1694158113,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 674127,
+        "num": 674127,
+        "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+        "onboard_time": 1694148280,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626087,
+        "num": 626087,
+        "word": "王鹤棣田曦薇新剧的cp感",
+        "onboard_time": 1694157213,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551484,
+        "num": 551484,
+        "word": "莲花楼演唱会",
+        "onboard_time": 1694158656,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448146,
+        "num": 448146,
+        "word": "香港遇百年一遇大暴雨",
+        "onboard_time": 1694157874,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523835,
+        "num": 442252,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425650,
+        "num": 425650,
+        "word": "外交部回应美国调查华为最新手机芯片",
+        "onboard_time": 1694160875,
+        "rank": 11,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 403962,
+        "num": 403962,
+        "word": "张雪峰换Mate60后MateX5开售",
+        "onboard_time": 1694160275,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 390498,
+        "num": 390498,
+        "word": "家长称小学强制订牛奶3箱330元",
+        "onboard_time": 1694155172,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128838,
+        "num": 350388,
+        "word": "店主凌晨冒雨打开店门营救被淹车辆",
+        "onboard_time": 1694160033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330870,
+        "num": 330870,
+        "word": "乌尔善关心于适像我爸查岗",
+        "onboard_time": 1694159675,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309350,
+        "num": 309350,
+        "word": "丫丫胖出褶子了",
+        "onboard_time": 1694144137,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307124,
+        "num": 307124,
+        "word": "徐良自带版权来披荆斩棘",
+        "onboard_time": 1694156312,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296547,
+        "num": 296547,
+        "word": "檀健次的狗让他颜面尽失",
+        "onboard_time": 1694146478,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270192,
+        "num": 270192,
+        "word": "GEN与Mystic解约",
+        "onboard_time": 1694157813,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2054672,
+        "num": 263268,
+        "word": "男性生殖器HPV感染率高达45.2%",
+        "onboard_time": 1694160093,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617118,
+        "num": 263164,
+        "word": "内娱顶级淡颜系代表",
+        "onboard_time": 1694159911,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280252,
+        "num": 262628,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253177,
+        "num": 253177,
+        "word": "爱奇艺热度破万剧评分TOP9",
+        "onboard_time": 1694156191,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239174,
+        "num": 239174,
+        "word": "当妈后开始为i做e",
+        "onboard_time": 1694160391,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233611,
+        "num": 233611,
+        "word": "宫脇咲良认为的必须要学习的原因",
+        "onboard_time": 1694159315,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227026,
+        "num": 227026,
+        "word": "香港宣布极端情况至少维持至下午6时",
+        "onboard_time": 1694147861,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221881,
+        "num": 221881,
+        "word": "衫姐 我对象的想法怎么越来越脱缰了",
+        "onboard_time": 1694158593,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218582,
+        "num": 218582,
+        "word": "海豚用塑料垃圾袋换了小鱼",
+        "onboard_time": 1694155955,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216614,
+        "num": 216614,
+        "word": "华为OPPO在一起",
+        "onboard_time": 1694160155,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204766,
+        "num": 204766,
+        "word": "五月天西安演唱会",
+        "onboard_time": 1694160574,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200579,
+        "num": 200579,
+        "word": "消费降级一年后的真实变化",
+        "onboard_time": 1694149420,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196304,
+        "num": 196304,
+        "word": "梅西成全球国家队参与进球历史第1人",
+        "onboard_time": 1694160334,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188868,
+        "num": 188868,
+        "word": "张远没选0713",
+        "onboard_time": 1694155172,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186515,
+        "num": 186515,
+        "word": "华为MateX5开售",
+        "onboard_time": 1694140117,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178323,
+        "num": 178323,
+        "word": "华为MateX5发售1秒卖光",
+        "onboard_time": 1694147500,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170682,
+        "num": 170682,
+        "word": "辽宁一动物园断粮市民自发投喂",
+        "onboard_time": 1694161595,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170395,
+        "num": 170395,
+        "word": "考古的风还是吹向了丞磊",
+        "onboard_time": 1694159013,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168803,
+        "num": 168803,
+        "word": "亚运会电竞",
+        "onboard_time": 1694160155,
+        "rank": 38,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 168467,
+        "num": 168467,
+        "word": "华为推出Mate60Pro",
+        "onboard_time": 1694140475,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162454,
+        "num": 162454,
+        "word": "男生对不喜欢的人都很双标吗",
+        "onboard_time": 1694161654,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157503,
+        "num": 157503,
+        "word": "马斯克称iPhone换代毫无新意",
+        "onboard_time": 1694151634,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147546,
+        "num": 147546,
+        "word": "主办方回应去有风的地方涉嫌抄袭",
+        "onboard_time": 1694156554,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141879,
+        "num": 141879,
+        "word": "妈妈请不要再报我的虚岁了",
+        "onboard_time": 1694141195,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140848,
+        "num": 140848,
+        "word": "二公伶人",
+        "onboard_time": 1694161894,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139851,
+        "num": 139851,
+        "word": "父辈的荣耀太好哭了",
+        "onboard_time": 1694162013,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139161,
+        "num": 139161,
+        "word": "陈楚生当队长操碎了心",
+        "onboard_time": 1694156136,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135957,
+        "num": 135957,
+        "word": "赵丽颖复古摩登发型",
+        "onboard_time": 1694148764,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125347,
+        "num": 125347,
+        "word": "海岸或在接触成毅王一博",
+        "onboard_time": 1694149060,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115362,
+        "num": 125057,
+        "word": "何超莲想和窦骁一起录综艺",
+        "onboard_time": 1694138734,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江考察#"
+    }
+  }
+}
