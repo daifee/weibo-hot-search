@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694151253301,
+  "endTime": 1694154098389,
   "band_list": [
     {
       "raw_hot": 3436547,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1754232,
+      "num": 1754232,
+      "word": "香港宣布极端情况至少维持至下午6时",
+      "onboard_time": 1694147861,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1746223,
       "num": 1746223,
       "word": "长期不吃晚餐真的会瘦吗",
       "onboard_time": 1694099439,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1622098,
-      "num": 1622098,
-      "word": "香港宣布极端情况至少维持至下午6时",
-      "onboard_time": 1694147861,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1601529,
@@ -113,6 +113,14 @@
       "onboard_time": 1694099620,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1196219,
+      "num": 1196219,
+      "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
+      "onboard_time": 1694148280,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1171488,
@@ -219,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 764463,
+      "num": 764463,
+      "word": "马斯克称iPhone换代毫无新意",
+      "onboard_time": 1694151634,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 756217,
       "num": 756217,
       "word": "Mate60Pro+",
@@ -233,6 +249,14 @@
       "onboard_time": 1694101001,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736901,
+      "num": 736901,
+      "word": "消费降级一年后的真实变化",
+      "onboard_time": 1694149420,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 705526,
@@ -288,14 +312,6 @@
       "word": "香港的雨有多大",
       "onboard_time": 1694139574,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613381,
-      "num": 338038,
-      "word": "妈妈解释完去世的意思宝宝瞬间泪崩",
-      "onboard_time": 1694148280,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -393,14 +409,6 @@
       "onboard_time": 1694142334,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489492,
-      "num": 462181,
-      "word": "消费降级一年后的真实变化",
-      "onboard_time": 1694149420,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 483479,
@@ -555,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382417,
+      "num": 382417,
+      "word": "上海杜莎将揭幕宋茜蜡像",
+      "onboard_time": 1694151815,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378625,
       "num": 327521,
       "word": "12斤的猫是什么概念",
@@ -601,6 +617,22 @@
       "onboard_time": 1694145699,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343847,
+      "num": 343847,
+      "word": "北电2023级新生开学典礼",
+      "onboard_time": 1694152654,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 339488,
+      "num": 339488,
+      "word": "金晨野生眉",
+      "onboard_time": 1694150618,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 338913,
@@ -731,14 +763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303937,
-      "num": 303937,
-      "word": "金晨野生眉",
-      "onboard_time": 1694150618,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 303868,
       "num": 303868,
       "word": "男性HPV疫苗要来了",
@@ -787,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293490,
+      "num": 293490,
+      "word": "大奉打更人首发剧照",
+      "onboard_time": 1694153974,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284427,
       "num": 284427,
       "word": "披荆斩棘二公真人秀海报",
@@ -833,6 +865,14 @@
       "onboard_time": 1694149599,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276281,
+      "num": 276281,
+      "word": "暑假开学都被桐华支配了",
+      "onboard_time": 1694153257,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 276194,
@@ -1059,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206002,
+      "num": 206002,
+      "word": "张艺兴直播",
+      "onboard_time": 1694153196,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203774,
       "num": 203774,
       "word": "萨巴伦卡晋级美网决赛",
@@ -1112,6 +1160,14 @@
       "word": "亚运会",
       "onboard_time": 1694143595,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195286,
+      "num": 195286,
+      "word": "孙颖莎王艺迪3比0平野美宇张本美和",
+      "onboard_time": 1694153852,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1283,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169775,
+      "num": 169775,
+      "word": "宫远徵你怎么不笑了",
+      "onboard_time": 1694152295,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167498,
       "num": 167498,
       "word": "我上专业课",
@@ -1303,6 +1367,14 @@
       "num": 165561,
       "word": "宋亚轩骑平衡车路过军训新生队伍",
       "onboard_time": 1694140173,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164985,
+      "num": 164985,
+      "word": "檀健次诚意喊话剪刀手入职",
+      "onboard_time": 1694151398,
       "rank": 43,
       "category": "艺人"
     },
@@ -1345,6 +1417,14 @@
       "onboard_time": 1694138494,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151587,
+      "num": 151587,
+      "word": "异人之下",
+      "onboard_time": 1694151336,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 151212,
@@ -1521,6 +1601,14 @@
       "onboard_time": 1694110517,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35306,
+      "num": 344836,
+      "word": "外卖小哥接力帮市民穿过汹涌水流",
+      "onboard_time": 1694152834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31270,
