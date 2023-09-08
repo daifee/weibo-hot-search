@@ -1,6 +1,6 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694136686840,
+  "endTime": 1694139725806,
   "band_list": [
     {
       "raw_hot": 2101836,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2084637,
+      "num": 615512,
+      "word": "何超莲想和窦骁一起录综艺",
+      "onboard_time": 1694138734,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2042256,
-      "num": 462372,
+      "num": 512582,
       "word": "这居然是向佐",
       "onboard_time": 1694132559,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1846397,
+      "num": 597508,
+      "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
+      "onboard_time": 1694134180,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1746223,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 1045578,
-      "num": 460777,
+      "num": 471192,
       "word": "虞书欣 我被谁表扬过啊",
       "onboard_time": 1694132197,
       "rank": 12,
@@ -89,6 +105,14 @@
       "onboard_time": 1694092057,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 906244,
+      "num": 555982,
+      "word": "iPhone15机型比例为3比1",
+      "onboard_time": 1694133638,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 810052,
@@ -123,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 674853,
+      "num": 1039618,
+      "word": "梅西任意球破门",
+      "onboard_time": 1694137955,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 652792,
       "num": 652792,
       "word": "广州停课",
@@ -147,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 637332,
+      "num": 637332,
+      "word": "丫丫大口大口地炫饭",
+      "onboard_time": 1694137894,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604325,
       "num": 604325,
       "word": "被困横店后我成了所有男主的白月光",
       "onboard_time": 1694098601,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 595049,
-      "num": 595049,
-      "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
-      "onboard_time": 1694134180,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 594228,
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 571074,
-      "num": 421757,
+      "num": 456963,
       "word": "番禺",
       "onboard_time": 1694134901,
       "rank": 29,
@@ -227,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454859,
-      "num": 409633,
-      "word": "iPhone15机型比例为3比1",
-      "onboard_time": 1694133638,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 439538,
       "num": 439538,
       "word": "广州全市暴雨戒备状态",
@@ -283,11 +307,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 378625,
+      "num": 301433,
+      "word": "12斤的猫是什么概念",
+      "onboard_time": 1694136633,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374815,
       "num": 374815,
       "word": "小孩不会撒谎但会胡说八道",
       "onboard_time": 1694110337,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 362503,
+      "num": 298477,
+      "word": "看了伴娘服瞬间不想当她的伴娘了",
+      "onboard_time": 1694138554,
+      "rank": 22,
       "category": "幽默"
     },
     {
@@ -329,6 +369,14 @@
       "onboard_time": 1694130514,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 323988,
+      "num": 434679,
+      "word": "深圳9月8日全市停课",
+      "onboard_time": 1694133702,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321258,
@@ -403,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282331,
+      "num": 282331,
+      "word": "檀健次kisskiss",
+      "onboard_time": 1694136214,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278890,
       "num": 278890,
       "word": "梅西首发出战厄瓜多尔",
@@ -425,6 +481,22 @@
       "onboard_time": 1694097699,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265653,
+      "num": 265653,
+      "word": "原来屈原才是中国飞天第一人",
+      "onboard_time": 1694138674,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261411,
+      "num": 261411,
+      "word": "云为衫 定制化新娘",
+      "onboard_time": 1694137595,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 260480,
@@ -467,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246437,
+      "num": 246437,
+      "word": "深圳外卖小哥急流中帮市民拽起电动车",
+      "onboard_time": 1694138375,
+      "rank": 27,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 239546,
       "num": 239546,
       "word": "花样青春",
       "onboard_time": 1694135853,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237133,
+      "num": 237133,
+      "word": "张皓宸新书",
+      "onboard_time": 1694139337,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233662,
@@ -483,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228912,
+      "num": 228912,
+      "word": "詹青云 年轻就是选择权的巅峰",
+      "onboard_time": 1694136697,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228514,
       "num": 228514,
       "word": "男生开学来晚了意外被分到教师精装宿舍",
@@ -491,28 +587,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 223617,
-      "num": 223617,
-      "word": "深圳9月8日全市停课",
-      "onboard_time": 1694133702,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220573,
       "num": 220573,
       "word": "陈都灵西出玉门剧照",
       "onboard_time": 1694085576,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219841,
-      "num": 219841,
-      "word": "檀健次kisskiss",
-      "onboard_time": 1694136214,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 218888,
@@ -537,6 +617,14 @@
       "onboard_time": 1694127868,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206347,
+      "num": 206347,
+      "word": "今年夏天最有人气的内娱剧角色",
+      "onboard_time": 1694137713,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 200552,
@@ -579,20 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194375,
-      "num": 194375,
-      "word": "12斤的猫是什么概念",
-      "onboard_time": 1694136633,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "猫妈妈上门看望被领养的小猫咪",
       "onboard_time": 1694099379,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191262,
+      "num": 191262,
+      "word": "丞磊的人夫感",
+      "onboard_time": 1694138917,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190093,
@@ -635,6 +723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184179,
+      "num": 184179,
+      "word": "双子座被人低估的一面",
+      "onboard_time": 1694138254,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179259,
+      "num": 179259,
+      "word": "香港的雨有多大",
+      "onboard_time": 1694139574,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175150,
       "num": 175150,
       "word": "深圳多地暴雨升级为橙色预警",
@@ -675,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160252,
+      "num": 160252,
+      "word": "西出玉门首播反响",
+      "onboard_time": 1694139516,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160013,
       "num": 160013,
       "word": "华为mate60和iPhone15选哪个",
@@ -705,6 +817,14 @@
       "onboard_time": 1694127986,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151590,
+      "num": 151590,
+      "word": "陈幸同逆转晋级亚锦赛16强",
+      "onboard_time": 1694138494,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 151212,
@@ -859,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31270,
+      "num": 1103694,
+      "word": "直击杭州亚运会",
+      "onboard_time": 1694072495,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 31045,
       "num": 31045,
       "word": "大叔买咖啡差1元老板豪爽免了",
@@ -881,14 +1009,6 @@
       "onboard_time": 1694111896,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22442,
-      "num": 1103694,
-      "word": "直击杭州亚运会",
-      "onboard_time": 1694072495,
-      "rank": 2,
-      "category": "社会新闻,体育"
     }
   ],
   "hotgov_list": [
