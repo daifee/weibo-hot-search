@@ -1,7 +1,15 @@
 {
   "startTime": 1694103654277,
-  "endTime": 1694144052998,
+  "endTime": 1694146815156,
   "band_list": [
+    {
+      "raw_hot": 3175422,
+      "num": 3175422,
+      "word": "华为王炸",
+      "onboard_time": 1694144016,
+      "rank": 28,
+      "category": "科技"
+    },
     {
       "raw_hot": 2641943,
       "num": 588212,
@@ -72,6 +80,14 @@
       "word": "9岁女孩称发私密视频是为交朋友",
       "onboard_time": 1694105307,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1429683,
+      "num": 1429683,
+      "word": "丫丫胖出褶子了",
+      "onboard_time": 1694144137,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -155,6 +171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 946270,
+      "num": 946270,
+      "word": "1207名缅北电诈嫌疑人移交我方",
+      "onboard_time": 1694144196,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906244,
       "num": 574033,
       "word": "iPhone15机型比例为3比1",
@@ -177,6 +201,14 @@
       "onboard_time": 1694132378,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 756217,
+      "num": 756217,
+      "word": "Mate60Pro+",
+      "onboard_time": 1694141735,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 755023,
@@ -243,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614808,
-      "num": 614808,
-      "word": "Mate60Pro+",
-      "onboard_time": 1694141735,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 604325,
       "num": 604325,
       "word": "被困横店后我成了所有男主的白月光",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 531100,
-      "num": 356498,
+      "num": 376522,
       "word": "妈妈请不要再报我的虚岁了",
       "onboard_time": 1694141195,
       "rank": 20,
@@ -331,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461284,
+      "num": 372210,
+      "word": "华为折叠屏满血回归",
+      "onboard_time": 1694145096,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 456693,
       "num": 456693,
       "word": "公职人员被儿子举报出轨停职",
@@ -355,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 429753,
+      "num": 429753,
+      "word": "在逆水寒扮演陈情令",
+      "onboard_time": 1694141015,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 428261,
       "num": 428261,
       "word": "杭州亚运火炬开始传递",
@@ -371,20 +411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405803,
+      "num": 405803,
+      "word": "OPPO",
+      "onboard_time": 1694143357,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 405251,
       "num": 405251,
       "word": "Mystic发文回应",
       "onboard_time": 1694142396,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 401225,
-      "num": 401225,
-      "word": "在逆水寒扮演陈情令",
-      "onboard_time": 1694141015,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 400402,
@@ -419,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377474,
+      "num": 377474,
+      "word": "女生杭州毕业旅行一周后定居",
+      "onboard_time": 1694142334,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374815,
       "num": 374815,
       "word": "小孩不会撒谎但会胡说八道",
@@ -435,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356851,
-      "num": 356851,
-      "word": "OPPO",
-      "onboard_time": 1694143357,
-      "rank": 19,
-      "category": "科技"
+      "raw_hot": 343425,
+      "num": 343425,
+      "word": "隔空猥亵是什么",
+      "onboard_time": 1694144739,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338913,
@@ -459,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332710,
-      "num": 332710,
-      "word": "女生杭州毕业旅行一周后定居",
-      "onboard_time": 1694142334,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326977,
       "num": 326977,
       "word": "脱口秀演员称城市越穷事越多",
       "onboard_time": 1694113755,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326679,
+      "num": 326679,
+      "word": "谁让云之羽剧粉这么造梗的",
+      "onboard_time": 1694143416,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 326117,
@@ -515,12 +563,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316715,
+      "num": 316715,
+      "word": "央视揭造谣短视频摆拍流程",
+      "onboard_time": 1694143958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315366,
+      "num": 315366,
+      "word": "深圳暴雨现场画面",
+      "onboard_time": 1694140835,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310745,
       "num": 427507,
       "word": "台风海葵",
       "onboard_time": 1694132559,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309732,
+      "num": 309732,
+      "word": "杭州是在通知天庭下来看亚运吗",
+      "onboard_time": 1694145699,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 306704,
@@ -561,22 +633,6 @@
       "onboard_time": 1694099261,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293502,
-      "num": 293502,
-      "word": "谁让云之羽剧粉这么造梗的",
-      "onboard_time": 1694143416,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 283029,
-      "num": 283029,
-      "word": "深圳暴雨现场画面",
-      "onboard_time": 1694140835,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282939,
@@ -627,12 +683,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 270902,
-      "num": 270902,
-      "word": "华为王炸",
-      "onboard_time": 1694144016,
-      "rank": 28,
-      "category": "科技"
+      "raw_hot": 261726,
+      "num": 261726,
+      "word": "主人以为狗狗中毒了",
+      "onboard_time": 1694143777,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 261411,
@@ -641,6 +697,14 @@
       "onboard_time": 1694137595,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261150,
+      "num": 261150,
+      "word": "檀健次的狗让他颜面尽失",
+      "onboard_time": 1694146478,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260480,
@@ -675,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248755,
+      "num": 248755,
+      "word": "天官赐福动画神武殿场景公开",
+      "onboard_time": 1694146178,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 247245,
       "num": 247245,
       "word": "龙岗 内涝",
@@ -697,6 +769,14 @@
       "onboard_time": 1694142213,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241862,
+      "num": 241862,
+      "word": "盛阳妈妈的美貌你一无所知",
+      "onboard_time": 1694146716,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 241410,
@@ -859,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193831,
+      "num": 193831,
+      "word": "那些回不去的年少时光",
+      "onboard_time": 1694146057,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "猫妈妈上门看望被领养的小猫咪",
@@ -947,12 +1035,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 180344,
-      "num": 180344,
-      "word": "主人以为狗狗中毒了",
-      "onboard_time": 1694143777,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 178954,
+      "num": 178954,
+      "word": "中国的银行AI有多牛",
+      "onboard_time": 1694145998,
+      "rank": 41,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 177888,
@@ -1027,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157665,
-      "num": 157665,
-      "word": "央视揭造谣短视频摆拍流程",
-      "onboard_time": 1694143958,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156795,
       "num": 156795,
       "word": "宫尚角角色魅力爆表的一段",
@@ -1091,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148790,
+      "num": 148790,
+      "word": "哇唧唧哇暑假派对",
+      "onboard_time": 1694144799,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148257,
       "num": 148257,
       "word": "这才是男女对唱的天花板",
@@ -1128,6 +1216,14 @@
       "word": "西出玉门",
       "onboard_time": 1694087259,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 137253,
+      "num": 137253,
+      "word": "怎么老是殷郊在救姬发",
+      "onboard_time": 1694146779,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1212,7 +1308,7 @@
     },
     {
       "raw_hot": 31270,
-      "num": 1103694,
+      "num": 1508044,
       "word": "直击杭州亚运会",
       "onboard_time": 1694072495,
       "rank": 2,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1694113035,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 25611,
+      "num": 432846,
+      "word": "15岁少年痴迷非遗创作拿了两项大奖",
+      "onboard_time": 1694146538,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24831,

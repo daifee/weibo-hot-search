@@ -1,0 +1,410 @@
+{
+  "runTime": 1694146815156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3175422,
+        "num": 3175422,
+        "word": "华为王炸",
+        "onboard_time": 1694144016,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1590009,
+        "num": 1590009,
+        "word": "南风知我意",
+        "onboard_time": 1694141976,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22068,
+        "num": 1508044,
+        "word": "直击杭州亚运会",
+        "onboard_time": 1694072495,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1429683,
+        "num": 1429683,
+        "word": "丫丫胖出褶子了",
+        "onboard_time": 1694144137,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140004,
+        "num": 1140004,
+        "word": "Mate60熊猫配色",
+        "onboard_time": 1694141735,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 946270,
+        "num": 946270,
+        "word": "1207名缅北电诈嫌疑人移交我方",
+        "onboard_time": 1694144196,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756217,
+        "num": 756217,
+        "word": "Mate60Pro+",
+        "onboard_time": 1694141735,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 681295,
+        "num": 681295,
+        "word": "00后入警2个月收锦旗变显眼包",
+        "onboard_time": 1694139756,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598688,
+        "num": 598688,
+        "word": "香港的雨有多大",
+        "onboard_time": 1694139574,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490672,
+        "num": 490672,
+        "word": "何超莲想和窦骁一起录综艺",
+        "onboard_time": 1694138734,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2276034,
+        "num": 472053,
+        "word": "7岁艾滋病毒携带儿童无法入校",
+        "onboard_time": 1694140295,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637595,
+        "num": 467074,
+        "word": "这居然是向佐",
+        "onboard_time": 1694132559,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628208,
+        "num": 462521,
+        "word": "华为推出Mate60Pro",
+        "onboard_time": 1694140475,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 449803,
+        "num": 449803,
+        "word": "华为MateX5开售",
+        "onboard_time": 1694140117,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25611,
+        "num": 432846,
+        "word": "15岁少年痴迷非遗创作拿了两项大奖",
+        "onboard_time": 1694146538,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429753,
+        "num": 429753,
+        "word": "在逆水寒扮演陈情令",
+        "onboard_time": 1694141015,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427966,
+        "num": 427966,
+        "word": "男子每天抽烟百根啤酒当水喝患多种癌症",
+        "onboard_time": 1694134180,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405803,
+        "num": 405803,
+        "word": "OPPO",
+        "onboard_time": 1694143357,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 380435,
+        "num": 380435,
+        "word": "深圳泄洪",
+        "onboard_time": 1694104289,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377474,
+        "num": 377474,
+        "word": "女生杭州毕业旅行一周后定居",
+        "onboard_time": 1694142334,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469803,
+        "num": 376522,
+        "word": "妈妈请不要再报我的虚岁了",
+        "onboard_time": 1694141195,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461284,
+        "num": 372210,
+        "word": "华为折叠屏满血回归",
+        "onboard_time": 1694145096,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 365714,
+        "num": 365714,
+        "word": "拉黑删除后的朋友圈是这样",
+        "onboard_time": 1694133518,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343425,
+        "num": 343425,
+        "word": "隔空猥亵是什么",
+        "onboard_time": 1694144739,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336098,
+        "num": 336098,
+        "word": "Mystic发文回应",
+        "onboard_time": 1694142396,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326679,
+        "num": 326679,
+        "word": "谁让云之羽剧粉这么造梗的",
+        "onboard_time": 1694143416,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320719,
+        "num": 320719,
+        "word": "iPhone15机型比例为3比1",
+        "onboard_time": 1694133638,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 316715,
+        "num": 316715,
+        "word": "央视揭造谣短视频摆拍流程",
+        "onboard_time": 1694143958,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315366,
+        "num": 315366,
+        "word": "深圳暴雨现场画面",
+        "onboard_time": 1694140835,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309732,
+        "num": 309732,
+        "word": "杭州是在通知天庭下来看亚运吗",
+        "onboard_time": 1694145699,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287772,
+        "num": 287772,
+        "word": "虞书欣 我被谁表扬过啊",
+        "onboard_time": 1694132197,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277346,
+        "num": 277346,
+        "word": "林俊杰广州",
+        "onboard_time": 1694134236,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261726,
+        "num": 261726,
+        "word": "主人以为狗狗中毒了",
+        "onboard_time": 1694143777,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261150,
+        "num": 261150,
+        "word": "檀健次的狗让他颜面尽失",
+        "onboard_time": 1694146478,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256670,
+        "num": 256670,
+        "word": "12斤的猫是什么概念",
+        "onboard_time": 1694136633,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255662,
+        "num": 255662,
+        "word": "卢昱晓吴俊霆蔚蓝海报",
+        "onboard_time": 1694141675,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248755,
+        "num": 248755,
+        "word": "天官赐福动画神武殿场景公开",
+        "onboard_time": 1694146178,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 241862,
+        "num": 241862,
+        "word": "盛阳妈妈的美貌你一无所知",
+        "onboard_time": 1694146716,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217782,
+        "num": 217782,
+        "word": "长期不吃晚餐真的会瘦吗",
+        "onboard_time": 1694099439,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214138,
+        "num": 214138,
+        "word": "被困横店后我成了所有男主的白月光",
+        "onboard_time": 1694098601,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193831,
+        "num": 193831,
+        "word": "那些回不去的年少时光",
+        "onboard_time": 1694146057,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178954,
+        "num": 178954,
+        "word": "中国的银行AI有多牛",
+        "onboard_time": 1694145998,
+        "rank": 41,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 175363,
+        "num": 175363,
+        "word": "看了伴娘服瞬间不想当她的伴娘了",
+        "onboard_time": 1694138554,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163592,
+        "num": 163592,
+        "word": "新郎和新娘不在一个图层",
+        "onboard_time": 1694099620,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 154495,
+        "word": "高能英雄王鹤棣",
+        "onboard_time": 1694142396,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154290,
+        "num": 154290,
+        "word": "华为抢不到",
+        "onboard_time": 1694141134,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151423,
+        "num": 151423,
+        "word": "梅西任意球破门",
+        "onboard_time": 1694137955,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148790,
+        "num": 148790,
+        "word": "哇唧唧哇暑假派对",
+        "onboard_time": 1694144799,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144905,
+        "num": 144905,
+        "word": "赵丽颖为丁子峻电影打call",
+        "onboard_time": 1694141436,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137253,
+        "num": 137253,
+        "word": "怎么老是殷郊在救姬发",
+        "onboard_time": 1694146779,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江考察#"
+    }
+  }
+}

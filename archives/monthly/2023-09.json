@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694144052998,
+  "endTime": 1694146815156,
   "band_list": [
     {
       "raw_hot": 8493935,
@@ -161,6 +161,14 @@
       "onboard_time": 1693829855,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3175422,
+      "num": 3175422,
+      "word": "华为王炸",
+      "onboard_time": 1694144016,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 3160252,
@@ -1403,6 +1411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1429683,
+      "num": 1429683,
+      "word": "丫丫胖出褶子了",
+      "onboard_time": 1694144137,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429671,
       "num": 1429671,
       "word": "折腰",
@@ -2539,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 946270,
+      "num": 946270,
+      "word": "1207名缅北电诈嫌疑人移交我方",
+      "onboard_time": 1694144196,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944775,
       "num": 944775,
       "word": "滕州高铁站跳轨男子已被送医",
@@ -3465,6 +3489,14 @@
       "onboard_time": 1693543723,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756217,
+      "num": 756217,
+      "word": "Mate60Pro+",
+      "onboard_time": 1694141735,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 755593,
@@ -4683,14 +4715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 614808,
-      "num": 614808,
-      "word": "Mate60Pro+",
-      "onboard_time": 1694141735,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 614696,
       "num": 614696,
       "word": "玫瑰故事",
@@ -5796,7 +5820,7 @@
     },
     {
       "raw_hot": 531100,
-      "num": 356498,
+      "num": 376522,
       "word": "妈妈请不要再报我的虚岁了",
       "onboard_time": 1694141195,
       "rank": 20,
@@ -6843,6 +6867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461284,
+      "num": 372210,
+      "word": "华为折叠屏满血回归",
+      "onboard_time": 1694145096,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 461176,
       "num": 376202,
       "word": "王睡睡张硕因婚闹至今未领证",
@@ -7363,6 +7395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 429753,
+      "num": 429753,
+      "word": "在逆水寒扮演陈情令",
+      "onboard_time": 1694141015,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429367,
       "num": 429367,
       "word": "TaylorSwift巡演电影预告片释出",
@@ -7827,6 +7867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405803,
+      "num": 405803,
+      "word": "OPPO",
+      "onboard_time": 1694143357,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 405251,
       "num": 405251,
       "word": "Mystic发文回应",
@@ -7905,14 +7953,6 @@
       "onboard_time": 1693621536,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401225,
-      "num": 401225,
-      "word": "在逆水寒扮演陈情令",
-      "onboard_time": 1694141015,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 401216,
@@ -8347,6 +8387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377474,
+      "num": 377474,
+      "word": "女生杭州毕业旅行一周后定居",
+      "onboard_time": 1694142334,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377360,
       "num": 377360,
       "word": "马丽说和沈腾最不熟",
@@ -8723,14 +8771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356851,
-      "num": 356851,
-      "word": "OPPO",
-      "onboard_time": 1694143357,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 356769,
       "num": 221713,
       "word": "掌掴争执占座大爷的小伙已被找到",
@@ -9027,6 +9067,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 343425,
+      "num": 343425,
+      "word": "隔空猥亵是什么",
+      "onboard_time": 1694144739,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343423,
       "num": 343423,
       "word": "尾鱼 西出玉门",
@@ -9259,14 +9307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332710,
-      "num": 332710,
-      "word": "女生杭州毕业旅行一周后定居",
-      "onboard_time": 1694142334,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332547,
       "num": 332547,
       "word": "Twins说毛不易粤语像她们普通话一样标准",
@@ -9417,6 +9457,14 @@
       "onboard_time": 1693898496,
       "rank": 23,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 326679,
+      "num": 326679,
+      "word": "谁让云之羽剧粉这么造梗的",
+      "onboard_time": 1694143416,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 326513,
@@ -9731,6 +9779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 316715,
+      "num": 316715,
+      "word": "央视揭造谣短视频摆拍流程",
+      "onboard_time": 1694143958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316551,
       "num": 316551,
       "word": "第18届长春电影节获奖名单",
@@ -9769,6 +9825,14 @@
       "onboard_time": 1693582181,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315366,
+      "num": 315366,
+      "word": "深圳暴雨现场画面",
+      "onboard_time": 1694140835,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314872,
@@ -9873,6 +9937,14 @@
       "onboard_time": 1694082517,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 309732,
+      "num": 309732,
+      "word": "杭州是在通知天庭下来看亚运吗",
+      "onboard_time": 1694145699,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 309625,
@@ -10339,14 +10411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293502,
-      "num": 293502,
-      "word": "谁让云之羽剧粉这么造梗的",
-      "onboard_time": 1694143416,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292377,
       "num": 292377,
       "word": "于和伟竟然会回复评论了",
@@ -10641,14 +10705,6 @@
       "onboard_time": 1693881218,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283029,
-      "num": 283029,
-      "word": "深圳暴雨现场画面",
-      "onboard_time": 1694140835,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282939,
@@ -11011,14 +11067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270902,
-      "num": 270902,
-      "word": "华为王炸",
-      "onboard_time": 1694144016,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 270870,
       "num": 270870,
       "word": "薛之谦多来东北好不好",
@@ -11307,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261726,
+      "num": 261726,
+      "word": "主人以为狗狗中毒了",
+      "onboard_time": 1694143777,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261686,
       "num": 261686,
       "word": "美国商务部长乘中国高铁让美媒纠结",
@@ -11337,6 +11393,14 @@
       "onboard_time": 1694137595,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261150,
+      "num": 261150,
+      "word": "檀健次的狗让他颜面尽失",
+      "onboard_time": 1694146478,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260611,
@@ -11795,6 +11859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248755,
+      "num": 248755,
+      "word": "天官赐福动画神武殿场景公开",
+      "onboard_time": 1694146178,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 248480,
       "num": 248480,
       "word": "金球奖候选名单",
@@ -12065,6 +12137,14 @@
       "onboard_time": 1693962696,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241862,
+      "num": 241862,
+      "word": "盛阳妈妈的美貌你一无所知",
+      "onboard_time": 1694146716,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 241723,
@@ -14811,6 +14891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193831,
+      "num": 193831,
+      "word": "那些回不去的年少时光",
+      "onboard_time": 1694146057,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193340,
       "num": 193340,
       "word": "小妞白百何vs姐感白百何",
@@ -15755,14 +15843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180344,
-      "num": 180344,
-      "word": "主人以为狗狗中毒了",
-      "onboard_time": 1694143777,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 180247,
       "num": 201312,
       "word": "给北方朋友一点南方烧烤的震撼",
@@ -15817,6 +15897,14 @@
       "onboard_time": 1693830217,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178954,
+      "num": 178954,
+      "word": "中国的银行AI有多牛",
+      "onboard_time": 1694145998,
+      "rank": 41,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 178895,
@@ -16787,14 +16875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 157665,
-      "num": 157665,
-      "word": "央视揭造谣短视频摆拍流程",
-      "onboard_time": 1694143958,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157656,
       "num": 157656,
       "word": "多家银行降低存量首套住房贷款利率",
@@ -17121,6 +17201,14 @@
       "onboard_time": 1693807894,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148790,
+      "num": 148790,
+      "word": "哇唧唧哇暑假派对",
+      "onboard_time": 1694144799,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148732,
@@ -17585,6 +17673,14 @@
       "onboard_time": 1693631553,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137253,
+      "num": 137253,
+      "word": "怎么老是殷郊在救姬发",
+      "onboard_time": 1694146779,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 137080,
@@ -19592,6 +19688,14 @@
       "word": "父亲接站退役儿子被单手抱起",
       "onboard_time": 1693692856,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25611,
+      "num": 432846,
+      "word": "15岁少年痴迷非遗创作拿了两项大奖",
+      "onboard_time": 1694146538,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
