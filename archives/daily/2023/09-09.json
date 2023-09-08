@@ -1,0 +1,411 @@
+{
+  "startTime": 1694190108788,
+  "endTime": 1694190108788,
+  "band_list": [
+    {
+      "raw_hot": 4444225,
+      "num": 907069,
+      "word": "周杰伦演唱会受伤",
+      "onboard_time": 1694183017,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1030481,
+      "num": 1030481,
+      "word": "阿信演唱会吸氧",
+      "onboard_time": 1694182957,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 786257,
+      "num": 243517,
+      "word": "沈梦辰杜海涛可以一起生活不能一起工作",
+      "onboard_time": 1694168554,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 759126,
+      "num": 298165,
+      "word": "周杰伦幽闭恐惧症",
+      "onboard_time": 1694187463,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 686449,
+      "num": 242991,
+      "word": "长期不换头像的情绪更稳定吗",
+      "onboard_time": 1694184940,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 663798,
+      "num": 663798,
+      "word": "没唱玫瑰少年",
+      "onboard_time": 1694186564,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 653667,
+      "num": 653667,
+      "word": "刘宪华Jessi真的在内娱合体了",
+      "onboard_time": 1694185603,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 513958,
+      "num": 513958,
+      "word": "金泰亨销量违反规定",
+      "onboard_time": 1694185482,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 501392,
+      "num": 239451,
+      "word": "大学生贷款参加就业培训后自缢身亡",
+      "onboard_time": 1694187761,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457965,
+      "num": 236253,
+      "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
+      "onboard_time": 1694184218,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435589,
+      "num": 231274,
+      "word": "李在明已绝食抗议9天",
+      "onboard_time": 1694187279,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427061,
+      "num": 427061,
+      "word": "义乳女团",
+      "onboard_time": 1694163636,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 413539,
+      "num": 413539,
+      "word": "为什么上岸第一剑先斩意中人",
+      "onboard_time": 1694166935,
+      "rank": 7,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 402522,
+      "num": 297621,
+      "word": "云之羽一口气追到大结局",
+      "onboard_time": 1694179595,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 371815,
+      "num": 229047,
+      "word": "广东人是如何做到这么统一的",
+      "onboard_time": 1694187761,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 350577,
+      "num": 295971,
+      "word": "骄阳伴我我哭了我演的",
+      "onboard_time": 1694187404,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 345266,
+      "num": 295711,
+      "word": "不要轻易去外省读大学",
+      "onboard_time": 1694185603,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 333488,
+      "num": 333488,
+      "word": "iPhone15Pro减轻约10%",
+      "onboard_time": 1694184218,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 316625,
+      "num": 227231,
+      "word": "比熬夜更耗气血的其实是玩手机",
+      "onboard_time": 1694178364,
+      "rank": 26,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 313722,
+      "num": 295481,
+      "word": "企业回应把日本食材引进无锡学生餐",
+      "onboard_time": 1694182477,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298391,
+      "num": 298391,
+      "word": "女子照顾植物人丈夫4年终苏醒",
+      "onboard_time": 1694187939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295110,
+      "num": 295110,
+      "word": "乌尔善说封神破30亿会有演唱会",
+      "onboard_time": 1694186440,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275862,
+      "num": 223716,
+      "word": "被寄养一个月的猫咪骂了",
+      "onboard_time": 1694187221,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 246326,
+      "num": 246326,
+      "word": "虞书欣张凌赫卢昱晓聚餐",
+      "onboard_time": 1694179654,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220936,
+      "num": 220936,
+      "word": "德国男篮战胜美国男篮",
+      "onboard_time": 1694184343,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204545,
+      "num": 204545,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1694174912,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 189089,
+      "num": 189089,
+      "word": "敖子逸四杀",
+      "onboard_time": 1694185844,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186807,
+      "num": 186807,
+      "word": "Uzi纪念限定薇恩",
+      "onboard_time": 1694177854,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 179502,
+      "num": 297547,
+      "word": "大熊猫园润当妈妈了",
+      "onboard_time": 1694179176,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174577,
+      "num": 174577,
+      "word": "俞灏明问为什么要笑我",
+      "onboard_time": 1694186325,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166616,
+      "num": 166616,
+      "word": "时代少年团跳小熊舞",
+      "onboard_time": 1694186143,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159980,
+      "num": 159980,
+      "word": "英语四级从424到423",
+      "onboard_time": 1694167593,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 155464,
+      "num": 296988,
+      "word": "8月新增501例猴痘确诊",
+      "onboard_time": 1694164958,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150300,
+      "num": 150300,
+      "word": "刘恋MVP",
+      "onboard_time": 1694180916,
+      "rank": 35,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 134210,
+      "num": 134210,
+      "word": "容祖儿晒其在香港暴雨中开车",
+      "onboard_time": 1694180138,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 127221,
+      "num": 127221,
+      "word": "吃石头小猫的后续",
+      "onboard_time": 1694180558,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "黄明昊FMVP",
+      "onboard_time": 1694183438,
+      "rank": 38,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 126232,
+      "num": 126232,
+      "word": "金繁红玉侍卫",
+      "onboard_time": 1694175514,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124899,
+      "num": 124104,
+      "word": "金靖给张凌赫备注宫子牛",
+      "onboard_time": 1694171495,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124327,
+      "num": 124327,
+      "word": "G社拍的倪妮",
+      "onboard_time": 1694181939,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 122760,
+      "num": 122760,
+      "word": "现在做什么可在5年后受益匪浅",
+      "onboard_time": 1694188298,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 121021,
+      "num": 121021,
+      "word": "爸妈让我保证30岁前不结婚",
+      "onboard_time": 1694173772,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 119856,
+      "num": 119856,
+      "word": "胡夏清唱主题曲",
+      "onboard_time": 1694186623,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 116505,
+      "num": 116505,
+      "word": "李子维是老了不是变野人了",
+      "onboard_time": 1694168495,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 116123,
+      "num": 116123,
+      "word": "不虚此行",
+      "onboard_time": 1694188477,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 113558,
+      "num": 113558,
+      "word": "夜色尚浅是一见钟情",
+      "onboard_time": 1694175153,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 113068,
+      "num": 113068,
+      "word": "朝日集团不再邀请杰尼斯艺人代言",
+      "onboard_time": 1694178513,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103140,
+      "num": 103140,
+      "word": "奥本海默",
+      "onboard_time": 1694188658,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 101281,
+      "num": 296598,
+      "word": "暴雨中最让人安心的橙色",
+      "onboard_time": 1694188358,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10296,
+      "num": 730082,
+      "word": "共建一带一路倡议十周年",
+      "onboard_time": 1694165614,
+      "rank": 2,
+      "category": "国内要闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平祝全国广大教师节日快乐#"
+    }
+  ]
+}
