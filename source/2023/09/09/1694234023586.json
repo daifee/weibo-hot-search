@@ -1,0 +1,410 @@
+{
+  "runTime": 1694234023586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253885,
+        "num": 1253885,
+        "word": "女婴输液后尖叫昏迷成脑萎缩",
+        "onboard_time": 1694225492,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756457,
+        "num": 756457,
+        "word": "纪念毛泽东同志逝世47周年",
+        "onboard_time": 1694230891,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64518,
+        "num": 701290,
+        "word": "杭州亚运会总赛程最新版",
+        "onboard_time": 1694228013,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 696094,
+        "num": 696094,
+        "word": "折断兵马俑手指的美国男子向中国道歉",
+        "onboard_time": 1694228251,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651633,
+        "num": 651633,
+        "word": "为什么摘掉眼镜后听力变差了",
+        "onboard_time": 1694231311,
+        "rank": 4,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1273393,
+        "num": 637280,
+        "word": "保洁扔限量鞋被索赔后自杀身亡",
+        "onboard_time": 1694222913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579565,
+        "num": 579565,
+        "word": "李媛回复李嘉鑫",
+        "onboard_time": 1694227771,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522347,
+        "num": 522347,
+        "word": "周五正式确认为蔡国庆",
+        "onboard_time": 1694219191,
+        "rank": 7,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 480586,
+        "num": 480586,
+        "word": "女子误将吐槽语音发家长群太社死",
+        "onboard_time": 1694229032,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412783,
+        "num": 412783,
+        "word": "宫二这个看垃圾的眼神",
+        "onboard_time": 1694228371,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1162989,
+        "num": 408166,
+        "word": "李在明已绝食抗议9天",
+        "onboard_time": 1694187279,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 833758,
+        "num": 403975,
+        "word": "白鹿原白灵饰演者近照",
+        "onboard_time": 1694232633,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280222,
+        "num": 393159,
+        "word": "00后交警上班了",
+        "onboard_time": 1694224293,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384698,
+        "num": 384698,
+        "word": "美政府首度回应华为技术突破",
+        "onboard_time": 1694226332,
+        "rank": 13,
+        "category": "国外要闻,科技"
+      },
+      {
+        "raw_hot": 61107,
+        "num": 384495,
+        "word": "裸眼3D沉浸式体验智媒科技",
+        "onboard_time": 1694233233,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384406,
+        "num": 384406,
+        "word": "为什么方便面不做成这样",
+        "onboard_time": 1694231132,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341507,
+        "num": 341507,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1694231072,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327103,
+        "num": 327103,
+        "word": "宫子羽和金繁青梅竹马",
+        "onboard_time": 1694232395,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109501,
+        "num": 321589,
+        "word": "搞线下还得看三星",
+        "onboard_time": 1694232214,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 320167,
+        "num": 320167,
+        "word": "李咏女儿法图麦时装周首秀",
+        "onboard_time": 1694227353,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 743423,
+        "num": 311807,
+        "word": "你们周六休息的简直要亏死了",
+        "onboard_time": 1694231732,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523348,
+        "num": 305104,
+        "word": "古剑奇谭后乔振宇又演反派了",
+        "onboard_time": 1694230651,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333832,
+        "num": 300027,
+        "word": "洗完澡掉头发结果被爸爸骂了",
+        "onboard_time": 1694233172,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289973,
+        "num": 289973,
+        "word": "中级会计",
+        "onboard_time": 1694226274,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272142,
+        "num": 272142,
+        "word": "戚薇郑秀晶秀场同框",
+        "onboard_time": 1694228133,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256507,
+        "num": 256507,
+        "word": "刘宇宁西出玉门插曲狂风袭来",
+        "onboard_time": 1694232997,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252660,
+        "num": 252660,
+        "word": "肖战新剧这火憋不住了",
+        "onboard_time": 1694221652,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246856,
+        "num": 246856,
+        "word": "超模谷爱凌回新西兰训练了",
+        "onboard_time": 1694232034,
+        "rank": 27,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 236892,
+        "num": 236892,
+        "word": "唐嫣念无双路透",
+        "onboard_time": 1694233294,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231954,
+        "num": 231954,
+        "word": "女儿一直在说对不起",
+        "onboard_time": 1694228013,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231384,
+        "num": 231384,
+        "word": "第一次见地铁的尽头",
+        "onboard_time": 1694229451,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224794,
+        "num": 224794,
+        "word": "偶遇SEVENTEEN罗马录花样青春",
+        "onboard_time": 1694228554,
+        "rank": 31,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 215610,
+        "num": 215610,
+        "word": "教师妻子听说丈夫给学生捐骨髓当场同意",
+        "onboard_time": 1694221893,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204511,
+        "num": 204511,
+        "word": "站姐拍的曾黎",
+        "onboard_time": 1694229331,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198095,
+        "num": 198095,
+        "word": "原神",
+        "onboard_time": 1694229394,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188101,
+        "num": 188101,
+        "word": "西出玉门今日进关",
+        "onboard_time": 1694232932,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179841,
+        "num": 179841,
+        "word": "张云龙狐妖竹业篇白发造型",
+        "onboard_time": 1694229270,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69937,
+        "num": 179621,
+        "word": "王一博香菜绿席卷武汉",
+        "onboard_time": 1694232997,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179543,
+        "num": 179543,
+        "word": "梅德韦杰夫第五次进大满贯决赛",
+        "onboard_time": 1694228732,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173936,
+        "num": 173936,
+        "word": "时光音乐会老友记首期歌单",
+        "onboard_time": 1694232693,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170272,
+        "num": 170272,
+        "word": "摩洛哥强震遇难人数升至296人",
+        "onboard_time": 1694227172,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147372,
+        "num": 147372,
+        "word": "公职人员理发不满意举报店家偷税漏税",
+        "onboard_time": 1694214201,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 144846,
+        "word": "长期不换头像的情绪更稳定吗",
+        "onboard_time": 1694184940,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144103,
+        "num": 144103,
+        "word": "冯宝宝一秒开大",
+        "onboard_time": 1694230414,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142002,
+        "num": 142002,
+        "word": "内马尔加冕巴西队史射手王",
+        "onboard_time": 1694228970,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140363,
+        "num": 140363,
+        "word": "广东香港世纪暴雨台风只是表层原因",
+        "onboard_time": 1694222071,
+        "rank": 45,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 138357,
+        "num": 138357,
+        "word": "吴倩新剧演复仇女主",
+        "onboard_time": 1694225794,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135310,
+        "num": 135310,
+        "word": "华为MateX5测速",
+        "onboard_time": 1694228612,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133287,
+        "num": 133287,
+        "word": "他抱着浅浅像抱柔弱的小猫",
+        "onboard_time": 1694224954,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128390,
+        "num": 128390,
+        "word": "周杰伦演唱会受伤",
+        "onboard_time": 1694183017,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记最深的牵挂#"
+    }
+  }
+}
