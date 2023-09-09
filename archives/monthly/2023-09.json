@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694252026886,
+  "endTime": 1694254583373,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -529,6 +529,14 @@
       "onboard_time": 1694047118,
       "rank": 10,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 2302001,
+      "num": 360358,
+      "word": "高晓松 向太",
+      "onboard_time": 1694252975,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2291601,
@@ -1380,7 +1388,7 @@
     },
     {
       "raw_hot": 1562376,
-      "num": 654996,
+      "num": 799941,
       "word": "Angelababy赫敏",
       "onboard_time": 1694246137,
       "rank": 3,
@@ -1632,6 +1640,14 @@
       "word": "张碧晨一周六天都在普拉提",
       "onboard_time": 1693981116,
       "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1406783,
+      "num": 1406783,
+      "word": "虞书欣 THE9演唱你会来吗",
+      "onboard_time": 1694251175,
+      "rank": 21,
       "category": "音乐"
     },
     {
@@ -6083,6 +6099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 563093,
+      "num": 858857,
+      "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+      "onboard_time": 1694252495,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562924,
       "num": 562924,
       "word": "角徵浅 狐狸精",
@@ -6385,14 +6409,6 @@
       "onboard_time": 1694076337,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 545559,
-      "num": 331109,
-      "word": "虞书欣 THE9演唱你会来吗",
-      "onboard_time": 1694251175,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 545245,
@@ -6713,6 +6729,14 @@
       "onboard_time": 1693979254,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 528909,
+      "num": 337120,
+      "word": "虞书欣没忍住喊了张凌赫牛牛",
+      "onboard_time": 1694253273,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 527755,
@@ -8411,6 +8435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434849,
+      "num": 283969,
+      "word": "女子身藏15条蛇4条蜈蚣1条蜥蜴入境",
+      "onboard_time": 1694252917,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434747,
       "num": 297154,
       "word": "成毅傅云深",
@@ -8436,7 +8468,7 @@
     },
     {
       "raw_hot": 434085,
-      "num": 218731,
+      "num": 283776,
       "word": "花了16w装出来的家",
       "onboard_time": 1694250155,
       "rank": 30,
@@ -10299,6 +10331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 353235,
+      "num": 676347,
+      "word": "4岁女孩教师节手提五花肉送老师",
+      "onboard_time": 1694253035,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352902,
       "num": 352902,
       "word": "台风天气福州一消防车坠河",
@@ -10369,6 +10409,14 @@
       "onboard_time": 1694187404,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350495,
+      "num": 350495,
+      "word": "摩洛哥地震遇难人数升至820人",
+      "onboard_time": 1694253995,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350176,
@@ -12491,6 +12539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284305,
+      "num": 284305,
+      "word": "王曼昱亚锦赛夺冠",
+      "onboard_time": 1694252313,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284246,
       "num": 284246,
       "word": "YG新女团或将亮相BLACKPINK演唱会",
@@ -14169,6 +14225,14 @@
       "onboard_time": 1693728098,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242938,
+      "num": 443569,
+      "word": "男老师收到花边走边拍开心炫耀",
+      "onboard_time": 1694252855,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242756,
@@ -16979,6 +17043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197410,
+      "num": 197410,
+      "word": "王曼昱3比2孙颖莎",
+      "onboard_time": 1694252253,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197401,
       "num": 197401,
       "word": "范丞丞吃饭是真等不了一点",
@@ -17867,6 +17939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188537,
+      "num": 188537,
+      "word": "彭昱畅的腿筛糠腿",
+      "onboard_time": 1694251956,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188393,
       "num": 517085,
       "word": "周扬青获雅诗兰黛集团投资",
@@ -18113,6 +18193,14 @@
       "onboard_time": 1693962937,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185773,
+      "num": 185773,
+      "word": "推动东北全面振兴",
+      "onboard_time": 1694251593,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 185725,
@@ -20899,14 +20987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133387,
-      "num": 133387,
-      "word": "推动东北全面振兴",
-      "onboard_time": 1694251593,
-      "rank": 42,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 133061,
       "num": 133061,
       "word": "新式神渺念萤草",
@@ -21561,14 +21641,6 @@
       "onboard_time": 1693760963,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109053,
-      "num": 109053,
-      "word": "彭昱畅的腿筛糠腿",
-      "onboard_time": 1694251956,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 108415,
@@ -22275,6 +22347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75607,
+      "num": 808984,
+      "word": "一定要会的急救知识合集",
+      "onboard_time": 1694249735,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75155,
       "num": 408237,
       "word": "90后资阳小伙剪出百所高校通知书",
@@ -22336,14 +22416,6 @@
       "word": "雅万高铁开通运行",
       "onboard_time": 1694072255,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69970,
-      "num": 518816,
-      "word": "一定要会的急救知识合集",
-      "onboard_time": 1694249735,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -22721,6 +22793,14 @@
       "onboard_time": 1693851317,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44956,
+      "num": 339261,
+      "word": "男子买菜掉了700元他们接力找人",
+      "onboard_time": 1694253695,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44866,
@@ -23481,6 +23561,14 @@
       "onboard_time": 1693773853,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16045,
+      "num": 160134,
+      "word": "白象董事长从大运会跑到亚运会",
+      "onboard_time": 1694253635,
+      "rank": 39,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 14795,
