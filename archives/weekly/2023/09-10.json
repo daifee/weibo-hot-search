@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694298821302,
+  "endTime": 1694301306321,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768512,
+      "num": 159808,
+      "word": "断亲现象为何如此流行",
+      "onboard_time": 1694263958,
+      "rank": 47,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 738471,
       "num": 738471,
       "word": "张杰觉得自己自恋时期是个疯子",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 590293,
-      "num": 246875,
+      "num": 292144,
       "word": "任正非2019年称两三年后可再看华为在不在",
       "onboard_time": 1694277090,
       "rank": 43,
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356290,
-      "num": 136454,
-      "word": "断亲现象为何如此流行",
-      "onboard_time": 1694263958,
-      "rank": 47,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 350819,
       "num": 333792,
       "word": "微信三件套可以看出很多东西",
@@ -217,6 +217,14 @@
       "onboard_time": 1694273916,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 267641,
+      "num": 267641,
+      "word": "教师节快乐",
+      "onboard_time": 1694300781,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 262010,
@@ -347,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167174,
+      "num": 153231,
+      "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+      "onboard_time": 1694234913,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164430,
       "num": 164430,
       "word": "肖战田雨20集终于见面了",
@@ -387,14 +403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149491,
-      "num": 149491,
-      "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
-      "onboard_time": 1694234913,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145863,
       "num": 145863,
       "word": "学生不订奶要开县级医院以上诊断证明",
@@ -427,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108802,
+      "num": 108802,
+      "word": "国足43年首次赢不了马来西亚",
+      "onboard_time": 1694300781,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102482,
       "num": 460570,
       "word": "张桂梅不甘女孩们重复没选择的一生",
@@ -449,6 +465,14 @@
       "onboard_time": 1694267138,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99145,
+      "num": 99145,
+      "word": "女子手指肿胀21天开刀发现仙人掌刺",
+      "onboard_time": 1694300781,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94231,
@@ -491,6 +515,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67332,
+      "num": 67332,
+      "word": "试吃最近超火的红魔虾",
+      "onboard_time": 1694288655,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 54585,
+      "num": 59795,
+      "word": "于文文唱体面可以笑着疼了",
+      "onboard_time": 1694292974,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53072,
+      "num": 59793,
+      "word": "封神质子团将在第三部回归",
+      "onboard_time": 1694297536,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52317,
       "num": 52317,
       "word": "云姑娘 你尊嘟爱我吗",
@@ -507,12 +555,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 49164,
-      "num": 49164,
-      "word": "于文文唱体面可以笑着疼了",
-      "onboard_time": 1694292974,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 50545,
+      "num": 59793,
+      "word": "原来假期的时候都是天鹅在喂小鱼",
+      "onboard_time": 1694300418,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 47223,
@@ -531,12 +579,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 40097,
-      "num": 47601,
-      "word": "试吃最近超火的红魔虾",
-      "onboard_time": 1694288655,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 46664,
+      "num": 59792,
+      "word": "其实健康活着比什么都重要",
+      "onboard_time": 1694300781,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 44825,
+      "num": 59789,
+      "word": "能把猫训出来是怎么做到的",
+      "onboard_time": 1694288593,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 38381,
+      "num": 59789,
+      "word": "云为衫雾姬夫人联手设计宫尚角",
+      "onboard_time": 1694264377,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 32954,
@@ -547,28 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 32126,
-      "num": 47571,
-      "word": "封神质子团将在第三部回归",
-      "onboard_time": 1694297536,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 30050,
-      "num": 47530,
-      "word": "云为衫雾姬夫人联手设计宫尚角",
-      "onboard_time": 1694264377,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 27258,
-      "num": 47551,
-      "word": "能把猫训出来是怎么做到的",
-      "onboard_time": 1694288593,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 31477,
+      "num": 303046,
+      "word": "当亚运会遇上中华文化",
+      "onboard_time": 1694265275,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 24147,
@@ -593,14 +641,6 @@
       "onboard_time": 1694295554,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8519,
-      "num": 211463,
-      "word": "当亚运会遇上中华文化",
-      "onboard_time": 1694265275,
-      "rank": 2,
-      "category": "社会新闻,体育"
     }
   ],
   "hotgov_list": [
