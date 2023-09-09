@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694297660191,
+  "endTime": 1694298821302,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356290,
+      "num": 136454,
+      "word": "断亲现象为何如此流行",
+      "onboard_time": 1694263958,
+      "rank": 47,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 350819,
       "num": 333792,
       "word": "微信三件套可以看出很多东西",
@@ -249,14 +257,6 @@
       "onboard_time": 1694260115,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213727,
-      "num": 136454,
-      "word": "断亲现象为何如此流行",
-      "onboard_time": 1694263958,
-      "rank": 47,
-      "category": "社会议题"
     },
     {
       "raw_hot": 209277,
@@ -507,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 49164,
+      "num": 49164,
+      "word": "于文文唱体面可以笑着疼了",
+      "onboard_time": 1694292974,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47223,
       "num": 880265,
       "word": "夜西湖点燃亚运之夜",
@@ -523,40 +531,40 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 41342,
-      "num": 41342,
-      "word": "于文文唱体面可以笑着疼了",
-      "onboard_time": 1694292974,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 31247,
-      "num": 40472,
+      "raw_hot": 40097,
+      "num": 47601,
       "word": "试吃最近超火的红魔虾",
       "onboard_time": 1694288655,
       "rank": 35,
       "category": "美食"
     },
     {
-      "raw_hot": 30050,
-      "num": 30050,
-      "word": "云为衫雾姬夫人联手设计宫尚角",
-      "onboard_time": 1694264377,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28532,
-      "num": 40457,
+      "raw_hot": 32954,
+      "num": 47578,
       "word": "这人是店长接班人吧",
       "onboard_time": 1694290453,
       "rank": 49,
       "category": "情感"
     },
     {
+      "raw_hot": 32126,
+      "num": 47571,
+      "word": "封神质子团将在第三部回归",
+      "onboard_time": 1694297536,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 30050,
+      "num": 47530,
+      "word": "云为衫雾姬夫人联手设计宫尚角",
+      "onboard_time": 1694264377,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27258,
-      "num": 40388,
+      "num": 47551,
       "word": "能把猫训出来是怎么做到的",
       "onboard_time": 1694288593,
       "rank": 42,
@@ -587,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18121,
-      "num": 40371,
-      "word": "封神质子团将在第三部回归",
-      "onboard_time": 1694297536,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 8519,
+      "num": 211463,
+      "word": "当亚运会遇上中华文化",
+      "onboard_time": 1694265275,
+      "rank": 2,
+      "category": "社会新闻,体育"
     }
   ],
   "hotgov_list": [
