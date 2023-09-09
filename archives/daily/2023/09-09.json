@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694262517356,
+  "endTime": 1694263486671,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1513306,
+      "num": 1513306,
+      "word": "三年租房花费了十五万",
+      "onboard_time": 1694257774,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1495812,
       "num": 1495812,
       "word": "男子想和聋哑女友结婚领证被拒",
@@ -121,14 +129,6 @@
       "onboard_time": 1694246495,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1409802,
-      "num": 1409802,
-      "word": "三年租房花费了十五万",
-      "onboard_time": 1694257774,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 1406783,
@@ -177,6 +177,14 @@
       "onboard_time": 1694232633,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1150878,
+      "num": 1150878,
+      "word": "你还在买余额宝吗",
+      "onboard_time": 1694259634,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1030481,
@@ -273,14 +281,6 @@
       "onboard_time": 1694198655,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 797473,
-      "num": 797473,
-      "word": "你还在买余额宝吗",
-      "onboard_time": 1694259634,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 792528,
@@ -435,20 +435,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 639200,
+      "num": 339524,
+      "word": "女子胸前腰部绑藏15条活体蛇入境",
+      "onboard_time": 1694260115,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633855,
       "num": 633855,
       "word": "美政府首度回应华为技术突破",
       "onboard_time": 1694226332,
       "rank": 17,
       "category": "国外要闻,科技"
-    },
-    {
-      "raw_hot": 631372,
-      "num": 339524,
-      "word": "女子胸前腰部绑藏15条活体蛇入境",
-      "onboard_time": 1694260115,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628737,
@@ -473,6 +473,14 @@
       "onboard_time": 1694256874,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 600243,
+      "num": 337357,
+      "word": "胡锡进 四川工商学院的声明是一种悲哀",
+      "onboard_time": 1694261615,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590273,
@@ -529,6 +537,14 @@
       "onboard_time": 1694219971,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552653,
+      "num": 552653,
+      "word": "国足开场10分钟丢球",
+      "onboard_time": 1694261374,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 529886,
@@ -697,14 +713,6 @@
       "onboard_time": 1694228371,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 473712,
-      "num": 473712,
-      "word": "国足开场10分钟丢球",
-      "onboard_time": 1694261374,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 467655,
@@ -883,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 363852,
+      "num": 330313,
+      "word": "一家店铺结婚整条街都休息了",
+      "onboard_time": 1694259035,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361319,
       "num": 262770,
       "word": "刚出生4天的柴犬宝宝",
@@ -1027,14 +1043,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 328824,
-      "num": 328824,
-      "word": "一家店铺结婚整条街都休息了",
-      "onboard_time": 1694259035,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 328457,
       "num": 328457,
       "word": "乌尔善说封神破30亿会有演唱会",
@@ -1171,14 +1179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297309,
-      "num": 206520,
-      "word": "胡锡进 四川工商学院的声明是一种悲哀",
-      "onboard_time": 1694261615,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294167,
       "num": 294167,
       "word": "美网",
@@ -1265,6 +1265,14 @@
       "onboard_time": 1694228554,
       "rank": 29,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 272382,
+      "num": 272382,
+      "word": "向涵之新剧00后向上管理",
+      "onboard_time": 1694262276,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 272121,
@@ -1435,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228880,
+      "num": 228880,
+      "word": "姜贞羽我的未来式舞台",
+      "onboard_time": 1694262216,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225488,
       "num": 225488,
       "word": "ZB1中国首封",
@@ -1523,14 +1539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208468,
-      "num": 208468,
-      "word": "姜贞羽我的未来式舞台",
-      "onboard_time": 1694262216,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207274,
       "num": 203596,
       "word": "樊振东林高远男双晋级决赛",
@@ -1579,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202768,
+      "num": 202768,
+      "word": "国足半场1比1马来西亚",
+      "onboard_time": 1694263058,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200640,
       "num": 200640,
       "word": "大鹏开机前增肥20斤拍摄中减肥30斤",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1694240136,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198874,
+      "num": 198874,
+      "word": "詹姆斯暗示明年或将参加奥运会",
+      "onboard_time": 1694258912,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 198415,
@@ -1643,20 +1667,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196599,
-      "num": 196599,
-      "word": "詹姆斯暗示明年或将参加奥运会",
-      "onboard_time": 1694258912,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194924,
       "num": 194924,
       "word": "杨紫琼提名国际奥委会委员",
       "onboard_time": 1694244215,
       "rank": 30,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 194649,
+      "num": 194649,
+      "word": "薛之谦成都演唱会",
+      "onboard_time": 1694263233,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 194213,
@@ -1840,14 +1864,6 @@
       "word": "宫尚角宫远徵方言局",
       "onboard_time": 1694221292,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 177102,
-      "num": 177102,
-      "word": "向涵之新剧00后向上管理",
-      "onboard_time": 1694262276,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -2219,6 +2235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126477,
+      "num": 126477,
+      "word": "林良铭破门",
+      "onboard_time": 1694263233,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "黄明昊FMVP",
@@ -2275,6 +2299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122306,
+      "num": 122306,
+      "word": "成年后的我宴请了小时候的自己",
+      "onboard_time": 1694262695,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121351,
       "num": 121351,
       "word": "妈妈听到走失儿子在派出所瞬间放心",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1694173772,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120577,
+      "num": 120577,
+      "word": "霍楠约战徐静雨",
+      "onboard_time": 1694262875,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120466,
@@ -2320,6 +2360,14 @@
       "word": "9岁女孩被40岁男网友隔空猥亵",
       "onboard_time": 1694249614,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118252,
+      "num": 118252,
+      "word": "河南一火车站上演7分钟生死营救",
+      "onboard_time": 1694261855,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2449,6 +2497,14 @@
       "onboard_time": 1694259155,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100153,
+      "num": 115905,
+      "word": "盛阳被妈妈血脉压制",
+      "onboard_time": 1694262814,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 98553,

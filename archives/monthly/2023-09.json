@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694262517356,
+  "endTime": 1694263486671,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -1483,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1513306,
+      "num": 1513306,
+      "word": "三年租房花费了十五万",
+      "onboard_time": 1694257774,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1512220,
       "num": 526549,
       "word": "孙阳直播哽咽",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1694060678,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1409802,
-      "num": 1409802,
-      "word": "三年租房花费了十五万",
-      "onboard_time": 1694257774,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 1409029,
@@ -2145,6 +2145,14 @@
       "onboard_time": 1693498533,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1150878,
+      "num": 1150878,
+      "word": "你还在买余额宝吗",
+      "onboard_time": 1694259634,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1148074,
@@ -3699,14 +3707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 797473,
-      "num": 797473,
-      "word": "你还在买余额宝吗",
-      "onboard_time": 1694259634,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 796473,
       "num": 420752,
       "word": "外国人有多喜欢中国的手机壳",
@@ -5203,6 +5203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639200,
+      "num": 339524,
+      "word": "女子胸前腰部绑藏15条活体蛇入境",
+      "onboard_time": 1694260115,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638645,
       "num": 638645,
       "word": "罗美娟你配过好日子",
@@ -5265,14 +5273,6 @@
       "onboard_time": 1693880012,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 631372,
-      "num": 339524,
-      "word": "女子胸前腰部绑藏15条活体蛇入境",
-      "onboard_time": 1694260115,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628968,
@@ -5737,6 +5737,14 @@
       "onboard_time": 1693745262,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 600243,
+      "num": 337357,
+      "word": "胡锡进 四川工商学院的声明是一种悲哀",
+      "onboard_time": 1694261615,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600002,
@@ -6385,6 +6393,14 @@
       "onboard_time": 1693818936,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552653,
+      "num": 552653,
+      "word": "国足开场10分钟丢球",
+      "onboard_time": 1694261374,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 552626,
@@ -7817,14 +7833,6 @@
       "onboard_time": 1693549475,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473712,
-      "num": 473712,
-      "word": "国足开场10分钟丢球",
-      "onboard_time": 1694261374,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 472901,
@@ -10227,6 +10235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363852,
+      "num": 330313,
+      "word": "一家店铺结婚整条街都休息了",
+      "onboard_time": 1694259035,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362847,
       "num": 362847,
       "word": "不要轻易去外省读大学",
@@ -11089,14 +11105,6 @@
       "onboard_time": 1693901977,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328824,
-      "num": 328824,
-      "word": "一家店铺结婚整条街都休息了",
-      "onboard_time": 1694259035,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 328681,
@@ -12251,14 +12259,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 297309,
-      "num": 206520,
-      "word": "胡锡进 四川工商学院的声明是一种悲哀",
-      "onboard_time": 1694261615,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296911,
       "num": 296911,
       "word": "原神",
@@ -13137,6 +13137,14 @@
       "onboard_time": 1694228554,
       "rank": 29,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 272382,
+      "num": 272382,
+      "word": "向涵之新剧00后向上管理",
+      "onboard_time": 1694262276,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 272215,
@@ -15147,6 +15155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228880,
+      "num": 228880,
+      "word": "姜贞羽我的未来式舞台",
+      "onboard_time": 1694262216,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228823,
       "num": 228823,
       "word": "成毅的白衬衫偷偷想开了",
@@ -16163,14 +16179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208468,
-      "num": 208468,
-      "word": "姜贞羽我的未来式舞台",
-      "onboard_time": 1694262216,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208435,
       "num": 208435,
       "word": "再见爱人3预告片",
@@ -16747,6 +16755,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 202768,
+      "num": 202768,
+      "word": "国足半场1比1马来西亚",
+      "onboard_time": 1694263058,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202714,
       "num": 202714,
       "word": "云之羽爱奇艺热度值破7000",
@@ -17099,6 +17115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198874,
+      "num": 198874,
+      "word": "詹姆斯暗示明年或将参加奥运会",
+      "onboard_time": 1694258912,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198742,
       "num": 264528,
       "word": "寿司店的酱油包被我当U盘了",
@@ -17363,14 +17387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196599,
-      "num": 196599,
-      "word": "詹姆斯暗示明年或将参加奥运会",
-      "onboard_time": 1694258912,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196194,
       "num": 196194,
       "word": "开学季是e人社交局",
@@ -17568,6 +17584,14 @@
       "word": "BOYNEXTDOOR回归新歌",
       "onboard_time": 1693819778,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 194649,
+      "num": 194649,
+      "word": "薛之谦成都演唱会",
+      "onboard_time": 1694263233,
+      "rank": 33,
       "category": "音乐"
     },
     {
@@ -18944,14 +18968,6 @@
       "word": "宫尚角宫远徵方言局",
       "onboard_time": 1694221292,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 177102,
-      "num": 177102,
-      "word": "向涵之新剧00后向上管理",
-      "onboard_time": 1694262276,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -21467,6 +21483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126477,
+      "num": 126477,
+      "word": "林良铭破门",
+      "onboard_time": 1694263233,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126072,
       "num": 126072,
       "word": "小夭 猛兽终会破笼",
@@ -21587,6 +21611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122306,
+      "num": 122306,
+      "word": "成年后的我宴请了小时候的自己",
+      "onboard_time": 1694262695,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121953,
       "num": 386219,
       "word": "买车听开车的还是坐车的",
@@ -21617,6 +21649,14 @@
       "onboard_time": 1694066435,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 120577,
+      "num": 120577,
+      "word": "霍楠约战徐静雨",
+      "onboard_time": 1694262875,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120466,
@@ -21705,6 +21745,14 @@
       "onboard_time": 1693998814,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118252,
+      "num": 118252,
+      "word": "河南一火车站上演7分钟生死营救",
+      "onboard_time": 1694261855,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118102,
@@ -22105,6 +22153,14 @@
       "onboard_time": 1693916502,
       "rank": 2,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 100153,
+      "num": 115905,
+      "word": "盛阳被妈妈血脉压制",
+      "onboard_time": 1694262814,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 99836,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694263486671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1513306,
+        "num": 1513306,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1150878,
+        "num": 1150878,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 1,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 51983,
+        "num": 1143614,
+        "word": "一定要会的急救知识合集",
+        "onboard_time": 1694249735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140734,
+        "num": 1140734,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632465,
+        "num": 632465,
+        "word": "管理余额宝10多年的基金经理离职了",
+        "onboard_time": 1694255374,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 552653,
+        "num": 552653,
+        "word": "国足开场10分钟丢球",
+        "onboard_time": 1694261374,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523938,
+        "num": 523938,
+        "word": "陶喆 melody",
+        "onboard_time": 1694255253,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 456580,
+        "num": 456580,
+        "word": "中级经济法",
+        "onboard_time": 1694259936,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352885,
+        "num": 352885,
+        "word": "虞书欣没忍住喊了张凌赫牛牛",
+        "onboard_time": 1694253273,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350518,
+        "num": 350518,
+        "word": "蔡文静劝女孩别被偶像剧骗了",
+        "onboard_time": 1694256573,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2593453,
+        "num": 349099,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1184352,
+        "num": 347376,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250378,
+        "num": 344092,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183388,
+        "num": 342583,
+        "word": "荷兰光刻机巨头说我们太自以为是了",
+        "onboard_time": 1694241215,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153789,
+        "num": 339397,
+        "word": "摩洛哥地震遇难人数升至820人",
+        "onboard_time": 1694253995,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600243,
+        "num": 337357,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441107,
+        "num": 334992,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 396876,
+        "num": 333520,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 363852,
+        "num": 330313,
+        "word": "一家店铺结婚整条街都休息了",
+        "onboard_time": 1694259035,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361269,
+        "num": 328046,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639200,
+        "num": 325506,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324341,
+        "num": 324341,
+        "word": "虞书欣张凌赫杀敌1000自损1000",
+        "onboard_time": 1694259995,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316684,
+        "num": 316684,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298356,
+        "num": 298356,
+        "word": "安崎淘汰",
+        "onboard_time": 1694260959,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295993,
+        "num": 295993,
+        "word": "泰国BTS轻轨可以微信支付了",
+        "onboard_time": 1694259216,
+        "rank": 24,
+        "category": "旅游,科技"
+      },
+      {
+        "raw_hot": 272382,
+        "num": 272382,
+        "word": "向涵之新剧00后向上管理",
+        "onboard_time": 1694262276,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228880,
+        "num": 228880,
+        "word": "姜贞羽我的未来式舞台",
+        "onboard_time": 1694262216,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227240,
+        "num": 227240,
+        "word": "肖战片场被白百何过肩摔",
+        "onboard_time": 1694256874,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225943,
+        "num": 225943,
+        "word": "国足vs马来西亚",
+        "onboard_time": 1694257294,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213190,
+        "num": 213190,
+        "word": "成毅西装金丝眼镜半永久",
+        "onboard_time": 1694260233,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211920,
+        "num": 211920,
+        "word": "周也只有一口牙是白的",
+        "onboard_time": 1694261016,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202768,
+        "num": 202768,
+        "word": "国足半场1比1马来西亚",
+        "onboard_time": 1694263058,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198874,
+        "num": 198874,
+        "word": "詹姆斯暗示明年或将参加奥运会",
+        "onboard_time": 1694258912,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194649,
+        "num": 194649,
+        "word": "薛之谦成都演唱会",
+        "onboard_time": 1694263233,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190833,
+        "num": 190833,
+        "word": "花了16w装出来的家",
+        "onboard_time": 1694250155,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177356,
+        "num": 177356,
+        "word": "4岁女孩教师节手提五花肉送老师",
+        "onboard_time": 1694253035,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172912,
+        "num": 172912,
+        "word": "舞台2023三公淘汰赛",
+        "onboard_time": 1694261316,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170439,
+        "num": 170439,
+        "word": "我都拿好碗准备舀一碗了结果喂猪了",
+        "onboard_time": 1694259816,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164446,
+        "num": 164446,
+        "word": "你好星期六",
+        "onboard_time": 1694247756,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160507,
+        "num": 160507,
+        "word": "西出玉门",
+        "onboard_time": 1694256276,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154711,
+        "num": 154711,
+        "word": "Angelababy赫敏",
+        "onboard_time": 1694246137,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130136,
+        "num": 130136,
+        "word": "戴佩妮Ella张杰邓紫棋王源于文文合唱",
+        "onboard_time": 1694261374,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128504,
+        "num": 128504,
+        "word": "流浪猫的嫁妆",
+        "onboard_time": 1694255674,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126477,
+        "num": 126477,
+        "word": "林良铭破门",
+        "onboard_time": 1694263233,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122306,
+        "num": 122306,
+        "word": "成年后的我宴请了小时候的自己",
+        "onboard_time": 1694262695,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120577,
+        "num": 120577,
+        "word": "霍楠约战徐静雨",
+        "onboard_time": 1694262875,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118252,
+        "num": 118252,
+        "word": "河南一火车站上演7分钟生死营救",
+        "onboard_time": 1694261855,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115927,
+        "num": 115927,
+        "word": "傅首尔 还是活在等妈妈来找的柜子里",
+        "onboard_time": 1694242775,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104494,
+        "num": 115911,
+        "word": "国足首发",
+        "onboard_time": 1694257235,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100153,
+        "num": 115905,
+        "word": "盛阳被妈妈血脉压制",
+        "onboard_time": 1694262814,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创黑龙江高质量发展新局面#"
+    }
+  }
+}
