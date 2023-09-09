@@ -1,0 +1,410 @@
+{
+  "runTime": 1694250877582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 903077,
+        "num": 903077,
+        "word": "男子想和聋哑女友结婚领证被拒",
+        "onboard_time": 1694241512,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516324,
+        "num": 516324,
+        "word": "透明版iPhone",
+        "onboard_time": 1694244094,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 56641,
+        "num": 511150,
+        "word": "一定要会的急救知识合集",
+        "onboard_time": 1694249735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398393,
+        "num": 509603,
+        "word": "Angelababy赫敏",
+        "onboard_time": 1694246137,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751670,
+        "num": 508571,
+        "word": "听说耳洞不堵会漏财",
+        "onboard_time": 1694247697,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506186,
+        "num": 506186,
+        "word": "周琦 手术",
+        "onboard_time": 1694248115,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501565,
+        "num": 501565,
+        "word": "中考分流40%的孩子去哪了",
+        "onboard_time": 1694237676,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478734,
+        "num": 478734,
+        "word": "荷兰光刻机巨头说我们太自以为是了",
+        "onboard_time": 1694241215,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437628,
+        "num": 437628,
+        "word": "恋综都看不见这么多张嘴在一起",
+        "onboard_time": 1694248357,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392877,
+        "num": 392877,
+        "word": "刘宪华在马伯骞旁边都显得内向了",
+        "onboard_time": 1694247515,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1453846,
+        "num": 390093,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996842,
+        "num": 382281,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 310035,
+        "num": 374968,
+        "word": "樊振东林高远3比2战胜马龙王楚钦",
+        "onboard_time": 1694249017,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193709,
+        "num": 364581,
+        "word": "你会选择实习生窗口吗",
+        "onboard_time": 1694241815,
+        "rank": 13,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 18894,
+        "num": 358959,
+        "word": "为救人5旬辅警仍选择奋不顾身",
+        "onboard_time": 1694250095,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991563,
+        "num": 354217,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 417039,
+        "num": 344645,
+        "word": "真的很像宋慧乔和韩素希的女儿",
+        "onboard_time": 1694235333,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407117,
+        "num": 340282,
+        "word": "韩国一家非常不错的烤肉店",
+        "onboard_time": 1694248296,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333154,
+        "num": 333154,
+        "word": "仅有14人住的中国海岛",
+        "onboard_time": 1694238335,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 322825,
+        "num": 322825,
+        "word": "云之羽直播",
+        "onboard_time": 1694247816,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 676983,
+        "num": 319877,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313736,
+        "num": 313736,
+        "word": "很喜欢去有风的地方这段表白",
+        "onboard_time": 1694250214,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309963,
+        "num": 309963,
+        "word": "费翔李冰冰郑秀晶 中世纪贵族即视感",
+        "onboard_time": 1694240254,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293614,
+        "num": 293614,
+        "word": "傅首尔 还是活在等妈妈来找的柜子里",
+        "onboard_time": 1694242775,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243463,
+        "num": 243463,
+        "word": "13岁女孩身高超170被确诊天才病",
+        "onboard_time": 1694245473,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243424,
+        "num": 243424,
+        "word": "你好星期六",
+        "onboard_time": 1694247756,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243189,
+        "num": 243189,
+        "word": "花66万买了套240平的梦中情房",
+        "onboard_time": 1694234613,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242080,
+        "num": 242080,
+        "word": "中级财管",
+        "onboard_time": 1694245415,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223470,
+        "num": 223470,
+        "word": "PPT发明者去世",
+        "onboard_time": 1694240199,
+        "rank": 28,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 222347,
+        "num": 222347,
+        "word": "你们周六休息的简直要亏死了",
+        "onboard_time": 1694231732,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294104,
+        "num": 218731,
+        "word": "花了16w装出来的家",
+        "onboard_time": 1694250155,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201707,
+        "num": 201707,
+        "word": "正畸能有多难受",
+        "onboard_time": 1694249316,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201538,
+        "num": 201538,
+        "word": "外卖小哥爬泰山送外卖一趟500元",
+        "onboard_time": 1694247573,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195751,
+        "num": 195751,
+        "word": "北京600平的大别墅",
+        "onboard_time": 1694238456,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 192026,
+        "num": 192026,
+        "word": "邓为风度10月刊双封面",
+        "onboard_time": 1694240498,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190335,
+        "num": 190335,
+        "word": "摩洛哥南部强震最新消息",
+        "onboard_time": 1694250515,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182148,
+        "num": 182148,
+        "word": "爱吃海底捞的有福了",
+        "onboard_time": 1694236474,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173228,
+        "num": 173228,
+        "word": "警察夫妻度蜜月抓了个嫌疑犯",
+        "onboard_time": 1694246433,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171212,
+        "num": 171212,
+        "word": "樊振东林高远夺冠",
+        "onboard_time": 1694247937,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166715,
+        "num": 166715,
+        "word": "偷票房 到底是谁偷了谁",
+        "onboard_time": 1694235696,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166298,
+        "num": 166298,
+        "word": "天秤座小事犹豫大事坚定",
+        "onboard_time": 1694240855,
+        "rank": 40,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 141190,
+        "num": 141190,
+        "word": "刚出生4天的柴犬宝宝",
+        "onboard_time": 1694236115,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137930,
+        "num": 137930,
+        "word": "戚薇走路都像在走T台",
+        "onboard_time": 1694245356,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137028,
+        "num": 137028,
+        "word": "以前的偶像剧有多离谱",
+        "onboard_time": 1694250573,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134106,
+        "num": 134106,
+        "word": "古剑奇谭后乔振宇又演反派了",
+        "onboard_time": 1694230651,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 134092,
+        "word": "吃14块的早餐被骂了",
+        "onboard_time": 1694240498,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131737,
+        "num": 131737,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1694249135,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123891,
+        "num": 123891,
+        "word": "CharliePuth上海演唱会",
+        "onboard_time": 1694248357,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123765,
+        "num": 123765,
+        "word": "于适上hi6是出道后综艺首秀",
+        "onboard_time": 1694247456,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118699,
+        "num": 118699,
+        "word": "9岁女孩被40岁男网友隔空猥亵",
+        "onboard_time": 1694249614,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为龙江发展指明方向#"
+    }
+  }
+}

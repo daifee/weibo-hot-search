@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694248425412,
+  "endTime": 1694250877582,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -243,6 +243,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 751670,
+      "num": 508571,
+      "word": "听说耳洞不堵会漏财",
+      "onboard_time": 1694247697,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 743423,
       "num": 350400,
       "word": "你们周六休息的简直要亏死了",
@@ -304,6 +312,14 @@
       "word": "荷兰光刻机巨头说我们太自以为是了",
       "onboard_time": 1694241215,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676983,
+      "num": 319877,
+      "word": "印度11名男子残忍奸杀14岁女孩",
+      "onboard_time": 1694248414,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 506186,
+      "num": 506186,
+      "word": "周琦 手术",
+      "onboard_time": 1694248115,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500157,
       "num": 500157,
       "word": "人类人均每天仅花2.6小时用于经济活动",
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437628,
+      "num": 437628,
+      "word": "恋综都看不见这么多张嘴在一起",
+      "onboard_time": 1694248357,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434474,
       "num": 384148,
       "word": "警方回应女子遭夫妇殴打后自杀",
@@ -625,6 +657,14 @@
       "onboard_time": 1694166935,
       "rank": 7,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 407117,
+      "num": 340282,
+      "word": "韩国一家非常不错的烤肉店",
+      "onboard_time": 1694248296,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 406259,
@@ -811,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322825,
+      "num": 322825,
+      "word": "云之羽直播",
+      "onboard_time": 1694247816,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317125,
       "num": 317125,
       "word": "女儿一直在说对不起",
@@ -843,12 +891,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313736,
+      "num": 313736,
+      "word": "很喜欢去有风的地方这段表白",
+      "onboard_time": 1694250214,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313722,
       "num": 295481,
       "word": "企业回应把日本食材引进无锡学生餐",
       "onboard_time": 1694182477,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310035,
+      "num": 374968,
+      "word": "樊振东林高远3比2战胜马龙王楚钦",
+      "onboard_time": 1694249017,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 307994,
@@ -905,6 +969,14 @@
       "onboard_time": 1694221472,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294104,
+      "num": 218731,
+      "word": "花了16w装出来的家",
+      "onboard_time": 1694250155,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 291597,
@@ -1051,14 +1123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 245242,
-      "num": 245242,
-      "word": "听说耳洞不堵会漏财",
-      "onboard_time": 1694247697,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244165,
       "num": 244165,
       "word": "第一次见地铁的尽头",
@@ -1067,20 +1131,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243424,
+      "num": 243424,
+      "word": "你好星期六",
+      "onboard_time": 1694247756,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239419,
       "num": 209305,
       "word": "第一次见杀电饭煲的",
       "onboard_time": 1694221772,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237881,
-      "num": 237881,
-      "word": "周琦 手术",
-      "onboard_time": 1694248115,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 237746,
@@ -1131,27 +1195,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 225420,
-      "num": 225420,
-      "word": "恋综都看不见这么多张嘴在一起",
-      "onboard_time": 1694248357,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225188,
       "num": 202743,
       "word": "云为衫宫子羽郑南衣大婚现场",
       "onboard_time": 1694239296,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 223151,
-      "num": 223151,
-      "word": "云之羽直播",
-      "onboard_time": 1694247816,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1203,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208342,
-      "num": 208342,
-      "word": "印度11名男子残忍奸杀14岁女孩",
-      "onboard_time": 1694248414,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207274,
       "num": 203596,
       "word": "樊振东林高远男双晋级决赛",
@@ -1257,6 +1297,22 @@
       "onboard_time": 1694229872,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201707,
+      "num": 201707,
+      "word": "正畸能有多难受",
+      "onboard_time": 1694249316,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 201538,
+      "num": 201538,
+      "word": "外卖小哥爬泰山送外卖一趟500元",
+      "onboard_time": 1694247573,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199587,
@@ -1355,12 +1411,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 189820,
-      "num": 189820,
-      "word": "你好星期六",
-      "onboard_time": 1694247756,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 190335,
+      "num": 190335,
+      "word": "摩洛哥南部强震最新消息",
+      "onboard_time": 1694250515,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189089,
@@ -1435,14 +1491,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 180294,
-      "num": 180294,
-      "word": "外卖小哥爬泰山送外卖一趟500元",
-      "onboard_time": 1694247573,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179502,
       "num": 349405,
       "word": "大熊猫园润当妈妈了",
@@ -1499,20 +1547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173228,
+      "num": 353725,
+      "word": "警察夫妻度蜜月抓了个嫌疑犯",
+      "onboard_time": 1694246433,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166616,
       "num": 166616,
       "word": "时代少年团跳小熊舞",
       "onboard_time": 1694186143,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166202,
-      "num": 353725,
-      "word": "警察夫妻度蜜月抓了个嫌疑犯",
-      "onboard_time": 1694246433,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165211,
@@ -1715,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137028,
+      "num": 137028,
+      "word": "以前的偶像剧有多离谱",
+      "onboard_time": 1694250573,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135982,
       "num": 135982,
       "word": "论狗狗是如何蹭别人飞盘玩的",
@@ -1747,12 +1803,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 131473,
-      "num": 131473,
-      "word": "韩国一家非常不错的烤肉店",
-      "onboard_time": 1694248296,
+      "raw_hot": 131737,
+      "num": 131737,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1694249135,
       "rank": 46,
-      "category": "美食"
+      "category": "音乐"
     },
     {
       "raw_hot": 128640,
@@ -1819,6 +1875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123891,
+      "num": 123891,
+      "word": "CharliePuth上海演唱会",
+      "onboard_time": 1694248357,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122760,
       "num": 122760,
       "word": "现在做什么可在5年后受益匪浅",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1694186623,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118699,
+      "num": 118699,
+      "word": "9岁女孩被40岁男网友隔空猥亵",
+      "onboard_time": 1694249614,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117031,
@@ -2035,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56641,
+      "num": 511150,
+      "word": "一定要会的急救知识合集",
+      "onboard_time": 1694249735,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44669,
       "num": 44669,
       "word": "纽约大学医生带你1分钟拉伸",
@@ -2121,6 +2201,14 @@
       "onboard_time": 1694203514,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18894,
+      "num": 358959,
+      "word": "为救人5旬辅警仍选择奋不顾身",
+      "onboard_time": 1694250095,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10296,
