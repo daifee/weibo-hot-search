@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694301306321,
+  "endTime": 1694302433057,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -3427,6 +3427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 851769,
+      "num": 251989,
+      "word": "断亲现象为何如此流行",
+      "onboard_time": 1694263958,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848857,
       "num": 357228,
       "word": "长期不换头像的情绪更稳定吗",
@@ -4049,14 +4057,6 @@
       "onboard_time": 1693784373,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 768512,
-      "num": 251989,
-      "word": "断亲现象为何如此流行",
-      "onboard_time": 1694263958,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 768455,
@@ -6987,6 +6987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 531043,
+      "num": 531043,
+      "word": "教师节快乐",
+      "onboard_time": 1694300781,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 530720,
       "num": 502009,
       "word": "十几分钟却是我的整个青春",
@@ -8627,6 +8635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447942,
+      "num": 232303,
+      "word": "女子手指肿胀21天开刀发现仙人掌刺",
+      "onboard_time": 1694300781,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446315,
       "num": 446315,
       "word": "长沙一小学男教师打伤学生头骨",
@@ -10041,6 +10057,14 @@
       "onboard_time": 1693711174,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380399,
+      "num": 380399,
+      "word": "国足43年首次赢不了马来西亚",
+      "onboard_time": 1694300781,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 380351,
@@ -12043,6 +12067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313010,
+      "num": 313010,
+      "word": "德国1比4日本",
+      "onboard_time": 1694301443,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312822,
       "num": 312822,
       "word": "鹊刀门传奇太敢拍了",
@@ -13705,14 +13737,6 @@
       "onboard_time": 1693566275,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267641,
-      "num": 267641,
-      "word": "教师节快乐",
-      "onboard_time": 1694300781,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 267558,
@@ -21931,6 +21955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128582,
+      "num": 128582,
+      "word": "高芙夺美网女单冠军",
+      "onboard_time": 1694301623,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 128187,
       "num": 128187,
       "word": "盛阳劝不动根本劝不动",
@@ -22491,6 +22523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109231,
+      "num": 109231,
+      "word": "其实健康活着比什么都重要",
+      "onboard_time": 1694300781,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109177,
       "num": 347852,
       "word": "暴雨中最让人安心的橙色",
@@ -22505,14 +22545,6 @@
       "onboard_time": 1693760963,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108802,
-      "num": 108802,
-      "word": "国足43年首次赢不了马来西亚",
-      "onboard_time": 1694300781,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 108415,
@@ -22643,20 +22675,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102099,
+      "num": 102099,
+      "word": "封神质子团五个小萝卜头还怪可爱",
+      "onboard_time": 1694281400,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101585,
       "num": 101585,
       "word": "跑腿小哥是懂粉丝需求的",
       "onboard_time": 1694259155,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101441,
-      "num": 101441,
-      "word": "封神质子团五个小萝卜头还怪可爱",
-      "onboard_time": 1694281400,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 101056,
@@ -22713,14 +22745,6 @@
       "onboard_time": 1694042007,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99145,
-      "num": 99145,
-      "word": "女子手指肿胀21天开刀发现仙人掌刺",
-      "onboard_time": 1694300781,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98908,
@@ -22915,6 +22939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90326,
+      "num": 90326,
+      "word": "原来假期的时候都是天鹅在喂小鱼",
+      "onboard_time": 1694300418,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90145,
       "num": 87322,
       "word": "C罗晒照备战欧预赛",
@@ -22985,6 +23017,14 @@
       "onboard_time": 1693543903,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87905,
+      "num": 87905,
+      "word": "李鸿其官宣与王紫璇恋情",
+      "onboard_time": 1694302345,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 87279,
@@ -23363,20 +23403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68768,
+      "num": 68768,
+      "word": "试吃最近超火的红魔虾",
+      "onboard_time": 1694288655,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68402,
       "num": 1164949,
       "word": "来杭州看看梦里江南的模样",
       "onboard_time": 1694179416,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67332,
-      "num": 67332,
-      "word": "试吃最近超火的红魔虾",
-      "onboard_time": 1694288655,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 67296,
@@ -23403,12 +23443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65808,
+      "num": 65808,
+      "word": "全班同学便利贴写祝福拼成画送老师",
+      "onboard_time": 1694301562,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65370,
       "num": 586348,
       "word": "老兵姐姐穿军装接空军妹妹退伍",
       "onboard_time": 1693746109,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65329,
+      "num": 65329,
+      "word": "于文文唱体面可以笑着疼了",
+      "onboard_time": 1694292974,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 64923,
@@ -23441,6 +23497,14 @@
       "onboard_time": 1693762760,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64232,
+      "num": 64232,
+      "word": "原来一天可以做这么多事情",
+      "onboard_time": 1694302345,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 64080,
@@ -23595,14 +23659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54585,
-      "num": 59795,
-      "word": "于文文唱体面可以笑着疼了",
-      "onboard_time": 1694292974,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 54565,
       "num": 51935,
       "word": "是什么样的缘分把这仨凑在一起",
@@ -23681,14 +23737,6 @@
       "onboard_time": 1693817017,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50545,
-      "num": 59793,
-      "word": "原来假期的时候都是天鹅在喂小鱼",
-      "onboard_time": 1694300418,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 50534,
@@ -23777,14 +23825,6 @@
       "onboard_time": 1693503619,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 46664,
-      "num": 59792,
-      "word": "其实健康活着比什么都重要",
-      "onboard_time": 1694300781,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 46647,

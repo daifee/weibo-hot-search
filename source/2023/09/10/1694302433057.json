@@ -1,0 +1,410 @@
+{
+  "runTime": 1694302433057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 531043,
+        "num": 531043,
+        "word": "教师节快乐",
+        "onboard_time": 1694300781,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 474653,
+        "num": 474653,
+        "word": "计划有变 准备夺冠",
+        "onboard_time": 1694274516,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40890,
+        "num": 422825,
+        "word": "当亚运会遇上中华文化",
+        "onboard_time": 1694265275,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 380399,
+        "num": 380399,
+        "word": "国足43年首次赢不了马来西亚",
+        "onboard_time": 1694300781,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350622,
+        "num": 350622,
+        "word": "教师节",
+        "onboard_time": 1694274096,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334539,
+        "num": 334539,
+        "word": "马斯克和女高管所生双胞胎曝光",
+        "onboard_time": 1694266659,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 313010,
+        "num": 313010,
+        "word": "德国1比4日本",
+        "onboard_time": 1694301443,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293838,
+        "num": 293838,
+        "word": "华晨宇接受法师称号",
+        "onboard_time": 1694267318,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273070,
+        "num": 273070,
+        "word": "任正非2019年称两三年后可再看华为在不在",
+        "onboard_time": 1694277090,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 235221,
+        "num": 235221,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 9,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 851769,
+        "num": 234440,
+        "word": "断亲现象为何如此流行",
+        "onboard_time": 1694263958,
+        "rank": 10,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 447942,
+        "num": 232303,
+        "word": "女子手指肿胀21天开刀发现仙人掌刺",
+        "onboard_time": 1694300781,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212322,
+        "num": 212322,
+        "word": "卡琳娜宣布暂停一切活动",
+        "onboard_time": 1694263535,
+        "rank": 12,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 118906,
+        "num": 204753,
+        "word": "白俄罗斯姑娘拯救了中国胃",
+        "onboard_time": 1694267377,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96223,
+        "num": 203691,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203367,
+        "num": 203367,
+        "word": "白百何同款抓夹高马尾",
+        "onboard_time": 1694273557,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202891,
+        "num": 202891,
+        "word": "10年米粉换用iPhone是什么体验",
+        "onboard_time": 1694268218,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196976,
+        "num": 196976,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187590,
+        "num": 187590,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180176,
+        "num": 180176,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431430,
+        "num": 170284,
+        "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
+        "onboard_time": 1694270559,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199282,
+        "num": 166506,
+        "word": "28岁女生经期用按摩仪按腰致肾破裂",
+        "onboard_time": 1694265037,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 161900,
+        "word": "微信三件套可以看出很多东西",
+        "onboard_time": 1694268279,
+        "rank": 22,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 157088,
+        "num": 157088,
+        "word": "你好星期六下期有三个剧组",
+        "onboard_time": 1694268520,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151859,
+        "num": 151859,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136640,
+        "num": 136640,
+        "word": "李荣浩演唱会后台收到100个烧饼夹里脊",
+        "onboard_time": 1694271760,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135717,
+        "num": 135717,
+        "word": "美一乘客腹泻不止致飞机舱内遍布粪便",
+        "onboard_time": 1694266598,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134639,
+        "num": 134639,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128582,
+        "num": 128582,
+        "word": "高芙夺美网女单冠军",
+        "onboard_time": 1694301623,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 127280,
+        "num": 127280,
+        "word": "肖战田雨20集终于见面了",
+        "onboard_time": 1694266718,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109231,
+        "num": 109231,
+        "word": "其实健康活着比什么都重要",
+        "onboard_time": 1694300781,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105522,
+        "num": 105522,
+        "word": "胡歌给女儿起名茉莉的原因",
+        "onboard_time": 1694264857,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102099,
+        "num": 102099,
+        "word": "封神质子团五个小萝卜头还怪可爱",
+        "onboard_time": 1694281400,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95676,
+        "num": 95676,
+        "word": "原来真有猫咪是被气胖的",
+        "onboard_time": 1694274816,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90740,
+        "num": 90740,
+        "word": "已瘦30斤宅家早餐吃什么",
+        "onboard_time": 1694273916,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90326,
+        "num": 90326,
+        "word": "原来假期的时候都是天鹅在喂小鱼",
+        "onboard_time": 1694300418,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87905,
+        "num": 87905,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86528,
+        "num": 86528,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82959,
+        "num": 82959,
+        "word": "张杰觉得自己自恋时期是个疯子",
+        "onboard_time": 1694275774,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80409,
+        "num": 80409,
+        "word": "周杰伦能不能给张凌赫一首歌的时间",
+        "onboard_time": 1694274035,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76647,
+        "num": 76647,
+        "word": "异人之下周深别唱了",
+        "onboard_time": 1694277868,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75822,
+        "num": 75822,
+        "word": "云之羽角浅徵开虐",
+        "onboard_time": 1694265516,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68837,
+        "num": 68837,
+        "word": "身材焦虑的时候听听泰勒说的吧",
+        "onboard_time": 1694279185,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68768,
+        "num": 68768,
+        "word": "试吃最近超火的红魔虾",
+        "onboard_time": 1694288655,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66900,
+        "num": 66900,
+        "word": "云为衫雾姬夫人联手设计宫尚角",
+        "onboard_time": 1694264377,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66671,
+        "num": 66671,
+        "word": "世界上最痛苦的两件事 有工作和没工作",
+        "onboard_time": 1694278349,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66369,
+        "num": 66369,
+        "word": "邓稼先和奥本海默的对比",
+        "onboard_time": 1694275356,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65808,
+        "num": 65808,
+        "word": "全班同学便利贴写祝福拼成画送老师",
+        "onboard_time": 1694301562,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65329,
+        "num": 65329,
+        "word": "于文文唱体面可以笑着疼了",
+        "onboard_time": 1694292974,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64232,
+        "num": 64232,
+        "word": "原来一天可以做这么多事情",
+        "onboard_time": 1694302345,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信全国优秀教师代表#"
+    }
+  }
+}
