@@ -1,0 +1,410 @@
+{
+  "runTime": 1694262517356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1409802,
+        "num": 1409802,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 829318,
+        "num": 829318,
+        "word": "管理余额宝10多年的基金经理离职了",
+        "onboard_time": 1694255374,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48063,
+        "num": 806741,
+        "word": "一定要会的急救知识合集",
+        "onboard_time": 1694249735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1561046,
+        "num": 804989,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797473,
+        "num": 797473,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 609174,
+        "num": 609174,
+        "word": "陶喆 melody",
+        "onboard_time": 1694255253,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473712,
+        "num": 473712,
+        "word": "国足开场10分钟丢球",
+        "onboard_time": 1694261374,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458522,
+        "num": 458522,
+        "word": "中级经济法",
+        "onboard_time": 1694259936,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 426261,
+        "num": 426261,
+        "word": "蔡文静劝女孩别被偶像剧骗了",
+        "onboard_time": 1694256573,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354920,
+        "num": 354920,
+        "word": "虞书欣张凌赫杀敌1000自损1000",
+        "onboard_time": 1694259995,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2817056,
+        "num": 353492,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1104738,
+        "num": 352232,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276116,
+        "num": 351582,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216147,
+        "num": 349531,
+        "word": "荷兰光刻机巨头说我们太自以为是了",
+        "onboard_time": 1694241215,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167908,
+        "num": 347202,
+        "word": "摩洛哥地震遇难人数升至820人",
+        "onboard_time": 1694253995,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346876,
+        "num": 346876,
+        "word": "泰国BTS轻轨可以微信支付了",
+        "onboard_time": 1694259216,
+        "rank": 15,
+        "category": "旅游,科技"
+      },
+      {
+        "raw_hot": 411749,
+        "num": 343759,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 408310,
+        "num": 342998,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406617,
+        "num": 341308,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339549,
+        "num": 339549,
+        "word": "虞书欣 THE9演唱你会来吗",
+        "onboard_time": 1694251175,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 631372,
+        "num": 339524,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373420,
+        "num": 339477,
+        "word": "安崎淘汰",
+        "onboard_time": 1694260959,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347438,
+        "num": 337388,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328824,
+        "num": 328824,
+        "word": "一家店铺结婚整条街都休息了",
+        "onboard_time": 1694259035,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306203,
+        "num": 306203,
+        "word": "国足vs马来西亚",
+        "onboard_time": 1694257294,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286155,
+        "num": 286155,
+        "word": "肖战片场被白百何过肩摔",
+        "onboard_time": 1694256874,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270752,
+        "num": 270752,
+        "word": "周也只有一口牙是白的",
+        "onboard_time": 1694261016,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239207,
+        "num": 239207,
+        "word": "成毅西装金丝眼镜半永久",
+        "onboard_time": 1694260233,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238494,
+        "num": 238494,
+        "word": "4岁女孩教师节手提五花肉送老师",
+        "onboard_time": 1694253035,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208468,
+        "num": 208468,
+        "word": "姜贞羽我的未来式舞台",
+        "onboard_time": 1694262216,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297309,
+        "num": 206520,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214889,
+        "num": 205018,
+        "word": "我都拿好碗准备舀一碗了结果喂猪了",
+        "onboard_time": 1694259816,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196838,
+        "num": 196838,
+        "word": "舞台2023三公淘汰赛",
+        "onboard_time": 1694261316,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196599,
+        "num": 196599,
+        "word": "詹姆斯暗示明年或将参加奥运会",
+        "onboard_time": 1694258912,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194708,
+        "num": 194708,
+        "word": "西出玉门",
+        "onboard_time": 1694256276,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186312,
+        "num": 186312,
+        "word": "你好星期六",
+        "onboard_time": 1694247756,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184276,
+        "num": 184276,
+        "word": "花了16w装出来的家",
+        "onboard_time": 1694250155,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177102,
+        "num": 177102,
+        "word": "向涵之新剧00后向上管理",
+        "onboard_time": 1694262276,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166135,
+        "num": 166135,
+        "word": "Angelababy赫敏",
+        "onboard_time": 1694246137,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147201,
+        "num": 147201,
+        "word": "戴佩妮Ella张杰邓紫棋王源于文文合唱",
+        "onboard_time": 1694261374,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141840,
+        "num": 141840,
+        "word": "流浪猫的嫁妆",
+        "onboard_time": 1694255674,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129413,
+        "num": 129413,
+        "word": "国足首发",
+        "onboard_time": 1694257235,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119162,
+        "num": 119162,
+        "word": "女子身藏15条蛇4条蜈蚣1条蜥蜴入境",
+        "onboard_time": 1694252917,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115221,
+        "num": 115221,
+        "word": "傅首尔 还是活在等妈妈来找的柜子里",
+        "onboard_time": 1694242775,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105414,
+        "num": 105414,
+        "word": "男老师收到花边走边拍开心炫耀",
+        "onboard_time": 1694252855,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101575,
+        "num": 101575,
+        "word": "男子想和聋哑女友结婚领证被拒",
+        "onboard_time": 1694241512,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99899,
+        "num": 99899,
+        "word": "尔冬升推荐第八个嫌疑人",
+        "onboard_time": 1694257054,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98553,
+        "num": 98553,
+        "word": "奥本海默朝阳分默",
+        "onboard_time": 1694259634,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94743,
+        "num": 94743,
+        "word": "摩洛哥地震为当地100多年来最强地震",
+        "onboard_time": 1694258494,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93768,
+        "num": 93768,
+        "word": "大鹏开机前增肥20斤拍摄中减肥30斤",
+        "onboard_time": 1694256276,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为龙江发展指明方向#"
+    }
+  }
+}

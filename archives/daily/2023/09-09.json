@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694259219716,
+  "endTime": 1694262517356,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -17,6 +17,14 @@
       "onboard_time": 1694234913,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2817056,
+      "num": 353492,
+      "word": "王俊凯 俊昇文化",
+      "onboard_time": 1694258794,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2302001,
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1561046,
+      "num": 1382184,
+      "word": "学生不订奶要开县级医院以上诊断证明",
+      "onboard_time": 1694254774,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1536170,
       "num": 1536170,
       "word": "原来小说里的VIP病房是真的",
@@ -107,20 +123,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1409802,
+      "num": 1409802,
+      "word": "三年租房花费了十五万",
+      "onboard_time": 1694257774,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1406783,
       "num": 1406783,
       "word": "虞书欣 THE9演唱你会来吗",
       "onboard_time": 1694251175,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1382184,
-      "num": 1382184,
-      "word": "学生不订奶要开县级医院以上诊断证明",
-      "onboard_time": 1694254774,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1344761,
@@ -211,14 +227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 885783,
-      "num": 885783,
-      "word": "三年租房花费了十五万",
-      "onboard_time": 1694257774,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 882679,
       "num": 490019,
       "word": "大学生贷款参加就业培训后自缢身亡",
@@ -251,12 +259,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 829318,
+      "num": 829318,
+      "word": "管理余额宝10多年的基金经理离职了",
+      "onboard_time": 1694255374,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 798949,
       "num": 349531,
       "word": "旅日游客称不介意福岛鱼",
       "onboard_time": 1694198655,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 797473,
+      "num": 797473,
+      "word": "你还在买余额宝吗",
+      "onboard_time": 1694259634,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 792528,
@@ -371,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675813,
-      "num": 307594,
-      "word": "王俊凯 俊昇文化",
-      "onboard_time": 1694258794,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 663798,
       "num": 663798,
       "word": "没唱玫瑰少年",
@@ -425,6 +441,14 @@
       "onboard_time": 1694226332,
       "rank": 17,
       "category": "国外要闻,科技"
+    },
+    {
+      "raw_hot": 631372,
+      "num": 339524,
+      "word": "女子胸前腰部绑藏15条活体蛇入境",
+      "onboard_time": 1694260115,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628737,
@@ -481,14 +505,6 @@
       "onboard_time": 1694221652,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 565678,
-      "num": 264643,
-      "word": "管理余额宝10多年的基金经理离职了",
-      "onboard_time": 1694255374,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 563093,
@@ -683,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473712,
+      "num": 473712,
+      "word": "国足开场10分钟丢球",
+      "onboard_time": 1694261374,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 467655,
       "num": 467655,
       "word": "广东香港世纪暴雨台风只是表层原因",
@@ -705,6 +729,14 @@
       "onboard_time": 1694190989,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458522,
+      "num": 458522,
+      "word": "中级经济法",
+      "onboard_time": 1694259936,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 457965,
@@ -835,6 +867,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 373420,
+      "num": 339477,
+      "word": "安崎淘汰",
+      "onboard_time": 1694260959,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371815,
       "num": 229047,
       "word": "广东人是如何做到这么统一的",
@@ -849,6 +889,14 @@
       "onboard_time": 1694236115,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354920,
+      "num": 354920,
+      "word": "虞书欣张凌赫杀敌1000自损1000",
+      "onboard_time": 1694259995,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 350577,
@@ -881,6 +929,14 @@
       "onboard_time": 1694235634,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346876,
+      "num": 346876,
+      "word": "泰国BTS轻轨可以微信支付了",
+      "onboard_time": 1694259216,
+      "rank": 15,
+      "category": "旅游,科技"
     },
     {
       "raw_hot": 345266,
@@ -971,6 +1027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 328824,
+      "num": 328824,
+      "word": "一家店铺结婚整条街都休息了",
+      "onboard_time": 1694259035,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328457,
       "num": 328457,
       "word": "乌尔善说封神破30亿会有演唱会",
@@ -1059,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306203,
+      "num": 306203,
+      "word": "国足vs马来西亚",
+      "onboard_time": 1694257294,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301782,
       "num": 301782,
       "word": "孙颖莎vs陈幸同",
@@ -1096,6 +1168,14 @@
       "word": "女子照顾植物人丈夫4年终苏醒",
       "onboard_time": 1694187939,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297309,
+      "num": 206520,
+      "word": "胡锡进 四川工商学院的声明是一种悲哀",
+      "onboard_time": 1694261615,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1275,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 270752,
+      "num": 270752,
+      "word": "周也只有一口牙是白的",
+      "onboard_time": 1694261016,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270003,
       "num": 265956,
       "word": "男子在长白山天池拍到神秘生物",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1694221772,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239207,
+      "num": 239207,
+      "word": "成毅西装金丝眼镜半永久",
+      "onboard_time": 1694260233,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 237746,
@@ -1387,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214889,
+      "num": 205018,
+      "word": "我都拿好碗准备舀一碗了结果喂猪了",
+      "onboard_time": 1694259816,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214812,
       "num": 199945,
       "word": "男孩向工作人员描述丢失的小狗",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1694249316,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208468,
+      "num": 208468,
+      "word": "姜贞羽我的未来式舞台",
+      "onboard_time": 1694262216,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 207274,
@@ -1491,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198195,
-      "num": 198195,
-      "word": "国足vs马来西亚",
-      "onboard_time": 1694257294,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197967,
       "num": 197967,
       "word": "KPL",
@@ -1529,6 +1633,22 @@
       "onboard_time": 1694225613,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196838,
+      "num": 196838,
+      "word": "舞台2023三公淘汰赛",
+      "onboard_time": 1694261316,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196599,
+      "num": 196599,
+      "word": "詹姆斯暗示明年或将参加奥运会",
+      "onboard_time": 1694258912,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194924,
@@ -1699,14 +1819,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 180012,
-      "num": 180012,
-      "word": "詹姆斯暗示明年或将参加奥运会",
-      "onboard_time": 1694258912,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179502,
       "num": 349405,
       "word": "大熊猫园润当妈妈了",
@@ -1728,6 +1840,14 @@
       "word": "宫尚角宫远徵方言局",
       "onboard_time": 1694221292,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 177102,
+      "num": 177102,
+      "word": "向涵之新剧00后向上管理",
+      "onboard_time": 1694262276,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1953,6 +2073,14 @@
       "onboard_time": 1694246854,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147201,
+      "num": 147201,
+      "word": "戴佩妮Ella张杰邓紫棋王源于文文合唱",
+      "onboard_time": 1694261374,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 143226,
@@ -2235,14 +2363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115309,
-      "num": 115309,
-      "word": "一家店铺结婚整条街都休息了",
-      "onboard_time": 1694259035,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113604,
       "num": 353890,
       "word": "搞线下还得看三星",
@@ -2329,6 +2449,14 @@
       "onboard_time": 1694259155,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98553,
+      "num": 98553,
+      "word": "奥本海默朝阳分默",
+      "onboard_time": 1694259634,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94178,
