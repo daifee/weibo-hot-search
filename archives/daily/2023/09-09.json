@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694257978202,
+  "endTime": 1694259219716,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1470197,
+      "num": 1470197,
+      "word": "陶喆 melody",
+      "onboard_time": 1694255253,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1428501,
       "num": 427556,
       "word": "卡琳娜 仲尼",
@@ -107,12 +115,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1344846,
-      "num": 1344846,
-      "word": "陶喆 melody",
-      "onboard_time": 1694255253,
-      "rank": 7,
-      "category": "音乐"
+      "raw_hot": 1382184,
+      "num": 1382184,
+      "word": "学生不订奶要开县级医院以上诊断证明",
+      "onboard_time": 1694254774,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1344761,
@@ -201,6 +209,14 @@
       "onboard_time": 1694215947,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 885783,
+      "num": 885783,
+      "word": "三年租房花费了十五万",
+      "onboard_time": 1694257774,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 882679,
@@ -331,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 707504,
-      "num": 707504,
-      "word": "学生不订奶要开县级医院以上诊断证明",
-      "onboard_time": 1694254774,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 686449,
       "num": 256290,
       "word": "长期不换头像的情绪更稳定吗",
@@ -361,6 +369,14 @@
       "onboard_time": 1694248414,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675813,
+      "num": 307594,
+      "word": "王俊凯 俊昇文化",
+      "onboard_time": 1694258794,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 663798,
@@ -611,6 +627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 489622,
+      "num": 1418612,
+      "word": "4岁女孩教师节手提五花肉送老师",
+      "onboard_time": 1694253035,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485798,
       "num": 485798,
       "word": "戚薇郑秀晶秀场同框",
@@ -632,14 +656,6 @@
       "word": "女子误将吐槽语音发家长群太社死",
       "onboard_time": 1694229032,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479583,
-      "num": 721424,
-      "word": "4岁女孩教师节手提五花肉送老师",
-      "onboard_time": 1694253035,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -835,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 352348,
-      "num": 352348,
-      "word": "三年租房花费了十五万",
-      "onboard_time": 1694257774,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 350577,
       "num": 295971,
       "word": "骄阳伴我我哭了我演的",
@@ -979,20 +987,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326373,
+      "num": 326373,
+      "word": "西出玉门",
+      "onboard_time": 1694256276,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325337,
       "num": 325337,
       "word": "久哲问付辛博和谁一起出道",
       "onboard_time": 1694226034,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 323373,
-      "num": 323373,
-      "word": "西出玉门",
-      "onboard_time": 1694256276,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 317125,
@@ -1268,7 +1276,7 @@
     },
     {
       "raw_hot": 242938,
-      "num": 693291,
+      "num": 743605,
       "word": "男老师收到花边走边拍开心炫耀",
       "onboard_time": 1694252855,
       "rank": 6,
@@ -1459,18 +1467,18 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199587,
-      "num": 199587,
-      "word": "胡歌重回母校上戏",
-      "onboard_time": 1694240136,
+      "raw_hot": 200640,
+      "num": 200640,
+      "word": "大鹏开机前增肥20斤拍摄中减肥30斤",
+      "onboard_time": 1694256276,
       "rank": 27,
       "category": "影视"
     },
     {
-      "raw_hot": 199288,
-      "num": 199288,
-      "word": "大鹏开机前增肥20斤拍摄中减肥30斤",
-      "onboard_time": 1694256276,
+      "raw_hot": 199587,
+      "num": 199587,
+      "word": "胡歌重回母校上戏",
+      "onboard_time": 1694240136,
       "rank": 27,
       "category": "影视"
     },
@@ -1480,6 +1488,14 @@
       "word": "亚锦赛",
       "onboard_time": 1694247632,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198195,
+      "num": 198195,
+      "word": "国足vs马来西亚",
+      "onboard_time": 1694257294,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1659,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181548,
+      "num": 181548,
+      "word": "流浪猫的嫁妆",
+      "onboard_time": 1694255674,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181481,
       "num": 189421,
       "word": "你心目中的小说天花板",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1694223931,
       "rank": 34,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 180012,
+      "num": 180012,
+      "word": "詹姆斯暗示明年或将参加奥运会",
+      "onboard_time": 1694258912,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 179502,
@@ -1771,14 +1803,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 164610,
-      "num": 164610,
-      "word": "国足vs马来西亚",
-      "onboard_time": 1694257294,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164002,
       "num": 164002,
       "word": "女孩军训间隙表演九节鞭震惊全场",
@@ -1873,14 +1897,6 @@
       "onboard_time": 1694257054,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153013,
-      "num": 153013,
-      "word": "流浪猫的嫁妆",
-      "onboard_time": 1694255674,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 152187,
@@ -2219,6 +2235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115309,
+      "num": 115309,
+      "word": "一家店铺结婚整条街都休息了",
+      "onboard_time": 1694259035,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113604,
       "num": 353890,
       "word": "搞线下还得看三星",
@@ -2241,6 +2265,22 @@
       "onboard_time": 1694178513,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112378,
+      "num": 112378,
+      "word": "摩洛哥地震为当地100多年来最强地震",
+      "onboard_time": 1694258494,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111854,
+      "num": 111854,
+      "word": "20部影像每一帧都是造梦家的心血",
+      "onboard_time": 1694259155,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 110231,
@@ -2283,6 +2323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101585,
+      "num": 101585,
+      "word": "跑腿小哥是懂粉丝需求的",
+      "onboard_time": 1694259155,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94178,
       "num": 94178,
       "word": "王琳推荐肖战参加战至巅峰",
@@ -2316,7 +2364,7 @@
     },
     {
       "raw_hot": 75607,
-      "num": 993551,
+      "num": 1395644,
       "word": "一定要会的急救知识合集",
       "onboard_time": 1694249735,
       "rank": 2,
@@ -2419,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32195,
+      "num": 331283,
+      "word": "00后民警跨栏跳河2分钟救起落水女子",
+      "onboard_time": 1694257294,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31643,
       "num": 34433,
       "word": "山东高校食堂原则上自营控制价格",
@@ -2465,14 +2521,6 @@
       "onboard_time": 1694203514,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13677,
-      "num": 331283,
-      "word": "00后民警跨栏跳河2分钟救起落水女子",
-      "onboard_time": 1694257294,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10296,

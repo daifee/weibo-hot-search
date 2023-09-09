@@ -1,0 +1,410 @@
+{
+  "runTime": 1694259219716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1470197,
+        "num": 1470197,
+        "word": "陶喆 melody",
+        "onboard_time": 1694255253,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 489622,
+        "num": 1418612,
+        "word": "4岁女孩教师节手提五花肉送老师",
+        "onboard_time": 1694253035,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60802,
+        "num": 1395644,
+        "word": "一定要会的急救知识合集",
+        "onboard_time": 1694249735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1382184,
+        "num": 1382184,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337386,
+        "num": 963615,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885783,
+        "num": 885783,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159821,
+        "num": 743605,
+        "word": "男老师收到花边走边拍开心炫耀",
+        "onboard_time": 1694252855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642973,
+        "num": 642973,
+        "word": "蔡文静劝女孩别被偶像剧骗了",
+        "onboard_time": 1694256573,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523803,
+        "num": 523803,
+        "word": "虞书欣 THE9演唱你会来吗",
+        "onboard_time": 1694251175,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326373,
+        "num": 326373,
+        "word": "西出玉门",
+        "onboard_time": 1694256276,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1742122,
+        "num": 325661,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897019,
+        "num": 319628,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675813,
+        "num": 307594,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257689,
+        "num": 299831,
+        "word": "荷兰光刻机巨头说我们太自以为是了",
+        "onboard_time": 1694241215,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32195,
+        "num": 293986,
+        "word": "00后民警跨栏跳河2分钟救起落水女子",
+        "onboard_time": 1694257294,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543038,
+        "num": 289490,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 506371,
+        "num": 282900,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 493080,
+        "num": 276368,
+        "word": "肖战片场被白百何过肩摔",
+        "onboard_time": 1694256874,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415162,
+        "num": 273110,
+        "word": "虞书欣没忍住喊了张凌赫牛牛",
+        "onboard_time": 1694253273,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266624,
+        "num": 266624,
+        "word": "摩洛哥地震遇难人数升至820人",
+        "onboard_time": 1694253995,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545916,
+        "num": 258969,
+        "word": "管理余额宝10多年的基金经理离职了",
+        "onboard_time": 1694255374,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 365462,
+        "num": 255552,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240267,
+        "num": 240267,
+        "word": "女子身藏15条蛇4条蜈蚣1条蜥蜴入境",
+        "onboard_time": 1694252917,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213533,
+        "num": 213533,
+        "word": "Angelababy赫敏",
+        "onboard_time": 1694246137,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203919,
+        "num": 203919,
+        "word": "花了16w装出来的家",
+        "onboard_time": 1694250155,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200640,
+        "num": 200640,
+        "word": "大鹏开机前增肥20斤拍摄中减肥30斤",
+        "onboard_time": 1694256276,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199677,
+        "num": 199677,
+        "word": "国足首发",
+        "onboard_time": 1694257235,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198195,
+        "num": 198195,
+        "word": "国足vs马来西亚",
+        "onboard_time": 1694257294,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188503,
+        "num": 188503,
+        "word": "男子想和聋哑女友结婚领证被拒",
+        "onboard_time": 1694241512,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181548,
+        "num": 181548,
+        "word": "流浪猫的嫁妆",
+        "onboard_time": 1694255674,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180012,
+        "num": 180012,
+        "word": "詹姆斯暗示明年或将参加奥运会",
+        "onboard_time": 1694258912,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160304,
+        "num": 160304,
+        "word": "中考分流40%的孩子去哪了",
+        "onboard_time": 1694237676,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160262,
+        "num": 160262,
+        "word": "傅首尔 还是活在等妈妈来找的柜子里",
+        "onboard_time": 1694242775,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159742,
+        "num": 159742,
+        "word": "很喜欢去有风的地方这段表白",
+        "onboard_time": 1694250214,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159129,
+        "num": 159129,
+        "word": "KPL",
+        "onboard_time": 1694256276,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141767,
+        "num": 141767,
+        "word": "吃14块的早餐被骂了",
+        "onboard_time": 1694240498,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141051,
+        "num": 141051,
+        "word": "尔冬升推荐第八个嫌疑人",
+        "onboard_time": 1694257054,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117876,
+        "num": 117876,
+        "word": "王楠陪女儿练球老公一旁默默捡球",
+        "onboard_time": 1694257594,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116883,
+        "num": 116883,
+        "word": "你好星期六",
+        "onboard_time": 1694247756,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116727,
+        "num": 116727,
+        "word": "真的很像宋慧乔和韩素希的女儿",
+        "onboard_time": 1694235333,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116653,
+        "num": 116653,
+        "word": "于适好像还是有称王之心的",
+        "onboard_time": 1694256155,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115309,
+        "num": 115309,
+        "word": "一家店铺结婚整条街都休息了",
+        "onboard_time": 1694259035,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112428,
+        "num": 112428,
+        "word": "恋综都看不见这么多张嘴在一起",
+        "onboard_time": 1694248357,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112378,
+        "num": 112378,
+        "word": "摩洛哥地震为当地100多年来最强地震",
+        "onboard_time": 1694258494,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111854,
+        "num": 111854,
+        "word": "20部影像每一帧都是造梦家的心血",
+        "onboard_time": 1694259155,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111345,
+        "num": 111345,
+        "word": "中国赛陈雨菲无缘决赛",
+        "onboard_time": 1694255736,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111485,
+        "num": 111213,
+        "word": "邓为风度10月刊双封面",
+        "onboard_time": 1694240498,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109971,
+        "num": 109971,
+        "word": "王曼昱亚锦赛夺冠",
+        "onboard_time": 1694252313,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105344,
+        "num": 105344,
+        "word": "花66万买了套240平的梦中情房",
+        "onboard_time": 1694234613,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101585,
+        "num": 101585,
+        "word": "跑腿小哥是懂粉丝需求的",
+        "onboard_time": 1694259155,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创黑龙江高质量发展新局面#"
+    }
+  }
+}
