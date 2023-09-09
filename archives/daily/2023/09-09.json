@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694266430367,
+  "endTime": 1694268821450,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2817056,
-      "num": 353492,
+      "num": 582272,
       "word": "王俊凯 俊昇文化",
       "onboard_time": 1694258794,
       "rank": 12,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2771058,
-      "num": 353443,
+      "num": 612670,
       "word": "卡琳娜宣布暂停一切活动",
       "onboard_time": 1694263535,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2302001,
-      "num": 382781,
+      "num": 570363,
       "word": "高晓松 向太",
       "onboard_time": 1694252975,
       "rank": 10,
@@ -203,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1130523,
+      "num": 1130523,
+      "word": "你好星期六下期有三个剧组",
+      "onboard_time": 1694268520,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1030481,
       "num": 1030481,
       "word": "阿信演唱会吸氧",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 945511,
-      "num": 334063,
+      "num": 501825,
       "word": "28岁女生经期用按摩仪按腰致肾破裂",
       "onboard_time": 1694265037,
       "rank": 30,
@@ -281,6 +289,14 @@
       "onboard_time": 1694238335,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 842795,
+      "num": 842795,
+      "word": "马斯克和女高管所生双胞胎曝光",
+      "onboard_time": 1694266659,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 837281,
@@ -337,6 +353,14 @@
       "onboard_time": 1694261615,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777463,
+      "num": 777463,
+      "word": "华晨宇接受法师称号",
+      "onboard_time": 1694267318,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 775992,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674763,
+      "num": 674763,
+      "word": "摩洛哥地震遇难人数上升至1037人",
+      "onboard_time": 1694265336,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663798,
       "num": 663798,
       "word": "没唱玫瑰少年",
@@ -465,6 +497,14 @@
       "onboard_time": 1694185603,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651414,
+      "num": 651414,
+      "word": "李帅受伤",
+      "onboard_time": 1694266118,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 650848,
@@ -515,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613515,
+      "num": 613515,
+      "word": "肖战田雨20集终于见面了",
+      "onboard_time": 1694266718,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 602596,
       "num": 338310,
       "word": "肖战片场被白百何过肩摔",
@@ -529,14 +577,6 @@
       "onboard_time": 1694216667,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 589638,
-      "num": 589638,
-      "word": "摩洛哥地震遇难人数上升至1037人",
-      "onboard_time": 1694265336,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584505,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 572807,
-      "num": 333315,
+      "num": 368243,
       "word": "胡歌给女儿起名茉莉的原因",
       "onboard_time": 1694264857,
       "rank": 32,
@@ -675,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 505043,
+      "num": 505043,
+      "word": "国足1比1马来西亚",
+      "onboard_time": 1694267138,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500157,
       "num": 500157,
       "word": "人类人均每天仅花2.6小时用于经济活动",
@@ -769,6 +817,14 @@
       "onboard_time": 1694228371,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468304,
+      "num": 604371,
+      "word": "张桂梅不甘女孩们重复没选择的一生",
+      "onboard_time": 1694266780,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 467655,
@@ -883,6 +939,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 425622,
+      "num": 425622,
+      "word": "云姑娘 你尊嘟爱我吗",
+      "onboard_time": 1694266476,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419617,
       "num": 419617,
       "word": "梅德韦杰夫第五次进大满贯决赛",
@@ -905,14 +969,6 @@
       "onboard_time": 1694223211,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 402672,
-      "num": 336181,
-      "word": "李帅受伤",
-      "onboard_time": 1694266118,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 402522,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1694215044,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339154,
+      "num": 339154,
+      "word": "美一乘客腹泻不止致飞机舱内遍布粪便",
+      "onboard_time": 1694266598,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339099,
@@ -1219,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307657,
+      "num": 307657,
+      "word": "盛阳单飞了",
+      "onboard_time": 1694268279,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306203,
       "num": 306203,
       "word": "国足vs马来西亚",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1694214865,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288488,
+      "num": 288488,
+      "word": "重庆人在香港点的爆辣麻辣烫",
+      "onboard_time": 1694267079,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 284305,
@@ -1411,12 +1491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263108,
+      "num": 263108,
+      "word": "亿分之一的几率二胎妈妈诞下龙凤三胞胎",
+      "onboard_time": 1694268279,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261493,
       "num": 261493,
       "word": "吃14块的早餐被骂了",
       "onboard_time": 1694240498,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258532,
+      "num": 258532,
+      "word": "微信三件套可以看出很多东西",
+      "onboard_time": 1694268279,
+      "rank": 31,
+      "category": "情感,科技"
     },
     {
       "raw_hot": 256507,
@@ -1499,6 +1595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239317,
+      "num": 208503,
+      "word": "迪丽热巴红唇大片",
+      "onboard_time": 1694267138,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 239207,
       "num": 239207,
       "word": "成毅西装金丝眼镜半永久",
@@ -1579,6 +1683,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222981,
+      "num": 222981,
+      "word": "宫远徵被宫尚角凶哭了",
+      "onboard_time": 1694266118,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221315,
+      "num": 221315,
+      "word": "10年米粉换用iPhone是什么体验",
+      "onboard_time": 1694268218,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 220936,
       "num": 220936,
       "word": "德国男篮战胜美国男篮",
@@ -1643,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211918,
+      "num": 211918,
+      "word": "时光音乐会",
+      "onboard_time": 1694265998,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208859,
       "num": 208859,
       "word": "正畸能有多难受",
@@ -1659,20 +1787,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 206227,
-      "num": 202091,
-      "word": "宫远徵被宫尚角凶哭了",
-      "onboard_time": 1694266118,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205914,
       "num": 205914,
       "word": "原神",
       "onboard_time": 1694229394,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204878,
+      "num": 204878,
+      "word": "中国国奥vs印度国奥",
+      "onboard_time": 1694266896,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 204545,
@@ -1713,14 +1841,6 @@
       "onboard_time": 1694263058,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202095,
-      "num": 202095,
-      "word": "时光音乐会",
-      "onboard_time": 1694265998,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 200640,
@@ -1819,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193975,
+      "num": 590400,
+      "word": "白俄罗斯姑娘拯救了中国胃",
+      "onboard_time": 1694267377,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193387,
       "num": 193387,
       "word": "京都city walk",
@@ -1881,6 +2009,14 @@
       "onboard_time": 1694185844,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189020,
+      "num": 189020,
+      "word": "李彩演 Baggy Jeans Challenge",
+      "onboard_time": 1694267318,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 188757,
@@ -2667,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85027,
+      "num": 927880,
+      "word": "当亚运会遇上中华文化",
+      "onboard_time": 1694265275,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 81876,
       "num": 1265355,
       "word": "杭州亚运会总赛程最新版",
@@ -2721,14 +2865,6 @@
       "onboard_time": 1694204354,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53288,
-      "num": 892609,
-      "word": "当亚运会遇上中华文化",
-      "onboard_time": 1694265275,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 52310,
@@ -2841,6 +2977,14 @@
       "onboard_time": 1694205313,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25445,
+      "num": 584850,
+      "word": "老人晕倒路中间一群人从四面八方涌来",
+      "onboard_time": 1694268038,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24907,

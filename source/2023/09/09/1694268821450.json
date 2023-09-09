@@ -1,0 +1,410 @@
+{
+  "runTime": 1694268821450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1727540,
+        "num": 1727540,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 0,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 1130523,
+        "num": 1130523,
+        "word": "你好星期六下期有三个剧组",
+        "onboard_time": 1694268520,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85027,
+        "num": 927880,
+        "word": "当亚运会遇上中华文化",
+        "onboard_time": 1694265275,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 842795,
+        "num": 842795,
+        "word": "马斯克和女高管所生双胞胎曝光",
+        "onboard_time": 1694266659,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 777463,
+        "num": 777463,
+        "word": "华晨宇接受法师称号",
+        "onboard_time": 1694267318,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 724018,
+        "num": 724018,
+        "word": "成龙周杰伦 千里之外",
+        "onboard_time": 1694264557,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 681321,
+        "num": 681321,
+        "word": "王力宏演唱会",
+        "onboard_time": 1694263595,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 674763,
+        "num": 674763,
+        "word": "摩洛哥地震遇难人数上升至1037人",
+        "onboard_time": 1694265336,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651414,
+        "num": 651414,
+        "word": "李帅受伤",
+        "onboard_time": 1694266118,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613515,
+        "num": 613515,
+        "word": "肖战田雨20集终于见面了",
+        "onboard_time": 1694266718,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2481572,
+        "num": 612670,
+        "word": "卡琳娜宣布暂停一切活动",
+        "onboard_time": 1694263535,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 468304,
+        "num": 604371,
+        "word": "张桂梅不甘女孩们重复没选择的一生",
+        "onboard_time": 1694266780,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291605,
+        "num": 596659,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193975,
+        "num": 590400,
+        "word": "白俄罗斯姑娘拯救了中国胃",
+        "onboard_time": 1694267377,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25445,
+        "num": 584850,
+        "word": "老人晕倒路中间一群人从四面八方涌来",
+        "onboard_time": 1694268038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112386,
+        "num": 582272,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794610,
+        "num": 573621,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570363,
+        "num": 570363,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539049,
+        "num": 539049,
+        "word": "云之羽角浅徵开虐",
+        "onboard_time": 1694265516,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505043,
+        "num": 505043,
+        "word": "国足1比1马来西亚",
+        "onboard_time": 1694267138,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 883384,
+        "num": 501825,
+        "word": "28岁女生经期用按摩仪按腰致肾破裂",
+        "onboard_time": 1694265037,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467385,
+        "num": 467385,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425622,
+        "num": 425622,
+        "word": "云姑娘 你尊嘟爱我吗",
+        "onboard_time": 1694266476,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368243,
+        "num": 368243,
+        "word": "胡歌给女儿起名茉莉的原因",
+        "onboard_time": 1694264857,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339154,
+        "num": 339154,
+        "word": "美一乘客腹泻不止致飞机舱内遍布粪便",
+        "onboard_time": 1694266598,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330523,
+        "num": 330523,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307657,
+        "num": 307657,
+        "word": "盛阳单飞了",
+        "onboard_time": 1694268279,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288488,
+        "num": 288488,
+        "word": "重庆人在香港点的爆辣麻辣烫",
+        "onboard_time": 1694267079,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275083,
+        "num": 275083,
+        "word": "张凌赫去周杰伦演唱会了",
+        "onboard_time": 1694264135,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257667,
+        "num": 266750,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263108,
+        "num": 263108,
+        "word": "亿分之一的几率二胎妈妈诞下龙凤三胞胎",
+        "onboard_time": 1694268279,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258532,
+        "num": 258532,
+        "word": "微信三件套可以看出很多东西",
+        "onboard_time": 1694268279,
+        "rank": 31,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 257498,
+        "num": 257498,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234413,
+        "num": 234413,
+        "word": "虞书欣没忍住喊了张凌赫牛牛",
+        "onboard_time": 1694253273,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223933,
+        "num": 223933,
+        "word": "中级经济法",
+        "onboard_time": 1694259936,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222981,
+        "num": 222981,
+        "word": "宫远徵被宫尚角凶哭了",
+        "onboard_time": 1694266118,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222935,
+        "num": 222935,
+        "word": "陶喆 melody",
+        "onboard_time": 1694255253,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222547,
+        "num": 222547,
+        "word": "LWX问Doinb交钱了没",
+        "onboard_time": 1694264674,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221315,
+        "num": 221315,
+        "word": "10年米粉换用iPhone是什么体验",
+        "onboard_time": 1694268218,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211918,
+        "num": 211918,
+        "word": "时光音乐会",
+        "onboard_time": 1694265998,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239317,
+        "num": 208503,
+        "word": "迪丽热巴红唇大片",
+        "onboard_time": 1694267138,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204878,
+        "num": 204878,
+        "word": "中国国奥vs印度国奥",
+        "onboard_time": 1694266896,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198725,
+        "num": 198725,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190513,
+        "num": 190513,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 189020,
+        "num": 189020,
+        "word": "李彩演 Baggy Jeans Challenge",
+        "onboard_time": 1694267318,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185918,
+        "num": 185918,
+        "word": "Doinb吐槽LWX皮肤不好用",
+        "onboard_time": 1694265397,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175116,
+        "num": 175116,
+        "word": "断亲现象为何如此流行",
+        "onboard_time": 1694263958,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 172393,
+        "num": 172393,
+        "word": "国足开场10分钟丢球",
+        "onboard_time": 1694261374,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172165,
+        "num": 172165,
+        "word": "安崎淘汰",
+        "onboard_time": 1694260959,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169063,
+        "num": 169063,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创黑龙江高质量发展新局面#"
+    }
+  }
+}
