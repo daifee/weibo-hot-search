@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694225973566,
+  "endTime": 1694226853686,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -19,19 +19,19 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1774620,
+      "num": 1091219,
+      "word": "保洁扔限量鞋被索赔后自杀身亡",
+      "onboard_time": 1694222913,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1746730,
       "num": 1746730,
       "word": "公职人员理发不满意举报店家偷税漏税",
       "onboard_time": 1694214201,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1519118,
-      "num": 1091219,
-      "word": "保洁扔限量鞋被索赔后自杀身亡",
-      "onboard_time": 1694222913,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834598,
+      "num": 637243,
+      "word": "李在明已绝食抗议9天",
+      "onboard_time": 1694187279,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798949,
       "num": 349531,
       "word": "旅日游客称不介意福岛鱼",
@@ -89,6 +97,14 @@
       "onboard_time": 1694168554,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 756503,
+      "num": 445466,
+      "word": "女婴输液后尖叫昏迷成脑萎缩",
+      "onboard_time": 1694225492,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718122,
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 637243,
-      "num": 637243,
-      "word": "李在明已绝食抗议9天",
-      "onboard_time": 1694187279,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 590273,
       "num": 590273,
       "word": "杰威尔否认周杰伦受伤",
@@ -155,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518242,
+      "num": 518242,
+      "word": "他抱着浅浅像抱柔弱的小猫",
+      "onboard_time": 1694224954,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 513958,
       "num": 513958,
       "word": "金泰亨销量违反规定",
@@ -169,6 +185,14 @@
       "onboard_time": 1694216067,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 497127,
+      "num": 497127,
+      "word": "吴倩新剧演复仇女主",
+      "onboard_time": 1694225794,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 493430,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 434474,
-      "num": 352222,
+      "num": 384148,
       "word": "警方回应女子遭夫妇殴打后自杀",
       "onboard_time": 1694222555,
       "rank": 36,
@@ -257,14 +281,6 @@
       "onboard_time": 1694217866,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 377542,
-      "num": 352212,
-      "word": "他抱着浅浅像抱柔弱的小猫",
-      "onboard_time": 1694224954,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 371815,
@@ -337,6 +353,22 @@
       "onboard_time": 1694186440,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325337,
+      "num": 325337,
+      "word": "久哲问付辛博和谁一起出道",
+      "onboard_time": 1694226034,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319728,
+      "num": 319728,
+      "word": "美政府首度回应华为技术突破",
+      "onboard_time": 1694226332,
+      "rank": 17,
+      "category": "国外要闻,科技"
     },
     {
       "raw_hot": 314569,
@@ -419,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277591,
-      "num": 202792,
-      "word": "女婴输液后尖叫昏迷成脑萎缩",
-      "onboard_time": 1694225492,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275862,
       "num": 223716,
       "word": "被寄养一个月的猫咪骂了",
@@ -441,14 +465,6 @@
       "onboard_time": 1694214802,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260631,
-      "num": 260631,
-      "word": "吴倩新剧演复仇女主",
-      "onboard_time": 1694225794,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 246326,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 237746,
-      "num": 325492,
+      "num": 330865,
       "word": "只有自己一人如何用海姆立克法自救",
       "onboard_time": 1694215528,
       "rank": 31,
@@ -507,6 +523,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212607,
+      "num": 212607,
+      "word": "你好大口气敢威胁如妃",
+      "onboard_time": 1694226394,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207274,
+      "num": 203596,
+      "word": "樊振东林高远男双晋级决赛",
+      "onboard_time": 1694226155,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 204545,
       "num": 204545,
       "word": "林俊杰广州演唱会",
@@ -531,12 +563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197074,
+      "num": 197074,
+      "word": "第八个嫌疑人",
+      "onboard_time": 1694225613,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196975,
       "num": 196975,
       "word": "吴克群练肌肉是为了治腰间盘突出",
       "onboard_time": 1694225613,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193387,
+      "num": 193387,
+      "word": "京都city walk",
+      "onboard_time": 1694226394,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 189089,
@@ -595,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176882,
+      "num": 353018,
+      "word": "摩洛哥地震已致31人遇难",
+      "onboard_time": 1694225553,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174594,
       "num": 174594,
       "word": "五月天西安",
@@ -611,12 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171152,
-      "num": 171152,
-      "word": "第八个嫌疑人",
-      "onboard_time": 1694225613,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 170628,
+      "num": 170628,
+      "word": "中级会计",
+      "onboard_time": 1694226274,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 166616,
@@ -683,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154976,
-      "num": 154976,
-      "word": "摩洛哥地震已致31人遇难",
-      "onboard_time": 1694225553,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150300,
       "num": 150300,
       "word": "刘恋MVP",
@@ -707,12 +755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147051,
+      "num": 147051,
+      "word": "原来小说里的VIP病房是真的",
+      "onboard_time": 1694226812,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143226,
       "num": 143226,
       "word": "乌尔善拉片",
       "onboard_time": 1694190031,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143072,
+      "num": 143072,
+      "word": "巴西vs玻利维亚",
+      "onboard_time": 1694226090,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 142267,
@@ -995,6 +1059,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 31087,
+      "num": 168380,
+      "word": "张朝阳讲奥本海默",
+      "onboard_time": 1694224831,
+      "rank": 39,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 28758,
       "num": 36100,
       "word": "从广州亚运到杭州亚运",
@@ -1025,14 +1097,6 @@
       "onboard_time": 1694203514,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20034,
-      "num": 163153,
-      "word": "张朝阳讲奥本海默",
-      "onboard_time": 1694224831,
-      "rank": 39,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 10296,
