@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694284429473,
+  "endTime": 1694286779884,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -521,6 +521,14 @@
       "onboard_time": 1694284396,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30050,
+      "num": 30050,
+      "word": "云为衫雾姬夫人联手设计宫尚角",
+      "onboard_time": 1694264377,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
