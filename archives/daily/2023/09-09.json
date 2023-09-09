@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694270024203,
+  "endTime": 1694272520658,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1223346,
+      "num": 424129,
+      "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
+      "onboard_time": 1694270559,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218145,
       "num": 403975,
       "word": "白鹿原白灵饰演者近照",
@@ -305,6 +313,14 @@
       "onboard_time": 1694238335,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 841917,
+      "num": 841917,
+      "word": "10年米粉换用iPhone是什么体验",
+      "onboard_time": 1694268218,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 837281,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676931,
+      "num": 389320,
+      "word": "微信三件套可以看出很多东西",
+      "onboard_time": 1694268279,
+      "rank": 31,
+      "category": "情感,科技"
+    },
+    {
       "raw_hot": 674763,
       "num": 674763,
       "word": "摩洛哥地震遇难人数上升至1037人",
@@ -561,14 +585,6 @@
       "onboard_time": 1694253273,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 623069,
-      "num": 389320,
-      "word": "微信三件套可以看出很多东西",
-      "onboard_time": 1694268279,
-      "rank": 31,
-      "category": "情感,科技"
     },
     {
       "raw_hot": 613515,
@@ -723,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 509353,
+      "num": 509353,
+      "word": "李荣浩演唱会后台收到100个烧饼夹里脊",
+      "onboard_time": 1694271760,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 506186,
       "num": 506186,
       "word": "周琦 手术",
@@ -859,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 463798,
+      "num": 396195,
+      "word": "陈建州范玮琪看王力宏演唱会",
+      "onboard_time": 1694270321,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 462507,
       "num": 462507,
       "word": "11.4万人都知道盛阳失业了",
@@ -889,14 +921,6 @@
       "onboard_time": 1694235757,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442551,
-      "num": 389043,
-      "word": "10年米粉换用iPhone是什么体验",
-      "onboard_time": 1694268218,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 442243,
@@ -1011,12 +1035,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 387248,
+      "num": 387248,
+      "word": "张凌赫雨中追星成功",
+      "onboard_time": 1694270559,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385140,
       "num": 247990,
       "word": "用了一天伞发现头顶有只死虾",
       "onboard_time": 1694217866,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 374333,
+      "num": 374333,
+      "word": "杨千嬅演唱会官宣重庆武汉",
+      "onboard_time": 1694271820,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 373897,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1694226034,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319285,
+      "num": 319285,
+      "word": "2PM演唱会",
+      "onboard_time": 1694271460,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 317125,
@@ -1555,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256160,
+      "num": 256160,
+      "word": "邓紫棋现在可以笑着唱句号了",
+      "onboard_time": 1694271940,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252866,
       "num": 252866,
       "word": "Doinb吐槽LWX皮肤不好用",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1694257235,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216508,
+      "num": 216508,
+      "word": "蔡依林郑州演唱会",
+      "onboard_time": 1694271400,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 214889,
@@ -2160,6 +2224,14 @@
       "word": "摩洛哥地震已致31人遇难",
       "onboard_time": 1694225553,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176704,
+      "num": 176704,
+      "word": "被照顾近5年的植物人丈夫能站了",
+      "onboard_time": 1694270862,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2891,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60943,
+      "num": 1074725,
+      "word": "夜西湖点燃亚运之夜",
+      "onboard_time": 1694265158,
+      "rank": 44,
+      "category": "旅游,体育"
+    },
+    {
       "raw_hot": 58273,
       "num": 49565,
       "word": "Ella爸爸和爷爷撞脸任贤齐",
@@ -2937,14 +3017,6 @@
       "onboard_time": 1694227831,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38664,
-      "num": 1074725,
-      "word": "夜西湖点燃亚运之夜",
-      "onboard_time": 1694265158,
-      "rank": 44,
-      "category": "旅游,体育"
     },
     {
       "raw_hot": 38452,
