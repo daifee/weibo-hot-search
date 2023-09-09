@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694279611202,
+  "endTime": 1694280832712,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -67,6 +67,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 590293,
+      "num": 246875,
+      "word": "任正非2019年称两三年后可再看华为在不在",
+      "onboard_time": 1694277090,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 552477,
       "num": 552477,
       "word": "王俊凯 俊昇文化",
@@ -113,14 +121,6 @@
       "onboard_time": 1694268218,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 425812,
-      "num": 246875,
-      "word": "任正非2019年称两三年后可再看华为在不在",
-      "onboard_time": 1694277090,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 409950,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182587,
+      "num": 162675,
+      "word": "世界上最痛苦的两件事 有工作和没工作",
+      "onboard_time": 1694278349,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172578,
       "num": 172578,
       "word": "凤凰传奇现场",
@@ -331,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162675,
-      "num": 162675,
-      "word": "世界上最痛苦的两件事 有工作和没工作",
-      "onboard_time": 1694278349,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162092,
       "num": 463765,
       "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
@@ -353,6 +353,14 @@
       "onboard_time": 1694271460,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154538,
+      "num": 154538,
+      "word": "身材焦虑的时候听听泰勒说的吧",
+      "onboard_time": 1694279185,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 154490,
@@ -419,14 +427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 106761,
-      "num": 106761,
-      "word": "身材焦虑的时候听听泰勒说的吧",
-      "onboard_time": 1694279185,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102482,
       "num": 460570,
       "word": "张桂梅不甘女孩们重复没选择的一生",
@@ -456,6 +456,30 @@
       "word": "王力宏演唱会",
       "onboard_time": 1694263595,
       "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 77954,
+      "num": 77954,
+      "word": "成龙周杰伦 千里之外",
+      "onboard_time": 1694264557,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 76864,
+      "num": 76864,
+      "word": "wbg周冠",
+      "onboard_time": 1694280683,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 73797,
+      "num": 73797,
+      "word": "虞书欣 THE9演唱你会来吗",
+      "onboard_time": 1694251175,
+      "rank": 49,
       "category": "音乐"
     },
     {
