@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694286779884,
+  "endTime": 1694288035632,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -24321,6 +24321,14 @@
       "onboard_time": 1694203514,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23811,
+      "num": 23811,
+      "word": "天气真好 晒晒浅浅",
+      "onboard_time": 1694287696,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 23796,
