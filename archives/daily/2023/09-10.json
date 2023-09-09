@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694290564168,
+  "endTime": 1694291623628,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -523,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30187,
+      "num": 27816,
+      "word": "试吃最近超火的红魔虾",
+      "onboard_time": 1694288655,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30050,
       "num": 30050,
       "word": "云为衫雾姬夫人联手设计宫尚角",
@@ -531,12 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26773,
-      "num": 26773,
-      "word": "试吃最近超火的红魔虾",
-      "onboard_time": 1694288655,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 27258,
+      "num": 27258,
+      "word": "能把猫训出来是怎么做到的",
+      "onboard_time": 1694288593,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 23811,
@@ -545,14 +553,6 @@
       "onboard_time": 1694287696,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22399,
-      "num": 22399,
-      "word": "能把猫训出来是怎么做到的",
-      "onboard_time": 1694288593,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 21799,

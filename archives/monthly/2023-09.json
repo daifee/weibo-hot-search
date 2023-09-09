@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694290564168,
+  "endTime": 1694291623628,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -24131,6 +24131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30187,
+      "num": 27816,
+      "word": "试吃最近超火的红魔虾",
+      "onboard_time": 1694288655,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30014,
       "num": 30014,
       "word": "当事人回应怒砸10杯酱香拿铁",
@@ -24227,20 +24235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27258,
+      "num": 27258,
+      "word": "能把猫训出来是怎么做到的",
+      "onboard_time": 1694288593,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26776,
       "num": 26776,
       "word": "当表情包被AI重置五次后",
       "onboard_time": 1693767496,
       "rank": 45,
       "category": "情感,科技"
-    },
-    {
-      "raw_hot": 26773,
-      "num": 26773,
-      "word": "试吃最近超火的红魔虾",
-      "onboard_time": 1694288655,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 26770,
@@ -24377,14 +24385,6 @@
       "onboard_time": 1693506077,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22399,
-      "num": 22399,
-      "word": "能把猫训出来是怎么做到的",
-      "onboard_time": 1694288593,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 21799,
