@@ -1,0 +1,410 @@
+{
+  "runTime": 1694241241427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 792528,
+        "num": 792528,
+        "word": "偷票房 到底是谁偷了谁",
+        "onboard_time": 1694235696,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581021,
+        "num": 581021,
+        "word": "仅有14人住的中国海岛",
+        "onboard_time": 1694238335,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 49739,
+        "num": 569582,
+        "word": "杭州亚运会总赛程最新版",
+        "onboard_time": 1694228013,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 795623,
+        "num": 568707,
+        "word": "中考分流40%的孩子去哪了",
+        "onboard_time": 1694237676,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 566914,
+        "num": 566914,
+        "word": "PPT发明者去世",
+        "onboard_time": 1694240199,
+        "rank": 4,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 486256,
+        "num": 486256,
+        "word": "人类人均每天仅花2.6小时用于经济活动",
+        "onboard_time": 1694237857,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 484083,
+        "num": 484083,
+        "word": "邓为风度10月刊双封面",
+        "onboard_time": 1694240498,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356111,
+        "num": 356111,
+        "word": "女婴输液后尖叫昏迷成脑萎缩",
+        "onboard_time": 1694225492,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261901,
+        "num": 355953,
+        "word": "王俊凯 巴黎时装周",
+        "onboard_time": 1694237256,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199906,
+        "num": 355595,
+        "word": "成毅张予曦南风知我意双人海报",
+        "onboard_time": 1694234495,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2449797,
+        "num": 354905,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1703045,
+        "num": 354613,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 159844,
+        "num": 354237,
+        "word": "折断兵马俑手指的美国男子向中国道歉",
+        "onboard_time": 1694228251,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139795,
+        "num": 353895,
+        "word": "00后交警上班了",
+        "onboard_time": 1694224293,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136395,
+        "num": 353153,
+        "word": "逃出大英博物馆的隐藏彩蛋",
+        "onboard_time": 1694234436,
+        "rank": 14,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 1106945,
+        "num": 352759,
+        "word": "爱吃海底捞的有福了",
+        "onboard_time": 1694236474,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 742264,
+        "num": 352562,
+        "word": "高考时被关禁闭网红狗去世",
+        "onboard_time": 1694239897,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570092,
+        "num": 351817,
+        "word": "真的很像宋慧乔和韩素希的女儿",
+        "onboard_time": 1694235333,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462545,
+        "num": 351301,
+        "word": "费翔李冰冰郑秀晶 中世纪贵族即视感",
+        "onboard_time": 1694240254,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 373640,
+        "num": 351072,
+        "word": "北京600平的大别墅",
+        "onboard_time": 1694238456,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385288,
+        "num": 350569,
+        "word": "花66万买了套240平的梦中情房",
+        "onboard_time": 1694234613,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350400,
+        "num": 350400,
+        "word": "你们周六休息的简直要亏死了",
+        "onboard_time": 1694231732,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333869,
+        "num": 333869,
+        "word": "保洁扔限量鞋被索赔后自杀身亡",
+        "onboard_time": 1694222913,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262770,
+        "num": 262770,
+        "word": "刚出生4天的柴犬宝宝",
+        "onboard_time": 1694236115,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226701,
+        "num": 226701,
+        "word": "吃14块的早餐被骂了",
+        "onboard_time": 1694240498,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222910,
+        "num": 222910,
+        "word": "白鹿原白灵饰演者近照",
+        "onboard_time": 1694232633,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218116,
+        "num": 218116,
+        "word": "古剑奇谭后乔振宇又演反派了",
+        "onboard_time": 1694230651,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202743,
+        "num": 202743,
+        "word": "云为衫宫子羽郑南衣大婚现场",
+        "onboard_time": 1694239296,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194590,
+        "num": 194590,
+        "word": "老师听课中发现一个流泪的男孩",
+        "onboard_time": 1694238817,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 193940,
+        "num": 193940,
+        "word": "上官浅把宫尚角整不会了",
+        "onboard_time": 1694235634,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187615,
+        "num": 187615,
+        "word": "胡歌重回母校上戏",
+        "onboard_time": 1694240136,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177406,
+        "num": 177406,
+        "word": "老番茄婚礼Vlog",
+        "onboard_time": 1694238635,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173136,
+        "num": 173136,
+        "word": "为什么摘掉眼镜后听力变差了",
+        "onboard_time": 1694231311,
+        "rank": 32,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 168760,
+        "num": 168760,
+        "word": "李佳航海陆还珠格格12年后再搭新剧",
+        "onboard_time": 1694234074,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168145,
+        "num": 168145,
+        "word": "虞书欣在剧组打几份工啊",
+        "onboard_time": 1694235757,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165484,
+        "num": 166559,
+        "word": "李咏女儿法图麦时装周首秀",
+        "onboard_time": 1694227353,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 166304,
+        "num": 166304,
+        "word": "纪念毛泽东同志逝世47周年",
+        "onboard_time": 1694230891,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164787,
+        "num": 164787,
+        "word": "孙怡费翔时装周同框",
+        "onboard_time": 1694240498,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156534,
+        "num": 156534,
+        "word": "5个动作缓解久坐腰酸",
+        "onboard_time": 1694241035,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153686,
+        "num": 153686,
+        "word": "金晨深V黑色镶钻裙",
+        "onboard_time": 1694239419,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150170,
+        "num": 150170,
+        "word": "美政府首度回应华为技术突破",
+        "onboard_time": 1694226332,
+        "rank": 40,
+        "category": "国外要闻,科技"
+      },
+      {
+        "raw_hot": 146345,
+        "num": 146345,
+        "word": "教到了小学时最好的朋友的女儿",
+        "onboard_time": 1694234495,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138135,
+        "num": 138135,
+        "word": "肖战新剧这火憋不住了",
+        "onboard_time": 1694221652,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125939,
+        "num": 125939,
+        "word": "00后排队体验养老设施",
+        "onboard_time": 1694239475,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124942,
+        "num": 124942,
+        "word": "消失的痕迹",
+        "onboard_time": 1694238635,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121818,
+        "num": 121818,
+        "word": "为什么方便面不做成这样",
+        "onboard_time": 1694231132,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119131,
+        "num": 119131,
+        "word": "大熊猫园润新生崽崽怼脸照",
+        "onboard_time": 1694240615,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118970,
+        "num": 118970,
+        "word": "天秤座小事犹豫大事坚定",
+        "onboard_time": 1694240855,
+        "rank": 47,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 117408,
+        "num": 117408,
+        "word": "荷兰光刻机巨头说我们太自以为是了",
+        "onboard_time": 1694241215,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111020,
+        "num": 111020,
+        "word": "怎么跳个舞还需要证明我是人大的",
+        "onboard_time": 1694236235,
+        "rank": 49,
+        "category": "情感,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为龙江发展指明方向#"
+    }
+  }
+}
