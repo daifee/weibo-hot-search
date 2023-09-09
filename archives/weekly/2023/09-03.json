@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694265441623,
+  "endTime": 1694266430367,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -177,6 +177,14 @@
       "onboard_time": 1694002896,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2771058,
+      "num": 353443,
+      "word": "卡琳娜宣布暂停一切活动",
+      "onboard_time": 1694263535,
+      "rank": 10,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 2757911,
@@ -393,14 +401,6 @@
       "onboard_time": 1694047118,
       "rank": 10,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 2306968,
-      "num": 350543,
-      "word": "卡琳娜宣布暂停一切活动",
-      "onboard_time": 1694263535,
-      "rank": 10,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 2302001,
@@ -1595,6 +1595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1172742,
+      "num": 1172742,
+      "word": "成龙周杰伦 千里之外",
+      "onboard_time": 1694264557,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1165866,
       "num": 1165866,
       "word": "白宫回应华为新手机",
@@ -2163,6 +2171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 945511,
+      "num": 334063,
+      "word": "28岁女生经期用按摩仪按腰致肾破裂",
+      "onboard_time": 1694265037,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944775,
       "num": 944775,
       "word": "滕州高铁站跳轨男子已被送医",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1694215947,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 887206,
-      "num": 887206,
-      "word": "成龙周杰伦 千里之外",
-      "onboard_time": 1694264557,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 883540,
@@ -2667,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812594,
+      "num": 812594,
+      "word": "王力宏演唱会",
+      "onboard_time": 1694263595,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 811888,
       "num": 811888,
       "word": "女子称买1公斤软糖花了161元",
@@ -2899,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777753,
+      "num": 777753,
+      "word": "胡锡进 四川工商学院的声明是一种悲哀",
+      "onboard_time": 1694261615,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777250,
       "num": 777250,
       "word": "fx十四周年",
@@ -2921,14 +2945,6 @@
       "onboard_time": 1694164115,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 774029,
-      "num": 774029,
-      "word": "胡锡进 四川工商学院的声明是一种悲哀",
-      "onboard_time": 1694261615,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 772012,
@@ -3129,14 +3145,6 @@
       "onboard_time": 1693970615,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 741246,
-      "num": 741246,
-      "word": "王力宏演唱会",
-      "onboard_time": 1694263595,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 738568,
@@ -3955,6 +3963,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 647808,
+      "num": 647808,
+      "word": "云之羽角浅徵开虐",
+      "onboard_time": 1694265516,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647610,
       "num": 446770,
       "word": "19岁姑娘常熬夜确诊甲状腺癌",
@@ -4491,6 +4507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 589638,
+      "num": 589638,
+      "word": "摩洛哥地震遇难人数上升至1037人",
+      "onboard_time": 1694265336,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588924,
       "num": 588924,
       "word": "邓紫棋说我是歌手已经是十年前了",
@@ -4625,6 +4649,14 @@
       "onboard_time": 1693960418,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 572807,
+      "num": 333315,
+      "word": "胡歌给女儿起名茉莉的原因",
+      "onboard_time": 1694264857,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 572423,
@@ -7099,6 +7131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 402672,
+      "num": 336181,
+      "word": "李帅受伤",
+      "onboard_time": 1694266118,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401961,
       "num": 401961,
       "word": "李亚男的画",
@@ -8307,6 +8347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332409,
+      "num": 332409,
+      "word": "LWX问Doinb交钱了没",
+      "onboard_time": 1694264674,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331240,
       "num": 331240,
       "word": "樊振东林高远夺冠",
@@ -8369,14 +8417,6 @@
       "onboard_time": 1694057017,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 329738,
-      "num": 251282,
-      "word": "28岁女生经期用按摩仪按腰致肾破裂",
-      "onboard_time": 1694265037,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329544,
@@ -10139,14 +10179,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 271353,
-      "num": 249413,
-      "word": "LWX问Doinb交钱了没",
-      "onboard_time": 1694264674,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 270870,
       "num": 270870,
       "word": "薛之谦多来东北好不好",
@@ -10699,6 +10731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252866,
+      "num": 252866,
+      "word": "Doinb吐槽LWX皮肤不好用",
+      "onboard_time": 1694265397,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252752,
       "num": 197082,
       "word": "周杰伦灵魂粉",
@@ -10881,14 +10921,6 @@
       "onboard_time": 1693920821,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247093,
-      "num": 247093,
-      "word": "胡歌给女儿起名茉莉的原因",
-      "onboard_time": 1694264857,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 246856,
@@ -12659,6 +12691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206227,
+      "num": 202091,
+      "word": "宫远徵被宫尚角凶哭了",
+      "onboard_time": 1694266118,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206063,
       "num": 206063,
       "word": "盛阳胖揍公司领导",
@@ -12945,6 +12985,14 @@
       "onboard_time": 1693881035,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202095,
+      "num": 202095,
+      "word": "时光音乐会",
+      "onboard_time": 1693978894,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 202064,
@@ -14347,14 +14395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181774,
-      "num": 181774,
-      "word": "摩洛哥地震遇难人数上升至1037人",
-      "onboard_time": 1694265336,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181548,
       "num": 181548,
       "word": "流浪猫的嫁妆",
@@ -15067,14 +15107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165511,
-      "num": 165511,
-      "word": "时光音乐会",
-      "onboard_time": 1693978894,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165507,
       "num": 165507,
       "word": "清融去看林俊杰演唱会了",
@@ -15097,14 +15129,6 @@
       "onboard_time": 1694228612,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 164994,
-      "num": 164994,
-      "word": "Doinb吐槽LWX皮肤不好用",
-      "onboard_time": 1694265397,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 164985,
@@ -15643,20 +15667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153138,
+      "num": 202062,
+      "word": "成年后的我宴请了小时候的自己",
+      "onboard_time": 1694262695,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153056,
       "num": 153056,
       "word": "地球属于e人 而互联网属于i人",
       "onboard_time": 1693816717,
       "rank": 47,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 152763,
-      "num": 152763,
-      "word": "成年后的我宴请了小时候的自己",
-      "onboard_time": 1694262695,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 152407,
@@ -17795,6 +17819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53288,
+      "num": 892609,
+      "word": "当亚运会遇上中华文化",
+      "onboard_time": 1694265275,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 52310,
+      "num": 346147,
+      "word": "大学生用自制起重机花式表白老师",
+      "onboard_time": 1694264437,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52290,
       "num": 350489,
       "word": "外卖小哥接力帮市民穿过汹涌水流",
@@ -18179,14 +18219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30953,
-      "num": 346147,
-      "word": "大学生用自制起重机花式表白老师",
-      "onboard_time": 1694264437,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30014,
       "num": 30014,
       "word": "当事人回应怒砸10杯酱香拿铁",
@@ -18489,14 +18521,6 @@
       "onboard_time": 1693812153,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10624,
-      "num": 803639,
-      "word": "当亚运会遇上中华文化",
-      "onboard_time": 1694265275,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 8383,
