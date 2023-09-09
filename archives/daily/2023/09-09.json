@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694244814275,
+  "endTime": 1694247542066,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -67,6 +67,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1495812,
+      "num": 1495812,
+      "word": "男子想和聋哑女友结婚领证被拒",
+      "onboard_time": 1694241512,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1428501,
+      "num": 347466,
+      "word": "卡琳娜 仲尼",
+      "onboard_time": 1694246495,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1344761,
       "num": 637243,
       "word": "李在明已绝食抗议9天",
@@ -81,6 +97,14 @@
       "onboard_time": 1694235333,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1308961,
+      "num": 654996,
+      "word": "Angelababy赫敏",
+      "onboard_time": 1694246137,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1274224,
@@ -105,14 +129,6 @@
       "onboard_time": 1694232633,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1136911,
-      "num": 1136911,
-      "word": "男子想和聋哑女友结婚领证被拒",
-      "onboard_time": 1694241512,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1030481,
@@ -283,8 +299,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 677717,
-      "num": 677717,
+      "raw_hot": 680561,
+      "num": 680561,
       "word": "荷兰光刻机巨头说我们太自以为是了",
       "onboard_time": 1694241215,
       "rank": 48,
@@ -313,6 +329,14 @@
       "onboard_time": 1694185603,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651133,
+      "num": 651133,
+      "word": "透明版iPhone",
+      "onboard_time": 1694244094,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 633855,
@@ -379,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529886,
+      "num": 529886,
+      "word": "中级财管",
+      "onboard_time": 1694245415,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 518947,
       "num": 518947,
       "word": "费翔李冰冰郑秀晶 中世纪贵族即视感",
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 516655,
-      "num": 311502,
+      "num": 342456,
       "word": "傅首尔 还是活在等妈妈来找的柜子里",
       "onboard_time": 1694242775,
       "rank": 20,
@@ -472,6 +504,14 @@
       "word": "女子误将吐槽语音发家长群太社死",
       "onboard_time": 1694229032,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477838,
+      "num": 347127,
+      "word": "13岁女孩身高超170被确诊天才病",
+      "onboard_time": 1694245473,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -635,6 +675,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347966,
+      "num": 347003,
+      "word": "刘宪华在马伯骞旁边都显得内向了",
+      "onboard_time": 1694247515,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347530,
+      "num": 347530,
+      "word": "张小斐 我总能走出条路来",
+      "onboard_time": 1694244875,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347120,
       "num": 347120,
       "word": "上官浅把宫尚角整不会了",
@@ -763,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314987,
+      "num": 314987,
+      "word": "于适上hi6是出道后综艺首秀",
+      "onboard_time": 1694247456,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314569,
       "num": 233333,
       "word": "有没有不上班但饿不死的方法",
@@ -833,14 +897,6 @@
       "onboard_time": 1694221472,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293926,
-      "num": 293926,
-      "word": "透明版iPhone",
-      "onboard_time": 1694244094,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 291597,
@@ -929,6 +985,14 @@
       "onboard_time": 1694214802,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267312,
+      "num": 267312,
+      "word": "戚薇走路都像在走T台",
+      "onboard_time": 1694245356,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264336,
@@ -1059,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220882,
+      "num": 465884,
+      "word": "你会选择实习生窗口吗",
+      "onboard_time": 1694241815,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 217937,
       "num": 179621,
       "word": "王一博香菜绿席卷武汉",
@@ -1089,14 +1161,6 @@
       "onboard_time": 1694226394,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209935,
-      "num": 465884,
-      "word": "你会选择实习生窗口吗",
-      "onboard_time": 1694241815,
-      "rank": 14,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 207274,
@@ -1211,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192205,
+      "num": 192205,
+      "word": "明天教师节",
+      "onboard_time": 1694246616,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 191668,
       "num": 191668,
       "word": "林高远王艺迪亚锦赛混双夺冠",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1694227232,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185538,
+      "num": 185538,
+      "word": "三贵情史今日上映",
+      "onboard_time": 1694246854,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 184483,
@@ -1459,6 +1539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152187,
+      "num": 152187,
+      "word": "模范老师没有固定的答案",
+      "onboard_time": 1694246137,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150300,
       "num": 150300,
       "word": "刘恋MVP",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1694241398,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147402,
+      "num": 147402,
+      "word": "云为衫绿玉侍卫",
+      "onboard_time": 1694246854,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 143226,
@@ -1667,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120076,
+      "num": 120076,
+      "word": "好6团全员花式吃瓜",
+      "onboard_time": 1694247456,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119856,
       "num": 119856,
       "word": "胡夏清唱主题曲",
@@ -1696,6 +1800,22 @@
       "word": "不虚此行",
       "onboard_time": 1694188477,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 115802,
+      "num": 115802,
+      "word": "戚薇反季节穿搭",
+      "onboard_time": 1694246433,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115385,
+      "num": 115385,
+      "word": "角浅徵花絮原来是个连续剧",
+      "onboard_time": 1694246376,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1763,6 +1883,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90087,
+      "num": 483184,
+      "word": "遥遥领先X5",
+      "onboard_time": 1694243557,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 89906,
+      "num": 347237,
+      "word": "警察夫妻度蜜月抓了个嫌疑犯",
+      "onboard_time": 1694246433,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88948,
       "num": 431925,
       "word": "男生唱万疆戏腔一起听取哇声一片",
@@ -1801,14 +1937,6 @@
       "onboard_time": 1694194223,
       "rank": 48,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 61618,
-      "num": 483184,
-      "word": "遥遥领先X5",
-      "onboard_time": 1694243557,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 61107,
