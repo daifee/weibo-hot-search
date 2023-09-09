@@ -1,0 +1,410 @@
+{
+  "runTime": 1694225973566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720983,
+        "num": 1720983,
+        "word": "周五正式确认为蔡国庆",
+        "onboard_time": 1694219191,
+        "rank": 0,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1241989,
+        "num": 1241989,
+        "word": "教师妻子听说丈夫给学生捐骨髓当场同意",
+        "onboard_time": 1694221893,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50103,
+        "num": 934643,
+        "word": "来杭州看看梦里江南的模样",
+        "onboard_time": 1694179416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1519118,
+        "num": 847764,
+        "word": "保洁扔限量鞋被索赔后自杀身亡",
+        "onboard_time": 1694222913,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723697,
+        "num": 723697,
+        "word": "公职人员理发不满意举报店家偷税漏税",
+        "onboard_time": 1694214201,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701043,
+        "num": 701043,
+        "word": "井胧回应被海陆戳鼻孔",
+        "onboard_time": 1694223574,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637243,
+        "num": 637243,
+        "word": "李在明已绝食抗议9天",
+        "onboard_time": 1694187279,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 475668,
+        "num": 475668,
+        "word": "00后交警上班了",
+        "onboard_time": 1694224293,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467655,
+        "num": 467655,
+        "word": "广东香港世纪暴雨台风只是表层原因",
+        "onboard_time": 1694222071,
+        "rank": 8,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 352554,
+        "num": 352554,
+        "word": "男子河边用钢筋磨针坚持2000多天",
+        "onboard_time": 1694215225,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423567,
+        "num": 352222,
+        "word": "警方回应女子遭夫妇殴打后自杀",
+        "onboard_time": 1694222555,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377542,
+        "num": 352212,
+        "word": "他抱着浅浅像抱柔弱的小猫",
+        "onboard_time": 1694224954,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351740,
+        "num": 351740,
+        "word": "周杰伦演唱会受伤",
+        "onboard_time": 1694183017,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187910,
+        "num": 325492,
+        "word": "只有自己一人如何用海姆立克法自救",
+        "onboard_time": 1694215528,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142370,
+        "num": 319405,
+        "word": "摩洛哥6.9级地震",
+        "onboard_time": 1694214382,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314960,
+        "num": 314960,
+        "word": "大学生贷款参加就业培训后自缢身亡",
+        "onboard_time": 1694187761,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283740,
+        "num": 283740,
+        "word": "九义人定档",
+        "onboard_time": 1694224591,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340173,
+        "num": 283219,
+        "word": "周杰伦演唱会开场话筒没声音",
+        "onboard_time": 1694224893,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279235,
+        "num": 279235,
+        "word": "黄晓明被张小斐感动落泪",
+        "onboard_time": 1694219971,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260631,
+        "num": 260631,
+        "word": "吴倩新剧演复仇女主",
+        "onboard_time": 1694225794,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490745,
+        "num": 257461,
+        "word": "肖战新剧这火憋不住了",
+        "onboard_time": 1694221652,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331812,
+        "num": 256290,
+        "word": "长期不换头像的情绪更稳定吗",
+        "onboard_time": 1694184940,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290310,
+        "num": 255616,
+        "word": "南风知我意预约人数破200万",
+        "onboard_time": 1694223211,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253309,
+        "num": 253309,
+        "word": "陈牧驰李佳琦身高差",
+        "onboard_time": 1694214865,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247990,
+        "num": 247990,
+        "word": "用了一天伞发现头顶有只死虾",
+        "onboard_time": 1694217866,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229468,
+        "num": 229468,
+        "word": "南京大学的双人间豪宅宿舍",
+        "onboard_time": 1694216067,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222646,
+        "num": 222646,
+        "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
+        "onboard_time": 1694184218,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211667,
+        "num": 211667,
+        "word": "内马尔首发出战玻利维亚",
+        "onboard_time": 1694220392,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209323,
+        "num": 209323,
+        "word": "旅日游客称不介意福岛鱼",
+        "onboard_time": 1694198655,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206251,
+        "num": 206251,
+        "word": "有没有不上班但饿不死的方法",
+        "onboard_time": 1694221353,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277591,
+        "num": 202792,
+        "word": "女婴输液后尖叫昏迷成脑萎缩",
+        "onboard_time": 1694225492,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214812,
+        "num": 199945,
+        "word": "男孩向工作人员描述丢失的小狗",
+        "onboard_time": 1694223811,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196975,
+        "num": 196975,
+        "word": "吴克群练肌肉是为了治腰间盘突出",
+        "onboard_time": 1694225613,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188757,
+        "num": 188757,
+        "word": "披荆斩棘笑点太密了",
+        "onboard_time": 1694224232,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185978,
+        "num": 185978,
+        "word": "拍立得拍照时千万别戴眼镜",
+        "onboard_time": 1694219552,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180520,
+        "num": 180520,
+        "word": "不要尝试打破金牛座的原则",
+        "onboard_time": 1694223931,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 179035,
+        "num": 179035,
+        "word": "第一次见杀电饭煲的",
+        "onboard_time": 1694221772,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171152,
+        "num": 171152,
+        "word": "第八个嫌疑人",
+        "onboard_time": 1694225613,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165489,
+        "num": 165489,
+        "word": "马伯骞问苏醒为什么没去披荆斩棘",
+        "onboard_time": 1694215044,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20034,
+        "num": 163153,
+        "word": "张朝阳讲奥本海默",
+        "onboard_time": 1694224831,
+        "rank": 39,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 161501,
+        "num": 161501,
+        "word": "美网",
+        "onboard_time": 1694221472,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160197,
+        "num": 160197,
+        "word": "檀健次买了个教训",
+        "onboard_time": 1694216249,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160132,
+        "num": 160132,
+        "word": "胡歌帮朋友追星吴磊",
+        "onboard_time": 1694218412,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158219,
+        "num": 158219,
+        "word": "刘宪华Jessi真的在内娱合体了",
+        "onboard_time": 1694185603,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155664,
+        "num": 155664,
+        "word": "核聚变游戏节2023",
+        "onboard_time": 1694224776,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154976,
+        "num": 154976,
+        "word": "摩洛哥地震已致31人遇难",
+        "onboard_time": 1694225553,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153967,
+        "num": 153967,
+        "word": "C罗说我们仍然是不可战胜的",
+        "onboard_time": 1694220694,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138098,
+        "num": 138098,
+        "word": "张艺兴和林俊杰合唱",
+        "onboard_time": 1694214261,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130678,
+        "num": 130678,
+        "word": "被寄养一个月的猫咪骂了",
+        "onboard_time": 1694187221,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129496,
+        "num": 129496,
+        "word": "iPhone15Pro减轻约10%",
+        "onboard_time": 1694184218,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国广大教师节日快乐#"
+    }
+  }
+}
