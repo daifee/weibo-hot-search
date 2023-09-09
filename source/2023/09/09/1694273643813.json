@@ -1,0 +1,410 @@
+{
+  "runTime": 1694273643813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1070935,
+        "num": 1070935,
+        "word": "你好星期六下期有三个剧组",
+        "onboard_time": 1694268520,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 954000,
+        "num": 954000,
+        "word": "10年米粉换用iPhone是什么体验",
+        "onboard_time": 1694268218,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 64758,
+        "num": 901975,
+        "word": "夜西湖点燃亚运之夜",
+        "onboard_time": 1694265158,
+        "rank": 2,
+        "category": "旅游,体育"
+      },
+      {
+        "raw_hot": 866460,
+        "num": 866460,
+        "word": "李荣浩演唱会后台收到100个烧饼夹里脊",
+        "onboard_time": 1694271760,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 864022,
+        "num": 864022,
+        "word": "华晨宇接受法师称号",
+        "onboard_time": 1694267318,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 778777,
+        "num": 778777,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 5,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 585063,
+        "num": 585063,
+        "word": "马斯克和女高管所生双胞胎曝光",
+        "onboard_time": 1694266659,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 485945,
+        "num": 485945,
+        "word": "TFBOYS为王源新综艺宣传",
+        "onboard_time": 1694269296,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474113,
+        "num": 474113,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375191,
+        "num": 375191,
+        "word": "杨千嬅演唱会官宣重庆武汉",
+        "onboard_time": 1694271820,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1845928,
+        "num": 372005,
+        "word": "卡琳娜宣布暂停一切活动",
+        "onboard_time": 1694263535,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 801336,
+        "num": 365557,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233614,
+        "num": 362311,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188128,
+        "num": 355975,
+        "word": "张桂梅不甘女孩们重复没选择的一生",
+        "onboard_time": 1694266780,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179195,
+        "num": 349248,
+        "word": "白俄罗斯姑娘拯救了中国胃",
+        "onboard_time": 1694267377,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449016,
+        "num": 347970,
+        "word": "张凌赫雨中追星成功",
+        "onboard_time": 1694270559,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424104,
+        "num": 340146,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1106556,
+        "num": 338091,
+        "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
+        "onboard_time": 1694270559,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420449,
+        "num": 333344,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418060,
+        "num": 324199,
+        "word": "陈建州范玮琪看王力宏演唱会",
+        "onboard_time": 1694270321,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 611483,
+        "num": 322540,
+        "word": "微信三件套可以看出很多东西",
+        "onboard_time": 1694268279,
+        "rank": 20,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 440429,
+        "num": 315685,
+        "word": "28岁女生经期用按摩仪按腰致肾破裂",
+        "onboard_time": 1694265037,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312720,
+        "num": 312720,
+        "word": "肖战田雨20集终于见面了",
+        "onboard_time": 1694266718,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291818,
+        "num": 291818,
+        "word": "邓紫棋现在可以笑着唱句号了",
+        "onboard_time": 1694271940,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288581,
+        "num": 288581,
+        "word": "胡歌给女儿起名茉莉的原因",
+        "onboard_time": 1694264857,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287951,
+        "num": 287951,
+        "word": "云之羽角浅徵开虐",
+        "onboard_time": 1694265516,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276525,
+        "num": 276525,
+        "word": "成龙周杰伦 千里之外",
+        "onboard_time": 1694264557,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273311,
+        "num": 273311,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259562,
+        "num": 259562,
+        "word": "凤凰传奇现场",
+        "onboard_time": 1694272838,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258734,
+        "num": 258734,
+        "word": "美一乘客腹泻不止致飞机舱内遍布粪便",
+        "onboard_time": 1694266598,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257304,
+        "num": 257304,
+        "word": "2PM演唱会",
+        "onboard_time": 1694271460,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237462,
+        "num": 237462,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213173,
+        "num": 213173,
+        "word": "云姑娘 你尊嘟爱我吗",
+        "onboard_time": 1694266476,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207936,
+        "num": 207936,
+        "word": "重庆人在香港点的爆辣麻辣烫",
+        "onboard_time": 1694267079,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206771,
+        "num": 206771,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198889,
+        "num": 198889,
+        "word": "亿分之一的几率二胎妈妈诞下龙凤三胞胎",
+        "onboard_time": 1694268279,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188197,
+        "num": 188197,
+        "word": "断亲现象为何如此流行",
+        "onboard_time": 1694263958,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 174943,
+        "num": 174943,
+        "word": "白百何同款抓夹高马尾",
+        "onboard_time": 1694273557,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168472,
+        "num": 168472,
+        "word": "王力宏演唱会",
+        "onboard_time": 1694263595,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162261,
+        "num": 162261,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1694269120,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157864,
+        "num": 157864,
+        "word": "国足1比1马来西亚",
+        "onboard_time": 1694267138,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 157561,
+        "word": "安崎淘汰",
+        "onboard_time": 1694260959,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157003,
+        "num": 157003,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154871,
+        "num": 154871,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150559,
+        "num": 150559,
+        "word": "中级经济法",
+        "onboard_time": 1694259936,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147874,
+        "num": 147874,
+        "word": "虞书欣 THE9演唱你会来吗",
+        "onboard_time": 1694251175,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145297,
+        "num": 145297,
+        "word": "盛阳单飞了",
+        "onboard_time": 1694268279,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144745,
+        "num": 144745,
+        "word": "余华 to签",
+        "onboard_time": 1694273617,
+        "rank": 47,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 129576,
+        "num": 143566,
+        "word": "李帅受伤",
+        "onboard_time": 1694266118,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111844,
+        "num": 142693,
+        "word": "被照顾近5年的植物人丈夫能站了",
+        "onboard_time": 1694270862,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创黑龙江高质量发展新局面#"
+    }
+  }
+}
