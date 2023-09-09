@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694236471857,
+  "endTime": 1694237629477,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -121,6 +121,14 @@
       "onboard_time": 1693881395,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3098467,
+      "num": 398898,
+      "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+      "onboard_time": 1694234913,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3072308,
@@ -595,14 +603,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 1974309,
-      "num": 398898,
-      "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
-      "onboard_time": 1694234913,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1967227,
       "num": 1967227,
       "word": "何炅 不要被自己的情绪绑架",
@@ -641,6 +641,14 @@
       "onboard_time": 1693962400,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1936965,
+      "num": 375245,
+      "word": "高晓松怎么瘦成这样了",
+      "onboard_time": 1694235574,
+      "rank": 15,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1933149,
@@ -2219,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 891540,
-      "num": 375245,
-      "word": "高晓松怎么瘦成这样了",
-      "onboard_time": 1694235574,
-      "rank": 15,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 888510,
       "num": 888510,
       "word": "韩国流行的自助煮面火到上海了",
@@ -2993,6 +2993,14 @@
       "onboard_time": 1694227353,
       "rank": 5,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 735980,
+      "num": 735980,
+      "word": "偷票房 到底是谁偷了谁",
+      "onboard_time": 1694235696,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 735727,
@@ -3913,6 +3921,14 @@
       "onboard_time": 1693677442,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 622587,
+      "num": 190255,
+      "word": "爱吃海底捞的有福了",
+      "onboard_time": 1694236474,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 621724,
@@ -5907,6 +5923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453499,
+      "num": 453499,
+      "word": "虞书欣在剧组打几份工啊",
+      "onboard_time": 1694235757,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453411,
       "num": 560947,
       "word": "知网运营的14款APP存在违法行为",
@@ -6481,14 +6505,6 @@
       "onboard_time": 1694148999,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 415446,
-      "num": 415446,
-      "word": "虞书欣在剧组打几份工啊",
-      "onboard_time": 1694235757,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 415155,
@@ -7227,14 +7243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368269,
-      "num": 368269,
-      "word": "偷票房 到底是谁偷了谁",
-      "onboard_time": 1694235696,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 367902,
       "num": 367902,
       "word": "王师傅回应退出野球帝",
@@ -7329,6 +7337,14 @@
       "onboard_time": 1694148040,
       "rank": 23,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 361319,
+      "num": 188536,
+      "word": "刚出生4天的柴犬宝宝",
+      "onboard_time": 1694236115,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 361265,
@@ -7849,6 +7865,14 @@
       "onboard_time": 1694147077,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330187,
+      "num": 280962,
+      "word": "京东手机官方向华为求货",
+      "onboard_time": 1694236057,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 330068,
@@ -9539,6 +9563,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 272121,
+      "num": 383469,
+      "word": "逃出大英博物馆的隐藏彩蛋",
+      "onboard_time": 1694234436,
+      "rank": 13,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 271755,
       "num": 271755,
       "word": "殷郊把姬发拉出火海",
@@ -9985,14 +10017,6 @@
       "onboard_time": 1693697064,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256708,
-      "num": 383469,
-      "word": "逃出大英博物馆的隐藏彩蛋",
-      "onboard_time": 1694234436,
-      "rank": 13,
-      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 256557,
@@ -13427,6 +13451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183536,
+      "num": 183536,
+      "word": "王俊凯 巴黎时装周",
+      "onboard_time": 1694237256,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 183509,
       "num": 183509,
       "word": "没想到最后被宫紫商演了",
@@ -13593,6 +13625,14 @@
       "onboard_time": 1693892977,
       "rank": 42,
       "category": "自然"
+    },
+    {
+      "raw_hot": 179312,
+      "num": 179312,
+      "word": "怎么跳个舞还需要证明我是人大的",
+      "onboard_time": 1694236235,
+      "rank": 49,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 179305,
@@ -13891,14 +13931,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172433,
-      "num": 172433,
-      "word": "京东手机官方向华为求货",
-      "onboard_time": 1694236057,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 172164,
       "num": 172164,
       "word": "梁靖崑3比0庄智渊",
@@ -13929,14 +13961,6 @@
       "onboard_time": 1693976978,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171511,
-      "num": 171511,
-      "word": "刚出生4天的柴犬宝宝",
-      "onboard_time": 1694236115,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 170998,
@@ -14273,6 +14297,14 @@
       "onboard_time": 1694156914,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164002,
+      "num": 164002,
+      "word": "女孩军训间隙表演九节鞭震惊全场",
+      "onboard_time": 1694236775,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 163765,
@@ -15417,14 +15449,6 @@
       "onboard_time": 1694222371,
       "rank": 46,
       "category": "其它"
-    },
-    {
-      "raw_hot": 131761,
-      "num": 131761,
-      "word": "怎么跳个舞还需要证明我是人大的",
-      "onboard_time": 1694236235,
-      "rank": 49,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 131012,
