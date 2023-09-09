@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694295230454,
+  "endTime": 1694297660191,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213727,
+      "num": 136454,
+      "word": "断亲现象为何如此流行",
+      "onboard_time": 1694263958,
+      "rank": 47,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 209277,
       "num": 209277,
       "word": "杨千嬅演唱会官宣重庆武汉",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136454,
-      "num": 136454,
-      "word": "断亲现象为何如此流行",
-      "onboard_time": 1694263958,
-      "rank": 47,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 127725,
       "num": 127725,
       "word": "二次元初恋越前龙马",
@@ -523,8 +523,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30187,
-      "num": 27874,
+      "raw_hot": 41342,
+      "num": 41342,
+      "word": "于文文唱体面可以笑着疼了",
+      "onboard_time": 1694292974,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31247,
+      "num": 40472,
       "word": "试吃最近超火的红魔虾",
       "onboard_time": 1694288655,
       "rank": 35,
@@ -539,20 +547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28532,
+      "num": 40457,
+      "word": "这人是店长接班人吧",
+      "onboard_time": 1694290453,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27258,
-      "num": 27258,
+      "num": 40388,
       "word": "能把猫训出来是怎么做到的",
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
     },
     {
-      "raw_hot": 26970,
-      "num": 26970,
-      "word": "于文文唱体面可以笑着疼了",
-      "onboard_time": 1694292974,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 24147,
+      "num": 40420,
+      "word": "格鲁吉亚1比7西班牙",
+      "onboard_time": 1694287635,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 23811,
@@ -563,20 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21799,
-      "num": 23698,
-      "word": "格鲁吉亚1比7西班牙",
-      "onboard_time": 1694287635,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 19542,
+      "num": 40379,
+      "word": "99做好事",
+      "onboard_time": 1694295554,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 17697,
-      "num": 23664,
-      "word": "这人是店长接班人吧",
-      "onboard_time": 1694290453,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 18121,
+      "num": 40371,
+      "word": "封神质子团将在第三部回归",
+      "onboard_time": 1694297536,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
