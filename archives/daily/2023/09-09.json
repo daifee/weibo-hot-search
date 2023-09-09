@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694263486671,
+  "endTime": 1694265441623,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2306968,
+      "num": 350543,
+      "word": "卡琳娜宣布暂停一切活动",
+      "onboard_time": 1694263535,
+      "rank": 10,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 2302001,
       "num": 382781,
       "word": "高晓松 向太",
@@ -41,6 +49,14 @@
       "onboard_time": 1694219191,
       "rank": 0,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 2019912,
+      "num": 2019912,
+      "word": "你还在买余额宝吗",
+      "onboard_time": 1694259634,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1936965,
@@ -179,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1150878,
-      "num": 1150878,
-      "word": "你还在买余额宝吗",
-      "onboard_time": 1694259634,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1030481,
       "num": 1030481,
       "word": "阿信演唱会吸氧",
@@ -233,6 +241,14 @@
       "onboard_time": 1694215947,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 887206,
+      "num": 887206,
+      "word": "成龙周杰伦 千里之外",
+      "onboard_time": 1694264557,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 882679,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774029,
+      "num": 774029,
+      "word": "胡锡进 四川工商学院的声明是一种悲哀",
+      "onboard_time": 1694261615,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760125,
       "num": 760125,
       "word": "为什么摘掉眼镜后听力变差了",
@@ -337,6 +361,14 @@
       "onboard_time": 1694239897,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741246,
+      "num": 741246,
+      "word": "王力宏演唱会",
+      "onboard_time": 1694263595,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 737435,
@@ -473,14 +505,6 @@
       "onboard_time": 1694256874,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 600243,
-      "num": 337357,
-      "word": "胡锡进 四川工商学院的声明是一种悲哀",
-      "onboard_time": 1694261615,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590273,
@@ -859,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396636,
+      "num": 342837,
+      "word": "张凌赫去周杰伦演唱会了",
+      "onboard_time": 1694264135,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385140,
       "num": 247990,
       "word": "用了一天伞发现头顶有只死虾",
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 363852,
-      "num": 330313,
+      "num": 342069,
       "word": "一家店铺结婚整条街都休息了",
       "onboard_time": 1694259035,
       "rank": 41,
@@ -1043,6 +1075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 329738,
+      "num": 251282,
+      "word": "28岁女生经期用按摩仪按腰致肾破裂",
+      "onboard_time": 1694265037,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328457,
       "num": 328457,
       "word": "乌尔善说封神破30亿会有演唱会",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1694249017,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308418,
+      "num": 308418,
+      "word": "盛阳唤起了肖战曾经的记忆",
+      "onboard_time": 1694264919,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 307994,
@@ -1259,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274062,
+      "num": 274062,
+      "word": "云为衫雾姬夫人联手设计宫尚角",
+      "onboard_time": 1694264377,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272540,
       "num": 272540,
       "word": "偶遇SEVENTEEN罗马录花样青春",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1694234436,
       "rank": 13,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 271353,
+      "num": 249413,
+      "word": "LWX问Doinb交钱了没",
+      "onboard_time": 1694264674,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 270752,
@@ -1331,12 +1395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251989,
+      "num": 251989,
+      "word": "断亲现象为何如此流行",
+      "onboard_time": 1694263958,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250448,
       "num": 250448,
       "word": "老师听课中发现一个流泪的男孩",
       "onboard_time": 1694238817,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 247093,
+      "num": 247093,
+      "word": "胡歌给女儿起名茉莉的原因",
+      "onboard_time": 1694264857,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 246856,
@@ -1819,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181774,
+      "num": 181774,
+      "word": "摩洛哥地震遇难人数上升至1037人",
+      "onboard_time": 1694265336,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181548,
       "num": 181548,
       "word": "流浪猫的嫁妆",
@@ -1931,6 +2019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 164994,
+      "num": 164994,
+      "word": "Doinb吐槽LWX皮肤不好用",
+      "onboard_time": 1694265397,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164787,
       "num": 164787,
       "word": "孙怡费翔时装周同框",
@@ -2033,6 +2129,14 @@
       "onboard_time": 1694257054,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152763,
+      "num": 152763,
+      "word": "成年后的我宴请了小时候的自己",
+      "onboard_time": 1694262695,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 152187,
@@ -2296,14 +2400,6 @@
       "word": "现在做什么可在5年后受益匪浅",
       "onboard_time": 1694188298,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 122306,
-      "num": 122306,
-      "word": "成年后的我宴请了小时候的自己",
-      "onboard_time": 1694262695,
-      "rank": 44,
       "category": "情感"
     },
     {
@@ -2627,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38664,
+      "num": 158526,
+      "word": "夜西湖点燃亚运之夜",
+      "onboard_time": 1694265158,
+      "rank": 44,
+      "category": "旅游,体育"
+    },
+    {
       "raw_hot": 38452,
       "num": 160134,
       "word": "白象董事长从大运会跑到亚运会",
@@ -2675,6 +2779,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 30953,
+      "num": 346147,
+      "word": "大学生用自制起重机花式表白老师",
+      "onboard_time": 1694264437,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28758,
       "num": 36100,
       "word": "从广州亚运到杭州亚运",
@@ -2705,6 +2817,22 @@
       "onboard_time": 1694203514,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20451,
+      "num": 200287,
+      "word": "亚运火炬手有了不起的榜样",
+      "onboard_time": 1694249493,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10624,
+      "num": 803639,
+      "word": "当亚运会遇上中华文化",
+      "onboard_time": 1694265275,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 10296,

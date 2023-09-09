@@ -1,0 +1,410 @@
+{
+  "runTime": 1694265441623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2019912,
+        "num": 2019912,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 0,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 887206,
+        "num": 887206,
+        "word": "成龙周杰伦 千里之外",
+        "onboard_time": 1694264557,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10624,
+        "num": 803639,
+        "word": "当亚运会遇上中华文化",
+        "onboard_time": 1694265275,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 774029,
+        "num": 774029,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741246,
+        "num": 741246,
+        "word": "王力宏演唱会",
+        "onboard_time": 1694263595,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 606683,
+        "num": 606683,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379842,
+        "num": 379842,
+        "word": "国足开场10分钟丢球",
+        "onboard_time": 1694261374,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361681,
+        "num": 361681,
+        "word": "中级经济法",
+        "onboard_time": 1694259936,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 355739,
+        "num": 355739,
+        "word": "虞书欣没忍住喊了张凌赫牛牛",
+        "onboard_time": 1694253273,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350805,
+        "num": 350805,
+        "word": "管理余额宝10多年的基金经理离职了",
+        "onboard_time": 1694255374,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 2306968,
+        "num": 350543,
+        "word": "卡琳娜宣布暂停一切活动",
+        "onboard_time": 1694263535,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 279194,
+        "num": 349731,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220100,
+        "num": 348208,
+        "word": "摩洛哥地震遇难人数升至820人",
+        "onboard_time": 1694253995,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154882,
+        "num": 347185,
+        "word": "荷兰光刻机巨头说我们太自以为是了",
+        "onboard_time": 1694241215,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30953,
+        "num": 346147,
+        "word": "大学生用自制起重机花式表白老师",
+        "onboard_time": 1694264437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593833,
+        "num": 345618,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1106930,
+        "num": 344804,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 923767,
+        "num": 343708,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396636,
+        "num": 342837,
+        "word": "张凌赫去周杰伦演唱会了",
+        "onboard_time": 1694264135,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342069,
+        "num": 342069,
+        "word": "一家店铺结婚整条街都休息了",
+        "onboard_time": 1694259035,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 501514,
+        "num": 337244,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322926,
+        "num": 322926,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320218,
+        "num": 320218,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 308418,
+        "num": 308418,
+        "word": "盛阳唤起了肖战曾经的记忆",
+        "onboard_time": 1694264919,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305600,
+        "num": 305600,
+        "word": "陶喆 melody",
+        "onboard_time": 1694255253,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289954,
+        "num": 289954,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275753,
+        "num": 275753,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274062,
+        "num": 274062,
+        "word": "云为衫雾姬夫人联手设计宫尚角",
+        "onboard_time": 1694264377,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269677,
+        "num": 269677,
+        "word": "安崎淘汰",
+        "onboard_time": 1694260959,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251989,
+        "num": 251989,
+        "word": "断亲现象为何如此流行",
+        "onboard_time": 1694263958,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329738,
+        "num": 251282,
+        "word": "28岁女生经期用按摩仪按腰致肾破裂",
+        "onboard_time": 1694265037,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271353,
+        "num": 249413,
+        "word": "LWX问Doinb交钱了没",
+        "onboard_time": 1694264674,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247093,
+        "num": 247093,
+        "word": "胡歌给女儿起名茉莉的原因",
+        "onboard_time": 1694264857,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226215,
+        "num": 226215,
+        "word": "向涵之新剧00后向上管理",
+        "onboard_time": 1694262276,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223302,
+        "num": 223302,
+        "word": "蔡文静劝女孩别被偶像剧骗了",
+        "onboard_time": 1694256573,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20451,
+        "num": 200287,
+        "word": "亚运火炬手有了不起的榜样",
+        "onboard_time": 1694249493,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194936,
+        "num": 194936,
+        "word": "花了16w装出来的家",
+        "onboard_time": 1694250155,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181774,
+        "num": 181774,
+        "word": "摩洛哥地震遇难人数上升至1037人",
+        "onboard_time": 1694265336,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176581,
+        "num": 176581,
+        "word": "姜贞羽我的未来式舞台",
+        "onboard_time": 1694262216,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176503,
+        "num": 176503,
+        "word": "我都拿好碗准备舀一碗了结果喂猪了",
+        "onboard_time": 1694259816,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165472,
+        "num": 165472,
+        "word": "国足半场1比1马来西亚",
+        "onboard_time": 1694263058,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164994,
+        "num": 164994,
+        "word": "Doinb吐槽LWX皮肤不好用",
+        "onboard_time": 1694265397,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159599,
+        "num": 159599,
+        "word": "泰国BTS轻轨可以微信支付了",
+        "onboard_time": 1694259216,
+        "rank": 42,
+        "category": "旅游,科技"
+      },
+      {
+        "raw_hot": 158686,
+        "num": 158686,
+        "word": "成毅西装金丝眼镜半永久",
+        "onboard_time": 1694260233,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38664,
+        "num": 158526,
+        "word": "夜西湖点燃亚运之夜",
+        "onboard_time": 1694265158,
+        "rank": 44,
+        "category": "旅游,体育"
+      },
+      {
+        "raw_hot": 158485,
+        "num": 158485,
+        "word": "西出玉门",
+        "onboard_time": 1694256276,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153005,
+        "num": 153005,
+        "word": "国足vs马来西亚",
+        "onboard_time": 1694257294,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152763,
+        "num": 152763,
+        "word": "成年后的我宴请了小时候的自己",
+        "onboard_time": 1694262695,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151076,
+        "num": 151076,
+        "word": "舞台2023三公淘汰赛",
+        "onboard_time": 1694261316,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148204,
+        "num": 148204,
+        "word": "詹姆斯暗示明年或将参加奥运会",
+        "onboard_time": 1694258912,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创黑龙江高质量发展新局面#"
+    }
+  }
+}
