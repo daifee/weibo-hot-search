@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694283546851,
+  "endTime": 1694284429473,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -23596,7 +23596,7 @@
     },
     {
       "raw_hot": 51248,
-      "num": 51248,
+      "num": 52155,
       "word": "郑秀晶纽约时装周",
       "onboard_time": 1694281283,
       "rank": 40,
@@ -23705,6 +23705,14 @@
       "onboard_time": 1693511053,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46789,
+      "num": 52200,
+      "word": "蔡依林解锁钻石新皮肤",
+      "onboard_time": 1694284396,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 46712,

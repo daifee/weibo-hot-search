@@ -1,0 +1,410 @@
+{
+  "runTime": 1694284429473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 435758,
+        "num": 435758,
+        "word": "计划有变 准备夺冠",
+        "onboard_time": 1694274516,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264558,
+        "num": 264558,
+        "word": "华晨宇接受法师称号",
+        "onboard_time": 1694267318,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18411,
+        "num": 206855,
+        "word": "夜西湖点燃亚运之夜",
+        "onboard_time": 1694265158,
+        "rank": 2,
+        "category": "旅游,体育"
+      },
+      {
+        "raw_hot": 155151,
+        "num": 155151,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 3,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 146482,
+        "num": 146482,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130076,
+        "num": 130076,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128155,
+        "num": 128155,
+        "word": "10年米粉换用iPhone是什么体验",
+        "onboard_time": 1694268218,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113044,
+        "num": 113044,
+        "word": "周杰伦能不能给张凌赫一首歌的时间",
+        "onboard_time": 1694274035,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94178,
+        "num": 112791,
+        "word": "邓稼先和奥本海默的对比",
+        "onboard_time": 1694275356,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89377,
+        "num": 112191,
+        "word": "张杰觉得自己自恋时期是个疯子",
+        "onboard_time": 1694275774,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376980,
+        "num": 111116,
+        "word": "卡琳娜宣布暂停一切活动",
+        "onboard_time": 1694263535,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 342253,
+        "num": 110356,
+        "word": "任正非2019年称两三年后可再看华为在不在",
+        "onboard_time": 1694277090,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 54594,
+        "num": 109495,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40576,
+        "num": 108156,
+        "word": "张桂梅不甘女孩们重复没选择的一生",
+        "onboard_time": 1694266780,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 33701,
+        "num": 107995,
+        "word": "白俄罗斯姑娘拯救了中国胃",
+        "onboard_time": 1694267377,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205862,
+        "num": 106946,
+        "word": "身材焦虑的时候听听泰勒说的吧",
+        "onboard_time": 1694279185,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106457,
+        "num": 106457,
+        "word": "白百何同款抓夹高马尾",
+        "onboard_time": 1694273557,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100965,
+        "num": 100965,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94405,
+        "num": 94405,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88672,
+        "num": 88672,
+        "word": "封神质子团五个小萝卜头还怪可爱",
+        "onboard_time": 1694281400,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152248,
+        "num": 88013,
+        "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
+        "onboard_time": 1694270559,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133045,
+        "num": 86651,
+        "word": "微信三件套可以看出很多东西",
+        "onboard_time": 1694268279,
+        "rank": 21,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 115713,
+        "num": 84041,
+        "word": "28岁女生经期用按摩仪按腰致肾破裂",
+        "onboard_time": 1694265037,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97553,
+        "num": 82048,
+        "word": "世界上最痛苦的两件事 有工作和没工作",
+        "onboard_time": 1694278349,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81384,
+        "num": 81384,
+        "word": "异人之下周深别唱了",
+        "onboard_time": 1694277868,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79906,
+        "num": 79906,
+        "word": "马斯克和女高管所生双胞胎曝光",
+        "onboard_time": 1694266659,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 72877,
+        "num": 72877,
+        "word": "原来真有猫咪是被气胖的",
+        "onboard_time": 1694274816,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72592,
+        "num": 72592,
+        "word": "美一乘客腹泻不止致飞机舱内遍布粪便",
+        "onboard_time": 1694266598,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71042,
+        "num": 71042,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68333,
+        "num": 68333,
+        "word": "二次元初恋越前龙马",
+        "onboard_time": 1694278408,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65512,
+        "num": 65512,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62147,
+        "num": 62147,
+        "word": "断亲现象为何如此流行",
+        "onboard_time": 1694263958,
+        "rank": 31,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 59954,
+        "num": 59954,
+        "word": "安崎淘汰",
+        "onboard_time": 1694260959,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59393,
+        "num": 59393,
+        "word": "云之羽角浅徵开虐",
+        "onboard_time": 1694265516,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56531,
+        "num": 56531,
+        "word": "你好星期六下期有三个剧组",
+        "onboard_time": 1694268520,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56364,
+        "num": 56364,
+        "word": "王力宏演唱会",
+        "onboard_time": 1694263595,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55357,
+        "num": 55357,
+        "word": "教师节",
+        "onboard_time": 1694274096,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53623,
+        "num": 53623,
+        "word": "李荣浩演唱会后台收到100个烧饼夹里脊",
+        "onboard_time": 1694271760,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52979,
+        "num": 52979,
+        "word": "胡歌给女儿起名茉莉的原因",
+        "onboard_time": 1694264857,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52227,
+        "num": 52227,
+        "word": "余华 to签",
+        "onboard_time": 1694273617,
+        "rank": 39,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 47387,
+        "num": 52227,
+        "word": "肖战田雨20集终于见面了",
+        "onboard_time": 1694266718,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47275,
+        "num": 52214,
+        "word": "云姑娘 你尊嘟爱我吗",
+        "onboard_time": 1694266476,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46789,
+        "num": 52200,
+        "word": "蔡依林解锁钻石新皮肤",
+        "onboard_time": 1694284396,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44931,
+        "num": 52188,
+        "word": "杨千嬅演唱会官宣重庆武汉",
+        "onboard_time": 1694271820,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42188,
+        "num": 52177,
+        "word": "虞书欣 THE9演唱你会来吗",
+        "onboard_time": 1694251175,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42160,
+        "num": 52155,
+        "word": "郑秀晶纽约时装周",
+        "onboard_time": 1694281283,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41842,
+        "num": 52150,
+        "word": "TFBOYS为王源新综艺宣传",
+        "onboard_time": 1694269296,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39591,
+        "num": 52142,
+        "word": "已瘦30斤宅家早餐吃什么",
+        "onboard_time": 1694273916,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39192,
+        "num": 52119,
+        "word": "成龙周杰伦 千里之外",
+        "onboard_time": 1694264557,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37128,
+        "num": 52114,
+        "word": "DF轰鸣",
+        "onboard_time": 1694274635,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为龙江发展指明方向#"
+    }
+  }
+}
