@@ -1,6 +1,6 @@
 {
   "startTime": 1693671567499,
-  "endTime": 1694229387946,
+  "endTime": 1694230510609,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -1011,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1536170,
+      "num": 1536170,
+      "word": "原来小说里的VIP病房是真的",
+      "onboard_time": 1694226812,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1527573,
       "num": 1527573,
       "word": "被困横店到处客串",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1693669720,
       "rank": 16,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1033498,
-      "num": 1033498,
-      "word": "原来小说里的VIP病房是真的",
-      "onboard_time": 1694226812,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 1032379,
@@ -2705,6 +2705,14 @@
       "onboard_time": 1693890939,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775992,
+      "num": 775992,
+      "word": "折断兵马俑手指的美国男子向中国道歉",
+      "onboard_time": 1694228251,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 774039,
@@ -5275,6 +5283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 489762,
+      "num": 489762,
+      "word": "中级会计",
+      "onboard_time": 1694226274,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 488205,
       "num": 292472,
       "word": "包上恩拍吻戏前吃了辣条",
@@ -5305,6 +5321,14 @@
       "onboard_time": 1693815279,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485798,
+      "num": 485798,
+      "word": "戚薇郑秀晶秀场同框",
+      "onboard_time": 1694228133,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 485731,
@@ -5489,6 +5513,14 @@
       "onboard_time": 1694224293,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475663,
+      "num": 475663,
+      "word": "宫二这个看垃圾的眼神",
+      "onboard_time": 1694228371,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 475198,
@@ -6099,14 +6131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427916,
-      "num": 427916,
-      "word": "戚薇郑秀晶秀场同框",
-      "onboard_time": 1694228133,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 427832,
       "num": 427832,
       "word": "进京探亲遇暴雨失联女童遗体找到",
@@ -6265,6 +6289,14 @@
       "onboard_time": 1693795114,
       "rank": 21,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 419617,
+      "num": 419617,
+      "word": "梅德韦杰夫第五次进大满贯决赛",
+      "onboard_time": 1694228732,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 419172,
@@ -6633,14 +6665,6 @@
       "onboard_time": 1694163815,
       "rank": 30,
       "category": "幽默,美妆"
-    },
-    {
-      "raw_hot": 396728,
-      "num": 396728,
-      "word": "宫二这个看垃圾的眼神",
-      "onboard_time": 1694228371,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 396635,
@@ -7339,14 +7363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 349850,
-      "num": 417239,
-      "word": "折断兵马俑手指的美国男子向中国道歉",
-      "onboard_time": 1694228251,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348288,
       "num": 302351,
       "word": "大连一烤肉店谢绝日本人进入",
@@ -7931,14 +7947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 322489,
-      "num": 322489,
-      "word": "中级会计",
-      "onboard_time": 1694226274,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 322177,
       "num": 322177,
       "word": "大熊猫圆润当妈妈了",
@@ -8305,14 +8313,6 @@
       "onboard_time": 1693713873,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309051,
-      "num": 309051,
-      "word": "梅德韦杰夫第五次进大满贯决赛",
-      "onboard_time": 1694228732,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 308951,
@@ -9011,6 +9011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283724,
+      "num": 283724,
+      "word": "内马尔加冕巴西队史射手王",
+      "onboard_time": 1694228970,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283207,
       "num": 283207,
       "word": "马立奥和况三喜有多同频",
@@ -9203,6 +9211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277191,
+      "num": 277191,
+      "word": "张云龙狐妖竹业篇白发造型",
+      "onboard_time": 1694229270,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277031,
+      "num": 217011,
+      "word": "站姐拍的曾黎",
+      "onboard_time": 1694229331,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276438,
       "num": 276438,
       "word": "黄明昊FMVP",
@@ -9337,6 +9361,14 @@
       "onboard_time": 1694071955,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272540,
+      "num": 272540,
+      "word": "偶遇SEVENTEEN罗马录花样青春",
+      "onboard_time": 1694228554,
+      "rank": 29,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 271755,
@@ -9835,6 +9867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254529,
+      "num": 254529,
+      "word": "女子误将吐槽语音发家长群太社死",
+      "onboard_time": 1694229032,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253633,
       "num": 253633,
       "word": "起猛了看到殷寿护妲己了",
@@ -10089,14 +10129,6 @@
       "onboard_time": 1693710872,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245142,
-      "num": 245142,
-      "word": "偶遇SEVENTEEN罗马录花样青春",
-      "onboard_time": 1694228554,
-      "rank": 29,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 244720,
@@ -10372,7 +10404,7 @@
     },
     {
       "raw_hot": 237746,
-      "num": 412912,
+      "num": 420020,
       "word": "只有自己一人如何用海姆立克法自救",
       "onboard_time": 1694215528,
       "rank": 31,
@@ -10601,14 +10633,6 @@
       "onboard_time": 1693788635,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233220,
-      "num": 233220,
-      "word": "内马尔加冕巴西队史射手王",
-      "onboard_time": 1694228970,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 233131,
@@ -11867,6 +11891,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 203442,
+      "num": 203442,
+      "word": "阴阳师",
+      "onboard_time": 1693818457,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203342,
       "num": 203342,
       "word": "原神4.0",
@@ -12443,6 +12475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194461,
+      "num": 194461,
+      "word": "第一次见地铁的尽头",
+      "onboard_time": 1694229451,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194373,
       "num": 1064247,
       "word": "老人干农活手臂受伤流血交警急送医",
@@ -12555,6 +12595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192757,
+      "num": 192757,
+      "word": "巴西5比1玻利维亚",
+      "onboard_time": 1694229754,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192616,
       "num": 192616,
       "word": "坚如磐石全阵容芭莎大片",
@@ -12649,14 +12697,6 @@
       "onboard_time": 1693832977,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190736,
-      "num": 190736,
-      "word": "阴阳师",
-      "onboard_time": 1693818457,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 190630,
@@ -13195,6 +13235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182715,
+      "num": 182715,
+      "word": "狗眼一眯我比狗还慌",
+      "onboard_time": 1694229152,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182500,
       "num": 182500,
       "word": "福清暴雨",
@@ -13217,6 +13265,14 @@
       "onboard_time": 1693668524,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181481,
+      "num": 189421,
+      "word": "你心目中的小说天花板",
+      "onboard_time": 1694229152,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 181121,
@@ -14643,14 +14699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146413,
-      "num": 146413,
-      "word": "你心目中的小说天花板",
-      "onboard_time": 1694229152,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146308,
       "num": 146308,
       "word": "讨厌没有眼力的人类",
@@ -14843,14 +14891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141762,
-      "num": 141762,
-      "word": "狗眼一眯我比狗还慌",
-      "onboard_time": 1694229152,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141531,
       "num": 396161,
       "word": "原神 钟离达达利亚复刻",
@@ -14915,12 +14955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139209,
-      "num": 139209,
-      "word": "站姐拍的曾黎",
-      "onboard_time": 1694229331,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 139591,
+      "num": 139591,
+      "word": "冯宝宝一秒开大",
+      "onboard_time": 1694230414,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 139181,
@@ -15027,14 +15067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135937,
-      "num": 135937,
-      "word": "女子误将吐槽语音发家长群太社死",
-      "onboard_time": 1694229032,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135680,
       "num": 135680,
       "word": "Lauv抢票",
@@ -15065,14 +15097,6 @@
       "onboard_time": 1693989163,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 133914,
-      "num": 133914,
-      "word": "张云龙狐妖竹业篇白发造型",
-      "onboard_time": 1694229270,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 133662,
@@ -15971,6 +15995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81876,
+      "num": 1265355,
+      "word": "杭州亚运会总赛程最新版",
+      "onboard_time": 1694228013,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 81342,
       "num": 81342,
       "word": "被倪妮这个镜头美到了",
@@ -16201,14 +16233,6 @@
       "onboard_time": 1693764559,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 61502,
-      "num": 1265355,
-      "word": "杭州亚运会总赛程最新版",
-      "onboard_time": 1694228013,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 61501,
