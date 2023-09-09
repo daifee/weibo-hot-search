@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694230510609,
+  "endTime": 1694233147563,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 905516,
+      "num": 439948,
+      "word": "王芳",
+      "onboard_time": 1694231432,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900556,
       "num": 357928,
       "word": "周杰伦幽闭恐惧症",
@@ -96,6 +104,14 @@
       "word": "大学生贷款参加就业培训后自缢身亡",
       "onboard_time": 1694187761,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855252,
+      "num": 855252,
+      "word": "纪念毛泽东同志逝世47周年",
+      "onboard_time": 1694230891,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -147,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 668806,
+      "num": 338786,
+      "word": "你们周六休息的简直要亏死了",
+      "onboard_time": 1694231732,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 665069,
       "num": 665069,
       "word": "李媛回复李嘉鑫",
@@ -177,6 +201,14 @@
       "onboard_time": 1694226332,
       "rank": 17,
       "category": "国外要闻,科技"
+    },
+    {
+      "raw_hot": 628737,
+      "num": 331885,
+      "word": "古剑奇谭后乔振宇又演反派了",
+      "onboard_time": 1694230651,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 590273,
@@ -283,6 +315,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 464072,
+      "num": 436267,
+      "word": "为什么摘掉眼镜后听力变差了",
+      "onboard_time": 1694231311,
+      "rank": 12,
+      "category": "其它"
+    },
+    {
       "raw_hot": 462507,
       "num": 462507,
       "word": "11.4万人都知道盛阳失业了",
@@ -296,6 +336,14 @@
       "word": "男子隐瞒传染病还嫖娼妻子起诉离婚被驳",
       "onboard_time": 1694184218,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442742,
+      "num": 442742,
+      "word": "女子误将吐槽语音发家长群太社死",
+      "onboard_time": 1694229032,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -313,6 +361,14 @@
       "onboard_time": 1694222555,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429426,
+      "num": 429426,
+      "word": "为什么方便面不做成这样",
+      "onboard_time": 1694231132,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 427061,
@@ -387,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342250,
+      "num": 217106,
+      "word": "白鹿原白灵饰演者近照",
+      "onboard_time": 1694232633,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340173,
       "num": 283219,
       "word": "周杰伦演唱会开场话筒没声音",
@@ -443,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321417,
+      "num": 321417,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1694231072,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317125,
       "num": 317125,
       "word": "女儿一直在说对不起",
@@ -472,6 +544,14 @@
       "word": "胡歌帮朋友追星吴磊",
       "onboard_time": 1694218412,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302838,
+      "num": 302838,
+      "word": "宫子羽和金繁青梅竹马",
+      "onboard_time": 1694232395,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -556,7 +636,7 @@
     },
     {
       "raw_hot": 277031,
-      "num": 217011,
+      "num": 217106,
       "word": "站姐拍的曾黎",
       "onboard_time": 1694229331,
       "rank": 43,
@@ -587,20 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254529,
-      "num": 254529,
-      "word": "女子误将吐槽语音发家长群太社死",
-      "onboard_time": 1694229032,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246326,
       "num": 246326,
       "word": "虞书欣张凌赫卢昱晓聚餐",
       "onboard_time": 1694179654,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244165,
+      "num": 244165,
+      "word": "第一次见地铁的尽头",
+      "onboard_time": 1694229451,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 239419,
@@ -625,6 +705,14 @@
       "onboard_time": 1694214382,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228398,
+      "num": 228398,
+      "word": "超模谷爱凌回新西兰训练了",
+      "onboard_time": 1694232034,
+      "rank": 27,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 220936,
@@ -665,6 +753,14 @@
       "onboard_time": 1694226155,
       "rank": 30,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 205914,
+      "num": 205914,
+      "word": "原神",
+      "onboard_time": 1694229394,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 204545,
@@ -715,12 +811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194461,
-      "num": 194461,
-      "word": "第一次见地铁的尽头",
-      "onboard_time": 1694229451,
+      "raw_hot": 194213,
+      "num": 194213,
+      "word": "时光音乐会老友记首期歌单",
+      "onboard_time": 1694232693,
       "rank": 35,
-      "category": "情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 193387,
@@ -731,12 +827,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 193201,
+      "num": 193201,
+      "word": "西出玉门今日进关",
+      "onboard_time": 1694232932,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192757,
       "num": 192757,
       "word": "巴西5比1玻利维亚",
       "onboard_time": 1694229754,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192422,
+      "num": 189434,
+      "word": "刘宇宁西出玉门插曲狂风袭来",
+      "onboard_time": 1694232997,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 189089,
@@ -753,14 +865,6 @@
       "onboard_time": 1694224232,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188515,
-      "num": 188515,
-      "word": "原神",
-      "onboard_time": 1694229394,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 186807,
@@ -875,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161852,
+      "num": 161852,
+      "word": "冯宝宝一秒开大",
+      "onboard_time": 1694230414,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161357,
       "num": 161357,
       "word": "7岁走失男童12年后和父母团聚",
@@ -963,12 +1075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139591,
-      "num": 139591,
-      "word": "冯宝宝一秒开大",
-      "onboard_time": 1694230414,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 140572,
+      "num": 140572,
+      "word": "孙颖莎晋级亚锦赛女单决赛",
+      "onboard_time": 1694230532,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137604,
@@ -1115,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113604,
+      "num": 353890,
+      "word": "搞线下还得看三星",
+      "onboard_time": 1694232214,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 113558,
       "num": 113558,
       "word": "夜色尚浅是一见钟情",
@@ -1171,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88948,
+      "num": 431925,
+      "word": "男生唱万疆戏腔一起听取哇声一片",
+      "onboard_time": 1694230532,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81876,
       "num": 1265355,
       "word": "杭州亚运会总赛程最新版",
@@ -1208,6 +1336,14 @@
       "word": "Ella爸爸和爷爷撞脸任贤齐",
       "onboard_time": 1694204354,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44977,
+      "num": 140564,
+      "word": "王一博香菜绿席卷武汉",
+      "onboard_time": 1694232997,
+      "rank": 48,
       "category": "综艺"
     },
     {
