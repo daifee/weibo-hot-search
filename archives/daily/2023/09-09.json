@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694234023586,
+  "endTime": 1694236471857,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -17,6 +17,14 @@
       "onboard_time": 1694219191,
       "rank": 0,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1974309,
+      "num": 398898,
+      "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+      "onboard_time": 1694234913,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1774620,
@@ -59,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1322095,
+      "num": 398440,
+      "word": "真的很像宋慧乔和韩素希的女儿",
+      "onboard_time": 1694235333,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1241989,
       "num": 1241989,
       "word": "教师妻子听说丈夫给学生捐骨髓当场同意",
       "onboard_time": 1694221893,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218145,
+      "num": 403975,
+      "word": "白鹿原白灵饰演者近照",
+      "onboard_time": 1694232633,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1030481,
@@ -91,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 891540,
+      "num": 375245,
+      "word": "高晓松怎么瘦成这样了",
+      "onboard_time": 1694235574,
+      "rank": 15,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 887689,
       "num": 887689,
       "word": "张雪峰效应在班委竞选体现了",
@@ -113,14 +145,6 @@
       "onboard_time": 1694230891,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 833758,
-      "num": 403975,
-      "word": "白鹿原白灵饰演者近照",
-      "onboard_time": 1694232633,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 798949,
@@ -147,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760125,
+      "num": 760125,
+      "word": "为什么摘掉眼镜后听力变差了",
+      "onboard_time": 1694231311,
+      "rank": 12,
+      "category": "其它"
+    },
+    {
       "raw_hot": 743423,
       "num": 338786,
       "word": "你们周六休息的简直要亏死了",
@@ -161,6 +193,14 @@
       "onboard_time": 1694227353,
       "rank": 5,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 731656,
+      "num": 731656,
+      "word": "李媛回复李嘉鑫",
+      "onboard_time": 1694227771,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 718122,
@@ -179,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 665069,
-      "num": 665069,
-      "word": "李媛回复李嘉鑫",
-      "onboard_time": 1694227771,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 663798,
       "num": 663798,
       "word": "没唱玫瑰少年",
@@ -195,20 +227,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 656288,
+      "num": 319369,
+      "word": "花66万买了套240平的梦中情房",
+      "onboard_time": 1694234613,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 653667,
       "num": 653667,
       "word": "刘宪华Jessi真的在内娱合体了",
       "onboard_time": 1694185603,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 651633,
-      "num": 651633,
-      "word": "为什么摘掉眼镜后听力变差了",
-      "onboard_time": 1694231311,
-      "rank": 12,
-      "category": "其它"
     },
     {
       "raw_hot": 633855,
@@ -235,11 +267,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 582952,
+      "num": 582952,
+      "word": "李佳航海陆还珠格格12年后再搭新剧",
+      "onboard_time": 1694234074,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575297,
       "num": 290651,
       "word": "肖战新剧这火憋不住了",
       "onboard_time": 1694221652,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 562037,
+      "num": 562037,
+      "word": "成毅张予曦南风知我意双人海报",
+      "onboard_time": 1694234495,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -395,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415446,
+      "num": 415446,
+      "word": "虞书欣在剧组打几份工啊",
+      "onboard_time": 1694235757,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413539,
       "num": 413539,
       "word": "为什么上岸第一剑先斩意中人",
@@ -435,11 +491,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368269,
+      "num": 368269,
+      "word": "偷票房 到底是谁偷了谁",
+      "onboard_time": 1694235696,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350577,
       "num": 295971,
       "word": "骄阳伴我我哭了我演的",
       "onboard_time": 1694187404,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 347120,
+      "num": 347120,
+      "word": "上官浅把宫尚角整不会了",
+      "onboard_time": 1694235634,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -536,6 +608,14 @@
       "word": "女儿一直在说对不起",
       "onboard_time": 1694228013,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 315158,
+      "num": 222096,
+      "word": "教到了小学时最好的朋友的女儿",
+      "onboard_time": 1694234495,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -675,6 +755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264336,
+      "num": 264336,
+      "word": "从姬发到于适",
+      "onboard_time": 1694235814,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256708,
+      "num": 383469,
+      "word": "逃出大英博物馆的隐藏彩蛋",
+      "onboard_time": 1694234436,
+      "rank": 13,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 256507,
       "num": 256507,
       "word": "刘宇宁西出玉门插曲狂风袭来",
@@ -739,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230387,
+      "num": 230387,
+      "word": "王曼昱孙颖莎会师女单决赛",
+      "onboard_time": 1694235696,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220936,
       "num": 220936,
       "word": "德国男篮战胜美国男篮",
       "onboard_time": 1694184343,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217937,
+      "num": 179621,
+      "word": "王一博香菜绿席卷武汉",
+      "onboard_time": 1694232997,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 214812,
@@ -971,6 +1083,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172433,
+      "num": 172433,
+      "word": "京东手机官方向华为求货",
+      "onboard_time": 1694236057,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 171511,
+      "num": 171511,
+      "word": "刚出生4天的柴犬宝宝",
+      "onboard_time": 1694236115,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166616,
       "num": 166616,
       "word": "时代少年团跳小熊舞",
@@ -1121,6 +1249,14 @@
       "onboard_time": 1694222371,
       "rank": 46,
       "category": "其它"
+    },
+    {
+      "raw_hot": 131761,
+      "num": 131761,
+      "word": "怎么跳个舞还需要证明我是人大的",
+      "onboard_time": 1694236235,
+      "rank": 49,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 128640,
@@ -1331,14 +1467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69937,
-      "num": 179621,
-      "word": "王一博香菜绿席卷武汉",
-      "onboard_time": 1694232997,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68402,
       "num": 1164949,
       "word": "来杭州看看梦里江南的模样",
@@ -1468,6 +1596,9 @@
     },
     {
       "word": "#习近平在黑龙江尚志看望慰问受灾群众#"
+    },
+    {
+      "word": "#总书记为龙江发展指明方向#"
     }
   ]
 }
