@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694226853686,
+  "endTime": 1694229387946,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1774620,
-      "num": 1091219,
+      "num": 1255510,
       "word": "保洁扔限量鞋被索赔后自杀身亡",
       "onboard_time": 1694222913,
       "rank": 3,
@@ -35,12 +35,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1694568,
+      "num": 1694568,
+      "word": "女婴输液后尖叫昏迷成脑萎缩",
+      "onboard_time": 1694225492,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344761,
+      "num": 637243,
+      "word": "李在明已绝食抗议9天",
+      "onboard_time": 1694187279,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1241989,
       "num": 1241989,
       "word": "教师妻子听说丈夫给学生捐骨髓当场同意",
       "onboard_time": 1694221893,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033498,
+      "num": 1033498,
+      "word": "原来小说里的VIP病房是真的",
+      "onboard_time": 1694226812,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 1030481,
@@ -75,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834598,
-      "num": 637243,
-      "word": "李在明已绝食抗议9天",
-      "onboard_time": 1694187279,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 798949,
       "num": 349531,
       "word": "旅日游客称不介意福岛鱼",
@@ -99,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 756503,
-      "num": 445466,
-      "word": "女婴输液后尖叫昏迷成脑萎缩",
-      "onboard_time": 1694225492,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 736465,
+      "num": 736465,
+      "word": "李咏女儿法图麦时装周首秀",
+      "onboard_time": 1694227353,
+      "rank": 5,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 718122,
@@ -123,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 665069,
+      "num": 665069,
+      "word": "李媛回复李嘉鑫",
+      "onboard_time": 1694227771,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 663798,
       "num": 663798,
       "word": "没唱玫瑰少年",
@@ -139,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633855,
+      "num": 633855,
+      "word": "美政府首度回应华为技术突破",
+      "onboard_time": 1694226332,
+      "rank": 17,
+      "category": "国外要闻,科技"
+    },
+    {
       "raw_hot": 590273,
       "num": 590273,
       "word": "杰威尔否认周杰伦受伤",
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 575297,
-      "num": 257461,
+      "num": 290651,
       "word": "肖战新剧这火憋不住了",
       "onboard_time": 1694221652,
       "rank": 28,
@@ -235,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442243,
+      "num": 442243,
+      "word": "摩洛哥强震遇难人数升至296人",
+      "onboard_time": 1694227172,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434474,
       "num": 384148,
       "word": "警方回应女子遭夫妇殴打后自杀",
       "onboard_time": 1694222555,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427916,
+      "num": 427916,
+      "word": "戚薇郑秀晶秀场同框",
+      "onboard_time": 1694228133,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 427061,
@@ -275,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396728,
+      "num": 396728,
+      "word": "宫二这个看垃圾的眼神",
+      "onboard_time": 1694228371,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385140,
       "num": 247990,
       "word": "用了一天伞发现头顶有只死虾",
@@ -297,6 +353,14 @@
       "onboard_time": 1694187404,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349850,
+      "num": 417239,
+      "word": "折断兵马俑手指的美国男子向中国道歉",
+      "onboard_time": 1694228251,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345266,
@@ -363,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319728,
-      "num": 319728,
-      "word": "美政府首度回应华为技术突破",
-      "onboard_time": 1694226332,
-      "rank": 17,
-      "category": "国外要闻,科技"
+      "raw_hot": 322489,
+      "num": 322489,
+      "word": "中级会计",
+      "onboard_time": 1694226274,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 317125,
+      "num": 317125,
+      "word": "女儿一直在说对不起",
+      "onboard_time": 1694228013,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 314569,
@@ -387,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309051,
+      "num": 309051,
+      "word": "梅德韦杰夫第五次进大满贯决赛",
+      "onboard_time": 1694228732,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307994,
       "num": 307994,
       "word": "胡歌帮朋友追星吴磊",
       "onboard_time": 1694218412,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301782,
+      "num": 301782,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1694228310,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 301492,
@@ -475,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245142,
+      "num": 245142,
+      "word": "偶遇SEVENTEEN罗马录花样青春",
+      "onboard_time": 1694228554,
+      "rank": 29,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 239419,
       "num": 209305,
       "word": "第一次见杀电饭煲的",
@@ -484,7 +580,7 @@
     },
     {
       "raw_hot": 237746,
-      "num": 330865,
+      "num": 412912,
       "word": "只有自己一人如何用海姆立克法自救",
       "onboard_time": 1694215528,
       "rank": 31,
@@ -497,6 +593,14 @@
       "onboard_time": 1694214382,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233220,
+      "num": 233220,
+      "word": "内马尔加冕巴西队史射手王",
+      "onboard_time": 1694228970,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 220936,
@@ -611,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186013,
+      "num": 377071,
+      "word": "上海有自己的巨物癖",
+      "onboard_time": 1694227232,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184483,
       "num": 184483,
       "word": "张艺兴和林俊杰合唱",
@@ -667,20 +779,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170628,
-      "num": 170628,
-      "word": "中级会计",
-      "onboard_time": 1694226274,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 166616,
       "num": 166616,
       "word": "时代少年团跳小熊舞",
       "onboard_time": 1694186143,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165211,
+      "num": 165211,
+      "word": "华为MateX5测速",
+      "onboard_time": 1694228612,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 163765,
@@ -755,11 +867,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147051,
-      "num": 147051,
-      "word": "原来小说里的VIP病房是真的",
-      "onboard_time": 1694226812,
-      "rank": 47,
+      "raw_hot": 146413,
+      "num": 146413,
+      "word": "你心目中的小说天花板",
+      "onboard_time": 1694229152,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -787,6 +899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141762,
+      "num": 141762,
+      "word": "狗眼一眯我比狗还慌",
+      "onboard_time": 1694229152,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 139209,
+      "num": 139209,
+      "word": "站姐拍的曾黎",
+      "onboard_time": 1694229331,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137604,
       "num": 137604,
       "word": "李现网球王子随拍照",
@@ -795,12 +923,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135937,
+      "num": 135937,
+      "word": "女子误将吐槽语音发家长群太社死",
+      "onboard_time": 1694229032,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134210,
       "num": 134210,
       "word": "容祖儿晒其在香港暴雨中开车",
       "onboard_time": 1694180138,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 133914,
+      "num": 133914,
+      "word": "张云龙狐妖竹业篇白发造型",
+      "onboard_time": 1694229270,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 131972,
@@ -1009,6 +1153,14 @@
       "onboard_time": 1694194223,
       "rank": 48,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 61502,
+      "num": 1265355,
+      "word": "杭州亚运会总赛程最新版",
+      "onboard_time": 1694228013,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 58273,

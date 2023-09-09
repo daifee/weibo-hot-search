@@ -1,0 +1,410 @@
+{
+  "runTime": 1694229387946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1694568,
+        "num": 1694568,
+        "word": "女婴输液后尖叫昏迷成脑萎缩",
+        "onboard_time": 1694225492,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1301221,
+        "num": 1301221,
+        "word": "周五正式确认为蔡国庆",
+        "onboard_time": 1694219191,
+        "rank": 1,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 61502,
+        "num": 1265355,
+        "word": "杭州亚运会总赛程最新版",
+        "onboard_time": 1694228013,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1255510,
+        "num": 1255510,
+        "word": "保洁扔限量鞋被索赔后自杀身亡",
+        "onboard_time": 1694222913,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033498,
+        "num": 1033498,
+        "word": "原来小说里的VIP病房是真的",
+        "onboard_time": 1694226812,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 736465,
+        "num": 736465,
+        "word": "李咏女儿法图麦时装周首秀",
+        "onboard_time": 1694227353,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 665069,
+        "num": 665069,
+        "word": "李媛回复李嘉鑫",
+        "onboard_time": 1694227771,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633855,
+        "num": 633855,
+        "word": "美政府首度回应华为技术突破",
+        "onboard_time": 1694226332,
+        "rank": 7,
+        "category": "国外要闻,科技"
+      },
+      {
+        "raw_hot": 504250,
+        "num": 504250,
+        "word": "教师妻子听说丈夫给学生捐骨髓当场同意",
+        "onboard_time": 1694221893,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442243,
+        "num": 442243,
+        "word": "摩洛哥强震遇难人数升至296人",
+        "onboard_time": 1694227172,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344761,
+        "num": 440966,
+        "word": "李在明已绝食抗议9天",
+        "onboard_time": 1694187279,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 427916,
+        "num": 427916,
+        "word": "戚薇郑秀晶秀场同框",
+        "onboard_time": 1694228133,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349850,
+        "num": 417239,
+        "word": "折断兵马俑手指的美国男子向中国道歉",
+        "onboard_time": 1694228251,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341737,
+        "num": 413934,
+        "word": "00后交警上班了",
+        "onboard_time": 1694224293,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133866,
+        "num": 412912,
+        "word": "只有自己一人如何用海姆立克法自救",
+        "onboard_time": 1694215528,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412502,
+        "num": 412502,
+        "word": "井胧回应被海陆戳鼻孔",
+        "onboard_time": 1694223574,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396728,
+        "num": 396728,
+        "word": "宫二这个看垃圾的眼神",
+        "onboard_time": 1694228371,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379671,
+        "num": 379671,
+        "word": "他抱着浅浅像抱柔弱的小猫",
+        "onboard_time": 1694224954,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186013,
+        "num": 377071,
+        "word": "上海有自己的巨物癖",
+        "onboard_time": 1694227232,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376797,
+        "num": 376797,
+        "word": "吴倩新剧演复仇女主",
+        "onboard_time": 1694225794,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322489,
+        "num": 322489,
+        "word": "中级会计",
+        "onboard_time": 1694226274,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 317125,
+        "num": 317125,
+        "word": "女儿一直在说对不起",
+        "onboard_time": 1694228013,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309051,
+        "num": 309051,
+        "word": "梅德韦杰夫第五次进大满贯决赛",
+        "onboard_time": 1694228732,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301782,
+        "num": 301782,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1694228310,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290651,
+        "num": 290651,
+        "word": "肖战新剧这火憋不住了",
+        "onboard_time": 1694221652,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285925,
+        "num": 285925,
+        "word": "周杰伦演唱会受伤",
+        "onboard_time": 1694183017,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283740,
+        "num": 283740,
+        "word": "公职人员理发不满意举报店家偷税漏税",
+        "onboard_time": 1694214201,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247510,
+        "num": 247510,
+        "word": "广东香港世纪暴雨台风只是表层原因",
+        "onboard_time": 1694222071,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 245252,
+        "num": 245252,
+        "word": "久哲问付辛博和谁一起出道",
+        "onboard_time": 1694226034,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245142,
+        "num": 245142,
+        "word": "偶遇SEVENTEEN罗马录花样青春",
+        "onboard_time": 1694228554,
+        "rank": 29,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 234753,
+        "num": 234753,
+        "word": "长期不换头像的情绪更稳定吗",
+        "onboard_time": 1694184940,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233220,
+        "num": 233220,
+        "word": "内马尔加冕巴西队史射手王",
+        "onboard_time": 1694228970,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190413,
+        "num": 190413,
+        "word": "警方回应女子遭夫妇殴打后自杀",
+        "onboard_time": 1694222555,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181077,
+        "num": 181077,
+        "word": "用了一天伞发现头顶有只死虾",
+        "onboard_time": 1694217866,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176396,
+        "num": 176396,
+        "word": "南京大学的双人间豪宅宿舍",
+        "onboard_time": 1694216067,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168541,
+        "num": 168541,
+        "word": "男子河边用钢筋磨针坚持2000多天",
+        "onboard_time": 1694215225,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165211,
+        "num": 165211,
+        "word": "华为MateX5测速",
+        "onboard_time": 1694228612,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151846,
+        "num": 151846,
+        "word": "周杰伦演唱会开场话筒没声音",
+        "onboard_time": 1694224893,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150973,
+        "num": 150973,
+        "word": "披荆斩棘笑点太密了",
+        "onboard_time": 1694224232,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146413,
+        "num": 146413,
+        "word": "你心目中的小说天花板",
+        "onboard_time": 1694229152,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143742,
+        "num": 143742,
+        "word": "大学生贷款参加就业培训后自缢身亡",
+        "onboard_time": 1694187761,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143644,
+        "num": 143644,
+        "word": "南风知我意预约人数破200万",
+        "onboard_time": 1694223211,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141762,
+        "num": 141762,
+        "word": "狗眼一眯我比狗还慌",
+        "onboard_time": 1694229152,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139209,
+        "num": 139209,
+        "word": "站姐拍的曾黎",
+        "onboard_time": 1694229331,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138588,
+        "num": 138588,
+        "word": "有没有不上班但饿不死的方法",
+        "onboard_time": 1694221353,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135937,
+        "num": 135937,
+        "word": "女子误将吐槽语音发家长群太社死",
+        "onboard_time": 1694229032,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133914,
+        "num": 133914,
+        "word": "张云龙狐妖竹业篇白发造型",
+        "onboard_time": 1694229270,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133222,
+        "num": 133222,
+        "word": "檀健次买了个教训",
+        "onboard_time": 1694216249,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131224,
+        "num": 131224,
+        "word": "男孩向工作人员描述丢失的小狗",
+        "onboard_time": 1694223811,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127876,
+        "num": 127876,
+        "word": "吴克群练肌肉是为了治腰间盘突出",
+        "onboard_time": 1694225613,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在黑龙江尚志看望慰问受灾群众#"
+    }
+  }
+}
