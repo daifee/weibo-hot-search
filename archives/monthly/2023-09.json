@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694291623628,
+  "endTime": 1694293992650,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -24417,6 +24417,14 @@
       "onboard_time": 1693856713,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20940,
+      "num": 20940,
+      "word": "于文文唱体面可以笑着疼了",
+      "onboard_time": 1694292974,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 20803,
