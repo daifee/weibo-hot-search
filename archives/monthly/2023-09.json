@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694247542066,
+  "endTime": 1694248425412,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -1379,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1562376,
+      "num": 654996,
+      "word": "Angelababy赫敏",
+      "onboard_time": 1694246137,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1545270,
       "num": 921287,
       "word": "张馨予300颗钻石头饰造型",
@@ -1588,7 +1596,7 @@
     },
     {
       "raw_hot": 1428501,
-      "num": 347466,
+      "num": 378338,
       "word": "卡琳娜 仲尼",
       "onboard_time": 1694246495,
       "rank": 11,
@@ -1777,14 +1785,6 @@
       "onboard_time": 1694160033,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1308961,
-      "num": 654996,
-      "word": "Angelababy赫敏",
-      "onboard_time": 1694246137,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1308821,
@@ -4907,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655164,
+      "num": 655164,
+      "word": "透明版iPhone",
+      "onboard_time": 1694244094,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 655071,
       "num": 655071,
       "word": "原来易烊千玺早就剧透新电影了",
@@ -4985,14 +4993,6 @@
       "onboard_time": 1693611991,
       "rank": 4,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 651133,
-      "num": 651133,
-      "word": "透明版iPhone",
-      "onboard_time": 1694244094,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 651007,
@@ -7177,6 +7177,14 @@
       "onboard_time": 1693701032,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 498742,
+      "num": 498742,
+      "word": "刘宪华在马伯骞旁边都显得内向了",
+      "onboard_time": 1694247515,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 498402,
@@ -10331,14 +10339,6 @@
       "category": "动漫,音乐"
     },
     {
-      "raw_hot": 347966,
-      "num": 347003,
-      "word": "刘宪华在马伯骞旁边都显得内向了",
-      "onboard_time": 1694247515,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 347854,
       "num": 337672,
       "word": "减肥为什么先养肝",
@@ -10761,6 +10761,14 @@
       "onboard_time": 1693782747,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331240,
+      "num": 331240,
+      "word": "樊振东林高远夺冠",
+      "onboard_time": 1694247937,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 331048,
@@ -14003,6 +14011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245242,
+      "num": 245242,
+      "word": "听说耳洞不堵会漏财",
+      "onboard_time": 1694247697,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244801,
       "num": 294193,
       "word": "代号鸢兔基",
@@ -14353,6 +14369,14 @@
       "onboard_time": 1693794333,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237881,
+      "num": 237881,
+      "word": "周琦 手术",
+      "onboard_time": 1694248115,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 237780,
@@ -14979,6 +15003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225420,
+      "num": 225420,
+      "word": "恋综都看不见这么多张嘴在一起",
+      "onboard_time": 1694248357,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225188,
       "num": 202743,
       "word": "云为衫宫子羽郑南衣大婚现场",
@@ -15113,6 +15145,14 @@
       "onboard_time": 1693786777,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223151,
+      "num": 223151,
+      "word": "云之羽直播",
+      "onboard_time": 1694247816,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 223065,
@@ -15832,6 +15872,14 @@
       "word": "男子离婚两月后发现2岁儿子非亲生",
       "onboard_time": 1693491698,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208342,
+      "num": 208342,
+      "word": "印度11名男子残忍奸杀14岁女孩",
+      "onboard_time": 1694248414,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -18363,6 +18411,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 180294,
+      "num": 180294,
+      "word": "外卖小哥爬泰山送外卖一趟500元",
+      "onboard_time": 1694247573,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180247,
       "num": 201312,
       "word": "给北方朋友一点南方烧烤的震撼",
@@ -19055,6 +19111,14 @@
       "num": 325583,
       "word": "老人欲转账百万女警扮成物业劝阻",
       "onboard_time": 1693810894,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166202,
+      "num": 353725,
+      "word": "警察夫妻度蜜月抓了个嫌疑犯",
+      "onboard_time": 1694246433,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -20827,6 +20891,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 131473,
+      "num": 131473,
+      "word": "韩国一家非常不错的烤肉店",
+      "onboard_time": 1694248296,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131285,
       "num": 131285,
       "word": "蒙语版孤勇者专掀天灵盖",
@@ -21775,14 +21847,6 @@
       "num": 475141,
       "word": "小伙去柬埔寨捞金民警连打21个电话劝回",
       "onboard_time": 1694012499,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89906,
-      "num": 347237,
-      "word": "警察夫妻度蜜月抓了个嫌疑犯",
-      "onboard_time": 1694246433,
       "rank": 14,
       "category": "社会新闻"
     },
