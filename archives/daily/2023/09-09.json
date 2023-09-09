@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694221711478,
+  "endTime": 1694222880569,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -11,8 +11,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2102675,
-      "num": 2102675,
+      "raw_hot": 2192212,
+      "num": 2192212,
       "word": "周五正式确认为蔡国庆",
       "onboard_time": 1694219191,
       "rank": 0,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 798949,
-      "num": 296545,
+      "num": 349531,
       "word": "旅日游客称不介意福岛鱼",
       "onboard_time": 1694198655,
       "rank": 31,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 606208,
-      "num": 606208,
+      "raw_hot": 617914,
+      "num": 617914,
       "word": "李在明已绝食抗议9天",
       "onboard_time": 1694187279,
       "rank": 24,
@@ -115,8 +115,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 560085,
+      "num": 233728,
+      "word": "肖战新剧这火憋不住了",
+      "onboard_time": 1694221652,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553728,
-      "num": 307580,
+      "num": 446581,
       "word": "黄晓明被张小斐感动落泪",
       "onboard_time": 1694219971,
       "rank": 10,
@@ -139,8 +147,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 466394,
-      "num": 466394,
+      "raw_hot": 493430,
+      "num": 493430,
       "word": "男子河边用钢筋磨针坚持2000多天",
       "onboard_time": 1694215225,
       "rank": 12,
@@ -153,6 +161,14 @@
       "onboard_time": 1694190989,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459749,
+      "num": 459749,
+      "word": "教师妻子听说丈夫给学生捐骨髓当场同意",
+      "onboard_time": 1694221893,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457965,
@@ -259,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314569,
+      "num": 233333,
+      "word": "有没有不上班但饿不死的方法",
+      "onboard_time": 1694221353,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313722,
       "num": 295481,
       "word": "企业回应把日本食材引进无锡学生餐",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 301481,
-      "num": 215797,
+      "num": 224857,
       "word": "拍立得拍照时千万别戴眼镜",
       "onboard_time": 1694219552,
       "rank": 24,
@@ -297,6 +321,14 @@
       "onboard_time": 1694187939,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294167,
+      "num": 294167,
+      "word": "美网",
+      "onboard_time": 1694221472,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 278327,
@@ -331,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267128,
+      "num": 206311,
+      "word": "广东香港世纪暴雨台风只是表层原因",
+      "onboard_time": 1694222071,
+      "rank": 30,
+      "category": "自然"
+    },
+    {
       "raw_hot": 246326,
       "num": 246326,
       "word": "虞书欣张凌赫卢昱晓聚餐",
@@ -339,8 +379,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239419,
+      "num": 204870,
+      "word": "第一次见杀电饭煲的",
+      "onboard_time": 1694221772,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237746,
-      "num": 305186,
+      "num": 306012,
       "word": "只有自己一人如何用海姆立克法自救",
       "onboard_time": 1694215528,
       "rank": 31,
@@ -348,7 +396,7 @@
     },
     {
       "raw_hot": 234179,
-      "num": 303264,
+      "num": 304827,
       "word": "摩洛哥6.9级地震",
       "onboard_time": 1694214382,
       "rank": 18,
@@ -363,8 +411,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204733,
-      "num": 204733,
+      "raw_hot": 213638,
+      "num": 213638,
       "word": "内马尔首发出战玻利维亚",
       "onboard_time": 1694220392,
       "rank": 25,
@@ -395,22 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199720,
-      "num": 187261,
-      "word": "有没有不上班但饿不死的方法",
-      "onboard_time": 1694221353,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 196041,
-      "num": 196041,
-      "word": "肖战新剧这火憋不住了",
-      "onboard_time": 1694221652,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189089,
       "num": 189089,
       "word": "敖子逸四杀",
@@ -425,6 +457,14 @@
       "onboard_time": 1694177854,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184483,
+      "num": 184483,
+      "word": "张艺兴和林俊杰合唱",
+      "onboard_time": 1694214261,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 179502,
@@ -443,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174718,
-      "num": 174718,
-      "word": "美网",
-      "onboard_time": 1694221472,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 176560,
+      "num": 176560,
+      "word": "警方回应女子遭夫妇殴打后自杀",
+      "onboard_time": 1694222555,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174594,
@@ -465,14 +505,6 @@
       "onboard_time": 1694186325,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170700,
-      "num": 170700,
-      "word": "张艺兴和林俊杰合唱",
-      "onboard_time": 1694214261,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 166616,
@@ -523,11 +555,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147980,
+      "num": 147980,
+      "word": "深圳网约式急救上线3月救30人",
+      "onboard_time": 1694222853,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143226,
       "num": 143226,
       "word": "乌尔善拉片",
       "onboard_time": 1694190031,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142927,
+      "num": 142927,
+      "word": "云之羽",
+      "onboard_time": 1694222731,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -553,6 +601,14 @@
       "onboard_time": 1694180138,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 131972,
+      "num": 131972,
+      "word": "腰腿疼 核桃壳杜仲煮鸡蛋",
+      "onboard_time": 1694222371,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 128640,
