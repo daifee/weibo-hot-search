@@ -1,0 +1,410 @@
+{
+  "runTime": 1694255624534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1303171,
+        "num": 1303171,
+        "word": "虞书欣 THE9演唱你会来吗",
+        "onboard_time": 1694251175,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 526624,
+        "num": 526624,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68499,
+        "num": 522596,
+        "word": "一定要会的急救知识合集",
+        "onboard_time": 1694249735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581506,
+        "num": 522419,
+        "word": "Angelababy赫敏",
+        "onboard_time": 1694246137,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334508,
+        "num": 521318,
+        "word": "4岁女孩教师节手提五花肉送老师",
+        "onboard_time": 1694253035,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521062,
+        "num": 521062,
+        "word": "摩洛哥地震遇难人数升至820人",
+        "onboard_time": 1694253995,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205474,
+        "num": 508477,
+        "word": "男老师收到花边走边拍开心炫耀",
+        "onboard_time": 1694252855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507337,
+        "num": 507337,
+        "word": "陶喆 melody",
+        "onboard_time": 1694255253,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467423,
+        "num": 467423,
+        "word": "男子想和聋哑女友结婚领证被拒",
+        "onboard_time": 1694241512,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386379,
+        "num": 386379,
+        "word": "很喜欢去有风的地方这段表白",
+        "onboard_time": 1694250214,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2285156,
+        "num": 382781,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1279244,
+        "num": 378151,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662458,
+        "num": 376565,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 625495,
+        "num": 372864,
+        "word": "虞书欣没忍住喊了张凌赫牛牛",
+        "onboard_time": 1694253273,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108057,
+        "num": 366726,
+        "word": "男子买菜掉了700元他们接力找人",
+        "onboard_time": 1694253695,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810861,
+        "num": 361871,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 361502,
+        "num": 361502,
+        "word": "荷兰光刻机巨头说我们太自以为是了",
+        "onboard_time": 1694241215,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295789,
+        "num": 295789,
+        "word": "中考分流40%的孩子去哪了",
+        "onboard_time": 1694237676,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239555,
+        "num": 239555,
+        "word": "恋综都看不见这么多张嘴在一起",
+        "onboard_time": 1694248357,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226577,
+        "num": 226577,
+        "word": "封神质子团为李昀锐新剧打call",
+        "onboard_time": 1694251715,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406753,
+        "num": 224931,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390803,
+        "num": 222914,
+        "word": "女子身藏15条蛇4条蜈蚣1条蜥蜴入境",
+        "onboard_time": 1694252917,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370249,
+        "num": 220697,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344390,
+        "num": 219156,
+        "word": "花了16w装出来的家",
+        "onboard_time": 1694250155,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217593,
+        "num": 217593,
+        "word": "听说耳洞不堵会漏财",
+        "onboard_time": 1694247697,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194626,
+        "num": 194626,
+        "word": "王曼昱亚锦赛夺冠",
+        "onboard_time": 1694252313,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188541,
+        "num": 188541,
+        "word": "傅首尔 还是活在等妈妈来找的柜子里",
+        "onboard_time": 1694242775,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "花66万买了套240平的梦中情房",
+        "onboard_time": 1694234613,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178553,
+        "num": 178553,
+        "word": "真的很像宋慧乔和韩素希的女儿",
+        "onboard_time": 1694235333,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170129,
+        "num": 170129,
+        "word": "韩国一家非常不错的烤肉店",
+        "onboard_time": 1694248296,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286162,
+        "num": 166899,
+        "word": "管理余额宝10多年的基金经理离职了",
+        "onboard_time": 1694255374,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162321,
+        "num": 162321,
+        "word": "PPT发明者去世",
+        "onboard_time": 1694240199,
+        "rank": 31,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 160314,
+        "num": 160314,
+        "word": "仅有14人住的中国海岛",
+        "onboard_time": 1694238335,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 159370,
+        "num": 159370,
+        "word": "邓为风度10月刊双封面",
+        "onboard_time": 1694240498,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159347,
+        "num": 159347,
+        "word": "王曼昱3比2孙颖莎",
+        "onboard_time": 1694252253,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152454,
+        "num": 152454,
+        "word": "周琦 手术",
+        "onboard_time": 1694248115,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150469,
+        "num": 150469,
+        "word": "推动东北全面振兴",
+        "onboard_time": 1694251593,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 139686,
+        "num": 139686,
+        "word": "正畸能有多难受",
+        "onboard_time": 1694249316,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139681,
+        "num": 139681,
+        "word": "彭昱畅的腿筛糠腿",
+        "onboard_time": 1694251956,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38452,
+        "num": 137764,
+        "word": "白象董事长从大运会跑到亚运会",
+        "onboard_time": 1694253635,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 137606,
+        "num": 137606,
+        "word": "爱吃海底捞的有福了",
+        "onboard_time": 1694236474,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129817,
+        "num": 129817,
+        "word": "透明版iPhone",
+        "onboard_time": 1694244094,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129282,
+        "num": 129282,
+        "word": "刘宪华在马伯骞旁边都显得内向了",
+        "onboard_time": 1694247515,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126961,
+        "num": 126961,
+        "word": "你好星期六",
+        "onboard_time": 1694247756,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126553,
+        "num": 126553,
+        "word": "吃14块的早餐被骂了",
+        "onboard_time": 1694240498,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125523,
+        "num": 125523,
+        "word": "天秤座小事犹豫大事坚定",
+        "onboard_time": 1694240855,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 122488,
+        "num": 122488,
+        "word": "樊振东林高远3比2战胜马龙王楚钦",
+        "onboard_time": 1694249017,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120231,
+        "num": 120231,
+        "word": "你们周六休息的简直要亏死了",
+        "onboard_time": 1694231732,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110231,
+        "num": 110231,
+        "word": "阴阳师七周年",
+        "onboard_time": 1694255495,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107970,
+        "num": 107970,
+        "word": "云之羽直播",
+        "onboard_time": 1694247816,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国广大教师节日快乐#"
+    }
+  }
+}
