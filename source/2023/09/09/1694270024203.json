@@ -1,0 +1,410 @@
+{
+  "runTime": 1694270024203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610071,
+        "num": 1610071,
+        "word": "你还在买余额宝吗",
+        "onboard_time": 1694259634,
+        "rank": 0,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 1608925,
+        "num": 1608925,
+        "word": "你好星期六下期有三个剧组",
+        "onboard_time": 1694268520,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23441,
+        "num": 1074725,
+        "word": "夜西湖点燃亚运之夜",
+        "onboard_time": 1694265158,
+        "rank": 2,
+        "category": "旅游,体育"
+      },
+      {
+        "raw_hot": 930074,
+        "num": 930074,
+        "word": "马斯克和女高管所生双胞胎曝光",
+        "onboard_time": 1694266659,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 867815,
+        "num": 867815,
+        "word": "TFBOYS为王源新综艺宣传",
+        "onboard_time": 1694269296,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 831972,
+        "num": 831972,
+        "word": "华晨宇接受法师称号",
+        "onboard_time": 1694267318,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 562097,
+        "num": 562097,
+        "word": "成龙周杰伦 千里之外",
+        "onboard_time": 1694264557,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 544037,
+        "num": 544037,
+        "word": "肖战田雨20集终于见面了",
+        "onboard_time": 1694266718,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508025,
+        "num": 508025,
+        "word": "李帅受伤",
+        "onboard_time": 1694266118,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397039,
+        "num": 397039,
+        "word": "胡锡进 四川工商学院的声明是一种悲哀",
+        "onboard_time": 1694261615,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2287746,
+        "num": 396070,
+        "word": "卡琳娜宣布暂停一切活动",
+        "onboard_time": 1694263535,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 394703,
+        "num": 394703,
+        "word": "张桂梅不甘女孩们重复没选择的一生",
+        "onboard_time": 1694266780,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283793,
+        "num": 394523,
+        "word": "白俄罗斯姑娘拯救了中国胃",
+        "onboard_time": 1694267377,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260444,
+        "num": 393975,
+        "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
+        "onboard_time": 1694252495,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69558,
+        "num": 393286,
+        "word": "老人晕倒路中间一群人从四面八方涌来",
+        "onboard_time": 1694268038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209589,
+        "num": 393041,
+        "word": "王俊凯 俊昇文化",
+        "onboard_time": 1694258794,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732500,
+        "num": 392182,
+        "word": "三年租房花费了十五万",
+        "onboard_time": 1694257774,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 527552,
+        "num": 391799,
+        "word": "高晓松 向太",
+        "onboard_time": 1694252975,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490874,
+        "num": 391400,
+        "word": "云之羽角浅徵开虐",
+        "onboard_time": 1694265516,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488236,
+        "num": 391106,
+        "word": "王力宏演唱会",
+        "onboard_time": 1694263595,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62779,
+        "num": 390612,
+        "word": "当亚运会遇上中华文化",
+        "onboard_time": 1694265275,
+        "rank": 20,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 849337,
+        "num": 389816,
+        "word": "28岁女生经期用按摩仪按腰致肾破裂",
+        "onboard_time": 1694265037,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623069,
+        "num": 389320,
+        "word": "微信三件套可以看出很多东西",
+        "onboard_time": 1694268279,
+        "rank": 22,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 442551,
+        "num": 389043,
+        "word": "10年米粉换用iPhone是什么体验",
+        "onboard_time": 1694268218,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 388583,
+        "num": 388583,
+        "word": "摩洛哥地震遇难人数上升至1037人",
+        "onboard_time": 1694265336,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351365,
+        "num": 351365,
+        "word": "云姑娘 你尊嘟爱我吗",
+        "onboard_time": 1694266476,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350888,
+        "num": 350888,
+        "word": "国足1比1马来西亚",
+        "onboard_time": 1694267138,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345083,
+        "num": 345083,
+        "word": "胡歌给女儿起名茉莉的原因",
+        "onboard_time": 1694264857,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317322,
+        "num": 317322,
+        "word": "美一乘客腹泻不止致飞机舱内遍布粪便",
+        "onboard_time": 1694266598,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292493,
+        "num": 292493,
+        "word": "张凌赫欲哞又止",
+        "onboard_time": 1694269658,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288345,
+        "num": 288345,
+        "word": "盛阳单飞了",
+        "onboard_time": 1694268279,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275218,
+        "num": 275218,
+        "word": "亿分之一的几率二胎妈妈诞下龙凤三胞胎",
+        "onboard_time": 1694268279,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273921,
+        "num": 273921,
+        "word": "学生不订奶要开县级医院以上诊断证明",
+        "onboard_time": 1694254774,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239006,
+        "num": 239006,
+        "word": "重庆人在香港点的爆辣麻辣烫",
+        "onboard_time": 1694267079,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237623,
+        "num": 237623,
+        "word": "女子胸前腰部绑藏15条活体蛇入境",
+        "onboard_time": 1694260115,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217497,
+        "num": 217497,
+        "word": "宫远徵被宫尚角凶哭了",
+        "onboard_time": 1694266118,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216003,
+        "num": 216003,
+        "word": "卡琳娜 仲尼",
+        "onboard_time": 1694246495,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 215226,
+        "num": 215226,
+        "word": "张凌赫去周杰伦演唱会了",
+        "onboard_time": 1694264135,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204586,
+        "num": 204586,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1694269120,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202122,
+        "num": 202122,
+        "word": "中级经济法",
+        "onboard_time": 1694259936,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200456,
+        "num": 200456,
+        "word": "印度11名男子残忍奸杀14岁女孩",
+        "onboard_time": 1694248414,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194673,
+        "num": 194673,
+        "word": "LWX问Doinb交钱了没",
+        "onboard_time": 1694264674,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190117,
+        "num": 190117,
+        "word": "中国国奥vs印度国奥",
+        "onboard_time": 1694266896,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186808,
+        "num": 186808,
+        "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
+        "onboard_time": 1694234913,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185364,
+        "num": 185364,
+        "word": "高晓松怎么瘦成这样了",
+        "onboard_time": 1694235574,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 170669,
+        "num": 170669,
+        "word": "陶喆 melody",
+        "onboard_time": 1694255253,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170546,
+        "num": 170546,
+        "word": "断亲现象为何如此流行",
+        "onboard_time": 1694263958,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 169658,
+        "num": 169658,
+        "word": "安崎淘汰",
+        "onboard_time": 1694260959,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164575,
+        "num": 164575,
+        "word": "李彩演 Baggy Jeans Challenge",
+        "onboard_time": 1694267318,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159691,
+        "num": 159691,
+        "word": "云为衫雾姬夫人联手设计宫尚角",
+        "onboard_time": 1694264377,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创黑龙江高质量发展新局面#"
+    }
+  }
+}

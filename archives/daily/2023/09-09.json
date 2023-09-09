@@ -1,6 +1,6 @@
 {
   "startTime": 1694190108788,
-  "endTime": 1694268821450,
+  "endTime": 1694270024203,
   "band_list": [
     {
       "raw_hot": 4444225,
@@ -89,6 +89,14 @@
       "onboard_time": 1694225492,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1608925,
+      "num": 1608925,
+      "word": "你好星期六下期有三个剧组",
+      "onboard_time": 1694268520,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1562376,
@@ -203,14 +211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1130523,
-      "num": 1130523,
-      "word": "你好星期六下期有三个剧组",
-      "onboard_time": 1694268520,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1030481,
       "num": 1030481,
       "word": "阿信演唱会吸氧",
@@ -241,6 +241,14 @@
       "onboard_time": 1694265037,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930074,
+      "num": 930074,
+      "word": "马斯克和女高管所生双胞胎曝光",
+      "onboard_time": 1694266659,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 905516,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867815,
+      "num": 867815,
+      "word": "TFBOYS为王源新综艺宣传",
+      "onboard_time": 1694269296,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 855252,
       "num": 855252,
       "word": "纪念毛泽东同志逝世47周年",
@@ -291,20 +307,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 842795,
-      "num": 842795,
-      "word": "马斯克和女高管所生双胞胎曝光",
-      "onboard_time": 1694266659,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 837281,
       "num": 646521,
       "word": "中考分流40%的孩子去哪了",
       "onboard_time": 1694237676,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 831972,
+      "num": 831972,
+      "word": "华晨宇接受法师称号",
+      "onboard_time": 1694267318,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 829318,
@@ -353,14 +369,6 @@
       "onboard_time": 1694261615,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 777463,
-      "num": 777463,
-      "word": "华晨宇接受法师称号",
-      "onboard_time": 1694267318,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 775992,
@@ -553,6 +561,14 @@
       "onboard_time": 1694253273,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 623069,
+      "num": 389320,
+      "word": "微信三件套可以看出很多东西",
+      "onboard_time": 1694268279,
+      "rank": 31,
+      "category": "情感,科技"
     },
     {
       "raw_hot": 613515,
@@ -873,6 +889,14 @@
       "onboard_time": 1694235757,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442551,
+      "num": 389043,
+      "word": "10年米粉换用iPhone是什么体验",
+      "onboard_time": 1694268218,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 442243,
@@ -1347,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292493,
+      "num": 292493,
+      "word": "张凌赫欲哞又止",
+      "onboard_time": 1694269658,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291597,
       "num": 291597,
       "word": "肖战聊骄阳伴我姐弟恋",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1694252313,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283793,
+      "num": 590400,
+      "word": "白俄罗斯姑娘拯救了中国胃",
+      "onboard_time": 1694267377,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283740,
@@ -1425,6 +1465,14 @@
       "onboard_time": 1694187221,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275218,
+      "num": 275218,
+      "word": "亿分之一的几率二胎妈妈诞下龙凤三胞胎",
+      "onboard_time": 1694268279,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274062,
@@ -1491,28 +1539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263108,
-      "num": 263108,
-      "word": "亿分之一的几率二胎妈妈诞下龙凤三胞胎",
-      "onboard_time": 1694268279,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261493,
       "num": 261493,
       "word": "吃14块的早餐被骂了",
       "onboard_time": 1694240498,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 258532,
-      "num": 258532,
-      "word": "微信三件套可以看出很多东西",
-      "onboard_time": 1694268279,
-      "rank": 31,
-      "category": "情感,科技"
     },
     {
       "raw_hot": 256507,
@@ -1691,14 +1723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221315,
-      "num": 221315,
-      "word": "10年米粉换用iPhone是什么体验",
-      "onboard_time": 1694268218,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 220936,
       "num": 220936,
       "word": "德国男篮战胜美国男篮",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1694266896,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204586,
+      "num": 204586,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1694269120,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 204545,
@@ -1937,14 +1969,6 @@
       "onboard_time": 1694232693,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193975,
-      "num": 590400,
-      "word": "白俄罗斯姑娘拯救了中国胃",
-      "onboard_time": 1694267377,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193387,
@@ -2835,6 +2859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69558,
+      "num": 584850,
+      "word": "老人晕倒路中间一群人从四面八方涌来",
+      "onboard_time": 1694268038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68402,
       "num": 1164949,
       "word": "来杭州看看梦里江南的模样",
@@ -2908,7 +2940,7 @@
     },
     {
       "raw_hot": 38664,
-      "num": 158526,
+      "num": 1074725,
       "word": "夜西湖点燃亚运之夜",
       "onboard_time": 1694265158,
       "rank": 44,
@@ -2977,14 +3009,6 @@
       "onboard_time": 1694205313,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25445,
-      "num": 584850,
-      "word": "老人晕倒路中间一群人从四面八方涌来",
-      "onboard_time": 1694268038,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24907,
