@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694366014226,
+  "endTime": 1694367217067,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 978753,
+      "num": 978753,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 813589,
       "num": 813589,
       "word": "薛之谦成都39度高烧依旧开唱",
       "onboard_time": 1694347655,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 790309,
-      "num": 790309,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752619,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414119,
+      "num": 414119,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 379230,
       "num": 379230,
       "word": "男子抢劫156元分赃30元躲进山洞14年",
@@ -145,14 +153,6 @@
       "onboard_time": 1694362177,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 351139,
-      "num": 351139,
-      "word": "Apex",
-      "onboard_time": 1694363071,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 311520,
@@ -347,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180013,
+      "num": 140514,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170948,
       "num": 170948,
       "word": "殷商男足",
@@ -419,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135242,
-      "num": 135242,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124468,
       "num": 124468,
       "word": "冰尘抓不住的金色雨",
@@ -483,6 +483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 73083,
+      "num": 73083,
+      "word": "17岁的日记救20岁的我一命",
+      "onboard_time": 1694366840,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 46839,
       "num": 721913,
       "word": "亚运会场馆水幔设计既典雅又实用",
@@ -491,7 +499,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5888,
+      "raw_hot": 13901,
       "num": 651086,
       "word": "同学们便利贴写祝福拼成画送老师",
       "onboard_time": 1694351495,

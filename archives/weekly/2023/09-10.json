@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694366014226,
+  "endTime": 1694367217067,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 978753,
+      "num": 978753,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976290,
       "num": 976290,
       "word": "TTG金色雨",
@@ -448,14 +456,6 @@
       "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
       "onboard_time": 1694270559,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790309,
-      "num": 790309,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -987,6 +987,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 414119,
+      "num": 414119,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 414037,
       "num": 339169,
       "word": "这就是街舞6导师剪影海报",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1694308413,
       "rank": 49,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 351139,
-      "num": 351139,
-      "word": "Apex",
-      "onboard_time": 1694363071,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 350819,
@@ -2507,6 +2507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 180013,
+      "num": 140514,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179508,
       "num": 179508,
       "word": "李九为TTG写诗",
@@ -2883,14 +2891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135242,
-      "num": 135242,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133825,
       "num": 338275,
       "word": "我想成为的人有您的影子",
@@ -3177,6 +3177,14 @@
       "onboard_time": 1694251175,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 73083,
+      "num": 73083,
+      "word": "17岁的日记救20岁的我一命",
+      "onboard_time": 1694366840,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 71141,

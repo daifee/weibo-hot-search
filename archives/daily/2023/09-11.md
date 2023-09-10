@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/11 00:20:33 ~ 2023/09/11 01:13:34
+本榜单时间：2023/09/11 00:20:33 ~ 2023/09/11 01:33:37
 </p>
 </blockquote>
 <p>
@@ -39,14 +39,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23" target="weibo">
-薛之谦成都39度高烧依旧开唱（热度：813589）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23" target="weibo">
+国货难带和尊重消费者是两码事（热度：978753）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23" target="weibo">
-国货难带和尊重消费者是两码事（热度：790309）
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23" target="weibo">
+薛之谦成都39度高烧依旧开唱（热度：813589）
 </a>
 </li>
 
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Apex%23" target="weibo">
+Apex（热度：414119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23" target="weibo">
 男子抢劫156元分赃30元躲进山洞14年（热度：379230）
 </a>
@@ -119,12 +125,6 @@ DF冲（热度：374990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E8%B5%B7%E6%AD%A5%E8%BF%99%E4%B9%88%E9%BA%BB%E7%83%A6%23" target="weibo">
 原来高铁起步这么麻烦（热度：369186）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Apex%23" target="weibo">
-Apex（热度：351139）
 </a>
 </li>
 
@@ -273,6 +273,12 @@ Fly说重新来过（热度：246217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%8F%98%E5%BE%97%E6%8A%A0%E9%97%A8%E4%BA%86%23" target="weibo">
+这届年轻人为何变得抠门了（热度：180013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E5%95%86%E7%94%B7%E8%B6%B3%23" target="weibo">
 殷商男足（热度：170948）
 </a>
@@ -327,12 +333,6 @@ Fly说重新来过（热度：246217）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%8F%98%E5%BE%97%E6%8A%A0%E9%97%A8%E4%BA%86%23" target="weibo">
-这届年轻人为何变得抠门了（热度：135242）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B0%98%E6%8A%93%E4%B8%8D%E4%BD%8F%E7%9A%84%E9%87%91%E8%89%B2%E9%9B%A8%23" target="weibo">
 冰尘抓不住的金色雨（热度：124468）
 </a>
@@ -375,6 +375,12 @@ Fly说重新来过（热度：246217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%9A%84%E6%97%A5%E8%AE%B0%E6%95%9120%E5%B2%81%E7%9A%84%E6%88%91%E4%B8%80%E5%91%BD%23" target="weibo">
+17岁的日记救20岁的我一命（热度：73083）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E6%B0%B4%E5%B9%94%E8%AE%BE%E8%AE%A1%E6%97%A2%E5%85%B8%E9%9B%85%E5%8F%88%E5%AE%9E%E7%94%A8%23" target="weibo">
 亚运会场馆水幔设计既典雅又实用（热度：46839）
 </a>
@@ -382,7 +388,7 @@ Fly说重新来过（热度：246217）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E4%BE%BF%E5%88%A9%E8%B4%B4%E5%86%99%E7%A5%9D%E7%A6%8F%E6%8B%BC%E6%88%90%E7%94%BB%E9%80%81%E8%80%81%E5%B8%88%23" target="weibo">
-同学们便利贴写祝福拼成画送老师（热度：5888）
+同学们便利贴写祝福拼成画送老师（热度：13901）
 </a>
 </li>
 

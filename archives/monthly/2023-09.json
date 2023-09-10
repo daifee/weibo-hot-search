@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694366014226,
+  "endTime": 1694367217067,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -3075,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 978753,
+      "num": 978753,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978243,
       "num": 515455,
       "word": "黄子韬出品徐艺洋新剧",
@@ -4321,14 +4329,6 @@
       "onboard_time": 1693801300,
       "rank": 17,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 790309,
-      "num": 790309,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 789085,
@@ -10195,6 +10195,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 414119,
+      "num": 414119,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 414037,
       "num": 339169,
       "word": "这就是街舞6导师剪影海报",
@@ -11801,14 +11809,6 @@
       "onboard_time": 1693987834,
       "rank": 30,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 351139,
-      "num": 351139,
-      "word": "Apex",
-      "onboard_time": 1694363071,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 351097,
@@ -21443,6 +21443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180013,
+      "num": 140514,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179892,
       "num": 179892,
       "word": "战至巅峰",
@@ -24147,14 +24155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135242,
-      "num": 135242,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135192,
       "num": 135192,
       "word": "张韶涵 我在扬州没空想你",
@@ -25897,6 +25897,14 @@
       "onboard_time": 1693832434,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73083,
+      "num": 73083,
+      "word": "17岁的日记救20岁的我一命",
+      "onboard_time": 1694366840,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 73051,
