@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/10 20:29:09
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/10 20:44:28
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23" target="weibo">
+薛之谦成都39度高烧依旧开唱（热度：2883313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0%23" target="weibo">
 徐良 淘汰（热度：2851776）
 </a>
@@ -377,12 +383,6 @@ papi酱气离婚的又气不离婚的（热度：2671752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7%23" target="weibo">
 阿信演唱会吸氧（热度：2465171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23" target="weibo">
-薛之谦成都39度高烧依旧开唱（热度：2448636）
 </a>
 </li>
 
@@ -767,6 +767,12 @@ D社曝黑暗荣耀金赫拉校园暴力（热度：1966079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E6%AF%92%E5%94%AF%E5%8F%AA%E5%AF%B9%E7%9C%9F%E5%AB%82%E5%AD%90%E7%A0%B4%E9%98%B2%23" target="weibo">
 果然毒唯只对真嫂子破防（热度：1926414）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0%E5%8F%96%E6%B6%88%23" target="weibo">
+薛之谦演唱会身体原因取消（热度：1924229）
 </a>
 </li>
 
@@ -1377,12 +1383,6 @@ JonyJ举行婚礼（热度：1450905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0%E5%8F%96%E6%B6%88%23" target="weibo">
-薛之谦演唱会身体原因取消（热度：1422855）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%8D%87%E5%B0%8F%E4%B8%89%E5%A4%A7%E4%BB%B6%E8%8A%B1%E8%B4%B9%E8%BF%913000%E5%85%83%23" target="weibo">
 幼升小三大件花费近3000元（热度：1414989）
 </a>
@@ -1605,6 +1605,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%91%BD%E7%94%B1%E6%88%91%E4%B8%8D%E7%94%B1%E5%A4%A9%20%E4%BD%A0%E8%AF%B4%E4%B8%89%E5%8D%83%E5%B0%B1%E4%B8%89%E5%8D%83%23" target="weibo">
+我命由我不由天 你说三千就三千（热度：1262603）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%A6%86%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E8%A2%AB%E5%8C%BB%E5%B8%88%E6%95%99%E8%82%B2%23" target="weibo">
 女生去中医馆买酸梅汤被医师教育（热度：1246285）
 </a>
@@ -1691,12 +1697,6 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%AD%A6%E7%94%9F%E5%8F%97%E4%BC%A4%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E7%BD%AA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 致学生受伤老师涉嫌故意伤害罪被刑拘（热度：1205046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%91%BD%E7%94%B1%E6%88%91%E4%B8%8D%E7%94%B1%E5%A4%A9%20%E4%BD%A0%E8%AF%B4%E4%B8%89%E5%8D%83%E5%B0%B1%E4%B8%89%E5%8D%83%23" target="weibo">
-我命由我不由天 你说三千就三千（热度：1204421）
 </a>
 </li>
 
@@ -1869,6 +1869,12 @@ Rose或将和霉霉合作（热度：1140695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+赵丽颖去看张碧晨演唱会（热度：1113864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23" target="weibo">
 蔡依林恭喜马龙夺冠（热度：1112394）
 </a>
@@ -1955,12 +1961,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%80%E5%BA%86%20%E6%BC%94%E5%91%98%E6%98%AF%E6%B2%A1%E8%B5%84%E6%A0%BC%E7%94%9F%E7%97%85%E7%9A%84%23" target="weibo">
 王耀庆 演员是没资格生病的（热度：1089848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-赵丽颖去看张碧晨演唱会（热度：1088610）
 </a>
 </li>
 

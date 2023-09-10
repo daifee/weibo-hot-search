@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694348949641,
+  "endTime": 1694349868476,
   "band_list": [
     {
       "raw_hot": 6316804,
@@ -19,20 +19,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2883313,
+      "num": 2883313,
+      "word": "薛之谦成都39度高烧依旧开唱",
+      "onboard_time": 1694347655,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2813589,
       "num": 2813589,
       "word": "国航CA403疑发出紧急代码7700",
       "onboard_time": 1694339134,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2448636,
-      "num": 2448636,
-      "word": "薛之谦成都39度高烧依旧开唱",
-      "onboard_time": 1694347655,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 2355734,
@@ -81,6 +81,14 @@
       "onboard_time": 1694315975,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1924229,
+      "num": 429207,
+      "word": "薛之谦演唱会身体原因取消",
+      "onboard_time": 1694348433,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1905275,
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1422855,
-      "num": 429207,
-      "word": "薛之谦演唱会身体原因取消",
-      "onboard_time": 1694348433,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1393300,
       "num": 466889,
       "word": "卡琳娜宣布暂停一切活动",
@@ -187,7 +187,7 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1204421,
+      "raw_hot": 1262603,
       "num": 945887,
       "word": "我命由我不由天 你说三千就三千",
       "onboard_time": 1694338472,
@@ -208,6 +208,14 @@
       "word": "Rose或将和霉霉合作",
       "onboard_time": 1694327313,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1113864,
+      "num": 1113864,
+      "word": "赵丽颖去看张碧晨演唱会",
+      "onboard_time": 1694345313,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1694309071,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1088610,
-      "num": 1088610,
-      "word": "赵丽颖去看张碧晨演唱会",
-      "onboard_time": 1694345313,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 1078043,
@@ -1147,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296305,
+      "num": 296305,
+      "word": "TTG对战狼队",
+      "onboard_time": 1694335774,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288281,
       "num": 288281,
       "word": "没有什么东西不适合或者适合女性",
@@ -1179,8 +1187,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281448,
+      "num": 281448,
+      "word": "父辈的荣耀",
+      "onboard_time": 1694348433,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279621,
-      "num": 428897,
+      "num": 444586,
       "word": "马龙说现在赢一场比赛都不容易",
       "onboard_time": 1694345914,
       "rank": 12,
@@ -1299,14 +1315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237519,
-      "num": 237519,
-      "word": "TTG对战狼队",
-      "onboard_time": 1694335774,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237455,
       "num": 237455,
       "word": "紫幻好牛",
@@ -1379,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226187,
+      "num": 226187,
+      "word": "KPL夏决中场秀全是刀子",
+      "onboard_time": 1694347895,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225684,
       "num": 225684,
       "word": "邓超的撕漫男和我们不太一样",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1694317053,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221725,
+      "num": 221725,
+      "word": "李隼说马龙是整个体育界的楷模",
+      "onboard_time": 1694349093,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 218493,
@@ -1499,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208835,
+      "num": 208835,
+      "word": "盛阳片场开启互怼模式",
+      "onboard_time": 1694349397,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207484,
       "num": 191168,
       "word": "最适合今天的图",
@@ -1515,12 +1547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206521,
-      "num": 206521,
-      "word": "父辈的荣耀",
-      "onboard_time": 1694348433,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 206264,
+      "num": 206264,
+      "word": "周深唱跳翻唱杀手和不死之身",
+      "onboard_time": 1694348674,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 205998,
@@ -1644,7 +1676,7 @@
     },
     {
       "raw_hot": 200593,
-      "num": 221563,
+      "num": 432312,
       "word": "杭州亚运火炬传递主题歌燃",
       "onboard_time": 1694348433,
       "rank": 29,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1694266598,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194676,
+      "num": 194676,
+      "word": "TTG演我心率",
+      "onboard_time": 1694345734,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 194210,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1694275236,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190452,
+      "num": 190452,
+      "word": "原神音乐会",
+      "onboard_time": 1694348556,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 187960,
@@ -1867,28 +1915,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182527,
-      "num": 182527,
-      "word": "原神音乐会",
-      "onboard_time": 1694348556,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 180937,
       "num": 113187,
       "word": "教师还是一门好职业吗",
       "onboard_time": 1694312555,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 178782,
-      "num": 178782,
-      "word": "KPL夏决中场秀全是刀子",
-      "onboard_time": 1694347895,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 177443,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1694347655,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174212,
+      "num": 174212,
+      "word": "TTG先到赛点",
+      "onboard_time": 1694349816,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 172578,
@@ -1995,12 +2035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164394,
-      "num": 164394,
-      "word": "周深唱跳翻唱杀手和不死之身",
-      "onboard_time": 1694348674,
-      "rank": 41,
-      "category": "音乐"
+      "raw_hot": 163952,
+      "num": 163952,
+      "word": "KPL提词器",
+      "onboard_time": 1694349634,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 162697,
@@ -2065,6 +2105,14 @@
       "onboard_time": 1694343272,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152754,
+      "num": 152754,
+      "word": "襄阳盛世唐城景区发布致歉信",
+      "onboard_time": 1694349634,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 152148,
@@ -2137,14 +2185,6 @@
       "onboard_time": 1694314474,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146457,
-      "num": 146457,
-      "word": "TTG演我心率",
-      "onboard_time": 1694345734,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 145863,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1694325154,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135441,
+      "num": 135441,
+      "word": "天津杰迷穿婚纱和周杰伦合唱屋顶",
+      "onboard_time": 1694347473,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 133825,
@@ -2603,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35589,
+      "num": 428872,
+      "word": "教师把与学生的故事写进诗集",
+      "onboard_time": 1694347291,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34976,
       "num": 433398,
       "word": "小学老师扎根乡村为教育坚守30年",
@@ -2633,14 +2689,6 @@
       "onboard_time": 1694287696,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23329,
-      "num": 427855,
-      "word": "教师把与学生的故事写进诗集",
-      "onboard_time": 1694347291,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19542,
