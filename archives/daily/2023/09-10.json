@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694344367555,
+  "endTime": 1694345632036,
   "band_list": [
     {
       "raw_hot": 6316804,
@@ -91,6 +91,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 1689580,
+      "num": 1689580,
+      "word": "余华 你只要把老人写成老人",
+      "onboard_time": 1694341358,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1632080,
       "num": 1632080,
       "word": "鹤壁地震",
@@ -155,14 +163,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1327419,
-      "num": 1327419,
-      "word": "余华 你只要把老人写成老人",
-      "onboard_time": 1694341358,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1310262,
       "num": 375244,
       "word": "没想到考教资周杰伦能帮上忙",
@@ -171,12 +171,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1183529,
+      "num": 810021,
+      "word": "爱思领证了",
+      "onboard_time": 1694343633,
+      "rank": 11,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1140695,
       "num": 1140695,
       "word": "Rose或将和霉霉合作",
       "onboard_time": 1694327313,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1112394,
+      "num": 688298,
+      "word": "蔡依林恭喜马龙夺冠",
+      "onboard_time": 1694344774,
+      "rank": 12,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1104732,
@@ -201,6 +217,14 @@
       "onboard_time": 1694300781,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1072858,
+      "num": 1072858,
+      "word": "国航通报CA403挂紧急代码7700",
+      "onboard_time": 1694344413,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1060181,
@@ -265,14 +289,6 @@
       "onboard_time": 1694312732,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 810021,
-      "num": 810021,
-      "word": "爱思领证了",
-      "onboard_time": 1694343633,
-      "rank": 11,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 798543,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495391,
+      "num": 495391,
+      "word": "张碧晨演唱会",
+      "onboard_time": 1694344833,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 491132,
       "num": 491132,
       "word": "范丞丞自称比沈腾白敬亭文静一点",
@@ -643,6 +667,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 420292,
+      "num": 315118,
+      "word": "赵丽颖去看张碧晨演唱会",
+      "onboard_time": 1694345313,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 418031,
       "num": 418031,
       "word": "德国足协花1亿日元请日本比赛",
@@ -779,6 +811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 369439,
+      "num": 369439,
+      "word": "孙阳妈妈说这辈子都忘不了大鹏",
+      "onboard_time": 1694345433,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366881,
       "num": 366881,
       "word": "中级会计",
@@ -835,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337898,
+      "num": 337898,
+      "word": "迪丽热巴力士直播",
+      "onboard_time": 1694345372,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337522,
       "num": 337522,
       "word": "胡锡进 四川工商学院的声明是一种悲哀",
@@ -889,6 +937,14 @@
       "onboard_time": 1694330493,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318741,
+      "num": 318741,
+      "word": "黄渤找到了自己没考上清华的原因",
+      "onboard_time": 1694344534,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 318614,
@@ -963,6 +1019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 310331,
+      "num": 310331,
+      "word": "狄龙39分",
+      "onboard_time": 1694343754,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309347,
       "num": 309347,
       "word": "襄阳文旅回应游客看表演遭区别对待",
@@ -1012,7 +1076,7 @@
     },
     {
       "raw_hot": 298909,
-      "num": 1089818,
+      "num": 1135735,
       "word": "她们是老师也是科学大牛",
       "onboard_time": 1694336734,
       "rank": 13,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1694308953,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298434,
+      "num": 298434,
+      "word": "国航CA403遇险情挂7700乘客发声",
+      "onboard_time": 1694342913,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285877,
@@ -1043,16 +1115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273397,
-      "num": 273397,
-      "word": "国航CA403遇险情挂7700乘客发声",
-      "onboard_time": 1694342913,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272918,
-      "num": 1371454,
+      "raw_hot": 281825,
+      "num": 1412551,
       "word": "山里小学摔出400多块奖牌",
       "onboard_time": 1694341477,
       "rank": 29,
@@ -1072,14 +1136,6 @@
       "word": "郑智",
       "onboard_time": 1694343092,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 270236,
-      "num": 270236,
-      "word": "狄龙39分",
-      "onboard_time": 1694343754,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -1387,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205998,
+      "num": 205998,
+      "word": "KPL总决赛",
+      "onboard_time": 1694344774,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205483,
       "num": 205483,
       "word": "宋亚轩拿俩大尺子好像中二少年",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1694275715,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203338,
+      "num": 203338,
+      "word": "时代少年团走的什么路线",
+      "onboard_time": 1694345495,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 203306,
@@ -1531,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198185,
+      "num": 198185,
+      "word": "还以为李子维想要给黄雨萱一刀",
+      "onboard_time": 1694345073,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194210,
       "num": 194210,
       "word": "微博手机影像年",
@@ -1569,6 +1649,14 @@
       "onboard_time": 1694315975,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193014,
+      "num": 193014,
+      "word": "王靖雯把KPL说成KPI",
+      "onboard_time": 1694345433,
+      "rank": 38,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 192862,
@@ -1793,6 +1881,14 @@
       "onboard_time": 1694326952,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166878,
+      "num": 166878,
+      "word": "薛之谦成都",
+      "onboard_time": 1694345614,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 164430,
@@ -2260,7 +2356,7 @@
     },
     {
       "raw_hot": 71141,
-      "num": 1636525,
+      "num": 1695192,
       "word": "杭州亚运会开幕日恰逢秋分",
       "onboard_time": 1694331091,
       "rank": 2,
