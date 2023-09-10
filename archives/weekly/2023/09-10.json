@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694373161326,
+  "endTime": 1694374438236,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -3115,6 +3115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91641,
+      "num": 91641,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91310,
       "num": 92240,
       "word": "中国乡村夜色有多美",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1694354618,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 82105,
-      "num": 82105,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79036,
@@ -3211,6 +3211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 68719,
+      "num": 38941,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 66900,
       "num": 66900,
       "word": "云为衫雾姬夫人联手设计宫尚角",
@@ -3243,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65517,
+      "num": 65517,
+      "word": "OG",
+      "onboard_time": 1694374333,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65329,
       "num": 65329,
       "word": "于文文唱体面可以笑着疼了",
@@ -3257,14 +3273,6 @@
       "onboard_time": 1694332831,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54812,
-      "num": 38941,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 53072,
@@ -3323,12 +3331,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 46303,
+      "num": 46303,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44825,
       "num": 59789,
       "word": "能把猫训出来是怎么做到的",
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41143,
+      "num": 41143,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 37509,
@@ -3369,6 +3393,14 @@
       "onboard_time": 1694290453,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30915,
+      "num": 30915,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 24147,

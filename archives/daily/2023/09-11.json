@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694373161326,
+  "endTime": 1694374438236,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -467,20 +467,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 91641,
+      "num": 91641,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86058,
       "num": 86058,
       "word": "孙阳妈妈说这辈子都忘不了大鹏",
       "onboard_time": 1694345433,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 82105,
-      "num": 82105,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79036,
@@ -499,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68719,
+      "num": 38941,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 66645,
       "num": 66645,
       "word": "任贤齐五月天合唱我出去一下",
@@ -507,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 54812,
-      "num": 38941,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 65517,
+      "num": 65517,
+      "word": "OG",
+      "onboard_time": 1694374333,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 46839,
@@ -521,6 +529,38 @@
       "onboard_time": 1694351799,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46303,
+      "num": 46303,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41143,
+      "num": 41143,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 30915,
+      "num": 30915,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 22021,
+      "num": 39894,
+      "word": "杭州亚运火炬传递主题歌燃",
+      "onboard_time": 1694348433,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 16170,
