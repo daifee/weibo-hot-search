@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694316829410,
+  "endTime": 1694319558214,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -25,6 +25,14 @@
       "onboard_time": 1694308771,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1947116,
+      "num": 1947116,
+      "word": "花花暂停展出",
+      "onboard_time": 1694315975,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1611624,
@@ -147,14 +155,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 709211,
-      "num": 709211,
-      "word": "花花暂停展出",
-      "onboard_time": 1694315975,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 646759,
       "num": 646759,
       "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
@@ -187,12 +187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 602459,
+      "num": 602459,
+      "word": "华莎接受警方调查",
+      "onboard_time": 1694318554,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590293,
       "num": 292144,
       "word": "任正非2019年称两三年后可再看华为在不在",
       "onboard_time": 1694277090,
       "rank": 43,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 589479,
+      "num": 304024,
+      "word": "清华大学有多重视体育课",
+      "onboard_time": 1694318194,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 552477,
@@ -363,6 +379,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 368267,
+      "num": 368267,
+      "word": "德国足协花1亿日元请日本比赛",
+      "onboard_time": 1694318076,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 367768,
+      "num": 367768,
+      "word": "马丽沈腾吃折耳根演我",
+      "onboard_time": 1694316932,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366881,
+      "num": 366881,
+      "word": "中级会计",
+      "onboard_time": 1694317472,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 361123,
       "num": 361123,
       "word": "张亮开车主打一个倔强",
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 315487,
-      "num": 193587,
+      "num": 261460,
       "word": "姬发真被殷寿吓哭了",
       "onboard_time": 1694316032,
       "rank": 30,
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 310410,
-      "num": 334117,
+      "num": 336185,
       "word": "张桂梅祝教师朋友们节日快乐",
       "onboard_time": 1694314653,
       "rank": 13,
@@ -507,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290719,
+      "num": 290719,
+      "word": "华晨宇谈癌创作理念",
+      "onboard_time": 1694318851,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284644,
       "num": 284644,
       "word": "TFBOYS为王源新综艺宣传",
@@ -521,6 +569,14 @@
       "onboard_time": 1694273916,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 264829,
+      "num": 264829,
+      "word": "刘雅瑟 你们替我去看个电影吧",
+      "onboard_time": 1694316932,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 262010,
@@ -587,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221757,
+      "num": 221757,
+      "word": "白鹿北上杀青",
+      "onboard_time": 1694317053,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214948,
       "num": 214948,
       "word": "梁洁郭俊辰新剧杀青",
@@ -611,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205447,
+      "num": 205447,
+      "word": "樊振东晋级亚锦赛决赛",
+      "onboard_time": 1694318554,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "芒禾音乐节",
@@ -624,6 +696,22 @@
       "word": "大型犬撒起娇来都是地震级别的",
       "onboard_time": 1694307990,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200791,
+      "num": 200791,
+      "word": "盛阳独白曲MV上线",
+      "onboard_time": 1694319453,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200498,
+      "num": 200498,
+      "word": "鸵鸟的胳肢窝没有毛",
+      "onboard_time": 1694318734,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -699,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187874,
+      "num": 187874,
+      "word": "1所学校1个老师6名学生",
+      "onboard_time": 1694318912,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 187590,
       "num": 187590,
       "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
@@ -729,6 +825,14 @@
       "onboard_time": 1694308471,
       "rank": 32,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 186260,
+      "num": 186260,
+      "word": "虞书欣张凌赫尊嘟假嘟游戏",
+      "onboard_time": 1694317415,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184285,
@@ -875,6 +979,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 130664,
+      "num": 366147,
+      "word": "真的有人吃东西前不看热量吗",
+      "onboard_time": 1694317656,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129401,
       "num": 129401,
       "word": "10岁女童教师节手写千字文谢老师",
@@ -969,6 +1081,14 @@
       "onboard_time": 1694300781,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106462,
+      "num": 106462,
+      "word": "在老师口中你们都叫什么",
+      "onboard_time": 1694318493,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 102482,
