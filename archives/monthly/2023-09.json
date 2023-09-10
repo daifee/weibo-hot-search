@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694320445733,
+  "endTime": 1694322891359,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 2286273,
-      "num": 377796,
+      "num": 464905,
       "word": "李鸿其官宣与王紫璇恋情",
       "onboard_time": 1694302345,
       "rank": 36,
@@ -809,6 +809,14 @@
       "onboard_time": 1694132559,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2040327,
+      "num": 1102463,
+      "word": "华莎接受警方调查",
+      "onboard_time": 1694318554,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2019912,
@@ -2364,7 +2372,7 @@
     },
     {
       "raw_hot": 1104732,
-      "num": 375037,
+      "num": 409914,
       "word": "BLACKPINK路人缘很好的成员",
       "onboard_time": 1694307271,
       "rank": 12,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1693738183,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1102463,
-      "num": 1102463,
-      "word": "华莎接受警方调查",
-      "onboard_time": 1694318554,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1101989,
@@ -4203,6 +4203,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 759661,
+      "num": 759661,
+      "word": "鹤壁地震",
+      "onboard_time": 1694322755,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758241,
       "num": 758241,
       "word": "遇到这样的男同桌高低暗恋三年",
@@ -5307,6 +5315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652920,
+      "num": 652920,
+      "word": "罗斯结婚",
+      "onboard_time": 1694319574,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 652792,
       "num": 652792,
       "word": "广州停课",
@@ -5545,6 +5561,14 @@
       "onboard_time": 1693880012,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630174,
+      "num": 630174,
+      "word": "咖啡 是一种豆浆",
+      "onboard_time": 1694321074,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 628968,
@@ -6188,7 +6212,7 @@
     },
     {
       "raw_hot": 589479,
-      "num": 304024,
+      "num": 350630,
       "word": "清华大学有多重视体育课",
       "onboard_time": 1694318194,
       "rank": 21,
@@ -7771,6 +7795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491132,
+      "num": 491132,
+      "word": "范丞丞自称比沈腾白敬亭文静一点",
+      "onboard_time": 1694321193,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491106,
       "num": 360081,
       "word": "为什么年轻人不愿意干销售",
@@ -7816,6 +7848,14 @@
       "word": "神隐首支预告",
       "onboard_time": 1693540058,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 489267,
+      "num": 489267,
+      "word": "盛阳亲了简冰",
+      "onboard_time": 1694320892,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -8241,6 +8281,14 @@
       "onboard_time": 1694305531,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 470042,
+      "num": 470042,
+      "word": "华晨宇谈癌创作理念",
+      "onboard_time": 1694318851,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 469240,
@@ -9252,7 +9300,7 @@
     },
     {
       "raw_hot": 424388,
-      "num": 424388,
+      "num": 455732,
       "word": "摩洛哥地震遇难人数升至2012人",
       "onboard_time": 1694303727,
       "rank": 6,
@@ -9875,6 +9923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 400952,
+      "num": 400952,
+      "word": "吴宣仪再跳101主题曲舞蹈",
+      "onboard_time": 1694319814,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400787,
       "num": 400787,
       "word": "二战德国为什么没有造出原子弹",
@@ -10225,14 +10281,6 @@
       "onboard_time": 1693708954,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383499,
-      "num": 383499,
-      "word": "华晨宇谈癌创作理念",
-      "onboard_time": 1694318851,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 383186,
@@ -12428,7 +12476,7 @@
     },
     {
       "raw_hot": 310410,
-      "num": 336185,
+      "num": 435438,
       "word": "张桂梅祝教师朋友们节日快乐",
       "onboard_time": 1694314653,
       "rank": 13,
@@ -14611,14 +14659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256260,
-      "num": 256260,
-      "word": "罗斯结婚",
-      "onboard_time": 1694319574,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256173,
       "num": 256173,
       "word": "西瓜冰柠茶",
@@ -14777,14 +14817,6 @@
       "onboard_time": 1694279185,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251913,
-      "num": 251913,
-      "word": "吴宣仪再跳101主题曲舞蹈",
-      "onboard_time": 1694319814,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 251812,
@@ -15289,6 +15321,14 @@
       "onboard_time": 1694164115,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240556,
+      "num": 240556,
+      "word": "建议彭昱畅别看",
+      "onboard_time": 1694321854,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 240551,
@@ -17963,6 +18003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200028,
+      "num": 200028,
+      "word": "异人之下喝着奶茶打着架",
+      "onboard_time": 1694321074,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199998,
       "num": 199998,
       "word": "马立奥睫毛好长",
@@ -20363,11 +20411,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171593,
+      "num": 1136326,
+      "word": "师生间双向奔赴的爱",
+      "onboard_time": 1694304147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171518,
       "num": 171518,
       "word": "中国赛陈雨菲无缘决赛",
       "onboard_time": 1694255736,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171173,
+      "num": 171173,
+      "word": "斯特里克兰爆冷击败阿迪萨亚",
+      "onboard_time": 1694322455,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -21451,14 +21515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151389,
-      "num": 1136326,
-      "word": "师生间双向奔赴的爱",
-      "onboard_time": 1694304147,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151300,
       "num": 178207,
       "word": "盛阳委屈小狗",
@@ -21963,6 +22019,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 142812,
+      "num": 142812,
+      "word": "全嘻嘻 当一个农村女人决定出逃",
+      "onboard_time": 1694321675,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142710,
       "num": 142710,
       "word": "王楚钦加油",
@@ -22057,6 +22121,14 @@
       "onboard_time": 1694179115,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141089,
+      "num": 141089,
+      "word": "阿拉斯加海底3300米发现神秘金蛋",
+      "onboard_time": 1694322755,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141069,
@@ -22235,12 +22307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137246,
+      "num": 137246,
+      "word": "UFC293",
+      "onboard_time": 1694321916,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137080,
       "num": 154212,
       "word": "全盲男生说上天关的门是自己破出来的",
       "onboard_time": 1693621053,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137057,
+      "num": 137057,
+      "word": "为什么去德国留学的少",
+      "onboard_time": 1694322814,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 136656,
@@ -22281,6 +22369,14 @@
       "onboard_time": 1693822292,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136073,
+      "num": 136073,
+      "word": "异人之下导演问知不知道复播",
+      "onboard_time": 1694320475,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 135982,
@@ -22393,6 +22489,14 @@
       "onboard_time": 1694176474,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133006,
+      "num": 133006,
+      "word": "花花好好休息",
+      "onboard_time": 1694322873,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132931,
@@ -25185,6 +25289,14 @@
       "onboard_time": 1694027416,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 20658,
+      "num": 433398,
+      "word": "小学老师扎根乡村为教育坚守30年",
+      "onboard_time": 1694322034,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20553,
