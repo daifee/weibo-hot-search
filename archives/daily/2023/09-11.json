@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694374438236,
+  "endTime": 1694376968102,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -153,6 +153,14 @@
       "onboard_time": 1694362177,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 337574,
+      "num": 337574,
+      "word": "OG",
+      "onboard_time": 1694374333,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 311520,
@@ -515,12 +523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 65517,
-      "num": 65517,
-      "word": "OG",
-      "onboard_time": 1694374333,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 63485,
+      "num": 41143,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 46839,
@@ -531,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46303,
+      "raw_hot": 46388,
       "num": 46303,
       "word": "真的在体面里听到了体面",
       "onboard_time": 1694374216,
@@ -539,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41143,
-      "num": 41143,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 31072,
+      "num": 39894,
+      "word": "杭州亚运火炬传递主题歌燃",
+      "onboard_time": 1694348433,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 30915,
@@ -555,12 +563,28 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 22021,
-      "num": 39894,
-      "word": "杭州亚运火炬传递主题歌燃",
-      "onboard_time": 1694348433,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 22491,
+      "num": 22491,
+      "word": "CA403所有人员均安全撤离",
+      "onboard_time": 1694342732,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20679,
+      "num": 20679,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1694249135,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 19671,
+      "num": 19671,
+      "word": "国航通报CA403挂紧急代码7700",
+      "onboard_time": 1694344413,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16170,

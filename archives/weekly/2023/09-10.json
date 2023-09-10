@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694374438236,
+  "endTime": 1694376968102,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -1224,6 +1224,14 @@
       "word": "帆帆联赛三连冠",
       "onboard_time": 1694354322,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 337574,
+      "num": 337574,
+      "word": "OG",
+      "onboard_time": 1694374333,
+      "rank": 8,
       "category": "游戏"
     },
     {
@@ -3251,14 +3259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65517,
-      "num": 65517,
-      "word": "OG",
-      "onboard_time": 1694374333,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 65329,
       "num": 65329,
       "word": "于文文唱体面可以笑着疼了",
@@ -3273,6 +3273,14 @@
       "onboard_time": 1694332831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63485,
+      "num": 41143,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 53072,
@@ -3323,6 +3331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 46388,
+      "num": 46303,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46356,
       "num": 941440,
       "word": "当亚运会遇上中华文化",
@@ -3331,28 +3347,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 46303,
-      "num": 46303,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 44825,
       "num": 59789,
       "word": "能把猫训出来是怎么做到的",
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 41143,
-      "num": 41143,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 37509,
@@ -3417,6 +3417,14 @@
       "onboard_time": 1694287696,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 20679,
+      "num": 20679,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1694249135,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 19542,

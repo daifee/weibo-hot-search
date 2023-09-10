@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694374438236,
+  "endTime": 1694376968102,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -12185,6 +12185,14 @@
       "onboard_time": 1693550676,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337574,
+      "num": 337574,
+      "word": "OG",
+      "onboard_time": 1694374333,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 337472,
@@ -26067,14 +26075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65517,
-      "num": 65517,
-      "word": "OG",
-      "onboard_time": 1694374333,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 65370,
       "num": 586348,
       "word": "老兵姐姐穿军装接空军妹妹退伍",
@@ -26145,6 +26145,14 @@
       "onboard_time": 1693932445,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 63485,
+      "num": 41143,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 62346,
@@ -26467,7 +26475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46303,
+      "raw_hot": 46388,
       "num": 46303,
       "word": "真的在体面里听到了体面",
       "onboard_time": 1694374216,
@@ -26641,14 +26649,6 @@
       "onboard_time": 1693556200,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41143,
-      "num": 41143,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 40302,
