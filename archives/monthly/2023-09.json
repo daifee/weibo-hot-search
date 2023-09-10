@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694356445449,
+  "endTime": 1694358925881,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -25,6 +25,14 @@
       "onboard_time": 1693554041,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7052638,
+      "num": 1012949,
+      "word": "李佳琦说找不到以前状态了",
+      "onboard_time": 1694356359,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 6316804,
@@ -537,14 +545,6 @@
       "onboard_time": 1693813233,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2388726,
-      "num": 1012949,
-      "word": "李佳琦说找不到以前状态了",
-      "onboard_time": 1694356359,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2363682,
@@ -1308,7 +1308,7 @@
     },
     {
       "raw_hot": 1732640,
-      "num": 294760,
+      "num": 464382,
       "word": "丞磊卢昱晓大大方方营业",
       "onboard_time": 1694356359,
       "rank": 30,
@@ -2419,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1152041,
+      "num": 459717,
+      "word": "杨紫美拉德烟熏妆",
+      "onboard_time": 1694356723,
+      "rank": 17,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 1151262,
       "num": 1151262,
       "word": "墨菲定律",
@@ -3451,6 +3459,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 908124,
+      "num": 908124,
+      "word": "九尾",
+      "onboard_time": 1694355818,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 907735,
       "num": 429370,
       "word": "宋祖儿",
@@ -3497,14 +3513,6 @@
       "onboard_time": 1693977098,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 900812,
-      "num": 900812,
-      "word": "九尾",
-      "onboard_time": 1694355818,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 900556,
@@ -3665,6 +3673,14 @@
       "onboard_time": 1694098961,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 869299,
+      "num": 869299,
+      "word": "周杰伦嘉宾",
+      "onboard_time": 1694356297,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 868794,
@@ -3993,6 +4009,14 @@
       "onboard_time": 1693821994,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 816053,
+      "num": 454614,
+      "word": "女子反复咳嗽多年治不好竟是因为吃多了",
+      "onboard_time": 1694357382,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814895,
@@ -4737,6 +4761,14 @@
       "onboard_time": 1693901497,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 733843,
+      "num": 733843,
+      "word": "德国男篮世界杯冠军",
+      "onboard_time": 1694357325,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 733115,
@@ -6185,6 +6217,14 @@
       "onboard_time": 1693664924,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613899,
+      "num": 452966,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613515,
@@ -8843,6 +8883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 465986,
+      "num": 465986,
+      "word": "弗里克下课",
+      "onboard_time": 1694357860,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465918,
       "num": 435015,
       "word": "苏拉或成1949年以来登陆珠三角最强台风",
@@ -9257,6 +9305,14 @@
       "onboard_time": 1694007997,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450166,
+      "num": 450166,
+      "word": "国航CA403有乘客因携带行李撤离摔倒",
+      "onboard_time": 1694357143,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449855,
@@ -11505,6 +11561,14 @@
       "onboard_time": 1693989574,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357879,
+      "num": 357879,
+      "word": "施罗德MVP",
+      "onboard_time": 1694358161,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 357639,
@@ -15003,6 +15067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264982,
+      "num": 264982,
+      "word": "丞磊宫尚角滔滔不角",
+      "onboard_time": 1694358161,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264829,
       "num": 264829,
       "word": "刘雅瑟 你们替我去看个电影吧",
@@ -15905,14 +15977,6 @@
       "onboard_time": 1693888061,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247182,
-      "num": 247182,
-      "word": "周杰伦嘉宾",
-      "onboard_time": 1694356297,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 247122,
@@ -19443,6 +19507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197493,
+      "num": 197493,
+      "word": "蒲熠星火树JY连麦玩崩铁",
+      "onboard_time": 1694358524,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197438,
       "num": 197438,
       "word": "云之羽热度破7500",
@@ -20571,6 +20643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187298,
+      "num": 537797,
+      "word": "山村女老师手里一碗热饭吃了又放",
+      "onboard_time": 1694355157,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 187286,
       "num": 187286,
       "word": "时空中的绘旅人",
@@ -21235,6 +21315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179508,
+      "num": 179508,
+      "word": "李九为TTG写诗",
+      "onboard_time": 1694357565,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179334,
       "num": 179334,
       "word": "婆罗门牛",
@@ -21635,14 +21723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173156,
-      "num": 537797,
-      "word": "山村女老师手里一碗热饭吃了又放",
-      "onboard_time": 1694355157,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 173117,
       "num": 366062,
       "word": "蚂蚁集团发布金融大模型",
@@ -21984,6 +22064,14 @@
       "word": "90后牺牲民警生前说人民公安为人民",
       "onboard_time": 1694182598,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167422,
+      "num": 167422,
+      "word": "爷爷牵挂外地独居孙女每天早晚打电话",
+      "onboard_time": 1694358880,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

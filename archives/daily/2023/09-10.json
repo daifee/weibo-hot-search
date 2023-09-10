@@ -1,7 +1,15 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694356445449,
+  "endTime": 1694358925881,
   "band_list": [
+    {
+      "raw_hot": 7052638,
+      "num": 1012949,
+      "word": "李佳琦说找不到以前状态了",
+      "onboard_time": 1694356359,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6316804,
       "num": 840054,
@@ -49,14 +57,6 @@
       "onboard_time": 1694339134,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2388726,
-      "num": 1012949,
-      "word": "李佳琦说找不到以前状态了",
-      "onboard_time": 1694356359,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2355734,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1732640,
-      "num": 294760,
+      "num": 464382,
       "word": "丞磊卢昱晓大大方方营业",
       "onboard_time": 1694356359,
       "rank": 30,
@@ -251,6 +251,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1152041,
+      "num": 459717,
+      "word": "杨紫美拉德烟熏妆",
+      "onboard_time": 1694356723,
+      "rank": 17,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 1140695,
       "num": 1140695,
       "word": "Rose或将和霉霉合作",
@@ -355,8 +363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 900812,
-      "num": 900812,
+      "raw_hot": 908124,
+      "num": 908124,
       "word": "九尾",
       "onboard_time": 1694355818,
       "rank": 4,
@@ -369,6 +377,14 @@
       "onboard_time": 1694263958,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 869299,
+      "num": 869299,
+      "word": "周杰伦嘉宾",
+      "onboard_time": 1694356297,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 864964,
@@ -401,6 +417,14 @@
       "onboard_time": 1694350594,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 816053,
+      "num": 454614,
+      "word": "女子反复咳嗽多年治不好竟是因为吃多了",
+      "onboard_time": 1694357382,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798543,
@@ -465,6 +489,14 @@
       "onboard_time": 1694275774,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 733843,
+      "num": 733843,
+      "word": "德国男篮世界杯冠军",
+      "onboard_time": 1694357325,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 709711,
@@ -545,6 +577,14 @@
       "onboard_time": 1694353003,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 613899,
+      "num": 452966,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610545,
@@ -779,6 +819,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 465986,
+      "num": 465986,
+      "word": "弗里克下课",
+      "onboard_time": 1694357860,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464065,
       "num": 464065,
       "word": "孙阳承诺票房破3亿晒腹肌",
@@ -817,6 +865,14 @@
       "onboard_time": 1694314532,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450166,
+      "num": 450166,
+      "word": "国航CA403有乘客因携带行李撤离摔倒",
+      "onboard_time": 1694357143,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439390,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1694310034,
       "rank": 20,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 357879,
+      "num": 357879,
+      "word": "施罗德MVP",
+      "onboard_time": 1694358161,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 351640,
@@ -1459,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264982,
+      "num": 264982,
+      "word": "丞磊宫尚角滔滔不角",
+      "onboard_time": 1694358161,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264829,
       "num": 264829,
       "word": "刘雅瑟 你们替我去看个电影吧",
@@ -1544,14 +1616,6 @@
       "word": "张凌赫雨中追星成功",
       "onboard_time": 1694270559,
       "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 247182,
-      "num": 247182,
-      "word": "周杰伦嘉宾",
-      "onboard_time": 1694356297,
-      "rank": 36,
       "category": "音乐"
     },
     {
@@ -2043,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197493,
+      "num": 197493,
+      "word": "蒲熠星火树JY连麦玩崩铁",
+      "onboard_time": 1694358524,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194210,
       "num": 194210,
       "word": "微博手机影像年",
@@ -2153,6 +2225,14 @@
       "onboard_time": 1694271940,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187298,
+      "num": 537797,
+      "word": "山村女老师手里一碗热饭吃了又放",
+      "onboard_time": 1694355157,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 187286,
@@ -2267,6 +2347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 179508,
+      "num": 179508,
+      "word": "李九为TTG写诗",
+      "onboard_time": 1694357565,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177443,
       "num": 177443,
       "word": "蓝战非发视频吐槽看表演遭区别对待",
@@ -2289,14 +2377,6 @@
       "onboard_time": 1694347655,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173156,
-      "num": 537797,
-      "word": "山村女老师手里一碗热饭吃了又放",
-      "onboard_time": 1694355157,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 172578,
@@ -2368,6 +2448,14 @@
       "word": "00后民警送80后师父不锈钢锦旗被围观",
       "onboard_time": 1694326952,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167422,
+      "num": 167422,
+      "word": "爷爷牵挂外地独居孙女每天早晚打电话",
+      "onboard_time": 1694358880,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
