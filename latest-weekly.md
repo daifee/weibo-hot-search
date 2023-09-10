@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/10 00:19:52 ~ 2023/09/11 02:34:01
+本榜单时间：2023/09/10 00:19:52 ~ 2023/09/11 03:12:41
 </p>
 </blockquote>
 <p>
@@ -2373,6 +2373,12 @@ UFC293（热度：137246）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23" target="weibo">
+警号253689请回答（热度：82105）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%95%9911%E5%B9%B4%E5%8C%96%E5%AD%A6%E8%80%81%E5%B8%88%E6%8D%90%E9%80%A0%E8%A1%80%E5%B9%B2%E7%BB%86%E8%83%9E%E6%95%91%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%23" target="weibo">
 从教11年化学老师捐造血干细胞救高三女生（热度：79036）
 </a>
@@ -2451,8 +2457,8 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23" target="weibo">
-警号253689请回答（热度：54415）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%A4%A7%E8%87%A3%E7%A7%B0%E6%88%91%E6%98%AF%E5%8E%A6%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%9A%84%E4%B8%8D%E7%94%A8%E7%BF%BB%E8%AF%91%23" target="weibo">
+沙特大臣称我是厦大毕业的不用翻译（热度：54812）
 </a>
 </li>
 
