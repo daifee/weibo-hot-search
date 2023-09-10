@@ -1,0 +1,410 @@
+{
+  "runTime": 1694327645559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1743895,
+        "num": 1743895,
+        "word": "花13000元买的周杰伦演唱会门票被偷",
+        "onboard_time": 1694325333,
+        "rank": 0,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 1239431,
+        "num": 1239431,
+        "word": "为什么去德国留学的少",
+        "onboard_time": 1694322814,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99656,
+        "num": 1072248,
+        "word": "师生间双向奔赴的爱",
+        "onboard_time": 1694304147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1905275,
+        "num": 1046323,
+        "word": "华晨宇演唱会大屏背景是恶评",
+        "onboard_time": 1694323593,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 989364,
+        "num": 989364,
+        "word": "女大学生差点被裤子单杀",
+        "onboard_time": 1694324493,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558368,
+        "num": 558368,
+        "word": "王源像跟着父母应酬的我",
+        "onboard_time": 1694326773,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515654,
+        "num": 515654,
+        "word": "鹤壁地震",
+        "onboard_time": 1694322755,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451806,
+        "num": 451806,
+        "word": "襄阳",
+        "onboard_time": 1694325812,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428925,
+        "num": 428925,
+        "word": "花花暂停展出",
+        "onboard_time": 1694315975,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398153,
+        "num": 398153,
+        "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
+        "onboard_time": 1694314532,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 662238,
+        "num": 392686,
+        "word": "华莎接受警方调查",
+        "onboard_time": 1694318554,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542921,
+        "num": 383919,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105600,
+        "num": 379906,
+        "word": "张桂梅祝教师朋友们节日快乐",
+        "onboard_time": 1694314653,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99149,
+        "num": 371641,
+        "word": "中国与阿根廷共话丝路情",
+        "onboard_time": 1694327012,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 96253,
+        "num": 367242,
+        "word": "摩洛哥地震遇难人数升至2012人",
+        "onboard_time": 1694303727,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481662,
+        "num": 358067,
+        "word": "冯宝宝被人贩子拐卖挑断手脚筋",
+        "onboard_time": 1694308771,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451126,
+        "num": 348410,
+        "word": "全嘻嘻 当一个农村女人决定出逃",
+        "onboard_time": 1694321675,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 346255,
+        "num": 346255,
+        "word": "BLACKPINK路人缘很好的成员",
+        "onboard_time": 1694307271,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331379,
+        "num": 331379,
+        "word": "Rose或将和霉霉合作",
+        "onboard_time": 1694327313,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297195,
+        "num": 297195,
+        "word": "阿拉斯加海底3300米发现神秘金蛋",
+        "onboard_time": 1694322755,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373381,
+        "num": 295352,
+        "word": "张碧晨在脸上镶了个魔镜",
+        "onboard_time": 1694323956,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292256,
+        "num": 292256,
+        "word": "DFBOYS",
+        "onboard_time": 1694311712,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285579,
+        "num": 285579,
+        "word": "儿子觉得自己家在班里最平凡",
+        "onboard_time": 1694326532,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276640,
+        "num": 276640,
+        "word": "咖啡 是一种豆浆",
+        "onboard_time": 1694321074,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234057,
+        "num": 234057,
+        "word": "盛阳亲了简冰",
+        "onboard_time": 1694320892,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222620,
+        "num": 222620,
+        "word": "两只黄鹂鸣翠柳 一块布上五条狗",
+        "onboard_time": 1694322573,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222371,
+        "num": 222371,
+        "word": "罗斯结婚",
+        "onboard_time": 1694319574,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 201350,
+        "num": 201350,
+        "word": "本以为是贺卡掏出来的却是鸡爪",
+        "onboard_time": 1694325991,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199705,
+        "num": 199705,
+        "word": "韩国人对考试的吐槽",
+        "onboard_time": 1694325452,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192231,
+        "num": 192231,
+        "word": "22名倒卖周杰伦演唱会门票黄牛在天津被抓",
+        "onboard_time": 1694315013,
+        "rank": 29,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 207484,
+        "num": 191168,
+        "word": "最适合今天的图",
+        "onboard_time": 1694327073,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189526,
+        "num": 189526,
+        "word": "害怕冻掉耳朵的牛牛们",
+        "onboard_time": 1694325093,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179061,
+        "num": 179061,
+        "word": "建议彭昱畅别看",
+        "onboard_time": 1694321854,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177249,
+        "num": 177249,
+        "word": "檀健次抖包袱",
+        "onboard_time": 1694324252,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170979,
+        "num": 170979,
+        "word": "邓超的撕漫男和我们不太一样",
+        "onboard_time": 1694324792,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170617,
+        "word": "摩洛哥",
+        "onboard_time": 1694326652,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163138,
+        "num": 163138,
+        "word": "吴宣仪再跳101主题曲舞蹈",
+        "onboard_time": 1694319814,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161306,
+        "num": 161306,
+        "word": "德国足协花1亿日元请日本比赛",
+        "onboard_time": 1694318076,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159927,
+        "num": 159927,
+        "word": "猛男粉无畏",
+        "onboard_time": 1694325874,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159907,
+        "num": 159907,
+        "word": "范丞丞自称比沈腾白敬亭文静一点",
+        "onboard_time": 1694321193,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156877,
+        "num": 156877,
+        "word": "00后民警送80后师父不锈钢锦旗被围观",
+        "onboard_time": 1694326952,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149070,
+        "num": 149070,
+        "word": "云之羽宫二人设",
+        "onboard_time": 1694314532,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144785,
+        "num": 144785,
+        "word": "你觉得老师这个职业轻松吗",
+        "onboard_time": 1694325874,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139102,
+        "num": 139102,
+        "word": "没票看五月天的方式可以多浪漫",
+        "onboard_time": 1694326352,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137860,
+        "num": 137860,
+        "word": "清华大学有多重视体育课",
+        "onboard_time": 1694318194,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135207,
+        "num": 135207,
+        "word": "烘焙 我接触过的最大生活骗局",
+        "onboard_time": 1694312732,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133729,
+        "num": 133729,
+        "word": "电影沙海之门杀青",
+        "onboard_time": 1694326233,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133111,
+        "num": 133111,
+        "word": "警察也是老师只教出圈的学生",
+        "onboard_time": 1694310155,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 129474,
+        "word": "毕业了才真正明白大学老师有多厉害",
+        "onboard_time": 1694310034,
+        "rank": 48,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 92647,
+        "num": 114891,
+        "word": "教师节快乐",
+        "onboard_time": 1694300781,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创黑龙江高质量发展新局面#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694326807659,
+  "endTime": 1694327645559,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -43,12 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1765099,
+      "raw_hot": 1905275,
       "num": 1106613,
       "word": "华晨宇演唱会大屏背景是恶评",
       "onboard_time": 1694323593,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1743895,
+      "num": 1743895,
+      "word": "花13000元买的周杰伦演唱会门票被偷",
+      "onboard_time": 1694325333,
+      "rank": 1,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1632080,
@@ -97,14 +105,6 @@
       "onboard_time": 1694306971,
       "rank": 11,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1235706,
-      "num": 1235706,
-      "word": "花13000元买的周杰伦演唱会门票被偷",
-      "onboard_time": 1694325333,
-      "rank": 1,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1104732,
@@ -267,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 558368,
+      "num": 558368,
+      "word": "王源像跟着父母应酬的我",
+      "onboard_time": 1694326773,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552477,
       "num": 552477,
       "word": "王俊凯 俊昇文化",
@@ -369,6 +377,14 @@
       "onboard_time": 1694314532,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 451806,
+      "num": 451806,
+      "word": "襄阳",
+      "onboard_time": 1694325812,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439390,
@@ -563,6 +579,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 331379,
+      "num": 331379,
+      "word": "Rose或将和霉霉合作",
+      "onboard_time": 1694327313,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 329749,
       "num": 329749,
       "word": "骄阳伴我真不是喜剧吗",
@@ -675,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285579,
+      "num": 285579,
+      "word": "儿子觉得自己家在班里最平凡",
+      "onboard_time": 1694326532,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284644,
       "num": 284644,
       "word": "TFBOYS为王源新综艺宣传",
@@ -753,14 +785,6 @@
       "onboard_time": 1694318734,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239326,
-      "num": 239326,
-      "word": "襄阳",
-      "onboard_time": 1694325812,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232032,
@@ -851,6 +875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207484,
+      "num": 191168,
+      "word": "最适合今天的图",
+      "onboard_time": 1694327073,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207125,
       "num": 207125,
       "word": "檀健次抖包袱",
@@ -883,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202939,
-      "num": 202939,
-      "word": "王源像跟着父母应酬的我",
-      "onboard_time": 1694326773,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202684,
       "num": 202684,
       "word": "大型犬撒起娇来都是地震级别的",
@@ -905,6 +929,14 @@
       "onboard_time": 1694319935,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201350,
+      "num": 201350,
+      "word": "本以为是贺卡掏出来的却是鸡爪",
+      "onboard_time": 1694325991,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 200791,
@@ -923,20 +955,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199705,
+      "num": 199705,
+      "word": "韩国人对考试的吐槽",
+      "onboard_time": 1694325452,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199696,
       "num": 199696,
       "word": "高龄产妇4次剖宫产生下第4胎",
       "onboard_time": 1694316334,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199090,
-      "num": 199090,
-      "word": "韩国人对考试的吐槽",
-      "onboard_time": 1694325452,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 198202,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1694275236,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187661,
-      "num": 187661,
-      "word": "本以为是贺卡掏出来的却是鸡爪",
-      "onboard_time": 1694325991,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 187590,
@@ -1115,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170617,
+      "num": 170617,
+      "word": "摩洛哥",
+      "onboard_time": 1694326652,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169584,
       "num": 169584,
       "word": "陈梦王曼昱晋级亚锦赛决赛",
@@ -1160,6 +1192,14 @@
       "word": "花花好好休息",
       "onboard_time": 1694322873,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156877,
+      "num": 156877,
+      "word": "00后民警送80后师父不锈钢锦旗被围观",
+      "onboard_time": 1694326952,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1219,27 +1259,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144785,
+      "num": 144785,
+      "word": "你觉得老师这个职业轻松吗",
+      "onboard_time": 1694325874,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144617,
       "num": 144617,
       "word": "宁波一学校老师收到学生的定制款奖状",
       "onboard_time": 1694320295,
       "rank": 44,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 142959,
-      "num": 142959,
-      "word": "儿子觉得自己家在班里最平凡",
-      "onboard_time": 1694326532,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 142113,
-      "num": 142113,
-      "word": "你觉得老师这个职业轻松吗",
-      "onboard_time": 1694325874,
-      "rank": 42,
       "category": "教育"
     },
     {
@@ -1249,6 +1281,14 @@
       "onboard_time": 1694323293,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139102,
+      "num": 139102,
+      "word": "没票看五月天的方式可以多浪漫",
+      "onboard_time": 1694326352,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 137246,
@@ -1289,14 +1329,6 @@
       "onboard_time": 1694305410,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 132280,
-      "num": 132280,
-      "word": "摩洛哥",
-      "onboard_time": 1694326652,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131862,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1694309132,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125046,
-      "num": 125046,
-      "word": "没票看五月天的方式可以多浪漫",
-      "onboard_time": 1694326352,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 121764,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1694267138,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99149,
+      "num": 371641,
+      "word": "中国与阿根廷共话丝路情",
+      "onboard_time": 1694327012,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 94231,
