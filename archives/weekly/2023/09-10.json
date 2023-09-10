@@ -1,10 +1,10 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694342044459,
+  "endTime": 1694344367555,
   "band_list": [
     {
       "raw_hot": 6316804,
-      "num": 815684,
+      "num": 840054,
       "word": "李佳琦带货怼网友",
       "onboard_time": 1694332772,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1456419,
+      "num": 1456419,
+      "word": "上海73岁初代丁克现状颠覆想象",
+      "onboard_time": 1694338412,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1393300,
       "num": 466889,
       "word": "卡琳娜宣布暂停一切活动",
@@ -145,6 +153,14 @@
       "onboard_time": 1694322814,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1327419,
+      "num": 1327419,
+      "word": "余华 你只要把老人写成老人",
+      "onboard_time": 1694341358,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1310262,
@@ -195,11 +211,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1025597,
-      "num": 1025597,
-      "word": "上海73岁初代丁克现状颠覆想象",
-      "onboard_time": 1694338412,
-      "rank": 30,
+      "raw_hot": 986372,
+      "num": 945887,
+      "word": "我命由我不由天 你说三千就三千",
+      "onboard_time": 1694338472,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 972380,
+      "num": 972380,
+      "word": "CA403所有人员均安全撤离",
+      "onboard_time": 1694342732,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -209,14 +233,6 @@
       "onboard_time": 1694267318,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 945887,
-      "num": 945887,
-      "word": "我命由我不由天 你说三千就三千",
-      "onboard_time": 1694338472,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 939608,
@@ -251,6 +267,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 810021,
+      "num": 810021,
+      "word": "爱思领证了",
+      "onboard_time": 1694343633,
+      "rank": 11,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 798543,
+      "num": 798543,
+      "word": "天官赐福",
+      "onboard_time": 1694339253,
+      "rank": 12,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 792894,
       "num": 335345,
       "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
@@ -265,6 +297,14 @@
       "onboard_time": 1694325812,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762054,
+      "num": 762054,
+      "word": "真正男子汉时期的杨幂",
+      "onboard_time": 1694342135,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 750609,
@@ -305,14 +345,6 @@
       "onboard_time": 1694340573,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677471,
-      "num": 677471,
-      "word": "天官赐福",
-      "onboard_time": 1694339253,
-      "rank": 12,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 677378,
@@ -409,6 +441,14 @@
       "onboard_time": 1694258794,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551804,
+      "num": 1896097,
+      "word": "2男童拿现金买手机被老板哄吓拒售",
+      "onboard_time": 1694340155,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549782,
@@ -659,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401720,
-      "num": 1633803,
-      "word": "2男童拿现金买手机被老板哄吓拒售",
-      "onboard_time": 1694340155,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400952,
       "num": 400952,
       "word": "吴宣仪再跳101主题曲舞蹈",
@@ -777,14 +809,6 @@
       "onboard_time": 1694310034,
       "rank": 20,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 352398,
-      "num": 212133,
-      "word": "余华 你只要把老人写成老人",
-      "onboard_time": 1694341358,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 351640,
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 298909,
-      "num": 1036647,
+      "num": 1089818,
       "word": "她们是老师也是科学大牛",
       "onboard_time": 1694336734,
       "rank": 13,
@@ -1019,12 +1043,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273397,
+      "num": 273397,
+      "word": "国航CA403遇险情挂7700乘客发声",
+      "onboard_time": 1694342913,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272918,
+      "num": 1371454,
+      "word": "山里小学摔出400多块奖牌",
+      "onboard_time": 1694341477,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271777,
       "num": 271777,
       "word": "已瘦30斤宅家早餐吃什么",
       "onboard_time": 1694273916,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 271227,
+      "num": 271227,
+      "word": "郑智",
+      "onboard_time": 1694343092,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270236,
+      "num": 270236,
+      "word": "狄龙39分",
+      "onboard_time": 1694343754,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 265177,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1694334992,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232198,
+      "num": 232198,
+      "word": "当一只熊没有了毛",
+      "onboard_time": 1694341653,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 232032,
@@ -1323,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205483,
+      "num": 205483,
+      "word": "宋亚轩拿俩大尺子好像中二少年",
+      "onboard_time": 1694342853,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205447,
       "num": 205447,
       "word": "樊振东晋级亚锦赛决赛",
@@ -1340,7 +1412,7 @@
     },
     {
       "raw_hot": 205040,
-      "num": 261110,
+      "num": 785518,
       "word": "巴奴卷王把压力给到了同行",
       "onboard_time": 1694339192,
       "rank": 25,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1694316334,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199221,
+      "num": 199221,
+      "word": "TTG状态太猛了",
+      "onboard_time": 1694341292,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 198202,
@@ -1683,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170199,
-      "num": 220914,
-      "word": "山里小学摔出400多块奖牌",
-      "onboard_time": 1694341477,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169584,
       "num": 169584,
       "word": "陈梦王曼昱晋级亚锦赛决赛",
@@ -1721,14 +1793,6 @@
       "onboard_time": 1694326952,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165739,
-      "num": 165739,
-      "word": "TTG状态太猛了",
-      "onboard_time": 1694341292,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 164430,
@@ -1795,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153485,
+      "num": 153485,
+      "word": "向鱼婉儿百分百胜率",
+      "onboard_time": 1694343272,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152148,
       "num": 152148,
       "word": "陈建州范玮琪看王力宏演唱会",
@@ -1809,6 +1881,22 @@
       "onboard_time": 1694310455,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 150024,
+      "num": 150024,
+      "word": "布里奇斯绝平三分",
+      "onboard_time": 1694342194,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149967,
+      "num": 149967,
+      "word": "国航回应CA403挂紧急代码7700",
+      "onboard_time": 1694342613,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149201,
@@ -1873,14 +1961,6 @@
       "onboard_time": 1694323293,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139945,
-      "num": 139945,
-      "word": "当一只熊没有了毛",
-      "onboard_time": 1694341653,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 139102,
@@ -2180,7 +2260,7 @@
     },
     {
       "raw_hot": 71141,
-      "num": 1056019,
+      "num": 1636525,
       "word": "杭州亚运会开幕日恰逢秋分",
       "onboard_time": 1694331091,
       "rank": 2,
