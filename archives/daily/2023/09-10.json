@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694322891359,
+  "endTime": 1694324034908,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1632080,
+      "num": 1632080,
+      "word": "鹤壁地震",
+      "onboard_time": 1694322755,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1611624,
       "num": 1611624,
       "word": "22名倒卖周杰伦演唱会门票黄牛在天津被抓",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1104732,
-      "num": 409914,
+      "num": 419081,
       "word": "BLACKPINK路人缘很好的成员",
       "onboard_time": 1694307271,
       "rank": 12,
@@ -136,14 +144,6 @@
       "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
       "onboard_time": 1694270559,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 759661,
-      "num": 759661,
-      "word": "鹤壁地震",
-      "onboard_time": 1694322755,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 589479,
-      "num": 350630,
+      "num": 368943,
       "word": "清华大学有多重视体育课",
       "onboard_time": 1694318194,
       "rank": 21,
@@ -249,6 +249,14 @@
       "onboard_time": 1694274035,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 525009,
+      "num": 419776,
+      "word": "为什么去德国留学的少",
+      "onboard_time": 1694322814,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 506726,
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417616,
+      "num": 417616,
+      "word": "全嘻嘻 当一个农村女人决定出逃",
+      "onboard_time": 1694321675,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 413429,
       "num": 413429,
       "word": "德国1比4日本",
@@ -475,6 +491,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 355528,
+      "num": 355528,
+      "word": "张碧晨在脸上镶了个魔镜",
+      "onboard_time": 1694323956,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 351640,
       "num": 351640,
       "word": "教师节福利",
@@ -513,6 +537,14 @@
       "onboard_time": 1694266659,
       "rank": 23,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 330458,
+      "num": 330458,
+      "word": "华晨宇演唱会大屏背景是恶评",
+      "onboard_time": 1694323593,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 329749,
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310645,
+      "num": 310645,
+      "word": "建议彭昱畅别看",
+      "onboard_time": 1694321854,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310410,
       "num": 435438,
       "word": "张桂梅祝教师朋友们节日快乐",
@@ -617,6 +657,14 @@
       "onboard_time": 1694269296,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277200,
+      "num": 229038,
+      "word": "阿拉斯加海底3300米发现神秘金蛋",
+      "onboard_time": 1694322755,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271777,
@@ -671,14 +719,6 @@
       "num": 241413,
       "word": "金繁好亮啊",
       "onboard_time": 1694310571,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 240556,
-      "num": 240556,
-      "word": "建议彭昱畅别看",
-      "onboard_time": 1694321854,
       "rank": 26,
       "category": "影视"
     },
@@ -795,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201546,
+      "num": 201546,
+      "word": "两只黄鹂鸣翠柳 一块布上五条狗",
+      "onboard_time": 1694322573,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200791,
       "num": 200791,
       "word": "盛阳独白曲MV上线",
@@ -899,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187286,
+      "num": 187286,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1694323175,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187275,
       "num": 187275,
       "word": "周杰伦演唱会",
@@ -995,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162662,
+      "num": 162662,
+      "word": "吴磊骑有此理露营预告",
+      "onboard_time": 1694322932,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162092,
       "num": 463765,
       "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1694271460,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160835,
+      "num": 160835,
+      "word": "花花好好休息",
+      "onboard_time": 1694322873,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154490,
@@ -1075,19 +1147,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 142812,
-      "num": 142812,
-      "word": "全嘻嘻 当一个农村女人决定出逃",
-      "onboard_time": 1694321675,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 141089,
-      "num": 141089,
-      "word": "阿拉斯加海底3300米发现神秘金蛋",
-      "onboard_time": 1694322755,
-      "rank": 43,
+      "raw_hot": 141590,
+      "num": 141590,
+      "word": "安阳震感",
+      "onboard_time": 1694323293,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1097,14 +1161,6 @@
       "onboard_time": 1694321916,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137057,
-      "num": 137057,
-      "word": "为什么去德国留学的少",
-      "onboard_time": 1694322814,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 136073,
@@ -1121,14 +1177,6 @@
       "onboard_time": 1694305410,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 133006,
-      "num": 133006,
-      "word": "花花好好休息",
-      "onboard_time": 1694322873,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131862,
@@ -1419,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34976,
+      "num": 433398,
+      "word": "小学老师扎根乡村为教育坚守30年",
+      "onboard_time": 1694322034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32954,
       "num": 47578,
       "word": "这人是店长接班人吧",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1694287696,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20658,
-      "num": 433398,
-      "word": "小学老师扎根乡村为教育坚守30年",
-      "onboard_time": 1694322034,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19542,
