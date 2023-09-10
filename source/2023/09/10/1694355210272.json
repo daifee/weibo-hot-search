@@ -1,0 +1,410 @@
+{
+  "runTime": 1694355210272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2385741,
+        "num": 2385741,
+        "word": "TTG夺冠",
+        "onboard_time": 1694351739,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1504895,
+        "num": 1504895,
+        "word": "薛之谦成都39度高烧依旧开唱",
+        "onboard_time": 1694347655,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87676,
+        "num": 718322,
+        "word": "亚运会场馆水幔设计既典雅又实用",
+        "onboard_time": 1694351799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662366,
+        "num": 662366,
+        "word": "赵丽颖去看张碧晨演唱会",
+        "onboard_time": 1694345313,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 644514,
+        "num": 644514,
+        "word": "杨紫高洁丝直播",
+        "onboard_time": 1694350594,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632319,
+        "num": 632319,
+        "word": "天狼星天为首",
+        "onboard_time": 1694352162,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 617964,
+        "num": 617964,
+        "word": "妖刀隐身",
+        "onboard_time": 1694353540,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 604699,
+        "num": 604699,
+        "word": "张远一开口莲花楼DNA动了",
+        "onboard_time": 1694353003,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253507,
+        "num": 604081,
+        "word": "德国男篮vs塞尔维亚男篮",
+        "onboard_time": 1694352340,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230947,
+        "num": 604060,
+        "word": "山里小学摔出400多块奖牌",
+        "onboard_time": 1694341477,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604043,
+        "num": 604043,
+        "word": "时代少年团去了华晨宇演唱会",
+        "onboard_time": 1694353123,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 5139010,
+        "num": 596644,
+        "word": "花西子",
+        "onboard_time": 1694350416,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 4756350,
+        "num": 594122,
+        "word": "李佳琦带货怼网友",
+        "onboard_time": 1694332772,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959384,
+        "num": 581930,
+        "word": "薛之谦演唱会身体原因取消",
+        "onboard_time": 1694348433,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108128,
+        "num": 573979,
+        "word": "马龙说现在赢一场比赛都不容易",
+        "onboard_time": 1694345914,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 956303,
+        "num": 565391,
+        "word": "上海73岁初代丁克现状颠覆想象",
+        "onboard_time": 1694338412,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731047,
+        "num": 555015,
+        "word": "警方通报重庆女子持刀袭警被击伤死亡",
+        "onboard_time": 1694336734,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553976,
+        "num": 553976,
+        "word": "云为衫三寸天堂",
+        "onboard_time": 1694353419,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465885,
+        "num": 465885,
+        "word": "不然FMVP",
+        "onboard_time": 1694352640,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 450204,
+        "num": 450204,
+        "word": "国航CA403疑发出紧急代码7700",
+        "onboard_time": 1694339134,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342621,
+        "num": 447704,
+        "word": "如何看待李佳琦带货争议言论",
+        "onboard_time": 1694353599,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440271,
+        "num": 440271,
+        "word": "用女儿的奶茶袋做文具",
+        "onboard_time": 1694351678,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404216,
+        "num": 404216,
+        "word": "男子抢劫156元分赃30元躲进山洞14年",
+        "onboard_time": 1694351316,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401981,
+        "num": 401981,
+        "word": "余华 你只要把老人写成老人",
+        "onboard_time": 1694341358,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366228,
+        "num": 366228,
+        "word": "TTG金色雨",
+        "onboard_time": 1694352100,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364237,
+        "num": 364237,
+        "word": "天官赐福",
+        "onboard_time": 1694339253,
+        "rank": 25,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 343799,
+        "num": 343799,
+        "word": "帆帆联赛三连冠",
+        "onboard_time": 1694354322,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337168,
+        "num": 337168,
+        "word": "我命由我不由天 你说三千就三千",
+        "onboard_time": 1694338472,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331312,
+        "num": 331312,
+        "word": "蔡依林恭喜马龙夺冠",
+        "onboard_time": 1694344774,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 204943,
+        "num": 325529,
+        "word": "华为已启动全面回归全球手机市场的通盘计划",
+        "onboard_time": 1694336254,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 325100,
+        "num": 325100,
+        "word": "狼队挑杯再见",
+        "onboard_time": 1694353540,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308515,
+        "num": 308515,
+        "word": "宫尚角宫远徵上演替身文学",
+        "onboard_time": 1694353123,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299125,
+        "num": 299125,
+        "word": "Gemini 张凯的假酒给清清喝了吗",
+        "onboard_time": 1694354797,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294068,
+        "num": 294068,
+        "word": "王靖雯把KPL说成KPI",
+        "onboard_time": 1694345433,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 143308,
+        "num": 289900,
+        "word": "支教老师我来到了您的大学",
+        "onboard_time": 1694350895,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289218,
+        "num": 289218,
+        "word": "不然哭了",
+        "onboard_time": 1694353479,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286806,
+        "num": 286806,
+        "word": "肖战相信能通过努力证明自己的价值",
+        "onboard_time": 1694350236,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270631,
+        "num": 270631,
+        "word": "花了一百万后消费观转变",
+        "onboard_time": 1694334273,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142945,
+        "num": 267529,
+        "word": "麦迪郭艾伦单挑",
+        "onboard_time": 1694354496,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267488,
+        "num": 267488,
+        "word": "看完装腔启示录之后",
+        "onboard_time": 1694354377,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89101,
+        "num": 263324,
+        "word": "杭州亚运火炬传递主题歌燃",
+        "onboard_time": 1694348433,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261891,
+        "num": 261891,
+        "word": "邓为风度封面",
+        "onboard_time": 1694347055,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242013,
+        "num": 242013,
+        "word": "通天边路马清清",
+        "onboard_time": 1694352759,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89398,
+        "num": 241674,
+        "word": "这堂临时策划的语文课看得泪目",
+        "onboard_time": 1694354618,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 241360,
+        "num": 241360,
+        "word": "简冰故意说出了真心话",
+        "onboard_time": 1694352457,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214625,
+        "num": 214625,
+        "word": "丞磊卢昱晓一起做棉花糖",
+        "onboard_time": 1694354077,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204556,
+        "num": 204556,
+        "word": "冠军教练loveCD",
+        "onboard_time": 1694354557,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191635,
+        "num": 191635,
+        "word": "黄渤找到了自己没考上清华的原因",
+        "onboard_time": 1694344534,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118249,
+        "num": 189290,
+        "word": "中级经济法",
+        "onboard_time": 1694348433,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118155,
+        "num": 187456,
+        "word": "山村女老师手里一碗热饭吃了又放",
+        "onboard_time": 1694355157,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察78集团军#"
+    }
+  }
+}

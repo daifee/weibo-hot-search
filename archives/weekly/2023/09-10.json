@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694352854286,
+  "endTime": 1694355210272,
   "band_list": [
     {
       "raw_hot": 6316804,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1924229,
-      "num": 522247,
+      "num": 581930,
       "word": "薛之谦演唱会身体原因取消",
       "onboard_time": 1694348433,
       "rank": 11,
@@ -201,6 +201,14 @@
       "onboard_time": 1694322814,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1342621,
+      "num": 447704,
+      "word": "如何看待李佳琦带货争议言论",
+      "onboard_time": 1694353599,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1310262,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 854874,
-      "num": 506587,
+      "num": 644514,
       "word": "杨紫高洁丝直播",
       "onboard_time": 1694350594,
       "rank": 20,
@@ -491,12 +499,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 617964,
+      "num": 617964,
+      "word": "妖刀隐身",
+      "onboard_time": 1694353540,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 610545,
       "num": 610545,
       "word": "国足43年首次赢不了马来西亚",
       "onboard_time": 1694300781,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 604699,
+      "num": 604699,
+      "word": "张远一开口莲花楼DNA动了",
+      "onboard_time": 1694353003,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 604043,
+      "num": 604043,
+      "word": "时代少年团去了华晨宇演唱会",
+      "onboard_time": 1694353123,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 599292,
@@ -537,6 +569,14 @@
       "onboard_time": 1694349816,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 553976,
+      "num": 553976,
+      "word": "云为衫三寸天堂",
+      "onboard_time": 1694353419,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 552477,
@@ -729,6 +769,14 @@
       "onboard_time": 1694314532,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440271,
+      "num": 440271,
+      "word": "用女儿的奶茶袋做文具",
+      "onboard_time": 1694351678,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 439390,
@@ -1011,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343799,
+      "num": 343799,
+      "word": "帆帆联赛三连冠",
+      "onboard_time": 1694354322,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 337522,
       "num": 337522,
       "word": "胡锡进 四川工商学院的声明是一种悲哀",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1694352457,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325100,
+      "num": 325100,
+      "word": "狼队挑杯再见",
+      "onboard_time": 1694353540,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 323308,
@@ -1179,6 +1243,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 308515,
+      "num": 308515,
+      "word": "宫尚角宫远徵上演替身文学",
+      "onboard_time": 1694353123,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308507,
       "num": 267261,
       "word": "鞠婧祎半肩毛衣",
@@ -1219,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299125,
+      "num": 299125,
+      "word": "Gemini 张凯的假酒给清清喝了吗",
+      "onboard_time": 1694354797,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298909,
       "num": 1135735,
       "word": "她们是老师也是科学大牛",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1694342913,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289218,
+      "num": 289218,
+      "word": "不然哭了",
+      "onboard_time": 1694353479,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 288281,
@@ -1292,7 +1380,7 @@
     },
     {
       "raw_hot": 279621,
-      "num": 512073,
+      "num": 573979,
       "word": "马龙说现在赢一场比赛都不容易",
       "onboard_time": 1694345914,
       "rank": 12,
@@ -1313,6 +1401,14 @@
       "onboard_time": 1694343092,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267488,
+      "num": 267488,
+      "word": "看完装腔启示录之后",
+      "onboard_time": 1694354377,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 265177,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1694274816,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253507,
+      "num": 604081,
+      "word": "德国男篮vs塞尔维亚男篮",
+      "onboard_time": 1694352340,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 252142,
@@ -1419,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242013,
+      "num": 242013,
+      "word": "通天边路马清清",
+      "onboard_time": 1694352759,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241413,
       "num": 241413,
       "word": "金繁好亮啊",
@@ -1441,14 +1553,6 @@
       "onboard_time": 1694318734,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 238940,
-      "num": 238940,
-      "word": "德国男篮vs塞尔维亚男篮",
-      "onboard_time": 1694352340,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 237455,
@@ -1659,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214625,
+      "num": 214625,
+      "word": "丞磊卢昱晓一起做棉花糖",
+      "onboard_time": 1694354077,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213696,
       "num": 213696,
       "word": "陈梦王曼昱亚锦赛夺冠",
@@ -1760,6 +1872,14 @@
       "word": "猛男粉无畏",
       "onboard_time": 1694325874,
       "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 204556,
+      "num": 204556,
+      "word": "冠军教练loveCD",
+      "onboard_time": 1694354557,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -1873,14 +1993,6 @@
       "onboard_time": 1694266598,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195653,
-      "num": 195653,
-      "word": "通天边路马清清",
-      "onboard_time": 1694352759,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 194210,
@@ -2363,6 +2475,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 143308,
+      "num": 510217,
+      "word": "支教老师我来到了您的大学",
+      "onboard_time": 1694350895,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142945,
+      "num": 267529,
+      "word": "麦迪郭艾伦单挑",
+      "onboard_time": 1694354496,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141590,
       "num": 141590,
       "word": "安阳震感",
@@ -2523,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118155,
+      "num": 187456,
+      "word": "山村女老师手里一碗热饭吃了又放",
+      "onboard_time": 1694355157,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "华晨宇演唱会北京鸟巢歌单",
@@ -2619,14 +2755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98341,
-      "num": 510217,
-      "word": "支教老师我来到了您的大学",
-      "onboard_time": 1694350895,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94231,
       "num": 94231,
       "word": "安崎淘汰",
@@ -2657,6 +2785,22 @@
       "onboard_time": 1694300418,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89398,
+      "num": 241674,
+      "word": "这堂临时策划的语文课看得泪目",
+      "onboard_time": 1694354618,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 87676,
+      "num": 1595322,
+      "word": "亚运会场馆水幔设计既典雅又实用",
+      "onboard_time": 1694351799,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77954,
@@ -2697,14 +2841,6 @@
       "onboard_time": 1694288655,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 67165,
-      "num": 1595322,
-      "word": "亚运会场馆水幔设计既典雅又实用",
-      "onboard_time": 1694351799,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66900,
@@ -2898,6 +3034,9 @@
     },
     {
       "word": "#习近平对教师的嘱托与期望#"
+    },
+    {
+      "word": "#习近平视察78集团军#"
     }
   ]
 }
