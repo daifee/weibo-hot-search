@@ -1,0 +1,410 @@
+{
+  "runTime": 1694333948766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465120,
+        "num": 1465120,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1694332353,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618046,
+        "num": 618046,
+        "word": "Rose或将和霉霉合作",
+        "onboard_time": 1694327313,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71141,
+        "num": 593153,
+        "word": "杭州亚运会开幕日恰逢秋分",
+        "onboard_time": 1694331091,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4946918,
+        "num": 583894,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1173079,
+        "num": 524191,
+        "word": "华晨宇演唱会大屏背景是恶评",
+        "onboard_time": 1694323593,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 729923,
+        "num": 522621,
+        "word": "花13000元买的周杰伦演唱会门票被偷",
+        "onboard_time": 1694325333,
+        "rank": 5,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 491860,
+        "num": 491860,
+        "word": "王源像跟着父母应酬的我",
+        "onboard_time": 1694326773,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413480,
+        "num": 413480,
+        "word": "儿子觉得自己家在班里最平凡",
+        "onboard_time": 1694326532,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402239,
+        "num": 402239,
+        "word": "女大学生差点被裤子单杀",
+        "onboard_time": 1694324493,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390141,
+        "num": 390141,
+        "word": "这8分钟好像过了十几年",
+        "onboard_time": 1694329472,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 4108493,
+        "num": 384979,
+        "word": "李佳琦带货怼网友",
+        "onboard_time": 1694332772,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 522411,
+        "num": 384601,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373510,
+        "num": 373510,
+        "word": "中级财管",
+        "onboard_time": 1694333312,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136487,
+        "num": 350444,
+        "word": "怕新生吃不饱老师站着陪吃饭",
+        "onboard_time": 1694329411,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43679,
+        "num": 344386,
+        "word": "高校学生手工做100个黏土花束送老师",
+        "onboard_time": 1694332831,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344017,
+        "num": 344017,
+        "word": "为什么去德国留学的少",
+        "onboard_time": 1694322814,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321906,
+        "num": 321906,
+        "word": "粗心爸爸记错放学时间要强女儿独自回家",
+        "onboard_time": 1694333434,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319785,
+        "num": 319785,
+        "word": "11岁男孩在叔叔的婚礼上放大招",
+        "onboard_time": 1694330493,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316661,
+        "num": 316661,
+        "word": "谷江山 终于现场听到了活死人",
+        "onboard_time": 1694330731,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109073,
+        "num": 312295,
+        "word": "张桂梅祝教师朋友们节日快乐",
+        "onboard_time": 1694314653,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309347,
+        "num": 309347,
+        "word": "襄阳文旅回应游客看表演遭区别对待",
+        "onboard_time": 1694330131,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 294113,
+        "num": 294113,
+        "word": "孙颖莎在领奖台上玩公仔",
+        "onboard_time": 1694332831,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290930,
+        "num": 290930,
+        "word": "冯宝宝被人贩子拐卖挑断手脚筋",
+        "onboard_time": 1694308771,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250502,
+        "num": 250502,
+        "word": "华莎接受警方调查",
+        "onboard_time": 1694318554,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241337,
+        "num": 241337,
+        "word": "襄阳",
+        "onboard_time": 1694325812,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224837,
+        "num": 224837,
+        "word": "花花暂停展出",
+        "onboard_time": 1694315975,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221719,
+        "num": 221719,
+        "word": "成毅张予曦吻戏剧照",
+        "onboard_time": 1694330612,
+        "rank": 26,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 218313,
+        "num": 218313,
+        "word": "塞尔达 你的下一艘船何必只是船",
+        "onboard_time": 1694330131,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199288,
+        "num": 199288,
+        "word": "马龙10年后再夺亚锦赛男单冠军",
+        "onboard_time": 1694333732,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187130,
+        "num": 187130,
+        "word": "国乒包揽7金收官",
+        "onboard_time": 1694333073,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198355,
+        "num": 184919,
+        "word": "DFBOYS",
+        "onboard_time": 1694311712,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182676,
+        "num": 182676,
+        "word": "云为衫相亲大片",
+        "onboard_time": 1694331330,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180225,
+        "num": 180225,
+        "word": "无畏深V",
+        "onboard_time": 1694333252,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175873,
+        "num": 175873,
+        "word": "咖啡 是一种豆浆",
+        "onboard_time": 1694321074,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173582,
+        "num": 173582,
+        "word": "虞书欣卢昱晓台前幕后花絮",
+        "onboard_time": 1694329052,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173083,
+        "num": 173083,
+        "word": "全嘻嘻 当一个农村女人决定出逃",
+        "onboard_time": 1694321675,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163738,
+        "num": 163738,
+        "word": "BLACKPINK路人缘很好的成员",
+        "onboard_time": 1694307271,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162289,
+        "num": 162289,
+        "word": "陈梦王曼昱3比0孙颖莎王艺迪",
+        "onboard_time": 1694329411,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153631,
+        "num": 153631,
+        "word": "骄阳伴我重庆拍摄地打卡",
+        "onboard_time": 1694330313,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147818,
+        "num": 147818,
+        "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
+        "onboard_time": 1694314532,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144305,
+        "num": 144305,
+        "word": "大学老师害怕打针12年献血4万毫升",
+        "onboard_time": 1694330911,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138681,
+        "num": 138681,
+        "word": "张碧晨在脸上镶了个魔镜",
+        "onboard_time": 1694323956,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129786,
+        "num": 129786,
+        "word": "黑执事新作预告",
+        "onboard_time": 1694330071,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 125704,
+        "num": 125704,
+        "word": "王曼昱亚锦赛三冠王",
+        "onboard_time": 1694331091,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122528,
+        "num": 122528,
+        "word": "阿拉斯加海底3300米发现神秘金蛋",
+        "onboard_time": 1694322755,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116979,
+        "num": 116979,
+        "word": "马思纯现身李荣浩演唱会",
+        "onboard_time": 1694327853,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113265,
+        "num": 113265,
+        "word": "56岁男子徒步4000公里教师节前到母校",
+        "onboard_time": 1694331271,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112351,
+        "num": 112351,
+        "word": "80后泸州女子一年卖4000万斤萝卜",
+        "onboard_time": 1694330672,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105048,
+        "num": 105048,
+        "word": "二次元有自己的老师",
+        "onboard_time": 1694331994,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102474,
+        "num": 102474,
+        "word": "两只黄鹂鸣翠柳 一块布上五条狗",
+        "onboard_time": 1694322573,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对教师的嘱托与期望#"
+    }
+  }
+}
