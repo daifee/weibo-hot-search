@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694345632036,
+  "endTime": 1694348949641,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -488,6 +488,14 @@
       "word": "阿信演唱会吸氧",
       "onboard_time": 1694182957,
       "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2448636,
+      "num": 2448636,
+      "word": "薛之谦成都39度高烧依旧开唱",
+      "onboard_time": 1694347655,
+      "rank": 0,
       "category": "音乐"
     },
     {
@@ -1811,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1422855,
+      "num": 429207,
+      "word": "薛之谦演唱会身体原因取消",
+      "onboard_time": 1694348433,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1414989,
       "num": 1414989,
       "word": "幼升小三大件花费近3000元",
@@ -2227,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1204421,
+      "num": 945887,
+      "word": "我命由我不由天 你说三千就三千",
+      "onboard_time": 1694338472,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1203535,
       "num": 1203535,
       "word": "男子称怒砸10杯酱香拿铁不是因奶油太丑",
@@ -2452,7 +2476,7 @@
     },
     {
       "raw_hot": 1112394,
-      "num": 688298,
+      "num": 1000253,
       "word": "蔡依林恭喜马龙夺冠",
       "onboard_time": 1694344774,
       "rank": 12,
@@ -2569,6 +2593,14 @@
       "onboard_time": 1693549055,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1088610,
+      "num": 1088610,
+      "word": "赵丽颖去看张碧晨演唱会",
+      "onboard_time": 1694345313,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 1087518,
@@ -2953,14 +2985,6 @@
       "onboard_time": 1693883976,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 986372,
-      "num": 945887,
-      "word": "我命由我不由天 你说三千就三千",
-      "onboard_time": 1694338472,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 984497,
@@ -3625,6 +3649,14 @@
       "onboard_time": 1694312732,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 862351,
+      "num": 862351,
+      "word": "王靖雯把KPL说成KPI",
+      "onboard_time": 1694345433,
+      "rank": 38,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 858966,
@@ -8019,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492766,
+      "num": 427129,
+      "word": "邓为风度封面",
+      "onboard_time": 1694347055,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 492752,
       "num": 492752,
       "word": "崔胜澈坐轮椅出发日本",
@@ -8393,6 +8433,14 @@
       "onboard_time": 1693916678,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 476937,
+      "num": 426876,
+      "word": "迪丽热巴力士直播",
+      "onboard_time": 1694345372,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 476725,
@@ -9713,14 +9761,6 @@
       "onboard_time": 1694183198,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 420292,
-      "num": 315118,
-      "word": "赵丽颖去看张碧晨演唱会",
-      "onboard_time": 1694345313,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 420200,
@@ -11843,14 +11883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 337898,
-      "num": 337898,
-      "word": "迪丽热巴力士直播",
-      "onboard_time": 1694345372,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337472,
       "num": 315912,
       "word": "感觉像是周迅会做的事",
@@ -12641,6 +12673,14 @@
       "onboard_time": 1694228013,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316885,
+      "num": 316885,
+      "word": "时代少年团走的什么路线",
+      "onboard_time": 1694345495,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 316715,
@@ -13755,6 +13795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 288281,
+      "num": 288281,
+      "word": "没有什么东西不适合或者适合女性",
+      "onboard_time": 1694346093,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288209,
       "num": 248069,
       "word": "小伙创业失败三次瞒着父亲偷偷干",
@@ -14081,6 +14129,14 @@
       "onboard_time": 1693889322,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279621,
+      "num": 428897,
+      "word": "马龙说现在赢一场比赛都不容易",
+      "onboard_time": 1694345914,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 279347,
@@ -17507,6 +17563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212706,
+      "num": 212706,
+      "word": "还以为李子维想要给黄雨萱一刀",
+      "onboard_time": 1694345073,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212607,
       "num": 212607,
       "word": "你好大口气敢威胁如妃",
@@ -18403,14 +18467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203338,
-      "num": 203338,
-      "word": "时代少年团走的什么路线",
-      "onboard_time": 1694345495,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203306,
       "num": 203306,
       "word": "你所熟悉的人类进化图是错的",
@@ -18707,6 +18763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200593,
+      "num": 221563,
+      "word": "杭州亚运火炬传递主题歌燃",
+      "onboard_time": 1694348433,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200552,
       "num": 200552,
       "word": "李宗盛演唱会内场观众盘丝洞体验",
@@ -18953,14 +19017,6 @@
       "onboard_time": 1693704873,
       "rank": 37,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 198185,
-      "num": 198185,
-      "word": "还以为李子维想要给黄雨萱一刀",
-      "onboard_time": 1694345073,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 198169,
@@ -19537,14 +19593,6 @@
       "onboard_time": 1693580439,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 193014,
-      "num": 193014,
-      "word": "王靖雯把KPL说成KPI",
-      "onboard_time": 1694345433,
-      "rank": 38,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 192969,
@@ -20875,6 +20923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178782,
+      "num": 178782,
+      "word": "KPL夏决中场秀全是刀子",
+      "onboard_time": 1694347895,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178702,
       "num": 178702,
       "word": "胡兵说第几名不重要主要得体面",
@@ -21017,6 +21073,14 @@
       "onboard_time": 1693917339,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175685,
+      "num": 221362,
+      "word": "马龙值得",
+      "onboard_time": 1694347655,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 175600,
@@ -21499,6 +21563,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 167737,
+      "num": 167737,
+      "word": "狼队追平比分",
+      "onboard_time": 1694348192,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167566,
       "num": 167566,
       "word": "00后民警送80后师父不锈钢锦旗被围观",
@@ -21689,6 +21761,14 @@
       "onboard_time": 1693744123,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164394,
+      "num": 164394,
+      "word": "周深唱跳翻唱杀手和不死之身",
+      "onboard_time": 1694348674,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 164319,
@@ -22715,6 +22795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147862,
+      "num": 147862,
+      "word": "篮场风暴",
+      "onboard_time": 1694348794,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147455,
       "num": 147455,
       "word": "00后排队体验养老设施",
@@ -22785,6 +22873,14 @@
       "onboard_time": 1693964256,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146457,
+      "num": 146457,
+      "word": "TTG演我心率",
+      "onboard_time": 1694345734,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 146373,
@@ -26281,6 +26377,14 @@
       "onboard_time": 1693941913,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23329,
+      "num": 427855,
+      "word": "教师把与学生的故事写进诗集",
+      "onboard_time": 1694347291,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23246,

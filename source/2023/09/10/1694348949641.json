@@ -1,0 +1,410 @@
+{
+  "runTime": 1694348949641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2448636,
+        "num": 2448636,
+        "word": "薛之谦成都39度高烧依旧开唱",
+        "onboard_time": 1694347655,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1089540,
+        "num": 1089540,
+        "word": "国航CA403疑发出紧急代码7700",
+        "onboard_time": 1694339134,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53064,
+        "num": 1088782,
+        "word": "杭州亚运会开幕日恰逢秋分",
+        "onboard_time": 1694331091,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1088610,
+        "num": 1088610,
+        "word": "赵丽颖去看张碧晨演唱会",
+        "onboard_time": 1694345313,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1029500,
+        "num": 1029500,
+        "word": "余华 你只要把老人写成老人",
+        "onboard_time": 1694341358,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1000253,
+        "num": 1000253,
+        "word": "蔡依林恭喜马龙夺冠",
+        "onboard_time": 1694344774,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 862351,
+        "num": 862351,
+        "word": "王靖雯把KPL说成KPI",
+        "onboard_time": 1694345433,
+        "rank": 6,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 570514,
+        "num": 570514,
+        "word": "花了一百万后消费观转变",
+        "onboard_time": 1694334273,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473568,
+        "num": 473568,
+        "word": "国航通报CA403挂紧急代码7700",
+        "onboard_time": 1694344413,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430083,
+        "num": 430083,
+        "word": "中级经济法",
+        "onboard_time": 1694348433,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4692288,
+        "num": 429884,
+        "word": "李佳琦带货怼网友",
+        "onboard_time": 1694332772,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1422855,
+        "num": 429207,
+        "word": "薛之谦演唱会身体原因取消",
+        "onboard_time": 1694348433,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279621,
+        "num": 428897,
+        "word": "马龙说现在赢一场比赛都不容易",
+        "onboard_time": 1694345914,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244828,
+        "num": 428357,
+        "word": "山里小学摔出400多块奖牌",
+        "onboard_time": 1694341477,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23329,
+        "num": 427855,
+        "word": "教师把与学生的故事写进诗集",
+        "onboard_time": 1694347291,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427774,
+        "num": 427774,
+        "word": "天官赐福",
+        "onboard_time": 1694339253,
+        "rank": 15,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1355640,
+        "num": 427758,
+        "word": "上海73岁初代丁克现状颠覆想象",
+        "onboard_time": 1694338412,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204421,
+        "num": 427423,
+        "word": "我命由我不由天 你说三千就三千",
+        "onboard_time": 1694338472,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 510249,
+        "num": 427322,
+        "word": "爱思领证了",
+        "onboard_time": 1694343633,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 492766,
+        "num": 427129,
+        "word": "邓为风度封面",
+        "onboard_time": 1694347055,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 476937,
+        "num": 426876,
+        "word": "迪丽热巴力士直播",
+        "onboard_time": 1694345372,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426857,
+        "num": 426857,
+        "word": "警方通报重庆女子持刀袭警被击伤死亡",
+        "onboard_time": 1694336734,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345587,
+        "num": 345587,
+        "word": "真正男子汉时期的杨幂",
+        "onboard_time": 1694342135,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316885,
+        "num": 316885,
+        "word": "时代少年团走的什么路线",
+        "onboard_time": 1694345495,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314351,
+        "num": 314351,
+        "word": "张碧晨演唱会",
+        "onboard_time": 1694344833,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310673,
+        "num": 310673,
+        "word": "孙阳妈妈说这辈子都忘不了大鹏",
+        "onboard_time": 1694345433,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297467,
+        "num": 297467,
+        "word": "华晨宇演唱会大屏背景是恶评",
+        "onboard_time": 1694323593,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288281,
+        "num": 288281,
+        "word": "没有什么东西不适合或者适合女性",
+        "onboard_time": 1694346093,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254966,
+        "num": 254966,
+        "word": "2男童拿现金买手机被老板哄吓拒售",
+        "onboard_time": 1694340155,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200593,
+        "num": 221563,
+        "word": "杭州亚运火炬传递主题歌燃",
+        "onboard_time": 1694348433,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175685,
+        "num": 221362,
+        "word": "马龙值得",
+        "onboard_time": 1694347655,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221203,
+        "num": 221203,
+        "word": "华为已启动全面回归全球手机市场的通盘计划",
+        "onboard_time": 1694336254,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220551,
+        "num": 220551,
+        "word": "这就是街舞6",
+        "onboard_time": 1694339134,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212706,
+        "num": 212706,
+        "word": "还以为李子维想要给黄雨萱一刀",
+        "onboard_time": 1694345073,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206521,
+        "num": 206521,
+        "word": "父辈的荣耀",
+        "onboard_time": 1694348433,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206192,
+        "num": 206192,
+        "word": "黄渤找到了自己没考上清华的原因",
+        "onboard_time": 1694344534,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182527,
+        "num": 182527,
+        "word": "原神音乐会",
+        "onboard_time": 1694348556,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178864,
+        "num": 178864,
+        "word": "邓为费加罗男士金九首封预告",
+        "onboard_time": 1694336494,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178782,
+        "num": 178782,
+        "word": "KPL夏决中场秀全是刀子",
+        "onboard_time": 1694347895,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167737,
+        "num": 167737,
+        "word": "狼队追平比分",
+        "onboard_time": 1694348192,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164570,
+        "num": 164570,
+        "word": "TTG对战狼队",
+        "onboard_time": 1694335774,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164394,
+        "num": 164394,
+        "word": "周深唱跳翻唱杀手和不死之身",
+        "onboard_time": 1694348674,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162420,
+        "num": 162420,
+        "word": "郑智",
+        "onboard_time": 1694343092,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159648,
+        "num": 159648,
+        "word": "大哥的共享单车都要踩冒烟了",
+        "onboard_time": 1694340034,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153428,
+        "num": 153428,
+        "word": "狄龙39分",
+        "onboard_time": 1694343754,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147862,
+        "num": 147862,
+        "word": "篮场风暴",
+        "onboard_time": 1694348794,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146457,
+        "num": 146457,
+        "word": "TTG演我心率",
+        "onboard_time": 1694345734,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141531,
+        "num": 141531,
+        "word": "魔法少女小圆",
+        "onboard_time": 1694339314,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138124,
+        "num": 138124,
+        "word": "这就是街舞6导师剪影海报",
+        "onboard_time": 1694336254,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130612,
+        "num": 130612,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1694332353,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记今年国内考察有条主线#"
+    }
+  }
+}
