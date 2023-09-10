@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694369960334,
+  "endTime": 1694370841156,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -499,19 +499,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54415,
+      "num": 54415,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46839,
       "num": 721913,
       "word": "亚运会场馆水幔设计既典雅又实用",
       "onboard_time": 1694351799,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45679,
-      "num": 45679,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
