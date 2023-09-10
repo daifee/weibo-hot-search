@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694384087136,
+  "endTime": 1694385229571,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -355,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190691,
+      "num": 190691,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180013,
       "num": 140514,
       "word": "这届年轻人为何变得抠门了",
@@ -435,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129119,
+      "num": 84425,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124468,
       "num": 124468,
       "word": "冰尘抓不住的金色雨",
@@ -467,12 +483,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 105764,
-      "num": 105764,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 97752,
+      "num": 97752,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 96080,
@@ -483,12 +499,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 92348,
-      "num": 52778,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 92769,
+      "num": 62005,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 86058,
@@ -515,12 +531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68719,
-      "num": 45679,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 70136,
+      "num": 70136,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 66645,
@@ -531,12 +547,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 56285,
-      "num": 56285,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 54516,
+      "num": 54516,
+      "word": "颠覆三观的儿童零食冷知识",
+      "onboard_time": 1694384356,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 46839,
@@ -547,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46703,
-      "num": 46703,
-      "word": "白桃星座",
-      "onboard_time": 1694374154,
-      "rank": 33,
-      "category": "情感,网红"
+      "raw_hot": 36513,
+      "num": 36513,
+      "word": "国航通报CA403挂紧急代码7700",
+      "onboard_time": 1694344413,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35294,
@@ -563,28 +579,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32577,
+      "num": 32577,
+      "word": "CA403所有人员均安全撤离",
+      "onboard_time": 1694342732,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31072,
-      "num": 54909,
+      "num": 84936,
       "word": "杭州亚运火炬传递主题歌燃",
       "onboard_time": 1694348433,
       "rank": 24,
       "category": "体育"
     },
     {
-      "raw_hot": 30571,
-      "num": 30571,
-      "word": "国航通报CA403挂紧急代码7700",
-      "onboard_time": 1694344413,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29630,
-      "num": 29630,
-      "word": "CA403所有人员均安全撤离",
-      "onboard_time": 1694342732,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 28625,
+      "num": 28625,
+      "word": "被盛阳的笑治愈了",
+      "onboard_time": 1694385199,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 20679,
@@ -595,7 +611,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16170,
+      "raw_hot": 19814,
       "num": 651086,
       "word": "同学们便利贴写祝福拼成画送老师",
       "onboard_time": 1694351495,

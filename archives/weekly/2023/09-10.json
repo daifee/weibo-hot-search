@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694384087136,
+  "endTime": 1694385229571,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -2355,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190691,
+      "num": 190691,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190452,
       "num": 190452,
       "word": "原神音乐会",
@@ -2931,6 +2939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 129119,
+      "num": 84425,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128610,
       "num": 128610,
       "word": "男生军训跳长绸舞引哇声一片",
@@ -3067,14 +3083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105764,
-      "num": 105764,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105048,
       "num": 105048,
       "word": "二次元有自己的老师",
@@ -3115,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97752,
+      "num": 97752,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94231,
       "num": 94231,
       "word": "安崎淘汰",
@@ -3131,12 +3147,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 92348,
-      "num": 52778,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 92769,
+      "num": 62005,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 91310,
@@ -3219,20 +3235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70136,
+      "num": 70136,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 68768,
       "num": 68768,
       "word": "试吃最近超火的红魔虾",
       "onboard_time": 1694288655,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 68719,
-      "num": 45679,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 66900,
@@ -3283,12 +3299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56285,
-      "num": 56285,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 54516,
+      "num": 54516,
+      "word": "颠覆三观的儿童零食冷知识",
+      "onboard_time": 1694384356,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 53072,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1694284396,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 46703,
-      "num": 46703,
-      "word": "白桃星座",
-      "onboard_time": 1694374154,
-      "rank": 33,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 46356,
@@ -3411,6 +3419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28625,
+      "num": 28625,
+      "word": "被盛阳的笑治愈了",
+      "onboard_time": 1694385199,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24147,
       "num": 40420,
       "word": "格鲁吉亚1比7西班牙",
@@ -3435,19 +3451,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19814,
+      "num": 651086,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19542,
       "num": 40379,
       "word": "99做好事",
       "onboard_time": 1694295554,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17744,
-      "num": 651086,
-      "word": "同学们便利贴写祝福拼成画送老师",
-      "onboard_time": 1694351495,
-      "rank": 45,
       "category": "社会新闻"
     }
   ],
