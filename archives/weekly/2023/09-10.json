@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694385229571,
+  "endTime": 1694387745107,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1397732,
+      "num": 157502,
+      "word": "李佳琦就直播言论致歉",
+      "onboard_time": 1694387725,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1393300,
       "num": 466889,
       "word": "卡琳娜宣布暂停一切活动",
@@ -275,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1134576,
+      "num": 978753,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113864,
       "num": 1113864,
       "word": "赵丽颖去看张碧晨演唱会",
@@ -329,14 +345,6 @@
       "onboard_time": 1694324493,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 978753,
-      "num": 978753,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 976290,
@@ -536,6 +544,14 @@
       "word": "国航CA403疑左侧发动机起火",
       "onboard_time": 1694340573,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681565,
+      "num": 450166,
+      "word": "国航CA403有乘客因携带行李撤离摔倒",
+      "onboard_time": 1694357143,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -899,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450166,
-      "num": 450166,
-      "word": "国航CA403有乘客因携带行李撤离摔倒",
-      "onboard_time": 1694357143,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439390,
       "num": 372947,
       "word": "翻译一下乌尔善发过的照片",
@@ -1195,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351953,
+      "num": 351953,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351640,
       "num": 351640,
       "word": "教师节福利",
@@ -1440,6 +1456,14 @@
       "word": "三年租房花费了十五万",
       "onboard_time": 1694257774,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 303608,
+      "num": 156198,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -1939,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222547,
+      "num": 222547,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222313,
       "num": 222313,
       "word": "难怪兰夫人会emo",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1694310512,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214852,
+      "num": 156017,
+      "word": "颠覆三观的儿童零食冷知识",
+      "onboard_time": 1694384356,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 214060,
@@ -2283,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195818,
+      "num": 125528,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 194210,
       "num": 194210,
       "word": "微博手机影像年",
@@ -2353,14 +2401,6 @@
       "onboard_time": 1694275236,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190691,
-      "num": 190691,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190452,
@@ -2523,14 +2563,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 180013,
-      "num": 140514,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179508,
       "num": 179508,
       "word": "李九为TTG写诗",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1694345614,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 164528,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 164430,
@@ -2835,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144484,
+      "num": 144484,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 143308,
       "num": 510217,
       "word": "支教老师我来到了您的大学",
@@ -2939,14 +2987,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 129119,
-      "num": 84425,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128610,
       "num": 128610,
       "word": "男生军训跳长绸舞引哇声一片",
@@ -2985,6 +3025,14 @@
       "onboard_time": 1694309132,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125711,
+      "num": 125711,
+      "word": "塞尔维亚男篮痛哭",
+      "onboard_time": 1694385980,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 125123,
@@ -3123,14 +3171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97752,
-      "num": 97752,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94231,
       "num": 94231,
       "word": "安崎淘汰",
@@ -3145,14 +3185,6 @@
       "onboard_time": 1694263595,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 92769,
-      "num": 62005,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 91310,
@@ -3235,20 +3267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70136,
-      "num": 70136,
-      "word": "白桃星座",
-      "onboard_time": 1694374154,
-      "rank": 33,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 68768,
       "num": 68768,
       "word": "试吃最近超火的红魔虾",
       "onboard_time": 1694288655,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 68326,
+      "num": 68326,
+      "word": "被盛阳的笑治愈了",
+      "onboard_time": 1694385199,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 66900,
@@ -3299,14 +3331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54516,
-      "num": 54516,
-      "word": "颠覆三观的儿童零食冷知识",
-      "onboard_time": 1694384356,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 53072,
       "num": 59793,
       "word": "封神质子团将在第三部回归",
@@ -3353,6 +3377,14 @@
       "onboard_time": 1694284396,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 46396,
+      "num": 651086,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46356,
@@ -3419,14 +3451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28625,
-      "num": 28625,
-      "word": "被盛阳的笑治愈了",
-      "onboard_time": 1694385199,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 24147,
       "num": 40420,
       "word": "格鲁吉亚1比7西班牙",
@@ -3449,14 +3473,6 @@
       "onboard_time": 1694249135,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19814,
-      "num": 651086,
-      "word": "同学们便利贴写祝福拼成画送老师",
-      "onboard_time": 1694351495,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19542,

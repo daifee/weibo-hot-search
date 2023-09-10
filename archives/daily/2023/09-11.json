@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694385229571,
+  "endTime": 1694387745107,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -35,7 +35,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 978753,
+      "raw_hot": 1397732,
+      "num": 157502,
+      "word": "李佳琦就直播言论致歉",
+      "onboard_time": 1694387725,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1134576,
       "num": 978753,
       "word": "国货难带和尊重消费者是两码事",
       "onboard_time": 1694357325,
@@ -65,6 +73,14 @@
       "onboard_time": 1694359601,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 681565,
+      "num": 296182,
+      "word": "国航CA403有乘客因携带行李撤离摔倒",
+      "onboard_time": 1694357143,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661096,
@@ -155,6 +171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 351953,
+      "num": 351953,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337574,
       "num": 337574,
       "word": "OG",
@@ -179,20 +203,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 303608,
+      "num": 156198,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300921,
       "num": 274058,
       "word": "波伏娃 女性要保留一定的自由和孤独",
       "onboard_time": 1694362473,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 296182,
-      "num": 296182,
-      "word": "国航CA403有乘客因携带行李撤离摔倒",
-      "onboard_time": 1694357143,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294453,
@@ -267,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222547,
+      "num": 222547,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220029,
       "num": 220029,
       "word": "警方通报重庆女子持刀袭警被击伤死亡",
       "onboard_time": 1694336734,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214852,
+      "num": 156017,
+      "word": "颠覆三观的儿童零食冷知识",
+      "onboard_time": 1694384356,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 214060,
@@ -347,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195818,
+      "num": 125528,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 191671,
       "num": 191671,
       "word": "久酷鲜奶",
@@ -355,28 +403,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190691,
-      "num": 190691,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180013,
-      "num": 140514,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170948,
       "num": 170948,
       "word": "殷商男足",
       "onboard_time": 1694361937,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 164528,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 162883,
@@ -427,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144484,
+      "num": 144484,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 143112,
       "num": 143112,
       "word": "花了一百万后消费观转变",
@@ -443,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129119,
-      "num": 84425,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 125711,
+      "num": 125711,
+      "word": "塞尔维亚男篮痛哭",
+      "onboard_time": 1694385980,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 124468,
@@ -475,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118328,
+      "num": 303547,
+      "word": "山村女老师手里一碗热饭吃了又放",
+      "onboard_time": 1694355157,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 106834,
       "num": 303944,
       "word": "00后送教师节礼物主打一个笑中带泪",
@@ -483,32 +539,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 97752,
-      "num": 97752,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 96080,
-      "num": 303547,
-      "word": "山村女老师手里一碗热饭吃了又放",
-      "onboard_time": 1694355157,
-      "rank": 13,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 92769,
-      "num": 62005,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 86058,
-      "num": 86058,
+      "raw_hot": 105057,
+      "num": 105057,
       "word": "孙阳妈妈说这辈子都忘不了大鹏",
       "onboard_time": 1694345433,
       "rank": 47,
@@ -531,12 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70136,
-      "num": 70136,
-      "word": "白桃星座",
-      "onboard_time": 1694374154,
-      "rank": 33,
-      "category": "情感,网红"
+      "raw_hot": 68326,
+      "num": 68326,
+      "word": "被盛阳的笑治愈了",
+      "onboard_time": 1694385199,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 66645,
@@ -547,20 +579,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 54516,
-      "num": 54516,
-      "word": "颠覆三观的儿童零食冷知识",
-      "onboard_time": 1694384356,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 46839,
       "num": 721913,
       "word": "亚运会场馆水幔设计既典雅又实用",
       "onboard_time": 1694351799,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46396,
+      "num": 651086,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44294,
+      "num": 157884,
+      "word": "杭州亚运火炬传递主题歌燃",
+      "onboard_time": 1694348433,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 36513,
@@ -587,36 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31072,
-      "num": 84936,
-      "word": "杭州亚运火炬传递主题歌燃",
-      "onboard_time": 1694348433,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28625,
-      "num": 28625,
-      "word": "被盛阳的笑治愈了",
-      "onboard_time": 1694385199,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 20679,
       "num": 20679,
       "word": "华晨宇演唱会",
       "onboard_time": 1694249135,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19814,
-      "num": 651086,
-      "word": "同学们便利贴写祝福拼成画送老师",
-      "onboard_time": 1694351495,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
