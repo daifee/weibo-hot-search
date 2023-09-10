@@ -1,10 +1,10 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694337297439,
+  "endTime": 1694338457021,
   "band_list": [
     {
       "raw_hot": 6316804,
-      "num": 552850,
+      "num": 815684,
       "word": "李佳琦带货怼网友",
       "onboard_time": 1694332772,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1694315013,
       "rank": 15,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 1577632,
+      "num": 1577632,
+      "word": "警方通报重庆女子持刀袭警被击伤死亡",
+      "onboard_time": 1694336734,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1465120,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 677378,
-      "num": 342311,
+      "num": 405944,
       "word": "粗心爸爸记错放学时间要强女儿独自回家",
       "onboard_time": 1694333434,
       "rank": 16,
@@ -339,6 +347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 581092,
+      "num": 581092,
+      "word": "邓为费加罗男士金九首封预告",
+      "onboard_time": 1694336494,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 552477,
       "num": 552477,
       "word": "王俊凯 俊昇文化",
@@ -361,14 +377,6 @@
       "onboard_time": 1694334693,
       "rank": 21,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 513912,
-      "num": 513912,
-      "word": "邓为费加罗男士金九首封预告",
-      "onboard_time": 1694336494,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 506726,
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 425726,
+      "num": 425726,
+      "word": "华为已启动全面回归全球手机市场的通盘计划",
+      "onboard_time": 1694336254,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 424388,
       "num": 455732,
       "word": "摩洛哥地震遇难人数升至2012人",
@@ -515,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421759,
+      "num": 324157,
+      "word": "华为Mate60设置遥遥领先萦绕耳边",
+      "onboard_time": 1694334571,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 418031,
       "num": 418031,
       "word": "德国足协花1亿日元请日本比赛",
       "onboard_time": 1694318076,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 414037,
+      "num": 297177,
+      "word": "这就是街舞6导师剪影海报",
+      "onboard_time": 1694336254,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 413429,
@@ -544,14 +576,6 @@
       "word": "你好星期六下期有三个剧组",
       "onboard_time": 1694268520,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 408860,
-      "num": 297177,
-      "word": "这就是街舞6导师剪影海报",
-      "onboard_time": 1694336254,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -585,14 +609,6 @@
       "onboard_time": 1694307454,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391979,
-      "num": 324157,
-      "word": "华为Mate60设置遥遥领先萦绕耳边",
-      "onboard_time": 1694334571,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 390141,
@@ -667,14 +683,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 354310,
-      "num": 317168,
-      "word": "警方通报重庆女子持刀袭警被击伤死亡",
-      "onboard_time": 1694336734,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351640,
       "num": 351640,
       "word": "教师节福利",
@@ -721,14 +729,6 @@
       "onboard_time": 1694304508,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327080,
-      "num": 297055,
-      "word": "华为已启动全面回归全球手机市场的通盘计划",
-      "onboard_time": 1694336254,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 326170,
@@ -793,6 +793,14 @@
       "onboard_time": 1694320174,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312957,
+      "num": 337448,
+      "word": "记者第一次采访张桂梅就被泼了盆冷水",
+      "onboard_time": 1694334693,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310645,
@@ -955,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247236,
+      "num": 332342,
+      "word": "她们是老师也是科学大牛",
+      "onboard_time": 1694336734,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245109,
       "num": 499965,
       "word": "怕新生吃不饱老师站着陪吃饭",
@@ -969,6 +985,14 @@
       "onboard_time": 1694310571,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241265,
+      "num": 241265,
+      "word": "石凯巡演",
+      "onboard_time": 1694337275,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 239860,
@@ -993,14 +1017,6 @@
       "onboard_time": 1694318912,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 231447,
-      "num": 337448,
-      "word": "记者第一次采访张桂梅就被泼了盆冷水",
-      "onboard_time": 1694334693,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230617,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1694324792,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225662,
+      "num": 191030,
+      "word": "上海73岁初代丁克现状颠覆想象",
+      "onboard_time": 1694338412,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224291,
@@ -1395,8 +1419,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184737,
-      "num": 184737,
+      "raw_hot": 185103,
+      "num": 185103,
+      "word": "一到中秋就出现的广东水果",
+      "onboard_time": 1694337934,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 185081,
+      "num": 185081,
       "word": "TTG对战狼队",
       "onboard_time": 1694335774,
       "rank": 34,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1694312555,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 177443,
+      "num": 177443,
+      "word": "蓝战非发视频吐槽看表演遭区别对待",
+      "onboard_time": 1694334454,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172578,
@@ -1489,22 +1529,6 @@
       "onboard_time": 1694334753,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 168785,
-      "num": 168785,
-      "word": "蓝战非发视频吐槽看表演遭区别对待",
-      "onboard_time": 1694334454,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168763,
-      "num": 332342,
-      "word": "她们是老师也是科学大牛",
-      "onboard_time": 1694336734,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168332,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1694271460,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162039,
+      "num": 162039,
+      "word": "虞书欣偷吃给张凌赫带的零食",
+      "onboard_time": 1694338293,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 160835,
@@ -1625,14 +1657,6 @@
       "onboard_time": 1694314474,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146796,
-      "num": 146796,
-      "word": "石凯巡演",
-      "onboard_time": 1694337275,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 145863,
@@ -1956,7 +1980,7 @@
     },
     {
       "raw_hot": 71141,
-      "num": 842544,
+      "num": 878253,
       "word": "杭州亚运会开幕日恰逢秋分",
       "onboard_time": 1694331091,
       "rank": 2,
@@ -2035,6 +2059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 50519,
+      "num": 327922,
+      "word": "摩托车大侠怒追逃逸车还破了个案",
+      "onboard_time": 1694336494,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47223,
       "num": 880265,
       "word": "夜西湖点燃亚运之夜",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1694290453,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25902,
-      "num": 327922,
-      "word": "摩托车大侠怒追逃逸车还破了个案",
-      "onboard_time": 1694336494,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24147,

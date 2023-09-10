@@ -1,0 +1,410 @@
+{
+  "runTime": 1694338457021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1577632,
+        "num": 1577632,
+        "word": "警方通报重庆女子持刀袭警被击伤死亡",
+        "onboard_time": 1694336734,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929324,
+        "num": 1334110,
+        "word": "花了一百万后消费观转变",
+        "onboard_time": 1694334273,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60946,
+        "num": 878253,
+        "word": "杭州亚运会开幕日恰逢秋分",
+        "onboard_time": 1694331091,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5303200,
+        "num": 815684,
+        "word": "李佳琦带货怼网友",
+        "onboard_time": 1694332772,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 749320,
+        "num": 749320,
+        "word": "华晨宇演唱会大屏背景是恶评",
+        "onboard_time": 1694323593,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 581092,
+        "num": 581092,
+        "word": "邓为费加罗男士金九首封预告",
+        "onboard_time": 1694336494,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 481522,
+        "num": 481522,
+        "word": "天官赐福动画定档海报",
+        "onboard_time": 1694334693,
+        "rank": 6,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 430453,
+        "num": 430453,
+        "word": "孙阳承诺票房破3亿晒腹肌",
+        "onboard_time": 1694335051,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425726,
+        "num": 425726,
+        "word": "华为已启动全面回归全球手机市场的通盘计划",
+        "onboard_time": 1694336254,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 420723,
+        "num": 420723,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1694332353,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3611246,
+        "num": 407081,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 549101,
+        "num": 405944,
+        "word": "粗心爸爸记错放学时间要强女儿独自回家",
+        "onboard_time": 1694333434,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312957,
+        "num": 312957,
+        "word": "记者第一次采访张桂梅就被泼了盆冷水",
+        "onboard_time": 1694334693,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247236,
+        "num": 312694,
+        "word": "她们是老师也是科学大牛",
+        "onboard_time": 1694336734,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50519,
+        "num": 311933,
+        "word": "摩托车大侠怒追逃逸车还破了个案",
+        "onboard_time": 1694336494,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421759,
+        "num": 311522,
+        "word": "华为Mate60设置遥遥领先萦绕耳边",
+        "onboard_time": 1694334571,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 318740,
+        "num": 310974,
+        "word": "花13000元买的周杰伦演唱会门票被偷",
+        "onboard_time": 1694325333,
+        "rank": 16,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 310711,
+        "num": 310711,
+        "word": "Rose或将和霉霉合作",
+        "onboard_time": 1694327313,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302597,
+        "num": 302597,
+        "word": "女大学生差点被裤子单杀",
+        "onboard_time": 1694324493,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289869,
+        "num": 289869,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414037,
+        "num": 289298,
+        "word": "这就是街舞6导师剪影海报",
+        "onboard_time": 1694336254,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288711,
+        "num": 288711,
+        "word": "王源像跟着父母应酬的我",
+        "onboard_time": 1694326773,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241265,
+        "num": 241265,
+        "word": "石凯巡演",
+        "onboard_time": 1694337275,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227158,
+        "num": 227158,
+        "word": "野球帝",
+        "onboard_time": 1694334632,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225898,
+        "num": 225898,
+        "word": "输入法文化程度",
+        "onboard_time": 1694334992,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224807,
+        "num": 224807,
+        "word": "孙颖莎在领奖台上玩公仔",
+        "onboard_time": 1694332831,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209682,
+        "num": 209682,
+        "word": "冯宝宝被人贩子拐卖挑断手脚筋",
+        "onboard_time": 1694308771,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197395,
+        "num": 197395,
+        "word": "5颗酸山楂把他留在了乡村教书",
+        "onboard_time": 1694335714,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195958,
+        "num": 195958,
+        "word": "为什么去德国留学的少",
+        "onboard_time": 1694322814,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193798,
+        "num": 193798,
+        "word": "马龙10年后再夺亚锦赛男单冠军",
+        "onboard_time": 1694333732,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225662,
+        "num": 191030,
+        "word": "上海73岁初代丁克现状颠覆想象",
+        "onboard_time": 1694338412,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185103,
+        "num": 185103,
+        "word": "一到中秋就出现的广东水果",
+        "onboard_time": 1694337934,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185081,
+        "num": 185081,
+        "word": "TTG对战狼队",
+        "onboard_time": 1694335774,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182790,
+        "num": 182790,
+        "word": "儿子觉得自己家在班里最平凡",
+        "onboard_time": 1694326532,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177443,
+        "num": 177443,
+        "word": "蓝战非发视频吐槽看表演遭区别对待",
+        "onboard_time": 1694334454,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166994,
+        "num": 166994,
+        "word": "华晨宇鸟巢四面台露真容",
+        "onboard_time": 1694334753,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163368,
+        "num": 163368,
+        "word": "5岁娃教师节拎3只活鸭送幼儿园老师",
+        "onboard_time": 1694335233,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163055,
+        "num": 163055,
+        "word": "黄礼志申留真双人舞蹈",
+        "onboard_time": 1694335534,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162039,
+        "num": 162039,
+        "word": "虞书欣偷吃给张凌赫带的零食",
+        "onboard_time": 1694338293,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161369,
+        "num": 161369,
+        "word": "DFBOYS",
+        "onboard_time": 1694311712,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159546,
+        "num": 159546,
+        "word": "华莎接受警方调查",
+        "onboard_time": 1694318554,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151819,
+        "num": 151819,
+        "word": "咖啡 是一种豆浆",
+        "onboard_time": 1694321074,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151708,
+        "num": 151708,
+        "word": "襄阳文旅回应游客看表演遭区别对待",
+        "onboard_time": 1694330131,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 141003,
+        "num": 141003,
+        "word": "张碧晨在脸上镶了个魔镜",
+        "onboard_time": 1694323956,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 138266,
+        "word": "中级财管",
+        "onboard_time": 1694333312,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132345,
+        "num": 132345,
+        "word": "你所熟悉的人类进化图是错的",
+        "onboard_time": 1694334933,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 127661,
+        "num": 127661,
+        "word": "谷江山 终于现场听到了活死人",
+        "onboard_time": 1694330731,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126060,
+        "num": 126060,
+        "word": "花花暂停展出",
+        "onboard_time": 1694315975,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126018,
+        "num": 126018,
+        "word": "BLACKPINK路人缘很好的成员",
+        "onboard_time": 1694307271,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120514,
+        "num": 120514,
+        "word": "襄阳",
+        "onboard_time": 1694325812,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对教师的嘱托与期望#"
+    }
+  }
+}
