@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694338457021,
+  "endTime": 1694340960189,
   "band_list": [
     {
       "raw_hot": 6316804,
@@ -17,6 +17,14 @@
       "onboard_time": 1694330431,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2611643,
+      "num": 2611643,
+      "word": "国航CA403疑发出紧急代码7700",
+      "onboard_time": 1694339134,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2355734,
@@ -227,6 +235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 806371,
+      "num": 806371,
+      "word": "我命由我不由天 你说三千就三千",
+      "onboard_time": 1694338472,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 792894,
       "num": 335345,
       "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
@@ -251,6 +267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 741509,
+      "num": 741509,
+      "word": "华为已启动全面回归全球手机市场的通盘计划",
+      "onboard_time": 1694336254,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 738471,
       "num": 738471,
       "word": "张杰觉得自己自恋时期是个疯子",
@@ -272,6 +296,14 @@
       "word": "粗心爸爸记错放学时间要强女儿独自回家",
       "onboard_time": 1694333434,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653178,
+      "num": 653178,
+      "word": "上海73岁初代丁克现状颠覆想象",
+      "onboard_time": 1694338412,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 599292,
-      "num": 599292,
+      "num": 853607,
       "word": "儿子觉得自己家在班里最平凡",
       "onboard_time": 1694326532,
       "rank": 41,
@@ -353,6 +385,14 @@
       "onboard_time": 1694336494,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 562511,
+      "num": 562511,
+      "word": "天官赐福",
+      "onboard_time": 1694339253,
+      "rank": 12,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 552477,
@@ -408,6 +448,14 @@
       "word": "盛阳亲了简冰",
       "onboard_time": 1694320892,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 483847,
+      "num": 483847,
+      "word": "虞书欣偷吃给张凌赫带的零食",
+      "onboard_time": 1694338293,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -507,20 +555,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 428645,
+      "num": 428645,
+      "word": "魔法少女小圆",
+      "onboard_time": 1694339314,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 426847,
       "num": 355528,
       "word": "张碧晨在脸上镶了个魔镜",
       "onboard_time": 1694323956,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 425726,
-      "num": 425726,
-      "word": "华为已启动全面回归全球手机市场的通盘计划",
-      "onboard_time": 1694336254,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 424388,
@@ -547,8 +595,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415213,
+      "num": 415213,
+      "word": "石凯指甲油颜色",
+      "onboard_time": 1694340334,
+      "rank": 18,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 414037,
-      "num": 297177,
+      "num": 307610,
       "word": "这就是街舞6导师剪影海报",
       "onboard_time": 1694336254,
       "rank": 20,
@@ -699,6 +755,22 @@
       "category": "情感,科技"
     },
     {
+      "raw_hot": 349610,
+      "num": 349610,
+      "word": "国航CA403疑左侧发动机起火",
+      "onboard_time": 1694340573,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348490,
+      "num": 348490,
+      "word": "这就是街舞6",
+      "onboard_time": 1694339134,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337522,
       "num": 337522,
       "word": "胡锡进 四川工商学院的声明是一种悲哀",
@@ -796,7 +868,7 @@
     },
     {
       "raw_hot": 312957,
-      "num": 337448,
+      "num": 492333,
       "word": "记者第一次采访张桂梅就被泼了盆冷水",
       "onboard_time": 1694334693,
       "rank": 45,
@@ -817,6 +889,14 @@
       "onboard_time": 1694314653,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 309935,
+      "num": 309935,
+      "word": "巴奴称已赔付顾客277.1万元",
+      "onboard_time": 1694340211,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 309347,
@@ -864,6 +944,14 @@
       "word": "阿拉斯加海底3300米发现神秘金蛋",
       "onboard_time": 1694322755,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298909,
+      "num": 1036647,
+      "word": "她们是老师也是科学大牛",
+      "onboard_time": 1694336734,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -963,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 247236,
-      "num": 332342,
-      "word": "她们是老师也是科学大牛",
-      "onboard_time": 1694336734,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245109,
       "num": 499965,
       "word": "怕新生吃不饱老师站着陪吃饭",
@@ -1009,6 +1089,14 @@
       "onboard_time": 1694334992,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232531,
+      "num": 232531,
+      "word": "TTG对战狼队",
+      "onboard_time": 1694335774,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 232032,
@@ -1051,6 +1139,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227516,
+      "num": 227516,
+      "word": "倪妮空降超话",
+      "onboard_time": 1694340211,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226597,
+      "num": 226597,
+      "word": "2男童拿现金买手机被老板哄吓拒售",
+      "onboard_time": 1694340155,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225684,
       "num": 225684,
       "word": "邓超的撕漫男和我们不太一样",
@@ -1059,11 +1163,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225662,
-      "num": 191030,
-      "word": "上海73岁初代丁克现状颠覆想象",
-      "onboard_time": 1694338412,
-      "rank": 30,
+      "raw_hot": 225084,
+      "num": 814464,
+      "word": "警察执勤时偶遇自己小学老师",
+      "onboard_time": 1694338834,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1073,6 +1177,14 @@
       "onboard_time": 1694329052,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223327,
+      "num": 223327,
+      "word": "大哥的共享单车都要踩冒烟了",
+      "onboard_time": 1694340034,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 222313,
@@ -1088,6 +1200,14 @@
       "word": "白鹿北上杀青",
       "onboard_time": 1694317053,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218493,
+      "num": 218493,
+      "word": "孙阳喝珍珠奶茶掉小珍珠",
+      "onboard_time": 1694339853,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1347,12 +1467,28 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 191272,
+      "num": 191272,
+      "word": "中国赛梁伟铿王昶夺冠",
+      "onboard_time": 1694340211,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190921,
       "num": 190921,
       "word": "张杰唱打嗝版天下",
       "onboard_time": 1694275236,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187960,
+      "num": 187960,
+      "word": "石凯巡演五彩挑染发色",
+      "onboard_time": 1694340093,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 187590,
@@ -1427,14 +1563,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 185081,
-      "num": 185081,
-      "word": "TTG对战狼队",
-      "onboard_time": 1694335774,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 184285,
       "num": 184285,
       "word": "张予曦喵喵拳把外国人整不会了",
@@ -1473,6 +1601,14 @@
       "onboard_time": 1694312555,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 179519,
+      "num": 179519,
+      "word": "紫幻好牛",
+      "onboard_time": 1694340812,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 177443,
@@ -1587,14 +1723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162039,
-      "num": 162039,
-      "word": "虞书欣偷吃给张凌赫带的零食",
-      "onboard_time": 1694338293,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160835,
       "num": 160835,
       "word": "花花好好休息",
@@ -1611,12 +1739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155639,
+      "num": 261110,
+      "word": "巴奴卷王把压力给到了同行",
+      "onboard_time": 1694339192,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 154490,
       "num": 154490,
       "word": "胡歌给女儿起名茉莉的原因",
       "onboard_time": 1694264857,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152792,
+      "num": 152792,
+      "word": "美国男篮vs加拿大男篮",
+      "onboard_time": 1694340697,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152148,
@@ -1980,7 +2124,7 @@
     },
     {
       "raw_hot": 71141,
-      "num": 878253,
+      "num": 1017783,
       "word": "杭州亚运会开幕日恰逢秋分",
       "onboard_time": 1694331091,
       "rank": 2,
