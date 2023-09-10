@@ -1,0 +1,410 @@
+{
+  "runTime": 1694380411264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 131700,
+        "num": 131700,
+        "word": "胡歌 我们也需要票房",
+        "onboard_time": 1694361037,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90780,
+        "num": 90780,
+        "word": "OG",
+        "onboard_time": 1694374333,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 8725,
+        "num": 79864,
+        "word": "同学们便利贴写祝福拼成画送老师",
+        "onboard_time": 1694351495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69981,
+        "num": 69981,
+        "word": "薛之谦成都39度高烧依旧开唱",
+        "onboard_time": 1694347655,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62373,
+        "num": 62373,
+        "word": "27岁女子极端减肥瘦20斤致闭经1年半",
+        "onboard_time": 1694361160,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52311,
+        "num": 52311,
+        "word": "警号253689请回答",
+        "onboard_time": 1694366602,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52187,
+        "num": 52187,
+        "word": "杨紫说长相思第二季比第一季更虐",
+        "onboard_time": 1694359601,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39767,
+        "num": 39767,
+        "word": "男子抢劫156元分赃30元躲进山洞14年",
+        "onboard_time": 1694351316,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29501,
+        "num": 29501,
+        "word": "Apex",
+        "onboard_time": 1694363071,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24140,
+        "num": 29494,
+        "word": "周杰伦嘉宾",
+        "onboard_time": 1694356297,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357989,
+        "num": 29485,
+        "word": "李佳琦说找不到以前状态了",
+        "onboard_time": 1694356359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181915,
+        "num": 29478,
+        "word": "花西子",
+        "onboard_time": 1694350416,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 21683,
+        "num": 29465,
+        "word": "杭州亚运火炬传递主题歌燃",
+        "onboard_time": 1694348433,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17341,
+        "num": 29452,
+        "word": "山村女老师手里一碗热饭吃了又放",
+        "onboard_time": 1694355157,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 14963,
+        "num": 29442,
+        "word": "从教11年化学老师捐造血干细胞救高三女生",
+        "onboard_time": 1694361696,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154068,
+        "num": 29436,
+        "word": "李佳琦带货怼网友",
+        "onboard_time": 1694332772,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134379,
+        "num": 29421,
+        "word": "国货难带和尊重消费者是两码事",
+        "onboard_time": 1694357325,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80645,
+        "num": 29412,
+        "word": "上海73岁初代丁克现状颠覆想象",
+        "onboard_time": 1694338412,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41672,
+        "num": 29406,
+        "word": "波伏娃 女性要保留一定的自由和孤独",
+        "onboard_time": 1694362473,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22851,
+        "num": 29390,
+        "word": "肖战相信能通过努力证明自己的价值",
+        "onboard_time": 1694350236,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61541,
+        "num": 29385,
+        "word": "性格内向的人看起来会更显小",
+        "onboard_time": 1694374216,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40347,
+        "num": 29374,
+        "word": "女子反复咳嗽多年治不好竟是因为吃多了",
+        "onboard_time": 1694357382,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35932,
+        "num": 29359,
+        "word": "真的在体面里听到了体面",
+        "onboard_time": 1694374216,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34821,
+        "num": 29353,
+        "word": "警方通报重庆女子持刀袭警被击伤死亡",
+        "onboard_time": 1694336734,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32952,
+        "num": 29343,
+        "word": "国航CA403有乘客因携带行李撤离摔倒",
+        "onboard_time": 1694357143,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29338,
+        "num": 29338,
+        "word": "赵露思慵懒感美拉德妆造",
+        "onboard_time": 1694360860,
+        "rank": 25,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 28004,
+        "num": 28004,
+        "word": "丞磊卢昱晓大大方方营业",
+        "onboard_time": 1694356359,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24298,
+        "num": 24298,
+        "word": "王一博亚运会新歌",
+        "onboard_time": 1694365881,
+        "rank": 27,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 24121,
+        "num": 24121,
+        "word": "CA403所有人员均安全撤离",
+        "onboard_time": 1694342732,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24043,
+        "num": 24043,
+        "word": "原来高铁起步这么麻烦",
+        "onboard_time": 1694362177,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 34534,
+        "num": 23923,
+        "word": "沙特大臣称我是厦大毕业的不用翻译",
+        "onboard_time": 1694371636,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 23561,
+        "num": 23561,
+        "word": "DF冲",
+        "onboard_time": 1694361099,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22784,
+        "num": 22784,
+        "word": "杨紫美拉德烟熏妆",
+        "onboard_time": 1694356723,
+        "rank": 32,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 22746,
+        "num": 22746,
+        "word": "这届年轻人为何变得抠门了",
+        "onboard_time": 1694365166,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21887,
+        "num": 21887,
+        "word": "白桃星座",
+        "onboard_time": 1694374154,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 21847,
+        "num": 21847,
+        "word": "余华 你只要把老人写成老人",
+        "onboard_time": 1694341358,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21371,
+        "num": 21371,
+        "word": "我去过墨脱",
+        "onboard_time": 1694360382,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21354,
+        "num": 21354,
+        "word": "刘雨昕把祝多写了一点",
+        "onboard_time": 1694358459,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19935,
+        "num": 21342,
+        "word": "TTG夺冠",
+        "onboard_time": 1694351739,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21340,
+        "num": 21340,
+        "word": "用女儿的奶茶袋做文具",
+        "onboard_time": 1694351678,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20473,
+        "num": 20473,
+        "word": "塞尔维亚没有约基奇也这么强",
+        "onboard_time": 1694359298,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20320,
+        "num": 20320,
+        "word": "李钟硕跳Fighting",
+        "onboard_time": 1694363968,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20203,
+        "num": 20203,
+        "word": "薛之谦演唱会身体原因取消",
+        "onboard_time": 1694348433,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20089,
+        "num": 20089,
+        "word": "国航通报CA403挂紧急代码7700",
+        "onboard_time": 1694344413,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19952,
+        "num": 19952,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1694249135,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19779,
+        "num": 19779,
+        "word": "赵丽颖去看张碧晨演唱会",
+        "onboard_time": 1694345313,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19613,
+        "num": 19613,
+        "word": "国航CA403疑发出紧急代码7700",
+        "onboard_time": 1694339134,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18812,
+        "num": 18812,
+        "word": "周杰伦上海",
+        "onboard_time": 1694360326,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16750,
+        "num": 18812,
+        "word": "孙阳妈妈说这辈子都忘不了大鹏",
+        "onboard_time": 1694345433,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16402,
+        "num": 18791,
+        "word": "九尾",
+        "onboard_time": 1694355818,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记今年国内考察有条主线#"
+    }
+  }
+}
