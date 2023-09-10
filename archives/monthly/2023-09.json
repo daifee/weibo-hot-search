@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694319558214,
+  "endTime": 1694320445733,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -2393,6 +2393,14 @@
       "onboard_time": 1693738183,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1102463,
+      "num": 1102463,
+      "word": "华莎接受警方调查",
+      "onboard_time": 1694318554,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1101989,
@@ -6011,14 +6019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 602459,
-      "num": 602459,
-      "word": "华莎接受警方调查",
-      "onboard_time": 1694318554,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 602104,
       "num": 483877,
       "word": "请人员车辆暂勿前往深圳龙岗中心城",
@@ -9451,6 +9451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418031,
+      "num": 418031,
+      "word": "德国足协花1亿日元请日本比赛",
+      "onboard_time": 1694318076,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417560,
       "num": 417560,
       "word": "云之羽金靖",
@@ -10131,6 +10139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386557,
+      "num": 386557,
+      "word": "马丽沈腾吃折耳根演我",
+      "onboard_time": 1694316932,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386414,
       "num": 386414,
       "word": "警方通报洛阳理工学院两学生死亡",
@@ -10209,6 +10225,14 @@
       "onboard_time": 1693708954,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383499,
+      "num": 383499,
+      "word": "华晨宇谈癌创作理念",
+      "onboard_time": 1694318851,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 383186,
@@ -10627,14 +10651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368267,
-      "num": 368267,
-      "word": "德国足协花1亿日元请日本比赛",
-      "onboard_time": 1694318076,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 367902,
       "num": 367902,
       "word": "王师傅回应退出野球帝",
@@ -10649,14 +10665,6 @@
       "onboard_time": 1693636352,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 367768,
-      "num": 367768,
-      "word": "马丽沈腾吃折耳根演我",
-      "onboard_time": 1694316932,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 367397,
@@ -12355,6 +12363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313043,
+      "num": 263744,
+      "word": "马龙晋级亚锦赛决赛",
+      "onboard_time": 1694320174,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312822,
       "num": 312822,
       "word": "鹊刀门传奇太敢拍了",
@@ -13129,14 +13145,6 @@
       "onboard_time": 1693892256,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 290719,
-      "num": 290719,
-      "word": "华晨宇谈癌创作理念",
-      "onboard_time": 1694318851,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 290547,
@@ -14603,6 +14611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256260,
+      "num": 256260,
+      "word": "罗斯结婚",
+      "onboard_time": 1694319574,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256173,
       "num": 256173,
       "word": "西瓜冰柠茶",
@@ -14761,6 +14777,14 @@
       "onboard_time": 1694279185,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251913,
+      "num": 251913,
+      "word": "吴宣仪再跳101主题曲舞蹈",
+      "onboard_time": 1694319814,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 251812,
@@ -15323,6 +15347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239860,
+      "num": 239860,
+      "word": "鸵鸟的胳肢窝没有毛",
+      "onboard_time": 1694318734,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239859,
       "num": 239859,
       "word": "骄阳伴我翻杂志把肖战翻出来了",
@@ -15761,6 +15793,14 @@
       "onboard_time": 1693491819,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232032,
+      "num": 232032,
+      "word": "1所学校1个老师6名学生",
+      "onboard_time": 1694318912,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 231867,
@@ -16481,6 +16521,14 @@
       "onboard_time": 1693640733,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218347,
+      "num": 218347,
+      "word": "2023KPL夏季赛总决赛",
+      "onboard_time": 1694319814,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 217937,
@@ -17715,6 +17763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201958,
+      "num": 201958,
+      "word": "不虚此行胡歌是导演的小尹",
+      "onboard_time": 1694319935,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201857,
       "num": 201857,
       "word": "00后开学行李有多野",
@@ -17857,14 +17913,6 @@
       "onboard_time": 1694134421,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200498,
-      "num": 200498,
-      "word": "鸵鸟的胳肢窝没有毛",
-      "onboard_time": 1694318734,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 200382,
@@ -19201,14 +19249,6 @@
       "onboard_time": 1694077418,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187874,
-      "num": 187874,
-      "word": "1所学校1个老师6名学生",
-      "onboard_time": 1694318912,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 187841,
@@ -21411,6 +21451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151389,
+      "num": 1136326,
+      "word": "师生间双向奔赴的爱",
+      "onboard_time": 1694304147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151300,
       "num": 178207,
       "word": "盛阳委屈小狗",
@@ -21483,14 +21531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150080,
-      "num": 816977,
-      "word": "师生间双向奔赴的爱",
-      "onboard_time": 1694304147,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149940,
       "num": 149940,
       "word": "原来羚羊飞渡是写实的",
@@ -21529,6 +21569,14 @@
       "onboard_time": 1693726956,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149201,
+      "num": 366147,
+      "word": "真的有人吃东西前不看热量吗",
+      "onboard_time": 1694317656,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 149128,
@@ -21841,6 +21889,14 @@
       "onboard_time": 1693642474,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 144617,
+      "num": 144617,
+      "word": "宁波一学校老师收到学生的定制款奖状",
+      "onboard_time": 1694320295,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 144355,
@@ -22441,14 +22497,6 @@
       "onboard_time": 1693811134,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130664,
-      "num": 366147,
-      "word": "真的有人吃东西前不看热量吗",
-      "onboard_time": 1694317656,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 130146,
