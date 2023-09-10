@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694381633056,
+  "endTime": 1694384087136,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -25163,6 +25163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105764,
+      "num": 105764,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105597,
       "num": 105597,
       "word": "福州24小时降雨量特大暴雨量级",
@@ -25427,20 +25435,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92348,
+      "num": 52778,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91888,
       "num": 91888,
       "word": "白桃星座",
       "onboard_time": 1693783892,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91641,
-      "num": 91641,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91486,
@@ -26012,7 +26020,7 @@
     },
     {
       "raw_hot": 68719,
-      "num": 38941,
+      "num": 45679,
       "word": "沙特大臣称我是厦大毕业的不用翻译",
       "onboard_time": 1694371636,
       "rank": 30,
@@ -26147,14 +26155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 63819,
-      "num": 41143,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 62346,
       "num": 62346,
       "word": "KTV配的歌手照片越来越离谱",
@@ -26225,6 +26225,14 @@
       "onboard_time": 1693890101,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56285,
+      "num": 56285,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 55663,
@@ -26473,14 +26481,6 @@
       "onboard_time": 1693825234,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46388,
-      "num": 46303,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 45294,

@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694381633056,
+  "endTime": 1694384087136,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -3067,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105764,
+      "num": 105764,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105048,
       "num": 105048,
       "word": "二次元有自己的老师",
@@ -3123,12 +3131,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 91641,
-      "num": 91641,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 92348,
+      "num": 52778,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 91310,
@@ -3220,7 +3228,7 @@
     },
     {
       "raw_hot": 68719,
-      "num": 38941,
+      "num": 45679,
       "word": "沙特大臣称我是厦大毕业的不用翻译",
       "onboard_time": 1694371636,
       "rank": 30,
@@ -3275,12 +3283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63819,
-      "num": 41143,
-      "word": "性格内向的人看起来会更显小",
+      "raw_hot": 56285,
+      "num": 56285,
+      "word": "真的在体面里听到了体面",
       "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 53072,
@@ -3331,12 +3339,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 46388,
-      "num": 46303,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 46703,
+      "num": 46703,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 46356,
@@ -3401,14 +3409,6 @@
       "onboard_time": 1694290453,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30915,
-      "num": 30915,
-      "word": "白桃星座",
-      "onboard_time": 1694374154,
-      "rank": 33,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 24147,
