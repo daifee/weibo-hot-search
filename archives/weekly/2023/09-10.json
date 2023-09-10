@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694302433057,
+  "endTime": 1694308496737,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -11,12 +11,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2286273,
+      "num": 356199,
+      "word": "李鸿其官宣与王紫璇恋情",
+      "onboard_time": 1694302345,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1393300,
       "num": 466889,
       "word": "卡琳娜宣布暂停一切活动",
       "onboard_time": 1694263535,
       "rank": 10,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 1088205,
+      "num": 354072,
+      "word": "没想到考教资周杰伦能帮上忙",
+      "onboard_time": 1694306971,
+      "rank": 11,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1078043,
+      "num": 1078043,
+      "word": "教师节快乐",
+      "onboard_time": 1694300781,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 969929,
@@ -27,7 +51,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 877039,
+      "raw_hot": 939608,
       "num": 877039,
       "word": "教师节",
       "onboard_time": 1694274096,
@@ -35,8 +59,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 851769,
-      "num": 234440,
+      "raw_hot": 878057,
+      "num": 346026,
+      "word": "BLACKPINK路人缘很好的成员",
+      "onboard_time": 1694307271,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 871541,
+      "num": 344005,
       "word": "断亲现象为何如此流行",
       "onboard_time": 1694263958,
       "rank": 47,
@@ -59,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680672,
+      "num": 218298,
+      "word": "网易云 教师节",
+      "onboard_time": 1694305353,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 644421,
       "num": 644421,
       "word": "李荣浩演唱会后台收到100个烧饼夹里脊",
@@ -73,6 +113,14 @@
       "onboard_time": 1694273557,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 610545,
+      "num": 610545,
+      "word": "国足43年首次赢不了马来西亚",
+      "onboard_time": 1694300781,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 590293,
@@ -99,14 +147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 531043,
-      "num": 531043,
-      "word": "教师节快乐",
-      "onboard_time": 1694300781,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 506726,
       "num": 506726,
       "word": "你还在买余额宝吗",
@@ -115,20 +155,28 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 496117,
+      "num": 496117,
+      "word": "女子手指肿胀21天开刀发现仙人掌刺",
+      "onboard_time": 1694300781,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470461,
+      "num": 470461,
+      "word": "教师节祝福",
+      "onboard_time": 1694305531,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 459943,
       "num": 459943,
       "word": "邓稼先和奥本海默的对比",
       "onboard_time": 1694275356,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 447942,
-      "num": 232303,
-      "word": "女子手指肿胀21天开刀发现仙人掌刺",
-      "onboard_time": 1694300781,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432320,
@@ -145,6 +193,22 @@
       "onboard_time": 1694268218,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 424388,
+      "num": 424388,
+      "word": "摩洛哥地震遇难人数升至2012人",
+      "onboard_time": 1694303727,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413429,
+      "num": 413429,
+      "word": "德国1比4日本",
+      "onboard_time": 1694301443,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 409950,
@@ -171,12 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380399,
-      "num": 380399,
-      "word": "国足43年首次赢不了马来西亚",
-      "onboard_time": 1694300781,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 371866,
+      "num": 371866,
+      "word": "学生教师节给老师送祝福越跑越偏",
+      "onboard_time": 1694303007,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 361123,
+      "num": 361123,
+      "word": "张亮开车主打一个倔强",
+      "onboard_time": 1694303968,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 350819,
@@ -195,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335920,
+      "num": 335920,
+      "word": "八旬院士被中学老师一句话问住",
+      "onboard_time": 1694307454,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334539,
       "num": 334539,
       "word": "马斯克和女高管所生双胞胎曝光",
       "onboard_time": 1694266659,
       "rank": 23,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 329749,
+      "num": 329749,
+      "word": "骄阳伴我真不是喜剧吗",
+      "onboard_time": 1694304508,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 318614,
@@ -211,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313010,
-      "num": 313010,
-      "word": "德国1比4日本",
-      "onboard_time": 1694301443,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 308755,
+      "num": 255853,
+      "word": "学姐给我留了个平板支架",
+      "onboard_time": 1694307631,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 307032,
@@ -241,6 +329,14 @@
       "onboard_time": 1694269296,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275515,
+      "num": 275515,
+      "word": "骄阳伴我这个烟灰缸全剧最佳道具",
+      "onboard_time": 1694306131,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 271777,
@@ -281,6 +377,14 @@
       "onboard_time": 1694270559,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229262,
+      "num": 229262,
+      "word": "原来一天可以做这么多事情",
+      "onboard_time": 1694302345,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 228785,
@@ -371,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187275,
+      "num": 187275,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1694306310,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182587,
       "num": 162675,
       "word": "世界上最痛苦的两件事 有工作和没工作",
       "onboard_time": 1694278349,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178219,
+      "num": 178219,
+      "word": "舒淇威尼斯闭幕红毯造型",
+      "onboard_time": 1694308471,
+      "rank": 32,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 172578,
@@ -435,6 +555,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133825,
+      "num": 338275,
+      "word": "我想成为的人有您的影子",
+      "onboard_time": 1694305410,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 131862,
+      "num": 131862,
+      "word": "老师一开口谁的DNA动了",
+      "onboard_time": 1694308055,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 129061,
+      "num": 129061,
+      "word": "大型犬撒起娇来都是地震级别的",
+      "onboard_time": 1694307990,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128582,
       "num": 128582,
       "word": "高芙夺美网女单冠军",
@@ -451,12 +595,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121764,
+      "num": 121764,
+      "word": "虞书欣 专业逗牛士",
+      "onboard_time": 1694303547,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118906,
       "num": 462120,
       "word": "白俄罗斯姑娘拯救了中国胃",
       "onboard_time": 1694267377,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117620,
+      "num": 117620,
+      "word": "华晨宇演唱会北京鸟巢歌单",
+      "onboard_time": 1694305353,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 113823,
@@ -467,12 +627,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109640,
+      "num": 109640,
+      "word": "李鸿其新片威尼斯电影节未来之狮奖",
+      "onboard_time": 1694303127,
+      "rank": 47,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 109231,
       "num": 109231,
       "word": "其实健康活着比什么都重要",
       "onboard_time": 1694300781,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107087,
+      "num": 107087,
+      "word": "教师节福利",
+      "onboard_time": 1694308413,
+      "rank": 49,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 102482,
@@ -521,14 +697,6 @@
       "onboard_time": 1694300418,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87905,
-      "num": 87905,
-      "word": "李鸿其官宣与王紫璇恋情",
-      "onboard_time": 1694302345,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 77954,
@@ -587,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64232,
-      "num": 64232,
-      "word": "原来一天可以做这么多事情",
-      "onboard_time": 1694302345,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 53072,
       "num": 59793,
       "word": "封神质子团将在第三部回归",
@@ -643,8 +803,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40890,
-      "num": 422825,
+      "raw_hot": 44664,
+      "num": 541764,
       "word": "当亚运会遇上中华文化",
       "onboard_time": 1694265275,
       "rank": 2,
