@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694363800463,
+  "endTime": 1694366014226,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -43,6 +43,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 790309,
+      "num": 790309,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752619,
       "num": 301018,
       "word": "上海73岁初代丁克现状颠覆想象",
@@ -64,14 +72,6 @@
       "word": "27岁女子极端减肥瘦20斤致闭经1年半",
       "onboard_time": 1694361160,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619805,
-      "num": 298418,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 351139,
+      "num": 351139,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311520,
       "num": 311520,
       "word": "TTG夺冠",
@@ -211,14 +219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261673,
-      "num": 261673,
-      "word": "Apex",
-      "onboard_time": 1694363071,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 261126,
       "num": 261126,
       "word": "余华 你只要把老人写成老人",
@@ -241,6 +241,14 @@
       "onboard_time": 1694360382,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245177,
+      "num": 194546,
+      "word": "李钟硕跳Fighting",
+      "onboard_time": 1694363968,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 223300,
@@ -313,6 +321,14 @@
       "onboard_time": 1694345313,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202960,
+      "num": 194186,
+      "word": "王一博亚运会新歌",
+      "onboard_time": 1694365881,
+      "rank": 23,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 197284,
@@ -403,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135242,
+      "num": 135242,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124468,
       "num": 124468,
       "word": "冰尘抓不住的金色雨",
@@ -443,6 +467,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 86058,
+      "num": 86058,
+      "word": "孙阳妈妈说这辈子都忘不了大鹏",
+      "onboard_time": 1694345433,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79036,
       "num": 302624,
       "word": "从教11年化学老师捐造血干细胞救高三女生",
@@ -457,6 +489,14 @@
       "onboard_time": 1694351799,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5888,
+      "num": 651086,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -465,6 +505,9 @@
     },
     {
       "word": "#习近平对教师的嘱托与期望#"
+    },
+    {
+      "word": "#总书记今年国内考察有条主线#"
     }
   ]
 }

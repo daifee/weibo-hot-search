@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694363800463,
+  "endTime": 1694366014226,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790309,
+      "num": 790309,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777879,
       "num": 525042,
       "word": "张碧晨演唱会嘉宾是小鬼",
@@ -585,14 +593,6 @@
       "onboard_time": 1694273557,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 619805,
-      "num": 452966,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617964,
@@ -1195,6 +1195,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 351139,
+      "num": 351139,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350819,
       "num": 333792,
       "word": "微信三件套可以看出很多东西",
@@ -1667,14 +1675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261673,
-      "num": 261673,
-      "word": "Apex",
-      "onboard_time": 1694363071,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 252142,
       "num": 154538,
       "word": "身材焦虑的时候听听泰勒说的吧",
@@ -1721,6 +1721,14 @@
       "onboard_time": 1694360382,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245177,
+      "num": 194546,
+      "word": "李钟硕跳Fighting",
+      "onboard_time": 1694363968,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 245109,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1694334933,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 202960,
+      "num": 194186,
+      "word": "王一博亚运会新歌",
+      "onboard_time": 1694365881,
+      "rank": 23,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 202684,
@@ -2867,6 +2883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135242,
+      "num": 135242,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133825,
       "num": 338275,
       "word": "我想成为的人有您的影子",
@@ -3340,7 +3364,7 @@
     },
     {
       "raw_hot": 17744,
-      "num": 187452,
+      "num": 651086,
       "word": "同学们便利贴写祝福拼成画送老师",
       "onboard_time": 1694351495,
       "rank": 45,

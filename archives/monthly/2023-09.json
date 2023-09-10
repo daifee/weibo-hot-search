@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694363800463,
+  "endTime": 1694366014226,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -4323,6 +4323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 790309,
+      "num": 790309,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789085,
       "num": 789085,
       "word": "上海现不明飞行物似火球般高速坠落",
@@ -6137,14 +6145,6 @@
       "onboard_time": 1693830217,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 619805,
-      "num": 452966,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 619681,
@@ -11803,6 +11803,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 351139,
+      "num": 351139,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 351097,
       "num": 351097,
       "word": "骄阳伴我海外评分8.7分",
@@ -15363,14 +15371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261673,
-      "num": 261673,
-      "word": "Apex",
-      "onboard_time": 1694363071,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 261534,
       "num": 261534,
       "word": "莫小贝女孩子的本真个性",
@@ -16169,6 +16169,14 @@
       "onboard_time": 1693710872,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245177,
+      "num": 194546,
+      "word": "李钟硕跳Fighting",
+      "onboard_time": 1694363968,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 245109,
@@ -19065,6 +19073,14 @@
       "onboard_time": 1693999233,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202960,
+      "num": 194186,
+      "word": "王一博亚运会新歌",
+      "onboard_time": 1694365881,
+      "rank": 23,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 202880,
@@ -24131,6 +24147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135242,
+      "num": 135242,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135192,
       "num": 135192,
       "word": "张韶涵 我在扬州没空想你",
@@ -27220,7 +27244,7 @@
     },
     {
       "raw_hot": 17744,
-      "num": 187452,
+      "num": 651086,
       "word": "同学们便利贴写祝福拼成画送老师",
       "onboard_time": 1694351495,
       "rank": 45,
