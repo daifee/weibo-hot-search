@@ -1,0 +1,410 @@
+{
+  "runTime": 1694316829410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611624,
+        "num": 1611624,
+        "word": "22名倒卖周杰伦演唱会门票黄牛在天津被抓",
+        "onboard_time": 1694315013,
+        "rank": 0,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 825084,
+        "num": 825084,
+        "word": "烘焙 我接触过的最大生活骗局",
+        "onboard_time": 1694312732,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150080,
+        "num": 816977,
+        "word": "师生间双向奔赴的爱",
+        "onboard_time": 1694304147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809831,
+        "num": 809831,
+        "word": "警方通报大学生出地铁站后失踪",
+        "onboard_time": 1694309071,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709211,
+        "num": 709211,
+        "word": "花花暂停展出",
+        "onboard_time": 1694315975,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646759,
+        "num": 646759,
+        "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
+        "onboard_time": 1694314532,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465275,
+        "num": 465275,
+        "word": "教师节快乐",
+        "onboard_time": 1694300781,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 452917,
+        "num": 452917,
+        "word": "云之羽宫二人设",
+        "onboard_time": 1694314532,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441489,
+        "num": 441489,
+        "word": "教师节",
+        "onboard_time": 1694274096,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 347877,
+        "num": 347877,
+        "word": "苏翊鸣说羽生结弦是他的精神目标",
+        "onboard_time": 1694313573,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1490292,
+        "num": 345883,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1274420,
+        "num": 339937,
+        "word": "冯宝宝被人贩子拐卖挑断手脚筋",
+        "onboard_time": 1694308771,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711972,
+        "num": 338947,
+        "word": "BLACKPINK路人缘很好的成员",
+        "onboard_time": 1694307271,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253499,
+        "num": 334117,
+        "word": "张桂梅祝教师朋友们节日快乐",
+        "onboard_time": 1694314653,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209174,
+        "num": 328512,
+        "word": "G20",
+        "onboard_time": 1694308534,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 563322,
+        "num": 324636,
+        "word": "没想到考教资周杰伦能帮上忙",
+        "onboard_time": 1694306971,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 421187,
+        "num": 320622,
+        "word": "警察也是老师只教出圈的学生",
+        "onboard_time": 1694310155,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 317748,
+        "num": 317748,
+        "word": "大熊猫丁丁和幼崽正面照",
+        "onboard_time": 1694313213,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314935,
+        "num": 314935,
+        "word": "樊振东vs梁靖崑",
+        "onboard_time": 1694316212,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276250,
+        "num": 276250,
+        "word": "薛之谦天外来物舞美获缪斯设计奖",
+        "onboard_time": 1694309792,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1128468,
+        "num": 271288,
+        "word": "DFBOYS",
+        "onboard_time": 1694311712,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366069,
+        "num": 270708,
+        "word": "不玩手机的老人都在想什么",
+        "onboard_time": 1694313934,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291431,
+        "num": 267261,
+        "word": "鞠婧祎半肩毛衣",
+        "onboard_time": 1694312792,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 263682,
+        "num": 263682,
+        "word": "毕业了才真正明白大学老师有多厉害",
+        "onboard_time": 1694310034,
+        "rank": 23,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 256083,
+        "num": 256083,
+        "word": "国足43年首次赢不了马来西亚",
+        "onboard_time": 1694300781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222313,
+        "num": 222313,
+        "word": "难怪兰夫人会emo",
+        "onboard_time": 1694315914,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212252,
+        "num": 212252,
+        "word": "KPL夏决首发名单",
+        "onboard_time": 1694314653,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199696,
+        "num": 199696,
+        "word": "高龄产妇4次剖宫产生下第4胎",
+        "onboard_time": 1694316334,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193774,
+        "num": 193774,
+        "word": "翻译一下乌尔善发过的照片",
+        "onboard_time": 1694309792,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193617,
+        "num": 193617,
+        "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
+        "onboard_time": 1694270559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315487,
+        "num": 193587,
+        "word": "姬发真被殷寿吓哭了",
+        "onboard_time": 1694316032,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195946,
+        "num": 193532,
+        "word": "网易云 教师节",
+        "onboard_time": 1694305353,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 193463,
+        "num": 193463,
+        "word": "孙颖莎王艺迪晋级亚锦赛决赛",
+        "onboard_time": 1694315975,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173633,
+        "num": 173633,
+        "word": "女子手指肿胀21天开刀发现仙人掌刺",
+        "onboard_time": 1694300781,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169398,
+        "num": 169398,
+        "word": "骄阳伴我这个烟灰缸全剧最佳道具",
+        "onboard_time": 1694306131,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164198,
+        "num": 164198,
+        "word": "教师节祝福",
+        "onboard_time": 1694305531,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163901,
+        "num": 163901,
+        "word": "张予曦喵喵拳把外国人整不会了",
+        "onboard_time": 1694314833,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161382,
+        "num": 161382,
+        "word": "为什么国庆有那么多人结婚",
+        "onboard_time": 1694308953,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157190,
+        "num": 157190,
+        "word": "学姐给我留了个平板支架",
+        "onboard_time": 1694307631,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148166,
+        "num": 148166,
+        "word": "国乒包揽亚锦赛女双冠亚军",
+        "onboard_time": 1694316392,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145416,
+        "num": 145416,
+        "word": "德国1比4日本",
+        "onboard_time": 1694301443,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143869,
+        "num": 143869,
+        "word": "摩洛哥地震遇难人数升至2012人",
+        "onboard_time": 1694303727,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136936,
+        "num": 136936,
+        "word": "微信三件套可以看出很多东西",
+        "onboard_time": 1694268279,
+        "rank": 42,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 128610,
+        "word": "男生军训跳长绸舞引哇声一片",
+        "onboard_time": 1694316633,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126532,
+        "num": 126532,
+        "word": "卡琳娜宣布暂停一切活动",
+        "onboard_time": 1694263535,
+        "rank": 44,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 126136,
+        "num": 126136,
+        "word": "原来一天可以做这么多事情",
+        "onboard_time": 1694302345,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123574,
+        "num": 123574,
+        "word": "八旬院士被中学老师一句话问住",
+        "onboard_time": 1694307454,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119294,
+        "num": 119294,
+        "word": "金繁好亮啊",
+        "onboard_time": 1694310571,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115038,
+        "num": 115038,
+        "word": "陈梦王曼昱晋级亚锦赛决赛",
+        "onboard_time": 1694313275,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104697,
+        "num": 104697,
+        "word": "没想到海獭比谁都会补刀",
+        "onboard_time": 1694315371,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信全国优秀教师代表#"
+    }
+  }
+}

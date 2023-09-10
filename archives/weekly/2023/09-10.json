@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694315798984,
+  "endTime": 1694316829410,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -25,6 +25,14 @@
       "onboard_time": 1694308771,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1611624,
+      "num": 1611624,
+      "word": "22名倒卖周杰伦演唱会门票黄牛在天津被抓",
+      "onboard_time": 1694315013,
+      "rank": 15,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1393300,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 766134,
-      "num": 291722,
-      "word": "22名倒卖周杰伦演唱会门票黄牛在天津被抓",
-      "onboard_time": 1694315013,
-      "rank": 15,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 750609,
       "num": 750609,
       "word": "警察也是老师只教出圈的学生",
@@ -145,6 +145,22 @@
       "onboard_time": 1694305353,
       "rank": 30,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 709211,
+      "num": 709211,
+      "word": "花花暂停展出",
+      "onboard_time": 1694315975,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646759,
+      "num": 646759,
+      "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
+      "onboard_time": 1694314532,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 644421,
@@ -195,14 +211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 527086,
-      "num": 290802,
-      "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
-      "onboard_time": 1694314532,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 506726,
       "num": 506726,
       "word": "你还在买余额宝吗",
@@ -244,11 +252,19 @@
     },
     {
       "raw_hot": 458420,
-      "num": 234119,
+      "num": 270708,
       "word": "不玩手机的老人都在想什么",
       "onboard_time": 1694313934,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 452917,
+      "num": 452917,
+      "word": "云之羽宫二人设",
+      "onboard_time": 1694314532,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 439390,
@@ -329,14 +345,6 @@
       "onboard_time": 1694307454,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394179,
-      "num": 394179,
-      "word": "云之羽宫二人设",
-      "onboard_time": 1694314532,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 378753,
@@ -443,8 +451,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315487,
+      "num": 193587,
+      "word": "姬发真被殷寿吓哭了",
+      "onboard_time": 1694316032,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314935,
+      "num": 314935,
+      "word": "樊振东vs梁靖崑",
+      "onboard_time": 1694316212,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310410,
-      "num": 310410,
+      "num": 334117,
       "word": "张桂梅祝教师朋友们节日快乐",
       "onboard_time": 1694314653,
       "rank": 13,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 308507,
-      "num": 230888,
+      "num": 267261,
       "word": "鞠婧祎半肩毛衣",
       "onboard_time": 1694312792,
       "rank": 37,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222313,
+      "num": 222313,
+      "word": "难怪兰夫人会emo",
+      "onboard_time": 1694315914,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214948,
       "num": 214948,
       "word": "梁洁郭俊辰新剧杀青",
@@ -563,20 +595,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212252,
+      "num": 212252,
+      "word": "KPL夏决首发名单",
+      "onboard_time": 1694314653,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209277,
       "num": 209277,
       "word": "杨千嬅演唱会官宣重庆武汉",
       "onboard_time": 1694271820,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205059,
-      "num": 205059,
-      "word": "KPL夏决首发名单",
-      "onboard_time": 1694314653,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 203852,
@@ -593,6 +625,14 @@
       "onboard_time": 1694307990,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199696,
+      "num": 199696,
+      "word": "高龄产妇4次剖宫产生下第4胎",
+      "onboard_time": 1694316334,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198202,
@@ -625,6 +665,14 @@
       "onboard_time": 1694309315,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 193463,
+      "num": 193463,
+      "word": "孙颖莎王艺迪晋级亚锦赛决赛",
+      "onboard_time": 1694315975,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 192862,
@@ -779,6 +827,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 150080,
+      "num": 816977,
+      "word": "师生间双向奔赴的爱",
+      "onboard_time": 1694304147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148166,
+      "num": 148166,
+      "word": "国乒包揽亚锦赛女双冠亚军",
+      "onboard_time": 1694316392,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147454,
       "num": 147454,
       "word": "老师们拥有的每一种超能力",
@@ -817,6 +881,14 @@
       "onboard_time": 1694312314,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 128610,
+      "num": 128610,
+      "word": "男生军训跳长绸舞引哇声一片",
+      "onboard_time": 1694316633,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128582,
@@ -897,14 +969,6 @@
       "onboard_time": 1694300781,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106669,
-      "num": 635803,
-      "word": "师生间双向奔赴的爱",
-      "onboard_time": 1694304147,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102482,
