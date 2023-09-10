@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694380411264,
+  "endTime": 1694381633056,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35294,
+      "num": 26277,
+      "word": "盛阳的工作日记",
+      "onboard_time": 1694380513,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31072,
       "num": 39894,
       "word": "杭州亚运火炬传递主题歌燃",
@@ -571,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23825,
+      "num": 23825,
+      "word": "国航通报CA403挂紧急代码7700",
+      "onboard_time": 1694344413,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20679,
       "num": 20679,
       "word": "华晨宇演唱会",
       "onboard_time": 1694249135,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20116,
-      "num": 20116,
-      "word": "国航通报CA403挂紧急代码7700",
-      "onboard_time": 1694344413,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16170,
