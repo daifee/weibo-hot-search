@@ -1,0 +1,410 @@
+{
+  "runTime": 1694342044459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2813589,
+        "num": 2813589,
+        "word": "国航CA403疑发出紧急代码7700",
+        "onboard_time": 1694339134,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401720,
+        "num": 1633803,
+        "word": "2男童拿现金买手机被老板哄吓拒售",
+        "onboard_time": 1694340155,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55793,
+        "num": 1056019,
+        "word": "杭州亚运会开幕日恰逢秋分",
+        "onboard_time": 1694331091,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1025597,
+        "num": 1025597,
+        "word": "上海73岁初代丁克现状颠覆想象",
+        "onboard_time": 1694338412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263210,
+        "num": 956445,
+        "word": "她们是老师也是科学大牛",
+        "onboard_time": 1694336734,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168235,
+        "num": 951969,
+        "word": "花了一百万后消费观转变",
+        "onboard_time": 1694334273,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 945887,
+        "num": 945887,
+        "word": "我命由我不由天 你说三千就三千",
+        "onboard_time": 1694338472,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 817600,
+        "num": 817600,
+        "word": "警方通报重庆女子持刀袭警被击伤死亡",
+        "onboard_time": 1694336734,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690830,
+        "num": 690830,
+        "word": "国航CA403疑左侧发动机起火",
+        "onboard_time": 1694340573,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677471,
+        "num": 677471,
+        "word": "天官赐福",
+        "onboard_time": 1694339253,
+        "rank": 9,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 4696503,
+        "num": 652883,
+        "word": "李佳琦带货怼网友",
+        "onboard_time": 1694332772,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 941367,
+        "num": 630490,
+        "word": "华晨宇演唱会大屏背景是恶评",
+        "onboard_time": 1694323593,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543599,
+        "num": 543599,
+        "word": "华为已启动全面回归全球手机市场的通盘计划",
+        "onboard_time": 1694336254,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 272036,
+        "num": 513269,
+        "word": "马龙男单夺冠",
+        "onboard_time": 1694332353,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181663,
+        "num": 504073,
+        "word": "记者第一次采访张桂梅就被泼了盆冷水",
+        "onboard_time": 1694334693,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501632,
+        "num": 501632,
+        "word": "魔法少女小圆",
+        "onboard_time": 1694339314,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 472183,
+        "num": 472183,
+        "word": "虞书欣偷吃给张凌赫带的零食",
+        "onboard_time": 1694338293,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471900,
+        "num": 471900,
+        "word": "盛阳被前夫哥整无语了",
+        "onboard_time": 1694341653,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440057,
+        "num": 440057,
+        "word": "儿子觉得自己家在班里最平凡",
+        "onboard_time": 1694326532,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421622,
+        "num": 421622,
+        "word": "邓为费加罗男士金九首封预告",
+        "onboard_time": 1694336494,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 398372,
+        "num": 398372,
+        "word": "巴奴称已赔付顾客277.1万元",
+        "onboard_time": 1694340211,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 384165,
+        "num": 384165,
+        "word": "美国男篮vs加拿大男篮",
+        "onboard_time": 1694340697,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369813,
+        "num": 369813,
+        "word": "石凯指甲油颜色",
+        "onboard_time": 1694340334,
+        "rank": 22,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 339169,
+        "num": 339169,
+        "word": "这就是街舞6导师剪影海报",
+        "onboard_time": 1694336254,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316184,
+        "num": 316184,
+        "word": "大哥的共享单车都要踩冒烟了",
+        "onboard_time": 1694340034,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269390,
+        "num": 269390,
+        "word": "这就是街舞6",
+        "onboard_time": 1694339134,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237519,
+        "num": 237519,
+        "word": "TTG对战狼队",
+        "onboard_time": 1694335774,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237455,
+        "num": 237455,
+        "word": "紫幻好牛",
+        "onboard_time": 1694340812,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222292,
+        "num": 222292,
+        "word": "王源像跟着父母应酬的我",
+        "onboard_time": 1694326773,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170199,
+        "num": 220914,
+        "word": "山里小学摔出400多块奖牌",
+        "onboard_time": 1694341477,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155325,
+        "num": 217450,
+        "word": "警察执勤时偶遇自己小学老师",
+        "onboard_time": 1694338834,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2776645,
+        "num": 214423,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 352398,
+        "num": 212133,
+        "word": "余华 你只要把老人写成老人",
+        "onboard_time": 1694341358,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210757,
+        "num": 210757,
+        "word": "华为Mate60设置遥遥领先萦绕耳边",
+        "onboard_time": 1694334571,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208830,
+        "num": 208830,
+        "word": "孙阳喝珍珠奶茶掉小珍珠",
+        "onboard_time": 1694339853,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201135,
+        "num": 201135,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205040,
+        "num": 201016,
+        "word": "巴奴卷王把压力给到了同行",
+        "onboard_time": 1694339192,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 199714,
+        "num": 199714,
+        "word": "女大学生差点被裤子单杀",
+        "onboard_time": 1694324493,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180280,
+        "num": 180280,
+        "word": "天官赐福动画定档海报",
+        "onboard_time": 1694334693,
+        "rank": 38,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 194407,
+        "num": 173812,
+        "word": "孙阳承诺票房破3亿晒腹肌",
+        "onboard_time": 1694335051,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165739,
+        "num": 165739,
+        "word": "TTG状态太猛了",
+        "onboard_time": 1694341292,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161180,
+        "num": 161180,
+        "word": "Rose或将和霉霉合作",
+        "onboard_time": 1694327313,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148902,
+        "num": 148902,
+        "word": "咏梅 不要让欲望带着你跑",
+        "onboard_time": 1694341894,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139945,
+        "num": 139945,
+        "word": "当一只熊没有了毛",
+        "onboard_time": 1694341653,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 139586,
+        "num": 139586,
+        "word": "石凯巡演",
+        "onboard_time": 1694337275,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137346,
+        "num": 137346,
+        "word": "花13000元买的周杰伦演唱会门票被偷",
+        "onboard_time": 1694325333,
+        "rank": 45,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 135873,
+        "num": 135873,
+        "word": "一到中秋就出现的广东水果",
+        "onboard_time": 1694337934,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133608,
+        "num": 133608,
+        "word": "中国赛国羽2冠1亚收官",
+        "onboard_time": 1694342016,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132061,
+        "num": 132061,
+        "word": "冯宝宝被人贩子拐卖挑断手脚筋",
+        "onboard_time": 1694308771,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133041,
+        "num": 131854,
+        "word": "倪妮空降超话",
+        "onboard_time": 1694340211,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记今年国内考察有条主线#"
+    }
+  }
+}

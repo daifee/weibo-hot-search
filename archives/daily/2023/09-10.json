@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694340960189,
+  "endTime": 1694342044459,
   "band_list": [
     {
       "raw_hot": 6316804,
@@ -19,8 +19,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2611643,
-      "num": 2611643,
+      "raw_hot": 2813589,
+      "num": 2813589,
       "word": "国航CA403疑发出紧急代码7700",
       "onboard_time": 1694339134,
       "rank": 0,
@@ -195,12 +195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1025597,
+      "num": 1025597,
+      "word": "上海73岁初代丁克现状颠覆想象",
+      "onboard_time": 1694338412,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 969929,
       "num": 969929,
       "word": "华晨宇接受法师称号",
       "onboard_time": 1694267318,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 945887,
+      "num": 945887,
+      "word": "我命由我不由天 你说三千就三千",
+      "onboard_time": 1694338472,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 939608,
@@ -233,14 +249,6 @@
       "onboard_time": 1694312732,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 806371,
-      "num": 806371,
-      "word": "我命由我不由天 你说三千就三千",
-      "onboard_time": 1694338472,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 792894,
@@ -291,19 +299,27 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 690830,
+      "num": 690830,
+      "word": "国航CA403疑左侧发动机起火",
+      "onboard_time": 1694340573,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677471,
+      "num": 677471,
+      "word": "天官赐福",
+      "onboard_time": 1694339253,
+      "rank": 12,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 677378,
       "num": 405944,
       "word": "粗心爸爸记错放学时间要强女儿独自回家",
       "onboard_time": 1694333434,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653178,
-      "num": 653178,
-      "word": "上海73岁初代丁克现状颠覆想象",
-      "onboard_time": 1694338412,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -387,14 +403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 562511,
-      "num": 562511,
-      "word": "天官赐福",
-      "onboard_time": 1694339253,
-      "rank": 12,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 552477,
       "num": 552477,
       "word": "王俊凯 俊昇文化",
@@ -427,6 +435,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 501632,
+      "num": 501632,
+      "word": "魔法少女小圆",
+      "onboard_time": 1694339314,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 496117,
       "num": 496117,
       "word": "女子手指肿胀21天开刀发现仙人掌刺",
@@ -456,6 +472,14 @@
       "word": "虞书欣偷吃给张凌赫带的零食",
       "onboard_time": 1694338293,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 471900,
+      "num": 471900,
+      "word": "盛阳被前夫哥整无语了",
+      "onboard_time": 1694341653,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -555,14 +579,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 428645,
-      "num": 428645,
-      "word": "魔法少女小圆",
-      "onboard_time": 1694339314,
-      "rank": 17,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 426847,
       "num": 355528,
       "word": "张碧晨在脸上镶了个魔镜",
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 414037,
-      "num": 307610,
+      "num": 339169,
       "word": "这就是街舞6导师剪影海报",
       "onboard_time": 1694336254,
       "rank": 20,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401720,
+      "num": 1633803,
+      "word": "2男童拿现金买手机被老板哄吓拒售",
+      "onboard_time": 1694340155,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400952,
       "num": 400952,
       "word": "吴宣仪再跳101主题曲舞蹈",
@@ -657,6 +681,14 @@
       "onboard_time": 1694333312,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 398372,
+      "num": 398372,
+      "word": "巴奴称已赔付顾客277.1万元",
+      "onboard_time": 1694340211,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 397945,
@@ -681,6 +713,14 @@
       "onboard_time": 1694316932,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384165,
+      "num": 384165,
+      "word": "美国男篮vs加拿大男篮",
+      "onboard_time": 1694340697,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 378753,
@@ -739,6 +779,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 352398,
+      "num": 212133,
+      "word": "余华 你只要把老人写成老人",
+      "onboard_time": 1694341358,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351640,
       "num": 351640,
       "word": "教师节福利",
@@ -753,14 +801,6 @@
       "onboard_time": 1694268279,
       "rank": 22,
       "category": "情感,科技"
-    },
-    {
-      "raw_hot": 349610,
-      "num": 349610,
-      "word": "国航CA403疑左侧发动机起火",
-      "onboard_time": 1694340573,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348490,
@@ -843,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 316184,
+      "num": 316184,
+      "word": "大哥的共享单车都要踩冒烟了",
+      "onboard_time": 1694340034,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315487,
       "num": 261460,
       "word": "姬发真被殷寿吓哭了",
@@ -868,7 +916,7 @@
     },
     {
       "raw_hot": 312957,
-      "num": 492333,
+      "num": 504073,
       "word": "记者第一次采访张桂梅就被泼了盆冷水",
       "onboard_time": 1694334693,
       "rank": 45,
@@ -889,14 +937,6 @@
       "onboard_time": 1694314653,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 309935,
-      "num": 309935,
-      "word": "巴奴称已赔付顾客277.1万元",
-      "onboard_time": 1694340211,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 309347,
@@ -1083,20 +1123,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237519,
+      "num": 237519,
+      "word": "TTG对战狼队",
+      "onboard_time": 1694335774,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 237455,
+      "num": 237455,
+      "word": "紫幻好牛",
+      "onboard_time": 1694340812,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236725,
       "num": 236725,
       "word": "输入法文化程度",
       "onboard_time": 1694334992,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232531,
-      "num": 232531,
-      "word": "TTG对战狼队",
-      "onboard_time": 1694335774,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 232032,
@@ -1147,14 +1195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226597,
-      "num": 226597,
-      "word": "2男童拿现金买手机被老板哄吓拒售",
-      "onboard_time": 1694340155,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225684,
       "num": 225684,
       "word": "邓超的撕漫男和我们不太一样",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1694329052,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223327,
-      "num": 223327,
-      "word": "大哥的共享单车都要踩冒烟了",
-      "onboard_time": 1694340034,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 222313,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1694333252,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205040,
+      "num": 261110,
+      "word": "巴奴卷王把压力给到了同行",
+      "onboard_time": 1694339192,
+      "rank": 25,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 205000,
@@ -1603,14 +1643,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 179519,
-      "num": 179519,
-      "word": "紫幻好牛",
-      "onboard_time": 1694340812,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177443,
       "num": 177443,
       "word": "蓝战非发视频吐槽看表演遭区别对待",
@@ -1651,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170199,
+      "num": 220914,
+      "word": "山里小学摔出400多块奖牌",
+      "onboard_time": 1694341477,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169584,
       "num": 169584,
       "word": "陈梦王曼昱晋级亚锦赛决赛",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1694326952,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165739,
+      "num": 165739,
+      "word": "TTG状态太猛了",
+      "onboard_time": 1694341292,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 164430,
@@ -1739,28 +1787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155639,
-      "num": 261110,
-      "word": "巴奴卷王把压力给到了同行",
-      "onboard_time": 1694339192,
-      "rank": 25,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 154490,
       "num": 154490,
       "word": "胡歌给女儿起名茉莉的原因",
       "onboard_time": 1694264857,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152792,
-      "num": 152792,
-      "word": "美国男篮vs加拿大男篮",
-      "onboard_time": 1694340697,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 152148,
@@ -1785,6 +1817,14 @@
       "onboard_time": 1694317656,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 148902,
+      "num": 148902,
+      "word": "咏梅 不要让欲望带着你跑",
+      "onboard_time": 1694341894,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148166,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1694323293,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139945,
+      "num": 139945,
+      "word": "当一只熊没有了毛",
+      "onboard_time": 1694341653,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 139102,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1694305410,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 133608,
+      "num": 133608,
+      "word": "中国赛国羽2冠1亚收官",
+      "onboard_time": 1694342016,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131862,
@@ -2124,7 +2180,7 @@
     },
     {
       "raw_hot": 71141,
-      "num": 1017783,
+      "num": 1056019,
       "word": "杭州亚运会开幕日恰逢秋分",
       "onboard_time": 1694331091,
       "rank": 2,
