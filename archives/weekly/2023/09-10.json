@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694327645559,
+  "endTime": 1694330052502,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1093526,
+      "num": 1093526,
+      "word": "Rose或将和霉霉合作",
+      "onboard_time": 1694327313,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1078043,
       "num": 1078043,
       "word": "教师节快乐",
@@ -163,6 +171,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 864964,
+      "num": 864964,
+      "word": "王源像跟着父母应酬的我",
+      "onboard_time": 1694326773,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 864015,
       "num": 864015,
       "word": "烘焙 我接触过的最大生活骗局",
@@ -176,6 +192,14 @@
       "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
       "onboard_time": 1694270559,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762800,
+      "num": 762800,
+      "word": "襄阳",
+      "onboard_time": 1694325812,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -267,12 +291,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 558368,
-      "num": 558368,
-      "word": "王源像跟着父母应酬的我",
-      "onboard_time": 1694326773,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 571382,
+      "num": 571382,
+      "word": "儿子觉得自己家在班里最平凡",
+      "onboard_time": 1694326532,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 552477,
@@ -377,14 +401,6 @@
       "onboard_time": 1694314532,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 451806,
-      "num": 451806,
-      "word": "襄阳",
-      "onboard_time": 1694325812,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439390,
@@ -579,14 +595,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 331379,
-      "num": 331379,
-      "word": "Rose或将和霉霉合作",
-      "onboard_time": 1694327313,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 329749,
       "num": 329749,
       "word": "骄阳伴我真不是喜剧吗",
@@ -699,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285579,
-      "num": 285579,
-      "word": "儿子觉得自己家在班里最平凡",
-      "onboard_time": 1694326532,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 284644,
       "num": 284644,
       "word": "TFBOYS为王源新综艺宣传",
@@ -771,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 245502,
+      "num": 245502,
+      "word": "陈梦王曼昱3比0孙颖莎王艺迪",
+      "onboard_time": 1694329411,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241413,
       "num": 241413,
       "word": "金繁好亮啊",
@@ -827,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224291,
+      "num": 224291,
+      "word": "虞书欣卢昱晓台前幕后花絮",
+      "onboard_time": 1694329052,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222313,
       "num": 222313,
       "word": "难怪兰夫人会emo",
@@ -851,12 +867,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217944,
+      "num": 217944,
+      "word": "韩国人对考试的吐槽",
+      "onboard_time": 1694325452,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 214948,
       "num": 214948,
       "word": "梁洁郭俊辰新剧杀青",
       "onboard_time": 1694310512,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213696,
+      "num": 213696,
+      "word": "陈梦王曼昱亚锦赛夺冠",
+      "onboard_time": 1694329713,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 212252,
@@ -899,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205087,
+      "num": 205087,
+      "word": "这8分钟好像过了十几年",
+      "onboard_time": 1694329472,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205000,
       "num": 205000,
       "word": "猛男粉无畏",
@@ -921,6 +961,14 @@
       "onboard_time": 1694307990,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202631,
+      "num": 202631,
+      "word": "马思纯现身李荣浩演唱会",
+      "onboard_time": 1694327853,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 201958,
@@ -953,14 +1001,6 @@
       "onboard_time": 1694321074,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199705,
-      "num": 199705,
-      "word": "韩国人对考试的吐槽",
-      "onboard_time": 1694325452,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 199696,
@@ -1115,6 +1155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 176499,
+      "num": 280207,
+      "word": "怕新生吃不饱老师站着陪吃饭",
+      "onboard_time": 1694329411,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172578,
       "num": 172578,
       "word": "凤凰传奇现场",
@@ -1155,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167566,
+      "num": 167566,
+      "word": "00后民警送80后师父不锈钢锦旗被围观",
+      "onboard_time": 1694326952,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164430,
       "num": 164430,
       "word": "肖战田雨20集终于见面了",
@@ -1192,14 +1248,6 @@
       "word": "花花好好休息",
       "onboard_time": 1694322873,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156877,
-      "num": 156877,
-      "word": "00后民警送80后师父不锈钢锦旗被围观",
-      "onboard_time": 1694326952,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125123,
+      "num": 371641,
+      "word": "中国与阿根廷共话丝路情",
+      "onboard_time": 1694327012,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 121764,
       "num": 121764,
       "word": "虞书欣 专业逗牛士",
@@ -1443,6 +1499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 105952,
+      "num": 276499,
+      "word": "抗美援朝老兵山区教书30多年",
+      "onboard_time": 1694328155,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102482,
       "num": 460570,
       "word": "张桂梅不甘女孩们重复没选择的一生",
@@ -1473,14 +1537,6 @@
       "onboard_time": 1694267138,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99149,
-      "num": 371641,
-      "word": "中国与阿根廷共话丝路情",
-      "onboard_time": 1694327012,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 94231,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1694290453,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31983,
+      "num": 274079,
+      "word": "每个老师都有专属的两把刷子",
+      "onboard_time": 1694329234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24147,
