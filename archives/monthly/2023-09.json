@@ -1,7 +1,15 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694358925881,
+  "endTime": 1694360029896,
   "band_list": [
+    {
+      "raw_hot": 9147516,
+      "num": 1012949,
+      "word": "李佳琦说找不到以前状态了",
+      "onboard_time": 1694356359,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 8806920,
       "num": 8806920,
@@ -25,14 +33,6 @@
       "onboard_time": 1693554041,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7052638,
-      "num": 1012949,
-      "word": "李佳琦说找不到以前状态了",
-      "onboard_time": 1694356359,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 6316804,
@@ -4857,6 +4857,14 @@
       "onboard_time": 1694081317,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728029,
+      "num": 728029,
+      "word": "杨紫说长相思第二季比第一季更虐",
+      "onboard_time": 1694359601,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 727009,
@@ -15043,6 +15051,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 265610,
+      "num": 265610,
+      "word": "蒲熠星火树JY连麦玩崩铁",
+      "onboard_time": 1694358524,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265488,
       "num": 265488,
       "word": "前程似今",
@@ -16531,6 +16547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237505,
+      "num": 237505,
+      "word": "刘雨昕把祝多写了一点",
+      "onboard_time": 1694358459,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237455,
       "num": 237455,
       "word": "紫幻好牛",
@@ -16977,6 +17001,14 @@
       "onboard_time": 1693788818,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229721,
+      "num": 229721,
+      "word": "爷爷牵挂外地独居孙女每天早晚打电话",
+      "onboard_time": 1694358880,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229336,
@@ -18025,6 +18057,14 @@
       "onboard_time": 1693918120,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212039,
+      "num": 212039,
+      "word": "塞尔维亚没有约基奇也这么强",
+      "onboard_time": 1694359298,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 211945,
@@ -19299,6 +19339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199659,
+      "num": 199659,
+      "word": "久酷鲜奶",
+      "onboard_time": 1694359478,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199616,
       "num": 199616,
       "word": "女子反应过人秒按停自动扶梯救人",
@@ -19505,14 +19553,6 @@
       "onboard_time": 1693800097,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197493,
-      "num": 197493,
-      "word": "蒲熠星火树JY连麦玩崩铁",
-      "onboard_time": 1694358524,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 197438,
@@ -21795,6 +21835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171677,
+      "num": 171677,
+      "word": "风箫真的长大了",
+      "onboard_time": 1694359237,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171593,
       "num": 1136326,
       "word": "师生间双向奔赴的爱",
@@ -22064,14 +22112,6 @@
       "word": "90后牺牲民警生前说人民公安为人民",
       "onboard_time": 1694182598,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167422,
-      "num": 167422,
-      "word": "爷爷牵挂外地独居孙女每天早晚打电话",
-      "onboard_time": 1694358880,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
