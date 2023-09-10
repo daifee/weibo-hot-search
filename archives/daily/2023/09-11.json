@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694387745107,
+  "endTime": 1694388839782,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -8,6 +8,14 @@
       "word": "李佳琦说找不到以前状态了",
       "onboard_time": 1694356359,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5335336,
+      "num": 252500,
+      "word": "李佳琦就直播言论致歉",
+      "onboard_time": 1694387725,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -32,14 +40,6 @@
       "word": "李佳琦带货怼网友",
       "onboard_time": 1694332772,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1397732,
-      "num": 157502,
-      "word": "李佳琦就直播言论致歉",
-      "onboard_time": 1694387725,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -75,7 +75,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 681565,
+      "raw_hot": 688625,
       "num": 296182,
       "word": "国航CA403有乘客因携带行李撤离摔倒",
       "onboard_time": 1694357143,
@@ -131,12 +131,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 425191,
+      "num": 425191,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414119,
       "num": 414119,
       "word": "Apex",
       "onboard_time": 1694363071,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 393112,
+      "num": 222257,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 386747,
+      "num": 386747,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 379230,
@@ -171,12 +195,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 351953,
-      "num": 351953,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 340128,
+      "num": 340128,
+      "word": "德约科维奇vs梅德韦杰夫",
+      "onboard_time": 1694388449,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 337574,
@@ -201,14 +225,6 @@
       "onboard_time": 1694355220,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 303608,
-      "num": 156198,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 300921,
@@ -283,20 +299,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233617,
+      "num": 137231,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 223300,
       "num": 223300,
       "word": "刘雨昕把祝多写了一点",
       "onboard_time": 1694358459,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222547,
-      "num": 222547,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 220029,
@@ -307,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214852,
-      "num": 156017,
+      "raw_hot": 216760,
+      "num": 216760,
       "word": "颠覆三观的儿童零食冷知识",
       "onboard_time": 1694384356,
       "rank": 35,
@@ -387,14 +403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195818,
-      "num": 125528,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 191671,
       "num": 191671,
       "word": "久酷鲜奶",
@@ -403,20 +411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185073,
+      "num": 185073,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177036,
+      "num": 177036,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 170948,
       "num": 170948,
       "word": "殷商男足",
       "onboard_time": 1694361937,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164528,
-      "num": 164528,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 162883,
@@ -459,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "塞尔维亚男篮痛哭",
+      "onboard_time": 1694385980,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147072,
       "num": 147072,
       "word": "黄渤找到了自己没考上清华的原因",
       "onboard_time": 1694344534,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144484,
-      "num": 144484,
-      "word": "白桃星座",
-      "onboard_time": 1694374154,
-      "rank": 33,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 143112,
@@ -483,6 +499,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 137725,
+      "num": 246911,
+      "word": "小朋友给妈妈的夸夸治愈值点满",
+      "onboard_time": 1694387905,
+      "rank": 12,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 137238,
       "num": 137238,
       "word": "丞磊宫尚角滔滔不角",
@@ -491,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125711,
-      "num": 125711,
-      "word": "塞尔维亚男篮痛哭",
-      "onboard_time": 1694385980,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 132702,
+      "num": 303547,
+      "word": "山村女老师手里一碗热饭吃了又放",
+      "onboard_time": 1694355157,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 124468,
@@ -523,12 +547,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 118328,
-      "num": 303547,
-      "word": "山村女老师手里一碗热饭吃了又放",
-      "onboard_time": 1694355157,
-      "rank": 13,
-      "category": "社会新闻,教育"
+      "raw_hot": 118451,
+      "num": 118451,
+      "word": "赵本山你大爷永远是你大爷",
+      "onboard_time": 1694388750,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 108058,
+      "num": 108058,
+      "word": "孙阳妈妈说这辈子都忘不了大鹏",
+      "onboard_time": 1694345433,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 106834,
@@ -539,12 +571,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 105057,
-      "num": 105057,
-      "word": "孙阳妈妈说这辈子都忘不了大鹏",
-      "onboard_time": 1694345433,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 95888,
+      "num": 95888,
+      "word": "华为手机无信号打通卫星电话",
+      "onboard_time": 1694388629,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 79036,
@@ -579,18 +611,18 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 46839,
-      "num": 721913,
-      "word": "亚运会场馆水幔设计既典雅又实用",
-      "onboard_time": 1694351799,
+      "raw_hot": 57576,
+      "num": 651086,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46396,
-      "num": 651086,
-      "word": "同学们便利贴写祝福拼成画送老师",
-      "onboard_time": 1694351495,
+      "raw_hot": 46839,
+      "num": 721913,
+      "word": "亚运会场馆水幔设计既典雅又实用",
+      "onboard_time": 1694351799,
       "rank": 2,
       "category": "社会新闻"
     },

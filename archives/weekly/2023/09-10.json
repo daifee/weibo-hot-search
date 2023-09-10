@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694387745107,
+  "endTime": 1694388839782,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -17,6 +17,14 @@
       "onboard_time": 1694332772,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 5335336,
+      "num": 252500,
+      "word": "李佳琦就直播言论致歉",
+      "onboard_time": 1694387725,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 5257891,
@@ -193,14 +201,6 @@
       "onboard_time": 1694338412,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1397732,
-      "num": 157502,
-      "word": "李佳琦就直播言论致歉",
-      "onboard_time": 1694387725,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1393300,
@@ -547,7 +547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 681565,
+      "raw_hot": 688625,
       "num": 450166,
       "word": "国航CA403有乘客因携带行李撤离摔倒",
       "onboard_time": 1694357143,
@@ -963,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 425191,
+      "num": 425191,
+      "word": "警号253689请回答",
+      "onboard_time": 1694366602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424388,
       "num": 455732,
       "word": "摩洛哥地震遇难人数升至2012人",
@@ -1083,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393112,
+      "num": 222257,
+      "word": "性格内向的人看起来会更显小",
+      "onboard_time": 1694374216,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392801,
       "num": 392801,
       "word": "Gemini 张凯的假酒给清清喝了吗",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1694329472,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 386747,
+      "num": 386747,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 386557,
@@ -1203,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351953,
-      "num": 351953,
-      "word": "警号253689请回答",
-      "onboard_time": 1694366602,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351640,
       "num": 351640,
       "word": "教师节福利",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1694354322,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340128,
+      "num": 340128,
+      "word": "德约科维奇vs梅德韦杰夫",
+      "onboard_time": 1694388449,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 337574,
@@ -1456,14 +1480,6 @@
       "word": "三年租房花费了十五万",
       "onboard_time": 1694257774,
       "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 303608,
-      "num": 156198,
-      "word": "性格内向的人看起来会更显小",
-      "onboard_time": 1694374216,
-      "rank": 23,
       "category": "情感"
     },
     {
@@ -1843,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233617,
+      "num": 137231,
+      "word": "沙特大臣称我是厦大毕业的不用翻译",
+      "onboard_time": 1694371636,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 232198,
       "num": 232198,
       "word": "当一只熊没有了毛",
@@ -1963,14 +1987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222547,
-      "num": 222547,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222313,
       "num": 222313,
       "word": "难怪兰夫人会emo",
@@ -2027,6 +2043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216760,
+      "num": 216760,
+      "word": "颠覆三观的儿童零食冷知识",
+      "onboard_time": 1694384356,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 216136,
       "num": 216136,
       "word": "黄礼志申留真双人舞蹈",
@@ -2049,14 +2073,6 @@
       "onboard_time": 1694310512,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214852,
-      "num": 156017,
-      "word": "颠覆三观的儿童零食冷知识",
-      "onboard_time": 1694384356,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 214060,
@@ -2323,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195818,
-      "num": 125528,
-      "word": "沙特大臣称我是厦大毕业的不用翻译",
-      "onboard_time": 1694371636,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 194210,
       "num": 194210,
       "word": "微博手机影像年",
@@ -2507,6 +2515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 185073,
+      "num": 185073,
+      "word": "真的在体面里听到了体面",
+      "onboard_time": 1694374216,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184453,
       "num": 184453,
       "word": "丽水一山区县中逆袭本科率100%",
@@ -2577,6 +2593,14 @@
       "onboard_time": 1694334454,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177036,
+      "num": 177036,
+      "word": "白桃星座",
+      "onboard_time": 1694374154,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 175990,
@@ -2691,14 +2715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164528,
-      "num": 164528,
-      "word": "真的在体面里听到了体面",
-      "onboard_time": 1694374216,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164430,
       "num": 164430,
       "word": "肖战田雨20集终于见面了",
@@ -2769,6 +2785,14 @@
       "onboard_time": 1694343272,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "塞尔维亚男篮痛哭",
+      "onboard_time": 1694385980,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 152148,
@@ -2875,14 +2899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144484,
-      "num": 144484,
-      "word": "白桃星座",
-      "onboard_time": 1694374154,
-      "rank": 33,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 143308,
       "num": 510217,
       "word": "支教老师我来到了您的大学",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1694334091,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137725,
+      "num": 246911,
+      "word": "小朋友给妈妈的夸夸治愈值点满",
+      "onboard_time": 1694387905,
+      "rank": 12,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 137246,
@@ -3027,14 +3051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125711,
-      "num": 125711,
-      "word": "塞尔维亚男篮痛哭",
-      "onboard_time": 1694385980,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125123,
       "num": 473330,
       "word": "中国与阿根廷共话丝路情",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1694267377,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118451,
+      "num": 118451,
+      "word": "赵本山你大爷永远是你大爷",
+      "onboard_time": 1694388750,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 117620,
@@ -3169,6 +3193,14 @@
       "onboard_time": 1694267138,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95888,
+      "num": 95888,
+      "word": "华为手机无信号打通卫星电话",
+      "onboard_time": 1694388629,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 94231,
@@ -3331,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57576,
+      "num": 651086,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53072,
       "num": 59793,
       "word": "封神质子团将在第三部回归",
@@ -3377,14 +3417,6 @@
       "onboard_time": 1694284396,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 46396,
-      "num": 651086,
-      "word": "同学们便利贴写祝福拼成画送老师",
-      "onboard_time": 1694351495,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46356,
