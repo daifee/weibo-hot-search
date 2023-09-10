@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694360029896,
+  "endTime": 1694362833871,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -81,6 +81,14 @@
       "onboard_time": 1694318554,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2033830,
+      "num": 2033830,
+      "word": "胡歌 我们也需要票房",
+      "onboard_time": 1694361037,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1972503,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661096,
+      "num": 300448,
+      "word": "27岁女子极端减肥瘦20斤致闭经1年半",
+      "onboard_time": 1694361160,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652920,
       "num": 652920,
       "word": "罗斯结婚",
@@ -571,6 +587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 619805,
+      "num": 452966,
+      "word": "国货难带和尊重消费者是两码事",
+      "onboard_time": 1694357325,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617964,
       "num": 617964,
       "word": "妖刀隐身",
@@ -585,14 +609,6 @@
       "onboard_time": 1694353003,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 613899,
-      "num": 452966,
-      "word": "国货难带和尊重消费者是两码事",
-      "onboard_time": 1694357325,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 610545,
@@ -777,6 +793,14 @@
       "onboard_time": 1694351678,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 485741,
+      "num": 296538,
+      "word": "赵露思慵懒感美拉德妆造",
+      "onboard_time": 1694360860,
+      "rank": 22,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 483847,
@@ -1427,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294453,
+      "num": 294453,
+      "word": "张云雷去看了周杰伦演唱会",
+      "onboard_time": 1694361636,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289218,
       "num": 289218,
       "word": "不然哭了",
@@ -1635,6 +1667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246217,
+      "num": 246217,
+      "word": "Fly说重新来过",
+      "onboard_time": 1694360382,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245109,
       "num": 499965,
       "word": "怕新生吃不饱老师站着陪吃饭",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1694318912,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231536,
+      "num": 221782,
+      "word": "原来高铁起步这么麻烦",
+      "onboard_time": 1694362177,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 230617,
@@ -1915,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214060,
+      "num": 214060,
+      "word": "我去过墨脱",
+      "onboard_time": 1694360382,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 213696,
       "num": 213696,
       "word": "陈梦王曼昱亚锦赛夺冠",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1694342853,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205478,
+      "num": 205478,
+      "word": "白百何这段台词是乙方嘴替",
+      "onboard_time": 1694360677,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 205447,
@@ -2379,6 +2443,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 182012,
+      "num": 182012,
+      "word": "波伏娃 女性要保留一定的自由和孤独",
+      "onboard_time": 1694362473,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180937,
       "num": 113187,
       "word": "教师还是一门好职业吗",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1694322455,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170948,
+      "num": 170948,
+      "word": "殷商男足",
+      "onboard_time": 1694361937,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 170617,
@@ -3001,6 +3081,14 @@
       "onboard_time": 1694354618,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 79036,
+      "num": 302624,
+      "word": "从教11年化学老师捐造血干细胞救高三女生",
+      "onboard_time": 1694361696,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 77954,
