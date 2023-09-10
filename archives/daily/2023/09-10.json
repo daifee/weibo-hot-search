@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694324034908,
+  "endTime": 1694326807659,
   "band_list": [
     {
       "raw_hot": 2355734,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1765099,
+      "num": 1106613,
+      "word": "华晨宇演唱会大屏背景是恶评",
+      "onboard_time": 1694323593,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1632080,
       "num": 1632080,
       "word": "鹤壁地震",
@@ -75,12 +83,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1366611,
+      "num": 1366611,
+      "word": "为什么去德国留学的少",
+      "onboard_time": 1694322814,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1310262,
       "num": 375244,
       "word": "没想到考教资周杰伦能帮上忙",
       "onboard_time": 1694306971,
       "rank": 11,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1235706,
+      "num": 1235706,
+      "word": "花13000元买的周杰伦演唱会门票被偷",
+      "onboard_time": 1694325333,
+      "rank": 1,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1104732,
@@ -105,6 +129,14 @@
       "onboard_time": 1694300781,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1060181,
+      "num": 1060181,
+      "word": "女大学生差点被裤子单杀",
+      "onboard_time": 1694324493,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 969929,
@@ -251,14 +283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 525009,
-      "num": 419776,
-      "word": "为什么去德国留学的少",
-      "onboard_time": 1694322814,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 506726,
       "num": 506726,
       "word": "你还在买余额宝吗",
@@ -313,6 +337,14 @@
       "onboard_time": 1694308534,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 462058,
+      "num": 417616,
+      "word": "全嘻嘻 当一个农村女人决定出逃",
+      "onboard_time": 1694321675,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 459943,
@@ -371,6 +403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 426847,
+      "num": 355528,
+      "word": "张碧晨在脸上镶了个魔镜",
+      "onboard_time": 1694323956,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 424388,
       "num": 455732,
       "word": "摩洛哥地震遇难人数升至2012人",
@@ -385,14 +425,6 @@
       "onboard_time": 1694318076,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417616,
-      "num": 417616,
-      "word": "全嘻嘻 当一个农村女人决定出逃",
-      "onboard_time": 1694321675,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 413429,
@@ -491,14 +523,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 355528,
-      "num": 355528,
-      "word": "张碧晨在脸上镶了个魔镜",
-      "onboard_time": 1694323956,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 351640,
       "num": 351640,
       "word": "教师节福利",
@@ -537,14 +561,6 @@
       "onboard_time": 1694266659,
       "rank": 23,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 330458,
-      "num": 330458,
-      "word": "华晨宇演唱会大屏背景是恶评",
-      "onboard_time": 1694323593,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 329749,
@@ -643,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299991,
+      "num": 299991,
+      "word": "阿拉斯加海底3300米发现神秘金蛋",
+      "onboard_time": 1694322755,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298800,
       "num": 298800,
       "word": "为什么国庆有那么多人结婚",
@@ -657,14 +681,6 @@
       "onboard_time": 1694269296,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277200,
-      "num": 229038,
-      "word": "阿拉斯加海底3300米发现神秘金蛋",
-      "onboard_time": 1694322755,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271777,
@@ -707,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247773,
+      "num": 247773,
+      "word": "两只黄鹂鸣翠柳 一块布上五条狗",
+      "onboard_time": 1694322573,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247297,
       "num": 247297,
       "word": "张凌赫雨中追星成功",
@@ -731,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239326,
+      "num": 239326,
+      "word": "襄阳",
+      "onboard_time": 1694325812,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232032,
       "num": 232032,
       "word": "1所学校1个老师6名学生",
@@ -753,6 +785,22 @@
       "onboard_time": 1694260115,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228010,
+      "num": 204789,
+      "word": "害怕冻掉耳朵的牛牛们",
+      "onboard_time": 1694325093,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225684,
+      "num": 225684,
+      "word": "邓超的撕漫男和我们不太一样",
+      "onboard_time": 1694324792,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 222313,
@@ -803,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207125,
+      "num": 207125,
+      "word": "檀健次抖包袱",
+      "onboard_time": 1694324252,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205447,
       "num": 205447,
       "word": "樊振东晋级亚锦赛决赛",
@@ -811,12 +867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205000,
+      "num": 205000,
+      "word": "猛男粉无畏",
+      "onboard_time": 1694325874,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "芒禾音乐节",
       "onboard_time": 1694275715,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202939,
+      "num": 202939,
+      "word": "王源像跟着父母应酬的我",
+      "onboard_time": 1694326773,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 202684,
@@ -833,14 +905,6 @@
       "onboard_time": 1694319935,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201546,
-      "num": 201546,
-      "word": "两只黄鹂鸣翠柳 一块布上五条狗",
-      "onboard_time": 1694322573,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 200791,
@@ -865,6 +929,14 @@
       "onboard_time": 1694316334,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199090,
+      "num": 199090,
+      "word": "韩国人对考试的吐槽",
+      "onboard_time": 1694325452,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 198202,
@@ -929,6 +1001,14 @@
       "onboard_time": 1694275236,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187661,
+      "num": 187661,
+      "word": "本以为是贺卡掏出来的却是鸡爪",
+      "onboard_time": 1694325991,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 187590,
@@ -1147,6 +1227,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142959,
+      "num": 142959,
+      "word": "儿子觉得自己家在班里最平凡",
+      "onboard_time": 1694326532,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 142113,
+      "num": 142113,
+      "word": "你觉得老师这个职业轻松吗",
+      "onboard_time": 1694325874,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141590,
       "num": 141590,
       "word": "安阳震感",
@@ -1171,12 +1267,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135764,
+      "num": 135764,
+      "word": "电影沙海之门杀青",
+      "onboard_time": 1694326233,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 135536,
+      "num": 135536,
+      "word": "异人之下",
+      "onboard_time": 1694325154,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133825,
       "num": 338275,
       "word": "我想成为的人有您的影子",
       "onboard_time": 1694305410,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 132280,
+      "num": 132280,
+      "word": "摩洛哥",
+      "onboard_time": 1694326652,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131862,
@@ -1233,6 +1353,14 @@
       "onboard_time": 1694309132,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125046,
+      "num": 125046,
+      "word": "没票看五月天的方式可以多浪漫",
+      "onboard_time": 1694326352,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 121764,

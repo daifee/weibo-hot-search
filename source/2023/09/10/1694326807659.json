@@ -1,0 +1,410 @@
+{
+  "runTime": 1694326807659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366611,
+        "num": 1366611,
+        "word": "为什么去德国留学的少",
+        "onboard_time": 1694322814,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1235706,
+        "num": 1235706,
+        "word": "花13000元买的周杰伦演唱会门票被偷",
+        "onboard_time": 1694325333,
+        "rank": 1,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 107271,
+        "num": 1135345,
+        "word": "师生间双向奔赴的爱",
+        "onboard_time": 1694304147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1765099,
+        "num": 1106613,
+        "word": "华晨宇演唱会大屏背景是恶评",
+        "onboard_time": 1694323593,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1060181,
+        "num": 1060181,
+        "word": "女大学生差点被裤子单杀",
+        "onboard_time": 1694324493,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 787648,
+        "num": 787648,
+        "word": "鹤壁地震",
+        "onboard_time": 1694322755,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514020,
+        "num": 514020,
+        "word": "花花暂停展出",
+        "onboard_time": 1694315975,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396758,
+        "num": 396758,
+        "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
+        "onboard_time": 1694314532,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342977,
+        "num": 342977,
+        "word": "咖啡 是一种豆浆",
+        "onboard_time": 1694321074,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302284,
+        "num": 302284,
+        "word": "罗斯结婚",
+        "onboard_time": 1694319574,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 872775,
+        "num": 302259,
+        "word": "华莎接受警方调查",
+        "onboard_time": 1694318554,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598315,
+        "num": 301833,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120458,
+        "num": 301433,
+        "word": "张桂梅祝教师朋友们节日快乐",
+        "onboard_time": 1694314653,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108945,
+        "num": 301366,
+        "word": "教师节快乐",
+        "onboard_time": 1694300781,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102252,
+        "num": 300962,
+        "word": "摩洛哥地震遇难人数升至2012人",
+        "onboard_time": 1694303727,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545317,
+        "num": 300587,
+        "word": "冯宝宝被人贩子拐卖挑断手脚筋",
+        "onboard_time": 1694308771,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462058,
+        "num": 300520,
+        "word": "全嘻嘻 当一个农村女人决定出逃",
+        "onboard_time": 1694321675,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356105,
+        "num": 300136,
+        "word": "BLACKPINK路人缘很好的成员",
+        "onboard_time": 1694307271,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299991,
+        "num": 299991,
+        "word": "阿拉斯加海底3300米发现神秘金蛋",
+        "onboard_time": 1694322755,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289616,
+        "num": 289616,
+        "word": "盛阳亲了简冰",
+        "onboard_time": 1694320892,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426847,
+        "num": 286116,
+        "word": "张碧晨在脸上镶了个魔镜",
+        "onboard_time": 1694323956,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345388,
+        "num": 283319,
+        "word": "DFBOYS",
+        "onboard_time": 1694311712,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247773,
+        "num": 247773,
+        "word": "两只黄鹂鸣翠柳 一块布上五条狗",
+        "onboard_time": 1694322573,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239326,
+        "num": 239326,
+        "word": "襄阳",
+        "onboard_time": 1694325812,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236746,
+        "num": 236746,
+        "word": "22名倒卖周杰伦演唱会门票黄牛在天津被抓",
+        "onboard_time": 1694315013,
+        "rank": 24,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 225684,
+        "num": 225684,
+        "word": "邓超的撕漫男和我们不太一样",
+        "onboard_time": 1694324792,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221748,
+        "num": 221748,
+        "word": "建议彭昱畅别看",
+        "onboard_time": 1694321854,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209454,
+        "num": 209454,
+        "word": "范丞丞自称比沈腾白敬亭文静一点",
+        "onboard_time": 1694321193,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207125,
+        "num": 207125,
+        "word": "檀健次抖包袱",
+        "onboard_time": 1694324252,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205000,
+        "num": 205000,
+        "word": "猛男粉无畏",
+        "onboard_time": 1694325874,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228010,
+        "num": 204789,
+        "word": "害怕冻掉耳朵的牛牛们",
+        "onboard_time": 1694325093,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202939,
+        "num": 202939,
+        "word": "王源像跟着父母应酬的我",
+        "onboard_time": 1694326773,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199090,
+        "num": 199090,
+        "word": "韩国人对考试的吐槽",
+        "onboard_time": 1694325452,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187661,
+        "num": 187661,
+        "word": "本以为是贺卡掏出来的却是鸡爪",
+        "onboard_time": 1694325991,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181390,
+        "num": 181390,
+        "word": "德国足协花1亿日元请日本比赛",
+        "onboard_time": 1694318076,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173990,
+        "num": 173990,
+        "word": "吴宣仪再跳101主题曲舞蹈",
+        "onboard_time": 1694319814,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159234,
+        "num": 159234,
+        "word": "烘焙 我接触过的最大生活骗局",
+        "onboard_time": 1694312732,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157016,
+        "num": 157016,
+        "word": "警察也是老师只教出圈的学生",
+        "onboard_time": 1694310155,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156511,
+        "num": 156511,
+        "word": "清华大学有多重视体育课",
+        "onboard_time": 1694318194,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155318,
+        "num": 155318,
+        "word": "云之羽宫二人设",
+        "onboard_time": 1694314532,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147904,
+        "num": 147904,
+        "word": "毕业了才真正明白大学老师有多厉害",
+        "onboard_time": 1694310034,
+        "rank": 40,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 142959,
+        "num": 142959,
+        "word": "儿子觉得自己家在班里最平凡",
+        "onboard_time": 1694326532,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142113,
+        "num": 142113,
+        "word": "你觉得老师这个职业轻松吗",
+        "onboard_time": 1694325874,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141127,
+        "num": 141127,
+        "word": "鞠婧祎半肩毛衣",
+        "onboard_time": 1694312792,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 138601,
+        "num": 138601,
+        "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
+        "onboard_time": 1694270559,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135764,
+        "num": 135764,
+        "word": "电影沙海之门杀青",
+        "onboard_time": 1694326233,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135536,
+        "num": 135536,
+        "word": "异人之下",
+        "onboard_time": 1694325154,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132280,
+        "num": 132280,
+        "word": "摩洛哥",
+        "onboard_time": 1694326652,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125046,
+        "num": 125046,
+        "word": "没票看五月天的方式可以多浪漫",
+        "onboard_time": 1694326352,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112976,
+        "num": 112976,
+        "word": "马丽沈腾吃折耳根演我",
+        "onboard_time": 1694316932,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记今年国内考察有条主线#"
+    }
+  }
+}
