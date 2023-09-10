@@ -1,0 +1,410 @@
+{
+  "runTime": 1694331234134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140695,
+        "num": 1140695,
+        "word": "Rose或将和霉霉合作",
+        "onboard_time": 1694327313,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 860760,
+        "num": 860760,
+        "word": "王源像跟着父母应酬的我",
+        "onboard_time": 1694326773,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12257,
+        "num": 842544,
+        "word": "杭州亚运会开幕日恰逢秋分",
+        "onboard_time": 1694331091,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1697833,
+        "num": 791582,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1414415,
+        "num": 780680,
+        "word": "华晨宇演唱会大屏背景是恶评",
+        "onboard_time": 1694323593,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 911100,
+        "num": 743690,
+        "word": "花13000元买的周杰伦演唱会门票被偷",
+        "onboard_time": 1694325333,
+        "rank": 5,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 714633,
+        "num": 714633,
+        "word": "襄阳",
+        "onboard_time": 1694325812,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599292,
+        "num": 599292,
+        "word": "儿子觉得自己家在班里最平凡",
+        "onboard_time": 1694326532,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 505816,
+        "num": 505816,
+        "word": "女大学生差点被裤子单杀",
+        "onboard_time": 1694324493,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363674,
+        "num": 504393,
+        "word": "成毅张予曦吻戏剧照",
+        "onboard_time": 1694330612,
+        "rank": 9,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 503634,
+        "num": 503634,
+        "word": "李鸿其官宣与王紫璇恋情",
+        "onboard_time": 1694302345,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245109,
+        "num": 499965,
+        "word": "怕新生吃不饱老师站着陪吃饭",
+        "onboard_time": 1694329411,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90328,
+        "num": 478543,
+        "word": "张桂梅祝教师朋友们节日快乐",
+        "onboard_time": 1694314653,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89471,
+        "num": 473330,
+        "word": "中国与阿根廷共话丝路情",
+        "onboard_time": 1694327012,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 66709,
+        "num": 453918,
+        "word": "每个老师都有专属的两把刷子",
+        "onboard_time": 1694329234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449090,
+        "num": 449090,
+        "word": "为什么去德国留学的少",
+        "onboard_time": 1694322814,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 425039,
+        "num": 425039,
+        "word": "冯宝宝被人贩子拐卖挑断手脚筋",
+        "onboard_time": 1694308771,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340361,
+        "num": 340361,
+        "word": "这8分钟好像过了十几年",
+        "onboard_time": 1694329472,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 320477,
+        "num": 320477,
+        "word": "华莎接受警方调查",
+        "onboard_time": 1694318554,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293296,
+        "num": 293296,
+        "word": "花花暂停展出",
+        "onboard_time": 1694315975,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285877,
+        "num": 285877,
+        "word": "陈梦王曼昱3比0孙颖莎王艺迪",
+        "onboard_time": 1694329411,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277302,
+        "num": 277302,
+        "word": "襄阳文旅回应游客看表演遭区别对待",
+        "onboard_time": 1694330131,
+        "rank": 21,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 270178,
+        "num": 270178,
+        "word": "张歆艺 这个天赶往鸟巢的都是真的吧",
+        "onboard_time": 1694314532,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261344,
+        "num": 261344,
+        "word": "BLACKPINK路人缘很好的成员",
+        "onboard_time": 1694307271,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233530,
+        "num": 233530,
+        "word": "全嘻嘻 当一个农村女人决定出逃",
+        "onboard_time": 1694321675,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231197,
+        "num": 231197,
+        "word": "DFBOYS",
+        "onboard_time": 1694311712,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227343,
+        "num": 227343,
+        "word": "谷江山 终于现场听到了活死人",
+        "onboard_time": 1694330731,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222534,
+        "num": 222534,
+        "word": "虞书欣卢昱晓台前幕后花絮",
+        "onboard_time": 1694329052,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216109,
+        "num": 216109,
+        "word": "黑执事新作预告",
+        "onboard_time": 1694330071,
+        "rank": 28,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 202528,
+        "num": 202528,
+        "word": "王曼昱亚锦赛三冠王",
+        "onboard_time": 1694331091,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230617,
+        "num": 202456,
+        "word": "塞尔达 你的下一艘船何必只是船",
+        "onboard_time": 1694330131,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229421,
+        "num": 202363,
+        "word": "11岁男孩在叔叔的婚礼上放大招",
+        "onboard_time": 1694330493,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202257,
+        "num": 202257,
+        "word": "张碧晨在脸上镶了个魔镜",
+        "onboard_time": 1694323956,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201375,
+        "num": 201375,
+        "word": "骄阳伴我重庆拍摄地打卡",
+        "onboard_time": 1694330313,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188459,
+        "num": 188459,
+        "word": "咖啡 是一种豆浆",
+        "onboard_time": 1694321074,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186597,
+        "num": 186597,
+        "word": "80后泸州女子一年卖4000万斤萝卜",
+        "onboard_time": 1694330672,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182472,
+        "num": 182472,
+        "word": "韩国人对考试的吐槽",
+        "onboard_time": 1694325452,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175098,
+        "num": 175098,
+        "word": "马思纯现身李荣浩演唱会",
+        "onboard_time": 1694327853,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168332,
+        "num": 168332,
+        "word": "凡晨组合夺中国赛第3冠",
+        "onboard_time": 1694330372,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165152,
+        "num": 165152,
+        "word": "两只黄鹂鸣翠柳 一块布上五条狗",
+        "onboard_time": 1694322573,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162697,
+        "num": 162697,
+        "word": "大学老师害怕打针12年献血4万毫升",
+        "onboard_time": 1694330911,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 160996,
+        "num": 160996,
+        "word": "阿拉斯加海底3300米发现神秘金蛋",
+        "onboard_time": 1694322755,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147855,
+        "num": 147855,
+        "word": "邓超的撕漫男和我们不太一样",
+        "onboard_time": 1694324792,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78228,
+        "num": 146026,
+        "word": "抗美援朝老兵山区教书30多年",
+        "onboard_time": 1694328155,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37509,
+        "num": 145415,
+        "word": "他自己淋过雨所以想为孩子们撑一把伞",
+        "onboard_time": 1694330852,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145160,
+        "num": 145160,
+        "word": "鹤壁地震",
+        "onboard_time": 1694322755,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138219,
+        "num": 138219,
+        "word": "陈梦王曼昱亚锦赛夺冠",
+        "onboard_time": 1694329713,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134598,
+        "num": 134598,
+        "word": "盛阳亲了简冰",
+        "onboard_time": 1694320892,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130745,
+        "num": 130745,
+        "word": "00后民警送80后师父不锈钢锦旗被围观",
+        "onboard_time": 1694326952,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129567,
+        "num": 129567,
+        "word": "最适合今天的图",
+        "onboard_time": 1694327073,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对教师的嘱托与期望#"
+    }
+  }
+}
