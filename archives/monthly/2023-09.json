@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694362833871,
+  "endTime": 1694363800463,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2075673,
+      "num": 2075673,
+      "word": "胡歌 我们也需要票房",
+      "onboard_time": 1694361037,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2070313,
       "num": 2070313,
       "word": "EXO 安踏",
@@ -873,14 +881,6 @@
       "onboard_time": 1694318554,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2033830,
-      "num": 2033830,
-      "word": "胡歌 我们也需要票房",
-      "onboard_time": 1694361037,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2019912,
@@ -5540,7 +5540,7 @@
     },
     {
       "raw_hot": 661096,
-      "num": 300448,
+      "num": 623453,
       "word": "27岁女子极端减肥瘦20斤致闭经1年半",
       "onboard_time": 1694361160,
       "rank": 17,
@@ -11155,6 +11155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 374990,
+      "num": 374990,
+      "word": "DF冲",
+      "onboard_time": 1694361099,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 374987,
       "num": 374987,
       "word": "卷王姬发 陪练邓姐 监工妲己",
@@ -11329,6 +11337,14 @@
       "onboard_time": 1694345433,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369186,
+      "num": 221782,
+      "word": "原来高铁起步这么麻烦",
+      "onboard_time": 1694362177,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 368988,
@@ -13651,6 +13667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 300921,
+      "num": 274058,
+      "word": "波伏娃 女性要保留一定的自由和孤独",
+      "onboard_time": 1694362473,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300878,
       "num": 300878,
       "word": "容祖儿晒其在香港暴雨中开车",
@@ -14739,6 +14763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274007,
+      "num": 274007,
+      "word": "周杰伦上海",
+      "onboard_time": 1694360326,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273904,
       "num": 273904,
       "word": "华为抢不到",
@@ -15203,6 +15235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263359,
+      "num": 263359,
+      "word": "张碧晨唱跳",
+      "onboard_time": 1694362892,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263292,
       "num": 221864,
       "word": "Angelababy张大大走红毯",
@@ -15321,6 +15361,14 @@
       "onboard_time": 1693488216,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261673,
+      "num": 261673,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 261534,
@@ -16921,14 +16969,6 @@
       "onboard_time": 1693909117,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231536,
-      "num": 221782,
-      "word": "原来高铁起步这么麻烦",
-      "onboard_time": 1694362177,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 231458,
@@ -21283,14 +21323,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 182012,
-      "num": 182012,
-      "word": "波伏娃 女性要保留一定的自由和孤独",
-      "onboard_time": 1694362473,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181548,
       "num": 181548,
       "word": "流浪猫的嫁妆",
@@ -24529,6 +24561,14 @@
       "onboard_time": 1693986033,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124468,
+      "num": 124468,
+      "word": "冰尘抓不住的金色雨",
+      "onboard_time": 1694363312,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 124379,

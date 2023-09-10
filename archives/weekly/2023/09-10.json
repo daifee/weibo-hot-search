@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694362833871,
+  "endTime": 1694363800463,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -75,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2075673,
+      "num": 2075673,
+      "word": "胡歌 我们也需要票房",
+      "onboard_time": 1694361037,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2040327,
       "num": 1102463,
       "word": "华莎接受警方调查",
       "onboard_time": 1694318554,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2033830,
-      "num": 2033830,
-      "word": "胡歌 我们也需要票房",
-      "onboard_time": 1694361037,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1972503,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 661096,
-      "num": 300448,
+      "num": 623453,
       "word": "27岁女子极端减肥瘦20斤致闭经1年半",
       "onboard_time": 1694361160,
       "rank": 17,
@@ -1107,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 374990,
+      "num": 374990,
+      "word": "DF冲",
+      "onboard_time": 1694361099,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372271,
       "num": 372271,
       "word": "马龙10年后再夺亚锦赛男单冠军",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1694345433,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369186,
+      "num": 221782,
+      "word": "原来高铁起步这么麻烦",
+      "onboard_time": 1694362177,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 366881,
@@ -1419,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300921,
+      "num": 274058,
+      "word": "波伏娃 女性要保留一定的自由和孤独",
+      "onboard_time": 1694362473,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299991,
       "num": 299991,
       "word": "阿拉斯加海底3300米发现神秘金蛋",
@@ -1531,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274007,
+      "num": 274007,
+      "word": "周杰伦上海",
+      "onboard_time": 1694360326,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271777,
       "num": 271777,
       "word": "已瘦30斤宅家早餐吃什么",
@@ -1603,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263359,
+      "num": 263359,
+      "word": "张碧晨唱跳",
+      "onboard_time": 1694362892,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262725,
       "num": 262725,
       "word": "KPL提词器",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1694274816,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261673,
+      "num": 261673,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 252142,
@@ -1769,14 +1817,6 @@
       "onboard_time": 1694318912,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 231536,
-      "num": 221782,
-      "word": "原来高铁起步这么麻烦",
-      "onboard_time": 1694362177,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 230617,
@@ -2443,14 +2483,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 182012,
-      "num": 182012,
-      "word": "波伏娃 女性要保留一定的自由和孤独",
-      "onboard_time": 1694362473,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180937,
       "num": 113187,
       "word": "教师还是一门好职业吗",
@@ -2913,6 +2945,14 @@
       "onboard_time": 1694327012,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 124468,
+      "num": 124468,
+      "word": "冰尘抓不住的金色雨",
+      "onboard_time": 1694363312,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 121764,

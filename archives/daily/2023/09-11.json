@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694362833871,
+  "endTime": 1694363800463,
   "band_list": [
     {
       "raw_hot": 8439515,
@@ -19,8 +19,8 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 2033830,
-      "num": 2033830,
+      "raw_hot": 2075673,
+      "num": 2075673,
       "word": "胡歌 我们也需要票房",
       "onboard_time": 1694361037,
       "rank": 0,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 661096,
-      "num": 300448,
+      "num": 623453,
       "word": "27岁女子极端减肥瘦20斤致闭经1年半",
       "onboard_time": 1694361160,
       "rank": 17,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374990,
+      "num": 374990,
+      "word": "DF冲",
+      "onboard_time": 1694361099,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373073,
       "num": 373073,
       "word": "九尾",
       "onboard_time": 1694355818,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 369186,
+      "num": 221782,
+      "word": "原来高铁起步这么麻烦",
+      "onboard_time": 1694362177,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 311520,
@@ -145,6 +161,14 @@
       "onboard_time": 1694355220,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300921,
+      "num": 274058,
+      "word": "波伏娃 女性要保留一定的自由和孤独",
+      "onboard_time": 1694362473,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 296182,
@@ -171,6 +195,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274007,
+      "num": 274007,
+      "word": "周杰伦上海",
+      "onboard_time": 1694360326,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 263359,
+      "num": 263359,
+      "word": "张碧晨唱跳",
+      "onboard_time": 1694362892,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 261673,
+      "num": 261673,
+      "word": "Apex",
+      "onboard_time": 1694363071,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261126,
       "num": 261126,
       "word": "余华 你只要把老人写成老人",
@@ -193,14 +241,6 @@
       "onboard_time": 1694360382,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 231536,
-      "num": 221782,
-      "word": "原来高铁起步这么麻烦",
-      "onboard_time": 1694362177,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 223300,
@@ -291,14 +331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182012,
-      "num": 182012,
-      "word": "波伏娃 女性要保留一定的自由和孤独",
-      "onboard_time": 1694362473,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170948,
       "num": 170948,
       "word": "殷商男足",
@@ -371,6 +403,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124468,
+      "num": 124468,
+      "word": "冰尘抓不住的金色雨",
+      "onboard_time": 1694363312,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 121955,
+      "num": 121955,
+      "word": "肖战相信能通过努力证明自己的价值",
+      "onboard_time": 1694350236,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 120500,
+      "num": 120500,
+      "word": "真正男子汉时期的杨幂",
+      "onboard_time": 1694342135,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106834,
       "num": 303944,
       "word": "00后送教师节礼物主打一个笑中带泪",
@@ -406,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平视察78集团军#"
+    },
+    {
+      "word": "#习近平对教师的嘱托与期望#"
     }
   ]
 }
