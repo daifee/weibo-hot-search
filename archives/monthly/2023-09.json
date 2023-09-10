@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694349868476,
+  "endTime": 1694351845633,
   "band_list": [
     {
       "raw_hot": 8806920,
@@ -105,6 +105,14 @@
       "onboard_time": 1693914455,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3707225,
+      "num": 905809,
+      "word": "花西子",
+      "onboard_time": 1694350416,
+      "rank": 3,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 3609493,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 1924229,
-      "num": 429207,
+      "num": 509483,
       "word": "薛之谦演唱会身体原因取消",
       "onboard_time": 1694348433,
       "rank": 11,
@@ -2259,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1202973,
+      "num": 246550,
+      "word": "TTG夺冠",
+      "onboard_time": 1694351739,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1201536,
       "num": 1376587,
       "word": "维密天使 众神回归",
@@ -3219,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943547,
+      "num": 943547,
+      "word": "TTG对战狼队",
+      "onboard_time": 1694335774,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 940506,
       "num": 940506,
       "word": "哪个演员敢拿金熊猫奖",
@@ -3705,6 +3729,14 @@
       "onboard_time": 1694230891,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854874,
+      "num": 506587,
+      "word": "杨紫高洁丝直播",
+      "onboard_time": 1694350594,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 852215,
@@ -6939,6 +6971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554241,
+      "num": 507433,
+      "word": "TTG先到赛点",
+      "onboard_time": 1694349816,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 554083,
       "num": 554083,
       "word": "许绍洋淘汰",
@@ -7009,6 +7049,14 @@
       "onboard_time": 1694055219,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551913,
+      "num": 551913,
+      "word": "肖战相信能通过努力证明自己的价值",
+      "onboard_time": 1694350236,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 551804,
@@ -8884,7 +8932,7 @@
     },
     {
       "raw_hot": 458522,
-      "num": 458522,
+      "num": 508966,
       "word": "中级经济法",
       "onboard_time": 1694259936,
       "rank": 7,
@@ -12603,6 +12651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318340,
+      "num": 318340,
+      "word": "帆帆心率170",
+      "onboard_time": 1694351255,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318107,
       "num": 318107,
       "word": "医学硕士毕业先用另一种方式救人",
@@ -13539,14 +13595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296305,
-      "num": 296305,
-      "word": "TTG对战狼队",
-      "onboard_time": 1694335774,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 295959,
       "num": 295959,
       "word": "杨丞琳说孟子义好难追",
@@ -14148,7 +14196,7 @@
     },
     {
       "raw_hot": 279621,
-      "num": 444586,
+      "num": 512073,
       "word": "马龙说现在赢一场比赛都不容易",
       "onboard_time": 1694345914,
       "rank": 12,
@@ -14867,6 +14915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262725,
+      "num": 262725,
+      "word": "KPL提词器",
+      "onboard_time": 1694349634,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262567,
       "num": 262567,
       "word": "张杰未live巡回演唱会",
@@ -14881,6 +14937,14 @@
       "onboard_time": 1693639414,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 262386,
+      "num": 262386,
+      "word": "爱上倪妮是我的宿命",
+      "onboard_time": 1694350476,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 262253,
@@ -15787,12 +15851,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244027,
+      "num": 244027,
+      "word": "王靖雯 脑子KPL嘴是KPI",
+      "onboard_time": 1694350656,
+      "rank": 31,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 243722,
       "num": 243722,
       "word": "当幼师妈妈有个边界感超强的儿子",
       "onboard_time": 1693751747,
       "rank": 42,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 243690,
+      "num": 243690,
+      "word": "TTG演我心率",
+      "onboard_time": 1694345734,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 243574,
@@ -16347,6 +16427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234183,
+      "num": 234183,
+      "word": "男子抢劫156元分赃30元躲进山洞14年",
+      "onboard_time": 1694351316,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234179,
       "num": 319405,
       "word": "摩洛哥6.9级地震",
@@ -16731,12 +16819,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228372,
+      "num": 228372,
+      "word": "周深唱跳翻唱杀手和不死之身",
+      "onboard_time": 1694348674,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228010,
       "num": 204789,
       "word": "害怕冻掉耳朵的牛牛们",
       "onboard_time": 1694325093,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227518,
+      "num": 227518,
+      "word": "襄阳盛世唐城景区发布致歉信",
+      "onboard_time": 1694349634,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 227516,
@@ -18019,6 +18123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207136,
+      "num": 207136,
+      "word": "想太多会毁掉自己",
+      "onboard_time": 1694350777,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207125,
       "num": 207125,
       "word": "檀健次抖包袱",
@@ -18121,14 +18233,6 @@
       "onboard_time": 1694137713,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206264,
-      "num": 206264,
-      "word": "周深唱跳翻唱杀手和不死之身",
-      "onboard_time": 1694348674,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 206063,
@@ -18796,7 +18900,7 @@
     },
     {
       "raw_hot": 200593,
-      "num": 432312,
+      "num": 510630,
       "word": "杭州亚运火炬传递主题歌燃",
       "onboard_time": 1694348433,
       "rank": 29,
@@ -19449,14 +19553,6 @@
       "onboard_time": 1694003977,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194676,
-      "num": 194676,
-      "word": "TTG演我心率",
-      "onboard_time": 1694345734,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 194661,
@@ -21107,6 +21203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175990,
+      "num": 175990,
+      "word": "阿尔兹海默症老师走失在校门口找到",
+      "onboard_time": 1694350055,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 175685,
       "num": 221362,
       "word": "马龙值得",
@@ -21233,14 +21337,6 @@
       "onboard_time": 1694132617,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174212,
-      "num": 174212,
-      "word": "TTG先到赛点",
-      "onboard_time": 1694349816,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 174183,
@@ -21841,14 +21937,6 @@
       "onboard_time": 1694236775,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 163952,
-      "num": 163952,
-      "word": "KPL提词器",
-      "onboard_time": 1694349634,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 163940,
@@ -22497,14 +22585,6 @@
       "onboard_time": 1693553259,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 152754,
-      "num": 152754,
-      "word": "襄阳盛世唐城景区发布致歉信",
-      "onboard_time": 1694349634,
-      "rank": 46,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 152407,
@@ -25939,6 +26019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41474,
+      "num": 510217,
+      "word": "支教老师我来到了您的大学",
+      "onboard_time": 1694350895,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41439,
       "num": 395408,
       "word": "校长开学首日校门口迎接学生",
@@ -26587,6 +26675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17744,
+      "num": 187452,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17470,
       "num": 23615,
       "word": "排球少年 黑月",
@@ -26663,6 +26759,14 @@
       "num": 1129847,
       "word": "开学季注意防范6类易高发疾病",
       "onboard_time": 1693571497,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5265,
+      "num": 908268,
+      "word": "亚运会场馆水幔设计既典雅又实用",
+      "onboard_time": 1694351799,
       "rank": 2,
       "category": "社会新闻"
     }
