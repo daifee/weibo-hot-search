@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694453645661,
+  "endTime": 1694456489937,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -5155,6 +5155,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 124521,
+      "num": 70089,
+      "word": "副院长猥亵女学生获刑",
+      "onboard_time": 1694452522,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124468,
       "num": 124468,
       "word": "冰尘抓不住的金色雨",
@@ -5443,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70089,
-      "num": 70089,
-      "word": "副院长猥亵女学生获刑",
-      "onboard_time": 1694452522,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68768,
       "num": 68768,
       "word": "试吃最近超火的红魔虾",
@@ -5521,6 +5521,14 @@
       "onboard_time": 1694332831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60545,
+      "num": 60545,
+      "word": "我有事要去jellycat一趟",
+      "onboard_time": 1694454439,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 54903,
@@ -5617,6 +5625,14 @@
       "onboard_time": 1694453299,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 42507,
+      "num": 42507,
+      "word": "沈腾以为白敬亭有舞蹈功底",
+      "onboard_time": 1694454977,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 37509,
