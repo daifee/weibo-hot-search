@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694470527075,
+  "endTime": 1694471613692,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -243,6 +243,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 210127,
+      "num": 134044,
+      "word": "重庆被霸凌女生家属发声",
+      "onboard_time": 1694468174,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191745,
       "num": 191745,
       "word": "爱吃钵钵鸡的四川人沉默了",
@@ -289,6 +297,14 @@
       "onboard_time": 1694448275,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167803,
+      "num": 94415,
+      "word": "重庆一中学女生遭多人殴打逼下跪",
+      "onboard_time": 1694469435,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 157554,
@@ -360,14 +376,6 @@
       "word": "副院长猥亵女学生获刑",
       "onboard_time": 1694452522,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124394,
-      "num": 61200,
-      "word": "重庆被霸凌女生家属发声",
-      "onboard_time": 1694468174,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -443,11 +451,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 59110,
-      "num": 59110,
-      "word": "重庆一中学女生遭多人殴打逼下跪",
-      "onboard_time": 1694469435,
-      "rank": 19,
+      "raw_hot": 70275,
+      "num": 70275,
+      "word": "短暂的网红和长远的工作选哪个",
+      "onboard_time": 1694468354,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 65287,
+      "num": 65287,
+      "word": "官方回应中学女生遭殴打逼下跪",
+      "onboard_time": 1694470819,
+      "rank": 32,
       "category": "社会负面"
     },
     {
@@ -459,12 +475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48861,
-      "num": 56109,
-      "word": "短暂的网红和长远的工作选哪个",
-      "onboard_time": 1694468354,
-      "rank": 30,
-      "category": "网红"
+      "raw_hot": 44713,
+      "num": 56046,
+      "word": "A股",
+      "onboard_time": 1694458635,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 43537,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36660,
+      "num": 56108,
+      "word": "如何告别严重抑郁情绪",
+      "onboard_time": 1694463554,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36335,
       "num": 56011,
       "word": "Rose否认与霉霉合作",
@@ -491,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36311,
-      "num": 56108,
-      "word": "如何告别严重抑郁情绪",
-      "onboard_time": 1694463554,
+      "raw_hot": 36101,
+      "num": 36101,
+      "word": "教育局回应校长讲座PPT现不当言论",
+      "onboard_time": 1694471178,
       "rank": 41,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30341,
@@ -505,14 +529,6 @@
       "onboard_time": 1694456957,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28074,
-      "num": 56046,
-      "word": "A股",
-      "onboard_time": 1694458635,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 26747,

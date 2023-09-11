@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694470527075,
+  "endTime": 1694471613692,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -3723,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210127,
+      "num": 134044,
+      "word": "重庆被霸凌女生家属发声",
+      "onboard_time": 1694468174,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209372,
       "num": 733213,
       "word": "男孩写名字笔顺令人出乎意料",
@@ -4627,6 +4635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167803,
+      "num": 94415,
+      "word": "重庆一中学女生遭多人殴打逼下跪",
+      "onboard_time": 1694469435,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 167766,
       "num": 167766,
       "word": "00后录音系学长组寝室乐队迎新",
@@ -5171,14 +5187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124394,
-      "num": 61200,
-      "word": "重庆被霸凌女生家属发声",
-      "onboard_time": 1694468174,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121764,
       "num": 121764,
       "word": "虞书欣 专业逗牛士",
@@ -5467,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70275,
+      "num": 70275,
+      "word": "短暂的网红和长远的工作选哪个",
+      "onboard_time": 1694468354,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 68768,
       "num": 68768,
       "word": "试吃最近超火的红魔虾",
@@ -5531,20 +5547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65287,
+      "num": 65287,
+      "word": "官方回应中学女生遭殴打逼下跪",
+      "onboard_time": 1694470819,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 65120,
       "num": 346208,
       "word": "高校学生手工做100个黏土花束送老师",
       "onboard_time": 1694332831,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59110,
-      "num": 59110,
-      "word": "重庆一中学女生遭多人殴打逼下跪",
-      "onboard_time": 1694469435,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 54903,
@@ -5603,14 +5619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48861,
-      "num": 56109,
-      "word": "短暂的网红和长远的工作选哪个",
-      "onboard_time": 1694468354,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 47223,
       "num": 880265,
       "word": "夜西湖点燃亚运之夜",
@@ -5641,6 +5649,14 @@
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44713,
+      "num": 56046,
+      "word": "A股",
+      "onboard_time": 1694458635,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 43537,
@@ -5675,6 +5691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36660,
+      "num": 56108,
+      "word": "如何告别严重抑郁情绪",
+      "onboard_time": 1694463554,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36335,
       "num": 56011,
       "word": "Rose否认与霉霉合作",
@@ -5683,12 +5707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36311,
-      "num": 56108,
-      "word": "如何告别严重抑郁情绪",
-      "onboard_time": 1694463554,
+      "raw_hot": 36101,
+      "num": 36101,
+      "word": "教育局回应校长讲座PPT现不当言论",
+      "onboard_time": 1694471178,
       "rank": 41,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35589,
@@ -5753,14 +5777,6 @@
       "onboard_time": 1694444446,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28074,
-      "num": 56046,
-      "word": "A股",
-      "onboard_time": 1694458635,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 24147,
