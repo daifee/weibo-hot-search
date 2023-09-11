@@ -1,10 +1,10 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694399635585,
+  "endTime": 1694402235873,
   "band_list": [
     {
       "raw_hot": 8490912,
-      "num": 313539,
+      "num": 405081,
       "word": "李佳琦就直播言论致歉",
       "onboard_time": 1694387725,
       "rank": 16,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 8439515,
-      "num": 312056,
+      "num": 329822,
       "word": "李佳琦说找不到以前状态了",
       "onboard_time": 1694356359,
       "rank": 10,
@@ -28,11 +28,27 @@
     },
     {
       "raw_hot": 3205391,
-      "num": 312742,
+      "num": 393486,
       "word": "何不食肉糜 尊重与边界感",
       "onboard_time": 1694397755,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2735969,
+      "num": 384767,
+      "word": "花西子 打工人专属货币单位",
+      "onboard_time": 1694400582,
+      "rank": 16,
+      "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 2527144,
+      "num": 885173,
+      "word": "张杰 我女儿有三个为什么朋友不能有三个",
+      "onboard_time": 1694399197,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2158757,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 1833932,
-      "num": 267646,
+      "num": 286022,
       "word": "你接受李佳琦的道歉吗",
       "onboard_time": 1694394997,
       "rank": 16,
@@ -91,12 +107,28 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 1369969,
+      "num": 275924,
+      "word": "花西子回应李佳琦网传高佣金",
+      "onboard_time": 1694401298,
+      "rank": 25,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1193202,
-      "num": 313286,
+      "num": 333391,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1694393797,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1149748,
+      "num": 1149748,
+      "word": "日本核污染水首次排海今日结束",
+      "onboard_time": 1694398115,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1134576,
@@ -131,14 +163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 896232,
-      "num": 896232,
-      "word": "日本核污染水首次排海今日结束",
-      "onboard_time": 1694398115,
-      "rank": 14,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 845765,
       "num": 267869,
       "word": "李佳琦 付鹏",
@@ -153,6 +177,22 @@
       "onboard_time": 1694347655,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 799759,
+      "num": 211295,
+      "word": "花西子20%以上营收来自李佳琦",
+      "onboard_time": 1694401539,
+      "rank": 37,
+      "category": "财经,网红"
+    },
+    {
+      "raw_hot": 777516,
+      "num": 777516,
+      "word": "父亲藏女儿高中录取通知书17年",
+      "onboard_time": 1694399919,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 752619,
@@ -177,14 +217,6 @@
       "onboard_time": 1694359601,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 716543,
-      "num": 269511,
-      "word": "张杰 我女儿有三个为什么朋友不能有三个",
-      "onboard_time": 1694399197,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 710956,
@@ -235,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543702,
+      "num": 543702,
+      "word": "华为Mate 60 Pro一周体验",
+      "onboard_time": 1694398296,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 542585,
       "num": 299757,
       "word": "丞磊卢昱晓大大方方营业",
       "onboard_time": 1694356359,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 540086,
+      "num": 397560,
+      "word": "东方甄选回应主播称918是个好日子",
+      "onboard_time": 1694401411,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530992,
@@ -299,20 +347,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 456770,
-      "num": 456770,
-      "word": "华为Mate 60 Pro一周体验",
-      "onboard_time": 1694398296,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 445582,
       "num": 445582,
       "word": "周杰伦嘉宾",
       "onboard_time": 1694356297,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 432618,
+      "num": 432618,
+      "word": "宫尚角沦陷了",
+      "onboard_time": 1694400278,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 430853,
@@ -355,12 +403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 405703,
+      "num": 226656,
+      "word": "中科大怎么毕业了你出秘方了",
+      "onboard_time": 1694401000,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 393112,
       "num": 294292,
       "word": "性格内向的人看起来会更显小",
       "onboard_time": 1694374216,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388212,
+      "num": 388212,
+      "word": "周杰伦终于给张彬彬送门票了吗",
+      "onboard_time": 1694400942,
+      "rank": 15,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 381469,
@@ -411,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354771,
+      "num": 354771,
+      "word": "男生和女生坐副驾驶的区别",
+      "onboard_time": 1694400640,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340128,
       "num": 340128,
       "word": "德约科维奇vs梅德韦杰夫",
@@ -433,6 +505,14 @@
       "onboard_time": 1694392720,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324172,
+      "num": 324172,
+      "word": "刘雨昕罚自己多写几遍祝字",
+      "onboard_time": 1694399561,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 318562,
@@ -507,6 +587,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286554,
+      "num": 286554,
+      "word": "东方甄选主播直播时称918是个好日子",
+      "onboard_time": 1694401298,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283316,
+      "num": 283316,
+      "word": "国航机长空中呼救通话曝光",
+      "onboard_time": 1694400522,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277892,
+      "num": 277892,
+      "word": "彭昱畅哭戏含泪下跪",
+      "onboard_time": 1694401782,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274007,
       "num": 274007,
       "word": "周杰伦上海",
@@ -540,7 +644,7 @@
     },
     {
       "raw_hot": 260051,
-      "num": 260051,
+      "num": 391222,
       "word": "发现间谍行为就打12339",
       "onboard_time": 1694398175,
       "rank": 19,
@@ -611,6 +715,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 228108,
+      "num": 228108,
+      "word": "周一好像没那么难熬了",
+      "onboard_time": 1694401738,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223300,
       "num": 223300,
       "word": "刘雨昕把祝多写了一点",
@@ -649,6 +761,14 @@
       "onboard_time": 1694360382,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 213519,
+      "num": 213519,
+      "word": "当裤子太大而我没有皮带时",
+      "onboard_time": 1694400699,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 211683,
@@ -803,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169131,
+      "num": 169131,
+      "word": "想看叶流西和雪莉杨一起探险",
+      "onboard_time": 1694401355,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169028,
       "num": 169028,
       "word": "德约科维奇美网四冠王",
@@ -825,6 +953,22 @@
       "onboard_time": 1694394997,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165344,
+      "num": 165344,
+      "word": "Note13",
+      "onboard_time": 1694400877,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 164015,
+      "num": 164015,
+      "word": "西出玉门下沙子了",
+      "onboard_time": 1694400039,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 162883,
@@ -945,14 +1089,6 @@
       "onboard_time": 1694358161,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136895,
-      "num": 136895,
-      "word": "刘雨昕罚自己多写几遍祝字",
-      "onboard_time": 1694399561,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 132702,
