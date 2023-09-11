@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694474249612,
+  "endTime": 1694475241508,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -441,6 +441,14 @@
       "onboard_time": 1694436593,
       "rank": 21,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1488092,
+      "num": 273627,
+      "word": "李佳琦",
+      "onboard_time": 1694474430,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1465120,
@@ -1203,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 616023,
+      "num": 271346,
+      "word": "萧敬腾 求雨",
+      "onboard_time": 1694474370,
+      "rank": 16,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 614080,
       "num": 614080,
       "word": "张远一开口莲花楼DNA动了",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1694440484,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 611506,
+      "num": 270398,
+      "word": "重庆一中学女生遭多人殴打逼下跪",
+      "onboard_time": 1694469435,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 610545,
@@ -1641,14 +1665,6 @@
       "onboard_time": 1694318851,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 466932,
-      "num": 199747,
-      "word": "重庆一中学女生遭多人殴打逼下跪",
-      "onboard_time": 1694469435,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 466297,
@@ -2691,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303112,
+      "num": 342395,
+      "word": "女孩因外貌质疑自己妈妈拥吻回应",
+      "onboard_time": 1694443187,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301729,
       "num": 301729,
       "word": "厦门机场偶遇卡琳娜仲尼",
@@ -3137,14 +3161,6 @@
       "onboard_time": 1694430219,
       "rank": 35,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 257303,
-      "num": 342395,
-      "word": "女孩因外貌质疑自己妈妈拥吻回应",
-      "onboard_time": 1694443187,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256203,
@@ -3683,6 +3699,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 215653,
+      "num": 215653,
+      "word": "教育局回应校长讲座PPT现不当言论",
+      "onboard_time": 1694471178,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214948,
       "num": 214948,
       "word": "梁洁郭俊辰新剧杀青",
@@ -3995,14 +4019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200438,
-      "num": 132063,
-      "word": "教育局回应校长讲座PPT现不当言论",
-      "onboard_time": 1694471178,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200419,
       "num": 234323,
       "word": "重庆暴雨",
@@ -4217,6 +4233,14 @@
       "onboard_time": 1694433763,
       "rank": 38,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 190265,
+      "num": 190265,
+      "word": "葡萄牙9比0卢森堡",
+      "onboard_time": 1694473827,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 187960,
@@ -4619,12 +4643,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169337,
+      "num": 272433,
+      "word": "2岁男童山中走失一夜获救",
+      "onboard_time": 1694474128,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "想看叶流西和雪莉杨一起探险",
       "onboard_time": 1694401355,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169112,
+      "num": 169112,
+      "word": "短暂的网红和长远的工作选哪个",
+      "onboard_time": 1694468354,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 169040,
@@ -5027,14 +5067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138923,
-      "num": 138923,
-      "word": "短暂的网红和长远的工作选哪个",
-      "onboard_time": 1694468354,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 138835,
       "num": 138835,
       "word": "这当爹的心态都要崩了",
@@ -5211,6 +5243,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120096,
+      "num": 120096,
+      "word": "官方回应中学女生遭殴打逼下跪",
+      "onboard_time": 1694470819,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 119084,
+      "num": 119084,
+      "word": "A股",
+      "onboard_time": 1694458635,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118906,
       "num": 462120,
       "word": "白俄罗斯姑娘拯救了中国胃",
@@ -5257,14 +5305,6 @@
       "onboard_time": 1694331271,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 110689,
-      "num": 110689,
-      "word": "官方回应中学女生遭殴打逼下跪",
-      "onboard_time": 1694470819,
-      "rank": 32,
-      "category": "社会负面"
     },
     {
       "raw_hot": 109992,
@@ -5321,22 +5361,6 @@
       "onboard_time": 1694328155,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105246,
-      "num": 105246,
-      "word": "葡萄牙9比0卢森堡",
-      "onboard_time": 1694473827,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105064,
-      "num": 105064,
-      "word": "A股",
-      "onboard_time": 1694458635,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 105048,
@@ -5435,6 +5459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89672,
+      "num": 89672,
+      "word": "Rose否认与霉霉合作",
+      "onboard_time": 1694460855,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89455,
       "num": 1595322,
       "word": "亚运会场馆水幔设计既典雅又实用",
@@ -5505,14 +5537,6 @@
       "onboard_time": 1694419234,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71647,
-      "num": 71647,
-      "word": "Rose否认与霉霉合作",
-      "onboard_time": 1694460855,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 71141,
@@ -5595,14 +5619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61787,
-      "num": 85248,
-      "word": "2岁男童山中走失一夜获救",
-      "onboard_time": 1694474128,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54903,
       "num": 1200363,
       "word": "微观杭州亚运会",
@@ -5643,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51059,
+      "num": 134394,
+      "word": "妈妈送女儿到学校报到后偷偷落泪",
+      "onboard_time": 1694473464,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50519,
       "num": 327922,
       "word": "摩托车大侠怒追逃逸车还破了个案",
@@ -5657,14 +5681,6 @@
       "onboard_time": 1694452702,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50220,
-      "num": 134394,
-      "word": "妈妈送女儿到学校报到后偷偷落泪",
-      "onboard_time": 1694473464,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47223,

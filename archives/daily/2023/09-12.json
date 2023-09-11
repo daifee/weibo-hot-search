@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694474249612,
+  "endTime": 1694475241508,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -24,6 +24,14 @@
       "word": "李佳琦掉粉",
       "onboard_time": 1694424100,
       "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1488092,
+      "num": 273627,
+      "word": "李佳琦",
+      "onboard_time": 1694474430,
+      "rank": 12,
       "category": "网红"
     },
     {
@@ -59,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705638,
+      "raw_hot": 812775,
       "num": 324698,
       "word": "父亲到校将猥亵女儿的副院长打伤",
       "onboard_time": 1694434721,
@@ -83,6 +91,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 616023,
+      "num": 271346,
+      "word": "萧敬腾 求雨",
+      "onboard_time": 1694474370,
+      "rank": 16,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 611506,
+      "num": 270398,
+      "word": "重庆一中学女生遭多人殴打逼下跪",
+      "onboard_time": 1694469435,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 531891,
       "num": 531891,
       "word": "薛之谦跪着向歌迷道歉",
@@ -99,20 +123,20 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 466932,
-      "num": 199747,
-      "word": "重庆一中学女生遭多人殴打逼下跪",
-      "onboard_time": 1694469435,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 427146,
       "num": 427146,
       "word": "戒咖啡两个月后",
       "onboard_time": 1694425360,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 419632,
+      "num": 419632,
+      "word": "男人吃醋的时候不分理由只看性别",
+      "onboard_time": 1694441809,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 389517,
@@ -129,14 +153,6 @@
       "onboard_time": 1694432622,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382509,
-      "num": 382509,
-      "word": "男人吃醋的时候不分理由只看性别",
-      "onboard_time": 1694441809,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 382385,
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 308635,
-      "num": 220198,
+      "num": 264110,
       "word": "李佳琦1月内5次带货花西子",
       "onboard_time": 1694429381,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 303112,
+      "num": 342395,
+      "word": "女孩因外貌质疑自己妈妈拥吻回应",
+      "onboard_time": 1694443187,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301729,
@@ -227,14 +251,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 257303,
-      "num": 342395,
-      "word": "女孩因外貌质疑自己妈妈拥吻回应",
-      "onboard_time": 1694443187,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242588,
       "num": 242588,
       "word": "田嘉瑞看金靖演戏看哭了",
@@ -259,8 +275,8 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 200438,
-      "num": 132063,
+      "raw_hot": 215653,
+      "num": 215653,
       "word": "教育局回应校长讲座PPT现不当言论",
       "onboard_time": 1694471178,
       "rank": 41,
@@ -273,6 +289,14 @@
       "onboard_time": 1694432859,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190265,
+      "num": 190265,
+      "word": "葡萄牙9比0卢森堡",
+      "onboard_time": 1694473827,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 184336,
@@ -289,6 +313,14 @@
       "onboard_time": 1694447079,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180441,
+      "num": 340348,
+      "word": "1982元的中秋礼盒仅有两粒月饼",
+      "onboard_time": 1694440370,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179820,
@@ -315,20 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169337,
+      "num": 272433,
+      "word": "2岁男童山中走失一夜获救",
+      "onboard_time": 1694474128,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169112,
+      "num": 169112,
+      "word": "短暂的网红和长远的工作选哪个",
+      "onboard_time": 1694468354,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157554,
       "num": 157554,
       "word": "逍遥散人官宣恋爱",
       "onboard_time": 1694426021,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145051,
-      "num": 340348,
-      "word": "1982元的中秋礼盒仅有两粒月饼",
-      "onboard_time": 1694440370,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145026,
@@ -353,14 +393,6 @@
       "onboard_time": 1694443485,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138923,
-      "num": 138923,
-      "word": "短暂的网红和长远的工作选哪个",
-      "onboard_time": 1694468354,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 138706,
@@ -393,6 +425,22 @@
       "onboard_time": 1694452522,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120096,
+      "num": 120096,
+      "word": "官方回应中学女生遭殴打逼下跪",
+      "onboard_time": 1694470819,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 119084,
+      "num": 119084,
+      "word": "A股",
+      "onboard_time": 1694458635,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 117963,
@@ -435,30 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110689,
-      "num": 110689,
-      "word": "官方回应中学女生遭殴打逼下跪",
-      "onboard_time": 1694470819,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 105246,
-      "num": 105246,
-      "word": "葡萄牙9比0卢森堡",
-      "onboard_time": 1694473827,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105064,
-      "num": 105064,
-      "word": "A股",
-      "onboard_time": 1694458635,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "五月天林俊杰双向奔赴",
@@ -491,19 +515,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71647,
-      "num": 71647,
+      "raw_hot": 89672,
+      "num": 89672,
       "word": "Rose否认与霉霉合作",
       "onboard_time": 1694460855,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 61787,
-      "num": 85248,
-      "word": "2岁男童山中走失一夜获救",
-      "onboard_time": 1694474128,
-      "rank": 39,
+      "raw_hot": 51059,
+      "num": 134394,
+      "word": "妈妈送女儿到学校报到后偷偷落泪",
+      "onboard_time": 1694473464,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -513,14 +537,6 @@
       "onboard_time": 1694452702,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50220,
-      "num": 134394,
-      "word": "妈妈送女儿到学校报到后偷偷落泪",
-      "onboard_time": 1694473464,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43537,
@@ -571,7 +587,7 @@
       "category": "其它"
     },
     {
-      "raw_hot": 9207,
+      "raw_hot": 10611,
       "num": 450294,
       "word": "2023年国家网络安全宣传周",
       "onboard_time": 1694402381,

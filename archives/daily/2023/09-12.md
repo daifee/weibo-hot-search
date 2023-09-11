@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/12 00:22:02 ~ 2023/09/12 07:17:29
+本榜单时间：2023/09/12 00:22:02 ~ 2023/09/12 07:34:01
 </p>
 </blockquote>
 <p>
@@ -33,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%23" target="weibo">
+李佳琦（热度：1488092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%89%E5%BE%9779%E5%85%83%E7%9C%89%E7%AC%94%E8%B4%B5%E6%98%AF%E4%B8%8D%E5%A4%9F%E5%8A%AA%E5%8A%9B%E8%BF%99%E8%AF%9D%E5%A4%AA%E7%A6%BB%E8%B0%B1%23" target="weibo">
 觉得79元眉笔贵是不够努力这话太离谱（热度：1412821）
 </a>
@@ -58,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%88%B0%E6%A0%A1%E5%B0%86%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%84%BF%E7%9A%84%E5%89%AF%E9%99%A2%E9%95%BF%E6%89%93%E4%BC%A4%23" target="weibo">
-父亲到校将猥亵女儿的副院长打伤（热度：705638）
+父亲到校将猥亵女儿的副院长打伤（热度：812775）
 </a>
 </li>
 
@@ -75,6 +81,18 @@ iPhone15有15项变化（热度：687217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%20%E6%B1%82%E9%9B%A8%23" target="weibo">
+萧敬腾 求雨（热度：616023）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%E9%80%BC%E4%B8%8B%E8%B7%AA%23" target="weibo">
+重庆一中学女生遭多人殴打逼下跪（热度：611506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89%23" target="weibo">
 薛之谦跪着向歌迷道歉（热度：531891）
 </a>
@@ -87,14 +105,14 @@ iPhone15有15项变化（热度：687217）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%E9%80%BC%E4%B8%8B%E8%B7%AA%23" target="weibo">
-重庆一中学女生遭多人殴打逼下跪（热度：466932）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%92%E5%92%96%E5%95%A1%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E%23" target="weibo">
+戒咖啡两个月后（热度：427146）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%92%E5%92%96%E5%95%A1%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E%23" target="weibo">
-戒咖啡两个月后（热度：427146）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%BA%BA%E5%90%83%E9%86%8B%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E5%88%86%E7%90%86%E7%94%B1%E5%8F%AA%E7%9C%8B%E6%80%A7%E5%88%AB%23" target="weibo">
+男人吃醋的时候不分理由只看性别（热度：419632）
 </a>
 </li>
 
@@ -107,12 +125,6 @@ iPhone15有15项变化（热度：687217）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%86%9B%E8%AE%AD%E6%9C%8D%E9%80%8F%E6%98%8E%E5%87%A0%E4%B9%8E%E9%9C%B2%E5%87%BA%E5%86%85%E8%A3%A4%23" target="weibo">
 女大学生称军训服透明几乎露出内裤（热度：385220）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%BA%BA%E5%90%83%E9%86%8B%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E5%88%86%E7%90%86%E7%94%B1%E5%8F%AA%E7%9C%8B%E6%80%A7%E5%88%AB%23" target="weibo">
-男人吃醋的时候不分理由只看性别（热度：382509）
 </a>
 </li>
 
@@ -159,6 +171,12 @@ iPhone15有15项变化（热度：687217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%A4%96%E8%B2%8C%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%E5%9B%9E%E5%BA%94%23" target="weibo">
+女孩因外貌质疑自己妈妈拥吻回应（热度：303112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9C%BA%E5%9C%BA%E5%81%B6%E9%81%87%E5%8D%A1%E7%90%B3%E5%A8%9C%E4%BB%B2%E5%B0%BC%23" target="weibo">
 厦门机场偶遇卡琳娜仲尼（热度：301729）
 </a>
@@ -183,12 +201,6 @@ Somi大大的眼睛大大的疑惑（热度：266112）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%A4%96%E8%B2%8C%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%E5%9B%9E%E5%BA%94%23" target="weibo">
-女孩因外貌质疑自己妈妈拥吻回应（热度：257303）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E7%9C%8B%E9%87%91%E9%9D%96%E6%BC%94%E6%88%8F%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
 田嘉瑞看金靖演戏看哭了（热度：242588）
 </a>
@@ -208,13 +220,19 @@ Somi大大的眼睛大大的疑惑（热度：266112）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E9%95%BF%E8%AE%B2%E5%BA%A7PPT%E7%8E%B0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23" target="weibo">
-教育局回应校长讲座PPT现不当言论（热度：200438）
+教育局回应校长讲座PPT现不当言论（热度：215653）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E9%92%B5%E9%92%B5%E9%B8%A1%E7%9A%84%E5%9B%9B%E5%B7%9D%E4%BA%BA%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
 爱吃钵钵鸡的四川人沉默了（热度：191745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%999%E6%AF%940%E5%8D%A2%E6%A3%AE%E5%A0%A1%23" target="weibo">
+葡萄牙9比0卢森堡（热度：190265）
 </a>
 </li>
 
@@ -227,6 +245,12 @@ Somi大大的眼睛大大的疑惑（热度：266112）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%80%E5%86%B0%E5%A5%B9%E6%80%A5%E4%BA%86%23" target="weibo">
 简冰她急了（热度：183695）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231982%E5%85%83%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A4%BC%E7%9B%92%E4%BB%85%E6%9C%89%E4%B8%A4%E7%B2%92%E6%9C%88%E9%A5%BC%23" target="weibo">
+1982元的中秋礼盒仅有两粒月饼（热度：180441）
 </a>
 </li>
 
@@ -249,14 +273,20 @@ Somi大大的眼睛大大的疑惑（热度：266112）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%E6%95%A3%E4%BA%BA%E5%AE%98%E5%AE%A3%E6%81%8B%E7%88%B1%23" target="weibo">
-逍遥散人官宣恋爱（热度：157554）
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E7%AB%A5%E5%B1%B1%E4%B8%AD%E8%B5%B0%E5%A4%B1%E4%B8%80%E5%A4%9C%E8%8E%B7%E6%95%91%23" target="weibo">
+2岁男童山中走失一夜获救（热度：169337）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%231982%E5%85%83%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A4%BC%E7%9B%92%E4%BB%85%E6%9C%89%E4%B8%A4%E7%B2%92%E6%9C%88%E9%A5%BC%23" target="weibo">
-1982元的中秋礼盒仅有两粒月饼（热度：145051）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E6%9A%82%E7%9A%84%E7%BD%91%E7%BA%A2%E5%92%8C%E9%95%BF%E8%BF%9C%E7%9A%84%E5%B7%A5%E4%BD%9C%E9%80%89%E5%93%AA%E4%B8%AA%23" target="weibo">
+短暂的网红和长远的工作选哪个（热度：169112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%E6%95%A3%E4%BA%BA%E5%AE%98%E5%AE%A3%E6%81%8B%E7%88%B1%23" target="weibo">
+逍遥散人官宣恋爱（热度：157554）
 </a>
 </li>
 
@@ -275,12 +305,6 @@ Somi大大的眼睛大大的疑惑（热度：266112）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23RichBrian%E8%A6%81%E6%9D%A5%E6%88%90%E9%83%BD%E4%BA%86%23" target="weibo">
 RichBrian要来成都了（热度：139751）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E6%9A%82%E7%9A%84%E7%BD%91%E7%BA%A2%E5%92%8C%E9%95%BF%E8%BF%9C%E7%9A%84%E5%B7%A5%E4%BD%9C%E9%80%89%E5%93%AA%E4%B8%AA%23" target="weibo">
-短暂的网红和长远的工作选哪个（热度：138923）
 </a>
 </li>
 
@@ -305,6 +329,18 @@ RichBrian要来成都了（热度：139751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E9%99%A2%E9%95%BF%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%88%91%23" target="weibo">
 副院长猥亵女学生获刑（热度：124521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E6%AE%B4%E6%89%93%E9%80%BC%E4%B8%8B%E8%B7%AA%23" target="weibo">
+官方回应中学女生遭殴打逼下跪（热度：120096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
+A股（热度：119084）
 </a>
 </li>
 
@@ -339,24 +375,6 @@ Yamy被判赔偿前经纪公司100万（热度：111970）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E6%AE%B4%E6%89%93%E9%80%BC%E4%B8%8B%E8%B7%AA%23" target="weibo">
-官方回应中学女生遭殴打逼下跪（热度：110689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%999%E6%AF%940%E5%8D%A2%E6%A3%AE%E5%A0%A1%23" target="weibo">
-葡萄牙9比0卢森堡（热度：105246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：105064）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23" target="weibo">
 五月天林俊杰双向奔赴（热度：103771）
 </a>
@@ -382,25 +400,19 @@ A股（热度：105064）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Rose%E5%90%A6%E8%AE%A4%E4%B8%8E%E9%9C%89%E9%9C%89%E5%90%88%E4%BD%9C%23" target="weibo">
-Rose否认与霉霉合作（热度：71647）
+Rose否认与霉霉合作（热度：89672）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E7%AB%A5%E5%B1%B1%E4%B8%AD%E8%B5%B0%E5%A4%B1%E4%B8%80%E5%A4%9C%E8%8E%B7%E6%95%91%23" target="weibo">
-2岁男童山中走失一夜获救（热度：61787）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%80%81%E5%A5%B3%E5%84%BF%E5%88%B0%E5%AD%A6%E6%A0%A1%E6%8A%A5%E5%88%B0%E5%90%8E%E5%81%B7%E5%81%B7%E8%90%BD%E6%B3%AA%23" target="weibo">
+妈妈送女儿到学校报到后偷偷落泪（热度：51059）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E8%80%B6%E8%80%B6%E5%81%9A%E7%94%B5%E9%A5%AD%E7%85%B2%E6%96%99%E7%90%86%23" target="weibo">
 给耶耶做电饭煲料理（热度：50303）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%80%81%E5%A5%B3%E5%84%BF%E5%88%B0%E5%AD%A6%E6%A0%A1%E6%8A%A5%E5%88%B0%E5%90%8E%E5%81%B7%E5%81%B7%E8%90%BD%E6%B3%AA%23" target="weibo">
-妈妈送女儿到学校报到后偷偷落泪（热度：50220）
 </a>
 </li>
 
@@ -442,7 +454,7 @@ Rose否认与霉霉合作（热度：71647）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23" target="weibo">
-2023年国家网络安全宣传周（热度：9207）
+2023年国家网络安全宣传周（热度：10611）
 </a>
 </li>
 
