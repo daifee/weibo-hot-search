@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694394703722,
+  "endTime": 1694395915653,
   "band_list": [
     {
       "raw_hot": 8490912,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3744671,
-      "num": 3989342,
+      "raw_hot": 3797739,
+      "num": 4095479,
       "word": "美国功勋间谍在华落网",
       "onboard_time": 1694390740,
       "rank": 0,
@@ -51,11 +51,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1833932,
+      "num": 267646,
+      "word": "你接受李佳琦的道歉吗",
+      "onboard_time": 1694394997,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1193202,
+      "num": 305068,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1694393797,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1134576,
       "num": 978753,
       "word": "国货难带和尊重消费者是两码事",
       "onboard_time": 1694357325,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 991465,
+      "num": 300436,
+      "word": "胡锡进 尊重收入不高的劳动者",
+      "onboard_time": 1694393441,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -67,12 +91,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 903194,
-      "num": 300436,
-      "word": "胡锡进 尊重收入不高的劳动者",
-      "onboard_time": 1694393441,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 845765,
+      "num": 267869,
+      "word": "李佳琦 付鹏",
+      "onboard_time": 1694395656,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 813589,
@@ -171,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523991,
-      "num": 305068,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1694393797,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 490080,
+      "num": 267151,
+      "word": "李佳琦变了吗",
+      "onboard_time": 1694394997,
+      "rank": 25,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 485741,
@@ -187,12 +211,28 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 480948,
+      "num": 480948,
+      "word": "美国911事件22周年",
+      "onboard_time": 1694393136,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464307,
       "num": 297705,
       "word": "吐槽商品贵等于工作不努力吗",
       "onboard_time": 1694388932,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 450277,
+      "num": 267576,
+      "word": "一线医护人员工资降得厉害",
+      "onboard_time": 1694395056,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445582,
@@ -208,14 +248,6 @@
       "word": "警号253689请回答",
       "onboard_time": 1694366602,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417048,
-      "num": 417048,
-      "word": "美国911事件22周年",
-      "onboard_time": 1694393136,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -289,6 +321,14 @@
       "onboard_time": 1694362177,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 356230,
+      "num": 267509,
+      "word": "宫尚角的寝衣",
+      "onboard_time": 1694395296,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 340128,
@@ -435,8 +475,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243911,
+      "num": 243911,
+      "word": "娘子与我有夙世的姻缘",
+      "onboard_time": 1694395837,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238254,
-      "num": 219634,
+      "num": 232131,
       "word": "火树晒刚抽的蒲熠星",
       "onboard_time": 1694394040,
       "rank": 30,
@@ -515,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206288,
+      "num": 206288,
+      "word": "摩洛哥地震瞬间画面看得揪心",
+      "onboard_time": 1694394397,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 205681,
       "num": 205681,
       "word": "塞尔维亚没有约基奇也这么强",
@@ -537,6 +593,14 @@
       "onboard_time": 1694345313,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204191,
+      "num": 204191,
+      "word": "重庆人吃这么油不会长痘吗",
+      "onboard_time": 1694395177,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 202960,
@@ -587,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177881,
+      "num": 177881,
+      "word": "不要嘲讽穷人",
+      "onboard_time": 1694395715,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177036,
       "num": 177036,
       "word": "白桃星座",
@@ -609,6 +681,14 @@
       "onboard_time": 1694389892,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166598,
+      "num": 166598,
+      "word": "当代父母是会阴阳人的",
+      "onboard_time": 1694394997,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 162883,
@@ -649,14 +729,6 @@
       "onboard_time": 1694344774,
       "rank": 44,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 156371,
-      "num": 156371,
-      "word": "摩洛哥地震瞬间画面看得揪心",
-      "onboard_time": 1694394397,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 154208,

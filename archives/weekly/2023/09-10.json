@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694394703722,
+  "endTime": 1694395915653,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -43,8 +43,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 3744671,
-      "num": 3989342,
+      "raw_hot": 3797739,
+      "num": 4095479,
       "word": "美国功勋间谍在华落网",
       "onboard_time": 1694390740,
       "rank": 0,
@@ -145,6 +145,14 @@
       "onboard_time": 1694323593,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1833932,
+      "num": 267646,
+      "word": "你接受李佳琦的道歉吗",
+      "onboard_time": 1694394997,
+      "rank": 16,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1743895,
@@ -267,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1193202,
+      "num": 305068,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1694393797,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1183529,
       "num": 810021,
       "word": "爱思领证了",
@@ -355,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 991465,
+      "num": 300436,
+      "word": "胡锡进 尊重收入不高的劳动者",
+      "onboard_time": 1694393441,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976290,
       "num": 976290,
       "word": "TTG金色雨",
@@ -411,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 903194,
-      "num": 300436,
-      "word": "胡锡进 尊重收入不高的劳动者",
-      "onboard_time": 1694393441,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 871541,
       "num": 344005,
       "word": "断亲现象为何如此流行",
@@ -465,6 +481,14 @@
       "onboard_time": 1694350594,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845765,
+      "num": 267869,
+      "word": "李佳琦 付鹏",
+      "onboard_time": 1694395656,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 816053,
@@ -803,14 +827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 523991,
-      "num": 305068,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1694393797,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 506726,
       "num": 506726,
       "word": "你还在买余额宝吗",
@@ -859,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 490080,
+      "num": 267151,
+      "word": "李佳琦变了吗",
+      "onboard_time": 1694394997,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 489267,
       "num": 489267,
       "word": "盛阳亲了简冰",
@@ -889,6 +913,14 @@
       "onboard_time": 1694338293,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480948,
+      "num": 480948,
+      "word": "美国911事件22周年",
+      "onboard_time": 1694393136,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476937,
@@ -987,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450277,
+      "num": 267576,
+      "word": "一线医护人员工资降得厉害",
+      "onboard_time": 1694395056,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439390,
       "num": 372947,
       "word": "翻译一下乌尔善发过的照片",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1694318076,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417048,
-      "num": 417048,
-      "word": "美国911事件22周年",
-      "onboard_time": 1694393136,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416889,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1694358161,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356230,
+      "num": 267509,
+      "word": "宫尚角的寝衣",
+      "onboard_time": 1694395296,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 351640,
@@ -1923,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243911,
+      "num": 243911,
+      "word": "娘子与我有夙世的姻缘",
+      "onboard_time": 1694395837,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243690,
       "num": 243690,
       "word": "TTG演我心率",
@@ -1972,7 +2020,7 @@
     },
     {
       "raw_hot": 238254,
-      "num": 219634,
+      "num": 232131,
       "word": "火树晒刚抽的蒲熠星",
       "onboard_time": 1694394040,
       "rank": 30,
@@ -2299,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206288,
+      "num": 206288,
+      "word": "摩洛哥地震瞬间画面看得揪心",
+      "onboard_time": 1694394397,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 205998,
       "num": 205998,
       "word": "KPL总决赛",
@@ -2361,6 +2417,14 @@
       "onboard_time": 1694354557,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204191,
+      "num": 204191,
+      "word": "重庆人吃这么油不会长痘吗",
+      "onboard_time": 1694395177,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 203852,
@@ -2755,6 +2819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177881,
+      "num": 177881,
+      "word": "不要嘲讽穷人",
+      "onboard_time": 1694395715,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177443,
       "num": 177443,
       "word": "蓝战非发视频吐槽看表演遭区别对待",
@@ -2891,6 +2963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166598,
+      "num": 166598,
+      "word": "当代父母是会阴阳人的",
+      "onboard_time": 1694394997,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164430,
       "num": 164430,
       "word": "肖战田雨20集终于见面了",
@@ -2953,14 +3033,6 @@
       "onboard_time": 1694335116,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156371,
-      "num": 156371,
-      "word": "摩洛哥地震瞬间画面看得揪心",
-      "onboard_time": 1694394397,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 154490,
