@@ -1,12 +1,20 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694438469216,
+  "endTime": 1694439221240,
   "band_list": [
     {
       "raw_hot": 21659696,
       "num": 21659696,
       "word": "李佳琦哭着道歉",
       "onboard_time": 1694435444,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 8555035,
+      "num": 421555,
+      "word": "李佳琦哭完继续带货",
+      "onboard_time": 1694438631,
       "rank": 10,
       "category": "网红"
     },
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1257563,
+      "num": 540790,
+      "word": "觉得79元眉笔贵是不够努力这话太离谱",
+      "onboard_time": 1694436593,
+      "rank": 21,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1193202,
       "num": 333391,
       "word": "本周狗屎运最旺的星座",
@@ -345,14 +361,6 @@
       "onboard_time": 1694357325,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1081843,
-      "num": 540790,
-      "word": "觉得79元眉笔贵是不够努力这话太离谱",
-      "onboard_time": 1694436593,
-      "rank": 21,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1073312,
@@ -417,6 +425,14 @@
       "onboard_time": 1694388750,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 884832,
+      "num": 323816,
+      "word": "头部主播高佣金 国货生态",
+      "onboard_time": 1694438748,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 862471,
@@ -739,6 +755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 511421,
+      "num": 403960,
+      "word": "男子感染HPV向发生关系女房东索赔被驳",
+      "onboard_time": 1694437667,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510277,
       "num": 1066320,
       "word": "43岁女子二次考研考上北京大学",
@@ -872,6 +896,14 @@
       "word": "宫尚角沦陷了",
       "onboard_time": 1694400278,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 431152,
+      "num": 431152,
+      "word": "金繁终于主动了一次",
+      "onboard_time": 1694438688,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -1347,6 +1379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 288474,
+      "num": 959418,
+      "word": "女儿倾诉自己长相ugly被妈妈拥吻",
+      "onboard_time": 1694433822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288283,
       "num": 288283,
       "word": "虞书欣丁禹兮祝绪丹永夜星河路透",
@@ -1360,14 +1400,6 @@
       "word": "东方甄选主播直播时称918是个好日子",
       "onboard_time": 1694401298,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284257,
-      "num": 959418,
-      "word": "女儿倾诉自己长相ugly被妈妈拥吻",
-      "onboard_time": 1694433822,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1507,8 +1539,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250322,
-      "num": 250322,
+      "raw_hot": 251512,
+      "num": 251512,
       "word": "丞磊戏外弥补弟弟是吧",
       "onboard_time": 1694437430,
       "rank": 35,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1694396796,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248285,
+      "num": 229309,
+      "word": "你的眉笔多少钱一支",
+      "onboard_time": 1694434240,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 247387,
@@ -1569,14 +1609,6 @@
       "onboard_time": 1694395837,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242137,
-      "num": 229309,
-      "word": "你的眉笔多少钱一支",
-      "onboard_time": 1694434240,
-      "rank": 49,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 242039,
@@ -1763,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209372,
+      "num": 733213,
+      "word": "男孩写名字笔顺令人出乎意料",
+      "onboard_time": 1694436049,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206732,
       "num": 306614,
       "word": "德国男篮世界杯冠军",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1694345313,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204561,
-      "num": 733213,
-      "word": "男孩写名字笔顺令人出乎意料",
-      "onboard_time": 1694436049,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204191,
@@ -2387,6 +2419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 101787,
+      "num": 617704,
+      "word": "妈妈生日拆礼物跳出退伍儿子",
+      "onboard_time": 1694437250,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95340,
       "num": 1255487,
       "word": "同学们便利贴写祝福拼成画送老师",
@@ -2449,14 +2489,6 @@
       "onboard_time": 1694367260,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65168,
-      "num": 617704,
-      "word": "妈妈生日拆礼物跳出退伍儿子",
-      "onboard_time": 1694437250,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54903,

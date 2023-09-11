@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694438469216,
+  "endTime": 1694439221240,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -25,6 +25,14 @@
       "onboard_time": 1694183017,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 8555035,
+      "num": 421555,
+      "word": "李佳琦哭完继续带货",
+      "onboard_time": 1694438631,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 8493935,
@@ -2451,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1257563,
+      "num": 540790,
+      "word": "觉得79元眉笔贵是不够努力这话太离谱",
+      "onboard_time": 1694436593,
+      "rank": 21,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1246285,
       "num": 1246285,
       "word": "女生去中医馆买酸梅汤被医师教育",
@@ -2993,14 +3009,6 @@
       "onboard_time": 1693570958,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1081843,
-      "num": 540790,
-      "word": "觉得79元眉笔贵是不够努力这话太离谱",
-      "onboard_time": 1694436593,
-      "rank": 21,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1078043,
@@ -3993,6 +4001,14 @@
       "onboard_time": 1693582362,
       "rank": 43,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 884832,
+      "num": 323816,
+      "word": "头部主播高佣金 国货生态",
+      "onboard_time": 1694438748,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 883540,
@@ -8555,6 +8571,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 511421,
+      "num": 403960,
+      "word": "男子感染HPV向发生关系女房东索赔被驳",
+      "onboard_time": 1694437667,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511295,
       "num": 511295,
       "word": "JYP大楼天花板破了漏水中",
@@ -10417,6 +10441,14 @@
       "onboard_time": 1694134121,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431152,
+      "num": 431152,
+      "word": "金繁终于主动了一次",
+      "onboard_time": 1694438688,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 430908,
@@ -15259,6 +15291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 288474,
+      "num": 959418,
+      "word": "女儿倾诉自己长相ugly被妈妈拥吻",
+      "onboard_time": 1694433822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288353,
       "num": 288353,
       "word": "成韩彬INVU",
@@ -15465,14 +15505,6 @@
       "onboard_time": 1694252313,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284257,
-      "num": 959418,
-      "word": "女儿倾诉自己长相ugly被妈妈拥吻",
-      "onboard_time": 1694433822,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284246,
@@ -17099,6 +17131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251512,
+      "num": 251512,
+      "word": "丞磊戏外弥补弟弟是吧",
+      "onboard_time": 1694437430,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251303,
       "num": 1943248,
       "word": "5岁幼童帮渐冻症母亲拍出卡住药物",
@@ -17121,14 +17161,6 @@
       "onboard_time": 1694238817,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 250322,
-      "num": 250322,
-      "word": "丞磊戏外弥补弟弟是吧",
-      "onboard_time": 1694437430,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250260,
@@ -17273,6 +17305,14 @@
       "onboard_time": 1693559080,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248285,
+      "num": 229309,
+      "word": "你的眉笔多少钱一支",
+      "onboard_time": 1694434240,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 248284,
@@ -17601,14 +17641,6 @@
       "onboard_time": 1693532133,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 242137,
-      "num": 229309,
-      "word": "你的眉笔多少钱一支",
-      "onboard_time": 1694434240,
-      "rank": 49,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 242039,
@@ -19747,6 +19779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209372,
+      "num": 733213,
+      "word": "男孩写名字笔顺令人出乎意料",
+      "onboard_time": 1694436049,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209366,
       "num": 209366,
       "word": "烫金方",
@@ -20313,14 +20353,6 @@
       "onboard_time": 1694269120,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204561,
-      "num": 733213,
-      "word": "男孩写名字笔顺令人出乎意料",
-      "onboard_time": 1694436049,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204556,
@@ -27091,6 +27123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101787,
+      "num": 617704,
+      "word": "妈妈生日拆礼物跳出退伍儿子",
+      "onboard_time": 1694437250,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101585,
       "num": 101585,
       "word": "跑腿小哥是懂粉丝需求的",
@@ -27969,14 +28009,6 @@
       "onboard_time": 1694292974,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65168,
-      "num": 617704,
-      "word": "妈妈生日拆礼物跳出退伍儿子",
-      "onboard_time": 1694437250,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65120,
