@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694466878209,
+  "endTime": 1694468028679,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 36335,
-      "num": 26131,
+      "num": 28291,
       "word": "Rose否认与霉霉合作",
       "onboard_time": 1694460855,
       "rank": 30,
@@ -475,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28722,
+      "num": 28722,
+      "word": "如何告别严重抑郁情绪",
+      "onboard_time": 1694463554,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26747,
       "num": 574261,
       "word": "微观杭州亚运会",
@@ -483,16 +491,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26506,
-      "num": 26506,
-      "word": "如何告别严重抑郁情绪",
-      "onboard_time": 1694463554,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 24433,
-      "num": 26047,
+      "num": 28277,
       "word": "A股",
       "onboard_time": 1694458635,
       "rank": 36,
