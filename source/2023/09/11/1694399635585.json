@@ -1,0 +1,410 @@
+{
+  "runTime": 1694399635585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824298,
+        "num": 1824298,
+        "word": "网红男歌手涉黑涉恶被抓",
+        "onboard_time": 1694396017,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1605484,
+        "num": 1605484,
+        "word": "美国功勋间谍在华落网",
+        "onboard_time": 1694390740,
+        "rank": 1,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 48391,
+        "num": 1002888,
+        "word": "同学们便利贴写祝福拼成画送老师",
+        "onboard_time": 1694351495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896232,
+        "num": 896232,
+        "word": "日本核污染水首次排海今日结束",
+        "onboard_time": 1694398115,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 735328,
+        "num": 735328,
+        "word": "洗完头不要长时间包头发",
+        "onboard_time": 1694396194,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456770,
+        "num": 456770,
+        "word": "华为Mate 60 Pro一周体验",
+        "onboard_time": 1694398296,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 430853,
+        "num": 430853,
+        "word": "库迪米乳拿铁",
+        "onboard_time": 1694395954,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 330950,
+        "num": 330950,
+        "word": "赵本山你大爷永远是你大爷",
+        "onboard_time": 1694388750,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317796,
+        "num": 317796,
+        "word": "山东一家三代人出了18个教师",
+        "onboard_time": 1694396437,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 292208,
+        "num": 292208,
+        "word": "宫尚角的寝衣",
+        "onboard_time": 1694395296,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4766129,
+        "num": 287311,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 992508,
+        "num": 280108,
+        "word": "有种女性贫困叫月经贫困",
+        "onboard_time": 1694397096,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 716543,
+        "num": 269511,
+        "word": "张杰 我女儿有三个为什么朋友不能有三个",
+        "onboard_time": 1694399197,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3205391,
+        "num": 261054,
+        "word": "何不食肉糜 尊重与边界感",
+        "onboard_time": 1694397755,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260051,
+        "num": 260051,
+        "word": "发现间谍行为就打12339",
+        "onboard_time": 1694398175,
+        "rank": 14,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 255562,
+        "num": 255562,
+        "word": "美国911事件22周年",
+        "onboard_time": 1694393136,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617257,
+        "num": 255097,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1694393797,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 583067,
+        "num": 253948,
+        "word": "一线医护人员工资降得厉害",
+        "onboard_time": 1694395056,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1890002,
+        "num": 252341,
+        "word": "李佳琦说找不到以前状态了",
+        "onboard_time": 1694356359,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 422164,
+        "num": 251895,
+        "word": "胡歌 我们也需要票房",
+        "onboard_time": 1694361037,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263390,
+        "num": 250088,
+        "word": "黑龙江一怀孕女子被丈夫殴打威胁",
+        "onboard_time": 1694391578,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1646011,
+        "num": 249921,
+        "word": "你接受李佳琦的道歉吗",
+        "onboard_time": 1694394997,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248880,
+        "num": 248880,
+        "word": "怎么有一只小猫咪不合群",
+        "onboard_time": 1694396796,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241146,
+        "num": 241146,
+        "word": "宫门有宫尚角真的该烧高香",
+        "onboard_time": 1694397636,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1626802,
+        "num": 233390,
+        "word": "花西子眉笔每克980多可买两克黄金",
+        "onboard_time": 1694397876,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 217532,
+        "num": 217532,
+        "word": "小说第一章没看完我就沉默",
+        "onboard_time": 1694392420,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208622,
+        "num": 208622,
+        "word": "性格内向的人看起来会更显小",
+        "onboard_time": 1694374216,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1377302,
+        "num": 202721,
+        "word": "花西子有多贵",
+        "onboard_time": 1694395954,
+        "rank": 27,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 180591,
+        "num": 180591,
+        "word": "华为手机无信号打通卫星电话",
+        "onboard_time": 1694388629,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 177656,
+        "num": 177656,
+        "word": "终于知道为什么会晕车了",
+        "onboard_time": 1694389113,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 849902,
+        "num": 174272,
+        "word": "花西子",
+        "onboard_time": 1694350416,
+        "rank": 30,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 178600,
+        "num": 173885,
+        "word": "不要把重心只放在一个人身上",
+        "onboard_time": 1694398658,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170224,
+        "num": 170224,
+        "word": "火树晒刚抽的蒲熠星",
+        "onboard_time": 1694394040,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 426341,
+        "num": 169214,
+        "word": "胡锡进 尊重收入不高的劳动者",
+        "onboard_time": 1694393441,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167766,
+        "num": 167766,
+        "word": "00后录音系学长组寝室乐队迎新",
+        "onboard_time": 1694398777,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 160673,
+        "num": 160673,
+        "word": "你们都被张楚岚骗了",
+        "onboard_time": 1694398296,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214387,
+        "num": 159955,
+        "word": "李佳琦变了吗",
+        "onboard_time": 1694394997,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158626,
+        "num": 158626,
+        "word": "云之羽",
+        "onboard_time": 1694399137,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151962,
+        "num": 151962,
+        "word": "深圳地铁",
+        "onboard_time": 1694392780,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150602,
+        "num": 150602,
+        "word": "27岁女子极端减肥瘦20斤致闭经1年半",
+        "onboard_time": 1694361160,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144603,
+        "num": 144603,
+        "word": "乌尔善郭帆被聘为影视委员会专家",
+        "onboard_time": 1694396498,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144022,
+        "num": 144022,
+        "word": "白敬亭假扮摄像老师好机智",
+        "onboard_time": 1694392720,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140208,
+        "num": 140208,
+        "word": "杨紫说长相思第二季比第一季更虐",
+        "onboard_time": 1694359601,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136895,
+        "num": 136895,
+        "word": "刘雨昕罚自己多写几遍祝字",
+        "onboard_time": 1694399561,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133223,
+        "num": 133223,
+        "word": "周杰伦上海",
+        "onboard_time": 1694360326,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129669,
+        "num": 129669,
+        "word": "女子反复咳嗽多年治不好竟是因为吃多了",
+        "onboard_time": 1694357382,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129410,
+        "num": 129410,
+        "word": "薛之谦成都39度高烧依旧开唱",
+        "onboard_time": 1694347655,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128261,
+        "num": 128261,
+        "word": "夜色尚浅 把自己演进去",
+        "onboard_time": 1694398175,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "上官浅宫三去玩不带宫二",
+        "onboard_time": 1694392298,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123773,
+        "num": 123773,
+        "word": "娘子与我有夙世的姻缘",
+        "onboard_time": 1694395837,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对教师的嘱托与期望#"
+    }
+  }
+}

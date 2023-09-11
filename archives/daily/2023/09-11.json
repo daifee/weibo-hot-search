@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694398968725,
+  "endTime": 1694399635585,
   "band_list": [
     {
       "raw_hot": 8490912,
@@ -27,7 +27,7 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 2643210,
+      "raw_hot": 3205391,
       "num": 312742,
       "word": "何不食肉糜 尊重与边界感",
       "onboard_time": 1694397755,
@@ -67,12 +67,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1753319,
-      "num": 1753319,
+      "raw_hot": 1824298,
+      "num": 1824298,
       "word": "网红男歌手涉黑涉恶被抓",
       "onboard_time": 1694396017,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1626802,
+      "num": 239757,
+      "word": "花西子眉笔每克980多可买两克黄金",
+      "onboard_time": 1694397876,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1610738,
@@ -81,14 +89,6 @@
       "onboard_time": 1694395954,
       "rank": 23,
       "category": "美妆,财经"
-    },
-    {
-      "raw_hot": 1211978,
-      "num": 239757,
-      "word": "花西子眉笔每克980多可买两克黄金",
-      "onboard_time": 1694397876,
-      "rank": 26,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1193202,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 992508,
+      "num": 766386,
+      "word": "有种女性贫困叫月经贫困",
+      "onboard_time": 1694397096,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 991465,
       "num": 300436,
       "word": "胡锡进 尊重收入不高的劳动者",
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 896232,
+      "num": 896232,
+      "word": "日本核污染水首次排海今日结束",
+      "onboard_time": 1694398115,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 845765,
       "num": 267869,
       "word": "李佳琦 付鹏",
@@ -137,14 +153,6 @@
       "onboard_time": 1694347655,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 766386,
-      "num": 766386,
-      "word": "有种女性贫困叫月经贫困",
-      "onboard_time": 1694397096,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 752619,
@@ -169,6 +177,14 @@
       "onboard_time": 1694359601,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 716543,
+      "num": 269511,
+      "word": "张杰 我女儿有三个为什么朋友不能有三个",
+      "onboard_time": 1694399197,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 710956,
@@ -283,12 +299,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 456770,
+      "num": 456770,
+      "word": "华为Mate 60 Pro一周体验",
+      "onboard_time": 1694398296,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 445582,
       "num": 445582,
       "word": "周杰伦嘉宾",
       "onboard_time": 1694356297,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 430853,
+      "num": 430853,
+      "word": "库迪米乳拿铁",
+      "onboard_time": 1694395954,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 425191,
@@ -321,22 +353,6 @@
       "onboard_time": 1694363071,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 399969,
-      "num": 399969,
-      "word": "库迪米乳拿铁",
-      "onboard_time": 1694395954,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 397376,
-      "num": 312386,
-      "word": "日本核污染水首次排海今日结束",
-      "onboard_time": 1694398115,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 393112,
@@ -427,20 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313570,
-      "num": 313570,
+      "raw_hot": 317796,
+      "num": 317796,
       "word": "山东一家三代人出了18个教师",
       "onboard_time": 1694396437,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 311855,
-      "num": 311855,
-      "word": "华为Mate 60 Pro一周体验",
-      "onboard_time": 1694398296,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 311520,
@@ -531,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260051,
+      "num": 260051,
+      "word": "发现间谍行为就打12339",
+      "onboard_time": 1694398175,
+      "rank": 19,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 254799,
       "num": 254799,
       "word": "用女儿的奶茶袋做文具",
@@ -539,8 +555,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248380,
-      "num": 248380,
+      "raw_hot": 248880,
+      "num": 248880,
       "word": "怎么有一只小猫咪不合群",
       "onboard_time": 1694396796,
       "rank": 18,
@@ -571,8 +587,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240485,
-      "num": 240485,
+      "raw_hot": 241146,
+      "num": 241146,
       "word": "宫门有宫尚角真的该烧高香",
       "onboard_time": 1694397636,
       "rank": 24,
@@ -585,14 +601,6 @@
       "onboard_time": 1694394040,
       "rank": 30,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 236846,
-      "num": 247869,
-      "word": "发现间谍行为就打12339",
-      "onboard_time": 1694398175,
-      "rank": 19,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 233617,
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178600,
+      "num": 173885,
+      "word": "不要把重心只放在一个人身上",
+      "onboard_time": 1694398658,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177881,
       "num": 177881,
       "word": "不要嘲讽穷人",
@@ -795,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167766,
+      "num": 167766,
+      "word": "00后录音系学长组寝室乐队迎新",
+      "onboard_time": 1694398777,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 166598,
       "num": 166598,
       "word": "当代父母是会阴阳人的",
@@ -819,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162348,
-      "num": 162348,
-      "word": "00后录音系学长组寝室乐队迎新",
-      "onboard_time": 1694398777,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 160843,
       "num": 160843,
       "word": "时代少年团去了华晨宇演唱会",
@@ -849,6 +865,14 @@
       "onboard_time": 1694338472,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158626,
+      "num": 158626,
+      "word": "云之羽",
+      "onboard_time": 1694399137,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 158311,
@@ -923,12 +947,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135431,
-      "num": 135431,
-      "word": "不要把重心只放在一个人身上",
-      "onboard_time": 1694398658,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "刘雨昕罚自己多写几遍祝字",
+      "onboard_time": 1694399561,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 132702,
