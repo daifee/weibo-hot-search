@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694410447785,
+  "endTime": 1694413328290,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1727205,
-      "num": 382135,
+      "num": 384434,
       "word": "胡锡进 我们应接受李佳琦的道歉",
       "onboard_time": 1694408147,
       "rank": 30,
@@ -393,6 +393,14 @@
       "onboard_time": 1694343633,
       "rank": 11,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1175786,
+      "num": 1175786,
+      "word": "飞机上打华为卫星电话属于违规",
+      "onboard_time": 1694410959,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1152041,
@@ -747,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 729763,
+      "num": 729763,
+      "word": "俞敏洪就2000个董宇辉账号致歉",
+      "onboard_time": 1694408746,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 728029,
       "num": 728029,
       "word": "杨紫说长相思第二季比第一季更虐",
@@ -1067,14 +1083,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 509582,
-      "num": 509582,
-      "word": "俞敏洪就2000个董宇辉账号致歉",
-      "onboard_time": 1694408746,
-      "rank": 32,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 506726,
       "num": 506726,
       "word": "你还在买余额宝吗",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1694401000,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 450644,
+      "num": 389346,
+      "word": "七年没联系的大学同学来借钱",
+      "onboard_time": 1694411617,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 439390,
@@ -1507,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399054,
+      "num": 399054,
+      "word": "SHE在Selina电台合体",
+      "onboard_time": 1694411916,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398372,
       "num": 398372,
       "word": "巴奴称已赔付顾客277.1万元",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1694361099,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 374271,
+      "num": 374271,
+      "word": "都说了大学生很容易噶的",
+      "onboard_time": 1694411738,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 372271,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1694354322,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 342805,
+      "num": 342805,
+      "word": "华为回归或使iPhone出货量减少1000万",
+      "onboard_time": 1694412337,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 340128,
@@ -2075,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290267,
+      "num": 290267,
+      "word": "旅行真的可以看清一个人",
+      "onboard_time": 1694412218,
+      "rank": 28,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 289218,
       "num": 289218,
       "word": "不然哭了",
@@ -2169,6 +2217,14 @@
       "onboard_time": 1694345914,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278392,
+      "num": 278392,
+      "word": "韩版想见你导演回应李子维妆造",
+      "onboard_time": 1694413176,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 277892,
@@ -2683,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220345,
+      "num": 220345,
+      "word": "沈月 今夕是何年",
+      "onboard_time": 1694412697,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218493,
       "num": 218493,
       "word": "孙阳喝珍珠奶茶掉小珍珠",
@@ -3059,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197970,
+      "num": 197970,
+      "word": "泡泡岛阵容",
+      "onboard_time": 1694413057,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194210,
       "num": 194210,
       "word": "微博手机影像年",
@@ -3387,6 +3459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172651,
+      "num": 172651,
+      "word": "十元盒饭姐流泪称不想再坚持",
+      "onboard_time": 1694413235,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172578,
       "num": 172578,
       "word": "凤凰传奇现场",
@@ -3465,6 +3545,14 @@
       "onboard_time": 1694389892,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168552,
+      "num": 168552,
+      "word": "漫威版异人之下群像混剪",
+      "onboard_time": 1694411138,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 168332,
@@ -4289,6 +4377,14 @@
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40679,
+      "num": 442822,
+      "word": "高校为过生日新生送专属手工蛋糕",
+      "onboard_time": 1694412039,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37509,
