@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694406836850,
+  "endTime": 1694409358623,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 5850757,
-      "num": 523409,
+      "num": 546273,
       "word": "花西子回应李佳琦网传高佣金",
       "onboard_time": 1694401298,
       "rank": 25,
@@ -57,6 +57,14 @@
       "onboard_time": 1694390740,
       "rank": 0,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 3640411,
+      "num": 520475,
+      "word": "花西子回应眉笔贵",
+      "onboard_time": 1694406405,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 3473689,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2203736,
-      "num": 518208,
+      "num": 541543,
       "word": "79元对于普通人来说意味着什么",
       "onboard_time": 1694402499,
       "rank": 12,
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1672165,
+      "num": 1672165,
+      "word": "多人往海里放生60多箱矿泉水",
+      "onboard_time": 1694403342,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1632080,
       "num": 1632080,
       "word": "鹤壁地震",
@@ -249,14 +265,6 @@
       "onboard_time": 1694397876,
       "rank": 26,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1617660,
-      "num": 1617660,
-      "word": "多人往海里放生60多箱矿泉水",
-      "onboard_time": 1694403342,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1611624,
@@ -339,12 +347,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1345903,
-      "num": 280701,
-      "word": "花西子回应眉笔贵",
-      "onboard_time": 1694406405,
-      "rank": 31,
-      "category": "美妆"
+      "raw_hot": 1361743,
+      "num": 292807,
+      "word": "胡锡进 我们应接受李佳琦的道歉",
+      "onboard_time": 1694408147,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1342621,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804471,
+      "num": 804471,
+      "word": "酱香拿铁和米乳拿铁选哪个",
+      "onboard_time": 1694405806,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 798543,
       "num": 798543,
       "word": "天官赐福",
@@ -657,6 +673,14 @@
       "onboard_time": 1694355220,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 772765,
+      "num": 772765,
+      "word": "邓为费加罗男士金九三封",
+      "onboard_time": 1694406887,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 762800,
@@ -721,6 +745,14 @@
       "onboard_time": 1694359601,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 717960,
+      "num": 717960,
+      "word": "华为归来逼迫苹果走出舒适圈",
+      "onboard_time": 1694406769,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 710956,
@@ -971,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 549455,
+      "num": 549455,
+      "word": "10部电影定档国庆档",
+      "onboard_time": 1694408627,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 548046,
       "num": 548046,
       "word": "不然FMVP",
@@ -988,7 +1028,7 @@
     },
     {
       "raw_hot": 539439,
-      "num": 288195,
+      "num": 477066,
       "word": "大胖媳妇和Wendy成了两口子",
       "onboard_time": 1694405023,
       "rank": 32,
@@ -1003,20 +1043,20 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 529153,
+      "num": 289247,
+      "word": "李晨马天宇张含韵以前住一个院",
+      "onboard_time": 1694408924,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528034,
       "num": 528034,
       "word": "乃万演唱会突遇断电",
       "onboard_time": 1694390435,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 527080,
-      "num": 527080,
-      "word": "酱香拿铁和米乳拿铁选哪个",
-      "onboard_time": 1694405806,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 519420,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1694320892,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 489196,
+      "num": 489196,
+      "word": "西安暴雨",
+      "onboard_time": 1694407011,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486165,
@@ -1707,6 +1755,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 329752,
+      "num": 329752,
+      "word": "36岁新生报到被当成学生家长",
+      "onboard_time": 1694408027,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 329749,
       "num": 329749,
       "word": "骄阳伴我真不是喜剧吗",
@@ -1859,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311870,
+      "num": 524445,
+      "word": "妈妈问女儿能不能先服个软",
+      "onboard_time": 1694404965,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310645,
       "num": 310645,
       "word": "建议彭昱畅别看",
@@ -1977,14 +2041,6 @@
       "onboard_time": 1694342913,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298344,
-      "num": 506419,
-      "word": "妈妈问女儿能不能先服个软",
-      "onboard_time": 1694404965,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 294453,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1694343092,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268539,
+      "num": 268539,
+      "word": "俞敏洪就2000个董宇辉账号致歉",
+      "onboard_time": 1694408746,
+      "rank": 32,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 267488,
@@ -2451,6 +2515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 231648,
+      "num": 231648,
+      "word": "老师凌晨说梦话让逃课学生叫家长",
+      "onboard_time": 1694408205,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 230617,
       "num": 218313,
       "word": "塞尔达 你的下一艘船何必只是船",
@@ -2497,6 +2569,14 @@
       "onboard_time": 1694325093,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227815,
+      "num": 227815,
+      "word": "宝宝带着独特胎记出生",
+      "onboard_time": 1694409283,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227516,
@@ -2561,6 +2641,14 @@
       "onboard_time": 1694329052,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222945,
+      "num": 222945,
+      "word": "如何在办公室优雅地发疯",
+      "onboard_time": 1694405865,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 222313,
@@ -2675,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213664,
+      "num": 213664,
+      "word": "张远嘉宾巡回演唱会",
+      "onboard_time": 1694409164,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213519,
       "num": 213519,
       "word": "当裤子太大而我没有皮带时",
@@ -2737,14 +2833,6 @@
       "onboard_time": 1694324252,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206511,
-      "num": 206511,
-      "word": "如何在办公室优雅地发疯",
-      "onboard_time": 1694405865,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 206288,
@@ -2953,14 +3041,6 @@
       "onboard_time": 1694341292,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198599,
-      "num": 198599,
-      "word": "华为归来逼迫苹果走出舒适圈",
-      "onboard_time": 1694406769,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 198202,

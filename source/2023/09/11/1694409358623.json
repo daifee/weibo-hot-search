@@ -1,0 +1,410 @@
+{
+  "runTime": 1694409358623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672165,
+        "num": 1672165,
+        "word": "多人往海里放生60多箱矿泉水",
+        "onboard_time": 1694403342,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1403368,
+        "num": 1403368,
+        "word": "父亲藏女儿高中录取通知书17年",
+        "onboard_time": 1694399919,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 46488,
+        "num": 884825,
+        "word": "2023年国家网络安全宣传周",
+        "onboard_time": 1694402381,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874452,
+        "num": 874452,
+        "word": "王力宏演唱会跪谢粉丝",
+        "onboard_time": 1694404965,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 804471,
+        "num": 804471,
+        "word": "酱香拿铁和米乳拿铁选哪个",
+        "onboard_time": 1694405806,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 772765,
+        "num": 772765,
+        "word": "邓为费加罗男士金九三封",
+        "onboard_time": 1694406887,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 759474,
+        "num": 759474,
+        "word": "美国功勋间谍在华落网",
+        "onboard_time": 1694390740,
+        "rank": 6,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 717960,
+        "num": 717960,
+        "word": "华为归来逼迫苹果走出舒适圈",
+        "onboard_time": 1694406769,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 680700,
+        "num": 680700,
+        "word": "张杰 我女儿有三个为什么朋友不能有三个",
+        "onboard_time": 1694399197,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549455,
+        "num": 549455,
+        "word": "10部电影定档国庆档",
+        "onboard_time": 1694408627,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4925971,
+        "num": 546273,
+        "word": "花西子回应李佳琦网传高佣金",
+        "onboard_time": 1694401298,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1926835,
+        "num": 541543,
+        "word": "79元对于普通人来说意味着什么",
+        "onboard_time": 1694402499,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 737765,
+        "num": 537922,
+        "word": "有种女性贫困叫月经贫困",
+        "onboard_time": 1694397096,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 501081,
+        "num": 528112,
+        "word": "日本核污染水首次排海今日结束",
+        "onboard_time": 1694398115,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 311870,
+        "num": 524445,
+        "word": "妈妈问女儿能不能先服个软",
+        "onboard_time": 1694404965,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3640411,
+        "num": 520475,
+        "word": "花西子回应眉笔贵",
+        "onboard_time": 1694406405,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 517198,
+        "num": 517198,
+        "word": "网红男歌手涉黑涉恶被抓",
+        "onboard_time": 1694396017,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 489196,
+        "num": 489196,
+        "word": "西安暴雨",
+        "onboard_time": 1694407011,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2622045,
+        "num": 483365,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 477066,
+        "num": 477066,
+        "word": "大胖媳妇和Wendy成了两口子",
+        "onboard_time": 1694405023,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 457697,
+        "num": 457697,
+        "word": "kep1er江崎光睡了快两年沙发",
+        "onboard_time": 1694404965,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2356714,
+        "num": 438163,
+        "word": "花西子20%以上营收来自李佳琦",
+        "onboard_time": 1694401539,
+        "rank": 21,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 379041,
+        "num": 379041,
+        "word": "上海一女子掉入地铁站台缝隙",
+        "onboard_time": 1694402623,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359571,
+        "num": 359571,
+        "word": "多款国货彩妆比大牌彩妆还贵",
+        "onboard_time": 1694403942,
+        "rank": 23,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 1827777,
+        "num": 358351,
+        "word": "李佳琦说找不到以前状态了",
+        "onboard_time": 1694356359,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 350329,
+        "num": 350329,
+        "word": "为什么韩国街上没有垃圾桶",
+        "onboard_time": 1694403942,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329752,
+        "num": 329752,
+        "word": "36岁新生报到被当成学生家长",
+        "onboard_time": 1694408027,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1647707,
+        "num": 328760,
+        "word": "你接受李佳琦的道歉吗",
+        "onboard_time": 1694394997,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 324955,
+        "num": 324955,
+        "word": "杨幂哈尔滨一九四四金色旗袍路透",
+        "onboard_time": 1694404365,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298658,
+        "num": 298658,
+        "word": "华为Mate 60 Pro一周体验",
+        "onboard_time": 1694398296,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1361743,
+        "num": 292807,
+        "word": "胡锡进 我们应接受李佳琦的道歉",
+        "onboard_time": 1694408147,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 529153,
+        "num": 289247,
+        "word": "李晨马天宇张含韵以前住一个院",
+        "onboard_time": 1694408924,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268539,
+        "num": 268539,
+        "word": "俞敏洪就2000个董宇辉账号致歉",
+        "onboard_time": 1694408746,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1337171,
+        "num": 260994,
+        "word": "花西子 打工人专属货币单位",
+        "onboard_time": 1694400582,
+        "rank": 33,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 247832,
+        "num": 247832,
+        "word": "宫尚角沦陷了",
+        "onboard_time": 1694400278,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247003,
+        "num": 247003,
+        "word": "国科大怎么毕业了你出秘方了",
+        "onboard_time": 1694401000,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1254952,
+        "num": 246386,
+        "word": "何不食肉糜 尊重与边界感",
+        "onboard_time": 1694397755,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243663,
+        "num": 243663,
+        "word": "个人努力 环境推手",
+        "onboard_time": 1694403763,
+        "rank": 37,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 235937,
+        "num": 235937,
+        "word": "洗完头不要长时间包头发",
+        "onboard_time": 1694396194,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1059011,
+        "num": 235116,
+        "word": "花西子有多贵",
+        "onboard_time": 1694395954,
+        "rank": 39,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 234293,
+        "num": 234293,
+        "word": "周一好像没那么难熬了",
+        "onboard_time": 1694401738,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231648,
+        "num": 231648,
+        "word": "老师凌晨说梦话让逃课学生叫家长",
+        "onboard_time": 1694408205,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 229606,
+        "num": 229606,
+        "word": "杨幂秦昊哈尔滨1944路透",
+        "onboard_time": 1694405145,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 979000,
+        "num": 228806,
+        "word": "李佳琦与母亲成立多家公司",
+        "onboard_time": 1694402560,
+        "rank": 43,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 227815,
+        "num": 227815,
+        "word": "宝宝带着独特胎记出生",
+        "onboard_time": 1694409283,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222945,
+        "num": 222945,
+        "word": "如何在办公室优雅地发疯",
+        "onboard_time": 1694405865,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 664747,
+        "num": 220368,
+        "word": "花西子",
+        "onboard_time": 1694350416,
+        "rank": 46,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 213664,
+        "num": 213664,
+        "word": "张远嘉宾巡回演唱会",
+        "onboard_time": 1694409164,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213553,
+        "num": 213553,
+        "word": "虞书欣丁禹兮祝绪丹永夜星河路透",
+        "onboard_time": 1694406405,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604172,
+        "num": 212673,
+        "word": "花西子眉笔每克980多可买两克黄金",
+        "onboard_time": 1694397876,
+        "rank": 49,
+        "category": "美妆,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察78集团军#"
+    }
+  }
+}
