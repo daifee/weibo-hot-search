@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694420516111,
+  "endTime": 1694421291114,
   "band_list": [
     {
       "raw_hot": 8490912,
@@ -43,6 +43,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 3234645,
+      "num": 419859,
+      "word": "凌达乐自曝一个月赚500万",
+      "onboard_time": 1694416773,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3205391,
       "num": 393486,
       "word": "何不食肉糜 尊重与边界感",
@@ -57,14 +65,6 @@
       "onboard_time": 1694401539,
       "rank": 37,
       "category": "财经,网红"
-    },
-    {
-      "raw_hot": 3108699,
-      "num": 419859,
-      "word": "凌达乐自曝一个月赚500万",
-      "onboard_time": 1694416773,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 3062584,
@@ -179,6 +179,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1434716,
+      "num": 1434716,
+      "word": "长相思第二季过审",
+      "onboard_time": 1694420257,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1406328,
+      "num": 928897,
+      "word": "工资一万要不要租3400的房子",
+      "onboard_time": 1694419597,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1328152,
       "num": 410551,
       "word": "日本79岁男子性侵100岁女子致死",
@@ -219,16 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1098022,
-      "num": 654145,
-      "word": "工资一万要不要租3400的房子",
-      "onboard_time": 1694419597,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1073312,
-      "num": 267971,
+      "num": 284656,
       "word": "李佳琦与母亲成立多家公司",
       "onboard_time": 1694402560,
       "rank": 37,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 906925,
+      "num": 906925,
+      "word": "蜜雪冰城是全球第五大连锁快餐店",
+      "onboard_time": 1694419296,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 862471,
       "num": 862471,
       "word": "相亲不是感情发生的载体",
@@ -307,7 +323,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 775924,
+      "raw_hot": 803876,
       "num": 407010,
       "word": "内娱封面TOP",
       "onboard_time": 1694419898,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685009,
+      "num": 362120,
+      "word": "薛之谦跪着向歌迷道歉",
+      "onboard_time": 1694420439,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 661991,
       "num": 661991,
       "word": "上海一女子掉入地铁站台缝隙",
@@ -425,14 +449,6 @@
       "onboard_time": 1694408627,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 594544,
-      "num": 594544,
-      "word": "蜜雪冰城是全球第五大连锁快餐店",
-      "onboard_time": 1694419296,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 587587,
@@ -523,6 +539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 501801,
+      "num": 501801,
+      "word": "周杰伦上海演唱会强实名",
+      "onboard_time": 1694418993,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 490080,
       "num": 267151,
       "word": "李佳琦变了吗",
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486650,
+      "num": 365597,
+      "word": "王一博终于玩滑板了",
+      "onboard_time": 1694420798,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 485741,
       "num": 296538,
       "word": "赵露思慵懒感美拉德妆造",
@@ -553,6 +585,14 @@
       "onboard_time": 1694393136,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465457,
+      "num": 303395,
+      "word": "120w买了老破小",
+      "onboard_time": 1694420498,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 465378,
@@ -625,22 +665,6 @@
       "onboard_time": 1694366602,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423105,
-      "num": 423105,
-      "word": "长相思第二季过审",
-      "onboard_time": 1694420257,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 420311,
-      "num": 420311,
-      "word": "周杰伦上海演唱会强实名",
-      "onboard_time": 1694418993,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 416889,
@@ -769,6 +793,14 @@
       "onboard_time": 1694404365,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357595,
+      "num": 357595,
+      "word": "华为 财神爷上香",
+      "onboard_time": 1694420798,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 356230,
@@ -913,6 +945,14 @@
       "onboard_time": 1694355220,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301709,
+      "num": 301709,
+      "word": "李一桐邓为云秀行同框路透",
+      "onboard_time": 1694420980,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 300921,
@@ -1355,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192047,
+      "num": 192047,
+      "word": "章昊出道后第一次回国",
+      "onboard_time": 1694420736,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191671,
       "num": 191671,
       "word": "久酷鲜奶",
@@ -1363,12 +1411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190766,
+      "num": 190766,
+      "word": "华为明天开发布会吗",
+      "onboard_time": 1694421040,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 187267,
       "num": 187267,
       "word": "吴磊露营帐篷被吹飞",
       "onboard_time": 1694415155,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187212,
+      "num": 187212,
+      "word": "在超市看到这个装置太酷了",
+      "onboard_time": 1694421277,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 186528,
@@ -1465,14 +1529,6 @@
       "onboard_time": 1694361937,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169419,
-      "num": 169419,
-      "word": "薛之谦跪着向歌迷道歉",
-      "onboard_time": 1694420439,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 169131,
@@ -1579,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158204,
-      "num": 158204,
-      "word": "120w买了老破小",
-      "onboard_time": 1694420498,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156855,
       "num": 156855,
       "word": "蔡依林恭喜马龙夺冠",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1694390015,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144836,
+      "num": 164525,
+      "word": "杭州亚运会火炬传递主题曲燃",
+      "onboard_time": 1694421277,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143112,
@@ -1763,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72909,
+      "num": 415835,
+      "word": "70岁外婆送孙女上大学寄语考个博士",
+      "onboard_time": 1694419234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68326,
       "num": 68326,
       "word": "被盛阳的笑治愈了",
@@ -1792,14 +1856,6 @@
       "word": "亚运会场馆水幔设计既典雅又实用",
       "onboard_time": 1694351799,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44956,
-      "num": 415835,
-      "word": "70岁外婆送孙女上大学寄语考个博士",
-      "onboard_time": 1694419234,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
