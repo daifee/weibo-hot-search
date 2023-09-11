@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694439221240,
+  "endTime": 1694441762024,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -57,6 +57,14 @@
       "onboard_time": 1694401298,
       "rank": 25,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 5393307,
+      "num": 356050,
+      "word": "李佳琦称身上羽毛是所有女生赋予的",
+      "onboard_time": 1694440429,
+      "rank": 18,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 5257891,
@@ -209,6 +217,14 @@
       "onboard_time": 1694402499,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2191831,
+      "num": 558447,
+      "word": "男子感染HPV向发生关系女房东索赔被驳",
+      "onboard_time": 1694437667,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2075673,
@@ -443,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1420991,
+      "num": 540790,
+      "word": "觉得79元眉笔贵是不够努力这话太离谱",
+      "onboard_time": 1694436593,
+      "rank": 21,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1419507,
       "num": 1419507,
       "word": "茅台原董事长袁仁国去世",
@@ -521,14 +545,6 @@
       "onboard_time": 1694338472,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1257563,
-      "num": 540790,
-      "word": "觉得79元眉笔贵是不够努力这话太离谱",
-      "onboard_time": 1694436593,
-      "rank": 21,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1193202,
@@ -1171,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 612029,
+      "num": 612029,
+      "word": "李昀锐建议实现一户一深",
+      "onboard_time": 1694440484,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610545,
       "num": 610545,
       "word": "国足43年首次赢不了马来西亚",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1694403763,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 511421,
-      "num": 403960,
-      "word": "男子感染HPV向发生关系女房东索赔被驳",
-      "onboard_time": 1694437667,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510277,
@@ -2043,6 +2059,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 368205,
+      "num": 368205,
+      "word": "烫伤后如何在黄金时间内自救",
+      "onboard_time": 1694439469,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368161,
       "num": 949144,
       "word": "班长背同学上救护车回来哭成泪人",
@@ -2337,6 +2361,14 @@
       "onboard_time": 1694417556,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321207,
+      "num": 321207,
+      "word": "冯宝宝闯祸了",
+      "onboard_time": 1694441085,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 319785,
@@ -2985,6 +3017,14 @@
       "onboard_time": 1694437430,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250332,
+      "num": 250332,
+      "word": "范丞丞锁喉白敬亭",
+      "onboard_time": 1694439590,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 250253,
@@ -3875,6 +3915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196520,
+      "num": 196520,
+      "word": "这道菜的名字叫熊猫抱竹吧",
+      "onboard_time": 1694440786,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194210,
       "num": 194210,
       "word": "微博手机影像年",
@@ -4075,6 +4123,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 186889,
+      "num": 186889,
+      "word": "军训版问风",
+      "onboard_time": 1694441626,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186597,
       "num": 186597,
       "word": "80后泸州女子一年卖4000万斤萝卜",
@@ -4161,6 +4217,14 @@
       "onboard_time": 1694310994,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183844,
+      "num": 362910,
+      "word": "1982元的中秋礼盒仅有两粒月饼",
+      "onboard_time": 1694440370,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183622,
@@ -4264,6 +4328,14 @@
       "word": "韩版想见你的雨中草地聊天名场面",
       "onboard_time": 1694420081,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176657,
+      "num": 176657,
+      "word": "骄阳伴我拍出创业困境",
+      "onboard_time": 1694439348,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -4417,6 +4489,14 @@
       "onboard_time": 1694326952,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167544,
+      "num": 167544,
+      "word": "这场面比军训还整齐",
+      "onboard_time": 1694440429,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 166878,
@@ -5313,6 +5393,14 @@
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44437,
+      "num": 361431,
+      "word": "96岁老人暴雨中独自等车的姐免费送",
+      "onboard_time": 1694440847,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37509,
