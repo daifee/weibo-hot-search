@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694432039207,
+  "endTime": 1694435599702,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9074900,
+      "num": 361533,
+      "word": "李佳琦哭着道歉",
+      "onboard_time": 1694435444,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 8490912,
       "num": 615580,
       "word": "李佳琦就直播言论致歉",
@@ -19,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7312774,
+      "raw_hot": 7379652,
       "num": 650190,
       "word": "李佳琦掉粉",
       "onboard_time": 1694424100,
@@ -73,6 +81,14 @@
       "onboard_time": 1694390740,
       "rank": 0,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 3762272,
+      "num": 288829,
+      "word": "花西子回应李佳琦佣金比例达八成",
+      "onboard_time": 1694433036,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 3473689,
@@ -145,6 +161,14 @@
       "onboard_time": 1694339134,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2744854,
+      "num": 2744854,
+      "word": "花洛莉亚 这泼天的富贵",
+      "onboard_time": 1694433278,
+      "rank": 0,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 2527144,
@@ -265,6 +289,14 @@
       "onboard_time": 1694323593,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1895170,
+      "num": 1895170,
+      "word": "南风知我意定档",
+      "onboard_time": 1694433219,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1824298,
@@ -803,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 802433,
+      "num": 355111,
+      "word": "中国超3000万男性难结婚",
+      "onboard_time": 1694430161,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798543,
       "num": 798543,
       "word": "天官赐福",
@@ -907,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 728034,
+      "num": 283372,
+      "word": "父亲到校将猥亵女儿的副院长打伤",
+      "onboard_time": 1694434721,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728029,
       "num": 728029,
       "word": "杨紫说长相思第二季比第一季更虐",
@@ -948,7 +996,7 @@
     },
     {
       "raw_hot": 685009,
-      "num": 408824,
+      "num": 450154,
       "word": "薛之谦跪着向歌迷道歉",
       "onboard_time": 1694420439,
       "rank": 47,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1694271760,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 639436,
+      "num": 278832,
+      "word": "女大学生称军训服透明几乎露出内裤",
+      "onboard_time": 1694432622,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635255,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1694336494,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 571002,
+      "num": 571002,
+      "word": "宫尚角误伤宫远徵",
+      "onboard_time": 1694431835,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 559472,
@@ -1995,19 +2059,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355111,
-      "num": 355111,
-      "word": "中国超3000万男性难结婚",
-      "onboard_time": 1694430161,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354771,
       "num": 354771,
       "word": "男生和女生坐副驾驶的区别",
       "onboard_time": 1694400640,
       "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 352406,
+      "num": 271049,
+      "word": "爱吃钵钵鸡的四川人沉默了",
+      "onboard_time": 1694432859,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -2033,6 +2097,14 @@
       "onboard_time": 1694339134,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346535,
+      "num": 266923,
+      "word": "玉骨遥韩国定档",
+      "onboard_time": 1694434240,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 344998,
@@ -2491,14 +2563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294367,
-      "num": 294367,
-      "word": "宫尚角误伤宫远徵",
-      "onboard_time": 1694431835,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292182,
       "num": 292182,
       "word": "白敬亭假扮摄像老师好机智",
@@ -2593,6 +2657,14 @@
       "onboard_time": 1694429498,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281896,
+      "num": 377131,
+      "word": "摩洛哥地震老人抢救出烤箱为灾民烤面包",
+      "onboard_time": 1694432319,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 281825,
@@ -2873,6 +2945,14 @@
       "onboard_time": 1694270559,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246800,
+      "num": 373733,
+      "word": "女儿倾诉自己长相ugly被妈妈拥吻",
+      "onboard_time": 1694433822,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246217,
@@ -3347,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210961,
+      "num": 136798,
+      "word": "你的眉笔多少钱一支",
+      "onboard_time": 1694434240,
+      "rank": 49,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 209277,
       "num": 209277,
       "word": "杨千嬅演唱会官宣重庆武汉",
@@ -3753,6 +3841,14 @@
       "onboard_time": 1694348556,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190364,
+      "num": 184999,
+      "word": "王一博献唱亚运会主题曲花絮照",
+      "onboard_time": 1694433763,
+      "rank": 38,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 187960,
@@ -4308,7 +4404,7 @@
     },
     {
       "raw_hot": 153914,
-      "num": 326221,
+      "num": 339401,
       "word": "宁夏村BA现场送烤滩羊",
       "onboard_time": 1694431540,
       "rank": 12,
@@ -4324,7 +4420,7 @@
     },
     {
       "raw_hot": 153254,
-      "num": 314313,
+      "num": 333559,
       "word": "只要学生在学校就在",
       "onboard_time": 1694430582,
       "rank": 24,
@@ -4755,6 +4851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102017,
+      "num": 322940,
+      "word": "52岁校长与学生一同考入北大",
+      "onboard_time": 1694433638,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100956,
       "num": 100956,
       "word": "消防老公送给教师妻子最美的回忆",
@@ -5129,6 +5233,14 @@
       "onboard_time": 1694295554,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8170,
+      "num": 584905,
+      "word": "微观杭州亚运会",
+      "onboard_time": 1694435444,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

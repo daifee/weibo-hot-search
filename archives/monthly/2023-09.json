@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694432039207,
+  "endTime": 1694435599702,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -9,6 +9,14 @@
       "onboard_time": 1694356359,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9074900,
+      "num": 361533,
+      "word": "李佳琦哭着道歉",
+      "onboard_time": 1694435444,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 8806920,
@@ -43,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7312774,
+      "raw_hot": 7379652,
       "num": 650190,
       "word": "李佳琦掉粉",
       "onboard_time": 1694424100,
@@ -161,6 +169,14 @@
       "onboard_time": 1693914455,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3762272,
+      "num": 288829,
+      "word": "花西子回应李佳琦佣金比例达八成",
+      "onboard_time": 1694433036,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 3609493,
@@ -433,6 +449,14 @@
       "onboard_time": 1693806696,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2744854,
+      "num": 2744854,
+      "word": "花洛莉亚 这泼天的富贵",
+      "onboard_time": 1694433278,
+      "rank": 0,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 2742101,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1693559379,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1895170,
+      "num": 1895170,
+      "word": "南风知我意定档",
+      "onboard_time": 1694433219,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1870080,
@@ -4539,6 +4571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 802433,
+      "num": 355111,
+      "word": "中国超3000万男性难结婚",
+      "onboard_time": 1694430161,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801540,
       "num": 473603,
       "word": "女生125斤被质问你胖成啥了",
@@ -5267,6 +5307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728034,
+      "num": 283372,
+      "word": "父亲到校将猥亵女儿的副院长打伤",
+      "onboard_time": 1694434721,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728029,
       "num": 728029,
       "word": "杨紫说长相思第二季比第一季更虐",
@@ -5692,7 +5740,7 @@
     },
     {
       "raw_hot": 685009,
-      "num": 408824,
+      "num": 450154,
       "word": "薛之谦跪着向歌迷道歉",
       "onboard_time": 1694420439,
       "rank": 47,
@@ -6313,6 +6361,14 @@
       "onboard_time": 1693637373,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639436,
+      "num": 278832,
+      "word": "女大学生称军训服透明几乎露出内裤",
+      "onboard_time": 1694432622,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639200,
@@ -7305,6 +7361,14 @@
       "onboard_time": 1694134901,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571002,
+      "num": 571002,
+      "word": "宫尚角误伤宫远徵",
+      "onboard_time": 1694431835,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 570675,
@@ -12483,14 +12547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355111,
-      "num": 355111,
-      "word": "中国超3000万男性难结婚",
-      "onboard_time": 1694430161,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355003,
       "num": 355003,
       "word": "肖战梦境大片",
@@ -12569,6 +12625,14 @@
       "onboard_time": 1693794811,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352406,
+      "num": 271049,
+      "word": "爱吃钵钵鸡的四川人沉默了",
+      "onboard_time": 1694432859,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 352177,
@@ -12745,6 +12809,14 @@
       "onboard_time": 1694259216,
       "rank": 15,
       "category": "旅游,科技"
+    },
+    {
+      "raw_hot": 346535,
+      "num": 266923,
+      "word": "玉骨遥韩国定档",
+      "onboard_time": 1694434240,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 346445,
@@ -14915,14 +14987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294367,
-      "num": 294367,
-      "word": "宫尚角误伤宫远徵",
-      "onboard_time": 1694431835,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294018,
       "num": 331173,
       "word": "吴昕 真正的长大是成为父母的依靠",
@@ -15481,6 +15545,14 @@
       "onboard_time": 1693968878,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281896,
+      "num": 377131,
+      "word": "摩洛哥地震老人抢救出烤箱为灾民烤面包",
+      "onboard_time": 1694432319,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 281825,
@@ -17233,6 +17305,14 @@
       "onboard_time": 1694058995,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246800,
+      "num": 373733,
+      "word": "女儿倾诉自己长相ugly被妈妈拥吻",
+      "onboard_time": 1694433822,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246637,
@@ -19521,6 +19601,14 @@
       "onboard_time": 1693925201,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210961,
+      "num": 136798,
+      "word": "你的眉笔多少钱一支",
+      "onboard_time": 1694434240,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 210936,
@@ -21849,6 +21937,14 @@
       "onboard_time": 1693743879,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190364,
+      "num": 184999,
+      "word": "王一博献唱亚运会主题曲花絮照",
+      "onboard_time": 1694433763,
+      "rank": 38,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 190348,
@@ -24588,7 +24684,7 @@
     },
     {
       "raw_hot": 153914,
-      "num": 326221,
+      "num": 339401,
       "word": "宁夏村BA现场送烤滩羊",
       "onboard_time": 1694431540,
       "rank": 12,
@@ -24644,7 +24740,7 @@
     },
     {
       "raw_hot": 153254,
-      "num": 314313,
+      "num": 333559,
       "word": "只要学生在学校就在",
       "onboard_time": 1694430582,
       "rank": 24,
@@ -26859,6 +26955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102017,
+      "num": 322940,
+      "word": "52岁校长与学生一同考入北大",
+      "onboard_time": 1694433638,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101585,
       "num": 101585,
       "word": "跑腿小哥是懂粉丝需求的",
@@ -29033,6 +29137,14 @@
       "onboard_time": 1693831597,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8170,
+      "num": 584905,
+      "word": "微观杭州亚运会",
+      "onboard_time": 1694435444,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 5317,
