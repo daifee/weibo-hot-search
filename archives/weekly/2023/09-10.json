@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694449322434,
+  "endTime": 1694450255385,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -851,20 +851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852571,
+      "num": 852571,
+      "word": "玉溪一彩民中1.13亿元",
+      "onboard_time": 1694444745,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845765,
       "num": 267869,
       "word": "李佳琦 付鹏",
       "onboard_time": 1694395656,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 816457,
-      "num": 816457,
-      "word": "玉溪一彩民中1.13亿元",
-      "onboard_time": 1694444745,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 816053,
@@ -1147,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 641538,
+      "num": 337518,
+      "word": "如何不提死亡却写出死亡",
+      "onboard_time": 1694447019,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635255,
       "num": 381934,
       "word": "华晨宇演唱会粉丝又翻车了",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1694441809,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 560214,
-      "num": 337518,
-      "word": "如何不提死亡却写出死亡",
-      "onboard_time": 1694447019,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 559472,
@@ -2788,7 +2788,7 @@
     },
     {
       "raw_hot": 289561,
-      "num": 219859,
+      "num": 270308,
       "word": "8岁女孩跳绳半小时腹痛呕吐竟因畸胎瘤",
       "onboard_time": 1694446901,
       "rank": 31,
@@ -5353,6 +5353,14 @@
       "onboard_time": 1694354618,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 88237,
+      "num": 88237,
+      "word": "五月天林俊杰双向奔赴",
+      "onboard_time": 1694450130,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 79759,
