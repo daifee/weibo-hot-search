@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/11 11:17:15
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/11 11:34:07
 </p>
 </blockquote>
 <p>
@@ -117,6 +117,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%BD%91%E4%BC%A0%E9%AB%98%E4%BD%A3%E9%87%91%23" target="weibo">
+花西子回应李佳琦网传高佣金（热度：3756966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%80%92%E7%A0%B8%E5%A4%9A%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%23" target="weibo">
 瑞幸回应男子怒砸多杯酱香拿铁（热度：3609493）
 </a>
@@ -213,6 +219,12 @@ TTG夺冠（热度：3473689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%93%E5%B1%9E%E8%B4%A7%E5%B8%81%E5%8D%95%E4%BD%8D%23" target="weibo">
+花西子 打工人专属货币单位（热度：3062584）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1%23" target="weibo">
 韩国石斑鱼大量死亡（热度：3020207）
 </a>
@@ -293,12 +305,6 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%94%AF%E4%B8%80%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%AD%94%E9%A2%98%E4%BA%86%23" target="weibo">
 全国唯一考生已经在答题了（热度：2742101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%93%E5%B1%9E%E8%B4%A7%E5%B8%81%E5%8D%95%E4%BD%8D%23" target="weibo">
-花西子 打工人专属货币单位（热度：2735969）
 </a>
 </li>
 
@@ -701,6 +707,12 @@ EXO 安踏（热度：2070313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%8E%8E%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%23" target="weibo">
 华莎接受警方调查（热度：2040327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%9020%25%E4%BB%A5%E4%B8%8A%E8%90%A5%E6%94%B6%E6%9D%A5%E8%87%AA%E6%9D%8E%E4%BD%B3%E7%90%A6%23" target="weibo">
+花西子20%以上营收来自李佳琦（热度：2035011）
 </a>
 </li>
 
@@ -1563,12 +1575,6 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%BD%91%E4%BC%A0%E9%AB%98%E4%BD%A3%E9%87%91%23" target="weibo">
-花西子回应李佳琦网传高佣金（热度：1369969）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E5%BE%B7%E5%9B%BD%E7%95%99%E5%AD%A6%E7%9A%84%E5%B0%91%23" target="weibo">
 为什么去德国留学的少（热度：1366611）
 </a>
@@ -1991,6 +1997,12 @@ Rose或将和霉霉合作（热度：1140695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%96%B0%E5%89%A7%E6%BC%94%E5%88%98%E4%BA%A6%E8%8F%B2%E5%89%8D%E5%A4%AB%23" target="weibo">
 林更新新剧演刘亦菲前夫（热度：1126979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%97%8F%E5%A5%B3%E5%84%BF%E9%AB%98%E4%B8%AD%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A617%E5%B9%B4%23" target="weibo">
+父亲藏女儿高中录取通知书17年（热度：1123131）
 </a>
 </li>
 
@@ -2439,6 +2451,12 @@ TTG金色雨（热度：976290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E7%A7%B0918%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90%23" target="weibo">
+东方甄选回应主播称918是个好日子（热度：973772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23CA403%E6%89%80%E6%9C%89%E4%BA%BA%E5%91%98%E5%9D%87%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%23" target="weibo">
 CA403所有人员均安全撤离（热度：972380）
 </a>
@@ -2585,6 +2603,12 @@ TTG对战狼队（热度：943547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：939608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E6%AF%8D%E4%BA%B2%E6%88%90%E7%AB%8B%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%23" target="weibo">
+李佳琦与母亲成立多家公司（热度：939414）
 </a>
 </li>
 
@@ -3267,12 +3291,6 @@ Uzi说明年打不了（热度：812816）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%9020%25%E4%BB%A5%E4%B8%8A%E8%90%A5%E6%94%B6%E6%9D%A5%E8%87%AA%E6%9D%8E%E4%BD%B3%E7%90%A6%23" target="weibo">
-花西子20%以上营收来自李佳琦（热度：799759）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%97%A5%E6%B8%B8%E5%AE%A2%E7%A7%B0%E4%B8%8D%E4%BB%8B%E6%84%8F%E7%A6%8F%E5%B2%9B%E9%B1%BC%23" target="weibo">
 旅日游客称不介意福岛鱼（热度：798949）
 </a>
@@ -3425,12 +3443,6 @@ Mystic前女友发长文控诉（热度：795788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23" target="weibo">
 迎击台风苏拉（热度：777658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%97%8F%E5%A5%B3%E5%84%BF%E9%AB%98%E4%B8%AD%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A617%E5%B9%B4%23" target="weibo">
-父亲藏女儿高中录取通知书17年（热度：777516）
 </a>
 </li>
 
@@ -5721,12 +5733,6 @@ TTG先到赛点（热度：554241）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E7%A7%B0918%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90%23" target="weibo">
-东方甄选回应主播称918是个好日子（热度：540086）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E6%B2%A1%E9%80%890713%23" target="weibo">
 张远没选0713（热度：540077）
 </a>
@@ -6005,12 +6011,6 @@ DF（热度：539896）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%8A%A0%E5%B0%94%E6%9A%97%E7%A4%BA%E6%A2%85%E8%A5%BF%E6%8B%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E5%86%85%E5%AE%9A%23" target="weibo">
 范加尔暗示梅西拿世界杯是内定（热度：519032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E6%9D%8E%E5%86%B0%E5%86%B0%E9%83%91%E7%A7%80%E6%99%B6%20%E4%B8%AD%E4%B8%96%E7%BA%AA%E8%B4%B5%E6%97%8F%E5%8D%B3%E8%A7%86%E6%84%9F%23" target="weibo">
-费翔李冰冰郑秀晶 中世纪贵族即视感（热度：518947）
 </a>
 </li>
 
