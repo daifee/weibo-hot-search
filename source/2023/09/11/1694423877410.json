@@ -1,0 +1,410 @@
+{
+  "runTime": 1694423877410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1710141,
+        "num": 1710141,
+        "word": "蜜雪冰城是全球第五大连锁快餐店",
+        "onboard_time": 1694419296,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1246199,
+        "num": 1246199,
+        "word": "长相思第二季过审",
+        "onboard_time": 1694420257,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32568,
+        "num": 1214293,
+        "word": "2023年国家网络安全宣传周",
+        "onboard_time": 1694402381,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363017,
+        "num": 1210505,
+        "word": "工资一万要不要租3400的房子",
+        "onboard_time": 1694419597,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1183948,
+        "num": 1183948,
+        "word": "Yamy被判赔偿前经纪公司100万",
+        "onboard_time": 1694422417,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815144,
+        "num": 815144,
+        "word": "华为 财神爷上香",
+        "onboard_time": 1694420798,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 696265,
+        "num": 696265,
+        "word": "十元盒饭姐流泪称不想再坚持",
+        "onboard_time": 1694413235,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504105,
+        "num": 504105,
+        "word": "周杰伦上海演唱会强实名",
+        "onboard_time": 1694418993,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397023,
+        "num": 397023,
+        "word": "43岁女子二次考研考上北京大学",
+        "onboard_time": 1694418274,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 376510,
+        "num": 376510,
+        "word": "相亲不是感情发生的载体",
+        "onboard_time": 1694416295,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1993686,
+        "num": 375312,
+        "word": "凌达乐自曝一个月赚500万",
+        "onboard_time": 1694416773,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206161,
+        "num": 374172,
+        "word": "妈妈问女儿能不能先服个软",
+        "onboard_time": 1694404965,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192596,
+        "num": 370870,
+        "word": "当边防女兵第一次见到界碑",
+        "onboard_time": 1694421583,
+        "rank": 12,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 120026,
+        "num": 370093,
+        "word": "杭州亚运会火炬传递主题曲燃",
+        "onboard_time": 1694421277,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 15567,
+        "num": 366363,
+        "word": "殷若宁登顶世界第一",
+        "onboard_time": 1694423800,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1729783,
+        "num": 364849,
+        "word": "花西子回应眉笔贵",
+        "onboard_time": 1694406405,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1694526,
+        "num": 363384,
+        "word": "花洛莉亚眉笔",
+        "onboard_time": 1694422599,
+        "rank": 16,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1520473,
+        "num": 361426,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1257627,
+        "num": 359903,
+        "word": "日本79岁男子性侵100岁女子致死",
+        "onboard_time": 1694418334,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766881,
+        "num": 356917,
+        "word": "胡锡进 我们应接受李佳琦的道歉",
+        "onboard_time": 1694408147,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 689795,
+        "num": 354120,
+        "word": "李佳琦说找不到以前状态了",
+        "onboard_time": 1694356359,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 635255,
+        "num": 353200,
+        "word": "华晨宇演唱会粉丝又翻车了",
+        "onboard_time": 1694421876,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 608927,
+        "num": 350276,
+        "word": "120w买了老破小",
+        "onboard_time": 1694420498,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559337,
+        "num": 349226,
+        "word": "薛之谦跪着向歌迷道歉",
+        "onboard_time": 1694420439,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465170,
+        "num": 345749,
+        "word": "花西子回应李佳琦网传高佣金",
+        "onboard_time": 1694401298,
+        "rank": 24,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 427426,
+        "num": 345107,
+        "word": "你接受李佳琦的道歉吗",
+        "onboard_time": 1694394997,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 425755,
+        "num": 343036,
+        "word": "花西子客服回应网传工厂在日本",
+        "onboard_time": 1694422234,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 399628,
+        "num": 340293,
+        "word": "内娱封面TOP",
+        "onboard_time": 1694419898,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 396737,
+        "num": 338956,
+        "word": "花西子20%以上营收来自李佳琦",
+        "onboard_time": 1694401539,
+        "rank": 28,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 337136,
+        "num": 337136,
+        "word": "长期久坐打工人体态调整方法",
+        "onboard_time": 1694423019,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276382,
+        "num": 276382,
+        "word": "王子文龙须刘海",
+        "onboard_time": 1694423258,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265369,
+        "num": 265369,
+        "word": "多人往海里放生60多箱矿泉水",
+        "onboard_time": 1694403342,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256203,
+        "num": 256203,
+        "word": "华为明天开发布会吗",
+        "onboard_time": 1694421040,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 249125,
+        "num": 249125,
+        "word": "上官浅宫远徵要打起来了",
+        "onboard_time": 1694422539,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230436,
+        "num": 230436,
+        "word": "王一博终于玩滑板了",
+        "onboard_time": 1694420798,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 219476,
+        "num": 219476,
+        "word": "须佐之男臻藏皮肤",
+        "onboard_time": 1694422056,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217132,
+        "num": 217132,
+        "word": "成毅被张予曦吓出东北话",
+        "onboard_time": 1694418334,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214618,
+        "num": 214618,
+        "word": "张杰 我女儿有三个为什么朋友不能有三个",
+        "onboard_time": 1694399197,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208421,
+        "num": 208421,
+        "word": "花西子 打工人专属货币单位",
+        "onboard_time": 1694400582,
+        "rank": 38,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 202125,
+        "num": 202125,
+        "word": "章昊出道后第一次回国",
+        "onboard_time": 1694420736,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281995,
+        "num": 201839,
+        "word": "李佳琦与母亲成立多家公司",
+        "onboard_time": 1694402560,
+        "rank": 40,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 201402,
+        "num": 201402,
+        "word": "六公主评杨子姗演的女明星",
+        "onboard_time": 1694421637,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194685,
+        "num": 194685,
+        "word": "父亲藏女儿高中录取通知书17年",
+        "onboard_time": 1694399919,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191932,
+        "num": 191932,
+        "word": "华为回归或使iPhone出货量减少1000万",
+        "onboard_time": 1694412337,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178808,
+        "num": 178808,
+        "word": "李一桐邓为云秀行同框路透",
+        "onboard_time": 1694420980,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177621,
+        "num": 177621,
+        "word": "卡戴珊 努力就会成功",
+        "onboard_time": 1694417975,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175800,
+        "num": 175800,
+        "word": "上海暴雨",
+        "onboard_time": 1694423856,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171490,
+        "num": 171490,
+        "word": "吴磊请骑行大哥看不虚此行",
+        "onboard_time": 1694417436,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170838,
+        "num": 170838,
+        "word": "清洁工捡20万元现金交给民警",
+        "onboard_time": 1694419056,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 167649,
+        "num": 167649,
+        "word": "79元对于普通人来说意味着什么",
+        "onboard_time": 1694402499,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记首次提到新质生产力#"
+    }
+  }
+}

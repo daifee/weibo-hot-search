@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694421291114,
+  "endTime": 1694423877410,
   "band_list": [
     {
       "raw_hot": 8490912,
@@ -147,6 +147,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1710141,
+      "num": 1710141,
+      "word": "蜜雪冰城是全球第五大连锁快餐店",
+      "onboard_time": 1694419296,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1694526,
+      "num": 363384,
+      "word": "花洛莉亚眉笔",
+      "onboard_time": 1694422599,
+      "rank": 16,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1672165,
       "num": 1672165,
       "word": "多人往海里放生60多箱矿泉水",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 1406328,
-      "num": 928897,
+      "num": 1210505,
       "word": "工资一万要不要租3400的房子",
       "onboard_time": 1694419597,
       "rank": 3,
@@ -209,6 +225,14 @@
       "onboard_time": 1694393797,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1183948,
+      "num": 1183948,
+      "word": "Yamy被判赔偿前经纪公司100万",
+      "onboard_time": 1694422417,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1175786,
@@ -283,14 +307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 906925,
-      "num": 906925,
-      "word": "蜜雪冰城是全球第五大连锁快餐店",
-      "onboard_time": 1694419296,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 862471,
       "num": 862471,
       "word": "相亲不是感情发生的载体",
@@ -305,6 +321,14 @@
       "onboard_time": 1694395656,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 815144,
+      "num": 815144,
+      "word": "华为 财神爷上香",
+      "onboard_time": 1694420798,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 813589,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635255,
+      "num": 353200,
+      "word": "华晨宇演唱会粉丝又翻车了",
+      "onboard_time": 1694421876,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 632932,
       "num": 517335,
       "word": "kep1er江崎光睡了快两年沙发",
@@ -441,6 +473,14 @@
       "onboard_time": 1694395056,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608927,
+      "num": 350276,
+      "word": "120w买了老破小",
+      "onboard_time": 1694420498,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 600500,
@@ -539,8 +579,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 501801,
-      "num": 501801,
+      "raw_hot": 504105,
+      "num": 504105,
       "word": "周杰伦上海演唱会强实名",
       "onboard_time": 1694418993,
       "rank": 9,
@@ -585,14 +625,6 @@
       "onboard_time": 1694393136,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465457,
-      "num": 303395,
-      "word": "120w买了老破小",
-      "onboard_time": 1694420498,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 465378,
@@ -657,6 +689,14 @@
       "onboard_time": 1694395954,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 425755,
+      "num": 343036,
+      "word": "花西子客服回应网传工厂在日本",
+      "onboard_time": 1694422234,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 425191,
@@ -795,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357595,
-      "num": 357595,
-      "word": "华为 财神爷上香",
-      "onboard_time": 1694420798,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 356230,
       "num": 319199,
       "word": "宫尚角的寝衣",
@@ -857,6 +889,14 @@
       "onboard_time": 1694392720,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 337136,
+      "num": 337136,
+      "word": "长期久坐打工人体态调整方法",
+      "onboard_time": 1694423019,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 334352,
@@ -1043,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276382,
+      "num": 276382,
+      "word": "王子文龙须刘海",
+      "onboard_time": 1694423258,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274007,
       "num": 274007,
       "word": "周杰伦上海",
@@ -1107,12 +1155,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256203,
+      "num": 256203,
+      "word": "华为明天开发布会吗",
+      "onboard_time": 1694421040,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 254799,
       "num": 254799,
       "word": "用女儿的奶茶袋做文具",
       "onboard_time": 1694351678,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249125,
+      "num": 249125,
+      "word": "上官浅宫远徵要打起来了",
+      "onboard_time": 1694422539,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 248880,
@@ -1235,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219476,
+      "num": 219476,
+      "word": "须佐之男臻藏皮肤",
+      "onboard_time": 1694422056,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217899,
       "num": 217899,
       "word": "夜色尚浅 好嗑",
@@ -1355,6 +1427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202125,
+      "num": 202125,
+      "word": "章昊出道后第一次回国",
+      "onboard_time": 1694420736,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201402,
+      "num": 201402,
+      "word": "六公主评杨子姗演的女明星",
+      "onboard_time": 1694421637,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201353,
       "num": 201353,
       "word": "德约科维奇夺得大满贯第24冠",
@@ -1395,12 +1483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192047,
-      "num": 192047,
-      "word": "章昊出道后第一次回国",
-      "onboard_time": 1694420736,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 192596,
+      "num": 370870,
+      "word": "当边防女兵第一次见到界碑",
+      "onboard_time": 1694421583,
+      "rank": 12,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 191671,
@@ -1409,14 +1497,6 @@
       "onboard_time": 1694359478,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190766,
-      "num": 190766,
-      "word": "华为明天开发布会吗",
-      "onboard_time": 1694421040,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 187267,
@@ -1497,6 +1577,14 @@
       "onboard_time": 1694420081,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175800,
+      "num": 175800,
+      "word": "上海暴雨",
+      "onboard_time": 1694423856,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175324,
@@ -1684,7 +1772,7 @@
     },
     {
       "raw_hot": 144836,
-      "num": 164525,
+      "num": 370093,
       "word": "杭州亚运会火炬传递主题曲燃",
       "onboard_time": 1694421277,
       "rank": 49,
@@ -1905,6 +1993,14 @@
       "onboard_time": 1694249135,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15567,
+      "num": 366363,
+      "word": "殷若宁登顶世界第一",
+      "onboard_time": 1694423800,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
