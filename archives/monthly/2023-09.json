@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694457283763,
+  "endTime": 1694459609984,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -26971,6 +26971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117963,
+      "num": 117963,
+      "word": "我有事要去jellycat一趟",
+      "onboard_time": 1694454439,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117892,
       "num": 117892,
       "word": "志晟中国首封",
@@ -28163,14 +28171,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 71912,
-      "num": 71912,
-      "word": "我有事要去jellycat一趟",
-      "onboard_time": 1694454439,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 71376,
       "num": 633702,
       "word": "民警神预判封路1分钟后山体滑坡",
@@ -29195,6 +29195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30341,
+      "num": 62155,
+      "word": "括号P下颚线",
+      "onboard_time": 1694456957,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 30014,
       "num": 30014,
       "word": "当事人回应怒砸10杯酱香拿铁",
@@ -29339,14 +29347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25961,
-      "num": 62155,
-      "word": "括号P下颚线",
-      "onboard_time": 1694456957,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 25583,
       "num": 47717,
       "word": "高佑思打卡天津跳水",
@@ -29457,6 +29457,14 @@
       "onboard_time": 1693506077,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22058,
+      "num": 33635,
+      "word": "狗狗安保系统已瘫痪",
+      "onboard_time": 1694458155,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 21246,

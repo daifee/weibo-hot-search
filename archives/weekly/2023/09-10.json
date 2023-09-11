@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694457283763,
+  "endTime": 1694459609984,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -5187,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117963,
+      "num": 117963,
+      "word": "我有事要去jellycat一趟",
+      "onboard_time": 1694454439,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "华晨宇演唱会北京鸟巢歌单",
@@ -5443,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71912,
-      "num": 71912,
-      "word": "我有事要去jellycat一趟",
-      "onboard_time": 1694454439,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 71141,
       "num": 1695192,
       "word": "杭州亚运会开幕日恰逢秋分",
@@ -5699,20 +5699,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30341,
+      "num": 62155,
+      "word": "括号P下颚线",
+      "onboard_time": 1694456957,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29423,
       "num": 284651,
       "word": "乡村医生47年为群众免20多万医药费",
       "onboard_time": 1694444446,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25961,
-      "num": 62155,
-      "word": "括号P下颚线",
-      "onboard_time": 1694456957,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 24147,
@@ -5729,6 +5729,14 @@
       "onboard_time": 1694287696,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22058,
+      "num": 33635,
+      "word": "狗狗安保系统已瘫痪",
+      "onboard_time": 1694458155,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 20679,
