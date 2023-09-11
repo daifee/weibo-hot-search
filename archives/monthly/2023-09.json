@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694417660552,
+  "endTime": 1694420516111,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -273,6 +273,14 @@
       "onboard_time": 1693881395,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3108699,
+      "num": 419859,
+      "word": "凌达乐自曝一个月赚500万",
+      "onboard_time": 1694416773,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 3098467,
@@ -2195,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1328152,
+      "num": 410551,
+      "word": "日本79岁男子性侵100岁女子致死",
+      "onboard_time": 1694418334,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1325369,
       "num": 1325369,
       "word": "台湾4.9级地震",
@@ -2803,6 +2819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1098022,
+      "num": 654145,
+      "word": "工资一万要不要租3400的房子",
+      "onboard_time": 1694419597,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1095533,
       "num": 1095533,
       "word": "四川工商学院通报公开播放劣迹艺人视频",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1694075495,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1093026,
-      "num": 280303,
-      "word": "凌达乐自曝一个月赚500万",
-      "onboard_time": 1694416773,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 1089848,
@@ -3971,6 +3987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 862471,
+      "num": 862471,
+      "word": "相亲不是感情发生的载体",
+      "onboard_time": 1694416295,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 862351,
       "num": 862351,
       "word": "王靖雯把KPL说成KPI",
@@ -4665,6 +4689,14 @@
       "onboard_time": 1694228251,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775924,
+      "num": 407010,
+      "word": "内娱封面TOP",
+      "onboard_time": 1694419898,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 774259,
@@ -6859,6 +6891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594544,
+      "num": 594544,
+      "word": "蜜雪冰城是全球第五大连锁快餐店",
+      "onboard_time": 1694419296,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 594494,
       "num": 594494,
       "word": "张慧雯妆造好端庄",
@@ -8305,6 +8345,14 @@
       "onboard_time": 1693528596,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510277,
+      "num": 510277,
+      "word": "43岁女子二次考研考上北京大学",
+      "onboard_time": 1694418274,
+      "rank": 5,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 509566,
@@ -10379,6 +10427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423105,
+      "num": 423105,
+      "word": "长相思第二季过审",
+      "onboard_time": 1694420257,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423064,
       "num": 423064,
       "word": "骄阳伴我 血压飙升的职场",
@@ -10449,6 +10505,14 @@
       "onboard_time": 1694183198,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420311,
+      "num": 420311,
+      "word": "周杰伦上海演唱会强实名",
+      "onboard_time": 1694418993,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 420200,
@@ -10633,6 +10697,14 @@
       "onboard_time": 1693528418,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414751,
+      "num": 414751,
+      "word": "吴磊请骑行大哥看不虚此行",
+      "onboard_time": 1694417436,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 414281,
@@ -11427,6 +11499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383415,
+      "num": 383415,
+      "word": "眉笔推荐",
+      "onboard_time": 1694418815,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 383186,
       "num": 492238,
       "word": "弟弟接放学姐姐拦不住根本拦不住",
@@ -11617,14 +11697,6 @@
       "onboard_time": 1694012980,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376651,
-      "num": 227116,
-      "word": "相亲不是感情发生的载体",
-      "onboard_time": 1694416295,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 376454,
@@ -12923,6 +12995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333232,
+      "num": 333232,
+      "word": "成毅被张予曦吓出东北话",
+      "onboard_time": 1694418334,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332547,
       "num": 332547,
       "word": "Twins说毛不易粤语像她们普通话一样标准",
@@ -13361,6 +13441,14 @@
       "onboard_time": 1694179176,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321633,
+      "num": 321633,
+      "word": "陈飞宇给周杰伦送奶茶包",
+      "onboard_time": 1694417556,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 321627,
@@ -15131,6 +15219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281804,
+      "num": 281804,
+      "word": "卡戴珊 努力就会成功",
+      "onboard_time": 1694417975,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281511,
       "num": 281511,
       "word": "成毅起诉黑粉侵犯名誉权",
@@ -15553,14 +15649,6 @@
       "onboard_time": 1693490680,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 272189,
-      "num": 272189,
-      "word": "吴磊请骑行大哥看不虚此行",
-      "onboard_time": 1694417436,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 272175,
@@ -16945,6 +17033,14 @@
       "onboard_time": 1693791755,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244310,
+      "num": 244310,
+      "word": "清洁工捡20万元现金交给民警",
+      "onboard_time": 1694419056,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 244258,
@@ -22595,6 +22691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176780,
+      "num": 176780,
+      "word": "韩版想见你的雨中草地聊天名场面",
+      "onboard_time": 1694420081,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176774,
       "num": 176774,
       "word": "宫崎骏新片首发预告",
@@ -22689,6 +22793,14 @@
       "onboard_time": 1694242775,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175324,
+      "num": 175324,
+      "word": "汪苏泷上海演唱会",
+      "onboard_time": 1694418577,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 175316,
@@ -23081,6 +23193,14 @@
       "onboard_time": 1694313275,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169419,
+      "num": 169419,
+      "word": "薛之谦跪着向歌迷道歉",
+      "onboard_time": 1694420439,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 169357,
@@ -23851,6 +23971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158204,
+      "num": 158204,
+      "word": "120w买了老破小",
+      "onboard_time": 1694420498,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157866,
       "num": 203645,
       "word": "女子遇暴雨急穿雨衣暖心司机耐心等待",
@@ -24553,14 +24681,6 @@
       "onboard_time": 1694261374,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147036,
-      "num": 147036,
-      "word": "陈飞宇给周杰伦送奶茶包",
-      "onboard_time": 1694417556,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 146667,
@@ -27577,6 +27697,14 @@
       "onboard_time": 1693851317,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44956,
+      "num": 415835,
+      "word": "70岁外婆送孙女上大学寄语考个博士",
+      "onboard_time": 1694419234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44866,

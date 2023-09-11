@@ -1,0 +1,410 @@
+{
+  "runTime": 1694420516111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273173,
+        "num": 1273173,
+        "word": "十元盒饭姐流泪称不想再坚持",
+        "onboard_time": 1694413235,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862471,
+        "num": 862471,
+        "word": "相亲不是感情发生的载体",
+        "onboard_time": 1694416295,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34487,
+        "num": 662684,
+        "word": "2023年国家网络安全宣传周",
+        "onboard_time": 1694402381,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098022,
+        "num": 654145,
+        "word": "工资一万要不要租3400的房子",
+        "onboard_time": 1694419597,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 594544,
+        "num": 594544,
+        "word": "蜜雪冰城是全球第五大连锁快餐店",
+        "onboard_time": 1694419296,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 510277,
+        "num": 510277,
+        "word": "43岁女子二次考研考上北京大学",
+        "onboard_time": 1694418274,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 487822,
+        "num": 487822,
+        "word": "父亲藏女儿高中录取通知书17年",
+        "onboard_time": 1694399919,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 457531,
+        "num": 457531,
+        "word": "多人往海里放生60多箱矿泉水",
+        "onboard_time": 1694403342,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423105,
+        "num": 423105,
+        "word": "长相思第二季过审",
+        "onboard_time": 1694420257,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420311,
+        "num": 420311,
+        "word": "周杰伦上海演唱会强实名",
+        "onboard_time": 1694418993,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3108699,
+        "num": 419859,
+        "word": "凌达乐自曝一个月赚500万",
+        "onboard_time": 1694416773,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 257572,
+        "num": 419146,
+        "word": "妈妈问女儿能不能先服个软",
+        "onboard_time": 1694404965,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234361,
+        "num": 417188,
+        "word": "日本核污染水首次排海今日结束",
+        "onboard_time": 1694398115,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 137720,
+        "num": 416838,
+        "word": "美国功勋间谍在华落网",
+        "onboard_time": 1694390740,
+        "rank": 13,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 44956,
+        "num": 415835,
+        "word": "70岁外婆送孙女上大学寄语考个博士",
+        "onboard_time": 1694419234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414751,
+        "num": 414751,
+        "word": "吴磊请骑行大哥看不虚此行",
+        "onboard_time": 1694417436,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2032988,
+        "num": 412072,
+        "word": "花西子回应眉笔贵",
+        "onboard_time": 1694406405,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1328152,
+        "num": 410551,
+        "word": "日本79岁男子性侵100岁女子致死",
+        "onboard_time": 1694418334,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775924,
+        "num": 407010,
+        "word": "内娱封面TOP",
+        "onboard_time": 1694419898,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1631966,
+        "num": 404646,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402297,
+        "num": 402297,
+        "word": "79元对于普通人来说意味着什么",
+        "onboard_time": 1694402499,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 383415,
+        "num": 383415,
+        "word": "眉笔推荐",
+        "onboard_time": 1694418815,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 806500,
+        "num": 375246,
+        "word": "胡锡进 我们应接受李佳琦的道歉",
+        "onboard_time": 1694408147,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 365201,
+        "num": 365201,
+        "word": "飞机上打华为卫星电话属于违规",
+        "onboard_time": 1694410959,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 358210,
+        "num": 358210,
+        "word": "张杰 我女儿有三个为什么朋友不能有三个",
+        "onboard_time": 1694399197,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721768,
+        "num": 348592,
+        "word": "花西子回应李佳琦网传高佣金",
+        "onboard_time": 1694401298,
+        "rank": 25,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 333232,
+        "num": 333232,
+        "word": "成毅被张予曦吓出东北话",
+        "onboard_time": 1694418334,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324249,
+        "num": 324249,
+        "word": "俞敏洪就2000个董宇辉账号致歉",
+        "onboard_time": 1694408746,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 663489,
+        "num": 323554,
+        "word": "李佳琦说找不到以前状态了",
+        "onboard_time": 1694356359,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321633,
+        "num": 321633,
+        "word": "陈飞宇给周杰伦送奶茶包",
+        "onboard_time": 1694417556,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287089,
+        "num": 287089,
+        "word": "华为回归或使iPhone出货量减少1000万",
+        "onboard_time": 1694412337,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 565851,
+        "num": 287021,
+        "word": "你接受李佳琦的道歉吗",
+        "onboard_time": 1694394997,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281804,
+        "num": 281804,
+        "word": "卡戴珊 努力就会成功",
+        "onboard_time": 1694417975,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252795,
+        "num": 252795,
+        "word": "10部电影定档国庆档",
+        "onboard_time": 1694408627,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522882,
+        "num": 252355,
+        "word": "花西子20%以上营收来自李佳琦",
+        "onboard_time": 1694401539,
+        "rank": 34,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 244310,
+        "num": 244310,
+        "word": "清洁工捡20万元现金交给民警",
+        "onboard_time": 1694419056,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 200814,
+        "num": 200814,
+        "word": "都说了大学生很容易噶的",
+        "onboard_time": 1694411738,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 426182,
+        "num": 200702,
+        "word": "李佳琦与母亲成立多家公司",
+        "onboard_time": 1694402560,
+        "rank": 37,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 199955,
+        "num": 199955,
+        "word": "邓为费加罗男士金九三封",
+        "onboard_time": 1694406887,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198574,
+        "num": 198574,
+        "word": "封神质子一个个都好猛",
+        "onboard_time": 1694415697,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266161,
+        "num": 195280,
+        "word": "花西子有多贵",
+        "onboard_time": 1694395954,
+        "rank": 40,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 177536,
+        "num": 177536,
+        "word": "有种女性贫困叫月经贫困",
+        "onboard_time": 1694397096,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 176780,
+        "num": 176780,
+        "word": "韩版想见你的雨中草地聊天名场面",
+        "onboard_time": 1694420081,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219641,
+        "num": 176637,
+        "word": "何不食肉糜 尊重与边界感",
+        "onboard_time": 1694397755,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175324,
+        "num": 175324,
+        "word": "汪苏泷上海演唱会",
+        "onboard_time": 1694418577,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173095,
+        "num": 173095,
+        "word": "酱香拿铁和米乳拿铁选哪个",
+        "onboard_time": 1694405806,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198592,
+        "num": 171374,
+        "word": "花西子 打工人专属货币单位",
+        "onboard_time": 1694400582,
+        "rank": 46,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 169419,
+        "num": 169419,
+        "word": "薛之谦跪着向歌迷道歉",
+        "onboard_time": 1694420439,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166804,
+        "num": 166804,
+        "word": "旅行真的可以看清一个人",
+        "onboard_time": 1694412218,
+        "rank": 48,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 158204,
+        "num": 158204,
+        "word": "120w买了老破小",
+        "onboard_time": 1694420498,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察78集团军#"
+    }
+  }
+}
