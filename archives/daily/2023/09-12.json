@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694471613692,
+  "endTime": 1694474249612,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705638,
+      "num": 324698,
+      "word": "父亲到校将猥亵女儿的副院长打伤",
+      "onboard_time": 1694434721,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687217,
       "num": 687217,
       "word": "iPhone15有15项变化",
@@ -83,20 +91,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 475650,
-      "num": 324698,
-      "word": "父亲到校将猥亵女儿的副院长打伤",
-      "onboard_time": 1694434721,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472147,
       "num": 472147,
       "word": "射手座是一个嘴软心硬的人",
       "onboard_time": 1694446840,
       "rank": 5,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 466932,
+      "num": 199747,
+      "word": "重庆一中学女生遭多人殴打逼下跪",
+      "onboard_time": 1694469435,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 427146,
@@ -144,6 +152,14 @@
       "word": "日本79岁男子性侵100岁女子致死",
       "onboard_time": 1694418334,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347532,
+      "num": 347532,
+      "word": "重庆被霸凌女生家属发声",
+      "onboard_time": 1694468174,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -211,20 +227,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 257303,
+      "num": 342395,
+      "word": "女孩因外貌质疑自己妈妈拥吻回应",
+      "onboard_time": 1694443187,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242588,
       "num": 242588,
       "word": "田嘉瑞看金靖演戏看哭了",
       "onboard_time": 1694442765,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240833,
-      "num": 342395,
-      "word": "女孩因外貌质疑自己妈妈拥吻回应",
-      "onboard_time": 1694443187,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220529,
@@ -243,11 +259,11 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 210127,
-      "num": 134044,
-      "word": "重庆被霸凌女生家属发声",
-      "onboard_time": 1694468174,
-      "rank": 16,
+      "raw_hot": 200438,
+      "num": 132063,
+      "word": "教育局回应校长讲座PPT现不当言论",
+      "onboard_time": 1694471178,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -299,14 +315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167803,
-      "num": 94415,
-      "word": "重庆一中学女生遭多人殴打逼下跪",
-      "onboard_time": 1694469435,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 157554,
       "num": 157554,
       "word": "逍遥散人官宣恋爱",
@@ -345,6 +353,14 @@
       "onboard_time": 1694443485,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138923,
+      "num": 138923,
+      "word": "短暂的网红和长远的工作选哪个",
+      "onboard_time": 1694468354,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 138706,
@@ -419,6 +435,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110689,
+      "num": 110689,
+      "word": "官方回应中学女生遭殴打逼下跪",
+      "onboard_time": 1694470819,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 105246,
+      "num": 105246,
+      "word": "葡萄牙9比0卢森堡",
+      "onboard_time": 1694473827,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105064,
+      "num": 105064,
+      "word": "A股",
+      "onboard_time": 1694458635,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "五月天林俊杰双向奔赴",
@@ -451,20 +491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 70275,
-      "num": 70275,
-      "word": "短暂的网红和长远的工作选哪个",
-      "onboard_time": 1694468354,
+      "raw_hot": 71647,
+      "num": 71647,
+      "word": "Rose否认与霉霉合作",
+      "onboard_time": 1694460855,
       "rank": 30,
-      "category": "网红"
+      "category": "艺人"
     },
     {
-      "raw_hot": 65287,
-      "num": 65287,
-      "word": "官方回应中学女生遭殴打逼下跪",
-      "onboard_time": 1694470819,
-      "rank": 32,
-      "category": "社会负面"
+      "raw_hot": 61787,
+      "num": 85248,
+      "word": "2岁男童山中走失一夜获救",
+      "onboard_time": 1694474128,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50303,
@@ -475,12 +515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44713,
-      "num": 56046,
-      "word": "A股",
-      "onboard_time": 1694458635,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 50220,
+      "num": 134394,
+      "word": "妈妈送女儿到学校报到后偷偷落泪",
+      "onboard_time": 1694473464,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43537,
@@ -505,22 +545,6 @@
       "onboard_time": 1694463554,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36335,
-      "num": 56011,
-      "word": "Rose否认与霉霉合作",
-      "onboard_time": 1694460855,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 36101,
-      "num": 36101,
-      "word": "教育局回应校长讲座PPT现不当言论",
-      "onboard_time": 1694471178,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30341,
