@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694414119280,
+  "endTime": 1694416573475,
   "band_list": [
     {
       "raw_hot": 8490912,
@@ -161,6 +161,14 @@
       "onboard_time": 1694399919,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1513302,
+      "num": 1513302,
+      "word": "十元盒饭姐流泪称不想再坚持",
+      "onboard_time": 1694413235,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1193202,
@@ -419,6 +427,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 529225,
+      "num": 529225,
+      "word": "华为回归或使iPhone出货量减少1000万",
+      "onboard_time": 1694412337,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 529153,
       "num": 522305,
       "word": "李晨马天宇张含韵以前住一个院",
@@ -531,14 +547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 432837,
-      "num": 432837,
-      "word": "华为回归或使iPhone出货量减少1000万",
-      "onboard_time": 1694412337,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 432618,
       "num": 432618,
       "word": "宫尚角沦陷了",
@@ -635,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375657,
-      "num": 375657,
-      "word": "十元盒饭姐流泪称不想再坚持",
-      "onboard_time": 1694413235,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374990,
       "num": 374990,
       "word": "DF冲",
@@ -697,6 +697,14 @@
       "onboard_time": 1694400640,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344998,
+      "num": 543588,
+      "word": "妈妈问女儿能不能先服个软",
+      "onboard_time": 1694404965,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 340650,
@@ -779,14 +787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 311870,
-      "num": 543588,
-      "word": "妈妈问女儿能不能先服个软",
-      "onboard_time": 1694404965,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 311520,
       "num": 311520,
       "word": "TTG夺冠",
@@ -817,6 +817,14 @@
       "onboard_time": 1694362473,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298814,
+      "num": 298814,
+      "word": "吴磊一看书就困",
+      "onboard_time": 1694414733,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 296135,
@@ -945,6 +953,14 @@
       "onboard_time": 1694351678,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250081,
+      "num": 250081,
+      "word": "封神质子一个个都好猛",
+      "onboard_time": 1694415697,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 248880,
@@ -1187,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200074,
+      "num": 200074,
+      "word": "79岁摇滚奶奶成亚运会火炬手",
+      "onboard_time": 1694415814,
+      "rank": 37,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 197970,
       "num": 197970,
       "word": "泡泡岛阵容",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1694359478,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187267,
+      "num": 187267,
+      "word": "吴磊露营帐篷被吹飞",
+      "onboard_time": 1694415155,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 186528,
@@ -1315,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168748,
+      "num": 153044,
+      "word": "相亲不是感情发生的载体",
+      "onboard_time": 1694416295,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167766,
       "num": 167766,
       "word": "00后录音系学长组寝室乐队迎新",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1694344774,
       "rank": 44,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 156713,
+      "num": 156713,
+      "word": "推迟打烊只为工人能吃碗面",
+      "onboard_time": 1694416053,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154208,
@@ -1624,6 +1672,14 @@
       "word": "CA403所有人员均安全撤离",
       "onboard_time": 1694342732,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29690,
+      "num": 366497,
+      "word": "退休教师为学生保存时光胶囊34年",
+      "onboard_time": 1694415697,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
