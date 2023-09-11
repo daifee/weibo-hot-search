@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694442831307,
+  "endTime": 1694445481154,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2374095,
-      "num": 558447,
+      "num": 603313,
       "word": "男子感染HPV向发生关系女房东索赔被驳",
       "onboard_time": 1694437667,
       "rank": 17,
@@ -435,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1503827,
+      "raw_hot": 1542975,
       "num": 540790,
       "word": "觉得79元眉笔贵是不够努力这话太离谱",
       "onboard_time": 1694436593,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656592,
+      "num": 656592,
+      "word": "可我不是衣服",
+      "onboard_time": 1694443666,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 654752,
       "num": 654752,
       "word": "深圳地铁",
@@ -1219,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 605040,
+      "num": 278724,
+      "word": "iPhone15有15项变化",
+      "onboard_time": 1694443548,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 604043,
       "num": 604043,
       "word": "时代少年团去了华晨宇演唱会",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1694336494,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 580590,
+      "num": 580590,
+      "word": "男人吃醋的时候不分理由只看性别",
+      "onboard_time": 1694441809,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 559472,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1694408924,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528664,
+      "num": 277485,
+      "word": "一定要在下班后洗杯子",
+      "onboard_time": 1694443306,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 528034,
@@ -1571,14 +1603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 470626,
-      "num": 310095,
-      "word": "男人吃醋的时候不分理由只看性别",
-      "onboard_time": 1694441809,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470461,
       "num": 470461,
       "word": "教师节祝福",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1694423019,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428666,
+      "num": 428666,
+      "word": "广西三起山体滑坡8人失联",
+      "onboard_time": 1694444205,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426847,
@@ -2115,6 +2147,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 363173,
+      "num": 273734,
+      "word": "玉溪一彩民中1.13亿元",
+      "onboard_time": 1694444745,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361123,
       "num": 361123,
       "word": "张亮开车主打一个倔强",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1694399561,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323377,
+      "num": 323377,
+      "word": "田嘉瑞看金靖演戏看哭了",
+      "onboard_time": 1694442765,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 323308,
@@ -2739,6 +2787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287777,
+      "num": 362910,
+      "word": "1982元的中秋礼盒仅有两粒月饼",
+      "onboard_time": 1694440370,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287074,
       "num": 287074,
       "word": "王靖雯 脑子KPL嘴是KPI",
@@ -2867,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272105,
+      "num": 272105,
+      "word": "亲密关系最忌讳的是自己憋着不说",
+      "onboard_time": 1694444924,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271777,
       "num": 271777,
       "word": "已瘦30斤宅家早餐吃什么",
@@ -2955,14 +3019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 263192,
-      "num": 362910,
-      "word": "1982元的中秋礼盒仅有两粒月饼",
-      "onboard_time": 1694440370,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262725,
       "num": 262725,
       "word": "KPL提词器",
@@ -2985,6 +3041,14 @@
       "onboard_time": 1694350476,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262038,
+      "num": 262038,
+      "word": "RichBrian要来成都了",
+      "onboard_time": 1694443485,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 262010,
@@ -3033,6 +3097,14 @@
       "onboard_time": 1694279185,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252034,
+      "num": 284798,
+      "word": "女孩因外貌质疑自己妈妈拥吻回应",
+      "onboard_time": 1694443187,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251512,
@@ -3633,6 +3705,14 @@
       "onboard_time": 1694349397,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208376,
+      "num": 208376,
+      "word": "千万不要随便给狗子剪头发",
+      "onboard_time": 1694443425,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 207484,
@@ -4315,6 +4395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178142,
+      "num": 178142,
+      "word": "重庆暴雨",
+      "onboard_time": 1694444025,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177881,
       "num": 177881,
       "word": "不要嘲讽穷人",
@@ -4529,14 +4617,6 @@
       "onboard_time": 1694394997,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166492,
-      "num": 166492,
-      "word": "田嘉瑞看金靖演戏看哭了",
-      "onboard_time": 1694442765,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 165344,
@@ -4825,6 +4905,14 @@
       "onboard_time": 1694350895,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142530,
+      "num": 142530,
+      "word": "猫猫喜欢晒太阳",
+      "onboard_time": 1694444146,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 141590,
@@ -5520,6 +5608,14 @@
       "word": "99做好事",
       "onboard_time": 1694295554,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18233,
+      "num": 284651,
+      "word": "乡村医生47年为群众免20多万医药费",
+      "onboard_time": 1694444446,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],

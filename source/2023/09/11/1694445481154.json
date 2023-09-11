@@ -1,0 +1,410 @@
+{
+  "runTime": 1694445481154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924987,
+        "num": 924987,
+        "word": "南风知我意定档",
+        "onboard_time": 1694433219,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656592,
+        "num": 656592,
+        "word": "可我不是衣服",
+        "onboard_time": 1694443666,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33863,
+        "num": 617323,
+        "word": "微观杭州亚运会",
+        "onboard_time": 1694435444,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1900432,
+        "num": 603313,
+        "word": "男子感染HPV向发生关系女房东索赔被驳",
+        "onboard_time": 1694437667,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584761,
+        "num": 584761,
+        "word": "薛之谦跪着向歌迷道歉",
+        "onboard_time": 1694420439,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 580590,
+        "num": 580590,
+        "word": "男人吃醋的时候不分理由只看性别",
+        "onboard_time": 1694441809,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443946,
+        "num": 443946,
+        "word": "戒咖啡两个月后",
+        "onboard_time": 1694425360,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428666,
+        "num": 428666,
+        "word": "广西三起山体滑坡8人失联",
+        "onboard_time": 1694444205,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323377,
+        "num": 323377,
+        "word": "田嘉瑞看金靖演戏看哭了",
+        "onboard_time": 1694442765,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287777,
+        "num": 287777,
+        "word": "1982元的中秋礼盒仅有两粒月饼",
+        "onboard_time": 1694440370,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8723997,
+        "num": 287521,
+        "word": "李佳琦哭着道歉",
+        "onboard_time": 1694435444,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 4252194,
+        "num": 286460,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 616400,
+        "num": 286219,
+        "word": "日本79岁男子性侵100岁女子致死",
+        "onboard_time": 1694418334,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252034,
+        "num": 284798,
+        "word": "女孩因外貌质疑自己妈妈拥吻回应",
+        "onboard_time": 1694443187,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18233,
+        "num": 284651,
+        "word": "乡村医生47年为群众免20多万医药费",
+        "onboard_time": 1694444446,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3156118,
+        "num": 283669,
+        "word": "李佳琦称身上羽毛是所有女生赋予的",
+        "onboard_time": 1694440429,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 441110,
+        "num": 283081,
+        "word": "中国超3000万男性难结婚",
+        "onboard_time": 1694430161,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304696,
+        "num": 282156,
+        "word": "逍遥散人官宣恋爱",
+        "onboard_time": 1694426021,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1542975,
+        "num": 281737,
+        "word": "觉得79元眉笔贵是不够努力这话太离谱",
+        "onboard_time": 1694436593,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 216561,
+        "num": 280586,
+        "word": "烫伤后如何在黄金时间内自救",
+        "onboard_time": 1694439469,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910571,
+        "num": 280009,
+        "word": "父亲到校将猥亵女儿的副院长打伤",
+        "onboard_time": 1694434721,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1225327,
+        "num": 279561,
+        "word": "花洛莉亚 这泼天的富贵",
+        "onboard_time": 1694433278,
+        "rank": 21,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 605040,
+        "num": 278724,
+        "word": "iPhone15有15项变化",
+        "onboard_time": 1694443548,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 528664,
+        "num": 277485,
+        "word": "一定要在下班后洗杯子",
+        "onboard_time": 1694443306,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540292,
+        "num": 276643,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459475,
+        "num": 276185,
+        "word": "女大学生称军训服透明几乎露出内裤",
+        "onboard_time": 1694432622,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322543,
+        "num": 275806,
+        "word": "李昀锐建议实现一户一深",
+        "onboard_time": 1694440484,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486087,
+        "num": 274722,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 363173,
+        "num": 273734,
+        "word": "玉溪一彩民中1.13亿元",
+        "onboard_time": 1694444745,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325277,
+        "num": 273397,
+        "word": "肖战盛阳长发版",
+        "onboard_time": 1694435683,
+        "rank": 29,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 400791,
+        "num": 272160,
+        "word": "李佳琦1月内5次带货花西子",
+        "onboard_time": 1694429381,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272105,
+        "num": 272105,
+        "word": "亲密关系最忌讳的是自己憋着不说",
+        "onboard_time": 1694444924,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262038,
+        "num": 262038,
+        "word": "RichBrian要来成都了",
+        "onboard_time": 1694443485,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322043,
+        "num": 258578,
+        "word": "花西子回应眉笔贵",
+        "onboard_time": 1694406405,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 251421,
+        "num": 251421,
+        "word": "工资一万要不要租3400的房子",
+        "onboard_time": 1694419597,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 239011,
+        "num": 239011,
+        "word": "爱吃钵钵鸡的四川人沉默了",
+        "onboard_time": 1694432859,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254691,
+        "num": 237154,
+        "word": "头部主播高佣金 国货生态",
+        "onboard_time": 1694438748,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211019,
+        "num": 211019,
+        "word": "金繁终于主动了一次",
+        "onboard_time": 1694438688,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208376,
+        "num": 208376,
+        "word": "千万不要随便给狗子剪头发",
+        "onboard_time": 1694443425,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249410,
+        "num": 202051,
+        "word": "你接受李佳琦的道歉吗",
+        "onboard_time": 1694394997,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192180,
+        "num": 192180,
+        "word": "Yamy被判赔偿前经纪公司100万",
+        "onboard_time": 1694422417,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178142,
+        "num": 178142,
+        "word": "重庆暴雨",
+        "onboard_time": 1694444025,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185634,
+        "num": 177540,
+        "word": "李佳琦说找不到以前状态了",
+        "onboard_time": 1694356359,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168193,
+        "num": 168193,
+        "word": "冯宝宝闯祸了",
+        "onboard_time": 1694441085,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159606,
+        "num": 159606,
+        "word": "一瞬间在杨紫身上看到了时光",
+        "onboard_time": 1694429139,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156192,
+        "num": 156192,
+        "word": "玉骨遥韩国定档",
+        "onboard_time": 1694434240,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154333,
+        "num": 154333,
+        "word": "宫尚角误伤宫远徵",
+        "onboard_time": 1694431835,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 152914,
+        "word": "成毅第一部现代男主剧",
+        "onboard_time": 1694435683,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152875,
+        "num": 152875,
+        "word": "花西子客服回应网传工厂在日本",
+        "onboard_time": 1694422234,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 142530,
+        "num": 142530,
+        "word": "猫猫喜欢晒太阳",
+        "onboard_time": 1694444146,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记首次提到新质生产力#"
+    }
+  }
+}
