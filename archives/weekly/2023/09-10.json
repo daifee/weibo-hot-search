@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694388839782,
+  "endTime": 1694394703722,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8490912,
+      "num": 307350,
+      "word": "李佳琦就直播言论致歉",
+      "onboard_time": 1694387725,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6316804,
       "num": 840054,
       "word": "李佳琦带货怼网友",
       "onboard_time": 1694332772,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 5335336,
-      "num": 252500,
-      "word": "李佳琦就直播言论致歉",
-      "onboard_time": 1694387725,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 5257891,
@@ -41,6 +41,14 @@
       "onboard_time": 1694330431,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3744671,
+      "num": 3989342,
+      "word": "美国功勋间谍在华落网",
+      "onboard_time": 1694390740,
+      "rank": 0,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 3473689,
@@ -387,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 917351,
+      "num": 917351,
+      "word": "赵本山你大爷永远是你大爷",
+      "onboard_time": 1694388750,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 908124,
       "num": 908124,
       "word": "九尾",
       "onboard_time": 1694355818,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 903194,
+      "num": 300436,
+      "word": "胡锡进 尊重收入不高的劳动者",
+      "onboard_time": 1694393441,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871541,
@@ -531,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 710956,
+      "num": 386747,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 709711,
       "num": 218298,
       "word": "网易云 教师节",
@@ -568,6 +600,14 @@
       "word": "27岁女子极端减肥瘦20斤致闭经1年半",
       "onboard_time": 1694361160,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654752,
+      "num": 654752,
+      "word": "深圳地铁",
+      "onboard_time": 1694392780,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -667,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 587587,
+      "num": 297033,
+      "word": "黑龙江一怀孕女子被丈夫殴打威胁",
+      "onboard_time": 1694391578,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581092,
       "num": 581092,
       "word": "邓为费加罗男士金九首封预告",
@@ -745,6 +793,22 @@
       "onboard_time": 1694334693,
       "rank": 21,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 528034,
+      "num": 528034,
+      "word": "乃万演唱会突遇断电",
+      "onboard_time": 1694390435,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 523991,
+      "num": 305068,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1694393797,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 506726,
@@ -875,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464307,
+      "num": 297705,
+      "word": "吐槽商品贵等于工作不努力吗",
+      "onboard_time": 1694388932,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 464065,
       "num": 464065,
       "word": "孙阳承诺票房破3亿晒腹肌",
@@ -995,12 +1067,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417048,
+      "num": 417048,
+      "word": "美国911事件22周年",
+      "onboard_time": 1694393136,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416889,
+      "num": 296208,
+      "word": "小说第一章没看完我就沉默",
+      "onboard_time": 1694392420,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415213,
       "num": 415213,
       "word": "石凯指甲油颜色",
       "onboard_time": 1694340334,
       "rank": 18,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 414281,
+      "num": 414281,
+      "word": "华为手机无信号打通卫星电话",
+      "onboard_time": 1694388629,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 414119,
@@ -1092,7 +1188,7 @@
     },
     {
       "raw_hot": 393112,
-      "num": 222257,
+      "num": 294292,
       "word": "性格内向的人看起来会更显小",
       "onboard_time": 1694374216,
       "rank": 23,
@@ -1115,14 +1211,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 386747,
-      "num": 386747,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 386557,
       "num": 386557,
       "word": "马丽沈腾吃折耳根演我",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1694340697,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381469,
+      "num": 299111,
+      "word": "终于知道为什么会晕车了",
+      "onboard_time": 1694389113,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 378753,
@@ -1283,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337180,
+      "num": 293563,
+      "word": "当南方人第一次见到苹果树",
+      "onboard_time": 1694392720,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336189,
       "num": 336189,
       "word": "大熊猫丁丁和幼崽正面照",
@@ -1360,6 +1464,14 @@
       "word": "异人之下周深别唱了",
       "onboard_time": 1694277868,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 318562,
+      "num": 292814,
+      "word": "上官浅宫三去玩不带宫二",
+      "onboard_time": 1694392298,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1467,6 +1579,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 307415,
+      "num": 307415,
+      "word": "摩洛哥地震死亡人数已升至2122人",
+      "onboard_time": 1694389472,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 307032,
       "num": 307032,
       "word": "高晓松 向太",
@@ -1537,6 +1657,14 @@
       "onboard_time": 1694361636,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292182,
+      "num": 292182,
+      "word": "白敬亭假扮摄像老师好机智",
+      "onboard_time": 1694392720,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 289218,
@@ -1707,6 +1835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262670,
+      "num": 262670,
+      "word": "不想军训 萧敬腾雨来",
+      "onboard_time": 1694390134,
+      "rank": 27,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 262386,
       "num": 262386,
       "word": "爱上倪妮是我的宿命",
@@ -1835,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238254,
+      "num": 219634,
+      "word": "火树晒刚抽的蒲熠星",
+      "onboard_time": 1694394040,
+      "rank": 30,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 237505,
       "num": 237505,
       "word": "刘雨昕把祝多写了一点",
@@ -1860,7 +2004,7 @@
     },
     {
       "raw_hot": 233617,
-      "num": 137231,
+      "num": 220464,
       "word": "沙特大臣称我是厦大毕业的不用翻译",
       "onboard_time": 1694371636,
       "rank": 30,
@@ -2041,6 +2185,14 @@
       "onboard_time": 1694325452,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 217899,
+      "num": 217899,
+      "word": "夜色尚浅 好嗑",
+      "onboard_time": 1694389232,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 216760,
@@ -2256,6 +2408,14 @@
       "word": "王曼昱亚锦赛三冠王",
       "onboard_time": 1694331091,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202436,
+      "num": 202436,
+      "word": "德国男篮主教练瘫倒在地",
+      "onboard_time": 1694388932,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2507,6 +2667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185384,
+      "num": 185384,
+      "word": "大熊猫福宝圈了好多国际粉",
+      "onboard_time": 1694390435,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185103,
       "num": 185103,
       "word": "一到中秋就出现的广东水果",
@@ -2683,6 +2851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169028,
+      "num": 169028,
+      "word": "德约科维奇美网四冠王",
+      "onboard_time": 1694389892,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168332,
       "num": 168332,
       "word": "凡晨组合夺中国赛第3冠",
@@ -2739,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162570,
+      "num": 302709,
+      "word": "国航初判CA403事件系发动机故障",
+      "onboard_time": 1694390435,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162092,
       "num": 463765,
       "word": "妈妈第一次自己坐地铁女儿偷偷跟着",
@@ -2769,6 +2953,14 @@
       "onboard_time": 1694335116,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156371,
+      "num": 156371,
+      "word": "摩洛哥地震瞬间画面看得揪心",
+      "onboard_time": 1694394397,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 154490,
@@ -2865,6 +3057,14 @@
       "onboard_time": 1694314474,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146569,
+      "num": 146569,
+      "word": "TTG全员发博庆祝夺冠",
+      "onboard_time": 1694390015,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 145863,
@@ -3011,6 +3211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 128703,
+      "num": 128703,
+      "word": "TSM逆袭夺冠",
+      "onboard_time": 1694389049,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128610,
       "num": 128610,
       "word": "男生军训跳长绸舞引哇声一片",
@@ -3081,14 +3289,6 @@
       "onboard_time": 1694267377,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118451,
-      "num": 118451,
-      "word": "赵本山你大爷永远是你大爷",
-      "onboard_time": 1694388750,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 117620,
@@ -3195,12 +3395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95888,
-      "num": 95888,
-      "word": "华为手机无信号打通卫星电话",
-      "onboard_time": 1694388629,
+      "raw_hot": 95340,
+      "num": 866060,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
       "rank": 45,
-      "category": "社会新闻,科技"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94231,
@@ -3360,14 +3560,6 @@
       "word": "高校学生手工做100个黏土花束送老师",
       "onboard_time": 1694332831,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57576,
-      "num": 651086,
-      "word": "同学们便利贴写祝福拼成画送老师",
-      "onboard_time": 1694351495,
-      "rank": 45,
       "category": "社会新闻"
     },
     {

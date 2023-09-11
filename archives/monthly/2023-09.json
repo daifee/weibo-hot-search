@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694388839782,
+  "endTime": 1694394703722,
   "band_list": [
     {
       "raw_hot": 9147516,
@@ -25,6 +25,14 @@
       "onboard_time": 1693649312,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8490912,
+      "num": 307350,
+      "word": "李佳琦就直播言论致歉",
+      "onboard_time": 1694387725,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 7898237,
@@ -57,14 +65,6 @@
       "onboard_time": 1693651298,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 5335336,
-      "num": 252500,
-      "word": "李佳琦就直播言论致歉",
-      "onboard_time": 1694387725,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 5262598,
@@ -129,6 +129,14 @@
       "onboard_time": 1693914455,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3744671,
+      "num": 3989342,
+      "word": "美国功勋间谍在华落网",
+      "onboard_time": 1694390740,
+      "rank": 0,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 3609493,
@@ -3459,6 +3467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 917351,
+      "num": 917351,
+      "word": "赵本山你大爷永远是你大爷",
+      "onboard_time": 1694388750,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 916615,
       "num": 916615,
       "word": "外交部回应美国调查华为最新手机芯片",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1693977098,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 903194,
+      "num": 300436,
+      "word": "胡锡进 尊重收入不高的劳动者",
+      "onboard_time": 1694393441,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 900556,
@@ -5011,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 710956,
+      "num": 386747,
+      "word": "这届年轻人为何变得抠门了",
+      "onboard_time": 1694365166,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 709711,
       "num": 218298,
       "word": "网易云 教师节",
@@ -5665,6 +5697,14 @@
       "onboard_time": 1694054554,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 654752,
+      "num": 654752,
+      "word": "深圳地铁",
+      "onboard_time": 1693531232,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653979,
@@ -6443,14 +6483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 603276,
-      "num": 603276,
-      "word": "深圳地铁",
-      "onboard_time": 1693531232,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 602839,
       "num": 602839,
       "word": "平原县地震",
@@ -6673,6 +6705,14 @@
       "onboard_time": 1694007698,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 587587,
+      "num": 297033,
+      "word": "黑龙江一怀孕女子被丈夫殴打威胁",
+      "onboard_time": 1694391578,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587580,
@@ -7665,6 +7705,14 @@
       "onboard_time": 1693979254,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 528034,
+      "num": 528034,
+      "word": "乃万演唱会突遇断电",
+      "onboard_time": 1694390435,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 527755,
@@ -8979,6 +9027,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 464307,
+      "num": 297705,
+      "word": "吐槽商品贵等于工作不努力吗",
+      "onboard_time": 1694388932,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 464200,
       "num": 464200,
       "word": "北京600平的大别墅",
@@ -10147,12 +10203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417048,
+      "num": 417048,
+      "word": "美国911事件22周年",
+      "onboard_time": 1694393136,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416914,
       "num": 416914,
       "word": "吴磊发言情商太高了",
       "onboard_time": 1693998937,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416889,
+      "num": 296208,
+      "word": "小说第一章没看完我就沉默",
+      "onboard_time": 1694392420,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415639,
@@ -10201,6 +10273,14 @@
       "onboard_time": 1693528418,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414281,
+      "num": 414281,
+      "word": "华为手机无信号打通卫星电话",
+      "onboard_time": 1694388629,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 414269,
@@ -10756,7 +10836,7 @@
     },
     {
       "raw_hot": 393112,
-      "num": 222257,
+      "num": 294292,
       "word": "性格内向的人看起来会更显小",
       "onboard_time": 1694374216,
       "rank": 23,
@@ -10865,14 +10945,6 @@
       "onboard_time": 1693560280,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386747,
-      "num": 386747,
-      "word": "这届年轻人为何变得抠门了",
-      "onboard_time": 1694365166,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 386557,
@@ -11001,6 +11073,14 @@
       "onboard_time": 1694151815,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381469,
+      "num": 299111,
+      "word": "终于知道为什么会晕车了",
+      "onboard_time": 1694389113,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 381232,
@@ -12251,6 +12331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337180,
+      "num": 293563,
+      "word": "当南方人第一次见到苹果树",
+      "onboard_time": 1694392720,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337079,
       "num": 337079,
       "word": "自费盖8间房找出哪台空调最省电",
@@ -12963,6 +13051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318562,
+      "num": 292814,
+      "word": "上官浅宫三去玩不带宫二",
+      "onboard_time": 1694392298,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318376,
       "num": 318376,
       "word": "宋亚轩每次上学都有新笑料",
@@ -13473,6 +13569,14 @@
       "onboard_time": 1694170174,
       "rank": 26,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 307415,
+      "num": 307415,
+      "word": "摩洛哥地震死亡人数已升至2122人",
+      "onboard_time": 1694389472,
+      "rank": 9,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 307395,
@@ -14024,6 +14128,14 @@
       "word": "黑夜问白天真的很绝",
       "onboard_time": 1693553674,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292182,
+      "num": 292182,
+      "word": "白敬亭假扮摄像老师好机智",
+      "onboard_time": 1694392720,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -15331,6 +15443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262670,
+      "num": 262670,
+      "word": "不想军训 萧敬腾雨来",
+      "onboard_time": 1694390134,
+      "rank": 27,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 262567,
       "num": 262567,
       "word": "张杰未live巡回演唱会",
@@ -16635,6 +16755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238254,
+      "num": 219634,
+      "word": "火树晒刚抽的蒲熠星",
+      "onboard_time": 1694394040,
+      "rank": 30,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 238093,
       "num": 233422,
       "word": "张栋梁叫鬼脚梁的原因",
@@ -16908,7 +17036,7 @@
     },
     {
       "raw_hot": 233617,
-      "num": 137231,
+      "num": 220464,
       "word": "沙特大臣称我是厦大毕业的不用翻译",
       "onboard_time": 1694371636,
       "rank": 30,
@@ -17865,6 +17993,14 @@
       "onboard_time": 1693573418,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 217899,
+      "num": 217899,
+      "word": "夜色尚浅 好嗑",
+      "onboard_time": 1694389232,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 217898,
@@ -19225,6 +19361,14 @@
       "onboard_time": 1693985012,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 202436,
+      "num": 202436,
+      "word": "德国男篮主教练瘫倒在地",
+      "onboard_time": 1694388932,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 202262,
@@ -21091,6 +21235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185384,
+      "num": 185384,
+      "word": "大熊猫福宝圈了好多国际粉",
+      "onboard_time": 1694390435,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185279,
       "num": 185279,
       "word": "这周日是教师节",
@@ -22203,6 +22355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169028,
+      "num": 169028,
+      "word": "德约科维奇美网四冠王",
+      "onboard_time": 1694389892,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168522,
       "num": 324585,
       "word": "警犬找回走失男子被奖励一盆鸡腿",
@@ -22619,6 +22779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162570,
+      "num": 302709,
+      "word": "国航初判CA403事件系发动机故障",
+      "onboard_time": 1694390435,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162352,
       "num": 162352,
       "word": "理解悟空听紧箍咒的感觉了",
@@ -22985,6 +23153,14 @@
       "onboard_time": 1694241035,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156371,
+      "num": 156371,
+      "word": "摩洛哥地震瞬间画面看得揪心",
+      "onboard_time": 1694394397,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 156327,
@@ -23593,6 +23769,14 @@
       "onboard_time": 1693964256,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146569,
+      "num": 146569,
+      "word": "TTG全员发博庆祝夺冠",
+      "onboard_time": 1694390015,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 146373,
@@ -24467,6 +24651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128703,
+      "num": 128703,
+      "word": "TSM逆袭夺冠",
+      "onboard_time": 1694389049,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128640,
       "num": 128640,
       "word": "盗墓笔记博物馆",
@@ -24857,14 +25049,6 @@
       "onboard_time": 1693627235,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 118451,
-      "num": 118451,
-      "word": "赵本山你大爷永远是你大爷",
-      "onboard_time": 1694388750,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 118308,
@@ -25467,12 +25651,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95888,
-      "num": 95888,
-      "word": "华为手机无信号打通卫星电话",
-      "onboard_time": 1694388629,
+      "raw_hot": 95340,
+      "num": 866060,
+      "word": "同学们便利贴写祝福拼成画送老师",
+      "onboard_time": 1694351495,
       "rank": 45,
-      "category": "社会新闻,科技"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94693,
@@ -26280,14 +26464,6 @@
       "word": "消防车出警路遇求助秒变救护车",
       "onboard_time": 1693828832,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57576,
-      "num": 651086,
-      "word": "同学们便利贴写祝福拼成画送老师",
-      "onboard_time": 1694351495,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
