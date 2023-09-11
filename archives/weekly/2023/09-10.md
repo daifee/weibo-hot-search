@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/10 00:19:52 ~ 2023/09/12 00:37:35
+本榜单时间：2023/09/10 00:19:52 ~ 2023/09/12 01:15:29
 </p>
 </blockquote>
 <p>
@@ -3705,6 +3705,12 @@ TTG全员发博庆祝夺冠（热度：146569）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E8%90%BD%E5%9C%A8%E5%9C%B0%E4%B8%8A%E5%8F%98%E6%88%90%E4%BA%86%E8%9D%B4%E8%9D%B6%23" target="weibo">
+雨落在地上变成了蝴蝶（热度：145026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E4%B8%BB%E9%A2%98%E6%9B%B2%E7%87%83%23" target="weibo">
 杭州亚运会火炬传递主题曲燃（热度：144836）
 </a>
@@ -3897,6 +3903,12 @@ TSM逆袭夺冠（热度：128703）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%9C%8D%E5%BB%BA%E5%8D%8E%E6%96%B0%E5%89%A7%E5%AF%B9%E6%88%8F%E8%B7%AF%E9%80%8F%23" target="weibo">
+刘亦菲霍建华新剧对戏路透（热度：116175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%BA%BA%E5%9C%A8%E9%A6%99%E6%B8%AF%E7%82%B9%E7%9A%84%E7%88%86%E8%BE%A3%E9%BA%BB%E8%BE%A3%E7%83%AB%23" target="weibo">
 重庆人在香港点的爆辣麻辣烫（热度：113823）
 </a>
@@ -3953,6 +3965,12 @@ TSM逆袭夺冠（热度：128703）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E5%85%83%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E8%80%81%E5%B8%88%23" target="weibo">
 二次元有自己的老师（热度：105048）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23" target="weibo">
+五月天林俊杰双向奔赴（热度：103771）
 </a>
 </li>
 
@@ -4025,12 +4043,6 @@ TSM逆袭夺冠（热度：128703）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A0%82%E4%B8%B4%E6%97%B6%E7%AD%96%E5%88%92%E7%9A%84%E8%AF%AD%E6%96%87%E8%AF%BE%E7%9C%8B%E5%BE%97%E6%B3%AA%E7%9B%AE%23" target="weibo">
 这堂临时策划的语文课看得泪目（热度：89398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23" target="weibo">
-五月天林俊杰双向奔赴（热度：88237）
 </a>
 </li>
 

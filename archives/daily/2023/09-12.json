@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694450255385,
+  "endTime": 1694452529663,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145026,
+      "num": 115779,
+      "word": "雨落在地上变成了蝴蝶",
+      "onboard_time": 1694451505,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144278,
       "num": 144278,
       "word": "头部主播高佣金 国货生态",
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116175,
+      "num": 116175,
+      "word": "刘亦菲霍建华新剧对戏路透",
+      "onboard_time": 1694450549,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111970,
       "num": 111970,
       "word": "Yamy被判赔偿前经纪公司100万",
@@ -369,6 +385,14 @@
       "onboard_time": 1694434240,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103771,
+      "num": 103771,
+      "word": "五月天林俊杰双向奔赴",
+      "onboard_time": 1694450130,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 97913,
@@ -393,14 +417,6 @@
       "onboard_time": 1694429139,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88237,
-      "num": 88237,
-      "word": "五月天林俊杰双向奔赴",
-      "onboard_time": 1694450130,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 26747,
