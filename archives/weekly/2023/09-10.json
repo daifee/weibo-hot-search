@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694452529663,
+  "endTime": 1694453645661,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -5443,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70089,
+      "num": 70089,
+      "word": "副院长猥亵女学生获刑",
+      "onboard_time": 1694452522,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68768,
       "num": 68768,
       "word": "试吃最近超火的红魔虾",
@@ -5563,6 +5571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50303,
+      "num": 56794,
+      "word": "给耶耶做电饭煲料理",
+      "onboard_time": 1694452702,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47223,
       "num": 880265,
       "word": "夜西湖点燃亚运之夜",
@@ -5593,6 +5609,14 @@
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43537,
+      "num": 56739,
+      "word": "林俊杰演唱会为歌迷伴奏",
+      "onboard_time": 1694453299,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 37509,
