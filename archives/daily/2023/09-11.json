@@ -1,6 +1,6 @@
 {
   "startTime": 1694362833871,
-  "endTime": 1694430859485,
+  "endTime": 1694432039207,
   "band_list": [
     {
       "raw_hot": 8490912,
@@ -91,20 +91,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2963638,
+      "num": 441414,
+      "word": "李佳琦1月内5次带货花西子",
+      "onboard_time": 1694429381,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2527144,
       "num": 1399007,
       "word": "张杰 我女儿有三个为什么朋友不能有三个",
       "onboard_time": 1694399197,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2444888,
-      "num": 441414,
-      "word": "李佳琦1月内5次带货花西子",
-      "onboard_time": 1694429381,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 2203736,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 593212,
-      "num": 290068,
+      "num": 308989,
       "word": "李佳琦 花西子",
       "onboard_time": 1694330431,
       "rank": 31,
@@ -601,6 +601,14 @@
       "onboard_time": 1694405023,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 531671,
+      "num": 892193,
+      "word": "这是螺蛳粉店的行业教科书吧",
+      "onboard_time": 1694428358,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 530992,
@@ -659,14 +667,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 506493,
-      "num": 892193,
-      "word": "这是螺蛳粉店的行业教科书吧",
-      "onboard_time": 1694428358,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 504105,
       "num": 504105,
       "word": "周杰伦上海演唱会强实名",
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 502868,
-      "num": 294013,
+      "num": 311866,
       "word": "无意间看到男朋友的浏览记录",
       "onboard_time": 1694429498,
       "rank": 30,
@@ -971,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355111,
+      "num": 355111,
+      "word": "中国超3000万男性难结婚",
+      "onboard_time": 1694430161,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354771,
       "num": 354771,
       "word": "男生和女生坐副驾驶的区别",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1694418334,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330810,
+      "num": 632624,
+      "word": "退休刑警一眼认出23年前命案逃犯",
+      "onboard_time": 1694428181,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329921,
@@ -1099,20 +1115,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314963,
+      "num": 314963,
+      "word": "00后i人学姐迎新秒变e人",
+      "onboard_time": 1694431419,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311520,
       "num": 311520,
       "word": "TTG夺冠",
       "onboard_time": 1694351739,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308503,
-      "num": 632624,
-      "word": "退休刑警一眼认出23年前命案逃犯",
-      "onboard_time": 1694428181,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308149,
@@ -1187,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294367,
+      "num": 294367,
+      "word": "宫尚角误伤宫远徵",
+      "onboard_time": 1694431835,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292182,
       "num": 292182,
       "word": "白敬亭假扮摄像老师好机智",
@@ -1235,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282367,
+      "num": 282367,
+      "word": "SEVENTEEN凌晨直播总结",
+      "onboard_time": 1694429498,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281804,
       "num": 281804,
       "word": "卡戴珊 努力就会成功",
@@ -1273,14 +1305,6 @@
       "onboard_time": 1694405145,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266245,
-      "num": 266245,
-      "word": "SEVENTEEN凌晨直播总结",
-      "onboard_time": 1694429498,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 265928,
@@ -1417,6 +1441,14 @@
       "onboard_time": 1694397636,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240754,
+      "num": 240754,
+      "word": "张凌赫片场拍的虞书欣",
+      "onboard_time": 1694431184,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238254,
@@ -1659,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200234,
+      "num": 200234,
+      "word": "凌达乐已成立传媒公司",
+      "onboard_time": 1694431835,
+      "rank": 45,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 200074,
       "num": 200074,
       "word": "79岁摇滚奶奶成亚运会火炬手",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1694427879,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179273,
-      "num": 179273,
-      "word": "中国超3000万男性难结婚",
-      "onboard_time": 1694430161,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178801,
@@ -1979,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153914,
+      "num": 326221,
+      "word": "宁夏村BA现场送烤滩羊",
+      "onboard_time": 1694431540,
+      "rank": 12,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 153254,
       "num": 314313,
       "word": "只要学生在学校就在",
@@ -2155,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68544,
+      "num": 455391,
+      "word": "客车司机说山区孩子读书是大事",
+      "onboard_time": 1694430037,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68326,
       "num": 68326,
       "word": "被盛阳的笑治愈了",
@@ -2232,14 +2280,6 @@
       "word": "CA403所有人员均安全撤离",
       "onboard_time": 1694342732,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29803,
-      "num": 455391,
-      "word": "客车司机说山区孩子读书是大事",
-      "onboard_time": 1694430037,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
