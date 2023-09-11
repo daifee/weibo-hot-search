@@ -1,0 +1,410 @@
+{
+  "runTime": 1694424848566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525083,
+        "num": 1525083,
+        "word": "蜜雪冰城是全球第五大连锁快餐店",
+        "onboard_time": 1694419296,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1442255,
+        "num": 1442255,
+        "word": "长相思第二季过审",
+        "onboard_time": 1694420257,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29076,
+        "num": 1248813,
+        "word": "2023年国家网络安全宣传周",
+        "onboard_time": 1694402381,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243905,
+        "num": 1243905,
+        "word": "工资一万要不要租3400的房子",
+        "onboard_time": 1694419597,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1139712,
+        "num": 1139712,
+        "word": "Yamy被判赔偿前经纪公司100万",
+        "onboard_time": 1694422417,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651156,
+        "num": 651156,
+        "word": "华为 财神爷上香",
+        "onboard_time": 1694420798,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 546584,
+        "num": 546584,
+        "word": "十元盒饭姐流泪称不想再坚持",
+        "onboard_time": 1694413235,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396587,
+        "num": 396587,
+        "word": "周杰伦上海演唱会强实名",
+        "onboard_time": 1694418993,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 343995,
+        "num": 396191,
+        "word": "43岁女子二次考研考上北京大学",
+        "onboard_time": 1694418274,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 314983,
+        "num": 395435,
+        "word": "相亲不是感情发生的载体",
+        "onboard_time": 1694416295,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 5559262,
+        "num": 394587,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216702,
+        "num": 393147,
+        "word": "179名电诈嫌疑人从老挝被押解回国",
+        "onboard_time": 1694424218,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200873,
+        "num": 392099,
+        "word": "妈妈问女儿能不能先服个软",
+        "onboard_time": 1694404965,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170270,
+        "num": 391805,
+        "word": "当边防女兵第一次见到界碑",
+        "onboard_time": 1694421583,
+        "rank": 13,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 33157,
+        "num": 390447,
+        "word": "殷若宁登顶世界第一",
+        "onboard_time": 1694423800,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2000601,
+        "num": 389553,
+        "word": "花洛莉亚眉笔",
+        "onboard_time": 1694422599,
+        "rank": 15,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1930346,
+        "num": 388675,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1620603,
+        "num": 387981,
+        "word": "凌达乐自曝一个月赚500万",
+        "onboard_time": 1694416773,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1471264,
+        "num": 387034,
+        "word": "花西子回应眉笔贵",
+        "onboard_time": 1694406405,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1470550,
+        "num": 386272,
+        "word": "李佳琦净收入超过逾90%A股公司",
+        "onboard_time": 1694424038,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1039569,
+        "num": 384902,
+        "word": "日本79岁男子性侵100岁女子致死",
+        "onboard_time": 1694418334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678737,
+        "num": 384250,
+        "word": "胡锡进 我们应接受李佳琦的道歉",
+        "onboard_time": 1694408147,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 675959,
+        "num": 383069,
+        "word": "李佳琦说找不到以前状态了",
+        "onboard_time": 1694356359,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 551310,
+        "num": 381993,
+        "word": "120w买了老破小",
+        "onboard_time": 1694420498,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 489754,
+        "num": 381733,
+        "word": "你接受李佳琦的道歉吗",
+        "onboard_time": 1694394997,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 488657,
+        "num": 380870,
+        "word": "华晨宇演唱会粉丝又翻车了",
+        "onboard_time": 1694421876,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 486474,
+        "num": 379504,
+        "word": "薛之谦跪着向歌迷道歉",
+        "onboard_time": 1694420439,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428770,
+        "num": 378564,
+        "word": "长期久坐打工人体态调整方法",
+        "onboard_time": 1694423019,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378223,
+        "num": 378223,
+        "word": "花西子回应李佳琦网传高佣金",
+        "onboard_time": 1694401298,
+        "rank": 28,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 367065,
+        "num": 367065,
+        "word": "花西子客服回应网传工厂在日本",
+        "onboard_time": 1694422234,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 323454,
+        "num": 323454,
+        "word": "内娱封面TOP",
+        "onboard_time": 1694419898,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 297002,
+        "num": 297002,
+        "word": "花西子20%以上营收来自李佳琦",
+        "onboard_time": 1694401539,
+        "rank": 31,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 291121,
+        "num": 291121,
+        "word": "王子文龙须刘海",
+        "onboard_time": 1694423258,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290602,
+        "num": 290602,
+        "word": "茅台原董事长袁仁国去世",
+        "onboard_time": 1694424642,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282062,
+        "num": 282062,
+        "word": "上海暴雨",
+        "onboard_time": 1694423856,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247393,
+        "num": 247393,
+        "word": "华为明天开发布会吗",
+        "onboard_time": 1694421040,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206631,
+        "num": 206631,
+        "word": "上官浅宫远徵要打起来了",
+        "onboard_time": 1694422539,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205526,
+        "num": 205526,
+        "word": "王一博终于玩滑板了",
+        "onboard_time": 1694420798,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 203156,
+        "num": 203156,
+        "word": "须佐之男臻藏皮肤",
+        "onboard_time": 1694422056,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196325,
+        "num": 196325,
+        "word": "多人往海里放生60多箱矿泉水",
+        "onboard_time": 1694403342,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193502,
+        "num": 193502,
+        "word": "章昊出道后第一次回国",
+        "onboard_time": 1694420736,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192267,
+        "num": 192267,
+        "word": "张杰 我女儿有三个为什么朋友不能有三个",
+        "onboard_time": 1694399197,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185600,
+        "num": 185600,
+        "word": "成毅被张予曦吓出东北话",
+        "onboard_time": 1694418334,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167365,
+        "num": 167365,
+        "word": "华为回归或使iPhone出货量减少1000万",
+        "onboard_time": 1694412337,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165190,
+        "num": 165190,
+        "word": "六公主评杨子姗演的女明星",
+        "onboard_time": 1694421637,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155660,
+        "num": 155660,
+        "word": "父亲藏女儿高中录取通知书17年",
+        "onboard_time": 1694399919,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154005,
+        "num": 154005,
+        "word": "清洁工捡20万元现金交给民警",
+        "onboard_time": 1694419056,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 153501,
+        "num": 153501,
+        "word": "卡戴珊 努力就会成功",
+        "onboard_time": 1694417975,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151345,
+        "num": 151345,
+        "word": "李一桐邓为云秀行同框路透",
+        "onboard_time": 1694420980,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144107,
+        "num": 144107,
+        "word": "花西子 打工人专属货币单位",
+        "onboard_time": 1694400582,
+        "rank": 49,
+        "category": "幽默,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对挑战更要攻坚克难#"
+    }
+  }
+}
