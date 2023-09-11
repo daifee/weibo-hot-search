@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694468028679,
+  "endTime": 1694470527075,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124394,
+      "num": 61200,
+      "word": "重庆被霸凌女生家属发声",
+      "onboard_time": 1694468174,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117963,
       "num": 117963,
       "word": "我有事要去jellycat一趟",
@@ -435,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 59110,
+      "num": 59110,
+      "word": "重庆一中学女生遭多人殴打逼下跪",
+      "onboard_time": 1694469435,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 50303,
       "num": 56794,
       "word": "给耶耶做电饭煲料理",
       "onboard_time": 1694452702,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 48861,
+      "num": 56109,
+      "word": "短暂的网红和长远的工作选哪个",
+      "onboard_time": 1694468354,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 43537,
@@ -460,11 +484,19 @@
     },
     {
       "raw_hot": 36335,
-      "num": 28291,
+      "num": 56011,
       "word": "Rose否认与霉霉合作",
       "onboard_time": 1694460855,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36311,
+      "num": 56108,
+      "word": "如何告别严重抑郁情绪",
+      "onboard_time": 1694463554,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 30341,
@@ -475,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28722,
-      "num": 28722,
-      "word": "如何告别严重抑郁情绪",
-      "onboard_time": 1694463554,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 28074,
+      "num": 56046,
+      "word": "A股",
+      "onboard_time": 1694458635,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 26747,
@@ -489,14 +521,6 @@
       "onboard_time": 1694435444,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24433,
-      "num": 28277,
-      "word": "A股",
-      "onboard_time": 1694458635,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 22570,

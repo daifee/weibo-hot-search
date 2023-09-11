@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/10 00:19:52 ~ 2023/09/12 05:33:48
+本榜单时间：2023/09/10 00:19:52 ~ 2023/09/12 06:15:27
 </p>
 </blockquote>
 <p>
@@ -3891,6 +3891,12 @@ TSM逆袭夺冠（热度：128703）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%A2%AB%E9%9C%B8%E5%87%8C%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+重庆被霸凌女生家属发声（热度：124394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E4%B8%93%E4%B8%9A%E9%80%97%E7%89%9B%E5%A3%AB%23" target="weibo">
 虞书欣 专业逗牛士（热度：121764）
 </a>
@@ -4161,6 +4167,12 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%E9%80%BC%E4%B8%8B%E8%B7%AA%23" target="weibo">
+重庆一中学女生遭多人殴打逼下跪（热度：59110）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
 微观杭州亚运会（热度：54903）
 </a>
@@ -4199,6 +4211,12 @@ wbg周冠（热度：76864）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E8%80%B6%E8%80%B6%E5%81%9A%E7%94%B5%E9%A5%AD%E7%85%B2%E6%96%99%E7%90%86%23" target="weibo">
 给耶耶做电饭煲料理（热度：50303）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E6%9A%82%E7%9A%84%E7%BD%91%E7%BA%A2%E5%92%8C%E9%95%BF%E8%BF%9C%E7%9A%84%E5%B7%A5%E4%BD%9C%E9%80%89%E5%93%AA%E4%B8%AA%23" target="weibo">
+短暂的网红和长远的工作选哪个（热度：48861）
 </a>
 </li>
 
@@ -4257,6 +4275,12 @@ Rose否认与霉霉合作（热度：36335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%91%8A%E5%88%AB%E4%B8%A5%E9%87%8D%E6%8A%91%E9%83%81%E6%83%85%E7%BB%AA%23" target="weibo">
+如何告别严重抑郁情绪（热度：36311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E6%8A%8A%E4%B8%8E%E5%AD%A6%E7%94%9F%E7%9A%84%E6%95%85%E4%BA%8B%E5%86%99%E8%BF%9B%E8%AF%97%E9%9B%86%23" target="weibo">
 教师把与学生的故事写进诗集（热度：35589）
 </a>
@@ -4305,14 +4329,8 @@ Rose否认与霉霉合作（热度：36335）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%91%8A%E5%88%AB%E4%B8%A5%E9%87%8D%E6%8A%91%E9%83%81%E6%83%85%E7%BB%AA%23" target="weibo">
-如何告别严重抑郁情绪（热度：28722）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：24433）
+A股（热度：28074）
 </a>
 </li>
 
