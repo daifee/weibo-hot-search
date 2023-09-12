@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694525618722,
+  "endTime": 1694528170928,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -307,6 +307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2393460,
+      "num": 2393460,
+      "word": "这4种面包真的建议少吃",
+      "onboard_time": 1694523278,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2374095,
       "num": 651564,
       "word": "男子感染HPV向发生关系女房东索赔被驳",
@@ -353,6 +361,14 @@
       "onboard_time": 1694402499,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2181736,
+      "num": 2181736,
+      "word": "国足0比1叙利亚",
+      "onboard_time": 1694526043,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2164187,
@@ -505,14 +521,6 @@
       "onboard_time": 1694490340,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1784076,
-      "num": 1784076,
-      "word": "这4种面包真的建议少吃",
-      "onboard_time": 1694523278,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 1743895,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1694517761,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 998998,
+      "num": 490018,
+      "word": "怪不得她是国民初恋",
+      "onboard_time": 1694523036,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 992842,
@@ -1611,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 680795,
+      "num": 680795,
+      "word": "日本反对他国直接取样独立检测",
+      "onboard_time": 1694526465,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 677378,
       "num": 405944,
       "word": "粗心爸爸记错放学时间要强女儿独自回家",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1694395056,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622178,
-      "num": 490018,
-      "word": "怪不得她是国民初恋",
-      "onboard_time": 1694523036,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 617964,
@@ -1971,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557756,
+      "num": 557756,
+      "word": "新精英的傲慢",
+      "onboard_time": 1694524722,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554241,
       "num": 507433,
       "word": "TTG先到赛点",
@@ -2052,7 +2076,7 @@
     },
     {
       "raw_hot": 540510,
-      "num": 448629,
+      "num": 485652,
       "word": "莲花味精上架79元的套餐",
       "onboard_time": 1694524062,
       "rank": 27,
@@ -2395,14 +2419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 472203,
-      "num": 472203,
-      "word": "新精英的傲慢",
-      "onboard_time": 1694524722,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472147,
       "num": 472147,
       "word": "射手座是一个嘴软心硬的人",
@@ -2579,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448361,
+      "num": 448361,
+      "word": "中小学教师从事学科类校外培训将从重处罚",
+      "onboard_time": 1694526225,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 446192,
       "num": 383705,
       "word": "虞书欣也有他拍的了",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1694309792,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435585,
+      "num": 391452,
+      "word": "现在年轻人的工位长这样",
+      "onboard_time": 1694527182,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 432618,
@@ -3179,6 +3211,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 361987,
+      "num": 361987,
+      "word": "侯卓成是杨汝晴的第一优先级",
+      "onboard_time": 1694525804,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361123,
       "num": 361123,
       "word": "张亮开车主打一个倔强",
@@ -3395,6 +3435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339019,
+      "num": 339019,
+      "word": "沙溢cos的东方青苍",
+      "onboard_time": 1694525378,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337574,
       "num": 337574,
       "word": "OG",
@@ -3585,6 +3633,14 @@
       "onboard_time": 1694307631,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322715,
+      "num": 322715,
+      "word": "成毅换了微博头像",
+      "onboard_time": 1694527840,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 322660,
@@ -4011,6 +4067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296414,
+      "num": 296414,
+      "word": "留给中国队的时间不多了",
+      "onboard_time": 1694525924,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296135,
       "num": 296135,
       "word": "旅行真的可以看清一个人",
@@ -4427,6 +4491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264883,
+      "num": 264883,
+      "word": "分享欲不是喜欢探索欲才是",
+      "onboard_time": 1694524299,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264829,
       "num": 264829,
       "word": "刘雅瑟 你们替我去看个电影吧",
@@ -4539,6 +4611,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 256982,
+      "num": 508235,
+      "word": "38年前一顿饭女子照顾闺蜜14年",
+      "onboard_time": 1694523700,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256203,
       "num": 256203,
       "word": "华为明天开发布会吗",
@@ -4585,6 +4665,14 @@
       "onboard_time": 1694437430,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250689,
+      "num": 250689,
+      "word": "白敬亭十六宫格",
+      "onboard_time": 1694527422,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 250332,
@@ -4827,14 +4915,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 237817,
-      "num": 237817,
-      "word": "分享欲不是喜欢探索欲才是",
-      "onboard_time": 1694524299,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 237505,
       "num": 237505,
       "word": "刘雨昕把祝多写了一点",
@@ -4873,14 +4953,6 @@
       "onboard_time": 1694496520,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233951,
-      "num": 233951,
-      "word": "沙溢cos的东方青苍",
-      "onboard_time": 1694525378,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 233629,
@@ -4976,6 +5048,14 @@
       "word": "女子胸前腰部绑藏15条活体蛇入境",
       "onboard_time": 1694260115,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228405,
+      "num": 228405,
+      "word": "我听到声音了快打120",
+      "onboard_time": 1694527963,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -5081,6 +5161,14 @@
       "onboard_time": 1694329052,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223747,
+      "num": 223747,
+      "word": "日本vs土耳其",
+      "onboard_time": 1694525681,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 223495,
@@ -5651,6 +5739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200796,
+      "num": 200796,
+      "word": "宫尚角为上官浅求情",
+      "onboard_time": 1694525563,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200791,
       "num": 200791,
       "word": "盛阳独白曲MV上线",
@@ -6025,6 +6121,14 @@
       "onboard_time": 1694355278,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 187492,
+      "num": 187492,
+      "word": "国足热身赛两场不胜",
+      "onboard_time": 1694527543,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 187407,
@@ -6483,14 +6587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169526,
-      "num": 508235,
-      "word": "38年前一顿饭女子照顾闺蜜14年",
-      "onboard_time": 1694523700,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169337,
       "num": 272433,
       "word": "2岁男童山中走失一夜获救",
@@ -6633,14 +6729,6 @@
       "onboard_time": 1694400039,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163339,
-      "num": 163339,
-      "word": "宫尚角为上官浅求情",
-      "onboard_time": 1694525563,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 162866,
@@ -7491,6 +7579,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 83407,
+      "num": 1031590,
+      "word": "杭州亚运村周六正式开村",
+      "onboard_time": 1694525141,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 79759,
       "num": 366497,
       "word": "退休教师为学生保存时光胶囊34年",
@@ -7601,6 +7697,14 @@
       "onboard_time": 1694367260,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 66518,
+      "num": 443730,
+      "word": "3岁妹妹6岁姐姐趁妈妈洗澡收拾客厅",
+      "onboard_time": 1694527242,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65808,
@@ -7857,14 +7961,6 @@
       "onboard_time": 1694444446,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28601,
-      "num": 1031590,
-      "word": "杭州亚运村周六正式开村",
-      "onboard_time": 1694525141,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 24147,

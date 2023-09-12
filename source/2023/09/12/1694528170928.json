@@ -1,0 +1,410 @@
+{
+  "runTime": 1694528170928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2393460,
+        "num": 2393460,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 0,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 2181736,
+        "num": 2181736,
+        "word": "国足0比1叙利亚",
+        "onboard_time": 1694526043,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83407,
+        "num": 933156,
+        "word": "杭州亚运村周六正式开村",
+        "onboard_time": 1694525141,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 680795,
+        "num": 680795,
+        "word": "日本反对他国直接取样独立检测",
+        "onboard_time": 1694526465,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 664175,
+        "num": 664175,
+        "word": "分手谈出了离职的感觉",
+        "onboard_time": 1694516200,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 663764,
+        "num": 663764,
+        "word": "宫尚角隐形眼镜忘摘了",
+        "onboard_time": 1694521897,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621973,
+        "num": 621973,
+        "word": "赵丽颖参加中国电视艺术家大会",
+        "onboard_time": 1694523518,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557756,
+        "num": 557756,
+        "word": "新精英的傲慢",
+        "onboard_time": 1694524722,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496896,
+        "num": 496896,
+        "word": "12306回应女子买高铁二等座要毛毯",
+        "onboard_time": 1694518957,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485652,
+        "num": 485652,
+        "word": "莲花味精上架79元的套餐",
+        "onboard_time": 1694524062,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159076,
+        "num": 483778,
+        "word": "郑恺这一个月经历了什么",
+        "onboard_time": 1694522978,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998998,
+        "num": 483136,
+        "word": "怪不得她是国民初恋",
+        "onboard_time": 1694523036,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474011,
+        "num": 474011,
+        "word": "取消台胞在闽暂住登记",
+        "onboard_time": 1694519797,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 448361,
+        "num": 448361,
+        "word": "中小学教师从事学科类校外培训将从重处罚",
+        "onboard_time": 1694526225,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66518,
+        "num": 443730,
+        "word": "3岁妹妹6岁姐姐趁妈妈洗澡收拾客厅",
+        "onboard_time": 1694527242,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909489,
+        "num": 434205,
+        "word": "学校内衣内裤混洗的人贴了文献",
+        "onboard_time": 1694515898,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592915,
+        "num": 423962,
+        "word": "郭敬明减肥法",
+        "onboard_time": 1694522199,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473392,
+        "num": 414302,
+        "word": "杨玏 要不就是他去嘬别的孩子了",
+        "onboard_time": 1694516261,
+        "rank": 17,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 413207,
+        "num": 413207,
+        "word": "莲花楼演唱会官宣",
+        "onboard_time": 1694518299,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395827,
+        "num": 395827,
+        "word": "李佳琦们别再飘了",
+        "onboard_time": 1694487338,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 632067,
+        "num": 392191,
+        "word": "iPhone15配置售价一图来了",
+        "onboard_time": 1694511702,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 435585,
+        "num": 391452,
+        "word": "现在年轻人的工位长这样",
+        "onboard_time": 1694527182,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369910,
+        "num": 369910,
+        "word": "C盘满了千万不要乱删文件",
+        "onboard_time": 1694524722,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 361987,
+        "num": 361987,
+        "word": "侯卓成是杨汝晴的第一优先级",
+        "onboard_time": 1694525804,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340739,
+        "num": 340739,
+        "word": "花西子同款眉笔成本价不超10元",
+        "onboard_time": 1694508940,
+        "rank": 24,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 339019,
+        "num": 339019,
+        "word": "沙溢cos的东方青苍",
+        "onboard_time": 1694525378,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322715,
+        "num": 322715,
+        "word": "成毅换了微博头像",
+        "onboard_time": 1694527840,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319424,
+        "num": 319424,
+        "word": "婆婆最爱的大花墙被我砸了",
+        "onboard_time": 1694522799,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306264,
+        "num": 306264,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296414,
+        "num": 296414,
+        "word": "留给中国队的时间不多了",
+        "onboard_time": 1694525924,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275666,
+        "num": 275666,
+        "word": "国足vs叙利亚",
+        "onboard_time": 1694516979,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264883,
+        "num": 264883,
+        "word": "分享欲不是喜欢探索欲才是",
+        "onboard_time": 1694524299,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257318,
+        "num": 257318,
+        "word": "大麦 抢不到",
+        "onboard_time": 1694515898,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256982,
+        "num": 256982,
+        "word": "38年前一顿饭女子照顾闺蜜14年",
+        "onboard_time": 1694523700,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250689,
+        "num": 250689,
+        "word": "白敬亭十六宫格",
+        "onboard_time": 1694527422,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246793,
+        "num": 246793,
+        "word": "月公子也是无锋吗",
+        "onboard_time": 1694522856,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239247,
+        "num": 239247,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244710,
+        "num": 238339,
+        "word": "上官浅停止营业但卢昱晓没有",
+        "onboard_time": 1694524239,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233785,
+        "num": 233785,
+        "word": "华晨宇王牌对王牌cos相柳",
+        "onboard_time": 1694512237,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228405,
+        "num": 228405,
+        "word": "我听到声音了快打120",
+        "onboard_time": 1694527963,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223747,
+        "num": 223747,
+        "word": "日本vs土耳其",
+        "onboard_time": 1694525681,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219260,
+        "num": 219260,
+        "word": "子宫肌瘤可能是吃出来的",
+        "onboard_time": 1694506599,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 219194,
+        "num": 219194,
+        "word": "蜂花小哥直播间一上午人气翻10倍",
+        "onboard_time": 1694517877,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212512,
+        "num": 218496,
+        "word": "叙利亚领先",
+        "onboard_time": 1694524123,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218404,
+        "num": 218404,
+        "word": "半年报将公司名称写成那要不住哥哥家里吧",
+        "onboard_time": 1694523821,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214677,
+        "num": 214677,
+        "word": "成毅怎么老演这种快死的角色",
+        "onboard_time": 1694511218,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200796,
+        "num": 200796,
+        "word": "宫尚角为上官浅求情",
+        "onboard_time": 1694525563,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193557,
+        "num": 193557,
+        "word": "周杰伦上海演唱会抢票",
+        "onboard_time": 1694512958,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187492,
+        "num": 187492,
+        "word": "国足热身赛两场不胜",
+        "onboard_time": 1694527543,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181685,
+        "num": 181685,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给红其拉甫海关全体关员回信#"
+    }
+  }
+}
