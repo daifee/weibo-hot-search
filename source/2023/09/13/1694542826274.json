@@ -1,0 +1,410 @@
+{
+  "runTime": 1694542826274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327456,
+        "num": 327456,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 289679,
+        "num": 289679,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 1,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 19670,
+        "num": 194455,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1694524963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175586,
+        "num": 175586,
+        "word": "徐良对张远说我结婚的时候你一定要来",
+        "onboard_time": 1694535511,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106979,
+        "num": 106979,
+        "word": "世界首富有多爱客串",
+        "onboard_time": 1694534016,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97831,
+        "num": 97831,
+        "word": "陈致逸离开米哈游",
+        "onboard_time": 1694528622,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91588,
+        "num": 91588,
+        "word": "关智斌说是时候利用赵丽颖了",
+        "onboard_time": 1694533180,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87411,
+        "num": 87411,
+        "word": "取消台胞在闽暂住登记",
+        "onboard_time": 1694519797,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87285,
+        "num": 87285,
+        "word": "最近三年你涨过薪吗",
+        "onboard_time": 1694533659,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84068,
+        "num": 84068,
+        "word": "日本反对他国直接取样独立检测",
+        "onboard_time": 1694526465,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 314813,
+        "num": 83834,
+        "word": "网友测评79元花西子眉笔能画21个月",
+        "onboard_time": 1694531797,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 92571,
+        "num": 83801,
+        "word": "学校内衣内裤混洗的人贴了文献",
+        "onboard_time": 1694515898,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89659,
+        "num": 83721,
+        "word": "莲花味精上架79元的套餐",
+        "onboard_time": 1694524062,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83375,
+        "num": 83375,
+        "word": "12306回应女子买高铁二等座要毛毯",
+        "onboard_time": 1694518957,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79000,
+        "num": 79000,
+        "word": "杨丞琳说李荣浩仿佛大她十五岁",
+        "onboard_time": 1694540300,
+        "rank": 14,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 76918,
+        "num": 76918,
+        "word": "郭敬明减肥法",
+        "onboard_time": 1694522199,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76539,
+        "num": 76539,
+        "word": "4000万中央资金建3个项目竟全烂尾",
+        "onboard_time": 1694531381,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75224,
+        "num": 75224,
+        "word": "墨脱 莲花",
+        "onboard_time": 1694541438,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72399,
+        "num": 72399,
+        "word": "Angelababy说想学我做的腌水果",
+        "onboard_time": 1694532640,
+        "rank": 18,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 70604,
+        "num": 70604,
+        "word": "宫尚角隐形眼镜忘摘了",
+        "onboard_time": 1694521897,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1900417,
+        "num": 70101,
+        "word": "苹果新品发布会",
+        "onboard_time": 1694530543,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 102163,
+        "num": 69932,
+        "word": "早这么劝我我就不熬夜了",
+        "onboard_time": 1694537964,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68960,
+        "num": 68960,
+        "word": "孝渊对SM是否给艺人solo的回答",
+        "onboard_time": 1694533718,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66396,
+        "num": 66396,
+        "word": "潮汕人的祖传早餐",
+        "onboard_time": 1694538805,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 61018,
+        "num": 61018,
+        "word": "云之羽 决战绿茶之巅",
+        "onboard_time": 1694533180,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60206,
+        "num": 60206,
+        "word": "怪不得她是国民初恋",
+        "onboard_time": 1694523036,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54952,
+        "num": 54952,
+        "word": "南风知我意空镜",
+        "onboard_time": 1694533835,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52767,
+        "num": 52767,
+        "word": "郑恺这一个月经历了什么",
+        "onboard_time": 1694522978,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52612,
+        "num": 52612,
+        "word": "现在年轻人的工位长这样",
+        "onboard_time": 1694527182,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51328,
+        "num": 51328,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61144,
+        "num": 50639,
+        "word": "性教育第四季正式预告",
+        "onboard_time": 1694531920,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49325,
+        "num": 49325,
+        "word": "云之羽 虞书欣演技分析",
+        "onboard_time": 1694534614,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48915,
+        "num": 48915,
+        "word": "成毅换了微博头像",
+        "onboard_time": 1694527840,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48694,
+        "num": 48694,
+        "word": "国足0比1叙利亚",
+        "onboard_time": 1694526043,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47046,
+        "num": 47046,
+        "word": "为什么抽烟的人总喜欢顺打火机",
+        "onboard_time": 1694530303,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44525,
+        "num": 44525,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41436,
+        "num": 41436,
+        "word": "国足主帅称输球是因为运气不好",
+        "onboard_time": 1694529583,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40144,
+        "num": 40144,
+        "word": "花西子同款眉笔成本价不超10元",
+        "onboard_time": 1694508940,
+        "rank": 37,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 39313,
+        "num": 39313,
+        "word": "分享欲不是喜欢探索欲才是",
+        "onboard_time": 1694524299,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37409,
+        "num": 37409,
+        "word": "C盘满了千万不要乱删文件",
+        "onboard_time": 1694524722,
+        "rank": 39,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 35821,
+        "num": 35821,
+        "word": "中小学教师从事学科类校外培训将从重处罚",
+        "onboard_time": 1694526225,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35156,
+        "num": 35156,
+        "word": "婆婆最爱的大花墙被我砸了",
+        "onboard_time": 1694522799,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33214,
+        "num": 33214,
+        "word": "陈牧驰老兵精神永存",
+        "onboard_time": 1694533421,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32018,
+        "num": 32018,
+        "word": "眉笔推荐",
+        "onboard_time": 1694418815,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 31458,
+        "num": 31458,
+        "word": "云之羽虞书欣张凌赫看样片花絮",
+        "onboard_time": 1694537308,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30917,
+        "num": 30917,
+        "word": "月公子也是无锋吗",
+        "onboard_time": 1694522856,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30828,
+        "num": 30828,
+        "word": "大麦 抢不到",
+        "onboard_time": 1694515898,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30434,
+        "num": 30434,
+        "word": "侯卓成是杨汝晴的第一优先级",
+        "onboard_time": 1694525804,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30018,
+        "num": 30018,
+        "word": "上官浅停止营业但卢昱晓没有",
+        "onboard_time": 1694524239,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29837,
+        "num": 29837,
+        "word": "赵丽颖参加中国电视艺术家大会",
+        "onboard_time": 1694523518,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#恪守立党为公执政为民理念#"
+    }
+  }
+}
