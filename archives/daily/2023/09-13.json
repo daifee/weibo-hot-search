@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694536653221,
+  "endTime": 1694538921670,
   "band_list": [
     {
       "raw_hot": 1831007,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 503605,
-      "num": 294815,
+      "num": 500956,
       "word": "世界首富有多爱客串",
       "onboard_time": 1694534016,
       "rank": 16,
@@ -80,6 +80,14 @@
       "word": "郑恺这一个月经历了什么",
       "onboard_time": 1694522978,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 469796,
+      "num": 469796,
+      "word": "徐良对张远说我结婚的时候你一定要来",
+      "onboard_time": 1694535511,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -123,20 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365002,
-      "num": 365002,
-      "word": "徐良对张远说我结婚的时候你一定要来",
-      "onboard_time": 1694535511,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 357991,
       "num": 357991,
       "word": "成毅换了微博头像",
       "onboard_time": 1694527840,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349867,
+      "num": 349867,
+      "word": "最近三年你涨过薪吗",
+      "onboard_time": 1694533659,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333341,
@@ -267,14 +275,6 @@
       "category": "美妆,财经"
     },
     {
-      "raw_hot": 167021,
-      "num": 167021,
-      "word": "最近三年你涨过薪吗",
-      "onboard_time": 1694533659,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165799,
       "num": 165799,
       "word": "陈牧驰老兵精神永存",
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110262,
+      "num": 110262,
+      "word": "早这么劝我我就不熬夜了",
+      "onboard_time": 1694537964,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102946,
       "num": 116345,
       "word": "婆婆最爱的大花墙被我砸了",
@@ -401,6 +409,22 @@
       "onboard_time": 1694525804,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77362,
+      "num": 77362,
+      "word": "云之羽虞书欣张凌赫看样片花絮",
+      "onboard_time": 1694537308,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49631,
+      "num": 59022,
+      "word": "男生工地打工40天挣钱带爷爷旅游",
+      "onboard_time": 1694538863,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31698,
