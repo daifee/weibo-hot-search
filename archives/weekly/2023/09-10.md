@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 05:14:49
+本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 05:33:45
 </p>
 </blockquote>
 <p>
@@ -6245,6 +6245,12 @@ wbg周冠（热度：76864）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%AE%89%E4%BF%9D%E7%B3%BB%E7%BB%9F%E5%B7%B2%E7%98%AB%E7%97%AA%23" target="weibo">
 狗狗安保系统已瘫痪（热度：22570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23" target="weibo">
+教育部颁布校外培训行政处罚暂行办法（热度：21051）
 </a>
 </li>
 

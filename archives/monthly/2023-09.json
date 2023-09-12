@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694553289419,
+  "endTime": 1694554425758,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -32009,6 +32009,14 @@
       "onboard_time": 1693856713,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21051,
+      "num": 21051,
+      "word": "教育部颁布校外培训行政处罚暂行办法",
+      "onboard_time": 1694553793,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 20803,
