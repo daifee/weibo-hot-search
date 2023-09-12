@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 05:33:45
+本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 06:16:12
 </p>
 </blockquote>
 <p>
@@ -5589,6 +5589,12 @@ UFC293（热度：137246）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23" target="weibo">
+教育部颁布校外培训行政处罚暂行办法（热度：131119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%99%BA%E9%80%89%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 华为智选车发布会（热度：130652）
 </a>
@@ -6135,8 +6141,20 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%23" target="weibo">
+郑州全面取消限购（热度：42518）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E4%BB%A5%E4%B8%BA%E7%99%BD%E6%95%AC%E4%BA%AD%E6%9C%89%E8%88%9E%E8%B9%88%E5%8A%9F%E5%BA%95%23" target="weibo">
 沈腾以为白敬亭有舞蹈功底（热度：42507）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A8%E9%99%AA%E4%B8%BB%E4%BA%BA%E5%8F%96%E5%BF%AB%E9%80%92%E7%9A%84%E5%B0%8F%E7%8C%AB%23" target="weibo">
+凌晨陪主人取快递的小猫（热度：40753）
 </a>
 </li>
 
@@ -6189,6 +6207,12 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E7%AE%80%E5%86%B0%E7%9A%84%E4%BA%BA%23" target="weibo">
+盛阳说自己是简冰的人（热度：34161）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E8%8B%A5%E5%AE%81%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 殷若宁登顶世界第一（热度：33157）
 </a>
@@ -6225,12 +6249,6 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A8%E9%99%AA%E4%B8%BB%E4%BA%BA%E5%8F%96%E5%BF%AB%E9%80%92%E7%9A%84%E5%B0%8F%E7%8C%AB%23" target="weibo">
-凌晨陪主人取快递的小猫（热度：28787）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A1%E6%AF%947%E8%A5%BF%E7%8F%AD%E7%89%99%23" target="weibo">
 格鲁吉亚1比7西班牙（热度：24147）
 </a>
@@ -6249,8 +6267,8 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23" target="weibo">
-教育部颁布校外培训行政处罚暂行办法（热度：21051）
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23" target="weibo">
+惊艳了整个秋天的丰收色（热度：21034）
 </a>
 </li>
 
@@ -6261,20 +6279,8 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E7%AE%80%E5%86%B0%E7%9A%84%E4%BA%BA%23" target="weibo">
-盛阳说自己是简冰的人（热度：20095）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%AE%BF%E8%88%8D%E9%83%BD%E6%98%AFi%E4%BA%BA%E5%95%8A%23" target="weibo">
 这一宿舍都是i人啊（热度：19860）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23" target="weibo">
-惊艳了整个秋天的丰收色（热度：19670）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694554425758,
+  "endTime": 1694556972092,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131119,
+      "num": 131119,
+      "word": "教育部颁布校外培训行政处罚暂行办法",
+      "onboard_time": 1694553793,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 128558,
       "num": 128558,
       "word": "分享欲不是喜欢探索欲才是",
@@ -483,6 +491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42518,
+      "num": 42518,
+      "word": "郑州全面取消限购",
+      "onboard_time": 1694556136,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40753,
+      "num": 97717,
+      "word": "凌晨陪主人取快递的小猫",
+      "onboard_time": 1694547254,
+      "rank": 22,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 35625,
       "num": 93053,
       "word": "吴磊到餐厅吃饭被当成本地人",
@@ -491,12 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32018,
+      "raw_hot": 35196,
       "num": 90237,
       "word": "眉笔推荐",
       "onboard_time": 1694418815,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 34161,
+      "num": 91328,
+      "word": "盛阳说自己是简冰的人",
+      "onboard_time": 1694545696,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 31698,
@@ -515,28 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28787,
-      "num": 97717,
-      "word": "凌晨陪主人取快递的小猫",
-      "onboard_time": 1694547254,
-      "rank": 22,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 21051,
-      "num": 21051,
-      "word": "教育部颁布校外培训行政处罚暂行办法",
-      "onboard_time": 1694553793,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 20095,
-      "num": 91328,
-      "word": "盛阳说自己是简冰的人",
-      "onboard_time": 1694545696,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 21034,
+      "num": 360767,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19860,
@@ -545,14 +561,6 @@
       "onboard_time": 1694542879,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19670,
-      "num": 360767,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1694524963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17776,
