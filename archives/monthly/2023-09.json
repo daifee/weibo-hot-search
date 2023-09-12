@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694550860713,
+  "endTime": 1694553289419,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -32131,6 +32131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17776,
+      "num": 22574,
+      "word": "中国家宴",
+      "onboard_time": 1694550614,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17470,
       "num": 23615,
       "word": "排球少年 黑月",
@@ -32177,14 +32185,6 @@
       "onboard_time": 1693773853,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15821,
-      "num": 22574,
-      "word": "中国家宴",
-      "onboard_time": 1694550614,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 14795,
