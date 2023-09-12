@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694492366864,
+  "endTime": 1694493232935,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -27,6 +27,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2943859,
+      "num": 654015,
+      "word": "李佳琦们别再飘了",
+      "onboard_time": 1694487338,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2894482,
       "num": 590354,
       "word": "李佳琦掉粉",
@@ -43,12 +51,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 2847765,
-      "num": 524810,
-      "word": "李佳琦们别再飘了",
-      "onboard_time": 1694487338,
-      "rank": 10,
-      "category": "社会新闻,网红"
+      "raw_hot": 2796200,
+      "num": 548180,
+      "word": "花西子散粉贵过香奈儿",
+      "onboard_time": 1694488658,
+      "rank": 21,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 2651422,
@@ -59,16 +67,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2587407,
-      "num": 491009,
-      "word": "花西子散粉贵过香奈儿",
-      "onboard_time": 1694488658,
-      "rank": 21,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 2369001,
-      "num": 489790,
+      "num": 512751,
       "word": "石榴集团董事长下跪",
       "onboard_time": 1694485599,
       "rank": 39,
@@ -99,8 +99,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1719605,
-      "num": 1719605,
+      "raw_hot": 1817010,
+      "num": 1817010,
       "word": "薛之谦演唱会退票细则公布",
       "onboard_time": 1694490340,
       "rank": 0,
@@ -139,6 +139,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1311101,
+      "num": 1311101,
+      "word": "警方回应淄博一女子被当街杀害",
+      "onboard_time": 1694490878,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1302099,
       "num": 1302099,
       "word": "苹果 5G角标",
@@ -163,12 +171,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 983002,
+      "num": 983002,
+      "word": "肖战被导演灌醉了",
+      "onboard_time": 1694492450,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 935406,
       "num": 425193,
       "word": "李佳琦哭完继续带货",
       "onboard_time": 1694438631,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 932786,
+      "num": 478027,
+      "word": "为什么阳光玫瑰越来越便宜了",
+      "onboard_time": 1694491849,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 929515,
+      "num": 929515,
+      "word": "蜂花捡箱子",
+      "onboard_time": 1694491064,
+      "rank": 7,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 928556,
+      "num": 928556,
+      "word": "华为争气三件套",
+      "onboard_time": 1694489139,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 912017,
@@ -203,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 824441,
-      "num": 485189,
-      "word": "警方回应淄博一女子被当街杀害",
-      "onboard_time": 1694490878,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 819750,
+      "num": 481404,
+      "word": "花西子就被传谣为日本品牌向警方报案",
+      "onboard_time": 1694489199,
+      "rank": 24,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 812775,
@@ -227,19 +267,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 793194,
-      "num": 793194,
-      "word": "华为争气三件套",
-      "onboard_time": 1694489139,
-      "rank": 33,
-      "category": "科技"
-    },
-    {
       "raw_hot": 790739,
       "num": 417080,
       "word": "女子子宫肌瘤10年没管医生取出109颗",
       "onboard_time": 1694475391,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763036,
+      "num": 480094,
+      "word": "你可能对0.07g没什么概念",
+      "onboard_time": 1694491123,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -259,28 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 753525,
-      "num": 481404,
-      "word": "花西子就被传谣为日本品牌向警方报案",
-      "onboard_time": 1694489199,
-      "rank": 24,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 729790,
       "num": 729790,
       "word": "汪苏泷容祖儿 雷公电母",
       "onboard_time": 1694479300,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 724131,
-      "num": 480094,
-      "word": "你可能对0.07g没什么概念",
-      "onboard_time": 1694491123,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 696520,
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616528,
-      "num": 616528,
-      "word": "蜂花捡箱子",
-      "onboard_time": 1694491064,
-      "rank": 7,
-      "category": "美妆,幽默"
-    },
-    {
       "raw_hot": 616023,
       "num": 398912,
       "word": "萧敬腾 求雨",
@@ -345,14 +361,6 @@
       "onboard_time": 1694469435,
       "rank": 19,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 561517,
-      "num": 478027,
-      "word": "为什么阳光玫瑰越来越便宜了",
-      "onboard_time": 1694491849,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 550728,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352525,
+      "num": 352525,
+      "word": "前任4郑恺曾梦雪发明结婚冷静期",
+      "onboard_time": 1694491782,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350652,
       "num": 350652,
       "word": "花西子称自己百分百是国货品牌",
@@ -571,8 +587,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 324946,
-      "num": 324946,
+      "raw_hot": 325334,
+      "num": 325334,
       "word": "风味人间 睡前电子牛奶",
       "onboard_time": 1694490161,
       "rank": 35,
@@ -585,14 +601,6 @@
       "onboard_time": 1694480857,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317266,
-      "num": 317266,
-      "word": "前任4郑恺曾梦雪发明结婚冷静期",
-      "onboard_time": 1694491782,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 308635,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 263798,
-      "num": 514613,
+      "num": 627760,
       "word": "女孩一听家人给陌生人转账立刻报警",
       "onboard_time": 1694481695,
       "rank": 44,
@@ -721,6 +729,22 @@
       "onboard_time": 1694489139,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233007,
+      "num": 233007,
+      "word": "防猝死套餐",
+      "onboard_time": 1694492804,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 229811,
+      "num": 229811,
+      "word": "SEVENTEEN去比萨斜塔了",
+      "onboard_time": 1694492567,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 226459,
@@ -795,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210157,
+      "num": 210157,
+      "word": "薛之谦福州抢票",
+      "onboard_time": 1694493107,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209100,
       "num": 209100,
       "word": "这是在可汗大点兵吗",
       "onboard_time": 1694492140,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203467,
+      "num": 203467,
+      "word": "凤凰传奇现场",
+      "onboard_time": 1694492865,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 197650,
@@ -875,6 +915,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 179617,
+      "num": 203461,
+      "word": "上官浅这把高端局",
+      "onboard_time": 1694492744,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177763,
       "num": 177763,
       "word": "男子看墙要塌提醒路过母女躲过一劫",
@@ -908,7 +956,7 @@
     },
     {
       "raw_hot": 173254,
-      "num": 494525,
+      "num": 605786,
       "word": "5起特大跨境电信诈骗案挂牌督办启动",
       "onboard_time": 1694488961,
       "rank": 12,
@@ -996,7 +1044,7 @@
     },
     {
       "raw_hot": 141687,
-      "num": 504725,
+      "num": 580583,
       "word": "天舟五号再次撤离空间站",
       "onboard_time": 1694485599,
       "rank": 13,
@@ -1064,6 +1112,14 @@
       "word": "副院长猥亵女学生获刑",
       "onboard_time": 1694452522,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122661,
+      "num": 557093,
+      "word": "男子发现围墙要塌提醒母女躲过一劫",
+      "onboard_time": 1694491246,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1161,14 +1217,6 @@
       "onboard_time": 1694429139,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 67463,
-      "num": 492596,
-      "word": "男子发现围墙要塌提醒母女躲过一劫",
-      "onboard_time": 1694491246,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51059,
