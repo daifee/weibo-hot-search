@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694513903084,
+  "endTime": 1694514927921,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -147,6 +147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 3443671,
+      "num": 443024,
+      "word": "李佳琦之怒 直播带货行业",
+      "onboard_time": 1694513077,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3234645,
       "num": 622653,
       "word": "凌达乐自曝一个月赚500万",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 2787124,
-      "num": 290531,
+      "num": 308090,
       "word": "郭美美已出狱",
       "onboard_time": 1694507741,
       "rank": 30,
@@ -721,14 +729,6 @@
       "onboard_time": 1694322814,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1366553,
-      "num": 443024,
-      "word": "李佳琦之怒 直播带货行业",
-      "onboard_time": 1694513077,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 1342621,
@@ -1571,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 650596,
+      "num": 406431,
+      "word": "iPhone15配置售价一图来了",
+      "onboard_time": 1694511702,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 647012,
       "num": 538739,
       "word": "女大学生称军训服透明几乎露出内裤",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1694447019,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 640752,
-      "num": 406431,
-      "word": "iPhone15配置售价一图来了",
-      "onboard_time": 1694511702,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 635255,
@@ -1785,6 +1785,14 @@
       "onboard_time": 1694318194,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 588237,
+      "num": 1043206,
+      "word": "夫妻一声提醒救了两条命",
+      "onboard_time": 1694513021,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587587,
@@ -2379,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445883,
+      "num": 386185,
+      "word": "EXO的Weverse简介",
+      "onboard_time": 1694513680,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445019,
       "num": 445019,
       "word": "广西三起山体滑坡8人失联",
@@ -2619,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408627,
+      "num": 394640,
+      "word": "体型最大的淡水虾",
+      "onboard_time": 1694512178,
+      "rank": 23,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 407791,
       "num": 334649,
       "word": "28岁女生经期用按摩仪按腰致肾破裂",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1694499998,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394640,
-      "num": 394640,
-      "word": "体型最大的淡水虾",
-      "onboard_time": 1694512178,
-      "rank": 23,
-      "category": "知识科普"
     },
     {
       "raw_hot": 393112,
@@ -3139,6 +3155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 335203,
+      "num": 392279,
+      "word": "彩虹",
+      "onboard_time": 1694511637,
+      "rank": 28,
+      "category": "自然"
+    },
+    {
       "raw_hot": 334539,
       "num": 334539,
       "word": "马斯克和女高管所生双胞胎曝光",
@@ -3225,6 +3249,14 @@
       "onboard_time": 1694497060,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326492,
+      "num": 326492,
+      "word": "杨幂写真中的非遗元素",
+      "onboard_time": 1694512958,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 326170,
@@ -3499,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307986,
+      "num": 307986,
+      "word": "原来爱都是从散步开始的",
+      "onboard_time": 1694511218,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307415,
       "num": 307415,
       "word": "摩洛哥地震死亡人数已升至2122人",
@@ -3651,20 +3691,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297822,
-      "num": 297822,
-      "word": "彩虹",
-      "onboard_time": 1694511637,
-      "rank": 28,
-      "category": "自然"
-    },
-    {
       "raw_hot": 296135,
       "num": 296135,
       "word": "旅行真的可以看清一个人",
       "onboard_time": 1694412218,
       "rank": 28,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 294961,
+      "num": 294961,
+      "word": "古偶男模101",
+      "onboard_time": 1694511401,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294925,
@@ -3689,14 +3729,6 @@
       "onboard_time": 1694361636,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292202,
-      "num": 292202,
-      "word": "杨幂写真中的非遗元素",
-      "onboard_time": 1694512958,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 292182,
@@ -3787,14 +3819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287505,
-      "num": 287505,
-      "word": "原来爱都是从散步开始的",
-      "onboard_time": 1694511218,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287074,
       "num": 287074,
       "word": "王靖雯 脑子KPL嘴是KPI",
@@ -3843,27 +3867,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283587,
-      "num": 283587,
-      "word": "古偶男模101",
-      "onboard_time": 1694511401,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 283316,
       "num": 283316,
       "word": "国航机长空中呼救通话曝光",
       "onboard_time": 1694400522,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282613,
-      "num": 952124,
-      "word": "夫妻一声提醒救了两条命",
-      "onboard_time": 1694513021,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -4145,6 +4153,14 @@
       "onboard_time": 1694398175,
       "rank": 19,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 258081,
+      "num": 258081,
+      "word": "报告殷寿 你儿子上课在开小差偷笑",
+      "onboard_time": 1694514459,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 257962,
@@ -5275,14 +5291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199689,
-      "num": 199689,
-      "word": "EXO的Weverse简介",
-      "onboard_time": 1694513680,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199666,
       "num": 199666,
       "word": "军训版问风",
@@ -5507,6 +5515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191856,
+      "num": 191856,
+      "word": "夫妻发生争执丈夫拿起冰箱就往地上砸",
+      "onboard_time": 1694514100,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191272,
       "num": 191272,
       "word": "中国赛梁伟铿王昶夺冠",
@@ -5657,6 +5673,14 @@
       "onboard_time": 1694398296,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186404,
+      "num": 308139,
+      "word": "男子一句好心提醒话救了两人",
+      "onboard_time": 1694514400,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 186260,
@@ -6211,6 +6235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "叫你宝贝保持防备",
+      "onboard_time": 1694514222,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160835,
       "num": 160835,
       "word": "花花好好休息",
@@ -6531,6 +6563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136284,
+      "num": 136284,
+      "word": "老人生病后村里人拎牛奶鸡蛋看望",
+      "onboard_time": 1694514819,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136073,
       "num": 136073,
       "word": "异人之下导演问知不知道复播",
@@ -6675,20 +6715,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126214,
+      "num": 431392,
+      "word": "华为问界5亿花在哪",
+      "onboard_time": 1694511277,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 125123,
       "num": 473330,
       "word": "中国与阿根廷共话丝路情",
       "onboard_time": 1694327012,
       "rank": 13,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 124915,
-      "num": 431392,
-      "word": "华为问界5亿花在哪",
-      "onboard_time": 1694511277,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 124521,
@@ -6832,6 +6872,14 @@
       "word": "美术馆回应孩子触碰展品被怒吼",
       "onboard_time": 1694356122,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106329,
+      "num": 434264,
+      "word": "爸爸从吉林自驾送女儿到广东上大学",
+      "onboard_time": 1694512899,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7123,7 +7171,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58069,
+      "raw_hot": 59760,
       "num": 1299604,
       "word": "我国大江大河保护与治理成效显著",
       "onboard_time": 1694512061,
@@ -7145,14 +7193,6 @@
       "onboard_time": 1694494124,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 53421,
-      "num": 434264,
-      "word": "爸爸从吉林自驾送女儿到广东上大学",
-      "onboard_time": 1694512899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53072,

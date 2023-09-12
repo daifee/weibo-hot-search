@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694513903084,
+  "endTime": 1694514927921,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -41,6 +41,14 @@
       "onboard_time": 1694512958,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3443671,
+      "num": 443024,
+      "word": "李佳琦之怒 直播带货行业",
+      "onboard_time": 1694513077,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 3132340,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 2787124,
-      "num": 290531,
+      "num": 308090,
       "word": "郭美美已出狱",
       "onboard_time": 1694507741,
       "rank": 30,
@@ -241,14 +249,6 @@
       "onboard_time": 1694436593,
       "rank": 18,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1366553,
-      "num": 443024,
-      "word": "李佳琦之怒 直播带货行业",
-      "onboard_time": 1694513077,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 1335367,
@@ -531,20 +531,20 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 650596,
+      "num": 406431,
+      "word": "iPhone15配置售价一图来了",
+      "onboard_time": 1694511702,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 641538,
       "num": 450629,
       "word": "如何不提死亡却写出死亡",
       "onboard_time": 1694447019,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 640752,
-      "num": 406431,
-      "word": "iPhone15配置售价一图来了",
-      "onboard_time": 1694511702,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 632563,
@@ -585,6 +585,14 @@
       "onboard_time": 1694499041,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 588237,
+      "num": 1043206,
+      "word": "夫妻一声提醒救了两条命",
+      "onboard_time": 1694513021,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584068,
@@ -755,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445883,
+      "num": 386185,
+      "word": "EXO的Weverse简介",
+      "onboard_time": 1694513680,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432332,
       "num": 432332,
       "word": "肖战哭戏哭到脸通红了",
@@ -795,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408627,
+      "num": 394640,
+      "word": "体型最大的淡水虾",
+      "onboard_time": 1694512178,
+      "rank": 23,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 398573,
       "num": 398573,
       "word": "女子称上班3天半被辞讨要工资反被怼",
@@ -809,14 +833,6 @@
       "onboard_time": 1694499998,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394640,
-      "num": 394640,
-      "word": "体型最大的淡水虾",
-      "onboard_time": 1694512178,
-      "rank": 23,
-      "category": "知识科普"
     },
     {
       "raw_hot": 389517,
@@ -971,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335203,
+      "num": 392279,
+      "word": "彩虹",
+      "onboard_time": 1694511637,
+      "rank": 28,
+      "category": "自然"
+    },
+    {
       "raw_hot": 334644,
       "num": 334644,
       "word": "中国超3000万男性难结婚",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1694497060,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326492,
+      "num": 326492,
+      "word": "杨幂写真中的非遗元素",
+      "onboard_time": 1694512958,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 325334,
@@ -1059,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 307986,
+      "num": 307986,
+      "word": "原来爱都是从散步开始的",
+      "onboard_time": 1694511218,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307336,
       "num": 284362,
       "word": "9个月宝宝把西瓜咬裂了",
@@ -1099,12 +1139,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 297822,
-      "num": 297822,
-      "word": "彩虹",
-      "onboard_time": 1694511637,
-      "rank": 28,
-      "category": "自然"
+      "raw_hot": 294961,
+      "num": 294961,
+      "word": "古偶男模101",
+      "onboard_time": 1694511401,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294925,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1694498260,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292202,
-      "num": 292202,
-      "word": "杨幂写真中的非遗元素",
-      "onboard_time": 1694512958,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 289561,
@@ -1155,14 +1187,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 287505,
-      "num": 287505,
-      "word": "原来爱都是从散步开始的",
-      "onboard_time": 1694511218,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287504,
       "num": 287504,
       "word": "一定要在下班后洗杯子",
@@ -1177,22 +1201,6 @@
       "onboard_time": 1694501734,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283587,
-      "num": 283587,
-      "word": "古偶男模101",
-      "onboard_time": 1694511401,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 282613,
-      "num": 952124,
-      "word": "夫妻一声提醒救了两条命",
-      "onboard_time": 1694513021,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279376,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1694481695,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258081,
+      "num": 258081,
+      "word": "报告殷寿 你儿子上课在开小差偷笑",
+      "onboard_time": 1694514459,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 255989,
@@ -1507,14 +1523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199689,
-      "num": 199689,
-      "word": "EXO的Weverse简介",
-      "onboard_time": 1694513680,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197650,
       "num": 197650,
       "word": "我有事要去jellycat一趟",
@@ -1595,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191856,
+      "num": 191856,
+      "word": "夫妻发生争执丈夫拿起冰箱就往地上砸",
+      "onboard_time": 1694514100,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191745,
       "num": 191745,
       "word": "爱吃钵钵鸡的四川人沉默了",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1694494965,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186404,
+      "num": 308139,
+      "word": "男子一句好心提醒话救了两人",
+      "onboard_time": 1694514400,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 184336,
@@ -1787,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "叫你宝贝保持防备",
+      "onboard_time": 1694514222,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160671,
       "num": 160671,
       "word": "轿车路上着火他抄起灭火器冲了上去",
@@ -1859,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136284,
+      "num": 136284,
+      "word": "老人生病后村里人拎牛奶鸡蛋看望",
+      "onboard_time": 1694514819,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132560,
       "num": 137485,
       "word": "歼10实弹射击现场高燃",
@@ -1899,7 +1939,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124915,
+      "raw_hot": 126214,
       "num": 431392,
       "word": "华为问界5亿花在哪",
       "onboard_time": 1694511277,
@@ -1979,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106329,
+      "num": 434264,
+      "word": "爸爸从吉林自驾送女儿到广东上大学",
+      "onboard_time": 1694512899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "五月天林俊杰双向奔赴",
@@ -2043,7 +2091,7 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 58069,
+      "raw_hot": 59760,
       "num": 1299604,
       "word": "我国大江大河保护与治理成效显著",
       "onboard_time": 1694512061,
@@ -2057,14 +2105,6 @@
       "onboard_time": 1694494124,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 53421,
-      "num": 434264,
-      "word": "爸爸从吉林自驾送女儿到广东上大学",
-      "onboard_time": 1694512899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52139,

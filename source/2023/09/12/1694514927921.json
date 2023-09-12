@@ -1,0 +1,410 @@
+{
+  "runTime": 1694514927921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2759030,
+        "num": 2759030,
+        "word": "周杰伦上海演唱会抢票",
+        "onboard_time": 1694512958,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 588237,
+        "num": 1043206,
+        "word": "夫妻一声提醒救了两条命",
+        "onboard_time": 1694513021,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59760,
+        "num": 950084,
+        "word": "我国大江大河保护与治理成效显著",
+        "onboard_time": 1694512061,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940356,
+        "num": 940356,
+        "word": "华晨宇王牌对王牌cos相柳",
+        "onboard_time": 1694512237,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351769,
+        "num": 874283,
+        "word": "双胞胎退役全家60多人接站",
+        "onboard_time": 1694505881,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841885,
+        "num": 841885,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 696773,
+        "num": 696773,
+        "word": "成毅怎么老演这种快死的角色",
+        "onboard_time": 1694511218,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423106,
+        "num": 423106,
+        "word": "中国人寿原董事长王滨死缓",
+        "onboard_time": 1694510562,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392865,
+        "num": 392865,
+        "word": "男子抓柯尔鸭当肉鸭吃赔了8千元",
+        "onboard_time": 1694507801,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335203,
+        "num": 392279,
+        "word": "彩虹",
+        "onboard_time": 1694511637,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 3443671,
+        "num": 392056,
+        "word": "李佳琦之怒 直播带货行业",
+        "onboard_time": 1694513077,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1638659,
+        "num": 391035,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1694501195,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174057,
+        "num": 390368,
+        "word": "男子从近8米高河堤跳下勇救落水女童",
+        "onboard_time": 1694504135,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 836327,
+        "num": 389683,
+        "word": "王宝强前经纪人宋喆已出狱",
+        "onboard_time": 1694504860,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106329,
+        "num": 389119,
+        "word": "爸爸从吉林自驾送女儿到广东上大学",
+        "onboard_time": 1694512899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684478,
+        "num": 388509,
+        "word": "李佳琦们别再飘了",
+        "onboard_time": 1694487338,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 661730,
+        "num": 388138,
+        "word": "花西子同款眉笔成本价不超10元",
+        "onboard_time": 1694508940,
+        "rank": 16,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 589438,
+        "num": 386961,
+        "word": "精子库举办大学生精液质量比拼",
+        "onboard_time": 1694504256,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461811,
+        "num": 386490,
+        "word": "月经同步真的存在吗",
+        "onboard_time": 1694511097,
+        "rank": 18,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 445883,
+        "num": 386185,
+        "word": "EXO的Weverse简介",
+        "onboard_time": 1694513680,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650596,
+        "num": 385377,
+        "word": "iPhone15配置售价一图来了",
+        "onboard_time": 1694511702,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 455452,
+        "num": 384596,
+        "word": "aespa官方定位来了",
+        "onboard_time": 1694510799,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408627,
+        "num": 383633,
+        "word": "体型最大的淡水虾",
+        "onboard_time": 1694512178,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 396273,
+        "num": 383532,
+        "word": "子宫肌瘤可能是吃出来的",
+        "onboard_time": 1694506599,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 382939,
+        "num": 382939,
+        "word": "傅首尔老刘离过一次婚",
+        "onboard_time": 1694494665,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344261,
+        "num": 344261,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332573,
+        "num": 332573,
+        "word": "金价已涨破600元每克",
+        "onboard_time": 1694497779,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 326492,
+        "num": 326492,
+        "word": "杨幂写真中的非遗元素",
+        "onboard_time": 1694512958,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 308969,
+        "num": 308969,
+        "word": "防猝死套餐",
+        "onboard_time": 1694492804,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 186404,
+        "num": 308139,
+        "word": "男子一句好心提醒话救了两人",
+        "onboard_time": 1694514400,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2061973,
+        "num": 308090,
+        "word": "郭美美已出狱",
+        "onboard_time": 1694507741,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 316533,
+        "num": 308058,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 307986,
+        "num": 307986,
+        "word": "原来爱都是从散步开始的",
+        "onboard_time": 1694511218,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294961,
+        "num": 294961,
+        "word": "古偶男模101",
+        "onboard_time": 1694511401,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292994,
+        "num": 292994,
+        "word": "金靖的角色还是太保守了",
+        "onboard_time": 1694508340,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126214,
+        "num": 286842,
+        "word": "华为问界5亿花在哪",
+        "onboard_time": 1694511277,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 283753,
+        "num": 283753,
+        "word": "少跟自己的好闺蜜一起睡觉",
+        "onboard_time": 1694509659,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258081,
+        "num": 258081,
+        "word": "报告殷寿 你儿子上课在开小差偷笑",
+        "onboard_time": 1694514459,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242147,
+        "num": 242147,
+        "word": "余承东华为发布会说了5次遥遥领先",
+        "onboard_time": 1694511462,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206262,
+        "num": 206262,
+        "word": "薛之谦感谢大家的理解和包容",
+        "onboard_time": 1694507678,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192031,
+        "num": 192031,
+        "word": "华为问界新M7",
+        "onboard_time": 1694502218,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191856,
+        "num": 191856,
+        "word": "夫妻发生争执丈夫拿起冰箱就往地上砸",
+        "onboard_time": 1694514100,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185531,
+        "num": 185531,
+        "word": "鞠婧祎美拉德风",
+        "onboard_time": 1694504915,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 182675,
+        "num": 182675,
+        "word": "很久没看到这么有创意的广告了",
+        "onboard_time": 1694510918,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171611,
+        "num": 171611,
+        "word": "南风知我意连更10天18集",
+        "onboard_time": 1694499041,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166447,
+        "num": 166447,
+        "word": "薛之谦石家庄站抢票",
+        "onboard_time": 1694510318,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160928,
+        "num": 160928,
+        "word": "叫你宝贝保持防备",
+        "onboard_time": 1694514222,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149060,
+        "num": 149060,
+        "word": "李佳琦称身上羽毛是所有女生赋予的",
+        "onboard_time": 1694440429,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 145535,
+        "num": 145535,
+        "word": "肖战被导演灌醉了",
+        "onboard_time": 1694492450,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 136284,
+        "word": "老人生病后村里人拎牛奶鸡蛋看望",
+        "onboard_time": 1694514819,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给红其拉甫海关全体关员回信#"
+    }
+  }
+}
