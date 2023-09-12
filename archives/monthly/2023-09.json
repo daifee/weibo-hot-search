@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694524854194,
+  "endTime": 1694525618722,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1571,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1784076,
+      "num": 1784076,
+      "word": "这4种面包真的建议少吃",
+      "onboard_time": 1694523278,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1779007,
       "num": 1779007,
       "word": "秀才曾被大妈举报欺诈51万",
@@ -1684,7 +1692,7 @@
     },
     {
       "raw_hot": 1736004,
-      "num": 481637,
+      "num": 557298,
       "word": "郑恺这一个月经历了什么",
       "onboard_time": 1694522978,
       "rank": 10,
@@ -2497,14 +2505,6 @@
       "onboard_time": 1693988376,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1380062,
-      "num": 1380062,
-      "word": "这4种面包真的建议少吃",
-      "onboard_time": 1694523278,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 1379706,
@@ -4067,6 +4067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938752,
+      "num": 938752,
+      "word": "叙利亚领先",
+      "onboard_time": 1694524123,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 938240,
       "num": 938240,
       "word": "你什么档次敢骂雪姨",
@@ -4385,6 +4393,14 @@
       "onboard_time": 1693923825,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 888092,
+      "num": 311123,
+      "word": "李佳琦前员工曝头部主播选品垄断",
+      "onboard_time": 1694525203,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 887689,
@@ -4723,6 +4739,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 838357,
+      "num": 838357,
+      "word": "宫尚角隐形眼镜忘摘了",
+      "onboard_time": 1694521897,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 837281,
       "num": 646521,
       "word": "中考分流40%的孩子去哪了",
@@ -4736,6 +4760,14 @@
       "word": "檀健次的狗让他颜面尽失",
       "onboard_time": 1694146478,
       "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 832987,
+      "num": 528758,
+      "word": "郭敬明减肥法",
+      "onboard_time": 1694522199,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -4841,14 +4873,6 @@
       "onboard_time": 1694185482,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 818363,
-      "num": 818363,
-      "word": "宫尚角隐形眼镜忘摘了",
-      "onboard_time": 1694521897,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 818240,
@@ -5121,14 +5145,6 @@
       "onboard_time": 1694339253,
       "rank": 12,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 797224,
-      "num": 480993,
-      "word": "郭敬明减肥法",
-      "onboard_time": 1694522199,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 796473,
@@ -6035,6 +6051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706212,
+      "num": 461871,
+      "word": "iPhone15配置售价一图来了",
+      "onboard_time": 1694511702,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 705756,
       "num": 705756,
       "word": "利息少了130万房主美滋滋换电脑换手机",
@@ -6288,14 +6312,6 @@
       "word": "iPhone15有15项变化",
       "onboard_time": 1694443548,
       "rank": 22,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 686754,
-      "num": 461871,
-      "word": "iPhone15配置售价一图来了",
-      "onboard_time": 1694511702,
-      "rank": 20,
       "category": "科技"
     },
     {
@@ -6593,6 +6609,14 @@
       "onboard_time": 1694153974,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 666988,
+      "num": 666988,
+      "word": "赵丽颖参加中国电视艺术家大会",
+      "onboard_time": 1694523518,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 665571,
@@ -7265,6 +7289,14 @@
       "onboard_time": 1693677442,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 622178,
+      "num": 490018,
+      "word": "怪不得她是国民初恋",
+      "onboard_time": 1694523036,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 622120,
@@ -8139,14 +8171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 566027,
-      "num": 566027,
-      "word": "叙利亚领先",
-      "onboard_time": 1694524123,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 565398,
       "num": 353855,
       "word": "突然明白了省钱的意义",
@@ -8697,6 +8721,14 @@
       "onboard_time": 1693668103,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 540510,
+      "num": 448629,
+      "word": "莲花味精上架79元的套餐",
+      "onboard_time": 1694524062,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540228,
@@ -9404,7 +9436,7 @@
     },
     {
       "raw_hot": 506782,
-      "num": 506782,
+      "num": 515484,
       "word": "菲律宾群岛地区6.3级地震",
       "onboard_time": 1694518359,
       "rank": 37,
@@ -9811,14 +9843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 489213,
-      "num": 479723,
-      "word": "怪不得她是国民初恋",
-      "onboard_time": 1694523036,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 489196,
       "num": 489196,
       "word": "西安暴雨",
@@ -10017,14 +10041,6 @@
       "onboard_time": 1694060077,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 481682,
-      "num": 481682,
-      "word": "赵丽颖参加中国电视艺术家大会",
-      "onboard_time": 1694523518,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 481564,
@@ -10313,6 +10329,14 @@
       "onboard_time": 1693888424,
       "rank": 16,
       "category": "自然"
+    },
+    {
+      "raw_hot": 472203,
+      "num": 472203,
+      "word": "新精英的傲慢",
+      "onboard_time": 1694524722,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472147,
@@ -10931,14 +10955,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 451132,
-      "num": 451132,
-      "word": "新精英的傲慢",
-      "onboard_time": 1694524722,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451003,
       "num": 618285,
       "word": "小萝卜头如果还活着今年82岁了",
@@ -11009,6 +11025,14 @@
       "onboard_time": 1694476475,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 449076,
+      "num": 449076,
+      "word": "国足vs叙利亚",
+      "onboard_time": 1694516979,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 449016,
@@ -12163,6 +12187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408093,
+      "num": 408093,
+      "word": "C盘满了千万不要乱删文件",
+      "onboard_time": 1694524722,
+      "rank": 43,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 407492,
       "num": 407492,
       "word": "福州一车主将爱车装入塑料袋防水",
@@ -12652,7 +12684,7 @@
     },
     {
       "raw_hot": 390140,
-      "num": 285452,
+      "num": 349852,
       "word": "婆婆最爱的大花墙被我砸了",
       "onboard_time": 1694522799,
       "rank": 42,
@@ -12969,6 +13001,14 @@
       "onboard_time": 1693534055,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377477,
+      "num": 346375,
+      "word": "上官浅停止营业但卢昱晓没有",
+      "onboard_time": 1694524239,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 377360,
@@ -15091,14 +15131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320749,
-      "num": 320749,
-      "word": "国足vs叙利亚",
-      "onboard_time": 1694516979,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320412,
       "num": 320412,
       "word": "有多少人记得这种手帕老鼠",
@@ -15571,6 +15603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311827,
+      "num": 311827,
+      "word": "半年报将公司名称写成那要不住哥哥家里吧",
+      "onboard_time": 1694523821,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311714,
       "num": 263639,
       "word": "不要太快试图建立特殊关系",
@@ -15913,14 +15953,6 @@
       "onboard_time": 1694001820,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304445,
-      "num": 304445,
-      "word": "莲花味精上架79元的套餐",
-      "onboard_time": 1694524062,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304313,
@@ -16899,14 +16931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284949,
-      "num": 284949,
-      "word": "半年报将公司名称写成那要不住哥哥家里吧",
-      "onboard_time": 1694523821,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 284640,
       "num": 383112,
       "word": "深山里踢出19名大学生",
@@ -17585,6 +17609,14 @@
       "onboard_time": 1693534175,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271424,
+      "num": 271424,
+      "word": "蜂 不好我被跟踪了",
+      "onboard_time": 1694524421,
+      "rank": 40,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 271227,
@@ -19563,6 +19595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237817,
+      "num": 237817,
+      "word": "分享欲不是喜欢探索欲才是",
+      "onboard_time": 1694524299,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237780,
       "num": 202871,
       "word": "初音未来后空翻变身",
@@ -19817,6 +19857,14 @@
       "onboard_time": 1694496520,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233951,
+      "num": 233951,
+      "word": "沙溢cos的东方青苍",
+      "onboard_time": 1694525378,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 233828,
@@ -21467,6 +21515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209882,
+      "num": 209882,
+      "word": "宫商角心软了",
+      "onboard_time": 1694525081,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209736,
       "num": 209736,
       "word": "男人集体敷面膜是什么景象",
@@ -21521,14 +21577,6 @@
       "onboard_time": 1693556380,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 209361,
-      "num": 209361,
-      "word": "蜂 不好我被跟踪了",
-      "onboard_time": 1694524421,
-      "rank": 40,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 209258,
@@ -21961,14 +22009,6 @@
       "onboard_time": 1694090078,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205751,
-      "num": 205751,
-      "word": "上官浅停止营业但卢昱晓没有",
-      "onboard_time": 1694524239,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 205483,
@@ -22769,14 +22809,6 @@
       "onboard_time": 1694321074,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200013,
-      "num": 200013,
-      "word": "分享欲不是喜欢探索欲才是",
-      "onboard_time": 1694524299,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 199998,
@@ -24699,14 +24731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184559,
-      "num": 184559,
-      "word": "C盘满了千万不要乱删文件",
-      "onboard_time": 1694524722,
-      "rank": 43,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 184523,
       "num": 184523,
       "word": "密室大逃脱5收官",
@@ -25891,6 +25915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169526,
+      "num": 508235,
+      "word": "38年前一顿饭女子照顾闺蜜14年",
+      "onboard_time": 1694523700,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169357,
       "num": 169357,
       "word": "盛阳说妈上八道总菜",
@@ -26363,6 +26395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163339,
+      "num": 163339,
+      "word": "宫尚角为上官浅求情",
+      "onboard_time": 1694525563,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163271,
       "num": 554104,
       "word": "男子用14年为妻子写10万字护理日记",
@@ -26681,6 +26721,14 @@
       "onboard_time": 1693526012,
       "rank": 45,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 159158,
+      "num": 159158,
+      "word": "易梦玲维密盛典Vlog",
+      "onboard_time": 1694525322,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 159092,
@@ -29603,14 +29651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92866,
-      "num": 480376,
-      "word": "38年前一顿饭女子照顾闺蜜14年",
-      "onboard_time": 1694523700,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92766,
       "num": 474665,
       "word": "孙女回家得知奶奶受伤心疼大哭",
@@ -31297,6 +31337,14 @@
       "onboard_time": 1694197696,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28601,
+      "num": 1031590,
+      "word": "杭州亚运村周六正式开村",
+      "onboard_time": 1694525141,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 28462,
