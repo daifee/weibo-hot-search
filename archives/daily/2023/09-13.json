@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694535715639,
+  "endTime": 1694536653221,
   "band_list": [
     {
       "raw_hot": 1831007,
@@ -19,7 +19,7 @@
       "category": "美食,知识科普"
     },
     {
-      "raw_hot": 1435372,
+      "raw_hot": 1465086,
       "num": 272346,
       "word": "iPhone15配置售价一图来了",
       "onboard_time": 1694511702,
@@ -67,6 +67,30 @@
       "category": "美食"
     },
     {
+      "raw_hot": 503605,
+      "num": 294815,
+      "word": "世界首富有多爱客串",
+      "onboard_time": 1694534016,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 490402,
+      "num": 298482,
+      "word": "郑恺这一个月经历了什么",
+      "onboard_time": 1694522978,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 426703,
+      "num": 426703,
+      "word": "云之羽 虞书欣演技分析",
+      "onboard_time": 1694534614,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421353,
       "num": 306535,
       "word": "性教育第四季正式预告",
@@ -83,22 +107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 398360,
-      "num": 298482,
-      "word": "郑恺这一个月经历了什么",
-      "onboard_time": 1694522978,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 389929,
-      "num": 294815,
-      "word": "世界首富有多爱客串",
-      "onboard_time": 1694534016,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 373269,
       "num": 271765,
       "word": "南风知我意空镜",
@@ -113,6 +121,14 @@
       "onboard_time": 1694533718,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365002,
+      "num": 365002,
+      "word": "徐良对张远说我结婚的时候你一定要来",
+      "onboard_time": 1694535511,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 357991,
@@ -144,14 +160,6 @@
       "word": "宫尚角隐形眼镜忘摘了",
       "onboard_time": 1694521897,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 291594,
-      "num": 291594,
-      "word": "云之羽 虞书欣演技分析",
-      "onboard_time": 1694534614,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -211,14 +219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 222082,
-      "num": 222082,
-      "word": "徐良对张远说我结婚的时候你一定要来",
-      "onboard_time": 1694535511,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199912,
       "num": 199912,
       "word": "国足0比1叙利亚",
@@ -265,6 +265,14 @@
       "onboard_time": 1694508940,
       "rank": 33,
       "category": "美妆,财经"
+    },
+    {
+      "raw_hot": 167021,
+      "num": 167021,
+      "word": "最近三年你涨过薪吗",
+      "onboard_time": 1694533659,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165799,
@@ -347,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129277,
-      "num": 129277,
-      "word": "最近三年你涨过薪吗",
-      "onboard_time": 1694533659,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128558,
       "num": 128558,
       "word": "分享欲不是喜欢探索欲才是",
@@ -393,6 +393,14 @@
       "onboard_time": 1694522799,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100053,
+      "num": 100053,
+      "word": "侯卓成是杨汝晴的第一优先级",
+      "onboard_time": 1694525804,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 31698,
