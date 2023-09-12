@@ -1,0 +1,410 @@
+{
+  "runTime": 1694504025286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2719107,
+        "num": 2719107,
+        "word": "防猝死套餐",
+        "onboard_time": 1694492804,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1934303,
+        "num": 1934303,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52077,
+        "num": 1853427,
+        "word": "来杭州感受体育之美",
+        "onboard_time": 1694494251,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1835662,
+        "num": 1835662,
+        "word": "金价已涨破600元每克",
+        "onboard_time": 1694497779,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1026497,
+        "num": 1026497,
+        "word": "papi酱 两个人一起浪费时间很重要",
+        "onboard_time": 1694498441,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702196,
+        "num": 702196,
+        "word": "华为问界新M7",
+        "onboard_time": 1694502218,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 636472,
+        "num": 636472,
+        "word": "王琳凯 欢迎大家再次来到小鬼的音乐世界",
+        "onboard_time": 1694501854,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 618433,
+        "num": 618433,
+        "word": "女子买高铁二等座嫌冷大闹要毛毯",
+        "onboard_time": 1694495502,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592042,
+        "num": 592042,
+        "word": "南风知我意连更10天18集",
+        "onboard_time": 1694499041,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589222,
+        "num": 589222,
+        "word": "蜂花回应捡箱子发货",
+        "onboard_time": 1694495264,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1613891,
+        "num": 589084,
+        "word": "傅首尔老刘离过一次婚",
+        "onboard_time": 1694494665,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1431145,
+        "num": 587885,
+        "word": "李佳琦们别再飘了",
+        "onboard_time": 1694487338,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 587234,
+        "word": "重庆暴雨后大学生打起了水仗",
+        "onboard_time": 1694502995,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193711,
+        "num": 585902,
+        "word": "贵州女孩上一本闯深圳走出大山",
+        "onboard_time": 1694494124,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 103085,
+        "num": 585659,
+        "word": "女孩一听家人给陌生人转账立刻报警",
+        "onboard_time": 1694481695,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713739,
+        "num": 584201,
+        "word": "李佳琦称身上羽毛是所有女生赋予的",
+        "onboard_time": 1694440429,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 584068,
+        "num": 584068,
+        "word": "埃及博主看逃出大英博物馆",
+        "onboard_time": 1694499698,
+        "rank": 16,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 462726,
+        "num": 462726,
+        "word": "你可能对0.07g没什么概念",
+        "onboard_time": 1694491123,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457826,
+        "num": 457826,
+        "word": "师洋评79元眉笔",
+        "onboard_time": 1694493527,
+        "rank": 18,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 356581,
+        "num": 380214,
+        "word": "孙怡替北方人辟谣",
+        "onboard_time": 1694500117,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378030,
+        "num": 378030,
+        "word": "为什么阳光玫瑰越来越便宜了",
+        "onboard_time": 1694491849,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358233,
+        "num": 358233,
+        "word": "iPhone15取消静音拨片",
+        "onboard_time": 1694481937,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 341543,
+        "num": 341543,
+        "word": "生活大爆炸40秒演完奥本海默",
+        "onboard_time": 1694499998,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315531,
+        "num": 315531,
+        "word": "终于搞懂医保了",
+        "onboard_time": 1694496343,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 303966,
+        "num": 303966,
+        "word": "冯宝宝好像被打了不确定再看看",
+        "onboard_time": 1694501497,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294195,
+        "num": 294195,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1694501195,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293922,
+        "num": 293922,
+        "word": "虞书欣也有他拍的了",
+        "onboard_time": 1694503358,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264061,
+        "num": 264061,
+        "word": "花西子散粉贵过香奈儿",
+        "onboard_time": 1694488658,
+        "rank": 27,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 262429,
+        "num": 262429,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244733,
+        "num": 244733,
+        "word": "王睡睡情绪崩溃痛骂张硕",
+        "onboard_time": 1694501734,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402255,
+        "num": 244023,
+        "word": "肖战被导演灌醉了",
+        "onboard_time": 1694492450,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361280,
+        "num": 242543,
+        "word": "长期没有亲密关系会早衰吗",
+        "onboard_time": 1694503715,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255508,
+        "num": 242435,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238601,
+        "num": 238601,
+        "word": "杭州亚运会中国运动员全名单",
+        "onboard_time": 1694500537,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 226697,
+        "num": 226697,
+        "word": "花西子就被传谣为日本品牌向警方报案",
+        "onboard_time": 1694489199,
+        "rank": 34,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 219779,
+        "num": 219779,
+        "word": "张凌赫周杰伦演唱会vlog",
+        "onboard_time": 1694503298,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215781,
+        "num": 215781,
+        "word": "SMTOWN艺人正式入驻WEVERSE",
+        "onboard_time": 1694498077,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214750,
+        "num": 214750,
+        "word": "石榴集团董事长下跪",
+        "onboard_time": 1694485599,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210588,
+        "num": 210588,
+        "word": "第一次见四个根的智齿",
+        "onboard_time": 1694503777,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210328,
+        "num": 210328,
+        "word": "孔雪儿美拉德穿搭",
+        "onboard_time": 1694500597,
+        "rank": 39,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 205541,
+        "num": 205541,
+        "word": "怀疑乌尔善北京的邻居压根没见过他",
+        "onboard_time": 1694496047,
+        "rank": 40,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 199926,
+        "num": 199926,
+        "word": "警方回应淄博一女子被当街杀害",
+        "onboard_time": 1694490878,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195708,
+        "num": 195708,
+        "word": "iPhone15",
+        "onboard_time": 1694493284,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 195531,
+        "num": 195531,
+        "word": "万茜2米长珍珠项链造型",
+        "onboard_time": 1694497359,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192400,
+        "num": 192400,
+        "word": "光与夜之恋 上桌吃饭",
+        "onboard_time": 1694498260,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191956,
+        "num": 191956,
+        "word": "薛之谦演唱会退票细则公布",
+        "onboard_time": 1694490340,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187152,
+        "num": 187152,
+        "word": "李佳琦称没有资格站在个人角度评论网友",
+        "onboard_time": 1694485359,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184853,
+        "num": 184853,
+        "word": "修丽可 邓为",
+        "onboard_time": 1694485242,
+        "rank": 47,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 180731,
+        "num": 180731,
+        "word": "虞书欣方否认演七夜雪",
+        "onboard_time": 1694498020,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167161,
+        "num": 167161,
+        "word": "朋友圈点赞透露着人情世故",
+        "onboard_time": 1694503896,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对挑战更要攻坚克难#"
+    }
+  }
+}
