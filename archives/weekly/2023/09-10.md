@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 06:16:12
+本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 06:33:40
 </p>
 </blockquote>
 <p>
@@ -4347,6 +4347,12 @@ KPL总决赛（热度：205998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23" target="weibo">
+教育部颁布校外培训行政处罚暂行办法（热度：205280）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A5%B4%E5%8D%B7%E7%8E%8B%E6%8A%8A%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%BA%86%E5%90%8C%E8%A1%8C%23" target="weibo">
 巴奴卷王把压力给到了同行（热度：205040）
 </a>
@@ -5577,6 +5583,12 @@ UFC293（热度：137246）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%23" target="weibo">
+郑州全面取消限购（热度：133149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC10%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%E7%8E%B0%E5%9C%BA%E9%AB%98%E7%87%83%23" target="weibo">
 歼10实弹射击现场高燃（热度：132560）
 </a>
@@ -5585,12 +5597,6 @@ UFC293（热度：137246）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%80%E5%BC%80%E5%8F%A3%E8%B0%81%E7%9A%84DNA%E5%8A%A8%E4%BA%86%23" target="weibo">
 老师一开口谁的DNA动了（热度：131862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23" target="weibo">
-教育部颁布校外培训行政处罚暂行办法（热度：131119）
 </a>
 </li>
 
@@ -6045,6 +6051,12 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A8%E9%99%AA%E4%B8%BB%E4%BA%BA%E5%8F%96%E5%BF%AB%E9%80%92%E7%9A%84%E5%B0%8F%E7%8C%AB%23" target="weibo">
+凌晨陪主人取快递的小猫（热度：54344）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%88%9F%E4%BA%94%E5%8F%B7%E5%9C%86%E6%BB%A1%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%23" target="weibo">
 天舟五号圆满完成任务（热度：53636）
 </a>
@@ -6123,6 +6135,12 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E7%AE%80%E5%86%B0%E7%9A%84%E4%BA%BA%23" target="weibo">
+盛阳说自己是简冰的人（热度：45768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%BD%E6%8A%8A%E7%8C%AB%E8%AE%AD%E5%87%BA%E6%9D%A5%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84%23" target="weibo">
 能把猫训出来是怎么做到的（热度：44825）
 </a>
@@ -6141,20 +6159,8 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%23" target="weibo">
-郑州全面取消限购（热度：42518）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E4%BB%A5%E4%B8%BA%E7%99%BD%E6%95%AC%E4%BA%AD%E6%9C%89%E8%88%9E%E8%B9%88%E5%8A%9F%E5%BA%95%23" target="weibo">
 沈腾以为白敬亭有舞蹈功底（热度：42507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A8%E9%99%AA%E4%B8%BB%E4%BA%BA%E5%8F%96%E5%BF%AB%E9%80%92%E7%9A%84%E5%B0%8F%E7%8C%AB%23" target="weibo">
-凌晨陪主人取快递的小猫（热度：40753）
 </a>
 </li>
 
@@ -6207,12 +6213,6 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E7%AE%80%E5%86%B0%E7%9A%84%E4%BA%BA%23" target="weibo">
-盛阳说自己是简冰的人（热度：34161）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E8%8B%A5%E5%AE%81%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 殷若宁登顶世界第一（热度：33157）
 </a>
@@ -6249,6 +6249,12 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23" target="weibo">
+惊艳了整个秋天的丰收色（热度：29289）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A1%E6%AF%947%E8%A5%BF%E7%8F%AD%E7%89%99%23" target="weibo">
 格鲁吉亚1比7西班牙（热度：24147）
 </a>
@@ -6263,12 +6269,6 @@ wbg周冠（热度：76864）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%AE%89%E4%BF%9D%E7%B3%BB%E7%BB%9F%E5%B7%B2%E7%98%AB%E7%97%AA%23" target="weibo">
 狗狗安保系统已瘫痪（热度：22570）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23" target="weibo">
-惊艳了整个秋天的丰收色（热度：21034）
 </a>
 </li>
 
