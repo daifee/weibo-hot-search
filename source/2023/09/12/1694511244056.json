@@ -1,0 +1,410 @@
+{
+  "runTime": 1694511244056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1291149,
+        "num": 1291149,
+        "word": "防猝死套餐",
+        "onboard_time": 1694492804,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1171761,
+        "num": 1171761,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 53636,
+        "num": 998328,
+        "word": "天舟五号圆满完成任务",
+        "onboard_time": 1694494124,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 898219,
+        "num": 898219,
+        "word": "花西子同款眉笔成本价不超10元",
+        "onboard_time": 1694508940,
+        "rank": 3,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 674241,
+        "num": 674241,
+        "word": "男子抓柯尔鸭当肉鸭吃赔了8千元",
+        "onboard_time": 1694507801,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520750,
+        "num": 520750,
+        "word": "金价已涨破600元每克",
+        "onboard_time": 1694497779,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 466196,
+        "num": 466196,
+        "word": "薛之谦感谢大家的理解和包容",
+        "onboard_time": 1694507678,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 450592,
+        "num": 450592,
+        "word": "双胞胎退役全家60多人接站",
+        "onboard_time": 1694505881,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438064,
+        "num": 438064,
+        "word": "金靖的角色还是太保守了",
+        "onboard_time": 1694508340,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367261,
+        "num": 367261,
+        "word": "周冬雨以为扫楼要打扫卫生",
+        "onboard_time": 1694504860,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1778632,
+        "num": 366380,
+        "word": "长期没有亲密关系会早衰吗",
+        "onboard_time": 1694503715,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1227112,
+        "num": 360818,
+        "word": "王宝强前经纪人宋喆已出狱",
+        "onboard_time": 1694504860,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1174943,
+        "num": 359175,
+        "word": "精子库举办大学生精液质量比拼",
+        "onboard_time": 1694504256,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348557,
+        "num": 348557,
+        "word": "中国人寿原董事长王滨死缓",
+        "onboard_time": 1694510562,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227852,
+        "num": 348258,
+        "word": "男子从近8米高河堤跳下勇救落水女童",
+        "onboard_time": 1694504135,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 687186,
+        "num": 348063,
+        "word": "李佳琦们别再飘了",
+        "onboard_time": 1694487338,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 578303,
+        "num": 347378,
+        "word": "傅首尔老刘离过一次婚",
+        "onboard_time": 1694494665,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452152,
+        "num": 347167,
+        "word": "薛之谦石家庄站抢票",
+        "onboard_time": 1694510318,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359677,
+        "num": 346886,
+        "word": "爱豆心理真的很强大",
+        "onboard_time": 1694507201,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346524,
+        "num": 346524,
+        "word": "遥遥领先",
+        "onboard_time": 1694505158,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 783089,
+        "num": 342312,
+        "word": "子宫肌瘤可能是吃出来的",
+        "onboard_time": 1694506599,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 423005,
+        "num": 340928,
+        "word": "少跟自己的好闺蜜一起睡觉",
+        "onboard_time": 1694509659,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309864,
+        "num": 309864,
+        "word": "猴 狐猴",
+        "onboard_time": 1694504316,
+        "rank": 22,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 291771,
+        "num": 291771,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1694501195,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251873,
+        "num": 251873,
+        "word": "papi酱 两个人一起浪费时间很重要",
+        "onboard_time": 1694498441,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230778,
+        "num": 230778,
+        "word": "华为问界新M7",
+        "onboard_time": 1694502218,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219697,
+        "num": 219697,
+        "word": "9个月宝宝把西瓜咬裂了",
+        "onboard_time": 1694507019,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219390,
+        "num": 219390,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218818,
+        "num": 218818,
+        "word": "月经同步真的存在吗",
+        "onboard_time": 1694511097,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 215171,
+        "num": 215171,
+        "word": "虞书欣也有他拍的了",
+        "onboard_time": 1694503358,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2411658,
+        "num": 214530,
+        "word": "郭美美已出狱",
+        "onboard_time": 1694507741,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 236856,
+        "num": 214389,
+        "word": "肖战被导演灌醉了",
+        "onboard_time": 1694492450,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231818,
+        "num": 214089,
+        "word": "很久没看到这么有创意的广告了",
+        "onboard_time": 1694510918,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213760,
+        "num": 213760,
+        "word": "成毅怎么老演这种快死的角色",
+        "onboard_time": 1694511218,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208120,
+        "num": 208120,
+        "word": "出现乌龟颈怎么办",
+        "onboard_time": 1694506960,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211531,
+        "num": 203640,
+        "word": "aespa官方定位来了",
+        "onboard_time": 1694510799,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197196,
+        "num": 197196,
+        "word": "亚运会轮椅上的火炬手",
+        "onboard_time": 1694511161,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195894,
+        "num": 195894,
+        "word": "他不是在下乡就是在下乡的路上",
+        "onboard_time": 1694510200,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196495,
+        "num": 195465,
+        "word": "论公主抱还得是成毅",
+        "onboard_time": 1694509900,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192947,
+        "num": 192947,
+        "word": "鞠婧祎美拉德风",
+        "onboard_time": 1694504915,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 184768,
+        "num": 190802,
+        "word": "StrayKids初动销量逆袭",
+        "onboard_time": 1694509962,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190185,
+        "num": 190185,
+        "word": "原来爱都是从散步开始的",
+        "onboard_time": 1694511218,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189931,
+        "num": 189931,
+        "word": "iPhone15取消静音拨片",
+        "onboard_time": 1694481937,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189080,
+        "num": 189080,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189054,
+        "num": 189054,
+        "word": "朋友圈点赞透露着人情世故",
+        "onboard_time": 1694503896,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188551,
+        "num": 188551,
+        "word": "杰尼斯旗下艺人掉代言",
+        "onboard_time": 1694508222,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181231,
+        "num": 181231,
+        "word": "师洋评79元眉笔",
+        "onboard_time": 1694493527,
+        "rank": 46,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 176681,
+        "num": 176681,
+        "word": "胡歌抱着花花玩偶坐成都地铁",
+        "onboard_time": 1694504677,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "你可能对0.07g没什么概念",
+        "onboard_time": 1694491123,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165471,
+        "num": 165471,
+        "word": "蜂花回应捡箱子发货",
+        "onboard_time": 1694495264,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给红其拉甫海关全体关员回信#"
+    }
+  }
+}
