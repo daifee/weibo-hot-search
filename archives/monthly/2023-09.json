@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694522925325,
+  "endTime": 1694524854194,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1683,6 +1683,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 1736004,
+      "num": 481637,
+      "word": "郑恺这一个月经历了什么",
+      "onboard_time": 1694522978,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1735672,
       "num": 1735672,
       "word": "深圳台风",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1693988376,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1380062,
+      "num": 1380062,
+      "word": "这4种面包真的建议少吃",
+      "onboard_time": 1694523278,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1379706,
@@ -4827,6 +4843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 818363,
+      "num": 818363,
+      "word": "宫尚角隐形眼镜忘摘了",
+      "onboard_time": 1694521897,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 818240,
       "num": 818240,
       "word": "林俊杰第一条微博就是胡彦斌",
@@ -5097,6 +5121,14 @@
       "onboard_time": 1694339253,
       "rank": 12,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 797224,
+      "num": 480993,
+      "word": "郭敬明减肥法",
+      "onboard_time": 1694522199,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 796473,
@@ -6259,6 +6291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 686754,
+      "num": 461871,
+      "word": "iPhone15配置售价一图来了",
+      "onboard_time": 1694511702,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 686666,
       "num": 686666,
       "word": "原来真有人后发际线长到脖子上",
@@ -6827,14 +6867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 650596,
-      "num": 461871,
-      "word": "iPhone15配置售价一图来了",
-      "onboard_time": 1694511702,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 650482,
       "num": 650482,
       "word": "李荣浩演唱会讲话时嘴里进了只蚊子",
@@ -6937,14 +6969,6 @@
       "onboard_time": 1693799194,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 642288,
-      "num": 342566,
-      "word": "郭敬明减肥法",
-      "onboard_time": 1694522199,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 641538,
@@ -7955,14 +7979,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 580616,
-      "num": 337766,
-      "word": "宫尚角隐形眼镜忘摘了",
-      "onboard_time": 1694521897,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 580590,
       "num": 580590,
       "word": "男人吃醋的时候不分理由只看性别",
@@ -8121,6 +8137,14 @@
       "onboard_time": 1693478082,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566027,
+      "num": 566027,
+      "word": "叙利亚领先",
+      "onboard_time": 1694524123,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 565398,
@@ -9787,6 +9811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489213,
+      "num": 479723,
+      "word": "怪不得她是国民初恋",
+      "onboard_time": 1694523036,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489196,
       "num": 489196,
       "word": "西安暴雨",
@@ -9985,6 +10017,14 @@
       "onboard_time": 1694060077,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481682,
+      "num": 481682,
+      "word": "赵丽颖参加中国电视艺术家大会",
+      "onboard_time": 1694523518,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 481564,
@@ -10891,6 +10931,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 451132,
+      "num": 451132,
+      "word": "新精英的傲慢",
+      "onboard_time": 1694524722,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451003,
       "num": 618285,
       "word": "小萝卜头如果还活着今年82岁了",
@@ -11081,6 +11129,14 @@
       "onboard_time": 1694512178,
       "rank": 23,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 441009,
+      "num": 441009,
+      "word": "月公子也是无锋吗",
+      "onboard_time": 1694522856,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 440874,
@@ -12593,6 +12649,14 @@
       "onboard_time": 1694329472,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 390140,
+      "num": 285452,
+      "word": "婆婆最爱的大花墙被我砸了",
+      "onboard_time": 1694522799,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 389761,
@@ -15851,6 +15915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304445,
+      "num": 304445,
+      "word": "莲花味精上架79元的套餐",
+      "onboard_time": 1694524062,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304313,
       "num": 304313,
       "word": "蜂蜜小面包竟然这么多油",
@@ -16825,6 +16897,14 @@
       "onboard_time": 1693710454,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284949,
+      "num": 284949,
+      "word": "半年报将公司名称写成那要不住哥哥家里吧",
+      "onboard_time": 1694523821,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 284640,
@@ -21443,6 +21523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209361,
+      "num": 209361,
+      "word": "蜂 不好我被跟踪了",
+      "onboard_time": 1694524421,
+      "rank": 40,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 209258,
       "num": 228402,
       "word": "齐司礼云月之约",
@@ -21873,6 +21961,14 @@
       "onboard_time": 1694090078,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205751,
+      "num": 205751,
+      "word": "上官浅停止营业但卢昱晓没有",
+      "onboard_time": 1694524239,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 205483,
@@ -22673,6 +22769,14 @@
       "onboard_time": 1694321074,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200013,
+      "num": 200013,
+      "word": "分享欲不是喜欢探索欲才是",
+      "onboard_time": 1694524299,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 199998,
@@ -24595,6 +24699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184559,
+      "num": 184559,
+      "word": "C盘满了千万不要乱删文件",
+      "onboard_time": 1694524722,
+      "rank": 43,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 184523,
       "num": 184523,
       "word": "密室大逃脱5收官",
@@ -25361,14 +25473,6 @@
       "onboard_time": 1693613613,
       "rank": 42,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 175314,
-      "num": 175314,
-      "word": "婆婆最爱的大花墙被我砸了",
-      "onboard_time": 1694522799,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 175303,
@@ -26657,14 +26761,6 @@
       "onboard_time": 1694017469,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157806,
-      "num": 157806,
-      "word": "月公子也是无锋吗",
-      "onboard_time": 1694522856,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 157785,
@@ -29505,6 +29601,14 @@
       "onboard_time": 1693768394,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92866,
+      "num": 480376,
+      "word": "38年前一顿饭女子照顾闺蜜14年",
+      "onboard_time": 1694523700,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92766,

@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694522925325,
+  "endTime": 1694524854194,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -515,6 +515,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 1736004,
+      "num": 481637,
+      "word": "郑恺这一个月经历了什么",
+      "onboard_time": 1694522978,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1732640,
       "num": 464382,
       "word": "丞磊卢昱晓大大方方营业",
@@ -729,6 +737,14 @@
       "onboard_time": 1694263535,
       "rank": 10,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 1380062,
+      "num": 1380062,
+      "word": "这4种面包真的建议少吃",
+      "onboard_time": 1694523278,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1378891,
@@ -1259,6 +1275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 818363,
+      "num": 818363,
+      "word": "宫尚角隐形眼镜忘摘了",
+      "onboard_time": 1694521897,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 816053,
       "num": 454614,
       "word": "女子反复咳嗽多年治不好竟是因为吃多了",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1694339253,
       "rank": 12,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 797224,
+      "num": 480993,
+      "word": "郭敬明减肥法",
+      "onboard_time": 1694522199,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 792894,
@@ -1547,6 +1579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 686754,
+      "num": 461871,
+      "word": "iPhone15配置售价一图来了",
+      "onboard_time": 1694511702,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 681199,
       "num": 681199,
       "word": "当我用了前夫哥的亲密付",
@@ -1643,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 650596,
-      "num": 461871,
-      "word": "iPhone15配置售价一图来了",
-      "onboard_time": 1694511702,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 647012,
       "num": 538739,
       "word": "女大学生称军训服透明几乎露出内裤",
@@ -1673,14 +1705,6 @@
       "onboard_time": 1694271760,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 642288,
-      "num": 342566,
-      "word": "郭敬明减肥法",
-      "onboard_time": 1694522199,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 641538,
@@ -1899,20 +1923,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 580616,
-      "num": 337766,
-      "word": "宫尚角隐形眼镜忘摘了",
-      "onboard_time": 1694521897,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 580590,
       "num": 580590,
       "word": "男人吃醋的时候不分理由只看性别",
       "onboard_time": 1694441809,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 566027,
+      "num": 566027,
+      "word": "叙利亚领先",
+      "onboard_time": 1694524123,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 559472,
@@ -2235,6 +2259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489213,
+      "num": 479723,
+      "word": "怪不得她是国民初恋",
+      "onboard_time": 1694523036,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489196,
       "num": 489196,
       "word": "西安暴雨",
@@ -2288,6 +2320,14 @@
       "word": "董璇回复佟丽娅夸她等于夸自己",
       "onboard_time": 1694481039,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 481682,
+      "num": 481682,
+      "word": "赵丽颖参加中国电视艺术家大会",
+      "onboard_time": 1694523518,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -2491,6 +2531,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 451132,
+      "num": 451132,
+      "word": "新精英的傲慢",
+      "onboard_time": 1694524722,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450644,
       "num": 413775,
       "word": "七年没联系的大学同学来借钱",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1694512178,
       "rank": 23,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 441009,
+      "num": 441009,
+      "word": "月公子也是无锋吗",
+      "onboard_time": 1694522856,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 440742,
@@ -2897,6 +2953,14 @@
       "onboard_time": 1694329472,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 390140,
+      "num": 285452,
+      "word": "婆婆最爱的大花墙被我砸了",
+      "onboard_time": 1694522799,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 386557,
@@ -3787,6 +3851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304445,
+      "num": 304445,
+      "word": "莲花味精上架79元的套餐",
+      "onboard_time": 1694524062,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304313,
       "num": 304313,
       "word": "蜂蜜小面包竟然这么多油",
@@ -4081,6 +4153,14 @@
       "onboard_time": 1694501734,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284949,
+      "num": 284949,
+      "word": "半年报将公司名称写成那要不住哥哥家里吧",
+      "onboard_time": 1694523821,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 284644,
@@ -5235,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209361,
+      "num": 209361,
+      "word": "蜂 不好我被跟踪了",
+      "onboard_time": 1694524421,
+      "rank": 40,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 209277,
       "num": 209277,
       "word": "杨千嬅演唱会官宣重庆武汉",
@@ -5321,6 +5409,14 @@
       "onboard_time": 1694344774,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205751,
+      "num": 205751,
+      "word": "上官浅停止营业但卢昱晓没有",
+      "onboard_time": 1694524239,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 205483,
@@ -5561,6 +5657,14 @@
       "onboard_time": 1694321074,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200013,
+      "num": 200013,
+      "word": "分享欲不是喜欢探索欲才是",
+      "onboard_time": 1694524299,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 199696,
@@ -6027,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184559,
+      "num": 184559,
+      "word": "C盘满了千万不要乱删文件",
+      "onboard_time": 1694524722,
+      "rank": 43,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 184453,
       "num": 184453,
       "word": "丽水一山区县中逆袭本科率100%",
@@ -6139,6 +6251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179230,
+      "num": 179230,
+      "word": "异人之下",
+      "onboard_time": 1694325154,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178801,
       "num": 178801,
       "word": "萧敬腾求雨符",
@@ -6241,14 +6361,6 @@
       "onboard_time": 1694418577,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175314,
-      "num": 175314,
-      "word": "婆婆最爱的大花墙被我砸了",
-      "onboard_time": 1694522799,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 175144,
@@ -6579,14 +6691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159447,
-      "num": 159447,
-      "word": "异人之下",
-      "onboard_time": 1694325154,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158931,
       "num": 254270,
       "word": "阿里新CEO确立用户和AI两大战略重心",
@@ -6609,14 +6713,6 @@
       "onboard_time": 1694396498,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157806,
-      "num": 157806,
-      "word": "月公子也是无锋吗",
-      "onboard_time": 1694522856,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 157785,
@@ -7305,6 +7401,14 @@
       "onboard_time": 1694263595,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 92866,
+      "num": 480376,
+      "word": "38年前一顿饭女子照顾闺蜜14年",
+      "onboard_time": 1694523700,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91310,
