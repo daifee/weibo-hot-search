@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694488626231,
+  "endTime": 1694489639135,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2257729,
+      "num": 468528,
+      "word": "石榴集团董事长下跪",
+      "onboard_time": 1694485599,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2164187,
       "num": 2164187,
       "word": "男子分手后卖掉黄金将15000元全撒了",
@@ -89,14 +97,6 @@
       "onboard_time": 1694485242,
       "rank": 30,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 1657907,
-      "num": 468528,
-      "word": "石榴集团董事长下跪",
-      "onboard_time": 1694485599,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1597266,
@@ -145,6 +145,14 @@
       "onboard_time": 1694477018,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1042260,
+      "num": 369786,
+      "word": "花西子散粉贵过香奈儿",
+      "onboard_time": 1694488658,
+      "rank": 21,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 935406,
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 760426,
+      "num": 760426,
+      "word": "周笔畅签约壹心娱乐",
+      "onboard_time": 1694488540,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 729790,
       "num": 729790,
       "word": "汪苏泷容祖儿 雷公电母",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 638645,
-      "num": 525114,
+      "num": 611835,
       "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
       "onboard_time": 1694482477,
       "rank": 20,
@@ -281,14 +297,6 @@
       "onboard_time": 1694469435,
       "rank": 19,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 601690,
-      "num": 601690,
-      "word": "周笔畅签约壹心娱乐",
-      "onboard_time": 1694488540,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 550728,
@@ -323,7 +331,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472528,
+      "raw_hot": 481564,
       "num": 360062,
       "word": "李佳琦称没有资格站在个人角度评论网友",
       "onboard_time": 1694485359,
@@ -379,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398573,
+      "num": 398573,
+      "word": "女子称上班3天半被辞讨要工资反被怼",
+      "onboard_time": 1694485418,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389517,
       "num": 389517,
       "word": "南风知我意定档",
@@ -427,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360472,
-      "num": 360472,
-      "word": "女子称上班3天半被辞讨要工资反被怼",
-      "onboard_time": 1694485418,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 363887,
+      "num": 363887,
+      "word": "花西子就被传谣为日本品牌向警方报案",
+      "onboard_time": 1694489199,
+      "rank": 24,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 355975,
@@ -441,6 +457,14 @@
       "onboard_time": 1694418334,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350652,
+      "num": 350652,
+      "word": "花西子称自己百分百是国货品牌",
+      "onboard_time": 1694488961,
+      "rank": 27,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 347886,
@@ -497,6 +521,14 @@
       "onboard_time": 1694480857,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313351,
+      "num": 313351,
+      "word": "华为争气三件套",
+      "onboard_time": 1694489139,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 308635,
@@ -571,12 +603,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 266687,
+      "num": 266687,
+      "word": "于适 自在如风",
+      "onboard_time": 1694487820,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266112,
       "num": 266112,
       "word": "Somi大大的眼睛大大的疑惑",
       "onboard_time": 1694446239,
       "rank": 26,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 263798,
+      "num": 514613,
+      "word": "女孩一听家人给陌生人转账立刻报警",
+      "onboard_time": 1694481695,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247645,
@@ -603,12 +651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228285,
-      "num": 228285,
-      "word": "于适 自在如风",
-      "onboard_time": 1694487820,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 233388,
+      "num": 233388,
+      "word": "上官浅的眼里没有爱",
+      "onboard_time": 1694489139,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 226459,
@@ -617,14 +665,6 @@
       "onboard_time": 1694486199,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223165,
-      "num": 514613,
-      "word": "女孩一听家人给陌生人转账立刻报警",
-      "onboard_time": 1694481695,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220529,
@@ -787,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173254,
+      "num": 392088,
+      "word": "5起特大跨境电信诈骗案挂牌督办启动",
+      "onboard_time": 1694488961,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171217,
       "num": 171217,
       "word": "安徽母女在杭州做手术遇神仙病友",
@@ -899,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130652,
+      "num": 265965,
+      "word": "华为智选车发布会",
+      "onboard_time": 1694489259,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 130528,
       "num": 130528,
       "word": "李佳琦说找不到以前状态了",
@@ -987,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102128,
+      "num": 489119,
+      "word": "学明星用行李箱拍出氛围感",
+      "onboard_time": 1694487643,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97913,
       "num": 97913,
       "word": "宫尚角误伤宫远徵",
@@ -1009,14 +1073,6 @@
       "onboard_time": 1694429139,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 74494,
-      "num": 489119,
-      "word": "学明星用行李箱拍出氛围感",
-      "onboard_time": 1694487643,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 51059,

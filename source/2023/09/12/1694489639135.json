@@ -1,0 +1,410 @@
+{
+  "runTime": 1694489639135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2122585,
+        "num": 2122585,
+        "word": "男子分手后卖掉黄金将15000元全撒了",
+        "onboard_time": 1694484099,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1896462,
+        "num": 1896462,
+        "word": "蜂花 商战",
+        "onboard_time": 1694482477,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 20316,
+        "num": 1390408,
+        "word": "2023年国家网络安全宣传周",
+        "onboard_time": 1694402381,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1301591,
+        "num": 1301591,
+        "word": "修丽可 邓为",
+        "onboard_time": 1694485242,
+        "rank": 3,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 791714,
+        "num": 791714,
+        "word": "Mate60遭老罪了",
+        "onboard_time": 1694486800,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 760426,
+        "num": 760426,
+        "word": "周笔畅签约壹心娱乐",
+        "onboard_time": 1694488540,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710474,
+        "num": 710474,
+        "word": "动漫都被还原成这样了吗",
+        "onboard_time": 1694484457,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611835,
+        "num": 611835,
+        "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
+        "onboard_time": 1694482477,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 470653,
+        "num": 470653,
+        "word": "金繁喊纪凌尘大海哥",
+        "onboard_time": 1694480738,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398573,
+        "num": 398573,
+        "word": "女子称上班3天半被辞讨要工资反被怼",
+        "onboard_time": 1694485418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2657328,
+        "num": 397746,
+        "word": "李佳琦们别再飘了",
+        "onboard_time": 1694487338,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2257729,
+        "num": 396070,
+        "word": "石榴集团董事长下跪",
+        "onboard_time": 1694485599,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173254,
+        "num": 392088,
+        "word": "5起特大跨境电信诈骗案挂牌督办启动",
+        "onboard_time": 1694488961,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132173,
+        "num": 390289,
+        "word": "天舟五号再次撤离空间站",
+        "onboard_time": 1694485599,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102128,
+        "num": 387265,
+        "word": "学明星用行李箱拍出氛围感",
+        "onboard_time": 1694487643,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1631813,
+        "num": 384915,
+        "word": "李佳琦 职业倦怠",
+        "onboard_time": 1694479718,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 842626,
+        "num": 382532,
+        "word": "马斯克已同3名女性生下10个孩子",
+        "onboard_time": 1694481337,
+        "rank": 16,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 263798,
+        "num": 379518,
+        "word": "女孩一听家人给陌生人转账立刻报警",
+        "onboard_time": 1694481695,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402545,
+        "num": 376791,
+        "word": "李佳琦哭着道歉",
+        "onboard_time": 1694435444,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1184476,
+        "num": 374740,
+        "word": "李佳琦称身上羽毛是所有女生赋予的",
+        "onboard_time": 1694440429,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1248094,
+        "num": 372129,
+        "word": "iPhone15取消静音拨片",
+        "onboard_time": 1694481937,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1042260,
+        "num": 369786,
+        "word": "花西子散粉贵过香奈儿",
+        "onboard_time": 1694488658,
+        "rank": 21,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 1085928,
+        "num": 367536,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 631140,
+        "num": 366184,
+        "word": "苹果 5G角标",
+        "onboard_time": 1694483200,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 363887,
+        "num": 363887,
+        "word": "花西子就被传谣为日本品牌向警方报案",
+        "onboard_time": 1694489199,
+        "rank": 24,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 810458,
+        "num": 363003,
+        "word": "李佳琦哭完继续带货",
+        "onboard_time": 1694438631,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 352729,
+        "num": 352729,
+        "word": "吴倩一滴泪哭戏",
+        "onboard_time": 1694484217,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350652,
+        "num": 350652,
+        "word": "花西子称自己百分百是国货品牌",
+        "onboard_time": 1694488961,
+        "rank": 27,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 481564,
+        "num": 344822,
+        "word": "李佳琦称没有资格站在个人角度评论网友",
+        "onboard_time": 1694485359,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 335334,
+        "num": 335334,
+        "word": "上班上久了是会这样的",
+        "onboard_time": 1694477018,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328556,
+        "num": 328556,
+        "word": "邓超想送孙俪两三百斤的石头",
+        "onboard_time": 1694481997,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326379,
+        "num": 326379,
+        "word": "被困缅甸的中科院博士发声",
+        "onboard_time": 1694476237,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320684,
+        "num": 320684,
+        "word": "坂田银时吸入白砂糖",
+        "onboard_time": 1694486016,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313351,
+        "num": 313351,
+        "word": "华为争气三件套",
+        "onboard_time": 1694489139,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 291662,
+        "num": 291662,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266687,
+        "num": 266687,
+        "word": "于适 自在如风",
+        "onboard_time": 1694487820,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130652,
+        "num": 265965,
+        "word": "华为智选车发布会",
+        "onboard_time": 1694489259,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265583,
+        "num": 265583,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243636,
+        "num": 243636,
+        "word": "李佳琦",
+        "onboard_time": 1694474430,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243325,
+        "num": 243325,
+        "word": "Uzi说休赛期的小明喊不动",
+        "onboard_time": 1694484519,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242713,
+        "num": 242713,
+        "word": "iPhone15你们会买哪款",
+        "onboard_time": 1694486979,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 236318,
+        "num": 236318,
+        "word": "收集了1年3个月的掉发量",
+        "onboard_time": 1694484099,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233388,
+        "num": 233388,
+        "word": "上官浅的眼里没有爱",
+        "onboard_time": 1694489139,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232688,
+        "num": 232688,
+        "word": "女子子宫肌瘤10年没管医生取出109颗",
+        "onboard_time": 1694475391,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205881,
+        "num": 205881,
+        "word": "韩国最受欢迎的两种小吃",
+        "onboard_time": 1694475874,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200286,
+        "num": 200286,
+        "word": "周杰伦天津演唱会带动消费超30亿元",
+        "onboard_time": 1694483018,
+        "rank": 45,
+        "category": "音乐,财经"
+      },
+      {
+        "raw_hot": 181912,
+        "num": 181912,
+        "word": "上海迪士尼年卡回归",
+        "onboard_time": 1694486739,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179956,
+        "num": 179956,
+        "word": "宫二紧急表情管理",
+        "onboard_time": 1694486199,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100762,
+        "num": 173345,
+        "word": "金正恩访问俄罗斯",
+        "onboard_time": 1694476475,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 169211,
+        "num": 169211,
+        "word": "大爷商场内疑用下体顶女子臀部",
+        "onboard_time": 1694475446,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对挑战更要攻坚克难#"
+    }
+  }
+}
