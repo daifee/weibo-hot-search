@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694543669390,
+  "endTime": 1694545965986,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -505,6 +505,22 @@
       "onboard_time": 1694542579,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20095,
+      "num": 25061,
+      "word": "盛阳说自己是简冰的人",
+      "onboard_time": 1694545696,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19739,
+      "num": 24571,
+      "word": "这一宿舍都是i人啊",
+      "onboard_time": 1694542879,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 19670,
