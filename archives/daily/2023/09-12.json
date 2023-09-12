@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694507671566,
+  "endTime": 1694510229687,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 4169398,
-      "num": 413072,
+      "num": 432947,
       "word": "王宝强前经纪人宋喆已出狱",
       "onboard_time": 1694504860,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2822399,
-      "num": 412358,
+      "num": 433758,
       "word": "长期没有亲密关系会早衰吗",
       "onboard_time": 1694503715,
       "rank": 31,
@@ -81,6 +81,14 @@
       "onboard_time": 1694488658,
       "rank": 21,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 2787124,
+      "num": 239926,
+      "word": "郭美美已出狱",
+      "onboard_time": 1694507741,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2719107,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1699358,
-      "num": 401085,
+      "num": 429923,
       "word": "精子库举办大学生精液质量比拼",
       "onboard_time": 1694504256,
       "rank": 16,
@@ -331,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 852806,
+      "num": 384079,
+      "word": "子宫肌瘤可能是吃出来的",
+      "onboard_time": 1694506599,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
       "raw_hot": 852571,
       "num": 852571,
       "word": "玉溪一彩民中1.13亿元",
@@ -467,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626806,
+      "num": 626806,
+      "word": "男子抓柯尔鸭当肉鸭吃赔了8千元",
+      "onboard_time": 1694507801,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616023,
       "num": 398912,
       "word": "萧敬腾 求雨",
       "onboard_time": 1694474370,
       "rank": 16,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 612969,
-      "num": 384079,
-      "word": "子宫肌瘤可能是吃出来的",
-      "onboard_time": 1694506599,
-      "rank": 36,
-      "category": "其它"
     },
     {
       "raw_hot": 611973,
@@ -537,6 +553,14 @@
       "onboard_time": 1694478699,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503171,
+      "num": 503171,
+      "word": "金靖的角色还是太保守了",
+      "onboard_time": 1694508340,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 490588,
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428218,
+      "num": 428218,
+      "word": "花西子同款眉笔成本价不超10元",
+      "onboard_time": 1694508940,
+      "rank": 18,
+      "category": "美妆,财经"
+    },
+    {
       "raw_hot": 427146,
       "num": 457352,
       "word": "戒咖啡两个月后",
@@ -697,6 +729,14 @@
       "onboard_time": 1694432622,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384471,
+      "num": 384471,
+      "word": "爱豆心理真的很强大",
+      "onboard_time": 1694507201,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 369156,
@@ -875,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323742,
-      "num": 323742,
-      "word": "爱豆心理真的很强大",
-      "onboard_time": 1694507201,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322660,
       "num": 322660,
       "word": "冯宝宝好像被打了不确定再看看",
@@ -924,7 +956,7 @@
     },
     {
       "raw_hot": 307336,
-      "num": 254982,
+      "num": 284362,
       "word": "9个月宝宝把西瓜咬裂了",
       "onboard_time": 1694507019,
       "rank": 31,
@@ -937,6 +969,14 @@
       "onboard_time": 1694493284,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 303256,
+      "num": 303256,
+      "word": "薛之谦感谢大家的理解和包容",
+      "onboard_time": 1694507678,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 303152,
@@ -964,7 +1004,7 @@
     },
     {
       "raw_hot": 294925,
-      "num": 409512,
+      "num": 432298,
       "word": "男子从近8米高河堤跳下勇救落水女童",
       "onboard_time": 1694504135,
       "rank": 12,
@@ -1027,6 +1067,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 271073,
+      "num": 271073,
+      "word": "少跟自己的好闺蜜一起睡觉",
+      "onboard_time": 1694509659,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 270456,
+      "num": 270456,
+      "word": "出现乌龟颈怎么办",
+      "onboard_time": 1694506960,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270372,
       "num": 270372,
       "word": "宫尚角审问上官浅",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1694497715,
       "rank": 37,
       "category": "其它"
-    },
-    {
-      "raw_hot": 254154,
-      "num": 254154,
-      "word": "出现乌龟颈怎么办",
-      "onboard_time": 1694506960,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 251545,
@@ -1195,6 +1243,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 218149,
+      "num": 218149,
+      "word": "杰尼斯旗下艺人掉代言",
+      "onboard_time": 1694508222,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216932,
       "num": 216932,
       "word": "胡歌路演交通工具升级成地铁了",
@@ -1291,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202539,
+      "num": 202539,
+      "word": "StrayKids初动销量逆袭",
+      "onboard_time": 1694509962,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197650,
       "num": 197650,
       "word": "我有事要去jellycat一趟",
@@ -1328,6 +1392,14 @@
       "word": "张雨绮古装路透梦回妖猫传",
       "onboard_time": 1694481039,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193036,
+      "num": 193036,
+      "word": "论公主抱还得是成毅",
+      "onboard_time": 1694509900,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1516,11 +1588,19 @@
     },
     {
       "raw_hot": 162866,
-      "num": 337653,
+      "num": 431099,
       "word": "华为发布全新25万级问界M7",
       "onboard_time": 1694506538,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 161772,
+      "num": 161772,
+      "word": "原来周冬雨比李梦大",
+      "onboard_time": 1694507563,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 160671,
@@ -1529,14 +1609,6 @@
       "onboard_time": 1694506237,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159455,
-      "num": 159455,
-      "word": "原来周冬雨比李梦大",
-      "onboard_time": 1694507563,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 158931,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1694482057,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149832,
+      "num": 149832,
+      "word": "他不是在下乡就是在下乡的路上",
+      "onboard_time": 1694510200,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145026,
@@ -1801,6 +1881,14 @@
       "onboard_time": 1694452702,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49279,
+      "num": 819640,
+      "word": "天舟五号圆满完成任务",
+      "onboard_time": 1694494124,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 43537,
