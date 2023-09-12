@@ -1,12 +1,20 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694475241508,
+  "endTime": 1694480941417,
   "band_list": [
     {
       "raw_hot": 4531583,
       "num": 344417,
       "word": "李佳琦哭着道歉",
       "onboard_time": 1694435444,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 4242864,
+      "num": 454918,
+      "word": "李佳琦 职业倦怠",
+      "onboard_time": 1694479718,
       "rank": 10,
       "category": "网红"
     },
@@ -20,15 +28,31 @@
     },
     {
       "raw_hot": 2894482,
-      "num": 343163,
+      "num": 453449,
       "word": "李佳琦掉粉",
       "onboard_time": 1694424100,
       "rank": 11,
       "category": "网红"
     },
     {
+      "raw_hot": 2265619,
+      "num": 2265619,
+      "word": "被困缅甸的中科院博士发声",
+      "onboard_time": 1694476237,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2075422,
+      "num": 2075422,
+      "word": "韩国最受欢迎的两种小吃",
+      "onboard_time": 1694475874,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1488092,
-      "num": 273627,
+      "num": 425592,
       "word": "李佳琦",
       "onboard_time": 1694474430,
       "rank": 12,
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 1412821,
-      "num": 334753,
+      "num": 436368,
       "word": "觉得79元眉笔贵是不够努力这话太离谱",
       "onboard_time": 1694436593,
       "rank": 18,
@@ -52,11 +76,19 @@
     },
     {
       "raw_hot": 912017,
-      "num": 315372,
+      "num": 413711,
       "word": "花洛莉亚 这泼天的富贵",
       "onboard_time": 1694433278,
       "rank": 21,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 904691,
+      "num": 904691,
+      "word": "上班上久了是会这样的",
+      "onboard_time": 1694477018,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 852571,
@@ -68,11 +100,27 @@
     },
     {
       "raw_hot": 812775,
-      "num": 324698,
+      "num": 395462,
       "word": "父亲到校将猥亵女儿的副院长打伤",
       "onboard_time": 1694434721,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790739,
+      "num": 396758,
+      "word": "女子子宫肌瘤10年没管医生取出109颗",
+      "onboard_time": 1694475391,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729790,
+      "num": 729790,
+      "word": "汪苏泷容祖儿 雷公电母",
+      "onboard_time": 1694479300,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 687217,
@@ -84,7 +132,7 @@
     },
     {
       "raw_hot": 641538,
-      "num": 337518,
+      "num": 450629,
       "word": "如何不提死亡却写出死亡",
       "onboard_time": 1694447019,
       "rank": 16,
@@ -92,7 +140,7 @@
     },
     {
       "raw_hot": 616023,
-      "num": 271346,
+      "num": 398912,
       "word": "萧敬腾 求雨",
       "onboard_time": 1694474370,
       "rank": 16,
@@ -115,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 518846,
+      "num": 518846,
+      "word": "广西玉林多起山体滑坡已致7人遇难",
+      "onboard_time": 1694478699,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472147,
       "num": 472147,
       "word": "射手座是一个嘴软心硬的人",
@@ -123,20 +179,28 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 427146,
-      "num": 427146,
-      "word": "戒咖啡两个月后",
-      "onboard_time": 1694425360,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 419632,
-      "num": 419632,
+      "raw_hot": 459238,
+      "num": 459238,
       "word": "男人吃醋的时候不分理由只看性别",
       "onboard_time": 1694441809,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 449169,
+      "num": 449169,
+      "word": "金正恩访问俄罗斯",
+      "onboard_time": 1694476475,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 427146,
+      "num": 457352,
+      "word": "戒咖啡两个月后",
+      "onboard_time": 1694425360,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 389517,
@@ -155,12 +219,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382385,
-      "num": 298843,
+      "raw_hot": 384232,
+      "num": 384232,
       "word": "李佳琦 花西子",
       "onboard_time": 1694330431,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369156,
+      "num": 369156,
+      "word": "19岁女生戴耳机睡觉致耳朵流血流脓",
+      "onboard_time": 1694475391,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364993,
+      "num": 357465,
+      "word": "李佳琦就直播言论致歉",
+      "onboard_time": 1694387725,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 364148,
+      "num": 364148,
+      "word": "大爷商场内疑用下体顶女子臀部",
+      "onboard_time": 1694475446,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355975,
@@ -187,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340251,
-      "num": 260817,
-      "word": "李佳琦就直播言论致歉",
-      "onboard_time": 1694387725,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 334644,
       "num": 334644,
       "word": "中国超3000万男性难结婚",
@@ -212,7 +292,7 @@
     },
     {
       "raw_hot": 303112,
-      "num": 342395,
+      "num": 446897,
       "word": "女孩因外貌质疑自己妈妈拥吻回应",
       "onboard_time": 1694443187,
       "rank": 12,
@@ -259,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242453,
+      "num": 242453,
+      "word": "傲慢不愧是七宗罪之首",
+      "onboard_time": 1694480141,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220529,
       "num": 220529,
       "word": "亲密关系最忌讳的是自己憋着不说",
@@ -275,12 +363,36 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 216378,
+      "num": 216378,
+      "word": "你心中的哥哥张国荣",
+      "onboard_time": 1694476418,
+      "rank": 30,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 215653,
       "num": 215653,
       "word": "教育局回应校长讲座PPT现不当言论",
       "onboard_time": 1694471178,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211875,
+      "num": 211875,
+      "word": "杨紫长相思演技集锦",
+      "onboard_time": 1694479778,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197650,
+      "num": 197650,
+      "word": "我有事要去jellycat一趟",
+      "onboard_time": 1694454439,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 191745,
@@ -331,12 +443,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 177687,
+      "num": 177687,
+      "word": "金繁喊纪凌尘大海哥",
+      "onboard_time": 1694480738,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177638,
       "num": 177638,
       "word": "你接受李佳琦的道歉吗",
       "onboard_time": 1694394997,
       "rank": 37,
       "category": "社会议题,网红"
+    },
+    {
+      "raw_hot": 177160,
+      "num": 177160,
+      "word": "博格巴兴奋剂药检阳性",
+      "onboard_time": 1694476595,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 175144,
@@ -419,6 +547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 128298,
+      "num": 135424,
+      "word": "夫妻办书院免费照看放学孩子10年",
+      "onboard_time": 1694478641,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124521,
       "num": 73161,
       "word": "副院长猥亵女学生获刑",
@@ -435,20 +571,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 119157,
+      "num": 135405,
+      "word": "两周时间减少大腿内侧赘肉",
+      "onboard_time": 1694480857,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119084,
       "num": 119084,
       "word": "A股",
       "onboard_time": 1694458635,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117963,
-      "num": 117963,
-      "word": "我有事要去jellycat一趟",
-      "onboard_time": 1694454439,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 117135,
@@ -483,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111318,
+      "num": 135392,
+      "word": "Rose否认与霉霉合作",
+      "onboard_time": 1694460855,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "五月天林俊杰双向奔赴",
@@ -513,14 +657,6 @@
       "onboard_time": 1694429139,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89672,
-      "num": 89672,
-      "word": "Rose否认与霉霉合作",
-      "onboard_time": 1694460855,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 51059,
@@ -587,8 +723,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 10611,
-      "num": 450294,
+      "raw_hot": 22457,
+      "num": 1340599,
       "word": "2023年国家网络安全宣传周",
       "onboard_time": 1694402381,
       "rank": 2,

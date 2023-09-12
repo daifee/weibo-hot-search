@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694475241508,
+  "endTime": 1694480941417,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -88,6 +88,14 @@
       "word": "花西子回应李佳琦佣金比例达八成",
       "onboard_time": 1694433036,
       "rank": 18,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 4242864,
+      "num": 454918,
+      "word": "李佳琦 职业倦怠",
+      "onboard_time": 1694479718,
+      "rank": 10,
       "category": "网红"
     },
     {
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2265619,
+      "num": 2265619,
+      "word": "被困缅甸的中科院博士发声",
+      "onboard_time": 1694476237,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2203736,
       "num": 553520,
       "word": "79元对于普通人来说意味着什么",
@@ -233,6 +249,14 @@
       "onboard_time": 1694361037,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2075422,
+      "num": 2075422,
+      "word": "韩国最受欢迎的两种小吃",
+      "onboard_time": 1694475874,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 2066420,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 1488092,
-      "num": 273627,
+      "num": 425592,
       "word": "李佳琦",
       "onboard_time": 1694474430,
       "rank": 12,
@@ -795,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 904691,
+      "num": 904691,
+      "word": "上班上久了是会这样的",
+      "onboard_time": 1694477018,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 884832,
       "num": 323816,
       "word": "头部主播高佣金 国货生态",
@@ -931,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790739,
+      "num": 396758,
+      "word": "女子子宫肌瘤10年没管医生取出109颗",
+      "onboard_time": 1694475391,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777879,
       "num": 525042,
       "word": "张碧晨演唱会嘉宾是小鬼",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1694357325,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 729790,
+      "num": 729790,
+      "word": "汪苏泷容祖儿 雷公电母",
+      "onboard_time": 1694479300,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 728029,
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 641538,
-      "num": 337518,
+      "num": 450629,
       "word": "如何不提死亡却写出死亡",
       "onboard_time": 1694447019,
       "rank": 16,
@@ -1212,7 +1260,7 @@
     },
     {
       "raw_hot": 616023,
-      "num": 271346,
+      "num": 398912,
       "word": "萧敬腾 求雨",
       "onboard_time": 1694474370,
       "rank": 16,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1694403763,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 518846,
+      "num": 518846,
+      "word": "广西玉林多起山体滑坡已致7人遇难",
+      "onboard_time": 1694478699,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510277,
@@ -1761,6 +1817,14 @@
       "onboard_time": 1694411617,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 449169,
+      "num": 449169,
+      "word": "金正恩访问俄罗斯",
+      "onboard_time": 1694476475,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 445019,
@@ -2155,6 +2219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 369156,
+      "num": 369156,
+      "word": "19岁女生戴耳机睡觉致耳朵流血流脓",
+      "onboard_time": 1694475391,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368205,
       "num": 368205,
       "word": "烫伤后如何在黄金时间内自救",
@@ -2177,6 +2249,14 @@
       "onboard_time": 1694317472,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 364148,
+      "num": 364148,
+      "word": "大爷商场内疑用下体顶女子臀部",
+      "onboard_time": 1694475446,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364128,
@@ -2708,7 +2788,7 @@
     },
     {
       "raw_hot": 303112,
-      "num": 342395,
+      "num": 446897,
       "word": "女孩因外貌质疑自己妈妈拥吻回应",
       "onboard_time": 1694443187,
       "rank": 13,
@@ -3307,6 +3387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242453,
+      "num": 242453,
+      "word": "傲慢不愧是七宗罪之首",
+      "onboard_time": 1694480141,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242039,
       "num": 879953,
       "word": "短道中国杯首日林孝埈领衔出战",
@@ -3683,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216378,
+      "num": 216378,
+      "word": "你心中的哥哥张国荣",
+      "onboard_time": 1694476418,
+      "rank": 30,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 216136,
       "num": 216136,
       "word": "黄礼志申留真双人舞蹈",
@@ -3761,6 +3857,14 @@
       "onboard_time": 1694359298,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211875,
+      "num": 211875,
+      "word": "杨紫长相思演技集锦",
+      "onboard_time": 1694479778,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 209372,
@@ -4105,6 +4209,14 @@
       "onboard_time": 1694413057,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197650,
+      "num": 197650,
+      "word": "我有事要去jellycat一趟",
+      "onboard_time": 1694454439,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 196719,
@@ -4507,12 +4619,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177687,
+      "num": 177687,
+      "word": "金繁喊纪凌尘大海哥",
+      "onboard_time": 1694480738,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177443,
       "num": 177443,
       "word": "蓝战非发视频吐槽看表演遭区别对待",
       "onboard_time": 1694334454,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177160,
+      "num": 177160,
+      "word": "博格巴兴奋剂药检阳性",
+      "onboard_time": 1694476595,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 177036,
@@ -5187,6 +5315,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 128298,
+      "num": 135424,
+      "word": "夫妻办书院免费照看放学孩子10年",
+      "onboard_time": 1694478641,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128087,
       "num": 128087,
       "word": "没想到海獭比谁都会补刀",
@@ -5251,6 +5387,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 119157,
+      "num": 135405,
+      "word": "两周时间减少大腿内侧赘肉",
+      "onboard_time": 1694480857,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119084,
       "num": 119084,
       "word": "A股",
@@ -5265,14 +5409,6 @@
       "onboard_time": 1694267377,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117963,
-      "num": 117963,
-      "word": "我有事要去jellycat一趟",
-      "onboard_time": 1694454439,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 117620,
@@ -5305,6 +5441,14 @@
       "onboard_time": 1694331271,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 111318,
+      "num": 135392,
+      "word": "Rose否认与霉霉合作",
+      "onboard_time": 1694460855,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 109992,
@@ -5457,14 +5601,6 @@
       "onboard_time": 1694300418,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89672,
-      "num": 89672,
-      "word": "Rose否认与霉霉合作",
-      "onboard_time": 1694460855,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 89455,
