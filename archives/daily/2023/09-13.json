@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694560606401,
+  "endTime": 1694561647081,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -35,8 +35,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 854412,
-      "num": 854412,
+      "raw_hot": 1215006,
+      "num": 1215006,
       "word": "华为发布会",
       "onboard_time": 1694499099,
       "rank": 39,
@@ -48,6 +48,14 @@
       "word": "4000万中央资金建3个项目竟全烂尾",
       "onboard_time": 1694531381,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711682,
+      "num": 257152,
+      "word": "男孩未注意卫生致猫毛入眼后手术取出",
+      "onboard_time": 1694559927,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -67,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566637,
+      "num": 566637,
+      "word": "郑州全面取消限购",
+      "onboard_time": 1694556136,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557761,
       "num": 311292,
       "word": "Angelababy说想学我做的腌水果",
       "onboard_time": 1694532640,
       "rank": 11,
       "category": "综艺,美食"
-    },
-    {
-      "raw_hot": 514987,
-      "num": 514987,
-      "word": "郑州全面取消限购",
-      "onboard_time": 1694556136,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504932,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334216,
+      "num": 334216,
+      "word": "日本反对他国直接取样独立检测",
+      "onboard_time": 1694526465,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 333341,
       "num": 333341,
       "word": "12306回应女子买高铁二等座要毛毯",
@@ -195,20 +211,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326037,
+      "num": 326037,
+      "word": "武艺怎么又有新笑料了",
+      "onboard_time": 1694560106,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315184,
       "num": 315184,
       "word": "宫尚角隐形眼镜忘摘了",
       "onboard_time": 1694521897,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293621,
-      "num": 293621,
-      "word": "日本反对他国直接取样独立检测",
-      "onboard_time": 1694526465,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 285742,
@@ -251,12 +267,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212917,
+      "num": 130207,
+      "word": "苹果上架243元C口转换器",
+      "onboard_time": 1694561555,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205280,
       "num": 205280,
       "word": "教育部颁布校外培训行政处罚暂行办法",
       "onboard_time": 1694553793,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 201104,
+      "num": 186114,
+      "word": "婆婆最爱的大花墙被我砸了",
+      "onboard_time": 1694522799,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 199912,
@@ -283,20 +315,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195473,
-      "num": 195473,
-      "word": "武艺怎么又有新笑料了",
-      "onboard_time": 1694560106,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 187792,
+      "num": 187792,
+      "word": "涉案2亿逃犯报警称被诈骗",
+      "onboard_time": 1694558241,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 183829,
-      "num": 157330,
-      "word": "婆婆最爱的大花墙被我砸了",
-      "onboard_time": 1694522799,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 184918,
+      "num": 184918,
+      "word": "德国vs法国",
+      "onboard_time": 1694560228,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 180518,
@@ -313,6 +345,14 @@
       "onboard_time": 1694330431,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175421,
+      "num": 175421,
+      "word": "C盘满了千万不要乱删文件",
+      "onboard_time": 1694524722,
+      "rank": 38,
+      "category": "知识科普"
     },
     {
       "raw_hot": 171026,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156515,
+      "num": 156515,
+      "word": "玻利维亚0比3阿根廷",
+      "onboard_time": 1694561013,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154309,
       "num": 154309,
       "word": "四个动作暴瘦肚子",
@@ -355,10 +403,10 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 153572,
-      "num": 111235,
-      "word": "男孩未注意卫生致猫毛入眼后手术取出",
-      "onboard_time": 1694559927,
+      "raw_hot": 153533,
+      "num": 130496,
+      "word": "这么多年工资涨没涨",
+      "onboard_time": 1694561252,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -371,20 +419,12 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 144922,
-      "num": 144922,
-      "word": "C盘满了千万不要乱删文件",
-      "onboard_time": 1694524722,
-      "rank": 38,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 140289,
-      "num": 140289,
-      "word": "涉案2亿逃犯报警称被诈骗",
-      "onboard_time": 1694558241,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 146881,
+      "num": 146881,
+      "word": "早这么劝我我就不熬夜了",
+      "onboard_time": 1694537964,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 137261,
@@ -403,20 +443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134187,
-      "num": 134187,
-      "word": "早这么劝我我就不熬夜了",
-      "onboard_time": 1694537964,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132637,
       "num": 132637,
       "word": "沙溢cos的东方青苍",
       "onboard_time": 1694525378,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130662,
+      "num": 130662,
+      "word": "凌晨陪主人取快递的小猫",
+      "onboard_time": 1694547254,
+      "rank": 22,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 128558,
@@ -443,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127359,
+      "num": 127359,
+      "word": "向佐发长文回应为什么不躺平",
+      "onboard_time": 1694561612,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122689,
       "num": 122689,
       "word": "日本4比2土耳其",
@@ -451,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112606,
-      "num": 112606,
-      "word": "凌晨陪主人取快递的小猫",
-      "onboard_time": 1694547254,
-      "rank": 22,
-      "category": "动物萌宠"
+      "raw_hot": 111221,
+      "num": 111221,
+      "word": "4名男生踢正步举遮阳棚为女生挡雨",
+      "onboard_time": 1694561312,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102666,
@@ -475,28 +523,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95515,
-      "num": 95515,
-      "word": "德国vs法国",
-      "onboard_time": 1694560228,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 90342,
+      "num": 726703,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 80248,
-      "num": 98460,
-      "word": "墨脱 莲花",
-      "onboard_time": 1694541438,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 79000,
+      "raw_hot": 86454,
       "num": 94436,
       "word": "杨丞琳说李荣浩仿佛大她十五岁",
       "onboard_time": 1694540300,
       "rank": 14,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 80399,
+      "num": 98460,
+      "word": "墨脱 莲花",
+      "onboard_time": 1694541438,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 77362,
@@ -513,14 +561,6 @@
       "onboard_time": 1694545696,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68749,
-      "num": 597866,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1694524963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66396,
