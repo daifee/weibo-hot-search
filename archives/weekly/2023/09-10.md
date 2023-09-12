@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 03:12:45
+本榜单时间：2023/09/10 00:19:52 ~ 2023/09/13 03:33:51
 </p>
 </blockquote>
 <p>
@@ -6123,6 +6123,12 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E4%BC%A0%E6%92%AD%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C%23" target="weibo">
+华晨宇希望中国音乐传播到全世界（热度：44073）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BA%E6%AD%8C%E8%BF%B7%E4%BC%B4%E5%A5%8F%23" target="weibo">
 林俊杰演唱会为歌迷伴奏（热度：43537）
 </a>
@@ -6149,6 +6155,12 @@ wbg周冠（热度：76864）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%91%8A%E5%88%AB%E4%B8%A5%E9%87%8D%E6%8A%91%E9%83%81%E6%83%85%E7%BB%AA%23" target="weibo">
 如何告别严重抑郁情绪（热度：36660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%88%B0%E9%A4%90%E5%8E%85%E5%90%83%E9%A5%AD%E8%A2%AB%E5%BD%93%E6%88%90%E6%9C%AC%E5%9C%B0%E4%BA%BA%23" target="weibo">
+吴磊到餐厅吃饭被当成本地人（热度：35625）
 </a>
 </li>
 
@@ -6213,12 +6225,6 @@ wbg周冠（热度：76864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%88%B0%E9%A4%90%E5%8E%85%E5%90%83%E9%A5%AD%E8%A2%AB%E5%BD%93%E6%88%90%E6%9C%AC%E5%9C%B0%E4%BA%BA%23" target="weibo">
-吴磊到餐厅吃饭被当成本地人（热度：27912）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A1%E6%AF%947%E8%A5%BF%E7%8F%AD%E7%89%99%23" target="weibo">
 格鲁吉亚1比7西班牙（热度：24147）
 </a>
@@ -6250,7 +6256,7 @@ wbg周冠（热度：76864）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%AE%BF%E8%88%8D%E9%83%BD%E6%98%AFi%E4%BA%BA%E5%95%8A%23" target="weibo">
-这一宿舍都是i人啊（热度：19739）
+这一宿舍都是i人啊（热度：19860）
 </a>
 </li>
 

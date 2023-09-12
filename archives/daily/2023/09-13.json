@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694545965986,
+  "endTime": 1694547231851,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -475,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44073,
+      "num": 44073,
+      "word": "华晨宇希望中国音乐传播到全世界",
+      "onboard_time": 1694546235,
+      "rank": 5,
+      "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 35625,
+      "num": 31235,
+      "word": "吴磊到餐厅吃饭被当成本地人",
+      "onboard_time": 1694542579,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32018,
       "num": 32018,
       "word": "眉笔推荐",
@@ -499,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27912,
-      "num": 30386,
-      "word": "吴磊到餐厅吃饭被当成本地人",
-      "onboard_time": 1694542579,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20095,
       "num": 25061,
       "word": "盛阳说自己是简冰的人",
@@ -515,7 +523,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19739,
+      "raw_hot": 19860,
       "num": 24571,
       "word": "这一宿舍都是i人啊",
       "onboard_time": 1694542879,
