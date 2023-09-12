@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694511244056,
+  "endTime": 1694513903084,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -25,6 +25,22 @@
       "onboard_time": 1694504860,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3607906,
+      "num": 453337,
+      "word": "李佳琦哭两分半亏100支花西子眉笔价钱",
+      "onboard_time": 1694511462,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 3547340,
+      "num": 3547340,
+      "word": "周杰伦上海演唱会抢票",
+      "onboard_time": 1694512958,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 3132340,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 2787124,
-      "num": 239926,
+      "num": 290531,
       "word": "郭美美已出狱",
       "onboard_time": 1694507741,
       "rank": 30,
@@ -137,6 +153,14 @@
       "onboard_time": 1694484099,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2150250,
+      "num": 450434,
+      "word": "周杰伦上海演唱会",
+      "onboard_time": 1694501195,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 2134508,
@@ -219,6 +243,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1366553,
+      "num": 443024,
+      "word": "李佳琦之怒 直播带货行业",
+      "onboard_time": 1694513077,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1335367,
       "num": 1335367,
       "word": "警方回应淄博一女子被当街杀害",
@@ -273,6 +305,14 @@
       "onboard_time": 1694495264,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956134,
+      "num": 956134,
+      "word": "华晨宇王牌对王牌cos相柳",
+      "onboard_time": 1694512237,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 946089,
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 852806,
-      "num": 384079,
+      "num": 390021,
       "word": "子宫肌瘤可能是吃出来的",
       "onboard_time": 1694506599,
       "rank": 36,
@@ -427,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716696,
+      "num": 716696,
+      "word": "成毅怎么老演这种快死的角色",
+      "onboard_time": 1694511218,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 702196,
       "num": 702196,
       "word": "华为问界新M7",
@@ -436,7 +484,7 @@
     },
     {
       "raw_hot": 701088,
-      "num": 701088,
+      "num": 1946152,
       "word": "双胞胎退役全家60多人接站",
       "onboard_time": 1694505881,
       "rank": 7,
@@ -489,6 +537,14 @@
       "onboard_time": 1694447019,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 640752,
+      "num": 406431,
+      "word": "iPhone15配置售价一图来了",
+      "onboard_time": 1694511702,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 632563,
@@ -547,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536978,
+      "num": 536978,
+      "word": "中国人寿原董事长王滨死缓",
+      "onboard_time": 1694510562,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531891,
       "num": 531891,
       "word": "薛之谦跪着向歌迷道歉",
@@ -563,12 +627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515978,
+      "num": 403821,
+      "word": "aespa官方定位来了",
+      "onboard_time": 1694510799,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503171,
       "num": 503171,
       "word": "金靖的角色还是太保守了",
       "onboard_time": 1694508340,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498669,
+      "num": 396030,
+      "word": "月经同步真的存在吗",
+      "onboard_time": 1694511097,
+      "rank": 28,
+      "category": "知识科普"
     },
     {
       "raw_hot": 490588,
@@ -731,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394640,
+      "num": 394640,
+      "word": "体型最大的淡水虾",
+      "onboard_time": 1694512178,
+      "rank": 23,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 389517,
       "num": 389517,
       "word": "南风知我意定档",
@@ -849,22 +937,6 @@
       "onboard_time": 1694488961,
       "rank": 27,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 348557,
-      "num": 348557,
-      "word": "中国人寿原董事长王滨死缓",
-      "onboard_time": 1694510562,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348253,
-      "num": 348253,
-      "word": "周杰伦上海演唱会",
-      "onboard_time": 1694501195,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 347886,
@@ -1027,8 +1099,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 297822,
+      "num": 297822,
+      "word": "彩虹",
+      "onboard_time": 1694511637,
+      "rank": 28,
+      "category": "自然"
+    },
+    {
       "raw_hot": 294925,
-      "num": 432298,
+      "num": 829356,
       "word": "男子从近8米高河堤跳下勇救落水女童",
       "onboard_time": 1694504135,
       "rank": 12,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1694498260,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292202,
+      "num": 292202,
+      "word": "杨幂写真中的非遗元素",
+      "onboard_time": 1694512958,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 289561,
@@ -1067,6 +1155,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 287505,
+      "num": 287505,
+      "word": "原来爱都是从散步开始的",
+      "onboard_time": 1694511218,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287504,
       "num": 287504,
       "word": "一定要在下班后洗杯子",
@@ -1081,6 +1177,22 @@
       "onboard_time": 1694501734,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283587,
+      "num": 283587,
+      "word": "古偶男模101",
+      "onboard_time": 1694511401,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282613,
+      "num": 952124,
+      "word": "夫妻一声提醒救了两条命",
+      "onboard_time": 1694513021,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279376,
@@ -1155,6 +1267,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 255006,
+      "num": 255006,
+      "word": "很久没看到这么有创意的广告了",
+      "onboard_time": 1694510918,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251545,
       "num": 251545,
       "word": "孔雪儿美拉德穿搭",
@@ -1171,12 +1291,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 244499,
+      "num": 244499,
+      "word": "余承东华为发布会说了5次遥遥领先",
+      "onboard_time": 1694511462,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 242588,
       "num": 242588,
       "word": "田嘉瑞看金靖演戏看哭了",
       "onboard_time": 1694442765,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241431,
+      "num": 241431,
+      "word": "F人的至爽时刻",
+      "onboard_time": 1694513021,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 238601,
@@ -1209,14 +1345,6 @@
       "onboard_time": 1694489139,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231818,
-      "num": 214089,
-      "word": "很久没看到这么有创意的广告了",
-      "onboard_time": 1694510918,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 231086,
@@ -1267,14 +1395,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 218818,
-      "num": 218818,
-      "word": "月经同步真的存在吗",
-      "onboard_time": 1694511097,
-      "rank": 28,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 218149,
       "num": 218149,
       "word": "杰尼斯旗下艺人掉代言",
@@ -1307,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213760,
-      "num": 213760,
-      "word": "成毅怎么老演这种快死的角色",
-      "onboard_time": 1694511218,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213160,
       "num": 213160,
       "word": "度华年官宣",
@@ -1329,14 +1441,6 @@
       "onboard_time": 1694479778,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211531,
-      "num": 203640,
-      "word": "aespa官方定位来了",
-      "onboard_time": 1694510799,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 210378,
@@ -1401,6 +1505,14 @@
       "onboard_time": 1694509962,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199689,
+      "num": 199689,
+      "word": "EXO的Weverse简介",
+      "onboard_time": 1694513680,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 197650,
@@ -1499,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190185,
-      "num": 190185,
-      "word": "原来爱都是从散步开始的",
-      "onboard_time": 1694511218,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187156,
       "num": 187156,
       "word": "无畏拿到驾照了",
@@ -1600,6 +1704,14 @@
       "word": "吴倩再演古装的新奇感",
       "onboard_time": 1694448275,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175046,
+      "num": 175046,
+      "word": "朱一龙包场鹦鹉杀",
+      "onboard_time": 1694512836,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1787,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124915,
+      "num": 431392,
+      "word": "华为问界5亿花在哪",
+      "onboard_time": 1694511277,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 124521,
       "num": 73161,
       "word": "副院长猥亵女学生获刑",
@@ -1923,12 +2043,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 58069,
+      "num": 1299604,
+      "word": "我国大江大河保护与治理成效显著",
+      "onboard_time": 1694512061,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53636,
       "num": 998328,
       "word": "天舟五号圆满完成任务",
       "onboard_time": 1694494124,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 53421,
+      "num": 434264,
+      "word": "爸爸从吉林自驾送女儿到广东上大学",
+      "onboard_time": 1694512899,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52139,
