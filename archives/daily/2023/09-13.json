@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694558020583,
+  "endTime": 1694560606401,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -32,6 +32,14 @@
       "word": "iPhone15配置售价一图来了",
       "onboard_time": 1694511702,
       "rank": 20,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 854412,
+      "num": 854412,
+      "word": "华为发布会",
+      "onboard_time": 1694499099,
+      "rank": 39,
       "category": "科技"
     },
     {
@@ -67,12 +75,12 @@
       "category": "综艺,美食"
     },
     {
-      "raw_hot": 537550,
-      "num": 537550,
-      "word": "华为发布会",
-      "onboard_time": 1694499099,
-      "rank": 39,
-      "category": "科技"
+      "raw_hot": 514987,
+      "num": 514987,
+      "word": "郑州全面取消限购",
+      "onboard_time": 1694556136,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504932,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330165,
+      "num": 330165,
+      "word": "中小学教师从事学科类校外培训将从重处罚",
+      "onboard_time": 1694526225,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 315184,
       "num": 315184,
       "word": "宫尚角隐形眼镜忘摘了",
@@ -187,28 +203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285742,
-      "num": 271761,
-      "word": "怪不得她是国民初恋",
-      "onboard_time": 1694523036,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 272870,
-      "num": 272870,
+      "raw_hot": 293621,
+      "num": 293621,
       "word": "日本反对他国直接取样独立检测",
       "onboard_time": 1694526465,
       "rank": 19,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 270242,
-      "num": 301480,
-      "word": "中小学教师从事学科类校外培训将从重处罚",
-      "onboard_time": 1694526225,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 285742,
+      "num": 271761,
+      "word": "怪不得她是国民初恋",
+      "onboard_time": 1694523036,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 269355,
@@ -275,6 +283,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195473,
+      "num": 195473,
+      "word": "武艺怎么又有新笑料了",
+      "onboard_time": 1694560106,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183829,
+      "num": 157330,
+      "word": "婆婆最爱的大花墙被我砸了",
+      "onboard_time": 1694522799,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180518,
       "num": 180518,
       "word": "取消台胞在闽暂住登记",
@@ -331,6 +355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 153572,
+      "num": 111235,
+      "word": "男孩未注意卫生致猫毛入眼后手术取出",
+      "onboard_time": 1694559927,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147336,
       "num": 139716,
       "word": "杨玏 要不就是他去嘬别的孩子了",
@@ -345,6 +377,14 @@
       "onboard_time": 1694524722,
       "rank": 38,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 140289,
+      "num": 140289,
+      "word": "涉案2亿逃犯报警称被诈骗",
+      "onboard_time": 1694558241,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137261,
@@ -369,14 +409,6 @@
       "onboard_time": 1694537964,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133149,
-      "num": 133149,
-      "word": "郑州全面取消限购",
-      "onboard_time": 1694556136,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132637,
@@ -419,12 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102946,
-      "num": 116345,
-      "word": "婆婆最爱的大花墙被我砸了",
-      "onboard_time": 1694522799,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 112606,
+      "num": 112606,
+      "word": "凌晨陪主人取快递的小猫",
+      "onboard_time": 1694547254,
+      "rank": 22,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 102666,
@@ -441,6 +473,14 @@
       "onboard_time": 1694525804,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95515,
+      "num": 95515,
+      "word": "德国vs法国",
+      "onboard_time": 1694560228,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 80248,
@@ -467,20 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73806,
+      "num": 91328,
+      "word": "盛阳说自己是简冰的人",
+      "onboard_time": 1694545696,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68749,
+      "num": 597866,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66396,
       "num": 91495,
       "word": "潮汕人的祖传早餐",
       "onboard_time": 1694538805,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 54344,
-      "num": 97717,
-      "word": "凌晨陪主人取快递的小猫",
-      "onboard_time": 1694547254,
-      "rank": 22,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 51226,
@@ -504,14 +552,6 @@
       "word": "月公子也是无锋吗",
       "onboard_time": 1694522856,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 45768,
-      "num": 91328,
-      "word": "盛阳说自己是简冰的人",
-      "onboard_time": 1694545696,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -545,14 +585,6 @@
       "onboard_time": 1694540061,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29289,
-      "num": 360767,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1694524963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19860,

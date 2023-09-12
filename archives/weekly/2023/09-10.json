@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694558020583,
+  "endTime": 1694560606401,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2281,6 +2281,14 @@
       "onboard_time": 1694510799,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514987,
+      "num": 514987,
+      "word": "郑州全面取消限购",
+      "onboard_time": 1694556136,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510277,
@@ -6139,6 +6147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195473,
+      "num": 195473,
+      "word": "武艺怎么又有新笑料了",
+      "onboard_time": 1694560106,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195309,
       "num": 195309,
       "word": "傅云深奶糖吻朱旧",
@@ -7147,6 +7163,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 153572,
+      "num": 111235,
+      "word": "男孩未注意卫生致猫毛入眼后手术取出",
+      "onboard_time": 1694559927,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153485,
       "num": 153485,
       "word": "向鱼婉儿百分百胜率",
@@ -7331,6 +7355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140289,
+      "num": 140289,
+      "word": "涉案2亿逃犯报警称被诈骗",
+      "onboard_time": 1694558241,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140267,
       "num": 140267,
       "word": "宫子羽一语双关",
@@ -7425,14 +7457,6 @@
       "onboard_time": 1694342016,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133149,
-      "num": 133149,
-      "word": "郑州全面取消限购",
-      "onboard_time": 1694556136,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132560,
@@ -7635,6 +7659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 112606,
+      "num": 112606,
+      "word": "凌晨陪主人取快递的小猫",
+      "onboard_time": 1694547254,
+      "rank": 22,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 111318,
       "num": 135392,
       "word": "Rose否认与霉霉合作",
@@ -7795,6 +7827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95515,
+      "num": 95515,
+      "word": "德国vs法国",
+      "onboard_time": 1694560228,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95340,
       "num": 1255487,
       "word": "同学们便利贴写祝福拼成画送老师",
@@ -7923,6 +7963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73806,
+      "num": 91328,
+      "word": "盛阳说自己是简冰的人",
+      "onboard_time": 1694545696,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73797,
       "num": 73797,
       "word": "虞书欣 THE9演唱你会来吗",
@@ -7961,6 +8009,14 @@
       "onboard_time": 1694288655,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 68749,
+      "num": 597866,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68544,
@@ -8049,14 +8105,6 @@
       "onboard_time": 1694435444,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54344,
-      "num": 97717,
-      "word": "凌晨陪主人取快递的小猫",
-      "onboard_time": 1694547254,
-      "rank": 22,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 53636,
@@ -8161,14 +8209,6 @@
       "onboard_time": 1694265275,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 45768,
-      "num": 91328,
-      "word": "盛阳说自己是简冰的人",
-      "onboard_time": 1694545696,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 44825,
@@ -8312,14 +8352,6 @@
       "word": "乡村医生47年为群众免20多万医药费",
       "onboard_time": 1694444446,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29289,
-      "num": 360767,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1694524963,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
