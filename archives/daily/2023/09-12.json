@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694521938304,
+  "endTime": 1694522925325,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -187,8 +187,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1890646,
-      "num": 1890646,
+      "raw_hot": 1901691,
+      "num": 1901691,
       "word": "分手谈出了离职的感觉",
       "onboard_time": 1694516200,
       "rank": 31,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1086398,
+      "num": 1086398,
+      "word": "12306回应女子买高铁二等座要毛毯",
+      "onboard_time": 1694518957,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1042554,
       "num": 1042554,
       "word": "上班上久了是会这样的",
@@ -361,14 +369,6 @@
       "onboard_time": 1694512237,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 949738,
-      "num": 949738,
-      "word": "12306回应女子买高铁二等座要毛毯",
-      "onboard_time": 1694518957,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 946089,
@@ -611,6 +611,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 642288,
+      "num": 342566,
+      "word": "郭敬明减肥法",
+      "onboard_time": 1694522199,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 641538,
       "num": 450629,
       "word": "如何不提死亡却写出死亡",
@@ -675,11 +683,27 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 580616,
+      "num": 337766,
+      "word": "宫尚角隐形眼镜忘摘了",
+      "onboard_time": 1694521897,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 550728,
       "num": 550728,
       "word": "男子每年只上8个月班失业后靠副业逆袭",
       "onboard_time": 1694482416,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547768,
+      "num": 547768,
+      "word": "蜂花小哥直播间一上午人气翻10倍",
+      "onboard_time": 1694517877,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -889,14 +913,6 @@
       "onboard_time": 1694517218,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 433925,
-      "num": 433925,
-      "word": "蜂花小哥直播间一上午人气翻10倍",
-      "onboard_time": 1694517877,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432332,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1694501497,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322432,
+      "num": 322432,
+      "word": "本喵叫兔兔的狮子猫生了",
+      "onboard_time": 1694520996,
+      "rank": 31,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 321140,
@@ -1619,14 +1643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229221,
-      "num": 229221,
-      "word": "本喵叫兔兔的狮子猫生了",
-      "onboard_time": 1694520996,
-      "rank": 31,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 226459,
       "num": 226459,
       "word": "宫二紧急表情管理",
@@ -1891,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190296,
+      "num": 190296,
+      "word": "封神 郊郊和渤哥的封神绑",
+      "onboard_time": 1694521720,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190265,
       "num": 190265,
       "word": "葡萄牙9比0卢森堡",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1694476595,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175314,
+      "num": 175314,
+      "word": "婆婆最爱的大花墙被我砸了",
+      "onboard_time": 1694522799,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 175144,
@@ -2123,6 +2155,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 157806,
+      "num": 157806,
+      "word": "月公子也是无锋吗",
+      "onboard_time": 1694522856,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157554,
       "num": 157554,
       "word": "逍遥散人官宣恋爱",
@@ -2137,14 +2177,6 @@
       "onboard_time": 1694482057,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148110,
-      "num": 148110,
-      "word": "封神 郊郊和渤哥的封神绑",
-      "onboard_time": 1694521720,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 145026,
@@ -2185,14 +2217,6 @@
       "onboard_time": 1694444025,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133108,
-      "num": 133108,
-      "word": "宫尚角隐形眼镜忘摘了",
-      "onboard_time": 1694521897,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 132560,
