@@ -1,10 +1,10 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694480941417,
+  "endTime": 1694482171258,
   "band_list": [
     {
       "raw_hot": 4531583,
-      "num": 344417,
+      "num": 437557,
       "word": "李佳琦哭着道歉",
       "onboard_time": 1694435444,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4242864,
-      "num": 454918,
+      "num": 4071192,
       "word": "李佳琦 职业倦怠",
       "onboard_time": 1694479718,
       "rank": 10,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042554,
+      "num": 1042554,
+      "word": "上班上久了是会这样的",
+      "onboard_time": 1694477018,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 912017,
       "num": 413711,
       "word": "花洛莉亚 这泼天的富贵",
       "onboard_time": 1694433278,
       "rank": 21,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 904691,
-      "num": 904691,
-      "word": "上班上久了是会这样的",
-      "onboard_time": 1694477018,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 852571,
@@ -105,6 +105,14 @@
       "onboard_time": 1694434721,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 804829,
+      "num": 804829,
+      "word": "金繁喊纪凌尘大海哥",
+      "onboard_time": 1694480738,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 790739,
@@ -155,6 +163,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 594394,
+      "num": 594394,
+      "word": "iPhone15取消静音拨片",
+      "onboard_time": 1694481937,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 569109,
+      "num": 285252,
+      "word": "马斯克已同3名女性生下10个孩子",
+      "onboard_time": 1694481337,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 531891,
       "num": 531891,
       "word": "薛之谦跪着向歌迷道歉",
@@ -195,6 +219,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 432332,
+      "num": 432332,
+      "word": "肖战哭戏哭到脸通红了",
+      "onboard_time": 1694481098,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427146,
       "num": 457352,
       "word": "戒咖啡两个月后",
@@ -211,20 +243,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386809,
+      "num": 386809,
+      "word": "李佳琦 花西子",
+      "onboard_time": 1694330431,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385220,
       "num": 314838,
       "word": "女大学生称军训服透明几乎露出内裤",
       "onboard_time": 1694432622,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384232,
-      "num": 384232,
-      "word": "李佳琦 花西子",
-      "onboard_time": 1694330431,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 369156,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 364993,
-      "num": 357465,
+      "num": 364928,
       "word": "李佳琦就直播言论致歉",
       "onboard_time": 1694387725,
       "rank": 27,
@@ -257,6 +289,14 @@
       "onboard_time": 1694418334,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347886,
+      "num": 347886,
+      "word": "傲慢不愧是七宗罪之首",
+      "onboard_time": 1694480141,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 347532,
@@ -283,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314657,
+      "num": 314657,
+      "word": "两周时间减少大腿内侧赘肉",
+      "onboard_time": 1694480857,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308635,
       "num": 264110,
       "word": "李佳琦1月内5次带货花西子",
@@ -307,6 +355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 292412,
+      "num": 284157,
+      "word": "邓超想送孙俪两三百斤的石头",
+      "onboard_time": 1694481997,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289561,
       "num": 270308,
       "word": "8岁女孩跳绳半小时腹痛呕吐竟因畸胎瘤",
@@ -321,6 +377,14 @@
       "onboard_time": 1694443306,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286689,
+      "num": 286689,
+      "word": "董璇回复佟丽娅夸她等于夸自己",
+      "onboard_time": 1694481039,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 266112,
@@ -339,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242453,
-      "num": 242453,
-      "word": "傲慢不愧是七宗罪之首",
-      "onboard_time": 1694480141,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220529,
       "num": 220529,
       "word": "亲密关系最忌讳的是自己憋着不说",
@@ -361,6 +417,14 @@
       "onboard_time": 1694435683,
       "rank": 32,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 216932,
+      "num": 216932,
+      "word": "胡歌路演交通工具升级成地铁了",
+      "onboard_time": 1694481219,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 216378,
@@ -393,6 +457,14 @@
       "onboard_time": 1694454439,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193770,
+      "num": 193770,
+      "word": "张雨绮古装路透梦回妖猫传",
+      "onboard_time": 1694481039,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 191745,
@@ -443,14 +515,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 177687,
-      "num": 177687,
-      "word": "金繁喊纪凌尘大海哥",
-      "onboard_time": 1694480738,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177638,
       "num": 177638,
       "word": "你接受李佳琦的道歉吗",
@@ -499,6 +563,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157520,
+      "num": 157520,
+      "word": "冯宝宝绑架王也",
+      "onboard_time": 1694482057,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146364,
+      "num": 146364,
+      "word": "女孩一听家人给陌生人转账立刻报警",
+      "onboard_time": 1694481695,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145026,
       "num": 115779,
       "word": "雨落在地上变成了蝴蝶",
@@ -529,6 +609,14 @@
       "onboard_time": 1694444025,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132560,
+      "num": 137485,
+      "word": "歼10实弹射击现场高燃",
+      "onboard_time": 1694481937,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 131873,
@@ -569,14 +657,6 @@
       "onboard_time": 1694470819,
       "rank": 32,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 119157,
-      "num": 135405,
-      "word": "两周时间减少大腿内侧赘肉",
-      "onboard_time": 1694480857,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 119084,
@@ -707,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28054,
+      "num": 1648596,
+      "word": "2023年国家网络安全宣传周",
+      "onboard_time": 1694402381,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26747,
       "num": 574261,
       "word": "微观杭州亚运会",
@@ -721,14 +809,6 @@
       "onboard_time": 1694458155,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 22457,
-      "num": 1340599,
-      "word": "2023年国家网络安全宣传周",
-      "onboard_time": 1694402381,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
