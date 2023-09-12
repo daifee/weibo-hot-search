@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694542826274,
+  "endTime": 1694543669390,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -65,6 +65,14 @@
       "onboard_time": 1694532640,
       "rank": 11,
       "category": "综艺,美食"
+    },
+    {
+      "raw_hot": 537550,
+      "num": 537550,
+      "word": "华为发布会",
+      "onboard_time": 1694499099,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 504932,
@@ -169,14 +177,6 @@
       "onboard_time": 1694529583,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327456,
-      "num": 327456,
-      "word": "华为发布会",
-      "onboard_time": 1694499099,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 315184,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80248,
+      "num": 75224,
+      "word": "墨脱 莲花",
+      "onboard_time": 1694541438,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 79000,
       "num": 79000,
       "word": "杨丞琳说李荣浩仿佛大她十五岁",
@@ -433,14 +441,6 @@
       "onboard_time": 1694537308,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75224,
-      "num": 75224,
-      "word": "墨脱 莲花",
-      "onboard_time": 1694541438,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 66396,
@@ -489,6 +489,22 @@
       "onboard_time": 1694525141,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 31612,
+      "num": 31612,
+      "word": "王楚钦两真一假挑战",
+      "onboard_time": 1694540061,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27912,
+      "num": 30386,
+      "word": "吴磊到餐厅吃饭被当成本地人",
+      "onboard_time": 1694542579,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 19670,
