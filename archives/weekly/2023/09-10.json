@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694518416448,
+  "endTime": 1694521938304,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1890646,
+      "num": 1890646,
+      "word": "分手谈出了离职的感觉",
+      "onboard_time": 1694516200,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1824298,
       "num": 1824298,
       "word": "网红男歌手涉黑涉恶被抓",
@@ -609,6 +617,14 @@
       "onboard_time": 1694481337,
       "rank": 30,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1583844,
+      "num": 614916,
+      "word": "杨玏 要不就是他去嘬别的孩子了",
+      "onboard_time": 1694516261,
+      "rank": 12,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1583813,
@@ -809,14 +825,6 @@
       "onboard_time": 1694393797,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1192321,
-      "num": 614916,
-      "word": "杨玏 要不就是他去嘬别的孩子了",
-      "onboard_time": 1694516261,
-      "rank": 12,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1183948,
@@ -1067,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 949738,
+      "num": 949738,
+      "word": "12306回应女子买高铁二等座要毛毯",
+      "onboard_time": 1694518957,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946089,
       "num": 481404,
       "word": "花西子就被传谣为日本品牌向警方报案",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1694355818,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 904870,
-      "num": 573375,
-      "word": "分手谈出了离职的感觉",
-      "onboard_time": 1694516200,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 892278,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1694350594,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 854380,
+      "num": 854380,
+      "word": "取消台胞在闽暂住登记",
+      "onboard_time": 1694519797,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 852806,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1694488540,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 752351,
+      "num": 752351,
+      "word": "莲花楼演唱会官宣",
+      "onboard_time": 1694518299,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 750913,
@@ -2027,6 +2051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 521699,
+      "num": 521699,
+      "word": "心动的信号",
+      "onboard_time": 1694519436,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519420,
       "num": 487641,
       "word": "个人努力 环境推手",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1694435683,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 506782,
+      "num": 506782,
+      "word": "菲律宾群岛地区6.3级地震",
+      "onboard_time": 1694518359,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506726,
@@ -2489,6 +2529,14 @@
       "onboard_time": 1694309792,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433925,
+      "num": 433925,
+      "word": "蜂花小哥直播间一上午人气翻10倍",
+      "onboard_time": 1694517877,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432618,
@@ -3859,14 +3907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 294928,
-      "num": 294928,
-      "word": "菲律宾群岛地区6.3级地震",
-      "onboard_time": 1694518359,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294925,
       "num": 829356,
       "word": "男子从近8米高河堤跳下勇救落水女童",
@@ -4201,6 +4241,14 @@
       "onboard_time": 1694487820,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266134,
+      "num": 266134,
+      "word": "化妆包这块已经赚不到我的钱了",
+      "onboard_time": 1694520519,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 266112,
@@ -4539,6 +4587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243902,
+      "num": 243902,
+      "word": "九圈追逐林孝埈第一",
+      "onboard_time": 1694519496,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243690,
       "num": 243690,
       "word": "TTG演我心率",
@@ -4761,6 +4817,14 @@
       "onboard_time": 1694302345,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229221,
+      "num": 229221,
+      "word": "本喵叫兔兔的狮子猫生了",
+      "onboard_time": 1694520996,
+      "rank": 31,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 228785,
@@ -4987,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217026,
+      "num": 217026,
+      "word": "姬发 谁懂啊太子冲过来像头脱缰的牛",
+      "onboard_time": 1694520459,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216932,
       "num": 216932,
       "word": "胡歌路演交通工具升级成地铁了",
@@ -5033,14 +5105,6 @@
       "onboard_time": 1694330071,
       "rank": 28,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 215678,
-      "num": 215678,
-      "word": "蜂花小哥直播间一上午人气翻10倍",
-      "onboard_time": 1694517877,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215653,
@@ -5603,14 +5667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195850,
-      "num": 195850,
-      "word": "莲花楼演唱会官宣",
-      "onboard_time": 1694518299,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195309,
       "num": 195309,
       "word": "傅云深奶糖吻朱旧",
@@ -5713,6 +5769,14 @@
       "onboard_time": 1694495264,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 192253,
+      "num": 192253,
+      "word": "一键查询电竞圈i人e人",
+      "onboard_time": 1694521598,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 192140,
@@ -6483,6 +6547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159447,
+      "num": 159447,
+      "word": "异人之下",
+      "onboard_time": 1694325154,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158931,
       "num": 254270,
       "word": "阿里新CEO确立用户和AI两大战略重心",
@@ -6633,6 +6705,14 @@
       "onboard_time": 1694316392,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148110,
+      "num": 148110,
+      "word": "封神 郊郊和渤哥的封神绑",
+      "onboard_time": 1694521720,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 147862,
@@ -6795,14 +6875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135536,
-      "num": 135536,
-      "word": "异人之下",
-      "onboard_time": 1694325154,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135441,
       "num": 135441,
       "word": "天津杰迷穿婚纱和周杰伦合唱屋顶",
@@ -6833,6 +6905,14 @@
       "onboard_time": 1694342016,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133108,
+      "num": 133108,
+      "word": "宫尚角隐形眼镜忘摘了",
+      "onboard_time": 1694521897,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 132560,
