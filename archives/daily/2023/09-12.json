@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694496821408,
+  "endTime": 1694499723151,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3132340,
-      "num": 397391,
+      "num": 433059,
       "word": "傅首尔老刘离过一次婚",
       "onboard_time": 1694494665,
       "rank": 15,
@@ -81,6 +81,14 @@
       "onboard_time": 1694485599,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2340453,
+      "num": 2340453,
+      "word": "金价已涨破600元每克",
+      "onboard_time": 1694497779,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 2265619,
@@ -155,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1457025,
+      "num": 1134756,
+      "word": "女子买高铁二等座嫌冷大闹要毛毯",
+      "onboard_time": 1694495502,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1412821,
       "num": 436368,
       "word": "觉得79元眉笔贵是不够努力这话太离谱",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 1223002,
-      "num": 384729,
+      "num": 427043,
       "word": "师洋评79元眉笔",
       "onboard_time": 1694493527,
       "rank": 22,
@@ -201,6 +217,14 @@
       "onboard_time": 1694477018,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1024085,
+      "num": 1024085,
+      "word": "蜂花回应捡箱子发货",
+      "onboard_time": 1694495264,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946089,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832611,
+      "num": 832611,
+      "word": "papi酱 两个人一起浪费时间很重要",
+      "onboard_time": 1694498441,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 812775,
       "num": 395462,
       "word": "父亲到校将猥亵女儿的副院长打伤",
@@ -337,14 +369,6 @@
       "onboard_time": 1694481997,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 690188,
-      "num": 351783,
-      "word": "女子买高铁二等座嫌冷大闹要毛毯",
-      "onboard_time": 1694495502,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687217,
@@ -419,16 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517226,
-      "num": 517226,
-      "word": "蜂花回应捡箱子发货",
-      "onboard_time": 1694495264,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487710,
-      "num": 340816,
+      "num": 425675,
       "word": "怀疑乌尔善北京的邻居压根没见过他",
       "onboard_time": 1694496047,
       "rank": 30,
@@ -483,6 +499,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 434119,
+      "num": 434119,
+      "word": "SMTOWN艺人正式入驻WEVERSE",
+      "onboard_time": 1694498077,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432332,
       "num": 432332,
       "word": "肖战哭戏哭到脸通红了",
@@ -497,6 +521,22 @@
       "onboard_time": 1694425360,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423828,
+      "num": 423828,
+      "word": "SEVENTEEN官宣澳门演唱会",
+      "onboard_time": 1694496462,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 423341,
+      "num": 423341,
+      "word": "胡歌 所有表达爱的举动都应该趁早",
+      "onboard_time": 1694496403,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 398573,
@@ -547,20 +587,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 364447,
+      "num": 364447,
+      "word": "万茜2米长珍珠项链造型",
+      "onboard_time": 1694497359,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 364148,
       "num": 364148,
       "word": "大爷商场内疑用下体顶女子臀部",
       "onboard_time": 1694475446,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359730,
-      "num": 359730,
-      "word": "SEVENTEEN官宣澳门演唱会",
-      "onboard_time": 1694496462,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 358016,
@@ -571,12 +611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356598,
+      "num": 356598,
+      "word": "虞书欣方否认演七夜雪",
+      "onboard_time": 1694498020,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355975,
       "num": 336189,
       "word": "日本79岁男子性侵100岁女子致死",
       "onboard_time": 1694418334,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353758,
+      "num": 353758,
+      "word": "终于搞懂医保了",
+      "onboard_time": 1694496343,
+      "rank": 36,
+      "category": "其它"
     },
     {
       "raw_hot": 352525,
@@ -593,14 +649,6 @@
       "onboard_time": 1694488961,
       "rank": 27,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 350117,
-      "num": 350117,
-      "word": "胡歌 所有表达爱的举动都应该趁早",
-      "onboard_time": 1694496403,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 347886,
@@ -715,6 +763,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 300929,
+      "num": 300929,
+      "word": "华为发布会",
+      "onboard_time": 1694499099,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 299072,
+      "num": 299072,
+      "word": "张凌赫赵今麦新剧双强救赎",
+      "onboard_time": 1694497060,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294480,
+      "num": 294480,
+      "word": "光与夜之恋 上桌吃饭",
+      "onboard_time": 1694498260,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289561,
       "num": 270308,
       "word": "8岁女孩跳绳半小时腹痛呕吐竟因畸胎瘤",
@@ -747,20 +819,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 283361,
-      "num": 283361,
-      "word": "终于搞懂医保了",
-      "onboard_time": 1694496343,
-      "rank": 36,
-      "category": "其它"
-    },
-    {
       "raw_hot": 279376,
-      "num": 405493,
+      "num": 431631,
       "word": "贵州女孩上一本闯深圳走出大山",
       "onboard_time": 1694494124,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 270211,
+      "num": 270211,
+      "word": "南风知我意还没开播就有10场吻戏",
+      "onboard_time": 1694495743,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 269919,
@@ -769,14 +841,6 @@
       "onboard_time": 1694482477,
       "rank": 33,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 268480,
-      "num": 268480,
-      "word": "南风知我意还没开播就有10场吻戏",
-      "onboard_time": 1694495743,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 266687,
@@ -801,6 +865,14 @@
       "onboard_time": 1694481695,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255989,
+      "num": 255989,
+      "word": "原来葡萄干是这样来的",
+      "onboard_time": 1694497715,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 247645,
@@ -843,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231086,
+      "num": 231086,
+      "word": "林俊杰 北京鸟巢见",
+      "onboard_time": 1694497658,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229811,
       "num": 229811,
       "word": "SEVENTEEN去比萨斜塔了",
@@ -865,6 +945,14 @@
       "onboard_time": 1694444924,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219661,
+      "num": 219661,
+      "word": "南风知我意连更10天18集",
+      "onboard_time": 1694499041,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 219071,
@@ -988,7 +1076,7 @@
     },
     {
       "raw_hot": 192386,
-      "num": 401516,
+      "num": 430631,
       "word": "校外培训机构违规预收费或被吊销许可证",
       "onboard_time": 1694495264,
       "rank": 13,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1694488420,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160528,
+      "num": 160528,
+      "word": "埃及博主看逃出大英博物馆",
+      "onboard_time": 1694499698,
+      "rank": 49,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 158931,
@@ -1355,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101547,
+      "num": 424457,
+      "word": "多巴胺中国的正确打开方式",
+      "onboard_time": 1694498020,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97913,
       "num": 97913,
       "word": "宫尚角误伤宫远徵",
@@ -1395,20 +1499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50646,
+      "num": 1281561,
+      "word": "来杭州感受体育之美",
+      "onboard_time": 1694494251,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50303,
       "num": 56794,
       "word": "给耶耶做电饭煲料理",
       "onboard_time": 1694452702,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48142,
-      "num": 1281561,
-      "word": "来杭州感受体育之美",
-      "onboard_time": 1694494251,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 43537,
