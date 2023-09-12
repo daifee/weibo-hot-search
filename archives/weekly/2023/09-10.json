@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694538921670,
+  "endTime": 1694540050223,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -305,6 +305,14 @@
       "onboard_time": 1694399197,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2501784,
+      "num": 135025,
+      "word": "苹果新品发布会",
+      "onboard_time": 1694530543,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 2400221,
@@ -7387,6 +7395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134187,
+      "num": 134187,
+      "word": "早这么劝我我就不熬夜了",
+      "onboard_time": 1694537964,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133825,
       "num": 338275,
       "word": "我想成为的人有您的影子",
@@ -7609,14 +7625,6 @@
       "onboard_time": 1694460855,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110262,
-      "num": 110262,
-      "word": "早这么劝我我就不熬夜了",
-      "onboard_time": 1694537964,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 109992,
@@ -8264,6 +8272,14 @@
       "word": "99做好事",
       "onboard_time": 1694295554,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11162,
+      "num": 360767,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

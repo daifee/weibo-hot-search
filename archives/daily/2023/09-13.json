@@ -1,7 +1,15 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694538921670,
+  "endTime": 1694540050223,
   "band_list": [
+    {
+      "raw_hot": 2501784,
+      "num": 135025,
+      "word": "苹果新品发布会",
+      "onboard_time": 1694530543,
+      "rank": 20,
+      "category": "科技"
+    },
     {
       "raw_hot": 1831007,
       "num": 314894,
@@ -347,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134187,
+      "num": 134187,
+      "word": "早这么劝我我就不熬夜了",
+      "onboard_time": 1694537964,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132637,
       "num": 132637,
       "word": "沙溢cos的东方青苍",
@@ -387,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110262,
-      "num": 110262,
-      "word": "早这么劝我我就不熬夜了",
-      "onboard_time": 1694537964,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102946,
       "num": 116345,
       "word": "婆婆最爱的大花墙被我砸了",
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51226,
+      "num": 51226,
+      "word": "上官浅停止营业但卢昱晓没有",
+      "onboard_time": 1694524239,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49631,
       "num": 59022,
       "word": "男生工地打工40天挣钱带爷爷旅游",
@@ -427,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49440,
+      "num": 49440,
+      "word": "月公子也是无锋吗",
+      "onboard_time": 1694522856,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31698,
       "num": 644059,
       "word": "杭州亚运村周六正式开村",
       "onboard_time": 1694525141,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 11162,
+      "num": 360767,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

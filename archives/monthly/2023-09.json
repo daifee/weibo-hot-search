@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694538921670,
+  "endTime": 1694540050223,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -753,6 +753,14 @@
       "onboard_time": 1693714595,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2501784,
+      "num": 135025,
+      "word": "苹果新品发布会",
+      "onboard_time": 1694530543,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 2481208,
@@ -28595,6 +28603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134187,
+      "num": 134187,
+      "word": "早这么劝我我就不熬夜了",
+      "onboard_time": 1694537964,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133934,
       "num": 133934,
       "word": "原来斑羚飞渡是写实",
@@ -29505,14 +29521,6 @@
       "onboard_time": 1693829192,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 110262,
-      "num": 110262,
-      "word": "早这么劝我我就不熬夜了",
-      "onboard_time": 1694537964,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 110231,
@@ -32104,6 +32112,14 @@
       "word": "截瘫大叔办学校31年培育千余名幼儿",
       "onboard_time": 1693812153,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11162,
+      "num": 360767,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
