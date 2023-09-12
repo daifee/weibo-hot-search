@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694504025286,
+  "endTime": 1694506872306,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -17,6 +17,14 @@
       "onboard_time": 1694479718,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4169398,
+      "num": 351752,
+      "word": "王宝强前经纪人宋喆已出狱",
+      "onboard_time": 1694504860,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3132340,
@@ -57,6 +65,14 @@
       "onboard_time": 1694482477,
       "rank": 0,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 2822399,
+      "num": 350500,
+      "word": "长期没有亲密关系会早衰吗",
+      "onboard_time": 1694503715,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 2796200,
@@ -145,6 +161,14 @@
       "onboard_time": 1694485242,
       "rank": 30,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 1699358,
+      "num": 345788,
+      "word": "精子库举办大学生精液质量比拼",
+      "onboard_time": 1694504256,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1603831,
@@ -411,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 670984,
+      "num": 670984,
+      "word": "猴 狐猴",
+      "onboard_time": 1694504316,
+      "rank": 4,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 641538,
       "num": 450629,
       "word": "如何不提死亡却写出死亡",
@@ -433,6 +465,14 @@
       "onboard_time": 1694474370,
       "rank": 16,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 611973,
+      "num": 611973,
+      "word": "周冬雨以为扫楼要打扫卫生",
+      "onboard_time": 1694504860,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 611506,
@@ -539,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452587,
+      "num": 452587,
+      "word": "双胞胎退役全家60多人接站",
+      "onboard_time": 1694505881,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451355,
       "num": 451355,
       "word": "杭州亚运会中国体育代表团成立",
@@ -553,6 +601,14 @@
       "onboard_time": 1694476475,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 446192,
+      "num": 337238,
+      "word": "虞书欣也有他拍的了",
+      "onboard_time": 1694503358,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 432332,
@@ -659,11 +715,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361280,
-      "num": 242543,
-      "word": "长期没有亲密关系会早衰吗",
-      "onboard_time": 1694503715,
-      "rank": 31,
+      "raw_hot": 359529,
+      "num": 334446,
+      "word": "朋友圈点赞透露着人情世故",
+      "onboard_time": 1694503896,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -705,6 +761,14 @@
       "onboard_time": 1694491782,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352213,
+      "num": 352213,
+      "word": "遥遥领先",
+      "onboard_time": 1694505158,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 350652,
@@ -763,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334181,
+      "num": 334181,
+      "word": "胡歌抱着花花玩偶坐成都地铁",
+      "onboard_time": 1694504677,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332541,
       "num": 332541,
       "word": "Uzi说休赛期的小明喊不动",
       "onboard_time": 1694484519,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 331316,
+      "num": 331316,
+      "word": "鞠婧祎美拉德风",
+      "onboard_time": 1694504915,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 327709,
@@ -809,6 +889,14 @@
       "onboard_time": 1694480857,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313426,
+      "num": 313426,
+      "word": "第一次见四个根的智齿",
+      "onboard_time": 1694503777,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 308635,
@@ -859,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293922,
-      "num": 293922,
-      "word": "虞书欣也有他拍的了",
-      "onboard_time": 1694503358,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289561,
       "num": 270308,
       "word": "8岁女孩跳绳半小时腹痛呕吐竟因畸胎瘤",
@@ -891,6 +971,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 287856,
+      "num": 348987,
+      "word": "男子从近8米高河堤跳下勇救落水女童",
+      "onboard_time": 1694504135,
+      "rank": 12,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 287504,
       "num": 287504,
       "word": "一定要在下班后洗杯子",
@@ -913,6 +1001,14 @@
       "onboard_time": 1694494124,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 270372,
+      "num": 270372,
+      "word": "宫尚角审问上官浅",
+      "onboard_time": 1694506660,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 270211,
@@ -985,6 +1081,14 @@
       "onboard_time": 1694442765,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238828,
+      "num": 238828,
+      "word": "子宫肌瘤可能是吃出来的",
+      "onboard_time": 1694506599,
+      "rank": 36,
+      "category": "其它"
     },
     {
       "raw_hot": 238601,
@@ -1107,14 +1211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210588,
-      "num": 210588,
-      "word": "第一次见四个根的智齿",
-      "onboard_time": 1694503777,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210378,
       "num": 210378,
       "word": "上海迪士尼年卡回归",
@@ -1131,12 +1227,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209656,
+      "num": 587234,
+      "word": "重庆暴雨后大学生打起了水仗",
+      "onboard_time": 1694502995,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209100,
       "num": 209100,
       "word": "这是在可汗大点兵吗",
       "onboard_time": 1694492140,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208341,
+      "num": 208341,
+      "word": "阴阳师七周年剧情概念动画",
+      "onboard_time": 1694506361,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 207662,
@@ -1153,14 +1265,6 @@
       "onboard_time": 1694492865,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201254,
-      "num": 587234,
-      "word": "重庆暴雨后大学生打起了水仗",
-      "onboard_time": 1694502995,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197650,
@@ -1371,18 +1475,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167161,
-      "num": 167161,
-      "word": "朋友圈点赞透露着人情世故",
-      "onboard_time": 1694503896,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165665,
       "num": 165665,
       "word": "为救同学挡8刀的女孩成了火炬手",
       "onboard_time": 1694488420,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164266,
+      "num": 164266,
+      "word": "周冬雨李梦新浪扫楼",
+      "onboard_time": 1694504976,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160671,
+      "num": 160671,
+      "word": "轿车路上着火他抄起灭火器冲了上去",
+      "onboard_time": 1694506237,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -1409,6 +1521,14 @@
       "onboard_time": 1694482057,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150791,
+      "num": 205432,
+      "word": "华为发布全新25万级问界M7",
+      "onboard_time": 1694506538,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 145026,
@@ -1617,6 +1737,14 @@
       "onboard_time": 1694429139,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 61585,
+      "num": 346498,
+      "word": "蚂蚁集团发布服务亚运计划",
+      "onboard_time": 1694505642,
+      "rank": 14,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 52139,

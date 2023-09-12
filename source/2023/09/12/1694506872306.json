@@ -1,0 +1,410 @@
+{
+  "runTime": 1694506872306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2086804,
+        "num": 2086804,
+        "word": "防猝死套餐",
+        "onboard_time": 1694492804,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1533717,
+        "num": 1533717,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49659,
+        "num": 1209689,
+        "word": "来杭州感受体育之美",
+        "onboard_time": 1694494251,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987394,
+        "num": 987394,
+        "word": "金价已涨破600元每克",
+        "onboard_time": 1694497779,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 670984,
+        "num": 670984,
+        "word": "猴 狐猴",
+        "onboard_time": 1694504316,
+        "rank": 4,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 611973,
+        "num": 611973,
+        "word": "周冬雨以为扫楼要打扫卫生",
+        "onboard_time": 1694504860,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559539,
+        "num": 559539,
+        "word": "华为问界新M7",
+        "onboard_time": 1694502218,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 452587,
+        "num": 452587,
+        "word": "双胞胎退役全家60多人接站",
+        "onboard_time": 1694505881,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428209,
+        "num": 428209,
+        "word": "papi酱 两个人一起浪费时间很重要",
+        "onboard_time": 1694498441,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352213,
+        "num": 352213,
+        "word": "遥遥领先",
+        "onboard_time": 1694505158,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 4169398,
+        "num": 351752,
+        "word": "王宝强前经纪人宋喆已出狱",
+        "onboard_time": 1694504860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2822399,
+        "num": 350500,
+        "word": "长期没有亲密关系会早衰吗",
+        "onboard_time": 1694503715,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287856,
+        "num": 348987,
+        "word": "男子从近8米高河堤跳下勇救落水女童",
+        "onboard_time": 1694504135,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 209656,
+        "num": 348675,
+        "word": "重庆暴雨后大学生打起了水仗",
+        "onboard_time": 1694502995,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61585,
+        "num": 346498,
+        "word": "蚂蚁集团发布服务亚运计划",
+        "onboard_time": 1694505642,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 346381,
+        "num": 346381,
+        "word": "蜂花回应捡箱子发货",
+        "onboard_time": 1694495264,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1699358,
+        "num": 345788,
+        "word": "精子库举办大学生精液质量比拼",
+        "onboard_time": 1694504256,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157406,
+        "num": 343895,
+        "word": "傅首尔老刘离过一次婚",
+        "onboard_time": 1694494665,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1092890,
+        "num": 341993,
+        "word": "李佳琦们别再飘了",
+        "onboard_time": 1694487338,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 522411,
+        "num": 339799,
+        "word": "李佳琦称身上羽毛是所有女生赋予的",
+        "onboard_time": 1694440429,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 482451,
+        "num": 338208,
+        "word": "你可能对0.07g没什么概念",
+        "onboard_time": 1694491123,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446192,
+        "num": 337238,
+        "word": "虞书欣也有他拍的了",
+        "onboard_time": 1694503358,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359529,
+        "num": 334446,
+        "word": "朋友圈点赞透露着人情世故",
+        "onboard_time": 1694503896,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334181,
+        "num": 334181,
+        "word": "胡歌抱着花花玩偶坐成都地铁",
+        "onboard_time": 1694504677,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331316,
+        "num": 331316,
+        "word": "鞠婧祎美拉德风",
+        "onboard_time": 1694504915,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 313426,
+        "num": 313426,
+        "word": "第一次见四个根的智齿",
+        "onboard_time": 1694503777,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292253,
+        "num": 292253,
+        "word": "女子买高铁二等座嫌冷大闹要毛毯",
+        "onboard_time": 1694495502,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286371,
+        "num": 286371,
+        "word": "埃及博主看逃出大英博物馆",
+        "onboard_time": 1694499698,
+        "rank": 27,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 270372,
+        "num": 270372,
+        "word": "宫尚角审问上官浅",
+        "onboard_time": 1694506660,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268031,
+        "num": 268031,
+        "word": "王琳凯 欢迎大家再次来到小鬼的音乐世界",
+        "onboard_time": 1694501854,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313431,
+        "num": 267994,
+        "word": "肖战被导演灌醉了",
+        "onboard_time": 1694492450,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267052,
+        "num": 267052,
+        "word": "师洋评79元眉笔",
+        "onboard_time": 1694493527,
+        "rank": 31,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 263864,
+        "num": 263864,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1694501195,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257232,
+        "num": 257232,
+        "word": "iPhone15取消静音拨片",
+        "onboard_time": 1694481937,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 256626,
+        "num": 256626,
+        "word": "为什么阳光玫瑰越来越便宜了",
+        "onboard_time": 1694491849,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249317,
+        "num": 249317,
+        "word": "南风知我意连更10天18集",
+        "onboard_time": 1694499041,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238828,
+        "num": 238828,
+        "word": "子宫肌瘤可能是吃出来的",
+        "onboard_time": 1694506599,
+        "rank": 36,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 228460,
+        "num": 228460,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223848,
+        "num": 223848,
+        "word": "终于搞懂医保了",
+        "onboard_time": 1694496343,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 208341,
+        "num": 208341,
+        "word": "阴阳师七周年剧情概念动画",
+        "onboard_time": 1694506361,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214431,
+        "num": 207126,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150791,
+        "num": 205432,
+        "word": "华为发布全新25万级问界M7",
+        "onboard_time": 1694506538,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205247,
+        "num": 205247,
+        "word": "iPhone15",
+        "onboard_time": 1694493284,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199839,
+        "num": 199839,
+        "word": "生活大爆炸40秒演完奥本海默",
+        "onboard_time": 1694499998,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182203,
+        "num": 182203,
+        "word": "警方回应淄博一女子被当街杀害",
+        "onboard_time": 1694490878,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167078,
+        "num": 167078,
+        "word": "花西子就被传谣为日本品牌向警方报案",
+        "onboard_time": 1694489199,
+        "rank": 45,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 164266,
+        "num": 164266,
+        "word": "周冬雨李梦新浪扫楼",
+        "onboard_time": 1694504976,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161270,
+        "num": 161270,
+        "word": "SMTOWN艺人正式入驻WEVERSE",
+        "onboard_time": 1694498077,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160671,
+        "num": 160671,
+        "word": "轿车路上着火他抄起灭火器冲了上去",
+        "onboard_time": 1694506237,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155528,
+        "num": 155528,
+        "word": "王睡睡情绪崩溃痛骂张硕",
+        "onboard_time": 1694501734,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#恪守立党为公执政为民理念#"
+    }
+  }
+}
