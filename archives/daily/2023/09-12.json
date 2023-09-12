@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694485282173,
+  "endTime": 1694486029522,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3021652,
-      "num": 338568,
+      "num": 425502,
       "word": "李佳琦称身上羽毛是所有女生赋予的",
       "onboard_time": 1694440429,
       "rank": 15,
@@ -35,20 +35,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2867388,
+      "num": 2867388,
+      "word": "蜂花 商战",
+      "onboard_time": 1694482477,
+      "rank": 0,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 2651422,
       "num": 1257332,
       "word": "iPhone15取消静音拨片",
       "onboard_time": 1694481937,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2440579,
-      "num": 2440579,
-      "word": "蜂花 商战",
-      "onboard_time": 1694482477,
-      "rank": 0,
-      "category": "美妆"
     },
     {
       "raw_hot": 2265619,
@@ -91,8 +91,16 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1169901,
-      "num": 1169901,
+      "raw_hot": 1304715,
+      "num": 727517,
+      "word": "修丽可 邓为",
+      "onboard_time": 1694485242,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 1302099,
+      "num": 1302099,
       "word": "苹果 5G角标",
       "onboard_time": 1694483200,
       "rank": 6,
@@ -115,6 +123,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1030779,
+      "num": 425694,
+      "word": "男子分手后卖掉黄金将15000元全撒了",
+      "onboard_time": 1694484099,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 935406,
+      "num": 425193,
+      "word": "李佳琦哭完继续带货",
+      "onboard_time": 1694438631,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 912017,
       "num": 413711,
       "word": "花洛莉亚 这泼天的富贵",
@@ -128,6 +152,14 @@
       "word": "金繁喊纪凌尘大海哥",
       "onboard_time": 1694480738,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 883337,
+      "num": 425572,
+      "word": "吴倩一滴泪哭戏",
+      "onboard_time": 1694484217,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -145,14 +177,6 @@
       "onboard_time": 1694434721,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 791345,
-      "num": 372248,
-      "word": "吴倩一滴泪哭戏",
-      "onboard_time": 1694484217,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 790739,
@@ -196,19 +220,11 @@
     },
     {
       "raw_hot": 638645,
-      "num": 422268,
+      "num": 425105,
       "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
       "onboard_time": 1694482477,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 637473,
-      "num": 361736,
-      "word": "男子分手后卖掉黄金将15000元全撒了",
-      "onboard_time": 1694484099,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632563,
@@ -233,6 +249,14 @@
       "onboard_time": 1694469435,
       "rank": 19,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 591436,
+      "num": 591436,
+      "word": "动漫都被还原成这样了吗",
+      "onboard_time": 1694484457,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 550728,
@@ -313,14 +337,6 @@
       "onboard_time": 1694425360,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 397822,
-      "num": 397822,
-      "word": "动漫都被还原成这样了吗",
-      "onboard_time": 1694484457,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 389517,
@@ -411,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323685,
-      "num": 323685,
+      "raw_hot": 332541,
+      "num": 332541,
       "word": "Uzi说休赛期的小明喊不动",
       "onboard_time": 1694484519,
       "rank": 27,
@@ -435,6 +451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 303152,
+      "num": 303152,
+      "word": "收集了1年3个月的掉发量",
+      "onboard_time": 1694484099,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303112,
       "num": 567870,
       "word": "女孩因外貌质疑自己妈妈拥吻回应",
@@ -451,20 +475,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 292247,
-      "num": 292247,
-      "word": "修丽可 邓为",
-      "onboard_time": 1694485242,
-      "rank": 30,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 289561,
       "num": 270308,
       "word": "8岁女孩跳绳半小时腹痛呕吐竟因畸胎瘤",
       "onboard_time": 1694446901,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289525,
+      "num": 280653,
+      "word": "李佳琦称没有资格站在个人角度评论网友",
+      "onboard_time": 1694485359,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 288528,
@@ -483,14 +507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 272508,
-      "num": 272508,
-      "word": "收集了1年3个月的掉发量",
-      "onboard_time": 1694484099,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269919,
       "num": 269919,
       "word": "男子每年工作8个月旅游4个月成旅游达人",
@@ -507,12 +523,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 247645,
+      "num": 247645,
+      "word": "妈妈带录取通知书替昏迷女儿报到",
+      "onboard_time": 1694484997,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 242588,
       "num": 242588,
       "word": "田嘉瑞看金靖演戏看哭了",
       "onboard_time": 1694442765,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235347,
+      "num": 235347,
+      "word": "石榴集团董事长下跪",
+      "onboard_time": 1694485599,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233629,
@@ -571,12 +603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200191,
-      "num": 200191,
-      "word": "妈妈带录取通知书替昏迷女儿报到",
-      "onboard_time": 1694484997,
-      "rank": 39,
-      "category": "社会新闻,教育"
+      "raw_hot": 209896,
+      "num": 426113,
+      "word": "女孩一听家人给陌生人转账立刻报警",
+      "onboard_time": 1694481695,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197650,
@@ -585,6 +617,14 @@
       "onboard_time": 1694454439,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196780,
+      "num": 196780,
+      "word": "女子称上班3天半被辞讨要工资反被怼",
+      "onboard_time": 1694485418,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193770,
@@ -641,14 +681,6 @@
       "onboard_time": 1694419597,
       "rank": 36,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 179102,
-      "num": 386557,
-      "word": "女孩一听家人给陌生人转账立刻报警",
-      "onboard_time": 1694481695,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177763,
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163806,
+      "num": 163806,
+      "word": "坂田银时吸入白砂糖",
+      "onboard_time": 1694486016,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157554,
       "num": 157554,
       "word": "逍遥散人官宣恋爱",
@@ -760,6 +800,14 @@
       "word": "重庆暴雨",
       "onboard_time": 1694444025,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132588,
+      "num": 425938,
+      "word": "天舟五号再次撤离空间站",
+      "onboard_time": 1694485599,
+      "rank": 13,
       "category": "社会新闻"
     },
     {

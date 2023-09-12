@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694485282173,
+  "endTime": 1694486029522,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 8555035,
-      "num": 421555,
+      "num": 425193,
       "word": "李佳琦哭完继续带货",
       "onboard_time": 1694438631,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 5393307,
-      "num": 356050,
+      "num": 425502,
       "word": "李佳琦称身上羽毛是所有女生赋予的",
       "onboard_time": 1694440429,
       "rank": 18,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2867388,
+      "num": 2867388,
+      "word": "蜂花 商战",
+      "onboard_time": 1694482477,
+      "rank": 0,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 2813589,
       "num": 2813589,
       "word": "国航CA403疑发出紧急代码7700",
@@ -209,14 +217,6 @@
       "onboard_time": 1694399197,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2440579,
-      "num": 2440579,
-      "word": "蜂花 商战",
-      "onboard_time": 1694482477,
-      "rank": 0,
-      "category": "美妆"
     },
     {
       "raw_hot": 2374095,
@@ -595,6 +595,22 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1304715,
+      "num": 727517,
+      "word": "修丽可 邓为",
+      "onboard_time": 1694485242,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 1302099,
+      "num": 1302099,
+      "word": "苹果 5G角标",
+      "onboard_time": 1694483200,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1262603,
       "num": 945887,
       "word": "我命由我不由天 你说三千就三千",
@@ -641,14 +657,6 @@
       "onboard_time": 1694420439,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1169901,
-      "num": 1169901,
-      "word": "苹果 5G角标",
-      "onboard_time": 1694483200,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 1152041,
@@ -753,6 +761,14 @@
       "onboard_time": 1694477018,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1030779,
+      "num": 425694,
+      "word": "男子分手后卖掉黄金将15000元全撒了",
+      "onboard_time": 1694484099,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1017284,
@@ -873,6 +889,14 @@
       "onboard_time": 1694438748,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 883337,
+      "num": 425572,
+      "word": "吴倩一滴泪哭戏",
+      "onboard_time": 1694484217,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 871541,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1694270559,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 791345,
-      "num": 372248,
-      "word": "吴倩一滴泪哭戏",
-      "onboard_time": 1694484217,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 790739,
@@ -1268,19 +1284,11 @@
     },
     {
       "raw_hot": 638645,
-      "num": 422268,
+      "num": 425105,
       "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
       "onboard_time": 1694482477,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 637473,
-      "num": 361736,
-      "word": "男子分手后卖掉黄金将15000元全撒了",
-      "onboard_time": 1694484099,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 635255,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1694326532,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 591436,
+      "num": 591436,
+      "word": "动漫都被还原成这样了吗",
+      "onboard_time": 1694484457,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 590293,
@@ -2211,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397822,
-      "num": 397822,
-      "word": "动漫都被还原成这样了吗",
-      "onboard_time": 1694484457,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393112,
       "num": 294292,
       "word": "性格内向的人看起来会更显小",
@@ -2603,6 +2611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332541,
+      "num": 332541,
+      "word": "Uzi说休赛期的小明喊不动",
+      "onboard_time": 1694484519,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330810,
       "num": 632624,
       "word": "退休刑警一眼认出23年前命案逃犯",
@@ -2665,14 +2681,6 @@
       "onboard_time": 1694399561,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323685,
-      "num": 323685,
-      "word": "Uzi说休赛期的小明喊不动",
-      "onboard_time": 1694484519,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 323308,
@@ -2931,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303152,
+      "num": 303152,
+      "word": "收集了1年3个月的掉发量",
+      "onboard_time": 1694484099,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303112,
       "num": 567870,
       "word": "女孩因外貌质疑自己妈妈拥吻回应",
@@ -3027,14 +3043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 292247,
-      "num": 292247,
-      "word": "修丽可 邓为",
-      "onboard_time": 1694485242,
-      "rank": 30,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 292182,
       "num": 292182,
       "word": "白敬亭假扮摄像老师好机智",
@@ -3065,6 +3073,14 @@
       "onboard_time": 1694446901,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289525,
+      "num": 280653,
+      "word": "李佳琦称没有资格站在个人角度评论网友",
+      "onboard_time": 1694485359,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 289218,
@@ -3241,14 +3257,6 @@
       "onboard_time": 1694405145,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272508,
-      "num": 272508,
-      "word": "收集了1年3个月的掉发量",
-      "onboard_time": 1694484099,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 271777,
@@ -3499,6 +3507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247645,
+      "num": 247645,
+      "word": "妈妈带录取通知书替昏迷女儿报到",
+      "onboard_time": 1694484997,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 247387,
       "num": 247387,
       "word": "张灵玉恋情被扒",
@@ -3665,6 +3681,14 @@
       "onboard_time": 1694334992,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235347,
+      "num": 235347,
+      "word": "石榴集团董事长下跪",
+      "onboard_time": 1694485599,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233629,
@@ -4051,6 +4075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209896,
+      "num": 426113,
+      "word": "女孩一听家人给陌生人转账立刻报警",
+      "onboard_time": 1694481695,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209372,
       "num": 733213,
       "word": "男孩写名字笔顺令人出乎意料",
@@ -4323,14 +4355,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 200191,
-      "num": 200191,
-      "word": "妈妈带录取通知书替昏迷女儿报到",
-      "onboard_time": 1694484997,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 200074,
       "num": 200074,
       "word": "79岁摇滚奶奶成亚运会火炬手",
@@ -4409,6 +4433,14 @@
       "onboard_time": 1694454439,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196780,
+      "num": 196780,
+      "word": "女子称上班3天半被辞讨要工资反被怼",
+      "onboard_time": 1694485418,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196719,
@@ -4795,14 +4827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179102,
-      "num": 386557,
-      "word": "女孩一听家人给陌生人转账立刻报警",
-      "onboard_time": 1694481695,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178801,
       "num": 178801,
       "word": "萧敬腾求雨符",
@@ -5113,6 +5137,14 @@
       "onboard_time": 1694400039,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163806,
+      "num": 163806,
+      "word": "坂田银时吸入白砂糖",
+      "onboard_time": 1694486016,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 162697,
@@ -5505,6 +5537,14 @@
       "onboard_time": 1694342016,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132588,
+      "num": 425938,
+      "word": "天舟五号再次撤离空间站",
+      "onboard_time": 1694485599,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132560,
