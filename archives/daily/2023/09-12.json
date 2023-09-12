@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694495745824,
+  "endTime": 1694496821408,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -17,6 +17,14 @@
       "onboard_time": 1694479718,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3132340,
+      "num": 397391,
+      "word": "傅首尔老刘离过一次婚",
+      "onboard_time": 1694494665,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 3021652,
@@ -67,14 +75,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2373046,
-      "num": 397391,
-      "word": "傅首尔老刘离过一次婚",
-      "onboard_time": 1694494665,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2369001,
       "num": 512751,
       "word": "石榴集团董事长下跪",
@@ -89,6 +89,14 @@
       "onboard_time": 1694476237,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2192441,
+      "num": 2192441,
+      "word": "防猝死套餐",
+      "onboard_time": 1694492804,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 2164187,
@@ -129,14 +137,6 @@
       "onboard_time": 1694492450,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1597497,
-      "num": 1597497,
-      "word": "防猝死套餐",
-      "onboard_time": 1694492804,
-      "rank": 39,
-      "category": "其它"
     },
     {
       "raw_hot": 1597266,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690188,
+      "num": 351783,
+      "word": "女子买高铁二等座嫌冷大闹要毛毯",
+      "onboard_time": 1694495502,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687217,
       "num": 687217,
       "word": "iPhone15有15项变化",
@@ -409,6 +417,22 @@
       "onboard_time": 1694478699,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517226,
+      "num": 517226,
+      "word": "蜂花回应捡箱子发货",
+      "onboard_time": 1694495264,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487710,
+      "num": 340816,
+      "word": "怀疑乌尔善北京的邻居压根没见过他",
+      "onboard_time": 1694496047,
+      "rank": 30,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 482573,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359730,
+      "num": 359730,
+      "word": "SEVENTEEN官宣澳门演唱会",
+      "onboard_time": 1694496462,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 358016,
       "num": 358016,
       "word": "易烊千玺世界设计之都大会青年大使",
@@ -561,6 +593,14 @@
       "onboard_time": 1694488961,
       "rank": 27,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 350117,
+      "num": 350117,
+      "word": "胡歌 所有表达爱的举动都应该趁早",
+      "onboard_time": 1694496403,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 347886,
@@ -707,7 +747,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273315,
+      "raw_hot": 283361,
+      "num": 283361,
+      "word": "终于搞懂医保了",
+      "onboard_time": 1694496343,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 279376,
       "num": 405493,
       "word": "贵州女孩上一本闯深圳走出大山",
       "onboard_time": 1694494124,
@@ -721,6 +769,14 @@
       "onboard_time": 1694482477,
       "rank": 33,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 268480,
+      "num": 268480,
+      "word": "南风知我意还没开播就有10场吻戏",
+      "onboard_time": 1694495743,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 266687,
@@ -747,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251447,
-      "num": 251447,
-      "word": "蜂花回应捡箱子发货",
-      "onboard_time": 1694495264,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247645,
       "num": 247645,
       "word": "妈妈带录取通知书替昏迷女儿报到",
@@ -771,12 +819,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240315,
-      "num": 240315,
-      "word": "女子买高铁二等座嫌冷大闹要毛毯",
-      "onboard_time": 1694495502,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 234004,
+      "num": 234004,
+      "word": "张国荣生日红色恋人复映",
+      "onboard_time": 1694496520,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 233629,
@@ -939,6 +987,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192386,
+      "num": 401516,
+      "word": "校外培训机构违规预收费或被吊销许可证",
+      "onboard_time": 1694495264,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 191911,
+      "num": 191911,
+      "word": "4只幼崽被淹流浪狗向路人求助",
+      "onboard_time": 1694496047,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191745,
       "num": 191745,
       "word": "爱吃钵钵鸡的四川人沉默了",
@@ -977,6 +1041,14 @@
       "onboard_time": 1694447079,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181162,
+      "num": 181162,
+      "word": "萧敬腾 青岛下雨",
+      "onboard_time": 1694496701,
+      "rank": 47,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 180441,
@@ -1139,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140999,
-      "num": 401516,
-      "word": "校外培训机构违规预收费或被吊销许可证",
-      "onboard_time": 1694495264,
-      "rank": 13,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 139751,
       "num": 139751,
       "word": "RichBrian要来成都了",
@@ -1307,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97302,
+      "num": 400047,
+      "word": "学校为高位截肢女孩连夜改造无障碍宿舍",
+      "onboard_time": 1694494848,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91523,
       "num": 97341,
       "word": "一瞬间在杨紫身上看到了时光",
@@ -1331,7 +1403,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45166,
+      "raw_hot": 48142,
       "num": 1281561,
       "word": "来杭州感受体育之美",
       "onboard_time": 1694494251,
@@ -1345,14 +1417,6 @@
       "onboard_time": 1694453299,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 42539,
-      "num": 400047,
-      "word": "学校为高位截肢女孩连夜改造无障碍宿舍",
-      "onboard_time": 1694494848,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42507,
