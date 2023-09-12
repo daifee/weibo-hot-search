@@ -1,6 +1,6 @@
 {
   "startTime": 1694449322434,
-  "endTime": 1694517235825,
+  "endTime": 1694518416448,
   "band_list": [
     {
       "raw_hot": 4531583,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1699358,
-      "num": 550434,
+      "num": 563815,
       "word": "精子库举办大学生精液质量比拼",
       "onboard_time": 1694504256,
       "rank": 16,
@@ -227,6 +227,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1557820,
+      "num": 1557820,
+      "word": "大麦 抢不到",
+      "onboard_time": 1694515898,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1488092,
       "num": 425592,
       "word": "李佳琦",
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1442445,
-      "num": 1442445,
-      "word": "大麦 抢不到",
-      "onboard_time": 1694515898,
-      "rank": 0,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1412821,
       "num": 436368,
       "word": "觉得79元眉笔贵是不够努力这话太离谱",
@@ -259,8 +259,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1342499,
-      "num": 1342499,
+      "raw_hot": 1378806,
+      "num": 1378806,
       "word": "学校内衣内裤混洗的人贴了文献",
       "onboard_time": 1694515898,
       "rank": 3,
@@ -289,6 +289,14 @@
       "onboard_time": 1694493527,
       "rank": 22,
       "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 1192321,
+      "num": 614916,
+      "word": "杨玏 要不就是他去嘬别的孩子了",
+      "onboard_time": 1694516261,
+      "rank": 12,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1183367,
@@ -321,6 +329,22 @@
       "onboard_time": 1694495264,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007844,
+      "num": 1007844,
+      "word": "厦门震感",
+      "onboard_time": 1694517761,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992842,
+      "num": 898219,
+      "word": "花西子同款眉笔成本价不超10元",
+      "onboard_time": 1694508940,
+      "rank": 18,
+      "category": "美妆,财经"
     },
     {
       "raw_hot": 956134,
@@ -379,12 +403,12 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 898219,
-      "num": 898219,
-      "word": "花西子同款眉笔成本价不超10元",
-      "onboard_time": 1694508940,
-      "rank": 18,
-      "category": "美妆,财经"
+      "raw_hot": 904870,
+      "num": 573375,
+      "word": "分手谈出了离职的感觉",
+      "onboard_time": 1694516200,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 892278,
@@ -483,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 729776,
-      "num": 614916,
-      "word": "杨玏 要不就是他去嘬别的孩子了",
-      "onboard_time": 1694516261,
-      "rank": 12,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 716696,
       "num": 716696,
       "word": "成毅怎么老演这种快死的角色",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 664816,
-      "num": 1368585,
+      "num": 1380314,
       "word": "夫妻一声提醒救了两条命",
       "onboard_time": 1694513021,
       "rank": 4,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 650596,
-      "num": 425802,
+      "num": 461871,
       "word": "iPhone15配置售价一图来了",
       "onboard_time": 1694511702,
       "rank": 20,
@@ -611,6 +627,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 602152,
+      "num": 567644,
+      "word": "吴磊在街边理发店刮胡子",
+      "onboard_time": 1694518058,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592042,
       "num": 592042,
       "word": "南风知我意连更10天18集",
@@ -635,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537753,
+      "num": 301899,
+      "word": "回顾郭美美二次入狱始末",
+      "onboard_time": 1694518119,
+      "rank": 35,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 536978,
       "num": 593236,
       "word": "中国人寿原董事长王滨死缓",
@@ -657,14 +689,6 @@
       "onboard_time": 1694478699,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517361,
-      "num": 309577,
-      "word": "分手谈出了离职的感觉",
-      "onboard_time": 1694516200,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 515978,
@@ -819,6 +843,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 440742,
+      "num": 440742,
+      "word": "韩天宇回来了",
+      "onboard_time": 1694517218,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432332,
       "num": 432332,
       "word": "肖战哭戏哭到脸通红了",
@@ -865,6 +897,14 @@
       "onboard_time": 1694509659,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 403970,
+      "num": 403970,
+      "word": "花轿喜事豆瓣3.8",
+      "onboard_time": 1694515778,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 398573,
@@ -929,14 +969,6 @@
       "onboard_time": 1694475391,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368600,
-      "num": 368600,
-      "word": "花轿喜事豆瓣3.8",
-      "onboard_time": 1694515778,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 364993,
@@ -1147,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320749,
+      "num": 320749,
+      "word": "国足vs叙利亚",
+      "onboard_time": 1694516979,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319517,
       "num": 319517,
       "word": "两周时间减少大腿内侧赘肉",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1694503777,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309602,
+      "num": 309602,
+      "word": "看莲花楼真的不能代入方多病视角",
+      "onboard_time": 1694517458,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 308635,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1694507019,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304313,
+      "num": 304313,
+      "word": "蜂蜜小面包竟然这么多油",
+      "onboard_time": 1694516917,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 303571,
@@ -1227,12 +1283,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 295489,
+      "num": 295489,
+      "word": "大鹏说新片沾了孙阳张颂文的光",
+      "onboard_time": 1694517761,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294961,
       "num": 294961,
       "word": "古偶男模101",
       "onboard_time": 1694511401,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294928,
+      "num": 294928,
+      "word": "菲律宾群岛地区6.3级地震",
+      "onboard_time": 1694518359,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294925,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1694494124,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 278796,
+      "num": 278796,
+      "word": "范丞丞是头顶了个钢丝球吗",
+      "onboard_time": 1694518058,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 274468,
@@ -1539,20 +1619,20 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 215678,
+      "num": 215678,
+      "word": "蜂花小哥直播间一上午人气翻10倍",
+      "onboard_time": 1694517877,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215653,
       "num": 215653,
       "word": "教育局回应校长讲座PPT现不当言论",
       "onboard_time": 1694471178,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214706,
-      "num": 214706,
-      "word": "国足vs叙利亚",
-      "onboard_time": 1694516979,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 213160,
@@ -1683,20 +1763,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196025,
-      "num": 196025,
-      "word": "蜂蜜小面包竟然这么多油",
-      "onboard_time": 1694516917,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195894,
       "num": 195894,
       "word": "他不是在下乡就是在下乡的路上",
       "onboard_time": 1694510200,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195850,
+      "num": 195850,
+      "word": "莲花楼演唱会官宣",
+      "onboard_time": 1694518299,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 195309,
@@ -1755,7 +1835,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187845,
+      "raw_hot": 188227,
       "num": 908411,
       "word": "老人生病后村里人拎牛奶鸡蛋看望",
       "onboard_time": 1694514819,
@@ -1777,14 +1857,6 @@
       "onboard_time": 1694514400,
       "rank": 29,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 184337,
-      "num": 184337,
-      "word": "韩天宇回来了",
-      "onboard_time": 1694517218,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 184336,
@@ -2228,7 +2300,7 @@
     },
     {
       "raw_hot": 59760,
-      "num": 1350119,
+      "num": 1379152,
       "word": "我国大江大河保护与治理成效显著",
       "onboard_time": 1694512061,
       "rank": 2,
@@ -2265,6 +2337,14 @@
       "onboard_time": 1694452702,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44523,
+      "num": 582923,
+      "word": "5岁听障女孩穿梭人群帮奶奶捡空瓶",
+      "onboard_time": 1694516499,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43537,
@@ -2321,14 +2401,6 @@
       "onboard_time": 1694458155,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 18981,
-      "num": 582923,
-      "word": "5岁听障女孩穿梭人群帮奶奶捡空瓶",
-      "onboard_time": 1694516499,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
