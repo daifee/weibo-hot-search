@@ -1,0 +1,410 @@
+{
+  "runTime": 1694535715639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796981,
+        "num": 1796981,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 0,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 832257,
+        "num": 832257,
+        "word": "4000万中央资金建3个项目竟全烂尾",
+        "onboard_time": 1694531381,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31698,
+        "num": 644059,
+        "word": "杭州亚运村周六正式开村",
+        "onboard_time": 1694525141,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 610330,
+        "num": 610330,
+        "word": "云之羽 决战绿茶之巅",
+        "onboard_time": 1694533180,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573524,
+        "num": 573524,
+        "word": "关智斌说是时候利用赵丽颖了",
+        "onboard_time": 1694533180,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504932,
+        "num": 504932,
+        "word": "莲花味精上架79元的套餐",
+        "onboard_time": 1694524062,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 357991,
+        "num": 357991,
+        "word": "成毅换了微博头像",
+        "onboard_time": 1694527840,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333341,
+        "num": 333341,
+        "word": "12306回应女子买高铁二等座要毛毯",
+        "onboard_time": 1694518957,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330391,
+        "num": 330391,
+        "word": "国足主帅称输球是因为运气不好",
+        "onboard_time": 1694529583,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315184,
+        "num": 315184,
+        "word": "宫尚角隐形眼镜忘摘了",
+        "onboard_time": 1694521897,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1831007,
+        "num": 314894,
+        "word": "网友测评79元花西子眉笔能画21个月",
+        "onboard_time": 1694531797,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 557761,
+        "num": 311292,
+        "word": "Angelababy说想学我做的腌水果",
+        "onboard_time": 1694532640,
+        "rank": 11,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 421353,
+        "num": 306535,
+        "word": "性教育第四季正式预告",
+        "onboard_time": 1694531920,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401754,
+        "num": 305833,
+        "word": "学校内衣内裤混洗的人贴了文献",
+        "onboard_time": 1694515898,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270242,
+        "num": 301480,
+        "word": "中小学教师从事学科类校外培训将从重处罚",
+        "onboard_time": 1694526225,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 398360,
+        "num": 298482,
+        "word": "郑恺这一个月经历了什么",
+        "onboard_time": 1694522978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389929,
+        "num": 294815,
+        "word": "世界首富有多爱客串",
+        "onboard_time": 1694534016,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372294,
+        "num": 292765,
+        "word": "孝渊对SM是否给艺人solo的回答",
+        "onboard_time": 1694533718,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291594,
+        "num": 291594,
+        "word": "云之羽 虞书欣演技分析",
+        "onboard_time": 1694534614,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272870,
+        "num": 272870,
+        "word": "日本反对他国直接取样独立检测",
+        "onboard_time": 1694526465,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1435372,
+        "num": 272346,
+        "word": "iPhone15配置售价一图来了",
+        "onboard_time": 1694511702,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 373269,
+        "num": 271765,
+        "word": "南风知我意空镜",
+        "onboard_time": 1694533835,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285742,
+        "num": 271761,
+        "word": "怪不得她是国民初恋",
+        "onboard_time": 1694523036,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269355,
+        "num": 269355,
+        "word": "现在年轻人的工位长这样",
+        "onboard_time": 1694527182,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266734,
+        "num": 266734,
+        "word": "为什么抽烟的人总喜欢顺打火机",
+        "onboard_time": 1694530303,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239692,
+        "num": 239692,
+        "word": "郭敬明减肥法",
+        "onboard_time": 1694522199,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237577,
+        "num": 237577,
+        "word": "陈致逸离开米哈游",
+        "onboard_time": 1694528622,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222082,
+        "num": 222082,
+        "word": "徐良对张远说我结婚的时候你一定要来",
+        "onboard_time": 1694535511,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199912,
+        "num": 199912,
+        "word": "国足0比1叙利亚",
+        "onboard_time": 1694526043,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199643,
+        "num": 199643,
+        "word": "心动6男一第八期就告白",
+        "onboard_time": 1694531861,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197334,
+        "num": 197334,
+        "word": "王俊凯奔跑的青春彩排",
+        "onboard_time": 1694532039,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180518,
+        "num": 180518,
+        "word": "取消台胞在闽暂住登记",
+        "onboard_time": 1694519797,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 177356,
+        "num": 177356,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171026,
+        "num": 171026,
+        "word": "花西子同款眉笔成本价不超10元",
+        "onboard_time": 1694508940,
+        "rank": 33,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 165799,
+        "num": 165799,
+        "word": "陈牧驰老兵精神永存",
+        "onboard_time": 1694533421,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158187,
+        "num": 158187,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157659,
+        "num": 157659,
+        "word": "赵丽颖参加中国电视艺术家大会",
+        "onboard_time": 1694523518,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154309,
+        "num": 154309,
+        "word": "四个动作暴瘦肚子",
+        "onboard_time": 1694529765,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144922,
+        "num": 144922,
+        "word": "C盘满了千万不要乱删文件",
+        "onboard_time": 1694524722,
+        "rank": 38,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 141168,
+        "num": 141168,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147336,
+        "num": 139716,
+        "word": "杨玏 要不就是他去嘬别的孩子了",
+        "onboard_time": 1694516261,
+        "rank": 40,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 137261,
+        "num": 137261,
+        "word": "章若楠素颜生活照",
+        "onboard_time": 1694529404,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135326,
+        "num": 135326,
+        "word": "分手谈出了离职的感觉",
+        "onboard_time": 1694516200,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132637,
+        "num": 132637,
+        "word": "沙溢cos的东方青苍",
+        "onboard_time": 1694525378,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129277,
+        "num": 129277,
+        "word": "最近三年你涨过薪吗",
+        "onboard_time": 1694533659,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128558,
+        "num": 128558,
+        "word": "分享欲不是喜欢探索欲才是",
+        "onboard_time": 1694524299,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128456,
+        "num": 128456,
+        "word": "大麦 抢不到",
+        "onboard_time": 1694515898,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128106,
+        "num": 128106,
+        "word": "第八个嫌疑人票房破2亿",
+        "onboard_time": 1694529881,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122689,
+        "num": 122689,
+        "word": "日本4比2土耳其",
+        "onboard_time": 1694532941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102946,
+        "num": 116345,
+        "word": "婆婆最爱的大花墙被我砸了",
+        "onboard_time": 1694522799,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#恪守立党为公执政为民理念#"
+    }
+  }
+}
