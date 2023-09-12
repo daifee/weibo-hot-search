@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694529251061,
+  "endTime": 1694531872867,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -123,6 +123,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 3615490,
+      "num": 3615490,
+      "word": "这4种面包真的建议少吃",
+      "onboard_time": 1694523278,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 3607906,
       "num": 453337,
       "word": "李佳琦哭两分半亏100支花西子眉笔价钱",
@@ -233,14 +241,6 @@
       "onboard_time": 1694482477,
       "rank": 0,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 2865095,
-      "num": 2865095,
-      "word": "这4种面包真的建议少吃",
-      "onboard_time": 1694523278,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 2822399,
@@ -505,6 +505,14 @@
       "onboard_time": 1694433219,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1881975,
+      "num": 227280,
+      "word": "你还会去买李佳琦推荐的商品吗",
+      "onboard_time": 1694530303,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 1824298,
@@ -843,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1232564,
+      "num": 461871,
+      "word": "iPhone15配置售价一图来了",
+      "onboard_time": 1694511702,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1223002,
       "num": 457826,
       "word": "师洋评79元眉笔",
@@ -953,14 +969,6 @@
       "onboard_time": 1694307271,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1103586,
-      "num": 461871,
-      "word": "iPhone15配置售价一图来了",
-      "onboard_time": 1694511702,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 1101989,
@@ -1243,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 868176,
+      "num": 868176,
+      "word": "莲花味精上架79元的套餐",
+      "onboard_time": 1694524062,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 864964,
       "num": 864964,
       "word": "王源像跟着父母应酬的我",
@@ -1491,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 754177,
-      "num": 754177,
-      "word": "莲花味精上架79元的套餐",
-      "onboard_time": 1694524062,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 752351,
       "num": 752351,
       "word": "莲花楼演唱会官宣",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1694359601,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 719504,
+      "num": 719504,
+      "word": "中小学教师从事学科类校外培训将从重处罚",
+      "onboard_time": 1694526225,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 716696,
@@ -1731,14 +1747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 655869,
-      "num": 655869,
-      "word": "中小学教师从事学科类校外培训将从重处罚",
-      "onboard_time": 1694526225,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 654752,
       "num": 654752,
       "word": "深圳地铁",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1694314532,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 644782,
+      "num": 644782,
+      "word": "国足主帅称输球是因为运气不好",
+      "onboard_time": 1694529583,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 644421,
@@ -2193,6 +2209,14 @@
       "onboard_time": 1694478699,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517722,
+      "num": 517722,
+      "word": "陈致逸离开米哈游",
+      "onboard_time": 1694528622,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 515978,
@@ -2705,6 +2729,14 @@
       "onboard_time": 1694273617,
       "rank": 15,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 431730,
+      "num": 315408,
+      "word": "为什么抽烟的人总喜欢顺打火机",
+      "onboard_time": 1694530303,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 431152,
@@ -3843,6 +3875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 311568,
+      "num": 311568,
+      "word": "网友测评79元花西子眉笔能画21个月",
+      "onboard_time": 1694531797,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 310645,
       "num": 310645,
       "word": "建议彭昱畅别看",
@@ -4443,6 +4483,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 269070,
+      "num": 269070,
+      "word": "第八个嫌疑人票房破2亿",
+      "onboard_time": 1694529881,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267488,
       "num": 267488,
       "word": "看完装腔启示录之后",
@@ -4683,14 +4731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250544,
-      "num": 250544,
-      "word": "陈致逸离开米哈游",
-      "onboard_time": 1694528622,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 250332,
       "num": 250332,
       "word": "范丞丞锁喉白敬亭",
@@ -4705,6 +4745,14 @@
       "onboard_time": 1694274158,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250175,
+      "num": 250175,
+      "word": "章若楠素颜生活照",
+      "onboard_time": 1694529404,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 249125,
@@ -5099,6 +5147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227620,
+      "num": 443730,
+      "word": "3岁妹妹6岁姐姐趁妈妈洗澡收拾客厅",
+      "onboard_time": 1694527242,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227516,
       "num": 227516,
       "word": "倪妮空降超话",
@@ -5249,6 +5305,14 @@
       "onboard_time": 1694422056,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219218,
+      "num": 219218,
+      "word": "4000万中央资金建3个项目竟全烂尾",
+      "onboard_time": 1694531381,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218493,
@@ -5611,6 +5675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204775,
+      "num": 204775,
+      "word": "四个动作暴瘦肚子",
+      "onboard_time": 1694529765,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 204556,
       "num": 204556,
       "word": "冠军教练loveCD",
@@ -5793,6 +5865,14 @@
       "onboard_time": 1694431835,
       "rank": 45,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 200110,
+      "num": 200110,
+      "word": "宫尚角两边都要哄",
+      "onboard_time": 1694531442,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 200074,
@@ -6073,14 +6153,6 @@
       "onboard_time": 1694275236,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190514,
-      "num": 443730,
-      "word": "3岁妹妹6岁姐姐趁妈妈洗澡收拾客厅",
-      "onboard_time": 1694527242,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190452,
@@ -6849,6 +6921,22 @@
       "onboard_time": 1694398175,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159892,
+      "num": 159892,
+      "word": "心动6男一第八期就告白",
+      "onboard_time": 1694531861,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159442,
+      "num": 159442,
+      "word": "墓地保洁月入8000",
+      "onboard_time": 1694531741,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 159158,
@@ -8009,6 +8097,14 @@
       "onboard_time": 1694458155,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 22031,
+      "num": 347145,
+      "word": "50岁民警飞身跳水勇救落水男子",
+      "onboard_time": 1694530841,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20679,
