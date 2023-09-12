@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694484126252,
+  "endTime": 1694485282173,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -209,6 +209,14 @@
       "onboard_time": 1694399197,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2440579,
+      "num": 2440579,
+      "word": "蜂花 商战",
+      "onboard_time": 1694482477,
+      "rank": 0,
+      "category": "美妆"
     },
     {
       "raw_hot": 2374095,
@@ -443,6 +451,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 1597266,
+      "num": 1472506,
+      "word": "马斯克已同3名女性生下10个孩子",
+      "onboard_time": 1694481337,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1583813,
       "num": 549173,
       "word": "父亲到校将猥亵女儿的副院长打伤",
@@ -475,28 +491,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1489193,
-      "num": 1489193,
-      "word": "蜂花 商战",
-      "onboard_time": 1694482477,
-      "rank": 0,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 1488092,
       "num": 425592,
       "word": "李佳琦",
       "onboard_time": 1694474430,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1472506,
-      "num": 1472506,
-      "word": "马斯克已同3名女性生下10个孩子",
-      "onboard_time": 1694481337,
-      "rank": 30,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1465120,
@@ -641,6 +641,14 @@
       "onboard_time": 1694420439,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1169901,
+      "num": 1169901,
+      "word": "苹果 5G角标",
+      "onboard_time": 1694483200,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 1152041,
@@ -987,20 +995,20 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 795968,
-      "num": 795968,
-      "word": "苹果 5G角标",
-      "onboard_time": 1694483200,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 792894,
       "num": 335345,
       "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
       "onboard_time": 1694270559,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791345,
+      "num": 372248,
+      "word": "吴倩一滴泪哭戏",
+      "onboard_time": 1694484217,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 790739,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1694482477,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 637473,
+      "num": 361736,
+      "word": "男子分手后卖掉黄金将15000元全撒了",
+      "onboard_time": 1694484099,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635255,
@@ -2195,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397822,
+      "num": 397822,
+      "word": "动漫都被还原成这样了吗",
+      "onboard_time": 1694484457,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393112,
       "num": 294292,
       "word": "性格内向的人看起来会更显小",
@@ -2643,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323685,
+      "num": 323685,
+      "word": "Uzi说休赛期的小明喊不动",
+      "onboard_time": 1694484519,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323308,
       "num": 263737,
       "word": "学姐给我留了个平板支架",
@@ -2995,6 +3027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292247,
+      "num": 292247,
+      "word": "修丽可 邓为",
+      "onboard_time": 1694485242,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 292182,
       "num": 292182,
       "word": "白敬亭假扮摄像老师好机智",
@@ -3035,6 +3075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288528,
+      "num": 288528,
+      "word": "周杰伦天津演唱会带动消费超30亿元",
+      "onboard_time": 1694483018,
+      "rank": 32,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 288474,
       "num": 959418,
       "word": "女儿倾诉自己长相ugly被妈妈拥吻",
@@ -3065,14 +3113,6 @@
       "onboard_time": 1694440370,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287264,
-      "num": 287264,
-      "word": "周杰伦天津演唱会带动消费超30亿元",
-      "onboard_time": 1694483018,
-      "rank": 32,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 287074,
@@ -3201,6 +3241,14 @@
       "onboard_time": 1694405145,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272508,
+      "num": 272508,
+      "word": "收集了1年3个月的掉发量",
+      "onboard_time": 1694484099,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 271777,
@@ -3377,14 +3425,6 @@
       "onboard_time": 1694421040,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 254653,
-      "num": 254653,
-      "word": "男子分手后卖掉黄金将15000元全撒了",
-      "onboard_time": 1694484099,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252142,
@@ -3625,6 +3665,14 @@
       "onboard_time": 1694334992,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233629,
+      "num": 233629,
+      "word": "南风知我意",
+      "onboard_time": 1694483561,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 233617,
@@ -4251,14 +4299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200745,
-      "num": 200745,
-      "word": "收集了1年3个月的掉发量",
-      "onboard_time": 1694484099,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200593,
       "num": 510630,
       "word": "杭州亚运火炬传递主题歌燃",
@@ -4281,6 +4321,14 @@
       "onboard_time": 1694431835,
       "rank": 45,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 200191,
+      "num": 200191,
+      "word": "妈妈带录取通知书替昏迷女儿报到",
+      "onboard_time": 1694484997,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 200074,
@@ -4369,14 +4417,6 @@
       "onboard_time": 1694436170,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196705,
-      "num": 196705,
-      "word": "南风知我意",
-      "onboard_time": 1694483561,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 196520,
@@ -4755,6 +4795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179102,
+      "num": 386557,
+      "word": "女孩一听家人给陌生人转账立刻报警",
+      "onboard_time": 1694481695,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178801,
       "num": 178801,
       "word": "萧敬腾求雨符",
@@ -4888,6 +4936,14 @@
       "word": "师生间双向奔赴的爱",
       "onboard_time": 1694304147,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171217,
+      "num": 171217,
+      "word": "安徽母女在杭州做手术遇神仙病友",
+      "onboard_time": 1694484277,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -5033,14 +5089,6 @@
       "onboard_time": 1694394997,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166073,
-      "num": 294465,
-      "word": "女孩一听家人给陌生人转账立刻报警",
-      "onboard_time": 1694481695,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165344,

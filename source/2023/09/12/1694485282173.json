@@ -1,0 +1,410 @@
+{
+  "runTime": 1694485282173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2440579,
+        "num": 2440579,
+        "word": "蜂花 商战",
+        "onboard_time": 1694482477,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1169901,
+        "num": 1169901,
+        "word": "苹果 5G角标",
+        "onboard_time": 1694483200,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 30808,
+        "num": 836948,
+        "word": "2023年国家网络安全宣传周",
+        "onboard_time": 1694402381,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1597266,
+        "num": 831729,
+        "word": "马斯克已同3名女性生下10个孩子",
+        "onboard_time": 1694481337,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 818896,
+        "num": 818896,
+        "word": "被困缅甸的中科院博士发声",
+        "onboard_time": 1694476237,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778102,
+        "num": 778102,
+        "word": "金繁喊纪凌尘大海哥",
+        "onboard_time": 1694480738,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585784,
+        "num": 585784,
+        "word": "上班上久了是会这样的",
+        "onboard_time": 1694477018,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 537874,
+        "num": 537874,
+        "word": "北京10号线一列车车载故障",
+        "onboard_time": 1694482657,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454625,
+        "num": 454625,
+        "word": "韩国最受欢迎的两种小吃",
+        "onboard_time": 1694475874,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 397822,
+        "num": 397822,
+        "word": "动漫都被还原成这样了吗",
+        "onboard_time": 1694484457,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2683314,
+        "num": 397644,
+        "word": "李佳琦 职业倦怠",
+        "onboard_time": 1694479718,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1589780,
+        "num": 391036,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179102,
+        "num": 386557,
+        "word": "女孩一听家人给陌生人转账立刻报警",
+        "onboard_time": 1694481695,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146008,
+        "num": 385434,
+        "word": "女孩因外貌质疑自己妈妈拥吻回应",
+        "onboard_time": 1694443187,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139860,
+        "num": 379364,
+        "word": "金正恩访问俄罗斯",
+        "onboard_time": 1694476475,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1722560,
+        "num": 375986,
+        "word": "李佳琦哭着道歉",
+        "onboard_time": 1694435444,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 791345,
+        "num": 372248,
+        "word": "吴倩一滴泪哭戏",
+        "onboard_time": 1694484217,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2552670,
+        "num": 368739,
+        "word": "iPhone15取消静音拨片",
+        "onboard_time": 1694481937,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 670752,
+        "num": 364401,
+        "word": "邓超想送孙俪两三百斤的石头",
+        "onboard_time": 1694481997,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637473,
+        "num": 361736,
+        "word": "男子分手后卖掉黄金将15000元全撒了",
+        "onboard_time": 1694484099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508489,
+        "num": 359195,
+        "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
+        "onboard_time": 1694482477,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493166,
+        "num": 354177,
+        "word": "男子每年只上8个月班失业后靠副业逆袭",
+        "onboard_time": 1694482416,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438087,
+        "num": 350289,
+        "word": "董璇回复佟丽娅夸她等于夸自己",
+        "onboard_time": 1694481039,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348223,
+        "num": 348223,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334748,
+        "num": 334748,
+        "word": "肖战哭戏哭到脸通红了",
+        "onboard_time": 1694481098,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326373,
+        "num": 326373,
+        "word": "傲慢不愧是七宗罪之首",
+        "onboard_time": 1694480141,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323782,
+        "num": 323782,
+        "word": "杭州亚运会中国体育代表团成立",
+        "onboard_time": 1694482597,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 323685,
+        "num": 323685,
+        "word": "Uzi说休赛期的小明喊不动",
+        "onboard_time": 1694484519,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319711,
+        "num": 319711,
+        "word": "李佳琦就直播言论致歉",
+        "onboard_time": 1694387725,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316222,
+        "num": 316222,
+        "word": "女子子宫肌瘤10年没管医生取出109颗",
+        "onboard_time": 1694475391,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292247,
+        "num": 292247,
+        "word": "修丽可 邓为",
+        "onboard_time": 1694485242,
+        "rank": 30,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 291082,
+        "num": 291082,
+        "word": "两周时间减少大腿内侧赘肉",
+        "onboard_time": 1694480857,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290106,
+        "num": 290106,
+        "word": "李佳琦",
+        "onboard_time": 1694474430,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288528,
+        "num": 288528,
+        "word": "周杰伦天津演唱会带动消费超30亿元",
+        "onboard_time": 1694483018,
+        "rank": 33,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 272508,
+        "num": 272508,
+        "word": "收集了1年3个月的掉发量",
+        "onboard_time": 1694484099,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262458,
+        "num": 262458,
+        "word": "觉得79元眉笔贵是不够努力这话太离谱",
+        "onboard_time": 1694436593,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 238979,
+        "num": 238979,
+        "word": "汪苏泷容祖儿 雷公电母",
+        "onboard_time": 1694479300,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233629,
+        "num": 233629,
+        "word": "南风知我意",
+        "onboard_time": 1694483561,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213632,
+        "num": 213632,
+        "word": "如何不提死亡却写出死亡",
+        "onboard_time": 1694447019,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200191,
+        "num": 200191,
+        "word": "妈妈带录取通知书替昏迷女儿报到",
+        "onboard_time": 1694484997,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194066,
+        "num": 194066,
+        "word": "父亲到校将猥亵女儿的副院长打伤",
+        "onboard_time": 1694434721,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186948,
+        "num": 186948,
+        "word": "玉溪一彩民中1.13亿元",
+        "onboard_time": 1694444745,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186056,
+        "num": 186056,
+        "word": "男子每年工作8个月旅游4个月成旅游达人",
+        "onboard_time": 1694482477,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 180564,
+        "num": 180564,
+        "word": "19岁女生戴耳机睡觉致耳朵流血流脓",
+        "onboard_time": 1694475391,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178022,
+        "num": 178022,
+        "word": "大爷商场内疑用下体顶女子臀部",
+        "onboard_time": 1694475446,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171217,
+        "num": 171217,
+        "word": "安徽母女在杭州做手术遇神仙病友",
+        "onboard_time": 1694484277,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159582,
+        "num": 159582,
+        "word": "男子看墙要塌提醒路过母女躲过一劫",
+        "onboard_time": 1694483919,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156741,
+        "num": 156741,
+        "word": "花洛莉亚 这泼天的富贵",
+        "onboard_time": 1694433278,
+        "rank": 47,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 139769,
+        "num": 139769,
+        "word": "iPhone15有15项变化",
+        "onboard_time": 1694443548,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136444,
+        "num": 136444,
+        "word": "男子感染HPV向发生关系女房东索赔被驳",
+        "onboard_time": 1694437667,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对挑战更要攻坚克难#"
+    }
+  }
+}
