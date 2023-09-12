@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694531872867,
+  "endTime": 1694532857724,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -481,6 +481,14 @@
       "onboard_time": 1694413235,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1909480,
+      "num": 473190,
+      "word": "李佳琦直播间的现状",
+      "onboard_time": 1694532461,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1905275,
@@ -1195,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 911516,
+      "num": 911516,
+      "word": "莲花味精上架79元的套餐",
+      "onboard_time": 1694524062,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908124,
       "num": 908124,
       "word": "九尾",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1694356297,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 868176,
-      "num": 868176,
-      "word": "莲花味精上架79元的套餐",
-      "onboard_time": 1694524062,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 864964,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1694444745,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848642,
+      "num": 429555,
+      "word": "网友测评79元花西子眉笔能画21个月",
+      "onboard_time": 1694531797,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 847979,
@@ -2339,6 +2355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 490890,
+      "num": 449688,
+      "word": "4000万中央资金建3个项目竟全烂尾",
+      "onboard_time": 1694531381,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490588,
       "num": 490588,
       "word": "孙怡替北方人辟谣",
@@ -2732,7 +2756,7 @@
     },
     {
       "raw_hot": 431730,
-      "num": 315408,
+      "num": 352785,
       "word": "为什么抽烟的人总喜欢顺打火机",
       "onboard_time": 1694530303,
       "rank": 22,
@@ -2969,6 +2993,14 @@
       "onboard_time": 1694401000,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 404208,
+      "num": 404208,
+      "word": "性教育第四季正式预告",
+      "onboard_time": 1694531920,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 403970,
@@ -3875,14 +3907,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 311568,
-      "num": 311568,
-      "word": "网友测评79元花西子眉笔能画21个月",
-      "onboard_time": 1694531797,
-      "rank": 23,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 310645,
       "num": 310645,
       "word": "建议彭昱畅别看",
@@ -4025,6 +4049,14 @@
       "onboard_time": 1694332831,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303443,
+      "num": 303443,
+      "word": "王俊凯奔跑的青春彩排",
+      "onboard_time": 1694532039,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 303152,
@@ -4963,6 +4995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239231,
+      "num": 239231,
+      "word": "四个动作暴瘦肚子",
+      "onboard_time": 1694529765,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 238601,
       "num": 238601,
       "word": "杭州亚运会中国运动员全名单",
@@ -5057,6 +5097,14 @@
       "onboard_time": 1694318912,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231660,
+      "num": 231660,
+      "word": "心动6男一第八期就告白",
+      "onboard_time": 1694531861,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 231648,
@@ -5251,6 +5299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223432,
+      "num": 223432,
+      "word": "Angelababy说想学我做的腌水果",
+      "onboard_time": 1694532640,
+      "rank": 32,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 222945,
       "num": 222945,
       "word": "如何在办公室优雅地发疯",
@@ -5305,14 +5361,6 @@
       "onboard_time": 1694422056,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219218,
-      "num": 219218,
-      "word": "4000万中央资金建3个项目竟全烂尾",
-      "onboard_time": 1694531381,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218493,
@@ -5675,14 +5723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204775,
-      "num": 204775,
-      "word": "四个动作暴瘦肚子",
-      "onboard_time": 1694529765,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 204556,
       "num": 204556,
       "word": "冠军教练loveCD",
@@ -5889,6 +5929,14 @@
       "onboard_time": 1694321074,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199950,
+      "num": 199950,
+      "word": "十大选手臻彩皮肤",
+      "onboard_time": 1694531797,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 199696,
@@ -6921,14 +6969,6 @@
       "onboard_time": 1694398175,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159892,
-      "num": 159892,
-      "word": "心动6男一第八期就告白",
-      "onboard_time": 1694531861,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 159442,
@@ -8059,6 +8099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30785,
+      "num": 437750,
+      "word": "50岁民警飞身跳水勇救落水男子",
+      "onboard_time": 1694530841,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30341,
       "num": 62155,
       "word": "括号P下颚线",
@@ -8097,14 +8145,6 @@
       "onboard_time": 1694458155,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 22031,
-      "num": 347145,
-      "word": "50岁民警飞身跳水勇救落水男子",
-      "onboard_time": 1694530841,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20679,
