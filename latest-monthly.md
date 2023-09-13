@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/13 18:18:06
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/13 18:34:56
 </p>
 </blockquote>
 <p>
@@ -2259,6 +2259,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%88%86%E5%BC%80%E4%B8%8Ahi6%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+虞书欣回应分开上hi6的原因（热度：1264719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%85%AC%E5%BC%80%E5%8E%9F%E6%96%99%E7%94%9F%E4%BA%A7%E8%AE%B0%E5%BD%95%E8%A7%86%E9%A2%91%23" target="weibo">
 瑞幸公开原料生产记录视频（热度：1264330）
 </a>
@@ -2363,6 +2369,12 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%AD%A6%E7%94%9F%E5%8F%97%E4%BC%A4%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E7%BD%AA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 致学生受伤老师涉嫌故意伤害罪被刑拘（热度：1205046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%B8%81%23" target="weibo">
+花西币（热度：1204379）
 </a>
 </li>
 
@@ -2585,12 +2597,6 @@ Rose或将和霉霉合作（热度：1140695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 赵丽颖去看张碧晨演唱会（热度：1113864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%88%86%E5%BC%80%E4%B8%8Ahi6%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-虞书欣回应分开上hi6的原因（热度：1113625）
 </a>
 </li>
 
@@ -2867,6 +2873,12 @@ bibi（热度：1033611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%8D%A1%E7%AE%B1%E5%AD%90%E5%8F%91%E8%B4%A7%23" target="weibo">
 蜂花回应捡箱子发货（热度：1024085）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23" target="weibo">
+国家一级演员苏孝林被决定逮捕（热度：1023356）
 </a>
 </li>
 
@@ -3183,6 +3195,12 @@ CA403所有人员均安全撤离（热度：972380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E7%A7%B0%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%23" target="weibo">
+交通局称北极鲶鱼炫富事件不予公开（热度：958338）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8Ccos%E7%9B%B8%E6%9F%B3%23" target="weibo">
 华晨宇王牌对王牌cos相柳（热度：956134）
 </a>
@@ -3419,12 +3437,6 @@ TTG对战狼队（热度：943547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E4%B8%8A%E6%9E%B679%E5%85%83%E7%9A%84%E5%A5%97%E9%A4%90%23" target="weibo">
 莲花味精上架79元的套餐（热度：911516）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E7%A7%B0%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%23" target="weibo">
-交通局称北极鲶鱼炫富事件不予公开（热度：909774）
 </a>
 </li>
 
@@ -5541,12 +5553,6 @@ SM编舞总监跳槽HYBE（热度：652698）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%B8%81%23" target="weibo">
-花西币（热度：648420）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%B1%E6%AD%89%E9%99%88%E6%99%93%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B8%85%23" target="weibo">
 抱歉陈晓是真的帅（热度：648183）
 </a>
@@ -6005,12 +6011,6 @@ G社拍的倪妮（热度：623553）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E7%99%BBVOGUE%E9%93%B6%E5%8D%81%E5%B0%81%E9%9D%A2%23" target="weibo">
 张子枫登VOGUE银十封面（热度：611301）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%B8%8B%E5%88%B0%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23" target="weibo">
-厦门暴雨下到全国第一（热度：611003）
 </a>
 </li>
 

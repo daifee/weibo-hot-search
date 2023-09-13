@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694600286083,
+  "endTime": 1694601296127,
   "band_list": [
     {
       "raw_hot": 2853167,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2274476,
-      "num": 387795,
+      "num": 439595,
       "word": "苹果12辐射",
       "onboard_time": 1694595219,
       "rank": 17,
@@ -227,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1264719,
+      "num": 1264719,
+      "word": "虞书欣回应分开上hi6的原因",
+      "onboard_time": 1694598760,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1215006,
       "num": 1215006,
       "word": "华为发布会",
@@ -235,12 +243,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1113625,
-      "num": 1113625,
-      "word": "虞书欣回应分开上hi6的原因",
-      "onboard_time": 1694598760,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 1204379,
+      "num": 437665,
+      "word": "花西币",
+      "onboard_time": 1694599476,
+      "rank": 18,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 1048805,
@@ -251,8 +259,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023356,
+      "num": 1023356,
+      "word": "国家一级演员苏孝林被决定逮捕",
+      "onboard_time": 1694600797,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958338,
+      "num": 434302,
+      "word": "交通局称北极鲶鱼炫富事件不予公开",
+      "onboard_time": 1694596897,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 943100,
-      "num": 343931,
+      "num": 398427,
       "word": "张拿铁户口本丢了",
       "onboard_time": 1694594562,
       "rank": 30,
@@ -265,14 +289,6 @@
       "onboard_time": 1694584414,
       "rank": 5,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 909774,
-      "num": 365236,
-      "word": "交通局称北极鲶鱼炫富事件不予公开",
-      "onboard_time": 1694596897,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 908988,
@@ -417,14 +433,6 @@
       "onboard_time": 1694576435,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 648420,
-      "num": 355591,
-      "word": "花西币",
-      "onboard_time": 1694599476,
-      "rank": 18,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 645820,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 547927,
-      "num": 343438,
+      "num": 414524,
       "word": "G社拍的卢昱晓",
       "onboard_time": 1694595817,
       "rank": 25,
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470473,
+      "num": 871113,
+      "word": "大学生模仿主播带货形式推荐母校",
+      "onboard_time": 1694597559,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 469796,
       "num": 469796,
       "word": "徐良对张远说我结婚的时候你一定要来",
@@ -771,14 +787,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 430778,
-      "num": 871113,
-      "word": "大学生模仿主播带货形式推荐母校",
-      "onboard_time": 1694597559,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 430578,
       "num": 325598,
       "word": "长期穿洞洞鞋可能让腿变弯",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 430362,
-      "num": 496200,
+      "num": 549768,
       "word": "丈夫瘫痪妻子说该我为这个家付出了",
       "onboard_time": 1694591676,
       "rank": 22,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 394435,
-      "num": 394435,
+      "num": 445250,
       "word": "那山那人那狗",
       "onboard_time": 1694595876,
       "rank": 36,
@@ -883,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 361063,
+      "num": 361063,
+      "word": "你们到底怎么弄的教教我行不行",
+      "onboard_time": 1694599416,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357991,
       "num": 357991,
       "word": "成毅换了微博头像",
@@ -897,6 +913,14 @@
       "onboard_time": 1694582558,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350057,
+      "num": 427029,
+      "word": "宫三的命也是命",
+      "onboard_time": 1694597978,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 349867,
@@ -1051,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275466,
-      "num": 391522,
-      "word": "宫三的命也是命",
-      "onboard_time": 1694597978,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271589,
       "num": 271589,
       "word": "谁家男主约会送牛奶",
@@ -1195,6 +1211,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 226598,
+      "num": 226598,
+      "word": "高瀚宇在密室被范世錡拖着走",
+      "onboard_time": 1694598695,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221768,
       "num": 221768,
       "word": "最还原原著的角色",
@@ -1267,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210421,
+      "num": 210421,
+      "word": "学校为脑瘫女孩豆豆改造厕所",
+      "onboard_time": 1694600197,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210216,
       "num": 220413,
       "word": "VMA红毯",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1694575179,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209571,
-      "num": 209571,
-      "word": "高瀚宇在密室被范世錡拖着走",
-      "onboard_time": 1694598695,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 207084,
@@ -1307,20 +1331,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 206966,
-      "num": 202186,
-      "word": "你们到底怎么弄的教教我行不行",
-      "onboard_time": 1694599416,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206739,
       "num": 1347082,
       "word": "杭州亚运会开幕倒计时10天",
       "onboard_time": 1694578838,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206531,
+      "num": 206531,
+      "word": "王者荣耀",
+      "onboard_time": 1694600559,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 206151,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1694589757,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201497,
+      "num": 201497,
+      "word": "林一沈月或将二搭",
+      "onboard_time": 1694600917,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 201104,
@@ -1451,6 +1483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196877,
+      "num": 196877,
+      "word": "线条小狗果味汽水表情包",
+      "onboard_time": 1694600675,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196416,
       "num": 196416,
       "word": "灼灼风流收官",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1694571757,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191335,
+      "num": 191335,
+      "word": "爱宝双胞胎名字投票",
+      "onboard_time": 1694600495,
+      "rank": 35,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 189072,
@@ -1819,20 +1867,20 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 135909,
+      "num": 135909,
+      "word": "华为Mate60Pro+体验",
+      "onboard_time": 1694601159,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135326,
       "num": 135326,
       "word": "分手谈出了离职的感觉",
       "onboard_time": 1694516200,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134286,
-      "num": 134286,
-      "word": "学校为脑瘫女孩豆豆改造厕所",
-      "onboard_time": 1694600197,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132637,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1694585015,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112934,
+      "num": 112934,
+      "word": "超异能族",
+      "onboard_time": 1694595817,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 112132,
@@ -2067,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22551,
+      "num": 429848,
+      "word": "钟表与奇迹制表工艺",
+      "onboard_time": 1694599237,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 19860,
       "num": 90369,
       "word": "这一宿舍都是i人啊",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16459,
-      "num": 372875,
-      "word": "钟表与奇迹制表工艺",
-      "onboard_time": 1694599237,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 5003,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694601296127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557818,
+        "num": 1557818,
+        "word": "高铁为疑似早产孕妇多停6分钟",
+        "onboard_time": 1694596536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264719,
+        "num": 1264719,
+        "word": "虞书欣回应分开上hi6的原因",
+        "onboard_time": 1694598760,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97597,
+        "num": 1072642,
+        "word": "我国首艘国产大型邮轮试航成功",
+        "onboard_time": 1694592158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023356,
+        "num": 1023356,
+        "word": "国家一级演员苏孝林被决定逮捕",
+        "onboard_time": 1694600797,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470473,
+        "num": 855657,
+        "word": "大学生模仿主播带货形式推荐母校",
+        "onboard_time": 1694597559,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 850143,
+        "num": 850143,
+        "word": "演员滕汝骏去世",
+        "onboard_time": 1694592398,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315705,
+        "num": 549768,
+        "word": "丈夫瘫痪妻子说该我为这个家付出了",
+        "onboard_time": 1694591676,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 527726,
+        "num": 527726,
+        "word": "北极鲶鱼事件交通局答复是否有法律依据",
+        "onboard_time": 1694595997,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445799,
+        "num": 445799,
+        "word": "孟宴臣高启强 双疯",
+        "onboard_time": 1694593656,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356432,
+        "num": 445250,
+        "word": "那山那人那狗",
+        "onboard_time": 1694595876,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1973542,
+        "num": 439595,
+        "word": "苹果12辐射",
+        "onboard_time": 1694595219,
+        "rank": 10,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 1204379,
+        "num": 437665,
+        "word": "花西币",
+        "onboard_time": 1694599476,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 958338,
+        "num": 434302,
+        "word": "交通局称北极鲶鱼炫富事件不予公开",
+        "onboard_time": 1694596897,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122966,
+        "num": 433164,
+        "word": "要求大型演出实名购票实名入场",
+        "onboard_time": 1694586696,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 22551,
+        "num": 429848,
+        "word": "钟表与奇迹制表工艺",
+        "onboard_time": 1694599237,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 350057,
+        "num": 427029,
+        "word": "宫三的命也是命",
+        "onboard_time": 1694597978,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 823253,
+        "num": 422166,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776254,
+        "num": 419556,
+        "word": "眉笔价格不能只论笔芯",
+        "onboard_time": 1694590717,
+        "rank": 17,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 635610,
+        "num": 414908,
+        "word": "12306称没有高铁不能化妆相关规定",
+        "onboard_time": 1694593656,
+        "rank": 18,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 414524,
+        "num": 414524,
+        "word": "G社拍的卢昱晓",
+        "onboard_time": 1694595817,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 398427,
+        "num": 398427,
+        "word": "张拿铁户口本丢了",
+        "onboard_time": 1694594562,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 398857,
+        "num": 397683,
+        "word": "虞书欣 姐姐跳得坠好啦",
+        "onboard_time": 1694594858,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361063,
+        "num": 361063,
+        "word": "你们到底怎么弄的教教我行不行",
+        "onboard_time": 1694599416,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300345,
+        "num": 300345,
+        "word": "法国决定禁售iPhone12",
+        "onboard_time": 1694589392,
+        "rank": 23,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 282365,
+        "num": 282365,
+        "word": "多个账号为劣迹艺人洗白鸣冤被处理",
+        "onboard_time": 1694586455,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 278395,
+        "num": 278395,
+        "word": "蜂花蹲热点引发行业人士反感",
+        "onboard_time": 1694580340,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226598,
+        "num": 226598,
+        "word": "高瀚宇在密室被范世錡拖着走",
+        "onboard_time": 1694598695,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212392,
+        "num": 212392,
+        "word": "余华 累了就休息",
+        "onboard_time": 1694592336,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210421,
+        "num": 210421,
+        "word": "学校为脑瘫女孩豆豆改造厕所",
+        "onboard_time": 1694600197,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209705,
+        "num": 209705,
+        "word": "丞磊脸红得快熟了",
+        "onboard_time": 1694593537,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271591,
+        "num": 208820,
+        "word": "马斯克曾要求前女友cos守望天使",
+        "onboard_time": 1694594797,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206531,
+        "num": 206531,
+        "word": "王者荣耀",
+        "onboard_time": 1694600559,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205635,
+        "num": 205635,
+        "word": "年轻人不换手机换手机壳",
+        "onboard_time": 1694590115,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201497,
+        "num": 201497,
+        "word": "林一沈月或将二搭",
+        "onboard_time": 1694600917,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196877,
+        "num": 196877,
+        "word": "线条小狗果味汽水表情包",
+        "onboard_time": 1694600675,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191335,
+        "num": 191335,
+        "word": "爱宝双胞胎名字投票",
+        "onboard_time": 1694600495,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 189955,
+        "num": 189955,
+        "word": "女子腹痛不知怀孕医院厕所产女",
+        "onboard_time": 1694577638,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186002,
+        "num": 186002,
+        "word": "日本超级软饭男",
+        "onboard_time": 1694581539,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168748,
+        "num": 168748,
+        "word": "成毅的哈基米跟着他转世了",
+        "onboard_time": 1694593116,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168120,
+        "num": 168120,
+        "word": "华西医院回应男医生被女同事捅伤",
+        "onboard_time": 1694591915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164916,
+        "num": 164916,
+        "word": "内娱今年火出圈的配角",
+        "onboard_time": 1694589635,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153613,
+        "num": 153613,
+        "word": "憋尿睡觉的危害有多大",
+        "onboard_time": 1694593777,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152402,
+        "num": 152402,
+        "word": "谁家男主约会送牛奶",
+        "onboard_time": 1694594077,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141166,
+        "num": 141166,
+        "word": "普京称俄罗斯已准备迎接长期战争",
+        "onboard_time": 1694585735,
+        "rank": 43,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 138532,
+        "num": 138532,
+        "word": "Baggy Jeans 韩国大学考试禁曲",
+        "onboard_time": 1694591014,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135909,
+        "num": 135909,
+        "word": "华为Mate60Pro+体验",
+        "onboard_time": 1694601159,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134192,
+        "num": 134192,
+        "word": "华为小米达成全球专利交叉许可协议",
+        "onboard_time": 1694588316,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126201,
+        "num": 126201,
+        "word": "王冰冰与李白逛吃绵阳",
+        "onboard_time": 1694596597,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113788,
+        "num": 113788,
+        "word": "文淇居然当制片人了",
+        "onboard_time": 1694593177,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112934,
+        "num": 112934,
+        "word": "超异能族",
+        "onboard_time": 1694595817,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}
