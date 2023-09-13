@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694567519320,
+  "endTime": 1694568719355,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -19,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2092204,
-      "num": 2092204,
+      "raw_hot": 2119661,
+      "num": 2119661,
       "word": "蜜雪冰城又被新兵攻陷了",
       "onboard_time": 1694564080,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1504178,
+      "num": 1504178,
+      "word": "扁桃体结石 龙涎香",
+      "onboard_time": 1694565643,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1465086,
       "num": 272346,
       "word": "iPhone15配置售价一图来了",
@@ -65,14 +73,6 @@
       "onboard_time": 1694499099,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1196326,
-      "num": 519759,
-      "word": "扁桃体结石 龙涎香",
-      "onboard_time": 1694565643,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 832257,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628877,
+      "num": 503961,
+      "word": "法院回应鹤岗女子还贷10年房子被占",
+      "onboard_time": 1694567680,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610330,
       "num": 610330,
       "word": "云之羽 决战绿茶之巅",
@@ -112,6 +120,14 @@
       "word": "七仔拒绝了食堂决定自己整点吃的",
       "onboard_time": 1694564383,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584169,
+      "num": 488715,
+      "word": "蜂花客服发声称我们没那么惨",
+      "onboard_time": 1694565404,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -147,6 +163,14 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 553146,
+      "num": 553146,
+      "word": "贾正亮被妈妈强制相亲",
+      "onboard_time": 1694566304,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521959,
       "num": 521959,
       "word": "傅云深吻得好主动",
@@ -163,11 +187,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 511164,
-      "num": 511164,
-      "word": "贾正亮被妈妈强制相亲",
-      "onboard_time": 1694566304,
-      "rank": 13,
+      "raw_hot": 507977,
+      "num": 507977,
+      "word": "优酷他急了",
+      "onboard_time": 1694567740,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -188,11 +212,19 @@
     },
     {
       "raw_hot": 499090,
-      "num": 295048,
+      "num": 325221,
       "word": "我已经长大了 我只要豆浆和油条",
       "onboard_time": 1694564864,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 490468,
+      "num": 490468,
+      "word": "我好像在飞机上拍到五月天了",
+      "onboard_time": 1694566363,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 490402,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 421410,
-      "num": 284465,
+      "num": 323044,
       "word": "这么多年工资涨没涨",
       "onboard_time": 1694561252,
       "rank": 30,
@@ -243,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415088,
-      "num": 415088,
-      "word": "蜂花客服发声称我们没那么惨",
-      "onboard_time": 1694565404,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401754,
       "num": 305833,
       "word": "学校内衣内裤混洗的人贴了文献",
@@ -260,19 +284,11 @@
     },
     {
       "raw_hot": 397647,
-      "num": 281335,
+      "num": 324710,
       "word": "修丽可品牌大使邓为",
       "onboard_time": 1694565164,
       "rank": 23,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 396087,
-      "num": 218527,
-      "word": "我好像在飞机上拍到五月天了",
-      "onboard_time": 1694566363,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 373269,
@@ -339,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326141,
+      "num": 326141,
+      "word": "利比亚东部洪灾遇难者已超5000人",
+      "onboard_time": 1694568037,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315184,
       "num": 315184,
       "word": "宫尚角隐形眼镜忘摘了",
@@ -379,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267959,
+      "num": 267959,
+      "word": "食堂晚上卖烧烤增收供老人免费吃午餐",
+      "onboard_time": 1694568399,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 266734,
       "num": 266734,
       "word": "为什么抽烟的人总喜欢顺打火机",
@@ -392,6 +424,22 @@
       "word": "LPL十周年答谢",
       "onboard_time": 1694565763,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 249919,
+      "num": 249919,
+      "word": "日本计划明年3月底前排放4轮核污染水",
+      "onboard_time": 1694567919,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 242648,
+      "num": 242648,
+      "word": "英雄联盟彼岸灵花皮肤",
+      "onboard_time": 1694567080,
+      "rank": 33,
       "category": "游戏"
     },
     {
@@ -409,6 +457,14 @@
       "onboard_time": 1694528622,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231566,
+      "num": 231566,
+      "word": "画眼线时的一句东方神秘咒语",
+      "onboard_time": 1694566304,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 218788,
@@ -433,14 +489,6 @@
       "onboard_time": 1694564681,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208780,
-      "num": 208780,
-      "word": "英雄联盟彼岸灵花皮肤",
-      "onboard_time": 1694567080,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 206969,
@@ -475,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199896,
+      "num": 199896,
+      "word": "EVA渚薰",
+      "onboard_time": 1694567860,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 199643,
       "num": 199643,
       "word": "心动6男一第八期就告白",
@@ -499,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187075,
+      "num": 187075,
+      "word": "云为衫上官浅合作",
+      "onboard_time": 1694567622,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184918,
       "num": 184918,
       "word": "德国vs法国",
       "onboard_time": 1694560228,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182985,
-      "num": 182985,
-      "word": "画眼线时的一句东方神秘咒语",
-      "onboard_time": 1694566304,
-      "rank": 35,
-      "category": "美妆"
     },
     {
       "raw_hot": 180518,
