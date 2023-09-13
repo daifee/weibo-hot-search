@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694615638407,
+  "endTime": 1694618256049,
   "band_list": [
     {
       "raw_hot": 5696872,
@@ -155,20 +155,20 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 1882851,
+      "num": 1882851,
+      "word": "专家曾称外星人不敢来地球",
+      "onboard_time": 1694611183,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1831007,
       "num": 605025,
       "word": "网友测评79元花西子眉笔能画21个月",
       "onboard_time": 1694531797,
       "rank": 10,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1827774,
-      "num": 1827774,
-      "word": "专家曾称外星人不敢来地球",
-      "onboard_time": 1694611183,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1796981,
@@ -193,6 +193,14 @@
       "onboard_time": 1694602658,
       "rank": 21,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1757191,
+      "num": 1757191,
+      "word": "NARS",
+      "onboard_time": 1694614367,
+      "rank": 48,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 1755247,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1231262,
+      "num": 444692,
+      "word": "邓为 我不信了",
+      "onboard_time": 1694616463,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1215006,
       "num": 1215006,
       "word": "华为发布会",
@@ -393,6 +409,14 @@
       "onboard_time": 1694611363,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 910476,
+      "num": 417127,
+      "word": "檀健次 十六岁以下金奖和一等奖",
+      "onboard_time": 1694616942,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 908988,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 726813,
-      "num": 405276,
+      "num": 407260,
       "word": "26岁姑娘没有任何不适却确诊血癌",
       "onboard_time": 1694610766,
       "rank": 30,
@@ -819,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 528540,
+      "num": 404347,
+      "word": "周笔畅因为忌口太多emo了",
+      "onboard_time": 1694616343,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526031,
       "num": 526031,
       "word": "上海一外卖骑手商场消费后休息遭驱赶",
@@ -1003,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454646,
-      "num": 454646,
-      "word": "NARS",
-      "onboard_time": 1694614367,
-      "rank": 48,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 441514,
       "num": 441514,
       "word": "武艺怎么又有新笑料了",
@@ -1100,7 +1124,7 @@
     },
     {
       "raw_hot": 416324,
-      "num": 349987,
+      "num": 358868,
       "word": "减脂突然就没那么难了",
       "onboard_time": 1694603076,
       "rank": 30,
@@ -1112,6 +1136,14 @@
       "word": "李莲花没死夺舍了傅云深",
       "onboard_time": 1694613766,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 401998,
+      "num": 401998,
+      "word": "你姐让我来看看我小姨",
+      "onboard_time": 1694615263,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1235,6 +1267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 335267,
+      "num": 335267,
+      "word": "海底哥斯拉 海鬣蜥",
+      "onboard_time": 1694616167,
+      "rank": 26,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 334216,
       "num": 334216,
       "word": "日本反对他国直接取样独立检测",
@@ -1307,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311725,
+      "num": 311725,
+      "word": "以前的伍佰和现在的伍佰",
+      "onboard_time": 1694616642,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 311410,
       "num": 311410,
       "word": "程靖淇张巾BE",
@@ -1337,6 +1385,22 @@
       "onboard_time": 1694613942,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 303622,
+      "num": 303622,
+      "word": "邓紫棋巡演",
+      "onboard_time": 1694616404,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 300486,
+      "num": 300486,
+      "word": "十年都没有涨过价东西",
+      "onboard_time": 1694617965,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 300477,
@@ -1379,6 +1443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 290971,
+      "num": 290971,
+      "word": "有什么手机能用八年以上",
+      "onboard_time": 1694614122,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 289862,
       "num": 289862,
       "word": "关晓彤九宫格发了三张",
@@ -1401,6 +1473,14 @@
       "onboard_time": 1694592336,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285888,
+      "num": 285888,
+      "word": "你相信外星人真的存在吗",
+      "onboard_time": 1694617543,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285742,
@@ -1587,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232309,
+      "num": 232309,
+      "word": "小米14",
+      "onboard_time": 1694617366,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 231566,
       "num": 231566,
       "word": "画眼线时的一句东方神秘咒语",
@@ -1659,6 +1747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215589,
+      "num": 215589,
+      "word": "太爱南风知我意的镜头美学",
+      "onboard_time": 1694617965,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215575,
       "num": 215575,
       "word": "云之羽扫楼连线虞书欣张凌赫",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1694561555,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 212716,
+      "num": 212716,
+      "word": "70岁房东失联租客察觉不对果断报警",
+      "onboard_time": 1694618081,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212062,
@@ -1763,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207410,
+      "num": 202284,
+      "word": "一诺巅峰赛第一",
+      "onboard_time": 1694615683,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207217,
       "num": 207217,
       "word": "小时候和长大后生病的区别",
@@ -1833,6 +1945,14 @@
       "onboard_time": 1694588316,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203537,
+      "num": 203537,
+      "word": "任天堂直面会",
+      "onboard_time": 1694617366,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 203474,
@@ -2003,14 +2123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190991,
-      "num": 190991,
-      "word": "你姐让我来看看我小姨",
-      "onboard_time": 1694615263,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190378,
       "num": 190378,
       "word": "夜色尚浅",
@@ -2025,6 +2137,14 @@
       "onboard_time": 1694571458,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188093,
+      "num": 188093,
+      "word": "云为衫无意识流泪",
+      "onboard_time": 1694617839,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 187792,
@@ -2057,6 +2177,14 @@
       "onboard_time": 1694572478,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185243,
+      "num": 185243,
+      "word": "宫二 心动在上元节吃饭",
+      "onboard_time": 1694618203,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 185146,
@@ -2195,16 +2323,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166874,
-      "num": 166874,
-      "word": "有什么手机能用八年以上",
-      "onboard_time": 1694614122,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 165827,
-      "num": 165827,
+      "num": 435714,
       "word": "女子对着监控喊爸爸每一声都有回应",
       "onboard_time": 1694615082,
       "rank": 48,
@@ -2740,7 +2860,7 @@
     },
     {
       "raw_hot": 14483,
-      "num": 1512825,
+      "num": 1808490,
       "word": "高校开学校长寄语合集",
       "onboard_time": 1694578783,
       "rank": 2,
