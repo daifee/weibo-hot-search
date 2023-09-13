@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694626442902,
+  "endTime": 1694629278162,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -267,6 +267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 232789,
+      "num": 232789,
+      "word": "iPhone15配色",
+      "onboard_time": 1694627599,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 224445,
       "num": 224445,
       "word": "取快递被挂上表白墙了",
@@ -355,7 +363,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160609,
+      "raw_hot": 169115,
       "num": 160609,
       "word": "主打一个无人生还",
       "onboard_time": 1694622629,
@@ -435,7 +443,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92512,
+      "raw_hot": 101896,
       "num": 92512,
       "word": "欧美明星居然都这么抗老了",
       "onboard_time": 1694625860,
@@ -451,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68359,
+      "num": 68359,
+      "word": "iPhone15",
+      "onboard_time": 1694627237,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 63277,
       "num": 63277,
       "word": "代号鸢袁基 山月不知心底事",
       "onboard_time": 1694625980,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60302,
+      "num": 60302,
+      "word": "轮到毕雯珺开大了",
+      "onboard_time": 1694627118,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 58904,

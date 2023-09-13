@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694626442902,
+  "endTime": 1694629278162,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -21739,6 +21739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232789,
+      "num": 232789,
+      "word": "iPhone15配色",
+      "onboard_time": 1694627599,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 232295,
       "num": 232295,
       "word": "我看封神质子团belike",
@@ -28403,6 +28411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169115,
+      "num": 160609,
+      "word": "主打一个无人生还",
+      "onboard_time": 1694622629,
+      "rank": 43,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 169112,
       "num": 169112,
       "word": "短暂的网红和长远的工作选哪个",
@@ -29129,14 +29145,6 @@
       "onboard_time": 1694506237,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160609,
-      "num": 160609,
-      "word": "主打一个无人生还",
-      "onboard_time": 1694622629,
-      "rank": 43,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 160522,
@@ -32179,6 +32187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101896,
+      "num": 92512,
+      "word": "欧美明星居然都这么抗老了",
+      "onboard_time": 1694625860,
+      "rank": 37,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 101787,
       "num": 617704,
       "word": "妈妈生日拆礼物跳出退伍儿子",
@@ -32417,14 +32433,6 @@
       "onboard_time": 1693780639,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92512,
-      "num": 92512,
-      "word": "欧美明星居然都这么抗老了",
-      "onboard_time": 1694625860,
-      "rank": 37,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 91486,
@@ -33257,6 +33265,14 @@
       "onboard_time": 1694233233,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60302,
+      "num": 60302,
+      "word": "轮到毕雯珺开大了",
+      "onboard_time": 1694627118,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 59760,
