@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694578819363,
+  "endTime": 1694579644782,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -523,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2800577,
+      "num": 2800577,
+      "word": "无效刷牙",
+      "onboard_time": 1694571997,
+      "rank": 27,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 2796200,
       "num": 548180,
       "word": "花西子散粉贵过香奈儿",
@@ -681,14 +689,6 @@
       "onboard_time": 1694140295,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2637168,
-      "num": 2637168,
-      "word": "无效刷牙",
-      "onboard_time": 1694571997,
-      "rank": 27,
-      "category": "知识科普"
     },
     {
       "raw_hot": 2628220,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1694511702,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1464299,
+      "num": 403499,
+      "word": "女子腹痛不知怀孕医院厕所产女",
+      "onboard_time": 1694577638,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1457025,
@@ -4531,14 +4539,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 890945,
-      "num": 403499,
-      "word": "女子腹痛不知怀孕医院厕所产女",
-      "onboard_time": 1694577638,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 888510,
       "num": 888510,
       "word": "韩国流行的自助煮面火到上海了",
@@ -4960,6 +4960,14 @@
       "word": "国外18岁富家子在普吉岛度假身亡",
       "onboard_time": 1693909117,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830126,
+      "num": 395764,
+      "word": "大爷便秘用30厘米管子为自己掏粪",
+      "onboard_time": 1694578659,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -9147,6 +9155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 537977,
+      "num": 537977,
+      "word": "我们的歌第五季定档",
+      "onboard_time": 1694578360,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537771,
       "num": 537771,
       "word": "邓为茶朔洵跳楼名场面",
@@ -9875,14 +9891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 503696,
-      "num": 503696,
-      "word": "我们的歌第五季定档",
-      "onboard_time": 1694578360,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 503605,
       "num": 500956,
       "word": "世界首富有多爱客串",
@@ -10121,6 +10129,14 @@
       "onboard_time": 1694215225,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493110,
+      "num": 493110,
+      "word": "贾正亮飞刀打伤准女友",
+      "onboard_time": 1694573496,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 492805,
@@ -11041,14 +11057,6 @@
       "onboard_time": 1694190989,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 462470,
-      "num": 462470,
-      "word": "贾正亮飞刀打伤准女友",
-      "onboard_time": 1694573496,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 462173,
@@ -12033,6 +12041,14 @@
       "onboard_time": 1694534614,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426267,
+      "num": 426267,
+      "word": "许凯当选杭州亚运会火炬手",
+      "onboard_time": 1694576255,
+      "rank": 26,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 425772,
@@ -13051,6 +13067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394595,
+      "num": 283259,
+      "word": "金大川他超爱",
+      "onboard_time": 1694578900,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 393966,
       "num": 327641,
       "word": "魏如萱 不管怎样我都要唱",
@@ -14009,6 +14033,14 @@
       "onboard_time": 1694175274,
       "rank": 23,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 361993,
+      "num": 274737,
+      "word": "猫咪躲在台阶上吓学生玩",
+      "onboard_time": 1694578057,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 361987,
@@ -15049,14 +15081,6 @@
       "onboard_time": 1694418334,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332751,
-      "num": 332751,
-      "word": "许凯当选杭州亚运会火炬手",
-      "onboard_time": 1694576255,
-      "rank": 26,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 332547,
@@ -17507,6 +17531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284359,
+      "num": 284359,
+      "word": "凤凰传奇的现场有多快乐",
+      "onboard_time": 1694578838,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284305,
       "num": 284305,
       "word": "王曼昱亚锦赛夺冠",
@@ -19411,14 +19443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 249970,
-      "num": 249970,
-      "word": "猫咪躲在台阶上吓学生玩",
-      "onboard_time": 1694578057,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 249729,
       "num": 249729,
       "word": "知道为什么倒霉的总是你吗",
@@ -20233,14 +20257,6 @@
       "onboard_time": 1694394040,
       "rank": 30,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 238163,
-      "num": 238163,
-      "word": "大爷便秘用30厘米管子为自己掏粪",
-      "onboard_time": 1694578659,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238093,
@@ -22675,6 +22691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206739,
+      "num": 1029682,
+      "word": "杭州亚运会开幕倒计时10天",
+      "onboard_time": 1694578838,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206646,
       "num": 206646,
       "word": "第十八届金鹿奖提名名单",
@@ -22809,6 +22833,14 @@
       "onboard_time": 1694333252,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205305,
+      "num": 205305,
+      "word": "StrayKids获VMA最佳KPOP",
+      "onboard_time": 1694578722,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 205280,
@@ -23065,6 +23097,14 @@
       "onboard_time": 1694220694,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203676,
+      "num": 203676,
+      "word": "古言女主打胎能力堪比人流门诊",
+      "onboard_time": 1694574457,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 203670,
@@ -24275,6 +24315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194947,
+      "num": 194947,
+      "word": "骄阳伴我里的爱永远拿得出手",
+      "onboard_time": 1694578600,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194938,
       "num": 194938,
       "word": "听说很好吃团建式官宣",
@@ -24545,6 +24593,14 @@
       "onboard_time": 1693839457,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192797,
+      "num": 192797,
+      "word": "秘鲁0比1巴西",
+      "onboard_time": 1694579143,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 192780,
@@ -26147,6 +26203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178621,
+      "num": 178621,
+      "word": "Stray Kids TXTVMAs红毯造型",
+      "onboard_time": 1694579440,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178600,
       "num": 173885,
       "word": "不要把重心只放在一个人身上",
@@ -26603,12 +26667,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172489,
-      "num": 172489,
-      "word": "骄阳伴我里的爱永远拿得出手",
-      "onboard_time": 1694578600,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 172659,
+      "num": 172659,
+      "word": "封神小闲笔 姬发烤雨衣",
+      "onboard_time": 1694579504,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 172326,
@@ -27011,20 +27075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167413,
+      "num": 167413,
+      "word": "雪代薰画的李莲花",
+      "onboard_time": 1694578301,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166994,
       "num": 166994,
       "word": "封神哪吒精心为妈妈准备礼物",
       "onboard_time": 1693823315,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166973,
-      "num": 166973,
-      "word": "雪代薰画的李莲花",
-      "onboard_time": 1694578301,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 166968,
@@ -27249,14 +27313,6 @@
       "onboard_time": 1694156914,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164025,
-      "num": 164025,
-      "word": "StrayKids获VMA最佳KPOP",
-      "onboard_time": 1694578722,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 164015,
@@ -29121,14 +29177,6 @@
       "onboard_time": 1693621053,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136816,
-      "num": 202646,
-      "word": "古言女主打胎能力堪比人流门诊",
-      "onboard_time": 1694574457,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 136656,
