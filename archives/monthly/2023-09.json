@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694571734977,
+  "endTime": 1694572442501,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2347163,
+      "num": 605109,
+      "word": "男子考研落榜猥亵11岁女生寻刺激",
+      "onboard_time": 1694569958,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2345927,
       "num": 2345927,
       "word": "为什么卤味三巨头卖不动了",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1694490340,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1814920,
-      "num": 605109,
-      "word": "男子考研落榜猥亵11岁女生寻刺激",
-      "onboard_time": 1694569958,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1804685,
@@ -8011,6 +8011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 593436,
+      "num": 593436,
+      "word": "云之羽 浅之角",
+      "onboard_time": 1694571578,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 592118,
       "num": 575272,
       "word": "李佳琦直播",
@@ -9297,6 +9305,14 @@
       "onboard_time": 1694097520,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526170,
+      "num": 506448,
+      "word": "日本研究机构发生放射性物质泄漏",
+      "onboard_time": 1694570978,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 525950,
@@ -12361,6 +12377,14 @@
       "onboard_time": 1693727315,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 413808,
+      "num": 413808,
+      "word": "为什么排骨比瘦肉卖的贵",
+      "onboard_time": 1694571636,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 413607,
@@ -16667,6 +16691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299164,
+      "num": 299164,
+      "word": "孙颖莎 兼三兼四",
+      "onboard_time": 1694571095,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298909,
       "num": 1135735,
       "word": "她们是老师也是科学大牛",
@@ -19723,6 +19755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242297,
+      "num": 242297,
+      "word": "无效刷牙",
+      "onboard_time": 1694571997,
+      "rank": 27,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 242291,
       "num": 242291,
       "word": "厦门市教育局发布停课紧急通知",
@@ -21412,7 +21452,7 @@
     },
     {
       "raw_hot": 218788,
-      "num": 218788,
+      "num": 220065,
       "word": "早这么劝我我就不熬夜了",
       "onboard_time": 1694537964,
       "rank": 25,
@@ -22044,7 +22084,7 @@
     },
     {
       "raw_hot": 210216,
-      "num": 210216,
+      "num": 220413,
       "word": "VMA红毯",
       "onboard_time": 1694564681,
       "rank": 32,
@@ -23412,7 +23452,7 @@
     },
     {
       "raw_hot": 199896,
-      "num": 199896,
+      "num": 220371,
       "word": "EVA渚薰",
       "onboard_time": 1694567860,
       "rank": 35,
@@ -23508,7 +23548,7 @@
     },
     {
       "raw_hot": 199107,
-      "num": 199107,
+      "num": 220597,
       "word": "云为衫上官浅合作",
       "onboard_time": 1694567622,
       "rank": 39,
@@ -23753,6 +23793,14 @@
       "onboard_time": 1693972778,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197259,
+      "num": 221008,
+      "word": "云之羽小分队新浪扫楼",
+      "onboard_time": 1694572296,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 197238,
@@ -24083,14 +24131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194870,
-      "num": 194870,
-      "word": "孙颖莎 兼三兼四",
-      "onboard_time": 1694571095,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194742,
       "num": 194742,
       "word": "seventeen演唱会",
@@ -24201,14 +24241,6 @@
       "onboard_time": 1693637791,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193908,
-      "num": 193908,
-      "word": "为什么排骨比瘦肉卖的贵",
-      "onboard_time": 1694571636,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 193831,
@@ -24337,6 +24369,14 @@
       "onboard_time": 1693839457,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192780,
+      "num": 220947,
+      "word": "霉霉VMA现场",
+      "onboard_time": 1694571757,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 192757,
@@ -24803,6 +24843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189072,
+      "num": 220806,
+      "word": "WTT球星挑战赛兰州站",
+      "onboard_time": 1694571458,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189020,
       "num": 189020,
       "word": "李彩演 Baggy Jeans Challenge",
@@ -24945,14 +24993,6 @@
       "onboard_time": 1694077418,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187860,
-      "num": 187860,
-      "word": "日本研究机构发生放射性物质泄漏",
-      "onboard_time": 1694570978,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 187841,
@@ -25331,6 +25371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185146,
+      "num": 220714,
+      "word": "张远嘉宾巡演徐良站",
+      "onboard_time": 1694570916,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185103,
       "num": 185103,
       "word": "一到中秋就出现的广东水果",
@@ -25641,14 +25689,6 @@
       "onboard_time": 1694278349,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182543,
-      "num": 182543,
-      "word": "WTT球星挑战赛兰州站",
-      "onboard_time": 1694571458,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 182500,
@@ -26505,14 +26545,6 @@
       "onboard_time": 1694159013,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170284,
-      "num": 170284,
-      "word": "张远嘉宾巡演徐良站",
-      "onboard_time": 1694570916,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 169983,
@@ -27763,6 +27795,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 153475,
+      "num": 220590,
+      "word": "做过教师才会明白教师的苦",
+      "onboard_time": 1694572179,
+      "rank": 39,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 153269,
       "num": 153269,
       "word": "尔冬升推荐第八个嫌疑人",
@@ -28105,14 +28145,6 @@
       "onboard_time": 1693480656,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 148450,
-      "num": 148450,
-      "word": "云之羽 浅之角",
-      "onboard_time": 1694571578,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 148447,

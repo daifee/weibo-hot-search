@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694571734977,
+  "endTime": 1694572442501,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -9,6 +9,14 @@
       "onboard_time": 1694530543,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2347163,
+      "num": 605109,
+      "word": "男子考研落榜猥亵11岁女生寻刺激",
+      "onboard_time": 1694569958,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2324800,
@@ -41,14 +49,6 @@
       "onboard_time": 1694531797,
       "rank": 10,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1814920,
-      "num": 605109,
-      "word": "男子考研落榜猥亵11岁女生寻刺激",
-      "onboard_time": 1694569958,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1796981,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 593436,
+      "num": 593436,
+      "word": "云之羽 浅之角",
+      "onboard_time": 1694571578,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584169,
       "num": 568782,
       "word": "蜂花客服发声称我们没那么惨",
@@ -201,6 +209,14 @@
       "onboard_time": 1694566363,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 526170,
+      "num": 506448,
+      "word": "日本研究机构发生放射性物质泄漏",
+      "onboard_time": 1694570978,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 521959,
@@ -289,6 +305,14 @@
       "onboard_time": 1694531920,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413808,
+      "num": 413808,
+      "word": "为什么排骨比瘦肉卖的贵",
+      "onboard_time": 1694571636,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 401754,
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299164,
+      "num": 299164,
+      "word": "孙颖莎 兼三兼四",
+      "onboard_time": 1694571095,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285742,
       "num": 271761,
       "word": "怪不得她是国民初恋",
@@ -451,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242297,
+      "num": 242297,
+      "word": "无效刷牙",
+      "onboard_time": 1694571997,
+      "rank": 27,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 239692,
       "num": 239692,
       "word": "郭敬明减肥法",
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 218788,
-      "num": 218788,
+      "num": 220065,
       "word": "早这么劝我我就不熬夜了",
       "onboard_time": 1694537964,
       "rank": 25,
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 210216,
-      "num": 210216,
+      "num": 220413,
       "word": "VMA红毯",
       "onboard_time": 1694564681,
       "rank": 32,
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 199896,
-      "num": 199896,
+      "num": 220371,
       "word": "EVA渚薰",
       "onboard_time": 1694567860,
       "rank": 35,
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 199107,
-      "num": 199107,
+      "num": 220597,
       "word": "云为衫上官浅合作",
       "onboard_time": 1694567622,
       "rank": 39,
@@ -563,28 +603,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194870,
-      "num": 194870,
-      "word": "孙颖莎 兼三兼四",
-      "onboard_time": 1694571095,
-      "rank": 29,
+      "raw_hot": 197259,
+      "num": 221008,
+      "word": "云之羽小分队新浪扫楼",
+      "onboard_time": 1694572296,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192780,
+      "num": 220947,
+      "word": "霉霉VMA现场",
+      "onboard_time": 1694571757,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 189072,
+      "num": 220806,
+      "word": "WTT球星挑战赛兰州站",
+      "onboard_time": 1694571458,
+      "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193908,
-      "num": 193908,
-      "word": "为什么排骨比瘦肉卖的贵",
-      "onboard_time": 1694571636,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 187860,
-      "num": 187860,
-      "word": "日本研究机构发生放射性物质泄漏",
-      "onboard_time": 1694570978,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 187792,
@@ -595,19 +635,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185146,
+      "num": 220714,
+      "word": "张远嘉宾巡演徐良站",
+      "onboard_time": 1694570916,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184918,
       "num": 184918,
       "word": "德国vs法国",
       "onboard_time": 1694560228,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 182543,
-      "num": 182543,
-      "word": "WTT球星挑战赛兰州站",
-      "onboard_time": 1694571458,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 177356,
-      "num": 177356,
+      "num": 220523,
       "word": "李佳琦 花西子",
       "onboard_time": 1694330431,
       "rank": 32,
@@ -643,14 +683,6 @@
       "category": "美妆,财经"
     },
     {
-      "raw_hot": 170284,
-      "num": 170284,
-      "word": "张远嘉宾巡演徐良站",
-      "onboard_time": 1694570916,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165799,
       "num": 165799,
       "word": "陈牧驰老兵精神永存",
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 158187,
-      "num": 158187,
+      "num": 220144,
       "word": "李佳琦掉粉",
       "onboard_time": 1694424100,
       "rank": 35,
@@ -707,6 +739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 153475,
+      "num": 220590,
+      "word": "做过教师才会明白教师的苦",
+      "onboard_time": 1694572179,
+      "rank": 39,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 151755,
       "num": 151755,
       "word": "青岛一处有重要史料价值石刻遭水泥涂抹",
@@ -721,14 +761,6 @@
       "onboard_time": 1694524963,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148450,
-      "num": 148450,
-      "word": "云之羽 浅之角",
-      "onboard_time": 1694571578,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 147436,
