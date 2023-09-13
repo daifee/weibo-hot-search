@@ -1,0 +1,410 @@
+{
+  "runTime": 1694646995995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3210690,
+        "num": 3210690,
+        "word": "全球首个承认外星生物存在的国家",
+        "onboard_time": 1694619940,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1249609,
+        "num": 1249609,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71236,
+        "num": 1206029,
+        "word": "亚运会吉祥物3小只宣传片",
+        "onboard_time": 1694609017,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1205847,
+        "num": 1205847,
+        "word": "14岁女孩花10年潜伏进暗恋对象的生活",
+        "onboard_time": 1694620058,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424119,
+        "num": 424119,
+        "word": "70岁房东失联租客察觉不对果断报警",
+        "onboard_time": 1694618081,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417425,
+        "num": 417425,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406714,
+        "num": 406714,
+        "word": "专家曾称外星人不敢来地球",
+        "onboard_time": 1694611183,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397737,
+        "num": 397737,
+        "word": "国家一级演员苏孝林被决定逮捕",
+        "onboard_time": 1694600797,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 290749,
+        "num": 290749,
+        "word": "外交部辟谣中国政府机关禁用苹果手机",
+        "onboard_time": 1694608537,
+        "rank": 8,
+        "category": "国内要闻,数码"
+      },
+      {
+        "raw_hot": 255712,
+        "num": 255712,
+        "word": "库迪和瑞幸的商战",
+        "onboard_time": 1694620716,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 704798,
+        "num": 252450,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 10,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 513411,
+        "num": 248701,
+        "word": "何捷蹲地为张馨予拍照",
+        "onboard_time": 1694612801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300148,
+        "num": 245411,
+        "word": "檀健次 十六岁以下金奖和一等奖",
+        "onboard_time": 1694616942,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135238,
+        "num": 239599,
+        "word": "女子对着监控喊爸爸每一声都有回应",
+        "onboard_time": 1694615082,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79263,
+        "num": 232769,
+        "word": "利比亚东部洪灾已致超6000人遇难",
+        "onboard_time": 1694612861,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 230482,
+        "num": 230482,
+        "word": "海底哥斯拉 海鬣蜥",
+        "onboard_time": 1694616167,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 212465,
+        "num": 212465,
+        "word": "杨紫紫色挑染",
+        "onboard_time": 1694620831,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212205,
+        "num": 212205,
+        "word": "辛苦一晚上偷一条街全得还回去",
+        "onboard_time": 1694646446,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193410,
+        "num": 193410,
+        "word": "李维嘉爸爸面对诈骗的思路",
+        "onboard_time": 1694611363,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186644,
+        "num": 186644,
+        "word": "小说女主待遇级别外貌",
+        "onboard_time": 1694631673,
+        "rank": 19,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 342616,
+        "num": 185533,
+        "word": "26岁姑娘没有任何不适却确诊血癌",
+        "onboard_time": 1694610766,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199494,
+        "num": 185448,
+        "word": "取快递被挂上表白墙了",
+        "onboard_time": 1694610164,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187286,
+        "num": 180887,
+        "word": "骑手 你的外卖很危险",
+        "onboard_time": 1694622451,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170906,
+        "num": 170906,
+        "word": "云之羽扫楼死亡三连问",
+        "onboard_time": 1694646446,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169916,
+        "num": 169916,
+        "word": "邓为 我不信了",
+        "onboard_time": 1694616463,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163677,
+        "num": 163677,
+        "word": "腾讯QQ被处100万元罚款",
+        "onboard_time": 1694612744,
+        "rank": 25,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 150579,
+        "num": 150579,
+        "word": "减脂突然就没那么难了",
+        "onboard_time": 1694603076,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143014,
+        "num": 143014,
+        "word": "你工资减三千还剩多少花西币",
+        "onboard_time": 1694611966,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130359,
+        "num": 130359,
+        "word": "秋天最适合的穿搭公式就是叠穿",
+        "onboard_time": 1694619998,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 130048,
+        "num": 130048,
+        "word": "有什么手机能用八年以上",
+        "onboard_time": 1694614122,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190592,
+        "num": 127926,
+        "word": "金店销售发工资就攒金豆子",
+        "onboard_time": 1694646385,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141284,
+        "num": 126886,
+        "word": "中国第一艘航空母舰叫什么",
+        "onboard_time": 1694646385,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 125764,
+        "word": "周笔畅因为忌口太多emo了",
+        "onboard_time": 1694616343,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113127,
+        "num": 113127,
+        "word": "成毅发了2018年的文案",
+        "onboard_time": 1694611600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112588,
+        "num": 112588,
+        "word": "好的婚姻是什么样子",
+        "onboard_time": 1694644461,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107011,
+        "num": 107011,
+        "word": "国内金价涨破600元",
+        "onboard_time": 1694619879,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106036,
+        "num": 106036,
+        "word": "十年都没有涨过价东西",
+        "onboard_time": 1694617965,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104218,
+        "num": 104218,
+        "word": "你会花4300元买一支口红吗",
+        "onboard_time": 1694601516,
+        "rank": 37,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 102219,
+        "num": 102219,
+        "word": "被骗到缅北有多恐怖",
+        "onboard_time": 1694646385,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101004,
+        "num": 101004,
+        "word": "墨西哥",
+        "onboard_time": 1694646748,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 99322,
+        "num": 99322,
+        "word": "NARS",
+        "onboard_time": 1694614367,
+        "rank": 40,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 99014,
+        "num": 99014,
+        "word": "武大靖 500的神",
+        "onboard_time": 1694622271,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97780,
+        "num": 97780,
+        "word": "轮到毕雯珺开大了",
+        "onboard_time": 1694627118,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96719,
+        "num": 96719,
+        "word": "外星人",
+        "onboard_time": 1694604577,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93677,
+        "num": 93677,
+        "word": "我为全村的老人拍好了遗照",
+        "onboard_time": 1694618920,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92005,
+        "num": 92005,
+        "word": "精心 接商战代打",
+        "onboard_time": 1694618441,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83897,
+        "num": 83897,
+        "word": "一人之下原著作者评异人之下",
+        "onboard_time": 1694620656,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82205,
+        "num": 82205,
+        "word": "中式老钱风",
+        "onboard_time": 1694637553,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 78338,
+        "num": 78338,
+        "word": "中医竟然能给宠物治病",
+        "onboard_time": 1694619820,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 75537,
+        "num": 75537,
+        "word": "田嘉瑞翻牌",
+        "onboard_time": 1694618504,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}
