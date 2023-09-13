@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694561647081,
+  "endTime": 1694567519320,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -347,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2324800,
+      "num": 2324800,
+      "word": "才发现朋友圈发多了会折叠",
+      "onboard_time": 1694563542,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2286273,
       "num": 503634,
       "word": "李鸿其官宣与王紫璇恋情",
@@ -401,6 +409,14 @@
       "onboard_time": 1694499099,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2092204,
+      "num": 2092204,
+      "word": "蜜雪冰城又被新兵攻陷了",
+      "onboard_time": 1694564080,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 2075673,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 1831007,
-      "num": 429555,
+      "num": 516651,
       "word": "网友测评79元花西子眉笔能画21个月",
       "onboard_time": 1694531797,
       "rank": 23,
@@ -625,6 +641,14 @@
       "onboard_time": 1694403342,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1645293,
+      "num": 1645293,
+      "word": "向佐发长文回应为什么不躺平",
+      "onboard_time": 1694561612,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1632080,
@@ -889,6 +913,14 @@
       "onboard_time": 1694493527,
       "rank": 22,
       "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 1196326,
+      "num": 519759,
+      "word": "扁桃体结石 龙涎香",
+      "onboard_time": 1694565643,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1193202,
@@ -1627,8 +1659,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 715325,
+      "num": 715325,
+      "word": "老人穿15元的鞋却给家乡捐了1000万",
+      "onboard_time": 1694562519,
+      "rank": 5,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 711682,
-      "num": 257152,
+      "num": 289423,
       "word": "男孩未注意卫生致猫毛入眼后手术取出",
       "onboard_time": 1694559927,
       "rank": 30,
@@ -1979,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 608587,
+      "num": 608587,
+      "word": "七仔拒绝了食堂决定自己整点吃的",
+      "onboard_time": 1694564383,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604043,
       "num": 604043,
       "word": "时代少年团去了华晨宇演唱会",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1694441809,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 579574,
+      "num": 579574,
+      "word": "月公子居然是左叶演的",
+      "onboard_time": 1694563783,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 573524,
@@ -2259,6 +2315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 521959,
+      "num": 521959,
+      "word": "傅云深吻得好主动",
+      "onboard_time": 1694563302,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521699,
       "num": 521699,
       "word": "心动的信号",
@@ -2297,6 +2361,22 @@
       "onboard_time": 1694510799,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512265,
+      "num": 512265,
+      "word": "Uzi薇恩臻彩",
+      "onboard_time": 1694564025,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 511164,
+      "num": 511164,
+      "word": "贾正亮被妈妈强制相亲",
+      "onboard_time": 1694566304,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 510277,
@@ -2377,6 +2457,14 @@
       "onboard_time": 1694339314,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 499090,
+      "num": 295048,
+      "word": "我已经长大了 我只要豆浆和油条",
+      "onboard_time": 1694564864,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 498669,
@@ -2755,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441514,
+      "num": 441514,
+      "word": "武艺怎么又有新笑料了",
+      "onboard_time": 1694560106,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441121,
       "num": 441121,
       "word": "体型最大的淡水虾",
@@ -2955,6 +3051,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 421410,
+      "num": 284465,
+      "word": "这么多年工资涨没涨",
+      "onboard_time": 1694561252,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421353,
       "num": 404208,
       "word": "性教育第四季正式预告",
@@ -2985,6 +3089,14 @@
       "onboard_time": 1694340334,
       "rank": 18,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 415088,
+      "num": 415088,
+      "word": "蜂花客服发声称我们没那么惨",
+      "onboard_time": 1694565404,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414751,
@@ -3139,12 +3251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397647,
+      "num": 281335,
+      "word": "修丽可品牌大使邓为",
+      "onboard_time": 1694565164,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 396417,
       "num": 396417,
       "word": "生活大爆炸40秒演完奥本海默",
       "onboard_time": 1694499998,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396087,
+      "num": 218527,
+      "word": "我好像在飞机上拍到五月天了",
+      "onboard_time": 1694566363,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 393112,
@@ -3761,14 +3889,6 @@
       "onboard_time": 1694306131,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 326037,
-      "num": 326037,
-      "word": "武艺怎么又有新笑料了",
-      "onboard_time": 1694560106,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 325334,
@@ -4523,6 +4643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277797,
+      "num": 277797,
+      "word": "南风知我意热度破8000",
+      "onboard_time": 1694564204,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276072,
       "num": 276072,
       "word": "我去过墨脱",
@@ -4625,6 +4753,14 @@
       "onboard_time": 1694529881,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268608,
+      "num": 268608,
+      "word": "白百何简冰秋冬穿搭范本",
+      "onboard_time": 1694565944,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267488,
@@ -4785,6 +4921,14 @@
       "onboard_time": 1694274816,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261791,
+      "num": 261791,
+      "word": "LPL十周年答谢",
+      "onboard_time": 1694565763,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 260051,
@@ -5459,6 +5603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218788,
+      "num": 218788,
+      "word": "早这么劝我我就不熬夜了",
+      "onboard_time": 1694537964,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218493,
       "num": 218493,
       "word": "孙阳喝珍珠奶茶掉小珍珠",
@@ -5659,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210216,
+      "num": 210216,
+      "word": "VMA红毯",
+      "onboard_time": 1694564681,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210157,
       "num": 210157,
       "word": "薛之谦福州抢票",
@@ -5715,6 +5875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208780,
+      "num": 208780,
+      "word": "英雄联盟彼岸灵花皮肤",
+      "onboard_time": 1694567080,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208376,
       "num": 208376,
       "word": "千万不要随便给狗子剪头发",
@@ -5761,6 +5929,14 @@
       "onboard_time": 1694324252,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206969,
+      "num": 206969,
+      "word": "带货主播门槛是不是太低了",
+      "onboard_time": 1694562637,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 206288,
@@ -6595,6 +6771,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 182985,
+      "num": 182985,
+      "word": "画眼线时的一句东方神秘咒语",
+      "onboard_time": 1694566304,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 182676,
       "num": 182676,
       "word": "云为衫相亲大片",
@@ -7155,6 +7339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157657,
+      "num": 157657,
+      "word": "4名男生踢正步举遮阳棚为女生挡雨",
+      "onboard_time": 1694561312,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157520,
       "num": 157520,
       "word": "冯宝宝绑架王也",
@@ -7187,6 +7379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154936,
+      "num": 154936,
+      "word": "异人之下风正豪演过刘亦菲表哥",
+      "onboard_time": 1694566659,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154490,
       "num": 154490,
       "word": "胡歌给女儿起名茉莉的原因",
@@ -7201,14 +7401,6 @@
       "onboard_time": 1694431540,
       "rank": 12,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 153533,
-      "num": 130496,
-      "word": "这么多年工资涨没涨",
-      "onboard_time": 1694561252,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153485,
@@ -7241,6 +7433,22 @@
       "onboard_time": 1694270321,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151755,
+      "num": 151755,
+      "word": "青岛一处有重要史料价值石刻遭水泥涂抹",
+      "onboard_time": 1694563180,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151674,
+      "num": 1837453,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150571,
@@ -7307,12 +7515,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146881,
-      "num": 146881,
-      "word": "早这么劝我我就不熬夜了",
-      "onboard_time": 1694537964,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 147436,
+      "num": 147436,
+      "word": "凌晨陪主人取快递的小猫",
+      "onboard_time": 1694547254,
+      "rank": 22,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 146569,
@@ -7427,6 +7635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138475,
+      "num": 138475,
+      "word": "杭州亚运会10天倒计时",
+      "onboard_time": 1694563903,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137725,
       "num": 246911,
       "word": "小朋友给妈妈的夸夸治愈值点满",
@@ -7507,14 +7723,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 130662,
-      "num": 130662,
-      "word": "凌晨陪主人取快递的小猫",
-      "onboard_time": 1694547254,
-      "rank": 22,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 130652,
       "num": 487170,
       "word": "华为智选车发布会",
@@ -7585,14 +7793,6 @@
       "onboard_time": 1694309132,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127359,
-      "num": 127359,
-      "word": "向佐发长文回应为什么不躺平",
-      "onboard_time": 1694561612,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 126214,
@@ -7713,14 +7913,6 @@
       "onboard_time": 1694460855,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111221,
-      "num": 111221,
-      "word": "4名男生踢正步举遮阳棚为女生挡雨",
-      "onboard_time": 1694561312,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109992,
@@ -7904,14 +8096,6 @@
       "word": "中国乡村夜色有多美",
       "onboard_time": 1694312614,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90342,
-      "num": 726703,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1694524963,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694561647081,
+  "endTime": 1694567519320,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -11,8 +11,24 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2324800,
+      "num": 2324800,
+      "word": "才发现朋友圈发多了会折叠",
+      "onboard_time": 1694563542,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2092204,
+      "num": 2092204,
+      "word": "蜜雪冰城又被新兵攻陷了",
+      "onboard_time": 1694564080,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1831007,
-      "num": 314894,
+      "num": 516651,
       "word": "网友测评79元花西子眉笔能画21个月",
       "onboard_time": 1694531797,
       "rank": 10,
@@ -25,6 +41,14 @@
       "onboard_time": 1694523278,
       "rank": 0,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 1645293,
+      "num": 1645293,
+      "word": "向佐发长文回应为什么不躺平",
+      "onboard_time": 1694561612,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1465086,
@@ -43,6 +67,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1196326,
+      "num": 519759,
+      "word": "扁桃体结石 龙涎香",
+      "onboard_time": 1694565643,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 832257,
       "num": 832257,
       "word": "4000万中央资金建3个项目竟全烂尾",
@@ -51,8 +83,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715325,
+      "num": 715325,
+      "word": "老人穿15元的鞋却给家乡捐了1000万",
+      "onboard_time": 1694562519,
+      "rank": 5,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 711682,
-      "num": 257152,
+      "num": 289423,
       "word": "男孩未注意卫生致猫毛入眼后手术取出",
       "onboard_time": 1694559927,
       "rank": 30,
@@ -64,6 +104,22 @@
       "word": "云之羽 决战绿茶之巅",
       "onboard_time": 1694533180,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 608587,
+      "num": 608587,
+      "word": "七仔拒绝了食堂决定自己整点吃的",
+      "onboard_time": 1694564383,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579574,
+      "num": 579574,
+      "word": "月公子居然是左叶演的",
+      "onboard_time": 1694563783,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -91,6 +147,30 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 521959,
+      "num": 521959,
+      "word": "傅云深吻得好主动",
+      "onboard_time": 1694563302,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 512265,
+      "num": 512265,
+      "word": "Uzi薇恩臻彩",
+      "onboard_time": 1694564025,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 511164,
+      "num": 511164,
+      "word": "贾正亮被妈妈强制相亲",
+      "onboard_time": 1694566304,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504932,
       "num": 504932,
       "word": "莲花味精上架79元的套餐",
@@ -105,6 +185,14 @@
       "onboard_time": 1694534016,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 499090,
+      "num": 295048,
+      "word": "我已经长大了 我只要豆浆和油条",
+      "onboard_time": 1694564864,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 490402,
@@ -123,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441514,
+      "num": 441514,
+      "word": "武艺怎么又有新笑料了",
+      "onboard_time": 1694560106,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426703,
       "num": 426703,
       "word": "云之羽 虞书欣演技分析",
       "onboard_time": 1694534614,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421410,
+      "num": 284465,
+      "word": "这么多年工资涨没涨",
+      "onboard_time": 1694561252,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421353,
@@ -139,12 +243,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415088,
+      "num": 415088,
+      "word": "蜂花客服发声称我们没那么惨",
+      "onboard_time": 1694565404,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401754,
       "num": 305833,
       "word": "学校内衣内裤混洗的人贴了文献",
       "onboard_time": 1694515898,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 397647,
+      "num": 281335,
+      "word": "修丽可品牌大使邓为",
+      "onboard_time": 1694565164,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 396087,
+      "num": 218527,
+      "word": "我好像在飞机上拍到五月天了",
+      "onboard_time": 1694566363,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373269,
@@ -211,14 +339,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 326037,
-      "num": 326037,
-      "word": "武艺怎么又有新笑料了",
-      "onboard_time": 1694560106,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315184,
       "num": 315184,
       "word": "宫尚角隐形眼镜忘摘了",
@@ -235,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277797,
+      "num": 277797,
+      "word": "南风知我意热度破8000",
+      "onboard_time": 1694564204,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269355,
       "num": 269355,
       "word": "现在年轻人的工位长这样",
@@ -243,12 +371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268608,
+      "num": 268608,
+      "word": "白百何简冰秋冬穿搭范本",
+      "onboard_time": 1694565944,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266734,
       "num": 266734,
       "word": "为什么抽烟的人总喜欢顺打火机",
       "onboard_time": 1694530303,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261791,
+      "num": 261791,
+      "word": "LPL十周年答谢",
+      "onboard_time": 1694565763,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 239692,
@@ -267,12 +411,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218788,
+      "num": 218788,
+      "word": "早这么劝我我就不熬夜了",
+      "onboard_time": 1694537964,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212917,
       "num": 130207,
       "word": "苹果上架243元C口转换器",
       "onboard_time": 1694561555,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 210216,
+      "num": 210216,
+      "word": "VMA红毯",
+      "onboard_time": 1694564681,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208780,
+      "num": 208780,
+      "word": "英雄联盟彼岸灵花皮肤",
+      "onboard_time": 1694567080,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206969,
+      "num": 206969,
+      "word": "带货主播门槛是不是太低了",
+      "onboard_time": 1694562637,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 205280,
@@ -331,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182985,
+      "num": 182985,
+      "word": "画眼线时的一句东方神秘咒语",
+      "onboard_time": 1694566304,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 180518,
       "num": 180518,
       "word": "取消台胞在闽暂住登记",
@@ -387,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157657,
+      "num": 157657,
+      "word": "4名男生踢正步举遮阳棚为女生挡雨",
+      "onboard_time": 1694561312,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156515,
       "num": 156515,
       "word": "玻利维亚0比3阿根廷",
       "onboard_time": 1694561013,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154936,
+      "num": 154936,
+      "word": "异人之下风正豪演过刘亦菲表哥",
+      "onboard_time": 1694566659,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 154309,
@@ -403,12 +603,28 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 153533,
-      "num": 130496,
-      "word": "这么多年工资涨没涨",
-      "onboard_time": 1694561252,
-      "rank": 30,
+      "raw_hot": 151755,
+      "num": 151755,
+      "word": "青岛一处有重要史料价值石刻遭水泥涂抹",
+      "onboard_time": 1694563180,
+      "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151674,
+      "num": 1837453,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1694524963,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147436,
+      "num": 147436,
+      "word": "凌晨陪主人取快递的小猫",
+      "onboard_time": 1694547254,
+      "rank": 22,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 147336,
@@ -419,12 +635,12 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 146881,
-      "num": 146881,
-      "word": "早这么劝我我就不熬夜了",
-      "onboard_time": 1694537964,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 138475,
+      "num": 138475,
+      "word": "杭州亚运会10天倒计时",
+      "onboard_time": 1694563903,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 137261,
@@ -451,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130662,
-      "num": 130662,
-      "word": "凌晨陪主人取快递的小猫",
-      "onboard_time": 1694547254,
-      "rank": 22,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 128558,
       "num": 128558,
       "word": "分享欲不是喜欢探索欲才是",
@@ -483,28 +691,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127359,
-      "num": 127359,
-      "word": "向佐发长文回应为什么不躺平",
-      "onboard_time": 1694561612,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122689,
       "num": 122689,
       "word": "日本4比2土耳其",
       "onboard_time": 1694532941,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111221,
-      "num": 111221,
-      "word": "4名男生踢正步举遮阳棚为女生挡雨",
-      "onboard_time": 1694561312,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102666,
@@ -521,14 +713,6 @@
       "onboard_time": 1694525804,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90342,
-      "num": 726703,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1694524963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86454,

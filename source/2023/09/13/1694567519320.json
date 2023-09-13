@@ -1,0 +1,410 @@
+{
+  "runTime": 1694567519320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2324800,
+        "num": 2324800,
+        "word": "才发现朋友圈发多了会折叠",
+        "onboard_time": 1694563542,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2092204,
+        "num": 2092204,
+        "word": "蜜雪冰城又被新兵攻陷了",
+        "onboard_time": 1694564080,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151674,
+        "num": 1837453,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1694524963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1645293,
+        "num": 1645293,
+        "word": "向佐发长文回应为什么不躺平",
+        "onboard_time": 1694561612,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084957,
+        "num": 1084957,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 4,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 715325,
+        "num": 715325,
+        "word": "老人穿15元的鞋却给家乡捐了1000万",
+        "onboard_time": 1694562519,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 608587,
+        "num": 608587,
+        "word": "七仔拒绝了食堂决定自己整点吃的",
+        "onboard_time": 1694564383,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579574,
+        "num": 579574,
+        "word": "月公子居然是左叶演的",
+        "onboard_time": 1694563783,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550287,
+        "num": 550287,
+        "word": "4000万中央资金建3个项目竟全烂尾",
+        "onboard_time": 1694531381,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521959,
+        "num": 521959,
+        "word": "傅云深吻得好主动",
+        "onboard_time": 1694563302,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1196326,
+        "num": 519759,
+        "word": "扁桃体结石 龙涎香",
+        "onboard_time": 1694565643,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1145736,
+        "num": 516651,
+        "word": "网友测评79元花西子眉笔能画21个月",
+        "onboard_time": 1694531797,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 512265,
+        "num": 512265,
+        "word": "Uzi薇恩臻彩",
+        "onboard_time": 1694564025,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 511164,
+        "num": 511164,
+        "word": "贾正亮被妈妈强制相亲",
+        "onboard_time": 1694566304,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441514,
+        "num": 441514,
+        "word": "武艺怎么又有新笑料了",
+        "onboard_time": 1694560106,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422989,
+        "num": 422989,
+        "word": "世界首富有多爱客串",
+        "onboard_time": 1694534016,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415088,
+        "num": 415088,
+        "word": "蜂花客服发声称我们没那么惨",
+        "onboard_time": 1694565404,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323991,
+        "num": 323991,
+        "word": "关智斌说是时候利用赵丽颖了",
+        "onboard_time": 1694533180,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322098,
+        "num": 322098,
+        "word": "莲花味精上架79元的套餐",
+        "onboard_time": 1694524062,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 298708,
+        "num": 298708,
+        "word": "日本反对他国直接取样独立检测",
+        "onboard_time": 1694526465,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 499090,
+        "num": 295048,
+        "word": "我已经长大了 我只要豆浆和油条",
+        "onboard_time": 1694564864,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473425,
+        "num": 289423,
+        "word": "男孩未注意卫生致猫毛入眼后手术取出",
+        "onboard_time": 1694559927,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421410,
+        "num": 284465,
+        "word": "这么多年工资涨没涨",
+        "onboard_time": 1694561252,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397647,
+        "num": 281335,
+        "word": "修丽可品牌大使邓为",
+        "onboard_time": 1694565164,
+        "rank": 23,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 277797,
+        "num": 277797,
+        "word": "南风知我意热度破8000",
+        "onboard_time": 1694564204,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268608,
+        "num": 268608,
+        "word": "白百何简冰秋冬穿搭范本",
+        "onboard_time": 1694565944,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262980,
+        "num": 262980,
+        "word": "郑州全面取消限购",
+        "onboard_time": 1694556136,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261791,
+        "num": 261791,
+        "word": "LPL十周年答谢",
+        "onboard_time": 1694565763,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252559,
+        "num": 252559,
+        "word": "现在年轻人的工位长这样",
+        "onboard_time": 1694527182,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218788,
+        "num": 218788,
+        "word": "早这么劝我我就不熬夜了",
+        "onboard_time": 1694537964,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396087,
+        "num": 218527,
+        "word": "我好像在飞机上拍到五月天了",
+        "onboard_time": 1694566363,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217392,
+        "num": 217392,
+        "word": "徐良对张远说我结婚的时候你一定要来",
+        "onboard_time": 1694535511,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210216,
+        "num": 210216,
+        "word": "VMA红毯",
+        "onboard_time": 1694564681,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208780,
+        "num": 208780,
+        "word": "英雄联盟彼岸灵花皮肤",
+        "onboard_time": 1694567080,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206969,
+        "num": 206969,
+        "word": "带货主播门槛是不是太低了",
+        "onboard_time": 1694562637,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 182985,
+        "num": 182985,
+        "word": "画眼线时的一句东方神秘咒语",
+        "onboard_time": 1694566304,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178720,
+        "num": 178720,
+        "word": "学校内衣内裤混洗的人贴了文献",
+        "onboard_time": 1694515898,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173651,
+        "num": 173651,
+        "word": "Angelababy说想学我做的腌水果",
+        "onboard_time": 1694532640,
+        "rank": 37,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 165362,
+        "num": 165362,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165310,
+        "num": 165310,
+        "word": "涉案2亿逃犯报警称被诈骗",
+        "onboard_time": 1694558241,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157657,
+        "num": 157657,
+        "word": "4名男生踢正步举遮阳棚为女生挡雨",
+        "onboard_time": 1694561312,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154936,
+        "num": 154936,
+        "word": "异人之下风正豪演过刘亦菲表哥",
+        "onboard_time": 1694566659,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154508,
+        "num": 154508,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153827,
+        "num": 153827,
+        "word": "12306回应女子买高铁二等座要毛毯",
+        "onboard_time": 1694518957,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151755,
+        "num": 151755,
+        "word": "青岛一处有重要史料价值石刻遭水泥涂抹",
+        "onboard_time": 1694563180,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148589,
+        "num": 148589,
+        "word": "云之羽 决战绿茶之巅",
+        "onboard_time": 1694533180,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147436,
+        "num": 147436,
+        "word": "凌晨陪主人取快递的小猫",
+        "onboard_time": 1694547254,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 141346,
+        "num": 141346,
+        "word": "华为发布会",
+        "onboard_time": 1694499099,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138475,
+        "num": 138475,
+        "word": "杭州亚运会10天倒计时",
+        "onboard_time": 1694563903,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135840,
+        "num": 135840,
+        "word": "宫尚角隐形眼镜忘摘了",
+        "onboard_time": 1694521897,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#恪守立党为公执政为民理念#"
+    }
+  }
+}
