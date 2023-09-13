@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694619261096,
+  "endTime": 1694622053031,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -313,6 +313,14 @@
       "onboard_time": 1693962400,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3392644,
+      "num": 3392644,
+      "word": "全球首个承认外星生物存在的国家",
+      "onboard_time": 1694619940,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 3370539,
@@ -7275,6 +7283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 666407,
+      "num": 666407,
+      "word": "14岁女孩花10年潜伏进暗恋对象的生活",
+      "onboard_time": 1694620058,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 665571,
       "num": 665571,
       "word": "大的死鱼脸 小的死鱼眼",
@@ -7585,6 +7601,14 @@
       "onboard_time": 1693807713,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 647906,
+      "num": 647906,
+      "word": "国货 团结",
+      "onboard_time": 1694619163,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 647808,
@@ -9993,6 +10017,14 @@
       "onboard_time": 1693467460,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 523669,
+      "num": 523669,
+      "word": "70岁房东失联租客察觉不对果断报警",
+      "onboard_time": 1694618081,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523659,
@@ -13611,14 +13643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 400065,
-      "num": 400065,
-      "word": "70岁房东失联租客察觉不对果断报警",
-      "onboard_time": 1694618081,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399961,
       "num": 334695,
       "word": "檀健次莫青成",
@@ -13907,6 +13931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390209,
+      "num": 390209,
+      "word": "田嘉瑞翻牌",
+      "onboard_time": 1694618504,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390141,
       "num": 390141,
       "word": "这8分钟好像过了十几年",
@@ -14007,14 +14039,6 @@
       "num": 384471,
       "word": "爱豆心理真的很强大",
       "onboard_time": 1694507201,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 384435,
-      "num": 384435,
-      "word": "田嘉瑞翻牌",
-      "onboard_time": 1694618504,
       "rank": 24,
       "category": "艺人"
     },
@@ -14667,6 +14691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 365225,
+      "num": 365225,
+      "word": "安宥真 Smoke Challenge",
+      "onboard_time": 1694619221,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 365086,
       "num": 365086,
       "word": "再见爱人3开播",
@@ -14873,6 +14905,14 @@
       "onboard_time": 1694310034,
       "rank": 20,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 360058,
+      "num": 360058,
+      "word": "库迪和瑞幸的商战",
+      "onboard_time": 1694620716,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 359529,
@@ -15737,6 +15777,14 @@
       "onboard_time": 1693814259,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335848,
+      "num": 335848,
+      "word": "一人之下原著作者评异人之下",
+      "onboard_time": 1694620656,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 335792,
@@ -17945,6 +17993,14 @@
       "onboard_time": 1694361636,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 294449,
+      "num": 294449,
+      "word": "杨紫紫色挑染",
+      "onboard_time": 1694620831,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294018,
@@ -20851,6 +20907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243637,
+      "num": 243637,
+      "word": "张淼怡方晓东锁一起了",
+      "onboard_time": 1694619399,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243574,
       "num": 243574,
       "word": "没想到成毅台风还挺活泼的",
@@ -21259,6 +21323,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 238190,
+      "num": 238190,
+      "word": "精心 接商战代打",
+      "onboard_time": 1694618441,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238093,
       "num": 233422,
       "word": "张栋梁叫鬼脚梁的原因",
@@ -21465,6 +21537,14 @@
       "onboard_time": 1693993834,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235603,
+      "num": 235603,
+      "word": "秋天最适合的穿搭公式就是叠穿",
+      "onboard_time": 1694619998,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 235536,
@@ -23307,6 +23387,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 211352,
+      "num": 211352,
+      "word": "中医竟然能给宠物治病",
+      "onboard_time": 1694619820,
+      "rank": 37,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 211206,
       "num": 211206,
       "word": "云之羽今天播2集",
@@ -23361,6 +23449,14 @@
       "onboard_time": 1693537896,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210861,
+      "num": 210861,
+      "word": "国内金价涨破600元",
+      "onboard_time": 1694619879,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 210777,
@@ -23784,14 +23880,6 @@
       "word": "小时候和长大后生病的区别",
       "onboard_time": 1694613942,
       "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 207182,
-      "num": 207182,
-      "word": "精心 接商战代打",
-      "onboard_time": 1694618441,
-      "rank": 40,
       "category": "幽默"
     },
     {
@@ -26923,14 +27011,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 185308,
-      "num": 185308,
-      "word": "国货 团结",
-      "onboard_time": 1694619163,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 185279,
       "num": 185279,
       "word": "这周日是教师节",
@@ -27329,14 +27409,6 @@
       "onboard_time": 1694229152,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181243,
-      "num": 181243,
-      "word": "安宥真 Smoke Challenge",
-      "onboard_time": 1694619221,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 181162,
@@ -27937,6 +28009,14 @@
       "onboard_time": 1694052513,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174482,
+      "num": 174482,
+      "word": "盛阳面对情敌的胜负欲",
+      "onboard_time": 1694621075,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 174473,
