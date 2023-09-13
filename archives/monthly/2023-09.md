@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/13 17:33:58
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/13 18:18:06
 </p>
 </blockquote>
 <p>
@@ -753,6 +753,12 @@ iPhone15取消静音拨片（热度：2651422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C12%E8%BE%90%E5%B0%84%23" target="weibo">
+苹果12辐射（热度：2274476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%80%E6%97%A5%E9%94%80%E5%94%AE542%E4%B8%87%E6%9D%AF%23" target="weibo">
 酱香拿铁一日销售542万杯（热度：2273177）
 </a>
@@ -1341,6 +1347,12 @@ iPhone15四款机型相机曝光（热度：1825898）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%BA%E7%96%91%E4%BC%BC%E6%97%A9%E4%BA%A7%E5%AD%95%E5%A6%87%E5%A4%9A%E5%81%9C6%E5%88%86%E9%92%9F%23" target="weibo">
+高铁为疑似早产孕妇多停6分钟（热度：1755247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%B8%8B%E5%8D%886%E6%97%B6%23" target="weibo">
 香港宣布极端情况至少维持至下午6时（热度：1754232）
 </a>
@@ -1415,12 +1427,6 @@ iPhone15四款机型相机曝光（热度：1825898）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%88%91%E4%BB%AC%E5%BA%94%E6%8E%A5%E5%8F%97%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E9%81%93%E6%AD%89%23" target="weibo">
 胡锡进 我们应接受李佳琦的道歉（热度：1727205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C12%E8%BE%90%E5%B0%84%23" target="weibo">
-苹果12辐射（热度：1725666）
 </a>
 </li>
 
@@ -2583,6 +2589,12 @@ Rose或将和霉霉合作（热度：1140695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%88%86%E5%BC%80%E4%B8%8Ahi6%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+虞书欣回应分开上hi6的原因（热度：1113625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23" target="weibo">
 蔡依林恭喜马龙夺冠（热度：1112394）
 </a>
@@ -3407,6 +3419,12 @@ TTG对战狼队（热度：943547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E4%B8%8A%E6%9E%B679%E5%85%83%E7%9A%84%E5%A5%97%E9%A4%90%23" target="weibo">
 莲花味精上架79元的套餐（热度：911516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E7%A7%B0%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%23" target="weibo">
+交通局称北极鲶鱼炫富事件不予公开（热度：909774）
 </a>
 </li>
 
@@ -4863,12 +4881,6 @@ iPhone15系列爆料（热度：720877）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%BA%E7%96%91%E4%BC%BC%E6%97%A9%E4%BA%A7%E5%AD%95%E5%A6%87%E5%A4%9A%E5%81%9C6%E5%88%86%E9%92%9F%23" target="weibo">
-高铁为疑似早产孕妇多停6分钟（热度：707419）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%93%AD%E4%BA%86%23" target="weibo">
 黄宗泽哭了（热度：706329）
 </a>
@@ -5529,6 +5541,12 @@ SM编舞总监跳槽HYBE（热度：652698）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%B8%81%23" target="weibo">
+花西币（热度：648420）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%B1%E6%AD%89%E9%99%88%E6%99%93%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B8%85%23" target="weibo">
 抱歉陈晓是真的帅（热度：648183）
 </a>
@@ -5993,24 +6011,6 @@ G社拍的倪妮（热度：623553）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%B8%8B%E5%88%B0%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23" target="weibo">
 厦门暴雨下到全国第一（热度：611003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%8D%E6%AC%A1%E6%8F%90%E5%90%8D%E9%87%91%E9%B9%BF%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E6%BC%94%E5%91%98%23" target="weibo">
-朱一龙再次提名金鹿奖最佳男演员（热度：610827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B343%E5%B9%B4%E9%A6%96%E6%AC%A1%E8%B5%A2%E4%B8%8D%E4%BA%86%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23" target="weibo">
-国足43年首次赢不了马来西亚（热度：610545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E8%AF%AF%E4%BC%A4%E5%AE%AB%E8%BF%9C%E5%BE%B5%23" target="weibo">
-宫尚角误伤宫远徵（热度：610410）
 </a>
 </li>
 

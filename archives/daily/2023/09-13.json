@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694597638556,
+  "endTime": 1694600286083,
   "band_list": [
     {
       "raw_hot": 2853167,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2274476,
+      "num": 387795,
+      "word": "苹果12辐射",
+      "onboard_time": 1694595219,
+      "rank": 17,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 2187161,
       "num": 2187161,
       "word": "演员滕汝骏去世",
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1755247,
+      "num": 1755247,
+      "word": "高铁为疑似早产孕妇多停6分钟",
+      "onboard_time": 1694596536,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1734244,
       "num": 1734244,
       "word": "高铁化妆",
       "onboard_time": 1694585195,
       "rank": 24,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 1725666,
-      "num": 325860,
-      "word": "苹果12辐射",
-      "onboard_time": 1694595219,
-      "rank": 17,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 1699281,
@@ -227,6 +235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1113625,
+      "num": 1113625,
+      "word": "虞书欣回应分开上hi6的原因",
+      "onboard_time": 1694598760,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1048805,
       "num": 1048805,
       "word": "武汉一公交突发意外致2死3伤",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 943100,
-      "num": 311101,
+      "num": 343931,
       "word": "张拿铁户口本丢了",
       "onboard_time": 1694594562,
       "rank": 30,
@@ -249,6 +265,14 @@
       "onboard_time": 1694584414,
       "rank": 5,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 909774,
+      "num": 365236,
+      "word": "交通局称北极鲶鱼炫富事件不予公开",
+      "onboard_time": 1694596897,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 908988,
@@ -379,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707419,
-      "num": 707419,
-      "word": "高铁为疑似早产孕妇多停6分钟",
-      "onboard_time": 1694596536,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 701754,
       "num": 701754,
       "word": "云之羽扫楼跳虞书欣ohmy",
@@ -401,6 +417,14 @@
       "onboard_time": 1694576435,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 648420,
+      "num": 355591,
+      "word": "花西币",
+      "onboard_time": 1694599476,
+      "rank": 18,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 645820,
@@ -547,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 547927,
+      "num": 343438,
+      "word": "G社拍的卢昱晓",
+      "onboard_time": 1694595817,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 539779,
       "num": 539779,
       "word": "华为Mate60是如何逆袭的",
@@ -593,14 +625,6 @@
       "onboard_time": 1694589635,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 517854,
-      "num": 305569,
-      "word": "G社拍的卢昱晓",
-      "onboard_time": 1694595817,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 516310,
@@ -747,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 430778,
+      "num": 871113,
+      "word": "大学生模仿主播带货形式推荐母校",
+      "onboard_time": 1694597559,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 430578,
       "num": 325598,
       "word": "长期穿洞洞鞋可能让腿变弯",
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 430362,
-      "num": 430362,
+      "num": 496200,
       "word": "丈夫瘫痪妻子说该我为这个家付出了",
       "onboard_time": 1694591676,
       "rank": 22,
@@ -819,6 +851,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 394435,
+      "num": 394435,
+      "word": "那山那人那狗",
+      "onboard_time": 1694595876,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 373269,
       "num": 271765,
       "word": "南风知我意空镜",
@@ -841,14 +881,6 @@
       "onboard_time": 1694578057,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 361581,
-      "num": 296610,
-      "word": "那山那人那狗",
-      "onboard_time": 1694595876,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 357991,
@@ -929,14 +961,6 @@
       "onboard_time": 1694526225,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 328664,
-      "num": 286953,
-      "word": "交通局称北极鲶鱼炫富事件不予公开",
-      "onboard_time": 1694596897,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326141,
@@ -1024,6 +1048,14 @@
       "word": "南风知我意热度破8000",
       "onboard_time": 1694564204,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275466,
+      "num": 391522,
+      "word": "宫三的命也是命",
+      "onboard_time": 1694597978,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -1251,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209571,
+      "num": 209571,
+      "word": "高瀚宇在密室被范世錡拖着走",
+      "onboard_time": 1694598695,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207084,
       "num": 207084,
       "word": "邓为清冷感黑西装",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1694562637,
       "rank": 34,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 206966,
+      "num": 202186,
+      "word": "你们到底怎么弄的教教我行不行",
+      "onboard_time": 1694599416,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 206739,
@@ -1771,20 +1819,20 @@
       "category": "剧集,美妆"
     },
     {
-      "raw_hot": 135492,
-      "num": 135492,
-      "word": "大学生模仿主播带货形式推荐母校",
-      "onboard_time": 1694597559,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 135326,
       "num": 135326,
       "word": "分手谈出了离职的感觉",
       "onboard_time": 1694516200,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134286,
+      "num": 134286,
+      "word": "学校为脑瘫女孩豆豆改造厕所",
+      "onboard_time": 1694600197,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132637,
@@ -1804,7 +1852,7 @@
     },
     {
       "raw_hot": 131578,
-      "num": 1016035,
+      "num": 1092869,
       "word": "我国首艘国产大型邮轮试航成功",
       "onboard_time": 1694592158,
       "rank": 2,
@@ -2033,6 +2081,14 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16459,
+      "num": 372875,
+      "word": "钟表与奇迹制表工艺",
+      "onboard_time": 1694599237,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 5003,
