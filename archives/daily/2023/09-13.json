@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694596630332,
+  "endTime": 1694597638556,
   "band_list": [
     {
       "raw_hot": 2853167,
@@ -131,6 +131,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 1725666,
+      "num": 325860,
+      "word": "苹果12辐射",
+      "onboard_time": 1694595219,
+      "rank": 17,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 1699281,
       "num": 483891,
       "word": "眉笔价格不能只论笔芯",
@@ -145,6 +153,14 @@
       "onboard_time": 1694561612,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1624137,
+      "num": 1624137,
+      "word": "12306称没有高铁不能化妆相关规定",
+      "onboard_time": 1694593656,
+      "rank": 35,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 1514147,
@@ -203,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1224395,
-      "num": 1224395,
-      "word": "12306称没有高铁不能化妆相关规定",
-      "onboard_time": 1694593656,
-      "rank": 35,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 1215006,
       "num": 1215006,
       "word": "华为发布会",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 943100,
-      "num": 256474,
+      "num": 311101,
       "word": "张拿铁户口本丢了",
       "onboard_time": 1694594562,
       "rank": 30,
@@ -243,6 +251,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 908988,
+      "num": 908988,
+      "word": "虞书欣 姐姐跳得坠好啦",
+      "onboard_time": 1694594858,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 899284,
       "num": 899284,
       "word": "法院回应鹤岗女子还贷10年房子被占",
@@ -251,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 883152,
-      "num": 883152,
-      "word": "虞书欣 姐姐跳得坠好啦",
-      "onboard_time": 1694594858,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 857447,
+      "num": 857447,
+      "word": "北极鲶鱼事件交通局答复是否有法律依据",
+      "onboard_time": 1694595997,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 849096,
@@ -305,14 +321,6 @@
       "onboard_time": 1694588316,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 779993,
-      "num": 315919,
-      "word": "苹果12辐射",
-      "onboard_time": 1694595219,
-      "rank": 17,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 776886,
@@ -368,6 +376,14 @@
       "word": "男孩未注意卫生致猫毛入眼后手术取出",
       "onboard_time": 1694559927,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707419,
+      "num": 707419,
+      "word": "高铁为疑似早产孕妇多停6分钟",
+      "onboard_time": 1694596536,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 555879,
-      "num": 256192,
+      "num": 260066,
       "word": "马斯克曾要求前女友cos守望天使",
       "onboard_time": 1694594797,
       "rank": 31,
@@ -577,6 +593,14 @@
       "onboard_time": 1694589635,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 517854,
+      "num": 305569,
+      "word": "G社拍的卢昱晓",
+      "onboard_time": 1694595817,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 516310,
@@ -819,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 361581,
+      "num": 296610,
+      "word": "那山那人那狗",
+      "onboard_time": 1694595876,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357991,
       "num": 357991,
       "word": "成毅换了微博头像",
@@ -899,6 +931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328664,
+      "num": 286953,
+      "word": "交通局称北极鲶鱼炫富事件不予公开",
+      "onboard_time": 1694596897,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326141,
       "num": 326141,
       "word": "利比亚东部洪灾遇难者已超5000人",
@@ -929,14 +969,6 @@
       "onboard_time": 1694593718,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301516,
-      "num": 301516,
-      "word": "G社拍的卢昱晓",
-      "onboard_time": 1694595817,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 299164,
@@ -992,6 +1024,14 @@
       "word": "南风知我意热度破8000",
       "onboard_time": 1694564204,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 271589,
+      "num": 271589,
+      "word": "谁家男主约会送牛奶",
+      "onboard_time": 1694594077,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1059,14 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239623,
-      "num": 317110,
-      "word": "北极鲶鱼事件交通局答复是否有法律依据",
-      "onboard_time": 1694595997,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238828,
       "num": 238828,
       "word": "白敬亭说录节目一直盯着沈腾",
@@ -1131,6 +1163,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 221768,
+      "num": 221768,
+      "word": "最还原原著的角色",
+      "onboard_time": 1694593296,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219888,
       "num": 219888,
       "word": "被猫坚定选中的人",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1694537964,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216865,
-      "num": 216865,
-      "word": "最还原原著的角色",
-      "onboard_time": 1694593296,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 215575,
@@ -1216,14 +1248,6 @@
       "word": "田曦薇大奉打更人红衣路透",
       "onboard_time": 1694575179,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208549,
-      "num": 208549,
-      "word": "谁家男主约会送牛奶",
-      "onboard_time": 1694594077,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1289,14 +1313,6 @@
       "onboard_time": 1694591615,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203097,
-      "num": 203097,
-      "word": "那山那人那狗",
-      "onboard_time": 1694595876,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 202655,
@@ -1499,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179075,
+      "num": 179075,
+      "word": "王冰冰与李白逛吃绵阳",
+      "onboard_time": 1694596597,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178621,
       "num": 178621,
       "word": "Stray Kids TXTVMAs红毯造型",
@@ -1579,12 +1603,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163551,
+      "num": 163551,
+      "word": "爸妈会像小时候那样接我放学",
+      "onboard_time": 1694596536,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161750,
+      "num": 161750,
+      "word": "民警百米冲刺最后一秒救下轻生男子",
+      "onboard_time": 1694597435,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159267,
       "num": 159267,
       "word": "未定事件簿邀请函",
       "onboard_time": 1694577458,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159133,
+      "num": 159133,
+      "word": "化妆品能不能像买菜论斤算价",
+      "onboard_time": 1694596773,
+      "rank": 44,
+      "category": "社会议题,美妆"
     },
     {
       "raw_hot": 158187,
@@ -1723,6 +1771,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 135492,
+      "num": 135492,
+      "word": "大学生模仿主播带货形式推荐母校",
+      "onboard_time": 1694597559,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 135326,
       "num": 135326,
       "word": "分手谈出了离职的感觉",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1694590174,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131578,
+      "num": 1016035,
+      "word": "我国首艘国产大型邮轮试航成功",
+      "onboard_time": 1694592158,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130459,
@@ -1779,28 +1843,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127545,
-      "num": 127545,
-      "word": "高铁为疑似早产孕妇多停6分钟",
-      "onboard_time": 1694596536,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126138,
       "num": 168347,
       "word": "精心商战 平等地创飞每一个官方",
       "onboard_time": 1694585915,
       "rank": 44,
       "category": "其它"
-    },
-    {
-      "raw_hot": 124604,
-      "num": 1009788,
-      "word": "我国首艘国产大型邮轮试航成功",
-      "onboard_time": 1694592158,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122689,
@@ -1825,14 +1873,6 @@
       "onboard_time": 1694569896,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103474,
-      "num": 125142,
-      "word": "王冰冰与李白逛吃绵阳",
-      "onboard_time": 1694596597,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102666,

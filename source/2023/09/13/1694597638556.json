@@ -1,0 +1,410 @@
+{
+  "runTime": 1694597638556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1624137,
+        "num": 1624137,
+        "word": "12306称没有高铁不能化妆相关规定",
+        "onboard_time": 1694593656,
+        "rank": 0,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1612569,
+        "num": 1612569,
+        "word": "演员滕汝骏去世",
+        "onboard_time": 1694592398,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131578,
+        "num": 1016035,
+        "word": "我国首艘国产大型邮轮试航成功",
+        "onboard_time": 1694592158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908988,
+        "num": 908988,
+        "word": "虞书欣 姐姐跳得坠好啦",
+        "onboard_time": 1694594858,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 857447,
+        "num": 857447,
+        "word": "北极鲶鱼事件交通局答复是否有法律依据",
+        "onboard_time": 1694595997,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707419,
+        "num": 707419,
+        "word": "高铁为疑似早产孕妇多停6分钟",
+        "onboard_time": 1694596536,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666599,
+        "num": 666599,
+        "word": "孟宴臣高启强 双疯",
+        "onboard_time": 1694593656,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490108,
+        "num": 490108,
+        "word": "丞磊脸红得快熟了",
+        "onboard_time": 1694593537,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397696,
+        "num": 397696,
+        "word": "吴昕的家务极限还不到别人及格线",
+        "onboard_time": 1694594198,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326469,
+        "num": 326469,
+        "word": "男子发现女儿非亲生伪造亲子鉴定落户",
+        "onboard_time": 1694581837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1725666,
+        "num": 325860,
+        "word": "苹果12辐射",
+        "onboard_time": 1694595219,
+        "rank": 10,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 1601477,
+        "num": 322070,
+        "word": "眉笔价格不能只论笔芯",
+        "onboard_time": 1694590717,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1462028,
+        "num": 321378,
+        "word": "法国决定禁售iPhone12",
+        "onboard_time": 1694589392,
+        "rank": 12,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 151346,
+        "num": 317210,
+        "word": "要求大型演出实名购票实名入场",
+        "onboard_time": 1694586696,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 88316,
+        "num": 314052,
+        "word": "大熊猫滑草爬树样样行",
+        "onboard_time": 1694589757,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900730,
+        "num": 312192,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741672,
+        "num": 311101,
+        "word": "张拿铁户口本丢了",
+        "onboard_time": 1694594562,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 547746,
+        "num": 307287,
+        "word": "多个账号为劣迹艺人洗白鸣冤被处理",
+        "onboard_time": 1694586455,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 517854,
+        "num": 305569,
+        "word": "G社拍的卢昱晓",
+        "onboard_time": 1694595817,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 409048,
+        "num": 303420,
+        "word": "高铁化妆",
+        "onboard_time": 1694585195,
+        "rank": 19,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 437348,
+        "num": 300716,
+        "word": "女子腹痛不知怀孕医院厕所产女",
+        "onboard_time": 1694577638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361581,
+        "num": 296610,
+        "word": "那山那人那狗",
+        "onboard_time": 1694595876,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358272,
+        "num": 295438,
+        "word": "蜂花蹲热点引发行业人士反感",
+        "onboard_time": 1694580340,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352026,
+        "num": 293446,
+        "word": "云之羽扫楼跳虞书欣ohmy",
+        "onboard_time": 1694591136,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342097,
+        "num": 290346,
+        "word": "华西医院回应男医生被女同事捅伤",
+        "onboard_time": 1694591915,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328664,
+        "num": 286953,
+        "word": "交通局称北极鲶鱼炫富事件不予公开",
+        "onboard_time": 1694596897,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285902,
+        "num": 285902,
+        "word": "余华 累了就休息",
+        "onboard_time": 1694592336,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283044,
+        "num": 283044,
+        "word": "憋尿睡觉的危害有多大",
+        "onboard_time": 1694593777,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271589,
+        "num": 271589,
+        "word": "谁家男主约会送牛奶",
+        "onboard_time": 1694594077,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261882,
+        "num": 261882,
+        "word": "成毅的哈基米跟着他转世了",
+        "onboard_time": 1694593116,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466719,
+        "num": 260066,
+        "word": "马斯克曾要求前女友cos守望天使",
+        "onboard_time": 1694594797,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253709,
+        "num": 253709,
+        "word": "口臭的源头可能是扁桃体结石",
+        "onboard_time": 1694587116,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227678,
+        "num": 227678,
+        "word": "年轻人不换手机换手机壳",
+        "onboard_time": 1694590115,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223259,
+        "num": 223259,
+        "word": "内娱今年火出圈的配角",
+        "onboard_time": 1694589635,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221768,
+        "num": 221768,
+        "word": "最还原原著的角色",
+        "onboard_time": 1694593296,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220583,
+        "num": 220583,
+        "word": "华为小米达成全球专利交叉许可协议",
+        "onboard_time": 1694588316,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216518,
+        "num": 216518,
+        "word": "陶白白走秀",
+        "onboard_time": 1694591796,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202495,
+        "num": 202495,
+        "word": "日本超级软饭男",
+        "onboard_time": 1694581539,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197966,
+        "num": 197966,
+        "word": "Baggy Jeans 韩国大学考试禁曲",
+        "onboard_time": 1694591014,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179437,
+        "num": 179437,
+        "word": "文淇居然当制片人了",
+        "onboard_time": 1694593177,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179075,
+        "num": 179075,
+        "word": "王冰冰与李白逛吃绵阳",
+        "onboard_time": 1694596597,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166631,
+        "num": 166631,
+        "word": "丈夫瘫痪妻子说该我为这个家付出了",
+        "onboard_time": 1694591676,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 163551,
+        "num": 163551,
+        "word": "爸妈会像小时候那样接我放学",
+        "onboard_time": 1694596536,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161750,
+        "num": 161750,
+        "word": "民警百米冲刺最后一秒救下轻生男子",
+        "onboard_time": 1694597435,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159133,
+        "num": 159133,
+        "word": "化妆品能不能像买菜论斤算价",
+        "onboard_time": 1694596773,
+        "rank": 44,
+        "category": "社会议题,美妆"
+      },
+      {
+        "raw_hot": 159013,
+        "num": 159013,
+        "word": "被猫坚定选中的人",
+        "onboard_time": 1694592456,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 153053,
+        "num": 153053,
+        "word": "普京称俄罗斯已准备迎接长期战争",
+        "onboard_time": 1694585735,
+        "rank": 46,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 147819,
+        "num": 147819,
+        "word": "泰国对中国实施5个月免签政策",
+        "onboard_time": 1694584414,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 139533,
+        "num": 139533,
+        "word": "魏大勋李庚希拍吻戏",
+        "onboard_time": 1694583874,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135492,
+        "num": 135492,
+        "word": "大学生模仿主播带货形式推荐母校",
+        "onboard_time": 1694597559,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给红其拉甫海关全体关员回信#"
+    }
+  }
+}
