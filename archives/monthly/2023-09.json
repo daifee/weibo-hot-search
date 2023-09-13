@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694609382764,
+  "endTime": 1694611272915,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -145,6 +145,14 @@
       "onboard_time": 1694330431,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4547354,
+      "num": 4547354,
+      "word": "UFO",
+      "onboard_time": 1694608364,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4326833,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1693572699,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2078993,
+      "num": 351452,
+      "word": "三斤花西子可以买一套房",
+      "onboard_time": 1694609798,
+      "rank": 11,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 2075673,
@@ -2627,14 +2643,6 @@
       "category": "情感,美食"
     },
     {
-      "raw_hot": 1430252,
-      "num": 1430252,
-      "word": "UFO",
-      "onboard_time": 1694608364,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1429846,
       "num": 1429846,
       "word": "酱香拿铁已经火到韩国了",
@@ -2697,6 +2705,14 @@
       "onboard_time": 1693981116,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1407113,
+      "num": 1407113,
+      "word": "外交部辟谣中国政府机关禁用苹果手机",
+      "onboard_time": 1694608537,
+      "rank": 4,
+      "category": "国内要闻,数码"
     },
     {
       "raw_hot": 1406783,
@@ -4385,14 +4401,6 @@
       "onboard_time": 1694594562,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 941772,
-      "num": 941772,
-      "word": "外交部辟谣中国政府机关禁用苹果手机",
-      "onboard_time": 1694608537,
-      "rank": 4,
-      "category": "国内要闻,数码"
     },
     {
       "raw_hot": 940506,
@@ -7553,6 +7561,14 @@
       "onboard_time": 1694529583,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 643291,
+      "num": 336512,
+      "word": "取快递被挂上表白墙了",
+      "onboard_time": 1694610164,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 643239,
@@ -12956,7 +12972,7 @@
     },
     {
       "raw_hot": 416324,
-      "num": 321456,
+      "num": 333146,
       "word": "减脂突然就没那么难了",
       "onboard_time": 1694603076,
       "rank": 30,
@@ -13904,6 +13920,14 @@
       "word": "房东溜进租客房间被监控直播",
       "onboard_time": 1693735656,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382560,
+      "num": 187608,
+      "word": "26岁姑娘没有任何不适却确诊血癌",
+      "onboard_time": 1694610766,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -15289,6 +15313,14 @@
       "onboard_time": 1693641873,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342279,
+      "num": 342279,
+      "word": "制作方否认高铁化妆视频不尊重女性",
+      "onboard_time": 1694607759,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342203,
@@ -16779,6 +16811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311410,
+      "num": 311410,
+      "word": "程靖淇张巾BE",
+      "onboard_time": 1694610879,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310645,
       "num": 310645,
       "word": "建议彭昱畅别看",
@@ -17345,6 +17385,14 @@
       "onboard_time": 1694180138,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 300477,
+      "num": 460075,
+      "word": "简阳一塔吊垮塌致6人死亡",
+      "onboard_time": 1694608968,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300354,
@@ -18177,6 +18225,14 @@
       "onboard_time": 1694578838,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284308,
+      "num": 284308,
+      "word": "关晓彤九宫格发了三张",
+      "onboard_time": 1694608778,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 284305,
@@ -20201,6 +20257,14 @@
       "onboard_time": 1694166337,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248502,
+      "num": 186628,
+      "word": "原来老板口中的亏了是这个意思",
+      "onboard_time": 1694609622,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 248480,
@@ -22707,14 +22771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214804,
-      "num": 214804,
-      "word": "制作方否认高铁化妆视频不尊重女性",
-      "onboard_time": 1694607759,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214717,
       "num": 214717,
       "word": "女孩开学坐最后一排反安慰妈妈",
@@ -23033,14 +23089,6 @@
       "onboard_time": 1693528779,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210580,
-      "num": 460075,
-      "word": "简阳一塔吊垮塌致6人死亡",
-      "onboard_time": 1694608968,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210421,
@@ -27115,6 +27163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179016,
+      "num": 179016,
+      "word": "专家曾称外星人不敢来地球",
+      "onboard_time": 1694611183,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178954,
       "num": 246944,
       "word": "中国的银行AI有多牛",
@@ -27281,14 +27337,6 @@
       "onboard_time": 1693646134,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176909,
-      "num": 176909,
-      "word": "关晓彤九宫格发了三张",
-      "onboard_time": 1694608778,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 176882,
@@ -27520,6 +27568,14 @@
       "word": "深圳罗湖区停工",
       "onboard_time": 1694132617,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174219,
+      "num": 174219,
+      "word": "高铁化妆争议视频制作方回应",
+      "onboard_time": 1694609379,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -31227,6 +31283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114476,
+      "num": 114476,
+      "word": "又一次被文字的力量击中心脏",
+      "onboard_time": 1694611183,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113604,
       "num": 353890,
       "word": "搞线下还得看三星",
@@ -34059,6 +34123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13037,
+      "num": 1488147,
+      "word": "高校开学校长寄语合集",
+      "onboard_time": 1694578783,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8383,
       "num": 205589,
       "word": "2023服贸会有哪些科技亮点",
@@ -34071,14 +34143,6 @@
       "num": 1129847,
       "word": "开学季注意防范6类易高发疾病",
       "onboard_time": 1693571497,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5003,
-      "num": 1158938,
-      "word": "高校开学校长寄语合集",
-      "onboard_time": 1694578783,
       "rank": 2,
       "category": "社会新闻"
     }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694611272915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4547354,
+        "num": 4547354,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1679494,
+        "num": 1679494,
+        "word": "国家一级演员苏孝林被决定逮捕",
+        "onboard_time": 1694600797,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 13037,
+        "num": 1488147,
+        "word": "高校开学校长寄语合集",
+        "onboard_time": 1694578783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407113,
+        "num": 1407113,
+        "word": "外交部辟谣中国政府机关禁用苹果手机",
+        "onboard_time": 1694608537,
+        "rank": 3,
+        "category": "国内要闻,数码"
+      },
+      {
+        "raw_hot": 831602,
+        "num": 831602,
+        "word": "你会花4300元买一支口红吗",
+        "onboard_time": 1694601516,
+        "rank": 4,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 589755,
+        "num": 589755,
+        "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+        "onboard_time": 1694604636,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500280,
+        "num": 500280,
+        "word": "曝金赫拉对三人施暴道歉了七次",
+        "onboard_time": 1694607162,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457998,
+        "num": 457998,
+        "word": "上海一外卖骑手商场消费后休息遭驱赶",
+        "onboard_time": 1694604032,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365396,
+        "num": 365396,
+        "word": "10月是极好的辞职的季节",
+        "onboard_time": 1694603137,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353683,
+        "num": 353683,
+        "word": "成毅身在莲花楼心在南风知我意",
+        "onboard_time": 1694604875,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4697425,
+        "num": 353120,
+        "word": "外星人",
+        "onboard_time": 1694604577,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2078993,
+        "num": 351452,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 11,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 888655,
+        "num": 350329,
+        "word": "花西币",
+        "onboard_time": 1694599476,
+        "rank": 12,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 300477,
+        "num": 348029,
+        "word": "简阳一塔吊垮塌致6人死亡",
+        "onboard_time": 1694608968,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183534,
+        "num": 346634,
+        "word": "近4成职场人遭遇降薪",
+        "onboard_time": 1694601698,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 772139,
+        "num": 345227,
+        "word": "女子自曝因买350元柜子遭家暴",
+        "onboard_time": 1694606975,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595257,
+        "num": 344426,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521282,
+        "num": 342892,
+        "word": "苹果12辐射",
+        "onboard_time": 1694595219,
+        "rank": 17,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 342279,
+        "num": 342279,
+        "word": "制作方否认高铁化妆视频不尊重女性",
+        "onboard_time": 1694607759,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341283,
+        "num": 341283,
+        "word": "虞书欣回应分开上hi6的原因",
+        "onboard_time": 1694598760,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643291,
+        "num": 336512,
+        "word": "取快递被挂上表白墙了",
+        "onboard_time": 1694610164,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381275,
+        "num": 333146,
+        "word": "减脂突然就没那么难了",
+        "onboard_time": 1694603076,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 311410,
+        "num": 311410,
+        "word": "程靖淇张巾BE",
+        "onboard_time": 1694610879,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300210,
+        "num": 300210,
+        "word": "梦中的那片海",
+        "onboard_time": 1694604636,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284308,
+        "num": 284308,
+        "word": "关晓彤九宫格发了三张",
+        "onboard_time": 1694608778,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271277,
+        "num": 271277,
+        "word": "高铁为疑似早产孕妇多停6分钟",
+        "onboard_time": 1694596536,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239113,
+        "num": 239113,
+        "word": "虞书欣上班穿的好看的原因",
+        "onboard_time": 1694603197,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222263,
+        "num": 222263,
+        "word": "Irene暂未续约SMTOWN",
+        "onboard_time": 1694602658,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198406,
+        "num": 198406,
+        "word": "孟宴臣高启强 双疯",
+        "onboard_time": 1694593656,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189894,
+        "num": 189894,
+        "word": "演员滕汝骏去世",
+        "onboard_time": 1694592398,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382560,
+        "num": 187608,
+        "word": "26岁姑娘没有任何不适却确诊血癌",
+        "onboard_time": 1694610766,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248502,
+        "num": 186628,
+        "word": "原来老板口中的亏了是这个意思",
+        "onboard_time": 1694609622,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183433,
+        "num": 183433,
+        "word": "马斯克曾要求前女友cos守望天使",
+        "onboard_time": 1694594797,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180437,
+        "num": 180437,
+        "word": "封神第一部乌log告一段落",
+        "onboard_time": 1694608476,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179916,
+        "num": 179916,
+        "word": "G社拍的卢昱晓",
+        "onboard_time": 1694595817,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179016,
+        "num": 179016,
+        "word": "专家曾称外星人不敢来地球",
+        "onboard_time": 1694611183,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174219,
+        "num": 174219,
+        "word": "高铁化妆争议视频制作方回应",
+        "onboard_time": 1694609379,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170342,
+        "num": 170342,
+        "word": "张拿铁户口本丢了",
+        "onboard_time": 1694594562,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165226,
+        "num": 165226,
+        "word": "呆滞工作 好奇周围所有事",
+        "onboard_time": 1694607816,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154606,
+        "num": 154606,
+        "word": "华为Mate60Pro+体验",
+        "onboard_time": 1694601159,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152555,
+        "num": 152555,
+        "word": "鱼生 寄生虫病",
+        "onboard_time": 1694604759,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137977,
+        "num": 137977,
+        "word": "12306称没有高铁不能化妆相关规定",
+        "onboard_time": 1694593656,
+        "rank": 41,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 137974,
+        "num": 137974,
+        "word": "谁好人家小猫咪这样喝水啊",
+        "onboard_time": 1694604456,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 134908,
+        "num": 134908,
+        "word": "蜂花蹲热点引发行业人士反感",
+        "onboard_time": 1694580340,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134571,
+        "num": 134571,
+        "word": "王者荣耀",
+        "onboard_time": 1694600559,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133716,
+        "num": 133716,
+        "word": "消失的大学专业",
+        "onboard_time": 1694602361,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129567,
+        "num": 129567,
+        "word": "林一沈月或将二搭",
+        "onboard_time": 1694600917,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128196,
+        "num": 128196,
+        "word": "眉笔价格不能只论笔芯",
+        "onboard_time": 1694590717,
+        "rank": 47,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 114476,
+        "num": 114476,
+        "word": "又一次被文字的力量击中心脏",
+        "onboard_time": 1694611183,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110018,
+        "num": 110018,
+        "word": "法国决定禁售iPhone12",
+        "onboard_time": 1694589392,
+        "rank": 49,
+        "category": "社会新闻,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}
