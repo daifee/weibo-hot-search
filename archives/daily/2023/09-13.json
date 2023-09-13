@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694601296127,
+  "endTime": 1694603655268,
   "band_list": [
     {
       "raw_hot": 2853167,
@@ -32,6 +32,14 @@
       "word": "男子考研落榜猥亵11岁女生寻刺激",
       "onboard_time": 1694569958,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2555066,
+      "num": 2555066,
+      "word": "国家一级演员苏孝林被决定逮捕",
+      "onboard_time": 1694600797,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "社会新闻,数码"
     },
     {
+      "raw_hot": 2205103,
+      "num": 841527,
+      "word": "你会花4300元买一支口红吗",
+      "onboard_time": 1694601516,
+      "rank": 3,
+      "category": "美妆,财经"
+    },
+    {
       "raw_hot": 2187161,
       "num": 2187161,
       "word": "演员滕汝骏去世",
@@ -105,6 +121,14 @@
       "onboard_time": 1694567740,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1907322,
+      "num": 437665,
+      "word": "花西币",
+      "onboard_time": 1694599476,
+      "rank": 18,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 1831007,
@@ -243,27 +267,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1204379,
-      "num": 437665,
-      "word": "花西币",
-      "onboard_time": 1694599476,
-      "rank": 18,
-      "category": "美妆,网红"
-    },
-    {
       "raw_hot": 1048805,
       "num": 1048805,
       "word": "武汉一公交突发意外致2死3伤",
       "onboard_time": 1694582859,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1023356,
-      "num": 1023356,
-      "word": "国家一级演员苏孝林被决定逮捕",
-      "onboard_time": 1694600797,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1694559927,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703471,
+      "num": 703471,
+      "word": "Irene暂未续约SMTOWN",
+      "onboard_time": 1694602658,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 701754,
@@ -659,6 +675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 510088,
+      "num": 289943,
+      "word": "小杨哥称没资格飘",
+      "onboard_time": 1694602658,
+      "rank": 21,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 509524,
       "num": 509524,
       "word": "许凯当选杭州亚运会火炬手",
@@ -731,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476241,
+      "num": 289489,
+      "word": "你一开口别人就知道你很嫩",
+      "onboard_time": 1694601817,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471225,
       "num": 471225,
       "word": "宫远徵早上要早起戴小铃铛",
@@ -796,11 +828,27 @@
     },
     {
       "raw_hot": 430362,
-      "num": 549768,
+      "num": 726521,
       "word": "丈夫瘫痪妻子说该我为这个家付出了",
       "onboard_time": 1694591676,
       "rank": 22,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 429394,
+      "num": 429394,
+      "word": "近4成职场人遭遇降薪",
+      "onboard_time": 1694601698,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 429270,
+      "num": 429270,
+      "word": "消失的大学专业",
+      "onboard_time": 1694602361,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 427621,
@@ -995,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321716,
+      "num": 321716,
+      "word": "虞书欣上班穿的好看的原因",
+      "onboard_time": 1694603197,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 315184,
       "num": 315184,
       "word": "宫尚角隐形眼镜忘摘了",
@@ -1067,12 +1123,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283221,
+      "num": 283221,
+      "word": "林一沈月或将二搭",
+      "onboard_time": 1694600917,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277797,
       "num": 277797,
       "word": "南风知我意热度破8000",
       "onboard_time": 1694564204,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275689,
+      "num": 275689,
+      "word": "华为Mate60Pro+体验",
+      "onboard_time": 1694601159,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 271589,
@@ -1131,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249338,
+      "num": 219907,
+      "word": "减脂突然就没那么难了",
+      "onboard_time": 1694603076,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 242648,
       "num": 242648,
       "word": "英雄联盟彼岸灵花皮肤",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1694572536,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234514,
+      "num": 234514,
+      "word": "爱宝双胞胎名字投票",
+      "onboard_time": 1694600495,
+      "rank": 35,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 234049,
@@ -1249,6 +1337,14 @@
       "onboard_time": 1694537964,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216090,
+      "num": 216090,
+      "word": "王者荣耀",
+      "onboard_time": 1694600559,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 215575,
@@ -1339,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206531,
-      "num": 206531,
-      "word": "王者荣耀",
-      "onboard_time": 1694600559,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206151,
       "num": 206151,
       "word": "黄仁俊金泳勋 Baggy Jeans",
@@ -1395,14 +1483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201497,
-      "num": 201497,
-      "word": "林一沈月或将二搭",
-      "onboard_time": 1694600917,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201104,
       "num": 186114,
       "word": "婆婆最爱的大花墙被我砸了",
@@ -1440,6 +1520,14 @@
       "word": "一滴水放大100倍后有多震撼",
       "onboard_time": 1694574637,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199655,
+      "num": 199655,
+      "word": "不散装的浙江",
+      "onboard_time": 1694602538,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1523,6 +1611,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 193262,
+      "num": 193262,
+      "word": "挑战全网最大汉堡",
+      "onboard_time": 1694602834,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192797,
       "num": 192797,
       "word": "秘鲁0比1巴西",
@@ -1537,14 +1633,6 @@
       "onboard_time": 1694571757,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191335,
-      "num": 191335,
-      "word": "爱宝双胞胎名字投票",
-      "onboard_time": 1694600495,
-      "rank": 35,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 189072,
@@ -1683,6 +1771,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165297,
+      "num": 165297,
+      "word": "夜色尚浅",
+      "onboard_time": 1694600433,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165206,
+      "num": 165206,
+      "word": "10月是极好的辞职的季节",
+      "onboard_time": 1694603137,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165183,
       "num": 513730,
       "word": "国台办新任发言人用闽南语问好",
@@ -1729,6 +1833,14 @@
       "onboard_time": 1694596773,
       "rank": 44,
       "category": "社会议题,美妆"
+    },
+    {
+      "raw_hot": 158899,
+      "num": 158899,
+      "word": "霉霉是去VMA进货的吗",
+      "onboard_time": 1694603018,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 158187,
@@ -1865,14 +1977,6 @@
       "onboard_time": 1694593235,
       "rank": 48,
       "category": "剧集,美妆"
-    },
-    {
-      "raw_hot": 135909,
-      "num": 135909,
-      "word": "华为Mate60Pro+体验",
-      "onboard_time": 1694601159,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 135326,
@@ -2129,6 +2233,14 @@
       "onboard_time": 1694599237,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 22412,
+      "num": 165892,
+      "word": "乌尔善另一张封神榜",
+      "onboard_time": 1694602834,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 19860,

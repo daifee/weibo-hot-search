@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694601296127,
+  "endTime": 1694603655268,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2555066,
+      "num": 2555066,
+      "word": "国家一级演员苏孝林被决定逮捕",
+      "onboard_time": 1694600797,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2527144,
       "num": 1399007,
       "word": "张杰 我女儿有三个为什么朋友不能有三个",
@@ -425,6 +433,14 @@
       "onboard_time": 1694476237,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2205103,
+      "num": 841527,
+      "word": "你会花4300元买一支口红吗",
+      "onboard_time": 1694601516,
+      "rank": 3,
+      "category": "美妆,财经"
     },
     {
       "raw_hot": 2203736,
@@ -593,6 +609,14 @@
       "onboard_time": 1694532461,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1907322,
+      "num": 437665,
+      "word": "花西币",
+      "onboard_time": 1694599476,
+      "rank": 18,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 1905275,
@@ -1091,14 +1115,6 @@
       "category": "网红,美妆"
     },
     {
-      "raw_hot": 1204379,
-      "num": 437665,
-      "word": "花西币",
-      "onboard_time": 1694599476,
-      "rank": 18,
-      "category": "美妆,网红"
-    },
-    {
       "raw_hot": 1193202,
       "num": 333391,
       "word": "本周狗屎运最旺的星座",
@@ -1272,14 +1288,6 @@
       "word": "蜂花回应捡箱子发货",
       "onboard_time": 1694495264,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1023356,
-      "num": 1023356,
-      "word": "国家一级演员苏孝林被决定逮捕",
-      "onboard_time": 1694600797,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2009,6 +2017,14 @@
       "onboard_time": 1694305353,
       "rank": 30,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 703471,
+      "num": 703471,
+      "word": "Irene暂未续约SMTOWN",
+      "onboard_time": 1694602658,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 702196,
@@ -2875,6 +2891,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 510088,
+      "num": 289943,
+      "word": "小杨哥称没资格飘",
+      "onboard_time": 1694602658,
+      "rank": 21,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 509524,
       "num": 509524,
       "word": "许凯当选杭州亚运会火炬手",
@@ -3160,6 +3184,14 @@
       "word": "26岁了爸爸还是会接我下班",
       "onboard_time": 1694426021,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 476241,
+      "num": 289489,
+      "word": "你一开口别人就知道你很嫩",
+      "onboard_time": 1694601817,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -3524,7 +3556,7 @@
     },
     {
       "raw_hot": 430362,
-      "num": 549768,
+      "num": 726521,
       "word": "丈夫瘫痪妻子说该我为这个家付出了",
       "onboard_time": 1694591676,
       "rank": 22,
@@ -3553,6 +3585,22 @@
       "onboard_time": 1694268218,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 429394,
+      "num": 429394,
+      "word": "近4成职场人遭遇降薪",
+      "onboard_time": 1694601698,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 429270,
+      "num": 429270,
+      "word": "消失的大学专业",
+      "onboard_time": 1694602361,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 428770,
@@ -4611,6 +4659,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 321716,
+      "num": 321716,
+      "word": "虞书欣上班穿的好看的原因",
+      "onboard_time": 1694603197,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 321633,
       "num": 321633,
       "word": "陈飞宇给周杰伦送奶茶包",
@@ -5283,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283221,
+      "num": 283221,
+      "word": "林一沈月或将二搭",
+      "onboard_time": 1694600917,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282367,
       "num": 282367,
       "word": "SEVENTEEN凌晨直播总结",
@@ -5369,6 +5433,14 @@
       "onboard_time": 1694360382,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 275689,
+      "num": 275689,
+      "word": "华为Mate60Pro+体验",
+      "onboard_time": 1694601159,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 274468,
@@ -5771,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249338,
+      "num": 219907,
+      "word": "减脂突然就没那么难了",
+      "onboard_time": 1694603076,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 249125,
       "num": 249125,
       "word": "上官浅宫远徵要打起来了",
@@ -6057,6 +6137,14 @@
       "onboard_time": 1694334992,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234514,
+      "num": 234514,
+      "word": "爱宝双胞胎名字投票",
+      "onboard_time": 1694600495,
+      "rank": 35,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 234049,
@@ -6547,6 +6635,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 216090,
+      "num": 216090,
+      "word": "王者荣耀",
+      "onboard_time": 1694600559,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215653,
       "num": 215653,
       "word": "教育局回应校长讲座PPT现不当言论",
@@ -6827,14 +6923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206531,
-      "num": 206531,
-      "word": "王者荣耀",
-      "onboard_time": 1694600559,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206288,
       "num": 206288,
       "word": "摩洛哥地震瞬间画面看得揪心",
@@ -7059,14 +7147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201497,
-      "num": 201497,
-      "word": "林一沈月或将二搭",
-      "onboard_time": 1694600917,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201402,
       "num": 201402,
       "word": "六公主评杨子姗演的女明星",
@@ -7217,6 +7297,14 @@
       "onboard_time": 1694359478,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199655,
+      "num": 199655,
+      "word": "不散装的浙江",
+      "onboard_time": 1694602538,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199221,
@@ -7451,6 +7539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193262,
+      "num": 193262,
+      "word": "挑战全网最大汉堡",
+      "onboard_time": 1694602834,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192862,
       "num": 192862,
       "word": "于适黄曦彦hi6镜头",
@@ -7521,14 +7617,6 @@
       "onboard_time": 1694496047,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191335,
-      "num": 191335,
-      "word": "爱宝双胞胎名字投票",
-      "onboard_time": 1694600495,
-      "rank": 35,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 191272,
@@ -8307,6 +8395,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 165297,
+      "num": 165297,
+      "word": "夜色尚浅",
+      "onboard_time": 1694600433,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165206,
+      "num": 165206,
+      "word": "10月是极好的辞职的季节",
+      "onboard_time": 1694603137,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165183,
       "num": 513730,
       "word": "国台办新任发言人用闽南语问好",
@@ -8489,6 +8593,14 @@
       "onboard_time": 1694489981,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 158899,
+      "num": 158899,
+      "word": "霉霉是去VMA进货的吗",
+      "onboard_time": 1694603018,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 158311,
@@ -8873,14 +8985,6 @@
       "onboard_time": 1694320475,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135909,
-      "num": 135909,
-      "word": "华为Mate60Pro+体验",
-      "onboard_time": 1694601159,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 135764,
@@ -9905,6 +10009,14 @@
       "onboard_time": 1694599237,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 22412,
+      "num": 165892,
+      "word": "乌尔善另一张封神榜",
+      "onboard_time": 1694602834,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 20679,
