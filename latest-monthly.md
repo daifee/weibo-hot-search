@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/13 11:17:15
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/13 11:34:07
 </p>
 </blockquote>
 <p>
@@ -561,6 +561,12 @@ iPhone15取消静音拨片（热度：2651422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99%23" target="weibo">
+无效刷牙（热度：2517757）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%BA%A7%E5%92%8C%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%98%AF%E5%90%8C%E4%BB%B7%23" target="weibo">
 为什么无座和二等座是同价（热度：2517604）
 </a>
@@ -779,12 +785,6 @@ iPhone15取消静音拨片（热度：2651422）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B30%E6%AF%941%E5%8F%99%E5%88%A9%E4%BA%9A%23" target="weibo">
 国足0比1叙利亚（热度：2181736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99%23" target="weibo">
-无效刷牙（热度：2173900）
 </a>
 </li>
 
@@ -2505,6 +2505,12 @@ Rose或将和霉霉合作（热度：1140695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%90%91%E4%BD%90%E5%85%A8%E9%BB%91%E8%89%B2%E7%B3%BB%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23" target="weibo">
+郭碧婷向佐全黑色系红毯造型（热度：1111019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%83%AD%E5%8F%B0%E9%93%AD%E6%9C%89%E6%84%8F%E6%89%BE%E5%85%B6%E5%BD%93%E5%89%AF%E6%89%8B%E4%BC%A0%E9%97%BB%23" target="weibo">
 林志玲回应郭台铭有意找其当副手传闻（热度：1110860）
 </a>
@@ -3089,12 +3095,6 @@ CA403所有人员均安全撤离（热度：972380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E9%80%BC%E5%91%98%E5%B7%A5%E4%B8%BB%E5%8A%A8%E7%A6%BB%E8%81%8C%E5%B8%B8%E7%94%A8%E5%A5%97%E8%B7%AF%23" target="weibo">
 公司逼员工主动离职常用套路（热度：952704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%90%91%E4%BD%90%E5%85%A8%E9%BB%91%E8%89%B2%E7%B3%BB%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23" target="weibo">
-郭碧婷向佐全黑色系红毯造型（热度：950194）
 </a>
 </li>
 
@@ -3737,6 +3737,12 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A05%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9D%A5%E4%BA%86%23" target="weibo">
 第一届05后大学生来了（热度：828673）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E8%AF%BB%E5%86%99%E7%BB%99%E5%A4%A9%E5%A4%A9%E7%9A%84%E4%BF%A1%E9%83%BD%E6%B2%A1%E5%93%AD%E8%BF%99%E4%B9%88%E6%83%A8%23" target="weibo">
+张亮读写给天天的信都没哭这么惨（热度：827018）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ G社拍的倪妮（热度：623553）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%A6%B2%E5%B7%B1%20%E6%88%91%E8%B7%9F%E4%BB%96%E4%BB%AC%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
 封神妲己 我跟他们不一样（热度：598290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E9%A2%88%E5%88%87%E9%99%A410%E4%BD%99%E5%B9%B4%E5%8D%B4%E6%9F%A5%E5%87%BA%E5%AE%AB%E9%A2%88%E7%99%8C%E4%B8%AD%E6%99%9A%E6%9C%9F%23" target="weibo">
-宫颈切除10余年却查出宫颈癌中晚期（热度：598253）
 </a>
 </li>
 

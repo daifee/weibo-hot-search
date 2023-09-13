@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694575035859,
+  "endTime": 1694576047436,
   "band_list": [
     {
       "raw_hot": 2579887,
@@ -9,6 +9,14 @@
       "onboard_time": 1694569958,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2517757,
+      "num": 2517757,
+      "word": "无效刷牙",
+      "onboard_time": 1694571997,
+      "rank": 27,
+      "category": "知识科普"
     },
     {
       "raw_hot": 2501784,
@@ -25,14 +33,6 @@
       "onboard_time": 1694563542,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2173900,
-      "num": 2173900,
-      "word": "无效刷牙",
-      "onboard_time": 1694571997,
-      "rank": 27,
-      "category": "知识科普"
     },
     {
       "raw_hot": 2119661,
@@ -99,8 +99,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 950194,
-      "num": 950194,
+      "raw_hot": 1111019,
+      "num": 1111019,
       "word": "郭碧婷向佐全黑色系红毯造型",
       "onboard_time": 1694573378,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1694531381,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827018,
+      "num": 827018,
+      "word": "张亮读写给天天的信都没哭这么惨",
+      "onboard_time": 1694574335,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 776886,
@@ -275,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 504669,
+      "num": 504669,
+      "word": "马立奥 kisskiss",
+      "onboard_time": 1694575417,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503605,
       "num": 500956,
       "word": "世界首富有多爱客串",
@@ -323,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431382,
-      "num": 431382,
-      "word": "张亮读写给天天的信都没哭这么惨",
-      "onboard_time": 1694574335,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 426703,
       "num": 426703,
       "word": "云之羽 虞书欣演技分析",
@@ -371,6 +379,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 380078,
+      "num": 380078,
+      "word": "贾正亮飞刀打伤准女友",
+      "onboard_time": 1694573496,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373269,
       "num": 271765,
       "word": "南风知我意空镜",
@@ -409,14 +425,6 @@
       "onboard_time": 1694568399,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 344054,
-      "num": 344054,
-      "word": "贾正亮飞刀打伤准女友",
-      "onboard_time": 1694573496,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 334216,
@@ -523,20 +531,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247347,
+      "num": 247347,
+      "word": "云之羽小分队新浪扫楼",
+      "onboard_time": 1694572296,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243138,
+      "num": 243138,
+      "word": "雎晓雯孕肚照封面",
+      "onboard_time": 1694575898,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242648,
       "num": 242648,
       "word": "英雄联盟彼岸灵花皮肤",
       "onboard_time": 1694567080,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239973,
-      "num": 239973,
-      "word": "云之羽小分队新浪扫楼",
-      "onboard_time": 1694572296,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 239692,
@@ -587,11 +603,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 211430,
+      "num": 211430,
+      "word": "的哥凌晨送高烧幼儿就医拒收感谢红包",
+      "onboard_time": 1694575657,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 210216,
       "num": 220413,
       "word": "VMA红毯",
       "onboard_time": 1694564681,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207084,
+      "num": 207084,
+      "word": "邓为清冷感黑西装",
+      "onboard_time": 1694575056,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -635,6 +667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199715,
+      "num": 202848,
+      "word": "一滴水放大100倍后有多震撼",
+      "onboard_time": 1694574637,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199643,
       "num": 199643,
       "word": "心动6男一第八期就告白",
@@ -657,6 +697,14 @@
       "onboard_time": 1694532039,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196416,
+      "num": 196416,
+      "word": "灼灼风流收官",
+      "onboard_time": 1694575898,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 192780,
@@ -683,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186724,
+      "num": 186724,
+      "word": "田曦薇大奉打更人红衣路透",
+      "onboard_time": 1694575179,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185333,
+      "num": 635665,
+      "word": "Mate60深度评测",
+      "onboard_time": 1694572478,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185146,
       "num": 220714,
       "word": "张远嘉宾巡演徐良站",
@@ -697,6 +761,14 @@
       "onboard_time": 1694560228,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183742,
+      "num": 183742,
+      "word": "一个书包一声鸣笛的默契好暖",
+      "onboard_time": 1694575595,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 180518,
@@ -843,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137361,
-      "num": 202848,
-      "word": "一滴水放大100倍后有多震撼",
-      "onboard_time": 1694574637,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137261,
       "num": 137261,
       "word": "章若楠素颜生活照",
@@ -881,14 +945,6 @@
       "onboard_time": 1694525378,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131454,
-      "num": 635665,
-      "word": "Mate60深度评测",
-      "onboard_time": 1694572478,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 130459,
@@ -995,6 +1051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 57047,
+      "num": 589131,
+      "word": "女子自学全国方言9年帮数百人寻亲",
+      "onboard_time": 1694574997,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51226,
       "num": 51226,
       "word": "上官浅停止营业但卢昱晓没有",
@@ -1065,14 +1129,6 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5745,
-      "num": 589131,
-      "word": "女子自学全国方言9年帮数百人寻亲",
-      "onboard_time": 1694574997,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
