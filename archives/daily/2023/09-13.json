@@ -1,7 +1,15 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694586893760,
+  "endTime": 1694589342312,
   "band_list": [
+    {
+      "raw_hot": 2853167,
+      "num": 2853167,
+      "word": "多个账号为劣迹艺人洗白鸣冤被处理",
+      "onboard_time": 1694586455,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 2800577,
       "num": 2800577,
@@ -155,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1294358,
+      "num": 1294358,
+      "word": "高铁化妆",
+      "onboard_time": 1694585195,
+      "rank": 24,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 1215006,
       "num": 1215006,
       "word": "华为发布会",
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1001029,
-      "num": 1001029,
-      "word": "多个账号为劣迹艺人洗白鸣冤被处理",
-      "onboard_time": 1694586455,
-      "rank": 4,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 938736,
       "num": 938736,
       "word": "泰国对中国实施5个月免签政策",
@@ -193,6 +201,14 @@
       "onboard_time": 1694567680,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 879404,
+      "num": 501419,
+      "word": "口臭的源头可能是扁桃体结石",
+      "onboard_time": 1694587116,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 849096,
@@ -241,6 +257,14 @@
       "onboard_time": 1694570978,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 775482,
+      "num": 775482,
+      "word": "普京称俄罗斯已准备迎接长期战争",
+      "onboard_time": 1694585735,
+      "rank": 27,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 745395,
@@ -297,6 +321,14 @@
       "onboard_time": 1694575417,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645465,
+      "num": 645465,
+      "word": "华为小米达成全球专利交叉许可协议",
+      "onboard_time": 1694588316,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 632370,
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560031,
-      "num": 560031,
-      "word": "高铁化妆",
-      "onboard_time": 1694585195,
-      "rank": 24,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 557761,
       "num": 311292,
       "word": "Angelababy说想学我做的腌水果",
@@ -401,6 +425,14 @@
       "onboard_time": 1694578360,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 537704,
+      "num": 537704,
+      "word": "妇产科真的很考验心理素质",
+      "onboard_time": 1694583997,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 532607,
@@ -483,22 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 497986,
-      "num": 497986,
-      "word": "妇产科真的很考验心理素质",
-      "onboard_time": 1694583997,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 495777,
-      "num": 495777,
-      "word": "普京称俄罗斯已准备迎接长期战争",
-      "onboard_time": 1694585735,
-      "rank": 27,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 493110,
       "num": 493110,
       "word": "贾正亮飞刀打伤准女友",
@@ -513,6 +529,14 @@
       "onboard_time": 1694522978,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490298,
+      "num": 490298,
+      "word": "剧组在熊猫基地不文明拍摄",
+      "onboard_time": 1694585735,
+      "rank": 39,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 469796,
@@ -560,6 +584,14 @@
       "word": "云之羽 虞书欣演技分析",
       "onboard_time": 1694534614,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 424078,
+      "num": 424078,
+      "word": "宫远徵早上要早起戴小铃铛",
+      "onboard_time": 1694586157,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -675,6 +707,14 @@
       "category": "游戏,时尚"
     },
     {
+      "raw_hot": 331390,
+      "num": 233994,
+      "word": "华为Mate60是如何逆袭的",
+      "onboard_time": 1694588196,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 330391,
       "num": 330391,
       "word": "国足主帅称输球是因为运气不好",
@@ -771,20 +811,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266005,
+      "num": 266005,
+      "word": "是贾正亮不是贾乃亮",
+      "onboard_time": 1694586696,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261791,
       "num": 261791,
       "word": "LPL十周年答谢",
       "onboard_time": 1694565763,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 254527,
-      "num": 254527,
-      "word": "剧组在熊猫基地不文明拍摄",
-      "onboard_time": 1694585735,
-      "rank": 39,
-      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 251926,
@@ -825,6 +865,22 @@
       "onboard_time": 1694572536,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234049,
+      "num": 234049,
+      "word": "原神4.1全球直播",
+      "onboard_time": 1694586815,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 233412,
+      "num": 233412,
+      "word": "刘芸陆毅曾许愿张云龙明年能结婚",
+      "onboard_time": 1694587358,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 233074,
@@ -963,6 +1019,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 203288,
+      "num": 203288,
+      "word": "军训完的T恤先别急着扔",
+      "onboard_time": 1694588316,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201104,
       "num": 186114,
       "word": "婆婆最爱的大花墙被我砸了",
@@ -1032,14 +1096,6 @@
       "word": "灼灼风流收官",
       "onboard_time": 1694575898,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196412,
-      "num": 196412,
-      "word": "宫远徵早上要早起戴小铃铛",
-      "onboard_time": 1694586157,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1299,20 +1355,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146329,
-      "num": 168642,
-      "word": "是贾正亮不是贾乃亮",
-      "onboard_time": 1694586696,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 145585,
+      "num": 145585,
+      "word": "西安人的城墙上是西安人的猫",
+      "onboard_time": 1694588256,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 144604,
-      "num": 168534,
-      "word": "原神4.1全球直播",
-      "onboard_time": 1694586815,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 142768,
+      "num": 142768,
+      "word": "烫金方 排球少年",
+      "onboard_time": 1694588914,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 138475,
@@ -1419,6 +1475,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 102270,
+      "num": 513730,
+      "word": "国台办新任发言人用闽南语问好",
+      "onboard_time": 1694587957,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 100053,
       "num": 100053,
       "word": "侯卓成是杨汝晴的第一优先级",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1694581237,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54951,
+      "num": 504417,
+      "word": "吴艳妮时尚杂志首封",
+      "onboard_time": 1694588435,
+      "rank": 14,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 51226,

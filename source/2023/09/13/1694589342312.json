@@ -1,0 +1,410 @@
+{
+  "runTime": 1694589342312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2853167,
+        "num": 2853167,
+        "word": "多个账号为劣迹艺人洗白鸣冤被处理",
+        "onboard_time": 1694586455,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1315216,
+        "num": 1315216,
+        "word": "男子发现女儿非亲生伪造亲子鉴定落户",
+        "onboard_time": 1694581837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51611,
+        "num": 1298783,
+        "word": "杭州亚运会开幕倒计时10天",
+        "onboard_time": 1694578838,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1294358,
+        "num": 1294358,
+        "word": "高铁化妆",
+        "onboard_time": 1694585195,
+        "rank": 3,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 775482,
+        "num": 775482,
+        "word": "普京称俄罗斯已准备迎接长期战争",
+        "onboard_time": 1694585735,
+        "rank": 4,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 645465,
+        "num": 645465,
+        "word": "华为小米达成全球专利交叉许可协议",
+        "onboard_time": 1694588316,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 630737,
+        "num": 630737,
+        "word": "魏大勋李庚希拍吻戏",
+        "onboard_time": 1694583874,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 622285,
+        "num": 622285,
+        "word": "无效刷牙",
+        "onboard_time": 1694571997,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 583618,
+        "num": 583618,
+        "word": "泰国对中国实施5个月免签政策",
+        "onboard_time": 1694584414,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 537704,
+        "num": 537704,
+        "word": "妇产科真的很考验心理素质",
+        "onboard_time": 1694583997,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1537540,
+        "num": 535031,
+        "word": "蜂花蹲热点引发行业人士反感",
+        "onboard_time": 1694580340,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368537,
+        "num": 526932,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147514,
+        "num": 520461,
+        "word": "老人穿15元的鞋却给家乡捐了1000万",
+        "onboard_time": 1694562519,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 102270,
+        "num": 513730,
+        "word": "国台办新任发言人用闽南语问好",
+        "onboard_time": 1694587957,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 54951,
+        "num": 504417,
+        "word": "吴艳妮时尚杂志首封",
+        "onboard_time": 1694588435,
+        "rank": 14,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 879404,
+        "num": 501419,
+        "word": "口臭的源头可能是扁桃体结石",
+        "onboard_time": 1694587116,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 693834,
+        "num": 496804,
+        "word": "日本超级软饭男",
+        "onboard_time": 1694581539,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490298,
+        "num": 490298,
+        "word": "剧组在熊猫基地不文明拍摄",
+        "onboard_time": 1694585735,
+        "rank": 17,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 424078,
+        "num": 424078,
+        "word": "宫远徵早上要早起戴小铃铛",
+        "onboard_time": 1694586157,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317125,
+        "num": 317125,
+        "word": "郭碧婷向佐全黑色系红毯造型",
+        "onboard_time": 1694573378,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448260,
+        "num": 316941,
+        "word": "武汉一公交突发意外致2死3伤",
+        "onboard_time": 1694582859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68906,
+        "num": 315118,
+        "word": "七仔拒绝了食堂决定自己整点吃的",
+        "onboard_time": 1694564383,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416891,
+        "num": 313909,
+        "word": "女子腹痛不知怀孕医院厕所产女",
+        "onboard_time": 1694577638,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369059,
+        "num": 312012,
+        "word": "云之羽小分队新浪扫楼",
+        "onboard_time": 1694572296,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311001,
+        "num": 311001,
+        "word": "优酷他急了",
+        "onboard_time": 1694567740,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293248,
+        "num": 293248,
+        "word": "男子考研落榜猥亵11岁女生寻刺激",
+        "onboard_time": 1694569958,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291333,
+        "num": 291333,
+        "word": "BLACKPINK获VMA最佳年度组合",
+        "onboard_time": 1694583394,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266005,
+        "num": 266005,
+        "word": "是贾正亮不是贾乃亮",
+        "onboard_time": 1694586696,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238302,
+        "num": 238302,
+        "word": "时尚芭莎 一阳",
+        "onboard_time": 1694584594,
+        "rank": 28,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 234049,
+        "num": 234049,
+        "word": "原神4.1全球直播",
+        "onboard_time": 1694586815,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 331390,
+        "num": 233994,
+        "word": "华为Mate60是如何逆袭的",
+        "onboard_time": 1694588196,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 233412,
+        "num": 233412,
+        "word": "刘芸陆毅曾许愿张云龙明年能结婚",
+        "onboard_time": 1694587358,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213507,
+        "num": 213507,
+        "word": "林俊杰武汉官宣",
+        "onboard_time": 1694585075,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206254,
+        "num": 206254,
+        "word": "韩素希确诊新冠",
+        "onboard_time": 1694582257,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203288,
+        "num": 203288,
+        "word": "军训完的T恤先别急着扔",
+        "onboard_time": 1694588316,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196666,
+        "num": 196666,
+        "word": "云之羽 浅之角",
+        "onboard_time": 1694571578,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191927,
+        "num": 191927,
+        "word": "蜂花产能紧张已断货",
+        "onboard_time": 1694582558,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191332,
+        "num": 191332,
+        "word": "长期穿洞洞鞋可能让腿变弯",
+        "onboard_time": 1694581122,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181268,
+        "num": 181268,
+        "word": "蜂花呼吁多关注其他国货品牌",
+        "onboard_time": 1694585794,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 175052,
+        "num": 175052,
+        "word": "原来鼻炎还会影响外貌",
+        "onboard_time": 1694576435,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160243,
+        "num": 160243,
+        "word": "云之羽",
+        "onboard_time": 1694573559,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147554,
+        "num": 147554,
+        "word": "杭州00后为解压把家装成森林",
+        "onboard_time": 1694583934,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147093,
+        "num": 147093,
+        "word": "厚姬薄发的意思",
+        "onboard_time": 1694582737,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145585,
+        "num": 145585,
+        "word": "西安人的城墙上是西安人的猫",
+        "onboard_time": 1694588256,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142768,
+        "num": 142768,
+        "word": "烫金方 排球少年",
+        "onboard_time": 1694588914,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130076,
+        "num": 130076,
+        "word": "马立奥 kisskiss",
+        "onboard_time": 1694575417,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127346,
+        "num": 127346,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 46,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 125896,
+        "num": 125896,
+        "word": "猫咪躲在台阶上吓学生玩",
+        "onboard_time": 1694578057,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125549,
+        "num": 125549,
+        "word": "霉霉看StrayKids表演的反应",
+        "onboard_time": 1694576737,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116117,
+        "num": 125544,
+        "word": "金大川他超爱",
+        "onboard_time": 1694578900,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给红其拉甫海关全体关员回信#"
+    }
+  }
+}
