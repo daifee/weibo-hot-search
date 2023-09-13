@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694611272915,
+  "endTime": 1694612030195,
   "band_list": [
     {
       "raw_hot": 5696872,
@@ -11,8 +11,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 4547354,
-      "num": 4547354,
+      "raw_hot": 4690158,
+      "num": 4690158,
       "word": "UFO",
       "onboard_time": 1694608364,
       "rank": 47,
@@ -49,6 +49,14 @@
       "onboard_time": 1694569958,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2557985,
+      "num": 402842,
+      "word": "三斤花西子可以买一套房",
+      "onboard_time": 1694609798,
+      "rank": 11,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 2555066,
@@ -121,14 +129,6 @@
       "onboard_time": 1694564080,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2078993,
-      "num": 351452,
-      "word": "三斤花西子可以买一套房",
-      "onboard_time": 1694609798,
-      "rank": 11,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 2061190,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891242,
+      "num": 399984,
+      "word": "李维嘉爸爸面对诈骗的思路",
+      "onboard_time": 1694611363,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 880718,
       "num": 460138,
       "word": "女子自曝因买350元柜子遭家暴",
@@ -385,6 +393,14 @@
       "onboard_time": 1694567919,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 846441,
+      "num": 376998,
+      "word": "取快递被挂上表白墙了",
+      "onboard_time": 1694610164,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 832257,
@@ -531,20 +547,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 643291,
-      "num": 336512,
-      "word": "取快递被挂上表白墙了",
-      "onboard_time": 1694610164,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 632370,
       "num": 632370,
       "word": "霉霉看StrayKids表演的反应",
       "onboard_time": 1694576737,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 618762,
+      "num": 374096,
+      "word": "26岁姑娘没有任何不适却确诊血癌",
+      "onboard_time": 1694610766,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615555,
@@ -851,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484504,
+      "num": 484504,
+      "word": "制作方否认高铁化妆视频不尊重女性",
+      "onboard_time": 1694607759,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476241,
       "num": 291536,
       "word": "你一开口别人就知道你很嫩",
@@ -873,6 +897,14 @@
       "onboard_time": 1694597559,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 470296,
+      "num": 470296,
+      "word": "专家曾称外星人不敢来地球",
+      "onboard_time": 1694611183,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470032,
@@ -1027,12 +1059,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 382560,
-      "num": 187608,
-      "word": "26岁姑娘没有任何不适却确诊血癌",
-      "onboard_time": 1694610766,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 382068,
+      "num": 382068,
+      "word": "成毅发了2018年的文案",
+      "onboard_time": 1694611600,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 373269,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1694568399,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 342279,
-      "num": 342279,
-      "word": "制作方否认高铁化妆视频不尊重女性",
-      "onboard_time": 1694607759,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338903,
@@ -1251,6 +1275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 289862,
+      "num": 289862,
+      "word": "关晓彤九宫格发了三张",
+      "onboard_time": 1694608778,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287230,
       "num": 287230,
       "word": "余华 累了就休息",
@@ -1275,14 +1307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 284308,
-      "num": 284308,
-      "word": "关晓彤九宫格发了三张",
-      "onboard_time": 1694608778,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283221,
       "num": 283221,
       "word": "林一沈月或将二搭",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1694594077,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269548,
+      "num": 269548,
+      "word": "交通局拒绝公开前局长孙女炫富调查结果",
+      "onboard_time": 1694611479,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269355,
@@ -1364,7 +1396,7 @@
     },
     {
       "raw_hot": 248502,
-      "num": 186628,
+      "num": 215397,
       "word": "原来老板口中的亏了是这个意思",
       "onboard_time": 1694609622,
       "rank": 31,
@@ -1603,6 +1635,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 206801,
+      "num": 206801,
+      "word": "盛阳简冰拥抱",
+      "onboard_time": 1694611661,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206739,
       "num": 1347082,
       "word": "杭州亚运会开幕倒计时10天",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1694593177,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198280,
+      "num": 198280,
+      "word": "你工资减三千还剩多少花西币",
+      "onboard_time": 1694611966,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 198061,
@@ -1915,12 +1963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179016,
-      "num": 179016,
-      "word": "专家曾称外星人不敢来地球",
+      "raw_hot": 179064,
+      "num": 179064,
+      "word": "又一次被文字的力量击中心脏",
       "onboard_time": 1694611183,
-      "rank": 35,
-      "category": "社会新闻"
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 178621,
@@ -2211,6 +2259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132770,
+      "num": 132770,
+      "word": "你认为高铁化妆是不文明行为吗",
+      "onboard_time": 1694611839,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 132637,
       "num": 132637,
       "word": "沙溢cos的东方青苍",
@@ -2289,14 +2345,6 @@
       "onboard_time": 1694585015,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114476,
-      "num": 114476,
-      "word": "又一次被文字的力量击中心脏",
-      "onboard_time": 1694611183,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 112934,
@@ -2507,7 +2555,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13037,
+      "raw_hot": 14483,
       "num": 1488147,
       "word": "高校开学校长寄语合集",
       "onboard_time": 1694578783,
