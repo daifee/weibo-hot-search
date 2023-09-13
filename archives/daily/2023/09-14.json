@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694646995995,
+  "endTime": 1694648025642,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -59,6 +59,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 720884,
+      "num": 720884,
+      "word": "辛苦一晚上偷一条街全得还回去",
+      "onboard_time": 1694646446,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660463,
       "num": 393125,
       "word": "腾讯QQ被处100万元罚款",
@@ -115,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512149,
+      "num": 294238,
+      "word": "金店销售发工资就攒金豆子",
+      "onboard_time": 1694646385,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466665,
+      "num": 466665,
+      "word": "上海胸外科医生回应李佳琦言论",
+      "onboard_time": 1694580103,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438013,
       "num": 390792,
       "word": "你工资减三千还剩多少花西币",
@@ -131,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417425,
-      "num": 417425,
-      "word": "上海胸外科医生回应李佳琦言论",
-      "onboard_time": 1694580103,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408535,
       "num": 408535,
       "word": "成毅发了2018年的文案",
@@ -147,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397737,
-      "num": 397737,
+      "raw_hot": 408130,
+      "num": 408130,
       "word": "国家一级演员苏孝林被决定逮捕",
       "onboard_time": 1694600797,
       "rank": 12,
@@ -179,7 +195,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 342616,
+      "raw_hot": 343417,
       "num": 308493,
       "word": "26岁姑娘没有任何不适却确诊血癌",
       "onboard_time": 1694610766,
@@ -211,6 +227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 307864,
+      "num": 307864,
+      "word": "外交部辟谣中国政府机关禁用苹果手机",
+      "onboard_time": 1694608537,
+      "rank": 42,
+      "category": "国内要闻,数码"
+    },
+    {
       "raw_hot": 293099,
       "num": 293099,
       "word": "你会花4300元买一支口红吗",
@@ -219,20 +243,20 @@
       "category": "美妆,财经"
     },
     {
-      "raw_hot": 290749,
-      "num": 290749,
-      "word": "外交部辟谣中国政府机关禁用苹果手机",
-      "onboard_time": 1694608537,
-      "rank": 42,
-      "category": "国内要闻,数码"
-    },
-    {
       "raw_hot": 285109,
       "num": 285109,
       "word": "十年都没有涨过价东西",
       "onboard_time": 1694617965,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 268293,
+      "num": 268293,
+      "word": "海底哥斯拉 海鬣蜥",
+      "onboard_time": 1694616167,
+      "rank": 40,
+      "category": "知识科普"
     },
     {
       "raw_hot": 257768,
@@ -275,20 +299,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 234889,
+      "num": 234889,
+      "word": "中国第一艘航空母舰叫什么",
+      "onboard_time": 1694646385,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 232789,
       "num": 232789,
       "word": "iPhone15配色",
       "onboard_time": 1694627599,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 230482,
-      "num": 230482,
-      "word": "海底哥斯拉 海鬣蜥",
-      "onboard_time": 1694616167,
-      "rank": 40,
-      "category": "知识科普"
     },
     {
       "raw_hot": 224445,
@@ -315,12 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212205,
-      "num": 212205,
-      "word": "辛苦一晚上偷一条街全得还回去",
+      "raw_hot": 211513,
+      "num": 211513,
+      "word": "云之羽扫楼死亡三连问",
       "onboard_time": 1694646446,
-      "rank": 17,
-      "category": "社会新闻"
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 211346,
@@ -339,6 +363,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 205808,
+      "num": 205808,
+      "word": "李维嘉爸爸面对诈骗的思路",
+      "onboard_time": 1694611363,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203437,
+      "num": 203437,
+      "word": "小说女主待遇级别外貌",
+      "onboard_time": 1694631673,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 195346,
+      "num": 286063,
+      "word": "被骗到缅北有多恐怖",
+      "onboard_time": 1694646385,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194519,
       "num": 194519,
       "word": "以前的伍佰和现在的伍佰",
@@ -347,36 +395,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193410,
-      "num": 193410,
-      "word": "李维嘉爸爸面对诈骗的思路",
-      "onboard_time": 1694611363,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190592,
-      "num": 127926,
-      "word": "金店销售发工资就攒金豆子",
-      "onboard_time": 1694646385,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187203,
       "num": 187203,
       "word": "我为全村的老人拍好了遗照",
       "onboard_time": 1694618920,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186644,
-      "num": 186644,
-      "word": "小说女主待遇级别外貌",
-      "onboard_time": 1694631673,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 183852,
@@ -395,20 +419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170906,
-      "num": 170906,
-      "word": "云之羽扫楼死亡三连问",
-      "onboard_time": 1694646446,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169115,
       "num": 160609,
       "word": "主打一个无人生还",
       "onboard_time": 1694622629,
       "rank": 43,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 164127,
+      "num": 164127,
+      "word": "丁霞加盟波兰女排联赛",
+      "onboard_time": 1694647229,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 154352,
@@ -425,6 +449,22 @@
       "onboard_time": 1694617543,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153327,
+      "num": 153327,
+      "word": "中科院博士还原被骗至缅甸经历",
+      "onboard_time": 1694647651,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152918,
+      "num": 152918,
+      "word": "多地网友称看到UFO",
+      "onboard_time": 1694647830,
+      "rank": 33,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 149620,
@@ -451,12 +491,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141284,
-      "num": 126886,
-      "word": "中国第一艘航空母舰叫什么",
-      "onboard_time": 1694646385,
+      "raw_hot": 141501,
+      "num": 141501,
+      "word": "墨西哥",
+      "onboard_time": 1694646748,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 123513,
+      "num": 123513,
+      "word": "天津市消协点赞薛之谦主动退赔行为",
+      "onboard_time": 1694647770,
+      "rank": 38,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 121393,
+      "num": 121393,
+      "word": "好的婚姻是什么样子",
+      "onboard_time": 1694644461,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 120302,
+      "num": 120302,
+      "word": "轮到毕雯珺开大了",
+      "onboard_time": 1694627118,
       "rank": 31,
-      "category": "军事"
+      "category": "剧集"
     },
     {
       "raw_hot": 112800,
@@ -465,14 +529,6 @@
       "onboard_time": 1694612861,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 112588,
-      "num": 112588,
-      "word": "好的婚姻是什么样子",
-      "onboard_time": 1694644461,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 112250,
@@ -491,12 +547,12 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 102219,
-      "num": 102219,
-      "word": "被骗到缅北有多恐怖",
+      "raw_hot": 102564,
+      "num": 102564,
+      "word": "杭州阿姨们抡滚灯抡出了小蛮腰",
       "onboard_time": 1694646385,
-      "rank": 38,
-      "category": "社会新闻"
+      "rank": 45,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 101975,
@@ -507,20 +563,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101004,
-      "num": 101004,
-      "word": "墨西哥",
-      "onboard_time": 1694646748,
-      "rank": 39,
-      "category": "国外要闻"
+      "raw_hot": 92601,
+      "num": 92601,
+      "word": "野球帝",
+      "onboard_time": 1694648011,
+      "rank": 49,
+      "category": "体育,网红"
     },
     {
-      "raw_hot": 97780,
-      "num": 97780,
-      "word": "轮到毕雯珺开大了",
-      "onboard_time": 1694627118,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 87798,
+      "num": 1283165,
+      "word": "亚运会吉祥物3小只宣传片",
+      "onboard_time": 1694609017,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 84647,
@@ -537,14 +593,6 @@
       "onboard_time": 1694608778,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71236,
-      "num": 1206029,
-      "word": "亚运会吉祥物3小只宣传片",
-      "onboard_time": 1694609017,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 68359,

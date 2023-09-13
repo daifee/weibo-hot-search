@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694646995995,
+  "endTime": 1694648025642,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2147,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720884,
+      "num": 720884,
+      "word": "辛苦一晚上偷一条街全得还回去",
+      "onboard_time": 1694646446,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719504,
       "num": 719504,
       "word": "中小学教师从事学科类校外培训将从重处罚",
@@ -3145,6 +3153,14 @@
       "onboard_time": 1694564025,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 512149,
+      "num": 294238,
+      "word": "金店销售发工资就攒金豆子",
+      "onboard_time": 1694646385,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510383,
@@ -6643,6 +6659,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 234889,
+      "num": 234889,
+      "word": "中国第一艘航空母舰叫什么",
+      "onboard_time": 1694646385,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 234514,
       "num": 234514,
       "word": "爱宝双胞胎名字投票",
@@ -7275,14 +7299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212205,
-      "num": 212205,
-      "word": "辛苦一晚上偷一条街全得还回去",
-      "onboard_time": 1694646446,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212062,
       "num": 212062,
       "word": "古言女主打胎能力堪比人流门诊",
@@ -7305,6 +7321,14 @@
       "onboard_time": 1694479778,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211513,
+      "num": 211513,
+      "word": "云之羽扫楼死亡三连问",
+      "onboard_time": 1694646446,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 211430,
@@ -7681,6 +7705,14 @@
       "onboard_time": 1694272838,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203437,
+      "num": 203437,
+      "word": "小说女主待遇级别外貌",
+      "onboard_time": 1694631673,
+      "rank": 44,
+      "category": "休闲"
     },
     {
       "raw_hot": 203306,
@@ -8067,6 +8099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195346,
+      "num": 286063,
+      "word": "被骗到缅北有多恐怖",
+      "onboard_time": 1694646385,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195309,
       "num": 195309,
       "word": "傅云深奶糖吻朱旧",
@@ -8267,14 +8307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190592,
-      "num": 127926,
-      "word": "金店销售发工资就攒金豆子",
-      "onboard_time": 1694646385,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190452,
       "num": 190452,
       "word": "原神音乐会",
@@ -8457,14 +8489,6 @@
       "onboard_time": 1694308471,
       "rank": 32,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 186644,
-      "num": 186644,
-      "word": "小说女主待遇级别外貌",
-      "onboard_time": 1694631673,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 186597,
@@ -8979,14 +9003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170906,
-      "num": 170906,
-      "word": "云之羽扫楼死亡三连问",
-      "onboard_time": 1694646446,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170617,
       "num": 170617,
       "word": "摩洛哥",
@@ -9185,6 +9201,14 @@
       "onboard_time": 1694504976,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164127,
+      "num": 164127,
+      "word": "丁霞加盟波兰女排联赛",
+      "onboard_time": 1694647229,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 164015,
@@ -9443,12 +9467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153327,
+      "num": 153327,
+      "word": "中科院博士还原被骗至缅甸经历",
+      "onboard_time": 1694647651,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153254,
       "num": 696120,
       "word": "只要学生在学校就在",
       "onboard_time": 1694430582,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 152918,
+      "num": 152918,
+      "word": "多地网友称看到UFO",
+      "onboard_time": 1694647830,
+      "rank": 33,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 152906,
@@ -9699,12 +9739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141284,
-      "num": 126886,
-      "word": "中国第一艘航空母舰叫什么",
-      "onboard_time": 1694646385,
-      "rank": 31,
-      "category": "军事"
+      "raw_hot": 141501,
+      "num": 141501,
+      "word": "墨西哥",
+      "onboard_time": 1694646748,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 140267,
@@ -9963,6 +10003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123513,
+      "num": 123513,
+      "word": "天津市消协点赞薛之谦主动退赔行为",
+      "onboard_time": 1694647770,
+      "rank": 38,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 122689,
       "num": 122689,
       "word": "日本4比2土耳其",
@@ -9985,6 +10033,22 @@
       "onboard_time": 1694303547,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121393,
+      "num": 121393,
+      "word": "好的婚姻是什么样子",
+      "onboard_time": 1694644461,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 120302,
+      "num": 120302,
+      "word": "轮到毕雯珺开大了",
+      "onboard_time": 1694627118,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 120096,
@@ -10049,14 +10113,6 @@
       "onboard_time": 1694595817,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112588,
-      "num": 112588,
-      "word": "好的婚姻是什么样子",
-      "onboard_time": 1694644461,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 112250,
@@ -10179,20 +10235,20 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 102564,
+      "num": 102564,
+      "word": "杭州阿姨们抡滚灯抡出了小蛮腰",
+      "onboard_time": 1694646385,
+      "rank": 45,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 102482,
       "num": 460570,
       "word": "张桂梅不甘女孩们重复没选择的一生",
       "onboard_time": 1694266780,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 102219,
-      "num": 102219,
-      "word": "被骗到缅北有多恐怖",
-      "onboard_time": 1694646385,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102128,
@@ -10235,14 +10291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101004,
-      "num": 101004,
-      "word": "墨西哥",
-      "onboard_time": 1694646748,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 100956,
       "num": 100956,
       "word": "消防老公送给教师妻子最美的回忆",
@@ -10257,14 +10305,6 @@
       "onboard_time": 1694267138,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97780,
-      "num": 97780,
-      "word": "轮到毕雯珺开大了",
-      "onboard_time": 1694627118,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 97302,
@@ -10337,6 +10377,14 @@
       "onboard_time": 1694354618,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 87798,
+      "num": 1283165,
+      "word": "亚运会吉祥物3小只宣传片",
+      "onboard_time": 1694609017,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87287,
@@ -10448,14 +10496,6 @@
       "word": "70岁外婆送孙女上大学寄语考个博士",
       "onboard_time": 1694419234,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71236,
-      "num": 1206029,
-      "word": "亚运会吉祥物3小只宣传片",
-      "onboard_time": 1694609017,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
