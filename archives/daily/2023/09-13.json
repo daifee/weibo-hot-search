@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694582147444,
+  "endTime": 1694583250731,
   "band_list": [
     {
       "raw_hot": 2800577,
@@ -9,6 +9,14 @@
       "onboard_time": 1694571997,
       "rank": 27,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 2692816,
+      "num": 441675,
+      "word": "上海胸外科医生回应李佳琦言论",
+      "onboard_time": 1694580103,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2579887,
@@ -33,14 +41,6 @@
       "onboard_time": 1694563542,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2203264,
-      "num": 441675,
-      "word": "上海胸外科医生回应李佳琦言论",
-      "onboard_time": 1694580103,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2119661,
@@ -139,11 +139,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1015603,
+      "num": 340493,
+      "word": "日本超级软饭男",
+      "onboard_time": 1694581539,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 899284,
       "num": 899284,
       "word": "法院回应鹤岗女子还贷10年房子被占",
       "onboard_time": 1694567680,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895913,
+      "num": 895913,
+      "word": "蜂花蹲热点引发行业人士反感",
+      "onboard_time": 1694580340,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 773379,
+      "num": 335240,
+      "word": "男子发现女儿非亲生伪造亲子鉴定落户",
+      "onboard_time": 1694581837,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740840,
       "num": 740840,
       "word": "云之羽 浅之角",
@@ -208,14 +232,6 @@
       "word": "男孩未注意卫生致猫毛入眼后手术取出",
       "onboard_time": 1694559927,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 685448,
-      "num": 337373,
-      "word": "蜂花蹲热点引发行业人士反感",
-      "onboard_time": 1694580340,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430578,
+      "num": 325598,
+      "word": "长期穿洞洞鞋可能让腿变弯",
+      "onboard_time": 1694581122,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426703,
       "num": 426703,
       "word": "云之羽 虞书欣演技分析",
@@ -475,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 402748,
-      "num": 325598,
-      "word": "长期穿洞洞鞋可能让腿变弯",
-      "onboard_time": 1694581122,
-      "rank": 24,
+      "raw_hot": 407144,
+      "num": 327395,
+      "word": "武汉一公交突发意外致2死3伤",
+      "onboard_time": 1694582859,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -579,14 +603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 329262,
-      "num": 279726,
-      "word": "日本超级软饭男",
-      "onboard_time": 1694581539,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 326141,
       "num": 326141,
       "word": "利比亚东部洪灾遇难者已超5000人",
@@ -675,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252322,
-      "num": 252322,
-      "word": "男子发现女儿非亲生伪造亲子鉴定落户",
-      "onboard_time": 1694581837,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247347,
       "num": 247347,
       "word": "云之羽小分队新浪扫楼",
@@ -697,6 +705,14 @@
       "onboard_time": 1694567080,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240260,
+      "num": 240260,
+      "word": "蜂花产能紧张已断货",
+      "onboard_time": 1694582558,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239692,
@@ -721,6 +737,14 @@
       "onboard_time": 1694572536,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233074,
+      "num": 233074,
+      "word": "韩素希确诊新冠",
+      "onboard_time": 1694582257,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 231566,
@@ -771,6 +795,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 210951,
+      "num": 210951,
+      "word": "厚姬薄发的意思",
+      "onboard_time": 1694582737,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210216,
       "num": 220413,
       "word": "VMA红毯",
@@ -809,6 +841,14 @@
       "onboard_time": 1694578838,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206151,
+      "num": 206151,
+      "word": "黄仁俊金泳勋 Baggy Jeans",
+      "onboard_time": 1694582676,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205305,
@@ -1283,12 +1323,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 65825,
+      "num": 262957,
+      "word": "原来世界冠军也玩原神",
+      "onboard_time": 1694582137,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57047,
       "num": 589131,
       "word": "女子自学全国方言9年帮数百人寻亲",
       "onboard_time": 1694574997,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55984,
+      "num": 404547,
+      "word": "花滑冠军 枫丹启动",
+      "onboard_time": 1694581237,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 51226,
@@ -1313,14 +1369,6 @@
       "onboard_time": 1694522856,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41128,
-      "num": 404547,
-      "word": "花滑冠军 枫丹启动",
-      "onboard_time": 1694581237,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 35625,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10972,
-      "num": 170873,
-      "word": "原来世界冠军也玩原神",
-      "onboard_time": 1694582137,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 5003,

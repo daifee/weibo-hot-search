@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694582147444,
+  "endTime": 1694583250731,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -611,6 +611,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 2692816,
+      "num": 441675,
+      "word": "上海胸外科医生回应李佳琦言论",
+      "onboard_time": 1694580103,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2676591,
       "num": 553126,
       "word": "劣迹艺人的历史作品还能不能收看",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1694402499,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2203264,
-      "num": 441675,
-      "word": "上海胸外科医生回应李佳琦言论",
-      "onboard_time": 1694580103,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2192212,
@@ -3747,6 +3747,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 1015603,
+      "num": 340493,
+      "word": "日本超级软饭男",
+      "onboard_time": 1694581539,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1014155,
       "num": 1014155,
       "word": "BLACKPINK QQ音乐",
@@ -4521,6 +4529,14 @@
       "onboard_time": 1693527214,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 895913,
+      "num": 895913,
+      "word": "蜂花蹲热点引发行业人士反感",
+      "onboard_time": 1694580340,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 894418,
@@ -5587,6 +5603,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 773379,
+      "num": 335240,
+      "word": "男子发现女儿非亲生伪造亲子鉴定落户",
+      "onboard_time": 1694581837,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772765,
       "num": 772765,
       "word": "邓为费加罗男士金九三封",
@@ -6577,14 +6601,6 @@
       "onboard_time": 1693842456,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 685448,
-      "num": 337373,
-      "word": "蜂花蹲热点引发行业人士反感",
-      "onboard_time": 1694580340,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685317,
@@ -11939,6 +11955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430578,
+      "num": 325598,
+      "word": "长期穿洞洞鞋可能让腿变弯",
+      "onboard_time": 1694581122,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429986,
       "num": 384293,
       "word": "一个班里两个炸裂的名字",
@@ -12723,6 +12747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407144,
+      "num": 327395,
+      "word": "武汉一公交突发意外致2死3伤",
+      "onboard_time": 1694582859,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406631,
       "num": 325220,
       "word": "张柏芝公主切",
@@ -12857,14 +12889,6 @@
       "onboard_time": 1693528837,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 402748,
-      "num": 325598,
-      "word": "长期穿洞洞鞋可能让腿变弯",
-      "onboard_time": 1694581122,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402640,
@@ -15249,14 +15273,6 @@
       "onboard_time": 1693992336,
       "rank": 26,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 329262,
-      "num": 279726,
-      "word": "日本超级软饭男",
-      "onboard_time": 1694581539,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 329238,
@@ -19339,14 +19355,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 252322,
-      "num": 252322,
-      "word": "男子发现女儿非亲生伪造亲子鉴定落户",
-      "onboard_time": 1694581837,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252312,
       "num": 252312,
       "word": "数学的诡异漏洞",
@@ -20139,6 +20147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240260,
+      "num": 240260,
+      "word": "蜂花产能紧张已断货",
+      "onboard_time": 1694582558,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240017,
       "num": 240017,
       "word": "甄子丹回应排场大",
@@ -20665,6 +20681,14 @@
       "onboard_time": 1694066559,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233074,
+      "num": 233074,
+      "word": "韩素希确诊新冠",
+      "onboard_time": 1694582257,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 232921,
@@ -22283,6 +22307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210951,
+      "num": 210951,
+      "word": "厚姬薄发的意思",
+      "onboard_time": 1694582737,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210936,
       "num": 210936,
       "word": "亚运会电竞",
@@ -22817,6 +22849,14 @@
       "onboard_time": 1694394397,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 206151,
+      "num": 206151,
+      "word": "黄仁俊金泳勋 Baggy Jeans",
+      "onboard_time": 1694582676,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206063,
@@ -31523,6 +31563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65825,
+      "num": 262957,
+      "word": "原来世界冠军也玩原神",
+      "onboard_time": 1694582137,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65808,
       "num": 65808,
       "word": "全班同学便利贴写祝福拼成画送老师",
@@ -31689,6 +31737,14 @@
       "onboard_time": 1693890101,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55984,
+      "num": 404547,
+      "word": "花滑冠军 枫丹启动",
+      "onboard_time": 1694581237,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 55663,
@@ -32185,14 +32241,6 @@
       "onboard_time": 1693556200,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41128,
-      "num": 404547,
-      "word": "花滑冠军 枫丹启动",
-      "onboard_time": 1694581237,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 40302,
@@ -33001,14 +33049,6 @@
       "onboard_time": 1693812153,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10972,
-      "num": 170873,
-      "word": "原来世界冠军也玩原神",
-      "onboard_time": 1694582137,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 8383,
