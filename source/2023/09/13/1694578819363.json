@@ -1,0 +1,410 @@
+{
+  "runTime": 1694578819363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2637168,
+        "num": 2637168,
+        "word": "无效刷牙",
+        "onboard_time": 1694571997,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1401155,
+        "num": 1401155,
+        "word": "郭碧婷向佐全黑色系红毯造型",
+        "onboard_time": 1694573378,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5003,
+        "num": 1056588,
+        "word": "高校开学校长寄语合集",
+        "onboard_time": 1694578783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893678,
+        "num": 893678,
+        "word": "优酷他急了",
+        "onboard_time": 1694567740,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 796201,
+        "num": 796201,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 4,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 730214,
+        "num": 730214,
+        "word": "蜜雪冰城又被新兵攻陷了",
+        "onboard_time": 1694564080,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 669480,
+        "num": 669480,
+        "word": "云之羽 浅之角",
+        "onboard_time": 1694571578,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632370,
+        "num": 632370,
+        "word": "霉霉看StrayKids表演的反应",
+        "onboard_time": 1694576737,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 529565,
+        "num": 629150,
+        "word": "法院回应鹤岗女子还贷10年房子被占",
+        "onboard_time": 1694567680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443801,
+        "num": 626864,
+        "word": "A股",
+        "onboard_time": 1694572776,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1965487,
+        "num": 620334,
+        "word": "男子考研落榜猥亵11岁女生寻刺激",
+        "onboard_time": 1694569958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645499,
+        "num": 612630,
+        "word": "马立奥 kisskiss",
+        "onboard_time": 1694575417,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442158,
+        "num": 606044,
+        "word": "老人穿15元的鞋却给家乡捐了1000万",
+        "onboard_time": 1694562519,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 247139,
+        "num": 600653,
+        "word": "七仔拒绝了食堂决定自己整点吃的",
+        "onboard_time": 1694564383,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179512,
+        "num": 597005,
+        "word": "4000万中央资金建3个项目竟全烂尾",
+        "onboard_time": 1694531381,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595049,
+        "num": 595049,
+        "word": "张亮读写给天天的信都没哭这么惨",
+        "onboard_time": 1694574335,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510383,
+        "num": 510383,
+        "word": "雎晓雯孕肚照封面",
+        "onboard_time": 1694575898,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 503696,
+        "num": 503696,
+        "word": "我们的歌第五季定档",
+        "onboard_time": 1694578360,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462470,
+        "num": 462470,
+        "word": "贾正亮飞刀打伤准女友",
+        "onboard_time": 1694573496,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459732,
+        "num": 459732,
+        "word": "日本研究机构发生放射性物质泄漏",
+        "onboard_time": 1694570978,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1514147,
+        "num": 420852,
+        "word": "该如何对待说了错话的李佳琦",
+        "onboard_time": 1694576316,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 890945,
+        "num": 403499,
+        "word": "女子腹痛不知怀孕医院厕所产女",
+        "onboard_time": 1694577638,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666491,
+        "num": 400567,
+        "word": "原来鼻炎还会影响外貌",
+        "onboard_time": 1694576435,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380534,
+        "num": 380534,
+        "word": "我好像在飞机上拍到五月天了",
+        "onboard_time": 1694566363,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364734,
+        "num": 364734,
+        "word": "网友测评79元花西子眉笔能画21个月",
+        "onboard_time": 1694531797,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 345998,
+        "num": 345998,
+        "word": "才发现朋友圈发多了会折叠",
+        "onboard_time": 1694563542,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332751,
+        "num": 332751,
+        "word": "许凯当选杭州亚运会火炬手",
+        "onboard_time": 1694576255,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 323628,
+        "num": 323628,
+        "word": "做过教师才会明白教师的苦",
+        "onboard_time": 1694572179,
+        "rank": 27,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 94132,
+        "num": 311305,
+        "word": "一个书包一声鸣笛的默契好暖",
+        "onboard_time": 1694575595,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 309166,
+        "num": 309166,
+        "word": "为什么排骨比瘦肉卖的贵",
+        "onboard_time": 1694571636,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295316,
+        "num": 295316,
+        "word": "长相思非会员收官",
+        "onboard_time": 1694576859,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281178,
+        "num": 281178,
+        "word": "我已经长大了 我只要豆浆和油条",
+        "onboard_time": 1694564864,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251414,
+        "num": 251414,
+        "word": "蜂花客服发声称我们没那么惨",
+        "onboard_time": 1694565404,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249970,
+        "num": 249970,
+        "word": "猫咪躲在台阶上吓学生玩",
+        "onboard_time": 1694578057,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238163,
+        "num": 238163,
+        "word": "大爷便秘用30厘米管子为自己掏粪",
+        "onboard_time": 1694578659,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237704,
+        "num": 237704,
+        "word": "向佐发长文回应为什么不躺平",
+        "onboard_time": 1694561612,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227096,
+        "num": 227096,
+        "word": "云之羽小分队新浪扫楼",
+        "onboard_time": 1694572296,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209961,
+        "num": 209961,
+        "word": "田曦薇大奉打更人红衣路透",
+        "onboard_time": 1694575179,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204460,
+        "num": 204460,
+        "word": "Uzi薇恩臻彩",
+        "onboard_time": 1694564025,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200021,
+        "num": 200021,
+        "word": "黄仁俊只吃一勺钟辰乐大吃一斤",
+        "onboard_time": 1694576497,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198325,
+        "num": 198325,
+        "word": "这么多年工资涨没涨",
+        "onboard_time": 1694561252,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45531,
+        "num": 188825,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1694524963,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185352,
+        "num": 185352,
+        "word": "一滴水放大100倍后有多震撼",
+        "onboard_time": 1694574637,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173118,
+        "num": 173118,
+        "word": "邓为清冷感黑西装",
+        "onboard_time": 1694575056,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172489,
+        "num": 172489,
+        "word": "骄阳伴我里的爱永远拿得出手",
+        "onboard_time": 1694578600,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166973,
+        "num": 166973,
+        "word": "雪代薰画的李莲花",
+        "onboard_time": 1694578301,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166037,
+        "num": 166037,
+        "word": "石家庄找到自己市歌了",
+        "onboard_time": 1694572536,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164025,
+        "num": 164025,
+        "word": "StrayKids获VMA最佳KPOP",
+        "onboard_time": 1694578722,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159267,
+        "num": 159267,
+        "word": "未定事件簿邀请函",
+        "onboard_time": 1694577458,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161032,
+        "num": 158799,
+        "word": "傅云深吻得好主动",
+        "onboard_time": 1694563302,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#恪守立党为公执政为民理念#"
+    }
+  }
+}

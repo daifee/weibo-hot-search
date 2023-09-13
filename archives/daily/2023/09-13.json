@@ -1,22 +1,22 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694576047436,
+  "endTime": 1694578819363,
   "band_list": [
     {
-      "raw_hot": 2579887,
-      "num": 605109,
-      "word": "男子考研落榜猥亵11岁女生寻刺激",
-      "onboard_time": 1694569958,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2517757,
-      "num": 2517757,
+      "raw_hot": 2637168,
+      "num": 2637168,
       "word": "无效刷牙",
       "onboard_time": 1694571997,
       "rank": 27,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 2579887,
+      "num": 620334,
+      "word": "男子考研落榜猥亵11岁女生寻刺激",
+      "onboard_time": 1694569958,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2501784,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1514147,
+      "num": 420852,
+      "word": "该如何对待说了错话的李佳琦",
+      "onboard_time": 1694576316,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1504178,
       "num": 1504178,
       "word": "扁桃体结石 龙涎香",
@@ -91,6 +99,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1401155,
+      "num": 1401155,
+      "word": "郭碧婷向佐全黑色系红毯造型",
+      "onboard_time": 1694573378,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1215006,
       "num": 1215006,
       "word": "华为发布会",
@@ -99,19 +115,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1111019,
-      "num": 1111019,
-      "word": "郭碧婷向佐全黑色系红毯造型",
-      "onboard_time": 1694573378,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 899284,
       "num": 899284,
       "word": "法院回应鹤岗女子还贷10年房子被占",
       "onboard_time": 1694567680,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890945,
+      "num": 403499,
+      "word": "女子腹痛不知怀孕医院厕所产女",
+      "onboard_time": 1694577638,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -171,12 +187,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666491,
+      "num": 400567,
+      "word": "原来鼻炎还会影响外貌",
+      "onboard_time": 1694576435,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 645820,
       "num": 645820,
       "word": "A股",
       "onboard_time": 1694572776,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 645499,
+      "num": 612630,
+      "word": "马立奥 kisskiss",
+      "onboard_time": 1694575417,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 632370,
+      "num": 632370,
+      "word": "霉霉看StrayKids表演的反应",
+      "onboard_time": 1694576737,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 610330,
@@ -275,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 510383,
+      "num": 510383,
+      "word": "雎晓雯孕肚照封面",
+      "onboard_time": 1694575898,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 504932,
       "num": 504932,
       "word": "莲花味精上架79元的套餐",
@@ -283,12 +331,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 504669,
-      "num": 504669,
-      "word": "马立奥 kisskiss",
-      "onboard_time": 1694575417,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 503696,
+      "num": 503696,
+      "word": "我们的歌第五季定档",
+      "onboard_time": 1694578360,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 503605,
@@ -329,6 +377,14 @@
       "onboard_time": 1694571636,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 462470,
+      "num": 462470,
+      "word": "贾正亮飞刀打伤准女友",
+      "onboard_time": 1694573496,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 441514,
@@ -377,14 +433,6 @@
       "onboard_time": 1694565164,
       "rank": 23,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 380078,
-      "num": 380078,
-      "word": "贾正亮飞刀打伤准女友",
-      "onboard_time": 1694573496,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 373269,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332751,
+      "num": 332751,
+      "word": "许凯当选杭州亚运会火炬手",
+      "onboard_time": 1694576255,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 330391,
       "num": 330391,
       "word": "国足主帅称输球是因为运气不好",
@@ -481,6 +537,14 @@
       "onboard_time": 1694571095,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295316,
+      "num": 295316,
+      "word": "长相思非会员收官",
+      "onboard_time": 1694576859,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 285742,
@@ -531,20 +595,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249970,
+      "num": 249970,
+      "word": "猫咪躲在台阶上吓学生玩",
+      "onboard_time": 1694578057,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247347,
       "num": 247347,
       "word": "云之羽小分队新浪扫楼",
       "onboard_time": 1694572296,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243138,
-      "num": 243138,
-      "word": "雎晓雯孕肚照封面",
-      "onboard_time": 1694575898,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242648,
@@ -561,6 +625,14 @@
       "onboard_time": 1694522199,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238163,
+      "num": 238163,
+      "word": "大爷便秘用30厘米管子为自己掏粪",
+      "onboard_time": 1694578659,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237577,
@@ -619,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209961,
+      "num": 209961,
+      "word": "田曦薇大奉打更人红衣路透",
+      "onboard_time": 1694575179,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207084,
       "num": 207084,
       "word": "邓为清冷感黑西装",
@@ -649,6 +729,14 @@
       "onboard_time": 1694522799,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200021,
+      "num": 200021,
+      "word": "黄仁俊只吃一勺钟辰乐大吃一斤",
+      "onboard_time": 1694576497,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 199912,
@@ -731,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186724,
-      "num": 186724,
-      "word": "田曦薇大奉打更人红衣路透",
-      "onboard_time": 1694575179,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185333,
       "num": 635665,
       "word": "Mate60深度评测",
@@ -764,7 +844,7 @@
     },
     {
       "raw_hot": 183742,
-      "num": 183742,
+      "num": 311305,
       "word": "一个书包一声鸣笛的默契好暖",
       "onboard_time": 1694575595,
       "rank": 43,
@@ -795,6 +875,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 172489,
+      "num": 172489,
+      "word": "骄阳伴我里的爱永远拿得出手",
+      "onboard_time": 1694578600,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171026,
       "num": 171026,
       "word": "花西子同款眉笔成本价不超10元",
@@ -811,12 +899,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166973,
+      "num": 166973,
+      "word": "雪代薰画的李莲花",
+      "onboard_time": 1694578301,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165799,
       "num": 165799,
       "word": "陈牧驰老兵精神永存",
       "onboard_time": 1694533421,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164025,
+      "num": 164025,
+      "word": "StrayKids获VMA最佳KPOP",
+      "onboard_time": 1694578722,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 159267,
+      "num": 159267,
+      "word": "未定事件簿邀请函",
+      "onboard_time": 1694577458,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 158187,
@@ -1129,6 +1241,14 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5003,
+      "num": 1056588,
+      "word": "高校开学校长寄语合集",
+      "onboard_time": 1694578783,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
