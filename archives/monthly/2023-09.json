@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694593302867,
+  "endTime": 1694594082535,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -795,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2504450,
+      "num": 536194,
+      "word": "法国决定禁售iPhone12",
+      "onboard_time": 1694589392,
+      "rank": 20,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 2501784,
       "num": 135025,
       "word": "苹果新品发布会",
       "onboard_time": 1694530543,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2499083,
-      "num": 536194,
-      "word": "法国决定禁售iPhone12",
-      "onboard_time": 1694589392,
-      "rank": 20,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 2481208,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1694219191,
       "rank": 0,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 2187161,
+      "num": 2187161,
+      "word": "演员滕汝骏去世",
+      "onboard_time": 1694592398,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2181736,
@@ -3147,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1190531,
+      "num": 483891,
+      "word": "眉笔价格不能只论笔芯",
+      "onboard_time": 1694590717,
+      "rank": 15,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 1189934,
       "num": 1189934,
       "word": "金靖出场把我笑死",
@@ -3433,14 +3449,6 @@
       "onboard_time": 1693740043,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1107359,
-      "num": 1107359,
-      "word": "演员滕汝骏去世",
-      "onboard_time": 1694592398,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1104732,
@@ -4185,14 +4193,6 @@
       "onboard_time": 1693835380,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 957033,
-      "num": 483891,
-      "word": "眉笔价格不能只论笔芯",
-      "onboard_time": 1694590717,
-      "rank": 15,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 956134,
@@ -6467,6 +6467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 701754,
+      "num": 701754,
+      "word": "云之羽扫楼跳虞书欣ohmy",
+      "onboard_time": 1694591136,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 701545,
       "num": 701545,
       "word": "秀才曾在直播时高喊给我你的医药费",
@@ -7065,14 +7073,6 @@
       "onboard_time": 1693801481,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 659002,
-      "num": 659002,
-      "word": "云之羽扫楼跳虞书欣ohmy",
-      "onboard_time": 1694591136,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 658855,
@@ -8065,6 +8065,14 @@
       "onboard_time": 1693973197,
       "rank": 15,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 605813,
+      "num": 470443,
+      "word": "华西医院回应男医生被女同事捅伤",
+      "onboard_time": 1694591915,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605251,
@@ -10587,6 +10595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485656,
+      "num": 485656,
+      "word": "Baggy Jeans 韩国大学考试禁曲",
+      "onboard_time": 1694591014,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485355,
       "num": 485355,
       "word": "天津跳水大爷逐渐专业化了",
@@ -11027,28 +11043,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 470579,
-      "num": 470579,
-      "word": "Baggy Jeans 韩国大学考试禁曲",
-      "onboard_time": 1694591014,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 470461,
       "num": 470461,
       "word": "教师节祝福",
       "onboard_time": 1694305531,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 470443,
-      "num": 470443,
-      "word": "华西医院回应男医生被女同事捅伤",
-      "onboard_time": 1694591915,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470042,
@@ -12361,6 +12361,14 @@
       "onboard_time": 1694366602,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424863,
+      "num": 388545,
+      "word": "老外说中国一个APP等于法国几百个",
+      "onboard_time": 1694592996,
+      "rank": 44,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 424802,
@@ -15363,6 +15371,14 @@
       "category": "游戏,时尚"
     },
     {
+      "raw_hot": 332858,
+      "num": 332858,
+      "word": "成毅的哈基米跟着他转世了",
+      "onboard_time": 1694593116,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332547,
       "num": 332547,
       "word": "Twins说毛不易粤语像她们普通话一样标准",
@@ -16795,6 +16811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304752,
+      "num": 304752,
+      "word": "田嘉瑞曾探班2次虞书欣",
+      "onboard_time": 1694593718,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304591,
       "num": 304591,
       "word": "兮兮",
@@ -17681,6 +17705,14 @@
       "onboard_time": 1694164538,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287230,
+      "num": 287230,
+      "word": "余华 累了就休息",
+      "onboard_time": 1694592336,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 287074,
@@ -18739,6 +18771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266446,
+      "num": 266446,
+      "word": "丞磊脸红得快熟了",
+      "onboard_time": 1694593537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266349,
       "num": 257192,
       "word": "为什么不能抠肚脐眼",
@@ -19273,6 +19313,14 @@
       "onboard_time": 1693746463,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258822,
+      "num": 258822,
+      "word": "孟宴臣高启强 双疯",
+      "onboard_time": 1694593656,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 258812,
@@ -20859,6 +20907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233788,
+      "num": 233788,
+      "word": "12306称没有高铁不能化妆相关规定",
+      "onboard_time": 1694593656,
+      "rank": 35,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 233627,
       "num": 233627,
       "word": "华为OPPO在一起",
@@ -21883,6 +21939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219888,
+      "num": 219888,
+      "word": "被猫坚定选中的人",
+      "onboard_time": 1694592456,
+      "rank": 35,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 219779,
       "num": 219779,
       "word": "张凌赫周杰伦演唱会vlog",
@@ -22307,14 +22371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214598,
-      "num": 214598,
-      "word": "余华 累了就休息",
-      "onboard_time": 1694592336,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214466,
       "num": 214466,
       "word": "这大熊猫一看就有800个心眼子",
@@ -22683,6 +22739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209421,
+      "num": 209421,
+      "word": "最还原原著的角色",
+      "onboard_time": 1694593296,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209401,
       "num": 209401,
       "word": "NCT日本队",
@@ -22737,6 +22801,14 @@
       "onboard_time": 1694076696,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208952,
+      "num": 208952,
+      "word": "憋尿睡觉的危害有多大",
+      "onboard_time": 1694593777,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208935,
@@ -24251,6 +24323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198368,
+      "num": 198368,
+      "word": "文淇居然当制片人了",
+      "onboard_time": 1694593177,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198299,
       "num": 198299,
       "word": "林墨收自己的小卡",
@@ -24345,14 +24425,6 @@
       "onboard_time": 1693959337,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197738,
-      "num": 197738,
-      "word": "被猫坚定选中的人",
-      "onboard_time": 1694592456,
-      "rank": 35,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 197650,
@@ -24708,7 +24780,7 @@
     },
     {
       "raw_hot": 195199,
-      "num": 195199,
+      "num": 433186,
       "word": "要求大型演出实名购票实名入场",
       "onboard_time": 1694586696,
       "rank": 33,
@@ -27451,14 +27523,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 167887,
-      "num": 167887,
-      "word": "成毅的哈基米跟着他转世了",
-      "onboard_time": 1694593116,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167805,
       "num": 167805,
       "word": "大三男生开学日救了另一名大学生",
@@ -27715,6 +27779,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 164653,
+      "num": 164653,
+      "word": "水泥罐车滚落父亲拎起5岁儿子逃生",
+      "onboard_time": 1694592694,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164547,
       "num": 207480,
       "word": "张栋梁晒鬼脚梁的养成日记",
@@ -27825,14 +27897,6 @@
       "onboard_time": 1693476760,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163349,
-      "num": 163349,
-      "word": "水泥罐车滚落父亲拎起5岁儿子逃生",
-      "onboard_time": 1694592694,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163271,
@@ -28129,14 +28193,6 @@
       "onboard_time": 1693487255,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159890,
-      "num": 159890,
-      "word": "老外说中国一个APP等于法国几百个",
-      "onboard_time": 1694592996,
-      "rank": 44,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 159790,
@@ -30291,6 +30347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 124604,
+      "num": 1009788,
+      "word": "我国首艘国产大型邮轮试航成功",
+      "onboard_time": 1694592158,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124521,
       "num": 73161,
       "word": "副院长猥亵女学生获刑",
@@ -31528,14 +31592,6 @@
       "word": "73岁意大利奶奶徒步重走古丝绸之路",
       "onboard_time": 1693980032,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84741,
-      "num": 800454,
-      "word": "我国首艘国产大型邮轮试航成功",
-      "onboard_time": 1694592158,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
