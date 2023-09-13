@@ -1,0 +1,410 @@
+{
+  "runTime": 1694619261096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4482743,
+        "num": 4482743,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1895669,
+        "num": 1895669,
+        "word": "专家曾称外星人不敢来地球",
+        "onboard_time": 1694611183,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10672,
+        "num": 1269969,
+        "word": "高校开学校长寄语合集",
+        "onboard_time": 1694578783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825641,
+        "num": 825641,
+        "word": "交通局拒绝公开前局长孙女炫富调查结果",
+        "onboard_time": 1694611479,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796833,
+        "num": 796833,
+        "word": "国家一级演员苏孝林被决定逮捕",
+        "onboard_time": 1694600797,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 568637,
+        "num": 568637,
+        "word": "成毅发了2018年的文案",
+        "onboard_time": 1694611600,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568096,
+        "num": 568096,
+        "word": "一诺",
+        "onboard_time": 1694614182,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 555899,
+        "num": 555899,
+        "word": "你姐让我来看看我小姨",
+        "onboard_time": 1694615263,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520905,
+        "num": 520905,
+        "word": "你会花4300元买一支口红吗",
+        "onboard_time": 1694601516,
+        "rank": 8,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 1858444,
+        "num": 520291,
+        "word": "NARS",
+        "onboard_time": 1694614367,
+        "rank": 9,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 2758374,
+        "num": 519086,
+        "word": "外星人",
+        "onboard_time": 1694604577,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1770126,
+        "num": 518007,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 11,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 1164295,
+        "num": 515784,
+        "word": "邓为 我不信了",
+        "onboard_time": 1694616463,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182874,
+        "num": 514411,
+        "word": "利比亚东部洪灾已致超6000人遇难",
+        "onboard_time": 1694612861,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182256,
+        "num": 513485,
+        "word": "女子对着监控喊爸爸每一声都有回应",
+        "onboard_time": 1694615082,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088654,
+        "num": 512555,
+        "word": "何捷蹲地为张馨予拍照",
+        "onboard_time": 1694612801,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1056141,
+        "num": 510543,
+        "word": "檀健次 十六岁以下金奖和一等奖",
+        "onboard_time": 1694616942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1020389,
+        "num": 509689,
+        "word": "腾讯QQ被处100万元罚款",
+        "onboard_time": 1694612744,
+        "rank": 17,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 826219,
+        "num": 508165,
+        "word": "你工资减三千还剩多少花西币",
+        "onboard_time": 1694611966,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 415795,
+        "num": 507316,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611948,
+        "num": 505213,
+        "word": "周笔畅因为忌口太多emo了",
+        "onboard_time": 1694616343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505080,
+        "num": 505080,
+        "word": "十年都没有涨过价东西",
+        "onboard_time": 1694617965,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487341,
+        "num": 487341,
+        "word": "26岁姑娘没有任何不适却确诊血癌",
+        "onboard_time": 1694610766,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400065,
+        "num": 400065,
+        "word": "70岁房东失联租客察觉不对果断报警",
+        "onboard_time": 1694618081,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384435,
+        "num": 384435,
+        "word": "田嘉瑞翻牌",
+        "onboard_time": 1694618504,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334620,
+        "num": 334620,
+        "word": "海底哥斯拉 海鬣蜥",
+        "onboard_time": 1694616167,
+        "rank": 25,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 330332,
+        "num": 330332,
+        "word": "有什么手机能用八年以上",
+        "onboard_time": 1694614122,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 327495,
+        "num": 327495,
+        "word": "小米14",
+        "onboard_time": 1694617366,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318717,
+        "num": 318717,
+        "word": "李维嘉爸爸面对诈骗的思路",
+        "onboard_time": 1694611363,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312357,
+        "num": 312357,
+        "word": "减脂突然就没那么难了",
+        "onboard_time": 1694603076,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 296287,
+        "num": 296287,
+        "word": "以前的伍佰和现在的伍佰",
+        "onboard_time": 1694616642,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292557,
+        "num": 292557,
+        "word": "向佐 我们的图来了",
+        "onboard_time": 1694612681,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282125,
+        "num": 282125,
+        "word": "原来七窍流血是侯明昊自己提的",
+        "onboard_time": 1694618324,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262860,
+        "num": 262860,
+        "word": "取快递被挂上表白墙了",
+        "onboard_time": 1694610164,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244208,
+        "num": 244208,
+        "word": "云之羽世界名画",
+        "onboard_time": 1694613041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236118,
+        "num": 236118,
+        "word": "邓紫棋巡演",
+        "onboard_time": 1694616404,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235299,
+        "num": 235299,
+        "word": "外交部辟谣中国政府机关禁用苹果手机",
+        "onboard_time": 1694608537,
+        "rank": 36,
+        "category": "国内要闻,数码"
+      },
+      {
+        "raw_hot": 234047,
+        "num": 234047,
+        "word": "你相信外星人真的存在吗",
+        "onboard_time": 1694617543,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209901,
+        "num": 209901,
+        "word": "太爱南风知我意的镜头美学",
+        "onboard_time": 1694617965,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207200,
+        "num": 207200,
+        "word": "苹果12辐射",
+        "onboard_time": 1694595219,
+        "rank": 39,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 207182,
+        "num": 207182,
+        "word": "精心 接商战代打",
+        "onboard_time": 1694618441,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204142,
+        "num": 204142,
+        "word": "小米14系列订单增加60%",
+        "onboard_time": 1694613942,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199401,
+        "num": 199401,
+        "word": "李莲花没死夺舍了傅云深",
+        "onboard_time": 1694613766,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197181,
+        "num": 197181,
+        "word": "虞书欣回应分开上hi6的原因",
+        "onboard_time": 1694598760,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190624,
+        "num": 190624,
+        "word": "我为全村的老人拍好了遗照",
+        "onboard_time": 1694618920,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185842,
+        "num": 185842,
+        "word": "白敬亭的嘴从不让人失望",
+        "onboard_time": 1694612381,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185308,
+        "num": 185308,
+        "word": "国货 团结",
+        "onboard_time": 1694619163,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183142,
+        "num": 183142,
+        "word": "宫二 心动在上元节吃饭",
+        "onboard_time": 1694618203,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181381,
+        "num": 181381,
+        "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+        "onboard_time": 1694604636,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181243,
+        "num": 181243,
+        "word": "安宥真 Smoke Challenge",
+        "onboard_time": 1694619221,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}

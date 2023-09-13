@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694618256049,
+  "endTime": 1694619261096,
   "band_list": [
     {
       "raw_hot": 5696872,
@@ -155,12 +155,20 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 1882851,
-      "num": 1882851,
+      "raw_hot": 1895669,
+      "num": 1895669,
       "word": "专家曾称外星人不敢来地球",
       "onboard_time": 1694611183,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1858444,
+      "num": 1757191,
+      "word": "NARS",
+      "onboard_time": 1694614367,
+      "rank": 48,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 1831007,
@@ -193,14 +201,6 @@
       "onboard_time": 1694602658,
       "rank": 21,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1757191,
-      "num": 1757191,
-      "word": "NARS",
-      "onboard_time": 1694614367,
-      "rank": 48,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 1755247,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1231262,
-      "num": 444692,
+      "num": 515784,
       "word": "邓为 我不信了",
       "onboard_time": 1694616463,
       "rank": 12,
@@ -361,6 +361,14 @@
       "onboard_time": 1694611479,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1056141,
+      "num": 510543,
+      "word": "檀健次 十六岁以下金奖和一等奖",
+      "onboard_time": 1694616942,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1048805,
@@ -409,14 +417,6 @@
       "onboard_time": 1694611363,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 910476,
-      "num": 417127,
-      "word": "檀健次 十六岁以下金奖和一等奖",
-      "onboard_time": 1694616942,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 908988,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 726813,
-      "num": 407260,
+      "num": 487341,
       "word": "26岁姑娘没有任何不适却确诊血癌",
       "onboard_time": 1694610766,
       "rank": 30,
@@ -657,6 +657,14 @@
       "onboard_time": 1694591796,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 611948,
+      "num": 505213,
+      "word": "周笔畅因为忌口太多emo了",
+      "onboard_time": 1694616343,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 610330,
@@ -795,6 +803,14 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 555899,
+      "num": 555899,
+      "word": "你姐让我来看看我小姨",
+      "onboard_time": 1694615263,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555879,
       "num": 260066,
       "word": "马斯克曾要求前女友cos守望天使",
@@ -841,14 +857,6 @@
       "onboard_time": 1694566363,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 528540,
-      "num": 404347,
-      "word": "周笔畅因为忌口太多emo了",
-      "onboard_time": 1694616343,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 526031,
@@ -913,6 +921,14 @@
       "onboard_time": 1694578900,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 505080,
+      "num": 505080,
+      "word": "十年都没有涨过价东西",
+      "onboard_time": 1694617965,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 504932,
@@ -1139,20 +1155,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401998,
-      "num": 401998,
-      "word": "你姐让我来看看我小姨",
-      "onboard_time": 1694615263,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401754,
       "num": 305833,
       "word": "学校内衣内裤混洗的人贴了文献",
       "onboard_time": 1694515898,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 400065,
+      "num": 400065,
+      "word": "70岁房东失联租客察觉不对果断报警",
+      "onboard_time": 1694618081,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398125,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1694595876,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 384435,
+      "num": 384435,
+      "word": "田嘉瑞翻牌",
+      "onboard_time": 1694618504,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 373269,
@@ -1315,12 +1339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330332,
+      "num": 330332,
+      "word": "有什么手机能用八年以上",
+      "onboard_time": 1694614122,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 330165,
       "num": 330165,
       "word": "中小学教师从事学科类校外培训将从重处罚",
       "onboard_time": 1694526225,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 327495,
+      "num": 327495,
+      "word": "小米14",
+      "onboard_time": 1694617366,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 327241,
@@ -1395,14 +1435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 300486,
-      "num": 300486,
-      "word": "十年都没有涨过价东西",
-      "onboard_time": 1694617965,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 300477,
       "num": 460075,
       "word": "简阳一塔吊垮塌致6人死亡",
@@ -1440,14 +1472,6 @@
       "word": "华为Mate60Pro+体验",
       "onboard_time": 1694601159,
       "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 290971,
-      "num": 290971,
-      "word": "有什么手机能用八年以上",
-      "onboard_time": 1694614122,
-      "rank": 46,
       "category": "数码"
     },
     {
@@ -1504,6 +1528,14 @@
       "word": "林一沈月或将二搭",
       "onboard_time": 1694600917,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 282125,
+      "num": 282125,
+      "word": "原来七窍流血是侯明昊自己提的",
+      "onboard_time": 1694618324,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1667,14 +1699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232309,
-      "num": 232309,
-      "word": "小米14",
-      "onboard_time": 1694617366,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 231566,
       "num": 231566,
       "word": "画眼线时的一句东方神秘咒语",
@@ -1787,14 +1811,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 212716,
-      "num": 212716,
-      "word": "70岁房东失联租客察觉不对果断报警",
-      "onboard_time": 1694618081,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212062,
       "num": 212062,
       "word": "古言女主打胎能力堪比人流门诊",
@@ -1880,6 +1896,14 @@
       "word": "小时候和长大后生病的区别",
       "onboard_time": 1694613942,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 207182,
+      "num": 207182,
+      "word": "精心 接商战代打",
+      "onboard_time": 1694618441,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -2123,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190624,
+      "num": 190624,
+      "word": "我为全村的老人拍好了遗照",
+      "onboard_time": 1694618920,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190378,
       "num": 190378,
       "word": "夜色尚浅",
@@ -2179,6 +2211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185308,
+      "num": 185308,
+      "word": "国货 团结",
+      "onboard_time": 1694619163,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 185243,
       "num": 185243,
       "word": "宫二 心动在上元节吃饭",
@@ -2217,6 +2257,22 @@
       "onboard_time": 1694575595,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 182256,
+      "num": 513485,
+      "word": "女子对着监控喊爸爸每一声都有回应",
+      "onboard_time": 1694615082,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181243,
+      "num": 181243,
+      "word": "安宥真 Smoke Challenge",
+      "onboard_time": 1694619221,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 180518,
@@ -2321,14 +2377,6 @@
       "onboard_time": 1694578301,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165827,
-      "num": 435714,
-      "word": "女子对着监控喊爸爸每一声都有回应",
-      "onboard_time": 1694615082,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165799,

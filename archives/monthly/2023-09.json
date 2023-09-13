@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694618256049,
+  "endTime": 1694619261096,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1619,20 +1619,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1895669,
+      "num": 1895669,
+      "word": "专家曾称外星人不敢来地球",
+      "onboard_time": 1694611183,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1895170,
       "num": 1895170,
       "word": "南风知我意定档",
       "onboard_time": 1694433219,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1882851,
-      "num": 1882851,
-      "word": "专家曾称外星人不敢来地球",
-      "onboard_time": 1694611183,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1881975,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1694099620,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1858444,
+      "num": 1757191,
+      "word": "NARS",
+      "onboard_time": 1694614367,
+      "rank": 48,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 1846397,
@@ -1833,14 +1841,6 @@
       "onboard_time": 1694602658,
       "rank": 21,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1757191,
-      "num": 1757191,
-      "word": "NARS",
-      "onboard_time": 1694614367,
-      "rank": 48,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 1755423,
@@ -3164,7 +3164,7 @@
     },
     {
       "raw_hot": 1231262,
-      "num": 444692,
+      "num": 515784,
       "word": "邓为 我不信了",
       "onboard_time": 1694616463,
       "rank": 12,
@@ -3785,6 +3785,14 @@
       "onboard_time": 1694139756,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1056141,
+      "num": 510543,
+      "word": "檀健次 十六岁以下金奖和一等奖",
+      "onboard_time": 1694616942,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1055874,
@@ -4689,14 +4697,6 @@
       "onboard_time": 1694524062,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910476,
-      "num": 417127,
-      "word": "檀健次 十六岁以下金奖和一等奖",
-      "onboard_time": 1694616942,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 908988,
@@ -6484,7 +6484,7 @@
     },
     {
       "raw_hot": 726813,
-      "num": 407260,
+      "num": 487341,
       "word": "26岁姑娘没有任何不适却确诊血癌",
       "onboard_time": 1694610766,
       "rank": 30,
@@ -8179,6 +8179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 611948,
+      "num": 505213,
+      "word": "周笔畅因为忌口太多emo了",
+      "onboard_time": 1694616343,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611506,
       "num": 270398,
       "word": "重庆一中学女生遭多人殴打逼下跪",
@@ -9235,6 +9243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555899,
+      "num": 555899,
+      "word": "你姐让我来看看我小姨",
+      "onboard_time": 1694615263,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555879,
       "num": 260066,
       "word": "马斯克曾要求前女友cos守望天使",
@@ -9899,14 +9915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 528540,
-      "num": 404347,
-      "word": "周笔畅因为忌口太多emo了",
-      "onboard_time": 1694616343,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 528034,
       "num": 528034,
       "word": "乃万演唱会突遇断电",
@@ -10441,6 +10449,14 @@
       "onboard_time": 1694062662,
       "rank": 24,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 505080,
+      "num": 505080,
+      "word": "十年都没有涨过价东西",
+      "onboard_time": 1694617965,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 505043,
@@ -13547,14 +13563,6 @@
       "category": "美妆,财经"
     },
     {
-      "raw_hot": 401998,
-      "num": 401998,
-      "word": "你姐让我来看看我小姨",
-      "onboard_time": 1694615263,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401961,
       "num": 401961,
       "word": "李亚男的画",
@@ -13601,6 +13609,14 @@
       "onboard_time": 1694138674,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400065,
+      "num": 400065,
+      "word": "70岁房东失联租客察觉不对果断报警",
+      "onboard_time": 1694618081,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399961,
@@ -13991,6 +14007,14 @@
       "num": 384471,
       "word": "爱豆心理真的很强大",
       "onboard_time": 1694507201,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 384435,
+      "num": 384435,
+      "word": "田嘉瑞翻牌",
+      "onboard_time": 1694618504,
       "rank": 24,
       "category": "艺人"
     },
@@ -15931,6 +15955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 330332,
+      "num": 330332,
+      "word": "有什么手机能用八年以上",
+      "onboard_time": 1694614122,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 330302,
       "num": 330302,
       "word": "金泰亨solo出道",
@@ -16065,6 +16097,14 @@
       "onboard_time": 1693801421,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327495,
+      "num": 327495,
+      "word": "小米14",
+      "onboard_time": 1694617366,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 327241,
@@ -17571,14 +17611,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 300486,
-      "num": 300486,
-      "word": "十年都没有涨过价东西",
-      "onboard_time": 1694617965,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 300477,
       "num": 460075,
       "word": "简阳一塔吊垮塌致6人死亡",
@@ -18049,14 +18081,6 @@
       "onboard_time": 1693751685,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 290971,
-      "num": 290971,
-      "word": "有什么手机能用八年以上",
-      "onboard_time": 1694614122,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 290964,
@@ -18577,6 +18601,14 @@
       "onboard_time": 1694136214,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282125,
+      "num": 282125,
+      "word": "原来七窍流血是侯明昊自己提的",
+      "onboard_time": 1694618324,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 281952,
@@ -21619,14 +21651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232309,
-      "num": 232309,
-      "word": "小米14",
-      "onboard_time": 1694617366,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 232295,
       "num": 232295,
       "word": "我看封神质子团belike",
@@ -23147,14 +23171,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 212716,
-      "num": 212716,
-      "word": "70岁房东失联租客察觉不对果断报警",
-      "onboard_time": 1694618081,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212706,
       "num": 212706,
       "word": "还以为李子维想要给黄雨萱一刀",
@@ -23768,6 +23784,14 @@
       "word": "小时候和长大后生病的区别",
       "onboard_time": 1694613942,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 207182,
+      "num": 207182,
+      "word": "精心 接商战代打",
+      "onboard_time": 1694618441,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -26155,6 +26179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190624,
+      "num": 190624,
+      "word": "我为全村的老人拍好了遗照",
+      "onboard_time": 1694618920,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190473,
       "num": 190473,
       "word": "周一早上根本醒不来的你",
@@ -26891,6 +26923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185308,
+      "num": 185308,
+      "word": "国货 团结",
+      "onboard_time": 1694619163,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 185279,
       "num": 185279,
       "word": "这周日是教师节",
@@ -27259,6 +27299,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 182256,
+      "num": 513485,
+      "word": "女子对着监控喊爸爸每一声都有回应",
+      "onboard_time": 1694615082,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182035,
       "num": 238221,
       "word": "海淀家长问张朝阳如何考入清华",
@@ -27281,6 +27329,14 @@
       "onboard_time": 1694229152,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181243,
+      "num": 181243,
+      "word": "安宥真 Smoke Challenge",
+      "onboard_time": 1694619221,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 181162,
@@ -28489,14 +28545,6 @@
       "onboard_time": 1693956630,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 165827,
-      "num": 435714,
-      "word": "女子对着监控喊爸爸每一声都有回应",
-      "onboard_time": 1694615082,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165799,
