@@ -1,7 +1,15 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694622053031,
+  "endTime": 1694623019519,
   "band_list": [
+    {
+      "raw_hot": 3893427,
+      "num": 3893427,
+      "word": "全球首个承认外星生物存在的国家",
+      "onboard_time": 1694619940,
+      "rank": 1,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 3488196,
       "num": 3488196,
@@ -9,14 +17,6 @@
       "onboard_time": 1694608364,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3392644,
-      "num": 3392644,
-      "word": "全球首个承认外星生物存在的国家",
-      "onboard_time": 1694619940,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1554394,
@@ -51,8 +51,8 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 666407,
-      "num": 666407,
+      "raw_hot": 817421,
+      "num": 817421,
       "word": "14岁女孩花10年潜伏进暗恋对象的生活",
       "onboard_time": 1694620058,
       "rank": 4,
@@ -89,6 +89,14 @@
       "onboard_time": 1694612801,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592245,
+      "num": 592245,
+      "word": "库迪和瑞幸的商战",
+      "onboard_time": 1694620716,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 578035,
@@ -163,14 +171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360058,
-      "num": 360058,
-      "word": "库迪和瑞幸的商战",
-      "onboard_time": 1694620716,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 335848,
       "num": 335848,
       "word": "一人之下原著作者评异人之下",
@@ -187,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311427,
+      "num": 311427,
+      "word": "杨紫紫色挑染",
+      "onboard_time": 1694620831,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 308493,
       "num": 308493,
       "word": "26岁姑娘没有任何不适却确诊血癌",
       "onboard_time": 1694610766,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294449,
-      "num": 294449,
-      "word": "杨紫紫色挑染",
-      "onboard_time": 1694620831,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 293099,
@@ -267,20 +267,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219830,
+      "num": 219830,
+      "word": "中医竟然能给宠物治病",
+      "onboard_time": 1694619820,
+      "rank": 37,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 212577,
       "num": 212577,
       "word": "一诺",
       "onboard_time": 1694614182,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211352,
-      "num": 211352,
-      "word": "中医竟然能给宠物治病",
-      "onboard_time": 1694619820,
-      "rank": 37,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 211346,
@@ -337,6 +337,30 @@
       "onboard_time": 1694621075,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164872,
+      "num": 164872,
+      "word": "骑手 你的外卖很危险",
+      "onboard_time": 1694622451,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 162289,
+      "num": 162289,
+      "word": "武大靖 500的神",
+      "onboard_time": 1694622271,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160609,
+      "num": 160609,
+      "word": "主打一个无人生还",
+      "onboard_time": 1694622629,
+      "rank": 43,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 154352,
