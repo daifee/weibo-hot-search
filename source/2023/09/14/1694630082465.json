@@ -1,0 +1,410 @@
+{
+  "runTime": 1694630082465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 859674,
+        "num": 859674,
+        "word": "全球首个承认外星生物存在的国家",
+        "onboard_time": 1694619940,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 454232,
+        "num": 454232,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18046,
+        "num": 227894,
+        "word": "亚运会吉祥物3小只宣传片",
+        "onboard_time": 1694609017,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 173865,
+        "num": 173865,
+        "word": "14岁女孩花10年潜伏进暗恋对象的生活",
+        "onboard_time": 1694620058,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173508,
+        "num": 173508,
+        "word": "专家曾称外星人不敢来地球",
+        "onboard_time": 1694611183,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103037,
+        "num": 103037,
+        "word": "国家一级演员苏孝林被决定逮捕",
+        "onboard_time": 1694600797,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 100760,
+        "num": 100760,
+        "word": "库迪和瑞幸的商战",
+        "onboard_time": 1694620716,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66545,
+        "num": 66545,
+        "word": "武大靖 500的神",
+        "onboard_time": 1694622271,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65999,
+        "num": 65999,
+        "word": "李维嘉爸爸面对诈骗的思路",
+        "onboard_time": 1694611363,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61819,
+        "num": 61819,
+        "word": "70岁房东失联租客察觉不对果断报警",
+        "onboard_time": 1694618081,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244258,
+        "num": 61766,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 10,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 172753,
+        "num": 61622,
+        "word": "NARS",
+        "onboard_time": 1694614367,
+        "rank": 11,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 139308,
+        "num": 61550,
+        "word": "腾讯QQ被处100万元罚款",
+        "onboard_time": 1694612744,
+        "rank": 12,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 29088,
+        "num": 61476,
+        "word": "女子对着监控喊爸爸每一声都有回应",
+        "onboard_time": 1694615082,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29078,
+        "num": 61289,
+        "word": "利比亚东部洪灾已致超6000人遇难",
+        "onboard_time": 1694612861,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 120220,
+        "num": 61267,
+        "word": "主打一个无人生还",
+        "onboard_time": 1694622629,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 117473,
+        "num": 61111,
+        "word": "何捷蹲地为张馨予拍照",
+        "onboard_time": 1694612801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105237,
+        "num": 61019,
+        "word": "欧美明星居然都这么抗老了",
+        "onboard_time": 1694625860,
+        "rank": 17,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 81896,
+        "num": 60947,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68473,
+        "num": 60772,
+        "word": "外星人",
+        "onboard_time": 1694604577,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100903,
+        "num": 60745,
+        "word": "骑手 你的外卖很危险",
+        "onboard_time": 1694622451,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213364,
+        "num": 60649,
+        "word": "iPhone15配色",
+        "onboard_time": 1694627599,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84096,
+        "num": 60449,
+        "word": "26岁姑娘没有任何不适却确诊血癌",
+        "onboard_time": 1694610766,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60440,
+        "num": 60440,
+        "word": "取快递被挂上表白墙了",
+        "onboard_time": 1694610164,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57922,
+        "num": 57922,
+        "word": "檀健次 十六岁以下金奖和一等奖",
+        "onboard_time": 1694616942,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57563,
+        "num": 57563,
+        "word": "轮到毕雯珺开大了",
+        "onboard_time": 1694627118,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57180,
+        "num": 57180,
+        "word": "杨紫紫色挑染",
+        "onboard_time": 1694620831,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55522,
+        "num": 55522,
+        "word": "邓为 我不信了",
+        "onboard_time": 1694616463,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54612,
+        "num": 54612,
+        "word": "一人之下原著作者评异人之下",
+        "onboard_time": 1694620656,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54075,
+        "num": 54075,
+        "word": "精心 接商战代打",
+        "onboard_time": 1694618441,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53874,
+        "num": 53874,
+        "word": "外交部辟谣中国政府机关禁用苹果手机",
+        "onboard_time": 1694608537,
+        "rank": 30,
+        "category": "国内要闻,数码"
+      },
+      {
+        "raw_hot": 50638,
+        "num": 50638,
+        "word": "iPhone15",
+        "onboard_time": 1694627237,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49335,
+        "num": 49335,
+        "word": "减脂突然就没那么难了",
+        "onboard_time": 1694603076,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 48482,
+        "num": 48482,
+        "word": "狐狸精视频舞到角徵浅一家三口面前了",
+        "onboard_time": 1694623946,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45701,
+        "num": 45701,
+        "word": "国货 团结",
+        "onboard_time": 1694619163,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 45367,
+        "num": 45367,
+        "word": "内娱演唱会大合唱天花板",
+        "onboard_time": 1694624066,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45213,
+        "num": 45213,
+        "word": "田嘉瑞翻牌",
+        "onboard_time": 1694618504,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40513,
+        "num": 40513,
+        "word": "你工资减三千还剩多少花西币",
+        "onboard_time": 1694611966,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39585,
+        "num": 39585,
+        "word": "代号鸢袁基 山月不知心底事",
+        "onboard_time": 1694625980,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38581,
+        "num": 38581,
+        "word": "你会花4300元买一支口红吗",
+        "onboard_time": 1694601516,
+        "rank": 39,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 38425,
+        "num": 38425,
+        "word": "成毅发了2018年的文案",
+        "onboard_time": 1694611600,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36786,
+        "num": 36786,
+        "word": "十年都没有涨过价东西",
+        "onboard_time": 1694617965,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36540,
+        "num": 36540,
+        "word": "有什么手机能用八年以上",
+        "onboard_time": 1694614122,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36402,
+        "num": 36402,
+        "word": "安宥真 Smoke Challenge",
+        "onboard_time": 1694619221,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35080,
+        "num": 35080,
+        "word": "关晓彤九宫格发了三张",
+        "onboard_time": 1694608778,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34304,
+        "num": 34304,
+        "word": "中医竟然能给宠物治病",
+        "onboard_time": 1694619820,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 33457,
+        "num": 33457,
+        "word": "海底哥斯拉 海鬣蜥",
+        "onboard_time": 1694616167,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 31782,
+        "num": 31782,
+        "word": "张凌赫云之羽路透饭拍视频",
+        "onboard_time": 1694625443,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31148,
+        "num": 31777,
+        "word": "国内金价涨破600元",
+        "onboard_time": 1694619879,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27467,
+        "num": 31768,
+        "word": "周笔畅因为忌口太多emo了",
+        "onboard_time": 1694616343,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694629278162,
+  "endTime": 1694630082465,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -435,20 +435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105237,
+      "num": 92512,
+      "word": "欧美明星居然都这么抗老了",
+      "onboard_time": 1694625860,
+      "rank": 37,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 101975,
       "num": 101975,
       "word": "内娱演唱会大合唱天花板",
       "onboard_time": 1694624066,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101896,
-      "num": 92512,
-      "word": "欧美明星居然都这么抗老了",
-      "onboard_time": 1694625860,
-      "rank": 37,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 79855,
