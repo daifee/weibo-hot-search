@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694572442501,
+  "endTime": 1694575035859,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -299,6 +299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2579887,
+      "num": 605109,
+      "word": "男子考研落榜猥亵11岁女生寻刺激",
+      "onboard_time": 1694569958,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2527144,
       "num": 1399007,
       "word": "张杰 我女儿有三个为什么朋友不能有三个",
@@ -347,14 +355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 2347163,
-      "num": 605109,
-      "word": "男子考研落榜猥亵11岁女生寻刺激",
-      "onboard_time": 1694569958,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2324800,
       "num": 2324800,
       "word": "才发现朋友圈发多了会折叠",
@@ -393,6 +393,14 @@
       "onboard_time": 1694526043,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2173900,
+      "num": 2173900,
+      "word": "无效刷牙",
+      "onboard_time": 1694571997,
+      "rank": 27,
+      "category": "知识科普"
     },
     {
       "raw_hot": 2164187,
@@ -1203,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 950194,
+      "num": 950194,
+      "word": "郭碧婷向佐全黑色系红毯造型",
+      "onboard_time": 1694573378,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 946089,
       "num": 481404,
       "word": "花西子就被传谣为日本品牌向警方报案",
@@ -1539,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 776886,
+      "num": 574414,
+      "word": "日本研究机构发生放射性物质泄漏",
+      "onboard_time": 1694570978,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 772765,
       "num": 772765,
       "word": "邓为费加罗男士金九三封",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1694336254,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 740840,
+      "num": 740840,
+      "word": "云之羽 浅之角",
+      "onboard_time": 1694571578,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 738471,
@@ -1891,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645820,
+      "num": 645820,
+      "word": "A股",
+      "onboard_time": 1694458635,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 644782,
       "num": 644782,
       "word": "国足主帅称输球是因为运气不好",
@@ -2052,7 +2092,7 @@
     },
     {
       "raw_hot": 608587,
-      "num": 608587,
+      "num": 610952,
       "word": "七仔拒绝了食堂决定自己整点吃的",
       "onboard_time": 1694564383,
       "rank": 6,
@@ -2097,14 +2137,6 @@
       "onboard_time": 1694326532,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 593436,
-      "num": 593436,
-      "word": "云之羽 浅之角",
-      "onboard_time": 1694571578,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 592042,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1694533180,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569141,
+      "num": 569141,
+      "word": "做过教师才会明白教师的苦",
+      "onboard_time": 1694572179,
+      "rank": 39,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 566637,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1694390435,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 526170,
-      "num": 506448,
-      "word": "日本研究机构发生放射性物质泄漏",
-      "onboard_time": 1694570978,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 521959,
@@ -2771,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464792,
+      "num": 433525,
+      "word": "为什么排骨比瘦肉卖的贵",
+      "onboard_time": 1694571636,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 464307,
       "num": 297705,
       "word": "吐槽商品贵等于工作不努力吗",
@@ -2987,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431382,
+      "num": 431382,
+      "word": "张亮读写给天天的信都没哭这么惨",
+      "onboard_time": 1694574335,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431152,
       "num": 431152,
       "word": "金繁终于主动了一次",
@@ -3185,14 +3233,6 @@
       "onboard_time": 1694336254,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413808,
-      "num": 413808,
-      "word": "为什么排骨比瘦肉卖的贵",
-      "onboard_time": 1694571636,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 413429,
@@ -3777,6 +3817,14 @@
       "onboard_time": 1694525378,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344054,
+      "num": 344054,
+      "word": "贾正亮飞刀打伤准女友",
+      "onboard_time": 1694573496,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 343799,
@@ -5259,14 +5307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 242297,
-      "num": 242297,
-      "word": "无效刷牙",
-      "onboard_time": 1694571997,
-      "rank": 27,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 242039,
       "num": 879953,
       "word": "短道中国杯首日林孝埈领衔出战",
@@ -5323,6 +5363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239973,
+      "num": 239973,
+      "word": "云之羽小分队新浪扫楼",
+      "onboard_time": 1694572296,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239898,
       "num": 239898,
       "word": "丞磊卢昱晓一起做棉花糖",
@@ -5377,6 +5425,14 @@
       "onboard_time": 1694340812,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237255,
+      "num": 237255,
+      "word": "石家庄找到自己市歌了",
+      "onboard_time": 1694572536,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 237001,
@@ -6403,14 +6459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197259,
-      "num": 221008,
-      "word": "云之羽小分队新浪扫楼",
-      "onboard_time": 1694572296,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197238,
       "num": 197238,
       "word": "橙V上线了",
@@ -7235,6 +7283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168564,
+      "num": 203457,
+      "word": "云之羽",
+      "onboard_time": 1694399137,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168332,
       "num": 168332,
       "word": "凡晨组合夺中国赛第3冠",
@@ -7451,14 +7507,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 158626,
-      "num": 158626,
-      "word": "云之羽",
-      "onboard_time": 1694399137,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158311,
       "num": 158311,
       "word": "乌尔善郭帆被聘为影视委员会专家",
@@ -7545,14 +7593,6 @@
       "onboard_time": 1694343272,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153475,
-      "num": 220590,
-      "word": "做过教师才会明白教师的苦",
-      "onboard_time": 1694572179,
-      "rank": 39,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 153254,
@@ -7665,6 +7705,14 @@
       "onboard_time": 1694547254,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 147150,
+      "num": 203322,
+      "word": "封神质子旅但哨向AU",
+      "onboard_time": 1694574038,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 146569,
@@ -7795,12 +7843,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 137361,
+      "num": 202848,
+      "word": "一滴水放大100倍后有多震撼",
+      "onboard_time": 1694574637,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137246,
       "num": 137246,
       "word": "UFC293",
       "onboard_time": 1694321916,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136816,
+      "num": 202646,
+      "word": "古言女主打胎能力堪比人流门诊",
+      "onboard_time": 1694574457,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 136073,
@@ -7867,12 +7931,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 131454,
+      "num": 635665,
+      "word": "Mate60深度评测",
+      "onboard_time": 1694572478,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130652,
       "num": 487170,
       "word": "华为智选车发布会",
       "onboard_time": 1694489259,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 130459,
+      "num": 202406,
+      "word": "200秒与大家共赏美丽杭州",
+      "onboard_time": 1694574516,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129401,
@@ -8001,14 +8081,6 @@
       "onboard_time": 1694470819,
       "rank": 32,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 119084,
-      "num": 119084,
-      "word": "A股",
-      "onboard_time": 1694458635,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 118906,
@@ -8785,6 +8857,14 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5745,
+      "num": 589131,
+      "word": "女子自学全国方言9年帮数百人寻亲",
+      "onboard_time": 1694574997,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

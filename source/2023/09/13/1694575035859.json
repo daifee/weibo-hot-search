@@ -1,0 +1,410 @@
+{
+  "runTime": 1694575035859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2173900,
+        "num": 2173900,
+        "word": "无效刷牙",
+        "onboard_time": 1694571997,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1340240,
+        "num": 1340240,
+        "word": "优酷他急了",
+        "onboard_time": 1694567740,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74999,
+        "num": 972472,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1694524963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950194,
+        "num": 950194,
+        "word": "郭碧婷向佐全黑色系红毯造型",
+        "onboard_time": 1694573378,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 751951,
+        "num": 751951,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 4,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 740840,
+        "num": 740840,
+        "word": "云之羽 浅之角",
+        "onboard_time": 1694571578,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666267,
+        "num": 666267,
+        "word": "蜜雪冰城又被新兵攻陷了",
+        "onboard_time": 1694564080,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 654707,
+        "num": 654707,
+        "word": "才发现朋友圈发多了会折叠",
+        "onboard_time": 1694563542,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 645820,
+        "num": 645820,
+        "word": "A股",
+        "onboard_time": 1694572776,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 511455,
+        "num": 636617,
+        "word": "法院回应鹤岗女子还贷10年房子被占",
+        "onboard_time": 1694567680,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 635665,
+        "word": "Mate60深度评测",
+        "onboard_time": 1694572478,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 438118,
+        "num": 617180,
+        "word": "老人穿15元的鞋却给家乡捐了1000万",
+        "onboard_time": 1694562519,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 228013,
+        "num": 610952,
+        "word": "七仔拒绝了食堂决定自己整点吃的",
+        "onboard_time": 1694564383,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194053,
+        "num": 603034,
+        "word": "4000万中央资金建3个项目竟全烂尾",
+        "onboard_time": 1694531381,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5745,
+        "num": 589131,
+        "word": "女子自学全国方言9年帮数百人寻亲",
+        "onboard_time": 1694574997,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2579887,
+        "num": 586465,
+        "word": "男子考研落榜猥亵11岁女生寻刺激",
+        "onboard_time": 1694569958,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776886,
+        "num": 574414,
+        "word": "日本研究机构发生放射性物质泄漏",
+        "onboard_time": 1694570978,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 569141,
+        "num": 569141,
+        "word": "做过教师才会明白教师的苦",
+        "onboard_time": 1694572179,
+        "rank": 17,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 456360,
+        "num": 456360,
+        "word": "网友测评79元花西子眉笔能画21个月",
+        "onboard_time": 1694531797,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 434751,
+        "num": 434751,
+        "word": "向佐发长文回应为什么不躺平",
+        "onboard_time": 1694561612,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464792,
+        "num": 433525,
+        "word": "为什么排骨比瘦肉卖的贵",
+        "onboard_time": 1694571636,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 431382,
+        "num": 431382,
+        "word": "张亮读写给天天的信都没哭这么惨",
+        "onboard_time": 1694574335,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418634,
+        "num": 418634,
+        "word": "我好像在飞机上拍到五月天了",
+        "onboard_time": 1694566363,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344054,
+        "num": 344054,
+        "word": "贾正亮飞刀打伤准女友",
+        "onboard_time": 1694573496,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309284,
+        "num": 309284,
+        "word": "日本计划明年3月底前排放4轮核污染水",
+        "onboard_time": 1694567919,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 281050,
+        "num": 281050,
+        "word": "蜂花客服发声称我们没那么惨",
+        "onboard_time": 1694565404,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271229,
+        "num": 271229,
+        "word": "贾正亮被妈妈强制相亲",
+        "onboard_time": 1694566304,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241942,
+        "num": 241942,
+        "word": "我已经长大了 我只要豆浆和油条",
+        "onboard_time": 1694564864,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241291,
+        "num": 241291,
+        "word": "傅云深吻得好主动",
+        "onboard_time": 1694563302,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239973,
+        "num": 239973,
+        "word": "云之羽小分队新浪扫楼",
+        "onboard_time": 1694572296,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237255,
+        "num": 237255,
+        "word": "石家庄找到自己市歌了",
+        "onboard_time": 1694572536,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223870,
+        "num": 223870,
+        "word": "Uzi薇恩臻彩",
+        "onboard_time": 1694564025,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213047,
+        "num": 213047,
+        "word": "孙颖莎 兼三兼四",
+        "onboard_time": 1694571095,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207824,
+        "num": 207824,
+        "word": "修丽可品牌大使邓为",
+        "onboard_time": 1694565164,
+        "rank": 33,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 203953,
+        "num": 203953,
+        "word": "这么多年工资涨没涨",
+        "onboard_time": 1694561252,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186986,
+        "num": 203914,
+        "word": "月公子居然是左叶演的",
+        "onboard_time": 1694563783,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183838,
+        "num": 203721,
+        "word": "食堂晚上卖烧烤增收供老人免费吃午餐",
+        "onboard_time": 1694568399,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 181745,
+        "num": 203503,
+        "word": "世界首富有多爱客串",
+        "onboard_time": 1694534016,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168564,
+        "num": 203457,
+        "word": "云之羽",
+        "onboard_time": 1694573559,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147150,
+        "num": 203322,
+        "word": "封神质子旅但哨向AU",
+        "onboard_time": 1694574038,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143597,
+        "num": 203103,
+        "word": "李佳琦 花西子",
+        "onboard_time": 1694330431,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138581,
+        "num": 202894,
+        "word": "张远嘉宾巡演徐良站",
+        "onboard_time": 1694570916,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137361,
+        "num": 202848,
+        "word": "一滴水放大100倍后有多震撼",
+        "onboard_time": 1694574637,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136816,
+        "num": 202646,
+        "word": "古言女主打胎能力堪比人流门诊",
+        "onboard_time": 1694574457,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130459,
+        "num": 202406,
+        "word": "200秒与大家共赏美丽杭州",
+        "onboard_time": 1694574516,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128309,
+        "num": 202305,
+        "word": "关智斌说是时候利用赵丽颖了",
+        "onboard_time": 1694533180,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126836,
+        "num": 202136,
+        "word": "VMA红毯",
+        "onboard_time": 1694564681,
+        "rank": 46,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 125158,
+        "num": 202017,
+        "word": "李佳琦掉粉",
+        "onboard_time": 1694424100,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 443566,
+        "num": 201824,
+        "word": "扁桃体结石 龙涎香",
+        "onboard_time": 1694565643,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123440,
+        "num": 201639,
+        "word": "霉霉VMA现场",
+        "onboard_time": 1694571757,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#恪守立党为公执政为民理念#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694572442501,
+  "endTime": 1694575035859,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -715,6 +715,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2579887,
+      "num": 605109,
+      "word": "男子考研落榜猥亵11岁女生寻刺激",
+      "onboard_time": 1694569958,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2527144,
       "num": 1399007,
       "word": "张杰 我女儿有三个为什么朋友不能有三个",
@@ -856,14 +864,6 @@
       "word": "警方通报洛阳理工学院学生死亡",
       "onboard_time": 1694077116,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2347163,
-      "num": 605109,
-      "word": "男子考研落榜猥亵11岁女生寻刺激",
-      "onboard_time": 1694569958,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1025,6 +1025,14 @@
       "onboard_time": 1694526043,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2173900,
+      "num": 2173900,
+      "word": "无效刷牙",
+      "onboard_time": 1694571997,
+      "rank": 27,
+      "category": "知识科普"
     },
     {
       "raw_hot": 2168003,
@@ -4099,6 +4107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 950194,
+      "num": 950194,
+      "word": "郭碧婷向佐全黑色系红毯造型",
+      "onboard_time": 1694573378,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 950031,
       "num": 950031,
       "word": "胡锡进持仓近50万元",
@@ -5491,6 +5507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776886,
+      "num": 574414,
+      "word": "日本研究机构发生放射性物质泄漏",
+      "onboard_time": 1694570978,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 775992,
       "num": 775992,
       "word": "折断兵马俑手指的美国男子向中国道歉",
@@ -5817,6 +5841,14 @@
       "onboard_time": 1694336254,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 740840,
+      "num": 740840,
+      "word": "云之羽 浅之角",
+      "onboard_time": 1694571578,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 739677,
@@ -7155,6 +7187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645820,
+      "num": 645820,
+      "word": "A股",
+      "onboard_time": 1694057017,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 644782,
       "num": 644782,
       "word": "国足主帅称输球是因为运气不好",
@@ -7740,7 +7780,7 @@
     },
     {
       "raw_hot": 608587,
-      "num": 608587,
+      "num": 610952,
       "word": "七仔拒绝了食堂决定自己整点吃的",
       "onboard_time": 1694564383,
       "rank": 6,
@@ -8009,14 +8049,6 @@
       "onboard_time": 1694099379,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 593436,
-      "num": 593436,
-      "word": "云之羽 浅之角",
-      "onboard_time": 1694571578,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 592118,
@@ -8369,6 +8401,14 @@
       "onboard_time": 1693991617,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 569141,
+      "num": 569141,
+      "word": "做过教师才会明白教师的苦",
+      "onboard_time": 1694572179,
+      "rank": 39,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 568689,
@@ -9305,14 +9345,6 @@
       "onboard_time": 1694097520,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 526170,
-      "num": 506448,
-      "word": "日本研究机构发生放射性物质泄漏",
-      "onboard_time": 1694570978,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 525950,
@@ -10843,6 +10875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464792,
+      "num": 433525,
+      "word": "为什么排骨比瘦肉卖的贵",
+      "onboard_time": 1694571636,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 464780,
       "num": 404836,
       "word": "罗云熙说和Doinb互为哥哥",
@@ -11723,6 +11763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431382,
+      "num": 431382,
+      "word": "张亮读写给天天的信都没哭这么惨",
+      "onboard_time": 1694574335,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431174,
       "num": 372137,
       "word": "意大利的罚单给我寄广西来了",
@@ -12377,14 +12425,6 @@
       "onboard_time": 1693727315,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 413808,
-      "num": 413808,
-      "word": "为什么排骨比瘦肉卖的贵",
-      "onboard_time": 1694571636,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 413607,
@@ -14531,6 +14571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344054,
+      "num": 344054,
+      "word": "贾正亮飞刀打伤准女友",
+      "onboard_time": 1694573496,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344041,
       "num": 344041,
       "word": "于适工作室真的很有sense",
@@ -15041,14 +15089,6 @@
       "onboard_time": 1694013397,
       "rank": 25,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 329934,
-      "num": 329934,
-      "word": "A股",
-      "onboard_time": 1694057017,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 329921,
@@ -19755,14 +19795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 242297,
-      "num": 242297,
-      "word": "无效刷牙",
-      "onboard_time": 1694571997,
-      "rank": 27,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 242291,
       "num": 242291,
       "word": "厦门市教育局发布停课紧急通知",
@@ -19945,6 +19977,14 @@
       "onboard_time": 1693914816,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239973,
+      "num": 239973,
+      "word": "云之羽小分队新浪扫楼",
+      "onboard_time": 1694572296,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 239907,
@@ -20209,6 +20249,14 @@
       "onboard_time": 1693784855,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237255,
+      "num": 237255,
+      "word": "石家庄找到自己市歌了",
+      "onboard_time": 1694572536,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 237133,
@@ -23793,14 +23841,6 @@
       "onboard_time": 1693972778,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197259,
-      "num": 221008,
-      "word": "云之羽小分队新浪扫楼",
-      "onboard_time": 1694572296,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 197238,
@@ -27795,14 +27835,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 153475,
-      "num": 220590,
-      "word": "做过教师才会明白教师的苦",
-      "onboard_time": 1694572179,
-      "rank": 39,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 153269,
       "num": 153269,
       "word": "尔冬升推荐第八个嫌疑人",
@@ -28289,6 +28321,14 @@
       "onboard_time": 1694261374,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147150,
+      "num": 203322,
+      "word": "封神质子旅但哨向AU",
+      "onboard_time": 1694574038,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 146667,
@@ -28867,6 +28907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137361,
+      "num": 202848,
+      "word": "一滴水放大100倍后有多震撼",
+      "onboard_time": 1694574637,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137339,
       "num": 137339,
       "word": "林高远3比2篠塚大登",
@@ -28897,6 +28945,14 @@
       "onboard_time": 1693621053,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136816,
+      "num": 202646,
+      "word": "古言女主打胎能力堪比人流门诊",
+      "onboard_time": 1694574457,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 136656,
@@ -29179,6 +29235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131454,
+      "num": 635665,
+      "word": "Mate60深度评测",
+      "onboard_time": 1694572478,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131285,
       "num": 131285,
       "word": "蒙语版孤勇者专掀天灵盖",
@@ -29209,6 +29273,14 @@
       "onboard_time": 1694489259,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 130459,
+      "num": 202406,
+      "word": "200秒与大家共赏美丽杭州",
+      "onboard_time": 1694574516,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130146,
@@ -32632,6 +32704,14 @@
       "word": "2023服贸会有哪些科技亮点",
       "onboard_time": 1693831597,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5745,
+      "num": 589131,
+      "word": "女子自学全国方言9年帮数百人寻亲",
+      "onboard_time": 1694574997,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
