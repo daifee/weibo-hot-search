@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694579644782,
+  "endTime": 1694582147444,
   "band_list": [
     {
       "raw_hot": 2800577,
@@ -35,12 +35,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2203264,
+      "num": 441675,
+      "word": "上海胸外科医生回应李佳琦言论",
+      "onboard_time": 1694580103,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2119661,
       "num": 2119661,
       "word": "蜜雪冰城又被新兵攻陷了",
       "onboard_time": 1694564080,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2061190,
+      "num": 437336,
+      "word": "女子一胎22个月大再次产女",
+      "onboard_time": 1694580042,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1929621,
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685448,
+      "num": 337373,
+      "word": "蜂花蹲热点引发行业人士反感",
+      "onboard_time": 1694580340,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666491,
       "num": 400567,
       "word": "原来鼻炎还会影响外貌",
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516310,
+      "num": 333111,
+      "word": "普京会晤金正恩",
+      "onboard_time": 1694580999,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 512265,
       "num": 512265,
       "word": "Uzi薇恩臻彩",
@@ -336,6 +368,22 @@
       "word": "雎晓雯孕肚照封面",
       "onboard_time": 1694575898,
       "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 509524,
+      "num": 509524,
+      "word": "许凯当选杭州亚运会火炬手",
+      "onboard_time": 1694576255,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 508042,
+      "num": 381067,
+      "word": "金大川他超爱",
+      "onboard_time": 1694578900,
+      "rank": 30,
       "category": "作品衍生,时尚"
     },
     {
@@ -411,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 426267,
-      "num": 426267,
-      "word": "许凯当选杭州亚运会火炬手",
-      "onboard_time": 1694576255,
-      "rank": 26,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 421410,
       "num": 323044,
       "word": "这么多年工资涨没涨",
@@ -435,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402748,
+      "num": 325598,
+      "word": "长期穿洞洞鞋可能让腿变弯",
+      "onboard_time": 1694581122,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401754,
       "num": 305833,
       "word": "学校内衣内裤混洗的人贴了文献",
@@ -449,14 +497,6 @@
       "onboard_time": 1694565164,
       "rank": 23,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 394595,
-      "num": 283259,
-      "word": "金大川他超爱",
-      "onboard_time": 1694578900,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 373269,
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 361993,
-      "num": 274737,
+      "num": 322699,
       "word": "猫咪躲在台阶上吓学生玩",
       "onboard_time": 1694578057,
       "rank": 33,
@@ -537,6 +577,14 @@
       "onboard_time": 1694526225,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 329262,
+      "num": 279726,
+      "word": "日本超级软饭男",
+      "onboard_time": 1694581539,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 326141,
@@ -627,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252322,
+      "num": 252322,
+      "word": "男子发现女儿非亲生伪造亲子鉴定落户",
+      "onboard_time": 1694581837,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247347,
       "num": 247347,
       "word": "云之羽小分队新浪扫楼",
@@ -675,6 +731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 219347,
+      "num": 219347,
+      "word": "肖战骄阳伴我入戏专访",
+      "onboard_time": 1694580399,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218788,
       "num": 220065,
       "word": "早这么劝我我就不熬夜了",
@@ -689,6 +753,14 @@
       "onboard_time": 1694561555,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 212062,
+      "num": 212062,
+      "word": "古言女主打胎能力堪比人流门诊",
+      "onboard_time": 1694574457,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 211430,
@@ -753,14 +825,6 @@
       "onboard_time": 1694553793,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 203676,
-      "num": 203676,
-      "word": "古言女主打胎能力堪比人流门诊",
-      "onboard_time": 1694574457,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 201104,
@@ -915,12 +979,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 180465,
+      "num": 180465,
+      "word": "封神小闲笔 姬发烤雨衣",
+      "onboard_time": 1694579504,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178621,
       "num": 178621,
       "word": "Stray Kids TXTVMAs红毯造型",
       "onboard_time": 1694579440,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177463,
+      "num": 177463,
+      "word": "陈牧驰手受伤只字未提",
+      "onboard_time": 1694581122,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 177356,
@@ -937,14 +1017,6 @@
       "onboard_time": 1694524722,
       "rank": 38,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 172659,
-      "num": 172659,
-      "word": "封神小闲笔 姬发烤雨衣",
-      "onboard_time": 1694579504,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 171026,
@@ -1243,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41128,
+      "num": 404547,
+      "word": "花滑冠军 枫丹启动",
+      "onboard_time": 1694581237,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35625,
       "num": 93053,
       "word": "吴磊到餐厅吃饭被当成本地人",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10972,
+      "num": 170873,
+      "word": "原来世界冠军也玩原神",
+      "onboard_time": 1694582137,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 5003,

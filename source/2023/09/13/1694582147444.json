@@ -1,0 +1,410 @@
+{
+  "runTime": 1694582147444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2197497,
+        "num": 2197497,
+        "word": "无效刷牙",
+        "onboard_time": 1694571997,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1083159,
+        "num": 1083159,
+        "word": "郭碧婷向佐全黑色系红毯造型",
+        "onboard_time": 1694573378,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73970,
+        "num": 756304,
+        "word": "杭州亚运会开幕倒计时10天",
+        "onboard_time": 1694578838,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 746056,
+        "num": 746056,
+        "word": "这4种面包真的建议少吃",
+        "onboard_time": 1694523278,
+        "rank": 3,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 670106,
+        "num": 670106,
+        "word": "优酷他急了",
+        "onboard_time": 1694567740,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529733,
+        "num": 529733,
+        "word": "云之羽 浅之角",
+        "onboard_time": 1694571578,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509524,
+        "num": 509524,
+        "word": "许凯当选杭州亚运会火炬手",
+        "onboard_time": 1694576255,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 460754,
+        "num": 460754,
+        "word": "老人穿15元的鞋却给家乡捐了1000万",
+        "onboard_time": 1694562519,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 460671,
+        "num": 460671,
+        "word": "张亮读写给天天的信都没哭这么惨",
+        "onboard_time": 1694574335,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451365,
+        "num": 451365,
+        "word": "霉霉看StrayKids表演的反应",
+        "onboard_time": 1694576737,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2203264,
+        "num": 441675,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2061190,
+        "num": 437336,
+        "word": "女子一胎22个月大再次产女",
+        "onboard_time": 1694580042,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196283,
+        "num": 424225,
+        "word": "七仔拒绝了食堂决定自己整点吃的",
+        "onboard_time": 1694564383,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135169,
+        "num": 411130,
+        "word": "4000万中央资金建3个项目竟全烂尾",
+        "onboard_time": 1694531381,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41128,
+        "num": 404547,
+        "word": "花滑冠军 枫丹启动",
+        "onboard_time": 1694581237,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1808183,
+        "num": 394532,
+        "word": "男子考研落榜猥亵11岁女生寻刺激",
+        "onboard_time": 1694569958,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508042,
+        "num": 381067,
+        "word": "金大川他超爱",
+        "onboard_time": 1694578900,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 379764,
+        "num": 379764,
+        "word": "马立奥 kisskiss",
+        "onboard_time": 1694575417,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362853,
+        "num": 362853,
+        "word": "贾正亮飞刀打伤准女友",
+        "onboard_time": 1694573496,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341808,
+        "num": 341808,
+        "word": "我好像在飞机上拍到五月天了",
+        "onboard_time": 1694566363,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1093178,
+        "num": 339113,
+        "word": "女子腹痛不知怀孕医院厕所产女",
+        "onboard_time": 1694577638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685448,
+        "num": 337373,
+        "word": "蜂花蹲热点引发行业人士反感",
+        "onboard_time": 1694580340,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516310,
+        "num": 333111,
+        "word": "普京会晤金正恩",
+        "onboard_time": 1694580999,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 473062,
+        "num": 329930,
+        "word": "原来鼻炎还会影响外貌",
+        "onboard_time": 1694576435,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402748,
+        "num": 325598,
+        "word": "长期穿洞洞鞋可能让腿变弯",
+        "onboard_time": 1694581122,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347784,
+        "num": 322699,
+        "word": "猫咪躲在台阶上吓学生玩",
+        "onboard_time": 1694578057,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319572,
+        "num": 319572,
+        "word": "雎晓雯孕肚照封面",
+        "onboard_time": 1694575898,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310878,
+        "num": 310878,
+        "word": "蜜雪冰城又被新兵攻陷了",
+        "onboard_time": 1694564080,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304095,
+        "num": 304095,
+        "word": "我们的歌第五季定档",
+        "onboard_time": 1694578360,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283258,
+        "num": 283258,
+        "word": "网友测评79元花西子眉笔能画21个月",
+        "onboard_time": 1694531797,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 329262,
+        "num": 279726,
+        "word": "日本超级软饭男",
+        "onboard_time": 1694581539,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267753,
+        "num": 267753,
+        "word": "法院回应鹤岗女子还贷10年房子被占",
+        "onboard_time": 1694567680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255421,
+        "num": 255421,
+        "word": "日本研究机构发生放射性物质泄漏",
+        "onboard_time": 1694570978,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 252573,
+        "num": 252573,
+        "word": "才发现朋友圈发多了会折叠",
+        "onboard_time": 1694563542,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252322,
+        "num": 252322,
+        "word": "男子发现女儿非亲生伪造亲子鉴定落户",
+        "onboard_time": 1694581837,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239243,
+        "num": 239243,
+        "word": "我已经长大了 我只要豆浆和油条",
+        "onboard_time": 1694564864,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226833,
+        "num": 226833,
+        "word": "做过教师才会明白教师的苦",
+        "onboard_time": 1694572179,
+        "rank": 36,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 219347,
+        "num": 219347,
+        "word": "肖战骄阳伴我入戏专访",
+        "onboard_time": 1694580399,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212062,
+        "num": 212062,
+        "word": "古言女主打胎能力堪比人流门诊",
+        "onboard_time": 1694574457,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209473,
+        "num": 209473,
+        "word": "为什么排骨比瘦肉卖的贵",
+        "onboard_time": 1694571636,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197043,
+        "num": 197043,
+        "word": "向佐发长文回应为什么不躺平",
+        "onboard_time": 1694561612,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192067,
+        "num": 192067,
+        "word": "长相思非会员收官",
+        "onboard_time": 1694576859,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189803,
+        "num": 189803,
+        "word": "云之羽小分队新浪扫楼",
+        "onboard_time": 1694572296,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186235,
+        "num": 186235,
+        "word": "蜂花客服发声称我们没那么惨",
+        "onboard_time": 1694565404,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180465,
+        "num": 180465,
+        "word": "封神小闲笔 姬发烤雨衣",
+        "onboard_time": 1694579504,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177463,
+        "num": 177463,
+        "word": "陈牧驰手受伤只字未提",
+        "onboard_time": 1694581122,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174277,
+        "num": 174277,
+        "word": "A股",
+        "onboard_time": 1694572776,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172981,
+        "num": 172981,
+        "word": "傅云深吻得好主动",
+        "onboard_time": 1694563302,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171721,
+        "num": 171721,
+        "word": "这么多年工资涨没涨",
+        "onboard_time": 1694561252,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10972,
+        "num": 170873,
+        "word": "原来世界冠军也玩原神",
+        "onboard_time": 1694582137,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给红其拉甫海关全体关员回信#"
+    }
+  }
+}
