@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694643331015,
+  "endTime": 1694644429794,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -451,12 +451,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83003,
-      "num": 71426,
+      "raw_hot": 91823,
+      "num": 91823,
       "word": "小说女主待遇级别外貌",
       "onboard_time": 1694631673,
       "rank": 44,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 84647,
+      "num": 84647,
+      "word": "中式老钱风",
+      "onboard_time": 1694637553,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 79855,
@@ -465,14 +473,6 @@
       "onboard_time": 1694608778,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76047,
-      "num": 76047,
-      "word": "中式老钱风",
-      "onboard_time": 1694637553,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 68359,
@@ -507,20 +507,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33418,
+      "num": 49532,
+      "word": "大海上偶然发现的北极熊",
+      "onboard_time": 1694635272,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 33360,
       "num": 832158,
       "word": "亚运会吉祥物3小只宣传片",
       "onboard_time": 1694609017,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 28990,
-      "num": 36366,
-      "word": "大海上偶然发现的北极熊",
-      "onboard_time": 1694635272,
-      "rank": 46,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 26042,

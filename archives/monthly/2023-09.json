@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694643331015,
+  "endTime": 1694644429794,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -32435,6 +32435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91823,
+      "num": 91823,
+      "word": "小说女主待遇级别外貌",
+      "onboard_time": 1694631673,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 91486,
       "num": 91486,
       "word": "骄阳伴我央视频追剧日历",
@@ -32683,6 +32691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84647,
+      "num": 84647,
+      "word": "中式老钱风",
+      "onboard_time": 1694637553,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 84397,
       "num": 97345,
       "word": "张之臻止步美网32强",
@@ -32745,14 +32761,6 @@
       "onboard_time": 1693682117,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 83003,
-      "num": 71426,
-      "word": "小说女主待遇级别外貌",
-      "onboard_time": 1694631673,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 82981,
@@ -32937,14 +32945,6 @@
       "onboard_time": 1693926039,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76047,
-      "num": 76047,
-      "word": "中式老钱风",
-      "onboard_time": 1694637553,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 75767,
@@ -34099,6 +34099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33418,
+      "num": 49532,
+      "word": "大海上偶然发现的北极熊",
+      "onboard_time": 1694635272,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 33360,
       "num": 832158,
       "word": "亚运会吉祥物3小只宣传片",
@@ -34265,14 +34273,6 @@
       "onboard_time": 1693943055,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28990,
-      "num": 36366,
-      "word": "大海上偶然发现的北极熊",
-      "onboard_time": 1694635272,
-      "rank": 46,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 28758,
