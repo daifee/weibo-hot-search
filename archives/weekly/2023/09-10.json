@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694590442636,
+  "endTime": 1694593302867,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -353,6 +353,14 @@
       "onboard_time": 1694530543,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2499083,
+      "num": 536194,
+      "word": "法国决定禁售iPhone12",
+      "onboard_time": 1694589392,
+      "rank": 20,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 2400221,
@@ -1131,6 +1139,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1107359,
+      "num": 1107359,
+      "word": "演员滕汝骏去世",
+      "onboard_time": 1694592398,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1104732,
       "num": 419081,
       "word": "BLACKPINK路人缘很好的成员",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1694427219,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 957033,
+      "num": 483891,
+      "word": "眉笔价格不能只论笔芯",
+      "onboard_time": 1694590717,
+      "rank": 15,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 956134,
@@ -2035,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659002,
+      "num": 659002,
+      "word": "云之羽扫楼跳虞书欣ohmy",
+      "onboard_time": 1694591136,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 656592,
       "num": 656592,
       "word": "可我不是衣服",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1694474370,
       "rank": 16,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 615555,
+      "num": 615555,
+      "word": "陶白白走秀",
+      "onboard_time": 1694591796,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 614080,
@@ -2411,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563005,
+      "num": 563005,
+      "word": "丞磊卢昱晓田嘉瑞扫楼生图",
+      "onboard_time": 1694589575,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559472,
       "num": 559472,
       "word": "云为衫三寸天堂",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1694398296,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 539779,
+      "num": 539779,
+      "word": "华为Mate60是如何逆袭的",
+      "onboard_time": 1694588196,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 539439,
@@ -2627,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520488,
+      "num": 442867,
+      "word": "内娱今年火出圈的配角",
+      "onboard_time": 1694589635,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 519420,
       "num": 487641,
       "word": "个人努力 环境推手",
@@ -2665,14 +2729,6 @@
       "onboard_time": 1694510799,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 512611,
-      "num": 455515,
-      "word": "华为Mate60是如何逆袭的",
-      "onboard_time": 1694588196,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 512265,
@@ -3003,12 +3059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470579,
+      "num": 470579,
+      "word": "Baggy Jeans 韩国大学考试禁曲",
+      "onboard_time": 1694591014,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470461,
       "num": 470461,
       "word": "教师节祝福",
       "onboard_time": 1694305531,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 470443,
+      "num": 470443,
+      "word": "华西医院回应男医生被女同事捅伤",
+      "onboard_time": 1694591915,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470042,
@@ -3121,14 +3193,6 @@
       "onboard_time": 1694515538,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 455014,
-      "num": 455014,
-      "word": "法国决定禁售iPhone12",
-      "onboard_time": 1694589392,
-      "rank": 20,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 452917,
@@ -3267,6 +3331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433874,
+      "num": 433874,
+      "word": "年轻人不换手机换手机壳",
+      "onboard_time": 1694590115,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 432618,
       "num": 432618,
       "word": "宫尚角沦陷了",
@@ -3329,6 +3401,14 @@
       "onboard_time": 1694581122,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430362,
+      "num": 430362,
+      "word": "丈夫瘫痪妻子说该我为这个家付出了",
+      "onboard_time": 1694591676,
+      "rank": 22,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 430083,
@@ -4115,14 +4195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 341965,
-      "num": 341965,
-      "word": "丞磊卢昱晓田嘉瑞扫楼生图",
-      "onboard_time": 1694589575,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 340650,
       "num": 340650,
       "word": "韩版想见你导演回应李子维妆造",
@@ -4369,14 +4441,6 @@
       "onboard_time": 1694520996,
       "rank": 31,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 322192,
-      "num": 322192,
-      "word": "内娱今年火出圈的配角",
-      "onboard_time": 1694589635,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 321633,
@@ -4667,6 +4731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304824,
+      "num": 285700,
+      "word": "宫三叫上官浅嫂子",
+      "onboard_time": 1694590115,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304812,
       "num": 272105,
       "word": "亲密关系最忌讳的是自己憋着不说",
@@ -4793,14 +4865,6 @@
       "onboard_time": 1694308953,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 298678,
-      "num": 298678,
-      "word": "年轻人不换手机换手机壳",
-      "onboard_time": 1694590115,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 298434,
@@ -5731,6 +5795,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 238828,
+      "num": 238828,
+      "word": "白敬亭说录节目一直盯着沈腾",
+      "onboard_time": 1694590960,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238601,
       "num": 238601,
       "word": "杭州亚运会中国运动员全名单",
@@ -6259,11 +6331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215260,
-      "num": 215260,
-      "word": "宫三叫上官浅嫂子",
-      "onboard_time": 1694590115,
-      "rank": 32,
+      "raw_hot": 215575,
+      "num": 215575,
+      "word": "云之羽扫楼连线虞书欣张凌赫",
+      "onboard_time": 1694592034,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -6273,6 +6345,14 @@
       "onboard_time": 1694310512,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214598,
+      "num": 214598,
+      "word": "余华 累了就休息",
+      "onboard_time": 1694592336,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 213696,
@@ -6643,6 +6723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203474,
+      "num": 203474,
+      "word": "告五人北京",
+      "onboard_time": 1694591615,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203467,
       "num": 203467,
       "word": "凤凰传奇现场",
@@ -6937,6 +7025,14 @@
       "onboard_time": 1694413057,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197738,
+      "num": 197738,
+      "word": "被猫坚定选中的人",
+      "onboard_time": 1694592456,
+      "rank": 35,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 197650,
@@ -7867,6 +7963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167887,
+      "num": 167887,
+      "word": "成毅的哈基米跟着他转世了",
+      "onboard_time": 1694593116,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167766,
       "num": 167766,
       "word": "00后录音系学长组寝室乐队迎新",
@@ -7979,6 +8083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163349,
+      "num": 163349,
+      "word": "水泥罐车滚落父亲拎起5岁儿子逃生",
+      "onboard_time": 1694592694,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162866,
       "num": 431099,
       "word": "华为发布全新25万级问界M7",
@@ -8065,6 +8177,14 @@
       "onboard_time": 1694398175,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159890,
+      "num": 159890,
+      "word": "老外说中国一个APP等于法国几百个",
+      "onboard_time": 1694592996,
+      "rank": 44,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 159442,
@@ -8185,6 +8305,14 @@
       "onboard_time": 1694343272,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153460,
+      "num": 497097,
+      "word": "大熊猫滑草爬树样样行",
+      "onboard_time": 1694589757,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153254,
@@ -8457,6 +8585,14 @@
       "onboard_time": 1694321916,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136253,
+      "num": 136253,
+      "word": "云为衫清冷感妆",
+      "onboard_time": 1694593235,
+      "rank": 48,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 136073,
@@ -8931,14 +9067,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 91759,
-      "num": 464023,
-      "word": "大熊猫滑草爬树样样行",
-      "onboard_time": 1694589757,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91310,
       "num": 92240,
       "word": "中国乡村夜色有多美",
@@ -8985,6 +9113,14 @@
       "onboard_time": 1694540300,
       "rank": 14,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 84741,
+      "num": 800454,
+      "word": "我国首艘国产大型邮轮试航成功",
+      "onboard_time": 1694592158,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83407,
