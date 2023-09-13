@@ -1,10 +1,10 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694612030195,
+  "endTime": 1694614546536,
   "band_list": [
     {
       "raw_hot": 5696872,
-      "num": 460430,
+      "num": 615065,
       "word": "外星人",
       "onboard_time": 1694604577,
       "rank": 26,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2557985,
-      "num": 402842,
+      "num": 615030,
       "word": "三斤花西子可以买一套房",
       "onboard_time": 1694609798,
       "rank": 11,
@@ -163,6 +163,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1801613,
+      "num": 1801613,
+      "word": "专家曾称外星人不敢来地球",
+      "onboard_time": 1694611183,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1796981,
       "num": 1796981,
       "word": "这4种面包真的建议少吃",
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1424047,
+      "num": 615020,
+      "word": "何捷蹲地为张馨予拍照",
+      "onboard_time": 1694612801,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1407113,
       "num": 1407113,
       "word": "外交部辟谣中国政府机关禁用苹果手机",
@@ -305,6 +321,30 @@
       "onboard_time": 1694499099,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1170689,
+      "num": 1170689,
+      "word": "腾讯QQ被处100万元罚款",
+      "onboard_time": 1694612744,
+      "rank": 4,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 1168229,
+      "num": 1168229,
+      "word": "交通局拒绝公开前局长孙女炫富调查结果",
+      "onboard_time": 1694611479,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1135694,
+      "num": 614976,
+      "word": "你工资减三千还剩多少花西币",
+      "onboard_time": 1694611966,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 1048805,
@@ -347,6 +387,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 922102,
+      "num": 922102,
+      "word": "李维嘉爸爸面对诈骗的思路",
+      "onboard_time": 1694611363,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 908988,
       "num": 908988,
       "word": "虞书欣 姐姐跳得坠好啦",
@@ -361,14 +409,6 @@
       "onboard_time": 1694567680,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 891242,
-      "num": 399984,
-      "word": "李维嘉爸爸面对诈骗的思路",
-      "onboard_time": 1694611363,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 880718,
@@ -433,6 +473,14 @@
       "onboard_time": 1694574335,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 810561,
+      "num": 810561,
+      "word": "成毅发了2018年的文案",
+      "onboard_time": 1694611600,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 796765,
@@ -531,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 647006,
+      "num": 374096,
+      "word": "26岁姑娘没有任何不适却确诊血癌",
+      "onboard_time": 1694610766,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645820,
       "num": 645820,
       "word": "A股",
@@ -555,20 +611,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 618762,
-      "num": 374096,
-      "word": "26岁姑娘没有任何不适却确诊血癌",
-      "onboard_time": 1694610766,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 615555,
       "num": 615555,
       "word": "陶白白走秀",
       "onboard_time": 1694591796,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 614976,
+      "num": 614975,
+      "word": "利比亚东部洪灾已致超6000人遇难",
+      "onboard_time": 1694612861,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 610330,
@@ -633,6 +689,14 @@
       "onboard_time": 1694563783,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 578721,
+      "num": 578721,
+      "word": "向佐 我们的图来了",
+      "onboard_time": 1694612681,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 573524,
@@ -899,14 +963,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 470296,
-      "num": 470296,
-      "word": "专家曾称外星人不敢来地球",
-      "onboard_time": 1694611183,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 470032,
       "num": 470032,
       "word": "近4成职场人遭遇降薪",
@@ -1028,7 +1084,7 @@
     },
     {
       "raw_hot": 416324,
-      "num": 333146,
+      "num": 349987,
       "word": "减脂突然就没那么难了",
       "onboard_time": 1694603076,
       "rank": 30,
@@ -1059,19 +1115,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 382068,
-      "num": 382068,
-      "word": "成毅发了2018年的文案",
-      "onboard_time": 1694611600,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373269,
       "num": 271765,
       "word": "南风知我意空镜",
       "onboard_time": 1694533835,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 373006,
+      "num": 373006,
+      "word": "云之羽世界名画",
+      "onboard_time": 1694613041,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1219,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308323,
+      "num": 308323,
+      "word": "白敬亭的嘴从不让人失望",
+      "onboard_time": 1694612381,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304824,
       "num": 285700,
       "word": "宫三叫上官浅嫂子",
@@ -1291,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285761,
+      "num": 285761,
+      "word": "角之浅 好纯正的叔萝",
+      "onboard_time": 1694613403,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285742,
       "num": 271761,
       "word": "怪不得她是国民初恋",
@@ -1331,12 +1403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269548,
-      "num": 269548,
-      "word": "交通局拒绝公开前局长孙女炫富调查结果",
-      "onboard_time": 1694611479,
+      "raw_hot": 271014,
+      "num": 271014,
+      "word": "李莲花没死夺舍了傅云深",
+      "onboard_time": 1694613766,
       "rank": 28,
-      "category": "社会新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 269355,
@@ -1443,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236698,
+      "num": 236698,
+      "word": "小米14系列订单增加60%",
+      "onboard_time": 1694613942,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 234514,
       "num": 234514,
       "word": "爱宝双胞胎名字投票",
@@ -1507,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220570,
+      "num": 220570,
+      "word": "左叶能出演月公子的原因",
+      "onboard_time": 1694614062,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219888,
       "num": 219888,
       "word": "被猫坚定选中的人",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1694608476,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213071,
+      "num": 213071,
+      "word": "一诺",
+      "onboard_time": 1694614182,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 212917,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1694607637,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207217,
+      "num": 207217,
+      "word": "小时候和长大后生病的区别",
+      "onboard_time": 1694613942,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 207084,
@@ -1771,14 +1875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198280,
-      "num": 198280,
-      "word": "你工资减三千还剩多少花西币",
-      "onboard_time": 1694611966,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 198061,
       "num": 198061,
       "word": "密室大逃脱IP对撞季",
@@ -1825,6 +1921,14 @@
       "onboard_time": 1694578600,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194938,
+      "num": 194938,
+      "word": "嫂子半路突然临盆小姑子紧急接生",
+      "onboard_time": 1694613942,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194593,
@@ -2163,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152037,
+      "num": 152037,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1694612081,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151755,
       "num": 151755,
       "word": "青岛一处有重要史料价值石刻遭水泥涂抹",
@@ -2179,12 +2291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149926,
+      "num": 149926,
+      "word": "你认为高铁化妆是不文明行为吗",
+      "onboard_time": 1694611839,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 147868,
       "num": 147868,
       "word": "两个斯内普",
       "onboard_time": 1694605232,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147567,
+      "num": 147567,
+      "word": "NARS",
+      "onboard_time": 1694614367,
+      "rank": 48,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 147436,
@@ -2217,6 +2345,14 @@
       "onboard_time": 1694588256,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144873,
+      "num": 144873,
+      "word": "骄阳伴我好友伴我",
+      "onboard_time": 1694612507,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142768,
@@ -2257,14 +2393,6 @@
       "onboard_time": 1694516200,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132770,
-      "num": 132770,
-      "word": "你认为高铁化妆是不文明行为吗",
-      "onboard_time": 1694611839,
-      "rank": 46,
-      "category": "社会议题"
     },
     {
       "raw_hot": 132637,
@@ -2556,7 +2684,7 @@
     },
     {
       "raw_hot": 14483,
-      "num": 1488147,
+      "num": 1512825,
       "word": "高校开学校长寄语合集",
       "onboard_time": 1694578783,
       "rank": 2,

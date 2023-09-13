@@ -1,0 +1,410 @@
+{
+  "runTime": 1694614546536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3767275,
+        "num": 3767275,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801613,
+        "num": 1801613,
+        "word": "专家曾称外星人不敢来地球",
+        "onboard_time": 1694611183,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14304,
+        "num": 1512825,
+        "word": "高校开学校长寄语合集",
+        "onboard_time": 1694578783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248396,
+        "num": 1248396,
+        "word": "国家一级演员苏孝林被决定逮捕",
+        "onboard_time": 1694600797,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1170689,
+        "num": 1170689,
+        "word": "腾讯QQ被处100万元罚款",
+        "onboard_time": 1694612744,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1168229,
+        "num": 1168229,
+        "word": "交通局拒绝公开前局长孙女炫富调查结果",
+        "onboard_time": 1694611479,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922102,
+        "num": 922102,
+        "word": "李维嘉爸爸面对诈骗的思路",
+        "onboard_time": 1694611363,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810561,
+        "num": 810561,
+        "word": "成毅发了2018年的文案",
+        "onboard_time": 1694611600,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685086,
+        "num": 685086,
+        "word": "你会花4300元买一支口红吗",
+        "onboard_time": 1694601516,
+        "rank": 8,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 615071,
+        "num": 615071,
+        "word": "外交部辟谣中国政府机关禁用苹果手机",
+        "onboard_time": 1694608537,
+        "rank": 9,
+        "category": "国内要闻,数码"
+      },
+      {
+        "raw_hot": 3421939,
+        "num": 615065,
+        "word": "外星人",
+        "onboard_time": 1694604577,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2504590,
+        "num": 615030,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 11,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 1424047,
+        "num": 615020,
+        "word": "何捷蹲地为张馨予拍照",
+        "onboard_time": 1694612801,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1135694,
+        "num": 614976,
+        "word": "你工资减三千还剩多少花西币",
+        "onboard_time": 1694611966,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 614976,
+        "num": 614975,
+        "word": "利比亚东部洪灾已致超6000人遇难",
+        "onboard_time": 1694612861,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 578721,
+        "num": 578721,
+        "word": "向佐 我们的图来了",
+        "onboard_time": 1694612681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548736,
+        "num": 548736,
+        "word": "上海胸外科医生回应李佳琦言论",
+        "onboard_time": 1694580103,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424475,
+        "num": 424475,
+        "word": "花西币",
+        "onboard_time": 1694599476,
+        "rank": 17,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 414155,
+        "num": 414155,
+        "word": "苹果12辐射",
+        "onboard_time": 1694595219,
+        "rank": 18,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 373006,
+        "num": 373006,
+        "word": "云之羽世界名画",
+        "onboard_time": 1694613041,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647006,
+        "num": 365866,
+        "word": "26岁姑娘没有任何不适却确诊血癌",
+        "onboard_time": 1694610766,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561030,
+        "num": 362183,
+        "word": "取快递被挂上表白墙了",
+        "onboard_time": 1694610164,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349987,
+        "num": 349987,
+        "word": "减脂突然就没那么难了",
+        "onboard_time": 1694603076,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 338734,
+        "num": 338734,
+        "word": "制作方否认高铁化妆视频不尊重女性",
+        "onboard_time": 1694607759,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317655,
+        "num": 317655,
+        "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+        "onboard_time": 1694604636,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308323,
+        "num": 308323,
+        "word": "白敬亭的嘴从不让人失望",
+        "onboard_time": 1694612381,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288714,
+        "num": 288714,
+        "word": "女子自曝因买350元柜子遭家暴",
+        "onboard_time": 1694606975,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285761,
+        "num": 285761,
+        "word": "角之浅 好纯正的叔萝",
+        "onboard_time": 1694613403,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271014,
+        "num": 271014,
+        "word": "李莲花没死夺舍了傅云深",
+        "onboard_time": 1694613766,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237543,
+        "num": 237543,
+        "word": "虞书欣回应分开上hi6的原因",
+        "onboard_time": 1694598760,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236698,
+        "num": 236698,
+        "word": "小米14系列订单增加60%",
+        "onboard_time": 1694613942,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227808,
+        "num": 227808,
+        "word": "关晓彤九宫格发了三张",
+        "onboard_time": 1694608778,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220570,
+        "num": 220570,
+        "word": "左叶能出演月公子的原因",
+        "onboard_time": 1694614062,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216491,
+        "num": 216491,
+        "word": "曝金赫拉对三人施暴道歉了七次",
+        "onboard_time": 1694607162,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213071,
+        "num": 213071,
+        "word": "一诺",
+        "onboard_time": 1694614182,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207217,
+        "num": 207217,
+        "word": "小时候和长大后生病的区别",
+        "onboard_time": 1694613942,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206406,
+        "num": 206406,
+        "word": "上海一外卖骑手商场消费后休息遭驱赶",
+        "onboard_time": 1694604032,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201439,
+        "num": 201439,
+        "word": "10月是极好的辞职的季节",
+        "onboard_time": 1694603137,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196210,
+        "num": 196210,
+        "word": "程靖淇张巾BE",
+        "onboard_time": 1694610879,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194938,
+        "num": 194938,
+        "word": "嫂子半路突然临盆小姑子紧急接生",
+        "onboard_time": 1694613942,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173576,
+        "num": 173576,
+        "word": "高铁为疑似早产孕妇多停6分钟",
+        "onboard_time": 1694596536,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163566,
+        "num": 163566,
+        "word": "Irene暂未续约SMTOWN",
+        "onboard_time": 1694602658,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159217,
+        "num": 159217,
+        "word": "虞书欣上班穿的好看的原因",
+        "onboard_time": 1694603197,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157793,
+        "num": 157793,
+        "word": "梦中的那片海",
+        "onboard_time": 1694604636,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157100,
+        "num": 157100,
+        "word": "简阳一塔吊垮塌致6人死亡",
+        "onboard_time": 1694608968,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152037,
+        "num": 152037,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1694612081,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149926,
+        "num": 149926,
+        "word": "你认为高铁化妆是不文明行为吗",
+        "onboard_time": 1694611839,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 148952,
+        "num": 148952,
+        "word": "原来老板口中的亏了是这个意思",
+        "onboard_time": 1694609622,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147567,
+        "num": 147567,
+        "word": "NARS",
+        "onboard_time": 1694614367,
+        "rank": 48,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 144873,
+        "num": 144873,
+        "word": "骄阳伴我好友伴我",
+        "onboard_time": 1694612507,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同委内瑞拉总统会谈#"
+    }
+  }
+}
