@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694604846959,
+  "endTime": 1694608392694,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -73,6 +73,14 @@
       "onboard_time": 1694350416,
       "rank": 3,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 4972900,
+      "num": 409775,
+      "word": "外星人",
+      "onboard_time": 1694604577,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 4946918,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1757554,
+      "num": 1080215,
+      "word": "小杨哥称没资格飘",
+      "onboard_time": 1694602658,
+      "rank": 21,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1755247,
       "num": 2206584,
       "word": "高铁为疑似早产孕妇多停6分钟",
@@ -1235,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1080215,
-      "num": 1080215,
-      "word": "小杨哥称没资格飘",
-      "onboard_time": 1694602658,
-      "rank": 21,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 1078043,
       "num": 1078043,
       "word": "教师节快乐",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1694512237,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 948982,
+      "num": 948982,
+      "word": "成都一塔吊作业时倾倒已致5人死亡",
+      "onboard_time": 1694605360,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946089,
@@ -2115,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673890,
+      "num": 673890,
+      "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+      "onboard_time": 1694604636,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671031,
       "num": 671031,
       "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1694435683,
       "rank": 23,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 667918,
+      "num": 385446,
+      "word": "女子自曝因买350元柜子遭家暴",
+      "onboard_time": 1694606975,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666988,
@@ -2529,6 +2561,14 @@
       "onboard_time": 1694441809,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 579885,
+      "num": 579885,
+      "word": "10月是极好的辞职的季节",
+      "onboard_time": 1694603137,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 579574,
@@ -3323,12 +3363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463080,
+      "num": 463080,
+      "word": "梦中的那片海",
+      "onboard_time": 1694604636,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462058,
       "num": 417616,
       "word": "全嘻嘻 当一个农村女人决定出逃",
       "onboard_time": 1694321675,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 460066,
+      "num": 460066,
+      "word": "曝金赫拉对三人施暴道歉了七次",
+      "onboard_time": 1694607162,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 459943,
@@ -3715,6 +3771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419862,
+      "num": 419862,
+      "word": "成毅身在莲花楼心在南风知我意",
+      "onboard_time": 1694604875,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418031,
       "num": 418031,
       "word": "德国足协花1亿日元请日本比赛",
@@ -3777,6 +3841,14 @@
       "onboard_time": 1694336254,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413967,
+      "num": 413967,
+      "word": "上海一外卖骑手商场消费后休息遭驱赶",
+      "onboard_time": 1694604032,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413429,
@@ -4779,14 +4851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316199,
-      "num": 316199,
-      "word": "10月是极好的辞职的季节",
-      "onboard_time": 1694603137,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 316184,
       "num": 316184,
       "word": "大哥的共享单车都要踩冒烟了",
@@ -5595,6 +5659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266124,
+      "num": 266124,
+      "word": "鱼生 寄生虫病",
+      "onboard_time": 1694604759,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266112,
       "num": 266112,
       "word": "Somi大大的眼睛大大的疑惑",
@@ -6145,14 +6217,6 @@
       "onboard_time": 1694334992,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 236583,
-      "num": 236583,
-      "word": "外星人",
-      "onboard_time": 1694604577,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 234514,
@@ -6865,6 +6929,14 @@
       "onboard_time": 1694349397,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208572,
+      "num": 208572,
+      "word": "傅云深被拿捏了",
+      "onboard_time": 1694607637,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 208376,
@@ -7915,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184564,
+      "num": 176366,
+      "word": "呆滞工作 好奇周围所有事",
+      "onboard_time": 1694607816,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184453,
       "num": 184453,
       "word": "丽水一山区县中逆袭本科率100%",
@@ -8027,14 +8107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179981,
-      "num": 179981,
-      "word": "上海一外卖骑手商场消费后休息遭驱赶",
-      "onboard_time": 1694604032,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179617,
       "num": 203461,
       "word": "上官浅这把高端局",
@@ -8065,14 +8137,6 @@
       "onboard_time": 1694596597,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178839,
-      "num": 178839,
-      "word": "梦中的那片海",
-      "onboard_time": 1694604636,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 178801,
@@ -8129,6 +8193,14 @@
       "onboard_time": 1694334454,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177427,
+      "num": 177427,
+      "word": "谁好人家小猫咪这样喝水啊",
+      "onboard_time": 1694604456,
+      "rank": 44,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 177367,
@@ -8225,6 +8297,14 @@
       "onboard_time": 1694410361,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172728,
+      "num": 172728,
+      "word": "南风吹开了成毅的衬衫",
+      "onboard_time": 1694605296,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 171677,
@@ -8811,6 +8891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147868,
+      "num": 147868,
+      "word": "两个斯内普",
+      "onboard_time": 1694605232,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147862,
       "num": 147862,
       "word": "篮场风暴",
@@ -9035,14 +9123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134104,
-      "num": 134104,
-      "word": "谁好人家小猫咪这样喝水啊",
-      "onboard_time": 1694604456,
-      "rank": 44,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 133825,
       "num": 338275,
       "word": "我想成为的人有您的影子",
@@ -9103,6 +9183,14 @@
       "num": 202406,
       "word": "200秒与大家共赏美丽杭州",
       "onboard_time": 1694574516,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129986,
+      "num": 129986,
+      "word": "制作方否认高铁化妆视频不尊重女性",
+      "onboard_time": 1694607759,
       "rank": 44,
       "category": "社会新闻"
     },
@@ -9171,14 +9259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127161,
-      "num": 127161,
-      "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
-      "onboard_time": 1694604636,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126214,
       "num": 431392,
       "word": "华为问界5亿花在哪",
@@ -9217,6 +9297,14 @@
       "onboard_time": 1694363312,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123684,
+      "num": 123684,
+      "word": "UFO",
+      "onboard_time": 1694608364,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122689,
@@ -9873,6 +9961,14 @@
       "onboard_time": 1694265275,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 46184,
+      "num": 727246,
+      "word": "裸眼3D看亚运会三小只打卡杭州地标",
+      "onboard_time": 1694592034,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44825,
