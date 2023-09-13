@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694636107985,
+  "endTime": 1694637214970,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -34499,6 +34499,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 21599,
+      "num": 21599,
+      "word": "大海上偶然发现的北极熊",
+      "onboard_time": 1694635272,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 21246,
       "num": 203907,
       "word": "你会选择AI帮你理财吗",
@@ -34633,14 +34641,6 @@
       "onboard_time": 1694550614,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17522,
-      "num": 17522,
-      "word": "大海上偶然发现的北极熊",
-      "onboard_time": 1694635272,
-      "rank": 46,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 17470,
