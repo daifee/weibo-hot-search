@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694632411933,
+  "endTime": 1694633623671,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -10603,6 +10603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49177,
+      "num": 41084,
+      "word": "小说女主待遇级别外貌",
+      "onboard_time": 1694631673,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 47223,
       "num": 880265,
       "word": "夜西湖点燃亚运之夜",
@@ -10793,14 +10801,6 @@
       "onboard_time": 1694444446,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26095,
-      "num": 26095,
-      "word": "小说女主待遇级别外貌",
-      "onboard_time": 1694631673,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 24147,

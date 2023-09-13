@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694632411933,
+  "endTime": 1694633623671,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -491,20 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49177,
+      "num": 41084,
+      "word": "小说女主待遇级别外貌",
+      "onboard_time": 1694631673,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 33360,
       "num": 832158,
       "word": "亚运会吉祥物3小只宣传片",
       "onboard_time": 1694609017,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 26095,
-      "num": 26095,
-      "word": "小说女主待遇级别外貌",
-      "onboard_time": 1694631673,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 24007,
