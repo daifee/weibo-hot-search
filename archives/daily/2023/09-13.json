@@ -1,6 +1,6 @@
 {
   "startTime": 1694535715639,
-  "endTime": 1694568719355,
+  "endTime": 1694571734977,
   "band_list": [
     {
       "raw_hot": 2501784,
@@ -27,12 +27,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1929621,
+      "num": 1929621,
+      "word": "优酷他急了",
+      "onboard_time": 1694567740,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1831007,
-      "num": 516651,
+      "num": 605025,
       "word": "网友测评79元花西子眉笔能画21个月",
       "onboard_time": 1694531797,
       "rank": 10,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1814920,
+      "num": 605109,
+      "word": "男子考研落榜猥亵11岁女生寻刺激",
+      "onboard_time": 1694569958,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1796981,
@@ -75,6 +91,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 899284,
+      "num": 899284,
+      "word": "法院回应鹤岗女子还贷10年房子被占",
+      "onboard_time": 1694567680,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849096,
+      "num": 849096,
+      "word": "日本计划明年3月底前排放4轮核污染水",
+      "onboard_time": 1694567919,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 832257,
       "num": 832257,
       "word": "4000万中央资金建3个项目竟全烂尾",
@@ -99,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628877,
-      "num": 503961,
-      "word": "法院回应鹤岗女子还贷10年房子被占",
-      "onboard_time": 1694567680,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610330,
       "num": 610330,
       "word": "云之羽 决战绿茶之巅",
@@ -123,8 +147,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605189,
+      "num": 605189,
+      "word": "贾正亮被妈妈强制相亲",
+      "onboard_time": 1694566304,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584169,
-      "num": 488715,
+      "num": 568782,
       "word": "蜂花客服发声称我们没那么惨",
       "onboard_time": 1694565404,
       "rank": 16,
@@ -163,12 +195,12 @@
       "category": "综艺,美食"
     },
     {
-      "raw_hot": 553146,
-      "num": 553146,
-      "word": "贾正亮被妈妈强制相亲",
-      "onboard_time": 1694566304,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 532607,
+      "num": 532607,
+      "word": "我好像在飞机上拍到五月天了",
+      "onboard_time": 1694566363,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521959,
@@ -185,14 +217,6 @@
       "onboard_time": 1694564025,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 507977,
-      "num": 507977,
-      "word": "优酷他急了",
-      "onboard_time": 1694567740,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 504932,
@@ -217,14 +241,6 @@
       "onboard_time": 1694564864,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 490468,
-      "num": 490468,
-      "word": "我好像在飞机上拍到五月天了",
-      "onboard_time": 1694566363,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 490402,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346379,
+      "num": 346379,
+      "word": "食堂晚上卖烧烤增收供老人免费吃午餐",
+      "onboard_time": 1694568399,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 334216,
       "num": 334216,
       "word": "日本反对他国直接取样独立检测",
@@ -403,14 +427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267959,
-      "num": 267959,
-      "word": "食堂晚上卖烧烤增收供老人免费吃午餐",
-      "onboard_time": 1694568399,
-      "rank": 24,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 266734,
       "num": 266734,
       "word": "为什么抽烟的人总喜欢顺打火机",
@@ -425,14 +441,6 @@
       "onboard_time": 1694565763,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249919,
-      "num": 249919,
-      "word": "日本计划明年3月底前排放4轮核污染水",
-      "onboard_time": 1694567919,
-      "rank": 28,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 242648,
@@ -539,12 +547,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199107,
+      "num": 199107,
+      "word": "云为衫上官浅合作",
+      "onboard_time": 1694567622,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197334,
       "num": 197334,
       "word": "王俊凯奔跑的青春彩排",
       "onboard_time": 1694532039,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194870,
+      "num": 194870,
+      "word": "孙颖莎 兼三兼四",
+      "onboard_time": 1694571095,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193908,
+      "num": 193908,
+      "word": "为什么排骨比瘦肉卖的贵",
+      "onboard_time": 1694571636,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 187860,
+      "num": 187860,
+      "word": "日本研究机构发生放射性物质泄漏",
+      "onboard_time": 1694570978,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 187792,
@@ -555,19 +595,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187075,
-      "num": 187075,
-      "word": "云为衫上官浅合作",
-      "onboard_time": 1694567622,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184918,
       "num": 184918,
       "word": "德国vs法国",
       "onboard_time": 1694560228,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182543,
+      "num": 182543,
+      "word": "WTT球星挑战赛兰州站",
+      "onboard_time": 1694571458,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -601,6 +641,14 @@
       "onboard_time": 1694508940,
       "rank": 33,
       "category": "美妆,财经"
+    },
+    {
+      "raw_hot": 170284,
+      "num": 170284,
+      "word": "张远嘉宾巡演徐良站",
+      "onboard_time": 1694570916,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 165799,
@@ -673,6 +721,14 @@
       "onboard_time": 1694524963,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148450,
+      "num": 148450,
+      "word": "云之羽 浅之角",
+      "onboard_time": 1694571578,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 147436,
@@ -753,6 +809,14 @@
       "onboard_time": 1694532941,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112132,
+      "num": 112132,
+      "word": "真的不知道我要看什么电影吗",
+      "onboard_time": 1694569896,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 102666,
