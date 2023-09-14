@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694687737729,
+  "endTime": 1694690070395,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2083,6 +2083,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1720497,
+      "num": 1043548,
+      "word": "李在明已绝食抗议15天",
+      "onboard_time": 1694679934,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1716894,
       "num": 1716894,
       "word": "iPhone信号太差或将解决",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1694086358,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1567911,
-      "num": 1043548,
-      "word": "李在明已绝食抗议15天",
-      "onboard_time": 1694679934,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1566771,
@@ -3723,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136352,
+      "num": 1136352,
+      "word": "入职体检报告写表情呆滞智商偏低",
+      "onboard_time": 1694685098,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1136235,
       "num": 1136235,
       "word": "陆毅rap对我眼睛很友好",
@@ -4305,14 +4313,6 @@
       "onboard_time": 1693918956,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1010083,
-      "num": 1010083,
-      "word": "入职体检报告写表情呆滞智商偏低",
-      "onboard_time": 1694685098,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1008885,
@@ -5419,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854511,
+      "num": 854511,
+      "word": "央行9月15日下调金融机构存款准备金率",
+      "onboard_time": 1694688395,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 854386,
       "num": 430386,
       "word": "茅台董事长称酱香拿铁首日销售额超1亿",
@@ -5537,6 +5545,14 @@
       "onboard_time": 1693916737,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 842038,
+      "num": 842038,
+      "word": "深圳人已经开始喝上冰中式了",
+      "onboard_time": 1694687434,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 840702,
@@ -10563,6 +10579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521533,
+      "num": 413124,
+      "word": "副校长称女生扎好看的辫子是勾引男生",
+      "onboard_time": 1694687735,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521062,
       "num": 521062,
       "word": "摩洛哥地震遇难人数升至820人",
@@ -14443,6 +14467,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 396715,
+      "num": 396715,
+      "word": "比花西子贵的眉笔有哪些",
+      "onboard_time": 1694685875,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 396636,
       "num": 342837,
       "word": "张凌赫去周杰伦演唱会了",
@@ -14681,6 +14713,14 @@
       "onboard_time": 1693560280,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386590,
+      "num": 386590,
+      "word": "宋紫薇 离职",
+      "onboard_time": 1694689293,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 386557,
@@ -15457,14 +15497,6 @@
       "onboard_time": 1693838739,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364600,
-      "num": 364600,
-      "word": "比花西子贵的眉笔有哪些",
-      "onboard_time": 1694685875,
-      "rank": 25,
-      "category": "美妆"
     },
     {
       "raw_hot": 364457,
@@ -16513,6 +16545,14 @@
       "onboard_time": 1693912834,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337251,
+      "num": 337251,
+      "word": "蔡依林体力",
+      "onboard_time": 1694689357,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 337180,
@@ -18673,14 +18713,6 @@
       "onboard_time": 1694571095,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299082,
-      "num": 240019,
-      "word": "深圳人已经开始喝上冰中式了",
-      "onboard_time": 1694687434,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 298909,
@@ -27147,6 +27179,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "香辣砂锅土豆粉",
+      "onboard_time": 1694689234,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194742,
       "num": 194742,
       "word": "seventeen演唱会",
@@ -29683,6 +29723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172427,
+      "num": 599612,
+      "word": "国乒亚运会派出最强阵容",
+      "onboard_time": 1694683834,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172326,
       "num": 143906,
       "word": "刘恋 努力就是一种天赋",
@@ -29817,6 +29865,14 @@
       "onboard_time": 1694659653,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170461,
+      "num": 170461,
+      "word": "异人之下好多人啊",
+      "onboard_time": 1694688635,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 170395,
@@ -30123,6 +30179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167028,
+      "num": 167028,
+      "word": "一个月饼到底有多少热量",
+      "onboard_time": 1694689654,
+      "rank": 38,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 166994,
       "num": 166994,
       "word": "封神哪吒精心为妈妈准备礼物",
@@ -30355,6 +30419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164132,
+      "num": 164132,
+      "word": "云之羽还有多少反转",
+      "onboard_time": 1694688576,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164127,
       "num": 164127,
       "word": "丁霞加盟波兰女排联赛",
@@ -30561,6 +30633,14 @@
       "onboard_time": 1694230414,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161845,
+      "num": 161845,
+      "word": "小朋友的视觉充满了童真",
+      "onboard_time": 1694688635,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 161772,
@@ -32291,14 +32371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138765,
-      "num": 407914,
-      "word": "国乒亚运会派出最强阵容",
-      "onboard_time": 1694683834,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138475,
       "num": 138475,
       "word": "杭州亚运会10天倒计时",
@@ -33385,6 +33457,14 @@
       "onboard_time": 1694450549,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116144,
+      "num": 116144,
+      "word": "任浩博",
+      "onboard_time": 1694689831,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116071,

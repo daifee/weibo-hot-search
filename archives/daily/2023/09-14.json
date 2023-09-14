@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694687737729,
+  "endTime": 1694690070395,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -131,7 +131,7 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1567911,
+      "raw_hot": 1720497,
       "num": 1043548,
       "word": "李在明已绝食抗议15天",
       "onboard_time": 1694679934,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136352,
+      "num": 1136352,
+      "word": "入职体检报告写表情呆滞智商偏低",
+      "onboard_time": 1694685098,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118536,
       "num": 541831,
       "word": "林允用爽肤水洗脸",
@@ -323,20 +331,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1010083,
-      "num": 1010083,
-      "word": "入职体检报告写表情呆滞智商偏低",
-      "onboard_time": 1694685098,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 877285,
       "num": 877285,
       "word": "多地网友称看到UFO",
       "onboard_time": 1694647830,
       "rank": 33,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 854511,
+      "num": 854511,
+      "word": "央行9月15日下调金融机构存款准备金率",
+      "onboard_time": 1694688395,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 854386,
@@ -353,6 +361,14 @@
       "onboard_time": 1694663440,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842038,
+      "num": 842038,
+      "word": "深圳人已经开始喝上冰中式了",
+      "onboard_time": 1694687434,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 827017,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521533,
+      "num": 413124,
+      "word": "副校长称女生扎好看的辫子是勾引男生",
+      "onboard_time": 1694687735,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511934,
       "num": 511934,
       "word": "宋轶 孤独是给成长一个机会",
@@ -835,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396715,
+      "num": 396715,
+      "word": "比花西子贵的眉笔有哪些",
+      "onboard_time": 1694685875,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 395116,
       "num": 395116,
       "word": "你姐让我来看看我小姨",
@@ -863,6 +895,14 @@
       "num": 390158,
       "word": "华为Mate60Pro需求高于预期",
       "onboard_time": 1694663565,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 386590,
+      "num": 386590,
+      "word": "宋紫薇 离职",
+      "onboard_time": 1694689293,
       "rank": 22,
       "category": "数码"
     },
@@ -913,14 +953,6 @@
       "onboard_time": 1694619221,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 364600,
-      "num": 364600,
-      "word": "比花西子贵的眉笔有哪些",
-      "onboard_time": 1694685875,
-      "rank": 25,
-      "category": "美妆"
     },
     {
       "raw_hot": 356449,
@@ -985,6 +1017,14 @@
       "onboard_time": 1694664703,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 337251,
+      "num": 337251,
+      "word": "蔡依林体力",
+      "onboard_time": 1694689357,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 335848,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1694666143,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299082,
-      "num": 240019,
-      "word": "深圳人已经开始喝上冰中式了",
-      "onboard_time": 1694687434,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 298118,
@@ -1779,6 +1811,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "香辣砂锅土豆粉",
+      "onboard_time": 1694689234,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194519,
       "num": 194519,
       "word": "以前的伍佰和现在的伍佰",
@@ -1915,12 +1955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172427,
+      "num": 599612,
+      "word": "国乒亚运会派出最强阵容",
+      "onboard_time": 1694683834,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170492,
       "num": 170492,
       "word": "海王2剧照",
       "onboard_time": 1694659653,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170461,
+      "num": 170461,
+      "word": "异人之下好多人啊",
+      "onboard_time": 1694688635,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 169115,
@@ -1947,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167028,
+      "num": 167028,
+      "word": "一个月饼到底有多少热量",
+      "onboard_time": 1694689654,
+      "rank": 38,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 165207,
       "num": 165207,
       "word": "姬发彪子差点把哈基米摔了",
@@ -1955,12 +2019,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164132,
+      "num": 164132,
+      "word": "云之羽还有多少反转",
+      "onboard_time": 1694688576,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164127,
       "num": 164127,
       "word": "丁霞加盟波兰女排联赛",
       "onboard_time": 1694647229,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161845,
+      "num": 161845,
+      "word": "小朋友的视觉充满了童真",
+      "onboard_time": 1694688635,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 160993,
@@ -2075,14 +2155,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 138765,
-      "num": 407914,
-      "word": "国乒亚运会派出最强阵容",
-      "onboard_time": 1694683834,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131658,
       "num": 131658,
       "word": "吴磊骑行追赶式陪伴花絮",
@@ -2121,6 +2193,14 @@
       "onboard_time": 1694627118,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116144,
+      "num": 116144,
+      "word": "任浩博",
+      "onboard_time": 1694689831,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115331,

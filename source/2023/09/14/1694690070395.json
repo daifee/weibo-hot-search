@@ -1,0 +1,410 @@
+{
+  "runTime": 1694690070395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1843364,
+        "num": 1843364,
+        "word": "男子买彩票中5544万到手4444万",
+        "onboard_time": 1694681272,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509842,
+        "num": 1185105,
+        "word": "小伙被骗缅北途中微信报警获救",
+        "onboard_time": 1694683956,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5492,
+        "num": 1148753,
+        "word": "新时代成就巡礼",
+        "onboard_time": 1694658754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1136352,
+        "num": 1136352,
+        "word": "入职体检报告写表情呆滞智商偏低",
+        "onboard_time": 1694685098,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311642,
+        "num": 930594,
+        "word": "妻子用头绳牵失明丈夫晨跑30年",
+        "onboard_time": 1694679336,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854511,
+        "num": 854511,
+        "word": "央行9月15日下调金融机构存款准备金率",
+        "onboard_time": 1694688395,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206658,
+        "num": 852680,
+        "word": "小车侧翻1分钟冲出40多名抬车勇士",
+        "onboard_time": 1694686055,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 852474,
+        "num": 852474,
+        "word": "演员马卫军去世",
+        "onboard_time": 1694684736,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842038,
+        "num": 842038,
+        "word": "深圳人已经开始喝上冰中式了",
+        "onboard_time": 1694687434,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 607528,
+        "num": 607528,
+        "word": "戚薇不反对Lucky进演艺圈",
+        "onboard_time": 1694680115,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1720497,
+        "num": 607109,
+        "word": "李在明已绝食抗议15天",
+        "onboard_time": 1694679934,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 723659,
+        "num": 603122,
+        "word": "两名13岁学生将清洁漂白液倒入同学水杯",
+        "onboard_time": 1694678794,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211609,
+        "num": 601325,
+        "word": "12306建议没买到票的用户立即候补",
+        "onboard_time": 1694668239,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172427,
+        "num": 599612,
+        "word": "国乒亚运会派出最强阵容",
+        "onboard_time": 1694683834,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126037,
+        "num": 596713,
+        "word": "马斯克表态台湾是中国一部分",
+        "onboard_time": 1694664344,
+        "rank": 14,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 595881,
+        "num": 595881,
+        "word": "12306候补购票成功率达75%",
+        "onboard_time": 1694683358,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 468917,
+        "num": 468917,
+        "word": "周杰伦联名奶茶一定要点冰的",
+        "onboard_time": 1694681497,
+        "rank": 16,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 456851,
+        "num": 456851,
+        "word": "林允用爽肤水洗脸",
+        "onboard_time": 1694679821,
+        "rank": 17,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 435336,
+        "num": 435336,
+        "word": "张馨予玄学",
+        "onboard_time": 1694673334,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413675,
+        "num": 413675,
+        "word": "网友曝花西子五只化妆刷919元",
+        "onboard_time": 1694672674,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 521533,
+        "num": 413124,
+        "word": "副校长称女生扎好看的辫子是勾引男生",
+        "onboard_time": 1694687735,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396715,
+        "num": 396715,
+        "word": "比花西子贵的眉笔有哪些",
+        "onboard_time": 1694685875,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 386590,
+        "num": 386590,
+        "word": "宋紫薇 离职",
+        "onboard_time": 1694689293,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 337251,
+        "num": 337251,
+        "word": "蔡依林体力",
+        "onboard_time": 1694689357,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288604,
+        "num": 288604,
+        "word": "旧款iPhone电池维修价格全系上调",
+        "onboard_time": 1694686596,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286762,
+        "num": 286762,
+        "word": "苍兰诀 全员上桌",
+        "onboard_time": 1694674716,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273890,
+        "num": 273890,
+        "word": "鸟巢第一人",
+        "onboard_time": 1694678375,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270938,
+        "num": 270938,
+        "word": "小偷1夜挖700斤芋头被抓农户笑了",
+        "onboard_time": 1694674834,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252245,
+        "num": 252245,
+        "word": "关于我爸54岁用的微信头像",
+        "onboard_time": 1694682337,
+        "rank": 28,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 230462,
+        "num": 230462,
+        "word": "易烊千玺为希望工程献唱",
+        "onboard_time": 1694684556,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221554,
+        "num": 221554,
+        "word": "杨幂翡翠",
+        "onboard_time": 1694678557,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220175,
+        "num": 220175,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211006,
+        "num": 211006,
+        "word": "中国航天回应墨西哥展出疑外星遗骸",
+        "onboard_time": 1694680775,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194774,
+        "num": 194774,
+        "word": "香辣砂锅土豆粉",
+        "onboard_time": 1694689234,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177267,
+        "num": 177267,
+        "word": "日本偶遇Angelababy逛街",
+        "onboard_time": 1694673155,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 170461,
+        "num": 170461,
+        "word": "异人之下好多人啊",
+        "onboard_time": 1694688635,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167180,
+        "num": 167180,
+        "word": "和真正舒服的人坐一起时会出现的姿势",
+        "onboard_time": 1694682820,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167354,
+        "num": 167115,
+        "word": "冯宝宝穿古装",
+        "onboard_time": 1694682160,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167028,
+        "num": 167028,
+        "word": "一个月饼到底有多少热量",
+        "onboard_time": 1694689654,
+        "rank": 38,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 165660,
+        "num": 165660,
+        "word": "互联网是没有张予曦在乎的人了吗",
+        "onboard_time": 1694683358,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164132,
+        "num": 164132,
+        "word": "云之羽还有多少反转",
+        "onboard_time": 1694688576,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161845,
+        "num": 161845,
+        "word": "小朋友的视觉充满了童真",
+        "onboard_time": 1694688635,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159993,
+        "num": 159993,
+        "word": "扁头怎样才能圆回去",
+        "onboard_time": 1694686236,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 153054,
+        "num": 153054,
+        "word": "他平等地骂每一个恋爱脑",
+        "onboard_time": 1694674357,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140125,
+        "num": 140125,
+        "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+        "onboard_time": 1694668838,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139844,
+        "num": 139844,
+        "word": "陈楚生直播",
+        "onboard_time": 1694679876,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139728,
+        "num": 139728,
+        "word": "新人1200元租公交车当婚车",
+        "onboard_time": 1694684494,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139057,
+        "num": 139057,
+        "word": "原来马尔代夫这么贵",
+        "onboard_time": 1694685035,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131692,
+        "num": 131692,
+        "word": "贾正亮一觉睡出500元",
+        "onboard_time": 1694684256,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116144,
+        "num": 116144,
+        "word": "任浩博",
+        "onboard_time": 1694689831,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023北京文化论坛致贺信#"
+    }
+  }
+}

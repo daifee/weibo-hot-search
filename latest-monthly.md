@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 18:35:37
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 19:14:30
 </p>
 </blockquote>
 <p>
@@ -1575,6 +1575,12 @@ iPhone15四款机型相机曝光（热度：1825898）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE15%E5%A4%A9%23" target="weibo">
+李在明已绝食抗议15天（热度：1720497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E4%BF%A1%E5%8F%B7%E5%A4%AA%E5%B7%AE%E6%88%96%E5%B0%86%E8%A7%A3%E5%86%B3%23" target="weibo">
 iPhone信号太差或将解决（热度：1716894）
 </a>
@@ -1841,12 +1847,6 @@ iPhone信号太差或将解决（热度：1716894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%B0%86%E5%86%8D%E5%90%91%E8%8C%85%E5%8F%B0%E9%87%87%E8%B4%AD%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E9%85%92%23" target="weibo">
 瑞幸将再向茅台采购飞天茅台酒（热度：1576477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE15%E5%A4%A9%23" target="weibo">
-李在明已绝食抗议15天（热度：1567911）
 </a>
 </li>
 
@@ -2805,6 +2805,12 @@ Rose或将和霉霉合作（热度：1140695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E5%86%99%E8%A1%A8%E6%83%85%E5%91%86%E6%BB%9E%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%23" target="weibo">
+入职体检报告写表情呆滞智商偏低（热度：1136352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23" target="weibo">
 陆毅rap对我眼睛很友好（热度：1136235）
 </a>
@@ -3239,12 +3245,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E6%8A%8A%E6%88%91%E7%9A%84%E5%8C%96%E5%A6%86%E5%93%81%E5%85%A8%E6%91%94%E7%A2%8E%E4%BA%86%23" target="weibo">
 我爸把我的化妆品全摔碎了（热度：1010318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E5%86%99%E8%A1%A8%E6%83%85%E5%91%86%E6%BB%9E%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%23" target="weibo">
-入职体检报告写表情呆滞智商偏低（热度：1010083）
 </a>
 </li>
 
@@ -4077,6 +4077,12 @@ TFBOYS为王源新综艺宣传（热度：867815）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C9%E6%9C%8815%E6%97%A5%E4%B8%8B%E8%B0%83%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87%23" target="weibo">
+央行9月15日下调金融机构存款准备金率（热度：854511）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%A6%96%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%851%E4%BA%BF%23" target="weibo">
 茅台董事长称酱香拿铁首日销售额超1亿（热度：854386）
 </a>
@@ -4163,6 +4169,12 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%87%BA%E7%8E%89%E9%97%A8%E5%AE%9A%E6%A1%A3%23" target="weibo">
 西出玉门定档（热度：842415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86%23" target="weibo">
+深圳人已经开始喝上冰中式了（热度：842038）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone15新款手机壳曝光（热度：648123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%20%E5%9B%A2%E7%BB%93%23" target="weibo">
 国货 团结（热度：647906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%A7%92%E6%B5%85%E5%BE%B5%E5%BC%80%E8%99%90%23" target="weibo">
-云之羽角浅徵开虐（热度：647808）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A7%91%E5%A8%98%E5%B8%B8%E7%86%AC%E5%A4%9C%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23" target="weibo">
-19岁姑娘常熬夜确诊甲状腺癌（热度：647610）
 </a>
 </li>
 
