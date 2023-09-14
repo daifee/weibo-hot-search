@@ -1,0 +1,410 @@
+{
+  "runTime": 1694657006167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3273876,
+        "num": 3273876,
+        "word": "12306抢票",
+        "onboard_time": 1694652878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2100582,
+        "num": 2100582,
+        "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+        "onboard_time": 1694652878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57257,
+        "num": 1867986,
+        "word": "亚运会吉祥物3小只宣传片",
+        "onboard_time": 1694609017,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1705029,
+        "num": 1705029,
+        "word": "郁美净终于通网",
+        "onboard_time": 1694654435,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1607635,
+        "num": 1607635,
+        "word": "北师大研究生因2字报考事业单位遭拒",
+        "onboard_time": 1694654735,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1238195,
+        "num": 1238195,
+        "word": "全球首个承认外星生物存在的国家",
+        "onboard_time": 1694619940,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1179084,
+        "num": 1179084,
+        "word": "华为Mate60发布会定档",
+        "onboard_time": 1694655216,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 861454,
+        "num": 861454,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656072,
+        "num": 656072,
+        "word": "网络攻击我大学的美相关人员身份被锁定",
+        "onboard_time": 1694654854,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549990,
+        "num": 549990,
+        "word": "辛苦一晚上偷一条街全得还回去",
+        "onboard_time": 1694646446,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798047,
+        "num": 533154,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 10,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 700052,
+        "num": 527169,
+        "word": "花西子",
+        "onboard_time": 1694653297,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 559097,
+        "num": 513322,
+        "word": "檀健次 十六岁以下金奖和一等奖",
+        "onboard_time": 1694616942,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479127,
+        "num": 479127,
+        "word": "广东鳄鱼暴雨中出逃已抓回36条",
+        "onboard_time": 1694652939,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245672,
+        "num": 453095,
+        "word": "中科院博士还原被骗至缅甸经历",
+        "onboard_time": 1694647651,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447984,
+        "num": 447984,
+        "word": "逆水寒 丑衣服",
+        "onboard_time": 1694655634,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442933,
+        "num": 442933,
+        "word": "蜜雪冰城被复刻了",
+        "onboard_time": 1694648130,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418108,
+        "num": 418108,
+        "word": "你的钱也不是天上刮来的",
+        "onboard_time": 1694656716,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330016,
+        "num": 330016,
+        "word": "德国博物馆中国明清时代瓷器被盗",
+        "onboard_time": 1694651798,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304943,
+        "num": 304943,
+        "word": "何捷蹲地为张馨予拍照",
+        "onboard_time": 1694612801,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279875,
+        "num": 279875,
+        "word": "多地网友称看到UFO",
+        "onboard_time": 1694647830,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 278688,
+        "num": 278688,
+        "word": "眼睛近视的话这婚都结不成了",
+        "onboard_time": 1694648974,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265913,
+        "num": 265913,
+        "word": "养猫的才知道这种猫有多难得",
+        "onboard_time": 1694650237,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 262877,
+        "num": 262877,
+        "word": "华为mate60",
+        "onboard_time": 1694654496,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 252575,
+        "num": 252575,
+        "word": "14岁女孩花10年潜伏进暗恋对象的生活",
+        "onboard_time": 1694620058,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248955,
+        "num": 248955,
+        "word": "她几十年来灭绝了30多个岛的老鼠",
+        "onboard_time": 1694650837,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238210,
+        "num": 238210,
+        "word": "项目烂尾了问责不能再烂尾",
+        "onboard_time": 1694653658,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230977,
+        "num": 230977,
+        "word": "宫三喊姐姐脸红的是宫二",
+        "onboard_time": 1694651321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227190,
+        "num": 227190,
+        "word": "大一新生开学有多显眼包",
+        "onboard_time": 1694655696,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209229,
+        "num": 209229,
+        "word": "什么事你一定会发朋友圈",
+        "onboard_time": 1694648373,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208324,
+        "num": 208324,
+        "word": "偷偷记录下了教授的每日穿搭",
+        "onboard_time": 1694649216,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 206314,
+        "num": 206314,
+        "word": "考研倒计时100天",
+        "onboard_time": 1694656357,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196098,
+        "num": 196098,
+        "word": "河南官员四句话自曝潜规则",
+        "onboard_time": 1694650718,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191013,
+        "num": 191013,
+        "word": "金店销售发工资就攒金豆子",
+        "onboard_time": 1694646385,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186043,
+        "num": 186043,
+        "word": "赵本山和范伟的经典合作小品",
+        "onboard_time": 1694656774,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174852,
+        "num": 174852,
+        "word": "7旬奶奶主动帮不在家邻居除草",
+        "onboard_time": 1694656477,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172635,
+        "num": 172635,
+        "word": "26岁姑娘没有任何不适却确诊血癌",
+        "onboard_time": 1694610766,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170042,
+        "num": 170042,
+        "word": "JINI将solo出道",
+        "onboard_time": 1694649820,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169070,
+        "num": 169070,
+        "word": "天津市消协点赞薛之谦主动退赔行为",
+        "onboard_time": 1694647770,
+        "rank": 38,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 168015,
+        "num": 168015,
+        "word": "霍启刚担任中粮集团外部董事",
+        "onboard_time": 1694656536,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158513,
+        "num": 158513,
+        "word": "李莲花 云烟话半生",
+        "onboard_time": 1694653420,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157772,
+        "num": 157772,
+        "word": "剑网3这么多年都是280",
+        "onboard_time": 1694654496,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154443,
+        "num": 154443,
+        "word": "熬夜打游戏清早翻车",
+        "onboard_time": 1694649635,
+        "rank": 42,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 149567,
+        "num": 149567,
+        "word": "媒体多次询问北极鲶鱼调查进展均无果",
+        "onboard_time": 1694648313,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148821,
+        "num": 148821,
+        "word": "70岁房东失联租客察觉不对果断报警",
+        "onboard_time": 1694618081,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143422,
+        "num": 143422,
+        "word": "外星人",
+        "onboard_time": 1694604577,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143153,
+        "num": 143153,
+        "word": "李维嘉爸爸面对诈骗的思路",
+        "onboard_time": 1694611363,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137484,
+        "num": 137484,
+        "word": "腾讯QQ被处100万元罚款",
+        "onboard_time": 1694612744,
+        "rank": 47,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 134337,
+        "num": 134337,
+        "word": "成毅发了2018年的文案",
+        "onboard_time": 1694611600,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132786,
+        "num": 132786,
+        "word": "邓为 我不信了",
+        "onboard_time": 1694616463,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}

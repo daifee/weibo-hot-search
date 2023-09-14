@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694655009594,
+  "endTime": 1694657006167,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -19,16 +19,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2745792,
-      "num": 2745792,
+      "raw_hot": 3273876,
+      "num": 3273876,
       "word": "12306抢票",
       "onboard_time": 1694652878,
       "rank": 5,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1897911,
-      "num": 1897911,
+      "raw_hot": 2100582,
+      "num": 2100582,
       "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
       "onboard_time": 1694652878,
       "rank": 11,
@@ -41,6 +41,22 @@
       "onboard_time": 1694646446,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1705029,
+      "num": 1705029,
+      "word": "郁美净终于通网",
+      "onboard_time": 1694654435,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 1607635,
+      "num": 1607635,
+      "word": "北师大研究生因2字报考事业单位遭拒",
+      "onboard_time": 1694654735,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1554394,
@@ -73,6 +89,14 @@
       "onboard_time": 1694620058,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1179084,
+      "num": 1179084,
+      "word": "华为Mate60发布会定档",
+      "onboard_time": 1694655216,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 1172193,
@@ -147,6 +171,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 656072,
+      "num": 656072,
+      "word": "网络攻击我大学的美相关人员身份被锁定",
+      "onboard_time": 1694654854,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647906,
       "num": 647906,
       "word": "国货 团结",
@@ -219,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447984,
+      "num": 447984,
+      "word": "逆水寒 丑衣服",
+      "onboard_time": 1694655634,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 440250,
       "num": 440250,
       "word": "她几十年来灭绝了30多个岛的老鼠",
@@ -259,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418581,
-      "num": 418581,
-      "word": "郁美净终于通网",
-      "onboard_time": 1694654435,
-      "rank": 18,
-      "category": "美妆"
+      "raw_hot": 418108,
+      "num": 418108,
+      "word": "你的钱也不是天上刮来的",
+      "onboard_time": 1694656716,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 408535,
@@ -337,14 +377,6 @@
       "onboard_time": 1694610766,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338905,
-      "num": 239199,
-      "word": "北师大研究生因2字报考事业单位遭拒",
-      "onboard_time": 1694654735,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 335848,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262877,
+      "num": 262877,
+      "word": "华为mate60",
+      "onboard_time": 1694654496,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 257768,
       "num": 180887,
       "word": "骑手 你的外卖很危险",
@@ -499,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241640,
-      "num": 241640,
-      "word": "华为mate60",
-      "onboard_time": 1694654496,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 238190,
       "num": 238190,
       "word": "精心 接商战代打",
@@ -529,6 +561,14 @@
       "onboard_time": 1694627599,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 227190,
+      "num": 227190,
+      "word": "大一新生开学有多显眼包",
+      "onboard_time": 1694655696,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 224445,
@@ -587,14 +627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212212,
-      "num": 212212,
-      "word": "网络攻击我大学的美相关人员身份被锁定",
-      "onboard_time": 1694654854,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211513,
       "num": 211513,
       "word": "云之羽扫楼死亡三连问",
@@ -625,6 +657,14 @@
       "onboard_time": 1694619879,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 206314,
+      "num": 206314,
+      "word": "考研倒计时100天",
+      "onboard_time": 1694656357,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 203437,
@@ -659,12 +699,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186043,
+      "num": 186043,
+      "word": "赵本山和范伟的经典合作小品",
+      "onboard_time": 1694656774,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183852,
       "num": 183852,
       "word": "武大靖 500的神",
       "onboard_time": 1694622271,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174852,
+      "num": 174852,
+      "word": "7旬奶奶主动帮不在家邻居除草",
+      "onboard_time": 1694656477,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174482,
@@ -681,6 +737,14 @@
       "onboard_time": 1694622629,
       "rank": 43,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 168015,
+      "num": 168015,
+      "word": "霍启刚担任中粮集团外部董事",
+      "onboard_time": 1694656536,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164127,

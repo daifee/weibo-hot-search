@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694655009594,
+  "endTime": 1694657006167,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -347,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 3273876,
+      "num": 3273876,
+      "word": "12306抢票",
+      "onboard_time": 1694652878,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3268067,
       "num": 3268067,
       "word": "华少 不信谣不传谣",
@@ -601,14 +609,6 @@
       "onboard_time": 1693806696,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2745792,
-      "num": 2745792,
-      "word": "12306抢票",
-      "onboard_time": 1694652878,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2744854,
@@ -1251,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2100582,
+      "num": 2100582,
+      "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+      "onboard_time": 1694652878,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2089835,
       "num": 2089835,
       "word": "解说怒吼质问中国男篮",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1694516200,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1897911,
-      "num": 1897911,
-      "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
-      "onboard_time": 1694652878,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1895669,
@@ -2035,6 +2035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1705029,
+      "num": 1705029,
+      "word": "郁美净终于通网",
+      "onboard_time": 1694654435,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1703420,
       "num": 1703420,
       "word": "何穗 天使",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1694268520,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1607635,
+      "num": 1607635,
+      "word": "北师大研究生因2字报考事业单位遭拒",
+      "onboard_time": 1694654735,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1603831,
@@ -3393,6 +3409,14 @@
       "onboard_time": 1694498441,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1179084,
+      "num": 1179084,
+      "word": "华为Mate60发布会定档",
+      "onboard_time": 1694655216,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 1175786,
@@ -7480,6 +7504,14 @@
       "word": "核污染水排放口检测出氚",
       "onboard_time": 1693626453,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656072,
+      "num": 656072,
+      "word": "网络攻击我大学的美相关人员身份被锁定",
+      "onboard_time": 1694654854,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -12275,6 +12307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447984,
+      "num": 447984,
+      "word": "逆水寒 丑衣服",
+      "onboard_time": 1694655634,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 446315,
       "num": 446315,
       "word": "长沙一小学男教师打伤学生头骨",
@@ -13203,19 +13243,19 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 418581,
-      "num": 418581,
-      "word": "郁美净终于通网",
-      "onboard_time": 1694654435,
-      "rank": 18,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 418189,
       "num": 418189,
       "word": "Angelababy收到过周杰伦奶茶探班",
       "onboard_time": 1693813476,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 418108,
+      "num": 418108,
+      "word": "你的钱也不是天上刮来的",
+      "onboard_time": 1694656716,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -15809,14 +15849,6 @@
       "onboard_time": 1694133278,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338905,
-      "num": 239199,
-      "word": "北师大研究生因2字报考事业单位遭拒",
-      "onboard_time": 1694654735,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 338903,
@@ -19907,6 +19939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262877,
+      "num": 262877,
+      "word": "华为mate60",
+      "onboard_time": 1694654496,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 262725,
       "num": 262725,
       "word": "KPL提词器",
@@ -21235,14 +21275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241640,
-      "num": 241640,
-      "word": "华为mate60",
-      "onboard_time": 1694654496,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 241490,
       "num": 241490,
       "word": "Lady Dior活动",
@@ -22385,6 +22417,14 @@
       "onboard_time": 1693674566,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227190,
+      "num": 227190,
+      "word": "大一新生开学有多显眼包",
+      "onboard_time": 1694655696,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 227150,
@@ -23555,14 +23595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212212,
-      "num": 212212,
-      "word": "网络攻击我大学的美相关人员身份被锁定",
-      "onboard_time": 1694654854,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212169,
       "num": 212169,
       "word": "陈哲远现身成都",
@@ -24313,6 +24345,14 @@
       "onboard_time": 1694137713,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206314,
+      "num": 206314,
+      "word": "考研倒计时100天",
+      "onboard_time": 1694656357,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 206288,
@@ -27203,6 +27243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186043,
+      "num": 186043,
+      "word": "赵本山和范伟的经典合作小品",
+      "onboard_time": 1694656774,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186013,
       "num": 377071,
       "word": "上海有自己的巨物癖",
@@ -28283,6 +28331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174852,
+      "num": 174852,
+      "word": "7旬奶奶主动帮不在家邻居除草",
+      "onboard_time": 1694656477,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174816,
       "num": 174816,
       "word": "楚乌第五回",
@@ -28809,6 +28865,14 @@
       "onboard_time": 1693585773,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 168015,
+      "num": 168015,
+      "word": "霍启刚担任中粮集团外部董事",
+      "onboard_time": 1694656536,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167805,
