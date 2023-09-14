@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694697791807,
+  "endTime": 1694698573744,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -147,6 +147,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1709461,
+      "num": 1709461,
+      "word": "高铁上化妆列为不文明行为网友为何不认可",
+      "onboard_time": 1694694097,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1554394,
       "num": 395106,
       "word": "NARS",
@@ -249,14 +257,6 @@
       "onboard_time": 1694678794,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1183267,
-      "num": 1183267,
-      "word": "高铁上化妆列为不文明行为网友为何不认可",
-      "onboard_time": 1694694097,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1179084,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 620558,
+      "num": 620558,
+      "word": "艾米好漂亮",
+      "onboard_time": 1694696853,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 616420,
       "num": 678756,
       "word": "霍启刚担任中粮集团外部董事",
@@ -747,6 +755,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 509458,
+      "num": 494676,
+      "word": "马立奥终于学会了两轮的自行车",
+      "onboard_time": 1694697097,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508552,
       "num": 325967,
       "word": "日本偶遇Angelababy逛街",
@@ -769,6 +785,14 @@
       "onboard_time": 1694682337,
       "rank": 30,
       "category": "情感,互联网"
+    },
+    {
+      "raw_hot": 501862,
+      "num": 501862,
+      "word": "云为衫掉马",
+      "onboard_time": 1694697699,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 500452,
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 473802,
-      "num": 231830,
+      "num": 257579,
       "word": "终于学会耳后双C发型了",
       "onboard_time": 1694696255,
       "rank": 30,
@@ -907,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 431470,
-      "num": 431470,
-      "word": "马立奥终于学会了两轮的自行车",
-      "onboard_time": 1694697097,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431085,
       "num": 431085,
       "word": "13快男问什么时候能接活儿",
@@ -937,14 +953,6 @@
       "onboard_time": 1694611479,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423817,
-      "num": 423817,
-      "word": "艾米好漂亮",
-      "onboard_time": 1694696853,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 412546,
@@ -1139,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345478,
+      "num": 345478,
+      "word": "点竹是谁",
+      "onboard_time": 1694697634,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344866,
       "num": 344866,
       "word": "虞书欣卢昱晓hi6上班路透",
@@ -1331,6 +1347,14 @@
       "category": "国内要闻,数码"
     },
     {
+      "raw_hot": 301055,
+      "num": 256698,
+      "word": "23应届生工作两个月后的存款",
+      "onboard_time": 1694698118,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299910,
       "num": 299910,
       "word": "刘诗诗加盟最美表演",
@@ -1427,12 +1451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282277,
+      "num": 282277,
+      "word": "再也不会谈的星座",
+      "onboard_time": 1694696977,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 281522,
       "num": 452259,
       "word": "林孝埈小组第一晋级1500米半决赛",
       "onboard_time": 1694679454,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280170,
+      "num": 253789,
+      "word": "20岁女孩从未来例假一查竟是男儿身",
+      "onboard_time": 1694697758,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274236,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1694661156,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264965,
+      "num": 264965,
+      "word": "成毅首钢大跳台彩排",
+      "onboard_time": 1694696977,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 264319,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1694689831,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252319,
+      "num": 252319,
+      "word": "宫尚角上官浅鸳鸯浴",
+      "onboard_time": 1694697337,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 251577,
@@ -1699,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239807,
+      "num": 239807,
+      "word": "上海3元一个的米其林包子值得排队吃吗",
+      "onboard_time": 1694698118,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 239593,
       "num": 229340,
       "word": "张彩铃又惨又好笑",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1694619998,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 235037,
+      "num": 235037,
+      "word": "当我的素质极差朋友有了iwatch后",
+      "onboard_time": 1694698236,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 232789,
@@ -1867,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218507,
-      "num": 218507,
-      "word": "再也不会谈的星座",
-      "onboard_time": 1694696977,
-      "rank": 31,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 218486,
       "num": 218486,
       "word": "电信没信号",
@@ -1889,14 +1953,6 @@
       "onboard_time": 1694695536,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214871,
-      "num": 214871,
-      "word": "点竹是谁",
-      "onboard_time": 1694697634,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 213710,
@@ -2003,28 +2059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203609,
-      "num": 203002,
-      "word": "宫尚角上官浅鸳鸯浴",
-      "onboard_time": 1694697337,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203437,
       "num": 203437,
       "word": "小说女主待遇级别外貌",
       "onboard_time": 1694631673,
       "rank": 44,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 203288,
-      "num": 203288,
-      "word": "成毅首钢大跳台彩排",
-      "onboard_time": 1694696977,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 202352,
@@ -2107,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193708,
+      "num": 193708,
+      "word": "宋茜杜莎蜡像",
+      "onboard_time": 1694697337,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192434,
       "num": 192434,
       "word": "四川民警从22楼救出老人后脚杆打闪闪",
@@ -2155,14 +2203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188677,
-      "num": 188677,
-      "word": "宋茜杜莎蜡像",
-      "onboard_time": 1694697337,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 187203,
       "num": 187203,
       "word": "我为全村的老人拍好了遗照",
@@ -2193,14 +2233,6 @@
       "onboard_time": 1694684494,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184604,
-      "num": 184604,
-      "word": "云为衫掉马",
-      "onboard_time": 1694697699,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 183852,
@@ -2249,6 +2281,14 @@
       "onboard_time": 1694621075,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174127,
+      "num": 174127,
+      "word": "张凌赫说谢危快来了",
+      "onboard_time": 1694698417,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 173076,
@@ -2323,6 +2363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164433,
+      "num": 164433,
+      "word": "北体男女生掰手腕女生笑到最后",
+      "onboard_time": 1694698359,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164132,
       "num": 164132,
       "word": "云之羽还有多少反转",
@@ -2347,19 +2395,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161031,
+      "num": 161031,
+      "word": "人群中一眼看到王子文",
+      "onboard_time": 1694698359,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160993,
       "num": 160993,
       "word": "上海一中学投毒事件学生均已出院",
       "onboard_time": 1694679592,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157397,
-      "num": 157397,
-      "word": "20岁女孩从未来例假一查竟是男儿身",
-      "onboard_time": 1694697758,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2555,6 +2603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96900,
+      "num": 524033,
+      "word": "民警5分钟护送休克幼童就医",
+      "onboard_time": 1694694696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95380,
       "num": 1916470,
       "word": "亚运会吉祥物3小只宣传片",
@@ -2563,12 +2619,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 93251,
-      "num": 524033,
-      "word": "民警5分钟护送休克幼童就医",
-      "onboard_time": 1694694696,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 92845,
+      "num": 495643,
+      "word": "有哪些值得骄傲的国货品牌",
+      "onboard_time": 1694688516,
+      "rank": 14,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 92601,
@@ -2633,14 +2689,6 @@
       "onboard_time": 1694625443,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54800,
-      "num": 447884,
-      "word": "有哪些值得骄傲的国货品牌",
-      "onboard_time": 1694688516,
-      "rank": 14,
-      "category": "时尚,美妆"
     },
     {
       "raw_hot": 40443,
