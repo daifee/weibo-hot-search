@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694705663732,
+  "endTime": 1694708543831,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -841,6 +841,14 @@
       "onboard_time": 1694673334,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1782619,
+      "num": 1782619,
+      "word": "花西子事件后老牌国货销量暴涨",
+      "onboard_time": 1694705135,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1781995,
@@ -3659,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536704,
+      "num": 536704,
+      "word": "抗日小饼干",
+      "onboard_time": 1694707472,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532607,
       "num": 532607,
       "word": "我好像在飞机上拍到五月天了",
@@ -4547,6 +4563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 447264,
+      "num": 447264,
+      "word": "肖战说向同事分享美食被嫌弃",
+      "onboard_time": 1694705978,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446192,
       "num": 383705,
       "word": "虞书欣也有他拍的了",
@@ -4835,6 +4859,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 425281,
+      "num": 398927,
+      "word": "宫远徵好疯批",
+      "onboard_time": 1694705435,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425191,
       "num": 425191,
       "word": "警号253689请回答",
@@ -5051,6 +5083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406929,
+      "num": 406929,
+      "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
+      "onboard_time": 1694705495,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 405703,
       "num": 226656,
       "word": "中科大怎么毕业了你出秘方了",
@@ -5081,6 +5121,14 @@
       "onboard_time": 1694403942,
       "rank": 21,
       "category": "美妆,财经"
+    },
+    {
+      "raw_hot": 401630,
+      "num": 401630,
+      "word": "华为",
+      "onboard_time": 1694707233,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 400952,
@@ -7147,14 +7195,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 284161,
-      "num": 246316,
-      "word": "花西子事件后老牌国货销量暴涨",
-      "onboard_time": 1694705135,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283316,
       "num": 283316,
       "word": "国航机长空中呼救通话曝光",
@@ -8675,14 +8715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224918,
-      "num": 224918,
-      "word": "宫远徵好疯批",
-      "onboard_time": 1694705435,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224727,
       "num": 224727,
       "word": "TTG上野强度",
@@ -9585,6 +9617,14 @@
       "onboard_time": 1694670218,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203891,
+      "num": 203891,
+      "word": "活力28 操心的网友",
+      "onboard_time": 1694707592,
+      "rank": 24,
+      "category": "休闲"
     },
     {
       "raw_hot": 203852,
@@ -11051,6 +11091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172831,
+      "num": 172831,
+      "word": "成毅张予曦拒绝剧透",
+      "onboard_time": 1694706158,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172728,
       "num": 172728,
       "word": "南风吹开了成毅的衬衫",
@@ -11177,14 +11225,6 @@
       "onboard_time": 1694468354,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 169049,
-      "num": 169049,
-      "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
-      "onboard_time": 1694705495,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 169040,
@@ -12035,6 +12075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136268,
+      "num": 136268,
+      "word": "沈玉琳妈妈说祖坟冒青烟了",
+      "onboard_time": 1694708248,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136253,
       "num": 136253,
       "word": "云为衫清冷感妆",
@@ -12481,6 +12529,14 @@
       "onboard_time": 1694331994,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 104756,
+      "num": 394602,
+      "word": "热成像无人机又立功了",
+      "onboard_time": 1694705858,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103771,
@@ -13289,6 +13345,14 @@
       "onboard_time": 1694295554,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18564,
+      "num": 786241,
+      "word": "当亚运遇上民乐太惊艳了",
+      "onboard_time": 1694699920,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 17776,

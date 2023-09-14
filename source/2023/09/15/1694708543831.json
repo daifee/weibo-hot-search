@@ -1,0 +1,410 @@
+{
+  "runTime": 1694708543831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1782619,
+        "num": 1782619,
+        "word": "花西子事件后老牌国货销量暴涨",
+        "onboard_time": 1694705135,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052115,
+        "num": 1052115,
+        "word": "外媒曝Lisa拒绝和YG续约",
+        "onboard_time": 1694692596,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18564,
+        "num": 786241,
+        "word": "当亚运遇上民乐太惊艳了",
+        "onboard_time": 1694699920,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 722704,
+        "num": 722704,
+        "word": "邓超孙俪捐款20万资助100名困难学生",
+        "onboard_time": 1694704239,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536704,
+        "num": 536704,
+        "word": "抗日小饼干",
+        "onboard_time": 1694707472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447264,
+        "num": 447264,
+        "word": "肖战说向同事分享美食被嫌弃",
+        "onboard_time": 1694705978,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445800,
+        "num": 445800,
+        "word": "奈雪按销售情况向周杰伦支付IP费",
+        "onboard_time": 1694699859,
+        "rank": 6,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 406929,
+        "num": 406929,
+        "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
+        "onboard_time": 1694705495,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 593038,
+        "num": 405592,
+        "word": "高铁上化妆列为不文明行为网友为何不认可",
+        "onboard_time": 1694694097,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401630,
+        "num": 401630,
+        "word": "华为",
+        "onboard_time": 1694707233,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 500181,
+        "num": 400475,
+        "word": "杨紫高定",
+        "onboard_time": 1694698897,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425281,
+        "num": 398927,
+        "word": "宫远徵好疯批",
+        "onboard_time": 1694705435,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114466,
+        "num": 398076,
+        "word": "入职体检报告写表情呆滞智商偏低",
+        "onboard_time": 1694685098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112552,
+        "num": 396500,
+        "word": "天边的这场求婚仪式好甜",
+        "onboard_time": 1694699318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104756,
+        "num": 394602,
+        "word": "热成像无人机又立功了",
+        "onboard_time": 1694705858,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394599,
+        "num": 394599,
+        "word": "终于学会耳后双C发型了",
+        "onboard_time": 1694696255,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 313313,
+        "num": 313313,
+        "word": "职场杀熟",
+        "onboard_time": 1694703640,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307404,
+        "num": 307404,
+        "word": "男子买彩票中5544万到手4444万",
+        "onboard_time": 1694681272,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300369,
+        "num": 300369,
+        "word": "宫二终于知道了谁才是无锋首领",
+        "onboard_time": 1694690135,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219848,
+        "num": 219848,
+        "word": "中年男演员按这种水平内卷",
+        "onboard_time": 1694701362,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 700237,
+        "num": 218586,
+        "word": "iPhone玄学",
+        "onboard_time": 1694702501,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 261137,
+        "num": 218268,
+        "word": "继祖父多次性侵6岁女童获刑13年",
+        "onboard_time": 1694692294,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215721,
+        "num": 215721,
+        "word": "人群中一眼看到王子文",
+        "onboard_time": 1694698359,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205623,
+        "num": 205623,
+        "word": "iPhone14价格不降反涨",
+        "onboard_time": 1694691756,
+        "rank": 23,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 203891,
+        "num": 203891,
+        "word": "活力28 操心的网友",
+        "onboard_time": 1694707592,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 198050,
+        "num": 198050,
+        "word": "公交车这个位置好适合社恐",
+        "onboard_time": 1694702980,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195706,
+        "num": 195706,
+        "word": "这下谁还分得清营业和真情侣",
+        "onboard_time": 1694701722,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188328,
+        "num": 188328,
+        "word": "再也不会谈的星座",
+        "onboard_time": 1694696977,
+        "rank": 27,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 186405,
+        "num": 186405,
+        "word": "官方回应北极鲶鱼事件调查结果不公开",
+        "onboard_time": 1694695115,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178018,
+        "num": 178018,
+        "word": "于适少年赋浴室弹唱版",
+        "onboard_time": 1694703521,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 709666,
+        "num": 176081,
+        "word": "外卖小哥凌晨冒雨送外卖喊话李佳琦",
+        "onboard_time": 1694702324,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172831,
+        "num": 172831,
+        "word": "成毅张予曦拒绝剧透",
+        "onboard_time": 1694706158,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163589,
+        "num": 163589,
+        "word": "丞磊 翻牌",
+        "onboard_time": 1694701180,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162952,
+        "num": 162952,
+        "word": "杨幂和于正戴翡翠对比",
+        "onboard_time": 1694702140,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157247,
+        "num": 157247,
+        "word": "内马尔姆巴佩社媒互相取关",
+        "onboard_time": 1694693439,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151073,
+        "num": 151073,
+        "word": "成都停电",
+        "onboard_time": 1694700282,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150563,
+        "num": 150563,
+        "word": "20岁女孩从未来例假一查竟是男儿身",
+        "onboard_time": 1694697758,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144225,
+        "num": 144225,
+        "word": "男孩偷拿幼儿园玩具妈妈领去自首",
+        "onboard_time": 1694703218,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142865,
+        "num": 142865,
+        "word": "宋紫薇 离职",
+        "onboard_time": 1694689293,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142596,
+        "num": 142596,
+        "word": "国货嘉顿抗日期间捐过物资",
+        "onboard_time": 1694704420,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141878,
+        "num": 141878,
+        "word": "全场给冯宝宝哭丧",
+        "onboard_time": 1694702022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141653,
+        "num": 141653,
+        "word": "宫二是忍者吗",
+        "onboard_time": 1694705019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137303,
+        "num": 137303,
+        "word": "经常会因为第二天有事睡不着",
+        "onboard_time": 1694702980,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137224,
+        "num": 137224,
+        "word": "郁美净不到一天涨粉32万",
+        "onboard_time": 1694691756,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 136268,
+        "num": 136268,
+        "word": "沈玉琳妈妈说祖坟冒青烟了",
+        "onboard_time": 1694708248,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133338,
+        "num": 133338,
+        "word": "国庆档有11部电影",
+        "onboard_time": 1694693197,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132926,
+        "num": 132926,
+        "word": "网友曝花西子五只化妆刷919元",
+        "onboard_time": 1694672674,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127560,
+        "num": 127560,
+        "word": "丞磊卢昱晓好会理解夜色尚浅",
+        "onboard_time": 1694703820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125678,
+        "num": 125678,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1694691033,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114946,
+        "num": 114946,
+        "word": "最好嗑的是宫尚角这一刻的失望和烦闷",
+        "onboard_time": 1694700164,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对新时代办公厅工作作出重要指示#"
+    }
+  }
+}
