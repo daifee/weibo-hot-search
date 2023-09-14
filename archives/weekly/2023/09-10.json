@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694691232324,
+  "endTime": 1694694776720,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -257,6 +257,14 @@
       "onboard_time": 1694429381,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2956595,
+      "num": 2956595,
+      "word": "外媒曝Lisa拒绝和YG续约",
+      "onboard_time": 1694692596,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2943859,
@@ -1115,6 +1123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1465414,
+      "num": 1465414,
+      "word": "iPhone14价格不降反涨",
+      "onboard_time": 1694691756,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1465120,
       "num": 1465120,
       "word": "马龙男单夺冠",
@@ -1555,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1108511,
+      "num": 1108511,
+      "word": "深圳人已经开始喝上冰中式了",
+      "onboard_time": 1694687434,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1104732,
       "num": 419081,
       "word": "BLACKPINK路人缘很好的成员",
@@ -1700,7 +1724,7 @@
     },
     {
       "raw_hot": 1001283,
-      "num": 428073,
+      "num": 468998,
       "word": "宋紫薇 离职",
       "onboard_time": 1694689293,
       "rank": 22,
@@ -1883,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 920165,
-      "num": 920165,
-      "word": "深圳人已经开始喝上冰中式了",
-      "onboard_time": 1694687434,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 917351,
       "num": 917351,
       "word": "赵本山你大爷永远是你大爷",
@@ -1928,6 +1944,14 @@
       "word": "法院回应鹤岗女子还贷10年房子被占",
       "onboard_time": 1694567680,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898976,
+      "num": 306657,
+      "word": "继祖父多次性侵6岁女童获刑13年",
+      "onboard_time": 1694692294,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2137,6 +2161,14 @@
       "onboard_time": 1694521897,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 833518,
+      "num": 833518,
+      "word": "郁美净不到一天涨粉32万",
+      "onboard_time": 1694691756,
+      "rank": 3,
+      "category": "美妆"
     },
     {
       "raw_hot": 832987,
@@ -2427,11 +2459,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 746026,
+      "num": 746026,
+      "word": "央行决定降准0.25个百分点",
+      "onboard_time": 1694691033,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 745395,
       "num": 745395,
       "word": "云之羽小分队新浪扫楼",
       "onboard_time": 1694572296,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 744131,
+      "num": 744131,
+      "word": "宫二终于知道了谁才是无锋首领",
+      "onboard_time": 1694690135,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -2593,14 +2641,6 @@
       "onboard_time": 1694602658,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 703011,
-      "num": 423307,
-      "word": "宫二终于知道了谁才是无锋首领",
-      "onboard_time": 1694690135,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 702196,
@@ -3531,6 +3571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 531039,
+      "num": 531039,
+      "word": "内马尔姆巴佩社媒互相取关",
+      "onboard_time": 1694693439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529279,
       "num": 529279,
       "word": "天官赐福动画定档海报",
@@ -3923,6 +3971,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 489705,
+      "num": 489705,
+      "word": "李在明要绝食到体力不支昏倒为止",
+      "onboard_time": 1694691814,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 489267,
       "num": 489267,
       "word": "盛阳亲了简冰",
@@ -4091,6 +4147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471554,
+      "num": 471554,
+      "word": "老人在清华大学食堂忘我看书",
+      "onboard_time": 1694690135,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471225,
       "num": 471225,
       "word": "宫远徵早上要早起戴小铃铛",
@@ -4201,6 +4265,14 @@
       "onboard_time": 1694335051,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463277,
+      "num": 463277,
+      "word": "月公子云雀 好嗑",
+      "onboard_time": 1694693737,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 463080,
@@ -6267,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307932,
+      "num": 307932,
+      "word": "云之羽",
+      "onboard_time": 1694399137,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307415,
       "num": 307415,
       "word": "摩洛哥地震死亡人数已升至2122人",
@@ -6409,6 +6489,14 @@
       "onboard_time": 1694420980,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301288,
+      "num": 301288,
+      "word": "国庆档有11部电影",
+      "onboard_time": 1694693197,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 300921,
@@ -6569,6 +6657,14 @@
       "onboard_time": 1694504135,
       "rank": 12,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 294797,
+      "num": 294797,
+      "word": "32岁安徽农村小伙迎娶23岁白俄罗斯姑娘",
+      "onboard_time": 1694692596,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294480,
@@ -7339,6 +7435,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 259168,
+      "num": 259168,
+      "word": "突然发现小朋友才是最懂爱的",
+      "onboard_time": 1694691875,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257962,
       "num": 257962,
       "word": "封神质子一个个都好猛",
@@ -7385,14 +7489,6 @@
       "onboard_time": 1694421040,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 256038,
-      "num": 391873,
-      "word": "老人在清华大学食堂忘我看书",
-      "onboard_time": 1694690135,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255989,
@@ -7457,6 +7553,14 @@
       "onboard_time": 1694437430,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251460,
+      "num": 251460,
+      "word": "孟云未婚已有人夫感",
+      "onboard_time": 1694693078,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 250332,
@@ -7835,6 +7939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237969,
+      "num": 237969,
+      "word": "高铁上化妆列为不文明行为网友为何不认可",
+      "onboard_time": 1694694097,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237505,
       "num": 237505,
       "word": "刘雨昕把祝多写了一点",
@@ -7889,6 +8001,14 @@
       "onboard_time": 1694657314,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 235641,
+      "num": 235641,
+      "word": "小伙吃夜宵多看了一眼救了2条命",
+      "onboard_time": 1694692534,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235603,
@@ -8041,6 +8161,14 @@
       "onboard_time": 1694527963,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230730,
+      "num": 230730,
+      "word": "异地恋拒绝但成毅我可以",
+      "onboard_time": 1694692115,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 230617,
@@ -8369,14 +8497,6 @@
       "onboard_time": 1694503298,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219724,
-      "num": 219724,
-      "word": "央行决定降准0.25个百分点",
-      "onboard_time": 1694691033,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 219476,
@@ -9611,14 +9731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 193942,
-      "num": 203457,
-      "word": "云之羽",
-      "onboard_time": 1694399137,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193831,
       "num": 193831,
       "word": "云之羽角浅徵开虐",
@@ -10603,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169169,
+      "num": 169169,
+      "word": "55岁阿姨逆天化妆术惊艳网友",
+      "onboard_time": 1694694578,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "想看叶流西和雪莉杨一起探险",
@@ -11065,6 +11185,14 @@
       "onboard_time": 1694264857,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154311,
+      "num": 154311,
+      "word": "中国亚运会金牌从0到1473有多燃",
+      "onboard_time": 1694694578,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 154263,
@@ -12171,6 +12299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73482,
+      "num": 180235,
+      "word": "民警5分钟护送休克幼童就医",
+      "onboard_time": 1694694696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73083,
       "num": 73083,
       "word": "17岁的日记救20岁的我一命",
@@ -12697,6 +12833,14 @@
       "onboard_time": 1694578783,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11949,
+      "num": 175943,
+      "word": "9月换机怎么选",
+      "onboard_time": 1694694457,
+      "rank": 39,
+      "category": "数码"
     }
   ],
   "hotgov_list": [

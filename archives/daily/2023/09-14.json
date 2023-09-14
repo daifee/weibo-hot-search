@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694691232324,
+  "endTime": 1694694776720,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -33,6 +33,14 @@
       "onboard_time": 1694652878,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2956595,
+      "num": 2956595,
+      "word": "外媒曝Lisa拒绝和YG续约",
+      "onboard_time": 1694692596,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2719638,
@@ -153,6 +161,14 @@
       "onboard_time": 1694672975,
       "rank": 30,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1465414,
+      "num": 1465414,
+      "word": "iPhone14价格不降反涨",
+      "onboard_time": 1694691756,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1412685,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1108511,
+      "num": 1108511,
+      "word": "深圳人已经开始喝上冰中式了",
+      "onboard_time": 1694687434,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1091673,
       "num": 1091673,
       "word": "演员马卫军去世",
@@ -332,19 +356,19 @@
     },
     {
       "raw_hot": 1001283,
-      "num": 428073,
+      "num": 468998,
       "word": "宋紫薇 离职",
       "onboard_time": 1694689293,
       "rank": 22,
       "category": "数码"
     },
     {
-      "raw_hot": 920165,
-      "num": 920165,
-      "word": "深圳人已经开始喝上冰中式了",
-      "onboard_time": 1694687434,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 898976,
+      "num": 306657,
+      "word": "继祖父多次性侵6岁女童获刑13年",
+      "onboard_time": 1694692294,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 877285,
@@ -377,6 +401,14 @@
       "onboard_time": 1694663440,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833518,
+      "num": 833518,
+      "word": "郁美净不到一天涨粉32万",
+      "onboard_time": 1694691756,
+      "rank": 3,
+      "category": "美妆"
     },
     {
       "raw_hot": 827017,
@@ -419,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746026,
+      "num": 746026,
+      "word": "央行决定降准0.25个百分点",
+      "onboard_time": 1694691033,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 744131,
+      "num": 744131,
+      "word": "宫二终于知道了谁才是无锋首领",
+      "onboard_time": 1694690135,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 740259,
       "num": 740259,
       "word": "警方通报上海一中学疑似发生投毒",
@@ -448,14 +496,6 @@
       "word": "倪妮人前A人后C",
       "onboard_time": 1694666983,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 703011,
-      "num": 423307,
-      "word": "宫二终于知道了谁才是无锋首领",
-      "onboard_time": 1694690135,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -627,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531039,
+      "num": 531039,
+      "word": "内马尔姆巴佩社媒互相取关",
+      "onboard_time": 1694693439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 525888,
       "num": 525888,
       "word": "逆水寒 丑衣服",
@@ -707,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489705,
+      "num": 489705,
+      "word": "李在明要绝食到体力不支昏倒为止",
+      "onboard_time": 1694691814,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 480776,
       "num": 480776,
       "word": "食品被顾客乱摸老板怒斥后全扔掉",
@@ -723,6 +779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 471554,
+      "num": 471554,
+      "word": "老人在清华大学食堂忘我看书",
+      "onboard_time": 1694690135,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466665,
       "num": 466665,
       "word": "上海胸外科医生回应李佳琦言论",
@@ -737,6 +801,14 @@
       "onboard_time": 1694668120,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463277,
+      "num": 463277,
+      "word": "月公子云雀 好嗑",
+      "onboard_time": 1694693737,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 448134,
@@ -1179,12 +1251,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 307932,
+      "num": 307932,
+      "word": "云之羽",
+      "onboard_time": 1694690974,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307864,
       "num": 307864,
       "word": "外交部辟谣中国政府机关禁用苹果手机",
       "onboard_time": 1694608537,
       "rank": 42,
       "category": "国内要闻,数码"
+    },
+    {
+      "raw_hot": 301288,
+      "num": 301288,
+      "word": "国庆档有11部电影",
+      "onboard_time": 1694693197,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 299910,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1694689654,
       "rank": 38,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 294797,
+      "num": 294797,
+      "word": "32岁安徽农村小伙迎娶23岁白俄罗斯姑娘",
+      "onboard_time": 1694692596,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293099,
@@ -1395,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259168,
+      "num": 259168,
+      "word": "突然发现小朋友才是最懂爱的",
+      "onboard_time": 1694691875,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257768,
       "num": 180887,
       "word": "骑手 你的外卖很危险",
@@ -1411,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256038,
-      "num": 391873,
-      "word": "老人在清华大学食堂忘我看书",
-      "onboard_time": 1694690135,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254933,
       "num": 254933,
       "word": "任浩博",
@@ -1433,6 +1529,14 @@
       "onboard_time": 1694663921,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251460,
+      "num": 251460,
+      "word": "孟云未婚已有人夫感",
+      "onboard_time": 1694693078,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 250093,
@@ -1547,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237969,
+      "num": 237969,
+      "word": "高铁上化妆列为不文明行为网友为何不认可",
+      "onboard_time": 1694694097,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236776,
       "num": 236776,
       "word": "女打手宝儿姐揍人混剪",
@@ -1561,6 +1673,14 @@
       "onboard_time": 1694657314,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 235641,
+      "num": 235641,
+      "word": "小伙吃夜宵多看了一眼救了2条命",
+      "onboard_time": 1694692534,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235603,
@@ -1591,6 +1711,14 @@
       "num": 231586,
       "word": "盛阳简冰在一起了",
       "onboard_time": 1694683060,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230730,
+      "num": 230730,
+      "word": "异地恋拒绝但成毅我可以",
+      "onboard_time": 1694692115,
       "rank": 31,
       "category": "剧集"
     },
@@ -1673,14 +1801,6 @@
       "onboard_time": 1694680055,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219724,
-      "num": 219724,
-      "word": "央行决定降准0.25个百分点",
-      "onboard_time": 1694691033,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 218486,
@@ -1867,14 +1987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193942,
-      "num": 193942,
-      "word": "云之羽",
-      "onboard_time": 1694690974,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192434,
       "num": 192434,
       "word": "四川民警从22楼救出老人后脚杆打闪闪",
@@ -2027,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169169,
+      "num": 169169,
+      "word": "55岁阿姨逆天化妆术惊艳网友",
+      "onboard_time": 1694694578,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169115,
       "num": 160609,
       "word": "主打一个无人生还",
@@ -2113,6 +2233,14 @@
       "onboard_time": 1694614122,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154311,
+      "num": 154311,
+      "word": "中国亚运会金牌从0到1473有多燃",
+      "onboard_time": 1694694578,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 154263,
@@ -2331,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73482,
+      "num": 180235,
+      "word": "民警5分钟护送休克幼童就医",
+      "onboard_time": 1694694696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68359,
       "num": 68359,
       "word": "iPhone15",
@@ -2385,6 +2521,14 @@
       "onboard_time": 1694635693,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11949,
+      "num": 175943,
+      "word": "9月换机怎么选",
+      "onboard_time": 1694694457,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 9706,
