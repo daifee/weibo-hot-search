@@ -1,0 +1,410 @@
+{
+  "runTime": 1694661415592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3177419,
+        "num": 3177419,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2428439,
+        "num": 2428439,
+        "word": "12306抢票",
+        "onboard_time": 1694652878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40443,
+        "num": 1927929,
+        "word": "新时代成就巡礼",
+        "onboard_time": 1694658754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1848563,
+        "num": 1848563,
+        "word": "北师大研究生因2字报考事业单位遭拒",
+        "onboard_time": 1694654735,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1236417,
+        "num": 1236417,
+        "word": "华为选在孟晚舟归来日举办发布会",
+        "onboard_time": 1694659653,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1212230,
+        "num": 1212230,
+        "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+        "onboard_time": 1694652878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1147389,
+        "num": 1147389,
+        "word": "郁美净终于通网",
+        "onboard_time": 1694654435,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1049292,
+        "num": 1049292,
+        "word": "全球首个承认外星生物存在的国家",
+        "onboard_time": 1694619940,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 698240,
+        "num": 698240,
+        "word": "你的钱也不是天上刮来的",
+        "onboard_time": 1694656716,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616420,
+        "num": 678756,
+        "word": "霍启刚担任中粮集团外部董事",
+        "onboard_time": 1694656536,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660033,
+        "num": 660033,
+        "word": "华为Mate60发布会定档",
+        "onboard_time": 1694655216,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 571497,
+        "num": 571497,
+        "word": "瘫痪小猫被中医医术1秒咔吧接回",
+        "onboard_time": 1694659175,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366322,
+        "num": 568867,
+        "word": "中秋国庆假期火车票日历",
+        "onboard_time": 1694657494,
+        "rank": 12,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 250211,
+        "num": 567871,
+        "word": "网络攻击我大学的美相关人员身份被锁定",
+        "onboard_time": 1694654854,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212294,
+        "num": 567867,
+        "word": "广东鳄鱼暴雨中出逃已抓回36条",
+        "onboard_time": 1694652939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567863,
+        "num": 567863,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 15,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 531988,
+        "num": 531988,
+        "word": "考古的风又吹到了檀健次的桃李杯",
+        "onboard_time": 1694659053,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501166,
+        "num": 501166,
+        "word": "范特西奶茶",
+        "onboard_time": 1694659956,
+        "rank": 17,
+        "category": "美食,音乐"
+      },
+      {
+        "raw_hot": 480776,
+        "num": 480776,
+        "word": "食品被顾客乱摸老板怒斥后全扔掉",
+        "onboard_time": 1694658218,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430100,
+        "num": 430100,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541467,
+        "num": 415221,
+        "word": "上海一幼儿园多名幼童疑遭虐待",
+        "onboard_time": 1694658034,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368437,
+        "num": 368437,
+        "word": "孟宴臣高启强 强强碰撞",
+        "onboard_time": 1694658218,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367670,
+        "num": 367670,
+        "word": "花西子",
+        "onboard_time": 1694653297,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 324327,
+        "num": 324327,
+        "word": "杨天真为云为衫发声",
+        "onboard_time": 1694657855,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323819,
+        "num": 323819,
+        "word": "店家回应烤肉流出粉色液体被质疑",
+        "onboard_time": 1694660135,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314848,
+        "num": 314848,
+        "word": "逆水寒 丑衣服",
+        "onboard_time": 1694655634,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314350,
+        "num": 314350,
+        "word": "网易回应员工因抑郁症离世",
+        "onboard_time": 1694659233,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274236,
+        "num": 274236,
+        "word": "王霏霏黄仁俊钟辰乐跳了热烈",
+        "onboard_time": 1694660194,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268616,
+        "num": 268616,
+        "word": "蜂花会成为下一个鸿星尔克吗",
+        "onboard_time": 1694658993,
+        "rank": 28,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 245567,
+        "num": 245567,
+        "word": "A股",
+        "onboard_time": 1694659294,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237290,
+        "num": 237290,
+        "word": "蜜雪冰城被复刻了",
+        "onboard_time": 1694648130,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231513,
+        "num": 231513,
+        "word": "赵本山和范伟的经典合作小品",
+        "onboard_time": 1694656774,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222413,
+        "num": 222413,
+        "word": "华为MateX5全面开售",
+        "onboard_time": 1694657617,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209436,
+        "num": 209436,
+        "word": "张晚意说演员要好好体验生活",
+        "onboard_time": 1694660495,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202280,
+        "num": 202280,
+        "word": "眼睛近视的话这婚都结不成了",
+        "onboard_time": 1694648974,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196651,
+        "num": 196651,
+        "word": "何捷蹲地为张馨予拍照",
+        "onboard_time": 1694612801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178253,
+        "num": 178253,
+        "word": "这居然是双手不方便的人画出来的",
+        "onboard_time": 1694660135,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170492,
+        "num": 170492,
+        "word": "海王2剧照",
+        "onboard_time": 1694659653,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164400,
+        "num": 164400,
+        "word": "桂花龙井拿铁",
+        "onboard_time": 1694661336,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163160,
+        "num": 163160,
+        "word": "养猫的才知道这种猫有多难得",
+        "onboard_time": 1694650237,
+        "rank": 39,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 163034,
+        "num": 163034,
+        "word": "偷偷记录下了教授的每日穿搭",
+        "onboard_time": 1694649216,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 151089,
+        "num": 151089,
+        "word": "云为衫疑似双重间谍",
+        "onboard_time": 1694661156,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147649,
+        "num": 147649,
+        "word": "项目烂尾了问责不能再烂尾",
+        "onboard_time": 1694653658,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145606,
+        "num": 145606,
+        "word": "什么事你一定会发朋友圈",
+        "onboard_time": 1694648373,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142382,
+        "num": 142382,
+        "word": "檀健次 十六岁以下金奖和一等奖",
+        "onboard_time": 1694616942,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136179,
+        "num": 136179,
+        "word": "14岁女孩花10年潜伏进暗恋对象的生活",
+        "onboard_time": 1694620058,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133669,
+        "num": 133669,
+        "word": "她几十年来灭绝了30多个岛的老鼠",
+        "onboard_time": 1694650837,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125527,
+        "num": 125527,
+        "word": "宫三喊姐姐脸红的是宫二",
+        "onboard_time": 1694651321,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117121,
+        "num": 117121,
+        "word": "接下来几个月秦岭是这样的",
+        "onboard_time": 1694657314,
+        "rank": 48,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 111392,
+        "num": 111392,
+        "word": "区委副书记醉驾被查找人顶包",
+        "onboard_time": 1694661218,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同委内瑞拉总统会谈#"
+    }
+  }
+}

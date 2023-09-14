@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694658826495,
+  "endTime": 1694661415592,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3177419,
+      "num": 3177419,
+      "word": "茅台 我和德芙官宣了",
+      "onboard_time": 1694660312,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2100582,
       "num": 2100582,
       "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1848563,
+      "num": 1848563,
+      "word": "北师大研究生因2字报考事业单位遭拒",
+      "onboard_time": 1694654735,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1781995,
       "num": 1781995,
       "word": "郁美净终于通网",
       "onboard_time": 1694654435,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1779926,
-      "num": 1779926,
-      "word": "北师大研究生因2字报考事业单位遭拒",
-      "onboard_time": 1694654735,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1554394,
@@ -73,6 +81,14 @@
       "onboard_time": 1694611183,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236417,
+      "num": 1236417,
+      "word": "华为选在孟晚舟归来日举办发布会",
+      "onboard_time": 1694659653,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 1216792,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616420,
+      "num": 678756,
+      "word": "霍启刚担任中粮集团外部董事",
+      "onboard_time": 1694656536,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612690,
       "num": 671025,
       "word": "广东鳄鱼暴雨中出逃已抓回36条",
@@ -235,6 +259,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 571497,
+      "num": 571497,
+      "word": "瘫痪小猫被中医医术1秒咔吧接回",
+      "onboard_time": 1694659175,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541467,
+      "num": 415221,
+      "word": "上海一幼儿园多名幼童疑遭虐待",
+      "onboard_time": 1694658034,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531988,
+      "num": 531988,
+      "word": "考古的风又吹到了檀健次的桃李杯",
+      "onboard_time": 1694659053,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525888,
       "num": 525888,
       "word": "逆水寒 丑衣服",
@@ -259,11 +307,19 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 482749,
-      "num": 482749,
-      "word": "霍启刚担任中粮集团外部董事",
-      "onboard_time": 1694656536,
-      "rank": 39,
+      "raw_hot": 501166,
+      "num": 501166,
+      "word": "范特西奶茶",
+      "onboard_time": 1694659956,
+      "rank": 17,
+      "category": "美食,音乐"
+    },
+    {
+      "raw_hot": 480776,
+      "num": 480776,
+      "word": "食品被顾客乱摸老板怒斥后全扔掉",
+      "onboard_time": 1694658218,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -345,6 +401,22 @@
       "onboard_time": 1694618504,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368437,
+      "num": 368437,
+      "word": "孟宴臣高启强 强强碰撞",
+      "onboard_time": 1694658218,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 366322,
+      "num": 568867,
+      "word": "中秋国庆假期火车票日历",
+      "onboard_time": 1694657494,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 365225,
@@ -435,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323819,
+      "num": 323819,
+      "word": "店家回应烤肉流出粉色液体被质疑",
+      "onboard_time": 1694660135,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315368,
       "num": 315368,
       "word": "野球帝回应9位师傅收入问题",
       "onboard_time": 1694648555,
       "rank": 26,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 314350,
+      "num": 314350,
+      "word": "网易回应员工因抑郁症离世",
+      "onboard_time": 1694659233,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 311427,
@@ -457,14 +545,6 @@
       "onboard_time": 1694608537,
       "rank": 42,
       "category": "国内要闻,数码"
-    },
-    {
-      "raw_hot": 305025,
-      "num": 305025,
-      "word": "孟宴臣高启强 强强碰撞",
-      "onboard_time": 1694658218,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 298118,
@@ -497,6 +577,22 @@
       "onboard_time": 1694653658,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274236,
+      "num": 274236,
+      "word": "王霏霏黄仁俊钟辰乐跳了热烈",
+      "onboard_time": 1694660194,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268616,
+      "num": 268616,
+      "word": "蜂花会成为下一个鸿星尔克吗",
+      "onboard_time": 1694658993,
+      "rank": 28,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 268293,
@@ -539,14 +635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254081,
-      "num": 254081,
-      "word": "上海一幼儿园多名幼童疑遭虐待",
-      "onboard_time": 1694658034,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250068,
       "num": 250068,
       "word": "原来七窍流血是侯明昊自己提的",
@@ -577,6 +665,14 @@
       "onboard_time": 1694646385,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 245567,
+      "num": 245567,
+      "word": "A股",
+      "onboard_time": 1694659294,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 243637,
@@ -667,22 +763,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 218826,
-      "num": 218826,
-      "word": "中秋国庆假期火车票日历",
-      "onboard_time": 1694657494,
-      "rank": 37,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 215731,
-      "num": 215731,
-      "word": "食品被顾客乱摸老板怒斥后全扔掉",
-      "onboard_time": 1694658218,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213710,
       "num": 213710,
       "word": "天津市消协点赞薛之谦主动退赔行为",
@@ -729,6 +809,14 @@
       "onboard_time": 1694619879,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209436,
+      "num": 209436,
+      "word": "张晚意说演员要好好体验生活",
+      "onboard_time": 1694660495,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 206314,
@@ -779,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178253,
+      "num": 178253,
+      "word": "这居然是双手不方便的人画出来的",
+      "onboard_time": 1694660135,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174852,
       "num": 174852,
       "word": "7旬奶奶主动帮不在家邻居除草",
@@ -795,12 +891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170492,
+      "num": 170492,
+      "word": "海王2剧照",
+      "onboard_time": 1694659653,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169115,
       "num": 160609,
       "word": "主打一个无人生还",
       "onboard_time": 1694622629,
       "rank": 43,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 164400,
+      "num": 164400,
+      "word": "桂花龙井拿铁",
+      "onboard_time": 1694661336,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 164127,
@@ -825,6 +937,14 @@
       "onboard_time": 1694617543,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151089,
+      "num": 151089,
+      "word": "云为衫疑似双重间谍",
+      "onboard_time": 1694661156,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149620,
@@ -889,6 +1009,14 @@
       "onboard_time": 1694623946,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111392,
+      "num": 111392,
+      "word": "区委副书记醉驾被查找人顶包",
+      "onboard_time": 1694661218,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105237,
@@ -971,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40443,
+      "num": 1927929,
+      "word": "新时代成就巡礼",
+      "onboard_time": 1694658754,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33418,
       "num": 49532,
       "word": "大海上偶然发现的北极熊",
@@ -999,14 +1135,6 @@
       "num": 1477263,
       "word": "高校开学校长寄语合集",
       "onboard_time": 1694578783,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5238,
-      "num": 1715152,
-      "word": "新时代成就巡礼",
-      "onboard_time": 1694658754,
       "rank": 2,
       "category": "社会新闻"
     }
