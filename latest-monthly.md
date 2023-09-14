@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 22:16:16
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 22:34:08
 </p>
 </blockquote>
 <p>
@@ -3393,6 +3393,12 @@ BLACKPINK QQ音乐（热度：1014155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E6%8C%89%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E5%90%91%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%94%AF%E4%BB%98IP%E8%B4%B9%23" target="weibo">
+奈雪按销售情况向周杰伦支付IP费（热度：989241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9E%97%E4%B8%80%E6%BC%94%E6%83%85%E4%BE%A3%23" target="weibo">
 刘亦菲林一演情侣（热度：986951）
 </a>
@@ -4929,6 +4935,12 @@ Mate60Pro+（热度：756217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%B4%E7%9A%84%E4%B8%8D%E6%98%AF%E8%80%B3%E6%9C%BA%23" target="weibo">
+原来歌手演唱会戴的不是耳机（热度：755200）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
 广州暴雨（热度：755023）
 </a>
@@ -5277,6 +5289,12 @@ iPhone15系列爆料（热度：720877）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86%23" target="weibo">
+终于学会耳后双C发型了（热度：718709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%B5%B7%E9%99%86%E6%88%B3%E9%BC%BB%E5%AD%94%23" target="weibo">
 井胧回应被海陆戳鼻孔（热度：718122）
 </a>
@@ -5531,12 +5549,6 @@ IU抄袭指控警方不予立案（热度：694848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AD%BE%E5%AD%97%E6%8A%95%E9%99%8D%E5%8E%86%E5%8F%B2%E5%BD%B1%E5%83%8F%23" target="weibo">
 日本签字投降历史影像（热度：694103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86%23" target="weibo">
-终于学会耳后双C发型了（热度：694013）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ HR好像很喜欢傻白甜人设（热度：653101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%94%99%E8%8A%B1%E8%BD%BF%E5%AB%81%E5%AF%B9%E9%83%8E%E5%86%8D%E7%81%AB%E7%9A%84%E5%94%AF%E4%B8%80%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
 上错花轿嫁对郎再火的唯一受害者（热度：653018）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%96%AF%E7%BB%93%E5%A9%9A%23" target="weibo">
-罗斯结婚（热度：652920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%81%9C%E8%AF%BE%23" target="weibo">
-广州停课（热度：652792）
 </a>
 </li>
 
