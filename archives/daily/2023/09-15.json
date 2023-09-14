@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694733393803,
+  "endTime": 1694734444378,
   "band_list": [
     {
       "raw_hot": 1782619,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1371424,
+      "raw_hot": 1679816,
       "num": 664711,
       "word": "抗日小饼干",
       "onboard_time": 1694707472,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1197058,
-      "num": 464808,
+      "raw_hot": 1277896,
+      "num": 504797,
       "word": "华为",
       "onboard_time": 1694707233,
       "rank": 9,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 780199,
-      "num": 255744,
+      "raw_hot": 888514,
+      "num": 427553,
       "word": "这下谁还分得清营业和真情侣",
       "onboard_time": 1694701722,
       "rank": 26,
@@ -83,6 +83,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 487873,
+      "num": 487873,
+      "word": "中国人吃了全球91%的榴莲",
+      "onboard_time": 1694732844,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 459195,
+      "num": 459195,
+      "word": "官方回应北极鲶鱼事件调查结果不公开",
+      "onboard_time": 1694695115,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452529,
+      "num": 452529,
+      "word": "北极鲶鱼事件结果是否应公开",
+      "onboard_time": 1694732606,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447264,
       "num": 447264,
       "word": "肖战说向同事分享美食被嫌弃",
@@ -97,6 +121,14 @@
       "onboard_time": 1694699859,
       "rank": 6,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 429012,
+      "num": 429012,
+      "word": "体质真的会影响思维和性格",
+      "onboard_time": 1694732543,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 425281,
@@ -115,20 +147,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 397896,
+      "num": 397896,
+      "word": "朱一龙自曝曾犹豫是否接演消失的她",
+      "onboard_time": 1694733628,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 394599,
       "num": 394599,
       "word": "终于学会耳后双C发型了",
       "onboard_time": 1694696255,
       "rank": 15,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 383529,
-      "num": 383529,
-      "word": "官方回应北极鲶鱼事件调查结果不公开",
-      "onboard_time": 1694695115,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313313,
@@ -171,8 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255749,
-      "num": 255749,
+      "raw_hot": 258401,
+      "num": 258401,
       "word": "男孩偷拿幼儿园玩具妈妈领去自首",
       "onboard_time": 1694703218,
       "rank": 37,
@@ -235,8 +267,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207564,
+      "num": 140273,
+      "word": "左叶晒月公子云雀合照",
+      "onboard_time": 1694734168,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207412,
-      "num": 158041,
+      "num": 182799,
       "word": "20岁女孩从未来例假一查竟是男儿身",
       "onboard_time": 1694697758,
       "rank": 36,
@@ -249,14 +289,6 @@
       "onboard_time": 1694691756,
       "rank": 23,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 198574,
-      "num": 198574,
-      "word": "体质真的会影响思维和性格",
-      "onboard_time": 1694732543,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 198050,
@@ -291,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167184,
+      "num": 167184,
+      "word": "骄阳伴我",
+      "onboard_time": 1694734168,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163589,
       "num": 163589,
       "word": "丞磊 翻牌",
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 158220,
-      "num": 140084,
+      "num": 148152,
       "word": "张颂文 我40多岁的时候还在找戏拍",
       "onboard_time": 1694710944,
       "rank": 25,
@@ -339,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156940,
-      "num": 227116,
-      "word": "北极鲶鱼事件结果是否应公开",
-      "onboard_time": 1694732606,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 154660,
+      "num": 154660,
+      "word": "全场给冯宝宝哭丧",
+      "onboard_time": 1694702022,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 151073,
@@ -379,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141878,
-      "num": 141878,
-      "word": "全场给冯宝宝哭丧",
-      "onboard_time": 1694702022,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141653,
       "num": 141653,
       "word": "宫二是忍者吗",
       "onboard_time": 1694705019,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141509,
+      "num": 141509,
+      "word": "潍坊秋天遇到年轻人有多潮",
+      "onboard_time": 1694733326,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137303,
@@ -427,6 +467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 132883,
+      "num": 132883,
+      "word": "再让我抱一下你吧",
+      "onboard_time": 1694732543,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127560,
       "num": 127560,
       "word": "丞磊卢昱晓好会理解夜色尚浅",
@@ -435,12 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117517,
-      "num": 117517,
+      "raw_hot": 120311,
+      "num": 120311,
       "word": "小狸花害怕打针往护士姐姐怀里钻",
       "onboard_time": 1694710523,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 119464,
+      "num": 119464,
+      "word": "博主自制抽纸馒头吃一片抽一片",
+      "onboard_time": 1694733147,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114946,
@@ -467,22 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112251,
-      "num": 112251,
-      "word": "再让我抱一下你吧",
-      "onboard_time": 1694732543,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106100,
-      "num": 122100,
-      "word": "中国人吃了全球91%的榴莲",
-      "onboard_time": 1694732844,
-      "rank": 29,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 104756,
       "num": 394602,
       "word": "热成像无人机又立功了",
@@ -499,6 +539,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103913,
+      "num": 103913,
+      "word": "海王2首支预告",
+      "onboard_time": 1694734050,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 102925,
+      "num": 102925,
+      "word": "周华健为粉丝准备两千寸提词器",
+      "onboard_time": 1694734289,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 94866,
+      "num": 94866,
+      "word": "宝宝自己冲奶粉小手很稳",
+      "onboard_time": 1694733870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92264,
       "num": 64323,
       "word": "不敢睡 怕一醒来就要去打工",
@@ -507,19 +571,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70534,
-      "num": 70534,
-      "word": "博主自制抽纸馒头吃一片抽一片",
-      "onboard_time": 1694733147,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64687,
-      "num": 64687,
-      "word": "潍坊秋天遇到年轻人有多潮",
-      "onboard_time": 1694733326,
-      "rank": 49,
+      "raw_hot": 87048,
+      "num": 87048,
+      "word": "央行降准将释放超5000亿元中长期流动性",
+      "onboard_time": 1694734411,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -539,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46896,
+      "num": 786241,
+      "word": "当亚运遇上民乐太惊艳了",
+      "onboard_time": 1694699920,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 41989,
       "num": 41989,
       "word": "骄阳伴我烟花名场面",
@@ -553,14 +617,6 @@
       "onboard_time": 1694726954,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35215,
-      "num": 786241,
-      "word": "当亚运遇上民乐太惊艳了",
-      "onboard_time": 1694699920,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 28521,
