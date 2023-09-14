@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694720040422,
+  "endTime": 1694722657462,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -37113,6 +37113,14 @@
       "onboard_time": 1694028135,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20514,
+      "num": 20514,
+      "word": "男子酒驾遇查故意喝下1瓶白酒",
+      "onboard_time": 1694721974,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20451,
