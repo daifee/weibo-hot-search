@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694675763552,
+  "endTime": 1694676845748,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1827,6 +1827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1804030,
+      "num": 428680,
+      "word": "张馨予玄学",
+      "onboard_time": 1694673334,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1799867,
       "num": 461902,
       "word": "毕业一个月女儿变成了野人",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1693575636,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1674019,
-      "num": 413275,
-      "word": "张馨予玄学",
-      "onboard_time": 1694673334,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1672165,
@@ -2595,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1498366,
+      "num": 1498366,
+      "word": "为啥床不能两面靠墙",
+      "onboard_time": 1694672975,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1497880,
       "num": 1154969,
       "word": "宝剑嫂好会拍",
@@ -2896,6 +2904,14 @@
       "word": "被老师打破头骨女生已清醒",
       "onboard_time": 1694078855,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1390122,
+      "num": 1390122,
+      "word": "小偷1夜挖700斤芋头被抓农户笑了",
+      "onboard_time": 1694674834,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -3697,14 +3713,6 @@
       "onboard_time": 1693889922,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1115319,
-      "num": 1115319,
-      "word": "为啥床不能两面靠墙",
-      "onboard_time": 1694672975,
-      "rank": 30,
-      "category": "知识科普"
     },
     {
       "raw_hot": 1113864,
@@ -5651,6 +5659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 817242,
+      "num": 817242,
+      "word": "苍兰诀 全员上桌",
+      "onboard_time": 1694674716,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 816640,
       "num": 816640,
       "word": "易烊千玺提名金熊猫奖最佳男主角",
@@ -6083,14 +6099,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 779986,
-      "num": 779986,
-      "word": "苍兰诀 全员上桌",
-      "onboard_time": 1694674716,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 779552,
       "num": 779552,
       "word": "前任4孟云林佳体面告别",
@@ -6329,6 +6337,14 @@
       "onboard_time": 1694231311,
       "rank": 12,
       "category": "其它"
+    },
+    {
+      "raw_hot": 758386,
+      "num": 758386,
+      "word": "他平等地骂每一个恋爱脑",
+      "onboard_time": 1694674357,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 758241,
@@ -7443,14 +7459,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 671146,
-      "num": 411850,
-      "word": "小偷1夜挖700斤芋头被抓农户笑了",
-      "onboard_time": 1694674834,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 671031,
       "num": 671031,
       "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
@@ -7809,14 +7817,6 @@
       "onboard_time": 1694266118,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 651037,
-      "num": 410253,
-      "word": "他平等地骂每一个恋爱脑",
-      "onboard_time": 1694674357,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 651007,
@@ -10393,6 +10393,14 @@
       "onboard_time": 1693467460,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 524356,
+      "num": 524356,
+      "word": "LOL所有人聊天功能恢复",
+      "onboard_time": 1694674955,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 523669,
@@ -13787,6 +13795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412546,
+      "num": 412546,
+      "word": "丞磊 infp",
+      "onboard_time": 1694673217,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411794,
       "num": 411794,
       "word": "北京执行认房不认贷",
@@ -13857,14 +13873,6 @@
       "onboard_time": 1693991434,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409440,
-      "num": 409440,
-      "word": "丞磊 infp",
-      "onboard_time": 1694673217,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 409336,
@@ -14161,14 +14169,6 @@
       "onboard_time": 1693987774,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399941,
-      "num": 399941,
-      "word": "LOL所有人聊天功能恢复",
-      "onboard_time": 1694674955,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 399877,
@@ -20579,6 +20579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262177,
+      "num": 207585,
+      "word": "对银行卡密码谨慎程度be like",
+      "onboard_time": 1694675315,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262125,
       "num": 262125,
       "word": "西安交大再现校长脱稿演讲迎新",
@@ -25723,6 +25731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201787,
+      "num": 201787,
+      "word": "异人之下老戏骨芭莎大片",
+      "onboard_time": 1694676336,
+      "rank": 31,
+      "category": "剧集,时尚"
+    },
+    {
       "raw_hot": 201769,
       "num": 201769,
       "word": "别人家的物理老师都成闪电侠了",
@@ -27107,6 +27123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192428,
+      "num": 192428,
+      "word": "妲己惊艳亮相名场面幕后花絮",
+      "onboard_time": 1694675736,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192386,
       "num": 468048,
       "word": "校外培训机构违规预收费或被吊销许可证",
@@ -27753,14 +27777,6 @@
       "onboard_time": 1694527543,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187448,
-      "num": 187448,
-      "word": "对银行卡密码谨慎程度be like",
-      "onboard_time": 1694675315,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 187403,
@@ -29083,6 +29099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174901,
+      "num": 174901,
+      "word": "空腹有氧",
+      "onboard_time": 1694676394,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 174890,
       "num": 174890,
       "word": "田曦薇敖瑞鹏的身高差",
@@ -29835,6 +29859,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 165207,
+      "num": 165207,
+      "word": "姬发彪子差点把哈基米摔了",
+      "onboard_time": 1694676095,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165183,
       "num": 513730,
       "word": "国台办新任发言人用闽南语问好",
@@ -30257,6 +30289,14 @@
       "onboard_time": 1694322873,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160792,
+      "num": 160792,
+      "word": "张踩铃又惨又好笑",
+      "onboard_time": 1694675375,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 160671,
@@ -31819,14 +31859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 139317,
-      "num": 139317,
-      "word": "妲己惊艳亮相名场面幕后花絮",
-      "onboard_time": 1694675736,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 139181,
       "num": 139181,
       "word": "华莎MV",
@@ -32473,6 +32505,14 @@
       "onboard_time": 1694158955,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127487,
+      "num": 127487,
+      "word": "水果味月饼的馅基本都是冬瓜做的",
+      "onboard_time": 1694676820,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 127164,
@@ -34171,6 +34211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74248,
+      "num": 1459187,
+      "word": "我在北京文化论坛等你来",
+      "onboard_time": 1694672912,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73806,
       "num": 91328,
       "word": "盛阳说自己是简冰的人",
@@ -34329,14 +34377,6 @@
       "onboard_time": 1694367260,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 66528,
-      "num": 1459187,
-      "word": "我在北京文化论坛等你来",
-      "onboard_time": 1694672912,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66396,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694676845748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498366,
+        "num": 1498366,
+        "word": "为啥床不能两面靠墙",
+        "onboard_time": 1694672975,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1390122,
+        "num": 1390122,
+        "word": "小偷1夜挖700斤芋头被抓农户笑了",
+        "onboard_time": 1694674834,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74248,
+        "num": 1073890,
+        "word": "我在北京文化论坛等你来",
+        "onboard_time": 1694672912,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964711,
+        "num": 964711,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 817242,
+        "num": 817242,
+        "word": "苍兰诀 全员上桌",
+        "onboard_time": 1694674716,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 758386,
+        "num": 758386,
+        "word": "他平等地骂每一个恋爱脑",
+        "onboard_time": 1694674357,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 648314,
+        "num": 648314,
+        "word": "12306建议没买到票的用户立即候补",
+        "onboard_time": 1694668239,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536623,
+        "num": 536623,
+        "word": "大牙已在香港警局报案",
+        "onboard_time": 1694671834,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524356,
+        "num": 524356,
+        "word": "LOL所有人聊天功能恢复",
+        "onboard_time": 1694674955,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 438373,
+        "num": 438373,
+        "word": "马斯克表态台湾是中国一部分",
+        "onboard_time": 1694664344,
+        "rank": 9,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 2386096,
+        "num": 437104,
+        "word": "网友曝花西子五只化妆刷919元",
+        "onboard_time": 1694672674,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1804030,
+        "num": 428680,
+        "word": "张馨予玄学",
+        "onboard_time": 1694673334,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 987855,
+        "num": 427697,
+        "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+        "onboard_time": 1694668838,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347095,
+        "num": 420470,
+        "word": "记者实测关闭电视开机广告用了3天",
+        "onboard_time": 1694670875,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263191,
+        "num": 415174,
+        "word": "12306抢票",
+        "onboard_time": 1694652878,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412546,
+        "num": 412546,
+        "word": "丞磊 infp",
+        "onboard_time": 1694673217,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352295,
+        "num": 352295,
+        "word": "谢娜 郑乃馨是泰国的张一山",
+        "onboard_time": 1694668778,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338687,
+        "num": 338687,
+        "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+        "onboard_time": 1694652878,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322425,
+        "num": 322425,
+        "word": "在香港遛个弯都像在演TVB",
+        "onboard_time": 1694673820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303163,
+        "num": 303163,
+        "word": "瘫痪小猫被中医医术1秒咔吧接回",
+        "onboard_time": 1694659175,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482666,
+        "num": 296564,
+        "word": "日本偶遇Angelababy逛街",
+        "onboard_time": 1694673155,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 447453,
+        "num": 287233,
+        "word": "5999元你会买华为还是苹果",
+        "onboard_time": 1694665429,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 388481,
+        "num": 283192,
+        "word": "内陆的孩子羡慕了",
+        "onboard_time": 1694673756,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277742,
+        "num": 277742,
+        "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
+        "onboard_time": 1694663440,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268506,
+        "num": 268506,
+        "word": "倪妮人前A人后C",
+        "onboard_time": 1694666983,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265486,
+        "num": 265486,
+        "word": "被非洲的输液方式吓晕了",
+        "onboard_time": 1694664703,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259077,
+        "num": 259077,
+        "word": "骄阳伴我 特效",
+        "onboard_time": 1694674055,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246824,
+        "num": 246824,
+        "word": "花西子",
+        "onboard_time": 1694653297,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 232443,
+        "num": 232443,
+        "word": "茅台董事长称酱香拿铁首日销售额超1亿",
+        "onboard_time": 1694665606,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 212646,
+        "num": 212646,
+        "word": "四六级报名",
+        "onboard_time": 1694666505,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262177,
+        "num": 207585,
+        "word": "对银行卡密码谨慎程度be like",
+        "onboard_time": 1694675315,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201787,
+        "num": 201787,
+        "word": "异人之下老戏骨芭莎大片",
+        "onboard_time": 1694676336,
+        "rank": 31,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 192428,
+        "num": 192428,
+        "word": "妲己惊艳亮相名场面幕后花絮",
+        "onboard_time": 1694675736,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189811,
+        "num": 189811,
+        "word": "四川民警从22楼救出老人后脚杆打闪闪",
+        "onboard_time": 1694672796,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181030,
+        "num": 181030,
+        "word": "把抢到周杰伦演唱会票的消息告诉爸爸",
+        "onboard_time": 1694671117,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179558,
+        "num": 179558,
+        "word": "华为Mate60Pro需求高于预期",
+        "onboard_time": 1694663565,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177884,
+        "num": 177884,
+        "word": "北师大研究生因2字报考事业单位遭拒",
+        "onboard_time": 1694654735,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 174901,
+        "num": 174901,
+        "word": "空腹有氧",
+        "onboard_time": 1694676394,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166973,
+        "num": 166973,
+        "word": "范特西奶茶",
+        "onboard_time": 1694659956,
+        "rank": 38,
+        "category": "美食,音乐"
+      },
+      {
+        "raw_hot": 165207,
+        "num": 165207,
+        "word": "姬发彪子差点把哈基米摔了",
+        "onboard_time": 1694676095,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160792,
+        "num": 160792,
+        "word": "张踩铃又惨又好笑",
+        "onboard_time": 1694675375,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157890,
+        "num": 157890,
+        "word": "邓为风度银十双封",
+        "onboard_time": 1694668002,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153827,
+        "num": 153827,
+        "word": "单依纯满眼对学分的渴望",
+        "onboard_time": 1694665906,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140545,
+        "num": 140545,
+        "word": "何同学再次和库克见面",
+        "onboard_time": 1694669496,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132570,
+        "num": 132570,
+        "word": "成毅叫张予曦妹砸",
+        "onboard_time": 1694671296,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132553,
+        "num": 132553,
+        "word": "肠胃不好可以早餐吃点烤馒头片",
+        "onboard_time": 1694661819,
+        "rank": 45,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 131203,
+        "num": 131203,
+        "word": "华为Mate60发布会定档",
+        "onboard_time": 1694655216,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127487,
+        "num": 127487,
+        "word": "水果味月饼的馅基本都是冬瓜做的",
+        "onboard_time": 1694676820,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126931,
+        "num": 126931,
+        "word": "虞书欣卢昱晓hi6上班路透",
+        "onboard_time": 1694666627,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126235,
+        "num": 126235,
+        "word": "李维嘉看李昊用手喂赵一博的眼神",
+        "onboard_time": 1694669435,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}
