@@ -1,7 +1,15 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694661415592,
+  "endTime": 1694662434758,
   "band_list": [
+    {
+      "raw_hot": 6061044,
+      "num": 6061044,
+      "word": "茅台 我和德芙官宣了",
+      "onboard_time": 1694660312,
+      "rank": 0,
+      "category": "美食"
+    },
     {
       "raw_hot": 3893427,
       "num": 3893427,
@@ -25,14 +33,6 @@
       "onboard_time": 1694652878,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3177419,
-      "num": 3177419,
-      "word": "茅台 我和德芙官宣了",
-      "onboard_time": 1694660312,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 2100582,
@@ -75,20 +75,20 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 1342589,
+      "num": 1342589,
+      "word": "华为选在孟晚舟归来日举办发布会",
+      "onboard_time": 1694659653,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1262859,
       "num": 1262859,
       "word": "专家曾称外星人不敢来地球",
       "onboard_time": 1694611183,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236417,
-      "num": 1236417,
-      "word": "华为选在孟晚舟归来日举办发布会",
-      "onboard_time": 1694659653,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 1216792,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649395,
+      "num": 649395,
+      "word": "瘫痪小猫被中医医术1秒咔吧接回",
+      "onboard_time": 1694659175,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647906,
       "num": 647906,
       "word": "国货 团结",
@@ -259,16 +267,24 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 571497,
-      "num": 571497,
-      "word": "瘫痪小猫被中医医术1秒咔吧接回",
-      "onboard_time": 1694659175,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 573716,
+      "num": 573716,
+      "word": "桂花龙井拿铁",
+      "onboard_time": 1694661336,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 558585,
+      "num": 558585,
+      "word": "范特西奶茶",
+      "onboard_time": 1694659956,
+      "rank": 17,
+      "category": "美食,音乐"
     },
     {
       "raw_hot": 541467,
-      "num": 415221,
+      "num": 427531,
       "word": "上海一幼儿园多名幼童疑遭虐待",
       "onboard_time": 1694658034,
       "rank": 49,
@@ -299,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511934,
+      "num": 511934,
+      "word": "宋轶 孤独是给成长一个机会",
+      "onboard_time": 1694661695,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509834,
       "num": 509834,
       "word": "熬夜打游戏清早翻车",
       "onboard_time": 1694649635,
       "rank": 18,
       "category": "社会新闻,游戏"
-    },
-    {
-      "raw_hot": 501166,
-      "num": 501166,
-      "word": "范特西奶茶",
-      "onboard_time": 1694659956,
-      "rank": 17,
-      "category": "美食,音乐"
     },
     {
       "raw_hot": 480776,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 366322,
-      "num": 568867,
+      "num": 651578,
       "word": "中秋国庆假期火车票日历",
       "onboard_time": 1694657494,
       "rank": 37,
@@ -457,6 +473,14 @@
       "onboard_time": 1694650237,
       "rank": 24,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 345611,
+      "num": 345611,
+      "word": "店家回应烤肉流出粉色液体被质疑",
+      "onboard_time": 1694660135,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343417,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323819,
-      "num": 323819,
-      "word": "店家回应烤肉流出粉色液体被质疑",
-      "onboard_time": 1694660135,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315368,
       "num": 315368,
       "word": "野球帝回应9位师傅收入问题",
@@ -547,6 +563,14 @@
       "category": "国内要闻,数码"
     },
     {
+      "raw_hot": 304404,
+      "num": 304404,
+      "word": "肠胃不好可以早餐吃点烤馒头片",
+      "onboard_time": 1694661819,
+      "rank": 26,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 298118,
       "num": 298118,
       "word": "JINI将solo出道",
@@ -572,10 +596,18 @@
     },
     {
       "raw_hot": 283248,
-      "num": 283248,
+      "num": 558779,
       "word": "项目烂尾了问责不能再烂尾",
       "onboard_time": 1694653658,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278629,
+      "num": 278629,
+      "word": "区委副书记醉驾被查找人顶包",
+      "onboard_time": 1694661218,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -625,6 +657,14 @@
       "onboard_time": 1694654496,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 258650,
+      "num": 258650,
+      "word": "云为衫疑似双重间谍",
+      "onboard_time": 1694661156,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 257768,
@@ -713,6 +753,14 @@
       "onboard_time": 1694627599,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 231370,
+      "num": 231370,
+      "word": "外星人一定就是人形吗",
+      "onboard_time": 1694661576,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227190,
@@ -819,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207701,
+      "num": 207701,
+      "word": "花轿喜事今日大结局",
+      "onboard_time": 1694661937,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206314,
       "num": 206314,
       "word": "考研倒计时100天",
@@ -833,6 +889,14 @@
       "onboard_time": 1694631673,
       "rank": 44,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 196708,
+      "num": 196708,
+      "word": "一拍即合的我们终极考核",
+      "onboard_time": 1694661514,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 194519,
@@ -875,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176351,
+      "num": 176351,
+      "word": "莫斯科行动新预告主打一个猛",
+      "onboard_time": 1694662057,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174852,
       "num": 174852,
       "word": "7旬奶奶主动帮不在家邻居除草",
@@ -907,14 +979,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 164400,
-      "num": 164400,
-      "word": "桂花龙井拿铁",
-      "onboard_time": 1694661336,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 164127,
       "num": 164127,
       "word": "丁霞加盟波兰女排联赛",
@@ -939,20 +1003,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151089,
-      "num": 151089,
-      "word": "云为衫疑似双重间谍",
-      "onboard_time": 1694661156,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149620,
       "num": 149620,
       "word": "向佐 我们的图来了",
       "onboard_time": 1694612681,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147359,
+      "num": 147359,
+      "word": "太宰治对话中原中也",
+      "onboard_time": 1694662422,
+      "rank": 46,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 142578,
@@ -1009,14 +1073,6 @@
       "onboard_time": 1694623946,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111392,
-      "num": 111392,
-      "word": "区委副书记醉驾被查找人顶包",
-      "onboard_time": 1694661218,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105237,

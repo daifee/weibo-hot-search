@@ -1,0 +1,410 @@
+{
+  "runTime": 1694662434758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6061044,
+        "num": 6061044,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1997585,
+        "num": 1997585,
+        "word": "12306抢票",
+        "onboard_time": 1694652878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34339,
+        "num": 1436649,
+        "word": "新时代成就巡礼",
+        "onboard_time": 1694658754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346759,
+        "num": 1346759,
+        "word": "北师大研究生因2字报考事业单位遭拒",
+        "onboard_time": 1694654735,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1342589,
+        "num": 1342589,
+        "word": "华为选在孟晚舟归来日举办发布会",
+        "onboard_time": 1694659653,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1115163,
+        "num": 1115163,
+        "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+        "onboard_time": 1694652878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977442,
+        "num": 977442,
+        "word": "郁美净终于通网",
+        "onboard_time": 1694654435,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 947210,
+        "num": 947210,
+        "word": "全球首个承认外星生物存在的国家",
+        "onboard_time": 1694619940,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 677349,
+        "num": 677349,
+        "word": "你的钱也不是天上刮来的",
+        "onboard_time": 1694656716,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319135,
+        "num": 651578,
+        "word": "中秋国庆假期火车票日历",
+        "onboard_time": 1694657494,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 649395,
+        "num": 649395,
+        "word": "瘫痪小猫被中医医术1秒咔吧接回",
+        "onboard_time": 1694659175,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573716,
+        "num": 573716,
+        "word": "桂花龙井拿铁",
+        "onboard_time": 1694661336,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204158,
+        "num": 564972,
+        "word": "广东鳄鱼暴雨中出逃已抓回36条",
+        "onboard_time": 1694652939,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199055,
+        "num": 560672,
+        "word": "网络攻击我大学的美相关人员身份被锁定",
+        "onboard_time": 1694654854,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120930,
+        "num": 558779,
+        "word": "项目烂尾了问责不能再烂尾",
+        "onboard_time": 1694653658,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558585,
+        "num": 558585,
+        "word": "范特西奶茶",
+        "onboard_time": 1694659956,
+        "rank": 15,
+        "category": "美食,音乐"
+      },
+      {
+        "raw_hot": 550679,
+        "num": 550679,
+        "word": "华为Mate60发布会定档",
+        "onboard_time": 1694655216,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 511934,
+        "num": 511934,
+        "word": "宋轶 孤独是给成长一个机会",
+        "onboard_time": 1694661695,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467566,
+        "num": 467566,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 18,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 434162,
+        "num": 434162,
+        "word": "霍启刚担任中粮集团外部董事",
+        "onboard_time": 1694656536,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447356,
+        "num": 427531,
+        "word": "上海一幼儿园多名幼童疑遭虐待",
+        "onboard_time": 1694658034,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396076,
+        "num": 396076,
+        "word": "食品被顾客乱摸老板怒斥后全扔掉",
+        "onboard_time": 1694658218,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373381,
+        "num": 373381,
+        "word": "考古的风又吹到了檀健次的桃李杯",
+        "onboard_time": 1694659053,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349373,
+        "num": 349373,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345611,
+        "num": 345611,
+        "word": "店家回应烤肉流出粉色液体被质疑",
+        "onboard_time": 1694660135,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336680,
+        "num": 336680,
+        "word": "花西子",
+        "onboard_time": 1694653297,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 304404,
+        "num": 304404,
+        "word": "肠胃不好可以早餐吃点烤馒头片",
+        "onboard_time": 1694661819,
+        "rank": 26,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 286064,
+        "num": 286064,
+        "word": "孟宴臣高启强 强强碰撞",
+        "onboard_time": 1694658218,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278629,
+        "num": 278629,
+        "word": "区委副书记醉驾被查找人顶包",
+        "onboard_time": 1694661218,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274146,
+        "num": 274146,
+        "word": "杨天真为云为衫发声",
+        "onboard_time": 1694657855,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269101,
+        "num": 269101,
+        "word": "网易回应员工因抑郁症离世",
+        "onboard_time": 1694659233,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 258650,
+        "num": 258650,
+        "word": "云为衫疑似双重间谍",
+        "onboard_time": 1694661156,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235294,
+        "num": 235294,
+        "word": "逆水寒 丑衣服",
+        "onboard_time": 1694655634,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231370,
+        "num": 231370,
+        "word": "外星人一定就是人形吗",
+        "onboard_time": 1694661576,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227406,
+        "num": 227406,
+        "word": "蜜雪冰城被复刻了",
+        "onboard_time": 1694648130,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220189,
+        "num": 220189,
+        "word": "蜂花会成为下一个鸿星尔克吗",
+        "onboard_time": 1694658993,
+        "rank": 35,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 210696,
+        "num": 210696,
+        "word": "华为MateX5全面开售",
+        "onboard_time": 1694657617,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207701,
+        "num": 207701,
+        "word": "花轿喜事今日大结局",
+        "onboard_time": 1694661937,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203227,
+        "num": 203227,
+        "word": "赵本山和范伟的经典合作小品",
+        "onboard_time": 1694656774,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202135,
+        "num": 202135,
+        "word": "张晚意说演员要好好体验生活",
+        "onboard_time": 1694660495,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200021,
+        "num": 200021,
+        "word": "王霏霏黄仁俊钟辰乐跳了热烈",
+        "onboard_time": 1694660194,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196708,
+        "num": 196708,
+        "word": "一拍即合的我们终极考核",
+        "onboard_time": 1694661514,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176351,
+        "num": 176351,
+        "word": "莫斯科行动新预告主打一个猛",
+        "onboard_time": 1694662057,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172924,
+        "num": 172924,
+        "word": "A股",
+        "onboard_time": 1694659294,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171479,
+        "num": 171479,
+        "word": "眼睛近视的话这婚都结不成了",
+        "onboard_time": 1694648974,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150518,
+        "num": 150518,
+        "word": "何捷蹲地为张馨予拍照",
+        "onboard_time": 1694612801,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147359,
+        "num": 147359,
+        "word": "太宰治对话中原中也",
+        "onboard_time": 1694662422,
+        "rank": 46,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 144959,
+        "num": 144959,
+        "word": "偷偷记录下了教授的每日穿搭",
+        "onboard_time": 1694649216,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141655,
+        "num": 141655,
+        "word": "这居然是双手不方便的人画出来的",
+        "onboard_time": 1694660135,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141177,
+        "num": 141177,
+        "word": "海王2剧照",
+        "onboard_time": 1694659653,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升网络互联互通水平#"
+    }
+  }
+}
