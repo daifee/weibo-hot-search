@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694708543831,
+  "endTime": 1694709448264,
   "band_list": [
     {
       "raw_hot": 1782619,
@@ -17,6 +17,14 @@
       "onboard_time": 1694692596,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1007437,
+      "num": 664711,
+      "word": "抗日小饼干",
+      "onboard_time": 1694707472,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722704,
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536704,
-      "num": 536704,
-      "word": "抗日小饼干",
-      "onboard_time": 1694707472,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500181,
       "num": 400475,
       "word": "杨紫高定",
       "onboard_time": 1694698897,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464808,
+      "num": 464808,
+      "word": "华为",
+      "onboard_time": 1694707233,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 447264,
@@ -91,20 +99,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 406929,
-      "num": 406929,
+      "raw_hot": 419775,
+      "num": 419775,
       "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
       "onboard_time": 1694705495,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 401630,
-      "num": 401630,
-      "word": "华为",
-      "onboard_time": 1694707233,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 394599,
@@ -144,6 +144,14 @@
       "word": "继祖父多次性侵6岁女童获刑13年",
       "onboard_time": 1694692294,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226043,
+      "num": 226043,
+      "word": "官方回应北极鲶鱼事件调查结果不公开",
+      "onboard_time": 1694695115,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -203,14 +211,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 186405,
-      "num": 186405,
-      "word": "官方回应北极鲶鱼事件调查结果不公开",
-      "onboard_time": 1694695115,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178018,
       "num": 178018,
       "word": "于适少年赋浴室弹唱版",
@@ -265,6 +265,14 @@
       "onboard_time": 1694697758,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150551,
+      "num": 150551,
+      "word": "沈玉琳妈妈说祖坟冒青烟了",
+      "onboard_time": 1694708248,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 144225,
@@ -323,12 +331,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 136268,
-      "num": 136268,
-      "word": "沈玉琳妈妈说祖坟冒青烟了",
-      "onboard_time": 1694708248,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 136027,
+      "num": 136027,
+      "word": "大学生对陌生人莫名的信任",
+      "onboard_time": 1694708728,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 133338,
@@ -363,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122378,
+      "num": 122378,
+      "word": "张凌赫 你快衫了吧",
+      "onboard_time": 1694709206,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114946,
       "num": 114946,
       "word": "最好嗑的是宫尚角这一刻的失望和烦闷",
@@ -395,7 +411,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18564,
+      "raw_hot": 104056,
+      "num": 104056,
+      "word": "艾米好漂亮",
+      "onboard_time": 1694696853,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22124,
       "num": 786241,
       "word": "当亚运遇上民乐太惊艳了",
       "onboard_time": 1694699920,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对新时代办公厅工作作出重要指示#"
+    },
+    {
+      "word": "#习近平向2023北京文化论坛致贺信#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694708543831,
+  "endTime": 1694709448264,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -4416,6 +4416,14 @@
       "word": "厦门震感",
       "onboard_time": 1693907377,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007437,
+      "num": 664711,
+      "word": "抗日小饼干",
+      "onboard_time": 1694707472,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -10451,14 +10459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 536704,
-      "num": 536704,
-      "word": "抗日小饼干",
-      "onboard_time": 1694707472,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536292,
       "num": 478312,
       "word": "猫的树是懂纯爱的",
@@ -13995,6 +13995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419775,
+      "num": 419775,
+      "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
+      "onboard_time": 1694705495,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 419737,
       "num": 419737,
       "word": "黑眼睛黄皮肤 能听懂我说话的就是家人",
@@ -14401,14 +14409,6 @@
       "onboard_time": 1694044293,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406929,
-      "num": 406929,
-      "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
-      "onboard_time": 1694705495,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 406631,
@@ -32147,6 +32147,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 150551,
+      "num": 150551,
+      "word": "沈玉琳妈妈说祖坟冒青烟了",
+      "onboard_time": 1694708248,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150351,
       "num": 363392,
       "word": "希林娜依高青春主题曲首发上线",
@@ -33179,14 +33187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136268,
-      "num": 136268,
-      "word": "沈玉琳妈妈说祖坟冒青烟了",
-      "onboard_time": 1694708248,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136253,
       "num": 136253,
       "word": "云为衫清冷感妆",
@@ -33201,6 +33201,14 @@
       "onboard_time": 1694320475,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136027,
+      "num": 136027,
+      "word": "大学生对陌生人莫名的信任",
+      "onboard_time": 1694708728,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 135982,
@@ -33881,6 +33889,14 @@
       "onboard_time": 1694491246,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122378,
+      "num": 122378,
+      "word": "张凌赫 你快衫了吧",
+      "onboard_time": 1694709206,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121953,
@@ -36963,6 +36979,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 22124,
+      "num": 786241,
+      "word": "当亚运遇上民乐太惊艳了",
+      "onboard_time": 1694699920,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 21246,
       "num": 203907,
       "word": "你会选择AI帮你理财吗",
@@ -37073,14 +37097,6 @@
       "onboard_time": 1693648832,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18564,
-      "num": 786241,
-      "word": "当亚运遇上民乐太惊艳了",
-      "onboard_time": 1694699920,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 18202,

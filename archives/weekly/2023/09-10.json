@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694708543831,
+  "endTime": 1694709448264,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1784,6 +1784,14 @@
       "word": "厦门震感",
       "onboard_time": 1694517761,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007437,
+      "num": 664711,
+      "word": "抗日小饼干",
+      "onboard_time": 1694707472,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3667,14 +3675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536704,
-      "num": 536704,
-      "word": "抗日小饼干",
-      "onboard_time": 1694707472,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532607,
       "num": 532607,
       "word": "我好像在飞机上拍到五月天了",
@@ -4403,6 +4403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464808,
+      "num": 464808,
+      "word": "华为",
+      "onboard_time": 1694707233,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 464792,
       "num": 433525,
       "word": "为什么排骨比瘦肉卖的贵",
@@ -4947,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419775,
+      "num": 419775,
+      "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
+      "onboard_time": 1694705495,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 418031,
       "num": 418031,
       "word": "德国足协花1亿日元请日本比赛",
@@ -5083,14 +5099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406929,
-      "num": 406929,
-      "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
-      "onboard_time": 1694705495,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 405703,
       "num": 226656,
       "word": "中科大怎么毕业了你出秘方了",
@@ -5121,14 +5129,6 @@
       "onboard_time": 1694403942,
       "rank": 21,
       "category": "美妆,财经"
-    },
-    {
-      "raw_hot": 401630,
-      "num": 401630,
-      "word": "华为",
-      "onboard_time": 1694707233,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 400952,
@@ -11771,6 +11771,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 150551,
+      "num": 150551,
+      "word": "沈玉琳妈妈说祖坟冒青烟了",
+      "onboard_time": 1694708248,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150024,
       "num": 150024,
       "word": "布里奇斯绝平三分",
@@ -12075,14 +12083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136268,
-      "num": 136268,
-      "word": "沈玉琳妈妈说祖坟冒青烟了",
-      "onboard_time": 1694708248,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136253,
       "num": 136253,
       "word": "云为衫清冷感妆",
@@ -12097,6 +12097,14 @@
       "onboard_time": 1694320475,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136027,
+      "num": 136027,
+      "word": "大学生对陌生人莫名的信任",
+      "onboard_time": 1694708728,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 135764,
@@ -12321,6 +12329,14 @@
       "onboard_time": 1694491246,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122378,
+      "num": 122378,
+      "word": "张凌赫 你快衫了吧",
+      "onboard_time": 1694709206,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121764,
@@ -13323,6 +13339,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 22124,
+      "num": 786241,
+      "word": "当亚运遇上民乐太惊艳了",
+      "onboard_time": 1694699920,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 20679,
       "num": 20679,
       "word": "华晨宇演唱会",
@@ -13345,14 +13369,6 @@
       "onboard_time": 1694295554,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18564,
-      "num": 786241,
-      "word": "当亚运遇上民乐太惊艳了",
-      "onboard_time": 1694699920,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 17776,
