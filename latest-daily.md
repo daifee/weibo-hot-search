@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/14 00:20:53 ~ 2023/09/14 14:22:16
+本榜单时间：2023/09/14 00:20:53 ~ 2023/09/14 14:35:28
 </p>
 </blockquote>
 <p>
@@ -58,7 +58,7 @@ UFO（热度：3488196）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%B8%BB%E6%92%AD%E6%8B%BF%E9%9E%8B%E7%94%A8%E8%9C%82%E8%8A%B1%E6%B4%97%E5%A4%B4%E5%8F%91%23" target="weibo">
-鸿星尔克主播拿鞋用蜂花洗头发（热度：1962348）
+鸿星尔克主播拿鞋用蜂花洗头发（热度：2074220）
 </a>
 </li>
 
@@ -100,7 +100,7 @@ NARS（热度：1554394）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23" target="weibo">
-12306建议没买到票的用户立即候补（热度：1284891）
+12306建议没买到票的用户立即候补（热度：1293597）
 </a>
 </li>
 
@@ -149,6 +149,12 @@ NARS（热度：1554394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E9%83%91%E4%B9%83%E9%A6%A8%E6%98%AF%E6%B3%B0%E5%9B%BD%E7%9A%84%E5%BC%A0%E4%B8%80%E5%B1%B1%23" target="weibo">
 谢娜 郑乃馨是泰国的张一山（热度：1110415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%B7%B2%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%B1%80%E6%8A%A5%E6%A1%88%23" target="weibo">
+大牙已在香港警局报案（热度：1086722）
 </a>
 </li>
 
@@ -215,6 +221,12 @@ NARS（热度：1554394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E4%BA%BA%E5%89%8DA%E4%BA%BA%E5%90%8EC%23" target="weibo">
 倪妮人前A人后C（热度：704671）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%94%E5%8F%AA%E5%8C%96%E5%A6%86%E5%88%B7919%E5%85%83%23" target="weibo">
+网友曝花西子五只化妆刷919元（热度：689099）
 </a>
 </li>
 
@@ -303,12 +315,6 @@ NARS（热度：1554394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%B7%B2%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%B1%80%E6%8A%A5%E6%A1%88%23" target="weibo">
-大牙已在香港警局报案（热度：559387）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%89%B9%E8%A5%BF%E5%A5%B6%E8%8C%B6%23" target="weibo">
 范特西奶茶（热度：558585）
 </a>
@@ -359,6 +365,12 @@ NARS（热度：1554394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A0%E8%83%83%E4%B8%8D%E5%A5%BD%E5%8F%AF%E4%BB%A5%E6%97%A9%E9%A4%90%E5%90%83%E7%82%B9%E7%83%A4%E9%A6%92%E5%A4%B4%E7%89%87%23" target="weibo">
 肠胃不好可以早餐吃点烤馒头片（热度：500452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%85%B3%E9%97%AD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E7%94%A8%E4%BA%863%E5%A4%A9%23" target="weibo">
+记者实测关闭电视开机广告用了3天（热度：498135）
 </a>
 </li>
 
@@ -441,6 +453,12 @@ NARS（热度：1554394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E5%86%8D%E6%AC%A1%E5%92%8C%E5%BA%93%E5%85%8B%E8%A7%81%E9%9D%A2%23" target="weibo">
+何同学再次和库克见面（热度：405668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%8A%A2%E5%88%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E7%9A%84%E6%B6%88%E6%81%AF%E5%91%8A%E8%AF%89%E7%88%B8%E7%88%B8%23" target="weibo">
 把抢到周杰伦演唱会票的消息告诉爸爸（热度：400270）
 </a>
@@ -513,20 +531,8 @@ NARS（热度：1554394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%85%B3%E9%97%AD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E7%94%A8%E4%BA%863%E5%A4%A9%23" target="weibo">
-记者实测关闭电视开机广告用了3天（热度：363645）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E4%B8%89%E5%96%8A%E5%A7%90%E5%A7%90%E8%84%B8%E7%BA%A2%E7%9A%84%E6%98%AF%E5%AE%AB%E4%BA%8C%23" target="weibo">
 宫三喊姐姐脸红的是宫二（热度：356449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E5%86%8D%E6%AC%A1%E5%92%8C%E5%BA%93%E5%85%8B%E8%A7%81%E9%9D%A2%23" target="weibo">
-何同学再次和库克见面（热度：354971）
 </a>
 </li>
 
@@ -855,6 +861,12 @@ iPhone15配色（热度：232789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%BA%8A%E4%B8%8D%E8%83%BD%E4%B8%A4%E9%9D%A2%E9%9D%A0%E5%A2%99%23" target="weibo">
+为啥床不能两面靠墙（热度：225749）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E5%BF%AB%E9%80%92%E8%A2%AB%E6%8C%82%E4%B8%8A%E8%A1%A8%E7%99%BD%E5%A2%99%E4%BA%86%23" target="weibo">
 取快递被挂上表白墙了（热度：224445）
 </a>
@@ -893,6 +905,12 @@ iPhone15配色（热度：232789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E7%AB%9F%E7%84%B6%E8%83%BD%E7%BB%99%E5%AE%A0%E7%89%A9%E6%B2%BB%E7%97%85%23" target="weibo">
 中医竟然能给宠物治病（热度：219830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E4%BF%A1%E6%B2%A1%E4%BF%A1%E5%8F%B7%23" target="weibo">
+电信没信号（热度：218486）
 </a>
 </li>
 
@@ -1005,14 +1023,20 @@ Note13（热度：191481）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E4%BF%A1%E6%B2%A1%E4%BF%A1%E5%8F%B7%23" target="weibo">
-电信没信号（热度：190062）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%81%B6%E9%81%87Angelababy%E9%80%9B%E8%A1%97%23" target="weibo">
+日本偶遇Angelababy逛街（热度：189370）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%BA%E5%85%A8%E6%9D%91%E7%9A%84%E8%80%81%E4%BA%BA%E6%8B%8D%E5%A5%BD%E4%BA%86%E9%81%97%E7%85%A7%23" target="weibo">
 我为全村的老人拍好了遗照（热度：187203）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E9%9D%92%E6%A4%92%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%B3%E6%B3%95%23" target="weibo">
+这个青椒有自己的想法（热度：186443）
 </a>
 </li>
 
@@ -1053,8 +1077,14 @@ Note13（热度：191481）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E9%9D%92%E6%A4%92%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%B3%E6%B3%95%23" target="weibo">
-这个青椒有自己的想法（热度：174432）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%91%E8%AD%A6%E4%BB%8E22%E6%A5%BC%E6%95%91%E5%87%BA%E8%80%81%E4%BA%BA%E5%90%8E%E8%84%9A%E6%9D%86%E6%89%93%E9%97%AA%E9%97%AA%23" target="weibo">
+四川民警从22楼救出老人后脚杆打闪闪（热度：174115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%20infp%23" target="weibo">
+丞磊 infp（热度：172982）
 </a>
 </li>
 
@@ -1072,7 +1102,7 @@ Note13（热度：191481）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%AB%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%A6%B9%E7%A0%B8%23" target="weibo">
-成毅叫张予曦妹砸（热度：165331）
+成毅叫张予曦妹砸（热度：167702）
 </a>
 </li>
 
@@ -1217,6 +1247,12 @@ iPhone15（热度：68359）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%E8%A2%81%E5%9F%BA%20%E5%B1%B1%E6%9C%88%E4%B8%8D%E7%9F%A5%E5%BF%83%E5%BA%95%E4%BA%8B%23" target="weibo">
 代号鸢袁基 山月不知心底事（热度：63277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E7%AD%89%E4%BD%A0%E6%9D%A5%23" target="weibo">
+我在北京文化论坛等你来（热度：62997）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694672536781,
+  "endTime": 1694673328547,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1339,6 +1339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2074220,
+      "num": 2074220,
+      "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+      "onboard_time": 1694668838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2070313,
       "num": 2070313,
       "word": "EXO 安踏",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1693840118,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1962348,
-      "num": 1962348,
-      "word": "鸿星尔克主播拿鞋用蜂花洗头发",
-      "onboard_time": 1694668838,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1947116,
@@ -3131,6 +3131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1293597,
+      "num": 1293597,
+      "word": "12306建议没买到票的用户立即候补",
+      "onboard_time": 1694668239,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1290637,
       "num": 674313,
       "word": "新郎和新娘不在一个图层",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1693616375,
       "rank": 16,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 1284891,
-      "num": 1284891,
-      "word": "12306建议没买到票的用户立即候补",
-      "onboard_time": 1694668239,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1283227,
@@ -3833,6 +3833,14 @@
       "onboard_time": 1693997200,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1086722,
+      "num": 1086722,
+      "word": "大牙已在香港警局报案",
+      "onboard_time": 1694671834,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1086398,
@@ -7155,6 +7163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689099,
+      "num": 447825,
+      "word": "网友曝花西子五只化妆刷919元",
+      "onboard_time": 1694672674,
+      "rank": 10,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 689010,
       "num": 689010,
       "word": "大熊猫园润当妈妈了",
@@ -9435,14 +9451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 559387,
-      "num": 559387,
-      "word": "大牙已在香港警局报案",
-      "onboard_time": 1694671834,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 558585,
       "num": 558585,
       "word": "范特西奶茶",
@@ -11049,6 +11057,14 @@
       "onboard_time": 1693980513,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 498135,
+      "num": 447477,
+      "word": "记者实测关闭电视开机广告用了3天",
+      "onboard_time": 1694670875,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498101,
@@ -13899,6 +13915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 405668,
+      "num": 405668,
+      "word": "何同学再次和库克见面",
+      "onboard_time": 1694669496,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 405251,
       "num": 405251,
       "word": "Mystic发文回应",
@@ -15275,14 +15299,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 363645,
-      "num": 401944,
-      "word": "记者实测关闭电视开机广告用了3天",
-      "onboard_time": 1694670875,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362847,
       "num": 362847,
       "word": "不要轻易去外省读大学",
@@ -15569,14 +15585,6 @@
       "onboard_time": 1693977875,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354971,
-      "num": 354971,
-      "word": "何同学再次和库克见面",
-      "onboard_time": 1694669496,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 354920,
@@ -23059,6 +23067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225749,
+      "num": 225749,
+      "word": "为啥床不能两面靠墙",
+      "onboard_time": 1694672975,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 225684,
       "num": 225684,
       "word": "邓超的撕漫男和我们不太一样",
@@ -23649,6 +23665,14 @@
       "onboard_time": 1694339853,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218486,
+      "num": 218486,
+      "word": "电信没信号",
+      "onboard_time": 1694672074,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218347,
@@ -27347,14 +27371,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 190062,
-      "num": 190062,
-      "word": "电信没信号",
-      "onboard_time": 1694672074,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190014,
       "num": 166438,
       "word": "做着想死的工作居然是为了谋生",
@@ -27393,6 +27409,14 @@
       "onboard_time": 1693884278,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189370,
+      "num": 189370,
+      "word": "日本偶遇Angelababy逛街",
+      "onboard_time": 1694673155,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 189279,
@@ -27824,6 +27848,14 @@
       "word": "猫猫虽年龄不大但工作能力强",
       "onboard_time": 1694014836,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186443,
+      "num": 186443,
+      "word": "这个青椒有自己的想法",
+      "onboard_time": 1694672314,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -29035,14 +29067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174432,
-      "num": 174432,
-      "word": "这个青椒有自己的想法",
-      "onboard_time": 1694672314,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174270,
       "num": 174270,
       "word": "深圳罗湖区停工",
@@ -29065,6 +29089,14 @@
       "onboard_time": 1693884577,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 174115,
+      "num": 174115,
+      "word": "四川民警从22楼救出老人后脚杆打闪闪",
+      "onboard_time": 1694672796,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173847,
@@ -29137,6 +29169,14 @@
       "onboard_time": 1693717957,
       "rank": 47,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 172982,
+      "num": 172982,
+      "word": "丞磊 infp",
+      "onboard_time": 1694673217,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 172956,
@@ -29539,6 +29579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167702,
+      "num": 167702,
+      "word": "成毅叫张予曦妹砸",
+      "onboard_time": 1694671296,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167566,
       "num": 167566,
       "word": "00后民警送80后师父不锈钢锦旗被围观",
@@ -29697,14 +29745,6 @@
       "onboard_time": 1693894894,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165331,
-      "num": 165331,
-      "word": "成毅叫张予曦妹砸",
-      "onboard_time": 1694671296,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 165211,
@@ -34313,6 +34353,14 @@
       "onboard_time": 1694625980,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62997,
+      "num": 1459187,
+      "word": "我在北京文化论坛等你来",
+      "onboard_time": 1694672912,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62346,
