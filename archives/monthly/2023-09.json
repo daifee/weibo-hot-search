@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694716423871,
+  "endTime": 1694718682183,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -24427,6 +24427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221562,
+      "num": 221562,
+      "word": "利比亚",
+      "onboard_time": 1694714420,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221423,
       "num": 221423,
       "word": "装腔启示录",
@@ -34227,14 +34235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114942,
-      "num": 114942,
-      "word": "利比亚",
-      "onboard_time": 1694714420,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114625,
       "num": 1089091,
       "word": "独腿小伙装上假肢跑货运重拾生活勇气",
@@ -36747,20 +36747,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29936,
+      "num": 35245,
+      "word": "骄阳伴我烟花名场面",
+      "onboard_time": 1694710462,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29830,
       "num": 41138,
       "word": "上海晚霞",
       "onboard_time": 1693478799,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29748,
-      "num": 35245,
-      "word": "骄阳伴我烟花名场面",
-      "onboard_time": 1694710462,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 29423,
@@ -36945,6 +36945,14 @@
       "onboard_time": 1694203993,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24897,
+      "num": 24897,
+      "word": "原来机械这么迷人",
+      "onboard_time": 1694716576,
+      "rank": 46,
+      "category": "知识科普"
     },
     {
       "raw_hot": 24831,

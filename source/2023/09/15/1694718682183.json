@@ -1,0 +1,410 @@
+{
+  "runTime": 1694718682183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 221562,
+        "num": 221562,
+        "word": "利比亚",
+        "onboard_time": 1694714420,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219687,
+        "num": 219687,
+        "word": "花西子事件后老牌国货销量暴涨",
+        "onboard_time": 1694705135,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9314,
+        "num": 155414,
+        "word": "当亚运遇上民乐太惊艳了",
+        "onboard_time": 1694699920,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 141009,
+        "num": 141009,
+        "word": "外媒曝Lisa拒绝和YG续约",
+        "onboard_time": 1694692596,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107180,
+        "num": 107180,
+        "word": "抗日小饼干",
+        "onboard_time": 1694707472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79293,
+        "num": 79293,
+        "word": "官方回应北极鲶鱼事件调查结果不公开",
+        "onboard_time": 1694695115,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60895,
+        "num": 60895,
+        "word": "奈雪按销售情况向周杰伦支付IP费",
+        "onboard_time": 1694699859,
+        "rank": 6,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 60853,
+        "num": 60853,
+        "word": "宿舍超爽的睡觉氛围",
+        "onboard_time": 1694710225,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 55773,
+        "num": 55773,
+        "word": "男子买彩票中5544万到手4444万",
+        "onboard_time": 1694681272,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55053,
+        "num": 55053,
+        "word": "终于学会耳后双C发型了",
+        "onboard_time": 1694696255,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 63710,
+        "num": 54840,
+        "word": "这下谁还分得清营业和真情侣",
+        "onboard_time": 1694701722,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61179,
+        "num": 54518,
+        "word": "杨紫高定",
+        "onboard_time": 1694698897,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24757,
+        "num": 54269,
+        "word": "热成像无人机又立功了",
+        "onboard_time": 1694705858,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20493,
+        "num": 53800,
+        "word": "天边的这场求婚仪式好甜",
+        "onboard_time": 1694699318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19293,
+        "num": 53387,
+        "word": "入职体检报告写表情呆滞智商偏低",
+        "onboard_time": 1694685098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57372,
+        "num": 52899,
+        "word": "高铁上化妆列为不文明行为网友为何不认可",
+        "onboard_time": 1694694097,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52757,
+        "num": 52757,
+        "word": "肖战说向同事分享美食被嫌弃",
+        "onboard_time": 1694705978,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52372,
+        "num": 52372,
+        "word": "宫二终于知道了谁才是无锋首领",
+        "onboard_time": 1694690135,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43821,
+        "num": 43821,
+        "word": "邓超孙俪捐款20万资助100名困难学生",
+        "onboard_time": 1694704239,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35083,
+        "num": 43601,
+        "word": "宫远徵好疯批",
+        "onboard_time": 1694705435,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83977,
+        "num": 42817,
+        "word": "不敢睡 怕一醒来就要去打工",
+        "onboard_time": 1694714178,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82917,
+        "num": 42428,
+        "word": "iPhone玄学",
+        "onboard_time": 1694702501,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44343,
+        "num": 41613,
+        "word": "张颂文 我40多岁的时候还在找戏拍",
+        "onboard_time": 1694710944,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41183,
+        "num": 41183,
+        "word": "张凌赫 你快衫了吧",
+        "onboard_time": 1694709206,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40014,
+        "num": 40014,
+        "word": "继祖父多次性侵6岁女童获刑13年",
+        "onboard_time": 1694692294,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38341,
+        "num": 38341,
+        "word": "再也不会谈的星座",
+        "onboard_time": 1694696977,
+        "rank": 25,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 32766,
+        "num": 32766,
+        "word": "内马尔姆巴佩社媒互相取关",
+        "onboard_time": 1694693439,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32513,
+        "num": 32513,
+        "word": "iPhone14价格不降反涨",
+        "onboard_time": 1694691756,
+        "rank": 27,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 31807,
+        "num": 31807,
+        "word": "卢浮宫Loopy 阴阳怪气的粉肠贵妇",
+        "onboard_time": 1694705495,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 30809,
+        "num": 30809,
+        "word": "20岁女孩从未来例假一查竟是男儿身",
+        "onboard_time": 1694697758,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93260,
+        "num": 30783,
+        "word": "外卖小哥凌晨冒雨送外卖喊话李佳琦",
+        "onboard_time": 1694702324,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30709,
+        "num": 30709,
+        "word": "大学生对陌生人莫名的信任",
+        "onboard_time": 1694708728,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29936,
+        "num": 29936,
+        "word": "骄阳伴我烟花名场面",
+        "onboard_time": 1694710462,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29756,
+        "num": 29756,
+        "word": "国货嘉顿抗日期间捐过物资",
+        "onboard_time": 1694704420,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28323,
+        "num": 28323,
+        "word": "华为",
+        "onboard_time": 1694707233,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27575,
+        "num": 27575,
+        "word": "小狸花害怕打针往护士姐姐怀里钻",
+        "onboard_time": 1694710523,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 27227,
+        "num": 27227,
+        "word": "丞磊 翻牌",
+        "onboard_time": 1694701180,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26951,
+        "num": 26951,
+        "word": "网友曝花西子五只化妆刷919元",
+        "onboard_time": 1694672674,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 26569,
+        "num": 26569,
+        "word": "宋紫薇 离职",
+        "onboard_time": 1694689293,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26139,
+        "num": 26139,
+        "word": "职场杀熟",
+        "onboard_time": 1694703640,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26034,
+        "num": 26034,
+        "word": "活力28 操心的网友",
+        "onboard_time": 1694707592,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 26026,
+        "num": 26026,
+        "word": "男孩偷拿幼儿园玩具妈妈领去自首",
+        "onboard_time": 1694703218,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25143,
+        "num": 25844,
+        "word": "北京文化论坛今天开幕",
+        "onboard_time": 1694712260,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25796,
+        "num": 25796,
+        "word": "国庆档有11部电影",
+        "onboard_time": 1694693197,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25723,
+        "num": 25723,
+        "word": "于适少年赋浴室弹唱版",
+        "onboard_time": 1694703521,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25116,
+        "num": 25116,
+        "word": "沈玉琳妈妈说祖坟冒青烟了",
+        "onboard_time": 1694708248,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24897,
+        "num": 24897,
+        "word": "原来机械这么迷人",
+        "onboard_time": 1694716576,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 24894,
+        "num": 24894,
+        "word": "艾米好漂亮",
+        "onboard_time": 1694696853,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24638,
+        "num": 24638,
+        "word": "郁美净不到一天涨粉32万",
+        "onboard_time": 1694691756,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 23136,
+        "num": 23136,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1694691033,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023北京文化论坛致贺信#"
+    }
+  }
+}

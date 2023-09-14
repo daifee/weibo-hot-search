@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694716423871,
+  "endTime": 1694718682183,
   "band_list": [
     {
       "raw_hot": 1782619,
@@ -168,6 +168,14 @@
       "word": "官方回应北极鲶鱼事件调查结果不公开",
       "onboard_time": 1694695115,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221562,
+      "num": 221562,
+      "word": "利比亚",
+      "onboard_time": 1694714420,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114942,
-      "num": 114942,
-      "word": "利比亚",
-      "onboard_time": 1694714420,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114466,
       "num": 398076,
       "word": "入职体检报告写表情呆滞智商偏低",
@@ -475,7 +475,7 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 29748,
+      "raw_hot": 29936,
       "num": 35245,
       "word": "骄阳伴我烟花名场面",
       "onboard_time": 1694710462,
@@ -497,6 +497,14 @@
       "onboard_time": 1694716395,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 24897,
+      "num": 24897,
+      "word": "原来机械这么迷人",
+      "onboard_time": 1694716576,
+      "rank": 46,
+      "category": "知识科普"
     },
     {
       "raw_hot": 22124,
