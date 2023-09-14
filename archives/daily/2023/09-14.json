@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694673328547,
+  "endTime": 1694675763552,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -33,6 +33,14 @@
       "onboard_time": 1694652878,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2429427,
+      "num": 447825,
+      "word": "网友曝花西子五只化妆刷919元",
+      "onboard_time": 1694672674,
+      "rank": 10,
+      "category": "美妆"
     },
     {
       "raw_hot": 2282599,
@@ -89,6 +97,14 @@
       "onboard_time": 1694654435,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1674019,
+      "num": 413275,
+      "word": "张馨予玄学",
+      "onboard_time": 1694673334,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1554394,
@@ -169,6 +185,14 @@
       "onboard_time": 1694604577,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1115319,
+      "num": 1115319,
+      "word": "为啥床不能两面靠墙",
+      "onboard_time": 1694672975,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1113034,
@@ -259,6 +283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 779986,
+      "num": 779986,
+      "word": "苍兰诀 全员上桌",
+      "onboard_time": 1694674716,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 715844,
       "num": 563651,
       "word": "茅台巧克力 0.25花西币",
@@ -283,20 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 689099,
-      "num": 447825,
-      "word": "网友曝花西子五只化妆刷919元",
-      "onboard_time": 1694672674,
-      "rank": 10,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 686523,
       "num": 667143,
       "word": "檀健次 十六岁以下金奖和一等奖",
       "onboard_time": 1694616942,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 671146,
+      "num": 411850,
+      "word": "小偷1夜挖700斤芋头被抓农户笑了",
+      "onboard_time": 1694674834,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660463,
@@ -313,6 +345,14 @@
       "onboard_time": 1694654854,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651037,
+      "num": 410253,
+      "word": "他平等地骂每一个恋爱脑",
+      "onboard_time": 1694674357,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 649395,
@@ -467,6 +507,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 508552,
+      "num": 325967,
+      "word": "日本偶遇Angelababy逛街",
+      "onboard_time": 1694673155,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 500452,
       "num": 500452,
       "word": "肠胃不好可以早餐吃点烤馒头片",
@@ -513,6 +561,14 @@
       "onboard_time": 1694668120,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448134,
+      "num": 324216,
+      "word": "内陆的孩子羡慕了",
+      "onboard_time": 1694673756,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 440250,
@@ -571,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409440,
+      "num": 409440,
+      "word": "丞磊 infp",
+      "onboard_time": 1694673217,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408535,
       "num": 408535,
       "word": "成毅发了2018年的文案",
@@ -601,6 +665,14 @@
       "onboard_time": 1694671117,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399941,
+      "num": 399941,
+      "word": "LOL所有人聊天功能恢复",
+      "onboard_time": 1694674955,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 399280,
@@ -777,6 +849,14 @@
       "onboard_time": 1694657617,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 331453,
+      "num": 331453,
+      "word": "在香港遛个弯都像在演TVB",
+      "onboard_time": 1694673820,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 329192,
@@ -987,6 +1067,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 260063,
+      "num": 260063,
+      "word": "骄阳伴我 特效",
+      "onboard_time": 1694674055,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257768,
       "num": 180887,
       "word": "骑手 你的外卖很危险",
@@ -1075,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239593,
+      "num": 229340,
+      "word": "张彩铃又惨又好笑",
+      "onboard_time": 1694675375,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 238190,
       "num": 238190,
       "word": "精心 接商战代打",
@@ -1129,14 +1225,6 @@
       "onboard_time": 1694655696,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 225749,
-      "num": 225749,
-      "word": "为啥床不能两面靠墙",
-      "onboard_time": 1694672975,
-      "rank": 30,
-      "category": "知识科普"
     },
     {
       "raw_hot": 224445,
@@ -1323,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192434,
+      "num": 192434,
+      "word": "四川民警从22楼救出老人后脚杆打闪闪",
+      "onboard_time": 1694672796,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192286,
       "num": 192286,
       "word": "剑网3这么多年都是280",
@@ -1347,12 +1443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189370,
-      "num": 189370,
-      "word": "日本偶遇Angelababy逛街",
-      "onboard_time": 1694673155,
-      "rank": 37,
-      "category": "艺人,时尚"
+      "raw_hot": 187448,
+      "num": 187448,
+      "word": "对银行卡密码谨慎程度be like",
+      "onboard_time": 1694675315,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 187203,
@@ -1419,22 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174115,
-      "num": 174115,
-      "word": "四川民警从22楼救出老人后脚杆打闪闪",
-      "onboard_time": 1694672796,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172982,
-      "num": 172982,
-      "word": "丞磊 infp",
-      "onboard_time": 1694673217,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170492,
       "num": 170492,
       "word": "海王2剧照",
@@ -1491,6 +1571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 154263,
+      "num": 154263,
+      "word": "海南警方算是把谐音梗玩明白了",
+      "onboard_time": 1694674055,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153601,
       "num": 153601,
       "word": "你相信外星人真的存在吗",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1694646748,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 139317,
+      "num": 139317,
+      "word": "妲己惊艳亮相名场面幕后花絮",
+      "onboard_time": 1694675736,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 121400,
@@ -1643,20 +1739,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 66528,
+      "num": 1459187,
+      "word": "我在北京文化论坛等你来",
+      "onboard_time": 1694672912,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63277,
       "num": 63277,
       "word": "代号鸢袁基 山月不知心底事",
       "onboard_time": 1694625980,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 62997,
-      "num": 1459187,
-      "word": "我在北京文化论坛等你来",
-      "onboard_time": 1694672912,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58904,
