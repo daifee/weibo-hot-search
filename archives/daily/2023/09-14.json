@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694694776720,
+  "endTime": 1694695735199,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2956595,
-      "num": 2956595,
+      "raw_hot": 3062392,
+      "num": 3062392,
       "word": "外媒曝Lisa拒绝和YG续约",
       "onboard_time": 1694692596,
       "rank": 0,
@@ -163,8 +163,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1465414,
-      "num": 1465414,
+      "raw_hot": 1494110,
+      "num": 1494110,
       "word": "iPhone14价格不降反涨",
       "onboard_time": 1694691756,
       "rank": 1,
@@ -356,15 +356,23 @@
     },
     {
       "raw_hot": 1001283,
-      "num": 468998,
+      "num": 550724,
       "word": "宋紫薇 离职",
       "onboard_time": 1694689293,
       "rank": 22,
       "category": "数码"
     },
     {
-      "raw_hot": 898976,
-      "num": 306657,
+      "raw_hot": 981248,
+      "num": 981248,
+      "word": "郁美净不到一天涨粉32万",
+      "onboard_time": 1694691756,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 943229,
+      "num": 413724,
       "word": "继祖父多次性侵6岁女童获刑13年",
       "onboard_time": 1694692294,
       "rank": 20,
@@ -401,14 +409,6 @@
       "onboard_time": 1694663440,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 833518,
-      "num": 833518,
-      "word": "郁美净不到一天涨粉32万",
-      "onboard_time": 1694691756,
-      "rank": 3,
-      "category": "美妆"
     },
     {
       "raw_hot": 827017,
@@ -627,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 562255,
+      "num": 562255,
+      "word": "内马尔姆巴佩社媒互相取关",
+      "onboard_time": 1694693439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 558585,
       "num": 558585,
       "word": "范特西奶茶",
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547653,
+      "num": 547653,
+      "word": "官方回应北极鲶鱼事件调查结果不公开",
+      "onboard_time": 1694695115,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541467,
       "num": 427531,
       "word": "上海一幼儿园多名幼童疑遭虐待",
@@ -667,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531039,
-      "num": 531039,
-      "word": "内马尔姆巴佩社媒互相取关",
-      "onboard_time": 1694693439,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 525888,
       "num": 525888,
       "word": "逆水寒 丑衣服",
@@ -689,6 +697,14 @@
       "onboard_time": 1694674955,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 523979,
+      "num": 523979,
+      "word": "月公子云雀 好嗑",
+      "onboard_time": 1694693737,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 523669,
@@ -755,8 +771,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494394,
+      "num": 494394,
+      "word": "光刻机",
+      "onboard_time": 1694694876,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 489705,
-      "num": 489705,
+      "num": 551915,
       "word": "李在明要绝食到体力不支昏倒为止",
       "onboard_time": 1694691814,
       "rank": 8,
@@ -801,14 +825,6 @@
       "onboard_time": 1694668120,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463277,
-      "num": 463277,
-      "word": "月公子云雀 好嗑",
-      "onboard_time": 1694693737,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 448134,
@@ -896,6 +912,14 @@
       "word": "交通局拒绝公开前局长孙女炫富调查结果",
       "onboard_time": 1694611479,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417668,
+      "num": 417668,
+      "word": "高铁上化妆列为不文明行为网友为何不认可",
+      "onboard_time": 1694694097,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1139,6 +1163,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 332192,
+      "num": 332192,
+      "word": "国庆档有11部电影",
+      "onboard_time": 1694693197,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331453,
       "num": 331453,
       "word": "在香港遛个弯都像在演TVB",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1694608537,
       "rank": 42,
       "category": "国内要闻,数码"
-    },
-    {
-      "raw_hot": 301288,
-      "num": 301288,
-      "word": "国庆档有11部电影",
-      "onboard_time": 1694693197,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 299910,
@@ -1651,14 +1675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237969,
-      "num": 237969,
-      "word": "高铁上化妆列为不文明行为网友为何不认可",
-      "onboard_time": 1694694097,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236776,
       "num": 236776,
       "word": "女打手宝儿姐揍人混剪",
@@ -1760,6 +1776,14 @@
       "word": "16岁骨癌女孩立志要学中医",
       "onboard_time": 1694664227,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222771,
+      "num": 222771,
+      "word": "55岁阿姨逆天化妆术惊艳网友",
+      "onboard_time": 1694694578,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1867,12 +1891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208046,
+      "num": 208046,
+      "word": "中国亚运会金牌从0到1473有多燃",
+      "onboard_time": 1694694578,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 207701,
       "num": 207701,
       "word": "花轿喜事今日大结局",
       "onboard_time": 1694661937,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207523,
+      "num": 207523,
+      "word": "我妈送我一床崭新的床单",
+      "onboard_time": 1694695716,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 206314,
@@ -1971,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195139,
+      "num": 195139,
+      "word": "盛阳主动吻简冰",
+      "onboard_time": 1694694937,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194819,
       "num": 194819,
       "word": "扁头怎样才能圆回去",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1694669621,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191031,
+      "num": 191031,
+      "word": "鞠婧祎红皮衣机车风",
+      "onboard_time": 1694695716,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190799,
@@ -2139,14 +2195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169169,
-      "num": 169169,
-      "word": "55岁阿姨逆天化妆术惊艳网友",
-      "onboard_time": 1694694578,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169115,
       "num": 160609,
       "word": "主打一个无人生还",
@@ -2235,12 +2283,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 154311,
-      "num": 154311,
-      "word": "中国亚运会金牌从0到1473有多燃",
-      "onboard_time": 1694694578,
-      "rank": 44,
-      "category": "体育,社会新闻"
+      "raw_hot": 154281,
+      "num": 154281,
+      "word": "周杰伦的哥和歌",
+      "onboard_time": 1694695536,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 154263,
@@ -2460,7 +2508,7 @@
     },
     {
       "raw_hot": 73482,
-      "num": 180235,
+      "num": 524033,
       "word": "民警5分钟护送休克幼童就医",
       "onboard_time": 1694694696,
       "rank": 38,
@@ -2515,20 +2563,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 25876,
+      "num": 194045,
+      "word": "9月换机怎么选",
+      "onboard_time": 1694694457,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 17001,
       "num": 19955,
       "word": "米卡镜头里的何穗",
       "onboard_time": 1694635693,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11949,
-      "num": 175943,
-      "word": "9月换机怎么选",
-      "onboard_time": 1694694457,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 9706,

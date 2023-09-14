@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694694776720,
+  "endTime": 1694695735199,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -243,6 +243,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 3062392,
+      "num": 3062392,
+      "word": "外媒曝Lisa拒绝和YG续约",
+      "onboard_time": 1694692596,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2976800,
       "num": 629841,
       "word": "李佳琦净收入超过逾90%A股公司",
@@ -257,14 +265,6 @@
       "onboard_time": 1694429381,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2956595,
-      "num": 2956595,
-      "word": "外媒曝Lisa拒绝和YG续约",
-      "onboard_time": 1694692596,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2943859,
@@ -1107,6 +1107,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1494110,
+      "num": 1494110,
+      "word": "iPhone14价格不降反涨",
+      "onboard_time": 1694691756,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1492278,
       "num": 1492278,
       "word": "口臭的源头可能是扁桃体结石",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1694474430,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1465414,
-      "num": 1465414,
-      "word": "iPhone14价格不降反涨",
-      "onboard_time": 1694691756,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1465120,
@@ -1724,7 +1724,7 @@
     },
     {
       "raw_hot": 1001283,
-      "num": 468998,
+      "num": 550724,
       "word": "宋紫薇 离职",
       "onboard_time": 1694689293,
       "rank": 22,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1694393441,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 981248,
+      "num": 981248,
+      "word": "郁美净不到一天涨粉32万",
+      "onboard_time": 1694691756,
+      "rank": 3,
+      "category": "美妆"
     },
     {
       "raw_hot": 976290,
@@ -1841,6 +1849,14 @@
       "onboard_time": 1694335774,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 943229,
+      "num": 413724,
+      "word": "继祖父多次性侵6岁女童获刑13年",
+      "onboard_time": 1694692294,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 943100,
@@ -1944,14 +1960,6 @@
       "word": "法院回应鹤岗女子还贷10年房子被占",
       "onboard_time": 1694567680,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 898976,
-      "num": 306657,
-      "word": "继祖父多次性侵6岁女童获刑13年",
-      "onboard_time": 1694692294,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2161,14 +2169,6 @@
       "onboard_time": 1694521897,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 833518,
-      "num": 833518,
-      "word": "郁美净不到一天涨粉32万",
-      "onboard_time": 1694691756,
-      "rank": 3,
-      "category": "美妆"
     },
     {
       "raw_hot": 832987,
@@ -3339,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 562255,
+      "num": 562255,
+      "word": "内马尔姆巴佩社媒互相取关",
+      "onboard_time": 1694693439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559472,
       "num": 559472,
       "word": "云为衫三寸天堂",
@@ -3483,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547653,
+      "num": 547653,
+      "word": "官方回应北极鲶鱼事件调查结果不公开",
+      "onboard_time": 1694695115,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543702,
       "num": 543702,
       "word": "华为Mate 60 Pro一周体验",
@@ -3571,14 +3587,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 531039,
-      "num": 531039,
-      "word": "内马尔姆巴佩社媒互相取关",
-      "onboard_time": 1694693439,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 529279,
       "num": 529279,
       "word": "天官赐福动画定档海报",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1694674955,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 523979,
+      "num": 523979,
+      "word": "月公子云雀 好嗑",
+      "onboard_time": 1694693737,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 523669,
@@ -3923,6 +3939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 494394,
+      "num": 494394,
+      "word": "光刻机",
+      "onboard_time": 1694694876,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 493110,
       "num": 493110,
       "word": "贾正亮飞刀打伤准女友",
@@ -3972,7 +3996,7 @@
     },
     {
       "raw_hot": 489705,
-      "num": 489705,
+      "num": 551915,
       "word": "李在明要绝食到体力不支昏倒为止",
       "onboard_time": 1694691814,
       "rank": 8,
@@ -4265,14 +4289,6 @@
       "onboard_time": 1694335051,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 463277,
-      "num": 463277,
-      "word": "月公子云雀 好嗑",
-      "onboard_time": 1694693737,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 463080,
@@ -4761,6 +4777,14 @@
       "onboard_time": 1694318076,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417668,
+      "num": 417668,
+      "word": "高铁上化妆列为不文明行为网友为何不认可",
+      "onboard_time": 1694694097,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416889,
@@ -5811,6 +5835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332192,
+      "num": 332192,
+      "word": "国庆档有11部电影",
+      "onboard_time": 1694693197,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331453,
       "num": 331453,
       "word": "在香港遛个弯都像在演TVB",
@@ -6489,14 +6521,6 @@
       "onboard_time": 1694420980,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301288,
-      "num": 301288,
-      "word": "国庆档有11部电影",
-      "onboard_time": 1694693197,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 300921,
@@ -7939,14 +7963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237969,
-      "num": 237969,
-      "word": "高铁上化妆列为不文明行为网友为何不认可",
-      "onboard_time": 1694694097,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237505,
       "num": 237505,
       "word": "刘雨昕把祝多写了一点",
@@ -8401,6 +8417,14 @@
       "onboard_time": 1694405865,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222771,
+      "num": 222771,
+      "word": "55岁阿姨逆天化妆术惊艳网友",
+      "onboard_time": 1694694578,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222313,
@@ -8955,6 +8979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208046,
+      "num": 208046,
+      "word": "中国亚运会金牌从0到1473有多燃",
+      "onboard_time": 1694694578,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 207823,
       "num": 207823,
       "word": "盛阳看父母吵架在演我",
@@ -8977,6 +9009,14 @@
       "onboard_time": 1694494066,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207523,
+      "num": 207523,
+      "word": "我妈送我一床崭新的床单",
+      "onboard_time": 1694695716,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 207484,
@@ -9683,6 +9723,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 195139,
+      "num": 195139,
+      "word": "盛阳主动吻简冰",
+      "onboard_time": 1694694937,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194947,
       "num": 194947,
       "word": "骄阳伴我里的爱永远拿得出手",
@@ -9889,6 +9937,14 @@
       "onboard_time": 1694340211,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191031,
+      "num": 191031,
+      "word": "鞠婧祎红皮衣机车风",
+      "onboard_time": 1694695716,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190921,
@@ -10715,14 +10771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169169,
-      "num": 169169,
-      "word": "55岁阿姨逆天化妆术惊艳网友",
-      "onboard_time": 1694694578,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "想看叶流西和雪莉杨一起探险",
@@ -11187,12 +11235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154311,
-      "num": 154311,
-      "word": "中国亚运会金牌从0到1473有多燃",
-      "onboard_time": 1694694578,
-      "rank": 44,
-      "category": "体育,社会新闻"
+      "raw_hot": 154281,
+      "num": 154281,
+      "word": "周杰伦的哥和歌",
+      "onboard_time": 1694695536,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 154263,
@@ -12300,7 +12348,7 @@
     },
     {
       "raw_hot": 73482,
-      "num": 180235,
+      "num": 524033,
       "word": "民警5分钟护送休克幼童就医",
       "onboard_time": 1694694696,
       "rank": 38,
@@ -12755,6 +12803,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 25876,
+      "num": 194045,
+      "word": "9月换机怎么选",
+      "onboard_time": 1694694457,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 24147,
       "num": 40420,
       "word": "格鲁吉亚1比7西班牙",
@@ -12833,14 +12889,6 @@
       "onboard_time": 1694578783,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11949,
-      "num": 175943,
-      "word": "9月换机怎么选",
-      "onboard_time": 1694694457,
-      "rank": 39,
-      "category": "数码"
     }
   ],
   "hotgov_list": [

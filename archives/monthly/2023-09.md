@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 20:32:56
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 20:48:55
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ TTG夺冠（热度：3473689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23" target="weibo">
+外媒曝Lisa拒绝和YG续约（热度：3062392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1%23" target="weibo">
 韩国石斑鱼大量死亡（热度：3020207）
 </a>
@@ -377,12 +383,6 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB%23" target="weibo">
 虽然是精神病但没关系（热度：2959581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23" target="weibo">
-外媒曝Lisa拒绝和YG续约（热度：2956595）
 </a>
 </li>
 
@@ -2007,6 +2007,12 @@ Angelababy赫敏（热度：1562376）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23" target="weibo">
+iPhone14价格不降反涨（热度：1494110）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A3%E8%87%AD%E7%9A%84%E6%BA%90%E5%A4%B4%E5%8F%AF%E8%83%BD%E6%98%AF%E6%89%81%E6%A1%83%E4%BD%93%E7%BB%93%E7%9F%B3%23" target="weibo">
 口臭的源头可能是扁桃体结石（热度：1492278）
 </a>
@@ -2051,12 +2057,6 @@ Angelababy赫敏（热度：1562376）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%92%B8%E5%A4%A7%E9%97%B8%E8%9F%B9%E6%A0%B8%E8%BE%90%E5%B0%84%E6%A3%80%E6%B5%8B%E4%BB%AA%E8%AD%A6%E6%8A%A5%E4%B8%8D%E6%96%AD%23" target="weibo">
 女子蒸大闸蟹核辐射检测仪警报不断（热度：1468670）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23" target="weibo">
-iPhone14价格不降反涨（热度：1465414）
 </a>
 </li>
 
@@ -3381,6 +3381,12 @@ BLACKPINK QQ音乐（热度：1014155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87%23" target="weibo">
+郁美净不到一天涨粉32万（热度：981248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jessi%E8%A6%81%E6%9D%A5%E6%88%90%E9%83%BD%23" target="weibo">
 Jessi要来成都（热度：979258）
 </a>
@@ -3593,6 +3599,12 @@ CA403所有人员均安全撤离（热度：972380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F%23" target="weibo">
 TTG对战狼队（热度：943547）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%A7%E7%A5%96%E7%88%B6%E5%A4%9A%E6%AC%A1%E6%80%A7%E4%BE%B56%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%8E%B7%E5%88%9113%E5%B9%B4%23" target="weibo">
+继祖父多次性侵6岁女童获刑13年（热度：943229）
 </a>
 </li>
 
@@ -3839,12 +3851,6 @@ iPhone15机型比例为3比1（热度：906244）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E9%B9%A4%E5%B2%97%E5%A5%B3%E5%AD%90%E8%BF%98%E8%B4%B710%E5%B9%B4%E6%88%BF%E5%AD%90%E8%A2%AB%E5%8D%A0%23" target="weibo">
 法院回应鹤岗女子还贷10年房子被占（热度：899284）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%A7%E7%A5%96%E7%88%B6%E5%A4%9A%E6%AC%A1%E6%80%A7%E4%BE%B56%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%8E%B7%E5%88%9113%E5%B9%B4%23" target="weibo">
-继祖父多次性侵6岁女童获刑13年（热度：898976）
 </a>
 </li>
 
@@ -4229,12 +4235,6 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E7%8B%97%E8%AE%A9%E4%BB%96%E9%A2%9C%E9%9D%A2%E5%B0%BD%E5%A4%B1%23" target="weibo">
 檀健次的狗让他颜面尽失（热度：833946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87%23" target="weibo">
-郁美净不到一天涨粉32万（热度：833518）
 </a>
 </li>
 
