@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 09:10:11
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 09:30:09
 </p>
 </blockquote>
 <p>
@@ -461,6 +461,12 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 老刘想和傅首尔离婚的原因（热度：2751930）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
+12306抢票（热度：2745792）
 </a>
 </li>
 
@@ -1229,6 +1235,12 @@ D社曝黑暗荣耀金赫拉校园暴力（热度：1966079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E8%B0%88%E5%87%BA%E4%BA%86%E7%A6%BB%E8%81%8C%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
 分手谈出了离职的感觉（热度：1901691）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23" target="weibo">
+高空抛烟头烫伤4个月婴儿全楼测DNA（热度：1897911）
 </a>
 </li>
 
@@ -3003,12 +3015,6 @@ bibi（热度：1033611）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
-12306抢票（热度：1018004）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E8%A2%AB%E5%85%B3%E7%A6%81%E9%97%AD%E8%B5%B0%E7%BA%A2%E7%9A%84%E6%B5%81%E6%B5%AA%E7%8B%97%E5%8E%BB%E4%B8%96%23" target="weibo">
 高考时被关禁闭走红的流浪狗去世（热度：1017967）
 </a>
@@ -3125,12 +3131,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%BB%B4%E6%98%AF%E8%80%81%E4%BA%86%E4%B8%8D%E6%98%AF%E5%8F%98%E9%87%8E%E4%BA%BA%E4%BA%86%23" target="weibo">
 李子维是老了不是变野人了（热度：994495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23" target="weibo">
-高空抛烟头烫伤4个月婴儿全楼测DNA（热度：994391）
 </a>
 </li>
 

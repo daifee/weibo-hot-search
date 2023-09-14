@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694653811983,
+  "endTime": 1694655009594,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -16,6 +16,22 @@
       "word": "UFO",
       "onboard_time": 1694608364,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2745792,
+      "num": 2745792,
+      "word": "12306抢票",
+      "onboard_time": 1694652878,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1897911,
+      "num": 1897911,
+      "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+      "onboard_time": 1694652878,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -75,27 +91,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1018004,
-      "num": 1018004,
-      "word": "12306抢票",
-      "onboard_time": 1694652878,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1012866,
       "num": 1012866,
       "word": "霍启刚履新",
       "onboard_time": 1694652517,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 994391,
-      "num": 730754,
-      "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
-      "onboard_time": 1694652878,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809769,
+      "num": 605144,
+      "word": "花西子",
+      "onboard_time": 1694653297,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 709444,
       "num": 709444,
       "word": "德国博物馆中国明清时代瓷器被盗",
@@ -123,7 +131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 667143,
+      "raw_hot": 686523,
       "num": 667143,
       "word": "檀健次 十六岁以下金奖和一等奖",
       "onboard_time": 1694616942,
@@ -153,6 +161,14 @@
       "onboard_time": 1694612801,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 612690,
+      "num": 671025,
+      "word": "广东鳄鱼暴雨中出逃已抓回36条",
+      "onboard_time": 1694652939,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612382,
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457356,
-      "num": 671025,
-      "word": "广东鳄鱼暴雨中出逃已抓回36条",
-      "onboard_time": 1694652939,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440250,
       "num": 440250,
       "word": "她几十年来灭绝了30多个岛的老鼠",
@@ -251,11 +259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426219,
-      "num": 426219,
-      "word": "花西子",
-      "onboard_time": 1694653297,
-      "rank": 21,
+      "raw_hot": 418581,
+      "num": 418581,
+      "word": "郁美净终于通网",
+      "onboard_time": 1694654435,
+      "rank": 18,
       "category": "美妆"
     },
     {
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338905,
+      "num": 239199,
+      "word": "北师大研究生因2字报考事业单位遭拒",
+      "onboard_time": 1694654735,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 335848,
       "num": 335848,
       "word": "一人之下原著作者评异人之下",
@@ -401,6 +417,14 @@
       "onboard_time": 1694617965,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 269906,
+      "num": 269906,
+      "word": "项目烂尾了问责不能再烂尾",
+      "onboard_time": 1694653658,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268293,
@@ -475,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241640,
+      "num": 241640,
+      "word": "华为mate60",
+      "onboard_time": 1694654496,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 238190,
       "num": 238190,
       "word": "精心 接商战代打",
@@ -515,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221281,
+      "num": 221281,
+      "word": "丈夫坚持7年记录下妻子一颦一笑",
+      "onboard_time": 1694654735,
+      "rank": 33,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 220153,
       "num": 220153,
       "word": "异人之下西游记梦幻联动",
@@ -545,6 +585,14 @@
       "onboard_time": 1694614182,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212212,
+      "num": 212212,
+      "word": "网络攻击我大学的美相关人员身份被锁定",
+      "onboard_time": 1694654854,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211513,
@@ -595,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192286,
+      "num": 192286,
+      "word": "剑网3这么多年都是280",
+      "onboard_time": 1694654496,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187203,
       "num": 187203,
       "word": "我为全村的老人拍好了遗照",
@@ -609,14 +665,6 @@
       "onboard_time": 1694622271,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178164,
-      "num": 178164,
-      "word": "项目烂尾了问责不能再烂尾",
-      "onboard_time": 1694653658,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174482,
@@ -748,7 +796,7 @@
     },
     {
       "raw_hot": 95380,
-      "num": 1617091,
+      "num": 1916470,
       "word": "亚运会吉祥物3小只宣传片",
       "onboard_time": 1694609017,
       "rank": 2,
