@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694690070395,
+  "endTime": 1694691232324,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -131,7 +131,7 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1720497,
+      "raw_hot": 1746600,
       "num": 1043548,
       "word": "李在明已绝食抗议15天",
       "onboard_time": 1694679934,
@@ -331,6 +331,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1001283,
+      "num": 428073,
+      "word": "宋紫薇 离职",
+      "onboard_time": 1694689293,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 920165,
+      "num": 920165,
+      "word": "深圳人已经开始喝上冰中式了",
+      "onboard_time": 1694687434,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 877285,
       "num": 877285,
       "word": "多地网友称看到UFO",
@@ -361,14 +377,6 @@
       "onboard_time": 1694663440,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 842038,
-      "num": 842038,
-      "word": "深圳人已经开始喝上冰中式了",
-      "onboard_time": 1694687434,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 827017,
@@ -440,6 +448,14 @@
       "word": "倪妮人前A人后C",
       "onboard_time": 1694666983,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 703011,
+      "num": 423307,
+      "word": "宫二终于知道了谁才是无锋首领",
+      "onboard_time": 1694690135,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -547,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 576607,
+      "num": 413124,
+      "word": "副校长称女生扎好看的辫子是勾引男生",
+      "onboard_time": 1694687735,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567743,
       "num": 567743,
       "word": "邓为风度银十双封",
@@ -624,14 +648,6 @@
       "word": "70岁房东失联租客察觉不对果断报警",
       "onboard_time": 1694618081,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521533,
-      "num": 413124,
-      "word": "副校长称女生扎好看的辫子是勾引男生",
-      "onboard_time": 1694687735,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -779,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 435125,
+      "num": 435125,
+      "word": "蔡依林体力",
+      "onboard_time": 1694689357,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 431085,
       "num": 431085,
       "word": "13快男问什么时候能接活儿",
@@ -899,14 +923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 386590,
-      "num": 386590,
-      "word": "宋紫薇 离职",
-      "onboard_time": 1694689293,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 377853,
       "num": 377853,
       "word": "张凌赫愿意做金靖的男主角",
@@ -963,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355288,
+      "num": 355288,
+      "word": "旧款iPhone电池维修价格全系上调",
+      "onboard_time": 1694686596,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 353077,
       "num": 353077,
       "word": "赵本山和范伟的经典合作小品",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1694664703,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 337251,
-      "num": 337251,
-      "word": "蔡依林体力",
-      "onboard_time": 1694689357,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 335848,
@@ -1195,12 +1211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297630,
-      "num": 297630,
-      "word": "旧款iPhone电池维修价格全系上调",
-      "onboard_time": 1694686596,
-      "rank": 41,
-      "category": "数码"
+      "raw_hot": 296916,
+      "num": 296916,
+      "word": "一个月饼到底有多少热量",
+      "onboard_time": 1694689654,
+      "rank": 38,
+      "category": "美食,知识科普"
     },
     {
       "raw_hot": 293099,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1694617965,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 284341,
+      "num": 284341,
+      "word": "香辣砂锅土豆粉",
+      "onboard_time": 1694689234,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 283248,
@@ -1385,6 +1409,22 @@
       "onboard_time": 1694679876,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256038,
+      "num": 391873,
+      "word": "老人在清华大学食堂忘我看书",
+      "onboard_time": 1694690135,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254933,
+      "num": 254933,
+      "word": "任浩博",
+      "onboard_time": 1694689831,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 251577,
@@ -1635,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219724,
+      "num": 219724,
+      "word": "央行决定降准0.25个百分点",
+      "onboard_time": 1694691033,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218486,
       "num": 218486,
       "word": "电信没信号",
@@ -1811,20 +1859,20 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 194774,
-      "num": 194774,
-      "word": "香辣砂锅土豆粉",
-      "onboard_time": 1694689234,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 194519,
       "num": 194519,
       "word": "以前的伍佰和现在的伍佰",
       "onboard_time": 1694616642,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193942,
+      "num": 193942,
+      "word": "云之羽",
+      "onboard_time": 1694690974,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 192434,
@@ -2001,14 +2049,6 @@
       "onboard_time": 1694671296,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167028,
-      "num": 167028,
-      "word": "一个月饼到底有多少热量",
-      "onboard_time": 1694689654,
-      "rank": 38,
-      "category": "美食,知识科普"
     },
     {
       "raw_hot": 165207,
@@ -2193,14 +2233,6 @@
       "onboard_time": 1694627118,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116144,
-      "num": 116144,
-      "word": "任浩博",
-      "onboard_time": 1694689831,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 115331,
