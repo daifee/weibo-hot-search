@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694695735199,
+  "endTime": 1694697791807,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -251,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1183267,
+      "num": 1183267,
+      "word": "高铁上化妆列为不文明行为网友为何不认可",
+      "onboard_time": 1694694097,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1179084,
       "num": 1179084,
       "word": "华为Mate60发布会定档",
@@ -265,6 +273,14 @@
       "onboard_time": 1694609798,
       "rank": 15,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 1163485,
+      "num": 1163485,
+      "word": "官方回应北极鲶鱼事件调查结果不公开",
+      "onboard_time": 1694695115,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1149976,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1021649,
+      "num": 494394,
+      "word": "光刻机",
+      "onboard_time": 1694694876,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1012866,
       "num": 1012866,
       "word": "霍启刚履新",
@@ -363,8 +387,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 981248,
-      "num": 981248,
+      "raw_hot": 992087,
+      "num": 992087,
       "word": "郁美净不到一天涨粉32万",
       "onboard_time": 1694691756,
       "rank": 3,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 943229,
-      "num": 413724,
+      "num": 422391,
       "word": "继祖父多次性侵6岁女童获刑13年",
       "onboard_time": 1694692294,
       "rank": 20,
@@ -659,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547653,
-      "num": 547653,
-      "word": "官方回应北极鲶鱼事件调查结果不公开",
-      "onboard_time": 1694695115,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 541467,
       "num": 427531,
       "word": "上海一幼儿园多名幼童疑遭虐待",
@@ -771,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494394,
-      "num": 494394,
-      "word": "光刻机",
-      "onboard_time": 1694694876,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 489705,
       "num": 551915,
       "word": "李在明要绝食到体力不支昏倒为止",
@@ -801,6 +809,14 @@
       "onboard_time": 1694666505,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 473802,
+      "num": 231830,
+      "word": "终于学会耳后双C发型了",
+      "onboard_time": 1694696255,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 471554,
@@ -891,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 431470,
+      "num": 431470,
+      "word": "马立奥终于学会了两轮的自行车",
+      "onboard_time": 1694697097,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431085,
       "num": 431085,
       "word": "13快男问什么时候能接活儿",
@@ -915,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417668,
-      "num": 417668,
-      "word": "高铁上化妆列为不文明行为网友为何不认可",
-      "onboard_time": 1694694097,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 423817,
+      "num": 423817,
+      "word": "艾米好漂亮",
+      "onboard_time": 1694696853,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 412546,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1694664703,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342525,
+      "num": 342525,
+      "word": "我妈送我一床崭新的床单",
+      "onboard_time": 1694695716,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 335848,
@@ -1523,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258231,
+      "num": 258231,
+      "word": "广东人怎么连树枝都用来煲汤",
+      "onboard_time": 1694696376,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257768,
       "num": 180887,
       "word": "骑手 你的外卖很危险",
@@ -1827,12 +1867,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218507,
+      "num": 218507,
+      "word": "再也不会谈的星座",
+      "onboard_time": 1694696977,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 218486,
       "num": 218486,
       "word": "电信没信号",
       "onboard_time": 1694672074,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218080,
+      "num": 218080,
+      "word": "周杰伦的哥和歌",
+      "onboard_time": 1694695536,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 214871,
+      "num": 214871,
+      "word": "点竹是谁",
+      "onboard_time": 1694697634,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 213710,
@@ -1907,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207523,
-      "num": 207523,
-      "word": "我妈送我一床崭新的床单",
-      "onboard_time": 1694695716,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206314,
       "num": 206314,
       "word": "考研倒计时100天",
@@ -1947,12 +2003,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203609,
+      "num": 203002,
+      "word": "宫尚角上官浅鸳鸯浴",
+      "onboard_time": 1694697337,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203437,
       "num": 203437,
       "word": "小说女主待遇级别外貌",
       "onboard_time": 1694631673,
       "rank": 44,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 203288,
+      "num": 203288,
+      "word": "成毅首钢大跳台彩排",
+      "onboard_time": 1694696977,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 202352,
@@ -1969,6 +2041,14 @@
       "onboard_time": 1694676336,
       "rank": 31,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 200436,
+      "num": 200436,
+      "word": "盛阳主动吻简冰",
+      "onboard_time": 1694694937,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 199057,
@@ -2009,14 +2089,6 @@
       "onboard_time": 1694661514,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195139,
-      "num": 195139,
-      "word": "盛阳主动吻简冰",
-      "onboard_time": 1694694937,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 194819,
@@ -2083,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188677,
+      "num": 188677,
+      "word": "宋茜杜莎蜡像",
+      "onboard_time": 1694697337,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187203,
       "num": 187203,
       "word": "我为全村的老人拍好了遗照",
@@ -2113,6 +2193,14 @@
       "onboard_time": 1694684494,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184604,
+      "num": 184604,
+      "word": "云为衫掉马",
+      "onboard_time": 1694697699,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 183852,
@@ -2177,6 +2265,14 @@
       "onboard_time": 1694683834,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171666,
+      "num": 171666,
+      "word": "如何看待大学生占座行为",
+      "onboard_time": 1694695898,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 170492,
@@ -2259,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157397,
+      "num": 157397,
+      "word": "20岁女孩从未来例假一查竟是男儿身",
+      "onboard_time": 1694697758,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156931,
       "num": 156931,
       "word": "茅台酒心巧克力礼盒价格曝光",
@@ -2281,14 +2385,6 @@
       "onboard_time": 1694614122,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 154281,
-      "num": 154281,
-      "word": "周杰伦的哥和歌",
-      "onboard_time": 1694695536,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 154263,
@@ -2467,6 +2563,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 93251,
+      "num": 524033,
+      "word": "民警5分钟护送休克幼童就医",
+      "onboard_time": 1694694696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92601,
       "num": 92601,
       "word": "野球帝",
@@ -2507,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73482,
-      "num": 524033,
-      "word": "民警5分钟护送休克幼童就医",
-      "onboard_time": 1694694696,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68359,
       "num": 68359,
       "word": "iPhone15",
@@ -2537,6 +2633,14 @@
       "onboard_time": 1694625443,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54800,
+      "num": 447884,
+      "word": "有哪些值得骄傲的国货品牌",
+      "onboard_time": 1694688516,
+      "rank": 14,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 40443,
