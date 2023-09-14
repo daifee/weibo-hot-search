@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694666034897,
+  "endTime": 1694668543135,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1632209,
+      "num": 1632209,
+      "word": "5999元你会买华为还是苹果",
+      "onboard_time": 1694665429,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1632080,
       "num": 1632080,
       "word": "鹤壁地震",
@@ -1107,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1412685,
+      "num": 1412685,
+      "word": "桂花龙井拿铁",
+      "onboard_time": 1694661336,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1407113,
       "num": 1407113,
       "word": "外交部辟谣中国政府机关禁用苹果手机",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1694322814,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1359431,
-      "num": 1359431,
-      "word": "桂花龙井拿铁",
-      "onboard_time": 1694661336,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 1342621,
@@ -1403,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1113034,
+      "num": 1113034,
+      "word": "马斯克表态台湾是中国一部分",
+      "onboard_time": 1694664344,
+      "rank": 12,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 1112394,
       "num": 1000253,
       "word": "蔡依林恭喜马龙夺冠",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1694425360,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1016270,
-      "num": 696373,
-      "word": "马斯克表态台湾是中国一部分",
-      "onboard_time": 1694664344,
-      "rank": 12,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 1012866,
@@ -1883,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854386,
+      "num": 430386,
+      "word": "茅台董事长称酱香拿铁首日销售额超1亿",
+      "onboard_time": 1694665606,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 854380,
       "num": 854380,
       "word": "取消台胞在闽暂住登记",
@@ -1904,6 +1920,14 @@
       "word": "玉溪一彩民中1.13亿元",
       "onboard_time": 1694444745,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851713,
+      "num": 851713,
+      "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
+      "onboard_time": 1694663440,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2088,14 +2112,6 @@
       "word": "女子子宫肌瘤10年没管医生取出109颗",
       "onboard_time": 1694475391,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790555,
-      "num": 790555,
-      "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
-      "onboard_time": 1694663440,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2315,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 715844,
+      "num": 563651,
+      "word": "茅台巧克力 0.25花西币",
+      "onboard_time": 1694666505,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 715325,
       "num": 715325,
       "word": "老人穿15元的鞋却给家乡捐了1000万",
@@ -2531,20 +2555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653433,
-      "num": 653433,
-      "word": "5999元你会买华为还是苹果",
-      "onboard_time": 1694665429,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 652920,
       "num": 652920,
       "word": "罗斯结婚",
       "onboard_time": 1694319574,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 650411,
+      "num": 562240,
+      "word": "倪妮人前A人后C",
+      "onboard_time": 1694666983,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 649395,
@@ -3011,8 +3035,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567743,
+      "num": 567743,
+      "word": "邓为风度银十双封",
+      "onboard_time": 1694668002,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 567579,
-      "num": 342098,
+      "num": 424874,
       "word": "被非洲的输液方式吓晕了",
       "onboard_time": 1694664703,
       "rank": 30,
@@ -3137,6 +3169,14 @@
       "onboard_time": 1694482416,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550466,
+      "num": 550466,
+      "word": "单依纯满眼对学分的渴望",
+      "onboard_time": 1694665906,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 549782,
@@ -3731,6 +3771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 478267,
+      "num": 478267,
+      "word": "四六级报名",
+      "onboard_time": 1694666505,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 476937,
       "num": 426876,
       "word": "迪丽热巴力士直播",
@@ -4129,6 +4177,14 @@
       "onboard_time": 1694438688,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 431085,
+      "num": 431085,
+      "word": "13快男问什么时候能接活儿",
+      "onboard_time": 1694668299,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 430950,
@@ -4571,6 +4627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390173,
+      "num": 390173,
+      "word": "沈腾张颂文朱一龙同框",
+      "onboard_time": 1694667401,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390158,
       "num": 390158,
       "word": "华为Mate60Pro需求高于预期",
@@ -4651,6 +4715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 377853,
+      "num": 377853,
+      "word": "张凌赫愿意做金靖的男主角",
+      "onboard_time": 1694665305,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377477,
       "num": 346375,
       "word": "上官浅停止营业但卢昱晓没有",
@@ -4667,12 +4739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 375680,
-      "num": 375680,
-      "word": "张凌赫愿意做金靖的男主角",
-      "onboard_time": 1694665305,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 376467,
+      "num": 376467,
+      "word": "中国铁路",
+      "onboard_time": 1694663800,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374990,
@@ -4721,14 +4793,6 @@
       "onboard_time": 1694333732,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371953,
-      "num": 371953,
-      "word": "中国铁路",
-      "onboard_time": 1694663800,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371866,
@@ -5120,6 +5184,14 @@
       "word": "沙溢cos的东方青苍",
       "onboard_time": 1694525378,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344866,
+      "num": 344866,
+      "word": "虞书欣卢昱晓hi6上班路透",
+      "onboard_time": 1694666627,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -5539,14 +5611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318185,
-      "num": 318185,
-      "word": "茅台董事长称酱香拿铁首日销售额超1亿",
-      "onboard_time": 1694665606,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 317994,
       "num": 317994,
       "word": "SM男团取向狙击",
@@ -5561,6 +5625,14 @@
       "onboard_time": 1694396437,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 316901,
+      "num": 316901,
+      "word": "周杰伦脚受伤",
+      "onboard_time": 1694666207,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 316885,
@@ -5593,6 +5665,14 @@
       "onboard_time": 1694340034,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315624,
+      "num": 315624,
+      "word": "警方回应网传上海一初中投毒事件",
+      "onboard_time": 1694667703,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315487,
@@ -5953,6 +6033,14 @@
       "onboard_time": 1694322755,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299910,
+      "num": 299910,
+      "word": "刘诗诗加盟最美表演",
+      "onboard_time": 1694666143,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 299164,
@@ -6403,6 +6491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273659,
+      "num": 273659,
+      "word": "gidle澳门抢票",
+      "onboard_time": 1694665723,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273128,
       "num": 273128,
       "word": "90后男老师课间和学生快乐跳操",
@@ -6473,6 +6569,14 @@
       "onboard_time": 1694495743,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270064,
+      "num": 270064,
+      "word": "终究是瑞幸错付了",
+      "onboard_time": 1694667165,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 270004,
@@ -7027,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243790,
+      "num": 243790,
+      "word": "檀健次wetthebed舞台",
+      "onboard_time": 1694667764,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243690,
       "num": 243690,
       "word": "TTG演我心率",
@@ -7217,6 +7329,14 @@
       "onboard_time": 1694619998,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 235233,
+      "num": 235233,
+      "word": "卡迪碧开通微博",
+      "onboard_time": 1694668120,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 234514,
@@ -7515,14 +7635,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 225346,
-      "num": 225346,
-      "word": "gidle澳门抢票",
-      "onboard_time": 1694665723,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 225084,
       "num": 814464,
       "word": "警察执勤时偶遇自己小学老师",
@@ -7587,6 +7699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222370,
+      "num": 222370,
+      "word": "你们别气丞磊叔叔了",
+      "onboard_time": 1694668478,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222313,
       "num": 222313,
       "word": "难怪兰夫人会emo",
@@ -7619,6 +7739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221736,
+      "num": 221736,
+      "word": "我们的歌",
+      "onboard_time": 1694666505,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221725,
       "num": 221725,
       "word": "李隼说马龙是整个体育界的楷模",
@@ -7633,6 +7761,14 @@
       "onboard_time": 1694654735,
       "rank": 33,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 220581,
+      "num": 395720,
+      "word": "12306建议没买到票的用户立即候补",
+      "onboard_time": 1694668239,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220153,
@@ -7905,14 +8041,6 @@
       "onboard_time": 1694345073,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212307,
-      "num": 212307,
-      "word": "单依纯满眼对学分的渴望",
-      "onboard_time": 1694665906,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 212252,
