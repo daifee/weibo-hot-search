@@ -1,0 +1,410 @@
+{
+  "runTime": 1694683019650,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779976,
+        "num": 1779976,
+        "word": "男子买彩票中5544万到手4444万",
+        "onboard_time": 1694681272,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1779833,
+        "num": 1779833,
+        "word": "鸟巢第一人",
+        "onboard_time": 1694678375,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75007,
+        "num": 1560088,
+        "word": "亚运村里的热门打卡点",
+        "onboard_time": 1694680596,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1390017,
+        "num": 1390017,
+        "word": "戚薇不反对Lucky进演艺圈",
+        "onboard_time": 1694680115,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1054320,
+        "num": 1054320,
+        "word": "小偷1夜挖700斤芋头被抓农户笑了",
+        "onboard_time": 1694674834,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043548,
+        "num": 1043548,
+        "word": "李在明已绝食抗议15天",
+        "onboard_time": 1694679934,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 767005,
+        "num": 767005,
+        "word": "中国航天回应墨西哥展出疑外星遗骸",
+        "onboard_time": 1694680775,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753905,
+        "num": 753905,
+        "word": "周杰伦联名奶茶一定要点冰的",
+        "onboard_time": 1694681497,
+        "rank": 7,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 675027,
+        "num": 675027,
+        "word": "他平等地骂每一个恋爱脑",
+        "onboard_time": 1694674357,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 650738,
+        "num": 650738,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1317273,
+        "num": 650089,
+        "word": "网友曝花西子五只化妆刷919元",
+        "onboard_time": 1694672674,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1205174,
+        "num": 614060,
+        "word": "两名13岁学生将清洁漂白液倒入同学水杯",
+        "onboard_time": 1694678794,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1161660,
+        "num": 567911,
+        "word": "杨幂翡翠",
+        "onboard_time": 1694678557,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389145,
+        "num": 532892,
+        "word": "12306建议没买到票的用户立即候补",
+        "onboard_time": 1694668239,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356443,
+        "num": 498475,
+        "word": "警方通报上海一中学疑似发生投毒",
+        "onboard_time": 1694678315,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080257,
+        "num": 479045,
+        "word": "林允用爽肤水洗脸",
+        "onboard_time": 1694679821,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 820983,
+        "num": 446807,
+        "word": "张馨予玄学",
+        "onboard_time": 1694673334,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430160,
+        "num": 430160,
+        "word": "苍兰诀 全员上桌",
+        "onboard_time": 1694674716,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306022,
+        "num": 306022,
+        "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+        "onboard_time": 1694668838,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222953,
+        "num": 299269,
+        "word": "林孝埈小组第一晋级1500米半决赛",
+        "onboard_time": 1694679454,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297965,
+        "num": 297965,
+        "word": "00后大学生8天7夜坐公交旅行10座城市",
+        "onboard_time": 1694680536,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291055,
+        "num": 291055,
+        "word": "水果味月饼的馅基本都是冬瓜做的",
+        "onboard_time": 1694676820,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261700,
+        "num": 261700,
+        "word": "于正新中式",
+        "onboard_time": 1694679096,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 260945,
+        "num": 260945,
+        "word": "冯宝宝穿古装",
+        "onboard_time": 1694682160,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256727,
+        "num": 256727,
+        "word": "陈楚生直播",
+        "onboard_time": 1694679876,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238905,
+        "num": 238905,
+        "word": "日本偶遇Angelababy逛街",
+        "onboard_time": 1694673155,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 235844,
+        "num": 235844,
+        "word": "内陆的孩子羡慕了",
+        "onboard_time": 1694673756,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222812,
+        "num": 222812,
+        "word": "马斯克表态台湾是中国一部分",
+        "onboard_time": 1694664344,
+        "rank": 27,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 204314,
+        "num": 204314,
+        "word": "微博文化之夜嘉宾阵容",
+        "onboard_time": 1694682877,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196941,
+        "num": 196941,
+        "word": "嘉顿 根正苗红",
+        "onboard_time": 1694682218,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454570,
+        "num": 195641,
+        "word": "关于我爸54岁用的微信头像",
+        "onboard_time": 1694682337,
+        "rank": 30,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 205457,
+        "num": 194948,
+        "word": "不要轻易跟维密超模合影",
+        "onboard_time": 1694681559,
+        "rank": 31,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 193512,
+        "num": 193512,
+        "word": "空腹有氧",
+        "onboard_time": 1694676394,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181544,
+        "num": 181544,
+        "word": "吴昕5点半起床大理看日出",
+        "onboard_time": 1694677056,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174882,
+        "num": 174882,
+        "word": "丞磊 infp",
+        "onboard_time": 1694673217,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174452,
+        "num": 174452,
+        "word": "妻子用头绳牵失明丈夫晨跑30年",
+        "onboard_time": 1694679336,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168601,
+        "num": 168601,
+        "word": "国货老baby们都喊爹了",
+        "onboard_time": 1694680957,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 164577,
+        "num": 164577,
+        "word": "LOL所有人聊天功能恢复",
+        "onboard_time": 1694674955,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160902,
+        "num": 160902,
+        "word": "网友锐评南风知我意",
+        "onboard_time": 1694678253,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160044,
+        "num": 160044,
+        "word": "5999元你会买华为还是苹果",
+        "onboard_time": 1694665429,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151768,
+        "num": 151768,
+        "word": "倪妮人前A人后C",
+        "onboard_time": 1694666983,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150608,
+        "num": 150608,
+        "word": "华为Mate60Pro需求高于预期",
+        "onboard_time": 1694663565,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "和真正舒服的人坐一起时会出现的姿势",
+        "onboard_time": 1694682820,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143566,
+        "num": 143566,
+        "word": "仙策 我看谁敢把我p掉换成自己",
+        "onboard_time": 1694681617,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143433,
+        "num": 143433,
+        "word": "修飞机专业学生兼职汉服旅拍月入2万",
+        "onboard_time": 1694682276,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 141610,
+        "word": "茅台董事长称酱香拿铁首日销售额超1亿",
+        "onboard_time": 1694665606,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 136639,
+        "num": 136639,
+        "word": "张踩铃又惨又好笑",
+        "onboard_time": 1694675375,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128328,
+        "num": 128328,
+        "word": "刘宇郑乃馨豪门姐弟既视感",
+        "onboard_time": 1694680055,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128245,
+        "num": 128245,
+        "word": "黄轩在自己评论区自问自答",
+        "onboard_time": 1694679035,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127369,
+        "num": 127369,
+        "word": "邓为风度银十双封",
+        "onboard_time": 1694668002,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023北京文化论坛致贺信#"
+    }
+  }
+}

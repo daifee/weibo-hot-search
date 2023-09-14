@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 16:34:25
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/14 17:16:59
 </p>
 </blockquote>
 <p>
@@ -1425,6 +1425,18 @@ iPhone15四款机型相机曝光（热度：1825898）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23" target="weibo">
+男子买彩票中5544万到手4444万（热度：1779976）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E7%AC%AC%E4%B8%80%E4%BA%BA%23" target="weibo">
+鸟巢第一人（热度：1779833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E8%A2%AB%E5%A4%A7%E5%A6%88%E4%B8%BE%E6%8A%A5%E6%AC%BA%E8%AF%8851%E4%B8%87%23" target="weibo">
 秀才曾被大妈举报欺诈51万（热度：1779007）
 </a>
@@ -2199,6 +2211,12 @@ JonyJ举行婚礼（热度：1450905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23" target="weibo">
+戚薇不反对Lucky进演艺圈（热度：1390017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%8B%B9%E6%9E%9C%E5%A4%87%E5%BF%98%E5%BD%95%E5%81%9A%E7%94%B5%E5%AD%90%E8%A1%A3%E6%A9%B1%23" target="weibo">
 用苹果备忘录做电子衣橱（热度：1388706）
 </a>
@@ -2583,6 +2601,12 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D13%E5%B2%81%E5%AD%A6%E7%94%9F%E5%B0%86%E6%B8%85%E6%B4%81%E6%BC%82%E7%99%BD%E6%B6%B2%E5%80%92%E5%85%A5%E5%90%8C%E5%AD%A6%E6%B0%B4%E6%9D%AF%23" target="weibo">
+两名13岁学生将清洁漂白液倒入同学水杯（热度：1205174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%AD%A6%E7%94%9F%E5%8F%97%E4%BC%A4%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E7%BD%AA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 致学生受伤老师涉嫌故意伤害罪被刑拘（热度：1205046）
 </a>
@@ -2943,6 +2967,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E7%94%A8%E7%88%BD%E8%82%A4%E6%B0%B4%E6%B4%97%E8%84%B8%23" target="weibo">
+林允用爽肤水洗脸（热度：1080257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
 教师节快乐（热度：1078043）
 </a>
@@ -3063,6 +3093,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE15%E5%A4%A9%23" target="weibo">
+李在明已绝食抗议15天（热度：1043548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%8A%E4%B9%85%E4%BA%86%E6%98%AF%E4%BC%9A%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
 上班上久了是会这样的（热度：1042554）
 </a>
@@ -3083,12 +3119,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%B8%AD%E5%A4%B1%E7%81%AB%23" target="weibo">
 千万粉丝网红家中失火（热度：1036699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D13%E5%B2%81%E5%AD%A6%E7%94%9F%E5%B0%86%E6%B8%85%E6%B4%81%E6%BC%82%E7%99%BD%E6%B6%B2%E5%80%92%E5%85%A5%E5%90%8C%E5%AD%A6%E6%B0%B4%E6%9D%AF%23" target="weibo">
-两名13岁学生将清洁漂白液倒入同学水杯（热度：1033927）
 </a>
 </li>
 
@@ -3191,12 +3221,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E7%91%9E%E5%B9%B8vs%E5%AE%9E%E9%99%85%E7%9A%84%E7%91%9E%E5%B9%B8%23" target="weibo">
 你以为的瑞幸vs实际的瑞幸（热度：1011463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E7%AC%AC%E4%B8%80%E4%BA%BA%23" target="weibo">
-鸟巢第一人（热度：1011100）
 </a>
 </li>
 
@@ -4725,6 +4749,12 @@ fx十四周年（热度：777250）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%9B%9E%E5%BA%94%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B1%95%E5%87%BA%E7%96%91%E5%A4%96%E6%98%9F%E9%81%97%E9%AA%B8%23" target="weibo">
+中国航天回应墨西哥展出疑外星遗骸（热度：767005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%8E%B0%E5%9C%A8%E5%8F%96%E5%BF%AB%E9%80%92%E8%BF%99%E4%B9%88%E9%AB%98%E7%BA%A7%E4%BA%86%23" target="weibo">
 没想到现在取快递这么高级了（热度：765578）
 </a>
@@ -4823,6 +4853,12 @@ Mate60Pro+（热度：756217）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%A5%BD%E9%A3%92%23" target="weibo">
 倪妮好飒（热度：754389）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%81%94%E5%90%8D%E5%A5%B6%E8%8C%B6%E4%B8%80%E5%AE%9A%E8%A6%81%E7%82%B9%E5%86%B0%E7%9A%84%23" target="weibo">
+周杰伦联名奶茶一定要点冰的（热度：753905）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ iPhone15新款手机壳曝光（热度：648123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%86%9B%E8%AE%AD%E6%9C%8D%E9%80%8F%E6%98%8E%E5%87%A0%E4%B9%8E%E9%9C%B2%E5%87%BA%E5%86%85%E8%A3%A4%23" target="weibo">
 女大学生称军训服透明几乎露出内裤（热度：647012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%BB%91%E7%B2%89%E8%A2%AB%E5%BC%BA%E6%89%A73%E4%B8%87%23" target="weibo">
-赵丽颖黑粉被强执3万（热度：646831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7%23" target="weibo">
-张歆艺 这个天赶往鸟巢的都是真的吧（热度：646759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%A2%AB%E6%9B%9D%E5%87%BA%E7%8E%B0%E4%B8%8A%E5%8D%83%E6%9D%A1%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-浙江一村被曝出现上千条眼镜蛇（热度：646058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：645820）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%20kisskiss%23" target="weibo">
-马立奥 kisskiss（热度：645499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%A7%B0%E8%BE%93%E7%90%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E6%B0%94%E4%B8%8D%E5%A5%BD%23" target="weibo">
-国足主帅称输球是因为运气不好（热度：644782）
 </a>
 </li>
 
