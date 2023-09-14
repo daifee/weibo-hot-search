@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694709448264,
+  "endTime": 1694711719843,
   "band_list": [
     {
       "raw_hot": 1782619,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242427,
+      "num": 203891,
+      "word": "活力28 操心的网友",
+      "onboard_time": 1694707592,
+      "rank": 24,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 226043,
       "num": 226043,
       "word": "官方回应北极鲶鱼事件调查结果不公开",
@@ -160,6 +168,14 @@
       "word": "中年男演员按这种水平内卷",
       "onboard_time": 1694701362,
       "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216504,
+      "num": 158247,
+      "word": "张凌赫 你快衫了吧",
+      "onboard_time": 1694709206,
+      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -177,14 +193,6 @@
       "onboard_time": 1694691756,
       "rank": 23,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 203891,
-      "num": 203891,
-      "word": "活力28 操心的网友",
-      "onboard_time": 1694707592,
-      "rank": 24,
-      "category": "休闲"
     },
     {
       "raw_hot": 198050,
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170332,
+      "num": 170332,
+      "word": "宿舍超爽的睡觉氛围",
+      "onboard_time": 1694710225,
+      "rank": 17,
+      "category": "其它"
+    },
+    {
       "raw_hot": 163589,
       "num": 163589,
       "word": "丞磊 翻牌",
@@ -241,6 +257,14 @@
       "onboard_time": 1694702140,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157628,
+      "num": 136027,
+      "word": "大学生对陌生人莫名的信任",
+      "onboard_time": 1694708728,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 157247,
@@ -331,14 +355,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 136027,
-      "num": 136027,
-      "word": "大学生对陌生人莫名的信任",
-      "onboard_time": 1694708728,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133338,
       "num": 133338,
       "word": "国庆档有11部电影",
@@ -355,6 +371,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 128120,
+      "num": 128120,
+      "word": "张颂文 我40多岁的时候还在找戏拍",
+      "onboard_time": 1694710944,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127560,
       "num": 127560,
       "word": "丞磊卢昱晓好会理解夜色尚浅",
@@ -369,14 +393,6 @@
       "onboard_time": 1694691033,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 122378,
-      "num": 122378,
-      "word": "张凌赫 你快衫了吧",
-      "onboard_time": 1694709206,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114946,
