@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694727240902,
+  "endTime": 1694729748241,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -19507,6 +19507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 291035,
+      "num": 250352,
+      "word": "这下谁还分得清营业和真情侣",
+      "onboard_time": 1694701722,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290964,
       "num": 290964,
       "word": "上海本帮爆鱼",
@@ -22049,14 +22057,6 @@
       "onboard_time": 1694238817,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 250352,
-      "num": 250352,
-      "word": "这下谁还分得清营业和真情侣",
-      "onboard_time": 1694701722,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250332,
@@ -30587,6 +30587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169736,
+      "num": 70506,
+      "word": "不建议食用的几种鸡蛋",
+      "onboard_time": 1694723953,
+      "rank": 16,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 169708,
       "num": 169708,
       "word": "复旦你这么缩写是吧",
@@ -35795,20 +35803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59343,
+      "num": 39513,
+      "word": "男子酒驾遇查故意喝下1瓶白酒",
+      "onboard_time": 1694721974,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59257,
       "num": 1933165,
       "word": "详解杭州亚运会会徽和口号",
       "onboard_time": 1693989455,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58974,
-      "num": 33748,
-      "word": "不建议食用的几种鸡蛋",
-      "onboard_time": 1694723953,
-      "rank": 16,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 58904,
@@ -36184,14 +36192,6 @@
       "word": "裸眼3D看亚运会三小只打卡杭州地标",
       "onboard_time": 1694592034,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46319,
-      "num": 24882,
-      "word": "男子酒驾遇查故意喝下1瓶白酒",
-      "onboard_time": 1694721974,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -36747,6 +36747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30525,
+      "num": 35245,
+      "word": "骄阳伴我烟花名场面",
+      "onboard_time": 1694710462,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30341,
       "num": 62155,
       "word": "括号P下颚线",
@@ -36761,14 +36769,6 @@
       "onboard_time": 1693938554,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29936,
-      "num": 35245,
-      "word": "骄阳伴我烟花名场面",
-      "onboard_time": 1694710462,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 29830,
@@ -36881,6 +36881,14 @@
       "onboard_time": 1694716395,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26805,
+      "num": 27999,
+      "word": "南风知我意纯爱氛围感",
+      "onboard_time": 1694726954,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 26776,

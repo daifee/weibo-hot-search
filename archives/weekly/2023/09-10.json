@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694727240902,
+  "endTime": 1694729748241,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -7011,6 +7011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 291035,
+      "num": 250352,
+      "word": "这下谁还分得清营业和真情侣",
+      "onboard_time": 1694701722,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290656,
       "num": 554321,
       "word": "石榴的这个神仙吃法绝了",
@@ -7921,14 +7929,6 @@
       "onboard_time": 1694693078,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250352,
-      "num": 250352,
-      "word": "这下谁还分得清营业和真情侣",
-      "onboard_time": 1694701722,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250332,
@@ -11211,6 +11211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169736,
+      "num": 70506,
+      "word": "不建议食用的几种鸡蛋",
+      "onboard_time": 1694723953,
+      "rank": 16,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 169584,
       "num": 169584,
       "word": "陈梦王曼昱晋级亚锦赛决赛",
@@ -13019,12 +13027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58974,
-      "num": 33748,
-      "word": "不建议食用的几种鸡蛋",
-      "onboard_time": 1694723953,
-      "rank": 16,
-      "category": "健康医疗,知识科普"
+      "raw_hot": 59343,
+      "num": 39513,
+      "word": "男子酒驾遇查故意喝下1瓶白酒",
+      "onboard_time": 1694721974,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58904,
@@ -13179,14 +13187,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 46319,
-      "num": 24882,
-      "word": "男子酒驾遇查故意喝下1瓶白酒",
-      "onboard_time": 1694721974,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44825,
       "num": 59789,
       "word": "能把猫训出来是怎么做到的",
@@ -13339,20 +13339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30525,
+      "num": 35245,
+      "word": "骄阳伴我烟花名场面",
+      "onboard_time": 1694710462,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30341,
       "num": 62155,
       "word": "括号P下颚线",
       "onboard_time": 1694456957,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 29936,
-      "num": 35245,
-      "word": "骄阳伴我烟花名场面",
-      "onboard_time": 1694710462,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 29423,
@@ -13377,6 +13377,14 @@
       "onboard_time": 1694716395,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26805,
+      "num": 27999,
+      "word": "南风知我意纯爱氛围感",
+      "onboard_time": 1694726954,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 26042,

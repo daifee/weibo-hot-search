@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694727240902,
+  "endTime": 1694729748241,
   "band_list": [
     {
       "raw_hot": 1782619,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291035,
+      "num": 195706,
+      "word": "这下谁还分得清营业和真情侣",
+      "onboard_time": 1694701722,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269841,
       "num": 269841,
       "word": "宿舍超爽的睡觉氛围",
@@ -219,14 +227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195706,
-      "num": 195706,
-      "word": "这下谁还分得清营业和真情侣",
-      "onboard_time": 1694701722,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188328,
       "num": 188328,
       "word": "再也不会谈的星座",
@@ -249,6 +249,14 @@
       "onboard_time": 1694706158,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169736,
+      "num": 70506,
+      "word": "不建议食用的几种鸡蛋",
+      "onboard_time": 1694723953,
+      "rank": 16,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 163589,
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58974,
-      "num": 33748,
-      "word": "不建议食用的几种鸡蛋",
-      "onboard_time": 1694723953,
-      "rank": 16,
-      "category": "健康医疗,知识科普"
+      "raw_hot": 59343,
+      "num": 39513,
+      "word": "男子酒驾遇查故意喝下1瓶白酒",
+      "onboard_time": 1694721974,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52927,
@@ -483,15 +491,7 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 46319,
-      "num": 24882,
-      "word": "男子酒驾遇查故意喝下1瓶白酒",
-      "onboard_time": 1694721974,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29936,
+      "raw_hot": 30525,
       "num": 35245,
       "word": "骄阳伴我烟花名场面",
       "onboard_time": 1694710462,
@@ -513,6 +513,14 @@
       "onboard_time": 1694716395,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26805,
+      "num": 27999,
+      "word": "南风知我意纯爱氛围感",
+      "onboard_time": 1694726954,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 24974,
