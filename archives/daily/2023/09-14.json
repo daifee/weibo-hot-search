@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694665177601,
+  "endTime": 1694666034897,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -83,8 +83,8 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 1353114,
-      "num": 1353114,
+      "raw_hot": 1359431,
+      "num": 1359431,
       "word": "桂花龙井拿铁",
       "onboard_time": 1694661336,
       "rank": 38,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1016270,
+      "num": 696373,
+      "word": "马斯克表态台湾是中国一部分",
+      "onboard_time": 1694664344,
+      "rank": 12,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 1012866,
       "num": 1012866,
       "word": "霍启刚履新",
@@ -195,8 +203,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 783692,
-      "num": 783692,
+      "raw_hot": 790555,
+      "num": 790555,
       "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
       "onboard_time": 1694663440,
       "rank": 8,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653433,
+      "num": 653433,
+      "word": "5999元你会买华为还是苹果",
+      "onboard_time": 1694665429,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 649395,
       "num": 649395,
       "word": "瘫痪小猫被中医医术1秒咔吧接回",
@@ -265,6 +281,14 @@
       "onboard_time": 1694656536,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614068,
+      "num": 614068,
+      "word": "老友记 精神内核领先互联网二十年",
+      "onboard_time": 1694664640,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 612690,
@@ -299,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 567579,
+      "num": 342098,
+      "word": "被非洲的输液方式吓晕了",
+      "onboard_time": 1694664703,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 558585,
       "num": 558585,
       "word": "范特西奶茶",
@@ -321,14 +353,6 @@
       "onboard_time": 1694659053,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 528934,
-      "num": 528934,
-      "word": "马斯克表态台湾是中国一部分",
-      "onboard_time": 1694664344,
-      "rank": 12,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 525888,
@@ -451,6 +475,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 399280,
+      "num": 399280,
+      "word": "老刘不是家庭主妇性转版",
+      "onboard_time": 1694664041,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395116,
       "num": 395116,
       "word": "你姐让我来看看我小姨",
@@ -475,20 +507,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 385601,
-      "num": 385601,
-      "word": "老刘不是家庭主妇性转版",
-      "onboard_time": 1694664041,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 375680,
+      "num": 375680,
+      "word": "张凌赫愿意做金靖的男主角",
+      "onboard_time": 1694665305,
+      "rank": 25,
+      "category": "艺人"
     },
     {
-      "raw_hot": 383146,
-      "num": 383146,
-      "word": "老友记 精神内核领先互联网二十年",
-      "onboard_time": 1694664640,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 371953,
+      "num": 371953,
+      "word": "中国铁路",
+      "onboard_time": 1694663800,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368437,
@@ -539,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347170,
-      "num": 317736,
-      "word": "被非洲的输液方式吓晕了",
-      "onboard_time": 1694664703,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 347136,
       "num": 347136,
       "word": "养猫的才知道这种猫有多难得",
@@ -569,6 +593,14 @@
       "onboard_time": 1694610766,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343325,
+      "num": 343325,
+      "word": "肖战说不断产出才能走得长远",
+      "onboard_time": 1694664703,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 335848,
@@ -617,6 +649,14 @@
       "onboard_time": 1694662601,
       "rank": 29,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 318185,
+      "num": 318185,
+      "word": "茅台董事长称酱香拿铁首日销售额超1亿",
+      "onboard_time": 1694665606,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 315368,
@@ -675,14 +715,6 @@
       "category": "美妆,财经"
     },
     {
-      "raw_hot": 289981,
-      "num": 289981,
-      "word": "中国铁路",
-      "onboard_time": 1694663800,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285109,
       "num": 285109,
       "word": "十年都没有涨过价东西",
@@ -731,6 +763,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 267882,
+      "num": 267882,
+      "word": "云为衫疑似双重间谍",
+      "onboard_time": 1694661156,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264319,
       "num": 264319,
       "word": "李维嘉爸爸面对诈骗的思路",
@@ -753,14 +793,6 @@
       "onboard_time": 1694654496,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 258650,
-      "num": 258650,
-      "word": "云为衫疑似双重间谍",
-      "onboard_time": 1694661156,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 257768,
@@ -883,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 225346,
+      "num": 225346,
+      "word": "gidle澳门抢票",
+      "onboard_time": 1694665723,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224445,
       "num": 224445,
       "word": "取快递被挂上表白墙了",
@@ -897,6 +937,14 @@
       "onboard_time": 1694653420,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223097,
+      "num": 223097,
+      "word": "16岁骨癌女孩立志要学中医",
+      "onboard_time": 1694664227,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221281,
@@ -931,20 +979,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 213194,
-      "num": 213194,
-      "word": "肖战说不断产出才能走得长远",
-      "onboard_time": 1694664703,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 212577,
       "num": 212577,
       "word": "一诺",
       "onboard_time": 1694614182,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212307,
+      "num": 212307,
+      "word": "单依纯满眼对学分的渴望",
+      "onboard_time": 1694665906,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 211513,
@@ -985,14 +1033,6 @@
       "onboard_time": 1694660495,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208380,
-      "num": 208380,
-      "word": "16岁骨癌女孩立志要学中医",
-      "onboard_time": 1694664227,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207701,
@@ -1187,6 +1227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 121400,
+      "num": 1523132,
+      "word": "2023网络名人贵州行",
+      "onboard_time": 1694664164,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121393,
       "num": 121393,
       "word": "好的婚姻是什么样子",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1694623946,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108615,
-      "num": 1523132,
-      "word": "2023网络名人贵州行",
-      "onboard_time": 1694664164,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105237,

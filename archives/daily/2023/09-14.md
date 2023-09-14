@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/14 00:20:53 ~ 2023/09/14 12:19:37
+本榜单时间：2023/09/14 00:20:53 ~ 2023/09/14 12:33:54
 </p>
 </blockquote>
 <p>
@@ -76,7 +76,7 @@ NARS（热度：1554394）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E8%8A%B1%E9%BE%99%E4%BA%95%E6%8B%BF%E9%93%81%23" target="weibo">
-桂花龙井拿铁（热度：1353114）
+桂花龙井拿铁（热度：1359431）
 </a>
 </li>
 
@@ -129,6 +129,12 @@ NARS（热度：1554394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23" target="weibo">
+马斯克表态台湾是中国一部分（热度：1016270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%B1%A5%E6%96%B0%23" target="weibo">
 霍启刚履新（热度：1012866）
 </a>
@@ -160,7 +166,7 @@ NARS（热度：1554394）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%8B%BF%E4%B8%88%E5%A4%AB%E7%99%BE%E4%B8%87%E6%AD%BB%E4%BA%A1%E8%B5%94%E5%81%BF%E6%AC%BE%E6%8B%92%E5%88%86%E7%BB%99%E5%85%AC%E5%A9%86%23" target="weibo">
-妻子拿丈夫百万死亡赔偿款拒分给公婆（热度：783692）
+妻子拿丈夫百万死亡赔偿款拒分给公婆（热度：790555）
 </a>
 </li>
 
@@ -189,6 +195,12 @@ NARS（热度：1554394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%235999%E5%85%83%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%8D%8E%E4%B8%BA%E8%BF%98%E6%98%AF%E8%8B%B9%E6%9E%9C%23" target="weibo">
+5999元你会买华为还是苹果（热度：653433）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%B0%8F%E7%8C%AB%E8%A2%AB%E4%B8%AD%E5%8C%BB%E5%8C%BB%E6%9C%AF1%E7%A7%92%E5%92%94%E5%90%A7%E6%8E%A5%E5%9B%9E%23" target="weibo">
 瘫痪小猫被中医医术1秒咔吧接回（热度：649395）
 </a>
@@ -209,6 +221,12 @@ NARS（热度：1554394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%8B%85%E4%BB%BB%E4%B8%AD%E7%B2%AE%E9%9B%86%E5%9B%A2%E5%A4%96%E9%83%A8%E8%91%A3%E4%BA%8B%23" target="weibo">
 霍启刚担任中粮集团外部董事（热度：616420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%20%E7%B2%BE%E7%A5%9E%E5%86%85%E6%A0%B8%E9%A2%86%E5%85%88%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%8C%E5%8D%81%E5%B9%B4%23" target="weibo">
+老友记 精神内核领先互联网二十年（热度：614068）
 </a>
 </li>
 
@@ -237,6 +255,12 @@ NARS（热度：1554394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9D%9E%E6%B4%B2%E7%9A%84%E8%BE%93%E6%B6%B2%E6%96%B9%E5%BC%8F%E5%90%93%E6%99%95%E4%BA%86%23" target="weibo">
+被非洲的输液方式吓晕了（热度：567579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%89%B9%E8%A5%BF%E5%A5%B6%E8%8C%B6%23" target="weibo">
 范特西奶茶（热度：558585）
 </a>
@@ -251,12 +275,6 @@ NARS（热度：1554394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E7%9A%84%E9%A3%8E%E5%8F%88%E5%90%B9%E5%88%B0%E4%BA%86%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E6%A1%83%E6%9D%8E%E6%9D%AF%23" target="weibo">
 考古的风又吹到了檀健次的桃李杯（热度：531988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23" target="weibo">
-马斯克表态台湾是中国一部分（热度：528934）
 </a>
 </li>
 
@@ -351,6 +369,12 @@ NARS（热度：1554394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E4%B8%8D%E6%98%AF%E5%AE%B6%E5%BA%AD%E4%B8%BB%E5%A6%87%E6%80%A7%E8%BD%AC%E7%89%88%23" target="weibo">
+老刘不是家庭主妇性转版（热度：399280）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A7%90%E8%AE%A9%E6%88%91%E6%9D%A5%E7%9C%8B%E7%9C%8B%E6%88%91%E5%B0%8F%E5%A7%A8%23" target="weibo">
 你姐让我来看看我小姨（热度：395116）
 </a>
@@ -369,14 +393,14 @@ NARS（热度：1554394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E4%B8%8D%E6%98%AF%E5%AE%B6%E5%BA%AD%E4%B8%BB%E5%A6%87%E6%80%A7%E8%BD%AC%E7%89%88%23" target="weibo">
-老刘不是家庭主妇性转版（热度：385601）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%84%BF%E6%84%8F%E5%81%9A%E9%87%91%E9%9D%96%E7%9A%84%E7%94%B7%E4%B8%BB%E8%A7%92%23" target="weibo">
+张凌赫愿意做金靖的男主角（热度：375680）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%20%E7%B2%BE%E7%A5%9E%E5%86%85%E6%A0%B8%E9%A2%86%E5%85%88%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%8C%E5%8D%81%E5%B9%B4%23" target="weibo">
-老友记 精神内核领先互联网二十年（热度：383146）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%23" target="weibo">
+中国铁路（热度：371953）
 </a>
 </li>
 
@@ -417,12 +441,6 @@ NARS（热度：1554394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9D%9E%E6%B4%B2%E7%9A%84%E8%BE%93%E6%B6%B2%E6%96%B9%E5%BC%8F%E5%90%93%E6%99%95%E4%BA%86%23" target="weibo">
-被非洲的输液方式吓晕了（热度：347170）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8C%AB%E7%9A%84%E6%89%8D%E7%9F%A5%E9%81%93%E8%BF%99%E7%A7%8D%E7%8C%AB%E6%9C%89%E5%A4%9A%E9%9A%BE%E5%BE%97%23" target="weibo">
 养猫的才知道这种猫有多难得（热度：347136）
 </a>
@@ -437,6 +455,12 @@ NARS（热度：1554394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A7%91%E5%A8%98%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E4%B8%8D%E9%80%82%E5%8D%B4%E7%A1%AE%E8%AF%8A%E8%A1%80%E7%99%8C%23" target="weibo">
 26岁姑娘没有任何不适却确诊血癌（热度：343417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E4%B8%8D%E6%96%AD%E4%BA%A7%E5%87%BA%E6%89%8D%E8%83%BD%E8%B5%B0%E5%BE%97%E9%95%BF%E8%BF%9C%23" target="weibo">
+肖战说不断产出才能走得长远（热度：343325）
 </a>
 </li>
 
@@ -473,6 +497,12 @@ NARS（热度：1554394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%97%B6%E4%BB%BB%E5%A6%88%E5%A6%88%E6%91%86%E5%B8%83%E7%9A%84%E5%B0%8F%E5%AE%9D%E5%AE%9D%23" target="weibo">
 洗澡时任妈妈摆布的小宝宝（热度：319124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%A6%96%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%851%E4%BA%BF%23" target="weibo">
+茅台董事长称酱香拿铁首日销售额超1亿（热度：318185）
 </a>
 </li>
 
@@ -519,12 +549,6 @@ JINI将solo出道（热度：298118）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%23" target="weibo">
-中国铁路（热度：289981）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E9%83%BD%E6%B2%A1%E6%9C%89%E6%B6%A8%E8%BF%87%E4%BB%B7%E4%B8%9C%E8%A5%BF%23" target="weibo">
 十年都没有涨过价东西（热度：285109）
 </a>
@@ -561,6 +585,12 @@ JINI将solo出道（热度：298118）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%BA%E8%A1%AB%E7%96%91%E4%BC%BC%E5%8F%8C%E9%87%8D%E9%97%B4%E8%B0%8D%23" target="weibo">
+云为衫疑似双重间谍（热度：267882）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E7%88%B8%E7%88%B8%E9%9D%A2%E5%AF%B9%E8%AF%88%E9%AA%97%E7%9A%84%E6%80%9D%E8%B7%AF%23" target="weibo">
 李维嘉爸爸面对诈骗的思路（热度：264319）
 </a>
@@ -575,12 +605,6 @@ JINI将solo出道（热度：298118）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAmate60%23" target="weibo">
 华为mate60（热度：262877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%BA%E8%A1%AB%E7%96%91%E4%BC%BC%E5%8F%8C%E9%87%8D%E9%97%B4%E8%B0%8D%23" target="weibo">
-云为衫疑似双重间谍（热度：258650）
 </a>
 </li>
 
@@ -675,6 +699,12 @@ iPhone15配色（热度：232789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23gidle%E6%BE%B3%E9%97%A8%E6%8A%A2%E7%A5%A8%23" target="weibo">
+gidle澳门抢票（热度：225346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E5%BF%AB%E9%80%92%E8%A2%AB%E6%8C%82%E4%B8%8A%E8%A1%A8%E7%99%BD%E5%A2%99%E4%BA%86%23" target="weibo">
 取快递被挂上表白墙了（热度：224445）
 </a>
@@ -683,6 +713,12 @@ iPhone15配色（热度：232789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%B2%E8%8A%B1%20%E4%BA%91%E7%83%9F%E8%AF%9D%E5%8D%8A%E7%94%9F%23" target="weibo">
 李莲花 云烟话半生（热度：223596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E9%AA%A8%E7%99%8C%E5%A5%B3%E5%AD%A9%E7%AB%8B%E5%BF%97%E8%A6%81%E5%AD%A6%E4%B8%AD%E5%8C%BB%23" target="weibo">
+16岁骨癌女孩立志要学中医（热度：223097）
 </a>
 </li>
 
@@ -711,14 +747,14 @@ iPhone15配色（热度：232789）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E4%B8%8D%E6%96%AD%E4%BA%A7%E5%87%BA%E6%89%8D%E8%83%BD%E8%B5%B0%E5%BE%97%E9%95%BF%E8%BF%9C%23" target="weibo">
-肖战说不断产出才能走得长远（热度：213194）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%23" target="weibo">
+一诺（热度：212577）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%23" target="weibo">
-一诺（热度：212577）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%BB%A1%E7%9C%BC%E5%AF%B9%E5%AD%A6%E5%88%86%E7%9A%84%E6%B8%B4%E6%9C%9B%23" target="weibo">
+单依纯满眼对学分的渴望（热度：212307）
 </a>
 </li>
 
@@ -749,12 +785,6 @@ iPhone15配色（热度：232789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%AF%B4%E6%BC%94%E5%91%98%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BD%93%E9%AA%8C%E7%94%9F%E6%B4%BB%23" target="weibo">
 张晚意说演员要好好体验生活（热度：209436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E9%AA%A8%E7%99%8C%E5%A5%B3%E5%AD%A9%E7%AB%8B%E5%BF%97%E8%A6%81%E5%AD%A6%E4%B8%AD%E5%8C%BB%23" target="weibo">
-16岁骨癌女孩立志要学中医（热度：208380）
 </a>
 </li>
 
@@ -903,6 +933,12 @@ iPhone15配色（热度：232789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232023%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E8%B4%B5%E5%B7%9E%E8%A1%8C%23" target="weibo">
+2023网络名人贵州行（热度：121400）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%23" target="weibo">
 好的婚姻是什么样子（热度：121393）
 </a>
@@ -923,12 +959,6 @@ iPhone15配色（热度：232789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E7%8B%B8%E7%B2%BE%E8%A7%86%E9%A2%91%E8%88%9E%E5%88%B0%E8%A7%92%E5%BE%B5%E6%B5%85%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E9%9D%A2%E5%89%8D%E4%BA%86%23" target="weibo">
 狐狸精视频舞到角徵浅一家三口面前了（热度：112250）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232023%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E8%B4%B5%E5%B7%9E%E8%A1%8C%23" target="weibo">
-2023网络名人贵州行（热度：108615）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694665177601,
+  "endTime": 1694666034897,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1179,8 +1179,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1353114,
-      "num": 1353114,
+      "raw_hot": 1359431,
+      "num": 1359431,
       "word": "桂花龙井拿铁",
       "onboard_time": 1694661336,
       "rank": 38,
@@ -1513,6 +1513,14 @@
       "onboard_time": 1694425360,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1016270,
+      "num": 696373,
+      "word": "马斯克表态台湾是中国一部分",
+      "onboard_time": 1694664344,
+      "rank": 12,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 1012866,
@@ -2083,8 +2091,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 783692,
-      "num": 783692,
+      "raw_hot": 790555,
+      "num": 790555,
       "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
       "onboard_time": 1694663440,
       "rank": 8,
@@ -2523,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653433,
+      "num": 653433,
+      "word": "5999元你会买华为还是苹果",
+      "onboard_time": 1694665429,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 652920,
       "num": 652920,
       "word": "罗斯结婚",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1694353003,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 614068,
+      "num": 614068,
+      "word": "老友记 精神内核领先互联网二十年",
+      "onboard_time": 1694664640,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 613674,
@@ -2987,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567579,
+      "num": 342098,
+      "word": "被非洲的输液方式吓晕了",
+      "onboard_time": 1694664703,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566802,
       "num": 566802,
       "word": "消失的大学专业",
@@ -3249,14 +3281,6 @@
       "onboard_time": 1694408924,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528934,
-      "num": 528934,
-      "word": "马斯克表态台湾是中国一部分",
-      "onboard_time": 1694664344,
-      "rank": 12,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 528664,
@@ -4459,6 +4483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399280,
+      "num": 399280,
+      "word": "老刘不是家庭主妇性转版",
+      "onboard_time": 1694664041,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398573,
       "num": 398573,
       "word": "女子称上班3天半被辞讨要工资反被怼",
@@ -4571,14 +4603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385601,
-      "num": 385601,
-      "word": "老刘不是家庭主妇性转版",
-      "onboard_time": 1694664041,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384471,
       "num": 384471,
       "word": "爱豆心理真的很强大",
@@ -4601,14 +4625,6 @@
       "onboard_time": 1694418815,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 383146,
-      "num": 383146,
-      "word": "老友记 精神内核领先互联网二十年",
-      "onboard_time": 1694664640,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 381469,
@@ -4649,6 +4665,14 @@
       "onboard_time": 1694441085,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375680,
+      "num": 375680,
+      "word": "张凌赫愿意做金靖的男主角",
+      "onboard_time": 1694665305,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 374990,
@@ -4697,6 +4721,14 @@
       "onboard_time": 1694333732,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371953,
+      "num": 371953,
+      "word": "中国铁路",
+      "onboard_time": 1694663800,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371866,
@@ -5051,14 +5083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 347170,
-      "num": 317736,
-      "word": "被非洲的输液方式吓晕了",
-      "onboard_time": 1694664703,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 347136,
       "num": 347136,
       "word": "养猫的才知道这种猫有多难得",
@@ -5105,6 +5129,14 @@
       "onboard_time": 1694354322,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 343325,
+      "num": 343325,
+      "word": "肖战说不断产出才能走得长远",
+      "onboard_time": 1694664703,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340650,
@@ -5505,6 +5537,14 @@
       "onboard_time": 1694392298,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318185,
+      "num": 318185,
+      "word": "茅台董事长称酱香拿铁首日销售额超1亿",
+      "onboard_time": 1694665606,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 317994,
@@ -6067,14 +6107,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 289981,
-      "num": 289981,
-      "word": "中国铁路",
-      "onboard_time": 1694663800,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289862,
       "num": 289862,
       "word": "关晓彤九宫格发了三张",
@@ -6483,6 +6515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267882,
+      "num": 267882,
+      "word": "云为衫疑似双重间谍",
+      "onboard_time": 1694661156,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267488,
       "num": 267488,
       "word": "看完装腔启示录之后",
@@ -6697,14 +6737,6 @@
       "onboard_time": 1694398175,
       "rank": 19,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 258650,
-      "num": 258650,
-      "word": "云为衫疑似双重间谍",
-      "onboard_time": 1694661156,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 257962,
@@ -7483,6 +7515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 225346,
+      "num": 225346,
+      "word": "gidle澳门抢票",
+      "onboard_time": 1694665723,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225084,
       "num": 814464,
       "word": "警察执勤时偶遇自己小学老师",
@@ -7529,6 +7569,14 @@
       "onboard_time": 1694438087,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223097,
+      "num": 223097,
+      "word": "16岁骨癌女孩立志要学中医",
+      "onboard_time": 1694664227,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222945,
@@ -7835,14 +7883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213194,
-      "num": 213194,
-      "word": "肖战说不断产出才能走得长远",
-      "onboard_time": 1694664703,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213160,
       "num": 213160,
       "word": "度华年官宣",
@@ -7865,6 +7905,14 @@
       "onboard_time": 1694345073,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212307,
+      "num": 212307,
+      "word": "单依纯满眼对学分的渴望",
+      "onboard_time": 1694665906,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 212252,
@@ -8057,14 +8105,6 @@
       "onboard_time": 1694607637,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208380,
-      "num": 208380,
-      "word": "16岁骨癌女孩立志要学中医",
-      "onboard_time": 1694664227,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208376,
@@ -10683,6 +10723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121400,
+      "num": 1523132,
+      "word": "2023网络名人贵州行",
+      "onboard_time": 1694664164,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121393,
       "num": 121393,
       "word": "好的婚姻是什么样子",
@@ -10809,14 +10857,6 @@
       "onboard_time": 1694300781,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108615,
-      "num": 1523132,
-      "word": "2023网络名人贵州行",
-      "onboard_time": 1694664164,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106764,
