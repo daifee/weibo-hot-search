@@ -1,0 +1,410 @@
+{
+  "runTime": 1694665177601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9881032,
+        "num": 9881032,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2282599,
+        "num": 2288051,
+        "word": "茅台 渣男",
+        "onboard_time": 1694663321,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108615,
+        "num": 1523132,
+        "word": "2023网络名人贵州行",
+        "onboard_time": 1694664164,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1353114,
+        "num": 1353114,
+        "word": "桂花龙井拿铁",
+        "onboard_time": 1694661336,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1291698,
+        "num": 1291698,
+        "word": "12306抢票",
+        "onboard_time": 1694652878,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023223,
+        "num": 1023223,
+        "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+        "onboard_time": 1694652878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011985,
+        "num": 1011985,
+        "word": "茅台巧克力单颗价格或超20元",
+        "onboard_time": 1694664401,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 796320,
+        "num": 796320,
+        "word": "北师大研究生因2字报考事业单位遭拒",
+        "onboard_time": 1694654735,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 783692,
+        "num": 783692,
+        "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
+        "onboard_time": 1694663440,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735209,
+        "num": 735209,
+        "word": "郁美净终于通网",
+        "onboard_time": 1694654435,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 638788,
+        "num": 638788,
+        "word": "全球首个承认外星生物存在的国家",
+        "onboard_time": 1694619940,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 536188,
+        "num": 536188,
+        "word": "范特西奶茶",
+        "onboard_time": 1694659956,
+        "rank": 11,
+        "category": "美食,音乐"
+      },
+      {
+        "raw_hot": 528934,
+        "num": 528934,
+        "word": "马斯克表态台湾是中国一部分",
+        "onboard_time": 1694664344,
+        "rank": 12,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 201948,
+        "num": 511507,
+        "word": "广东鳄鱼暴雨中出逃已抓回36条",
+        "onboard_time": 1694652939,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172309,
+        "num": 504199,
+        "word": "网络攻击我大学的美相关人员身份被锁定",
+        "onboard_time": 1694654854,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500452,
+        "num": 500452,
+        "word": "肠胃不好可以早餐吃点烤馒头片",
+        "onboard_time": 1694661819,
+        "rank": 15,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 481541,
+        "num": 481541,
+        "word": "瘫痪小猫被中医医术1秒咔吧接回",
+        "onboard_time": 1694659175,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455697,
+        "num": 455697,
+        "word": "宋轶 孤独是给成长一个机会",
+        "onboard_time": 1694661695,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158520,
+        "num": 444369,
+        "word": "中秋国庆假期火车票日历",
+        "onboard_time": 1694657494,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 439984,
+        "num": 439984,
+        "word": "外星人一定就是人形吗",
+        "onboard_time": 1694661576,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438294,
+        "num": 438294,
+        "word": "华为Mate60发布会定档",
+        "onboard_time": 1694655216,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 400683,
+        "num": 400683,
+        "word": "你的钱也不是天上刮来的",
+        "onboard_time": 1694656716,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390158,
+        "num": 390158,
+        "word": "华为Mate60Pro需求高于预期",
+        "onboard_time": 1694663565,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 387342,
+        "num": 387342,
+        "word": "上海一幼儿园多名幼童疑遭虐待",
+        "onboard_time": 1694658034,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385601,
+        "num": 385601,
+        "word": "老刘不是家庭主妇性转版",
+        "onboard_time": 1694664041,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1012317,
+        "num": 385326,
+        "word": "华为选在孟晚舟归来日举办发布会",
+        "onboard_time": 1694659653,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 383146,
+        "num": 383146,
+        "word": "老友记 精神内核领先互联网二十年",
+        "onboard_time": 1694664640,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366896,
+        "num": 366896,
+        "word": "花西子",
+        "onboard_time": 1694653297,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 348475,
+        "num": 348475,
+        "word": "三斤花西子可以买一套房",
+        "onboard_time": 1694609798,
+        "rank": 28,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 319124,
+        "num": 319124,
+        "word": "洗澡时任妈妈摆布的小宝宝",
+        "onboard_time": 1694662601,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 347170,
+        "num": 317736,
+        "word": "被非洲的输液方式吓晕了",
+        "onboard_time": 1694664703,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315064,
+        "num": 315064,
+        "word": "区委副书记醉驾被查找人顶包",
+        "onboard_time": 1694661218,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289981,
+        "num": 289981,
+        "word": "中国铁路",
+        "onboard_time": 1694663800,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275672,
+        "num": 275672,
+        "word": "UFO",
+        "onboard_time": 1694608364,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273128,
+        "num": 273128,
+        "word": "90后男老师课间和学生快乐跳操",
+        "onboard_time": 1694664703,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 251577,
+        "num": 251577,
+        "word": "S13赛程时间正式公布",
+        "onboard_time": 1694663921,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249620,
+        "num": 249620,
+        "word": "蜂花会成为下一个鸿星尔克吗",
+        "onboard_time": 1694658993,
+        "rank": 36,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 248635,
+        "num": 248635,
+        "word": "当我买到了华为MateX5",
+        "onboard_time": 1694664280,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237359,
+        "num": 237359,
+        "word": "网易回应员工因抑郁症离世",
+        "onboard_time": 1694659233,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232211,
+        "num": 232211,
+        "word": "华晨宇演唱会帮歌迷修手机",
+        "onboard_time": 1694662601,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228190,
+        "num": 228190,
+        "word": "云为衫疑似双重间谍",
+        "onboard_time": 1694661156,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214734,
+        "num": 214734,
+        "word": "蜜雪冰城被复刻了",
+        "onboard_time": 1694648130,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213194,
+        "num": 213194,
+        "word": "肖战说不断产出才能走得长远",
+        "onboard_time": 1694664703,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209203,
+        "num": 209203,
+        "word": "考古的风又吹到了檀健次的桃李杯",
+        "onboard_time": 1694659053,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208380,
+        "num": 208380,
+        "word": "16岁骨癌女孩立志要学中医",
+        "onboard_time": 1694664227,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204489,
+        "num": 204489,
+        "word": "高铁化妆争议视频制作方回应",
+        "onboard_time": 1694664881,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199057,
+        "num": 199057,
+        "word": "倪妮叶流西美拉德穿搭",
+        "onboard_time": 1694663321,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194471,
+        "num": 194471,
+        "word": "霍启刚担任中粮集团外部董事",
+        "onboard_time": 1694656536,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192367,
+        "num": 192367,
+        "word": "店家回应烤肉流出粉色液体被质疑",
+        "onboard_time": 1694660135,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163784,
+        "num": 163784,
+        "word": "孟宴臣高启强 强强碰撞",
+        "onboard_time": 1694658218,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023北京文化论坛致贺信#"
+    }
+  }
+}

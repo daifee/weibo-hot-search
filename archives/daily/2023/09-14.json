@@ -1,10 +1,10 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694662434758,
+  "endTime": 1694665177601,
   "band_list": [
     {
-      "raw_hot": 6061044,
-      "num": 6061044,
+      "raw_hot": 9881032,
+      "num": 9881032,
       "word": "茅台 我和德芙官宣了",
       "onboard_time": 1694660312,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1694652878,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2282599,
+      "num": 2288051,
+      "word": "茅台 渣男",
+      "onboard_time": 1694663321,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2100582,
@@ -73,6 +81,14 @@
       "onboard_time": 1694614367,
       "rank": 10,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 1353114,
+      "num": 1353114,
+      "word": "桂花龙井拿铁",
+      "onboard_time": 1694661336,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 1342589,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011985,
+      "num": 1011985,
+      "word": "茅台巧克力单颗价格或超20元",
+      "onboard_time": 1694664401,
+      "rank": 6,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 877285,
       "num": 877285,
       "word": "多地网友称看到UFO",
@@ -169,6 +193,14 @@
       "onboard_time": 1694653297,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 783692,
+      "num": 783692,
+      "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
+      "onboard_time": 1694663440,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709444,
@@ -267,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 573716,
-      "num": 573716,
-      "word": "桂花龙井拿铁",
-      "onboard_time": 1694661336,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 558585,
       "num": 558585,
       "word": "范特西奶茶",
@@ -297,6 +321,14 @@
       "onboard_time": 1694659053,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528934,
+      "num": 528934,
+      "word": "马斯克表态台湾是中国一部分",
+      "onboard_time": 1694664344,
+      "rank": 12,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 525888,
@@ -331,6 +363,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 500452,
+      "num": 500452,
+      "word": "肠胃不好可以早餐吃点烤馒头片",
+      "onboard_time": 1694661819,
+      "rank": 26,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 480776,
       "num": 480776,
       "word": "食品被顾客乱摸老板怒斥后全扔掉",
@@ -352,6 +392,14 @@
       "word": "她几十年来灭绝了30多个岛的老鼠",
       "onboard_time": 1694650837,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439984,
+      "num": 439984,
+      "word": "外星人一定就是人形吗",
+      "onboard_time": 1694661576,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -419,6 +467,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390158,
+      "num": 390158,
+      "word": "华为Mate60Pro需求高于预期",
+      "onboard_time": 1694663565,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 385601,
+      "num": 385601,
+      "word": "老刘不是家庭主妇性转版",
+      "onboard_time": 1694664041,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383146,
+      "num": 383146,
+      "word": "老友记 精神内核领先互联网二十年",
+      "onboard_time": 1694664640,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368437,
       "num": 368437,
       "word": "孟宴臣高启强 强强碰撞",
@@ -465,6 +537,14 @@
       "onboard_time": 1694651079,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347170,
+      "num": 317736,
+      "word": "被非洲的输液方式吓晕了",
+      "onboard_time": 1694664703,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 347136,
@@ -531,12 +611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319124,
+      "num": 319124,
+      "word": "洗澡时任妈妈摆布的小宝宝",
+      "onboard_time": 1694662601,
+      "rank": 29,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 315368,
       "num": 315368,
       "word": "野球帝回应9位师傅收入问题",
       "onboard_time": 1694648555,
       "rank": 26,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 315064,
+      "num": 315064,
+      "word": "区委副书记醉驾被查找人顶包",
+      "onboard_time": 1694661218,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314350,
@@ -563,14 +659,6 @@
       "category": "国内要闻,数码"
     },
     {
-      "raw_hot": 304404,
-      "num": 304404,
-      "word": "肠胃不好可以早餐吃点烤馒头片",
-      "onboard_time": 1694661819,
-      "rank": 26,
-      "category": "美食,知识科普"
-    },
-    {
       "raw_hot": 298118,
       "num": 298118,
       "word": "JINI将solo出道",
@@ -585,6 +673,14 @@
       "onboard_time": 1694601516,
       "rank": 28,
       "category": "美妆,财经"
+    },
+    {
+      "raw_hot": 289981,
+      "num": 289981,
+      "word": "中国铁路",
+      "onboard_time": 1694663800,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285109,
@@ -603,20 +699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278629,
-      "num": 278629,
-      "word": "区委副书记醉驾被查找人顶包",
-      "onboard_time": 1694661218,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274236,
       "num": 274236,
       "word": "王霏霏黄仁俊钟辰乐跳了热烈",
       "onboard_time": 1694660194,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273128,
+      "num": 273128,
+      "word": "90后男老师课间和学生快乐跳操",
+      "onboard_time": 1694664703,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 268616,
@@ -675,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251577,
+      "num": 251577,
+      "word": "S13赛程时间正式公布",
+      "onboard_time": 1694663921,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250068,
       "num": 250068,
       "word": "原来七窍流血是侯明昊自己提的",
@@ -689,6 +793,14 @@
       "onboard_time": 1694648373,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248635,
+      "num": 248635,
+      "word": "当我买到了华为MateX5",
+      "onboard_time": 1694664280,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 248283,
@@ -755,12 +867,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 231370,
-      "num": 231370,
-      "word": "外星人一定就是人形吗",
-      "onboard_time": 1694661576,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 232211,
+      "num": 232211,
+      "word": "华晨宇演唱会帮歌迷修手机",
+      "onboard_time": 1694662601,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 227190,
@@ -819,6 +931,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 213194,
+      "num": 213194,
+      "word": "肖战说不断产出才能走得长远",
+      "onboard_time": 1694664703,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212577,
       "num": 212577,
       "word": "一诺",
@@ -867,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208380,
+      "num": 208380,
+      "word": "16岁骨癌女孩立志要学中医",
+      "onboard_time": 1694664227,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207701,
       "num": 207701,
       "word": "花轿喜事今日大结局",
@@ -883,12 +1011,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204489,
+      "num": 204489,
+      "word": "高铁化妆争议视频制作方回应",
+      "onboard_time": 1694664881,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203437,
       "num": 203437,
       "word": "小说女主待遇级别外貌",
       "onboard_time": 1694631673,
       "rank": 44,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 199057,
+      "num": 199057,
+      "word": "倪妮叶流西美拉德穿搭",
+      "onboard_time": 1694663321,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 196708,
@@ -1075,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108615,
+      "num": 1523132,
+      "word": "2023网络名人贵州行",
+      "onboard_time": 1694664164,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105237,
       "num": 92512,
       "word": "欧美明星居然都这么抗老了",
@@ -1201,6 +1353,9 @@
     },
     {
       "word": "#提升网络互联互通水平#"
+    },
+    {
+      "word": "#习近平向2023北京文化论坛致贺信#"
     }
   ]
 }
