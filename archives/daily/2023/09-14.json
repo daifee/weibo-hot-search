@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694657006167,
+  "endTime": 1694658131304,
   "band_list": [
     {
       "raw_hot": 3893427,
@@ -43,16 +43,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1705029,
-      "num": 1705029,
+      "raw_hot": 1781995,
+      "num": 1781995,
       "word": "郁美净终于通网",
       "onboard_time": 1694654435,
       "rank": 18,
       "category": "美妆"
     },
     {
-      "raw_hot": 1607635,
-      "num": 1607635,
+      "raw_hot": 1614529,
+      "num": 1614529,
       "word": "北师大研究生因2字报考事业单位遭拒",
       "onboard_time": 1694654735,
       "rank": 30,
@@ -121,6 +121,14 @@
       "onboard_time": 1694652517,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931795,
+      "num": 931795,
+      "word": "你的钱也不是天上刮来的",
+      "onboard_time": 1694656716,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 877285,
@@ -227,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 525888,
+      "num": 525888,
+      "word": "逆水寒 丑衣服",
+      "onboard_time": 1694655634,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 523669,
       "num": 523669,
       "word": "70岁房东失联租客察觉不对果断报警",
@@ -249,14 +265,6 @@
       "onboard_time": 1694580103,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447984,
-      "num": 447984,
-      "word": "逆水寒 丑衣服",
-      "onboard_time": 1694655634,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 440250,
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418108,
-      "num": 418108,
-      "word": "你的钱也不是天上刮来的",
-      "onboard_time": 1694656716,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408535,
       "num": 408535,
       "word": "成毅发了2018年的文案",
@@ -321,6 +321,14 @@
       "onboard_time": 1694600797,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 406779,
+      "num": 406779,
+      "word": "霍启刚担任中粮集团外部董事",
+      "onboard_time": 1694656536,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395116,
@@ -401,6 +409,14 @@
       "onboard_time": 1694616343,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324369,
+      "num": 324369,
+      "word": "赵本山和范伟的经典合作小品",
+      "onboard_time": 1694656774,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 315368,
@@ -521,6 +537,14 @@
       "onboard_time": 1694648313,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247682,
+      "num": 247682,
+      "word": "华为MateX5全面开售",
+      "onboard_time": 1694657617,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 245895,
@@ -659,6 +683,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 209742,
+      "num": 209742,
+      "word": "接下来几个月秦岭是这样的",
+      "onboard_time": 1694657314,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 209480,
+      "num": 209480,
+      "word": "杨天真为云为衫发声",
+      "onboard_time": 1694657855,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206314,
       "num": 206314,
       "word": "考研倒计时100天",
@@ -699,14 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186043,
-      "num": 186043,
-      "word": "赵本山和范伟的经典合作小品",
-      "onboard_time": 1694656774,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 183852,
       "num": 183852,
       "word": "武大靖 500的神",
@@ -739,20 +771,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 168015,
-      "num": 168015,
-      "word": "霍启刚担任中粮集团外部董事",
-      "onboard_time": 1694656536,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164127,
       "num": 164127,
       "word": "丁霞加盟波兰女排联赛",
       "onboard_time": 1694647229,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154528,
+      "num": 154528,
+      "word": "中秋国庆假期火车票日历",
+      "onboard_time": 1694657494,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 154352,
@@ -801,6 +833,14 @@
       "onboard_time": 1694646748,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 122630,
+      "num": 122630,
+      "word": "上海一幼儿园多名幼童疑遭虐待",
+      "onboard_time": 1694658034,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121393,
