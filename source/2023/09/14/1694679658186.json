@@ -1,0 +1,410 @@
+{
+  "runTime": 1694679658186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2261210,
+        "num": 2261210,
+        "word": "小偷1夜挖700斤芋头被抓农户笑了",
+        "onboard_time": 1694674834,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361914,
+        "num": 1361914,
+        "word": "他平等地骂每一个恋爱脑",
+        "onboard_time": 1694674357,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19899,
+        "num": 782573,
+        "word": "新时代成就巡礼",
+        "onboard_time": 1694658754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778163,
+        "num": 778163,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 740259,
+        "num": 740259,
+        "word": "警方通报上海一中学疑似发生投毒",
+        "onboard_time": 1694678315,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729299,
+        "num": 729299,
+        "word": "两名13岁学生将清洁漂白液倒入同学水杯",
+        "onboard_time": 1694678794,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 686880,
+        "num": 686880,
+        "word": "苍兰诀 全员上桌",
+        "onboard_time": 1694674716,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553263,
+        "num": 553263,
+        "word": "12306建议没买到票的用户立即候补",
+        "onboard_time": 1694668239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551094,
+        "num": 551094,
+        "word": "鸟巢第一人",
+        "onboard_time": 1694678375,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 441169,
+        "num": 441169,
+        "word": "水果味月饼的馅基本都是冬瓜做的",
+        "onboard_time": 1694676820,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1897863,
+        "num": 437542,
+        "word": "网友曝花西子五只化妆刷919元",
+        "onboard_time": 1694672674,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1764580,
+        "num": 435260,
+        "word": "张馨予玄学",
+        "onboard_time": 1694673334,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 981540,
+        "num": 427667,
+        "word": "杨幂翡翠",
+        "onboard_time": 1694678557,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 390392,
+        "num": 425100,
+        "word": "马斯克表态台湾是中国一部分",
+        "onboard_time": 1694664344,
+        "rank": 13,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 249489,
+        "num": 418294,
+        "word": "记者实测关闭电视开机广告用了3天",
+        "onboard_time": 1694670875,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701684,
+        "num": 414224,
+        "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+        "onboard_time": 1694668838,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411445,
+        "num": 411445,
+        "word": "空腹有氧",
+        "onboard_time": 1694676394,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 405719,
+        "num": 405719,
+        "word": "LOL所有人聊天功能恢复",
+        "onboard_time": 1694674955,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326162,
+        "num": 326162,
+        "word": "在香港遛个弯都像在演TVB",
+        "onboard_time": 1694673820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322736,
+        "num": 322736,
+        "word": "瘫痪小猫被中医医术1秒咔吧接回",
+        "onboard_time": 1694659175,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368056,
+        "num": 318872,
+        "word": "日本偶遇Angelababy逛街",
+        "onboard_time": 1694673155,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 305479,
+        "num": 305479,
+        "word": "于正新中式",
+        "onboard_time": 1694679096,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 295152,
+        "num": 295152,
+        "word": "5999元你会买华为还是苹果",
+        "onboard_time": 1694665429,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292116,
+        "num": 292116,
+        "word": "内陆的孩子羡慕了",
+        "onboard_time": 1694673756,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285308,
+        "num": 285308,
+        "word": "张踩铃又惨又好笑",
+        "onboard_time": 1694675375,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281461,
+        "num": 281461,
+        "word": "丞磊 infp",
+        "onboard_time": 1694673217,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250066,
+        "num": 250066,
+        "word": "吴昕5点半起床大理看日出",
+        "onboard_time": 1694677056,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229641,
+        "num": 229641,
+        "word": "大牙已在香港警局报案",
+        "onboard_time": 1694671834,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227409,
+        "num": 227409,
+        "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+        "onboard_time": 1694652878,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224645,
+        "num": 224645,
+        "word": "茅台董事长称酱香拿铁首日销售额超1亿",
+        "onboard_time": 1694665606,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 224612,
+        "num": 224612,
+        "word": "短道速滑",
+        "onboard_time": 1694678019,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218390,
+        "num": 218390,
+        "word": "华为Mate60Pro需求高于预期",
+        "onboard_time": 1694663565,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213548,
+        "num": 213548,
+        "word": "骄阳伴我 特效",
+        "onboard_time": 1694674055,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210122,
+        "num": 210122,
+        "word": "网友锐评南风知我意",
+        "onboard_time": 1694678253,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204418,
+        "num": 204418,
+        "word": "倪妮人前A人后C",
+        "onboard_time": 1694666983,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203780,
+        "num": 203780,
+        "word": "林孝埈小组第一晋级1500米半决赛",
+        "onboard_time": 1694679454,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202352,
+        "num": 202352,
+        "word": "王源玩狼人杀好人牌惨遭淘汰",
+        "onboard_time": 1694677594,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197939,
+        "num": 197939,
+        "word": "黄轩在自己评论区自问自答",
+        "onboard_time": 1694679035,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191239,
+        "num": 191239,
+        "word": "谢娜 郑乃馨是泰国的张一山",
+        "onboard_time": 1694668778,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183989,
+        "num": 183989,
+        "word": "对银行卡密码谨慎程度be like",
+        "onboard_time": 1694675315,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179130,
+        "num": 179130,
+        "word": "12306抢票",
+        "onboard_time": 1694652878,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178644,
+        "num": 178644,
+        "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
+        "onboard_time": 1694663440,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178561,
+        "num": 178561,
+        "word": "樊振东抵达杭州",
+        "onboard_time": 1694679218,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176292,
+        "num": 176292,
+        "word": "邓为风度银十双封",
+        "onboard_time": 1694668002,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174810,
+        "num": 174810,
+        "word": "被非洲的输液方式吓晕了",
+        "onboard_time": 1694664703,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173237,
+        "num": 173237,
+        "word": "妻子用头绳牵失明丈夫晨跑30年",
+        "onboard_time": 1694679336,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172125,
+        "num": 172125,
+        "word": "花西子",
+        "onboard_time": 1694653297,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162482,
+        "num": 162482,
+        "word": "异人之下老戏骨芭莎大片",
+        "onboard_time": 1694676336,
+        "rank": 47,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 160993,
+        "num": 160993,
+        "word": "上海一中学投毒事件学生均已出院",
+        "onboard_time": 1694679592,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147218,
+        "num": 147218,
+        "word": "魏大勋晒工作照",
+        "onboard_time": 1694677357,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同委内瑞拉总统会谈#"
+    }
+  }
+}
