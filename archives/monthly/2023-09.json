@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694668543135,
+  "endTime": 1694669639157,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1693959577,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2249042,
+      "num": 2249042,
+      "word": "5999元你会买华为还是苹果",
+      "onboard_time": 1694665429,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 2229924,
@@ -2201,14 +2209,6 @@
       "onboard_time": 1693554101,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1632209,
-      "num": 1632209,
-      "word": "5999元你会买华为还是苹果",
-      "onboard_time": 1694665429,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 1632080,
@@ -4065,6 +4065,14 @@
       "onboard_time": 1694495264,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023427,
+      "num": 518294,
+      "word": "谢娜 郑乃馨是泰国的张一山",
+      "onboard_time": 1694668778,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1021326,
@@ -6907,6 +6915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704671,
+      "num": 704671,
+      "word": "倪妮人前A人后C",
+      "onboard_time": 1694666983,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 703471,
       "num": 703471,
       "word": "Irene暂未续约SMTOWN",
@@ -7755,14 +7771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 650411,
-      "num": 562240,
-      "word": "倪妮人前A人后C",
-      "onboard_time": 1694666983,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 650119,
       "num": 650119,
       "word": "从此世上只有李莲花了",
@@ -8529,6 +8537,14 @@
       "onboard_time": 1694420498,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 608825,
+      "num": 608825,
+      "word": "12306建议没买到票的用户立即候补",
+      "onboard_time": 1694668239,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608587,
@@ -10427,6 +10443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 519221,
+      "num": 519221,
+      "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+      "onboard_time": 1694668838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519032,
       "num": 519032,
       "word": "范加尔暗示梅西拿世界杯是内定",
@@ -11993,6 +12017,14 @@
       "onboard_time": 1694388932,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 464208,
+      "num": 464208,
+      "word": "卡迪碧开通微博",
+      "onboard_time": 1694668120,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 464200,
@@ -16691,6 +16723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326707,
+      "num": 326707,
+      "word": "你们别气丞磊叔叔了",
+      "onboard_time": 1694668478,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326694,
       "num": 326694,
       "word": "542万杯酱香拿铁叠起来相当于95座珠峰",
@@ -17009,6 +17049,14 @@
       "onboard_time": 1694043990,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321379,
+      "num": 321379,
+      "word": "警方回应网传上海一初中投毒事件",
+      "onboard_time": 1694667703,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321366,
@@ -17353,14 +17401,6 @@
       "onboard_time": 1693801722,
       "rank": 28,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 315624,
-      "num": 315624,
-      "word": "警方回应网传上海一初中投毒事件",
-      "onboard_time": 1694667703,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315539,
@@ -19827,6 +19867,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 271234,
+      "num": 271234,
+      "word": "李维嘉看李昊用手喂赵一博的眼神",
+      "onboard_time": 1694669435,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271227,
       "num": 271227,
       "word": "郑智",
@@ -21299,6 +21347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248036,
+      "num": 248036,
+      "word": "我们有我们自己的外星遗骸",
+      "onboard_time": 1694669021,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 247940,
       "num": 247940,
       "word": "男子为蹭热度制造河道淘金谣言",
@@ -22257,14 +22313,6 @@
       "onboard_time": 1694049455,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235233,
-      "num": 235233,
-      "word": "卡迪碧开通微博",
-      "onboard_time": 1694668120,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 234645,
@@ -23243,14 +23291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222370,
-      "num": 222370,
-      "word": "你们别气丞磊叔叔了",
-      "onboard_time": 1694668478,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222329,
       "num": 222329,
       "word": "再见爱人3定档",
@@ -23409,14 +23449,6 @@
       "onboard_time": 1693976199,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220581,
-      "num": 395720,
-      "word": "12306建议没买到票的用户立即候补",
-      "onboard_time": 1694668239,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220572,
@@ -24249,6 +24281,14 @@
       "onboard_time": 1694160155,
       "rank": 34,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 210891,
+      "num": 210891,
+      "word": "何同学再次和库克见面",
+      "onboard_time": 1694669496,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 210862,
@@ -27043,6 +27083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191481,
+      "num": 191481,
+      "word": "Note13",
+      "onboard_time": 1694400877,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191479,
       "num": 191479,
       "word": "老番茄婚礼Vlog",
@@ -29585,14 +29633,6 @@
       "onboard_time": 1693894894,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165344,
-      "num": 165344,
-      "word": "Note13",
-      "onboard_time": 1694400877,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 165211,

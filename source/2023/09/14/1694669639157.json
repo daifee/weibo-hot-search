@@ -1,0 +1,410 @@
+{
+  "runTime": 1694669639157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6082604,
+        "num": 6082604,
+        "word": "茅台 我和德芙官宣了",
+        "onboard_time": 1694660312,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2249042,
+        "num": 2249042,
+        "word": "5999元你会买华为还是苹果",
+        "onboard_time": 1694665429,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76559,
+        "num": 1014938,
+        "word": "2023网络名人贵州行",
+        "onboard_time": 1694664164,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917120,
+        "num": 917120,
+        "word": "马斯克表态台湾是中国一部分",
+        "onboard_time": 1694664344,
+        "rank": 3,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 769082,
+        "num": 769082,
+        "word": "桂花龙井拿铁",
+        "onboard_time": 1694661336,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 704671,
+        "num": 704671,
+        "word": "倪妮人前A人后C",
+        "onboard_time": 1694666983,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610198,
+        "num": 610198,
+        "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
+        "onboard_time": 1694663440,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608825,
+        "num": 608825,
+        "word": "12306建议没买到票的用户立即候补",
+        "onboard_time": 1694668239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604671,
+        "num": 604671,
+        "word": "高空抛烟头烫伤4个月婴儿全楼测DNA",
+        "onboard_time": 1694652878,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519221,
+        "num": 519221,
+        "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+        "onboard_time": 1694668838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023427,
+        "num": 518294,
+        "word": "谢娜 郑乃馨是泰国的张一山",
+        "onboard_time": 1694668778,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514370,
+        "num": 514370,
+        "word": "茅台巧克力 0.25花西币",
+        "onboard_time": 1694666505,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 507626,
+        "num": 507626,
+        "word": "邓为风度银十双封",
+        "onboard_time": 1694668002,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 506106,
+        "num": 506106,
+        "word": "12306抢票",
+        "onboard_time": 1694652878,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149441,
+        "num": 504468,
+        "word": "广东鳄鱼暴雨中出逃已抓回36条",
+        "onboard_time": 1694652939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503659,
+        "num": 503659,
+        "word": "茅台巧克力单颗价格或超20元",
+        "onboard_time": 1694664401,
+        "rank": 15,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 464208,
+        "num": 464208,
+        "word": "卡迪碧开通微博",
+        "onboard_time": 1694668120,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460638,
+        "num": 460638,
+        "word": "单依纯满眼对学分的渴望",
+        "onboard_time": 1694665906,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423429,
+        "num": 423429,
+        "word": "花西子",
+        "onboard_time": 1694653297,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 394907,
+        "num": 394907,
+        "word": "13快男问什么时候能接活儿",
+        "onboard_time": 1694668299,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714301,
+        "num": 392156,
+        "word": "茅台董事长称酱香拿铁首日销售额超1亿",
+        "onboard_time": 1694665606,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 420272,
+        "num": 389982,
+        "word": "被非洲的输液方式吓晕了",
+        "onboard_time": 1694664703,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386590,
+        "num": 386590,
+        "word": "瘫痪小猫被中医医术1秒咔吧接回",
+        "onboard_time": 1694659175,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379986,
+        "num": 379986,
+        "word": "茅台 渣男",
+        "onboard_time": 1694663321,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374661,
+        "num": 374661,
+        "word": "沈腾张颂文朱一龙同框",
+        "onboard_time": 1694667401,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369859,
+        "num": 369859,
+        "word": "北师大研究生因2字报考事业单位遭拒",
+        "onboard_time": 1694654735,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 336507,
+        "num": 336507,
+        "word": "华为Mate60Pro需求高于预期",
+        "onboard_time": 1694663565,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333049,
+        "num": 333049,
+        "word": "四六级报名",
+        "onboard_time": 1694666505,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 326707,
+        "num": 326707,
+        "word": "你们别气丞磊叔叔了",
+        "onboard_time": 1694668478,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321379,
+        "num": 321379,
+        "word": "警方回应网传上海一初中投毒事件",
+        "onboard_time": 1694667703,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289036,
+        "num": 289036,
+        "word": "虞书欣卢昱晓hi6上班路透",
+        "onboard_time": 1694666627,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288760,
+        "num": 288760,
+        "word": "张凌赫愿意做金靖的男主角",
+        "onboard_time": 1694665305,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275523,
+        "num": 275523,
+        "word": "老友记 精神内核领先互联网二十年",
+        "onboard_time": 1694664640,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275324,
+        "num": 275324,
+        "word": "上海一幼儿园多名幼童疑遭虐待",
+        "onboard_time": 1694658034,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271234,
+        "num": 271234,
+        "word": "李维嘉看李昊用手喂赵一博的眼神",
+        "onboard_time": 1694669435,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270447,
+        "num": 270447,
+        "word": "中国铁路",
+        "onboard_time": 1694663800,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265454,
+        "num": 265454,
+        "word": "华为Mate60发布会定档",
+        "onboard_time": 1694655216,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248036,
+        "num": 248036,
+        "word": "我们有我们自己的外星遗骸",
+        "onboard_time": 1694669021,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 246270,
+        "num": 246270,
+        "word": "范特西奶茶",
+        "onboard_time": 1694659956,
+        "rank": 38,
+        "category": "美食,音乐"
+      },
+      {
+        "raw_hot": 238795,
+        "num": 238795,
+        "word": "刘诗诗加盟最美表演",
+        "onboard_time": 1694666143,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235469,
+        "num": 235469,
+        "word": "肖战说不断产出才能走得长远",
+        "onboard_time": 1694664703,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223834,
+        "num": 223834,
+        "word": "终究是瑞幸错付了",
+        "onboard_time": 1694667165,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221622,
+        "num": 221622,
+        "word": "周杰伦脚受伤",
+        "onboard_time": 1694666207,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211681,
+        "num": 211681,
+        "word": "外星人一定就是人形吗",
+        "onboard_time": 1694661576,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210891,
+        "num": 210891,
+        "word": "何同学再次和库克见面",
+        "onboard_time": 1694669496,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204685,
+        "num": 204685,
+        "word": "肠胃不好可以早餐吃点烤馒头片",
+        "onboard_time": 1694661819,
+        "rank": 45,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 192500,
+        "num": 192500,
+        "word": "gidle澳门抢票",
+        "onboard_time": 1694665723,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191481,
+        "num": 191481,
+        "word": "Note13",
+        "onboard_time": 1694669621,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190799,
+        "num": 190799,
+        "word": "亚运会",
+        "onboard_time": 1694669621,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189558,
+        "num": 189558,
+        "word": "洗澡时任妈妈摆布的小宝宝",
+        "onboard_time": 1694662601,
+        "rank": 49,
+        "category": "母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023北京文化论坛致贺信#"
+    }
+  }
+}

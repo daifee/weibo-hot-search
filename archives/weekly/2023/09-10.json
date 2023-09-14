@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694668543135,
+  "endTime": 1694669639157,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2249042,
+      "num": 2249042,
+      "word": "5999元你会买华为还是苹果",
+      "onboard_time": 1694665429,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2203736,
       "num": 553520,
       "word": "79元对于普通人来说意味着什么",
@@ -897,14 +905,6 @@
       "onboard_time": 1694561612,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1632209,
-      "num": 1632209,
-      "word": "5999元你会买华为还是苹果",
-      "onboard_time": 1694665429,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 1632080,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1694495264,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023427,
+      "num": 518294,
+      "word": "谢娜 郑乃馨是泰国的张一山",
+      "onboard_time": 1694668778,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1017284,
@@ -2379,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704671,
+      "num": 704671,
+      "word": "倪妮人前A人后C",
+      "onboard_time": 1694666983,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 703471,
       "num": 703471,
       "word": "Irene暂未续约SMTOWN",
@@ -2561,14 +2577,6 @@
       "onboard_time": 1694319574,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 650411,
-      "num": 562240,
-      "word": "倪妮人前A人后C",
-      "onboard_time": 1694666983,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 649395,
@@ -2841,6 +2849,14 @@
       "onboard_time": 1694420498,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 608825,
+      "num": 608825,
+      "word": "12306建议没买到票的用户立即候补",
+      "onboard_time": 1694668239,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608587,
@@ -3395,6 +3411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 519221,
+      "num": 519221,
+      "word": "鸿星尔克主播拿鞋用蜂花洗头发",
+      "onboard_time": 1694668838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518846,
       "num": 570497,
       "word": "广西玉林多起山体滑坡已致7人遇难",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1694388932,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 464208,
+      "num": 464208,
+      "word": "卡迪碧开通微博",
+      "onboard_time": 1694668120,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 464065,
@@ -5451,6 +5483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326707,
+      "num": 326707,
+      "word": "你们别气丞磊叔叔了",
+      "onboard_time": 1694668478,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326492,
       "num": 326492,
       "word": "杨幂写真中的非遗元素",
@@ -5545,6 +5585,14 @@
       "onboard_time": 1694417556,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321379,
+      "num": 321379,
+      "word": "警方回应网传上海一初中投毒事件",
+      "onboard_time": 1694667703,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321140,
@@ -5665,14 +5713,6 @@
       "onboard_time": 1694340034,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315624,
-      "num": 315624,
-      "word": "警方回应网传上海一初中投毒事件",
-      "onboard_time": 1694667703,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315487,
@@ -6539,6 +6579,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 271234,
+      "num": 271234,
+      "word": "李维嘉看李昊用手喂赵一博的眼神",
+      "onboard_time": 1694669435,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271227,
       "num": 271227,
       "word": "郑智",
@@ -7027,6 +7075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248036,
+      "num": 248036,
+      "word": "我们有我们自己的外星遗骸",
+      "onboard_time": 1694669021,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 247773,
       "num": 247773,
       "word": "两只黄鹂鸣翠柳 一块布上五条狗",
@@ -7329,14 +7385,6 @@
       "onboard_time": 1694619998,
       "rank": 34,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 235233,
-      "num": 235233,
-      "word": "卡迪碧开通微博",
-      "onboard_time": 1694668120,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 234514,
@@ -7699,14 +7747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222370,
-      "num": 222370,
-      "word": "你们别气丞磊叔叔了",
-      "onboard_time": 1694668478,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222313,
       "num": 222313,
       "word": "难怪兰夫人会emo",
@@ -7761,14 +7801,6 @@
       "onboard_time": 1694654735,
       "rank": 33,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 220581,
-      "num": 395720,
-      "word": "12306建议没买到票的用户立即候补",
-      "onboard_time": 1694668239,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220153,
@@ -8105,6 +8137,14 @@
       "onboard_time": 1694582737,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210891,
+      "num": 210891,
+      "word": "何同学再次和库克见面",
+      "onboard_time": 1694669496,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 210861,
@@ -9091,6 +9131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191481,
+      "num": 191481,
+      "word": "Note13",
+      "onboard_time": 1694400877,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191272,
       "num": 191272,
       "word": "中国赛梁伟铿王昶夺冠",
@@ -9105,6 +9153,14 @@
       "onboard_time": 1694275236,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190799,
+      "num": 190799,
+      "word": "亚运会",
+      "onboard_time": 1694669621,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 190624,
@@ -9993,14 +10049,6 @@
       "onboard_time": 1694488420,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165344,
-      "num": 165344,
-      "word": "Note13",
-      "onboard_time": 1694400877,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 165183,
