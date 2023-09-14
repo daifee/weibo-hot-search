@@ -1,6 +1,6 @@
 {
   "startTime": 1694622053031,
-  "endTime": 1694679658186,
+  "endTime": 1694680465367,
   "band_list": [
     {
       "raw_hot": 9881032,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2429427,
-      "num": 447825,
+      "num": 478633,
       "word": "网友曝花西子五只化妆刷919元",
       "onboard_time": 1694672674,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1804030,
-      "num": 435260,
+      "num": 497584,
       "word": "张馨予玄学",
       "onboard_time": 1694673334,
       "rank": 11,
@@ -137,6 +137,14 @@
       "onboard_time": 1694661336,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1371231,
+      "num": 469771,
+      "word": "杨幂翡翠",
+      "onboard_time": 1694678557,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1361914,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033927,
+      "num": 1033927,
+      "word": "两名13岁学生将清洁漂白液倒入同学水杯",
+      "onboard_time": 1694678794,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1012866,
       "num": 1012866,
       "word": "霍启刚履新",
@@ -259,12 +275,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 981540,
-      "num": 427667,
-      "word": "杨幂翡翠",
-      "onboard_time": 1694678557,
-      "rank": 12,
-      "category": "作品衍生,时尚"
+      "raw_hot": 1011100,
+      "num": 1011100,
+      "word": "鸟巢第一人",
+      "onboard_time": 1694678375,
+      "rank": 8,
+      "category": "知识科普"
     },
     {
       "raw_hot": 877285,
@@ -321,14 +337,6 @@
       "onboard_time": 1694678315,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 729299,
-      "num": 729299,
-      "word": "两名13岁学生将清洁漂白液倒入同学水杯",
-      "onboard_time": 1694678794,
-      "rank": 5,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 715844,
@@ -451,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 569867,
+      "num": 419267,
+      "word": "林允用爽肤水洗脸",
+      "onboard_time": 1694679821,
+      "rank": 16,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 567743,
       "num": 567743,
       "word": "邓为风度银十双封",
@@ -473,14 +489,6 @@
       "onboard_time": 1694659956,
       "rank": 17,
       "category": "美食,音乐"
-    },
-    {
-      "raw_hot": 551094,
-      "num": 551094,
-      "word": "鸟巢第一人",
-      "onboard_time": 1694678375,
-      "rank": 8,
-      "category": "知识科普"
     },
     {
       "raw_hot": 550466,
@@ -609,6 +617,14 @@
       "onboard_time": 1694673756,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445143,
+      "num": 410483,
+      "word": "于正新中式",
+      "onboard_time": 1694679096,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 441169,
@@ -777,6 +793,14 @@
       "onboard_time": 1694663800,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371045,
+      "num": 371045,
+      "word": "戚薇不反对Lucky进演艺圈",
+      "onboard_time": 1694680115,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 368437,
@@ -995,14 +1019,6 @@
       "category": "国内要闻,数码"
     },
     {
-      "raw_hot": 305479,
-      "num": 305479,
-      "word": "于正新中式",
-      "onboard_time": 1694679096,
-      "rank": 21,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 299910,
       "num": 299910,
       "word": "刘诗诗加盟最美表演",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1694653658,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281522,
+      "num": 349630,
+      "word": "林孝埈小组第一晋级1500米半决赛",
+      "onboard_time": 1694679454,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 274236,
@@ -1131,6 +1155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 262255,
+      "num": 262255,
+      "word": "吴昕5点半起床大理看日出",
+      "onboard_time": 1694677056,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262177,
       "num": 207585,
       "word": "对银行卡密码谨慎程度be like",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1694618324,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250066,
-      "num": 250066,
-      "word": "吴昕5点半起床大理看日出",
-      "onboard_time": 1694677056,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 249751,
@@ -1243,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241173,
+      "num": 241173,
+      "word": "网友锐评南风知我意",
+      "onboard_time": 1694678253,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239593,
       "num": 229340,
       "word": "张彩铃又惨又好笑",
@@ -1275,12 +1307,28 @@
       "category": "自然"
     },
     {
+      "raw_hot": 235736,
+      "num": 235736,
+      "word": "陈楚生直播",
+      "onboard_time": 1694679876,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235603,
       "num": 235603,
       "word": "秋天最适合的穿搭公式就是叠穿",
       "onboard_time": 1694619998,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 233176,
+      "num": 233176,
+      "word": "妻子用头绳牵失明丈夫晨跑30年",
+      "onboard_time": 1694679336,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232789,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1694655696,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225317,
+      "num": 225317,
+      "word": "李在明已绝食抗议15天",
+      "onboard_time": 1694679934,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 224612,
@@ -1371,6 +1427,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 219783,
+      "num": 219783,
+      "word": "刘宇郑乃馨豪门姐弟既视感",
+      "onboard_time": 1694680055,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218486,
       "num": 218486,
       "word": "电信没信号",
@@ -1427,14 +1491,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 210122,
-      "num": 210122,
-      "word": "网友锐评南风知我意",
-      "onboard_time": 1694678253,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209436,
       "num": 209436,
       "word": "张晚意说演员要好好体验生活",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1694670218,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203780,
-      "num": 203780,
-      "word": "林孝埈小组第一晋级1500米半决赛",
-      "onboard_time": 1694679454,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 203437,
@@ -1611,8 +1659,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178561,
-      "num": 178561,
+      "raw_hot": 180458,
+      "num": 180458,
       "word": "樊振东抵达杭州",
       "onboard_time": 1694679218,
       "rank": 42,
@@ -1649,14 +1697,6 @@
       "onboard_time": 1694621075,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173237,
-      "num": 173237,
-      "word": "妻子用头绳牵失明丈夫晨跑30年",
-      "onboard_time": 1694679336,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170492,
@@ -1959,6 +1999,14 @@
       "num": 1477263,
       "word": "高校开学校长寄语合集",
       "onboard_time": 1694578783,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8605,
+      "num": 1131667,
+      "word": "中国的朋友圈会越来越广",
+      "onboard_time": 1694680419,
       "rank": 2,
       "category": "社会新闻"
     }
