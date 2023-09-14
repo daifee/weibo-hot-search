@@ -1,0 +1,410 @@
+{
+  "runTime": 1694700976122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2708719,
+        "num": 2708719,
+        "word": "高铁上化妆列为不文明行为网友为何不认可",
+        "onboard_time": 1694694097,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2093064,
+        "num": 2093064,
+        "word": "外媒曝Lisa拒绝和YG续约",
+        "onboard_time": 1694692596,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39456,
+        "num": 1477879,
+        "word": "中国的朋友圈会越来越广",
+        "onboard_time": 1694680419,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 911137,
+        "num": 911137,
+        "word": "官方回应北极鲶鱼事件调查结果不公开",
+        "onboard_time": 1694695115,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800417,
+        "num": 800417,
+        "word": "iPhone14价格不降反涨",
+        "onboard_time": 1694691756,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 694013,
+        "num": 694013,
+        "word": "终于学会耳后双C发型了",
+        "onboard_time": 1694696255,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 628846,
+        "num": 628846,
+        "word": "云为衫掉马",
+        "onboard_time": 1694697699,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 598834,
+        "num": 598834,
+        "word": "男子买彩票中5544万到手4444万",
+        "onboard_time": 1694681272,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508445,
+        "num": 508445,
+        "word": "宫二终于知道了谁才是无锋首领",
+        "onboard_time": 1694690135,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442771,
+        "num": 442771,
+        "word": "郁美净不到一天涨粉32万",
+        "onboard_time": 1694691756,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 2385437,
+        "num": 439767,
+        "word": "杨紫高定",
+        "onboard_time": 1694698897,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 580141,
+        "num": 432768,
+        "word": "奈雪按销售情况向周杰伦支付IP费",
+        "onboard_time": 1694699859,
+        "rank": 11,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 179343,
+        "num": 416575,
+        "word": "入职体检报告写表情呆滞智商偏低",
+        "onboard_time": 1694685098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146195,
+        "num": 408045,
+        "word": "天边的这场求婚仪式好甜",
+        "onboard_time": 1694699318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93886,
+        "num": 404820,
+        "word": "12306建议没买到票的用户立即候补",
+        "onboard_time": 1694668239,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447613,
+        "num": 391748,
+        "word": "艾米好漂亮",
+        "onboard_time": 1694696853,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443303,
+        "num": 384739,
+        "word": "张馨予玄学",
+        "onboard_time": 1694673334,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376518,
+        "num": 376518,
+        "word": "上海3元一个的米其林包子值得排队吃吗",
+        "onboard_time": 1694698118,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348996,
+        "num": 348996,
+        "word": "点竹是谁",
+        "onboard_time": 1694697634,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330560,
+        "num": 330560,
+        "word": "马立奥终于学会了两轮的自行车",
+        "onboard_time": 1694697097,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540021,
+        "num": 328043,
+        "word": "继祖父多次性侵6岁女童获刑13年",
+        "onboard_time": 1694692294,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530312,
+        "num": 325128,
+        "word": "20岁女孩从未来例假一查竟是男儿身",
+        "onboard_time": 1694697758,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320798,
+        "num": 320798,
+        "word": "再也不会谈的星座",
+        "onboard_time": 1694696977,
+        "rank": 22,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 317022,
+        "num": 317022,
+        "word": "人群中一眼看到王子文",
+        "onboard_time": 1694698359,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311489,
+        "num": 311489,
+        "word": "最好嗑的是宫尚角这一刻的失望和烦闷",
+        "onboard_time": 1694700164,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300701,
+        "num": 300701,
+        "word": "成都停电",
+        "onboard_time": 1694700282,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290670,
+        "num": 290670,
+        "word": "宋紫薇 离职",
+        "onboard_time": 1694689293,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 281929,
+        "num": 281929,
+        "word": "正式被确诊为傅云深",
+        "onboard_time": 1694699080,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280318,
+        "num": 280318,
+        "word": "内马尔姆巴佩社媒互相取关",
+        "onboard_time": 1694693439,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279231,
+        "num": 279231,
+        "word": "演员马卫军去世",
+        "onboard_time": 1694684736,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271340,
+        "num": 271340,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1694691033,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245776,
+        "num": 245776,
+        "word": "张凌赫说谢危快来了",
+        "onboard_time": 1694698417,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242467,
+        "num": 242467,
+        "word": "网友曝花西子五只化妆刷919元",
+        "onboard_time": 1694672674,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 300166,
+        "num": 241580,
+        "word": "宫尚角上官浅鸳鸯浴",
+        "onboard_time": 1694697337,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240394,
+        "num": 240394,
+        "word": "当我的素质极差朋友有了iwatch后",
+        "onboard_time": 1694698236,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238447,
+        "num": 238447,
+        "word": "国庆档有11部电影",
+        "onboard_time": 1694693197,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225837,
+        "num": 225837,
+        "word": "林允用爽肤水洗脸",
+        "onboard_time": 1694679821,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 212989,
+        "num": 212989,
+        "word": "成毅首钢大跳台彩排",
+        "onboard_time": 1694696977,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201411,
+        "num": 201411,
+        "word": "我妈送我一床崭新的床单",
+        "onboard_time": 1694695716,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194281,
+        "num": 194281,
+        "word": "零社交的人周末都怎么过",
+        "onboard_time": 1694700338,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193608,
+        "num": 193608,
+        "word": "广东人怎么连树枝都用来煲汤",
+        "onboard_time": 1694696376,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190937,
+        "num": 190937,
+        "word": "61岁女性的人生领悟",
+        "onboard_time": 1694700458,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188274,
+        "num": 188274,
+        "word": "有史以来最全面的UFO外形",
+        "onboard_time": 1694700218,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 187177,
+        "num": 187177,
+        "word": "李在明要绝食到体力不支昏倒为止",
+        "onboard_time": 1694691814,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 184702,
+        "num": 184702,
+        "word": "深圳人已经开始喝上冰中式了",
+        "onboard_time": 1694687434,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183761,
+        "num": 183761,
+        "word": "如何看待大学生占座行为",
+        "onboard_time": 1694695898,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165873,
+        "num": 165873,
+        "word": "宋茜杜莎蜡像",
+        "onboard_time": 1694697337,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161075,
+        "num": 161075,
+        "word": "电影封神第一部北美上映短预告",
+        "onboard_time": 1694695898,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143819,
+        "num": 143819,
+        "word": "青提橘橘冰茉莉",
+        "onboard_time": 1694699435,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139283,
+        "num": 139283,
+        "word": "盛阳主动吻简冰",
+        "onboard_time": 1694694937,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023北京文化论坛致贺信#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694698573744,
+  "endTime": 1694700976122,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -363,6 +363,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 2708719,
+      "num": 2708719,
+      "word": "高铁上化妆列为不文明行为网友为何不认可",
+      "onboard_time": 1694694097,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2692816,
       "num": 569397,
       "word": "上海胸外科医生回应李佳琦言论",
@@ -457,6 +465,14 @@
       "onboard_time": 1694497779,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2385437,
+      "num": 439767,
+      "word": "杨紫高定",
+      "onboard_time": 1694698897,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2374095,
@@ -921,14 +937,6 @@
       "onboard_time": 1694419296,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1709461,
-      "num": 1709461,
-      "word": "高铁上化妆列为不文明行为网友为何不认可",
-      "onboard_time": 1694694097,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1701778,
@@ -2699,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694013,
+      "num": 694013,
+      "word": "终于学会耳后双C发型了",
+      "onboard_time": 1694696255,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 690830,
       "num": 690830,
       "word": "国航CA403疑左侧发动机起火",
@@ -2953,6 +2969,14 @@
       "onboard_time": 1694321074,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 628846,
+      "num": 628846,
+      "word": "云为衫掉马",
+      "onboard_time": 1694697699,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 628516,
@@ -3265,6 +3289,14 @@
       "onboard_time": 1694441809,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580141,
+      "num": 432768,
+      "word": "奈雪按销售情况向周杰伦支付IP费",
+      "onboard_time": 1694699859,
+      "rank": 11,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 579885,
@@ -3611,6 +3643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 530312,
+      "num": 325128,
+      "word": "20岁女孩从未来例假一查竟是男儿身",
+      "onboard_time": 1694697758,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529279,
       "num": 529279,
       "word": "天官赐福动画定档海报",
@@ -3915,14 +3955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 501862,
-      "num": 501862,
-      "word": "云为衫掉马",
-      "onboard_time": 1694697699,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 501632,
       "num": 501632,
       "word": "魔法少女小圆",
@@ -4185,14 +4217,6 @@
       "onboard_time": 1694601817,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 473802,
-      "num": 257579,
-      "word": "终于学会耳后双C发型了",
-      "onboard_time": 1694696255,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 472147,
@@ -5219,6 +5243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376518,
+      "num": 376518,
+      "word": "上海3元一个的米其林包子值得排队吃吗",
+      "onboard_time": 1694698118,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 376467,
       "num": 376467,
       "word": "中国铁路",
@@ -5611,6 +5643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348996,
+      "num": 348996,
+      "word": "点竹是谁",
+      "onboard_time": 1694697634,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348490,
       "num": 348490,
       "word": "这就是街舞6",
@@ -5665,14 +5705,6 @@
       "onboard_time": 1694660135,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345478,
-      "num": 345478,
-      "word": "点竹是谁",
-      "onboard_time": 1694697634,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 344998,
@@ -6115,6 +6147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320798,
+      "num": 320798,
+      "word": "再也不会谈的星座",
+      "onboard_time": 1694696977,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 319785,
       "num": 319785,
       "word": "11岁男孩在叔叔的婚礼上放大招",
@@ -6193,6 +6233,14 @@
       "onboard_time": 1694682820,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317022,
+      "num": 317022,
+      "word": "人群中一眼看到王子文",
+      "onboard_time": 1694698359,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316901,
@@ -6329,6 +6377,14 @@
       "onboard_time": 1694616642,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311489,
+      "num": 311489,
+      "word": "最好嗑的是宫尚角这一刻的失望和烦闷",
+      "onboard_time": 1694700164,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 311427,
@@ -6587,6 +6643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 300701,
+      "num": 300701,
+      "word": "成都停电",
+      "onboard_time": 1694700282,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300477,
       "num": 460075,
       "word": "简阳一塔吊垮塌致6人死亡",
@@ -6601,6 +6665,14 @@
       "onboard_time": 1694437731,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300166,
+      "num": 252319,
+      "word": "宫尚角上官浅鸳鸯浴",
+      "onboard_time": 1694697337,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 299991,
@@ -7011,19 +7083,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282277,
-      "num": 282277,
-      "word": "再也不会谈的星座",
-      "onboard_time": 1694696977,
-      "rank": 31,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 282125,
       "num": 282125,
       "word": "原来七窍流血是侯明昊自己提的",
       "onboard_time": 1694618324,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281929,
+      "num": 281929,
+      "word": "正式被确诊为傅云深",
+      "onboard_time": 1694699080,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -7065,14 +7137,6 @@
       "onboard_time": 1694348433,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280170,
-      "num": 253789,
-      "word": "20岁女孩从未来例假一查竟是男儿身",
-      "onboard_time": 1694697758,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279621,
@@ -7627,14 +7691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252319,
-      "num": 252319,
-      "word": "宫尚角上官浅鸳鸯浴",
-      "onboard_time": 1694697337,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252142,
       "num": 154538,
       "word": "身材焦虑的时候听听泰勒说的吧",
@@ -7843,6 +7899,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 245776,
+      "num": 245776,
+      "word": "张凌赫说谢危快来了",
+      "onboard_time": 1694698417,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245177,
       "num": 194546,
       "word": "李钟硕跳Fighting",
@@ -7995,6 +8059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240394,
+      "num": 240394,
+      "word": "当我的素质极差朋友有了iwatch后",
+      "onboard_time": 1694698236,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 239898,
       "num": 239898,
       "word": "丞磊卢昱晓一起做棉花糖",
@@ -8009,14 +8081,6 @@
       "onboard_time": 1694318734,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239807,
-      "num": 239807,
-      "word": "上海3元一个的米其林包子值得排队吃吗",
-      "onboard_time": 1694698118,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 239593,
@@ -8137,14 +8201,6 @@
       "onboard_time": 1694619998,
       "rank": 34,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 235037,
-      "num": 235037,
-      "word": "当我的素质极差朋友有了iwatch后",
-      "onboard_time": 1694698236,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 234514,
@@ -9867,6 +9923,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 194281,
+      "num": 194281,
+      "word": "零社交的人周末都怎么过",
+      "onboard_time": 1694700338,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194210,
       "num": 194210,
       "word": "微博手机影像年",
@@ -10067,6 +10131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190937,
+      "num": 190937,
+      "word": "61岁女性的人生领悟",
+      "onboard_time": 1694700458,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190921,
       "num": 190921,
       "word": "张杰唱打嗝版天下",
@@ -10145,6 +10217,14 @@
       "onboard_time": 1694571458,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188274,
+      "num": 188274,
+      "word": "有史以来最全面的UFO外形",
+      "onboard_time": 1694700218,
+      "rank": 42,
+      "category": "知识科普"
     },
     {
       "raw_hot": 188227,
@@ -10459,6 +10539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183761,
+      "num": 183761,
+      "word": "如何看待大学生占座行为",
+      "onboard_time": 1694695898,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183742,
       "num": 311305,
       "word": "一个书包一声鸣笛的默契好暖",
@@ -10763,14 +10851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174127,
-      "num": 174127,
-      "word": "张凌赫说谢危快来了",
-      "onboard_time": 1694698417,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173254,
       "num": 605786,
       "word": "5起特大跨境电信诈骗案挂牌督办启动",
@@ -10817,14 +10897,6 @@
       "onboard_time": 1694359237,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171666,
-      "num": 171666,
-      "word": "如何看待大学生占座行为",
-      "onboard_time": 1694695898,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 171593,
@@ -11203,12 +11275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161031,
-      "num": 161031,
-      "word": "人群中一眼看到王子文",
-      "onboard_time": 1694698359,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 161075,
+      "num": 161075,
+      "word": "电影封神第一部北美上映短预告",
+      "onboard_time": 1694695898,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 160993,
@@ -11587,6 +11659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146195,
+      "num": 408045,
+      "word": "天边的这场求婚仪式好甜",
+      "onboard_time": 1694699318,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145863,
       "num": 145863,
       "word": "学生不订奶要开县级医院以上诊断证明",
@@ -11649,6 +11729,14 @@
       "onboard_time": 1694354496,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143819,
+      "num": 143819,
+      "word": "青提橘橘冰茉莉",
+      "onboard_time": 1694699435,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 143566,
@@ -12076,7 +12164,7 @@
     },
     {
       "raw_hot": 115331,
-      "num": 1303487,
+      "num": 1477879,
       "word": "中国的朋友圈会越来越广",
       "onboard_time": 1694680419,
       "rank": 2,
