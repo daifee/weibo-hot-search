@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694810051057,
+  "endTime": 1694812465493,
   "band_list": [
     {
       "raw_hot": 1975799,
@@ -451,20 +451,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 43021,
+      "num": 43021,
+      "word": "渤海海峡黄海北部执行军事任务",
+      "onboard_time": 1694807534,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 40759,
       "num": 571472,
       "word": "杭州亚运会宣传片爱之城",
       "onboard_time": 1694781815,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36789,
-      "num": 42845,
-      "word": "渤海海峡黄海北部执行军事任务",
-      "onboard_time": 1694807534,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 31786,
@@ -499,8 +499,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 22378,
-      "num": 22378,
+      "raw_hot": 27356,
+      "num": 27356,
       "word": "尤长靖 毕业之前来看演唱会",
       "onboard_time": 1694809694,
       "rank": 39,

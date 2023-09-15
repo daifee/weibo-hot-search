@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694810051057,
+  "endTime": 1694812465493,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -39019,6 +39019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43021,
+      "num": 43021,
+      "word": "渤海海峡黄海北部执行军事任务",
+      "onboard_time": 1694807534,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 42990,
       "num": 42990,
       "word": "画师工作环境",
@@ -39257,14 +39265,6 @@
       "onboard_time": 1694110517,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36789,
-      "num": 42845,
-      "word": "渤海海峡黄海北部执行军事任务",
-      "onboard_time": 1694807534,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 36660,
@@ -39651,6 +39651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27356,
+      "num": 27356,
+      "word": "尤长靖 毕业之前来看演唱会",
+      "onboard_time": 1694809694,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27270,
       "num": 27270,
       "word": "牛气冲天的云南火锅",
@@ -39849,14 +39857,6 @@
       "onboard_time": 1694599237,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 22378,
-      "num": 22378,
-      "word": "尤长靖 毕业之前来看演唱会",
-      "onboard_time": 1694809694,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 21554,
