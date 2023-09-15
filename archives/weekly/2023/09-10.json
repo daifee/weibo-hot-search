@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694752476838,
+  "endTime": 1694754937912,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2504910,
+      "num": 2504910,
+      "word": "YG回应Lisa拒绝续约",
+      "onboard_time": 1694753379,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2504450,
       "num": 536194,
       "word": "法国决定禁售iPhone12",
@@ -825,6 +833,14 @@
       "onboard_time": 1694433219,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1890944,
+      "num": 1890944,
+      "word": "高铁上有多容易偶遇香港明星",
+      "onboard_time": 1694749715,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1890402,
@@ -1739,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1105482,
-      "num": 1105482,
-      "word": "高铁上有多容易偶遇香港明星",
-      "onboard_time": 1694749715,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1104732,
       "num": 419081,
       "word": "BLACKPINK路人缘很好的成员",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1694427219,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 967033,
+      "num": 967033,
+      "word": "TF家族演唱会举办方被罚6万",
+      "onboard_time": 1694752239,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 958338,
@@ -2843,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721428,
+      "num": 721428,
+      "word": "肖战喊前夫哥是即兴发挥",
+      "onboard_time": 1694751821,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 719504,
       "num": 719504,
       "word": "中小学教师从事学科类校外培训将从重处罚",
@@ -2929,6 +2953,14 @@
       "onboard_time": 1694651798,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706533,
+      "num": 415763,
+      "word": "对方撤回了一个儿子",
+      "onboard_time": 1694752961,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 704671,
@@ -4691,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464865,
+      "num": 464865,
+      "word": "警方通报初中投毒者为2名13岁女生",
+      "onboard_time": 1694750136,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464792,
       "num": 433525,
       "word": "为什么排骨比瘦肉卖的贵",
@@ -4891,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445297,
+      "num": 445297,
+      "word": "云之羽女主身份牛牛偷听到了",
+      "onboard_time": 1694753978,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445212,
       "num": 289266,
       "word": "厦门一女子跳海自杀丈夫回应",
@@ -4913,6 +4961,14 @@
       "onboard_time": 1694444205,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442764,
+      "num": 442764,
+      "word": "Angelababy是配菜终结者",
+      "onboard_time": 1694752661,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 441514,
@@ -5227,14 +5283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423201,
-      "num": 423201,
-      "word": "肖战喊前夫哥是即兴发挥",
-      "onboard_time": 1694751821,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 423005,
       "num": 340928,
       "word": "少跟自己的好闺蜜一起睡觉",
@@ -5321,14 +5369,6 @@
       "onboard_time": 1694603076,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 415520,
-      "num": 415520,
-      "word": "TF家族演唱会举办方被罚6万",
-      "onboard_time": 1694752239,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 415213,
@@ -5473,14 +5513,6 @@
       "onboard_time": 1694669496,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 404943,
-      "num": 404943,
-      "word": "警方通报初中投毒者为2名13岁女生",
-      "onboard_time": 1694750136,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403970,
@@ -5673,6 +5705,14 @@
       "onboard_time": 1694316932,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385776,
+      "num": 385776,
+      "word": "结婚冷静期有人帮你们试了",
+      "onboard_time": 1694753261,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 384471,
@@ -5969,6 +6009,14 @@
       "onboard_time": 1694743535,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 362795,
+      "num": 362795,
+      "word": "周杰伦开不了口现场",
+      "onboard_time": 1694753437,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 361993,
@@ -6313,6 +6361,14 @@
       "onboard_time": 1694695716,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 341135,
+      "num": 341135,
+      "word": "高铁乘客花35买盒饭发现标价15",
+      "onboard_time": 1694754101,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340650,
@@ -7003,6 +7059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311230,
+      "num": 311230,
+      "word": "原来抹额是宫二的守宫砂和信号塔",
+      "onboard_time": 1694752419,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310645,
       "num": 310645,
       "word": "建议彭昱畅别看",
@@ -7443,6 +7507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 293648,
+      "num": 293648,
+      "word": "陈楚生吉他弹唱思念一个荒废的名字",
+      "onboard_time": 1694753978,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293246,
       "num": 293246,
       "word": "华为Mate60Pro+体验",
@@ -7600,6 +7672,14 @@
       "word": "东方甄选主播直播时称918是个好日子",
       "onboard_time": 1694401298,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286265,
+      "num": 286265,
+      "word": "12306客服建议过半小时再尝试",
+      "onboard_time": 1694754220,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -8971,6 +9051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233341,
+      "num": 233341,
+      "word": "李莲花嫁衣版",
+      "onboard_time": 1694752540,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233074,
       "num": 233074,
       "word": "韩素希确诊新冠",
@@ -9049,6 +9137,14 @@
       "onboard_time": 1694566304,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 231556,
+      "num": 231556,
+      "word": "宋雨琦的世巡City Dance",
+      "onboard_time": 1694752540,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 231088,
@@ -9225,6 +9321,14 @@
       "onboard_time": 1694347895,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225814,
+      "num": 225814,
+      "word": "猫咪托梦说猫粮不好吃",
+      "onboard_time": 1694754581,
+      "rank": 43,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 225792,
@@ -10115,6 +10219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205980,
+      "num": 205980,
+      "word": "星穹铁道符玄",
+      "onboard_time": 1694754521,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205765,
       "num": 205765,
       "word": "男子强买单搭讪失败攻击女子",
@@ -10425,6 +10537,14 @@
       "onboard_time": 1694325991,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200883,
+      "num": 200883,
+      "word": "南昌音乐节",
+      "onboard_time": 1694753800,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 200796,
@@ -11513,14 +11633,6 @@
       "onboard_time": 1694736454,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182493,
-      "num": 182493,
-      "word": "原来抹额是宫二的守宫砂和信号塔",
-      "onboard_time": 1694752419,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 182256,
@@ -14075,6 +14187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47277,
+      "num": 1377055,
+      "word": "用超长画卷打开5000年杭州",
+      "onboard_time": 1694753680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47223,
       "num": 880265,
       "word": "夜西湖点燃亚运之夜",
@@ -14265,6 +14385,14 @@
       "onboard_time": 1694540061,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31389,
+      "num": 334209,
+      "word": "方向盘交给谁放心又省钱",
+      "onboard_time": 1694754277,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 30785,
@@ -14461,6 +14589,9 @@
     },
     {
       "word": "#习近平对新时代办公厅工作作出重要指示#"
+    },
+    {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
     }
   ]
 }

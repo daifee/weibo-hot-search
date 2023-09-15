@@ -1,0 +1,410 @@
+{
+  "runTime": 1694754937912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2504910,
+        "num": 2504910,
+        "word": "YG回应Lisa拒绝续约",
+        "onboard_time": 1694753379,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1890944,
+        "num": 1890944,
+        "word": "高铁上有多容易偶遇香港明星",
+        "onboard_time": 1694749715,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47277,
+        "num": 1377055,
+        "word": "用超长画卷打开5000年杭州",
+        "onboard_time": 1694753680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166876,
+        "num": 1166876,
+        "word": "男子吃生腌海鲜后做4次手术失去1条腿",
+        "onboard_time": 1694746292,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140073,
+        "num": 1140073,
+        "word": "抢票 抢不到",
+        "onboard_time": 1694741794,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967033,
+        "num": 967033,
+        "word": "TF家族演唱会举办方被罚6万",
+        "onboard_time": 1694752239,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872568,
+        "num": 872568,
+        "word": "他从火光中走来 定档",
+        "onboard_time": 1694750976,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 821057,
+        "num": 821057,
+        "word": "恋与胡彦斌",
+        "onboard_time": 1694751158,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761159,
+        "num": 761159,
+        "word": "蜂花香皂 残障人士包装",
+        "onboard_time": 1694748699,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 721428,
+        "num": 721428,
+        "word": "肖战喊前夫哥是即兴发挥",
+        "onboard_time": 1694751821,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495853,
+        "num": 495853,
+        "word": "苹果要求员工对iPhone12辐射沉默",
+        "onboard_time": 1694746892,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 482169,
+        "num": 482169,
+        "word": "丫丫也养鸟了",
+        "onboard_time": 1694743835,
+        "rank": 11,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 464865,
+        "num": 464865,
+        "word": "警方通报初中投毒者为2名13岁女生",
+        "onboard_time": 1694750136,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316855,
+        "num": 456661,
+        "word": "超9成网友认为北极鲶鱼事件应公布结果",
+        "onboard_time": 1694740954,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281778,
+        "num": 454334,
+        "word": "中国人吃了全球91%的榴莲",
+        "onboard_time": 1694732844,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 453456,
+        "num": 453456,
+        "word": "boss直聘崩了",
+        "onboard_time": 1694747194,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 445742,
+        "num": 445742,
+        "word": "211女硕士遭杀猪盘两周被骗138万",
+        "onboard_time": 1694740954,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445297,
+        "num": 445297,
+        "word": "云之羽女主身份牛牛偷听到了",
+        "onboard_time": 1694753978,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442764,
+        "num": 442764,
+        "word": "Angelababy是配菜终结者",
+        "onboard_time": 1694752661,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439447,
+        "num": 439447,
+        "word": "网红峰哥亲历缅甸生死36小时",
+        "onboard_time": 1694743775,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282083,
+        "num": 424888,
+        "word": "上官浅故意不穿里衣",
+        "onboard_time": 1694738317,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 706533,
+        "num": 415763,
+        "word": "对方撤回了一个儿子",
+        "onboard_time": 1694752961,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1536293,
+        "num": 406192,
+        "word": "央视前女主持任星巴克董事",
+        "onboard_time": 1694746652,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385776,
+        "num": 385776,
+        "word": "结婚冷静期有人帮你们试了",
+        "onboard_time": 1694753261,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365712,
+        "num": 365712,
+        "word": "披荆斩棘3二公",
+        "onboard_time": 1694751460,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362795,
+        "num": 362795,
+        "word": "周杰伦开不了口现场",
+        "onboard_time": 1694753437,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341135,
+        "num": 341135,
+        "word": "高铁乘客花35买盒饭发现标价15",
+        "onboard_time": 1694754101,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31389,
+        "num": 334209,
+        "word": "方向盘交给谁放心又省钱",
+        "onboard_time": 1694754277,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 331385,
+        "num": 331385,
+        "word": "气血非常不足适合什么运动",
+        "onboard_time": 1694744255,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 311230,
+        "num": 311230,
+        "word": "原来抹额是宫二的守宫砂和信号塔",
+        "onboard_time": 1694752419,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309408,
+        "num": 309408,
+        "word": "12306崩了",
+        "onboard_time": 1694744914,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308179,
+        "num": 308179,
+        "word": "上官浅 第一驯夫高手",
+        "onboard_time": 1694748274,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307396,
+        "num": 307396,
+        "word": "62岁女子辅助生殖成功产女",
+        "onboard_time": 1694749176,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293648,
+        "num": 293648,
+        "word": "陈楚生吉他弹唱思念一个荒废的名字",
+        "onboard_time": 1694753978,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286265,
+        "num": 286265,
+        "word": "12306客服建议过半小时再尝试",
+        "onboard_time": 1694754220,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278230,
+        "num": 278230,
+        "word": "厦门一女子跳海自杀丈夫回应",
+        "onboard_time": 1694742757,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274625,
+        "num": 274625,
+        "word": "郁美净董事长直播间跳舞",
+        "onboard_time": 1694738615,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271180,
+        "num": 271180,
+        "word": "长期喝百香果真的可以变白吗",
+        "onboard_time": 1694743594,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 266277,
+        "num": 266277,
+        "word": "你会反感老牌国货蹭花西子热度吗",
+        "onboard_time": 1694742816,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244427,
+        "num": 244427,
+        "word": "男童撑伞从26楼跳下后奇迹生还",
+        "onboard_time": 1694741132,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237673,
+        "num": 237673,
+        "word": "胡彦斌没组合名有点着急",
+        "onboard_time": 1694751337,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233341,
+        "num": 233341,
+        "word": "李莲花嫁衣版",
+        "onboard_time": 1694752540,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231556,
+        "num": 231556,
+        "word": "宋雨琦的世巡City Dance",
+        "onboard_time": 1694752540,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225814,
+        "num": 225814,
+        "word": "猫咪托梦说猫粮不好吃",
+        "onboard_time": 1694754581,
+        "rank": 43,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 205980,
+        "num": 205980,
+        "word": "星穹铁道符玄",
+        "onboard_time": 1694754521,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200883,
+        "num": 200883,
+        "word": "南昌音乐节",
+        "onboard_time": 1694753800,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198716,
+        "num": 198716,
+        "word": "黄景瑜是鹦鹉杀的宣传委员",
+        "onboard_time": 1694749536,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180100,
+        "num": 180100,
+        "word": "江苏福彩史上最大弃奖",
+        "onboard_time": 1694751821,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166759,
+        "num": 166759,
+        "word": "中餐厅最后一次双档口营业",
+        "onboard_time": 1694750197,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166340,
+        "num": 166340,
+        "word": "郁美净上架79元套餐",
+        "onboard_time": 1694745335,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    }
+  }
+}

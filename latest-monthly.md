@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/15 12:34:36
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/15 13:15:37
 </p>
 </blockquote>
 <p>
@@ -693,6 +693,12 @@ iPhone15取消静音拨片（热度：2651422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94Lisa%E6%8B%92%E7%BB%9D%E7%BB%AD%E7%BA%A6%23" target="weibo">
+YG回应Lisa拒绝续约（热度：2504910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%86%B3%E5%AE%9A%E7%A6%81%E5%94%AEiPhone12%23" target="weibo">
 法国决定禁售iPhone12（热度：2504450）
 </a>
@@ -1349,6 +1355,12 @@ D社曝黑暗荣耀金赫拉校园暴力（热度：1966079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E5%AE%9A%E6%A1%A3%23" target="weibo">
 南风知我意定档（热度：1895170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%AE%B9%E6%98%93%E5%81%B6%E9%81%87%E9%A6%99%E6%B8%AF%E6%98%8E%E6%98%9F%23" target="weibo">
+高铁上有多容易偶遇香港明星（热度：1890944）
 </a>
 </li>
 
@@ -3033,12 +3045,6 @@ Rose或将和霉霉合作（热度：1140695）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%AE%B9%E6%98%93%E5%81%B6%E9%81%87%E9%A6%99%E6%B8%AF%E6%98%8E%E6%98%9F%23" target="weibo">
-高铁上有多容易偶遇香港明星（热度：1105482）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E8%B7%AF%E4%BA%BA%E7%BC%98%E5%BE%88%E5%A5%BD%E7%9A%84%E6%88%90%E5%91%98%23" target="weibo">
 BLACKPINK路人缘很好的成员（热度：1104732）
 </a>
@@ -3623,6 +3629,12 @@ CA403所有人员均安全撤离（热度：972380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%9E%E5%90%8D%E5%88%B6%E4%B8%8E%E5%BC%BA%E5%AE%9E%E5%90%8D%E5%88%B6%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
 演唱会实名制与强实名制的区别（热度：968344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BE%E5%8A%9E%E6%96%B9%E8%A2%AB%E7%BD%9A6%E4%B8%87%23" target="weibo">
+TF家族演唱会举办方被罚6万（热度：967033）
 </a>
 </li>
 
@@ -5439,6 +5451,12 @@ ive（热度：732428）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%96%8A%E5%89%8D%E5%A4%AB%E5%93%A5%E6%98%AF%E5%8D%B3%E5%85%B4%E5%8F%91%E6%8C%A5%23" target="weibo">
+肖战喊前夫哥是即兴发挥（热度：721428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E7%88%86%E6%96%99%23" target="weibo">
 iPhone15系列爆料（热度：720877）
 </a>
@@ -5573,6 +5591,12 @@ iPhone15系列爆料（热度：720877）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E6%8B%89%E5%85%8B%E6%A3%AE%E7%88%86%E7%A0%8D%23" target="weibo">
 克拉克森爆砍（热度：708001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%84%BF%E5%AD%90%23" target="weibo">
+对方撤回了一个儿子（热度：706533）
 </a>
 </li>
 
@@ -5990,30 +6014,6 @@ iPhone15有15项变化（热度：687217）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%9B%E9%98%B3%E9%95%BF%E5%8F%91%E7%89%88%23" target="weibo">
-肖战盛阳长发版（热度：669651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A53%E6%AC%A1%E5%8A%9D%E5%AD%A6%E7%BD%91%E7%98%BE%E5%BC%9F%E5%BC%9F%E8%BF%94%E6%A0%A1%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%23" target="weibo">
-哥哥3次劝学网瘾弟弟返校考上一本（热度：668794）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E8%88%8D%E4%BA%94%E5%85%A5%E5%8F%AA%E6%9C%8927%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%AF%92%E5%81%87%E4%BA%86%23" target="weibo">
-四舍五入只有27天就放寒假了（热度：668531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E9%A6%96%E5%8F%91%E5%89%A7%E7%85%A7%23" target="weibo">
-大奉打更人首发剧照（热度：667763）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6281,6 +6281,12 @@ iPhone15有15项变化（热度：687217）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8A%9E%E5%85%AC%E5%8E%85%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
 #习近平对新时代办公厅工作作出重要指示#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E8%BF%99%E5%9C%BA%E4%BC%9A%E6%99%A4%E6%84%9F%E5%8F%97%E4%B8%AD%E5%A7%94%E9%93%81%E6%9D%86%E6%83%85%E8%B0%8A%23%23" target="weibo">
+#从习近平主席这场会晤感受中委铁杆情谊#
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694752476838,
+  "endTime": 1694754937912,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2504910,
+      "num": 2504910,
+      "word": "YG回应Lisa拒绝续约",
+      "onboard_time": 1694753379,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2355008,
       "num": 1365084,
       "word": "上官浅故意不穿里衣",
@@ -48,6 +56,14 @@
       "word": "男子吃生腌海鲜后做4次手术失去1条腿",
       "onboard_time": 1694746292,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1890944,
+      "num": 1890944,
+      "word": "高铁上有多容易偶遇香港明星",
+      "onboard_time": 1694749715,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1105482,
-      "num": 1105482,
-      "word": "高铁上有多容易偶遇香港明星",
-      "onboard_time": 1694749715,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1052115,
       "num": 1052115,
       "word": "外媒曝Lisa拒绝和YG续约",
@@ -153,6 +161,14 @@
       "onboard_time": 1694743775,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967033,
+      "num": 967033,
+      "word": "TF家族演唱会举办方被罚6万",
+      "onboard_time": 1694752239,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 951545,
@@ -235,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721428,
+      "num": 721428,
+      "word": "肖战喊前夫哥是即兴发挥",
+      "onboard_time": 1694751821,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 715399,
       "num": 307909,
       "word": "狗Pro",
@@ -249,6 +273,14 @@
       "onboard_time": 1694702324,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706533,
+      "num": 415763,
+      "word": "对方撤回了一个儿子",
+      "onboard_time": 1694752961,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 700237,
@@ -355,6 +387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 464865,
+      "num": 464865,
+      "word": "警方通报初中投毒者为2名13岁女生",
+      "onboard_time": 1694750136,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464024,
       "num": 464024,
       "word": "上官浅 第一驯夫高手",
@@ -395,12 +435,28 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 445297,
+      "num": 445297,
+      "word": "云之羽女主身份牛牛偷听到了",
+      "onboard_time": 1694753978,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445212,
       "num": 289266,
       "word": "厦门一女子跳海自杀丈夫回应",
       "onboard_time": 1694742757,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442764,
+      "num": 442764,
+      "word": "Angelababy是配菜终结者",
+      "onboard_time": 1694752661,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 429012,
@@ -416,14 +472,6 @@
       "word": "宫远徵好疯批",
       "onboard_time": 1694705435,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 423201,
-      "num": 423201,
-      "word": "肖战喊前夫哥是即兴发挥",
-      "onboard_time": 1694751821,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -451,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415520,
-      "num": 415520,
-      "word": "TF家族演唱会举办方被罚6万",
-      "onboard_time": 1694752239,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 413749,
       "num": 413749,
       "word": "胡彦斌没组合名有点着急",
@@ -475,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 404943,
-      "num": 404943,
-      "word": "警方通报初中投毒者为2名13岁女生",
-      "onboard_time": 1694750136,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394599,
       "num": 394599,
       "word": "终于学会耳后双C发型了",
@@ -497,6 +529,14 @@
       "onboard_time": 1694746594,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 385776,
+      "num": 385776,
+      "word": "结婚冷静期有人帮你们试了",
+      "onboard_time": 1694753261,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 383690,
@@ -531,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 362795,
+      "num": 362795,
+      "word": "周杰伦开不了口现场",
+      "onboard_time": 1694753437,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 357268,
       "num": 357268,
       "word": "四六级",
@@ -545,6 +593,14 @@
       "onboard_time": 1694750618,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 341135,
+      "num": 341135,
+      "word": "高铁乘客花35买盒饭发现标价15",
+      "onboard_time": 1694754101,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327010,
@@ -587,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311230,
+      "num": 311230,
+      "word": "原来抹额是宫二的守宫砂和信号塔",
+      "onboard_time": 1694752419,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308448,
       "num": 308448,
       "word": "当新来的游客认不出花花",
@@ -611,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293648,
+      "num": 293648,
+      "word": "陈楚生吉他弹唱思念一个荒废的名字",
+      "onboard_time": 1694753978,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291921,
       "num": 291921,
       "word": "航天专家称外星人不可能来过地球",
       "onboard_time": 1694741434,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 286265,
+      "num": 286265,
+      "word": "12306客服建议过半小时再尝试",
+      "onboard_time": 1694754220,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279811,
@@ -691,6 +771,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 233341,
+      "num": 233341,
+      "word": "李莲花嫁衣版",
+      "onboard_time": 1694752540,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232933,
       "num": 232933,
       "word": "五条悟摘掉眼罩",
@@ -699,12 +787,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 231556,
+      "num": 231556,
+      "word": "宋雨琦的世巡City Dance",
+      "onboard_time": 1694752540,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231088,
       "num": 231088,
       "word": "不建议食用的几种鸡蛋",
       "onboard_time": 1694723953,
       "rank": 16,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 225814,
+      "num": 225814,
+      "word": "猫咪托梦说猫粮不好吃",
+      "onboard_time": 1694754581,
+      "rank": 43,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 225792,
@@ -819,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205980,
+      "num": 205980,
+      "word": "星穹铁道符玄",
+      "onboard_time": 1694754521,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205765,
       "num": 205765,
       "word": "男子强买单搭讪失败攻击女子",
@@ -849,6 +961,14 @@
       "onboard_time": 1694743594,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200883,
+      "num": 200883,
+      "word": "南昌音乐节",
+      "onboard_time": 1694753800,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 200598,
@@ -953,14 +1073,6 @@
       "onboard_time": 1694736454,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182493,
-      "num": 182493,
-      "word": "原来抹额是宫二的守宫砂和信号塔",
-      "onboard_time": 1694752419,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 181712,
@@ -1419,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47277,
+      "num": 1377055,
+      "word": "用超长画卷打开5000年杭州",
+      "onboard_time": 1694753680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41989,
       "num": 41989,
       "word": "骄阳伴我烟花名场面",
@@ -1433,6 +1553,14 @@
       "onboard_time": 1694726954,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31389,
+      "num": 334209,
+      "word": "方向盘交给谁放心又省钱",
+      "onboard_time": 1694754277,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 28521,
@@ -1473,6 +1601,9 @@
     },
     {
       "word": "#习近平向2023北京文化论坛致贺信#"
+    },
+    {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
     }
   ]
 }
