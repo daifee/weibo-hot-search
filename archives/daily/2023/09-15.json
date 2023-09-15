@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694782110652,
+  "endTime": 1694784012511,
   "band_list": [
     {
       "raw_hot": 4487373,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1674325,
+      "num": 1674325,
+      "word": "剥了5000多只虾就为了一碗面",
+      "onboard_time": 1694779117,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1566706,
       "num": 1566706,
       "word": "文咏珊被正式确诊为文勇扇",
@@ -219,6 +227,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1194730,
+      "num": 1194730,
+      "word": "云为衫宫子羽生死告白",
+      "onboard_time": 1694782598,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1153516,
+      "num": 1153516,
+      "word": "吴昕再去也已是嘉宾",
+      "onboard_time": 1694778635,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1145594,
       "num": 1145594,
       "word": "云之羽超点",
@@ -243,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1059426,
-      "num": 1059426,
-      "word": "剥了5000多只虾就为了一碗面",
-      "onboard_time": 1694779117,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1052115,
       "num": 1052115,
       "word": "外媒曝Lisa拒绝和YG续约",
@@ -265,14 +281,6 @@
       "onboard_time": 1694762314,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1024460,
-      "num": 1024460,
-      "word": "吴昕再去也已是嘉宾",
-      "onboard_time": 1694778635,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1023351,
@@ -321,6 +329,14 @@
       "onboard_time": 1694764894,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 969793,
+      "num": 969793,
+      "word": "云之羽给曾舜晞P了刘海",
+      "onboard_time": 1694782960,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 967033,
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 717549,
+      "num": 717549,
+      "word": "菜鸟驿站被军爷攻陷了",
+      "onboard_time": 1694783376,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 715399,
       "num": 307909,
       "word": "狗Pro",
@@ -545,6 +569,14 @@
       "onboard_time": 1694702501,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 688691,
+      "num": 688691,
+      "word": "李子柒官司后首个露面视频",
+      "onboard_time": 1694783315,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 668313,
@@ -601,6 +633,14 @@
       "onboard_time": 1694756673,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598426,
+      "num": 598426,
+      "word": "成毅一边下台一边擦泪",
+      "onboard_time": 1694779776,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 593336,
@@ -707,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 522067,
+      "num": 747873,
+      "word": "高铁化妆 美妆博主反击",
+      "onboard_time": 1694778693,
+      "rank": 23,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 511896,
       "num": 511896,
       "word": "吴昕录你好星期六",
@@ -811,14 +859,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 457434,
-      "num": 343133,
-      "word": "成毅一边下台一边擦泪",
-      "onboard_time": 1694779776,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 454982,
       "num": 454982,
       "word": "38元买的谢馥春眉粉用了9年仅破皮",
@@ -857,6 +897,14 @@
       "onboard_time": 1694742757,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444372,
+      "num": 294276,
+      "word": "为什么饮水机都是装在厕所门口",
+      "onboard_time": 1694783376,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 442764,
@@ -1035,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378672,
-      "num": 378672,
-      "word": "高铁化妆 美妆博主反击",
-      "onboard_time": 1694778693,
-      "rank": 23,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 374818,
       "num": 374818,
       "word": "女生点外卖从碗里吃出地漏",
@@ -1052,7 +1092,7 @@
     },
     {
       "raw_hot": 373930,
-      "num": 308774,
+      "num": 348681,
       "word": "苹果首发",
       "onboard_time": 1694781217,
       "rank": 23,
@@ -1203,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318184,
+      "num": 294157,
+      "word": "原来秋葵是这样长的",
+      "onboard_time": 1694783797,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317282,
       "num": 317282,
       "word": "中餐厅最后一次双档口营业",
@@ -1323,6 +1371,22 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 294540,
+      "num": 294540,
+      "word": "上官浅与宫尚角的点滴回忆",
+      "onboard_time": 1694782896,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 293967,
+      "num": 293967,
+      "word": "央华版如梦之梦再出发",
+      "onboard_time": 1694782295,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 293648,
       "num": 293648,
       "word": "陈楚生吉他弹唱思念一个荒废的名字",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1694752239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276708,
+      "num": 191417,
+      "word": "夜色尚浅结局",
+      "onboard_time": 1694783255,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 273925,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1694757634,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252955,
+      "num": 252955,
+      "word": "喊话李佳琦的医生称希望提高医生收入",
+      "onboard_time": 1694783976,
+      "rank": 36,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 251948,
@@ -1547,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237637,
+      "num": 237637,
+      "word": "原神那维莱特",
+      "onboard_time": 1694782358,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233341,
       "num": 233341,
       "word": "李莲花嫁衣版",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1694752540,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231530,
+      "num": 231530,
+      "word": "毕业后真的会怀恋大学食堂",
+      "onboard_time": 1694783797,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 231088,
@@ -1691,6 +1787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216975,
+      "num": 216975,
+      "word": "蜂花老总的头发用事实证明",
+      "onboard_time": 1694783917,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216504,
       "num": 158247,
       "word": "张凌赫 你快衫了吧",
@@ -1753,6 +1857,14 @@
       "onboard_time": 1694743414,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207657,
+      "num": 207657,
+      "word": "请一定别放弃读书",
+      "onboard_time": 1694783018,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 207564,
@@ -1833,6 +1945,22 @@
       "onboard_time": 1694767776,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201982,
+      "num": 201982,
+      "word": "原神 独属于你的演奏",
+      "onboard_time": 1694781996,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201706,
+      "num": 208460,
+      "word": "你满意云之羽大结局吗",
+      "onboard_time": 1694783917,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 201257,
@@ -1985,6 +2113,14 @@
       "onboard_time": 1694749776,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186126,
+      "num": 186126,
+      "word": "这就是为什么要戴头盔",
+      "onboard_time": 1694783917,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 185316,
@@ -2329,14 +2465,6 @@
       "onboard_time": 1694693439,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156854,
-      "num": 156854,
-      "word": "原神 独属于你的演奏",
-      "onboard_time": 1694781996,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 154928,
@@ -2747,6 +2875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 42453,
+      "num": 1385526,
+      "word": "深空探测新规划公布",
+      "onboard_time": 1694781996,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 41989,
       "num": 41989,
       "word": "骄阳伴我烟花名场面",
@@ -2803,20 +2939,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19635,
+      "num": 725809,
+      "word": "挑战美丽懒惰无痛的不可能三角",
+      "onboard_time": 1694782836,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 18270,
       "num": 402203,
       "word": "重点处置侵害企业名誉的虚假信息",
       "onboard_time": 1694772994,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10869,
-      "num": 1259977,
-      "word": "深空探测新规划公布",
-      "onboard_time": 1694781996,
-      "rank": 2,
-      "category": "科技"
     }
   ],
   "hotgov_list": [
@@ -2831,6 +2967,9 @@
     },
     {
       "word": "#为推进祖国统一大业不断贡献青春力量#"
+    },
+    {
+      "word": "#将中赞关系提升为全面战略合作伙伴关系#"
     }
   ]
 }
