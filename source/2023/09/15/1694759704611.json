@@ -1,0 +1,410 @@
+{
+  "runTime": 1694759704611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2040189,
+        "num": 2040189,
+        "word": "高铁乘客花35买盒饭发现标价15",
+        "onboard_time": 1694754101,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1776304,
+        "num": 1776304,
+        "word": "YG回应Lisa拒绝续约",
+        "onboard_time": 1694753379,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62033,
+        "num": 1339856,
+        "word": "用超长画卷打开5000年杭州",
+        "onboard_time": 1694753680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922802,
+        "num": 922802,
+        "word": "抢票 抢不到",
+        "onboard_time": 1694741794,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915200,
+        "num": 915200,
+        "word": "张远问魏哲鸣结婚了吗",
+        "onboard_time": 1694757755,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740088,
+        "num": 740088,
+        "word": "高铁上有多容易偶遇香港明星",
+        "onboard_time": 1694749715,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 688808,
+        "num": 688808,
+        "word": "男子吃生腌海鲜后做4次手术失去1条腿",
+        "onboard_time": 1694746292,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681692,
+        "num": 681692,
+        "word": "12306客服建议过半小时再尝试",
+        "onboard_time": 1694754220,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668313,
+        "num": 668313,
+        "word": "易建联退役仪式直播",
+        "onboard_time": 1694757394,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511896,
+        "num": 511896,
+        "word": "吴昕录你好星期六",
+        "onboard_time": 1694758233,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510994,
+        "num": 510994,
+        "word": "行走的鱼 王炸",
+        "onboard_time": 1694756673,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444528,
+        "num": 444528,
+        "word": "他从火光中走来 定档",
+        "onboard_time": 1694750976,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271804,
+        "num": 398866,
+        "word": "丫丫也养鸟了",
+        "onboard_time": 1694743835,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 244344,
+        "num": 393994,
+        "word": "爱宝幼崽越来越像福宝小时候了",
+        "onboard_time": 1694757213,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 223430,
+        "num": 392404,
+        "word": "超9成网友认为北极鲶鱼事件应公布结果",
+        "onboard_time": 1694740954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391026,
+        "num": 391026,
+        "word": "全美最美男明星",
+        "onboard_time": 1694757755,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378610,
+        "num": 378610,
+        "word": "TF家族演唱会举办方被罚6万",
+        "onboard_time": 1694752239,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 366961,
+        "num": 366961,
+        "word": "陈楚生李玖哲老舅行走的鱼",
+        "onboard_time": 1694756256,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349378,
+        "num": 349378,
+        "word": "云之羽女主身份牛牛偷听到了",
+        "onboard_time": 1694753978,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318811,
+        "num": 318811,
+        "word": "肖战喊前夫哥是即兴发挥",
+        "onboard_time": 1694751821,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512352,
+        "num": 301892,
+        "word": "上官浅故意不穿里衣",
+        "onboard_time": 1694738317,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396265,
+        "num": 291812,
+        "word": "对方撤回了一个儿子",
+        "onboard_time": 1694752961,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270864,
+        "num": 270864,
+        "word": "孙俪喊你做瑜伽了",
+        "onboard_time": 1694758594,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261304,
+        "num": 261304,
+        "word": "警方通报初中投毒者为2名13岁女生",
+        "onboard_time": 1694750136,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241529,
+        "num": 241529,
+        "word": "62岁女子辅助生殖成功产女",
+        "onboard_time": 1694749176,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233675,
+        "num": 233675,
+        "word": "第八个嫌疑人 真不像演的",
+        "onboard_time": 1694757634,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231288,
+        "num": 231288,
+        "word": "网红峰哥亲历缅甸生死36小时",
+        "onboard_time": 1694743775,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228838,
+        "num": 228838,
+        "word": "苹果要求员工对iPhone12辐射沉默",
+        "onboard_time": 1694746892,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 224065,
+        "num": 224065,
+        "word": "12306回应高铁35元盒饭标价15元",
+        "onboard_time": 1694755176,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221838,
+        "num": 221838,
+        "word": "蜂花香皂 残障人士包装",
+        "onboard_time": 1694748699,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 216634,
+        "num": 216634,
+        "word": "适合便秘人群吃的水果找到了",
+        "onboard_time": 1694759192,
+        "rank": 30,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 215512,
+        "num": 215512,
+        "word": "211女硕士遭杀猪盘两周被骗138万",
+        "onboard_time": 1694740954,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211711,
+        "num": 211711,
+        "word": "12306崩了",
+        "onboard_time": 1694744914,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196317,
+        "num": 196317,
+        "word": "气血非常不足适合什么运动",
+        "onboard_time": 1694744255,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 194370,
+        "num": 194370,
+        "word": "boss直聘崩了",
+        "onboard_time": 1694747194,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 190895,
+        "num": 190895,
+        "word": "猫咪托梦说猫粮不好吃",
+        "onboard_time": 1694754581,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 188783,
+        "num": 188783,
+        "word": "厦门一女子跳海自杀丈夫回应",
+        "onboard_time": 1694742757,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182056,
+        "num": 182056,
+        "word": "原来抹额是宫二的守宫砂和信号塔",
+        "onboard_time": 1694752419,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180578,
+        "num": 180578,
+        "word": "活力28回应老年主播团意外爆火",
+        "onboard_time": 1694758176,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178355,
+        "num": 178355,
+        "word": "Angelababy是配菜终结者",
+        "onboard_time": 1694752661,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167399,
+        "num": 167399,
+        "word": "长期喝百香果真的可以变白吗",
+        "onboard_time": 1694743594,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162859,
+        "num": 162859,
+        "word": "你会反感老牌国货蹭花西子热度吗",
+        "onboard_time": 1694742816,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158117,
+        "num": 158117,
+        "word": "男素问好帅",
+        "onboard_time": 1694759314,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155399,
+        "num": 155399,
+        "word": "冯宝宝找不到家了",
+        "onboard_time": 1694757934,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152026,
+        "num": 152026,
+        "word": "张学友 抢票",
+        "onboard_time": 1694755234,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148786,
+        "num": 148786,
+        "word": "恋与胡彦斌",
+        "onboard_time": 1694751158,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144666,
+        "num": 144666,
+        "word": "赵丽颖当选中视协第七届理事",
+        "onboard_time": 1694759674,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142600,
+        "num": 142600,
+        "word": "男童撑伞从26楼跳下后奇迹生还",
+        "onboard_time": 1694741132,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141322,
+        "num": 141322,
+        "word": "结婚冷静期有人帮你们试了",
+        "onboard_time": 1694753261,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141152,
+        "num": 141152,
+        "word": "YG股价持续大跌",
+        "onboard_time": 1694755597,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对新时代办公厅工作作出重要指示#"
+    }
+  }
+}
