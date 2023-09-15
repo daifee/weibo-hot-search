@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694791031665,
+  "endTime": 1694792047554,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -6091,6 +6091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 840837,
+      "num": 526347,
+      "word": "警方通报一女子小区内被伤害身亡",
+      "onboard_time": 1694790160,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 840702,
       "num": 840702,
       "word": "台风",
@@ -7129,6 +7137,14 @@
       "onboard_time": 1694084677,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 753086,
+      "num": 399223,
+      "word": "离婚人数连续三年下降",
+      "onboard_time": 1694790401,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752351,
@@ -9307,6 +9323,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 615763,
+      "num": 615763,
+      "word": "迪丽热巴为胡意旋新剧打call",
+      "onboard_time": 1694789860,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 615658,
       "num": 615658,
       "word": "真的有龙吗",
@@ -9945,14 +9969,6 @@
       "onboard_time": 1693713213,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 587847,
-      "num": 587847,
-      "word": "迪丽热巴为胡意旋新剧打call",
-      "onboard_time": 1694789860,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 587665,
@@ -10977,6 +10993,14 @@
       "onboard_time": 1693896215,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544576,
+      "num": 292559,
+      "word": "李在明绝食第16天健康已非常危险",
+      "onboard_time": 1694790759,
+      "rank": 41,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 543702,
@@ -17571,14 +17595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 349251,
-      "num": 349251,
-      "word": "离婚人数连续三年下降",
-      "onboard_time": 1694790401,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348996,
       "num": 348996,
       "word": "点竹是谁",
@@ -18057,14 +18073,6 @@
       "onboard_time": 1693550676,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337827,
-      "num": 337827,
-      "word": "警方通报一女子小区内被伤害身亡",
-      "onboard_time": 1694790160,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337574,
@@ -25715,6 +25723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226048,
+      "num": 520983,
+      "word": "姚明感慨回忆与易建联初相遇",
+      "onboard_time": 1694789680,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225896,
       "num": 225896,
       "word": "官方回应医生值班时被患者家属捅死",
@@ -26505,14 +26521,6 @@
       "onboard_time": 1693561297,
       "rank": 36,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 217884,
-      "num": 217884,
-      "word": "李在明绝食第16天健康已非常危险",
-      "onboard_time": 1694790759,
-      "rank": 41,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 217834,
@@ -27681,14 +27689,6 @@
       "onboard_time": 1694613942,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207162,
-      "num": 207162,
-      "word": "姚明感慨回忆与易建联初相遇",
-      "onboard_time": 1694789680,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 207138,
@@ -33889,6 +33889,14 @@
       "onboard_time": 1693572222,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159546,
+      "num": 159546,
+      "word": "手艺人用玻璃做出39盘菜",
+      "onboard_time": 1694791178,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 159472,

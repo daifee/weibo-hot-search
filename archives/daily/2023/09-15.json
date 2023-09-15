@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694791031665,
+  "endTime": 1694792047554,
   "band_list": [
     {
       "raw_hot": 4487373,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840837,
+      "num": 526347,
+      "word": "警方通报一女子小区内被伤害身亡",
+      "onboard_time": 1694790160,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820049,
       "num": 820049,
       "word": "蜂花年销售额已破10亿",
@@ -537,6 +545,14 @@
       "onboard_time": 1694769274,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 753086,
+      "num": 399223,
+      "word": "离婚人数连续三年下降",
+      "onboard_time": 1694790401,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746802,
@@ -683,6 +699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 615763,
+      "num": 615763,
+      "word": "迪丽热巴为胡意旋新剧打call",
+      "onboard_time": 1694789860,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 602959,
       "num": 602959,
       "word": "郁美净上架79元套餐",
@@ -729,14 +753,6 @@
       "onboard_time": 1694761956,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587847,
-      "num": 587847,
-      "word": "迪丽热巴为胡意旋新剧打call",
-      "onboard_time": 1694789860,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 578164,
@@ -809,6 +825,14 @@
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544576,
+      "num": 292559,
+      "word": "李在明绝食第16天健康已非常危险",
+      "onboard_time": 1694790759,
+      "rank": 41,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 538172,
@@ -1323,28 +1347,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 349251,
-      "num": 349251,
-      "word": "离婚人数连续三年下降",
-      "onboard_time": 1694790401,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345847,
       "num": 345847,
       "word": "外婆养大的羊羊",
       "onboard_time": 1694774193,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 337827,
-      "num": 337827,
-      "word": "警方通报一女子小区内被伤害身亡",
-      "onboard_time": 1694790160,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331527,
@@ -1899,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226048,
+      "num": 520983,
+      "word": "姚明感慨回忆与易建联初相遇",
+      "onboard_time": 1694789680,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225792,
       "num": 225792,
       "word": "如何增加12306候补成功率",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1694787999,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 217884,
-      "num": 217884,
-      "word": "李在明绝食第16天健康已非常危险",
-      "onboard_time": 1694790759,
-      "rank": 41,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 216504,
@@ -2089,14 +2097,6 @@
       "onboard_time": 1694764058,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 207162,
-      "num": 207162,
-      "word": "姚明感慨回忆与易建联初相遇",
-      "onboard_time": 1694789680,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 205980,
@@ -2721,6 +2721,14 @@
       "onboard_time": 1694710944,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159546,
+      "num": 159546,
+      "word": "手艺人用玻璃做出39盘菜",
+      "onboard_time": 1694791178,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 158117,
