@@ -1,0 +1,410 @@
+{
+  "runTime": 1694788432290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669516,
+        "num": 1669516,
+        "word": "云之羽结局",
+        "onboard_time": 1694780316,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1367649,
+        "num": 1367649,
+        "word": "蜂花老总的头发用事实证明",
+        "onboard_time": 1694783917,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40507,
+        "num": 980463,
+        "word": "深空探测新规划公布",
+        "onboard_time": 1694781996,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3271204,
+        "num": 976473,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 882980,
+        "num": 882980,
+        "word": "剥了5000多只虾就为了一碗面",
+        "onboard_time": 1694779117,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 739919,
+        "num": 739919,
+        "word": "云之羽给曾舜晞P了刘海",
+        "onboard_time": 1694782960,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 704411,
+        "num": 704411,
+        "word": "张翰将出演如梦之梦",
+        "onboard_time": 1694784339,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 643483,
+        "num": 643483,
+        "word": "1米89的胡兵此刻1米2",
+        "onboard_time": 1694784219,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482990,
+        "num": 639595,
+        "word": "孩子在外婆家溺亡父亲起诉索赔80万",
+        "onboard_time": 1694777854,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310825,
+        "num": 633513,
+        "word": "高铁化妆 美妆博主反击",
+        "onboard_time": 1694778693,
+        "rank": 9,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 2896425,
+        "num": 624130,
+        "word": "喊话李佳琦的医生称希望提高医生收入",
+        "onboard_time": 1694783976,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 207179,
+        "num": 620532,
+        "word": "雅安地震",
+        "onboard_time": 1694772451,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168046,
+        "num": 615105,
+        "word": "中秋国庆最强高铁买票攻略",
+        "onboard_time": 1694776535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103927,
+        "num": 606340,
+        "word": "2024年考研时间表",
+        "onboard_time": 1694775754,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107846,
+        "num": 600099,
+        "word": "鸿星尔克带国货们上国际时装周",
+        "onboard_time": 1694786438,
+        "rank": 14,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 1835729,
+        "num": 590111,
+        "word": "李子柒官司后首个露面视频",
+        "onboard_time": 1694783315,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1554139,
+        "num": 582716,
+        "word": "苹果官网崩了",
+        "onboard_time": 1694779716,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1026419,
+        "num": 575162,
+        "word": "女生称因爱抠鼻子致鼻内长10多团真菌",
+        "onboard_time": 1694785658,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574242,
+        "num": 574242,
+        "word": "iPhone15开卖",
+        "onboard_time": 1694780018,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 558541,
+        "num": 558541,
+        "word": "云为衫宫子羽生死告白",
+        "onboard_time": 1694782598,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534107,
+        "num": 534107,
+        "word": "黄晓明端水端到了国外",
+        "onboard_time": 1694786320,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500668,
+        "num": 500668,
+        "word": "吴昕再去也已是嘉宾",
+        "onboard_time": 1694778635,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476707,
+        "num": 476707,
+        "word": "为什么接吻会下意识闭眼",
+        "onboard_time": 1694788061,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450483,
+        "num": 450483,
+        "word": "云之羽结局是表示还有第二季吗",
+        "onboard_time": 1694784876,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437134,
+        "num": 437134,
+        "word": "华为手机可以将Excel照片转换为文件",
+        "onboard_time": 1694785478,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 424398,
+        "num": 424398,
+        "word": "为什么父母辈从不因为工作而内耗",
+        "onboard_time": 1694787999,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422569,
+        "num": 422569,
+        "word": "青岛一小区母子3人坠楼",
+        "onboard_time": 1694774133,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422139,
+        "num": 422139,
+        "word": "蒲熠星 原来焦虑也意味着自由",
+        "onboard_time": 1694787219,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374735,
+        "num": 374735,
+        "word": "文咏珊被正式确诊为文勇扇",
+        "onboard_time": 1694776413,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359712,
+        "num": 359712,
+        "word": "原来秋葵是这样长的",
+        "onboard_time": 1694783797,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353074,
+        "num": 353074,
+        "word": "成毅一边下台一边擦泪",
+        "onboard_time": 1694779776,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267121,
+        "num": 267121,
+        "word": "为什么饮水机都是装在厕所门口",
+        "onboard_time": 1694783376,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263501,
+        "num": 263501,
+        "word": "宝儿直播遭男子播放不雅视频",
+        "onboard_time": 1694761892,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259373,
+        "num": 259373,
+        "word": "盛阳简冰刚分开就打电话",
+        "onboard_time": 1694786860,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256293,
+        "num": 256293,
+        "word": "沈梦辰炒的湘西腊肉爆单",
+        "onboard_time": 1694786024,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253263,
+        "num": 253263,
+        "word": "处女座太需要正向反馈了",
+        "onboard_time": 1694786024,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 252063,
+        "num": 252063,
+        "word": "如何看待蜂花借李佳琦热点搞营销",
+        "onboard_time": 1694771075,
+        "rank": 36,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 233648,
+        "num": 233648,
+        "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
+        "onboard_time": 1694771614,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220953,
+        "num": 220953,
+        "word": "毛不易北京演唱会嘉宾是李健",
+        "onboard_time": 1694784159,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224070,
+        "num": 216084,
+        "word": "沈梦辰跟贾静雯打招呼紧张到结巴",
+        "onboard_time": 1694787999,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210837,
+        "num": 210837,
+        "word": "38元买的谢馥春眉粉用了9年仅破皮",
+        "onboard_time": 1694774973,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203926,
+        "num": 203926,
+        "word": "不后悔 但不会再这么做了",
+        "onboard_time": 1694787637,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202845,
+        "num": 202845,
+        "word": "打工人时期的肖战",
+        "onboard_time": 1694787999,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200695,
+        "num": 200695,
+        "word": "Jennie芭莎十月刊封面大片",
+        "onboard_time": 1694779538,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195825,
+        "num": 195825,
+        "word": "浙江队1比0北京国安",
+        "onboard_time": 1694787341,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195356,
+        "num": 195356,
+        "word": "傅云深出车祸",
+        "onboard_time": 1694775814,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168178,
+        "num": 193267,
+        "word": "中科院被骗博士晒出工资单",
+        "onboard_time": 1694765794,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192789,
+        "num": 192789,
+        "word": "剧版史密斯夫妇首发剧照",
+        "onboard_time": 1694785478,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167546,
+        "num": 167546,
+        "word": "五月天南京演唱会",
+        "onboard_time": 1694787944,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 165626,
+        "word": "敢死队4",
+        "onboard_time": 1694786257,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中赞关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
