@@ -1,0 +1,410 @@
+{
+  "runTime": 1694745273480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2704265,
+        "num": 2704265,
+        "word": "211女硕士遭杀猪盘两周被骗138万",
+        "onboard_time": 1694740954,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1899626,
+        "num": 1899626,
+        "word": "抢票 抢不到",
+        "onboard_time": 1694741794,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47085,
+        "num": 1853845,
+        "word": "当亚运遇上民乐太惊艳了",
+        "onboard_time": 1694699920,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1823392,
+        "num": 1823392,
+        "word": "男童撑伞从26楼跳下后奇迹生还",
+        "onboard_time": 1694741132,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1388313,
+        "num": 1388313,
+        "word": "郁美净董事长直播间跳舞",
+        "onboard_time": 1694738615,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293754,
+        "num": 1293754,
+        "word": "上官浅故意不穿里衣",
+        "onboard_time": 1694738317,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1008934,
+        "num": 1008934,
+        "word": "网红峰哥亲历缅甸生死36小时",
+        "onboard_time": 1694743775,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805956,
+        "num": 805956,
+        "word": "丫丫也养鸟了",
+        "onboard_time": 1694743835,
+        "rank": 7,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 721835,
+        "num": 721835,
+        "word": "外星人干尸发现者曾被曝造假",
+        "onboard_time": 1694742694,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643050,
+        "num": 643050,
+        "word": "关晓彤唐嫣宋亚轩古装造型路透",
+        "onboard_time": 1694744492,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525448,
+        "num": 525448,
+        "word": "帕梅拉坚持10年你坚持了几年",
+        "onboard_time": 1694743414,
+        "rank": 10,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 509305,
+        "num": 509305,
+        "word": "花西子事件后老牌国货销量暴涨",
+        "onboard_time": 1694705135,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463124,
+        "num": 463124,
+        "word": "超9成网友认为北极鲶鱼事件应公布结果",
+        "onboard_time": 1694740954,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376030,
+        "num": 446956,
+        "word": "中国人吃了全球91%的榴莲",
+        "onboard_time": 1694732844,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 113596,
+        "num": 443184,
+        "word": "为什么大学生都在跳内卷舞",
+        "onboard_time": 1694743232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440020,
+        "num": 440020,
+        "word": "你看过黄金 就不会被黄铜所迷惑",
+        "onboard_time": 1694736513,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353953,
+        "num": 353953,
+        "word": "外媒曝Lisa拒绝和YG续约",
+        "onboard_time": 1694692596,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340657,
+        "num": 340657,
+        "word": "Ruler 我认为我们国家完全能夺冠",
+        "onboard_time": 1694743535,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323097,
+        "num": 323097,
+        "word": "女子翻护栏捡手机坠下40米高瀑布身亡",
+        "onboard_time": 1694734590,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276424,
+        "num": 276424,
+        "word": "12306崩了",
+        "onboard_time": 1694744914,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 575677,
+        "num": 276229,
+        "word": "长期喝百香果真的可以变白吗",
+        "onboard_time": 1694743594,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 460402,
+        "num": 275788,
+        "word": "气血非常不足适合什么运动",
+        "onboard_time": 1694744255,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 406854,
+        "num": 275230,
+        "word": "厦门一女子跳海自杀丈夫回应",
+        "onboard_time": 1694742757,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383690,
+        "num": 275205,
+        "word": "你会反感老牌国货蹭花西子热度吗",
+        "onboard_time": 1694742816,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317662,
+        "num": 274583,
+        "word": "狗Pro",
+        "onboard_time": 1694738017,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 274398,
+        "num": 274398,
+        "word": "朱一龙自曝曾犹豫是否接演消失的她",
+        "onboard_time": 1694733628,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267517,
+        "num": 267517,
+        "word": "航天专家称外星人不可能来过地球",
+        "onboard_time": 1694741434,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 251065,
+        "num": 251065,
+        "word": "香港市中心15平的家",
+        "onboard_time": 1694738737,
+        "rank": 27,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 238700,
+        "num": 238700,
+        "word": "这下谁还分得清营业和真情侣",
+        "onboard_time": 1694701722,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231949,
+        "num": 231949,
+        "word": "小鬼想请董明珠当演唱会嘉宾",
+        "onboard_time": 1694735311,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218502,
+        "num": 218502,
+        "word": "五条悟摘掉眼罩",
+        "onboard_time": 1694742454,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200598,
+        "num": 200598,
+        "word": "电影三大队定档",
+        "onboard_time": 1694744792,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189974,
+        "num": 189974,
+        "word": "北极鲶鱼事件结果是否应公开",
+        "onboard_time": 1694732606,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189396,
+        "num": 189396,
+        "word": "男子强买单搭讪失败攻击女子",
+        "onboard_time": 1694745094,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185906,
+        "num": 185906,
+        "word": "林雨申赵露思我喜欢你开播三周年",
+        "onboard_time": 1694741372,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174368,
+        "num": 174368,
+        "word": "A股",
+        "onboard_time": 1694743594,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167923,
+        "num": 167923,
+        "word": "杨紫高定",
+        "onboard_time": 1694698897,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165618,
+        "num": 165618,
+        "word": "酱香型发型",
+        "onboard_time": 1694742757,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164605,
+        "num": 164605,
+        "word": "iPhone玄学",
+        "onboard_time": 1694702501,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163377,
+        "num": 163377,
+        "word": "94岁硬核奶奶做中国人听得懂的歌剧",
+        "onboard_time": 1694744014,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160402,
+        "num": 160402,
+        "word": "四六级",
+        "onboard_time": 1694739336,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159997,
+        "num": 159997,
+        "word": "宋紫薇 理想",
+        "onboard_time": 1694738859,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158033,
+        "num": 158033,
+        "word": "一个手势自测是否淋巴结肿大",
+        "onboard_time": 1694745094,
+        "rank": 42,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 154548,
+        "num": 154548,
+        "word": "九义人今日开播",
+        "onboard_time": 1694744194,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154035,
+        "num": 154035,
+        "word": "异人之下国粹的魅力",
+        "onboard_time": 1694744676,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151039,
+        "num": 151039,
+        "word": "檀健次 做好一个让自己情绪稳定的人",
+        "onboard_time": 1694737833,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146125,
+        "num": 146125,
+        "word": "异人之下里有郝劭文",
+        "onboard_time": 1694742277,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144352,
+        "num": 144352,
+        "word": "如何增加12306候补成功率",
+        "onboard_time": 1694734530,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145309,
+        "num": 143443,
+        "word": "异人之下姐狗",
+        "onboard_time": 1694740535,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139818,
+        "num": 139818,
+        "word": "东北的叠词一点也不比台湾少",
+        "onboard_time": 1694743414,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对新时代办公厅工作作出重要指示#"
+    }
+  }
+}

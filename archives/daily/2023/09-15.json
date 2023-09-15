@@ -1,21 +1,21 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694744614472,
+  "endTime": 1694745273480,
   "band_list": [
+    {
+      "raw_hot": 2704265,
+      "num": 2704265,
+      "word": "211女硕士遭杀猪盘两周被骗138万",
+      "onboard_time": 1694740954,
+      "rank": 13,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2701966,
       "num": 2701966,
       "word": "郁美净董事长直播间跳舞",
       "onboard_time": 1694738615,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2677035,
-      "num": 2677035,
-      "word": "211女硕士遭杀猪盘两周被骗138万",
-      "onboard_time": 1694740954,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -35,19 +35,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1823392,
+      "num": 1823392,
+      "word": "男童撑伞从26楼跳下后奇迹生还",
+      "onboard_time": 1694741132,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1782619,
       "num": 1782619,
       "word": "花西子事件后老牌国货销量暴涨",
       "onboard_time": 1694705135,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1757495,
-      "num": 1757495,
-      "word": "男童撑伞从26楼跳下后奇迹生还",
-      "onboard_time": 1694741132,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1008934,
+      "num": 1008934,
+      "word": "网红峰哥亲历缅甸生死36小时",
+      "onboard_time": 1694743775,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888514,
       "num": 622042,
       "word": "这下谁还分得清营业和真情侣",
@@ -105,6 +113,14 @@
       "onboard_time": 1694734590,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805956,
+      "num": 805956,
+      "word": "丫丫也养鸟了",
+      "onboard_time": 1694743835,
+      "rank": 11,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 798787,
@@ -129,14 +145,6 @@
       "onboard_time": 1694738737,
       "rank": 8,
       "category": "其它"
-    },
-    {
-      "raw_hot": 734720,
-      "num": 734720,
-      "word": "网红峰哥亲历缅甸生死36小时",
-      "onboard_time": 1694743775,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 722704,
@@ -171,6 +179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 643050,
+      "num": 643050,
+      "word": "关晓彤唐嫣宋亚轩古装造型路透",
+      "onboard_time": 1694744492,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636116,
       "num": 636116,
       "word": "小鬼想请董明珠当演唱会嘉宾",
@@ -187,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575677,
+      "num": 276229,
+      "word": "长期喝百香果真的可以变白吗",
+      "onboard_time": 1694743594,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 548733,
       "num": 548733,
       "word": "你准备好抢票了吗",
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525448,
+      "num": 525448,
+      "word": "帕梅拉坚持10年你坚持了几年",
+      "onboard_time": 1694743414,
+      "rank": 12,
+      "category": "社会新闻,运动健身"
     },
     {
       "raw_hot": 500181,
@@ -211,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483363,
-      "num": 483363,
-      "word": "丫丫也养鸟了",
-      "onboard_time": 1694743835,
-      "rank": 11,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 478609,
       "num": 478609,
       "word": "朱一龙自曝曾犹豫是否接演消失的她",
@@ -233,6 +257,14 @@
       "onboard_time": 1694737833,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 460402,
+      "num": 275788,
+      "word": "气血非常不足适合什么运动",
+      "onboard_time": 1694744255,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 459195,
@@ -299,20 +331,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 405293,
-      "num": 405293,
-      "word": "帕梅拉坚持10年你坚持了几年",
-      "onboard_time": 1694743414,
-      "rank": 12,
-      "category": "社会新闻,运动健身"
-    },
-    {
       "raw_hot": 394599,
       "num": 394599,
       "word": "终于学会耳后双C发型了",
       "onboard_time": 1694696255,
       "rank": 15,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 383690,
+      "num": 275770,
+      "word": "你会反感老牌国货蹭花西子热度吗",
+      "onboard_time": 1694742816,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370536,
@@ -324,19 +356,11 @@
     },
     {
       "raw_hot": 363654,
-      "num": 225510,
+      "num": 340657,
       "word": "Ruler 我认为我们国家完全能夺冠",
       "onboard_time": 1694743535,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 359555,
-      "num": 275770,
-      "word": "你会反感老牌国货蹭花西子热度吗",
-      "onboard_time": 1694742816,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357268,
@@ -353,14 +377,6 @@
       "onboard_time": 1694737715,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 320473,
-      "num": 274850,
-      "word": "长期喝百香果真的可以变白吗",
-      "onboard_time": 1694743594,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 313313,
@@ -411,6 +427,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 276424,
+      "num": 276424,
+      "word": "12306崩了",
+      "onboard_time": 1694744914,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 269841,
       "num": 269841,
       "word": "宿舍超爽的睡觉氛围",
@@ -441,14 +465,6 @@
       "onboard_time": 1694736156,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243383,
-      "num": 243383,
-      "word": "关晓彤唐嫣宋亚轩古装造型路透",
-      "onboard_time": 1694744492,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 242841,
@@ -505,14 +521,6 @@
       "onboard_time": 1694739937,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223146,
-      "num": 223146,
-      "word": "气血非常不足适合什么运动",
-      "onboard_time": 1694744255,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 221562,
@@ -595,6 +603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200598,
+      "num": 200598,
+      "word": "电影三大队定档",
+      "onboard_time": 1694744792,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198050,
       "num": 198050,
       "word": "公交车这个位置好适合社恐",
@@ -609,6 +625,14 @@
       "onboard_time": 1694741372,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189396,
+      "num": 189396,
+      "word": "男子强买单搭讪失败攻击女子",
+      "onboard_time": 1694745094,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188328,
@@ -779,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158033,
+      "num": 158033,
+      "word": "一个手势自测是否淋巴结肿大",
+      "onboard_time": 1694745094,
+      "rank": 42,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 157628,
       "num": 136027,
       "word": "大学生对陌生人莫名的信任",
@@ -800,6 +832,14 @@
       "word": "全场给冯宝宝哭丧",
       "onboard_time": 1694702022,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154035,
+      "num": 154035,
+      "word": "异人之下国粹的魅力",
+      "onboard_time": 1694744676,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -825,6 +865,14 @@
       "onboard_time": 1694737175,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146125,
+      "num": 146125,
+      "word": "异人之下里有郝劭文",
+      "onboard_time": 1694742277,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 145708,
@@ -971,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113596,
+      "num": 443184,
+      "word": "为什么大学生都在跳内卷舞",
+      "onboard_time": 1694743232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112552,
       "num": 396500,
       "word": "天边的这场求婚仪式好甜",
@@ -1003,14 +1059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96429,
-      "num": 390612,
-      "word": "为什么大学生都在跳内卷舞",
-      "onboard_time": 1694743232,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92264,
       "num": 64323,
       "word": "不敢睡 怕一醒来就要去打工",
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 75269,
-      "num": 1810111,
+      "num": 1853845,
       "word": "当亚运遇上民乐太惊艳了",
       "onboard_time": 1694699920,
       "rank": 2,
