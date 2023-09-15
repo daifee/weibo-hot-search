@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694754937912,
+  "endTime": 1694756038845,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1890944,
-      "num": 1890944,
+      "raw_hot": 1907496,
+      "num": 1907496,
       "word": "高铁上有多容易偶遇香港明星",
       "onboard_time": 1694749715,
       "rank": 9,
@@ -192,6 +192,14 @@
       "word": "女子翻护栏捡手机坠下40米高瀑布身亡",
       "onboard_time": 1694734590,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810633,
+      "num": 810633,
+      "word": "高铁乘客花35买盒饭发现标价15",
+      "onboard_time": 1694754101,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578164,
+      "num": 578164,
+      "word": "警方通报初中投毒者为2名13岁女生",
+      "onboard_time": 1694750136,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575677,
       "num": 365022,
       "word": "长期喝百香果真的可以变白吗",
@@ -345,6 +361,14 @@
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504849,
+      "num": 504849,
+      "word": "云之羽女主身份牛牛偷听到了",
+      "onboard_time": 1694753978,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 500181,
@@ -387,14 +411,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 464865,
-      "num": 464865,
-      "word": "警方通报初中投毒者为2名13岁女生",
-      "onboard_time": 1694750136,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464024,
       "num": 464024,
       "word": "上官浅 第一驯夫高手",
@@ -433,14 +449,6 @@
       "onboard_time": 1694699859,
       "rank": 6,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 445297,
-      "num": 445297,
-      "word": "云之羽女主身份牛牛偷听到了",
-      "onboard_time": 1694753978,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 445212,
@@ -531,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391694,
+      "num": 391694,
+      "word": "12306客服建议过半小时再尝试",
+      "onboard_time": 1694754220,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385776,
       "num": 385776,
       "word": "结婚冷静期有人帮你们试了",
@@ -593,14 +609,6 @@
       "onboard_time": 1694750618,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 341135,
-      "num": 341135,
-      "word": "高铁乘客花35买盒饭发现标价15",
-      "onboard_time": 1694754101,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327010,
@@ -691,20 +699,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 286265,
-      "num": 286265,
-      "word": "12306客服建议过半小时再尝试",
-      "onboard_time": 1694754220,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279811,
       "num": 279811,
       "word": "披荆斩棘3二公部落海报",
       "onboard_time": 1694752239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272917,
+      "num": 272917,
+      "word": "猫咪托梦说猫粮不好吃",
+      "onboard_time": 1694754581,
+      "rank": 43,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 269841,
@@ -771,6 +779,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 239972,
+      "num": 239972,
+      "word": "12306回应高铁35元盒饭标价15元",
+      "onboard_time": 1694755176,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233341,
       "num": 233341,
       "word": "李莲花嫁衣版",
@@ -801,14 +817,6 @@
       "onboard_time": 1694723953,
       "rank": 16,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 225814,
-      "num": 225814,
-      "word": "猫咪托梦说猫粮不好吃",
-      "onboard_time": 1694754581,
-      "rank": 43,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 225792,
@@ -849,6 +857,14 @@
       "onboard_time": 1694750976,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222716,
+      "num": 222716,
+      "word": "YG股价持续大跌",
+      "onboard_time": 1694755597,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 221562,
@@ -897,6 +913,14 @@
       "onboard_time": 1694751158,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209547,
+      "num": 209547,
+      "word": "张学友 抢票",
+      "onboard_time": 1694755234,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 207888,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1694751637,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 193775,
+      "num": 193775,
+      "word": "朱一龙WSJ.九月刊封面",
+      "onboard_time": 1694754938,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190910,
@@ -1283,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148357,
+      "num": 148357,
+      "word": "崇应彪平行世界 死了一百万次的人",
+      "onboard_time": 1694755958,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148096,
       "num": 148096,
       "word": "此沙晒与高圆圆合照",
@@ -1515,6 +1555,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 73883,
+      "num": 1377055,
+      "word": "用超长画卷打开5000年杭州",
+      "onboard_time": 1694753680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61848,
       "num": 61848,
       "word": "北京文化论坛今天开幕",
@@ -1523,20 +1571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59092,
+      "num": 348889,
+      "word": "方向盘交给谁放心又省钱",
+      "onboard_time": 1694754277,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 52927,
       "num": 52927,
       "word": "点竹是谁",
       "onboard_time": 1694697634,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47277,
-      "num": 1377055,
-      "word": "用超长画卷打开5000年杭州",
-      "onboard_time": 1694753680,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41989,
@@ -1553,14 +1601,6 @@
       "onboard_time": 1694726954,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31389,
-      "num": 334209,
-      "word": "方向盘交给谁放心又省钱",
-      "onboard_time": 1694754277,
-      "rank": 27,
-      "category": "旅游"
     },
     {
       "raw_hot": 28521,
