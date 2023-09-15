@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694748847425,
+  "endTime": 1694751601344,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2544731,
+      "num": 2544731,
+      "word": "央视前女主持任星巴克董事",
+      "onboard_time": 1694746652,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2355008,
       "num": 1365084,
       "word": "上官浅故意不穿里衣",
       "onboard_time": 1694738317,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2218413,
+      "num": 2218413,
+      "word": "男子吃生腌海鲜后做4次手术失去1条腿",
+      "onboard_time": 1694746292,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1823392,
@@ -59,28 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1650352,
-      "num": 1650352,
-      "word": "男子吃生腌海鲜后做4次手术失去1条腿",
-      "onboard_time": 1694746292,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1561426,
       "num": 1561426,
       "word": "中国人吃了全球91%的榴莲",
       "onboard_time": 1694732844,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1449706,
-      "num": 611452,
-      "word": "央视前女主持任星巴克董事",
-      "onboard_time": 1694746652,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1277896,
@@ -107,12 +107,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1126061,
+      "num": 1126061,
+      "word": "蜂花香皂 残障人士包装",
+      "onboard_time": 1694748699,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1052115,
       "num": 1052115,
       "word": "外媒曝Lisa拒绝和YG续约",
       "onboard_time": 1694692596,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1016931,
+      "num": 1016931,
+      "word": "苹果要求员工对iPhone12辐射沉默",
+      "onboard_time": 1694746892,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 1008934,
@@ -227,6 +243,14 @@
       "category": "社会新闻,运动健身"
     },
     {
+      "raw_hot": 645220,
+      "num": 645220,
+      "word": "高铁上有多容易偶遇香港明星",
+      "onboard_time": 1694749715,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636116,
       "num": 636116,
       "word": "小鬼想请董明珠当演唱会嘉宾",
@@ -267,6 +291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 570122,
+      "num": 570122,
+      "word": "恋与胡彦斌",
+      "onboard_time": 1694751158,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548733,
       "num": 548733,
       "word": "你准备好抢票了吗",
@@ -289,6 +321,14 @@
       "onboard_time": 1694740954,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496782,
+      "num": 496782,
+      "word": "他从火光中走来 定档",
+      "onboard_time": 1694750976,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 478609,
@@ -323,12 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452536,
-      "num": 448728,
-      "word": "苹果要求员工对iPhone12辐射沉默",
-      "onboard_time": 1694746892,
-      "rank": 22,
-      "category": "科技"
+      "raw_hot": 458332,
+      "num": 458332,
+      "word": "伊能静香评",
+      "onboard_time": 1694748634,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 458160,
+      "num": 458160,
+      "word": "上官浅 第一驯夫高手",
+      "onboard_time": 1694748274,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 447264,
@@ -379,6 +427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 416113,
+      "num": 416113,
+      "word": "62岁女子辅助生殖成功产女",
+      "onboard_time": 1694749176,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412676,
       "num": 300616,
       "word": "我妈凑单抢到的迷你版百岁山",
@@ -411,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374818,
+      "num": 374818,
+      "word": "女生点外卖从碗里吃出地漏",
+      "onboard_time": 1694750436,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370536,
       "num": 370536,
       "word": "宋紫薇 理想",
@@ -435,6 +499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 351178,
+      "num": 351178,
+      "word": "饿了么崩了",
+      "onboard_time": 1694750618,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 327010,
       "num": 284563,
       "word": "上班族发工资前后的态度",
@@ -449,6 +521,14 @@
       "onboard_time": 1694746892,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 317282,
+      "num": 317282,
+      "word": "中餐厅最后一次双档口营业",
+      "onboard_time": 1694750197,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 313313,
@@ -483,19 +563,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302006,
+      "num": 302006,
+      "word": "警方通报初中投毒者为2名13岁女生",
+      "onboard_time": 1694750136,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300369,
       "num": 300369,
       "word": "宫二终于知道了谁才是无锋首领",
       "onboard_time": 1694690135,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 298205,
-      "num": 298205,
-      "word": "上官浅 第一驯夫高手",
-      "onboard_time": 1694748274,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -563,6 +643,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 237204,
+      "num": 237204,
+      "word": "胡彦斌没组合名有点着急",
+      "onboard_time": 1694751337,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232933,
       "num": 232933,
       "word": "五条悟摘掉眼罩",
@@ -587,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225499,
+      "num": 225499,
+      "word": "贵的包包到底有多重",
+      "onboard_time": 1694749295,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 224085,
       "num": 224085,
       "word": "央行决定降准0.25个百分点",
@@ -601,6 +697,14 @@
       "onboard_time": 1694739937,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223009,
+      "num": 223009,
+      "word": "骄阳伴我 纯爱救赎",
+      "onboard_time": 1694750976,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 221562,
@@ -633,6 +737,22 @@
       "onboard_time": 1694698359,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212840,
+      "num": 212840,
+      "word": "黄景瑜是鹦鹉杀的宣传委员",
+      "onboard_time": 1694749536,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208592,
+      "num": 208592,
+      "word": "披荆斩棘3二公",
+      "onboard_time": 1694751460,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 207888,
@@ -699,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200212,
+      "num": 200212,
+      "word": "易建联退役仪式",
+      "onboard_time": 1694748094,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198050,
       "num": 198050,
       "word": "公交车这个位置好适合社恐",
@@ -715,12 +843,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193987,
+      "num": 193987,
+      "word": "抽刀断水的神话实现了",
+      "onboard_time": 1694751158,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190910,
+      "num": 190910,
+      "word": "IU透露新专辑主题",
+      "onboard_time": 1694750316,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190158,
       "num": 190158,
       "word": "希望工程新歌大眼睛发布",
       "onboard_time": 1694746714,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189411,
+      "num": 189411,
+      "word": "奥本海默桥段 你并不是宇宙的中心",
+      "onboard_time": 1694749056,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 188328,
@@ -737,6 +889,14 @@
       "onboard_time": 1694737955,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186801,
+      "num": 186801,
+      "word": "宫尚角好像开屏的孔雀",
+      "onboard_time": 1694749776,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 182993,
@@ -795,14 +955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176356,
-      "num": 176356,
-      "word": "易建联退役仪式",
-      "onboard_time": 1694748094,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176172,
       "num": 176172,
       "word": "小学生带民警上山排雷找到84枚雷管",
@@ -825,14 +977,6 @@
       "onboard_time": 1694734411,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173272,
-      "num": 173272,
-      "word": "蜂花香皂 残障人士包装",
-      "onboard_time": 1694748699,
-      "rank": 36,
-      "category": "其它"
     },
     {
       "raw_hot": 172831,
@@ -889,14 +1033,6 @@
       "onboard_time": 1694743775,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 164303,
-      "num": 164303,
-      "word": "伊能静香评",
-      "onboard_time": 1694748634,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 163589,
@@ -1028,7 +1164,7 @@
     },
     {
       "raw_hot": 143068,
-      "num": 178483,
+      "num": 270872,
       "word": "去年6成网友吃不完的月饼去哪了",
       "onboard_time": 1694748514,
       "rank": 34,
@@ -1212,7 +1348,7 @@
     },
     {
       "raw_hot": 75269,
-      "num": 1853845,
+      "num": 2271919,
       "word": "当亚运遇上民乐太惊艳了",
       "onboard_time": 1694699920,
       "rank": 2,
