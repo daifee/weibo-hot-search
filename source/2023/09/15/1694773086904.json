@@ -1,0 +1,410 @@
+{
+  "runTime": 1694773086904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1935111,
+        "num": 1935111,
+        "word": "中科院被骗博士晒出工资单",
+        "onboard_time": 1694765794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333486,
+        "num": 1567412,
+        "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
+        "onboard_time": 1694765615,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 34136,
+        "num": 1391664,
+        "word": "用超长画卷打开5000年杭州",
+        "onboard_time": 1694753680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281189,
+        "num": 1281189,
+        "word": "雅安地震",
+        "onboard_time": 1694772451,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147691,
+        "num": 966963,
+        "word": "女孩夸军人叔叔衣服帅被回应你也很美",
+        "onboard_time": 1694763694,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949319,
+        "num": 949319,
+        "word": "杜蕾斯辟谣与茅台联名",
+        "onboard_time": 1694770596,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803799,
+        "num": 803799,
+        "word": "一斤鸭脖70元年轻人大喊少抓点",
+        "onboard_time": 1694762314,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498251,
+        "num": 498251,
+        "word": "薛之谦滁州演唱会抢票",
+        "onboard_time": 1694771014,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 480210,
+        "num": 480210,
+        "word": "丞磊卢昱晓或将二搭",
+        "onboard_time": 1694768496,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396735,
+        "num": 396735,
+        "word": "YG回应Lisa拒绝续约",
+        "onboard_time": 1694753379,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1059727,
+        "num": 396598,
+        "word": "宝儿直播遭男子播放不雅视频",
+        "onboard_time": 1694761892,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942028,
+        "num": 394608,
+        "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
+        "onboard_time": 1694771614,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257085,
+        "num": 393822,
+        "word": "丫丫也养鸟了",
+        "onboard_time": 1694743835,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 837186,
+        "num": 392722,
+        "word": "陈都灵穿的好像生菜",
+        "onboard_time": 1694763813,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5403,
+        "num": 391616,
+        "word": "重点处置侵害企业名誉的虚假信息",
+        "onboard_time": 1694772994,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629299,
+        "num": 389612,
+        "word": "刘亦菲这精神状态领先我十年",
+        "onboard_time": 1694764894,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612114,
+        "num": 388222,
+        "word": "韩国人有多爱梁朝伟",
+        "onboard_time": 1694769274,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388024,
+        "num": 388024,
+        "word": "他从火光中走来 定档",
+        "onboard_time": 1694750976,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325523,
+        "num": 325523,
+        "word": "异人之下不高兴了就一人一下",
+        "onboard_time": 1694767536,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140930,
+        "num": 312288,
+        "word": "68岁阿姨晒照说我们也曾是少女",
+        "onboard_time": 1694772153,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308522,
+        "num": 308522,
+        "word": "如何看待蜂花借李佳琦热点搞营销",
+        "onboard_time": 1694771075,
+        "rank": 20,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 304052,
+        "num": 304052,
+        "word": "内娱圈粉i人",
+        "onboard_time": 1694772635,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297941,
+        "num": 297941,
+        "word": "iPhone15系列手机今晚8点预售",
+        "onboard_time": 1694763094,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289320,
+        "num": 289320,
+        "word": "陈楚生pk从没输过",
+        "onboard_time": 1694770654,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249090,
+        "num": 278625,
+        "word": "中方决定制裁2家美国军工企业",
+        "onboard_time": 1694764535,
+        "rank": 24,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 275734,
+        "num": 275734,
+        "word": "于适新片合作消失的她导演",
+        "onboard_time": 1694766695,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252721,
+        "num": 252721,
+        "word": "黑龙江队男子5000米接力小组第一",
+        "onboard_time": 1694772212,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231385,
+        "num": 231385,
+        "word": "男子称麻醉后被忘手术台医生下班",
+        "onboard_time": 1694768674,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231038,
+        "num": 231038,
+        "word": "十年果粉坦言苹果不如国产香",
+        "onboard_time": 1694772514,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147125,
+        "num": 226451,
+        "word": "牛牛我啊拔河输给了警察蜀黍",
+        "onboard_time": 1694772635,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331527,
+        "num": 226412,
+        "word": "用女儿的奶茶袋做文具",
+        "onboard_time": 1694771255,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 226340,
+        "num": 226340,
+        "word": "张予曦斗罗大陆2杀青照",
+        "onboard_time": 1694769754,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218043,
+        "num": 218043,
+        "word": "高铁乘客花35买盒饭发现标价15",
+        "onboard_time": 1694754101,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201759,
+        "num": 201759,
+        "word": "白宇烫头了",
+        "onboard_time": 1694772874,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186778,
+        "num": 186778,
+        "word": "每天少吃1克盐身体会有哪些变化",
+        "onboard_time": 1694772451,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185316,
+        "num": 185316,
+        "word": "猫猫的犬齿掉了",
+        "onboard_time": 1694771374,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 184841,
+        "num": 184841,
+        "word": "赵丽颖当选中视协第七届理事",
+        "onboard_time": 1694759674,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184257,
+        "num": 184257,
+        "word": "赵露思贝雷帽学院风造型",
+        "onboard_time": 1694769033,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177823,
+        "num": 177823,
+        "word": "杨坤马嘉祺合唱轰炸",
+        "onboard_time": 1694770714,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177642,
+        "num": 177642,
+        "word": "犯罪团伙将手榴弹遗忘车内致全军覆没",
+        "onboard_time": 1694766215,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173135,
+        "num": 173135,
+        "word": "抢票 抢不到",
+        "onboard_time": 1694741794,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170198,
+        "num": 170198,
+        "word": "蜂花年销售额已破10亿",
+        "onboard_time": 1694763035,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167880,
+        "num": 167880,
+        "word": "王栎鑫应该谢谢魏哲鸣吧",
+        "onboard_time": 1694767294,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158227,
+        "num": 158227,
+        "word": "张小斐低马尾",
+        "onboard_time": 1694769635,
+        "rank": 43,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 156127,
+        "num": 156127,
+        "word": "面试去不了老板给我转了两千",
+        "onboard_time": 1694772994,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154906,
+        "num": 154906,
+        "word": "对方撤回了一个儿子",
+        "onboard_time": 1694752961,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154667,
+        "num": 154667,
+        "word": "他从火光中走来毅往无前版预告",
+        "onboard_time": 1694768135,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146622,
+        "num": 146622,
+        "word": "封神富贵非吾愿",
+        "onboard_time": 1694772813,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144141,
+        "num": 144141,
+        "word": "韩庚魏大勋新剧定档",
+        "onboard_time": 1694764234,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144074,
+        "num": 144074,
+        "word": "广州暴雨",
+        "onboard_time": 1694761956,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    }
+  }
+}
