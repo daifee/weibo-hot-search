@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694805211700,
+  "endTime": 1694806429345,
   "band_list": [
     {
       "raw_hot": 1975799,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35878,
+      "num": 35878,
+      "word": "花360万开个露营地能赚多少钱",
+      "onboard_time": 1694803876,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 31786,
       "num": 40515,
       "word": "掌中宝盛阳和小野草盛阳",
@@ -451,12 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30696,
-      "num": 30696,
+      "raw_hot": 30881,
+      "num": 30881,
       "word": "刘宇宁南风知我意片头曲",
       "onboard_time": 1694805017,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30520,
+      "num": 40512,
+      "word": "扁桃体结石是怎么长出来的",
+      "onboard_time": 1694802736,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29372,
@@ -465,22 +481,6 @@
       "onboard_time": 1694802017,
       "rank": 49,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 29300,
-      "num": 29300,
-      "word": "花360万开个露营地能赚多少钱",
-      "onboard_time": 1694803876,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 28717,
-      "num": 40512,
-      "word": "扁桃体结石是怎么长出来的",
-      "onboard_time": 1694802736,
-      "rank": 49,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
