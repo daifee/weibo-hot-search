@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694773086904,
+  "endTime": 1694774073862,
   "band_list": [
     {
       "raw_hot": 2830589,
@@ -57,6 +57,14 @@
       "onboard_time": 1694738317,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2238220,
+      "num": 2238220,
+      "word": "雅安地震",
+      "onboard_time": 1694772451,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2218413,
@@ -147,14 +155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1281189,
-      "num": 1281189,
-      "word": "雅安地震",
-      "onboard_time": 1694772451,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1277896,
       "num": 504797,
       "word": "华为",
@@ -227,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994471,
+      "num": 994471,
+      "word": "杜蕾斯辟谣与茅台联名",
+      "onboard_time": 1694770596,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990874,
+      "num": 402763,
+      "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
+      "onboard_time": 1694771614,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972602,
       "num": 517964,
       "word": "刘亦菲这精神状态领先我十年",
@@ -249,22 +265,6 @@
       "onboard_time": 1694750976,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 949319,
-      "num": 949319,
-      "word": "杜蕾斯辟谣与茅台联名",
-      "onboard_time": 1694770596,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 942028,
-      "num": 394608,
-      "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
-      "onboard_time": 1694771614,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 931388,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 754899,
-      "num": 388222,
+      "num": 398216,
       "word": "韩国人有多爱梁朝伟",
       "onboard_time": 1694769274,
       "rank": 30,
@@ -611,6 +611,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 477359,
+      "num": 1731885,
+      "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
+      "onboard_time": 1694765615,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 477328,
+      "num": 399554,
+      "word": "白宇烫头了",
+      "onboard_time": 1694772874,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 470404,
       "num": 349407,
       "word": "吴磊八年前就邀请胡歌一起骑行",
@@ -771,6 +787,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 397692,
+      "num": 397692,
+      "word": "面试去不了老板给我转了两千",
+      "onboard_time": 1694772994,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 395243,
       "num": 395243,
       "word": "陈楚生李玖哲老舅行走的鱼",
@@ -851,6 +875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 368964,
+      "num": 368964,
+      "word": "十年果粉坦言苹果不如国产香",
+      "onboard_time": 1694772514,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 363654,
       "num": 340657,
       "word": "Ruler 我认为我们国家完全能夺冠",
@@ -865,6 +897,14 @@
       "onboard_time": 1694753437,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360206,
+      "num": 360206,
+      "word": "内娱圈粉i人",
+      "onboard_time": 1694772635,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357268,
@@ -899,20 +939,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333486,
-      "num": 1567412,
-      "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
-      "onboard_time": 1694765615,
-      "rank": 43,
-      "category": "社会正能量"
+      "raw_hot": 334330,
+      "num": 334330,
+      "word": "如何看待蜂花借李佳琦热点搞营销",
+      "onboard_time": 1694771075,
+      "rank": 20,
+      "category": "社会议题,网红"
     },
     {
       "raw_hot": 331527,
-      "num": 226412,
+      "num": 264141,
       "word": "用女儿的奶茶袋做文具",
       "onboard_time": 1694771255,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 329779,
+      "num": 329779,
+      "word": "每天少吃1克盐身体会有哪些变化",
+      "onboard_time": 1694772451,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327010,
@@ -979,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308522,
-      "num": 308522,
-      "word": "如何看待蜂花借李佳琦热点搞营销",
-      "onboard_time": 1694771075,
-      "rank": 20,
-      "category": "社会议题,网红"
-    },
-    {
       "raw_hot": 308448,
       "num": 308448,
       "word": "当新来的游客认不出花花",
@@ -1011,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304052,
-      "num": 304052,
-      "word": "内娱圈粉i人",
+      "raw_hot": 301802,
+      "num": 1063616,
+      "word": "牛牛我啊拔河输给了警察蜀黍",
       "onboard_time": 1694772635,
-      "rank": 21,
-      "category": "作品衍生"
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300369,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1694752239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273925,
+      "num": 273925,
+      "word": "黑龙江队男子5000米接力小组第一",
+      "onboard_time": 1694772212,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 272917,
@@ -1155,14 +1203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252721,
-      "num": 252721,
-      "word": "黑龙江队男子5000米接力小组第一",
-      "onboard_time": 1694772212,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251948,
       "num": 251948,
       "word": "医学生的学费真是没白交",
@@ -1243,12 +1283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233331,
+      "num": 233331,
+      "word": "张予曦斗罗大陆2杀青照",
+      "onboard_time": 1694769754,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232933,
       "num": 232933,
       "word": "五条悟摘掉眼罩",
       "onboard_time": 1694742454,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 232749,
+      "num": 232749,
+      "word": "人民日报申论规范表达",
+      "onboard_time": 1694773414,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 231556,
@@ -1267,28 +1323,12 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 231038,
-      "num": 231038,
-      "word": "十年果粉坦言苹果不如国产香",
-      "onboard_time": 1694772514,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 229529,
       "num": 229529,
       "word": "易建联说一辈子不会离开体育",
       "onboard_time": 1694764116,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226340,
-      "num": 226340,
-      "word": "张予曦斗罗大陆2杀青照",
-      "onboard_time": 1694769754,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 225792,
@@ -1491,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201759,
-      "num": 201759,
-      "word": "白宇烫头了",
-      "onboard_time": 1694772874,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 201257,
       "num": 201257,
       "word": "A股",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1694749776,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186778,
-      "num": 186778,
-      "word": "每天少吃1克盐身体会有哪些变化",
-      "onboard_time": 1694772451,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 185316,
@@ -1843,12 +1867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166605,
+      "num": 166605,
+      "word": "盛阳 我夜夜笙歌气死你",
+      "onboard_time": 1694773777,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165404,
       "num": 165404,
       "word": "94岁硬核奶奶做中国人听得懂的歌剧",
       "onboard_time": 1694744014,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165277,
+      "num": 165277,
+      "word": "封神富贵非吾愿",
+      "onboard_time": 1694772813,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 164951,
@@ -1947,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156127,
-      "num": 156127,
-      "word": "面试去不了老板给我转了两千",
-      "onboard_time": 1694772994,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154660,
       "num": 154660,
       "word": "全场给冯宝宝哭丧",
@@ -2001,22 +2033,6 @@
       "onboard_time": 1694737175,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147125,
-      "num": 226451,
-      "word": "牛牛我啊拔河输给了警察蜀黍",
-      "onboard_time": 1694772635,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146622,
-      "num": 146622,
-      "word": "封神富贵非吾愿",
-      "onboard_time": 1694772813,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 146125,
@@ -2291,6 +2307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81962,
+      "num": 130651,
+      "word": "非遗正在以这种方式复苏",
+      "onboard_time": 1694774016,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75269,
       "num": 2271919,
       "word": "当亚运遇上民乐太惊艳了",
@@ -2300,7 +2324,7 @@
     },
     {
       "raw_hot": 73883,
-      "num": 1391664,
+      "num": 1605299,
       "word": "用超长画卷打开5000年杭州",
       "onboard_time": 1694753680,
       "rank": 2,
@@ -2387,8 +2411,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 5403,
-      "num": 391616,
+      "raw_hot": 18270,
+      "num": 402203,
       "word": "重点处置侵害企业名誉的虚假信息",
       "onboard_time": 1694772994,
       "rank": 14,
