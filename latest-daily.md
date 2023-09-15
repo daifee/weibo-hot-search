@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 06:15:26
+本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 06:33:53
 </p>
 </blockquote>
 <p>
@@ -346,7 +346,13 @@ Jennie芭莎十月刊封面大片（热度：149994）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%E6%B5%B7%E5%B3%A1%E9%BB%84%E6%B5%B7%E5%8C%97%E9%83%A8%E6%89%A7%E8%A1%8C%E5%86%9B%E4%BA%8B%E4%BB%BB%E5%8A%A1%23" target="weibo">
-渤海海峡黄海北部执行军事任务（热度：53948）
+渤海海峡黄海北部执行军事任务（热度：65011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B8%89%E4%B8%AA%E4%BD%9C%E6%96%87%E4%B8%87%E8%83%BD%E5%BC%80%E5%A4%B4%23" target="weibo">
+教师资格证三个作文万能开头（热度：54834）
 </a>
 </li>
 
@@ -363,6 +369,12 @@ Jennie芭莎十月刊封面大片（热度：149994）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%85%A8%E7%BA%A2%E9%80%A0%E5%9E%8B%23" target="weibo">
+吴磊全红造型（热度：38938）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%20%E6%AF%95%E4%B8%9A%E4%B9%8B%E5%89%8D%E6%9D%A5%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 尤长靖 毕业之前来看演唱会（热度：36743）
 </a>
@@ -375,14 +387,8 @@ Jennie芭莎十月刊封面大片（热度：149994）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%85%A8%E7%BA%A2%E9%80%A0%E5%9E%8B%23" target="weibo">
-吴磊全红造型（热度：31162）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E7%89%87%E5%A4%B4%E6%9B%B2%23" target="weibo">
-刘宇宁南风知我意片头曲（热度：30881）
+刘宇宁南风知我意片头曲（热度：31184）
 </a>
 </li>
 
