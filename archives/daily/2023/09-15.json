@@ -1,7 +1,15 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694745273480,
+  "endTime": 1694747847718,
   "band_list": [
+    {
+      "raw_hot": 2820728,
+      "num": 2820728,
+      "word": "抢票 抢不到",
+      "onboard_time": 1694741794,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2704265,
       "num": 2704265,
@@ -25,14 +33,6 @@
       "onboard_time": 1694738317,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2292198,
-      "num": 2292198,
-      "word": "抢票 抢不到",
-      "onboard_time": 1694741794,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1823392,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988415,
+      "num": 988415,
+      "word": "男子吃生腌海鲜后做4次手术失去1条腿",
+      "onboard_time": 1694746292,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888514,
       "num": 622042,
       "word": "这下谁还分得清营业和真情侣",
@@ -137,6 +145,22 @@
       "onboard_time": 1694742694,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776421,
+      "num": 776421,
+      "word": "12306崩了",
+      "onboard_time": 1694744914,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 775001,
+      "num": 775001,
+      "word": "关晓彤唐嫣宋亚轩古装造型路透",
+      "onboard_time": 1694744492,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 739924,
@@ -179,12 +203,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 643050,
-      "num": 643050,
-      "word": "关晓彤唐嫣宋亚轩古装造型路透",
-      "onboard_time": 1694744492,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 648044,
+      "num": 648044,
+      "word": "帕梅拉坚持10年你坚持了几年",
+      "onboard_time": 1694743414,
+      "rank": 12,
+      "category": "社会新闻,运动健身"
+    },
+    {
+      "raw_hot": 638962,
+      "num": 638962,
+      "word": "boss直聘崩了",
+      "onboard_time": 1694747194,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 636116,
@@ -193,6 +225,14 @@
       "onboard_time": 1694735311,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 611036,
+      "num": 219072,
+      "word": "央视前女主持任星巴克董事",
+      "onboard_time": 1694746652,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593038,
@@ -204,7 +244,7 @@
     },
     {
       "raw_hot": 575677,
-      "num": 276229,
+      "num": 320481,
       "word": "长期喝百香果真的可以变白吗",
       "onboard_time": 1694743594,
       "rank": 23,
@@ -219,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 525448,
-      "num": 525448,
-      "word": "帕梅拉坚持10年你坚持了几年",
-      "onboard_time": 1694743414,
-      "rank": 12,
-      "category": "社会新闻,运动健身"
+      "raw_hot": 545985,
+      "num": 545985,
+      "word": "郁美净上架79元套餐",
+      "onboard_time": 1694745335,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500181,
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 499348,
-      "num": 499348,
+      "num": 561647,
       "word": "超9成网友认为北极鲶鱼事件应公布结果",
       "onboard_time": 1694740954,
       "rank": 18,
@@ -259,8 +299,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 460402,
-      "num": 275788,
+      "raw_hot": 469469,
+      "num": 315094,
       "word": "气血非常不足适合什么运动",
       "onboard_time": 1694744255,
       "rank": 31,
@@ -273,6 +313,14 @@
       "onboard_time": 1694695115,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452536,
+      "num": 313892,
+      "word": "苹果要求员工对iPhone12辐射沉默",
+      "onboard_time": 1694746892,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 447264,
@@ -339,8 +387,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 394287,
+      "num": 309026,
+      "word": "如果用一万块跟你换高铁座位",
+      "onboard_time": 1694746594,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383690,
-      "num": 275770,
+      "num": 306783,
       "word": "你会反感老牌国货蹭花西子热度吗",
       "onboard_time": 1694742816,
       "rank": 22,
@@ -377,6 +433,14 @@
       "onboard_time": 1694737715,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321611,
+      "num": 321611,
+      "word": "坚如磐石是张艺谋的叔圈严选",
+      "onboard_time": 1694746892,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 313313,
@@ -427,14 +491,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 276424,
-      "num": 276424,
-      "word": "12306崩了",
-      "onboard_time": 1694744914,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 269841,
       "num": 269841,
       "word": "宿舍超爽的睡觉氛围",
@@ -457,6 +513,14 @@
       "onboard_time": 1694703218,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250049,
+      "num": 250049,
+      "word": "医学生的学费真是没白交",
+      "onboard_time": 1694745392,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 248259,
@@ -579,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205765,
+      "num": 205765,
+      "word": "男子强买单搭讪失败攻击女子",
+      "onboard_time": 1694745094,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205623,
       "num": 205623,
       "word": "iPhone14价格不降反涨",
@@ -627,12 +699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189396,
-      "num": 189396,
-      "word": "男子强买单搭讪失败攻击女子",
-      "onboard_time": 1694745094,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 190158,
+      "num": 190158,
+      "word": "希望工程新歌大眼睛发布",
+      "onboard_time": 1694746714,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 188328,
@@ -691,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178217,
+      "num": 178217,
+      "word": "一个手势自测是否淋巴结肿大",
+      "onboard_time": 1694745094,
+      "rank": 42,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 178018,
       "num": 178018,
       "word": "于适少年赋浴室弹唱版",
       "onboard_time": 1694703521,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176172,
+      "num": 176172,
+      "word": "小学生带民警上山排雷找到84枚雷管",
+      "onboard_time": 1694746356,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175621,
@@ -801,14 +889,6 @@
       "onboard_time": 1694710944,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158033,
-      "num": 158033,
-      "word": "一个手势自测是否淋巴结肿大",
-      "onboard_time": 1694745094,
-      "rank": 42,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 157628,
@@ -1033,6 +1113,14 @@
       "onboard_time": 1694699318,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112543,
+      "num": 112543,
+      "word": "鹦鹉杀今日上映",
+      "onboard_time": 1694746234,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 104756,
