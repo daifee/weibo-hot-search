@@ -1,0 +1,410 @@
+{
+  "runTime": 1694776449306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613597,
+        "num": 1613597,
+        "word": "雅安地震",
+        "onboard_time": 1694772451,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1459175,
+        "num": 1459175,
+        "word": "中科院被骗博士晒出工资单",
+        "onboard_time": 1694765794,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569910,
+        "num": 1184412,
+        "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
+        "onboard_time": 1694765615,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1145594,
+        "num": 1145594,
+        "word": "云之羽超点",
+        "onboard_time": 1694774854,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321209,
+        "num": 816973,
+        "word": "牛牛我啊拔河输给了警察蜀黍",
+        "onboard_time": 1694772635,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757273,
+        "num": 757273,
+        "word": "如何看待蜂花借李佳琦热点搞营销",
+        "onboard_time": 1694771075,
+        "rank": 5,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 192706,
+        "num": 373351,
+        "word": "被官兵救助过的女子专程回来致谢",
+        "onboard_time": 1694775575,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 355811,
+        "num": 355811,
+        "word": "YG回应Lisa拒绝续约",
+        "onboard_time": 1694753379,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26129,
+        "num": 348758,
+        "word": "用超长画卷打开5000年杭州",
+        "onboard_time": 1694753680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345847,
+        "num": 345847,
+        "word": "外婆养大的羊羊",
+        "onboard_time": 1694774193,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1510699,
+        "num": 343734,
+        "word": "青岛一小区母子3人坠楼",
+        "onboard_time": 1694774133,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833373,
+        "num": 341656,
+        "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
+        "onboard_time": 1694771614,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706583,
+        "num": 336522,
+        "word": "宝儿直播遭男子播放不雅视频",
+        "onboard_time": 1694761892,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280989,
+        "num": 333197,
+        "word": "2024年考研时间表",
+        "onboard_time": 1694775754,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 619380,
+        "num": 331116,
+        "word": "白宇烫头了",
+        "onboard_time": 1694772874,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 552400,
+        "num": 327645,
+        "word": "陈都灵穿的好像生菜",
+        "onboard_time": 1694763813,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 538172,
+        "num": 323951,
+        "word": "一整个月都在抢东西了",
+        "onboard_time": 1694774915,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 492596,
+        "num": 321041,
+        "word": "苹果为消除禁令将更新iPhone12",
+        "onboard_time": 1694775273,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 400926,
+        "num": 317982,
+        "word": "刘亦菲这精神状态领先我十年",
+        "onboard_time": 1694764894,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391806,
+        "num": 313684,
+        "word": "38元买的谢馥春眉粉用了9年仅破皮",
+        "onboard_time": 1694774973,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 523079,
+        "num": 312021,
+        "word": "杜蕾斯辟谣与茅台联名",
+        "onboard_time": 1694770596,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309035,
+        "num": 309035,
+        "word": "一斤鸭脖70元年轻人大喊少抓点",
+        "onboard_time": 1694762314,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305614,
+        "num": 305614,
+        "word": "傅云深出车祸",
+        "onboard_time": 1694775814,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282725,
+        "num": 282725,
+        "word": "面试去不了老板给我转了两千",
+        "onboard_time": 1694772994,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276048,
+        "num": 276048,
+        "word": "丞磊卢昱晓或将二搭",
+        "onboard_time": 1694768496,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261477,
+        "num": 261477,
+        "word": "iPhone15系列手机今晚8点预售",
+        "onboard_time": 1694763094,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260790,
+        "num": 260790,
+        "word": "每天少吃1克盐身体会有哪些变化",
+        "onboard_time": 1694772451,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256876,
+        "num": 256876,
+        "word": "内娱圈粉i人",
+        "onboard_time": 1694772635,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238855,
+        "num": 238855,
+        "word": "魏大勋片场拉韩庚下海",
+        "onboard_time": 1694775394,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232568,
+        "num": 232568,
+        "word": "薛之谦滁州演唱会抢票",
+        "onboard_time": 1694771014,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223553,
+        "num": 223553,
+        "word": "陆仙人妆后变仙子",
+        "onboard_time": 1694775754,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222588,
+        "num": 222588,
+        "word": "人民日报申论规范表达",
+        "onboard_time": 1694773414,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219368,
+        "num": 219368,
+        "word": "韩国人有多爱梁朝伟",
+        "onboard_time": 1694769274,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205931,
+        "num": 205931,
+        "word": "十年果粉坦言苹果不如国产香",
+        "onboard_time": 1694772514,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198598,
+        "num": 198598,
+        "word": "傅云深跟狗炫耀女朋友",
+        "onboard_time": 1694775993,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192439,
+        "num": 192439,
+        "word": "稻城亚丁",
+        "onboard_time": 1694775814,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 164140,
+        "num": 164140,
+        "word": "散粉总结 再踩雷就不礼貌了",
+        "onboard_time": 1694776054,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159049,
+        "num": 159049,
+        "word": "张予曦斗罗大陆2杀青照",
+        "onboard_time": 1694769754,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156768,
+        "num": 156768,
+        "word": "盛阳 我夜夜笙歌气死你",
+        "onboard_time": 1694773777,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145896,
+        "num": 153843,
+        "word": "中方决定制裁2家美国军工企业",
+        "onboard_time": 1694764535,
+        "rank": 39,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 121480,
+        "num": 153672,
+        "word": "睡眠加载失败的原因有哪些",
+        "onboard_time": 1694776172,
+        "rank": 40,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 153635,
+        "num": 153635,
+        "word": "他从火光中走来 定档",
+        "onboard_time": 1694750976,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149908,
+        "num": 149908,
+        "word": "陈楚生pk从没输过",
+        "onboard_time": 1694770654,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 145581,
+        "word": "宫远徵制毒 疯批的汤姆猫",
+        "onboard_time": 1694776355,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143186,
+        "num": 143186,
+        "word": "赵丽颖当选中视协第七届理事",
+        "onboard_time": 1694759674,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133712,
+        "num": 133712,
+        "word": "黑龙江队男子5000米接力小组第一",
+        "onboard_time": 1694772212,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121535,
+        "num": 121535,
+        "word": "用女儿的奶茶袋做文具",
+        "onboard_time": 1694771255,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 117391,
+        "num": 117391,
+        "word": "Angelababy为杭州亚运会配音",
+        "onboard_time": 1694763454,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 115221,
+        "num": 115221,
+        "word": "女孩夸军人叔叔衣服帅被回应你也很美",
+        "onboard_time": 1694763694,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113894,
+        "num": 113894,
+        "word": "文咏珊被正式确诊为文勇扇",
+        "onboard_time": 1694776413,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    }
+  }
+}
