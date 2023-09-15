@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694781132688,
+  "endTime": 1694782110652,
   "band_list": [
     {
       "raw_hot": 4487373,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2747501,
+      "num": 2747501,
+      "word": "云之羽结局",
+      "onboard_time": 1694780316,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2704265,
       "num": 2704265,
       "word": "211女硕士遭杀猪盘两周被骗138万",
@@ -49,14 +57,6 @@
       "onboard_time": 1694746652,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2529027,
-      "num": 2529027,
-      "word": "云之羽结局",
-      "onboard_time": 1694780316,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2504910,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1059426,
+      "num": 1059426,
+      "word": "剥了5000多只虾就为了一碗面",
+      "onboard_time": 1694779117,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1052115,
       "num": 1052115,
       "word": "外媒曝Lisa拒绝和YG续约",
@@ -259,20 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024460,
+      "num": 1024460,
+      "word": "吴昕再去也已是嘉宾",
+      "onboard_time": 1694778635,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1023351,
+      "num": 1023351,
+      "word": "孩子在外婆家溺亡父亲起诉索赔80万",
+      "onboard_time": 1694777854,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016931,
       "num": 1016931,
       "word": "苹果要求员工对iPhone12辐射沉默",
       "onboard_time": 1694746892,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1013871,
-      "num": 1013871,
-      "word": "孩子在外婆家溺亡父亲起诉索赔80万",
-      "onboard_time": 1694777854,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1008934,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 864777,
-      "num": 864777,
-      "word": "吴昕再去也已是嘉宾",
-      "onboard_time": 1694778635,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 820049,
       "num": 820049,
       "word": "蜂花年销售额已破10亿",
@@ -457,14 +465,6 @@
       "onboard_time": 1694769274,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 749021,
-      "num": 749021,
-      "word": "剥了5000多只虾就为了一碗面",
-      "onboard_time": 1694779117,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 746802,
@@ -755,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 473389,
+      "num": 752352,
+      "word": "原神4.1全球直播",
+      "onboard_time": 1694779238,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 470404,
       "num": 349407,
       "word": "吴磊八年前就邀请胡歌一起骑行",
@@ -801,6 +809,14 @@
       "onboard_time": 1694748634,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 457434,
+      "num": 343133,
+      "word": "成毅一边下台一边擦泪",
+      "onboard_time": 1694779776,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 454982,
@@ -867,6 +883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 429701,
+      "num": 421777,
+      "word": "Jennie芭莎十月刊封面大片",
+      "onboard_time": 1694779538,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 429012,
       "num": 429012,
       "word": "体质真的会影响思维和性格",
@@ -881,14 +905,6 @@
       "onboard_time": 1694705435,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 421777,
-      "num": 421777,
-      "word": "Jennie芭莎十月刊封面大片",
-      "onboard_time": 1694779538,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 420065,
@@ -1019,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383454,
-      "num": 752352,
-      "word": "原神4.1全球直播",
-      "onboard_time": 1694779238,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 378672,
       "num": 378672,
       "word": "高铁化妆 美妆博主反击",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1694750436,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373930,
+      "num": 308774,
+      "word": "苹果首发",
+      "onboard_time": 1694781217,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 370536,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1694774193,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 343133,
-      "num": 343133,
-      "word": "成毅一边下台一边擦泪",
-      "onboard_time": 1694779776,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 331527,
@@ -1307,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296945,
+      "num": 296945,
+      "word": "蜂花称暂时不考虑花钱请代言人",
+      "onboard_time": 1694777435,
+      "rank": 48,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 293648,
       "num": 293648,
       "word": "陈楚生吉他弹唱思念一个荒废的名字",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1694772212,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273725,
-      "num": 273725,
-      "word": "蜂花称暂时不考虑花钱请代言人",
-      "onboard_time": 1694777435,
-      "rank": 48,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 272917,
@@ -2323,6 +2331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156854,
+      "num": 156854,
+      "word": "原神 独属于你的演奏",
+      "onboard_time": 1694781996,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154928,
+      "num": 154928,
+      "word": "北京国安vs浙江队",
+      "onboard_time": 1694781518,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154660,
       "num": 154660,
       "word": "全场给冯宝宝哭丧",
@@ -2739,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37800,
+      "num": 217542,
+      "word": "杭州亚运会宣传片爱之城",
+      "onboard_time": 1694781815,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28521,
       "num": 28521,
       "word": "2023北京文化论坛",
@@ -2777,6 +2809,14 @@
       "onboard_time": 1694772994,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10869,
+      "num": 1259977,
+      "word": "深空探测新规划公布",
+      "onboard_time": 1694781996,
+      "rank": 2,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
@@ -2788,6 +2828,9 @@
     },
     {
       "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    },
+    {
+      "word": "#为推进祖国统一大业不断贡献青春力量#"
     }
   ]
 }

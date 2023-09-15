@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694781132688,
+  "endTime": 1694782110652,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -363,6 +363,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2747501,
+      "num": 2747501,
+      "word": "云之羽结局",
+      "onboard_time": 1694780316,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2744854,
       "num": 2744854,
       "word": "花洛莉亚 这泼天的富贵",
@@ -457,14 +465,6 @@
       "onboard_time": 1694746652,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2529027,
-      "num": 2529027,
-      "word": "云之羽结局",
-      "onboard_time": 1694780316,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2527144,
@@ -1931,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1059426,
+      "num": 1059426,
+      "word": "剥了5000多只虾就为了一碗面",
+      "onboard_time": 1694779117,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1056499,
       "num": 1056499,
       "word": "你的钱也不是天上刮来的",
@@ -1979,11 +1987,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1024460,
+      "num": 1024460,
+      "word": "吴昕再去也已是嘉宾",
+      "onboard_time": 1694778635,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1024085,
       "num": 1024085,
       "word": "蜂花回应捡箱子发货",
       "onboard_time": 1694495264,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023351,
+      "num": 1023351,
+      "word": "孩子在外婆家溺亡父亲起诉索赔80万",
+      "onboard_time": 1694777854,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2009,14 +2033,6 @@
       "onboard_time": 1694746892,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1013871,
-      "num": 1013871,
-      "word": "孩子在外婆家溺亡父亲起诉索赔80万",
-      "onboard_time": 1694777854,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1012866,
@@ -2456,14 +2472,6 @@
       "word": "王源像跟着父母应酬的我",
       "onboard_time": 1694326773,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 864777,
-      "num": 864777,
-      "word": "吴昕再去也已是嘉宾",
-      "onboard_time": 1694778635,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -2977,14 +2985,6 @@
       "onboard_time": 1694310155,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 749021,
-      "num": 749021,
-      "word": "剥了5000多只虾就为了一碗面",
-      "onboard_time": 1694779117,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 746802,
@@ -4979,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473389,
+      "num": 752352,
+      "word": "原神4.1全球直播",
+      "onboard_time": 1694586815,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 472147,
       "num": 472147,
       "word": "射手座是一个嘴软心硬的人",
@@ -5193,6 +5201,14 @@
       "onboard_time": 1694748634,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 457434,
+      "num": 343133,
+      "word": "成毅一边下台一边擦泪",
+      "onboard_time": 1694779776,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 457176,
@@ -5579,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429701,
+      "num": 421777,
+      "word": "Jennie芭莎十月刊封面大片",
+      "onboard_time": 1694779538,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 429603,
       "num": 467870,
       "word": "10年米粉换用iPhone是什么体验",
@@ -5697,14 +5721,6 @@
       "onboard_time": 1694509659,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 421777,
-      "num": 421777,
-      "word": "Jennie芭莎十月刊封面大片",
-      "onboard_time": 1694779538,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421759,
@@ -6211,14 +6227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383454,
-      "num": 752352,
-      "word": "原神4.1全球直播",
-      "onboard_time": 1694586815,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 383415,
       "num": 383415,
       "word": "眉笔推荐",
@@ -6313,6 +6321,14 @@
       "onboard_time": 1694411738,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373930,
+      "num": 308774,
+      "word": "苹果首发",
+      "onboard_time": 1694781217,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 373269,
@@ -6880,14 +6896,6 @@
       "word": "肖战说不断产出才能走得长远",
       "onboard_time": 1694664703,
       "rank": 42,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 343133,
-      "num": 343133,
-      "word": "成毅一边下台一边擦泪",
-      "onboard_time": 1694779776,
-      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -8059,6 +8067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296945,
+      "num": 296945,
+      "word": "蜂花称暂时不考虑花钱请代言人",
+      "onboard_time": 1694777435,
+      "rank": 48,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 296916,
       "num": 296916,
       "word": "一个月饼到底有多少热量",
@@ -8561,14 +8577,6 @@
       "onboard_time": 1694772212,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273725,
-      "num": 273725,
-      "word": "蜂花称暂时不考虑花钱请代言人",
-      "onboard_time": 1694777435,
-      "rank": 48,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 273659,
@@ -13659,6 +13667,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 156854,
+      "num": 156854,
+      "word": "原神 独属于你的演奏",
+      "onboard_time": 1694781996,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156713,
       "num": 156713,
       "word": "推迟打烊只为工人能吃碗面",
@@ -13697,6 +13713,14 @@
       "onboard_time": 1694566659,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154928,
+      "num": 154928,
+      "word": "北京国安vs浙江队",
+      "onboard_time": 1694781518,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 154490,
@@ -15459,6 +15483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37800,
+      "num": 217542,
+      "word": "杭州亚运会宣传片爱之城",
+      "onboard_time": 1694781815,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37509,
       "num": 145415,
       "word": "他自己淋过雨所以想为孩子们撑一把伞",
@@ -15713,6 +15745,14 @@
       "onboard_time": 1694578783,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10869,
+      "num": 1259977,
+      "word": "深空探测新规划公布",
+      "onboard_time": 1694781996,
+      "rank": 2,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
@@ -15760,6 +15800,9 @@
     },
     {
       "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    },
+    {
+      "word": "#为推进祖国统一大业不断贡献青春力量#"
     }
   ]
 }

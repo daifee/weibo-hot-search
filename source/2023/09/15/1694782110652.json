@@ -1,0 +1,410 @@
+{
+  "runTime": 1694782110652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2747501,
+        "num": 2747501,
+        "word": "云之羽结局",
+        "onboard_time": 1694780316,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1562734,
+        "num": 1562734,
+        "word": "文咏珊被正式确诊为文勇扇",
+        "onboard_time": 1694776413,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10869,
+        "num": 1259977,
+        "word": "深空探测新规划公布",
+        "onboard_time": 1694781996,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1059426,
+        "num": 1059426,
+        "word": "剥了5000多只虾就为了一碗面",
+        "onboard_time": 1694779117,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1024460,
+        "num": 1024460,
+        "word": "吴昕再去也已是嘉宾",
+        "onboard_time": 1694778635,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1023351,
+        "num": 1023351,
+        "word": "孩子在外婆家溺亡父亲起诉索赔80万",
+        "onboard_time": 1694777854,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692813,
+        "num": 692813,
+        "word": "云之羽超点",
+        "onboard_time": 1694774854,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652158,
+        "num": 652158,
+        "word": "李玖哲因公司拒绝而错过我是歌手",
+        "onboard_time": 1694777974,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513256,
+        "num": 513256,
+        "word": "如何看待蜂花借李佳琦热点搞营销",
+        "onboard_time": 1694771075,
+        "rank": 8,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 320390,
+        "num": 320390,
+        "word": "高铁化妆 美妆博主反击",
+        "onboard_time": 1694778693,
+        "rank": 9,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 3343133,
+        "num": 320136,
+        "word": "苹果官网崩了",
+        "onboard_time": 1694779716,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235151,
+        "num": 319033,
+        "word": "雅安地震",
+        "onboard_time": 1694772451,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217133,
+        "num": 318516,
+        "word": "中秋国庆最强高铁买票攻略",
+        "onboard_time": 1694776535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130622,
+        "num": 317058,
+        "word": "2024年考研时间表",
+        "onboard_time": 1694775754,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 473389,
+        "num": 316533,
+        "word": "原神4.1全球直播",
+        "onboard_time": 1694779238,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1592051,
+        "num": 315722,
+        "word": "iPhone15开卖",
+        "onboard_time": 1694780018,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 627402,
+        "num": 314925,
+        "word": "睡睡 张硕",
+        "onboard_time": 1694779177,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605292,
+        "num": 313646,
+        "word": "中科院被骗博士晒出工资单",
+        "onboard_time": 1694765794,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502544,
+        "num": 313505,
+        "word": "傅云深出车祸",
+        "onboard_time": 1694775814,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457434,
+        "num": 312189,
+        "word": "成毅一边下台一边擦泪",
+        "onboard_time": 1694779776,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 878885,
+        "num": 311350,
+        "word": "青岛一小区母子3人坠楼",
+        "onboard_time": 1694774133,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429701,
+        "num": 310502,
+        "word": "Jennie芭莎十月刊封面大片",
+        "onboard_time": 1694779538,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 415757,
+        "num": 309451,
+        "word": "肖战被雪姨经典台词戳中笑点",
+        "onboard_time": 1694778817,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373930,
+        "num": 308774,
+        "word": "苹果首发",
+        "onboard_time": 1694781217,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 367448,
+        "num": 307585,
+        "word": "苹果为消除禁令将更新iPhone12",
+        "onboard_time": 1694775273,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307491,
+        "num": 307491,
+        "word": "刘恋晋级又淘汰",
+        "onboard_time": 1694777554,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305043,
+        "num": 305043,
+        "word": "宝儿直播遭男子播放不雅视频",
+        "onboard_time": 1694761892,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126716,
+        "num": 301563,
+        "word": "被官兵救助过的女子专程回来致谢",
+        "onboard_time": 1694775575,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 299553,
+        "num": 299553,
+        "word": "家庭教师",
+        "onboard_time": 1694776653,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 296945,
+        "num": 296945,
+        "word": "蜂花称暂时不考虑花钱请代言人",
+        "onboard_time": 1694777435,
+        "rank": 29,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 278002,
+        "num": 278002,
+        "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
+        "onboard_time": 1694771614,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275537,
+        "num": 275537,
+        "word": "38元买的谢馥春眉粉用了9年仅破皮",
+        "onboard_time": 1694774973,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268358,
+        "num": 268358,
+        "word": "售卖35元盒饭的餐服员被停职",
+        "onboard_time": 1694777492,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225831,
+        "num": 225831,
+        "word": "陈都灵穿的好像生菜",
+        "onboard_time": 1694763813,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219465,
+        "num": 219465,
+        "word": "稻城亚丁",
+        "onboard_time": 1694775814,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 37800,
+        "num": 217542,
+        "word": "杭州亚运会宣传片爱之城",
+        "onboard_time": 1694781815,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216578,
+        "num": 216578,
+        "word": "宫远徵制毒 疯批的汤姆猫",
+        "onboard_time": 1694776355,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215260,
+        "num": 215260,
+        "word": "刘亦菲这精神状态领先我十年",
+        "onboard_time": 1694764894,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203656,
+        "num": 203656,
+        "word": "YG回应Lisa拒绝续约",
+        "onboard_time": 1694753379,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193318,
+        "num": 193318,
+        "word": "陈楚生部落三连胜",
+        "onboard_time": 1694779417,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175653,
+        "num": 175653,
+        "word": "一整个月都在抢东西了",
+        "onboard_time": 1694774915,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171488,
+        "num": 171488,
+        "word": "散粉总结 再踩雷就不礼貌了",
+        "onboard_time": 1694776054,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161067,
+        "num": 161067,
+        "word": "丞磊卢昱晓或将二搭",
+        "onboard_time": 1694768496,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159076,
+        "num": 159076,
+        "word": "嘉顿饼干面包大测评",
+        "onboard_time": 1694780618,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158012,
+        "num": 158012,
+        "word": "宫紫商发现宫唤羽假死",
+        "onboard_time": 1694776955,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156854,
+        "num": 156854,
+        "word": "原神 独属于你的演奏",
+        "onboard_time": 1694781996,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154928,
+        "num": 154928,
+        "word": "北京国安vs浙江队",
+        "onboard_time": 1694781518,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142433,
+        "num": 142433,
+        "word": "林孝埈强势领滑",
+        "onboard_time": 1694777136,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137682,
+        "num": 137682,
+        "word": "左叶陈楚河真的不是兄弟吗",
+        "onboard_time": 1694777015,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37885,
+        "num": 136801,
+        "word": "60秒速览北京文化论坛文艺晚会",
+        "onboard_time": 1694778518,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进祖国统一大业不断贡献青春力量#"
+    }
+  }
+}
