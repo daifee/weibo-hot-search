@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694763230842,
+  "endTime": 1694766088631,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2091074,
+      "num": 519240,
+      "word": "宝儿直播遭男子播放不雅视频",
+      "onboard_time": 1694761892,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2040189,
       "num": 2040189,
       "word": "高铁乘客花35买盒饭发现标价15",
@@ -107,12 +115,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1341482,
-      "num": 206625,
-      "word": "宝儿直播遭男子播放不雅视频",
-      "onboard_time": 1694761892,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 1307549,
+      "num": 518721,
+      "word": "陈都灵穿的好像生菜",
+      "onboard_time": 1694763813,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1277896,
@@ -161,6 +169,14 @@
       "onboard_time": 1694692596,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1023456,
+      "num": 1023456,
+      "word": "中方决定制裁2家美国军工企业",
+      "onboard_time": 1694764535,
+      "rank": 0,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 1016931,
@@ -219,12 +235,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 873621,
+      "num": 517964,
+      "word": "刘亦菲这精神状态领先我十年",
+      "onboard_time": 1694764894,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 867323,
       "num": 867323,
       "word": "女子翻护栏捡手机坠下40米高瀑布身亡",
       "onboard_time": 1694734590,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820049,
+      "num": 820049,
+      "word": "蜂花年销售额已破10亿",
+      "onboard_time": 1694763035,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 805956,
@@ -265,6 +297,14 @@
       "onboard_time": 1694744492,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767845,
+      "num": 513745,
+      "word": "讨厌型人格",
+      "onboard_time": 1694762373,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 746118,
@@ -355,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 634817,
+      "num": 634817,
+      "word": "韩庚魏大勋新剧定档",
+      "onboard_time": 1694764234,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 602959,
       "num": 602959,
       "word": "郁美净上架79元套餐",
@@ -384,6 +432,14 @@
       "word": "高铁上化妆列为不文明行为网友为何不认可",
       "onboard_time": 1694694097,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591833,
+      "num": 591833,
+      "word": "广州暴雨",
+      "onboard_time": 1694761956,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -419,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513060,
+      "num": 513060,
+      "word": "一斤鸭脖70元年轻人大喊少抓点",
+      "onboard_time": 1694762314,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511896,
       "num": 511896,
       "word": "吴昕录你好星期六",
@@ -441,6 +505,14 @@
       "onboard_time": 1694698897,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 499717,
+      "num": 499717,
+      "word": "iPhone15系列手机今晚8点预售",
+      "onboard_time": 1694763094,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 499348,
@@ -603,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 401151,
+      "num": 401151,
+      "word": "Angelababy为杭州亚运会配音",
+      "onboard_time": 1694763454,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 395243,
       "num": 395243,
       "word": "陈楚生李玖哲老舅行走的鱼",
@@ -635,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390241,
+      "num": 323508,
+      "word": "关晓彤用600年石榴树果做胭脂",
+      "onboard_time": 1694764959,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385776,
       "num": 385776,
       "word": "结婚冷静期有人帮你们试了",
@@ -648,14 +736,6 @@
       "word": "你会反感老牌国货蹭花西子热度吗",
       "onboard_time": 1694742816,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376009,
-      "num": 316579,
-      "word": "一斤鸭脖70元年轻人大喊少抓点",
-      "onboard_time": 1694762314,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -708,27 +788,11 @@
     },
     {
       "raw_hot": 349619,
-      "num": 205549,
+      "num": 224282,
       "word": "被英国男朋友当成中国女巫",
       "onboard_time": 1694762314,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349001,
-      "num": 349001,
-      "word": "广州暴雨",
-      "onboard_time": 1694761956,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348096,
-      "num": 348096,
-      "word": "讨厌型人格",
-      "onboard_time": 1694762373,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 327010,
@@ -739,12 +803,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324068,
+      "num": 324068,
+      "word": "林孝埈陈德全安凯全pen了",
+      "onboard_time": 1694763395,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321611,
       "num": 321611,
       "word": "坚如磐石是张艺谋的叔圈严选",
       "onboard_time": 1694746892,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320351,
+      "num": 320351,
+      "word": "重庆洪崖洞豪车巡游",
+      "onboard_time": 1694764415,
+      "rank": 21,
+      "category": "旅游"
     },
     {
       "raw_hot": 317282,
@@ -875,6 +955,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 264400,
+      "num": 264400,
+      "word": "云为衫和小兰花的都怪你",
+      "onboard_time": 1694762314,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261137,
       "num": 218268,
       "word": "继祖父多次性侵6岁女童获刑13年",
@@ -889,6 +977,14 @@
       "onboard_time": 1694703218,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258130,
+      "num": 258130,
+      "word": "张嘉倪白色鱼尾裙腰臀比",
+      "onboard_time": 1694763271,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 257696,
@@ -921,6 +1017,14 @@
       "onboard_time": 1694736156,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246871,
+      "num": 246871,
+      "word": "中科院被骗博士晒出缅甸工资单",
+      "onboard_time": 1694765794,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244344,
@@ -995,12 +1099,12 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 229096,
-      "num": 203569,
-      "word": "iPhone15系列手机今晚8点预售",
-      "onboard_time": 1694763094,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 229529,
+      "num": 229529,
+      "word": "易建联说一辈子不会离开体育",
+      "onboard_time": 1694764116,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 225792,
@@ -1057,6 +1161,14 @@
       "onboard_time": 1694714420,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220793,
+      "num": 220793,
+      "word": "中餐厅的姐来了",
+      "onboard_time": 1694763573,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 219848,
@@ -1129,6 +1241,14 @@
       "onboard_time": 1694697758,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207324,
+      "num": 207324,
+      "word": "还有100天就是cp30",
+      "onboard_time": 1694764058,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 205980,
@@ -1233,6 +1353,14 @@
       "onboard_time": 1694754938,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191779,
+      "num": 515894,
+      "word": "女孩夸军人叔叔衣服帅被回应你也很美",
+      "onboard_time": 1694763694,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191166,
@@ -1371,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178014,
+      "num": 178014,
+      "word": "周深找不到彭昱畅",
+      "onboard_time": 1694763516,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176172,
       "num": 176172,
       "word": "小学生带民警上山排雷找到84枚雷管",
@@ -1393,6 +1529,14 @@
       "onboard_time": 1694734411,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174667,
+      "num": 174667,
+      "word": "电影封神第一部澳洲首映好评不断",
+      "onboard_time": 1694764894,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 172831,
@@ -1435,12 +1579,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 168109,
-      "num": 168109,
-      "word": "蜂花年销售额已破10亿",
-      "onboard_time": 1694763035,
-      "rank": 39,
-      "category": "财经"
+      "raw_hot": 170863,
+      "num": 170863,
+      "word": "为什么草莓味的食品没草莓味",
+      "onboard_time": 1694765493,
+      "rank": 40,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 169636,
+      "num": 169636,
+      "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
+      "onboard_time": 1694765615,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 167184,
@@ -1505,6 +1657,14 @@
       "onboard_time": 1694761112,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161250,
+      "num": 161250,
+      "word": "KPL夏季赛最佳阵容候选人",
+      "onboard_time": 1694765976,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 161066,
@@ -1744,6 +1904,14 @@
       "word": "丞磊卢昱晓好会理解夜色尚浅",
       "onboard_time": 1694703820,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122368,
+      "num": 129019,
+      "word": "特工任务定档",
+      "onboard_time": 1694765915,
+      "rank": 49,
       "category": "剧集"
     },
     {

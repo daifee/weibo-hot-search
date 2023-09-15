@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694763230842,
+  "endTime": 1694766088631,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1694652878,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2091074,
+      "num": 519240,
+      "word": "宝儿直播遭男子播放不雅视频",
+      "onboard_time": 1694761892,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2089835,
@@ -3235,14 +3243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1341482,
-      "num": 206625,
-      "word": "宝儿直播遭男子播放不雅视频",
-      "onboard_time": 1694761892,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1337768,
       "num": 614976,
       "word": "你工资减三千还剩多少花西币",
@@ -3337,6 +3337,14 @@
       "onboard_time": 1694129070,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1307549,
+      "num": 518721,
+      "word": "陈都灵穿的好像生菜",
+      "onboard_time": 1694763813,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1302099,
@@ -4425,6 +4433,14 @@
       "onboard_time": 1694495264,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023456,
+      "num": 1023456,
+      "word": "中方决定制裁2家美国军工企业",
+      "onboard_time": 1694764535,
+      "rank": 0,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 1021649,
@@ -5555,6 +5571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 873621,
+      "num": 517964,
+      "word": "刘亦菲这精神状态领先我十年",
+      "onboard_time": 1694764894,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 871604,
       "num": 854852,
       "word": "男生上门订婚准备了24束花",
@@ -6049,6 +6073,14 @@
       "onboard_time": 1694174737,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 820049,
+      "num": 820049,
+      "word": "蜂花年销售额已破10亿",
+      "onboard_time": 1694763035,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 819525,
@@ -6689,6 +6721,14 @@
       "onboard_time": 1694175514,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 767845,
+      "num": 513745,
+      "word": "讨厌型人格",
+      "onboard_time": 1694762373,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 767584,
@@ -8617,6 +8657,14 @@
       "onboard_time": 1694045556,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 634817,
+      "num": 634817,
+      "word": "韩庚魏大勋新剧定档",
+      "onboard_time": 1694764234,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 633855,
@@ -11371,6 +11419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 513060,
+      "num": 513060,
+      "word": "一斤鸭脖70元年轻人大喊少抓点",
+      "onboard_time": 1694762314,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512265,
       "num": 512265,
       "word": "Uzi薇恩臻彩",
@@ -11785,6 +11841,14 @@
       "onboard_time": 1693911755,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499717,
+      "num": 499717,
+      "word": "iPhone15系列手机今晚8点预售",
+      "onboard_time": 1694763094,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 499529,
@@ -15091,6 +15155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401151,
+      "num": 401151,
+      "word": "Angelababy为杭州亚运会配音",
+      "onboard_time": 1694763454,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 400952,
       "num": 400952,
       "word": "吴宣仪再跳101主题曲舞蹈",
@@ -15449,6 +15521,14 @@
       "onboard_time": 1693732355,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390241,
+      "num": 323508,
+      "word": "关晓彤用600年石榴树果做胭脂",
+      "onboard_time": 1694764959,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 390209,
@@ -15913,14 +15993,6 @@
       "onboard_time": 1693970498,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 376009,
-      "num": 316579,
-      "word": "一斤鸭脖70元年轻人大喊少抓点",
-      "onboard_time": 1694762314,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375191,
@@ -16964,7 +17036,7 @@
     },
     {
       "raw_hot": 349619,
-      "num": 205549,
+      "num": 224282,
       "word": "被英国男朋友当成中国女巫",
       "onboard_time": 1694762314,
       "rank": 31,
@@ -17025,14 +17097,6 @@
       "onboard_time": 1693553797,
       "rank": 16,
       "category": "动漫,音乐"
-    },
-    {
-      "raw_hot": 348096,
-      "num": 348096,
-      "word": "讨厌型人格",
-      "onboard_time": 1694762373,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 347886,
@@ -18211,6 +18275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324068,
+      "num": 324068,
+      "word": "林孝埈陈德全安凯全pen了",
+      "onboard_time": 1694763395,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323988,
       "num": 434679,
       "word": "深圳9月8日全市停课",
@@ -18417,6 +18489,14 @@
       "onboard_time": 1694005898,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320351,
+      "num": 320351,
+      "word": "重庆洪崖洞豪车巡游",
+      "onboard_time": 1694764415,
+      "rank": 21,
+      "category": "旅游"
     },
     {
       "raw_hot": 319813,
@@ -21835,6 +21915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264400,
+      "num": 264400,
+      "word": "云为衫和小兰花的都怪你",
+      "onboard_time": 1694762314,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264336,
       "num": 264336,
       "word": "从姬发到于适",
@@ -22353,6 +22441,14 @@
       "onboard_time": 1693660241,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258130,
+      "num": 258130,
+      "word": "张嘉倪白色鱼尾裙腰臀比",
+      "onboard_time": 1694763271,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 258039,
@@ -23105,6 +23201,14 @@
       "onboard_time": 1693920821,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246871,
+      "num": 246871,
+      "word": "中科院被骗博士晒出缅甸工资单",
+      "onboard_time": 1694765794,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246856,
@@ -24571,6 +24675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229529,
+      "num": 229529,
+      "word": "易建联说一辈子不会离开体育",
+      "onboard_time": 1694764116,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229336,
       "num": 229336,
       "word": "外卖小哥爬泰山送外卖一趟500元",
@@ -24601,14 +24713,6 @@
       "onboard_time": 1693724558,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229096,
-      "num": 203569,
-      "word": "iPhone15系列手机今晚8点预售",
-      "onboard_time": 1694763094,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 228912,
@@ -25329,6 +25433,14 @@
       "onboard_time": 1694241815,
       "rank": 14,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 220793,
+      "num": 220793,
+      "word": "中餐厅的姐来了",
+      "onboard_time": 1694763573,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 220718,
@@ -26713,6 +26825,14 @@
       "onboard_time": 1694127868,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207324,
+      "num": 207324,
+      "word": "还有100天就是cp30",
+      "onboard_time": 1694764058,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 207311,
@@ -29227,6 +29347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191779,
+      "num": 515894,
+      "word": "女孩夸军人叔叔衣服帅被回应你也很美",
+      "onboard_time": 1694763694,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191706,
       "num": 191706,
       "word": "骄阳伴我中的烟火气",
@@ -30995,6 +31123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178014,
+      "num": 178014,
+      "word": "周深找不到彭昱畅",
+      "onboard_time": 1694763516,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177948,
       "num": 177948,
       "word": "好莱坞女星玛格丽特库里结婚",
@@ -31313,6 +31449,14 @@
       "onboard_time": 1693648236,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174667,
+      "num": 174667,
+      "word": "电影封神第一部澳洲首映好评不断",
+      "onboard_time": 1694764894,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 174539,
@@ -31635,6 +31779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170863,
+      "num": 170863,
+      "word": "为什么草莓味的食品没草莓味",
+      "onboard_time": 1694765493,
+      "rank": 40,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 170754,
       "num": 212679,
       "word": "伤心凉粉好吃哭了",
@@ -31737,6 +31889,14 @@
       "onboard_time": 1693739265,
       "rank": 39,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 169636,
+      "num": 169636,
+      "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
+      "onboard_time": 1694765615,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 169635,
@@ -31889,14 +32049,6 @@
       "onboard_time": 1693990176,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168109,
-      "num": 168109,
-      "word": "蜂花年销售额已破10亿",
-      "onboard_time": 1694763035,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 168092,
@@ -32569,6 +32721,14 @@
       "onboard_time": 1694761112,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161250,
+      "num": 161250,
+      "word": "KPL夏季赛最佳阵容候选人",
+      "onboard_time": 1694765976,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 161245,
@@ -35241,6 +35401,14 @@
       "onboard_time": 1694491246,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122368,
+      "num": 129019,
+      "word": "特工任务定档",
+      "onboard_time": 1694765915,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121953,

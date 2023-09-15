@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694763230842,
+  "endTime": 1694766088631,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -673,6 +673,14 @@
       "onboard_time": 1694652878,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2091074,
+      "num": 519240,
+      "word": "宝儿直播遭男子播放不雅视频",
+      "onboard_time": 1694761892,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2075673,
@@ -1435,14 +1443,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1341482,
-      "num": 206625,
-      "word": "宝儿直播遭男子播放不雅视频",
-      "onboard_time": 1694761892,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1337768,
       "num": 614976,
       "word": "你工资减三千还剩多少花西币",
@@ -1473,6 +1473,14 @@
       "onboard_time": 1694306971,
       "rank": 11,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1307549,
+      "num": 518721,
+      "word": "陈都灵穿的好像生菜",
+      "onboard_time": 1694763813,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1302099,
@@ -1891,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023456,
+      "num": 1023456,
+      "word": "中方决定制裁2家美国军工企业",
+      "onboard_time": 1694764535,
+      "rank": 0,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 1021649,
       "num": 494394,
       "word": "光刻机",
@@ -2291,6 +2307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 873621,
+      "num": 517964,
+      "word": "刘亦菲这精神状态领先我十年",
+      "onboard_time": 1694764894,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 871541,
       "num": 344005,
       "word": "断亲现象为何如此流行",
@@ -2499,6 +2523,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 820049,
+      "num": 820049,
+      "word": "蜂花年销售额已破10亿",
+      "onboard_time": 1694763035,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 817242,
       "num": 817242,
       "word": "苍兰诀 全员上桌",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1694408746,
       "rank": 32,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 767845,
+      "num": 513745,
+      "word": "讨厌型人格",
+      "onboard_time": 1694762373,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 767109,
@@ -3307,6 +3347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 634817,
+      "num": 634817,
+      "word": "韩庚魏大勋新剧定档",
+      "onboard_time": 1694764234,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 632932,
       "num": 517335,
       "word": "kep1er江崎光睡了快两年沙发",
@@ -3625,6 +3673,14 @@
       "onboard_time": 1694499041,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591833,
+      "num": 591833,
+      "word": "广州暴雨",
+      "onboard_time": 1694761956,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590293,
@@ -4219,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513060,
+      "num": 513060,
+      "word": "一斤鸭脖70元年轻人大喊少抓点",
+      "onboard_time": 1694762314,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512265,
       "num": 512265,
       "word": "Uzi薇恩臻彩",
@@ -4409,6 +4473,14 @@
       "onboard_time": 1694661819,
       "rank": 26,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 499717,
+      "num": 499717,
+      "word": "iPhone15系列手机今晚8点预售",
+      "onboard_time": 1694763094,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 499348,
@@ -5619,6 +5691,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 401151,
+      "num": 401151,
+      "word": "Angelababy为杭州亚运会配音",
+      "onboard_time": 1694763454,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 400952,
       "num": 400952,
       "word": "吴宣仪再跳101主题曲舞蹈",
@@ -5763,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390241,
+      "num": 323508,
+      "word": "关晓彤用600年石榴树果做胭脂",
+      "onboard_time": 1694764959,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390209,
       "num": 390209,
       "word": "田嘉瑞翻牌",
@@ -5904,14 +5992,6 @@
       "word": "中国铁路",
       "onboard_time": 1694663800,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376009,
-      "num": 316579,
-      "word": "一斤鸭脖70元年轻人大喊少抓点",
-      "onboard_time": 1694762314,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -6364,19 +6444,11 @@
     },
     {
       "raw_hot": 349619,
-      "num": 205549,
+      "num": 224282,
       "word": "被英国男朋友当成中国女巫",
       "onboard_time": 1694762314,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349001,
-      "num": 349001,
-      "word": "广州暴雨",
-      "onboard_time": 1694761956,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348996,
@@ -6393,14 +6465,6 @@
       "onboard_time": 1694339134,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 348096,
-      "num": 348096,
-      "word": "讨厌型人格",
-      "onboard_time": 1694762373,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 347886,
@@ -6851,6 +6915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324068,
+      "num": 324068,
+      "word": "林孝埈陈德全安凯全pen了",
+      "onboard_time": 1694763395,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323308,
       "num": 263737,
       "word": "学姐给我留了个平板支架",
@@ -6921,6 +6993,14 @@
       "onboard_time": 1694696977,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 320351,
+      "num": 320351,
+      "word": "重庆洪崖洞豪车巡游",
+      "onboard_time": 1694764415,
+      "rank": 21,
+      "category": "旅游"
     },
     {
       "raw_hot": 319785,
@@ -8355,6 +8435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264400,
+      "num": 264400,
+      "word": "云为衫和小兰花的都怪你",
+      "onboard_time": 1694762314,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263798,
       "num": 627760,
       "word": "女孩一听家人给陌生人转账立刻报警",
@@ -8513,6 +8601,14 @@
       "onboard_time": 1694696376,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 258130,
+      "num": 258130,
+      "word": "张嘉倪白色鱼尾裙腰臀比",
+      "onboard_time": 1694763271,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 257962,
@@ -8817,6 +8913,14 @@
       "onboard_time": 1694686055,
       "rank": 6,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 246871,
+      "num": 246871,
+      "word": "中科院被骗博士晒出缅甸工资单",
+      "onboard_time": 1694765794,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246217,
@@ -9395,20 +9499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229529,
+      "num": 229529,
+      "word": "易建联说一辈子不会离开体育",
+      "onboard_time": 1694764116,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229262,
       "num": 229262,
       "word": "原来一天可以做这么多事情",
       "onboard_time": 1694302345,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229096,
-      "num": 203569,
-      "word": "iPhone15系列手机今晚8点预售",
-      "onboard_time": 1694763094,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 228785,
@@ -9721,6 +9825,14 @@
       "onboard_time": 1694654735,
       "rank": 33,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 220793,
+      "num": 220793,
+      "word": "中餐厅的姐来了",
+      "onboard_time": 1694763573,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 220444,
@@ -10345,6 +10457,14 @@
       "onboard_time": 1694615683,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207324,
+      "num": 207324,
+      "word": "还有100天就是cp30",
+      "onboard_time": 1694764058,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 207217,
@@ -11339,6 +11459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191779,
+      "num": 515894,
+      "word": "女孩夸军人叔叔衣服帅被回应你也很美",
+      "onboard_time": 1694763694,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191481,
       "num": 191481,
       "word": "Note13",
@@ -12051,6 +12179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178014,
+      "num": 178014,
+      "word": "周深找不到彭昱畅",
+      "onboard_time": 1694763516,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177881,
       "num": 177881,
       "word": "不要嘲讽穷人",
@@ -12203,6 +12339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174667,
+      "num": 174667,
+      "word": "电影封神第一部澳洲首映好评不断",
+      "onboard_time": 1694764894,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174482,
       "num": 174482,
       "word": "盛阳面对情敌的胜负欲",
@@ -12339,6 +12483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170863,
+      "num": 170863,
+      "word": "为什么草莓味的食品没草莓味",
+      "onboard_time": 1694765493,
+      "rank": 40,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 170617,
       "num": 170617,
       "word": "摩洛哥",
@@ -12361,6 +12513,14 @@
       "onboard_time": 1694688635,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169636,
+      "num": 169636,
+      "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
+      "onboard_time": 1694765615,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 169584,
@@ -12441,14 +12601,6 @@
       "onboard_time": 1694330372,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168109,
-      "num": 168109,
-      "word": "蜂花年销售额已破10亿",
-      "onboard_time": 1694763035,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 167766,
@@ -12729,6 +12881,14 @@
       "onboard_time": 1694761112,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161250,
+      "num": 161250,
+      "word": "KPL夏季赛最佳阵容候选人",
+      "onboard_time": 1694765976,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 161075,
@@ -13697,6 +13857,14 @@
       "onboard_time": 1694491246,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122368,
+      "num": 129019,
+      "word": "特工任务定档",
+      "onboard_time": 1694765915,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121764,
