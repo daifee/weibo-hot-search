@@ -1,0 +1,410 @@
+{
+  "runTime": 1694770445620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2830589,
+        "num": 2830589,
+        "word": "中科院被骗博士晒出缅甸工资单",
+        "onboard_time": 1694765794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047970,
+        "num": 1047970,
+        "word": "一斤鸭脖70元年轻人大喊少抓点",
+        "onboard_time": 1694762314,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41593,
+        "num": 766131,
+        "word": "用超长画卷打开5000年杭州",
+        "onboard_time": 1694753680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746802,
+        "num": 746802,
+        "word": "丞磊卢昱晓或将二搭",
+        "onboard_time": 1694768496,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685960,
+        "num": 685960,
+        "word": "中方决定制裁2家美国军工企业",
+        "onboard_time": 1694764535,
+        "rank": 4,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 510730,
+        "num": 510730,
+        "word": "异人之下不高兴了就一人一下",
+        "onboard_time": 1694767536,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506654,
+        "num": 506654,
+        "word": "YG回应Lisa拒绝续约",
+        "onboard_time": 1694753379,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464777,
+        "num": 464777,
+        "word": "于适新片合作消失的她导演",
+        "onboard_time": 1694766695,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410527,
+        "num": 410527,
+        "word": "王栎鑫应该谢谢魏哲鸣吧",
+        "onboard_time": 1694767294,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352039,
+        "num": 352039,
+        "word": "高铁乘客花35买盒饭发现标价15",
+        "onboard_time": 1694754101,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230812,
+        "num": 352033,
+        "word": "宝儿直播遭男子播放不雅视频",
+        "onboard_time": 1694761892,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1170981,
+        "num": 351990,
+        "word": "陈都灵穿的好像生菜",
+        "onboard_time": 1694763813,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 754899,
+        "num": 351973,
+        "word": "韩国人有多爱梁朝伟",
+        "onboard_time": 1694769274,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221247,
+        "num": 351928,
+        "word": "丫丫也养鸟了",
+        "onboard_time": 1694743835,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 181741,
+        "num": 351897,
+        "word": "女孩夸军人叔叔衣服帅被回应你也很美",
+        "onboard_time": 1694763694,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727301,
+        "num": 351879,
+        "word": "刘亦菲这精神状态领先我十年",
+        "onboard_time": 1694764894,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394300,
+        "num": 351851,
+        "word": "他从火光中走来 定档",
+        "onboard_time": 1694750976,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373909,
+        "num": 351809,
+        "word": "iPhone15系列手机今晚8点预售",
+        "onboard_time": 1694763094,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351800,
+        "num": 351800,
+        "word": "蜂花年销售额已破10亿",
+        "onboard_time": 1694763035,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301645,
+        "num": 301645,
+        "word": "韩庚魏大勋新剧定档",
+        "onboard_time": 1694764234,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390326,
+        "num": 299034,
+        "word": "男子称麻醉后被忘手术台医生下班",
+        "onboard_time": 1694768674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354717,
+        "num": 294110,
+        "word": "张小斐低马尾",
+        "onboard_time": 1694769635,
+        "rank": 21,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 270323,
+        "num": 270323,
+        "word": "抢票 抢不到",
+        "onboard_time": 1694741794,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258533,
+        "num": 258533,
+        "word": "对方撤回了一个儿子",
+        "onboard_time": 1694752961,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246197,
+        "num": 252410,
+        "word": "犯罪团伙将手榴弹遗忘车内致全军覆没",
+        "onboard_time": 1694766215,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249201,
+        "num": 249201,
+        "word": "赵露思贝雷帽学院风造型",
+        "onboard_time": 1694769033,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247620,
+        "num": 247620,
+        "word": "他从火光中走来毅往无前版预告",
+        "onboard_time": 1694768135,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242014,
+        "num": 242014,
+        "word": "Angelababy为杭州亚运会配音",
+        "onboard_time": 1694763454,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 219077,
+        "num": 219077,
+        "word": "讨厌型人格",
+        "onboard_time": 1694762373,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209798,
+        "num": 209798,
+        "word": "广州暴雨",
+        "onboard_time": 1694761956,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215386,
+        "num": 206478,
+        "word": "赵丽颖当选中视协第七届理事",
+        "onboard_time": 1694759674,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195827,
+        "num": 195827,
+        "word": "张予曦斗罗大陆2杀青照",
+        "onboard_time": 1694769754,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181311,
+        "num": 181311,
+        "word": "张译终于开始清存货了",
+        "onboard_time": 1694766874,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170747,
+        "num": 170747,
+        "word": "潭柘寺回应禁止佛媛道媛拍照",
+        "onboard_time": 1694767776,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155944,
+        "num": 155944,
+        "word": "易建联说一辈子不会离开体育",
+        "onboard_time": 1694764116,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161397,
+        "num": 155022,
+        "word": "关晓彤用600年石榴树果做胭脂",
+        "onboard_time": 1694764959,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150158,
+        "num": 150158,
+        "word": "宋紫薇已从iQOO离职",
+        "onboard_time": 1694761112,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146824,
+        "num": 146824,
+        "word": "还有100天就是cp30",
+        "onboard_time": 1694764058,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146807,
+        "num": 146807,
+        "word": "周冬雨 周冉说想吃鱼了",
+        "onboard_time": 1694768674,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144626,
+        "num": 144626,
+        "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
+        "onboard_time": 1694765615,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142963,
+        "num": 142963,
+        "word": "被英国男朋友当成中国女巫",
+        "onboard_time": 1694762314,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142639,
+        "num": 142639,
+        "word": "重庆洪崖洞豪车巡游",
+        "onboard_time": 1694764415,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138957,
+        "num": 138957,
+        "word": "为什么草莓味的食品没草莓味",
+        "onboard_time": 1694765493,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 137215,
+        "num": 137215,
+        "word": "秋季学期起提高国家助学贷款额度",
+        "onboard_time": 1694770296,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 131808,
+        "num": 131808,
+        "word": "林孝埈陈德全安凯全pen了",
+        "onboard_time": 1694763395,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126783,
+        "num": 126783,
+        "word": "KPL夏季赛最佳阵容候选人",
+        "onboard_time": 1694765976,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126365,
+        "num": 126365,
+        "word": "长头发的八个穴位",
+        "onboard_time": 1694761051,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122164,
+        "num": 122164,
+        "word": "电影封神第一部澳洲首映好评不断",
+        "onboard_time": 1694764894,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118180,
+        "num": 118180,
+        "word": "62岁女子辅助生殖成功产女",
+        "onboard_time": 1694749176,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 117086,
+        "word": "云为衫和小兰花的都怪你",
+        "onboard_time": 1694762314,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    }
+  }
+}
