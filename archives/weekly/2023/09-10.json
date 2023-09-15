@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694776449306,
+  "endTime": 1694777637268,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 2091074,
-      "num": 519240,
+      "num": 573186,
       "word": "宝儿直播遭男子播放不雅视频",
       "onboard_time": 1694761892,
       "rank": 30,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 1693044,
+      "num": 693962,
+      "word": "青岛一小区母子3人坠楼",
+      "onboard_time": 1694774133,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1689580,
       "num": 1689580,
       "word": "余华 你只要把老人写成老人",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1694576316,
       "rank": 20,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1510699,
-      "num": 343734,
-      "word": "青岛一小区母子3人坠楼",
-      "onboard_time": 1694774133,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1504178,
@@ -2060,7 +2060,7 @@
     },
     {
       "raw_hot": 990874,
-      "num": 402763,
+      "num": 681219,
       "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
       "onboard_time": 1694771614,
       "rank": 11,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1694594562,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 942335,
+      "num": 942335,
+      "word": "傅云深出车祸",
+      "onboard_time": 1694775814,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 939608,
@@ -2747,6 +2755,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 776486,
+      "num": 776486,
+      "word": "如何看待蜂花借李佳琦热点搞营销",
+      "onboard_time": 1694771075,
+      "rank": 20,
+      "category": "社会议题,网红"
+    },
+    {
       "raw_hot": 776421,
       "num": 776421,
       "word": "12306崩了",
@@ -2851,20 +2867,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 760504,
+      "num": 688162,
+      "word": "苹果为消除禁令将更新iPhone12",
+      "onboard_time": 1694775273,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 760426,
       "num": 760426,
       "word": "周笔畅签约壹心娱乐",
       "onboard_time": 1694488540,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 757273,
-      "num": 757273,
-      "word": "如何看待蜂花借李佳琦热点搞营销",
-      "onboard_time": 1694771075,
-      "rank": 20,
-      "category": "社会议题,网红"
     },
     {
       "raw_hot": 755200,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1694505881,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698952,
+      "num": 698952,
+      "word": "文咏珊被正式确诊为文勇扇",
+      "onboard_time": 1694776413,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 696520,
@@ -3516,7 +3540,7 @@
     },
     {
       "raw_hot": 619380,
-      "num": 399554,
+      "num": 509867,
       "word": "白宇烫头了",
       "onboard_time": 1694772874,
       "rank": 33,
@@ -4172,7 +4196,7 @@
     },
     {
       "raw_hot": 538172,
-      "num": 323951,
+      "num": 412133,
       "word": "一整个月都在抢东西了",
       "onboard_time": 1694774915,
       "rank": 16,
@@ -4225,6 +4249,14 @@
       "onboard_time": 1694659053,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531800,
+      "num": 531800,
+      "word": "稻城亚丁",
+      "onboard_time": 1694775814,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 531671,
@@ -4675,14 +4707,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 492596,
-      "num": 321041,
-      "word": "苹果为消除禁令将更新iPhone12",
-      "onboard_time": 1694775273,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 491132,
       "num": 491132,
       "word": "范丞丞自称比沈腾白敬亭文静一点",
@@ -5121,6 +5145,14 @@
       "onboard_time": 1694515538,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454982,
+      "num": 454982,
+      "word": "38元买的谢馥春眉粉用了9年仅破皮",
+      "onboard_time": 1694774973,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 454908,
@@ -5987,14 +6019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 391806,
-      "num": 313684,
-      "word": "38元买的谢馥春眉粉用了9年仅破皮",
-      "onboard_time": 1694774973,
-      "rank": 19,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 391026,
       "num": 391026,
       "word": "全美最美男明星",
@@ -6057,6 +6081,14 @@
       "onboard_time": 1694522799,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 387485,
+      "num": 598355,
+      "word": "2024年考研时间表",
+      "onboard_time": 1694775754,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 386557,
@@ -7515,6 +7547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309757,
+      "num": 309757,
+      "word": "散粉总结 再踩雷就不礼貌了",
+      "onboard_time": 1694776054,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 309602,
       "num": 309602,
       "word": "看莲花楼真的不能代入方多病视角",
@@ -7595,6 +7635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307707,
+      "num": 307707,
+      "word": "宫远徵制毒 疯批的汤姆猫",
+      "onboard_time": 1694776355,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307415,
       "num": 307415,
       "word": "摩洛哥地震死亡人数已升至2122人",
@@ -7633,14 +7681,6 @@
       "onboard_time": 1694425719,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305614,
-      "num": 305614,
-      "word": "傅云深出车祸",
-      "onboard_time": 1694775814,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 304824,
@@ -7995,6 +8035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292104,
+      "num": 292104,
+      "word": "家庭教师",
+      "onboard_time": 1694776653,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 291921,
       "num": 291921,
       "word": "航天专家称外星人不可能来过地球",
@@ -8297,14 +8345,6 @@
       "onboard_time": 1694348433,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280989,
-      "num": 333197,
-      "word": "2024年考研时间表",
-      "onboard_time": 1694775754,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 279811,
@@ -9211,6 +9251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245316,
+      "num": 237252,
+      "word": "陆仙人妆后变仙子",
+      "onboard_time": 1694775754,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245177,
       "num": 194546,
       "word": "李钟硕跳Fighting",
@@ -9459,12 +9507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238626,
+      "num": 238626,
+      "word": "左叶陈楚河真的不是兄弟吗",
+      "onboard_time": 1694777015,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238601,
       "num": 238601,
       "word": "杭州亚运会中国运动员全名单",
       "onboard_time": 1694500537,
       "rank": 35,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 238485,
+      "num": 238485,
+      "word": "傅云深跟狗炫耀女朋友",
+      "onboard_time": 1694775993,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 238254,
@@ -10001,14 +10065,6 @@
       "onboard_time": 1694653420,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223553,
-      "num": 223553,
-      "word": "陆仙人妆后变仙子",
-      "onboard_time": 1694775754,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223495,
@@ -10699,6 +10755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208055,
+      "num": 944013,
+      "word": "被官兵救助过的女子专程回来致谢",
+      "onboard_time": 1694775575,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 208046,
       "num": 208046,
       "word": "中国亚运会金牌从0到1473有多燃",
@@ -10793,6 +10857,14 @@
       "onboard_time": 1694575056,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207030,
+      "num": 207030,
+      "word": "刘恋晋级又淘汰",
+      "onboard_time": 1694777554,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 206969,
@@ -10993,6 +11065,14 @@
       "onboard_time": 1694275715,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203546,
+      "num": 203546,
+      "word": "林孝埈强势领滑",
+      "onboard_time": 1694777136,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 203537,
@@ -11379,14 +11459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198598,
-      "num": 198598,
-      "word": "傅云深跟狗炫耀女朋友",
-      "onboard_time": 1694775993,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198466,
       "num": 198466,
       "word": "KPL夏季赛最佳阵容候选人",
@@ -11707,6 +11779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192791,
+      "num": 192791,
+      "word": "披荆斩棘",
+      "onboard_time": 1694777193,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192780,
       "num": 220947,
       "word": "霉霉VMA现场",
@@ -11723,14 +11803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192706,
-      "num": 373351,
-      "word": "被官兵救助过的女子专程回来致谢",
-      "onboard_time": 1694775575,
-      "rank": 6,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 192596,
       "num": 637321,
       "word": "当边防女兵第一次见到界碑",
@@ -11739,12 +11811,12 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 192439,
-      "num": 192439,
-      "word": "稻城亚丁",
-      "onboard_time": 1694775814,
-      "rank": 35,
-      "category": "旅游"
+      "raw_hot": 192465,
+      "num": 192465,
+      "word": "宿命之敌定档",
+      "onboard_time": 1694776594,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 192434,
@@ -11793,6 +11865,14 @@
       "onboard_time": 1694274694,
       "rank": 38,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 192022,
+      "num": 192022,
+      "word": "售卖35元盒饭的餐服员被停职",
+      "onboard_time": 1694777492,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191911,
@@ -12305,6 +12385,14 @@
       "onboard_time": 1694447079,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183639,
+      "num": 183639,
+      "word": "宫紫商发现宫唤羽假死",
+      "onboard_time": 1694776955,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 183622,
@@ -12883,6 +12971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170021,
+      "num": 170021,
+      "word": "霉霉是如何养发的",
+      "onboard_time": 1694776471,
+      "rank": 46,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 169584,
       "num": 169584,
       "word": "陈梦王曼昱晋级亚锦赛决赛",
@@ -13137,14 +13233,6 @@
       "onboard_time": 1694504976,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164140,
-      "num": 164140,
-      "word": "散粉总结 再踩雷就不礼貌了",
-      "onboard_time": 1694776054,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 164132,
@@ -13595,6 +13683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150872,
+      "num": 150872,
+      "word": "蜂花称暂时不考虑花钱请代言人",
+      "onboard_time": 1694777435,
+      "rank": 48,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 150571,
       "num": 150571,
       "word": "吉克隽逸私服审美",
@@ -13761,14 +13857,6 @@
       "onboard_time": 1694588256,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145581,
-      "num": 145581,
-      "word": "宫远徵制毒 疯批的汤姆猫",
-      "onboard_time": 1694776355,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 145026,
@@ -14292,7 +14380,7 @@
     },
     {
       "raw_hot": 121480,
-      "num": 153672,
+      "num": 237539,
       "word": "睡眠加载失败的原因有哪些",
       "onboard_time": 1694776172,
       "rank": 40,
@@ -14385,14 +14473,6 @@
       "onboard_time": 1694680419,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113894,
-      "num": 113894,
-      "word": "文咏珊被正式确诊为文勇扇",
-      "onboard_time": 1694776413,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 113823,
@@ -14833,6 +14913,14 @@
       "onboard_time": 1694280683,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75949,
+      "num": 1168260,
+      "word": "中秋国庆最强高铁买票攻略",
+      "onboard_time": 1694776535,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75269,
