@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694756038845,
+  "endTime": 1694758919990,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -56,6 +56,14 @@
       "word": "男子吃生腌海鲜后做4次手术失去1条腿",
       "onboard_time": 1694746292,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1943216,
+      "num": 1943216,
+      "word": "高铁乘客花35买盒饭发现标价15",
+      "onboard_time": 1694754101,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -195,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 810633,
-      "num": 810633,
-      "word": "高铁乘客花35买盒饭发现标价15",
-      "onboard_time": 1694754101,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 844032,
+      "num": 844032,
+      "word": "张远问魏哲鸣结婚了吗",
+      "onboard_time": 1694757755,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 805956,
@@ -241,6 +249,14 @@
       "onboard_time": 1694744492,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 746118,
+      "num": 746118,
+      "word": "12306客服建议过半小时再尝试",
+      "onboard_time": 1694754220,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739924,
@@ -299,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 662267,
+      "num": 662267,
+      "word": "易建联退役仪式直播",
+      "onboard_time": 1694757394,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 648044,
       "num": 648044,
       "word": "帕梅拉坚持10年你坚持了几年",
@@ -321,6 +345,14 @@
       "onboard_time": 1694745335,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598543,
+      "num": 598543,
+      "word": "行走的鱼 王炸",
+      "onboard_time": 1694756673,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 593336,
@@ -523,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 395243,
+      "num": 395243,
+      "word": "陈楚生李玖哲老舅行走的鱼",
+      "onboard_time": 1694756256,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394599,
       "num": 394599,
       "word": "终于学会耳后双C发型了",
@@ -537,14 +577,6 @@
       "onboard_time": 1694746594,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 391694,
-      "num": 391694,
-      "word": "12306客服建议过半小时再尝试",
-      "onboard_time": 1694754220,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385776,
@@ -595,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 358472,
+      "num": 358472,
+      "word": "全美最美男明星",
+      "onboard_time": 1694757755,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357268,
       "num": 357268,
       "word": "四六级",
@@ -625,6 +665,14 @@
       "onboard_time": 1694746892,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 319850,
+      "num": 319850,
+      "word": "吴昕录你好星期六",
+      "onboard_time": 1694758233,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 317282,
@@ -737,6 +785,14 @@
       "onboard_time": 1694703218,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256325,
+      "num": 238321,
+      "word": "第八个嫌疑人 真不像演的",
+      "onboard_time": 1694757634,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 251948,
@@ -867,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222278,
+      "num": 222278,
+      "word": "孙俪喊你做瑜伽了",
+      "onboard_time": 1694758594,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221562,
       "num": 221562,
       "word": "利比亚",
@@ -897,6 +961,14 @@
       "onboard_time": 1694698359,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214737,
+      "num": 395742,
+      "word": "爱宝幼崽越来越像福宝小时候了",
+      "onboard_time": 1694757213,
+      "rank": 14,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 212840,
@@ -1043,6 +1115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191166,
+      "num": 191166,
+      "word": "冯宝宝找不到家了",
+      "onboard_time": 1694757934,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190910,
       "num": 190910,
       "word": "IU透露新专辑主题",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1694749776,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183388,
+      "num": 183388,
+      "word": "崇应彪平行世界 死了一百万次的人",
+      "onboard_time": 1694755958,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 182993,
@@ -1152,6 +1240,14 @@
       "word": "小学生带民警上山排雷找到84枚雷管",
       "onboard_time": 1694746356,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176027,
+      "num": 176027,
+      "word": "活力28回应老年主播团意外爆火",
+      "onboard_time": 1694758176,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1315,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148357,
-      "num": 148357,
-      "word": "崇应彪平行世界 死了一百万次的人",
-      "onboard_time": 1694755958,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 148096,
       "num": 148096,
       "word": "此沙晒与高圆圆合照",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1694736335,
       "rank": 47,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 143105,
+      "num": 143105,
+      "word": "汪苏泷上海",
+      "onboard_time": 1694758116,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 143068,
