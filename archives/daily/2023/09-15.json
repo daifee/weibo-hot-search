@@ -1,7 +1,15 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694777637268,
+  "endTime": 1694781132688,
   "band_list": [
+    {
+      "raw_hot": 4487373,
+      "num": 758895,
+      "word": "苹果官网崩了",
+      "onboard_time": 1694779716,
+      "rank": 10,
+      "category": "数码"
+    },
     {
       "raw_hot": 2830589,
       "num": 2830589,
@@ -41,6 +49,14 @@
       "onboard_time": 1694746652,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2529027,
+      "num": 2529027,
+      "word": "云之羽结局",
+      "onboard_time": 1694780316,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2504910,
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1853247,
+      "num": 749299,
+      "word": "iPhone15开卖",
+      "onboard_time": 1694780018,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1823392,
       "num": 1823392,
       "word": "男童撑伞从26楼跳下后奇迹生还",
@@ -137,6 +161,14 @@
       "onboard_time": 1694707472,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1566706,
+      "num": 1566706,
+      "word": "文咏珊被正式确诊为文勇扇",
+      "onboard_time": 1694776413,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 1561426,
@@ -235,6 +267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1013871,
+      "num": 1013871,
+      "word": "孩子在外婆家溺亡父亲起诉索赔80万",
+      "onboard_time": 1694777854,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1008934,
       "num": 1008934,
       "word": "网红峰哥亲历缅甸生死36小时",
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864777,
+      "num": 864777,
+      "word": "吴昕再去也已是嘉宾",
+      "onboard_time": 1694778635,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 820049,
       "num": 820049,
       "word": "蜂花年销售额已破10亿",
@@ -387,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 766608,
+      "num": 766608,
+      "word": "睡睡 张硕",
+      "onboard_time": 1694779177,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 760504,
       "num": 688162,
       "word": "苹果为消除禁令将更新iPhone12",
@@ -403,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749021,
+      "num": 749021,
+      "word": "剥了5000多只虾就为了一碗面",
+      "onboard_time": 1694779117,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 746802,
       "num": 746802,
       "word": "丞磊卢昱晓或将二搭",
@@ -417,6 +481,14 @@
       "onboard_time": 1694754220,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740316,
+      "num": 740316,
+      "word": "李玖哲因公司拒绝而错过我是歌手",
+      "onboard_time": 1694777974,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 739924,
@@ -473,14 +545,6 @@
       "onboard_time": 1694702501,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 698952,
-      "num": 698952,
-      "word": "文咏珊被正式确诊为文勇扇",
-      "onboard_time": 1694776413,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 668313,
@@ -571,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577633,
+      "num": 499717,
+      "word": "iPhone15系列手机今晚8点预售",
+      "onboard_time": 1694763094,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 575677,
       "num": 365022,
       "word": "长期喝百香果真的可以变白吗",
@@ -657,14 +729,6 @@
       "onboard_time": 1694698897,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 499717,
-      "num": 499717,
-      "word": "iPhone15系列手机今晚8点预售",
-      "onboard_time": 1694763094,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 499348,
@@ -787,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442228,
+      "num": 442228,
+      "word": "肖战被雪姨经典台词戳中笑点",
+      "onboard_time": 1694778817,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441398,
       "num": 441398,
       "word": "宋紫薇已从iQOO离职",
@@ -809,6 +881,14 @@
       "onboard_time": 1694705435,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421777,
+      "num": 421777,
+      "word": "Jennie芭莎十月刊封面大片",
+      "onboard_time": 1694779538,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 420065,
@@ -916,7 +996,7 @@
     },
     {
       "raw_hot": 387485,
-      "num": 598355,
+      "num": 756248,
       "word": "2024年考研时间表",
       "onboard_time": 1694775754,
       "rank": 13,
@@ -937,6 +1017,22 @@
       "onboard_time": 1694742816,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383454,
+      "num": 752352,
+      "word": "原神4.1全球直播",
+      "onboard_time": 1694779238,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 378672,
+      "num": 378672,
+      "word": "高铁化妆 美妆博主反击",
+      "onboard_time": 1694778693,
+      "rank": 23,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 374818,
@@ -1027,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343133,
+      "num": 343133,
+      "word": "成毅一边下台一边擦泪",
+      "onboard_time": 1694779776,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331527,
       "num": 264141,
       "word": "用女儿的奶茶袋做文具",
@@ -1083,6 +1187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 320066,
+      "num": 320066,
+      "word": "刘恋晋级又淘汰",
+      "onboard_time": 1694777554,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317282,
       "num": 317282,
       "word": "中餐厅最后一次双档口营业",
@@ -1097,6 +1209,14 @@
       "onboard_time": 1694703640,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312913,
+      "num": 312913,
+      "word": "家庭教师",
+      "onboard_time": 1694776653,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 311776,
@@ -1155,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302338,
+      "num": 302338,
+      "word": "售卖35元盒饭的餐服员被停职",
+      "onboard_time": 1694777492,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300369,
       "num": 300369,
       "word": "宫二终于知道了谁才是无锋首领",
@@ -1187,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292104,
-      "num": 292104,
-      "word": "家庭教师",
-      "onboard_time": 1694776653,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 291921,
       "num": 291921,
       "word": "航天专家称外星人不可能来过地球",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1694772212,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273725,
+      "num": 273725,
+      "word": "蜂花称暂时不考虑花钱请代言人",
+      "onboard_time": 1694777435,
+      "rank": 48,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 272917,
@@ -1459,6 +1587,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 230851,
+      "num": 1168260,
+      "word": "中秋国庆最强高铁买票攻略",
+      "onboard_time": 1694776535,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229529,
       "num": 229529,
       "word": "易建联说一辈子不会离开体育",
@@ -1571,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212642,
+      "num": 212642,
+      "word": "陈楚生部落三连胜",
+      "onboard_time": 1694779417,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211641,
       "num": 211641,
       "word": "抽刀断水的神话实现了",
@@ -1625,14 +1769,6 @@
       "onboard_time": 1694764058,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 207030,
-      "num": 207030,
-      "word": "刘恋晋级又淘汰",
-      "onboard_time": 1694777554,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 205980,
@@ -1777,14 +1913,6 @@
       "onboard_time": 1694776594,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192022,
-      "num": 192022,
-      "word": "售卖35元盒饭的餐服员被停职",
-      "onboard_time": 1694777492,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191779,
@@ -2051,6 +2179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170335,
+      "num": 170335,
+      "word": "嘉顿饼干面包大测评",
+      "onboard_time": 1694780618,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170021,
       "num": 170021,
       "word": "霉霉是如何养发的",
@@ -2227,14 +2363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150872,
-      "num": 150872,
-      "word": "蜂花称暂时不考虑花钱请代言人",
-      "onboard_time": 1694777435,
-      "rank": 48,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 148096,
       "num": 148096,
       "word": "此沙晒与高圆圆合照",
@@ -2387,6 +2515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133233,
+      "num": 133233,
+      "word": "莲花楼演唱会明天见",
+      "onboard_time": 1694778034,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132926,
       "num": 132926,
       "word": "网友曝花西子五只化妆刷919元",
@@ -2531,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75949,
-      "num": 1168260,
-      "word": "中秋国庆最强高铁买票攻略",
-      "onboard_time": 1694776535,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75269,
       "num": 2271919,
       "word": "当亚运遇上民乐太惊艳了",
@@ -2577,6 +2705,14 @@
       "onboard_time": 1694697634,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52654,
+      "num": 1253103,
+      "word": "60秒速览北京文化论坛文艺晚会",
+      "onboard_time": 1694778518,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44937,

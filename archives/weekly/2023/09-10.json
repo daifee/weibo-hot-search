@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694777637268,
+  "endTime": 1694781132688,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -105,6 +105,14 @@
       "onboard_time": 1694608364,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4487373,
+      "num": 758895,
+      "word": "苹果官网崩了",
+      "onboard_time": 1694779716,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 4326833,
@@ -449,6 +457,14 @@
       "onboard_time": 1694746652,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2529027,
+      "num": 2529027,
+      "word": "云之羽结局",
+      "onboard_time": 1694780316,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2527144,
@@ -907,6 +923,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 1853247,
+      "num": 749299,
+      "word": "iPhone15开卖",
+      "onboard_time": 1694780018,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1848563,
       "num": 1848563,
       "word": "北师大研究生因2字报考事业单位遭拒",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1694336734,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1566706,
+      "num": 1566706,
+      "word": "文咏珊被正式确诊为文勇扇",
+      "onboard_time": 1694776413,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 1561426,
@@ -1979,6 +2011,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1013871,
+      "num": 1013871,
+      "word": "孩子在外婆家溺亡父亲起诉索赔80万",
+      "onboard_time": 1694777854,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1012866,
       "num": 1012866,
       "word": "霍启刚履新",
@@ -2419,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 864777,
+      "num": 864777,
+      "word": "吴昕再去也已是嘉宾",
+      "onboard_time": 1694778635,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 864015,
       "num": 864015,
       "word": "烘焙 我接触过的最大生活骗局",
@@ -2827,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766608,
+      "num": 766608,
+      "word": "睡睡 张硕",
+      "onboard_time": 1694779177,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 763286,
       "num": 763286,
       "word": "孟宴臣高启强 双疯",
@@ -2923,6 +2979,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 749021,
+      "num": 749021,
+      "word": "剥了5000多只虾就为了一碗面",
+      "onboard_time": 1694779117,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 746802,
       "num": 746802,
       "word": "丞磊卢昱晓或将二搭",
@@ -2985,6 +3049,14 @@
       "onboard_time": 1694571578,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 740316,
+      "num": 740316,
+      "word": "李玖哲因公司拒绝而错过我是歌手",
+      "onboard_time": 1694777974,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 740259,
@@ -3185,14 +3257,6 @@
       "onboard_time": 1694505881,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 698952,
-      "num": 698952,
-      "word": "文咏珊被正式确诊为文勇扇",
-      "onboard_time": 1694776413,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 696520,
@@ -3889,6 +3953,14 @@
       "onboard_time": 1694750136,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577633,
+      "num": 499717,
+      "word": "iPhone15系列手机今晚8点预售",
+      "onboard_time": 1694763094,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 576607,
@@ -4627,14 +4699,6 @@
       "category": "美食,知识科普"
     },
     {
-      "raw_hot": 499717,
-      "num": 499717,
-      "word": "iPhone15系列手机今晚8点预售",
-      "onboard_time": 1694763094,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 499348,
       "num": 577074,
       "word": "超9成网友认为北极鲶鱼事件应公布结果",
@@ -5299,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442228,
+      "num": 442228,
+      "word": "肖战被雪姨经典台词戳中笑点",
+      "onboard_time": 1694778817,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441514,
       "num": 441514,
       "word": "武艺怎么又有新笑料了",
@@ -5625,6 +5697,14 @@
       "onboard_time": 1694509659,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421777,
+      "num": 421777,
+      "word": "Jennie芭莎十月刊封面大片",
+      "onboard_time": 1694779538,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421759,
@@ -6084,7 +6164,7 @@
     },
     {
       "raw_hot": 387485,
-      "num": 598355,
+      "num": 756248,
       "word": "2024年考研时间表",
       "onboard_time": 1694775754,
       "rank": 13,
@@ -6131,6 +6211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383454,
+      "num": 752352,
+      "word": "原神4.1全球直播",
+      "onboard_time": 1694586815,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383415,
       "num": 383415,
       "word": "眉笔推荐",
@@ -6161,6 +6249,14 @@
       "onboard_time": 1694309792,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378672,
+      "num": 378672,
+      "word": "高铁化妆 美妆博主反击",
+      "onboard_time": 1694778693,
+      "rank": 23,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 377853,
@@ -6787,6 +6883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343133,
+      "num": 343133,
+      "word": "成毅一边下台一边擦泪",
+      "onboard_time": 1694779776,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342525,
       "num": 342525,
       "word": "我妈送我一床崭新的床单",
@@ -7251,6 +7355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 320066,
+      "num": 320066,
+      "word": "刘恋晋级又淘汰",
+      "onboard_time": 1694777554,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319785,
       "num": 319785,
       "word": "11岁男孩在叔叔的婚礼上放大招",
@@ -7473,6 +7585,14 @@
       "onboard_time": 1694441809,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312913,
+      "num": 312913,
+      "word": "家庭教师",
+      "onboard_time": 1694776653,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 311827,
@@ -7771,6 +7891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302338,
+      "num": 302338,
+      "word": "售卖35元盒饭的餐服员被停职",
+      "onboard_time": 1694777492,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301729,
       "num": 301729,
       "word": "厦门机场偶遇卡琳娜仲尼",
@@ -8033,14 +8161,6 @@
       "onboard_time": 1694392720,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292104,
-      "num": 292104,
-      "word": "家庭教师",
-      "onboard_time": 1694776653,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 291921,
@@ -8441,6 +8561,14 @@
       "onboard_time": 1694772212,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273725,
+      "num": 273725,
+      "word": "蜂花称暂时不考虑花钱请代言人",
+      "onboard_time": 1694777435,
+      "rank": 48,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 273659,
@@ -9627,14 +9755,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 234049,
-      "num": 234049,
-      "word": "原神4.1全球直播",
-      "onboard_time": 1694586815,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 234004,
       "num": 234004,
       "word": "张国荣生日红色恋人复映",
@@ -9816,6 +9936,14 @@
       "word": "我听到声音了快打120",
       "onboard_time": 1694527963,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230851,
+      "num": 1168260,
+      "word": "中秋国庆最强高铁买票攻略",
+      "onboard_time": 1694776535,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -10523,6 +10651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212642,
+      "num": 212642,
+      "word": "陈楚生部落三连胜",
+      "onboard_time": 1694779417,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212299,
       "num": 212299,
       "word": "国货嘉顿抗日期间捐过物资",
@@ -10857,14 +10993,6 @@
       "onboard_time": 1694575056,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207030,
-      "num": 207030,
-      "word": "刘恋晋级又淘汰",
-      "onboard_time": 1694777554,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 206969,
@@ -11865,14 +11993,6 @@
       "onboard_time": 1694274694,
       "rank": 38,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 192022,
-      "num": 192022,
-      "word": "售卖35元盒饭的餐服员被停职",
-      "onboard_time": 1694777492,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191911,
@@ -12971,6 +13091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170335,
+      "num": 170335,
+      "word": "嘉顿饼干面包大测评",
+      "onboard_time": 1694780618,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170021,
       "num": 170021,
       "word": "霉霉是如何养发的",
@@ -13683,14 +13811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150872,
-      "num": 150872,
-      "word": "蜂花称暂时不考虑花钱请代言人",
-      "onboard_time": 1694777435,
-      "rank": 48,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 150571,
       "num": 150571,
       "word": "吉克隽逸私服审美",
@@ -14161,6 +14281,14 @@
       "onboard_time": 1694342016,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133233,
+      "num": 133233,
+      "word": "莲花楼演唱会明天见",
+      "onboard_time": 1694778034,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 132883,
@@ -14915,14 +15043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75949,
-      "num": 1168260,
-      "word": "中秋国庆最强高铁买票攻略",
-      "onboard_time": 1694776535,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75269,
       "num": 2271919,
       "word": "当亚运遇上民乐太惊艳了",
@@ -15161,6 +15281,14 @@
       "onboard_time": 1694297536,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52654,
+      "num": 1253103,
+      "word": "60秒速览北京文化论坛文艺晚会",
+      "onboard_time": 1694778518,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52317,
