@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694809046679,
+  "endTime": 1694810051057,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -15619,20 +15619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69133,
+      "num": 42781,
+      "word": "胡彦斌想抓紧谈恋爱了",
+      "onboard_time": 1694807054,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68768,
       "num": 68768,
       "word": "试吃最近超火的红魔虾",
       "onboard_time": 1694288655,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 68717,
-      "num": 42781,
-      "word": "胡彦斌想抓紧谈恋爱了",
-      "onboard_time": 1694807054,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 68544,
@@ -16011,6 +16011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36789,
+      "num": 42845,
+      "word": "渤海海峡黄海北部执行军事任务",
+      "onboard_time": 1694807534,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 36660,
       "num": 56108,
       "word": "如何告别严重抑郁情绪",
@@ -16163,14 +16171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28168,
-      "num": 42845,
-      "word": "渤海海峡黄海北部执行军事任务",
-      "onboard_time": 1694807534,
-      "rank": 13,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 27270,
       "num": 27270,
       "word": "牛气冲天的云南火锅",
@@ -16233,6 +16233,14 @@
       "onboard_time": 1694599237,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 22378,
+      "num": 22378,
+      "word": "尤长靖 毕业之前来看演唱会",
+      "onboard_time": 1694809694,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 21554,
