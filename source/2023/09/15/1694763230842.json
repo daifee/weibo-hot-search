@@ -1,0 +1,410 @@
+{
+  "runTime": 1694763230842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455596,
+        "num": 1455596,
+        "word": "高铁乘客花35买盒饭发现标价15",
+        "onboard_time": 1694754101,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011004,
+        "num": 1011004,
+        "word": "抢票 抢不到",
+        "onboard_time": 1694741794,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55955,
+        "num": 948864,
+        "word": "用超长画卷打开5000年杭州",
+        "onboard_time": 1694753680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931388,
+        "num": 931388,
+        "word": "赵丽颖当选中视协第七届理事",
+        "onboard_time": 1694759674,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846289,
+        "num": 846289,
+        "word": "YG回应Lisa拒绝续约",
+        "onboard_time": 1694753379,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567847,
+        "num": 567847,
+        "word": "长头发的八个穴位",
+        "onboard_time": 1694761051,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 476750,
+        "num": 476750,
+        "word": "男子吃生腌海鲜后做4次手术失去1条腿",
+        "onboard_time": 1694746292,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441398,
+        "num": 441398,
+        "word": "宋紫薇已从iQOO离职",
+        "onboard_time": 1694761112,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 400633,
+        "num": 400633,
+        "word": "他从火光中走来 定档",
+        "onboard_time": 1694750976,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349416,
+        "num": 349416,
+        "word": "高铁上有多容易偶遇香港明星",
+        "onboard_time": 1694749715,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 470404,
+        "num": 349407,
+        "word": "吴磊八年前就邀请胡歌一起骑行",
+        "onboard_time": 1694762373,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230159,
+        "num": 349356,
+        "word": "丫丫也养鸟了",
+        "onboard_time": 1694743835,
+        "rank": 11,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 176627,
+        "num": 349289,
+        "word": "爱宝幼崽越来越像福宝小时候了",
+        "onboard_time": 1694757213,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 176540,
+        "num": 349222,
+        "word": "超9成网友认为北极鲶鱼事件应公布结果",
+        "onboard_time": 1694740954,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8173,
+        "num": 349134,
+        "word": "德芙让我实现了茅台自由",
+        "onboard_time": 1694761235,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326200,
+        "num": 349105,
+        "word": "吴昕录你好星期六",
+        "onboard_time": 1694758233,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400540,
+        "num": 349059,
+        "word": "张远问魏哲鸣结婚了吗",
+        "onboard_time": 1694757755,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349001,
+        "num": 349001,
+        "word": "广州暴雨",
+        "onboard_time": 1694761956,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348096,
+        "num": 348096,
+        "word": "讨厌型人格",
+        "onboard_time": 1694762373,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317854,
+        "num": 317854,
+        "word": "12306客服建议过半小时再尝试",
+        "onboard_time": 1694754220,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376009,
+        "num": 316579,
+        "word": "一斤鸭脖70元年轻人大喊少抓点",
+        "onboard_time": 1694762314,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338687,
+        "num": 315993,
+        "word": "上官浅故意不穿里衣",
+        "onboard_time": 1694738317,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307780,
+        "num": 307780,
+        "word": "洪一诺签约索尼音乐",
+        "onboard_time": 1694761832,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301539,
+        "num": 301539,
+        "word": "全美最美男明星",
+        "onboard_time": 1694757755,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298682,
+        "num": 298682,
+        "word": "云为杉和小兰花的都怪你",
+        "onboard_time": 1694762314,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298515,
+        "num": 298515,
+        "word": "易建联竟然这么搞笑",
+        "onboard_time": 1694761774,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282995,
+        "num": 282995,
+        "word": "对方撤回了一个儿子",
+        "onboard_time": 1694752961,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226469,
+        "num": 226469,
+        "word": "适合便秘人群吃的水果找到了",
+        "onboard_time": 1694759192,
+        "rank": 27,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 217321,
+        "num": 217321,
+        "word": "行走的鱼 王炸",
+        "onboard_time": 1694756673,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207280,
+        "num": 207280,
+        "word": "62岁女子辅助生殖成功产女",
+        "onboard_time": 1694749176,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1341482,
+        "num": 206625,
+        "word": "宝儿直播遭男子播放不雅视频",
+        "onboard_time": 1694761892,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349619,
+        "num": 205549,
+        "word": "被英国男朋友当成中国女巫",
+        "onboard_time": 1694762314,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235171,
+        "num": 205244,
+        "word": "易建联退役仪式直播",
+        "onboard_time": 1694757394,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229096,
+        "num": 203569,
+        "word": "iPhone15系列手机今晚8点预售",
+        "onboard_time": 1694763094,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203392,
+        "num": 203392,
+        "word": "少年白马醉春风杀青特辑",
+        "onboard_time": 1694762134,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200582,
+        "num": 200582,
+        "word": "TF家族演唱会举办方被罚6万",
+        "onboard_time": 1694752239,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174707,
+        "num": 174707,
+        "word": "肖战喊前夫哥是即兴发挥",
+        "onboard_time": 1694751821,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172166,
+        "num": 172166,
+        "word": "连续6年上榜中国最美县域的城市有多美",
+        "onboard_time": 1694763094,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168542,
+        "num": 168542,
+        "word": "12306回应高铁35元盒饭标价15元",
+        "onboard_time": 1694755176,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168109,
+        "num": 168109,
+        "word": "蜂花年销售额已破10亿",
+        "onboard_time": 1694763035,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165735,
+        "num": 165735,
+        "word": "陈楚生李玖哲老舅行走的鱼",
+        "onboard_time": 1694756256,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164663,
+        "num": 164663,
+        "word": "苹果要求员工对iPhone12辐射沉默",
+        "onboard_time": 1694746892,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157244,
+        "num": 157244,
+        "word": "云之羽女主身份牛牛偷听到了",
+        "onboard_time": 1694753978,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156449,
+        "num": 156449,
+        "word": "211女硕士遭杀猪盘两周被骗138万",
+        "onboard_time": 1694740954,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144847,
+        "num": 144847,
+        "word": "第八个嫌疑人 真不像演的",
+        "onboard_time": 1694757634,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144178,
+        "num": 144178,
+        "word": "蜂花香皂 残障人士包装",
+        "onboard_time": 1694748699,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 143180,
+        "num": 143180,
+        "word": "警方通报初中投毒者为2名13岁女生",
+        "onboard_time": 1694750136,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140343,
+        "num": 140343,
+        "word": "被人类幼崽萌晕",
+        "onboard_time": 1694762254,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 137377,
+        "num": 137377,
+        "word": "厦门一女子跳海自杀丈夫回应",
+        "onboard_time": 1694742757,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136767,
+        "num": 136767,
+        "word": "气血非常不足适合什么运动",
+        "onboard_time": 1694744255,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对新时代办公厅工作作出重要指示#"
+    }
+  }
+}

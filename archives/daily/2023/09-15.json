@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694762134502,
+  "endTime": 1694763230842,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -107,6 +107,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1341482,
+      "num": 206625,
+      "word": "宝儿直播遭男子播放不雅视频",
+      "onboard_time": 1694761892,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1277896,
       "num": 504797,
       "word": "华为",
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 931388,
+      "num": 931388,
+      "word": "赵丽颖当选中视协第七届理事",
+      "onboard_time": 1694759674,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915200,
       "num": 915200,
       "word": "张远问魏哲鸣结婚了吗",
@@ -201,14 +217,6 @@
       "onboard_time": 1694701722,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 883580,
-      "num": 883580,
-      "word": "赵丽颖当选中视协第七届理事",
-      "onboard_time": 1694759674,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 867323,
@@ -395,20 +403,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 567847,
+      "num": 567847,
+      "word": "长头发的八个穴位",
+      "onboard_time": 1694761051,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 548733,
       "num": 548733,
       "word": "你准备好抢票了吗",
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521439,
-      "num": 370938,
-      "word": "长头发的八个穴位",
-      "onboard_time": 1694761051,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 511896,
@@ -449,6 +457,14 @@
       "onboard_time": 1694733628,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 470404,
+      "num": 349407,
+      "word": "吴磊八年前就邀请胡歌一起骑行",
+      "onboard_time": 1694762373,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 469920,
@@ -521,6 +537,14 @@
       "onboard_time": 1694752661,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441398,
+      "num": 441398,
+      "word": "宋紫薇已从iQOO离职",
+      "onboard_time": 1694761112,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 429012,
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376009,
+      "num": 316579,
+      "word": "一斤鸭脖70元年轻人大喊少抓点",
+      "onboard_time": 1694762314,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374818,
       "num": 374818,
       "word": "女生点外卖从碗里吃出地漏",
@@ -667,20 +699,36 @@
       "category": "教育"
     },
     {
-      "raw_hot": 352856,
-      "num": 352856,
-      "word": "宋紫薇已从iQOO离职",
-      "onboard_time": 1694761112,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 351178,
       "num": 351178,
       "word": "饿了么崩了",
       "onboard_time": 1694750618,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 349619,
+      "num": 205549,
+      "word": "被英国男朋友当成中国女巫",
+      "onboard_time": 1694762314,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 349001,
+      "num": 349001,
+      "word": "广州暴雨",
+      "onboard_time": 1694761956,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348096,
+      "num": 348096,
+      "word": "讨厌型人格",
+      "onboard_time": 1694762373,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 327010,
@@ -739,6 +787,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 307780,
+      "num": 307780,
+      "word": "洪一诺签约索尼音乐",
+      "onboard_time": 1694761832,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307404,
       "num": 307404,
       "word": "男子买彩票中5544万到手4444万",
@@ -755,12 +811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300224,
-      "num": 193595,
-      "word": "宝儿直播遭男子播放不雅视频",
-      "onboard_time": 1694761892,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 298682,
+      "num": 298682,
+      "word": "云为杉和小兰花的都怪你",
+      "onboard_time": 1694762314,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 298515,
+      "num": 298515,
+      "word": "易建联竟然这么搞笑",
+      "onboard_time": 1694761774,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 293648,
@@ -931,6 +995,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 229096,
+      "num": 203569,
+      "word": "iPhone15系列手机今晚8点预售",
+      "onboard_time": 1694763094,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 225792,
       "num": 225792,
       "word": "如何增加12306候补成功率",
@@ -1091,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203392,
+      "num": 203392,
+      "word": "少年白马醉春风杀青特辑",
+      "onboard_time": 1694762134,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201257,
       "num": 201257,
       "word": "A股",
@@ -1145,14 +1225,6 @@
       "onboard_time": 1694751637,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 194058,
-      "num": 194058,
-      "word": "易建联竟然这么搞笑",
-      "onboard_time": 1694761774,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 193775,
@@ -1331,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172166,
+      "num": 172166,
+      "word": "连续6年上榜中国最美县域的城市有多美",
+      "onboard_time": 1694763094,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172115,
       "num": 172115,
       "word": "九义人今日开播",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1694742214,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 168109,
+      "num": 168109,
+      "word": "蜂花年销售额已破10亿",
+      "onboard_time": 1694763035,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 167184,
@@ -1459,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156889,
-      "num": 156889,
-      "word": "洪一诺签约索尼音乐",
-      "onboard_time": 1694761832,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154660,
       "num": 154660,
       "word": "全场给冯宝宝哭丧",
@@ -1496,14 +1576,6 @@
       "word": "成都停电",
       "onboard_time": 1694700282,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149556,
-      "num": 149556,
-      "word": "广州暴雨",
-      "onboard_time": 1694761956,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1609,6 +1681,14 @@
       "onboard_time": 1694735676,
       "rank": 49,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 140343,
+      "num": 140343,
+      "word": "被人类幼崽萌晕",
+      "onboard_time": 1694762254,
+      "rank": 47,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 137303,
