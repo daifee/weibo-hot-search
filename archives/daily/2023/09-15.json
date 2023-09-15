@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694741533728,
+  "endTime": 1694744614472,
   "band_list": [
     {
       "raw_hot": 2701966,
@@ -8,6 +8,14 @@
       "word": "郁美净董事长直播间跳舞",
       "onboard_time": 1694738615,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2677035,
+      "num": 2677035,
+      "word": "211女硕士遭杀猪盘两周被骗138万",
+      "onboard_time": 1694740954,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -19,11 +27,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2292198,
+      "num": 2292198,
+      "word": "抢票 抢不到",
+      "onboard_time": 1694741794,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1782619,
       "num": 1782619,
       "word": "花西子事件后老牌国货销量暴涨",
       "onboard_time": 1694705135,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1757495,
+      "num": 1757495,
+      "word": "男童撑伞从26楼跳下后奇迹生还",
+      "onboard_time": 1694741132,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -91,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778546,
+      "num": 778546,
+      "word": "外星人干尸发现者曾被曝造假",
+      "onboard_time": 1694742694,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739924,
       "num": 739924,
       "word": "香港市中心15平的家",
       "onboard_time": 1694738737,
       "rank": 8,
       "category": "其它"
+    },
+    {
+      "raw_hot": 734720,
+      "num": 734720,
+      "word": "网红峰哥亲历缅甸生死36小时",
+      "onboard_time": 1694743775,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722704,
@@ -163,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 499348,
+      "num": 499348,
+      "word": "超9成网友认为北极鲶鱼事件应公布结果",
+      "onboard_time": 1694740954,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483363,
+      "num": 483363,
+      "word": "丫丫也养鸟了",
+      "onboard_time": 1694743835,
+      "rank": 11,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 478609,
       "num": 478609,
       "word": "朱一龙自曝曾犹豫是否接演消失的她",
@@ -203,6 +259,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 445212,
+      "num": 289266,
+      "word": "厦门一女子跳海自杀丈夫回应",
+      "onboard_time": 1694742757,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429012,
       "num": 429012,
       "word": "体质真的会影响思维和性格",
@@ -227,20 +291,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 418302,
-      "num": 418302,
-      "word": "211女硕士遭杀猪盘两周被骗138万",
-      "onboard_time": 1694740954,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412676,
       "num": 300616,
       "word": "我妈凑单抢到的迷你版百岁山",
       "onboard_time": 1694738433,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405293,
+      "num": 405293,
+      "word": "帕梅拉坚持10年你坚持了几年",
+      "onboard_time": 1694743414,
+      "rank": 12,
+      "category": "社会新闻,运动健身"
     },
     {
       "raw_hot": 394599,
@@ -259,6 +323,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 363654,
+      "num": 225510,
+      "word": "Ruler 我认为我们国家完全能夺冠",
+      "onboard_time": 1694743535,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 359555,
+      "num": 275770,
+      "word": "你会反感老牌国货蹭花西子热度吗",
+      "onboard_time": 1694742816,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357268,
       "num": 357268,
       "word": "四六级",
@@ -275,12 +355,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 320479,
-      "num": 320479,
-      "word": "超9成网友认为北极鲶鱼事件应公布结果",
-      "onboard_time": 1694740954,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 320473,
+      "num": 274850,
+      "word": "长期喝百香果真的可以变白吗",
+      "onboard_time": 1694743594,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 313313,
@@ -323,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276112,
-      "num": 193266,
-      "word": "男童撑伞从26楼跳下后奇迹生还",
-      "onboard_time": 1694741132,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 291921,
+      "num": 291921,
+      "word": "航天专家称外星人不可能来过地球",
+      "onboard_time": 1694741434,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 269841,
@@ -363,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243383,
+      "num": 243383,
+      "word": "关晓彤唐嫣宋亚轩古装造型路透",
+      "onboard_time": 1694744492,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242841,
       "num": 242841,
       "word": "王一博出道九年作品回顾",
@@ -377,6 +465,14 @@
       "onboard_time": 1694707592,
       "rank": 24,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 232933,
+      "num": 232933,
+      "word": "五条悟摘掉眼罩",
+      "onboard_time": 1694742454,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 231088,
@@ -411,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223146,
+      "num": 223146,
+      "word": "气血非常不足适合什么运动",
+      "onboard_time": 1694744255,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 221562,
       "num": 221562,
       "word": "利比亚",
@@ -443,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207888,
+      "num": 207888,
+      "word": "东北的叠词一点也不比台湾少",
+      "onboard_time": 1694743414,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207564,
       "num": 140273,
       "word": "左叶晒月公子云雀合照",
@@ -467,12 +579,36 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 203503,
+      "num": 203503,
+      "word": "酱香型发型",
+      "onboard_time": 1694742757,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201257,
+      "num": 201257,
+      "word": "A股",
+      "onboard_time": 1694743594,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198050,
       "num": 198050,
       "word": "公交车这个位置好适合社恐",
       "onboard_time": 1694702980,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195543,
+      "num": 195543,
+      "word": "林雨申赵露思我喜欢你开播三周年",
+      "onboard_time": 1694741372,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 188328,
@@ -505,6 +641,14 @@
       "onboard_time": 1694736454,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181712,
+      "num": 181712,
+      "word": "乔振宇演的黑廉花上线",
+      "onboard_time": 1694744073,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 179984,
@@ -555,12 +699,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172115,
+      "num": 172115,
+      "word": "九义人今日开播",
+      "onboard_time": 1694744194,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171488,
+      "num": 171488,
+      "word": "武汉动物园 抢票",
+      "onboard_time": 1694742214,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 167184,
       "num": 167184,
       "word": "骄阳伴我",
       "onboard_time": 1694734168,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165404,
+      "num": 165404,
+      "word": "94岁硬核奶奶做中国人听得懂的歌剧",
+      "onboard_time": 1694744014,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164951,
+      "num": 164951,
+      "word": "创业板指跌破2000点",
+      "onboard_time": 1694743775,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 163589,
@@ -649,14 +825,6 @@
       "onboard_time": 1694737175,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147600,
-      "num": 147600,
-      "word": "林雨申赵露思我喜欢你开播三周年",
-      "onboard_time": 1694741372,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 145708,
@@ -763,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130786,
-      "num": 130786,
-      "word": "航天专家称外星人不可能来过地球",
-      "onboard_time": 1694741434,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 127560,
       "num": 127560,
       "word": "丞磊卢昱晓好会理解夜色尚浅",
@@ -843,6 +1003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96429,
+      "num": 390612,
+      "word": "为什么大学生都在跳内卷舞",
+      "onboard_time": 1694743232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92264,
       "num": 64323,
       "word": "不敢睡 怕一醒来就要去打工",
@@ -852,7 +1020,7 @@
     },
     {
       "raw_hot": 75269,
-      "num": 1395104,
+      "num": 1810111,
       "word": "当亚运遇上民乐太惊艳了",
       "onboard_time": 1694699920,
       "rank": 2,
