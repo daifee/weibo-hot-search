@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694819761147,
+  "endTime": 1694820836755,
   "band_list": [
     {
       "raw_hot": 1975799,
@@ -35,8 +35,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1129339,
-      "num": 1129339,
+      "raw_hot": 1352339,
+      "num": 1352339,
       "word": "离婚人数连续三年下降",
       "onboard_time": 1694790401,
       "rank": 21,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721630,
+      "num": 721630,
+      "word": "教师资格证三个作文万能开头",
+      "onboard_time": 1694816657,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 598903,
       "num": 490462,
       "word": "云之羽给曾舜晞P了刘海",
@@ -91,20 +99,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 562666,
-      "num": 562666,
-      "word": "教师资格证三个作文万能开头",
-      "onboard_time": 1694816657,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 490411,
       "num": 490411,
       "word": "东方时尚董事长被逮捕",
       "onboard_time": 1694792079,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401531,
+      "num": 250001,
+      "word": "宝儿直播遭男子播放不雅视频",
+      "onboard_time": 1694761892,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 384487,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378913,
+      "num": 378913,
+      "word": "吴昕说恋爱没百分百确定别骚扰家长",
+      "onboard_time": 1694819363,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378622,
       "num": 378622,
       "word": "云为衫宫子羽生死告白",
@@ -131,12 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 361067,
-      "num": 208820,
-      "word": "宝儿直播遭男子播放不雅视频",
-      "onboard_time": 1694761892,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 350800,
+      "num": 350800,
+      "word": "曾舜晞 心如止水",
+      "onboard_time": 1694820266,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 335162,
@@ -219,12 +235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225069,
+      "num": 121445,
+      "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+      "onboard_time": 1694820266,
+      "rank": 30,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 222131,
       "num": 222131,
       "word": "黄景瑜张婧仪新剧的cp感",
       "onboard_time": 1694792739,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221531,
+      "num": 121397,
+      "word": "蜂花终身认养了一只大熊猫",
+      "onboard_time": 1694820806,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 215335,
@@ -235,20 +267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205605,
-      "num": 205605,
-      "word": "吴昕说恋爱没百分百确定别骚扰家长",
-      "onboard_time": 1694819363,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204296,
       "num": 204296,
       "word": "原来秋葵是这样长的",
       "onboard_time": 1694783797,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202303,
+      "num": 202303,
+      "word": "38元买的谢馥春眉粉用了9年仅破皮",
+      "onboard_time": 1694774973,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198264,
@@ -259,12 +291,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192976,
-      "num": 192976,
-      "word": "38元买的谢馥春眉粉用了9年仅破皮",
-      "onboard_time": 1694774973,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 188378,
+      "num": 156663,
+      "word": "云之羽",
+      "onboard_time": 1694819723,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188349,
+      "num": 188349,
+      "word": "华为手机可以将Excel照片转换为文件",
+      "onboard_time": 1694785478,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 188007,
@@ -307,12 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164188,
-      "num": 164188,
-      "word": "华为手机可以将Excel照片转换为文件",
-      "onboard_time": 1694785478,
-      "rank": 37,
-      "category": "数码"
+      "raw_hot": 162271,
+      "num": 228084,
+      "word": "小宝宝看爸爸冲奶满眼期待",
+      "onboard_time": 1694817680,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161778,
@@ -395,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122552,
-      "num": 103369,
-      "word": "小宝宝看爸爸冲奶满眼期待",
-      "onboard_time": 1694817680,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120868,
       "num": 120868,
       "word": "睡睡 张硕",
@@ -417,6 +449,14 @@
       "onboard_time": 1694784159,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109842,
+      "num": 109842,
+      "word": "香港媒体记者大赞杭州亚运村",
+      "onboard_time": 1694819063,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 109304,
@@ -436,7 +476,7 @@
     },
     {
       "raw_hot": 101389,
-      "num": 174429,
+      "num": 210282,
       "word": "渤海海峡黄海北部执行军事任务",
       "onboard_time": 1694807534,
       "rank": 13,
@@ -467,20 +507,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 80815,
+      "num": 80815,
+      "word": "云之羽打戏像农民伯伯砍草",
+      "onboard_time": 1694820685,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80320,
       "num": 80320,
       "word": "云之羽结局是表示还有第二季吗",
       "onboard_time": 1694784876,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77241,
-      "num": 77241,
-      "word": "香港媒体记者大赞杭州亚运村",
-      "onboard_time": 1694819063,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 69133,
@@ -491,16 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60178,
-      "num": 60178,
-      "word": "云之羽",
-      "onboard_time": 1694819723,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 59584,
-      "num": 59584,
+      "raw_hot": 67732,
+      "num": 75289,
       "word": "花360万开个露营地能赚多少钱",
       "onboard_time": 1694803876,
       "rank": 43,
