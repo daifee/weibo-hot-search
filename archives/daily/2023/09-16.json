@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694817233218,
+  "endTime": 1694819761147,
   "band_list": [
     {
       "raw_hot": 1975799,
@@ -35,6 +35,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1129339,
+      "num": 1129339,
+      "word": "离婚人数连续三年下降",
+      "onboard_time": 1694790401,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953454,
       "num": 257890,
       "word": "为什么接吻会下意识闭眼",
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699117,
-      "num": 699117,
-      "word": "离婚人数连续三年下降",
-      "onboard_time": 1694790401,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598903,
       "num": 490462,
       "word": "云之羽给曾舜晞P了刘海",
@@ -89,6 +89,14 @@
       "onboard_time": 1694783917,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 562666,
+      "num": 562666,
+      "word": "教师资格证三个作文万能开头",
+      "onboard_time": 1694816657,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 490411,
@@ -121,6 +129,14 @@
       "onboard_time": 1694782598,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361067,
+      "num": 208820,
+      "word": "宝儿直播遭男子播放不雅视频",
+      "onboard_time": 1694761892,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 335162,
@@ -219,12 +235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208820,
-      "num": 208820,
-      "word": "宝儿直播遭男子播放不雅视频",
-      "onboard_time": 1694761892,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 205605,
+      "num": 205605,
+      "word": "吴昕说恋爱没百分百确定别骚扰家长",
+      "onboard_time": 1694819363,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 204296,
@@ -241,6 +257,14 @@
       "onboard_time": 1694779776,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192976,
+      "num": 192976,
+      "word": "38元买的谢馥春眉粉用了9年仅破皮",
+      "onboard_time": 1694774973,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188007,
@@ -283,12 +307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180163,
-      "num": 180163,
-      "word": "38元买的谢馥春眉粉用了9年仅破皮",
-      "onboard_time": 1694774973,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 164188,
+      "num": 164188,
+      "word": "华为手机可以将Excel照片转换为文件",
+      "onboard_time": 1694785478,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 161778,
@@ -313,14 +337,6 @@
       "onboard_time": 1694786024,
       "rank": 36,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 153060,
-      "num": 153060,
-      "word": "华为手机可以将Excel照片转换为文件",
-      "onboard_time": 1694785478,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 149994,
@@ -379,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122552,
+      "num": 103369,
+      "word": "小宝宝看爸爸冲奶满眼期待",
+      "onboard_time": 1694817680,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120868,
       "num": 120868,
       "word": "睡睡 张硕",
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101389,
+      "num": 174429,
+      "word": "渤海海峡黄海北部执行军事任务",
+      "onboard_time": 1694807534,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 99016,
       "num": 342081,
       "word": "雅安地震",
@@ -435,6 +467,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 80320,
+      "num": 80320,
+      "word": "云之羽结局是表示还有第二季吗",
+      "onboard_time": 1694784876,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77241,
+      "num": 77241,
+      "word": "香港媒体记者大赞杭州亚运村",
+      "onboard_time": 1694819063,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69133,
       "num": 42781,
       "word": "胡彦斌想抓紧谈恋爱了",
@@ -443,24 +491,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65011,
-      "num": 89035,
-      "word": "渤海海峡黄海北部执行军事任务",
-      "onboard_time": 1694807534,
-      "rank": 13,
-      "category": "国内要闻"
+      "raw_hot": 60178,
+      "num": 60178,
+      "word": "云之羽",
+      "onboard_time": 1694819723,
+      "rank": 45,
+      "category": "剧集"
     },
     {
-      "raw_hot": 54834,
-      "num": 54834,
-      "word": "教师资格证三个作文万能开头",
-      "onboard_time": 1694816657,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 44889,
-      "num": 42732,
+      "raw_hot": 59584,
+      "num": 59584,
       "word": "花360万开个露营地能赚多少钱",
       "onboard_time": 1694803876,
       "rank": 43,
