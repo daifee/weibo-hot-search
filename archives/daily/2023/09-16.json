@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694799245848,
+  "endTime": 1694802058210,
   "band_list": [
     {
       "raw_hot": 1975799,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 685779,
-      "num": 609425,
+      "raw_hot": 699117,
+      "num": 699117,
       "word": "离婚人数连续三年下降",
       "onboard_time": 1694790401,
       "rank": 21,
@@ -441,6 +441,14 @@
       "onboard_time": 1694781815,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29372,
+      "num": 47706,
+      "word": "为什么长江禁渔要十年之久",
+      "onboard_time": 1694802017,
+      "rank": 49,
+      "category": "知识科普"
     }
   ],
   "hotgov_list": [

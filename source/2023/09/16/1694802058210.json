@@ -1,0 +1,410 @@
+{
+  "runTime": 1694802058210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 699117,
+        "num": 699117,
+        "word": "离婚人数连续三年下降",
+        "onboard_time": 1694790401,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361251,
+        "num": 361251,
+        "word": "云之羽结局",
+        "onboard_time": 1694780316,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18131,
+        "num": 223299,
+        "word": "杭州亚运会宣传片爱之城",
+        "onboard_time": 1694781815,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617673,
+        "num": 211552,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188796,
+        "num": 188796,
+        "word": "李在明绝食第16天健康已非常危险",
+        "onboard_time": 1694790759,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 218613,
+        "num": 173658,
+        "word": "云之羽给曾舜晞P了刘海",
+        "onboard_time": 1694782960,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131886,
+        "num": 131886,
+        "word": "警方通报一女子小区内被伤害身亡",
+        "onboard_time": 1694790160,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163652,
+        "num": 127205,
+        "word": "云为衫宫子羽生死告白",
+        "onboard_time": 1694782598,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121403,
+        "num": 121403,
+        "word": "蜂花老总的头发用事实证明",
+        "onboard_time": 1694783917,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121898,
+        "num": 119504,
+        "word": "云之羽超点",
+        "onboard_time": 1694774854,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407962,
+        "num": 118621,
+        "word": "李子柒露面",
+        "onboard_time": 1694783315,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 361631,
+        "num": 116545,
+        "word": "喊话李佳琦的医生称希望提高医生收入",
+        "onboard_time": 1694783976,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 114103,
+        "num": 114103,
+        "word": "女生称因爱抠鼻子致鼻内长10多团真菌",
+        "onboard_time": 1694785658,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36691,
+        "num": 108678,
+        "word": "雅安地震",
+        "onboard_time": 1694772451,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25734,
+        "num": 107567,
+        "word": "姚明感慨回忆与易建联初相遇",
+        "onboard_time": 1694789680,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107487,
+        "num": 107487,
+        "word": "高铁化妆 美妆博主反击",
+        "onboard_time": 1694778693,
+        "rank": 15,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 94473,
+        "num": 94473,
+        "word": "剥了5000多只虾就为了一碗面",
+        "onboard_time": 1694779117,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86469,
+        "num": 86469,
+        "word": "宝儿直播遭男子播放不雅视频",
+        "onboard_time": 1694761892,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86468,
+        "num": 86468,
+        "word": "Angelababy说想学我做的腌水果",
+        "onboard_time": 1694795430,
+        "rank": 18,
+        "category": "作品衍生,美食"
+      },
+      {
+        "raw_hot": 74541,
+        "num": 74541,
+        "word": "1米89的胡兵此刻1米2",
+        "onboard_time": 1694784219,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197720,
+        "num": 73611,
+        "word": "为什么接吻会下意识闭眼",
+        "onboard_time": 1694788061,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84236,
+        "num": 73022,
+        "word": "为什么父母辈从不因为工作而内耗",
+        "onboard_time": 1694787999,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71965,
+        "num": 71965,
+        "word": "东方时尚董事长被逮捕",
+        "onboard_time": 1694792079,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71292,
+        "num": 71292,
+        "word": "余华 我怎会写得那么好",
+        "onboard_time": 1694789020,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68994,
+        "num": 68994,
+        "word": "张翰将出演如梦之梦",
+        "onboard_time": 1694784339,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63091,
+        "num": 63091,
+        "word": "如何看待蜂花借李佳琦热点搞营销",
+        "onboard_time": 1694771075,
+        "rank": 25,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 62059,
+        "num": 62059,
+        "word": "38元买的谢馥春眉粉用了9年仅破皮",
+        "onboard_time": 1694774973,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60035,
+        "num": 60035,
+        "word": "文咏珊被正式确诊为文勇扇",
+        "onboard_time": 1694776413,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59789,
+        "num": 59789,
+        "word": "为什么饮水机都是装在厕所门口",
+        "onboard_time": 1694783376,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59666,
+        "num": 59666,
+        "word": "青岛一小区母子3人坠楼",
+        "onboard_time": 1694774133,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59325,
+        "num": 59325,
+        "word": "华为手机可以将Excel照片转换为文件",
+        "onboard_time": 1694785478,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 58504,
+        "num": 58504,
+        "word": "孟子义男人装大片",
+        "onboard_time": 1694797706,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57727,
+        "num": 57727,
+        "word": "Jennie芭莎十月刊封面大片",
+        "onboard_time": 1694779538,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57704,
+        "num": 57704,
+        "word": "蒲熠星 原来焦虑也意味着自由",
+        "onboard_time": 1694787219,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57087,
+        "num": 57087,
+        "word": "原来秋葵是这样长的",
+        "onboard_time": 1694783797,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56987,
+        "num": 56987,
+        "word": "吴昕再去也已是嘉宾",
+        "onboard_time": 1694778635,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55822,
+        "num": 55822,
+        "word": "成毅一边下台一边擦泪",
+        "onboard_time": 1694779776,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53943,
+        "num": 53943,
+        "word": "处女座太需要正向反馈了",
+        "onboard_time": 1694786024,
+        "rank": 37,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 53045,
+        "num": 53045,
+        "word": "孩子在外婆家溺亡父亲起诉索赔80万",
+        "onboard_time": 1694777854,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52293,
+        "num": 52293,
+        "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
+        "onboard_time": 1694771614,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50890,
+        "num": 50890,
+        "word": "李玖哲因公司拒绝而错过我是歌手",
+        "onboard_time": 1694777974,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49778,
+        "num": 49778,
+        "word": "睡睡 张硕",
+        "onboard_time": 1694779177,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44625,
+        "num": 49695,
+        "word": "打工人时期的肖战",
+        "onboard_time": 1694787999,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41270,
+        "num": 49444,
+        "word": "不后悔 但不会再这么做了",
+        "onboard_time": 1694787637,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37847,
+        "num": 49023,
+        "word": "毛不易北京演唱会嘉宾是李健",
+        "onboard_time": 1694784159,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37487,
+        "num": 48883,
+        "word": "网友认不出去世父亲的字",
+        "onboard_time": 1694788838,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37281,
+        "num": 48475,
+        "word": "被老师压制的血脉觉醒了",
+        "onboard_time": 1694796147,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36136,
+        "num": 48106,
+        "word": "沈梦辰跟贾静雯打招呼紧张到结巴",
+        "onboard_time": 1694787999,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29585,
+        "num": 48019,
+        "word": "黄景瑜张婧仪新剧的cp感",
+        "onboard_time": 1694792739,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29372,
+        "num": 47706,
+        "word": "为什么长江禁渔要十年之久",
+        "onboard_time": 1694802017,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    }
+  }
+}
