@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694759704611,
+  "endTime": 1694762134502,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 883580,
+      "num": 883580,
+      "word": "赵丽颖当选中视协第七届理事",
+      "onboard_time": 1694759674,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867323,
       "num": 867323,
       "word": "女子翻护栏捡手机坠下40米高瀑布身亡",
@@ -393,6 +401,14 @@
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521439,
+      "num": 370938,
+      "word": "长头发的八个穴位",
+      "onboard_time": 1694761051,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 511896,
@@ -651,6 +667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 352856,
+      "num": 352856,
+      "word": "宋紫薇已从iQOO离职",
+      "onboard_time": 1694761112,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 351178,
       "num": 351178,
       "word": "饿了么崩了",
@@ -731,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300224,
+      "num": 193595,
+      "word": "宝儿直播遭男子播放不雅视频",
+      "onboard_time": 1694761892,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293648,
       "num": 293648,
       "word": "陈楚生吉他弹唱思念一个荒废的名字",
@@ -793,6 +825,14 @@
       "onboard_time": 1694703218,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257696,
+      "num": 257696,
+      "word": "适合便秘人群吃的水果找到了",
+      "onboard_time": 1694759192,
+      "rank": 30,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 256325,
@@ -955,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216634,
-      "num": 216634,
-      "word": "适合便秘人群吃的水果找到了",
-      "onboard_time": 1694759192,
-      "rank": 30,
-      "category": "美食,健康医疗"
-    },
-    {
       "raw_hot": 216504,
       "num": 158247,
       "word": "张凌赫 你快衫了吧",
@@ -1115,6 +1147,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 194058,
+      "num": 194058,
+      "word": "易建联竟然这么搞笑",
+      "onboard_time": 1694761774,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193775,
       "num": 193775,
       "word": "朱一龙WSJ.九月刊封面",
@@ -1243,6 +1283,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 178171,
+      "num": 178171,
+      "word": "鹦鹉杀",
+      "onboard_time": 1694759734,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178018,
       "num": 178018,
       "word": "于适少年赋浴室弹唱版",
@@ -1347,12 +1395,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162545,
+      "num": 162545,
+      "word": "魏哲鸣蔡国庆 父子cp",
+      "onboard_time": 1694760753,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161640,
       "num": 161640,
       "word": "周华健为粉丝准备两千寸提词器",
       "onboard_time": 1694734289,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161346,
+      "num": 161346,
+      "word": "一人一句祝福阿联",
+      "onboard_time": 1694761112,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 161066,
@@ -1395,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156889,
+      "num": 156889,
+      "word": "洪一诺签约索尼音乐",
+      "onboard_time": 1694761832,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154660,
       "num": 154660,
       "word": "全场给冯宝宝哭丧",
@@ -1424,6 +1496,14 @@
       "word": "成都停电",
       "onboard_time": 1694700282,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149556,
+      "num": 149556,
+      "word": "广州暴雨",
+      "onboard_time": 1694761956,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1457,14 +1537,6 @@
       "onboard_time": 1694721974,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144666,
-      "num": 144666,
-      "word": "赵丽颖当选中视协第七届理事",
-      "onboard_time": 1694759674,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 143646,
@@ -1505,6 +1577,14 @@
       "onboard_time": 1694704420,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142272,
+      "num": 142272,
+      "word": "金牌客服董董恩定档",
+      "onboard_time": 1694760693,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 141653,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1694732543,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129914,
+      "num": 129914,
+      "word": "大侦探波洛为什么经久不衰",
+      "onboard_time": 1694762074,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127560,
@@ -1705,6 +1793,14 @@
       "onboard_time": 1694697634,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44937,
+      "num": 372212,
+      "word": "德芙让我实现了茅台自由",
+      "onboard_time": 1694761235,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 41989,
