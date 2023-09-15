@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/15 22:33:52
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/15 23:17:11
 </p>
 </blockquote>
 <p>
@@ -201,6 +201,12 @@ UFO（热度：4690158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E7%A8%80%E5%B7%B4%E7%83%82%23" target="weibo">
+云之羽 稀巴烂（热度：3652588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83%23" target="weibo">
 这4种面包真的建议少吃（热度：3615490）
 </a>
@@ -287,12 +293,6 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
 12306抢票（热度：3273876）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E7%A8%80%E5%B7%B4%E7%83%82%23" target="weibo">
-云之羽 稀巴烂（热度：3271204）
 </a>
 </li>
 
@@ -929,6 +929,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%81%B71%E5%A4%9C%E6%8C%96700%E6%96%A4%E8%8A%8B%E5%A4%B4%E8%A2%AB%E6%8A%93%E5%86%9C%E6%88%B7%E7%AC%91%E4%BA%86%23" target="weibo">
 小偷1夜挖700斤芋头被抓农户笑了（热度：2261210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E9%9C%B2%E9%9D%A2%23" target="weibo">
+李子柒露面（热度：2260406）
 </a>
 </li>
 
@@ -2231,6 +2237,12 @@ iPhone14价格不降反涨（热度：1494110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%92%B8%E5%A4%A7%E9%97%B8%E8%9F%B9%E6%A0%B8%E8%BE%90%E5%B0%84%E6%A3%80%E6%B5%8B%E4%BB%AA%E8%AD%A6%E6%8A%A5%E4%B8%8D%E6%96%AD%23" target="weibo">
 女子蒸大闸蟹核辐射检测仪警报不断（热度：1468670）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A5%E5%90%BB%E4%BC%9A%E4%B8%8B%E6%84%8F%E8%AF%86%E9%97%AD%E7%9C%BC%23" target="weibo">
+为什么接吻会下意识闭眼（热度：1467422）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ IU抄袭指控警方不予立案（热度：694848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AD%BE%E5%AD%97%E6%8A%95%E9%99%8D%E5%8E%86%E5%8F%B2%E5%BD%B1%E5%83%8F%23" target="weibo">
 日本签字投降历史影像（热度：694103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E7%9A%84%E6%96%B0%E5%89%A7%E7%8A%B6%E6%80%81%23" target="weibo">
-霍建华的新剧状态（热度：693341）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%BF%94%E5%81%9A%E5%A3%B0%E5%B8%A6%E6%89%8B%E6%9C%AF%23" target="weibo">
-陈翔做声带手术（热度：692995）
 </a>
 </li>
 
