@@ -1,0 +1,410 @@
+{
+  "runTime": 1694748847425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2693516,
+        "num": 2693516,
+        "word": "抢票 抢不到",
+        "onboard_time": 1694741794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1704323,
+        "num": 1704323,
+        "word": "211女硕士遭杀猪盘两周被骗138万",
+        "onboard_time": 1694740954,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30345,
+        "num": 1663872,
+        "word": "当亚运遇上民乐太惊艳了",
+        "onboard_time": 1694699920,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1650352,
+        "num": 1650352,
+        "word": "男子吃生腌海鲜后做4次手术失去1条腿",
+        "onboard_time": 1694746292,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252566,
+        "num": 1252566,
+        "word": "boss直聘崩了",
+        "onboard_time": 1694747194,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1143127,
+        "num": 1143127,
+        "word": "上官浅故意不穿里衣",
+        "onboard_time": 1694738317,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 993941,
+        "num": 993941,
+        "word": "男童撑伞从26楼跳下后奇迹生还",
+        "onboard_time": 1694741132,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841500,
+        "num": 841500,
+        "word": "网红峰哥亲历缅甸生死36小时",
+        "onboard_time": 1694743775,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630359,
+        "num": 630359,
+        "word": "丫丫也养鸟了",
+        "onboard_time": 1694743835,
+        "rank": 8,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 616462,
+        "num": 616462,
+        "word": "关晓彤唐嫣宋亚轩古装造型路透",
+        "onboard_time": 1694744492,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1449706,
+        "num": 611452,
+        "word": "央视前女主持任星巴克董事",
+        "onboard_time": 1694746652,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602959,
+        "num": 602959,
+        "word": "郁美净上架79元套餐",
+        "onboard_time": 1694745335,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593336,
+        "num": 593336,
+        "word": "将猴痘纳入乙类传染病进行管理",
+        "onboard_time": 1694747974,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296849,
+        "num": 577074,
+        "word": "超9成网友认为北极鲶鱼事件应公布结果",
+        "onboard_time": 1694740954,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231933,
+        "num": 563734,
+        "word": "中国人吃了全球91%的榴莲",
+        "onboard_time": 1694732844,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 562875,
+        "num": 562875,
+        "word": "12306崩了",
+        "onboard_time": 1694744914,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 555796,
+        "num": 555796,
+        "word": "郁美净董事长直播间跳舞",
+        "onboard_time": 1694738615,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452184,
+        "num": 452184,
+        "word": "帕梅拉坚持10年你坚持了几年",
+        "onboard_time": 1694743414,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 448728,
+        "num": 448728,
+        "word": "苹果要求员工对iPhone12辐射沉默",
+        "onboard_time": 1694746892,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371614,
+        "num": 371614,
+        "word": "外星人干尸发现者曾被曝造假",
+        "onboard_time": 1694742694,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417678,
+        "num": 367180,
+        "word": "气血非常不足适合什么运动",
+        "onboard_time": 1694744255,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 397845,
+        "num": 365022,
+        "word": "长期喝百香果真的可以变白吗",
+        "onboard_time": 1694743594,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378553,
+        "num": 364628,
+        "word": "如果用一万块跟你换高铁座位",
+        "onboard_time": 1694746594,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361155,
+        "num": 361155,
+        "word": "你看过黄金 就不会被黄铜所迷惑",
+        "onboard_time": 1694736513,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323043,
+        "num": 323043,
+        "word": "你会反感老牌国货蹭花西子热度吗",
+        "onboard_time": 1694742816,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298205,
+        "num": 298205,
+        "word": "上官浅 第一驯夫高手",
+        "onboard_time": 1694748274,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285419,
+        "num": 285419,
+        "word": "坚如磐石是张艺谋的叔圈严选",
+        "onboard_time": 1694746892,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251948,
+        "num": 251948,
+        "word": "医学生的学费真是没白交",
+        "onboard_time": 1694745392,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237736,
+        "num": 237736,
+        "word": "花西子事件后老牌国货销量暴涨",
+        "onboard_time": 1694705135,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237227,
+        "num": 237227,
+        "word": "外媒曝Lisa拒绝和YG续约",
+        "onboard_time": 1694692596,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232780,
+        "num": 232780,
+        "word": "Ruler 我认为我们国家完全能夺冠",
+        "onboard_time": 1694743535,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210779,
+        "num": 210779,
+        "word": "朱一龙自曝曾犹豫是否接演消失的她",
+        "onboard_time": 1694733628,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202831,
+        "num": 202831,
+        "word": "厦门一女子跳海自杀丈夫回应",
+        "onboard_time": 1694742757,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190812,
+        "num": 190812,
+        "word": "男子强买单搭讪失败攻击女子",
+        "onboard_time": 1694745094,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 178483,
+        "word": "去年6成网友吃不完的月饼去哪了",
+        "onboard_time": 1694748514,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 176356,
+        "num": 176356,
+        "word": "易建联退役仪式",
+        "onboard_time": 1694748094,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173272,
+        "num": 173272,
+        "word": "蜂花香皂 残障人士包装",
+        "onboard_time": 1694748699,
+        "rank": 36,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 171936,
+        "num": 171936,
+        "word": "朱一龙的包里有什么",
+        "onboard_time": 1694748573,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165167,
+        "num": 165167,
+        "word": "女子翻护栏捡手机坠下40米高瀑布身亡",
+        "onboard_time": 1694734590,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164303,
+        "num": 164303,
+        "word": "伊能静香评",
+        "onboard_time": 1694748634,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 159960,
+        "num": 159960,
+        "word": "电影三大队定档",
+        "onboard_time": 1694744792,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158021,
+        "num": 158021,
+        "word": "五条悟摘掉眼罩",
+        "onboard_time": 1694742454,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151099,
+        "num": 151099,
+        "word": "一个手势自测是否淋巴结肿大",
+        "onboard_time": 1694745094,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149603,
+        "num": 149603,
+        "word": "这下谁还分得清营业和真情侣",
+        "onboard_time": 1694701722,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147066,
+        "num": 147066,
+        "word": "小鬼想请董明珠当演唱会嘉宾",
+        "onboard_time": 1694735311,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142759,
+        "num": 142759,
+        "word": "狗Pro",
+        "onboard_time": 1694738017,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 139678,
+        "num": 139678,
+        "word": "小学生带民警上山排雷找到84枚雷管",
+        "onboard_time": 1694746356,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136363,
+        "num": 136363,
+        "word": "宋紫薇 理想",
+        "onboard_time": 1694738859,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113842,
+        "num": 113842,
+        "word": "林雨申赵露思我喜欢你开播三周年",
+        "onboard_time": 1694741372,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113506,
+        "num": 113506,
+        "word": "iPhone玄学",
+        "onboard_time": 1694702501,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对新时代办公厅工作作出重要指示#"
+    }
+  }
+}
