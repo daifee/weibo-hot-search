@@ -1,6 +1,6 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694766860485,
+  "endTime": 1694769418354,
   "band_list": [
     {
       "raw_hot": 2820728,
@@ -8,6 +8,14 @@
       "word": "抢票 抢不到",
       "onboard_time": 1694741794,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2812700,
+      "num": 2812700,
+      "word": "中科院被骗博士晒出缅甸工资单",
+      "onboard_time": 1694765794,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -211,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 956170,
-      "num": 451835,
-      "word": "中科院被骗博士晒出缅甸工资单",
-      "onboard_time": 1694765794,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 951545,
       "num": 951545,
       "word": "他从火光中走来 定档",
@@ -273,6 +273,14 @@
       "onboard_time": 1694743835,
       "rank": 11,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 803686,
+      "num": 803686,
+      "word": "一斤鸭脖70元年轻人大喊少抓点",
+      "onboard_time": 1694762314,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798787,
@@ -379,14 +387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 673775,
-      "num": 673775,
-      "word": "一斤鸭脖70元年轻人大喊少抓点",
-      "onboard_time": 1694762314,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 668313,
       "num": 668313,
       "word": "易建联退役仪式直播",
@@ -483,12 +483,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 567273,
+      "num": 567273,
+      "word": "异人之下不高兴了就一人一下",
+      "onboard_time": 1694767536,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 548733,
       "num": 548733,
       "word": "你准备好抢票了吗",
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526261,
+      "num": 526261,
+      "word": "于适新片合作消失的她导演",
+      "onboard_time": 1694766695,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 521708,
+      "num": 521708,
+      "word": "丞磊卢昱晓或将二搭",
+      "onboard_time": 1694768496,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 511896,
@@ -585,6 +609,14 @@
       "onboard_time": 1694748634,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 454908,
+      "num": 454908,
+      "word": "王栎鑫应该谢谢魏哲鸣吧",
+      "onboard_time": 1694767294,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 447264,
@@ -923,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292503,
+      "num": 292503,
+      "word": "男子称麻醉后被忘手术台医生下班",
+      "onboard_time": 1694768674,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291921,
       "num": 291921,
       "word": "航天专家称外星人不可能来过地球",
@@ -937,6 +977,14 @@
       "onboard_time": 1694752239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279570,
+      "num": 201606,
+      "word": "韩国人有多爱梁朝伟",
+      "onboard_time": 1694769274,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 272917,
@@ -969,6 +1017,14 @@
       "onboard_time": 1694710225,
       "rank": 17,
       "category": "其它"
+    },
+    {
+      "raw_hot": 266554,
+      "num": 266554,
+      "word": "他从火光中走来毅往无前版预告",
+      "onboard_time": 1694768135,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 261137,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1694745392,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248782,
+      "num": 248782,
+      "word": "犯罪团伙将手榴弹遗忘车内致全军覆没",
+      "onboard_time": 1694766215,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248259,
@@ -1171,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220445,
+      "num": 220445,
+      "word": "张译终于开始清存货了",
+      "onboard_time": 1694766874,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219848,
       "num": 219848,
       "word": "中年男演员按这种水平内卷",
@@ -1291,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202730,
+      "num": 202730,
+      "word": "潭柘寺回应禁止佛媛道媛拍照",
+      "onboard_time": 1694767776,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201263,
       "num": 201263,
       "word": "99年小伙西藏骑行遇车祸手撕玻璃救人",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1694748094,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199793,
+      "num": 199793,
+      "word": "赵露思贝雷帽学院风造型",
+      "onboard_time": 1694769033,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198466,
@@ -1435,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186128,
-      "num": 186128,
-      "word": "犯罪团伙将手榴弹遗忘车内致全军覆没",
-      "onboard_time": 1694766215,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183388,
       "num": 183388,
       "word": "崇应彪平行世界 死了一百万次的人",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1694736214,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179570,
+      "num": 179570,
+      "word": "周冬雨 周冉说想吃鱼了",
+      "onboard_time": 1694768674,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 179369,
@@ -1577,14 +1665,6 @@
       "onboard_time": 1694706158,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172513,
-      "num": 172513,
-      "word": "于适新片合作消失的她导演",
-      "onboard_time": 1694766695,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 172166,
@@ -1737,6 +1817,14 @@
       "onboard_time": 1694702022,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154091,
+      "num": 154091,
+      "word": "小货车起火交警拦停围上去灭火",
+      "onboard_time": 1694768853,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154035,
