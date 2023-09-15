@@ -1,7 +1,15 @@
 {
   "startTime": 1694708543831,
-  "endTime": 1694740301353,
+  "endTime": 1694741533728,
   "band_list": [
+    {
+      "raw_hot": 2701966,
+      "num": 2701966,
+      "word": "郁美净董事长直播间跳舞",
+      "onboard_time": 1694738615,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2355008,
       "num": 1365084,
@@ -9,14 +17,6 @@
       "onboard_time": 1694738317,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2214626,
-      "num": 2214626,
-      "word": "郁美净董事长直播间跳舞",
-      "onboard_time": 1694738615,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1782619,
@@ -91,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739924,
+      "num": 739924,
+      "word": "香港市中心15平的家",
+      "onboard_time": 1694738737,
+      "rank": 8,
+      "category": "其它"
+    },
+    {
       "raw_hot": 722704,
       "num": 722704,
       "word": "邓超孙俪捐款20万资助100名困难学生",
       "onboard_time": 1694704239,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715399,
+      "num": 307909,
+      "word": "狗Pro",
+      "onboard_time": 1694738017,
+      "rank": 20,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 709666,
@@ -115,14 +131,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 640220,
-      "num": 640220,
-      "word": "香港市中心15平的家",
-      "onboard_time": 1694738737,
-      "rank": 8,
-      "category": "其它"
-    },
-    {
       "raw_hot": 636116,
       "num": 636116,
       "word": "小鬼想请董明珠当演唱会嘉宾",
@@ -131,19 +139,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 606086,
-      "num": 267397,
-      "word": "狗Pro",
-      "onboard_time": 1694738017,
-      "rank": 20,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 593038,
       "num": 405592,
       "word": "高铁上化妆列为不文明行为网友为何不认可",
       "onboard_time": 1694694097,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548733,
+      "num": 548733,
+      "word": "你准备好抢票了吗",
+      "onboard_time": 1694736335,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -195,14 +203,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 435817,
-      "num": 435817,
-      "word": "你准备好抢票了吗",
-      "onboard_time": 1694736335,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429012,
       "num": 429012,
       "word": "体质真的会影响思维和性格",
@@ -227,8 +227,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 418302,
+      "num": 418302,
+      "word": "211女硕士遭杀猪盘两周被骗138万",
+      "onboard_time": 1694740954,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412676,
-      "num": 267375,
+      "num": 300616,
       "word": "我妈凑单抢到的迷你版百岁山",
       "onboard_time": 1694738433,
       "rank": 21,
@@ -243,20 +251,36 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 355982,
-      "num": 355982,
+      "raw_hot": 370536,
+      "num": 370536,
       "word": "宋紫薇 理想",
       "onboard_time": 1694738859,
       "rank": 16,
       "category": "数码"
     },
     {
+      "raw_hot": 357268,
+      "num": 357268,
+      "word": "四六级",
+      "onboard_time": 1694739336,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 327010,
-      "num": 266993,
+      "num": 284563,
       "word": "上班族发工资前后的态度",
       "onboard_time": 1694737715,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320479,
+      "num": 320479,
+      "word": "超9成网友认为北极鲶鱼事件应公布结果",
+      "onboard_time": 1694740954,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313313,
@@ -265,6 +289,14 @@
       "onboard_time": 1694703640,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311776,
+      "num": 311776,
+      "word": "异人之下姐狗",
+      "onboard_time": 1694740535,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 308448,
@@ -291,20 +323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276112,
+      "num": 193266,
+      "word": "男童撑伞从26楼跳下后奇迹生还",
+      "onboard_time": 1694741132,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269841,
       "num": 269841,
       "word": "宿舍超爽的睡觉氛围",
       "onboard_time": 1694710225,
       "rank": 17,
       "category": "其它"
-    },
-    {
-      "raw_hot": 266322,
-      "num": 266322,
-      "word": "四六级",
-      "onboard_time": 1694739336,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 261137,
@@ -369,6 +401,14 @@
       "onboard_time": 1694691033,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 223643,
+      "num": 223643,
+      "word": "海外观众封神观后感",
+      "onboard_time": 1694739937,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 221562,
@@ -443,6 +483,22 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 187923,
+      "num": 187923,
+      "word": "嘉顿",
+      "onboard_time": 1694737955,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 182993,
+      "num": 182993,
+      "word": "小伙为跳好民族舞光呼吸就练了3年",
+      "onboard_time": 1694740776,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182513,
       "num": 182513,
       "word": "高圆圆董洁同框",
@@ -475,14 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176370,
-      "num": 176370,
-      "word": "海外观众封神观后感",
-      "onboard_time": 1694739937,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175621,
       "num": 175621,
       "word": "中国式闪现教育",
@@ -513,14 +561,6 @@
       "onboard_time": 1694734168,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165483,
-      "num": 165483,
-      "word": "嘉顿",
-      "onboard_time": 1694737955,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 163589,
@@ -609,6 +649,14 @@
       "onboard_time": 1694737175,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147600,
+      "num": 147600,
+      "word": "林雨申赵露思我喜欢你开播三周年",
+      "onboard_time": 1694741372,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 145708,
@@ -713,6 +761,14 @@
       "onboard_time": 1694732543,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130786,
+      "num": 130786,
+      "word": "航天专家称外星人不可能来过地球",
+      "onboard_time": 1694741434,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 127560,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694740301353,
+  "endTime": 1694741533728,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2701966,
+      "num": 2701966,
+      "word": "郁美净董事长直播间跳舞",
+      "onboard_time": 1694738615,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2692816,
       "num": 569397,
       "word": "上海胸外科医生回应李佳琦言论",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1693969295,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2214626,
-      "num": 2214626,
-      "word": "郁美净董事长直播间跳舞",
-      "onboard_time": 1694738615,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2211706,
@@ -6843,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739924,
+      "num": 739924,
+      "word": "香港市中心15平的家",
+      "onboard_time": 1694738737,
+      "rank": 8,
+      "category": "其它"
+    },
+    {
       "raw_hot": 739677,
       "num": 739677,
       "word": "张远三年内经历了赔钱生离死别",
@@ -7177,6 +7185,14 @@
       "onboard_time": 1694666505,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 715399,
+      "num": 307909,
+      "word": "狗Pro",
+      "onboard_time": 1694738017,
+      "rank": 20,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 715325,
@@ -8331,14 +8347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 640220,
-      "num": 640220,
-      "word": "香港市中心15平的家",
-      "onboard_time": 1694738737,
-      "rank": 8,
-      "category": "其它"
-    },
-    {
       "raw_hot": 639680,
       "num": 639680,
       "word": "上班下班 上班是为了下班",
@@ -9049,14 +9057,6 @@
       "onboard_time": 1693973197,
       "rank": 15,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 606086,
-      "num": 267397,
-      "word": "狗Pro",
-      "onboard_time": 1694738017,
-      "rank": 20,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 605827,
@@ -10209,6 +10209,14 @@
       "onboard_time": 1694004276,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 548733,
+      "num": 548733,
+      "word": "你准备好抢票了吗",
+      "onboard_time": 1694736335,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548100,
@@ -13419,14 +13427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 435817,
-      "num": 435817,
-      "word": "你准备好抢票了吗",
-      "onboard_time": 1694736335,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435566,
       "num": 435566,
       "word": "张凌赫评论虞书欣",
@@ -14155,6 +14155,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 418302,
+      "num": 418302,
+      "word": "211女硕士遭杀猪盘两周被骗138万",
+      "onboard_time": 1694740954,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418189,
       "num": 418189,
       "word": "Angelababy收到过周杰伦奶茶探班",
@@ -14356,7 +14364,7 @@
     },
     {
       "raw_hot": 412676,
-      "num": 267375,
+      "num": 300616,
       "word": "我妈凑单抢到的迷你版百岁山",
       "onboard_time": 1694738433,
       "rank": 21,
@@ -15691,6 +15699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370536,
+      "num": 370536,
+      "word": "宋紫薇 理想",
+      "onboard_time": 1694738859,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 370118,
       "num": 413447,
       "word": "国企董事长扎小人报复举报人",
@@ -16171,6 +16187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357268,
+      "num": 357268,
+      "word": "四六级",
+      "onboard_time": 1694739336,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 356769,
       "num": 221713,
       "word": "掌掴争执占座大爷的小伙已被找到",
@@ -16225,14 +16249,6 @@
       "onboard_time": 1694395296,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355982,
-      "num": 355982,
-      "word": "宋紫薇 理想",
-      "onboard_time": 1694738859,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 355957,
@@ -17484,7 +17500,7 @@
     },
     {
       "raw_hot": 327010,
-      "num": 266993,
+      "num": 284563,
       "word": "上班族发工资前后的态度",
       "onboard_time": 1694737715,
       "rank": 22,
@@ -17929,6 +17945,14 @@
       "onboard_time": 1694696977,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 320479,
+      "num": 320479,
+      "word": "超9成网友认为北极鲶鱼事件应公布结果",
+      "onboard_time": 1694740954,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320412,
@@ -18481,6 +18505,14 @@
       "onboard_time": 1694523821,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 311776,
+      "num": 311776,
+      "word": "异人之下姐狗",
+      "onboard_time": 1694740535,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 311725,
@@ -20523,6 +20555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276112,
+      "num": 193266,
+      "word": "男童撑伞从26楼跳下后奇迹生还",
+      "onboard_time": 1694741132,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276072,
       "num": 276072,
       "word": "我去过墨脱",
@@ -21121,14 +21161,6 @@
       "onboard_time": 1693670739,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266322,
-      "num": 266322,
-      "word": "四六级",
-      "onboard_time": 1694739336,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 266134,
@@ -24417,6 +24449,14 @@
       "onboard_time": 1693486115,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223643,
+      "num": 223643,
+      "word": "海外观众封神观后感",
+      "onboard_time": 1694739937,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 223596,
@@ -28947,6 +28987,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 187923,
+      "num": 187923,
+      "word": "嘉顿",
+      "onboard_time": 1694737955,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 187890,
       "num": 187890,
       "word": "坚如磐石",
@@ -29699,6 +29747,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 182993,
+      "num": 182993,
+      "word": "小伙为跳好民族舞光呼吸就练了3年",
+      "onboard_time": 1694740776,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182789,
       "num": 182789,
       "word": "热烈票房破9亿",
@@ -30265,14 +30321,6 @@
       "onboard_time": 1693531534,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176370,
-      "num": 176370,
-      "word": "海外观众封神观后感",
-      "onboard_time": 1694739937,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 176351,
@@ -31169,14 +31217,6 @@
       "onboard_time": 1694167290,
       "rank": 37,
       "category": "游戏,音乐"
-    },
-    {
-      "raw_hot": 165483,
-      "num": 165483,
-      "word": "嘉顿",
-      "onboard_time": 1694737955,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 165360,
@@ -32691,6 +32731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147600,
+      "num": 147600,
+      "word": "林雨申赵露思我喜欢你开播三周年",
+      "onboard_time": 1694741372,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147455,
       "num": 147455,
       "word": "00后排队体验养老设施",
@@ -33833,6 +33881,14 @@
       "onboard_time": 1693811134,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130786,
+      "num": 130786,
+      "word": "航天专家称外星人不可能来过地球",
+      "onboard_time": 1694741434,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 130652,
