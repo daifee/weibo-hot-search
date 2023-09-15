@@ -1,0 +1,410 @@
+{
+  "runTime": 1694740301353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2214626,
+        "num": 2214626,
+        "word": "郁美净董事长直播间跳舞",
+        "onboard_time": 1694738615,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1561426,
+        "num": 1561426,
+        "word": "中国人吃了全球91%的榴莲",
+        "onboard_time": 1694732844,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 75269,
+        "num": 1395104,
+        "word": "当亚运遇上民乐太惊艳了",
+        "onboard_time": 1694699920,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 2355008,
+        "num": 1365084,
+        "word": "上官浅故意不穿里衣",
+        "onboard_time": 1694738317,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1261615,
+        "num": 1261615,
+        "word": "花西子事件后老牌国货销量暴涨",
+        "onboard_time": 1694705135,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211221,
+        "num": 1211221,
+        "word": "你看过黄金 就不会被黄铜所迷惑",
+        "onboard_time": 1694736513,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 867323,
+        "num": 867323,
+        "word": "女子翻护栏捡手机坠下40米高瀑布身亡",
+        "onboard_time": 1694734590,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798787,
+        "num": 798787,
+        "word": "北极鲶鱼事件结果是否应公开",
+        "onboard_time": 1694732606,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640220,
+        "num": 640220,
+        "word": "香港市中心15平的家",
+        "onboard_time": 1694738737,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 636116,
+        "num": 636116,
+        "word": "小鬼想请董明珠当演唱会嘉宾",
+        "onboard_time": 1694735311,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 639501,
+        "num": 622042,
+        "word": "这下谁还分得清营业和真情侣",
+        "onboard_time": 1694701722,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478609,
+        "num": 478609,
+        "word": "朱一龙自曝曾犹豫是否接演消失的她",
+        "onboard_time": 1694733628,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469920,
+        "num": 469920,
+        "word": "檀健次 做好一个让自己情绪稳定的人",
+        "onboard_time": 1694737833,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460716,
+        "num": 460716,
+        "word": "外媒曝Lisa拒绝和YG续约",
+        "onboard_time": 1694692596,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435817,
+        "num": 435817,
+        "word": "你准备好抢票了吗",
+        "onboard_time": 1694736335,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420238,
+        "num": 420238,
+        "word": "华为",
+        "onboard_time": 1694707233,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 355982,
+        "num": 355982,
+        "word": "宋紫薇 理想",
+        "onboard_time": 1694738859,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 308448,
+        "num": 308448,
+        "word": "当新来的游客认不出花花",
+        "onboard_time": 1694736033,
+        "rank": 17,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 284667,
+        "num": 284667,
+        "word": "官方回应北极鲶鱼事件调查结果不公开",
+        "onboard_time": 1694695115,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267674,
+        "num": 267674,
+        "word": "杨紫高定",
+        "onboard_time": 1694698897,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 606086,
+        "num": 267397,
+        "word": "狗Pro",
+        "onboard_time": 1694738017,
+        "rank": 20,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 412676,
+        "num": 267375,
+        "word": "我妈凑单抢到的迷你版百岁山",
+        "onboard_time": 1694738433,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327010,
+        "num": 266993,
+        "word": "上班族发工资前后的态度",
+        "onboard_time": 1694737715,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266322,
+        "num": 266322,
+        "word": "四六级",
+        "onboard_time": 1694739336,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256117,
+        "num": 256117,
+        "word": "体质真的会影响思维和性格",
+        "onboard_time": 1694732543,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248259,
+        "num": 248259,
+        "word": "肖战白百何杀青原来是这场戏",
+        "onboard_time": 1694736156,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247554,
+        "num": 247554,
+        "word": "iPhone玄学",
+        "onboard_time": 1694702501,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 242841,
+        "num": 242841,
+        "word": "王一博出道九年作品回顾",
+        "onboard_time": 1694734474,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237787,
+        "num": 237787,
+        "word": "奈雪按销售情况向周杰伦支付IP费",
+        "onboard_time": 1694699859,
+        "rank": 28,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 227207,
+        "num": 227207,
+        "word": "邓超孙俪捐款20万资助100名困难学生",
+        "onboard_time": 1694704239,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662559,
+        "num": 226551,
+        "word": "外卖小哥凌晨冒雨送外卖喊话李佳琦",
+        "onboard_time": 1694702324,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225792,
+        "num": 225792,
+        "word": "如何增加12306候补成功率",
+        "onboard_time": 1694734530,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215410,
+        "num": 215410,
+        "word": "终于学会耳后双C发型了",
+        "onboard_time": 1694696255,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182513,
+        "num": 182513,
+        "word": "高圆圆董洁同框",
+        "onboard_time": 1694736454,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179984,
+        "num": 179984,
+        "word": "看一眼都要胖三斤的意面面包船",
+        "onboard_time": 1694736214,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179369,
+        "num": 179369,
+        "word": "朱一龙张颂文像极了上课的你",
+        "onboard_time": 1694736033,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176370,
+        "num": 176370,
+        "word": "海外观众封神观后感",
+        "onboard_time": 1694739937,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175621,
+        "num": 175621,
+        "word": "中国式闪现教育",
+        "onboard_time": 1694739757,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175197,
+        "num": 175197,
+        "word": "央行降准将释放超5000亿元中长期流动性",
+        "onboard_time": 1694734411,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165483,
+        "num": 165483,
+        "word": "嘉顿",
+        "onboard_time": 1694737955,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161640,
+        "num": 161640,
+        "word": "周华健为粉丝准备两千寸提词器",
+        "onboard_time": 1694734289,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1102299,
+        "num": 161455,
+        "word": "抗日小饼干",
+        "onboard_time": 1694707472,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160710,
+        "num": 160710,
+        "word": "张颂文 我40多岁的时候还在找戏拍",
+        "onboard_time": 1694710944,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153767,
+        "num": 153767,
+        "word": "宝宝自己冲奶粉小手很稳",
+        "onboard_time": 1694733870,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148096,
+        "num": 148096,
+        "word": "此沙晒与高圆圆合照",
+        "onboard_time": 1694737175,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145708,
+        "num": 145708,
+        "word": "八角放大十万倍",
+        "onboard_time": 1694737296,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 145699,
+        "num": 145699,
+        "word": "于适少年赋浴室弹唱版",
+        "onboard_time": 1694703521,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143646,
+        "num": 143646,
+        "word": "野球帝师傅细数不公平遭遇",
+        "onboard_time": 1694736335,
+        "rank": 47,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 141378,
+        "num": 141378,
+        "word": "20岁女孩从未来例假一查竟是男儿身",
+        "onboard_time": 1694697758,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140985,
+        "num": 140985,
+        "word": "养了一只会用猫砂的小狐狸",
+        "onboard_time": 1694735676,
+        "rank": 49,
+        "category": "动物萌宠"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023北京文化论坛致贺信#"
+    }
+  }
+}
