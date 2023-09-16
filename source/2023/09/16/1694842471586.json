@@ -1,0 +1,410 @@
+{
+  "runTime": 1694842471586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1335878,
+        "num": 1335878,
+        "word": "好歹毒的教资作文",
+        "onboard_time": 1694835215,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1008178,
+        "num": 1008178,
+        "word": "徐良淘汰",
+        "onboard_time": 1694841695,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14652,
+        "num": 907856,
+        "word": "这是保护地球的中国式表达",
+        "onboard_time": 1694839354,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851291,
+        "num": 851291,
+        "word": "蜜雪冰城被曝喝出蜘蛛",
+        "onboard_time": 1694839233,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826899,
+        "num": 826899,
+        "word": "白色橄榄树 玖月晞",
+        "onboard_time": 1694839534,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 709568,
+        "num": 709568,
+        "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+        "onboard_time": 1694820266,
+        "rank": 5,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 586431,
+        "num": 586431,
+        "word": "曾舜晞雪重子原片",
+        "onboard_time": 1694839233,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450078,
+        "num": 450078,
+        "word": "失聪50年父亲戴人工耳蜗听声音后哭了",
+        "onboard_time": 1694838873,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437749,
+        "num": 437749,
+        "word": "法考",
+        "onboard_time": 1694826995,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 415948,
+        "num": 415948,
+        "word": "封神质子团综开始录制",
+        "onboard_time": 1694837675,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2343550,
+        "num": 412920,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536882,
+        "num": 405881,
+        "word": "易烊千玺工作室成立六周年vlog",
+        "onboard_time": 1694838994,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294085,
+        "num": 404814,
+        "word": "中医正骨1秒救治瘫痪小猫",
+        "onboard_time": 1694839835,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 219384,
+        "num": 397706,
+        "word": "教官让顺拐同学组成一个方队",
+        "onboard_time": 1694839175,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 171940,
+        "num": 393253,
+        "word": "大熊猫公主融融已去世",
+        "onboard_time": 1694828733,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 768010,
+        "num": 387935,
+        "word": "陈乔恩连续七年晒照悼念乔任梁",
+        "onboard_time": 1694827233,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475795,
+        "num": 381671,
+        "word": "iPhone15没往年那么难抢",
+        "onboard_time": 1694832273,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 378887,
+        "num": 378887,
+        "word": "梁洁宋冉好贴",
+        "onboard_time": 1694839894,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325386,
+        "num": 325386,
+        "word": "广东惠州一学校76名教师开学前遭解聘",
+        "onboard_time": 1694829754,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291458,
+        "num": 291458,
+        "word": "教资",
+        "onboard_time": 1694821229,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 473882,
+        "num": 286677,
+        "word": "跟老公冷战结果越睡越远",
+        "onboard_time": 1694839233,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301772,
+        "num": 285322,
+        "word": "老人疑遭儿媳虐待外孙驱车千里赶回",
+        "onboard_time": 1694839175,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293702,
+        "num": 284587,
+        "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
+        "onboard_time": 1694839652,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281049,
+        "num": 281049,
+        "word": "吴磊一个人就是一档综艺节目",
+        "onboard_time": 1694838691,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266629,
+        "num": 266629,
+        "word": "那么大的于适骑那么小的马",
+        "onboard_time": 1694840915,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261897,
+        "num": 261897,
+        "word": "曾舜晞 心如止水",
+        "onboard_time": 1694820266,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257571,
+        "num": 257571,
+        "word": "女子高铁座位被占换回后遭3人殴打",
+        "onboard_time": 1694841934,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82371,
+        "num": 253088,
+        "word": "当亚运会遇上中国风",
+        "onboard_time": 1694839233,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252727,
+        "num": 252727,
+        "word": "披荆斩棘二公",
+        "onboard_time": 1694841695,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242861,
+        "num": 242861,
+        "word": "首批iPhone15Pro一分钟被抢光",
+        "onboard_time": 1694827834,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 418281,
+        "num": 239042,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226931,
+        "num": 226931,
+        "word": "广州168元早茶自助",
+        "onboard_time": 1694840976,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225027,
+        "num": 225027,
+        "word": "白色橄榄树开机",
+        "onboard_time": 1694833173,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175146,
+        "num": 175146,
+        "word": "郁美净上线7块9套装",
+        "onboard_time": 1694842115,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171226,
+        "num": 171226,
+        "word": "找对象的尽头是高初中同学",
+        "onboard_time": 1694826575,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162797,
+        "num": 162797,
+        "word": "又看到铁三角整活了",
+        "onboard_time": 1694834557,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161447,
+        "num": 161447,
+        "word": "肖战说不要把本人带入角色",
+        "onboard_time": 1694825315,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160760,
+        "num": 160760,
+        "word": "宫远徵第一次喊宫尚角",
+        "onboard_time": 1694830593,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153545,
+        "num": 153545,
+        "word": "教资选择题好难",
+        "onboard_time": 1694837074,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149446,
+        "num": 149446,
+        "word": "蜂花终身认养了一只大熊猫",
+        "onboard_time": 1694820806,
+        "rank": 39,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 141453,
+        "num": 141453,
+        "word": "被朋友家里的厕所惊到了",
+        "onboard_time": 1694833355,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136972,
+        "num": 136972,
+        "word": "英国正式将瓦格纳集团列为恐怖组织",
+        "onboard_time": 1694824772,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 132627,
+        "num": 132627,
+        "word": "这下谁还分得清Somi和芭比",
+        "onboard_time": 1694837553,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131311,
+        "num": 131311,
+        "word": "金靖首次回应金繁倒立梗",
+        "onboard_time": 1694830231,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108563,
+        "num": 131201,
+        "word": "天美要建乐园了",
+        "onboard_time": 1694841637,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131151,
+        "num": 131151,
+        "word": "葡萄干是这样晾的",
+        "onboard_time": 1694838033,
+        "rank": 45,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 130506,
+        "num": 130506,
+        "word": "成毅三界吐血人",
+        "onboard_time": 1694842295,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122540,
+        "num": 130506,
+        "word": "教资答案",
+        "onboard_time": 1694834135,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121377,
+        "num": 130505,
+        "word": "听说很好吃今晚吃家乡菜",
+        "onboard_time": 1694837614,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118633,
+        "num": 130505,
+        "word": "长期对人真诚要先保护好自己",
+        "onboard_time": 1694835877,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中国家群体性崛起已成时代潮流#"
+    }
+  }
+}

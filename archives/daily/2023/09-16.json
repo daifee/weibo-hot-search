@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694841300693,
+  "endTime": 1694842471586,
   "band_list": [
     {
       "raw_hot": 3793498,
@@ -19,6 +19,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2343550,
+      "num": 419593,
+      "word": "乔任梁父母失独后重新生活",
+      "onboard_time": 1694840135,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2082238,
       "num": 846550,
       "word": "郭敬明我恨你",
@@ -33,14 +41,6 @@
       "onboard_time": 1694787159,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1931505,
-      "num": 419593,
-      "word": "乔任梁父母失独后重新生活",
-      "onboard_time": 1694840135,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1912403,
@@ -139,6 +139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1008178,
+      "num": 1008178,
+      "word": "徐良淘汰",
+      "onboard_time": 1694841695,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 969926,
       "num": 969926,
       "word": "教资答案",
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 851291,
+      "num": 851291,
+      "word": "蜜雪冰城被曝喝出蜘蛛",
+      "onboard_time": 1694839233,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850805,
       "num": 143485,
       "word": "苹果官网崩了",
@@ -200,14 +216,6 @@
       "word": "警方通报一女子小区内被伤害身亡",
       "onboard_time": 1694790160,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755959,
-      "num": 319819,
-      "word": "蜜雪冰城被曝喝出蜘蛛",
-      "onboard_time": 1694839233,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1694831793,
       "rank": 7,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 536882,
+      "num": 405881,
+      "word": "易烊千玺工作室成立六周年vlog",
+      "onboard_time": 1694838994,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 535265,
@@ -441,14 +457,6 @@
       "onboard_time": 1694821468,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402201,
-      "num": 402201,
-      "word": "易烊千玺工作室成立六周年vlog",
-      "onboard_time": 1694838994,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 401531,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294085,
+      "num": 411741,
+      "word": "中医正骨1秒救治瘫痪小猫",
+      "onboard_time": 1694839835,
+      "rank": 13,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 284395,
       "num": 284395,
       "word": "男爱豆Smoke Challenge合集",
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266629,
+      "num": 266629,
+      "word": "那么大的于适骑那么小的马",
+      "onboard_time": 1694840915,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266092,
       "num": 266092,
       "word": "乒乓球门票",
@@ -707,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257571,
+      "num": 257571,
+      "word": "女子高铁座位被占换回后遭3人殴打",
+      "onboard_time": 1694841934,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257548,
       "num": 257548,
       "word": "1米89的胡兵此刻1米2",
@@ -720,6 +752,14 @@
       "word": "陆毅演我写简历",
       "onboard_time": 1694823992,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252727,
+      "num": 252727,
+      "word": "披荆斩棘二公",
+      "onboard_time": 1694841695,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -756,7 +796,7 @@
     },
     {
       "raw_hot": 240394,
-      "num": 240394,
+      "num": 397706,
       "word": "教官让顺拐同学组成一个方队",
       "onboard_time": 1694839175,
       "rank": 25,
@@ -779,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237058,
-      "num": 237058,
-      "word": "那么大的于适骑那么小的马",
-      "onboard_time": 1694840915,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "为什么父母辈从不因为工作而内耗",
@@ -801,6 +833,14 @@
       "onboard_time": 1694825852,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226931,
+      "num": 226931,
+      "word": "广州168元早茶自助",
+      "onboard_time": 1694840976,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 225136,
@@ -1011,20 +1051,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177508,
-      "num": 411741,
-      "word": "中医正骨1秒救治瘫痪小猫",
-      "onboard_time": 1694839835,
-      "rank": 13,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 176907,
       "num": 176907,
       "word": "曾舜晞你还有什么车不会骑",
       "onboard_time": 1694832331,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175146,
+      "num": 175146,
+      "word": "郁美净上线7块9套装",
+      "onboard_time": 1694842115,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174230,
@@ -1147,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145734,
-      "num": 145734,
-      "word": "广州168元早茶自助",
-      "onboard_time": 1694840976,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 144491,
       "num": 345386,
       "word": "姚明感慨回忆与易建联初相遇",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1694823092,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130506,
+      "num": 130506,
+      "word": "成毅三界吐血人",
+      "onboard_time": 1694842295,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 130194,
@@ -1307,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108563,
+      "num": 131201,
+      "word": "天美要建乐园了",
+      "onboard_time": 1694841637,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102459,
       "num": 102459,
       "word": "陈牧驰刮奖vlog",
@@ -1339,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82371,
+      "num": 732839,
+      "word": "当亚运会遇上中国风",
+      "onboard_time": 1694839233,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81700,
       "num": 81700,
       "word": "孟子义男人装大片",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1694803876,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56760,
-      "num": 732839,
-      "word": "当亚运会遇上中国风",
-      "onboard_time": 1694839233,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 49612,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1694802017,
       "rank": 49,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 14652,
+      "num": 907856,
+      "word": "这是保护地球的中国式表达",
+      "onboard_time": 1694839354,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
