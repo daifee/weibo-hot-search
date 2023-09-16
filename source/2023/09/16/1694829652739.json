@@ -1,0 +1,410 @@
+{
+  "runTime": 1694829652739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 898230,
+        "num": 898230,
+        "word": "蜂花终身认养了一只大熊猫",
+        "onboard_time": 1694820806,
+        "rank": 0,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 876848,
+        "num": 876848,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40700,
+        "num": 669920,
+        "word": "杭州亚运会宣传片爱之城",
+        "onboard_time": 1694781815,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2082238,
+        "num": 666677,
+        "word": "郭敬明我恨你",
+        "onboard_time": 1694825734,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1208022,
+        "num": 663062,
+        "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+        "onboard_time": 1694820266,
+        "rank": 4,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 653751,
+        "num": 653751,
+        "word": "法考凭什么被称为天下第一考",
+        "onboard_time": 1694825494,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 624467,
+        "num": 624467,
+        "word": "曾舜晞 心如止水",
+        "onboard_time": 1694820266,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556979,
+        "num": 556979,
+        "word": "离婚人数连续三年下降",
+        "onboard_time": 1694790401,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399243,
+        "num": 399243,
+        "word": "肖战说不要把本人带入角色",
+        "onboard_time": 1694825315,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396565,
+        "num": 396565,
+        "word": "77岁大爷发明出久坐屁股不疼坐垫",
+        "onboard_time": 1694828072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593711,
+        "num": 396424,
+        "word": "陈乔恩连续七年晒照悼念乔任梁",
+        "onboard_time": 1694827233,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531033,
+        "num": 396278,
+        "word": "1元秒杀788元套餐到店被赶走",
+        "onboard_time": 1694828314,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 382608,
+        "num": 396091,
+        "word": "英国正式将瓦格纳集团列为恐怖组织",
+        "onboard_time": 1694824772,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 292427,
+        "num": 395834,
+        "word": "大熊猫公主融融已去世",
+        "onboard_time": 1694828733,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 256463,
+        "num": 395641,
+        "word": "过敏是因为免疫力差吗",
+        "onboard_time": 1694822310,
+        "rank": 14,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 395501,
+        "num": 395501,
+        "word": "黄奕上错花轿嫁对郎未曝光剧照",
+        "onboard_time": 1694822732,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505620,
+        "num": 394076,
+        "word": "李子柒露面",
+        "onboard_time": 1694783315,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 389543,
+        "num": 389543,
+        "word": "乔任梁去世七周年",
+        "onboard_time": 1694827652,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320089,
+        "num": 320089,
+        "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+        "onboard_time": 1694822249,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314002,
+        "num": 314002,
+        "word": "喊话李佳琦的医生称希望提高医生收入",
+        "onboard_time": 1694783976,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 861477,
+        "num": 306403,
+        "word": "首批iPhone15Pro一分钟被抢光",
+        "onboard_time": 1694827834,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 503099,
+        "num": 297423,
+        "word": "找对象的尽头是高初中同学",
+        "onboard_time": 1694826575,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412950,
+        "num": 277448,
+        "word": "国内出现女性猴痘感染者",
+        "onboard_time": 1694828912,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328799,
+        "num": 272112,
+        "word": "6点半下班和9点半下班的区别",
+        "onboard_time": 1694827532,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259944,
+        "num": 259944,
+        "word": "美国一球赛现逼真机器人吓坏球迷",
+        "onboard_time": 1694825133,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250049,
+        "num": 250049,
+        "word": "曾舜晞多愁公子再现江湖",
+        "onboard_time": 1694822971,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234238,
+        "num": 234238,
+        "word": "医院院长自曝受贿买8车7房",
+        "onboard_time": 1694821468,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233050,
+        "num": 233050,
+        "word": "王嘉尔舞台已经是nextlevel",
+        "onboard_time": 1694827594,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220499,
+        "num": 220499,
+        "word": "内地音乐性最强的音综都有哪些",
+        "onboard_time": 1694828615,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215222,
+        "num": 215222,
+        "word": "迪丽热巴赵又廷再同框",
+        "onboard_time": 1694821588,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246269,
+        "num": 210092,
+        "word": "蔡少芬贾静雯 相爱相杀好姐妹",
+        "onboard_time": 1694827713,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234155,
+        "num": 207840,
+        "word": "警方通报网传大连核辐射值超预期虚假信息",
+        "onboard_time": 1694829093,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201391,
+        "num": 201391,
+        "word": "男子50岁得子起名后录不进系统",
+        "onboard_time": 1694829211,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194362,
+        "num": 194362,
+        "word": "山东地名兖州怎么读",
+        "onboard_time": 1694828013,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193180,
+        "num": 193180,
+        "word": "五月天隔空祝福蔡依林",
+        "onboard_time": 1694825852,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191415,
+        "num": 191415,
+        "word": "现在的猫罐越做越离谱了",
+        "onboard_time": 1694828615,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 190124,
+        "num": 190124,
+        "word": "路人拍的王珞丹",
+        "onboard_time": 1694824954,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189588,
+        "num": 189588,
+        "word": "7岁女童骑车从路口窜出不幸被撞身亡",
+        "onboard_time": 1694821708,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 178157,
+        "num": 178157,
+        "word": "大爷接诈骗电话因声音太大被及时制止",
+        "onboard_time": 1694822371,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170291,
+        "num": 170291,
+        "word": "警方通报一女子小区内被伤害身亡",
+        "onboard_time": 1694790160,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162122,
+        "num": 162122,
+        "word": "比利时要求苹果在欧盟各国更新iPhone12软件",
+        "onboard_time": 1694824594,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160209,
+        "num": 160209,
+        "word": "陆毅演我写简历",
+        "onboard_time": 1694823992,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157341,
+        "num": 157341,
+        "word": "原神",
+        "onboard_time": 1694828372,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150406,
+        "num": 150406,
+        "word": "李在明绝食第16天健康已非常危险",
+        "onboard_time": 1694790759,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147277,
+        "num": 147277,
+        "word": "女生称因爱抠鼻子致鼻内长10多团真菌",
+        "onboard_time": 1694785658,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136705,
+        "num": 136705,
+        "word": "角宫的杜鹃花开了",
+        "onboard_time": 1694823452,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134481,
+        "num": 134481,
+        "word": "余华 我怎会写得那么好",
+        "onboard_time": 1694789020,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132595,
+        "num": 132595,
+        "word": "听到呼喊40多位好心人冲来抬车救人",
+        "onboard_time": 1694829395,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 127959,
+        "num": 127959,
+        "word": "吴昕说恋爱没百分百确定别骚扰家长",
+        "onboard_time": 1694819363,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117044,
+        "num": 117044,
+        "word": "文咏珊被正式确诊为文勇扇",
+        "onboard_time": 1694776413,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平主席这场会晤感受中委铁杆情谊#"
+    }
+  }
+}
