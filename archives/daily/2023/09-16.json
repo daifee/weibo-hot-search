@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694831638709,
+  "endTime": 1694834201939,
   "band_list": [
     {
       "raw_hot": 2082238,
@@ -17,6 +17,14 @@
       "onboard_time": 1694787159,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1912403,
+      "num": 920315,
+      "word": "国内出现女性猴痘感染者",
+      "onboard_time": 1694828912,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1800396,
@@ -41,6 +49,14 @@
       "onboard_time": 1694783315,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1717165,
+      "num": 1717165,
+      "word": "教资",
+      "onboard_time": 1694821229,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 1669865,
@@ -83,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1149550,
+      "num": 466768,
+      "word": "郭敬明到底忽悠了多少人",
+      "onboard_time": 1694830534,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1058706,
+      "num": 1058706,
+      "word": "教资作文",
+      "onboard_time": 1694823394,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1018269,
       "num": 339914,
       "word": "首批iPhone15Pro一分钟被抢光",
@@ -97,6 +129,14 @@
       "onboard_time": 1694788061,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 909977,
+      "num": 435416,
+      "word": "iPhone15没往年那么难抢",
+      "onboard_time": 1694832273,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 850805,
@@ -155,11 +195,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 605343,
-      "num": 466768,
-      "word": "郭敬明到底忽悠了多少人",
-      "onboard_time": 1694830534,
-      "rank": 36,
+      "raw_hot": 610940,
+      "num": 610940,
+      "word": "白色橄榄树开机",
+      "onboard_time": 1694833173,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -187,20 +227,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 584637,
-      "num": 584637,
-      "word": "国内出现女性猴痘感染者",
-      "onboard_time": 1694828912,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 582448,
       "num": 582448,
       "word": "黄奕上错花轿嫁对郎未曝光剧照",
       "onboard_time": 1694822732,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 577843,
+      "num": 577843,
+      "word": "空腹看吃播容易得胃炎",
+      "onboard_time": 1694831793,
+      "rank": 7,
+      "category": "知识科普"
     },
     {
       "raw_hot": 518970,
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 474558,
-      "num": 229016,
+      "num": 251672,
       "word": "金靖首次回应金繁倒立梗",
       "onboard_time": 1694830231,
       "rank": 30,
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379730,
+      "num": 379730,
+      "word": "广东惠州一学校76名教师开学前遭解聘",
+      "onboard_time": 1694829754,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378913,
       "num": 378913,
       "word": "吴昕说恋爱没百分百确定别骚扰家长",
@@ -339,16 +387,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356013,
-      "num": 337944,
-      "word": "广东惠州一学校76名教师开学前遭解聘",
-      "onboard_time": 1694829754,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351505,
-      "num": 351505,
+      "raw_hot": 351984,
+      "num": 351984,
       "word": "宫远徵第一次喊宫尚角",
       "onboard_time": 1694830593,
       "rank": 38,
@@ -387,12 +427,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327898,
+      "num": 222073,
+      "word": "化妆前刮脸",
+      "onboard_time": 1694832992,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 324289,
       "num": 324289,
       "word": "高铁化妆 美妆博主反击",
       "onboard_time": 1694778693,
       "rank": 16,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 321443,
+      "num": 221623,
+      "word": "被朋友家里的厕所惊到了",
+      "onboard_time": 1694833355,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 310428,
@@ -443,12 +499,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282305,
+      "num": 269301,
+      "word": "赵今麦新剧开播换头像",
+      "onboard_time": 1694832154,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279061,
+      "num": 279061,
+      "word": "沈梦辰中餐厅自费买菜第一人",
+      "onboard_time": 1694831974,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266889,
       "num": 266889,
       "word": "沈梦辰跟贾静雯打招呼紧张到结巴",
       "onboard_time": 1694787999,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266073,
+      "num": 266073,
+      "word": "SEVENTEEN毒发行四周年",
+      "onboard_time": 1694833533,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 258156,
@@ -531,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225136,
+      "num": 220070,
+      "word": "租房时带不走的东西不要买",
+      "onboard_time": 1694832273,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222131,
       "num": 222131,
       "word": "黄景瑜张婧仪新剧的cp感",
@@ -577,6 +665,14 @@
       "onboard_time": 1694783797,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204049,
+      "num": 204049,
+      "word": "你们宫门真给我看乐了",
+      "onboard_time": 1694833234,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 202303,
@@ -683,6 +779,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177688,
+      "num": 177688,
+      "word": "云为衫炫耀宫子羽的爱",
+      "onboard_time": 1694832454,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176907,
+      "num": 176907,
+      "word": "曾舜晞你还有什么车不会骑",
+      "onboard_time": 1694832331,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171506,
+      "num": 171506,
+      "word": "乒乓球门票",
+      "onboard_time": 1694834074,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168324,
+      "num": 168324,
+      "word": "教资答案",
+      "onboard_time": 1694834135,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167115,
       "num": 167115,
       "word": "大熊猫渝爱展示长腿翻车",
@@ -723,14 +851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155918,
-      "num": 155918,
-      "word": "教资",
-      "onboard_time": 1694821229,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 154344,
       "num": 154344,
       "word": "成语一鸣惊人说的是谁",
@@ -761,14 +881,6 @@
       "onboard_time": 1694786024,
       "rank": 36,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 153008,
-      "num": 153008,
-      "word": "教资作文",
-      "onboard_time": 1694823394,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 149994,
@@ -872,6 +984,14 @@
       "word": "小猫脊柱错位中医学生咔吧一声接回",
       "onboard_time": 1694823092,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130194,
+      "num": 276820,
+      "word": "你不知道的家居工业4.0",
+      "onboard_time": 1694832934,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694831638709,
+  "endTime": 1694834201939,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1819,6 +1819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1912403,
+      "num": 920315,
+      "word": "国内出现女性猴痘感染者",
+      "onboard_time": 1694828912,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1911707,
       "num": 1911707,
       "word": "警方称地铁判官精神有问题",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1694408147,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1717165,
+      "num": 1717165,
+      "word": "教资",
+      "onboard_time": 1694821229,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 1716894,
@@ -4059,6 +4075,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1149550,
+      "num": 466768,
+      "word": "郭敬明到底忽悠了多少人",
+      "onboard_time": 1694830534,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1148074,
       "num": 1148074,
       "word": "中国铁饭碗排行榜",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1694139756,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058706,
+      "num": 1058706,
+      "word": "教资作文",
+      "onboard_time": 1694823394,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 1056499,
@@ -5577,6 +5609,14 @@
       "onboard_time": 1694524062,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909977,
+      "num": 435416,
+      "word": "iPhone15没往年那么难抢",
+      "onboard_time": 1694832273,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 908988,
@@ -9571,6 +9611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610940,
+      "num": 610940,
+      "word": "白色橄榄树开机",
+      "onboard_time": 1694833173,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610827,
       "num": 610827,
       "word": "朱一龙再次提名金鹿奖最佳男演员",
@@ -9729,14 +9777,6 @@
       "onboard_time": 1694591915,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605343,
-      "num": 466768,
-      "word": "郭敬明到底忽悠了多少人",
-      "onboard_time": 1694830534,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 605251,
@@ -10099,14 +10139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 584637,
-      "num": 584637,
-      "word": "国内出现女性猴痘感染者",
-      "onboard_time": 1694828912,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 584505,
       "num": 584505,
       "word": "PPT发明者去世",
@@ -10257,6 +10289,14 @@
       "onboard_time": 1693819895,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 577843,
+      "num": 577843,
+      "word": "空腹看吃播容易得胃炎",
+      "onboard_time": 1694831793,
+      "rank": 7,
+      "category": "知识科普"
     },
     {
       "raw_hot": 577633,
@@ -13164,7 +13204,7 @@
     },
     {
       "raw_hot": 474558,
-      "num": 229016,
+      "num": 251672,
       "word": "金靖首次回应金繁倒立梗",
       "onboard_time": 1694830231,
       "rank": 30,
@@ -16523,6 +16563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379730,
+      "num": 379730,
+      "word": "广东惠州一学校76名教师开学前遭解聘",
+      "onboard_time": 1694829754,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379656,
       "num": 379656,
       "word": "报告殷寿 你儿子上课在开小差偷笑",
@@ -17507,14 +17555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356013,
-      "num": 337944,
-      "word": "广东惠州一学校76名教师开学前遭解聘",
-      "onboard_time": 1694829754,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355957,
       "num": 355957,
       "word": "虞书欣命运的齿轮开始转动",
@@ -17715,6 +17755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351984,
+      "num": 351984,
+      "word": "宫远徵第一次喊宫尚角",
+      "onboard_time": 1694830593,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351913,
       "num": 351913,
       "word": "瑞幸点单系统疑似卡崩",
@@ -17729,14 +17777,6 @@
       "onboard_time": 1694308413,
       "rank": 49,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 351505,
-      "num": 351505,
-      "word": "宫远徵第一次喊宫尚角",
-      "onboard_time": 1694830593,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 351237,
@@ -18771,6 +18811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 327898,
+      "num": 222073,
+      "word": "化妆前刮脸",
+      "onboard_time": 1694832992,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 327840,
       "num": 327840,
       "word": "一路朝阳oe",
@@ -19225,6 +19273,14 @@
       "onboard_time": 1694043990,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321443,
+      "num": 221623,
+      "word": "被朋友家里的厕所惊到了",
+      "onboard_time": 1694833355,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 321379,
@@ -21787,6 +21843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282305,
+      "num": 269301,
+      "word": "赵今麦新剧开播换头像",
+      "onboard_time": 1694832154,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282125,
       "num": 282125,
       "word": "原来七窍流血是侯明昊自己提的",
@@ -21929,6 +21993,14 @@
       "onboard_time": 1693645412,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279061,
+      "num": 279061,
+      "word": "沈梦辰中餐厅自费买菜第一人",
+      "onboard_time": 1694831974,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 278897,
@@ -22793,6 +22865,14 @@
       "onboard_time": 1693657897,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266073,
+      "num": 266073,
+      "word": "SEVENTEEN毒发行四周年",
+      "onboard_time": 1694833533,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 266005,
@@ -26139,6 +26219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225136,
+      "num": 220070,
+      "word": "租房时带不走的东西不要买",
+      "onboard_time": 1694832273,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225112,
       "num": 225112,
       "word": "华为MateX5发售1秒卖光",
@@ -28553,6 +28641,14 @@
       "onboard_time": 1693632034,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204049,
+      "num": 204049,
+      "word": "你们宫门真给我看乐了",
+      "onboard_time": 1694833234,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204048,
@@ -32539,6 +32635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177688,
+      "num": 177688,
+      "word": "云为衫炫耀宫子羽的爱",
+      "onboard_time": 1694832454,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177620,
       "num": 177620,
       "word": "汪苏泷想躺着开演唱会",
@@ -32601,6 +32705,14 @@
       "onboard_time": 1693646134,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176907,
+      "num": 176907,
+      "word": "曾舜晞你还有什么车不会骑",
+      "onboard_time": 1694832331,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176882,
@@ -33123,6 +33235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171506,
+      "num": 171506,
+      "word": "乒乓球门票",
+      "onboard_time": 1694834074,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171488,
       "num": 171488,
       "word": "武汉动物园 抢票",
@@ -33417,6 +33537,14 @@
       "onboard_time": 1694330372,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168324,
+      "num": 168324,
+      "word": "教资答案",
+      "onboard_time": 1694834135,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 168301,
@@ -34635,14 +34763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155918,
-      "num": 155918,
-      "word": "教资",
-      "onboard_time": 1694821229,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 155917,
       "num": 155917,
       "word": "国产带状疱疹疫苗来西安了",
@@ -34889,14 +35009,6 @@
       "onboard_time": 1693816717,
       "rank": 47,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 153008,
-      "num": 153008,
-      "word": "教资作文",
-      "onboard_time": 1694823394,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 152906,
@@ -36584,6 +36696,14 @@
       "word": "200秒与大家共赏美丽杭州",
       "onboard_time": 1694574516,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130194,
+      "num": 276820,
+      "word": "你不知道的家居工业4.0",
+      "onboard_time": 1694832934,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
