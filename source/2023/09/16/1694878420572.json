@@ -1,0 +1,410 @@
+{
+  "runTime": 1694878420572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1420498,
+        "num": 1420498,
+        "word": "郑恺亲吻鼓励苗苗",
+        "onboard_time": 1694876380,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1045882,
+        "num": 1045882,
+        "word": "断崖式的衰老是在几岁",
+        "onboard_time": 1694867076,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20009,
+        "num": 950811,
+        "word": "大国技能群英荟",
+        "onboard_time": 1694857237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1874350,
+        "num": 939546,
+        "word": "知情人称母子坠楼案2孩子是被扔下楼",
+        "onboard_time": 1694874942,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913976,
+        "num": 913976,
+        "word": "才知道蜜雪冰城曾经是个餐馆",
+        "onboard_time": 1694873620,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 877445,
+        "num": 877445,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 692810,
+        "num": 692810,
+        "word": "女孩乘电梯多次被陌生女子取消楼层",
+        "onboard_time": 1694872479,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690340,
+        "num": 690340,
+        "word": "LVMH高层现身刘雨昕上海演唱会",
+        "onboard_time": 1694872419,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550817,
+        "num": 550817,
+        "word": "莲花楼直播",
+        "onboard_time": 1694865758,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534055,
+        "num": 534055,
+        "word": "考研女生未吃早饭晕倒众人扶起送零食",
+        "onboard_time": 1694876439,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626971,
+        "num": 533171,
+        "word": "袁冰妍偷逃税罚款超430万",
+        "onboard_time": 1694868337,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 606471,
+        "num": 533021,
+        "word": "男子讨要彩礼未果将女方砍伤致死",
+        "onboard_time": 1694874820,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532220,
+        "num": 532220,
+        "word": "帕梅拉 我健身这十年",
+        "onboard_time": 1694871457,
+        "rank": 12,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 208865,
+        "num": 485022,
+        "word": "人民网评袁某某偷逃税是洗不白的",
+        "onboard_time": 1694859879,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 122273,
+        "num": 483423,
+        "word": "酒店人员邀请环卫工们进屋避雨",
+        "onboard_time": 1694858204,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 482688,
+        "num": 482688,
+        "word": "李荣浩已有十年模特经验",
+        "onboard_time": 1694873434,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 463930,
+        "num": 463930,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414246,
+        "num": 414246,
+        "word": "电视剧斗罗大陆2杀青",
+        "onboard_time": 1694873978,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409048,
+        "num": 409048,
+        "word": "曾舜晞queencard 方多病拦出租车",
+        "onboard_time": 1694869603,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390805,
+        "num": 390805,
+        "word": "马立奥特种兵暴雨游长隆",
+        "onboard_time": 1694875179,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414481,
+        "num": 388102,
+        "word": "不要经常用手挖鼻孔",
+        "onboard_time": 1694874163,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410518,
+        "num": 387627,
+        "word": "原来工资日薪是这样算的",
+        "onboard_time": 1694871578,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 362452,
+        "num": 362452,
+        "word": "原来性骚扰如此简单",
+        "onboard_time": 1694874942,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355035,
+        "num": 355035,
+        "word": "陈都灵舞台",
+        "onboard_time": 1694867915,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354033,
+        "num": 354033,
+        "word": "汪苏泷感受到了伍佰的快乐",
+        "onboard_time": 1694870738,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322411,
+        "num": 322411,
+        "word": "如何评价徐良被淘汰",
+        "onboard_time": 1694876078,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321001,
+        "num": 321001,
+        "word": "白猫直播间的主播是一只白猫",
+        "onboard_time": 1694873080,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291515,
+        "num": 291515,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280271,
+        "num": 280271,
+        "word": "洗完衣服把洗衣机都洗吐了",
+        "onboard_time": 1694874099,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270841,
+        "num": 270841,
+        "word": "12306车票候补的正确方法",
+        "onboard_time": 1694877635,
+        "rank": 29,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 936892,
+        "num": 269760,
+        "word": "李佳琦吹羽毛二创视频",
+        "onboard_time": 1694861318,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 259785,
+        "num": 259785,
+        "word": "刘惜君首唱的新歌是薛之谦写的",
+        "onboard_time": 1694873917,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237408,
+        "num": 237408,
+        "word": "华晨宇回应开巡演能否回本",
+        "onboard_time": 1694877578,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234467,
+        "num": 234467,
+        "word": "蔡依林玻璃蝴蝶套装",
+        "onboard_time": 1694875958,
+        "rank": 33,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 225263,
+        "num": 225263,
+        "word": "日媒曝羽生结弦老婆身份",
+        "onboard_time": 1694854237,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192611,
+        "num": 192611,
+        "word": "爱发电崩了",
+        "onboard_time": 1694877398,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188003,
+        "num": 188003,
+        "word": "云之羽隐藏结局",
+        "onboard_time": 1694858801,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183783,
+        "num": 183783,
+        "word": "恒大财富多人被采取刑事强制措施",
+        "onboard_time": 1694873017,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175458,
+        "num": 175458,
+        "word": "成毅曾舜晞肖顺尧彩排舞台",
+        "onboard_time": 1694855806,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171493,
+        "num": 171493,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 39,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 159002,
+        "num": 159002,
+        "word": "杭州限行你准备乘地铁吗",
+        "onboard_time": 1694877160,
+        "rank": 40,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 158501,
+        "num": 158501,
+        "word": "四个动作瘦肚子",
+        "onboard_time": 1694874636,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144682,
+        "num": 144682,
+        "word": "酒店41对新人结婚海报一眼望不到头",
+        "onboard_time": 1694868216,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161290,
+        "num": 143203,
+        "word": "成毅唱转弯",
+        "onboard_time": 1694875898,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141179,
+        "num": 141179,
+        "word": "尝试戒掉咖啡的韩国人",
+        "onboard_time": 1694868337,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140474,
+        "num": 140474,
+        "word": "品冠含泪退出唱跳圈",
+        "onboard_time": 1694873260,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139363,
+        "num": 139363,
+        "word": "吴青峰 谢谢你们的温柔",
+        "onboard_time": 1694870919,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133661,
+        "num": 133661,
+        "word": "BLACKPINK首尔安可",
+        "onboard_time": 1694861256,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132387,
+        "num": 132387,
+        "word": "曼联vs布莱顿",
+        "onboard_time": 1694874877,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128795,
+        "num": 128795,
+        "word": "看完装腔启示录的感悟",
+        "onboard_time": 1694875779,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中国家群体性崛起已成时代潮流#"
+    }
+  }
+}

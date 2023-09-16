@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694877337300,
+  "endTime": 1694878420572,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1027,6 +1027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1874350,
+      "num": 1088434,
+      "word": "知情人称母子坠楼案2孩子是被扔下楼",
+      "onboard_time": 1694874942,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1858444,
       "num": 1757191,
       "word": "NARS",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1694490340,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1804226,
-      "num": 1088434,
-      "word": "知情人称母子坠楼案2孩子是被扔下楼",
-      "onboard_time": 1694874942,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1804030,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1694612744,
       "rank": 4,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 1420498,
+      "num": 1420498,
+      "word": "郑恺亲吻鼓励苗苗",
+      "onboard_time": 1694876380,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1419507,
@@ -2241,14 +2249,6 @@
       "onboard_time": 1694518957,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1085256,
-      "num": 1085256,
-      "word": "郑恺亲吻鼓励苗苗",
-      "onboard_time": 1694876380,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1078043,
@@ -3827,6 +3827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690340,
+      "num": 690340,
+      "word": "LVMH高层现身刘雨昕上海演唱会",
+      "onboard_time": 1694872419,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 688625,
       "num": 450166,
       "word": "国航CA403有乘客因携带行李撤离摔倒",
@@ -4171,14 +4179,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 633185,
-      "num": 633185,
-      "word": "LVMH高层现身刘雨昕上海演唱会",
-      "onboard_time": 1694872419,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 632932,
       "num": 517335,
       "word": "kep1er江崎光睡了快两年沙发",
@@ -4441,6 +4441,14 @@
       "onboard_time": 1694862999,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606471,
+      "num": 533021,
+      "word": "男子讨要彩礼未果将女方砍伤致死",
+      "onboard_time": 1694874820,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605827,
@@ -5121,6 +5129,14 @@
       "onboard_time": 1694786320,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534055,
+      "num": 534055,
+      "word": "考研女生未吃早饭晕倒众人扶起送零食",
+      "onboard_time": 1694876439,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532607,
@@ -6153,14 +6169,6 @@
       "onboard_time": 1694849435,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 457256,
-      "num": 457256,
-      "word": "男子讨要彩礼未果将女方砍伤致死",
-      "onboard_time": 1694874820,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457176,
@@ -8619,6 +8627,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 322411,
+      "num": 322411,
+      "word": "如何评价徐良被淘汰",
+      "onboard_time": 1694876078,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321961,
       "num": 318440,
       "word": "经常会因为第二天有事睡不着",
@@ -10115,14 +10131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277495,
-      "num": 277495,
-      "word": "如何评价徐良被淘汰",
-      "onboard_time": 1694876078,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276072,
       "num": 276072,
       "word": "我去过墨脱",
@@ -10265,6 +10273,14 @@
       "onboard_time": 1694758594,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270841,
+      "num": 270841,
+      "word": "12306车票候补的正确方法",
+      "onboard_time": 1694877635,
+      "rank": 29,
+      "category": "知识科普"
     },
     {
       "raw_hot": 270456,
@@ -11475,6 +11491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237408,
+      "num": 237408,
+      "word": "华晨宇回应开巡演能否回本",
+      "onboard_time": 1694877578,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237255,
       "num": 237255,
       "word": "石家庄找到自己市歌了",
@@ -12353,14 +12377,6 @@
       "onboard_time": 1694389232,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217846,
-      "num": 217846,
-      "word": "考研女生未吃早饭晕倒众人扶起送零食",
-      "onboard_time": 1694876439,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217834,
@@ -14105,6 +14121,14 @@
       "onboard_time": 1694437250,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192611,
+      "num": 192611,
+      "word": "爱发电崩了",
+      "onboard_time": 1694877398,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 192596,
@@ -16075,6 +16099,14 @@
       "category": "社会议题,美妆"
     },
     {
+      "raw_hot": 159002,
+      "num": 159002,
+      "word": "杭州限行你准备乘地铁吗",
+      "onboard_time": 1694877160,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 158931,
       "num": 254270,
       "word": "阿里新CEO确立用户和AI两大战略重心",
@@ -16603,14 +16635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145434,
-      "num": 145434,
-      "word": "杭州限行你准备乘地铁吗",
-      "onboard_time": 1694877160,
-      "rank": 48,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 145026,
       "num": 115779,
       "word": "雨落在地上变成了蝴蝶",
@@ -17017,6 +17041,14 @@
       "onboard_time": 1694481937,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 132387,
+      "num": 132387,
+      "word": "曼联vs布莱顿",
+      "onboard_time": 1694874877,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131940,

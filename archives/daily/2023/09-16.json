@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694877337300,
+  "endTime": 1694878420572,
   "band_list": [
     {
       "raw_hot": 10136248,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1874350,
+      "num": 1088434,
+      "word": "知情人称母子坠楼案2孩子是被扔下楼",
+      "onboard_time": 1694874942,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1854160,
       "num": 1075959,
       "word": "生理期去高原一滴都无",
@@ -105,14 +113,6 @@
       "onboard_time": 1694860177,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1804226,
-      "num": 1088434,
-      "word": "知情人称母子坠楼案2孩子是被扔下楼",
-      "onboard_time": 1694874942,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1800396,
@@ -193,6 +193,14 @@
       "onboard_time": 1694848474,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1420498,
+      "num": 1420498,
+      "word": "郑恺亲吻鼓励苗苗",
+      "onboard_time": 1694876380,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1411921,
@@ -289,14 +297,6 @@
       "onboard_time": 1694841934,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1085256,
-      "num": 1085256,
-      "word": "郑恺亲吻鼓励苗苗",
-      "onboard_time": 1694876380,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1018269,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690340,
+      "num": 690340,
+      "word": "LVMH高层现身刘雨昕上海演唱会",
+      "onboard_time": 1694872419,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 680591,
       "num": 638079,
       "word": "李荣浩已有十年模特经验",
@@ -595,14 +603,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 633185,
-      "num": 633185,
-      "word": "LVMH高层现身刘雨昕上海演唱会",
-      "onboard_time": 1694872419,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 620073,
       "num": 620073,
       "word": "云之羽隐藏结局",
@@ -633,6 +633,14 @@
       "onboard_time": 1694862999,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606471,
+      "num": 533021,
+      "word": "男子讨要彩礼未果将女方砍伤致死",
+      "onboard_time": 1694874820,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605166,
@@ -755,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 534055,
+      "num": 534055,
+      "word": "考研女生未吃早饭晕倒众人扶起送零食",
+      "onboard_time": 1694876439,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521829,
       "num": 521829,
       "word": "教资科一",
@@ -865,14 +881,6 @@
       "onboard_time": 1694849435,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 457256,
-      "num": 457256,
-      "word": "男子讨要彩礼未果将女方砍伤致死",
-      "onboard_time": 1694874820,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453710,
@@ -1259,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322411,
+      "num": 322411,
+      "word": "如何评价徐良被淘汰",
+      "onboard_time": 1694876078,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319586,
       "num": 319586,
       "word": "恒大财富多人被采取刑事强制措施",
@@ -1491,14 +1507,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 277495,
-      "num": 277495,
-      "word": "如何评价徐良被淘汰",
-      "onboard_time": 1694876078,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 274940,
       "num": 274940,
       "word": "肖战白百何片场抱饮抱食",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1694865037,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270841,
+      "num": 270841,
+      "word": "12306车票候补的正确方法",
+      "onboard_time": 1694877635,
+      "rank": 29,
+      "category": "知识科普"
     },
     {
       "raw_hot": 270024,
@@ -1699,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237408,
+      "num": 237408,
+      "word": "华晨宇回应开巡演能否回本",
+      "onboard_time": 1694877578,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "为什么父母辈从不因为工作而内耗",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1694850094,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217846,
-      "num": 217846,
-      "word": "考研女生未吃早饭晕倒众人扶起送零食",
-      "onboard_time": 1694876439,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216984,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1694851117,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192611,
+      "num": 192611,
+      "word": "爱发电崩了",
+      "onboard_time": 1694877398,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 192245,
@@ -2355,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159002,
+      "num": 159002,
+      "word": "杭州限行你准备乘地铁吗",
+      "onboard_time": 1694877160,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 158118,
       "num": 158118,
       "word": "西汉姆联vs曼城",
@@ -2515,14 +2547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145434,
-      "num": 145434,
-      "word": "杭州限行你准备乘地铁吗",
-      "onboard_time": 1694877160,
-      "rank": 48,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 144491,
       "num": 345386,
       "word": "姚明感慨回忆与易建联初相遇",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1694829395,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 132387,
+      "num": 132387,
+      "word": "曼联vs布莱顿",
+      "onboard_time": 1694874877,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132214,
