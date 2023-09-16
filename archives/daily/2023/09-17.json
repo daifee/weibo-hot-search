@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694892829204,
+  "endTime": 1694895370544,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -491,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21099,
+      "raw_hot": 24176,
       "num": 37528,
       "word": "养狗人的大型社死现场",
       "onboard_time": 1694890335,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 20756,
+      "num": 22691,
+      "word": "当理解了女儿她就不再是孤军奋战",
+      "onboard_time": 1694894894,
+      "rank": 42,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 14470,

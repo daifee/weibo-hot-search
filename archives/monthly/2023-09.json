@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694892829204,
+  "endTime": 1694895370544,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -42323,6 +42323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24176,
+      "num": 37528,
+      "word": "养狗人的大型社死现场",
+      "onboard_time": 1694890335,
+      "rank": 48,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 24147,
       "num": 40420,
       "word": "格鲁吉亚1比7西班牙",
@@ -42459,20 +42467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 21099,
-      "num": 37528,
-      "word": "养狗人的大型社死现场",
-      "onboard_time": 1694890335,
-      "rank": 48,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 20803,
       "num": 29294,
       "word": "孙晨竣金繁片场日记",
       "onboard_time": 1694027416,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 20756,
+      "num": 22691,
+      "word": "当理解了女儿她就不再是孤军奋战",
+      "onboard_time": 1694894894,
+      "rank": 42,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 20553,
