@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694895370544,
+  "endTime": 1694896442439,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27893,
+      "num": 27893,
+      "word": "当理解了女儿她就不再是孤军奋战",
+      "onboard_time": 1694894894,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 27465,
       "num": 38593,
       "word": "边牧赶羊的时候真的好帅",
@@ -497,14 +505,6 @@
       "onboard_time": 1694890335,
       "rank": 48,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 20756,
-      "num": 22691,
-      "word": "当理解了女儿她就不再是孤军奋战",
-      "onboard_time": 1694894894,
-      "rank": 42,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 14470,
