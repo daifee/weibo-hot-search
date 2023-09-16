@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694871223570,
+  "endTime": 1694873614184,
   "band_list": [
     {
       "raw_hot": 10136248,
@@ -57,6 +57,14 @@
       "onboard_time": 1694840135,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2199548,
+      "num": 2199548,
+      "word": "断崖式的衰老是在几岁",
+      "onboard_time": 1694867076,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 2082238,
@@ -244,19 +252,11 @@
     },
     {
       "raw_hot": 1219289,
-      "num": 533468,
+      "num": 542838,
       "word": "袁冰妍偷逃税罚款超430万",
       "onboard_time": 1694868337,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1197206,
-      "num": 1197206,
-      "word": "断崖式的衰老是在几岁",
-      "onboard_time": 1694867076,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 1149550,
@@ -321,6 +321,14 @@
       "onboard_time": 1694863897,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 867067,
+      "num": 867067,
+      "word": "帕梅拉 我健身这十年",
+      "onboard_time": 1694871457,
+      "rank": 4,
+      "category": "运动健身,网红"
     },
     {
       "raw_hot": 850805,
@@ -443,6 +451,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 708086,
+      "num": 708086,
+      "word": "汪苏泷感受到了伍佰的快乐",
+      "onboard_time": 1694870738,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 702562,
       "num": 702562,
       "word": "BLACKPINK首尔安可",
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669206,
+      "num": 669206,
+      "word": "成毅严艺丹合唱人世太匆忙",
+      "onboard_time": 1694872781,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 663519,
       "num": 663519,
       "word": "亲爱的芙出轨只有0次和无数次",
@@ -521,6 +545,14 @@
       "onboard_time": 1694865758,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 634770,
+      "num": 391715,
+      "word": "原来工资日薪是这样算的",
+      "onboard_time": 1694871578,
+      "rank": 20,
+      "category": "知识科普"
     },
     {
       "raw_hot": 620073,
@@ -617,6 +649,14 @@
       "onboard_time": 1694831793,
       "rank": 7,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 575876,
+      "num": 516401,
+      "word": "吴青峰 谢谢你们的温柔",
+      "onboard_time": 1694870919,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 568971,
@@ -851,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 411209,
+      "num": 553561,
+      "word": "酒店41对新人结婚海报一眼望不到头",
+      "onboard_time": 1694868216,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409801,
       "num": 409801,
       "word": "丁霞上场",
@@ -923,6 +971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 386675,
+      "num": 386675,
+      "word": "起猛了看见李莲花跳queencard",
+      "onboard_time": 1694869416,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384487,
       "num": 384487,
       "word": "文咏珊被正式确诊为文勇扇",
@@ -963,12 +1019,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373532,
-      "num": 373532,
-      "word": "起猛了看见李莲花跳queencard",
-      "onboard_time": 1694869416,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 378047,
+      "num": 378047,
+      "word": "女孩乘电梯多次被陌生女子取消楼层",
+      "onboard_time": 1694872479,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367625,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1694830593,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353811,
+      "num": 353811,
+      "word": "LVMH高层现身刘雨昕上海演唱会",
+      "onboard_time": 1694872419,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 352513,
@@ -1187,14 +1251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 301361,
-      "num": 301361,
-      "word": "酒店41对新人结婚海报一眼望不到头",
-      "onboard_time": 1694868216,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301277,
       "num": 301277,
       "word": "薛之谦福州演唱会",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1694839835,
       "rank": 13,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 291081,
+      "num": 291081,
+      "word": "如果必须选一碗麻辣烫",
+      "onboard_time": 1694871761,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 285577,
@@ -1339,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267202,
-      "num": 246019,
-      "word": "吴青峰 谢谢你们的温柔",
-      "onboard_time": 1694870919,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267031,
       "num": 267031,
       "word": "鹦鹉杀啥意思",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1694784219,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255306,
+      "num": 255306,
+      "word": "白猫直播间的主播是一只白猫",
+      "onboard_time": 1694873080,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 253557,
@@ -1555,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222606,
+      "num": 396381,
+      "word": "智能床垫",
+      "onboard_time": 1694871761,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 222131,
       "num": 222131,
       "word": "黄景瑜张婧仪新剧的cp感",
@@ -1627,12 +1699,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210954,
-      "num": 210954,
-      "word": "汪苏泷感受到了伍佰的快乐",
-      "onboard_time": 1694870738,
-      "rank": 35,
-      "category": "演出"
+      "raw_hot": 211099,
+      "num": 211099,
+      "word": "茅台巧克力正连夜补货",
+      "onboard_time": 1694872899,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 210174,
@@ -1915,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "恒大财富多人被采取刑事强制措施",
+      "onboard_time": 1694873017,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183610,
       "num": 183610,
       "word": "青岛一小区母子3人坠楼",
@@ -1955,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181668,
+      "num": 181668,
+      "word": "李荣浩已有十年模特经验",
+      "onboard_time": 1694873434,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181188,
       "num": 277903,
       "word": "杭州亚运会开幕",
@@ -1968,6 +2056,22 @@
       "word": "Angelababy芭比粉短裙造型",
       "onboard_time": 1694842836,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180160,
+      "num": 180160,
+      "word": "狼队1比3利物浦",
+      "onboard_time": 1694872361,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179388,
+      "num": 179388,
+      "word": "品冠含泪退出唱跳圈",
+      "onboard_time": 1694873260,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2467,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115511,
+      "num": 378475,
+      "word": "军迷关注的旋翼机来了",
+      "onboard_time": 1694872659,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 114106,
       "num": 114106,
       "word": "重庆地铁回应老人乘背篓专线卖菜",
@@ -2688,6 +2800,14 @@
       "word": "世界大河文明论坛",
       "onboard_time": 1694847633,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7041,
+      "num": 1195698,
+      "word": "大国技能群英荟",
+      "onboard_time": 1694857237,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
