@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694874832462,
+  "endTime": 1694877337300,
   "band_list": [
     {
       "raw_hot": 10136248,
@@ -105,6 +105,14 @@
       "onboard_time": 1694860177,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1804226,
+      "num": 1088434,
+      "word": "知情人称母子坠楼案2孩子是被扔下楼",
+      "onboard_time": 1694874942,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1800396,
@@ -252,11 +260,19 @@
     },
     {
       "raw_hot": 1219289,
-      "num": 542838,
+      "num": 590159,
       "word": "袁冰妍偷逃税罚款超430万",
       "onboard_time": 1694868337,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1179125,
+      "num": 1179125,
+      "word": "才知道蜜雪冰城曾经是个餐馆",
+      "onboard_time": 1694873620,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 1149550,
@@ -275,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1085256,
+      "num": 1085256,
+      "word": "郑恺亲吻鼓励苗苗",
+      "onboard_time": 1694876380,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1018269,
       "num": 339914,
       "word": "首批iPhone15Pro一分钟被抢光",
       "onboard_time": 1694827834,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1018243,
+      "num": 1018243,
+      "word": "女孩乘电梯多次被陌生女子取消楼层",
+      "onboard_time": 1694872479,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 969926,
@@ -305,14 +337,6 @@
       "onboard_time": 1694832273,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 916053,
-      "num": 916053,
-      "word": "女孩乘电梯多次被陌生女子取消楼层",
-      "onboard_time": 1694872479,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 915623,
@@ -427,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 732401,
-      "num": 732401,
-      "word": "才知道蜜雪冰城曾经是个餐馆",
-      "onboard_time": 1694873620,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 731595,
       "num": 731595,
       "word": "人民网评袁某某偷逃税是洗不白的",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 680591,
-      "num": 486234,
+      "num": 638079,
       "word": "李荣浩已有十年模特经验",
       "onboard_time": 1694873434,
       "rank": 40,
@@ -572,11 +588,19 @@
     },
     {
       "raw_hot": 634770,
-      "num": 450671,
+      "num": 456100,
       "word": "原来工资日薪是这样算的",
       "onboard_time": 1694871578,
       "rank": 20,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 633185,
+      "num": 633185,
+      "word": "LVMH高层现身刘雨昕上海演唱会",
+      "onboard_time": 1694872419,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 620073,
@@ -787,11 +811,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476501,
+      "num": 476501,
+      "word": "马立奥特种兵暴雨游长隆",
+      "onboard_time": 1694875179,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474558,
       "num": 251672,
       "word": "金靖首次回应金繁倒立梗",
       "onboard_time": 1694830231,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 472701,
+      "num": 472701,
+      "word": "电视剧斗罗大陆2杀青",
+      "onboard_time": 1694873978,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -825,6 +865,22 @@
       "onboard_time": 1694849435,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457256,
+      "num": 457256,
+      "word": "男子讨要彩礼未果将女方砍伤致死",
+      "onboard_time": 1694874820,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453710,
+      "num": 453710,
+      "word": "不要经常用手挖鼻孔",
+      "onboard_time": 1694874163,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 444976,
@@ -971,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395050,
+      "num": 395050,
+      "word": "原来性骚扰如此简单",
+      "onboard_time": 1694874942,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391807,
       "num": 368719,
       "word": "张柏芝从香港坐高铁到郴州",
@@ -1051,14 +1115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 373569,
-      "num": 373569,
-      "word": "LVMH高层现身刘雨昕上海演唱会",
-      "onboard_time": 1694872419,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 367625,
       "num": 367625,
       "word": "iPhone15使用标准USBC端口",
@@ -1107,20 +1163,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 346897,
-      "num": 346897,
+      "raw_hot": 346986,
+      "num": 346986,
       "word": "白猫直播间的主播是一只白猫",
       "onboard_time": 1694873080,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 337556,
-      "num": 337556,
-      "word": "不要经常用手挖鼻孔",
-      "onboard_time": 1694874163,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 335162,
@@ -1315,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300070,
+      "num": 300070,
+      "word": "洗完衣服把洗衣机都洗吐了",
+      "onboard_time": 1694874099,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299104,
       "num": 299104,
       "word": "云之羽爱奇艺热度值破9700",
@@ -1371,20 +1427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284872,
+      "num": 284872,
+      "word": "蔡依林玻璃蝴蝶套装",
+      "onboard_time": 1694875958,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284395,
       "num": 284395,
       "word": "男爱豆Smoke Challenge合集",
       "onboard_time": 1694837553,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 284249,
-      "num": 284249,
-      "word": "洗完衣服把洗衣机都洗吐了",
-      "onboard_time": 1694874099,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 283244,
@@ -1435,12 +1491,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 276546,
-      "num": 276546,
-      "word": "电视剧斗罗大陆2杀青",
-      "onboard_time": 1694873978,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 277495,
+      "num": 277495,
+      "word": "如何评价徐良被淘汰",
+      "onboard_time": 1694876078,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 274940,
@@ -1731,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217846,
+      "num": 217846,
+      "word": "考研女生未吃早饭晕倒众人扶起送零食",
+      "onboard_time": 1694876439,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216984,
       "num": 216984,
       "word": "孟德尔你让我写什么",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1694788838,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213891,
+      "num": 213891,
+      "word": "成毅唱转弯",
+      "onboard_time": 1694875898,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213560,
@@ -1995,6 +2067,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 191130,
+      "num": 191130,
+      "word": "看完装腔启示录的感悟",
+      "onboard_time": 1694875779,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189475,
       "num": 189475,
       "word": "舌后方长了一排红色疙瘩是得病了吗",
@@ -2187,14 +2267,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 171186,
-      "num": 171186,
-      "word": "男子讨要彩礼未果将女方砍伤致死",
-      "onboard_time": 1694874820,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170218,
       "num": 594859,
       "word": "的哥4分钟连闯6红灯送乘客就医",
@@ -2283,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158118,
+      "num": 158118,
+      "word": "西汉姆联vs曼城",
+      "onboard_time": 1694875539,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157626,
       "num": 157626,
       "word": "张远徐良马晓龙伶人舞台",
@@ -2305,6 +2385,14 @@
       "onboard_time": 1694848115,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156108,
+      "num": 156108,
+      "word": "李荣浩纵横四海世界巡回演唱会",
+      "onboard_time": 1694875479,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 154344,
@@ -2427,11 +2515,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145434,
+      "num": 145434,
+      "word": "杭州限行你准备乘地铁吗",
+      "onboard_time": 1694877160,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 144491,
       "num": 345386,
       "word": "姚明感慨回忆与易建联初相遇",
       "onboard_time": 1694789680,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144214,
+      "num": 144214,
+      "word": "塞恩斯取得2023F1新加坡大奖赛杆位",
+      "onboard_time": 1694876620,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2867,20 +2971,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21744,
+      "num": 1195698,
+      "word": "大国技能群英荟",
+      "onboard_time": 1694857237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19922,
       "num": 491531,
       "word": "张韶涵带你秒回青春",
       "onboard_time": 1694874163,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 15604,
-      "num": 1195698,
-      "word": "大国技能群英荟",
-      "onboard_time": 1694857237,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

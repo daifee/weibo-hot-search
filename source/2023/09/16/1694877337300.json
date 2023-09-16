@@ -1,0 +1,410 @@
+{
+  "runTime": 1694877337300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353219,
+        "num": 1353219,
+        "word": "断崖式的衰老是在几岁",
+        "onboard_time": 1694867076,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1179125,
+        "num": 1179125,
+        "word": "才知道蜜雪冰城曾经是个餐馆",
+        "onboard_time": 1694873620,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21744,
+        "num": 1090945,
+        "word": "大国技能群英荟",
+        "onboard_time": 1694857237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1804226,
+        "num": 1088434,
+        "word": "知情人称母子坠楼案2孩子是被扔下楼",
+        "onboard_time": 1694874942,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085256,
+        "num": 1085256,
+        "word": "郑恺亲吻鼓励苗苗",
+        "onboard_time": 1694876380,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1018243,
+        "num": 1018243,
+        "word": "女孩乘电梯多次被陌生女子取消楼层",
+        "onboard_time": 1694872479,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776434,
+        "num": 776434,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 691565,
+        "num": 691565,
+        "word": "帕梅拉 我健身这十年",
+        "onboard_time": 1694871457,
+        "rank": 7,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 638079,
+        "num": 638079,
+        "word": "李荣浩已有十年模特经验",
+        "onboard_time": 1694873434,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 633185,
+        "num": 633185,
+        "word": "LVMH高层现身刘雨昕上海演唱会",
+        "onboard_time": 1694872419,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 603512,
+        "num": 603512,
+        "word": "莲花楼直播",
+        "onboard_time": 1694865758,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 609117,
+        "num": 590159,
+        "word": "袁冰妍偷逃税罚款超430万",
+        "onboard_time": 1694868337,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 503459,
+        "num": 503459,
+        "word": "曾舜晞queencard 方多病拦出租车",
+        "onboard_time": 1694869603,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206954,
+        "num": 482984,
+        "word": "人民网评袁某某偷逃税是洗不白的",
+        "onboard_time": 1694859879,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 128507,
+        "num": 476609,
+        "word": "酒店人员邀请环卫工们进屋避雨",
+        "onboard_time": 1694858204,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 476501,
+        "num": 476501,
+        "word": "马立奥特种兵暴雨游长隆",
+        "onboard_time": 1694875179,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472701,
+        "num": 472701,
+        "word": "电视剧斗罗大陆2杀青",
+        "onboard_time": 1694873978,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468205,
+        "num": 468205,
+        "word": "汪苏泷感受到了伍佰的快乐",
+        "onboard_time": 1694870738,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 460468,
+        "num": 460468,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457256,
+        "num": 457256,
+        "word": "男子讨要彩礼未果将女方砍伤致死",
+        "onboard_time": 1694874820,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525853,
+        "num": 456100,
+        "word": "原来工资日薪是这样算的",
+        "onboard_time": 1694871578,
+        "rank": 20,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 453710,
+        "num": 453710,
+        "word": "不要经常用手挖鼻孔",
+        "onboard_time": 1694874163,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395050,
+        "num": 395050,
+        "word": "原来性骚扰如此简单",
+        "onboard_time": 1694874942,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346986,
+        "num": 346986,
+        "word": "白猫直播间的主播是一只白猫",
+        "onboard_time": 1694873080,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317197,
+        "num": 317197,
+        "word": "陈都灵舞台",
+        "onboard_time": 1694867915,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 313157,
+        "num": 313157,
+        "word": "刘惜君首唱的新歌是薛之谦写的",
+        "onboard_time": 1694873917,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300070,
+        "num": 300070,
+        "word": "洗完衣服把洗衣机都洗吐了",
+        "onboard_time": 1694874099,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293844,
+        "num": 293844,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284872,
+        "num": 284872,
+        "word": "蔡依林玻璃蝴蝶套装",
+        "onboard_time": 1694875958,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277495,
+        "num": 277495,
+        "word": "如何评价徐良被淘汰",
+        "onboard_time": 1694876078,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1289540,
+        "num": 274863,
+        "word": "李佳琦吹羽毛二创视频",
+        "onboard_time": 1694861318,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246526,
+        "num": 246526,
+        "word": "日媒曝羽生结弦老婆身份",
+        "onboard_time": 1694854237,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218629,
+        "num": 218629,
+        "word": "云之羽隐藏结局",
+        "onboard_time": 1694858801,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217846,
+        "num": 217846,
+        "word": "考研女生未吃早饭晕倒众人扶起送零食",
+        "onboard_time": 1694876439,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213891,
+        "num": 213891,
+        "word": "成毅唱转弯",
+        "onboard_time": 1694875898,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202280,
+        "num": 202280,
+        "word": "恒大财富多人被采取刑事强制措施",
+        "onboard_time": 1694873017,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191130,
+        "num": 191130,
+        "word": "看完装腔启示录的感悟",
+        "onboard_time": 1694875779,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187645,
+        "num": 187645,
+        "word": "酒店41对新人结婚海报一眼望不到头",
+        "onboard_time": 1694868216,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183114,
+        "num": 183114,
+        "word": "四个动作瘦肚子",
+        "onboard_time": 1694874636,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 201772,
+        "num": 183097,
+        "word": "成毅严艺丹合唱人世太匆忙",
+        "onboard_time": 1694872781,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175302,
+        "num": 175302,
+        "word": "尝试戒掉咖啡的韩国人",
+        "onboard_time": 1694868337,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174256,
+        "num": 174256,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 41,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 170719,
+        "num": 170719,
+        "word": "吴青峰 谢谢你们的温柔",
+        "onboard_time": 1694870919,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166099,
+        "num": 166099,
+        "word": "品冠含泪退出唱跳圈",
+        "onboard_time": 1694873260,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158559,
+        "num": 158559,
+        "word": "BLACKPINK首尔安可",
+        "onboard_time": 1694861256,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158118,
+        "num": 158118,
+        "word": "西汉姆联vs曼城",
+        "onboard_time": 1694875539,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157055,
+        "num": 157055,
+        "word": "张柏芝从香港坐高铁到郴州",
+        "onboard_time": 1694869717,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156108,
+        "num": 156108,
+        "word": "李荣浩纵横四海世界巡回演唱会",
+        "onboard_time": 1694875479,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145434,
+        "num": 145434,
+        "word": "杭州限行你准备乘地铁吗",
+        "onboard_time": 1694877160,
+        "rank": 48,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 144214,
+        "num": 144214,
+        "word": "塞恩斯取得2023F1新加坡大奖赛杆位",
+        "onboard_time": 1694876620,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给东北大学全体师生回信#"
+    }
+  }
+}
