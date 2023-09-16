@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694881186204,
+  "endTime": 1694882106306,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 797090,
-      "num": 797090,
+      "raw_hot": 801555,
+      "num": 801555,
       "word": "郑恺亲吻鼓励苗苗",
       "onboard_time": 1694876380,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 603661,
-      "num": 376985,
+      "num": 598678,
       "word": "袁冰妍偷逃税罚款超430万",
       "onboard_time": 1694868337,
       "rank": 10,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506589,
+      "num": 301656,
+      "word": "如何用50天瘦16斤",
+      "onboard_time": 1694879916,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 492581,
       "num": 492581,
       "word": "才知道蜜雪冰城曾经是个餐馆",
       "onboard_time": 1694873620,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 475879,
-      "num": 301656,
-      "word": "如何用50天瘦16斤",
-      "onboard_time": 1694879916,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 394797,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355329,
+      "num": 355329,
+      "word": "我们的歌",
+      "onboard_time": 1694878417,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354591,
       "num": 354591,
       "word": "LVMH高层现身刘雨昕上海演唱会",
@@ -137,14 +145,6 @@
       "onboard_time": 1694871457,
       "rank": 16,
       "category": "运动健身,网红"
-    },
-    {
-      "raw_hot": 306743,
-      "num": 306743,
-      "word": "我们的歌",
-      "onboard_time": 1694878417,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 304173,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222438,
+      "num": 210021,
+      "word": "当男友说拍了张水下唯美照",
+      "onboard_time": 1694880933,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219253,
       "num": 219253,
       "word": "NewJeans 弘大校庆",
@@ -267,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193502,
+      "num": 193502,
+      "word": "张杰晒专辑中喝奶时期照片",
+      "onboard_time": 1694880933,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191505,
       "num": 191505,
       "word": "日媒曝羽生结弦老婆身份",
@@ -281,14 +297,6 @@
       "onboard_time": 1694859879,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 176494,
-      "num": 176494,
-      "word": "张杰晒专辑中喝奶时期照片",
-      "onboard_time": 1694880933,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 166337,
@@ -313,6 +321,14 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151325,
+      "num": 151325,
+      "word": "江苏9年级化学课本出现高猛酸钾",
+      "onboard_time": 1694881290,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 149055,
@@ -355,14 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129804,
-      "num": 129804,
-      "word": "当男友说拍了张水下唯美照",
-      "onboard_time": 1694880933,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129566,
       "num": 129566,
       "word": "乔任梁父母失独后重新生活",
@@ -387,12 +395,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 106505,
+      "raw_hot": 107525,
       "num": 356705,
       "word": "酒店人员邀请环卫工们进屋避雨",
       "onboard_time": 1694858204,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 93041,
+      "num": 119417,
+      "word": "成毅曾舜晞肖顺尧彩排舞台",
+      "onboard_time": 1694855806,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 14470,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平给东北大学全体师生回信#"
+    },
+    {
+      "word": "#发展中国家群体性崛起已成时代潮流#"
     }
   ]
 }
