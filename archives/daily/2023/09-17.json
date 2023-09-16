@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694903625754,
+  "endTime": 1694906144720,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -67,7 +67,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 542015,
+      "raw_hot": 563773,
       "num": 371493,
       "word": "男子讨要彩礼未果将女方砍伤致死",
       "onboard_time": 1694874820,
@@ -89,6 +89,14 @@
       "onboard_time": 1694873620,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 411329,
+      "num": 411329,
+      "word": "江苏9年级化学课本出现高猛酸钾",
+      "onboard_time": 1694881290,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 394797,
@@ -121,14 +129,6 @@
       "onboard_time": 1694873434,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 371932,
-      "num": 371932,
-      "word": "江苏9年级化学课本出现高猛酸钾",
-      "onboard_time": 1694881290,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 355329,
@@ -291,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198116,
+      "num": 184058,
+      "word": "主人带柯基去庙里收惊",
+      "onboard_time": 1694899815,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 193502,
       "num": 193502,
       "word": "张杰晒专辑中喝奶时期照片",
@@ -435,11 +443,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75635,
-      "num": 75635,
-      "word": "主人带柯基去庙里收惊",
-      "onboard_time": 1694899815,
-      "rank": 49,
+      "raw_hot": 78305,
+      "num": 78305,
+      "word": "当理解了女儿她就不再是孤军奋战",
+      "onboard_time": 1694894894,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 77819,
+      "num": 77819,
+      "word": "一只猴子来到了葬礼上伏地告别",
+      "onboard_time": 1694900473,
+      "rank": 28,
       "category": "动物萌宠"
     },
     {
@@ -459,20 +475,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66762,
-      "num": 66762,
-      "word": "当理解了女儿她就不再是孤军奋战",
-      "onboard_time": 1694894894,
-      "rank": 42,
-      "category": "母婴育儿"
+      "raw_hot": 62120,
+      "num": 62120,
+      "word": "我的头发能像龙须菜一样茂盛吗",
+      "onboard_time": 1694904078,
+      "rank": 36,
+      "category": "综艺"
     },
     {
-      "raw_hot": 51640,
-      "num": 51640,
-      "word": "一只猴子来到了葬礼上伏地告别",
-      "onboard_time": 1694900473,
-      "rank": 28,
+      "raw_hot": 61701,
+      "num": 61701,
+      "word": "国际米兰5比1AC米兰",
+      "onboard_time": 1694905883,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59496,
+      "num": 59496,
+      "word": "养狗人的大型社死现场",
+      "onboard_time": 1694890335,
+      "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 45295,
+      "num": 52049,
+      "word": "骄阳伴我海外多地上线",
+      "onboard_time": 1694889497,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42660,
+      "num": 52047,
+      "word": "XYG先下一城",
+      "onboard_time": 1694905520,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 38198,
@@ -491,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30522,
-      "num": 37528,
-      "word": "养狗人的大型社死现场",
-      "onboard_time": 1694890335,
-      "rank": 48,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 29757,
       "num": 41698,
       "word": "周深用歌声点亮人间星河",
@@ -513,14 +545,6 @@
       "onboard_time": 1694889377,
       "rank": 35,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 27317,
-      "num": 41690,
-      "word": "骄阳伴我海外多地上线",
-      "onboard_time": 1694889497,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 14470,

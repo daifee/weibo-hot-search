@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/17 00:19:46 ~ 2023/09/17 06:33:45
+本榜单时间：2023/09/17 00:19:46 ~ 2023/09/17 07:15:44
 </p>
 </blockquote>
 <p>
@@ -64,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AE%A8%E8%A6%81%E5%BD%A9%E7%A4%BC%E6%9C%AA%E6%9E%9C%E5%B0%86%E5%A5%B3%E6%96%B9%E7%A0%8D%E4%BC%A4%E8%87%B4%E6%AD%BB%23" target="weibo">
-男子讨要彩礼未果将女方砍伤致死（热度：542015）
+男子讨要彩礼未果将女方砍伤致死（热度：563773）
 </a>
 </li>
 
@@ -77,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%9B%BE%E7%BB%8F%E6%98%AF%E4%B8%AA%E9%A4%90%E9%A6%86%23" target="weibo">
 才知道蜜雪冰城曾经是个餐馆（热度：492581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E7%8C%9B%E9%85%B8%E9%92%BE%23" target="weibo">
+江苏9年级化学课本出现高猛酸钾（热度：411329）
 </a>
 </li>
 
@@ -101,12 +107,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%B7%B2%E6%9C%89%E5%8D%81%E5%B9%B4%E6%A8%A1%E7%89%B9%E7%BB%8F%E9%AA%8C%23" target="weibo">
 李荣浩已有十年模特经验（热度：377864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E7%8C%9B%E9%85%B8%E9%92%BE%23" target="weibo">
-江苏9年级化学课本出现高猛酸钾（热度：371932）
 </a>
 </li>
 
@@ -231,6 +231,12 @@ NewJeans 弘大校庆（热度：219253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%B8%A6%E6%9F%AF%E5%9F%BA%E5%8E%BB%E5%BA%99%E9%87%8C%E6%94%B6%E6%83%8A%23" target="weibo">
+主人带柯基去庙里收惊（热度：198116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%99%92%E4%B8%93%E8%BE%91%E4%B8%AD%E5%96%9D%E5%A5%B6%E6%97%B6%E6%9C%9F%E7%85%A7%E7%89%87%23" target="weibo">
 张杰晒专辑中喝奶时期照片（热度：193502）
 </a>
@@ -339,8 +345,14 @@ NewJeans 弘大校庆（热度：219253）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%B8%A6%E6%9F%AF%E5%9F%BA%E5%8E%BB%E5%BA%99%E9%87%8C%E6%94%B6%E6%83%8A%23" target="weibo">
-主人带柯基去庙里收惊（热度：75635）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%90%86%E8%A7%A3%E4%BA%86%E5%A5%B3%E5%84%BF%E5%A5%B9%E5%B0%B1%E4%B8%8D%E5%86%8D%E6%98%AF%E5%AD%A4%E5%86%9B%E5%A5%8B%E6%88%98%23" target="weibo">
+当理解了女儿她就不再是孤军奋战（热度：78305）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%8C%B4%E5%AD%90%E6%9D%A5%E5%88%B0%E4%BA%86%E8%91%AC%E7%A4%BC%E4%B8%8A%E4%BC%8F%E5%9C%B0%E5%91%8A%E5%88%AB%23" target="weibo">
+一只猴子来到了葬礼上伏地告别（热度：77819）
 </a>
 </li>
 
@@ -357,14 +369,32 @@ NewJeans 弘大校庆（热度：219253）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%90%86%E8%A7%A3%E4%BA%86%E5%A5%B3%E5%84%BF%E5%A5%B9%E5%B0%B1%E4%B8%8D%E5%86%8D%E6%98%AF%E5%AD%A4%E5%86%9B%E5%A5%8B%E6%88%98%23" target="weibo">
-当理解了女儿她就不再是孤军奋战（热度：66762）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A4%B4%E5%8F%91%E8%83%BD%E5%83%8F%E9%BE%99%E9%A1%BB%E8%8F%9C%E4%B8%80%E6%A0%B7%E8%8C%82%E7%9B%9B%E5%90%97%23" target="weibo">
+我的头发能像龙须菜一样茂盛吗（热度：62120）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%8C%B4%E5%AD%90%E6%9D%A5%E5%88%B0%E4%BA%86%E8%91%AC%E7%A4%BC%E4%B8%8A%E4%BC%8F%E5%9C%B0%E5%91%8A%E5%88%AB%23" target="weibo">
-一只猴子来到了葬礼上伏地告别（热度：51640）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B05%E6%AF%941AC%E7%B1%B3%E5%85%B0%23" target="weibo">
+国际米兰5比1AC米兰（热度：61701）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8B%97%E4%BA%BA%E7%9A%84%E5%A4%A7%E5%9E%8B%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23" target="weibo">
+养狗人的大型社死现场（热度：59496）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%B5%B7%E5%A4%96%E5%A4%9A%E5%9C%B0%E4%B8%8A%E7%BA%BF%23" target="weibo">
+骄阳伴我海外多地上线（热度：45295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23XYG%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
+XYG先下一城（热度：42660）
 </a>
 </li>
 
@@ -381,12 +411,6 @@ BLACKPINK首尔安可（热度：38198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8B%97%E4%BA%BA%E7%9A%84%E5%A4%A7%E5%9E%8B%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23" target="weibo">
-养狗人的大型社死现场（热度：30522）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%94%A8%E6%AD%8C%E5%A3%B0%E7%82%B9%E4%BA%AE%E4%BA%BA%E9%97%B4%E6%98%9F%E6%B2%B3%23" target="weibo">
 周深用歌声点亮人间星河（热度：29757）
 </a>
@@ -395,12 +419,6 @@ BLACKPINK首尔安可（热度：38198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E7%89%A7%E8%B5%B6%E7%BE%8A%E7%9A%84%E6%97%B6%E5%80%99%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%B8%85%23" target="weibo">
 边牧赶羊的时候真的好帅（热度：27465）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%B5%B7%E5%A4%96%E5%A4%9A%E5%9C%B0%E4%B8%8A%E7%BA%BF%23" target="weibo">
-骄阳伴我海外多地上线（热度：27317）
 </a>
 </li>
 
