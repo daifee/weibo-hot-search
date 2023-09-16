@@ -1,10 +1,10 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694852343670,
+  "endTime": 1694853252817,
   "band_list": [
     {
-      "raw_hot": 8811764,
-      "num": 8811764,
+      "raw_hot": 10136248,
+      "num": 10136248,
       "word": "官方通报袁冰妍偷逃税事件",
       "onboard_time": 1694850516,
       "rank": 0,
@@ -19,20 +19,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3104486,
+      "num": 366611,
+      "word": "袁冰妍偷逃税被追缴并罚款297万元",
+      "onboard_time": 1694851777,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2717312,
       "num": 2717312,
       "word": "蜜雪冰城被曝喝出蜘蛛",
       "onboard_time": 1694839233,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2704336,
-      "num": 366611,
-      "word": "袁冰妍偷逃税被追缴并罚款297万元",
-      "onboard_time": 1694851777,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2553536,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1854160,
+      "num": 1075959,
+      "word": "生理期去高原一滴都无",
+      "onboard_time": 1694849495,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1800396,
       "num": 997622,
       "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
       "onboard_time": 1694820266,
       "rank": 30,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 1797610,
-      "num": 1075959,
-      "word": "生理期去高原一滴都无",
-      "onboard_time": 1694849495,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 1728098,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429527,
+      "num": 314339,
+      "word": "我的存款足够下半辈子不吃不喝",
+      "onboard_time": 1694852562,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421426,
       "num": 421426,
       "word": "梁洁宋冉好贴",
@@ -787,6 +795,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312930,
+      "num": 312930,
+      "word": "茅台巧克力上市",
+      "onboard_time": 1694852321,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311090,
+      "num": 311090,
+      "word": "世界公认的长高动作",
+      "onboard_time": 1694848474,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 310428,
       "num": 310428,
       "word": "路人拍的王珞丹",
@@ -827,20 +851,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304295,
-      "num": 304295,
-      "word": "世界公认的长高动作",
-      "onboard_time": 1694848474,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 301467,
       "num": 301467,
       "word": "张翰将出演如梦之梦",
       "onboard_time": 1694784339,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 301391,
+      "num": 301391,
+      "word": "中国人自己的垫底辣妹",
+      "onboard_time": 1694848535,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 300855,
@@ -963,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254282,
-      "num": 254282,
-      "word": "中国人自己的垫底辣妹",
-      "onboard_time": 1694848535,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253557,
       "num": 253557,
       "word": "陆毅演我写简历",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1694827713,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241221,
+      "num": 241221,
+      "word": "花溪记今日开播",
+      "onboard_time": 1694851601,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 239072,
@@ -1203,6 +1227,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 196535,
+      "num": 196535,
+      "word": "张凌赫谈云为衫身份暴露的剧情",
+      "onboard_time": 1694852682,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196410,
       "num": 196410,
       "word": "剧说很好看骄阳伴我专场",
@@ -1371,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181188,
+      "num": 277903,
+      "word": "杭州亚运会开幕",
+      "onboard_time": 1694852022,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180998,
       "num": 180998,
       "word": "Angelababy芭比粉短裙造型",
@@ -1419,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173806,
+      "num": 173806,
+      "word": "小猫咪攒了好久的宝贝被发现了",
+      "onboard_time": 1694851417,
+      "rank": 37,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 167115,
       "num": 167115,
       "word": "大熊猫渝爱展示长腿翻车",
@@ -1427,28 +1475,12 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 165091,
-      "num": 165091,
-      "word": "小猫咪攒了好久的宝贝被发现了",
-      "onboard_time": 1694851417,
-      "rank": 37,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 162271,
       "num": 228084,
       "word": "小宝宝看爸爸冲奶满眼期待",
       "onboard_time": 1694817680,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162025,
-      "num": 162025,
-      "word": "花溪记今日开播",
-      "onboard_time": 1694851601,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 161778,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1694786024,
       "rank": 36,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 151303,
+      "num": 151303,
+      "word": "医生休年假3段旅程救3人",
+      "onboard_time": 1694853164,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150575,
@@ -1627,14 +1667,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 133502,
-      "num": 133502,
-      "word": "杭州亚运会开幕",
-      "onboard_time": 1694852022,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132595,
       "num": 132595,
       "word": "听到呼喊40多位好心人冲来抬车救人",
@@ -1656,14 +1688,6 @@
       "word": "小猫脊柱错位中医学生咔吧一声接回",
       "onboard_time": 1694823092,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130753,
-      "num": 130753,
-      "word": "茅台巧克力上市",
-      "onboard_time": 1694852321,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1827,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77772,
+      "num": 354778,
+      "word": "憋笑到颤抖是什么体验",
+      "onboard_time": 1694849675,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69133,
       "num": 42781,
       "word": "胡彦斌想抓紧谈恋爱了",
@@ -1849,14 +1881,6 @@
       "onboard_time": 1694803876,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56624,
-      "num": 354778,
-      "word": "憋笑到颤抖是什么体验",
-      "onboard_time": 1694849675,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49612,

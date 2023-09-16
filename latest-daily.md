@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 16:19:03
+本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 16:34:12
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A2%81%E5%86%B0%E5%A6%8D%E5%81%B7%E9%80%83%E7%A8%8E%E4%BA%8B%E4%BB%B6%23" target="weibo">
-官方通报袁冰妍偷逃税事件（热度：8811764）
+官方通报袁冰妍偷逃税事件（热度：10136248）
 </a>
 </li>
 
@@ -27,14 +27,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%9C%98%E8%9B%9B%23" target="weibo">
-蜜雪冰城被曝喝出蜘蛛（热度：2717312）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E5%81%B7%E9%80%83%E7%A8%8E%E8%A2%AB%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%E6%AC%BE297%E4%B8%87%E5%85%83%23" target="weibo">
+袁冰妍偷逃税被追缴并罚款297万元（热度：3104486）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E5%81%B7%E9%80%83%E7%A8%8E%E8%A2%AB%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%E6%AC%BE297%E4%B8%87%E5%85%83%23" target="weibo">
-袁冰妍偷逃税被追缴并罚款297万元（热度：2704336）
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%9C%98%E8%9B%9B%23" target="weibo">
+蜜雪冰城被曝喝出蜘蛛（热度：2717312）
 </a>
 </li>
 
@@ -69,14 +69,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD%23" target="weibo">
-女子捏死隐翅虫手臂被腐蚀7天还没好（热度：1800396）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%9C%9F%E5%8E%BB%E9%AB%98%E5%8E%9F%E4%B8%80%E6%BB%B4%E9%83%BD%E6%97%A0%23" target="weibo">
+生理期去高原一滴都无（热度：1854160）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%9C%9F%E5%8E%BB%E9%AB%98%E5%8E%9F%E4%B8%80%E6%BB%B4%E9%83%BD%E6%97%A0%23" target="weibo">
-生理期去高原一滴都无（热度：1797610）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD%23" target="weibo">
+女子捏死隐翅虫手臂被腐蚀7天还没好（热度：1800396）
 </a>
 </li>
 
@@ -435,6 +435,12 @@ iPhone15Pro系列存在变色和吸指纹问题（热度：568324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%AD%98%E6%AC%BE%E8%B6%B3%E5%A4%9F%E4%B8%8B%E5%8D%8A%E8%BE%88%E5%AD%90%E4%B8%8D%E5%90%83%E4%B8%8D%E5%96%9D%23" target="weibo">
+我的存款足够下半辈子不吃不喝（热度：429527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%B4%81%E5%AE%8B%E5%86%89%E5%A5%BD%E8%B4%B4%23" target="weibo">
 梁洁宋冉好贴（热度：421426）
 </a>
@@ -603,6 +609,18 @@ iPhone15使用标准USBC端口（热度：367625）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8A%E5%B8%82%23" target="weibo">
+茅台巧克力上市（热度：312930）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%85%AC%E8%AE%A4%E7%9A%84%E9%95%BF%E9%AB%98%E5%8A%A8%E4%BD%9C%23" target="weibo">
+世界公认的长高动作（热度：311090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%9A%84%E7%8E%8B%E7%8F%9E%E4%B8%B9%23" target="weibo">
 路人拍的王珞丹（热度：310428）
 </a>
@@ -633,14 +651,14 @@ iPhone15使用标准USBC端口（热度：367625）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%85%AC%E8%AE%A4%E7%9A%84%E9%95%BF%E9%AB%98%E5%8A%A8%E4%BD%9C%23" target="weibo">
-世界公认的长高动作（热度：304295）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B0%86%E5%87%BA%E6%BC%94%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%23" target="weibo">
+张翰将出演如梦之梦（热度：301467）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B0%86%E5%87%BA%E6%BC%94%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%23" target="weibo">
-张翰将出演如梦之梦（热度：301467）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%A6%B9%23" target="weibo">
+中国人自己的垫底辣妹（热度：301391）
 </a>
 </li>
 
@@ -735,12 +753,6 @@ SEVENTEEN毒发行四周年（热度：266073）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%A6%B9%23" target="weibo">
-中国人自己的垫底辣妹（热度：254282）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E6%BC%94%E6%88%91%E5%86%99%E7%AE%80%E5%8E%86%23" target="weibo">
 陆毅演我写简历（热度：253557）
 </a>
@@ -779,6 +791,12 @@ Angelababy说想学我做的腌水果（热度：249886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E8%B4%BE%E9%9D%99%E9%9B%AF%20%E7%9B%B8%E7%88%B1%E7%9B%B8%E6%9D%80%E5%A5%BD%E5%A7%90%E5%A6%B9%23" target="weibo">
 蔡少芬贾静雯 相爱相杀好姐妹（热度：246269）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BA%AA%E8%AE%B0%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
+花溪记今日开播（热度：241221）
 </a>
 </li>
 
@@ -915,6 +933,12 @@ SEVENTEEN毒还是要看这场（热度：212528）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B0%88%E4%BA%91%E4%B8%BA%E8%A1%AB%E8%BA%AB%E4%BB%BD%E6%9A%B4%E9%9C%B2%E7%9A%84%E5%89%A7%E6%83%85%23" target="weibo">
+张凌赫谈云为衫身份暴露的剧情（热度：196535）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%A7%E8%AF%B4%E5%BE%88%E5%A5%BD%E7%9C%8B%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E4%B8%93%E5%9C%BA%23" target="weibo">
 剧说很好看骄阳伴我专场（热度：196410）
 </a>
@@ -1041,6 +1065,12 @@ SEVENTEEN毒还是要看这场（热度：212528）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%23" target="weibo">
+杭州亚运会开幕（热度：181188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E8%8A%AD%E6%AF%94%E7%B2%89%E7%9F%AD%E8%A3%99%E9%80%A0%E5%9E%8B%23" target="weibo">
 Angelababy芭比粉短裙造型（热度：180998）
 </a>
@@ -1077,26 +1107,20 @@ Angelababy芭比粉短裙造型（热度：180998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%94%92%E4%BA%86%E5%A5%BD%E4%B9%85%E7%9A%84%E5%AE%9D%E8%B4%9D%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86%23" target="weibo">
+小猫咪攒了好久的宝贝被发现了（热度：173806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B8%9D%E7%88%B1%E5%B1%95%E7%A4%BA%E9%95%BF%E8%85%BF%E7%BF%BB%E8%BD%A6%23" target="weibo">
 大熊猫渝爱展示长腿翻车（热度：167115）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%94%92%E4%BA%86%E5%A5%BD%E4%B9%85%E7%9A%84%E5%AE%9D%E8%B4%9D%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86%23" target="weibo">
-小猫咪攒了好久的宝贝被发现了（热度：165091）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%88%B8%E7%88%B8%E5%86%B2%E5%A5%B6%E6%BB%A1%E7%9C%BC%E6%9C%9F%E5%BE%85%23" target="weibo">
 小宝宝看爸爸冲奶满眼期待（热度：162271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BA%AA%E8%AE%B0%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
-花溪记今日开播（热度：162025）
 </a>
 </li>
 
@@ -1157,6 +1181,12 @@ i人的新型无痛交友方式（热度：156395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%84%E5%A5%B3%E5%BA%A7%E5%A4%AA%E9%9C%80%E8%A6%81%E6%AD%A3%E5%90%91%E5%8F%8D%E9%A6%88%E4%BA%86%23" target="weibo">
 处女座太需要正向反馈了（热度：153126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%BC%91%E5%B9%B4%E5%81%873%E6%AE%B5%E6%97%85%E7%A8%8B%E6%95%913%E4%BA%BA%23" target="weibo">
+医生休年假3段旅程救3人（热度：151303）
 </a>
 </li>
 
@@ -1233,12 +1263,6 @@ Jennie芭莎十月刊封面大片（热度：149994）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%23" target="weibo">
-杭州亚运会开幕（热度：133502）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%88%B0%E5%91%BC%E5%96%8A40%E5%A4%9A%E4%BD%8D%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%86%B2%E6%9D%A5%E6%8A%AC%E8%BD%A6%E6%95%91%E4%BA%BA%23" target="weibo">
 听到呼喊40多位好心人冲来抬车救人（热度：132595）
 </a>
@@ -1253,12 +1277,6 @@ Jennie芭莎十月刊封面大片（热度：149994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E8%84%8A%E6%9F%B1%E9%94%99%E4%BD%8D%E4%B8%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%92%94%E5%90%A7%E4%B8%80%E5%A3%B0%E6%8E%A5%E5%9B%9E%23" target="weibo">
 小猫脊柱错位中医学生咔吧一声接回（热度：131172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8A%E5%B8%82%23" target="weibo">
-茅台巧克力上市（热度：130753）
 </a>
 </li>
 
@@ -1383,6 +1401,12 @@ Jennie芭莎十月刊封面大片（热度：149994）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%86%8B%E7%AC%91%E5%88%B0%E9%A2%A4%E6%8A%96%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
+憋笑到颤抖是什么体验（热度：77772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%83%B3%E6%8A%93%E7%B4%A7%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
 胡彦斌想抓紧谈恋爱了（热度：69133）
 </a>
@@ -1397,12 +1421,6 @@ Jennie芭莎十月刊封面大片（热度：149994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1360%E4%B8%87%E5%BC%80%E4%B8%AA%E9%9C%B2%E8%90%A5%E5%9C%B0%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
 花360万开个露营地能赚多少钱（热度：67732）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%86%8B%E7%AC%91%E5%88%B0%E9%A2%A4%E6%8A%96%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
-憋笑到颤抖是什么体验（热度：56624）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694853252817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10136248,
+        "num": 10136248,
+        "word": "官方通报袁冰妍偷逃税事件",
+        "onboard_time": 1694850516,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1232900,
+        "num": 1232900,
+        "word": "蜜雪冰城被曝喝出蜘蛛",
+        "onboard_time": 1694839233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9256,
+        "num": 865345,
+        "word": "2023年网络安全周云计算服务安全分论坛",
+        "onboard_time": 1694837074,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1854160,
+        "num": 861322,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 857114,
+        "num": 857114,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 604304,
+        "num": 604304,
+        "word": "亲爱的芙出轨只有0次和无数次",
+        "onboard_time": 1694849136,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 534196,
+        "num": 534196,
+        "word": "校方回应女老师与多名同事有不正当关系",
+        "onboard_time": 1694845650,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533484,
+        "num": 533484,
+        "word": "丑衣服都卖给了年轻时的我",
+        "onboard_time": 1694843973,
+        "rank": 7,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 474362,
+        "num": 474362,
+        "word": "教资科二",
+        "onboard_time": 1694848474,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 316645,
+        "num": 316645,
+        "word": "王耀庆因徐良淘汰哭了",
+        "onboard_time": 1694845650,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3104486,
+        "num": 316304,
+        "word": "袁冰妍偷逃税被追缴并罚款297万元",
+        "onboard_time": 1694851777,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 565806,
+        "num": 315683,
+        "word": "iPhone15Pro系列存在变色和吸指纹问题",
+        "onboard_time": 1694848115,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 478527,
+        "num": 314880,
+        "word": "迪丽热巴扛住了绿光",
+        "onboard_time": 1694846914,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429527,
+        "num": 314339,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174285,
+        "num": 313603,
+        "word": "大熊猫丁丁幼崽喝奶喝到哼唧",
+        "onboard_time": 1694850274,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 335274,
+        "num": 313242,
+        "word": "头牌主播 把价格抬上去再把低价垄断",
+        "onboard_time": 1694848716,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 312930,
+        "num": 312930,
+        "word": "茅台巧克力上市",
+        "onboard_time": 1694852321,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311090,
+        "num": 311090,
+        "word": "世界公认的长高动作",
+        "onboard_time": 1694848474,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 301391,
+        "num": 301391,
+        "word": "中国人自己的垫底辣妹",
+        "onboard_time": 1694848535,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181188,
+        "num": 277903,
+        "word": "杭州亚运会开幕",
+        "onboard_time": 1694852022,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151404,
+        "num": 264631,
+        "word": "教官让顺拐同学组成一个方队",
+        "onboard_time": 1694839175,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 415539,
+        "num": 264529,
+        "word": "高薪但不体面的职业",
+        "onboard_time": 1694849435,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262303,
+        "num": 262303,
+        "word": "戚薇拿捏了小学生花零花钱心理",
+        "onboard_time": 1694849076,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260562,
+        "num": 260562,
+        "word": "aespa与蟑螂的合作舞台",
+        "onboard_time": 1694843375,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241221,
+        "num": 241221,
+        "word": "花溪记今日开播",
+        "onboard_time": 1694851601,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57649,
+        "num": 238494,
+        "word": "当亚运会遇上中国风",
+        "onboard_time": 1694839233,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237163,
+        "num": 237163,
+        "word": "教资答案",
+        "onboard_time": 1694834135,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234995,
+        "num": 234995,
+        "word": "iPhone15实现了乔布斯的摄影设想",
+        "onboard_time": 1694845953,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231329,
+        "num": 231329,
+        "word": "曾舜晞雪重子原片",
+        "onboard_time": 1694839233,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207639,
+        "num": 207639,
+        "word": "女子高铁座位被占换回后遭3人殴打",
+        "onboard_time": 1694841934,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77772,
+        "num": 207049,
+        "word": "憋笑到颤抖是什么体验",
+        "onboard_time": 1694849675,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221981,
+        "num": 207045,
+        "word": "云之羽第22集封神",
+        "onboard_time": 1694843556,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207004,
+        "num": 207004,
+        "word": "陈乔恩连续七年晒照悼念乔任梁",
+        "onboard_time": 1694827233,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196535,
+        "num": 196535,
+        "word": "张凌赫谈云为衫身份暴露的剧情",
+        "onboard_time": 1694852682,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193166,
+        "num": 193166,
+        "word": "男子与情人通奸被其丈夫杀害",
+        "onboard_time": 1694843494,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194651,
+        "num": 191021,
+        "word": "被云之羽一张图虐哭",
+        "onboard_time": 1694850094,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173806,
+        "num": 173806,
+        "word": "小猫咪攒了好久的宝贝被发现了",
+        "onboard_time": 1694851417,
+        "rank": 36,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 167350,
+        "num": 167350,
+        "word": "徐良淘汰",
+        "onboard_time": 1694841695,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166133,
+        "num": 166133,
+        "word": "教资",
+        "onboard_time": 1694821229,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165193,
+        "num": 165193,
+        "word": "短道速滑",
+        "onboard_time": 1694850216,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164229,
+        "num": 164229,
+        "word": "跟老公冷战结果越睡越远",
+        "onboard_time": 1694839233,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160858,
+        "num": 160858,
+        "word": "陆毅鲍蕾各有各的累",
+        "onboard_time": 1694849614,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157110,
+        "num": 157110,
+        "word": "路边捡到10万块他毫不犹豫打了110",
+        "onboard_time": 1694850816,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155879,
+        "num": 155879,
+        "word": "桑代克 没背",
+        "onboard_time": 1694851117,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153886,
+        "num": 153886,
+        "word": "魏大勋李一桐新剧演情侣",
+        "onboard_time": 1694846675,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153038,
+        "num": 153038,
+        "word": "睡裙质子团子",
+        "onboard_time": 1694848474,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151303,
+        "num": 151303,
+        "word": "医生休年假3段旅程救3人",
+        "onboard_time": 1694853164,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133233,
+        "num": 133233,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122241,
+        "num": 133232,
+        "word": "就算说的是韩语也能看出是中国人",
+        "onboard_time": 1694844695,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 120192,
+        "num": 133221,
+        "word": "重庆首次将九价HPV疫苗纳入补贴",
+        "onboard_time": 1694847335,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中赞关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
