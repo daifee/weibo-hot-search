@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694891621074,
+  "endTime": 1694892829204,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27465,
+      "num": 38593,
+      "word": "边牧赶羊的时候真的好帅",
+      "onboard_time": 1694889377,
+      "rank": 35,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 27291,
       "num": 41698,
       "word": "周深用歌声点亮人间星河",
@@ -481,6 +489,14 @@
       "onboard_time": 1694889497,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21099,
+      "num": 37528,
+      "word": "养狗人的大型社死现场",
+      "onboard_time": 1694890335,
+      "rank": 48,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 14470,
