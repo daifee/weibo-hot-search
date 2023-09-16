@@ -1,0 +1,410 @@
+{
+  "runTime": 1694831638709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1385854,
+        "num": 1385854,
+        "word": "防空警报",
+        "onboard_time": 1694830295,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762591,
+        "num": 762591,
+        "word": "蜂花终身认养了一只大熊猫",
+        "onboard_time": 1694820806,
+        "rank": 1,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 32734,
+        "num": 719697,
+        "word": "杭州亚运会宣传片爱之城",
+        "onboard_time": 1694781815,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1887911,
+        "num": 716633,
+        "word": "郭敬明我恨你",
+        "onboard_time": 1694825734,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1251844,
+        "num": 716195,
+        "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+        "onboard_time": 1694820266,
+        "rank": 4,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 710596,
+        "num": 710596,
+        "word": "1元秒杀788元套餐到店被赶走",
+        "onboard_time": 1694828314,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 666515,
+        "num": 666515,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584637,
+        "num": 584637,
+        "word": "国内出现女性猴痘感染者",
+        "onboard_time": 1694828912,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583540,
+        "num": 583540,
+        "word": "曾舜晞 心如止水",
+        "onboard_time": 1694820266,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473332,
+        "num": 473332,
+        "word": "77岁大爷发明出久坐屁股不疼坐垫",
+        "onboard_time": 1694828072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1728098,
+        "num": 471957,
+        "word": "陈乔恩连续七年晒照悼念乔任梁",
+        "onboard_time": 1694827233,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605343,
+        "num": 466768,
+        "word": "郭敬明到底忽悠了多少人",
+        "onboard_time": 1694830534,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420322,
+        "num": 464032,
+        "word": "大熊猫公主融融已去世",
+        "onboard_time": 1694828733,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 245035,
+        "num": 461768,
+        "word": "英国正式将瓦格纳集团列为恐怖组织",
+        "onboard_time": 1694824772,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 186032,
+        "num": 456892,
+        "word": "过敏是因为免疫力差吗",
+        "onboard_time": 1694822310,
+        "rank": 14,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 456104,
+        "num": 456104,
+        "word": "法考凭什么被称为天下第一考",
+        "onboard_time": 1694825494,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401782,
+        "num": 401782,
+        "word": "离婚人数连续三年下降",
+        "onboard_time": 1694790401,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398001,
+        "num": 398001,
+        "word": "警方通报网传大连核辐射值超预期虚假信息",
+        "onboard_time": 1694829093,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385679,
+        "num": 385679,
+        "word": "肖战说不要把本人带入角色",
+        "onboard_time": 1694825315,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351505,
+        "num": 351505,
+        "word": "宫远徵第一次喊宫尚角",
+        "onboard_time": 1694830593,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1018269,
+        "num": 339914,
+        "word": "首批iPhone15Pro一分钟被抢光",
+        "onboard_time": 1694827834,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 397624,
+        "num": 339804,
+        "word": "找对象的尽头是高初中同学",
+        "onboard_time": 1694826575,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356013,
+        "num": 337944,
+        "word": "广东惠州一学校76名教师开学前遭解聘",
+        "onboard_time": 1694829754,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304708,
+        "num": 304708,
+        "word": "喊话李佳琦的医生称希望提高医生收入",
+        "onboard_time": 1694783976,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 304130,
+        "num": 304130,
+        "word": "黄奕上错花轿嫁对郎未曝光剧照",
+        "onboard_time": 1694822732,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287200,
+        "num": 287200,
+        "word": "李子柒露面",
+        "onboard_time": 1694783315,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 264756,
+        "num": 264756,
+        "word": "男子50岁得子起名后录不进系统",
+        "onboard_time": 1694829211,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252138,
+        "num": 252138,
+        "word": "乔任梁去世七周年",
+        "onboard_time": 1694827652,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242123,
+        "num": 242123,
+        "word": "6点半下班和9点半下班的区别",
+        "onboard_time": 1694827532,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223643,
+        "num": 223643,
+        "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+        "onboard_time": 1694822249,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474558,
+        "num": 223011,
+        "word": "金靖首次回应金繁倒立梗",
+        "onboard_time": 1694830231,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222327,
+        "num": 222327,
+        "word": "王嘉尔舞台已经是nextlevel",
+        "onboard_time": 1694827594,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197771,
+        "num": 197771,
+        "word": "迪丽热巴赵又廷再同框",
+        "onboard_time": 1694821588,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196410,
+        "num": 196410,
+        "word": "剧说很好看骄阳伴我专场",
+        "onboard_time": 1694830593,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187132,
+        "num": 187132,
+        "word": "蔡少芬贾静雯 相爱相杀好姐妹",
+        "onboard_time": 1694827713,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173728,
+        "num": 173728,
+        "word": "医院院长自曝受贿买8车7房",
+        "onboard_time": 1694821468,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167261,
+        "num": 167261,
+        "word": "内地音乐性最强的音综都有哪些",
+        "onboard_time": 1694828615,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163958,
+        "num": 163958,
+        "word": "7岁女童骑车从路口窜出不幸被撞身亡",
+        "onboard_time": 1694821708,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 160530,
+        "num": 160530,
+        "word": "曾舜晞多愁公子再现江湖",
+        "onboard_time": 1694822971,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151892,
+        "num": 151892,
+        "word": "山东地名兖州怎么读",
+        "onboard_time": 1694828013,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149915,
+        "num": 149915,
+        "word": "36岁退伍老兵入学被认成学生家长",
+        "onboard_time": 1694831312,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144426,
+        "num": 144426,
+        "word": "美国一球赛现逼真机器人吓坏球迷",
+        "onboard_time": 1694825133,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139998,
+        "num": 139998,
+        "word": "成语一鸣惊人说的是谁",
+        "onboard_time": 1694829754,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136299,
+        "num": 136299,
+        "word": "五月天隔空祝福蔡依林",
+        "onboard_time": 1694825852,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134013,
+        "num": 134013,
+        "word": "现在的猫罐越做越离谱了",
+        "onboard_time": 1694828615,
+        "rank": 44,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 133252,
+        "num": 133252,
+        "word": "年少时光今日开播",
+        "onboard_time": 1694829754,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130120,
+        "num": 130120,
+        "word": "陆毅演我写简历",
+        "onboard_time": 1694823992,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129791,
+        "num": 129791,
+        "word": "原神",
+        "onboard_time": 1694828372,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123868,
+        "num": 123868,
+        "word": "路人拍的王珞丹",
+        "onboard_time": 1694824954,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115732,
+        "num": 115732,
+        "word": "比利时要求苹果在欧盟各国更新iPhone12软件",
+        "onboard_time": 1694824594,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中赞关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}

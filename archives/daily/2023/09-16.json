@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694830817020,
+  "endTime": 1694831638709,
   "band_list": [
     {
       "raw_hot": 2082238,
@@ -27,20 +27,20 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 1728098,
+      "num": 472931,
+      "word": "陈乔恩连续七年晒照悼念乔任梁",
+      "onboard_time": 1694827233,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1724928,
       "num": 475952,
       "word": "李子柒露面",
       "onboard_time": 1694783315,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1719738,
-      "num": 472931,
-      "word": "陈乔恩连续七年晒照悼念乔任梁",
-      "onboard_time": 1694827233,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1669865,
@@ -67,6 +67,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1385854,
+      "num": 1385854,
+      "word": "防空警报",
+      "onboard_time": 1694830295,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1352339,
       "num": 1352339,
       "word": "离婚人数连续三年下降",
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1018269,
+      "num": 339914,
+      "word": "首批iPhone15Pro一分钟被抢光",
+      "onboard_time": 1694827834,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 953454,
       "num": 257890,
       "word": "为什么接吻会下意识闭眼",
       "onboard_time": 1694788061,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 861477,
-      "num": 319411,
-      "word": "首批iPhone15Pro一分钟被抢光",
-      "onboard_time": 1694827834,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 850805,
@@ -131,20 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 701913,
-      "num": 701913,
+      "raw_hot": 710596,
+      "num": 710596,
       "word": "1元秒杀788元套餐到店被赶走",
       "onboard_time": 1694828314,
       "rank": 11,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 671780,
-      "num": 671780,
-      "word": "防空警报",
-      "onboard_time": 1694830295,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653751,
@@ -153,6 +153,14 @@
       "onboard_time": 1694825494,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 605343,
+      "num": 466768,
+      "word": "郭敬明到底忽悠了多少人",
+      "onboard_time": 1694830534,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 598903,
@@ -179,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 584637,
+      "num": 584637,
+      "word": "国内出现女性猴痘感染者",
+      "onboard_time": 1694828912,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582448,
       "num": 582448,
       "word": "黄奕上错花轿嫁对郎未曝光剧照",
@@ -187,16 +203,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 547638,
-      "num": 313023,
-      "word": "国内出现女性猴痘感染者",
-      "onboard_time": 1694828912,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 518970,
-      "num": 307565,
+      "num": 339804,
       "word": "找对象的尽头是高初中同学",
       "onboard_time": 1694826575,
       "rank": 20,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474558,
+      "num": 229016,
+      "word": "金靖首次回应金繁倒立梗",
+      "onboard_time": 1694830231,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470630,
       "num": 470630,
       "word": "英国正式将瓦格纳集团列为恐怖组织",
@@ -236,11 +252,19 @@
     },
     {
       "raw_hot": 432948,
-      "num": 432948,
+      "num": 456892,
       "word": "过敏是因为免疫力差吗",
       "onboard_time": 1694822310,
       "rank": 13,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 420322,
+      "num": 464032,
+      "word": "大熊猫公主融融已去世",
+      "onboard_time": 1694828733,
+      "rank": 13,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 418227,
@@ -249,14 +273,6 @@
       "onboard_time": 1694822371,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414020,
-      "num": 414020,
-      "word": "大熊猫公主融融已去世",
-      "onboard_time": 1694828733,
-      "rank": 13,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 402439,
@@ -273,6 +289,14 @@
       "onboard_time": 1694761892,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398001,
+      "num": 398001,
+      "word": "警方通报网传大连核辐射值超预期虚假信息",
+      "onboard_time": 1694829093,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389543,
@@ -315,11 +339,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340229,
-      "num": 229016,
-      "word": "金靖首次回应金繁倒立梗",
-      "onboard_time": 1694830231,
-      "rank": 30,
+      "raw_hot": 356013,
+      "num": 337944,
+      "word": "广东惠州一学校76名教师开学前遭解聘",
+      "onboard_time": 1694829754,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351505,
+      "num": 351505,
+      "word": "宫远徵第一次喊宫尚角",
+      "onboard_time": 1694830593,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -329,14 +361,6 @@
       "onboard_time": 1694779117,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 331855,
-      "num": 331855,
-      "word": "警方通报网传大连核辐射值超预期虚假信息",
-      "onboard_time": 1694829093,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331839,
@@ -353,14 +377,6 @@
       "onboard_time": 1694789020,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328999,
-      "num": 304627,
-      "word": "广东惠州一学校76名教师开学前遭解聘",
-      "onboard_time": 1694829754,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328799,
@@ -579,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196410,
+      "num": 196410,
+      "word": "剧说很好看骄阳伴我专场",
+      "onboard_time": 1694830593,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195548,
       "num": 195548,
       "word": "法考",
@@ -593,14 +617,6 @@
       "onboard_time": 1694828013,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192309,
-      "num": 192309,
-      "word": "郭敬明到底忽悠了多少人",
-      "onboard_time": 1694830534,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 191415,
@@ -627,14 +643,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 188157,
-      "num": 188157,
-      "word": "剧说很好看骄阳伴我专场",
-      "onboard_time": 1694830593,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188007,
       "num": 188007,
       "word": "吴昕再去也已是嘉宾",
@@ -649,14 +657,6 @@
       "onboard_time": 1694787219,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187532,
-      "num": 187532,
-      "word": "宫远徵第一次喊宫尚角",
-      "onboard_time": 1694830593,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 187177,
@@ -777,6 +777,14 @@
       "onboard_time": 1694779538,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 149915,
+      "num": 149915,
+      "word": "36岁退伍老兵入学被认成学生家长",
+      "onboard_time": 1694831312,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146829,
