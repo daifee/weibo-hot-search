@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694882106306,
+  "endTime": 1694884407048,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -25,6 +25,14 @@
       "onboard_time": 1694876380,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 675220,
+      "num": 675220,
+      "word": "袁冰妍偷逃税罚款超430万",
+      "onboard_time": 1694868337,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 674937,
@@ -57,14 +65,6 @@
       "onboard_time": 1694867076,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 603661,
-      "num": 598678,
-      "word": "袁冰妍偷逃税罚款超430万",
-      "onboard_time": 1694868337,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 542015,
@@ -121,6 +121,14 @@
       "onboard_time": 1694873434,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 371932,
+      "num": 371932,
+      "word": "江苏9年级化学课本出现高猛酸钾",
+      "onboard_time": 1694881290,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 355329,
@@ -323,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151325,
-      "num": 151325,
-      "word": "江苏9年级化学课本出现高猛酸钾",
-      "onboard_time": 1694881290,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 149055,
       "num": 149055,
       "word": "洗完衣服把洗衣机都洗吐了",
@@ -403,10 +403,34 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 105580,
+      "num": 105580,
+      "word": "万茜你好疯子",
+      "onboard_time": 1694884283,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93041,
       "num": 119417,
       "word": "成毅曾舜晞肖顺尧彩排舞台",
       "onboard_time": 1694855806,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83687,
+      "num": 83687,
+      "word": "宫门是龙浒山实锤了",
+      "onboard_time": 1694883025,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70881,
+      "num": 80295,
+      "word": "虞书欣为云为衫跳了一支舞",
+      "onboard_time": 1694854478,
       "rank": 49,
       "category": "剧集"
     },
