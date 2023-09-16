@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694826561220,
+  "endTime": 1694827748541,
   "band_list": [
     {
       "raw_hot": 1975799,
@@ -8,6 +8,14 @@
       "word": "云之羽 稀巴烂",
       "onboard_time": 1694787159,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1835992,
+      "num": 846550,
+      "word": "郭敬明我恨你",
+      "onboard_time": 1694825734,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1724928,
-      "num": 462710,
+      "num": 475952,
       "word": "李子柒露面",
       "onboard_time": 1694783315,
       "rank": 10,
@@ -83,14 +91,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 790824,
-      "num": 790824,
-      "word": "郭敬明我恨你",
-      "onboard_time": 1694825734,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 769626,
       "num": 497055,
       "word": "警方通报一女子小区内被伤害身亡",
@@ -107,12 +107,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 669066,
-      "num": 669066,
+      "raw_hot": 715114,
+      "num": 715114,
       "word": "曾舜晞 心如止水",
       "onboard_time": 1694820266,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 599416,
+      "num": 599416,
+      "word": "法考凭什么被称为天下第一考",
+      "onboard_time": 1694825494,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 598903,
@@ -147,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518970,
+      "num": 278534,
+      "word": "找对象的尽头是高初中同学",
+      "onboard_time": 1694826575,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 490411,
       "num": 490411,
       "word": "东方时尚董事长被逮捕",
@@ -155,12 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469194,
-      "num": 469194,
+      "raw_hot": 470630,
+      "num": 470630,
       "word": "英国正式将瓦格纳集团列为恐怖组织",
       "onboard_time": 1694824772,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 445045,
+      "num": 445045,
+      "word": "陈乔恩连续七年晒照悼念乔任梁",
+      "onboard_time": 1694827233,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 443554,
@@ -171,8 +195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425119,
-      "num": 425119,
+      "raw_hot": 432948,
+      "num": 432948,
       "word": "过敏是因为免疫力差吗",
       "onboard_time": 1694822310,
       "rank": 13,
@@ -187,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403104,
-      "num": 403104,
-      "word": "法考凭什么被称为天下第一考",
-      "onboard_time": 1694825494,
-      "rank": 16,
-      "category": "教育"
+      "raw_hot": 402439,
+      "num": 311367,
+      "word": "医院院长自曝受贿买8车7房",
+      "onboard_time": 1694821468,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401531,
@@ -233,14 +257,6 @@
       "onboard_time": 1694782598,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337154,
-      "num": 311367,
-      "word": "医院院长自曝受贿买8车7房",
-      "onboard_time": 1694821468,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335162,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 305553,
-      "num": 207927,
+      "num": 279975,
       "word": "美国一球赛现逼真机器人吓坏球迷",
       "onboard_time": 1694825133,
       "rank": 30,
@@ -379,20 +395,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230099,
+      "num": 230099,
+      "word": "五月天隔空祝福蔡依林",
+      "onboard_time": 1694825852,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 222131,
       "num": 222131,
       "word": "黄景瑜张婧仪新剧的cp感",
       "onboard_time": 1694792739,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218625,
-      "num": 218625,
-      "word": "五月天隔空祝福蔡依林",
-      "onboard_time": 1694825852,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 215335,
@@ -433,6 +449,14 @@
       "onboard_time": 1694779776,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195548,
+      "num": 195548,
+      "word": "法考",
+      "onboard_time": 1694826995,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 188378,
@@ -491,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178376,
+      "num": 178376,
+      "word": "6点半下班和9点半下班的区别",
+      "onboard_time": 1694827532,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167115,
       "num": 167115,
       "word": "大熊猫渝爱展示长腿翻车",
@@ -515,8 +547,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 156232,
-      "num": 156232,
+      "raw_hot": 161681,
+      "num": 161681,
       "word": "角宫的杜鹃花开了",
       "onboard_time": 1694823452,
       "rank": 34,
@@ -627,6 +659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134327,
+      "num": 134327,
+      "word": "蔡少芬贾静雯 相爱相杀好姐妹",
+      "onboard_time": 1694827713,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133776,
+      "num": 133776,
+      "word": "大学为轮椅男孩贴心改造宿舍厕所和床铺",
+      "onboard_time": 1694827174,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 132214,
       "num": 132214,
       "word": "李玖哲因公司拒绝而错过我是歌手",
@@ -643,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128532,
+      "num": 128532,
+      "word": "王嘉尔舞台已经是nextlevel",
+      "onboard_time": 1694827594,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125871,
       "num": 125871,
       "word": "不后悔 但不会再这么做了",
@@ -651,12 +707,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121610,
+      "num": 121610,
+      "word": "腿长在自己身上走哪条路自己决定",
+      "onboard_time": 1694827713,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120868,
       "num": 120868,
       "word": "睡睡 张硕",
       "onboard_time": 1694779177,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116093,
+      "num": 118243,
+      "word": "乔任梁去世七周年",
+      "onboard_time": 1694827652,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 115710,
