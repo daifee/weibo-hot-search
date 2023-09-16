@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694898813481,
+  "endTime": 1694900021344,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -41347,6 +41347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48162,
+      "num": 37314,
+      "word": "当理解了女儿她就不再是孤军奋战",
+      "onboard_time": 1694894894,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 47892,
       "num": 55012,
       "word": "广西崇左3.3级地震",
@@ -41433,14 +41441,6 @@
       "onboard_time": 1693851317,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 45216,
-      "num": 33666,
-      "word": "当理解了女儿她就不再是孤军奋战",
-      "onboard_time": 1694894894,
-      "rank": 42,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 44937,
@@ -42657,6 +42657,14 @@
       "onboard_time": 1693773853,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15220,
+      "num": 15220,
+      "word": "主人带柯基去庙里收惊",
+      "onboard_time": 1694899815,
+      "rank": 49,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 14795,

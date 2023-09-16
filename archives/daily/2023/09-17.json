@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694898813481,
+  "endTime": 1694900021344,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -451,8 +451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45216,
-      "num": 33666,
+      "raw_hot": 48162,
+      "num": 37314,
       "word": "当理解了女儿她就不再是孤军奋战",
       "onboard_time": 1694894894,
       "rank": 42,
@@ -504,6 +504,14 @@
       "word": "养狗人的大型社死现场",
       "onboard_time": 1694890335,
       "rank": 48,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 15220,
+      "num": 15220,
+      "word": "主人带柯基去庙里收惊",
+      "onboard_time": 1694899815,
+      "rank": 49,
       "category": "动物萌宠"
     },
     {
