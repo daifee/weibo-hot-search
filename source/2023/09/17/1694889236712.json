@@ -1,0 +1,410 @@
+{
+  "runTime": 1694889236712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230085,
+        "num": 230085,
+        "word": "金博洋分数",
+        "onboard_time": 1694886320,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468001,
+        "num": 229465,
+        "word": "袁冰妍偷逃税罚款超430万",
+        "onboard_time": 1694868337,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 5417,
+        "num": 228135,
+        "word": "大国技能群英荟",
+        "onboard_time": 1694857237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227164,
+        "num": 227164,
+        "word": "断崖式的衰老是在几岁",
+        "onboard_time": 1694867076,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212214,
+        "num": 212214,
+        "word": "12306车票候补的正确方法",
+        "onboard_time": 1694877635,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 161098,
+        "num": 161098,
+        "word": "江苏9年级化学课本出现高猛酸钾",
+        "onboard_time": 1694881290,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 158489,
+        "num": 158489,
+        "word": "知情人称母子坠楼案2孩子是被扔下楼",
+        "onboard_time": 1694874942,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151349,
+        "num": 151349,
+        "word": "才知道蜜雪冰城曾经是个餐馆",
+        "onboard_time": 1694873620,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121480,
+        "num": 121480,
+        "word": "郑恺亲吻鼓励苗苗",
+        "onboard_time": 1694876380,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111973,
+        "num": 111973,
+        "word": "白猫直播间的主播是一只白猫",
+        "onboard_time": 1694873080,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120854,
+        "num": 111123,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105995,
+        "num": 105995,
+        "word": "男子讨要彩礼未果将女方砍伤致死",
+        "onboard_time": 1694874820,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88450,
+        "num": 104702,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 47000,
+        "num": 104372,
+        "word": "人民网评袁某某偷逃税是洗不白的",
+        "onboard_time": 1694859879,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 35703,
+        "num": 104215,
+        "word": "酒店人员邀请环卫工们进屋避雨",
+        "onboard_time": 1694858204,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 104158,
+        "num": 104158,
+        "word": "曾舜晞queencard 方多病拦出租车",
+        "onboard_time": 1694869603,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90311,
+        "num": 90311,
+        "word": "考研女生未吃早饭晕倒众人扶起送零食",
+        "onboard_time": 1694876439,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90952,
+        "num": 88115,
+        "word": "陈都灵舞台",
+        "onboard_time": 1694867915,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81591,
+        "num": 81591,
+        "word": "李荣浩已有十年模特经验",
+        "onboard_time": 1694873434,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78784,
+        "num": 78784,
+        "word": "帕梅拉 我健身这十年",
+        "onboard_time": 1694871457,
+        "rank": 19,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 133006,
+        "num": 78678,
+        "word": "如何用50天瘦16斤",
+        "onboard_time": 1694879916,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 93382,
+        "num": 77475,
+        "word": "不要经常用手挖鼻孔",
+        "onboard_time": 1694874163,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86742,
+        "num": 75655,
+        "word": "原来工资日薪是这样算的",
+        "onboard_time": 1694871578,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 85384,
+        "num": 74557,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81145,
+        "num": 73782,
+        "word": "原来性骚扰如此简单",
+        "onboard_time": 1694874942,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73465,
+        "num": 73465,
+        "word": "莲花楼直播",
+        "onboard_time": 1694865758,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73235,
+        "num": 73235,
+        "word": "蔡依林玻璃蝴蝶套装",
+        "onboard_time": 1694875958,
+        "rank": 26,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 65469,
+        "num": 65469,
+        "word": "云之羽隐藏结局",
+        "onboard_time": 1694858801,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64245,
+        "num": 64245,
+        "word": "日媒曝羽生结弦老婆身份",
+        "onboard_time": 1694854237,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59356,
+        "num": 59356,
+        "word": "华晨宇回应开巡演能否回本",
+        "onboard_time": 1694877578,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178269,
+        "num": 59115,
+        "word": "李佳琦吹羽毛二创视频",
+        "onboard_time": 1694861318,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58635,
+        "num": 58635,
+        "word": "女孩乘电梯多次被陌生女子取消楼层",
+        "onboard_time": 1694872479,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57207,
+        "num": 57207,
+        "word": "万茜你好疯子",
+        "onboard_time": 1694884283,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54516,
+        "num": 54516,
+        "word": "LVMH高层现身刘雨昕上海演唱会",
+        "onboard_time": 1694872419,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53525,
+        "num": 53525,
+        "word": "洗完衣服把洗衣机都洗吐了",
+        "onboard_time": 1694874099,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48786,
+        "num": 48786,
+        "word": "尝试戒掉咖啡的韩国人",
+        "onboard_time": 1694868337,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47630,
+        "num": 48786,
+        "word": "刘惜君首唱的新歌是薛之谦写的",
+        "onboard_time": 1694873917,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45796,
+        "num": 48780,
+        "word": "当男友说拍了张水下唯美照",
+        "onboard_time": 1694880933,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45590,
+        "num": 48779,
+        "word": "电视剧斗罗大陆2杀青",
+        "onboard_time": 1694873978,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42758,
+        "num": 48775,
+        "word": "如何评价徐良被淘汰",
+        "onboard_time": 1694876078,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42586,
+        "num": 48775,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 37180,
+        "num": 48770,
+        "word": "XYG战胜MTG",
+        "onboard_time": 1694879498,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36974,
+        "num": 48769,
+        "word": "无锡太湖音乐节",
+        "onboard_time": 1694879856,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36973,
+        "num": 48766,
+        "word": "宫门是龙浒山实锤了",
+        "onboard_time": 1694883025,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36714,
+        "num": 48763,
+        "word": "汪苏泷感受到了伍佰的快乐",
+        "onboard_time": 1694870738,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36505,
+        "num": 48760,
+        "word": "张柏芝从香港坐高铁到郴州",
+        "onboard_time": 1694869717,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34405,
+        "num": 48756,
+        "word": "我们的歌",
+        "onboard_time": 1694878417,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34328,
+        "num": 48754,
+        "word": "曼联vs布莱顿",
+        "onboard_time": 1694874877,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33577,
+        "num": 48750,
+        "word": "虞书欣为云为衫跳了一支舞",
+        "onboard_time": 1694854478,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33431,
+        "num": 48749,
+        "word": "胡夏说希望莲花楼2赶快与我们相见",
+        "onboard_time": 1694870377,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中国家群体性崛起已成时代潮流#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694888372502,
+  "endTime": 1694889236712,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -235,8 +235,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227348,
-      "num": 227348,
+      "raw_hot": 230085,
+      "num": 230085,
       "word": "金博洋分数",
       "onboard_time": 1694886320,
       "rank": 3,
