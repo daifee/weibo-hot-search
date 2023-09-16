@@ -1,0 +1,410 @@
+{
+  "runTime": 1694826561220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669865,
+        "num": 1669865,
+        "word": "蜂花终身认养了一只大熊猫",
+        "onboard_time": 1694820806,
+        "rank": 0,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 1097608,
+        "num": 1097608,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49612,
+        "num": 1001076,
+        "word": "杭州亚运会宣传片爱之城",
+        "onboard_time": 1694781815,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1800396,
+        "num": 997622,
+        "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+        "onboard_time": 1694820266,
+        "rank": 3,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 974246,
+        "num": 974246,
+        "word": "离婚人数连续三年下降",
+        "onboard_time": 1694790401,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790824,
+        "num": 790824,
+        "word": "郭敬明我恨你",
+        "onboard_time": 1694825734,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669066,
+        "num": 669066,
+        "word": "曾舜晞 心如止水",
+        "onboard_time": 1694820266,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591552,
+        "num": 591552,
+        "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+        "onboard_time": 1694822249,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 582448,
+        "num": 582448,
+        "word": "黄奕上错花轿嫁对郎未曝光剧照",
+        "onboard_time": 1694822732,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469194,
+        "num": 469194,
+        "word": "英国正式将瓦格纳集团列为恐怖组织",
+        "onboard_time": 1694824772,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 787429,
+        "num": 462710,
+        "word": "李子柒露面",
+        "onboard_time": 1694783315,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 510414,
+        "num": 460680,
+        "word": "喊话李佳琦的医生称希望提高医生收入",
+        "onboard_time": 1694783976,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 443554,
+        "num": 443554,
+        "word": "肖战说不要把本人带入角色",
+        "onboard_time": 1694825315,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425119,
+        "num": 425119,
+        "word": "过敏是因为免疫力差吗",
+        "onboard_time": 1694822310,
+        "rank": 13,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 249628,
+        "num": 418395,
+        "word": "警方通报一女子小区内被伤害身亡",
+        "onboard_time": 1694790160,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418227,
+        "num": 418227,
+        "word": "大爷接诈骗电话因声音太大被及时制止",
+        "onboard_time": 1694822371,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403104,
+        "num": 403104,
+        "word": "法考凭什么被称为天下第一考",
+        "onboard_time": 1694825494,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331839,
+        "num": 331839,
+        "word": "曾舜晞多愁公子再现江湖",
+        "onboard_time": 1694822971,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320817,
+        "num": 320817,
+        "word": "李在明绝食第16天健康已非常危险",
+        "onboard_time": 1694790759,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 295200,
+        "num": 311536,
+        "word": "迪丽热巴赵又廷再同框",
+        "onboard_time": 1694821588,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337154,
+        "num": 311367,
+        "word": "医院院长自曝受贿买8车7房",
+        "onboard_time": 1694821468,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310428,
+        "num": 310428,
+        "word": "路人拍的王珞丹",
+        "onboard_time": 1694824954,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305582,
+        "num": 305582,
+        "word": "7岁女童骑车从路口窜出不幸被撞身亡",
+        "onboard_time": 1694821708,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 266926,
+        "num": 266926,
+        "word": "吴昕说恋爱没百分百确定别骚扰家长",
+        "onboard_time": 1694819363,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253557,
+        "num": 253557,
+        "word": "陆毅演我写简历",
+        "onboard_time": 1694823992,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251564,
+        "num": 251564,
+        "word": "比利时要求苹果在欧盟各国更新iPhone12软件",
+        "onboard_time": 1694824594,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222347,
+        "num": 222347,
+        "word": "余华 我怎会写得那么好",
+        "onboard_time": 1694789020,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218681,
+        "num": 218681,
+        "word": "为什么父母辈从不因为工作而内耗",
+        "onboard_time": 1694787999,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218625,
+        "num": 218625,
+        "word": "五月天隔空祝福蔡依林",
+        "onboard_time": 1694825852,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208966,
+        "num": 208966,
+        "word": "隐翅虫",
+        "onboard_time": 1694823753,
+        "rank": 29,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 305553,
+        "num": 207927,
+        "word": "美国一球赛现逼真机器人吓坏球迷",
+        "onboard_time": 1694825133,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184074,
+        "num": 184074,
+        "word": "女生称因爱抠鼻子致鼻内长10多团真菌",
+        "onboard_time": 1694785658,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177031,
+        "num": 177031,
+        "word": "蜂花老总的头发用事实证明",
+        "onboard_time": 1694783917,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167115,
+        "num": 167115,
+        "word": "大熊猫渝爱展示长腿翻车",
+        "onboard_time": 1694823511,
+        "rank": 33,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 156232,
+        "num": 156232,
+        "word": "角宫的杜鹃花开了",
+        "onboard_time": 1694823452,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155918,
+        "num": 155918,
+        "word": "教资",
+        "onboard_time": 1694821229,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153479,
+        "num": 153479,
+        "word": "历史书太小装不下他们的伟大",
+        "onboard_time": 1694826033,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153008,
+        "num": 153008,
+        "word": "教资作文",
+        "onboard_time": 1694823394,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146050,
+        "num": 146050,
+        "word": "宫紫商金繁大声密谋被宫远徵抓包",
+        "onboard_time": 1694823931,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142901,
+        "num": 142901,
+        "word": "华为手机可以将Excel照片转换为文件",
+        "onboard_time": 1694785478,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141775,
+        "num": 141775,
+        "word": "九旬老人被困厕所被救后失声痛哭",
+        "onboard_time": 1694823331,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134443,
+        "num": 134443,
+        "word": "云之羽打戏像农民伯伯砍草",
+        "onboard_time": 1694820685,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131172,
+        "num": 131172,
+        "word": "小猫脊柱错位中医学生咔吧一声接回",
+        "onboard_time": 1694823092,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120855,
+        "num": 120855,
+        "word": "蒲熠星 原来焦虑也意味着自由",
+        "onboard_time": 1694787219,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120003,
+        "num": 120003,
+        "word": "文咏珊被正式确诊为文勇扇",
+        "onboard_time": 1694776413,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118839,
+        "num": 118839,
+        "word": "云之羽结局",
+        "onboard_time": 1694780316,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114148,
+        "num": 114148,
+        "word": "张翰将出演如梦之梦",
+        "onboard_time": 1694784339,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114106,
+        "num": 114106,
+        "word": "重庆地铁回应老人乘背篓专线卖菜",
+        "onboard_time": 1694821408,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109825,
+        "num": 109825,
+        "word": "我国第23个全民国防教育日",
+        "onboard_time": 1694826332,
+        "rank": 48,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 108797,
+        "num": 108797,
+        "word": "为什么饮水机都是装在厕所门口",
+        "onboard_time": 1694783376,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进祖国统一大业不断贡献青春力量#"
+    }
+  }
+}

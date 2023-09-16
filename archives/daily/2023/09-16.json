@@ -1,22 +1,38 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694820836755,
+  "endTime": 1694826561220,
   "band_list": [
     {
       "raw_hot": 1975799,
-      "num": 543887,
+      "num": 1097608,
       "word": "云之羽 稀巴烂",
       "onboard_time": 1694787159,
       "rank": 3,
       "category": "剧集"
     },
     {
+      "raw_hot": 1800396,
+      "num": 997622,
+      "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+      "onboard_time": 1694820266,
+      "rank": 30,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 1724928,
-      "num": 373468,
+      "num": 462710,
       "word": "李子柒露面",
       "onboard_time": 1694783315,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1669865,
+      "num": 1669865,
+      "word": "蜂花终身认养了一只大熊猫",
+      "onboard_time": 1694820806,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1490218,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1411921,
-      "num": 365647,
+      "num": 460680,
       "word": "喊话李佳琦的医生称希望提高医生收入",
       "onboard_time": 1694783976,
       "rank": 11,
@@ -67,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 790824,
+      "num": 790824,
+      "word": "郭敬明我恨你",
+      "onboard_time": 1694825734,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 769626,
       "num": 497055,
       "word": "警方通报一女子小区内被伤害身亡",
@@ -83,12 +107,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 669066,
+      "num": 669066,
+      "word": "曾舜晞 心如止水",
+      "onboard_time": 1694820266,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 598903,
       "num": 490462,
       "word": "云之羽给曾舜晞P了刘海",
       "onboard_time": 1694782960,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 591552,
+      "num": 591552,
+      "word": "北极鲶鱼核查不予公开是否为权力的傲慢",
+      "onboard_time": 1694822249,
+      "rank": 7,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 589638,
@@ -99,12 +139,60 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 582448,
+      "num": 582448,
+      "word": "黄奕上错花轿嫁对郎未曝光剧照",
+      "onboard_time": 1694822732,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 490411,
       "num": 490411,
       "word": "东方时尚董事长被逮捕",
       "onboard_time": 1694792079,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469194,
+      "num": 469194,
+      "word": "英国正式将瓦格纳集团列为恐怖组织",
+      "onboard_time": 1694824772,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 443554,
+      "num": 443554,
+      "word": "肖战说不要把本人带入角色",
+      "onboard_time": 1694825315,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425119,
+      "num": 425119,
+      "word": "过敏是因为免疫力差吗",
+      "onboard_time": 1694822310,
+      "rank": 13,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 418227,
+      "num": 418227,
+      "word": "大爷接诈骗电话因声音太大被及时制止",
+      "onboard_time": 1694822371,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403104,
+      "num": 403104,
+      "word": "法考凭什么被称为天下第一考",
+      "onboard_time": 1694825494,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 401531,
@@ -147,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350800,
-      "num": 350800,
-      "word": "曾舜晞 心如止水",
-      "onboard_time": 1694820266,
-      "rank": 7,
-      "category": "作品衍生"
+      "raw_hot": 337154,
+      "num": 311367,
+      "word": "医院院长自曝受贿买8车7房",
+      "onboard_time": 1694821468,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335162,
@@ -161,6 +249,14 @@
       "onboard_time": 1694779117,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 331839,
+      "num": 331839,
+      "word": "曾舜晞多愁公子再现江湖",
+      "onboard_time": 1694822971,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 331727,
@@ -179,12 +275,44 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 310428,
+      "num": 310428,
+      "word": "路人拍的王珞丹",
+      "onboard_time": 1694824954,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305582,
+      "num": 305582,
+      "word": "7岁女童骑车从路口窜出不幸被撞身亡",
+      "onboard_time": 1694821708,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 305553,
+      "num": 207927,
+      "word": "美国一球赛现逼真机器人吓坏球迷",
+      "onboard_time": 1694825133,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301467,
       "num": 301467,
       "word": "张翰将出演如梦之梦",
       "onboard_time": 1694784339,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 295200,
+      "num": 311536,
+      "word": "迪丽热巴赵又廷再同框",
+      "onboard_time": 1694821588,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 266889,
@@ -211,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253557,
+      "num": 253557,
+      "word": "陆毅演我写简历",
+      "onboard_time": 1694823992,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 251564,
+      "num": 251564,
+      "word": "比利时要求苹果在欧盟各国更新iPhone12软件",
+      "onboard_time": 1694824594,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 249886,
       "num": 229061,
       "word": "Angelababy说想学我做的腌水果",
@@ -235,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225069,
-      "num": 121445,
-      "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
-      "onboard_time": 1694820266,
-      "rank": 30,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 222131,
       "num": 222131,
       "word": "黄景瑜张婧仪新剧的cp感",
@@ -251,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221531,
-      "num": 121397,
-      "word": "蜂花终身认养了一只大熊猫",
-      "onboard_time": 1694820806,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 218625,
+      "num": 218625,
+      "word": "五月天隔空祝福蔡依林",
+      "onboard_time": 1694825852,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 215335,
@@ -265,6 +401,14 @@
       "onboard_time": 1694788838,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208966,
+      "num": 208966,
+      "word": "隐翅虫",
+      "onboard_time": 1694823753,
+      "rank": 29,
+      "category": "知识科普"
     },
     {
       "raw_hot": 204296,
@@ -347,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167115,
+      "num": 167115,
+      "word": "大熊猫渝爱展示长腿翻车",
+      "onboard_time": 1694823511,
+      "rank": 33,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 162271,
       "num": 228084,
       "word": "小宝宝看爸爸冲奶满眼期待",
@@ -363,6 +515,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 156232,
+      "num": 156232,
+      "word": "角宫的杜鹃花开了",
+      "onboard_time": 1694823452,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155918,
+      "num": 155918,
+      "word": "教资",
+      "onboard_time": 1694821229,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154124,
       "num": 154124,
       "word": "为什么饮水机都是装在厕所门口",
@@ -371,12 +539,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153479,
+      "num": 153479,
+      "word": "历史书太小装不下他们的伟大",
+      "onboard_time": 1694826033,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153126,
       "num": 153126,
       "word": "处女座太需要正向反馈了",
       "onboard_time": 1694786024,
       "rank": 36,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 153008,
+      "num": 153008,
+      "word": "教资作文",
+      "onboard_time": 1694823394,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 149994,
@@ -395,6 +579,14 @@
       "category": "社会议题,网红"
     },
     {
+      "raw_hot": 146050,
+      "num": 146050,
+      "word": "宫紫商金繁大声密谋被宫远徵抓包",
+      "onboard_time": 1694823931,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144491,
       "num": 345386,
       "word": "姚明感慨回忆与易建联初相遇",
@@ -411,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141775,
+      "num": 141775,
+      "word": "九旬老人被困厕所被救后失声痛哭",
+      "onboard_time": 1694823331,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138697,
       "num": 138697,
       "word": "打工人时期的肖战",
@@ -419,12 +619,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134443,
+      "num": 134443,
+      "word": "云之羽打戏像农民伯伯砍草",
+      "onboard_time": 1694820685,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132214,
       "num": 132214,
       "word": "李玖哲因公司拒绝而错过我是歌手",
       "onboard_time": 1694777974,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131172,
+      "num": 131172,
+      "word": "小猫脊柱错位中医学生咔吧一声接回",
+      "onboard_time": 1694823092,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125871,
@@ -451,12 +667,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114106,
+      "num": 114106,
+      "word": "重庆地铁回应老人乘背篓专线卖菜",
+      "onboard_time": 1694821408,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109842,
       "num": 109842,
       "word": "香港媒体记者大赞杭州亚运村",
       "onboard_time": 1694819063,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109825,
+      "num": 109825,
+      "word": "我国第23个全民国防教育日",
+      "onboard_time": 1694826332,
+      "rank": 48,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 109304,
@@ -507,14 +739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 80815,
-      "num": 80815,
-      "word": "云之羽打戏像农民伯伯砍草",
-      "onboard_time": 1694820685,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80320,
       "num": 80320,
       "word": "云之羽结局是表示还有第二季吗",
@@ -539,8 +763,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 40759,
-      "num": 571472,
+      "raw_hot": 49612,
+      "num": 1001076,
       "word": "杭州亚运会宣传片爱之城",
       "onboard_time": 1694781815,
       "rank": 2,
