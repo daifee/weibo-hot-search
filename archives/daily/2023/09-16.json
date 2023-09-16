@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694867343975,
+  "endTime": 1694868249739,
   "band_list": [
     {
       "raw_hot": 10136248,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3763939,
-      "num": 444910,
+      "num": 478058,
       "word": "李佳琦吹羽毛二创视频",
       "onboard_time": 1694861318,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1852141,
-      "num": 1483480,
+      "num": 1769036,
       "word": "袁冰妍被约谈后仍整改不彻底",
       "onboard_time": 1694860177,
       "rank": 11,
@@ -105,6 +105,14 @@
       "onboard_time": 1694820266,
       "rank": 30,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 1770691,
+      "num": 1770691,
+      "word": "徐家汇地铁站",
+      "onboard_time": 1694863775,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1728098,
@@ -145,14 +153,6 @@
       "onboard_time": 1694852562,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1576107,
-      "num": 1576107,
-      "word": "徐家汇地铁站",
-      "onboard_time": 1694863775,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1491497,
@@ -283,6 +283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 924240,
+      "num": 345387,
+      "word": "断崖式的衰老是在几岁",
+      "onboard_time": 1694867076,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 915623,
       "num": 915623,
       "word": "白色橄榄树 玖月晞",
@@ -393,6 +401,14 @@
       "onboard_time": 1694820266,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 713077,
+      "num": 456897,
+      "word": "上海地铁回应1号线列车车顶产生烟雾",
+      "onboard_time": 1694867615,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710596,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605166,
+      "num": 605166,
+      "word": "檀健次三年前教周深的舞还没学会",
+      "onboard_time": 1694865398,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 598903,
       "num": 490462,
       "word": "云之羽给曾舜晞P了刘海",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 556557,
-      "num": 384860,
+      "num": 425406,
       "word": "胡锡进发文评李佳琦事件",
       "onboard_time": 1694862635,
       "rank": 31,
@@ -641,14 +665,6 @@
       "onboard_time": 1694828072,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493409,
-      "num": 327103,
-      "word": "断崖式的衰老是在几岁",
-      "onboard_time": 1694867076,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 490411,
@@ -851,14 +867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 383978,
-      "num": 383978,
-      "word": "檀健次三年前教周深的舞还没学会",
-      "onboard_time": 1694865398,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 380155,
       "num": 380155,
       "word": "就算说的是韩语也能看出是中国人",
@@ -899,8 +907,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 355830,
+      "num": 355830,
+      "word": "肖顺尧繁华",
+      "onboard_time": 1694867316,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354636,
-      "num": 322917,
+      "num": 331967,
       "word": "长嘴且情绪稳定的恋爱",
       "onboard_time": 1694864315,
       "rank": 22,
@@ -929,6 +945,14 @@
       "onboard_time": 1694854237,
       "rank": 17,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 345662,
+      "num": 345662,
+      "word": "陈都灵舞台",
+      "onboard_time": 1694867915,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 335162,
@@ -1555,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202425,
+      "num": 202425,
+      "word": "刘雨昕2023仙那度巡回演唱会",
+      "onboard_time": 1694868036,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202303,
       "num": 202303,
       "word": "38元买的谢馥春眉粉用了9年仅破皮",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1694830593,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195415,
+      "num": 195415,
+      "word": "杭州程序员传火炬都不忘带格子衫",
+      "onboard_time": 1694866116,
+      "rank": 34,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 194974,
@@ -1673,14 +1713,6 @@
       "onboard_time": 1694828615,
       "rank": 35,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 190101,
-      "num": 190101,
-      "word": "杭州程序员传火炬都不忘带格子衫",
-      "onboard_time": 1694866116,
-      "rank": 34,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 189475,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1694860235,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167515,
+      "num": 167515,
+      "word": "曾舜晞方小宝又扭起来了",
+      "onboard_time": 1694868036,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 167356,
@@ -2123,6 +2163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135788,
+      "num": 440902,
+      "word": "慕思发布会",
+      "onboard_time": 1694865637,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134939,
       "num": 134939,
       "word": "父亲儿时的愿望被儿子实现了",
@@ -2187,20 +2235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130974,
+      "num": 130974,
+      "word": "酒店41对新人结婚海报一眼望不到头",
+      "onboard_time": 1694868216,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130194,
       "num": 297003,
       "word": "你不知道的家居工业4.0",
       "onboard_time": 1694832934,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128022,
-      "num": 128022,
-      "word": "肖顺尧繁华",
-      "onboard_time": 1694867316,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126424,
@@ -2233,6 +2281,14 @@
       "onboard_time": 1694779177,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120240,
+      "num": 174369,
+      "word": "慕思首创潮汐算法",
+      "onboard_time": 1694867799,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 117295,
@@ -2393,14 +2449,6 @@
       "onboard_time": 1694803876,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 66463,
-      "num": 398517,
-      "word": "慕思发布会",
-      "onboard_time": 1694865637,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 57857,

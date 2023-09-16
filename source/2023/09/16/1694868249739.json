@@ -1,0 +1,410 @@
+{
+  "runTime": 1694868249739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1770691,
+        "num": 1770691,
+        "word": "徐家汇地铁站",
+        "onboard_time": 1694863775,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1802655,
+        "num": 1769036,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 51671,
+        "num": 1296895,
+        "word": "我们的亚运",
+        "onboard_time": 1694857720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201176,
+        "num": 1201176,
+        "word": "莲花楼直播",
+        "onboard_time": 1694865758,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 824160,
+        "num": 824160,
+        "word": "4个小众免签国",
+        "onboard_time": 1694863897,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 605166,
+        "num": 605166,
+        "word": "檀健次三年前教周深的舞还没学会",
+        "onboard_time": 1694865398,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 533068,
+        "num": 533068,
+        "word": "人民网评袁某某偷逃税是洗不白的",
+        "onboard_time": 1694859879,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 521836,
+        "num": 521836,
+        "word": "BLACKPINK首尔安可",
+        "onboard_time": 1694861256,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 496594,
+        "num": 496594,
+        "word": "人民日报批明星偷逃税",
+        "onboard_time": 1694857003,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 488103,
+        "num": 488103,
+        "word": "成毅曾舜晞肖顺尧彩排舞台",
+        "onboard_time": 1694855806,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2441694,
+        "num": 478058,
+        "word": "李佳琦吹羽毛二创视频",
+        "onboard_time": 1694861318,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 774948,
+        "num": 474201,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 713077,
+        "num": 456897,
+        "word": "上海地铁回应1号线列车车顶产生烟雾",
+        "onboard_time": 1694867615,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206928,
+        "num": 454670,
+        "word": "酒店人员邀请环卫工们进屋避雨",
+        "onboard_time": 1694858204,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 135788,
+        "num": 440902,
+        "word": "慕思发布会",
+        "onboard_time": 1694865637,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 624211,
+        "num": 435649,
+        "word": "日媒曝羽生结弦老婆身份",
+        "onboard_time": 1694854237,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425406,
+        "num": 425406,
+        "word": "胡锡进发文评李佳琦事件",
+        "onboard_time": 1694862635,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355830,
+        "num": 355830,
+        "word": "肖顺尧繁华",
+        "onboard_time": 1694867316,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354770,
+        "num": 354770,
+        "word": "云之羽隐藏结局",
+        "onboard_time": 1694858801,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345662,
+        "num": 345662,
+        "word": "陈都灵舞台",
+        "onboard_time": 1694867915,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 924240,
+        "num": 345387,
+        "word": "断崖式的衰老是在几岁",
+        "onboard_time": 1694867076,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 745219,
+        "num": 340534,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331967,
+        "num": 331967,
+        "word": "长嘴且情绪稳定的恋爱",
+        "onboard_time": 1694864315,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286596,
+        "num": 286596,
+        "word": "张晚意 有点意式",
+        "onboard_time": 1694862999,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277302,
+        "num": 277302,
+        "word": "薛之谦福州演唱会",
+        "onboard_time": 1694866658,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239356,
+        "num": 239356,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 235460,
+        "num": 235460,
+        "word": "iPhone15Pro系列存在变色和吸指纹问题",
+        "onboard_time": 1694848115,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230844,
+        "num": 230844,
+        "word": "中国女排vs乌克兰女排",
+        "onboard_time": 1694865037,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221118,
+        "num": 221118,
+        "word": "35元2颗茅台巧克力贵不贵",
+        "onboard_time": 1694853638,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 204035,
+        "num": 204035,
+        "word": "餐厅称被烧伤女子为拍视频要求多加酒精",
+        "onboard_time": 1694856405,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202473,
+        "num": 202473,
+        "word": "老祖宗的审美遥遥领先",
+        "onboard_time": 1694863715,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 202425,
+        "num": 202425,
+        "word": "刘雨昕2023仙那度巡回演唱会",
+        "onboard_time": 1694868036,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195415,
+        "num": 195415,
+        "word": "杭州程序员传火炬都不忘带格子衫",
+        "onboard_time": 1694866116,
+        "rank": 32,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 190222,
+        "num": 190222,
+        "word": "王源翻唱过两次专属天使",
+        "onboard_time": 1694865817,
+        "rank": 33,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 186517,
+        "num": 186517,
+        "word": "高薪但不体面的职业",
+        "onboard_time": 1694849435,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181788,
+        "num": 181788,
+        "word": "法考",
+        "onboard_time": 1694855806,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120240,
+        "num": 174369,
+        "word": "慕思首创潮汐算法",
+        "onboard_time": 1694867799,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 174018,
+        "num": 174018,
+        "word": "舍不得星星今日开机",
+        "onboard_time": 1694866715,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167515,
+        "num": 167515,
+        "word": "曾舜晞方小宝又扭起来了",
+        "onboard_time": 1694868036,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155549,
+        "num": 155549,
+        "word": "鞋控患者的鞋墙能有多夸张",
+        "onboard_time": 1694864315,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 153818,
+        "num": 153818,
+        "word": "虞书欣为云为衫跳了一支舞",
+        "onboard_time": 1694854478,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152126,
+        "num": 152126,
+        "word": "利物浦丢球",
+        "onboard_time": 1694866359,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147215,
+        "num": 147215,
+        "word": "迪丽热巴扛住了绿光",
+        "onboard_time": 1694846914,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143601,
+        "num": 143601,
+        "word": "路边捡到10万块他毫不犹豫打了110",
+        "onboard_time": 1694850816,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137648,
+        "num": 137648,
+        "word": "教资科三",
+        "onboard_time": 1694860657,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 809179,
+        "num": 136941,
+        "word": "官方通报袁冰妍偷逃税事件",
+        "onboard_time": 1694850516,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 135125,
+        "num": 135125,
+        "word": "爱宝双胞胎已经学走路了",
+        "onboard_time": 1694854237,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 132937,
+        "num": 132937,
+        "word": "教资科二",
+        "onboard_time": 1694848474,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130974,
+        "num": 130974,
+        "word": "酒店41对新人结婚海报一眼望不到头",
+        "onboard_time": 1694868216,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126514,
+        "num": 126514,
+        "word": "蜜雪冰城被曝喝出蜘蛛",
+        "onboard_time": 1694839233,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中国家群体性崛起已成时代潮流#"
+    }
+  }
+}
