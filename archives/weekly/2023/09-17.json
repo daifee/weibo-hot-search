@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694906144720,
+  "endTime": 1694907228691,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -67,7 +67,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 563773,
+      "raw_hot": 607891,
       "num": 371493,
       "word": "男子讨要彩礼未果将女方砍伤致死",
       "onboard_time": 1694874820,
@@ -91,8 +91,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 411329,
-      "num": 411329,
+      "raw_hot": 453047,
+      "num": 453047,
       "word": "江苏9年级化学课本出现高猛酸钾",
       "onboard_time": 1694881290,
       "rank": 38,
@@ -235,12 +235,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 232575,
+      "num": 101234,
+      "word": "睡醒后发现我把上衣穿在了腿上",
+      "onboard_time": 1694906724,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230085,
       "num": 230085,
       "word": "金博洋分数",
       "onboard_time": 1694886320,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225315,
+      "num": 225315,
+      "word": "莲花楼",
+      "onboard_time": 1694906362,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 224184,
@@ -323,12 +339,36 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 189738,
+      "num": 99476,
+      "word": "尤长靖演唱会连唱三首李泉经典",
+      "onboard_time": 1694906846,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166337,
       "num": 166337,
       "word": "汪苏泷感受到了伍佰的快乐",
       "onboard_time": 1694870738,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163782,
+      "num": 163782,
+      "word": "高铁拒换座被打女子发声",
+      "onboard_time": 1694906362,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157392,
+      "num": 157392,
+      "word": "周深人被舞台淹没但歌声飘满星河",
+      "onboard_time": 1694906965,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156582,
@@ -345,6 +385,14 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150161,
+      "num": 150161,
+      "word": "熊猫反客为主吐舌头逗游客",
+      "onboard_time": 1694906543,
+      "rank": 24,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 149055,
@@ -427,12 +475,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95229,
+      "num": 95229,
+      "word": "我的头发能像龙须菜一样茂盛吗",
+      "onboard_time": 1694904078,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93735,
+      "num": 93735,
+      "word": "华晨宇说自己是一个受争议的歌手",
+      "onboard_time": 1694906785,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 93404,
+      "num": 93404,
+      "word": "国际米兰5比1AC米兰",
+      "onboard_time": 1694905883,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93041,
       "num": 119417,
       "word": "成毅曾舜晞肖顺尧彩排舞台",
       "onboard_time": 1694855806,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86039,
+      "num": 86039,
+      "word": "一只猴子来到了葬礼上伏地告别",
+      "onboard_time": 1694900473,
+      "rank": 28,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 83687,
@@ -443,20 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78305,
-      "num": 78305,
+      "raw_hot": 83606,
+      "num": 83606,
+      "word": "恋与制作人",
+      "onboard_time": 1694906665,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 80175,
+      "num": 80175,
       "word": "当理解了女儿她就不再是孤军奋战",
       "onboard_time": 1694894894,
       "rank": 42,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 77819,
-      "num": 77819,
-      "word": "一只猴子来到了葬礼上伏地告别",
-      "onboard_time": 1694900473,
-      "rank": 28,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 70881,
@@ -464,6 +544,14 @@
       "word": "虞书欣为云为衫跳了一支舞",
       "onboard_time": 1694854478,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70754,
+      "num": 70754,
+      "word": "冯宝宝搞到真的了",
+      "onboard_time": 1694907025,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -475,24 +563,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62120,
-      "num": 62120,
-      "word": "我的头发能像龙须菜一样茂盛吗",
-      "onboard_time": 1694904078,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 61416,
+      "num": 61416,
+      "word": "煤气师傅凌晨捡到走失男孩交给警察",
+      "onboard_time": 1694906846,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
-      "raw_hot": 61701,
-      "num": 61701,
-      "word": "国际米兰5比1AC米兰",
-      "onboard_time": 1694905883,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 59496,
-      "num": 59496,
+      "raw_hot": 59653,
+      "num": 59653,
       "word": "养狗人的大型社死现场",
       "onboard_time": 1694890335,
       "rank": 48,
