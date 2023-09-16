@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694902579233,
+  "endTime": 1694903625754,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75635,
+      "num": 75635,
+      "word": "主人带柯基去庙里收惊",
+      "onboard_time": 1694899815,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 70881,
       "num": 80295,
       "word": "虞书欣为云为衫跳了一支舞",
@@ -451,24 +459,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57348,
-      "num": 57348,
+      "raw_hot": 66762,
+      "num": 66762,
       "word": "当理解了女儿她就不再是孤军奋战",
       "onboard_time": 1694894894,
       "rank": 42,
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 50483,
-      "num": 50483,
-      "word": "主人带柯基去庙里收惊",
-      "onboard_time": 1694899815,
-      "rank": 49,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 41279,
-      "num": 41279,
+      "raw_hot": 51640,
+      "num": 51640,
       "word": "一只猴子来到了葬礼上伏地告别",
       "onboard_time": 1694900473,
       "rank": 28,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30522,
+      "num": 37528,
+      "word": "养狗人的大型社死现场",
+      "onboard_time": 1694890335,
+      "rank": 48,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 29757,
       "num": 41698,
       "word": "周深用歌声点亮人间星河",
@@ -507,20 +515,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 26493,
+      "raw_hot": 27317,
       "num": 41690,
       "word": "骄阳伴我海外多地上线",
       "onboard_time": 1694889497,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24176,
-      "num": 37528,
-      "word": "养狗人的大型社死现场",
-      "onboard_time": 1694890335,
-      "rank": 48,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 14470,
