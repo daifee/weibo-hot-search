@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694842471586,
+  "endTime": 1694845232429,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -419,6 +419,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 2717312,
+      "num": 2717312,
+      "word": "蜜雪冰城被曝喝出蜘蛛",
+      "onboard_time": 1694839233,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2708719,
       "num": 2708719,
       "word": "高铁上化妆列为不文明行为网友为何不认可",
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 2343550,
-      "num": 419593,
+      "num": 2024565,
       "word": "乔任梁父母失独后重新生活",
       "onboard_time": 1694840135,
       "rank": 10,
@@ -1419,6 +1427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1491497,
+      "num": 1491497,
+      "word": "徐良淘汰",
+      "onboard_time": 1694841695,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1490218,
       "num": 511350,
       "word": "李在明绝食第16天健康已非常危险",
@@ -2155,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1029004,
+      "num": 1029004,
+      "word": "女子高铁座位被占换回后遭3人殴打",
+      "onboard_time": 1694841934,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026419,
       "num": 575162,
       "word": "女生称因爱抠鼻子致鼻内长10多团真菌",
@@ -2241,14 +2265,6 @@
       "onboard_time": 1694743775,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1008178,
-      "num": 1008178,
-      "word": "徐良淘汰",
-      "onboard_time": 1694841695,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1007844,
@@ -2776,14 +2792,6 @@
       "word": "妻子拿丈夫百万死亡赔偿款拒分给公婆",
       "onboard_time": 1694663440,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851291,
-      "num": 851291,
-      "word": "蜜雪冰城被曝喝出蜘蛛",
-      "onboard_time": 1694839233,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3555,6 +3563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 697071,
+      "num": 282840,
+      "word": "男子与情人通奸被其丈夫杀害",
+      "onboard_time": 1694843494,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696520,
       "num": 578784,
       "word": "邓超想送孙俪两三百斤的石头",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1694447019,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 641486,
+      "num": 641486,
+      "word": "丑衣服都卖给了年轻时的我",
+      "onboard_time": 1694843973,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 636116,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1694572179,
       "rank": 39,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 568971,
+      "num": 568971,
+      "word": "aespa与蟑螂的合作舞台",
+      "onboard_time": 1694843375,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 568508,
@@ -6563,6 +6595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400412,
+      "num": 338911,
+      "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
+      "onboard_time": 1694839652,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 400270,
       "num": 325949,
       "word": "把抢到周杰伦演唱会票的消息告诉爸爸",
@@ -6793,6 +6833,14 @@
       "onboard_time": 1694316932,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385936,
+      "num": 385936,
+      "word": "云之羽第22集封神",
+      "onboard_time": 1694843556,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 385776,
@@ -7947,6 +7995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322632,
+      "num": 322632,
+      "word": "陈楚生两次获MVP",
+      "onboard_time": 1694844875,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322432,
       "num": 322432,
       "word": "本喵叫兔兔的狮子猫生了",
@@ -8259,14 +8315,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 312056,
-      "num": 312056,
-      "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
-      "onboard_time": 1694839652,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 311827,
       "num": 311827,
       "word": "半年报将公司名称写成那要不住哥哥家里吧",
@@ -8289,6 +8337,14 @@
       "onboard_time": 1694616642,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311648,
+      "num": 311648,
+      "word": "云秀行还原曾舜晞美貌",
+      "onboard_time": 1694844575,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 311427,
@@ -8465,6 +8521,14 @@
       "onboard_time": 1694252975,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306521,
+      "num": 397706,
+      "word": "教官让顺拐同学组成一个方队",
+      "onboard_time": 1694839175,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 306048,
@@ -8704,6 +8768,14 @@
       "word": "她们是老师也是科学大牛",
       "onboard_time": 1694336734,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298860,
+      "num": 280118,
+      "word": "郁美净上线7块9套装",
+      "onboard_time": 1694842115,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -9891,14 +9963,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 257571,
-      "num": 257571,
-      "word": "女子高铁座位被占换回后遭3人殴打",
-      "onboard_time": 1694841934,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257407,
       "num": 257407,
       "word": "周柯宇连发两条微博支持Fly",
@@ -9921,6 +9985,14 @@
       "onboard_time": 1694679876,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256519,
+      "num": 256519,
+      "word": "云之羽爱奇艺热度值破9600",
+      "onboard_time": 1694843435,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 256325,
@@ -10081,6 +10153,14 @@
       "onboard_time": 1694685035,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 249947,
+      "num": 249947,
+      "word": "iPhone15使用标准USBC端口",
+      "onboard_time": 1694843735,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 249751,
@@ -10449,14 +10529,6 @@
       "onboard_time": 1694698236,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 240394,
-      "num": 397706,
-      "word": "教官让顺拐同学组成一个方队",
-      "onboard_time": 1694839175,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 239972,
@@ -11347,6 +11419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219415,
+      "num": 219415,
+      "word": "伶人怎么会输",
+      "onboard_time": 1694844216,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219347,
       "num": 219347,
       "word": "肖战骄阳伴我入戏专访",
@@ -11545,6 +11625,14 @@
       "onboard_time": 1694592034,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215231,
+      "num": 195845,
+      "word": "就算说的是韩语也能看出是中国人",
+      "onboard_time": 1694844695,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 214948,
@@ -13315,6 +13403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187678,
+      "num": 187678,
+      "word": "张远伶人戏腔",
+      "onboard_time": 1694844156,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187590,
       "num": 187590,
       "word": "已婚男嫖娼法院以珍惜亲情为由不准离婚",
@@ -13771,6 +13867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180998,
+      "num": 180998,
+      "word": "Angelababy芭比粉短裙造型",
+      "onboard_time": 1694842836,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180937,
       "num": 113187,
       "word": "教师还是一门好职业吗",
@@ -14091,14 +14195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175146,
-      "num": 175146,
-      "word": "郁美净上线7块9套装",
-      "onboard_time": 1694842115,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175144,
       "num": 175144,
       "word": "吴倩再演古装的新奇感",
@@ -14321,6 +14417,14 @@
       "onboard_time": 1694313275,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169347,
+      "num": 169347,
+      "word": "披荆斩棘你留下的爱致敬李玟",
+      "onboard_time": 1694844034,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 169337,
@@ -14795,6 +14899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159618,
+      "num": 159618,
+      "word": "成毅三界吐血人",
+      "onboard_time": 1694842295,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159546,
       "num": 159546,
       "word": "手艺人用玻璃做出39盘菜",
@@ -14889,6 +15001,14 @@
       "onboard_time": 1694708728,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157626,
+      "num": 157626,
+      "word": "张远徐良马晓龙伶人舞台",
+      "onboard_time": 1694843556,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 157520,
@@ -15201,6 +15321,14 @@
       "onboard_time": 1694547254,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 147431,
+      "num": 147431,
+      "word": "程序员教你如何正确清理C盘垃圾",
+      "onboard_time": 1694844875,
+      "rank": 43,
+      "category": "知识科普"
     },
     {
       "raw_hot": 147359,
@@ -15689,14 +15817,6 @@
       "onboard_time": 1694489259,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 130506,
-      "num": 130506,
-      "word": "成毅三界吐血人",
-      "onboard_time": 1694842295,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 130459,
@@ -16603,6 +16723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68238,
+      "num": 1494470,
+      "word": "这是保护地球的中国式表达",
+      "onboard_time": 1694839354,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67732,
       "num": 75289,
       "word": "花360万开个露营地能赚多少钱",
@@ -17257,14 +17385,6 @@
       "onboard_time": 1694635693,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14652,
-      "num": 907856,
-      "word": "这是保护地球的中国式表达",
-      "onboard_time": 1694839354,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14483,
