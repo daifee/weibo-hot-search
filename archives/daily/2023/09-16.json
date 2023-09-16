@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694829652739,
+  "endTime": 1694830817020,
   "band_list": [
     {
       "raw_hot": 2082238,
@@ -35,20 +35,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1719738,
+      "num": 472931,
+      "word": "陈乔恩连续七年晒照悼念乔任梁",
+      "onboard_time": 1694827233,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1669865,
       "num": 1669865,
       "word": "蜂花终身认养了一只大熊猫",
       "onboard_time": 1694820806,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1593711,
-      "num": 445045,
-      "word": "陈乔恩连续七年晒照悼念乔任梁",
-      "onboard_time": 1694827233,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1490218,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 861477,
-      "num": 306403,
+      "num": 319411,
       "word": "首批iPhone15Pro一分钟被抢光",
       "onboard_time": 1694827834,
       "rank": 20,
@@ -131,6 +131,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 701913,
+      "num": 701913,
+      "word": "1元秒杀788元套餐到店被赶走",
+      "onboard_time": 1694828314,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 671780,
+      "num": 671780,
+      "word": "防空警报",
+      "onboard_time": 1694830295,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653751,
       "num": 653751,
       "word": "法考凭什么被称为天下第一考",
@@ -171,20 +187,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531033,
-      "num": 396278,
-      "word": "1元秒杀788元套餐到店被赶走",
-      "onboard_time": 1694828314,
-      "rank": 11,
-      "category": "社会新闻,财经"
+      "raw_hot": 547638,
+      "num": 313023,
+      "word": "国内出现女性猴痘感染者",
+      "onboard_time": 1694828912,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518970,
-      "num": 297423,
+      "num": 307565,
       "word": "找对象的尽头是高初中同学",
       "onboard_time": 1694826575,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 494672,
+      "num": 494672,
+      "word": "77岁大爷发明出久坐屁股不疼坐垫",
+      "onboard_time": 1694828072,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490411,
@@ -227,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412950,
-      "num": 277448,
-      "word": "国内出现女性猴痘感染者",
-      "onboard_time": 1694828912,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 414020,
+      "num": 414020,
+      "word": "大熊猫公主融融已去世",
+      "onboard_time": 1694828733,
+      "rank": 13,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 402439,
@@ -249,14 +273,6 @@
       "onboard_time": 1694761892,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396565,
-      "num": 396565,
-      "word": "77岁大爷发明出久坐屁股不疼坐垫",
-      "onboard_time": 1694828072,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389543,
@@ -299,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340229,
+      "num": 229016,
+      "word": "金靖首次回应金繁倒立梗",
+      "onboard_time": 1694830231,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335162,
       "num": 335162,
       "word": "剥了5000多只虾就为了一碗面",
       "onboard_time": 1694779117,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 331855,
+      "num": 331855,
+      "word": "警方通报网传大连核辐射值超预期虚假信息",
+      "onboard_time": 1694829093,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331839,
@@ -323,8 +355,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 328999,
+      "num": 304627,
+      "word": "广东惠州一学校76名教师开学前遭解聘",
+      "onboard_time": 1694829754,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328799,
-      "num": 272112,
+      "num": 282369,
       "word": "6点半下班和9点半下班的区别",
       "onboard_time": 1694827532,
       "rank": 33,
@@ -371,20 +411,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300855,
+      "num": 300855,
+      "word": "男子50岁得子起名后录不进系统",
+      "onboard_time": 1694829211,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295200,
       "num": 311536,
       "word": "迪丽热巴赵又廷再同框",
       "onboard_time": 1694821588,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292427,
-      "num": 395834,
-      "word": "大熊猫公主融融已去世",
-      "onboard_time": 1694828733,
-      "rank": 13,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 266889,
@@ -444,23 +484,15 @@
     },
     {
       "raw_hot": 246269,
-      "num": 210092,
+      "num": 232539,
       "word": "蔡少芬贾静雯 相爱相杀好姐妹",
       "onboard_time": 1694827713,
       "rank": 39,
       "category": "综艺"
     },
     {
-      "raw_hot": 234155,
-      "num": 207840,
-      "word": "警方通报网传大连核辐射值超预期虚假信息",
-      "onboard_time": 1694829093,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233050,
-      "num": 233050,
+      "raw_hot": 237464,
+      "num": 237464,
       "word": "王嘉尔舞台已经是nextlevel",
       "onboard_time": 1694827594,
       "rank": 42,
@@ -515,6 +547,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 204580,
+      "num": 204580,
+      "word": "年少时光今日开播",
+      "onboard_time": 1694829754,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204296,
       "num": 204296,
       "word": "原来秋葵是这样长的",
@@ -528,14 +568,6 @@
       "word": "38元买的谢馥春眉粉用了9年仅破皮",
       "onboard_time": 1694774973,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201391,
-      "num": 201391,
-      "word": "男子50岁得子起名后录不进系统",
-      "onboard_time": 1694829211,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192309,
+      "num": 192309,
+      "word": "郭敬明到底忽悠了多少人",
+      "onboard_time": 1694830534,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191415,
       "num": 191415,
       "word": "现在的猫罐越做越离谱了",
@@ -587,6 +627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 188157,
+      "num": 188157,
+      "word": "剧说很好看骄阳伴我专场",
+      "onboard_time": 1694830593,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188007,
       "num": 188007,
       "word": "吴昕再去也已是嘉宾",
@@ -601,6 +649,14 @@
       "onboard_time": 1694787219,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187532,
+      "num": 187532,
+      "word": "宫远徵第一次喊宫尚角",
+      "onboard_time": 1694830593,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 187177,
@@ -673,6 +729,14 @@
       "onboard_time": 1694821229,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154344,
+      "num": 154344,
+      "word": "成语一鸣惊人说的是谁",
+      "onboard_time": 1694829754,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154124,
