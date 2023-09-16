@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694860424125,
+  "endTime": 1694862764858,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -289,6 +289,14 @@
       "onboard_time": 1694692596,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3014584,
+      "num": 433314,
+      "word": "李佳琦吹羽毛二创视频",
+      "onboard_time": 1694861318,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2976800,
@@ -1715,6 +1723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1360729,
+      "num": 1360729,
+      "word": "人民日报批明星偷逃税",
+      "onboard_time": 1694857003,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1352339,
       "num": 1352339,
       "word": "离婚人数连续三年下降",
@@ -1907,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1203628,
+      "num": 449620,
+      "word": "袁冰妍被约谈后仍整改不彻底",
+      "onboard_time": 1694860177,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1194730,
       "num": 1194730,
       "word": "云为衫宫子羽生死告白",
@@ -2041,14 +2065,6 @@
       "onboard_time": 1694357325,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1133061,
-      "num": 1133061,
-      "word": "人民日报批明星偷逃税",
-      "onboard_time": 1694857003,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1126061,
@@ -2529,14 +2545,6 @@
       "onboard_time": 1694335774,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 943331,
-      "num": 449620,
-      "word": "袁冰妍被约谈后仍整改不彻底",
-      "onboard_time": 1694860177,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 943229,
@@ -4249,6 +4257,14 @@
       "onboard_time": 1694839233,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 607394,
+      "num": 607394,
+      "word": "BLACKPINK首尔安可",
+      "onboard_time": 1694861256,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 605827,
@@ -5971,6 +5987,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 450816,
+      "num": 450816,
+      "word": "人民网评袁某某偷逃税是洗不白的",
+      "onboard_time": 1694859879,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 450644,
       "num": 413775,
       "word": "七年没联系的大学同学来借钱",
@@ -6073,6 +6097,14 @@
       "onboard_time": 1694783376,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 443993,
+      "num": 3472339,
+      "word": "路边捡到10万块他毫不犹豫打了110",
+      "onboard_time": 1694850816,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443605,
@@ -6771,14 +6803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403924,
-      "num": 3472339,
-      "word": "路边捡到10万块他毫不犹豫打了110",
-      "onboard_time": 1694850816,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403238,
       "num": 347604,
       "word": "头牌主播 把价格抬上去再把低价垄断",
@@ -7056,6 +7080,14 @@
       "word": "2024年考研时间表",
       "onboard_time": 1694775754,
       "rank": 13,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 387065,
+      "num": 289746,
+      "word": "教资科三",
+      "onboard_time": 1694860657,
+      "rank": 21,
       "category": "教育"
     },
     {
@@ -9235,14 +9267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294127,
-      "num": 294127,
-      "word": "人民网评袁某某偷逃税是洗不白的",
-      "onboard_time": 1694859879,
-      "rank": 23,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 294085,
       "num": 411741,
       "word": "中医正骨1秒救治瘫痪小猫",
@@ -9681,6 +9705,14 @@
       "onboard_time": 1694518058,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278239,
+      "num": 939244,
+      "word": "酒店人员邀请环卫工们进屋避雨",
+      "onboard_time": 1694858204,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 277892,
@@ -11995,14 +12027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214681,
-      "num": 810909,
-      "word": "酒店人员邀请环卫工们进屋避雨",
-      "onboard_time": 1694858204,
-      "rank": 6,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 213832,
       "num": 195513,
       "word": "封神第一部乌log告一段落",
@@ -12169,6 +12193,14 @@
       "onboard_time": 1694651858,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211253,
+      "num": 211253,
+      "word": "XYG对战MTG",
+      "onboard_time": 1694861975,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 210951,
@@ -12955,6 +12987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200534,
+      "num": 189120,
+      "word": "轰动世界的数学大师也逃过课",
+      "onboard_time": 1694862216,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200436,
       "num": 200436,
       "word": "盛阳主动吻简冰",
@@ -13097,6 +13137,14 @@
       "onboard_time": 1694663321,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199037,
+      "num": 184646,
+      "word": "胡锡进发文评李佳琦事件",
+      "onboard_time": 1694862635,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198735,
@@ -14891,6 +14939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170218,
+      "num": 594859,
+      "word": "的哥4分钟连闯6红灯送乘客就医",
+      "onboard_time": 1694860235,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170021,
       "num": 170021,
       "word": "霉霉是如何养发的",
@@ -15889,6 +15945,14 @@
       "onboard_time": 1694390015,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146412,
+      "num": 146412,
+      "word": "柯南主角团全新海报",
+      "onboard_time": 1694860958,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 146125,
@@ -17387,14 +17451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 62116,
-      "num": 295590,
-      "word": "的哥4分钟连闯6红灯送乘客就医",
-      "onboard_time": 1694860235,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61848,
       "num": 61848,
       "word": "北京文化论坛今天开幕",
@@ -17425,6 +17481,14 @@
       "onboard_time": 1694625443,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57857,
+      "num": 1492311,
+      "word": "我们的亚运",
+      "onboard_time": 1694857720,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57047,
@@ -17553,14 +17617,6 @@
       "onboard_time": 1694781815,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49508,
-      "num": 1314019,
-      "word": "我们的亚运",
-      "onboard_time": 1694857720,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47223,
