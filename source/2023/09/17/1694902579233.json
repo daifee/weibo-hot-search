@@ -1,0 +1,410 @@
+{
+  "runTime": 1694902579233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 250128,
+        "num": 250128,
+        "word": "断崖式的衰老是在几岁",
+        "onboard_time": 1694867076,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225740,
+        "num": 225740,
+        "word": "袁冰妍偷逃税罚款超430万",
+        "onboard_time": 1694868337,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 5462,
+        "num": 205884,
+        "word": "大国技能群英荟",
+        "onboard_time": 1694857237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203855,
+        "num": 203855,
+        "word": "知情人称母子坠楼案2孩子是被扔下楼",
+        "onboard_time": 1694874942,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109446,
+        "num": 109446,
+        "word": "江苏9年级化学课本出现高猛酸钾",
+        "onboard_time": 1694881290,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 97659,
+        "num": 97659,
+        "word": "郑恺亲吻鼓励苗苗",
+        "onboard_time": 1694876380,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82614,
+        "num": 82614,
+        "word": "女孩乘电梯多次被陌生女子取消楼层",
+        "onboard_time": 1694872479,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78203,
+        "num": 78203,
+        "word": "才知道蜜雪冰城曾经是个餐馆",
+        "onboard_time": 1694873620,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67175,
+        "num": 67175,
+        "word": "白猫直播间的主播是一只白猫",
+        "onboard_time": 1694873080,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59794,
+        "num": 59794,
+        "word": "考研女生未吃早饭晕倒众人扶起送零食",
+        "onboard_time": 1694876439,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211624,
+        "num": 59587,
+        "word": "男子讨要彩礼未果将女方砍伤致死",
+        "onboard_time": 1694874820,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63079,
+        "num": 59234,
+        "word": "日媒曝羽生结弦老婆身份",
+        "onboard_time": 1694854237,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40252,
+        "num": 58831,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 29741,
+        "num": 58136,
+        "word": "人民网评袁某某偷逃税是洗不白的",
+        "onboard_time": 1694859879,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 18536,
+        "num": 57949,
+        "word": "酒店人员邀请环卫工们进屋避雨",
+        "onboard_time": 1694858204,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 57606,
+        "num": 57606,
+        "word": "帕梅拉 我健身这十年",
+        "onboard_time": 1694871457,
+        "rank": 15,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 57348,
+        "num": 57348,
+        "word": "当理解了女儿她就不再是孤军奋战",
+        "onboard_time": 1694894894,
+        "rank": 16,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 56029,
+        "num": 56029,
+        "word": "华晨宇回应开巡演能否回本",
+        "onboard_time": 1694877578,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54288,
+        "num": 54288,
+        "word": "12306车票候补的正确方法",
+        "onboard_time": 1694877635,
+        "rank": 18,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 51745,
+        "num": 53181,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111774,
+        "num": 53011,
+        "word": "如何用50天瘦16斤",
+        "onboard_time": 1694879916,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 52777,
+        "num": 52777,
+        "word": "原来性骚扰如此简单",
+        "onboard_time": 1694874942,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52206,
+        "num": 52206,
+        "word": "不要经常用手挖鼻孔",
+        "onboard_time": 1694874163,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50483,
+        "num": 50483,
+        "word": "主人带柯基去庙里收惊",
+        "onboard_time": 1694899815,
+        "rank": 23,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 49100,
+        "num": 49100,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45862,
+        "num": 45862,
+        "word": "当男友说拍了张水下唯美照",
+        "onboard_time": 1694880933,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42962,
+        "num": 42962,
+        "word": "原来工资日薪是这样算的",
+        "onboard_time": 1694871578,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 42460,
+        "num": 42460,
+        "word": "李荣浩已有十年模特经验",
+        "onboard_time": 1694873434,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41279,
+        "num": 41279,
+        "word": "一只猴子来到了葬礼上伏地告别",
+        "onboard_time": 1694900473,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 38323,
+        "num": 38323,
+        "word": "蔡依林玻璃蝴蝶套装",
+        "onboard_time": 1694875958,
+        "rank": 29,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 97793,
+        "num": 37420,
+        "word": "李佳琦吹羽毛二创视频",
+        "onboard_time": 1694861318,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 36205,
+        "word": "张柏芝从香港坐高铁到郴州",
+        "onboard_time": 1694869717,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32332,
+        "num": 32332,
+        "word": "莲花楼直播",
+        "onboard_time": 1694865758,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31883,
+        "num": 31883,
+        "word": "LVMH高层现身刘雨昕上海演唱会",
+        "onboard_time": 1694872419,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30301,
+        "num": 30301,
+        "word": "曾舜晞queencard 方多病拦出租车",
+        "onboard_time": 1694869603,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27960,
+        "num": 27960,
+        "word": "金博洋分数",
+        "onboard_time": 1694886320,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27580,
+        "num": 27580,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 36,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 27290,
+        "num": 27290,
+        "word": "周深用歌声点亮人间星河",
+        "onboard_time": 1694889675,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26509,
+        "num": 26509,
+        "word": "BLACKPINK首尔安可",
+        "onboard_time": 1694861256,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25698,
+        "num": 25698,
+        "word": "我们的歌",
+        "onboard_time": 1694878417,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25698,
+        "num": 25698,
+        "word": "尝试戒掉咖啡的韩国人",
+        "onboard_time": 1694868337,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25594,
+        "num": 25594,
+        "word": "傅云深出车祸",
+        "onboard_time": 1694775814,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25324,
+        "num": 25324,
+        "word": "边牧赶羊的时候真的好帅",
+        "onboard_time": 1694889377,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 25264,
+        "num": 25264,
+        "word": "陈都灵舞台",
+        "onboard_time": 1694867915,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23807,
+        "num": 23807,
+        "word": "曼联vs布莱顿",
+        "onboard_time": 1694874877,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23322,
+        "num": 23322,
+        "word": "养狗人的大型社死现场",
+        "onboard_time": 1694890335,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 22595,
+        "num": 23313,
+        "word": "骄阳伴我海外多地上线",
+        "onboard_time": 1694889497,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20794,
+        "num": 23307,
+        "word": "XYG战胜MTG",
+        "onboard_time": 1694879498,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20539,
+        "num": 23292,
+        "word": "电视剧斗罗大陆2杀青",
+        "onboard_time": 1694873978,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19783,
+        "num": 23285,
+        "word": "如何评价徐良被淘汰",
+        "onboard_time": 1694876078,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给东北大学全体师生回信#"
+    }
+  }
+}
