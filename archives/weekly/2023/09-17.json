@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694884407048,
+  "endTime": 1694885624625,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -433,6 +433,14 @@
       "onboard_time": 1694854478,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69331,
+      "num": 69331,
+      "word": "张柏芝从香港坐高铁到郴州",
+      "onboard_time": 1694869717,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 14470,
