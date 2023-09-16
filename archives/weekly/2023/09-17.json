@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694896442439,
+  "endTime": 1694898813481,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45216,
+      "num": 33666,
+      "word": "当理解了女儿她就不再是孤军奋战",
+      "onboard_time": 1694894894,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 38198,
       "num": 49513,
       "word": "BLACKPINK首尔安可",
@@ -467,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27893,
-      "num": 27893,
-      "word": "当理解了女儿她就不再是孤军奋战",
-      "onboard_time": 1694894894,
-      "rank": 42,
-      "category": "母婴育儿"
+      "raw_hot": 29757,
+      "num": 41698,
+      "word": "周深用歌声点亮人间星河",
+      "onboard_time": 1694889675,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 27465,
@@ -481,14 +489,6 @@
       "onboard_time": 1694889377,
       "rank": 35,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 27291,
-      "num": 41698,
-      "word": "周深用歌声点亮人间星河",
-      "onboard_time": 1694889675,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 26493,
