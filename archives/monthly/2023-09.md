@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/16 23:33:40
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/17 00:19:46
 </p>
 </blockquote>
 <p>
@@ -2819,6 +2819,12 @@ DFBOYS（热度：1371735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B2%89%E9%BB%98%E6%98%AF%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9C%8B%E4%BA%86%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87%23" target="weibo">
 有一种沉默是两个人看了部国产烂片（热度：1288966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E8%BD%A6%E7%A5%A8%E5%80%99%E8%A1%A5%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95%23" target="weibo">
+12306车票候补的正确方法（热度：1285255）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ ive（热度：732428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%83%E5%BF%85%E8%83%9C%E5%AE%A2%E6%8A%AB%E8%90%A8%E4%B8%80%E5%8F%A3%E5%92%AC%E5%9C%A8%E9%93%81%E7%89%87%E4%B8%8A%23" target="weibo">
 顾客吃必胜客披萨一口咬在铁片上（热度：723714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B8%89%E4%B8%AA%E4%BD%9C%E6%96%87%E4%B8%87%E8%83%BD%E5%BC%80%E5%A4%B4%23" target="weibo">
-教师资格证三个作文万能开头（热度：721630）
 </a>
 </li>
 
