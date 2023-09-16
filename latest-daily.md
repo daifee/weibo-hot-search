@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 15:14:07
+本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 15:33:57
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C%23" target="weibo">
+教资科二（热度：1484951）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%8A%E8%AF%9D%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%B8%8C%E6%9C%9B%E6%8F%90%E9%AB%98%E5%8C%BB%E7%94%9F%E6%94%B6%E5%85%A5%23" target="weibo">
 喊话李佳琦的医生称希望提高医生收入（热度：1411921）
 </a>
@@ -177,6 +183,18 @@ iPhone15没往年那么难抢（热度：950496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%90%8C%E4%BA%8B%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23" target="weibo">
+校方回应女老师与多名同事有不正当关系（热度：829978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%B0%B1%E8%83%BD%E8%A7%A3%E5%86%B3%23" target="weibo">
+原来鸡兔同笼一句话就能解决（热度：806802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90%E5%9B%A2%E7%BB%BC%E5%BC%80%E5%A7%8B%E5%BD%95%E5%88%B6%23" target="weibo">
 封神质子团综开始录制（热度：793023）
 </a>
@@ -191,12 +209,6 @@ iPhone15没往年那么难抢（热度：950496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%BC%80%E6%9C%BA%23" target="weibo">
 白色橄榄树开机（热度：745958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%90%8C%E4%BA%8B%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23" target="weibo">
-校方回应女老师与多名同事有不正当关系（热度：736578）
 </a>
 </li>
 
@@ -231,8 +243,20 @@ iPhone15没往年那么难抢（热度：950496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%9B%E4%BD%8F%E4%BA%86%E7%BB%BF%E5%85%89%23" target="weibo">
+迪丽热巴扛住了绿光（热度：676011）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E5%87%AD%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%80%83%23" target="weibo">
 法考凭什么被称为天下第一考（热度：653751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15%E5%AE%9E%E7%8E%B0%E4%BA%86%E4%B9%94%E5%B8%83%E6%96%AF%E7%9A%84%E6%91%84%E5%BD%B1%E8%AE%BE%E6%83%B3%23" target="weibo">
+iPhone15实现了乔布斯的摄影设想（热度：615389）
 </a>
 </li>
 
@@ -309,14 +333,14 @@ aespa与蟑螂的合作舞台（热度：568971）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone15%E5%AE%9E%E7%8E%B0%E4%BA%86%E4%B9%94%E5%B8%83%E6%96%AF%E7%9A%84%E6%91%84%E5%BD%B1%E8%AE%BE%E6%83%B3%23" target="weibo">
-iPhone15实现了乔布斯的摄影设想（热度：511202）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%AA50%E5%B9%B4%E7%88%B6%E4%BA%B2%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%93%AD%E4%BA%86%23" target="weibo">
+失聪50年父亲戴人工耳蜗听声音后哭了（热度：497871）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%AA50%E5%B9%B4%E7%88%B6%E4%BA%B2%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%93%AD%E4%BA%86%23" target="weibo">
-失聪50年父亲戴人工耳蜗听声音后哭了（热度：497871）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%80%E5%BA%86%E5%9B%A0%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0%E5%93%AD%E4%BA%86%23" target="weibo">
+王耀庆因徐良淘汰哭了（热度：495778）
 </a>
 </li>
 
@@ -357,20 +381,14 @@ iPhone15实现了乔布斯的摄影设想（热度：511202）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%9B%E4%BD%8F%E4%BA%86%E7%BB%BF%E5%85%89%23" target="weibo">
-迪丽热巴扛住了绿光（热度：459918）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%9C%AC%E4%BA%BA%E5%B8%A6%E5%85%A5%E8%A7%92%E8%89%B2%23" target="weibo">
 肖战说不要把本人带入角色（热度：443554）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%80%E5%BA%86%E5%9B%A0%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0%E5%93%AD%E4%BA%86%23" target="weibo">
-王耀庆因徐良淘汰哭了（热度：434018）
+<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E7%B3%BB%E5%88%97%E5%AD%98%E5%9C%A8%E5%8F%98%E8%89%B2%E5%92%8C%E5%90%B8%E6%8C%87%E7%BA%B9%E9%97%AE%E9%A2%98%23" target="weibo">
+iPhone15Pro系列存在变色和吸指纹问题（热度：435511）
 </a>
 </li>
 
@@ -381,8 +399,14 @@ iPhone15实现了乔布斯的摄影设想（热度：511202）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%B0%B1%E8%83%BD%E8%A7%A3%E5%86%B3%23" target="weibo">
-原来鸡兔同笼一句话就能解决（热度：425057）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%8B%BF%E6%8D%8F%E4%BA%86%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%8A%B1%E9%9B%B6%E8%8A%B1%E9%92%B1%E5%BF%83%E7%90%86%23" target="weibo">
+戚薇拿捏了小学生花零花钱心理（热度：431348）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%9C%9F%E5%8E%BB%E9%AB%98%E5%8E%9F%E4%B8%80%E6%BB%B4%E9%83%BD%E6%97%A0%23" target="weibo">
+生理期去高原一滴都无（热度：430870）
 </a>
 </li>
 
@@ -431,6 +455,12 @@ TikTok违反儿童隐私保护法被罚3.45亿欧元（热度：400412）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E8%BF%9E%E6%A0%B8%E8%BE%90%E5%B0%84%E5%80%BC%E8%B6%85%E9%A2%84%E6%9C%9F%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF%23" target="weibo">
 警方通报网传大连核辐射值超预期虚假信息（热度：398001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E8%8A%99%E5%87%BA%E8%BD%A8%E5%8F%AA%E6%9C%890%E6%AC%A1%E5%92%8C%E6%97%A0%E6%95%B0%E6%AC%A1%23" target="weibo">
+亲爱的芙出轨只有0次和无数次（热度：391163）
 </a>
 </li>
 
@@ -609,6 +639,18 @@ iPhone15使用标准USBC端口（热度：367625）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%85%AC%E8%AE%A4%E7%9A%84%E9%95%BF%E9%AB%98%E5%8A%A8%E4%BD%9C%23" target="weibo">
+世界公认的长高动作（热度：291487）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%96%AA%E4%BD%86%E4%B8%8D%E4%BD%93%E9%9D%A2%E7%9A%84%E8%81%8C%E4%B8%9A%23" target="weibo">
+高薪但不体面的职业（热度：289832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%88%B1%E8%B1%86Smoke%20Challenge%E5%90%88%E9%9B%86%23" target="weibo">
 男爱豆Smoke Challenge合集（热度：284395）
 </a>
@@ -629,12 +671,6 @@ iPhone15使用标准USBC端口（热度：367625）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%88%B1%E5%A5%87%E8%89%BA%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B49600%23" target="weibo">
 云之羽爱奇艺热度值破9600（热度：270024）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E7%B3%BB%E5%88%97%E5%AD%98%E5%9C%A8%E5%8F%98%E8%89%B2%E5%92%8C%E5%90%B8%E6%8C%87%E7%BA%B9%E9%97%AE%E9%A2%98%23" target="weibo">
-iPhone15Pro系列存在变色和吸指纹问题（热度：267087）
 </a>
 </li>
 
@@ -687,6 +723,18 @@ SEVENTEEN毒发行四周年（热度：266073）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A3%99%E8%B4%A8%E5%AD%90%E5%9B%A2%E5%AD%90%23" target="weibo">
+睡裙质子团子（热度：253485）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E7%89%8C%E4%B8%BB%E6%92%AD%20%E6%8A%8A%E4%BB%B7%E6%A0%BC%E6%8A%AC%E4%B8%8A%E5%8E%BB%E5%86%8D%E6%8A%8A%E4%BD%8E%E4%BB%B7%E5%9E%84%E6%96%AD%23" target="weibo">
+头牌主播 把价格抬上去再把低价垄断（热度：253372）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%BA%8C%E5%85%AC%23" target="weibo">
 披荆斩棘二公（热度：252727）
 </a>
@@ -731,6 +779,12 @@ Angelababy说想学我做的腌水果（热度：249886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E8%88%9E%E5%8F%B0%E5%B7%B2%E7%BB%8F%E6%98%AFnextlevel%23" target="weibo">
 王嘉尔舞台已经是nextlevel（热度：237464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%A6%B9%23" target="weibo">
+中国人自己的垫底辣妹（热度：234576）
 </a>
 </li>
 
@@ -783,8 +837,20 @@ Angelababy说想学我做的腌水果（热度：249886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%AF%92%E8%BF%98%E6%98%AF%E8%A6%81%E7%9C%8B%E8%BF%99%E5%9C%BA%23" target="weibo">
+SEVENTEEN毒还是要看这场（热度：212528）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 隐翅虫（热度：208966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BB%8A%E5%B9%B4%E6%95%99%E8%B5%84%E9%9A%BE%E5%90%97%23" target="weibo">
+你觉得今年教资难吗（热度：208108）
 </a>
 </li>
 
@@ -850,7 +916,7 @@ Angelababy说想学我做的腌水果（热度：249886）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A6%96%E6%AC%A1%E5%B0%86%E4%B9%9D%E4%BB%B7HPV%E7%96%AB%E8%8B%97%E7%BA%B3%E5%85%A5%E8%A1%A5%E8%B4%B4%23" target="weibo">
-重庆首次将九价HPV疫苗纳入补贴（热度：192434）
+重庆首次将九价HPV疫苗纳入补贴（热度：193587）
 </a>
 </li>
 
@@ -1071,14 +1137,14 @@ Jennie芭莎十月刊封面大片（热度：149994）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%903%E6%AC%A1%E7%8C%A5%E4%BA%B5%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%80%81%E5%A9%86%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-男子3次猥亵邻座女子被老婆狂扇耳光（热度：143587）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E4%BA%AB%E5%8D%88%E9%A5%AD%E8%A2%AB%E7%88%B8%E5%A6%88%E4%BB%A5%E4%B8%BA%E5%9C%A8%E5%93%AD%E7%A9%B7%23" target="weibo">
+分享午饭被爸妈以为在哭穷（热度：143995）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E4%BA%AB%E5%8D%88%E9%A5%AD%E8%A2%AB%E7%88%B8%E5%A6%88%E4%BB%A5%E4%B8%BA%E5%9C%A8%E5%93%AD%E7%A9%B7%23" target="weibo">
-分享午饭被爸妈以为在哭穷（热度：142045）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%903%E6%AC%A1%E7%8C%A5%E4%BA%B5%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%80%81%E5%A9%86%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+男子3次猥亵邻座女子被老婆狂扇耳光（热度：143587）
 </a>
 </li>
 
@@ -1121,6 +1187,12 @@ Jennie芭莎十月刊封面大片（热度：149994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E8%84%8A%E6%9F%B1%E9%94%99%E4%BD%8D%E4%B8%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%92%94%E5%90%A7%E4%B8%80%E5%A3%B0%E6%8E%A5%E5%9B%9E%23" target="weibo">
 小猫脊柱错位中医学生咔吧一声接回（热度：131172）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%90%84%E6%9C%89%E5%90%84%E7%9A%84%E7%B4%AF%23" target="weibo">
+陆毅鲍蕾各有各的累（热度：131076）
 </a>
 </li>
 
@@ -1312,7 +1384,7 @@ Jennie芭莎十月刊封面大片（热度：149994）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%A4%A7%E6%B2%B3%E6%96%87%E6%98%8E%E8%AE%BA%E5%9D%9B%23" target="weibo">
-世界大河文明论坛（热度：18699）
+世界大河文明论坛（热度：26089）
 </a>
 </li>
 

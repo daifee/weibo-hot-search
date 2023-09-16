@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694848447518,
+  "endTime": 1694849637113,
   "band_list": [
     {
       "raw_hot": 3793498,
@@ -105,6 +105,14 @@
       "onboard_time": 1694790759,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1484951,
+      "num": 1484951,
+      "word": "教资科二",
+      "onboard_time": 1694848474,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1411921,
@@ -219,6 +227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 829978,
+      "num": 829978,
+      "word": "校方回应女老师与多名同事有不正当关系",
+      "onboard_time": 1694845650,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806802,
+      "num": 385999,
+      "word": "原来鸡兔同笼一句话就能解决",
+      "onboard_time": 1694848115,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 793023,
       "num": 793023,
       "word": "封神质子团综开始录制",
@@ -241,14 +265,6 @@
       "onboard_time": 1694833173,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 736578,
-      "num": 390864,
-      "word": "校方回应女老师与多名同事有不正当关系",
-      "onboard_time": 1694845650,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 727551,
@@ -284,11 +300,19 @@
     },
     {
       "raw_hot": 698191,
-      "num": 374310,
+      "num": 385591,
       "word": "男子与情人通奸被其丈夫杀害",
       "onboard_time": 1694843494,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676011,
+      "num": 390236,
+      "word": "迪丽热巴扛住了绿光",
+      "onboard_time": 1694846914,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 653751,
@@ -297,6 +321,14 @@
       "onboard_time": 1694825494,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 615389,
+      "num": 388245,
+      "word": "iPhone15实现了乔布斯的摄影设想",
+      "onboard_time": 1694845953,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 608491,
@@ -395,20 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 511202,
-      "num": 384772,
-      "word": "iPhone15实现了乔布斯的摄影设想",
-      "onboard_time": 1694845953,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 497871,
       "num": 497871,
       "word": "失聪50年父亲戴人工耳蜗听声音后哭了",
       "onboard_time": 1694838873,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495778,
+      "num": 387494,
+      "word": "王耀庆因徐良淘汰哭了",
+      "onboard_time": 1694845650,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 494672,
@@ -459,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459918,
-      "num": 384334,
-      "word": "迪丽热巴扛住了绿光",
-      "onboard_time": 1694846914,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443554,
       "num": 443554,
       "word": "肖战说不要把本人带入角色",
@@ -475,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 434018,
-      "num": 381251,
-      "word": "王耀庆因徐良淘汰哭了",
-      "onboard_time": 1694845650,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 435511,
+      "num": 386966,
+      "word": "iPhone15Pro系列存在变色和吸指纹问题",
+      "onboard_time": 1694848115,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 432948,
@@ -491,10 +515,18 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 425057,
-      "num": 381154,
-      "word": "原来鸡兔同笼一句话就能解决",
-      "onboard_time": 1694848115,
+      "raw_hot": 431348,
+      "num": 387080,
+      "word": "戚薇拿捏了小学生花零花钱心理",
+      "onboard_time": 1694849076,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 430870,
+      "num": 386164,
+      "word": "生理期去高原一滴都无",
+      "onboard_time": 1694849495,
       "rank": 19,
       "category": "情感"
     },
@@ -561,6 +593,14 @@
       "onboard_time": 1694829093,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391163,
+      "num": 385217,
+      "word": "亲爱的芙出轨只有0次和无数次",
+      "onboard_time": 1694849136,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 389543,
@@ -795,6 +835,22 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 291487,
+      "num": 291487,
+      "word": "世界公认的长高动作",
+      "onboard_time": 1694848474,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 289832,
+      "num": 289832,
+      "word": "高薪但不体面的职业",
+      "onboard_time": 1694849435,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284395,
       "num": 284395,
       "word": "男爱豆Smoke Challenge合集",
@@ -825,14 +881,6 @@
       "onboard_time": 1694843435,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267087,
-      "num": 251213,
-      "word": "iPhone15Pro系列存在变色和吸指纹问题",
-      "onboard_time": 1694848115,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 266889,
@@ -899,6 +947,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253485,
+      "num": 253485,
+      "word": "睡裙质子团子",
+      "onboard_time": 1694848474,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 253372,
+      "num": 253372,
+      "word": "头牌主播 把价格抬上去再把低价垄断",
+      "onboard_time": 1694848716,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 252727,
       "num": 252727,
       "word": "披荆斩棘二公",
@@ -961,6 +1025,14 @@
       "onboard_time": 1694827594,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234576,
+      "num": 234576,
+      "word": "中国人自己的垫底辣妹",
+      "onboard_time": 1694848535,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 230697,
@@ -1027,12 +1099,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212528,
+      "num": 212528,
+      "word": "SEVENTEEN毒还是要看这场",
+      "onboard_time": 1694849136,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208966,
       "num": 208966,
       "word": "隐翅虫",
       "onboard_time": 1694823753,
       "rank": 29,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 208108,
+      "num": 208108,
+      "word": "你觉得今年教资难吗",
+      "onboard_time": 1694849255,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 204580,
@@ -1115,8 +1203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192434,
-      "num": 192434,
+      "raw_hot": 193587,
+      "num": 193587,
       "word": "重庆首次将九价HPV疫苗纳入补贴",
       "onboard_time": 1694847335,
       "rank": 31,
@@ -1411,20 +1499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143995,
+      "num": 143995,
+      "word": "分享午饭被爸妈以为在哭穷",
+      "onboard_time": 1694848115,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143587,
       "num": 143587,
       "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
       "onboard_time": 1694771614,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142045,
-      "num": 142045,
-      "word": "分享午饭被爸妈以为在哭穷",
-      "onboard_time": 1694848115,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 141775,
@@ -1481,6 +1569,14 @@
       "onboard_time": 1694823092,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131076,
+      "num": 131076,
+      "word": "陆毅鲍蕾各有各的累",
+      "onboard_time": 1694849614,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130194,
@@ -1620,7 +1716,7 @@
     },
     {
       "raw_hot": 82371,
-      "num": 732839,
+      "num": 1454413,
       "word": "当亚运会遇上中国风",
       "onboard_time": 1694839233,
       "rank": 2,
@@ -1731,8 +1827,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 18699,
-      "num": 385984,
+      "raw_hot": 26089,
+      "num": 388489,
       "word": "世界大河文明论坛",
       "onboard_time": 1694847633,
       "rank": 14,
