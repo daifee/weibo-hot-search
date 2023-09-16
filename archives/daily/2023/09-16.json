@@ -1,7 +1,15 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694835230252,
+  "endTime": 1694837960972,
   "band_list": [
+    {
+      "raw_hot": 3793498,
+      "num": 3793498,
+      "word": "好歹毒的教资作文",
+      "onboard_time": 1694835215,
+      "rank": 32,
+      "category": "教育"
+    },
     {
       "raw_hot": 2553536,
       "num": 2553536,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1912403,
-      "num": 1032080,
+      "num": 1306153,
       "word": "国内出现女性猴痘感染者",
       "onboard_time": 1694828912,
       "rank": 22,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1728098,
-      "num": 521352,
+      "num": 523207,
       "word": "陈乔恩连续七年晒照悼念乔任梁",
       "onboard_time": 1694827233,
       "rank": 12,
@@ -139,8 +147,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 909977,
-      "num": 510335,
+      "raw_hot": 950496,
+      "num": 542787,
       "word": "iPhone15没往年那么难抢",
       "onboard_time": 1694832273,
       "rank": 11,
@@ -208,6 +216,14 @@
       "word": "法考凭什么被称为天下第一考",
       "onboard_time": 1694825494,
       "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 650850,
+      "num": 650850,
+      "word": "法考",
+      "onboard_time": 1694826995,
+      "rank": 29,
       "category": "教育"
     },
     {
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486305,
+      "num": 486305,
+      "word": "教资选择题好难",
+      "onboard_time": 1694837074,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 474558,
       "num": 251672,
       "word": "金靖首次回应金繁倒立梗",
@@ -291,8 +315,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 471171,
-      "num": 471171,
+      "raw_hot": 471529,
+      "num": 471529,
       "word": "广东惠州一学校76名教师开学前遭解聘",
       "onboard_time": 1694829754,
       "rank": 23,
@@ -300,11 +324,19 @@
     },
     {
       "raw_hot": 470630,
-      "num": 480225,
+      "num": 489473,
       "word": "英国正式将瓦格纳集团列为恐怖组织",
       "onboard_time": 1694824772,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 469285,
+      "num": 469285,
+      "word": "封神质子团综开始录制",
+      "onboard_time": 1694837675,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 443554,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 420322,
-      "num": 498847,
+      "num": 514182,
       "word": "大熊猫公主融融已去世",
       "onboard_time": 1694828733,
       "rank": 13,
@@ -337,6 +369,14 @@
       "onboard_time": 1694822371,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416012,
+      "num": 416012,
+      "word": "又看到铁三角整活了",
+      "onboard_time": 1694834557,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 402439,
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 327898,
-      "num": 222669,
+      "num": 235545,
       "word": "化妆前刮脸",
       "onboard_time": 1694832992,
       "rank": 31,
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 327184,
-      "num": 222846,
+      "num": 234765,
       "word": "被朋友家里的厕所惊到了",
       "onboard_time": 1694833355,
       "rank": 32,
@@ -465,14 +505,6 @@
       "onboard_time": 1694778693,
       "rank": 16,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 312617,
-      "num": 222801,
-      "word": "好歹毒的教资作文",
-      "onboard_time": 1694835215,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 310428,
@@ -499,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305482,
+      "num": 305482,
+      "word": "长期对人真诚要先保护好自己",
+      "onboard_time": 1694835877,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301467,
       "num": 301467,
       "word": "张翰将出演如梦之梦",
@@ -523,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284395,
+      "num": 284395,
+      "word": "男爱豆Smoke Challenge合集",
+      "onboard_time": 1694837553,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282305,
       "num": 269301,
       "word": "赵今麦新剧开播换头像",
@@ -537,14 +585,6 @@
       "onboard_time": 1694831974,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276075,
-      "num": 276075,
-      "word": "法考",
-      "onboard_time": 1694826995,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 266889,
@@ -587,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256284,
-      "num": 256284,
-      "word": "又看到铁三角整活了",
-      "onboard_time": 1694834557,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 253557,
       "num": 253557,
       "word": "陆毅演我写简历",
@@ -632,6 +664,14 @@
       "word": "蔡少芬贾静雯 相爱相杀好姐妹",
       "onboard_time": 1694827713,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239072,
+      "num": 239072,
+      "word": "听说很好吃今晚吃家乡菜",
+      "onboard_time": 1694837614,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -803,6 +843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186906,
+      "num": 186906,
+      "word": "为何将猴痘纳入乙类传染病",
+      "onboard_time": 1694837014,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184024,
+      "num": 184024,
+      "word": "孟德尔你让我写什么",
+      "onboard_time": 1694837793,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 183610,
       "num": 183610,
       "word": "青岛一小区母子3人坠楼",
@@ -819,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179869,
+      "num": 179869,
+      "word": "这下谁还分得清Somi和芭比",
+      "onboard_time": 1694837553,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177688,
       "num": 177688,
       "word": "云为衫炫耀宫子羽的爱",
@@ -833,6 +897,14 @@
       "onboard_time": 1694832331,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174230,
+      "num": 174230,
+      "word": "对数学的回忆只剩恐惧了",
+      "onboard_time": 1694837853,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 167115,
@@ -936,6 +1008,14 @@
       "word": "宫紫商金繁大声密谋被宫远徵抓包",
       "onboard_time": 1694823931,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144970,
+      "num": 144970,
+      "word": "他从火光中走来制作特辑",
+      "onboard_time": 1694835995,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1169,6 +1249,14 @@
       "onboard_time": 1694809694,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35339,
+      "num": 1568472,
+      "word": "2023年网络安全周云计算服务安全分论坛",
+      "onboard_time": 1694837074,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31786,
