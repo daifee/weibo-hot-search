@@ -1,0 +1,410 @@
+{
+  "runTime": 1694841300693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1898583,
+        "num": 1898583,
+        "word": "好歹毒的教资作文",
+        "onboard_time": 1694835215,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 915623,
+        "num": 915623,
+        "word": "白色橄榄树 玖月晞",
+        "onboard_time": 1694839534,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56760,
+        "num": 732839,
+        "word": "当亚运会遇上中国风",
+        "onboard_time": 1694839233,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679402,
+        "num": 679402,
+        "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+        "onboard_time": 1694820266,
+        "rank": 3,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 608491,
+        "num": 608491,
+        "word": "曾舜晞雪重子原片",
+        "onboard_time": 1694839233,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528207,
+        "num": 528207,
+        "word": "法考",
+        "onboard_time": 1694826995,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 497871,
+        "num": 497871,
+        "word": "失聪50年父亲戴人工耳蜗听声音后哭了",
+        "onboard_time": 1694838873,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462335,
+        "num": 462335,
+        "word": "教资",
+        "onboard_time": 1694821229,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 442230,
+        "num": 442230,
+        "word": "封神质子团综开始录制",
+        "onboard_time": 1694837675,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421426,
+        "num": 421426,
+        "word": "梁洁宋冉好贴",
+        "onboard_time": 1694839894,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1931505,
+        "num": 419593,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602263,
+        "num": 418099,
+        "word": "iPhone15没往年那么难抢",
+        "onboard_time": 1694832273,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191167,
+        "num": 413203,
+        "word": "大熊猫公主融融已去世",
+        "onboard_time": 1694828733,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 177508,
+        "num": 411741,
+        "word": "中医正骨1秒救治瘫痪小猫",
+        "onboard_time": 1694839835,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 160646,
+        "num": 407854,
+        "word": "英国正式将瓦格纳集团列为恐怖组织",
+        "onboard_time": 1694824772,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 663774,
+        "num": 402232,
+        "word": "陈乔恩连续七年晒照悼念乔任梁",
+        "onboard_time": 1694827233,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402201,
+        "num": 402201,
+        "word": "易烊千玺工作室成立六周年vlog",
+        "onboard_time": 1694838994,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400220,
+        "num": 400220,
+        "word": "广东惠州一学校76名教师开学前遭解聘",
+        "onboard_time": 1694829754,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335100,
+        "num": 335100,
+        "word": "吴磊一个人就是一档综艺节目",
+        "onboard_time": 1694838691,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320607,
+        "num": 320607,
+        "word": "曾舜晞 心如止水",
+        "onboard_time": 1694820266,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 755959,
+        "num": 319819,
+        "word": "蜜雪冰城被曝喝出蜘蛛",
+        "onboard_time": 1694839233,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595127,
+        "num": 318903,
+        "word": "跟老公冷战结果越睡越远",
+        "onboard_time": 1694839233,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331331,
+        "num": 317210,
+        "word": "老人疑遭儿媳虐待外孙驱车千里赶回",
+        "onboard_time": 1694839175,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312056,
+        "num": 312056,
+        "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
+        "onboard_time": 1694839652,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 273817,
+        "num": 273817,
+        "word": "白色橄榄树开机",
+        "onboard_time": 1694833173,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240394,
+        "num": 240394,
+        "word": "教官让顺拐同学组成一个方队",
+        "onboard_time": 1694839175,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 237058,
+        "num": 237058,
+        "word": "那么大的于适骑那么小的马",
+        "onboard_time": 1694840915,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229866,
+        "num": 229866,
+        "word": "又看到铁三角整活了",
+        "onboard_time": 1694834557,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221491,
+        "num": 221491,
+        "word": "首批iPhone15Pro一分钟被抢光",
+        "onboard_time": 1694827834,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219546,
+        "num": 219546,
+        "word": "教资选择题好难",
+        "onboard_time": 1694837074,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482046,
+        "num": 214095,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190782,
+        "num": 190782,
+        "word": "找对象的尽头是高初中同学",
+        "onboard_time": 1694826575,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189314,
+        "num": 189314,
+        "word": "长期对人真诚要先保护好自己",
+        "onboard_time": 1694835877,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184676,
+        "num": 184676,
+        "word": "教资答案",
+        "onboard_time": 1694834135,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174007,
+        "num": 174007,
+        "word": "宫远徵第一次喊宫尚角",
+        "onboard_time": 1694830593,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167236,
+        "num": 167236,
+        "word": "肖战说不要把本人带入角色",
+        "onboard_time": 1694825315,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163583,
+        "num": 163583,
+        "word": "蜂花终身认养了一只大熊猫",
+        "onboard_time": 1694820806,
+        "rank": 36,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 161251,
+        "num": 161251,
+        "word": "葡萄干是这样晾的",
+        "onboard_time": 1694838033,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 159954,
+        "num": 159954,
+        "word": "被朋友家里的厕所惊到了",
+        "onboard_time": 1694833355,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155613,
+        "num": 155613,
+        "word": "孟德尔你让我写什么",
+        "onboard_time": 1694837793,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148872,
+        "num": 148872,
+        "word": "金靖首次回应金繁倒立梗",
+        "onboard_time": 1694830231,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145734,
+        "num": 145734,
+        "word": "广州168元早茶自助",
+        "onboard_time": 1694840976,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141998,
+        "num": 141998,
+        "word": "这下谁还分得清Somi和芭比",
+        "onboard_time": 1694837553,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136441,
+        "num": 136441,
+        "word": "77岁大爷发明出久坐屁股不疼坐垫",
+        "onboard_time": 1694828072,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131506,
+        "num": 131506,
+        "word": "1元秒杀788元套餐到店被赶走",
+        "onboard_time": 1694828314,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 126421,
+        "num": 126421,
+        "word": "男爱豆Smoke Challenge合集",
+        "onboard_time": 1694837553,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117520,
+        "num": 126419,
+        "word": "黄奕上错花轿嫁对郎未曝光剧照",
+        "onboard_time": 1694822732,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115513,
+        "num": 126407,
+        "word": "张桂梅与参军学生深情相拥",
+        "onboard_time": 1694840135,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111853,
+        "num": 126389,
+        "word": "SEVENTEEN毒发行四周年",
+        "onboard_time": 1694833533,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104257,
+        "num": 126385,
+        "word": "法考凭什么被称为天下第一考",
+        "onboard_time": 1694825494,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中国家群体性崛起已成时代潮流#"
+    }
+  }
+}
