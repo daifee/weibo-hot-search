@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694862764858,
+  "endTime": 1694864029360,
   "band_list": [
     {
       "raw_hot": 10136248,
@@ -19,20 +19,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3763939,
+      "num": 444910,
+      "word": "李佳琦吹羽毛二创视频",
+      "onboard_time": 1694861318,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3104486,
       "num": 464377,
       "word": "袁冰妍偷逃税被追缴并罚款297万元",
       "onboard_time": 1694851777,
       "rank": 10,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3014584,
-      "num": 433314,
-      "word": "李佳琦吹羽毛二创视频",
-      "onboard_time": 1694861318,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 2717312,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1203628,
-      "num": 449620,
+      "num": 1013117,
       "word": "袁冰妍被约谈后仍整改不彻底",
       "onboard_time": 1694860177,
       "rank": 11,
@@ -371,6 +371,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 702562,
+      "num": 702562,
+      "word": "BLACKPINK首尔安可",
+      "onboard_time": 1694861256,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 702073,
       "num": 702073,
       "word": "35元2颗茅台巧克力贵不贵",
@@ -451,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 607394,
-      "num": 607394,
-      "word": "BLACKPINK首尔安可",
-      "onboard_time": 1694861256,
-      "rank": 5,
-      "category": "演出"
+      "raw_hot": 607811,
+      "num": 359492,
+      "word": "张晚意 有点意式",
+      "onboard_time": 1694862999,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 598903,
@@ -521,6 +529,14 @@
       "onboard_time": 1694848115,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 556557,
+      "num": 357650,
+      "word": "胡锡进发文评李佳琦事件",
+      "onboard_time": 1694862635,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536882,
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470922,
+      "num": 470922,
+      "word": "人民网评袁某某偷逃税是洗不白的",
+      "onboard_time": 1694859879,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 470630,
       "num": 489473,
       "word": "英国正式将瓦格纳集团列为恐怖组织",
@@ -625,14 +649,6 @@
       "onboard_time": 1694849435,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 450816,
-      "num": 450816,
-      "word": "人民网评袁某某偷逃税是洗不白的",
-      "onboard_time": 1694859879,
-      "rank": 23,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 444976,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 387065,
-      "num": 289746,
+      "num": 295799,
       "word": "教资科三",
       "onboard_time": 1694860657,
       "rank": 21,
@@ -1283,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230341,
+      "num": 230341,
+      "word": "轰动世界的数学大师也逃过课",
+      "onboard_time": 1694862216,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230099,
       "num": 230099,
       "word": "五月天隔空祝福蔡依林",
@@ -1371,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210174,
+      "num": 210174,
+      "word": "蔡依林合肥演唱会",
+      "onboard_time": 1694863715,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208966,
       "num": 208966,
       "word": "隐翅虫",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1694855140,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204692,
+      "num": 204692,
+      "word": "安溥现场",
+      "onboard_time": 1694863477,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 204580,
@@ -1427,20 +1467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200534,
-      "num": 189120,
-      "word": "轰动世界的数学大师也逃过课",
-      "onboard_time": 1694862216,
+      "raw_hot": 199475,
+      "num": 199475,
+      "word": "高颜值餐具",
+      "onboard_time": 1694863176,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 199037,
-      "num": 184646,
-      "word": "胡锡进发文评李佳琦事件",
-      "onboard_time": 1694862635,
-      "rank": 31,
-      "category": "社会新闻"
+      "category": "时尚"
     },
     {
       "raw_hot": 198366,
@@ -1616,6 +1648,14 @@
       "word": "青岛一小区母子3人坠楼",
       "onboard_time": 1694774133,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183603,
+      "num": 183603,
+      "word": "徐家汇地铁站",
+      "onboard_time": 1694863775,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154692,
+      "num": 154692,
+      "word": "老祖宗的审美遥遥领先",
+      "onboard_time": 1694863715,
+      "rank": 37,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 154344,
       "num": 154344,
       "word": "成语一鸣惊人说的是谁",
@@ -1883,6 +1931,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149468,
+      "num": 149468,
+      "word": "丽水媳妇Rose从乌干达赶回看火炬",
+      "onboard_time": 1694862936,
+      "rank": 41,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 148048,
+      "num": 148048,
+      "word": "4个小众免签国",
+      "onboard_time": 1694863897,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146829,
       "num": 146829,
       "word": "如何看待蜂花借李佳琦热点搞营销",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1694787999,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134939,
+      "num": 134939,
+      "word": "父亲儿时的愿望被儿子实现了",
+      "onboard_time": 1694863297,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134443,

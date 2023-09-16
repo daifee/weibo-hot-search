@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/16 19:12:44
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/16 19:33:49
 </p>
 </blockquote>
 <p>
@@ -213,6 +213,12 @@ UFO（热度：4690158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%90%B9%E7%BE%BD%E6%AF%9B%E4%BA%8C%E5%88%9B%E8%A7%86%E9%A2%91%23" target="weibo">
+李佳琦吹羽毛二创视频（热度：3763939）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E7%A8%80%E5%B7%B4%E7%83%82%23" target="weibo">
 云之羽 稀巴烂（热度：3652588）
 </a>
@@ -389,12 +395,6 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8%23" target="weibo">
 开端第二部（热度：3019332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%90%B9%E7%BE%BD%E6%AF%9B%E4%BA%8C%E5%88%9B%E8%A7%86%E9%A2%91%23" target="weibo">
-李佳琦吹羽毛二创视频（热度：3014584）
 </a>
 </li>
 

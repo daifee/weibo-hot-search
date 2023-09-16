@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694862764858,
+  "endTime": 1694864029360,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -179,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3763939,
+      "num": 444910,
+      "word": "李佳琦吹羽毛二创视频",
+      "onboard_time": 1694861318,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3652588,
       "num": 1153218,
       "word": "云之羽 稀巴烂",
@@ -289,14 +297,6 @@
       "onboard_time": 1694692596,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3014584,
-      "num": 433314,
-      "word": "李佳琦吹羽毛二创视频",
-      "onboard_time": 1694861318,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 2976800,
@@ -1924,7 +1924,7 @@
     },
     {
       "raw_hot": 1203628,
-      "num": 449620,
+      "num": 1013117,
       "word": "袁冰妍被约谈后仍整改不彻底",
       "onboard_time": 1694860177,
       "rank": 11,
@@ -3643,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702562,
+      "num": 702562,
+      "word": "BLACKPINK首尔安可",
+      "onboard_time": 1694861256,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 702196,
       "num": 702196,
       "word": "华为问界新M7",
@@ -4259,12 +4267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 607394,
-      "num": 607394,
-      "word": "BLACKPINK首尔安可",
-      "onboard_time": 1694861256,
-      "rank": 5,
-      "category": "演出"
+      "raw_hot": 607811,
+      "num": 359492,
+      "word": "张晚意 有点意式",
+      "onboard_time": 1694862999,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 605827,
@@ -4688,6 +4696,14 @@
       "word": "新精英的傲慢",
       "onboard_time": 1694524722,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556557,
+      "num": 357650,
+      "word": "胡锡进发文评李佳琦事件",
+      "onboard_time": 1694862635,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -5699,6 +5715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470922,
+      "num": 470922,
+      "word": "人民网评袁某某偷逃税是洗不白的",
+      "onboard_time": 1694859879,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 470630,
       "num": 489473,
       "word": "英国正式将瓦格纳集团列为恐怖组织",
@@ -5985,14 +6009,6 @@
       "onboard_time": 1694482597,
       "rank": 18,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 450816,
-      "num": 450816,
-      "word": "人民网评袁某某偷逃税是洗不白的",
-      "onboard_time": 1694859879,
-      "rank": 23,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 450644,
@@ -7084,7 +7100,7 @@
     },
     {
       "raw_hot": 387065,
-      "num": 289746,
+      "num": 295799,
       "word": "教资科三",
       "onboard_time": 1694860657,
       "rank": 21,
@@ -11339,6 +11355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230341,
+      "num": 230341,
+      "word": "轰动世界的数学大师也逃过课",
+      "onboard_time": 1694862216,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230099,
       "num": 230099,
       "word": "五月天隔空祝福蔡依林",
@@ -12243,6 +12267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210174,
+      "num": 210174,
+      "word": "蔡依林合肥演唱会",
+      "onboard_time": 1694863715,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210157,
       "num": 210157,
       "word": "薛之谦福州抢票",
@@ -12651,6 +12683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204692,
+      "num": 204692,
+      "word": "安溥现场",
+      "onboard_time": 1694863477,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204580,
       "num": 204580,
       "word": "年少时光今日开播",
@@ -12987,14 +13027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200534,
-      "num": 189120,
-      "word": "轰动世界的数学大师也逃过课",
-      "onboard_time": 1694862216,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200436,
       "num": 200436,
       "word": "盛阳主动吻简冰",
@@ -13115,6 +13147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199475,
+      "num": 199475,
+      "word": "高颜值餐具",
+      "onboard_time": 1694863176,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 199221,
       "num": 199221,
       "word": "TTG状态太猛了",
@@ -13137,14 +13177,6 @@
       "onboard_time": 1694663321,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199037,
-      "num": 184646,
-      "word": "胡锡进发文评李佳琦事件",
-      "onboard_time": 1694862635,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198735,
@@ -14257,6 +14289,14 @@
       "onboard_time": 1694438269,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 183603,
+      "num": 183603,
+      "word": "徐家汇地铁站",
+      "onboard_time": 1694863775,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183388,
@@ -15651,6 +15691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154692,
+      "num": 154692,
+      "word": "老祖宗的审美遥遥领先",
+      "onboard_time": 1694863715,
+      "rank": 37,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 154490,
       "num": 154490,
       "word": "胡歌给女儿起名茉莉的原因",
@@ -15843,6 +15891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149468,
+      "num": 149468,
+      "word": "丽水媳妇Rose从乌干达赶回看火炬",
+      "onboard_time": 1694862936,
+      "rank": 41,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 149201,
       "num": 366147,
       "word": "真的有人吃东西前不看热量吗",
@@ -15873,6 +15929,14 @@
       "onboard_time": 1694737175,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148048,
+      "num": 148048,
+      "word": "4个小众免签国",
+      "onboard_time": 1694863897,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 147868,
@@ -16297,6 +16361,14 @@
       "onboard_time": 1694347473,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134939,
+      "num": 134939,
+      "word": "父亲儿时的愿望被儿子实现了",
+      "onboard_time": 1694863297,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134885,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694864029360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254716,
+        "num": 1254716,
+        "word": "人民日报批明星偷逃税",
+        "onboard_time": 1694857003,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 404729,
+        "num": 1040770,
+        "word": "路边捡到10万块他毫不犹豫打了110",
+        "onboard_time": 1694850816,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43754,
+        "num": 1020644,
+        "word": "我们的亚运",
+        "onboard_time": 1694857720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013117,
+        "num": 1013117,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 274051,
+        "num": 755003,
+        "word": "酒店人员邀请环卫工们进屋避雨",
+        "onboard_time": 1694858204,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 702562,
+        "num": 702562,
+        "word": "BLACKPINK首尔安可",
+        "onboard_time": 1694861256,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159820,
+        "num": 569349,
+        "word": "的哥4分钟连闯6红灯送乘客就医",
+        "onboard_time": 1694860235,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488542,
+        "num": 488542,
+        "word": "云之羽隐藏结局",
+        "onboard_time": 1694858801,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470922,
+        "num": 470922,
+        "word": "人民网评袁某某偷逃税是洗不白的",
+        "onboard_time": 1694859879,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 461600,
+        "num": 461600,
+        "word": "餐厅称被烧伤女子为拍视频要求多加酒精",
+        "onboard_time": 1694856405,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3763939,
+        "num": 444910,
+        "word": "李佳琦吹羽毛二创视频",
+        "onboard_time": 1694861318,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2468775,
+        "num": 438244,
+        "word": "官方通报袁冰妍偷逃税事件",
+        "onboard_time": 1694850516,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 761938,
+        "num": 419404,
+        "word": "日媒曝羽生结弦老婆身份",
+        "onboard_time": 1694854237,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665082,
+        "num": 397505,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607811,
+        "num": 359492,
+        "word": "张晚意 有点意式",
+        "onboard_time": 1694862999,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556557,
+        "num": 357650,
+        "word": "胡锡进发文评李佳琦事件",
+        "onboard_time": 1694862635,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338387,
+        "num": 338387,
+        "word": "35元2颗茅台巧克力贵不贵",
+        "onboard_time": 1694853638,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 333801,
+        "num": 333801,
+        "word": "iPhone15Pro系列存在变色和吸指纹问题",
+        "onboard_time": 1694848115,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318737,
+        "num": 318737,
+        "word": "成毅曾舜晞肖顺尧彩排舞台",
+        "onboard_time": 1694855806,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316420,
+        "num": 316420,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 755388,
+        "num": 312591,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295799,
+        "num": 295799,
+        "word": "教资科三",
+        "onboard_time": 1694860657,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286938,
+        "num": 286938,
+        "word": "蜜雪冰城被曝喝出蜘蛛",
+        "onboard_time": 1694839233,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242069,
+        "num": 242069,
+        "word": "迪丽热巴扛住了绿光",
+        "onboard_time": 1694846914,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240307,
+        "num": 240307,
+        "word": "高薪但不体面的职业",
+        "onboard_time": 1694849435,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236540,
+        "num": 236540,
+        "word": "法考",
+        "onboard_time": 1694855806,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230341,
+        "num": 230341,
+        "word": "轰动世界的数学大师也逃过课",
+        "onboard_time": 1694862216,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210174,
+        "num": 210174,
+        "word": "蔡依林合肥演唱会",
+        "onboard_time": 1694863715,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206096,
+        "num": 206096,
+        "word": "丑衣服都卖给了年轻时的我",
+        "onboard_time": 1694843973,
+        "rank": 28,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 204692,
+        "num": 204692,
+        "word": "安溥现场",
+        "onboard_time": 1694863477,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199475,
+        "num": 199475,
+        "word": "高颜值餐具",
+        "onboard_time": 1694863176,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 185475,
+        "num": 185475,
+        "word": "XYG对战MTG",
+        "onboard_time": 1694861975,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183603,
+        "num": 183603,
+        "word": "徐家汇地铁站",
+        "onboard_time": 1694863775,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183398,
+        "num": 183398,
+        "word": "肖战白百何片场抱饮抱食",
+        "onboard_time": 1694858138,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177822,
+        "num": 177822,
+        "word": "教资科二",
+        "onboard_time": 1694848474,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176110,
+        "num": 176110,
+        "word": "跟迪丽热巴学拍照pose",
+        "onboard_time": 1694858977,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 159068,
+        "num": 159068,
+        "word": "爱宝双胞胎已经学走路了",
+        "onboard_time": 1694854237,
+        "rank": 36,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 154692,
+        "num": 154692,
+        "word": "老祖宗的审美遥遥领先",
+        "onboard_time": 1694863715,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 154457,
+        "num": 154457,
+        "word": "张新成求周雨彤吵一架",
+        "onboard_time": 1694857899,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154094,
+        "num": 154094,
+        "word": "中国人自己的垫底辣妹",
+        "onboard_time": 1694848535,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150208,
+        "num": 150208,
+        "word": "虞书欣为云为衫跳了一支舞",
+        "onboard_time": 1694854478,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149468,
+        "num": 149468,
+        "word": "丽水媳妇Rose从乌干达赶回看火炬",
+        "onboard_time": 1694862936,
+        "rank": 41,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 148048,
+        "num": 148048,
+        "word": "4个小众免签国",
+        "onboard_time": 1694863897,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 141253,
+        "num": 141253,
+        "word": "任子威撞倒了林孝埈",
+        "onboard_time": 1694853460,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140704,
+        "num": 140704,
+        "word": "柯南主角团全新海报",
+        "onboard_time": 1694860958,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 134939,
+        "num": 134939,
+        "word": "父亲儿时的愿望被儿子实现了",
+        "onboard_time": 1694863297,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133706,
+        "num": 133706,
+        "word": "教资答案",
+        "onboard_time": 1694834135,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127449,
+        "num": 127449,
+        "word": "张杰掉凳儿三连",
+        "onboard_time": 1694858204,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123295,
+        "num": 123295,
+        "word": "林孝埈男子500米夺冠",
+        "onboard_time": 1694854540,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122931,
+        "num": 122931,
+        "word": "校方回应女老师与多名同事有不正当关系",
+        "onboard_time": 1694845650,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给东北大学全体师生回信#"
+    }
+  }
+}
