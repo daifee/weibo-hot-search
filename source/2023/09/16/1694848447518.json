@@ -1,0 +1,410 @@
+{
+  "runTime": 1694848447518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2141196,
+        "num": 2141196,
+        "word": "蜜雪冰城被曝喝出蜘蛛",
+        "onboard_time": 1694839233,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1815050,
+        "num": 1815050,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 20171,
+        "num": 1488976,
+        "word": "2023年网络安全周云计算服务安全分论坛",
+        "onboard_time": 1694837074,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255781,
+        "num": 1255781,
+        "word": "丑衣服都卖给了年轻时的我",
+        "onboard_time": 1694843973,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 777740,
+        "num": 777740,
+        "word": "徐良淘汰",
+        "onboard_time": 1694841695,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 764186,
+        "num": 764186,
+        "word": "教资",
+        "onboard_time": 1694821229,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 622789,
+        "num": 622789,
+        "word": "女子高铁座位被占换回后遭3人殴打",
+        "onboard_time": 1694841934,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454737,
+        "num": 454737,
+        "word": "云之羽第22集封神",
+        "onboard_time": 1694843556,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393803,
+        "num": 393803,
+        "word": "教资答案",
+        "onboard_time": 1694834135,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 391071,
+        "num": 391071,
+        "word": "aespa与蟑螂的合作舞台",
+        "onboard_time": 1694843375,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 736578,
+        "num": 390864,
+        "word": "校方回应女老师与多名同事有不正当关系",
+        "onboard_time": 1694845650,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167411,
+        "num": 389394,
+        "word": "中医正骨1秒救治瘫痪小猫",
+        "onboard_time": 1694839835,
+        "rank": 11,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 157619,
+        "num": 388075,
+        "word": "教官让顺拐同学组成一个方队",
+        "onboard_time": 1694839175,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 100561,
+        "num": 387144,
+        "word": "大熊猫公主融融已去世",
+        "onboard_time": 1694828733,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 18699,
+        "num": 385984,
+        "word": "世界大河文明论坛",
+        "onboard_time": 1694847633,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511202,
+        "num": 384772,
+        "word": "iPhone15实现了乔布斯的摄影设想",
+        "onboard_time": 1694845953,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 459918,
+        "num": 384334,
+        "word": "迪丽热巴扛住了绿光",
+        "onboard_time": 1694846914,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448716,
+        "num": 383079,
+        "word": "陈乔恩连续七年晒照悼念乔任梁",
+        "onboard_time": 1694827233,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434018,
+        "num": 381251,
+        "word": "王耀庆因徐良淘汰哭了",
+        "onboard_time": 1694845650,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425057,
+        "num": 381154,
+        "word": "原来鸡兔同笼一句话就能解决",
+        "onboard_time": 1694848115,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 380155,
+        "num": 380155,
+        "word": "就算说的是韩语也能看出是中国人",
+        "onboard_time": 1694844695,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 659196,
+        "num": 374310,
+        "word": "男子与情人通奸被其丈夫杀害",
+        "onboard_time": 1694843494,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367625,
+        "num": 367625,
+        "word": "iPhone15使用标准USBC端口",
+        "onboard_time": 1694843735,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 320133,
+        "num": 320133,
+        "word": "曾舜晞雪重子原片",
+        "onboard_time": 1694839233,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260239,
+        "num": 260239,
+        "word": "魏大勋李一桐新剧演情侣",
+        "onboard_time": 1694846675,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267087,
+        "num": 251213,
+        "word": "iPhone15Pro系列存在变色和吸指纹问题",
+        "onboard_time": 1694848115,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235404,
+        "num": 235404,
+        "word": "云之羽爱奇艺热度值破9600",
+        "onboard_time": 1694843435,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219253,
+        "num": 219253,
+        "word": "陈楚生两次获MVP",
+        "onboard_time": 1694844875,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198366,
+        "num": 198366,
+        "word": "狗狗在法庭的工作",
+        "onboard_time": 1694847156,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 198258,
+        "num": 198258,
+        "word": "云秀行还原曾舜晞美貌",
+        "onboard_time": 1694844575,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194974,
+        "num": 194974,
+        "word": "腾讯天美乐园疑似落地深圳",
+        "onboard_time": 1694846557,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192434,
+        "num": 192434,
+        "word": "重庆首次将九价HPV疫苗纳入补贴",
+        "onboard_time": 1694847335,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176851,
+        "num": 176851,
+        "word": "跟老公冷战结果越睡越远",
+        "onboard_time": 1694839233,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176492,
+        "num": 176492,
+        "word": "郁美净上线7块9套装",
+        "onboard_time": 1694842115,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168186,
+        "num": 168186,
+        "word": "伶人怎么会输",
+        "onboard_time": 1694844216,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167020,
+        "num": 167020,
+        "word": "白色橄榄树 玖月晞",
+        "onboard_time": 1694839534,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163728,
+        "num": 163728,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158141,
+        "num": 158141,
+        "word": "披荆斩棘你留下的爱致敬李玟",
+        "onboard_time": 1694844034,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156395,
+        "num": 156395,
+        "word": "i人的新型无痛交友方式",
+        "onboard_time": 1694848115,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146319,
+        "num": 146319,
+        "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
+        "onboard_time": 1694839652,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143914,
+        "num": 143914,
+        "word": "教资选择题好难",
+        "onboard_time": 1694837074,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142045,
+        "num": 142045,
+        "word": "分享午饭被爸妈以为在哭穷",
+        "onboard_time": 1694848115,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135568,
+        "num": 135568,
+        "word": "首批iPhone15Pro一分钟被抢光",
+        "onboard_time": 1694827834,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126424,
+        "num": 126424,
+        "word": "傅云深一款别致的霸道总裁",
+        "onboard_time": 1694847453,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123864,
+        "num": 123864,
+        "word": "白色橄榄树开机",
+        "onboard_time": 1694833173,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123016,
+        "num": 123016,
+        "word": "iPhone15没往年那么难抢",
+        "onboard_time": 1694832273,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 713726,
+        "num": 123007,
+        "word": "好歹毒的教资作文",
+        "onboard_time": 1694835215,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122948,
+        "num": 122948,
+        "word": "易烊千玺工作室成立六周年vlog",
+        "onboard_time": 1694838994,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93270,
+        "num": 122057,
+        "word": "巴黎奥运会女排资格赛",
+        "onboard_time": 1694845595,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69787,
+        "num": 121557,
+        "word": "程序员教你如何正确清理C盘垃圾",
+        "onboard_time": 1694844875,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中赞关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
