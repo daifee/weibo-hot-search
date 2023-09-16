@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694889236712,
+  "endTime": 1694891621074,
   "band_list": [
     {
       "raw_hot": 1285255,
@@ -457,6 +457,30 @@
       "onboard_time": 1694861256,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33661,
+      "num": 41746,
+      "word": "傅云深出车祸",
+      "onboard_time": 1694775814,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27291,
+      "num": 41698,
+      "word": "周深用歌声点亮人间星河",
+      "onboard_time": 1694889675,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26493,
+      "num": 41690,
+      "word": "骄阳伴我海外多地上线",
+      "onboard_time": 1694889497,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 14470,

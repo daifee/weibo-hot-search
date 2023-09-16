@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694889236712,
+  "endTime": 1694891621074,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -42187,6 +42187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27291,
+      "num": 41698,
+      "word": "周深用歌声点亮人间星河",
+      "onboard_time": 1694889675,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27270,
       "num": 27270,
       "word": "牛气冲天的云南火锅",
@@ -42217,6 +42225,14 @@
       "onboard_time": 1694098839,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26493,
+      "num": 41690,
+      "word": "骄阳伴我海外多地上线",
+      "onboard_time": 1694889497,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 26283,
