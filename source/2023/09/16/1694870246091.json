@@ -1,0 +1,410 @@
+{
+  "runTime": 1694870246091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246714,
+        "num": 1246714,
+        "word": "莲花楼直播",
+        "onboard_time": 1694865758,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1608250,
+        "num": 1198368,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 42990,
+        "num": 1119218,
+        "word": "我们的亚运",
+        "onboard_time": 1694857720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088790,
+        "num": 1088790,
+        "word": "徐家汇地铁站",
+        "onboard_time": 1694863775,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841570,
+        "num": 841570,
+        "word": "陈都灵舞台",
+        "onboard_time": 1694867915,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 754398,
+        "num": 754398,
+        "word": "上海地铁回应1号线列车车顶产生烟雾",
+        "onboard_time": 1694867615,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544460,
+        "num": 544460,
+        "word": "成毅刀剑如梦",
+        "onboard_time": 1694868638,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505887,
+        "num": 505887,
+        "word": "4个小众免签国",
+        "onboard_time": 1694863897,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 458654,
+        "num": 458654,
+        "word": "BLACKPINK首尔安可",
+        "onboard_time": 1694861256,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 428910,
+        "num": 428910,
+        "word": "檀健次三年前教周深的舞还没学会",
+        "onboard_time": 1694865398,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2129214,
+        "num": 393346,
+        "word": "李佳琦吹羽毛二创视频",
+        "onboard_time": 1694861318,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1219289,
+        "num": 378523,
+        "word": "袁冰妍偷逃税罚款超430万",
+        "onboard_time": 1694868337,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 811389,
+        "num": 367711,
+        "word": "曾舜晞queencard 方多病拦出租车",
+        "onboard_time": 1694869603,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336130,
+        "num": 336130,
+        "word": "人民网评袁某某偷逃税是洗不白的",
+        "onboard_time": 1694859879,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 239957,
+        "num": 331583,
+        "word": "酒店人员邀请环卫工们进屋避雨",
+        "onboard_time": 1694858204,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 779931,
+        "num": 328726,
+        "word": "生理期去高原一滴都无",
+        "onboard_time": 1694849495,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 486184,
+        "num": 326692,
+        "word": "尝试戒掉咖啡的韩国人",
+        "onboard_time": 1694868337,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458463,
+        "num": 321042,
+        "word": "日媒曝羽生结弦老婆身份",
+        "onboard_time": 1694854237,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317640,
+        "num": 317640,
+        "word": "DBG解说杯夺冠",
+        "onboard_time": 1694868817,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311464,
+        "num": 311464,
+        "word": "丁霞上场",
+        "onboard_time": 1694869475,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 832001,
+        "num": 311315,
+        "word": "断崖式的衰老是在几岁",
+        "onboard_time": 1694867076,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581704,
+        "num": 310966,
+        "word": "我的存款足够下半辈子不吃不喝",
+        "onboard_time": 1694852562,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310239,
+        "num": 310239,
+        "word": "胡锡进发文评李佳琦事件",
+        "onboard_time": 1694862635,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309227,
+        "num": 309227,
+        "word": "iPhone15Pro系列存在变色和吸指纹问题",
+        "onboard_time": 1694848115,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301361,
+        "num": 301361,
+        "word": "酒店41对新人结婚海报一眼望不到头",
+        "onboard_time": 1694868216,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299104,
+        "num": 299104,
+        "word": "云之羽爱奇艺热度值破9700",
+        "onboard_time": 1694868276,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295545,
+        "num": 295545,
+        "word": "起猛了看见李莲花跳queencard",
+        "onboard_time": 1694869416,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278654,
+        "num": 278654,
+        "word": "长嘴且情绪稳定的恋爱",
+        "onboard_time": 1694864315,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277127,
+        "num": 277127,
+        "word": "张柏芝从香港坐高铁到郴州",
+        "onboard_time": 1694869717,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275055,
+        "num": 275055,
+        "word": "成毅曾舜晞肖顺尧彩排舞台",
+        "onboard_time": 1694855806,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274491,
+        "num": 274491,
+        "word": "云之羽隐藏结局",
+        "onboard_time": 1694858801,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271240,
+        "num": 271240,
+        "word": "中国女排vs乌克兰女排",
+        "onboard_time": 1694865037,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267031,
+        "num": 267031,
+        "word": "鹦鹉杀啥意思",
+        "onboard_time": 1694868938,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248213,
+        "num": 248213,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 226982,
+        "num": 226982,
+        "word": "35元2颗茅台巧克力贵不贵",
+        "onboard_time": 1694853638,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 210847,
+        "num": 210847,
+        "word": "薛之谦福州演唱会",
+        "onboard_time": 1694866658,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103684,
+        "num": 209889,
+        "word": "慕思首创潮汐算法",
+        "onboard_time": 1694867799,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209518,
+        "num": 209518,
+        "word": "人民日报批明星偷逃税",
+        "onboard_time": 1694857003,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 202581,
+        "num": 202581,
+        "word": "民警止付19万被骗女子送显眼包锦旗",
+        "onboard_time": 1694869536,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179685,
+        "num": 179685,
+        "word": "法考",
+        "onboard_time": 1694855806,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189650,
+        "num": 179481,
+        "word": "杭州程序员传火炬都不忘带格子衫",
+        "onboard_time": 1694866116,
+        "rank": 40,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 174227,
+        "num": 174227,
+        "word": "NCT东京演唱会的绿锤海浪",
+        "onboard_time": 1694869115,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169490,
+        "num": 169490,
+        "word": "餐厅称被烧伤女子为拍视频要求多加酒精",
+        "onboard_time": 1694856405,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166383,
+        "num": 166383,
+        "word": "张晚意 有点意式",
+        "onboard_time": 1694862999,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151136,
+        "num": 151136,
+        "word": "高薪但不体面的职业",
+        "onboard_time": 1694849435,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144700,
+        "num": 144700,
+        "word": "老祖宗的审美遥遥领先",
+        "onboard_time": 1694863715,
+        "rank": 45,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 139149,
+        "num": 139149,
+        "word": "虞书欣为云为衫跳了一支舞",
+        "onboard_time": 1694854478,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131363,
+        "num": 131363,
+        "word": "王源翻唱过两次专属天使",
+        "onboard_time": 1694865817,
+        "rank": 47,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 122453,
+        "num": 122453,
+        "word": "上海地铁1号线一车厢冒烟",
+        "onboard_time": 1694870138,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101147,
+        "num": 121883,
+        "word": "中国式睡眠",
+        "onboard_time": 1694868879,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给东北大学全体师生回信#"
+    }
+  }
+}

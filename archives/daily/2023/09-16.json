@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694868249739,
+  "endTime": 1694870246091,
   "band_list": [
     {
       "raw_hot": 10136248,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1219289,
+      "num": 378523,
+      "word": "袁冰妍偷逃税罚款超430万",
+      "onboard_time": 1694868337,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1149550,
       "num": 466768,
       "word": "郭敬明到底忽悠了多少人",
@@ -315,6 +323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 841570,
+      "num": 841570,
+      "word": "陈都灵舞台",
+      "onboard_time": 1694867915,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 834287,
       "num": 834287,
       "word": "云之羽结局",
@@ -329,6 +345,14 @@
       "onboard_time": 1694845650,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811389,
+      "num": 367711,
+      "word": "曾舜晞queencard 方多病拦出租车",
+      "onboard_time": 1694869603,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 806802,
@@ -360,6 +384,14 @@
       "word": "警方通报一女子小区内被伤害身亡",
       "onboard_time": 1694790160,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754398,
+      "num": 754398,
+      "word": "上海地铁回应1号线列车车顶产生烟雾",
+      "onboard_time": 1694867615,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -401,14 +433,6 @@
       "onboard_time": 1694820266,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 713077,
-      "num": 456897,
-      "word": "上海地铁回应1号线列车车顶产生烟雾",
-      "onboard_time": 1694867615,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710596,
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544460,
+      "num": 544460,
+      "word": "成毅刀剑如梦",
+      "onboard_time": 1694868638,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 536882,
       "num": 405881,
       "word": "易烊千玺工作室成立六周年vlog",
@@ -673,6 +705,14 @@
       "onboard_time": 1694792079,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486184,
+      "num": 326692,
+      "word": "尝试戒掉咖啡的韩国人",
+      "onboard_time": 1694868337,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 474558,
@@ -947,14 +987,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 345662,
-      "num": 345662,
-      "word": "陈都灵舞台",
-      "onboard_time": 1694867915,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 335162,
       "num": 335162,
       "word": "剥了5000多只虾就为了一碗面",
@@ -1043,6 +1075,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317640,
+      "num": 317640,
+      "word": "DBG解说杯夺冠",
+      "onboard_time": 1694868817,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 311464,
+      "num": 311464,
+      "word": "丁霞上场",
+      "onboard_time": 1694869475,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311090,
       "num": 311090,
       "word": "世界公认的长高动作",
@@ -1115,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301361,
+      "num": 301361,
+      "word": "酒店41对新人结婚海报一眼望不到头",
+      "onboard_time": 1694868216,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301277,
       "num": 301277,
       "word": "薛之谦福州演唱会",
@@ -1131,12 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299104,
+      "num": 299104,
+      "word": "云之羽爱奇艺热度值破9700",
+      "onboard_time": 1694868276,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298860,
       "num": 280118,
       "word": "郁美净上线7块9套装",
       "onboard_time": 1694842115,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295545,
+      "num": 295545,
+      "word": "起猛了看见李莲花跳queencard",
+      "onboard_time": 1694869416,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295200,
@@ -1211,6 +1283,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 277127,
+      "num": 277127,
+      "word": "张柏芝从香港坐高铁到郴州",
+      "onboard_time": 1694869717,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274940,
       "num": 274940,
       "word": "肖战白百何片场抱饮抱食",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1694854838,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267031,
+      "num": 267031,
+      "word": "鹦鹉杀啥意思",
+      "onboard_time": 1694868938,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 266889,
@@ -1579,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202581,
+      "num": 202581,
+      "word": "民警止付19万被骗女子送显眼包锦旗",
+      "onboard_time": 1694869536,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202425,
       "num": 202425,
       "word": "刘雨昕2023仙那度巡回演唱会",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1694837853,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174227,
+      "num": 174227,
+      "word": "NCT东京演唱会的绿锤海浪",
+      "onboard_time": 1694869115,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 173806,
@@ -2235,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130974,
-      "num": 130974,
-      "word": "酒店41对新人结婚海报一眼望不到头",
-      "onboard_time": 1694868216,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130194,
       "num": 297003,
       "word": "你不知道的家居工业4.0",
@@ -2267,6 +2363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122453,
+      "num": 122453,
+      "word": "上海地铁1号线一车厢冒烟",
+      "onboard_time": 1694870138,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121610,
       "num": 121610,
       "word": "腿长在自己身上走哪条路自己决定",
@@ -2284,7 +2388,7 @@
     },
     {
       "raw_hot": 120240,
-      "num": 174369,
+      "num": 209889,
       "word": "慕思首创潮汐算法",
       "onboard_time": 1694867799,
       "rank": 36,
@@ -2369,6 +2473,14 @@
       "onboard_time": 1694807534,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 101147,
+      "num": 121883,
+      "word": "中国式睡眠",
+      "onboard_time": 1694868879,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100508,

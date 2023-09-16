@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694868249739,
+  "endTime": 1694870246091,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1899,6 +1899,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 1219289,
+      "num": 378523,
+      "word": "袁冰妍偷逃税罚款超430万",
+      "onboard_time": 1694868337,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1216792,
       "num": 1216792,
       "word": "蜜雪冰城被复刻了",
@@ -2939,6 +2947,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 841570,
+      "num": 841570,
+      "word": "陈都灵舞台",
+      "onboard_time": 1694867915,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 840837,
       "num": 526347,
       "word": "警方通报一女子小区内被伤害身亡",
@@ -3049,6 +3065,14 @@
       "onboard_time": 1694647651,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811389,
+      "num": 367711,
+      "word": "曾舜晞queencard 方多病拦出租车",
+      "onboard_time": 1694869603,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 810561,
@@ -3347,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754398,
+      "num": 754398,
+      "word": "上海地铁回应1号线列车车顶产生烟雾",
+      "onboard_time": 1694867615,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752351,
       "num": 752351,
       "word": "莲花楼演唱会官宣",
@@ -3617,14 +3649,6 @@
       "onboard_time": 1694820266,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 713077,
-      "num": 456897,
-      "word": "上海地铁回应1号线列车车顶产生烟雾",
-      "onboard_time": 1694867615,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711682,
@@ -4891,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544460,
+      "num": 544460,
+      "word": "成毅刀剑如梦",
+      "onboard_time": 1694868638,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 543702,
       "num": 543702,
       "word": "华为Mate 60 Pro一周体验",
@@ -5593,6 +5625,14 @@
       "onboard_time": 1694420798,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 486184,
+      "num": 326692,
+      "word": "尝试戒掉咖啡的韩国人",
+      "onboard_time": 1694868337,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 486165,
@@ -7883,14 +7923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345662,
-      "num": 345662,
-      "word": "陈都灵舞台",
-      "onboard_time": 1694867915,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 345611,
       "num": 345611,
       "word": "店家回应烤肉流出粉色液体被质疑",
@@ -8563,6 +8595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 317640,
+      "num": 317640,
+      "word": "DBG解说杯夺冠",
+      "onboard_time": 1694868817,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317325,
       "num": 317325,
       "word": "和真正舒服的人坐一起时会出现的姿势",
@@ -8729,6 +8769,14 @@
       "onboard_time": 1694616642,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311464,
+      "num": 311464,
+      "word": "丁霞上场",
+      "onboard_time": 1694869475,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 311427,
@@ -9091,6 +9139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301361,
+      "num": 301361,
+      "word": "酒店41对新人结婚海报一眼望不到头",
+      "onboard_time": 1694868216,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301277,
       "num": 301277,
       "word": "薛之谦福州演唱会",
@@ -9177,6 +9233,14 @@
       "onboard_time": 1694571095,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299104,
+      "num": 299104,
+      "word": "云之羽爱奇艺热度值破9700",
+      "onboard_time": 1694868276,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 298909,
@@ -9289,6 +9353,14 @@
       "onboard_time": 1694412218,
       "rank": 28,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 295545,
+      "num": 295545,
+      "word": "起猛了看见李莲花跳queencard",
+      "onboard_time": 1694869416,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295489,
@@ -9835,6 +9907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277127,
+      "num": 277127,
+      "word": "张柏芝从香港坐高铁到郴州",
+      "onboard_time": 1694869717,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276072,
       "num": 276072,
       "word": "我去过墨脱",
@@ -10105,6 +10185,14 @@
       "onboard_time": 1694614062,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267031,
+      "num": 267031,
+      "word": "鹦鹉杀啥意思",
+      "onboard_time": 1694868938,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 266687,
@@ -12995,6 +13083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202581,
+      "num": 202581,
+      "word": "民警止付19万被骗女子送显眼包锦旗",
+      "onboard_time": 1694869536,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202539,
       "num": 202539,
       "word": "StrayKids初动销量逆袭",
@@ -14947,6 +15043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174227,
+      "num": 174227,
+      "word": "NCT东京演唱会的绿锤海浪",
+      "onboard_time": 1694869115,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173806,
       "num": 173806,
       "word": "小猫咪攒了好久的宝贝被发现了",
@@ -16651,14 +16755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130974,
-      "num": 130974,
-      "word": "酒店41对新人结婚海报一眼望不到头",
-      "onboard_time": 1694868216,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130652,
       "num": 487170,
       "word": "华为智选车发布会",
@@ -16827,6 +16923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122453,
+      "num": 122453,
+      "word": "上海地铁1号线一车厢冒烟",
+      "onboard_time": 1694870138,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122368,
       "num": 129019,
       "word": "特工任务定档",
@@ -16892,7 +16996,7 @@
     },
     {
       "raw_hot": 120240,
-      "num": 174369,
+      "num": 209889,
       "word": "慕思首创潮汐算法",
       "onboard_time": 1694867799,
       "rank": 36,
@@ -17257,6 +17361,14 @@
       "onboard_time": 1694807534,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 101147,
+      "num": 121883,
+      "word": "中国式睡眠",
+      "onboard_time": 1694868879,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100956,

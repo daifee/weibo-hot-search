@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/16 20:44:09
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/16 21:17:26
 </p>
 </blockquote>
 <p>
@@ -2943,6 +2943,12 @@ boss直聘崩了（热度：1252566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E5%81%B7%E9%80%83%E7%A8%8E%E7%BD%9A%E6%AC%BE%E8%B6%85430%E4%B8%87%23" target="weibo">
+袁冰妍偷逃税罚款超430万（热度：1219289）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%8E%9F%E7%99%BD%E7%81%B5%E9%A5%B0%E6%BC%94%E8%80%85%E8%BF%91%E7%85%A7%23" target="weibo">
 白鹿原白灵饰演者近照（热度：1218145）
 </a>
@@ -4785,6 +4791,12 @@ TFBOYS为王源新综艺宣传（热度：867815）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%88%9E%E5%8F%B0%23" target="weibo">
+陈都灵舞台（热度：841570）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%B0%8F%E5%8C%BA%E5%86%85%E8%A2%AB%E4%BC%A4%E5%AE%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
 警方通报一女子小区内被伤害身亡（热度：840837）
 </a>
@@ -5033,6 +5045,12 @@ Uzi说明年打不了（热度：812816）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B9%B01%E5%85%AC%E6%96%A4%E8%BD%AF%E7%B3%96%E8%8A%B1%E4%BA%86161%E5%85%83%23" target="weibo">
 女子称买1公斤软糖花了161元（热度：811888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9Equeencard%20%E6%96%B9%E5%A4%9A%E7%97%85%E6%8B%A6%E5%87%BA%E7%A7%9F%E8%BD%A6%23" target="weibo">
+曾舜晞queencard 方多病拦出租车（热度：811389）
 </a>
 </li>
 
@@ -5589,6 +5607,12 @@ Mate60Pro+（热度：756217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%941%E5%8F%B7%E7%BA%BF%E5%88%97%E8%BD%A6%E8%BD%A6%E9%A1%B6%E4%BA%A7%E7%94%9F%E7%83%9F%E9%9B%BE%23" target="weibo">
+上海地铁回应1号线列车车顶产生烟雾（热度：754398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%A5%BD%E9%A3%92%23" target="weibo">
 倪妮好飒（热度：754389）
 </a>
@@ -5987,30 +6011,6 @@ iPhone15系列爆料（热度：720877）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86%23" target="weibo">
 终于学会耳后双C发型了（热度：718709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%B5%B7%E9%99%86%E6%88%B3%E9%BC%BB%E5%AD%94%23" target="weibo">
-井胧回应被海陆戳鼻孔（热度：718122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B0%86%E5%87%BA%E6%BC%94%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%23" target="weibo">
-张翰将出演如梦之梦（热度：717698）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%9C%E9%B8%9F%E9%A9%BF%E7%AB%99%E8%A2%AB%E5%86%9B%E7%88%B7%E6%94%BB%E9%99%B7%E4%BA%86%23" target="weibo">
-菜鸟驿站被军爷攻陷了（热度：717549）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E6%9C%BA%23" target="weibo">
-央视评华为争气机（热度：717011）
 </a>
 </li>
 
