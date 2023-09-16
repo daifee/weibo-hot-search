@@ -1,7 +1,15 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694834201939,
+  "endTime": 1694835230252,
   "band_list": [
+    {
+      "raw_hot": 2553536,
+      "num": 2553536,
+      "word": "教资",
+      "onboard_time": 1694821229,
+      "rank": 35,
+      "category": "教育"
+    },
     {
       "raw_hot": 2082238,
       "num": 846550,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1912403,
-      "num": 920315,
+      "num": 1032080,
       "word": "国内出现女性猴痘感染者",
       "onboard_time": 1694828912,
       "rank": 22,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1728098,
-      "num": 472931,
+      "num": 521352,
       "word": "陈乔恩连续七年晒照悼念乔任梁",
       "onboard_time": 1694827233,
       "rank": 12,
@@ -49,14 +57,6 @@
       "onboard_time": 1694783315,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1717165,
-      "num": 1717165,
-      "word": "教资",
-      "onboard_time": 1694821229,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 1669865,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372274,
+      "num": 1372274,
+      "word": "教资作文",
+      "onboard_time": 1694823394,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1352339,
       "num": 1352339,
       "word": "离婚人数连续三年下降",
@@ -107,20 +115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1058706,
-      "num": 1058706,
-      "word": "教资作文",
-      "onboard_time": 1694823394,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1018269,
       "num": 339914,
       "word": "首批iPhone15Pro一分钟被抢光",
       "onboard_time": 1694827834,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 969926,
+      "num": 969926,
+      "word": "教资答案",
+      "onboard_time": 1694834135,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 953454,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 909977,
-      "num": 435416,
+      "num": 510335,
       "word": "iPhone15没往年那么难抢",
       "onboard_time": 1694832273,
       "rank": 11,
@@ -161,6 +169,14 @@
       "onboard_time": 1694790160,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745958,
+      "num": 745958,
+      "word": "白色橄榄树开机",
+      "onboard_time": 1694833173,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 721630,
@@ -193,14 +209,6 @@
       "onboard_time": 1694825494,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 610940,
-      "num": 610940,
-      "word": "白色橄榄树开机",
-      "onboard_time": 1694833173,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 598903,
@@ -243,6 +251,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 521829,
+      "num": 521829,
+      "word": "教资科一",
+      "onboard_time": 1694834795,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 518970,
       "num": 339804,
       "word": "找对象的尽头是高初中同学",
@@ -275,8 +291,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471171,
+      "num": 471171,
+      "word": "广东惠州一学校76名教师开学前遭解聘",
+      "onboard_time": 1694829754,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470630,
-      "num": 470630,
+      "num": 480225,
       "word": "英国正式将瓦格纳集团列为恐怖组织",
       "onboard_time": 1694824772,
       "rank": 9,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 420322,
-      "num": 464032,
+      "num": 498847,
       "word": "大熊猫公主融融已去世",
       "onboard_time": 1694828733,
       "rank": 13,
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379730,
-      "num": 379730,
-      "word": "广东惠州一学校76名教师开学前遭解聘",
-      "onboard_time": 1694829754,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378913,
       "num": 378913,
       "word": "吴昕说恋爱没百分百确定别骚扰家长",
@@ -387,8 +403,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351984,
-      "num": 351984,
+      "raw_hot": 354221,
+      "num": 354221,
       "word": "宫远徵第一次喊宫尚角",
       "onboard_time": 1694830593,
       "rank": 38,
@@ -428,11 +444,19 @@
     },
     {
       "raw_hot": 327898,
-      "num": 222073,
+      "num": 222669,
       "word": "化妆前刮脸",
       "onboard_time": 1694832992,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 327184,
+      "num": 222846,
+      "word": "被朋友家里的厕所惊到了",
+      "onboard_time": 1694833355,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 324289,
@@ -443,12 +467,12 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 321443,
-      "num": 221623,
-      "word": "被朋友家里的厕所惊到了",
-      "onboard_time": 1694833355,
+      "raw_hot": 312617,
+      "num": 222801,
+      "word": "好歹毒的教资作文",
+      "onboard_time": 1694835215,
       "rank": 32,
-      "category": "情感"
+      "category": "教育"
     },
     {
       "raw_hot": 310428,
@@ -515,12 +539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276075,
+      "num": 276075,
+      "word": "法考",
+      "onboard_time": 1694826995,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266889,
       "num": 266889,
       "word": "沈梦辰跟贾静雯打招呼紧张到结巴",
       "onboard_time": 1694787999,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266092,
+      "num": 266092,
+      "word": "乒乓球门票",
+      "onboard_time": 1694834074,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 266073,
@@ -545,6 +585,14 @@
       "onboard_time": 1694784219,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256284,
+      "num": 256284,
+      "word": "又看到铁三角整活了",
+      "onboard_time": 1694834557,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 253557,
@@ -699,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195548,
-      "num": 195548,
-      "word": "法考",
-      "onboard_time": 1694826995,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 194362,
       "num": 194362,
       "word": "山东地名兖州怎么读",
@@ -793,22 +833,6 @@
       "onboard_time": 1694832331,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171506,
-      "num": 171506,
-      "word": "乒乓球门票",
-      "onboard_time": 1694834074,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 168324,
-      "num": 168324,
-      "word": "教资答案",
-      "onboard_time": 1694834135,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 167115,
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 130194,
-      "num": 276820,
+      "num": 297003,
       "word": "你不知道的家居工业4.0",
       "onboard_time": 1694832934,
       "rank": 19,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 49612,
-      "num": 1001076,
+      "num": 1055998,
       "word": "杭州亚运会宣传片爱之城",
       "onboard_time": 1694781815,
       "rank": 2,

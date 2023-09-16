@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 11:16:41
+本榜单时间：2023/09/16 00:21:59 ~ 2023/09/16 11:33:50
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%23" target="weibo">
+教资（热度：2553536）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E6%88%91%E6%81%A8%E4%BD%A0%23" target="weibo">
@@ -51,12 +57,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%23" target="weibo">
-教资（热度：1717165）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E7%BB%88%E8%BA%AB%E8%AE%A4%E5%85%BB%E4%BA%86%E4%B8%80%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%23" target="weibo">
 蜂花终身认养了一只大熊猫（热度：1669865）
 </a>
@@ -81,6 +81,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87%23" target="weibo">
+教资作文（热度：1372274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E4%B8%8B%E9%99%8D%23" target="weibo">
 离婚人数连续三年下降（热度：1352339）
 </a>
@@ -93,14 +99,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87%23" target="weibo">
-教资作文（热度：1058706）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9iPhone15Pro%E4%B8%80%E5%88%86%E9%92%9F%E8%A2%AB%E6%8A%A2%E5%85%89%23" target="weibo">
+首批iPhone15Pro一分钟被抢光（热度：1018269）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9iPhone15Pro%E4%B8%80%E5%88%86%E9%92%9F%E8%A2%AB%E6%8A%A2%E5%85%89%23" target="weibo">
-首批iPhone15Pro一分钟被抢光（热度：1018269）
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88%23" target="weibo">
+教资答案（热度：969926）
 </a>
 </li>
 
@@ -135,6 +141,12 @@ iPhone15没往年那么难抢（热度：909977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%BC%80%E6%9C%BA%23" target="weibo">
+白色橄榄树开机（热度：745958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B8%89%E4%B8%AA%E4%BD%9C%E6%96%87%E4%B8%87%E8%83%BD%E5%BC%80%E5%A4%B4%23" target="weibo">
 教师资格证三个作文万能开头（热度：721630）
 </a>
@@ -155,12 +167,6 @@ iPhone15没往年那么难抢（热度：909977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E5%87%AD%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%80%83%23" target="weibo">
 法考凭什么被称为天下第一考（热度：653751）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%BC%80%E6%9C%BA%23" target="weibo">
-白色橄榄树开机（热度：610940）
 </a>
 </li>
 
@@ -195,6 +201,12 @@ iPhone15没往年那么难抢（热度：909977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%B8%80%23" target="weibo">
+教资科一（热度：521829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E9%AB%98%E5%88%9D%E4%B8%AD%E5%90%8C%E5%AD%A6%23" target="weibo">
 找对象的尽头是高初中同学（热度：518970）
 </a>
@@ -215,6 +227,12 @@ iPhone15没往年那么难抢（热度：909977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9D%96%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E9%87%91%E7%B9%81%E5%80%92%E7%AB%8B%E6%A2%97%23" target="weibo">
 金靖首次回应金繁倒立梗（热度：474558）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98%23" target="weibo">
+广东惠州一学校76名教师开学前遭解聘（热度：471171）
 </a>
 </li>
 
@@ -285,12 +303,6 @@ iPhone15没往年那么难抢（热度：909977）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98%23" target="weibo">
-广东惠州一学校76名教师开学前遭解聘（热度：379730）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E8%AF%B4%E6%81%8B%E7%88%B1%E6%B2%A1%E7%99%BE%E5%88%86%E7%99%BE%E7%A1%AE%E5%AE%9A%E5%88%AB%E9%AA%9A%E6%89%B0%E5%AE%B6%E9%95%BF%23" target="weibo">
 吴昕说恋爱没百分百确定别骚扰家长（热度：378913）
 </a>
@@ -304,7 +316,7 @@ iPhone15没往年那么难抢（热度：909977）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E8%BF%9C%E5%BE%B5%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%96%8A%E5%AE%AB%E5%B0%9A%E8%A7%92%23" target="weibo">
-宫远徵第一次喊宫尚角（热度：351984）
+宫远徵第一次喊宫尚角（热度：354221）
 </a>
 </li>
 
@@ -339,14 +351,20 @@ iPhone15没往年那么难抢（热度：909977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9C%8B%E5%8F%8B%E5%AE%B6%E9%87%8C%E7%9A%84%E5%8E%95%E6%89%80%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
+被朋友家里的厕所惊到了（热度：327184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%20%E7%BE%8E%E5%A6%86%E5%8D%9A%E4%B8%BB%E5%8F%8D%E5%87%BB%23" target="weibo">
 高铁化妆 美妆博主反击（热度：324289）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9C%8B%E5%8F%8B%E5%AE%B6%E9%87%8C%E7%9A%84%E5%8E%95%E6%89%80%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
-被朋友家里的厕所惊到了（热度：321443）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87%23" target="weibo">
+好歹毒的教资作文（热度：312617）
 </a>
 </li>
 
@@ -399,8 +417,20 @@ iPhone15没往年那么难抢（热度：909977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23" target="weibo">
+法考（热度：276075）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%B7%9F%E8%B4%BE%E9%9D%99%E9%9B%AF%E6%89%93%E6%8B%9B%E5%91%BC%E7%B4%A7%E5%BC%A0%E5%88%B0%E7%BB%93%E5%B7%B4%23" target="weibo">
 沈梦辰跟贾静雯打招呼紧张到结巴（热度：266889）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E9%97%A8%E7%A5%A8%23" target="weibo">
+乒乓球门票（热度：266092）
 </a>
 </li>
 
@@ -419,6 +449,12 @@ SEVENTEEN毒发行四周年（热度：266073）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E7%B1%B389%E7%9A%84%E8%83%A1%E5%85%B5%E6%AD%A4%E5%88%BB1%E7%B1%B32%23" target="weibo">
 1米89的胡兵此刻1米2（热度：257548）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E7%9C%8B%E5%88%B0%E9%93%81%E4%B8%89%E8%A7%92%E6%95%B4%E6%B4%BB%E4%BA%86%23" target="weibo">
+又看到铁三角整活了（热度：256284）
 </a>
 </li>
 
@@ -537,12 +573,6 @@ Angelababy说想学我做的腌水果（热度：249886）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23" target="weibo">
-法考（热度：195548）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E5%90%8D%E5%85%96%E5%B7%9E%E6%80%8E%E4%B9%88%E8%AF%BB%23" target="weibo">
 山东地名兖州怎么读（热度：194362）
 </a>
@@ -605,18 +635,6 @@ Angelababy说想学我做的腌水果（热度：249886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E4%BD%A0%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E8%BD%A6%E4%B8%8D%E4%BC%9A%E9%AA%91%23" target="weibo">
 曾舜晞你还有什么车不会骑（热度：176907）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E9%97%A8%E7%A5%A8%23" target="weibo">
-乒乓球门票（热度：171506）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88%23" target="weibo">
-教资答案（热度：168324）
 </a>
 </li>
 
