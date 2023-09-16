@@ -1,7 +1,15 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694849637113,
+  "endTime": 1694852343670,
   "band_list": [
+    {
+      "raw_hot": 8811764,
+      "num": 8811764,
+      "word": "官方通报袁冰妍偷逃税事件",
+      "onboard_time": 1694850516,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 3793498,
       "num": 3793498,
@@ -17,6 +25,14 @@
       "onboard_time": 1694839233,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2704336,
+      "num": 366611,
+      "word": "袁冰妍偷逃税被追缴并罚款297万元",
+      "onboard_time": 1694851777,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2553536,
@@ -65,6 +81,14 @@
       "onboard_time": 1694820266,
       "rank": 30,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 1797610,
+      "num": 1075959,
+      "word": "生理期去高原一滴都无",
+      "onboard_time": 1694849495,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1728098,
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663519,
+      "num": 663519,
+      "word": "亲爱的芙出轨只有0次和无数次",
+      "onboard_time": 1694849136,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 653751,
       "num": 653751,
       "word": "法考凭什么被称为天下第一考",
@@ -393,6 +425,14 @@
       "onboard_time": 1694843375,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 568324,
+      "num": 386966,
+      "word": "iPhone15Pro系列存在变色和吸指纹问题",
+      "onboard_time": 1694848115,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 536882,
@@ -491,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457651,
+      "num": 297233,
+      "word": "高薪但不体面的职业",
+      "onboard_time": 1694849435,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 443554,
       "num": 443554,
       "word": "肖战说不要把本人带入角色",
       "onboard_time": 1694825315,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435511,
-      "num": 386966,
-      "word": "iPhone15Pro系列存在变色和吸指纹问题",
-      "onboard_time": 1694848115,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 432948,
@@ -521,14 +561,6 @@
       "onboard_time": 1694849076,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430870,
-      "num": 386164,
-      "word": "生理期去高原一滴都无",
-      "onboard_time": 1694849495,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 421426,
@@ -563,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 403238,
+      "num": 347604,
+      "word": "头牌主播 把价格抬上去再把低价垄断",
+      "onboard_time": 1694848716,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 402439,
       "num": 311367,
       "word": "医院院长自曝受贿买8车7房",
@@ -593,14 +633,6 @@
       "onboard_time": 1694829093,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391163,
-      "num": 385217,
-      "word": "亲爱的芙出轨只有0次和无数次",
-      "onboard_time": 1694849136,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 389543,
@@ -795,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304295,
+      "num": 304295,
+      "word": "世界公认的长高动作",
+      "onboard_time": 1694848474,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 301467,
       "num": 301467,
       "word": "张翰将出演如梦之梦",
@@ -833,22 +873,6 @@
       "onboard_time": 1694839835,
       "rank": 13,
       "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 291487,
-      "num": 291487,
-      "word": "世界公认的长高动作",
-      "onboard_time": 1694848474,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 289832,
-      "num": 289832,
-      "word": "高薪但不体面的职业",
-      "onboard_time": 1694849435,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 284395,
@@ -939,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254282,
+      "num": 254282,
+      "word": "中国人自己的垫底辣妹",
+      "onboard_time": 1694848535,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253557,
       "num": 253557,
       "word": "陆毅演我写简历",
@@ -953,14 +985,6 @@
       "onboard_time": 1694848474,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253372,
-      "num": 253372,
-      "word": "头牌主播 把价格抬上去再把低价垄断",
-      "onboard_time": 1694848716,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 252727,
@@ -1027,14 +1051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 234576,
-      "num": 234576,
-      "word": "中国人自己的垫底辣妹",
-      "onboard_time": 1694848535,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "为什么父母辈从不因为工作而内耗",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1694828615,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220327,
+      "num": 209233,
+      "word": "被云之羽一张图虐哭",
+      "onboard_time": 1694850094,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 216984,
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193196,
+      "num": 193196,
+      "word": "桑代克 没背",
+      "onboard_time": 1694851117,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191979,
       "num": 191979,
       "word": "上海防空警报",
@@ -1323,6 +1355,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182334,
+      "num": 182334,
+      "word": "路边捡到10万块他毫不犹豫打了110",
+      "onboard_time": 1694850816,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181959,
+      "num": 181959,
+      "word": "陆毅鲍蕾各有各的累",
+      "onboard_time": 1694849614,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180998,
       "num": 180998,
       "word": "Angelababy芭比粉短裙造型",
@@ -1339,12 +1387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177646,
+      "num": 177646,
+      "word": "短道速滑",
+      "onboard_time": 1694850216,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176907,
       "num": 176907,
       "word": "曾舜晞你还有什么车不会骑",
       "onboard_time": 1694832331,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176489,
+      "num": 359703,
+      "word": "大熊猫丁丁幼崽喝奶喝到哼唧",
+      "onboard_time": 1694850274,
+      "rank": 12,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 174230,
@@ -1363,12 +1427,28 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 165091,
+      "num": 165091,
+      "word": "小猫咪攒了好久的宝贝被发现了",
+      "onboard_time": 1694851417,
+      "rank": 37,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 162271,
       "num": 228084,
       "word": "小宝宝看爸爸冲奶满眼期待",
       "onboard_time": 1694817680,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162025,
+      "num": 162025,
+      "word": "花溪记今日开播",
+      "onboard_time": 1694851601,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 161778,
@@ -1547,6 +1627,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 133502,
+      "num": 133502,
+      "word": "杭州亚运会开幕",
+      "onboard_time": 1694852022,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132595,
       "num": 132595,
       "word": "听到呼喊40多位好心人冲来抬车救人",
@@ -1571,12 +1659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131076,
-      "num": 131076,
-      "word": "陆毅鲍蕾各有各的累",
-      "onboard_time": 1694849614,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 130753,
+      "num": 130753,
+      "word": "茅台巧克力上市",
+      "onboard_time": 1694852321,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130194,
@@ -1761,6 +1849,14 @@
       "onboard_time": 1694803876,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 56624,
+      "num": 354778,
+      "word": "憋笑到颤抖是什么体验",
+      "onboard_time": 1694849675,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49612,
