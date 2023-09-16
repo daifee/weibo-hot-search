@@ -1,6 +1,6 @@
 {
   "startTime": 1694794919683,
-  "endTime": 1694845232429,
+  "endTime": 1694846040440,
   "band_list": [
     {
       "raw_hot": 3793498,
@@ -147,8 +147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1029004,
-      "num": 1029004,
+      "raw_hot": 1100921,
+      "num": 1100921,
       "word": "女子高铁座位被占换回后遭3人殴打",
       "onboard_time": 1694841934,
       "rank": 26,
@@ -169,6 +169,14 @@
       "onboard_time": 1694834135,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 961994,
+      "num": 961994,
+      "word": "丑衣服都卖给了年轻时的我",
+      "onboard_time": 1694843973,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 953454,
@@ -267,7 +275,7 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 697071,
+      "raw_hot": 698191,
       "num": 282840,
       "word": "男子与情人通奸被其丈夫杀害",
       "onboard_time": 1694843494,
@@ -281,14 +289,6 @@
       "onboard_time": 1694825494,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 641486,
-      "num": 641486,
-      "word": "丑衣服都卖给了年轻时的我",
-      "onboard_time": 1694843973,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 608491,
@@ -435,6 +435,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 461157,
+      "num": 461157,
+      "word": "云之羽第22集封神",
+      "onboard_time": 1694843556,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443554,
       "num": 443554,
       "word": "肖战说不要把本人带入角色",
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385936,
-      "num": 385936,
-      "word": "云之羽第22集封神",
-      "onboard_time": 1694843556,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 384487,
       "num": 384487,
       "word": "文咏珊被正式确诊为文勇扇",
@@ -563,11 +563,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359266,
+      "num": 319273,
+      "word": "就算说的是韩语也能看出是中国人",
+      "onboard_time": 1694844695,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 354221,
       "num": 354221,
       "word": "宫远徵第一次喊宫尚角",
       "onboard_time": 1694830593,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 352513,
+      "num": 319143,
+      "word": "云秀行还原曾舜晞美貌",
+      "onboard_time": 1694844575,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -649,14 +665,6 @@
       "onboard_time": 1694844875,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 311648,
-      "num": 311648,
-      "word": "云秀行还原曾舜晞美貌",
-      "onboard_time": 1694844575,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 310428,
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270024,
+      "num": 270024,
+      "word": "云之羽爱奇艺热度值破9600",
+      "onboard_time": 1694843435,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266889,
       "num": 266889,
       "word": "沈梦辰跟贾静雯打招呼紧张到结巴",
@@ -795,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262093,
+      "num": 262093,
+      "word": "王耀庆因徐良淘汰哭了",
+      "onboard_time": 1694845650,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258156,
       "num": 258156,
       "word": "孩子在外婆家溺亡父亲起诉索赔80万",
@@ -809,14 +833,6 @@
       "onboard_time": 1694784219,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256519,
-      "num": 256519,
-      "word": "云之羽爱奇艺热度值破9600",
-      "onboard_time": 1694843435,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 253557,
@@ -883,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238039,
+      "num": 238039,
+      "word": "伶人怎么会输",
+      "onboard_time": 1694844216,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237464,
       "num": 237464,
       "word": "王嘉尔舞台已经是nextlevel",
@@ -939,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219415,
-      "num": 219415,
-      "word": "伶人怎么会输",
-      "onboard_time": 1694844216,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216984,
       "num": 216984,
       "word": "孟德尔你让我写什么",
@@ -961,14 +977,6 @@
       "onboard_time": 1694788838,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215231,
-      "num": 195845,
-      "word": "就算说的是韩语也能看出是中国人",
-      "onboard_time": 1694844695,
-      "rank": 31,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 208966,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1694779776,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197082,
+      "num": 197082,
+      "word": "程序员教你如何正确清理C盘垃圾",
+      "onboard_time": 1694844875,
+      "rank": 43,
+      "category": "知识科普"
     },
     {
       "raw_hot": 196410,
@@ -1131,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182730,
+      "num": 182730,
+      "word": "披荆斩棘你留下的爱致敬李玟",
+      "onboard_time": 1694844034,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182365,
       "num": 182365,
       "word": "这下谁还分得清Somi和芭比",
       "onboard_time": 1694837553,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181649,
+      "num": 181649,
+      "word": "校方回应女老师与多名同事有不正当关系",
+      "onboard_time": 1694845650,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180998,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1694837853,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169347,
-      "num": 169347,
-      "word": "披荆斩棘你留下的爱致敬李玟",
-      "onboard_time": 1694844034,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 167115,
@@ -1235,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154475,
+      "num": 154475,
+      "word": "iPhone15实现了乔布斯的摄影设想",
+      "onboard_time": 1694845953,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154344,
       "num": 154344,
       "word": "成语一鸣惊人说的是谁",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1694831312,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147431,
-      "num": 147431,
-      "word": "程序员教你如何正确清理C盘垃圾",
-      "onboard_time": 1694844875,
-      "rank": 43,
-      "category": "知识科普"
     },
     {
       "raw_hot": 146829,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1694807534,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 100508,
+      "num": 113318,
+      "word": "巴黎奥运会女排资格赛",
+      "onboard_time": 1694845595,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99016,

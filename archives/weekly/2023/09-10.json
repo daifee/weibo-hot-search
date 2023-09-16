@@ -1,6 +1,6 @@
 {
   "startTime": 1694276392507,
-  "endTime": 1694845232429,
+  "endTime": 1694846040440,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2075,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100921,
+      "num": 1100921,
+      "word": "女子高铁座位被占换回后遭3人殴打",
+      "onboard_time": 1694841934,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091673,
       "num": 1091673,
       "word": "演员马卫军去世",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1694477018,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1029004,
-      "num": 1029004,
-      "word": "女子高铁座位被占换回后遭3人殴打",
-      "onboard_time": 1694841934,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1026419,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1694752239,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 961994,
+      "num": 961994,
+      "word": "丑衣服都卖给了年轻时的我",
+      "onboard_time": 1694843973,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 958338,
@@ -3563,7 +3571,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 697071,
+      "raw_hot": 698191,
       "num": 282840,
       "word": "男子与情人通奸被其丈夫杀害",
       "onboard_time": 1694843494,
@@ -3833,14 +3841,6 @@
       "onboard_time": 1694447019,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 641486,
-      "num": 641486,
-      "word": "丑衣服都卖给了年轻时的我",
-      "onboard_time": 1694843973,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 636116,
@@ -5691,6 +5691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 461157,
+      "num": 461157,
+      "word": "云之羽第22集封神",
+      "onboard_time": 1694843556,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459943,
       "num": 459943,
       "word": "邓稼先和奥本海默的对比",
@@ -6835,14 +6843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385936,
-      "num": 385936,
-      "word": "云之羽第22集封神",
-      "onboard_time": 1694843556,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385776,
       "num": 385776,
       "word": "结婚冷静期有人帮你们试了",
@@ -7243,6 +7243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359266,
+      "num": 319273,
+      "word": "就算说的是韩语也能看出是中国人",
+      "onboard_time": 1694844695,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 359164,
       "num": 359164,
       "word": "杨幂哈尔滨一九四四金色旗袍路透",
@@ -7377,6 +7385,14 @@
       "onboard_time": 1694491782,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352513,
+      "num": 319143,
+      "word": "云秀行还原曾舜晞美貌",
+      "onboard_time": 1694844575,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 352406,
@@ -8337,14 +8353,6 @@
       "onboard_time": 1694616642,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 311648,
-      "num": 311648,
-      "word": "云秀行还原曾舜晞美貌",
-      "onboard_time": 1694844575,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 311427,
@@ -9547,6 +9555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 270024,
+      "num": 270024,
+      "word": "云之羽爱奇艺热度值破9600",
+      "onboard_time": 1694843435,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270004,
       "num": 270004,
       "word": "白敬亭十六宫格",
@@ -9851,6 +9867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262093,
+      "num": 262093,
+      "word": "王耀庆因徐良淘汰哭了",
+      "onboard_time": 1694845650,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262038,
       "num": 262038,
       "word": "RichBrian要来成都了",
@@ -9985,14 +10009,6 @@
       "onboard_time": 1694679876,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256519,
-      "num": 256519,
-      "word": "云之羽爱奇艺热度值破9600",
-      "onboard_time": 1694843435,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 256325,
@@ -10633,6 +10649,14 @@
       "onboard_time": 1694618441,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238039,
+      "num": 238039,
+      "word": "伶人怎么会输",
+      "onboard_time": 1694844216,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 237637,
@@ -11419,14 +11443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219415,
-      "num": 219415,
-      "word": "伶人怎么会输",
-      "onboard_time": 1694844216,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219347,
       "num": 219347,
       "word": "肖战骄阳伴我入戏专访",
@@ -11625,14 +11641,6 @@
       "onboard_time": 1694592034,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215231,
-      "num": 195845,
-      "word": "就算说的是韩语也能看出是中国人",
-      "onboard_time": 1694844695,
-      "rank": 31,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 214948,
@@ -12819,6 +12827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197082,
+      "num": 197082,
+      "word": "程序员教你如何正确清理C盘垃圾",
+      "onboard_time": 1694844875,
+      "rank": 43,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 196941,
       "num": 196941,
       "word": "嘉顿 根正苗红",
@@ -13795,6 +13811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182730,
+      "num": 182730,
+      "word": "披荆斩棘你留下的爱致敬李玟",
+      "onboard_time": 1694844034,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182676,
       "num": 182676,
       "word": "云为衫相亲大片",
@@ -13849,6 +13873,14 @@
       "onboard_time": 1694744073,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181649,
+      "num": 181649,
+      "word": "校方回应女老师与多名同事有不正当关系",
+      "onboard_time": 1694845650,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181162,
@@ -14417,14 +14449,6 @@
       "onboard_time": 1694313275,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169347,
-      "num": 169347,
-      "word": "披荆斩棘你留下的爱致敬李玟",
-      "onboard_time": 1694844034,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 169337,
@@ -15091,6 +15115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154475,
+      "num": 154475,
+      "word": "iPhone15实现了乔布斯的摄影设想",
+      "onboard_time": 1694845953,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154344,
       "num": 154344,
       "word": "成语一鸣惊人说的是谁",
@@ -15321,14 +15353,6 @@
       "onboard_time": 1694547254,
       "rank": 22,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 147431,
-      "num": 147431,
-      "word": "程序员教你如何正确清理C盘垃圾",
-      "onboard_time": 1694844875,
-      "rank": 43,
-      "category": "知识科普"
     },
     {
       "raw_hot": 147359,
@@ -16399,6 +16423,14 @@
       "num": 112173,
       "word": "国足1比1马来西亚",
       "onboard_time": 1694267138,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100508,
+      "num": 113318,
+      "word": "巴黎奥运会女排资格赛",
+      "onboard_time": 1694845595,
       "rank": 49,
       "category": "体育"
     },

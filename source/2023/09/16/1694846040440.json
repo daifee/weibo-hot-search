@@ -1,0 +1,410 @@
+{
+  "runTime": 1694846040440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2584762,
+        "num": 2584762,
+        "word": "蜜雪冰城被曝喝出蜘蛛",
+        "onboard_time": 1694839233,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1750991,
+        "num": 1750991,
+        "word": "乔任梁父母失独后重新生活",
+        "onboard_time": 1694840135,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 8227,
+        "num": 1347055,
+        "word": "2023年网络安全周云计算服务安全分论坛",
+        "onboard_time": 1694837074,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246894,
+        "num": 1246894,
+        "word": "徐良淘汰",
+        "onboard_time": 1694841695,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1100921,
+        "num": 1100921,
+        "word": "女子高铁座位被占换回后遭3人殴打",
+        "onboard_time": 1694841934,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961994,
+        "num": 961994,
+        "word": "丑衣服都卖给了年轻时的我",
+        "onboard_time": 1694843973,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518040,
+        "num": 518040,
+        "word": "aespa与蟑螂的合作舞台",
+        "onboard_time": 1694843375,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 461157,
+        "num": 461157,
+        "word": "云之羽第22集封神",
+        "onboard_time": 1694843556,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320032,
+        "num": 320032,
+        "word": "陈楚生两次获MVP",
+        "onboard_time": 1694844875,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443325,
+        "num": 319967,
+        "word": "曾舜晞雪重子原片",
+        "onboard_time": 1694839233,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619997,
+        "num": 319849,
+        "word": "陈乔恩连续七年晒照悼念乔任梁",
+        "onboard_time": 1694827233,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416403,
+        "num": 319731,
+        "word": "好歹毒的教资作文",
+        "onboard_time": 1694835215,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244324,
+        "num": 319675,
+        "word": "教官让顺拐同学组成一个方队",
+        "onboard_time": 1694839175,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 192092,
+        "num": 319460,
+        "word": "中医正骨1秒救治瘫痪小猫",
+        "onboard_time": 1694839835,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 113106,
+        "num": 319354,
+        "word": "大熊猫公主融融已去世",
+        "onboard_time": 1694828733,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 359266,
+        "num": 319273,
+        "word": "就算说的是韩语也能看出是中国人",
+        "onboard_time": 1694844695,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 352513,
+        "num": 319143,
+        "word": "云秀行还原曾舜晞美貌",
+        "onboard_time": 1694844575,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319110,
+        "num": 319110,
+        "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
+        "onboard_time": 1694839652,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309039,
+        "num": 309039,
+        "word": "白色橄榄树 玖月晞",
+        "onboard_time": 1694839534,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271802,
+        "num": 271802,
+        "word": "女子捏死隐翅虫手臂被腐蚀7天还没好",
+        "onboard_time": 1694820266,
+        "rank": 19,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 68097,
+        "num": 270416,
+        "word": "这是保护地球的中国式表达",
+        "onboard_time": 1694839354,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698191,
+        "num": 270232,
+        "word": "男子与情人通奸被其丈夫杀害",
+        "onboard_time": 1694843494,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270024,
+        "num": 270024,
+        "word": "云之羽爱奇艺热度值破9600",
+        "onboard_time": 1694843435,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262093,
+        "num": 262093,
+        "word": "王耀庆因徐良淘汰哭了",
+        "onboard_time": 1694845650,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258989,
+        "num": 258989,
+        "word": "郁美净上线7块9套装",
+        "onboard_time": 1694842115,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245281,
+        "num": 245281,
+        "word": "iPhone15没往年那么难抢",
+        "onboard_time": 1694832273,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238039,
+        "num": 238039,
+        "word": "伶人怎么会输",
+        "onboard_time": 1694844216,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229296,
+        "num": 229296,
+        "word": "跟老公冷战结果越睡越远",
+        "onboard_time": 1694839233,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234637,
+        "num": 227574,
+        "word": "iPhone15使用标准USBC端口",
+        "onboard_time": 1694843735,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194236,
+        "num": 221462,
+        "word": "首批iPhone15Pro一分钟被抢光",
+        "onboard_time": 1694827834,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217036,
+        "num": 217036,
+        "word": "云之羽 稀巴烂",
+        "onboard_time": 1694787159,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197082,
+        "num": 197082,
+        "word": "程序员教你如何正确清理C盘垃圾",
+        "onboard_time": 1694844875,
+        "rank": 31,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 191730,
+        "num": 191730,
+        "word": "易烊千玺工作室成立六周年vlog",
+        "onboard_time": 1694838994,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186123,
+        "num": 186123,
+        "word": "失聪50年父亲戴人工耳蜗听声音后哭了",
+        "onboard_time": 1694838873,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182730,
+        "num": 182730,
+        "word": "披荆斩棘你留下的爱致敬李玟",
+        "onboard_time": 1694844034,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181649,
+        "num": 181649,
+        "word": "校方回应女老师与多名同事有不正当关系",
+        "onboard_time": 1694845650,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165641,
+        "num": 165641,
+        "word": "广东惠州一学校76名教师开学前遭解聘",
+        "onboard_time": 1694829754,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158098,
+        "num": 158098,
+        "word": "封神质子团综开始录制",
+        "onboard_time": 1694837675,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156131,
+        "num": 156131,
+        "word": "Angelababy芭比粉短裙造型",
+        "onboard_time": 1694842836,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154475,
+        "num": 154475,
+        "word": "iPhone15实现了乔布斯的摄影设想",
+        "onboard_time": 1694845953,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146577,
+        "num": 146577,
+        "word": "法考",
+        "onboard_time": 1694826995,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146410,
+        "num": 146410,
+        "word": "老人疑遭儿媳虐待外孙驱车千里赶回",
+        "onboard_time": 1694839175,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142617,
+        "num": 142617,
+        "word": "成毅三界吐血人",
+        "onboard_time": 1694842295,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141024,
+        "num": 141024,
+        "word": "白色橄榄树开机",
+        "onboard_time": 1694833173,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139929,
+        "num": 139929,
+        "word": "张远伶人戏腔",
+        "onboard_time": 1694844156,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135422,
+        "num": 135422,
+        "word": "广州168元早茶自助",
+        "onboard_time": 1694840976,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133084,
+        "num": 133084,
+        "word": "梁洁宋冉好贴",
+        "onboard_time": 1694839894,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127406,
+        "num": 127406,
+        "word": "找对象的尽头是高初中同学",
+        "onboard_time": 1694826575,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123807,
+        "num": 123807,
+        "word": "被朋友家里的厕所惊到了",
+        "onboard_time": 1694833355,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100508,
+        "num": 113318,
+        "word": "巴黎奥运会女排资格赛",
+        "onboard_time": 1694845595,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中赞关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
