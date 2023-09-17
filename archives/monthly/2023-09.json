@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694936021100,
+  "endTime": 1694938738462,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1694665429,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2239085,
+      "num": 1336500,
+      "word": "偷税漏税再被罚袁冰妍的头到底有多铁",
+      "onboard_time": 1694936194,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2238220,
@@ -5532,7 +5540,7 @@
     },
     {
       "raw_hot": 960917,
-      "num": 320138,
+      "num": 334604,
       "word": "可以让客人睡女儿房间吗",
       "onboard_time": 1694924075,
       "rank": 30,
@@ -9539,6 +9547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647473,
+      "num": 647473,
+      "word": "视觉中国拍的Angelababy",
+      "onboard_time": 1694934393,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 647157,
       "num": 647157,
       "word": "林俊杰广州",
@@ -11755,6 +11771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550886,
+      "num": 550886,
+      "word": "胡兵为三公准备了维密翅膀",
+      "onboard_time": 1694936914,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 550728,
       "num": 550728,
       "word": "男子每年只上8个月班失业后靠副业逆袭",
@@ -12859,14 +12883,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 512710,
-      "num": 512710,
-      "word": "视觉中国拍的Angelababy",
-      "onboard_time": 1694934393,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 512265,
       "num": 512265,
       "word": "Uzi薇恩臻彩",
@@ -13065,6 +13081,14 @@
       "onboard_time": 1694518359,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506682,
+      "num": 506682,
+      "word": "田曦薇也在看我有一个朋友",
+      "onboard_time": 1694935955,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 506589,
@@ -13963,6 +13987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479522,
+      "num": 479522,
+      "word": "是不是全国各地都在咽喉炎",
+      "onboard_time": 1694935474,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 479027,
       "num": 479027,
       "word": "王一博提名金鹿奖最佳男演员",
@@ -14131,6 +14163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 475435,
+      "num": 346122,
+      "word": "32岁女子几乎每年确诊一种癌",
+      "onboard_time": 1694937873,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475198,
       "num": 475198,
       "word": "云之羽第五集",
@@ -14273,6 +14313,14 @@
       "onboard_time": 1694586157,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471064,
+      "num": 471064,
+      "word": "蜂花你家纸箱被偷了",
+      "onboard_time": 1694935176,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 471024,
@@ -18763,6 +18811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357749,
+      "num": 357749,
+      "word": "魏大勋片场让李一桐V他50",
+      "onboard_time": 1694934514,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357639,
       "num": 357639,
       "word": "杭州是在通知天庭下来看亚运吗",
@@ -19353,14 +19409,6 @@
       "onboard_time": 1694774193,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 345639,
-      "num": 323523,
-      "word": "蜂花你家纸箱被偷了",
-      "onboard_time": 1694935176,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 345611,
@@ -20121,6 +20169,14 @@
       "onboard_time": 1694429139,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329781,
+      "num": 329781,
+      "word": "吉克隽逸的衣服比脸上高光还亮",
+      "onboard_time": 1694937156,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 329779,
@@ -23739,6 +23795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277949,
+      "num": 277949,
+      "word": "林孝埈看过来",
+      "onboard_time": 1694937873,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277892,
       "num": 277892,
       "word": "彭昱畅哭戏含泪下跪",
@@ -24563,6 +24627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266514,
+      "num": 266514,
+      "word": "钟楚曦的美拉德穿搭",
+      "onboard_time": 1694937395,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266349,
       "num": 257192,
       "word": "为什么不能抠肚脐眼",
@@ -25025,6 +25097,14 @@
       "onboard_time": 1694137595,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261207,
+      "num": 261207,
+      "word": "欧文人气",
+      "onboard_time": 1694938053,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 260991,
@@ -26427,14 +26507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243345,
-      "num": 243345,
-      "word": "是不是全国各地都在咽喉炎",
-      "onboard_time": 1694935474,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 242938,
       "num": 743605,
       "word": "男老师收到花边走边拍开心炫耀",
@@ -26457,14 +26529,6 @@
       "onboard_time": 1693635992,
       "rank": 34,
       "category": "其它"
-    },
-    {
-      "raw_hot": 242651,
-      "num": 242651,
-      "word": "魏大勋片场让李一桐V他50",
-      "onboard_time": 1694934514,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 242648,
@@ -28499,14 +28563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222378,
-      "num": 222378,
-      "word": "田曦薇也在看我有一个朋友",
-      "onboard_time": 1694935955,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222329,
       "num": 222329,
       "word": "再见爱人3定档",
@@ -29601,6 +29657,14 @@
       "onboard_time": 1693978894,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211891,
+      "num": 211891,
+      "word": "蔡依林成都抢票",
+      "onboard_time": 1694937156,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 211875,
@@ -33043,6 +33107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192163,
+      "num": 192163,
+      "word": "欧亨利式结尾",
+      "onboard_time": 1694937572,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192140,
       "num": 189316,
       "word": "余华老师写的暴富",
@@ -34803,6 +34875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180606,
+      "num": 180606,
+      "word": "起猛了看到非主流回来了",
+      "onboard_time": 1694938232,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180602,
       "num": 180602,
       "word": "云之羽世界观",
@@ -35401,6 +35481,14 @@
       "onboard_time": 1693903959,
       "rank": 15,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175259,
+      "num": 175259,
+      "word": "鞠婧祎仿妆",
+      "onboard_time": 1694936135,
+      "rank": 39,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 175197,
@@ -36435,6 +36523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165097,
+      "num": 165097,
+      "word": "郁美净女孩现在是检察官",
+      "onboard_time": 1694938594,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164985,
       "num": 164985,
       "word": "檀健次诚意喊话剪刀手入职",
@@ -37185,6 +37281,14 @@
       "onboard_time": 1694489981,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 158922,
+      "num": 158922,
+      "word": "异人之下F4男团",
+      "onboard_time": 1694938594,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 158899,
@@ -39425,6 +39529,14 @@
       "onboard_time": 1694778034,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133189,
+      "num": 133189,
+      "word": "罗渽民穿制服弹钢琴",
+      "onboard_time": 1694937753,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133061,
@@ -42379,6 +42491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58015,
+      "num": 904408,
+      "word": "我国科学家研发出新型稀土开采技术",
+      "onboard_time": 1694921074,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57857,
       "num": 1492311,
       "word": "我们的亚运",
@@ -44003,11 +44123,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12100,
-      "num": 875666,
-      "word": "我国科学家研发出新型稀土开采技术",
-      "onboard_time": 1694921074,
-      "rank": 2,
+      "raw_hot": 11637,
+      "num": 355595,
+      "word": "2023黄河文化月",
+      "onboard_time": 1694937632,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
