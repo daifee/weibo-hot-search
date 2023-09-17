@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/17 18:16:28
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/17 18:33:41
 </p>
 </blockquote>
 <p>
@@ -1767,6 +1767,12 @@ iPhone15四款机型相机曝光（热度：1825898）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF13%E4%B8%AA%E5%AD%A6%E7%94%9F%E9%87%8C12%E4%B8%AA%E5%86%99%E5%87%BA%E4%BA%86%E7%88%86%E6%AC%BE%E6%AD%8C%23" target="weibo">
+徐良13个学生里12个写出了爆款歌（热度：1758226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E6%B2%A1%E8%B5%84%E6%A0%BC%E9%A3%98%23" target="weibo">
 小杨哥称没资格飘（热度：1757554）
 </a>
@@ -2033,12 +2039,6 @@ iPhone信号太差或将解决（热度：1716894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%23" target="weibo">
 深圳暴雨（热度：1655597）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF13%E4%B8%AA%E5%AD%A6%E7%94%9F%E9%87%8C12%E4%B8%AA%E5%86%99%E5%87%BA%E4%BA%86%E7%88%86%E6%AC%BE%E6%AD%8C%23" target="weibo">
-徐良13个学生里12个写出了爆款歌（热度：1647673）
 </a>
 </li>
 
