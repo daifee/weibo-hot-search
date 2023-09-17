@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694977990511,
+  "endTime": 1694979235468,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -2843,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129859,
+      "num": 129859,
+      "word": "原来高铁站台是禁止吸烟的",
+      "onboard_time": 1694976015,
+      "rank": 8,
+      "category": "其它"
+    },
+    {
       "raw_hot": 129822,
       "num": 129822,
       "word": "韩庚王丽坤二搭新剧",
@@ -3083,14 +3091,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 61351,
-      "num": 61351,
-      "word": "原来高铁站台是禁止吸烟的",
-      "onboard_time": 1694976015,
-      "rank": 8,
-      "category": "其它"
-    },
-    {
       "raw_hot": 59653,
       "num": 59653,
       "word": "养狗人的大型社死现场",
@@ -3139,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38722,
+      "num": 45994,
+      "word": "胡锡进 我们正迎来火爆的十一黄金周",
+      "onboard_time": 1694973801,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38198,
       "num": 49513,
       "word": "BLACKPINK首尔安可",
@@ -3179,14 +3187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29280,
-      "num": 45994,
-      "word": "胡锡进 我们正迎来火爆的十一黄金周",
-      "onboard_time": 1694973801,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27465,
       "num": 38593,
       "word": "边牧赶羊的时候真的好帅",
@@ -3209,6 +3209,30 @@
       "onboard_time": 1694940033,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23409,
+      "num": 23409,
+      "word": "辫子客服事件会影响你买苹果产品吗",
+      "onboard_time": 1694976916,
+      "rank": 41,
+      "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 22763,
+      "num": 22433,
+      "word": "莲花楼出圈的一些艰难时刻",
+      "onboard_time": 1694978534,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21943,
+      "num": 22294,
+      "word": "古法八段锦完整版",
+      "onboard_time": 1694974158,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15478,
