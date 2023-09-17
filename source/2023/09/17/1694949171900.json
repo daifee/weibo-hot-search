@@ -1,0 +1,410 @@
+{
+  "runTime": 1694949171900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1761269,
+        "num": 1761269,
+        "word": "花儿与少年5",
+        "onboard_time": 1694946573,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368157,
+        "num": 1490102,
+        "word": "深圳街头有24小时开放的免费琴房",
+        "onboard_time": 1694943813,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41529,
+        "num": 1320636,
+        "word": "成功发射遥感三十九号卫星",
+        "onboard_time": 1694939617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289466,
+        "num": 1289466,
+        "word": "徐良13个学生里12个写出了爆款歌",
+        "onboard_time": 1694941233,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319947,
+        "num": 1004069,
+        "word": "96岁教师连续12年为学生发奖学金",
+        "onboard_time": 1694945133,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943730,
+        "num": 943730,
+        "word": "活力28将为23万单洗衣粉退款10元",
+        "onboard_time": 1694947354,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 176627,
+        "num": 844655,
+        "word": "妹妹犯错被批评哥哥暖心呵护",
+        "onboard_time": 1694944232,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799034,
+        "num": 799034,
+        "word": "杨鸣 那就好好告个别吧",
+        "onboard_time": 1694944114,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742868,
+        "num": 742868,
+        "word": "B太 海鲜市场价格欺诈陷阱",
+        "onboard_time": 1694946514,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 701635,
+        "num": 701635,
+        "word": "偷税漏税再被罚袁冰妍的头到底有多铁",
+        "onboard_time": 1694936194,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 627702,
+        "num": 627702,
+        "word": "不画网红妆后变得清爽",
+        "onboard_time": 1694942556,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 481718,
+        "num": 481718,
+        "word": "部分明星偷漏税数目可能比公布的多",
+        "onboard_time": 1694939913,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 445106,
+        "num": 445106,
+        "word": "BLACKPINK演唱会直播",
+        "onboard_time": 1694942855,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 432416,
+        "num": 432416,
+        "word": "快递小哥拆了客户包裹反被奖励1000元",
+        "onboard_time": 1694940514,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249079,
+        "num": 382122,
+        "word": "郁美净女孩现在是检察官",
+        "onboard_time": 1694938594,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358429,
+        "num": 358429,
+        "word": "一人一城 三年三冠",
+        "onboard_time": 1694940814,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352597,
+        "num": 352597,
+        "word": "谢娜去看了刘雨昕演唱会",
+        "onboard_time": 1694945731,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357745,
+        "num": 352442,
+        "word": "YG新女团去看了BLACKPINK演唱会",
+        "onboard_time": 1694946872,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350339,
+        "num": 350339,
+        "word": "韩天宇接力金牌",
+        "onboard_time": 1694947952,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328001,
+        "num": 328001,
+        "word": "张栋梁身上有一种娱乐圈难得的松弛感",
+        "onboard_time": 1694945792,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494333,
+        "num": 320136,
+        "word": "男子疑嫌楼上吵当2孩子面杀其父母",
+        "onboard_time": 1694944953,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350911,
+        "num": 316763,
+        "word": "辛芷蕾花儿与少年5路透",
+        "onboard_time": 1694945792,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302692,
+        "num": 302692,
+        "word": "今日上网被确诊为刘姥姥",
+        "onboard_time": 1694944832,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287792,
+        "num": 287792,
+        "word": "32岁女子几乎每年确诊一种癌",
+        "onboard_time": 1694937873,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271441,
+        "num": 271441,
+        "word": "原来石榴粒也可以是玫瑰",
+        "onboard_time": 1694947232,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270541,
+        "num": 270541,
+        "word": "杨鸣卸任辽宁男篮主教练",
+        "onboard_time": 1694939074,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262854,
+        "num": 262854,
+        "word": "邓为少年故事大片",
+        "onboard_time": 1694946694,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237253,
+        "num": 237253,
+        "word": "视觉中国拍的Angelababy",
+        "onboard_time": 1694934393,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235214,
+        "num": 235214,
+        "word": "如何看苹果中国官网辫子客服形象",
+        "onboard_time": 1694948553,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 222848,
+        "num": 222848,
+        "word": "袁冰妍社交账号被禁言",
+        "onboard_time": 1694923774,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 221109,
+        "num": 221109,
+        "word": "内娱奋斗批天花板",
+        "onboard_time": 1694945191,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218426,
+        "num": 218426,
+        "word": "法考",
+        "onboard_time": 1694943874,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182822,
+        "num": 182822,
+        "word": "夜色尚浅靠演员缝缝补补",
+        "onboard_time": 1694942855,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181573,
+        "num": 181573,
+        "word": "傅云深被强吻",
+        "onboard_time": 1694940155,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176834,
+        "num": 176834,
+        "word": "为什么会出现集体咽喉炎",
+        "onboard_time": 1694944054,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173626,
+        "num": 173626,
+        "word": "昆凌摊煎饼",
+        "onboard_time": 1694930256,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170888,
+        "num": 170888,
+        "word": "无法和外国人解释什么叫上火",
+        "onboard_time": 1694947773,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170110,
+        "num": 170110,
+        "word": "傅云深从e人变emo人",
+        "onboard_time": 1694948192,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157948,
+        "num": 157948,
+        "word": "巨型棉签洗头 五天不油",
+        "onboard_time": 1694932536,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142794,
+        "num": 142794,
+        "word": "体检报告上写智商偏低的医生已被停职",
+        "onboard_time": 1694931574,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141297,
+        "num": 141297,
+        "word": "张艺兴演唱会舞台直拍",
+        "onboard_time": 1694945611,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138165,
+        "num": 138165,
+        "word": "如何看待粉丝为明星洗白",
+        "onboard_time": 1694948492,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 132399,
+        "num": 132399,
+        "word": "宋徽宗的书法有多绝",
+        "onboard_time": 1694943270,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 132367,
+        "num": 132367,
+        "word": "短道速滑冠军来呼和浩特了",
+        "onboard_time": 1694945792,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130786,
+        "num": 130786,
+        "word": "鹦鹉杀的故事一直有人在经历",
+        "onboard_time": 1694948913,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129393,
+        "num": 129393,
+        "word": "夜色尚浅就是这个味",
+        "onboard_time": 1694946694,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121440,
+        "num": 121440,
+        "word": "被一只恶犬萌到了",
+        "onboard_time": 1694944653,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121368,
+        "num": 121368,
+        "word": "黄景瑜片场攀爬百米云梯",
+        "onboard_time": 1694946993,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119575,
+        "num": 119575,
+        "word": "欧文人气",
+        "onboard_time": 1694938053,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111195,
+        "num": 111195,
+        "word": "可以让客人睡女儿房间吗",
+        "onboard_time": 1694924075,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕式预告片#"
+    }
+  }
+}
