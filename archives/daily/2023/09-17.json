@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694920615270,
+  "endTime": 1694921649758,
   "band_list": [
     {
       "raw_hot": 2026016,
@@ -27,6 +27,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 1538861,
+      "num": 1538861,
+      "word": "蜂花改喷头",
+      "onboard_time": 1694919034,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1285255,
       "num": 1285255,
       "word": "12306车票候补的正确方法",
@@ -49,6 +57,14 @@
       "onboard_time": 1694910814,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1014248,
+      "num": 1014248,
+      "word": "尔康才是去缅甸受害的第一人",
+      "onboard_time": 1694920056,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 925701,
@@ -91,12 +107,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 790947,
+      "num": 790947,
+      "word": "迪丽热巴将录制花儿与少年5",
+      "onboard_time": 1694919755,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 757302,
       "num": 757302,
       "word": "家长回应女儿乘电梯被陌生人取消楼层",
       "onboard_time": 1694908529,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678267,
+      "num": 678267,
+      "word": "华为轮值董事长称我们不要抱有幻想",
+      "onboard_time": 1694919512,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 677646,
@@ -163,22 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 557996,
-      "num": 557996,
-      "word": "蜂花改喷头",
-      "onboard_time": 1694919034,
-      "rank": 8,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 544591,
-      "num": 544591,
-      "word": "迪丽热巴将录制花儿与少年5",
-      "onboard_time": 1694919755,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 542684,
       "num": 542684,
       "word": "一瓶茅台可做2000多颗巧克力",
@@ -235,28 +251,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 482338,
-      "num": 225682,
-      "word": "尔康才是去缅甸受害的第一人",
-      "onboard_time": 1694920056,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 470328,
       "num": 470328,
       "word": "微信好友太多的结果",
       "onboard_time": 1694913813,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 460114,
-      "num": 460114,
-      "word": "华为轮值董事长称我们不要抱有幻想",
-      "onboard_time": 1694919512,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 453047,
@@ -313,6 +313,14 @@
       "onboard_time": 1694849495,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 383732,
+      "num": 383732,
+      "word": "骄阳伴我大结局",
+      "onboard_time": 1694919694,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 378327,
@@ -387,12 +395,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 320166,
-      "num": 320166,
-      "word": "骄阳伴我大结局",
-      "onboard_time": 1694919694,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 323488,
+      "num": 224618,
+      "word": "女子称9元买绝味鸭肠团起来没拳头大",
+      "onboard_time": 1694920593,
+      "rank": 41,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 309919,
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262160,
+      "num": 262160,
+      "word": "成毅哽咽的话太戳我了",
+      "onboard_time": 1694920711,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260767,
       "num": 260767,
       "word": "0713吵架永远好笑",
@@ -569,6 +585,14 @@
       "onboard_time": 1694867915,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240200,
+      "num": 240200,
+      "word": "男子在健身房被杠铃压死视频系拼凑",
+      "onboard_time": 1694920773,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239447,
@@ -691,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202326,
+      "num": 385549,
+      "word": "又有109名电诈嫌犯移交我方",
+      "onboard_time": 1694921255,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 199277,
       "num": 199277,
       "word": "马立奥特种兵暴雨游长隆",
@@ -723,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196182,
+      "num": 196182,
+      "word": "白敬亭没把我当外人",
+      "onboard_time": 1694920356,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195702,
       "num": 195702,
       "word": "尤长靖挑染了",
@@ -745,6 +785,14 @@
       "onboard_time": 1694854237,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191386,
+      "num": 191386,
+      "word": "分享和报备是两回事",
+      "onboard_time": 1694921255,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 191270,
@@ -779,6 +827,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183485,
+      "num": 183485,
+      "word": "粉笔模考",
+      "onboard_time": 1694921255,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 181233,
+      "num": 181233,
+      "word": "马嘉祺由你榜五年最强新势力",
+      "onboard_time": 1694921135,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180424,
       "num": 180424,
       "word": "李莎旻子妆造",
@@ -795,12 +859,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173880,
+      "num": 173880,
+      "word": "她不做销冠没人能做销冠了",
+      "onboard_time": 1694921434,
+      "rank": 41,
+      "category": "其它"
+    },
+    {
       "raw_hot": 169126,
       "num": 405628,
       "word": "新兵遇旅客晕倒跪地救回后悄悄离去",
       "onboard_time": 1694912312,
       "rank": 12,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 166941,
+      "num": 166941,
+      "word": "已有1482名涉诈嫌疑人移交我方",
+      "onboard_time": 1694921494,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 166337,
@@ -857,6 +937,14 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149281,
+      "num": 149281,
+      "word": "云为衫你自由啦",
+      "onboard_time": 1694919272,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 149055,
@@ -947,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135619,
-      "num": 135619,
-      "word": "云为衫你自由啦",
-      "onboard_time": 1694919272,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132968,
       "num": 132968,
       "word": "尝试戒掉咖啡的韩国人",
@@ -969,14 +1049,6 @@
       "onboard_time": 1694909730,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131039,
-      "num": 131039,
-      "word": "女子称9元买绝味鸭肠团起来没拳头大",
-      "onboard_time": 1694920593,
-      "rank": 41,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 129822,
@@ -1027,20 +1099,20 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 125574,
+      "num": 125574,
+      "word": "刘惜君新歌刀我",
+      "onboard_time": 1694920894,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125216,
       "num": 125216,
       "word": "伍佰的这首你说还怪好听的",
       "onboard_time": 1694919272,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 121403,
-      "num": 121403,
-      "word": "白敬亭没把我当外人",
-      "onboard_time": 1694920356,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 118194,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1694889377,
       "rank": 35,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 24050,
+      "num": 861943,
+      "word": "当杭州亚运图标小人遇上中国风",
+      "onboard_time": 1694921373,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14470,
