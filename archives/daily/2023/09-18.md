@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 03:33:55
+本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 04:16:20
 </p>
 </blockquote>
 <p>
@@ -267,6 +267,12 @@ Jennie演唱会哭了（热度：580002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E6%98%AF%E7%A6%81%E6%AD%A2%E5%90%B8%E7%83%9F%E7%9A%84%23" target="weibo">
+原来高铁站台是禁止吸烟的（热度：141589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%99%9F%20%E8%BF%99%E6%98%AF%E6%88%91%E4%B8%8D%E6%83%B3%E5%A4%B1%E5%8E%BB%E7%9A%84%E8%AE%B0%E5%BF%86%23" target="weibo">
 志晟 这是我不想失去的记忆（热度：136926）
 </a>
@@ -281,12 +287,6 @@ Jennie演唱会哭了（热度：580002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AF%B4%E8%8A%8B%E5%9C%86cp%E8%BF%98%E5%A5%BD%E7%9D%80%E5%91%A2%23" target="weibo">
 汪苏泷说芋圆cp还好着呢（热度：130492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E6%98%AF%E7%A6%81%E6%AD%A2%E5%90%B8%E7%83%9F%E7%9A%84%23" target="weibo">
-原来高铁站台是禁止吸烟的（热度：129859）
 </a>
 </li>
 
@@ -357,6 +357,12 @@ BLACKPINK世巡结束了（热度：66436）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E4%BA%8B%E4%BB%B6%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B9%B0%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%90%97%23" target="weibo">
+辫子客服事件会影响你买苹果产品吗（热度：39247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%88%91%E4%BB%AC%E6%AD%A3%E8%BF%8E%E6%9D%A5%E7%81%AB%E7%88%86%E7%9A%84%E5%8D%81%E4%B8%80%E9%BB%84%E9%87%91%E5%91%A8%23" target="weibo">
 胡锡进 我们正迎来火爆的十一黄金周（热度：38722）
 </a>
@@ -375,26 +381,26 @@ BLACKPINK世巡结束了（热度：66436）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%9B%E6%97%A0%E7%97%9B%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%A4%A7%E6%B3%95%23" target="weibo">
+一些无痛的学习大法（热度：25863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E8%A6%81%E8%B5%B0%E4%B8%80%E8%B6%9F%E5%AD%A4%E5%B1%B1%E8%B7%AF%E5%90%A7%23" target="weibo">
 总要走一趟孤山路吧（热度：25097）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E4%BA%8B%E4%BB%B6%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B9%B0%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%90%97%23" target="weibo">
-辫子客服事件会影响你买苹果产品吗（热度：23409）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%B3%95%E5%85%AB%E6%AE%B5%E9%94%A6%E5%AE%8C%E6%95%B4%E7%89%88%23" target="weibo">
+古法八段锦完整版（热度：24415）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%87%BA%E5%9C%88%E7%9A%84%E4%B8%80%E4%BA%9B%E8%89%B0%E9%9A%BE%E6%97%B6%E5%88%BB%23" target="weibo">
 莲花楼出圈的一些艰难时刻（热度：22763）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%B3%95%E5%85%AB%E6%AE%B5%E9%94%A6%E5%AE%8C%E6%95%B4%E7%89%88%23" target="weibo">
-古法八段锦完整版（热度：21943）
 </a>
 </li>
 
