@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694956651193,
+  "endTime": 1694957620478,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2068593,
-      "num": 486186,
+      "num": 574770,
       "word": "男子欲将女友卖缅甸迷路求助警察暴露",
       "onboard_time": 1694952937,
       "rank": 15,
@@ -115,6 +115,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 1643675,
+      "num": 1020239,
+      "word": "赵丽颖直播",
+      "onboard_time": 1694955578,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1594787,
       "num": 1594787,
       "word": "尔康才是去缅甸受害的第一人",
@@ -131,14 +139,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1510659,
-      "num": 1020239,
-      "word": "赵丽颖直播",
-      "onboard_time": 1694955578,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1409199,
       "num": 1409199,
       "word": "如何看苹果中国官网辫子客服形象",
@@ -153,6 +153,14 @@
       "onboard_time": 1694877635,
       "rank": 0,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1256955,
+      "num": 1256955,
+      "word": "Jennie演唱会哭了",
+      "onboard_time": 1694953958,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 1236711,
@@ -185,14 +193,6 @@
       "onboard_time": 1694910814,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1200430,
-      "num": 1200430,
-      "word": "Jennie演唱会哭了",
-      "onboard_time": 1694953958,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 1072856,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1038226,
-      "num": 504591,
+      "num": 554451,
       "word": "卢昱晓早期发疯文学",
       "onboard_time": 1694950592,
       "rank": 10,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889056,
+      "num": 889056,
+      "word": "金晨打水仗被迫卸妆了",
+      "onboard_time": 1694955758,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 881125,
       "num": 881125,
       "word": "aespa BLACKPINK演唱会",
@@ -321,6 +329,14 @@
       "onboard_time": 1694919755,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769558,
+      "num": 769558,
+      "word": "开灯后电影院的椅子有多脏",
+      "onboard_time": 1694955638,
+      "rank": 15,
+      "category": "其它"
     },
     {
       "raw_hot": 764065,
@@ -379,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 735764,
+      "num": 566303,
+      "word": "柴犬误食70粒布洛芬主人花5千救回",
+      "onboard_time": 1694954918,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735477,
       "num": 735477,
       "word": "已有1482名涉诈嫌疑人移交我方",
@@ -393,6 +417,14 @@
       "onboard_time": 1694955819,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 713179,
+      "num": 713179,
+      "word": "苹果客服回应辫子客服形象",
+      "onboard_time": 1694955880,
+      "rank": 22,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 703615,
@@ -595,6 +627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 538413,
+      "num": 284293,
+      "word": "原来飞机上有免费的卫生巾",
+      "onboard_time": 1694956961,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 536720,
       "num": 536720,
       "word": "郑恺啥也没带就带了媳妇",
@@ -651,6 +691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 515224,
+      "num": 515224,
+      "word": "云为衫宫子羽婚服战损花絮",
+      "onboard_time": 1694956118,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510041,
       "num": 510041,
       "word": "警方通报女子高铁拒换座被打",
@@ -675,20 +723,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 500467,
+      "num": 500467,
+      "word": "为什么会出现集体咽喉炎",
+      "onboard_time": 1694944054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498859,
       "num": 498859,
       "word": "宫尚角真的把宫远徵养得很好",
       "onboard_time": 1694915314,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 498442,
-      "num": 484876,
-      "word": "柴犬误食70粒布洛芬主人花5千救回",
-      "onboard_time": 1694954918,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494439,
@@ -721,22 +769,6 @@
       "onboard_time": 1694873620,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 486633,
-      "num": 486633,
-      "word": "为什么会出现集体咽喉炎",
-      "onboard_time": 1694944054,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482996,
-      "num": 482996,
-      "word": "开灯后电影院的椅子有多脏",
-      "onboard_time": 1694955638,
-      "rank": 15,
-      "category": "其它"
     },
     {
       "raw_hot": 479522,
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 442975,
-      "num": 382521,
+      "num": 385731,
       "word": "家政阿姨挪开沙发的瞬间我呆了",
       "onboard_time": 1694954977,
       "rank": 21,
@@ -849,14 +881,6 @@
       "onboard_time": 1694929533,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427030,
-      "num": 427030,
-      "word": "金晨打水仗被迫卸妆了",
-      "onboard_time": 1694955758,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 424335,
@@ -899,14 +923,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 387813,
-      "num": 277600,
-      "word": "云为衫宫子羽婚服战损花絮",
-      "onboard_time": 1694956118,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 387484,
       "num": 387484,
       "word": "戴佩妮这次终于忍住了",
@@ -923,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386070,
+      "num": 386070,
+      "word": "刘亦菲玫瑰故事带娃路透",
+      "onboard_time": 1694956057,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385771,
       "num": 368370,
       "word": "生理期去高原一滴都无",
@@ -931,20 +955,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385298,
+      "num": 385298,
+      "word": "肖战晒向日葵告别盛阳",
+      "onboard_time": 1694955638,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383732,
       "num": 383732,
       "word": "骄阳伴我大结局",
       "onboard_time": 1694919694,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380394,
-      "num": 380394,
-      "word": "苹果客服回应辫子客服形象",
-      "onboard_time": 1694955880,
-      "rank": 22,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 378327,
@@ -1139,11 +1163,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 329236,
-      "num": 329236,
-      "word": "肖战晒向日葵告别盛阳",
-      "onboard_time": 1694955638,
-      "rank": 24,
+      "raw_hot": 328762,
+      "num": 305049,
+      "word": "让肖战瞳孔地震的冷知识",
+      "onboard_time": 1694957080,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1291,20 +1315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287982,
+      "num": 287982,
+      "word": "驾考安全员被曝故意别停学员致挂科",
+      "onboard_time": 1694955216,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285263,
       "num": 285263,
       "word": "蜂花回应聘用残障人士负责香皂包装",
       "onboard_time": 1694917954,
       "rank": 31,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 282590,
-      "num": 282590,
-      "word": "驾考安全员被曝故意别停学员致挂科",
-      "onboard_time": 1694955216,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281940,
@@ -1323,12 +1347,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279173,
-      "num": 279173,
-      "word": "刘亦菲玫瑰故事带娃路透",
-      "onboard_time": 1694956057,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 279808,
+      "num": 279808,
+      "word": "范丞丞用水枪滋白敬亭胸肌",
+      "onboard_time": 1694956476,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 277949,
@@ -1633,6 +1657,14 @@
       "onboard_time": 1694873978,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223378,
+      "num": 223378,
+      "word": "腹泻专用厕所有什么特别的吗",
+      "onboard_time": 1694956476,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 222940,
@@ -1995,14 +2027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183691,
-      "num": 183691,
-      "word": "范丞丞用水枪滋白敬亭胸肌",
-      "onboard_time": 1694956476,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183019,
       "num": 183019,
       "word": "陈牧驰语音包会骂崇应彪",
@@ -2091,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171672,
+      "num": 171672,
+      "word": "志晟 这是我不想失去的记忆",
+      "onboard_time": 1694957498,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170888,
       "num": 170888,
       "word": "无法和外国人解释什么叫上火",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1694921673,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163923,
+      "num": 163923,
+      "word": "河南多地发现隐翅虫",
+      "onboard_time": 1694957200,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162399,
@@ -2289,14 +2329,6 @@
       "onboard_time": 1694858801,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147340,
-      "num": 147340,
-      "word": "腹泻专用厕所有什么特别的吗",
-      "onboard_time": 1694956476,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 145729,
