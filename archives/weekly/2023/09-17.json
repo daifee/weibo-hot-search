@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694957620478,
+  "endTime": 1694960028185,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -115,8 +115,16 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 1672854,
+      "num": 1672854,
+      "word": "苹果客服回应辫子客服形象",
+      "onboard_time": 1694955880,
+      "rank": 22,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1643675,
-      "num": 1020239,
+      "num": 1093820,
       "word": "赵丽颖直播",
       "onboard_time": 1694955578,
       "rank": 3,
@@ -347,6 +355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 762877,
+      "num": 762877,
+      "word": "柴犬误食70粒布洛芬主人花5千救回",
+      "onboard_time": 1694954918,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757302,
       "num": 757302,
       "word": "家长回应女儿乘电梯被陌生人取消楼层",
@@ -395,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 735764,
-      "num": 566303,
-      "word": "柴犬误食70粒布洛芬主人花5千救回",
-      "onboard_time": 1694954918,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735477,
       "num": 735477,
       "word": "已有1482名涉诈嫌疑人移交我方",
@@ -417,14 +425,6 @@
       "onboard_time": 1694955819,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 713179,
-      "num": 713179,
-      "word": "苹果客服回应辫子客服形象",
-      "onboard_time": 1694955880,
-      "rank": 22,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 703615,
@@ -483,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 670694,
+      "num": 510219,
+      "word": "原来飞机上有免费的卫生巾",
+      "onboard_time": 1694956961,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 658920,
       "num": 658920,
       "word": "袁冰妍被约谈后仍整改不彻底",
@@ -513,6 +521,14 @@
       "onboard_time": 1694924015,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 639189,
+      "num": 393194,
+      "word": "原来一万块有这么厚",
+      "onboard_time": 1694959836,
+      "rank": 20,
+      "category": "其它"
     },
     {
       "raw_hot": 628961,
@@ -595,6 +611,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 558233,
+      "num": 388422,
+      "word": "为什么只有早上卖油条",
+      "onboard_time": 1694958639,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 552977,
       "num": 552977,
       "word": "丞磊卢昱晓双人喵喵舞",
@@ -625,14 +649,6 @@
       "onboard_time": 1694909612,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 538413,
-      "num": 284293,
-      "word": "原来飞机上有免费的卫生巾",
-      "onboard_time": 1694956961,
-      "rank": 30,
-      "category": "知识科普"
     },
     {
       "raw_hot": 536720,
@@ -689,6 +705,14 @@
       "onboard_time": 1694951913,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 517578,
+      "num": 505890,
+      "word": "志晟 这是我不想失去的记忆",
+      "onboard_time": 1694957498,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 515224,
@@ -923,6 +947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 393449,
+      "num": 393449,
+      "word": "让肖战瞳孔地震的冷知识",
+      "onboard_time": 1694957080,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387484,
       "num": 387484,
       "word": "戴佩妮这次终于忍住了",
@@ -969,6 +1001,14 @@
       "onboard_time": 1694919694,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379452,
+      "num": 379452,
+      "word": "河南多地发现隐翅虫",
+      "onboard_time": 1694957200,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378327,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1694944832,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362560,
+      "num": 362560,
+      "word": "印度新生儿被活埋伸手破土求救",
+      "onboard_time": 1694958458,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362519,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1694909670,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 328762,
-      "num": 305049,
-      "word": "让肖战瞳孔地震的冷知识",
-      "onboard_time": 1694957080,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 328001,
@@ -1297,6 +1337,14 @@
       "onboard_time": 1694952455,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292743,
+      "num": 292743,
+      "word": "成毅张予曦含冰水防哈气",
+      "onboard_time": 1694959237,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 291808,
@@ -1571,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235400,
+      "num": 235400,
+      "word": "了解国货之后消费观被纠正了",
+      "onboard_time": 1694957678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233536,
       "num": 233536,
       "word": "华晨宇回应开巡演能否回本",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1694909253,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228118,
+      "num": 228118,
+      "word": "F1新加坡大奖赛塞恩斯冠军",
+      "onboard_time": 1694959778,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 227473,
@@ -1747,6 +1811,14 @@
       "category": "演出,时尚"
     },
     {
+      "raw_hot": 215400,
+      "num": 215400,
+      "word": "拉塞尔撞了",
+      "onboard_time": 1694959778,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215178,
       "num": 215178,
       "word": "骄阳伴我幕后工作花絮",
@@ -1801,6 +1873,14 @@
       "onboard_time": 1694929235,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204964,
+      "num": 204964,
+      "word": "在语文书上被安利过哪些东西",
+      "onboard_time": 1694959836,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 204563,
@@ -1928,6 +2008,14 @@
       "word": "尤长靖挑染了",
       "onboard_time": 1694914593,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193989,
+      "num": 193989,
+      "word": "汪苏泷我喜欢上你时的内心活动",
+      "onboard_time": 1694959836,
+      "rank": 41,
       "category": "演出"
     },
     {
@@ -2115,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171672,
-      "num": 171672,
-      "word": "志晟 这是我不想失去的记忆",
-      "onboard_time": 1694957498,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 170888,
       "num": 170888,
       "word": "无法和外国人解释什么叫上火",
@@ -2185,14 +2265,6 @@
       "onboard_time": 1694921673,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163923,
-      "num": 163923,
-      "word": "河南多地发现隐翅虫",
-      "onboard_time": 1694957200,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162399,
@@ -2272,6 +2344,14 @@
       "word": "张灵玉摸一次头要一次命",
       "onboard_time": 1694942315,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152969,
+      "num": 152969,
+      "word": "我回到十七岁的理由是治愈剧",
+      "onboard_time": 1694958098,
+      "rank": 48,
       "category": "剧集"
     },
     {
