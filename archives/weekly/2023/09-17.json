@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694968476825,
+  "endTime": 1694970820207,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1011204,
+      "num": 1011204,
+      "word": "夫妻偷渡到缅北后因业绩太差被打",
+      "onboard_time": 1694966132,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960917,
       "num": 334604,
       "word": "可以让客人睡女儿房间吗",
@@ -307,6 +315,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 912639,
+      "num": 492835,
+      "word": "陈坤 坦然接受生命中的一切",
+      "onboard_time": 1694966973,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890932,
       "num": 890932,
       "word": "快递小哥拆了客户包裹反被奖励1000元",
@@ -323,28 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 882664,
-      "num": 882664,
-      "word": "夫妻偷渡到缅北后因业绩太差被打",
-      "onboard_time": 1694966132,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 881125,
       "num": 881125,
       "word": "aespa BLACKPINK演唱会",
       "onboard_time": 1694949753,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 847205,
-      "num": 492835,
-      "word": "陈坤 坦然接受生命中的一切",
-      "onboard_time": 1694966973,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 807276,
@@ -889,6 +889,14 @@
       "onboard_time": 1694913813,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 468193,
+      "num": 274455,
+      "word": "新郎开迈巴赫扮猪八戒接新娘",
+      "onboard_time": 1694967870,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463309,
@@ -2843,14 +2851,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 129402,
-      "num": 129402,
-      "word": "新郎开迈巴赫扮猪八戒接新娘",
-      "onboard_time": 1694967870,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129216,
       "num": 129216,
       "word": "李荣浩纵横四海世界巡回演唱会",
@@ -3033,6 +3033,14 @@
       "onboard_time": 1694908889,
       "rank": 14,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 73604,
+      "num": 73604,
+      "word": "杨鸣告别辽宁男篮",
+      "onboard_time": 1694967630,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 70881,
