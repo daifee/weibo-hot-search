@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694961235275,
+  "endTime": 1694963734737,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -73,6 +73,14 @@
       "onboard_time": 1694939913,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1887863,
+      "num": 487656,
+      "word": "李兰迪这个发型好适合方圆脸女生",
+      "onboard_time": 1694960019,
+      "rank": 10,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 1876325,
@@ -155,14 +163,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1369234,
-      "num": 487656,
-      "word": "李兰迪这个发型好适合方圆脸女生",
-      "onboard_time": 1694960019,
-      "rank": 10,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 1285255,
       "num": 1285255,
       "word": "12306车票候补的正确方法",
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1127049,
+      "num": 510219,
+      "word": "原来飞机上有免费的卫生巾",
+      "onboard_time": 1694956961,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1072856,
       "num": 1072856,
       "word": "为什么蜜雪冰城拍不出ins感",
@@ -273,14 +281,6 @@
       "onboard_time": 1694924075,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 956159,
-      "num": 510219,
-      "word": "原来飞机上有免费的卫生巾",
-      "onboard_time": 1694956961,
-      "rank": 30,
-      "category": "知识科普"
     },
     {
       "raw_hot": 949429,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 685625,
+      "num": 685625,
+      "word": "为什么会出现集体咽喉炎",
+      "onboard_time": 1694944054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678267,
       "num": 678267,
       "word": "华为轮值董事长称我们不要抱有幻想",
@@ -619,12 +627,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 559385,
+      "num": 300510,
+      "word": "真正的富二代留学生的生活",
+      "onboard_time": 1694962718,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 558233,
       "num": 400596,
       "word": "为什么只有早上卖油条",
       "onboard_time": 1694958639,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 553574,
+      "num": 299895,
+      "word": "原来瘦肚子也可以很轻松",
+      "onboard_time": 1694961160,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 553481,
@@ -763,20 +787,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 500467,
-      "num": 500467,
-      "word": "为什么会出现集体咽喉炎",
-      "onboard_time": 1694944054,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 498859,
       "num": 498859,
       "word": "宫尚角真的把宫远徵养得很好",
       "onboard_time": 1694915314,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496143,
+      "num": 496143,
+      "word": "650合体",
+      "onboard_time": 1694960981,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 494439,
@@ -899,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447564,
+      "num": 299299,
+      "word": "女子咳嗽半月气管发现8cm蚂蟥",
+      "onboard_time": 1694960800,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442975,
       "num": 385731,
       "word": "家政阿姨挪开沙发的瞬间我呆了",
       "onboard_time": 1694954977,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438848,
+      "num": 421455,
+      "word": "希林娜依高一直很安静舞台",
+      "onboard_time": 1694960981,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 438467,
@@ -947,20 +987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421455,
-      "num": 421455,
-      "word": "希林娜依高一直很安静舞台",
-      "onboard_time": 1694960981,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 417661,
       "num": 417661,
       "word": "央视网文娱评流量反噬后的反思",
       "onboard_time": 1694908107,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408857,
+      "num": 298400,
+      "word": "租房千万不要只图便宜",
+      "onboard_time": 1694962838,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 397906,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1694956057,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386003,
+      "num": 266167,
+      "word": "重庆前首富住进养老院",
+      "onboard_time": 1694962236,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 385771,
@@ -1291,14 +1339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312962,
-      "num": 312962,
-      "word": "650合体",
-      "onboard_time": 1694960981,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 310338,
       "num": 310338,
       "word": "夜色尚浅 星同事",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1694952156,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298287,
+      "num": 298287,
+      "word": "中国经济崩溃论注定再度崩溃",
+      "onboard_time": 1694962838,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 296640,
@@ -1531,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272657,
+      "num": 272657,
+      "word": "一天最多吃几个鸡蛋最健康",
+      "onboard_time": 1694961038,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "金边眼镜的宫尚角",
@@ -1619,14 +1675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 258785,
-      "num": 258785,
-      "word": "女子咳嗽半月气管发现8cm蚂蟥",
-      "onboard_time": 1694960800,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253051,
       "num": 253051,
       "word": "夏枯草煮鸡蛋",
@@ -1635,12 +1683,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 251004,
+      "num": 251004,
+      "word": "癌症的邀请切勿使用这些",
+      "onboard_time": 1694963261,
+      "rank": 34,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 248468,
       "num": 248468,
       "word": "现在就出发",
       "onboard_time": 1694953235,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248159,
+      "num": 248159,
+      "word": "奥沙利文上海大师赛第五冠",
+      "onboard_time": 1694963079,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 246493,
@@ -1657,6 +1721,14 @@
       "onboard_time": 1694867915,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 243046,
+      "num": 211555,
+      "word": "奥沙利文决赛单杆143",
+      "onboard_time": 1694961820,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 241294,
@@ -1715,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234112,
+      "num": 234112,
+      "word": "汪苏泷说芋圆cp还好着呢",
+      "onboard_time": 1694962302,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233536,
       "num": 233536,
       "word": "华晨宇回应开巡演能否回本",
@@ -1745,14 +1825,6 @@
       "onboard_time": 1694952335,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230693,
-      "num": 230693,
-      "word": "一天最多吃几个鸡蛋最健康",
-      "onboard_time": 1694961038,
-      "rank": 42,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 230085,
@@ -2147,6 +2219,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 191254,
+      "num": 191254,
+      "word": "伯恩茅斯0比0切尔西",
+      "onboard_time": 1694963560,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189810,
       "num": 189810,
       "word": "异人之下F4男团",
@@ -2177,14 +2257,6 @@
       "onboard_time": 1694945792,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188229,
-      "num": 188229,
-      "word": "原来瘦肚子也可以很轻松",
-      "onboard_time": 1694961160,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 187164,
@@ -2225,6 +2297,14 @@
       "onboard_time": 1694921135,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180996,
+      "num": 180996,
+      "word": "你丢掉的小狗我们养得很好",
+      "onboard_time": 1694963678,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 180606,
