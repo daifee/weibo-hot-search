@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1694975638718,
+  "endTime": 1694977990511,
   "band_list": [
     {
       "raw_hot": 1445249,
@@ -433,6 +433,14 @@
       "onboard_time": 1694955819,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61351,
+      "num": 61351,
+      "word": "原来高铁站台是禁止吸烟的",
+      "onboard_time": 1694976015,
+      "rank": 8,
+      "category": "其它"
     },
     {
       "raw_hot": 58171,

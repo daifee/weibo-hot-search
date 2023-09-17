@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 02:33:58
+本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 03:13:10
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ Jennie演唱会哭了（热度：580002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%96%E5%B7%A1%E7%BB%93%E6%9D%9F%E4%BA%86%23" target="weibo">
 BLACKPINK世巡结束了（热度：66436）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E6%98%AF%E7%A6%81%E6%AD%A2%E5%90%B8%E7%83%9F%E7%9A%84%23" target="weibo">
+原来高铁站台是禁止吸烟的（热度：61351）
 </a>
 </li>
 
