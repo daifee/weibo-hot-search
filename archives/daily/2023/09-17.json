@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694928837486,
+  "endTime": 1694931610089,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2167744,
-      "num": 315360,
+      "num": 319883,
       "word": "袁冰妍社交账号被禁言",
       "onboard_time": 1694923774,
       "rank": 20,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 960917,
-      "num": 304914,
+      "num": 320138,
       "word": "可以让客人睡女儿房间吗",
       "onboard_time": 1694924075,
       "rank": 30,
@@ -259,6 +259,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 614348,
+      "num": 614348,
+      "word": "普通人学卢昱晓上官浅",
+      "onboard_time": 1694927735,
+      "rank": 47,
+      "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 612828,
+      "num": 433332,
+      "word": "易烊千玺 倍轻松",
+      "onboard_time": 1694928995,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 607891,
       "num": 371493,
       "word": "男子讨要彩礼未果将女方砍伤致死",
@@ -273,14 +289,6 @@
       "onboard_time": 1694916092,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 577178,
-      "num": 235473,
-      "word": "普通人学卢昱晓上官浅",
-      "onboard_time": 1694927735,
-      "rank": 47,
-      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 567954,
@@ -305,6 +313,22 @@
       "onboard_time": 1694909612,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 542281,
+      "num": 542281,
+      "word": "为什么蜜雪冰城拍不出ins感",
+      "onboard_time": 1694929413,
+      "rank": 4,
+      "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 536720,
+      "num": 536720,
+      "word": "郑恺啥也没带就带了媳妇",
+      "onboard_time": 1694928158,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 535143,
@@ -337,6 +361,22 @@
       "onboard_time": 1694922458,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520934,
+      "num": 429489,
+      "word": "大姨妈准时的美",
+      "onboard_time": 1694929894,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 515455,
+      "num": 428894,
+      "word": "昆凌摊煎饼",
+      "onboard_time": 1694930256,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 510041,
@@ -435,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428249,
+      "num": 428249,
+      "word": "时代峰峻二代的遗憾大概就是",
+      "onboard_time": 1694929533,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424335,
       "num": 424335,
       "word": "女子250万买飞机9年没到货",
@@ -465,6 +513,14 @@
       "onboard_time": 1694874163,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 387484,
+      "num": 387484,
+      "word": "戴佩妮这次终于忍住了",
+      "onboard_time": 1694927317,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 385771,
@@ -564,11 +620,19 @@
     },
     {
       "raw_hot": 336507,
-      "num": 385997,
+      "num": 434855,
       "word": "侵华日军罪证被3D无死角展示",
       "onboard_time": 1694927261,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333860,
+      "num": 430979,
+      "word": "海关截获两件禁止出境文物",
+      "onboard_time": 1694925516,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 331332,
@@ -577,6 +641,22 @@
       "onboard_time": 1694909670,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 323105,
+      "num": 323105,
+      "word": "张凌赫自己接档自己",
+      "onboard_time": 1694929655,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 318579,
+      "num": 318579,
+      "word": "女子戴隐形30年双眼角膜长满血管",
+      "onboard_time": 1694930797,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309919,
@@ -740,19 +820,11 @@
     },
     {
       "raw_hot": 268380,
-      "num": 383854,
+      "num": 430587,
       "word": "渐冻症男孩躺着拿下全球数学大奖",
       "onboard_time": 1694925034,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 265927,
-      "num": 265927,
-      "word": "郑恺啥也没带就带了媳妇",
-      "onboard_time": 1694928158,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 262160,
@@ -827,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234613,
+      "num": 234613,
+      "word": "美军方称中国造舰产能是美国的232倍",
+      "onboard_time": 1694930435,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
       "raw_hot": 233536,
       "num": 233536,
       "word": "华晨宇回应开巡演能否回本",
@@ -875,28 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226004,
-      "num": 207128,
-      "word": "海关截获两件禁止出境文物",
-      "onboard_time": 1694925516,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 225315,
       "num": 225315,
       "word": "莲花楼",
       "onboard_time": 1694906362,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224637,
-      "num": 224637,
-      "word": "戴佩妮这次终于忍住了",
-      "onboard_time": 1694927317,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 224184,
@@ -931,12 +995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218621,
+      "num": 218621,
+      "word": "封神",
+      "onboard_time": 1694929957,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218370,
       "num": 218370,
       "word": "郑容和说爱豆用隔空投送交换电话号码",
       "onboard_time": 1694911891,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218244,
+      "num": 218244,
+      "word": "莲花楼直播有自己的走位方式",
+      "onboard_time": 1694929833,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 217600,
@@ -969,6 +1049,14 @@
       "onboard_time": 1694927676,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205460,
+      "num": 205460,
+      "word": "张婧仪用手托着黄景瑜的脸",
+      "onboard_time": 1694929235,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 204563,
@@ -1123,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176188,
+      "num": 176188,
+      "word": "男朋友在车里装了一个化妆台",
+      "onboard_time": 1694931214,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 174868,
       "num": 174868,
       "word": "有一种亲情叫牛爷爷与胡图图",
@@ -1187,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158899,
+      "num": 158899,
+      "word": "女子吐槽闺蜜看秀像极了去进货",
+      "onboard_time": 1694929354,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157392,
       "num": 157392,
       "word": "周深人被舞台淹没但歌声飘满星河",
@@ -1233,6 +1337,14 @@
       "onboard_time": 1694874099,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148870,
+      "num": 148870,
+      "word": "伍佰终于唱上了",
+      "onboard_time": 1694930074,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 148239,
@@ -1403,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124521,
+      "num": 124521,
+      "word": "许凯当选杭州亚运会火炬手",
+      "onboard_time": 1694929957,
+      "rank": 46,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 118194,
       "num": 118194,
       "word": "爱发电崩了",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1694911713,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115554,
+      "num": 115554,
+      "word": "体检报告上写智商偏低的医生已被停职",
+      "onboard_time": 1694931574,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114914,
