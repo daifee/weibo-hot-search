@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1694990046519,
+  "endTime": 1694992548210,
   "band_list": [
     {
       "raw_hot": 1445249,
@@ -19,20 +19,28 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 1011204,
-      "num": 1011204,
+      "raw_hot": 1130597,
+      "num": 1130597,
       "word": "夫妻偷渡到缅北后因业绩太差被打",
       "onboard_time": 1694966132,
       "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 912639,
-      "num": 492835,
+      "raw_hot": 1059862,
+      "num": 558147,
       "word": "陈坤 坦然接受生命中的一切",
       "onboard_time": 1694966973,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 892700,
+      "num": 533363,
+      "word": "新郎开迈巴赫扮猪八戒接新娘",
+      "onboard_time": 1694967870,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 791413,
@@ -57,6 +65,14 @@
       "onboard_time": 1694955880,
       "rank": 17,
       "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 614152,
+      "num": 614152,
+      "word": "918",
+      "onboard_time": 1694992225,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580002,
@@ -107,19 +123,19 @@
       "category": "其它"
     },
     {
+      "raw_hot": 487207,
+      "num": 487207,
+      "word": "将19310918牢刻在心",
+      "onboard_time": 1694967033,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484664,
       "num": 314779,
       "word": "男子欲将女友卖缅甸迷路求助警察暴露",
       "onboard_time": 1694952937,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468193,
-      "num": 274455,
-      "word": "新郎开迈巴赫扮猪八戒接新娘",
-      "onboard_time": 1694967870,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -131,6 +147,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 411019,
+      "num": 411019,
+      "word": "金晨打水仗被迫卸妆了",
+      "onboard_time": 1694955758,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398578,
       "num": 313465,
       "word": "白桃星运十二星座一周运势",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 379110,
-      "num": 191568,
+      "num": 204730,
       "word": "情侣看演唱会临检票才发现买成前一天",
       "onboard_time": 1694966732,
       "rank": 30,
@@ -155,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318613,
-      "num": 318613,
-      "word": "金晨打水仗被迫卸妆了",
-      "onboard_time": 1694955758,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 336832,
+      "num": 212002,
+      "word": "九一八事变在这里爆发",
+      "onboard_time": 1694967094,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312103,
@@ -179,20 +203,36 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 289608,
-      "num": 316562,
-      "word": "将19310918牢刻在心",
-      "onboard_time": 1694967033,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285858,
       "num": 285858,
       "word": "租房千万不要只图便宜",
       "onboard_time": 1694962838,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272528,
+      "num": 272528,
+      "word": "原来高铁站台是禁止吸烟的",
+      "onboard_time": 1694976015,
+      "rank": 8,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 245287,
+      "num": 245287,
+      "word": "医生一眼认出9旬患者相拥落泪",
+      "onboard_time": 1694991625,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242276,
+      "num": 242276,
+      "word": "尤长靖演唱会嘉宾是彭昱畅",
+      "onboard_time": 1694971701,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 238416,
@@ -219,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217418,
+      "num": 217418,
+      "word": "辫子客服事件会影响你买苹果产品吗",
+      "onboard_time": 1694976916,
+      "rank": 41,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 217109,
       "num": 217109,
       "word": "夭璟 带我走",
@@ -227,11 +275,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212002,
-      "num": 212002,
-      "word": "九一八事变在这里爆发",
-      "onboard_time": 1694967094,
-      "rank": 38,
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "胡锡进 我们正迎来火爆的十一黄金周",
+      "onboard_time": 1694973801,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -267,14 +315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169270,
-      "num": 169270,
-      "word": "尤长靖演唱会嘉宾是彭昱畅",
-      "onboard_time": 1694971701,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 166681,
       "num": 166681,
       "word": "男子疑嫌楼上吵当2孩子面杀其父母",
@@ -288,6 +328,14 @@
       "word": "丞磊早期真诚文学",
       "onboard_time": 1694960321,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163058,
+      "num": 208906,
+      "word": "让肖战瞳孔地震的冷知识",
+      "onboard_time": 1694957080,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -339,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141589,
-      "num": 141589,
-      "word": "原来高铁站台是禁止吸烟的",
-      "onboard_time": 1694976015,
-      "rank": 8,
-      "category": "其它"
+      "raw_hot": 142267,
+      "num": 142267,
+      "word": "双色球",
+      "onboard_time": 1694986453,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 136926,
@@ -387,8 +435,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 124792,
-      "num": 124792,
+      "raw_hot": 125939,
+      "num": 125939,
       "word": "印度新生儿被活埋伸手破土求救",
       "onboard_time": 1694958458,
       "rank": 45,
@@ -411,12 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119479,
-      "num": 119479,
-      "word": "让肖战瞳孔地震的冷知识",
-      "onboard_time": 1694957080,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 118694,
+      "num": 118694,
+      "word": "Lisa演唱会哭了",
+      "onboard_time": 1694992408,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 110622,
+      "num": 110622,
+      "word": "不要小看一年级小学生的胜负心",
+      "onboard_time": 1694989399,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 99224,
@@ -427,36 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92643,
-      "num": 92643,
-      "word": "胡锡进 我们正迎来火爆的十一黄金周",
-      "onboard_time": 1694973801,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88101,
-      "num": 88101,
-      "word": "辫子客服事件会影响你买苹果产品吗",
-      "onboard_time": 1694976916,
-      "rank": 41,
-      "category": "社会新闻,数码"
-    },
-    {
-      "raw_hot": 83907,
-      "num": 83907,
-      "word": "双色球",
-      "onboard_time": 1694986453,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 73604,
       "num": 73604,
       "word": "杨鸣告别辽宁男篮",
       "onboard_time": 1694967630,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67311,
+      "num": 91063,
+      "word": "一些无痛的学习大法",
+      "onboard_time": 1694974637,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 66436,
@@ -481,14 +521,6 @@
       "onboard_time": 1694968469,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39517,
-      "num": 49461,
-      "word": "一些无痛的学习大法",
-      "onboard_time": 1694974637,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 33889,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 13755,
-      "num": 566531,
+      "num": 611309,
       "word": "我国科学家研发出新型稀土开采技术",
       "onboard_time": 1694921074,
       "rank": 2,
