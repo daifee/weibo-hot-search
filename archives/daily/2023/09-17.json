@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694963734737,
+  "endTime": 1694964847814,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -459,6 +459,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 689573,
+      "num": 689573,
+      "word": "为什么会出现集体咽喉炎",
+      "onboard_time": 1694944054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688387,
       "num": 688387,
       "word": "BLACKPINK演唱会直播",
@@ -467,20 +475,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 687311,
+      "num": 687311,
+      "word": "中国经济崩溃论注定再度崩溃",
+      "onboard_time": 1694962838,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 686933,
       "num": 686933,
       "word": "赵昭仪 花儿与少年",
       "onboard_time": 1694949691,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 685625,
-      "num": 685625,
-      "word": "为什么会出现集体咽喉炎",
-      "onboard_time": 1694944054,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 678267,
@@ -545,6 +553,14 @@
       "onboard_time": 1694924015,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 630398,
+      "num": 331216,
+      "word": "真正的富二代留学生的生活",
+      "onboard_time": 1694962718,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 628961,
@@ -627,14 +643,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 559385,
-      "num": 300510,
-      "word": "真正的富二代留学生的生活",
-      "onboard_time": 1694962718,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 558233,
       "num": 400596,
       "word": "为什么只有早上卖油条",
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 553574,
-      "num": 299895,
+      "num": 330862,
       "word": "原来瘦肚子也可以很轻松",
       "onboard_time": 1694961160,
       "rank": 47,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 447564,
-      "num": 299299,
+      "num": 330293,
       "word": "女子咳嗽半月气管发现8cm蚂蟥",
       "onboard_time": 1694960800,
       "rank": 39,
@@ -937,6 +945,14 @@
       "onboard_time": 1694954977,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 442922,
+      "num": 363561,
+      "word": "白桃星运十二星座一周运势",
+      "onboard_time": 1694964216,
+      "rank": 17,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 438848,
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 408857,
-      "num": 298400,
+      "num": 330589,
       "word": "租房千万不要只图便宜",
       "onboard_time": 1694962838,
       "rank": 24,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 386003,
-      "num": 266167,
+      "num": 361305,
       "word": "重庆前首富住进养老院",
       "onboard_time": 1694962236,
       "rank": 30,
@@ -1211,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 356054,
+      "num": 263754,
+      "word": "癌症的邀请切勿使用这些",
+      "onboard_time": 1694963261,
+      "rank": 34,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 355329,
       "num": 355329,
       "word": "我们的歌",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1694909670,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 330194,
+      "num": 330194,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1694964216,
+      "rank": 26,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 329808,
@@ -1417,14 +1449,6 @@
       "onboard_time": 1694952156,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298287,
-      "num": 298287,
-      "word": "中国经济崩溃论注定再度崩溃",
-      "onboard_time": 1694962838,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 296640,
@@ -1683,14 +1707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 251004,
-      "num": 251004,
-      "word": "癌症的邀请切勿使用这些",
-      "onboard_time": 1694963261,
-      "rank": 34,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 248468,
       "num": 248468,
       "word": "现在就出发",
@@ -1859,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226668,
+      "num": 226668,
+      "word": "你丢掉的小狗我们养得很好",
+      "onboard_time": 1694963678,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226201,
       "num": 226201,
       "word": "想见你或将拍古装剧",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1694934694,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212890,
+      "num": 212890,
+      "word": "赵丽颖光影氛围感live图",
+      "onboard_time": 1694964216,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211891,
@@ -2297,14 +2329,6 @@
       "onboard_time": 1694921135,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 180996,
-      "num": 180996,
-      "word": "你丢掉的小狗我们养得很好",
-      "onboard_time": 1694963678,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 180606,
