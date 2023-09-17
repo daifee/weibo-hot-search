@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694949171900,
+  "endTime": 1694950432415,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -59,20 +59,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1876325,
+      "num": 1876325,
+      "word": "花儿与少年5",
+      "onboard_time": 1694946573,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1840140,
       "num": 1840140,
       "word": "蜂花改喷头",
       "onboard_time": 1694919034,
       "rank": 8,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1761269,
-      "num": 1761269,
-      "word": "花儿与少年5",
-      "onboard_time": 1694946573,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 1758226,
@@ -105,6 +105,14 @@
       "onboard_time": 1694920056,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1517175,
+      "num": 1517175,
+      "word": "活力28将为23万单洗衣粉退款10元",
+      "onboard_time": 1694947354,
+      "rank": 5,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1285255,
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 943730,
-      "num": 943730,
-      "word": "活力28将为23万单洗衣粉退款10元",
-      "onboard_time": 1694947354,
-      "rank": 5,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 925701,
       "num": 925701,
       "word": "不经意却很伤头发的行为",
@@ -233,6 +233,22 @@
       "onboard_time": 1694940514,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881125,
+      "num": 881125,
+      "word": "aespa BLACKPINK演唱会",
+      "onboard_time": 1694949753,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 815883,
+      "num": 815883,
+      "word": "如何看苹果中国官网辫子客服形象",
+      "onboard_time": 1694948553,
+      "rank": 28,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 807276,
@@ -337,6 +353,14 @@
       "onboard_time": 1694942855,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 686933,
+      "num": 686933,
+      "word": "赵昭仪 花儿与少年",
+      "onboard_time": 1694949691,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 678267,
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 422783,
-      "num": 1490102,
+      "num": 1635076,
       "word": "深圳街头有24小时开放的免费琴房",
       "onboard_time": 1694943813,
       "rank": 1,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 386467,
-      "num": 1004069,
+      "num": 1048895,
       "word": "96岁教师连续12年为学生发奖学金",
       "onboard_time": 1694945133,
       "rank": 6,
@@ -1251,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255630,
+      "num": 255630,
+      "word": "夭璟 带我走",
+      "onboard_time": 1694950111,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253051,
       "num": 253051,
       "word": "夏枯草煮鸡蛋",
@@ -1315,14 +1347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235214,
-      "num": 235214,
-      "word": "如何看苹果中国官网辫子客服形象",
-      "onboard_time": 1694948553,
-      "rank": 28,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 233536,
       "num": 233536,
       "word": "华晨宇回应开巡演能否回本",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1694934393,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225806,
+      "num": 198925,
+      "word": "做了件慈禧同款旗袍",
+      "onboard_time": 1694949271,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 225315,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1694914113,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197507,
+      "num": 197507,
+      "word": "生活果然需要一些意想不到",
+      "onboard_time": 1694949333,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 196182,
@@ -1971,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145729,
+      "num": 145729,
+      "word": "鹦鹉杀的故事一直有人在经历",
+      "onboard_time": 1694948913,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144868,
       "num": 144868,
       "word": "绘旅人三周年庆",
@@ -2051,12 +2099,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138875,
+      "num": 138875,
+      "word": "异人之下",
+      "onboard_time": 1694950174,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138165,
       "num": 138165,
       "word": "如何看待粉丝为明星洗白",
       "onboard_time": 1694948492,
       "rank": 41,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 133513,
+      "num": 133513,
+      "word": "张钧甯 是时候展现真正的技术了",
+      "onboard_time": 1694949392,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 133189,
@@ -2089,14 +2153,6 @@
       "onboard_time": 1694909730,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130786,
-      "num": 130786,
-      "word": "鹦鹉杀的故事一直有人在经历",
-      "onboard_time": 1694948913,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 129822,
@@ -2364,7 +2420,7 @@
     },
     {
       "raw_hot": 41529,
-      "num": 1320636,
+      "num": 1548817,
       "word": "成功发射遥感三十九号卫星",
       "onboard_time": 1694939617,
       "rank": 2,
