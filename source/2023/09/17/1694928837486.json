@@ -1,0 +1,410 @@
+{
+  "runTime": 1694928837486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074767,
+        "num": 1357028,
+        "word": "蜂花改喷头",
+        "onboard_time": 1694919034,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1417127,
+        "num": 1329814,
+        "word": "各大卫视删除袁冰妍相关动态",
+        "onboard_time": 1694921734,
+        "rank": 1,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 73229,
+        "num": 1148303,
+        "word": "当杭州亚运图标小人遇上中国风",
+        "onboard_time": 1694921373,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4102028,
+        "num": 1120534,
+        "word": "44岁农妇疑被强奸8天后自杀身亡",
+        "onboard_time": 1694924135,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031691,
+        "num": 1031691,
+        "word": "李在明绝食18天说话困难",
+        "onboard_time": 1694925274,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 797506,
+        "num": 797506,
+        "word": "尔康才是去缅甸受害的第一人",
+        "onboard_time": 1694920056,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1046214,
+        "num": 788433,
+        "word": "疑被强奸农妇遗书问推他算不算反抗",
+        "onboard_time": 1694925998,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741054,
+        "num": 741054,
+        "word": "赵丽颖带火蟳埔女文化",
+        "onboard_time": 1694924135,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 641417,
+        "num": 641417,
+        "word": "把面粉倒进滚烫的开水里",
+        "onboard_time": 1694924015,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 383529,
+        "num": 383529,
+        "word": "奚梦瑶被何猷君对孩子的回应腻到",
+        "onboard_time": 1694922458,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535143,
+        "num": 380245,
+        "word": "罗永浩讽刺iPhone15换华为口",
+        "onboard_time": 1694927916,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 408064,
+        "num": 378451,
+        "word": "网红夫妻自拍私房视频卖钱被刑拘",
+        "onboard_time": 1694915073,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336507,
+        "num": 336507,
+        "word": "侵华日军罪证被3D无死角展示",
+        "onboard_time": 1694927261,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252017,
+        "num": 321369,
+        "word": "渐冻症男孩躺着拿下全球数学大奖",
+        "onboard_time": 1694925034,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 244583,
+        "num": 320473,
+        "word": "日军侵华罪行再添铁证",
+        "onboard_time": 1694922334,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366763,
+        "num": 320407,
+        "word": "张小斐拖地风衣",
+        "onboard_time": 1694928215,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320181,
+        "num": 320181,
+        "word": "迪丽热巴将录制花儿与少年5",
+        "onboard_time": 1694919755,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318655,
+        "num": 318655,
+        "word": "成龙一激动把魏翔叫成费翔",
+        "onboard_time": 1694923713,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314801,
+        "num": 314801,
+        "word": "卢昱晓画的云之羽Q版画",
+        "onboard_time": 1694922513,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302951,
+        "num": 302951,
+        "word": "我恋5都是高质量素人",
+        "onboard_time": 1694922034,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1221556,
+        "num": 302836,
+        "word": "袁冰妍社交账号被禁言",
+        "onboard_time": 1694923774,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 924381,
+        "num": 302567,
+        "word": "可以让客人睡女儿房间吗",
+        "onboard_time": 1694924075,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356083,
+        "num": 302164,
+        "word": "她不做销冠没人能做销冠了",
+        "onboard_time": 1694921434,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 322153,
+        "num": 301957,
+        "word": "iPhone15可使用安卓C口配件",
+        "onboard_time": 1694922875,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 309190,
+        "num": 301382,
+        "word": "开空调有股酸臭味的原因",
+        "onboard_time": 1694927676,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 301372,
+        "num": 301372,
+        "word": "庆余年第二季预约破600万",
+        "onboard_time": 1694922875,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266094,
+        "num": 266094,
+        "word": "谭爷爷收花叶姐弟无奈抠脑壳",
+        "onboard_time": 1694924858,
+        "rank": 26,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 265927,
+        "num": 265927,
+        "word": "郑恺啥也没带就带了媳妇",
+        "onboard_time": 1694928158,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241294,
+        "num": 241294,
+        "word": "韩庚片场再也不教跳舞了",
+        "onboard_time": 1694927375,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239874,
+        "num": 239874,
+        "word": "欧文终于来了",
+        "onboard_time": 1694926176,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577178,
+        "num": 235473,
+        "word": "普通人学卢昱晓上官浅",
+        "onboard_time": 1694927735,
+        "rank": 30,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 224637,
+        "num": 224637,
+        "word": "戴佩妮这次终于忍住了",
+        "onboard_time": 1694927317,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219669,
+        "num": 219669,
+        "word": "女子称9元买绝味鸭肠团起来没拳头大",
+        "onboard_time": 1694920593,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 206106,
+        "num": 206106,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1694927676,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203716,
+        "num": 203716,
+        "word": "海关截获两件禁止出境文物",
+        "onboard_time": 1694925516,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 182951,
+        "num": 182951,
+        "word": "法考",
+        "onboard_time": 1694921973,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178680,
+        "num": 178680,
+        "word": "新疆人这样吃早餐会馋死我",
+        "onboard_time": 1694925094,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173681,
+        "num": 173681,
+        "word": "潮汕生腌 潮汕人割舍不去的毒药",
+        "onboard_time": 1694926415,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161141,
+        "num": 161141,
+        "word": "华为轮值董事长称我们不要抱有幻想",
+        "onboard_time": 1694919512,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157452,
+        "num": 157452,
+        "word": "女生用膝盖接散粉盒致髌骨脱位",
+        "onboard_time": 1694924259,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 147771,
+        "word": "陈乔恩和乔任梁父母一同扫墓",
+        "onboard_time": 1694908588,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140650,
+        "num": 140650,
+        "word": "骄阳伴我大结局",
+        "onboard_time": 1694919694,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137159,
+        "num": 137159,
+        "word": "宫尚角真的把宫远徵养得很好",
+        "onboard_time": 1694915314,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125457,
+        "num": 125457,
+        "word": "一瓶茅台可做2000多颗巧克力",
+        "onboard_time": 1694909612,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125295,
+        "num": 125295,
+        "word": "云为衫亲手斩断情丝",
+        "onboard_time": 1694921673,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124906,
+        "num": 124906,
+        "word": "结婚和离婚哪个更需要勇气",
+        "onboard_time": 1694907566,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 118287,
+        "num": 118287,
+        "word": "蜂花卖断货后帮没蹭上商战的国货宣传",
+        "onboard_time": 1694907385,
+        "rank": 46,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 115816,
+        "num": 115816,
+        "word": "公司团建让我放弃周杰伦演唱会",
+        "onboard_time": 1694914893,
+        "rank": 47,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 115331,
+        "num": 115331,
+        "word": "精心协和标婷 维E乳",
+        "onboard_time": 1694919034,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110792,
+        "num": 110792,
+        "word": "奥本海默成影史传记片票房冠军",
+        "onboard_time": 1694927076,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给东北大学全体师生回信#"
+    }
+  }
+}
