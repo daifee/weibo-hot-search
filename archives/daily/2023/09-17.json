@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694914468742,
+  "endTime": 1694917383751,
   "band_list": [
     {
       "raw_hot": 1697810,
@@ -9,6 +9,14 @@
       "onboard_time": 1694907385,
       "rank": 0,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1627821,
+      "num": 731046,
+      "word": "网红夫妻自拍私房视频卖钱被刑拘",
+      "onboard_time": 1694915073,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1285255,
@@ -27,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1108706,
+      "raw_hot": 1208151,
       "num": 770170,
       "word": "原来何猷君也逃不过女儿奴",
       "onboard_time": 1694910814,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717584,
+      "num": 717584,
+      "word": "为什么现在的油条全是面包口感",
+      "onboard_time": 1694914772,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 675220,
       "num": 675220,
       "word": "袁冰妍偷逃税罚款超430万",
@@ -97,6 +113,14 @@
       "onboard_time": 1694860177,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 655993,
+      "num": 655993,
+      "word": "公司团建让我放弃周杰伦演唱会",
+      "onboard_time": 1694914893,
+      "rank": 7,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 646456,
@@ -139,12 +163,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519159,
+      "num": 519159,
+      "word": "张凌赫回应被说运气不好",
+      "onboard_time": 1694916092,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 510041,
+      "num": 510041,
+      "word": "警方通报女子高铁拒换座被打",
+      "onboard_time": 1694913755,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506589,
       "num": 301656,
       "word": "如何用50天瘦16斤",
       "onboard_time": 1694879916,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 498859,
+      "num": 498859,
+      "word": "宫尚角真的把宫远徵养得很好",
+      "onboard_time": 1694915314,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 494439,
@@ -160,6 +208,14 @@
       "word": "才知道蜜雪冰城曾经是个餐馆",
       "onboard_time": 1694873620,
       "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 467537,
+      "num": 467537,
+      "word": "微信好友太多的结果",
+      "onboard_time": 1694913813,
+      "rank": 15,
       "category": "幽默"
     },
     {
@@ -188,7 +244,7 @@
     },
     {
       "raw_hot": 410309,
-      "num": 282468,
+      "num": 329100,
       "word": "女子250万买飞机9年没到货",
       "onboard_time": 1694907385,
       "rank": 20,
@@ -227,12 +283,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 373657,
-      "num": 373657,
-      "word": "微信好友太多的结果",
-      "onboard_time": 1694913813,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 372691,
+      "num": 185017,
+      "word": "武汉一男子健身时意外身亡",
+      "onboard_time": 1694916274,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 358988,
@@ -259,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 340938,
+      "num": 328937,
+      "word": "全麻手术真的容易让人社死",
+      "onboard_time": 1694914772,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331332,
       "num": 331332,
       "word": "山东一地农民种冬枣30万亩年收入超30亿",
@@ -267,12 +331,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 318334,
-      "num": 406279,
-      "word": "警方通报女子高铁拒换座被打",
-      "onboard_time": 1694913755,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 324846,
+      "num": 324846,
+      "word": "魏大勋先演黄子诚再演的孟宴臣",
+      "onboard_time": 1694916154,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 308648,
@@ -313,6 +377,14 @@
       "onboard_time": 1694908828,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 291808,
+      "num": 405731,
+      "word": "钱学森和蒋英见面后一个多月闪婚",
+      "onboard_time": 1694911953,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288293,
@@ -379,14 +451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253601,
-      "num": 385640,
-      "word": "钱学森和蒋英见面后一个多月闪婚",
-      "onboard_time": 1694911953,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253051,
       "num": 253051,
       "word": "夏枯草煮鸡蛋",
@@ -451,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227151,
+      "num": 227151,
+      "word": "新疆3头棕熊在隧道里夜跑",
+      "onboard_time": 1694915493,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225315,
       "num": 225315,
       "word": "莲花楼",
@@ -507,12 +579,20 @@
       "category": "演出,时尚"
     },
     {
-      "raw_hot": 210919,
-      "num": 210919,
+      "raw_hot": 214943,
+      "num": 214943,
       "word": "和纸片人谈恋爱是不是爱情",
       "onboard_time": 1694913573,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210563,
+      "num": 184179,
+      "word": "外星人探访地球突然对我没吸引力了",
+      "onboard_time": 1694916572,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 202798,
@@ -553,6 +633,14 @@
       "onboard_time": 1694914113,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195702,
+      "num": 195702,
+      "word": "尤长靖挑染了",
+      "onboard_time": 1694914593,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 193502,
@@ -612,7 +700,7 @@
     },
     {
       "raw_hot": 169126,
-      "num": 396866,
+      "num": 405628,
       "word": "新兵遇旅客晕倒跪地救回后悄悄离去",
       "onboard_time": 1694912312,
       "rank": 12,
@@ -625,6 +713,14 @@
       "onboard_time": 1694870738,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161660,
+      "num": 161660,
+      "word": "云为衫的春夏秋冬",
+      "onboard_time": 1694916813,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 157392,
@@ -641,6 +737,14 @@
       "onboard_time": 1694874877,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155826,
+      "num": 155826,
+      "word": "罕见病女孩坚持热爱成985大学副教授",
+      "onboard_time": 1694914830,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151821,
@@ -667,6 +771,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144766,
+      "num": 144766,
+      "word": "女子高铁拒换座被打双方均已就医",
+      "onboard_time": 1694915914,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144516,
+      "num": 144516,
+      "word": "有一种亲情叫牛爷爷与胡图图",
+      "onboard_time": 1694916813,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 142742,
+      "num": 142742,
+      "word": "这只熊猫全球地标跑了个遍",
+      "onboard_time": 1694915314,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142632,
       "num": 142632,
       "word": "无锡太湖音乐节",
@@ -680,6 +808,14 @@
       "word": "成毅好萌啊",
       "onboard_time": 1694911953,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141444,
+      "num": 141444,
+      "word": "天天小兄弟在异人之下团建",
+      "onboard_time": 1694916936,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -731,12 +867,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128430,
+      "num": 126452,
+      "word": "彭昱畅侯明昊徐浩17年后再合作",
+      "onboard_time": 1694915375,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127019,
+      "num": 127019,
+      "word": "韩庚王丽坤二搭新剧",
+      "onboard_time": 1694917233,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125699,
       "num": 125699,
       "word": "宠物减肥瘦的是主人",
       "onboard_time": 1694912971,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 124327,
+      "num": 124327,
+      "word": "货车故障民警送来饭菜暖哭司机",
+      "onboard_time": 1694917355,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 118194,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1694917383751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1078192,
+        "num": 1078192,
+        "word": "蜂花卖断货后帮没蹭上商战的国货宣传",
+        "onboard_time": 1694907385,
+        "rank": 0,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 863466,
+        "num": 863466,
+        "word": "不经意却很伤头发的行为",
+        "onboard_time": 1694910631,
+        "rank": 1,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 5247,
+        "num": 732808,
+        "word": "大国技能群英荟",
+        "onboard_time": 1694857237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627821,
+        "num": 731046,
+        "word": "网红夫妻自拍私房视频卖钱被刑拘",
+        "onboard_time": 1694915073,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208151,
+        "num": 729899,
+        "word": "原来何猷君也逃不过女儿奴",
+        "onboard_time": 1694910814,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717584,
+        "num": 717584,
+        "word": "为什么现在的油条全是面包口感",
+        "onboard_time": 1694914772,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 695413,
+        "num": 695413,
+        "word": "陈乔恩和乔任梁父母一同扫墓",
+        "onboard_time": 1694908588,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 655993,
+        "num": 655993,
+        "word": "公司团建让我放弃周杰伦演唱会",
+        "onboard_time": 1694914893,
+        "rank": 7,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 519159,
+        "num": 519159,
+        "word": "张凌赫回应被说运气不好",
+        "onboard_time": 1694916092,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 510041,
+        "num": 510041,
+        "word": "警方通报女子高铁拒换座被打",
+        "onboard_time": 1694913755,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498859,
+        "num": 498859,
+        "word": "宫尚角真的把宫远徵养得很好",
+        "onboard_time": 1694915314,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467537,
+        "num": 467537,
+        "word": "微信好友太多的结果",
+        "onboard_time": 1694913813,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419743,
+        "num": 419743,
+        "word": "袁冰妍偷逃税罚款超430万",
+        "onboard_time": 1694868337,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 291808,
+        "num": 405731,
+        "word": "钱学森和蒋英见面后一个多月闪婚",
+        "onboard_time": 1694911953,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128961,
+        "num": 405628,
+        "word": "新兵遇旅客晕倒跪地救回后悄悄离去",
+        "onboard_time": 1694912312,
+        "rank": 14,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 405626,
+        "num": 405626,
+        "word": "曾舜晞哭了",
+        "onboard_time": 1694911177,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404061,
+        "num": 404061,
+        "word": "结婚和离婚哪个更需要勇气",
+        "onboard_time": 1694907566,
+        "rank": 16,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 398869,
+        "num": 398869,
+        "word": "家长回应女儿乘电梯被陌生人取消楼层",
+        "onboard_time": 1694908529,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345271,
+        "num": 345271,
+        "word": "一瓶茅台可做2000多颗巧克力",
+        "onboard_time": 1694909612,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329100,
+        "num": 329100,
+        "word": "女子250万买飞机9年没到货",
+        "onboard_time": 1694907385,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340938,
+        "num": 328937,
+        "word": "全麻手术真的容易让人社死",
+        "onboard_time": 1694914772,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324846,
+        "num": 324846,
+        "word": "魏大勋先演黄子诚再演的孟宴臣",
+        "onboard_time": 1694916154,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275605,
+        "num": 275605,
+        "word": "Jennie首尔演唱会状态",
+        "onboard_time": 1694908828,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243538,
+        "num": 243538,
+        "word": "袁成杰说想看到张杰喜得四胎热搜",
+        "onboard_time": 1694908408,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238693,
+        "num": 238693,
+        "word": "30岁也不过是12岁的大人",
+        "onboard_time": 1694909253,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227151,
+        "num": 227151,
+        "word": "新疆3头棕熊在隧道里夜跑",
+        "onboard_time": 1694915493,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214943,
+        "num": 214943,
+        "word": "和纸片人谈恋爱是不是爱情",
+        "onboard_time": 1694913573,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203407,
+        "num": 203407,
+        "word": "封神第一部豆瓣评分涨至8.0分",
+        "onboard_time": 1694913813,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195702,
+        "num": 195702,
+        "word": "尤长靖挑染了",
+        "onboard_time": 1694914593,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186213,
+        "num": 186213,
+        "word": "0713吵架永远好笑",
+        "onboard_time": 1694908588,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372691,
+        "num": 185017,
+        "word": "武汉一男子健身时意外身亡",
+        "onboard_time": 1694916274,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 210563,
+        "num": 184179,
+        "word": "外星人探访地球突然对我没吸引力了",
+        "onboard_time": 1694916572,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177368,
+        "num": 177368,
+        "word": "高铁拒换座被打女子发声",
+        "onboard_time": 1694906362,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165897,
+        "num": 165897,
+        "word": "央视网文娱评流量反噬后的反思",
+        "onboard_time": 1694908107,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161660,
+        "num": 161660,
+        "word": "云为衫的春夏秋冬",
+        "onboard_time": 1694916813,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160763,
+        "num": 160763,
+        "word": "郑容和说爱豆用隔空投送交换电话号码",
+        "onboard_time": 1694911891,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158307,
+        "num": 158307,
+        "word": "大熊猫看到妈妈的饭被香得惊呆了",
+        "onboard_time": 1694910091,
+        "rank": 36,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 157939,
+        "num": 157939,
+        "word": "李一桐新剧又有严刑拷打戏",
+        "onboard_time": 1694911295,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155826,
+        "num": 155826,
+        "word": "罕见病女孩坚持热爱成985大学副教授",
+        "onboard_time": 1694914830,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154447,
+        "num": 154447,
+        "word": "男子讨要彩礼未果将女方砍伤致死",
+        "onboard_time": 1694874820,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153532,
+        "num": 153532,
+        "word": "山东一地农民种冬枣30万亩年收入超30亿",
+        "onboard_time": 1694909670,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 144766,
+        "num": 144766,
+        "word": "女子高铁拒换座被打双方均已就医",
+        "onboard_time": 1694915914,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144516,
+        "num": 144516,
+        "word": "有一种亲情叫牛爷爷与胡图图",
+        "onboard_time": 1694916813,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "成毅前一秒深情下一秒幽默",
+        "onboard_time": 1694909253,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142742,
+        "num": 142742,
+        "word": "这只熊猫全球地标跑了个遍",
+        "onboard_time": 1694915314,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142031,
+        "num": 142031,
+        "word": "白猫直播间的主播是一只白猫",
+        "onboard_time": 1694873080,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141444,
+        "num": 141444,
+        "word": "天天小兄弟在异人之下团建",
+        "onboard_time": 1694916936,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127019,
+        "num": 127019,
+        "word": "韩庚王丽坤二搭新剧",
+        "onboard_time": 1694917233,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128430,
+        "num": 126452,
+        "word": "彭昱畅侯明昊徐浩17年后再合作",
+        "onboard_time": 1694915375,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124327,
+        "num": 124327,
+        "word": "货车故障民警送来饭菜暖哭司机",
+        "onboard_time": 1694917355,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中国家群体性崛起已成时代潮流#"
+    }
+  }
+}

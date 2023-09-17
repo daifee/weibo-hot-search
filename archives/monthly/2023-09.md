@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/17 09:34:28
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/17 10:23:03
 </p>
 </blockquote>
 <p>
@@ -2007,6 +2007,12 @@ iPhone信号太差或将解决（热度：1716894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%BB%E8%87%AA%E6%8B%8D%E7%A7%81%E6%88%BF%E8%A7%86%E9%A2%91%E5%8D%96%E9%92%B1%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+网红夫妻自拍私房视频卖钱被刑拘（热度：1627821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%E6%AF%8F%E5%85%8B980%E5%A4%9A%E5%8F%AF%E4%B9%B0%E4%B8%A4%E5%85%8B%E9%BB%84%E9%87%91%23" target="weibo">
 花西子眉笔每克980多可买两克黄金（热度：1626802）
 </a>
@@ -3021,6 +3027,12 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%95%E7%8C%B7%E5%90%9B%E4%B9%9F%E9%80%83%E4%B8%8D%E8%BF%87%E5%A5%B3%E5%84%BF%E5%A5%B4%23" target="weibo">
+原来何猷君也逃不过女儿奴（热度：1208151）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%92%E7%BB%9D%E5%85%AC%E5%BC%80%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23" target="weibo">
 交通局拒绝公开前局长孙女炫富调查结果（热度：1207045）
 </a>
@@ -3371,12 +3383,6 @@ Rose或将和霉霉合作（热度：1140695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2%E4%BA%BF%E5%A4%B4%E6%B5%B7%E5%8F%82%E6%BB%9E%E9%94%80%E5%85%BB%E6%AE%96%E6%88%B7%E5%AE%9E%E5%9C%A8%E6%B2%A1%E6%8B%9B%23" target="weibo">
 日本2亿头海参滞销养殖户实在没招（热度：1109283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%95%E7%8C%B7%E5%90%9B%E4%B9%9F%E9%80%83%E4%B8%8D%E8%BF%87%E5%A5%B3%E5%84%BF%E5%A5%B4%23" target="weibo">
-原来何猷君也逃不过女儿奴（热度：1108706）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ ive（热度：732428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23" target="weibo">
 法考（热度：727551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%85%A8%E9%83%A8%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23" target="weibo">
-北上广深全部认房不认贷（热度：727009）
 </a>
 </li>
 
