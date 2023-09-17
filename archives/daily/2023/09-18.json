@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1694982830100,
+  "endTime": 1694985218162,
   "band_list": [
     {
       "raw_hot": 1445249,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30351,
+      "num": 30351,
+      "word": "古法八段锦完整版",
+      "onboard_time": 1694974158,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25863,
       "num": 25863,
       "word": "一些无痛的学习大法",
@@ -505,14 +513,6 @@
       "onboard_time": 1694975596,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 24415,
-      "num": 26080,
-      "word": "古法八段锦完整版",
-      "onboard_time": 1694974158,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22763,
