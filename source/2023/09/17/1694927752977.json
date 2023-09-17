@@ -1,0 +1,410 @@
+{
+  "runTime": 1694927752977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1201991,
+        "num": 1201991,
+        "word": "蜂花改喷头",
+        "onboard_time": 1694919034,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1652870,
+        "num": 1170999,
+        "word": "各大卫视删除袁冰妍相关动态",
+        "onboard_time": 1694921734,
+        "rank": 1,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 75347,
+        "num": 1099296,
+        "word": "当杭州亚运图标小人遇上中国风",
+        "onboard_time": 1694921373,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3830982,
+        "num": 1097953,
+        "word": "44岁农妇疑被强奸8天后自杀身亡",
+        "onboard_time": 1694924135,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059164,
+        "num": 1059164,
+        "word": "李在明绝食18天说话困难",
+        "onboard_time": 1694925274,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 986873,
+        "num": 986873,
+        "word": "疑被强奸农妇遗书问推他算不算反抗",
+        "onboard_time": 1694925998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791783,
+        "num": 791783,
+        "word": "尔康才是去缅甸受害的第一人",
+        "onboard_time": 1694920056,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 764065,
+        "num": 764065,
+        "word": "赵丽颖带火蟳埔女文化",
+        "onboard_time": 1694924135,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 584606,
+        "num": 584606,
+        "word": "把面粉倒进滚烫的开水里",
+        "onboard_time": 1694924015,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 465900,
+        "num": 465900,
+        "word": "奚梦瑶被何猷君对孩子的回应腻到",
+        "onboard_time": 1694922458,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428501,
+        "num": 428501,
+        "word": "网红夫妻自拍私房视频卖钱被刑拘",
+        "onboard_time": 1694915073,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401486,
+        "num": 401486,
+        "word": "卢昱晓画的云之羽Q版画",
+        "onboard_time": 1694922513,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400836,
+        "num": 400836,
+        "word": "日军侵华罪行再添铁证",
+        "onboard_time": 1694922334,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271027,
+        "num": 385997,
+        "word": "侵华日军罪证被3D无死角展示",
+        "onboard_time": 1694927261,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268380,
+        "num": 383854,
+        "word": "渐冻症男孩躺着拿下全球数学大奖",
+        "onboard_time": 1694925034,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 383434,
+        "num": 383434,
+        "word": "迪丽热巴将录制花儿与少年5",
+        "onboard_time": 1694919755,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373149,
+        "num": 373149,
+        "word": "成龙一激动把魏翔叫成费翔",
+        "onboard_time": 1694923713,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370831,
+        "num": 370831,
+        "word": "我恋5都是高质量素人",
+        "onboard_time": 1694922034,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311811,
+        "num": 311811,
+        "word": "女子称9元买绝味鸭肠团起来没拳头大",
+        "onboard_time": 1694920593,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 293347,
+        "num": 293347,
+        "word": "庆余年第二季预约破600万",
+        "onboard_time": 1694922875,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1401000,
+        "num": 290884,
+        "word": "袁冰妍社交账号被禁言",
+        "onboard_time": 1694923774,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 960917,
+        "num": 288379,
+        "word": "可以让客人睡女儿房间吗",
+        "onboard_time": 1694924075,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421112,
+        "num": 284905,
+        "word": "她不做销冠没人能做销冠了",
+        "onboard_time": 1694921434,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 401595,
+        "num": 280324,
+        "word": "iPhone15可使用安卓C口配件",
+        "onboard_time": 1694922875,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 277396,
+        "num": 277396,
+        "word": "欧文终于来了",
+        "onboard_time": 1694926176,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271419,
+        "num": 271419,
+        "word": "谭爷爷收花叶姐弟无奈抠脑壳",
+        "onboard_time": 1694924858,
+        "rank": 25,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 233446,
+        "num": 233446,
+        "word": "潮汕生腌 潮汕人割舍不去的毒药",
+        "onboard_time": 1694926415,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227239,
+        "num": 227239,
+        "word": "法考",
+        "onboard_time": 1694921973,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221437,
+        "num": 221437,
+        "word": "韩庚片场再也不教跳舞了",
+        "onboard_time": 1694927375,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208011,
+        "num": 208011,
+        "word": "华为轮值董事长称我们不要抱有幻想",
+        "onboard_time": 1694919512,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226004,
+        "num": 207128,
+        "word": "海关截获两件禁止出境文物",
+        "onboard_time": 1694925516,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 204534,
+        "num": 204534,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1694927676,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199142,
+        "num": 199142,
+        "word": "新疆人这样吃早餐会馋死我",
+        "onboard_time": 1694925094,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189170,
+        "num": 189170,
+        "word": "开空调有股酸臭味的原因",
+        "onboard_time": 1694927676,
+        "rank": 33,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 186316,
+        "num": 186316,
+        "word": "女生用膝盖接散粉盒致髌骨脱位",
+        "onboard_time": 1694924259,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165049,
+        "num": 165049,
+        "word": "宫尚角真的把宫远徵养得很好",
+        "onboard_time": 1694915314,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163392,
+        "num": 163392,
+        "word": "结婚和离婚哪个更需要勇气",
+        "onboard_time": 1694907566,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 157007,
+        "num": 157007,
+        "word": "骄阳伴我大结局",
+        "onboard_time": 1694919694,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153507,
+        "num": 153507,
+        "word": "已有1482名涉诈嫌疑人移交我方",
+        "onboard_time": 1694921494,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 149037,
+        "num": 149037,
+        "word": "戴佩妮这次终于忍住了",
+        "onboard_time": 1694927317,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148239,
+        "num": 148239,
+        "word": "奥本海默成影史传记片票房冠军",
+        "onboard_time": 1694927076,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141385,
+        "num": 141385,
+        "word": "公司团建让我放弃周杰伦演唱会",
+        "onboard_time": 1694914893,
+        "rank": 41,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 141343,
+        "num": 141343,
+        "word": "云为衫亲手斩断情丝",
+        "onboard_time": 1694921673,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137167,
+        "num": 137167,
+        "word": "蜂花卖断货后帮没蹭上商战的国货宣传",
+        "onboard_time": 1694907385,
+        "rank": 43,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 136617,
+        "num": 136617,
+        "word": "精心协和标婷 维E乳",
+        "onboard_time": 1694919034,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 136181,
+        "num": 136181,
+        "word": "赵今麦新剧出场镜头",
+        "onboard_time": 1694922875,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133530,
+        "num": 133530,
+        "word": "张凌赫回应被说运气不好",
+        "onboard_time": 1694916092,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133200,
+        "num": 133200,
+        "word": "普通人学卢昱晓上官浅",
+        "onboard_time": 1694927735,
+        "rank": 47,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 127894,
+        "word": "白敬亭没把我当外人",
+        "onboard_time": 1694920356,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125828,
+        "num": 125828,
+        "word": "粉笔模考",
+        "onboard_time": 1694921255,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给东北大学全体师生回信#"
+    }
+  }
+}
