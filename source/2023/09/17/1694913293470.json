@@ -1,0 +1,410 @@
+{
+  "runTime": 1694913293470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697810,
+        "num": 1697810,
+        "word": "蜂花卖断货后帮没蹭上商战的国货宣传",
+        "onboard_time": 1694907385,
+        "rank": 0,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 889615,
+        "num": 889615,
+        "word": "不经意却很伤头发的行为",
+        "onboard_time": 1694910631,
+        "rank": 1,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 6036,
+        "num": 809682,
+        "word": "大国技能群英荟",
+        "onboard_time": 1694857237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796516,
+        "num": 796516,
+        "word": "陈乔恩和乔任梁父母一同扫墓",
+        "onboard_time": 1694908588,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 647637,
+        "num": 647637,
+        "word": "家长回应女儿乘电梯被陌生人取消楼层",
+        "onboard_time": 1694908529,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542684,
+        "num": 542684,
+        "word": "一瓶茅台可做2000多颗巧克力",
+        "onboard_time": 1694909612,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 533328,
+        "num": 533328,
+        "word": "高铁拒换座被打女子发声",
+        "onboard_time": 1694906362,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506727,
+        "num": 506727,
+        "word": "袁冰妍偷逃税罚款超430万",
+        "onboard_time": 1694868337,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 446368,
+        "num": 446368,
+        "word": "30岁也不过是12岁的大人",
+        "onboard_time": 1694909253,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417661,
+        "num": 417661,
+        "word": "央视网文娱评流量反噬后的反思",
+        "onboard_time": 1694908107,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 919179,
+        "num": 415124,
+        "word": "结婚和离婚哪个更需要勇气",
+        "onboard_time": 1694907566,
+        "rank": 10,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 888493,
+        "num": 402961,
+        "word": "原来何猷君也逃不过女儿奴",
+        "onboard_time": 1694910814,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169126,
+        "num": 396866,
+        "word": "新兵遇旅客晕倒跪地救回后悄悄离去",
+        "onboard_time": 1694912312,
+        "rank": 12,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 112966,
+        "num": 382683,
+        "word": "袁冰妍被约谈后仍整改不彻底",
+        "onboard_time": 1694860177,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 77951,
+        "num": 373115,
+        "word": "中国空降兵成立73周年",
+        "onboard_time": 1694908889,
+        "rank": 14,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 487457,
+        "num": 362724,
+        "word": "曾舜晞哭了",
+        "onboard_time": 1694911177,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358988,
+        "num": 358988,
+        "word": "袁成杰说想看到张杰喜得四胎热搜",
+        "onboard_time": 1694908408,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331332,
+        "num": 331332,
+        "word": "山东一地农民种冬枣30万亩年收入超30亿",
+        "onboard_time": 1694909670,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 288293,
+        "num": 288293,
+        "word": "何猷君这人没事就去蹦极",
+        "onboard_time": 1694907266,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283965,
+        "num": 283965,
+        "word": "断崖式的衰老是在几岁",
+        "onboard_time": 1694867076,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410309,
+        "num": 282468,
+        "word": "女子250万买飞机9年没到货",
+        "onboard_time": 1694907385,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294874,
+        "num": 281696,
+        "word": "Jennie首尔演唱会状态",
+        "onboard_time": 1694908828,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279935,
+        "num": 279935,
+        "word": "男子讨要彩礼未果将女方砍伤致死",
+        "onboard_time": 1694874820,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273709,
+        "num": 273709,
+        "word": "李一桐新剧又有严刑拷打戏",
+        "onboard_time": 1694911295,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260767,
+        "num": 260767,
+        "word": "0713吵架永远好笑",
+        "onboard_time": 1694908588,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260179,
+        "num": 260179,
+        "word": "白猫直播间的主播是一只白猫",
+        "onboard_time": 1694873080,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250621,
+        "num": 250621,
+        "word": "夏枯草煮鸡蛋",
+        "onboard_time": 1694908950,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 246493,
+        "num": 246493,
+        "word": "大熊猫看到妈妈的饭被香得惊呆了",
+        "onboard_time": 1694910091,
+        "rank": 27,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 228948,
+        "num": 228948,
+        "word": "成毅前一秒深情下一秒幽默",
+        "onboard_time": 1694909253,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218370,
+        "num": 218370,
+        "word": "郑容和说爱豆用隔空投送交换电话号码",
+        "onboard_time": 1694911891,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253601,
+        "num": 218121,
+        "word": "钱学森和蒋英见面后一个多月闪婚",
+        "onboard_time": 1694911953,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217600,
+        "num": 217600,
+        "word": "熊猫反客为主吐舌头逗游客",
+        "onboard_time": 1694906543,
+        "rank": 31,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 202798,
+        "num": 202798,
+        "word": "边上班边备考不会导致你必定失败",
+        "onboard_time": 1694908226,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188959,
+        "num": 188959,
+        "word": "江苏9年级化学课本出现高猛酸钾",
+        "onboard_time": 1694881290,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 187816,
+        "num": 187816,
+        "word": "原来性骚扰如此简单",
+        "onboard_time": 1694874942,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187164,
+        "num": 187164,
+        "word": "C罗",
+        "onboard_time": 1694907505,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185819,
+        "num": 185819,
+        "word": "吉克隽逸造型",
+        "onboard_time": 1694912613,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185037,
+        "num": 185037,
+        "word": "才知道蜜雪冰城曾经是个餐馆",
+        "onboard_time": 1694873620,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180424,
+        "num": 180424,
+        "word": "李莎旻子妆造",
+        "onboard_time": 1694910573,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178906,
+        "num": 178906,
+        "word": "郑恺亲吻鼓励苗苗",
+        "onboard_time": 1694876380,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165593,
+        "num": 165593,
+        "word": "如何用50天瘦16斤",
+        "onboard_time": 1694879916,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154759,
+        "num": 154759,
+        "word": "考研女生未吃早饭晕倒众人扶起送零食",
+        "onboard_time": 1694876439,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153408,
+        "num": 153408,
+        "word": "12306车票候补的正确方法",
+        "onboard_time": 1694877635,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 144092,
+        "num": 144092,
+        "word": "睡醒后发现我把上衣穿在了腿上",
+        "onboard_time": 1694906724,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142574,
+        "num": 142574,
+        "word": "成毅好萌啊",
+        "onboard_time": 1694911953,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140850,
+        "num": 140850,
+        "word": "华晨宇说自己是一个受争议的歌手",
+        "onboard_time": 1694906785,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136066,
+        "num": 136066,
+        "word": "不要经常用手挖鼻孔",
+        "onboard_time": 1694874163,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131659,
+        "num": 131659,
+        "word": "见过最瘦长的亚运会吉祥物",
+        "onboard_time": 1694909730,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125699,
+        "num": 125699,
+        "word": "宠物减肥瘦的是主人",
+        "onboard_time": 1694912971,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 116690,
+        "num": 116690,
+        "word": "吴青峰如果声音不记得舞台",
+        "onboard_time": 1694911713,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给东北大学全体师生回信#"
+    }
+  }
+}
