@@ -1,0 +1,410 @@
+{
+  "runTime": 1694936021100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2210056,
+        "num": 2210056,
+        "word": "体检报告上写智商偏低的医生已被停职",
+        "onboard_time": 1694931574,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061359,
+        "num": 1061359,
+        "word": "巨型棉签洗头 五天不油",
+        "onboard_time": 1694932536,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12100,
+        "num": 875666,
+        "word": "我国科学家研发出新型稀土开采技术",
+        "onboard_time": 1694921074,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782295,
+        "num": 782295,
+        "word": "为什么蜜雪冰城拍不出ins感",
+        "onboard_time": 1694929413,
+        "rank": 3,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 623955,
+        "num": 623955,
+        "word": "男朋友在车里装了一个化妆台",
+        "onboard_time": 1694931214,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 512710,
+        "num": 512710,
+        "word": "视觉中国拍的Angelababy",
+        "onboard_time": 1694934393,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 506533,
+        "num": 506533,
+        "word": "尔康才是去缅甸受害的第一人",
+        "onboard_time": 1694920056,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381088,
+        "num": 381088,
+        "word": "张凌赫自己接档自己",
+        "onboard_time": 1694929655,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368540,
+        "num": 368540,
+        "word": "动画逃离大英博物馆立项",
+        "onboard_time": 1694934095,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 329435,
+        "num": 329435,
+        "word": "赵丽颖带火蟳埔女文化",
+        "onboard_time": 1694924135,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2244614,
+        "num": 328867,
+        "word": "44岁农妇疑被强奸8天后自杀身亡",
+        "onboard_time": 1694924135,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699305,
+        "num": 325953,
+        "word": "昆凌摊煎饼",
+        "onboard_time": 1694930256,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345639,
+        "num": 323523,
+        "word": "蜂花你家纸箱被偷了",
+        "onboard_time": 1694935176,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 198710,
+        "num": 321834,
+        "word": "海关截获两件禁止出境文物",
+        "onboard_time": 1694925516,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 149068,
+        "num": 318669,
+        "word": "侵华日军罪证被3D无死角展示",
+        "onboard_time": 1694927261,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318476,
+        "num": 318476,
+        "word": "大姨妈准时的美",
+        "onboard_time": 1694929894,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273627,
+        "num": 273627,
+        "word": "普通人学卢昱晓上官浅",
+        "onboard_time": 1694927735,
+        "rank": 16,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 272034,
+        "num": 272034,
+        "word": "张婧仪涂口红眼神",
+        "onboard_time": 1694931872,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483970,
+        "num": 271896,
+        "word": "各大卫视删除袁冰妍相关动态",
+        "onboard_time": 1694921734,
+        "rank": 18,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 44296,
+        "num": 269165,
+        "word": "当杭州亚运图标小人遇上中国风",
+        "onboard_time": 1694921373,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463309,
+        "num": 266905,
+        "word": "女子戴隐形30年双眼角膜长满血管",
+        "onboard_time": 1694930797,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423177,
+        "num": 264987,
+        "word": "可以让客人睡女儿房间吗",
+        "onboard_time": 1694924075,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369761,
+        "num": 263973,
+        "word": "疑被强奸农妇遗书问推他算不算反抗",
+        "onboard_time": 1694925998,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487111,
+        "num": 262536,
+        "word": "袁冰妍社交账号被禁言",
+        "onboard_time": 1694923774,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 198797,
+        "num": 260251,
+        "word": "美军方称中国造舰产能是美国的232倍",
+        "onboard_time": 1694930435,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 259680,
+        "num": 259680,
+        "word": "她不做销冠没人能做销冠了",
+        "onboard_time": 1694921434,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 257966,
+        "num": 257966,
+        "word": "郑恺啥也没带就带了媳妇",
+        "onboard_time": 1694928158,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243345,
+        "num": 243345,
+        "word": "是不是全国各地都在咽喉炎",
+        "onboard_time": 1694935474,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242651,
+        "num": 242651,
+        "word": "魏大勋片场让李一桐V他50",
+        "onboard_time": 1694934514,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230716,
+        "num": 230716,
+        "word": "时代峰峻二代的遗憾大概就是",
+        "onboard_time": 1694929533,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226201,
+        "num": 226201,
+        "word": "想见你或将拍古装剧",
+        "onboard_time": 1694934393,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222378,
+        "num": 222378,
+        "word": "田曦薇也在看我有一个朋友",
+        "onboard_time": 1694935955,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218399,
+        "num": 218399,
+        "word": "iPhone15可使用安卓C口配件",
+        "onboard_time": 1694922875,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214839,
+        "num": 214839,
+        "word": "作为普通人最有可能过的两种日子",
+        "onboard_time": 1694934694,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206433,
+        "num": 206433,
+        "word": "王栎鑫俞灏明早上吵架晚上和好",
+        "onboard_time": 1694933795,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195993,
+        "num": 195993,
+        "word": "奚梦瑶被何猷君对孩子的回应腻到",
+        "onboard_time": 1694922458,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193809,
+        "num": 193809,
+        "word": "李在明绝食18天说话困难",
+        "onboard_time": 1694925274,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 189648,
+        "num": 189648,
+        "word": "这只萨摩耶真的没有边界感",
+        "onboard_time": 1694934456,
+        "rank": 37,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 175413,
+        "num": 175413,
+        "word": "朱珠 想表达不一样的女性情感世界",
+        "onboard_time": 1694934155,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170533,
+        "num": 170533,
+        "word": "戴佩妮这次终于忍住了",
+        "onboard_time": 1694927317,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170310,
+        "num": 170310,
+        "word": "迪丽热巴将录制花儿与少年5",
+        "onboard_time": 1694919755,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169396,
+        "num": 169396,
+        "word": "异人之下张之维一人一下",
+        "onboard_time": 1694935055,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162439,
+        "num": 162439,
+        "word": "蜂花改喷头",
+        "onboard_time": 1694919034,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156815,
+        "num": 156815,
+        "word": "孙阳 以后三选一的时候别选我",
+        "onboard_time": 1694932414,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156353,
+        "num": 156353,
+        "word": "爱上学数学原来只需要45分钟",
+        "onboard_time": 1694931815,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 144522,
+        "word": "封神",
+        "onboard_time": 1694929957,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141993,
+        "num": 141993,
+        "word": "开空调有股酸臭味的原因",
+        "onboard_time": 1694927676,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 127882,
+        "num": 127882,
+        "word": "欧文终于来了",
+        "onboard_time": 1694926176,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120996,
+        "num": 120996,
+        "word": "把面粉倒进滚烫的开水里",
+        "onboard_time": 1694924015,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113407,
+        "num": 113407,
+        "word": "华为轮值董事长称我们不要抱有幻想",
+        "onboard_time": 1694919512,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#改善科技创新生态激发创新创造活力#"
+    }
+  }
+}

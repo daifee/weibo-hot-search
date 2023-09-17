@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694934864972,
+  "endTime": 1694936021100,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -19,6 +19,14 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 2210056,
+      "num": 2210056,
+      "word": "体检报告上写智商偏低的医生已被停职",
+      "onboard_time": 1694931574,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2167744,
       "num": 319883,
       "word": "袁冰妍社交账号被禁言",
@@ -32,14 +40,6 @@
       "word": "网红夫妻自拍私房视频卖钱被刑拘",
       "onboard_time": 1694915073,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1946261,
-      "num": 1946261,
-      "word": "体检报告上写智商偏低的医生已被停职",
-      "onboard_time": 1694931574,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 1061359,
+      "num": 1061359,
+      "word": "巨型棉签洗头 五天不油",
+      "onboard_time": 1694932536,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1059164,
       "num": 1059164,
       "word": "李在明绝食18天说话困难",
@@ -153,14 +161,6 @@
       "onboard_time": 1694907566,
       "rank": 10,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 853671,
-      "num": 853671,
-      "word": "巨型棉签洗头 五天不油",
-      "onboard_time": 1694932536,
-      "rank": 3,
-      "category": "美妆"
     },
     {
       "raw_hot": 807276,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 623955,
+      "num": 623955,
+      "word": "男朋友在车里装了一个化妆台",
+      "onboard_time": 1694931214,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 614348,
       "num": 614348,
       "word": "普通人学卢昱晓上官浅",
@@ -347,14 +355,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 540241,
-      "num": 540241,
-      "word": "男朋友在车里装了一个化妆台",
-      "onboard_time": 1694931214,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 536720,
       "num": 536720,
       "word": "郑恺啥也没带就带了媳妇",
@@ -400,6 +400,14 @@
       "word": "大姨妈准时的美",
       "onboard_time": 1694929894,
       "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 512710,
+      "num": 512710,
+      "word": "视觉中国拍的Angelababy",
+      "onboard_time": 1694934393,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -451,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 463309,
+      "num": 318579,
+      "word": "女子戴隐形30年双眼角膜长满血管",
+      "onboard_time": 1694930797,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453047,
       "num": 453047,
       "word": "江苏9年级化学课本出现高猛酸钾",
@@ -497,14 +513,6 @@
       "onboard_time": 1694922034,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435046,
-      "num": 318579,
-      "word": "女子戴隐形30年双眼角膜长满血管",
-      "onboard_time": 1694930797,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431777,
@@ -611,6 +619,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 368540,
+      "num": 368540,
+      "word": "动画逃离大英博物馆立项",
+      "onboard_time": 1694934095,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 366763,
       "num": 320407,
       "word": "张小斐拖地风衣",
@@ -649,6 +665,14 @@
       "onboard_time": 1694872419,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345639,
+      "num": 323523,
+      "word": "蜂花你家纸箱被偷了",
+      "onboard_time": 1694935176,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 340938,
@@ -915,6 +939,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243345,
+      "num": 243345,
+      "word": "是不是全国各地都在咽喉炎",
+      "onboard_time": 1694935474,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242651,
+      "num": 242651,
+      "word": "魏大勋片场让李一桐V他50",
+      "onboard_time": 1694934514,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241294,
       "num": 241294,
       "word": "韩庚片场再也不教跳舞了",
@@ -929,14 +969,6 @@
       "onboard_time": 1694920773,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239936,
-      "num": 239936,
-      "word": "视觉中国拍的Angelababy",
-      "onboard_time": 1694934393,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 239486,
@@ -1003,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226201,
+      "num": 226201,
+      "word": "想见你或将拍古装剧",
+      "onboard_time": 1694934393,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225315,
       "num": 225315,
       "word": "莲花楼",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1694880933,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222378,
+      "num": 222378,
+      "word": "田曦薇也在看我有一个朋友",
+      "onboard_time": 1694935955,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 219253,
@@ -1091,12 +1139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208668,
-      "num": 208668,
-      "word": "动画逃离大英博物馆立项",
-      "onboard_time": 1694934095,
-      "rank": 27,
-      "category": "动漫"
+      "raw_hot": 214839,
+      "num": 214839,
+      "word": "作为普通人最有可能过的两种日子",
+      "onboard_time": 1694934694,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 206433,
+      "num": 206433,
+      "word": "王栎鑫俞灏明早上吵架晚上和好",
+      "onboard_time": 1694933795,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 206106,
@@ -1121,14 +1177,6 @@
       "onboard_time": 1694921255,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203120,
-      "num": 203120,
-      "word": "想见你或将拍古装剧",
-      "onboard_time": 1694934393,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 202798,
@@ -1243,20 +1291,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 190806,
-      "num": 190806,
-      "word": "王栎鑫俞灏明早上吵架晚上和好",
-      "onboard_time": 1694933795,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189738,
       "num": 99476,
       "word": "尤长靖演唱会连唱三首李泉经典",
       "onboard_time": 1694906846,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189648,
+      "num": 189648,
+      "word": "这只萨摩耶真的没有边界感",
+      "onboard_time": 1694934456,
+      "rank": 40,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 187164,
@@ -1315,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169396,
+      "num": 169396,
+      "word": "异人之下张之维一人一下",
+      "onboard_time": 1694935055,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169126,
       "num": 405628,
       "word": "新兵遇旅客晕倒跪地救回后悄悄离去",
@@ -1344,14 +1400,6 @@
       "word": "云为衫的春夏秋冬",
       "onboard_time": 1694916813,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161541,
-      "num": 161541,
-      "word": "魏大勋片场让李一桐V他50",
-      "onboard_time": 1694934514,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1467,14 +1515,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 143226,
-      "num": 143226,
-      "word": "这只萨摩耶真的没有边界感",
-      "onboard_time": 1694934456,
-      "rank": 40,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 142742,
       "num": 142742,
       "word": "这只熊猫全球地标跑了个遍",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1694870377,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140180,
-      "num": 140180,
-      "word": "作为普通人最有可能过的两种日子",
-      "onboard_time": 1694934694,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 132968,
@@ -1839,6 +1871,14 @@
       "num": 810259,
       "word": "大国技能群英荟",
       "onboard_time": 1694857237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12100,
+      "num": 875666,
+      "word": "我国科学家研发出新型稀土开采技术",
+      "onboard_time": 1694921074,
       "rank": 2,
       "category": "社会新闻"
     }
