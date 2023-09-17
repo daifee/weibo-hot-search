@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694992548210,
+  "endTime": 1694993628761,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -81,6 +81,14 @@
       "onboard_time": 1694960019,
       "rank": 10,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 1884141,
+      "num": 1884141,
+      "word": "918",
+      "onboard_time": 1694992225,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1876325,
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1141321,
+      "num": 884824,
+      "word": "Lisa演唱会哭了",
+      "onboard_time": 1694992408,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1130597,
       "num": 1130597,
       "word": "夫妻偷渡到缅北后因业绩太差被打",
@@ -235,6 +251,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1094795,
+      "num": 837773,
+      "word": "陈坤 坦然接受生命中的一切",
+      "onboard_time": 1694966973,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1072856,
       "num": 1072856,
       "word": "为什么蜜雪冰城拍不出ins感",
@@ -249,14 +273,6 @@
       "onboard_time": 1694932536,
       "rank": 3,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1059862,
-      "num": 558147,
-      "word": "陈坤 坦然接受生命中的一切",
-      "onboard_time": 1694966973,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 1059164,
@@ -291,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 961828,
+      "num": 812052,
+      "word": "新郎开迈巴赫扮猪八戒接新娘",
+      "onboard_time": 1694967870,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960917,
       "num": 334604,
       "word": "可以让客人睡女儿房间吗",
@@ -321,14 +345,6 @@
       "onboard_time": 1694907566,
       "rank": 10,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 892700,
-      "num": 533363,
-      "word": "新郎开迈巴赫扮猪八戒接新娘",
-      "onboard_time": 1694967870,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 890932,
@@ -475,6 +491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 716384,
+      "num": 716384,
+      "word": "医生一眼认出9旬患者相拥落泪",
+      "onboard_time": 1694991625,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713475,
       "num": 713475,
       "word": "BLACKPINK世巡结束了",
@@ -609,14 +633,6 @@
       "onboard_time": 1694927735,
       "rank": 47,
       "category": "美妆,作品衍生"
-    },
-    {
-      "raw_hot": 614152,
-      "num": 614152,
-      "word": "918",
-      "onboard_time": 1694992225,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 612828,
@@ -1763,6 +1779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253053,
+      "num": 253053,
+      "word": "尤长靖演唱会嘉宾是彭昱畅",
+      "onboard_time": 1694971701,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253051,
       "num": 253051,
       "word": "夏枯草煮鸡蛋",
@@ -1795,12 +1819,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 245287,
-      "num": 245287,
-      "word": "医生一眼认出9旬患者相拥落泪",
-      "onboard_time": 1694991625,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 245369,
+      "num": 245369,
+      "word": "辫子客服事件会影响你买苹果产品吗",
+      "onboard_time": 1694976916,
+      "rank": 41,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 244570,
@@ -1817,14 +1841,6 @@
       "onboard_time": 1694961820,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242276,
-      "num": 242276,
-      "word": "尤长靖演唱会嘉宾是彭昱畅",
-      "onboard_time": 1694971701,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 241294,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1694886320,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229757,
+      "num": 192604,
+      "word": "今日中国再不是1931年的中国",
+      "onboard_time": 1694992648,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 228948,
@@ -2073,14 +2097,6 @@
       "onboard_time": 1694906543,
       "rank": 24,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 217418,
-      "num": 217418,
-      "word": "辫子客服事件会影响你买苹果产品吗",
-      "onboard_time": 1694976916,
-      "rank": 41,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 216604,
@@ -2395,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187822,
+      "num": 269676,
+      "word": "勿忘九一八",
+      "onboard_time": 1694993009,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187164,
       "num": 187164,
       "word": "C罗",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1694944653,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175453,
+      "num": 175453,
+      "word": "德约科维奇退出中国赛季",
+      "onboard_time": 1694993371,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 175259,
@@ -2819,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138943,
+      "num": 138943,
+      "word": "BLACKPINK说以后会以更好的样子和大家见面",
+      "onboard_time": 1694992891,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138875,
       "num": 138875,
       "word": "异人之下",
@@ -2963,20 +3003,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 124428,
+      "num": 124428,
+      "word": "镇上出了第一个女兵乡亲们纳鞋垫相送",
+      "onboard_time": 1694992949,
+      "rank": 40,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 121368,
       "num": 121368,
       "word": "黄景瑜片场攀爬百米云梯",
       "onboard_time": 1694946993,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118694,
-      "num": 118694,
-      "word": "Lisa演唱会哭了",
-      "onboard_time": 1694992408,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 118194,
@@ -3033,6 +3073,22 @@
       "onboard_time": 1694884283,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99424,
+      "num": 99424,
+      "word": "云之羽",
+      "onboard_time": 1694993612,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98277,
+      "num": 98277,
+      "word": "薛之谦反应慢半拍",
+      "onboard_time": 1694993070,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 95229,
@@ -3164,7 +3220,7 @@
     },
     {
       "raw_hot": 58015,
-      "num": 904408,
+      "num": 911209,
       "word": "我国科学家研发出新型稀土开采技术",
       "onboard_time": 1694921074,
       "rank": 2,

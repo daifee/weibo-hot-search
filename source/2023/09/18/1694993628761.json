@@ -1,0 +1,410 @@
+{
+  "runTime": 1694993628761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1884141,
+        "num": 1884141,
+        "word": "918",
+        "onboard_time": 1694992225,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922689,
+        "num": 922689,
+        "word": "夫妻偷渡到缅北后因业绩太差被打",
+        "onboard_time": 1694966132,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13620,
+        "num": 911209,
+        "word": "我国科学家研发出新型稀土开采技术",
+        "onboard_time": 1694921074,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141321,
+        "num": 884824,
+        "word": "Lisa演唱会哭了",
+        "onboard_time": 1694992408,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1094795,
+        "num": 837773,
+        "word": "陈坤 坦然接受生命中的一切",
+        "onboard_time": 1694966973,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961828,
+        "num": 812052,
+        "word": "新郎开迈巴赫扮猪八戒接新娘",
+        "onboard_time": 1694967870,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782390,
+        "num": 782390,
+        "word": "黑龙江发生重大刑案",
+        "onboard_time": 1694951733,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716384,
+        "num": 716384,
+        "word": "医生一眼认出9旬患者相拥落泪",
+        "onboard_time": 1694991625,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372612,
+        "num": 372612,
+        "word": "为什么会出现集体咽喉炎",
+        "onboard_time": 1694944054,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301642,
+        "num": 301642,
+        "word": "金晨打水仗被迫卸妆了",
+        "onboard_time": 1694955758,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 911755,
+        "num": 299669,
+        "word": "李兰迪这个发型好适合方圆脸女生",
+        "onboard_time": 1694960019,
+        "rank": 10,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 313649,
+        "num": 284528,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1694964216,
+        "rank": 11,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 228820,
+        "num": 278214,
+        "word": "将19310918牢刻在心",
+        "onboard_time": 1694967033,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187822,
+        "num": 269676,
+        "word": "勿忘九一八",
+        "onboard_time": 1694993009,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181694,
+        "num": 258964,
+        "word": "柴犬误食70粒布洛芬主人花5千救回",
+        "onboard_time": 1694954918,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253053,
+        "num": 253053,
+        "word": "尤长靖演唱会嘉宾是彭昱畅",
+        "onboard_time": 1694971701,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246375,
+        "num": 246375,
+        "word": "原来高铁站台是禁止吸烟的",
+        "onboard_time": 1694976015,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 245369,
+        "num": 245369,
+        "word": "辫子客服事件会影响你买苹果产品吗",
+        "onboard_time": 1694976916,
+        "rank": 17,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 224033,
+        "num": 224033,
+        "word": "中国经济崩溃论注定再度崩溃",
+        "onboard_time": 1694962838,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202661,
+        "num": 202661,
+        "word": "胡锡进 我们正迎来火爆的十一黄金周",
+        "onboard_time": 1694973801,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391367,
+        "num": 200301,
+        "word": "原来一万块有这么厚",
+        "onboard_time": 1694959836,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 388391,
+        "num": 198443,
+        "word": "真正的富二代留学生的生活",
+        "onboard_time": 1694962718,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243073,
+        "num": 194405,
+        "word": "原来瘦肚子也可以很轻松",
+        "onboard_time": 1694961160,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 229757,
+        "num": 192604,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1694992648,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 227840,
+        "num": 191176,
+        "word": "九一八事变在这里爆发",
+        "onboard_time": 1694967094,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188716,
+        "num": 188716,
+        "word": "情侣看演唱会临检票才发现买成前一天",
+        "onboard_time": 1694966732,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180061,
+        "num": 180061,
+        "word": "女子咳嗽半月气管发现8cm蚂蟥",
+        "onboard_time": 1694960800,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178884,
+        "num": 178884,
+        "word": "家政阿姨挪开沙发的瞬间我呆了",
+        "onboard_time": 1694954977,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175453,
+        "num": 175453,
+        "word": "德约科维奇退出中国赛季",
+        "onboard_time": 1694993371,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162350,
+        "num": 162350,
+        "word": "癌症的邀请切勿使用这些",
+        "onboard_time": 1694963261,
+        "rank": 29,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 156237,
+        "num": 156237,
+        "word": "让肖战瞳孔地震的冷知识",
+        "onboard_time": 1694957080,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155111,
+        "num": 155111,
+        "word": "为什么只有早上卖油条",
+        "onboard_time": 1694958639,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154081,
+        "num": 154081,
+        "word": "白桃星运十二星座一周运势",
+        "onboard_time": 1694964216,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 138943,
+        "num": 138943,
+        "word": "BLACKPINK说以后会以更好的样子和大家见面",
+        "onboard_time": 1694992891,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137173,
+        "num": 137173,
+        "word": "赵丽颖直播",
+        "onboard_time": 1694955578,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135012,
+        "num": 135012,
+        "word": "印度新生儿被活埋伸手破土求救",
+        "onboard_time": 1694958458,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130980,
+        "num": 130980,
+        "word": "卢昱晓早期发疯文学",
+        "onboard_time": 1694950592,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125780,
+        "num": 125780,
+        "word": "夭璟 带我走",
+        "onboard_time": 1694950111,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125682,
+        "num": 125682,
+        "word": "男子欲将女友卖缅甸迷路求助警察暴露",
+        "onboard_time": 1694952937,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125037,
+        "num": 125037,
+        "word": "男子疑嫌楼上吵当2孩子面杀其父母",
+        "onboard_time": 1694944953,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124428,
+        "num": 124428,
+        "word": "镇上出了第一个女兵乡亲们纳鞋垫相送",
+        "onboard_time": 1694992949,
+        "rank": 40,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 109986,
+        "num": 109986,
+        "word": "花儿与少年5",
+        "onboard_time": 1694946573,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109984,
+        "num": 109984,
+        "word": "你丢掉的小狗我们养得很好",
+        "onboard_time": 1694963678,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108444,
+        "num": 108444,
+        "word": "原来飞机上有免费的卫生巾",
+        "onboard_time": 1694956961,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 107443,
+        "num": 107443,
+        "word": "开灯后电影院的椅子有多脏",
+        "onboard_time": 1694955638,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 100528,
+        "num": 100528,
+        "word": "租房千万不要只图便宜",
+        "onboard_time": 1694962838,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99931,
+        "num": 99931,
+        "word": "双色球",
+        "onboard_time": 1694986453,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99424,
+        "num": 99424,
+        "word": "云之羽",
+        "onboard_time": 1694993612,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98560,
+        "num": 98560,
+        "word": "河南多地发现隐翅虫",
+        "onboard_time": 1694957200,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98277,
+        "num": 98277,
+        "word": "薛之谦反应慢半拍",
+        "onboard_time": 1694993070,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#改善科技创新生态激发创新创造活力#"
+    }
+  }
+}
