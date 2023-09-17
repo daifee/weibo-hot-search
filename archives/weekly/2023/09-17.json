@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694981780873,
+  "endTime": 1694982830100,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -3131,20 +3131,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42045,
+      "num": 37531,
+      "word": "辫子客服事件会影响你买苹果产品吗",
+      "onboard_time": 1694976916,
+      "rank": 41,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 41529,
       "num": 1548817,
       "word": "成功发射遥感三十九号卫星",
       "onboard_time": 1694939617,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39247,
-      "num": 32478,
-      "word": "辫子客服事件会影响你买苹果产品吗",
-      "onboard_time": 1694976916,
-      "rank": 41,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 38722,
