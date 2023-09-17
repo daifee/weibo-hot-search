@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1694967591531,
+  "endTime": 1694968476825,
   "band_list": [
     {
       "raw_hot": 1445249,
@@ -17,6 +17,22 @@
       "onboard_time": 1694960019,
       "rank": 10,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 882664,
+      "num": 882664,
+      "word": "夫妻偷渡到缅北后因业绩太差被打",
+      "onboard_time": 1694966132,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847205,
+      "num": 492835,
+      "word": "陈坤 坦然接受生命中的一切",
+      "onboard_time": 1694966973,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 791413,
@@ -59,14 +75,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 522207,
-      "num": 316657,
-      "word": "夫妻偷渡到缅北后因业绩太差被打",
-      "onboard_time": 1694966132,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 520677,
       "num": 315296,
       "word": "卢昱晓早期发疯文学",
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 481098,
-      "num": 313629,
-      "word": "陈坤 坦然接受生命中的一切",
-      "onboard_time": 1694966973,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 456259,
       "num": 456259,
       "word": "重庆前首富住进养老院",
@@ -129,6 +129,14 @@
       "onboard_time": 1694964216,
       "rank": 19,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 379110,
+      "num": 191568,
+      "word": "情侣看演唱会临检票才发现买成前一天",
+      "onboard_time": 1694966732,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370329,
@@ -163,20 +171,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 289608,
+      "num": 316562,
+      "word": "将19310918牢刻在心",
+      "onboard_time": 1694967033,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285858,
       "num": 285858,
       "word": "租房千万不要只图便宜",
       "onboard_time": 1694962838,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 280551,
-      "num": 191568,
-      "word": "情侣看演唱会临检票才发现买成前一天",
-      "onboard_time": 1694966732,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238416,
@@ -209,6 +217,14 @@
       "onboard_time": 1694950111,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212002,
+      "num": 212002,
+      "word": "九一八事变在这里爆发",
+      "onboard_time": 1694967094,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209045,
@@ -259,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153991,
-      "num": 153991,
+      "raw_hot": 158078,
+      "num": 158078,
       "word": "沈腾马丽小学生打架",
       "onboard_time": 1694967570,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154717,
+      "num": 154717,
+      "word": "家政阿姨挪开沙发的瞬间我呆了",
+      "onboard_time": 1694954977,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 152992,
@@ -281,14 +305,6 @@
       "onboard_time": 1694958639,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 151954,
-      "num": 151954,
-      "word": "九一八事变在这里爆发",
-      "onboard_time": 1694967094,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149912,
@@ -315,12 +331,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132547,
+      "num": 132547,
+      "word": "戴佩妮刘宇宁合唱的野蔷薇",
+      "onboard_time": 1694967690,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130492,
       "num": 130492,
       "word": "汪苏泷说芋圆cp还好着呢",
       "onboard_time": 1694962302,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129402,
+      "num": 129402,
+      "word": "新郎开迈巴赫扮猪八戒接新娘",
+      "onboard_time": 1694967870,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127174,
@@ -347,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124756,
-      "num": 124756,
-      "word": "家政阿姨挪开沙发的瞬间我呆了",
-      "onboard_time": 1694954977,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124645,
       "num": 124645,
       "word": "赵昭仪 花儿与少年",
@@ -369,14 +393,6 @@
       "onboard_time": 1694960260,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121647,
-      "num": 316562,
-      "word": "将19310918牢刻在心",
-      "onboard_time": 1694967033,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119479,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 13755,
-      "num": 545855,
+      "num": 566531,
       "word": "我国科学家研发出新型稀土开采技术",
       "onboard_time": 1694921074,
       "rank": 2,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#改善科技创新生态激发创新创造活力#"
+    },
+    {
+      "word": "#杭州亚运观赛日历#"
     }
   ]
 }
