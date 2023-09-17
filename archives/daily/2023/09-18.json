@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1694974772989,
+  "endTime": 1694975638718,
   "band_list": [
     {
       "raw_hot": 1445249,
@@ -459,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30590,
+      "num": 38935,
+      "word": "莲花楼小分队版天下",
+      "onboard_time": 1694973200,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29280,
       "num": 45994,
       "word": "胡锡进 我们正迎来火爆的十一黄金周",
       "onboard_time": 1694973801,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25097,
+      "num": 38877,
+      "word": "总要走一趟孤山路吧",
+      "onboard_time": 1694975596,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 13755,
