@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1694986445802,
+  "endTime": 1694988893424,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -43651,11 +43651,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57003,
+      "num": 57003,
+      "word": "辫子客服事件会影响你买苹果产品吗",
+      "onboard_time": 1694976916,
+      "rank": 41,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 56889,
       "num": 538774,
       "word": "西迁老教授成为大体老师奉献终生",
       "onboard_time": 1694084496,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56614,
+      "num": 56614,
+      "word": "胡锡进 我们正迎来火爆的十一黄金周",
+      "onboard_time": 1694973801,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -43929,6 +43945,14 @@
       "onboard_time": 1694781815,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49481,
+      "num": 49481,
+      "word": "双色球",
+      "onboard_time": 1694986453,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 49003,
@@ -44211,14 +44235,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 42045,
-      "num": 40446,
-      "word": "辫子客服事件会影响你买苹果产品吗",
-      "onboard_time": 1694976916,
-      "rank": 41,
-      "category": "社会新闻,数码"
-    },
-    {
       "raw_hot": 41989,
       "num": 41989,
       "word": "骄阳伴我烟花名场面",
@@ -44352,14 +44368,6 @@
       "word": "抗洪一线公安勇士",
       "onboard_time": 1694088095,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38722,
-      "num": 45994,
-      "word": "胡锡进 我们正迎来火爆的十一黄金周",
-      "onboard_time": 1694973801,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -44779,6 +44787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28771,
+      "num": 36102,
+      "word": "一些无痛的学习大法",
+      "onboard_time": 1694974637,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 28758,
       "num": 36100,
       "word": "从广州亚运到杭州亚运",
@@ -44929,14 +44945,6 @@
       "onboard_time": 1694694457,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 25863,
-      "num": 25863,
-      "word": "一些无痛的学习大法",
-      "onboard_time": 1694974637,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 25583,

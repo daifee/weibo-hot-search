@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 05:34:05
+本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 06:14:53
 </p>
 </blockquote>
 <p>
@@ -351,20 +351,26 @@ BLACKPINK世巡结束了（热度：66436）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E4%BA%8B%E4%BB%B6%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B9%B0%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%90%97%23" target="weibo">
+辫子客服事件会影响你买苹果产品吗（热度：57003）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%88%91%E4%BB%AC%E6%AD%A3%E8%BF%8E%E6%9D%A5%E7%81%AB%E7%88%86%E7%9A%84%E5%8D%81%E4%B8%80%E9%BB%84%E9%87%91%E5%91%A8%23" target="weibo">
+胡锡进 我们正迎来火爆的十一黄金周（热度：56614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%BC%97%E9%A1%BFvs%E9%98%BF%E6%A3%AE%E7%BA%B3%23" target="weibo">
 埃弗顿vs阿森纳（热度：55681）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E4%BA%8B%E4%BB%B6%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B9%B0%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%90%97%23" target="weibo">
-辫子客服事件会影响你买苹果产品吗（热度：42045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%88%91%E4%BB%AC%E6%AD%A3%E8%BF%8E%E6%9D%A5%E7%81%AB%E7%88%86%E7%9A%84%E5%8D%81%E4%B8%80%E9%BB%84%E9%87%91%E5%91%A8%23" target="weibo">
-胡锡进 我们正迎来火爆的十一黄金周（热度：38722）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%89%B2%E7%90%83%23" target="weibo">
+双色球（热度：49481）
 </a>
 </li>
 
@@ -388,7 +394,7 @@ BLACKPINK世巡结束了（热度：66436）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%9B%E6%97%A0%E7%97%9B%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%A4%A7%E6%B3%95%23" target="weibo">
-一些无痛的学习大法（热度：25863）
+一些无痛的学习大法（热度：28771）
 </a>
 </li>
 
