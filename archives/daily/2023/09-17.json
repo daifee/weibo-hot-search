@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694942100272,
+  "endTime": 1694943241573,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1840448,
-      "num": 1840448,
+      "raw_hot": 2006991,
+      "num": 2006991,
       "word": "部分明星偷漏税数目可能比公布的多",
       "onboard_time": 1694939913,
       "rank": 0,
@@ -193,6 +193,14 @@
       "onboard_time": 1694907566,
       "rank": 10,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 890932,
+      "num": 890932,
+      "word": "快递小哥拆了客户包裹反被奖励1000元",
+      "onboard_time": 1694940514,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 807276,
@@ -355,12 +363,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 614584,
-      "num": 528539,
-      "word": "快递小哥拆了客户包裹反被奖励1000元",
-      "onboard_time": 1694940514,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 622735,
+      "num": 622735,
+      "word": "徐良13个学生里12个写出了爆款歌",
+      "onboard_time": 1694941233,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 614348,
@@ -531,20 +539,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493872,
+      "num": 493872,
+      "word": "衣服反季买别墅靠大海",
+      "onboard_time": 1694939975,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 492581,
       "num": 492581,
       "word": "才知道蜜雪冰城曾经是个餐馆",
       "onboard_time": 1694873620,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 492035,
-      "num": 270615,
-      "word": "徐良13个学生里12个写出了爆款歌",
-      "onboard_time": 1694941233,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 479522,
@@ -715,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374693,
+      "num": 374693,
+      "word": "BLACKPINK演唱会直播",
+      "onboard_time": 1694942855,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 373149,
       "num": 373149,
       "word": "成龙一激动把魏翔叫成费翔",
@@ -777,14 +793,6 @@
       "onboard_time": 1694908408,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358262,
-      "num": 358262,
-      "word": "衣服反季买别墅靠大海",
-      "onboard_time": 1694939975,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 355329,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 321028,
-      "num": 256198,
+      "num": 268760,
       "word": "傅云深被强吻",
       "onboard_time": 1694940155,
       "rank": 22,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 314077,
-      "num": 245344,
+      "num": 262930,
       "word": "妒忌一般发生在熟人之间",
       "onboard_time": 1694940155,
       "rank": 23,
@@ -889,6 +897,14 @@
       "onboard_time": 1694871457,
       "rank": 16,
       "category": "运动健身,网红"
+    },
+    {
+      "raw_hot": 304511,
+      "num": 304511,
+      "word": "曾舜晞南京见面会官宣",
+      "onboard_time": 1694941053,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 304173,
@@ -945,14 +961,6 @@
       "onboard_time": 1694907266,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285456,
-      "num": 285456,
-      "word": "曾舜晞南京见面会官宣",
-      "onboard_time": 1694941053,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 285263,
@@ -1115,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242937,
+      "num": 242937,
+      "word": "不画网红妆后变得清爽",
+      "onboard_time": 1694942556,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 241294,
       "num": 241294,
       "word": "韩庚片场再也不教跳舞了",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1694924259,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227170,
+      "num": 227170,
+      "word": "夜色尚浅靠演员缝缝补补",
+      "onboard_time": 1694942855,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 226201,
@@ -1595,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162399,
+      "num": 162399,
+      "word": "狗子演的不错就是演错了",
+      "onboard_time": 1694942432,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161660,
       "num": 161660,
       "word": "云为衫的春夏秋冬",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1694914830,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 152991,
+      "num": 152991,
+      "word": "张灵玉摸一次头要一次命",
+      "onboard_time": 1694942315,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 151821,
@@ -1795,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132401,
+      "num": 132401,
+      "word": "节目一结束就把ZB1拉黑了",
+      "onboard_time": 1694941832,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131659,
       "num": 131659,
       "word": "见过最瘦长的亚运会吉祥物",
@@ -1833,14 +1881,6 @@
       "onboard_time": 1694915375,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126943,
-      "num": 126943,
-      "word": "节目一结束就把ZB1拉黑了",
-      "onboard_time": 1694941832,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 126807,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1694911713,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116604,
+      "num": 116604,
+      "word": "汪苏泷抱吉克隽逸想伸不敢伸的手",
+      "onboard_time": 1694943211,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114914,
@@ -2099,7 +2147,7 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 22291,
+      "raw_hot": 24553,
       "num": 1436358,
       "word": "微观中国东盟博览会",
       "onboard_time": 1694940033,
