@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 06:14:53
+本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 06:34:06
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,24 @@ Jennie演唱会哭了（热度：580002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%88%91%E4%BB%AC%E6%AD%A3%E8%BF%8E%E6%9D%A5%E7%81%AB%E7%88%86%E7%9A%84%E5%8D%81%E4%B8%80%E9%BB%84%E9%87%91%E5%91%A8%23" target="weibo">
+胡锡进 我们正迎来火爆的十一黄金周（热度：92643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E4%BA%8B%E4%BB%B6%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B9%B0%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%90%97%23" target="weibo">
+辫子客服事件会影响你买苹果产品吗（热度：88101）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%89%B2%E7%90%83%23" target="weibo">
+双色球（热度：83907）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%91%8A%E5%88%AB%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%23" target="weibo">
 杨鸣告别辽宁男篮（热度：73604）
 </a>
@@ -351,26 +369,20 @@ BLACKPINK世巡结束了（热度：66436）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E4%BA%8B%E4%BB%B6%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B9%B0%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%90%97%23" target="weibo">
-辫子客服事件会影响你买苹果产品吗（热度：57003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%88%91%E4%BB%AC%E6%AD%A3%E8%BF%8E%E6%9D%A5%E7%81%AB%E7%88%86%E7%9A%84%E5%8D%81%E4%B8%80%E9%BB%84%E9%87%91%E5%91%A8%23" target="weibo">
-胡锡进 我们正迎来火爆的十一黄金周（热度：56614）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%BC%97%E9%A1%BFvs%E9%98%BF%E6%A3%AE%E7%BA%B3%23" target="weibo">
 埃弗顿vs阿森纳（热度：55681）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%89%B2%E7%90%83%23" target="weibo">
-双色球（热度：49481）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%9B%E6%97%A0%E7%97%9B%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%A4%A7%E6%B3%95%23" target="weibo">
+一些无痛的学习大法（热度：39517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%87%BA%E5%9C%88%E7%9A%84%E4%B8%80%E4%BA%9B%E8%89%B0%E9%9A%BE%E6%97%B6%E5%88%BB%23" target="weibo">
+莲花楼出圈的一些艰难时刻（热度：33889）
 </a>
 </li>
 
@@ -393,20 +405,8 @@ BLACKPINK世巡结束了（热度：66436）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%9B%E6%97%A0%E7%97%9B%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%A4%A7%E6%B3%95%23" target="weibo">
-一些无痛的学习大法（热度：28771）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E8%A6%81%E8%B5%B0%E4%B8%80%E8%B6%9F%E5%AD%A4%E5%B1%B1%E8%B7%AF%E5%90%A7%23" target="weibo">
 总要走一趟孤山路吧（热度：25097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%87%BA%E5%9C%88%E7%9A%84%E4%B8%80%E4%BA%9B%E8%89%B0%E9%9A%BE%E6%97%B6%E5%88%BB%23" target="weibo">
-莲花楼出圈的一些艰难时刻（热度：22763）
 </a>
 </li>
 

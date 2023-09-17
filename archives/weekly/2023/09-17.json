@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694988893424,
+  "endTime": 1694990046519,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -3003,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92643,
+      "num": 92643,
+      "word": "胡锡进 我们正迎来火爆的十一黄金周",
+      "onboard_time": 1694973801,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91643,
       "num": 1665636,
       "word": "当杭州亚运图标小人遇上中国风",
@@ -3011,12 +3019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88101,
+      "num": 88101,
+      "word": "辫子客服事件会影响你买苹果产品吗",
+      "onboard_time": 1694976916,
+      "rank": 41,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 86039,
       "num": 86039,
       "word": "一只猴子来到了葬礼上伏地告别",
       "onboard_time": 1694900473,
       "rank": 28,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 83907,
+      "num": 83907,
+      "word": "双色球",
+      "onboard_time": 1694986453,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 83687,
@@ -3107,36 +3131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57003,
-      "num": 57003,
-      "word": "辫子客服事件会影响你买苹果产品吗",
-      "onboard_time": 1694976916,
-      "rank": 41,
-      "category": "社会新闻,数码"
-    },
-    {
-      "raw_hot": 56614,
-      "num": 56614,
-      "word": "胡锡进 我们正迎来火爆的十一黄金周",
-      "onboard_time": 1694973801,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55681,
       "num": 55681,
       "word": "埃弗顿vs阿森纳",
       "onboard_time": 1694968469,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49481,
-      "num": 49481,
-      "word": "双色球",
-      "onboard_time": 1694986453,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 45295,
@@ -3163,12 +3163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39517,
+      "num": 49461,
+      "word": "一些无痛的学习大法",
+      "onboard_time": 1694974637,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 38198,
       "num": 49513,
       "word": "BLACKPINK首尔安可",
       "onboard_time": 1694861256,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33889,
+      "num": 49440,
+      "word": "莲花楼出圈的一些艰难时刻",
+      "onboard_time": 1694978534,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 33661,
@@ -3211,14 +3227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28771,
-      "num": 36102,
-      "word": "一些无痛的学习大法",
-      "onboard_time": 1694974637,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 27465,
       "num": 38593,
       "word": "边牧赶羊的时候真的好帅",
@@ -3241,14 +3249,6 @@
       "onboard_time": 1694940033,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22763,
-      "num": 22433,
-      "word": "莲花楼出圈的一些艰难时刻",
-      "onboard_time": 1694978534,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 15478,
