@@ -1,0 +1,410 @@
+{
+  "runTime": 1694961235275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991517,
+        "num": 991517,
+        "word": "Jennie演唱会哭了",
+        "onboard_time": 1694953958,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2510194,
+        "num": 946419,
+        "word": "黑龙江发生重大刑案",
+        "onboard_time": 1694951733,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365,
+        "num": 846983,
+        "word": "我国科学家研发出新型稀土开采技术",
+        "onboard_time": 1694921074,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1628590,
+        "num": 785056,
+        "word": "苹果客服回应辫子客服形象",
+        "onboard_time": 1694955880,
+        "rank": 3,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 1094834,
+        "num": 658944,
+        "word": "赵丽颖直播",
+        "onboard_time": 1694955578,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653086,
+        "num": 653086,
+        "word": "花儿与少年5",
+        "onboard_time": 1694946573,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573347,
+        "num": 573347,
+        "word": "金晨打水仗被迫卸妆了",
+        "onboard_time": 1694955758,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551176,
+        "num": 551176,
+        "word": "柴犬误食70粒布洛芬主人花5千救回",
+        "onboard_time": 1694954918,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535748,
+        "num": 535748,
+        "word": "开灯后电影院的椅子有多脏",
+        "onboard_time": 1694955638,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 489833,
+        "num": 489833,
+        "word": "汪苏泷我喜欢上你时的内心活动",
+        "onboard_time": 1694959836,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1369234,
+        "num": 487656,
+        "word": "李兰迪这个发型好适合方圆脸女生",
+        "onboard_time": 1694960019,
+        "rank": 10,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 1308846,
+        "num": 480433,
+        "word": "男子欲将女友卖缅甸迷路求助警察暴露",
+        "onboard_time": 1694952937,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956159,
+        "num": 477001,
+        "word": "原来飞机上有免费的卫生巾",
+        "onboard_time": 1694956961,
+        "rank": 12,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 174907,
+        "num": 470345,
+        "word": "郁美净女孩现在是检察官",
+        "onboard_time": 1694938594,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168486,
+        "num": 465367,
+        "word": "96岁教师连续12年为学生发奖学金",
+        "onboard_time": 1694945133,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464700,
+        "num": 464700,
+        "word": "为什么会出现集体咽喉炎",
+        "onboard_time": 1694944054,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553481,
+        "num": 464176,
+        "word": "拉塞尔撞了",
+        "onboard_time": 1694959778,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472533,
+        "num": 445992,
+        "word": "云为衫宫子羽婚服战损花絮",
+        "onboard_time": 1694956118,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552229,
+        "num": 440912,
+        "word": "卢昱晓早期发疯文学",
+        "onboard_time": 1694950592,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421455,
+        "num": 421455,
+        "word": "希林娜依高一直很安静舞台",
+        "onboard_time": 1694960981,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32682,
+        "num": 411496,
+        "word": "成功发射遥感三十九号卫星",
+        "onboard_time": 1694939617,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215300,
+        "num": 411125,
+        "word": "原来一万块有这么厚",
+        "onboard_time": 1694959836,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 407732,
+        "num": 407732,
+        "word": "夭璟 带我走",
+        "onboard_time": 1694950111,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400596,
+        "num": 400596,
+        "word": "为什么只有早上卖油条",
+        "onboard_time": 1694958639,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 397906,
+        "num": 397906,
+        "word": "印度新生儿被活埋伸手破土求救",
+        "onboard_time": 1694958458,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379032,
+        "num": 379032,
+        "word": "志晟 这是我不想失去的记忆",
+        "onboard_time": 1694957498,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351113,
+        "num": 351113,
+        "word": "活力28将为23万单洗衣粉退款10元",
+        "onboard_time": 1694947354,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 348017,
+        "num": 348017,
+        "word": "河南多地发现隐翅虫",
+        "onboard_time": 1694957200,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329808,
+        "num": 329808,
+        "word": "丞磊早期真诚文学",
+        "onboard_time": 1694960321,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327964,
+        "num": 327964,
+        "word": "让肖战瞳孔地震的冷知识",
+        "onboard_time": 1694957080,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317982,
+        "num": 317982,
+        "word": "成毅张予曦含冰水防哈气",
+        "onboard_time": 1694959237,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312962,
+        "num": 312962,
+        "word": "650合体",
+        "onboard_time": 1694960981,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 310338,
+        "num": 310338,
+        "word": "夜色尚浅 星同事",
+        "onboard_time": 1694960561,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294889,
+        "num": 294889,
+        "word": "白敬亭螺蛳粉初体验",
+        "onboard_time": 1694961038,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292496,
+        "num": 292496,
+        "word": "刘亦菲玫瑰故事带娃路透",
+        "onboard_time": 1694956057,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289291,
+        "num": 289291,
+        "word": "BLACKPINK世巡结束了",
+        "onboard_time": 1694955819,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276426,
+        "num": 276426,
+        "word": "男子疑嫌楼上吵当2孩子面杀其父母",
+        "onboard_time": 1694944953,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272249,
+        "num": 272249,
+        "word": "金边眼镜的宫尚角",
+        "onboard_time": 1694960260,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271893,
+        "num": 271893,
+        "word": "家政阿姨挪开沙发的瞬间我呆了",
+        "onboard_time": 1694954977,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258785,
+        "num": 258785,
+        "word": "女子咳嗽半月气管发现8cm蚂蟥",
+        "onboard_time": 1694960800,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239543,
+        "num": 239543,
+        "word": "肖战晒向日葵告别盛阳",
+        "onboard_time": 1694955638,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235977,
+        "num": 235977,
+        "word": "法拉利赛季首冠",
+        "onboard_time": 1694960438,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230693,
+        "num": 230693,
+        "word": "一天最多吃几个鸡蛋最健康",
+        "onboard_time": 1694961038,
+        "rank": 42,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 218654,
+        "num": 218654,
+        "word": "丞磊卢昱晓双人喵喵舞",
+        "onboard_time": 1694951913,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203038,
+        "num": 203038,
+        "word": "黄金款iPhone15ProMax最贵7.5万元",
+        "onboard_time": 1694951913,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 202573,
+        "num": 202573,
+        "word": "偷税漏税再被罚袁冰妍的头到底有多铁",
+        "onboard_time": 1694936194,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 188812,
+        "num": 188812,
+        "word": "F1新加坡大奖赛塞恩斯冠军",
+        "onboard_time": 1694959778,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188229,
+        "num": 188229,
+        "word": "原来瘦肚子也可以很轻松",
+        "onboard_time": 1694961160,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 187226,
+        "num": 187226,
+        "word": "赵昭仪 花儿与少年",
+        "onboard_time": 1694949691,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184644,
+        "num": 184644,
+        "word": "驾考安全员被曝故意别停学员致挂科",
+        "onboard_time": 1694955216,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改善科技创新生态激发创新创造活力#"
+    }
+  }
+}

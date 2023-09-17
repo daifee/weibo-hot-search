@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1694960028185,
+  "endTime": 1694961235275,
   "band_list": [
     {
       "raw_hot": 4102028,
@@ -155,6 +155,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1369234,
+      "num": 487656,
+      "word": "李兰迪这个发型好适合方圆脸女生",
+      "onboard_time": 1694960019,
+      "rank": 10,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 1285255,
       "num": 1285255,
       "word": "12306车票候补的正确方法",
@@ -185,6 +193,14 @@
       "onboard_time": 1694944114,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1215300,
+      "num": 411125,
+      "word": "原来一万块有这么厚",
+      "onboard_time": 1694959836,
+      "rank": 20,
+      "category": "其它"
     },
     {
       "raw_hot": 1212884,
@@ -257,6 +273,14 @@
       "onboard_time": 1694924075,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 956159,
+      "num": 510219,
+      "word": "原来飞机上有免费的卫生巾",
+      "onboard_time": 1694956961,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 949429,
@@ -483,14 +507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 670694,
-      "num": 510219,
-      "word": "原来飞机上有免费的卫生巾",
-      "onboard_time": 1694956961,
-      "rank": 30,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 658920,
       "num": 658920,
       "word": "袁冰妍被约谈后仍整改不彻底",
@@ -521,14 +537,6 @@
       "onboard_time": 1694924015,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 639189,
-      "num": 393194,
-      "word": "原来一万块有这么厚",
-      "onboard_time": 1694959836,
-      "rank": 20,
-      "category": "其它"
     },
     {
       "raw_hot": 628961,
@@ -612,11 +620,19 @@
     },
     {
       "raw_hot": 558233,
-      "num": 388422,
+      "num": 400596,
       "word": "为什么只有早上卖油条",
       "onboard_time": 1694958639,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 553481,
+      "num": 464176,
+      "word": "拉塞尔撞了",
+      "onboard_time": 1694959778,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 552977,
@@ -795,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 489833,
+      "num": 489833,
+      "word": "汪苏泷我喜欢上你时的内心活动",
+      "onboard_time": 1694959836,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 479522,
       "num": 479522,
       "word": "是不是全国各地都在咽喉炎",
@@ -923,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421455,
+      "num": 421455,
+      "word": "希林娜依高一直很安静舞台",
+      "onboard_time": 1694960981,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417661,
       "num": 417661,
       "word": "央视网文娱评流量反噬后的反思",
       "onboard_time": 1694908107,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 397906,
+      "num": 397906,
+      "word": "印度新生儿被活埋伸手破土求救",
+      "onboard_time": 1694958458,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396645,
@@ -1083,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362560,
-      "num": 362560,
-      "word": "印度新生儿被活埋伸手破土求救",
-      "onboard_time": 1694958458,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362519,
       "num": 316763,
       "word": "辛芷蕾花儿与少年5路透",
@@ -1211,6 +1243,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 329808,
+      "num": 329808,
+      "word": "丞磊早期真诚文学",
+      "onboard_time": 1694960321,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328001,
       "num": 328001,
       "word": "张栋梁身上有一种娱乐圈难得的松弛感",
@@ -1235,12 +1275,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317982,
+      "num": 317982,
+      "word": "成毅张予曦含冰水防哈气",
+      "onboard_time": 1694959237,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314077,
       "num": 262930,
       "word": "妒忌一般发生在熟人之间",
       "onboard_time": 1694940155,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312962,
+      "num": 312962,
+      "word": "650合体",
+      "onboard_time": 1694960981,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 310338,
+      "num": 310338,
+      "word": "夜色尚浅 星同事",
+      "onboard_time": 1694960561,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 309919,
@@ -1323,6 +1387,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 294889,
+      "num": 294889,
+      "word": "白敬亭螺蛳粉初体验",
+      "onboard_time": 1694961038,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294874,
       "num": 281696,
       "word": "Jennie首尔演唱会状态",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1694952455,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292743,
-      "num": 292743,
-      "word": "成毅张予曦含冰水防哈气",
-      "onboard_time": 1694959237,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 291808,
@@ -1467,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272249,
+      "num": 272249,
+      "word": "金边眼镜的宫尚角",
+      "onboard_time": 1694960260,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271441,
       "num": 271441,
       "word": "原来石榴粒也可以是玫瑰",
@@ -1547,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258785,
+      "num": 258785,
+      "word": "女子咳嗽半月气管发现8cm蚂蟥",
+      "onboard_time": 1694960800,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253051,
       "num": 253051,
       "word": "夏枯草煮鸡蛋",
@@ -1619,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235977,
+      "num": 235977,
+      "word": "法拉利赛季首冠",
+      "onboard_time": 1694960438,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235400,
       "num": 235400,
       "word": "了解国货之后消费观被纠正了",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1694952335,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230693,
+      "num": 230693,
+      "word": "一天最多吃几个鸡蛋最健康",
+      "onboard_time": 1694961038,
+      "rank": 42,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 230085,
@@ -1809,14 +1905,6 @@
       "onboard_time": 1694875958,
       "rank": 33,
       "category": "演出,时尚"
-    },
-    {
-      "raw_hot": 215400,
-      "num": 215400,
-      "word": "拉塞尔撞了",
-      "onboard_time": 1694959778,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 215178,
@@ -2011,14 +2099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193989,
-      "num": 193989,
-      "word": "汪苏泷我喜欢上你时的内心活动",
-      "onboard_time": 1694959836,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193502,
       "num": 193502,
       "word": "张杰晒专辑中喝奶时期照片",
@@ -2097,6 +2177,14 @@
       "onboard_time": 1694945792,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188229,
+      "num": 188229,
+      "word": "原来瘦肚子也可以很轻松",
+      "onboard_time": 1694961160,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 187164,
