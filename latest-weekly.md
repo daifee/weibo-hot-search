@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/17 00:19:46 ~ 2023/09/19 07:16:27
+本榜单时间：2023/09/17 00:19:46 ~ 2023/09/19 07:33:58
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ Jennie演唱会哭了（热度：1256955）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E7%89%9B%E5%A5%B6%E5%8F%91%E7%8E%B0%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91%23" target="weibo">
+医生收到患者家属1箱牛奶发现是4万现金（热度：1115551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23" target="weibo">
 奇强董事长在直播间哭了（热度：1100053）
 </a>
@@ -425,12 +431,6 @@ Jennie演唱会哭了（热度：1256955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%20%E6%88%91%E5%BE%88%E5%A5%BD%E8%AF%B7%E5%A4%A7%E5%AE%B6%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%A6%81%E6%8B%85%E5%BF%83%23" target="weibo">
 阿信 我很好请大家一定不要担心（热度：1002173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E7%89%9B%E5%A5%B6%E5%8F%91%E7%8E%B0%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91%23" target="weibo">
-医生收到患者家属1箱牛奶发现是4万现金（热度：1001618）
 </a>
 </li>
 
@@ -1797,6 +1797,12 @@ XYG 血压高（热度：345209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%A2%AB%E5%81%B6%E9%81%87%E4%B8%8B%E4%B8%80%E7%A7%92%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91%23" target="weibo">
+野生大熊猫被偶遇下一秒拔腿就跑（热度：340871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%9E%E5%8E%BB%E5%8D%81%E5%B9%B4%E5%B7%A5%E4%BD%9C%E5%B8%A6%E7%95%99%E5%AE%88%E5%AD%A9%E5%AD%90%E8%AF%BB%E4%B9%A6%23" target="weibo">
 女子辞去十年工作带留守孩子读书（热度：338739）
 </a>
@@ -1859,6 +1865,12 @@ XYG 血压高（热度：345209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E8%BA%AB%E4%B8%8A%E6%9C%89%E4%B8%80%E7%A7%8D%E5%A8%B1%E4%B9%90%E5%9C%88%E9%9A%BE%E5%BE%97%E7%9A%84%E6%9D%BE%E5%BC%9B%E6%84%9F%23" target="weibo">
 张栋梁身上有一种娱乐圈难得的松弛感（热度：328001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E6%A1%8C%E5%AD%90%E6%98%AF%E4%B8%8D%E6%98%AF%E9%83%BD%E9%95%BF%E8%BF%99%E6%A0%B7%23" target="weibo">
+体制内的桌子是不是都长这样（热度：327429）
 </a>
 </li>
 
@@ -1959,12 +1971,6 @@ A股（热度：310292）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%A2%AB%E5%81%B6%E9%81%87%E4%B8%8B%E4%B8%80%E7%A7%92%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91%23" target="weibo">
-野生大熊猫被偶遇下一秒拔腿就跑（热度：305860）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E7%8A%AF%E9%94%99%E8%A2%AB%E6%89%B9%E8%AF%84%E5%93%A5%E5%93%A5%E6%9A%96%E5%BF%83%E5%91%B5%E6%8A%A4%23" target="weibo">
 妹妹犯错被批评哥哥暖心呵护（热度：305455）
 </a>
@@ -1991,6 +1997,12 @@ A股（热度：310292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9Equeencard%20%E6%96%B9%E5%A4%9A%E7%97%85%E6%8B%A6%E5%87%BA%E7%A7%9F%E8%BD%A6%23" target="weibo">
 曾舜晞queencard 方多病拦出租车（热度：303581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%A2%E4%BA%86%E6%88%91%E5%B8%A6%E4%BD%A0%E5%9B%9E%E5%AE%B6%E8%BE%93%E4%BA%86%E4%B8%8B%E8%BE%88%E5%AD%90%E5%86%8D%E8%A7%81%23" target="weibo">
+赢了我带你回家输了下辈子再见（热度：301741）
 </a>
 </li>
 
@@ -2339,6 +2351,12 @@ Remember疑似重回LPL（热度：276460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E6%B6%A8%E8%87%B38.0%E5%88%86%23" target="weibo">
 封神第一部豆瓣评分涨至8.0分（热度：259897）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%86%B0%E9%80%80%E5%87%BA%E9%9C%93%E8%99%B9%E8%8A%B1%E5%9B%AD%23" target="weibo">
+夏冰退出霓虹花园（热度：256946）
 </a>
 </li>
 
@@ -3663,6 +3681,12 @@ F1新加坡大奖赛（热度：140025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%23" target="weibo">
+他从火光中走来（热度：131380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%83%AD%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 福建热回来了（热度：130437）
 </a>
@@ -3747,6 +3771,12 @@ F1新加坡大奖赛（热度：140025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E4%BA%91%E6%B7%B1%E8%A2%AB%E5%BC%BA%E5%90%BB%E6%88%8F%E4%BB%BD%E8%A2%AB%E5%88%A0%23" target="weibo">
+傅云深被强吻戏份被删（热度：117419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97%E8%88%9E%E5%8F%B0%23" target="weibo">
 吴青峰如果声音不记得舞台（热度：116690）
 </a>
@@ -3783,6 +3813,18 @@ F1新加坡大奖赛（热度：140025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%87%BA%E5%8F%91%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
+赵露思出发米兰时装周（热度：109125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E8%B5%B7%E7%A0%81%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BA%BA%E6%82%A3%E7%97%85%23" target="weibo">
+教育起码不能让人患病（热度：108362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%BA%BA%E5%91%98%E9%82%80%E8%AF%B7%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BB%AC%E8%BF%9B%E5%B1%8B%E9%81%BF%E9%9B%A8%23" target="weibo">
 酒店人员邀请环卫工们进屋避雨（热度：107525）
 </a>
@@ -3797,12 +3839,6 @@ F1新加坡大奖赛（热度：140025）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23XYG%E8%B5%9B%E7%82%B9%23" target="weibo">
 XYG赛点（热度：104439）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E8%B5%B7%E7%A0%81%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BA%BA%E6%82%A3%E7%97%85%23" target="weibo">
-教育起码不能让人患病（热度：100592）
 </a>
 </li>
 
@@ -3855,14 +3891,14 @@ XYG赛点（热度：104439）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%8C%B4%E5%AD%90%E6%9D%A5%E5%88%B0%E4%BA%86%E8%91%AC%E7%A4%BC%E4%B8%8A%E4%BC%8F%E5%9C%B0%E5%91%8A%E5%88%AB%23" target="weibo">
-一只猴子来到了葬礼上伏地告别（热度：86039）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%23" target="weibo">
+杭州亚运首场比赛（热度：87210）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%A2%E4%BA%86%E6%88%91%E5%B8%A6%E4%BD%A0%E5%9B%9E%E5%AE%B6%E8%BE%93%E4%BA%86%E4%B8%8B%E8%BE%88%E5%AD%90%E5%86%8D%E8%A7%81%23" target="weibo">
-赢了我带你回家输了下辈子再见（热度：85304）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%8C%B4%E5%AD%90%E6%9D%A5%E5%88%B0%E4%BA%86%E8%91%AC%E7%A4%BC%E4%B8%8A%E4%BC%8F%E5%9C%B0%E5%91%8A%E5%88%AB%23" target="weibo">
+一只猴子来到了葬礼上伏地告别（热度：86039）
 </a>
 </li>
 
@@ -3881,6 +3917,18 @@ XYG赛点（热度：104439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%90%86%E8%A7%A3%E4%BA%86%E5%A5%B3%E5%84%BF%E5%A5%B9%E5%B0%B1%E4%B8%8D%E5%86%8D%E6%98%AF%E5%AD%A4%E5%86%9B%E5%A5%8B%E6%88%98%23" target="weibo">
 当理解了女儿她就不再是孤军奋战（热度：80175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iOS17%E6%96%B0%E5%A2%9E%E8%A7%86%E9%A2%91%E8%AF%AD%E9%9F%B3%E7%95%99%E8%A8%80%E5%8A%9F%E8%83%BD%23" target="weibo">
+iOS17新增视频语音留言功能（热度：79861）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%82%E8%82%AA%E5%BD%A2%E6%88%90%E7%9A%84%E7%9C%9F%E7%9B%B8%23" target="weibo">
+脂肪形成的真相（热度：79393）
 </a>
 </li>
 
@@ -3927,20 +3975,8 @@ XYG赛点（热度：104439）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%23" target="weibo">
-杭州亚运首场比赛（热度：63671）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%85%A4%E6%B0%94%E5%B8%88%E5%82%85%E5%87%8C%E6%99%A8%E6%8D%A1%E5%88%B0%E8%B5%B0%E5%A4%B1%E7%94%B7%E5%AD%A9%E4%BA%A4%E7%BB%99%E8%AD%A6%E5%AF%9F%23" target="weibo">
 煤气师傅凌晨捡到走失男孩交给警察（热度：61416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%82%E8%82%AA%E5%BD%A2%E6%88%90%E7%9A%84%E7%9C%9F%E7%9B%B8%23" target="weibo">
-脂肪形成的真相（热度：60944）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695078987637,
+  "endTime": 1695080038761,
   "band_list": [
     {
       "raw_hot": 1494904,
@@ -11,8 +11,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1001618,
-      "num": 1001618,
+      "raw_hot": 1115551,
+      "num": 1115551,
       "word": "医生收到患者家属1箱牛奶发现是4万现金",
       "onboard_time": 1695049361,
       "rank": 1,
@@ -83,12 +83,20 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 338316,
-      "num": 338316,
+      "raw_hot": 350885,
+      "num": 350885,
       "word": "这2项运动不利于孩子生长发育",
       "onboard_time": 1695047801,
       "rank": 9,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 340871,
+      "num": 340871,
+      "word": "野生大熊猫被偶遇下一秒拔腿就跑",
+      "onboard_time": 1695075981,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 336877,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327429,
+      "num": 125646,
+      "word": "体制内的桌子是不是都长这样",
+      "onboard_time": 1695079590,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316733,
       "num": 249018,
       "word": "iOS17",
@@ -115,12 +131,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 305860,
-      "num": 305860,
-      "word": "野生大熊猫被偶遇下一秒拔腿就跑",
-      "onboard_time": 1695075981,
-      "rank": 48,
-      "category": "社会新闻,动物萌宠"
+      "raw_hot": 301741,
+      "num": 301741,
+      "word": "赢了我带你回家输了下辈子再见",
+      "onboard_time": 1695078506,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297868,
@@ -137,6 +153,22 @@
       "onboard_time": 1695048221,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 257383,
+      "num": 257383,
+      "word": "原来慈禧卧室和我的差不多",
+      "onboard_time": 1695040298,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 256946,
+      "num": 256946,
+      "word": "夏冰退出霓虹花园",
+      "onboard_time": 1695079048,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 255531,
@@ -161,14 +193,6 @@
       "onboard_time": 1695048940,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248095,
-      "num": 248095,
-      "word": "原来慈禧卧室和我的差不多",
-      "onboard_time": 1695040298,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 240468,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 165940,
-      "num": 100524,
+      "num": 150705,
       "word": "iOS17正式版推送",
       "onboard_time": 1695078625,
       "rank": 30,
@@ -267,12 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152604,
-      "num": 152604,
+      "raw_hot": 156220,
+      "num": 156220,
       "word": "官方回应高二学生跳楼后不治身亡",
       "onboard_time": 1695044019,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 155732,
+      "num": 155732,
+      "word": "海马体无痛学习法",
+      "onboard_time": 1695039095,
+      "rank": 39,
+      "category": "知识科普"
     },
     {
       "raw_hot": 149629,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136174,
+      "num": 136174,
+      "word": "上班不到两小时被辞退了",
+      "onboard_time": 1695042338,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134177,
       "num": 134177,
       "word": "涂山璟最好的一面留给小夭",
@@ -323,12 +363,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130861,
-      "num": 130861,
-      "word": "海马体无痛学习法",
-      "onboard_time": 1695039095,
-      "rank": 39,
-      "category": "知识科普"
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "他从火光中走来",
+      "onboard_time": 1695079350,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 127521,
@@ -339,12 +379,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116408,
-      "num": 116408,
-      "word": "上班不到两小时被辞退了",
-      "onboard_time": 1695042338,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 117419,
+      "num": 117419,
+      "word": "傅云深被强吻戏份被删",
+      "onboard_time": 1695079832,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 114142,
@@ -355,20 +395,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109125,
+      "num": 109125,
+      "word": "赵露思出发米兰时装周",
+      "onboard_time": 1695080013,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108362,
+      "num": 108362,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 106625,
       "num": 106625,
       "word": "会花一千路费参加朋友婚礼吗",
       "onboard_time": 1695042338,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100592,
-      "num": 100592,
-      "word": "教育起码不能让人患病",
-      "onboard_time": 1695068594,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 98255,
@@ -411,20 +459,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87210,
+      "num": 87210,
+      "word": "杭州亚运首场比赛",
+      "onboard_time": 1695077420,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85738,
       "num": 88271,
       "word": "终于知道怎么安慰好朋友了",
       "onboard_time": 1695046904,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85304,
-      "num": 85304,
-      "word": "赢了我带你回家输了下辈子再见",
-      "onboard_time": 1695078506,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85239,
@@ -435,28 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79861,
+      "num": 79861,
+      "word": "iOS17新增视频语音留言功能",
+      "onboard_time": 1695079530,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 79393,
+      "num": 79393,
+      "word": "脂肪形成的真相",
+      "onboard_time": 1695060917,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 76000,
       "num": 76000,
       "word": "温室大棚居然能种大枣",
       "onboard_time": 1695078506,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63671,
-      "num": 63671,
-      "word": "杭州亚运首场比赛",
-      "onboard_time": 1695077420,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 60944,
-      "num": 60944,
-      "word": "脂肪形成的真相",
-      "onboard_time": 1695060917,
-      "rank": 49,
-      "category": "知识科普"
     },
     {
       "raw_hot": 58288,
