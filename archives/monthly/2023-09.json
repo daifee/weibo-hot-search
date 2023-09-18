@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695046600681,
+  "endTime": 1695047673322,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2995,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1604327,
+      "num": 1000768,
+      "word": "居然有人把飘窗做成了洗脚池",
+      "onboard_time": 1695042338,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1603831,
       "num": 983002,
       "word": "肖战被导演灌醉了",
@@ -3897,14 +3905,6 @@
       "onboard_time": 1693527874,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1354304,
-      "num": 960812,
-      "word": "居然有人把飘窗做成了洗脚池",
-      "onboard_time": 1695042338,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1352339,
@@ -5616,6 +5616,14 @@
       "word": "中国女性肥胖比例不足10%",
       "onboard_time": 1693800277,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995887,
+      "num": 995887,
+      "word": "4名男孩溺亡其中3人亲兄弟",
+      "onboard_time": 1695045702,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8633,6 +8641,14 @@
       "onboard_time": 1694921494,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 735132,
+      "num": 735132,
+      "word": "麻辣王子好吃",
+      "onboard_time": 1695045582,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 735080,
@@ -12275,6 +12291,14 @@
       "category": "自然,美食"
     },
     {
+      "raw_hot": 563517,
+      "num": 563517,
+      "word": "官方回应高二学生跳楼后不治身亡",
+      "onboard_time": 1695044019,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 563259,
       "num": 367382,
       "word": "原来眼镜布并不是擦眼镜的",
@@ -12433,14 +12457,6 @@
       "onboard_time": 1693920701,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 556797,
-      "num": 556797,
-      "word": "官方回应高二学生跳楼后不治身亡",
-      "onboard_time": 1695044019,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 556766,
@@ -13881,14 +13897,6 @@
       "onboard_time": 1693994136,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 513423,
-      "num": 513423,
-      "word": "4名男孩溺亡其中3人亲兄弟",
-      "onboard_time": 1695045702,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513215,
@@ -16883,6 +16891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 433624,
+      "num": 433624,
+      "word": "莲花味精放弃低成本味精研发专利权",
+      "onboard_time": 1695046423,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 433600,
       "num": 433600,
       "word": "白羊座心软的神",
@@ -18203,6 +18219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 404770,
+      "num": 404770,
+      "word": "XYG获得2024KPL春季赛临时席位",
+      "onboard_time": 1695046060,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 404324,
       "num": 404324,
       "word": "林俊杰广州演唱会",
@@ -19329,14 +19353,6 @@
       "onboard_time": 1693838437,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376823,
-      "num": 376823,
-      "word": "XYG获得2024KPL春季赛临时席位",
-      "onboard_time": 1695046060,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 376801,
@@ -21665,14 +21681,6 @@
       "onboard_time": 1693981116,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330968,
-      "num": 330968,
-      "word": "麻辣王子好吃",
-      "onboard_time": 1695045582,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 330810,
@@ -24313,6 +24321,14 @@
       "onboard_time": 1694821588,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295184,
+      "num": 233345,
+      "word": "一个宿舍六种房",
+      "onboard_time": 1695046783,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 295133,
@@ -28043,6 +28059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248589,
+      "num": 248589,
+      "word": "一个令养猫人血脉觉醒的声音",
+      "onboard_time": 1695046661,
+      "rank": 27,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 248502,
       "num": 215397,
       "word": "原来老板口中的亏了是这个意思",
@@ -29241,6 +29265,14 @@
       "onboard_time": 1694412697,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236958,
+      "num": 236958,
+      "word": "iOS17",
+      "onboard_time": 1695047142,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 236892,
@@ -35787,6 +35819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190915,
+      "num": 190915,
+      "word": "对父母丧失分享欲的原因",
+      "onboard_time": 1695045340,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190910,
       "num": 190910,
       "word": "IU透露新专辑主题",
@@ -37163,6 +37203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182925,
+      "num": 182925,
+      "word": "飞机上雨刮器怎么这么小",
+      "onboard_time": 1695046601,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 182789,
       "num": 182789,
       "word": "热烈票房破9亿",
@@ -37265,14 +37313,6 @@
       "onboard_time": 1694849614,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181887,
-      "num": 181887,
-      "word": "莲花味精放弃低成本味精研发专利权",
-      "onboard_time": 1695046423,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 181712,
@@ -37385,6 +37425,14 @@
       "onboard_time": 1694312555,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180832,
+      "num": 180832,
+      "word": "酷偕 景晚就是XYG的未来",
+      "onboard_time": 1695047023,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 180752,
@@ -38715,14 +38763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169424,
-      "num": 169424,
-      "word": "对父母丧失分享欲的原因",
-      "onboard_time": 1695045340,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169396,
       "num": 169396,
       "word": "异人之下张之维一人一下",
@@ -39177,6 +39217,14 @@
       "onboard_time": 1694587957,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 165183,
+      "num": 165183,
+      "word": "XYG战胜TKL",
+      "onboard_time": 1695047080,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 165159,
@@ -39825,6 +39873,14 @@
       "onboard_time": 1693635812,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160005,
+      "num": 160005,
+      "word": "终于知道怎么安慰好朋友了",
+      "onboard_time": 1695046904,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 159994,
@@ -40811,6 +40867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150261,
+      "num": 150261,
+      "word": "不理解越舒服的姿势越有害",
+      "onboard_time": 1695042218,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150210,
       "num": 150210,
       "word": "马宁",
@@ -41017,14 +41081,6 @@
       "onboard_time": 1693723895,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148170,
-      "num": 148170,
-      "word": "不理解越舒服的姿势越有害",
-      "onboard_time": 1695042218,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 148166,
@@ -43100,7 +43156,7 @@
     },
     {
       "raw_hot": 122670,
-      "num": 969879,
+      "num": 1000805,
       "word": "导师在太空开了门实验课",
       "onboard_time": 1695042098,
       "rank": 2,
@@ -43113,6 +43169,14 @@
       "onboard_time": 1694491246,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122592,
+      "num": 146808,
+      "word": "XYG 固定临时席位",
+      "onboard_time": 1695047624,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 122368,
