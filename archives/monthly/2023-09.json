@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695035669585,
+  "endTime": 1695036843316,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1659,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2087558,
+      "num": 2087558,
+      "word": "400人赴喜宴近百人中毒",
+      "onboard_time": 1695033634,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2085166,
       "num": 692155,
       "word": "肛肠科待太久对帅哥都无感了",
@@ -1808,14 +1816,6 @@
       "word": "高铁乘客花35买盒饭发现标价15",
       "onboard_time": 1694754101,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2028100,
-      "num": 2028100,
-      "word": "400人赴喜宴近百人中毒",
-      "onboard_time": 1695033634,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -9491,6 +9491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 680657,
+      "num": 596176,
+      "word": "演员刘金拒绝展示iPhone购买记录",
+      "onboard_time": 1695034654,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 680647,
       "num": 680647,
       "word": "肖战白百何新剧差点差辈了",
@@ -9577,6 +9585,14 @@
       "onboard_time": 1694919512,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 677761,
+      "num": 677761,
+      "word": "美国男子极限通勤3小时到上海上班",
+      "onboard_time": 1695032376,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677646,
@@ -10881,14 +10897,6 @@
       "onboard_time": 1694845953,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 614946,
-      "num": 614946,
-      "word": "美国男子极限通勤3小时到上海上班",
-      "onboard_time": 1695032376,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614696,
@@ -14419,6 +14427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494449,
+      "num": 494449,
+      "word": "很难被父母PUA的原因",
+      "onboard_time": 1695034477,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 494439,
       "num": 416921,
       "word": "曾舜晞哭了",
@@ -14521,6 +14537,14 @@
       "onboard_time": 1693910435,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491083,
+      "num": 491083,
+      "word": "老外觉得印个中文就挺潮的",
+      "onboard_time": 1695035496,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 490774,
@@ -16049,6 +16073,14 @@
       "onboard_time": 1693493259,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 452550,
+      "num": 452550,
+      "word": "Excel错题本",
+      "onboard_time": 1695034896,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 452359,
@@ -20259,14 +20291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355090,
-      "num": 355090,
-      "word": "很难被父母PUA的原因",
-      "onboard_time": 1695034477,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 355003,
       "num": 355003,
       "word": "肖战梦境大片",
@@ -20617,14 +20641,6 @@
       "onboard_time": 1693983273,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 348187,
-      "num": 348187,
-      "word": "演员刘金拒绝展示iPhone购买记录",
-      "onboard_time": 1695034654,
-      "rank": 19,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 348116,
@@ -25483,6 +25499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276460,
+      "num": 276460,
+      "word": "Remember疑似重回LPL",
+      "onboard_time": 1695034956,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276438,
       "num": 276438,
       "word": "黄明昊FMVP",
@@ -25721,6 +25745,14 @@
       "onboard_time": 1693619197,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273459,
+      "num": 498559,
+      "word": "日本战犯在沈阳审判现场低头认罪",
+      "onboard_time": 1695035316,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273371,
@@ -26793,6 +26825,14 @@
       "onboard_time": 1694240498,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261448,
+      "num": 261448,
+      "word": "山东小县城一年卖出全球70%的假睫毛",
+      "onboard_time": 1695035496,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 261411,
@@ -28291,14 +28331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243458,
-      "num": 243458,
-      "word": "Remember疑似重回LPL",
-      "onboard_time": 1695034956,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243404,
       "num": 243404,
       "word": "张凌赫回应没唱云之羽OST",
@@ -29393,14 +29425,6 @@
       "onboard_time": 1694627599,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 232759,
-      "num": 232759,
-      "word": "Excel错题本",
-      "onboard_time": 1695034896,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 232749,
@@ -36067,14 +36091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187565,
-      "num": 187565,
-      "word": "老外觉得印个中文就挺潮的",
-      "onboard_time": 1695035496,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187497,
       "num": 541431,
       "word": "00后送教师节礼物主打一个笑中带泪",
@@ -38233,6 +38249,14 @@
       "onboard_time": 1694742214,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 171259,
+      "num": 171259,
+      "word": "市监局回应上百人吃席吃进医院",
+      "onboard_time": 1695036215,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171217,
@@ -40513,14 +40537,6 @@
       "onboard_time": 1694310455,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 150451,
-      "num": 150451,
-      "word": "日本战犯在沈阳审判现场低头认罪",
-      "onboard_time": 1695035316,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150351,
@@ -42993,14 +43009,6 @@
       "onboard_time": 1693649254,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119631,
-      "num": 119631,
-      "word": "山东小县城一年卖出全球70%的假睫毛",
-      "onboard_time": 1695035496,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 119464,
