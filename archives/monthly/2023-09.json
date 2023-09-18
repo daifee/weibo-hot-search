@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695014148826,
+  "endTime": 1695015237239,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1833,6 +1833,14 @@
       "onboard_time": 1694422599,
       "rank": 16,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 2000170,
+      "num": 547722,
+      "word": "傅首尔 老刘",
+      "onboard_time": 1695013421,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1994585,
@@ -7267,14 +7275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 809595,
-      "num": 547722,
-      "word": "傅首尔 老刘",
-      "onboard_time": 1695013421,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 809450,
       "num": 809450,
       "word": "何运晨带5本民法典录offer5",
@@ -8361,6 +8361,14 @@
       "onboard_time": 1694275774,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 737652,
+      "num": 675082,
+      "word": "猴痘未来可能出现家庭内传播",
+      "onboard_time": 1695012765,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 737435,
@@ -9475,14 +9483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 675082,
-      "num": 675082,
-      "word": "猴痘未来可能出现家庭内传播",
-      "onboard_time": 1695012765,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 674763,
       "num": 674763,
       "word": "摩洛哥地震遇难人数上升至1037人",
@@ -9993,6 +9993,14 @@
       "onboard_time": 1694002778,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 648456,
+      "num": 420312,
+      "word": "房子烂尾婆婆被儿媳妇赶出家门",
+      "onboard_time": 1695013121,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648183,
@@ -10777,6 +10785,14 @@
       "onboard_time": 1694652939,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612526,
+      "num": 612526,
+      "word": "精心 希望大家了解硅油",
+      "onboard_time": 1695013603,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 612382,
@@ -11707,6 +11723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 571374,
+      "num": 427972,
+      "word": "苹果高管称iPhone15Pro将成最好的游戏机",
+      "onboard_time": 1695012942,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 571309,
       "num": 571309,
       "word": "官方称天津大爷跳水的8A级水域禁止游泳",
@@ -12489,14 +12513,6 @@
       "onboard_time": 1694184343,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 546903,
-      "num": 427972,
-      "word": "苹果高管称iPhone15Pro将成最好的游戏机",
-      "onboard_time": 1695012942,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 546212,
@@ -13539,14 +13555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 513715,
-      "num": 420312,
-      "word": "房子烂尾婆婆被儿媳妇赶出家门",
-      "onboard_time": 1695013121,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513628,
       "num": 513628,
       "word": "肖战好像长了兔耳朵",
@@ -13891,6 +13899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503203,
+      "num": 441214,
+      "word": "出现女性猴痘感染者意味着什么",
+      "onboard_time": 1695014618,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503171,
       "num": 503171,
       "word": "金靖的角色还是太保守了",
@@ -14161,6 +14177,14 @@
       "onboard_time": 1694845650,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495491,
+      "num": 495491,
+      "word": "莲花味精 谣言",
+      "onboard_time": 1695013720,
+      "rank": 33,
+      "category": "知识科普"
     },
     {
       "raw_hot": 495391,
@@ -18299,6 +18323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392090,
+      "num": 464334,
+      "word": "曾被日军盖不许可印戳的照片首次公开",
+      "onboard_time": 1695012942,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 391834,
       "num": 391834,
       "word": "正式确诊为金靖",
@@ -18809,6 +18841,14 @@
       "onboard_time": 1694136633,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378306,
+      "num": 378306,
+      "word": "2岁男童独自出门去幼儿园被秒送回",
+      "onboard_time": 1695013182,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378279,
@@ -20747,14 +20787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338674,
-      "num": 338674,
-      "word": "精心 希望大家了解硅油",
-      "onboard_time": 1695013603,
-      "rank": 27,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 338574,
       "num": 338574,
       "word": "这部剧的受众到底是谁",
@@ -21697,14 +21729,6 @@
       "onboard_time": 1693928018,
       "rank": 47,
       "category": "影视,科技"
-    },
-    {
-      "raw_hot": 323813,
-      "num": 323813,
-      "word": "曾被日军盖不许可印戳的照片首次公开",
-      "onboard_time": 1695012942,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 323609,
@@ -22651,14 +22675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309946,
-      "num": 309946,
-      "word": "2岁男童独自出门去幼儿园被秒送回",
-      "onboard_time": 1695013182,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309919,
       "num": 309919,
       "word": "精心协和标婷 维E乳",
@@ -23067,14 +23083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304706,
-      "num": 304706,
-      "word": "莲花味精 谣言",
-      "onboard_time": 1695013720,
-      "rank": 33,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 304591,
       "num": 304591,
       "word": "兮兮",
@@ -23289,6 +23297,14 @@
       "onboard_time": 1695008077,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301561,
+      "num": 263407,
+      "word": "濒死时会感觉身边多了一个人",
+      "onboard_time": 1695014856,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 301492,
@@ -25731,6 +25747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269480,
+      "num": 269480,
+      "word": "国庆8天假7个朋友结婚",
+      "onboard_time": 1695015097,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269331,
       "num": 269331,
       "word": "周迅小肉手",
@@ -26521,6 +26545,14 @@
       "onboard_time": 1694398175,
       "rank": 19,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 260047,
+      "num": 260047,
+      "word": "父亲陪女儿备战高考自己成功考研",
+      "onboard_time": 1695014795,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 260037,
@@ -37433,6 +37465,14 @@
       "onboard_time": 1693965333,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 173507,
+      "num": 173507,
+      "word": "邢台巨响",
+      "onboard_time": 1695014434,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173402,
