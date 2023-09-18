@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695076429586,
+  "endTime": 1695078987637,
   "band_list": [
     {
       "raw_hot": 1494904,
@@ -9,6 +9,14 @@
       "onboard_time": 1695048160,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1001618,
+      "num": 1001618,
+      "word": "医生收到患者家属1箱牛奶发现是4万现金",
+      "onboard_time": 1695049361,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920024,
@@ -27,14 +35,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 782251,
-      "num": 782251,
-      "word": "医生收到患者家属1箱牛奶发现是4万现金",
-      "onboard_time": 1695049361,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 674663,
       "num": 674663,
       "word": "居然有人把飘窗做成了洗脚池",
@@ -43,20 +43,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 606571,
+      "num": 606571,
+      "word": "七点以后禁食带给我的变化",
+      "onboard_time": 1695023498,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 496362,
       "num": 496362,
       "word": "白敬亭这令人震撼的大脑",
       "onboard_time": 1695051398,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 483624,
-      "num": 483624,
-      "word": "七点以后禁食带给我的变化",
-      "onboard_time": 1695023498,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 422225,
@@ -75,11 +75,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 370604,
+      "num": 370604,
+      "word": "演员刘金拒绝展示iPhone购买记录",
+      "onboard_time": 1695034654,
+      "rank": 11,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 338316,
+      "num": 338316,
+      "word": "这2项运动不利于孩子生长发育",
+      "onboard_time": 1695047801,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 336877,
       "num": 336877,
       "word": "奇强董事长在直播间哭了",
       "onboard_time": 1695042338,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336626,
+      "num": 303952,
+      "word": "靖国神社居然还开设亲子班",
+      "onboard_time": 1695040657,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -91,20 +115,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 310994,
-      "num": 310994,
-      "word": "这2项运动不利于孩子生长发育",
-      "onboard_time": 1695047801,
-      "rank": 9,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 299562,
-      "num": 299562,
-      "word": "演员刘金拒绝展示iPhone购买记录",
-      "onboard_time": 1695034654,
-      "rank": 11,
-      "category": "艺人,数码"
+      "raw_hot": 305860,
+      "num": 305860,
+      "word": "野生大熊猫被偶遇下一秒拔腿就跑",
+      "onboard_time": 1695075981,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 297868,
@@ -145,6 +161,14 @@
       "onboard_time": 1695048940,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248095,
+      "num": 248095,
+      "word": "原来慈禧卧室和我的差不多",
+      "onboard_time": 1695040298,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 240468,
@@ -195,22 +219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193837,
-      "num": 131935,
-      "word": "靖国神社居然还开设亲子班",
-      "onboard_time": 1695040657,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177923,
-      "num": 177923,
-      "word": "原来慈禧卧室和我的差不多",
-      "onboard_time": 1695040298,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176825,
       "num": 176825,
       "word": "苹果门店回应刘金怒摔iPhone",
@@ -233,6 +241,14 @@
       "onboard_time": 1695052832,
       "rank": 29,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 165940,
+      "num": 100524,
+      "word": "iOS17正式版推送",
+      "onboard_time": 1695078625,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 161430,
@@ -307,12 +323,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121265,
-      "num": 121265,
+      "raw_hot": 130861,
+      "num": 130861,
       "word": "海马体无痛学习法",
       "onboard_time": 1695039095,
       "rank": 39,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 127521,
+      "num": 127521,
+      "word": "孩子吃不了苦做这个训练效果显著",
+      "onboard_time": 1695060078,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 116408,
+      "num": 116408,
+      "word": "上班不到两小时被辞退了",
+      "onboard_time": 1695042338,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 114142,
@@ -331,12 +363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98377,
-      "num": 98377,
-      "word": "上班不到两小时被辞退了",
-      "onboard_time": 1695042338,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 100592,
+      "num": 100592,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 98255,
@@ -387,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85304,
+      "num": 85304,
+      "word": "赢了我带你回家输了下辈子再见",
+      "onboard_time": 1695078506,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85239,
       "num": 88251,
       "word": "美国男子极限通勤3小时到上海上班",
@@ -395,20 +435,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67258,
-      "num": 67258,
-      "word": "孩子吃不了苦做这个训练效果显著",
-      "onboard_time": 1695060078,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 76000,
+      "num": 76000,
+      "word": "温室大棚居然能种大枣",
+      "onboard_time": 1695078506,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 63225,
-      "num": 63225,
-      "word": "教育起码不能让人患病",
-      "onboard_time": 1695068594,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 63671,
+      "num": 63671,
+      "word": "杭州亚运首场比赛",
+      "onboard_time": 1695077420,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60944,
+      "num": 60944,
+      "word": "脂肪形成的真相",
+      "onboard_time": 1695060917,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 58288,
+      "num": 58288,
+      "word": "王毅同沙利文在马耳他会晤",
+      "onboard_time": 1695070634,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 53201,
@@ -419,14 +475,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 52288,
-      "num": 49088,
-      "word": "王毅同沙利文在马耳他会晤",
-      "onboard_time": 1695070634,
-      "rank": 35,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 49822,
       "num": 58007,
       "word": "四公repo",
@@ -435,16 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40114,
-      "num": 40114,
-      "word": "脂肪形成的真相",
-      "onboard_time": 1695060917,
-      "rank": 49,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 37452,
-      "num": 37452,
+      "raw_hot": 49054,
+      "num": 53964,
       "word": "水煮荷包蛋",
       "onboard_time": 1695072493,
       "rank": 49,
@@ -489,14 +529,6 @@
       "onboard_time": 1695060020,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26418,
-      "num": 33499,
-      "word": "野生大熊猫被偶遇下一秒拔腿就跑",
-      "onboard_time": 1695075981,
-      "rank": 48,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 26097,

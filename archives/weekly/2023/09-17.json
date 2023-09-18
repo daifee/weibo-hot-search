@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695076429586,
+  "endTime": 1695078987637,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001618,
+      "num": 1001618,
+      "word": "医生收到患者家属1箱牛奶发现是4万现金",
+      "onboard_time": 1695049361,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 995887,
       "num": 995887,
       "word": "4名男孩溺亡其中3人亲兄弟",
@@ -633,14 +641,6 @@
       "onboard_time": 1695006274,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 896700,
-      "num": 896700,
-      "word": "医生收到患者家属1箱牛奶发现是4万现金",
-      "onboard_time": 1695049361,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 890932,
@@ -2595,6 +2595,14 @@
       "category": "运动健身,网红"
     },
     {
+      "raw_hot": 305860,
+      "num": 305860,
+      "word": "野生大熊猫被偶遇下一秒拔腿就跑",
+      "onboard_time": 1695075981,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 305455,
       "num": 994914,
       "word": "妹妹犯错被批评哥哥暖心呵护",
@@ -4379,6 +4387,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 165940,
+      "num": 100524,
+      "word": "iOS17正式版推送",
+      "onboard_time": 1695078625,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165183,
       "num": 165183,
       "word": "XYG战胜TKL",
@@ -4891,6 +4907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127521,
+      "num": 127521,
+      "word": "孩子吃不了苦做这个训练效果显著",
+      "onboard_time": 1695060078,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126807,
       "num": 126807,
       "word": "从小就不会撒谎的卖家",
@@ -5027,6 +5051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100592,
+      "num": 100592,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99424,
       "num": 99424,
       "word": "云之羽",
@@ -5099,6 +5131,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 85304,
+      "num": 85304,
+      "word": "赢了我带你回家输了下辈子再见",
+      "onboard_time": 1695078506,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83687,
       "num": 83687,
       "word": "宫门是龙浒山实锤了",
@@ -5129,6 +5169,14 @@
       "onboard_time": 1694908889,
       "rank": 14,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 76000,
+      "num": 76000,
+      "word": "温室大棚居然能种大枣",
+      "onboard_time": 1695078506,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73604,
@@ -5171,20 +5219,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 67258,
-      "num": 67258,
-      "word": "孩子吃不了苦做这个训练效果显著",
-      "onboard_time": 1695060078,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 63225,
-      "num": 63225,
-      "word": "教育起码不能让人患病",
-      "onboard_time": 1695068594,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 63671,
+      "num": 63671,
+      "word": "杭州亚运首场比赛",
+      "onboard_time": 1695077420,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 61416,
@@ -5195,12 +5235,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 60944,
+      "num": 60944,
+      "word": "脂肪形成的真相",
+      "onboard_time": 1695060917,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 59653,
       "num": 59653,
       "word": "养狗人的大型社死现场",
       "onboard_time": 1694890335,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 58288,
+      "num": 58288,
+      "word": "王毅同沙利文在马耳他会晤",
+      "onboard_time": 1695070634,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 58015,
@@ -5219,12 +5275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52288,
-      "num": 49088,
-      "word": "王毅同沙利文在马耳他会晤",
-      "onboard_time": 1695070634,
-      "rank": 35,
-      "category": "国内要闻"
+      "raw_hot": 49054,
+      "num": 53964,
+      "word": "水煮荷包蛋",
+      "onboard_time": 1695072493,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 45295,
@@ -5251,28 +5307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40114,
-      "num": 40114,
-      "word": "脂肪形成的真相",
-      "onboard_time": 1695060917,
-      "rank": 49,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 38198,
       "num": 49513,
       "word": "BLACKPINK首尔安可",
       "onboard_time": 1694861256,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37452,
-      "num": 37452,
-      "word": "水煮荷包蛋",
-      "onboard_time": 1695072493,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 35946,
@@ -5369,14 +5409,6 @@
       "onboard_time": 1695060020,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26418,
-      "num": 33499,
-      "word": "野生大熊猫被偶遇下一秒拔腿就跑",
-      "onboard_time": 1695075981,
-      "rank": 48,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 26097,
