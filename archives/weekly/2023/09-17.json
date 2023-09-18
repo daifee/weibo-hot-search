@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695069261723,
+  "endTime": 1695071702167,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -5379,12 +5379,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24147,
+      "num": 24147,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 19434,
       "num": 20426,
       "word": "护士遇到过最离谱的事",
       "onboard_time": 1695060496,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 18917,
+      "num": 18917,
+      "word": "微博手机影像年",
+      "onboard_time": 1695069732,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 18508,
+      "num": 18508,
+      "word": "王毅同沙利文在马耳他会晤",
+      "onboard_time": 1695070634,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 15478,
@@ -5403,16 +5427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14438,
-      "num": 14438,
-      "word": "教育起码不能让人患病",
-      "onboard_time": 1695068594,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 13671,
-      "num": 13671,
+      "num": 15448,
       "word": "当狗子遇到机器狗",
       "onboard_time": 1695065713,
       "rank": 49,
