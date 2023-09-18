@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695071702167,
+  "endTime": 1695072847024,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -5347,6 +5347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26594,
+      "num": 26594,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26097,
       "num": 26097,
       "word": "想对我恋爱脑朋友说的话",
@@ -5379,12 +5387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24147,
-      "num": 24147,
-      "word": "教育起码不能让人患病",
-      "onboard_time": 1695068594,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 22349,
+      "num": 21918,
+      "word": "王毅同沙利文在马耳他会晤",
+      "onboard_time": 1695070634,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 19434,
@@ -5401,14 +5409,6 @@
       "onboard_time": 1695069732,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 18508,
-      "num": 18508,
-      "word": "王毅同沙利文在马耳他会晤",
-      "onboard_time": 1695070634,
-      "rank": 35,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 15478,
@@ -5433,6 +5433,14 @@
       "onboard_time": 1695065713,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12740,
+      "num": 18393,
+      "word": "水煮荷包蛋",
+      "onboard_time": 1695072493,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 12510,

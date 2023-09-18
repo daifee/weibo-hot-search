@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/19 00:22:38 ~ 2023/09/19 05:15:02
+本榜单时间：2023/09/19 00:22:38 ~ 2023/09/19 05:34:07
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ AirPodsPro2测评（热度：29925）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E8%B5%B7%E7%A0%81%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BA%BA%E6%82%A3%E7%97%85%23" target="weibo">
+教育起码不能让人患病（热度：26594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%AF%B9%E6%88%91%E6%81%8B%E7%88%B1%E8%84%91%E6%9C%8B%E5%8F%8B%E8%AF%B4%E7%9A%84%E8%AF%9D%23" target="weibo">
 想对我恋爱脑朋友说的话（热度：26097）
 </a>
@@ -369,8 +375,8 @@ AirPodsPro2测评（热度：29925）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E8%B5%B7%E7%A0%81%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BA%BA%E6%82%A3%E7%97%85%23" target="weibo">
-教育起码不能让人患病（热度：24147）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%90%8C%E6%B2%99%E5%88%A9%E6%96%87%E5%9C%A8%E9%A9%AC%E8%80%B3%E4%BB%96%E4%BC%9A%E6%99%A4%23" target="weibo">
+王毅同沙利文在马耳他会晤（热度：22349）
 </a>
 </li>
 
@@ -387,14 +393,14 @@ AirPodsPro2测评（热度：29925）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%90%8C%E6%B2%99%E5%88%A9%E6%96%87%E5%9C%A8%E9%A9%AC%E8%80%B3%E4%BB%96%E4%BC%9A%E6%99%A4%23" target="weibo">
-王毅同沙利文在马耳他会晤（热度：18508）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8B%97%E5%AD%90%E9%81%87%E5%88%B0%E6%9C%BA%E5%99%A8%E7%8B%97%23" target="weibo">
+当狗子遇到机器狗（热度：13671）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8B%97%E5%AD%90%E9%81%87%E5%88%B0%E6%9C%BA%E5%99%A8%E7%8B%97%23" target="weibo">
-当狗子遇到机器狗（热度：13671）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%85%AE%E8%8D%B7%E5%8C%85%E8%9B%8B%23" target="weibo">
+水煮荷包蛋（热度：12740）
 </a>
 </li>
 
