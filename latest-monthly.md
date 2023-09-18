@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 10:22:47
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 10:33:42
 </p>
 </blockquote>
 <p>
@@ -3075,6 +3075,12 @@ boss直聘崩了（热度：1252566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%B3%E4%B9%90%E8%8A%82%E9%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E5%8E%95%E6%89%80%23" target="weibo">
+为什么音乐节都是这种厕所（热度：1234908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%20%E6%88%91%E4%B8%8D%E4%BF%A1%E4%BA%86%23" target="weibo">
 邓为 我不信了（热度：1231262）
 </a>
@@ -3383,12 +3389,6 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B%23" target="weibo">
 墨菲定律（热度：1151262）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%B3%E4%B9%90%E8%8A%82%E9%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E5%8E%95%E6%89%80%23" target="weibo">
-为什么音乐节都是这种厕所（热度：1151190）
 </a>
 </li>
 
