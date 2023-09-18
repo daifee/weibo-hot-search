@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695007056934,
+  "endTime": 1695008050878,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -27,20 +27,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2711774,
+      "num": 2711774,
+      "word": "中文慢慢失去了加密功能",
+      "onboard_time": 1695005012,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2237033,
+      "num": 471025,
+      "word": "李在明器官因绝食严重受损",
+      "onboard_time": 1695006215,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2109511,
       "num": 1898816,
       "word": "韩国检方申请拘捕李在明",
       "onboard_time": 1694999497,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2080179,
-      "num": 2080179,
-      "word": "中文慢慢失去了加密功能",
-      "onboard_time": 1695005012,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1923896,
@@ -147,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 811236,
+      "num": 811236,
+      "word": "BOSS直聘崩了",
+      "onboard_time": 1695006334,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 804996,
       "num": 804996,
       "word": "磨牙的原因",
@@ -164,19 +180,11 @@
     },
     {
       "raw_hot": 748542,
-      "num": 431126,
+      "num": 479554,
       "word": "新公司让我节后8号入职",
       "onboard_time": 1694998899,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 731390,
-      "num": 221433,
-      "word": "李在明器官因绝食严重受损",
-      "onboard_time": 1695006215,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 716384,
@@ -307,6 +315,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 495091,
+      "num": 356105,
+      "word": "你今年考虑买房吗",
+      "onboard_time": 1695005792,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 487207,
       "num": 487207,
       "word": "将19310918牢刻在心",
@@ -345,14 +361,6 @@
       "onboard_time": 1694962236,
       "rank": 6,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 428700,
-      "num": 356105,
-      "word": "你今年考虑买房吗",
-      "onboard_time": 1695005792,
-      "rank": 20,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 414637,
@@ -395,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379791,
-      "num": 379791,
-      "word": "BOSS直聘崩了",
-      "onboard_time": 1695006334,
-      "rank": 18,
-      "category": "科技"
+      "raw_hot": 388755,
+      "num": 241957,
+      "word": "奥本海默现实比电影更可怕",
+      "onboard_time": 1695006993,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 379110,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344533,
+      "num": 344533,
+      "word": "预制菜",
+      "onboard_time": 1695007716,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344405,
       "num": 344405,
       "word": "镇上出了第一个女兵乡亲们纳鞋垫相送",
@@ -457,6 +473,14 @@
       "onboard_time": 1694967094,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334055,
+      "num": 325036,
+      "word": "你知道什么是假性亲密关系吗",
+      "onboard_time": 1695006274,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 329797,
@@ -563,14 +587,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 270785,
-      "num": 220027,
-      "word": "你知道什么是假性亲密关系吗",
-      "onboard_time": 1695006274,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268136,
       "num": 268136,
       "word": "被爱会长出新的血肉",
@@ -601,6 +617,14 @@
       "onboard_time": 1694971701,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245803,
+      "num": 245803,
+      "word": "凡人修仙传制作方回应魔改",
+      "onboard_time": 1695007296,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 245369,
@@ -635,6 +659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 226164,
+      "num": 226164,
+      "word": "为什么下雨天睡觉会睡得更香",
+      "onboard_time": 1695006754,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224491,
       "num": 203246,
       "word": "淘来的东西进了我家以后的样子",
@@ -649,6 +681,14 @@
       "onboard_time": 1694954918,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222019,
+      "num": 222019,
+      "word": "伍佰其实是负责组局的吧",
+      "onboard_time": 1695006814,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 220988,
@@ -763,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180847,
-      "num": 180847,
-      "word": "伍佰其实是负责组局的吧",
-      "onboard_time": 1695006814,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 179765,
       "num": 179765,
       "word": "辽宁14城9时18分拉响警报",
@@ -787,20 +819,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175490,
+      "num": 175490,
+      "word": "发现了一种很省钱的吃面方法",
+      "onboard_time": 1695005613,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175230,
       "num": 175230,
       "word": "汪苏泷我喜欢上你时的内心活动",
       "onboard_time": 1694959836,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169129,
-      "num": 169129,
-      "word": "发现了一种很省钱的吃面方法",
-      "onboard_time": 1695005613,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 166681,
@@ -859,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156547,
-      "num": 156547,
-      "word": "为什么下雨天睡觉会睡得更香",
-      "onboard_time": 1695006754,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155111,
       "num": 155111,
       "word": "为什么只有早上卖油条",
@@ -907,14 +931,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 149512,
-      "num": 149512,
-      "word": "奥本海默现实比电影更可怕",
-      "onboard_time": 1695006993,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149030,
       "num": 149030,
       "word": "河南多地发现隐翅虫",
@@ -928,6 +944,14 @@
       "word": "亲历者原声回忆抗战",
       "onboard_time": 1694997999,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143047,
+      "num": 143047,
+      "word": "女子看热闹金手镯被人剪断险被偷",
+      "onboard_time": 1695007895,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1083,7 +1107,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33892,
+      "raw_hot": 35946,
       "num": 1653897,
       "word": "展示共建一带一路的信心",
       "onboard_time": 1695004713,

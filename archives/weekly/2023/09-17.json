@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695007056934,
+  "endTime": 1695008050878,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -51,12 +51,28 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 2711774,
+      "num": 2711774,
+      "word": "中文慢慢失去了加密功能",
+      "onboard_time": 1695005012,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2246936,
       "num": 1710119,
       "word": "偷税漏税再被罚袁冰妍的头到底有多铁",
       "onboard_time": 1694936194,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2237033,
+      "num": 471025,
+      "word": "李在明器官因绝食严重受损",
+      "onboard_time": 1695006215,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2210056,
@@ -81,14 +97,6 @@
       "onboard_time": 1694999497,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2080179,
-      "num": 2080179,
-      "word": "中文慢慢失去了加密功能",
-      "onboard_time": 1695005012,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 2068593,
@@ -459,6 +467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 811236,
+      "num": 811236,
+      "word": "BOSS直聘崩了",
+      "onboard_time": 1695006334,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 807276,
       "num": 807276,
       "word": "为什么现在的油条全是面包口感",
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 748542,
-      "num": 431126,
+      "num": 479554,
       "word": "新公司让我节后8号入职",
       "onboard_time": 1694998899,
       "rank": 21,
@@ -593,14 +609,6 @@
       "onboard_time": 1694921494,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 731390,
-      "num": 221433,
-      "word": "李在明器官因绝食严重受损",
-      "onboard_time": 1695006215,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 716384,
@@ -1027,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 495091,
+      "num": 356105,
+      "word": "你今年考虑买房吗",
+      "onboard_time": 1695005792,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 494439,
       "num": 416921,
       "word": "曾舜晞哭了",
@@ -1227,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 428700,
-      "num": 356105,
-      "word": "你今年考虑买房吗",
-      "onboard_time": 1695005792,
-      "rank": 20,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 428249,
       "num": 428249,
       "word": "时代峰峻二代的遗憾大概就是",
@@ -1331,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388755,
+      "num": 241957,
+      "word": "奥本海默现实比电影更可怕",
+      "onboard_time": 1695006993,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387484,
       "num": 387484,
       "word": "戴佩妮这次终于忍住了",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1694919694,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 379791,
-      "num": 379791,
-      "word": "BOSS直聘崩了",
-      "onboard_time": 1695006334,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 379452,
@@ -1571,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344533,
+      "num": 344533,
+      "word": "预制菜",
+      "onboard_time": 1695007716,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344405,
       "num": 344405,
       "word": "镇上出了第一个女兵乡亲们纳鞋垫相送",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1694931872,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334055,
+      "num": 325036,
+      "word": "你知道什么是假性亲密关系吗",
+      "onboard_time": 1695006274,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 333860,
@@ -2043,14 +2067,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 270785,
-      "num": 220027,
-      "word": "你知道什么是假性亲密关系吗",
-      "onboard_time": 1695006274,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268380,
       "num": 430587,
       "word": "渐冻症男孩躺着拿下全球数学大奖",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1694910091,
       "rank": 27,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 245803,
+      "num": 245803,
+      "word": "凡人修仙传制作方回应魔改",
+      "onboard_time": 1695007296,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 245369,
@@ -2363,6 +2387,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 226164,
+      "num": 226164,
+      "word": "为什么下雨天睡觉会睡得更香",
+      "onboard_time": 1695006754,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225806,
       "num": 198925,
       "word": "做了件慈禧同款旗袍",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1694880933,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222019,
+      "num": 222019,
+      "word": "伍佰其实是负责组局的吧",
+      "onboard_time": 1695006814,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 220988,
@@ -2891,14 +2931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180847,
-      "num": 180847,
-      "word": "伍佰其实是负责组局的吧",
-      "onboard_time": 1695006814,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 180606,
       "num": 180606,
       "word": "起猛了看到非主流回来了",
@@ -2937,6 +2969,14 @@
       "onboard_time": 1694944653,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175490,
+      "num": 175490,
+      "word": "发现了一种很省钱的吃面方法",
+      "onboard_time": 1695005613,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 175259,
@@ -3001,14 +3041,6 @@
       "onboard_time": 1694935055,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169129,
-      "num": 169129,
-      "word": "发现了一种很省钱的吃面方法",
-      "onboard_time": 1695005613,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 169126,
@@ -3139,14 +3171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156547,
-      "num": 156547,
-      "word": "为什么下雨天睡觉会睡得更香",
-      "onboard_time": 1695006754,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155826,
       "num": 155826,
       "word": "罕见病女孩坚持热爱成985大学副教授",
@@ -3201,14 +3225,6 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149512,
-      "num": 149512,
-      "word": "奥本海默现实比电影更可怕",
-      "onboard_time": 1695006993,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 149281,
@@ -3289,6 +3305,14 @@
       "onboard_time": 1694918735,
       "rank": 39,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 143047,
+      "num": 143047,
+      "word": "女子看热闹金手镯被人剪断险被偷",
+      "onboard_time": 1695007895,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142742,
@@ -3771,7 +3795,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33892,
+      "raw_hot": 35946,
       "num": 1653897,
       "word": "展示共建一带一路的信心",
       "onboard_time": 1695004713,
