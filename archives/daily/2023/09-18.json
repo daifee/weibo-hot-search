@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695018144141,
+  "endTime": 1695018926612,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2246595,
+      "num": 2246595,
+      "word": "国庆8天假7个朋友结婚",
+      "onboard_time": 1695015097,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2125163,
       "num": 642859,
       "word": "预制菜",
@@ -57,14 +65,6 @@
       "onboard_time": 1694999497,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2079475,
-      "num": 2079475,
-      "word": "国庆8天假7个朋友结婚",
-      "onboard_time": 1695015097,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 2025266,
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1261701,
+      "num": 1261701,
+      "word": "演员刘金苹果店前怒摔iPhone",
+      "onboard_time": 1695018153,
+      "rank": 1,
+      "category": "数码,艺人"
+    },
+    {
+      "raw_hot": 1237895,
+      "num": 1237895,
+      "word": "濒死时会感觉身边多了一个人",
+      "onboard_time": 1695014856,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1229914,
       "num": 1229914,
       "word": "配眼镜时为什么要看这张图片",
@@ -145,14 +161,6 @@
       "onboard_time": 1694966973,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1015856,
-      "num": 391062,
-      "word": "濒死时会感觉身边多了一个人",
-      "onboard_time": 1695014856,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1002173,
@@ -243,20 +251,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 755785,
+      "num": 441214,
+      "word": "出现女性猴痘感染者意味着什么",
+      "onboard_time": 1695014618,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755094,
       "num": 755094,
       "word": "学校反诈案例 鹿晗短信",
       "onboard_time": 1695012403,
       "rank": 6,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 738268,
-      "num": 441214,
-      "word": "出现女性猴痘感染者意味着什么",
-      "onboard_time": 1695014618,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 737652,
@@ -289,6 +297,14 @@
       "onboard_time": 1694994873,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703391,
+      "num": 703391,
+      "word": "鸡精配料表第一位就是味精",
+      "onboard_time": 1695016597,
+      "rank": 5,
+      "category": "知识科普"
     },
     {
       "raw_hot": 658383,
@@ -411,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566976,
-      "num": 566976,
-      "word": "鸡精配料表第一位就是味精",
-      "onboard_time": 1695016597,
-      "rank": 5,
-      "category": "知识科普"
+      "raw_hot": 543473,
+      "num": 382184,
+      "word": "中芯国际",
+      "onboard_time": 1695018034,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 536013,
@@ -595,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400597,
+      "num": 376969,
+      "word": "8旬老人网购上瘾直播间买100多条饰品",
+      "onboard_time": 1695016056,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398578,
       "num": 313465,
       "word": "白桃星运十二星座一周运势",
@@ -667,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356838,
-      "num": 356838,
-      "word": "8旬老人网购上瘾直播间买100多条饰品",
-      "onboard_time": 1695016056,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356797,
       "num": 356797,
       "word": "丞磊弟弟也好帅",
@@ -739,8 +755,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 304100,
-      "num": 304100,
+      "raw_hot": 307297,
+      "num": 307297,
       "word": "傅云深唯一瘫痪了还那么迷人的男人",
       "onboard_time": 1695016234,
       "rank": 23,
@@ -769,6 +785,14 @@
       "onboard_time": 1694961160,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 300205,
+      "num": 300205,
+      "word": "四六级",
+      "onboard_time": 1695015337,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 295721,
@@ -859,19 +883,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 260938,
+      "num": 260938,
+      "word": "彩票中奖百万怎么兑换",
+      "onboard_time": 1695017735,
+      "rank": 41,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 260047,
       "num": 260047,
       "word": "父亲陪女儿备战高考自己成功考研",
       "onboard_time": 1695014795,
       "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 258809,
-      "num": 258809,
-      "word": "四六级",
-      "onboard_time": 1695015337,
-      "rank": 25,
       "category": "教育"
     },
     {
@@ -1155,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167929,
+      "num": 167929,
+      "word": "男子用辣椒油做活络油无比滴获刑12年",
+      "onboard_time": 1695018454,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166681,
       "num": 166681,
       "word": "男子疑嫌楼上吵当2孩子面杀其父母",
@@ -1315,14 +1347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130340,
-      "num": 130340,
-      "word": "彩票中奖百万怎么兑换",
-      "onboard_time": 1695017735,
-      "rank": 41,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 127174,
       "num": 127174,
       "word": "刘亦菲玫瑰故事带娃路透",
@@ -1347,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124169,
-      "num": 124169,
-      "word": "中芯国际",
-      "onboard_time": 1695018034,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 123928,
       "num": 123928,
       "word": "金边眼镜的宫尚角",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1694989399,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110255,
+      "num": 110255,
+      "word": "国产地毯为飞机年省300万美元燃油费",
+      "onboard_time": 1695018034,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 99424,
