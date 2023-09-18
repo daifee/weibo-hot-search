@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 21:33:55
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 22:16:40
 </p>
 </blockquote>
 <p>
@@ -2799,6 +2799,12 @@ JonyJ举行婚礼（热度：1450905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E4%B8%9C%E5%8C%97%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
+中国台湾东北附近发生6.7级左右地震（热度：1391221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23" target="weibo">
 戚薇不反对Lucky进演艺圈（热度：1390017）
 </a>
@@ -2927,6 +2933,12 @@ DFBOYS（热度：1371735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Model3%23" target="weibo">
 特斯拉Model3（热度：1359114）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23" target="weibo">
+居然有人把飘窗做成了洗脚池（热度：1354304）
 </a>
 </li>
 
@@ -4629,6 +4641,12 @@ TTG对战狼队（热度：943547）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23" target="weibo">
+奇强董事长在直播间哭了（热度：932852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BE%BF%E5%AE%9C%E4%BA%86%23" target="weibo">
 为什么阳光玫瑰越来越便宜了（热度：932786）
 </a>
@@ -5147,12 +5165,6 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%AF%B4%E4%B8%AD%E6%96%87%23" target="weibo">
 黄明昊在韩国说中文（热度：858966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23" target="weibo">
-奇强董事长在直播间哭了（热度：857698）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ fx十四周年（热度：777250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E6%B3%84%E6%BC%8F%E4%BA%8B%E6%95%8510%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 内蒙古高压气体泄漏事故10死3伤（热度：774039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E8%B4%B9%E5%8A%A0%E7%BD%97%E7%94%B7%E5%A3%AB%E9%87%91%E4%B9%9D%E4%B8%89%E5%B0%81%23" target="weibo">
-邓为费加罗男士金九三封（热度：772765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%A4%E8%82%89%E5%BA%97%E5%9B%9E%E5%BA%94%E8%B0%A2%E7%BB%9D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%85%A5%23" target="weibo">
-烤肉店回应谢绝日本人进入（热度：772012）
 </a>
 </li>
 
