@@ -1,0 +1,410 @@
+{
+  "runTime": 1695026094749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1606262,
+        "num": 1606262,
+        "word": "刘亚仁强行让随行人员吸毒",
+        "onboard_time": 1695022354,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1398244,
+        "num": 1398244,
+        "word": "七点以后禁食带给我的变化",
+        "onboard_time": 1695023498,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11656,
+        "num": 1313001,
+        "word": "展示共建一带一路的信心",
+        "onboard_time": 1695004713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1886003,
+        "num": 1292706,
+        "word": "猪油",
+        "onboard_time": 1695020374,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1262332,
+        "num": 1262332,
+        "word": "演员刘金苹果店前怒摔iPhone",
+        "onboard_time": 1695018153,
+        "rank": 4,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 700162,
+        "num": 700162,
+        "word": "二十二",
+        "onboard_time": 1695022116,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683931,
+        "num": 683931,
+        "word": "731部队用跳蚤感染鼠疫后咬人",
+        "onboard_time": 1695021096,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 656813,
+        "num": 656813,
+        "word": "黑龙江重大刑案嫌疑人徐某被抓获",
+        "onboard_time": 1695021333,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537195,
+        "num": 537195,
+        "word": "国庆8天假7个朋友结婚",
+        "onboard_time": 1695015097,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437739,
+        "num": 437739,
+        "word": "开水冲鸡蛋",
+        "onboard_time": 1695020794,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 562262,
+        "num": 437117,
+        "word": "美国没资格对中国禁毒努力说三道四",
+        "onboard_time": 1695025659,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 486296,
+        "num": 436790,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1695013421,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434661,
+        "num": 434661,
+        "word": "13岁男孩花318元烫发家人报警",
+        "onboard_time": 1695019175,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421701,
+        "num": 421701,
+        "word": "我怀疑我奶被大学生魂穿了",
+        "onboard_time": 1695021034,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379884,
+        "num": 379884,
+        "word": "神奇动物 貘",
+        "onboard_time": 1695022897,
+        "rank": 14,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 346219,
+        "num": 346219,
+        "word": "濒死时会感觉身边多了一个人",
+        "onboard_time": 1695014856,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 283677,
+        "num": 283677,
+        "word": "李在明器官因绝食严重受损",
+        "onboard_time": 1695006215,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 277030,
+        "num": 277030,
+        "word": "莲花味精配料表只有小麦",
+        "onboard_time": 1695019535,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255750,
+        "num": 255750,
+        "word": "西安交大回应留学生专用垃圾桶事件",
+        "onboard_time": 1695011565,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240780,
+        "num": 240780,
+        "word": "防空警报",
+        "onboard_time": 1695002373,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 647469,
+        "num": 240612,
+        "word": "出现女性猴痘感染者意味着什么",
+        "onboard_time": 1695026076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331206,
+        "num": 239873,
+        "word": "医生一直叫我的狗陈女士",
+        "onboard_time": 1695021700,
+        "rank": 21,
+        "category": "幽默,动物萌宠"
+      },
+      {
+        "raw_hot": 324676,
+        "num": 238909,
+        "word": "李楠称iPhone信号差对日常影响微乎其微",
+        "onboard_time": 1695023454,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245709,
+        "num": 238101,
+        "word": "iPhone15系列平台预约量超300万台",
+        "onboard_time": 1695022715,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237668,
+        "num": 237668,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1695005012,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231997,
+        "num": 231997,
+        "word": "为什么音乐节都是这种厕所",
+        "onboard_time": 1695001654,
+        "rank": 25,
+        "category": "演出,情感"
+      },
+      {
+        "raw_hot": 194451,
+        "num": 194451,
+        "word": "齐司礼 射箭",
+        "onboard_time": 1695023197,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188365,
+        "num": 188365,
+        "word": "夜色尚浅逗孩子视角",
+        "onboard_time": 1695022058,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187358,
+        "num": 187358,
+        "word": "杜德伟演唱会上将亳州念成毫州",
+        "onboard_time": 1695022299,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184480,
+        "num": 184480,
+        "word": "苹果高管称iPhone15Pro将成最好的游戏机",
+        "onboard_time": 1695012942,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219501,
+        "num": 181757,
+        "word": "夜爬泰山两山头游客开强光互射对骂",
+        "onboard_time": 1695024818,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 178051,
+        "num": 178051,
+        "word": "CCtalk崩了",
+        "onboard_time": 1695022537,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "演员刘金否认送修iPhone改装",
+        "onboard_time": 1695024158,
+        "rank": 32,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 166461,
+        "num": 166461,
+        "word": "莲花楼云之羽海报相似度",
+        "onboard_time": 1695011383,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163771,
+        "num": 163771,
+        "word": "918",
+        "onboard_time": 1694992225,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159739,
+        "num": 159739,
+        "word": "房子烂尾婆婆被儿媳妇赶出家门",
+        "onboard_time": 1695013121,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156989,
+        "num": 156989,
+        "word": "路边捡到价值5万金项链他们果断报警",
+        "onboard_time": 1695022537,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151975,
+        "num": 151975,
+        "word": "傅云深唯一瘫痪了还那么迷人的男人",
+        "onboard_time": 1695016234,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143504,
+        "num": 143504,
+        "word": "云之羽 更适合普通人的变美干货",
+        "onboard_time": 1695025959,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139588,
+        "num": 139588,
+        "word": "男子被杠铃压死健身房老板再发声",
+        "onboard_time": 1695012164,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137865,
+        "num": 137865,
+        "word": "还有比竹子更耐看的植物吗",
+        "onboard_time": 1695020974,
+        "rank": 40,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 126645,
+        "num": 126645,
+        "word": "慰安妇制度受害幸存者在册仅剩10人",
+        "onboard_time": 1695020854,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 125784,
+        "num": 125784,
+        "word": "多家国货宣布九一八当天停播",
+        "onboard_time": 1695011319,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 124655,
+        "num": 124655,
+        "word": "韩国检方再次申请拘捕刘亚仁",
+        "onboard_time": 1695025235,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 124206,
+        "num": 124206,
+        "word": "研究称地球支撑文明的9大边界已过6个",
+        "onboard_time": 1695019113,
+        "rank": 44,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 123516,
+        "num": 123516,
+        "word": "曾被日军盖不许可印戳的照片首次公开",
+        "onboard_time": 1695012942,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 107885,
+        "num": 107885,
+        "word": "2岁男童独自出门去幼儿园被秒送回",
+        "onboard_time": 1695013182,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252018,
+        "num": 106314,
+        "word": "中芯国际",
+        "onboard_time": 1695018034,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100805,
+        "num": 100805,
+        "word": "彩票中奖百万怎么兑换",
+        "onboard_time": 1695017735,
+        "rank": 48,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 99519,
+        "num": 99519,
+        "word": "中性笔后面的神秘液体是什么",
+        "onboard_time": 1695019175,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会吉祥物组合名叫江南忆#"
+    }
+  }
+}
