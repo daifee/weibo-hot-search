@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695047673322,
+  "endTime": 1695050303431,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -331,6 +331,14 @@
       "category": "演出,情感"
     },
     {
+      "raw_hot": 1465141,
+      "num": 863586,
+      "word": "多邻国崩了",
+      "onboard_time": 1695048160,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1409199,
       "num": 1409199,
       "word": "如何看苹果中国官网辫子客服形象",
@@ -369,6 +377,14 @@
       "onboard_time": 1695025659,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1271553,
+      "num": 1271553,
+      "word": "伍佰 25岁为什么听我的歌呢",
+      "onboard_time": 1695048039,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1256955,
@@ -457,6 +473,14 @@
       "onboard_time": 1694956961,
       "rank": 30,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1100053,
+      "num": 1100053,
+      "word": "奇强董事长在直播间哭了",
+      "onboard_time": 1695042338,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1094795,
@@ -571,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 932852,
-      "num": 932852,
-      "word": "奇强董事长在直播间哭了",
-      "onboard_time": 1695042338,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 925701,
       "num": 925701,
       "word": "不经意却很伤头发的行为",
@@ -665,6 +681,14 @@
       "onboard_time": 1694997999,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 828968,
+      "num": 828968,
+      "word": "麻辣王子好吃",
+      "onboard_time": 1695045582,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 828674,
@@ -873,14 +897,6 @@
       "onboard_time": 1694921494,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 735132,
-      "num": 735132,
-      "word": "麻辣王子好吃",
-      "onboard_time": 1695045582,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 720082,
@@ -1195,6 +1211,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 596114,
+      "num": 596114,
+      "word": "莲花味精放弃低成本味精研发专利权",
+      "onboard_time": 1695046423,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 593729,
       "num": 593729,
       "word": "贝儿说伯远哥哥笑得超大声",
@@ -1323,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546094,
+      "num": 546094,
+      "word": "一个宿舍六种房",
+      "onboard_time": 1695046783,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 542684,
       "num": 542684,
       "word": "一瓶茅台可做2000多颗巧克力",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1695003933,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516241,
+      "num": 516241,
+      "word": "医生收到患者家属1箱牛奶发现是4万现金",
+      "onboard_time": 1695049361,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515224,
@@ -1619,6 +1659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 473956,
+      "num": 221936,
+      "word": "最近贝儿是上淑女培训班了吗",
+      "onboard_time": 1695048221,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 472495,
       "num": 472495,
       "word": "强大的肠胃是一种资产",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1694913813,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 464532,
+      "num": 464532,
+      "word": "iOS17",
+      "onboard_time": 1695047142,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 463309,
@@ -1787,12 +1843,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 433624,
-      "num": 433624,
-      "word": "莲花味精放弃低成本味精研发专利权",
-      "onboard_time": 1695046423,
-      "rank": 34,
-      "category": "财经,社会新闻"
+      "raw_hot": 433019,
+      "num": 530680,
+      "word": "这2项运动不利于孩子生长发育",
+      "onboard_time": 1695047801,
+      "rank": 12,
+      "category": "运动健身"
     },
     {
       "raw_hot": 431777,
@@ -1865,6 +1921,14 @@
       "onboard_time": 1694995118,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411198,
+      "num": 411198,
+      "word": "眼睛好看的人真的会加分",
+      "onboard_time": 1695048940,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 408857,
@@ -2411,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324227,
+      "num": 324227,
+      "word": "有什么工作可以上半年休半年",
+      "onboard_time": 1695048940,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321028,
       "num": 268760,
       "word": "傅云深被强吻",
@@ -2585,14 +2657,6 @@
       "onboard_time": 1694997396,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 295184,
-      "num": 233345,
-      "word": "一个宿舍六种房",
-      "onboard_time": 1695046783,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 295035,
@@ -2899,6 +2963,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 266970,
+      "num": 517773,
+      "word": "东海海域6.4级地震",
+      "onboard_time": 1695047801,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266514,
       "num": 266514,
       "word": "钟楚曦的美拉德穿搭",
@@ -3177,14 +3249,6 @@
       "onboard_time": 1695005193,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236958,
-      "num": 236958,
-      "word": "iOS17",
-      "onboard_time": 1695047142,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 235977,
@@ -3611,6 +3675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205928,
+      "num": 205928,
+      "word": "我都不敢想长大有多帅",
+      "onboard_time": 1695049660,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205460,
       "num": 205460,
       "word": "张婧仪用手托着黄景瑜的脸",
@@ -3769,6 +3841,14 @@
       "onboard_time": 1694949333,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197169,
+      "num": 197169,
+      "word": "开车时你的左脚在干什么",
+      "onboard_time": 1695050201,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 196681,
@@ -4259,6 +4339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162936,
+      "num": 162936,
+      "word": "XYG 固定临时席位",
+      "onboard_time": 1695047624,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162399,
       "num": 162399,
       "word": "狗子演的不错就是演错了",
@@ -4707,6 +4795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130557,
+      "num": 141840,
+      "word": "很多事情到了30岁才懂",
+      "onboard_time": 1695049901,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130437,
       "num": 130437,
       "word": "福建热回来了",
@@ -4793,14 +4889,6 @@
       "onboard_time": 1695042098,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122592,
-      "num": 146808,
-      "word": "XYG 固定临时席位",
-      "onboard_time": 1695047624,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 121368,

@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695047673322,
+  "endTime": 1695050303431,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -179,6 +179,14 @@
       "category": "演出,情感"
     },
     {
+      "raw_hot": 1465141,
+      "num": 863586,
+      "word": "多邻国崩了",
+      "onboard_time": 1695048160,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1445249,
       "num": 782390,
       "word": "黑龙江发生重大刑案",
@@ -209,6 +217,14 @@
       "onboard_time": 1695025659,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1271553,
+      "num": 1271553,
+      "word": "伍佰 25岁为什么听我的歌呢",
+      "onboard_time": 1695048039,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1237895,
@@ -248,6 +264,14 @@
       "word": "夫妻偷渡到缅北后因业绩太差被打",
       "onboard_time": 1694966132,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100053,
+      "num": 1100053,
+      "word": "奇强董事长在直播间哭了",
+      "onboard_time": 1695042338,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 932852,
-      "num": 932852,
-      "word": "奇强董事长在直播间哭了",
-      "onboard_time": 1695042338,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 916078,
       "num": 916078,
       "word": "演员刘金拒绝展示iPhone购买记录",
@@ -353,6 +369,14 @@
       "onboard_time": 1694997999,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 828968,
+      "num": 828968,
+      "word": "麻辣王子好吃",
+      "onboard_time": 1695045582,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 828674,
@@ -449,14 +473,6 @@
       "onboard_time": 1695012765,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735132,
-      "num": 735132,
-      "word": "麻辣王子好吃",
-      "onboard_time": 1695045582,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 720082,
@@ -635,6 +651,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 596114,
+      "num": 596114,
+      "word": "莲花味精放弃低成本味精研发专利权",
+      "onboard_time": 1695046423,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 593290,
       "num": 355269,
       "word": "苹果称iPhone12在中国大陆符合标准",
@@ -689,6 +713,14 @@
       "onboard_time": 1695044019,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 546094,
+      "num": 546094,
+      "word": "一个宿舍六种房",
+      "onboard_time": 1695046783,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 536013,
@@ -753,6 +785,14 @@
       "onboard_time": 1695003933,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516241,
+      "num": 516241,
+      "word": "医生收到患者家属1箱牛奶发现是4万现金",
+      "onboard_time": 1695049361,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514647,
@@ -859,12 +899,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 473956,
+      "num": 221936,
+      "word": "最近贝儿是上淑女培训班了吗",
+      "onboard_time": 1695048221,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 472495,
       "num": 472495,
       "word": "强大的肠胃是一种资产",
       "onboard_time": 1694999078,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 464532,
+      "num": 464532,
+      "word": "iOS17",
+      "onboard_time": 1695047142,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 456259,
@@ -915,12 +971,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 433624,
-      "num": 433624,
-      "word": "莲花味精放弃低成本味精研发专利权",
-      "onboard_time": 1695046423,
-      "rank": 34,
-      "category": "财经,社会新闻"
+      "raw_hot": 433019,
+      "num": 530680,
+      "word": "这2项运动不利于孩子生长发育",
+      "onboard_time": 1695047801,
+      "rank": 12,
+      "category": "运动健身"
     },
     {
       "raw_hot": 431574,
@@ -953,6 +1009,14 @@
       "onboard_time": 1694995118,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411198,
+      "num": 411198,
+      "word": "眼睛好看的人真的会加分",
+      "onboard_time": 1695048940,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 411019,
@@ -1195,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324227,
+      "num": 324227,
+      "word": "有什么工作可以上半年休半年",
+      "onboard_time": 1695048940,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319244,
       "num": 319244,
       "word": "彩票中奖百万怎么兑换",
@@ -1273,14 +1345,6 @@
       "onboard_time": 1694997396,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 295184,
-      "num": 233345,
-      "word": "一个宿舍六种房",
-      "onboard_time": 1695046783,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 295035,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1695032676,
       "rank": 30,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 266970,
+      "num": 517773,
+      "word": "东海海域6.4级地震",
+      "onboard_time": 1695047801,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266339,
@@ -1553,14 +1625,6 @@
       "onboard_time": 1695005193,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236958,
-      "num": 236958,
-      "word": "iOS17",
-      "onboard_time": 1695047142,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 235919,
@@ -1755,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205928,
+      "num": 205928,
+      "word": "我都不敢想长大有多帅",
+      "onboard_time": 1695049660,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202002,
       "num": 202002,
       "word": "买了吴磊同款项链",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1695010780,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 197169,
+      "num": 197169,
+      "word": "开车时你的左脚在干什么",
+      "onboard_time": 1695050201,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 195512,
@@ -2043,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162936,
+      "num": 162936,
+      "word": "XYG 固定临时席位",
+      "onboard_time": 1695047624,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160908,
       "num": 2200574,
       "word": "全球首个茶主题世界文化遗产",
@@ -2243,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130557,
+      "num": 141840,
+      "word": "很多事情到了30岁才懂",
+      "onboard_time": 1695049901,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130492,
       "num": 130492,
       "word": "汪苏泷说芋圆cp还好着呢",
@@ -2289,14 +2385,6 @@
       "onboard_time": 1695042098,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122592,
-      "num": 146808,
-      "word": "XYG 固定临时席位",
-      "onboard_time": 1695047624,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 110622,

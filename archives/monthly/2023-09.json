@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695047673322,
+  "endTime": 1695050303431,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -3483,6 +3483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1465141,
+      "num": 863586,
+      "word": "多邻国崩了",
+      "onboard_time": 1695048160,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1465120,
       "num": 1465120,
       "word": "马龙男单夺冠",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1694523036,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1271553,
+      "num": 1271553,
+      "word": "伍佰 25岁为什么听我的歌呢",
+      "onboard_time": 1695048039,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1269622,
@@ -4976,6 +4992,14 @@
       "word": "女子高铁座位被占换回后遭3人殴打",
       "onboard_time": 1694841934,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100053,
+      "num": 1100053,
+      "word": "奇强董事长在直播间哭了",
+      "onboard_time": 1695042338,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -6179,14 +6203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 932852,
-      "num": 932852,
-      "word": "奇强董事长在直播间哭了",
-      "onboard_time": 1695042338,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 932786,
       "num": 478027,
       "word": "为什么阳光玫瑰越来越便宜了",
@@ -7185,6 +7201,14 @@
       "onboard_time": 1694255374,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 828968,
+      "num": 828968,
+      "word": "麻辣王子好吃",
+      "onboard_time": 1695045582,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 828674,
@@ -8641,14 +8665,6 @@
       "onboard_time": 1694921494,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 735132,
-      "num": 735132,
-      "word": "麻辣王子好吃",
-      "onboard_time": 1695045582,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 735080,
@@ -11579,6 +11595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 596114,
+      "num": 596114,
+      "word": "莲花味精放弃低成本味精研发专利权",
+      "onboard_time": 1695046423,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 595127,
       "num": 318903,
       "word": "跟老公冷战结果越睡越远",
@@ -12835,6 +12859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 546094,
+      "num": 546094,
+      "word": "一个宿舍六种房",
+      "onboard_time": 1695046783,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 545582,
       "num": 545582,
       "word": "终于学会高情商回复了",
@@ -13825,6 +13857,14 @@
       "onboard_time": 1695003933,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516241,
+      "num": 516241,
+      "word": "医生收到患者家属1箱牛奶发现是4万现金",
+      "onboard_time": 1695049361,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515978,
@@ -15323,6 +15363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473956,
+      "num": 221936,
+      "word": "最近贝儿是上淑女培训班了吗",
+      "onboard_time": 1695048221,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 473389,
       "num": 752352,
       "word": "原神4.1全球直播",
@@ -15697,6 +15745,14 @@
       "onboard_time": 1694077956,
       "rank": 15,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 464532,
+      "num": 464532,
+      "word": "iOS17",
+      "onboard_time": 1695047142,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 464307,
@@ -16891,14 +16947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 433624,
-      "num": 433624,
-      "word": "莲花味精放弃低成本味精研发专利权",
-      "onboard_time": 1695046423,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 433600,
       "num": 433600,
       "word": "白羊座心软的神",
@@ -16921,6 +16969,14 @@
       "onboard_time": 1693862834,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433019,
+      "num": 530680,
+      "word": "这2项运动不利于孩子生长发育",
+      "onboard_time": 1695047801,
+      "rank": 12,
+      "category": "运动健身"
     },
     {
       "raw_hot": 432948,
@@ -17993,6 +18049,14 @@
       "onboard_time": 1694868216,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411198,
+      "num": 411198,
+      "word": "眼睛好看的人真的会加分",
+      "onboard_time": 1695048940,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 410582,
@@ -22203,6 +22267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324227,
+      "num": 324227,
+      "word": "有什么工作可以上半年休半年",
+      "onboard_time": 1695048940,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324172,
       "num": 324172,
       "word": "刘雨昕罚自己多写几遍祝字",
@@ -24321,14 +24393,6 @@
       "onboard_time": 1694821588,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295184,
-      "num": 233345,
-      "word": "一个宿舍六种房",
-      "onboard_time": 1695046783,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 295133,
@@ -26505,6 +26569,14 @@
       "onboard_time": 1693700309,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266970,
+      "num": 517773,
+      "word": "东海海域6.4级地震",
+      "onboard_time": 1695047801,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266687,
@@ -29265,14 +29337,6 @@
       "onboard_time": 1694412697,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236958,
-      "num": 236958,
-      "word": "iOS17",
-      "onboard_time": 1695047142,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 236892,
@@ -32891,6 +32955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205928,
+      "num": 205928,
+      "word": "我都不敢想长大有多帅",
+      "onboard_time": 1695049660,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205915,
       "num": 205915,
       "word": "南风知我意爱情观",
@@ -34601,6 +34673,14 @@
       "onboard_time": 1694135378,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197169,
+      "num": 197169,
+      "word": "开车时你的左脚在干什么",
+      "onboard_time": 1695050201,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 197082,
@@ -39491,6 +39571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162936,
+      "num": 162936,
+      "word": "XYG 固定临时席位",
+      "onboard_time": 1695047624,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162866,
       "num": 431099,
       "word": "华为发布全新25万级问界M7",
@@ -42683,6 +42771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 130557,
+      "num": 141840,
+      "word": "很多事情到了30岁才懂",
+      "onboard_time": 1695049901,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130459,
       "num": 202406,
       "word": "200秒与大家共赏美丽杭州",
@@ -43169,14 +43265,6 @@
       "onboard_time": 1694491246,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122592,
-      "num": 146808,
-      "word": "XYG 固定临时席位",
-      "onboard_time": 1695047624,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 122368,
