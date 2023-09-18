@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695008050878,
+  "endTime": 1695011019197,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3647174,
+      "num": 1880595,
+      "word": "李在明器官因绝食严重受损",
+      "onboard_time": 1695006215,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 3458254,
       "num": 3458254,
       "word": "李在明绝食第19天健康恶化被送医",
@@ -35,12 +43,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2237033,
-      "num": 471025,
-      "word": "李在明器官因绝食严重受损",
-      "onboard_time": 1695006215,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 2125163,
+      "num": 642859,
+      "word": "预制菜",
+      "onboard_time": 1695007716,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2109511,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1002173,
-      "num": 485840,
+      "num": 574471,
       "word": "阿信 我很好请大家一定不要担心",
       "onboard_time": 1695003512,
       "rank": 32,
@@ -155,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 811496,
+      "num": 811496,
+      "word": "你知道什么是假性亲密关系吗",
+      "onboard_time": 1695006274,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 811236,
       "num": 811236,
       "word": "BOSS直聘崩了",
@@ -179,8 +195,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 748542,
-      "num": 479554,
+      "raw_hot": 767618,
+      "num": 767618,
       "word": "新公司让我节后8号入职",
       "onboard_time": 1694998899,
       "rank": 21,
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651717,
+      "num": 651717,
+      "word": "多地教育部门回应预制菜进校园",
+      "onboard_time": 1695008315,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 644111,
       "num": 314115,
       "word": "苹果客服回应辫子客服形象",
@@ -225,6 +249,14 @@
       "onboard_time": 1695001713,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598854,
+      "num": 571966,
+      "word": "台媒称103架次解放军军机在台海周边活动",
+      "onboard_time": 1695008315,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 593290,
@@ -315,8 +347,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 495091,
-      "num": 356105,
+      "raw_hot": 496516,
+      "num": 407136,
       "word": "你今年考虑买房吗",
       "onboard_time": 1695005792,
       "rank": 20,
@@ -347,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 474531,
+      "num": 474531,
+      "word": "两个拎得清的女人",
+      "onboard_time": 1695008255,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 472495,
       "num": 472495,
       "word": "强大的肠胃是一种资产",
@@ -363,6 +403,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 434469,
+      "num": 434469,
+      "word": "奥本海默现实比电影更可怕",
+      "onboard_time": 1695006993,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 426129,
+      "num": 426129,
+      "word": "广东人吃微微辣的面",
+      "onboard_time": 1695009698,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 414637,
       "num": 435806,
       "word": "92年前的血与泪不能忘也不敢忘",
@@ -377,6 +433,14 @@
       "onboard_time": 1694955758,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407752,
+      "num": 407752,
+      "word": "预制菜进校园有学生家长辞职送饭",
+      "onboard_time": 1695009339,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404894,
@@ -403,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388755,
-      "num": 241957,
-      "word": "奥本海默现实比电影更可怕",
-      "onboard_time": 1695006993,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 379110,
       "num": 204730,
       "word": "情侣看演唱会临检票才发现买成前一天",
@@ -435,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365153,
+      "num": 365153,
+      "word": "女子看热闹金手镯被人剪断险被偷",
+      "onboard_time": 1695007895,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356797,
       "num": 356797,
       "word": "丞磊弟弟也好帅",
       "onboard_time": 1695002132,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344533,
-      "num": 344533,
-      "word": "预制菜",
-      "onboard_time": 1695007716,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344405,
@@ -473,14 +529,6 @@
       "onboard_time": 1694967094,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334055,
-      "num": 325036,
-      "word": "你知道什么是假性亲密关系吗",
-      "onboard_time": 1695006274,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 329797,
@@ -523,12 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301602,
+      "num": 301602,
+      "word": "100米民警走了10多分钟",
+      "onboard_time": 1695008077,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300942,
       "num": 300942,
       "word": "原来瘦肚子也可以很轻松",
       "onboard_time": 1694961160,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 298519,
+      "num": 298519,
+      "word": "我国首次报告5例女性猴痘病例",
+      "onboard_time": 1695010361,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295721,
@@ -560,6 +624,14 @@
       "word": "男子凌晨5点蹲守晨练大爷提醒勿喊",
       "onboard_time": 1694998899,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283541,
+      "num": 283541,
+      "word": "余华英拐卖11名儿童案一审死刑",
+      "onboard_time": 1695008616,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -641,6 +713,22 @@
       "onboard_time": 1694960800,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235919,
+      "num": 235919,
+      "word": "杨玏应该庆幸路演结束了",
+      "onboard_time": 1695009218,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 229815,
+      "num": 229815,
+      "word": "有没有硬座过夜舒服的好办法",
+      "onboard_time": 1695005193,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 226527,
@@ -771,12 +859,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 198525,
-      "num": 198525,
-      "word": "有没有硬座过夜舒服的好办法",
-      "onboard_time": 1695005193,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 195512,
+      "num": 195512,
+      "word": "2023年KPOP组合专辑总销量TOP9",
+      "onboard_time": 1695010238,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 193099,
@@ -801,6 +889,14 @@
       "onboard_time": 1694993009,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187102,
+      "num": 187102,
+      "word": "九一八永远不能忘",
+      "onboard_time": 1695010780,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 179765,
@@ -944,14 +1040,6 @@
       "word": "亲历者原声回忆抗战",
       "onboard_time": 1694997999,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143047,
-      "num": 143047,
-      "word": "女子看热闹金手镯被人剪断险被偷",
-      "onboard_time": 1695007895,
-      "rank": 46,
       "category": "社会新闻"
     },
     {

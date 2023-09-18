@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 11:34:10
+本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 12:23:39
 </p>
 </blockquote>
 <p>
@@ -27,6 +27,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%99%A8%E5%AE%98%E5%9B%A0%E7%BB%9D%E9%A3%9F%E4%B8%A5%E9%87%8D%E5%8F%97%E6%8D%9F%23" target="weibo">
+李在明器官因绝食严重受损（热度：3647174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BB%9D%E9%A3%9F%E7%AC%AC19%E5%A4%A9%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96%E8%A2%AB%E9%80%81%E5%8C%BB%23" target="weibo">
 李在明绝食第19天健康恶化被送医（热度：3458254）
 </a>
@@ -39,8 +45,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%99%A8%E5%AE%98%E5%9B%A0%E7%BB%9D%E9%A3%9F%E4%B8%A5%E9%87%8D%E5%8F%97%E6%8D%9F%23" target="weibo">
-李在明器官因绝食严重受损（热度：2237033）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
+预制菜（热度：2125163）
 </a>
 </li>
 
@@ -129,6 +135,12 @@ Lisa演唱会哭了（热度：1923896）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%90%97%23" target="weibo">
+你知道什么是假性亲密关系吗（热度：811496）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BOSS%E7%9B%B4%E8%81%98%E5%B4%A9%E4%BA%86%23" target="weibo">
 BOSS直聘崩了（热度：811236）
 </a>
@@ -148,7 +160,7 @@ BOSS直聘崩了（热度：811236）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%85%AC%E5%8F%B8%E8%AE%A9%E6%88%91%E8%8A%82%E5%90%8E8%E5%8F%B7%E5%85%A5%E8%81%8C%23" target="weibo">
-新公司让我节后8号入职（热度：748542）
+新公司让我节后8号入职（热度：767618）
 </a>
 </li>
 
@@ -171,6 +183,12 @@ BOSS直聘崩了（热度：811236）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%23" target="weibo">
+多地教育部门回应预制菜进校园（热度：651717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E5%BD%A2%E8%B1%A1%23" target="weibo">
 苹果客服回应辫子客服形象（热度：644111）
 </a>
@@ -179,6 +197,12 @@ BOSS直聘崩了（热度：811236）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E7%9D%80%E6%8A%91%E9%83%81%E7%97%87%E5%A6%BB%E5%AD%90%E4%B8%80%E8%B5%B7%E9%80%81%E5%A4%96%E5%8D%96%23" target="weibo">
 男子带着抑郁症妻子一起送外卖（热度：634549）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0103%E6%9E%B6%E6%AC%A1%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8%23" target="weibo">
+台媒称103架次解放军军机在台海周边活动（热度：598854）
 </a>
 </li>
 
@@ -250,7 +274,7 @@ Jennie演唱会哭了（热度：580002）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%8A%E5%B9%B4%E8%80%83%E8%99%91%E4%B9%B0%E6%88%BF%E5%90%97%23" target="weibo">
-你今年考虑买房吗（热度：495091）
+你今年考虑买房吗（热度：496516）
 </a>
 </li>
 
@@ -273,6 +297,12 @@ BLACKPINK说以后会以更好的样子和大家见面（热度：483279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E6%8B%8E%E5%BE%97%E6%B8%85%E7%9A%84%E5%A5%B3%E4%BA%BA%23" target="weibo">
+两个拎得清的女人（热度：474531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%82%A0%E8%83%83%E6%98%AF%E4%B8%80%E7%A7%8D%E8%B5%84%E4%BA%A7%23" target="weibo">
 强大的肠胃是一种资产（热度：472495）
 </a>
@@ -285,6 +315,18 @@ BLACKPINK说以后会以更好的样子和大家见面（热度：483279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%8E%B0%E5%AE%9E%E6%AF%94%E7%94%B5%E5%BD%B1%E6%9B%B4%E5%8F%AF%E6%80%95%23" target="weibo">
+奥本海默现实比电影更可怕（热度：434469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%90%83%E5%BE%AE%E5%BE%AE%E8%BE%A3%E7%9A%84%E9%9D%A2%23" target="weibo">
+广东人吃微微辣的面（热度：426129）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2392%E5%B9%B4%E5%89%8D%E7%9A%84%E8%A1%80%E4%B8%8E%E6%B3%AA%E4%B8%8D%E8%83%BD%E5%BF%98%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%BF%98%23" target="weibo">
 92年前的血与泪不能忘也不敢忘（热度：414637）
 </a>
@@ -293,6 +335,12 @@ BLACKPINK说以后会以更好的样子和大家见面（热度：483279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23" target="weibo">
 金晨打水仗被迫卸妆了（热度：411019）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E6%9C%89%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E8%BE%9E%E8%81%8C%E9%80%81%E9%A5%AD%23" target="weibo">
+预制菜进校园有学生家长辞职送饭（热度：407752）
 </a>
 </li>
 
@@ -315,12 +363,6 @@ BLACKPINK说以后会以更好的样子和大家见面（热度：483279）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%8E%B0%E5%AE%9E%E6%AF%94%E7%94%B5%E5%BD%B1%E6%9B%B4%E5%8F%AF%E6%80%95%23" target="weibo">
-奥本海默现实比电影更可怕（热度：388755）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%B4%E6%A3%80%E7%A5%A8%E6%89%8D%E5%8F%91%E7%8E%B0%E4%B9%B0%E6%88%90%E5%89%8D%E4%B8%80%E5%A4%A9%23" target="weibo">
 情侣看演唱会临检票才发现买成前一天（热度：379110）
 </a>
@@ -339,14 +381,14 @@ iPhone15系列机型维修费用（热度：374902）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%BC%9F%E5%BC%9F%E4%B9%9F%E5%A5%BD%E5%B8%85%23" target="weibo">
-丞磊弟弟也好帅（热度：356797）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%83%AD%E9%97%B9%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E4%BA%BA%E5%89%AA%E6%96%AD%E9%99%A9%E8%A2%AB%E5%81%B7%23" target="weibo">
+女子看热闹金手镯被人剪断险被偷（热度：365153）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
-预制菜（热度：344533）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%BC%9F%E5%BC%9F%E4%B9%9F%E5%A5%BD%E5%B8%85%23" target="weibo">
+丞磊弟弟也好帅（热度：356797）
 </a>
 </li>
 
@@ -365,12 +407,6 @@ iPhone15系列机型维修费用（热度：374902）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E5%9C%A8%E8%BF%99%E9%87%8C%E7%88%86%E5%8F%91%23" target="weibo">
 九一八事变在这里爆发（热度：336832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%90%97%23" target="weibo">
-你知道什么是假性亲密关系吗（热度：334055）
 </a>
 </li>
 
@@ -405,8 +441,20 @@ A股（热度：310292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23100%E7%B1%B3%E6%B0%91%E8%AD%A6%E8%B5%B0%E4%BA%8610%E5%A4%9A%E5%88%86%E9%92%9F%23" target="weibo">
+100米民警走了10多分钟（热度：301602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%98%A6%E8%82%9A%E5%AD%90%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%BE%88%E8%BD%BB%E6%9D%BE%23" target="weibo">
 原来瘦肚子也可以很轻松（热度：300942）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E6%8A%A5%E5%91%8A5%E4%BE%8B%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23" target="weibo">
+我国首次报告5例女性猴痘病例（热度：298519）
 </a>
 </li>
 
@@ -431,6 +479,12 @@ A股（热度：310292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A85%E7%82%B9%E8%B9%B2%E5%AE%88%E6%99%A8%E7%BB%83%E5%A4%A7%E7%88%B7%E6%8F%90%E9%86%92%E5%8B%BF%E5%96%8A%23" target="weibo">
 男子凌晨5点蹲守晨练大爷提醒勿喊（热度：285745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%8B%90%E5%8D%9611%E5%90%8D%E5%84%BF%E7%AB%A5%E6%A1%88%E4%B8%80%E5%AE%A1%E6%AD%BB%E5%88%91%23" target="weibo">
+余华英拐卖11名儿童案一审死刑（热度：283541）
 </a>
 </li>
 
@@ -491,6 +545,18 @@ A股（热度：310292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%92%B3%E5%97%BD%E5%8D%8A%E6%9C%88%E6%B0%94%E7%AE%A1%E5%8F%91%E7%8E%B08cm%E8%9A%82%E8%9F%A5%23" target="weibo">
 女子咳嗽半月气管发现8cm蚂蟥（热度：238416）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E5%BA%94%E8%AF%A5%E5%BA%86%E5%B9%B8%E8%B7%AF%E6%BC%94%E7%BB%93%E6%9D%9F%E4%BA%86%23" target="weibo">
+杨玏应该庆幸路演结束了（热度：235919）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A1%AC%E5%BA%A7%E8%BF%87%E5%A4%9C%E8%88%92%E6%9C%8D%E7%9A%84%E5%A5%BD%E5%8A%9E%E6%B3%95%23" target="weibo">
+有没有硬座过夜舒服的好办法（热度：229815）
 </a>
 </li>
 
@@ -591,8 +657,8 @@ A股（热度：310292）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A1%AC%E5%BA%A7%E8%BF%87%E5%A4%9C%E8%88%92%E6%9C%8D%E7%9A%84%E5%A5%BD%E5%8A%9E%E6%B3%95%23" target="weibo">
-有没有硬座过夜舒服的好办法（热度：198525）
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4KPOP%E7%BB%84%E5%90%88%E4%B8%93%E8%BE%91%E6%80%BB%E9%94%80%E9%87%8FTOP9%23" target="weibo">
+2023年KPOP组合专辑总销量TOP9（热度：195512）
 </a>
 </li>
 
@@ -611,6 +677,12 @@ A股（热度：310292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8B%BF%E5%BF%98%E4%B9%9D%E4%B8%80%E5%85%AB%23" target="weibo">
 勿忘九一八（热度：187822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%23" target="weibo">
+九一八永远不能忘（热度：187102）
 </a>
 </li>
 
@@ -719,12 +791,6 @@ A股（热度：310292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E5%8E%9F%E5%A3%B0%E5%9B%9E%E5%BF%86%E6%8A%97%E6%88%98%23" target="weibo">
 亲历者原声回忆抗战（热度：144896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%83%AD%E9%97%B9%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E4%BA%BA%E5%89%AA%E6%96%AD%E9%99%A9%E8%A2%AB%E5%81%B7%23" target="weibo">
-女子看热闹金手镯被人剪断险被偷（热度：143047）
 </a>
 </li>
 
