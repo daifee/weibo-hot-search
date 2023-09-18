@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695011846131,
+  "endTime": 1695014148826,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -59,12 +59,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2025266,
+      "num": 2025266,
+      "word": "我国首次报告5例女性猴痘病例",
+      "onboard_time": 1695010361,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1923896,
       "num": 884824,
       "word": "Lisa演唱会哭了",
       "onboard_time": 1694992408,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1516962,
+      "num": 1516962,
+      "word": "多家国货宣布九一八当天停播",
+      "onboard_time": 1695011319,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1485931,
@@ -179,6 +195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 809595,
+      "num": 547722,
+      "word": "傅首尔 老刘",
+      "onboard_time": 1695013421,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 804996,
       "num": 804996,
       "word": "磨牙的原因",
@@ -203,11 +227,19 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 743517,
-      "num": 743517,
-      "word": "我国首次报告5例女性猴痘病例",
-      "onboard_time": 1695010361,
-      "rank": 27,
+      "raw_hot": 755094,
+      "num": 755094,
+      "word": "学校反诈案例 鹿晗短信",
+      "onboard_time": 1695012403,
+      "rank": 6,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 720082,
+      "num": 660273,
+      "word": "预制菜进校园有学生家长辞职送饭",
+      "onboard_time": 1695009339,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -227,11 +259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 660273,
-      "num": 660273,
-      "word": "预制菜进校园有学生家长辞职送饭",
-      "onboard_time": 1695009339,
-      "rank": 19,
+      "raw_hot": 675082,
+      "num": 675082,
+      "word": "猴痘未来可能出现家庭内传播",
+      "onboard_time": 1695012765,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -257,6 +289,14 @@
       "onboard_time": 1694955880,
       "rank": 17,
       "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 637663,
+      "num": 523750,
+      "word": "莲花楼云之羽海报相似度",
+      "onboard_time": 1695011383,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 634549,
@@ -307,12 +347,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 540876,
-      "num": 540876,
-      "word": "多家国货宣布九一八当天停播",
-      "onboard_time": 1695011319,
-      "rank": 16,
-      "category": "国内要闻"
+      "raw_hot": 568746,
+      "num": 568746,
+      "word": "父母离异男孩被弃车站哭泣民警出手",
+      "onboard_time": 1695011863,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546903,
+      "num": 427972,
+      "word": "苹果高管称iPhone15Pro将成最好的游戏机",
+      "onboard_time": 1695012942,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 536013,
@@ -363,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513715,
+      "num": 420312,
+      "word": "房子烂尾婆婆被儿媳妇赶出家门",
+      "onboard_time": 1695013121,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509322,
       "num": 312646,
       "word": "真正的富二代留学生的生活",
@@ -403,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484571,
+      "num": 484571,
+      "word": "鸿星尔克走秀结尾 国货",
+      "onboard_time": 1695011565,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 483279,
       "num": 483279,
       "word": "BLACKPINK说以后会以更好的样子和大家见面",
       "onboard_time": 1694992891,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 479509,
+      "num": 406607,
+      "word": "西安交大回应留学生专用垃圾桶事件",
+      "onboard_time": 1695011565,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472495,
@@ -483,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387642,
+      "num": 387642,
+      "word": "余华英拐卖11名儿童案一审死刑",
+      "onboard_time": 1695008616,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379110,
       "num": 204730,
       "word": "情侣看演唱会临检票才发现买成前一天",
@@ -499,20 +579,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 374189,
+      "num": 374189,
+      "word": "男子被杠铃压死健身房老板再发声",
+      "onboard_time": 1695012164,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370329,
       "num": 370329,
       "word": "赵丽颖直播",
       "onboard_time": 1694955578,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366339,
-      "num": 366339,
-      "word": "莲花楼云之羽海报相似度",
-      "onboard_time": 1695011383,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 365153,
@@ -539,20 +619,20 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 342186,
-      "num": 342186,
-      "word": "余华英拐卖11名儿童案一审死刑",
-      "onboard_time": 1695008616,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338739,
       "num": 338739,
       "word": "女子辞去十年工作带留守孩子读书",
       "onboard_time": 1695002073,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338674,
+      "num": 338674,
+      "word": "精心 希望大家了解硅油",
+      "onboard_time": 1695013603,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 336832,
@@ -579,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323813,
+      "num": 323813,
+      "word": "曾被日军盖不许可印戳的照片首次公开",
+      "onboard_time": 1695012942,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 313649,
       "num": 312103,
       "word": "本周狗屎运最旺的星座",
@@ -593,6 +681,22 @@
       "onboard_time": 1695002558,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 309946,
+      "num": 309946,
+      "word": "2岁男童独自出门去幼儿园被秒送回",
+      "onboard_time": 1695013182,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304706,
+      "num": 304706,
+      "word": "莲花味精 谣言",
+      "onboard_time": 1695013720,
+      "rank": 33,
+      "category": "知识科普"
     },
     {
       "raw_hot": 303718,
@@ -731,14 +835,6 @@
       "category": "社会新闻,数码"
     },
     {
-      "raw_hot": 242392,
-      "num": 242392,
-      "word": "西安交大回应留学生专用垃圾桶事件",
-      "onboard_time": 1695011565,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238416,
       "num": 238416,
       "word": "女子咳嗽半月气管发现8cm蚂蟥",
@@ -761,14 +857,6 @@
       "onboard_time": 1695009218,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 227464,
-      "num": 227464,
-      "word": "鸿星尔克走秀结尾 国货",
-      "onboard_time": 1695011565,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 226527,
