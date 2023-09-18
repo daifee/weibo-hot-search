@@ -1,0 +1,410 @@
+{
+  "runTime": 1695018144141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2079475,
+        "num": 2079475,
+        "word": "国庆8天假7个朋友结婚",
+        "onboard_time": 1695015097,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 721027,
+        "num": 721027,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1695005012,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19504,
+        "num": 666378,
+        "word": "展示共建一带一路的信心",
+        "onboard_time": 1695004713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640406,
+        "num": 640406,
+        "word": "莲花味精 谣言",
+        "onboard_time": 1695013720,
+        "rank": 3,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 627929,
+        "num": 627929,
+        "word": "多家国货宣布九一八当天停播",
+        "onboard_time": 1695011319,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 566976,
+        "num": 566976,
+        "word": "鸡精配料表第一位就是味精",
+        "onboard_time": 1695016597,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 493144,
+        "num": 493144,
+        "word": "西安交大回应留学生专用垃圾桶事件",
+        "onboard_time": 1695011565,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438999,
+        "num": 438999,
+        "word": "精心 希望大家了解硅油",
+        "onboard_time": 1695013603,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 417815,
+        "num": 417815,
+        "word": "曾被日军盖不许可印戳的照片首次公开",
+        "onboard_time": 1695012942,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 402768,
+        "num": 402768,
+        "word": "918",
+        "onboard_time": 1694992225,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1496602,
+        "num": 402339,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1695013421,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1015856,
+        "num": 391062,
+        "word": "濒死时会感觉身边多了一个人",
+        "onboard_time": 1695014856,
+        "rank": 11,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1007592,
+        "num": 386996,
+        "word": "我国首次报告5例女性猴痘病例",
+        "onboard_time": 1695010361,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961726,
+        "num": 378135,
+        "word": "李在明器官因绝食严重受损",
+        "onboard_time": 1695006215,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 146657,
+        "num": 375245,
+        "word": "九一八事变爆发92周年",
+        "onboard_time": 1694994994,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 738268,
+        "num": 366806,
+        "word": "出现女性猴痘感染者意味着什么",
+        "onboard_time": 1695018096,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522405,
+        "num": 358788,
+        "word": "为什么音乐节都是这种厕所",
+        "onboard_time": 1695001654,
+        "rank": 16,
+        "category": "演出,情感"
+      },
+      {
+        "raw_hot": 356838,
+        "num": 356838,
+        "word": "8旬老人网购上瘾直播间买100多条饰品",
+        "onboard_time": 1695016056,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351072,
+        "num": 351072,
+        "word": "父母离异男孩被弃车站哭泣民警出手",
+        "onboard_time": 1695011863,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334266,
+        "num": 334266,
+        "word": "防空警报",
+        "onboard_time": 1695002373,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 512949,
+        "num": 332891,
+        "word": "苹果高管称iPhone15Pro将成最好的游戏机",
+        "onboard_time": 1695012942,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 472205,
+        "num": 331514,
+        "word": "房子烂尾婆婆被儿媳妇赶出家门",
+        "onboard_time": 1695013121,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324032,
+        "num": 324032,
+        "word": "莲花楼云之羽海报相似度",
+        "onboard_time": 1695011383,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304100,
+        "num": 304100,
+        "word": "傅云深唯一瘫痪了还那么迷人的男人",
+        "onboard_time": 1695016234,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282136,
+        "num": 282136,
+        "word": "学校反诈案例 鹿晗短信",
+        "onboard_time": 1695012403,
+        "rank": 24,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 258809,
+        "num": 258809,
+        "word": "四六级",
+        "onboard_time": 1695015337,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229435,
+        "num": 229435,
+        "word": "2岁男童独自出门去幼儿园被秒送回",
+        "onboard_time": 1695013182,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213405,
+        "num": 213405,
+        "word": "你知道什么是假性亲密关系吗",
+        "onboard_time": 1695006274,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202002,
+        "num": 202002,
+        "word": "买了吴磊同款项链",
+        "onboard_time": 1695015995,
+        "rank": 28,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 196129,
+        "num": 196129,
+        "word": "新公司让我节后8号入职",
+        "onboard_time": 1694998899,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195173,
+        "num": 195173,
+        "word": "男子被杠铃压死健身房老板再发声",
+        "onboard_time": 1695012164,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179988,
+        "num": 179988,
+        "word": "阿信 我很好请大家一定不要担心",
+        "onboard_time": 1695003512,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179561,
+        "num": 179561,
+        "word": "预制菜进校园有学生家长辞职送饭",
+        "onboard_time": 1695009339,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174541,
+        "num": 174541,
+        "word": "不经意却对皮肤好的习惯",
+        "onboard_time": 1694997999,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 154537,
+        "num": 154537,
+        "word": "韩国检方申请拘捕李在明",
+        "onboard_time": 1694999497,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153145,
+        "num": 153145,
+        "word": "父亲陪女儿备战高考自己成功考研",
+        "onboard_time": 1695014795,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152622,
+        "num": 152622,
+        "word": "邢台巨响",
+        "onboard_time": 1695014434,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135198,
+        "num": 135198,
+        "word": "考研的动力在此刻到达巅峰",
+        "onboard_time": 1695003813,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132552,
+        "num": 132552,
+        "word": "奥本海默现实比电影更可怕",
+        "onboard_time": 1695006993,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131931,
+        "num": 131931,
+        "word": "陆毅关智斌好像老年人用手机",
+        "onboard_time": 1695003933,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131450,
+        "num": 131450,
+        "word": "很难看到肖战在红毯上这么拘谨",
+        "onboard_time": 1694995957,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130340,
+        "num": 130340,
+        "word": "彩票中奖百万怎么兑换",
+        "onboard_time": 1695017735,
+        "rank": 41,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 129460,
+        "num": 129460,
+        "word": "李兰迪这个发型好适合方圆脸女生",
+        "onboard_time": 1694960019,
+        "rank": 42,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 124169,
+        "num": 124169,
+        "word": "中芯国际",
+        "onboard_time": 1695018034,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123163,
+        "num": 123163,
+        "word": "鸿星尔克走秀结尾 国货",
+        "onboard_time": 1695011565,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 120665,
+        "num": 120665,
+        "word": "每个人都该铭记九一八",
+        "onboard_time": 1694994873,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 119309,
+        "num": 119309,
+        "word": "你今年考虑买房吗",
+        "onboard_time": 1695005792,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 114907,
+        "num": 114907,
+        "word": "两个拎得清的女人",
+        "onboard_time": 1695008255,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109187,
+        "num": 109187,
+        "word": "莲花楼评分涨至8.3",
+        "onboard_time": 1695011623,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101486,
+        "num": 101486,
+        "word": "92年前的血与泪不能忘也不敢忘",
+        "onboard_time": 1694995118,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎亚运的氛围感已拉满#"
+    }
+  }
+}
