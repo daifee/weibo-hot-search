@@ -1,7 +1,15 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695000696072,
+  "endTime": 1695003767907,
   "band_list": [
+    {
+      "raw_hot": 4830369,
+      "num": 4830369,
+      "word": "防空警报",
+      "onboard_time": 1695002373,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4670876,
       "num": 4670876,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 2109511,
-      "num": 466472,
+      "num": 1898816,
       "word": "韩国检方申请拘捕李在明",
       "onboard_time": 1694999497,
       "rank": 10,
@@ -57,6 +65,14 @@
       "onboard_time": 1694960019,
       "rank": 10,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 1151190,
+      "num": 1151190,
+      "word": "为什么音乐节都是这种厕所",
+      "onboard_time": 1695001654,
+      "rank": 4,
+      "category": "演出,情感"
     },
     {
       "raw_hot": 1130597,
@@ -195,6 +211,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532685,
+      "num": 532685,
+      "word": "房地产税立法暂缓",
+      "onboard_time": 1695001654,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526105,
+      "num": 421794,
+      "word": "男子带着抑郁症妻子一起送外卖",
+      "onboard_time": 1695001713,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520677,
       "num": 315296,
       "word": "卢昱晓早期发疯文学",
@@ -291,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404894,
+      "num": 404894,
+      "word": "华为归来对iPhone影响还需观察",
+      "onboard_time": 1695002132,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 398578,
       "num": 313465,
       "word": "白桃星运十二星座一周运势",
       "onboard_time": 1694964216,
       "rank": 19,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 392234,
+      "num": 392234,
+      "word": "918鸣笛",
+      "onboard_time": 1695001591,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379110,
@@ -331,6 +379,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 338739,
+      "num": 338739,
+      "word": "女子辞去十年工作带留守孩子读书",
+      "onboard_time": 1695002073,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336832,
       "num": 212002,
       "word": "九一八事变在这里爆发",
@@ -345,6 +401,22 @@
       "onboard_time": 1694964216,
       "rank": 22,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 304523,
+      "num": 304523,
+      "word": "A股",
+      "onboard_time": 1695002558,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 304390,
+      "num": 304390,
+      "word": "丞磊弟弟也好帅",
+      "onboard_time": 1695002132,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300942,
@@ -435,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246013,
+      "num": 203430,
+      "word": "房东最害怕什么样的租客",
+      "onboard_time": 1695002797,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245369,
       "num": 245369,
       "word": "辫子客服事件会影响你买苹果产品吗",
@@ -449,6 +529,22 @@
       "onboard_time": 1694960800,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236872,
+      "num": 236872,
+      "word": "大妈给30多岁儿子找越南新娘被骗",
+      "onboard_time": 1695002859,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224491,
+      "num": 203246,
+      "word": "淘来的东西进了我家以后的样子",
+      "onboard_time": 1695002012,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 223372,
@@ -489,6 +585,14 @@
       "onboard_time": 1694950111,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212953,
+      "num": 195688,
+      "word": "阿信 我很好请大家一定不要担心",
+      "onboard_time": 1695003512,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210398,
@@ -555,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174664,
+      "num": 174664,
+      "word": "向日葵远程",
+      "onboard_time": 1695003274,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166681,
       "num": 166681,
       "word": "男子疑嫌楼上吵当2孩子面杀其父母",
@@ -579,6 +691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160793,
+      "num": 160793,
+      "word": "云之羽这段真的给我难受死了",
+      "onboard_time": 1695003636,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159524,
+      "num": 159524,
+      "word": "14声警世钟在沈阳空中回荡",
+      "onboard_time": 1695002073,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158078,
       "num": 158078,
       "word": "沈腾马丽小学生打架",
@@ -593,6 +721,14 @@
       "onboard_time": 1694958639,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154770,
+      "num": 154770,
+      "word": "视障女生挑战天下第一考",
+      "onboard_time": 1695003574,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153183,
@@ -828,7 +964,7 @@
     },
     {
       "raw_hot": 23367,
-      "num": 1239327,
+      "num": 2341853,
       "word": "我国科学家研发出新型稀土开采技术",
       "onboard_time": 1694921074,
       "rank": 2,
