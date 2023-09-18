@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 20:49:55
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 21:19:25
 </p>
 </blockquote>
 <p>
@@ -2157,6 +2157,12 @@ iPhone信号太差或将解决（热度：1716894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
+THE9解散演唱会要来了（热度：1667497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%8C%BA%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE%23" target="weibo">
 北京多区震感明显（热度：1663551）
 </a>
@@ -3729,12 +3735,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-THE9解散演唱会要来了（热度：1100464）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E9%87%8D%E9%87%8F%E7%BA%A7%E5%AE%BF%E8%88%8D%23" target="weibo">
 清华大学研究生重量级宿舍（热度：1098930）
 </a>
@@ -4983,6 +4983,12 @@ iPhone15机型比例为3比1（热度：906244）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%85%88%E7%A6%A7%E5%8D%A7%E5%AE%A4%E5%92%8C%E6%88%91%E7%9A%84%E5%B7%AE%E4%B8%8D%E5%A4%9A%23" target="weibo">
+原来慈禧卧室和我的差不多（热度：882743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23" target="weibo">
 大学生贷款参加就业培训后自缢身亡（热度：882679）
 </a>
@@ -5297,6 +5303,12 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E5%BF%98%E6%91%98%E4%BA%86%23" target="weibo">
 宫尚角隐形眼镜忘摘了（热度：838357）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%B1%85%E7%84%B6%E8%BF%98%E5%BC%80%E8%AE%BE%E4%BA%B2%E5%AD%90%E7%8F%AD%23" target="weibo">
+靖国神社居然还开设亲子班（热度：838022）
 </a>
 </li>
 
@@ -5799,12 +5811,6 @@ Mystic前女友发长文控诉（热度：795788）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%85%88%E7%A6%A7%E5%8D%A7%E5%AE%A4%E5%92%8C%E6%88%91%E7%9A%84%E5%B7%AE%E4%B8%8D%E5%A4%9A%23" target="weibo">
-原来慈禧卧室和我的差不多（热度：792967）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%A5%A8%E6%88%BF%20%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%81%B7%E4%BA%86%E8%B0%81%23" target="weibo">
 偷票房 到底是谁偷了谁（热度：792528）
 </a>
@@ -6005,12 +6011,6 @@ fx十四周年（热度：777250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%8B%8D%E7%85%A7%E8%A2%AB%E8%AE%A4%E4%BD%9C%E6%97%A5%E6%9C%AC%E6%9C%8D%E9%A5%B0%E9%A9%B1%E8%B5%B6%23" target="weibo">
 女子穿汉服拍照被认作日本服饰驱赶（热度：770884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E9%80%80%E5%9B%9E%E5%A5%B6%E8%8C%B6%E9%92%B1%23" target="weibo">
-离职后被要求退回奶茶钱（热度：769622）
 </a>
 </li>
 

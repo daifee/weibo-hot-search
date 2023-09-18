@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695041395876,
+  "endTime": 1695043165859,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1667497,
+      "num": 1667497,
+      "word": "THE9解散演唱会要来了",
+      "onboard_time": 1695040298,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1623236,
       "num": 1623236,
       "word": "小伙误把奶茶赠品雪花膏当雪糕吃",
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1100464,
-      "num": 1100464,
-      "word": "THE9解散演唱会要来了",
-      "onboard_time": 1695040298,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1094795,
       "num": 837773,
       "word": "陈坤 坦然接受生命中的一切",
@@ -291,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882743,
+      "num": 391252,
+      "word": "原来慈禧卧室和我的差不多",
+      "onboard_time": 1695040298,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 874051,
       "num": 374249,
       "word": "不经意却对皮肤好的习惯",
       "onboard_time": 1694997999,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 838022,
+      "num": 369767,
+      "word": "靖国神社居然还开设亲子班",
+      "onboard_time": 1695040657,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 828674,
@@ -345,14 +361,6 @@
       "onboard_time": 1694998899,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 792967,
-      "num": 391252,
-      "word": "原来慈禧卧室和我的差不多",
-      "onboard_time": 1695040298,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 791413,
@@ -459,6 +467,14 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 693522,
+      "num": 693522,
+      "word": "广州区伯去世",
+      "onboard_time": 1695040958,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680104,
       "num": 470588,
       "word": "iPhone15ProMax到货比例为近几年最低",
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627346,
+      "num": 627346,
+      "word": "梁静茹 倒嗓",
+      "onboard_time": 1695042158,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 612526,
       "num": 612526,
       "word": "精心 希望大家了解硅油",
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538401,
+      "num": 192389,
+      "word": "居然有人把飘窗做成了洗脚池",
+      "onboard_time": 1695042338,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 536013,
       "num": 536013,
       "word": "两个拎得清的女人",
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 532056,
-      "num": 361690,
+      "num": 368042,
       "word": "苹果门店回应刘金怒摔iPhone",
       "onboard_time": 1695037053,
       "rank": 15,
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 480465,
-      "num": 316172,
+      "num": 339204,
       "word": "原来刷牙是刷牙龈",
       "onboard_time": 1695039517,
       "rank": 20,
@@ -785,6 +817,14 @@
       "onboard_time": 1694999078,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 463392,
+      "num": 463392,
+      "word": "奇强董事长在直播间哭了",
+      "onboard_time": 1695042338,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456259,
@@ -987,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367904,
+      "num": 367904,
+      "word": "焦虑症 太想活了又怕活不好",
+      "onboard_time": 1695039815,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 365153,
       "num": 365153,
       "word": "女子看热闹金手镯被人剪断险被偷",
@@ -1003,28 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358997,
-      "num": 358997,
-      "word": "靖国神社居然还开设亲子班",
-      "onboard_time": 1695040657,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356797,
       "num": 356797,
       "word": "丞磊弟弟也好帅",
       "onboard_time": 1695002132,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355759,
-      "num": 355759,
-      "word": "焦虑症 太想活了又怕活不好",
-      "onboard_time": 1695039815,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 349341,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1695002797,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328765,
+      "num": 191117,
+      "word": "上班不到两小时被辞退了",
+      "onboard_time": 1695042338,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 324676,
@@ -1443,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230903,
+      "num": 230903,
+      "word": "薛之谦广州抢票",
+      "onboard_time": 1695042761,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226527,
       "num": 226527,
       "word": "你要的全拿走林俊杰胡彦斌现场版",
@@ -1523,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217443,
+      "num": 217443,
+      "word": "会花一千路费参加朋友婚礼吗",
+      "onboard_time": 1695042338,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217109,
       "num": 217109,
       "word": "夭璟 带我走",
@@ -1544,14 +1600,6 @@
       "word": "路边捡到价值5万金项链他们果断报警",
       "onboard_time": 1695022537,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213704,
-      "num": 213704,
-      "word": "广州区伯去世",
-      "onboard_time": 1695040958,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1649,6 +1697,14 @@
       "onboard_time": 1695010238,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193114,
+      "num": 193114,
+      "word": "南风知我意",
+      "onboard_time": 1695041798,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 193099,
@@ -2051,6 +2107,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 126026,
+      "num": 126026,
+      "word": "不理解越舒服的姿势越有害",
+      "onboard_time": 1695042218,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124645,
       "num": 124645,
       "word": "赵昭仪 花儿与少年",
@@ -2081,6 +2145,14 @@
       "onboard_time": 1695018034,
       "rank": 46,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 109462,
+      "num": 109462,
+      "word": "梁静茹再唱燕尾蝶",
+      "onboard_time": 1695042939,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 109286,
@@ -2153,6 +2225,14 @@
       "onboard_time": 1694955819,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66059,
+      "num": 775437,
+      "word": "导师在太空开了门实验课",
+      "onboard_time": 1695042098,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58171,
