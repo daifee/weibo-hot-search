@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695065635564,
+  "endTime": 1695068265887,
   "band_list": [
     {
       "raw_hot": 1494904,
@@ -467,8 +467,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 24907,
-      "num": 24907,
+      "raw_hot": 25567,
+      "num": 25567,
       "word": "你永远可以相信西湖的日落",
       "onboard_time": 1695059296,
       "rank": 34,
@@ -481,6 +481,14 @@
       "onboard_time": 1695060496,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 13671,
+      "num": 13671,
+      "word": "当狗子遇到机器狗",
+      "onboard_time": 1695065713,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
