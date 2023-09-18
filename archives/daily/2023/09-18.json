@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695018926612,
+  "endTime": 1695021391452,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -41,6 +41,14 @@
       "onboard_time": 1695005012,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2402862,
+      "num": 2402862,
+      "word": "演员刘金苹果店前怒摔iPhone",
+      "onboard_time": 1695018153,
+      "rank": 1,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 2246595,
@@ -113,14 +121,6 @@
       "onboard_time": 1694951733,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261701,
-      "num": 1261701,
-      "word": "演员刘金苹果店前怒摔iPhone",
-      "onboard_time": 1695018153,
-      "rank": 1,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 1237895,
@@ -251,7 +251,7 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 755785,
+      "raw_hot": 789944,
       "num": 441214,
       "word": "出现女性猴痘感染者意味着什么",
       "onboard_time": 1695014618,
@@ -297,6 +297,14 @@
       "onboard_time": 1694994873,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704175,
+      "num": 382184,
+      "word": "中芯国际",
+      "onboard_time": 1695018034,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 703391,
@@ -387,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 588558,
+      "num": 588558,
+      "word": "猪油",
+      "onboard_time": 1695020374,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580002,
       "num": 580002,
       "word": "Jennie演唱会哭了",
@@ -425,14 +441,6 @@
       "onboard_time": 1695011863,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543473,
-      "num": 382184,
-      "word": "中芯国际",
-      "onboard_time": 1695018034,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 536013,
@@ -539,6 +547,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 484546,
+      "num": 335706,
+      "word": "13岁男孩花318元烫发家人报警",
+      "onboard_time": 1695019175,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483279,
       "num": 483279,
       "word": "BLACKPINK说以后会以更好的样子和大家见面",
@@ -561,6 +577,14 @@
       "onboard_time": 1694962236,
       "rank": 6,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 455396,
+      "num": 455396,
+      "word": "傅云深唯一瘫痪了还那么迷人的男人",
+      "onboard_time": 1695016234,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 443305,
@@ -691,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362459,
+      "num": 362459,
+      "word": "莲花味精配料表只有小麦",
+      "onboard_time": 1695019535,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356797,
       "num": 356797,
       "word": "丞磊弟弟也好帅",
@@ -739,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319244,
+      "num": 319244,
+      "word": "彩票中奖百万怎么兑换",
+      "onboard_time": 1695017735,
+      "rank": 41,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 313649,
       "num": 312103,
       "word": "本周狗屎运最旺的星座",
@@ -747,20 +787,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 313482,
+      "num": 313482,
+      "word": "我怀疑我奶被大学生魂穿了",
+      "onboard_time": 1695021034,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310292,
       "num": 310292,
       "word": "A股",
       "onboard_time": 1695002558,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 307297,
-      "num": 307297,
-      "word": "傅云深唯一瘫痪了还那么迷人的男人",
-      "onboard_time": 1695016234,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 303718,
@@ -851,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275719,
+      "num": 275719,
+      "word": "中性笔后面的神秘液体是什么",
+      "onboard_time": 1695019175,
+      "rank": 24,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 272528,
       "num": 272528,
       "word": "原来高铁站台是禁止吸烟的",
@@ -875,20 +923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261627,
+      "num": 261627,
+      "word": "研究称地球支撑文明的9大边界已过6个",
+      "onboard_time": 1695019113,
+      "rank": 25,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 261392,
       "num": 261392,
       "word": "今日中国再不是1931年的中国",
       "onboard_time": 1694992648,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 260938,
-      "num": 260938,
-      "word": "彩票中奖百万怎么兑换",
-      "onboard_time": 1695017735,
-      "rank": 41,
-      "category": "知识科普"
     },
     {
       "raw_hot": 260047,
@@ -921,6 +969,14 @@
       "onboard_time": 1694976916,
       "rank": 41,
       "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 241376,
+      "num": 349848,
+      "word": "慰安妇制度受害幸存者在册仅剩10人",
+      "onboard_time": 1695020854,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 238416,
@@ -1115,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195177,
+      "num": 195177,
+      "word": "开水冲鸡蛋",
+      "onboard_time": 1695020794,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 193099,
       "num": 193099,
       "word": "云之羽温峥嵘演技",
@@ -1131,12 +1195,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190166,
+      "num": 190166,
+      "word": "731部队用跳蚤感染鼠疫后咬人",
+      "onboard_time": 1695021096,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 189998,
+      "num": 189998,
+      "word": "还有比竹子更耐看的植物吗",
+      "onboard_time": 1695020974,
+      "rank": 34,
+      "category": "自然"
+    },
+    {
       "raw_hot": 187822,
       "num": 269676,
       "word": "勿忘九一八",
       "onboard_time": 1694993009,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187447,
+      "num": 187447,
+      "word": "男子用辣椒油做活络油无比滴获刑12年",
+      "onboard_time": 1695018454,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183887,
+      "num": 183887,
+      "word": "沈腾一句话让马丽变脸",
+      "onboard_time": 1695018994,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 179765,
@@ -1176,14 +1272,6 @@
       "word": "邢台巨响",
       "onboard_time": 1695014434,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167929,
-      "num": 167929,
-      "word": "男子用辣椒油做活络油无比滴获刑12年",
-      "onboard_time": 1695018454,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1393,6 +1481,14 @@
       "onboard_time": 1695018034,
       "rank": 46,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 105466,
+      "num": 105466,
+      "word": "黑龙江重大刑案嫌疑人徐某被抓获",
+      "onboard_time": 1695021333,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99424,
