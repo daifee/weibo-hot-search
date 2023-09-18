@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695043165859,
+  "endTime": 1695044035677,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -267,8 +267,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1667497,
-      "num": 1667497,
+      "raw_hot": 1668390,
+      "num": 1668390,
       "word": "THE9解散演唱会要来了",
       "onboard_time": 1695040298,
       "rank": 33,
@@ -475,6 +475,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1049379,
+      "num": 1049379,
+      "word": "梁静茹 倒嗓",
+      "onboard_time": 1695042158,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1046214,
       "num": 986873,
       "word": "疑被强奸农妇遗书问推他算不算反抗",
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884516,
+      "num": 369767,
+      "word": "靖国神社居然还开设亲子班",
+      "onboard_time": 1695040657,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882743,
       "num": 391252,
       "word": "原来慈禧卧室和我的差不多",
@@ -619,11 +635,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 838022,
-      "num": 369767,
-      "word": "靖国神社居然还开设亲子班",
-      "onboard_time": 1695040657,
-      "rank": 16,
+      "raw_hot": 857698,
+      "num": 857698,
+      "word": "奇强董事长在直播间哭了",
+      "onboard_time": 1695042338,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663777,
+      "num": 313676,
+      "word": "居然有人把飘窗做成了洗脚池",
+      "onboard_time": 1695042338,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 660934,
       "num": 649880,
       "word": "董宇辉首次全英文采访完整版",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1694867076,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 627346,
-      "num": 627346,
-      "word": "梁静茹 倒嗓",
-      "onboard_time": 1695042158,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 623955,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1694909612,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 538401,
-      "num": 192389,
-      "word": "居然有人把飘窗做成了洗脚池",
-      "onboard_time": 1695042338,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 536720,
@@ -1593,14 +1601,6 @@
       "onboard_time": 1694913813,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 463392,
-      "num": 463392,
-      "word": "奇强董事长在直播间哭了",
-      "onboard_time": 1695042338,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463309,
@@ -2035,6 +2035,22 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 371387,
+      "num": 371387,
+      "word": "焦虑症 太想活了又怕活不好",
+      "onboard_time": 1695039815,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 370772,
+      "num": 290723,
+      "word": "上班不到两小时被辞退了",
+      "onboard_time": 1695042338,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369358,
       "num": 369358,
       "word": "王源 好漂亮的一段话",
@@ -2065,14 +2081,6 @@
       "onboard_time": 1694934514,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367904,
-      "num": 367904,
-      "word": "焦虑症 太想活了又怕活不好",
-      "onboard_time": 1695039815,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 366763,
@@ -2313,14 +2321,6 @@
       "onboard_time": 1695002797,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328765,
-      "num": 191117,
-      "word": "上班不到两小时被辞退了",
-      "onboard_time": 1695042338,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 328001,
@@ -2723,6 +2723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275008,
+      "num": 275008,
+      "word": "会花一千路费参加朋友婚礼吗",
+      "onboard_time": 1695042338,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274977,
       "num": 274977,
       "word": "如何评价徐良被淘汰",
@@ -2947,6 +2955,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 249983,
+      "num": 249983,
+      "word": "官方回应高二学生跳楼后不治身亡",
+      "onboard_time": 1695044019,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 249672,
       "num": 249672,
       "word": "还有比竹子更耐看的植物吗",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1695032075,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235604,
+      "num": 211259,
+      "word": "中国台湾东北附近发生6.7级左右地震",
+      "onboard_time": 1695044019,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235400,
@@ -3387,14 +3411,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 217443,
-      "num": 217443,
-      "word": "会花一千路费参加朋友婚礼吗",
-      "onboard_time": 1695042338,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216604,
       "num": 216604,
       "word": "蔡依林玻璃蝴蝶套装",
@@ -3635,6 +3651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198600,
+      "num": 198600,
+      "word": "梁静茹再唱燕尾蝶",
+      "onboard_time": 1695042939,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198116,
       "num": 184058,
       "word": "主人带柯基去庙里收惊",
@@ -3699,20 +3723,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194086,
+      "num": 194086,
+      "word": "南风知我意",
+      "onboard_time": 1695041798,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193502,
       "num": 193502,
       "word": "张杰晒专辑中喝奶时期照片",
       "onboard_time": 1694880933,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193114,
-      "num": 193114,
-      "word": "南风知我意",
-      "onboard_time": 1695041798,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 193099,
@@ -4475,6 +4499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138918,
+      "num": 138918,
+      "word": "不理解越舒服的姿势越有害",
+      "onboard_time": 1695042218,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138875,
       "num": 138875,
       "word": "异人之下",
@@ -4529,6 +4561,14 @@
       "onboard_time": 1694967690,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132524,
+      "num": 132524,
+      "word": "公交公司回应发文全城停运",
+      "onboard_time": 1695043783,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132401,
@@ -4593,14 +4633,6 @@
       "onboard_time": 1694918856,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126026,
-      "num": 126026,
-      "word": "不理解越舒服的姿势越有害",
-      "onboard_time": 1695042218,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 125699,
@@ -4691,14 +4723,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 109462,
-      "num": 109462,
-      "word": "梁静茹再唱燕尾蝶",
-      "onboard_time": 1695042939,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 109286,
       "num": 109286,
       "word": "宋韵杭州有多卷",
@@ -4745,6 +4769,14 @@
       "onboard_time": 1694904078,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95011,
+      "num": 881614,
+      "word": "导师在太空开了门实验课",
+      "onboard_time": 1695042098,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93650,
@@ -4865,14 +4897,6 @@
       "onboard_time": 1694974637,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 66059,
-      "num": 775437,
-      "word": "导师在太空开了门实验课",
-      "onboard_time": 1695042098,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61416,

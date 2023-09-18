@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 21:19:25
+本榜单时间：2023/09/18 00:19:51 ~ 2023/09/18 21:33:55
 </p>
 </blockquote>
 <p>
@@ -118,7 +118,7 @@ Lisa演唱会哭了（热度：1923896）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-THE9解散演唱会要来了（热度：1667497）
+THE9解散演唱会要来了（热度：1668390）
 </a>
 </li>
 
@@ -195,6 +195,12 @@ THE9解散演唱会要来了（热度：1667497）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%20%E5%80%92%E5%97%93%23" target="weibo">
+梁静茹 倒嗓（热度：1049379）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%20%E6%88%91%E5%BE%88%E5%A5%BD%E8%AF%B7%E5%A4%A7%E5%AE%B6%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%A6%81%E6%8B%85%E5%BF%83%23" target="weibo">
 阿信 我很好请大家一定不要担心（热度：1002173）
 </a>
@@ -231,6 +237,12 @@ THE9解散演唱会要来了（热度：1667497）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%B1%85%E7%84%B6%E8%BF%98%E5%BC%80%E8%AE%BE%E4%BA%B2%E5%AD%90%E7%8F%AD%23" target="weibo">
+靖国神社居然还开设亲子班（热度：884516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%85%88%E7%A6%A7%E5%8D%A7%E5%AE%A4%E5%92%8C%E6%88%91%E7%9A%84%E5%B7%AE%E4%B8%8D%E5%A4%9A%23" target="weibo">
 原来慈禧卧室和我的差不多（热度：882743）
 </a>
@@ -243,8 +255,8 @@ THE9解散演唱会要来了（热度：1667497）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%B1%85%E7%84%B6%E8%BF%98%E5%BC%80%E8%AE%BE%E4%BA%B2%E5%AD%90%E7%8F%AD%23" target="weibo">
-靖国神社居然还开设亲子班（热度：838022）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23" target="weibo">
+奇强董事长在直播间哭了（热度：857698）
 </a>
 </li>
 
@@ -387,6 +399,12 @@ iPhone15ProMax到货比例为近几年最低（热度：680104）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23" target="weibo">
+居然有人把飘窗做成了洗脚池（热度：663777）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E9%A6%96%E6%AC%A1%E5%85%A8%E8%8B%B1%E6%96%87%E9%87%87%E8%AE%BF%E5%AE%8C%E6%95%B4%E7%89%88%23" target="weibo">
 董宇辉首次全英文采访完整版（热度：660934）
 </a>
@@ -441,12 +459,6 @@ iPhone15ProMax到货比例为近几年最低（热度：680104）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%20%E5%80%92%E5%97%93%23" target="weibo">
-梁静茹 倒嗓（热度：627346）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%BE%E5%BF%83%20%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%BA%86%E8%A7%A3%E7%A1%85%E6%B2%B9%23" target="weibo">
 精心 希望大家了解硅油（热度：612526）
 </a>
@@ -491,12 +503,6 @@ Jennie演唱会哭了（热度：580002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%BC%83%E8%BD%A6%E7%AB%99%E5%93%AD%E6%B3%A3%E6%B0%91%E8%AD%A6%E5%87%BA%E6%89%8B%23" target="weibo">
 父母离异男孩被弃车站哭泣民警出手（热度：568746）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23" target="weibo">
-居然有人把飘窗做成了洗脚池（热度：538401）
 </a>
 </li>
 
@@ -623,12 +629,6 @@ BLACKPINK说以后会以更好的样子和大家见面（热度：483279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%82%A0%E8%83%83%E6%98%AF%E4%B8%80%E7%A7%8D%E8%B5%84%E4%BA%A7%23" target="weibo">
 强大的肠胃是一种资产（热度：472495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23" target="weibo">
-奇强董事长在直播间哭了（热度：463392）
 </a>
 </li>
 
@@ -771,6 +771,18 @@ iPhone15系列机型维修费用（热度：374902）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%99%91%E7%97%87%20%E5%A4%AA%E6%83%B3%E6%B4%BB%E4%BA%86%E5%8F%88%E6%80%95%E6%B4%BB%E4%B8%8D%E5%A5%BD%23" target="weibo">
+焦虑症 太想活了又怕活不好（热度：371387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%B0%8F%E6%97%B6%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23" target="weibo">
+上班不到两小时被辞退了（热度：370772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD%23" target="weibo">
 赵丽颖直播（热度：370329）
 </a>
@@ -779,12 +791,6 @@ iPhone15系列机型维修费用（热度：374902）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%AA%91%E6%91%A9%E6%89%98%E7%A9%BF%E8%A1%8C%E9%9A%A7%E9%81%93%E4%B8%A7%E7%94%9F%23" target="weibo">
 官方回应网红骑摩托穿行隧道丧生（热度：368749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%99%91%E7%97%87%20%E5%A4%AA%E6%83%B3%E6%B4%BB%E4%BA%86%E5%8F%88%E6%80%95%E6%B4%BB%E4%B8%8D%E5%A5%BD%23" target="weibo">
-焦虑症 太想活了又怕活不好（热度：367904）
 </a>
 </li>
 
@@ -845,12 +851,6 @@ XYG 血压高（热度：345209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E6%9C%80%E5%AE%B3%E6%80%95%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%A7%9F%E5%AE%A2%23" target="weibo">
 房东最害怕什么样的租客（热度：329797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%B0%8F%E6%97%B6%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23" target="weibo">
-上班不到两小时被辞退了（热度：328765）
 </a>
 </li>
 
@@ -981,6 +981,12 @@ Remember疑似重回LPL（热度：276460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E8%8A%B1%E4%B8%80%E5%8D%83%E8%B7%AF%E8%B4%B9%E5%8F%82%E5%8A%A0%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E5%90%97%23" target="weibo">
+会花一千路费参加朋友婚礼吗（热度：275008）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%85%B0%E5%AE%89%E5%A6%87%E5%88%B6%E5%BA%A6%E5%8F%97%E5%AE%B3%E5%B9%B8%E5%AD%98%E8%80%85%E5%9C%A8%E5%86%8C%E4%BB%85%E5%89%A910%E4%BA%BA%23" target="weibo">
 慰安妇制度受害幸存者在册仅剩10人（热度：273371）
 </a>
@@ -1059,6 +1065,12 @@ Remember疑似重回LPL（热度：276460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%BA%8C%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E5%90%8E%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1%23" target="weibo">
+官方回应高二学生跳楼后不治身亡（热度：249983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%89%E6%AF%94%E7%AB%B9%E5%AD%90%E6%9B%B4%E8%80%90%E7%9C%8B%E7%9A%84%E6%A4%8D%E7%89%A9%E5%90%97%23" target="weibo">
 还有比竹子更耐看的植物吗（热度：249672）
 </a>
@@ -1115,6 +1127,12 @@ iPhone15系列平台预约量超300万台（热度：246872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%81%AA%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 刘聪演唱会（热度：235721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E4%B8%9C%E5%8C%97%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
+中国台湾东北附近发生6.7级左右地震（热度：235604）
 </a>
 </li>
 
@@ -1187,12 +1205,6 @@ iPhone15系列平台预约量超300万台（热度：246872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23650%E5%90%88%E4%BD%93%23" target="weibo">
 650合体（热度：219063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E8%8A%B1%E4%B8%80%E5%8D%83%E8%B7%AF%E8%B4%B9%E5%8F%82%E5%8A%A0%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E5%90%97%23" target="weibo">
-会花一千路费参加朋友婚礼吗（热度：217443）
 </a>
 </li>
 
@@ -1275,6 +1287,12 @@ iPhone15系列平台预约量超300万台（热度：246872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%E5%86%8D%E5%94%B1%E7%87%95%E5%B0%BE%E8%9D%B6%23" target="weibo">
+梁静茹再唱燕尾蝶（热度：198600）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%23" target="weibo">
 九一八永远不能忘（热度：197781）
 </a>
@@ -1288,7 +1306,7 @@ iPhone15系列平台预约量超300万台（热度：246872）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%23" target="weibo">
-南风知我意（热度：193114）
+南风知我意（热度：194086）
 </a>
 </li>
 
@@ -1551,6 +1569,12 @@ XYGvsTKL（热度：164361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%90%86%E8%A7%A3%E8%B6%8A%E8%88%92%E6%9C%8D%E7%9A%84%E5%A7%BF%E5%8A%BF%E8%B6%8A%E6%9C%89%E5%AE%B3%23" target="weibo">
+不理解越舒服的姿势越有害（热度：138918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%99%9F%20%E8%BF%99%E6%98%AF%E6%88%91%E4%B8%8D%E6%83%B3%E5%A4%B1%E5%8E%BB%E7%9A%84%E8%AE%B0%E5%BF%86%23" target="weibo">
 志晟 这是我不想失去的记忆（热度：136926）
 </a>
@@ -1575,6 +1599,12 @@ XYGvsTKL（热度：164361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%8F%91%E6%96%87%E5%85%A8%E5%9F%8E%E5%81%9C%E8%BF%90%23" target="weibo">
+公交公司回应发文全城停运（热度：132524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AF%B4%E8%8A%8B%E5%9C%86cp%E8%BF%98%E5%A5%BD%E7%9D%80%E5%91%A2%23" target="weibo">
 汪苏泷说芋圆cp还好着呢（热度：130492）
 </a>
@@ -1589,12 +1619,6 @@ XYGvsTKL（热度：164361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E6%9C%80%E5%A4%9A%E5%90%83%E5%87%A0%E4%B8%AA%E9%B8%A1%E8%9B%8B%E6%9C%80%E5%81%A5%E5%BA%B7%23" target="weibo">
 一天最多吃几个鸡蛋最健康（热度：126736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%90%86%E8%A7%A3%E8%B6%8A%E8%88%92%E6%9C%8D%E7%9A%84%E5%A7%BF%E5%8A%BF%E8%B6%8A%E6%9C%89%E5%AE%B3%23" target="weibo">
-不理解越舒服的姿势越有害（热度：126026）
 </a>
 </li>
 
@@ -1623,12 +1647,6 @@ XYGvsTKL（热度：164361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%E5%86%8D%E5%94%B1%E7%87%95%E5%B0%BE%E8%9D%B6%23" target="weibo">
-梁静茹再唱燕尾蝶（热度：109462）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9F%B5%E6%9D%AD%E5%B7%9E%E6%9C%89%E5%A4%9A%E5%8D%B7%23" target="weibo">
 宋韵杭州有多卷（热度：109286）
 </a>
@@ -1649,6 +1667,12 @@ XYGvsTKL（热度：164361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%8F%8D%E5%BA%94%E6%85%A2%E5%8D%8A%E6%8B%8D%23" target="weibo">
 薛之谦反应慢半拍（热度：98277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%BC%80%E4%BA%86%E9%97%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE%23" target="weibo">
+导师在太空开了门实验课（热度：95011）
 </a>
 </li>
 
@@ -1679,12 +1703,6 @@ XYGvsTKL（热度：164361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%96%E5%B7%A1%E7%BB%93%E6%9D%9F%E4%BA%86%23" target="weibo">
 BLACKPINK世巡结束了（热度：66436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%BC%80%E4%BA%86%E9%97%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE%23" target="weibo">
-导师在太空开了门实验课（热度：66059）
 </a>
 </li>
 
