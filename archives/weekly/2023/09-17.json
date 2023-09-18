@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695057334381,
+  "endTime": 1695058435266,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -5257,6 +5257,14 @@
       "onboard_time": 1694775814,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33545,
+      "num": 42562,
+      "word": "永远被落日与晚霞治愈",
+      "onboard_time": 1695057799,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 32387,
