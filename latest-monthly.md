@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 15:16:31
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 15:33:52
 </p>
 </blockquote>
 <p>
@@ -1931,6 +1931,12 @@ iPhone15四款机型相机曝光（热度：1825898）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B113000%E5%85%83%E4%B9%B0%E7%9A%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%81%B7%23" target="weibo">
 花13000元买的周杰伦演唱会门票被偷（热度：1743895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E6%B2%B9%23" target="weibo">
+猪油（热度：1736732）
 </a>
 </li>
 
@@ -5463,6 +5469,12 @@ Uzi说明年打不了（热度：812816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91%E5%AE%B6%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
+13岁男孩花318元烫发家人报警（热度：811976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B9%B01%E5%85%AC%E6%96%A4%E8%BD%AF%E7%B3%96%E8%8A%B1%E4%BA%86161%E5%85%83%23" target="weibo">
 女子称买1公斤软糖花了161元（热度：811888）
 </a>
@@ -5637,6 +5649,12 @@ Mate60遭老罪了（热度：802643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23" target="weibo">
+出现女性猴痘感染者意味着什么（热度：796986）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%BE%BE%E6%88%90%E5%85%A8%E7%90%83%E4%B8%93%E5%88%A9%E4%BA%A4%E5%8F%89%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE%23" target="weibo">
 华为小米达成全球专利交叉许可协议（热度：796765）
 </a>
@@ -5753,12 +5771,6 @@ Mystic前女友发长文控诉（热度：795788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A410%E5%B9%B4%E6%B2%A1%E7%AE%A1%E5%8C%BB%E7%94%9F%E5%8F%96%E5%87%BA109%E9%A2%97%23" target="weibo">
 女子子宫肌瘤10年没管医生取出109颗（热度：790739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23" target="weibo">
-出现女性猴痘感染者意味着什么（热度：789944）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ fx十四周年（热度：777250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B4%E7%8A%AC%E8%AF%AF%E9%A3%9F70%E7%B2%92%E5%B8%83%E6%B4%9B%E8%8A%AC%E4%B8%BB%E4%BA%BA%E8%8A%B15%E5%8D%83%E6%95%91%E5%9B%9E%23" target="weibo">
 柴犬误食70粒布洛芬主人花5千救回（热度：762877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%23" target="weibo">
-襄阳（热度：762800）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%94%B7%E5%AD%90%E6%B1%89%E6%97%B6%E6%9C%9F%E7%9A%84%E6%9D%A8%E5%B9%82%23" target="weibo">
-真正男子汉时期的杨幂（热度：762054）
 </a>
 </li>
 
