@@ -1,0 +1,410 @@
+{
+  "runTime": 1695007056934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2643312,
+        "num": 2643312,
+        "word": "防空警报",
+        "onboard_time": 1695002373,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2080179,
+        "num": 2080179,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1695005012,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33892,
+        "num": 1653897,
+        "word": "展示共建一带一路的信心",
+        "onboard_time": 1695004713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522703,
+        "num": 1522703,
+        "word": "韩国检方申请拘捕李在明",
+        "onboard_time": 1694999497,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1485931,
+        "num": 1485931,
+        "word": "为什么音乐节都是这种厕所",
+        "onboard_time": 1695001654,
+        "rank": 4,
+        "category": "演出,情感"
+      },
+      {
+        "raw_hot": 1230782,
+        "num": 1230782,
+        "word": "918",
+        "onboard_time": 1694992225,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 828674,
+        "num": 828674,
+        "word": "考研的动力在此刻到达巅峰",
+        "onboard_time": 1695003813,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 634549,
+        "num": 634549,
+        "word": "男子带着抑郁症妻子一起送外卖",
+        "onboard_time": 1695001713,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534622,
+        "num": 534622,
+        "word": "九一八事变爆发92周年",
+        "onboard_time": 1694994994,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 516248,
+        "num": 516248,
+        "word": "陆毅关智斌好像老年人用手机",
+        "onboard_time": 1695003933,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1318543,
+        "num": 499647,
+        "word": "李在明绝食第19天健康恶化被送医",
+        "onboard_time": 1694996801,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1002173,
+        "num": 485840,
+        "word": "阿信 我很好请大家一定不要担心",
+        "onboard_time": 1695003512,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445173,
+        "num": 445173,
+        "word": "很难看到肖战在红毯上这么拘谨",
+        "onboard_time": 1694995957,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442874,
+        "num": 442874,
+        "word": "李兰迪这个发型好适合方圆脸女生",
+        "onboard_time": 1694960019,
+        "rank": 13,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 404577,
+        "num": 432065,
+        "word": "每个人都该铭记九一八",
+        "onboard_time": 1694994873,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 431126,
+        "num": 431126,
+        "word": "新公司让我节后8号入职",
+        "onboard_time": 1694998899,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423174,
+        "num": 423174,
+        "word": "配眼镜时为什么要看这张图片",
+        "onboard_time": 1694997999,
+        "rank": 16,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 398308,
+        "num": 398308,
+        "word": "华为归来对iPhone影响还需观察",
+        "onboard_time": 1695002132,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 379791,
+        "num": 379791,
+        "word": "BOSS直聘崩了",
+        "onboard_time": 1695006334,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 356797,
+        "num": 356797,
+        "word": "丞磊弟弟也好帅",
+        "onboard_time": 1695002132,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428700,
+        "num": 356105,
+        "word": "你今年考虑买房吗",
+        "onboard_time": 1695005792,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 365175,
+        "num": 355686,
+        "word": "不经意却对皮肤好的习惯",
+        "onboard_time": 1694997999,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 352858,
+        "num": 352858,
+        "word": "房地产税立法暂缓",
+        "onboard_time": 1695001654,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324280,
+        "num": 324280,
+        "word": "云之羽这段真的给我难受死了",
+        "onboard_time": 1695003636,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310492,
+        "num": 310492,
+        "word": "房东最害怕什么样的租客",
+        "onboard_time": 1695002797,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265869,
+        "num": 265869,
+        "word": "92年前的血与泪不能忘也不敢忘",
+        "onboard_time": 1694995118,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 263204,
+        "num": 263204,
+        "word": "余华英拐卖儿童案今日宣判",
+        "onboard_time": 1695005792,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251484,
+        "num": 251484,
+        "word": "苹果称iPhone12在中国大陆符合标准",
+        "onboard_time": 1694997100,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226527,
+        "num": 226527,
+        "word": "你要的全拿走林俊杰胡彦斌现场版",
+        "onboard_time": 1695004414,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222681,
+        "num": 222681,
+        "word": "女子辞去十年工作带留守孩子读书",
+        "onboard_time": 1695002073,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731390,
+        "num": 221433,
+        "word": "李在明器官因绝食严重受损",
+        "onboard_time": 1695006215,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 270785,
+        "num": 220027,
+        "word": "你知道什么是假性亲密关系吗",
+        "onboard_time": 1695006274,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226185,
+        "num": 218860,
+        "word": "杭州防空警报",
+        "onboard_time": 1695006455,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 215169,
+        "num": 215169,
+        "word": "大妈给30多岁儿子找越南新娘被骗",
+        "onboard_time": 1695002859,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210304,
+        "num": 210304,
+        "word": "向日葵远程",
+        "onboard_time": 1695003274,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201297,
+        "num": 201297,
+        "word": "珍爱和平吾辈自强",
+        "onboard_time": 1695006215,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198525,
+        "num": 198525,
+        "word": "有没有硬座过夜舒服的好办法",
+        "onboard_time": 1695005193,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180847,
+        "num": 180847,
+        "word": "伍佰其实是负责组局的吧",
+        "onboard_time": 1695006814,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179765,
+        "num": 179765,
+        "word": "辽宁14城9时18分拉响警报",
+        "onboard_time": 1695005193,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 178076,
+        "num": 178076,
+        "word": "iPhone15系列机型维修费用",
+        "onboard_time": 1694999497,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173243,
+        "num": 173243,
+        "word": "快船结束哈登交易谈判",
+        "onboard_time": 1695004053,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169129,
+        "num": 169129,
+        "word": "发现了一种很省钱的吃面方法",
+        "onboard_time": 1695005613,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160908,
+        "num": 160908,
+        "word": "全球首个茶主题世界文化遗产",
+        "onboard_time": 1695004173,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158453,
+        "num": 158453,
+        "word": "跟观念不一样的朋友旅游太累了",
+        "onboard_time": 1695005613,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156547,
+        "num": 156547,
+        "word": "为什么下雨天睡觉会睡得更香",
+        "onboard_time": 1695006754,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149512,
+        "num": 149512,
+        "word": "奥本海默现实比电影更可怕",
+        "onboard_time": 1695006993,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147703,
+        "num": 147703,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1694964216,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 139337,
+        "num": 139337,
+        "word": "A股",
+        "onboard_time": 1695002558,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137931,
+        "num": 137931,
+        "word": "医生一眼认出9旬患者相拥落泪",
+        "onboard_time": 1694991625,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137139,
+        "num": 137139,
+        "word": "视障女生挑战天下第一考",
+        "onboard_time": 1695003574,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕式预告片#"
+    }
+  }
+}

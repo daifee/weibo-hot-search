@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695004422226,
+  "endTime": 1695007056934,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -35,6 +35,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2080179,
+      "num": 2080179,
+      "word": "中文慢慢失去了加密功能",
+      "onboard_time": 1695005012,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1923896,
       "num": 884824,
       "word": "Lisa演唱会哭了",
@@ -43,20 +51,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1485931,
+      "num": 1485931,
+      "word": "为什么音乐节都是这种厕所",
+      "onboard_time": 1695001654,
+      "rank": 4,
+      "category": "演出,情感"
+    },
+    {
       "raw_hot": 1445249,
       "num": 782390,
       "word": "黑龙江发生重大刑案",
       "onboard_time": 1694951733,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234908,
-      "num": 1234908,
-      "word": "为什么音乐节都是这种厕所",
-      "onboard_time": 1695001654,
-      "rank": 4,
-      "category": "演出,情感"
     },
     {
       "raw_hot": 1229914,
@@ -88,6 +96,14 @@
       "word": "陈坤 坦然接受生命中的一切",
       "onboard_time": 1694966973,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1002173,
+      "num": 485840,
+      "word": "阿信 我很好请大家一定不要担心",
+      "onboard_time": 1695003512,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -123,6 +139,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 828674,
+      "num": 828674,
+      "word": "考研的动力在此刻到达巅峰",
+      "onboard_time": 1695003813,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 804996,
       "num": 804996,
       "word": "磨牙的原因",
@@ -140,11 +164,19 @@
     },
     {
       "raw_hot": 748542,
-      "num": 420321,
+      "num": 431126,
       "word": "新公司让我节后8号入职",
       "onboard_time": 1694998899,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 731390,
+      "num": 221433,
+      "word": "李在明器官因绝食严重受损",
+      "onboard_time": 1695006215,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 716384,
@@ -179,6 +211,14 @@
       "category": "社会新闻,数码"
     },
     {
+      "raw_hot": 634549,
+      "num": 634549,
+      "word": "男子带着抑郁症妻子一起送外卖",
+      "onboard_time": 1695001713,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593290,
       "num": 355269,
       "word": "苹果称iPhone12在中国大陆符合标准",
@@ -209,14 +249,6 @@
       "onboard_time": 1694996076,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 565455,
-      "num": 565455,
-      "word": "男子带着抑郁症妻子一起送外卖",
-      "onboard_time": 1695001713,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 532685,
@@ -251,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510319,
-      "num": 447974,
-      "word": "阿信 我很好请大家一定不要担心",
-      "onboard_time": 1695003512,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 516248,
+      "num": 516248,
+      "word": "陆毅关智斌好像老年人用手机",
+      "onboard_time": 1695003933,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 509322,
@@ -315,6 +347,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 428700,
+      "num": 356105,
+      "word": "你今年考虑买房吗",
+      "onboard_time": 1695005792,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 414637,
       "num": 435806,
       "word": "92年前的血与泪不能忘也不敢忘",
@@ -347,20 +387,20 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 394401,
-      "num": 394401,
-      "word": "考研的动力在此刻到达巅峰",
-      "onboard_time": 1695003813,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 392234,
       "num": 392234,
       "word": "918鸣笛",
       "onboard_time": 1695001591,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379791,
+      "num": 379791,
+      "word": "BOSS直聘崩了",
+      "onboard_time": 1695006334,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 379110,
@@ -387,11 +427,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347241,
-      "num": 214752,
-      "word": "陆毅关智斌好像老年人用手机",
-      "onboard_time": 1695003933,
-      "rank": 30,
+      "raw_hot": 356797,
+      "num": 356797,
+      "word": "丞磊弟弟也好帅",
+      "onboard_time": 1695002132,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -427,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324280,
+      "num": 324280,
+      "word": "云之羽这段真的给我难受死了",
+      "onboard_time": 1695003636,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313649,
       "num": 312103,
       "word": "本周狗屎运最旺的星座",
@@ -441,14 +489,6 @@
       "onboard_time": 1695002558,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 304390,
-      "num": 304390,
-      "word": "丞磊弟弟也好帅",
-      "onboard_time": 1695002132,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 303718,
@@ -499,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279575,
-      "num": 279575,
-      "word": "云之羽这段真的给我难受死了",
-      "onboard_time": 1695003636,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278667,
       "num": 278667,
       "word": "沈腾来自东北的水壶战神",
@@ -531,12 +563,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 270785,
+      "num": 220027,
+      "word": "你知道什么是假性亲密关系吗",
+      "onboard_time": 1695006274,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268136,
       "num": 268136,
       "word": "被爱会长出新的血肉",
       "onboard_time": 1694995777,
       "rank": 31,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 263204,
+      "num": 263204,
+      "word": "余华英拐卖儿童案今日宣判",
+      "onboard_time": 1695005792,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261392,
@@ -569,6 +617,22 @@
       "onboard_time": 1694960800,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226527,
+      "num": 226527,
+      "word": "你要的全拿走林俊杰胡彦斌现场版",
+      "onboard_time": 1695004414,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 226185,
+      "num": 218860,
+      "word": "杭州防空警报",
+      "onboard_time": 1695006455,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 224491,
@@ -659,6 +723,22 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 201297,
+      "num": 201297,
+      "word": "珍爱和平吾辈自强",
+      "onboard_time": 1695006215,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 198525,
+      "num": 198525,
+      "word": "有没有硬座过夜舒服的好办法",
+      "onboard_time": 1695005193,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193099,
       "num": 193099,
       "word": "云之羽温峥嵘演技",
@@ -683,6 +763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180847,
+      "num": 180847,
+      "word": "伍佰其实是负责组局的吧",
+      "onboard_time": 1695006814,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 179765,
+      "num": 179765,
+      "word": "辽宁14城9时18分拉响警报",
+      "onboard_time": 1695005193,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 178884,
       "num": 178884,
       "word": "家政阿姨挪开沙发的瞬间我呆了",
@@ -697,6 +793,14 @@
       "onboard_time": 1694959836,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169129,
+      "num": 169129,
+      "word": "发现了一种很省钱的吃面方法",
+      "onboard_time": 1695005613,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 166681,
@@ -723,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160908,
+      "num": 2200574,
+      "word": "全球首个茶主题世界文化遗产",
+      "onboard_time": 1695004173,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159524,
       "num": 159524,
       "word": "14声警世钟在沈阳空中回荡",
@@ -731,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "跟观念不一样的朋友旅游太累了",
+      "onboard_time": 1695005613,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158078,
       "num": 158078,
       "word": "沈腾马丽小学生打架",
       "onboard_time": 1694967570,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156547,
+      "num": 156547,
+      "word": "为什么下雨天睡觉会睡得更香",
+      "onboard_time": 1695006754,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 155111,
@@ -777,6 +905,14 @@
       "onboard_time": 1694955638,
       "rank": 39,
       "category": "其它"
+    },
+    {
+      "raw_hot": 149512,
+      "num": 149512,
+      "word": "奥本海默现实比电影更可怕",
+      "onboard_time": 1695006993,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 149030,
@@ -875,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121104,
-      "num": 121104,
-      "word": "你要的全拿走林俊杰胡彦斌现场版",
-      "onboard_time": 1695004414,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 110622,
       "num": 110622,
       "word": "不要小看一年级小学生的胜负心",
@@ -923,14 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68243,
-      "num": 2200574,
-      "word": "全球首个茶主题世界文化遗产",
-      "onboard_time": 1695004173,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67311,
       "num": 91063,
       "word": "一些无痛的学习大法",
@@ -961,6 +1081,14 @@
       "onboard_time": 1694968469,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33892,
+      "num": 1653897,
+      "word": "展示共建一带一路的信心",
+      "onboard_time": 1695004713,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33889,

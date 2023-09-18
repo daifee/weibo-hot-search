@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695004422226,
+  "endTime": 1695007056934,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -81,6 +81,14 @@
       "onboard_time": 1694999497,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2080179,
+      "num": 2080179,
+      "word": "中文慢慢失去了加密功能",
+      "onboard_time": 1695005012,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 2068593,
@@ -195,6 +203,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1485931,
+      "num": 1485931,
+      "word": "为什么音乐节都是这种厕所",
+      "onboard_time": 1695001654,
+      "rank": 4,
+      "category": "演出,情感"
+    },
+    {
       "raw_hot": 1409199,
       "num": 1409199,
       "word": "如何看苹果中国官网辫子客服形象",
@@ -225,14 +241,6 @@
       "onboard_time": 1694874942,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234908,
-      "num": 1234908,
-      "word": "为什么音乐节都是这种厕所",
-      "onboard_time": 1695001654,
-      "rank": 4,
-      "category": "演出,情感"
     },
     {
       "raw_hot": 1229914,
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1002173,
+      "num": 485840,
+      "word": "阿信 我很好请大家一定不要担心",
+      "onboard_time": 1695003512,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 987342,
       "num": 531594,
       "word": "很难看到肖战在红毯上这么拘谨",
@@ -433,6 +449,14 @@
       "onboard_time": 1694997999,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 828674,
+      "num": 828674,
+      "word": "考研的动力在此刻到达巅峰",
+      "onboard_time": 1695003813,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 807276,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 748542,
-      "num": 420321,
+      "num": 431126,
       "word": "新公司让我节后8号入职",
       "onboard_time": 1694998899,
       "rank": 21,
@@ -569,6 +593,14 @@
       "onboard_time": 1694921494,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 731390,
+      "num": 221433,
+      "word": "李在明器官因绝食严重受损",
+      "onboard_time": 1695006215,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 716384,
@@ -691,6 +723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 634549,
+      "num": 634549,
+      "word": "男子带着抑郁症妻子一起送外卖",
+      "onboard_time": 1695001713,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630398,
       "num": 331216,
       "word": "真正的富二代留学生的生活",
@@ -793,14 +833,6 @@
       "onboard_time": 1694921434,
       "rank": 41,
       "category": "其它"
-    },
-    {
-      "raw_hot": 565455,
-      "num": 565455,
-      "word": "男子带着抑郁症妻子一起送外卖",
-      "onboard_time": 1695001713,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558233,
@@ -939,20 +971,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 516248,
+      "num": 516248,
+      "word": "陆毅关智斌好像老年人用手机",
+      "onboard_time": 1695003933,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515224,
       "num": 515224,
       "word": "云为衫宫子羽婚服战损花絮",
       "onboard_time": 1694956118,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 510319,
-      "num": 447974,
-      "word": "阿信 我很好请大家一定不要担心",
-      "onboard_time": 1695003512,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 510041,
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428700,
+      "num": 356105,
+      "word": "你今年考虑买房吗",
+      "onboard_time": 1695005792,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 428249,
       "num": 428249,
       "word": "时代峰峻二代的遗憾大概就是",
@@ -1275,14 +1315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 394401,
-      "num": 394401,
-      "word": "考研的动力在此刻到达巅峰",
-      "onboard_time": 1695003813,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 393449,
       "num": 393449,
       "word": "让肖战瞳孔地震的冷知识",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1694919694,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379791,
+      "num": 379791,
+      "word": "BOSS直聘崩了",
+      "onboard_time": 1695006334,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 379452,
@@ -1483,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 356797,
+      "num": 356797,
+      "word": "丞磊弟弟也好帅",
+      "onboard_time": 1695002132,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356054,
       "num": 263754,
       "word": "癌症的邀请切勿使用这些",
@@ -1521,14 +1569,6 @@
       "onboard_time": 1694947952,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 347241,
-      "num": 214752,
-      "word": "陆毅关智斌好像老年人用手机",
-      "onboard_time": 1695003933,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 344405,
@@ -1643,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324280,
+      "num": 324280,
+      "word": "云之羽这段真的给我难受死了",
+      "onboard_time": 1695003636,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321028,
       "num": 268760,
       "word": "傅云深被强吻",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1694941053,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 304390,
-      "num": 304390,
-      "word": "丞磊弟弟也好帅",
-      "onboard_time": 1695002132,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 304173,
@@ -1883,14 +1923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279575,
-      "num": 279575,
-      "word": "云之羽这段真的给我难受死了",
-      "onboard_time": 1695003636,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278667,
       "num": 278667,
       "word": "沈腾来自东北的水壶战神",
@@ -2011,6 +2043,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 270785,
+      "num": 220027,
+      "word": "你知道什么是假性亲密关系吗",
+      "onboard_time": 1695006274,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268380,
       "num": 430587,
       "word": "渐冻症男孩躺着拿下全球数学大奖",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1694937395,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263204,
+      "num": 263204,
+      "word": "余华英拐卖儿童案今日宣判",
+      "onboard_time": 1695005792,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262854,
@@ -2291,12 +2339,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226527,
+      "num": 226527,
+      "word": "你要的全拿走林俊杰胡彦斌现场版",
+      "onboard_time": 1695004414,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226201,
       "num": 226201,
       "word": "想见你或将拍古装剧",
       "onboard_time": 1694934393,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226185,
+      "num": 218860,
+      "word": "杭州防空警报",
+      "onboard_time": 1695006455,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 225806,
@@ -2563,6 +2627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201297,
+      "num": 201297,
+      "word": "珍爱和平吾辈自强",
+      "onboard_time": 1695006215,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 200434,
       "num": 200434,
       "word": "我国世界遗产数量增至57项",
@@ -2609,6 +2681,14 @@
       "onboard_time": 1694873917,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198525,
+      "num": 198525,
+      "word": "有没有硬座过夜舒服的好办法",
+      "onboard_time": 1695005193,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 198116,
@@ -2811,6 +2891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180847,
+      "num": 180847,
+      "word": "伍佰其实是负责组局的吧",
+      "onboard_time": 1695006814,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180606,
       "num": 180606,
       "word": "起猛了看到非主流回来了",
@@ -2825,6 +2913,14 @@
       "onboard_time": 1694910573,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179765,
+      "num": 179765,
+      "word": "辽宁14城9时18分拉响警报",
+      "onboard_time": 1695005193,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 179562,
@@ -2907,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169129,
+      "num": 169129,
+      "word": "发现了一种很省钱的吃面方法",
+      "onboard_time": 1695005613,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169126,
       "num": 405628,
       "word": "新兵遇旅客晕倒跪地救回后悄悄离去",
@@ -2955,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160908,
+      "num": 2200574,
+      "word": "全球首个茶主题世界文化遗产",
+      "onboard_time": 1695004173,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160107,
       "num": 160107,
       "word": "余宇涵手势舞vlog",
@@ -2987,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "跟观念不一样的朋友旅游太累了",
+      "onboard_time": 1695005613,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158103,
       "num": 158103,
       "word": "黄仁俊给NCT安利火锅好拼",
@@ -3017,6 +3137,14 @@
       "onboard_time": 1694874877,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156547,
+      "num": 156547,
+      "word": "为什么下雨天睡觉会睡得更香",
+      "onboard_time": 1695006754,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 155826,
@@ -3073,6 +3201,14 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149512,
+      "num": 149512,
+      "word": "奥本海默现实比电影更可怕",
+      "onboard_time": 1695006993,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 149281,
@@ -3387,14 +3523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121104,
-      "num": 121104,
-      "word": "你要的全拿走林俊杰胡彦斌现场版",
-      "onboard_time": 1695004414,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 118194,
       "num": 118194,
       "word": "爱发电崩了",
@@ -3571,14 +3699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68243,
-      "num": 2200574,
-      "word": "全球首个茶主题世界文化遗产",
-      "onboard_time": 1695004173,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67311,
       "num": 91063,
       "word": "一些无痛的学习大法",
@@ -3649,6 +3769,14 @@
       "onboard_time": 1694861256,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33892,
+      "num": 1653897,
+      "word": "展示共建一带一路的信心",
+      "onboard_time": 1695004713,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33889,
