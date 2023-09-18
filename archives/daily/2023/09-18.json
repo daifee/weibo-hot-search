@@ -1,10 +1,10 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1694999482672,
+  "endTime": 1695000696072,
   "band_list": [
     {
-      "raw_hot": 3894702,
-      "num": 3894702,
+      "raw_hot": 4670876,
+      "num": 4670876,
       "word": "918",
       "onboard_time": 1694992225,
       "rank": 1,
@@ -16,6 +16,14 @@
       "word": "李在明绝食第19天健康恶化被送医",
       "onboard_time": 1694996801,
       "rank": 1,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2109511,
+      "num": 466472,
+      "word": "韩国检方申请拘捕李在明",
+      "onboard_time": 1694999497,
+      "rank": 10,
       "category": "国外要闻"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1694951733,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1229914,
+      "num": 1229914,
+      "word": "配眼镜时为什么要看这张图片",
+      "onboard_time": 1694997999,
+      "rank": 3,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1159713,
@@ -59,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 997361,
-      "num": 997361,
-      "word": "配眼镜时为什么要看这张图片",
-      "onboard_time": 1694997999,
-      "rank": 3,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 987342,
       "num": 531594,
       "word": "很难看到肖战在红毯上这么拘谨",
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874051,
-      "num": 289651,
-      "word": "不经意却对皮肤好的习惯",
-      "onboard_time": 1694997999,
-      "rank": 20,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 840282,
-      "num": 840282,
+      "raw_hot": 886287,
+      "num": 886287,
       "word": "九一八事变爆发92周年",
       "onboard_time": 1694994994,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874051,
+      "num": 374249,
+      "word": "不经意却对皮肤好的习惯",
+      "onboard_time": 1694997999,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 804996,
@@ -115,11 +123,27 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 748542,
+      "num": 368247,
+      "word": "新公司让我节后8号入职",
+      "onboard_time": 1694998899,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 716384,
       "num": 716384,
       "word": "医生一眼认出9旬患者相拥落泪",
       "onboard_time": 1694991625,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705356,
+      "num": 705356,
+      "word": "每个人都该铭记九一八",
+      "onboard_time": 1694994873,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -139,16 +163,8 @@
       "category": "社会新闻,数码"
     },
     {
-      "raw_hot": 602127,
-      "num": 289184,
-      "word": "新公司让我节后8号入职",
-      "onboard_time": 1694998899,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 593290,
-      "num": 289094,
+      "num": 355269,
       "word": "苹果称iPhone12在中国大陆符合标准",
       "onboard_time": 1694997100,
       "rank": 22,
@@ -171,12 +187,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 560387,
-      "num": 560387,
-      "word": "每个人都该铭记九一八",
-      "onboard_time": 1694994873,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 570319,
+      "num": 465527,
+      "word": "在泰国的雪王皇冠都变大了",
+      "onboard_time": 1694996076,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 520677,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 507389,
-      "num": 312111,
+      "num": 352106,
       "word": "原来一万块有这么厚",
       "onboard_time": 1694959836,
       "rank": 21,
@@ -243,12 +259,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 465527,
-      "num": 465527,
-      "word": "在泰国的雪王皇冠都变大了",
-      "onboard_time": 1694996076,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 472495,
+      "num": 472495,
+      "word": "强大的肠胃是一种资产",
+      "onboard_time": 1694999078,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 456259,
@@ -257,6 +273,14 @@
       "onboard_time": 1694962236,
       "rank": 6,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 414637,
+      "num": 414637,
+      "word": "92年前的血与泪不能忘也不敢忘",
+      "onboard_time": 1694995118,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411019,
@@ -281,6 +305,14 @@
       "onboard_time": 1694966732,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374902,
+      "num": 374902,
+      "word": "iPhone15系列机型维修费用",
+      "onboard_time": 1694999497,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 370329,
@@ -339,20 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286849,
-      "num": 286849,
-      "word": "92年前的血与泪不能忘也不敢忘",
-      "onboard_time": 1694995118,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285858,
       "num": 285858,
       "word": "租房千万不要只图便宜",
       "onboard_time": 1694962838,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285745,
+      "num": 285745,
+      "word": "男子凌晨5点蹲守晨练大爷提醒勿喊",
+      "onboard_time": 1694998899,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278667,
@@ -433,22 +465,6 @@
       "onboard_time": 1694993371,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220299,
-      "num": 220299,
-      "word": "男子凌晨5点蹲守晨练大爷提醒勿喊",
-      "onboard_time": 1694998899,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220046,
-      "num": 220046,
-      "word": "强大的肠胃是一种资产",
-      "onboard_time": 1694999078,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 219697,
@@ -579,6 +595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153183,
+      "num": 153183,
+      "word": "诺兰黑暗骑士万字解析",
+      "onboard_time": 1694999857,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152992,
       "num": 152992,
       "word": "云为衫宫子羽婚服战损花絮",
@@ -633,6 +657,14 @@
       "onboard_time": 1694958458,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132556,
+      "num": 132556,
+      "word": "莲花楼演唱会沉浸式体验",
+      "onboard_time": 1695000576,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 132547,
