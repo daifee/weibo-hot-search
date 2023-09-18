@@ -1,0 +1,410 @@
+{
+  "runTime": 1695033329065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1501045,
+        "num": 1501045,
+        "word": "小伙误把奶茶赠品雪花膏当雪糕吃",
+        "onboard_time": 1695028176,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 341831,
+        "num": 1455302,
+        "word": "她纵身一跃的样子好帅",
+        "onboard_time": 1695029796,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4256,
+        "num": 1454525,
+        "word": "展示共建一带一路的信心",
+        "onboard_time": 1695004713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454368,
+        "num": 1454368,
+        "word": "七点以后禁食带给我的变化",
+        "onboard_time": 1695023498,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214780,
+        "num": 1358864,
+        "word": "为保住10万民警嘴差点磨出火星子",
+        "onboard_time": 1695029316,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314066,
+        "num": 1314066,
+        "word": "袁冰妍为啥两次掉进同一条沟里",
+        "onboard_time": 1695030217,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 214712,
+        "num": 1196785,
+        "word": "路边捡到价值5万金项链他们果断报警",
+        "onboard_time": 1695022537,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136383,
+        "num": 1136383,
+        "word": "哈利波特才是瑞幸最该合作的ip",
+        "onboard_time": 1695031415,
+        "rank": 7,
+        "category": "作品衍生,美食"
+      },
+      {
+        "raw_hot": 649880,
+        "num": 649880,
+        "word": "董宇辉首次全英文采访完整版",
+        "onboard_time": 1695028296,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 590776,
+        "num": 590776,
+        "word": "演员刘金苹果店前怒摔iPhone",
+        "onboard_time": 1695018153,
+        "rank": 9,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 1629928,
+        "num": 554473,
+        "word": "为什么体制内很少发朋友圈",
+        "onboard_time": 1695027758,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 514647,
+        "num": 514647,
+        "word": "迪士尼 抖音评论区",
+        "onboard_time": 1695030638,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 507470,
+        "num": 507470,
+        "word": "男子被杠铃压死健身房被判赔90万",
+        "onboard_time": 1695027758,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303792,
+        "num": 473245,
+        "word": "美国没资格对中国禁毒努力说三道四",
+        "onboard_time": 1695025659,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 260437,
+        "num": 461437,
+        "word": "731部队用跳蚤感染鼠疫后咬人",
+        "onboard_time": 1695021096,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 449861,
+        "num": 449861,
+        "word": "iPhone15ProMax到货比例为近几年最低",
+        "onboard_time": 1695027818,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 418690,
+        "num": 418690,
+        "word": "韩国著名演员边希峰去世",
+        "onboard_time": 1695030696,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386824,
+        "num": 386824,
+        "word": "封神第一部票房破26亿",
+        "onboard_time": 1695030875,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349204,
+        "num": 349204,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1695013421,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339957,
+        "num": 339957,
+        "word": "美国男子极限通勤3小时到上海上班",
+        "onboard_time": 1695032376,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613032,
+        "num": 330326,
+        "word": "刘亚仁强行让随行人员吸毒",
+        "onboard_time": 1695022354,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 470142,
+        "num": 324301,
+        "word": "出现女性猴痘感染者意味着什么",
+        "onboard_time": 1695033275,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317790,
+        "num": 317790,
+        "word": "猪油",
+        "onboard_time": 1695020374,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 266816,
+        "num": 266816,
+        "word": "国庆8天假7个朋友结婚",
+        "onboard_time": 1695015097,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252601,
+        "num": 252601,
+        "word": "颜心记",
+        "onboard_time": 1695030577,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247704,
+        "num": 247704,
+        "word": "女生毕设写花西子发愁写其市场定位",
+        "onboard_time": 1695026573,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238154,
+        "num": 238154,
+        "word": "i人的天使",
+        "onboard_time": 1695029616,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237099,
+        "num": 237099,
+        "word": "罗永浩评苹果无论多烂都会卖爆",
+        "onboard_time": 1695028116,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235721,
+        "num": 235721,
+        "word": "刘聪演唱会",
+        "onboard_time": 1695032075,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216041,
+        "num": 216041,
+        "word": "医生一直叫我的狗陈女士",
+        "onboard_time": 1695021700,
+        "rank": 29,
+        "category": "幽默,动物萌宠"
+      },
+      {
+        "raw_hot": 190353,
+        "num": 190353,
+        "word": "两年前住进我民宿的姑娘原来是张婧仪",
+        "onboard_time": 1695032676,
+        "rank": 30,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 184122,
+        "num": 184122,
+        "word": "13岁男孩花318元烫发家人报警",
+        "onboard_time": 1695019175,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178059,
+        "num": 178059,
+        "word": "美术联考挨得近不怕抄袭吗",
+        "onboard_time": 1695030217,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173487,
+        "num": 173487,
+        "word": "我怀疑我奶被大学生魂穿了",
+        "onboard_time": 1695021034,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149400,
+        "num": 149400,
+        "word": "小伙回应攒钱为父装人工耳蜗全网点赞",
+        "onboard_time": 1695031895,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 149095,
+        "word": "这就是杭州人的格局",
+        "onboard_time": 1695031654,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148450,
+        "num": 148450,
+        "word": "李在明器官因绝食严重受损",
+        "onboard_time": 1695006215,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147358,
+        "num": 147358,
+        "word": "防空警报",
+        "onboard_time": 1695002373,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142610,
+        "num": 142610,
+        "word": "濒死时会感觉身边多了一个人",
+        "onboard_time": 1695014856,
+        "rank": 38,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 137531,
+        "num": 137531,
+        "word": "神奇动物 貘",
+        "onboard_time": 1695022897,
+        "rank": 39,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 134160,
+        "num": 134160,
+        "word": "把自己流浪得这么可爱",
+        "onboard_time": 1695030457,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 134012,
+        "num": 134012,
+        "word": "衣柜里衣服的两种风格",
+        "onboard_time": 1695027876,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 131818,
+        "num": 131818,
+        "word": "丞磊颜心记人设",
+        "onboard_time": 1695026559,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131342,
+        "num": 131342,
+        "word": "李楠称iPhone信号差对日常影响微乎其微",
+        "onboard_time": 1695023454,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 117707,
+        "word": "苹果辫子客服系美国一名女员工",
+        "onboard_time": 1695033275,
+        "rank": 44,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 116847,
+        "num": 116847,
+        "word": "叮过之后确实感觉好吃了很多",
+        "onboard_time": 1695030154,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114394,
+        "num": 114394,
+        "word": "二十二",
+        "onboard_time": 1695022116,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111754,
+        "num": 111754,
+        "word": "开水冲鸡蛋",
+        "onboard_time": 1695020794,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100822,
+        "num": 100822,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1695005012,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100150,
+        "num": 100150,
+        "word": "演员刘金否认送修iPhone改装",
+        "onboard_time": 1695024158,
+        "rank": 49,
+        "category": "艺人,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎亚运的氛围感已拉满#"
+    }
+  }
+}
