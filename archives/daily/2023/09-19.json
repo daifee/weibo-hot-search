@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695068265887,
+  "endTime": 1695069261723,
   "band_list": [
     {
       "raw_hot": 1494904,
@@ -483,10 +483,26 @@
       "category": "其它"
     },
     {
+      "raw_hot": 14438,
+      "num": 14438,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 13671,
       "num": 13671,
       "word": "当狗子遇到机器狗",
       "onboard_time": 1695065713,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12510,
+      "num": 12510,
+      "word": "这弹跳力太夸张了",
+      "onboard_time": 1695069255,
       "rank": 49,
       "category": "幽默"
     }
