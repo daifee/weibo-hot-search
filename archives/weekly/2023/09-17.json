@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695040420604,
+  "endTime": 1695041395876,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -435,6 +435,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1100464,
+      "num": 1100464,
+      "word": "THE9解散演唱会要来了",
+      "onboard_time": 1695040298,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1094795,
       "num": 837773,
       "word": "陈坤 坦然接受生命中的一切",
@@ -675,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 792967,
+      "num": 391252,
+      "word": "原来慈禧卧室和我的差不多",
+      "onboard_time": 1695040298,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 791413,
       "num": 687311,
       "word": "中国经济崩溃论注定再度崩溃",
@@ -689,6 +705,14 @@
       "onboard_time": 1694919755,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 783398,
+      "num": 783398,
+      "word": "海马体无痛学习法",
+      "onboard_time": 1695039095,
+      "rank": 12,
+      "category": "知识科普"
     },
     {
       "raw_hot": 774270,
@@ -1283,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532056,
+      "num": 361690,
+      "word": "苹果门店回应刘金怒摔iPhone",
+      "onboard_time": 1695037053,
+      "rank": 15,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 522454,
       "num": 486434,
       "word": "奚梦瑶被何猷君对孩子的回应腻到",
@@ -1492,7 +1524,7 @@
     },
     {
       "raw_hot": 480465,
-      "num": 291298,
+      "num": 316172,
       "word": "原来刷牙是刷牙龈",
       "onboard_time": 1695039517,
       "rank": 20,
@@ -1523,28 +1555,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 470474,
-      "num": 354523,
-      "word": "海马体无痛学习法",
-      "onboard_time": 1695039095,
-      "rank": 12,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 470328,
       "num": 470328,
       "word": "微信好友太多的结果",
       "onboard_time": 1694913813,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 466825,
-      "num": 345540,
-      "word": "苹果门店回应刘金怒摔iPhone",
-      "onboard_time": 1695037053,
-      "rank": 15,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 463309,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1694929655,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431574,
+      "num": 431574,
+      "word": "四公repo",
+      "onboard_time": 1695039217,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 428249,
@@ -2027,14 +2051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363351,
-      "num": 363351,
-      "word": "四公repo",
-      "onboard_time": 1695039217,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362519,
       "num": 316763,
       "word": "辛芷蕾花儿与少年5路透",
@@ -2067,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358997,
+      "num": 358997,
+      "word": "靖国神社居然还开设亲子班",
+      "onboard_time": 1695040657,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358988,
       "num": 358988,
       "word": "袁成杰说想看到张杰喜得四胎热搜",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1694963261,
       "rank": 34,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 355759,
+      "num": 355759,
+      "word": "焦虑症 太想活了又怕活不好",
+      "onboard_time": 1695039815,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355329,
@@ -2305,14 +2337,6 @@
       "onboard_time": 1694959237,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314166,
-      "num": 314166,
-      "word": "原来慈禧卧室和我的差不多",
-      "onboard_time": 1695040298,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 314077,
@@ -2545,6 +2569,14 @@
       "onboard_time": 1694917954,
       "rank": 31,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 283510,
+      "num": 283510,
+      "word": "多人围观两只猫咪吵架",
+      "onboard_time": 1695039336,
+      "rank": 25,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 281940,
@@ -3267,14 +3299,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 219350,
-      "num": 219350,
-      "word": "多人围观两只猫咪吵架",
-      "onboard_time": 1695039336,
-      "rank": 25,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 219253,
       "num": 219253,
       "word": "NewJeans 弘大校庆",
@@ -3360,6 +3384,14 @@
       "word": "路边捡到价值5万金项链他们果断报警",
       "onboard_time": 1695022537,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213704,
+      "num": 213704,
+      "word": "广州区伯去世",
+      "onboard_time": 1695040958,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3659,6 +3691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192004,
+      "num": 192004,
+      "word": "猫咪偷喝中药后的反应",
+      "onboard_time": 1695040175,
+      "rank": 43,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 191505,
       "num": 191505,
       "word": "日媒曝羽生结弦老婆身份",
@@ -3779,14 +3819,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 184564,
-      "num": 184564,
-      "word": "焦虑症 太想活了又怕活不好",
-      "onboard_time": 1695039815,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183887,
       "num": 183887,
       "word": "沈腾一句话让马丽变脸",
@@ -3841,14 +3873,6 @@
       "onboard_time": 1694910573,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180170,
-      "num": 180170,
-      "word": "THE9解散演唱会要来了",
-      "onboard_time": 1695040298,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 179765,
@@ -4579,14 +4603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112718,
-      "num": 112718,
-      "word": "猫咪偷喝中药后的反应",
-      "onboard_time": 1695040175,
-      "rank": 43,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 111157,
       "num": 448502,
       "word": "原神百万奖金公开赛",
@@ -4659,6 +4675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93650,
+      "num": 316392,
+      "word": "罕见病男孩上大学选生物科学专业",
+      "onboard_time": 1695038918,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 93404,
       "num": 93404,
       "word": "国际米兰5比1AC米兰",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1694855806,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92440,
+      "num": 92440,
+      "word": "8旬爷爷徒步25公里送孙子入伍",
+      "onboard_time": 1695041315,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91643,
@@ -4927,6 +4959,14 @@
       "num": 705817,
       "word": "共创残疾人更加幸福美好生活",
       "onboard_time": 1695025358,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9280,
+      "num": 829919,
+      "word": "东博会上的酷炫产品",
+      "onboard_time": 1695041194,
       "rank": 2,
       "category": "社会新闻"
     }
