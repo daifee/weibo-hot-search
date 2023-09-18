@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695072847024,
+  "endTime": 1695075353108,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -5203,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47508,
+      "num": 47508,
+      "word": "孩子吃不了苦做这个训练效果显著",
+      "onboard_time": 1695060078,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 45295,
       "num": 52049,
       "word": "骄阳伴我海外多地上线",
@@ -5219,12 +5227,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42607,
+      "num": 42607,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41529,
       "num": 1548817,
       "word": "成功发射遥感三十九号卫星",
       "onboard_time": 1694939617,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40571,
+      "num": 34769,
+      "word": "王毅同沙利文在马耳他会晤",
+      "onboard_time": 1695070634,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 38198,
@@ -5299,6 +5323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 30260,
+      "num": 30260,
+      "word": "脂肪形成的真相",
+      "onboard_time": 1695060917,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 29925,
       "num": 29925,
       "word": "AirPodsPro2测评",
@@ -5315,20 +5347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28566,
-      "num": 26728,
-      "word": "脂肪形成的真相",
-      "onboard_time": 1695060917,
+      "raw_hot": 28663,
+      "num": 29349,
+      "word": "水煮荷包蛋",
+      "onboard_time": 1695072493,
       "rank": 49,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 28149,
-      "num": 28149,
-      "word": "孩子吃不了苦做这个训练效果显著",
-      "onboard_time": 1695060078,
-      "rank": 36,
-      "category": "教育"
+      "category": "美食"
     },
     {
       "raw_hot": 27465,
@@ -5347,14 +5371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26594,
-      "num": 26594,
-      "word": "教育起码不能让人患病",
-      "onboard_time": 1695068594,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 26097,
       "num": 26097,
       "word": "想对我恋爱脑朋友说的话",
@@ -5364,7 +5380,7 @@
     },
     {
       "raw_hot": 25567,
-      "num": 25567,
+      "num": 29294,
       "word": "你永远可以相信西湖的日落",
       "onboard_time": 1695059296,
       "rank": 34,
@@ -5385,14 +5401,6 @@
       "onboard_time": 1694940033,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22349,
-      "num": 21918,
-      "word": "王毅同沙利文在马耳他会晤",
-      "onboard_time": 1695070634,
-      "rank": 35,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 19434,
@@ -5433,14 +5441,6 @@
       "onboard_time": 1695065713,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12740,
-      "num": 18393,
-      "word": "水煮荷包蛋",
-      "onboard_time": 1695072493,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 12510,

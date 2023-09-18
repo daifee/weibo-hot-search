@@ -1,0 +1,410 @@
+{
+  "runTime": 1695075353108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 279012,
+        "num": 279012,
+        "word": "医生收到患者家属1箱牛奶发现是4万现金",
+        "onboard_time": 1695049361,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211305,
+        "num": 211305,
+        "word": "七点以后禁食带给我的变化",
+        "onboard_time": 1695023498,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17055,
+        "num": 193011,
+        "word": "导师在太空开了门实验课",
+        "onboard_time": 1695042098,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 301469,
+        "num": 192458,
+        "word": "多邻国崩了",
+        "onboard_time": 1695048160,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189617,
+        "num": 189617,
+        "word": "大学生蹭酒席随礼100元被指太少",
+        "onboard_time": 1695052233,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114327,
+        "num": 114327,
+        "word": "这2项运动不利于孩子生长发育",
+        "onboard_time": 1695047801,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111988,
+        "num": 111988,
+        "word": "居然有人把飘窗做成了洗脚池",
+        "onboard_time": 1695042338,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111346,
+        "num": 111346,
+        "word": "伍佰 25岁为什么听我的歌呢",
+        "onboard_time": 1695048039,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104127,
+        "num": 104127,
+        "word": "演员刘金拒绝展示iPhone购买记录",
+        "onboard_time": 1695034654,
+        "rank": 8,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 85258,
+        "num": 85258,
+        "word": "4名男孩溺亡其中3人亲兄弟",
+        "onboard_time": 1695045702,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79347,
+        "num": 79347,
+        "word": "原来慈禧卧室和我的差不多",
+        "onboard_time": 1695040298,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75814,
+        "num": 75814,
+        "word": "靖国神社居然还开设亲子班",
+        "onboard_time": 1695040657,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73386,
+        "num": 73386,
+        "word": "为什么体制内很少发朋友圈",
+        "onboard_time": 1695027758,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45252,
+        "num": 72496,
+        "word": "袁冰妍为啥两次掉进同一条沟里",
+        "onboard_time": 1695030217,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 26231,
+        "num": 72201,
+        "word": "东海海域6.4级地震",
+        "onboard_time": 1695047801,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72175,
+        "num": 72175,
+        "word": "中国台湾东北附近发生6.7级左右地震",
+        "onboard_time": 1695044019,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61528,
+        "num": 61528,
+        "word": "苹果门店回应刘金怒摔iPhone",
+        "onboard_time": 1695037053,
+        "rank": 16,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 59028,
+        "num": 59028,
+        "word": "奇强董事长在直播间哭了",
+        "onboard_time": 1695042338,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58454,
+        "num": 58454,
+        "word": "iOS17",
+        "onboard_time": 1695047142,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57852,
+        "num": 57852,
+        "word": "白敬亭这令人震撼的大脑",
+        "onboard_time": 1695051398,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61396,
+        "num": 56757,
+        "word": "容貌焦虑的姐妹都来听听徐志胜的这段话",
+        "onboard_time": 1695054087,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47508,
+        "num": 47508,
+        "word": "孩子吃不了苦做这个训练效果显著",
+        "onboard_time": 1695060078,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46271,
+        "num": 46271,
+        "word": "官方回应高二学生跳楼后不治身亡",
+        "onboard_time": 1695044019,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 45555,
+        "num": 45555,
+        "word": "很多事情到了30岁才懂",
+        "onboard_time": 1695049901,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44437,
+        "num": 44437,
+        "word": "莲花味精放弃低成本味精研发专利权",
+        "onboard_time": 1695046423,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 42607,
+        "num": 42607,
+        "word": "教育起码不能让人患病",
+        "onboard_time": 1695068594,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40711,
+        "num": 40711,
+        "word": "海马体无痛学习法",
+        "onboard_time": 1695039095,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 40666,
+        "num": 40666,
+        "word": "梁静茹 倒嗓",
+        "onboard_time": 1695042158,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36653,
+        "num": 36653,
+        "word": "涂山璟最好的一面留给小夭",
+        "onboard_time": 1695044800,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35189,
+        "num": 35189,
+        "word": "最近贝儿是上淑女培训班了吗",
+        "onboard_time": 1695048221,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 40571,
+        "num": 34769,
+        "word": "王毅同沙利文在马耳他会晤",
+        "onboard_time": 1695070634,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 34095,
+        "num": 34095,
+        "word": "上班不到两小时被辞退了",
+        "onboard_time": 1695042338,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33141,
+        "num": 33141,
+        "word": "原来刷牙是刷牙龈",
+        "onboard_time": 1695039517,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 30260,
+        "num": 30260,
+        "word": "脂肪形成的真相",
+        "onboard_time": 1695060917,
+        "rank": 33,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 29704,
+        "num": 29704,
+        "word": "开车时你的左脚在干什么",
+        "onboard_time": 1695050201,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29350,
+        "num": 29350,
+        "word": "THE9解散演唱会要来了",
+        "onboard_time": 1695040298,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28663,
+        "num": 29349,
+        "word": "水煮荷包蛋",
+        "onboard_time": 1695072493,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25782,
+        "num": 29338,
+        "word": "柯南2024剧场版片名",
+        "onboard_time": 1695050799,
+        "rank": 37,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 25026,
+        "num": 29327,
+        "word": "阿姨刷单险被骗547万民警及时止损",
+        "onboard_time": 1695045340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24898,
+        "num": 29323,
+        "word": "广州区伯去世",
+        "onboard_time": 1695040958,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24167,
+        "num": 29308,
+        "word": "一个令养猫人血脉觉醒的声音",
+        "onboard_time": 1695046661,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 23234,
+        "num": 29304,
+        "word": "骑行看到绝美日落",
+        "onboard_time": 1695059238,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23112,
+        "num": 29294,
+        "word": "你永远可以相信西湖的日落",
+        "onboard_time": 1695059296,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 23051,
+        "num": 29284,
+        "word": "老外觉得印个中文就挺潮的",
+        "onboard_time": 1695035496,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22296,
+        "num": 29278,
+        "word": "XYG 固定临时席位",
+        "onboard_time": 1695047624,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22130,
+        "num": 29267,
+        "word": "AirPodsPro2测评",
+        "onboard_time": 1695059596,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22130,
+        "num": 29258,
+        "word": "哈利波特才是瑞幸最该合作的ip",
+        "onboard_time": 1695031415,
+        "rank": 46,
+        "category": "作品衍生,美食"
+      },
+      {
+        "raw_hot": 21555,
+        "num": 29247,
+        "word": "咒术回战 2011VS2021",
+        "onboard_time": 1695052832,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 21247,
+        "num": 29241,
+        "word": "骄阳伴我幕后工作花絮",
+        "onboard_time": 1694952937,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19509,
+        "num": 29230,
+        "word": "永远被落日与晚霞治愈",
+        "onboard_time": 1695057799,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎亚运的氛围感已拉满#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695072847024,
+  "endTime": 1695075353108,
   "band_list": [
     {
       "raw_hot": 1494904,
@@ -411,6 +411,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47508,
+      "num": 47508,
+      "word": "孩子吃不了苦做这个训练效果显著",
+      "onboard_time": 1695060078,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 42607,
+      "num": 42607,
+      "word": "教育起码不能让人患病",
+      "onboard_time": 1695068594,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 40571,
+      "num": 34769,
+      "word": "王毅同沙利文在马耳他会晤",
+      "onboard_time": 1695070634,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 33545,
       "num": 42562,
       "word": "永远被落日与晚霞治愈",
@@ -427,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30260,
+      "num": 30260,
+      "word": "脂肪形成的真相",
+      "onboard_time": 1695060917,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 29925,
       "num": 29925,
       "word": "AirPodsPro2测评",
@@ -435,20 +467,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 28566,
-      "num": 26728,
-      "word": "脂肪形成的真相",
-      "onboard_time": 1695060917,
+      "raw_hot": 28663,
+      "num": 29349,
+      "word": "水煮荷包蛋",
+      "onboard_time": 1695072493,
       "rank": 49,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 28149,
-      "num": 28149,
-      "word": "孩子吃不了苦做这个训练效果显著",
-      "onboard_time": 1695060078,
-      "rank": 36,
-      "category": "教育"
+      "category": "美食"
     },
     {
       "raw_hot": 27240,
@@ -457,14 +481,6 @@
       "onboard_time": 1695060020,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26594,
-      "num": 26594,
-      "word": "教育起码不能让人患病",
-      "onboard_time": 1695068594,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 26097,
@@ -476,19 +492,19 @@
     },
     {
       "raw_hot": 25567,
-      "num": 25567,
+      "num": 29294,
       "word": "你永远可以相信西湖的日落",
       "onboard_time": 1695059296,
       "rank": 34,
       "category": "旅游"
     },
     {
-      "raw_hot": 22349,
-      "num": 21918,
-      "word": "王毅同沙利文在马耳他会晤",
-      "onboard_time": 1695070634,
-      "rank": 35,
-      "category": "国内要闻"
+      "raw_hot": 21247,
+      "num": 29241,
+      "word": "骄阳伴我幕后工作花絮",
+      "onboard_time": 1694952937,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 19434,
@@ -513,14 +529,6 @@
       "onboard_time": 1695065713,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12740,
-      "num": 18393,
-      "word": "水煮荷包蛋",
-      "onboard_time": 1695072493,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 12510,
