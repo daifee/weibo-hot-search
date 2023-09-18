@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695022432353,
+  "endTime": 1695025333672,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -75,6 +75,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2054454,
+      "num": 996333,
+      "word": "猪油",
+      "onboard_time": 1695020374,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2025266,
       "num": 2025266,
       "word": "我国首次报告5例女性猴痘病例",
@@ -99,12 +107,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1736732,
-      "num": 904436,
-      "word": "猪油",
-      "onboard_time": 1695020374,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1733698,
+      "num": 1733698,
+      "word": "刘亚仁强行让随行人员吸毒",
+      "onboard_time": 1695022354,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1516962,
@@ -169,6 +177,14 @@
       "onboard_time": 1694966973,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1047598,
+      "num": 1047598,
+      "word": "七点以后禁食带给我的变化",
+      "onboard_time": 1695023498,
+      "rank": 2,
+      "category": "美食"
     },
     {
       "raw_hot": 1002173,
@@ -275,6 +291,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 774270,
+      "num": 774270,
+      "word": "黑龙江重大刑案嫌疑人徐某被抓获",
+      "onboard_time": 1695021333,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757962,
+      "num": 757962,
+      "word": "二十二",
+      "onboard_time": 1695022116,
+      "rank": 34,
+      "category": "社会新闻,电影"
+    },
+    {
       "raw_hot": 755094,
       "num": 755094,
       "word": "学校反诈案例 鹿晗短信",
@@ -305,6 +337,14 @@
       "onboard_time": 1694991625,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705581,
+      "num": 705581,
+      "word": "731部队用跳蚤感染鼠疫后咬人",
+      "onboard_time": 1695021096,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 705356,
@@ -361,14 +401,6 @@
       "onboard_time": 1694955880,
       "rank": 17,
       "category": "社会新闻,数码"
-    },
-    {
-      "raw_hot": 643687,
-      "num": 354632,
-      "word": "731部队用跳蚤感染鼠疫后咬人",
-      "onboard_time": 1695021096,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 640406,
@@ -540,7 +572,7 @@
     },
     {
       "raw_hot": 496488,
-      "num": 347133,
+      "num": 432279,
       "word": "我怀疑我奶被大学生魂穿了",
       "onboard_time": 1695021034,
       "rank": 22,
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371701,
+      "num": 371701,
+      "word": "神奇动物 貘",
+      "onboard_time": 1695022897,
+      "rank": 12,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 370329,
       "num": 370329,
       "word": "赵丽颖直播",
@@ -780,7 +820,7 @@
     },
     {
       "raw_hot": 332269,
-      "num": 228097,
+      "num": 250717,
       "word": "医生一直叫我的狗陈女士",
       "onboard_time": 1695021700,
       "rank": 30,
@@ -857,6 +897,14 @@
       "onboard_time": 1695015337,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 297815,
+      "num": 248816,
+      "word": "李楠称iPhone信号差对日常影响微乎其微",
+      "onboard_time": 1695023454,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 295721,
@@ -995,12 +1043,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 248319,
-      "num": 248319,
-      "word": "黑龙江重大刑案嫌疑人徐某被抓获",
-      "onboard_time": 1695021333,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 246872,
+      "num": 246872,
+      "word": "iPhone15系列平台预约量超300万台",
+      "onboard_time": 1695022715,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 245803,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1695009218,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232558,
+      "num": 232558,
+      "word": "齐司礼 射箭",
+      "onboard_time": 1695023197,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 226527,
@@ -1171,14 +1227,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 207373,
-      "num": 207373,
-      "word": "刘亚仁强行让随行人员吸毒",
-      "onboard_time": 1695022354,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202002,
       "num": 202002,
       "word": "买了吴磊同款项链",
@@ -1219,14 +1267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193759,
-      "num": 193759,
-      "word": "二十二",
-      "onboard_time": 1695022116,
-      "rank": 34,
-      "category": "社会新闻,电影"
-    },
-    {
       "raw_hot": 193099,
       "num": 193099,
       "word": "云之羽温峥嵘演技",
@@ -1243,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190090,
+      "num": 190090,
+      "word": "夜色尚浅逗孩子视角",
+      "onboard_time": 1695022058,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187822,
       "num": 269676,
       "word": "勿忘九一八",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1695018454,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184881,
+      "num": 184881,
+      "word": "CCtalk崩了",
+      "onboard_time": 1695022537,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 183887,
@@ -1283,6 +1339,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176381,
+      "num": 176381,
+      "word": "杜德伟演唱会上将亳州念成毫州",
+      "onboard_time": 1695022299,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175727,
+      "num": 175727,
+      "word": "演员刘金否认送修iPhone改装",
+      "onboard_time": 1695024158,
+      "rank": 34,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 175490,
       "num": 175490,
       "word": "发现了一种很省钱的吃面方法",
@@ -1307,12 +1379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170186,
-      "num": 170186,
-      "word": "夜色尚浅逗孩子视角",
-      "onboard_time": 1695022058,
+      "raw_hot": 168969,
+      "num": 168969,
+      "word": "夜爬泰山两山头游客开强光互射对骂",
+      "onboard_time": 1695024818,
       "rank": 36,
-      "category": "剧集"
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 166681,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1695003574,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 153797,
+      "num": 153797,
+      "word": "路边捡到价值5万金项链他们果断报警",
+      "onboard_time": 1695022537,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153183,
@@ -1523,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119280,
-      "num": 119280,
-      "word": "杜德伟演唱会上将亳州念成毫州",
-      "onboard_time": 1695022299,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110622,
       "num": 110622,
       "word": "不要小看一年级小学生的胜负心",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1694993070,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91907,
+      "num": 91907,
+      "word": "韩国检方再次申请拘捕刘亚仁",
+      "onboard_time": 1695025235,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 73604,
