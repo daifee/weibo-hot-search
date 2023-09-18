@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695028667700,
+  "endTime": 1695029660623,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -67,8 +67,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2436232,
-      "num": 2436232,
+      "raw_hot": 2484264,
+      "num": 2484264,
       "word": "七点以后禁食带给我的变化",
       "onboard_time": 1695023498,
       "rank": 2,
@@ -395,6 +395,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1124354,
+      "num": 286242,
+      "word": "为什么体制内很少发朋友圈",
+      "onboard_time": 1695027758,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1094795,
       "num": 837773,
       "word": "陈坤 坦然接受生命中的一切",
@@ -441,14 +449,6 @@
       "onboard_time": 1694950592,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1034512,
-      "num": 265807,
-      "word": "为什么体制内很少发朋友圈",
-      "onboard_time": 1695027758,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 1027193,
@@ -585,6 +585,14 @@
       "onboard_time": 1695006334,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 809141,
+      "num": 809141,
+      "word": "小伙误把奶茶赠品雪花膏当雪糕吃",
+      "onboard_time": 1695028176,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 807276,
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680104,
+      "num": 341681,
+      "word": "iPhone15ProMax到货比例为近几年最低",
+      "onboard_time": 1695027818,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 678267,
       "num": 678267,
       "word": "华为轮值董事长称我们不要抱有幻想",
@@ -881,6 +897,14 @@
       "onboard_time": 1694861318,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 667659,
+      "num": 667659,
+      "word": "男子被杠铃压死健身房被判赔90万",
+      "onboard_time": 1695027758,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658920,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1695001654,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524438,
-      "num": 340979,
-      "word": "iPhone15ProMax到货比例为近几年最低",
-      "onboard_time": 1695027818,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 522454,
@@ -1579,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426627,
+      "num": 341069,
+      "word": "董宇辉首次全英文采访完整版",
+      "onboard_time": 1695028296,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 424335,
       "num": 424335,
       "word": "女子250万买飞机9年没到货",
@@ -1748,7 +1772,7 @@
     },
     {
       "raw_hot": 379877,
-      "num": 265189,
+      "num": 273030,
       "word": "女生毕设写花西子发愁写其市场定位",
       "onboard_time": 1695026573,
       "rank": 22,
@@ -2025,14 +2049,6 @@
       "onboard_time": 1694931872,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333989,
-      "num": 333989,
-      "word": "男子被杠铃压死健身房被判赔90万",
-      "onboard_time": 1695027758,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333860,
@@ -2329,6 +2345,14 @@
       "onboard_time": 1694907266,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288152,
+      "num": 288152,
+      "word": "罗永浩评苹果无论多烂都会卖爆",
+      "onboard_time": 1695028116,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 287982,
@@ -2643,6 +2667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 250384,
+      "num": 203751,
+      "word": "衣柜里衣服的两种风格",
+      "onboard_time": 1695027876,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 249672,
       "num": 249672,
       "word": "还有比竹子更耐看的植物吗",
@@ -2865,14 +2897,6 @@
       "onboard_time": 1694959778,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227891,
-      "num": 210899,
-      "word": "小伙误把奶茶赠品雪花膏当雪糕吃",
-      "onboard_time": 1695028176,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 227473,
@@ -3099,14 +3123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213031,
-      "num": 213031,
-      "word": "罗永浩评苹果无论多烂都会卖爆",
-      "onboard_time": 1695028116,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 212890,
       "num": 212890,
       "word": "赵丽颖光影氛围感live图",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1694921255,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203751,
-      "num": 203751,
-      "word": "衣柜里衣服的两种风格",
-      "onboard_time": 1695027876,
-      "rank": 32,
-      "category": "时尚"
     },
     {
       "raw_hot": 202798,
@@ -3827,14 +3835,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 155749,
-      "num": 155749,
-      "word": "董宇辉首次全英文采访完整版",
-      "onboard_time": 1695028296,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 154809,
       "num": 154809,
       "word": "纪录片二十二9月18日在日本首映",
@@ -4275,6 +4275,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 106639,
+      "num": 106639,
+      "word": "为保住10万民警嘴差点磨出火星子",
+      "onboard_time": 1695029316,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105580,
       "num": 105580,
       "word": "万茜你好疯子",
@@ -4377,6 +4385,14 @@
       "onboard_time": 1694967630,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73301,
+      "num": 73301,
+      "word": "i人的天使",
+      "onboard_time": 1695029616,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 70881,
