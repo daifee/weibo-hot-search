@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695036843316,
+  "endTime": 1695040420604,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -547,6 +547,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 916078,
+      "num": 916078,
+      "word": "演员刘金拒绝展示iPhone购买记录",
+      "onboard_time": 1695034654,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 909082,
       "num": 909082,
       "word": "你知道什么是假性亲密关系吗",
@@ -891,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 680657,
-      "num": 596176,
-      "word": "演员刘金拒绝展示iPhone购买记录",
-      "onboard_time": 1695034654,
-      "rank": 19,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 680104,
       "num": 470588,
       "word": "iPhone15ProMax到货比例为近几年最低",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1694876439,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643714,
+      "num": 643714,
+      "word": "老外觉得印个中文就挺潮的",
+      "onboard_time": 1695035496,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 641417,
@@ -1451,14 +1459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 491083,
-      "num": 491083,
-      "word": "老外觉得印个中文就挺潮的",
-      "onboard_time": 1695035496,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 489833,
       "num": 489833,
       "word": "汪苏泷我喜欢上你时的内心活动",
@@ -1491,6 +1491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 480465,
+      "num": 291298,
+      "word": "原来刷牙是刷牙龈",
+      "onboard_time": 1695039517,
+      "rank": 20,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 479522,
       "num": 479522,
       "word": "是不是全国各地都在咽喉炎",
@@ -1515,12 +1523,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 470474,
+      "num": 354523,
+      "word": "海马体无痛学习法",
+      "onboard_time": 1695039095,
+      "rank": 12,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 470328,
       "num": 470328,
       "word": "微信好友太多的结果",
       "onboard_time": 1694913813,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 466825,
+      "num": 345540,
+      "word": "苹果门店回应刘金怒摔iPhone",
+      "onboard_time": 1695037053,
+      "rank": 15,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 463309,
@@ -1955,6 +1979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368749,
+      "num": 368749,
+      "word": "官方回应网红骑摩托穿行隧道丧生",
+      "onboard_time": 1695037536,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368540,
       "num": 368540,
       "word": "动画逃离大英博物馆立项",
@@ -1993,6 +2025,14 @@
       "onboard_time": 1694944832,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363351,
+      "num": 363351,
+      "word": "四公repo",
+      "onboard_time": 1695039217,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 362519,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1695029796,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345209,
+      "num": 345209,
+      "word": "XYG 血压高",
+      "onboard_time": 1695038195,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 344405,
@@ -2259,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314166,
+      "num": 314166,
+      "word": "原来慈禧卧室和我的差不多",
+      "onboard_time": 1695040298,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314077,
       "num": 262930,
       "word": "妒忌一般发生在熟人之间",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1694997396,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295035,
+      "num": 498559,
+      "word": "日本战犯在沈阳审判现场低头认罪",
+      "onboard_time": 1695035316,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294889,
@@ -2601,14 +2665,6 @@
       "onboard_time": 1694911295,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273459,
-      "num": 498559,
-      "word": "日本战犯在沈阳审判现场低头认罪",
-      "onboard_time": 1695035316,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273371,
@@ -3211,6 +3267,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 219350,
+      "num": 219350,
+      "word": "多人围观两只猫咪吵架",
+      "onboard_time": 1695039336,
+      "rank": 25,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 219253,
       "num": 219253,
       "word": "NewJeans 弘大校庆",
@@ -3715,6 +3779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 184564,
+      "num": 184564,
+      "word": "焦虑症 太想活了又怕活不好",
+      "onboard_time": 1695039815,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183887,
       "num": 183887,
       "word": "沈腾一句话让马丽变脸",
@@ -3739,6 +3811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181347,
+      "num": 181347,
+      "word": "为什么看车的人都喜欢踹一脚轮胎",
+      "onboard_time": 1695037956,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 181233,
       "num": 181233,
       "word": "马嘉祺由你榜五年最强新势力",
@@ -3761,6 +3841,14 @@
       "onboard_time": 1694910573,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180170,
+      "num": 180170,
+      "word": "THE9解散演唱会要来了",
+      "onboard_time": 1695040298,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 179765,
@@ -4049,6 +4137,14 @@
       "onboard_time": 1694914830,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 155638,
+      "num": 155638,
+      "word": "是不是爸爸挂电话都这么快",
+      "onboard_time": 1695037653,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 154809,
@@ -4483,6 +4579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112718,
+      "num": 112718,
+      "word": "猫咪偷喝中药后的反应",
+      "onboard_time": 1695040175,
+      "rank": 43,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 111157,
       "num": 448502,
       "word": "原神百万奖金公开赛",
@@ -4815,6 +4919,14 @@
       "num": 810259,
       "word": "大国技能群英荟",
       "onboard_time": 1694857237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11104,
+      "num": 705817,
+      "word": "共创残疾人更加幸福美好生活",
+      "onboard_time": 1695025358,
       "rank": 2,
       "category": "社会新闻"
     }

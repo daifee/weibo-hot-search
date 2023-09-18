@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 19:34:03
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/18 20:33:40
 </p>
 </blockquote>
 <p>
@@ -4755,6 +4755,12 @@ TTG对战狼队（热度：943547）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%23" target="weibo">
+演员刘金拒绝展示iPhone购买记录（热度：916078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%20%E7%8E%96%E6%9C%88%E6%99%9E%23" target="weibo">
 白色橄榄树 玖月晞（热度：915623）
 </a>
@@ -6005,12 +6011,6 @@ fx十四周年（热度：777250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A8%E5%8E%8C%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
 讨厌型人格（热度：767845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%96%B0%E5%89%A7%E6%BC%94%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E5%A6%88%23" target="weibo">
-陈都灵新剧演张凌赫的妈（热度：767584）
 </a>
 </li>
 
