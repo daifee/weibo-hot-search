@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695055094905,
+  "endTime": 1695057334381,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -601,6 +601,14 @@
       "onboard_time": 1694910631,
       "rank": 1,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 920024,
+      "num": 920024,
+      "word": "大学生蹭酒席随礼100元被指太少",
+      "onboard_time": 1695052233,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919179,
@@ -1369,14 +1377,6 @@
       "onboard_time": 1694909612,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 541519,
-      "num": 541519,
-      "word": "大学生蹭酒席随礼100元被指太少",
-      "onboard_time": 1695052233,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536720,

@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695055094905,
+  "endTime": 1695057334381,
   "band_list": [
     {
       "raw_hot": 1494904,
@@ -9,6 +9,14 @@
       "onboard_time": 1695048160,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 920024,
+      "num": 920024,
+      "word": "大学生蹭酒席随礼100元被指太少",
+      "onboard_time": 1695052233,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874860,
@@ -33,14 +41,6 @@
       "onboard_time": 1695042338,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 541519,
-      "num": 541519,
-      "word": "大学生蹭酒席随礼100元被指太少",
-      "onboard_time": 1695052233,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496362,
@@ -81,6 +81,14 @@
       "onboard_time": 1695042338,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316733,
+      "num": 249018,
+      "word": "iOS17",
+      "onboard_time": 1695047142,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 310994,
@@ -137,14 +145,6 @@
       "onboard_time": 1695048940,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 249018,
-      "num": 249018,
-      "word": "iOS17",
-      "onboard_time": 1695047142,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 240468,
@@ -401,6 +401,14 @@
       "onboard_time": 1695042098,
       "rank": 2,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 49822,
+      "num": 58007,
+      "word": "四公repo",
+      "onboard_time": 1695039217,
+      "rank": 45,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
