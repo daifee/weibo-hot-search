@@ -1,0 +1,410 @@
+{
+  "runTime": 1694999482672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3894702,
+        "num": 3894702,
+        "word": "918",
+        "onboard_time": 1694992225,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3458254,
+        "num": 3458254,
+        "word": "李在明绝食第19天健康恶化被送医",
+        "onboard_time": 1694996801,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 23367,
+        "num": 1239327,
+        "word": "我国科学家研发出新型稀土开采技术",
+        "onboard_time": 1694921074,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997361,
+        "num": 997361,
+        "word": "配眼镜时为什么要看这张图片",
+        "onboard_time": 1694997999,
+        "rank": 3,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 897865,
+        "num": 897865,
+        "word": "新郎开迈巴赫扮猪八戒接新娘",
+        "onboard_time": 1694967870,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840282,
+        "num": 840282,
+        "word": "九一八事变爆发92周年",
+        "onboard_time": 1694994994,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804996,
+        "num": 804996,
+        "word": "磨牙的原因",
+        "onboard_time": 1694995596,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 630336,
+        "num": 630336,
+        "word": "医生一眼认出9旬患者相拥落泪",
+        "onboard_time": 1694991625,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615690,
+        "num": 615690,
+        "word": "黑龙江发生重大刑案",
+        "onboard_time": 1694951733,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560387,
+        "num": 560387,
+        "word": "每个人都该铭记九一八",
+        "onboard_time": 1694994873,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1923896,
+        "num": 546150,
+        "word": "Lisa演唱会哭了",
+        "onboard_time": 1694992408,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1044905,
+        "num": 537481,
+        "word": "李兰迪这个发型好适合方圆脸女生",
+        "onboard_time": 1694960019,
+        "rank": 11,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 987342,
+        "num": 531594,
+        "word": "很难看到肖战在红毯上这么拘谨",
+        "onboard_time": 1694995957,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519015,
+        "num": 519015,
+        "word": "谁家大学教室是海景房啊",
+        "onboard_time": 1694994393,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507798,
+        "num": 507798,
+        "word": "夫妻偷渡到缅北后因业绩太差被打",
+        "onboard_time": 1694966132,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483279,
+        "num": 483279,
+        "word": "BLACKPINK说以后会以更好的样子和大家见面",
+        "onboard_time": 1694992891,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465527,
+        "num": 465527,
+        "word": "在泰国的雪王皇冠都变大了",
+        "onboard_time": 1694996076,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351446,
+        "num": 351446,
+        "word": "金晨打水仗被迫卸妆了",
+        "onboard_time": 1694955758,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344405,
+        "num": 344405,
+        "word": "镇上出了第一个女兵乡亲们纳鞋垫相送",
+        "onboard_time": 1694992949,
+        "rank": 18,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 289659,
+        "num": 289659,
+        "word": "虞书欣卢昱晓对田嘉瑞叫姐姐有执念",
+        "onboard_time": 1694993671,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874051,
+        "num": 289651,
+        "word": "不经意却对皮肤好的习惯",
+        "onboard_time": 1694997999,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 602127,
+        "num": 289184,
+        "word": "新公司让我节后8号入职",
+        "onboard_time": 1694998899,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593290,
+        "num": 289094,
+        "word": "苹果称iPhone12在中国大陆符合标准",
+        "onboard_time": 1694997100,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 499869,
+        "num": 288680,
+        "word": "原来一万块有这么厚",
+        "onboard_time": 1694959836,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 295721,
+        "num": 288654,
+        "word": "蜜雪加冰",
+        "onboard_time": 1694997396,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288407,
+        "num": 288407,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1694964216,
+        "rank": 25,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 286849,
+        "num": 286849,
+        "word": "92年前的血与泪不能忘也不敢忘",
+        "onboard_time": 1694995118,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278667,
+        "num": 278667,
+        "word": "沈腾来自东北的水壶战神",
+        "onboard_time": 1694994214,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278057,
+        "num": 278057,
+        "word": "陈坤 坦然接受生命中的一切",
+        "onboard_time": 1694966973,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278029,
+        "num": 278029,
+        "word": "真正的富二代留学生的生活",
+        "onboard_time": 1694962718,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276995,
+        "num": 276995,
+        "word": "朋友找一路的蛋挞插在我伞上",
+        "onboard_time": 1694994154,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268136,
+        "num": 268136,
+        "word": "被爱会长出新的血肉",
+        "onboard_time": 1694995777,
+        "rank": 31,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 261392,
+        "num": 261392,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1694992648,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 228401,
+        "num": 228401,
+        "word": "女子咳嗽半月气管发现8cm蚂蟥",
+        "onboard_time": 1694960800,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224598,
+        "num": 224598,
+        "word": "原来高铁站台是禁止吸烟的",
+        "onboard_time": 1694976015,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 220988,
+        "num": 220988,
+        "word": "德约科维奇退出中国赛季",
+        "onboard_time": 1694993371,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220299,
+        "num": 220299,
+        "word": "男子凌晨5点蹲守晨练大爷提醒勿喊",
+        "onboard_time": 1694998899,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220046,
+        "num": 220046,
+        "word": "强大的肠胃是一种资产",
+        "onboard_time": 1694999078,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219697,
+        "num": 219697,
+        "word": "我找到你了李莲花",
+        "onboard_time": 1694993914,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210398,
+        "num": 210398,
+        "word": "军训求雨 萧敬腾",
+        "onboard_time": 1694997279,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 208940,
+        "num": 208940,
+        "word": "尤长靖演唱会嘉宾是彭昱畅",
+        "onboard_time": 1694971701,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203994,
+        "num": 203994,
+        "word": "原来瘦肚子也可以很轻松",
+        "onboard_time": 1694961160,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 190160,
+        "num": 190160,
+        "word": "中国经济崩溃论注定再度崩溃",
+        "onboard_time": 1694962838,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169582,
+        "num": 169582,
+        "word": "柴犬误食70粒布洛芬主人花5千救回",
+        "onboard_time": 1694954918,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159647,
+        "num": 159647,
+        "word": "九一八事变在这里爆发",
+        "onboard_time": 1694967094,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157403,
+        "num": 157403,
+        "word": "卢昱晓早期发疯文学",
+        "onboard_time": 1694950592,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151454,
+        "num": 151454,
+        "word": "为什么只有早上卖油条",
+        "onboard_time": 1694958639,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146983,
+        "num": 146983,
+        "word": "辫子客服事件会影响你买苹果产品吗",
+        "onboard_time": 1694976916,
+        "rank": 47,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 144896,
+        "num": 144896,
+        "word": "亲历者原声回忆抗战",
+        "onboard_time": 1694997999,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134821,
+        "num": 134821,
+        "word": "赵丽颖直播",
+        "onboard_time": 1694955578,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运观赛日历#"
+    }
+  }
+}
