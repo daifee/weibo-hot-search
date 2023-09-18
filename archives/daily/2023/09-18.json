@@ -1,6 +1,6 @@
 {
   "startTime": 1694967591531,
-  "endTime": 1695033329065,
+  "endTime": 1695035669585,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -91,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2028100,
+      "num": 2028100,
+      "word": "400人赴喜宴近百人中毒",
+      "onboard_time": 1695033634,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2025266,
       "num": 2025266,
       "word": "我国首次报告5例女性猴痘病例",
       "onboard_time": 1695010361,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2003598,
+      "num": 681967,
+      "word": "为什么体制内很少发朋友圈",
+      "onboard_time": 1695027758,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 2000170,
@@ -121,14 +137,6 @@
       "onboard_time": 1695022354,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1629928,
-      "num": 554473,
-      "word": "为什么体制内很少发朋友圈",
-      "onboard_time": 1695027758,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 1623236,
@@ -411,6 +419,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 694635,
+      "num": 694635,
+      "word": "苹果辫子客服系美国一名女员工",
+      "onboard_time": 1695033275,
+      "rank": 44,
+      "category": "数码,社会新闻"
+    },
+    {
       "raw_hot": 680104,
       "num": 470588,
       "word": "iPhone15ProMax到货比例为近几年最低",
@@ -488,6 +504,14 @@
       "word": "男子带着抑郁症妻子一起送外卖",
       "onboard_time": 1695001713,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614946,
+      "num": 614946,
+      "word": "美国男子极限通勤3小时到上海上班",
+      "onboard_time": 1695032376,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -899,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355090,
+      "num": 355090,
+      "word": "很难被父母PUA的原因",
+      "onboard_time": 1695034477,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 349341,
       "num": 1647708,
       "word": "她纵身一跃的样子好帅",
@@ -907,20 +939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348187,
+      "num": 348187,
+      "word": "演员刘金拒绝展示iPhone购买记录",
+      "onboard_time": 1695034654,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 344405,
       "num": 344405,
       "word": "镇上出了第一个女兵乡亲们纳鞋垫相送",
       "onboard_time": 1694992949,
       "rank": 40,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 339957,
-      "num": 339957,
-      "word": "美国男子极限通勤3小时到上海上班",
-      "onboard_time": 1695032376,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338739,
@@ -1123,6 +1155,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 267696,
+      "num": 267696,
+      "word": "两年前住进我民宿的姑娘原来是张婧仪",
+      "onboard_time": 1695032676,
+      "rank": 30,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 266339,
       "num": 266339,
       "word": "韩国检方再次申请拘捕刘亚仁",
@@ -1163,20 +1203,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 253065,
+      "num": 253065,
+      "word": "颜心记",
+      "onboard_time": 1695030577,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253053,
       "num": 253053,
       "word": "尤长靖演唱会嘉宾是彭昱畅",
       "onboard_time": 1694971701,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 252601,
-      "num": 252601,
-      "word": "颜心记",
-      "onboard_time": 1695030577,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 250384,
@@ -1227,6 +1267,14 @@
       "category": "社会新闻,数码"
     },
     {
+      "raw_hot": 243458,
+      "num": 243458,
+      "word": "Remember疑似重回LPL",
+      "onboard_time": 1695034956,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241797,
       "num": 241797,
       "word": "丞磊颜心记人设",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1695032075,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232759,
+      "num": 232759,
+      "word": "Excel错题本",
+      "onboard_time": 1695034896,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 232558,
@@ -1427,6 +1483,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 206422,
+      "num": 206422,
+      "word": "细菌战受害者锯断双腿也要干净离世",
+      "onboard_time": 1695033875,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202002,
       "num": 202002,
       "word": "买了吴磊同款项链",
@@ -1483,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190353,
-      "num": 190353,
-      "word": "两年前住进我民宿的姑娘原来是张婧仪",
-      "onboard_time": 1695032676,
-      "rank": 30,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 190090,
       "num": 190090,
       "word": "夜色尚浅逗孩子视角",
@@ -1505,6 +1561,14 @@
       "onboard_time": 1694993009,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187565,
+      "num": 187565,
+      "word": "老外觉得印个中文就挺潮的",
+      "onboard_time": 1695035496,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 187447,
@@ -1571,6 +1635,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 175508,
+      "num": 175508,
+      "word": "你认为苹果辫子客服形象是辱华吗",
+      "onboard_time": 1695034534,
+      "rank": 35,
+      "category": "数码,社会新闻"
+    },
+    {
       "raw_hot": 175490,
       "num": 175490,
       "word": "发现了一种很省钱的吃面方法",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1694960321,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164361,
+      "num": 164361,
+      "word": "XYGvsTKL",
+      "onboard_time": 1695035016,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 163058,
@@ -1707,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150451,
+      "num": 150451,
+      "word": "日本战犯在沈阳审判现场低头认罪",
+      "onboard_time": 1695035316,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149912,
       "num": 149912,
       "word": "开灯后电影院的椅子有多脏",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1694986453,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140945,
+      "num": 140945,
+      "word": "看到第一眼就讨厌的人",
+      "onboard_time": 1695033457,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 136926,
@@ -1835,12 +1931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117707,
-      "num": 117707,
-      "word": "苹果辫子客服系美国一名女员工",
-      "onboard_time": 1695033275,
-      "rank": 44,
-      "category": "数码,社会新闻"
+      "raw_hot": 119631,
+      "num": 119631,
+      "word": "山东小县城一年卖出全球70%的假睫毛",
+      "onboard_time": 1695035496,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 110622,

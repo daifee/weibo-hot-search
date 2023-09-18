@@ -1,0 +1,410 @@
+{
+  "runTime": 1695035669585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2028100,
+        "num": 2028100,
+        "word": "400人赴喜宴近百人中毒",
+        "onboard_time": 1695033634,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328550,
+        "num": 1151911,
+        "word": "她纵身一跃的样子好帅",
+        "onboard_time": 1695029796,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3531,
+        "num": 1097084,
+        "word": "展示共建一带一路的信心",
+        "onboard_time": 1695004713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090150,
+        "num": 1090150,
+        "word": "小伙误把奶茶赠品雪花膏当雪糕吃",
+        "onboard_time": 1695028176,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 211155,
+        "num": 1068101,
+        "word": "路边捡到价值5万金项链他们果断报警",
+        "onboard_time": 1695022537,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060358,
+        "num": 1060358,
+        "word": "七点以后禁食带给我的变化",
+        "onboard_time": 1695023498,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179728,
+        "num": 1053163,
+        "word": "为保住10万民警嘴差点磨出火星子",
+        "onboard_time": 1695029316,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046527,
+        "num": 1046527,
+        "word": "袁冰妍为啥两次掉进同一条沟里",
+        "onboard_time": 1695030217,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1008323,
+        "num": 1008323,
+        "word": "哈利波特才是瑞幸最该合作的ip",
+        "onboard_time": 1695031415,
+        "rank": 8,
+        "category": "作品衍生,美食"
+      },
+      {
+        "raw_hot": 694635,
+        "num": 694635,
+        "word": "苹果辫子客服系美国一名女员工",
+        "onboard_time": 1695033275,
+        "rank": 9,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 2003598,
+        "num": 681967,
+        "word": "为什么体制内很少发朋友圈",
+        "onboard_time": 1695027758,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 614946,
+        "num": 614946,
+        "word": "美国男子极限通勤3小时到上海上班",
+        "onboard_time": 1695032376,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497160,
+        "num": 497160,
+        "word": "演员刘金苹果店前怒摔iPhone",
+        "onboard_time": 1695018153,
+        "rank": 12,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 248993,
+        "num": 454885,
+        "word": "731部队用跳蚤感染鼠疫后咬人",
+        "onboard_time": 1695021096,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 236668,
+        "num": 434100,
+        "word": "美国没资格对中国禁毒努力说三道四",
+        "onboard_time": 1695025659,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 418160,
+        "num": 418160,
+        "word": "迪士尼 抖音评论区",
+        "onboard_time": 1695030638,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 389487,
+        "num": 389487,
+        "word": "董宇辉首次全英文采访完整版",
+        "onboard_time": 1695028296,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 384949,
+        "num": 384949,
+        "word": "韩国著名演员边希峰去世",
+        "onboard_time": 1695030696,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355090,
+        "num": 355090,
+        "word": "很难被父母PUA的原因",
+        "onboard_time": 1695034477,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348187,
+        "num": 348187,
+        "word": "演员刘金拒绝展示iPhone购买记录",
+        "onboard_time": 1695034654,
+        "rank": 19,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 532303,
+        "num": 339476,
+        "word": "刘亚仁强行让随行人员吸毒",
+        "onboard_time": 1695022354,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 330103,
+        "num": 330103,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1695013421,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284591,
+        "num": 284591,
+        "word": "男子被杠铃压死健身房被判赔90万",
+        "onboard_time": 1695027758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275954,
+        "num": 275954,
+        "word": "国庆8天假7个朋友结婚",
+        "onboard_time": 1695015097,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267696,
+        "num": 267696,
+        "word": "两年前住进我民宿的姑娘原来是张婧仪",
+        "onboard_time": 1695032676,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253065,
+        "num": 253065,
+        "word": "颜心记",
+        "onboard_time": 1695030577,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249988,
+        "num": 249988,
+        "word": "封神第一部票房破26亿",
+        "onboard_time": 1695030875,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243458,
+        "num": 243458,
+        "word": "Remember疑似重回LPL",
+        "onboard_time": 1695034956,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240136,
+        "num": 240136,
+        "word": "iPhone15ProMax到货比例为近几年最低",
+        "onboard_time": 1695027818,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232759,
+        "num": 232759,
+        "word": "Excel错题本",
+        "onboard_time": 1695034896,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206422,
+        "num": 206422,
+        "word": "细菌战受害者锯断双腿也要干净离世",
+        "onboard_time": 1695033875,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190902,
+        "num": 190902,
+        "word": "猪油",
+        "onboard_time": 1695020374,
+        "rank": 31,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 187565,
+        "num": 187565,
+        "word": "老外觉得印个中文就挺潮的",
+        "onboard_time": 1695035496,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176115,
+        "num": 176115,
+        "word": "i人的天使",
+        "onboard_time": 1695029616,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175878,
+        "num": 175878,
+        "word": "刘聪演唱会",
+        "onboard_time": 1695032075,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175508,
+        "num": 175508,
+        "word": "你认为苹果辫子客服形象是辱华吗",
+        "onboard_time": 1695034534,
+        "rank": 35,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 174163,
+        "num": 174163,
+        "word": "女生毕设写花西子发愁写其市场定位",
+        "onboard_time": 1695026573,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173065,
+        "num": 173065,
+        "word": "医生一直叫我的狗陈女士",
+        "onboard_time": 1695021700,
+        "rank": 37,
+        "category": "幽默,动物萌宠"
+      },
+      {
+        "raw_hot": 164361,
+        "num": 164361,
+        "word": "XYGvsTKL",
+        "onboard_time": 1695035016,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159596,
+        "num": 159596,
+        "word": "我怀疑我奶被大学生魂穿了",
+        "onboard_time": 1695021034,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152577,
+        "num": 152577,
+        "word": "美术联考挨得近不怕抄袭吗",
+        "onboard_time": 1695030217,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150451,
+        "num": 150451,
+        "word": "日本战犯在沈阳审判现场低头认罪",
+        "onboard_time": 1695035316,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140945,
+        "num": 140945,
+        "word": "看到第一眼就讨厌的人",
+        "onboard_time": 1695033457,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135377,
+        "num": 135377,
+        "word": "濒死时会感觉身边多了一个人",
+        "onboard_time": 1695014856,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 134251,
+        "num": 134251,
+        "word": "李在明器官因绝食严重受损",
+        "onboard_time": 1695006215,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 130796,
+        "num": 130796,
+        "word": "13岁男孩花318元烫发家人报警",
+        "onboard_time": 1695019175,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 129269,
+        "word": "这就是杭州人的格局",
+        "onboard_time": 1695031654,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127666,
+        "num": 127666,
+        "word": "罗永浩评苹果无论多烂都会卖爆",
+        "onboard_time": 1695028116,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124974,
+        "num": 124974,
+        "word": "防空警报",
+        "onboard_time": 1695002373,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 119631,
+        "num": 119631,
+        "word": "山东小县城一年卖出全球70%的假睫毛",
+        "onboard_time": 1695035496,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会吉祥物组合名叫江南忆#"
+    }
+  }
+}
