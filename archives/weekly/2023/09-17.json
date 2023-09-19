@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695090224988,
+  "endTime": 1695090874758,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -115,6 +115,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2153164,
+      "num": 1540800,
+      "word": "韩国总统批准拘捕李在明",
+      "onboard_time": 1695087514,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2125163,
       "num": 642859,
       "word": "预制菜",
@@ -168,14 +176,6 @@
       "word": "我国首次报告5例女性猴痘病例",
       "onboard_time": 1695010361,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2016347,
-      "num": 1540800,
-      "word": "韩国总统批准拘捕李在明",
-      "onboard_time": 1695087514,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1712881,
+      "num": 1712881,
+      "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+      "onboard_time": 1695087514,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1698943,
       "num": 807701,
       "word": "袁冰妍有多部剧待播",
@@ -321,14 +329,6 @@
       "onboard_time": 1694920056,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1580605,
-      "num": 1580605,
-      "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
-      "onboard_time": 1695087514,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1517175,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 943103,
-      "num": 308461,
+      "num": 335103,
       "word": "体制内的桌子是不是都长这样",
       "onboard_time": 1695079590,
       "rank": 30,
@@ -1227,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 643254,
+      "num": 343971,
+      "word": "提了离职没走的人什么样了",
+      "onboard_time": 1695089184,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 641417,
       "num": 641417,
       "word": "把面粉倒进滚烫的开水里",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1695013603,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 608873,
-      "num": 311748,
-      "word": "提了离职没走的人什么样了",
-      "onboard_time": 1695089184,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 607891,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1695044019,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 560570,
+      "num": 560570,
+      "word": "小伙一天走3万步吃10顿饭胖了30斤",
+      "onboard_time": 1695087514,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558233,
@@ -1547,12 +1555,12 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 528868,
-      "num": 528868,
-      "word": "小伙一天走3万步吃10顿饭胖了30斤",
-      "onboard_time": 1695087514,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 528992,
+      "num": 495843,
+      "word": "G社拍的全智贤",
+      "onboard_time": 1695089676,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 522454,
@@ -1860,7 +1868,7 @@
     },
     {
       "raw_hot": 459739,
-      "num": 301839,
+      "num": 330543,
       "word": "YG新女团会取代BLACKPINK吗",
       "onboard_time": 1695088653,
       "rank": 22,
@@ -2195,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387402,
+      "num": 387402,
+      "word": "特斯拉市值一夜蒸发2117亿",
+      "onboard_time": 1695088833,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 386824,
       "num": 386824,
       "word": "封神第一部票房破26亿",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1694919694,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380572,
+      "num": 326414,
+      "word": "周也撑住了贴头皮造型",
+      "onboard_time": 1695088955,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379884,
@@ -2299,20 +2323,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 375915,
-      "num": 299165,
-      "word": "周也撑住了贴头皮造型",
-      "onboard_time": 1695088955,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 375753,
       "num": 443546,
       "word": "日本本州近海5.4级地震",
       "onboard_time": 1695082299,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375113,
+      "num": 375113,
+      "word": "吉克隽逸问麻辣王子好吃吗",
+      "onboard_time": 1695086075,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 374902,
@@ -2409,14 +2433,6 @@
       "onboard_time": 1695002558,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 366069,
-      "num": 366069,
-      "word": "吉克隽逸问麻辣王子好吃吗",
-      "onboard_time": 1695086075,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 365153,
@@ -2643,14 +2659,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 332755,
-      "num": 332755,
-      "word": "特斯拉市值一夜蒸发2117亿",
-      "onboard_time": 1695088833,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 332269,
       "num": 257665,
       "word": "医生一直叫我的狗陈女士",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1695048940,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321843,
+      "num": 321843,
+      "word": "周二什么都不是",
+      "onboard_time": 1695089312,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 321805,
@@ -2939,14 +2955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 296729,
-      "num": 296729,
-      "word": "G社拍的全智贤",
-      "onboard_time": 1695089676,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 296640,
       "num": 296640,
       "word": "原来工资日薪是这样算的",
@@ -3065,6 +3073,14 @@
       "onboard_time": 1695039336,
       "rank": 25,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 282166,
+      "num": 205071,
+      "word": "杭州亚运会中国队开门红",
+      "onboard_time": 1695090455,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 281940,
@@ -3305,14 +3321,6 @@
       "onboard_time": 1695025235,
       "rank": 49,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 265272,
-      "num": 265272,
-      "word": "周二什么都不是",
-      "onboard_time": 1695089312,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 263204,
@@ -4091,6 +4099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204726,
+      "num": 204726,
+      "word": "云边有个小卖部欢迎光临版海报",
+      "onboard_time": 1695090034,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204563,
       "num": 204563,
       "word": "粉笔模考",
@@ -4273,6 +4289,14 @@
       "onboard_time": 1695010238,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194157,
+      "num": 194157,
+      "word": "电影志愿军初心特辑",
+      "onboard_time": 1695090455,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 194086,
@@ -4481,14 +4505,6 @@
       "onboard_time": 1695022537,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 184578,
-      "num": 184578,
-      "word": "云边有个小卖部欢迎光临版海报",
-      "onboard_time": 1695090034,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 183887,
@@ -4979,6 +4995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153254,
+      "num": 153254,
+      "word": "12306平均每秒超60万人刷票",
+      "onboard_time": 1695089613,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153183,
       "num": 153183,
       "word": "诺兰黑暗骑士万字解析",
@@ -5195,6 +5219,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 141655,
+      "num": 141655,
+      "word": "你的谎言也动听官宣",
+      "onboard_time": 1695089015,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141444,
       "num": 141444,
       "word": "天天小兄弟在异人之下团建",
@@ -5257,6 +5289,14 @@
       "onboard_time": 1694949392,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137303,
+      "num": 137303,
+      "word": "73岁大爷带脑梗老伴10年9次自驾进藏",
+      "onboard_time": 1695090273,
+      "rank": 44,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 133189,
@@ -5369,14 +5409,6 @@
       "onboard_time": 1694918856,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125727,
-      "num": 125727,
-      "word": "你的谎言也动听官宣",
-      "onboard_time": 1695089015,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 125699,
@@ -5691,6 +5723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 66734,
+      "num": 1396549,
+      "word": "丰收连连看",
+      "onboard_time": 1695089914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61416,
       "num": 61416,
       "word": "煤气师傅凌晨捡到走失男孩交给警察",
@@ -5769,14 +5809,6 @@
       "onboard_time": 1694861256,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36974,
-      "num": 1396549,
-      "word": "丰收连连看",
-      "onboard_time": 1695089914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35946,

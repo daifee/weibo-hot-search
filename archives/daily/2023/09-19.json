@@ -1,9 +1,9 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695090224988,
+  "endTime": 1695090874758,
   "band_list": [
     {
-      "raw_hot": 2016347,
+      "raw_hot": 2153164,
       "num": 1540800,
       "word": "韩国总统批准拘捕李在明",
       "onboard_time": 1695087514,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1580605,
-      "num": 1580605,
+      "raw_hot": 1712881,
+      "num": 1712881,
       "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
       "onboard_time": 1695087514,
       "rank": 0,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 943103,
-      "num": 308461,
+      "num": 335103,
       "word": "体制内的桌子是不是都长这样",
       "onboard_time": 1695079590,
       "rank": 30,
@@ -139,6 +139,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 643254,
+      "num": 343971,
+      "word": "提了离职没走的人什么样了",
+      "onboard_time": 1695089184,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 615161,
       "num": 615161,
       "word": "七点以后禁食带给我的变化",
@@ -147,12 +155,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 608873,
-      "num": 311748,
-      "word": "提了离职没走的人什么样了",
-      "onboard_time": 1695089184,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 560570,
+      "num": 560570,
+      "word": "小伙一天走3万步吃10顿饭胖了30斤",
+      "onboard_time": 1695087514,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546730,
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528868,
-      "num": 528868,
-      "word": "小伙一天走3万步吃10顿饭胖了30斤",
-      "onboard_time": 1695087514,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 528992,
+      "num": 495843,
+      "word": "G社拍的全智贤",
+      "onboard_time": 1695089676,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 517668,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 459739,
-      "num": 301839,
+      "num": 330543,
       "word": "YG新女团会取代BLACKPINK吗",
       "onboard_time": 1695088653,
       "rank": 22,
@@ -227,8 +235,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 375915,
-      "num": 299165,
+      "raw_hot": 387402,
+      "num": 387402,
+      "word": "特斯拉市值一夜蒸发2117亿",
+      "onboard_time": 1695088833,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 380572,
+      "num": 326414,
       "word": "周也撑住了贴头皮造型",
       "onboard_time": 1695088955,
       "rank": 23,
@@ -251,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375113,
+      "num": 375113,
+      "word": "吉克隽逸问麻辣王子好吃吗",
+      "onboard_time": 1695086075,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370604,
       "num": 370604,
       "word": "演员刘金拒绝展示iPhone购买记录",
@@ -265,14 +289,6 @@
       "onboard_time": 1695089254,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 366069,
-      "num": 366069,
-      "word": "吉克隽逸问麻辣王子好吃吗",
-      "onboard_time": 1695086075,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 364227,
@@ -331,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332755,
-      "num": 332755,
-      "word": "特斯拉市值一夜蒸发2117亿",
-      "onboard_time": 1695088833,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 325889,
       "num": 439895,
       "word": "赢了我带你回家输了下辈子再见",
       "onboard_time": 1695078506,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321843,
+      "num": 321843,
+      "word": "周二什么都不是",
+      "onboard_time": 1695089312,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 321805,
@@ -403,12 +419,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 296729,
-      "num": 296729,
-      "word": "G社拍的全智贤",
-      "onboard_time": 1695089676,
-      "rank": 24,
-      "category": "作品衍生,时尚"
+      "raw_hot": 282166,
+      "num": 205071,
+      "word": "杭州亚运会中国队开门红",
+      "onboard_time": 1695090455,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 275202,
@@ -425,14 +441,6 @@
       "onboard_time": 1695079048,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 265272,
-      "num": 265272,
-      "word": "周二什么都不是",
-      "onboard_time": 1695089312,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 257383,
@@ -555,6 +563,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 204726,
+      "num": 204726,
+      "word": "云边有个小卖部欢迎光临版海报",
+      "onboard_time": 1695090034,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202476,
       "num": 202476,
       "word": "国庆假期铁路日均客流量约为春运两倍",
@@ -579,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194157,
+      "num": 194157,
+      "word": "电影志愿军初心特辑",
+      "onboard_time": 1695090455,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193694,
       "num": 187875,
       "word": "最令人舒服的沟通方式",
@@ -593,14 +617,6 @@
       "onboard_time": 1695085235,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184578,
-      "num": 184578,
-      "word": "云边有个小卖部欢迎光临版海报",
-      "onboard_time": 1695090034,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 182943,
@@ -715,6 +731,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 153254,
+      "num": 153254,
+      "word": "12306平均每秒超60万人刷票",
+      "onboard_time": 1695089613,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152666,
       "num": 152666,
       "word": "为抓嫌犯他百米冲刺全身多处擦伤",
@@ -763,12 +787,28 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 141655,
+      "num": 141655,
+      "word": "你的谎言也动听官宣",
+      "onboard_time": 1695089015,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138709,
       "num": 138709,
       "word": "中国台湾东北附近发生6.7级左右地震",
       "onboard_time": 1695044019,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137303,
+      "num": 137303,
+      "word": "73岁大爷带脑梗老伴10年9次自驾进藏",
+      "onboard_time": 1695090273,
+      "rank": 44,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 134177,
@@ -801,14 +841,6 @@
       "onboard_time": 1695060078,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 125727,
-      "num": 125727,
-      "word": "你的谎言也动听官宣",
-      "onboard_time": 1695089015,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 116830,
@@ -931,6 +963,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 66734,
+      "num": 1396549,
+      "word": "丰收连连看",
+      "onboard_time": 1695089914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58288,
       "num": 58288,
       "word": "王毅同沙利文在马耳他会晤",
@@ -953,14 +993,6 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 36974,
-      "num": 1396549,
-      "word": "丰收连连看",
-      "onboard_time": 1695089914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33545,
