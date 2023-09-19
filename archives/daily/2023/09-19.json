@@ -1,18 +1,18 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695090874758,
+  "endTime": 1695093461508,
   "band_list": [
     {
       "raw_hot": 2153164,
-      "num": 1540800,
+      "num": 1727152,
       "word": "韩国总统批准拘捕李在明",
       "onboard_time": 1695087514,
       "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1712881,
-      "num": 1712881,
+      "raw_hot": 1761996,
+      "num": 1761996,
       "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
       "onboard_time": 1695087514,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024950,
+      "num": 1024950,
+      "word": "花少5机场合体",
+      "onboard_time": 1695090873,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1007517,
       "num": 928061,
       "word": "三喜奶奶看起来比况盛还年轻",
@@ -107,6 +115,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 846213,
+      "num": 846213,
+      "word": "宁泽涛全智贤同框",
+      "onboard_time": 1695091714,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 837785,
+      "num": 459418,
+      "word": "赵露思机场扶起摔倒的路人",
+      "onboard_time": 1695092195,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 795943,
       "num": 795943,
       "word": "油价",
@@ -140,11 +164,27 @@
     },
     {
       "raw_hot": 643254,
-      "num": 343971,
+      "num": 392247,
       "word": "提了离职没走的人什么样了",
       "onboard_time": 1695089184,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 632771,
+      "num": 632771,
+      "word": "旧款iPhone升级iOS17后续航降低",
+      "onboard_time": 1695092436,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 626244,
+      "num": 456292,
+      "word": "下辈子我当王诗龄",
+      "onboard_time": 1695092073,
+      "rank": 12,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 615161,
@@ -163,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553048,
+      "num": 495843,
+      "word": "G社拍的全智贤",
+      "onboard_time": 1695089676,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 546730,
       "num": 546730,
       "word": "被拐28年最后她亲手把人贩子送上法庭",
       "onboard_time": 1695082358,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528992,
-      "num": 495843,
-      "word": "G社拍的全智贤",
-      "onboard_time": 1695089676,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 517668,
@@ -211,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443093,
+      "num": 443093,
+      "word": "热巴好A",
+      "onboard_time": 1695092494,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431008,
       "num": 431008,
       "word": "雪糕厂每年带薪放寒假",
@@ -235,12 +283,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 387402,
-      "num": 387402,
+      "raw_hot": 410646,
+      "num": 410646,
       "word": "特斯拉市值一夜蒸发2117亿",
       "onboard_time": 1695088833,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 400561,
+      "num": 400561,
+      "word": "Lisa舞蹈视频MONEY播放量突破9亿",
+      "onboard_time": 1695092855,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 380572,
@@ -331,6 +387,22 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 339494,
+      "num": 339494,
+      "word": "他从火光中走来今晚开播",
+      "onboard_time": 1695091356,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 338148,
+      "num": 338148,
+      "word": "iPhone16Pro将配备5倍光学变焦镜头",
+      "onboard_time": 1695093156,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 336877,
       "num": 336877,
       "word": "奇强董事长在直播间哭了",
@@ -387,6 +459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 311511,
+      "num": 452892,
+      "word": "杭州亚运会中国队开门红",
+      "onboard_time": 1695090455,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311073,
       "num": 311073,
       "word": "这次是山东旗袍大姨出手了",
@@ -401,6 +481,14 @@
       "onboard_time": 1695084277,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306017,
+      "num": 306017,
+      "word": "酱香开塞露",
+      "onboard_time": 1695092436,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 297868,
@@ -419,12 +507,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 282166,
-      "num": 205071,
-      "word": "杭州亚运会中国队开门红",
-      "onboard_time": 1695090455,
+      "raw_hot": 286348,
+      "num": 286348,
+      "word": "国风毛衣裙的第一批受害者",
+      "onboard_time": 1695092436,
       "rank": 30,
-      "category": "体育"
+      "category": "时尚"
     },
     {
       "raw_hot": 275202,
@@ -531,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225258,
+      "num": 225258,
+      "word": "兰闺喜事定档",
+      "onboard_time": 1695092675,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220498,
       "num": 220498,
       "word": "莲花味精放弃低成本味精研发专利权",
       "onboard_time": 1695046423,
       "rank": 19,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 219678,
+      "num": 219678,
+      "word": "酱香拿铁补货了",
+      "onboard_time": 1695091116,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 212544,
@@ -571,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203932,
+      "num": 203932,
+      "word": "张靓颖光2023巡回演唱会",
+      "onboard_time": 1695092436,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202476,
       "num": 202476,
       "word": "国庆假期铁路日均客流量约为春运两倍",
@@ -593,6 +705,22 @@
       "onboard_time": 1695042338,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196544,
+      "num": 196544,
+      "word": "墨雨云间杀青",
+      "onboard_time": 1695090994,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196525,
+      "num": 196525,
+      "word": "魏大勋新剧演卧底",
+      "onboard_time": 1695093156,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 194157,
@@ -651,12 +779,28 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 173163,
+      "num": 173163,
+      "word": "陈坤撞衫秀场帐篷",
+      "onboard_time": 1695093336,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 169957,
       "num": 169957,
       "word": "身体倒挂救人后00后消防员缺氧晕倒",
       "onboard_time": 1695086488,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168440,
+      "num": 168440,
+      "word": "开始担心国货的精神状态",
+      "onboard_time": 1695093095,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 167998,
@@ -707,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158757,
+      "num": 158757,
+      "word": "12306平均每秒超60万人刷票",
+      "onboard_time": 1695089613,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158313,
       "num": 259795,
       "word": "东海海域6.4级地震",
@@ -729,14 +881,6 @@
       "onboard_time": 1695039095,
       "rank": 39,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 153254,
-      "num": 153254,
-      "word": "12306平均每秒超60万人刷票",
-      "onboard_time": 1695089613,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152666,
@@ -769,6 +913,14 @@
       "onboard_time": 1695050318,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144464,
+      "num": 144464,
+      "word": "新华为平板成首款星闪产品",
+      "onboard_time": 1695092976,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 143288,
@@ -899,6 +1051,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93696,
+      "num": 448632,
+      "word": "蛋仔送你当老板",
+      "onboard_time": 1695092436,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92997,
+      "num": 1396549,
+      "word": "丰收连连看",
+      "onboard_time": 1695089914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89839,
       "num": 89839,
       "word": "阿姨刷单险被骗547万民警及时止损",
@@ -961,14 +1129,6 @@
       "onboard_time": 1695042098,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 66734,
-      "num": 1396549,
-      "word": "丰收连连看",
-      "onboard_time": 1695089914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58288,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1695093461508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1761996,
+        "num": 1761996,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1804879,
+        "num": 1727152,
+        "word": "韩国总统批准拘捕李在明",
+        "onboard_time": 1695087514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92997,
+        "num": 1145577,
+        "word": "丰收连连看",
+        "onboard_time": 1695089914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024950,
+        "num": 1024950,
+        "word": "花少5机场合体",
+        "onboard_time": 1695090873,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846213,
+        "num": 846213,
+        "word": "宁泽涛全智贤同框",
+        "onboard_time": 1695091714,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 637018,
+        "num": 637018,
+        "word": "12306最多候补20个车次",
+        "onboard_time": 1695083920,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632771,
+        "num": 632771,
+        "word": "旧款iPhone升级iOS17后续航降低",
+        "onboard_time": 1695092436,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 570759,
+        "num": 570759,
+        "word": "迪丽热巴花少5出发路透",
+        "onboard_time": 1695087573,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491844,
+        "num": 491844,
+        "word": "三喜奶奶看起来比况盛还年轻",
+        "onboard_time": 1695083977,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464015,
+        "num": 464015,
+        "word": "极度疲劳下人一次最多能睡多久",
+        "onboard_time": 1695085646,
+        "rank": 9,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 911231,
+        "num": 462929,
+        "word": "女子遭性侵未获立案自杀发现新证据",
+        "onboard_time": 1695082960,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837785,
+        "num": 459418,
+        "word": "赵露思机场扶起摔倒的路人",
+        "onboard_time": 1695092195,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626244,
+        "num": 456292,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 311511,
+        "num": 452892,
+        "word": "杭州亚运会中国队开门红",
+        "onboard_time": 1695090455,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93696,
+        "num": 448632,
+        "word": "蛋仔送你当老板",
+        "onboard_time": 1695092436,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 553048,
+        "num": 445555,
+        "word": "G社拍的全智贤",
+        "onboard_time": 1695089676,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 443093,
+        "num": 443093,
+        "word": "热巴好A",
+        "onboard_time": 1695092494,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410646,
+        "num": 410646,
+        "word": "特斯拉市值一夜蒸发2117亿",
+        "onboard_time": 1695088833,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 404461,
+        "num": 404461,
+        "word": "易烊千玺美拉德发色",
+        "onboard_time": 1695084939,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 400561,
+        "num": 400561,
+        "word": "Lisa舞蹈视频MONEY播放量突破9亿",
+        "onboard_time": 1695092855,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 487423,
+        "num": 394452,
+        "word": "游客买票470元错付成4700元景区急寻人",
+        "onboard_time": 1695088232,
+        "rank": 20,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 481449,
+        "num": 392247,
+        "word": "提了离职没走的人什么样了",
+        "onboard_time": 1695089184,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365454,
+        "num": 365454,
+        "word": "小伙一天走3万步吃10顿饭胖了30斤",
+        "onboard_time": 1695087514,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339494,
+        "num": 339494,
+        "word": "他从火光中走来今晚开播",
+        "onboard_time": 1695091356,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338148,
+        "num": 338148,
+        "word": "iPhone16Pro将配备5倍光学变焦镜头",
+        "onboard_time": 1695093156,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333309,
+        "num": 333309,
+        "word": "95号汽油或将进入9元时代",
+        "onboard_time": 1695085717,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314512,
+        "num": 314512,
+        "word": "周也撑住了贴头皮造型",
+        "onboard_time": 1695088955,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310914,
+        "num": 310914,
+        "word": "体制内的桌子是不是都长这样",
+        "onboard_time": 1695079590,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306017,
+        "num": 306017,
+        "word": "酱香开塞露",
+        "onboard_time": 1695092436,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289320,
+        "num": 289320,
+        "word": "马斯克将向所有推特用户收费",
+        "onboard_time": 1695087514,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286348,
+        "num": 286348,
+        "word": "国风毛衣裙的第一批受害者",
+        "onboard_time": 1695092436,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 264427,
+        "num": 264427,
+        "word": "YG新女团会取代BLACKPINK吗",
+        "onboard_time": 1695088653,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225258,
+        "num": 225258,
+        "word": "兰闺喜事定档",
+        "onboard_time": 1695092675,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219678,
+        "num": 219678,
+        "word": "酱香拿铁补货了",
+        "onboard_time": 1695091116,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203932,
+        "num": 203932,
+        "word": "张靓颖光2023巡回演唱会",
+        "onboard_time": 1695092436,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202515,
+        "num": 202515,
+        "word": "雪糕厂每年带薪放寒假",
+        "onboard_time": 1695086316,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196544,
+        "num": 196544,
+        "word": "墨雨云间杀青",
+        "onboard_time": 1695090994,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196525,
+        "num": 196525,
+        "word": "魏大勋新剧演卧底",
+        "onboard_time": 1695093156,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187984,
+        "num": 187984,
+        "word": "周二什么都不是",
+        "onboard_time": 1695089312,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181384,
+        "num": 181384,
+        "word": "李在明住院仍坚持绝食",
+        "onboard_time": 1695086374,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175924,
+        "num": 175924,
+        "word": "我们恋爱吧5阵容官宣",
+        "onboard_time": 1695089676,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173163,
+        "num": 173163,
+        "word": "陈坤撞衫秀场帐篷",
+        "onboard_time": 1695093336,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172814,
+        "num": 172814,
+        "word": "伍佰 25岁为什么听我的歌呢",
+        "onboard_time": 1695048039,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168440,
+        "num": 168440,
+        "word": "开始担心国货的精神状态",
+        "onboard_time": 1695093095,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158757,
+        "num": 158757,
+        "word": "12306平均每秒超60万人刷票",
+        "onboard_time": 1695089613,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157633,
+        "num": 157633,
+        "word": "吉克隽逸问麻辣王子好吃吗",
+        "onboard_time": 1695086075,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151132,
+        "num": 151132,
+        "word": "女孩把汉服穿去了伦敦大学毕业典礼",
+        "onboard_time": 1695088595,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144464,
+        "num": 144464,
+        "word": "新华为平板成首款星闪产品",
+        "onboard_time": 1695092976,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142128,
+        "num": 142128,
+        "word": "傅云深被强吻戏份被删",
+        "onboard_time": 1695079832,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140831,
+        "num": 140831,
+        "word": "赵露思出发米兰时装周",
+        "onboard_time": 1695080013,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会吉祥物组合名叫江南忆#"
+    }
+  }
+}
