@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695098132617,
+  "endTime": 1695100546576,
   "band_list": [
     {
       "raw_hot": 2679392,
@@ -17,6 +17,14 @@
       "onboard_time": 1695087514,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1957678,
+      "num": 1957678,
+      "word": "长相思杨紫换成女装后就没那么好看了",
+      "onboard_time": 1695098200,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1761996,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1461980,
-      "num": 456292,
+      "num": 477802,
       "word": "下辈子我当王诗龄",
       "onboard_time": 1695092073,
       "rank": 12,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1036471,
+      "num": 1036471,
+      "word": "关晓彤天然呆奶茶公司被强执130万",
+      "onboard_time": 1695098620,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1007517,
       "num": 928061,
       "word": "三喜奶奶看起来比况盛还年轻",
@@ -139,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 858483,
+      "num": 477038,
+      "word": "韩国一位奶奶在公厕住了十年",
+      "onboard_time": 1695097780,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
       "raw_hot": 846219,
       "num": 846219,
       "word": "游客买票470元错付成4700元景区急寻人",
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 737512,
-      "num": 400845,
+      "num": 476033,
       "word": "真皇族粉驾到 通通闪开",
       "onboard_time": 1695096580,
       "rank": 18,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 709188,
-      "num": 412453,
+      "num": 471169,
       "word": "全智贤好像真的不会老",
       "onboard_time": 1695094836,
       "rank": 12,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 643254,
-      "num": 397650,
+      "num": 437089,
       "word": "提了离职没走的人什么样了",
       "onboard_time": 1695089184,
       "rank": 20,
@@ -283,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575787,
+      "num": 471523,
+      "word": "李维嘉说我可以加井胧微信吗",
+      "onboard_time": 1695098382,
+      "rank": 15,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 560570,
       "num": 560570,
       "word": "小伙一天走3万步吃10顿饭胖了30斤",
@@ -305,6 +337,14 @@
       "onboard_time": 1695082358,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544666,
+      "num": 544666,
+      "word": "赵继伟担任中国男篮队长",
+      "onboard_time": 1695098800,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 517668,
@@ -339,12 +379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463551,
+      "num": 463551,
+      "word": "华中师大通报公众号引用骂人伪诗经",
+      "onboard_time": 1695099038,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459739,
       "num": 330543,
       "word": "YG新女团会取代BLACKPINK吗",
       "onboard_time": 1695088653,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454627,
+      "num": 454627,
+      "word": "虞书欣米兰时装周",
+      "onboard_time": 1695099220,
+      "rank": 18,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 453998,
@@ -433,6 +489,14 @@
       "onboard_time": 1695034654,
       "rank": 11,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 367361,
+      "num": 367361,
+      "word": "浙江终于把三点水整明白了",
+      "onboard_time": 1695099400,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 366193,
@@ -595,20 +659,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 289147,
-      "num": 289147,
-      "word": "韩国一位奶奶在公厕住了十年",
-      "onboard_time": 1695097780,
-      "rank": 31,
-      "category": "其它"
-    },
-    {
       "raw_hot": 286348,
       "num": 286348,
       "word": "国风毛衣裙的第一批受害者",
       "onboard_time": 1695092436,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 286057,
+      "num": 286057,
+      "word": "六公主对哪吒弟弟的采访",
+      "onboard_time": 1695099580,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275202,
@@ -641,6 +705,22 @@
       "onboard_time": 1695079048,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 266346,
+      "num": 472802,
+      "word": "文在寅将探望李在明",
+      "onboard_time": 1695099637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258649,
+      "num": 258649,
+      "word": "虞书欣雀斑妆",
+      "onboard_time": 1695099038,
+      "rank": 31,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 257383,
@@ -697,6 +777,14 @@
       "onboard_time": 1695048940,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249351,
+      "num": 249351,
+      "word": "再见爱人",
+      "onboard_time": 1695099580,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 246780,
@@ -787,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222942,
+      "num": 222942,
+      "word": "华为FreeBuds",
+      "onboard_time": 1695099461,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220498,
       "num": 220498,
       "word": "莲花味精放弃低成本味精研发专利权",
@@ -801,6 +897,22 @@
       "onboard_time": 1695091116,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 218511,
+      "num": 218511,
+      "word": "华为耳机首发搭载无损无线传输",
+      "onboard_time": 1695099637,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 217409,
+      "num": 217409,
+      "word": "森林进化论双joker玩的是商战",
+      "onboard_time": 1695099699,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 214012,
@@ -1371,6 +1483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 40742,
+      "num": 211301,
+      "word": "体验一把云养熊猫的快乐",
+      "onboard_time": 1695097841,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33545,
       "num": 42562,
       "word": "永远被落日与晚霞治愈",
@@ -1393,14 +1513,6 @@
       "onboard_time": 1695059596,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 27870,
-      "num": 211301,
-      "word": "体验一把云养熊猫的快乐",
-      "onboard_time": 1695097841,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 27864,
