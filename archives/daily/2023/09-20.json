@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695161735898,
+  "endTime": 1695162833115,
   "band_list": [
     {
       "raw_hot": 3360154,
@@ -27,8 +27,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 637110,
-      "num": 637110,
+      "raw_hot": 739167,
+      "num": 739167,
       "word": "每天5点起床身体有什么变化",
       "onboard_time": 1695137797,
       "rank": 3,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 577730,
-      "num": 269807,
+      "num": 336667,
       "word": "石家庄某小区尸体残肢疑为女性",
       "onboard_time": 1695133301,
       "rank": 21,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127245,
+      "num": 114639,
+      "word": "孝子杨玏",
+      "onboard_time": 1695157094,
+      "rank": 24,
+      "category": "作品衍生,社会新闻"
+    },
+    {
       "raw_hot": 125487,
       "num": 125487,
       "word": "早期蔡依林被热情粉丝套圈",
@@ -435,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106153,
-      "num": 80395,
-      "word": "孝子杨玏",
-      "onboard_time": 1695157094,
-      "rank": 24,
-      "category": "作品衍生,社会新闻"
+      "raw_hot": 73400,
+      "num": 73400,
+      "word": "骄阳伴我",
+      "onboard_time": 1695160155,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 70028,
@@ -451,12 +459,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59347,
+      "num": 50321,
+      "word": "有钱也不换的化妆品",
+      "onboard_time": 1695156192,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 52514,
       "num": 49212,
       "word": "原来袋鼠这么可怕",
       "onboard_time": 1695144860,
       "rank": 30,
       "category": "动物萌宠,知识科普"
+    },
+    {
+      "raw_hot": 51515,
+      "num": 51515,
+      "word": "刘志宏和王俊凯小时候合照",
+      "onboard_time": 1695159253,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50141,
@@ -475,30 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 43105,
-      "num": 43105,
-      "word": "骄阳伴我",
-      "onboard_time": 1695160155,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40482,
-      "num": 40482,
-      "word": "有钱也不换的化妆品",
-      "onboard_time": 1695156192,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 37753,
-      "num": 37753,
-      "word": "刘志宏和王俊凯小时候合照",
-      "onboard_time": 1695159253,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 32368,
       "num": 146687,
       "word": "运动穿搭天花板",
@@ -507,20 +507,20 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 30743,
+      "num": 39437,
+      "word": "00后民警第1次收到锦旗是汪星人送的",
+      "onboard_time": 1695153854,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30378,
       "num": 49039,
       "word": "登基大典天象异变 寿仙宫中母子谈心",
       "onboard_time": 1695145040,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25878,
-      "num": 25878,
-      "word": "00后民警第1次收到锦旗是汪星人送的",
-      "onboard_time": 1695153854,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24991,
