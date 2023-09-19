@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695111723510,
+  "endTime": 1695112494205,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -131,6 +131,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2155222,
+      "num": 2155222,
+      "word": "美腕回应李佳琦抖音认证消失",
+      "onboard_time": 1695105515,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2153164,
       "num": 1727152,
       "word": "韩国总统批准拘捕李在明",
@@ -251,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1849928,
-      "num": 1849928,
-      "word": "美腕回应李佳琦抖音认证消失",
-      "onboard_time": 1695105515,
-      "rank": 11,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1840140,
       "num": 1840140,
       "word": "蜂花改喷头",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1657652,
-      "num": 387078,
+      "num": 414838,
       "word": "建议洗澡不要先洗头",
       "onboard_time": 1695109778,
       "rank": 10,
@@ -411,6 +411,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1415517,
+      "num": 1415517,
+      "word": "蜜雪冰城 红茶",
+      "onboard_time": 1695107915,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1409199,
       "num": 1409199,
       "word": "如何看苹果中国官网辫子客服形象",
@@ -441,14 +449,6 @@
       "onboard_time": 1695030217,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1325764,
-      "num": 1325764,
-      "word": "蜜雪冰城 红茶",
-      "onboard_time": 1695107915,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1324816,
@@ -1337,6 +1337,14 @@
       "onboard_time": 1694861318,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 670804,
+      "num": 670804,
+      "word": "赵今麦到底演过多少ABB式角色",
+      "onboard_time": 1695111040,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 668448,
@@ -2339,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436963,
+      "num": 436963,
+      "word": "张小斐人缘",
+      "onboard_time": 1695110257,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434469,
       "num": 434469,
       "word": "奥本海默现实比电影更可怕",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1694929533,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427760,
+      "num": 427760,
+      "word": "女子12年未休年假离职索赔14万",
+      "onboard_time": 1695110441,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424335,
@@ -2505,14 +2529,6 @@
       "onboard_time": 1694962838,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 407490,
-      "num": 407490,
-      "word": "张小斐人缘",
-      "onboard_time": 1695110257,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 404894,
@@ -2867,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361866,
+      "num": 269039,
+      "word": "刚领完月饼就提离职合适吗",
+      "onboard_time": 1695111639,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361455,
       "num": 361455,
       "word": "吉克隽逸的衣服比脸上高光还亮",
@@ -3081,14 +3105,6 @@
       "onboard_time": 1695101795,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 336034,
-      "num": 290370,
-      "word": "女子12年未休年假离职索赔14万",
-      "onboard_time": 1695110441,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335282,
@@ -3435,14 +3451,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 298959,
-      "num": 298959,
-      "word": "赵今麦到底演过多少ABB式角色",
-      "onboard_time": 1695111040,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298506,
       "num": 298506,
       "word": "张婧仪古装初体验",
@@ -3497,6 +3505,14 @@
       "onboard_time": 1694908828,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 294277,
+      "num": 294277,
+      "word": "室友变小妈",
+      "onboard_time": 1695111816,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 294202,
@@ -4185,6 +4201,14 @@
       "onboard_time": 1695026559,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241339,
+      "num": 191417,
+      "word": "肩膀突然不内扣了",
+      "onboard_time": 1695112240,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 241294,
@@ -5987,6 +6011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151269,
+      "num": 151269,
+      "word": "杭州亚运会王者荣耀选手简历",
+      "onboard_time": 1695111995,
+      "rank": 42,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 150261,
       "num": 150261,
       "word": "不理解越舒服的姿势越有害",
@@ -6033,14 +6065,6 @@
       "onboard_time": 1694858801,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147368,
-      "num": 147368,
-      "word": "刚领完月饼就提离职合适吗",
-      "onboard_time": 1695111639,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 146929,
@@ -6539,6 +6563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94640,
+      "num": 133235,
+      "word": "央广网评预制菜进校园",
+      "onboard_time": 1695112476,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93650,
       "num": 316392,
       "word": "罕见病男孩上大学选生物科学专业",
@@ -6619,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84071,
+      "num": 997707,
+      "word": "亚运会今日开赛",
+      "onboard_time": 1695111758,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83687,
       "num": 83687,
       "word": "宫门是龙浒山实锤了",
@@ -6673,6 +6713,14 @@
       "onboard_time": 1694967630,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73313,
+      "num": 389172,
+      "word": "给长辈送礼不浪费指南",
+      "onboard_time": 1695103774,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72394,
@@ -6755,20 +6803,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50215,
-      "num": 344625,
-      "word": "给长辈送礼不浪费指南",
-      "onboard_time": 1695103774,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 49054,
       "num": 53964,
       "word": "水煮荷包蛋",
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47019,
+      "num": 133192,
+      "word": "出去玩想想就开心",
+      "onboard_time": 1695112300,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 45461,

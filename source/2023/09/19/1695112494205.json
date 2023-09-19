@@ -1,0 +1,410 @@
+{
+  "runTime": 1695112494205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2155222,
+        "num": 2155222,
+        "word": "美腕回应李佳琦抖音认证消失",
+        "onboard_time": 1695105515,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1415517,
+        "num": 1415517,
+        "word": "蜜雪冰城 红茶",
+        "onboard_time": 1695107915,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84071,
+        "num": 997707,
+        "word": "亚运会今日开赛",
+        "onboard_time": 1695111758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865362,
+        "num": 865362,
+        "word": "瘦子同事带的饭",
+        "onboard_time": 1695107137,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 670804,
+        "num": 670804,
+        "word": "赵今麦到底演过多少ABB式角色",
+        "onboard_time": 1695111040,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585950,
+        "num": 585950,
+        "word": "iPhone用户羡慕的安卓功能",
+        "onboard_time": 1695107316,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 436963,
+        "num": 436963,
+        "word": "张小斐人缘",
+        "onboard_time": 1695110257,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427760,
+        "num": 427760,
+        "word": "女子12年未休年假离职索赔14万",
+        "onboard_time": 1695110441,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421455,
+        "num": 421455,
+        "word": "教育局回应幼儿园老师恐吓孩子假笑摆拍",
+        "onboard_time": 1695105874,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173313,
+        "num": 414918,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1585555,
+        "num": 414838,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 10,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 413023,
+        "num": 413023,
+        "word": "香港顶流姜涛最新活动生图",
+        "onboard_time": 1695105335,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398162,
+        "num": 398162,
+        "word": "茅台快把自己玩成料酒了",
+        "onboard_time": 1695101734,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 104002,
+        "num": 391013,
+        "word": "文在寅将探望李在明",
+        "onboard_time": 1695099637,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73313,
+        "num": 389172,
+        "word": "给长辈送礼不浪费指南",
+        "onboard_time": 1695103774,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388938,
+        "num": 388938,
+        "word": "长相思杨紫换成女装后就没那么好看了",
+        "onboard_time": 1695098200,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372313,
+        "num": 372313,
+        "word": "天蚕土豆 逆水寒",
+        "onboard_time": 1695102211,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294277,
+        "num": 294277,
+        "word": "室友变小妈",
+        "onboard_time": 1695111816,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279565,
+        "num": 279565,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271845,
+        "num": 271845,
+        "word": "孤注一掷票房破38亿",
+        "onboard_time": 1695107316,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361866,
+        "num": 269039,
+        "word": "刚领完月饼就提离职合适吗",
+        "onboard_time": 1695111639,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262162,
+        "num": 262162,
+        "word": "韩国一位奶奶在公厕住了十年",
+        "onboard_time": 1695097780,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120425,
+        "num": 260771,
+        "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+        "onboard_time": 1695097061,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260303,
+        "num": 260303,
+        "word": "00后在单位能闯出什么祸",
+        "onboard_time": 1695107973,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232867,
+        "num": 232867,
+        "word": "央视官网表扬刘雨昕演唱会强实名",
+        "onboard_time": 1695094653,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222190,
+        "num": 222190,
+        "word": "小伙漏刮100万大奖彩票被销售员发现",
+        "onboard_time": 1695102874,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220815,
+        "num": 220815,
+        "word": "虞书欣想演穿得很漂亮的大女主",
+        "onboard_time": 1695105816,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207046,
+        "num": 207046,
+        "word": "黄景瑜演戏不停职不接",
+        "onboard_time": 1695109778,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201500,
+        "num": 201500,
+        "word": "赵丽颖弹琴背影",
+        "onboard_time": 1695106175,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193997,
+        "num": 193997,
+        "word": "张艺兴上海演唱会说官宣就官宣",
+        "onboard_time": 1695111337,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397215,
+        "num": 193470,
+        "word": "手工耿给奶奶做了一个电动轮椅",
+        "onboard_time": 1695110979,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241339,
+        "num": 191417,
+        "word": "肩膀突然不内扣了",
+        "onboard_time": 1695112240,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 189322,
+        "num": 189322,
+        "word": "关晓彤方回应天然呆奶茶公司被强执",
+        "onboard_time": 1695103175,
+        "rank": 32,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 185825,
+        "num": 185825,
+        "word": "于适 GQ",
+        "onboard_time": 1695104314,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182762,
+        "num": 182762,
+        "word": "张曼玉居然是E人",
+        "onboard_time": 1695104435,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182514,
+        "num": 182514,
+        "word": "假如云之羽的人都有刘海",
+        "onboard_time": 1695109719,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176144,
+        "num": 176144,
+        "word": "黄晓明奖励自己的戏来了吗",
+        "onboard_time": 1695104674,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174856,
+        "num": 174856,
+        "word": "原来这就是雪花牛肉",
+        "onboard_time": 1695107196,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164731,
+        "num": 164731,
+        "word": "迪丽热巴帮秦海璐戴麦",
+        "onboard_time": 1695102154,
+        "rank": 38,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 158669,
+        "num": 158669,
+        "word": "为什么女生洗澡水比男生的烫",
+        "onboard_time": 1695104375,
+        "rank": 39,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 158435,
+        "num": 158435,
+        "word": "独居的人是怎么喝水的",
+        "onboard_time": 1695105335,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153032,
+        "num": 153032,
+        "word": "马龙亚运会简历好长",
+        "onboard_time": 1695108159,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151269,
+        "num": 151269,
+        "word": "杭州亚运会王者荣耀选手简历",
+        "onboard_time": 1695111995,
+        "rank": 42,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 148159,
+        "num": 148159,
+        "word": "女子回应在杭州医院遇神仙病友",
+        "onboard_time": 1695111216,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148101,
+        "num": 148101,
+        "word": "崩铁 帮帮我肯德基爷爷",
+        "onboard_time": 1695104494,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144618,
+        "num": 144618,
+        "word": "杨紫拼色针织开衫",
+        "onboard_time": 1695103415,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 133651,
+        "num": 133651,
+        "word": "心动6大结局点映",
+        "onboard_time": 1695102693,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94640,
+        "num": 133235,
+        "word": "央广网评预制菜进校园",
+        "onboard_time": 1695112476,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47019,
+        "num": 133192,
+        "word": "出去玩想想就开心",
+        "onboard_time": 1695112300,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133188,
+        "num": 133188,
+        "word": "张杰家的女子足球加油小队",
+        "onboard_time": 1695104375,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为向阳而生的他们多扫些障碍加些便利#"
+    }
+  }
+}

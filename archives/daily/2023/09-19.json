@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695111723510,
+  "endTime": 1695112494205,
   "band_list": [
     {
       "raw_hot": 4742040,
@@ -19,6 +19,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2155222,
+      "num": 2155222,
+      "word": "美腕回应李佳琦抖音认证消失",
+      "onboard_time": 1695105515,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2153164,
       "num": 1727152,
       "word": "韩国总统批准拘捕李在明",
@@ -33,14 +41,6 @@
       "onboard_time": 1695098200,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1849928,
-      "num": 1849928,
-      "word": "美腕回应李佳琦抖音认证消失",
-      "onboard_time": 1695105515,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1761996,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1657652,
-      "num": 387078,
+      "num": 414838,
       "word": "建议洗澡不要先洗头",
       "onboard_time": 1695109778,
       "rank": 10,
@@ -83,20 +83,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1415517,
+      "num": 1415517,
+      "word": "蜜雪冰城 红茶",
+      "onboard_time": 1695107915,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1373235,
       "num": 1373235,
       "word": "12306最多候补20个车次",
       "onboard_time": 1695083920,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1325764,
-      "num": 1325764,
-      "word": "蜜雪冰城 红茶",
-      "onboard_time": 1695107915,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1277183,
@@ -313,6 +313,14 @@
       "onboard_time": 1695042338,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 670804,
+      "num": 670804,
+      "word": "赵今麦到底演过多少ABB式角色",
+      "onboard_time": 1695111040,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 668448,
@@ -547,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 436963,
+      "num": 436963,
+      "word": "张小斐人缘",
+      "onboard_time": 1695110257,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431982,
       "num": 431982,
       "word": "张杰家的女子足球加油小队",
@@ -568,6 +584,14 @@
       "word": "李在明住院仍坚持绝食",
       "onboard_time": 1695086374,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427760,
+      "num": 427760,
+      "word": "女子12年未休年假离职索赔14万",
+      "onboard_time": 1695110441,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -617,14 +641,6 @@
       "onboard_time": 1695103415,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 407490,
-      "num": 407490,
-      "word": "张小斐人缘",
-      "onboard_time": 1695110257,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 380572,
@@ -689,6 +705,14 @@
       "onboard_time": 1695080013,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 361866,
+      "num": 269039,
+      "word": "刚领完月饼就提离职合适吗",
+      "onboard_time": 1695111639,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 350885,
@@ -785,14 +809,6 @@
       "onboard_time": 1695101795,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 336034,
-      "num": 290370,
-      "word": "女子12年未休年假离职索赔14万",
-      "onboard_time": 1695110441,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330855,
@@ -899,14 +915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298959,
-      "num": 298959,
-      "word": "赵今麦到底演过多少ABB式角色",
-      "onboard_time": 1695111040,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297868,
       "num": 209483,
       "word": "容貌焦虑的姐妹都来听听徐志胜的这段话",
@@ -921,6 +929,14 @@
       "onboard_time": 1695048221,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 294277,
+      "num": 294277,
+      "word": "室友变小妈",
+      "onboard_time": 1695111816,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 286348,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1695093336,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 241339,
+      "num": 191417,
+      "word": "肩膀突然不内扣了",
+      "onboard_time": 1695112240,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 240468,
@@ -1683,20 +1707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151269,
+      "num": 151269,
+      "word": "杭州亚运会王者荣耀选手简历",
+      "onboard_time": 1695111995,
+      "rank": 42,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 149629,
       "num": 149629,
       "word": "广州区伯去世",
       "onboard_time": 1695040958,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147368,
-      "num": 147368,
-      "word": "刚领完月饼就提离职合适吗",
-      "onboard_time": 1695111639,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 147351,
@@ -1859,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94640,
+      "num": 133235,
+      "word": "央广网评预制菜进校园",
+      "onboard_time": 1695112476,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92997,
       "num": 1396549,
       "word": "丰收连连看",
@@ -1923,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84071,
+      "num": 997707,
+      "word": "亚运会今日开赛",
+      "onboard_time": 1695111758,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79393,
       "num": 79393,
       "word": "脂肪形成的真相",
@@ -1947,6 +1987,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 73313,
+      "num": 389172,
+      "word": "给长辈送礼不浪费指南",
+      "onboard_time": 1695103774,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72394,
       "num": 259628,
       "word": "你有放松困难症吗",
@@ -1963,14 +2011,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 50215,
-      "num": 344625,
-      "word": "给长辈送礼不浪费指南",
-      "onboard_time": 1695103774,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 49822,
       "num": 58007,
       "word": "四公repo",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47019,
+      "num": 133192,
+      "word": "出去玩想想就开心",
+      "onboard_time": 1695112300,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 45461,
