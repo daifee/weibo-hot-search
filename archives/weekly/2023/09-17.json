@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695126818460,
+  "endTime": 1695127795478,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1108912,
+      "num": 933030,
+      "word": "能不能别来碰瓷我们顶流",
+      "onboard_time": 1695123756,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1100926,
       "num": 1035585,
       "word": "湖南一高校疑918办演出升日本国旗",
@@ -816,14 +824,6 @@
       "word": "体制内的桌子是不是都长这样",
       "onboard_time": 1695079590,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 933030,
-      "num": 933030,
-      "word": "能不能别来碰瓷我们顶流",
-      "onboard_time": 1695123756,
-      "rank": 3,
       "category": "幽默"
     },
     {
@@ -1115,12 +1115,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 780448,
+      "num": 780448,
+      "word": "徐娇回归周星驰公司",
+      "onboard_time": 1695126576,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 774270,
       "num": 774270,
       "word": "黑龙江重大刑案嫌疑人徐某被抓获",
       "onboard_time": 1695021333,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771789,
+      "num": 771789,
+      "word": "印度扳平",
+      "onboard_time": 1695126275,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 769558,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1694937873,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739691,
+      "num": 478218,
+      "word": "第一次见到地铁工作人员工作餐",
+      "onboard_time": 1695126576,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 737652,
@@ -1433,6 +1457,14 @@
       "onboard_time": 1694868337,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 675023,
+      "num": 675023,
+      "word": "我有一个朋友",
+      "onboard_time": 1695123937,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 674937,
@@ -1723,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 593516,
-      "num": 593516,
-      "word": "我有一个朋友",
-      "onboard_time": 1695123937,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 593290,
       "num": 355269,
       "word": "苹果称iPhone12在中国大陆符合标准",
@@ -1923,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549942,
+      "num": 549942,
+      "word": "大腿赘肉保不住了",
+      "onboard_time": 1695123098,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 546730,
       "num": 546730,
       "word": "被拐28年最后她亲手把人贩子送上法庭",
@@ -2017,14 +2049,6 @@
       "onboard_time": 1695037053,
       "rank": 15,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 531325,
-      "num": 531325,
-      "word": "大腿赘肉保不住了",
-      "onboard_time": 1695123098,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 531063,
@@ -2257,14 +2281,6 @@
       "onboard_time": 1694939975,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 493851,
-      "num": 493851,
-      "word": "印度扳平",
-      "onboard_time": 1695126275,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 493144,
@@ -2755,14 +2771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 402815,
-      "num": 202527,
-      "word": "第一次见到地铁工作人员工作餐",
-      "onboard_time": 1695126576,
-      "rank": 30,
-      "category": "其它"
-    },
-    {
       "raw_hot": 400597,
       "num": 376969,
       "word": "8旬老人网购上瘾直播间买100多条饰品",
@@ -2884,7 +2892,7 @@
     },
     {
       "raw_hot": 382484,
-      "num": 318821,
+      "num": 345781,
       "word": "原来牙线是这样用的",
       "onboard_time": 1695124477,
       "rank": 21,
@@ -3723,6 +3731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303482,
+      "num": 303482,
+      "word": "焦虑的人可以多吃点酸的",
+      "onboard_time": 1695126576,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301602,
       "num": 301602,
       "word": "100米民警走了10多分钟",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1695011200,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 290515,
+      "num": 290515,
+      "word": "钟汉良搂着正在跳舞的秦岚",
+      "onboard_time": 1695126937,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 289659,
@@ -4048,6 +4072,14 @@
       "word": "曼联内讧",
       "onboard_time": 1695084819,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 275097,
+      "num": 275097,
+      "word": "国足亚运队半场1比1印度",
+      "onboard_time": 1695126873,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -4323,6 +4355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253208,
+      "num": 223824,
+      "word": "冰淇凌做成波浪型的原因",
+      "onboard_time": 1695126576,
+      "rank": 32,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 253177,
       "num": 253177,
       "word": "崩铁 帮帮我肯德基爷爷",
@@ -4401,6 +4441,14 @@
       "onboard_time": 1695027876,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 249901,
+      "num": 249901,
+      "word": "迪丽热巴五只蚂蚁搬大米",
+      "onboard_time": 1695127236,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 249672,
@@ -4747,14 +4795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231086,
-      "num": 231086,
-      "word": "徐娇回归周星驰公司",
-      "onboard_time": 1695126576,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230903,
       "num": 230903,
       "word": "薛之谦广州抢票",
@@ -4777,14 +4817,6 @@
       "onboard_time": 1695084577,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229090,
-      "num": 201863,
-      "word": "冰淇凌做成波浪型的原因",
-      "onboard_time": 1695126576,
-      "rank": 32,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 228948,
@@ -5259,6 +5291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207513,
+      "num": 207513,
+      "word": "她与灯观鹤笔记获奖",
+      "onboard_time": 1695126937,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 206433,
       "num": 206433,
       "word": "王栎鑫俞灏明早上吵架晚上和好",
@@ -5337,6 +5377,14 @@
       "onboard_time": 1695097061,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204140,
+      "num": 204140,
+      "word": "荣耀发布会",
+      "onboard_time": 1695127416,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 203932,
@@ -5595,14 +5643,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 195539,
-      "num": 195539,
-      "word": "焦虑的人可以多吃点酸的",
-      "onboard_time": 1695126576,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195512,
       "num": 195512,
       "word": "2023年KPOP组合专辑总销量TOP9",
@@ -5625,6 +5665,14 @@
       "onboard_time": 1695041798,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193972,
+      "num": 219258,
+      "word": "荣耀VPurse",
+      "onboard_time": 1695127298,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 193694,
@@ -5833,6 +5881,14 @@
       "onboard_time": 1694912613,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185267,
+      "num": 185267,
+      "word": "小鹏发布会",
+      "onboard_time": 1695126635,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 184881,
@@ -6227,14 +6283,6 @@
       "category": "社会正能量,军事"
     },
     {
-      "raw_hot": 169026,
-      "num": 169026,
-      "word": "小鹏发布会",
-      "onboard_time": 1695126635,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 168890,
       "num": 995653,
       "word": "多位羽毛球冠军出自杭州文龙巷小学",
@@ -6249,6 +6297,14 @@
       "onboard_time": 1694943211,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167609,
+      "num": 167609,
+      "word": "给孙尚香皮肤加了点星buff",
+      "onboard_time": 1695124173,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 167370,
@@ -6393,14 +6449,6 @@
       "onboard_time": 1695002073,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158927,
-      "num": 158927,
-      "word": "给孙尚香皮肤加了点星buff",
-      "onboard_time": 1695124173,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 158899,
@@ -6931,6 +6979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130692,
+      "num": 153624,
+      "word": "理工男的翻身仗",
+      "onboard_time": 1695127236,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130437,
       "num": 130437,
       "word": "福建热回来了",
@@ -7211,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90632,
+      "num": 495185,
+      "word": "单霁翔丁真互动环节有点可爱",
+      "onboard_time": 1695124834,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 87210,
       "num": 202579,
       "word": "杭州亚运首场比赛",
@@ -7299,12 +7363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75207,
-      "num": 495185,
-      "word": "单霁翔丁真互动环节有点可爱",
-      "onboard_time": 1695124834,
-      "rank": 14,
-      "category": "艺人,互联网"
+      "raw_hot": 74179,
+      "num": 179744,
+      "word": "荣耀钱包折叠屏创造行业新纪录",
+      "onboard_time": 1695127477,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 73604,
@@ -7372,7 +7436,7 @@
     },
     {
       "raw_hot": 65222,
-      "num": 412115,
+      "num": 502000,
       "word": "刘德华为亚运助威",
       "onboard_time": 1695123216,
       "rank": 48,
