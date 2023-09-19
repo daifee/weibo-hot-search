@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695141542695,
+  "endTime": 1695143714558,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -2108,7 +2108,7 @@
     },
     {
       "raw_hot": 537174,
-      "num": 324137,
+      "num": 536453,
       "word": "一个月瘦8斤的训练方法",
       "onboard_time": 1695139054,
       "rank": 30,
@@ -3403,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358365,
+      "num": 218857,
+      "word": "再见爱人 只有怨妇没有怨夫",
+      "onboard_time": 1695140372,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357745,
       "num": 352442,
       "word": "YG新女团去看了BLACKPINK演唱会",
@@ -3987,14 +3995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303378,
-      "num": 163676,
-      "word": "再见爱人 只有怨妇没有怨夫",
-      "onboard_time": 1695140372,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301602,
       "num": 301602,
       "word": "100米民警走了10多分钟",
@@ -4033,6 +4033,14 @@
       "onboard_time": 1695126873,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298639,
+      "num": 211587,
+      "word": "谁把我录取进来的谁负责",
+      "onboard_time": 1695140134,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 298506,
@@ -4643,6 +4651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256412,
+      "num": 197644,
+      "word": "周杰伦轨迹2004年现场",
+      "onboard_time": 1695142047,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256056,
       "num": 256056,
       "word": "中国女排奥运资格赛三连胜",
@@ -5131,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228466,
+      "num": 333165,
+      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
+      "onboard_time": 1695138937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228269,
       "num": 228269,
       "word": "徐良你是懂怎么拿捏张远",
@@ -5227,14 +5251,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 225345,
-      "num": 333165,
-      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
-      "onboard_time": 1695138937,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225315,
       "num": 225315,
       "word": "莲花楼",
@@ -5249,14 +5265,6 @@
       "onboard_time": 1695104255,
       "rank": 45,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 224839,
-      "num": 153385,
-      "word": "谁把我录取进来的谁负责",
-      "onboard_time": 1695140134,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 224491,
@@ -6611,6 +6619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172337,
+      "num": 156093,
+      "word": "Lisa演唱会神图",
+      "onboard_time": 1695141986,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172241,
       "num": 172241,
       "word": "伍佰 我是街上的游魂",
@@ -6817,6 +6833,14 @@
       "onboard_time": 1695111216,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163428,
+      "num": 163428,
+      "word": "iPhone15Pro系列评测",
+      "onboard_time": 1695141867,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 162936,
@@ -7539,6 +7563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122211,
+      "num": 122211,
+      "word": "她与灯 因写作拿到的第一个奖",
+      "onboard_time": 1695141867,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 121368,
       "num": 121368,
       "word": "黄景瑜片场攀爬百米云梯",
@@ -7881,6 +7913,14 @@
       "onboard_time": 1694907025,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70028,
+      "num": 70028,
+      "word": "陈牧驰出发米兰",
+      "onboard_time": 1695142585,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 69331,

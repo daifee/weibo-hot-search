@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695141542695,
+  "endTime": 1695143714558,
   "band_list": [
     {
       "raw_hot": 3360154,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 537174,
-      "num": 324137,
+      "num": 536453,
       "word": "一个月瘦8斤的训练方法",
       "onboard_time": 1695139054,
       "rank": 30,
@@ -115,6 +115,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 358365,
+      "num": 218857,
+      "word": "再见爱人 只有怨妇没有怨夫",
+      "onboard_time": 1695140372,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333282,
       "num": 333282,
       "word": "研究生上课 没有课本",
@@ -131,20 +139,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303378,
-      "num": 163676,
-      "word": "再见爱人 只有怨妇没有怨夫",
-      "onboard_time": 1695140372,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299699,
       "num": 299699,
       "word": "iPhone15与Pro该选谁",
       "onboard_time": 1695133905,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 298639,
+      "num": 211587,
+      "word": "谁把我录取进来的谁负责",
+      "onboard_time": 1695140134,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 273858,
@@ -179,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 256412,
+      "num": 197644,
+      "word": "周杰伦轨迹2004年现场",
+      "onboard_time": 1695142047,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251278,
       "num": 251278,
       "word": "出国留学时期的卢昱晓",
@@ -195,20 +211,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 225345,
+      "raw_hot": 228466,
       "num": 333165,
       "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
       "onboard_time": 1695138937,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224839,
-      "num": 153385,
-      "word": "谁把我录取进来的谁负责",
-      "onboard_time": 1695140134,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 221466,
@@ -259,12 +267,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172337,
+      "num": 156093,
+      "word": "Lisa演唱会神图",
+      "onboard_time": 1695141986,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171757,
       "num": 171757,
       "word": "国庆三倍工资加班你愿意吗",
       "onboard_time": 1695133544,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163428,
+      "num": 163428,
+      "word": "iPhone15Pro系列评测",
+      "onboard_time": 1695141867,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 160963,
@@ -371,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122211,
+      "num": 122211,
+      "word": "她与灯 因写作拿到的第一个奖",
+      "onboard_time": 1695141867,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 121562,
       "num": 121562,
       "word": "林俊杰演唱会抢票",
@@ -384,6 +416,22 @@
       "word": "主人意外去世黄狗留守数月被救助",
       "onboard_time": 1695127896,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70028,
+      "num": 70028,
+      "word": "陈牧驰出发米兰",
+      "onboard_time": 1695142585,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 50141,
+      "num": 69992,
+      "word": "花西子自称是地地道道的国货",
+      "onboard_time": 1695119499,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -406,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#共建一带一路倡议10周年#"
+    },
+    {
+      "word": "#习近平复信飞虎队老兵#"
     }
   ]
 }
