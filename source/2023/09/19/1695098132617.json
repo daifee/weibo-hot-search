@@ -1,0 +1,410 @@
+{
+  "runTime": 1695098132617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1018140,
+        "num": 1018140,
+        "word": "花少5 沙特",
+        "onboard_time": 1695095255,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1169535,
+        "num": 999810,
+        "word": "韩国总统批准拘捕李在明",
+        "onboard_time": 1695087514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84528,
+        "num": 914148,
+        "word": "亚运会金牌赛事日历",
+        "onboard_time": 1695096337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2679392,
+        "num": 878503,
+        "word": "央视官网表扬刘雨昕演唱会强实名",
+        "onboard_time": 1695094653,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1263634,
+        "num": 813895,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809485,
+        "num": 809485,
+        "word": "iPhone16Pro将配备5倍光学变焦镜头",
+        "onboard_time": 1695093156,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 715855,
+        "num": 715855,
+        "word": "花少5机场合体",
+        "onboard_time": 1695090873,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684929,
+        "num": 684929,
+        "word": "魏大勋事业粉狂喜",
+        "onboard_time": 1695096699,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615154,
+        "num": 615154,
+        "word": "张予曦新剧再演女明星",
+        "onboard_time": 1695094836,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360600,
+        "num": 360600,
+        "word": "95号汽油或将进入9元时代",
+        "onboard_time": 1695085717,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1461980,
+        "num": 360594,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 737512,
+        "num": 360474,
+        "word": "真皇族粉驾到 通通闪开",
+        "onboard_time": 1695096580,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 709188,
+        "num": 360456,
+        "word": "全智贤好像真的不会老",
+        "onboard_time": 1695094836,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 606143,
+        "num": 360386,
+        "word": "女子遭性侵未获立案自杀发现新证据",
+        "onboard_time": 1695082960,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251338,
+        "num": 360334,
+        "word": "12306最多候补20个车次",
+        "onboard_time": 1695083920,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360283,
+        "num": 360283,
+        "word": "旧款iPhone升级iOS17后续航降低",
+        "onboard_time": 1695092436,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 562851,
+        "num": 359530,
+        "word": "赵露思机场扶起摔倒的路人",
+        "onboard_time": 1695092195,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534321,
+        "num": 357753,
+        "word": "热巴好A",
+        "onboard_time": 1695092494,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497862,
+        "num": 355892,
+        "word": "酱香开塞露",
+        "onboard_time": 1695092436,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429500,
+        "num": 354858,
+        "word": "令人心动的offer5律政季官宣",
+        "onboard_time": 1695095437,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497768,
+        "num": 352840,
+        "word": "提了离职没走的人什么样了",
+        "onboard_time": 1695089184,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408371,
+        "num": 351979,
+        "word": "宁泽涛全智贤同框",
+        "onboard_time": 1695091714,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 369088,
+        "num": 350535,
+        "word": "Lisa舞蹈视频MONEY播放量突破9亿",
+        "onboard_time": 1695092855,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349614,
+        "num": 349614,
+        "word": "体制内的桌子是不是都长这样",
+        "onboard_time": 1695079590,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342268,
+        "num": 342268,
+        "word": "外卖小哥不顾订单哭着跑进派出所",
+        "onboard_time": 1695095738,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334459,
+        "num": 334459,
+        "word": "游客买票470元错付成4700元景区急寻人",
+        "onboard_time": 1695088232,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 314431,
+        "num": 314431,
+        "word": "开始担心国货的精神状态",
+        "onboard_time": 1695093095,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304725,
+        "num": 304725,
+        "word": "易烊千玺美拉德发色",
+        "onboard_time": 1695084939,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296408,
+        "num": 296408,
+        "word": "极度疲劳下人一次最多能睡多久",
+        "onboard_time": 1695085646,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 204874,
+        "num": 291804,
+        "word": "特斯拉市值一夜蒸发2117亿",
+        "onboard_time": 1695088833,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453998,
+        "num": 291724,
+        "word": "继承了前男友和他前女友的猫",
+        "onboard_time": 1695096820,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289147,
+        "num": 289147,
+        "word": "韩国一位奶奶在公厕住了十年",
+        "onboard_time": 1695097780,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 271890,
+        "num": 271890,
+        "word": "纷玩岛 我票呢",
+        "onboard_time": 1695097841,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250390,
+        "num": 250390,
+        "word": "周冬雨张艺谋11年后再合作",
+        "onboard_time": 1695095077,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246559,
+        "num": 246559,
+        "word": "兰闺喜事定档",
+        "onboard_time": 1695092675,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245195,
+        "num": 245195,
+        "word": "国风毛衣裙的第一批受害者",
+        "onboard_time": 1695092436,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 242382,
+        "num": 242382,
+        "word": "于适情绪爆发力",
+        "onboard_time": 1695094175,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239548,
+        "num": 239548,
+        "word": "科学家是怎么找外星人的",
+        "onboard_time": 1695096878,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 226633,
+        "num": 226633,
+        "word": "三喜奶奶看起来比况盛还年轻",
+        "onboard_time": 1695083977,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204384,
+        "num": 223548,
+        "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+        "onboard_time": 1695097061,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222985,
+        "num": 222985,
+        "word": "光遇复刻",
+        "onboard_time": 1695096639,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212355,
+        "num": 212355,
+        "word": "乌尔善衣服上印满了封神的笑脸",
+        "onboard_time": 1695098081,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175748,
+        "num": 211588,
+        "word": "他俩从发小一直铁到破案抓贼",
+        "onboard_time": 1695096458,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27870,
+        "num": 211301,
+        "word": "体验一把云养熊猫的快乐",
+        "onboard_time": 1695097841,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162850,
+        "num": 211149,
+        "word": "12306平均每秒超60万人刷票",
+        "onboard_time": 1695089613,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211076,
+        "num": 211076,
+        "word": "周也撑住了贴头皮造型",
+        "onboard_time": 1695088955,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208492,
+        "num": 208492,
+        "word": "骄阳伴我央一定档",
+        "onboard_time": 1695093756,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86016,
+        "num": 200462,
+        "word": "我国标准率先突破无线音频传输限制",
+        "onboard_time": 1695097542,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195131,
+        "num": 195131,
+        "word": "YG新女团会取代BLACKPINK吗",
+        "onboard_time": 1695088653,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24601,
+        "num": 193060,
+        "word": "JDG的健康上分秘籍",
+        "onboard_time": 1695097361,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会吉祥物组合名叫江南忆#"
+    }
+  }
+}
