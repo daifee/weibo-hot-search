@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695112494205,
+  "endTime": 1695115038446,
   "band_list": [
     {
       "raw_hot": 4742040,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1657652,
-      "num": 414838,
+      "num": 457602,
       "word": "建议洗澡不要先洗头",
       "onboard_time": 1695109778,
       "rank": 10,
@@ -129,6 +129,14 @@
       "onboard_time": 1695087573,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1235164,
+      "num": 1235164,
+      "word": "肩膀突然不内扣了",
+      "onboard_time": 1695112240,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1212780,
@@ -251,12 +259,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 833375,
+      "num": 833375,
+      "word": "女子12年未休年假离职索赔14万",
+      "onboard_time": 1695110441,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825857,
       "num": 825857,
       "word": "iPhone16Pro将配备5倍光学变焦镜头",
       "onboard_time": 1695093156,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 806743,
+      "num": 806743,
+      "word": "蜜雪冰城否认将下架红茶产品",
+      "onboard_time": 1695113438,
+      "rank": 5,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 795943,
@@ -275,6 +299,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 726422,
+      "num": 726422,
+      "word": "央广网评预制菜进校园",
+      "onboard_time": 1695112476,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720933,
       "num": 720933,
       "word": "华中师大通报公众号引用骂人伪诗经",
@@ -289,6 +321,14 @@
       "onboard_time": 1695094836,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 708066,
+      "num": 307045,
+      "word": "你还会从李佳琦直播间买东西吗",
+      "onboard_time": 1695112959,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 707119,
@@ -339,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 659484,
+      "num": 659484,
+      "word": "张凌赫想和虞书欣三搭现代戏",
+      "onboard_time": 1695114159,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 654638,
       "num": 654638,
       "word": "旧款iPhone升级iOS17后续航降低",
@@ -360,6 +408,14 @@
       "word": "提了离职没走的人什么样了",
       "onboard_time": 1695089184,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 637249,
+      "num": 294277,
+      "word": "室友变小妈",
+      "onboard_time": 1695111816,
+      "rank": 17,
       "category": "情感"
     },
     {
@@ -441,6 +497,14 @@
       "onboard_time": 1695087514,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556279,
+      "num": 453840,
+      "word": "刘亦菲是真的懂情绪稳定",
+      "onboard_time": 1695113257,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 553048,
@@ -587,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427760,
-      "num": 427760,
-      "word": "女子12年未休年假离职索赔14万",
-      "onboard_time": 1695110441,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422250,
       "num": 422250,
       "word": "于适 GQ",
@@ -641,6 +697,14 @@
       "onboard_time": 1695103415,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 402323,
+      "num": 257488,
+      "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+      "onboard_time": 1695114280,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380572,
@@ -931,14 +995,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 294277,
-      "num": 294277,
-      "word": "室友变小妈",
-      "onboard_time": 1695111816,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 286348,
       "num": 286348,
       "word": "国风毛衣裙的第一批受害者",
@@ -1131,12 +1187,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 241339,
-      "num": 191417,
-      "word": "肩膀突然不内扣了",
-      "onboard_time": 1695112240,
-      "rank": 31,
-      "category": "运动健身"
+      "raw_hot": 240646,
+      "num": 240646,
+      "word": "张艺兴上海演唱会说官宣就官宣",
+      "onboard_time": 1695111337,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 240468,
@@ -1299,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 213133,
+      "num": 213133,
+      "word": "杭州亚运会王者荣耀选手简历",
+      "onboard_time": 1695111995,
+      "rank": 42,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 213080,
       "num": 213080,
       "word": "张曼玉居然是E人",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1695042338,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200136,
-      "num": 200136,
-      "word": "张艺兴上海演唱会说官宣就官宣",
-      "onboard_time": 1695111337,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 199529,
@@ -1683,6 +1739,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 154680,
+      "num": 154680,
+      "word": "谢娜空中一字马",
+      "onboard_time": 1695114817,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153316,
       "num": 153316,
       "word": "车窗里的赵今麦",
@@ -1705,14 +1769,6 @@
       "onboard_time": 1695093635,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151269,
-      "num": 151269,
-      "word": "杭州亚运会王者荣耀选手简历",
-      "onboard_time": 1695111995,
-      "rank": 42,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 149629,
@@ -1779,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139826,
+      "num": 139826,
+      "word": "杨超越墨雨云间破碎感镜头",
+      "onboard_time": 1695112656,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138709,
       "num": 138709,
       "word": "中国台湾东北附近发生6.7级左右地震",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1695090273,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 136678,
+      "num": 136678,
+      "word": "最终幻想14",
+      "onboard_time": 1695114757,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 134177,
@@ -1819,12 +1891,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129027,
+      "num": 129027,
+      "word": "杭州阿姨1碗汤安徽姑娘铭记一生",
+      "onboard_time": 1695113376,
+      "rank": 44,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 127521,
       "num": 127521,
       "word": "孩子吃不了苦做这个训练效果显著",
       "onboard_time": 1695060078,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121081,
+      "num": 1209841,
+      "word": "亚运会今日开赛",
+      "onboard_time": 1695111758,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116830,
@@ -1883,14 +1971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94640,
-      "num": 133235,
-      "word": "央广网评预制菜进校园",
-      "onboard_time": 1695112476,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92997,
       "num": 1396549,
       "word": "丰收连连看",
@@ -1939,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85646,
+      "num": 261493,
+      "word": "出去玩想想就开心",
+      "onboard_time": 1695112300,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85239,
       "num": 88251,
       "word": "美国男子极限通勤3小时到上海上班",
@@ -1951,14 +2039,6 @@
       "num": 1304200,
       "word": "亚运会金牌赛事日历",
       "onboard_time": 1695096337,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84071,
-      "num": 997707,
-      "word": "亚运会今日开赛",
-      "onboard_time": 1695111758,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2025,14 +2105,6 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 47019,
-      "num": 133192,
-      "word": "出去玩想想就开心",
-      "onboard_time": 1695112300,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 45461,

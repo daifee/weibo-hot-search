@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695112494205,
+  "endTime": 1695115038446,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1657652,
-      "num": 414838,
+      "num": 457602,
       "word": "建议洗澡不要先洗头",
       "onboard_time": 1695109778,
       "rank": 10,
@@ -529,6 +529,14 @@
       "onboard_time": 1694874942,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1235164,
+      "num": 1235164,
+      "word": "肩膀突然不内扣了",
+      "onboard_time": 1695112240,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1229914,
@@ -915,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 833375,
+      "num": 833375,
+      "word": "女子12年未休年假离职索赔14万",
+      "onboard_time": 1695110441,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828968,
       "num": 828968,
       "word": "麻辣王子好吃",
@@ -961,6 +977,14 @@
       "onboard_time": 1694914772,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 806743,
+      "num": 806743,
+      "word": "蜜雪冰城否认将下架红茶产品",
+      "onboard_time": 1695113438,
+      "rank": 5,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 804996,
@@ -1155,6 +1179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 726422,
+      "num": 726422,
+      "word": "央广网评预制菜进校园",
+      "onboard_time": 1695112476,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720933,
       "num": 720933,
       "word": "华中师大通报公众号引用骂人伪诗经",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1695094836,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 708066,
+      "num": 307045,
+      "word": "你还会从李佳琦直播间买东西吗",
+      "onboard_time": 1695112959,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 707119,
@@ -1379,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 659484,
+      "num": 659484,
+      "word": "张凌赫想和虞书欣三搭现代戏",
+      "onboard_time": 1695114159,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 658920,
       "num": 658920,
       "word": "袁冰妍被约谈后仍整改不彻底",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1695011383,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637249,
+      "num": 294277,
+      "word": "室友变小妈",
+      "onboard_time": 1695111816,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 634549,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1694958639,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 556279,
+      "num": 453840,
+      "word": "刘亦菲是真的懂情绪稳定",
+      "onboard_time": 1695113257,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 553574,
@@ -2419,14 +2483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 427760,
-      "num": 427760,
-      "word": "女子12年未休年假离职索赔14万",
-      "onboard_time": 1695110441,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424335,
       "num": 424335,
       "word": "女子250万买飞机9年没到货",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1695046060,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 402323,
+      "num": 257488,
+      "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+      "onboard_time": 1695114280,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400597,
@@ -3507,14 +3571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294277,
-      "num": 294277,
-      "word": "室友变小妈",
-      "onboard_time": 1695111816,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 294202,
       "num": 294202,
       "word": "中国女排vs墨西哥女排",
@@ -4203,20 +4259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241339,
-      "num": 191417,
-      "word": "肩膀突然不内扣了",
-      "onboard_time": 1695112240,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 241294,
       "num": 241294,
       "word": "韩庚片场再也不教跳舞了",
       "onboard_time": 1694927375,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240646,
+      "num": 240646,
+      "word": "张艺兴上海演唱会说官宣就官宣",
+      "onboard_time": 1695111337,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 240486,
@@ -4763,6 +4819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 213133,
+      "num": 213133,
+      "word": "杭州亚运会王者荣耀选手简历",
+      "onboard_time": 1695111995,
+      "rank": 42,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 213080,
       "num": 213080,
       "word": "张曼玉居然是E人",
@@ -5001,14 +5065,6 @@
       "onboard_time": 1694955819,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200136,
-      "num": 200136,
-      "word": "张艺兴上海演唱会说官宣就官宣",
-      "onboard_time": 1695111337,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 199953,
@@ -5939,6 +5995,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 154680,
+      "num": 154680,
+      "word": "谢娜空中一字马",
+      "onboard_time": 1695114817,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153911,
       "num": 153911,
       "word": "小伙回应攒钱为父装人工耳蜗全网点赞",
@@ -6009,14 +6073,6 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151269,
-      "num": 151269,
-      "word": "杭州亚运会王者荣耀选手简历",
-      "onboard_time": 1695111995,
-      "rank": 42,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 150261,
@@ -6251,6 +6307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139826,
+      "num": 139826,
+      "word": "杨超越墨雨云间破碎感镜头",
+      "onboard_time": 1695112656,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138875,
       "num": 138875,
       "word": "异人之下",
@@ -6281,6 +6345,14 @@
       "onboard_time": 1695090273,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 136678,
+      "num": 136678,
+      "word": "最终幻想14",
+      "onboard_time": 1695114757,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 133189,
@@ -6371,6 +6443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129027,
+      "num": 129027,
+      "word": "杭州阿姨1碗汤安徽姑娘铭记一生",
+      "onboard_time": 1695113376,
+      "rank": 44,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 128430,
       "num": 126452,
       "word": "彭昱畅侯明昊徐浩17年后再合作",
@@ -6441,6 +6521,14 @@
       "onboard_time": 1694946993,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121081,
+      "num": 1209841,
+      "word": "亚运会今日开赛",
+      "onboard_time": 1695111758,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118194,
@@ -6563,14 +6651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94640,
-      "num": 133235,
-      "word": "央广网评预制菜进校园",
-      "onboard_time": 1695112476,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93650,
       "num": 316392,
       "word": "罕见病男孩上大学选生物科学专业",
@@ -6643,18 +6723,18 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85646,
+      "num": 261493,
+      "word": "出去玩想想就开心",
+      "onboard_time": 1695112300,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 84528,
       "num": 1304200,
       "word": "亚运会金牌赛事日历",
       "onboard_time": 1695096337,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84071,
-      "num": 997707,
-      "word": "亚运会今日开赛",
-      "onboard_time": 1695111758,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -6809,14 +6889,6 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 47019,
-      "num": 133192,
-      "word": "出去玩想想就开心",
-      "onboard_time": 1695112300,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 45461,
