@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695107757163,
+  "endTime": 1695108836084,
   "band_list": [
     {
       "raw_hot": 4742040,
@@ -49,6 +49,14 @@
       "onboard_time": 1695101734,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1495738,
+      "num": 1495738,
+      "word": "美腕回应李佳琦抖音认证消失",
+      "onboard_time": 1695105515,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1494904,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1050074,
-      "num": 419850,
+      "num": 467145,
       "word": "香港顶流姜涛最新活动生图",
       "onboard_time": 1695105335,
       "rank": 10,
@@ -187,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 866196,
+      "num": 866196,
+      "word": "瘦子同事带的饭",
+      "onboard_time": 1695107137,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 846219,
       "num": 846219,
       "word": "游客买票470元错付成4700元景区急寻人",
@@ -235,14 +251,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 790170,
-      "num": 415044,
-      "word": "美腕回应李佳琦抖音认证消失",
-      "onboard_time": 1695105515,
-      "rank": 11,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 737512,
       "num": 476033,
       "word": "真皇族粉驾到 通通闪开",
@@ -265,6 +273,14 @@
       "onboard_time": 1695094836,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 707119,
+      "num": 707119,
+      "word": "iPhone用户羡慕的安卓功能",
+      "onboard_time": 1695107316,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 684929,
@@ -409,6 +425,14 @@
       "onboard_time": 1695089676,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 548368,
+      "num": 548368,
+      "word": "蜜雪冰城 红茶",
+      "onboard_time": 1695107915,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 546730,
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342209,
+      "num": 342209,
+      "word": "孤注一掷票房破38亿",
+      "onboard_time": 1695107316,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 341774,
       "num": 341774,
       "word": "傅云深被强吻戏份被删",
@@ -731,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 329031,
-      "num": 329031,
-      "word": "iPhone用户羡慕的安卓功能",
-      "onboard_time": 1695107316,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 325889,
       "num": 439895,
       "word": "赢了我带你回家输了下辈子再见",
@@ -795,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312823,
+      "num": 253393,
+      "word": "00后在单位能闯出什么祸",
+      "onboard_time": 1695107973,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311966,
       "num": 311966,
       "word": "黄晓明奖励自己的戏来了吗",
@@ -833,14 +865,6 @@
       "onboard_time": 1695084277,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 302957,
-      "num": 270218,
-      "word": "瘦子同事带的饭",
-      "onboard_time": 1695107137,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 297868,
@@ -1219,12 +1243,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210944,
-      "num": 210944,
-      "word": "孤注一掷票房破38亿",
-      "onboard_time": 1695107316,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 210586,
+      "num": 210586,
+      "word": "离职后她在阳台养400盆花治愈自己",
+      "onboard_time": 1695107675,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210488,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1695042338,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199529,
+      "num": 199529,
+      "word": "马龙亚运会简历好长",
+      "onboard_time": 1695108159,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 197697,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1695096097,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172795,
+      "num": 144722,
+      "word": "王睡睡发烧张硕睡觉",
+      "onboard_time": 1695107855,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 172241,
@@ -1587,12 +1627,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 146240,
-      "num": 146240,
-      "word": "离职后她在阳台养400盆花治愈自己",
-      "onboard_time": 1695107675,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 145660,
+      "num": 145660,
+      "word": "车窗里的赵今麦",
+      "onboard_time": 1695108699,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 144829,
@@ -1851,6 +1891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 45461,
+      "num": 260214,
+      "word": "这么多年终于有了人生第一套房",
+      "onboard_time": 1695107378,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45371,
       "num": 157244,
       "word": "给长辈送礼不浪费指南",
@@ -1864,14 +1912,6 @@
       "word": "体验一把云养熊猫的快乐",
       "onboard_time": 1695097841,
       "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 33776,
-      "num": 174980,
-      "word": "这么多年终于有了人生第一套房",
-      "onboard_time": 1695107378,
-      "rank": 41,
       "category": "游戏"
     },
     {

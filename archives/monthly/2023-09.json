@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695107757163,
+  "endTime": 1695108836084,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -3419,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1495738,
+      "num": 1495738,
+      "word": "美腕回应李佳琦抖音认证消失",
+      "onboard_time": 1695105515,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1494110,
       "num": 1494110,
       "word": "iPhone14价格不降反涨",
@@ -5372,7 +5380,7 @@
     },
     {
       "raw_hot": 1050074,
-      "num": 419850,
+      "num": 467145,
       "word": "香港顶流姜涛最新活动生图",
       "onboard_time": 1695105335,
       "rank": 10,
@@ -7019,6 +7027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 866196,
+      "num": 866196,
+      "word": "瘦子同事带的饭",
+      "onboard_time": 1695107137,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 865742,
       "num": 865742,
       "word": "白百何就没演过受气的角色",
@@ -8057,14 +8073,6 @@
       "onboard_time": 1694475391,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790170,
-      "num": 415044,
-      "word": "美腕回应李佳琦抖音认证消失",
-      "onboard_time": 1695105515,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 789085,
@@ -9369,6 +9377,14 @@
       "onboard_time": 1693661562,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 707119,
+      "num": 707119,
+      "word": "iPhone用户羡慕的安卓功能",
+      "onboard_time": 1695107316,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 706533,
@@ -13185,6 +13201,14 @@
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548368,
+      "num": 548368,
+      "word": "蜜雪冰城 红茶",
+      "onboard_time": 1695107915,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 548100,
@@ -21739,6 +21763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342209,
+      "num": 342209,
+      "word": "孤注一掷票房破38亿",
+      "onboard_time": 1695107316,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 342203,
       "num": 234983,
       "word": "顶着恐龙头像名叫momo的人是谁",
@@ -22505,14 +22537,6 @@
       "onboard_time": 1694649216,
       "rank": 25,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 329031,
-      "num": 329031,
-      "word": "iPhone用户羡慕的安卓功能",
-      "onboard_time": 1695107316,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 328909,
@@ -23803,6 +23827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 312823,
+      "num": 253393,
+      "word": "00后在单位能闯出什么祸",
+      "onboard_time": 1695107973,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312822,
       "num": 312822,
       "word": "鹊刀门传奇太敢拍了",
@@ -24537,14 +24569,6 @@
       "onboard_time": 1694443187,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302957,
-      "num": 270218,
-      "word": "瘦子同事带的饭",
-      "onboard_time": 1695107137,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 302739,
@@ -33227,14 +33251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210944,
-      "num": 210944,
-      "word": "孤注一掷票房破38亿",
-      "onboard_time": 1695107316,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210936,
       "num": 210936,
       "word": "亚运会电竞",
@@ -33265,6 +33281,14 @@
       "onboard_time": 1693528779,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210586,
+      "num": 210586,
+      "word": "离职后她在阳台养400盆花治愈自己",
+      "onboard_time": 1695107675,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210488,
@@ -35369,6 +35393,14 @@
       "onboard_time": 1694240136,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199529,
+      "num": 199529,
+      "word": "马龙亚运会简历好长",
+      "onboard_time": 1695108159,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 199475,
@@ -39747,6 +39779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172795,
+      "num": 144722,
+      "word": "王睡睡发烧张硕睡觉",
+      "onboard_time": 1695107855,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172735,
       "num": 172735,
       "word": "当一家火锅店开始宣传五颜六色的甜品",
@@ -42723,14 +42763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146240,
-      "num": 146240,
-      "word": "离职后她在阳台养400盆花治愈自己",
-      "onboard_time": 1695107675,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146233,
       "num": 146233,
       "word": "98年民警收到锦旗笑得合不拢嘴",
@@ -42825,6 +42857,14 @@
       "onboard_time": 1694737296,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 145660,
+      "num": 145660,
+      "word": "车窗里的赵今麦",
+      "onboard_time": 1695108699,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 145623,
@@ -47491,6 +47531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45461,
+      "num": 260214,
+      "word": "这么多年终于有了人生第一套房",
+      "onboard_time": 1695107378,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45371,
       "num": 157244,
       "word": "给长辈送礼不浪费指南",
@@ -48017,14 +48065,6 @@
       "onboard_time": 1694978534,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33776,
-      "num": 174980,
-      "word": "这么多年终于有了人生第一套房",
-      "onboard_time": 1695107378,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 33577,
