@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695094453575,
+  "endTime": 1695097257429,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1617,6 +1617,14 @@
       "onboard_time": 1694999497,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2102558,
+      "num": 1304151,
+      "word": "央视官网表扬刘雨昕演唱会强实名",
+      "onboard_time": 1695094653,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 2101836,
@@ -3963,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1344022,
+      "num": 456292,
+      "word": "下辈子我当王诗龄",
+      "onboard_time": 1695092073,
+      "rank": 12,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1342621,
       "num": 447704,
       "word": "如何看待李佳琦带货争议言论",
@@ -4185,6 +4201,14 @@
       "onboard_time": 1695082960,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1271160,
+      "num": 1271160,
+      "word": "花少5 沙特",
+      "onboard_time": 1695095255,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1269622,
@@ -7019,14 +7043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 857097,
-      "num": 456292,
-      "word": "下辈子我当王诗龄",
-      "onboard_time": 1695092073,
-      "rank": 12,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 855476,
       "num": 855476,
       "word": "骄阳伴我",
@@ -7377,6 +7393,14 @@
       "onboard_time": 1693873898,
       "rank": 4,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 825857,
+      "num": 825857,
+      "word": "iPhone16Pro将配备5倍光学变焦镜头",
+      "onboard_time": 1695093156,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 825223,
@@ -9379,6 +9403,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 702018,
+      "num": 412453,
+      "word": "全智贤好像真的不会老",
+      "onboard_time": 1695094836,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 701754,
       "num": 701754,
       "word": "云之羽扫楼跳虞书欣ohmy",
@@ -10604,7 +10636,7 @@
     },
     {
       "raw_hot": 643254,
-      "num": 392247,
+      "num": 397650,
       "word": "提了离职没走的人什么样了",
       "onboard_time": 1695089184,
       "rank": 20,
@@ -11081,6 +11113,14 @@
       "onboard_time": 1693621176,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 619425,
+      "num": 619425,
+      "word": "张予曦新剧再演女明星",
+      "onboard_time": 1695094836,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 619380,
@@ -11619,6 +11659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600978,
+      "num": 410179,
+      "word": "酱香开塞露",
+      "onboard_time": 1695092436,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600500,
       "num": 600500,
       "word": "10部电影定档国庆档",
@@ -12051,6 +12099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580256,
+      "num": 580256,
+      "word": "令人心动的offer5律政季官宣",
+      "onboard_time": 1695095437,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580073,
       "num": 580073,
       "word": "骄阳伴我里很现实的悲哀",
@@ -12441,6 +12497,14 @@
       "onboard_time": 1694787999,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565655,
+      "num": 404663,
+      "word": "魏大勋事业粉狂喜",
+      "onboard_time": 1695096699,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 565398,
@@ -12985,14 +13049,6 @@
       "onboard_time": 1693996959,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 549361,
-      "num": 338148,
-      "word": "iPhone16Pro将配备5倍光学变焦镜头",
-      "onboard_time": 1695093156,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 548947,
@@ -14137,6 +14193,14 @@
       "onboard_time": 1695086488,
       "rank": 7,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 513943,
+      "num": 225155,
+      "word": "钉钉变紫了",
+      "onboard_time": 1695096159,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 513834,
@@ -17033,6 +17097,14 @@
       "onboard_time": 1694960981,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438619,
+      "num": 400845,
+      "word": "真皇族粉驾到 通通闪开",
+      "onboard_time": 1695096580,
+      "rank": 18,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 438558,
@@ -19979,6 +20051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 371345,
+      "num": 371345,
+      "word": "开始担心国货的精神状态",
+      "onboard_time": 1695093095,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 371185,
       "num": 371185,
       "word": "这四位是写纯古言里口碑较好的了",
@@ -21673,14 +21753,6 @@
       "onboard_time": 1693550676,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337652,
-      "num": 337652,
-      "word": "酱香开塞露",
-      "onboard_time": 1695092436,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 337574,
@@ -23931,14 +24003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306731,
-      "num": 306731,
-      "word": "开始担心国货的精神状态",
-      "onboard_time": 1695093095,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306704,
       "num": 306704,
       "word": "突然就不怕变老了",
@@ -24208,6 +24272,14 @@
       "word": "萌娃入园3天学做饭根本没时间哭",
       "onboard_time": 1693577080,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302723,
+      "num": 274058,
+      "word": "外卖小哥不顾订单哭着跑进派出所",
+      "onboard_time": 1695095738,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -25819,6 +25891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282112,
+      "num": 273892,
+      "word": "继承了前男友和他前女友的猫",
+      "onboard_time": 1695096820,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281952,
       "num": 281952,
       "word": "女子接受医美机构血液净化疗法后身体不适",
@@ -26441,6 +26521,14 @@
       "onboard_time": 1694665723,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 273601,
+      "num": 273601,
+      "word": "周冬雨张艺谋11年后再合作",
+      "onboard_time": 1695095077,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 273500,
@@ -28803,6 +28891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246780,
+      "num": 246780,
+      "word": "于适情绪爆发力",
+      "onboard_time": 1695094175,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246637,
       "num": 191690,
       "word": "当老师最轻松的是上课的45分钟",
@@ -29811,6 +29907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237244,
+      "num": 275299,
+      "word": "上海江阳市场回应被B太曝光缺斤少两",
+      "onboard_time": 1695094116,
+      "rank": 43,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 237133,
       "num": 237133,
       "word": "张皓宸新书",
@@ -29889,6 +29993,14 @@
       "onboard_time": 1693804060,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 236471,
+      "num": 236471,
+      "word": "光遇复刻",
+      "onboard_time": 1695096639,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 236430,
@@ -32305,6 +32417,14 @@
       "onboard_time": 1693568856,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214012,
+      "num": 214012,
+      "word": "骄阳伴我央一定档",
+      "onboard_time": 1695093756,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 213891,
@@ -35147,14 +35267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197671,
-      "num": 197671,
-      "word": "骄阳伴我央一定档",
-      "onboard_time": 1695093756,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197650,
       "num": 197650,
       "word": "我有事要去jellycat一趟",
@@ -35731,6 +35843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194719,
+      "num": 194719,
+      "word": "科学家是怎么找外星人的",
+      "onboard_time": 1695096878,
+      "rank": 41,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 194661,
       "num": 194661,
       "word": "BOYNEXTDOOR回归新歌",
@@ -36193,14 +36313,6 @@
       "onboard_time": 1694495264,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 192340,
-      "num": 192340,
-      "word": "于适情绪爆发力",
-      "onboard_time": 1695094175,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 192310,
@@ -37315,14 +37427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186428,
-      "num": 186428,
-      "word": "上海江阳市场回应被B太曝光缺斤少两",
-      "onboard_time": 1695094116,
-      "rank": 43,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 186404,
       "num": 308139,
       "word": "男子一句好心提醒话救了两人",
@@ -38339,6 +38443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179530,
+      "num": 179530,
+      "word": "他俩从发小一直铁到破案抓贼",
+      "onboard_time": 1695096458,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179508,
       "num": 179508,
       "word": "李九为TTG写诗",
@@ -38681,6 +38793,14 @@
       "onboard_time": 1694045135,
       "rank": 41,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 176713,
+      "num": 176713,
+      "word": "当代的年轻人为什么想开了",
+      "onboard_time": 1695096097,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 176711,
@@ -39633,6 +39753,14 @@
       "onboard_time": 1694070033,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168407,
+      "num": 168407,
+      "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+      "onboard_time": 1695097061,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 168332,
@@ -46145,6 +46273,14 @@
       "onboard_time": 1694288655,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 68593,
+      "num": 1304200,
+      "word": "亚运会金牌赛事日历",
+      "onboard_time": 1695096337,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68544,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1695097257429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1420990,
+        "num": 1420990,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430498,
+        "num": 1380908,
+        "word": "韩国总统批准拘捕李在明",
+        "onboard_time": 1695087514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68593,
+        "num": 1304200,
+        "word": "亚运会金牌赛事日历",
+        "onboard_time": 1695096337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2102558,
+        "num": 1304151,
+        "word": "央视官网表扬刘雨昕演唱会强实名",
+        "onboard_time": 1695094653,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1271160,
+        "num": 1271160,
+        "word": "花少5 沙特",
+        "onboard_time": 1695095255,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825857,
+        "num": 825857,
+        "word": "iPhone16Pro将配备5倍光学变焦镜头",
+        "onboard_time": 1695093156,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 802367,
+        "num": 802367,
+        "word": "花少5机场合体",
+        "onboard_time": 1695090873,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619425,
+        "num": 619425,
+        "word": "张予曦新剧再演女明星",
+        "onboard_time": 1695094836,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580256,
+        "num": 580256,
+        "word": "令人心动的offer5律政季官宣",
+        "onboard_time": 1695095437,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417382,
+        "num": 417382,
+        "word": "旧款iPhone升级iOS17后续航降低",
+        "onboard_time": 1695092436,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1344022,
+        "num": 416606,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 726526,
+        "num": 413785,
+        "word": "女子遭性侵未获立案自杀发现新证据",
+        "onboard_time": 1695082960,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702018,
+        "num": 412453,
+        "word": "全智贤好像真的不会老",
+        "onboard_time": 1695094836,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 600978,
+        "num": 410179,
+        "word": "酱香开塞露",
+        "onboard_time": 1695092436,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251119,
+        "num": 409115,
+        "word": "12306最多候补20个车次",
+        "onboard_time": 1695083920,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587994,
+        "num": 407739,
+        "word": "赵露思机场扶起摔倒的路人",
+        "onboard_time": 1695092195,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565655,
+        "num": 404663,
+        "word": "魏大勋事业粉狂喜",
+        "onboard_time": 1695096699,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518883,
+        "num": 403767,
+        "word": "热巴好A",
+        "onboard_time": 1695092494,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438619,
+        "num": 400845,
+        "word": "真皇族粉驾到 通通闪开",
+        "onboard_time": 1695096580,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 283506,
+        "num": 398339,
+        "word": "95号汽油或将进入9元时代",
+        "onboard_time": 1695085717,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 486842,
+        "num": 397650,
+        "word": "提了离职没走的人什么样了",
+        "onboard_time": 1695089184,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 477613,
+        "num": 395041,
+        "word": "宁泽涛全智贤同框",
+        "onboard_time": 1695091714,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394389,
+        "num": 394389,
+        "word": "Lisa舞蹈视频MONEY播放量突破9亿",
+        "onboard_time": 1695092855,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371345,
+        "num": 371345,
+        "word": "开始担心国货的精神状态",
+        "onboard_time": 1695093095,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330485,
+        "num": 330485,
+        "word": "极度疲劳下人一次最多能睡多久",
+        "onboard_time": 1695085646,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 306549,
+        "num": 306549,
+        "word": "易烊千玺美拉德发色",
+        "onboard_time": 1695084939,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296165,
+        "num": 296165,
+        "word": "体制内的桌子是不是都长这样",
+        "onboard_time": 1695079590,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275339,
+        "num": 275339,
+        "word": "游客买票470元错付成4700元景区急寻人",
+        "onboard_time": 1695088232,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 237244,
+        "num": 275299,
+        "word": "上海江阳市场回应被B太曝光缺斤少两",
+        "onboard_time": 1695094116,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 217312,
+        "num": 274522,
+        "word": "特斯拉市值一夜蒸发2117亿",
+        "onboard_time": 1695088833,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302723,
+        "num": 274058,
+        "word": "外卖小哥不顾订单哭着跑进派出所",
+        "onboard_time": 1695095738,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282112,
+        "num": 273892,
+        "word": "继承了前男友和他前女友的猫",
+        "onboard_time": 1695096820,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273601,
+        "num": 273601,
+        "word": "周冬雨张艺谋11年后再合作",
+        "onboard_time": 1695095077,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272124,
+        "num": 272124,
+        "word": "三喜奶奶看起来比况盛还年轻",
+        "onboard_time": 1695083977,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246780,
+        "num": 246780,
+        "word": "于适情绪爆发力",
+        "onboard_time": 1695094175,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236471,
+        "num": 236471,
+        "word": "光遇复刻",
+        "onboard_time": 1695096639,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225285,
+        "num": 225285,
+        "word": "兰闺喜事定档",
+        "onboard_time": 1695092675,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513943,
+        "num": 225155,
+        "word": "钉钉变紫了",
+        "onboard_time": 1695096159,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224714,
+        "num": 224714,
+        "word": "周也撑住了贴头皮造型",
+        "onboard_time": 1695088955,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218641,
+        "num": 218641,
+        "word": "国风毛衣裙的第一批受害者",
+        "onboard_time": 1695092436,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 214012,
+        "num": 214012,
+        "word": "骄阳伴我央一定档",
+        "onboard_time": 1695093756,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194719,
+        "num": 194719,
+        "word": "科学家是怎么找外星人的",
+        "onboard_time": 1695096878,
+        "rank": 41,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 184497,
+        "num": 184497,
+        "word": "YG新女团会取代BLACKPINK吗",
+        "onboard_time": 1695088653,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179530,
+        "num": 179530,
+        "word": "他俩从发小一直铁到破案抓贼",
+        "onboard_time": 1695096458,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176713,
+        "num": 176713,
+        "word": "当代的年轻人为什么想开了",
+        "onboard_time": 1695096097,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169934,
+        "num": 169934,
+        "word": "杭州亚运会中国队开门红",
+        "onboard_time": 1695090455,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168407,
+        "num": 168407,
+        "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+        "onboard_time": 1695097061,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167167,
+        "num": 167167,
+        "word": "新华为平板成首款星闪产品",
+        "onboard_time": 1695092976,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158636,
+        "num": 158636,
+        "word": "12306平均每秒超60万人刷票",
+        "onboard_time": 1695089613,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151000,
+        "num": 151000,
+        "word": "他从火光中走来今晚开播",
+        "onboard_time": 1695091356,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会吉祥物组合名叫江南忆#"
+    }
+  }
+}
