@@ -1,0 +1,410 @@
+{
+  "runTime": 1695129629203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2610198,
+        "num": 2610198,
+        "word": "花西子发声",
+        "onboard_time": 1695117576,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186146,
+        "num": 1186146,
+        "word": "徐娇回归周星驰公司",
+        "onboard_time": 1695126576,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12699,
+        "num": 884758,
+        "word": "奋力夺取秋粮好收成",
+        "onboard_time": 1695129219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835444,
+        "num": 835444,
+        "word": "第一次见到地铁工作人员工作餐",
+        "onboard_time": 1695126576,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 740160,
+        "num": 740160,
+        "word": "能不能别来碰瓷我们顶流",
+        "onboard_time": 1695123756,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 698200,
+        "num": 698200,
+        "word": "长风破浪 王一博李沁",
+        "onboard_time": 1695120641,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636463,
+        "num": 636463,
+        "word": "焦虑的人可以多吃点酸的",
+        "onboard_time": 1695126576,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574010,
+        "num": 574010,
+        "word": "国足亚运队vs印度",
+        "onboard_time": 1695122560,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517011,
+        "num": 517011,
+        "word": "肩膀突然不内扣了",
+        "onboard_time": 1695112240,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 501402,
+        "num": 501402,
+        "word": "他从火光中走来",
+        "onboard_time": 1695128136,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67500,
+        "num": 500078,
+        "word": "荣耀VPurse",
+        "onboard_time": 1695127298,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333080,
+        "num": 499406,
+        "word": "骗子教3小时老人仍未学会转账",
+        "onboard_time": 1695115840,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169978,
+        "num": 498128,
+        "word": "央广网评预制菜进校园",
+        "onboard_time": 1695112476,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56543,
+        "num": 497019,
+        "word": "亚运会今日开赛",
+        "onboard_time": 1695111758,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47990,
+        "num": 495356,
+        "word": "微博文化之夜年度荣誉",
+        "onboard_time": 1695128437,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 494591,
+        "num": 494591,
+        "word": "我有一个朋友",
+        "onboard_time": 1695123937,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619962,
+        "num": 479021,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 16,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 462733,
+        "num": 462733,
+        "word": "林俊杰演唱会抢票",
+        "onboard_time": 1695128136,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429006,
+        "num": 429006,
+        "word": "丁真 今天我的造型怎么样",
+        "onboard_time": 1695121659,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411579,
+        "num": 411579,
+        "word": "THE9解散演唱会官宣了",
+        "onboard_time": 1695117758,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 923617,
+        "num": 411400,
+        "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+        "onboard_time": 1695114280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387906,
+        "num": 387906,
+        "word": "大腿赘肉保不住了",
+        "onboard_time": 1695123098,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 368908,
+        "num": 368908,
+        "word": "钟汉良搂着正在跳舞的秦岚",
+        "onboard_time": 1695126937,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336232,
+        "num": 336232,
+        "word": "主人意外去世黄狗留守数月被救助",
+        "onboard_time": 1695127896,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322745,
+        "num": 322745,
+        "word": "迪丽热巴五只蚂蚁搬大米",
+        "onboard_time": 1695127236,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322109,
+        "num": 322109,
+        "word": "研究生上课 没有课本",
+        "onboard_time": 1695129097,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298775,
+        "num": 298775,
+        "word": "国足亚运队半场1比1印度",
+        "onboard_time": 1695126873,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70677,
+        "num": 291222,
+        "word": "荣耀钱包折叠屏创造行业新纪录",
+        "onboard_time": 1695127477,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 285227,
+        "num": 285227,
+        "word": "她与灯观鹤笔记获奖",
+        "onboard_time": 1695126937,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 278236,
+        "num": 278236,
+        "word": "宋雨琦美拉德穿搭",
+        "onboard_time": 1695128857,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258954,
+        "num": 258954,
+        "word": "原来牙线是这样用的",
+        "onboard_time": 1695124477,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 254689,
+        "num": 254689,
+        "word": "于适拿出弓的时候我沉默了",
+        "onboard_time": 1695128076,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251987,
+        "num": 251987,
+        "word": "五成投票网友不再去李佳琦直播间下单",
+        "onboard_time": 1695119982,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251247,
+        "num": 251247,
+        "word": "女生租房10个月与房东相恋结婚",
+        "onboard_time": 1695116075,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223540,
+        "num": 223540,
+        "word": "华为Mate60Pro",
+        "onboard_time": 1695129339,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222208,
+        "num": 222208,
+        "word": "巨蟹座喜欢的表现是恋恋不舍",
+        "onboard_time": 1695123216,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 219849,
+        "num": 219849,
+        "word": "巴黎奥运女排资格赛",
+        "onboard_time": 1695128498,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219265,
+        "num": 219265,
+        "word": "花西子自称是地地道道的国货",
+        "onboard_time": 1695119499,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219148,
+        "num": 219148,
+        "word": "心动的信号",
+        "onboard_time": 1695124477,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215350,
+        "num": 215350,
+        "word": "中国女排奥运资格赛三连胜",
+        "onboard_time": 1695129279,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107953,
+        "num": 206493,
+        "word": "理工男的翻身仗",
+        "onboard_time": 1695127236,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204656,
+        "num": 204656,
+        "word": "竟然帮前男友交了两年电费",
+        "onboard_time": 1695117097,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187908,
+        "num": 187908,
+        "word": "刘亦菲是真的懂情绪稳定",
+        "onboard_time": 1695113257,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185358,
+        "num": 185358,
+        "word": "印度扳平",
+        "onboard_time": 1695126275,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184378,
+        "num": 184378,
+        "word": "美腕回应李佳琦抖音认证消失",
+        "onboard_time": 1695105515,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 182108,
+        "num": 182108,
+        "word": "任正非称苹果是华为的老师",
+        "onboard_time": 1695120040,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175339,
+        "num": 175339,
+        "word": "给孙尚香皮肤加了点星buff",
+        "onboard_time": 1695124173,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171458,
+        "num": 171458,
+        "word": "马立奥变身超级马力欧",
+        "onboard_time": 1695128076,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165671,
+        "num": 165671,
+        "word": "肖战手画烟花太浪漫了",
+        "onboard_time": 1695116377,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155644,
+        "num": 155644,
+        "word": "荣耀发布会",
+        "onboard_time": 1695127416,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}

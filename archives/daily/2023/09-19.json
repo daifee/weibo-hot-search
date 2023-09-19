@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695127795478,
+  "endTime": 1695129629203,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -163,6 +163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1186146,
+      "num": 1186146,
+      "word": "徐娇回归周星驰公司",
+      "onboard_time": 1695126576,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1178933,
       "num": 573966,
       "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
@@ -315,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 835444,
+      "num": 835444,
+      "word": "第一次见到地铁工作人员工作餐",
+      "onboard_time": 1695126576,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 833375,
       "num": 833375,
       "word": "女子12年未休年假离职索赔14万",
@@ -347,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 780448,
-      "num": 780448,
-      "word": "徐娇回归周星驰公司",
-      "onboard_time": 1695126576,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 771789,
       "num": 771789,
       "word": "印度扳平",
@@ -377,14 +385,6 @@
       "onboard_time": 1695115840,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739691,
-      "num": 478218,
-      "word": "第一次见到地铁工作人员工作餐",
-      "onboard_time": 1695126576,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 737512,
@@ -512,6 +512,14 @@
       "word": "室友变小妈",
       "onboard_time": 1695111816,
       "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 636463,
+      "num": 636463,
+      "word": "焦虑的人可以多吃点酸的",
+      "onboard_time": 1695126576,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -723,6 +731,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 501402,
+      "num": 501402,
+      "word": "他从火光中走来",
+      "onboard_time": 1695079350,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496362,
       "num": 496362,
       "word": "白敬亭这令人震撼的大脑",
@@ -745,6 +761,14 @@
       "onboard_time": 1695099220,
       "rank": 18,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 462733,
+      "num": 462733,
+      "word": "林俊杰演唱会抢票",
+      "onboard_time": 1695128136,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 461475,
@@ -947,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 368908,
+      "num": 368908,
+      "word": "钟汉良搂着正在跳舞的秦岚",
+      "onboard_time": 1695126937,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366193,
       "num": 366193,
       "word": "A股",
@@ -1091,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336232,
+      "num": 336232,
+      "word": "主人意外去世黄狗留守数月被救助",
+      "onboard_time": 1695127896,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330855,
       "num": 327946,
       "word": "虞书欣想演穿得很漂亮的大女主",
@@ -1121,6 +1161,22 @@
       "onboard_time": 1695124477,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322745,
+      "num": 322745,
+      "word": "迪丽热巴五只蚂蚁搬大米",
+      "onboard_time": 1695127236,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322109,
+      "num": 322109,
+      "word": "研究生上课 没有课本",
+      "onboard_time": 1695129097,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 321843,
@@ -1219,20 +1275,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303482,
-      "num": 303482,
-      "word": "焦虑的人可以多吃点酸的",
-      "onboard_time": 1695126576,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 299014,
       "num": 267660,
       "word": "Angelababy敦煌造型好美",
       "onboard_time": 1695118659,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 298775,
+      "num": 298775,
+      "word": "国足亚运队半场1比1印度",
+      "onboard_time": 1695126873,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 297868,
@@ -1275,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290515,
-      "num": 290515,
-      "word": "钟汉良搂着正在跳舞的秦岚",
-      "onboard_time": 1695126937,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286348,
       "num": 286348,
       "word": "国风毛衣裙的第一批受害者",
@@ -1299,6 +1347,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285227,
+      "num": 285227,
+      "word": "她与灯观鹤笔记获奖",
+      "onboard_time": 1695126937,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 278236,
+      "num": 278236,
+      "word": "宋雨琦美拉德穿搭",
+      "onboard_time": 1695128857,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276957,
       "num": 276957,
       "word": "鸟鸟的这段话治好了我的焦虑",
@@ -1312,14 +1376,6 @@
       "word": "曼联内讧",
       "onboard_time": 1695084819,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 275097,
-      "num": 275097,
-      "word": "国足亚运队半场1比1印度",
-      "onboard_time": 1695126873,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -1395,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254689,
+      "num": 254689,
+      "word": "于适拿出弓的时候我沉默了",
+      "onboard_time": 1695128076,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253602,
       "num": 253602,
       "word": "原神连续两个月跌出收入榜前十",
@@ -1435,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252203,
-      "num": 252203,
-      "word": "他从火光中走来",
-      "onboard_time": 1695079350,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252124,
       "num": 252124,
       "word": "女孩把汉服穿去了伦敦大学毕业典礼",
@@ -1465,14 +1521,6 @@
       "onboard_time": 1695048940,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 249901,
-      "num": 249901,
-      "word": "迪丽热巴五只蚂蚁搬大米",
-      "onboard_time": 1695127236,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 249351,
@@ -1643,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223540,
+      "num": 223540,
+      "word": "华为Mate60Pro",
+      "onboard_time": 1695129339,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 222942,
       "num": 222942,
       "word": "华为FreeBuds",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1695046423,
       "rank": 19,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 219849,
+      "num": 219849,
+      "word": "巴黎奥运女排资格赛",
+      "onboard_time": 1695128498,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 219678,
@@ -1705,6 +1769,14 @@
       "onboard_time": 1695099699,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215350,
+      "num": 215350,
+      "word": "中国女排奥运资格赛三连胜",
+      "onboard_time": 1695129279,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 214012,
@@ -1785,14 +1857,6 @@
       "onboard_time": 1695092976,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 207513,
-      "num": 207513,
-      "word": "她与灯观鹤笔记获奖",
-      "onboard_time": 1695126937,
-      "rank": 34,
-      "category": "休闲"
     },
     {
       "raw_hot": 207180,
@@ -1964,7 +2028,7 @@
     },
     {
       "raw_hot": 193972,
-      "num": 219258,
+      "num": 500078,
       "word": "荣耀VPurse",
       "onboard_time": 1695127298,
       "rank": 31,
@@ -2107,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175339,
+      "num": 175339,
+      "word": "给孙尚香皮肤加了点星buff",
+      "onboard_time": 1695124173,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172887,
       "num": 164479,
       "word": "徐良见字如面",
@@ -2163,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171458,
+      "num": 171458,
+      "word": "马立奥变身超级马力欧",
+      "onboard_time": 1695128076,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170836,
       "num": 170836,
       "word": "棉柔巾 绵柔巾",
@@ -2193,14 +2273,6 @@
       "onboard_time": 1695030217,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 167609,
-      "num": 167609,
-      "word": "给孙尚香皮肤加了点星buff",
-      "onboard_time": 1695124173,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 166955,
@@ -2460,7 +2532,7 @@
     },
     {
       "raw_hot": 130692,
-      "num": 153624,
+      "num": 206493,
       "word": "理工男的翻身仗",
       "onboard_time": 1695127236,
       "rank": 44,
@@ -2644,7 +2716,7 @@
     },
     {
       "raw_hot": 74179,
-      "num": 179744,
+      "num": 291222,
       "word": "荣耀钱包折叠屏创造行业新纪录",
       "onboard_time": 1695127477,
       "rank": 39,
@@ -2713,6 +2785,14 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47990,
+      "num": 495356,
+      "word": "微博文化之夜年度荣誉",
+      "onboard_time": 1695128437,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 45461,
@@ -2841,6 +2921,14 @@
       "onboard_time": 1695065713,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12699,
+      "num": 884758,
+      "word": "奋力夺取秋粮好收成",
+      "onboard_time": 1695129219,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12510,
