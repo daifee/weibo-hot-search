@@ -1,0 +1,410 @@
+{
+  "runTime": 1695105329382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716111,
+        "num": 1716111,
+        "word": "茅台快把自己玩成料酒了",
+        "onboard_time": 1695101734,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012211,
+        "num": 1012211,
+        "word": "长相思杨紫换成女装后就没那么好看了",
+        "onboard_time": 1695098200,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54640,
+        "num": 935054,
+        "word": "亚运会金牌赛事日历",
+        "onboard_time": 1695096337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890733,
+        "num": 890733,
+        "word": "关晓彤天然呆奶茶公司被强执130万",
+        "onboard_time": 1695098620,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 846761,
+        "num": 846761,
+        "word": "央视官网表扬刘雨昕演唱会强实名",
+        "onboard_time": 1695094653,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 774791,
+        "num": 774791,
+        "word": "天蚕土豆 逆水寒",
+        "onboard_time": 1695102211,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 641392,
+        "num": 641392,
+        "word": "韩国一位奶奶在公厕住了十年",
+        "onboard_time": 1695097780,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 580241,
+        "num": 580241,
+        "word": "傅首尔给自己的压力好大",
+        "onboard_time": 1695100833,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478230,
+        "num": 478230,
+        "word": "迪丽热巴帮秦海璐戴麦",
+        "onboard_time": 1695102154,
+        "rank": 8,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 398535,
+        "num": 473415,
+        "word": "华中师大通报公众号引用骂人伪诗经",
+        "onboard_time": 1695099038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812307,
+        "num": 468056,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254304,
+        "num": 465548,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179480,
+        "num": 456639,
+        "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+        "onboard_time": 1695097061,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170224,
+        "num": 449427,
+        "word": "文在寅将探望李在明",
+        "onboard_time": 1695099637,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13731,
+        "num": 446195,
+        "word": "天猫向你发出超级时装周邀请函",
+        "onboard_time": 1695103235,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804125,
+        "num": 440000,
+        "word": "关晓彤方回应天然呆奶茶公司被强执",
+        "onboard_time": 1695103175,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 482860,
+        "num": 434013,
+        "word": "夜色尚浅情侣商务",
+        "onboard_time": 1695102275,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431982,
+        "num": 431982,
+        "word": "张杰家的女子足球加油小队",
+        "onboard_time": 1695104375,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409282,
+        "num": 409282,
+        "word": "杨紫拼色针织开衫",
+        "onboard_time": 1695103415,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 358505,
+        "num": 358505,
+        "word": "iPhone16Pro将配备5倍光学变焦镜头",
+        "onboard_time": 1695093156,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 616142,
+        "num": 339795,
+        "word": "小伙漏刮100万大奖彩票被销售员发现",
+        "onboard_time": 1695102874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317986,
+        "num": 317986,
+        "word": "于适 GQ",
+        "onboard_time": 1695104314,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 303489,
+        "num": 303489,
+        "word": "黄晓明奖励自己的戏来了吗",
+        "onboard_time": 1695104674,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276957,
+        "num": 276957,
+        "word": "鸟鸟的这段话治好了我的焦虑",
+        "onboard_time": 1695104135,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221222,
+        "num": 266411,
+        "word": "提了离职没走的人什么样了",
+        "onboard_time": 1695089184,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264497,
+        "num": 264497,
+        "word": "陈牧驰跳了科目一",
+        "onboard_time": 1695101795,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255901,
+        "num": 255901,
+        "word": "黄景瑜一看就能把我救出来",
+        "onboard_time": 1695104255,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237570,
+        "num": 237570,
+        "word": "花少5 沙特",
+        "onboard_time": 1695095255,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206788,
+        "num": 206788,
+        "word": "华为耳机首发搭载无损无线传输",
+        "onboard_time": 1695099637,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202738,
+        "num": 202738,
+        "word": "崩铁 帮帮我肯德基爷爷",
+        "onboard_time": 1695104494,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225685,
+        "num": 202696,
+        "word": "虞书欣米兰时装周",
+        "onboard_time": 1695099220,
+        "rank": 30,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 225112,
+        "num": 202302,
+        "word": "孙怡劝王睡睡醒一醒",
+        "onboard_time": 1695104255,
+        "rank": 31,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 179285,
+        "num": 201761,
+        "word": "天美新游元梦之星",
+        "onboard_time": 1695101198,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207121,
+        "num": 201516,
+        "word": "张曼玉居然是E人",
+        "onboard_time": 1695104435,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201164,
+        "num": 201164,
+        "word": "贾玲支持张小斐新剧",
+        "onboard_time": 1695104615,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197715,
+        "num": 197715,
+        "word": "韩国总统批准拘捕李在明",
+        "onboard_time": 1695087514,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195800,
+        "num": 195800,
+        "word": "为什么女生洗澡水比男生的烫",
+        "onboard_time": 1695104375,
+        "rank": 36,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 193179,
+        "num": 193179,
+        "word": "在钢琴和女儿之间还是选择了女儿",
+        "onboard_time": 1695103595,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186528,
+        "num": 186528,
+        "word": "赵继伟担任中国男篮队长",
+        "onboard_time": 1695098800,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184099,
+        "num": 184099,
+        "word": "异人之下新浪扫楼",
+        "onboard_time": 1695104013,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183404,
+        "num": 183404,
+        "word": "热巴好A",
+        "onboard_time": 1695092494,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179181,
+        "num": 179181,
+        "word": "傅云深被扒睡衣拼凑版",
+        "onboard_time": 1695102874,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172179,
+        "num": 172179,
+        "word": "于适睫毛错位图",
+        "onboard_time": 1695104435,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171297,
+        "num": 171297,
+        "word": "全智贤好像真的不会老",
+        "onboard_time": 1695094836,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165445,
+        "num": 165445,
+        "word": "伍佰 我是街上的游魂",
+        "onboard_time": 1695105215,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136951,
+        "num": 164137,
+        "word": "令人作呕的强制爱",
+        "onboard_time": 1695105156,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126221,
+        "num": 161361,
+        "word": "6个动作缓解肩周炎",
+        "onboard_time": 1695103953,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 72394,
+        "num": 158267,
+        "word": "你有放松困难症吗",
+        "onboard_time": 1695102452,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45371,
+        "num": 157244,
+        "word": "给长辈送礼不浪费指南",
+        "onboard_time": 1695103774,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122742,
+        "num": 154191,
+        "word": "女子遭性侵未获立案自杀发现新证据",
+        "onboard_time": 1695082960,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会吉祥物组合名叫江南忆#"
+    }
+  }
+}

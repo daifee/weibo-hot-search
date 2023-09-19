@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695104540407,
+  "endTime": 1695105329382,
   "band_list": [
     {
       "raw_hot": 2679392,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1647742,
-      "num": 1647742,
+      "raw_hot": 1716111,
+      "num": 1716111,
       "word": "茅台快把自己玩成料酒了",
       "onboard_time": 1695101734,
       "rank": 0,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 844904,
-      "num": 403978,
+      "num": 440000,
       "word": "关晓彤方回应天然呆奶茶公司被强执",
       "onboard_time": 1695103175,
       "rank": 16,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 563082,
-      "num": 391306,
+      "num": 434013,
       "word": "夜色尚浅情侣商务",
       "onboard_time": 1695102275,
       "rank": 17,
@@ -467,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431982,
+      "num": 431982,
+      "word": "张杰家的女子足球加油小队",
+      "onboard_time": 1695104375,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431008,
       "num": 431008,
       "word": "雪糕厂每年带薪放寒假",
@@ -505,6 +513,14 @@
       "onboard_time": 1695088833,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 409282,
+      "num": 409282,
+      "word": "杨紫拼色针织开衫",
+      "onboard_time": 1695103415,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 380572,
@@ -569,14 +585,6 @@
       "onboard_time": 1695080013,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 355530,
-      "num": 355530,
-      "word": "杨紫拼色针织开衫",
-      "onboard_time": 1695103415,
-      "rank": 19,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 350885,
@@ -691,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 317986,
+      "num": 317986,
+      "word": "于适 GQ",
+      "onboard_time": 1695104314,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 316733,
       "num": 249018,
       "word": "iOS17",
@@ -715,20 +731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308538,
-      "num": 308538,
-      "word": "张杰家的女子足球加油小队",
-      "onboard_time": 1695104375,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307282,
       "num": 268441,
       "word": "好喜欢熬夜又好喜欢睡觉",
       "onboard_time": 1695084277,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303489,
+      "num": 303489,
+      "word": "黄晓明奖励自己的戏来了吗",
+      "onboard_time": 1695104674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 297868,
@@ -760,6 +776,14 @@
       "word": "六公主对哪吒弟弟的采访",
       "onboard_time": 1695099580,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276957,
+      "num": 276957,
+      "word": "鸟鸟的这段话治好了我的焦虑",
+      "onboard_time": 1695104135,
+      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -816,6 +840,14 @@
       "word": "兰闺喜事定档",
       "onboard_time": 1695092675,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255901,
+      "num": 255901,
+      "word": "黄景瑜一看就能把我救出来",
+      "onboard_time": 1695104255,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225112,
+      "num": 202302,
+      "word": "孙怡劝王睡睡醒一醒",
+      "onboard_time": 1695104255,
+      "rank": 45,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 224363,
       "num": 224363,
       "word": "在钢琴和女儿之间还是选择了女儿",
@@ -1083,6 +1123,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 207121,
+      "num": 201516,
+      "word": "张曼玉居然是E人",
+      "onboard_time": 1695104435,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205347,
       "num": 211149,
       "word": "12306平均每秒超60万人刷票",
@@ -1123,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202738,
+      "num": 202738,
+      "word": "崩铁 帮帮我肯德基爷爷",
+      "onboard_time": 1695104494,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202476,
       "num": 202476,
       "word": "国庆假期铁路日均客流量约为春运两倍",
@@ -1139,12 +1195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200931,
-      "num": 200931,
-      "word": "鸟鸟的这段话治好了我的焦虑",
-      "onboard_time": 1695104135,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 201164,
+      "num": 201164,
+      "word": "贾玲支持张小斐新剧",
+      "onboard_time": 1695104615,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 200241,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1695042338,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198205,
-      "num": 198205,
-      "word": "于适 GQ",
-      "onboard_time": 1695104314,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197697,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1695090994,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195800,
+      "num": 195800,
+      "word": "为什么女生洗澡水比男生的烫",
+      "onboard_time": 1695104375,
+      "rank": 43,
+      "category": "知识科普"
     },
     {
       "raw_hot": 194157,
@@ -1243,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179285,
+      "num": 493915,
+      "word": "天美新游元梦之星",
+      "onboard_time": 1695101198,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176986,
       "num": 176986,
       "word": "心动6大结局点映",
@@ -1267,20 +1331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170923,
-      "num": 170923,
+      "raw_hot": 172179,
+      "num": 172179,
       "word": "于适睫毛错位图",
       "onboard_time": 1695104435,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170656,
-      "num": 493915,
-      "word": "天美新游元梦之星",
-      "onboard_time": 1695101198,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 169957,
@@ -1289,14 +1345,6 @@
       "onboard_time": 1695086488,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168559,
-      "num": 168559,
-      "word": "黄景瑜一看就能把我救出来",
-      "onboard_time": 1695104255,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 167998,
@@ -1339,12 +1387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162405,
-      "num": 162405,
-      "word": "为什么女生洗澡水比男生的烫",
-      "onboard_time": 1695104375,
-      "rank": 43,
-      "category": "知识科普"
+      "raw_hot": 165445,
+      "num": 165445,
+      "word": "伍佰 我是街上的游魂",
+      "onboard_time": 1695105215,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161430,
@@ -1353,14 +1401,6 @@
       "onboard_time": 1695048940,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161329,
-      "num": 161329,
-      "word": "张曼玉居然是E人",
-      "onboard_time": 1695104435,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 158313,
@@ -1393,14 +1433,6 @@
       "onboard_time": 1695039095,
       "rank": 39,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 154355,
-      "num": 154355,
-      "word": "孙怡劝王睡睡醒一醒",
-      "onboard_time": 1695104255,
-      "rank": 45,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 152666,
@@ -1436,7 +1468,7 @@
     },
     {
       "raw_hot": 146929,
-      "num": 146929,
+      "num": 161361,
       "word": "6个动作缓解肩周炎",
       "onboard_time": 1695103953,
       "rank": 47,
@@ -1475,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141105,
-      "num": 141105,
-      "word": "崩铁 帮帮我肯德基爷爷",
-      "onboard_time": 1695104494,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138709,
       "num": 138709,
       "word": "中国台湾东北附近发生6.7级左右地震",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1695090273,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 136951,
+      "num": 164137,
+      "word": "令人作呕的强制爱",
+      "onboard_time": 1695105156,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 134177,
@@ -1675,20 +1707,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 72394,
+      "num": 259628,
+      "word": "你有放松困难症吗",
+      "onboard_time": 1695102452,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58288,
       "num": 58288,
       "word": "王毅同沙利文在马耳他会晤",
       "onboard_time": 1695070634,
       "rank": 35,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 53530,
-      "num": 259628,
-      "word": "你有放松困难症吗",
-      "onboard_time": 1695102452,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 49822,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 45371,
+      "num": 157244,
+      "word": "给长辈送礼不浪费指南",
+      "onboard_time": 1695103774,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 40742,
@@ -1737,14 +1777,6 @@
       "onboard_time": 1695059596,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 29682,
-      "num": 140146,
-      "word": "给长辈送礼不浪费指南",
-      "onboard_time": 1695103774,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 27864,
@@ -1803,6 +1835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 13731,
+      "num": 446195,
+      "word": "天猫向你发出超级时装周邀请函",
+      "onboard_time": 1695103235,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13671,
       "num": 15448,
       "word": "当狗子遇到机器狗",
@@ -1817,14 +1857,6 @@
       "onboard_time": 1695069255,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11307,
-      "num": 444186,
-      "word": "天猫向你发出超级时装周邀请函",
-      "onboard_time": 1695103235,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
