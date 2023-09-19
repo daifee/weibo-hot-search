@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695105329382,
+  "endTime": 1695107757163,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -9,6 +9,14 @@
       "onboard_time": 1695002373,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4742040,
+      "num": 274478,
+      "word": "好声音起诉李玟经纪公司华纳音乐",
+      "onboard_time": 1695106776,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 4670876,
@@ -627,6 +635,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1050074,
+      "num": 419850,
+      "word": "香港顶流姜涛最新活动生图",
+      "onboard_time": 1695105335,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049379,
       "num": 1049379,
       "word": "梁静茹 倒嗓",
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 844904,
-      "num": 440000,
+      "num": 575433,
       "word": "关晓彤方回应天然呆奶茶公司被强执",
       "onboard_time": 1695103175,
       "rank": 16,
@@ -977,6 +993,14 @@
       "onboard_time": 1694919755,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790170,
+      "num": 415044,
+      "word": "美腕回应李佳琦抖音认证消失",
+      "onboard_time": 1695105515,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 783398,
@@ -2115,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461475,
+      "num": 328098,
+      "word": "为什么女生洗澡水比男生的烫",
+      "onboard_time": 1695104375,
+      "rank": 43,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 459739,
       "num": 330543,
       "word": "YG新女团会取代BLACKPINK吗",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1694922513,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450519,
+      "num": 450519,
+      "word": "月饼都出美拉德风了",
+      "onboard_time": 1695105937,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 450199,
@@ -2345,6 +2385,14 @@
       "onboard_time": 1694943813,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422250,
+      "num": 422250,
+      "word": "于适 GQ",
+      "onboard_time": 1695104314,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 417815,
@@ -2931,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337954,
+      "num": 273340,
+      "word": "原来这就是雪花牛肉",
+      "onboard_time": 1695107196,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 337583,
       "num": 472802,
       "word": "文在寅将探望李在明",
@@ -2995,6 +3051,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 330855,
+      "num": 327946,
+      "word": "虞书欣想演穿得很漂亮的大女主",
+      "onboard_time": 1695105816,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330194,
       "num": 330194,
       "word": "本周狗屎运最旺的星座",
@@ -3019,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329031,
+      "num": 329031,
+      "word": "iPhone用户羡慕的安卓功能",
+      "onboard_time": 1695107316,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 328001,
       "num": 328001,
       "word": "张栋梁身上有一种娱乐圈难得的松弛感",
@@ -3041,6 +3113,14 @@
       "onboard_time": 1695078506,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325665,
+      "num": 325665,
+      "word": "赵丽颖弹琴背影",
+      "onboard_time": 1695106175,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 325636,
@@ -3115,14 +3195,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 317986,
-      "num": 317986,
-      "word": "于适 GQ",
-      "onboard_time": 1695104314,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 317982,
       "num": 317982,
       "word": "成毅张予曦含冰水防哈气",
@@ -3145,6 +3217,22 @@
       "onboard_time": 1694940155,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313550,
+      "num": 313550,
+      "word": "独居的人是怎么喝水的",
+      "onboard_time": 1695105335,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 311966,
+      "num": 311966,
+      "word": "黄晓明奖励自己的戏来了吗",
+      "onboard_time": 1695104674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 311511,
@@ -3185,6 +3273,14 @@
       "onboard_time": 1695028116,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 309213,
+      "num": 309213,
+      "word": "教育局回应幼儿园老师恐吓孩子假笑摆拍",
+      "onboard_time": 1695105874,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309190,
@@ -3251,12 +3347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303489,
-      "num": 303489,
-      "word": "黄晓明奖励自己的戏来了吗",
-      "onboard_time": 1695104674,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 302957,
+      "num": 270218,
+      "word": "瘦子同事带的饭",
+      "onboard_time": 1695107137,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 301602,
@@ -3555,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274993,
+      "num": 274993,
+      "word": "黄景瑜一看就能把我救出来",
+      "onboard_time": 1695104255,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274977,
       "num": 274977,
       "word": "如何评价徐良被淘汰",
@@ -3795,20 +3899,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255901,
-      "num": 255901,
-      "word": "黄景瑜一看就能把我救出来",
-      "onboard_time": 1695104255,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254103,
       "num": 453701,
       "word": "公交公司回应发文全城停运",
       "onboard_time": 1695043783,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253177,
+      "num": 253177,
+      "word": "崩铁 帮帮我肯德基爷爷",
+      "onboard_time": 1695104494,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 253065,
@@ -4235,6 +4339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227894,
+      "num": 227894,
+      "word": "被父母偏心的子女视角是这样的",
+      "onboard_time": 1695106537,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227473,
       "num": 194151,
       "word": "女生用膝盖接散粉盒致髌骨脱位",
@@ -4308,7 +4420,7 @@
     },
     {
       "raw_hot": 225112,
-      "num": 202302,
+      "num": 216313,
       "word": "孙怡劝王睡睡醒一醒",
       "onboard_time": 1695104255,
       "rank": 45,
@@ -4547,6 +4659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 213080,
+      "num": 213080,
+      "word": "张曼玉居然是E人",
+      "onboard_time": 1695104435,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212890,
       "num": 212890,
       "word": "赵丽颖光影氛围感live图",
@@ -4587,6 +4707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210944,
+      "num": 210944,
+      "word": "孤注一掷票房破38亿",
+      "onboard_time": 1695107316,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210488,
       "num": 210488,
       "word": "杭州亚运会今日看点",
@@ -4617,14 +4745,6 @@
       "onboard_time": 1695092976,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 207121,
-      "num": 201516,
-      "word": "张曼玉居然是E人",
-      "onboard_time": 1695104435,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 206433,
@@ -4721,14 +4841,6 @@
       "onboard_time": 1694908226,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202738,
-      "num": 202738,
-      "word": "崩铁 帮帮我肯德基爷爷",
-      "onboard_time": 1695104494,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 202476,
@@ -4905,14 +5017,6 @@
       "onboard_time": 1694920356,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195800,
-      "num": 195800,
-      "word": "为什么女生洗澡水比男生的烫",
-      "onboard_time": 1695104375,
-      "rank": 43,
-      "category": "知识科普"
     },
     {
       "raw_hot": 195702,
@@ -5243,6 +5347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179808,
+      "num": 179808,
+      "word": "令人作呕的强制爱",
+      "onboard_time": 1695105156,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179765,
       "num": 179765,
       "word": "辽宁14城9时18分拉响警报",
@@ -5379,6 +5491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172241,
+      "num": 172241,
+      "word": "伍佰 我是街上的游魂",
+      "onboard_time": 1695105215,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172179,
       "num": 172179,
       "word": "于适睫毛错位图",
@@ -5513,14 +5633,6 @@
       "onboard_time": 1695082478,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165445,
-      "num": 165445,
-      "word": "伍佰 我是街上的游魂",
-      "onboard_time": 1695105215,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165183,
@@ -5811,6 +5923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 146240,
+      "num": 146240,
+      "word": "离职后她在阳台养400盆花治愈自己",
+      "onboard_time": 1695107675,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145819,
       "num": 145819,
       "word": "记者揭露手机被改成偷拍设备",
@@ -6009,14 +6129,6 @@
       "onboard_time": 1695090273,
       "rank": 44,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 136951,
-      "num": 164137,
-      "word": "令人作呕的强制爱",
-      "onboard_time": 1695105156,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 133189,
@@ -6585,6 +6697,14 @@
       "onboard_time": 1694978534,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33776,
+      "num": 174980,
+      "word": "这么多年终于有了人生第一套房",
+      "onboard_time": 1695107378,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 33661,

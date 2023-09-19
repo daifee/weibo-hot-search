@@ -1,0 +1,410 @@
+{
+  "runTime": 1695107757163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1433301,
+        "num": 1433301,
+        "word": "茅台快把自己玩成料酒了",
+        "onboard_time": 1695101734,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 650409,
+        "num": 650409,
+        "word": "长相思杨紫换成女装后就没那么好看了",
+        "onboard_time": 1695098200,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51208,
+        "num": 625147,
+        "word": "亚运会金牌赛事日历",
+        "onboard_time": 1695096337,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 624507,
+        "num": 624507,
+        "word": "天蚕土豆 逆水寒",
+        "onboard_time": 1695102211,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 575433,
+        "num": 575433,
+        "word": "关晓彤方回应天然呆奶茶公司被强执",
+        "onboard_time": 1695103175,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 496177,
+        "num": 496177,
+        "word": "央视官网表扬刘雨昕演唱会强实名",
+        "onboard_time": 1695094653,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 485329,
+        "num": 485329,
+        "word": "韩国一位奶奶在公厕住了十年",
+        "onboard_time": 1695097780,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450519,
+        "num": 450519,
+        "word": "月饼都出美拉德风了",
+        "onboard_time": 1695105937,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 449201,
+        "num": 449201,
+        "word": "迪丽热巴帮秦海璐戴麦",
+        "onboard_time": 1695102154,
+        "rank": 8,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 422250,
+        "num": 422250,
+        "word": "于适 GQ",
+        "onboard_time": 1695104314,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1050074,
+        "num": 419850,
+        "word": "香港顶流姜涛最新活动生图",
+        "onboard_time": 1695105335,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790170,
+        "num": 415044,
+        "word": "美腕回应李佳琦抖音认证消失",
+        "onboard_time": 1695105515,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 216027,
+        "num": 414163,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130456,
+        "num": 409091,
+        "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+        "onboard_time": 1695097061,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108311,
+        "num": 405627,
+        "word": "文在寅将探望李在明",
+        "onboard_time": 1695099637,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698597,
+        "num": 402020,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399277,
+        "num": 399277,
+        "word": "关晓彤天然呆奶茶公司被强执130万",
+        "onboard_time": 1695098620,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 350047,
+        "num": 350047,
+        "word": "张杰家的女子足球加油小队",
+        "onboard_time": 1695104375,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332254,
+        "num": 332254,
+        "word": "夜色尚浅情侣商务",
+        "onboard_time": 1695102275,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329031,
+        "num": 329031,
+        "word": "iPhone用户羡慕的安卓功能",
+        "onboard_time": 1695107316,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 546883,
+        "num": 328188,
+        "word": "小伙漏刮100万大奖彩票被销售员发现",
+        "onboard_time": 1695102874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461475,
+        "num": 328098,
+        "word": "为什么女生洗澡水比男生的烫",
+        "onboard_time": 1695104375,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 330855,
+        "num": 327946,
+        "word": "虞书欣想演穿得很漂亮的大女主",
+        "onboard_time": 1695105816,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325665,
+        "num": 325665,
+        "word": "赵丽颖弹琴背影",
+        "onboard_time": 1695106175,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313550,
+        "num": 313550,
+        "word": "独居的人是怎么喝水的",
+        "onboard_time": 1695105335,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311966,
+        "num": 311966,
+        "word": "黄晓明奖励自己的戏来了吗",
+        "onboard_time": 1695104674,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309213,
+        "num": 309213,
+        "word": "教育局回应幼儿园老师恐吓孩子假笑摆拍",
+        "onboard_time": 1695105874,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306563,
+        "num": 306563,
+        "word": "傅首尔给自己的压力好大",
+        "onboard_time": 1695100833,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289267,
+        "num": 289267,
+        "word": "杨紫拼色针织开衫",
+        "onboard_time": 1695103415,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 274993,
+        "num": 274993,
+        "word": "黄景瑜一看就能把我救出来",
+        "onboard_time": 1695104255,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4742040,
+        "num": 274478,
+        "word": "好声音起诉李玟经纪公司华纳音乐",
+        "onboard_time": 1695106776,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337954,
+        "num": 273340,
+        "word": "原来这就是雪花牛肉",
+        "onboard_time": 1695107196,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302957,
+        "num": 270218,
+        "word": "瘦子同事带的饭",
+        "onboard_time": 1695107137,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253177,
+        "num": 253177,
+        "word": "崩铁 帮帮我肯德基爷爷",
+        "onboard_time": 1695104494,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251028,
+        "num": 251028,
+        "word": "iPhone16Pro将配备5倍光学变焦镜头",
+        "onboard_time": 1695093156,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227894,
+        "num": 227894,
+        "word": "被父母偏心的子女视角是这样的",
+        "onboard_time": 1695106537,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216313,
+        "num": 216313,
+        "word": "孙怡劝王睡睡醒一醒",
+        "onboard_time": 1695104255,
+        "rank": 36,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 213080,
+        "num": 213080,
+        "word": "张曼玉居然是E人",
+        "onboard_time": 1695104435,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210944,
+        "num": 210944,
+        "word": "孤注一掷票房破38亿",
+        "onboard_time": 1695107316,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198463,
+        "num": 198463,
+        "word": "鸟鸟的这段话治好了我的焦虑",
+        "onboard_time": 1695104135,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179808,
+        "num": 179808,
+        "word": "令人作呕的强制爱",
+        "onboard_time": 1695105156,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33776,
+        "num": 174980,
+        "word": "这么多年终于有了人生第一套房",
+        "onboard_time": 1695107378,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172241,
+        "num": 172241,
+        "word": "伍佰 我是街上的游魂",
+        "onboard_time": 1695105215,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165260,
+        "num": 165260,
+        "word": "花少5 沙特",
+        "onboard_time": 1695095255,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159111,
+        "num": 159111,
+        "word": "华中师大通报公众号引用骂人伪诗经",
+        "onboard_time": 1695099038,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157704,
+        "num": 157704,
+        "word": "心动6大结局点映",
+        "onboard_time": 1695102693,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155626,
+        "num": 155626,
+        "word": "提了离职没走的人什么样了",
+        "onboard_time": 1695089184,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146240,
+        "num": 146240,
+        "word": "离职后她在阳台养400盆花治愈自己",
+        "onboard_time": 1695107675,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141588,
+        "num": 141588,
+        "word": "华为耳机首发搭载无损无线传输",
+        "onboard_time": 1695099637,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136848,
+        "num": 136848,
+        "word": "赵露思机场扶起摔倒的路人",
+        "onboard_time": 1695092195,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为向阳而生的他们多扫些障碍加些便利#"
+    }
+  }
+}

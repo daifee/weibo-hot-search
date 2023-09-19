@@ -1,7 +1,15 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695105329382,
+  "endTime": 1695107757163,
   "band_list": [
+    {
+      "raw_hot": 4742040,
+      "num": 274478,
+      "word": "好声音起诉李玟经纪公司华纳音乐",
+      "onboard_time": 1695106776,
+      "rank": 30,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2679392,
       "num": 1304151,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1050074,
+      "num": 419850,
+      "word": "香港顶流姜涛最新活动生图",
+      "onboard_time": 1695105335,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1007517,
       "num": 928061,
       "word": "三喜奶奶看起来比况盛还年轻",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 844904,
-      "num": 440000,
+      "num": 575433,
       "word": "关晓彤方回应天然呆奶茶公司被强执",
       "onboard_time": 1695103175,
       "rank": 16,
@@ -217,6 +233,14 @@
       "onboard_time": 1695083076,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 790170,
+      "num": 415044,
+      "word": "美腕回应李佳琦抖音认证消失",
+      "onboard_time": 1695105515,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 737512,
@@ -451,6 +475,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 461475,
+      "num": 328098,
+      "word": "为什么女生洗澡水比男生的烫",
+      "onboard_time": 1695104375,
+      "rank": 43,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 459739,
       "num": 330543,
       "word": "YG新女团会取代BLACKPINK吗",
@@ -465,6 +497,14 @@
       "onboard_time": 1695096820,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 450519,
+      "num": 450519,
+      "word": "月饼都出美拉德风了",
+      "onboard_time": 1695105937,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 431982,
@@ -489,6 +529,14 @@
       "onboard_time": 1695086374,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422250,
+      "num": 422250,
+      "word": "于适 GQ",
+      "onboard_time": 1695104314,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 422225,
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337954,
+      "num": 273340,
+      "word": "原来这就是雪花牛肉",
+      "onboard_time": 1695107196,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 337583,
       "num": 472802,
       "word": "文在寅将探望李在明",
@@ -667,12 +723,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330855,
+      "num": 327946,
+      "word": "虞书欣想演穿得很漂亮的大女主",
+      "onboard_time": 1695105816,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329031,
+      "num": 329031,
+      "word": "iPhone用户羡慕的安卓功能",
+      "onboard_time": 1695107316,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 325889,
       "num": 439895,
       "word": "赢了我带你回家输了下辈子再见",
       "onboard_time": 1695078506,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325665,
+      "num": 325665,
+      "word": "赵丽颖弹琴背影",
+      "onboard_time": 1695106175,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 321843,
@@ -699,20 +779,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 317986,
-      "num": 317986,
-      "word": "于适 GQ",
-      "onboard_time": 1695104314,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 316733,
       "num": 249018,
       "word": "iOS17",
       "onboard_time": 1695047142,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 313550,
+      "num": 313550,
+      "word": "独居的人是怎么喝水的",
+      "onboard_time": 1695105335,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 311966,
+      "num": 311966,
+      "word": "黄晓明奖励自己的戏来了吗",
+      "onboard_time": 1695104674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 311511,
@@ -731,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309213,
+      "num": 309213,
+      "word": "教育局回应幼儿园老师恐吓孩子假笑摆拍",
+      "onboard_time": 1695105874,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307282,
       "num": 268441,
       "word": "好喜欢熬夜又好喜欢睡觉",
@@ -739,12 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303489,
-      "num": 303489,
-      "word": "黄晓明奖励自己的戏来了吗",
-      "onboard_time": 1695104674,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 302957,
+      "num": 270218,
+      "word": "瘦子同事带的饭",
+      "onboard_time": 1695107137,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 297868,
@@ -795,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274993,
+      "num": 274993,
+      "word": "黄景瑜一看就能把我救出来",
+      "onboard_time": 1695104255,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273601,
       "num": 273601,
       "word": "周冬雨张艺谋11年后再合作",
@@ -843,20 +947,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255901,
-      "num": 255901,
-      "word": "黄景瑜一看就能把我救出来",
-      "onboard_time": 1695104255,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255531,
       "num": 255531,
       "word": "一个宿舍六种房",
       "onboard_time": 1695046783,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253177,
+      "num": 253177,
+      "word": "崩铁 帮帮我肯德基爷爷",
+      "onboard_time": 1695104494,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 252203,
@@ -995,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227894,
+      "num": 227894,
+      "word": "被父母偏心的子女视角是这样的",
+      "onboard_time": 1695106537,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227518,
       "num": 227518,
       "word": "4名男孩溺亡其中3人亲兄弟",
@@ -1012,7 +1124,7 @@
     },
     {
       "raw_hot": 225112,
-      "num": 202302,
+      "num": 216313,
       "word": "孙怡劝王睡睡醒一醒",
       "onboard_time": 1695104255,
       "rank": 45,
@@ -1083,6 +1195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 213080,
+      "num": 213080,
+      "word": "张曼玉居然是E人",
+      "onboard_time": 1695104435,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212544,
       "num": 212544,
       "word": "很多事情到了30岁才懂",
@@ -1096,6 +1216,14 @@
       "word": "乌尔善衣服上印满了封神的笑脸",
       "onboard_time": 1695098081,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 210944,
+      "num": 210944,
+      "word": "孤注一掷票房破38亿",
+      "onboard_time": 1695107316,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -1121,14 +1249,6 @@
       "onboard_time": 1695039517,
       "rank": 25,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 207121,
-      "num": 201516,
-      "word": "张曼玉居然是E人",
-      "onboard_time": 1695104435,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 205347,
@@ -1169,14 +1289,6 @@
       "onboard_time": 1695104013,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202738,
-      "num": 202738,
-      "word": "崩铁 帮帮我肯德基爷爷",
-      "onboard_time": 1695104494,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 202476,
@@ -1227,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195800,
-      "num": 195800,
-      "word": "为什么女生洗澡水比男生的烫",
-      "onboard_time": 1695104375,
-      "rank": 43,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 194157,
       "num": 194157,
       "word": "电影志愿军初心特辑",
@@ -1280,6 +1384,14 @@
       "word": "谁家小区取这名字啊",
       "onboard_time": 1695087093,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 179808,
+      "num": 179808,
+      "word": "令人作呕的强制爱",
+      "onboard_time": 1695105156,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1329,6 +1441,14 @@
       "onboard_time": 1695096097,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172241,
+      "num": 172241,
+      "word": "伍佰 我是街上的游魂",
+      "onboard_time": 1695105215,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172179,
@@ -1385,14 +1505,6 @@
       "onboard_time": 1695082478,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165445,
-      "num": 165445,
-      "word": "伍佰 我是街上的游魂",
-      "onboard_time": 1695105215,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161430,
@@ -1475,6 +1587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 146240,
+      "num": 146240,
+      "word": "离职后她在阳台养400盆花治愈自己",
+      "onboard_time": 1695107675,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144829,
       "num": 144829,
       "word": "这是一只千万不能拍打的虫",
@@ -1521,14 +1641,6 @@
       "onboard_time": 1695090273,
       "rank": 44,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 136951,
-      "num": 164137,
-      "word": "令人作呕的强制爱",
-      "onboard_time": 1695105156,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 134177,
@@ -1752,6 +1864,14 @@
       "word": "体验一把云养熊猫的快乐",
       "onboard_time": 1695097841,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 33776,
+      "num": 174980,
+      "word": "这么多年终于有了人生第一套房",
+      "onboard_time": 1695107378,
+      "rank": 41,
       "category": "游戏"
     },
     {
