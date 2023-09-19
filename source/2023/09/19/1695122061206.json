@@ -1,0 +1,410 @@
+{
+  "runTime": 1695122061206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7903074,
+        "num": 7903074,
+        "word": "花西子发声",
+        "onboard_time": 1695117576,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274990,
+        "num": 3710992,
+        "word": "杭州阿姨1碗汤安徽姑娘铭记一生",
+        "onboard_time": 1695113376,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 76663,
+        "num": 2053414,
+        "word": "亚运会今日开赛",
+        "onboard_time": 1695111758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219406,
+        "num": 1219406,
+        "word": "长风破浪 王一博李沁",
+        "onboard_time": 1695120641,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204370,
+        "num": 954767,
+        "word": "女子被撞几十名路人瞬间集结抬车救人",
+        "onboard_time": 1695119860,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716878,
+        "num": 716878,
+        "word": "THE9解散演唱会官宣了",
+        "onboard_time": 1695117758,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177861,
+        "num": 683005,
+        "word": "东海全面开渔第一网海鲜被抢空",
+        "onboard_time": 1695117158,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 680055,
+        "num": 680055,
+        "word": "瘦子同事带的饭",
+        "onboard_time": 1695107137,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 661537,
+        "num": 661537,
+        "word": "肩膀突然不内扣了",
+        "onboard_time": 1695112240,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 531063,
+        "num": 531063,
+        "word": "北京晚霞",
+        "onboard_time": 1695119860,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 854480,
+        "num": 529732,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 10,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 512975,
+        "num": 512975,
+        "word": "玉桂狗 五条悟",
+        "onboard_time": 1695120339,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 382176,
+        "num": 467367,
+        "word": "骗子教3小时老人仍未学会转账",
+        "onboard_time": 1695115840,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188213,
+        "num": 455517,
+        "word": "央广网评预制菜进校园",
+        "onboard_time": 1695112476,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64901,
+        "num": 455380,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455352,
+        "num": 455352,
+        "word": "丁真 今天我的造型怎么样",
+        "onboard_time": 1695121659,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402782,
+        "num": 402782,
+        "word": "李雪琴李嘉琦徐志胜给汪苏泷制造惊喜",
+        "onboard_time": 1695118240,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390854,
+        "num": 390854,
+        "word": "薛之谦巡演成都站约定返场",
+        "onboard_time": 1695121180,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354731,
+        "num": 354731,
+        "word": "付辛博说男明星去油的方式是减重",
+        "onboard_time": 1695120219,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339655,
+        "num": 339655,
+        "word": "五成投票网友不再去李佳琦直播间下单",
+        "onboard_time": 1695119982,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963574,
+        "num": 337295,
+        "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+        "onboard_time": 1695114280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454027,
+        "num": 335969,
+        "word": "竟然帮前男友交了两年电费",
+        "onboard_time": 1695117097,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418974,
+        "num": 330930,
+        "word": "花西子自称是地地道道的国货",
+        "onboard_time": 1695119499,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321434,
+        "num": 328889,
+        "word": "二次元审美降级",
+        "onboard_time": 1695119080,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 364685,
+        "num": 325776,
+        "word": "任正非称苹果是华为的老师",
+        "onboard_time": 1695120040,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 323946,
+        "num": 323946,
+        "word": "美腕回应李佳琦抖音认证消失",
+        "onboard_time": 1695105515,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 311154,
+        "num": 311154,
+        "word": "如何看待花西子的道歉",
+        "onboard_time": 1695120040,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305330,
+        "num": 305330,
+        "word": "女生租房10个月与房东相恋结婚",
+        "onboard_time": 1695116075,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293620,
+        "num": 293620,
+        "word": "赵露思讲意大利语",
+        "onboard_time": 1695119383,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290373,
+        "num": 290373,
+        "word": "肖战手画烟花太浪漫了",
+        "onboard_time": 1695116377,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267660,
+        "num": 267660,
+        "word": "Angelababy敦煌造型好美",
+        "onboard_time": 1695118659,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265356,
+        "num": 265356,
+        "word": "刘亦菲是真的懂情绪稳定",
+        "onboard_time": 1695113257,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228315,
+        "num": 228315,
+        "word": "张雨绮丢行李后遗症",
+        "onboard_time": 1695121718,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69220,
+        "num": 222699,
+        "word": "蛋仔派对步行街",
+        "onboard_time": 1695121180,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219822,
+        "num": 219822,
+        "word": "iCloud存在的意义到底是啥",
+        "onboard_time": 1695116557,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218086,
+        "num": 218086,
+        "word": "宝宝认错爸爸瞬间变脸",
+        "onboard_time": 1695121359,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 193540,
+        "num": 193540,
+        "word": "张凌赫想和虞书欣三搭现代戏",
+        "onboard_time": 1695114159,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187175,
+        "num": 187175,
+        "word": "你还会从李佳琦直播间买东西吗",
+        "onboard_time": 1695112959,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 185780,
+        "num": 185780,
+        "word": "于适演阴阳怪气这么好玩",
+        "onboard_time": 1695118300,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180491,
+        "num": 180491,
+        "word": "董宇辉讲王阳明简直是高光演讲",
+        "onboard_time": 1695120879,
+        "rank": 39,
+        "category": "休闲,网红"
+      },
+      {
+        "raw_hot": 176691,
+        "num": 176691,
+        "word": "蜜雪冰城否认将下架红茶产品",
+        "onboard_time": 1695113438,
+        "rank": 40,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 173630,
+        "num": 173630,
+        "word": "原神连续两个月跌出收入榜前十",
+        "onboard_time": 1695116557,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172395,
+        "num": 172395,
+        "word": "流沙小兔月饼",
+        "onboard_time": 1695120699,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161226,
+        "num": 161226,
+        "word": "于适回应被称爱哭的小狗",
+        "onboard_time": 1695116980,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151943,
+        "num": 151943,
+        "word": "徐良你是懂怎么拿捏张远",
+        "onboard_time": 1695121959,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149417,
+        "num": 149417,
+        "word": "谢娜空中一字马",
+        "onboard_time": 1695114817,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144893,
+        "num": 144893,
+        "word": "女子12年未休年假离职索赔14万",
+        "onboard_time": 1695110441,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142500,
+        "num": 142500,
+        "word": "棉柔巾 绵柔巾",
+        "onboard_time": 1695118776,
+        "rank": 47,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 140189,
+        "num": 140189,
+        "word": "iPhone用户羡慕的安卓功能",
+        "onboard_time": 1695107316,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139072,
+        "num": 139072,
+        "word": "赵今麦到底演过多少ABB式角色",
+        "onboard_time": 1695111040,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}
