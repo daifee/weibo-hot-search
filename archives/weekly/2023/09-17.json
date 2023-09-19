@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695165367597,
+  "endTime": 1695166424724,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -225,6 +225,14 @@
       "onboard_time": 1695010361,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2008534,
+      "num": 2008534,
+      "word": "李佳琦直播间评论区现状",
+      "onboard_time": 1695165207,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2006991,
@@ -2963,6 +2971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 402261,
+      "num": 402261,
+      "word": "华为夺得中国智能手机市场第二",
+      "onboard_time": 1695165268,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 400597,
       "num": 376969,
       "word": "8旬老人网购上瘾直播间买100多条饰品",
@@ -3412,7 +3428,7 @@
     },
     {
       "raw_hot": 358365,
-      "num": 258704,
+      "num": 277017,
       "word": "再见爱人 只有怨妇没有怨夫",
       "onboard_time": 1695140372,
       "rank": 35,
@@ -3755,6 +3771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 324463,
+      "num": 138543,
+      "word": "马伯庸 隔壁坐了个中国人民的老朋友",
+      "onboard_time": 1695164124,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324280,
       "num": 324280,
       "word": "云之羽这段真的给我难受死了",
@@ -3769,6 +3793,14 @@
       "onboard_time": 1695048940,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 323444,
+      "num": 323444,
+      "word": "这个媳妇确实遥遥领先",
+      "onboard_time": 1695164966,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323303,
@@ -4763,14 +4795,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 251881,
-      "num": 251881,
-      "word": "李佳琦直播间评论区现状",
-      "onboard_time": 1695165207,
-      "rank": 9,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 250384,
       "num": 203751,
       "word": "衣柜里衣服的两种风格",
@@ -5635,14 +5659,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 210282,
-      "num": 113624,
-      "word": "马伯庸 隔壁坐了个中国人民的老朋友",
-      "onboard_time": 1695164124,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209609,
       "num": 209609,
       "word": "胡锡进 我们正迎来火爆的十一黄金周",
@@ -5657,6 +5673,14 @@
       "onboard_time": 1695092976,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 207593,
+      "num": 138423,
+      "word": "没想到因为我的一句抱怨同事丢了工作",
+      "onboard_time": 1695164908,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 207260,
@@ -5695,6 +5719,14 @@
       "num": 206106,
       "word": "时空中的绘旅人",
       "onboard_time": 1694927676,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206044,
+      "num": 206044,
+      "word": "王者荣耀S33新赛季",
+      "onboard_time": 1695165148,
       "rank": 31,
       "category": "游戏"
     },
@@ -6179,6 +6211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190961,
+      "num": 190961,
+      "word": "谁家女主第一集就被出轨",
+      "onboard_time": 1695146298,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190915,
       "num": 190915,
       "word": "对父母丧失分享欲的原因",
@@ -6201,14 +6241,6 @@
       "onboard_time": 1694938594,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189774,
-      "num": 112639,
-      "word": "王者荣耀S33新赛季",
-      "onboard_time": 1695165148,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 189738,
@@ -6385,6 +6417,14 @@
       "onboard_time": 1695087093,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181694,
+      "num": 181694,
+      "word": "SEVENTEEN官宣10月23日回归",
+      "onboard_time": 1695165087,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 181347,
@@ -7011,14 +7051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155846,
-      "num": 155846,
-      "word": "谁家女主第一集就被出轨",
-      "onboard_time": 1695146298,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155826,
       "num": 155826,
       "word": "罕见病女孩坚持热爱成985大学副教授",
@@ -7121,14 +7153,6 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151221,
-      "num": 151221,
-      "word": "华为夺得中国智能手机市场第二",
-      "onboard_time": 1695165268,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 150261,
@@ -7403,6 +7427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138119,
+      "num": 138119,
+      "word": "檀健次 emo是人生另一个方向的萌芽",
+      "onboard_time": 1695165087,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137303,
       "num": 137303,
       "word": "73岁大爷带脑梗老伴10年9次自驾进藏",
@@ -7433,14 +7465,6 @@
       "onboard_time": 1695130722,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 134458,
-      "num": 110940,
-      "word": "没想到因为我的一句抱怨同事丢了工作",
-      "onboard_time": 1695164908,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 134229,
@@ -7505,14 +7529,6 @@
       "onboard_time": 1694909730,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131396,
-      "num": 131396,
-      "word": "SEVENTEEN官宣10月23日回归",
-      "onboard_time": 1695165087,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 131320,
@@ -7611,6 +7627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124708,
+      "num": 124708,
+      "word": "曼城3比1贝尔格莱德红星",
+      "onboard_time": 1695165509,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124521,
       "num": 124521,
       "word": "许凯当选杭州亚运会火炬手",
@@ -7673,14 +7697,6 @@
       "onboard_time": 1694911713,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115806,
-      "num": 115806,
-      "word": "这个媳妇确实遥遥领先",
-      "onboard_time": 1695164966,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114914,
@@ -7747,6 +7763,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 107461,
+      "num": 107461,
+      "word": "有钱也不换的化妆品",
+      "onboard_time": 1695156192,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 105580,
       "num": 105580,
       "word": "万茜你好疯子",
@@ -7761,6 +7785,14 @@
       "onboard_time": 1695046301,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102167,
+      "num": 102167,
+      "word": "00后民警第1次收到锦旗是汪星人送的",
+      "onboard_time": 1695153854,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99424,
@@ -7779,20 +7811,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98266,
-      "num": 98266,
-      "word": "檀健次 emo是人生另一个方向的萌芽",
-      "onboard_time": 1695165087,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 97719,
-      "num": 97719,
-      "word": "有钱也不换的化妆品",
-      "onboard_time": 1695156192,
+      "raw_hot": 97310,
+      "num": 97310,
+      "word": "刘志宏和王俊凯小时候合照",
+      "onboard_time": 1695159253,
       "rank": 32,
-      "category": "美妆"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95229,
@@ -7931,14 +7955,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 79771,
-      "num": 79771,
-      "word": "00后民警第1次收到锦旗是汪星人送的",
-      "onboard_time": 1695153854,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79393,
       "num": 79393,
       "word": "脂肪形成的真相",
@@ -7955,12 +7971,28 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 77534,
+      "num": 77534,
+      "word": "女生医院陪护同病房奶奶夜晚帮盖被子",
+      "onboard_time": 1695164966,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76000,
       "num": 76000,
       "word": "温室大棚居然能种大枣",
       "onboard_time": 1695078506,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74255,
+      "num": 74255,
+      "word": "拉齐奥1比1马竞",
+      "onboard_time": 1695165450,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 74179,
@@ -7995,20 +8027,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72490,
+      "num": 72490,
+      "word": "起猛了看到弹簧熊猫了",
+      "onboard_time": 1695166351,
+      "rank": 49,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 72394,
       "num": 259628,
       "word": "你有放松困难症吗",
       "onboard_time": 1695102452,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 71917,
-      "num": 71917,
-      "word": "女生医院陪护同病房奶奶夜晚帮盖被子",
-      "onboard_time": 1695164966,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70881,
@@ -8057,14 +8089,6 @@
       "onboard_time": 1695121180,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68567,
-      "num": 68567,
-      "word": "刘志宏和王俊凯小时候合照",
-      "onboard_time": 1695159253,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 67311,
@@ -8267,6 +8291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30644,
+      "num": 797073,
+      "word": "亚运会首个比赛日中国沙滩排球三战全胜",
+      "onboard_time": 1695128976,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30590,
       "num": 38935,
       "word": "莲花楼小分队版天下",
@@ -8345,14 +8377,6 @@
       "onboard_time": 1695059296,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25547,
-      "num": 689683,
-      "word": "亚运会首个比赛日中国沙滩排球三战全胜",
-      "onboard_time": 1695128976,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25097,
