@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695144849256,
+  "endTime": 1695147724536,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -7443,6 +7443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131799,
+      "num": 131799,
+      "word": "谁家女主第一集就被出轨",
+      "onboard_time": 1695146298,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131659,
       "num": 131659,
       "word": "见过最瘦长的亚运会吉祥物",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1694884283,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104606,
+      "num": 104606,
+      "word": "魏大勋新剧恋情一天就失恋",
+      "onboard_time": 1695145699,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 104439,
@@ -8003,6 +8019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52514,
+      "num": 46867,
+      "word": "原来袋鼠这么可怕",
+      "onboard_time": 1695144860,
+      "rank": 30,
+      "category": "动物萌宠,知识科普"
+    },
+    {
       "raw_hot": 50045,
       "num": 328111,
       "word": "任正非最新正面评价苹果产品",
@@ -8147,6 +8171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30378,
+      "num": 34895,
+      "word": "登基大典天象异变 寿仙宫中母子谈心",
+      "onboard_time": 1695145040,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30351,
       "num": 30351,
       "word": "古法八段锦完整版",
@@ -8249,6 +8281,14 @@
       "onboard_time": 1695111457,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21861,
+      "num": 34844,
+      "word": "AC米兰vs纽卡斯尔",
+      "onboard_time": 1695145578,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 19434,
