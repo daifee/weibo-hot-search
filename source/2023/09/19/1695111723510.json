@@ -1,0 +1,410 @@
+{
+  "runTime": 1695111723510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1849928,
+        "num": 1849928,
+        "word": "美腕回应李佳琦抖音认证消失",
+        "onboard_time": 1695105515,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1325764,
+        "num": 1325764,
+        "word": "蜜雪冰城 红茶",
+        "onboard_time": 1695107915,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 902241,
+        "num": 902241,
+        "word": "瘦子同事带的饭",
+        "onboard_time": 1695107137,
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 617324,
+        "num": 617324,
+        "word": "iPhone用户羡慕的安卓功能",
+        "onboard_time": 1695107316,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 485789,
+        "num": 485789,
+        "word": "教育局回应幼儿园老师恐吓孩子假笑摆拍",
+        "onboard_time": 1695105874,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470892,
+        "num": 470892,
+        "word": "茅台快把自己玩成料酒了",
+        "onboard_time": 1695101734,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 423142,
+        "num": 423142,
+        "word": "长相思杨紫换成女装后就没那么好看了",
+        "onboard_time": 1695098200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407490,
+        "num": 407490,
+        "word": "张小斐人缘",
+        "onboard_time": 1695110257,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406776,
+        "num": 406776,
+        "word": "天蚕土豆 逆水寒",
+        "onboard_time": 1695102211,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191748,
+        "num": 403827,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1657652,
+        "num": 387078,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 10,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 503795,
+        "num": 384167,
+        "word": "香港顶流姜涛最新活动生图",
+        "onboard_time": 1695105335,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125894,
+        "num": 373424,
+        "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+        "onboard_time": 1695097061,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99874,
+        "num": 358160,
+        "word": "文在寅将探望李在明",
+        "onboard_time": 1695099637,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50215,
+        "num": 344625,
+        "word": "给长辈送礼不浪费指南",
+        "onboard_time": 1695103774,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342452,
+        "num": 342452,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314480,
+        "num": 314480,
+        "word": "央视官网表扬刘雨昕演唱会强实名",
+        "onboard_time": 1695094653,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 313286,
+        "num": 313286,
+        "word": "孤注一掷票房破38亿",
+        "onboard_time": 1695107316,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298959,
+        "num": 298959,
+        "word": "赵今麦到底演过多少ABB式角色",
+        "onboard_time": 1695111040,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290541,
+        "num": 290541,
+        "word": "韩国一位奶奶在公厕住了十年",
+        "onboard_time": 1695097780,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336034,
+        "num": 290370,
+        "word": "女子12年未休年假离职索赔14万",
+        "onboard_time": 1695110441,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289809,
+        "num": 289809,
+        "word": "00后在单位能闯出什么祸",
+        "onboard_time": 1695107973,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252710,
+        "num": 252710,
+        "word": "黄景瑜演戏不停职不接",
+        "onboard_time": 1695109778,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248361,
+        "num": 248361,
+        "word": "小伙漏刮100万大奖彩票被销售员发现",
+        "onboard_time": 1695102874,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245393,
+        "num": 245393,
+        "word": "关晓彤方回应天然呆奶茶公司被强执",
+        "onboard_time": 1695103175,
+        "rank": 24,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 237274,
+        "num": 237274,
+        "word": "为什么女生洗澡水比男生的烫",
+        "onboard_time": 1695104375,
+        "rank": 25,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 228332,
+        "num": 228332,
+        "word": "于适 GQ",
+        "onboard_time": 1695104314,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220948,
+        "num": 220948,
+        "word": "赵丽颖弹琴背影",
+        "onboard_time": 1695106175,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219528,
+        "num": 219528,
+        "word": "虞书欣想演穿得很漂亮的大女主",
+        "onboard_time": 1695105816,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219005,
+        "num": 219005,
+        "word": "假如云之羽的人都有刘海",
+        "onboard_time": 1695109719,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21987,
+        "num": 205091,
+        "word": "穿越机视角看大国智造",
+        "onboard_time": 1695111457,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10875,
+        "num": 202579,
+        "word": "杭州亚运首场比赛",
+        "onboard_time": 1695077420,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419874,
+        "num": 201875,
+        "word": "手工耿给奶奶做了一个电动轮椅",
+        "onboard_time": 1695110979,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201125,
+        "num": 201125,
+        "word": "黄晓明奖励自己的戏来了吗",
+        "onboard_time": 1695104674,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200136,
+        "num": 200136,
+        "word": "张艺兴上海演唱会说官宣就官宣",
+        "onboard_time": 1695111337,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191622,
+        "num": 191622,
+        "word": "迪丽热巴帮秦海璐戴麦",
+        "onboard_time": 1695102154,
+        "rank": 35,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 186938,
+        "num": 186938,
+        "word": "原来这就是雪花牛肉",
+        "onboard_time": 1695107196,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180115,
+        "num": 180115,
+        "word": "张曼玉居然是E人",
+        "onboard_time": 1695104435,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179998,
+        "num": 179998,
+        "word": "马龙亚运会简历好长",
+        "onboard_time": 1695108159,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168424,
+        "num": 168424,
+        "word": "独居的人是怎么喝水的",
+        "onboard_time": 1695105335,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166511,
+        "num": 166511,
+        "word": "崩铁 帮帮我肯德基爷爷",
+        "onboard_time": 1695104494,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163866,
+        "num": 163866,
+        "word": "女子回应在杭州医院遇神仙病友",
+        "onboard_time": 1695111216,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159539,
+        "num": 159539,
+        "word": "张杰家的女子足球加油小队",
+        "onboard_time": 1695104375,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156045,
+        "num": 156045,
+        "word": "离职后她在阳台养400盆花治愈自己",
+        "onboard_time": 1695107675,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153316,
+        "num": 153316,
+        "word": "车窗里的赵今麦",
+        "onboard_time": 1695108699,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147580,
+        "num": 147580,
+        "word": "杨紫拼色针织开衫",
+        "onboard_time": 1695103415,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 147368,
+        "num": 147368,
+        "word": "刚领完月饼就提离职合适吗",
+        "onboard_time": 1695111639,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142486,
+        "num": 145958,
+        "word": "微博文化之夜",
+        "onboard_time": 1695110257,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145015,
+        "num": 145015,
+        "word": "鸟鸟的这段话治好了我的焦虑",
+        "onboard_time": 1695104135,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134948,
+        "num": 134948,
+        "word": "月饼都出美拉德风了",
+        "onboard_time": 1695105937,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#60秒打卡6座亚运之城#"
+    }
+  }
+}

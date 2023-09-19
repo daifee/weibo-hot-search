@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695108836084,
+  "endTime": 1695111723510,
   "band_list": [
     {
       "raw_hot": 4742040,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1849928,
+      "num": 1849928,
+      "word": "美腕回应李佳琦抖音认证消失",
+      "onboard_time": 1695105515,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1761996,
       "num": 1761996,
       "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1495738,
-      "num": 1495738,
-      "word": "美腕回应李佳琦抖音认证消失",
-      "onboard_time": 1695105515,
-      "rank": 11,
-      "category": "社会新闻,网红"
+      "raw_hot": 1657652,
+      "num": 387078,
+      "word": "建议洗澡不要先洗头",
+      "onboard_time": 1695109778,
+      "rank": 10,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1494904,
@@ -81,6 +89,14 @@
       "onboard_time": 1695083920,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325764,
+      "num": 1325764,
+      "word": "蜜雪冰城 红茶",
+      "onboard_time": 1695107915,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 1277183,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902241,
+      "num": 902241,
+      "word": "瘦子同事带的饭",
+      "onboard_time": 1695107137,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 885808,
       "num": 885808,
       "word": "韩国一位奶奶在公厕住了十年",
@@ -193,14 +217,6 @@
       "onboard_time": 1695048039,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 866196,
-      "num": 866196,
-      "word": "瘦子同事带的饭",
-      "onboard_time": 1695107137,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 846219,
@@ -427,14 +443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 548368,
-      "num": 548368,
-      "word": "蜜雪冰城 红茶",
-      "onboard_time": 1695107915,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 546730,
       "num": 546730,
       "word": "被拐28年最后她亲手把人贩子送上法庭",
@@ -489,6 +497,14 @@
       "onboard_time": 1695051398,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 485789,
+      "num": 485789,
+      "word": "教育局回应幼儿园老师恐吓孩子假笑摆拍",
+      "onboard_time": 1695105874,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471916,
@@ -571,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 419874,
+      "num": 201875,
+      "word": "手工耿给奶奶做了一个电动轮椅",
+      "onboard_time": 1695110979,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 414267,
       "num": 374976,
       "word": "浙江终于把三点水整明白了",
@@ -593,6 +617,14 @@
       "onboard_time": 1695103415,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 407490,
+      "num": 407490,
+      "word": "张小斐人缘",
+      "onboard_time": 1695110257,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 380572,
@@ -755,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336034,
+      "num": 290370,
+      "word": "女子12年未休年假离职索赔14万",
+      "onboard_time": 1695110441,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330855,
       "num": 327946,
       "word": "虞书欣想演穿得很漂亮的大女主",
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 312823,
-      "num": 253393,
+      "num": 289809,
       "word": "00后在单位能闯出什么祸",
       "onboard_time": 1695107973,
       "rank": 32,
@@ -851,20 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309213,
-      "num": 309213,
-      "word": "教育局回应幼儿园老师恐吓孩子假笑摆拍",
-      "onboard_time": 1695105874,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307282,
       "num": 268441,
       "word": "好喜欢熬夜又好喜欢睡觉",
       "onboard_time": 1695084277,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298959,
+      "num": 298959,
+      "word": "赵今麦到底演过多少ABB式角色",
+      "onboard_time": 1695111040,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 297868,
@@ -985,6 +1025,14 @@
       "onboard_time": 1695104494,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252710,
+      "num": 252710,
+      "word": "黄景瑜演戏不停职不接",
+      "onboard_time": 1695109778,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 252203,
@@ -1195,6 +1243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 219005,
+      "num": 219005,
+      "word": "假如云之羽的人都有刘海",
+      "onboard_time": 1695109719,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217409,
       "num": 217409,
       "word": "森林进化论双joker玩的是商战",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1695042338,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200136,
+      "num": 200136,
+      "word": "张艺兴上海演唱会说官宣就官宣",
+      "onboard_time": 1695111337,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 199529,
@@ -1547,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163866,
+      "num": 163866,
+      "word": "女子回应在杭州医院遇神仙病友",
+      "onboard_time": 1695111216,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161430,
       "num": 161430,
       "word": "有什么工作可以上半年休半年",
@@ -1587,6 +1659,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 153316,
+      "num": 153316,
+      "word": "车窗里的赵今麦",
+      "onboard_time": 1695108699,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152666,
       "num": 152666,
       "word": "为抓嫌犯他百米冲刺全身多处擦伤",
@@ -1611,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147368,
+      "num": 147368,
+      "word": "刚领完月饼就提离职合适吗",
+      "onboard_time": 1695111639,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147351,
       "num": 147351,
       "word": "一个令养猫人血脉觉醒的声音",
@@ -1625,14 +1713,6 @@
       "onboard_time": 1695103953,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 145660,
-      "num": 145660,
-      "word": "车窗里的赵今麦",
-      "onboard_time": 1695108699,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 144829,
@@ -1657,6 +1737,14 @@
       "onboard_time": 1695089073,
       "rank": 39,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 142486,
+      "num": 145958,
+      "word": "微博文化之夜",
+      "onboard_time": 1695110257,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141655,
@@ -1796,7 +1884,7 @@
     },
     {
       "raw_hot": 87210,
-      "num": 87210,
+      "num": 202579,
       "word": "杭州亚运首场比赛",
       "onboard_time": 1695077420,
       "rank": 43,
@@ -1875,6 +1963,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 50215,
+      "num": 344625,
+      "word": "给长辈送礼不浪费指南",
+      "onboard_time": 1695103774,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49822,
       "num": 58007,
       "word": "四公repo",
@@ -1897,14 +1993,6 @@
       "onboard_time": 1695107378,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 45371,
-      "num": 157244,
-      "word": "给长辈送礼不浪费指南",
-      "onboard_time": 1695103774,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 40742,
@@ -1977,6 +2065,14 @@
       "onboard_time": 1695097361,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21987,
+      "num": 205091,
+      "word": "穿越机视角看大国智造",
+      "onboard_time": 1695111457,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19434,
