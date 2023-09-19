@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695129629203,
+  "endTime": 1695130466058,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157877,
+      "num": 1157877,
+      "word": "研究生上课 没有课本",
+      "onboard_time": 1695129097,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1136383,
       "num": 1136383,
       "word": "哈利波特才是瑞幸最该合作的ip",
@@ -835,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 942675,
+      "num": 942675,
+      "word": "第一次见到地铁工作人员工作餐",
+      "onboard_time": 1695126576,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 925701,
       "num": 925701,
       "word": "不经意却很伤头发的行为",
@@ -985,14 +1001,6 @@
       "onboard_time": 1695102211,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 835444,
-      "num": 835444,
-      "word": "第一次见到地铁工作人员工作餐",
-      "onboard_time": 1695126576,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 833375,
@@ -1275,6 +1283,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 734051,
+      "num": 734051,
+      "word": "国足亚运队vs印度",
+      "onboard_time": 1695122560,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 720933,
       "num": 720933,
       "word": "华中师大通报公众号引用骂人伪诗经",
@@ -1483,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 670243,
+      "num": 670243,
+      "word": "国足亚运队5比1印度",
+      "onboard_time": 1695130179,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 668448,
       "num": 668448,
       "word": "95号汽油或将进入9元时代",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1694962718,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 629676,
-      "num": 629676,
-      "word": "国足亚运队vs印度",
-      "onboard_time": 1695122560,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 628961,
@@ -2059,6 +2075,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 531235,
+      "num": 531235,
+      "word": "他从火光中走来",
+      "onboard_time": 1695079350,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531063,
       "num": 531063,
       "word": "北京晚霞",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1695020794,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 501402,
-      "num": 501402,
-      "word": "他从火光中走来",
-      "onboard_time": 1695079350,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 498859,
@@ -2441,6 +2457,14 @@
       "onboard_time": 1695104375,
       "rank": 43,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 460895,
+      "num": 460895,
+      "word": "华为Mate60Pro",
+      "onboard_time": 1695129339,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 459739,
@@ -3555,6 +3579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 323430,
+      "num": 323430,
+      "word": "杨汝晴对侯卓成说没有你我也独美",
+      "onboard_time": 1695129878,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323303,
       "num": 323303,
       "word": "心动的信号",
@@ -3569,14 +3601,6 @@
       "onboard_time": 1695127236,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322109,
-      "num": 322109,
-      "word": "研究生上课 没有课本",
-      "onboard_time": 1695129097,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 321843,
@@ -3867,6 +3891,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 295408,
+      "num": 295408,
+      "word": "黄景瑜演张凌赫哥哥",
+      "onboard_time": 1695129820,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295035,
       "num": 498559,
       "word": "日本战犯在沈阳审判现场低头认罪",
@@ -4011,6 +4043,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 282610,
+      "num": 282610,
+      "word": "宋雨琦美拉德穿搭",
+      "onboard_time": 1695128857,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281940,
       "num": 448625,
       "word": "新疆3头棕熊在隧道里夜跑",
@@ -4041,14 +4081,6 @@
       "onboard_time": 1694994214,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278236,
-      "num": 278236,
-      "word": "宋雨琦美拉德穿搭",
-      "onboard_time": 1695128857,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 277949,
@@ -4299,6 +4331,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 265044,
+      "num": 265044,
+      "word": "于适拿出弓的时候我沉默了",
+      "onboard_time": 1695128076,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263204,
       "num": 263204,
       "word": "余华英拐卖儿童案今日宣判",
@@ -4395,12 +4435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254689,
-      "num": 254689,
-      "word": "于适拿出弓的时候我沉默了",
-      "onboard_time": 1695128076,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 256056,
+      "num": 256056,
+      "word": "中国女排奥运资格赛三连胜",
+      "onboard_time": 1695129279,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 254103,
@@ -5003,14 +5043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223540,
-      "num": 223540,
-      "word": "华为Mate60Pro",
-      "onboard_time": 1695129339,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 223378,
       "num": 223378,
       "word": "腹泻专用厕所有什么特别的吗",
@@ -5193,14 +5225,6 @@
       "onboard_time": 1694875958,
       "rank": 33,
       "category": "演出,时尚"
-    },
-    {
-      "raw_hot": 215350,
-      "num": 215350,
-      "word": "中国女排奥运资格赛三连胜",
-      "onboard_time": 1695129279,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 215178,
@@ -5732,7 +5756,7 @@
     },
     {
       "raw_hot": 193972,
-      "num": 500078,
+      "num": 530035,
       "word": "荣耀VPurse",
       "onboard_time": 1695127298,
       "rank": 31,
@@ -5905,6 +5929,14 @@
       "onboard_time": 1694945792,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188047,
+      "num": 188047,
+      "word": "执业医师成绩",
+      "onboard_time": 1695130238,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 187822,
@@ -7443,6 +7475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74067,
+      "num": 521008,
+      "word": "微博文化之夜年度荣誉",
+      "onboard_time": 1695128437,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73604,
       "num": 73604,
       "word": "杨鸣告别辽宁男篮",
@@ -7569,14 +7609,6 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 47990,
-      "num": 495356,
-      "word": "微博文化之夜年度荣誉",
-      "onboard_time": 1695128437,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 45461,
@@ -7723,6 +7755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26169,
+      "num": 1154824,
+      "word": "奋力夺取秋粮好收成",
+      "onboard_time": 1695129219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26097,
       "num": 26097,
       "word": "想对我恋爱脑朋友说的话",
@@ -7827,14 +7867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12699,
-      "num": 884758,
-      "word": "奋力夺取秋粮好收成",
-      "onboard_time": 1695129219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12510,
       "num": 12510,
       "word": "这弹跳力太夸张了",
@@ -7889,6 +7921,9 @@
     },
     {
       "word": "#共建一带一路倡议10周年#"
+    },
+    {
+      "word": "#习近平复信飞虎队老兵#"
     }
   ]
 }

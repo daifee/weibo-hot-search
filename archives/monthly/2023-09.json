@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695129629203,
+  "endTime": 1695130466058,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -4811,6 +4811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1157877,
+      "num": 1157877,
+      "word": "研究生上课 没有课本",
+      "onboard_time": 1695129097,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1156014,
       "num": 1156014,
       "word": "杨健哭了",
@@ -6379,6 +6387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 942675,
+      "num": 942675,
+      "word": "第一次见到地铁工作人员工作餐",
+      "onboard_time": 1695126576,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 942335,
       "num": 942335,
       "word": "傅云深出车祸",
@@ -7433,14 +7449,6 @@
       "onboard_time": 1694237676,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 835444,
-      "num": 835444,
-      "word": "第一次见到地铁工作人员工作餐",
-      "onboard_time": 1695126576,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 833946,
@@ -9059,6 +9067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 734051,
+      "num": 734051,
+      "word": "国足亚运队vs印度",
+      "onboard_time": 1695122560,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 733843,
       "num": 733843,
       "word": "德国男篮世界杯冠军",
@@ -10299,6 +10315,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 670243,
+      "num": 670243,
+      "word": "国足亚运队5比1印度",
+      "onboard_time": 1695130179,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 669651,
       "num": 536809,
       "word": "肖战盛阳长发版",
@@ -11169,14 +11193,6 @@
       "onboard_time": 1694321074,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 629676,
-      "num": 629676,
-      "word": "国足亚运队vs印度",
-      "onboard_time": 1695122560,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 628968,
@@ -13995,6 +14011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 531235,
+      "num": 531235,
+      "word": "他从火光中走来",
+      "onboard_time": 1695079350,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531100,
       "num": 385807,
       "word": "妈妈请不要再报我的虚岁了",
@@ -15033,14 +15057,6 @@
       "onboard_time": 1694339314,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 501402,
-      "num": 501402,
-      "word": "他从火光中走来",
-      "onboard_time": 1695079350,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 501388,
@@ -16649,6 +16665,14 @@
       "onboard_time": 1694843556,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460895,
+      "num": 460895,
+      "word": "华为Mate60Pro",
+      "onboard_time": 1695129339,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 460635,
@@ -23387,6 +23411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323430,
+      "num": 323430,
+      "word": "杨汝晴对侯卓成说没有你我也独美",
+      "onboard_time": 1695129878,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323417,
       "num": 272393,
       "word": "这班上的让人连假都不敢请",
@@ -23465,14 +23497,6 @@
       "onboard_time": 1694179176,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322109,
-      "num": 322109,
-      "word": "研究生上课 没有课本",
-      "onboard_time": 1695129097,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 321961,
@@ -25579,6 +25603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295408,
+      "num": 295408,
+      "word": "黄景瑜演张凌赫哥哥",
+      "onboard_time": 1695129820,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295316,
       "num": 295316,
       "word": "长相思非会员收官",
@@ -26595,6 +26627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282610,
+      "num": 282610,
+      "word": "宋雨琦美拉德穿搭",
+      "onboard_time": 1695128857,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282367,
       "num": 282367,
       "word": "SEVENTEEN凌晨直播总结",
@@ -26889,14 +26929,6 @@
       "onboard_time": 1694858204,
       "rank": 6,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 278236,
-      "num": 278236,
-      "word": "宋雨琦美拉德穿搭",
-      "onboard_time": 1695128857,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278189,
@@ -28035,6 +28067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265044,
+      "num": 265044,
+      "word": "于适拿出弓的时候我沉默了",
+      "onboard_time": 1695128076,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264982,
       "num": 264982,
       "word": "丞磊宫尚角滔滔不角",
@@ -28907,6 +28947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256056,
+      "num": 256056,
+      "word": "中国女排奥运资格赛三连胜",
+      "onboard_time": 1695129279,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255989,
       "num": 255989,
       "word": "原来葡萄干是这样来的",
@@ -28961,14 +29009,6 @@
       "onboard_time": 1693626033,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254689,
-      "num": 254689,
-      "word": "于适拿出弓的时候我沉默了",
-      "onboard_time": 1695128076,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 254644,
@@ -32259,14 +32299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223540,
-      "num": 223540,
-      "word": "华为Mate60Pro",
-      "onboard_time": 1695129339,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 223526,
       "num": 223526,
       "word": "95岁爷爷跨省送23岁研究生孙女报到",
@@ -33241,14 +33273,6 @@
       "onboard_time": 1693728695,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215350,
-      "num": 215350,
-      "word": "中国女排奥运资格赛三连胜",
-      "onboard_time": 1695129279,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 215190,
@@ -37076,7 +37100,7 @@
     },
     {
       "raw_hot": 193972,
-      "num": 500078,
+      "num": 530035,
       "word": "荣耀VPurse",
       "onboard_time": 1695127298,
       "rank": 31,
@@ -38201,6 +38225,14 @@
       "onboard_time": 1694079634,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188047,
+      "num": 188047,
+      "word": "执业医师成绩",
+      "onboard_time": 1695130238,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 187960,
@@ -47515,6 +47547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74067,
+      "num": 521008,
+      "word": "微博文化之夜年度荣誉",
+      "onboard_time": 1695128437,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73883,
       "num": 1605299,
       "word": "用超长画卷打开5000年杭州",
@@ -48321,14 +48361,6 @@
       "onboard_time": 1693592597,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 47990,
-      "num": 495356,
-      "word": "微博文化之夜年度荣誉",
-      "onboard_time": 1695128437,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 47892,
@@ -49339,6 +49371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26169,
+      "num": 1154824,
+      "word": "奋力夺取秋粮好收成",
+      "onboard_time": 1695129219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26097,
       "num": 26097,
       "word": "想对我恋爱脑朋友说的话",
@@ -49843,14 +49883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12699,
-      "num": 884758,
-      "word": "奋力夺取秋粮好收成",
-      "onboard_time": 1695129219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12510,
       "num": 12510,
       "word": "这弹跳力太夸张了",
@@ -50062,6 +50094,9 @@
     },
     {
       "word": "#共建一带一路倡议10周年#"
+    },
+    {
+      "word": "#习近平复信飞虎队老兵#"
     }
   ]
 }
