@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695093461508,
+  "endTime": 1695094453575,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111906,
+      "num": 1111906,
+      "word": "花少5机场合体",
+      "onboard_time": 1695090873,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1100053,
       "num": 1100053,
       "word": "奇强董事长在直播间哭了",
@@ -603,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1024950,
-      "num": 1024950,
-      "word": "花少5机场合体",
-      "onboard_time": 1695090873,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1007517,
       "num": 928061,
       "word": "三喜奶奶看起来比况盛还年轻",
@@ -657,6 +657,14 @@
       "onboard_time": 1694924075,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 953745,
+      "num": 459418,
+      "word": "赵露思机场扶起摔倒的路人",
+      "onboard_time": 1695092195,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 949429,
@@ -771,6 +779,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 857097,
+      "num": 456292,
+      "word": "下辈子我当王诗龄",
+      "onboard_time": 1695092073,
+      "rank": 12,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 846219,
       "num": 846219,
       "word": "游客买票470元错付成4700元景区急寻人",
@@ -785,14 +801,6 @@
       "onboard_time": 1695091714,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 837785,
-      "num": 459418,
-      "word": "赵露思机场扶起摔倒的路人",
-      "onboard_time": 1695092195,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 828968,
@@ -1195,12 +1203,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 659866,
+      "num": 659866,
+      "word": "热巴好A",
+      "onboard_time": 1695092494,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658920,
       "num": 658920,
       "word": "袁冰妍被约谈后仍整改不彻底",
       "onboard_time": 1694860177,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 654638,
+      "num": 654638,
+      "word": "旧款iPhone升级iOS17后续航降低",
+      "onboard_time": 1695092436,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 654239,
@@ -1291,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632771,
-      "num": 632771,
-      "word": "旧款iPhone升级iOS17后续航降低",
-      "onboard_time": 1695092436,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 630398,
       "num": 331216,
       "word": "真正的富二代留学生的生活",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1694867076,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 626244,
-      "num": 456292,
-      "word": "下辈子我当王诗龄",
-      "onboard_time": 1695092073,
-      "rank": 12,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 623955,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1694916092,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 588274,
+      "num": 588274,
+      "word": "Lisa舞蹈视频MONEY播放量突破9亿",
+      "onboard_time": 1695092855,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 572403,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1694936914,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549361,
+      "num": 338148,
+      "word": "iPhone16Pro将配备5倍光学变焦镜头",
+      "onboard_time": 1695093156,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 546730,
@@ -2011,14 +2035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 443093,
-      "num": 443093,
-      "word": "热巴好A",
-      "onboard_time": 1695092494,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 442975,
       "num": 385731,
       "word": "家政阿姨挪开沙发的瞬间我呆了",
@@ -2201,14 +2217,6 @@
       "onboard_time": 1695016056,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400561,
-      "num": 400561,
-      "word": "Lisa舞蹈视频MONEY播放量突破9亿",
-      "onboard_time": 1695092855,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 397906,
@@ -2691,12 +2699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338148,
-      "num": 338148,
-      "word": "iPhone16Pro将配备5倍光学变焦镜头",
-      "onboard_time": 1695093156,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 337652,
+      "num": 337652,
+      "word": "酱香开塞露",
+      "onboard_time": 1695092436,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 336832,
@@ -2955,11 +2963,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306017,
-      "num": 306017,
-      "word": "酱香开塞露",
-      "onboard_time": 1695092436,
-      "rank": 28,
+      "raw_hot": 306731,
+      "num": 306731,
+      "word": "开始担心国货的精神状态",
+      "onboard_time": 1695093095,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -3491,6 +3499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256729,
+      "num": 256729,
+      "word": "兰闺喜事定档",
+      "onboard_time": 1695092675,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254103,
       "num": 453701,
       "word": "公交公司回应发文全城停运",
@@ -3651,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243892,
+      "num": 243892,
+      "word": "陈坤撞衫秀场帐篷",
+      "onboard_time": 1695093336,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 243046,
       "num": 211555,
       "word": "奥沙利文决赛单杆143",
@@ -3787,6 +3811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233400,
+      "num": 259050,
+      "word": "我们的铭记是对志愿军最好的致敬",
+      "onboard_time": 1695093934,
+      "rank": 30,
+      "category": "国内要闻,电影"
+    },
+    {
       "raw_hot": 232575,
       "num": 144092,
       "word": "睡醒后发现我把上衣穿在了腿上",
@@ -3912,14 +3944,6 @@
       "word": "莲花楼",
       "onboard_time": 1694906362,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 225258,
-      "num": 225258,
-      "word": "兰闺喜事定档",
-      "onboard_time": 1695092675,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -4163,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208304,
+      "num": 208304,
+      "word": "新华为平板成首款星闪产品",
+      "onboard_time": 1695092976,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 206433,
       "num": 206433,
       "word": "王栎鑫俞灏明早上吵架晚上和好",
@@ -4193,6 +4225,14 @@
       "onboard_time": 1694929235,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205347,
+      "num": 205347,
+      "word": "12306平均每秒超60万人刷票",
+      "onboard_time": 1695089613,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204964,
@@ -4363,6 +4403,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 197697,
+      "num": 197697,
+      "word": "魏大勋新剧演卧底",
+      "onboard_time": 1695093156,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197671,
+      "num": 197671,
+      "word": "骄阳伴我央一定档",
+      "onboard_time": 1695093756,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197507,
       "num": 197507,
       "word": "生活果然需要一些意想不到",
@@ -4384,14 +4440,6 @@
       "word": "墨雨云间杀青",
       "onboard_time": 1695090994,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196525,
-      "num": 196525,
-      "word": "魏大勋新剧演卧底",
-      "onboard_time": 1695093156,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -4459,12 +4507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192992,
+      "num": 192992,
+      "word": "山海镜花公测",
+      "onboard_time": 1695094234,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192529,
       "num": 192529,
       "word": "遗憾能写到什么程度",
       "onboard_time": 1694952996,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192340,
+      "num": 192340,
+      "word": "于适情绪爆发力",
+      "onboard_time": 1695094175,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 192163,
@@ -4617,6 +4681,14 @@
       "onboard_time": 1694907505,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186428,
+      "num": 186428,
+      "word": "上海江阳市场回应被B太曝光缺斤少两",
+      "onboard_time": 1695094116,
+      "rank": 43,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 185819,
@@ -4819,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173163,
-      "num": 173163,
-      "word": "陈坤撞衫秀场帐篷",
-      "onboard_time": 1695093336,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 173021,
       "num": 173021,
       "word": "没想到上厕所取纸还得看广告",
@@ -4897,14 +4961,6 @@
       "onboard_time": 1694912312,
       "rank": 12,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 168440,
-      "num": 168440,
-      "word": "开始担心国货的精神状态",
-      "onboard_time": 1695093095,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 167651,
@@ -5059,14 +5115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158757,
-      "num": 158757,
-      "word": "12306平均每秒超60万人刷票",
-      "onboard_time": 1695089613,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "跟观念不一样的朋友旅游太累了",
@@ -5097,6 +5145,14 @@
       "onboard_time": 1694906965,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157302,
+      "num": 448632,
+      "word": "蛋仔送你当老板",
+      "onboard_time": 1695092436,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 156582,
@@ -5176,6 +5232,14 @@
       "word": "为抓嫌犯他百米冲刺全身多处擦伤",
       "onboard_time": 1695086914,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152286,
+      "num": 152286,
+      "word": "天安门国庆大花篮上新啦",
+      "onboard_time": 1695093635,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5281,14 +5345,6 @@
       "onboard_time": 1694915914,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144464,
-      "num": 144464,
-      "word": "新华为平板成首款星闪产品",
-      "onboard_time": 1695092976,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 143405,
@@ -5729,14 +5785,6 @@
       "onboard_time": 1694904078,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93696,
-      "num": 448632,
-      "word": "蛋仔送你当老板",
-      "onboard_time": 1695092436,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 93650,
