@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695162833115,
+  "endTime": 1695165367597,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998247,
+      "num": 998247,
+      "word": "每天5点起床身体有什么变化",
+      "onboard_time": 1695137797,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 995887,
       "num": 995887,
       "word": "4名男孩溺亡其中3人亲兄弟",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1694937873,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739167,
-      "num": 739167,
-      "word": "每天5点起床身体有什么变化",
-      "onboard_time": 1695137797,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 737652,
@@ -3243,6 +3243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 369970,
+      "num": 369970,
+      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
+      "onboard_time": 1695138937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369519,
       "num": 369519,
       "word": "肖战手画烟花太浪漫了",
@@ -3404,7 +3412,7 @@
     },
     {
       "raw_hot": 358365,
-      "num": 218857,
+      "num": 258704,
       "word": "再见爱人 只有怨妇没有怨夫",
       "onboard_time": 1695140372,
       "rank": 35,
@@ -4755,6 +4763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 251881,
+      "num": 251881,
+      "word": "李佳琦直播间评论区现状",
+      "onboard_time": 1695165207,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 250384,
       "num": 203751,
       "word": "衣柜里衣服的两种风格",
@@ -5145,14 +5161,6 @@
       "onboard_time": 1694909253,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228466,
-      "num": 333165,
-      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
-      "onboard_time": 1695138937,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228269,
@@ -5627,6 +5635,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 210282,
+      "num": 113624,
+      "word": "马伯庸 隔壁坐了个中国人民的老朋友",
+      "onboard_time": 1695164124,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209609,
       "num": 209609,
       "word": "胡锡进 我们正迎来火爆的十一黄金周",
@@ -5793,6 +5809,14 @@
       "onboard_time": 1694921255,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 202115,
+      "num": 202115,
+      "word": "iPhone15Pro系列评测",
+      "onboard_time": 1695141867,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 202045,
@@ -6179,6 +6203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189774,
+      "num": 112639,
+      "word": "王者荣耀S33新赛季",
+      "onboard_time": 1695165148,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189738,
       "num": 99476,
       "word": "尤长靖演唱会连唱三首李泉经典",
@@ -6489,6 +6521,14 @@
       "onboard_time": 1695132581,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177379,
+      "num": 177379,
+      "word": "孝子杨玏",
+      "onboard_time": 1695157094,
+      "rank": 24,
+      "category": "作品衍生,社会新闻"
     },
     {
       "raw_hot": 176986,
@@ -6835,14 +6875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163428,
-      "num": 163428,
-      "word": "iPhone15Pro系列评测",
-      "onboard_time": 1695141867,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 162936,
       "num": 162936,
       "word": "XYG 固定临时席位",
@@ -6979,6 +7011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155846,
+      "num": 155846,
+      "word": "谁家女主第一集就被出轨",
+      "onboard_time": 1695146298,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155826,
       "num": 155826,
       "word": "罕见病女孩坚持热爱成985大学副教授",
@@ -6993,14 +7033,6 @@
       "onboard_time": 1695037653,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155147,
-      "num": 155147,
-      "word": "谁家女主第一集就被出轨",
-      "onboard_time": 1695146298,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 154809,
@@ -7089,6 +7121,14 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151221,
+      "num": 151221,
+      "word": "华为夺得中国智能手机市场第二",
+      "onboard_time": 1695165268,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 150261,
@@ -7395,6 +7435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134458,
+      "num": 110940,
+      "word": "没想到因为我的一句抱怨同事丢了工作",
+      "onboard_time": 1695164908,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134229,
       "num": 359340,
       "word": "父亲目送儿子入伍泪流满面",
@@ -7459,6 +7507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131396,
+      "num": 131396,
+      "word": "SEVENTEEN官宣10月23日回归",
+      "onboard_time": 1695165087,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131320,
       "num": 231872,
       "word": "到底谁是被星选中的人类",
@@ -7521,14 +7577,6 @@
       "onboard_time": 1695060078,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 127245,
-      "num": 114639,
-      "word": "孝子杨玏",
-      "onboard_time": 1695157094,
-      "rank": 24,
-      "category": "作品衍生,社会新闻"
     },
     {
       "raw_hot": 126807,
@@ -7627,6 +7675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115806,
+      "num": 115806,
+      "word": "这个媳妇确实遥遥领先",
+      "onboard_time": 1695164966,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114914,
       "num": 114914,
       "word": "课间10分钟",
@@ -7721,6 +7777,22 @@
       "onboard_time": 1694993070,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98266,
+      "num": 98266,
+      "word": "檀健次 emo是人生另一个方向的萌芽",
+      "onboard_time": 1695165087,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97719,
+      "num": 97719,
+      "word": "有钱也不换的化妆品",
+      "onboard_time": 1695156192,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 95229,
@@ -7859,6 +7931,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 79771,
+      "num": 79771,
+      "word": "00后民警第1次收到锦旗是汪星人送的",
+      "onboard_time": 1695153854,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79393,
       "num": 79393,
       "word": "脂肪形成的真相",
@@ -7923,6 +8003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71917,
+      "num": 71917,
+      "word": "女生医院陪护同病房奶奶夜晚帮盖被子",
+      "onboard_time": 1695164966,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70881,
       "num": 80295,
       "word": "虞书欣为云为衫跳了一支舞",
@@ -7937,6 +8025,14 @@
       "onboard_time": 1694907025,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70151,
+      "num": 70151,
+      "word": "原来袋鼠这么可怕",
+      "onboard_time": 1695144860,
+      "rank": 30,
+      "category": "动物萌宠,知识科普"
     },
     {
       "raw_hot": 70028,
@@ -7961,6 +8057,14 @@
       "onboard_time": 1695121180,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68567,
+      "num": 68567,
+      "word": "刘志宏和王俊凯小时候合照",
+      "onboard_time": 1695159253,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67311,
@@ -7995,14 +8099,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 59347,
-      "num": 50321,
-      "word": "有钱也不换的化妆品",
-      "onboard_time": 1695156192,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 58288,
       "num": 58288,
       "word": "王毅同沙利文在马耳他会晤",
@@ -8033,22 +8129,6 @@
       "onboard_time": 1694968469,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52514,
-      "num": 49212,
-      "word": "原来袋鼠这么可怕",
-      "onboard_time": 1695144860,
-      "rank": 30,
-      "category": "动物萌宠,知识科普"
-    },
-    {
-      "raw_hot": 51515,
-      "num": 51515,
-      "word": "刘志宏和王俊凯小时候合照",
-      "onboard_time": 1695159253,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 50045,
@@ -8187,14 +8267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 30743,
-      "num": 39437,
-      "word": "00后民警第1次收到锦旗是汪星人送的",
-      "onboard_time": 1695153854,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30590,
       "num": 38935,
       "word": "莲花楼小分队版天下",
@@ -8275,6 +8347,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 25547,
+      "num": 689683,
+      "word": "亚运会首个比赛日中国沙滩排球三战全胜",
+      "onboard_time": 1695128976,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25097,
       "num": 38877,
       "word": "总要走一趟孤山路吧",
@@ -8303,14 +8383,6 @@
       "num": 1436358,
       "word": "微观中国东盟博览会",
       "onboard_time": 1694940033,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24238,
-      "num": 689683,
-      "word": "亚运会首个比赛日中国沙滩排球三战全胜",
-      "onboard_time": 1695128976,
       "rank": 2,
       "category": "社会新闻"
     },

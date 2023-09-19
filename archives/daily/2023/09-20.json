@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695162833115,
+  "endTime": 1695165367597,
   "band_list": [
     {
       "raw_hot": 3360154,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 998247,
+      "num": 998247,
+      "word": "每天5点起床身体有什么变化",
+      "onboard_time": 1695137797,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 817800,
       "num": 270720,
       "word": "31岁博士生宿舍楼坠楼身亡",
       "onboard_time": 1695131078,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 739167,
-      "num": 739167,
-      "word": "每天5点起床身体有什么变化",
-      "onboard_time": 1695137797,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 636294,
@@ -107,6 +107,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 369970,
+      "num": 369970,
+      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
+      "onboard_time": 1695138937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363758,
       "num": 326250,
       "word": "建议洗澡不要先洗头",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 358365,
-      "num": 218857,
+      "num": 258704,
       "word": "再见爱人 只有怨妇没有怨夫",
       "onboard_time": 1695140372,
       "rank": 35,
@@ -195,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251881,
+      "num": 251881,
+      "word": "李佳琦直播间评论区现状",
+      "onboard_time": 1695165207,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 251278,
       "num": 251278,
       "word": "出国留学时期的卢昱晓",
@@ -209,14 +225,6 @@
       "onboard_time": 1695135165,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 228466,
-      "num": 333165,
-      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
-      "onboard_time": 1695138937,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221466,
@@ -243,12 +251,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210282,
+      "num": 113624,
+      "word": "马伯庸 隔壁坐了个中国人民的老朋友",
+      "onboard_time": 1695164124,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202115,
+      "num": 202115,
+      "word": "iPhone15Pro系列评测",
+      "onboard_time": 1695141867,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192827,
       "num": 192827,
       "word": "THE9解散演唱会官宣了",
       "onboard_time": 1695117758,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189774,
+      "num": 112639,
+      "word": "王者荣耀S33新赛季",
+      "onboard_time": 1695165148,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188870,
+      "num": 188870,
+      "word": "骄阳伴我",
+      "onboard_time": 1695160155,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177379,
+      "num": 177379,
+      "word": "孝子杨玏",
+      "onboard_time": 1695157094,
+      "rank": 24,
+      "category": "作品衍生,社会新闻"
     },
     {
       "raw_hot": 176162,
@@ -283,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163428,
-      "num": 163428,
-      "word": "iPhone15Pro系列评测",
-      "onboard_time": 1695141867,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 160963,
       "num": 318422,
       "word": "国足亚运队5比1印度",
@@ -307,12 +347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155147,
-      "num": 155147,
+      "raw_hot": 155846,
+      "num": 155846,
       "word": "谁家女主第一集就被出轨",
       "onboard_time": 1695146298,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151221,
+      "num": 151221,
+      "word": "华为夺得中国智能手机市场第二",
+      "onboard_time": 1695165268,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 149827,
@@ -371,12 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134458,
+      "num": 110940,
+      "word": "没想到因为我的一句抱怨同事丢了工作",
+      "onboard_time": 1695164908,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133655,
       "num": 133655,
       "word": "管晨辰你怎么真瘦了",
       "onboard_time": 1695135582,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131396,
+      "num": 131396,
+      "word": "SEVENTEEN官宣10月23日回归",
+      "onboard_time": 1695165087,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 128908,
@@ -393,14 +457,6 @@
       "onboard_time": 1695115840,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127245,
-      "num": 114639,
-      "word": "孝子杨玏",
-      "onboard_time": 1695157094,
-      "rank": 24,
-      "category": "作品衍生,社会新闻"
     },
     {
       "raw_hot": 125487,
@@ -435,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115806,
+      "num": 115806,
+      "word": "这个媳妇确实遥遥领先",
+      "onboard_time": 1695164966,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112477,
       "num": 112477,
       "word": "魏大勋新剧恋情一天就失恋",
@@ -443,12 +507,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73400,
-      "num": 73400,
-      "word": "骄阳伴我",
-      "onboard_time": 1695160155,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 98266,
+      "num": 98266,
+      "word": "檀健次 emo是人生另一个方向的萌芽",
+      "onboard_time": 1695165087,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97719,
+      "num": 97719,
+      "word": "有钱也不换的化妆品",
+      "onboard_time": 1695156192,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 79771,
+      "num": 79771,
+      "word": "00后民警第1次收到锦旗是汪星人送的",
+      "onboard_time": 1695153854,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71917,
+      "num": 71917,
+      "word": "女生医院陪护同病房奶奶夜晚帮盖被子",
+      "onboard_time": 1695164966,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70151,
+      "num": 70151,
+      "word": "原来袋鼠这么可怕",
+      "onboard_time": 1695144860,
+      "rank": 30,
+      "category": "动物萌宠,知识科普"
     },
     {
       "raw_hot": 70028,
@@ -459,24 +555,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59347,
-      "num": 50321,
-      "word": "有钱也不换的化妆品",
-      "onboard_time": 1695156192,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 52514,
-      "num": 49212,
-      "word": "原来袋鼠这么可怕",
-      "onboard_time": 1695144860,
-      "rank": 30,
-      "category": "动物萌宠,知识科普"
-    },
-    {
-      "raw_hot": 51515,
-      "num": 51515,
+      "raw_hot": 68567,
+      "num": 68567,
       "word": "刘志宏和王俊凯小时候合照",
       "onboard_time": 1695159253,
       "rank": 32,
@@ -507,14 +587,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 30743,
-      "num": 39437,
-      "word": "00后民警第1次收到锦旗是汪星人送的",
-      "onboard_time": 1695153854,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30378,
       "num": 49039,
       "word": "登基大典天象异变 寿仙宫中母子谈心",
@@ -523,20 +595,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25547,
+      "num": 689683,
+      "word": "亚运会首个比赛日中国沙滩排球三战全胜",
+      "onboard_time": 1695128976,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24991,
       "num": 20215,
       "word": "iPhone15拍照怎么样",
       "onboard_time": 1695152114,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 24238,
-      "num": 689683,
-      "word": "亚运会首个比赛日中国沙滩排球三战全胜",
-      "onboard_time": 1695128976,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22322,
