@@ -1,0 +1,410 @@
+{
+  "runTime": 1695104540407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647742,
+        "num": 1647742,
+        "word": "茅台快把自己玩成料酒了",
+        "onboard_time": 1695101734,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213457,
+        "num": 1213457,
+        "word": "长相思杨紫换成女装后就没那么好看了",
+        "onboard_time": 1695098200,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57306,
+        "num": 1082499,
+        "word": "亚运会金牌赛事日历",
+        "onboard_time": 1695096337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082063,
+        "num": 1082063,
+        "word": "关晓彤天然呆奶茶公司被强执130万",
+        "onboard_time": 1695098620,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1077839,
+        "num": 1077839,
+        "word": "央视官网表扬刘雨昕演唱会强实名",
+        "onboard_time": 1695094653,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 838067,
+        "num": 838067,
+        "word": "天蚕土豆 逆水寒",
+        "onboard_time": 1695102211,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 673471,
+        "num": 673471,
+        "word": "韩国一位奶奶在公厕住了十年",
+        "onboard_time": 1695097780,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 602731,
+        "num": 602731,
+        "word": "傅首尔给自己的压力好大",
+        "onboard_time": 1695100833,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515557,
+        "num": 515557,
+        "word": "华中师大通报公众号引用骂人伪诗经",
+        "onboard_time": 1695099038,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507667,
+        "num": 507667,
+        "word": "迪丽热巴帮秦海璐戴麦",
+        "onboard_time": 1695102154,
+        "rank": 9,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 65779,
+        "num": 493915,
+        "word": "天美新游元梦之星",
+        "onboard_time": 1695101198,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282451,
+        "num": 488141,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188754,
+        "num": 467688,
+        "word": "文在寅将探望李在明",
+        "onboard_time": 1695099637,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188719,
+        "num": 459680,
+        "word": "杭州亚运会开幕式完成最后一次全要素彩排",
+        "onboard_time": 1695097061,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11307,
+        "num": 444186,
+        "word": "天猫向你发出超级时装周邀请函",
+        "onboard_time": 1695103235,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855330,
+        "num": 429256,
+        "word": "下辈子我当王诗龄",
+        "onboard_time": 1695092073,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 844904,
+        "num": 403978,
+        "word": "关晓彤方回应天然呆奶茶公司被强执",
+        "onboard_time": 1695103175,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 563082,
+        "num": 391306,
+        "word": "夜色尚浅情侣商务",
+        "onboard_time": 1695102275,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382529,
+        "num": 382529,
+        "word": "iPhone16Pro将配备5倍光学变焦镜头",
+        "onboard_time": 1695093156,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 355530,
+        "num": 355530,
+        "word": "杨紫拼色针织开衫",
+        "onboard_time": 1695103415,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 633998,
+        "num": 354727,
+        "word": "小伙漏刮100万大奖彩票被销售员发现",
+        "onboard_time": 1695102874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336309,
+        "num": 336309,
+        "word": "陈牧驰跳了科目一",
+        "onboard_time": 1695101795,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308538,
+        "num": 308538,
+        "word": "张杰家的女子足球加油小队",
+        "onboard_time": 1695104375,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287714,
+        "num": 287714,
+        "word": "虞书欣米兰时装周",
+        "onboard_time": 1695099220,
+        "rank": 23,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 284554,
+        "num": 284554,
+        "word": "花少5 沙特",
+        "onboard_time": 1695095255,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265933,
+        "num": 265933,
+        "word": "提了离职没走的人什么样了",
+        "onboard_time": 1695089184,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53530,
+        "num": 259628,
+        "word": "你有放松困难症吗",
+        "onboard_time": 1695102452,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254114,
+        "num": 254114,
+        "word": "韩国总统批准拘捕李在明",
+        "onboard_time": 1695087514,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244213,
+        "num": 244213,
+        "word": "赵继伟担任中国男篮队长",
+        "onboard_time": 1695098800,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226353,
+        "num": 226353,
+        "word": "华为耳机首发搭载无损无线传输",
+        "onboard_time": 1695099637,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224363,
+        "num": 224363,
+        "word": "在钢琴和女儿之间还是选择了女儿",
+        "onboard_time": 1695103595,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220828,
+        "num": 220828,
+        "word": "傅云深被扒睡衣拼凑版",
+        "onboard_time": 1695102874,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207319,
+        "num": 207319,
+        "word": "全智贤好像真的不会老",
+        "onboard_time": 1695094836,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206237,
+        "num": 206237,
+        "word": "李维嘉说我可以加井胧微信吗",
+        "onboard_time": 1695098382,
+        "rank": 33,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 204163,
+        "num": 204163,
+        "word": "热巴好A",
+        "onboard_time": 1695092494,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203370,
+        "num": 203370,
+        "word": "异人之下新浪扫楼",
+        "onboard_time": 1695104013,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200931,
+        "num": 200931,
+        "word": "鸟鸟的这段话治好了我的焦虑",
+        "onboard_time": 1695104135,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198205,
+        "num": 198205,
+        "word": "于适 GQ",
+        "onboard_time": 1695104314,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176986,
+        "num": 176986,
+        "word": "心动6大结局点映",
+        "onboard_time": 1695102693,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170943,
+        "num": 170943,
+        "word": "真皇族粉驾到 通通闪开",
+        "onboard_time": 1695096580,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 174073,
+        "num": 170937,
+        "word": "赵露思机场扶起摔倒的路人",
+        "onboard_time": 1695092195,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170923,
+        "num": 170923,
+        "word": "于适睫毛错位图",
+        "onboard_time": 1695104435,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168559,
+        "num": 168559,
+        "word": "黄景瑜一看就能把我救出来",
+        "onboard_time": 1695104255,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162405,
+        "num": 162405,
+        "word": "为什么女生洗澡水比男生的烫",
+        "onboard_time": 1695104375,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 161329,
+        "num": 161329,
+        "word": "张曼玉居然是E人",
+        "onboard_time": 1695104435,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154355,
+        "num": 154355,
+        "word": "孙怡劝王睡睡醒一醒",
+        "onboard_time": 1695104255,
+        "rank": 45,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 152314,
+        "num": 152314,
+        "word": "女子遭性侵未获立案自杀发现新证据",
+        "onboard_time": 1695082960,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146929,
+        "num": 146929,
+        "word": "6个动作缓解肩周炎",
+        "onboard_time": 1695103953,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141105,
+        "num": 141105,
+        "word": "崩铁 帮帮我肯德基爷爷",
+        "onboard_time": 1695104494,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29682,
+        "num": 140146,
+        "word": "给长辈送礼不浪费指南",
+        "onboard_time": 1695103774,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会吉祥物组合名叫江南忆#"
+    }
+  }
+}

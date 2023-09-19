@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695101653148,
+  "endTime": 1695104540407,
   "band_list": [
     {
       "raw_hot": 4830369,
@@ -313,6 +313,14 @@
       "onboard_time": 1695040298,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1647742,
+      "num": 1647742,
+      "word": "茅台快把自己玩成料酒了",
+      "onboard_time": 1695101734,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1643675,
@@ -841,6 +849,22 @@
       "onboard_time": 1695091714,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 844904,
+      "num": 403978,
+      "word": "关晓彤方回应天然呆奶茶公司被强执",
+      "onboard_time": 1695103175,
+      "rank": 16,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 838067,
+      "num": 838067,
+      "word": "天蚕土豆 逆水寒",
+      "onboard_time": 1695102211,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 828968,
@@ -1395,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633998,
+      "num": 354727,
+      "word": "小伙漏刮100万大奖彩票被销售员发现",
+      "onboard_time": 1695102874,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630398,
       "num": 331216,
       "word": "真正的富二代留学生的生活",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1694874820,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602731,
+      "num": 602731,
+      "word": "傅首尔给自己的压力好大",
+      "onboard_time": 1695100833,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 600978,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1695044019,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 563082,
+      "num": 391306,
+      "word": "夜色尚浅情侣商务",
+      "onboard_time": 1695102275,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 560570,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1694913755,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507667,
+      "num": 507667,
+      "word": "迪丽热巴帮秦海璐戴麦",
+      "onboard_time": 1695102154,
+      "rank": 9,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 506682,
@@ -2571,14 +2627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 373113,
-      "num": 373113,
-      "word": "傅首尔给自己的压力好大",
-      "onboard_time": 1695100833,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 372691,
       "num": 250576,
       "word": "武汉一男子健身时意外身亡",
@@ -2747,6 +2795,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 355530,
+      "num": 355530,
+      "word": "杨紫拼色针织开衫",
+      "onboard_time": 1695103415,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 355329,
       "num": 355329,
       "word": "我们的歌",
@@ -2889,6 +2945,14 @@
       "onboard_time": 1694927261,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336309,
+      "num": 336309,
+      "word": "陈牧驰跳了科目一",
+      "onboard_time": 1695101795,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 335282,
@@ -3121,6 +3185,14 @@
       "onboard_time": 1694871457,
       "rank": 16,
       "category": "运动健身,网红"
+    },
+    {
+      "raw_hot": 308538,
+      "num": 308538,
+      "word": "张杰家的女子足球加油小队",
+      "onboard_time": 1695104375,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 307282,
@@ -4155,6 +4227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226353,
+      "num": 226353,
+      "word": "华为耳机首发搭载无损无线传输",
+      "onboard_time": 1695099637,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 226201,
       "num": 226201,
       "word": "想见你或将拍古装剧",
@@ -4201,6 +4281,14 @@
       "onboard_time": 1695002012,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 224363,
+      "num": 224363,
+      "word": "在钢琴和女儿之间还是选择了女儿",
+      "onboard_time": 1695103595,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 224184,
@@ -4267,6 +4355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220828,
+      "num": 220828,
+      "word": "傅云深被扒睡衣拼凑版",
+      "onboard_time": 1695102874,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220505,
       "num": 220505,
       "word": "夜色尚浅就是这个味",
@@ -4313,14 +4409,6 @@
       "onboard_time": 1694929957,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 218511,
-      "num": 218511,
-      "word": "华为耳机首发搭载无损无线传输",
-      "onboard_time": 1695099637,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 218370,
@@ -4556,7 +4644,7 @@
     },
     {
       "raw_hot": 204384,
-      "num": 403065,
+      "num": 459680,
       "word": "杭州亚运会开幕式完成最后一次全要素彩排",
       "onboard_time": 1695097061,
       "rank": 46,
@@ -4569,6 +4657,14 @@
       "onboard_time": 1695092436,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203370,
+      "num": 203370,
+      "word": "异人之下新浪扫楼",
+      "onboard_time": 1695104013,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 202798,
@@ -4617,6 +4713,14 @@
       "onboard_time": 1695006215,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 200931,
+      "num": 200931,
+      "word": "鸟鸟的这段话治好了我的焦虑",
+      "onboard_time": 1695104135,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200434,
@@ -4681,6 +4785,14 @@
       "onboard_time": 1695042939,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198205,
+      "num": 198205,
+      "word": "于适 GQ",
+      "onboard_time": 1695104314,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198116,
@@ -5123,6 +5235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176986,
+      "num": 176986,
+      "word": "心动6大结局点映",
+      "onboard_time": 1695102693,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176713,
       "num": 176713,
       "word": "当代的年轻人为什么想开了",
@@ -5211,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170923,
+      "num": 170923,
+      "word": "于适睫毛错位图",
+      "onboard_time": 1695104435,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170888,
       "num": 170888,
       "word": "无法和外国人解释什么叫上火",
@@ -5228,7 +5356,7 @@
     },
     {
       "raw_hot": 170656,
-      "num": 231488,
+      "num": 493915,
       "word": "天美新游元梦之星",
       "onboard_time": 1695101198,
       "rank": 33,
@@ -5265,6 +5393,14 @@
       "onboard_time": 1694912312,
       "rank": 12,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 168559,
+      "num": 168559,
+      "word": "黄景瑜一看就能把我救出来",
+      "onboard_time": 1695104255,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 167651,
@@ -5363,6 +5499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162405,
+      "num": 162405,
+      "word": "为什么女生洗澡水比男生的烫",
+      "onboard_time": 1695104375,
+      "rank": 43,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 162399,
       "num": 162399,
       "word": "狗子演的不错就是演错了",
@@ -5377,6 +5521,14 @@
       "onboard_time": 1694916813,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161329,
+      "num": 161329,
+      "word": "张曼玉居然是E人",
+      "onboard_time": 1695104435,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 160908,
@@ -5499,6 +5651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 154355,
+      "num": 154355,
+      "word": "孙怡劝王睡睡醒一醒",
+      "onboard_time": 1695104255,
+      "rank": 45,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 153911,
       "num": 153911,
       "word": "小伙回应攒钱为父装人工耳蜗全网点赞",
@@ -5609,6 +5769,14 @@
       "onboard_time": 1694858801,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146929,
+      "num": 146929,
+      "word": "6个动作缓解肩周炎",
+      "onboard_time": 1695103953,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145819,
@@ -5745,6 +5913,14 @@
       "onboard_time": 1694916936,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141105,
+      "num": 141105,
+      "word": "崩铁 帮帮我肯德基爷爷",
+      "onboard_time": 1695104494,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 140945,
@@ -6299,6 +6475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53530,
+      "num": 259628,
+      "word": "你有放松困难症吗",
+      "onboard_time": 1695102452,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 49054,
       "num": 53964,
       "word": "水煮荷包蛋",
@@ -6427,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29682,
+      "num": 140146,
+      "word": "给长辈送礼不浪费指南",
+      "onboard_time": 1695103774,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27465,
       "num": 38593,
       "word": "边牧赶羊的时候真的好帅",
@@ -6529,6 +6721,14 @@
       "onboard_time": 1695069255,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11307,
+      "num": 444186,
+      "word": "天猫向你发出超级时装周邀请函",
+      "onboard_time": 1695103235,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11104,
