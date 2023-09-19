@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 00:22:40
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 00:39:02
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ TTG夺冠（热度：3473689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%23" target="weibo">
+何炅 好朋友都是阶段性的（热度：3360154）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E9%9B%AA%20%E6%88%91%E5%B7%B2%E5%AB%81%E5%85%A5%E8%B1%AA%E9%97%A8%23" target="weibo">
 亲爱的雪 我已嫁入豪门（热度：3320108）
 </a>
@@ -443,12 +449,6 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8%23" target="weibo">
 开端第二部（热度：3019332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%23" target="weibo">
-何炅 好朋友都是阶段性的（热度：2990786）
 </a>
 </li>
 

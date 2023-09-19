@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695140560808,
+  "endTime": 1695141542695,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -59,20 +59,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 3360154,
+      "num": 3360154,
+      "word": "何炅 好朋友都是阶段性的",
+      "onboard_time": 1695138222,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3167061,
       "num": 2906057,
       "word": "黑龙江发生重大刑案",
       "onboard_time": 1694951733,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2990786,
-      "num": 2990786,
-      "word": "何炅 好朋友都是阶段性的",
-      "onboard_time": 1695138222,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2785802,
@@ -1875,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 580944,
+      "num": 331328,
+      "word": "宋佳 女生之间不只有嫉妒",
+      "onboard_time": 1695139954,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580256,
       "num": 580256,
       "word": "令人心动的offer5律政季官宣",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1694909612,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 537174,
+      "num": 324137,
+      "word": "一个月瘦8斤的训练方法",
+      "onboard_time": 1695139054,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 536720,
@@ -2417,6 +2433,14 @@
       "onboard_time": 1694959836,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 488246,
+      "num": 488246,
+      "word": "董宇辉 短暂的一生不要尝试讨好每个人",
+      "onboard_time": 1695139536,
+      "rank": 11,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 487207,
@@ -2835,14 +2859,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 419880,
-      "num": 176012,
-      "word": "一个月瘦8斤的训练方法",
-      "onboard_time": 1695139054,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 419874,
       "num": 201875,
       "word": "手工耿给奶奶做了一个电动轮椅",
@@ -3073,14 +3089,6 @@
       "onboard_time": 1694919694,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 383155,
-      "num": 328427,
-      "word": "董宇辉 短暂的一生不要尝试讨好每个人",
-      "onboard_time": 1695139536,
-      "rank": 11,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 382484,
@@ -3659,14 +3667,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 329974,
-      "num": 175613,
-      "word": "宋佳 女生之间不只有嫉妒",
-      "onboard_time": 1695139954,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329808,
       "num": 329808,
       "word": "丞磊早期真诚文学",
@@ -3985,6 +3985,14 @@
       "onboard_time": 1694869603,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303378,
+      "num": 163676,
+      "word": "再见爱人 只有怨妇没有怨夫",
+      "onboard_time": 1695140372,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 301602,
@@ -5219,6 +5227,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 225345,
+      "num": 333165,
+      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
+      "onboard_time": 1695138937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225315,
       "num": 225315,
       "word": "莲花楼",
@@ -5233,6 +5249,14 @@
       "onboard_time": 1695104255,
       "rank": 45,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 224839,
+      "num": 153385,
+      "word": "谁把我录取进来的谁负责",
+      "onboard_time": 1695140134,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 224491,
@@ -6787,28 +6811,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164210,
-      "num": 333165,
-      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
-      "onboard_time": 1695138937,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163866,
       "num": 163866,
       "word": "女子回应在杭州医院遇神仙病友",
       "onboard_time": 1695111216,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163676,
-      "num": 163676,
-      "word": "再见爱人 只有怨妇没有怨夫",
-      "onboard_time": 1695140372,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 162936,
@@ -6985,14 +6993,6 @@
       "onboard_time": 1695031895,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153385,
-      "num": 153385,
-      "word": "谁把我录取进来的谁负责",
-      "onboard_time": 1695140134,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 153316,
@@ -8187,7 +8187,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23809,
+      "raw_hot": 24238,
       "num": 689683,
       "word": "亚运会首个比赛日中国沙滩排球三战全胜",
       "onboard_time": 1695128976,

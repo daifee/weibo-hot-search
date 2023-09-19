@@ -1,10 +1,10 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695140560808,
+  "endTime": 1695141542695,
   "band_list": [
     {
-      "raw_hot": 2990786,
-      "num": 2990786,
+      "raw_hot": 3360154,
+      "num": 3360154,
       "word": "何炅 好朋友都是阶段性的",
       "onboard_time": 1695138222,
       "rank": 0,
@@ -43,12 +43,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 580944,
+      "num": 331328,
+      "word": "宋佳 女生之间不只有嫉妒",
+      "onboard_time": 1695139954,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577730,
       "num": 269807,
       "word": "石家庄某小区尸体残肢疑为女性",
       "onboard_time": 1695133301,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537174,
+      "num": 324137,
+      "word": "一个月瘦8斤的训练方法",
+      "onboard_time": 1695139054,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 488246,
+      "num": 488246,
+      "word": "董宇辉 短暂的一生不要尝试讨好每个人",
+      "onboard_time": 1695139536,
+      "rank": 11,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 470579,
@@ -75,28 +99,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 419880,
-      "num": 176012,
-      "word": "一个月瘦8斤的训练方法",
-      "onboard_time": 1695139054,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 396690,
       "num": 330234,
       "word": "时装周模特血肉模糊的脚后跟",
       "onboard_time": 1695137079,
       "rank": 10,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 383155,
-      "num": 328427,
-      "word": "董宇辉 短暂的一生不要尝试讨好每个人",
-      "onboard_time": 1695139536,
-      "rank": 11,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 363758,
@@ -115,20 +123,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329974,
-      "num": 175613,
-      "word": "宋佳 女生之间不只有嫉妒",
-      "onboard_time": 1695139954,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318084,
       "num": 318084,
       "word": "历代KPOP组合出道专初动TOP10",
       "onboard_time": 1695138817,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303378,
+      "num": 163676,
+      "word": "再见爱人 只有怨妇没有怨夫",
+      "onboard_time": 1695140372,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 299699,
@@ -187,6 +195,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 225345,
+      "num": 333165,
+      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
+      "onboard_time": 1695138937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224839,
+      "num": 153385,
+      "word": "谁把我录取进来的谁负责",
+      "onboard_time": 1695140134,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221466,
       "num": 221466,
       "word": "大一新生没去报道被辅导员移出班级群",
@@ -243,22 +267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164210,
-      "num": 333165,
-      "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
-      "onboard_time": 1695138937,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163676,
-      "num": 163676,
-      "word": "再见爱人 只有怨妇没有怨夫",
-      "onboard_time": 1695140372,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160963,
       "num": 318422,
       "word": "国足亚运队5比1印度",
@@ -273,14 +281,6 @@
       "onboard_time": 1695126576,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153385,
-      "num": 153385,
-      "word": "谁把我录取进来的谁负责",
-      "onboard_time": 1695140134,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 149827,
@@ -395,7 +395,7 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 23809,
+      "raw_hot": 24238,
       "num": 689683,
       "word": "亚运会首个比赛日中国沙滩排球三战全胜",
       "onboard_time": 1695128976,

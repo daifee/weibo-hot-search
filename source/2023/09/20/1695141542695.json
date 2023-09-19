@@ -1,0 +1,410 @@
+{
+  "runTime": 1695141542695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3360154,
+        "num": 3360154,
+        "word": "何炅 好朋友都是阶段性的",
+        "onboard_time": 1695138222,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 848395,
+        "num": 848395,
+        "word": "花西子发声",
+        "onboard_time": 1695117576,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24238,
+        "num": 643592,
+        "word": "亚运会首个比赛日中国沙滩排球三战全胜",
+        "onboard_time": 1695128976,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592679,
+        "num": 592679,
+        "word": "每天5点起床身体有什么变化",
+        "onboard_time": 1695137797,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 488246,
+        "num": 488246,
+        "word": "董宇辉 短暂的一生不要尝试讨好每个人",
+        "onboard_time": 1695139536,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 435107,
+        "num": 435107,
+        "word": "papi酱我的震惊划破天际",
+        "onboard_time": 1695135404,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411827,
+        "num": 411827,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1695138035,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343820,
+        "num": 343820,
+        "word": "肩膀突然不内扣了",
+        "onboard_time": 1695112240,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 309468,
+        "num": 340787,
+        "word": "邓为 迪奥",
+        "onboard_time": 1695132460,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225345,
+        "num": 332784,
+        "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
+        "onboard_time": 1695138937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580944,
+        "num": 331328,
+        "word": "宋佳 女生之间不只有嫉妒",
+        "onboard_time": 1695139954,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537174,
+        "num": 324137,
+        "word": "一个月瘦8斤的训练方法",
+        "onboard_time": 1695139054,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 321141,
+        "num": 321141,
+        "word": "时装周模特血肉模糊的脚后跟",
+        "onboard_time": 1695137079,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 106431,
+        "num": 311584,
+        "word": "骗子教3小时老人仍未学会转账",
+        "onboard_time": 1695115840,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99917,
+        "num": 310909,
+        "word": "意外失去左腿后他把自己变成了钢铁侠",
+        "onboard_time": 1695135582,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310869,
+        "num": 310869,
+        "word": "历代KPOP组合出道专初动TOP10",
+        "onboard_time": 1695138817,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299522,
+        "num": 299522,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 16,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 247707,
+        "num": 247707,
+        "word": "研究生上课 没有课本",
+        "onboard_time": 1695129097,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233504,
+        "num": 233504,
+        "word": "封神第二部概念设计图",
+        "onboard_time": 1695138817,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213495,
+        "num": 213495,
+        "word": "长风破浪 王一博李沁",
+        "onboard_time": 1695120641,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412906,
+        "num": 212510,
+        "word": "石家庄某小区尸体残肢疑为女性",
+        "onboard_time": 1695133301,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210670,
+        "num": 210670,
+        "word": "下一个会消失的电子产品是什么",
+        "onboard_time": 1695133121,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207881,
+        "num": 207881,
+        "word": "原来牙线是这样用的",
+        "onboard_time": 1695124477,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 204702,
+        "num": 204702,
+        "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+        "onboard_time": 1695114280,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184688,
+        "num": 184688,
+        "word": "出国留学时期的卢昱晓",
+        "onboard_time": 1695133301,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177147,
+        "num": 177147,
+        "word": "iPhone15与Pro该选谁",
+        "onboard_time": 1695133905,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164802,
+        "num": 164802,
+        "word": "THE9解散演唱会官宣了",
+        "onboard_time": 1695117758,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164300,
+        "num": 164300,
+        "word": "大一新生没去报道被辅导员移出班级群",
+        "onboard_time": 1695134744,
+        "rank": 27,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 162129,
+        "num": 162129,
+        "word": "他从火光中走来",
+        "onboard_time": 1695128136,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 161620,
+        "word": "国足亚运队5比1印度",
+        "onboard_time": 1695130179,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303378,
+        "num": 157495,
+        "word": "再见爱人 只有怨妇没有怨夫",
+        "onboard_time": 1695140372,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224839,
+        "num": 151283,
+        "word": "谁把我录取进来的谁负责",
+        "onboard_time": 1695140134,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 662686,
+        "num": 146663,
+        "word": "31岁博士生宿舍楼坠楼身亡",
+        "onboard_time": 1695131078,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 143152,
+        "word": "京东崩了",
+        "onboard_time": 1695135165,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141694,
+        "num": 141694,
+        "word": "华为Mate60Pro",
+        "onboard_time": 1695129339,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131473,
+        "num": 131473,
+        "word": "第一次见到地铁工作人员工作餐",
+        "onboard_time": 1695126576,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 130652,
+        "num": 130652,
+        "word": "徐娇回归周星驰公司",
+        "onboard_time": 1695126576,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115171,
+        "num": 115171,
+        "word": "白敬亭初秋男友",
+        "onboard_time": 1695137198,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113258,
+        "num": 113258,
+        "word": "陈坤带儿子参加伦敦时装周",
+        "onboard_time": 1695132643,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32132,
+        "num": 111576,
+        "word": "运动穿搭天花板",
+        "onboard_time": 1695139235,
+        "rank": 39,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 111328,
+        "num": 111328,
+        "word": "杨汝晴对侯卓成说没有你我也独美",
+        "onboard_time": 1695129878,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109518,
+        "num": 109518,
+        "word": "主人意外去世黄狗留守数月被救助",
+        "onboard_time": 1695127896,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108019,
+        "num": 108019,
+        "word": "江浙沪夜景太震撼了",
+        "onboard_time": 1695136961,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107790,
+        "num": 107790,
+        "word": "国庆三倍工资加班你愿意吗",
+        "onboard_time": 1695133544,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98400,
+        "num": 98400,
+        "word": "林俊杰演唱会抢票",
+        "onboard_time": 1695128136,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98095,
+        "num": 98095,
+        "word": "早期蔡依林被热情粉丝套圈",
+        "onboard_time": 1695135222,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97265,
+        "num": 97265,
+        "word": "南风知我意破万",
+        "onboard_time": 1695133605,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96637,
+        "num": 96637,
+        "word": "为什么饺子很好吃却很难消化",
+        "onboard_time": 1695132460,
+        "rank": 47,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 94477,
+        "num": 94477,
+        "word": "管晨辰你怎么真瘦了",
+        "onboard_time": 1695135582,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92929,
+        "num": 92929,
+        "word": "迪丽热巴五只蚂蚁搬大米",
+        "onboard_time": 1695127236,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}
