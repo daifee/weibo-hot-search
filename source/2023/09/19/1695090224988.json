@@ -1,0 +1,410 @@
+{
+  "runTime": 1695090224988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580605,
+        "num": 1580605,
+        "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+        "onboard_time": 1695087514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2016347,
+        "num": 1540800,
+        "word": "韩国总统批准拘捕李在明",
+        "onboard_time": 1695087514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36974,
+        "num": 1396549,
+        "word": "丰收连连看",
+        "onboard_time": 1695089914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262938,
+        "num": 1262938,
+        "word": "迪丽热巴花少5出发路透",
+        "onboard_time": 1695087573,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1208866,
+        "num": 1208866,
+        "word": "12306最多候补20个车次",
+        "onboard_time": 1695083920,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846219,
+        "num": 846219,
+        "word": "游客买票470元错付成4700元景区急寻人",
+        "onboard_time": 1695088232,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 654239,
+        "num": 654239,
+        "word": "极度疲劳下人一次最多能睡多久",
+        "onboard_time": 1695085646,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 597973,
+        "num": 597973,
+        "word": "三喜奶奶看起来比况盛还年轻",
+        "onboard_time": 1695083977,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 528868,
+        "num": 528868,
+        "word": "小伙一天走3万步吃10顿饭胖了30斤",
+        "onboard_time": 1695087514,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517668,
+        "num": 517668,
+        "word": "我们恋爱吧5阵容官宣",
+        "onboard_time": 1695089676,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913301,
+        "num": 514178,
+        "word": "女子遭性侵未获立案自杀发现新证据",
+        "onboard_time": 1695082960,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679505,
+        "num": 499585,
+        "word": "易烊千玺美拉德发色",
+        "onboard_time": 1695084939,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 479999,
+        "num": 479999,
+        "word": "95号汽油或将进入9元时代",
+        "onboard_time": 1695085717,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431008,
+        "num": 431008,
+        "word": "雪糕厂每年带薪放寒假",
+        "onboard_time": 1695086316,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429602,
+        "num": 429602,
+        "word": "李在明住院仍坚持绝食",
+        "onboard_time": 1695086374,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366193,
+        "num": 366193,
+        "word": "A股",
+        "onboard_time": 1695089254,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366069,
+        "num": 366069,
+        "word": "吉克隽逸问麻辣王子好吃吗",
+        "onboard_time": 1695086075,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345127,
+        "num": 345127,
+        "word": "马斯克将向所有推特用户收费",
+        "onboard_time": 1695087514,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332755,
+        "num": 332755,
+        "word": "特斯拉市值一夜蒸发2117亿",
+        "onboard_time": 1695088833,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 313524,
+        "num": 313524,
+        "word": "伍佰 25岁为什么听我的歌呢",
+        "onboard_time": 1695048039,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 608873,
+        "num": 311748,
+        "word": "提了离职没走的人什么样了",
+        "onboard_time": 1695089184,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 487818,
+        "num": 307345,
+        "word": "体制内的桌子是不是都长这样",
+        "onboard_time": 1695079590,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459739,
+        "num": 301839,
+        "word": "YG新女团会取代BLACKPINK吗",
+        "onboard_time": 1695088653,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375915,
+        "num": 299165,
+        "word": "周也撑住了贴头皮造型",
+        "onboard_time": 1695088955,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296729,
+        "num": 296729,
+        "word": "G社拍的全智贤",
+        "onboard_time": 1695089676,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293078,
+        "num": 293078,
+        "word": "医生收到患者家属1箱牛奶发现是4万现金",
+        "onboard_time": 1695049361,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265272,
+        "num": 265272,
+        "word": "周二什么都不是",
+        "onboard_time": 1695089312,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252124,
+        "num": 252124,
+        "word": "女孩把汉服穿去了伦敦大学毕业典礼",
+        "onboard_time": 1695088595,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245427,
+        "num": 245427,
+        "word": "赵露思出发米兰时装周",
+        "onboard_time": 1695080013,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236833,
+        "num": 236833,
+        "word": "油价",
+        "onboard_time": 1695083076,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 211799,
+        "num": 211799,
+        "word": "傅云深被强吻戏份被删",
+        "onboard_time": 1695079832,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206672,
+        "num": 206672,
+        "word": "七点以后禁食带给我的变化",
+        "onboard_time": 1695023498,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186369,
+        "num": 186369,
+        "word": "秦海璐王鹤棣的友谊",
+        "onboard_time": 1695084577,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185320,
+        "num": 185320,
+        "word": "孙灏羽称小慧君涉诽谤被刑事立案",
+        "onboard_time": 1695086488,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 184578,
+        "num": 184578,
+        "word": "云边有个小卖部欢迎光临版海报",
+        "onboard_time": 1695090034,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181773,
+        "num": 181773,
+        "word": "谁家小区取这名字啊",
+        "onboard_time": 1695087093,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156191,
+        "num": 156191,
+        "word": "夏冰退出霓虹花园",
+        "onboard_time": 1695079048,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151661,
+        "num": 151661,
+        "word": "杭州亚运会今日看点",
+        "onboard_time": 1695083920,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151032,
+        "num": 151032,
+        "word": "他从火光中走来",
+        "onboard_time": 1695079350,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143115,
+        "num": 143115,
+        "word": "刚拆的泡面竟被家中宠物分享",
+        "onboard_time": 1695089073,
+        "rank": 39,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 140997,
+        "num": 140997,
+        "word": "大学生蹭酒席随礼100元被指太少",
+        "onboard_time": 1695052233,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138653,
+        "num": 138653,
+        "word": "iOS17",
+        "onboard_time": 1695047142,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32700,
+        "num": 138216,
+        "word": "导师在太空开了门实验课",
+        "onboard_time": 1695042098,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 137935,
+        "num": 137935,
+        "word": "曼联内讧",
+        "onboard_time": 1695084819,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133557,
+        "num": 133557,
+        "word": "全世界唯一不掉毛的伯恩山犬",
+        "onboard_time": 1695082060,
+        "rank": 44,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 128866,
+        "num": 128866,
+        "word": "赢了我带你回家输了下辈子再见",
+        "onboard_time": 1695078506,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125727,
+        "num": 125727,
+        "word": "你的谎言也动听官宣",
+        "onboard_time": 1695089015,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118781,
+        "num": 118781,
+        "word": "好喜欢熬夜又好喜欢睡觉",
+        "onboard_time": 1695084277,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116830,
+        "num": 116830,
+        "word": "陈奕迅清唱浮夸",
+        "onboard_time": 1695088054,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111341,
+        "num": 111341,
+        "word": "被拐28年最后她亲手把人贩子送上法庭",
+        "onboard_time": 1695082358,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎亚运的氛围感已拉满#"
+    }
+  }
+}

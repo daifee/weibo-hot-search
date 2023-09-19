@@ -1,7 +1,23 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695087155336,
+  "endTime": 1695090224988,
   "band_list": [
+    {
+      "raw_hot": 2016347,
+      "num": 1540800,
+      "word": "韩国总统批准拘捕李在明",
+      "onboard_time": 1695087514,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1580605,
+      "num": 1580605,
+      "word": "妻子肺癌脑转移丈夫拼尽全力从死亡线救回",
+      "onboard_time": 1695087514,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1494904,
       "num": 693999,
@@ -20,15 +36,23 @@
     },
     {
       "raw_hot": 1271323,
-      "num": 474651,
+      "num": 514178,
       "word": "女子遭性侵未获立案自杀发现新证据",
       "onboard_time": 1695082960,
       "rank": 10,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1262938,
+      "num": 1262938,
+      "word": "迪丽热巴花少5出发路透",
+      "onboard_time": 1695087573,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1212780,
-      "num": 467120,
+      "num": 499585,
       "word": "易烊千玺美拉德发色",
       "onboard_time": 1695084939,
       "rank": 11,
@@ -75,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 846219,
+      "num": 846219,
+      "word": "游客买票470元错付成4700元景区急寻人",
+      "onboard_time": 1695088232,
+      "rank": 5,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 795943,
       "num": 795943,
       "word": "油价",
@@ -99,12 +131,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 654239,
+      "num": 654239,
+      "word": "极度疲劳下人一次最多能睡多久",
+      "onboard_time": 1695085646,
+      "rank": 42,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 615161,
       "num": 615161,
       "word": "七点以后禁食带给我的变化",
       "onboard_time": 1695023498,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 608873,
+      "num": 311748,
+      "word": "提了离职没走的人什么样了",
+      "onboard_time": 1695089184,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 546730,
@@ -115,20 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528868,
+      "num": 528868,
+      "word": "小伙一天走3万步吃10顿饭胖了30斤",
+      "onboard_time": 1695087514,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517668,
+      "num": 517668,
+      "word": "我们恋爱吧5阵容官宣",
+      "onboard_time": 1695089676,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514121,
       "num": 514121,
       "word": "孙灏羽称小慧君涉诽谤被刑事立案",
       "onboard_time": 1695086488,
       "rank": 7,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 510620,
-      "num": 510620,
-      "word": "极度疲劳下人一次最多能睡多久",
-      "onboard_time": 1695085646,
-      "rank": 42,
-      "category": "知识科普"
     },
     {
       "raw_hot": 496362,
@@ -139,6 +195,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459739,
+      "num": 301839,
+      "word": "YG新女团会取代BLACKPINK吗",
+      "onboard_time": 1695088653,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431008,
+      "num": 431008,
+      "word": "雪糕厂每年带薪放寒假",
+      "onboard_time": 1695086316,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429602,
+      "num": 429602,
+      "word": "李在明住院仍坚持绝食",
+      "onboard_time": 1695086374,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422225,
       "num": 307451,
       "word": "为什么体制内很少发朋友圈",
@@ -147,12 +227,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 411601,
-      "num": 204651,
-      "word": "李在明住院仍坚持绝食",
-      "onboard_time": 1695086374,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 375915,
+      "num": 299165,
+      "word": "周也撑住了贴头皮造型",
+      "onboard_time": 1695088955,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375753,
@@ -179,6 +259,22 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 366193,
+      "num": 366193,
+      "word": "A股",
+      "onboard_time": 1695089254,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 366069,
+      "num": 366069,
+      "word": "吉克隽逸问麻辣王子好吃吗",
+      "onboard_time": 1695086075,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364227,
       "num": 364227,
       "word": "赵露思出发米兰时装周",
@@ -193,6 +289,14 @@
       "onboard_time": 1695047801,
       "rank": 9,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 345127,
+      "num": 345127,
+      "word": "马斯克将向所有推特用户收费",
+      "onboard_time": 1695087514,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 341774,
@@ -211,14 +315,6 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 337698,
-      "num": 337698,
-      "word": "吉克隽逸问麻辣王子好吃吗",
-      "onboard_time": 1695086075,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336877,
       "num": 336877,
       "word": "奇强董事长在直播间哭了",
@@ -233,6 +329,14 @@
       "onboard_time": 1695040657,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332755,
+      "num": 332755,
+      "word": "特斯拉市值一夜蒸发2117亿",
+      "onboard_time": 1695088833,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 325889,
@@ -299,6 +403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 296729,
+      "num": 296729,
+      "word": "G社拍的全智贤",
+      "onboard_time": 1695089676,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 275202,
       "num": 275202,
       "word": "曼联内讧",
@@ -315,12 +427,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 269369,
-      "num": 269369,
-      "word": "雪糕厂每年带薪放寒假",
-      "onboard_time": 1695086316,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 265272,
+      "num": 265272,
+      "word": "周二什么都不是",
+      "onboard_time": 1695089312,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 257383,
@@ -345,6 +457,14 @@
       "onboard_time": 1695079350,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252124,
+      "num": 252124,
+      "word": "女孩把汉服穿去了伦敦大学毕业典礼",
+      "onboard_time": 1695088595,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 251852,
@@ -475,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184578,
+      "num": 184578,
+      "word": "云边有个小卖部欢迎光临版海报",
+      "onboard_time": 1695090034,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182943,
       "num": 182943,
       "word": "星巴克app崩了",
       "onboard_time": 1695086254,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 181773,
+      "num": 181773,
+      "word": "谁家小区取这名字啊",
+      "onboard_time": 1695087093,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 179567,
@@ -619,20 +755,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 143115,
+      "num": 143115,
+      "word": "刚拆的泡面竟被家中宠物分享",
+      "onboard_time": 1695089073,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 138709,
       "num": 138709,
       "word": "中国台湾东北附近发生6.7级左右地震",
       "onboard_time": 1695044019,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137127,
-      "num": 133983,
-      "word": "谁家小区取这名字啊",
-      "onboard_time": 1695087093,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 134177,
@@ -665,6 +801,22 @@
       "onboard_time": 1695060078,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125727,
+      "num": 125727,
+      "word": "你的谎言也动听官宣",
+      "onboard_time": 1695089015,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116830,
+      "num": 116830,
+      "word": "陈奕迅清唱浮夸",
+      "onboard_time": 1695088054,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 114142,
@@ -801,6 +953,14 @@
       "onboard_time": 1695072493,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 36974,
+      "num": 1396549,
+      "word": "丰收连连看",
+      "onboard_time": 1695089914,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33545,
