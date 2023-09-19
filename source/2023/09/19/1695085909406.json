@@ -1,0 +1,410 @@
+{
+  "runTime": 1695085909406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1202808,
+        "num": 1202808,
+        "word": "12306最多候补20个车次",
+        "onboard_time": 1695083920,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982735,
+        "num": 982735,
+        "word": "医生收到患者家属1箱牛奶发现是4万现金",
+        "onboard_time": 1695049361,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75006,
+        "num": 743081,
+        "word": "导师在太空开了门实验课",
+        "onboard_time": 1695042098,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 732716,
+        "num": 732716,
+        "word": "油价",
+        "onboard_time": 1695083076,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 669685,
+        "num": 669685,
+        "word": "大学生蹭酒席随礼100元被指太少",
+        "onboard_time": 1695052233,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615161,
+        "num": 615161,
+        "word": "七点以后禁食带给我的变化",
+        "onboard_time": 1695023498,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 546730,
+        "num": 546730,
+        "word": "被拐28年最后她亲手把人贩子送上法庭",
+        "onboard_time": 1695082358,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543364,
+        "num": 543364,
+        "word": "伍佰 25岁为什么听我的歌呢",
+        "onboard_time": 1695048039,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 436932,
+        "num": 436932,
+        "word": "居然有人把飘窗做成了洗脚池",
+        "onboard_time": 1695042338,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375753,
+        "num": 375753,
+        "word": "日本本州近海5.4级地震",
+        "onboard_time": 1695082299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271323,
+        "num": 374540,
+        "word": "女子遭性侵未获立案自杀发现新证据",
+        "onboard_time": 1695082960,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212780,
+        "num": 366120,
+        "word": "易烊千玺美拉德发色",
+        "onboard_time": 1695084939,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1007517,
+        "num": 356394,
+        "word": "三喜奶奶看起来比况盛还年轻",
+        "onboard_time": 1695083977,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341774,
+        "num": 341774,
+        "word": "傅云深被强吻戏份被删",
+        "onboard_time": 1695079832,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325889,
+        "num": 333384,
+        "word": "赢了我带你回家输了下辈子再见",
+        "onboard_time": 1695078506,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326706,
+        "num": 326706,
+        "word": "赵露思出发米兰时装周",
+        "onboard_time": 1695080013,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318479,
+        "num": 318479,
+        "word": "Duolingo崩了",
+        "onboard_time": 1695048160,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285217,
+        "num": 285217,
+        "word": "这2项运动不利于孩子生长发育",
+        "onboard_time": 1695047801,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 275202,
+        "num": 275202,
+        "word": "曼联内讧",
+        "onboard_time": 1695084819,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270095,
+        "num": 270095,
+        "word": "夏冰退出霓虹花园",
+        "onboard_time": 1695079048,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 943103,
+        "num": 269789,
+        "word": "体制内的桌子是不是都长这样",
+        "onboard_time": 1695079590,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321805,
+        "num": 269425,
+        "word": "全世界唯一不掉毛的伯恩山犬",
+        "onboard_time": 1695082060,
+        "rank": 21,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 307282,
+        "num": 268441,
+        "word": "好喜欢熬夜又好喜欢睡觉",
+        "onboard_time": 1695084277,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267197,
+        "num": 267197,
+        "word": "为什么体制内很少发朋友圈",
+        "onboard_time": 1695027758,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252203,
+        "num": 252203,
+        "word": "他从火光中走来",
+        "onboard_time": 1695079350,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244522,
+        "num": 244522,
+        "word": "莲花楼全剧最喜欢的片段",
+        "onboard_time": 1695080554,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244187,
+        "num": 244187,
+        "word": "内马尔亚冠首秀",
+        "onboard_time": 1695083258,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236940,
+        "num": 236940,
+        "word": "iOS17",
+        "onboard_time": 1695047142,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229505,
+        "num": 229505,
+        "word": "秦海璐王鹤棣的友谊",
+        "onboard_time": 1695084577,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213621,
+        "num": 213621,
+        "word": "95号汽油或将进入9元时代",
+        "onboard_time": 1695085717,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213237,
+        "num": 213237,
+        "word": "野生大熊猫被偶遇下一秒拔腿就跑",
+        "onboard_time": 1695075981,
+        "rank": 30,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 210488,
+        "num": 210488,
+        "word": "杭州亚运会今日看点",
+        "onboard_time": 1695083920,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202476,
+        "num": 202476,
+        "word": "国庆假期铁路日均客流量约为春运两倍",
+        "onboard_time": 1695085298,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200241,
+        "num": 200241,
+        "word": "上班不到两小时被辞退了",
+        "onboard_time": 1695042338,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198387,
+        "num": 198387,
+        "word": "原来慈禧卧室和我的差不多",
+        "onboard_time": 1695040298,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191319,
+        "num": 191319,
+        "word": "杭州亚运会今日开赛",
+        "onboard_time": 1695085235,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193694,
+        "num": 187875,
+        "word": "最令人舒服的沟通方式",
+        "onboard_time": 1695082117,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183606,
+        "num": 183606,
+        "word": "这次是山东旗袍大姨出手了",
+        "onboard_time": 1695085358,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179567,
+        "num": 179567,
+        "word": "武汉地铁4号线",
+        "onboard_time": 1695081156,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176766,
+        "num": 176766,
+        "word": "靖国神社居然还开设亲子班",
+        "onboard_time": 1695040657,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165937,
+        "num": 165937,
+        "word": "60岁儿子陪85岁阿尔茨海默母亲看世界",
+        "onboard_time": 1695082478,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162725,
+        "num": 162725,
+        "word": "容貌焦虑的姐妹都来听听徐志胜的这段话",
+        "onboard_time": 1695054087,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161285,
+        "num": 161285,
+        "word": "极度疲劳下人一次最多能睡多久",
+        "onboard_time": 1695085646,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 155581,
+        "num": 155581,
+        "word": "最近贝儿是上淑女培训班了吗",
+        "onboard_time": 1695048221,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 151096,
+        "num": 151096,
+        "word": "4名男孩溺亡其中3人亲兄弟",
+        "onboard_time": 1695045702,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145880,
+        "num": 145880,
+        "word": "白敬亭这令人震撼的大脑",
+        "onboard_time": 1695051398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145135,
+        "num": 145135,
+        "word": "眼睛好看的人真的会加分",
+        "onboard_time": 1695048940,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143288,
+        "num": 143288,
+        "word": "iOS17新增视频语音留言功能",
+        "onboard_time": 1695079530,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139538,
+        "num": 139538,
+        "word": "柯南2024剧场版片名",
+        "onboard_time": 1695050799,
+        "rank": 48,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 131809,
+        "num": 131809,
+        "word": "四川的每一度电都经历了什么",
+        "onboard_time": 1695084160,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎亚运的氛围感已拉满#"
+    }
+  }
+}
