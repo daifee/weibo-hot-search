@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695158101706,
+  "endTime": 1695159250637,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -8043,6 +8043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48101,
+      "num": 43134,
+      "word": "孝子杨玏",
+      "onboard_time": 1695157094,
+      "rank": 24,
+      "category": "作品衍生,社会新闻"
+    },
+    {
       "raw_hot": 46164,
       "num": 59542,
       "word": "你的王者新赛季目标是什么",
@@ -8243,12 +8251,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 25131,
-      "num": 25131,
-      "word": "孝子杨玏",
-      "onboard_time": 1695157094,
-      "rank": 24,
-      "category": "作品衍生,社会新闻"
+      "raw_hot": 25552,
+      "num": 22595,
+      "word": "有钱也不换的化妆品",
+      "onboard_time": 1695156192,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 25097,
@@ -8305,14 +8313,6 @@
       "onboard_time": 1695145578,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21076,
-      "num": 21076,
-      "word": "有钱也不换的化妆品",
-      "onboard_time": 1695156192,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 19846,

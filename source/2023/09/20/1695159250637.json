@@ -1,0 +1,410 @@
+{
+  "runTime": 1695159250637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327385,
+        "num": 327385,
+        "word": "何炅 好朋友都是阶段性的",
+        "onboard_time": 1695138222,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181168,
+        "num": 181168,
+        "word": "每天5点起床身体有什么变化",
+        "onboard_time": 1695137797,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7070,
+        "num": 137370,
+        "word": "亚运会首个比赛日中国沙滩排球三战全胜",
+        "onboard_time": 1695128976,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122843,
+        "num": 122843,
+        "word": "石家庄某小区尸体残肢疑为女性",
+        "onboard_time": 1695133301,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75055,
+        "num": 75055,
+        "word": "花西子发声",
+        "onboard_time": 1695117576,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67729,
+        "num": 67729,
+        "word": "董宇辉 短暂的一生不要尝试讨好每个人",
+        "onboard_time": 1695139536,
+        "rank": 5,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 64986,
+        "num": 64986,
+        "word": "一个月瘦8斤的训练方法",
+        "onboard_time": 1695139054,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 61134,
+        "num": 61134,
+        "word": "谁家女主第一集就被出轨",
+        "onboard_time": 1695146298,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48332,
+        "num": 48332,
+        "word": "再见爱人 只有怨妇没有怨夫",
+        "onboard_time": 1695140372,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43188,
+        "num": 43188,
+        "word": "papi酱我的震惊划破天际",
+        "onboard_time": 1695135404,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48101,
+        "num": 43134,
+        "word": "孝子杨玏",
+        "onboard_time": 1695157094,
+        "rank": 10,
+        "category": "作品衍生,社会新闻"
+      },
+      {
+        "raw_hot": 42807,
+        "num": 42807,
+        "word": "哥哥用玩具绳牵住妹妹等妈妈回来",
+        "onboard_time": 1695138937,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41433,
+        "num": 41433,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1695138035,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23506,
+        "num": 40450,
+        "word": "意外失去左腿后他把自己变成了钢铁侠",
+        "onboard_time": 1695135582,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21141,
+        "num": 40387,
+        "word": "骗子教3小时老人仍未学会转账",
+        "onboard_time": 1695115840,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40382,
+        "num": 40382,
+        "word": "宋佳 女生之间不只有嫉妒",
+        "onboard_time": 1695139954,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40188,
+        "num": 40188,
+        "word": "Lisa演唱会神图",
+        "onboard_time": 1695141986,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39613,
+        "num": 39613,
+        "word": "iPhone15Pro系列评测",
+        "onboard_time": 1695141867,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36842,
+        "num": 36842,
+        "word": "时装周模特血肉模糊的脚后跟",
+        "onboard_time": 1695137079,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 34595,
+        "num": 34595,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 30707,
+        "num": 30707,
+        "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+        "onboard_time": 1695114280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29457,
+        "num": 29457,
+        "word": "长风破浪 王一博李沁",
+        "onboard_time": 1695120641,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28616,
+        "num": 28616,
+        "word": "大一新生没去报道被辅导员移出班级群",
+        "onboard_time": 1695134744,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 28527,
+        "num": 28527,
+        "word": "下一个会消失的电子产品是什么",
+        "onboard_time": 1695133121,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28208,
+        "num": 28208,
+        "word": "魏大勋新剧恋情一天就失恋",
+        "onboard_time": 1695145699,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26341,
+        "num": 26341,
+        "word": "邓为 迪奥",
+        "onboard_time": 1695132460,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25618,
+        "num": 25618,
+        "word": "周杰伦轨迹2004年现场",
+        "onboard_time": 1695142047,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24357,
+        "num": 24357,
+        "word": "肩膀突然不内扣了",
+        "onboard_time": 1695112240,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24065,
+        "num": 24065,
+        "word": "谁把我录取进来的谁负责",
+        "onboard_time": 1695140134,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19319,
+        "num": 22629,
+        "word": "主人意外去世黄狗留守数月被救助",
+        "onboard_time": 1695127896,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28513,
+        "num": 22600,
+        "word": "京东崩了",
+        "onboard_time": 1695135165,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25552,
+        "num": 22595,
+        "word": "有钱也不换的化妆品",
+        "onboard_time": 1695156192,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 22497,
+        "num": 22497,
+        "word": "陈坤带儿子参加伦敦时装周",
+        "onboard_time": 1695132643,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20488,
+        "num": 20488,
+        "word": "原来袋鼠这么可怕",
+        "onboard_time": 1695144860,
+        "rank": 33,
+        "category": "动物萌宠,知识科普"
+      },
+      {
+        "raw_hot": 20074,
+        "num": 20074,
+        "word": "原来牙线是这样用的",
+        "onboard_time": 1695124477,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 19673,
+        "num": 19673,
+        "word": "他从火光中走来",
+        "onboard_time": 1695128136,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19466,
+        "num": 19466,
+        "word": "为什么饺子很好吃却很难消化",
+        "onboard_time": 1695132460,
+        "rank": 36,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 19367,
+        "num": 19367,
+        "word": "华为Mate60Pro",
+        "onboard_time": 1695129339,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18745,
+        "num": 18745,
+        "word": "第一次见到地铁工作人员工作餐",
+        "onboard_time": 1695126576,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 18099,
+        "num": 18703,
+        "word": "00后民警第1次收到锦旗是汪星人送的",
+        "onboard_time": 1695153854,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18672,
+        "num": 18672,
+        "word": "iPhone15与Pro该选谁",
+        "onboard_time": 1695133905,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18116,
+        "num": 18116,
+        "word": "海贼王和灌篮高手联动",
+        "onboard_time": 1695152653,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 17975,
+        "num": 17975,
+        "word": "研究生上课 没有课本",
+        "onboard_time": 1695129097,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17930,
+        "num": 17930,
+        "word": "徐娇回归周星驰公司",
+        "onboard_time": 1695126576,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17922,
+        "num": 17922,
+        "word": "花西子自称是地地道道的国货",
+        "onboard_time": 1695119499,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17794,
+        "num": 17794,
+        "word": "她与灯 因写作拿到的第一个奖",
+        "onboard_time": 1695141867,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 17792,
+        "num": 17792,
+        "word": "国足亚运队5比1印度",
+        "onboard_time": 1695130179,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16782,
+        "num": 16782,
+        "word": "封神第二部概念设计图",
+        "onboard_time": 1695138817,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15821,
+        "num": 15821,
+        "word": "iPhone15拍照怎么样",
+        "onboard_time": 1695152114,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14526,
+        "num": 15816,
+        "word": "历代KPOP组合出道专初动TOP10",
+        "onboard_time": 1695138817,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}

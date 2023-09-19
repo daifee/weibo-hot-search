@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695158101706,
+  "endTime": 1695159250637,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -48795,6 +48795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48101,
+      "num": 43134,
+      "word": "孝子杨玏",
+      "onboard_time": 1695157094,
+      "rank": 24,
+      "category": "作品衍生,社会新闻"
+    },
+    {
       "raw_hot": 47892,
       "num": 55012,
       "word": "广西崇左3.3级地震",
@@ -49899,12 +49907,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 25131,
-      "num": 25131,
-      "word": "孝子杨玏",
-      "onboard_time": 1695157094,
-      "rank": 24,
-      "category": "作品衍生,社会新闻"
+      "raw_hot": 25552,
+      "num": 22595,
+      "word": "有钱也不换的化妆品",
+      "onboard_time": 1695156192,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 25097,
@@ -50129,14 +50137,6 @@
       "onboard_time": 1693856713,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 21076,
-      "num": 21076,
-      "word": "有钱也不换的化妆品",
-      "onboard_time": 1695156192,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 20803,
