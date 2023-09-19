@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695134074532,
+  "endTime": 1695136697504,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -643,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1161349,
+      "num": 358839,
+      "word": "石家庄某小区尸体残肢疑为女性",
+      "onboard_time": 1695133301,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1136383,
       "num": 1136383,
       "word": "哈利波特才是瑞幸最该合作的ip",
       "onboard_time": 1695031415,
       "rank": 7,
       "category": "作品衍生,美食"
+    },
+    {
+      "raw_hot": 1133553,
+      "num": 1133553,
+      "word": "邓为 迪奥",
+      "onboard_time": 1695132460,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1130597,
@@ -713,14 +729,6 @@
       "onboard_time": 1694966973,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1090903,
-      "num": 1090903,
-      "word": "邓为 迪奥",
-      "onboard_time": 1695132460,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1072856,
@@ -1059,6 +1067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 814534,
+      "num": 431950,
+      "word": "iPhone15与Pro该选谁",
+      "onboard_time": 1695133905,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 811976,
       "num": 811976,
       "word": "13岁男孩花318元烫发家人报警",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1694908529,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756178,
+      "num": 756178,
+      "word": "papi酱我的震惊划破天际",
+      "onboard_time": 1695135404,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 755953,
@@ -2019,14 +2043,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 549879,
-      "num": 314416,
-      "word": "石家庄某小区尸体残肢疑为女性",
-      "onboard_time": 1695133301,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546730,
       "num": 546730,
       "word": "被拐28年最后她亲手把人贩子送上法庭",
@@ -2499,6 +2515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 462023,
+      "num": 224846,
+      "word": "京东崩了",
+      "onboard_time": 1695135165,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 461475,
       "num": 328098,
       "word": "为什么女生洗澡水比男生的烫",
@@ -2603,6 +2627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 448395,
+      "num": 342562,
+      "word": "下一个会消失的电子产品是什么",
+      "onboard_time": 1695133121,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 447885,
       "num": 447885,
       "word": "999元1间酱香大床房贵不贵",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1694964216,
       "rank": 17,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 442310,
+      "num": 332270,
+      "word": "国庆三倍工资加班你愿意吗",
+      "onboard_time": 1695133544,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 438848,
@@ -2771,14 +2811,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 420073,
-      "num": 311237,
-      "word": "下一个会消失的电子产品是什么",
-      "onboard_time": 1695133121,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 419874,
       "num": 201875,
       "word": "手工耿给奶奶做了一个电动轮椅",
@@ -2801,6 +2833,22 @@
       "onboard_time": 1694908107,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417093,
+      "num": 417093,
+      "word": "出国留学时期的卢昱晓",
+      "onboard_time": 1695133301,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414707,
+      "num": 414707,
+      "word": "陈坤带儿子参加伦敦时装周",
+      "onboard_time": 1695132643,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 414637,
@@ -3049,6 +3097,14 @@
       "onboard_time": 1695013182,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378097,
+      "num": 224818,
+      "word": "大一新生没去报道被辅导员移出班级群",
+      "onboard_time": 1695134744,
+      "rank": 31,
+      "category": "其它"
     },
     {
       "raw_hot": 377864,
@@ -3521,14 +3577,6 @@
       "onboard_time": 1694925516,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 332956,
-      "num": 332956,
-      "word": "陈坤带儿子参加伦敦时装周",
-      "onboard_time": 1695132643,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332269,
@@ -4035,6 +4083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288055,
+      "num": 224293,
+      "word": "管晨辰你怎么真瘦了",
+      "onboard_time": 1695135582,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287982,
       "num": 287982,
       "word": "驾考安全员被曝故意别停学员致挂科",
@@ -4361,14 +4417,6 @@
       "onboard_time": 1694930435,
       "rank": 26,
       "category": "军事"
-    },
-    {
-      "raw_hot": 267252,
-      "num": 267252,
-      "word": "出国留学时期的卢昱晓",
-      "onboard_time": 1695133301,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 266970,
@@ -5059,6 +5107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226198,
+      "num": 414738,
+      "word": "意外失去左腿后他把自己变成了钢铁侠",
+      "onboard_time": 1695135582,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226185,
       "num": 218860,
       "word": "杭州防空警报",
@@ -5073,6 +5129,14 @@
       "onboard_time": 1695006754,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226039,
+      "num": 226039,
+      "word": "早期蔡依林被热情粉丝套圈",
+      "onboard_time": 1695135222,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 225806,
@@ -5291,6 +5355,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 217587,
+      "num": 217587,
+      "word": "李沁优雅黑天鹅",
+      "onboard_time": 1695134506,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217409,
       "num": 217409,
       "word": "森林进化论双joker玩的是商战",
@@ -5465,14 +5537,6 @@
       "onboard_time": 1695092976,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 208066,
-      "num": 208066,
-      "word": "国庆三倍工资加班你愿意吗",
-      "onboard_time": 1695133544,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 207260,
@@ -5795,14 +5859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197189,
-      "num": 197189,
-      "word": "iPhone15与Pro该选谁",
-      "onboard_time": 1695133905,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 196681,
       "num": 196681,
       "word": "0713的舞台永远拿得出手",
@@ -6049,6 +6105,14 @@
       "onboard_time": 1694945792,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188335,
+      "num": 188335,
+      "word": "明宰铉Perfume舞蹈挑战",
+      "onboard_time": 1695135944,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 188047,
@@ -6369,6 +6433,14 @@
       "onboard_time": 1694916813,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174221,
+      "num": 174221,
+      "word": "魏大勋 最时髦的帅哥",
+      "onboard_time": 1695133965,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 173507,
@@ -6865,14 +6937,6 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150961,
-      "num": 150961,
-      "word": "魏大勋 最时髦的帅哥",
-      "onboard_time": 1695133965,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 150261,
@@ -7465,6 +7529,14 @@
       "onboard_time": 1694993070,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96884,
+      "num": 169985,
+      "word": "父亲目送儿子入伍泪流满面",
+      "onboard_time": 1695136662,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95229,
