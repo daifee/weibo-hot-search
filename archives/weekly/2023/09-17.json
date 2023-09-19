@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695136697504,
+  "endTime": 1695137660837,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -683,6 +683,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1126318,
+      "num": 1126318,
+      "word": "papi酱我的震惊划破天际",
+      "onboard_time": 1695135404,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1115551,
       "num": 1115551,
       "word": "医生收到患者家属1箱牛奶发现是4万现金",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1694908529,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756178,
-      "num": 756178,
-      "word": "papi酱我的震惊划破天际",
-      "onboard_time": 1695135404,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 755953,
@@ -2459,6 +2459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 472969,
+      "num": 269625,
+      "word": "京东崩了",
+      "onboard_time": 1695135165,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 472495,
       "num": 472495,
       "word": "强大的肠胃是一种资产",
@@ -2513,14 +2521,6 @@
       "onboard_time": 1695128136,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 462023,
-      "num": 224846,
-      "word": "京东崩了",
-      "onboard_time": 1695135165,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 461475,
@@ -3100,7 +3100,7 @@
     },
     {
       "raw_hot": 378097,
-      "num": 224818,
+      "num": 313774,
       "word": "大一新生没去报道被辅导员移出班级群",
       "onboard_time": 1695134744,
       "rank": 31,
@@ -4084,7 +4084,7 @@
     },
     {
       "raw_hot": 288055,
-      "num": 224293,
+      "num": 259109,
       "word": "管晨辰你怎么真瘦了",
       "onboard_time": 1695135582,
       "rank": 32,
@@ -4387,6 +4387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269058,
+      "num": 269058,
+      "word": "时装周模特血肉模糊的脚后跟",
+      "onboard_time": 1695137079,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 268380,
       "num": 430587,
       "word": "渐冻症男孩躺着拿下全球数学大奖",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1695099038,
       "rank": 31,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 257212,
+      "num": 414738,
+      "word": "意外失去左腿后他把自己变成了钢铁侠",
+      "onboard_time": 1695135582,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256729,
@@ -5105,14 +5121,6 @@
       "onboard_time": 1694934393,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226198,
-      "num": 414738,
-      "word": "意外失去左腿后他把自己变成了钢铁侠",
-      "onboard_time": 1695135582,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226185,
@@ -5811,6 +5819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198365,
+      "num": 198365,
+      "word": "江浙沪夜景太震撼了",
+      "onboard_time": 1695136961,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198116,
       "num": 184058,
       "word": "主人带柯基去庙里收惊",
@@ -6155,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186571,
+      "num": 186571,
+      "word": "白敬亭初秋男友",
+      "onboard_time": 1695137198,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185819,
       "num": 185819,
       "word": "吉克隽逸造型",
@@ -6169,6 +6193,14 @@
       "onboard_time": 1695126635,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 185148,
+      "num": 185148,
+      "word": "魏大勋 最时髦的帅哥",
+      "onboard_time": 1695133965,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 184881,
@@ -6435,14 +6467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174221,
-      "num": 174221,
-      "word": "魏大勋 最时髦的帅哥",
-      "onboard_time": 1695133965,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173507,
       "num": 173507,
       "word": "邢台巨响",
@@ -6593,6 +6617,14 @@
       "onboard_time": 1694912312,
       "rank": 12,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 168992,
+      "num": 168992,
+      "word": "iPhone15全系测评",
+      "onboard_time": 1695137258,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 168890,
@@ -7227,12 +7259,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136202,
+      "num": 136202,
+      "word": "宫子羽会等云为衫吗",
+      "onboard_time": 1695136542,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135024,
       "num": 340373,
       "word": "小鹏 王炸",
       "onboard_time": 1695130722,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134229,
+      "num": 359340,
+      "word": "父亲目送儿子入伍泪流满面",
+      "onboard_time": 1695136662,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133189,
@@ -7529,14 +7577,6 @@
       "onboard_time": 1694993070,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 96884,
-      "num": 169985,
-      "word": "父亲目送儿子入伍泪流满面",
-      "onboard_time": 1695136662,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95229,
