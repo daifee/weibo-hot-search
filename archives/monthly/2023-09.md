@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/19 09:11:49
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/19 09:32:35
 </p>
 </blockquote>
 <p>
@@ -2895,6 +2895,12 @@ Hero取关久哲（热度：1381597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E6%9C%80%E5%A4%9A%E5%80%99%E8%A1%A520%E4%B8%AA%E8%BD%A6%E6%AC%A1%23" target="weibo">
+12306最多候补20个车次（热度：1373235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87%23" target="weibo">
 教资作文（热度：1372274）
 </a>
@@ -3377,12 +3383,6 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%80%92%E7%A0%B810%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%8D%E6%98%AF%E5%9B%A0%E5%A5%B6%E6%B2%B9%E5%A4%AA%E4%B8%91%23" target="weibo">
 男子称怒砸10杯酱香拿铁不是因奶油太丑（热度：1203535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E6%9C%80%E5%A4%9A%E5%80%99%E8%A1%A520%E4%B8%AA%E8%BD%A6%E6%AC%A1%23" target="weibo">
-12306最多候补20个车次（热度：1202808）
 </a>
 </li>
 
@@ -5847,6 +5847,12 @@ Mate60遭老罪了（热度：802643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%23" target="weibo">
+油价（热度：795943）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Mystic%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%8F%91%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%23" target="weibo">
 Mystic前女友发长文控诉（热度：795788）
 </a>
@@ -6005,12 +6011,6 @@ Mystic前女友发长文控诉（热度：795788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E7%9A%84%E5%A3%B0%E6%98%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%82%B2%E5%93%80%23" target="weibo">
 胡锡进 四川工商学院的声明是一种悲哀（热度：777753）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23" target="weibo">
-迎击台风苏拉（热度：777658）
 </a>
 </li>
 
