@@ -1,7 +1,15 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695118702560,
+  "endTime": 1695119743367,
   "band_list": [
+    {
+      "raw_hot": 9253666,
+      "num": 9253666,
+      "word": "花西子发声",
+      "onboard_time": 1695117576,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4742040,
       "num": 274478,
@@ -9,14 +17,6 @@
       "onboard_time": 1695106776,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4588526,
-      "num": 4588526,
-      "word": "花西子发声",
-      "onboard_time": 1695117576,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2679392,
@@ -171,20 +171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1100926,
+      "num": 1035585,
+      "word": "湖南一高校疑918办演出升日本国旗",
+      "onboard_time": 1695116196,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1050074,
       "num": 467145,
       "word": "香港顶流姜涛最新活动生图",
       "onboard_time": 1695105335,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1035585,
-      "num": 1035585,
-      "word": "湖南一高校疑918办演出升日本国旗",
-      "onboard_time": 1695116196,
-      "rank": 3,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1007517,
@@ -241,6 +241,14 @@
       "onboard_time": 1695097780,
       "rank": 31,
       "category": "其它"
+    },
+    {
+      "raw_hot": 883365,
+      "num": 883365,
+      "word": "THE9解散演唱会官宣了",
+      "onboard_time": 1695117758,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 874860,
@@ -336,6 +344,14 @@
       "word": "华中师大通报公众号引用骂人伪诗经",
       "onboard_time": 1695099038,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718015,
+      "num": 573966,
+      "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+      "onboard_time": 1695114280,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -435,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 639150,
-      "num": 639150,
-      "word": "THE9解散演唱会官宣了",
-      "onboard_time": 1695117758,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 637249,
       "num": 294277,
       "word": "室友变小妈",
@@ -491,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 592991,
-      "num": 573966,
-      "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
-      "onboard_time": 1695114280,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 588274,
       "num": 588274,
       "word": "Lisa舞蹈视频MONEY播放量突破9亿",
@@ -513,6 +513,14 @@
       "onboard_time": 1695095437,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 578674,
+      "num": 578674,
+      "word": "李雪琴李嘉琦徐志胜给汪苏泷制造惊喜",
+      "onboard_time": 1695118240,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 575787,
@@ -547,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553993,
-      "num": 231846,
-      "word": "李雪琴李嘉琦徐志胜给汪苏泷制造惊喜",
-      "onboard_time": 1695118240,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 553048,
       "num": 495843,
       "word": "G社拍的全智贤",
@@ -585,6 +585,14 @@
       "onboard_time": 1695098800,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 527015,
+      "num": 221721,
+      "word": "花西子自称是地地道道的国货",
+      "onboard_time": 1695119499,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517668,
@@ -811,6 +819,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 369519,
+      "num": 369519,
+      "word": "肖战手画烟花太浪漫了",
+      "onboard_time": 1695116377,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 369134,
       "num": 369134,
       "word": "张艺兴上海演唱会说官宣就官宣",
@@ -841,14 +857,6 @@
       "onboard_time": 1695111639,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 356134,
-      "num": 356134,
-      "word": "肖战手画烟花太浪漫了",
-      "onboard_time": 1695116377,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350885,
@@ -1051,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299014,
+      "num": 259077,
+      "word": "Angelababy敦煌造型好美",
+      "onboard_time": 1695118659,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 297868,
       "num": 209483,
       "word": "容貌焦虑的姐妹都来听听徐志胜的这段话",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1695048221,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 295475,
+      "num": 2780430,
+      "word": "杭州阿姨1碗汤安徽姑娘铭记一生",
+      "onboard_time": 1695113376,
+      "rank": 44,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 291810,
@@ -1187,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252959,
+      "num": 252959,
+      "word": "iCloud存在的意义到底是啥",
+      "onboard_time": 1695116557,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252710,
       "num": 252710,
       "word": "黄景瑜演戏不停职不接",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1695101198,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247049,
-      "num": 247049,
-      "word": "iCloud存在的意义到底是啥",
-      "onboard_time": 1695116557,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 246780,
@@ -1323,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235116,
+      "num": 235116,
+      "word": "于适演阴阳怪气这么好玩",
+      "onboard_time": 1695118300,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233400,
       "num": 259050,
       "word": "我们的铭记是对志愿军最好的致敬",
@@ -1355,20 +1387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226543,
+      "num": 226543,
+      "word": "赵露思讲意大利语",
+      "onboard_time": 1695119383,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226353,
       "num": 226353,
       "word": "华为耳机首发搭载无损无线传输",
       "onboard_time": 1695099637,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 225422,
-      "num": 1442359,
-      "word": "杭州阿姨1碗汤安徽姑娘铭记一生",
-      "onboard_time": 1695113376,
-      "rank": 44,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 225112,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1695109719,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218660,
+      "num": 218660,
+      "word": "此沙念炖冻豆腐好洗脑",
+      "onboard_time": 1695119260,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 217409,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1695083920,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209361,
+      "num": 209361,
+      "word": "二次元审美降级",
+      "onboard_time": 1695119080,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 208304,
@@ -1603,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199793,
+      "num": 199793,
+      "word": "张凌赫送你八个大字",
+      "onboard_time": 1695119142,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199529,
       "num": 199529,
       "word": "马龙亚运会简历好长",
@@ -1635,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195597,
+      "num": 900216,
+      "word": "东海全面开渔第一网海鲜被抢空",
+      "onboard_time": 1695117158,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 194157,
       "num": 194157,
       "word": "电影志愿军初心特辑",
@@ -1665,14 +1729,6 @@
       "onboard_time": 1695085235,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189665,
-      "num": 189665,
-      "word": "于适演阴阳怪气这么好玩",
-      "onboard_time": 1695118300,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 189540,
@@ -1724,7 +1780,7 @@
     },
     {
       "raw_hot": 179410,
-      "num": 153412,
+      "num": 158918,
       "word": "于适回应被称爱哭的小狗",
       "onboard_time": 1695116980,
       "rank": 44,
@@ -1803,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170836,
+      "num": 170836,
+      "word": "棉柔巾 绵柔巾",
+      "onboard_time": 1695118776,
+      "rank": 42,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 169957,
       "num": 169957,
       "word": "身体倒挂救人后00后消防员缺氧晕倒",
@@ -1865,14 +1929,6 @@
       "onboard_time": 1695111216,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161876,
-      "num": 900216,
-      "word": "东海全面开渔第一网海鲜被抢空",
-      "onboard_time": 1695117158,
-      "rank": 6,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 161430,
@@ -2083,14 +2139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128924,
-      "num": 128924,
-      "word": "Angelababy敦煌造型好美",
-      "onboard_time": 1695118659,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 127521,
       "num": 127521,
       "word": "孩子吃不了苦做这个训练效果显著",
@@ -2100,7 +2148,7 @@
     },
     {
       "raw_hot": 121081,
-      "num": 1209841,
+      "num": 1791957,
       "word": "亚运会今日开赛",
       "onboard_time": 1695111758,
       "rank": 2,
