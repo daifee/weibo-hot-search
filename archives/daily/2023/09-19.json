@@ -1,6 +1,6 @@
 {
   "startTime": 1695054158945,
-  "endTime": 1695130466058,
+  "endTime": 1695132981208,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -91,6 +91,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1448431,
+      "num": 1448431,
+      "word": "国足亚运队5比1印度",
+      "onboard_time": 1695130179,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1415517,
       "num": 1415517,
       "word": "蜜雪冰城 红茶",
@@ -105,6 +113,14 @@
       "onboard_time": 1695083920,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1338254,
+      "num": 1338254,
+      "word": "31岁博士生宿舍楼坠楼身亡",
+      "onboard_time": 1695131078,
+      "rank": 3,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1330510,
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1262078,
+      "num": 1262078,
+      "word": "研究生上课 没有课本",
+      "onboard_time": 1695129097,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1240891,
       "num": 1240891,
       "word": "长风破浪 王一博李沁",
@@ -177,14 +201,6 @@
       "onboard_time": 1695114280,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1157877,
-      "num": 1157877,
-      "word": "研究生上课 没有课本",
-      "onboard_time": 1695129097,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 1115551,
@@ -475,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 670243,
-      "num": 670243,
-      "word": "国足亚运队5比1印度",
-      "onboard_time": 1695130179,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 668448,
       "num": 668448,
       "word": "95号汽油或将进入9元时代",
@@ -577,6 +585,14 @@
       "onboard_time": 1695100833,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 602694,
+      "num": 602694,
+      "word": "华为Mate60Pro",
+      "onboard_time": 1695129339,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 600978,
@@ -793,14 +809,6 @@
       "onboard_time": 1695104375,
       "rank": 43,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 460895,
-      "num": 460895,
-      "word": "华为Mate60Pro",
-      "onboard_time": 1695129339,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 459739,
@@ -1051,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351677,
+      "num": 326908,
+      "word": "为什么饺子很好吃却很难消化",
+      "onboard_time": 1695132460,
+      "rank": 21,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 350885,
       "num": 350885,
       "word": "这2项运动不利于孩子生长发育",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1695087514,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 344718,
+      "num": 344718,
+      "word": "黄景瑜演张凌赫哥哥",
+      "onboard_time": 1695129820,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 342268,
@@ -1163,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326835,
+      "num": 326835,
+      "word": "杨汝晴对侯卓成说没有你我也独美",
+      "onboard_time": 1695129878,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325889,
       "num": 439895,
       "word": "赢了我带你回家输了下辈子再见",
@@ -1177,14 +1209,6 @@
       "onboard_time": 1695106175,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323430,
-      "num": 323430,
-      "word": "杨汝晴对侯卓成说没有你我也独美",
-      "onboard_time": 1695129878,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 323303,
@@ -1339,14 +1363,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 295408,
-      "num": 295408,
-      "word": "黄景瑜演张凌赫哥哥",
-      "onboard_time": 1695129820,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293620,
       "num": 293620,
       "word": "赵露思讲意大利语",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1695126937,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 283975,
+      "num": 283975,
+      "word": "邓为 迪奥",
+      "onboard_time": 1695132460,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 282610,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1695128076,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259584,
+      "num": 259584,
+      "word": "电影飞驰人生2开机",
+      "onboard_time": 1695131441,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 258649,
@@ -1643,6 +1675,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 236977,
+      "num": 236977,
+      "word": "魏大勋夸自己反被韩庚吐槽",
+      "onboard_time": 1695130722,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236471,
       "num": 236471,
       "word": "光遇复刻",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1695103595,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223813,
+      "num": 223813,
+      "word": "陈坤带儿子参加伦敦时装周",
+      "onboard_time": 1695132643,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 222942,
@@ -1883,6 +1931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207260,
+      "num": 207260,
+      "word": "方昊 siu",
+      "onboard_time": 1695130839,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207180,
       "num": 207180,
       "word": "原来刷牙是刷牙龈",
@@ -1905,6 +1961,14 @@
       "onboard_time": 1695089613,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205231,
+      "num": 205231,
+      "word": "张远演唱会抢票",
+      "onboard_time": 1695130541,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 204726,
@@ -2043,6 +2107,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 194645,
+      "num": 194645,
+      "word": "卡雅vs山东泰山",
+      "onboard_time": 1695132341,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194157,
       "num": 194157,
       "word": "电影志愿军初心特辑",
@@ -2177,6 +2249,14 @@
       "onboard_time": 1695124415,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178629,
+      "num": 178629,
+      "word": "亚冠",
+      "onboard_time": 1695132581,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 176986,
@@ -2345,6 +2425,14 @@
       "onboard_time": 1695111216,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161774,
+      "num": 161774,
+      "word": "国足亚运会开门红",
+      "onboard_time": 1695131259,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 161430,
@@ -2579,6 +2667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125238,
+      "num": 340373,
+      "word": "小鹏 王炸",
+      "onboard_time": 1695130722,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 121081,
       "num": 2053414,
       "word": "亚运会今日开赛",
@@ -2811,6 +2907,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 54822,
+      "num": 285100,
+      "word": "用中国速度搭载各国运动员往返于各个赛场",
+      "onboard_time": 1695132701,
+      "rank": 24,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 49822,
       "num": 58007,
       "word": "四公repo",
@@ -2841,6 +2945,14 @@
       "onboard_time": 1695097841,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34085,
+      "num": 1363691,
+      "word": "奋力夺取秋粮好收成",
+      "onboard_time": 1695129219,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33545,
@@ -2883,14 +2995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26169,
-      "num": 1154824,
-      "word": "奋力夺取秋粮好收成",
-      "onboard_time": 1695129219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26097,
       "num": 26097,
       "word": "想对我恋爱脑朋友说的话",
@@ -2921,6 +3025,14 @@
       "onboard_time": 1695097361,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 23056,
+      "num": 230287,
+      "word": "任正非最新正面评价苹果产品",
+      "onboard_time": 1695132403,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 21987,

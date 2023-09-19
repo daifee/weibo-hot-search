@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695130466058,
+  "endTime": 1695132981208,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -3627,6 +3627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1448431,
+      "num": 1448431,
+      "word": "国足亚运队5比1印度",
+      "onboard_time": 1695130179,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1443281,
       "num": 1443281,
       "word": "日方称中方是唯一反对核污水排海国家",
@@ -4051,6 +4059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1338254,
+      "num": 1338254,
+      "word": "31岁博士生宿舍楼坠楼身亡",
+      "onboard_time": 1695131078,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1337768,
       "num": 614976,
       "word": "你工资减三千还剩多少花西币",
@@ -4328,6 +4344,14 @@
       "word": "我命由我不由天 你说三千就三千",
       "onboard_time": 1694338472,
       "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1262078,
+      "num": 1262078,
+      "word": "研究生上课 没有课本",
+      "onboard_time": 1695129097,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -4809,14 +4833,6 @@
       "onboard_time": 1693750785,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1157877,
-      "num": 1157877,
-      "word": "研究生上课 没有课本",
-      "onboard_time": 1695129097,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 1156014,
@@ -10315,14 +10331,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 670243,
-      "num": 670243,
-      "word": "国足亚运队5比1印度",
-      "onboard_time": 1695130179,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 669651,
       "num": 536809,
       "word": "肖战盛阳长发版",
@@ -11969,6 +11977,14 @@
       "onboard_time": 1695100833,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 602694,
+      "num": 602694,
+      "word": "华为Mate60Pro",
+      "onboard_time": 1695129339,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 602596,
@@ -16665,14 +16681,6 @@
       "onboard_time": 1694843556,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 460895,
-      "num": 460895,
-      "word": "华为Mate60Pro",
-      "onboard_time": 1695129339,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 460635,
@@ -21699,6 +21707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351677,
+      "num": 326908,
+      "word": "为什么饺子很好吃却很难消化",
+      "onboard_time": 1695132460,
+      "rank": 21,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 351640,
       "num": 351640,
       "word": "教师节福利",
@@ -22057,6 +22073,14 @@
       "onboard_time": 1694666627,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344718,
+      "num": 344718,
+      "word": "黄景瑜演张凌赫哥哥",
+      "onboard_time": 1695129820,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 344405,
@@ -23075,6 +23099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326835,
+      "num": 326835,
+      "word": "杨汝晴对侯卓成说没有你我也独美",
+      "onboard_time": 1695129878,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326833,
       "num": 326833,
       "word": "冯宝宝穿古装",
@@ -23409,14 +23441,6 @@
       "onboard_time": 1694180916,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 323430,
-      "num": 323430,
-      "word": "杨汝晴对侯卓成说没有你我也独美",
-      "onboard_time": 1695129878,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 323417,
@@ -25603,14 +25627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295408,
-      "num": 295408,
-      "word": "黄景瑜演张凌赫哥哥",
-      "onboard_time": 1695129820,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 295316,
       "num": 295316,
       "word": "长相思非会员收官",
@@ -26497,6 +26513,14 @@
       "onboard_time": 1693495179,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 283975,
+      "num": 283975,
+      "word": "邓为 迪奥",
+      "onboard_time": 1695132460,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283883,
@@ -28601,6 +28625,14 @@
       "onboard_time": 1693970076,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259584,
+      "num": 259584,
+      "word": "电影飞驰人生2开机",
+      "onboard_time": 1695131441,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 259562,
@@ -30827,6 +30859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236977,
+      "num": 236977,
+      "word": "魏大勋夸自己反被韩庚吐槽",
+      "onboard_time": 1695130722,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236892,
       "num": 236892,
       "word": "唐嫣念无双路透",
@@ -32257,6 +32297,14 @@
       "onboard_time": 1694007338,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223813,
+      "num": 223813,
+      "word": "陈坤带儿子参加伦敦时装周",
+      "onboard_time": 1695132643,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223765,
@@ -34427,6 +34475,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 207260,
+      "num": 207260,
+      "word": "方昊 siu",
+      "onboard_time": 1695130839,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207217,
       "num": 207217,
       "word": "小时候和长大后生病的区别",
@@ -34785,6 +34841,14 @@
       "onboard_time": 1693883678,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205231,
+      "num": 205231,
+      "word": "张远演唱会抢票",
+      "onboard_time": 1695130541,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 205200,
@@ -36985,6 +37049,14 @@
       "onboard_time": 1694263233,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194645,
+      "num": 194645,
+      "word": "卡雅vs山东泰山",
+      "onboard_time": 1695132341,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 194602,
@@ -39771,6 +39843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178629,
+      "num": 178629,
+      "word": "亚冠",
+      "onboard_time": 1695132581,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178621,
       "num": 178621,
       "word": "Stray Kids TXTVMAs红毯造型",
@@ -41841,6 +41921,14 @@
       "onboard_time": 1694688635,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161774,
+      "num": 161774,
+      "word": "国足亚运会开门红",
+      "onboard_time": 1695131259,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 161772,
@@ -45395,6 +45483,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 125238,
+      "num": 340373,
+      "word": "小鹏 王炸",
+      "onboard_time": 1695130722,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125216,
       "num": 125216,
       "word": "伍佰的这首你说还怪好听的",
@@ -48147,6 +48243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54822,
+      "num": 285100,
+      "word": "用中国速度搭载各国运动员往返于各个赛场",
+      "onboard_time": 1695132701,
+      "rank": 24,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 54809,
       "num": 54809,
       "word": "现在脑子里的西岐生活",
@@ -48955,6 +49059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34085,
+      "num": 1363691,
+      "word": "奋力夺取秋粮好收成",
+      "onboard_time": 1695129219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33928,
       "num": 445308,
       "word": "女护士百米冲刺跪地救援溺水老人",
@@ -49371,14 +49483,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 26169,
-      "num": 1154824,
-      "word": "奋力夺取秋粮好收成",
-      "onboard_time": 1695129219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26097,
       "num": 26097,
       "word": "想对我恋爱脑朋友说的话",
@@ -49569,6 +49673,14 @@
       "onboard_time": 1694023877,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 23056,
+      "num": 230287,
+      "word": "任正非最新正面评价苹果产品",
+      "onboard_time": 1695132403,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 22961,

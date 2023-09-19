@@ -1,0 +1,410 @@
+{
+  "runTime": 1695132981208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2334080,
+        "num": 2334080,
+        "word": "花西子发声",
+        "onboard_time": 1695117576,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448431,
+        "num": 1448431,
+        "word": "国足亚运队5比1印度",
+        "onboard_time": 1695130179,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34085,
+        "num": 1363691,
+        "word": "奋力夺取秋粮好收成",
+        "onboard_time": 1695129219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1338254,
+        "num": 1338254,
+        "word": "31岁博士生宿舍楼坠楼身亡",
+        "onboard_time": 1695131078,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1262078,
+        "num": 1262078,
+        "word": "研究生上课 没有课本",
+        "onboard_time": 1695129097,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 727669,
+        "num": 727669,
+        "word": "徐娇回归周星驰公司",
+        "onboard_time": 1695126576,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619946,
+        "num": 619946,
+        "word": "第一次见到地铁工作人员工作餐",
+        "onboard_time": 1695126576,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 602694,
+        "num": 602694,
+        "word": "华为Mate60Pro",
+        "onboard_time": 1695129339,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 546057,
+        "num": 546057,
+        "word": "长风破浪 王一博李沁",
+        "onboard_time": 1695120641,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485119,
+        "num": 485119,
+        "word": "他从火光中走来",
+        "onboard_time": 1695128136,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627354,
+        "num": 457586,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 10,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 419986,
+        "num": 419986,
+        "word": "焦虑的人可以多吃点酸的",
+        "onboard_time": 1695126576,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346946,
+        "num": 346946,
+        "word": "肩膀突然不内扣了",
+        "onboard_time": 1695112240,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 258766,
+        "num": 345191,
+        "word": "骗子教3小时老人仍未学会转账",
+        "onboard_time": 1695115840,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130096,
+        "num": 344746,
+        "word": "央广网评预制菜进校园",
+        "onboard_time": 1695112476,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344718,
+        "num": 344718,
+        "word": "黄景瑜演张凌赫哥哥",
+        "onboard_time": 1695129820,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341211,
+        "num": 341211,
+        "word": "我有一个朋友",
+        "onboard_time": 1695123937,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125238,
+        "num": 340373,
+        "word": "小鹏 王炸",
+        "onboard_time": 1695130722,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 340280,
+        "num": 340280,
+        "word": "林俊杰演唱会抢票",
+        "onboard_time": 1695128136,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326963,
+        "num": 326963,
+        "word": "THE9解散演唱会官宣了",
+        "onboard_time": 1695117758,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 806298,
+        "num": 326954,
+        "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
+        "onboard_time": 1695114280,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351677,
+        "num": 326908,
+        "word": "为什么饺子很好吃却很难消化",
+        "onboard_time": 1695132460,
+        "rank": 21,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 326835,
+        "num": 326835,
+        "word": "杨汝晴对侯卓成说没有你我也独美",
+        "onboard_time": 1695129878,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294328,
+        "num": 294328,
+        "word": "迪丽热巴五只蚂蚁搬大米",
+        "onboard_time": 1695127236,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54822,
+        "num": 285100,
+        "word": "用中国速度搭载各国运动员往返于各个赛场",
+        "onboard_time": 1695132701,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 283975,
+        "num": 283975,
+        "word": "邓为 迪奥",
+        "onboard_time": 1695132460,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269087,
+        "num": 269087,
+        "word": "女生租房10个月与房东相恋结婚",
+        "onboard_time": 1695116075,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265015,
+        "num": 265015,
+        "word": "原来牙线是这样用的",
+        "onboard_time": 1695124477,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 259584,
+        "num": 259584,
+        "word": "电影飞驰人生2开机",
+        "onboard_time": 1695131441,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257926,
+        "num": 257926,
+        "word": "钟汉良搂着正在跳舞的秦岚",
+        "onboard_time": 1695126937,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236977,
+        "num": 236977,
+        "word": "魏大勋夸自己反被韩庚吐槽",
+        "onboard_time": 1695130722,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23056,
+        "num": 230287,
+        "word": "任正非最新正面评价苹果产品",
+        "onboard_time": 1695132403,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223813,
+        "num": 223813,
+        "word": "陈坤带儿子参加伦敦时装周",
+        "onboard_time": 1695132643,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220798,
+        "num": 220798,
+        "word": "宋雨琦美拉德穿搭",
+        "onboard_time": 1695128857,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212655,
+        "num": 212655,
+        "word": "竟然帮前男友交了两年电费",
+        "onboard_time": 1695117097,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207260,
+        "num": 207260,
+        "word": "方昊 siu",
+        "onboard_time": 1695130839,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205231,
+        "num": 205231,
+        "word": "张远演唱会抢票",
+        "onboard_time": 1695130541,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202130,
+        "num": 202130,
+        "word": "主人意外去世黄狗留守数月被救助",
+        "onboard_time": 1695127896,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195590,
+        "num": 195590,
+        "word": "能不能别来碰瓷我们顶流",
+        "onboard_time": 1695123756,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194645,
+        "num": 194645,
+        "word": "卡雅vs山东泰山",
+        "onboard_time": 1695132341,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193124,
+        "num": 193124,
+        "word": "花西子自称是地地道道的国货",
+        "onboard_time": 1695119499,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189313,
+        "num": 189313,
+        "word": "巨蟹座喜欢的表现是恋恋不舍",
+        "onboard_time": 1695123216,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 179817,
+        "num": 179817,
+        "word": "她与灯观鹤笔记获奖",
+        "onboard_time": 1695126937,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 179413,
+        "num": 179413,
+        "word": "国足亚运队vs印度",
+        "onboard_time": 1695122560,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178629,
+        "num": 178629,
+        "word": "亚冠",
+        "onboard_time": 1695132581,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176404,
+        "num": 176404,
+        "word": "大腿赘肉保不住了",
+        "onboard_time": 1695123098,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175911,
+        "num": 175911,
+        "word": "于适拿出弓的时候我沉默了",
+        "onboard_time": 1695128076,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172339,
+        "num": 172339,
+        "word": "任正非称苹果是华为的老师",
+        "onboard_time": 1695120040,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161809,
+        "num": 161809,
+        "word": "中国女排奥运资格赛三连胜",
+        "onboard_time": 1695129279,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161774,
+        "num": 161774,
+        "word": "国足亚运会开门红",
+        "onboard_time": 1695131259,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信飞虎队老兵#"
+    }
+  }
+}
