@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695132981208,
+  "endTime": 1695134074532,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -105,6 +105,14 @@
       "onboard_time": 1695018153,
       "rank": 1,
       "category": "数码,艺人"
+    },
+    {
+      "raw_hot": 2391253,
+      "num": 2391253,
+      "word": "31岁博士生宿舍楼坠楼身亡",
+      "onboard_time": 1695131078,
+      "rank": 3,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2246936,
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1338254,
-      "num": 1338254,
-      "word": "31岁博士生宿舍楼坠楼身亡",
-      "onboard_time": 1695131078,
-      "rank": 3,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1333071,
       "num": 1333071,
       "word": "袁冰妍为啥两次掉进同一条沟里",
@@ -713,6 +713,14 @@
       "onboard_time": 1694966973,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1090903,
+      "num": 1090903,
+      "word": "邓为 迪奥",
+      "onboard_time": 1695132460,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1072856,
@@ -1539,6 +1547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 660776,
+      "num": 660776,
+      "word": "南风知我意破万",
+      "onboard_time": 1695133605,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 659866,
       "num": 659866,
       "word": "热巴好A",
@@ -1683,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632502,
+      "num": 632502,
+      "word": "华为Mate60Pro",
+      "onboard_time": 1695129339,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 630398,
       "num": 331216,
       "word": "真正的富二代留学生的生活",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1695100833,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 602694,
-      "num": 602694,
-      "word": "华为Mate60Pro",
-      "onboard_time": 1695129339,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 600978,
@@ -1931,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559098,
+      "num": 326908,
+      "word": "为什么饺子很好吃却很难消化",
+      "onboard_time": 1695132460,
+      "rank": 21,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 558233,
       "num": 400596,
       "word": "为什么只有早上卖油条",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1695123098,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 549879,
+      "num": 314416,
+      "word": "石家庄某小区尸体残肢疑为女性",
+      "onboard_time": 1695133301,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546730,
@@ -2739,6 +2771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 420073,
+      "num": 311237,
+      "word": "下一个会消失的电子产品是什么",
+      "onboard_time": 1695133121,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 419874,
       "num": 201875,
       "word": "手工耿给奶奶做了一个电动轮椅",
@@ -3307,14 +3347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 351677,
-      "num": 326908,
-      "word": "为什么饺子很好吃却很难消化",
-      "onboard_time": 1695132460,
-      "rank": 21,
-      "category": "美食,知识科普"
-    },
-    {
       "raw_hot": 350339,
       "num": 350339,
       "word": "韩天宇接力金牌",
@@ -3331,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348821,
+      "num": 348821,
+      "word": "黄景瑜演张凌赫哥哥",
+      "onboard_time": 1695129820,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345209,
       "num": 345209,
       "word": "XYG 血压高",
@@ -3345,14 +3385,6 @@
       "onboard_time": 1695087514,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 344718,
-      "num": 344718,
-      "word": "黄景瑜演张凌赫哥哥",
-      "onboard_time": 1695129820,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 344405,
@@ -3489,6 +3521,14 @@
       "onboard_time": 1694925516,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 332956,
+      "num": 332956,
+      "word": "陈坤带儿子参加伦敦时装周",
+      "onboard_time": 1695132643,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332269,
@@ -4051,14 +4091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 283975,
-      "num": 283975,
-      "word": "邓为 迪奥",
-      "onboard_time": 1695132460,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 283510,
       "num": 283510,
       "word": "多人围观两只猫咪吵架",
@@ -4329,6 +4361,14 @@
       "onboard_time": 1694930435,
       "rank": 26,
       "category": "军事"
+    },
+    {
+      "raw_hot": 267252,
+      "num": 267252,
+      "word": "出国留学时期的卢昱晓",
+      "onboard_time": 1695133301,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 266970,
@@ -5083,14 +5123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223813,
-      "num": 223813,
-      "word": "陈坤带儿子参加伦敦时装周",
-      "onboard_time": 1695132643,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 223378,
       "num": 223378,
       "word": "腹泻专用厕所有什么特别的吗",
@@ -5435,6 +5467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 208066,
+      "num": 208066,
+      "word": "国庆三倍工资加班你愿意吗",
+      "onboard_time": 1695133544,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207260,
       "num": 207260,
       "word": "方昊 siu",
@@ -5753,6 +5793,14 @@
       "onboard_time": 1694949333,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197189,
+      "num": 197189,
+      "word": "iPhone15与Pro该选谁",
+      "onboard_time": 1695133905,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 196681,
@@ -6819,6 +6867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150961,
+      "num": 150961,
+      "word": "魏大勋 最时髦的帅哥",
+      "onboard_time": 1695133965,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150261,
       "num": 150261,
       "word": "不理解越舒服的姿势越有害",
@@ -7107,6 +7163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135024,
+      "num": 340373,
+      "word": "小鹏 王炸",
+      "onboard_time": 1695130722,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133189,
       "num": 133189,
       "word": "罗渽民穿制服弹钢琴",
@@ -7249,14 +7313,6 @@
       "onboard_time": 1694920894,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125238,
-      "num": 340373,
-      "word": "小鹏 王炸",
-      "onboard_time": 1695130722,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 125216,
@@ -7473,6 +7529,14 @@
       "onboard_time": 1695124834,
       "rank": 14,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 90437,
+      "num": 316665,
+      "word": "用中国速度搭载各国运动员往返于各个赛场",
+      "onboard_time": 1695132701,
+      "rank": 24,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 87210,
@@ -7699,12 +7763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54822,
-      "num": 285100,
-      "word": "用中国速度搭载各国运动员往返于各个赛场",
-      "onboard_time": 1695132701,
-      "rank": 24,
-      "category": "社会新闻,体育"
+      "raw_hot": 50045,
+      "num": 328111,
+      "word": "任正非最新正面评价苹果产品",
+      "onboard_time": 1695132403,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 49054,
@@ -7755,6 +7819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40262,
+      "num": 1389353,
+      "word": "奋力夺取秋粮好收成",
+      "onboard_time": 1695129219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38198,
       "num": 49513,
       "word": "BLACKPINK首尔安可",
@@ -7767,14 +7839,6 @@
       "num": 1653897,
       "word": "展示共建一带一路的信心",
       "onboard_time": 1695004713,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34085,
-      "num": 1363691,
-      "word": "奋力夺取秋粮好收成",
-      "onboard_time": 1695129219,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -7913,14 +7977,6 @@
       "onboard_time": 1694940033,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23056,
-      "num": 230287,
-      "word": "任正非最新正面评价苹果产品",
-      "onboard_time": 1695132403,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 21987,
