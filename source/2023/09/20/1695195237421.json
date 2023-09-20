@@ -1,0 +1,410 @@
+{
+  "runTime": 1695195237421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2458909,
+        "num": 2458909,
+        "word": "花西子公关部或集体离职",
+        "onboard_time": 1695187117,
+        "rank": 0,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1698546,
+        "num": 1698546,
+        "word": "删除的所有QQ空间都在这里",
+        "onboard_time": 1695193836,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52108,
+        "num": 1629127,
+        "word": "何以中国的文明密码",
+        "onboard_time": 1695181237,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1590400,
+        "num": 1590400,
+        "word": "五条悟被腰斩",
+        "onboard_time": 1695189576,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1273222,
+        "num": 1273222,
+        "word": "广东再添985大学",
+        "onboard_time": 1695190118,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1261235,
+        "num": 1261235,
+        "word": "老刘爆哭",
+        "onboard_time": 1695194074,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 943053,
+        "num": 943053,
+        "word": "jjxx 歹毒",
+        "onboard_time": 1695193358,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 926387,
+        "num": 926387,
+        "word": "第一次见男主纯情到接吻噘嘴的",
+        "onboard_time": 1695193654,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 687974,
+        "num": 687974,
+        "word": "花西子海外对标奢侈品",
+        "onboard_time": 1695188437,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592896,
+        "num": 592896,
+        "word": "盐城龙卷风5死4伤",
+        "onboard_time": 1695191913,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591941,
+        "num": 591941,
+        "word": "开始担心张婉婷的精神状态",
+        "onboard_time": 1695184660,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559602,
+        "num": 559602,
+        "word": "2.5条悟",
+        "onboard_time": 1695193175,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 494886,
+        "num": 494886,
+        "word": "丞磊和卢昱晓决定了夜色尚浅爱过彼此",
+        "onboard_time": 1695192874,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486667,
+        "num": 486667,
+        "word": "Angelababy敦煌飞天妆",
+        "onboard_time": 1695185500,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231264,
+        "num": 464746,
+        "word": "原来塞牙是牙齿在求救",
+        "onboard_time": 1695176616,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 443151,
+        "num": 443151,
+        "word": "国货太奶",
+        "onboard_time": 1695191556,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368785,
+        "num": 368785,
+        "word": "我们恋爱吧女1撞衫赵露思",
+        "onboard_time": 1695188197,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363089,
+        "num": 363089,
+        "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
+        "onboard_time": 1695183519,
+        "rank": 17,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 353879,
+        "num": 353879,
+        "word": "A股",
+        "onboard_time": 1695193595,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95395,
+        "num": 299594,
+        "word": "什么情况需要拔智齿",
+        "onboard_time": 1695192694,
+        "rank": 19,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 779463,
+        "num": 299278,
+        "word": "用这个方法很容易怀孕",
+        "onboard_time": 1695190596,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 724690,
+        "num": 298276,
+        "word": "录取通知书被人冒领顶替30年",
+        "onboard_time": 1695191256,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294970,
+        "num": 294970,
+        "word": "花西子道歉信无需反复强调自己是国货",
+        "onboard_time": 1695191736,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277394,
+        "num": 277394,
+        "word": "极挑男团或将再度集结",
+        "onboard_time": 1695193836,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269533,
+        "num": 269533,
+        "word": "医生发朋友圈2个通宵救2命称自豪",
+        "onboard_time": 1695181777,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264030,
+        "num": 264030,
+        "word": "丞磊卢昱晓还原不可以噢",
+        "onboard_time": 1695194554,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231680,
+        "num": 231680,
+        "word": "李佳琦直播间评论区现状",
+        "onboard_time": 1695165207,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 229960,
+        "num": 229960,
+        "word": "张小斐张嘉倪 我好俗我好爱",
+        "onboard_time": 1695194799,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228598,
+        "num": 228598,
+        "word": "警方发3.4万条钓鱼短信321名大学生上钩",
+        "onboard_time": 1695186938,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222895,
+        "num": 222895,
+        "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
+        "onboard_time": 1695190715,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322652,
+        "num": 216633,
+        "word": "昆凌回应周杰伦演唱会意外",
+        "onboard_time": 1695194016,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207904,
+        "num": 207904,
+        "word": "谁教张予曦这么跳舞的",
+        "onboard_time": 1695194134,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199389,
+        "num": 199389,
+        "word": "喝酒就脸红的人一定要少喝",
+        "onboard_time": 1695194799,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194336,
+        "num": 194336,
+        "word": "这通勤包是怎么做到全国统一的",
+        "onboard_time": 1695193415,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179190,
+        "num": 179190,
+        "word": "超异能族",
+        "onboard_time": 1695194554,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178500,
+        "num": 178500,
+        "word": "孩子患病才发现丈夫是表外甥",
+        "onboard_time": 1695194978,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174494,
+        "num": 174494,
+        "word": "宁安如梦",
+        "onboard_time": 1695180576,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169245,
+        "num": 169245,
+        "word": "MING和GALA时尚大片",
+        "onboard_time": 1695190536,
+        "rank": 37,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 164134,
+        "num": 164134,
+        "word": "关于我们结婚了有没有剧本",
+        "onboard_time": 1695177334,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "宫远徵那句宫尚角是田嘉瑞自己加的",
+        "onboard_time": 1695189759,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158680,
+        "num": 158680,
+        "word": "旅俄大熊猫幼崽已长出黑背心",
+        "onboard_time": 1695188856,
+        "rank": 40,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 155389,
+        "num": 155389,
+        "word": "熟悉的港剧杀回来了",
+        "onboard_time": 1695185617,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144072,
+        "num": 144072,
+        "word": "穷鬼套餐",
+        "onboard_time": 1695185380,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140991,
+        "num": 140991,
+        "word": "羽生结弦方拒绝回应妻子身份",
+        "onboard_time": 1695186161,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139507,
+        "num": 139507,
+        "word": "云之羽",
+        "onboard_time": 1695191016,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132652,
+        "num": 132652,
+        "word": "利拉德说杜兰特不该加盟勇士",
+        "onboard_time": 1695194855,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126609,
+        "num": 126609,
+        "word": "韩国是不是满大街都这种发型",
+        "onboard_time": 1695171105,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126043,
+        "num": 126043,
+        "word": "五条悟还能活吗",
+        "onboard_time": 1695193836,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125530,
+        "num": 125530,
+        "word": "掌心拟邀过杨紫杨幂刘诗诗",
+        "onboard_time": 1695189158,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116379,
+        "num": 116379,
+        "word": "江苏宿迁强龙卷风受灾人口5512人",
+        "onboard_time": 1695194978,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}
