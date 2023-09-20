@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695242066067,
+  "endTime": 1695244483186,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -50843,6 +50843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64767,
+      "num": 64767,
+      "word": "国产小说界的四大天王",
+      "onboard_time": 1695241154,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 64758,
       "num": 1074725,
       "word": "夜西湖点燃亚运之夜",
@@ -51020,7 +51028,7 @@
     },
     {
       "raw_hot": 57917,
-      "num": 36249,
+      "num": 37130,
       "word": "起猛了抓间谍抓到自己弟",
       "onboard_time": 1695238514,
       "rank": 12,
@@ -51169,6 +51177,14 @@
       "onboard_time": 1694494124,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 53418,
+      "num": 53418,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 53327,
@@ -51513,14 +51529,6 @@
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44721,
-      "num": 44721,
-      "word": "上半年爆款是狂飙和长相思",
-      "onboard_time": 1695240674,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 44669,
@@ -51897,6 +51905,14 @@
       "onboard_time": 1694809694,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36692,
+      "num": 18388,
+      "word": "AirPodsPro2 样子不变新功能出现",
+      "onboard_time": 1695242414,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 36660,
@@ -52603,14 +52619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24036,
-      "num": 24036,
-      "word": "国产小说界的四大天王",
-      "onboard_time": 1695241154,
-      "rank": 23,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 23943,
       "num": 38299,
       "word": "唐禹哲不愧是年轻的身体",
@@ -52955,6 +52963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15607,
+      "num": 15607,
+      "word": "16岁读博士神童张炘炀现状",
+      "onboard_time": 1695243854,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 15478,
       "num": 369179,
       "word": "2023黄河文化月",
@@ -53027,6 +53043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9316,
+      "num": 37376,
+      "word": "在兵团遇见非遗",
+      "onboard_time": 1695240435,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9280,
       "num": 829919,
       "word": "东博会上的酷炫产品",
@@ -53040,14 +53064,6 @@
       "word": "2023服贸会有哪些科技亮点",
       "onboard_time": 1693831597,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7608,
-      "num": 34208,
-      "word": "在兵团遇见非遗",
-      "onboard_time": 1695240435,
-      "rank": 24,
       "category": "社会新闻"
     },
     {

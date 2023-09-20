@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695242066067,
+  "endTime": 1695244483186,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -10555,6 +10555,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 64767,
+      "num": 64767,
+      "word": "国产小说界的四大天王",
+      "onboard_time": 1695241154,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 64710,
       "num": 239236,
       "word": "孟晚舟称华为为世界构筑第二选择",
@@ -10604,7 +10612,7 @@
     },
     {
       "raw_hot": 57917,
-      "num": 36249,
+      "num": 37130,
       "word": "起猛了抓间谍抓到自己弟",
       "onboard_time": 1695238514,
       "rank": 12,
@@ -10625,6 +10633,14 @@
       "onboard_time": 1694968469,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53418,
+      "num": 53418,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 52093,
@@ -10691,14 +10707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44721,
-      "num": 44721,
-      "word": "上半年爆款是狂飙和长相思",
-      "onboard_time": 1695240674,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42660,
       "num": 52047,
       "word": "XYG先下一城",
@@ -10737,6 +10745,14 @@
       "onboard_time": 1694861256,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36692,
+      "num": 18388,
+      "word": "AirPodsPro2 样子不变新功能出现",
+      "onboard_time": 1695242414,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 35946,
@@ -10931,14 +10947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24036,
-      "num": 24036,
-      "word": "国产小说界的四大天王",
-      "onboard_time": 1695241154,
-      "rank": 23,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 22322,
       "num": 24349,
       "word": "海贼王和灌篮高手联动",
@@ -10993,6 +11001,14 @@
       "onboard_time": 1695069732,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 15607,
+      "num": 15607,
+      "word": "16岁读博士神童张炘炀现状",
+      "onboard_time": 1695243854,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 15478,
@@ -11051,19 +11067,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9316,
+      "num": 37376,
+      "word": "在兵团遇见非遗",
+      "onboard_time": 1695240435,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9280,
       "num": 829919,
       "word": "东博会上的酷炫产品",
       "onboard_time": 1695041194,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7608,
-      "num": 34208,
-      "word": "在兵团遇见非遗",
-      "onboard_time": 1695240435,
-      "rank": 24,
       "category": "社会新闻"
     }
   ],

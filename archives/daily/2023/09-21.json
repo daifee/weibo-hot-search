@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695242066067,
+  "endTime": 1695244483186,
   "band_list": [
     {
       "raw_hot": 1871940,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64767,
+      "num": 64767,
+      "word": "国产小说界的四大天王",
+      "onboard_time": 1695241154,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 59580,
       "num": 291026,
       "word": "杭州亚运会超全补课帖",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 57917,
-      "num": 36249,
+      "num": 37130,
       "word": "起猛了抓间谍抓到自己弟",
       "onboard_time": 1695238514,
       "rank": 12,
@@ -459,6 +467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 53418,
+      "num": 53418,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52093,
       "num": 52093,
       "word": "卿卿三思腾讯开播",
@@ -467,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44721,
-      "num": 44721,
-      "word": "上半年爆款是狂飙和长相思",
-      "onboard_time": 1695240674,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 36692,
+      "num": 18388,
+      "word": "AirPodsPro2 样子不变新功能出现",
+      "onboard_time": 1695242414,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 25550,
@@ -481,14 +497,6 @@
       "onboard_time": 1695234076,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 24036,
-      "num": 24036,
-      "word": "国产小说界的四大天王",
-      "onboard_time": 1695241154,
-      "rank": 23,
-      "category": "读书作家"
     },
     {
       "raw_hot": 20922,
@@ -515,8 +523,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7608,
-      "num": 34208,
+      "raw_hot": 15607,
+      "num": 15607,
+      "word": "16岁读博士神童张炘炀现状",
+      "onboard_time": 1695243854,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 9316,
+      "num": 37376,
       "word": "在兵团遇见非遗",
       "onboard_time": 1695240435,
       "rank": 24,
