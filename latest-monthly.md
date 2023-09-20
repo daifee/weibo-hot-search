@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 13:34:07
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 14:22:41
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@ UFO（热度：4690158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E5%B7%A8%E5%9E%8B%E8%9B%BE%E5%AD%90%E5%B8%83%E6%BB%A1%E8%A1%97%E9%81%93%23" target="weibo">
 日本出现大量巨型蛾子布满街道（热度：3986050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C%23" target="weibo">
+花西子公关部或集体离职（热度：3939737）
 </a>
 </li>
 
@@ -1125,12 +1131,6 @@ YG回应Lisa拒绝续约（热度：2504910）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C%23" target="weibo">
-花西子公关部或集体离职（热度：2223755）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%94%9F%E8%85%8C%E6%B5%B7%E9%B2%9C%E5%90%8E%E5%81%9A4%E6%AC%A1%E6%89%8B%E6%9C%AF%E5%A4%B1%E5%8E%BB1%E6%9D%A1%E8%85%BF%23" target="weibo">
 男子吃生腌海鲜后做4次手术失去1条腿（热度：2218413）
 </a>
@@ -1805,6 +1805,12 @@ iPhone15开卖（热度：1853247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E6%94%B9%E5%96%B7%E5%A4%B4%23" target="weibo">
 蜂花改喷头（热度：1840140）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%B5%B7%E5%A4%96%E5%AF%B9%E6%A0%87%E5%A5%A2%E4%BE%88%E5%93%81%23" target="weibo">
+花西子海外对标奢侈品（热度：1839833）
 </a>
 </li>
 
@@ -3231,6 +3237,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9D%A1%E6%82%9F%E8%A2%AB%E8%85%B0%E6%96%A9%23" target="weibo">
+五条悟被腰斩（热度：1295409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23" target="weibo">
 12306建议没买到票的用户立即候补（热度：1293597）
 </a>
@@ -3353,6 +3365,12 @@ iPhone15可设充电上限为80%（热度：1259719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23" target="weibo">
 Jennie演唱会哭了（热度：1256955）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
+开始担心张婉婷的精神状态（热度：1256786）
 </a>
 </li>
 
@@ -4511,12 +4529,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%B4%AB%E8%96%87%20%E7%A6%BB%E8%81%8C%23" target="weibo">
 宋紫薇 离职（热度：1001283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
-开始担心张婉婷的精神状态（热度：1000471）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BOSS直聘崩了（热度：811236）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23" target="weibo">
 成毅发了2018年的文案（热度：810561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%80%92%E4%BA%86%E4%B8%80%E4%B8%8B%23" target="weibo">
-陈哲远一怒之下怒了一下（热度：810310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%BF%90%E6%99%A8%E5%B8%A65%E6%9C%AC%E6%B0%91%E6%B3%95%E5%85%B8%E5%BD%95offer5%23" target="weibo">
-何运晨带5本民法典录offer5（热度：809450）
 </a>
 </li>
 

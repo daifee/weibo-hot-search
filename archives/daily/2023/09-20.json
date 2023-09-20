@@ -1,7 +1,15 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695188047763,
+  "endTime": 1695190961354,
   "band_list": [
+    {
+      "raw_hot": 3939737,
+      "num": 2223755,
+      "word": "花西子公关部或集体离职",
+      "onboard_time": 1695187117,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3360154,
       "num": 3360154,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2223755,
-      "num": 2223755,
-      "word": "花西子公关部或集体离职",
-      "onboard_time": 1695187117,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1977045,
       "num": 1977045,
       "word": "关于我们结婚了有没有剧本",
@@ -51,8 +51,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1839833,
+      "num": 1839833,
+      "word": "花西子海外对标奢侈品",
+      "onboard_time": 1695188437,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1765292,
-      "num": 1190787,
+      "num": 1194050,
       "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
       "onboard_time": 1695183519,
       "rank": 42,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1295409,
+      "num": 1295409,
+      "word": "五条悟被腰斩",
+      "onboard_time": 1695189576,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1259719,
       "num": 525165,
       "word": "iPhone15可设充电上限为80%",
@@ -99,8 +115,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1256786,
+      "num": 1256786,
+      "word": "开始担心张婉婷的精神状态",
+      "onboard_time": 1695184660,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139421,
-      "num": 553012,
+      "num": 577489,
       "word": "Angelababy敦煌飞天妆",
       "onboard_time": 1695185500,
       "rank": 10,
@@ -121,14 +145,6 @@
       "onboard_time": 1695182318,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1000471,
-      "num": 1000471,
-      "word": "开始担心张婉婷的精神状态",
-      "onboard_time": 1695184660,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 998247,
@@ -185,6 +201,22 @@
       "onboard_time": 1695169359,
       "rank": 3,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 726982,
+      "num": 726982,
+      "word": "警方发3.4万条钓鱼短信321名大学生上钩",
+      "onboard_time": 1695186938,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724335,
+      "num": 576015,
+      "word": "广东再添985大学",
+      "onboard_time": 1695190118,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 723299,
@@ -299,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569869,
+      "num": 569869,
+      "word": "我们恋爱吧女1撞衫赵露思",
+      "onboard_time": 1695188197,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563423,
       "num": 563423,
       "word": "美国2009年就开始入侵华为总部服务器",
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 474392,
-      "num": 539371,
+      "num": 571882,
       "word": "雷蒙多回应华为发布新手机",
       "onboard_time": 1695182197,
       "rank": 23,
@@ -425,6 +465,14 @@
       "onboard_time": 1695182380,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436235,
+      "num": 436235,
+      "word": "用这个方法很容易怀孕",
+      "onboard_time": 1695190596,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 435809,
@@ -465,14 +513,6 @@
       "onboard_time": 1695167617,
       "rank": 16,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 417882,
-      "num": 417882,
-      "word": "警方发3.4万条钓鱼短信321名大学生上钩",
-      "onboard_time": 1695186938,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414015,
@@ -635,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323864,
+      "num": 323864,
+      "word": "宫远徵那句宫尚角是田嘉瑞自己加的",
+      "onboard_time": 1695189759,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318084,
       "num": 318084,
       "word": "历代KPOP组合出道专初动TOP10",
@@ -723,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292662,
+      "num": 292662,
+      "word": "韩国4大所属社的舞蹈线条",
+      "onboard_time": 1695188556,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287836,
       "num": 287836,
       "word": "这是我的岛",
@@ -769,6 +825,14 @@
       "onboard_time": 1695114280,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261555,
+      "num": 261555,
+      "word": "旅俄大熊猫幼崽已长出黑背心",
+      "onboard_time": 1695188856,
+      "rank": 26,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 259168,
@@ -819,6 +883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 245183,
+      "num": 245183,
+      "word": "掌心拟邀过杨紫杨幂刘诗诗",
+      "onboard_time": 1695189158,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240943,
       "num": 240943,
       "word": "大唐狄公案",
@@ -833,6 +905,14 @@
       "onboard_time": 1695181300,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235361,
+      "num": 235361,
+      "word": "全职太太林双离婚或判净身出户",
+      "onboard_time": 1695188856,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 233624,
@@ -883,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214675,
+      "num": 214675,
+      "word": "黄轩一部电影把以前角色的苦都还了",
+      "onboard_time": 1695189816,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207593,
       "num": 206624,
       "word": "没想到因为我的一句抱怨同事丢了工作",
@@ -905,6 +993,14 @@
       "onboard_time": 1695182978,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203745,
+      "num": 203745,
+      "word": "咒术回战",
+      "onboard_time": 1695189936,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 203451,
@@ -971,6 +1067,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 195237,
+      "num": 195237,
+      "word": "杭州亚运会开幕式有1亿人",
+      "onboard_time": 1695187537,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 194199,
       "num": 194199,
       "word": "大众电影2023大湾区音乐汇",
@@ -1019,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187509,
-      "num": 187509,
-      "word": "杭州亚运会开幕式有1亿人",
-      "onboard_time": 1695187537,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 187465,
       "num": 187465,
       "word": "崩坏星穹铁道",
@@ -1041,6 +1137,14 @@
       "onboard_time": 1695176433,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187048,
+      "num": 187048,
+      "word": "我们恋爱吧",
+      "onboard_time": 1695190715,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 187046,
@@ -1097,6 +1201,14 @@
       "onboard_time": 1695157094,
       "rank": 24,
       "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 176711,
+      "num": 176711,
+      "word": "陈哲远坐得好高",
+      "onboard_time": 1695188437,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176162,
@@ -1179,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164894,
+      "num": 164894,
+      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
+      "onboard_time": 1695190715,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162179,
       "num": 162179,
       "word": "这开场主打一个震撼",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1695126576,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151695,
+      "num": 151695,
+      "word": "MING和GALA时尚大片",
+      "onboard_time": 1695190536,
+      "rank": 41,
+      "category": "游戏,时尚"
     },
     {
       "raw_hot": 150559,
@@ -1289,6 +1417,14 @@
       "onboard_time": 1695132460,
       "rank": 42,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 136676,
+      "num": 136676,
+      "word": "曾资助过600多名学生的老教师走了",
+      "onboard_time": 1695190834,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136551,
@@ -1412,7 +1548,7 @@
     },
     {
       "raw_hot": 93715,
-      "num": 1237314,
+      "num": 1306960,
       "word": "何以中国的文明密码",
       "onboard_time": 1695181237,
       "rank": 2,
@@ -1457,6 +1593,14 @@
       "onboard_time": 1695142585,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 63324,
+      "num": 239236,
+      "word": "孟晚舟称华为为世界构筑第二选择",
+      "onboard_time": 1695189996,
+      "rank": 30,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 50141,

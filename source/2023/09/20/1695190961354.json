@@ -1,0 +1,410 @@
+{
+  "runTime": 1695190961354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839833,
+        "num": 1839833,
+        "word": "花西子海外对标奢侈品",
+        "onboard_time": 1695188437,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3939737,
+        "num": 1833659,
+        "word": "花西子公关部或集体离职",
+        "onboard_time": 1695187117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61363,
+        "num": 1306960,
+        "word": "何以中国的文明密码",
+        "onboard_time": 1695181237,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1295409,
+        "num": 1295409,
+        "word": "五条悟被腰斩",
+        "onboard_time": 1695189576,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1256786,
+        "num": 1256786,
+        "word": "开始担心张婉婷的精神状态",
+        "onboard_time": 1695184660,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1194050,
+        "num": 1194050,
+        "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
+        "onboard_time": 1695183519,
+        "rank": 5,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 726982,
+        "num": 726982,
+        "word": "警方发3.4万条钓鱼短信321名大学生上钩",
+        "onboard_time": 1695186938,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618113,
+        "num": 618113,
+        "word": "穷鬼套餐",
+        "onboard_time": 1695185380,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 606563,
+        "num": 606563,
+        "word": "医生发朋友圈2个通宵救2命称自豪",
+        "onboard_time": 1695181777,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578295,
+        "num": 578295,
+        "word": "原来塞牙是牙齿在求救",
+        "onboard_time": 1695176616,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 916199,
+        "num": 577489,
+        "word": "Angelababy敦煌飞天妆",
+        "onboard_time": 1695185500,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 724335,
+        "num": 576015,
+        "word": "广东再添985大学",
+        "onboard_time": 1695190118,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 587403,
+        "num": 574083,
+        "word": "李佳琦直播间评论区现状",
+        "onboard_time": 1695165207,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 194121,
+        "num": 571882,
+        "word": "雷蒙多回应华为发布新手机",
+        "onboard_time": 1695182197,
+        "rank": 13,
+        "category": "国外要闻,数码"
+      },
+      {
+        "raw_hot": 185739,
+        "num": 570613,
+        "word": "洗牙只是洗出了原本的牙缝",
+        "onboard_time": 1695179559,
+        "rank": 14,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 569869,
+        "num": 569869,
+        "word": "我们恋爱吧女1撞衫赵露思",
+        "onboard_time": 1695188197,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480663,
+        "num": 480663,
+        "word": "羽生结弦方拒绝回应妻子身份",
+        "onboard_time": 1695186161,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436235,
+        "num": 436235,
+        "word": "用这个方法很容易怀孕",
+        "onboard_time": 1695190596,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424610,
+        "num": 424610,
+        "word": "沈阳患癌阿姨无麻药手术8小时",
+        "onboard_time": 1695186221,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360029,
+        "num": 360029,
+        "word": "红卫董事长亲自吃肥皂",
+        "onboard_time": 1695185079,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346756,
+        "num": 346756,
+        "word": "花西子豪掷1万份花西币",
+        "onboard_time": 1695171702,
+        "rank": 20,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 323864,
+        "num": 323864,
+        "word": "宫远徵那句宫尚角是田嘉瑞自己加的",
+        "onboard_time": 1695189759,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313307,
+        "num": 313307,
+        "word": "花西子投放覆盖几乎全部美妆小主播",
+        "onboard_time": 1695184660,
+        "rank": 22,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 296266,
+        "num": 296266,
+        "word": "宁安如梦",
+        "onboard_time": 1695180576,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292662,
+        "num": 292662,
+        "word": "韩国4大所属社的舞蹈线条",
+        "onboard_time": 1695188556,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270570,
+        "num": 270570,
+        "word": "关于我们结婚了有没有剧本",
+        "onboard_time": 1695177334,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261555,
+        "num": 261555,
+        "word": "旅俄大熊猫幼崽已长出黑背心",
+        "onboard_time": 1695188856,
+        "rank": 26,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 257596,
+        "num": 257596,
+        "word": "韩国是不是满大街都这种发型",
+        "onboard_time": 1695171105,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245183,
+        "num": 245183,
+        "word": "掌心拟邀过杨紫杨幂刘诗诗",
+        "onboard_time": 1695189158,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243795,
+        "num": 243795,
+        "word": "熟悉的港剧杀回来了",
+        "onboard_time": 1695185617,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63324,
+        "num": 239236,
+        "word": "孟晚舟称华为为世界构筑第二选择",
+        "onboard_time": 1695189996,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 235361,
+        "num": 235361,
+        "word": "全职太太林双离婚或判净身出户",
+        "onboard_time": 1695188856,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214675,
+        "num": 214675,
+        "word": "黄轩一部电影把以前角色的苦都还了",
+        "onboard_time": 1695189816,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203745,
+        "num": 203745,
+        "word": "咒术回战",
+        "onboard_time": 1695189936,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196600,
+        "num": 196600,
+        "word": "花西子道歉不够真诚不够实在",
+        "onboard_time": 1695172478,
+        "rank": 34,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 195237,
+        "num": 195237,
+        "word": "杭州亚运会开幕式有1亿人",
+        "onboard_time": 1695187537,
+        "rank": 35,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 187048,
+        "num": 187048,
+        "word": "我们恋爱吧",
+        "onboard_time": 1695190715,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176711,
+        "num": 176711,
+        "word": "陈哲远坐得好高",
+        "onboard_time": 1695188437,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173184,
+        "num": 173184,
+        "word": "iPhone15可设充电上限为80%",
+        "onboard_time": 1695169121,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164894,
+        "num": 164894,
+        "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
+        "onboard_time": 1695190715,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162055,
+        "num": 162055,
+        "word": "品冠儿子披荆斩棘reaction",
+        "onboard_time": 1695185979,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151695,
+        "num": 151695,
+        "word": "MING和GALA时尚大片",
+        "onboard_time": 1695190536,
+        "rank": 41,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 150668,
+        "num": 150668,
+        "word": "张艺兴黑粉公开道歉",
+        "onboard_time": 1695180397,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 150609,
+        "num": 150609,
+        "word": "夜色尚浅",
+        "onboard_time": 1695184477,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146283,
+        "num": 146283,
+        "word": "对收银员说太贵了我不要了",
+        "onboard_time": 1695177635,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146019,
+        "num": 146019,
+        "word": "12306回应节假日火车票涨价",
+        "onboard_time": 1695174397,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136676,
+        "num": 136676,
+        "word": "曾资助过600多名学生的老教师走了",
+        "onboard_time": 1695190834,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135490,
+        "num": 135490,
+        "word": "成都蛋烘糕摊 老板有洁癖",
+        "onboard_time": 1695179194,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126436,
+        "num": 126436,
+        "word": "伍佰 无意颠覆这个行业",
+        "onboard_time": 1695174577,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123764,
+        "num": 123764,
+        "word": "谁教夜色尚浅这么拍照的",
+        "onboard_time": 1695186760,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}
