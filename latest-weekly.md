@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/17 00:19:46 ~ 2023/09/21 02:22:09
+本榜单时间：2023/09/17 00:19:46 ~ 2023/09/21 02:35:32
 </p>
 </blockquote>
 <p>
@@ -7353,6 +7353,12 @@ F1新加坡大奖赛（热度：140025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%86%E6%89%8B%E5%90%8E%E6%B1%82%E5%92%8C%E4%B8%8D%E6%88%90%E5%88%BA%E6%AD%BB%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%AF%8D%E4%BA%B2%23" target="weibo">
+男子分手后求和不成刺死前女友母亲（热度：137188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B314%23" target="weibo">
 最终幻想14（热度：136678）
 </a>
@@ -7793,12 +7799,6 @@ XYG赛点（热度：104439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%90%86%E8%A7%A3%E4%BA%86%E5%A5%B3%E5%84%BF%E5%A5%B9%E5%B0%B1%E4%B8%8D%E5%86%8D%E6%98%AF%E5%AD%A4%E5%86%9B%E5%A5%8B%E6%88%98%23" target="weibo">
 当理解了女儿她就不再是孤军奋战（热度：80175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%86%E6%89%8B%E5%90%8E%E6%B1%82%E5%92%8C%E4%B8%8D%E6%88%90%E5%88%BA%E6%AD%BB%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%AF%8D%E4%BA%B2%23" target="weibo">
-男子分手后求和不成刺死前女友母亲（热度：79949）
 </a>
 </li>
 
