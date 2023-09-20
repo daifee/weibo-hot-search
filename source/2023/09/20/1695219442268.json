@@ -1,0 +1,410 @@
+{
+  "runTime": 1695219442268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1894712,
+        "num": 1894712,
+        "word": "傅首尔 在这个世界上得到过爱就很幸福了",
+        "onboard_time": 1695212017,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1189626,
+        "num": 1189626,
+        "word": "卓晴cp",
+        "onboard_time": 1695209735,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412598,
+        "num": 786450,
+        "word": "世界都知道了杭州有多美",
+        "onboard_time": 1695216997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764122,
+        "num": 764122,
+        "word": "日媒曝羽生结弦妻子是中国人",
+        "onboard_time": 1695195758,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715862,
+        "num": 715862,
+        "word": "中国女排2比3加拿大女排",
+        "onboard_time": 1695218619,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641395,
+        "num": 641395,
+        "word": "心动的信号6成了四对",
+        "onboard_time": 1695210757,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580313,
+        "num": 580313,
+        "word": "删除的所有QQ空间都在这里",
+        "onboard_time": 1695193836,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 534698,
+        "num": 534698,
+        "word": "曾昭颢亲了张巾",
+        "onboard_time": 1695216698,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489125,
+        "num": 489125,
+        "word": "谁把成毅耳朵煮了",
+        "onboard_time": 1695213215,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196950,
+        "num": 487871,
+        "word": "加满一箱或将多花14.5元",
+        "onboard_time": 1695205360,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1546819,
+        "num": 479857,
+        "word": "她可是你嫂子",
+        "onboard_time": 1695203916,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1500437,
+        "num": 475307,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1473143,
+        "num": 470060,
+        "word": "李佳琦直播间仍有千万观看",
+        "onboard_time": 1695203796,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 125889,
+        "num": 465361,
+        "word": "国内成品油价年内第十涨",
+        "onboard_time": 1695203676,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86722,
+        "num": 462680,
+        "word": "杭州亚运会超全补课帖",
+        "onboard_time": 1695217238,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587800,
+        "num": 456111,
+        "word": "今朝cp官宣",
+        "onboard_time": 1695213336,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530057,
+        "num": 451576,
+        "word": "花西子旗下多家公司0人参保",
+        "onboard_time": 1695202778,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447556,
+        "num": 447556,
+        "word": "张小斐新角色是我的互联网手替",
+        "onboard_time": 1695218019,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442281,
+        "num": 442281,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1695215074,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 421272,
+        "num": 421272,
+        "word": "钧侯cp官宣",
+        "onboard_time": 1695218919,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1119276,
+        "num": 414916,
+        "word": "月薪6000小伙为见女主播打赏9000万元",
+        "onboard_time": 1695215675,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619521,
+        "num": 410190,
+        "word": "杜海涛亲沈梦辰不让妈妈看",
+        "onboard_time": 1695217656,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404098,
+        "num": 404098,
+        "word": "于适 蓝翔系爱豆",
+        "onboard_time": 1695218738,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334982,
+        "num": 334982,
+        "word": "中国女排vs加拿大女排",
+        "onboard_time": 1695211959,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332393,
+        "num": 332393,
+        "word": "丈夫如厕常不关门妻子下跪磕头恳求",
+        "onboard_time": 1695202956,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331771,
+        "num": 331771,
+        "word": "赵丽颖是周放的宣传委员",
+        "onboard_time": 1695209735,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330581,
+        "num": 330581,
+        "word": "哇唧唧哇真的挖了",
+        "onboard_time": 1695215796,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327978,
+        "num": 327978,
+        "word": "檀健次直播",
+        "onboard_time": 1695218676,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318882,
+        "num": 318882,
+        "word": "千万不要闻脱下来的袜子",
+        "onboard_time": 1695205897,
+        "rank": 28,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 402652,
+        "num": 313654,
+        "word": "侯卓成杨汝晴亲了四次",
+        "onboard_time": 1695214836,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615079,
+        "num": 302010,
+        "word": "老刘再次对着傅首尔唱出十五年前的歌",
+        "onboard_time": 1695218676,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284429,
+        "num": 284429,
+        "word": "没想到一整箱猕猴桃都是生的",
+        "onboard_time": 1695216698,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 281306,
+        "num": 281306,
+        "word": "金熊猫奖",
+        "onboard_time": 1695217903,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279802,
+        "num": 279802,
+        "word": "第一次见男主纯情到接吻噘嘴的",
+        "onboard_time": 1695193654,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277065,
+        "num": 277065,
+        "word": "一封信",
+        "onboard_time": 1695211117,
+        "rank": 34,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 279129,
+        "num": 273112,
+        "word": "于适的26亿福利是开挖掘机",
+        "onboard_time": 1695215138,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262609,
+        "num": 262609,
+        "word": "五条悟被腰斩",
+        "onboard_time": 1695189576,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 249034,
+        "num": 249034,
+        "word": "时代少年团直播",
+        "onboard_time": 1695215558,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243846,
+        "num": 243846,
+        "word": "感觉大家都不管丞磊叔叔死活了",
+        "onboard_time": 1695205958,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51323,
+        "num": 235887,
+        "word": "网约车司机担任第87棒火炬手",
+        "onboard_time": 1695210215,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 233825,
+        "num": 233825,
+        "word": "武汉三镇补时遭绝平",
+        "onboard_time": 1695219218,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232381,
+        "num": 232381,
+        "word": "当你的结婚海报忘在酒店",
+        "onboard_time": 1695218979,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229332,
+        "num": 229332,
+        "word": "武汉三镇vs浦和红钻",
+        "onboard_time": 1695212017,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223971,
+        "num": 223971,
+        "word": "为什么年轻人手机都不离身",
+        "onboard_time": 1695213215,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218170,
+        "num": 218170,
+        "word": "檀健次出演猎罪图鉴2",
+        "onboard_time": 1695203736,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212070,
+        "num": 212070,
+        "word": "极限男人帮新综艺",
+        "onboard_time": 1695196054,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197627,
+        "num": 197627,
+        "word": "邓为字母脸链",
+        "onboard_time": 1695209135,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192387,
+        "num": 192387,
+        "word": "在直播开玩笑里又给我嗑到了夜色尚浅",
+        "onboard_time": 1695202597,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190297,
+        "num": 190297,
+        "word": "李盈莹一人拿下30分",
+        "onboard_time": 1695219400,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189895,
+        "num": 189895,
+        "word": "戴维森造点",
+        "onboard_time": 1695216997,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾在杭州工作6年的习近平这样介绍杭州#"
+    }
+  }
+}
