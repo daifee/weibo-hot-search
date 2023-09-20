@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695230120707,
+  "endTime": 1695231252688,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -10609,6 +10609,14 @@
       "onboard_time": 1695132403,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 49934,
+      "num": 60032,
+      "word": "大学生打工半月仅赚100元崩溃打人",
+      "onboard_time": 1695230543,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49054,
