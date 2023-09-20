@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695238446253,
+  "endTime": 1695241063962,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -10619,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54767,
+      "num": 33765,
+      "word": "起猛了抓间谍抓到自己弟",
+      "onboard_time": 1695238514,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52093,
       "num": 52093,
       "word": "卿卿三思腾讯开播",
@@ -10915,6 +10923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23999,
+      "num": 23999,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22322,
       "num": 24349,
       "word": "海贼王和灌篮高手联动",
@@ -10945,6 +10961,14 @@
       "onboard_time": 1695234980,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20745,
+      "num": 20421,
+      "word": "第一次觉得逛超市这么痛",
+      "onboard_time": 1695238034,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 19434,
@@ -11024,6 +11048,14 @@
       "word": "东博会上的酷炫产品",
       "onboard_time": 1695041194,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7608,
+      "num": 23490,
+      "word": "在兵团遇见非遗",
+      "onboard_time": 1695240435,
+      "rank": 24,
       "category": "社会新闻"
     }
   ],

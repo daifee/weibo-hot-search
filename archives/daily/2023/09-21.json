@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695238446253,
+  "endTime": 1695241063962,
   "band_list": [
     {
       "raw_hot": 1871940,
@@ -451,6 +451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 54767,
+      "num": 33765,
+      "word": "起猛了抓间谍抓到自己弟",
+      "onboard_time": 1695238514,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52093,
       "num": 52093,
       "word": "卿卿三思腾讯开播",
@@ -467,12 +475,44 @@
       "category": "科技"
     },
     {
+      "raw_hot": 23999,
+      "num": 23999,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20922,
       "num": 22226,
       "word": "有梗就接黄铉辰",
       "onboard_time": 1695234980,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20745,
+      "num": 20421,
+      "word": "第一次觉得逛超市这么痛",
+      "onboard_time": 1695238034,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18100,
+      "num": 15568,
+      "word": "今朝cp官宣",
+      "onboard_time": 1695213336,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7608,
+      "num": 23490,
+      "word": "在兵团遇见非遗",
+      "onboard_time": 1695240435,
+      "rank": 24,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
