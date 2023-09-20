@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695220516905,
+  "endTime": 1695223023922,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2002934,
+      "num": 2002934,
+      "word": "洁柔直播间输错价格亏损千万",
+      "onboard_time": 1695221138,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2000170,
       "num": 547722,
       "word": "傅首尔 老刘",
@@ -537,6 +545,14 @@
       "onboard_time": 1694920056,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1591326,
+      "num": 1591326,
+      "word": "北极兔cp",
+      "onboard_time": 1695220720,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1547791,
@@ -3347,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465335,
+      "num": 465335,
+      "word": "想念朱婷",
+      "onboard_time": 1695221917,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464532,
       "num": 464532,
       "word": "iOS17",
@@ -3804,7 +3828,7 @@
     },
     {
       "raw_hot": 412598,
-      "num": 933369,
+      "num": 1353254,
       "word": "世界都知道了杭州有多美",
       "onboard_time": 1695216997,
       "rank": 2,
@@ -3841,6 +3865,14 @@
       "onboard_time": 1694962838,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408765,
+      "num": 408765,
+      "word": "金熊猫奖获奖名单",
+      "onboard_time": 1695221677,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 404894,
@@ -4273,6 +4305,14 @@
       "onboard_time": 1694934514,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367079,
+      "num": 367079,
+      "word": "文豪野犬",
+      "onboard_time": 1695221078,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 366763,
@@ -4761,6 +4801,14 @@
       "onboard_time": 1695021700,
       "rank": 30,
       "category": "幽默,动物萌宠"
+    },
+    {
+      "raw_hot": 331520,
+      "num": 331520,
+      "word": "太宰治没死",
+      "onboard_time": 1695222577,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 331496,
@@ -5835,6 +5883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 271635,
+      "num": 271635,
+      "word": "文咏珊干枯玫瑰妆",
+      "onboard_time": 1695221258,
+      "rank": 28,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 271441,
       "num": 271441,
       "word": "原来石榴粒也可以是玫瑰",
@@ -6011,12 +6067,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 261043,
+      "num": 261043,
+      "word": "杨丞琳孟子义何超莲哭惨了",
+      "onboard_time": 1695220601,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260767,
       "num": 260767,
       "word": "0713吵架永远好笑",
       "onboard_time": 1694908588,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260297,
+      "num": 260297,
+      "word": "原来这底下竟然还能住人啊",
+      "onboard_time": 1695220538,
+      "rank": 32,
+      "category": "其它"
     },
     {
       "raw_hot": 260047,
@@ -8203,6 +8275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187551,
+      "num": 187551,
+      "word": "安宥真米兰时装周",
+      "onboard_time": 1695222519,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187465,
       "num": 187465,
       "word": "崩坏星穹铁道",
@@ -8417,6 +8497,14 @@
       "onboard_time": 1694921135,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181122,
+      "num": 181122,
+      "word": "袁心玥连续拦网",
+      "onboard_time": 1695221740,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 180832,
@@ -8817,6 +8905,14 @@
       "onboard_time": 1695182618,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170155,
+      "num": 170155,
+      "word": "龚俊亮相米兰时装周",
+      "onboard_time": 1695222819,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170110,
@@ -9923,6 +10019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 113344,
+      "num": 500199,
+      "word": "杭州亚运会超全补课帖",
+      "onboard_time": 1695217238,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111157,
       "num": 448502,
       "word": "原神百万奖金公开赛",
@@ -10008,14 +10112,6 @@
       "word": "00后民警第1次收到锦旗是汪星人送的",
       "onboard_time": 1695153854,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100056,
-      "num": 500199,
-      "word": "杭州亚运会超全补课帖",
-      "onboard_time": 1695217238,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -10823,6 +10919,9 @@
     },
     {
       "word": "#曾在杭州工作6年的习近平这样介绍杭州#"
+    },
+    {
+      "word": "#读懂总书记对他们的深切关爱#"
     }
   ]
 }
