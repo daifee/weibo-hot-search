@@ -1,0 +1,410 @@
+{
+  "runTime": 1695177244042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1339914,
+        "num": 1339914,
+        "word": "12306称不可能给第三方平台优先购票权",
+        "onboard_time": 1695170504,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805026,
+        "num": 805026,
+        "word": "何炅 好朋友都是阶段性的",
+        "onboard_time": 1695138222,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26373,
+        "num": 759498,
+        "word": "亚运会首个比赛日中国沙滩排球三战全胜",
+        "onboard_time": 1695128976,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413525,
+        "num": 759287,
+        "word": "韩国是不是满大街都这种发型",
+        "onboard_time": 1695171105,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 758692,
+        "num": 758692,
+        "word": "12306回应节假日火车票涨价",
+        "onboard_time": 1695174397,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630540,
+        "num": 630540,
+        "word": "花西子道歉不够真诚不够实在",
+        "onboard_time": 1695172478,
+        "rank": 5,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 521273,
+        "num": 521273,
+        "word": "读研究生之后才会知道的真相",
+        "onboard_time": 1695172177,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 414015,
+        "num": 414015,
+        "word": "伍佰 无意颠覆这个行业",
+        "onboard_time": 1695174577,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394504,
+        "num": 394504,
+        "word": "这是秋田 这是柴犬",
+        "onboard_time": 1695169359,
+        "rank": 8,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 385702,
+        "num": 385702,
+        "word": "4岁孩子坠楼邻居们秒变超级英雄",
+        "onboard_time": 1695173857,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2321367,
+        "num": 384652,
+        "word": "花西子豪掷1万份花西币",
+        "onboard_time": 1695171702,
+        "rank": 10,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1679049,
+        "num": 384199,
+        "word": "李佳琦直播间评论区现状",
+        "onboard_time": 1695165207,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 513689,
+        "num": 382829,
+        "word": "iPhone15可设充电上限为80%",
+        "onboard_time": 1695169121,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287794,
+        "num": 381582,
+        "word": "60岁教授心脏骤停学生联手施救",
+        "onboard_time": 1695169840,
+        "rank": 13,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 225897,
+        "num": 379815,
+        "word": "警方通报石家庄一小区人员坠亡",
+        "onboard_time": 1695171105,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479709,
+        "num": 378475,
+        "word": "这个媳妇确实遥遥领先",
+        "onboard_time": 1695164966,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377608,
+        "num": 377608,
+        "word": "杨洋韩立黑衣斗笠造型",
+        "onboard_time": 1695176076,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 347931,
+        "num": 347931,
+        "word": "3岁孙女上幼儿园奶奶哭了一上午",
+        "onboard_time": 1695170199,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299722,
+        "num": 299722,
+        "word": "重庆一幼儿园伙食犹如满汉全席",
+        "onboard_time": 1695173976,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293907,
+        "num": 293907,
+        "word": "瑞幸客服回应与哈利波特联名",
+        "onboard_time": 1695170560,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 377718,
+        "num": 293526,
+        "word": "原来塞牙是牙齿在求救",
+        "onboard_time": 1695176616,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354263,
+        "num": 292037,
+        "word": "2024优酷片单",
+        "onboard_time": 1695175776,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285991,
+        "num": 285991,
+        "word": "你谈不上恋爱的原因",
+        "onboard_time": 1695173796,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229448,
+        "num": 229448,
+        "word": "华为夺得中国智能手机市场第二",
+        "onboard_time": 1695165268,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216613,
+        "num": 216613,
+        "word": "被自己五天的掉发量惊到了",
+        "onboard_time": 1695175357,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189782,
+        "num": 189782,
+        "word": "花西子发声",
+        "onboard_time": 1695117576,
+        "rank": 25,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 187192,
+        "num": 187192,
+        "word": "阴阳师手游",
+        "onboard_time": 1695176433,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179981,
+        "num": 179981,
+        "word": "华为或将发布中端5G手机",
+        "onboard_time": 1695170742,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167272,
+        "num": 167272,
+        "word": "液体猫和固体猫",
+        "onboard_time": 1695172360,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 166343,
+        "num": 166343,
+        "word": "瑞幸要和哈利波特联名了吗",
+        "onboard_time": 1695167499,
+        "rank": 29,
+        "category": "美食,电影"
+      },
+      {
+        "raw_hot": 186845,
+        "num": 161604,
+        "word": "何同学iPhone15评测",
+        "onboard_time": 1695168877,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172174,
+        "num": 159334,
+        "word": "猫和老鼠是纪录片的证据",
+        "onboard_time": 1695175899,
+        "rank": 31,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 156289,
+        "num": 156289,
+        "word": "餐厅员工发顾客打娃视频后赔1万离职",
+        "onboard_time": 1695167193,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150356,
+        "num": 150356,
+        "word": "张彬彬不像是看秀的像是去走秀的",
+        "onboard_time": 1695173379,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141274,
+        "num": 141274,
+        "word": "刘大美人直播卖888的手机网上630能买到",
+        "onboard_time": 1695167617,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 136029,
+        "num": 136029,
+        "word": "谁家女主第一集就被出轨",
+        "onboard_time": 1695146298,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134678,
+        "num": 134678,
+        "word": "一个月瘦8斤的训练方法",
+        "onboard_time": 1695139054,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132279,
+        "num": 132279,
+        "word": "网红路牌一下子就顺眼了",
+        "onboard_time": 1695174874,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128296,
+        "num": 128296,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 38,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 126150,
+        "num": 126150,
+        "word": "女生求职被拒后收到HR邮件教写简历",
+        "onboard_time": 1695166955,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123582,
+        "num": 123582,
+        "word": "美国2009年就开始入侵华为总部服务器",
+        "onboard_time": 1695176973,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118261,
+        "num": 118261,
+        "word": "邓为 迪奥",
+        "onboard_time": 1695132460,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116509,
+        "num": 116509,
+        "word": "董宇辉 短暂的一生不要尝试讨好每个人",
+        "onboard_time": 1695139536,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 113151,
+        "num": 113151,
+        "word": "欧冠",
+        "onboard_time": 1695172900,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109982,
+        "num": 109982,
+        "word": "韩庚魏大勋是何炅介绍认识的",
+        "onboard_time": 1695173197,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109781,
+        "num": 109781,
+        "word": "宋佳 女生之间不只有嫉妒",
+        "onboard_time": 1695139954,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106212,
+        "num": 106212,
+        "word": "假如伍佰听说薛之谦演唱会取消",
+        "onboard_time": 1695167857,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105750,
+        "num": 105750,
+        "word": "荣耀CEO赵明称荣耀回归华为绝无可能",
+        "onboard_time": 1695169000,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105557,
+        "num": 105557,
+        "word": "征服韩国小学生的中国零食",
+        "onboard_time": 1695167254,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102292,
+        "num": 102292,
+        "word": "不要叫我羽公子叫我宫子牛",
+        "onboard_time": 1695169903,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为向阳而生的他们多扫些障碍加些便利#"
+    }
+  }
+}
