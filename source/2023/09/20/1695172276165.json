@@ -1,0 +1,410 @@
+{
+  "runTime": 1695172276165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669005,
+        "num": 1669005,
+        "word": "何炅 好朋友都是阶段性的",
+        "onboard_time": 1695138222,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1168768,
+        "num": 1168768,
+        "word": "12306称不可能给第三方平台优先购票权",
+        "onboard_time": 1695170504,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48544,
+        "num": 798215,
+        "word": "亚运会首个比赛日中国沙滩排球三战全胜",
+        "onboard_time": 1695128976,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753622,
+        "num": 753622,
+        "word": "这是秋田 这是柴犬",
+        "onboard_time": 1695169359,
+        "rank": 3,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 723299,
+        "num": 723299,
+        "word": "瑞幸要和哈利波特联名了吗",
+        "onboard_time": 1695167499,
+        "rank": 4,
+        "category": "美食,电影"
+      },
+      {
+        "raw_hot": 684500,
+        "num": 684500,
+        "word": "3岁孙女上幼儿园奶奶哭了一上午",
+        "onboard_time": 1695170199,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2817215,
+        "num": 665024,
+        "word": "李佳琦直播间评论区现状",
+        "onboard_time": 1695165207,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 613370,
+        "num": 613370,
+        "word": "瑞幸客服回应与哈利波特联名",
+        "onboard_time": 1695170560,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 605942,
+        "num": 605942,
+        "word": "餐厅员工发顾客打娃视频后赔1万离职",
+        "onboard_time": 1695167193,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530142,
+        "num": 530142,
+        "word": "华为夺得中国智能手机市场第二",
+        "onboard_time": 1695165268,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1378944,
+        "num": 530109,
+        "word": "这个媳妇确实遥遥领先",
+        "onboard_time": 1695164966,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259719,
+        "num": 525165,
+        "word": "iPhone15可设充电上限为80%",
+        "onboard_time": 1695169121,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 512532,
+        "num": 512532,
+        "word": "60岁教授心脏骤停学生联手施救",
+        "onboard_time": 1695169840,
+        "rank": 12,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 465646,
+        "num": 465646,
+        "word": "警方通报石家庄一小区人员坠亡",
+        "onboard_time": 1695171105,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198847,
+        "num": 438867,
+        "word": "起底美国情报机关网攻窃密主要卑劣手段",
+        "onboard_time": 1695167556,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 879183,
+        "num": 435422,
+        "word": "韩国是不是满大街都这种发型",
+        "onboard_time": 1695171105,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422865,
+        "num": 422865,
+        "word": "刘大美人直播卖888的手机网上630能买到",
+        "onboard_time": 1695167617,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 403634,
+        "num": 403634,
+        "word": "女生求职被拒后收到HR邮件教写简历",
+        "onboard_time": 1695166955,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375208,
+        "num": 375208,
+        "word": "花西子发声",
+        "onboard_time": 1695117576,
+        "rank": 18,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 369848,
+        "num": 369848,
+        "word": "假如伍佰听说薛之谦演唱会取消",
+        "onboard_time": 1695167857,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364341,
+        "num": 364341,
+        "word": "征服韩国小学生的中国零食",
+        "onboard_time": 1695167254,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348191,
+        "num": 348191,
+        "word": "二公子罗成是懂当老板的",
+        "onboard_time": 1695169178,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316720,
+        "num": 316720,
+        "word": "不要叫我羽公子叫我宫子牛",
+        "onboard_time": 1695169903,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301237,
+        "num": 301237,
+        "word": "华为或将发布中端5G手机",
+        "onboard_time": 1695170742,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298624,
+        "num": 298624,
+        "word": "荣耀CEO赵明称荣耀回归华为绝无可能",
+        "onboard_time": 1695169000,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 272000,
+        "num": 272000,
+        "word": "再见爱人 只有怨妇没有怨夫",
+        "onboard_time": 1695140372,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271041,
+        "num": 271041,
+        "word": "一个月瘦8斤的训练方法",
+        "onboard_time": 1695139054,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 231200,
+        "num": 231200,
+        "word": "建议洗澡不要先洗头",
+        "onboard_time": 1695109778,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 224080,
+        "num": 224080,
+        "word": "谁家女主第一集就被出轨",
+        "onboard_time": 1695146298,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221540,
+        "num": 221540,
+        "word": "每天5点起床身体有什么变化",
+        "onboard_time": 1695137797,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 484488,
+        "num": 221460,
+        "word": "何同学iPhone15评测",
+        "onboard_time": 1695168877,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 414583,
+        "num": 221238,
+        "word": "花西子豪掷1万份花西币",
+        "onboard_time": 1695171702,
+        "rank": 31,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 219435,
+        "num": 219435,
+        "word": "邓为 迪奥",
+        "onboard_time": 1695132460,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206624,
+        "num": 206624,
+        "word": "没想到因为我的一句抱怨同事丢了工作",
+        "onboard_time": 1695164908,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190272,
+        "num": 190272,
+        "word": "董宇辉 短暂的一生不要尝试讨好每个人",
+        "onboard_time": 1695139536,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 186964,
+        "num": 186964,
+        "word": "马斯克脑机公司将进行人体试验",
+        "onboard_time": 1695170078,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176904,
+        "num": 176904,
+        "word": "papi酱我的震惊划破天际",
+        "onboard_time": 1695135404,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159422,
+        "num": 159422,
+        "word": "研究生上课 没有课本",
+        "onboard_time": 1695129097,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157923,
+        "num": 157923,
+        "word": "SEVENTEEN官宣10月23日回归",
+        "onboard_time": 1695165087,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156799,
+        "num": 156799,
+        "word": "下一个会消失的电子产品是什么",
+        "onboard_time": 1695133121,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153658,
+        "num": 153658,
+        "word": "大一新生没去报道被辅导员移出班级群",
+        "onboard_time": 1695134744,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 150559,
+        "num": 150559,
+        "word": "夜色尚浅还有多少好东西",
+        "onboard_time": 1695168458,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145084,
+        "num": 145084,
+        "word": "王者荣耀S33新赛季",
+        "onboard_time": 1695165148,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136163,
+        "num": 136163,
+        "word": "马伯庸 隔壁坐了个中国人民的老朋友",
+        "onboard_time": 1695164124,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125244,
+        "num": 125244,
+        "word": "为什么饺子很好吃却很难消化",
+        "onboard_time": 1695132460,
+        "rank": 44,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 125113,
+        "num": 125113,
+        "word": "读研究生之后才会知道的真相",
+        "onboard_time": 1695172177,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124128,
+        "num": 124128,
+        "word": "宋佳 女生之间不只有嫉妒",
+        "onboard_time": 1695139954,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123600,
+        "num": 123600,
+        "word": "魏大勋新剧恋情一天就失恋",
+        "onboard_time": 1695145699,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118690,
+        "num": 118690,
+        "word": "檀健次 emo是人生另一个方向的萌芽",
+        "onboard_time": 1695165087,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113013,
+        "num": 113013,
+        "word": "意外失去左腿后他把自己变成了钢铁侠",
+        "onboard_time": 1695135582,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}
