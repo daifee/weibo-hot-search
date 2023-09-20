@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 11:34:05
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 12:20:18
 </p>
 </blockquote>
 <p>
@@ -1079,6 +1079,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E9%9C%B2%E9%9D%A2%23" target="weibo">
 李子柒露面（热度：2260406）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
+原来塞牙是牙齿在求救（热度：2257177）
 </a>
 </li>
 
@@ -3243,12 +3249,6 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
-原来塞牙是牙齿在求救（热度：1282195）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9D%A5%E6%BC%94%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
 虞书欣张凌赫来演云之羽的原因一模一样（热度：1281897）
 </a>
@@ -4629,6 +4629,12 @@ TTG金色雨（热度：976290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%9B%8B%E7%83%98%E7%B3%95%E6%91%8A%20%E8%80%81%E6%9D%BF%E6%9C%89%E6%B4%81%E7%99%96%23" target="weibo">
+成都蛋烘糕摊 老板有洁癖（热度：975649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%AA%E8%B0%A2%E7%B2%89%E4%B8%9D%23" target="weibo">
 王力宏演唱会跪谢粉丝（热度：975177）
 </a>
@@ -5193,6 +5199,12 @@ iPhone15机型比例为3比1（热度：906244）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%882%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%95%912%E5%91%BD%E7%A7%B0%E8%87%AA%E8%B1%AA%23" target="weibo">
+医生发朋友圈2个通宵救2命称自豪（热度：900144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E9%B9%A4%E5%B2%97%E5%A5%B3%E5%AD%90%E8%BF%98%E8%B4%B710%E5%B9%B4%E6%88%BF%E5%AD%90%E8%A2%AB%E5%8D%A0%23" target="weibo">
 法院回应鹤岗女子还贷10年房子被占（热度：899284）
 </a>
@@ -5709,12 +5721,6 @@ TFBOYS为王源新综艺宣传（热度：867815）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%9B%8B%E7%83%98%E7%B3%95%E6%91%8A%20%E8%80%81%E6%9D%BF%E6%9C%89%E6%B4%81%E7%99%96%23" target="weibo">
-成都蛋烘糕摊 老板有洁癖（热度：832982）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23" target="weibo">
 4000万中央资金建3个项目竟全烂尾（热度：832257）
 </a>
@@ -6005,12 +6011,6 @@ BOSS直聘崩了（热度：811236）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%B2%B9%E6%9D%A1%E5%85%A8%E6%98%AF%E9%9D%A2%E5%8C%85%E5%8F%A3%E6%84%9F%23" target="weibo">
 为什么现在的油条全是面包口感（热度：807276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E9%9B%B7%E9%9C%87%E5%AD%90%E5%80%92%E7%AB%8B%E6%B4%97%E5%A4%B4%23" target="weibo">
-封神雷震子倒立洗头（热度：807214）
 </a>
 </li>
 

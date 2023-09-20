@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695180845603,
+  "endTime": 1695183618979,
   "band_list": [
     {
       "raw_hot": 3360154,
@@ -25,6 +25,14 @@
       "onboard_time": 1695171702,
       "rank": 31,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 2257177,
+      "num": 2257177,
+      "word": "原来塞牙是牙齿在求救",
+      "onboard_time": 1695176616,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1977045,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1282195,
-      "num": 1282195,
-      "word": "原来塞牙是牙齿在求救",
-      "onboard_time": 1695176616,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1259719,
       "num": 525165,
       "word": "iPhone15可设充电上限为80%",
@@ -91,12 +91,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 832982,
-      "num": 832982,
+      "raw_hot": 975649,
+      "num": 975649,
       "word": "成都蛋烘糕摊 老板有洁癖",
       "onboard_time": 1695179194,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 900144,
+      "num": 900144,
+      "word": "医生发朋友圈2个通宵救2命称自豪",
+      "onboard_time": 1695181777,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817800,
@@ -131,12 +139,36 @@
       "category": "美食,电影"
     },
     {
+      "raw_hot": 704973,
+      "num": 581117,
+      "word": "宁安如梦",
+      "onboard_time": 1695180576,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 686862,
+      "num": 686862,
+      "word": "洗牙只是洗出了原本的牙缝",
+      "onboard_time": 1695179559,
+      "rank": 38,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 684500,
       "num": 684500,
       "word": "3岁孙女上幼儿园奶奶哭了一上午",
       "onboard_time": 1695170199,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676082,
+      "num": 676082,
+      "word": "献鱼",
+      "onboard_time": 1695178956,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 636294,
@@ -177,6 +209,22 @@
       "onboard_time": 1695167193,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588727,
+      "num": 588727,
+      "word": "第一次看见存嫁妆是为了不嫁的",
+      "onboard_time": 1695182318,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585252,
+      "num": 585252,
+      "word": "长期喝带有水垢的水会不会得肾结石",
+      "onboard_time": 1695178114,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 580944,
@@ -220,7 +268,7 @@
     },
     {
       "raw_hot": 530679,
-      "num": 325707,
+      "num": 331763,
       "word": "张艺兴黑粉公开道歉",
       "onboard_time": 1695180397,
       "rank": 20,
@@ -241,14 +289,6 @@
       "onboard_time": 1695172177,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 519504,
-      "num": 519504,
-      "word": "长期喝带有水垢的水会不会得肾结石",
-      "onboard_time": 1695178114,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 512532,
@@ -355,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378661,
+      "num": 378661,
+      "word": "宁安如梦官微终于更新了",
+      "onboard_time": 1695182380,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372491,
       "num": 340637,
       "word": "对收银员说太贵了我不要了",
@@ -419,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345911,
+      "num": 331486,
+      "word": "金智秀新电影造型",
+      "onboard_time": 1695181300,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 343327,
       "num": 343327,
       "word": "披荆斩棘真的是减肥训练营",
       "onboard_time": 1695178300,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334974,
-      "num": 334974,
-      "word": "献鱼",
-      "onboard_time": 1695178956,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 333282,
@@ -443,12 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 328917,
-      "num": 328917,
-      "word": "洗牙只是洗出了原本的牙缝",
-      "onboard_time": 1695179559,
-      "rank": 38,
-      "category": "社会新闻,健康医疗"
+      "raw_hot": 331153,
+      "num": 331153,
+      "word": "面试问我怎么一个星期涨粉1000",
+      "onboard_time": 1695182497,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 330828,
+      "num": 330828,
+      "word": "雷蒙多回应华为发布新手机",
+      "onboard_time": 1695182197,
+      "rank": 23,
+      "category": "国外要闻,科技"
     },
     {
       "raw_hot": 324463,
@@ -475,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312335,
+      "num": 312335,
+      "word": "6岁姐姐一句暗号救出被困弟弟",
+      "onboard_time": 1695182018,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305056,
       "num": 305056,
       "word": "Uzi亚运赛场书写历史一刻",
       "onboard_time": 1695180102,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304384,
-      "num": 304384,
-      "word": "宁安如梦",
-      "onboard_time": 1695180576,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 301237,
@@ -563,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271209,
+      "num": 271209,
+      "word": "张艺谋说张国立演得不能再好了",
+      "onboard_time": 1695182918,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270733,
       "num": 270733,
       "word": "封神第二部概念设计图",
@@ -625,6 +689,22 @@
       "onboard_time": 1695135165,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 240621,
+      "num": 240621,
+      "word": "男子带抑郁症妻子送外卖疑似摆拍",
+      "onboard_time": 1695181300,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234390,
+      "num": 234390,
+      "word": "这是我的岛",
+      "onboard_time": 1695181717,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 233624,
@@ -691,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205655,
+      "num": 205655,
+      "word": "张婧仪曾可妮在雨天牵手狂奔",
+      "onboard_time": 1695182978,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202115,
       "num": 202115,
       "word": "iPhone15Pro系列评测",
@@ -729,6 +817,14 @@
       "onboard_time": 1695117758,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191163,
+      "num": 191163,
+      "word": "iPhone15系列C口带来了哪些变化",
+      "onboard_time": 1695183219,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 190975,
@@ -867,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172117,
+      "num": 172117,
+      "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
+      "onboard_time": 1695183519,
+      "rank": 42,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 171757,
       "num": 171757,
       "word": "国庆三倍工资加班你愿意吗",
@@ -875,12 +979,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170764,
+      "num": 170764,
+      "word": "要久久爱最新海报",
+      "onboard_time": 1695182618,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166965,
       "num": 166965,
       "word": "辅警上班途中秒变装狂奔数百米上岗",
       "onboard_time": 1695177454,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165304,
+      "num": 165304,
+      "word": "确实看不见汪苏泷脸上的挣扎",
+      "onboard_time": 1695180878,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 162179,
@@ -953,6 +1073,14 @@
       "onboard_time": 1695133605,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145062,
+      "num": 145062,
+      "word": "鹦鹉杀周冬雨章宇眼神拉扯",
+      "onboard_time": 1695183580,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 139985,
@@ -1097,6 +1225,14 @@
       "onboard_time": 1695159253,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93715,
+      "num": 1006959,
+      "word": "何以中国的文明密码",
+      "onboard_time": 1695181237,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 77534,
