@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695231252688,
+  "endTime": 1695234129205,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -50227,6 +50227,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 79949,
+      "num": 60294,
+      "word": "男子分手后求和不成刺死前女友母亲",
+      "onboard_time": 1695232459,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79893,
       "num": 79893,
       "word": "霍楠徐静雨对线",
@@ -50521,6 +50529,14 @@
       "onboard_time": 1693512554,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72965,
+      "num": 60032,
+      "word": "大学生打工半月仅赚100元崩溃打人",
+      "onboard_time": 1695230543,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72909,
@@ -51203,6 +51219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52093,
+      "num": 52093,
+      "word": "卿卿三思腾讯开播",
+      "onboard_time": 1695232578,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51248,
       "num": 52155,
       "word": "郑秀晶纽约时装周",
@@ -51289,14 +51313,6 @@
       "onboard_time": 1695132403,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49934,
-      "num": 60032,
-      "word": "大学生打工半月仅赚100元崩溃打人",
-      "onboard_time": 1695230543,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49701,
@@ -52473,6 +52489,14 @@
       "onboard_time": 1695059296,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 25243,
+      "num": 35236,
+      "word": "有记录以来第一只狗和狐狸的杂交后代",
+      "onboard_time": 1695234076,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 25097,

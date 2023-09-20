@@ -1,0 +1,410 @@
+{
+  "runTime": 1695234129205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 421990,
+        "num": 421990,
+        "word": "虞书欣父母公司被恢复执行",
+        "onboard_time": 1695224136,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290182,
+        "num": 290182,
+        "word": "洁柔直播间输错价格亏损千万",
+        "onboard_time": 1695221138,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20671,
+        "num": 270638,
+        "word": "世界都知道了杭州有多美",
+        "onboard_time": 1695216997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266905,
+        "num": 266905,
+        "word": "删除的所有QQ空间都在这里",
+        "onboard_time": 1695193836,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140489,
+        "num": 140489,
+        "word": "男生泡澡后背被排水口吸出大片淤青",
+        "onboard_time": 1695226293,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98526,
+        "num": 98526,
+        "word": "北极兔cp",
+        "onboard_time": 1695220720,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92932,
+        "num": 92932,
+        "word": "日媒曝羽生结弦妻子是中国人",
+        "onboard_time": 1695195758,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90533,
+        "num": 90533,
+        "word": "傅首尔 在这个世界上得到过爱就很幸福了",
+        "onboard_time": 1695212017,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76157,
+        "num": 76157,
+        "word": "心动的信号6成了四对",
+        "onboard_time": 1695210757,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65571,
+        "num": 65571,
+        "word": "五条悟被腰斩",
+        "onboard_time": 1695189576,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 223876,
+        "num": 65488,
+        "word": "她可是你嫂子",
+        "onboard_time": 1695203916,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149611,
+        "num": 64497,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 25995,
+        "num": 64062,
+        "word": "加满一箱或将多花14.5元",
+        "onboard_time": 1695205360,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 14961,
+        "num": 63143,
+        "word": "国内成品油价年内第十涨",
+        "onboard_time": 1695203676,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 13897,
+        "num": 62228,
+        "word": "杭州亚运会超全补课帖",
+        "onboard_time": 1695217238,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124109,
+        "num": 61517,
+        "word": "李佳琦直播间仍有千万观看",
+        "onboard_time": 1695203796,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 112776,
+        "num": 60789,
+        "word": "花西子旗下多家公司0人参保",
+        "onboard_time": 1695202778,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79949,
+        "num": 60294,
+        "word": "男子分手后求和不成刺死前女友母亲",
+        "onboard_time": 1695232459,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79651,
+        "num": 59217,
+        "word": "太宰治没死",
+        "onboard_time": 1695222577,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75075,
+        "num": 58534,
+        "word": "iPhone15拍人更好看",
+        "onboard_time": 1695224974,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138404,
+        "num": 57997,
+        "word": "月薪6000小伙为见女主播打赏9000万元",
+        "onboard_time": 1695215675,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72965,
+        "num": 56957,
+        "word": "大学生打工半月仅赚100元崩溃打人",
+        "onboard_time": 1695230543,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56686,
+        "num": 56686,
+        "word": "千万不要闻脱下来的袜子",
+        "onboard_time": 1695205897,
+        "rank": 22,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 54248,
+        "num": 54248,
+        "word": "卓晴cp",
+        "onboard_time": 1695209735,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52506,
+        "num": 52506,
+        "word": "一封信",
+        "onboard_time": 1695211117,
+        "rank": 24,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 52093,
+        "num": 52093,
+        "word": "卿卿三思腾讯开播",
+        "onboard_time": 1695232578,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49539,
+        "num": 49539,
+        "word": "黄子诚被用刑电击",
+        "onboard_time": 1695216396,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47722,
+        "num": 47722,
+        "word": "丈夫如厕常不关门妻子下跪磕头恳求",
+        "onboard_time": 1695202956,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43059,
+        "num": 43059,
+        "word": "梁静茹 下次会更好",
+        "onboard_time": 1695227069,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42630,
+        "num": 42630,
+        "word": "檀健次直播",
+        "onboard_time": 1695218676,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42307,
+        "num": 42307,
+        "word": "侯卓成杨汝晴亲了四次",
+        "onboard_time": 1695214836,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39982,
+        "num": 39982,
+        "word": "原来这底下竟然还能住人啊",
+        "onboard_time": 1695220538,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 41816,
+        "num": 39893,
+        "word": "杜海涛亲沈梦辰不让妈妈看",
+        "onboard_time": 1695217656,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39485,
+        "num": 39485,
+        "word": "感觉大家都不管丞磊叔叔死活了",
+        "onboard_time": 1695205958,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38825,
+        "num": 38825,
+        "word": "老刘再次对着傅首尔唱出十五年前的歌",
+        "onboard_time": 1695218676,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37753,
+        "num": 37753,
+        "word": "谁把成毅耳朵煮了",
+        "onboard_time": 1695213215,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36513,
+        "num": 36513,
+        "word": "特工任务女研究生帮间谍偷样本",
+        "onboard_time": 1695224256,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35739,
+        "num": 35739,
+        "word": "当你的结婚海报忘在酒店",
+        "onboard_time": 1695218979,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35294,
+        "num": 35294,
+        "word": "檀健次出演猎罪图鉴2",
+        "onboard_time": 1695203736,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33550,
+        "num": 35288,
+        "word": "于适 蓝翔系爱豆",
+        "onboard_time": 1695218738,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33315,
+        "num": 35286,
+        "word": "哇唧唧哇真的挖了",
+        "onboard_time": 1695215796,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33296,
+        "num": 35279,
+        "word": "出品方说以爱为营快播了",
+        "onboard_time": 1695229761,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32633,
+        "num": 35275,
+        "word": "曾昭颢亲了张巾",
+        "onboard_time": 1695216698,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31468,
+        "num": 35267,
+        "word": "在直播开玩笑里又给我嗑到了夜色尚浅",
+        "onboard_time": 1695202597,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31427,
+        "num": 35261,
+        "word": "于适的26亿福利是开挖掘机",
+        "onboard_time": 1695215138,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29885,
+        "num": 35258,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1695215074,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26961,
+        "num": 35253,
+        "word": "赵丽颖是周放的宣传委员",
+        "onboard_time": 1695209735,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26938,
+        "num": 35251,
+        "word": "中国女排2比3加拿大女排",
+        "onboard_time": 1695218619,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26491,
+        "num": 35240,
+        "word": "金熊猫奖获奖名单",
+        "onboard_time": 1695221677,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25243,
+        "num": 35236,
+        "word": "有记录以来第一只狗和狐狸的杂交后代",
+        "onboard_time": 1695234076,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾在杭州工作6年的习近平这样介绍杭州#"
+    }
+  }
+}

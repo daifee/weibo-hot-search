@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695231252688,
+  "endTime": 1695234129205,
   "band_list": [
     {
       "raw_hot": 1871940,
@@ -395,6 +395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 79949,
+      "num": 60294,
+      "word": "男子分手后求和不成刺死前女友母亲",
+      "onboard_time": 1695232459,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79856,
       "num": 1253111,
       "word": "世界都知道了杭州有多美",
@@ -409,6 +417,14 @@
       "onboard_time": 1695229761,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72965,
+      "num": 60032,
+      "word": "大学生打工半月仅赚100元崩溃打人",
+      "onboard_time": 1695230543,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59580,
@@ -435,12 +451,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 49934,
-      "num": 60032,
-      "word": "大学生打工半月仅赚100元崩溃打人",
-      "onboard_time": 1695230543,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 52093,
+      "num": 52093,
+      "word": "卿卿三思腾讯开播",
+      "onboard_time": 1695232578,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25243,
+      "num": 35236,
+      "word": "有记录以来第一只狗和狐狸的杂交后代",
+      "onboard_time": 1695234076,
+      "rank": 49,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
