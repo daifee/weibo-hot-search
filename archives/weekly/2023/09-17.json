@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695227904548,
+  "endTime": 1695230120707,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -2489,6 +2489,14 @@
       "onboard_time": 1695221917,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 581672,
+      "num": 581672,
+      "word": "男生泡澡后背被排水口吸出大片淤青",
+      "onboard_time": 1695226293,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580944,
@@ -5209,14 +5217,6 @@
       "onboard_time": 1695084277,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305715,
-      "num": 209852,
-      "word": "男生泡澡后背被排水口吸出大片淤青",
-      "onboard_time": 1695226293,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305455,
@@ -10435,6 +10435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 73616,
+      "num": 73616,
+      "word": "出品方说以爱为营快播了",
+      "onboard_time": 1695229761,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73604,
       "num": 73604,
       "word": "杨鸣告别辽宁男篮",
@@ -10553,6 +10561,14 @@
       "onboard_time": 1694890335,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 59036,
+      "num": 70323,
+      "word": "中秋节的仪式感是花式点心给的",
+      "onboard_time": 1695229703,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 58288,

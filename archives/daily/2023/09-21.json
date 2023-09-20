@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695227904548,
+  "endTime": 1695230120707,
   "band_list": [
     {
       "raw_hot": 1871940,
@@ -49,6 +49,14 @@
       "onboard_time": 1695205897,
       "rank": 15,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 581672,
+      "num": 581672,
+      "word": "男生泡澡后背被排水口吸出大片淤青",
+      "onboard_time": 1695226293,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559365,
@@ -121,14 +129,6 @@
       "onboard_time": 1695210757,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305715,
-      "num": 209852,
-      "word": "男生泡澡后背被排水口吸出大片淤青",
-      "onboard_time": 1695226293,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297820,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91820,
+      "num": 91820,
+      "word": "侯卓成杨汝晴亲了四次",
+      "onboard_time": 1695214836,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86886,
       "num": 106200,
       "word": "文豪野犬",
@@ -395,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73616,
+      "num": 73616,
+      "word": "出品方说以爱为营快播了",
+      "onboard_time": 1695229761,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59580,
       "num": 291026,
       "word": "杭州亚运会超全补课帖",
       "onboard_time": 1695217238,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59036,
+      "num": 70323,
+      "word": "中秋节的仪式感是花式点心给的",
+      "onboard_time": 1695229703,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 54836,
