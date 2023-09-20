@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695198921533,
+  "endTime": 1695201436942,
   "band_list": [
     {
       "raw_hot": 3939737,
@@ -25,6 +25,14 @@
       "onboard_time": 1695165207,
       "rank": 9,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2615885,
+      "num": 1252120,
+      "word": "jjxx 歹毒",
+      "onboard_time": 1695193358,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 2551118,
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1237158,
+      "num": 1237158,
+      "word": "凉山多名百万级网红被捕",
+      "onboard_time": 1695195816,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231174,
       "num": 1231174,
       "word": "第一次见男主纯情到接吻噘嘴的",
@@ -219,22 +235,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 943053,
-      "num": 943053,
-      "word": "jjxx 歹毒",
-      "onboard_time": 1695193358,
-      "rank": 12,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 928748,
-      "num": 928748,
-      "word": "凉山多名百万级网红被捕",
-      "onboard_time": 1695195816,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 876551,
       "num": 876551,
       "word": "用这个方法很容易怀孕",
@@ -257,6 +257,14 @@
       "onboard_time": 1695131078,
       "rank": 20,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 790677,
+      "num": 790677,
+      "word": "知情人称花西子相关声明非公关部撰写",
+      "onboard_time": 1695198516,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 787444,
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 686866,
+      "num": 686866,
+      "word": "花西子公关部门相关管理层已离职",
+      "onboard_time": 1695199358,
+      "rank": 11,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 686862,
       "num": 686862,
       "word": "洗牙只是洗出了原本的牙缝",
@@ -344,6 +360,14 @@
       "word": "献鱼",
       "onboard_time": 1695178956,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 637426,
+      "num": 637426,
+      "word": "张小斐张嘉倪 我好俗我好爱",
+      "onboard_time": 1695194799,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -523,14 +547,6 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 521700,
-      "num": 521700,
-      "word": "张小斐张嘉倪 我好俗我好爱",
-      "onboard_time": 1695194799,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 521273,
       "num": 521273,
       "word": "读研究生之后才会知道的真相",
@@ -561,6 +577,14 @@
       "onboard_time": 1695168877,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 483751,
+      "num": 483751,
+      "word": "防弹少年团与HYBE续约",
+      "onboard_time": 1695199895,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 474392,
@@ -683,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373624,
-      "num": 373624,
-      "word": "知情人称花西子相关声明非公关部撰写",
-      "onboard_time": 1695198516,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372491,
       "num": 340637,
       "word": "对收银员说太贵了我不要了",
@@ -731,6 +747,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 365309,
+      "num": 365309,
+      "word": "你好生活本周六日双播",
+      "onboard_time": 1695200916,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365082,
       "num": 365082,
       "word": "夜色尚浅",
@@ -761,6 +785,14 @@
       "onboard_time": 1695109778,
       "rank": 12,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 359622,
+      "num": 259205,
+      "word": "宫门跳舞各有各的好笑",
+      "onboard_time": 1695200974,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 358365,
@@ -907,6 +939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 301154,
+      "num": 301154,
+      "word": "华晨宇点评自己演唱会造型",
+      "onboard_time": 1695199837,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299722,
       "num": 299722,
       "word": "重庆一幼儿园伙食犹如满汉全席",
@@ -953,6 +993,14 @@
       "onboard_time": 1695173796,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293506,
+      "num": 293506,
+      "word": "新人结婚多名男子拿灭火器喷伴娘",
+      "onboard_time": 1695200016,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292662,
@@ -1027,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269750,
+      "num": 269750,
+      "word": "张小斐 清醒大女主",
+      "onboard_time": 1695200137,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269229,
       "num": 269229,
       "word": "红星评花西子发声明",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1695114280,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263066,
+      "num": 263066,
+      "word": "工作后要不要用两个手机",
+      "onboard_time": 1695200436,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 261555,
@@ -1107,6 +1171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 242179,
+      "num": 242179,
+      "word": "恋综男素人发言引发全体皱眉",
+      "onboard_time": 1695199656,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240943,
       "num": 240943,
       "word": "大唐狄公案",
@@ -1147,6 +1219,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 225429,
+      "num": 225429,
+      "word": "不用因为睡懒觉而感到自责",
+      "onboard_time": 1695201277,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224210,
       "num": 224210,
       "word": "成毅能跳whatever吗",
@@ -1161,6 +1241,14 @@
       "onboard_time": 1695146298,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223323,
+      "num": 223323,
+      "word": "肖战对隐身的执着",
+      "onboard_time": 1695200557,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223196,
@@ -1257,6 +1345,14 @@
       "onboard_time": 1695164908,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207269,
+      "num": 207269,
+      "word": "两父子都找不到一把合适的伞",
+      "onboard_time": 1695199656,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206044,
@@ -1395,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190987,
+      "num": 190987,
+      "word": "林俊杰武汉抢票",
+      "onboard_time": 1695200795,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190975,
       "num": 190975,
       "word": "王彦霖让胡先煦把眼镜焊脸上",
@@ -1467,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186407,
+      "num": 186407,
+      "word": "好事成双开通角色号",
+      "onboard_time": 1695201036,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184051,
       "num": 184051,
       "word": "亚运竞荣耀",
@@ -1476,7 +1588,7 @@
     },
     {
       "raw_hot": 183722,
-      "num": 524064,
+      "num": 658154,
       "word": "江苏宿迁强龙卷风受灾人口5512人",
       "onboard_time": 1695194978,
       "rank": 49,
@@ -1619,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169243,
+      "num": 169243,
+      "word": "中国女排 现场第一排",
+      "onboard_time": 1695201277,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166965,
       "num": 166965,
       "word": "辅警上班途中秒变装狂奔数百米上岗",
@@ -1641,6 +1761,14 @@
       "onboard_time": 1695178595,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162135,
+      "num": 162135,
+      "word": "原来古代人也有英文名",
+      "onboard_time": 1695200137,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 161453,
@@ -1721,6 +1849,14 @@
       "onboard_time": 1695145699,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147921,
+      "num": 147921,
+      "word": "国防科技大学开学授衔",
+      "onboard_time": 1695201277,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 146916,
@@ -1875,6 +2011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120789,
+      "num": 656719,
+      "word": "今天全国爱牙日",
+      "onboard_time": 1695200016,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119675,
       "num": 119675,
       "word": "i人语言翻译器",
@@ -2017,6 +2161,14 @@
       "onboard_time": 1695139235,
       "rank": 39,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 31143,
+      "num": 1257337,
+      "word": "智造世界创造美好",
+      "onboard_time": 1695200254,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30378,
