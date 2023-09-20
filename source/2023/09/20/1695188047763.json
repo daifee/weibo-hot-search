@@ -1,0 +1,410 @@
+{
+  "runTime": 1695188047763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2223755,
+        "num": 2223755,
+        "word": "花西子公关部或集体离职",
+        "onboard_time": 1695187117,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342872,
+        "num": 1342872,
+        "word": "原来塞牙是牙齿在求救",
+        "onboard_time": 1695176616,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55167,
+        "num": 1191369,
+        "word": "何以中国的文明密码",
+        "onboard_time": 1695181237,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1765292,
+        "num": 1190787,
+        "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
+        "onboard_time": 1695183519,
+        "rank": 3,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1160275,
+        "num": 1160275,
+        "word": "医生发朋友圈2个通宵救2命称自豪",
+        "onboard_time": 1695181777,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000471,
+        "num": 1000471,
+        "word": "开始担心张婉婷的精神状态",
+        "onboard_time": 1695184660,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 787444,
+        "num": 787444,
+        "word": "穷鬼套餐",
+        "onboard_time": 1695185380,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 703850,
+        "num": 703850,
+        "word": "羽生结弦方拒绝回应妻子身份",
+        "onboard_time": 1695186161,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607899,
+        "num": 607899,
+        "word": "关于我们结婚了有没有剧本",
+        "onboard_time": 1695177334,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553671,
+        "num": 553671,
+        "word": "红卫董事长亲自吃肥皂",
+        "onboard_time": 1695185079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136785,
+        "num": 553012,
+        "word": "Angelababy敦煌飞天妆",
+        "onboard_time": 1695185500,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 932359,
+        "num": 550418,
+        "word": "李佳琦直播间评论区现状",
+        "onboard_time": 1695165207,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 912187,
+        "num": 546873,
+        "word": "花西子豪掷1万份花西币",
+        "onboard_time": 1695171702,
+        "rank": 12,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 506444,
+        "num": 542957,
+        "word": "宿迁遭遇强龙卷风5死4伤",
+        "onboard_time": 1695184119,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321313,
+        "num": 539371,
+        "word": "雷蒙多回应华为发布新手机",
+        "onboard_time": 1695182197,
+        "rank": 14,
+        "category": "国外要闻,数码"
+      },
+      {
+        "raw_hot": 538982,
+        "num": 538982,
+        "word": "沈阳患癌阿姨无麻药手术8小时",
+        "onboard_time": 1695186221,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455556,
+        "num": 455556,
+        "word": "韩国是不是满大街都这种发型",
+        "onboard_time": 1695171105,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424765,
+        "num": 424765,
+        "word": "花西子投放覆盖几乎全部美妆小主播",
+        "onboard_time": 1695184660,
+        "rank": 17,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 417882,
+        "num": 417882,
+        "word": "警方发3.4万条钓鱼短信321名大学生上钩",
+        "onboard_time": 1695186938,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362577,
+        "num": 362577,
+        "word": "宁安如梦",
+        "onboard_time": 1695180576,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375761,
+        "num": 359323,
+        "word": "熟悉的港剧杀回来了",
+        "onboard_time": 1695185617,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345013,
+        "num": 345013,
+        "word": "品冠儿子披荆斩棘reaction",
+        "onboard_time": 1695185979,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298509,
+        "num": 298509,
+        "word": "夜色尚浅",
+        "onboard_time": 1695184477,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281454,
+        "num": 281454,
+        "word": "成都蛋烘糕摊 老板有洁癖",
+        "onboard_time": 1695179194,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271450,
+        "num": 271450,
+        "word": "iPhone15可设充电上限为80%",
+        "onboard_time": 1695169121,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247195,
+        "num": 247195,
+        "word": "12306回应节假日火车票涨价",
+        "onboard_time": 1695174397,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240943,
+        "num": 240943,
+        "word": "大唐狄公案",
+        "onboard_time": 1695186938,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225862,
+        "num": 225862,
+        "word": "宁安如梦官微终于更新了",
+        "onboard_time": 1695182380,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217721,
+        "num": 217721,
+        "word": "洗牙只是洗出了原本的牙缝",
+        "onboard_time": 1695179559,
+        "rank": 28,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 216131,
+        "num": 216131,
+        "word": "伍佰 无意颠覆这个行业",
+        "onboard_time": 1695174577,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215577,
+        "num": 215577,
+        "word": "张艺兴黑粉公开道歉",
+        "onboard_time": 1695180397,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 212353,
+        "num": 212353,
+        "word": "这是我的岛",
+        "onboard_time": 1695181717,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205511,
+        "num": 205511,
+        "word": "金智秀新电影造型",
+        "onboard_time": 1695181300,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200505,
+        "num": 200505,
+        "word": "谁教夜色尚浅这么拍照的",
+        "onboard_time": 1695186760,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195341,
+        "num": 195341,
+        "word": "花西子道歉不够真诚不够实在",
+        "onboard_time": 1695172478,
+        "rank": 34,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 194199,
+        "num": 194199,
+        "word": "大众电影2023大湾区音乐汇",
+        "onboard_time": 1695188015,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187509,
+        "num": 187509,
+        "word": "杭州亚运会开幕式有1亿人",
+        "onboard_time": 1695187537,
+        "rank": 36,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 185205,
+        "num": 185205,
+        "word": "面试问我怎么一个星期涨粉1000",
+        "onboard_time": 1695182497,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179987,
+        "num": 179987,
+        "word": "iPhone15系列C口带来了哪些变化",
+        "onboard_time": 1695183219,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179744,
+        "num": 179744,
+        "word": "杨洋韩立黑衣斗笠造型",
+        "onboard_time": 1695176076,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178022,
+        "num": 178022,
+        "word": "献鱼",
+        "onboard_time": 1695178956,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176078,
+        "num": 176078,
+        "word": "何炅 好朋友都是阶段性的",
+        "onboard_time": 1695138222,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171290,
+        "num": 171290,
+        "word": "对收银员说太贵了我不要了",
+        "onboard_time": 1695177635,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161046,
+        "num": 161046,
+        "word": "日本40多个地区百人食物中毒",
+        "onboard_time": 1695178536,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 160026,
+        "num": 160026,
+        "word": "张艺谋说张国立演得不能再好了",
+        "onboard_time": 1695182918,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156326,
+        "num": 156326,
+        "word": "Uzi亚运赛场书写历史一刻",
+        "onboard_time": 1695180102,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152290,
+        "num": 152290,
+        "word": "为什么冲马桶一定要盖盖子",
+        "onboard_time": 1695178774,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 145617,
+        "num": 145617,
+        "word": "6岁姐姐一句暗号救出被困弟弟",
+        "onboard_time": 1695182018,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132709,
+        "num": 132709,
+        "word": "这是我的岛安排时代少年团去开荒",
+        "onboard_time": 1695184180,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127705,
+        "num": 127705,
+        "word": "长期喝带有水垢的水会不会得肾结石",
+        "onboard_time": 1695178114,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信飞虎队老兵#"
+    }
+  }
+}
