@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/21 00:22:29 ~ 2023/09/21 05:14:43
+本榜单时间：2023/09/21 00:22:29 ~ 2023/09/21 05:34:07
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ iPhone15拍人更好看（热度：515424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%B0%8F%E8%AF%B4%E7%95%8C%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%23" target="weibo">
+国产小说界的四大天王（热度：86194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%80%83%E8%99%91%E6%9D%A1%E4%BB%B6%E6%9C%80%E6%83%B3%E5%8E%BB%E7%9A%84%E5%9F%8E%E5%B8%82%23" target="weibo">
 不考虑条件最想去的城市（热度：84400）
 </a>
@@ -329,12 +335,6 @@ iPhone15拍人更好看（热度：515424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%93%E5%B7%A5%E5%8D%8A%E6%9C%88%E4%BB%85%E8%B5%9A100%E5%85%83%E5%B4%A9%E6%BA%83%E6%89%93%E4%BA%BA%23" target="weibo">
 大学生打工半月仅赚100元崩溃打人（热度：72965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%B0%8F%E8%AF%B4%E7%95%8C%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%23" target="weibo">
-国产小说界的四大天王（热度：64767）
 </a>
 </li>
 
@@ -364,7 +364,7 @@ iPhone15拍人更好看（热度：515424）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%88%86%E6%AC%BE%E6%98%AF%E7%8B%82%E9%A3%99%E5%92%8C%E9%95%BF%E7%9B%B8%E6%80%9D%23" target="weibo">
-上半年爆款是狂飙和长相思（热度：53418）
+上半年爆款是狂飙和长相思（热度：54571）
 </a>
 </li>
 
@@ -375,14 +375,26 @@ iPhone15拍人更好看（热度：515424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%23" target="weibo">
+16岁读博士神童张炘炀现状（热度：38374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AirPodsPro2%20%E6%A0%B7%E5%AD%90%E4%B8%8D%E5%8F%98%E6%96%B0%E5%8A%9F%E8%83%BD%E5%87%BA%E7%8E%B0%23" target="weibo">
-AirPodsPro2 样子不变新功能出现（热度：36692）
+AirPodsPro2 样子不变新功能出现（热度：36752）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E5%8F%AA%E7%8B%97%E5%92%8C%E7%8B%90%E7%8B%B8%E7%9A%84%E6%9D%82%E4%BA%A4%E5%90%8E%E4%BB%A3%23" target="weibo">
 有记录以来第一只狗和狐狸的杂交后代（热度：25550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%B9%BF%E9%82%91%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+河南鹿邑一小学生校内坠楼身亡（热度：25006）
 </a>
 </li>
 
@@ -401,12 +413,6 @@ AirPodsPro2 样子不变新功能出现（热度：36692）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%9C%9Dcp%E5%AE%98%E5%AE%A3%23" target="weibo">
 今朝cp官宣（热度：18100）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%23" target="weibo">
-16岁读博士神童张炘炀现状（热度：15607）
 </a>
 </li>
 
