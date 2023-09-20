@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695216102321,
+  "endTime": 1695216843155,
   "band_list": [
     {
       "raw_hot": 3939737,
@@ -83,19 +83,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2162101,
+      "num": 2162101,
+      "word": "傅首尔 在这个世界上得到过爱就很幸福了",
+      "onboard_time": 1695212017,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2141186,
       "num": 2141186,
       "word": "卓晴cp",
       "onboard_time": 1695209735,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2076659,
-      "num": 2076659,
-      "word": "傅首尔 在这个世界上得到过爱就很幸福了",
-      "onboard_time": 1695212017,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1695193654,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1171385,
+      "num": 381808,
+      "word": "月薪6000小伙为见女主播打赏9000万元",
+      "onboard_time": 1695215675,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1139421,
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570469,
+      "num": 570469,
+      "word": "侯卓成杨汝晴亲了四次",
+      "onboard_time": 1695214836,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563423,
       "num": 563423,
       "word": "美国2009年就开始入侵华为总部服务器",
@@ -795,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 467464,
+      "num": 357768,
+      "word": "哇唧唧哇真的挖了",
+      "onboard_time": 1695215796,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465646,
       "num": 465646,
       "word": "警方通报石家庄一小区人员坠亡",
@@ -809,14 +833,6 @@
       "onboard_time": 1695202716,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 455654,
-      "num": 455654,
-      "word": "侯卓成杨汝晴亲了四次",
-      "onboard_time": 1695214836,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 450520,
@@ -953,14 +969,6 @@
       "onboard_time": 1695197015,
       "rank": 28,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 381808,
-      "num": 381808,
-      "word": "月薪6000小伙为见女主播打赏9000万元",
-      "onboard_time": 1695215675,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372491,
@@ -1243,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301256,
+      "num": 301256,
+      "word": "时代少年团直播",
+      "onboard_time": 1695215558,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301237,
       "num": 301237,
       "word": "华为或将发布中端5G手机",
@@ -1355,6 +1371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283971,
+      "num": 283971,
+      "word": "吴梦洁替补登场",
+      "onboard_time": 1695215675,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283732,
+      "num": 283732,
+      "word": "好事成双 啥时候手撕渣男",
+      "onboard_time": 1695216219,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281622,
       "num": 281622,
       "word": "郑秀晶电影蜘蛛窝",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1695120641,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271326,
-      "num": 271326,
-      "word": "哇唧唧哇真的挖了",
-      "onboard_time": 1695215796,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 270733,
@@ -1627,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235137,
+      "num": 235137,
+      "word": "黄子诚被用刑电击",
+      "onboard_time": 1695216396,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233624,
       "num": 233624,
       "word": "林俊杰武汉",
@@ -1731,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219819,
+      "num": 219819,
+      "word": "女子深夜叫一口价网约车被司机追",
+      "onboard_time": 1695216160,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217017,
       "num": 217017,
       "word": "他从火光中走来",
@@ -1771,6 +1811,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213571,
+      "num": 213571,
+      "word": "曾昭颢亲了张巾",
+      "onboard_time": 1695216698,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211673,
+      "num": 211673,
+      "word": "没想到一整箱猕猴桃都是生的",
+      "onboard_time": 1695216698,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210141,
       "num": 210141,
       "word": "胡先煦两部新剧都跟车杠上了",
@@ -1793,14 +1849,6 @@
       "onboard_time": 1695201995,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 209123,
-      "num": 209123,
-      "word": "吴梦洁替补登场",
-      "onboard_time": 1695215675,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 208195,
@@ -1985,14 +2033,6 @@
       "onboard_time": 1695188015,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193849,
-      "num": 193849,
-      "word": "时代少年团直播",
-      "onboard_time": 1695215558,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 192827,
