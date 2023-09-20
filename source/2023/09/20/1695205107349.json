@@ -1,0 +1,410 @@
+{
+  "runTime": 1695205107349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677101,
+        "num": 1677101,
+        "word": "删除的所有QQ空间都在这里",
+        "onboard_time": 1695193836,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 431364,
+        "num": 1559742,
+        "word": "渔民放生300斤海龟后收获3000斤鲳鱼",
+        "onboard_time": 1695203856,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33059,
+        "num": 1522124,
+        "word": "智造世界创造美好",
+        "onboard_time": 1695200254,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1515609,
+        "num": 1515609,
+        "word": "李佳琦直播间仍有千万观看",
+        "onboard_time": 1695203796,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 221748,
+        "num": 1163370,
+        "word": "旅俄大熊猫幼崽已长出黑背心",
+        "onboard_time": 1695188856,
+        "rank": 4,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 1138211,
+        "num": 1138211,
+        "word": "花西子公关部或集体离职",
+        "onboard_time": 1695187117,
+        "rank": 5,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 205713,
+        "num": 1042854,
+        "word": "45岁姐姐坚持跳芭蕾提升自己太美了",
+        "onboard_time": 1695197015,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1015394,
+        "num": 1015394,
+        "word": "花西子旗下多家公司0人参保",
+        "onboard_time": 1695202778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899766,
+        "num": 899766,
+        "word": "老刘爆哭",
+        "onboard_time": 1695194074,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 858227,
+        "num": 858227,
+        "word": "日媒曝羽生结弦妻子是中国人",
+        "onboard_time": 1695195758,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2102731,
+        "num": 857700,
+        "word": "她可是你嫂子",
+        "onboard_time": 1695203916,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2511485,
+        "num": 848234,
+        "word": "jjxx 歹毒",
+        "onboard_time": 1695193358,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 387389,
+        "num": 838450,
+        "word": "国防科技大学开学授衔",
+        "onboard_time": 1695201277,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 260192,
+        "num": 824514,
+        "word": "国内成品油价年内第十涨",
+        "onboard_time": 1695203676,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147932,
+        "num": 811307,
+        "word": "原来塞牙是牙齿在求救",
+        "onboard_time": 1695176616,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 810698,
+        "num": 810698,
+        "word": "第一次见男主纯情到接吻噘嘴的",
+        "onboard_time": 1695193654,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 699997,
+        "num": 699997,
+        "word": "内娱现偶之光",
+        "onboard_time": 1695201457,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83005,
+        "num": 689176,
+        "word": "安徽为什么叫新能源汽车之都",
+        "onboard_time": 1695203436,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678532,
+        "num": 678532,
+        "word": "檀健次出演猎罪图鉴2",
+        "onboard_time": 1695203736,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621249,
+        "num": 621249,
+        "word": "凉山多名百万级网红被捕",
+        "onboard_time": 1695195816,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725209,
+        "num": 609375,
+        "word": "丈夫如厕常不关门妻子下跪磕头恳求",
+        "onboard_time": 1695202956,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595769,
+        "num": 595769,
+        "word": "极限男人帮新综艺",
+        "onboard_time": 1695196054,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468460,
+        "num": 468460,
+        "word": "知情人称花西子相关声明非公关部撰写",
+        "onboard_time": 1695198516,
+        "rank": 22,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 466893,
+        "num": 466893,
+        "word": "张小斐张嘉倪 我好俗我好爱",
+        "onboard_time": 1695194799,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458565,
+        "num": 458565,
+        "word": "王一博程耳现身阿那亚",
+        "onboard_time": 1695202716,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431624,
+        "num": 431624,
+        "word": "五条悟被腰斩",
+        "onboard_time": 1695189576,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 385403,
+        "num": 385403,
+        "word": "花西子公关部门相关管理层已离职",
+        "onboard_time": 1695199358,
+        "rank": 26,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 363003,
+        "num": 363003,
+        "word": "丞磊和卢昱晓决定了夜色尚浅爱过彼此",
+        "onboard_time": 1695192874,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292445,
+        "num": 292445,
+        "word": "广东再添985大学",
+        "onboard_time": 1695190118,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283508,
+        "num": 283508,
+        "word": "花西子海外对标奢侈品",
+        "onboard_time": 1695188437,
+        "rank": 29,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 276752,
+        "num": 276752,
+        "word": "2.5条悟",
+        "onboard_time": 1695193175,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259879,
+        "num": 259879,
+        "word": "在直播开玩笑里又给我嗑到了夜色尚浅",
+        "onboard_time": 1695202597,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258453,
+        "num": 258453,
+        "word": "ccd镜头下的赵今麦",
+        "onboard_time": 1695204578,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244734,
+        "num": 244734,
+        "word": "中国女排 现场第一排",
+        "onboard_time": 1695201277,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241002,
+        "num": 241002,
+        "word": "防弹少年团与HYBE续约",
+        "onboard_time": 1695199895,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223202,
+        "num": 223202,
+        "word": "南风知我意十指相扣好欲",
+        "onboard_time": 1695203676,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210141,
+        "num": 210141,
+        "word": "胡先煦两部新剧都跟车杠上了",
+        "onboard_time": 1695204217,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209128,
+        "num": 209128,
+        "word": "一次性内裤真的卫生吗",
+        "onboard_time": 1695195457,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 202056,
+        "num": 202056,
+        "word": "工作后要不要用两个手机",
+        "onboard_time": 1695200436,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199261,
+        "num": 199261,
+        "word": "两父子都找不到一把合适的伞",
+        "onboard_time": 1695199656,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196878,
+        "num": 196878,
+        "word": "宫门跳舞各有各的好笑",
+        "onboard_time": 1695200974,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193671,
+        "num": 193671,
+        "word": "新人结婚多名男子拿灭火器喷伴娘",
+        "onboard_time": 1695200016,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193446,
+        "num": 193446,
+        "word": "孩子患病才发现丈夫是表外甥",
+        "onboard_time": 1695194978,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189860,
+        "num": 189860,
+        "word": "唐朝诡事录之西行杀青",
+        "onboard_time": 1695198693,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185460,
+        "num": 185460,
+        "word": "千颂伊这精神状态领先我十年",
+        "onboard_time": 1695204819,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183518,
+        "num": 183518,
+        "word": "华晨宇点评自己演唱会造型",
+        "onboard_time": 1695199837,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179808,
+        "num": 179808,
+        "word": "肖战对隐身的执着",
+        "onboard_time": 1695200557,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169616,
+        "num": 169616,
+        "word": "你好生活本周六日双播",
+        "onboard_time": 1695200916,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167903,
+        "num": 167903,
+        "word": "丞磊卢昱晓还原不可以噢",
+        "onboard_time": 1695194554,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165174,
+        "num": 165174,
+        "word": "恋综男素人发言引发全体皱眉",
+        "onboard_time": 1695199656,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信飞虎队老兵#"
+    }
+  }
+}
