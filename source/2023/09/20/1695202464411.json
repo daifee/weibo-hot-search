@@ -1,0 +1,410 @@
+{
+  "runTime": 1695202464411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2050430,
+        "num": 2050430,
+        "word": "删除的所有QQ空间都在这里",
+        "onboard_time": 1695193836,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1299341,
+        "num": 1299341,
+        "word": "老刘爆哭",
+        "onboard_time": 1695194074,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32569,
+        "num": 1083694,
+        "word": "智造世界创造美好",
+        "onboard_time": 1695200254,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2999775,
+        "num": 1082590,
+        "word": "jjxx 歹毒",
+        "onboard_time": 1695193358,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1483367,
+        "num": 1080201,
+        "word": "日媒曝羽生结弦妻子是中国人",
+        "onboard_time": 1695195758,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1072938,
+        "num": 1072938,
+        "word": "花西子公关部或集体离职",
+        "onboard_time": 1695187117,
+        "rank": 5,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1026852,
+        "num": 1026852,
+        "word": "凉山多名百万级网红被捕",
+        "onboard_time": 1695195816,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901291,
+        "num": 901291,
+        "word": "第一次见男主纯情到接吻噘嘴的",
+        "onboard_time": 1695193654,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 664356,
+        "num": 664356,
+        "word": "知情人称花西子相关声明非公关部撰写",
+        "onboard_time": 1695198516,
+        "rank": 8,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 642225,
+        "num": 642225,
+        "word": "极限男人帮新综艺",
+        "onboard_time": 1695196054,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596442,
+        "num": 596442,
+        "word": "花西子公关部门相关管理层已离职",
+        "onboard_time": 1695199358,
+        "rank": 10,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 586167,
+        "num": 586167,
+        "word": "一次性内裤真的卫生吗",
+        "onboard_time": 1695195457,
+        "rank": 11,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 583353,
+        "num": 583353,
+        "word": "张小斐张嘉倪 我好俗我好爱",
+        "onboard_time": 1695194799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184879,
+        "num": 578065,
+        "word": "原来塞牙是牙齿在求救",
+        "onboard_time": 1695176616,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 575215,
+        "word": "江苏宿迁强龙卷风受灾人口5512人",
+        "onboard_time": 1695194978,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573904,
+        "num": 573904,
+        "word": "五条悟被腰斩",
+        "onboard_time": 1695189576,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 439538,
+        "num": 439538,
+        "word": "防弹少年团与HYBE续约",
+        "onboard_time": 1695199895,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422284,
+        "num": 422284,
+        "word": "唐朝诡事录之西行杀青",
+        "onboard_time": 1695198693,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395694,
+        "num": 395694,
+        "word": "内娱现偶之光",
+        "onboard_time": 1695201457,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385520,
+        "num": 385520,
+        "word": "丞磊和卢昱晓决定了夜色尚浅爱过彼此",
+        "onboard_time": 1695192874,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353166,
+        "num": 353166,
+        "word": "工作后要不要用两个手机",
+        "onboard_time": 1695200436,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340942,
+        "num": 340942,
+        "word": "新人结婚多名男子拿灭火器喷伴娘",
+        "onboard_time": 1695200016,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336399,
+        "num": 336399,
+        "word": "广东再添985大学",
+        "onboard_time": 1695190118,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 324818,
+        "num": 324818,
+        "word": "宫门跳舞各有各的好笑",
+        "onboard_time": 1695200974,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58405,
+        "num": 320690,
+        "word": "盐城龙卷风5死4伤",
+        "onboard_time": 1695191913,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319455,
+        "num": 319455,
+        "word": "花西子海外对标奢侈品",
+        "onboard_time": 1695188437,
+        "rank": 25,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 296631,
+        "num": 296631,
+        "word": "你好生活本周六日双播",
+        "onboard_time": 1695200916,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287895,
+        "num": 287895,
+        "word": "赵丽颖诉化妆品公司等侵权",
+        "onboard_time": 1695197736,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 286529,
+        "num": 286529,
+        "word": "2.5条悟",
+        "onboard_time": 1695193175,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 281798,
+        "num": 281798,
+        "word": "孩子患病才发现丈夫是表外甥",
+        "onboard_time": 1695194978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303991,
+        "num": 279700,
+        "word": "中国女排 现场第一排",
+        "onboard_time": 1695201277,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271452,
+        "num": 271452,
+        "word": "国防科技大学开学授衔",
+        "onboard_time": 1695201277,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 245654,
+        "num": 245654,
+        "word": "肖战对隐身的执着",
+        "onboard_time": 1695200557,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237542,
+        "num": 237542,
+        "word": "张小斐 清醒大女主",
+        "onboard_time": 1695200137,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225076,
+        "num": 225076,
+        "word": "不用因为睡懒觉而感到自责",
+        "onboard_time": 1695201277,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225013,
+        "num": 225013,
+        "word": "丞磊卢昱晓还原不可以噢",
+        "onboard_time": 1695194554,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220427,
+        "num": 220427,
+        "word": "两父子都找不到一把合适的伞",
+        "onboard_time": 1695199656,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218029,
+        "num": 218029,
+        "word": "张凌赫伴手礼包装是牛",
+        "onboard_time": 1695196176,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209975,
+        "num": 209975,
+        "word": "30块能在东北大集吃席",
+        "onboard_time": 1695201995,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206298,
+        "num": 206298,
+        "word": "总待在室内会失去灵性",
+        "onboard_time": 1695202176,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203929,
+        "num": 203929,
+        "word": "华晨宇点评自己演唱会造型",
+        "onboard_time": 1695199837,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189537,
+        "num": 189537,
+        "word": "恋综男素人发言引发全体皱眉",
+        "onboard_time": 1695199656,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171467,
+        "num": 171467,
+        "word": "陈卓璇模仿薛之谦说神经病啊",
+        "onboard_time": 1695202238,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153754,
+        "num": 153754,
+        "word": "林俊杰武汉抢票",
+        "onboard_time": 1695200795,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148108,
+        "num": 148108,
+        "word": "好事成双开通角色号",
+        "onboard_time": 1695201036,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140078,
+        "num": 140078,
+        "word": "井胧跟姐姐一起买房心眼咔咔转",
+        "onboard_time": 1695195876,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139155,
+        "num": 139155,
+        "word": "成毅能跳whatever吗",
+        "onboard_time": 1695196416,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134129,
+        "num": 134129,
+        "word": "Angelababy敦煌飞天妆",
+        "onboard_time": 1695185500,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "开始担心张婉婷的精神状态",
+        "onboard_time": 1695184660,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121382,
+        "num": 121382,
+        "word": "中国男排亚运首目标小组第一",
+        "onboard_time": 1695197978,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾在杭州工作6年的习近平这样介绍杭州#"
+    }
+  }
+}

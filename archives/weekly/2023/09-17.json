@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695201436942,
+  "endTime": 1695202464411,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2999775,
+      "num": 1252120,
+      "word": "jjxx 歹毒",
+      "onboard_time": 1695193358,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 2817215,
       "num": 2008534,
       "word": "李佳琦直播间评论区现状",
@@ -113,14 +121,6 @@
       "onboard_time": 1695094653,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2615885,
-      "num": 1252120,
-      "word": "jjxx 歹毒",
-      "onboard_time": 1695193358,
-      "rank": 12,
-      "category": "动漫"
     },
     {
       "raw_hot": 2551118,
@@ -3571,6 +3571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395694,
+      "num": 395694,
+      "word": "内娱现偶之光",
+      "onboard_time": 1695201457,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395647,
       "num": 395647,
       "word": "杨洋韩立黑衣斗笠造型",
@@ -4060,7 +4068,7 @@
     },
     {
       "raw_hot": 359622,
-      "num": 259205,
+      "num": 324818,
       "word": "宫门跳舞各有各的好笑",
       "onboard_time": 1695200974,
       "rank": 30,
@@ -4145,6 +4153,14 @@
       "onboard_time": 1694872419,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 353166,
+      "num": 353166,
+      "word": "工作后要不要用两个手机",
+      "onboard_time": 1695200436,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 352597,
@@ -4265,6 +4281,14 @@
       "onboard_time": 1695079832,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340942,
+      "num": 340942,
+      "word": "新人结婚多名男子拿灭火器喷伴娘",
+      "onboard_time": 1695200016,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340938,
@@ -4763,6 +4787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303991,
+      "num": 279700,
+      "word": "中国女排 现场第一排",
+      "onboard_time": 1695201277,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303718,
       "num": 303718,
       "word": "大妈给30多岁儿子找越南新娘被骗",
@@ -4953,14 +4985,6 @@
       "onboard_time": 1695119383,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293506,
-      "num": 293506,
-      "word": "新人结婚多名男子拿灭火器喷伴娘",
-      "onboard_time": 1695200016,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292662,
@@ -5339,6 +5363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 271452,
+      "num": 271452,
+      "word": "国防科技大学开学授衔",
+      "onboard_time": 1695201277,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 271441,
       "num": 271441,
       "word": "原来石榴粒也可以是玫瑰",
@@ -5457,14 +5489,6 @@
       "onboard_time": 1695005792,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263066,
-      "num": 263066,
-      "word": "工作后要不要用两个手机",
-      "onboard_time": 1695200436,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 262854,
@@ -5801,6 +5825,14 @@
       "onboard_time": 1695007296,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245654,
+      "num": 245654,
+      "word": "肖战对隐身的执着",
+      "onboard_time": 1695200557,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245369,
@@ -6315,14 +6347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223323,
-      "num": 223323,
-      "word": "肖战对隐身的执着",
-      "onboard_time": 1695200557,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223196,
       "num": 223196,
       "word": "MING和GALA时尚大片",
@@ -6400,6 +6424,14 @@
       "word": "夜色尚浅就是这个味",
       "onboard_time": 1694946694,
       "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220427,
+      "num": 220427,
+      "word": "两父子都找不到一把合适的伞",
+      "onboard_time": 1695199656,
+      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -6699,6 +6731,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 209975,
+      "num": 209975,
+      "word": "30块能在东北大集吃席",
+      "onboard_time": 1695201995,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 209609,
       "num": 209609,
       "word": "胡锡进 我们正迎来火爆的十一黄金周",
@@ -6739,14 +6779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207269,
-      "num": 207269,
-      "word": "两父子都找不到一把合适的伞",
-      "onboard_time": 1695199656,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 207260,
       "num": 207260,
       "word": "方昊 siu",
@@ -6769,6 +6801,14 @@
       "onboard_time": 1695033875,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206298,
+      "num": 206298,
+      "word": "总待在室内会失去灵性",
+      "onboard_time": 1695202176,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 206124,
@@ -8075,6 +8115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171467,
+      "num": 171467,
+      "word": "陈卓璇模仿薛之谦说神经病啊",
+      "onboard_time": 1695202238,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171458,
       "num": 171458,
       "word": "马立奥变身超级马力欧",
@@ -8145,14 +8193,6 @@
       "onboard_time": 1694935055,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169243,
-      "num": 169243,
-      "word": "中国女排 现场第一排",
-      "onboard_time": 1695201277,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 169126,
@@ -8649,14 +8689,6 @@
       "onboard_time": 1694927076,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147921,
-      "num": 147921,
-      "word": "国防科技大学开学授衔",
-      "onboard_time": 1695201277,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 147756,
@@ -9803,6 +9835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32569,
+      "num": 1257337,
+      "word": "智造世界创造美好",
+      "onboard_time": 1695200254,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32387,
       "num": 46013,
       "word": "小小的她是我的朋友",
@@ -9817,14 +9857,6 @@
       "onboard_time": 1695139235,
       "rank": 39,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 31143,
-      "num": 1257337,
-      "word": "智造世界创造美好",
-      "onboard_time": 1695200254,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31045,
@@ -10084,6 +10116,9 @@
     },
     {
       "word": "#习近平复信飞虎队老兵#"
+    },
+    {
+      "word": "#曾在杭州工作6年的习近平这样介绍杭州#"
     }
   ]
 }
