@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695191729360,
+  "endTime": 1695194171498,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3939737,
-      "num": 2223755,
+      "num": 2811810,
       "word": "花西子公关部或集体离职",
       "onboard_time": 1695187117,
       "rank": 0,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1700985,
+      "num": 1700985,
+      "word": "五条悟被腰斩",
+      "onboard_time": 1695189576,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1698943,
       "num": 807701,
       "word": "袁冰妍有多部剧待播",
@@ -459,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1547791,
+      "num": 1547791,
+      "word": "广东再添985大学",
+      "onboard_time": 1695190118,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1517175,
       "num": 1517175,
       "word": "活力28将为23万单洗衣粉退款10元",
@@ -481,14 +497,6 @@
       "onboard_time": 1695001654,
       "rank": 4,
       "category": "演出,情感"
-    },
-    {
-      "raw_hot": 1478598,
-      "num": 1478598,
-      "word": "五条悟被腰斩",
-      "onboard_time": 1695189576,
-      "rank": 3,
-      "category": "动漫"
     },
     {
       "raw_hot": 1477562,
@@ -617,14 +625,6 @@
       "onboard_time": 1695098620,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1275285,
-      "num": 1275285,
-      "word": "广东再添985大学",
-      "onboard_time": 1695190118,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 1271323,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 1139421,
-      "num": 577489,
+      "num": 586744,
       "word": "Angelababy敦煌飞天妆",
       "onboard_time": 1695185500,
       "rank": 10,
@@ -1163,12 +1163,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 876551,
+      "num": 876551,
+      "word": "用这个方法很容易怀孕",
+      "onboard_time": 1695190596,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 874051,
       "num": 374249,
       "word": "不经意却对皮肤好的习惯",
       "onboard_time": 1694997999,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 859322,
+      "num": 859322,
+      "word": "录取通知书被人冒领顶替30年",
+      "onboard_time": 1695191256,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846219,
@@ -1659,14 +1675,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 696737,
-      "num": 696737,
-      "word": "用这个方法很容易怀孕",
-      "onboard_time": 1695190596,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 694635,
       "num": 694635,
       "word": "苹果辫子客服系美国一名女员工",
@@ -2019,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626351,
+      "num": 626351,
+      "word": "盐城龙卷风5死4伤",
+      "onboard_time": 1695191913,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623955,
       "num": 623955,
       "word": "男朋友在车里装了一个化妆台",
@@ -2059,6 +2075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 612807,
+      "num": 612807,
+      "word": "删除的所有QQ空间都在这里",
+      "onboard_time": 1695193836,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 612526,
       "num": 612526,
       "word": "精心 希望大家了解硅油",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1695092436,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 599169,
+      "num": 599169,
+      "word": "丞磊和卢昱晓决定了夜色尚浅爱过彼此",
+      "onboard_time": 1695192874,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 598854,
@@ -2307,6 +2339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 557802,
+      "num": 557802,
+      "word": "jjxx 歹毒",
+      "onboard_time": 1695193358,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 553671,
       "num": 553671,
       "word": "红卫董事长亲自吃肥皂",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1694951913,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552777,
+      "num": 552777,
+      "word": "国货太奶",
+      "onboard_time": 1695191556,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 551811,
@@ -3387,6 +3435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 404034,
+      "num": 404034,
+      "word": "第一次见男主纯情到接吻噘嘴的",
+      "onboard_time": 1695193654,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403634,
       "num": 403634,
       "word": "女生求职被拒后收到HR邮件教写简历",
@@ -4107,6 +4163,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 340459,
+      "num": 340459,
+      "word": "花西子道歉信无需反复强调自己是国货",
+      "onboard_time": 1695191736,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339494,
       "num": 339494,
       "word": "他从火光中走来今晚开播",
@@ -4195,6 +4259,14 @@
       "category": "幽默,动物萌宠"
     },
     {
+      "raw_hot": 331496,
+      "num": 331496,
+      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
+      "onboard_time": 1695190715,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331332,
       "num": 331332,
       "word": "山东一地农民种冬枣30万亩年收入超30亿",
@@ -4209,6 +4281,14 @@
       "onboard_time": 1695105816,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330461,
+      "num": 330461,
+      "word": "2.5条悟",
+      "onboard_time": 1695193175,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 330194,
@@ -4329,6 +4409,14 @@
       "onboard_time": 1695127236,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322209,
+      "num": 322209,
+      "word": "老刘爆哭",
+      "onboard_time": 1695194074,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 321843,
@@ -5019,14 +5107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274495,
-      "num": 274495,
-      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
-      "onboard_time": 1695190715,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273709,
       "num": 273709,
       "word": "李一桐新剧又有严刑拷打戏",
@@ -5345,6 +5425,14 @@
       "onboard_time": 1695129279,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255135,
+      "num": 255135,
+      "word": "极挑男团或将再度集结",
+      "onboard_time": 1695193836,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 254103,
@@ -5771,6 +5859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234415,
+      "num": 214685,
+      "word": "昆凌回应周杰伦演唱会意外",
+      "onboard_time": 1695194016,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234112,
       "num": 234112,
       "word": "汪苏泷说芋圆cp还好着呢",
@@ -6019,6 +6115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223196,
+      "num": 223196,
+      "word": "MING和GALA时尚大片",
+      "onboard_time": 1695190536,
+      "rank": 41,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 222942,
       "num": 222942,
       "word": "华为FreeBuds",
@@ -6081,14 +6185,6 @@
       "onboard_time": 1694946694,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 220076,
-      "num": 220076,
-      "word": "录取通知书被人冒领顶替30年",
-      "onboard_time": 1695191256,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219849,
@@ -6273,6 +6369,14 @@
       "onboard_time": 1695093756,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213715,
+      "num": 213715,
+      "word": "这通勤包是怎么做到全国统一的",
+      "onboard_time": 1695193415,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 213272,
@@ -6867,14 +6971,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 194959,
-      "num": 194959,
-      "word": "MING和GALA时尚大片",
-      "onboard_time": 1695190536,
-      "rank": 41,
-      "category": "游戏,时尚"
-    },
-    {
       "raw_hot": 194645,
       "num": 194645,
       "word": "卡雅vs山东泰山",
@@ -7129,6 +7225,14 @@
       "onboard_time": 1695130238,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 188027,
+      "num": 188027,
+      "word": "五条悟还能活吗",
+      "onboard_time": 1695193836,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 187822,
@@ -7497,6 +7601,14 @@
       "onboard_time": 1695024158,
       "rank": 34,
       "category": "数码,艺人"
+    },
+    {
+      "raw_hot": 175532,
+      "num": 175532,
+      "word": "谁教张予曦这么跳舞的",
+      "onboard_time": 1695194134,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 175508,
@@ -7963,14 +8075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159495,
-      "num": 159495,
-      "word": "国货太奶",
-      "onboard_time": 1695191556,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158899,
       "num": 158899,
       "word": "女子吐槽闺蜜看秀像极了去进货",
@@ -8241,6 +8345,14 @@
       "onboard_time": 1695103953,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 146916,
+      "num": 146916,
+      "word": "救人后第99天他跑上曾一跃而下的大桥",
+      "onboard_time": 1695191973,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145819,
@@ -8844,7 +8956,7 @@
     },
     {
       "raw_hot": 93715,
-      "num": 1306960,
+      "num": 1623333,
       "word": "何以中国的文明密码",
       "onboard_time": 1695181237,
       "rank": 2,

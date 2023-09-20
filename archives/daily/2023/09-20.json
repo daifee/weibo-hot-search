@@ -1,10 +1,10 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695191729360,
+  "endTime": 1695194171498,
   "band_list": [
     {
       "raw_hot": 3939737,
-      "num": 2223755,
+      "num": 2811810,
       "word": "花西子公关部或集体离职",
       "onboard_time": 1695187117,
       "rank": 0,
@@ -67,12 +67,20 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 1478598,
-      "num": 1478598,
+      "raw_hot": 1700985,
+      "num": 1700985,
       "word": "五条悟被腰斩",
       "onboard_time": 1695189576,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1547791,
+      "num": 1547791,
+      "word": "广东再添985大学",
+      "onboard_time": 1695190118,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1477562,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1275285,
-      "num": 1275285,
-      "word": "广东再添985大学",
-      "onboard_time": 1695190118,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1259719,
       "num": 525165,
       "word": "iPhone15可设充电上限为80%",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1139421,
-      "num": 577489,
+      "num": 586744,
       "word": "Angelababy敦煌飞天妆",
       "onboard_time": 1695185500,
       "rank": 10,
@@ -169,6 +169,22 @@
       "onboard_time": 1695179194,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 876551,
+      "num": 876551,
+      "word": "用这个方法很容易怀孕",
+      "onboard_time": 1695190596,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 859322,
+      "num": 859322,
+      "word": "录取通知书被人冒领顶替30年",
+      "onboard_time": 1695191256,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817800,
@@ -243,14 +259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 696737,
-      "num": 696737,
-      "word": "用这个方法很容易怀孕",
-      "onboard_time": 1695190596,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 686862,
       "num": 686862,
       "word": "洗牙只是洗出了原本的牙缝",
@@ -299,6 +307,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 626351,
+      "num": 626351,
+      "word": "盐城龙卷风5死4伤",
+      "onboard_time": 1695191913,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613370,
       "num": 613370,
       "word": "瑞幸客服回应与哈利波特联名",
@@ -307,12 +323,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 612807,
+      "num": 612807,
+      "word": "删除的所有QQ空间都在这里",
+      "onboard_time": 1695193836,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 605942,
       "num": 605942,
       "word": "餐厅员工发顾客打娃视频后赔1万离职",
       "onboard_time": 1695167193,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599169,
+      "num": 599169,
+      "word": "丞磊和卢昱晓决定了夜色尚浅爱过彼此",
+      "onboard_time": 1695192874,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 594487,
@@ -355,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557802,
+      "num": 557802,
+      "word": "jjxx 歹毒",
+      "onboard_time": 1695193358,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 553671,
       "num": 553671,
       "word": "红卫董事长亲自吃肥皂",
       "onboard_time": 1695185079,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552777,
+      "num": 552777,
+      "word": "国货太奶",
+      "onboard_time": 1695191556,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 538982,
@@ -523,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 404034,
+      "num": 404034,
+      "word": "第一次见男主纯情到接吻噘嘴的",
+      "onboard_time": 1695193654,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403634,
       "num": 403634,
       "word": "女生求职被拒后收到HR邮件教写简历",
@@ -667,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340459,
+      "num": 340459,
+      "word": "花西子道歉信无需反复强调自己是国货",
+      "onboard_time": 1695191736,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333282,
       "num": 333282,
       "word": "研究生上课 没有课本",
@@ -675,12 +739,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331496,
+      "num": 331496,
+      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
+      "onboard_time": 1695190715,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330461,
+      "num": 330461,
+      "word": "2.5条悟",
+      "onboard_time": 1695193175,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 324463,
       "num": 138543,
       "word": "马伯庸 隔壁坐了个中国人民的老朋友",
       "onboard_time": 1695164124,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322209,
+      "num": 322209,
+      "word": "老刘爆哭",
+      "onboard_time": 1695194074,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 318084,
@@ -697,6 +785,14 @@
       "onboard_time": 1695169903,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316708,
+      "num": 316708,
+      "word": "A股",
+      "onboard_time": 1695193595,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 312335,
@@ -795,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274495,
-      "num": 274495,
-      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
-      "onboard_time": 1695190715,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273858,
       "num": 273858,
       "word": "长风破浪 王一博李沁",
@@ -875,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255135,
+      "num": 255135,
+      "word": "极挑男团或将再度集结",
+      "onboard_time": 1695193836,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251278,
       "num": 251278,
       "word": "出国留学时期的卢昱晓",
@@ -923,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234415,
+      "num": 214685,
+      "word": "昆凌回应周杰伦演唱会意外",
+      "onboard_time": 1695194016,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233624,
       "num": 233624,
       "word": "林俊杰武汉",
@@ -939,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223196,
+      "num": 223196,
+      "word": "MING和GALA时尚大片",
+      "onboard_time": 1695190536,
+      "rank": 41,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 221466,
       "num": 221466,
       "word": "大一新生没去报道被辅导员移出班级群",
@@ -953,14 +1065,6 @@
       "onboard_time": 1695124477,
       "rank": 26,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 220076,
-      "num": 220076,
-      "word": "录取通知书被人冒领顶替30年",
-      "onboard_time": 1695191256,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217017,
@@ -985,6 +1089,14 @@
       "onboard_time": 1695189816,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213715,
+      "num": 213715,
+      "word": "这通勤包是怎么做到全国统一的",
+      "onboard_time": 1695193415,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 207593,
@@ -1091,14 +1203,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 194959,
-      "num": 194959,
-      "word": "MING和GALA时尚大片",
-      "onboard_time": 1695190536,
-      "rank": 41,
-      "category": "游戏,时尚"
-    },
-    {
       "raw_hot": 194199,
       "num": 194199,
       "word": "大众电影2023大湾区音乐汇",
@@ -1153,6 +1257,14 @@
       "onboard_time": 1695160155,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188027,
+      "num": 188027,
+      "word": "五条悟还能活吗",
+      "onboard_time": 1695193836,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 187465,
@@ -1249,6 +1361,14 @@
       "onboard_time": 1695126576,
       "rank": 29,
       "category": "其它"
+    },
+    {
+      "raw_hot": 175532,
+      "num": 175532,
+      "word": "谁教张予曦这么跳舞的",
+      "onboard_time": 1695194134,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 174728,
@@ -1363,14 +1483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159495,
-      "num": 159495,
-      "word": "国货太奶",
-      "onboard_time": 1695191556,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159087,
       "num": 159087,
       "word": "徐娇回归周星驰公司",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1695145699,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146916,
+      "num": 146916,
+      "word": "救人后第99天他跑上曾一跃而下的大桥",
+      "onboard_time": 1695191973,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146426,
@@ -1572,7 +1692,7 @@
     },
     {
       "raw_hot": 93715,
-      "num": 1306960,
+      "num": 1623333,
       "word": "何以中国的文明密码",
       "onboard_time": 1695181237,
       "rank": 2,
