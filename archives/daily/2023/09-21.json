@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695245647612,
+  "endTime": 1695248142040,
   "band_list": [
     {
       "raw_hot": 1871940,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168140,
+      "num": 168140,
+      "word": "16岁读博士神童张炘炀现状",
+      "onboard_time": 1695243854,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 166861,
       "num": 166861,
       "word": "谁把成毅耳朵煮了",
@@ -233,6 +241,14 @@
       "onboard_time": 1695218676,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153052,
+      "num": 153052,
+      "word": "国产小说界的四大天王",
+      "onboard_time": 1695241154,
+      "rank": 23,
+      "category": "读书作家"
     },
     {
       "raw_hot": 152709,
@@ -395,20 +411,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 86194,
-      "num": 86194,
-      "word": "国产小说界的四大天王",
-      "onboard_time": 1695241154,
-      "rank": 23,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 84400,
       "num": 105331,
       "word": "不考虑条件最想去的城市",
       "onboard_time": 1695219816,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 82418,
+      "num": 82418,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 79856,
@@ -435,11 +451,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60337,
+      "num": 60337,
+      "word": "起猛了抓间谍抓到自己弟",
+      "onboard_time": 1695238514,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59580,
       "num": 291026,
       "word": "杭州亚运会超全补课帖",
       "onboard_time": 1695217238,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59563,
+      "num": 59563,
+      "word": "河南鹿邑一小学生校内坠楼身亡",
+      "onboard_time": 1695244093,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -451,14 +483,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 57917,
-      "num": 37130,
-      "word": "起猛了抓间谍抓到自己弟",
-      "onboard_time": 1695238514,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54836,
       "num": 290116,
       "word": "国内成品油价年内第十涨",
@@ -467,12 +491,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 54571,
-      "num": 54571,
-      "word": "上半年爆款是狂飙和长相思",
-      "onboard_time": 1695240674,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 54109,
+      "num": 33307,
+      "word": "AirPodsPro2 样子不变新功能出现",
+      "onboard_time": 1695242414,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 52093,
@@ -483,36 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38374,
-      "num": 36716,
-      "word": "16岁读博士神童张炘炀现状",
-      "onboard_time": 1695243854,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 28509,
+      "num": 28509,
+      "word": "张凌赫替虞书欣打招呼",
+      "onboard_time": 1695247275,
+      "rank": 36,
+      "category": "剧集"
     },
     {
-      "raw_hot": 36752,
-      "num": 19973,
-      "word": "AirPodsPro2 样子不变新功能出现",
-      "onboard_time": 1695242414,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 25550,
+      "raw_hot": 25781,
       "num": 35236,
       "word": "有记录以来第一只狗和狐狸的杂交后代",
       "onboard_time": 1695234076,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 25006,
-      "num": 25006,
-      "word": "河南鹿邑一小学生校内坠楼身亡",
-      "onboard_time": 1695244093,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20922,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 20745,
-      "num": 20421,
+      "num": 23620,
       "word": "第一次觉得逛超市这么痛",
       "onboard_time": 1695238034,
       "rank": 30,
@@ -539,8 +547,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 9316,
-      "num": 37376,
+      "raw_hot": 9834,
+      "num": 72014,
       "word": "在兵团遇见非遗",
       "onboard_time": 1695240435,
       "rank": 24,

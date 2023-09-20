@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695245647612,
+  "endTime": 1695248142040,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -9011,6 +9011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168140,
+      "num": 168140,
+      "word": "16岁读博士神童张炘炀现状",
+      "onboard_time": 1695243854,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 167651,
       "num": 167651,
       "word": "汪苏泷抱吉克隽逸想伸不敢伸的手",
@@ -9377,6 +9385,14 @@
       "onboard_time": 1694999857,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153052,
+      "num": 153052,
+      "word": "国产小说界的四大天王",
+      "onboard_time": 1695241154,
+      "rank": 23,
+      "category": "读书作家"
     },
     {
       "raw_hot": 152991,
@@ -10331,14 +10347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86194,
-      "num": 86194,
-      "word": "国产小说界的四大天王",
-      "onboard_time": 1695241154,
-      "rank": 23,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 86039,
       "num": 86039,
       "word": "一只猴子来到了葬礼上伏地告别",
@@ -10385,6 +10393,14 @@
       "onboard_time": 1694906665,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82418,
+      "num": 82418,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 80175,
@@ -10579,12 +10595,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 60337,
+      "num": 60337,
+      "word": "起猛了抓间谍抓到自己弟",
+      "onboard_time": 1695238514,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59653,
       "num": 59653,
       "word": "养狗人的大型社死现场",
       "onboard_time": 1694890335,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 59563,
+      "num": 59563,
+      "word": "河南鹿邑一小学生校内坠楼身亡",
+      "onboard_time": 1695244093,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59036,
@@ -10611,14 +10643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57917,
-      "num": 37130,
-      "word": "起猛了抓间谍抓到自己弟",
-      "onboard_time": 1695238514,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57620,
       "num": 201879,
       "word": "荣耀钱包折叠屏群星现场",
@@ -10635,12 +10659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54571,
-      "num": 54571,
-      "word": "上半年爆款是狂飙和长相思",
-      "onboard_time": 1695240674,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 54109,
+      "num": 33307,
+      "word": "AirPodsPro2 样子不变新功能出现",
+      "onboard_time": 1695242414,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 52093,
@@ -10739,28 +10763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38374,
-      "num": 36716,
-      "word": "16岁读博士神童张炘炀现状",
-      "onboard_time": 1695243854,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 38198,
       "num": 49513,
       "word": "BLACKPINK首尔安可",
       "onboard_time": 1694861256,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36752,
-      "num": 19973,
-      "word": "AirPodsPro2 样子不变新功能出现",
-      "onboard_time": 1695242414,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 35946,
@@ -10875,6 +10883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28509,
+      "num": 28509,
+      "word": "张凌赫替虞书欣打招呼",
+      "onboard_time": 1695247275,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27465,
       "num": 38593,
       "word": "边牧赶羊的时候真的好帅",
@@ -10899,6 +10915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25781,
+      "num": 35236,
+      "word": "有记录以来第一只狗和狐狸的杂交后代",
+      "onboard_time": 1695234076,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 25660,
       "num": 143353,
       "word": "洞门人秋冬怎么搭",
@@ -10915,28 +10939,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 25550,
-      "num": 35236,
-      "word": "有记录以来第一只狗和狐狸的杂交后代",
-      "onboard_time": 1695234076,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 25097,
       "num": 38877,
       "word": "总要走一趟孤山路吧",
       "onboard_time": 1694975596,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25006,
-      "num": 25006,
-      "word": "河南鹿邑一小学生校内坠楼身亡",
-      "onboard_time": 1695244093,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24991,
@@ -10996,7 +11004,7 @@
     },
     {
       "raw_hot": 20745,
-      "num": 20421,
+      "num": 23620,
       "word": "第一次觉得逛超市这么痛",
       "onboard_time": 1695238034,
       "rank": 30,
@@ -11075,8 +11083,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9316,
-      "num": 37376,
+      "raw_hot": 9834,
+      "num": 72014,
       "word": "在兵团遇见非遗",
       "onboard_time": 1695240435,
       "rank": 24,
