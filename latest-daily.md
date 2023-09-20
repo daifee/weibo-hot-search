@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/20 00:22:40 ~ 2023/09/20 09:31:36
+本榜单时间：2023/09/20 00:22:40 ~ 2023/09/20 10:22:28
 </p>
 </blockquote>
 <p>
@@ -28,13 +28,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B1%AA%E6%8E%B71%E4%B8%87%E4%BB%BD%E8%8A%B1%E8%A5%BF%E5%B8%81%23" target="weibo">
-花西子豪掷1万份花西币（热度：1678632）
+花西子豪掷1万份花西币（热度：2551118）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83%23" target="weibo">
-12306称不可能给第三方平台优先购票权（热度：1412750）
+12306称不可能给第三方平台优先购票权（热度：1477562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23" target="weibo">
+韩国是不是满大街都这种发型（热度：1415823）
 </a>
 </li>
 
@@ -63,12 +69,6 @@ iPhone15可设充电上限为80%（热度：1259719）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23" target="weibo">
-韩国是不是满大街都这种发型（热度：902644）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 31岁博士生宿舍楼坠楼身亡（热度：817800）
 </a>
@@ -87,6 +87,12 @@ iPhone15可设充电上限为80%（热度：1259719）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E8%8A%82%E5%81%87%E6%97%A5%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%B6%A8%E4%BB%B7%23" target="weibo">
+12306回应节假日火车票涨价（热度：714762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%AD%99%E5%A5%B3%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B6%E5%A5%B6%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8A%E5%8D%88%23" target="weibo">
 3岁孙女上幼儿园奶奶哭了一上午（热度：684500）
 </a>
@@ -101,6 +107,12 @@ papi酱我的震惊划破天际（热度：636294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E8%81%94%E5%90%8D%23" target="weibo">
 瑞幸客服回应与哈利波特联名（热度：613370）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%B8%8D%E5%A4%9F%E7%9C%9F%E8%AF%9A%E4%B8%8D%E5%A4%9F%E5%AE%9E%E5%9C%A8%23" target="weibo">
+花西子道歉不够真诚不够实在（热度：612322）
 </a>
 </li>
 
@@ -135,6 +147,12 @@ papi酱我的震惊划破天际（热度：636294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B9%8B%E5%90%8E%E6%89%8D%E4%BC%9A%E7%9F%A5%E9%81%93%E7%9A%84%E7%9C%9F%E7%9B%B8%23" target="weibo">
+读研究生之后才会知道的真相（热度：520941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2360%E5%B2%81%E6%95%99%E6%8E%88%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%AD%A6%E7%94%9F%E8%81%94%E6%89%8B%E6%96%BD%E6%95%91%23" target="weibo">
 60岁教授心脏骤停学生联手施救（热度：512532）
 </a>
@@ -155,12 +173,6 @@ papi酱我的震惊划破天际（热度：636294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3%23" target="weibo">
 王者荣耀新赛季（热度：470579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B9%8B%E5%90%8E%E6%89%8D%E4%BC%9A%E7%9F%A5%E9%81%93%E7%9A%84%E7%9C%9F%E7%9B%B8%23" target="weibo">
-读研究生之后才会知道的真相（热度：466839）
 </a>
 </li>
 
@@ -195,6 +207,12 @@ papi酱我的震惊划破天际（热度：636294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8D%E4%BD%B0%20%E6%97%A0%E6%84%8F%E9%A2%A0%E8%A6%86%E8%BF%99%E4%B8%AA%E8%A1%8C%E4%B8%9A%23" target="weibo">
+伍佰 无意颠覆这个行业（热度：400426）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E8%A3%85%E5%91%A8%E6%A8%A1%E7%89%B9%E8%A1%80%E8%82%89%E6%A8%A1%E7%B3%8A%E7%9A%84%E8%84%9A%E5%90%8E%E8%B7%9F%23" target="weibo">
 时装周模特血肉模糊的脚后跟（热度：396690）
 </a>
@@ -209,6 +227,12 @@ papi酱我的震惊划破天际（热度：636294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E4%BC%8D%E4%BD%B0%E5%90%AC%E8%AF%B4%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23" target="weibo">
 假如伍佰听说薛之谦演唱会取消（热度：369848）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%AD%A9%E5%AD%90%E5%9D%A0%E6%A5%BC%E9%82%BB%E5%B1%85%E4%BB%AC%E7%A7%92%E5%8F%98%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%23" target="weibo">
+4岁孩子坠楼邻居们秒变超级英雄（热度：365795）
 </a>
 </li>
 
@@ -285,8 +309,14 @@ iPhone15与Pro该选谁（热度：299699）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%B8%8D%E5%A4%9F%E7%9C%9F%E8%AF%9A%E4%B8%8D%E5%A4%9F%E5%AE%9E%E5%9C%A8%23" target="weibo">
-花西子道歉不够真诚不够实在（热度：280495）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+你谈不上恋爱的原因（热度：293704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BC%99%E9%A3%9F%E7%8A%B9%E5%A6%82%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%23" target="weibo">
+重庆一幼儿园伙食犹如满汉全席（热度：281204）
 </a>
 </li>
 
@@ -315,6 +345,12 @@ iPhone15与Pro该选谁（热度：299699）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E4%BC%98%E9%85%B7%E7%89%87%E5%8D%95%23" target="weibo">
+2024优酷片单（热度：258063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BD%A8%E8%BF%B92004%E5%B9%B4%E7%8E%B0%E5%9C%BA%23" target="weibo">
 周杰伦轨迹2004年现场（热度：256412）
 </a>
@@ -329,6 +365,12 @@ iPhone15与Pro该选谁（热度：299699）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%B4%A9%E4%BA%86%23" target="weibo">
 京东崩了（热度：248052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E9%9F%A9%E7%AB%8B%E9%BB%91%E8%A1%A3%E6%96%97%E7%AC%A0%E9%80%A0%E5%9E%8B%23" target="weibo">
+杨洋韩立黑衣斗笠造型（热度：235570）
 </a>
 </li>
 
@@ -381,8 +423,20 @@ iPhone15Pro系列评测（热度：202115）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%87%AA%E5%B7%B1%E4%BA%94%E5%A4%A9%E7%9A%84%E6%8E%89%E5%8F%91%E9%87%8F%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
+被自己五天的掉发量惊到了（热度：195169）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%BA%86%23" target="weibo">
 THE9解散演唱会官宣了（热度：192827）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E6%98%AF%E7%BA%AA%E5%BD%95%E7%89%87%E7%9A%84%E8%AF%81%E6%8D%AE%23" target="weibo">
+猫和老鼠是纪录片的证据（热度：189712）
 </a>
 </li>
 
@@ -429,6 +483,18 @@ SEVENTEEN官宣10月23日回归（热度：181694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E4%B8%8D%E5%83%8F%E6%98%AF%E7%9C%8B%E7%A7%80%E7%9A%84%E5%83%8F%E6%98%AF%E5%8E%BB%E8%B5%B0%E7%A7%80%E7%9A%84%23" target="weibo">
+张彬彬不像是看秀的像是去走秀的（热度：173102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%AF%E4%BD%95%E7%82%85%E4%BB%8B%E7%BB%8D%E8%AE%A4%E8%AF%86%E7%9A%84%23" target="weibo">
+韩庚魏大勋是何炅介绍认识的（热度：172617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Lisa%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%9E%E5%9B%BE%23" target="weibo">
 Lisa演唱会神图（热度：172337）
 </a>
@@ -453,8 +519,20 @@ Lisa演唱会神图（热度：172337）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%B7%AF%E7%89%8C%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E9%A1%BA%E7%9C%BC%E4%BA%86%23" target="weibo">
+网红路牌一下子就顺眼了（热度：160146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E5%9B%9E%E5%BD%92%E5%91%A8%E6%98%9F%E9%A9%B0%E5%85%AC%E5%8F%B8%23" target="weibo">
 徐娇回归周星驰公司（热度：159087）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E6%89%8B%E6%B8%B8%23" target="weibo">
+阴阳师手游（热度：154951）
 </a>
 </li>
 
@@ -519,12 +597,6 @@ Lisa演唱会神图（热度：172337）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%AF%E4%BD%95%E7%82%85%E4%BB%8B%E7%BB%8D%E8%AE%A4%E8%AF%86%E7%9A%84%23" target="weibo">
-韩庚魏大勋是何炅介绍认识的（热度：135375）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%99%A8%E8%BE%B0%E4%BD%A0%E6%80%8E%E4%B9%88%E7%9C%9F%E7%98%A6%E4%BA%86%23" target="weibo">
 管晨辰你怎么真瘦了（热度：133655）
 </a>
@@ -573,8 +645,8 @@ Lisa演唱会神图（热度：172337）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E4%B8%8D%E5%83%8F%E6%98%AF%E7%9C%8B%E7%A7%80%E7%9A%84%E5%83%8F%E6%98%AF%E5%8E%BB%E8%B5%B0%E7%A7%80%E7%9A%84%23" target="weibo">
-张彬彬不像是看秀的像是去走秀的（热度：115613）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%9C%A8%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99%E5%90%97%23" target="weibo">
+你还在无效刷牙吗（热度：109528）
 </a>
 </li>
 

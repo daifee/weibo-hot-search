@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 09:31:36
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 10:22:28
 </p>
 </blockquote>
 <p>
@@ -791,6 +791,12 @@ iPhone15取消静音拨片（热度：2651422）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%23" target="weibo">
 教资（热度：2553536）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B1%AA%E6%8E%B71%E4%B8%87%E4%BB%BD%E8%8A%B1%E8%A5%BF%E5%B8%81%23" target="weibo">
+花西子豪掷1万份花西币（热度：2551118）
 </a>
 </li>
 
@@ -2193,12 +2199,6 @@ iPhone信号太差或将解决（热度：1716894）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B1%AA%E6%8E%B71%E4%B8%87%E4%BB%BD%E8%8A%B1%E8%A5%BF%E5%B8%81%23" target="weibo">
-花西子豪掷1万份花西币（热度：1678632）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%A5%E4%BA%865000%E5%A4%9A%E5%8F%AA%E8%99%BE%E5%B0%B1%E4%B8%BA%E4%BA%86%E4%B8%80%E7%A2%97%E9%9D%A2%23" target="weibo">
 剥了5000多只虾就为了一碗面（热度：1674325）
 </a>
@@ -2673,6 +2673,12 @@ iPhone14价格不降反涨（热度：1494110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83%23" target="weibo">
+12306称不可能给第三方平台优先购票权（热度：1477562）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%23" target="weibo">
 华为（热度：1475183）
 </a>
@@ -2829,6 +2835,12 @@ JonyJ举行婚礼（热度：1450905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23" target="weibo">
+韩国是不是满大街都这种发型（热度：1415823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E7%BA%A2%E8%8C%B6%23" target="weibo">
 蜜雪冰城 红茶（热度：1415517）
 </a>
@@ -2843,12 +2855,6 @@ JonyJ举行婚礼（热度：1450905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
 教育局回应小学教师打伤学生头骨（热度：1413066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83%23" target="weibo">
-12306称不可能给第三方平台优先购票权（热度：1412750）
 </a>
 </li>
 
@@ -5153,12 +5159,6 @@ iPhone15机型比例为3比1（热度：906244）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E6%97%B6%E9%9A%9423%E5%B9%B4%E5%86%8D%E6%89%AE%E6%9D%8E%E7%8E%89%E6%B9%96%23" target="weibo">
 黄奕时隔23年再扮李玉湖（热度：904438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23" target="weibo">
-韩国是不是满大街都这种发型（热度：902644）
 </a>
 </li>
 
