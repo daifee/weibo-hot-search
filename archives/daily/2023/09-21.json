@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695234932844,
+  "endTime": 1695237222819,
   "band_list": [
     {
       "raw_hot": 1871940,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150869,
+      "num": 150869,
+      "word": "男子分手后求和不成刺死前女友母亲",
+      "onboard_time": 1695232459,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150008,
       "num": 150008,
       "word": "曾昭颢亲了张巾",
@@ -289,14 +297,6 @@
       "onboard_time": 1695215796,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137188,
-      "num": 60650,
-      "word": "男子分手后求和不成刺死前女友母亲",
-      "onboard_time": 1695232459,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134741,
@@ -459,12 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25243,
+      "raw_hot": 25550,
       "num": 35236,
       "word": "有记录以来第一只狗和狐狸的杂交后代",
       "onboard_time": 1695234076,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 20922,
+      "num": 20922,
+      "word": "有梗就接黄铉辰",
+      "onboard_time": 1695234980,
+      "rank": 41,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
