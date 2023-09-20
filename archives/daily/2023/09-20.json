@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695190961354,
+  "endTime": 1695191729360,
   "band_list": [
     {
       "raw_hot": 3939737,
@@ -67,6 +67,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1478598,
+      "num": 1478598,
+      "word": "五条悟被腰斩",
+      "onboard_time": 1695189576,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1477562,
       "num": 1477562,
       "word": "12306称不可能给第三方平台优先购票权",
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1295409,
-      "num": 1295409,
-      "word": "五条悟被腰斩",
-      "onboard_time": 1695189576,
-      "rank": 3,
-      "category": "动漫"
+      "raw_hot": 1275285,
+      "num": 1275285,
+      "word": "广东再添985大学",
+      "onboard_time": 1695190118,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1259719,
@@ -203,20 +211,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 726982,
-      "num": 726982,
+      "raw_hot": 730203,
+      "num": 730203,
       "word": "警方发3.4万条钓鱼短信321名大学生上钩",
       "onboard_time": 1695186938,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 724335,
-      "num": 576015,
-      "word": "广东再添985大学",
-      "onboard_time": 1695190118,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 723299,
@@ -241,6 +241,14 @@
       "onboard_time": 1695186161,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 696737,
+      "num": 696737,
+      "word": "用这个方法很容易怀孕",
+      "onboard_time": 1695190596,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 686862,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594487,
+      "num": 594487,
+      "word": "我们恋爱吧女1撞衫赵露思",
+      "onboard_time": 1695188197,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585252,
       "num": 585252,
       "word": "长期喝带有水垢的水会不会得肾结石",
@@ -329,14 +345,6 @@
       "onboard_time": 1695133301,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569869,
-      "num": 569869,
-      "word": "我们恋爱吧女1撞衫赵露思",
-      "onboard_time": 1695188197,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 563423,
@@ -467,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436235,
-      "num": 436235,
-      "word": "用这个方法很容易怀孕",
-      "onboard_time": 1695190596,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 435809,
       "num": 435809,
       "word": "肩膀突然不内扣了",
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364702,
+      "num": 364702,
+      "word": "宫远徵那句宫尚角是田嘉瑞自己加的",
+      "onboard_time": 1695189759,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364341,
       "num": 364341,
       "word": "征服韩国小学生的中国零食",
@@ -673,14 +681,6 @@
       "onboard_time": 1695164124,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 323864,
-      "num": 323864,
-      "word": "宫远徵那句宫尚角是田嘉瑞自己加的",
-      "onboard_time": 1695189759,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 318084,
@@ -795,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274495,
+      "num": 274495,
+      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
+      "onboard_time": 1695190715,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273858,
       "num": 273858,
       "word": "长风破浪 王一博李沁",
@@ -851,6 +859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 256521,
+      "num": 256521,
+      "word": "掌心拟邀过杨紫杨幂刘诗诗",
+      "onboard_time": 1695189158,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256412,
       "num": 197644,
       "word": "周杰伦轨迹2004年现场",
@@ -881,14 +897,6 @@
       "onboard_time": 1695135165,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 245183,
-      "num": 245183,
-      "word": "掌心拟邀过杨紫杨幂刘诗诗",
-      "onboard_time": 1695189158,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 240943,
@@ -945,6 +953,14 @@
       "onboard_time": 1695124477,
       "rank": 26,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 220076,
+      "num": 220076,
+      "word": "录取通知书被人冒领顶替30年",
+      "onboard_time": 1695191256,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217017,
@@ -1075,6 +1091,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 194959,
+      "num": 194959,
+      "word": "MING和GALA时尚大片",
+      "onboard_time": 1695190536,
+      "rank": 41,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 194199,
       "num": 194199,
       "word": "大众电影2023大湾区音乐汇",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1695117758,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192747,
+      "num": 192747,
+      "word": "我们恋爱吧",
+      "onboard_time": 1695190715,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 190975,
@@ -1139,14 +1171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187048,
-      "num": 187048,
-      "word": "我们恋爱吧",
-      "onboard_time": 1695190715,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187046,
       "num": 187046,
       "word": "陈牧驰博客天下封面",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1695172360,
       "rank": 32,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 182501,
+      "num": 182501,
+      "word": "云之羽",
+      "onboard_time": 1695191016,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 181694,
@@ -1291,14 +1323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 164894,
-      "num": 164894,
-      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
-      "onboard_time": 1695190715,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162179,
       "num": 162179,
       "word": "这开场主打一个震撼",
@@ -1339,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159495,
+      "num": 159495,
+      "word": "国货太奶",
+      "onboard_time": 1695191556,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159087,
       "num": 159087,
       "word": "徐娇回归周星驰公司",
@@ -1347,12 +1379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151695,
-      "num": 151695,
-      "word": "MING和GALA时尚大片",
-      "onboard_time": 1695190536,
-      "rank": 41,
-      "category": "游戏,时尚"
+      "raw_hot": 157385,
+      "num": 157385,
+      "word": "曾资助过600多名学生的老教师走了",
+      "onboard_time": 1695190834,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150559,
@@ -1417,14 +1449,6 @@
       "onboard_time": 1695132460,
       "rank": 42,
       "category": "美食,知识科普"
-    },
-    {
-      "raw_hot": 136676,
-      "num": 136676,
-      "word": "曾资助过600多名学生的老教师走了",
-      "onboard_time": 1695190834,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136551,
@@ -1595,7 +1619,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 63324,
+      "raw_hot": 64710,
       "num": 239236,
       "word": "孟晚舟称华为为世界构筑第二选择",
       "onboard_time": 1695189996,

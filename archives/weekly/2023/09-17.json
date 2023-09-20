@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695190961354,
+  "endTime": 1695191729360,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -483,6 +483,14 @@
       "category": "演出,情感"
     },
     {
+      "raw_hot": 1478598,
+      "num": 1478598,
+      "word": "五条悟被腰斩",
+      "onboard_time": 1695189576,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1477562,
       "num": 1477562,
       "word": "12306称不可能给第三方平台优先购票权",
@@ -587,14 +595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1295409,
-      "num": 1295409,
-      "word": "五条悟被腰斩",
-      "onboard_time": 1695189576,
-      "rank": 3,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 1285255,
       "num": 1285255,
       "word": "12306车票候补的正确方法",
@@ -617,6 +617,14 @@
       "onboard_time": 1695098620,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1275285,
+      "num": 1275285,
+      "word": "广东再添985大学",
+      "onboard_time": 1695190118,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1271323,
@@ -1523,20 +1531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 726982,
-      "num": 726982,
+      "raw_hot": 730203,
+      "num": 730203,
       "word": "警方发3.4万条钓鱼短信321名大学生上钩",
       "onboard_time": 1695186938,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 724335,
-      "num": 576015,
-      "word": "广东再添985大学",
-      "onboard_time": 1695190118,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 723299,
@@ -1657,6 +1657,14 @@
       "onboard_time": 1695016597,
       "rank": 5,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 696737,
+      "num": 696737,
+      "word": "用这个方法很容易怀孕",
+      "onboard_time": 1695190596,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 694635,
@@ -2107,6 +2115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 594487,
+      "num": 594487,
+      "word": "我们恋爱吧女1撞衫赵露思",
+      "onboard_time": 1695188197,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593729,
       "num": 593729,
       "word": "贝儿说伯远哥哥笑得超大声",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1694996076,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 569869,
-      "num": 569869,
-      "word": "我们恋爱吧女1撞衫赵露思",
-      "onboard_time": 1695188197,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 569845,
@@ -3139,14 +3147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436235,
-      "num": 436235,
-      "word": "用这个方法很容易怀孕",
-      "onboard_time": 1695190596,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 434469,
       "num": 434469,
       "word": "奥本海默现实比电影更可怕",
@@ -3819,6 +3819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364702,
+      "num": 364702,
+      "word": "宫远徵那句宫尚角是田嘉瑞自己加的",
+      "onboard_time": 1695189759,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364685,
       "num": 325776,
       "word": "任正非称苹果是华为的老师",
@@ -4305,14 +4313,6 @@
       "onboard_time": 1695048940,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 323864,
-      "num": 323864,
-      "word": "宫远徵那句宫尚角是田嘉瑞自己加的",
-      "onboard_time": 1695189759,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 323303,
@@ -5019,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274495,
+      "num": 274495,
+      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
+      "onboard_time": 1695190715,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273709,
       "num": 273709,
       "word": "李一桐新剧又有严刑拷打戏",
@@ -5315,6 +5323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256521,
+      "num": 256521,
+      "word": "掌心拟邀过杨紫杨幂刘诗诗",
+      "onboard_time": 1695189158,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256412,
       "num": 197644,
       "word": "周杰伦轨迹2004年现场",
@@ -5529,14 +5545,6 @@
       "onboard_time": 1694976916,
       "rank": 41,
       "category": "社会新闻,数码"
-    },
-    {
-      "raw_hot": 245183,
-      "num": 245183,
-      "word": "掌心拟邀过杨紫杨幂刘诗诗",
-      "onboard_time": 1695189158,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 244570,
@@ -6073,6 +6081,14 @@
       "onboard_time": 1694946694,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220076,
+      "num": 220076,
+      "word": "录取通知书被人冒领顶替30年",
+      "onboard_time": 1695191256,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219849,
@@ -6851,6 +6867,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 194959,
+      "num": 194959,
+      "word": "MING和GALA时尚大片",
+      "onboard_time": 1695190536,
+      "rank": 41,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 194645,
       "num": 194645,
       "word": "卡雅vs山东泰山",
@@ -6921,6 +6945,14 @@
       "onboard_time": 1695094234,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192747,
+      "num": 192747,
+      "word": "我们恋爱吧",
+      "onboard_time": 1695190715,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 192529,
@@ -7147,14 +7179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187048,
-      "num": 187048,
-      "word": "我们恋爱吧",
-      "onboard_time": 1695190715,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187046,
       "num": 187046,
       "word": "陈牧驰博客天下封面",
@@ -7265,6 +7289,14 @@
       "onboard_time": 1694932414,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182501,
+      "num": 182501,
+      "word": "云之羽",
+      "onboard_time": 1694993612,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 181773,
@@ -7819,14 +7851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164894,
-      "num": 164894,
-      "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
-      "onboard_time": 1695190715,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164361,
       "num": 164361,
       "word": "XYGvsTKL",
@@ -7939,6 +7963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159495,
+      "num": 159495,
+      "word": "国货太奶",
+      "onboard_time": 1695191556,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158899,
       "num": 158899,
       "word": "女子吐槽闺蜜看秀像极了去进货",
@@ -7985,6 +8017,14 @@
       "onboard_time": 1694906965,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157385,
+      "num": 157385,
+      "word": "曾资助过600多名学生的老教师走了",
+      "onboard_time": 1695190834,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157302,
@@ -8113,14 +8153,6 @@
       "onboard_time": 1694879734,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151695,
-      "num": 151695,
-      "word": "MING和GALA时尚大片",
-      "onboard_time": 1695190536,
-      "rank": 41,
-      "category": "游戏,时尚"
     },
     {
       "raw_hot": 150559,
@@ -8441,14 +8473,6 @@
       "onboard_time": 1695114757,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136676,
-      "num": 136676,
-      "word": "曾资助过600多名学生的老教师走了",
-      "onboard_time": 1695190834,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136202,
@@ -8795,14 +8819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99424,
-      "num": 99424,
-      "word": "云之羽",
-      "onboard_time": 1694993612,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98277,
       "num": 98277,
       "word": "薛之谦反应慢半拍",
@@ -9115,7 +9131,7 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 63324,
+      "raw_hot": 64710,
       "num": 239236,
       "word": "孟晚舟称华为为世界构筑第二选择",
       "onboard_time": 1695189996,
