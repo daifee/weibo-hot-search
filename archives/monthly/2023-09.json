@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695241063962,
+  "endTime": 1695242066067,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -51019,6 +51019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57917,
+      "num": 36249,
+      "word": "起猛了抓间谍抓到自己弟",
+      "onboard_time": 1695238514,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57857,
       "num": 1492311,
       "word": "我们的亚运",
@@ -51137,14 +51145,6 @@
       "onboard_time": 1694058694,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54767,
-      "num": 33765,
-      "word": "起猛了抓间谍抓到自己弟",
-      "onboard_time": 1695238514,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 54610,
@@ -51513,6 +51513,14 @@
       "onboard_time": 1694288593,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44721,
+      "num": 44721,
+      "word": "上半年爆款是狂飙和长相思",
+      "onboard_time": 1695240674,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 44669,
@@ -52595,12 +52603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23999,
-      "num": 23999,
-      "word": "上半年爆款是狂飙和长相思",
-      "onboard_time": 1695240674,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 24036,
+      "num": 24036,
+      "word": "国产小说界的四大天王",
+      "onboard_time": 1695241154,
+      "rank": 23,
+      "category": "读书作家"
     },
     {
       "raw_hot": 23943,
@@ -53036,7 +53044,7 @@
     },
     {
       "raw_hot": 7608,
-      "num": 23490,
+      "num": 34208,
       "word": "在兵团遇见非遗",
       "onboard_time": 1695240435,
       "rank": 24,

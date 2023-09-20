@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/21 00:22:29 ~ 2023/09/21 04:17:43
+本榜单时间：2023/09/21 00:22:29 ~ 2023/09/21 04:34:26
 </p>
 </blockquote>
 <p>
@@ -345,14 +345,14 @@ iPhone15拍人更好看（热度：515424）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E5%B9%B4%E5%86%85%E7%AC%AC%E5%8D%81%E6%B6%A8%23" target="weibo">
-国内成品油价年内第十涨（热度：54836）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%8A%93%E9%97%B4%E8%B0%8D%E6%8A%93%E5%88%B0%E8%87%AA%E5%B7%B1%E5%BC%9F%23" target="weibo">
+起猛了抓间谍抓到自己弟（热度：57917）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%8A%93%E9%97%B4%E8%B0%8D%E6%8A%93%E5%88%B0%E8%87%AA%E5%B7%B1%E5%BC%9F%23" target="weibo">
-起猛了抓间谍抓到自己弟（热度：54767）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E5%B9%B4%E5%86%85%E7%AC%AC%E5%8D%81%E6%B6%A8%23" target="weibo">
+国内成品油价年内第十涨（热度：54836）
 </a>
 </li>
 
@@ -363,14 +363,20 @@ iPhone15拍人更好看（热度：515424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%88%86%E6%AC%BE%E6%98%AF%E7%8B%82%E9%A3%99%E5%92%8C%E9%95%BF%E7%9B%B8%E6%80%9D%23" target="weibo">
+上半年爆款是狂飙和长相思（热度：44721）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E5%8F%AA%E7%8B%97%E5%92%8C%E7%8B%90%E7%8B%B8%E7%9A%84%E6%9D%82%E4%BA%A4%E5%90%8E%E4%BB%A3%23" target="weibo">
 有记录以来第一只狗和狐狸的杂交后代（热度：25550）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%88%86%E6%AC%BE%E6%98%AF%E7%8B%82%E9%A3%99%E5%92%8C%E9%95%BF%E7%9B%B8%E6%80%9D%23" target="weibo">
-上半年爆款是狂飙和长相思（热度：23999）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%B0%8F%E8%AF%B4%E7%95%8C%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%23" target="weibo">
+国产小说界的四大天王（热度：24036）
 </a>
 </li>
 
