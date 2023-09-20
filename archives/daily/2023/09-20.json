@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695184452049,
+  "endTime": 1695186930566,
   "band_list": [
     {
       "raw_hot": 3360154,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1717173,
+      "num": 1122379,
+      "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
+      "onboard_time": 1695183519,
+      "rank": 42,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1477562,
       "num": 1477562,
       "word": "12306称不可能给第三方平台优先购票权",
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1346489,
+      "num": 1346489,
+      "word": "医生发朋友圈2个通宵救2命称自豪",
+      "onboard_time": 1695181777,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1259719,
       "num": 525165,
       "word": "iPhone15可设充电上限为80%",
@@ -75,12 +91,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1192783,
-      "num": 1192783,
-      "word": "医生发朋友圈2个通宵救2命称自豪",
-      "onboard_time": 1695181777,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1139421,
+      "num": 473195,
+      "word": "Angelababy敦煌飞天妆",
+      "onboard_time": 1695185500,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1111163,
@@ -115,12 +131,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 950101,
+      "num": 950101,
+      "word": "开始担心张婉婷的精神状态",
+      "onboard_time": 1695184660,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 817800,
       "num": 270720,
       "word": "31岁博士生宿舍楼坠楼身亡",
       "onboard_time": 1695131078,
       "rank": 20,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 779469,
+      "num": 779469,
+      "word": "宿迁遭遇强龙卷风5死4伤",
+      "onboard_time": 1695184119,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758692,
@@ -169,6 +201,14 @@
       "onboard_time": 1695170199,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678101,
+      "num": 678101,
+      "word": "穷鬼套餐",
+      "onboard_time": 1695185380,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 676082,
@@ -243,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575107,
-      "num": 575107,
-      "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
-      "onboard_time": 1695183519,
-      "rank": 42,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 563423,
       "num": 563423,
       "word": "美国2009年就开始入侵华为总部服务器",
@@ -291,6 +323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 524980,
+      "num": 467200,
+      "word": "花西子投放覆盖几乎全部美妆小主播",
+      "onboard_time": 1695184660,
+      "rank": 13,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 521273,
       "num": 521273,
       "word": "读研究生之后才会知道的真相",
@@ -305,6 +345,14 @@
       "onboard_time": 1695169840,
       "rank": 12,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 500936,
+      "num": 454755,
+      "word": "红卫董事长亲自吃肥皂",
+      "onboard_time": 1695185079,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488246,
@@ -324,7 +372,7 @@
     },
     {
       "raw_hot": 474392,
-      "num": 446346,
+      "num": 466605,
       "word": "雷蒙多回应华为发布新手机",
       "onboard_time": 1695182197,
       "rank": 23,
@@ -371,12 +419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425692,
+      "num": 425692,
+      "word": "羽生结弦方拒绝回应妻子身份",
+      "onboard_time": 1695186161,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424662,
       "num": 424662,
       "word": "邓为 迪奥",
       "onboard_time": 1695132460,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 423856,
+      "num": 359801,
+      "word": "熟悉的港剧杀回来了",
+      "onboard_time": 1695185617,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 422865,
@@ -419,6 +483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 389446,
+      "num": 389446,
+      "word": "品冠儿子披荆斩棘reaction",
+      "onboard_time": 1695185979,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385702,
       "num": 385702,
       "word": "4岁孩子坠楼邻居们秒变超级英雄",
@@ -459,12 +531,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 365232,
-      "num": 365232,
-      "word": "宿迁遭遇强龙卷风5死4伤",
-      "onboard_time": 1695184119,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 365082,
+      "num": 365082,
+      "word": "夜色尚浅",
+      "onboard_time": 1695184477,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 364341,
@@ -569,6 +641,14 @@
       "onboard_time": 1695180102,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304784,
+      "num": 304784,
+      "word": "沈阳患癌阿姨无麻药手术8小时",
+      "onboard_time": 1695186221,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301237,
@@ -811,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203125,
+      "num": 203125,
+      "word": "陈奕迅澳门抢票",
+      "onboard_time": 1695186280,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202115,
       "num": 202115,
       "word": "iPhone15Pro系列评测",
@@ -889,6 +977,14 @@
       "onboard_time": 1695160155,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187465,
+      "num": 187465,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1695186161,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 187192,
@@ -1051,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161170,
+      "num": 161170,
+      "word": "心动的信号6告白夜",
+      "onboard_time": 1695184781,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160963,
       "num": 318422,
       "word": "国足亚运队5比1印度",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1695174874,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159959,
+      "num": 159959,
+      "word": "谁教夜色尚浅这么拍照的",
+      "onboard_time": 1695186760,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 159087,

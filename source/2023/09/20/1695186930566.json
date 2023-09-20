@@ -1,0 +1,410 @@
+{
+  "runTime": 1695186930566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1745371,
+        "num": 1745371,
+        "word": "原来塞牙是牙齿在求救",
+        "onboard_time": 1695176616,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1346489,
+        "num": 1346489,
+        "word": "医生发朋友圈2个通宵救2命称自豪",
+        "onboard_time": 1695181777,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63299,
+        "num": 1134969,
+        "word": "何以中国的文明密码",
+        "onboard_time": 1695181237,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1717173,
+        "num": 1122379,
+        "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
+        "onboard_time": 1695183519,
+        "rank": 3,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 950101,
+        "num": 950101,
+        "word": "开始担心张婉婷的精神状态",
+        "onboard_time": 1695184660,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779469,
+        "num": 779469,
+        "word": "宿迁遭遇强龙卷风5死4伤",
+        "onboard_time": 1695184119,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763883,
+        "num": 763883,
+        "word": "关于我们结婚了有没有剧本",
+        "onboard_time": 1695177334,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678101,
+        "num": 678101,
+        "word": "穷鬼套餐",
+        "onboard_time": 1695185380,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 580717,
+        "num": 580717,
+        "word": "韩国是不是满大街都这种发型",
+        "onboard_time": 1695171105,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473626,
+        "num": 473626,
+        "word": "成都蛋烘糕摊 老板有洁癖",
+        "onboard_time": 1695179194,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1139421,
+        "num": 473195,
+        "word": "Angelababy敦煌飞天妆",
+        "onboard_time": 1695185500,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1096655,
+        "num": 470426,
+        "word": "李佳琦直播间评论区现状",
+        "onboard_time": 1695165207,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1093293,
+        "num": 469506,
+        "word": "花西子豪掷1万份花西币",
+        "onboard_time": 1695171702,
+        "rank": 12,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 524980,
+        "num": 467200,
+        "word": "花西子投放覆盖几乎全部美妆小主播",
+        "onboard_time": 1695184660,
+        "rank": 13,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 466605,
+        "num": 466605,
+        "word": "雷蒙多回应华为发布新手机",
+        "onboard_time": 1695182197,
+        "rank": 14,
+        "category": "国外要闻,数码"
+      },
+      {
+        "raw_hot": 500936,
+        "num": 454755,
+        "word": "红卫董事长亲自吃肥皂",
+        "onboard_time": 1695185079,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425692,
+        "num": 425692,
+        "word": "羽生结弦方拒绝回应妻子身份",
+        "onboard_time": 1695186161,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402919,
+        "num": 402919,
+        "word": "宁安如梦",
+        "onboard_time": 1695180576,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389446,
+        "num": 389446,
+        "word": "品冠儿子披荆斩棘reaction",
+        "onboard_time": 1695185979,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365082,
+        "num": 365082,
+        "word": "夜色尚浅",
+        "onboard_time": 1695184477,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423856,
+        "num": 359801,
+        "word": "熟悉的港剧杀回来了",
+        "onboard_time": 1695185617,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352720,
+        "num": 352720,
+        "word": "iPhone15可设充电上限为80%",
+        "onboard_time": 1695169121,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334114,
+        "num": 334114,
+        "word": "洗牙只是洗出了原本的牙缝",
+        "onboard_time": 1695179559,
+        "rank": 22,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 304784,
+        "num": 304784,
+        "word": "沈阳患癌阿姨无麻药手术8小时",
+        "onboard_time": 1695186221,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304252,
+        "num": 304252,
+        "word": "12306回应节假日火车票涨价",
+        "onboard_time": 1695174397,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297243,
+        "num": 297243,
+        "word": "宁安如梦官微终于更新了",
+        "onboard_time": 1695182380,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291205,
+        "num": 291205,
+        "word": "献鱼",
+        "onboard_time": 1695178956,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284075,
+        "num": 284075,
+        "word": "何炅 好朋友都是阶段性的",
+        "onboard_time": 1695138222,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281601,
+        "num": 281601,
+        "word": "张艺兴黑粉公开道歉",
+        "onboard_time": 1695180397,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 273268,
+        "num": 273268,
+        "word": "这是我的岛",
+        "onboard_time": 1695181717,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267320,
+        "num": 267320,
+        "word": "金智秀新电影造型",
+        "onboard_time": 1695181300,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262171,
+        "num": 262171,
+        "word": "张艺谋说张国立演得不能再好了",
+        "onboard_time": 1695182918,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259468,
+        "num": 259468,
+        "word": "伍佰 无意颠覆这个行业",
+        "onboard_time": 1695174577,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230564,
+        "num": 230564,
+        "word": "面试问我怎么一个星期涨粉1000",
+        "onboard_time": 1695182497,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211183,
+        "num": 211183,
+        "word": "杨洋韩立黑衣斗笠造型",
+        "onboard_time": 1695176076,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207881,
+        "num": 207881,
+        "word": "对收银员说太贵了我不要了",
+        "onboard_time": 1695177635,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203125,
+        "num": 203125,
+        "word": "陈奕迅澳门抢票",
+        "onboard_time": 1695186280,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200131,
+        "num": 200131,
+        "word": "日本40多个地区百人食物中毒",
+        "onboard_time": 1695178536,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 187465,
+        "num": 187465,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1695186161,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183202,
+        "num": 183202,
+        "word": "Uzi亚运赛场书写历史一刻",
+        "onboard_time": 1695180102,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "花西子道歉不够真诚不够实在",
+        "onboard_time": 1695172478,
+        "rank": 40,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 182098,
+        "num": 182098,
+        "word": "为什么冲马桶一定要盖盖子",
+        "onboard_time": 1695178774,
+        "rank": 41,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 180372,
+        "num": 180372,
+        "word": "长期喝带有水垢的水会不会得肾结石",
+        "onboard_time": 1695178114,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175228,
+        "num": 175228,
+        "word": "iPhone15系列C口带来了哪些变化",
+        "onboard_time": 1695183219,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161170,
+        "num": 161170,
+        "word": "心动的信号6告白夜",
+        "onboard_time": 1695184781,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159959,
+        "num": 159959,
+        "word": "谁教夜色尚浅这么拍照的",
+        "onboard_time": 1695186760,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157887,
+        "num": 157887,
+        "word": "12306称不可能给第三方平台优先购票权",
+        "onboard_time": 1695170504,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154572,
+        "num": 154572,
+        "word": "6岁姐姐一句暗号救出被困弟弟",
+        "onboard_time": 1695182018,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152463,
+        "num": 152463,
+        "word": "张婧仪曾可妮在雨天牵手狂奔",
+        "onboard_time": 1695182978,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151837,
+        "num": 151837,
+        "word": "男子带抑郁症妻子送外卖疑似摆拍",
+        "onboard_time": 1695181300,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路倡议10周年#"
+    }
+  }
+}
