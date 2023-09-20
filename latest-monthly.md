@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/21 07:16:21
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/21 07:33:52
 </p>
 </blockquote>
 <p>
@@ -3729,6 +3729,12 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%8F%96%E6%B6%88%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%8C%82%E9%92%A9%23" target="weibo">
+西安交大取消四六级学位证挂钩（热度：1186537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E5%9B%9E%E5%BD%92%E5%91%A8%E6%98%9F%E9%A9%B0%E5%85%AC%E5%8F%B8%23" target="weibo">
 徐娇回归周星驰公司（热度：1186146）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E8%9F%B9%E5%BA%A7%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E5%A5%94%E8%B0%81%E8%80%8C%E5%8E%BB%23" target="weibo">
 巨蟹座永远不会奔谁而去（热度：826768）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone16Pro%E5%B0%86%E9%85%8D%E5%A4%875%E5%80%8D%E5%85%89%E5%AD%A6%E5%8F%98%E7%84%A6%E9%95%9C%E5%A4%B4%23" target="weibo">
-iPhone16Pro将配备5倍光学变焦镜头（热度：825857）
 </a>
 </li>
 

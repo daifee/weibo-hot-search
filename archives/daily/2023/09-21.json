@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695251781611,
+  "endTime": 1695252832706,
   "band_list": [
     {
       "raw_hot": 1871940,
@@ -35,12 +35,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1186537,
+      "num": 1186537,
+      "word": "西安交大取消四六级学位证挂钩",
+      "onboard_time": 1695250823,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 872123,
       "num": 295014,
       "word": "太宰治没死",
       "onboard_time": 1695222577,
       "rank": 11,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 819979,
+      "num": 819979,
+      "word": "霸王茶姬 李相夷",
+      "onboard_time": 1695250882,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 615159,
@@ -115,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382250,
-      "num": 382250,
-      "word": "西安交大取消四六级学位证挂钩",
-      "onboard_time": 1695250823,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 382080,
       "num": 382080,
       "word": "特工任务女研究生帮间谍偷样本",
@@ -131,12 +139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370894,
-      "num": 236522,
-      "word": "霸王茶姬 李相夷",
-      "onboard_time": 1695250882,
-      "rank": 10,
-      "category": "美食"
+      "raw_hot": 364879,
+      "num": 364879,
+      "word": "杜海涛亲沈梦辰不让妈妈看",
+      "onboard_time": 1695217656,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 360503,
@@ -144,14 +152,6 @@
       "word": "卓晴cp",
       "onboard_time": 1695209735,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 318675,
-      "num": 318675,
-      "word": "杜海涛亲沈梦辰不让妈妈看",
-      "onboard_time": 1695217656,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -187,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278221,
+      "num": 278221,
+      "word": "美联储",
+      "onboard_time": 1695251846,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 259304,
+      "num": 259304,
+      "word": "男子分手后求和不成刺死前女友母亲",
+      "onboard_time": 1695232459,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239398,
       "num": 239398,
       "word": "上半年爆款是狂飙和长相思",
@@ -195,20 +211,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228681,
+      "num": 228681,
+      "word": "拜仁慕尼黑4比3曼联",
+      "onboard_time": 1695251488,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223155,
       "num": 223155,
       "word": "谁家男女主进度这么快",
       "onboard_time": 1695224734,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222565,
-      "num": 203206,
-      "word": "男子分手后求和不成刺死前女友母亲",
-      "onboard_time": 1695232459,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221561,
@@ -243,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194526,
+      "num": 194526,
+      "word": "中医院网红乌梅汤下线后苍肤水登场",
+      "onboard_time": 1695250823,
+      "rank": 35,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 191133,
       "num": 191133,
       "word": "檀健次清唱金风玉露",
@@ -259,12 +283,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173511,
+      "num": 145116,
+      "word": "花西子创始人送1万份眉笔",
+      "onboard_time": 1695252812,
+      "rank": 30,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 171986,
       "num": 171986,
       "word": "于适 蓝翔系爱豆",
       "onboard_time": 1695218738,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168657,
+      "num": 168657,
+      "word": "这么漂亮的流浪猫不懂为什么会流浪",
+      "onboard_time": 1695249200,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 167138,
+      "num": 167138,
+      "word": "起猛了抓间谍抓到自己弟",
+      "onboard_time": 1695238514,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 166861,
@@ -281,6 +329,14 @@
       "onboard_time": 1695220538,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 154622,
+      "num": 145021,
+      "word": "AirPodsPro2 样子不变新功能出现",
+      "onboard_time": 1695242414,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 154304,
@@ -331,20 +387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145132,
+      "num": 145132,
+      "word": "河南鹿邑一小学生校内坠楼身亡",
+      "onboard_time": 1695244093,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142313,
       "num": 142313,
       "word": "一封信",
       "onboard_time": 1695211117,
       "rank": 36,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 141829,
-      "num": 141829,
-      "word": "河南鹿邑一小学生校内坠楼身亡",
-      "onboard_time": 1695244093,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141392,
@@ -371,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130305,
-      "num": 130305,
-      "word": "起猛了抓间谍抓到自己弟",
-      "onboard_time": 1695238514,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 131342,
+      "num": 131342,
+      "word": "大学生打工半月仅赚100元崩溃打人",
+      "onboard_time": 1695230543,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130004,
@@ -403,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126818,
-      "num": 113434,
-      "word": "AirPodsPro2 样子不变新功能出现",
-      "onboard_time": 1695242414,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 124531,
       "num": 124531,
       "word": "中国女排2比3加拿大女排",
@@ -419,12 +467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115450,
-      "num": 115450,
-      "word": "这么漂亮的流浪猫不懂为什么会流浪",
-      "onboard_time": 1695249200,
-      "rank": 49,
-      "category": "动物萌宠"
+      "raw_hot": 120260,
+      "num": 120260,
+      "word": "皇马1比0柏林联合",
+      "onboard_time": 1695251970,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118267,
+      "num": 118267,
+      "word": "小杨哥称公司不养闲人",
+      "onboard_time": 1695208357,
+      "rank": 36,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 113426,
@@ -443,22 +499,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 111130,
-      "num": 111130,
-      "word": "拜仁慕尼黑4比3曼联",
-      "onboard_time": 1695251488,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 109507,
-      "num": 109507,
-      "word": "大学生打工半月仅赚100元崩溃打人",
-      "onboard_time": 1695230543,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107076,
       "num": 107076,
       "word": "在直播开玩笑里又给我嗑到了夜色尚浅",
@@ -467,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102569,
-      "num": 102569,
-      "word": "中医院网红乌梅汤下线后苍肤水登场",
-      "onboard_time": 1695250823,
-      "rank": 35,
-      "category": "社会新闻,美食"
+      "raw_hot": 101726,
+      "num": 101726,
+      "word": "卿卿三思腾讯开播",
+      "onboard_time": 1695232578,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 97049,
@@ -483,14 +523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92379,
-      "num": 92379,
-      "word": "小杨哥称公司不养闲人",
-      "onboard_time": 1695208357,
-      "rank": 36,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 91820,
       "num": 91820,
       "word": "侯卓成杨汝晴亲了四次",
@@ -499,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87705,
+      "num": 87705,
+      "word": "李兰迪小炸毛",
+      "onboard_time": 1695250583,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86886,
       "num": 106200,
       "word": "文豪野犬",
       "onboard_time": 1695221078,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 84577,
+      "num": 84577,
+      "word": "有记录以来第一只狗和狐狸的杂交后代",
+      "onboard_time": 1695234076,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 84400,
@@ -523,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77164,
-      "num": 77164,
-      "word": "卿卿三思腾讯开播",
-      "onboard_time": 1695232578,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73616,
       "num": 73616,
       "word": "出品方说以爱为营快播了",
@@ -539,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64141,
-      "num": 64141,
-      "word": "有记录以来第一只狗和狐狸的杂交后代",
-      "onboard_time": 1695234076,
-      "rank": 49,
-      "category": "科技"
+      "raw_hot": 59875,
+      "num": 290116,
+      "word": "国内成品油价年内第十涨",
+      "onboard_time": 1695203676,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 59580,
@@ -563,14 +603,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 54836,
-      "num": 290116,
-      "word": "国内成品油价年内第十涨",
-      "onboard_time": 1695203676,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 40325,
       "num": 40325,
       "word": "张凌赫替虞书欣打招呼",
@@ -579,8 +611,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27047,
-      "num": 224035,
+      "raw_hot": 35357,
+      "num": 278359,
       "word": "在兵团遇见非遗",
       "onboard_time": 1695240435,
       "rank": 24,
