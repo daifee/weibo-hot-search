@@ -1,6 +1,6 @@
 {
   "startTime": 1695140560808,
-  "endTime": 1695183618979,
+  "endTime": 1695184452049,
   "band_list": [
     {
       "raw_hot": 3360154,
@@ -27,8 +27,8 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 2257177,
-      "num": 2257177,
+      "raw_hot": 2273918,
+      "num": 2273918,
       "word": "原来塞牙是牙齿在求救",
       "onboard_time": 1695176616,
       "rank": 20,
@@ -75,11 +75,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1192783,
+      "num": 1192783,
+      "word": "医生发朋友圈2个通宵救2命称自豪",
+      "onboard_time": 1695181777,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111163,
       "num": 1111163,
       "word": "花西子发声",
       "onboard_time": 1695117576,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1020454,
+      "num": 588727,
+      "word": "第一次看见存嫁妆是为了不嫁的",
+      "onboard_time": 1695182318,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -97,14 +113,6 @@
       "onboard_time": 1695179194,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 900144,
-      "num": 900144,
-      "word": "医生发朋友圈2个通宵救2命称自豪",
-      "onboard_time": 1695181777,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 817800,
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588727,
-      "num": 588727,
-      "word": "第一次看见存嫁妆是为了不嫁的",
-      "onboard_time": 1695182318,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585252,
       "num": 585252,
       "word": "长期喝带有水垢的水会不会得肾结石",
@@ -241,6 +241,14 @@
       "onboard_time": 1695133301,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575107,
+      "num": 575107,
+      "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
+      "onboard_time": 1695183519,
+      "rank": 42,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 563423,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 530679,
-      "num": 331763,
+      "num": 384608,
       "word": "张艺兴黑粉公开道歉",
       "onboard_time": 1695180397,
       "rank": 20,
@@ -315,6 +323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 474392,
+      "num": 446346,
+      "word": "雷蒙多回应华为发布新手机",
+      "onboard_time": 1695182197,
+      "rank": 23,
+      "category": "国外要闻,科技"
+    },
+    {
       "raw_hot": 470579,
       "num": 470579,
       "word": "王者荣耀新赛季",
@@ -331,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438749,
+      "num": 438749,
+      "word": "宁安如梦官微终于更新了",
+      "onboard_time": 1695182380,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435809,
       "num": 435809,
       "word": "肩膀突然不内扣了",
       "onboard_time": 1695112240,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 427198,
+      "num": 427198,
+      "word": "张艺谋说张国立演得不能再好了",
+      "onboard_time": 1695182918,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 424662,
@@ -395,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378661,
-      "num": 378661,
-      "word": "宁安如梦官微终于更新了",
-      "onboard_time": 1695182380,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372491,
       "num": 340637,
       "word": "对收银员说太贵了我不要了",
@@ -435,6 +459,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 365232,
+      "num": 365232,
+      "word": "宿迁遭遇强龙卷风5死4伤",
+      "onboard_time": 1695184119,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364341,
       "num": 364341,
       "word": "征服韩国小学生的中国零食",
@@ -459,20 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355630,
+      "num": 355630,
+      "word": "金智秀新电影造型",
+      "onboard_time": 1695181300,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 350867,
+      "num": 350867,
+      "word": "面试问我怎么一个星期涨粉1000",
+      "onboard_time": 1695182497,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 348191,
       "num": 348191,
       "word": "二公子罗成是懂当老板的",
       "onboard_time": 1695169178,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345911,
-      "num": 331486,
-      "word": "金智秀新电影造型",
-      "onboard_time": 1695181300,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 343327,
@@ -489,22 +529,6 @@
       "onboard_time": 1695129097,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 331153,
-      "num": 331153,
-      "word": "面试问我怎么一个星期涨粉1000",
-      "onboard_time": 1695182497,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 330828,
-      "num": 330828,
-      "word": "雷蒙多回应华为发布新手机",
-      "onboard_time": 1695182197,
-      "rank": 23,
-      "category": "国外要闻,科技"
     },
     {
       "raw_hot": 324463,
@@ -603,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287836,
+      "num": 287836,
+      "word": "这是我的岛",
+      "onboard_time": 1695181717,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278073,
       "num": 278073,
       "word": "火光导演等黄景瑜四年",
@@ -616,14 +648,6 @@
       "word": "长风破浪 王一博李沁",
       "onboard_time": 1695120641,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 271209,
-      "num": 271209,
-      "word": "张艺谋说张国立演得不能再好了",
-      "onboard_time": 1695182918,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248254,
+      "num": 248254,
+      "word": "iPhone15系列C口带来了哪些变化",
+      "onboard_time": 1695183219,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 248052,
       "num": 175325,
       "word": "京东崩了",
@@ -697,14 +729,6 @@
       "onboard_time": 1695181300,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234390,
-      "num": 234390,
-      "word": "这是我的岛",
-      "onboard_time": 1695181717,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 233624,
@@ -779,12 +803,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203451,
+      "num": 203451,
+      "word": "星穹铁道符玄",
+      "onboard_time": 1695184002,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202115,
       "num": 202115,
       "word": "iPhone15Pro系列评测",
       "onboard_time": 1695141867,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199218,
+      "num": 199218,
+      "word": "这是我的岛安排时代少年团去开荒",
+      "onboard_time": 1695184180,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 198847,
@@ -817,14 +857,6 @@
       "onboard_time": 1695117758,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191163,
-      "num": 191163,
-      "word": "iPhone15系列C口带来了哪些变化",
-      "onboard_time": 1695183219,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 190975,
@@ -907,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179608,
+      "num": 179608,
+      "word": "要久久爱海报填空",
+      "onboard_time": 1695183821,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177379,
       "num": 177379,
       "word": "孝子杨玏",
@@ -961,14 +1001,6 @@
       "onboard_time": 1695172900,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172117,
-      "num": 172117,
-      "word": "女儿曝嫁人后偷懒秘诀妈妈懵了",
-      "onboard_time": 1695183519,
-      "rank": 42,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 171757,
@@ -1051,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150227,
+      "num": 150227,
+      "word": "鹦鹉杀周冬雨章宇眼神拉扯",
+      "onboard_time": 1695183580,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149827,
       "num": 149827,
       "word": "陈坤带儿子参加伦敦时装周",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1695133605,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145062,
-      "num": 145062,
-      "word": "鹦鹉杀周冬雨章宇眼神拉扯",
-      "onboard_time": 1695183580,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 139985,
@@ -1228,7 +1260,7 @@
     },
     {
       "raw_hot": 93715,
-      "num": 1006959,
+      "num": 1237314,
       "word": "何以中国的文明密码",
       "onboard_time": 1695181237,
       "rank": 2,

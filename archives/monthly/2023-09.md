@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 12:20:18
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/20 12:34:12
 </p>
 </blockquote>
 <p>
@@ -1053,6 +1053,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
+原来塞牙是牙齿在求救（热度：2273918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%80%E6%97%A5%E9%94%80%E5%94%AE542%E4%B8%87%E6%9D%AF%23" target="weibo">
 酱香拿铁一日销售542万杯（热度：2273177）
 </a>
@@ -1079,12 +1085,6 @@ YG回应Lisa拒绝续约（热度：2504910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E9%9C%B2%E9%9D%A2%23" target="weibo">
 李子柒露面（热度：2260406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
-原来塞牙是牙齿在求救（热度：2257177）
 </a>
 </li>
 
@@ -3585,6 +3585,12 @@ TFBOYS为易烊千玺新电影做宣传（热度：1217324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%882%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%95%912%E5%91%BD%E7%A7%B0%E8%87%AA%E8%B1%AA%23" target="weibo">
+医生发朋友圈2个通宵救2命称自豪（热度：1192783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E6%99%92%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6%23" target="weibo">
 孙菲菲晒行政处罚书（热度：1190550）
 </a>
@@ -4331,6 +4337,12 @@ iPhone玄学（热度：1025193）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
 日本投降的真正原因是什么（热度：1021326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E8%A7%81%E5%AD%98%E5%AB%81%E5%A6%86%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%AB%81%E7%9A%84%23" target="weibo">
+第一次看见存嫁妆是为了不嫁的（热度：1020454）
 </a>
 </li>
 
@@ -5199,12 +5211,6 @@ iPhone15机型比例为3比1（热度：906244）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%882%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%95%912%E5%91%BD%E7%A7%B0%E8%87%AA%E8%B1%AA%23" target="weibo">
-医生发朋友圈2个通宵救2命称自豪（热度：900144）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E9%B9%A4%E5%B2%97%E5%A5%B3%E5%AD%90%E8%BF%98%E8%B4%B710%E5%B9%B4%E6%88%BF%E5%AD%90%E8%A2%AB%E5%8D%A0%23" target="weibo">
 法院回应鹤岗女子还贷10年房子被占（热度：899284）
 </a>
@@ -6005,12 +6011,6 @@ BOSS直聘崩了（热度：811236）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%B9%88%E5%A4%A7%E5%B0%BA%E5%BA%A6%E8%AE%BE%E7%BD%AE%23" target="weibo">
 杨丽萍回应舞蹈大尺度设置（热度：808633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%B2%B9%E6%9D%A1%E5%85%A8%E6%98%AF%E9%9D%A2%E5%8C%85%E5%8F%A3%E6%84%9F%23" target="weibo">
-为什么现在的油条全是面包口感（热度：807276）
 </a>
 </li>
 
