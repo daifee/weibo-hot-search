@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695226949042,
+  "endTime": 1695227904548,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -4123,6 +4123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1377319,
+      "num": 1377319,
+      "word": "虞书欣父母公司被恢复执行",
+      "onboard_time": 1695224136,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1376210,
       "num": 1376210,
       "word": "地铁判官已赔礼道歉",
@@ -5001,14 +5009,6 @@
       "onboard_time": 1695114280,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1176901,
-      "num": 1176901,
-      "word": "虞书欣父母公司被恢复执行",
-      "onboard_time": 1695224136,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1175786,
@@ -15395,6 +15395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515424,
+      "num": 283651,
+      "word": "iPhone15拍人更好看",
+      "onboard_time": 1695224974,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 515235,
       "num": 515235,
       "word": "王俊凯参加文艺志愿者协会代表大会",
@@ -17953,14 +17961,6 @@
       "onboard_time": 1693649312,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 453169,
-      "num": 283651,
-      "word": "iPhone15拍人更好看",
-      "onboard_time": 1695224974,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 453047,
@@ -26233,6 +26233,14 @@
       "onboard_time": 1694055817,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 305715,
+      "num": 209852,
+      "word": "男生泡澡后背被排水口吸出大片淤青",
+      "onboard_time": 1695226293,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305663,
@@ -48059,6 +48067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126878,
+      "num": 126878,
+      "word": "梁静茹 下次会更好",
+      "onboard_time": 1695227069,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126807,
       "num": 126807,
       "word": "从小就不会撒谎的卖家",
@@ -48561,14 +48577,6 @@
       "onboard_time": 1693627235,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 118416,
-      "num": 118416,
-      "word": "男生泡澡后背被排水口吸出大片淤青",
-      "onboard_time": 1695226293,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118308,

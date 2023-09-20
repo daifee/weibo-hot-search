@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695226949042,
+  "endTime": 1695227904548,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1377319,
+      "num": 1377319,
+      "word": "虞书欣父母公司被恢复执行",
+      "onboard_time": 1695224136,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1373235,
       "num": 1373235,
       "word": "12306最多候补20个车次",
@@ -881,14 +889,6 @@
       "onboard_time": 1695114280,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1176901,
-      "num": 1176901,
-      "word": "虞书欣父母公司被恢复执行",
-      "onboard_time": 1695224136,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1171385,
@@ -3003,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515424,
+      "num": 283651,
+      "word": "iPhone15拍人更好看",
+      "onboard_time": 1695224974,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 515224,
       "num": 515224,
       "word": "云为衫宫子羽婚服战损花絮",
@@ -3457,14 +3465,6 @@
       "onboard_time": 1695096820,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 453169,
-      "num": 283651,
-      "word": "iPhone15拍人更好看",
-      "onboard_time": 1695224974,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 453047,
@@ -5209,6 +5209,14 @@
       "onboard_time": 1695084277,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305715,
+      "num": 209852,
+      "word": "男生泡澡后背被排水口吸出大片淤青",
+      "onboard_time": 1695226293,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305455,
@@ -9963,6 +9971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126878,
+      "num": 126878,
+      "word": "梁静茹 下次会更好",
+      "onboard_time": 1695227069,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126807,
       "num": 126807,
       "word": "从小就不会撒谎的卖家",
@@ -10057,14 +10073,6 @@
       "onboard_time": 1695198817,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118416,
-      "num": 118416,
-      "word": "男生泡澡后背被排水口吸出大片淤青",
-      "onboard_time": 1695226293,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118194,

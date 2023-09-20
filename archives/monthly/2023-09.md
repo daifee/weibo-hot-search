@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/21 00:22:29
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/21 00:38:24
 </p>
 </blockquote>
 <p>
@@ -3105,6 +3105,12 @@ Hero取关久哲（热度：1381597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C%23" target="weibo">
+虞书欣父母公司被恢复执行（热度：1377319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E5%B7%B2%E8%B5%94%E7%A4%BC%E9%81%93%E6%AD%89%23" target="weibo">
 地铁判官已赔礼道歉（热度：1376210）
 </a>
@@ -3761,12 +3767,6 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0%23" target="weibo">
 女顾客被优衣库工作人员掐脖子拖回收银台（热度：1178933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C%23" target="weibo">
-虞书欣父母公司被恢复执行（热度：1176901）
 </a>
 </li>
 
