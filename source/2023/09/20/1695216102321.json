@@ -1,0 +1,410 @@
+{
+  "runTime": 1695216102321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2076659,
+        "num": 2076659,
+        "word": "傅首尔 在这个世界上得到过爱就很幸福了",
+        "onboard_time": 1695212017,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1438732,
+        "num": 1438732,
+        "word": "卓晴cp",
+        "onboard_time": 1695209735,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26476,
+        "num": 1100448,
+        "word": "智造世界创造美好",
+        "onboard_time": 1695200254,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836267,
+        "num": 836267,
+        "word": "心动的信号6成了四对",
+        "onboard_time": 1695210757,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 835872,
+        "num": 835872,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1695215074,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 681699,
+        "num": 681699,
+        "word": "谁把成毅耳朵煮了",
+        "onboard_time": 1695213215,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657188,
+        "num": 657188,
+        "word": "五条悟被腰斩",
+        "onboard_time": 1695189576,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 633020,
+        "num": 633020,
+        "word": "日媒曝羽生结弦妻子是中国人",
+        "onboard_time": 1695195758,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543228,
+        "num": 543228,
+        "word": "中国女排vs加拿大女排",
+        "onboard_time": 1695211959,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477592,
+        "num": 477592,
+        "word": "删除的所有QQ空间都在这里",
+        "onboard_time": 1695193836,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1589164,
+        "num": 475517,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 10,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1566631,
+        "num": 474620,
+        "word": "她可是你嫂子",
+        "onboard_time": 1695203916,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226575,
+        "num": 471143,
+        "word": "加满一箱或将多花14.5元",
+        "onboard_time": 1695205360,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 132183,
+        "num": 467938,
+        "word": "国内成品油价年内第十涨",
+        "onboard_time": 1695203676,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 75051,
+        "num": 464908,
+        "word": "网约车司机担任第87棒火炬手",
+        "onboard_time": 1695210215,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1181875,
+        "num": 462766,
+        "word": "李佳琦直播间仍有千万观看",
+        "onboard_time": 1695203796,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 949513,
+        "num": 460195,
+        "word": "今朝cp官宣",
+        "onboard_time": 1695213336,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567317,
+        "num": 457904,
+        "word": "花西子旗下多家公司0人参保",
+        "onboard_time": 1695202778,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456982,
+        "num": 456982,
+        "word": "一封信",
+        "onboard_time": 1695211117,
+        "rank": 18,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 455654,
+        "num": 455654,
+        "word": "侯卓成杨汝晴亲了四次",
+        "onboard_time": 1695214836,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487618,
+        "num": 436255,
+        "word": "于适的26亿福利是开挖掘机",
+        "onboard_time": 1695215138,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398887,
+        "num": 398887,
+        "word": "林俊杰武汉抢票",
+        "onboard_time": 1695200795,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 381808,
+        "num": 381808,
+        "word": "月薪6000小伙为见女主播打赏9000万元",
+        "onboard_time": 1695215675,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362006,
+        "num": 362006,
+        "word": "赵丽颖是周放的宣传委员",
+        "onboard_time": 1695209735,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353167,
+        "num": 353167,
+        "word": "丈夫如厕常不关门妻子下跪磕头恳求",
+        "onboard_time": 1695202956,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304939,
+        "num": 304939,
+        "word": "第一次见男主纯情到接吻噘嘴的",
+        "onboard_time": 1695193654,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294740,
+        "num": 294740,
+        "word": "星巴克CEO评价酱香拿铁",
+        "onboard_time": 1695212557,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293853,
+        "num": 293853,
+        "word": "为什么年轻人手机都不离身",
+        "onboard_time": 1695213215,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292840,
+        "num": 292840,
+        "word": "邓为字母脸链",
+        "onboard_time": 1695209135,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292082,
+        "num": 292082,
+        "word": "檀健次出演猎罪图鉴2",
+        "onboard_time": 1695203736,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281622,
+        "num": 281622,
+        "word": "郑秀晶电影蜘蛛窝",
+        "onboard_time": 1695215257,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280341,
+        "num": 280341,
+        "word": "千万不要闻脱下来的袜子",
+        "onboard_time": 1695205897,
+        "rank": 31,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 271326,
+        "num": 271326,
+        "word": "哇唧唧哇真的挖了",
+        "onboard_time": 1695215796,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270108,
+        "num": 270108,
+        "word": "小杨哥称公司不养闲人",
+        "onboard_time": 1695208357,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 264379,
+        "num": 264379,
+        "word": "心动的信号6",
+        "onboard_time": 1695212615,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257977,
+        "num": 257977,
+        "word": "张小斐张嘉倪 我好俗我好爱",
+        "onboard_time": 1695194799,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236168,
+        "num": 236168,
+        "word": "女子当街被袭胸巡警火速擒狼",
+        "onboard_time": 1695213516,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224958,
+        "num": 224958,
+        "word": "花西子公关部或集体离职",
+        "onboard_time": 1695187117,
+        "rank": 37,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 218667,
+        "num": 218667,
+        "word": "jjxx 歹毒",
+        "onboard_time": 1695193358,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 218596,
+        "num": 218596,
+        "word": "职场里别暴露自己的家境",
+        "onboard_time": 1695209915,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215528,
+        "num": 215528,
+        "word": "感觉大家都不管丞磊叔叔死活了",
+        "onboard_time": 1695205958,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209123,
+        "num": 209123,
+        "word": "吴梦洁替补登场",
+        "onboard_time": 1695215675,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207844,
+        "num": 207844,
+        "word": "于适手臂肌肉",
+        "onboard_time": 1695206915,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204172,
+        "num": 204172,
+        "word": "魏大勋李一桐新剧的cp感",
+        "onboard_time": 1695215016,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193849,
+        "num": 193849,
+        "word": "时代少年团直播",
+        "onboard_time": 1695215558,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192121,
+        "num": 192121,
+        "word": "丞磊和卢昱晓决定了夜色尚浅爱过彼此",
+        "onboard_time": 1695192874,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191126,
+        "num": 191126,
+        "word": "捐粪便月入6600元",
+        "onboard_time": 1695207815,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190971,
+        "num": 190971,
+        "word": "极限男人帮新综艺",
+        "onboard_time": 1695196054,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186669,
+        "num": 186669,
+        "word": "花西子公关部门相关管理层已离职",
+        "onboard_time": 1695199358,
+        "rank": 48,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 185006,
+        "num": 185006,
+        "word": "在直播开玩笑里又给我嗑到了夜色尚浅",
+        "onboard_time": 1695202597,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾在杭州工作6年的习近平这样介绍杭州#"
+    }
+  }
+}
