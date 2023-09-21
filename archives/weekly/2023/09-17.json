@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695291519604,
+  "endTime": 1695292520236,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -897,6 +897,14 @@
       "onboard_time": 1695169121,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1259338,
+      "num": 1259338,
+      "word": "结过婚后真的再没羡慕过婚礼上的新娘",
+      "onboard_time": 1695289715,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 1256955,
@@ -1892,7 +1900,7 @@
     },
     {
       "raw_hot": 770625,
-      "num": 770625,
+      "num": 793665,
       "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
       "onboard_time": 1695273397,
       "rank": 22,
@@ -2764,7 +2772,7 @@
     },
     {
       "raw_hot": 610492,
-      "num": 1258811,
+      "num": 1352009,
       "word": "躲雨的大熊猫已被送往救助站",
       "onboard_time": 1695278256,
       "rank": 7,
@@ -2977,14 +2985,6 @@
       "onboard_time": 1695098382,
       "rank": 15,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 575036,
-      "num": 575036,
-      "word": "结过婚后真的再没羡慕过婚礼上的新娘",
-      "onboard_time": 1695289715,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 572403,
@@ -3425,6 +3425,14 @@
       "onboard_time": 1695165268,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 528185,
+      "num": 315001,
+      "word": "德国性教育内容表",
+      "onboard_time": 1695292055,
+      "rank": 20,
+      "category": "知识科普"
     },
     {
       "raw_hot": 527833,
@@ -4675,6 +4683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 390585,
+      "num": 390585,
+      "word": "嘉兴",
+      "onboard_time": 1695292357,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389446,
       "num": 389446,
       "word": "品冠儿子披荆斩棘reaction",
@@ -5227,6 +5243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359600,
+      "num": 314574,
+      "word": "十个勤天真的不打算回内娱了",
+      "onboard_time": 1695289955,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359094,
       "num": 359094,
       "word": "魏大勋先演黄子诚再演的孟宴臣",
@@ -5337,6 +5361,14 @@
       "onboard_time": 1695182497,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350671,
+      "num": 350671,
+      "word": "林俊杰南京抢票",
+      "onboard_time": 1695291220,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 350339,
@@ -5612,7 +5644,7 @@
     },
     {
       "raw_hot": 333122,
-      "num": 275062,
+      "num": 282941,
       "word": "第一次去男朋友家只吃了水饺",
       "onboard_time": 1695288513,
       "rank": 26,
@@ -5625,14 +5657,6 @@
       "onboard_time": 1695021700,
       "rank": 30,
       "category": "幽默,动物萌宠"
-    },
-    {
-      "raw_hot": 331881,
-      "num": 274259,
-      "word": "十个勤天真的不打算回内娱了",
-      "onboard_time": 1695289955,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 331496,
@@ -5937,6 +5961,14 @@
       "onboard_time": 1695169903,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316419,
+      "num": 236156,
+      "word": "一觉醒来邻居的房子不见了",
+      "onboard_time": 1695291395,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 315484,
@@ -6593,6 +6625,14 @@
       "onboard_time": 1695215257,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281598,
+      "num": 497780,
+      "word": "叙利亚总统到访迎宾仪式",
+      "onboard_time": 1695290434,
+      "rank": 13,
+      "category": "国内要闻,体育"
     },
     {
       "raw_hot": 281573,
@@ -7408,6 +7448,14 @@
       "word": "现在就出发",
       "onboard_time": 1694953235,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248416,
+      "num": 248416,
+      "word": "张硕 社会的镜子",
+      "onboard_time": 1695292234,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -8547,14 +8595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 213175,
-      "num": 213175,
-      "word": "林俊杰南京抢票",
-      "onboard_time": 1695291220,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 213133,
       "num": 213133,
       "word": "杭州亚运会王者荣耀选手简历",
@@ -8827,6 +8867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205499,
+      "num": 205499,
+      "word": "现在综艺都这么卷了吗",
+      "onboard_time": 1695291220,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205460,
       "num": 205460,
       "word": "张婧仪用手托着黄景瑜的脸",
@@ -8929,14 +8977,6 @@
       "onboard_time": 1695189936,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 203773,
-      "num": 203773,
-      "word": "一觉醒来邻居的房子不见了",
-      "onboard_time": 1695291395,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 203493,
@@ -9112,6 +9152,14 @@
       "word": "张凌赫送你八个大字",
       "onboard_time": 1695119142,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199604,
+      "num": 199604,
+      "word": "孟钰活成了安欣的样子",
+      "onboard_time": 1695291874,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -9947,14 +9995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181863,
-      "num": 497780,
-      "word": "叙利亚总统到访迎宾仪式",
-      "onboard_time": 1695290434,
-      "rank": 13,
-      "category": "国内要闻,体育"
-    },
-    {
       "raw_hot": 181773,
       "num": 181773,
       "word": "谁家小区取这名字啊",
@@ -10403,12 +10443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172001,
+      "num": 172001,
+      "word": "刘诗诗极具破碎感的哭戏镜头",
+      "onboard_time": 1695291697,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171808,
       "num": 171808,
       "word": "赵今麦新剧出场镜头",
       "onboard_time": 1694922875,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171691,
+      "num": 692158,
+      "word": "三胞胎兄弟大学毕业一起参军",
+      "onboard_time": 1695289896,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171458,
@@ -11115,14 +11171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148181,
-      "num": 596182,
-      "word": "三胞胎兄弟大学毕业一起参军",
-      "onboard_time": 1695289896,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147756,
       "num": 147756,
       "word": "云之羽隐藏结局",
@@ -11577,14 +11625,6 @@
       "onboard_time": 1694953897,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130056,
-      "num": 130056,
-      "word": "现在综艺都这么卷了吗",
-      "onboard_time": 1695291220,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 130004,
