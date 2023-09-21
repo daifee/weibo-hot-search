@@ -1,0 +1,410 @@
+{
+  "runTime": 1695296043852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1763390,
+        "num": 1763390,
+        "word": "结过婚后真的再没羡慕过婚礼上的新娘",
+        "onboard_time": 1695289715,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 380114,
+        "num": 1224154,
+        "word": "躲雨的大熊猫已被送往救助站",
+        "onboard_time": 1695278256,
+        "rank": 1,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 35072,
+        "num": 1204034,
+        "word": "杭州亚运会将产生多少枚金牌",
+        "onboard_time": 1695271237,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1195069,
+        "num": 1195069,
+        "word": "陈都灵到底救了多少场",
+        "onboard_time": 1695288633,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349798,
+        "num": 767691,
+        "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+        "onboard_time": 1695273397,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 610694,
+        "num": 610694,
+        "word": "孟钰活成了安欣的样子",
+        "onboard_time": 1695291874,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145349,
+        "num": 567937,
+        "word": "三胞胎兄弟大学毕业一起参军",
+        "onboard_time": 1695289896,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548624,
+        "num": 548624,
+        "word": "卢昱晓为教丞磊上海话求助妈妈",
+        "onboard_time": 1695294334,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 501655,
+        "num": 501655,
+        "word": "重庆三号线",
+        "onboard_time": 1695293019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497426,
+        "num": 497426,
+        "word": "只有朴彩英续约YG",
+        "onboard_time": 1695279219,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1282653,
+        "num": 496685,
+        "word": "太子奶",
+        "onboard_time": 1695275015,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338858,
+        "num": 492093,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163287,
+        "num": 482066,
+        "word": "叙利亚总统到访迎宾仪式",
+        "onboard_time": 1695290434,
+        "rank": 12,
+        "category": "国内要闻,体育"
+      },
+      {
+        "raw_hot": 1166812,
+        "num": 477580,
+        "word": "特朗普",
+        "onboard_time": 1695294513,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 44170,
+        "num": 476352,
+        "word": "Note13Pro新2亿像素极清影像",
+        "onboard_time": 1695294034,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 894642,
+        "num": 466072,
+        "word": "赵露思和她的双开门保镖合照",
+        "onboard_time": 1695293256,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 465821,
+        "num": 465821,
+        "word": "二十一天全员错了没有",
+        "onboard_time": 1695293136,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376451,
+        "num": 376451,
+        "word": "沪昆高速一货车轮爆胎致起火",
+        "onboard_time": 1695292357,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323164,
+        "num": 323164,
+        "word": "张杰张碧晨合唱坚如磐石同名主题曲",
+        "onboard_time": 1695293136,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296006,
+        "num": 296006,
+        "word": "谁家女主把男主弄哭了啊",
+        "onboard_time": 1695288455,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 805624,
+        "num": 295596,
+        "word": "德国性教育内容表",
+        "onboard_time": 1695292055,
+        "rank": 20,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 585959,
+        "num": 294305,
+        "word": "为什么说女生要分开腿坐",
+        "onboard_time": 1695293675,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 386443,
+        "num": 294227,
+        "word": "大学生活费1500够用吗",
+        "onboard_time": 1695294513,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291338,
+        "num": 291338,
+        "word": "为什么说人千万不能懒",
+        "onboard_time": 1695295415,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268075,
+        "num": 268075,
+        "word": "封神网播",
+        "onboard_time": 1695284618,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249841,
+        "num": 249841,
+        "word": "奶茶杯真的很适合租房人",
+        "onboard_time": 1695279755,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247372,
+        "num": 247372,
+        "word": "王一博新剧造型梦回叶秘",
+        "onboard_time": 1695293136,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644025,
+        "num": 243053,
+        "word": "潍坊科技学院辟谣军训女生跳舞视频",
+        "onboard_time": 1695283835,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237750,
+        "num": 237750,
+        "word": "一觉醒来邻居的房子不见了",
+        "onboard_time": 1695291395,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227197,
+        "num": 227197,
+        "word": "林俊杰南京抢票",
+        "onboard_time": 1695291220,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224172,
+        "num": 224172,
+        "word": "黄健翔今晚国足应该是一场胜利",
+        "onboard_time": 1695294034,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222985,
+        "num": 222985,
+        "word": "十个勤天真的不打算回内娱了",
+        "onboard_time": 1695289955,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217820,
+        "num": 217820,
+        "word": "清北大学生称考研半途而废是当逃兵",
+        "onboard_time": 1695292653,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216409,
+        "num": 216409,
+        "word": "张凌赫新剧演高冷公子",
+        "onboard_time": 1695295594,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199611,
+        "num": 199611,
+        "word": "Gemini领证",
+        "onboard_time": 1695281915,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197191,
+        "num": 197191,
+        "word": "国足亚运队vs缅甸",
+        "onboard_time": 1695292956,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195152,
+        "num": 195152,
+        "word": "Jennie要出新专辑了",
+        "onboard_time": 1695287436,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193233,
+        "num": 193233,
+        "word": "云之羽今日收官",
+        "onboard_time": 1695295655,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191916,
+        "num": 191916,
+        "word": "十个勤天团综首支预告",
+        "onboard_time": 1695295358,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182080,
+        "num": 182080,
+        "word": "赵丽颖鎏金深V",
+        "onboard_time": 1695280175,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181948,
+        "num": 181948,
+        "word": "床单不能太久不换",
+        "onboard_time": 1695281796,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177494,
+        "num": 177494,
+        "word": "被杨幂美到的一个镜头",
+        "onboard_time": 1695279936,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165091,
+        "num": 165091,
+        "word": "刘诗诗极具破碎感的哭戏镜头",
+        "onboard_time": 1695291697,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162039,
+        "num": 162039,
+        "word": "孙女买衣服爷爷边说不要边报体重",
+        "onboard_time": 1695293618,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161635,
+        "num": 161635,
+        "word": "大爷年轻时家暴遭6名子女拒养",
+        "onboard_time": 1695285156,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151501,
+        "num": 151501,
+        "word": "相亲同时带了苹果和华为",
+        "onboard_time": 1695283294,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147427,
+        "num": 147427,
+        "word": "张硕 社会的镜子",
+        "onboard_time": 1695292234,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145695,
+        "num": 145695,
+        "word": "没有手机的中年人vs年轻人",
+        "onboard_time": 1695295835,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145023,
+        "num": 145023,
+        "word": "第一次去男朋友家只吃了水饺",
+        "onboard_time": 1695288513,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139708,
+        "num": 139708,
+        "word": "丞磊卢昱晓去澳门拍芭莎",
+        "onboard_time": 1695281974,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席杭州亚运会开幕式#"
+    }
+  }
+}
