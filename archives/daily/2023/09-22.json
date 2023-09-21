@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695335624689,
+  "endTime": 1695338231700,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -67,8 +67,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457196,
-      "num": 457196,
+      "raw_hot": 495686,
+      "num": 495686,
       "word": "陆毅谢谢大家帮我找回回忆",
       "onboard_time": 1695313112,
       "rank": 30,
@@ -123,12 +123,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 277950,
+      "num": 183840,
+      "word": "韩国共同民主党国会院内领导层集体辞职",
+      "onboard_time": 1695337705,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 272110,
       "num": 204728,
       "word": "德国性教育内容表",
       "onboard_time": 1695292055,
       "rank": 22,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 267068,
+      "num": 152835,
+      "word": "35岁小伙太爱喝饮料致双目失明",
+      "onboard_time": 1695317660,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259193,
+      "num": 259193,
+      "word": "黄景瑜演消防员的松弛感",
+      "onboard_time": 1695335900,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 245866,
@@ -179,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218092,
+      "num": 138216,
+      "word": "家长查17天监控发现儿子每日挨打",
+      "onboard_time": 1695337584,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212331,
       "num": 212331,
       "word": "追求和性骚扰的边界感在哪",
@@ -203,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193203,
+      "num": 204708,
+      "word": "成毅谈和张予曦三搭感受",
+      "onboard_time": 1695300698,
+      "rank": 27,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 192947,
       "num": 204710,
       "word": "赵露思和她的双开门保镖合照",
@@ -217,14 +257,6 @@
       "onboard_time": 1695313350,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178270,
-      "num": 204708,
-      "word": "成毅谈和张予曦三搭感受",
-      "onboard_time": 1695300698,
-      "rank": 27,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 172029,
@@ -267,11 +299,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146253,
+      "raw_hot": 146681,
       "num": 204686,
       "word": "父母吃席用纸巾盒给27岁女儿打包虾",
       "onboard_time": 1695298715,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145642,
+      "num": 153231,
+      "word": "外交部回应美商务部长对华为新机感到不悦",
+      "onboard_time": 1695323894,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 144210,
+      "num": 144210,
+      "word": "李泽锋 如果大海能够带走我的哀愁",
+      "onboard_time": 1695329414,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142439,
+      "num": 142439,
+      "word": "杭州1米92特警被赞一身都是安全感",
+      "onboard_time": 1695337524,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -281,14 +337,6 @@
       "onboard_time": 1695303457,
       "rank": 33,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 140690,
-      "num": 140690,
-      "word": "35岁小伙太爱喝饮料致双目失明",
-      "onboard_time": 1695317660,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126987,
@@ -347,12 +395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110325,
-      "num": 110325,
-      "word": "李泽锋 如果大海能够带走我的哀愁",
-      "onboard_time": 1695329414,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 111247,
+      "num": 111247,
+      "word": "大大方方结束任何不真诚的关系",
+      "onboard_time": 1695337524,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 103282,
@@ -403,6 +451,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 89145,
+      "num": 89145,
+      "word": "花西子代工厂被曝为日资",
+      "onboard_time": 1695337887,
+      "rank": 34,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 82485,
       "num": 82485,
       "word": "我有一个朋友 欢你",
@@ -411,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81308,
-      "num": 81308,
-      "word": "外交部回应美商务部长对华为新机感到不悦",
-      "onboard_time": 1695323894,
-      "rank": 13,
-      "category": "国内要闻"
+      "raw_hot": 80336,
+      "num": 80336,
+      "word": "难怪大张伟是才子",
+      "onboard_time": 1695332114,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 78770,
@@ -451,28 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59644,
+      "num": 59644,
+      "word": "林茨1比3利物浦",
+      "onboard_time": 1695337946,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54354,
+      "num": 586275,
+      "word": "绕杭州飞33小时拍到的美景有多震撼",
+      "onboard_time": 1695312032,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49266,
       "num": 49266,
       "word": "刘诗诗红色亮片秋日穿搭",
       "onboard_time": 1695314726,
       "rank": 45,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 47235,
-      "num": 49499,
-      "word": "难怪大张伟是才子",
-      "onboard_time": 1695332114,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 47072,
-      "num": 586275,
-      "word": "绕杭州飞33小时拍到的美景有多震撼",
-      "onboard_time": 1695312032,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41956,
