@@ -1,0 +1,410 @@
+{
+  "runTime": 1695281646359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2717798,
+        "num": 2717798,
+        "word": "只有朴彩英续约YG",
+        "onboard_time": 1695279219,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1412733,
+        "num": 1412733,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42149,
+        "num": 1275422,
+        "word": "杭州亚运将上演奥运级别巅峰对决",
+        "onboard_time": 1695256477,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1161739,
+        "num": 1161739,
+        "word": "34岁还没结婚是因为喜欢帅哥",
+        "onboard_time": 1695273098,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1140956,
+        "num": 1140956,
+        "word": "少爷和我",
+        "onboard_time": 1695278073,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 733772,
+        "num": 733772,
+        "word": "被杨幂美到的一个镜头",
+        "onboard_time": 1695279936,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 677151,
+        "num": 677151,
+        "word": "张小斐这段真的给我难受死了",
+        "onboard_time": 1695277475,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610492,
+        "num": 610492,
+        "word": "躲雨的大熊猫已被送往救助站",
+        "onboard_time": 1695278256,
+        "rank": 7,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 564119,
+        "num": 564119,
+        "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+        "onboard_time": 1695273397,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 535915,
+        "num": 535915,
+        "word": "刘亚仁白发",
+        "onboard_time": 1695279395,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1140903,
+        "num": 534719,
+        "word": "太子奶",
+        "onboard_time": 1695275015,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818881,
+        "num": 499918,
+        "word": "YG称BLACKPINK的续约还没有确定",
+        "onboard_time": 1695279876,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247214,
+        "num": 489387,
+        "word": "拿诺奖在东莞买房补贴1000万",
+        "onboard_time": 1695271375,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 186613,
+        "num": 476743,
+        "word": "一觉醒来大熊猫主动送上门",
+        "onboard_time": 1695273816,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 26952,
+        "num": 456954,
+        "word": "最令人热血沸腾的夺冠时刻",
+        "onboard_time": 1695279634,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 624948,
+        "num": 439886,
+        "word": "赵丽颖鎏金深V",
+        "onboard_time": 1695280175,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 424591,
+        "num": 424591,
+        "word": "导演一下就把魏大勋推开了",
+        "onboard_time": 1695275857,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379820,
+        "num": 379820,
+        "word": "TheShy和小杨哥联动",
+        "onboard_time": 1695276875,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 353668,
+        "num": 353668,
+        "word": "猎罪图鉴2官宣檀健次金世佳",
+        "onboard_time": 1695264994,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340148,
+        "num": 340148,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 19,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 994844,
+        "num": 333006,
+        "word": "特朗普儿子发文父亲去世后称账号被黑",
+        "onboard_time": 1695271237,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 603044,
+        "num": 329492,
+        "word": "奶茶杯真的很适合租房人",
+        "onboard_time": 1695279755,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 485352,
+        "num": 319707,
+        "word": "你要iPhone15还是华为mate60",
+        "onboard_time": 1695279634,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443459,
+        "num": 314443,
+        "word": "内裤其实比袜子更脏",
+        "onboard_time": 1695280834,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389420,
+        "num": 307715,
+        "word": "不好好读书公司礼盒是这样的",
+        "onboard_time": 1695279155,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378760,
+        "num": 297447,
+        "word": "这居然是何运晨的食量",
+        "onboard_time": 1695280357,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297029,
+        "num": 297029,
+        "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+        "onboard_time": 1695267632,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 51715,
+        "num": 262471,
+        "word": "高能英雄的风吹到了海外",
+        "onboard_time": 1695279817,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259791,
+        "num": 259791,
+        "word": "沪指失守3100点",
+        "onboard_time": 1695280175,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257492,
+        "num": 257492,
+        "word": "被钱砸中的刘亚仁",
+        "onboard_time": 1695274116,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334199,
+        "num": 257246,
+        "word": "我妈说我装了一个公厕",
+        "onboard_time": 1695279755,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256910,
+        "num": 256910,
+        "word": "逼女孩喝酒的未成年曾逼男孩吃粪便",
+        "onboard_time": 1695275676,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255789,
+        "num": 255789,
+        "word": "人在工位了面试官告诉我招错人了",
+        "onboard_time": 1695279335,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255153,
+        "num": 255153,
+        "word": "白色橄榄树",
+        "onboard_time": 1695275196,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254662,
+        "num": 254662,
+        "word": "蔚来手机售价6499元起",
+        "onboard_time": 1695279335,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237614,
+        "num": 237614,
+        "word": "种地吧",
+        "onboard_time": 1695279395,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236043,
+        "num": 236043,
+        "word": "林孝埈1500米",
+        "onboard_time": 1695281434,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233120,
+        "num": 233120,
+        "word": "郎朗周杰伦太原演唱会嘉宾",
+        "onboard_time": 1695280956,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218674,
+        "num": 218674,
+        "word": "孙俪车技",
+        "onboard_time": 1695281136,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213996,
+        "num": 213996,
+        "word": "YG股价又暴跌",
+        "onboard_time": 1695281254,
+        "rank": 39,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 218592,
+        "num": 210648,
+        "word": "爱奇艺综艺片单好快乐",
+        "onboard_time": 1695280655,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204262,
+        "num": 204262,
+        "word": "西安的碳水根本吃不完",
+        "onboard_time": 1695279093,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202521,
+        "num": 202521,
+        "word": "曾舜晞把莲花楼里的狐狸精带走了",
+        "onboard_time": 1695275435,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202363,
+        "num": 202363,
+        "word": "杨紫的扛剧能力是被认可的",
+        "onboard_time": 1695277114,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188665,
+        "num": 188665,
+        "word": "张艺兴大航海无远弗届巡回演唱会",
+        "onboard_time": 1695280655,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180897,
+        "num": 180897,
+        "word": "王权霸业改名王权弘业",
+        "onboard_time": 1695269797,
+        "rank": 45,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 180736,
+        "num": 180736,
+        "word": "没有李佳琦花西子会走向何处",
+        "onboard_time": 1695262354,
+        "rank": 46,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 178088,
+        "num": 178088,
+        "word": "警民合力守护熟睡野生大熊猫",
+        "onboard_time": 1695280775,
+        "rank": 47,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 169460,
+        "num": 169460,
+        "word": "换回国货后发现工资够用了",
+        "onboard_time": 1695268354,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153999,
+        "num": 153999,
+        "word": "黄子诚姚瑶结婚了",
+        "onboard_time": 1695261214,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾在杭州工作6年的习近平这样介绍杭州#"
+    }
+  }
+}
