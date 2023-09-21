@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695320549998,
+  "endTime": 1695321258437,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -323,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116463,
+      "num": 116463,
+      "word": "35岁小伙太爱喝饮料致双目失明",
+      "onboard_time": 1695317660,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115891,
       "num": 204659,
       "word": "弟弟发了工资先给我了",
@@ -387,20 +395,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 87663,
-      "num": 87663,
-      "word": "35岁小伙太爱喝饮料致双目失明",
-      "onboard_time": 1695317660,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78770,
       "num": 204626,
       "word": "西安村民讲述熊猫进棚躲雨全过程",
       "onboard_time": 1695309761,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77441,
+      "num": 77441,
+      "word": "我有一个朋友 欢你",
+      "onboard_time": 1695319462,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 74778,
@@ -424,14 +432,6 @@
       "word": "大江大河3首发预告",
       "onboard_time": 1695312572,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 71044,
-      "num": 71044,
-      "word": "我有一个朋友 欢你",
-      "onboard_time": 1695319462,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 35028,
-      "num": 52393,
+      "num": 53640,
       "word": "G社镜头下的安宥真",
       "onboard_time": 1695319098,
       "rank": 34,
