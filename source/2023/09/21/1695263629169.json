@@ -1,0 +1,410 @@
+{
+  "runTime": 1695263629169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026543,
+        "num": 1026543,
+        "word": "赵又廷希望女儿长得像高圆圆",
+        "onboard_time": 1695256360,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867087,
+        "num": 867087,
+        "word": "许幻山 又是你",
+        "onboard_time": 1695258396,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58811,
+        "num": 866013,
+        "word": "世界都知道了杭州有多美",
+        "onboard_time": 1695216997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865650,
+        "num": 865650,
+        "word": "狐妖小红娘竹业篇首发阵容",
+        "onboard_time": 1695262892,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 784891,
+        "num": 784891,
+        "word": "高度近视的人不要剧烈运动",
+        "onboard_time": 1695253957,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 770496,
+        "num": 770496,
+        "word": "黄子诚姚瑶结婚了",
+        "onboard_time": 1695261214,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569305,
+        "num": 569305,
+        "word": "日本对华食品出口暴跌41.2%",
+        "onboard_time": 1695257678,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560492,
+        "num": 560492,
+        "word": "电影野孩子官宣",
+        "onboard_time": 1695259477,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518164,
+        "num": 518164,
+        "word": "西安交大取消四六级学位证挂钩",
+        "onboard_time": 1695250823,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 515141,
+        "num": 515141,
+        "word": "长时间用电脑后洗把脸",
+        "onboard_time": 1695261396,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1141274,
+        "num": 512282,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 10,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 913748,
+        "num": 510145,
+        "word": "没有李佳琦花西子会走向何处",
+        "onboard_time": 1695262354,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 384677,
+        "num": 505180,
+        "word": "新疆没有海为什么能养海鲜",
+        "onboard_time": 1695259477,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 136486,
+        "num": 501580,
+        "word": "杭州亚运将上演奥运级别巅峰对决",
+        "onboard_time": 1695256477,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134012,
+        "num": 499838,
+        "word": "普京会见王毅",
+        "onboard_time": 1695254137,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 591069,
+        "num": 496426,
+        "word": "警方介入女生称实习被安排为男宾洗澡",
+        "onboard_time": 1695255219,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493447,
+        "num": 493447,
+        "word": "霸王茶姬 李相夷",
+        "onboard_time": 1695250882,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 332616,
+        "num": 332616,
+        "word": "虞书欣父母公司被恢复执行",
+        "onboard_time": 1695224136,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327891,
+        "num": 327891,
+        "word": "颜心记",
+        "onboard_time": 1695262354,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1428431,
+        "num": 325372,
+        "word": "iPhone14ProMax变最保值iPhone",
+        "onboard_time": 1695260674,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 329732,
+        "num": 322516,
+        "word": "网传某医院领导因家中被盗大量现金被查",
+        "onboard_time": 1695262534,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317280,
+        "num": 317280,
+        "word": "2024爱奇艺青春片单",
+        "onboard_time": 1695259655,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313473,
+        "num": 313473,
+        "word": "李旻浩黄铉辰金昇玟出车祸",
+        "onboard_time": 1695253776,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312544,
+        "num": 312544,
+        "word": "四方馆",
+        "onboard_time": 1695262654,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311251,
+        "num": 311251,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1695263073,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283616,
+        "num": 283616,
+        "word": "洁柔直播间输错价格亏损千万",
+        "onboard_time": 1695221138,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254855,
+        "num": 254855,
+        "word": "谢谢你 我打字有点慢",
+        "onboard_time": 1695259655,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214678,
+        "num": 214678,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1695263073,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213040,
+        "num": 213040,
+        "word": "歌手第几季的音乐性最强",
+        "onboard_time": 1695263315,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212036,
+        "num": 212036,
+        "word": "王俊凯新片野孩子双视角海报",
+        "onboard_time": 1695261454,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1345744,
+        "num": 210709,
+        "word": "花西子年薪63万招公关",
+        "onboard_time": 1695257197,
+        "rank": 30,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 204240,
+        "num": 204240,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 31,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 201461,
+        "num": 201461,
+        "word": "张雨绮米兰时装周首套造型",
+        "onboard_time": 1695263315,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200291,
+        "num": 200291,
+        "word": "月薪6000小伙为见女主播打赏9000万元",
+        "onboard_time": 1695215675,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200221,
+        "num": 200221,
+        "word": "蔚来首款手机21日发布",
+        "onboard_time": 1695263136,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192913,
+        "num": 192913,
+        "word": "花西子年薪60万招品牌传播专家",
+        "onboard_time": 1695255996,
+        "rank": 35,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 190887,
+        "num": 190887,
+        "word": "跟千玺回家感受诗画洪江",
+        "onboard_time": 1695261813,
+        "rank": 36,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 184512,
+        "num": 184512,
+        "word": "张大仙减重28斤",
+        "onboard_time": 1695262833,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176790,
+        "num": 176790,
+        "word": "辣椒没传入中国前川渝吃什么",
+        "onboard_time": 1695258276,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 456484,
+        "num": 176346,
+        "word": "韩庚问魏大勋为啥叫宝宝",
+        "onboard_time": 1695261931,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173639,
+        "num": 173639,
+        "word": "赵露思明艳风",
+        "onboard_time": 1695256298,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171551,
+        "num": 171551,
+        "word": "封神第一部破26亿妲己唱甜蜜蜜了",
+        "onboard_time": 1695258573,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157878,
+        "num": 157878,
+        "word": "梅西36分钟被换下",
+        "onboard_time": 1695256599,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 157507,
+        "word": "念无双唐嫣刘学义片花",
+        "onboard_time": 1695261158,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154977,
+        "num": 154977,
+        "word": "女子吐槽工资5千元国庆随份子近3千",
+        "onboard_time": 1695253051,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151582,
+        "num": 151582,
+        "word": "李赫宰Smoke Challenge",
+        "onboard_time": 1695259178,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146776,
+        "num": 146776,
+        "word": "一封信",
+        "onboard_time": 1695211117,
+        "rank": 46,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 145144,
+        "num": 145144,
+        "word": "远嫁妻子想开美甲店丈夫花20天打造",
+        "onboard_time": 1695255939,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143310,
+        "num": 143310,
+        "word": "孤舟全阵容官宣剧照",
+        "onboard_time": 1695262233,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131833,
+        "num": 131833,
+        "word": "鹦鹉杀导演 我想让她赢一次",
+        "onboard_time": 1695263613,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记对他们的深切关爱#"
+    }
+  }
+}
