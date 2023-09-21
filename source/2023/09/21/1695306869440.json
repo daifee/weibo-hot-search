@@ -1,0 +1,410 @@
+{
+  "runTime": 1695306869440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818765,
+        "num": 1818765,
+        "word": "港星张智霖到警署协助调查",
+        "onboard_time": 1695300096,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1757177,
+        "num": 1757177,
+        "word": "网红老婆爱吃巧乐兹发文道歉",
+        "onboard_time": 1695297756,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85074,
+        "num": 1709087,
+        "word": "来杭州看亚运吃什么",
+        "onboard_time": 1695300336,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1676269,
+        "num": 1676269,
+        "word": "傅首尔 这段婚姻不是我憧憬的样子",
+        "onboard_time": 1695302680,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819756,
+        "num": 819756,
+        "word": "五哈4阵容官宣",
+        "onboard_time": 1695306819,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697264,
+        "num": 697264,
+        "word": "徐璐素颜化妆全记录",
+        "onboard_time": 1695303457,
+        "rank": 5,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 641593,
+        "num": 641593,
+        "word": "结过婚后真的再没羡慕过婚礼上的新娘",
+        "onboard_time": 1695289715,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 572626,
+        "num": 572626,
+        "word": "国足亚运队4比0缅甸",
+        "onboard_time": 1695302919,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531480,
+        "num": 531480,
+        "word": "陈都灵到底救了多少场",
+        "onboard_time": 1695288633,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256736,
+        "num": 525221,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958445,
+        "num": 517830,
+        "word": "太子奶",
+        "onboard_time": 1695275015,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666464,
+        "num": 501779,
+        "word": "赵露思和她的双开门保镖合照",
+        "onboard_time": 1695293256,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 163669,
+        "num": 499357,
+        "word": "救4人00后战士一等功喜报送到家",
+        "onboard_time": 1695300396,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 85096,
+        "num": 488086,
+        "word": "三胞胎兄弟大学毕业一起参军",
+        "onboard_time": 1695289896,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71603,
+        "num": 469915,
+        "word": "叙利亚总统到访迎宾仪式",
+        "onboard_time": 1695290434,
+        "rank": 14,
+        "category": "国内要闻,体育"
+      },
+      {
+        "raw_hot": 467626,
+        "num": 467626,
+        "word": "第一次见到这么像陆毅的人",
+        "onboard_time": 1695299675,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 452030,
+        "num": 452030,
+        "word": "封神名场面之姬发要碎了",
+        "onboard_time": 1695304961,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 862607,
+        "num": 433189,
+        "word": "15岁女生在戒网瘾学校遭教官性侵",
+        "onboard_time": 1695303639,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 391368,
+        "num": 391368,
+        "word": "法考成绩",
+        "onboard_time": 1695304419,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344142,
+        "num": 391032,
+        "word": "只有朴彩英续约YG",
+        "onboard_time": 1695279219,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163317,
+        "num": 390026,
+        "word": "安踏欧文之盾",
+        "onboard_time": 1695303276,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578345,
+        "num": 388270,
+        "word": "弟弟发了工资先给我了",
+        "onboard_time": 1695301777,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490181,
+        "num": 387321,
+        "word": "为什么说女生要分开腿坐",
+        "onboard_time": 1695293675,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 387167,
+        "num": 387167,
+        "word": "德国性教育内容表",
+        "onboard_time": 1695292055,
+        "rank": 23,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 380117,
+        "num": 380117,
+        "word": "学校发的军训服过于透气了",
+        "onboard_time": 1695298535,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339166,
+        "num": 339166,
+        "word": "王鹤棣美拉德穿搭",
+        "onboard_time": 1695301059,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 306924,
+        "num": 306924,
+        "word": "成毅谈和张予曦三搭感受",
+        "onboard_time": 1695300698,
+        "rank": 26,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 268718,
+        "num": 268718,
+        "word": "一下就把我的消费瘾给戒了",
+        "onboard_time": 1695306036,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236104,
+        "num": 236104,
+        "word": "孟钰活成了安欣的样子",
+        "onboard_time": 1695291874,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226868,
+        "num": 226868,
+        "word": "爱吃排骨和雪梨的都沉默了",
+        "onboard_time": 1695303219,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 226733,
+        "num": 226733,
+        "word": "林俊杰南京抢票",
+        "onboard_time": 1695291220,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224263,
+        "num": 224263,
+        "word": "这玩意凭什么火了1900年",
+        "onboard_time": 1695298052,
+        "rank": 31,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 211542,
+        "num": 211542,
+        "word": "一觉醒来邻居的房子不见了",
+        "onboard_time": 1695291395,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203093,
+        "num": 203093,
+        "word": "发现我嗑的cp也在嗑自己cp",
+        "onboard_time": 1695306220,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201807,
+        "num": 201807,
+        "word": "华晨宇上海演唱会加场",
+        "onboard_time": 1695305800,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195150,
+        "num": 195150,
+        "word": "梁朝伟治好了我的社交焦虑",
+        "onboard_time": 1695306100,
+        "rank": 35,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 194809,
+        "num": 194809,
+        "word": "张小斐新剧这是在下一盘多大的棋",
+        "onboard_time": 1695305739,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189958,
+        "num": 189958,
+        "word": "Redmi投影仪2",
+        "onboard_time": 1695306457,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188454,
+        "num": 188454,
+        "word": "真的建议年轻人要有前瞻性",
+        "onboard_time": 1695298113,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52057,
+        "num": 184065,
+        "word": "Note13价格真香",
+        "onboard_time": 1695299316,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183736,
+        "num": 183736,
+        "word": "父母吃席用纸巾盒给27岁女儿打包虾",
+        "onboard_time": 1695298715,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180052,
+        "num": 180052,
+        "word": "贵州人有自己的高颅顶",
+        "onboard_time": 1695306519,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172166,
+        "num": 172166,
+        "word": "劝新人上班不要太用力",
+        "onboard_time": 1695301777,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167725,
+        "num": 167725,
+        "word": "周杰伦太原演唱会",
+        "onboard_time": 1695284016,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "此刻的林陆骁真的会发光",
+        "onboard_time": 1695305316,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144136,
+        "num": 144136,
+        "word": "王一博新剧造型梦回叶秘",
+        "onboard_time": 1695293136,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141054,
+        "num": 141054,
+        "word": "封神网播",
+        "onboard_time": 1695284618,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137227,
+        "num": 137227,
+        "word": "林双卫明cp名双目失明",
+        "onboard_time": 1695302800,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127028,
+        "num": 127028,
+        "word": "逛大集治好了我的精神内耗",
+        "onboard_time": 1695305140,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124837,
+        "num": 124837,
+        "word": "KOOK崩了",
+        "onboard_time": 1695305316,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席杭州亚运会开幕式#"
+    }
+  }
+}
