@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695277340576,
+  "endTime": 1695278115684,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1868389,
+      "num": 819470,
+      "word": "34岁还没结婚是因为喜欢帅哥",
+      "onboard_time": 1695273098,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1840140,
       "num": 1840140,
       "word": "蜂花改喷头",
@@ -457,14 +465,6 @@
       "onboard_time": 1695048160,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1780451,
-      "num": 819470,
-      "word": "34岁还没结婚是因为喜欢帅哥",
-      "onboard_time": 1695273098,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1765292,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1465186,
+      "num": 1465186,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1461980,
       "num": 477802,
       "word": "下辈子我当王诗龄",
@@ -809,14 +817,6 @@
       "onboard_time": 1695098620,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1273767,
-      "num": 1273767,
-      "word": "中国又一特大城市诞生",
-      "onboard_time": 1695274417,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1271323,
@@ -1811,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 770625,
+      "num": 770625,
+      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+      "onboard_time": 1695273397,
+      "rank": 22,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 769558,
       "num": 769558,
       "word": "开灯后电影院的椅子有多脏",
@@ -1937,14 +1945,6 @@
       "onboard_time": 1694937873,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739561,
-      "num": 739561,
-      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
-      "onboard_time": 1695273397,
-      "rank": 22,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 738072,
@@ -2467,6 +2467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 642156,
+      "num": 345006,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641417,
       "num": 641417,
       "word": "把面粉倒进滚烫的开水里",
@@ -2545,6 +2553,14 @@
       "onboard_time": 1695178536,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 631686,
+      "num": 631686,
+      "word": "被钱砸中的刘亚仁",
+      "onboard_time": 1695274116,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 630540,
@@ -2811,14 +2827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 576976,
-      "num": 576976,
-      "word": "被钱砸中的刘亚仁",
-      "onboard_time": 1695274116,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 575787,
       "num": 471523,
       "word": "李维嘉说我可以加井胧微信吗",
@@ -2915,6 +2923,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 565128,
+      "num": 565128,
+      "word": "导演一下就把魏大勋推开了",
+      "onboard_time": 1695275857,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563517,
       "num": 563517,
       "word": "官方回应高二学生跳楼后不治身亡",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1695102275,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 562418,
+      "num": 562418,
+      "word": "TheShy和小杨哥联动",
+      "onboard_time": 1695276875,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 560570,
@@ -3161,14 +3185,6 @@
       "onboard_time": 1695008255,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 535351,
-      "num": 310657,
-      "word": "太子奶",
-      "onboard_time": 1695275015,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 535143,
@@ -3651,20 +3667,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 482186,
+      "num": 340608,
+      "word": "逼女孩喝酒的未成年曾逼男孩吃粪便",
+      "onboard_time": 1695275676,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480465,
       "num": 339204,
       "word": "原来刷牙是刷牙龈",
       "onboard_time": 1695039517,
       "rank": 20,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 480206,
-      "num": 308578,
-      "word": "逼女孩喝酒的未成年曾逼男孩吃粪便",
-      "onboard_time": 1695275676,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479522,
@@ -3939,6 +3955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444490,
+      "num": 444490,
+      "word": "少爷和我",
+      "onboard_time": 1695278073,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443305,
       "num": 443305,
       "word": "广东人吃微微辣的面",
@@ -4105,6 +4129,14 @@
       "onboard_time": 1695116075,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424470,
+      "num": 424470,
+      "word": "张小斐这段真的给我难受死了",
+      "onboard_time": 1695277475,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 424335,
@@ -5003,14 +5035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 357666,
-      "num": 357666,
-      "word": "导演一下就把魏大勋推开了",
-      "onboard_time": 1695275857,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356797,
       "num": 356797,
       "word": "丞磊弟弟也好帅",
@@ -5115,12 +5139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348804,
+      "num": 348804,
+      "word": "白色橄榄树",
+      "onboard_time": 1695275196,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348191,
       "num": 348191,
       "word": "二公子罗成是懂当老板的",
       "onboard_time": 1695169178,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347558,
+      "num": 408836,
+      "word": "一觉醒来大熊猫主动送上门",
+      "onboard_time": 1695273816,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 346751,
@@ -5193,14 +5233,6 @@
       "onboard_time": 1695212557,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343172,
-      "num": 343172,
-      "word": "TheShy和小杨哥联动",
-      "onboard_time": 1695276875,
-      "rank": 17,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 342268,
@@ -5489,14 +5521,6 @@
       "onboard_time": 1694938053,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325452,
-      "num": 391665,
-      "word": "一觉醒来大熊猫主动送上门",
-      "onboard_time": 1695273816,
-      "rank": 40,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 324930,
@@ -6115,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290894,
+      "num": 290894,
+      "word": "杨紫的扛剧能力是被认可的",
+      "onboard_time": 1695277114,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290542,
       "num": 290542,
       "word": "李在明已恢复意识",
@@ -6329,14 +6361,6 @@
       "onboard_time": 1695196595,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 278491,
-      "num": 278491,
-      "word": "白色橄榄树",
-      "onboard_time": 1695275196,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 278221,
@@ -6907,14 +6931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256556,
-      "num": 256556,
-      "word": "杨紫的扛剧能力是被认可的",
-      "onboard_time": 1695277114,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256521,
       "num": 256521,
       "word": "掌心拟邀过杨紫杨幂刘诗诗",
@@ -7193,6 +7209,14 @@
       "onboard_time": 1694867915,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 244525,
+      "num": 244525,
+      "word": "我的阿勒泰",
+      "onboard_time": 1695274116,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 244522,
@@ -7617,14 +7641,6 @@
       "onboard_time": 1695265176,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228403,
-      "num": 228403,
-      "word": "我的阿勒泰",
-      "onboard_time": 1695274116,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 228269,
@@ -9723,6 +9739,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 175607,
+      "num": 188554,
+      "word": "已故港星成奎安长子涉毒被捕",
+      "onboard_time": 1695274299,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 175508,
       "num": 175508,
       "word": "你认为苹果辫子客服形象是辱华吗",
@@ -9897,14 +9921,6 @@
       "onboard_time": 1694922875,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171623,
-      "num": 171623,
-      "word": "已故港星成奎安长子涉毒被捕",
-      "onboard_time": 1695274299,
-      "rank": 44,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 171458,
@@ -10113,6 +10129,14 @@
       "onboard_time": 1694921673,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164685,
+      "num": 164685,
+      "word": "这些刷牙的坏习惯不要有",
+      "onboard_time": 1695276636,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 164361,
@@ -10587,14 +10611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146285,
-      "num": 146285,
-      "word": "这些刷牙的坏习惯不要有",
-      "onboard_time": 1695276636,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145819,
       "num": 145819,
       "word": "记者揭露手机被改成偷拍设备",
@@ -10905,6 +10921,14 @@
       "onboard_time": 1695114757,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136308,
+      "num": 136308,
+      "word": "菲律宾机场安检员偷中国乘客钱财",
+      "onboard_time": 1695277594,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136202,

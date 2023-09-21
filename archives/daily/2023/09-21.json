@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695277340576,
+  "endTime": 1695278115684,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1780451,
+      "raw_hot": 1868389,
       "num": 819470,
       "word": "34岁还没结婚是因为喜欢帅哥",
       "onboard_time": 1695273098,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1465186,
+      "num": 1465186,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1457666,
       "num": 470356,
       "word": "iPhone14ProMax变最保值iPhone",
@@ -113,14 +121,6 @@
       "onboard_time": 1695267632,
       "rank": 6,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1273767,
-      "num": 1273767,
-      "word": "中国又一特大城市诞生",
-      "onboard_time": 1695274417,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1195920,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770625,
+      "num": 770625,
+      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+      "onboard_time": 1695273397,
+      "rank": 22,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 763893,
       "num": 763893,
       "word": "狐妖小红娘月红篇",
@@ -265,14 +273,6 @@
       "onboard_time": 1695259477,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 739561,
-      "num": 739561,
-      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
-      "onboard_time": 1695273397,
-      "rank": 22,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 697702,
@@ -305,6 +305,22 @@
       "onboard_time": 1695256178,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 642156,
+      "num": 345006,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631686,
+      "num": 631686,
+      "word": "被钱砸中的刘亚仁",
+      "onboard_time": 1695274116,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 615159,
@@ -347,14 +363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 576976,
-      "num": 576976,
-      "word": "被钱砸中的刘亚仁",
-      "onboard_time": 1695274116,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 570594,
       "num": 570594,
       "word": "成毅优酷扫楼",
@@ -369,6 +377,22 @@
       "onboard_time": 1695271060,
       "rank": 13,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 565128,
+      "num": 565128,
+      "word": "导演一下就把魏大勋推开了",
+      "onboard_time": 1695275857,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 562418,
+      "num": 562418,
+      "word": "TheShy和小杨哥联动",
+      "onboard_time": 1695276875,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 559365,
@@ -393,14 +417,6 @@
       "onboard_time": 1695203796,
       "rank": 16,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 535351,
-      "num": 310657,
-      "word": "太子奶",
-      "onboard_time": 1695275015,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515424,
@@ -435,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480206,
-      "num": 308578,
+      "raw_hot": 482186,
+      "num": 340608,
       "word": "逼女孩喝酒的未成年曾逼男孩吃粪便",
       "onboard_time": 1695275676,
       "rank": 21,
@@ -449,6 +465,14 @@
       "onboard_time": 1695261931,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444490,
+      "num": 444490,
+      "word": "少爷和我",
+      "onboard_time": 1695278073,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 442306,
@@ -473,6 +497,14 @@
       "onboard_time": 1695195758,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424470,
+      "num": 424470,
+      "word": "张小斐这段真的给我难受死了",
+      "onboard_time": 1695277475,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 423208,
@@ -611,12 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357666,
-      "num": 357666,
-      "word": "导演一下就把魏大勋推开了",
-      "onboard_time": 1695275857,
-      "rank": 16,
+      "raw_hot": 348804,
+      "num": 348804,
+      "word": "白色橄榄树",
+      "onboard_time": 1695275196,
+      "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347558,
+      "num": 408836,
+      "word": "一觉醒来大熊猫主动送上门",
+      "onboard_time": 1695273816,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 344833,
@@ -625,14 +665,6 @@
       "onboard_time": 1695263315,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343172,
-      "num": 343172,
-      "word": "TheShy和小杨哥联动",
-      "onboard_time": 1695276875,
-      "rank": 17,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 342243,
@@ -665,14 +697,6 @@
       "onboard_time": 1695262534,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325452,
-      "num": 391665,
-      "word": "一觉醒来大熊猫主动送上门",
-      "onboard_time": 1695273816,
-      "rank": 40,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 320495,
@@ -747,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290894,
+      "num": 290894,
+      "word": "杨紫的扛剧能力是被认可的",
+      "onboard_time": 1695277114,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283487,
       "num": 283487,
       "word": "外企的管理 最顶级的PUA",
@@ -769,14 +801,6 @@
       "onboard_time": 1695266676,
       "rank": 36,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 278491,
-      "num": 278491,
-      "word": "白色橄榄树",
-      "onboard_time": 1695275196,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 278221,
@@ -859,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256556,
-      "num": 256556,
-      "word": "杨紫的扛剧能力是被认可的",
-      "onboard_time": 1695277114,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254845,
       "num": 254845,
       "word": "封神第一部破26亿妲己唱甜蜜蜜了",
@@ -889,6 +905,14 @@
       "onboard_time": 1695261454,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244525,
+      "num": 244525,
+      "word": "我的阿勒泰",
+      "onboard_time": 1695274116,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 243578,
@@ -961,14 +985,6 @@
       "onboard_time": 1695265176,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228403,
-      "num": 228403,
-      "word": "我的阿勒泰",
-      "onboard_time": 1695274116,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 226298,
@@ -1219,6 +1235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 175607,
+      "num": 188554,
+      "word": "已故港星成奎安长子涉毒被捕",
+      "onboard_time": 1695274299,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 173630,
       "num": 173630,
       "word": "这么漂亮的流浪猫不懂为什么会流浪",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1695218738,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171623,
-      "num": 171623,
-      "word": "已故港星成奎安长子涉毒被捕",
-      "onboard_time": 1695274299,
-      "rank": 44,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 167138,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1695220538,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 164685,
+      "num": 164685,
+      "word": "这些刷牙的坏习惯不要有",
+      "onboard_time": 1695276636,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163485,
@@ -1355,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146285,
-      "num": 146285,
-      "word": "这些刷牙的坏习惯不要有",
-      "onboard_time": 1695276636,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145179,
       "num": 669598,
       "word": "西北为什么是未来能源宝库",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1695259178,
       "rank": 46,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 136308,
+      "num": 136308,
+      "word": "菲律宾机场安检员偷中国乘客钱财",
+      "onboard_time": 1695277594,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134741,
