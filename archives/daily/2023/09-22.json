@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695316529274,
+  "endTime": 1695317637605,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212331,
+      "num": 212331,
+      "word": "追求和性骚扰的边界感在哪",
+      "onboard_time": 1695314904,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211334,
       "num": 189759,
       "word": "内娱古偶白月光",
@@ -323,12 +331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112823,
-      "num": 112823,
-      "word": "追求和性骚扰的边界感在哪",
-      "onboard_time": 1695314904,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 103728,
+      "num": 103728,
+      "word": "模特踩潮汕祠堂八仙桌拍照引争议",
+      "onboard_time": 1695315385,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103282,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77595,
-      "num": 77595,
-      "word": "模特踩潮汕祠堂八仙桌拍照引争议",
-      "onboard_time": 1695315385,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74778,
       "num": 204626,
       "word": "爱吃排骨和雪梨的都沉默了",
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 41956,
-      "num": 47824,
+      "num": 72296,
       "word": "丞磊粤语撩人",
       "onboard_time": 1695316280,
       "rank": 48,
@@ -449,6 +449,14 @@
       "onboard_time": 1695290434,
       "rank": 14,
       "category": "国内要闻,体育"
+    },
+    {
+      "raw_hot": 27960,
+      "num": 72262,
+      "word": "Jennie要出新专辑了",
+      "onboard_time": 1695287436,
+      "rank": 48,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
