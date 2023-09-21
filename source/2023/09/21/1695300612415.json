@@ -1,0 +1,410 @@
+{
+  "runTime": 1695300612415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2625000,
+        "num": 2625000,
+        "word": "网红老婆爱吃巧乐兹发文道歉",
+        "onboard_time": 1695297756,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156543,
+        "num": 1156543,
+        "word": "林俊杰南京抢票",
+        "onboard_time": 1695291220,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15573,
+        "num": 1126620,
+        "word": "来杭州看亚运吃什么",
+        "onboard_time": 1695300336,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1103873,
+        "num": 1103873,
+        "word": "结过婚后真的再没羡慕过婚礼上的新娘",
+        "onboard_time": 1695289715,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 992653,
+        "num": 992653,
+        "word": "陈都灵到底救了多少场",
+        "onboard_time": 1695288633,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 783960,
+        "num": 783960,
+        "word": "国足亚运队半场4比0缅甸",
+        "onboard_time": 1695299076,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602848,
+        "num": 602848,
+        "word": "这玩意凭什么火了1900年",
+        "onboard_time": 1695298052,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 548479,
+        "num": 548479,
+        "word": "马立奥独自在酒店的一天",
+        "onboard_time": 1695296435,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436811,
+        "num": 436811,
+        "word": "孟钰活成了安欣的样子",
+        "onboard_time": 1695291874,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259029,
+        "num": 432443,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000189,
+        "num": 425913,
+        "word": "太子奶",
+        "onboard_time": 1695275015,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760560,
+        "num": 421381,
+        "word": "赵露思和她的双开门保镖合照",
+        "onboard_time": 1695293256,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114309,
+        "num": 418578,
+        "word": "三胞胎兄弟大学毕业一起参军",
+        "onboard_time": 1695289896,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106801,
+        "num": 408315,
+        "word": "叙利亚总统到访迎宾仪式",
+        "onboard_time": 1695290434,
+        "rank": 13,
+        "category": "国内要闻,体育"
+      },
+      {
+        "raw_hot": 69798,
+        "num": 404453,
+        "word": "春夏时装周",
+        "onboard_time": 1695298113,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 657930,
+        "num": 398429,
+        "word": "港星张智霖到警署协助调查",
+        "onboard_time": 1695300096,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 499227,
+        "num": 393546,
+        "word": "林俊杰黑胶开箱Vlog",
+        "onboard_time": 1695297875,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389020,
+        "num": 389020,
+        "word": "美剧天赋异禀",
+        "onboard_time": 1695298655,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337493,
+        "num": 337493,
+        "word": "黄健翔今晚国足应该是一场胜利",
+        "onboard_time": 1695294034,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320096,
+        "num": 320096,
+        "word": "只有朴彩英续约YG",
+        "onboard_time": 1695279219,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 955324,
+        "num": 320035,
+        "word": "特朗普",
+        "onboard_time": 1695294513,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 758179,
+        "num": 308466,
+        "word": "德国性教育内容表",
+        "onboard_time": 1695292055,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 507503,
+        "num": 304594,
+        "word": "为什么说女生要分开腿坐",
+        "onboard_time": 1695293675,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 390194,
+        "num": 298895,
+        "word": "学校发的军训服过于透气了",
+        "onboard_time": 1695298535,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368884,
+        "num": 288973,
+        "word": "真的建议年轻人要有前瞻性",
+        "onboard_time": 1695298113,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334082,
+        "num": 286746,
+        "word": "父母吃席用纸巾盒给27岁女儿打包虾",
+        "onboard_time": 1695298715,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282004,
+        "num": 282004,
+        "word": "大学生活费1500够用吗",
+        "onboard_time": 1695294513,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272725,
+        "num": 272725,
+        "word": "卢昱晓为教丞磊上海话求助妈妈",
+        "onboard_time": 1695294334,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260884,
+        "num": 260884,
+        "word": "第一次见到这么像陆毅的人",
+        "onboard_time": 1695299675,
+        "rank": 28,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 30169,
+        "num": 244620,
+        "word": "救4人00后战士一等功喜报送到家",
+        "onboard_time": 1695300396,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 234515,
+        "num": 234515,
+        "word": "涵艺爆料TES解散教练组",
+        "onboard_time": 1695299856,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216348,
+        "num": 216348,
+        "word": "白鹿头发丝都在发光",
+        "onboard_time": 1695296732,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198478,
+        "num": 198478,
+        "word": "封神网播",
+        "onboard_time": 1695284618,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194742,
+        "num": 194742,
+        "word": "谭龙破门",
+        "onboard_time": 1695297218,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189550,
+        "num": 189550,
+        "word": "周杰伦太原演唱会",
+        "onboard_time": 1695284016,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189410,
+        "num": 189410,
+        "word": "奶茶杯真的很适合租房人",
+        "onboard_time": 1695279755,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178376,
+        "num": 178376,
+        "word": "国足亚运队vs缅甸",
+        "onboard_time": 1695292956,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177793,
+        "num": 177793,
+        "word": "誓约手术",
+        "onboard_time": 1695300275,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175625,
+        "num": 175625,
+        "word": "一觉醒来邻居的房子不见了",
+        "onboard_time": 1695291395,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172678,
+        "num": 172678,
+        "word": "为什么说人千万不能懒",
+        "onboard_time": 1695295415,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171707,
+        "num": 171707,
+        "word": "王一博新剧造型梦回叶秘",
+        "onboard_time": 1695293136,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162921,
+        "num": 162921,
+        "word": "红米Note13Pro",
+        "onboard_time": 1695296133,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156040,
+        "num": 156040,
+        "word": "娜扎行走的黑玫瑰",
+        "onboard_time": 1695299557,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152482,
+        "num": 152482,
+        "word": "尹子维怎么演正派都那么像反派",
+        "onboard_time": 1695299136,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151460,
+        "num": 151460,
+        "word": "重庆三号线",
+        "onboard_time": 1695293019,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150483,
+        "num": 150483,
+        "word": "华晨宇上海演唱会抢票",
+        "onboard_time": 1695297756,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136267,
+        "num": 136267,
+        "word": "躲雨的大熊猫已被送往救助站",
+        "onboard_time": 1695278256,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 135980,
+        "num": 135980,
+        "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+        "onboard_time": 1695273397,
+        "rank": 47,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 86446,
+        "num": 132666,
+        "word": "Note13价格真香",
+        "onboard_time": 1695299316,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129648,
+        "num": 129648,
+        "word": "林陆骁火光最大显眼包",
+        "onboard_time": 1695298775,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江考察调研#"
+    }
+  }
+}

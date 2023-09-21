@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695299631611,
+  "endTime": 1695300612415,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -35,8 +35,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2370783,
-      "num": 2370783,
+      "raw_hot": 2625000,
+      "num": 2625000,
       "word": "网红老婆爱吃巧乐兹发文道歉",
       "onboard_time": 1695297756,
       "rank": 0,
@@ -235,6 +235,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 1156543,
+      "num": 1156543,
+      "word": "林俊杰南京抢票",
+      "onboard_time": 1695291220,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1145357,
       "num": 1145357,
       "word": "警方介入女生称实习被安排为男宾洗澡",
@@ -273,14 +281,6 @@
       "onboard_time": 1695268232,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 969158,
-      "num": 969158,
-      "word": "林俊杰南京抢票",
-      "onboard_time": 1695291220,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 960766,
@@ -369,6 +369,14 @@
       "onboard_time": 1695287436,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 783960,
+      "num": 783960,
+      "word": "国足亚运队半场4比0缅甸",
+      "onboard_time": 1695299076,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 771845,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657930,
+      "num": 398429,
+      "word": "港星张智霖到警署协助调查",
+      "onboard_time": 1695300096,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 653280,
       "num": 365771,
       "word": "床单不能太久不换",
@@ -521,6 +537,14 @@
       "onboard_time": 1695279755,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 602848,
+      "num": 602848,
+      "word": "这玩意凭什么火了1900年",
+      "onboard_time": 1695298052,
+      "rank": 18,
+      "category": "知识科普"
     },
     {
       "raw_hot": 601212,
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 510513,
-      "num": 335418,
+      "num": 393546,
       "word": "林俊杰黑胶开箱Vlog",
       "onboard_time": 1695297875,
       "rank": 17,
@@ -761,22 +785,6 @@
       "onboard_time": 1695261931,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 456368,
-      "num": 456368,
-      "word": "国足亚运队半场4比0缅甸",
-      "onboard_time": 1695299076,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 445373,
-      "num": 333260,
-      "word": "这玩意凭什么火了1900年",
-      "onboard_time": 1695298052,
-      "rank": 18,
-      "category": "知识科普"
     },
     {
       "raw_hot": 443459,
@@ -908,7 +916,7 @@
     },
     {
       "raw_hot": 393961,
-      "num": 236013,
+      "num": 298895,
       "word": "学校发的军训服过于透气了",
       "onboard_time": 1695298535,
       "rank": 30,
@@ -937,6 +945,14 @@
       "onboard_time": 1695292357,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389020,
+      "num": 389020,
+      "word": "美剧天赋异禀",
+      "onboard_time": 1695298655,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 386443,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1695263315,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342479,
-      "num": 342479,
-      "word": "美剧天赋异禀",
-      "onboard_time": 1695298655,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 342243,
@@ -1387,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260884,
+      "num": 260884,
+      "word": "第一次见到这么像陆毅的人",
+      "onboard_time": 1695299675,
+      "rank": 28,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 260598,
       "num": 280703,
       "word": "山东的桃子都是oversize的",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1695260314,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 234515,
+      "num": 234515,
+      "word": "涵艺爆料TES解散教练组",
+      "onboard_time": 1695299856,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 233585,
@@ -2019,6 +2043,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 177793,
+      "num": 177793,
+      "word": "誓约手术",
+      "onboard_time": 1695300275,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176922,
       "num": 229175,
       "word": "王俊凯的OOTD",
@@ -2155,8 +2187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161872,
-      "num": 161872,
+      "raw_hot": 162921,
+      "num": 162921,
       "word": "红米Note13Pro",
       "onboard_time": 1695296133,
       "rank": 44,
@@ -2563,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69798,
+      "num": 404453,
+      "word": "春夏时装周",
+      "onboard_time": 1695298113,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62114,
       "num": 262471,
       "word": "高能英雄的风吹到了海外",
@@ -2603,14 +2643,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 41130,
-      "num": 337659,
-      "word": "春夏时装周",
-      "onboard_time": 1695298113,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 40325,
       "num": 40325,
       "word": "张凌赫替虞书欣打招呼",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1695271237,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30169,
+      "num": 244620,
+      "word": "救4人00后战士一等功喜报送到家",
+      "onboard_time": 1695300396,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 26952,
@@ -2665,6 +2705,14 @@
       "onboard_time": 1695213336,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15573,
+      "num": 1126620,
+      "word": "来杭州看亚运吃什么",
+      "onboard_time": 1695300336,
+      "rank": 2,
+      "category": "社会新闻,体育"
     }
   ],
   "hotgov_list": [
@@ -2676,6 +2724,9 @@
     },
     {
       "word": "#习近平将出席杭州亚运会开幕式#"
+    },
+    {
+      "word": "#习近平在浙江考察调研#"
     }
   ]
 }
