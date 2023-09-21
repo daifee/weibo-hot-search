@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695259849573,
+  "endTime": 1695261844208,
   "band_list": [
     {
       "raw_hot": 2833512,
@@ -9,6 +9,14 @@
       "onboard_time": 1695252812,
       "rank": 30,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 2076685,
+      "num": 1139937,
+      "word": "花西子年薪63万招公关",
+      "onboard_time": 1695257197,
+      "rank": 10,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 1871940,
@@ -83,20 +91,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1139937,
-      "num": 1139937,
-      "word": "花西子年薪63万招公关",
-      "onboard_time": 1695257197,
-      "rank": 10,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 1053642,
       "num": 1053642,
       "word": "高度近视的人不要剧烈运动",
       "onboard_time": 1695253957,
       "rank": 7,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1034514,
+      "num": 470356,
+      "word": "iPhone14ProMax变最保值iPhone",
+      "onboard_time": 1695260674,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 914503,
+      "num": 914503,
+      "word": "许幻山 又是你",
+      "onboard_time": 1695258396,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 872123,
@@ -107,19 +123,27 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 817697,
-      "num": 817697,
-      "word": "许幻山 又是你",
-      "onboard_time": 1695258396,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 771845,
       "num": 771845,
       "word": "女子吐槽工资5千元国庆随份子近3千",
       "onboard_time": 1695253051,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754529,
+      "num": 754529,
+      "word": "电影野孩子官宣",
+      "onboard_time": 1695259477,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 697702,
+      "num": 697702,
+      "word": "日本对华食品出口暴跌41.2%",
+      "onboard_time": 1695257678,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -187,14 +211,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 505180,
-      "num": 505180,
-      "word": "日本对华食品出口暴跌41.2%",
-      "onboard_time": 1695257678,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496505,
       "num": 383851,
       "word": "月薪6000小伙为见女主播打赏9000万元",
@@ -225,6 +241,14 @@
       "onboard_time": 1695241154,
       "rank": 23,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 408799,
+      "num": 408799,
+      "word": "黄子诚姚瑶结婚了",
+      "onboard_time": 1695261214,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 391910,
@@ -259,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363361,
+      "num": 363361,
+      "word": "2024爱奇艺青春片单",
+      "onboard_time": 1695259655,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360503,
       "num": 360503,
       "word": "卓晴cp",
@@ -289,14 +321,6 @@
       "onboard_time": 1695210757,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302346,
-      "num": 302346,
-      "word": "电影野孩子官宣",
-      "onboard_time": 1695259477,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 301029,
@@ -339,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277033,
+      "num": 448111,
+      "word": "新疆没有海为什么能养海鲜",
+      "onboard_time": 1695259477,
+      "rank": 39,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 266094,
       "num": 266094,
       "word": "高校回应学院党委书记被曝不雅聊天",
@@ -353,6 +385,14 @@
       "onboard_time": 1695232459,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258742,
+      "num": 258742,
+      "word": "谢谢你 我打字有点慢",
+      "onboard_time": 1695259655,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 254845,
@@ -387,6 +427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238074,
+      "num": 210199,
+      "word": "长时间用电脑后洗把脸",
+      "onboard_time": 1695261396,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 236824,
+      "num": 236824,
+      "word": "西安交大回应取消四六级学位证挂钩",
+      "onboard_time": 1695260314,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 233585,
       "num": 233585,
       "word": "李赫宰Smoke Challenge",
@@ -419,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211745,
-      "num": 211745,
-      "word": "2024爱奇艺青春片单",
-      "onboard_time": 1695259655,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 210756,
+      "num": 210756,
+      "word": "唐伯虎在上海吃什么档次的面",
+      "onboard_time": 1695260374,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 208939,
+      "num": 208939,
+      "word": "跟千玺回家感受诗画洪江",
+      "onboard_time": 1695261813,
+      "rank": 32,
+      "category": "旅游,艺人"
     },
     {
       "raw_hot": 208679,
@@ -433,6 +497,14 @@
       "onboard_time": 1695205897,
       "rank": 24,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 207151,
+      "num": 207151,
+      "word": "野孩子",
+      "onboard_time": 1695259834,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 204515,
@@ -451,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194955,
+      "num": 194955,
+      "word": "念无双",
+      "onboard_time": 1695261158,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194585,
       "num": 194585,
       "word": "一封信",
@@ -465,6 +545,22 @@
       "onboard_time": 1695250823,
       "rank": 35,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 191787,
+      "num": 191787,
+      "word": "王俊凯新片野孩子双视角海报",
+      "onboard_time": 1695261454,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191316,
+      "num": 191316,
+      "word": "念无双唐嫣刘学义片花",
+      "onboard_time": 1695261158,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191133,
@@ -515,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167586,
+      "num": 167586,
+      "word": "孤舟",
+      "onboard_time": 1695261754,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167138,
       "num": 167138,
       "word": "起猛了抓间谍抓到自己弟",
@@ -539,12 +643,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 159744,
-      "num": 159744,
-      "word": "新疆没有海为什么能养海鲜",
-      "onboard_time": 1695259477,
-      "rank": 39,
-      "category": "社会新闻,美食"
+      "raw_hot": 163485,
+      "num": 163485,
+      "word": "17岁小伙凭借瓷砖贴面成全国冠军",
+      "onboard_time": 1695261693,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158602,
@@ -553,14 +657,6 @@
       "onboard_time": 1695255878,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155584,
-      "num": 155584,
-      "word": "野孩子",
-      "onboard_time": 1695259834,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 154304,
@@ -627,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144771,
+      "num": 144771,
+      "word": "老年痴呆症有哪些早期表现",
+      "onboard_time": 1695261335,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142523,
+      "num": 553968,
+      "word": "高铁站旅客起身鼓掌为新兵送行",
+      "onboard_time": 1695258937,
+      "rank": 14,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 141392,
       "num": 141392,
       "word": "哇唧唧哇真的挖了",
@@ -649,14 +761,6 @@
       "onboard_time": 1695215138,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134034,
-      "num": 134034,
-      "word": "谢谢你 我打字有点慢",
-      "onboard_time": 1695259655,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 132859,
@@ -705,14 +809,6 @@
       "onboard_time": 1695218619,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124525,
-      "num": 553968,
-      "word": "高铁站旅客起身鼓掌为新兵送行",
-      "onboard_time": 1695258937,
-      "rank": 14,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 120260,

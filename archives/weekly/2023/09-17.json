@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695259849573,
+  "endTime": 1695261844208,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -297,6 +297,14 @@
       "onboard_time": 1695033634,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2076685,
+      "num": 1139937,
+      "word": "花西子年薪63万招公关",
+      "onboard_time": 1695257197,
+      "rank": 10,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 2068593,
@@ -955,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1139937,
-      "num": 1139937,
-      "word": "花西子年薪63万招公关",
-      "onboard_time": 1695257197,
-      "rank": 10,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 1139421,
       "num": 586744,
       "word": "Angelababy敦煌飞天妆",
@@ -1139,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1034514,
+      "num": 470356,
+      "word": "iPhone14ProMax变最保值iPhone",
+      "onboard_time": 1695260674,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1027193,
       "num": 1027193,
       "word": "杨鸣卸任辽宁男篮主教练",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1695034654,
       "rank": 19,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 914503,
+      "num": 914503,
+      "word": "许幻山 又是你",
+      "onboard_time": 1695258396,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 909082,
@@ -1505,14 +1521,6 @@
       "onboard_time": 1695093156,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 817697,
-      "num": 817697,
-      "word": "许幻山 又是你",
-      "onboard_time": 1695258396,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 814534,
@@ -1745,6 +1753,14 @@
       "onboard_time": 1695012403,
       "rank": 6,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 754529,
+      "num": 754529,
+      "word": "电影野孩子官宣",
+      "onboard_time": 1695259477,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 753622,
@@ -1993,6 +2009,14 @@
       "onboard_time": 1695201457,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 697702,
+      "num": 697702,
+      "word": "日本对华食品出口暴跌41.2%",
+      "onboard_time": 1695257678,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694635,
@@ -3219,14 +3243,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 505180,
-      "num": 505180,
-      "word": "日本对华食品出口暴跌41.2%",
-      "onboard_time": 1695257678,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501958,
       "num": 501958,
       "word": "开水冲鸡蛋",
@@ -4027,6 +4043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408799,
+      "num": 408799,
+      "word": "黄子诚姚瑶结婚了",
+      "onboard_time": 1695261214,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408765,
       "num": 408765,
       "word": "金熊猫奖获奖名单",
@@ -4576,6 +4600,14 @@
       "word": "今日上网被确诊为刘姥姥",
       "onboard_time": 1694944832,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 363361,
+      "num": 363361,
+      "word": "2024爱奇艺青春片单",
+      "onboard_time": 1695259655,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -5427,14 +5459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 302346,
-      "num": 302346,
-      "word": "电影野孩子官宣",
-      "onboard_time": 1695259477,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301602,
       "num": 301602,
       "word": "100米民警走了10多分钟",
@@ -5939,6 +5963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277033,
+      "num": 448111,
+      "word": "新疆没有海为什么能养海鲜",
+      "onboard_time": 1695259477,
+      "rank": 39,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 276995,
       "num": 276995,
       "word": "朋友找一路的蛋挞插在我伞上",
@@ -6361,6 +6393,14 @@
       "onboard_time": 1695232459,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258742,
+      "num": 258742,
+      "word": "谢谢你 我打字有点慢",
+      "onboard_time": 1695259655,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 258649,
@@ -6827,6 +6867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238074,
+      "num": 210199,
+      "word": "长时间用电脑后洗把脸",
+      "onboard_time": 1695261396,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237855,
       "num": 237855,
       "word": "有没有硬座过夜舒服的好办法",
@@ -6857,6 +6905,14 @@
       "onboard_time": 1695130722,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236824,
+      "num": 236824,
+      "word": "西安交大回应取消四六级学位证挂钩",
+      "onboard_time": 1695260314,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 236471,
@@ -7635,20 +7691,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211745,
-      "num": 211745,
-      "word": "2024爱奇艺青春片单",
-      "onboard_time": 1695259655,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210882,
       "num": 210882,
       "word": "为什么柚子里面好多硬芯",
       "onboard_time": 1695116377,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210756,
+      "num": 210756,
+      "word": "唐伯虎在上海吃什么档次的面",
+      "onboard_time": 1695260374,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 210586,
@@ -7707,6 +7763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208939,
+      "num": 208939,
+      "word": "跟千玺回家感受诗画洪江",
+      "onboard_time": 1695261813,
+      "rank": 32,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 208304,
       "num": 208304,
       "word": "新华为平板成首款星闪产品",
@@ -7745,6 +7809,14 @@
       "onboard_time": 1695130839,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207151,
+      "num": 207151,
+      "word": "野孩子",
+      "onboard_time": 1695259834,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 206433,
@@ -8267,6 +8339,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 194955,
+      "num": 194955,
+      "word": "念无双",
+      "onboard_time": 1695261158,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194645,
       "num": 194645,
       "word": "卡雅vs山东泰山",
@@ -8403,6 +8483,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 191787,
+      "num": 191787,
+      "word": "王俊凯新片野孩子双视角海报",
+      "onboard_time": 1695261454,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191774,
       "num": 191774,
       "word": "亚冠联赛",
@@ -8433,6 +8521,14 @@
       "onboard_time": 1695085235,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191316,
+      "num": 191316,
+      "word": "念无双唐嫣刘学义片花",
+      "onboard_time": 1695261158,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191270,
@@ -9315,6 +9411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167586,
+      "num": 167586,
+      "word": "孤舟",
+      "onboard_time": 1695261754,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167370,
       "num": 167370,
       "word": "终于知道怎么安慰好朋友了",
@@ -9435,6 +9539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163485,
+      "num": 163485,
+      "word": "17岁小伙凭借瓷砖贴面成全国冠军",
+      "onboard_time": 1695261693,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162936,
       "num": 162936,
       "word": "XYG 固定临时席位",
@@ -9521,14 +9633,6 @@
       "onboard_time": 1694919993,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159744,
-      "num": 159744,
-      "word": "新疆没有海为什么能养海鲜",
-      "onboard_time": 1695259477,
-      "rank": 39,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 159666,
@@ -9657,14 +9761,6 @@
       "onboard_time": 1695037653,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155584,
-      "num": 155584,
-      "word": "野孩子",
-      "onboard_time": 1695259834,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 154809,
@@ -9923,6 +10019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144771,
+      "num": 144771,
+      "word": "老年痴呆症有哪些早期表现",
+      "onboard_time": 1695261335,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144766,
       "num": 144766,
       "word": "女子高铁拒换座被打双方均已就医",
@@ -10001,6 +10105,14 @@
       "onboard_time": 1694911953,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142523,
+      "num": 553968,
+      "word": "高铁站旅客起身鼓掌为新兵送行",
+      "onboard_time": 1695258937,
+      "rank": 14,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 142486,
@@ -10177,14 +10289,6 @@
       "onboard_time": 1695136662,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134034,
-      "num": 134034,
-      "word": "谢谢你 我打字有点慢",
-      "onboard_time": 1695259655,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 133189,
@@ -10385,14 +10489,6 @@
       "onboard_time": 1695165509,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124525,
-      "num": 553968,
-      "word": "高铁站旅客起身鼓掌为新兵送行",
-      "onboard_time": 1695258937,
-      "rank": 14,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 124521,
