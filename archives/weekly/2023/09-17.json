@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695330912764,
+  "endTime": 1695332039088,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -13323,6 +13323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42249,
+      "num": 43430,
+      "word": "李泽锋 如果大海能够带走我的哀愁",
+      "onboard_time": 1695329414,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41956,
       "num": 72296,
       "word": "丞磊粤语撩人",
@@ -13457,14 +13465,6 @@
       "onboard_time": 1695059238,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30782,
-      "num": 43430,
-      "word": "李泽锋 如果大海能够带走我的哀愁",
-      "onboard_time": 1695329414,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 30590,
@@ -13611,6 +13611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23586,
+      "num": 41550,
+      "word": "外国教练主动和樊振东握手",
+      "onboard_time": 1695328094,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22322,
       "num": 24349,
       "word": "海贼王和灌篮高手联动",
@@ -13649,14 +13657,6 @@
       "onboard_time": 1695321257,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20237,
-      "num": 41550,
-      "word": "外国教练主动和樊振东握手",
-      "onboard_time": 1695328094,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 19529,
@@ -13731,6 +13731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 11605,
+      "num": 41475,
+      "word": "高通否认大规模裁员",
+      "onboard_time": 1695329054,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 11104,
       "num": 705817,
       "word": "共创残疾人更加幸福美好生活",
@@ -13739,15 +13747,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10355,
-      "num": 41475,
-      "word": "高通否认大规模裁员",
-      "onboard_time": 1695329054,
-      "rank": 48,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 10326,
+      "raw_hot": 10340,
       "num": 41474,
       "word": "广州TTG冠军战队签名",
       "onboard_time": 1695328993,
