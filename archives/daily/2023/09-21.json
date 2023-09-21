@@ -1,7 +1,15 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695270843475,
+  "endTime": 1695273331860,
   "band_list": [
+    {
+      "raw_hot": 3058440,
+      "num": 3058440,
+      "word": "特朗普儿子发文父亲去世后称账号被黑",
+      "onboard_time": 1695271237,
+      "rank": 0,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 2833512,
       "num": 2833512,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1373964,
+      "num": 1373964,
+      "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+      "onboard_time": 1695267632,
+      "rank": 6,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1195920,
       "num": 1195920,
       "word": "霸王茶姬 李相夷",
@@ -131,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1122173,
-      "num": 1122173,
-      "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
-      "onboard_time": 1695267632,
-      "rank": 6,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 1053642,
       "num": 1053642,
       "word": "高度近视的人不要剧烈运动",
       "onboard_time": 1695253957,
       "rank": 7,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1013051,
+      "num": 1013051,
+      "word": "换回国货后发现工资够用了",
+      "onboard_time": 1695268354,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 984993,
@@ -187,6 +203,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 855305,
+      "num": 608591,
+      "word": "王权霸业改名王权弘业",
+      "onboard_time": 1695269797,
+      "rank": 21,
+      "category": "剧集,动漫"
+    },
+    {
+      "raw_hot": 840878,
+      "num": 840878,
+      "word": "拿诺奖在东莞买房补贴1000万",
+      "onboard_time": 1695271375,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 834327,
       "num": 834327,
       "word": "黄子诚姚瑶结婚了",
@@ -195,28 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 818389,
-      "num": 608591,
-      "word": "王权霸业改名王权弘业",
-      "onboard_time": 1695269797,
-      "rank": 21,
-      "category": "剧集,动漫"
-    },
-    {
       "raw_hot": 771845,
       "num": 771845,
       "word": "女子吐槽工资5千元国庆随份子近3千",
       "onboard_time": 1695253051,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 763970,
-      "num": 780668,
-      "word": "换回国货后发现工资够用了",
-      "onboard_time": 1695268354,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 763893,
@@ -305,6 +321,14 @@
       "onboard_time": 1695262833,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 565475,
+      "num": 565475,
+      "word": "杨紫初秋纯欲妆",
+      "onboard_time": 1695271060,
+      "rank": 13,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 559365,
@@ -411,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 412183,
+      "num": 412183,
+      "word": "中国科学家在马里亚纳海沟发现新病毒",
+      "onboard_time": 1695270339,
+      "rank": 26,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 408640,
       "num": 408640,
       "word": "猎罪图鉴2",
@@ -419,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396002,
+      "num": 396002,
+      "word": "TFBOYS为王俊凯新电影打call",
+      "onboard_time": 1695269559,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 394957,
       "num": 394957,
       "word": "那些kpop男团里的妹宝公主担当",
       "onboard_time": 1695264695,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 392126,
+      "num": 392126,
+      "word": "成毅优酷扫楼",
+      "onboard_time": 1695272319,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 391910,
@@ -441,14 +489,6 @@
       "onboard_time": 1695259477,
       "rank": 39,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 383292,
-      "num": 383292,
-      "word": "TFBOYS为王俊凯新电影打call",
-      "onboard_time": 1695269559,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 382080,
@@ -473,6 +513,14 @@
       "onboard_time": 1695258276,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 366905,
+      "num": 366905,
+      "word": "养代谢减肥法",
+      "onboard_time": 1695271000,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 364879,
@@ -531,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325717,
-      "num": 325717,
-      "word": "中国科学家在马里亚纳海沟发现新病毒",
-      "onboard_time": 1695270339,
-      "rank": 26,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 320495,
       "num": 320495,
       "word": "赵露思明艳风",
       "onboard_time": 1695256298,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 318896,
+      "num": 318896,
+      "word": "世界八大污染事件 日本独占一半",
+      "onboard_time": 1695271899,
+      "rank": 24,
+      "category": "知识科普"
     },
     {
       "raw_hot": 315489,
@@ -603,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283487,
+      "num": 283487,
+      "word": "外企的管理 最顶级的PUA",
+      "onboard_time": 1695270277,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281819,
       "num": 281819,
       "word": "花西子旗下多家公司0人参保",
@@ -659,6 +715,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 261694,
+      "num": 261694,
+      "word": "此沙逗一下就脸红",
+      "onboard_time": 1695271599,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260598,
       "num": 280703,
       "word": "山东的桃子都是oversize的",
@@ -692,7 +756,7 @@
     },
     {
       "raw_hot": 254429,
-      "num": 621250,
+      "num": 1391975,
       "word": "杭州亚运将上演奥运级别巅峰对决",
       "onboard_time": 1695256477,
       "rank": 12,
@@ -851,6 +915,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 207541,
+      "num": 207541,
+      "word": "南风知我意",
+      "onboard_time": 1695271599,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207151,
       "num": 207151,
       "word": "野孩子",
@@ -931,6 +1003,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 192856,
+      "num": 192856,
+      "word": "34岁还没结婚是因为喜欢帅哥",
+      "onboard_time": 1695273098,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191316,
       "num": 191316,
       "word": "念无双唐嫣刘学义片花",
@@ -945,6 +1025,14 @@
       "onboard_time": 1695250944,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190199,
+      "num": 190199,
+      "word": "田耕纪预告 谈钱说爱",
+      "onboard_time": 1695272858,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 190013,
@@ -995,6 +1083,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 172556,
+      "num": 172556,
+      "word": "妈妈解释女儿和纸片人交往",
+      "onboard_time": 1695272918,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171986,
       "num": 171986,
       "word": "于适 蓝翔系爱豆",
@@ -1027,20 +1123,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 166429,
-      "num": 166429,
-      "word": "外企的管理 最顶级的PUA",
-      "onboard_time": 1695270277,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163485,
       "num": 163485,
       "word": "17岁小伙凭借瓷砖贴面成全国冠军",
       "onboard_time": 1695261693,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159694,
+      "num": 159694,
+      "word": "沪指4000点才是崛起的基本点",
+      "onboard_time": 1695273160,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 158602,
@@ -1145,6 +1241,14 @@
       "onboard_time": 1695261335,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143612,
+      "num": 143612,
+      "word": "特工任务女间谍为逃避泄密自杀",
+      "onboard_time": 1695272741,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 142523,
@@ -1425,6 +1529,9 @@
     },
     {
       "word": "#读懂总书记对他们的深切关爱#"
+    },
+    {
+      "word": "#习近平将出席杭州亚运会开幕式#"
     }
   ]
 }

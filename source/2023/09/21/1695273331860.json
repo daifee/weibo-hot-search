@@ -1,0 +1,410 @@
+{
+  "runTime": 1695273331860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3058440,
+        "num": 3058440,
+        "word": "特朗普儿子发文父亲去世后称账号被黑",
+        "onboard_time": 1695271237,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1545898,
+        "num": 1545898,
+        "word": "猎罪图鉴2官宣檀健次金世佳",
+        "onboard_time": 1695264994,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71614,
+        "num": 1391975,
+        "word": "杭州亚运将上演奥运级别巅峰对决",
+        "onboard_time": 1695256477,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1373964,
+        "num": 1373964,
+        "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+        "onboard_time": 1695267632,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1013051,
+        "num": 1013051,
+        "word": "换回国货后发现工资够用了",
+        "onboard_time": 1695268354,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 857876,
+        "num": 857876,
+        "word": "电视剧长风破浪官宣",
+        "onboard_time": 1695265114,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840878,
+        "num": 840878,
+        "word": "拿诺奖在东莞买房补贴1000万",
+        "onboard_time": 1695271375,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 631524,
+        "num": 631524,
+        "word": "NIO Phone",
+        "onboard_time": 1695268232,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 610704,
+        "num": 610704,
+        "word": "狐妖小红娘竹业篇首发阵容",
+        "onboard_time": 1695262892,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578454,
+        "num": 578454,
+        "word": "许幻山 又是你",
+        "onboard_time": 1695258396,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1358344,
+        "num": 577291,
+        "word": "没有李佳琦花西子会走向何处",
+        "onboard_time": 1695262354,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 981617,
+        "num": 577209,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 855305,
+        "num": 571766,
+        "word": "王权霸业改名王权弘业",
+        "onboard_time": 1695269797,
+        "rank": 12,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 565475,
+        "num": 565475,
+        "word": "杨紫初秋纯欲妆",
+        "onboard_time": 1695271060,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 296195,
+        "num": 539642,
+        "word": "33岁女子上老年大学兴趣班",
+        "onboard_time": 1695266254,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 534686,
+        "num": 534686,
+        "word": "Mate60不会放过每一个逃单的人",
+        "onboard_time": 1695267514,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 526495,
+        "num": 526495,
+        "word": "赵又廷希望女儿长得像高圆圆",
+        "onboard_time": 1695256360,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412183,
+        "num": 412183,
+        "word": "中国科学家在马里亚纳海沟发现新病毒",
+        "onboard_time": 1695270339,
+        "rank": 17,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 401638,
+        "num": 401638,
+        "word": "猎罪图鉴2没加女主",
+        "onboard_time": 1695266616,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396002,
+        "num": 396002,
+        "word": "TFBOYS为王俊凯新电影打call",
+        "onboard_time": 1695269559,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392126,
+        "num": 392126,
+        "word": "成毅优酷扫楼",
+        "onboard_time": 1695272319,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366905,
+        "num": 366905,
+        "word": "养代谢减肥法",
+        "onboard_time": 1695271000,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351456,
+        "num": 351456,
+        "word": "五条悟台词 人设崩塌",
+        "onboard_time": 1695264454,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 338348,
+        "num": 338348,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1695263073,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318896,
+        "num": 318896,
+        "word": "世界八大污染事件 日本独占一半",
+        "onboard_time": 1695271899,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 306840,
+        "num": 306840,
+        "word": "黄子诚姚瑶结婚了",
+        "onboard_time": 1695261214,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284333,
+        "num": 284333,
+        "word": "迪丽热巴秦岚花少5合照",
+        "onboard_time": 1695263795,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283487,
+        "num": 283487,
+        "word": "外企的管理 最顶级的PUA",
+        "onboard_time": 1695270277,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273429,
+        "num": 273429,
+        "word": "西安交大取消四六级学位证挂钩",
+        "onboard_time": 1695250823,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196681,
+        "num": 265685,
+        "word": "男子拍死隐翅虫多处溃烂5天未愈",
+        "onboard_time": 1695264514,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261694,
+        "num": 261694,
+        "word": "此沙逗一下就脸红",
+        "onboard_time": 1695271599,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242656,
+        "num": 242656,
+        "word": "花西子年薪63万招公关",
+        "onboard_time": 1695257197,
+        "rank": 31,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 241617,
+        "num": 241617,
+        "word": "一念关山",
+        "onboard_time": 1695267036,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207541,
+        "num": 207541,
+        "word": "南风知我意",
+        "onboard_time": 1695271599,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204515,
+        "num": 204515,
+        "word": "张大仙减重28斤",
+        "onboard_time": 1695262833,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192856,
+        "num": 192856,
+        "word": "34岁还没结婚是因为喜欢帅哥",
+        "onboard_time": 1695273098,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190199,
+        "num": 190199,
+        "word": "田耕纪预告 谈钱说爱",
+        "onboard_time": 1695272858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181741,
+        "num": 181741,
+        "word": "高度近视的人不要剧烈运动",
+        "onboard_time": 1695253957,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 181473,
+        "num": 181473,
+        "word": "北上",
+        "onboard_time": 1695267933,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177578,
+        "num": 180545,
+        "word": "山东的桃子都是oversize的",
+        "onboard_time": 1695269436,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179627,
+        "num": 179627,
+        "word": "隐翅虫",
+        "onboard_time": 1695266676,
+        "rank": 40,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 172556,
+        "num": 172556,
+        "word": "妈妈解释女儿和纸片人交往",
+        "onboard_time": 1695272918,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159694,
+        "num": 159694,
+        "word": "沪指4000点才是崛起的基本点",
+        "onboard_time": 1695273160,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159059,
+        "num": 159059,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 43,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 155256,
+        "num": 155256,
+        "word": "日本对华食品出口暴跌41.2%",
+        "onboard_time": 1695257678,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154217,
+        "num": 154217,
+        "word": "花西子年薪60万招品牌传播专家",
+        "onboard_time": 1695255996,
+        "rank": 45,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 153484,
+        "num": 153484,
+        "word": "蔚来手机上市",
+        "onboard_time": 1695268115,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144390,
+        "num": 144390,
+        "word": "电影野孩子官宣",
+        "onboard_time": 1695259477,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143612,
+        "num": 143612,
+        "word": "特工任务女间谍为逃避泄密自杀",
+        "onboard_time": 1695272741,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141477,
+        "num": 141477,
+        "word": "女子把隐翅虫当蚊子拍死面部被灼伤",
+        "onboard_time": 1695266254,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席杭州亚运会开幕式#"
+    }
+  }
+}
