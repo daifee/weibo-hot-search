@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695258643622,
+  "endTime": 1695259849573,
   "band_list": [
     {
       "raw_hot": 2833512,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1139937,
+      "num": 1139937,
+      "word": "花西子年薪63万招公关",
+      "onboard_time": 1695257197,
+      "rank": 10,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 1053642,
       "num": 1053642,
       "word": "高度近视的人不要剧烈运动",
@@ -99,20 +107,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 817697,
+      "num": 817697,
+      "word": "许幻山 又是你",
+      "onboard_time": 1695258396,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 771845,
       "num": 771845,
       "word": "女子吐槽工资5千元国庆随份子近3千",
       "onboard_time": 1695253051,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766079,
-      "num": 766079,
-      "word": "花西子年薪63万招公关",
-      "onboard_time": 1695257197,
-      "rank": 10,
-      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 666204,
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 515067,
-      "num": 515067,
+      "num": 559787,
       "word": "普京会见王毅",
       "onboard_time": 1695254137,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 505180,
+      "num": 505180,
+      "word": "日本对华食品出口暴跌41.2%",
+      "onboard_time": 1695257678,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496505,
@@ -227,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367735,
+      "num": 317659,
+      "word": "辣椒没传入中国前川渝吃什么",
+      "onboard_time": 1695258276,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 364879,
       "num": 364879,
       "word": "杜海涛亲沈梦辰不让妈妈看",
@@ -241,14 +265,6 @@
       "onboard_time": 1695209735,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335791,
-      "num": 335791,
-      "word": "日本对华食品出口暴跌41.2%",
-      "onboard_time": 1695257678,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331383,
@@ -273,6 +289,14 @@
       "onboard_time": 1695210757,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302346,
+      "num": 302346,
+      "word": "电影野孩子官宣",
+      "onboard_time": 1695259477,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 301029,
@@ -331,20 +355,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251493,
-      "num": 210946,
-      "word": "辣椒没传入中国前川渝吃什么",
-      "onboard_time": 1695258276,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 254845,
+      "num": 254845,
+      "word": "封神第一部破26亿妲己唱甜蜜蜜了",
+      "onboard_time": 1695258573,
+      "rank": 43,
+      "category": "电影"
     },
     {
-      "raw_hot": 244706,
-      "num": 244706,
-      "word": "许幻山 又是你",
-      "onboard_time": 1695258396,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 254429,
+      "num": 621250,
+      "word": "杭州亚运将上演奥运级别巅峰对决",
+      "onboard_time": 1695256477,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240441,
+      "num": 240441,
+      "word": "羊了个羊",
+      "onboard_time": 1695253836,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 239398,
@@ -355,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232759,
-      "num": 621250,
-      "word": "杭州亚运将上演奥运级别巅峰对决",
-      "onboard_time": 1695256477,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 233585,
+      "num": 233585,
+      "word": "李赫宰Smoke Challenge",
+      "onboard_time": 1695259178,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 228681,
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211745,
+      "num": 211745,
+      "word": "2024爱奇艺青春片单",
+      "onboard_time": 1695259655,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208679,
       "num": 208679,
       "word": "千万不要闻脱下来的袜子",
@@ -401,14 +441,6 @@
       "onboard_time": 1695218676,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202200,
-      "num": 202200,
-      "word": "羊了个羊",
-      "onboard_time": 1695253836,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 196585,
@@ -449,6 +481,14 @@
       "onboard_time": 1695221677,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183456,
+      "num": 183456,
+      "word": "张婧仪丸子头梦回朱韵",
+      "onboard_time": 1695258517,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 176123,
@@ -499,12 +539,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 159744,
+      "num": 159744,
+      "word": "新疆没有海为什么能养海鲜",
+      "onboard_time": 1695259477,
+      "rank": 39,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 158602,
       "num": 158602,
       "word": "刚出道时期的刘亦菲",
       "onboard_time": 1695255878,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155584,
+      "num": 155584,
+      "word": "野孩子",
+      "onboard_time": 1695259834,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 154304,
@@ -579,12 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139257,
-      "num": 139257,
-      "word": "封神第一部破26亿妲己唱甜蜜蜜了",
-      "onboard_time": 1695258573,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 138043,
+      "num": 138043,
+      "word": "中原中也恢复了",
+      "onboard_time": 1695259178,
+      "rank": 46,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 134741,
@@ -593,6 +649,14 @@
       "onboard_time": 1695215138,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134034,
+      "num": 134034,
+      "word": "谢谢你 我打字有点慢",
+      "onboard_time": 1695259655,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 132859,
@@ -641,6 +705,14 @@
       "onboard_time": 1695218619,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124525,
+      "num": 553968,
+      "word": "高铁站旅客起身鼓掌为新兵送行",
+      "onboard_time": 1695258937,
+      "rank": 14,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 120260,

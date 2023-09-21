@@ -1,0 +1,410 @@
+{
+  "runTime": 1695259849573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2649884,
+        "num": 2649884,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 0,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1379807,
+        "num": 1379807,
+        "word": "西安交大取消四六级学位证挂钩",
+        "onboard_time": 1695250823,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92601,
+        "num": 1241574,
+        "word": "世界都知道了杭州有多美",
+        "onboard_time": 1695216997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1139937,
+        "num": 1139937,
+        "word": "花西子年薪63万招公关",
+        "onboard_time": 1695257197,
+        "rank": 3,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 1094073,
+        "num": 1094073,
+        "word": "赵又廷希望女儿长得像高圆圆",
+        "onboard_time": 1695256360,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1028041,
+        "num": 1028041,
+        "word": "花西子年薪60万招品牌传播专家",
+        "onboard_time": 1695255996,
+        "rank": 5,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 1023439,
+        "num": 1023439,
+        "word": "霸王茶姬 李相夷",
+        "onboard_time": 1695250882,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 926123,
+        "num": 926123,
+        "word": "警方介入女生称实习被安排为男宾洗澡",
+        "onboard_time": 1695255219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821663,
+        "num": 821663,
+        "word": "高度近视的人不要剧烈运动",
+        "onboard_time": 1695253957,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 817697,
+        "num": 817697,
+        "word": "许幻山 又是你",
+        "onboard_time": 1695258396,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669039,
+        "num": 669039,
+        "word": "洁柔直播间输错价格亏损千万",
+        "onboard_time": 1695221138,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634111,
+        "num": 634111,
+        "word": "iPhone15可以互相充电",
+        "onboard_time": 1695256178,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303028,
+        "num": 559787,
+        "word": "普京会见王毅",
+        "onboard_time": 1695254137,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 254429,
+        "num": 554131,
+        "word": "杭州亚运将上演奥运级别巅峰对决",
+        "onboard_time": 1695256477,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124525,
+        "num": 553968,
+        "word": "高铁站旅客起身鼓掌为新兵送行",
+        "onboard_time": 1695258937,
+        "rank": 14,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 553968,
+        "num": 553967,
+        "word": "女子吐槽工资5千元国庆随份子近3千",
+        "onboard_time": 1695253051,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505180,
+        "num": 505180,
+        "word": "日本对华食品出口暴跌41.2%",
+        "onboard_time": 1695257678,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505102,
+        "num": 505102,
+        "word": "虞书欣父母公司被恢复执行",
+        "onboard_time": 1695224136,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477934,
+        "num": 477934,
+        "word": "李旻浩黄铉辰金昇玟出车祸",
+        "onboard_time": 1695253776,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322633,
+        "num": 322633,
+        "word": "梅西36分钟被换下",
+        "onboard_time": 1695256599,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367735,
+        "num": 317659,
+        "word": "辣椒没传入中国前川渝吃什么",
+        "onboard_time": 1695258276,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329667,
+        "num": 317424,
+        "word": "月薪6000小伙为见女主播打赏9000万元",
+        "onboard_time": 1695215675,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312083,
+        "num": 312083,
+        "word": "删除的所有QQ空间都在这里",
+        "onboard_time": 1695193836,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 305703,
+        "num": 305703,
+        "word": "赵露思明艳风",
+        "onboard_time": 1695256298,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302346,
+        "num": 302346,
+        "word": "电影野孩子官宣",
+        "onboard_time": 1695259477,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278416,
+        "num": 278416,
+        "word": "远嫁妻子想开美甲店丈夫花20天打造",
+        "onboard_time": 1695255939,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259947,
+        "num": 259947,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 26,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 254845,
+        "num": 254845,
+        "word": "封神第一部破26亿妲己唱甜蜜蜜了",
+        "onboard_time": 1695258573,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240441,
+        "num": 240441,
+        "word": "羊了个羊",
+        "onboard_time": 1695253836,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233585,
+        "num": 233585,
+        "word": "李赫宰Smoke Challenge",
+        "onboard_time": 1695259178,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211745,
+        "num": 211745,
+        "word": "2024爱奇艺青春片单",
+        "onboard_time": 1695259655,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195396,
+        "num": 195396,
+        "word": "高校回应学院党委书记被曝不雅聊天",
+        "onboard_time": 1695253957,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190349,
+        "num": 190349,
+        "word": "北极兔cp",
+        "onboard_time": 1695220720,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184157,
+        "num": 184157,
+        "word": "职校女生称实习被安排为男宾洗澡",
+        "onboard_time": 1695255219,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183456,
+        "num": 183456,
+        "word": "张婧仪丸子头梦回朱韵",
+        "onboard_time": 1695258517,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175954,
+        "num": 175954,
+        "word": "国产小说界的四大天王",
+        "onboard_time": 1695241154,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 171005,
+        "num": 171005,
+        "word": "一封信",
+        "onboard_time": 1695211117,
+        "rank": 36,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 165779,
+        "num": 165779,
+        "word": "这么漂亮的流浪猫不懂为什么会流浪",
+        "onboard_time": 1695249200,
+        "rank": 37,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 162527,
+        "num": 162527,
+        "word": "男子分手后求和不成刺死前女友母亲",
+        "onboard_time": 1695232459,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159744,
+        "num": 159744,
+        "word": "新疆没有海为什么能养海鲜",
+        "onboard_time": 1695259477,
+        "rank": 39,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 156355,
+        "num": 156355,
+        "word": "花西子旗下多家公司0人参保",
+        "onboard_time": 1695202778,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156216,
+        "num": 156216,
+        "word": "AirPodsPro2 样子不变新功能出现",
+        "onboard_time": 1695242414,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155584,
+        "num": 155584,
+        "word": "野孩子",
+        "onboard_time": 1695259834,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151561,
+        "num": 151561,
+        "word": "她可是你嫂子",
+        "onboard_time": 1695203916,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148457,
+        "num": 148457,
+        "word": "李佳琦直播间仍有千万观看",
+        "onboard_time": 1695203796,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 142141,
+        "num": 142141,
+        "word": "刚出道时期的刘亦菲",
+        "onboard_time": 1695255878,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138043,
+        "num": 138043,
+        "word": "中原中也恢复了",
+        "onboard_time": 1695259178,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 134034,
+        "num": 134034,
+        "word": "谢谢你 我打字有点慢",
+        "onboard_time": 1695259655,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128199,
+        "num": 134025,
+        "word": "大学生打工半月仅赚100元崩溃打人",
+        "onboard_time": 1695230543,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124460,
+        "num": 134016,
+        "word": "杜海涛亲沈梦辰不让妈妈看",
+        "onboard_time": 1695217656,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记对他们的深切关爱#"
+    }
+  }
+}

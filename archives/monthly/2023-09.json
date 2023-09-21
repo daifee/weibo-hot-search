@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695258643622,
+  "endTime": 1695259849573,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -5259,6 +5259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1139937,
+      "num": 1139937,
+      "word": "花西子年薪63万招公关",
+      "onboard_time": 1695257197,
+      "rank": 10,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 1139421,
       "num": 586744,
       "word": "Angelababy敦煌飞天妆",
@@ -8139,6 +8147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 817697,
+      "num": 817697,
+      "word": "许幻山 又是你",
+      "onboard_time": 1695258396,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 817242,
       "num": 817242,
       "word": "苍兰诀 全员上桌",
@@ -9001,14 +9017,6 @@
       "onboard_time": 1694779177,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 766079,
-      "num": 766079,
-      "word": "花西子年薪63万招公关",
-      "onboard_time": 1695257197,
-      "rank": 10,
-      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 765578,
@@ -15540,7 +15548,7 @@
     },
     {
       "raw_hot": 515067,
-      "num": 515067,
+      "num": 559787,
       "word": "普京会见王毅",
       "onboard_time": 1695254137,
       "rank": 17,
@@ -15889,6 +15897,14 @@
       "onboard_time": 1693960837,
       "rank": 17,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 505180,
+      "num": 505180,
+      "word": "日本对华食品出口暴跌41.2%",
+      "onboard_time": 1695257678,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505173,
@@ -22179,6 +22195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 367735,
+      "num": 317659,
+      "word": "辣椒没传入中国前川渝吃什么",
+      "onboard_time": 1695258276,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 367625,
       "num": 367625,
       "word": "iPhone15使用标准USBC端口",
@@ -23985,14 +24009,6 @@
       "onboard_time": 1693884814,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 335791,
-      "num": 335791,
-      "word": "日本对华食品出口暴跌41.2%",
-      "onboard_time": 1695257678,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335282,
@@ -26601,6 +26617,14 @@
       "onboard_time": 1693547016,
       "rank": 28,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 302346,
+      "num": 302346,
+      "word": "电影野孩子官宣",
+      "onboard_time": 1695259477,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 302338,
@@ -30947,6 +30971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254845,
+      "num": 254845,
+      "word": "封神第一部破26亿妲己唱甜蜜蜜了",
+      "onboard_time": 1695258573,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254818,
       "num": 254818,
       "word": "Angelababy复古工装风",
@@ -30977,6 +31009,14 @@
       "onboard_time": 1694004997,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254429,
+      "num": 621250,
+      "word": "杭州亚运将上演奥运级别巅峰对决",
+      "onboard_time": 1695256477,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 254389,
@@ -31265,14 +31305,6 @@
       "onboard_time": 1694437430,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251493,
-      "num": 210946,
-      "word": "辣椒没传入中国前川渝吃什么",
-      "onboard_time": 1695258276,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 251460,
@@ -31947,14 +31979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244706,
-      "num": 244706,
-      "word": "许幻山 又是你",
-      "onboard_time": 1695258396,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244522,
       "num": 244522,
       "word": "莲花楼全剧最喜欢的片段",
@@ -32385,6 +32409,14 @@
       "onboard_time": 1693908455,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 240441,
+      "num": 240441,
+      "word": "羊了个羊",
+      "onboard_time": 1695253836,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 240394,
@@ -33227,6 +33259,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 233585,
+      "num": 233585,
+      "word": "李赫宰Smoke Challenge",
+      "onboard_time": 1695259178,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233524,
       "num": 233524,
       "word": "山东开海在即14000艘渔船蓄势待发",
@@ -33345,14 +33385,6 @@
       "onboard_time": 1694627599,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 232759,
-      "num": 621250,
-      "word": "杭州亚运将上演奥运级别巅峰对决",
-      "onboard_time": 1695256477,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 232749,
@@ -36011,6 +36043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211745,
+      "num": 211745,
+      "word": "2024爱奇艺青春片单",
+      "onboard_time": 1695259655,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211731,
       "num": 211731,
       "word": "日本男篮赛后全场合唱灌篮高手主题曲",
@@ -37849,14 +37889,6 @@
       "onboard_time": 1693976799,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202200,
-      "num": 202200,
-      "word": "羊了个羊",
-      "onboard_time": 1695253836,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 202125,
@@ -41771,6 +41803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183456,
+      "num": 183456,
+      "word": "张婧仪丸子头梦回朱韵",
+      "onboard_time": 1695258517,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183418,
       "num": 183418,
       "word": "液体猫和固体猫",
@@ -45019,6 +45059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159744,
+      "num": 159744,
+      "word": "新疆没有海为什么能养海鲜",
+      "onboard_time": 1695259477,
+      "rank": 39,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 159666,
       "num": 159666,
       "word": "曾舜晞说只要有我在没人敢动你",
@@ -45545,6 +45593,14 @@
       "onboard_time": 1695037653,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155584,
+      "num": 155584,
+      "word": "野孩子",
+      "onboard_time": 1695259834,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 155394,
@@ -47371,14 +47427,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 139257,
-      "num": 139257,
-      "word": "封神第一部破26亿妲己唱甜蜜蜜了",
-      "onboard_time": 1695258573,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 139181,
       "num": 139181,
       "word": "华莎MV",
@@ -47449,6 +47497,14 @@
       "onboard_time": 1695165087,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138043,
+      "num": 138043,
+      "word": "中原中也恢复了",
+      "onboard_time": 1695259178,
+      "rank": 46,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 137875,
@@ -47777,6 +47833,14 @@
       "onboard_time": 1695136662,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134034,
+      "num": 134034,
+      "word": "谢谢你 我打字有点慢",
+      "onboard_time": 1695259655,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 133934,
@@ -48529,6 +48593,14 @@
       "onboard_time": 1695165509,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124525,
+      "num": 553968,
+      "word": "高铁站旅客起身鼓掌为新兵送行",
+      "onboard_time": 1695258937,
+      "rank": 14,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 124521,
