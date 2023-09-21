@@ -1,10 +1,10 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695273331860,
+  "endTime": 1695274433976,
   "band_list": [
     {
-      "raw_hot": 3058440,
-      "num": 3058440,
+      "raw_hot": 3345480,
+      "num": 3345480,
       "word": "特朗普儿子发文父亲去世后称账号被黑",
       "onboard_time": 1695271237,
       "rank": 0,
@@ -203,20 +203,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 855384,
+      "num": 855384,
+      "word": "拿诺奖在东莞买房补贴1000万",
+      "onboard_time": 1695271375,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 855305,
       "num": 608591,
       "word": "王权霸业改名王权弘业",
       "onboard_time": 1695269797,
       "rank": 21,
       "category": "剧集,动漫"
-    },
-    {
-      "raw_hot": 840878,
-      "num": 840878,
-      "word": "拿诺奖在东莞买房补贴1000万",
-      "onboard_time": 1695271375,
-      "rank": 6,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 834327,
@@ -323,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 570594,
+      "num": 570594,
+      "word": "成毅优酷扫楼",
+      "onboard_time": 1695272319,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565475,
       "num": 565475,
       "word": "杨紫初秋纯欲妆",
@@ -371,6 +379,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 510642,
+      "num": 454168,
+      "word": "被钱砸中的刘亚仁",
+      "onboard_time": 1695274116,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506996,
       "num": 766276,
       "word": "33岁女子上老年大学兴趣班",
@@ -401,6 +417,14 @@
       "onboard_time": 1695256599,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 435078,
+      "num": 435078,
+      "word": "34岁还没结婚是因为喜欢帅哥",
+      "onboard_time": 1695273098,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 428148,
@@ -443,6 +467,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 411619,
+      "num": 411619,
+      "word": "GIDLE官宣上海签售会",
+      "onboard_time": 1695273334,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 408640,
       "num": 408640,
       "word": "猎罪图鉴2",
@@ -451,8 +483,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 396002,
-      "num": 396002,
+      "raw_hot": 398838,
+      "num": 398838,
       "word": "TFBOYS为王俊凯新电影打call",
       "onboard_time": 1695269559,
       "rank": 33,
@@ -465,14 +497,6 @@
       "onboard_time": 1695264695,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 392126,
-      "num": 392126,
-      "word": "成毅优酷扫楼",
-      "onboard_time": 1695272319,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 391910,
@@ -545,6 +569,14 @@
       "onboard_time": 1695209735,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357490,
+      "num": 357490,
+      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+      "onboard_time": 1695273397,
+      "rank": 22,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 344833,
@@ -707,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266442,
+      "num": 266442,
+      "word": "沪指4000点才是崛起的基本点",
+      "onboard_time": 1695273160,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 266094,
       "num": 266094,
       "word": "高校回应学院党委书记被曝不雅聊天",
@@ -769,6 +809,14 @@
       "onboard_time": 1695261454,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243578,
+      "num": 243578,
+      "word": "妈妈解释女儿和纸片人交往",
+      "onboard_time": 1695272918,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 240441,
@@ -907,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 210426,
+      "num": 210426,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1695273995,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208679,
       "num": 208679,
       "word": "千万不要闻脱下来的袜子",
@@ -1003,14 +1059,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 192856,
-      "num": 192856,
-      "word": "34岁还没结婚是因为喜欢帅哥",
-      "onboard_time": 1695273098,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191316,
       "num": 191316,
       "word": "念无双唐嫣刘学义片花",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1695250944,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190502,
+      "num": 190502,
+      "word": "我的阿勒泰",
+      "onboard_time": 1695274116,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 190199,
@@ -1083,20 +1139,20 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 172556,
-      "num": 172556,
-      "word": "妈妈解释女儿和纸片人交往",
-      "onboard_time": 1695272918,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171986,
       "num": 171986,
       "word": "于适 蓝翔系爱豆",
       "onboard_time": 1695218738,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171120,
+      "num": 171120,
+      "word": "一觉醒来大熊猫主动送上门",
+      "onboard_time": 1695273816,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 167138,
@@ -1131,12 +1187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159694,
-      "num": 159694,
-      "word": "沪指4000点才是崛起的基本点",
-      "onboard_time": 1695273160,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 158943,
+      "num": 158943,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158602,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1695255878,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "已故港星成奎安长子涉毒被捕",
+      "onboard_time": 1695274299,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 156179,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1695258937,
       "rank": 14,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 142102,
+      "num": 142102,
+      "word": "手握7本驾照的动车司机感谢高铁设计师",
+      "onboard_time": 1695270877,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141392,

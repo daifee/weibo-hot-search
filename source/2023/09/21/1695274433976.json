@@ -1,0 +1,410 @@
+{
+  "runTime": 1695274433976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3345480,
+        "num": 3345480,
+        "word": "特朗普儿子发文父亲去世后称账号被黑",
+        "onboard_time": 1695271237,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1277316,
+        "num": 1277316,
+        "word": "猎罪图鉴2官宣檀健次金世佳",
+        "onboard_time": 1695264994,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80872,
+        "num": 1272959,
+        "word": "杭州亚运将上演奥运级别巅峰对决",
+        "onboard_time": 1695256477,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1272422,
+        "num": 1272422,
+        "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+        "onboard_time": 1695267632,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 992321,
+        "num": 992321,
+        "word": "换回国货后发现工资够用了",
+        "onboard_time": 1695268354,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 855384,
+        "num": 855384,
+        "word": "拿诺奖在东莞买房补贴1000万",
+        "onboard_time": 1695271375,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 682096,
+        "num": 682096,
+        "word": "电视剧长风破浪官宣",
+        "onboard_time": 1695265114,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570594,
+        "num": 570594,
+        "word": "成毅优酷扫楼",
+        "onboard_time": 1695272319,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566400,
+        "num": 566400,
+        "word": "狐妖小红娘竹业篇首发阵容",
+        "onboard_time": 1695262892,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502250,
+        "num": 502250,
+        "word": "许幻山 又是你",
+        "onboard_time": 1695258396,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1208047,
+        "num": 495485,
+        "word": "没有李佳琦花西子会走向何处",
+        "onboard_time": 1695262354,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 809264,
+        "num": 489592,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 691786,
+        "num": 483510,
+        "word": "王权霸业改名王权弘业",
+        "onboard_time": 1695269797,
+        "rank": 12,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 545567,
+        "num": 471026,
+        "word": "杨紫初秋纯欲妆",
+        "onboard_time": 1695271060,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 230897,
+        "num": 469005,
+        "word": "33岁女子上老年大学兴趣班",
+        "onboard_time": 1695266254,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 510642,
+        "num": 454168,
+        "word": "被钱砸中的刘亚仁",
+        "onboard_time": 1695274116,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452508,
+        "num": 452508,
+        "word": "赵又廷希望女儿长得像高圆圆",
+        "onboard_time": 1695256360,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435078,
+        "num": 435078,
+        "word": "34岁还没结婚是因为喜欢帅哥",
+        "onboard_time": 1695273098,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413435,
+        "num": 413435,
+        "word": "NIO Phone",
+        "onboard_time": 1695268232,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 411619,
+        "num": 411619,
+        "word": "GIDLE官宣上海签售会",
+        "onboard_time": 1695273334,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398838,
+        "num": 398838,
+        "word": "TFBOYS为王俊凯新电影打call",
+        "onboard_time": 1695269559,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369764,
+        "num": 369764,
+        "word": "Mate60不会放过每一个逃单的人",
+        "onboard_time": 1695267514,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 357490,
+        "num": 357490,
+        "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+        "onboard_time": 1695273397,
+        "rank": 22,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 334802,
+        "num": 334802,
+        "word": "中国科学家在马里亚纳海沟发现新病毒",
+        "onboard_time": 1695270339,
+        "rank": 23,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 307650,
+        "num": 307650,
+        "word": "猎罪图鉴2没加女主",
+        "onboard_time": 1695266616,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297518,
+        "num": 297518,
+        "word": "黄子诚姚瑶结婚了",
+        "onboard_time": 1695261214,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277363,
+        "num": 277363,
+        "word": "五条悟台词 人设崩塌",
+        "onboard_time": 1695264454,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 271175,
+        "num": 271175,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1695263073,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266442,
+        "num": 266442,
+        "word": "沪指4000点才是崛起的基本点",
+        "onboard_time": 1695273160,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263692,
+        "num": 263692,
+        "word": "养代谢减肥法",
+        "onboard_time": 1695271000,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245566,
+        "num": 245566,
+        "word": "世界八大污染事件 日本独占一半",
+        "onboard_time": 1695271899,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 245061,
+        "num": 245061,
+        "word": "外企的管理 最顶级的PUA",
+        "onboard_time": 1695270277,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244795,
+        "num": 244795,
+        "word": "迪丽热巴秦岚花少5合照",
+        "onboard_time": 1695263795,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243578,
+        "num": 243578,
+        "word": "妈妈解释女儿和纸片人交往",
+        "onboard_time": 1695272918,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215565,
+        "num": 215565,
+        "word": "西安交大取消四六级学位证挂钩",
+        "onboard_time": 1695250823,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210426,
+        "num": 210426,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1695273995,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198424,
+        "num": 198424,
+        "word": "花西子年薪63万招公关",
+        "onboard_time": 1695257197,
+        "rank": 36,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 197006,
+        "num": 197006,
+        "word": "此沙逗一下就脸红",
+        "onboard_time": 1695271599,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190502,
+        "num": 190502,
+        "word": "我的阿勒泰",
+        "onboard_time": 1695274116,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172743,
+        "num": 172743,
+        "word": "田耕纪预告 谈钱说爱",
+        "onboard_time": 1695272858,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171120,
+        "num": 171120,
+        "word": "一觉醒来大熊猫主动送上门",
+        "onboard_time": 1695273816,
+        "rank": 40,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 158943,
+        "num": 158943,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158086,
+        "num": 158086,
+        "word": "高度近视的人不要剧烈运动",
+        "onboard_time": 1695253957,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 156983,
+        "num": 156983,
+        "word": "张大仙减重28斤",
+        "onboard_time": 1695262833,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156747,
+        "num": 156747,
+        "word": "已故港星成奎安长子涉毒被捕",
+        "onboard_time": 1695274299,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155718,
+        "num": 155718,
+        "word": "一念关山",
+        "onboard_time": 1695267036,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142102,
+        "num": 142102,
+        "word": "手握7本驾照的动车司机感谢高铁设计师",
+        "onboard_time": 1695270877,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138397,
+        "num": 138397,
+        "word": "特工任务女间谍为逃避泄密自杀",
+        "onboard_time": 1695272741,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135188,
+        "num": 135188,
+        "word": "男子拍死隐翅虫多处溃烂5天未愈",
+        "onboard_time": 1695264514,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131568,
+        "num": 131568,
+        "word": "山东的桃子都是oversize的",
+        "onboard_time": 1695269436,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记对他们的深切关爱#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695273331860,
+  "endTime": 1695274433976,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3345480,
+      "num": 3345480,
+      "word": "特朗普儿子发文父亲去世后称账号被黑",
+      "onboard_time": 1695271237,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 3320108,
       "num": 1828636,
       "word": "亲爱的雪 我已嫁入豪门",
@@ -577,14 +585,6 @@
       "onboard_time": 1694692596,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3058440,
-      "num": 3058440,
-      "word": "特朗普儿子发文父亲去世后称账号被黑",
-      "onboard_time": 1695271237,
-      "rank": 0,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 3020207,
@@ -7779,6 +7779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 855384,
+      "num": 855384,
+      "word": "拿诺奖在东莞买房补贴1000万",
+      "onboard_time": 1695271375,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 855305,
       "num": 608591,
       "word": "王权霸业改名王权弘业",
@@ -7969,14 +7977,6 @@
       "onboard_time": 1694867915,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 840878,
-      "num": 840878,
-      "word": "拿诺奖在东莞买房补贴1000万",
-      "onboard_time": 1695271375,
-      "rank": 6,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 840837,
@@ -13635,6 +13635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570594,
+      "num": 570594,
+      "word": "成毅优酷扫楼",
+      "onboard_time": 1695272319,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570469,
       "num": 570469,
       "word": "侯卓成杨汝晴亲了四次",
@@ -15872,6 +15880,14 @@
       "word": "JYP大楼天花板破了漏水中",
       "onboard_time": 1693528596,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 510642,
+      "num": 454168,
+      "word": "被钱砸中的刘亚仁",
+      "onboard_time": 1695274116,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -18995,6 +19011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 435078,
+      "num": 435078,
+      "word": "34岁还没结婚是因为喜欢帅哥",
+      "onboard_time": 1695273098,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434849,
       "num": 283969,
       "word": "女子身藏15条蛇4条蜈蚣1条蜥蜴入境",
@@ -20307,6 +20331,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 411619,
+      "num": 411619,
+      "word": "GIDLE官宣上海签售会",
+      "onboard_time": 1695273334,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411445,
       "num": 411445,
       "word": "空腹有氧",
@@ -20867,6 +20899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398838,
+      "num": 398838,
+      "word": "TFBOYS为王俊凯新电影打call",
+      "onboard_time": 1695269559,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 398573,
       "num": 398573,
       "word": "女子称上班3天半被辞讨要工资反被怼",
@@ -20993,14 +21033,6 @@
       "onboard_time": 1694499998,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396002,
-      "num": 396002,
-      "word": "TFBOYS为王俊凯新电影打call",
-      "onboard_time": 1695269559,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 395647,
@@ -21161,14 +21193,6 @@
       "onboard_time": 1693955066,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 392126,
-      "num": 392126,
-      "word": "成毅优酷扫楼",
-      "onboard_time": 1695272319,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 391834,
@@ -23017,6 +23041,14 @@
       "onboard_time": 1694145699,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357490,
+      "num": 357490,
+      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+      "onboard_time": 1695273397,
+      "rank": 22,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 357268,
@@ -30179,6 +30211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266442,
+      "num": 266442,
+      "word": "沪指4000点才是崛起的基本点",
+      "onboard_time": 1695273160,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 266434,
       "num": 266434,
       "word": "原来这底下竟然还能住人啊",
@@ -32497,6 +32537,14 @@
       "onboard_time": 1694619399,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243578,
+      "num": 243578,
+      "word": "妈妈解释女儿和纸片人交往",
+      "onboard_time": 1695272918,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 243574,
@@ -36651,6 +36699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210426,
+      "num": 210426,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1695273995,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210421,
       "num": 210421,
       "word": "学校为脑瘫女孩豆豆改造厕所",
@@ -40347,14 +40403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192856,
-      "num": 192856,
-      "word": "34岁还没结婚是因为喜欢帅哥",
-      "onboard_time": 1695273098,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192829,
       "num": 192829,
       "word": "骄阳伴我母子日常不够看",
@@ -40889,6 +40937,14 @@
       "onboard_time": 1694618920,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190502,
+      "num": 190502,
+      "word": "我的阿勒泰",
+      "onboard_time": 1695274116,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 190473,
@@ -43891,14 +43947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172556,
-      "num": 172556,
-      "word": "妈妈解释女儿和纸片人交往",
-      "onboard_time": 1695272918,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172471,
       "num": 172471,
       "word": "张凌赫看完结局e哞了",
@@ -44089,6 +44137,14 @@
       "onboard_time": 1694322455,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171120,
+      "num": 171120,
+      "word": "一觉醒来大熊猫主动送上门",
+      "onboard_time": 1695273816,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 170984,
@@ -45603,14 +45659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159694,
-      "num": 159694,
-      "word": "沪指4000点才是崛起的基本点",
-      "onboard_time": 1695273160,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 159666,
       "num": 159666,
       "word": "曾舜晞说只要有我在没人敢动你",
@@ -45721,6 +45769,14 @@
       "onboard_time": 1694085576,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158943,
+      "num": 158943,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158931,
@@ -45977,6 +46033,14 @@
       "onboard_time": 1693631195,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "已故港星成奎安长子涉毒被捕",
+      "onboard_time": 1695274299,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 156732,
@@ -47753,6 +47817,14 @@
       "onboard_time": 1693842994,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142102,
+      "num": 142102,
+      "word": "手握7本驾照的动车司机感谢高铁设计师",
+      "onboard_time": 1695270877,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142093,
