@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695288851932,
+  "endTime": 1695291519604,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -32,6 +32,14 @@
       "word": "猎罪图鉴2官宣檀健次金世佳",
       "onboard_time": 1695264994,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2082597,
+      "num": 2082597,
+      "word": "陈都灵到底救了多少场",
+      "onboard_time": 1695288633,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1861274,
-      "num": 534719,
+      "num": 540174,
       "word": "太子奶",
       "onboard_time": 1695275015,
       "rank": 20,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 610492,
-      "num": 610492,
+      "num": 1258811,
       "word": "躲雨的大熊猫已被送往救助站",
       "onboard_time": 1695278256,
       "rank": 7,
@@ -497,6 +505,14 @@
       "onboard_time": 1695262833,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 575036,
+      "num": 575036,
+      "word": "结过婚后真的再没羡慕过婚礼上的新娘",
+      "onboard_time": 1695289715,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 570594,
@@ -561,6 +577,14 @@
       "onboard_time": 1695203796,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 527833,
+      "num": 527833,
+      "word": "谁家女主把男主弄哭了啊",
+      "onboard_time": 1695288455,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 515424,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380262,
+      "num": 328056,
+      "word": "父母低估了大学生活花销",
+      "onboard_time": 1695288337,
+      "rank": 22,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 378760,
       "num": 297447,
       "word": "这居然是何运晨的食量",
@@ -793,14 +825,6 @@
       "onboard_time": 1695268115,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 371329,
-      "num": 328056,
-      "word": "父母低估了大学生活花销",
-      "onboard_time": 1695288337,
-      "rank": 22,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 367735,
@@ -881,6 +905,22 @@
       "onboard_time": 1695279755,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 333122,
+      "num": 275062,
+      "word": "第一次去男朋友家只吃了水饺",
+      "onboard_time": 1695288513,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 331881,
+      "num": 274259,
+      "word": "十个勤天真的不打算回内娱了",
+      "onboard_time": 1695289955,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 331383,
@@ -1099,14 +1139,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 262582,
-      "num": 262582,
-      "word": "第一次去男朋友家只吃了水饺",
-      "onboard_time": 1695288513,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 261694,
       "num": 261694,
       "word": "此沙逗一下就脸红",
@@ -1163,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247956,
+      "num": 247956,
+      "word": "被古人的买猫契可爱到了",
+      "onboard_time": 1695289354,
+      "rank": 27,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 245313,
       "num": 245313,
       "word": "王俊凯新片野孩子双视角海报",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1695253836,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239479,
-      "num": 344108,
-      "word": "陈都灵到底救了多少场",
-      "onboard_time": 1695288633,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 239398,
@@ -1371,20 +1403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213175,
+      "num": 213175,
+      "word": "林俊杰南京抢票",
+      "onboard_time": 1695291220,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212555,
       "num": 212555,
       "word": "A股",
       "onboard_time": 1695267036,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 212153,
-      "num": 212153,
-      "word": "谁家女主把男主弄哭了啊",
-      "onboard_time": 1695288455,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 210756,
@@ -1475,6 +1507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 203773,
+      "num": 203773,
+      "word": "一觉醒来邻居的房子不见了",
+      "onboard_time": 1695291395,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201494,
       "num": 201494,
       "word": "周杰伦太原演唱会",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1695277594,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197437,
+      "num": 197437,
+      "word": "FIFA国家队最新排名",
+      "onboard_time": 1695288633,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 196585,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1695284795,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192738,
+      "num": 192738,
+      "word": "公司今年中秋节发的",
+      "onboard_time": 1695288337,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 191316,
@@ -1619,12 +1675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181863,
+      "num": 497780,
+      "word": "叙利亚总统到访迎宾仪式",
+      "onboard_time": 1695290434,
+      "rank": 13,
+      "category": "国内要闻,体育"
+    },
+    {
       "raw_hot": 181372,
       "num": 181372,
       "word": "关晓彤鎏金月神妆",
       "onboard_time": 1695276394,
       "rank": 36,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 180092,
+      "num": 180092,
+      "word": "当最爱点外卖的那群人当了父母",
+      "onboard_time": 1695289354,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 179504,
@@ -1747,14 +1819,6 @@
       "category": "情感,动物萌宠"
     },
     {
-      "raw_hot": 163557,
-      "num": 163557,
-      "word": "公司今年中秋节发的",
-      "onboard_time": 1695288337,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163485,
       "num": 163485,
       "word": "17岁小伙凭借瓷砖贴面成全国冠军",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1695255878,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157175,
+      "num": 157175,
+      "word": "张云龙宜古宜今",
+      "onboard_time": 1695290314,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 156179,
@@ -1835,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148181,
+      "num": 596182,
+      "word": "三胞胎兄弟大学毕业一起参军",
+      "onboard_time": 1695289896,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147192,
       "num": 147192,
       "word": "赵丽颖是周放的宣传委员",
@@ -1891,14 +1971,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 142283,
-      "num": 142283,
-      "word": "FIFA国家队最新排名",
-      "onboard_time": 1695288633,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142102,
       "num": 142102,
       "word": "手握7本驾照的动车司机感谢高铁设计师",
@@ -1937,6 +2009,14 @@
       "onboard_time": 1695205958,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130056,
+      "num": 130056,
+      "word": "现在综艺都这么卷了吗",
+      "onboard_time": 1695291220,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130004,
