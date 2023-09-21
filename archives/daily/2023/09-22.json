@@ -1,0 +1,411 @@
+{
+  "startTime": 1695313272487,
+  "endTime": 1695313272487,
+  "band_list": [
+    {
+      "raw_hot": 2395792,
+      "num": 570241,
+      "word": "她被困在考研考编里的五年",
+      "onboard_time": 1695308980,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1214679,
+      "num": 1214679,
+      "word": "顾客吐槽茶颜悦色点餐方式像智商税",
+      "onboard_time": 1695308738,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1036692,
+      "num": 204714,
+      "word": "青年女教师举报遭山东师范博导侵害",
+      "onboard_time": 1695308980,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 817118,
+      "num": 541782,
+      "word": "网红老婆爱吃巧乐兹发文道歉",
+      "onboard_time": 1695297756,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666592,
+      "num": 666592,
+      "word": "为什么说女生要分开腿坐",
+      "onboard_time": 1695293675,
+      "rank": 1,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 547172,
+      "num": 547172,
+      "word": "港星张智霖到警署协助调查",
+      "onboard_time": 1695300096,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 522579,
+      "num": 522579,
+      "word": "傅首尔 这段婚姻不是我憧憬的样子",
+      "onboard_time": 1695302680,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 497932,
+      "num": 204734,
+      "word": "不要相信生理期前的大脑",
+      "onboard_time": 1695307660,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 445220,
+      "num": 445220,
+      "word": "五哈4阵容官宣",
+      "onboard_time": 1695306819,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386923,
+      "num": 298243,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353164,
+      "num": 204731,
+      "word": "学校发的军训服过于透气了",
+      "onboard_time": 1695298535,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 348286,
+      "num": 348286,
+      "word": "黄景瑜张婧仪体型差",
+      "onboard_time": 1695310296,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 298894,
+      "num": 298894,
+      "word": "他从火光中走来 孙梦",
+      "onboard_time": 1695308259,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 290726,
+      "num": 290726,
+      "word": "法考成绩",
+      "onboard_time": 1695304419,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 272110,
+      "num": 204728,
+      "word": "德国性教育内容表",
+      "onboard_time": 1695292055,
+      "rank": 22,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 245866,
+      "num": 245866,
+      "word": "刘诗诗复古蕾丝穿搭",
+      "onboard_time": 1695307781,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 236179,
+      "num": 236179,
+      "word": "陈都灵到底救了多少场",
+      "onboard_time": 1695288633,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228741,
+      "num": 204721,
+      "word": "柳智敏去看BLACKPINK演唱会的原因",
+      "onboard_time": 1695312751,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 224319,
+      "num": 224319,
+      "word": "卢昱晓新人美时期",
+      "onboard_time": 1695307299,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220862,
+      "num": 220862,
+      "word": "南初真是可爱宝宝",
+      "onboard_time": 1695309577,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204737,
+      "num": 204737,
+      "word": "谁来机场救救丞磊",
+      "onboard_time": 1695312391,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193241,
+      "num": 204717,
+      "word": "发现我嗑的cp也在嗑自己cp",
+      "onboard_time": 1695306220,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192947,
+      "num": 204710,
+      "word": "赵露思和她的双开门保镖合照",
+      "onboard_time": 1695293256,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 181196,
+      "num": 204696,
+      "word": "陆毅谢谢大家帮我找回回忆",
+      "onboard_time": 1695313112,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178270,
+      "num": 204708,
+      "word": "成毅谈和张予曦三搭感受",
+      "onboard_time": 1695300698,
+      "rank": 27,
+      "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 159597,
+      "num": 204703,
+      "word": "结过婚后真的再没羡慕过婚礼上的新娘",
+      "onboard_time": 1695289715,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156268,
+      "num": 204700,
+      "word": "只有朴彩英续约YG",
+      "onboard_time": 1695279219,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149888,
+      "num": 204688,
+      "word": "真的建议年轻人要有前瞻性",
+      "onboard_time": 1695298113,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147754,
+      "num": 252340,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146253,
+      "num": 204686,
+      "word": "父母吃席用纸巾盒给27岁女儿打包虾",
+      "onboard_time": 1695298715,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142322,
+      "num": 204680,
+      "word": "徐璐素颜化妆全记录",
+      "onboard_time": 1695303457,
+      "rank": 33,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 126987,
+      "num": 204680,
+      "word": "梁朝伟治好了我的社交焦虑",
+      "onboard_time": 1695306100,
+      "rank": 34,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 126061,
+      "num": 204671,
+      "word": "第一次见到这么像陆毅的人",
+      "onboard_time": 1695299675,
+      "rank": 35,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 123174,
+      "num": 204671,
+      "word": "孟钰活成了安欣的样子",
+      "onboard_time": 1695291874,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123159,
+      "num": 204663,
+      "word": "一九十全",
+      "onboard_time": 1695307963,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122857,
+      "num": 204652,
+      "word": "封神名场面之姬发要碎了",
+      "onboard_time": 1695304961,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 204659,
+      "word": "弟弟发了工资先给我了",
+      "onboard_time": 1695301777,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 113363,
+      "num": 204657,
+      "word": "一觉醒来邻居的房子不见了",
+      "onboard_time": 1695291395,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103282,
+      "num": 204647,
+      "word": "国足亚运队4比0缅甸",
+      "onboard_time": 1695302919,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102407,
+      "num": 204644,
+      "word": "林俊杰南京抢票",
+      "onboard_time": 1695291220,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 94818,
+      "num": 204641,
+      "word": "王鹤棣美拉德穿搭",
+      "onboard_time": 1695301059,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 92653,
+      "num": 204637,
+      "word": "一下就把我的消费瘾给戒了",
+      "onboard_time": 1695306036,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90247,
+      "num": 204634,
+      "word": "周杰伦太原演唱会",
+      "onboard_time": 1695284016,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 89367,
+      "num": 248506,
+      "word": "救4人00后战士一等功喜报送到家",
+      "onboard_time": 1695300396,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 78770,
+      "num": 204626,
+      "word": "西安村民讲述熊猫进棚躲雨全过程",
+      "onboard_time": 1695309761,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74778,
+      "num": 204626,
+      "word": "爱吃排骨和雪梨的都沉默了",
+      "onboard_time": 1695303219,
+      "rank": 47,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 73720,
+      "num": 204622,
+      "word": "养父母帮白血病女儿找到亲生父母",
+      "onboard_time": 1695311013,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71803,
+      "num": 204618,
+      "word": "大江大河3首发预告",
+      "onboard_time": 1695312572,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38754,
+      "num": 246472,
+      "word": "叙利亚总统到访迎宾仪式",
+      "onboard_time": 1695290434,
+      "rank": 14,
+      "category": "国内要闻,体育"
+    },
+    {
+      "raw_hot": 35039,
+      "num": 586275,
+      "word": "绕杭州飞33小时拍到的美景有多震撼",
+      "onboard_time": 1695312032,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平将出席杭州亚运会开幕式#"
+    }
+  ]
+}
