@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695252832706,
+  "endTime": 1695258643622,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -697,6 +697,14 @@
       "onboard_time": 1695203916,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2833512,
+      "num": 2833512,
+      "word": "花西子创始人送1万份眉笔",
+      "onboard_time": 1695252812,
+      "rank": 30,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 2830589,
@@ -3299,6 +3307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1593082,
+      "num": 1593082,
+      "word": "西安交大取消四六级学位证挂钩",
+      "onboard_time": 1695250823,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1591326,
       "num": 1591326,
       "word": "北极兔cp",
@@ -4923,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1195920,
+      "num": 1195920,
+      "word": "霸王茶姬 李相夷",
+      "onboard_time": 1695250882,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1194730,
       "num": 1194730,
       "word": "云为衫宫子羽生死告白",
@@ -4955,14 +4979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1186537,
-      "num": 1186537,
-      "word": "西安交大取消四六级学位证挂钩",
-      "onboard_time": 1695250823,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1186146,
       "num": 1186146,
       "word": "徐娇回归周星驰公司",
@@ -4992,6 +5008,14 @@
       "word": "papi酱 两个人一起浪费时间很重要",
       "onboard_time": 1694498441,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1182190,
+      "num": 1182190,
+      "word": "赵又廷希望女儿长得像高圆圆",
+      "onboard_time": 1695256360,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -5107,6 +5131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1159460,
+      "num": 1159460,
+      "word": "花西子年薪60万招品牌传播专家",
+      "onboard_time": 1695255996,
+      "rank": 5,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 1156014,
       "num": 1156014,
       "word": "杨健哭了",
@@ -5177,6 +5209,14 @@
       "onboard_time": 1694774854,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1145357,
+      "num": 1145357,
+      "word": "警方介入女生称实习被安排为男宾洗澡",
+      "onboard_time": 1695255219,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1141656,
@@ -5761,6 +5801,14 @@
       "onboard_time": 1693731575,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1053642,
+      "num": 1053642,
+      "word": "高度近视的人不要剧烈运动",
+      "onboard_time": 1695253957,
+      "rank": 7,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1052229,
@@ -8067,14 +8115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 819979,
-      "num": 819979,
-      "word": "霸王茶姬 李相夷",
-      "onboard_time": 1695250882,
-      "rank": 10,
-      "category": "美食"
-    },
-    {
       "raw_hot": 819525,
       "num": 819525,
       "word": "金泰亨销量违反规定",
@@ -8867,6 +8907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771845,
+      "num": 771845,
+      "word": "女子吐槽工资5千元国庆随份子近3千",
+      "onboard_time": 1695253051,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771789,
       "num": 771789,
       "word": "印度扳平",
@@ -8953,6 +9001,14 @@
       "onboard_time": 1694779177,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 766079,
+      "num": 766079,
+      "word": "花西子年薪63万招公关",
+      "onboard_time": 1695257197,
+      "rank": 10,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 765578,
@@ -10995,6 +11051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 666204,
+      "num": 666204,
+      "word": "iPhone15可以互相充电",
+      "onboard_time": 1695256178,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 665571,
       "num": 665571,
       "word": "大的死鱼脸 小的死鱼眼",
@@ -12889,6 +12953,14 @@
       "onboard_time": 1694997100,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 592154,
+      "num": 592154,
+      "word": "李旻浩黄铉辰金昇玟出车祸",
+      "onboard_time": 1695253776,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 592118,
@@ -15465,6 +15537,14 @@
       "onboard_time": 1695207815,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515067,
+      "num": 515067,
+      "word": "普京会见王毅",
+      "onboard_time": 1695254137,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 514647,
@@ -18403,6 +18483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442306,
+      "num": 442306,
+      "word": "梅西36分钟被换下",
+      "onboard_time": 1695256599,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442243,
       "num": 442243,
       "word": "摩洛哥强震遇难人数升至296人",
@@ -19956,7 +20044,7 @@
     },
     {
       "raw_hot": 412598,
-      "num": 1353254,
+      "num": 1383497,
       "word": "世界都知道了杭州有多美",
       "onboard_time": 1695216997,
       "rank": 2,
@@ -23899,6 +23987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 335791,
+      "num": 335791,
+      "word": "日本对华食品出口暴跌41.2%",
+      "onboard_time": 1695257678,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335282,
       "num": 335282,
       "word": "张婧仪涂口红眼神",
@@ -24153,6 +24249,14 @@
       "onboard_time": 1694673820,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331383,
+      "num": 331383,
+      "word": "职校女生称实习被安排为男宾洗澡",
+      "onboard_time": 1695255219,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 331332,
@@ -25089,6 +25193,14 @@
       "onboard_time": 1694696977,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 320495,
+      "num": 320495,
+      "word": "赵露思明艳风",
+      "onboard_time": 1695256298,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 320412,
@@ -26945,6 +27057,14 @@
       "onboard_time": 1694761774,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298508,
+      "num": 298508,
+      "word": "远嫁妻子想开美甲店丈夫花20天打造",
+      "onboard_time": 1695255939,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298506,
@@ -29739,6 +29859,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 266094,
+      "num": 266094,
+      "word": "高校回应学院党委书记被曝不雅聊天",
+      "onboard_time": 1695253957,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 266092,
       "num": 266092,
       "word": "乒乓球门票",
@@ -31139,6 +31267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251493,
+      "num": 210946,
+      "word": "辣椒没传入中国前川渝吃什么",
+      "onboard_time": 1695258276,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 251460,
       "num": 251460,
       "word": "孟云未婚已有人夫感",
@@ -31809,6 +31945,14 @@
       "onboard_time": 1693791755,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244706,
+      "num": 244706,
+      "word": "许幻山 又是你",
+      "onboard_time": 1695258396,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 244522,
@@ -33201,6 +33345,14 @@
       "onboard_time": 1694627599,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 232759,
+      "num": 621250,
+      "word": "杭州亚运将上演奥运级别巅峰对决",
+      "onboard_time": 1695256477,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 232749,
@@ -37697,6 +37849,14 @@
       "onboard_time": 1693976799,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202200,
+      "num": 202200,
+      "word": "羊了个羊",
+      "onboard_time": 1695253836,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 202125,
@@ -42659,6 +42819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176123,
+      "num": 176123,
+      "word": "AirPodsPro2 样子不变新功能出现",
+      "onboard_time": 1695242414,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176018,
       "num": 176018,
       "word": "王心凌新歌实时热聊",
@@ -42979,20 +43147,20 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 173630,
+      "num": 173630,
+      "word": "这么漂亮的流浪猫不懂为什么会流浪",
+      "onboard_time": 1695249200,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 173555,
       "num": 173555,
       "word": "曼陀罗风铃",
       "onboard_time": 1693965333,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 173511,
-      "num": 145116,
-      "word": "花西子创始人送1万份眉笔",
-      "onboard_time": 1695252812,
-      "rank": 30,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 173507,
@@ -43657,14 +43825,6 @@
       "onboard_time": 1695117041,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168657,
-      "num": 168657,
-      "word": "这么漂亮的流浪猫不懂为什么会流浪",
-      "onboard_time": 1695249200,
-      "rank": 49,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 168601,
@@ -45003,6 +45163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158602,
+      "num": 158602,
+      "word": "刚出道时期的刘亦菲",
+      "onboard_time": 1695255878,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "跟观念不一样的朋友旅游太累了",
@@ -45441,14 +45609,6 @@
       "onboard_time": 1695003574,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 154622,
-      "num": 145021,
-      "word": "AirPodsPro2 样子不变新功能出现",
-      "onboard_time": 1695242414,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 154584,
@@ -46017,6 +46177,14 @@
       "onboard_time": 1694862936,
       "rank": 41,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 149391,
+      "num": 149391,
+      "word": "大学生打工半月仅赚100元崩溃打人",
+      "onboard_time": 1695230543,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149335,
@@ -47203,6 +47371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139257,
+      "num": 139257,
+      "word": "封神第一部破26亿妲己唱甜蜜蜜了",
+      "onboard_time": 1695258573,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139181,
       "num": 139181,
       "word": "华莎MV",
@@ -47867,14 +48043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131342,
-      "num": 131342,
-      "word": "大学生打工半月仅赚100元崩溃打人",
-      "onboard_time": 1695230543,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131320,
       "num": 231872,
       "word": "到底谁是被星选中的人类",
@@ -48297,6 +48465,14 @@
       "onboard_time": 1694912971,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 125678,
+      "num": 125678,
+      "word": "曼联3连败",
+      "onboard_time": 1695256958,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125606,
@@ -50617,6 +50793,14 @@
       "onboard_time": 1695127477,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74140,
+      "num": 598366,
+      "word": "受阅女兵相聚重走阅兵路",
+      "onboard_time": 1695255519,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74067,
