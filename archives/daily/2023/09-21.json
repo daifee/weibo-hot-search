@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695306869440,
+  "endTime": 1695309450997,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060456,
+      "num": 1060456,
+      "word": "五哈4阵容官宣",
+      "onboard_time": 1695306819,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1053642,
       "num": 1053642,
       "word": "高度近视的人不要剧烈运动",
@@ -387,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 819756,
-      "num": 819756,
-      "word": "五哈4阵容官宣",
-      "onboard_time": 1695306819,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 818881,
       "num": 499918,
       "word": "YG称BLACKPINK的续约还没有确定",
@@ -417,6 +417,14 @@
       "onboard_time": 1695299076,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 780637,
+      "num": 397789,
+      "word": "不要相信生理期前的大脑",
+      "onboard_time": 1695307660,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 771845,
@@ -579,6 +587,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 605860,
+      "num": 288355,
+      "word": "她被困在考研考编里的五年",
+      "onboard_time": 1695308980,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 603044,
       "num": 360921,
       "word": "奶茶杯真的很适合租房人",
@@ -603,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 601164,
+      "num": 601164,
+      "word": "为什么说女生要分开腿坐",
+      "onboard_time": 1695293675,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 596282,
       "num": 535915,
       "word": "刘亚仁白发",
@@ -617,14 +641,6 @@
       "onboard_time": 1695253776,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 585959,
-      "num": 387321,
-      "word": "为什么说女生要分开腿坐",
-      "onboard_time": 1695293675,
-      "rank": 30,
-      "category": "知识科普"
     },
     {
       "raw_hot": 581672,
@@ -835,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472180,
+      "num": 472180,
+      "word": "发现我嗑的cp也在嗑自己cp",
+      "onboard_time": 1695306220,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 465821,
       "num": 465821,
       "word": "二十一天全员错了没有",
@@ -857,6 +881,14 @@
       "onboard_time": 1695304961,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 444528,
+      "num": 444528,
+      "word": "卢昱晓新人美时期",
+      "onboard_time": 1695307299,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 443459,
@@ -979,8 +1011,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406940,
+      "num": 397568,
+      "word": "刘诗诗复古蕾丝穿搭",
+      "onboard_time": 1695307781,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 404923,
-      "num": 380117,
+      "num": 383967,
       "word": "学校发的军训服过于透气了",
       "onboard_time": 1695298535,
       "rank": 30,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1695280357,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375109,
+      "num": 375109,
+      "word": "他从火光中走来 孙梦",
+      "onboard_time": 1695308259,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 374463,
@@ -1243,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326015,
+      "num": 326015,
+      "word": "顾客吐槽茶颜悦色点餐方式像智商税",
+      "onboard_time": 1695308738,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 322851,
       "num": 255789,
       "word": "人在工位了面试官告诉我招错人了",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1695295415,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 291012,
+      "num": 291012,
+      "word": "一九十全",
+      "onboard_time": 1695307963,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 290894,
@@ -1851,6 +1915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 210893,
+      "num": 210893,
+      "word": "青年女教师举报遭山东师范博导侵害",
+      "onboard_time": 1695308980,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 210756,
       "num": 210756,
       "word": "唐伯虎在上海吃什么档次的面",
@@ -1960,14 +2032,6 @@
       "word": "刘诗诗极具破碎感的哭戏镜头",
       "onboard_time": 1695291697,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 203093,
-      "num": 203093,
-      "word": "发现我嗑的cp也在嗑自己cp",
-      "onboard_time": 1695306220,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -2531,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147341,
+      "num": 147341,
+      "word": "张远骑宝宝车",
+      "onboard_time": 1695308319,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147192,
       "num": 147192,
       "word": "赵丽颖是周放的宣传委员",
@@ -2545,6 +2617,14 @@
       "onboard_time": 1695297937,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146670,
+      "num": 146670,
+      "word": "封神曾在新疆江布拉克取景",
+      "onboard_time": 1695306939,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 145695,
@@ -2691,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121522,
+      "num": 408215,
+      "word": "欧文设计安踏新系列",
+      "onboard_time": 1695307600,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120298,
       "num": 128843,
       "word": "野生大熊猫跑进村民家呼呼大睡",
@@ -2760,6 +2848,14 @@
       "word": "白象中国面传承中国荣耀",
       "onboard_time": 1695302197,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102127,
+      "num": 102127,
+      "word": "谢谢你们翻6座山找回我爸爸",
+      "onboard_time": 1695309278,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
