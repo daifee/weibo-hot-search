@@ -1,0 +1,410 @@
+{
+  "runTime": 1695288851932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207691,
+        "num": 1207691,
+        "word": "封神网播",
+        "onboard_time": 1695284618,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1066313,
+        "num": 1066313,
+        "word": "潍坊科技学院辟谣军训女生跳舞视频",
+        "onboard_time": 1695283835,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14593,
+        "num": 1018041,
+        "word": "杭州亚运将上演奥运级别巅峰对决",
+        "onboard_time": 1695256477,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 975592,
+        "num": 975592,
+        "word": "只有朴彩英续约YG",
+        "onboard_time": 1695279219,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807372,
+        "num": 807372,
+        "word": "Jennie要出新专辑了",
+        "onboard_time": 1695287436,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 646204,
+        "num": 646204,
+        "word": "少爷和我",
+        "onboard_time": 1695278073,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558538,
+        "num": 558538,
+        "word": "韩国会通过同意逮捕李在明议案",
+        "onboard_time": 1695284557,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 497009,
+        "num": 497009,
+        "word": "逆水寒 崩",
+        "onboard_time": 1695285156,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 457653,
+        "num": 457653,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413223,
+        "num": 413223,
+        "word": "丞磊卢昱晓去澳门拍芭莎",
+        "onboard_time": 1695281974,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1774074,
+        "num": 410957,
+        "word": "太子奶",
+        "onboard_time": 1695275015,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725921,
+        "num": 407571,
+        "word": "Gemini领证",
+        "onboard_time": 1695281915,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401372,
+        "num": 401372,
+        "word": "躲雨的大熊猫已被送往救助站",
+        "onboard_time": 1695278256,
+        "rank": 12,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 376065,
+        "num": 376065,
+        "word": "赵丽颖鎏金深V",
+        "onboard_time": 1695280175,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206412,
+        "num": 365636,
+        "word": "拿诺奖在东莞买房补贴1000万",
+        "onboard_time": 1695271375,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 363257,
+        "num": 363257,
+        "word": "Uzi和童锦程骑行挑战",
+        "onboard_time": 1695286597,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 359823,
+        "num": 359823,
+        "word": "34岁还没结婚是因为喜欢帅哥",
+        "onboard_time": 1695273098,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348590,
+        "num": 348590,
+        "word": "被杨幂美到的一个镜头",
+        "onboard_time": 1695279936,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245213,
+        "num": 346713,
+        "word": "YG称BLACKPINK的续约还没有确定",
+        "onboard_time": 1695279876,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239479,
+        "num": 344108,
+        "word": "陈都灵到底救了多少场",
+        "onboard_time": 1695288633,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1405091,
+        "num": 339146,
+        "word": "大爷年轻时家暴遭6名子女拒养",
+        "onboard_time": 1695285156,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408391,
+        "num": 333941,
+        "word": "床单不能太久不换",
+        "onboard_time": 1695281796,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371329,
+        "num": 328056,
+        "word": "父母低估了大学生活花销",
+        "onboard_time": 1695288337,
+        "rank": 22,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 227608,
+        "num": 326754,
+        "word": "张小斐这段真的给我难受死了",
+        "onboard_time": 1695277475,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323855,
+        "num": 323855,
+        "word": "奶茶杯真的很适合租房人",
+        "onboard_time": 1695279755,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263665,
+        "num": 263665,
+        "word": "相亲同时带了苹果和华为",
+        "onboard_time": 1695283294,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262582,
+        "num": 262582,
+        "word": "第一次去男朋友家只吃了水饺",
+        "onboard_time": 1695288513,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255832,
+        "num": 255832,
+        "word": "为什么电视里的人离职都用纸箱子",
+        "onboard_time": 1695284315,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212153,
+        "num": 212153,
+        "word": "谁家女主把男主弄哭了啊",
+        "onboard_time": 1695288455,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210057,
+        "num": 210057,
+        "word": "蔚来手机售价6499元起",
+        "onboard_time": 1695279335,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202407,
+        "num": 202407,
+        "word": "乌尔善感谢封神6000万观众",
+        "onboard_time": 1695286115,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175893,
+        "num": 175893,
+        "word": "周杰伦太原演唱会",
+        "onboard_time": 1695284016,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175301,
+        "num": 175301,
+        "word": "不好好读书公司礼盒是这样的",
+        "onboard_time": 1695279155,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170111,
+        "num": 170111,
+        "word": "你要iPhone15还是华为mate60",
+        "onboard_time": 1695279634,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168356,
+        "num": 168356,
+        "word": "宁安如梦最新剧照",
+        "onboard_time": 1695287374,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167625,
+        "num": 167625,
+        "word": "内裤其实比袜子更脏",
+        "onboard_time": 1695280834,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166469,
+        "num": 166469,
+        "word": "人在工位了面试官告诉我招错人了",
+        "onboard_time": 1695279335,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163557,
+        "num": 163557,
+        "word": "公司今年中秋节发的",
+        "onboard_time": 1695288337,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160148,
+        "num": 160148,
+        "word": "一天工作12小时对身体有害吗",
+        "onboard_time": 1695285516,
+        "rank": 38,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 146117,
+        "num": 146117,
+        "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+        "onboard_time": 1695273397,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 151328,
+        "num": 145858,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 40,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 144724,
+        "num": 144724,
+        "word": "侵权王一博公司拟注销",
+        "onboard_time": 1695283655,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 142283,
+        "word": "FIFA国家队最新排名",
+        "onboard_time": 1695288633,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140326,
+        "num": 140326,
+        "word": "郎朗周杰伦太原演唱会嘉宾",
+        "onboard_time": 1695280956,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137926,
+        "num": 137926,
+        "word": "种地吧",
+        "onboard_time": 1695279395,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130769,
+        "num": 130769,
+        "word": "人要学着像猫咪一样生活",
+        "onboard_time": 1695286294,
+        "rank": 45,
+        "category": "情感,动物萌宠"
+      },
+      {
+        "raw_hot": 120352,
+        "num": 120352,
+        "word": "林孝埈1500米",
+        "onboard_time": 1695281434,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119195,
+        "num": 119195,
+        "word": "野生大熊猫跑进村民家呼呼大睡",
+        "onboard_time": 1695287496,
+        "rank": 47,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 583530,
+        "num": 118890,
+        "word": "特朗普儿子发文父亲去世后称账号被黑",
+        "onboard_time": 1695271237,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 113530,
+        "num": 113530,
+        "word": "王影璐 其实我是个外向的人",
+        "onboard_time": 1695283294,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记对他们的深切关爱#"
+    }
+  }
+}

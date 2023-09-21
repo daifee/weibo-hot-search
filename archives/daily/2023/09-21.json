@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695287856652,
+  "endTime": 1695288851932,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1934814,
-      "num": 234553,
+      "num": 339146,
       "word": "大爷年轻时家暴遭6名子女拒养",
       "onboard_time": 1695285156,
       "rank": 33,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1207691,
+      "num": 1207691,
+      "word": "封神网播",
+      "onboard_time": 1695284618,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1195920,
       "num": 1195920,
       "word": "霸王茶姬 李相夷",
@@ -203,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1126150,
-      "num": 1126150,
-      "word": "封神网播",
-      "onboard_time": 1695284618,
-      "rank": 3,
-      "category": "电影"
+      "raw_hot": 1066313,
+      "num": 1066313,
+      "word": "潍坊科技学院辟谣军训女生跳舞视频",
+      "onboard_time": 1695283835,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1053642,
@@ -299,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 773939,
-      "num": 480999,
-      "word": "潍坊科技学院辟谣军训女生跳舞视频",
-      "onboard_time": 1695283835,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 807372,
+      "num": 807372,
+      "word": "Jennie要出新专辑了",
+      "onboard_time": 1695287436,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 771845,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558538,
+      "num": 558538,
+      "word": "韩国会通过同意逮捕李在明议案",
+      "onboard_time": 1695284557,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 548199,
       "num": 548199,
       "word": "长时间用电脑后洗把脸",
@@ -577,14 +593,6 @@
       "onboard_time": 1695266254,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 497038,
-      "num": 497038,
-      "word": "韩国会通过同意逮捕李在明议案",
-      "onboard_time": 1695284557,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 496505,
@@ -785,6 +793,14 @@
       "onboard_time": 1695268115,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 371329,
+      "num": 328056,
+      "word": "父母低估了大学生活花销",
+      "onboard_time": 1695288337,
+      "rank": 22,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 367735,
@@ -1083,6 +1099,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 262582,
+      "num": 262582,
+      "word": "第一次去男朋友家只吃了水饺",
+      "onboard_time": 1695288513,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261694,
       "num": 261694,
       "word": "此沙逗一下就脸红",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1695253836,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239479,
+      "num": 344108,
+      "word": "陈都灵到底救了多少场",
+      "onboard_time": 1695288633,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 239398,
@@ -1347,6 +1379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 212153,
+      "num": 212153,
+      "word": "谁家女主把男主弄哭了啊",
+      "onboard_time": 1695288455,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210756,
       "num": 210756,
       "word": "唐伯虎在上海吃什么档次的面",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1695261754,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204617,
-      "num": 204617,
-      "word": "Jennie要出新专辑了",
-      "onboard_time": 1695287436,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 204528,
@@ -1651,6 +1683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168356,
+      "num": 168356,
+      "word": "宁安如梦最新剧照",
+      "onboard_time": 1695287374,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168220,
       "num": 168220,
       "word": "沧州东光县一工厂发生爆燃",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1695286294,
       "rank": 36,
       "category": "情感,动物萌宠"
+    },
+    {
+      "raw_hot": 163557,
+      "num": 163557,
+      "word": "公司今年中秋节发的",
+      "onboard_time": 1695288337,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 163485,
@@ -1787,14 +1835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148119,
-      "num": 148119,
-      "word": "宁安如梦最新剧照",
-      "onboard_time": 1695287374,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147192,
       "num": 147192,
       "word": "赵丽颖是周放的宣传委员",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1695258937,
       "rank": 14,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 142283,
+      "num": 142283,
+      "word": "FIFA国家队最新排名",
+      "onboard_time": 1695288633,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 142102,

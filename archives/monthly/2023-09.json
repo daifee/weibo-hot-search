@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695287856652,
+  "endTime": 1695288851932,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2228,7 +2228,7 @@
     },
     {
       "raw_hot": 1934814,
-      "num": 234553,
+      "num": 339146,
       "word": "大爷年轻时家暴遭6名子女拒养",
       "onboard_time": 1695285156,
       "rank": 33,
@@ -4987,6 +4987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1207691,
+      "num": 1207691,
+      "word": "封神网播",
+      "onboard_time": 1695284618,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1207045,
       "num": 1207045,
       "word": "交通局拒绝公开前局长孙女炫富调查结果",
@@ -5491,14 +5499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1126150,
-      "num": 1126150,
-      "word": "封神网播",
-      "onboard_time": 1695284618,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1126061,
       "num": 1126061,
       "word": "蜂花香皂 残障人士包装",
@@ -5841,6 +5841,14 @@
       "onboard_time": 1693835138,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1066313,
+      "num": 1066313,
+      "word": "潍坊科技学院辟谣军训女生跳舞视频",
+      "onboard_time": 1695283835,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1061774,
@@ -8531,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 807372,
+      "num": 807372,
+      "word": "Jennie要出新专辑了",
+      "onboard_time": 1695287436,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 807276,
       "num": 807276,
       "word": "为什么现在的油条全是面包口感",
@@ -9089,14 +9105,6 @@
       "onboard_time": 1694164115,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 773939,
-      "num": 480999,
-      "word": "潍坊科技学院辟谣军训女生跳舞视频",
-      "onboard_time": 1695283835,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 772765,
@@ -14243,6 +14251,14 @@
       "category": "美食,音乐"
     },
     {
+      "raw_hot": 558538,
+      "num": 558538,
+      "word": "韩国会通过同意逮捕李在明议案",
+      "onboard_time": 1695284557,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 558233,
       "num": 400596,
       "word": "为什么只有早上卖油条",
@@ -16609,14 +16625,6 @@
       "onboard_time": 1694225794,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497038,
-      "num": 497038,
-      "word": "韩国会通过同意逮捕李在明议案",
-      "onboard_time": 1695284557,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 496516,
@@ -22457,6 +22465,14 @@
       "onboard_time": 1695093095,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 371329,
+      "num": 328056,
+      "word": "父母低估了大学生活花销",
+      "onboard_time": 1695288337,
+      "rank": 22,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 371185,
@@ -30899,6 +30915,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 262582,
+      "num": 262582,
+      "word": "第一次去男朋友家只吃了水饺",
+      "onboard_time": 1695288513,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262567,
       "num": 262567,
       "word": "张杰未live巡回演唱会",
@@ -33329,6 +33353,14 @@
       "onboard_time": 1694934155,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239479,
+      "num": 344108,
+      "word": "陈都灵到底救了多少场",
+      "onboard_time": 1695288633,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 239464,
@@ -36851,6 +36883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212153,
+      "num": 212153,
+      "word": "谁家女主把男主弄哭了啊",
+      "onboard_time": 1695288455,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212130,
       "num": 212130,
       "word": "SVTstraykids将出演TMA",
@@ -38241,14 +38281,6 @@
       "onboard_time": 1693783168,
       "rank": 18,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 204617,
-      "num": 204617,
-      "word": "Jennie要出新专辑了",
-      "onboard_time": 1695287436,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 204586,
@@ -44987,6 +45019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168356,
+      "num": 168356,
+      "word": "宁安如梦最新剧照",
+      "onboard_time": 1695287374,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168332,
       "num": 168332,
       "word": "凡晨组合夺中国赛第3冠",
@@ -45665,6 +45705,14 @@
       "onboard_time": 1693711955,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163557,
+      "num": 163557,
+      "word": "公司今年中秋节发的",
+      "onboard_time": 1695288337,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 163551,
@@ -47515,14 +47563,6 @@
       "category": "网红,游戏"
     },
     {
-      "raw_hot": 148119,
-      "num": 148119,
-      "word": "宁安如梦最新剧照",
-      "onboard_time": 1695287374,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148105,
       "num": 148105,
       "word": "白宇好会演",
@@ -48297,6 +48337,14 @@
       "onboard_time": 1694093919,
       "rank": 49,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 142283,
+      "num": 142283,
+      "word": "FIFA国家队最新排名",
+      "onboard_time": 1695288633,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 142272,
