@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695274433976,
+  "endTime": 1695277340576,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -41,6 +41,14 @@
       "onboard_time": 1695221138,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1780451,
+      "num": 819470,
+      "word": "34岁还没结婚是因为喜欢帅哥",
+      "onboard_time": 1695273098,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 1759113,
@@ -105,6 +113,14 @@
       "onboard_time": 1695267632,
       "rank": 6,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1273767,
+      "num": 1273767,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1195920,
@@ -251,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 739561,
+      "num": 739561,
+      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+      "onboard_time": 1695273397,
+      "rank": 22,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 697702,
       "num": 697702,
       "word": "日本对华食品出口暴跌41.2%",
@@ -323,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 576976,
+      "num": 576976,
+      "word": "被钱砸中的刘亚仁",
+      "onboard_time": 1695274116,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570594,
       "num": 570594,
       "word": "成毅优酷扫楼",
@@ -363,6 +395,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 535351,
+      "num": 310657,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515424,
       "num": 283651,
       "word": "iPhone15拍人更好看",
@@ -377,14 +417,6 @@
       "onboard_time": 1695254137,
       "rank": 17,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 510642,
-      "num": 454168,
-      "word": "被钱砸中的刘亚仁",
-      "onboard_time": 1695274116,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 506996,
@@ -403,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480206,
+      "num": 308578,
+      "word": "逼女孩喝酒的未成年曾逼男孩吃粪便",
+      "onboard_time": 1695275676,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456484,
       "num": 324836,
       "word": "韩庚问魏大勋为啥叫宝宝",
@@ -417,14 +457,6 @@
       "onboard_time": 1695256599,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 435078,
-      "num": 435078,
-      "word": "34岁还没结婚是因为喜欢帅哥",
-      "onboard_time": 1695273098,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 428148,
@@ -449,6 +481,14 @@
       "onboard_time": 1695241154,
       "rank": 23,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 421309,
+      "num": 421309,
+      "word": "曾舜晞把莲花楼里的狐狸精带走了",
+      "onboard_time": 1695275435,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 419513,
@@ -571,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357490,
-      "num": 357490,
-      "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
-      "onboard_time": 1695273397,
-      "rank": 22,
-      "category": "社会新闻,体育"
+      "raw_hot": 357666,
+      "num": 357666,
+      "word": "导演一下就把魏大勋推开了",
+      "onboard_time": 1695275857,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 344833,
@@ -585,6 +625,14 @@
       "onboard_time": 1695263315,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343172,
+      "num": 343172,
+      "word": "TheShy和小杨哥联动",
+      "onboard_time": 1695276875,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 342243,
@@ -603,12 +651,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 331354,
+      "num": 331354,
+      "word": "女王蜂 抢票",
+      "onboard_time": 1695276336,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 329732,
       "num": 322516,
       "word": "网传某医院领导因家中被盗大量现金被查",
       "onboard_time": 1695262534,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325452,
+      "num": 391665,
+      "word": "一觉醒来大熊猫主动送上门",
+      "onboard_time": 1695273816,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 320495,
@@ -707,6 +771,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 278491,
+      "num": 278491,
+      "word": "白色橄榄树",
+      "onboard_time": 1695275196,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278221,
       "num": 278221,
       "word": "美联储",
@@ -785,6 +857,14 @@
       "onboard_time": 1695259655,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256556,
+      "num": 256556,
+      "word": "杨紫的扛剧能力是被认可的",
+      "onboard_time": 1695277114,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 254845,
@@ -881,6 +961,14 @@
       "onboard_time": 1695265176,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228403,
+      "num": 228403,
+      "word": "我的阿勒泰",
+      "onboard_time": 1695274116,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 226298,
@@ -1075,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190502,
-      "num": 190502,
-      "word": "我的阿勒泰",
-      "onboard_time": 1695274116,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190199,
       "num": 190199,
       "word": "田耕纪预告 谈钱说爱",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1695258517,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181372,
+      "num": 181372,
+      "word": "关晓彤鎏金月神妆",
+      "onboard_time": 1695276394,
+      "rank": 36,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 176922,
@@ -1147,12 +1235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171120,
-      "num": 171120,
-      "word": "一觉醒来大熊猫主动送上门",
-      "onboard_time": 1695273816,
-      "rank": 40,
-      "category": "社会新闻,动物萌宠"
+      "raw_hot": 171623,
+      "num": 171623,
+      "word": "已故港星成奎安长子涉毒被捕",
+      "onboard_time": 1695274299,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 167138,
@@ -1187,28 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158943,
-      "num": 158943,
-      "word": "中国又一特大城市诞生",
-      "onboard_time": 1695274417,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158602,
       "num": 158602,
       "word": "刚出道时期的刘亦菲",
       "onboard_time": 1695255878,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156747,
-      "num": 156747,
-      "word": "已故港星成奎安长子涉毒被捕",
-      "onboard_time": 1695274299,
-      "rank": 44,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 156179,
@@ -1283,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146285,
+      "num": 146285,
+      "word": "这些刷牙的坏习惯不要有",
+      "onboard_time": 1695276636,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145179,
       "num": 669598,
       "word": "西北为什么是未来能源宝库",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1695272741,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142838,
+      "num": 142838,
+      "word": "当代人使用APP现状",
+      "onboard_time": 1695275857,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 142523,

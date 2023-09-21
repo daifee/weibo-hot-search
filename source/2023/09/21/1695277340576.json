@@ -1,0 +1,410 @@
+{
+  "runTime": 1695277340576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273767,
+        "num": 1273767,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050496,
+        "num": 1050496,
+        "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+        "onboard_time": 1695267632,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 52624,
+        "num": 832610,
+        "word": "杭州亚运将上演奥运级别巅峰对决",
+        "onboard_time": 1695256477,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1780451,
+        "num": 819470,
+        "word": "34岁还没结婚是因为喜欢帅哥",
+        "onboard_time": 1695273098,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 748695,
+        "num": 748695,
+        "word": "猎罪图鉴2官宣檀健次金世佳",
+        "onboard_time": 1695264994,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739561,
+        "num": 739561,
+        "word": "妈妈第一次来杭州朋友圈晒8张厕所图",
+        "onboard_time": 1695273397,
+        "rank": 5,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 591898,
+        "num": 591898,
+        "word": "拿诺奖在东莞买房补贴1000万",
+        "onboard_time": 1695271375,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 576976,
+        "num": 576976,
+        "word": "被钱砸中的刘亚仁",
+        "onboard_time": 1695274116,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486793,
+        "num": 486793,
+        "word": "换回国货后发现工资够用了",
+        "onboard_time": 1695268354,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 471327,
+        "num": 471327,
+        "word": "成毅优酷扫楼",
+        "onboard_time": 1695272319,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1916045,
+        "num": 455856,
+        "word": "特朗普儿子发文父亲去世后称账号被黑",
+        "onboard_time": 1695271237,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 604861,
+        "num": 451765,
+        "word": "没有李佳琦花西子会走向何处",
+        "onboard_time": 1695262354,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 552406,
+        "num": 444467,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 12,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 421309,
+        "num": 421309,
+        "word": "曾舜晞把莲花楼里的狐狸精带走了",
+        "onboard_time": 1695275435,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325452,
+        "num": 391665,
+        "word": "一觉醒来大熊猫主动送上门",
+        "onboard_time": 1695273816,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 386642,
+        "num": 386642,
+        "word": "王权霸业改名王权弘业",
+        "onboard_time": 1695269797,
+        "rank": 15,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 357666,
+        "num": 357666,
+        "word": "导演一下就把魏大勋推开了",
+        "onboard_time": 1695275857,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343172,
+        "num": 343172,
+        "word": "TheShy和小杨哥联动",
+        "onboard_time": 1695276875,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 331354,
+        "num": 331354,
+        "word": "女王蜂 抢票",
+        "onboard_time": 1695276336,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312035,
+        "num": 312035,
+        "word": "杨紫初秋纯欲妆",
+        "onboard_time": 1695271060,
+        "rank": 19,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 535351,
+        "num": 310657,
+        "word": "太子奶",
+        "onboard_time": 1695275015,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480206,
+        "num": 308578,
+        "word": "逼女孩喝酒的未成年曾逼男孩吃粪便",
+        "onboard_time": 1695275676,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299162,
+        "num": 299162,
+        "word": "电视剧长风破浪官宣",
+        "onboard_time": 1695265114,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292707,
+        "num": 292707,
+        "word": "赵又廷希望女儿长得像高圆圆",
+        "onboard_time": 1695256360,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278491,
+        "num": 278491,
+        "word": "白色橄榄树",
+        "onboard_time": 1695275196,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268628,
+        "num": 268628,
+        "word": "许幻山 又是你",
+        "onboard_time": 1695258396,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256666,
+        "num": 256666,
+        "word": "GIDLE官宣上海签售会",
+        "onboard_time": 1695273334,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256556,
+        "num": 256556,
+        "word": "杨紫的扛剧能力是被认可的",
+        "onboard_time": 1695277114,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228403,
+        "num": 228403,
+        "word": "我的阿勒泰",
+        "onboard_time": 1695274116,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210494,
+        "num": 210494,
+        "word": "沪指4000点才是崛起的基本点",
+        "onboard_time": 1695273160,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217671,
+        "num": 210220,
+        "word": "狐妖小红娘竹业篇首发阵容",
+        "onboard_time": 1695262892,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205808,
+        "num": 205808,
+        "word": "五条悟台词 人设崩塌",
+        "onboard_time": 1695264454,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202923,
+        "num": 202923,
+        "word": "TFBOYS为王俊凯新电影打call",
+        "onboard_time": 1695269559,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195614,
+        "num": 195614,
+        "word": "迪丽热巴秦岚花少5合照",
+        "onboard_time": 1695263795,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186027,
+        "num": 186027,
+        "word": "黄子诚姚瑶结婚了",
+        "onboard_time": 1695261214,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181630,
+        "num": 181630,
+        "word": "妈妈解释女儿和纸片人交往",
+        "onboard_time": 1695272918,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181372,
+        "num": 181372,
+        "word": "关晓彤鎏金月神妆",
+        "onboard_time": 1695276394,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 179508,
+        "num": 179508,
+        "word": "Mate60不会放过每一个逃单的人",
+        "onboard_time": 1695267514,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171623,
+        "num": 171623,
+        "word": "已故港星成奎安长子涉毒被捕",
+        "onboard_time": 1695274299,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 154051,
+        "num": 154051,
+        "word": "外企的管理 最顶级的PUA",
+        "onboard_time": 1695270277,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177214,
+        "num": 152833,
+        "word": "猎罪图鉴2没加女主",
+        "onboard_time": 1695266616,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150540,
+        "num": 150540,
+        "word": "NIO Phone",
+        "onboard_time": 1695268232,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146285,
+        "num": 146285,
+        "word": "这些刷牙的坏习惯不要有",
+        "onboard_time": 1695276636,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142838,
+        "num": 142838,
+        "word": "当代人使用APP现状",
+        "onboard_time": 1695275857,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 142504,
+        "num": 142504,
+        "word": "养代谢减肥法",
+        "onboard_time": 1695271000,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138543,
+        "num": 138543,
+        "word": "南风知我意",
+        "onboard_time": 1695271599,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137830,
+        "num": 137830,
+        "word": "世界八大污染事件 日本独占一半",
+        "onboard_time": 1695271899,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 133682,
+        "num": 133682,
+        "word": "花西子年薪63万招公关",
+        "onboard_time": 1695257197,
+        "rank": 47,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 130897,
+        "num": 130897,
+        "word": "西安交大取消四六级学位证挂钩",
+        "onboard_time": 1695250823,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128365,
+        "num": 128365,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1695263073,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记对他们的深切关爱#"
+    }
+  }
+}
