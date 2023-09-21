@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695323604951,
+  "endTime": 1695324837488,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -505,6 +505,14 @@
       "onboard_time": 1695321676,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16959,
+      "num": 41814,
+      "word": "外交部回应美商务部长对华为新机感到不悦",
+      "onboard_time": 1695323894,
+      "rank": 13,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
