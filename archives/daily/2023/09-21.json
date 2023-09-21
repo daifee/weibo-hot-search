@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695281646359,
+  "endTime": 1695284519566,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -59,11 +59,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1835025,
+      "num": 422893,
+      "word": "Gemini领证",
+      "onboard_time": 1695281915,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1813753,
       "num": 1813753,
       "word": "中国又一特大城市诞生",
       "onboard_time": 1695274417,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1811876,
+      "num": 534719,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -176,14 +192,6 @@
       "word": "警方介入女生称实习被安排为男宾洗澡",
       "onboard_time": 1695255219,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1140903,
-      "num": 534719,
-      "word": "太子奶",
-      "onboard_time": 1695275015,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 750708,
+      "num": 750708,
+      "word": "丞磊卢昱晓去澳门拍芭莎",
+      "onboard_time": 1695281974,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 733772,
       "num": 733772,
       "word": "被杨幂美到的一个镜头",
@@ -371,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 624368,
+      "num": 361258,
+      "word": "床单不能太久不换",
+      "onboard_time": 1695281796,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 615159,
       "num": 312385,
       "word": "花西子离职公关称声明像小学生作文",
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 603044,
-      "num": 353160,
+      "num": 360921,
       "word": "奶茶杯真的很适合租房人",
       "onboard_time": 1695279755,
       "rank": 25,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 443459,
-      "num": 314443,
+      "num": 350350,
       "word": "内裤其实比袜子更脏",
       "onboard_time": 1695280834,
       "rank": 23,
@@ -568,6 +592,14 @@
       "word": "梅西36分钟被换下",
       "onboard_time": 1695256599,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 431675,
+      "num": 431675,
+      "word": "林孝埈1500米",
+      "onboard_time": 1695281434,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -691,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375055,
+      "num": 375055,
+      "word": "郎朗周杰伦太原演唱会嘉宾",
+      "onboard_time": 1695280956,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 371531,
       "num": 371531,
       "word": "蔚来手机上市",
@@ -737,6 +777,14 @@
       "onboard_time": 1695209735,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352346,
+      "num": 225085,
+      "word": "潍坊科技学院辟谣军训女生跳舞视频",
+      "onboard_time": 1695283835,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347558,
@@ -803,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321890,
+      "num": 225020,
+      "word": "相亲同时带了苹果和华为",
+      "onboard_time": 1695283294,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320495,
       "num": 320495,
       "word": "赵露思明艳风",
@@ -825,6 +881,14 @@
       "onboard_time": 1695210757,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314271,
+      "num": 314271,
+      "word": "蔚来手机售价6499元起",
+      "onboard_time": 1695279335,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 312544,
@@ -889,6 +953,14 @@
       "onboard_time": 1695277114,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290188,
+      "num": 290188,
+      "word": "孙俪车技",
+      "onboard_time": 1695281136,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 283487,
@@ -1011,14 +1083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254662,
-      "num": 254662,
-      "word": "蔚来手机售价6499元起",
-      "onboard_time": 1695279335,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 254429,
       "num": 1506828,
       "word": "杭州亚运将上演奥运级别巅峰对决",
@@ -1083,14 +1147,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 236043,
-      "num": 236043,
-      "word": "林孝埈1500米",
-      "onboard_time": 1695281434,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233585,
       "num": 233585,
       "word": "李赫宰Smoke Challenge",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1695261813,
       "rank": 32,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 233120,
-      "num": 233120,
-      "word": "郎朗周杰伦太原演唱会嘉宾",
-      "onboard_time": 1695280956,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 230680,
@@ -1155,6 +1203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222584,
+      "num": 222584,
+      "word": "法考",
+      "onboard_time": 1695282575,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 221993,
+      "num": 221993,
+      "word": "YG股价又暴跌",
+      "onboard_time": 1695281254,
+      "rank": 39,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 221561,
       "num": 221561,
       "word": "丈夫如厕常不关门妻子下跪磕头恳求",
@@ -1171,20 +1235,28 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 218674,
-      "num": 218674,
-      "word": "孙俪车技",
-      "onboard_time": 1695281136,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218592,
       "num": 210648,
       "word": "爱奇艺综艺片单好快乐",
       "onboard_time": 1695280655,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218234,
+      "num": 218234,
+      "word": "野孩子原型",
+      "onboard_time": 1695283057,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 218191,
+      "num": 218191,
+      "word": "老刘的处境是所有全职太太的处境",
+      "onboard_time": 1695282575,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 217136,
@@ -1209,14 +1281,6 @@
       "onboard_time": 1695265536,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213996,
-      "num": 213996,
-      "word": "YG股价又暴跌",
-      "onboard_time": 1695281254,
-      "rank": 39,
-      "category": "财经,艺人"
     },
     {
       "raw_hot": 212555,
@@ -1283,12 +1347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204363,
+      "num": 204363,
+      "word": "侵权王一博公司拟注销",
+      "onboard_time": 1695283655,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203796,
       "num": 203796,
       "word": "咒术回战",
       "onboard_time": 1695269196,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 201494,
+      "num": 201494,
+      "word": "周杰伦太原演唱会",
+      "onboard_time": 1695284016,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 201461,
@@ -1427,6 +1507,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 179504,
+      "num": 179504,
+      "word": "王影璐 其实我是个外向的人",
+      "onboard_time": 1695283294,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178088,
       "num": 178088,
       "word": "警民合力守护熟睡野生大熊猫",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1695218738,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168220,
+      "num": 168220,
+      "word": "沧州东光县一工厂发生爆燃",
+      "onboard_time": 1695281915,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167138,
@@ -1529,6 +1625,14 @@
       "onboard_time": 1695255878,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157321,
+      "num": 157321,
+      "word": "为什么电视里的人离职都用纸箱子",
+      "onboard_time": 1695284315,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 156179,
@@ -1857,6 +1961,14 @@
       "onboard_time": 1695229761,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73094,
+      "num": 428016,
+      "word": "我的少女心都回来了",
+      "onboard_time": 1695282034,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 62114,
