@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695317637605,
+  "endTime": 1695320549998,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -11083,6 +11083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172029,
+      "num": 172029,
+      "word": "模特踩潮汕祠堂八仙桌拍照引争议",
+      "onboard_time": 1695315385,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171808,
       "num": 171808,
       "word": "赵今麦新剧出场镜头",
@@ -12691,14 +12699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103728,
-      "num": 103728,
-      "word": "模特踩潮汕祠堂八仙桌拍照引争议",
-      "onboard_time": 1695315385,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102904,
       "num": 427446,
       "word": "白象中国面传承中国荣耀",
@@ -12873,6 +12873,14 @@
       "onboard_time": 1695250583,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87663,
+      "num": 87663,
+      "word": "35岁小伙太爱喝饮料致双目失明",
+      "onboard_time": 1695317660,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87210,
@@ -13064,6 +13072,14 @@
       "word": "大江大河3首发预告",
       "onboard_time": 1695312572,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71044,
+      "num": 71044,
+      "word": "我有一个朋友 欢你",
+      "onboard_time": 1695319462,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -13369,6 +13385,14 @@
       "onboard_time": 1695271237,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35028,
+      "num": 52393,
+      "word": "G社镜头下的安宥真",
+      "onboard_time": 1695319098,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 33889,

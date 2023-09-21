@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695317637605,
+  "endTime": 1695320549998,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -45315,6 +45315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172029,
+      "num": 172029,
+      "word": "模特踩潮汕祠堂八仙桌拍照引争议",
+      "onboard_time": 1695315385,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171937,
       "num": 171937,
       "word": "桂花气泡冰茶",
@@ -51763,14 +51771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 103728,
-      "num": 103728,
-      "word": "模特踩潮汕祠堂八仙桌拍照引争议",
-      "onboard_time": 1695315385,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102990,
       "num": 102990,
       "word": "考古的风还是吹向了田嘉瑞",
@@ -52457,6 +52457,14 @@
       "onboard_time": 1695250583,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87663,
+      "num": 87663,
+      "word": "35岁小伙太爱喝饮料致双目失明",
+      "onboard_time": 1695317660,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87287,
@@ -53161,6 +53169,14 @@
       "onboard_time": 1694331091,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71044,
+      "num": 71044,
+      "word": "我有一个朋友 欢你",
+      "onboard_time": 1695319462,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 70754,
@@ -54569,6 +54585,14 @@
       "onboard_time": 1695271237,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35028,
+      "num": 52393,
+      "word": "G社镜头下的安宥真",
+      "onboard_time": 1695319098,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 34976,
