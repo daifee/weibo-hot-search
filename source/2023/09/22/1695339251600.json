@@ -1,0 +1,410 @@
+{
+  "runTime": 1695339251600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 664816,
+        "num": 805339,
+        "word": "花西子代工厂被曝为日资",
+        "onboard_time": 1695337887,
+        "rank": 0,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 615936,
+        "num": 615936,
+        "word": "港星张智霖到警署协助调查",
+        "onboard_time": 1695300096,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 69530,
+        "num": 605467,
+        "word": "绕杭州飞33小时拍到的美景有多震撼",
+        "onboard_time": 1695312032,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2138276,
+        "num": 603179,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698354,
+        "num": 600455,
+        "word": "为什么说女生要分开腿坐",
+        "onboard_time": 1695293675,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 595845,
+        "num": 595845,
+        "word": "韩国共同民主党国会院内领导层集体辞职",
+        "onboard_time": 1695337705,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 560922,
+        "num": 560922,
+        "word": "网红老婆爱吃巧乐兹发文道歉",
+        "onboard_time": 1695297756,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488458,
+        "num": 488458,
+        "word": "陆毅谢谢大家帮我找回回忆",
+        "onboard_time": 1695313112,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465598,
+        "num": 465598,
+        "word": "顾客吐槽茶颜悦色点餐方式像智商税",
+        "onboard_time": 1695308738,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 413423,
+        "num": 413423,
+        "word": "杭州1米92特警被赞一身都是安全感",
+        "onboard_time": 1695337524,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286504,
+        "num": 286504,
+        "word": "黄景瑜演消防员的松弛感",
+        "onboard_time": 1695335900,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219099,
+        "num": 219099,
+        "word": "五哈4阵容官宣",
+        "onboard_time": 1695306819,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212762,
+        "num": 212762,
+        "word": "傅首尔 这段婚姻不是我憧憬的样子",
+        "onboard_time": 1695302680,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159176,
+        "num": 209249,
+        "word": "外交部回应美商务部长对华为新机感到不悦",
+        "onboard_time": 1695323894,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 98691,
+        "num": 207908,
+        "word": "中国又一特大城市诞生",
+        "onboard_time": 1695274417,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230791,
+        "num": 207905,
+        "word": "黄景瑜张婧仪体型差",
+        "onboard_time": 1695310296,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207800,
+        "num": 207800,
+        "word": "2023年最后100天",
+        "onboard_time": 1695338850,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201281,
+        "num": 201281,
+        "word": "成毅谈和张予曦三搭感受",
+        "onboard_time": 1695300698,
+        "rank": 17,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 191545,
+        "num": 191545,
+        "word": "法考成绩",
+        "onboard_time": 1695304419,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167811,
+        "num": 190709,
+        "word": "于潇玥为海外留学当间谍",
+        "onboard_time": 1695338247,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584875,
+        "num": 190693,
+        "word": "家长查17天监控发现儿子每日挨打",
+        "onboard_time": 1695337584,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234829,
+        "num": 190599,
+        "word": "学校发的军训服过于透气了",
+        "onboard_time": 1695298535,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190445,
+        "num": 190445,
+        "word": "大大方方结束任何不真诚的关系",
+        "onboard_time": 1695337524,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179335,
+        "num": 179335,
+        "word": "德国性教育内容表",
+        "onboard_time": 1695292055,
+        "rank": 23,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 173743,
+        "num": 173743,
+        "word": "不要相信生理期前的大脑",
+        "onboard_time": 1695307660,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165818,
+        "num": 165818,
+        "word": "内娱古偶白月光",
+        "onboard_time": 1695314127,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156878,
+        "num": 156878,
+        "word": "父母吃席用纸巾盒给27岁女儿打包虾",
+        "onboard_time": 1695298715,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150828,
+        "num": 150828,
+        "word": "35岁小伙太爱喝饮料致双目失明",
+        "onboard_time": 1695317660,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150822,
+        "num": 150822,
+        "word": "刘诗诗复古蕾丝穿搭",
+        "onboard_time": 1695307781,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142849,
+        "num": 142849,
+        "word": "追求和性骚扰的边界感在哪",
+        "onboard_time": 1695314904,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145809,
+        "num": 132746,
+        "word": "原来拜财神有专门的姿势",
+        "onboard_time": 1695338670,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121518,
+        "num": 121518,
+        "word": "模特踩潮汕祠堂八仙桌拍照引争议",
+        "onboard_time": 1695315385,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121401,
+        "num": 121401,
+        "word": "李泽锋 如果大海能够带走我的哀愁",
+        "onboard_time": 1695329414,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105454,
+        "num": 105454,
+        "word": "结过婚后真的再没羡慕过婚礼上的新娘",
+        "onboard_time": 1695289715,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105282,
+        "num": 105282,
+        "word": "第一次见到这么像陆毅的人",
+        "onboard_time": 1695299675,
+        "rank": 34,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 102961,
+        "num": 102961,
+        "word": "太子奶",
+        "onboard_time": 1695275015,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100562,
+        "num": 100562,
+        "word": "孟钰活成了安欣的样子",
+        "onboard_time": 1695291874,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99382,
+        "num": 99382,
+        "word": "欧洲芯片法案正式生效",
+        "onboard_time": 1695338909,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 90715,
+        "num": 90715,
+        "word": "真的建议年轻人要有前瞻性",
+        "onboard_time": 1695298113,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90057,
+        "num": 90057,
+        "word": "封神名场面之姬发要碎了",
+        "onboard_time": 1695304961,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87353,
+        "num": 87353,
+        "word": "一觉醒来邻居的房子不见了",
+        "onboard_time": 1695291395,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84082,
+        "num": 84082,
+        "word": "陈都灵到底救了多少场",
+        "onboard_time": 1695288633,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84059,
+        "num": 84059,
+        "word": "难怪大张伟是才子",
+        "onboard_time": 1695332114,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82063,
+        "num": 82063,
+        "word": "一下就把我的消费瘾给戒了",
+        "onboard_time": 1695306036,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81177,
+        "num": 81177,
+        "word": "他从火光中走来 孙梦",
+        "onboard_time": 1695308259,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75466,
+        "num": 75466,
+        "word": "我有一个朋友 欢你",
+        "onboard_time": 1695319462,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65949,
+        "num": 75317,
+        "word": "梁朝伟治好了我的社交焦虑",
+        "onboard_time": 1695306100,
+        "rank": 46,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 62006,
+        "num": 75045,
+        "word": "柳智敏去看BLACKPINK演唱会的原因",
+        "onboard_time": 1695312751,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58552,
+        "num": 74911,
+        "word": "林茨1比3利物浦",
+        "onboard_time": 1695337946,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57840,
+        "num": 74588,
+        "word": "卢昱晓新人美时期",
+        "onboard_time": 1695307299,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席杭州亚运会开幕式#"
+    }
+  }
+}
