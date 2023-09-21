@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695263629169,
+  "endTime": 1695266227658,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1694672674,
       "rank": 10,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 2422818,
+      "num": 2422818,
+      "word": "猎罪图鉴2官宣檀健次金世佳",
+      "onboard_time": 1695264994,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2416523,
@@ -2731,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1759113,
+      "num": 510145,
+      "word": "没有李佳琦花西子会走向何处",
+      "onboard_time": 1695262354,
+      "rank": 17,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1758226,
       "num": 1758226,
       "word": "徐良13个学生里12个写出了爆款歌",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1694226812,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1531555,
+      "num": 1531555,
+      "word": "狐妖小红娘竹业篇首发阵容",
+      "onboard_time": 1695262892,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1527573,
@@ -7123,14 +7147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 913748,
-      "num": 510145,
-      "word": "没有李佳琦花西子会走向何处",
-      "onboard_time": 1695262354,
-      "rank": 17,
-      "category": "美妆,网红"
-    },
-    {
       "raw_hot": 912776,
       "num": 912776,
       "word": "日本政府拟拨款200亿日元紧急支援水产业",
@@ -7225,6 +7241,14 @@
       "onboard_time": 1695107137,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 901711,
+      "num": 482183,
+      "word": "男子拍死隐翅虫多处溃烂5天未愈",
+      "onboard_time": 1695264514,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 900556,
@@ -7625,14 +7649,6 @@
       "onboard_time": 1693740164,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 865650,
-      "num": 865650,
-      "word": "狐妖小红娘竹业篇首发阵容",
-      "onboard_time": 1695262892,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 864964,
@@ -9825,6 +9841,14 @@
       "onboard_time": 1693868482,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725898,
+      "num": 725898,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1695263073,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 725209,
@@ -13307,6 +13331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 579742,
+      "num": 460279,
+      "word": "迪丽热巴秦岚花少5合照",
+      "onboard_time": 1695263795,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579574,
       "num": 579574,
       "word": "月公子居然是左叶演的",
@@ -14337,6 +14369,14 @@
       "onboard_time": 1694736335,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548199,
+      "num": 548199,
+      "word": "长时间用电脑后洗把脸",
+      "onboard_time": 1695261396,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 548100,
@@ -15595,14 +15635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515141,
-      "num": 515141,
-      "word": "长时间用电脑后洗把脸",
-      "onboard_time": 1695261396,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 515067,
       "num": 559787,
       "word": "普京会见王毅",
@@ -15665,6 +15697,14 @@
       "onboard_time": 1695218738,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 513262,
+      "num": 513262,
+      "word": "五条悟台词 人设崩塌",
+      "onboard_time": 1695264454,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 513215,
@@ -15849,6 +15889,14 @@
       "onboard_time": 1694673155,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 508169,
+      "num": 406069,
+      "word": "电视剧长风破浪官宣",
+      "onboard_time": 1695265114,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 508042,
@@ -17889,6 +17937,14 @@
       "onboard_time": 1693617754,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458343,
+      "num": 458343,
+      "word": "张大仙减重28斤",
+      "onboard_time": 1695262833,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 458332,
@@ -20307,6 +20363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 408640,
+      "num": 408640,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1695264695,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408377,
       "num": 408377,
       "word": "患抑郁症的她以第一名考上了研究生",
@@ -20881,6 +20945,14 @@
       "onboard_time": 1693752647,
       "rank": 30,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 394957,
+      "num": 394957,
+      "word": "那些kpop男团里的妹宝公主担当",
+      "onboard_time": 1695264695,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 394806,
@@ -23592,6 +23664,14 @@
       "word": "虞书欣卢昱晓hi6上班路透",
       "onboard_time": 1694666627,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344833,
+      "num": 344833,
+      "word": "歌手第几季的音乐性最强",
+      "onboard_time": 1695263315,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -31075,6 +31155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254922,
+      "num": 254922,
+      "word": "QQ空间相册里的韩庚",
+      "onboard_time": 1695264156,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254845,
       "num": 254845,
       "word": "封神第一部破26亿妲己唱甜蜜蜜了",
@@ -31633,6 +31721,14 @@
       "onboard_time": 1694349634,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 248785,
+      "num": 248785,
+      "word": "蔚来首款手机21日发布",
+      "onboard_time": 1695263136,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 248782,
@@ -34019,6 +34115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228561,
+      "num": 228561,
+      "word": "周冬雨宋洋袁弘热搜定档",
+      "onboard_time": 1695265176,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228519,
       "num": 228519,
       "word": "王心凌在线为新歌征名",
@@ -34728,6 +34832,14 @@
       "word": "他为她量身制定了一个骗局",
       "onboard_time": 1694953835,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 222821,
+      "num": 222821,
+      "word": "有单身信念的人更加容易遇到灵魂伴侣",
+      "onboard_time": 1695265655,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -35499,6 +35611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217136,
+      "num": 217136,
+      "word": "白月梵星",
+      "onboard_time": 1695265714,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217026,
       "num": 217026,
       "word": "姬发 谁懂啊太子冲过来像头脱缰的牛",
@@ -35787,20 +35907,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214678,
-      "num": 214678,
-      "word": "狐妖小红娘月红篇",
-      "onboard_time": 1695263073,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214675,
       "num": 214675,
       "word": "黄轩一部电影把以前角色的苦都还了",
       "onboard_time": 1695189816,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214585,
+      "num": 214585,
+      "word": "朝哪个方向拜能有这样的父母",
+      "onboard_time": 1695265536,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 214466,
@@ -35953,14 +36073,6 @@
       "onboard_time": 1695104435,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213040,
-      "num": 213040,
-      "word": "歌手第几季的音乐性最强",
-      "onboard_time": 1695263315,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 213022,
@@ -38417,14 +38529,6 @@
       "onboard_time": 1694431835,
       "rank": 45,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 200221,
-      "num": 200221,
-      "word": "蔚来首款手机21日发布",
-      "onboard_time": 1695263136,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 200220,
@@ -41761,14 +41865,6 @@
       "onboard_time": 1693980633,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184512,
-      "num": 184512,
-      "word": "张大仙减重28斤",
-      "onboard_time": 1695262833,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 184483,
@@ -46187,6 +46283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151911,
+      "num": 206641,
+      "word": "鹦鹉杀导演 我想让她赢一次",
+      "onboard_time": 1695263613,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151871,
       "num": 151871,
       "word": "揭秘佛系的孟美岐是如何炼成的",
@@ -48241,14 +48345,6 @@
       "onboard_time": 1694590174,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131833,
-      "num": 131833,
-      "word": "鹦鹉杀导演 我想让她赢一次",
-      "onboard_time": 1695263613,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 131809,
@@ -50811,6 +50907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81230,
+      "num": 233978,
+      "word": "蔚来发布中国首个整车操作系统",
+      "onboard_time": 1695265414,
+      "rank": 28,
+      "category": "汽车,科技"
+    },
+    {
       "raw_hot": 80955,
       "num": 445358,
       "word": "两只羚羊用身体搭梯帮同伴越过阻碍",
@@ -51561,6 +51665,14 @@
       "onboard_time": 1693989455,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59143,
+      "num": 206510,
+      "word": "王鹤棣勇闯游戏世界",
+      "onboard_time": 1695266133,
+      "rank": 48,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 59092,
