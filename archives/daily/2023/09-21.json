@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695296043852,
+  "endTime": 1695299631611,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -33,6 +33,14 @@
       "onboard_time": 1695264994,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2370783,
+      "num": 2370783,
+      "word": "网红老婆爱吃巧乐兹发文道歉",
+      "onboard_time": 1695297756,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2082597,
@@ -265,6 +273,14 @@
       "onboard_time": 1695268232,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 969158,
+      "num": 969158,
+      "word": "林俊杰南京抢票",
+      "onboard_time": 1695291220,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 960766,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 585959,
-      "num": 294305,
+      "num": 320957,
       "word": "为什么说女生要分开腿坐",
       "onboard_time": 1695293675,
       "rank": 30,
@@ -561,6 +577,14 @@
       "onboard_time": 1695262833,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 572782,
+      "num": 572782,
+      "word": "马立奥独自在酒店的一天",
+      "onboard_time": 1695296435,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 570594,
@@ -675,12 +699,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 510513,
+      "num": 335418,
+      "word": "林俊杰黑胶开箱Vlog",
+      "onboard_time": 1695297875,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 506996,
       "num": 766276,
       "word": "33岁女子上老年大学兴趣班",
       "onboard_time": 1695266254,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 498436,
+      "num": 498436,
+      "word": "黄健翔今晚国足应该是一场胜利",
+      "onboard_time": 1695294034,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 496505,
@@ -723,6 +763,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456368,
+      "num": 456368,
+      "word": "国足亚运队半场4比0缅甸",
+      "onboard_time": 1695299076,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 445373,
+      "num": 333260,
+      "word": "这玩意凭什么火了1900年",
+      "onboard_time": 1695298052,
+      "rank": 18,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 443459,
       "num": 350350,
       "word": "内裤其实比袜子更脏",
@@ -737,6 +793,14 @@
       "onboard_time": 1695256599,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437921,
+      "num": 308248,
+      "word": "真的建议年轻人要有前瞻性",
+      "onboard_time": 1695298113,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 431675,
@@ -843,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393961,
+      "num": 236013,
+      "word": "学校发的军训服过于透气了",
+      "onboard_time": 1695298535,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391910,
       "num": 391910,
       "word": "傅首尔 在这个世界上得到过爱就很幸福了",
@@ -915,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374463,
+      "num": 292237,
+      "word": "父母吃席用纸巾盒给27岁女儿打包虾",
+      "onboard_time": 1695298715,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371531,
       "num": 371531,
       "word": "蔚来手机上市",
@@ -971,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350671,
-      "num": 350671,
-      "word": "林俊杰南京抢票",
-      "onboard_time": 1695291220,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 347558,
       "num": 476743,
       "word": "一觉醒来大熊猫主动送上门",
@@ -993,6 +1065,14 @@
       "onboard_time": 1695263315,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342479,
+      "num": 342479,
+      "word": "美剧天赋异禀",
+      "onboard_time": 1695298655,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 342243,
@@ -1059,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326262,
+      "num": 326262,
+      "word": "谭龙破门",
+      "onboard_time": 1695297218,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322851,
       "num": 255789,
       "word": "人在工位了面试官告诉我招错人了",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1695271899,
       "rank": 24,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 318735,
+      "num": 318735,
+      "word": "国足亚运队vs缅甸",
+      "onboard_time": 1695292956,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 316419,
@@ -1323,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255564,
+      "num": 255564,
+      "word": "白鹿头发丝都在发光",
+      "onboard_time": 1695296732,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 254845,
       "num": 254845,
       "word": "封神第一部破26亿妲己唱甜蜜蜜了",
@@ -1443,14 +1547,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 230414,
-      "num": 230414,
-      "word": "国足亚运队vs缅甸",
-      "onboard_time": 1695292956,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228681,
       "num": 228681,
       "word": "拜仁慕尼黑4比3曼联",
@@ -1473,14 +1569,6 @@
       "onboard_time": 1695266254,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224172,
-      "num": 224172,
-      "word": "黄健翔今晚国足应该是一场胜利",
-      "onboard_time": 1695294034,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 223288,
@@ -1659,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204555,
+      "num": 204555,
+      "word": "林陆骁火光最大显眼包",
+      "onboard_time": 1695298775,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204528,
       "num": 204528,
       "word": "一天工作12小时对身体有害吗",
@@ -1752,6 +1848,14 @@
       "word": "念无双",
       "onboard_time": 1695261158,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194667,
+      "num": 194667,
+      "word": "尹子维怎么演正派都那么像反派",
+      "onboard_time": 1695299136,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1891,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179676,
+      "num": 179676,
+      "word": "妈妈是我生活唯一的观众",
+      "onboard_time": 1695298235,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179504,
       "num": 179504,
       "word": "王影璐 其实我是个外向的人",
@@ -1971,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167687,
+      "num": 167687,
+      "word": "华晨宇上海演唱会抢票",
+      "onboard_time": 1695297756,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167138,
       "num": 167138,
       "word": "起猛了抓间谍抓到自己弟",
@@ -2003,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165159,
+      "num": 165159,
+      "word": "娜扎行走的黑玫瑰",
+      "onboard_time": 1695299557,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164685,
       "num": 164685,
       "word": "这些刷牙的坏习惯不要有",
@@ -2025,6 +2153,14 @@
       "onboard_time": 1695261693,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161872,
+      "num": 161872,
+      "word": "红米Note13Pro",
+      "onboard_time": 1695296133,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 159152,
@@ -2121,6 +2257,14 @@
       "onboard_time": 1695209735,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146841,
+      "num": 146841,
+      "word": "王振澳凌空",
+      "onboard_time": 1695297937,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 145695,
@@ -2355,6 +2499,14 @@
       "category": "汽车,科技"
     },
     {
+      "raw_hot": 92882,
+      "num": 140211,
+      "word": "Note13价格真香",
+      "onboard_time": 1695299316,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 91820,
       "num": 91820,
       "word": "侯卓成杨汝晴亲了四次",
@@ -2449,6 +2601,14 @@
       "onboard_time": 1695294034,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 41130,
+      "num": 337659,
+      "word": "春夏时装周",
+      "onboard_time": 1695298113,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 40325,

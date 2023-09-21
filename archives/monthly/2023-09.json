@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695296043852,
+  "endTime": 1695299631611,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1312,6 +1312,14 @@
       "word": "男子感染HPV向发生关系女房东索赔被驳",
       "onboard_time": 1694437667,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2370783,
+      "num": 2370783,
+      "word": "网红老婆爱吃巧乐兹发文道歉",
+      "onboard_time": 1695297756,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -6721,6 +6729,14 @@
       "onboard_time": 1694098601,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 969158,
+      "num": 969158,
+      "word": "林俊杰南京抢票",
+      "onboard_time": 1695291220,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 968344,
@@ -13492,7 +13508,7 @@
     },
     {
       "raw_hot": 585959,
-      "num": 294305,
+      "num": 320957,
       "word": "为什么说女生要分开腿坐",
       "onboard_time": 1695293675,
       "rank": 30,
@@ -13816,6 +13832,14 @@
       "word": "胡歌给女儿起名茉莉的原因",
       "onboard_time": 1694264857,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 572782,
+      "num": 572782,
+      "word": "马立奥独自在酒店的一天",
+      "onboard_time": 1695296435,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -16179,6 +16203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510513,
+      "num": 335418,
+      "word": "林俊杰黑胶开箱Vlog",
+      "onboard_time": 1695297875,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 510383,
       "num": 510383,
       "word": "雎晓雯孕肚照封面",
@@ -16657,6 +16689,14 @@
       "onboard_time": 1694511097,
       "rank": 28,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 498436,
+      "num": 498436,
+      "word": "黄健翔今晚国足应该是一场胜利",
+      "onboard_time": 1695294034,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 498402,
@@ -18435,6 +18475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456368,
+      "num": 456368,
+      "word": "国足亚运队半场4比0缅甸",
+      "onboard_time": 1695299076,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456259,
       "num": 456259,
       "word": "重庆前首富住进养老院",
@@ -18915,6 +18963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445373,
+      "num": 333260,
+      "word": "这玩意凭什么火了1900年",
+      "onboard_time": 1695298052,
+      "rank": 18,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 445212,
       "num": 289266,
       "word": "厦门一女子跳海自杀丈夫回应",
@@ -19281,6 +19337,14 @@
       "onboard_time": 1694922034,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437921,
+      "num": 308248,
+      "word": "真的建议年轻人要有前瞻性",
+      "onboard_time": 1695298113,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 437898,
@@ -21475,6 +21539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 393961,
+      "num": 236013,
+      "word": "学校发的军训服过于透气了",
+      "onboard_time": 1695298535,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393449,
       "num": 393449,
       "word": "让肖战瞳孔地震的冷知识",
@@ -22417,6 +22489,14 @@
       "onboard_time": 1694110337,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 374463,
+      "num": 292237,
+      "word": "父母吃席用纸巾盒给27岁女儿打包虾",
+      "onboard_time": 1695298715,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374271,
@@ -23859,14 +23939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 350671,
-      "num": 350671,
-      "word": "林俊杰南京抢票",
-      "onboard_time": 1695291220,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 350652,
       "num": 350652,
       "word": "花西子称自己百分百是国货品牌",
@@ -24345,6 +24417,14 @@
       "onboard_time": 1694695716,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342479,
+      "num": 342479,
+      "word": "美剧天赋异禀",
+      "onboard_time": 1695298655,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 342268,
@@ -25483,6 +25563,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 326262,
+      "num": 326262,
+      "word": "谭龙破门",
+      "onboard_time": 1695297218,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326240,
       "num": 326240,
       "word": "职场里别暴露自己的家境",
@@ -26137,6 +26225,14 @@
       "onboard_time": 1694344534,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318735,
+      "num": 318735,
+      "word": "国足亚运队vs缅甸",
+      "onboard_time": 1695292956,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 318686,
@@ -31899,6 +31995,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 255564,
+      "num": 255564,
+      "word": "白鹿头发丝都在发光",
+      "onboard_time": 1695296732,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 255543,
       "num": 245514,
       "word": "宫二是忍者吗",
@@ -34699,14 +34803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230414,
-      "num": 230414,
-      "word": "国足亚运队vs缅甸",
-      "onboard_time": 1695292956,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230387,
       "num": 230387,
       "word": "王曼昱孙颖莎会师女单决赛",
@@ -35465,14 +35561,6 @@
       "onboard_time": 1693815220,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224172,
-      "num": 224172,
-      "word": "黄健翔今晚国足应该是一场胜利",
-      "onboard_time": 1695294034,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 224096,
@@ -38531,6 +38619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204555,
+      "num": 204555,
+      "word": "林陆骁火光最大显眼包",
+      "onboard_time": 1695298775,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204548,
       "num": 204548,
       "word": "封神 导演拉片重场戏",
@@ -40721,6 +40817,14 @@
       "onboard_time": 1694003977,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194667,
+      "num": 194667,
+      "word": "尹子维怎么演正派都那么像反派",
+      "onboard_time": 1695299136,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 194661,
@@ -43651,6 +43755,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 179676,
+      "num": 179676,
+      "word": "妈妈是我生活唯一的观众",
+      "onboard_time": 1695298235,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179622,
       "num": 179622,
       "word": "周一到底谁在幸福",
@@ -45379,6 +45491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167687,
+      "num": 167687,
+      "word": "华晨宇上海演唱会抢票",
+      "onboard_time": 1695297756,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167651,
       "num": 167651,
       "word": "汪苏泷抱吉克隽逸想伸不敢伸的手",
@@ -45737,6 +45857,14 @@
       "onboard_time": 1694921673,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165159,
+      "num": 165159,
+      "word": "娜扎行走的黑玫瑰",
+      "onboard_time": 1695299557,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 164985,
@@ -46161,6 +46289,14 @@
       "onboard_time": 1695200137,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161872,
+      "num": 161872,
+      "word": "红米Note13Pro",
+      "onboard_time": 1695296133,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 161865,
@@ -48001,6 +48137,14 @@
       "onboard_time": 1695191973,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146841,
+      "num": 146841,
+      "word": "王振澳凌空",
+      "onboard_time": 1695297937,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 146764,
@@ -51579,6 +51723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92882,
+      "num": 140211,
+      "word": "Note13价格真香",
+      "onboard_time": 1695299316,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92854,
       "num": 504417,
       "word": "吴艳妮时尚杂志首封",
@@ -53633,6 +53785,14 @@
       "onboard_time": 1693556200,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41130,
+      "num": 337659,
+      "word": "春夏时装周",
+      "onboard_time": 1695298113,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 40742,
