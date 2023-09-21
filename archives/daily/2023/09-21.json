@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695284519566,
+  "endTime": 1695285288925,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -59,8 +59,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1861274,
+      "num": 534719,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1835025,
-      "num": 422893,
+      "num": 484948,
       "word": "Gemini领证",
       "onboard_time": 1695281915,
       "rank": 11,
@@ -72,14 +80,6 @@
       "word": "中国又一特大城市诞生",
       "onboard_time": 1695274417,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1811876,
-      "num": 534719,
-      "word": "太子奶",
-      "onboard_time": 1695275015,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789341,
+      "num": 789341,
+      "word": "封神网播",
+      "onboard_time": 1695284618,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 771845,
       "num": 771845,
       "word": "女子吐槽工资5千元国庆随份子近3千",
@@ -371,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 653280,
+      "num": 365771,
+      "word": "床单不能太久不换",
+      "onboard_time": 1695281796,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 631686,
       "num": 631686,
       "word": "被钱砸中的刘亚仁",
@@ -380,19 +396,11 @@
     },
     {
       "raw_hot": 624948,
-      "num": 439886,
+      "num": 482105,
       "word": "赵丽颖鎏金深V",
       "onboard_time": 1695280175,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 624368,
-      "num": 361258,
-      "word": "床单不能太久不换",
-      "onboard_time": 1695281796,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 615159,
@@ -523,6 +531,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 534102,
+      "num": 480999,
+      "word": "潍坊科技学院辟谣军训女生跳舞视频",
+      "onboard_time": 1695283835,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515424,
       "num": 283651,
       "word": "iPhone15拍人更好看",
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 431675,
-      "num": 431675,
+      "num": 487781,
       "word": "林孝埈1500米",
       "onboard_time": 1695281434,
       "rank": 36,
@@ -699,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385305,
+      "num": 385305,
+      "word": "郎朗周杰伦太原演唱会嘉宾",
+      "onboard_time": 1695280956,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 384677,
       "num": 689383,
       "word": "新疆没有海为什么能养海鲜",
@@ -721,14 +745,6 @@
       "onboard_time": 1695280357,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375055,
-      "num": 375055,
-      "word": "郎朗周杰伦太原演唱会嘉宾",
-      "onboard_time": 1695280956,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 371531,
@@ -779,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352346,
-      "num": 225085,
-      "word": "潍坊科技学院辟谣军训女生跳舞视频",
-      "onboard_time": 1695283835,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347558,
       "num": 476743,
       "word": "一觉醒来大熊猫主动送上门",
@@ -809,6 +817,14 @@
       "onboard_time": 1695262354,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341223,
+      "num": 341223,
+      "word": "相亲同时带了苹果和华为",
+      "onboard_time": 1695283294,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 334199,
@@ -848,14 +864,6 @@
       "word": "人在工位了面试官告诉我招错人了",
       "onboard_time": 1695279335,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 321890,
-      "num": 225020,
-      "word": "相亲同时带了苹果和华为",
-      "onboard_time": 1695283294,
-      "rank": 31,
       "category": "幽默"
     },
     {
@@ -937,6 +945,14 @@
       "onboard_time": 1695279093,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 292416,
+      "num": 483689,
+      "word": "韩国会通过同意逮捕李在明议案",
+      "onboard_time": 1695284557,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 292157,
@@ -1059,6 +1075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 259539,
+      "num": 259539,
+      "word": "为什么电视里的人离职都用纸箱子",
+      "onboard_time": 1695284315,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259304,
       "num": 259304,
       "word": "男子分手后求和不成刺死前女友母亲",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1695260314,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 234553,
+      "num": 234553,
+      "word": "大爷年轻时家暴遭6名子女拒养",
+      "onboard_time": 1695285156,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233585,
@@ -1307,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208753,
+      "num": 208753,
+      "word": "张艺兴上海演唱会秒罄",
+      "onboard_time": 1695284736,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208679,
       "num": 208679,
       "word": "千万不要闻脱下来的袜子",
@@ -1435,6 +1475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192744,
+      "num": 192744,
+      "word": "蛋仔派对登不上",
+      "onboard_time": 1695284795,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191316,
       "num": 191316,
       "word": "念无双唐嫣刘学义片花",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1695280655,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183751,
+      "num": 183751,
+      "word": "逆水寒 崩",
+      "onboard_time": 1695285156,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 183456,
@@ -1625,14 +1681,6 @@
       "onboard_time": 1695255878,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 157321,
-      "num": 157321,
-      "word": "为什么电视里的人离职都用纸箱子",
-      "onboard_time": 1695284315,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 156179,
@@ -1891,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100817,
+      "num": 486724,
+      "word": "我的少女心都回来了",
+      "onboard_time": 1695282034,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97049,
       "num": 106993,
       "word": "英雄联盟崩了",
@@ -1961,14 +2017,6 @@
       "onboard_time": 1695229761,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73094,
-      "num": 428016,
-      "word": "我的少女心都回来了",
-      "onboard_time": 1695282034,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 62114,
