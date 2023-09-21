@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695270012216,
+  "endTime": 1695270843475,
   "band_list": [
     {
       "raw_hot": 2833512,
@@ -49,6 +49,14 @@
       "onboard_time": 1695250823,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1574563,
+      "num": 1574563,
+      "word": "电视剧长风破浪官宣",
+      "onboard_time": 1695265114,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 1531555,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122173,
+      "num": 1122173,
+      "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+      "onboard_time": 1695267632,
+      "rank": 6,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1053642,
       "num": 1053642,
       "word": "高度近视的人不要剧烈运动",
@@ -131,12 +147,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1043503,
-      "num": 1043503,
-      "word": "电视剧长风破浪官宣",
-      "onboard_time": 1695265114,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 984993,
+      "num": 984993,
+      "word": "NIO Phone",
+      "onboard_time": 1695268232,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 960766,
@@ -153,14 +169,6 @@
       "onboard_time": 1695258396,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 922292,
-      "num": 922292,
-      "word": "NIO Phone",
-      "onboard_time": 1695268232,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 901711,
@@ -187,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 806644,
-      "num": 806644,
-      "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
-      "onboard_time": 1695267632,
-      "rank": 6,
-      "category": "时尚"
+      "raw_hot": 818389,
+      "num": 608591,
+      "word": "王权霸业改名王权弘业",
+      "onboard_time": 1695269797,
+      "rank": 21,
+      "category": "剧集,动漫"
     },
     {
       "raw_hot": 771845,
@@ -201,6 +209,14 @@
       "onboard_time": 1695253051,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763970,
+      "num": 780668,
+      "word": "换回国货后发现工资够用了",
+      "onboard_time": 1695268354,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 763893,
@@ -315,14 +331,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 534215,
-      "num": 780668,
-      "word": "换回国货后发现工资够用了",
-      "onboard_time": 1695268354,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 515424,
       "num": 283651,
       "word": "iPhone15拍人更好看",
@@ -363,20 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 443409,
-      "num": 443409,
-      "word": "王权霸业改名王权弘业",
-      "onboard_time": 1695269797,
-      "rank": 21,
-      "category": "剧集,动漫"
-    },
-    {
       "raw_hot": 442306,
       "num": 442306,
       "word": "梅西36分钟被换下",
       "onboard_time": 1695256599,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428148,
+      "num": 428148,
+      "word": "一念关山",
+      "onboard_time": 1695267036,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 426965,
@@ -401,14 +409,6 @@
       "onboard_time": 1695265655,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 415159,
-      "num": 415159,
-      "word": "一念关山",
-      "onboard_time": 1695267036,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 408640,
@@ -441,6 +441,14 @@
       "onboard_time": 1695259477,
       "rank": 39,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 383292,
+      "num": 383292,
+      "word": "TFBOYS为王俊凯新电影打call",
+      "onboard_time": 1695269559,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 382080,
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325717,
+      "num": 325717,
+      "word": "中国科学家在马里亚纳海沟发现新病毒",
+      "onboard_time": 1695270339,
+      "rank": 26,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 320495,
       "num": 320495,
       "word": "赵露思明艳风",
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280037,
+      "num": 280037,
+      "word": "隐翅虫",
+      "onboard_time": 1695266676,
+      "rank": 36,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 278221,
       "num": 278221,
       "word": "美联储",
@@ -627,20 +651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268168,
-      "num": 268168,
-      "word": "TFBOYS为王俊凯新电影打call",
-      "onboard_time": 1695269559,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 266094,
       "num": 266094,
       "word": "高校回应学院党委书记被曝不雅聊天",
       "onboard_time": 1695253957,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 260598,
+      "num": 280703,
+      "word": "山东的桃子都是oversize的",
+      "onboard_time": 1695269436,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259304,
@@ -657,22 +681,6 @@
       "onboard_time": 1695259655,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 258019,
-      "num": 258019,
-      "word": "山东的桃子都是oversize的",
-      "onboard_time": 1695269436,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255887,
-      "num": 255887,
-      "word": "隐翅虫",
-      "onboard_time": 1695266676,
-      "rank": 36,
-      "category": "知识科普"
     },
     {
       "raw_hot": 254845,
@@ -739,6 +747,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 230680,
+      "num": 230680,
+      "word": "新兵入伍下意识乘电梯老兵提醒走楼梯",
+      "onboard_time": 1695269797,
+      "rank": 45,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 228681,
       "num": 228681,
       "word": "拜仁慕尼黑4比3曼联",
@@ -753,6 +769,14 @@
       "onboard_time": 1695265176,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226298,
+      "num": 226298,
+      "word": "女子把隐翅虫当蚊子拍死面部被灼伤",
+      "onboard_time": 1695266254,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223155,
@@ -777,14 +801,6 @@
       "onboard_time": 1695266133,
       "rank": 48,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 217441,
-      "num": 217441,
-      "word": "女子把隐翅虫当蚊子拍死面部被灼伤",
-      "onboard_time": 1695266254,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217136,
@@ -1011,12 +1027,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 163690,
-      "num": 163690,
-      "word": "新兵入伍下意识乘电梯老兵提醒走楼梯",
-      "onboard_time": 1695269797,
-      "rank": 45,
-      "category": "社会新闻,军事"
+      "raw_hot": 166429,
+      "num": 166429,
+      "word": "外企的管理 最顶级的PUA",
+      "onboard_time": 1695270277,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 163485,

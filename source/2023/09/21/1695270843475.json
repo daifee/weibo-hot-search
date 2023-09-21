@@ -1,0 +1,410 @@
+{
+  "runTime": 1695270843475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2127084,
+        "num": 2127084,
+        "word": "猎罪图鉴2官宣檀健次金世佳",
+        "onboard_time": 1695264994,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1574563,
+        "num": 1574563,
+        "word": "电视剧长风破浪官宣",
+        "onboard_time": 1695265114,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20079,
+        "num": 1204304,
+        "word": "世界都知道了杭州有多美",
+        "onboard_time": 1695216997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122173,
+        "num": 1122173,
+        "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+        "onboard_time": 1695267632,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 984993,
+        "num": 984993,
+        "word": "NIO Phone",
+        "onboard_time": 1695268232,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 916733,
+        "num": 916733,
+        "word": "Mate60不会放过每一个逃单的人",
+        "onboard_time": 1695267514,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 849081,
+        "num": 849081,
+        "word": "狐妖小红娘竹业篇首发阵容",
+        "onboard_time": 1695262892,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 767785,
+        "num": 767785,
+        "word": "赵又廷希望女儿长得像高圆圆",
+        "onboard_time": 1695256360,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763970,
+        "num": 763970,
+        "word": "换回国货后发现工资够用了",
+        "onboard_time": 1695268354,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414522,
+        "num": 747752,
+        "word": "33岁女子上老年大学兴趣班",
+        "onboard_time": 1695266254,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1613238,
+        "num": 718217,
+        "word": "没有李佳琦花西子会走向何处",
+        "onboard_time": 1695262354,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1144138,
+        "num": 717638,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 325679,
+        "num": 694659,
+        "word": "男子拍死隐翅虫多处溃烂5天未愈",
+        "onboard_time": 1695264514,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262562,
+        "num": 663032,
+        "word": "新疆没有海为什么能养海鲜",
+        "onboard_time": 1695259477,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 627778,
+        "word": "西北为什么是未来能源宝库",
+        "onboard_time": 1695268833,
+        "rank": 14,
+        "category": "知识科普,科技"
+      },
+      {
+        "raw_hot": 818389,
+        "num": 608591,
+        "word": "王权霸业改名王权弘业",
+        "onboard_time": 1695269797,
+        "rank": 15,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 603553,
+        "num": 603553,
+        "word": "许幻山 又是你",
+        "onboard_time": 1695258396,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542676,
+        "num": 542676,
+        "word": "五条悟台词 人设崩塌",
+        "onboard_time": 1695264454,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 510575,
+        "num": 510575,
+        "word": "猎罪图鉴2没加女主",
+        "onboard_time": 1695266616,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445413,
+        "num": 445413,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1695263073,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430851,
+        "num": 430851,
+        "word": "黄子诚姚瑶结婚了",
+        "onboard_time": 1695261214,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430226,
+        "num": 430226,
+        "word": "张大仙减重28斤",
+        "onboard_time": 1695262833,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 428148,
+        "num": 428148,
+        "word": "一念关山",
+        "onboard_time": 1695267036,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395574,
+        "num": 395574,
+        "word": "西安交大取消四六级学位证挂钩",
+        "onboard_time": 1695250823,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 383292,
+        "num": 383292,
+        "word": "TFBOYS为王俊凯新电影打call",
+        "onboard_time": 1695269559,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365777,
+        "num": 365777,
+        "word": "迪丽热巴秦岚花少5合照",
+        "onboard_time": 1695263795,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325717,
+        "num": 325717,
+        "word": "中国科学家在马里亚纳海沟发现新病毒",
+        "onboard_time": 1695270339,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 291254,
+        "num": 291254,
+        "word": "有单身信念的人更加容易遇到灵魂伴侣",
+        "onboard_time": 1695265655,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283774,
+        "num": 283774,
+        "word": "高度近视的人不要剧烈运动",
+        "onboard_time": 1695253957,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 260598,
+        "num": 280703,
+        "word": "山东的桃子都是oversize的",
+        "onboard_time": 1695269436,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378490,
+        "num": 280465,
+        "word": "花西子年薪63万招公关",
+        "onboard_time": 1695257197,
+        "rank": 30,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 280037,
+        "num": 280037,
+        "word": "隐翅虫",
+        "onboard_time": 1695266676,
+        "rank": 31,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 276722,
+        "num": 276722,
+        "word": "蔚来手机上市",
+        "onboard_time": 1695268115,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 259058,
+        "num": 259058,
+        "word": "电影志愿军第一部主要角色官宣",
+        "onboard_time": 1695269617,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235342,
+        "num": 235342,
+        "word": "日本对华食品出口暴跌41.2%",
+        "onboard_time": 1695257678,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230680,
+        "num": 230680,
+        "word": "新兵入伍下意识乘电梯老兵提醒走楼梯",
+        "onboard_time": 1695269797,
+        "rank": 35,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 226298,
+        "num": 226298,
+        "word": "女子把隐翅虫当蚊子拍死面部被灼伤",
+        "onboard_time": 1695266254,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216450,
+        "num": 216450,
+        "word": "北上",
+        "onboard_time": 1695267933,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214911,
+        "num": 214911,
+        "word": "那些kpop男团里的妹宝公主担当",
+        "onboard_time": 1695264695,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201277,
+        "num": 201277,
+        "word": "A股",
+        "onboard_time": 1695267036,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194825,
+        "num": 194825,
+        "word": "花西子年薪60万招品牌传播专家",
+        "onboard_time": 1695255996,
+        "rank": 40,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 193159,
+        "num": 193159,
+        "word": "歌手第几季的音乐性最强",
+        "onboard_time": 1695263315,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185656,
+        "num": 185656,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 42,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 183413,
+        "num": 183413,
+        "word": "傅首尔逐字逐句教张硕谈恋爱",
+        "onboard_time": 1695266793,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176435,
+        "num": 176435,
+        "word": "电影野孩子官宣",
+        "onboard_time": 1695259477,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167827,
+        "num": 167827,
+        "word": "咒术回战",
+        "onboard_time": 1695269196,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166429,
+        "num": 166429,
+        "word": "外企的管理 最顶级的PUA",
+        "onboard_time": 1695270277,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157343,
+        "num": 157343,
+        "word": "警方介入女生称实习被安排为男宾洗澡",
+        "onboard_time": 1695255219,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147799,
+        "num": 147799,
+        "word": "虞书欣父母公司被恢复执行",
+        "onboard_time": 1695224136,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138192,
+        "num": 138192,
+        "word": "周冬雨宋洋袁弘热搜定档",
+        "onboard_time": 1695265176,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记对他们的深切关爱#"
+    }
+  }
+}
