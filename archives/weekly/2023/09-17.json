@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695300612415,
+  "endTime": 1695302525942,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -225,6 +225,14 @@
       "onboard_time": 1695131078,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2324330,
+      "num": 2324330,
+      "word": "港星张智霖到警署协助调查",
+      "onboard_time": 1695300096,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2273918,
@@ -2355,6 +2363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 687913,
+      "num": 303697,
+      "word": "弟弟发了工资先给我了",
+      "onboard_time": 1695301777,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 687669,
       "num": 687669,
       "word": "林俊杰武汉抢票",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1695293019,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657930,
-      "num": 398429,
-      "word": "港星张智霖到警署协助调查",
-      "onboard_time": 1695300096,
-      "rank": 15,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 654638,
@@ -3561,6 +3569,14 @@
       "onboard_time": 1695184660,
       "rank": 13,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 522837,
+      "num": 296291,
+      "word": "成毅谈和张予曦三搭感受",
+      "onboard_time": 1695300698,
+      "rank": 23,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 522454,
@@ -4667,6 +4683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 410710,
+      "num": 410710,
+      "word": "第一次见到这么像陆毅的人",
+      "onboard_time": 1695299675,
+      "rank": 28,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 410646,
       "num": 410646,
       "word": "特斯拉市值一夜蒸发2117亿",
@@ -4705,6 +4729,14 @@
       "onboard_time": 1695264695,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404923,
+      "num": 298895,
+      "word": "学校发的军训服过于透气了",
+      "onboard_time": 1695298535,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 404894,
@@ -4793,14 +4825,6 @@
       "onboard_time": 1694874163,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 393961,
-      "num": 298895,
-      "word": "学校发的军训服过于透气了",
-      "onboard_time": 1695298535,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 393449,
@@ -5729,6 +5753,14 @@
       "onboard_time": 1695191736,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340131,
+      "num": 340131,
+      "word": "王鹤棣美拉德穿搭",
+      "onboard_time": 1695301059,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 339494,
@@ -7355,14 +7387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260884,
-      "num": 260884,
-      "word": "第一次见到这么像陆毅的人",
-      "onboard_time": 1695299675,
-      "rank": 28,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 260767,
       "num": 260767,
       "word": "0713吵架永远好笑",
@@ -7489,6 +7513,14 @@
       "onboard_time": 1695189158,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256471,
+      "num": 256471,
+      "word": "娜扎行走的黑玫瑰",
+      "onboard_time": 1695299557,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 256412,
@@ -7993,6 +8025,14 @@
       "onboard_time": 1695260314,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 236718,
+      "num": 236718,
+      "word": "劝新人上班不要太用力",
+      "onboard_time": 1695301777,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 236471,
@@ -8811,12 +8851,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214586,
+      "num": 214586,
+      "word": "誓约手术",
+      "onboard_time": 1695300275,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214585,
       "num": 214585,
       "word": "朝哪个方向拜能有这样的父母",
       "onboard_time": 1695265536,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214234,
+      "num": 415910,
+      "word": "救4人00后战士一等功喜报送到家",
+      "onboard_time": 1695300396,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 214012,
@@ -10499,14 +10555,6 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 177793,
-      "num": 177793,
-      "word": "誓约手术",
-      "onboard_time": 1695300275,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177379,
       "num": 177379,
       "word": "孝子杨玏",
@@ -10995,14 +11043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165159,
-      "num": 165159,
-      "word": "娜扎行走的黑玫瑰",
-      "onboard_time": 1695299557,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164685,
       "num": 164685,
       "word": "这些刷牙的坏习惯不要有",
@@ -11145,6 +11185,14 @@
       "onboard_time": 1694921434,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159587,
+      "num": 159587,
+      "word": "如何在成都点到干净卫生的外卖",
+      "onboard_time": 1695301235,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 159524,
@@ -11409,6 +11457,14 @@
       "onboard_time": 1695210454,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150950,
+      "num": 249965,
+      "word": "睿蓝7把600纯电续航打到了15万",
+      "onboard_time": 1695301059,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 150559,
@@ -12275,6 +12331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102904,
+      "num": 184742,
+      "word": "白象中国面传承中国荣耀",
+      "onboard_time": 1695302197,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102167,
       "num": 102167,
       "word": "00后民警第1次收到锦旗是汪星人送的",
@@ -12505,6 +12569,14 @@
       "onboard_time": 1694894894,
       "rank": 42,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 79889,
+      "num": 1364337,
+      "word": "来杭州看亚运吃什么",
+      "onboard_time": 1695300336,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 79393,
@@ -12971,14 +13043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 30169,
-      "num": 244620,
-      "word": "救4人00后战士一等功喜报送到家",
-      "onboard_time": 1695300396,
-      "rank": 29,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 29925,
       "num": 33503,
       "word": "AirPodsPro2测评",
@@ -13137,14 +13201,6 @@
       "onboard_time": 1695069732,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 15573,
-      "num": 1126620,
-      "word": "来杭州看亚运吃什么",
-      "onboard_time": 1695300336,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 15478,
