@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695278115684,
+  "endTime": 1695280555264,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -177,6 +177,14 @@
       "onboard_time": 1695171702,
       "rank": 31,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 2531859,
+      "num": 2531859,
+      "word": "只有朴彩英续约YG",
+      "onboard_time": 1695279219,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2501539,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 1868389,
-      "num": 819470,
+      "num": 1337183,
       "word": "34岁还没结婚是因为喜欢帅哥",
       "onboard_time": 1695273098,
       "rank": 35,
@@ -456,6 +464,14 @@
       "word": "花西子海外对标奢侈品",
       "onboard_time": 1695188437,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1813753,
+      "num": 1813753,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -664,14 +680,6 @@
       "word": "12306称不可能给第三方平台优先购票权",
       "onboard_time": 1695170504,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1465186,
-      "num": 1465186,
-      "word": "中国又一特大城市诞生",
-      "onboard_time": 1695274417,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -945,6 +953,14 @@
       "onboard_time": 1694959836,
       "rank": 20,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1215092,
+      "num": 1215092,
+      "word": "少爷和我",
+      "onboard_time": 1695278073,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1212884,
@@ -1827,6 +1843,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 768702,
+      "num": 768702,
+      "word": "张小斐这段真的给我难受死了",
+      "onboard_time": 1695277475,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 764065,
       "num": 764065,
       "word": "赵丽颖带火蟳埔女文化",
@@ -2059,6 +2083,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 710170,
+      "num": 472698,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709188,
       "num": 471169,
       "word": "全智贤好像真的不会老",
@@ -2161,6 +2193,14 @@
       "onboard_time": 1695033275,
       "rank": 44,
       "category": "数码,社会新闻"
+    },
+    {
+      "raw_hot": 694498,
+      "num": 467508,
+      "word": "YG称BLACKPINK的续约还没有确定",
+      "onboard_time": 1695279876,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 693522,
@@ -2467,14 +2507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 642156,
-      "num": 345006,
-      "word": "太子奶",
-      "onboard_time": 1695275015,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 641417,
       "num": 641417,
       "word": "把面粉倒进滚烫的开水里",
@@ -2683,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 601212,
+      "num": 381176,
+      "word": "不好好读书公司礼盒是这样的",
+      "onboard_time": 1695279155,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600978,
       "num": 410179,
       "word": "酱香开塞露",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1695008315,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 596282,
+      "num": 443452,
+      "word": "刘亚仁白发",
+      "onboard_time": 1695279395,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 596114,
@@ -3075,6 +3123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 547973,
+      "num": 547973,
+      "word": "躲雨的大熊猫已被送往救助站",
+      "onboard_time": 1695278256,
+      "rank": 7,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 546730,
       "num": 546730,
       "word": "被拐28年最后她亲手把人贩子送上法庭",
@@ -3160,6 +3216,14 @@
       "word": "2024优酷片单",
       "onboard_time": 1695175776,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 538127,
+      "num": 538127,
+      "word": "被杨幂美到的一个镜头",
+      "onboard_time": 1695279936,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -3675,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480808,
+      "num": 376018,
+      "word": "你要iPhone15还是华为mate60",
+      "onboard_time": 1695279634,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 480465,
       "num": 339204,
       "word": "原来刷牙是刷牙龈",
@@ -3955,14 +4027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 444490,
-      "num": 444490,
-      "word": "少爷和我",
-      "onboard_time": 1695278073,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 443305,
       "num": 443305,
       "word": "广东人吃微微辣的面",
@@ -4129,14 +4193,6 @@
       "onboard_time": 1695116075,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424470,
-      "num": 424470,
-      "word": "张小斐这段真的给我难受死了",
-      "onboard_time": 1695277475,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 424335,
@@ -4465,6 +4521,14 @@
       "onboard_time": 1695001591,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391901,
+      "num": 391901,
+      "word": "白色橄榄树",
+      "onboard_time": 1695275196,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 390854,
@@ -5091,6 +5155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 353160,
+      "num": 353160,
+      "word": "奶茶杯真的很适合租房人",
+      "onboard_time": 1695279755,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352597,
       "num": 352597,
       "word": "谢娜去看了刘雨昕演唱会",
@@ -5139,14 +5211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 348804,
-      "num": 348804,
-      "word": "白色橄榄树",
-      "onboard_time": 1695275196,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 348191,
       "num": 348191,
       "word": "二公子罗成是懂当老板的",
@@ -5156,7 +5220,7 @@
     },
     {
       "raw_hot": 347558,
-      "num": 408836,
+      "num": 455424,
       "word": "一觉醒来大熊猫主动送上门",
       "onboard_time": 1695273816,
       "rank": 40,
@@ -5577,6 +5641,14 @@
       "onboard_time": 1695124477,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322851,
+      "num": 249609,
+      "word": "人在工位了面试官告诉我招错人了",
+      "onboard_time": 1695279335,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 322745,
@@ -6033,6 +6105,14 @@
       "onboard_time": 1694997396,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295675,
+      "num": 295675,
+      "word": "西安的碳水根本吃不完",
+      "onboard_time": 1695279093,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 295475,
@@ -6964,7 +7044,7 @@
     },
     {
       "raw_hot": 254429,
-      "num": 1391975,
+      "num": 1506828,
       "word": "杭州亚运将上演奥运级别巅峰对决",
       "onboard_time": 1695256477,
       "rank": 12,
@@ -7177,6 +7257,14 @@
       "onboard_time": 1695200557,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245462,
+      "num": 245462,
+      "word": "蔚来手机售价6499元起",
+      "onboard_time": 1695279335,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 245369,
@@ -7883,6 +7971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222623,
+      "num": 222623,
+      "word": "我妈说我装了一个公厕",
+      "onboard_time": 1695279755,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222438,
       "num": 210021,
       "word": "当男友说拍了张水下唯美照",
@@ -8201,6 +8297,14 @@
       "onboard_time": 1695111995,
       "rank": 42,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 213100,
+      "num": 213100,
+      "word": "种地吧",
+      "onboard_time": 1695279395,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 213080,
@@ -8531,6 +8635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204047,
+      "num": 204047,
+      "word": "沪指失守3100点",
+      "onboard_time": 1695280175,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203932,
       "num": 203932,
       "word": "张靓颖光2023巡回演唱会",
@@ -8593,6 +8705,14 @@
       "onboard_time": 1695085298,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202458,
+      "num": 194514,
+      "word": "赵丽颖鎏金深V",
+      "onboard_time": 1695280175,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202326,
@@ -8793,6 +8913,14 @@
       "onboard_time": 1695136961,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198228,
+      "num": 198228,
+      "word": "菲律宾机场安检员偷中国乘客钱财",
+      "onboard_time": 1695277594,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198116,
@@ -9011,6 +9139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193180,
+      "num": 193180,
+      "word": "微博音乐盛典第三波阵容来了",
+      "onboard_time": 1695279817,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193099,
       "num": 193099,
       "word": "云之羽温峥嵘演技",
@@ -9145,6 +9281,22 @@
       "onboard_time": 1695045340,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190697,
+      "num": 190697,
+      "word": "当i人和e人在一起工作",
+      "onboard_time": 1695279695,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190519,
+      "num": 190519,
+      "word": "这居然是何运晨的食量",
+      "onboard_time": 1695280357,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 190199,
@@ -10107,6 +10259,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 165709,
+      "num": 165709,
+      "word": "配餐公司环境脏乱家长扎堆送饭",
+      "onboard_time": 1695279936,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165304,
       "num": 165304,
       "word": "确实看不见汪苏泷脸上的挣扎",
@@ -10923,14 +11083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136308,
-      "num": 136308,
-      "word": "菲律宾机场安检员偷中国乘客钱财",
-      "onboard_time": 1695277594,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136202,
       "num": 136202,
       "word": "宫子羽会等云为衫吗",
@@ -11739,6 +11891,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 62114,
+      "num": 194604,
+      "word": "高能英雄的风吹到了海外",
+      "onboard_time": 1695279817,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61416,
       "num": 61416,
       "word": "煤气师傅凌晨捡到走失男孩交给警察",
@@ -12097,6 +12257,14 @@
       "onboard_time": 1694940033,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23049,
+      "num": 451754,
+      "word": "最令人热血沸腾的夺冠时刻",
+      "onboard_time": 1695279634,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 22322,

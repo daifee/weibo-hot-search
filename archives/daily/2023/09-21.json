@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695278115684,
+  "endTime": 1695280555264,
   "band_list": [
     {
       "raw_hot": 3345480,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2531859,
+      "num": 2531859,
+      "word": "只有朴彩英续约YG",
+      "onboard_time": 1695279219,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2076685,
       "num": 1139937,
       "word": "花西子年薪63万招公关",
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 1868389,
-      "num": 819470,
+      "num": 1337183,
       "word": "34岁还没结婚是因为喜欢帅哥",
       "onboard_time": 1695273098,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1813753,
+      "num": 1813753,
+      "word": "中国又一特大城市诞生",
+      "onboard_time": 1695274417,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1759113,
@@ -83,14 +99,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1465186,
-      "num": 1465186,
-      "word": "中国又一特大城市诞生",
-      "onboard_time": 1695274417,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1457666,
       "num": 470356,
       "word": "iPhone14ProMax变最保值iPhone",
@@ -121,6 +129,14 @@
       "onboard_time": 1695267632,
       "rank": 6,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1215092,
+      "num": 1215092,
+      "word": "少爷和我",
+      "onboard_time": 1695278073,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1195920,
@@ -259,6 +275,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 768702,
+      "num": 768702,
+      "word": "张小斐这段真的给我难受死了",
+      "onboard_time": 1695277475,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 763893,
       "num": 763893,
       "word": "狐妖小红娘月红篇",
@@ -275,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710170,
+      "num": 472698,
+      "word": "太子奶",
+      "onboard_time": 1695275015,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697702,
       "num": 697702,
       "word": "日本对华食品出口暴跌41.2%",
       "onboard_time": 1695257678,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694498,
+      "num": 467508,
+      "word": "YG称BLACKPINK的续约还没有确定",
+      "onboard_time": 1695279876,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 669584,
@@ -307,14 +347,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 642156,
-      "num": 345006,
-      "word": "太子奶",
-      "onboard_time": 1695275015,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 631686,
       "num": 631686,
       "word": "被钱砸中的刘亚仁",
@@ -329,6 +361,22 @@
       "onboard_time": 1695205897,
       "rank": 15,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 601212,
+      "num": 381176,
+      "word": "不好好读书公司礼盒是这样的",
+      "onboard_time": 1695279155,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 596282,
+      "num": 443452,
+      "word": "刘亚仁白发",
+      "onboard_time": 1695279395,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 592154,
@@ -411,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 547973,
+      "num": 547973,
+      "word": "躲雨的大熊猫已被送往救助站",
+      "onboard_time": 1695278256,
+      "rank": 7,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 546283,
       "num": 286636,
       "word": "李佳琦直播间仍有千万观看",
       "onboard_time": 1695203796,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 538127,
+      "num": 538127,
+      "word": "被杨幂美到的一个镜头",
+      "onboard_time": 1695279936,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 515424,
@@ -459,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480808,
+      "num": 376018,
+      "word": "你要iPhone15还是华为mate60",
+      "onboard_time": 1695279634,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 456484,
       "num": 324836,
       "word": "韩庚问魏大勋为啥叫宝宝",
       "onboard_time": 1695261931,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 444490,
-      "num": 444490,
-      "word": "少爷和我",
-      "onboard_time": 1695278073,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 442306,
@@ -497,14 +561,6 @@
       "onboard_time": 1695195758,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424470,
-      "num": 424470,
-      "word": "张小斐这段真的给我难受死了",
-      "onboard_time": 1695277475,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 423208,
@@ -579,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391901,
+      "num": 391901,
+      "word": "白色橄榄树",
+      "onboard_time": 1695275196,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384677,
       "num": 689383,
       "word": "新疆没有海为什么能养海鲜",
@@ -643,16 +707,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348804,
-      "num": 348804,
-      "word": "白色橄榄树",
-      "onboard_time": 1695275196,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 353160,
+      "num": 353160,
+      "word": "奶茶杯真的很适合租房人",
+      "onboard_time": 1695279755,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 347558,
-      "num": 408836,
+      "num": 455424,
       "word": "一觉醒来大熊猫主动送上门",
       "onboard_time": 1695273816,
       "rank": 40,
@@ -697,6 +761,14 @@
       "onboard_time": 1695262534,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322851,
+      "num": 249609,
+      "word": "人在工位了面试官告诉我招错人了",
+      "onboard_time": 1695279335,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 320495,
@@ -761,6 +833,14 @@
       "onboard_time": 1695221917,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295675,
+      "num": 295675,
+      "word": "西安的碳水根本吃不完",
+      "onboard_time": 1695279093,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 292157,
@@ -892,11 +972,19 @@
     },
     {
       "raw_hot": 254429,
-      "num": 1391975,
+      "num": 1506828,
       "word": "杭州亚运将上演奥运级别巅峰对决",
       "onboard_time": 1695256477,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245462,
+      "num": 245462,
+      "word": "蔚来手机售价6499元起",
+      "onboard_time": 1695279335,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 245313,
@@ -1003,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222623,
+      "num": 222623,
+      "word": "我妈说我装了一个公厕",
+      "onboard_time": 1695279755,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221561,
       "num": 221561,
       "word": "丈夫如厕常不关门妻子下跪磕头恳求",
@@ -1040,6 +1136,14 @@
       "word": "朝哪个方向拜能有这样的父母",
       "onboard_time": 1695265536,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213100,
+      "num": 213100,
+      "word": "种地吧",
+      "onboard_time": 1695279395,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1107,12 +1211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204047,
+      "num": 204047,
+      "word": "沪指失守3100点",
+      "onboard_time": 1695280175,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203796,
       "num": 203796,
       "word": "咒术回战",
       "onboard_time": 1695269196,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 202458,
+      "num": 194514,
+      "word": "赵丽颖鎏金深V",
+      "onboard_time": 1695280175,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201461,
@@ -1129,6 +1249,14 @@
       "onboard_time": 1695262233,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198228,
+      "num": 198228,
+      "word": "菲律宾机场安检员偷中国乘客钱财",
+      "onboard_time": 1695277594,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196585,
@@ -1163,6 +1291,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 193180,
+      "num": 193180,
+      "word": "微博音乐盛典第三波阵容来了",
+      "onboard_time": 1695279817,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191316,
       "num": 191316,
       "word": "念无双唐嫣刘学义片花",
@@ -1177,6 +1313,22 @@
       "onboard_time": 1695250944,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190697,
+      "num": 190697,
+      "word": "当i人和e人在一起工作",
+      "onboard_time": 1695279695,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190519,
+      "num": 190519,
+      "word": "这居然是何运晨的食量",
+      "onboard_time": 1695280357,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 190199,
@@ -1281,6 +1433,14 @@
       "onboard_time": 1695220538,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 165709,
+      "num": 165709,
+      "word": "配餐公司环境脏乱家长扎堆送饭",
+      "onboard_time": 1695279936,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164685,
@@ -1449,14 +1609,6 @@
       "onboard_time": 1695259178,
       "rank": 46,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 136308,
-      "num": 136308,
-      "word": "菲律宾机场安检员偷中国乘客钱财",
-      "onboard_time": 1695277594,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134741,
@@ -1643,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62114,
+      "num": 194604,
+      "word": "高能英雄的风吹到了海外",
+      "onboard_time": 1695279817,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59875,
       "num": 290116,
       "word": "国内成品油价年内第十涨",
@@ -1689,6 +1849,14 @@
       "onboard_time": 1695238034,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23049,
+      "num": 451754,
+      "word": "最令人热血沸腾的夺冠时刻",
+      "onboard_time": 1695279634,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 20922,
