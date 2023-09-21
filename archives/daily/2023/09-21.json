@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695261844208,
+  "endTime": 1695262903183,
   "band_list": [
     {
       "raw_hot": 2833512,
@@ -33,6 +33,14 @@
       "onboard_time": 1695250823,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1457666,
+      "num": 470356,
+      "word": "iPhone14ProMax变最保值iPhone",
+      "onboard_time": 1695260674,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 1437493,
@@ -99,16 +107,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1034514,
-      "num": 470356,
-      "word": "iPhone14ProMax变最保值iPhone",
-      "onboard_time": 1695260674,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 914503,
-      "num": 914503,
+      "raw_hot": 935885,
+      "num": 935885,
       "word": "许幻山 又是你",
       "onboard_time": 1695258396,
       "rank": 27,
@@ -121,6 +121,14 @@
       "onboard_time": 1695222577,
       "rank": 11,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 834327,
+      "num": 834327,
+      "word": "黄子诚姚瑶结婚了",
+      "onboard_time": 1695261214,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 771845,
@@ -243,12 +251,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 408799,
-      "num": 408799,
-      "word": "黄子诚姚瑶结婚了",
-      "onboard_time": 1695261214,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 400873,
+      "num": 400873,
+      "word": "长时间用电脑后洗把脸",
+      "onboard_time": 1695261396,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 391910,
@@ -259,12 +267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387680,
+      "num": 365251,
+      "word": "没有李佳琦花西子会走向何处",
+      "onboard_time": 1695262354,
+      "rank": 17,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 382080,
       "num": 382080,
       "word": "特工任务女研究生帮间谍偷样本",
       "onboard_time": 1695224256,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371615,
+      "num": 448111,
+      "word": "新疆没有海为什么能养海鲜",
+      "onboard_time": 1695259477,
+      "rank": 39,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 367735,
@@ -299,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342243,
+      "num": 342243,
+      "word": "颜心记",
+      "onboard_time": 1695262354,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331383,
       "num": 331383,
       "word": "职校女生称实习被安排为男宾洗澡",
       "onboard_time": 1695255219,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 324836,
+      "num": 324836,
+      "word": "韩庚问魏大勋为啥叫宝宝",
+      "onboard_time": 1695261931,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 320495,
@@ -363,12 +403,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 277033,
-      "num": 448111,
-      "word": "新疆没有海为什么能养海鲜",
-      "onboard_time": 1695259477,
-      "rank": 39,
-      "category": "社会新闻,美食"
+      "raw_hot": 267433,
+      "num": 267433,
+      "word": "狐妖小红娘竹业篇首发阵容",
+      "onboard_time": 1695262892,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 266094,
@@ -377,6 +417,14 @@
       "onboard_time": 1695253957,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 261389,
+      "num": 261389,
+      "word": "四方馆",
+      "onboard_time": 1695262654,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 259304,
@@ -411,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245313,
+      "num": 245313,
+      "word": "王俊凯新片野孩子双视角海报",
+      "onboard_time": 1695261454,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240441,
       "num": 240441,
       "word": "羊了个羊",
@@ -425,14 +481,6 @@
       "onboard_time": 1695240674,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238074,
-      "num": 210199,
-      "word": "长时间用电脑后洗把脸",
-      "onboard_time": 1695261396,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 236824,
@@ -451,12 +499,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233280,
+      "num": 233280,
+      "word": "跟千玺回家感受诗画洪江",
+      "onboard_time": 1695261813,
+      "rank": 32,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 228681,
       "num": 228681,
       "word": "拜仁慕尼黑4比3曼联",
       "onboard_time": 1695251488,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224811,
+      "num": 212841,
+      "word": "网传某医院领导因家中被盗大量现金被查",
+      "onboard_time": 1695262534,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223155,
@@ -483,14 +547,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208939,
-      "num": 208939,
-      "word": "跟千玺回家感受诗画洪江",
-      "onboard_time": 1695261813,
-      "rank": 32,
-      "category": "旅游,艺人"
-    },
-    {
       "raw_hot": 208679,
       "num": 208679,
       "word": "千万不要闻脱下来的袜子",
@@ -507,12 +563,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205565,
+      "num": 205565,
+      "word": "孤舟",
+      "onboard_time": 1695261754,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204515,
       "num": 204515,
       "word": "老刘再次对着傅首尔唱出十五年前的歌",
       "onboard_time": 1695218676,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200288,
+      "num": 200288,
+      "word": "孤舟全阵容官宣剧照",
+      "onboard_time": 1695262233,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 196585,
@@ -545,14 +617,6 @@
       "onboard_time": 1695250823,
       "rank": 35,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 191787,
-      "num": 191787,
-      "word": "王俊凯新片野孩子双视角海报",
-      "onboard_time": 1695261454,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 191316,
@@ -609,14 +673,6 @@
       "onboard_time": 1695218738,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167586,
-      "num": 167586,
-      "word": "孤舟",
-      "onboard_time": 1695261754,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 167138,
@@ -809,6 +865,14 @@
       "onboard_time": 1695218619,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120848,
+      "num": 120848,
+      "word": "张大仙减重28斤",
+      "onboard_time": 1695262833,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 120260,

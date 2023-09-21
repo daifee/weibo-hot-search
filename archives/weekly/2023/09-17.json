@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695261844208,
+  "endTime": 1695262903183,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -627,6 +627,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1457666,
+      "num": 470356,
+      "word": "iPhone14ProMax变最保值iPhone",
+      "onboard_time": 1695260674,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1448431,
       "num": 1448431,
       "word": "国足亚运队5比1印度",
@@ -1139,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1034514,
-      "num": 470356,
-      "word": "iPhone14ProMax变最保值iPhone",
-      "onboard_time": 1695260674,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1027193,
       "num": 1027193,
       "word": "杨鸣卸任辽宁男篮主教练",
@@ -1291,6 +1291,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 935885,
+      "num": 935885,
+      "word": "许幻山 又是你",
+      "onboard_time": 1695258396,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 925701,
       "num": 925701,
       "word": "不经意却很伤头发的行为",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1695034654,
       "rank": 19,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 914503,
-      "num": 914503,
-      "word": "许幻山 又是你",
-      "onboard_time": 1695258396,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 909082,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1695215074,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 834327,
+      "num": 834327,
+      "word": "黄子诚姚瑶结婚了",
+      "onboard_time": 1695261214,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 833375,
@@ -4043,14 +4051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 408799,
-      "num": 408799,
-      "word": "黄子诚姚瑶结婚了",
-      "onboard_time": 1695261214,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 408765,
       "num": 408765,
       "word": "金熊猫奖获奖名单",
@@ -4081,6 +4081,14 @@
       "onboard_time": 1695166955,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400873,
+      "num": 400873,
+      "word": "长时间用电脑后洗把脸",
+      "onboard_time": 1695261396,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 400597,
@@ -4161,6 +4169,14 @@
       "onboard_time": 1695185979,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387680,
+      "num": 365251,
+      "word": "没有李佳琦花西子会走向何处",
+      "onboard_time": 1695262354,
+      "rank": 17,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 387642,
@@ -4393,6 +4409,14 @@
       "onboard_time": 1695177635,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371615,
+      "num": 448111,
+      "word": "新疆没有海为什么能养海鲜",
+      "onboard_time": 1695259477,
+      "rank": 39,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 371387,
@@ -4875,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342243,
+      "num": 342243,
+      "word": "颜心记",
+      "onboard_time": 1695030577,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342209,
       "num": 342209,
       "word": "孤注一掷票房破38亿",
@@ -5137,6 +5169,14 @@
       "onboard_time": 1695207456,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324836,
+      "num": 324836,
+      "word": "韩庚问魏大勋为啥叫宝宝",
+      "onboard_time": 1695261931,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 324676,
@@ -5963,14 +6003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277033,
-      "num": 448111,
-      "word": "新疆没有海为什么能养海鲜",
-      "onboard_time": 1695259477,
-      "rank": 39,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 276995,
       "num": 276995,
       "word": "朋友找一路的蛋挞插在我伞上",
@@ -6219,6 +6251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267433,
+      "num": 267433,
+      "word": "狐妖小红娘竹业篇首发阵容",
+      "onboard_time": 1695262892,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267265,
       "num": 346648,
       "word": "美军方称中国造舰产能是美国的232倍",
@@ -6329,6 +6369,14 @@
       "onboard_time": 1694992648,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 261389,
+      "num": 261389,
+      "word": "四方馆",
+      "onboard_time": 1695262654,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 261043,
@@ -6515,14 +6563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 253065,
-      "num": 253065,
-      "word": "颜心记",
-      "onboard_time": 1695030577,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253053,
       "num": 253053,
       "word": "尤长靖演唱会嘉宾是彭昱畅",
@@ -6707,6 +6747,14 @@
       "category": "社会新闻,数码"
     },
     {
+      "raw_hot": 245313,
+      "num": 245313,
+      "word": "王俊凯新片野孩子双视角海报",
+      "onboard_time": 1695261454,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245188,
       "num": 245188,
       "word": "江苏龙卷风已致10人死亡",
@@ -6865,14 +6913,6 @@
       "onboard_time": 1695240674,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238074,
-      "num": 210199,
-      "word": "长时间用电脑后洗把脸",
-      "onboard_time": 1695261396,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 237855,
@@ -7057,6 +7097,14 @@
       "onboard_time": 1695093934,
       "rank": 30,
       "category": "国内要闻,电影"
+    },
+    {
+      "raw_hot": 233280,
+      "num": 233280,
+      "word": "跟千玺回家感受诗画洪江",
+      "onboard_time": 1695261813,
+      "rank": 32,
+      "category": "旅游,艺人"
     },
     {
       "raw_hot": 232575,
@@ -7249,6 +7297,14 @@
       "onboard_time": 1695104255,
       "rank": 45,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 224811,
+      "num": 212841,
+      "word": "网传某医院领导因家中被盗大量现金被查",
+      "onboard_time": 1695262534,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224491,
@@ -7763,14 +7819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208939,
-      "num": 208939,
-      "word": "跟千玺回家感受诗画洪江",
-      "onboard_time": 1695261813,
-      "rank": 32,
-      "category": "旅游,艺人"
-    },
-    {
       "raw_hot": 208304,
       "num": 208304,
       "word": "新华为平板成首款星闪产品",
@@ -7881,6 +7929,14 @@
       "onboard_time": 1695182978,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205565,
+      "num": 205565,
+      "word": "孤舟",
+      "onboard_time": 1695261754,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 205460,
@@ -8089,6 +8145,14 @@
       "onboard_time": 1694955819,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200288,
+      "num": 200288,
+      "word": "孤舟全阵容官宣剧照",
+      "onboard_time": 1695262233,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 200220,
@@ -8481,14 +8545,6 @@
       "onboard_time": 1695040175,
       "rank": 43,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 191787,
-      "num": 191787,
-      "word": "王俊凯新片野孩子双视角海报",
-      "onboard_time": 1695261454,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 191774,
@@ -9409,14 +9465,6 @@
       "onboard_time": 1694943211,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167586,
-      "num": 167586,
-      "word": "孤舟",
-      "onboard_time": 1695261754,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 167370,
@@ -10529,6 +10577,14 @@
       "onboard_time": 1695111758,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120848,
+      "num": 120848,
+      "word": "张大仙减重28斤",
+      "onboard_time": 1695262833,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 120789,
