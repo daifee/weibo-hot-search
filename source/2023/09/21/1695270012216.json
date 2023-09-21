@@ -1,0 +1,410 @@
+{
+  "runTime": 1695270012216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2201737,
+        "num": 2201737,
+        "word": "猎罪图鉴2官宣檀健次金世佳",
+        "onboard_time": 1695264994,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1043503,
+        "num": 1043503,
+        "word": "电视剧长风破浪官宣",
+        "onboard_time": 1695265114,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20257,
+        "num": 1038952,
+        "word": "世界都知道了杭州有多美",
+        "onboard_time": 1695216997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038952,
+        "num": 1038952,
+        "word": "狐妖小红娘竹业篇首发阵容",
+        "onboard_time": 1695262892,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 960766,
+        "num": 960766,
+        "word": "Mate60不会放过每一个逃单的人",
+        "onboard_time": 1695267514,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 922292,
+        "num": 922292,
+        "word": "NIO Phone",
+        "onboard_time": 1695268232,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 806644,
+        "num": 806644,
+        "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+        "onboard_time": 1695267632,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 791315,
+        "num": 791315,
+        "word": "赵又廷希望女儿长得像高圆圆",
+        "onboard_time": 1695256360,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534215,
+        "num": 780668,
+        "word": "换回国货后发现工资够用了",
+        "onboard_time": 1695268354,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 506996,
+        "num": 766276,
+        "word": "33岁女子上老年大学兴趣班",
+        "onboard_time": 1695266254,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1656523,
+        "num": 747401,
+        "word": "没有李佳琦花西子会走向何处",
+        "onboard_time": 1695262354,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1078972,
+        "num": 738288,
+        "word": "花西子创始人送1万份眉笔",
+        "onboard_time": 1695252812,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 382172,
+        "num": 711706,
+        "word": "男子拍死隐翅虫多处溃烂5天未愈",
+        "onboard_time": 1695264514,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237244,
+        "num": 689383,
+        "word": "新疆没有海为什么能养海鲜",
+        "onboard_time": 1695259477,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 133327,
+        "num": 669598,
+        "word": "西北为什么是未来能源宝库",
+        "onboard_time": 1695268833,
+        "rank": 14,
+        "category": "知识科普,科技"
+      },
+      {
+        "raw_hot": 669584,
+        "num": 669584,
+        "word": "猎罪图鉴2没加女主",
+        "onboard_time": 1695266616,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667030,
+        "num": 667030,
+        "word": "五条悟台词 人设崩塌",
+        "onboard_time": 1695264454,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 577639,
+        "num": 577639,
+        "word": "张大仙减重28斤",
+        "onboard_time": 1695262833,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 572759,
+        "num": 572759,
+        "word": "许幻山 又是你",
+        "onboard_time": 1695258396,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520556,
+        "num": 520556,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1695263073,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476610,
+        "num": 476610,
+        "word": "西安交大取消四六级学位证挂钩",
+        "onboard_time": 1695250823,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 443409,
+        "num": 443409,
+        "word": "王权霸业改名王权弘业",
+        "onboard_time": 1695269797,
+        "rank": 21,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 434848,
+        "num": 434848,
+        "word": "迪丽热巴秦岚花少5合照",
+        "onboard_time": 1695263795,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415159,
+        "num": 415159,
+        "word": "一念关山",
+        "onboard_time": 1695267036,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371531,
+        "num": 371531,
+        "word": "蔚来手机上市",
+        "onboard_time": 1695268115,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 367153,
+        "num": 367153,
+        "word": "有单身信念的人更加容易遇到灵魂伴侣",
+        "onboard_time": 1695265655,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358166,
+        "num": 358166,
+        "word": "黄子诚姚瑶结婚了",
+        "onboard_time": 1695261214,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336031,
+        "num": 336031,
+        "word": "高度近视的人不要剧烈运动",
+        "onboard_time": 1695253957,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 292157,
+        "num": 292157,
+        "word": "电影志愿军第一部主要角色官宣",
+        "onboard_time": 1695269617,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268617,
+        "num": 281975,
+        "word": "日本对华食品出口暴跌41.2%",
+        "onboard_time": 1695257678,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508873,
+        "num": 280434,
+        "word": "花西子年薪63万招公关",
+        "onboard_time": 1695257197,
+        "rank": 30,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 275593,
+        "num": 275593,
+        "word": "QQ空间相册里的韩庚",
+        "onboard_time": 1695264156,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269689,
+        "num": 269689,
+        "word": "北上",
+        "onboard_time": 1695267933,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268168,
+        "num": 268168,
+        "word": "TFBOYS为王俊凯新电影打call",
+        "onboard_time": 1695269559,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258019,
+        "num": 258019,
+        "word": "山东的桃子都是oversize的",
+        "onboard_time": 1695269436,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255887,
+        "num": 255887,
+        "word": "隐翅虫",
+        "onboard_time": 1695266676,
+        "rank": 35,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 248967,
+        "num": 248967,
+        "word": "那些kpop男团里的妹宝公主担当",
+        "onboard_time": 1695264695,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215064,
+        "num": 215064,
+        "word": "傅首尔逐字逐句教张硕谈恋爱",
+        "onboard_time": 1695266793,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213230,
+        "num": 213230,
+        "word": "女子把隐翅虫当蚊子拍死面部被灼伤",
+        "onboard_time": 1695266254,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212010,
+        "num": 212010,
+        "word": "A股",
+        "onboard_time": 1695267036,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203796,
+        "num": 203796,
+        "word": "咒术回战",
+        "onboard_time": 1695269196,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197313,
+        "num": 197313,
+        "word": "歌手第几季的音乐性最强",
+        "onboard_time": 1695263315,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192521,
+        "num": 192521,
+        "word": "花西子年薪60万招品牌传播专家",
+        "onboard_time": 1695255996,
+        "rank": 42,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 176922,
+        "num": 176922,
+        "word": "王俊凯的OOTD",
+        "onboard_time": 1695266314,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182139,
+        "num": 171316,
+        "word": "花西子离职公关称声明像小学生作文",
+        "onboard_time": 1695205897,
+        "rank": 44,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 163690,
+        "num": 163690,
+        "word": "新兵入伍下意识乘电梯老兵提醒走楼梯",
+        "onboard_time": 1695269797,
+        "rank": 45,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 220300,
+        "num": 162248,
+        "word": "王鹤棣勇闯游戏世界",
+        "onboard_time": 1695266133,
+        "rank": 46,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 156179,
+        "num": 156179,
+        "word": "男子用一张照片索赔多个商户",
+        "onboard_time": 1695267755,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155627,
+        "num": 155627,
+        "word": "警方介入女生称实习被安排为男宾洗澡",
+        "onboard_time": 1695255219,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150829,
+        "num": 150829,
+        "word": "长时间用电脑后洗把脸",
+        "onboard_time": 1695261396,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记对他们的深切关爱#"
+    }
+  }
+}

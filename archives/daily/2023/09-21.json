@@ -1,6 +1,6 @@
 {
   "startTime": 1695226949042,
-  "endTime": 1695267246048,
+  "endTime": 1695270012216,
   "band_list": [
     {
       "raw_hot": 2833512,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1759113,
-      "num": 543833,
+      "num": 747401,
       "word": "没有李佳琦花西子会走向何处",
       "onboard_time": 1695262354,
       "rank": 17,
@@ -131,6 +131,22 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1043503,
+      "num": 1043503,
+      "word": "电视剧长风破浪官宣",
+      "onboard_time": 1695265114,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 960766,
+      "num": 960766,
+      "word": "Mate60不会放过每一个逃单的人",
+      "onboard_time": 1695267514,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 935885,
       "num": 935885,
       "word": "许幻山 又是你",
@@ -139,8 +155,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 922292,
+      "num": 922292,
+      "word": "NIO Phone",
+      "onboard_time": 1695268232,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 901711,
-      "num": 540647,
+      "num": 711706,
       "word": "男子拍死隐翅虫多处溃烂5天未愈",
       "onboard_time": 1695264514,
       "rank": 11,
@@ -161,6 +185,14 @@
       "onboard_time": 1695261214,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 806644,
+      "num": 806644,
+      "word": "终于弄清瑜伽裤和鲨鱼裤的区别",
+      "onboard_time": 1695267632,
+      "rank": 6,
+      "category": "时尚"
     },
     {
       "raw_hot": 771845,
@@ -195,12 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692973,
-      "num": 692973,
-      "word": "电视剧长风破浪官宣",
-      "onboard_time": 1695265114,
-      "rank": 20,
+      "raw_hot": 669584,
+      "num": 669584,
+      "word": "猎罪图鉴2没加女主",
+      "onboard_time": 1695266616,
+      "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 667030,
+      "num": 667030,
+      "word": "五条悟台词 人设崩塌",
+      "onboard_time": 1695264454,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 666204,
@@ -209,14 +249,6 @@
       "onboard_time": 1695256178,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 617778,
-      "num": 617778,
-      "word": "五条悟台词 人设崩塌",
-      "onboard_time": 1695264454,
-      "rank": 8,
-      "category": "动漫"
     },
     {
       "raw_hot": 615159,
@@ -251,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 577639,
+      "num": 577639,
+      "word": "张大仙减重28斤",
+      "onboard_time": 1695262833,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 559365,
       "num": 559365,
       "word": "北极兔cp",
       "onboard_time": 1695220720,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554202,
-      "num": 532450,
-      "word": "张大仙减重28斤",
-      "onboard_time": 1695262833,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 548199,
@@ -283,6 +315,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 534215,
+      "num": 780668,
+      "word": "换回国货后发现工资够用了",
+      "onboard_time": 1695268354,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 515424,
       "num": 283651,
       "word": "iPhone15拍人更好看",
@@ -299,6 +339,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 506996,
+      "num": 766276,
+      "word": "33岁女子上老年大学兴趣班",
+      "onboard_time": 1695266254,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 496505,
       "num": 383851,
       "word": "月薪6000小伙为见女主播打赏9000万元",
@@ -313,6 +361,14 @@
       "onboard_time": 1695261931,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443409,
+      "num": 443409,
+      "word": "王权霸业改名王权弘业",
+      "onboard_time": 1695269797,
+      "rank": 21,
+      "category": "剧集,动漫"
     },
     {
       "raw_hot": 442306,
@@ -347,11 +403,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 417269,
-      "num": 417269,
-      "word": "猎罪图鉴2没加女主",
-      "onboard_time": 1695266616,
-      "rank": 21,
+      "raw_hot": 415159,
+      "num": 415159,
+      "word": "一念关山",
+      "onboard_time": 1695267036,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -380,7 +436,7 @@
     },
     {
       "raw_hot": 384677,
-      "num": 536536,
+      "num": 689383,
       "word": "新疆没有海为什么能养海鲜",
       "onboard_time": 1695259477,
       "rank": 39,
@@ -393,6 +449,14 @@
       "onboard_time": 1695224256,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371531,
+      "num": 371531,
+      "word": "蔚来手机上市",
+      "onboard_time": 1695268115,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 367735,
@@ -507,20 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297858,
-      "num": 538234,
-      "word": "33岁女子上老年大学兴趣班",
-      "onboard_time": 1695266254,
-      "rank": 13,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 297624,
       "num": 297624,
       "word": "想念朱婷",
       "onboard_time": 1695221917,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292157,
+      "num": 292157,
+      "word": "电影志愿军第一部主要角色官宣",
+      "onboard_time": 1695269617,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 281819,
@@ -539,12 +603,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 275593,
+      "num": 275593,
+      "word": "QQ空间相册里的韩庚",
+      "onboard_time": 1695264156,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274553,
       "num": 274553,
       "word": "蔚来首款手机21日发布",
       "onboard_time": 1695263136,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 269689,
+      "num": 269689,
+      "word": "北上",
+      "onboard_time": 1695267933,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268168,
+      "num": 268168,
+      "word": "TFBOYS为王俊凯新电影打call",
+      "onboard_time": 1695269559,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 266094,
@@ -571,12 +659,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258582,
-      "num": 258582,
-      "word": "QQ空间相册里的韩庚",
-      "onboard_time": 1695264156,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 258019,
+      "num": 258019,
+      "word": "山东的桃子都是oversize的",
+      "onboard_time": 1695269436,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255887,
+      "num": 255887,
+      "word": "隐翅虫",
+      "onboard_time": 1695266676,
+      "rank": 36,
+      "category": "知识科普"
     },
     {
       "raw_hot": 254845,
@@ -659,14 +755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 225007,
-      "num": 225007,
-      "word": "一念关山",
-      "onboard_time": 1695267036,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223155,
       "num": 223155,
       "word": "谁家男女主进度这么快",
@@ -681,6 +769,14 @@
       "onboard_time": 1695202956,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220300,
+      "num": 235496,
+      "word": "王鹤棣勇闯游戏世界",
+      "onboard_time": 1695266133,
+      "rank": 48,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 217441,
@@ -699,12 +795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215374,
-      "num": 215374,
-      "word": "隐翅虫",
-      "onboard_time": 1695266676,
-      "rank": 36,
-      "category": "知识科普"
+      "raw_hot": 215064,
+      "num": 215064,
+      "word": "傅首尔逐字逐句教张硕谈恋爱",
+      "onboard_time": 1695266793,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 214585,
@@ -761,6 +857,14 @@
       "onboard_time": 1695218676,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203796,
+      "num": 203796,
+      "word": "咒术回战",
+      "onboard_time": 1695269196,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 201461,
@@ -843,20 +947,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187921,
-      "num": 187921,
-      "word": "傅首尔逐字逐句教张硕谈恋爱",
-      "onboard_time": 1695266793,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183456,
       "num": 183456,
       "word": "张婧仪丸子头梦回朱韵",
       "onboard_time": 1695258517,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176922,
+      "num": 229175,
+      "word": "王俊凯的OOTD",
+      "onboard_time": 1695266314,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176123,
@@ -907,6 +1011,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 163690,
+      "num": 163690,
+      "word": "新兵入伍下意识乘电梯老兵提醒走楼梯",
+      "onboard_time": 1695269797,
+      "rank": 45,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 163485,
       "num": 163485,
       "word": "17岁小伙凭借瓷砖贴面成全国冠军",
@@ -923,20 +1035,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156179,
+      "num": 156179,
+      "word": "男子用一张照片索赔多个商户",
+      "onboard_time": 1695267755,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154304,
       "num": 154304,
       "word": "檀健次直播",
       "onboard_time": 1695218676,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153914,
-      "num": 235496,
-      "word": "王鹤棣勇闯游戏世界",
-      "onboard_time": 1695266133,
-      "rank": 48,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 152709,
@@ -996,7 +1108,7 @@
     },
     {
       "raw_hot": 145179,
-      "num": 145179,
+      "num": 669598,
       "word": "西北为什么是未来能源宝库",
       "onboard_time": 1695266434,
       "rank": 49,
@@ -1225,14 +1337,6 @@
       "onboard_time": 1695229761,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65761,
-      "num": 229175,
-      "word": "王俊凯的OOTD",
-      "onboard_time": 1695266314,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 59875,
