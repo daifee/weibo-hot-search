@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695375249646,
+  "endTime": 1695377918740,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1764193,
+      "num": 1764193,
+      "word": "英语老师3天忘光所有单词查出痴呆症",
+      "onboard_time": 1695371314,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1519425,
       "num": 831086,
       "word": "我辞职后 我的猫压力巨大在家吐了",
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1300065,
-      "num": 1300065,
-      "word": "英语老师3天忘光所有单词查出痴呆症",
-      "onboard_time": 1695371314,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1271357,
       "num": 1271357,
       "word": "俞灏明认证端木磊是大妈头",
@@ -99,8 +99,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1215500,
+      "num": 430873,
+      "word": "Lisa晒BLACKPINK背影照",
+      "onboard_time": 1695374314,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1215199,
-      "num": 375016,
+      "num": 399969,
       "word": "陈好薛佳凝合照",
       "onboard_time": 1695370174,
       "rank": 15,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 954668,
+      "num": 328923,
+      "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
+      "onboard_time": 1695374793,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 932885,
       "num": 344577,
       "word": "体制内开会为什么不喝奶茶",
@@ -217,6 +233,14 @@
       "onboard_time": 1695357939,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 841677,
+      "num": 424243,
+      "word": "华为充电线无法给iPhone15充电",
+      "onboard_time": 1695374793,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 826563,
@@ -257,14 +281,6 @@
       "onboard_time": 1695293675,
       "rank": 1,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 764316,
-      "num": 315830,
-      "word": "Lisa晒BLACKPINK背影照",
-      "onboard_time": 1695374314,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 761240,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567782,
+      "num": 567782,
+      "word": "孟钰坐她爸爸的位置了",
+      "onboard_time": 1695375393,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522579,
       "num": 522579,
       "word": "傅首尔 这段婚姻不是我憧憬的样子",
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 498506,
-      "num": 498506,
+      "num": 696241,
       "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
       "onboard_time": 1695366090,
       "rank": 23,
@@ -515,6 +539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 450199,
+      "num": 383311,
+      "word": "没有直男逃得过这条裙子",
+      "onboard_time": 1695376232,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 446990,
       "num": 446990,
       "word": "LOL中韩可能在半决赛交手",
@@ -529,6 +561,14 @@
       "onboard_time": 1695306819,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439449,
+      "num": 439449,
+      "word": "遇隐翅虫第一反应要用力吹走",
+      "onboard_time": 1695375934,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436715,
@@ -675,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377394,
+      "num": 377394,
+      "word": "异人之下二壮居然是Al",
+      "onboard_time": 1695376595,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370136,
       "num": 370136,
       "word": "为啥劳动人民患抑郁症少",
@@ -715,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353579,
+      "num": 353579,
+      "word": "苹果iPhone15Pro确认3274mAh电池",
+      "onboard_time": 1695374911,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 353164,
       "num": 204731,
       "word": "学校发的军训服过于透气了",
@@ -739,12 +795,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 344879,
-      "num": 168479,
-      "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
-      "onboard_time": 1695374793,
-      "rank": 30,
-      "category": "社会新闻,情感"
+      "raw_hot": 345527,
+      "num": 395894,
+      "word": "建立中叙战略伙伴关系",
+      "onboard_time": 1695375393,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 343123,
@@ -753,6 +809,14 @@
       "onboard_time": 1695350912,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329308,
+      "num": 329308,
+      "word": "进村民家大熊猫体重为正常熊猫的一半",
+      "onboard_time": 1695373053,
+      "rank": 23,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 329176,
@@ -777,6 +841,14 @@
       "onboard_time": 1695341914,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 326983,
+      "num": 326983,
+      "word": "霍启刚说郭晶晶担任火炬手是骄傲",
+      "onboard_time": 1695374552,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 321097,
@@ -811,28 +883,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312947,
-      "num": 312947,
-      "word": "进村民家大熊猫体重为正常熊猫的一半",
-      "onboard_time": 1695373053,
-      "rank": 23,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 309464,
-      "num": 309464,
-      "word": "华为充电线无法给iPhone15充电",
-      "onboard_time": 1695374793,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 307982,
       "num": 307982,
       "word": "左叶 希望时间停留在那一刻",
       "onboard_time": 1695372394,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304710,
+      "num": 304710,
+      "word": "亚运会LOL项目韩国队抵杭",
+      "onboard_time": 1695374734,
+      "rank": 25,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 301091,
@@ -849,6 +913,14 @@
       "onboard_time": 1695308259,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298467,
+      "num": 298467,
+      "word": "黄子韬2023巡回演唱会官宣",
+      "onboard_time": 1695377371,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 298232,
@@ -948,7 +1020,7 @@
     },
     {
       "raw_hot": 272847,
-      "num": 272847,
+      "num": 607414,
       "word": "救人后着急上班的领带小哥是山东人",
       "onboard_time": 1695373053,
       "rank": 19,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1695351093,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236685,
+      "num": 236685,
+      "word": "男童被生母虐待致截肢案将开庭",
+      "onboard_time": 1695376652,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236179,
@@ -1211,14 +1291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211553,
-      "num": 211553,
-      "word": "亚运会LOL项目韩国队抵杭",
-      "onboard_time": 1695374734,
-      "rank": 25,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 211334,
       "num": 189759,
       "word": "内娱古偶白月光",
@@ -1331,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192961,
-      "num": 168269,
-      "word": "苹果iPhone15Pro确认3274mAh电池",
-      "onboard_time": 1695374911,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 192960,
       "num": 192960,
       "word": "张柏芝把银河穿在身上",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1695293256,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 192732,
+      "num": 192732,
+      "word": "翟潇闻唱爱情转移",
+      "onboard_time": 1695376714,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 192179,
@@ -1379,12 +1451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191190,
-      "num": 168226,
-      "word": "霍启刚说郭晶晶担任火炬手是骄傲",
-      "onboard_time": 1695374552,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 190925,
+      "num": 190925,
+      "word": "腿姐直播",
+      "onboard_time": 1695377734,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 190674,
@@ -1491,6 +1563,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 179227,
+      "num": 179227,
+      "word": "C位妈妈这脸还能再战十年",
+      "onboard_time": 1695377853,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179105,
       "num": 179105,
       "word": "欧洲芯片法案正式生效",
@@ -1593,6 +1673,14 @@
       "onboard_time": 1695350553,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165839,
+      "num": 165839,
+      "word": "刘诗诗绿野仙踪大片",
+      "onboard_time": 1695375871,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163424,
@@ -1891,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121174,
+      "num": 121174,
+      "word": "夜色尚浅芭莎拍摄路透",
+      "onboard_time": 1695377553,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120045,
       "num": 158869,
       "word": "国庆大花篮在天安门广场亮相",
@@ -1971,6 +2067,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 104845,
+      "num": 104845,
+      "word": "纳格尔斯曼出任德国队主帅",
+      "onboard_time": 1695377013,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103282,
       "num": 204647,
       "word": "国足亚运队4比0缅甸",
@@ -1993,6 +2097,14 @@
       "onboard_time": 1695369874,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97076,
+      "num": 97076,
+      "word": "山东师大被指性侵院长已报案",
+      "onboard_time": 1695377790,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 94818,
@@ -2121,6 +2233,14 @@
       "onboard_time": 1695373233,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 68992,
+      "num": 541215,
+      "word": "民警下班吃饭顺便抓了个贼",
+      "onboard_time": 1695377013,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64761,
