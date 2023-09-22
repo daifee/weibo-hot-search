@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695413853367,
+  "endTime": 1695414868264,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -16211,20 +16211,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27057,
+      "num": 27057,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26952,
       "num": 456954,
       "word": "最令人热血沸腾的夺冠时刻",
       "onboard_time": 1695279634,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26466,
-      "num": 26466,
-      "word": "男子潜入原单位摆放前上司遗像",
-      "onboard_time": 1695411254,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26366,
