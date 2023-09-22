@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695420926181,
+  "endTime": 1695422026223,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -15299,6 +15299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99353,
+      "num": 59562,
+      "word": "iPhone15ProMax最高加价2800",
+      "onboard_time": 1695418455,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98277,
       "num": 98277,
       "word": "薛之谦反应慢半拍",
@@ -15555,6 +15563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82301,
+      "num": 59006,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80469,
       "num": 325046,
       "word": "郭晶晶人生风浪中找到稳定核心",
@@ -15771,14 +15787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 67818,
-      "num": 34896,
-      "word": "男子潜入原单位摆放前上司遗像",
-      "onboard_time": 1695411254,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67311,
       "num": 91063,
       "word": "一些无痛的学习大法",
@@ -15793,14 +15801,6 @@
       "onboard_time": 1695123216,
       "rank": 48,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 65071,
-      "num": 34783,
-      "word": "iPhone15ProMax最高加价2800",
-      "onboard_time": 1695418455,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 64761,
@@ -16051,6 +16051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38141,
+      "num": 38141,
+      "word": "吴磊 帅有这么大",
+      "onboard_time": 1695408556,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35946,
       "num": 1653897,
       "word": "展示共建一带一路的信心",
@@ -16153,14 +16161,6 @@
       "onboard_time": 1695059238,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31023,
-      "num": 31023,
-      "word": "吴磊 帅有这么大",
-      "onboard_time": 1695408556,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 31006,
@@ -16387,20 +16387,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 16513,
+      "num": 31811,
+      "word": "自来水造浪计划",
+      "onboard_time": 1695416895,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15478,
       "num": 369179,
       "word": "2023黄河文化月",
       "onboard_time": 1694937632,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15090,
-      "num": 23310,
-      "word": "自来水造浪计划",
-      "onboard_time": 1695416895,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 14470,

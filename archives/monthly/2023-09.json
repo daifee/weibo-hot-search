@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695420926181,
+  "endTime": 1695422026223,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -54491,6 +54491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99353,
+      "num": 59562,
+      "word": "iPhone15ProMax最高加价2800",
+      "onboard_time": 1695418455,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98908,
       "num": 98908,
       "word": "林一韩国路演生图",
@@ -55275,6 +55283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82301,
+      "num": 59006,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81962,
       "num": 130651,
       "word": "非遗正在以这种方式复苏",
@@ -55875,14 +55891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67818,
-      "num": 34896,
-      "word": "男子潜入原单位摆放前上司遗像",
-      "onboard_time": 1695411254,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67732,
       "num": 75289,
       "word": "花360万开个露营地能赚多少钱",
@@ -55993,14 +56001,6 @@
       "onboard_time": 1694332831,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65071,
-      "num": 34783,
-      "word": "iPhone15ProMax最高加价2800",
-      "onboard_time": 1695418455,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 64923,
@@ -57091,6 +57091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38141,
+      "num": 38141,
+      "word": "吴磊 帅有这么大",
+      "onboard_time": 1695408556,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37579,
       "num": 535066,
       "word": "福州暴雨旱鸭子拉水管拼命救人",
@@ -57457,14 +57465,6 @@
       "onboard_time": 1695059238,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31023,
-      "num": 31023,
-      "word": "吴磊 帅有这么大",
-      "onboard_time": 1695408556,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 31006,
@@ -58251,6 +58251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16513,
+      "num": 31811,
+      "word": "自来水造浪计划",
+      "onboard_time": 1695416895,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16433,
       "num": 517782,
       "word": "微博公示自媒体乱象治理情况",
@@ -58281,14 +58289,6 @@
       "onboard_time": 1694937632,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15090,
-      "num": 23310,
-      "word": "自来水造浪计划",
-      "onboard_time": 1695416895,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 14795,
