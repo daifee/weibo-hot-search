@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695368042226,
+  "endTime": 1695370885865,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -17,6 +17,14 @@
       "onboard_time": 1695350732,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2127087,
+      "num": 2127087,
+      "word": "98年小伙每天2小时开网店月入5万",
+      "onboard_time": 1695365912,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2105316,
@@ -41,14 +49,6 @@
       "onboard_time": 1695355596,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1663025,
-      "num": 1663025,
-      "word": "98年小伙每天2小时开网店月入5万",
-      "onboard_time": 1695365912,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1356466,
@@ -81,6 +81,14 @@
       "onboard_time": 1695308738,
       "rank": 0,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1179049,
+      "num": 831086,
+      "word": "我辞职后 我的猫压力巨大在家吐了",
+      "onboard_time": 1695368493,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1164660,
@@ -121,6 +129,14 @@
       "onboard_time": 1695343178,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 981986,
+      "num": 981986,
+      "word": "离职后还收到了公司的中秋礼物",
+      "onboard_time": 1695366874,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 972455,
@@ -184,6 +200,14 @@
       "word": "网红老婆爱吃巧乐兹发文道歉",
       "onboard_time": 1695297756,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790493,
+      "num": 790493,
+      "word": "北京一公交车被水泥罐车追尾18人送医",
+      "onboard_time": 1695368852,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -331,12 +355,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 571749,
-      "num": 299662,
-      "word": "离职后还收到了公司的中秋礼物",
+      "raw_hot": 573039,
+      "num": 283329,
+      "word": "1公斤黄金价格已达47万",
       "onboard_time": 1695366874,
-      "rank": 43,
-      "category": "情感"
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 571374,
@@ -345,14 +369,6 @@
       "onboard_time": 1695343295,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534880,
-      "num": 185091,
-      "word": "1公斤黄金价格已达47万",
-      "onboard_time": 1695366874,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 522579,
@@ -379,6 +395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 511219,
+      "num": 322642,
+      "word": "老公是一种态度 老公是一种心情",
+      "onboard_time": 1695365430,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 498506,
+      "num": 498506,
+      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+      "onboard_time": 1695366090,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497932,
       "num": 204734,
       "word": "不要相信生理期前的大脑",
@@ -393,14 +425,6 @@
       "onboard_time": 1695313112,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494573,
-      "num": 322642,
-      "word": "老公是一种态度 老公是一种心情",
-      "onboard_time": 1695365430,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 492648,
@@ -441,6 +465,14 @@
       "onboard_time": 1695354394,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453258,
+      "num": 453258,
+      "word": "新疆大闸蟹全网首卖",
+      "onboard_time": 1695368852,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 446990,
@@ -539,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399252,
+      "num": 270793,
+      "word": "陈好薛佳凝合照",
+      "onboard_time": 1695370174,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390344,
       "num": 324520,
       "word": "张远拒绝陈楚生",
@@ -569,14 +609,6 @@
       "onboard_time": 1695348632,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381256,
-      "num": 381256,
-      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
-      "onboard_time": 1695366090,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379441,
@@ -632,6 +664,14 @@
       "word": "学校发的军训服过于透气了",
       "onboard_time": 1695298535,
       "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 349338,
+      "num": 200734,
+      "word": "为什么孙悟空会被热米饭烫到",
+      "onboard_time": 1695370293,
+      "rank": 20,
       "category": "幽默"
     },
     {
@@ -713,6 +753,14 @@
       "onboard_time": 1695308259,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298831,
+      "num": 167328,
+      "word": "姬发犯的是灭族的大罪",
+      "onboard_time": 1695370413,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 298232,
@@ -833,6 +881,14 @@
       "onboard_time": 1695343597,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268474,
+      "num": 268474,
+      "word": "黄明昊撤回了一个滑板出场",
+      "onboard_time": 1695369036,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 267068,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1695357999,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214942,
+      "num": 214942,
+      "word": "哇唧唧哇暑假派对2023",
+      "onboard_time": 1695370174,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214551,
@@ -1275,6 +1339,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 177942,
+      "num": 177942,
+      "word": "虞书欣看秀reaction",
+      "onboard_time": 1695369154,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177924,
+      "num": 177924,
+      "word": "从现在开始是角宫一家四口",
+      "onboard_time": 1695369813,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177336,
       "num": 546619,
       "word": "本周日考研预报名开始",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1695350553,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165471,
+      "num": 165471,
+      "word": "网友问李嘉琦要荷叶帽链接",
+      "onboard_time": 1695369751,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 163424,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1695364172,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149953,
+      "num": 149953,
+      "word": "披荆斩棘的哥哥们集体跳甜妹舞",
+      "onboard_time": 1695370052,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149888,
@@ -1627,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113915,
+      "num": 124783,
+      "word": "原来发质真的能养好",
+      "onboard_time": 1695368555,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 113363,
       "num": 204657,
       "word": "一觉醒来邻居的房子不见了",
@@ -1665,6 +1769,14 @@
       "onboard_time": 1695302919,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102905,
+      "num": 112677,
+      "word": "丞磊片场画卢昱晓",
+      "onboard_time": 1695370832,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 102407,
@@ -1803,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54509,
+      "num": 273879,
+      "word": "崩铁 帮帮我肯德基爷爷",
+      "onboard_time": 1695369874,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49266,
       "num": 49266,
       "word": "刘诗诗红色亮片秋日穿搭",
@@ -1873,6 +1993,14 @@
       "onboard_time": 1695321377,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22786,
+      "num": 843610,
+      "word": "三次亚运会窗口透视中国33年变迁",
+      "onboard_time": 1695369994,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21497,
