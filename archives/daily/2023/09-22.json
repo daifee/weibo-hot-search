@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695345085416,
+  "endTime": 1695346295985,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -36,15 +36,23 @@
     },
     {
       "raw_hot": 1035065,
-      "num": 402491,
+      "num": 437504,
       "word": "婚姻成了很多人生失败的背锅侠",
       "onboard_time": 1695341374,
       "rank": 11,
       "category": "综艺"
     },
     {
+      "raw_hot": 1018310,
+      "num": 1018310,
+      "word": "卢昱晓熬了一整晚等丞磊杀青",
+      "onboard_time": 1695344195,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1007374,
-      "num": 401990,
+      "num": 433839,
       "word": "今天是iPhone15系列发售日",
       "onboard_time": 1695343178,
       "rank": 15,
@@ -139,12 +147,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 589861,
-      "num": 401921,
-      "word": "卢昱晓熬了一整晚等丞磊杀青",
-      "onboard_time": 1695344195,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 571374,
+      "num": 571374,
+      "word": "超1400万部老年机被木马控制自动花钱",
+      "onboard_time": 1695343295,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522579,
@@ -171,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474281,
-      "num": 402290,
-      "word": "超1400万部老年机被木马控制自动花钱",
-      "onboard_time": 1695343295,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 447668,
+      "num": 424477,
+      "word": "吕良被断双手",
+      "onboard_time": 1695345275,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 445220,
@@ -185,6 +193,22 @@
       "onboard_time": 1695306819,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426831,
+      "num": 318893,
+      "word": "花西子销售额跌幅超九成",
+      "onboard_time": 1695345094,
+      "rank": 22,
+      "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 418732,
+      "num": 418732,
+      "word": "法考没过",
+      "onboard_time": 1695344078,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 413423,
@@ -201,14 +225,6 @@
       "onboard_time": 1695275015,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366493,
-      "num": 366493,
-      "word": "法考没过",
-      "onboard_time": 1695344078,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 353164,
@@ -241,6 +257,14 @@
       "onboard_time": 1695340775,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308093,
+      "num": 308093,
+      "word": "山东师大回应博导被举报侵害青年女教师",
+      "onboard_time": 1695344976,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 298894,
@@ -297,6 +321,14 @@
       "onboard_time": 1695292055,
       "rank": 22,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 270810,
+      "num": 270810,
+      "word": "邓紫棋说承认自己不够也是一种勇气",
+      "onboard_time": 1695345874,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 269105,
@@ -387,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211860,
+      "num": 211860,
+      "word": "花少5车内合照",
+      "onboard_time": 1695345994,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211334,
       "num": 189759,
       "word": "内娱古偶白月光",
@@ -451,8 +491,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189643,
+      "num": 189643,
+      "word": "倪妮红裙抵达米兰",
+      "onboard_time": 1695345637,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181053,
-      "num": 402098,
+      "num": 428563,
       "word": "外交部回应美商务部长对华为新机感到不悦",
       "onboard_time": 1695323894,
       "rank": 13,
@@ -465,6 +513,14 @@
       "onboard_time": 1695338909,
       "rank": 37,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 172632,
+      "num": 425476,
+      "word": "拼多多开了场很土的发布会",
+      "onboard_time": 1695344614,
+      "rank": 44,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 172029,
@@ -641,22 +697,6 @@
       "onboard_time": 1695312032,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104551,
-      "num": 146574,
-      "word": "拼多多开了场很土的发布会",
-      "onboard_time": 1695344614,
-      "rank": 44,
-      "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 103681,
-      "num": 103681,
-      "word": "山东师大回应博导被举报侵害青年女教师",
-      "onboard_time": 1695344976,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 103282,

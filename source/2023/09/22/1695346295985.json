@@ -1,0 +1,410 @@
+{
+  "runTime": 1695346295985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1018310,
+        "num": 1018310,
+        "word": "卢昱晓熬了一整晚等丞磊杀青",
+        "onboard_time": 1695344195,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 792679,
+        "num": 792679,
+        "word": "顾客吐槽茶颜悦色点餐方式像智商税",
+        "onboard_time": 1695308738,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 97540,
+        "num": 636835,
+        "word": "绕杭州飞33小时拍到的美景有多震撼",
+        "onboard_time": 1695312032,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1786783,
+        "num": 634946,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860589,
+        "num": 634005,
+        "word": "2岁幼儿随地小便家长被判赔11万",
+        "onboard_time": 1695342335,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627027,
+        "num": 627027,
+        "word": "郭敬明 再漫长的黑夜都会过去",
+        "onboard_time": 1695343055,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612828,
+        "num": 612828,
+        "word": "3岁男孩对妈妈说车上坐不下交警一查是超员",
+        "onboard_time": 1695341075,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571374,
+        "num": 571374,
+        "word": "超1400万部老年机被木马控制自动花钱",
+        "onboard_time": 1695343295,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509625,
+        "num": 509625,
+        "word": "网红老婆爱吃巧乐兹发文道歉",
+        "onboard_time": 1695297756,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 440834,
+        "num": 440834,
+        "word": "法考 吃上主观题的苦",
+        "onboard_time": 1695341315,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1763461,
+        "num": 440429,
+        "word": "花西子代工厂被曝为日资",
+        "onboard_time": 1695337887,
+        "rank": 10,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 1019593,
+        "num": 437504,
+        "word": "婚姻成了很多人生失败的背锅侠",
+        "onboard_time": 1695341374,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 894786,
+        "num": 433839,
+        "word": "今天是iPhone15系列发售日",
+        "onboard_time": 1695343178,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217766,
+        "num": 432639,
+        "word": "韩国共同民主党国会院内领导层集体辞职",
+        "onboard_time": 1695337705,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 143309,
+        "num": 428563,
+        "word": "外交部回应美商务部长对华为新机感到不悦",
+        "onboard_time": 1695323894,
+        "rank": 14,
+        "category": "国内要闻,数码"
+      },
+      {
+        "raw_hot": 172632,
+        "num": 425476,
+        "word": "拼多多开了场很土的发布会",
+        "onboard_time": 1695344614,
+        "rank": 15,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 447668,
+        "num": 424477,
+        "word": "吕良被断双手",
+        "onboard_time": 1695345275,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422902,
+        "num": 422902,
+        "word": "女大学生用袜子卷发省钱还不伤头发",
+        "onboard_time": 1695339692,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 418732,
+        "num": 418732,
+        "word": "法考没过",
+        "onboard_time": 1695344078,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 326490,
+        "num": 326490,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1695341914,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 538829,
+        "num": 322376,
+        "word": "虞书欣生图",
+        "onboard_time": 1695339570,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 515658,
+        "num": 320287,
+        "word": "家长查17天监控发现儿子每日挨打",
+        "onboard_time": 1695337584,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426831,
+        "num": 318893,
+        "word": "花西子销售额跌幅超九成",
+        "onboard_time": 1695345094,
+        "rank": 22,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 316363,
+        "num": 316363,
+        "word": "傅首尔 这段婚姻不是我憧憬的样子",
+        "onboard_time": 1695302680,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308093,
+        "num": 308093,
+        "word": "山东师大回应博导被举报侵害青年女教师",
+        "onboard_time": 1695344976,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 282793,
+        "num": 282793,
+        "word": "杭州1米92特警被赞一身都是安全感",
+        "onboard_time": 1695337524,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270810,
+        "num": 270810,
+        "word": "邓紫棋说承认自己不够也是一种勇气",
+        "onboard_time": 1695345874,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268831,
+        "num": 268831,
+        "word": "曾黎初秋麦穗妆",
+        "onboard_time": 1695344735,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 257884,
+        "num": 257884,
+        "word": "成年人想见一面真的很难",
+        "onboard_time": 1695342815,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219453,
+        "num": 219453,
+        "word": "黄景瑜演消防员的松弛感",
+        "onboard_time": 1695335900,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216700,
+        "num": 216700,
+        "word": "梅西想要个女儿",
+        "onboard_time": 1695343597,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213756,
+        "num": 213756,
+        "word": "上官浅不想说再见还会再见",
+        "onboard_time": 1695340775,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211860,
+        "num": 211860,
+        "word": "花少5车内合照",
+        "onboard_time": 1695345994,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206943,
+        "num": 206943,
+        "word": "法考成绩",
+        "onboard_time": 1695304419,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191977,
+        "num": 191977,
+        "word": "森林进化论",
+        "onboard_time": 1695343178,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189643,
+        "num": 189643,
+        "word": "倪妮红裙抵达米兰",
+        "onboard_time": 1695345637,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185159,
+        "num": 185159,
+        "word": "狐妖小红娘咖啡",
+        "onboard_time": 1695342215,
+        "rank": 36,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 183148,
+        "num": 183148,
+        "word": "为什么说女生要分开腿坐",
+        "onboard_time": 1695293675,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 182333,
+        "num": 182333,
+        "word": "薛之谦滁州",
+        "onboard_time": 1695343957,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162436,
+        "num": 162436,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1695344376,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157018,
+        "num": 157018,
+        "word": "不要相信生理期前的大脑",
+        "onboard_time": 1695307660,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156200,
+        "num": 156200,
+        "word": "五哈4阵容官宣",
+        "onboard_time": 1695306819,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147357,
+        "num": 147357,
+        "word": "学校发的军训服过于透气了",
+        "onboard_time": 1695298535,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144899,
+        "num": 144899,
+        "word": "港星张智霖到警署协助调查",
+        "onboard_time": 1695300096,
+        "rank": 43,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 139695,
+        "num": 139695,
+        "word": "陆毅谢谢大家帮我找回回忆",
+        "onboard_time": 1695313112,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130909,
+        "num": 130909,
+        "word": "大大方方结束任何不真诚的关系",
+        "onboard_time": 1695337524,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130696,
+        "num": 130696,
+        "word": "刘诗诗复古蕾丝穿搭",
+        "onboard_time": 1695307781,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 126073,
+        "num": 126073,
+        "word": "中国男足亚运晋级16强",
+        "onboard_time": 1695341494,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125769,
+        "num": 125769,
+        "word": "经常请喝饮料的幂姐",
+        "onboard_time": 1695342938,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124444,
+        "num": 124444,
+        "word": "夜色尚浅一款由正主领嗑的cp",
+        "onboard_time": 1695343597,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江考察调研#"
+    }
+  }
+}
