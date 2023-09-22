@@ -1,0 +1,410 @@
+{
+  "runTime": 1695417265830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 101838,
+        "num": 101838,
+        "word": "黄子诚涉及间谍行为提出自首",
+        "onboard_time": 1695386135,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56165,
+        "num": 56165,
+        "word": "女子3次试管婴儿终于怀上却查出癌症",
+        "onboard_time": 1695387876,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10639,
+        "num": 43746,
+        "word": "被亚运会的气氛燃到了",
+        "onboard_time": 1695389978,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41638,
+        "num": 41638,
+        "word": "赵露思受邀亮相Versace2024春夏大秀",
+        "onboard_time": 1695397419,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39287,
+        "num": 39287,
+        "word": "国产剧女主终于长嘴了",
+        "onboard_time": 1695390635,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36796,
+        "num": 36796,
+        "word": "正确的内衣晾晒方法",
+        "onboard_time": 1695393337,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 35883,
+        "num": 35883,
+        "word": "中国女排奥运资格赛两连败",
+        "onboard_time": 1695392199,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35360,
+        "num": 35360,
+        "word": "那英说周迅带老花镜像88",
+        "onboard_time": 1695388835,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32040,
+        "num": 32040,
+        "word": "98年小伙每天2小时开网店月入5万",
+        "onboard_time": 1695365912,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 30590,
+        "num": 30590,
+        "word": "李泽锋这段台词怎么敢说出口的",
+        "onboard_time": 1695395737,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118920,
+        "num": 30549,
+        "word": "台湾的卫生巾真的长这样吗",
+        "onboard_time": 1695394776,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83088,
+        "num": 30010,
+        "word": "边缘性行为为什么是边缘的",
+        "onboard_time": 1695384934,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79719,
+        "num": 29175,
+        "word": "把学历改成高中后收到几十个面试",
+        "onboard_time": 1695380733,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 20262,
+        "num": 28961,
+        "word": "日本东京涩谷中心街发生火灾",
+        "onboard_time": 1695398674,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 14168,
+        "num": 28317,
+        "word": "遇隐翅虫第一反应要用力吹走",
+        "onboard_time": 1695375934,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28017,
+        "num": 28017,
+        "word": "邓紫棋林俊杰手心的蔷薇",
+        "onboard_time": 1695384574,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62679,
+        "num": 27267,
+        "word": "陈学冬车祸后第三次手术结束",
+        "onboard_time": 1695380671,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40471,
+        "num": 27133,
+        "word": "男子潜入原单位摆放前上司遗像",
+        "onboard_time": 1695411254,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28029,
+        "num": 26169,
+        "word": "晚上两点睡早上10点起算熬夜吗",
+        "onboard_time": 1695385535,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24872,
+        "num": 24872,
+        "word": "洞洞鞋和勃肯鞋哪个更丑",
+        "onboard_time": 1695378872,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 38929,
+        "num": 24474,
+        "word": "未来婆婆说给买一千块钱的三金",
+        "onboard_time": 1695391056,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33085,
+        "num": 24390,
+        "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
+        "onboard_time": 1695374793,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 31415,
+        "num": 24274,
+        "word": "为什么iPhone不支持通话录音",
+        "onboard_time": 1695388114,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23564,
+        "num": 23564,
+        "word": "Lisa晒BLACKPINK背影照",
+        "onboard_time": 1695374314,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31168,
+        "num": 23534,
+        "word": "X玖少年团小分队合体",
+        "onboard_time": 1695393576,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23222,
+        "num": 23222,
+        "word": "快给张嘉倪陈牧驰递本子",
+        "onboard_time": 1695396695,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21645,
+        "num": 21645,
+        "word": "没有十年工龄背不出这款通勤包",
+        "onboard_time": 1695384992,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20697,
+        "num": 20697,
+        "word": "丁霞 跑不动了",
+        "onboard_time": 1695398195,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19812,
+        "num": 19812,
+        "word": "新家被我改造成了住不起的样子",
+        "onboard_time": 1695402564,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19293,
+        "num": 19293,
+        "word": "iPhone15怎么充电",
+        "onboard_time": 1695389556,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19185,
+        "num": 19185,
+        "word": "中国女足16比0蒙古女足",
+        "onboard_time": 1695389077,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19131,
+        "num": 19131,
+        "word": "异人之下大结局",
+        "onboard_time": 1695393099,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18949,
+        "num": 18949,
+        "word": "郑恺票房破10亿要跳女团舞",
+        "onboard_time": 1695394534,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18240,
+        "num": 18948,
+        "word": "陈都灵 在横店进入快穿系统",
+        "onboard_time": 1695385296,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17421,
+        "num": 18945,
+        "word": "张韶涵造型师真的高手",
+        "onboard_time": 1695387033,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16363,
+        "num": 18939,
+        "word": "吴磊 帅有这么大",
+        "onboard_time": 1695408556,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16089,
+        "num": 18934,
+        "word": "广东感染红眼病人数激增",
+        "onboard_time": 1695395318,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15839,
+        "num": 18931,
+        "word": "中国女排2比3荷兰女排",
+        "onboard_time": 1695392436,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15075,
+        "num": 18929,
+        "word": "一首歌唱尽人的一生",
+        "onboard_time": 1695383432,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14612,
+        "num": 18923,
+        "word": "林俊杰北京演唱会",
+        "onboard_time": 1695382113,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14601,
+        "num": 18916,
+        "word": "本科学生考研考公哪个更好",
+        "onboard_time": 1695402444,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13701,
+        "num": 18913,
+        "word": "自来水造浪计划",
+        "onboard_time": 1695416895,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13547,
+        "num": 18911,
+        "word": "英雄联盟国家集训队抵达亚运村",
+        "onboard_time": 1695407598,
+        "rank": 42,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 13351,
+        "num": 18907,
+        "word": "张馨予去看薛之谦演唱会了",
+        "onboard_time": 1695394776,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13343,
+        "num": 18903,
+        "word": "IVE预告",
+        "onboard_time": 1695392917,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13223,
+        "num": 18898,
+        "word": "周震南舞台气场",
+        "onboard_time": 1695407118,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12587,
+        "num": 18896,
+        "word": "王源大背头小揪揪",
+        "onboard_time": 1695389739,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12332,
+        "num": 18888,
+        "word": "沈梦辰当店长破中餐厅7营业额记录",
+        "onboard_time": 1695382654,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11645,
+        "num": 18888,
+        "word": "龙宽九段合体",
+        "onboard_time": 1695390157,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11305,
+        "num": 18879,
+        "word": "成毅曾舜晞肖顺尧合体采访",
+        "onboard_time": 1695393337,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

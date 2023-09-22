@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695414868264,
+  "endTime": 1695417265830,
   "band_list": [
     {
       "raw_hot": 1451426,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40471,
+      "num": 27133,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38431,
       "num": 43028,
       "word": "周震南舞台气场",
@@ -491,20 +499,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27057,
-      "num": 27057,
-      "word": "男子潜入原单位摆放前上司遗像",
-      "onboard_time": 1695411254,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23368,
       "num": 42923,
       "word": "张凌赫巴黎出发路透",
       "onboard_time": 1695407058,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 13701,
+      "num": 18913,
+      "word": "自来水造浪计划",
+      "onboard_time": 1695416895,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 882,
