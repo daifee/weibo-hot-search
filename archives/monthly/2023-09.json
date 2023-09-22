@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695407673766,
+  "endTime": 1695410018685,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -57243,6 +57243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34196,
+      "num": 42911,
+      "word": "英雄联盟国家集训队抵达亚运村",
+      "onboard_time": 1695407598,
+      "rank": 49,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 33989,
       "num": 49440,
       "word": "外国教练主动和樊振东握手",
@@ -57433,6 +57441,14 @@
       "onboard_time": 1695059238,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31023,
+      "num": 31023,
+      "word": "吴磊 帅有这么大",
+      "onboard_time": 1695408556,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 31006,
@@ -58153,14 +58169,6 @@
       "onboard_time": 1693648832,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18294,
-      "num": 42911,
-      "word": "英雄联盟国家集训队抵达亚运村",
-      "onboard_time": 1695407598,
-      "rank": 49,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 18270,
