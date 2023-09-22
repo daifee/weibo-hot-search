@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695339251600,
+  "endTime": 1695345085416,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1817,6 +1817,14 @@
       "onboard_time": 1694999497,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2105316,
+      "num": 805339,
+      "word": "花西子代工厂被曝为日资",
+      "onboard_time": 1695337887,
+      "rank": 34,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 2101836,
@@ -6155,6 +6163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1035065,
+      "num": 402491,
+      "word": "婚姻成了很多人生失败的背锅侠",
+      "onboard_time": 1695341374,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1033611,
       "num": 799503,
       "word": "bibi",
@@ -6425,6 +6441,14 @@
       "onboard_time": 1695083977,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1007374,
+      "num": 401990,
+      "word": "今天是iPhone15系列发售日",
+      "onboard_time": 1695343178,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 1006159,
@@ -7161,6 +7185,14 @@
       "onboard_time": 1693870234,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 930235,
+      "num": 689398,
+      "word": "2岁幼儿随地小便家长被判赔11万",
+      "onboard_time": 1695342335,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 930074,
@@ -9475,6 +9507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 761240,
+      "num": 761240,
+      "word": "法考 吃上主观题的苦",
+      "onboard_time": 1695341315,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 760504,
       "num": 688162,
       "word": "苹果为消除禁令将更新iPhone12",
@@ -11155,6 +11195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 680021,
+      "num": 680021,
+      "word": "3岁男孩对妈妈说车上坐不下交警一查是超员",
+      "onboard_time": 1695341075,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679778,
       "num": 257783,
       "word": "刘亦菲彭冠英吻戏",
@@ -11347,6 +11395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 671465,
+      "num": 326288,
+      "word": "家长查17天监控发现儿子每日挨打",
+      "onboard_time": 1695337584,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671031,
       "num": 671031,
       "word": "吃螺蛳粉臭到抽烟的大爷戒烟了",
@@ -11521,14 +11577,6 @@
       "onboard_time": 1694513021,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 664816,
-      "num": 805339,
-      "word": "花西子代工厂被曝为日资",
-      "onboard_time": 1695337887,
-      "rank": 34,
-      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 663840,
@@ -11849,6 +11897,14 @@
       "onboard_time": 1693909715,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 652443,
+      "num": 325412,
+      "word": "虞书欣生图",
+      "onboard_time": 1695339570,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 652236,
@@ -12211,12 +12267,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 635875,
+      "num": 635875,
+      "word": "郭敬明 再漫长的黑夜都会过去",
+      "onboard_time": 1695343055,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635255,
       "num": 381934,
       "word": "华晨宇演唱会粉丝又翻车了",
       "onboard_time": 1694421876,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 635237,
+      "num": 635237,
+      "word": "女大学生用袜子卷发省钱还不伤头发",
+      "onboard_time": 1695339692,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 634855,
@@ -13579,6 +13651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 589861,
+      "num": 401921,
+      "word": "卢昱晓熬了一整晚等丞磊杀青",
+      "onboard_time": 1695344195,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 589479,
       "num": 368943,
       "word": "清华大学有多重视体育课",
@@ -13649,14 +13729,6 @@
       "onboard_time": 1695178114,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 584875,
-      "num": 190693,
-      "word": "家长查17天监控发现儿子每日挨打",
-      "onboard_time": 1695337584,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584505,
@@ -17841,6 +17913,14 @@
       "onboard_time": 1695182197,
       "rank": 23,
       "category": "国外要闻,科技"
+    },
+    {
+      "raw_hot": 474281,
+      "num": 402290,
+      "word": "超1400万部老年机被木马控制自动花钱",
+      "onboard_time": 1695343295,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474107,
@@ -23235,6 +23315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 366493,
+      "num": 366493,
+      "word": "法考没过",
+      "onboard_time": 1695344078,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 366467,
       "num": 321511,
       "word": "张栋梁唐禹哲居然早就认识了",
@@ -25611,6 +25699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327550,
+      "num": 327550,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1694306310,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327495,
       "num": 327495,
       "word": "小米14",
@@ -26321,6 +26417,14 @@
       "onboard_time": 1694764415,
       "rank": 21,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 320092,
+      "num": 320092,
+      "word": "上官浅不想说再见还会再见",
+      "onboard_time": 1695340775,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 320066,
@@ -29499,6 +29603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283621,
+      "num": 283621,
+      "word": "成年人想见一面真的很难",
+      "onboard_time": 1695342815,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283510,
       "num": 283510,
       "word": "多人围观两只猫咪吵架",
@@ -29561,6 +29673,14 @@
       "onboard_time": 1694853279,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282978,
+      "num": 282978,
+      "word": "曾黎初秋麦穗妆",
+      "onboard_time": 1695344735,
+      "rank": 25,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 282939,
@@ -29641,6 +29761,14 @@
       "onboard_time": 1694832154,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282138,
+      "num": 282138,
+      "word": "狐妖小红娘咖啡",
+      "onboard_time": 1695342215,
+      "rank": 26,
+      "category": "动漫,美食"
     },
     {
       "raw_hot": 282125,
@@ -30865,6 +30993,14 @@
       "onboard_time": 1694172575,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 269105,
+      "num": 269105,
+      "word": "梅西想要个女儿",
+      "onboard_time": 1695343597,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 269070,
@@ -37443,6 +37579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212627,
+      "num": 212627,
+      "word": "薛之谦滁州",
+      "onboard_time": 1695343957,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212607,
       "num": 212607,
       "word": "你好大口气敢威胁如妃",
@@ -41867,6 +42011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191950,
+      "num": 191950,
+      "word": "林俊杰jj20世界巡回演唱会",
+      "onboard_time": 1695344376,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191933,
       "num": 191933,
       "word": "丞磊的人夫感",
@@ -42873,14 +43025,6 @@
       "onboard_time": 1694355157,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 187275,
-      "num": 187275,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1694306310,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 187267,
@@ -43971,6 +44115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 181053,
+      "num": 402098,
+      "word": "外交部回应美商务部长对华为新机感到不悦",
+      "onboard_time": 1695323894,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 181051,
       "num": 192425,
       "word": "上官浅别太爱演",
@@ -44345,6 +44497,14 @@
       "onboard_time": 1693698446,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179105,
+      "num": 179105,
+      "word": "欧洲芯片法案正式生效",
+      "onboard_time": 1695338909,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 179075,
@@ -47179,14 +47339,6 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 159176,
-      "num": 209249,
-      "word": "外交部回应美商务部长对华为新机感到不悦",
-      "onboard_time": 1695323894,
-      "rank": 13,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 159158,
       "num": 159158,
       "word": "易梦玲维密盛典Vlog",
@@ -47683,6 +47835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155593,
+      "num": 155593,
+      "word": "夜色尚浅一款由正主领嗑的cp",
+      "onboard_time": 1695343597,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155394,
       "num": 155394,
       "word": "冒犯民族感情该不该入罪入罚",
@@ -47881,6 +48041,14 @@
       "onboard_time": 1695108699,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153290,
+      "num": 153290,
+      "word": "中国男足亚运晋级16强",
+      "onboard_time": 1695341494,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 153269,
@@ -48121,6 +48289,14 @@
       "onboard_time": 1694138494,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151578,
+      "num": 151578,
+      "word": "内娱宜古宜今的明星",
+      "onboard_time": 1695340413,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 151490,
@@ -48441,6 +48617,14 @@
       "onboard_time": 1693927903,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148306,
+      "num": 148306,
+      "word": "经常请喝饮料的幂姐",
+      "onboard_time": 1695342938,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 148257,
@@ -51427,6 +51611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112586,
+      "num": 691411,
+      "word": "绕杭州飞33小时拍到的美景有多震撼",
+      "onboard_time": 1695312032,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112543,
       "num": 112543,
       "word": "鹦鹉杀今日上映",
@@ -51819,6 +52011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104551,
+      "num": 146574,
+      "word": "拼多多开了场很土的发布会",
+      "onboard_time": 1695344614,
+      "rank": 44,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 104548,
       "num": 1709087,
       "word": "来杭州看亚运吃什么",
@@ -51865,6 +52065,14 @@
       "onboard_time": 1694450130,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103681,
+      "num": 103681,
+      "word": "山东师大回应博导被举报侵害青年女教师",
+      "onboard_time": 1695344976,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 102990,
@@ -52073,14 +52281,6 @@
       "onboard_time": 1694042007,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99382,
-      "num": 99382,
-      "word": "欧洲芯片法案正式生效",
-      "onboard_time": 1695338909,
-      "rank": 37,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 98908,
@@ -53328,14 +53528,6 @@
       "word": "老人晕倒路中间一群人从四面八方涌来",
       "onboard_time": 1694268038,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69530,
-      "num": 605467,
-      "word": "绕杭州飞33小时拍到的美景有多震撼",
-      "onboard_time": 1695312032,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
