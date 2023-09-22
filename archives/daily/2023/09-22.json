@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695357245054,
+  "endTime": 1695359741532,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1799225,
+      "num": 922356,
+      "word": "任正非说不学英文农村孩子永远是农民",
+      "onboard_time": 1695355596,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1271357,
       "num": 1271357,
       "word": "俞灏明认证端木磊是大妈头",
@@ -49,14 +57,6 @@
       "onboard_time": 1695308738,
       "rank": 0,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1096081,
-      "num": 922356,
-      "word": "任正非说不学英文农村孩子永远是农民",
-      "onboard_time": 1695355596,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1036692,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 932885,
-      "num": 296840,
+      "num": 344577,
       "word": "体制内开会为什么不喝奶茶",
       "onboard_time": 1695353735,
       "rank": 20,
@@ -129,6 +129,22 @@
       "onboard_time": 1695342335,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862755,
+      "num": 862755,
+      "word": "张拿铁因东北口音被汪汪队婉拒",
+      "onboard_time": 1695357939,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 826563,
+      "num": 754178,
+      "word": "研究发现人会在34岁断崖式衰老",
+      "onboard_time": 1695354572,
+      "rank": 5,
+      "category": "知识科普"
     },
     {
       "raw_hot": 817118,
@@ -163,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 754178,
-      "num": 754178,
-      "word": "研究发现人会在34岁断崖式衰老",
-      "onboard_time": 1695354572,
-      "rank": 5,
-      "category": "知识科普"
+      "raw_hot": 737445,
+      "num": 737445,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686910,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 669756,
-      "num": 296732,
+      "num": 329249,
       "word": "沪上阿姨 一诺",
       "onboard_time": 1695349953,
       "rank": 34,
@@ -233,6 +249,14 @@
       "onboard_time": 1695339692,
       "rank": 7,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 626298,
+      "num": 626298,
+      "word": "杨幂晒关雪杀青照",
+      "onboard_time": 1695358238,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 615936,
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487718,
+      "num": 416885,
+      "word": "张杰9年前的一个ID",
+      "onboard_time": 1695358478,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 478575,
       "num": 478575,
       "word": "丞磊卢昱晓二搭想演公路文",
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410243,
+      "num": 410243,
+      "word": "一念关山滤镜",
+      "onboard_time": 1695357880,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386923,
       "num": 298243,
       "word": "太子奶",
@@ -404,7 +444,7 @@
     },
     {
       "raw_hot": 379441,
-      "num": 296408,
+      "num": 303583,
       "word": "辞职后家里的猫吐了",
       "onboard_time": 1695349533,
       "rank": 29,
@@ -475,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306869,
+      "num": 306869,
+      "word": "研究员石磊被查证是间谍",
+      "onboard_time": 1695359495,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298894,
       "num": 298894,
       "word": "他从火光中走来 孙梦",
@@ -505,6 +553,14 @@
       "onboard_time": 1695304419,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 293881,
+      "num": 293881,
+      "word": "iPhone15订单排到冬天",
+      "onboard_time": 1695356979,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 287788,
@@ -651,20 +707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234115,
-      "num": 234115,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232371,
       "num": 232371,
       "word": "柳智敏去看BLACKPINK演唱会的原因",
       "onboard_time": 1695312751,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232315,
+      "num": 232315,
+      "word": "为啥劳动人民患抑郁症少",
+      "onboard_time": 1695359079,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 227860,
@@ -707,6 +763,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224810,
+      "num": 490142,
+      "word": "拼多多开了场很土的发布会",
+      "onboard_time": 1695344614,
+      "rank": 44,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 224511,
+      "num": 220970,
+      "word": "卢昱晓写给郭敬明的话",
+      "onboard_time": 1695358835,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224319,
       "num": 224319,
       "word": "卢昱晓新人美时期",
@@ -729,6 +801,14 @@
       "onboard_time": 1695309577,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216923,
+      "num": 216923,
+      "word": "周杰伦演唱会版暗号",
+      "onboard_time": 1695357999,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 214551,
@@ -763,12 +843,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210658,
+      "num": 210658,
+      "word": "逆水寒",
+      "onboard_time": 1695359556,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207800,
       "num": 207800,
       "word": "2023年最后100天",
       "onboard_time": 1695338850,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203274,
+      "num": 203274,
+      "word": "光与夜之恋 复刻",
+      "onboard_time": 1695358296,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 201303,
@@ -793,6 +889,14 @@
       "onboard_time": 1695352353,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 199088,
+      "num": 199088,
+      "word": "JYP美国女团出道",
+      "onboard_time": 1695359495,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 198035,
@@ -867,6 +971,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186059,
+      "num": 610455,
+      "word": "已经有人用上iPhone15了",
+      "onboard_time": 1695355536,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 185692,
+      "num": 185692,
+      "word": "杭州亚运加油",
+      "onboard_time": 1695359316,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184030,
+      "num": 184030,
+      "word": "何运晨加盟令人心动的offer5",
+      "onboard_time": 1695357637,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181053,
       "num": 428563,
       "word": "外交部回应美商务部长对华为新机感到不悦",
@@ -899,14 +1027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172632,
-      "num": 490142,
-      "word": "拼多多开了场很土的发布会",
-      "onboard_time": 1695344614,
-      "rank": 44,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 172029,
       "num": 172029,
       "word": "模特踩潮汕祠堂八仙桌拍照引争议",
@@ -923,14 +1043,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 168562,
-      "num": 168562,
-      "word": "iPhone15订单排到冬天",
-      "onboard_time": 1695356979,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 167811,
       "num": 190709,
       "word": "于潇玥为海外留学当间谍",
@@ -945,6 +1057,22 @@
       "onboard_time": 1695350553,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163424,
+      "num": 163424,
+      "word": "国乒男团vs越南男团",
+      "onboard_time": 1695358538,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162745,
+      "num": 162745,
+      "word": "蔡依林看熊猫像我们挤演唱会",
+      "onboard_time": 1695359617,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 161232,
@@ -969,14 +1097,6 @@
       "onboard_time": 1695355656,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157649,
-      "num": 610455,
-      "word": "已经有人用上iPhone15了",
-      "onboard_time": 1695355536,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 156878,
@@ -1163,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116432,
+      "num": 223197,
+      "word": "于适生活工作反差感",
+      "onboard_time": 1695358597,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115891,
       "num": 204659,
       "word": "弟弟发了工资先给我了",
@@ -1315,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59813,
+      "num": 184745,
+      "word": "致敬中国冠军",
+      "onboard_time": 1695359255,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59644,
       "num": 74911,
       "word": "林茨1比3利物浦",
@@ -1425,6 +1561,14 @@
       "onboard_time": 1695328452,
       "rank": 49,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 2172,
+      "num": 810597,
+      "word": "乌镇峰会十年寄语",
+      "onboard_time": 1695300036,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
