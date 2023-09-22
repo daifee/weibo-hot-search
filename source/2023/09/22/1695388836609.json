@@ -1,0 +1,410 @@
+{
+  "runTime": 1695388836609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 789156,
+        "num": 789156,
+        "word": "陈都灵 在横店进入快穿系统",
+        "onboard_time": 1695385296,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 683319,
+        "num": 683319,
+        "word": "黄子诚涉及间谍行为提出自首",
+        "onboard_time": 1695386135,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66109,
+        "num": 677601,
+        "word": "杭州亚运会开幕倒计时1天",
+        "onboard_time": 1695378695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893870,
+        "num": 676267,
+        "word": "洞洞鞋和勃肯鞋哪个更丑",
+        "onboard_time": 1695378872,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 674445,
+        "num": 674445,
+        "word": "邓紫棋林俊杰手心的蔷薇",
+        "onboard_time": 1695384574,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 570531,
+        "num": 570531,
+        "word": "没有十年工龄背不出这款通勤包",
+        "onboard_time": 1695384992,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1473330,
+        "num": 491813,
+        "word": "把学历改成高中后收到几十个面试",
+        "onboard_time": 1695380733,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 404818,
+        "num": 404818,
+        "word": "王楚钦11比0",
+        "onboard_time": 1695385474,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396530,
+        "num": 396530,
+        "word": "吴磊 我有自己的路要走",
+        "onboard_time": 1695381814,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367706,
+        "num": 367706,
+        "word": "婆婆弄丢孩子甩锅儿媳",
+        "onboard_time": 1695379711,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1781379,
+        "num": 365655,
+        "word": "边缘性行为为什么是边缘的",
+        "onboard_time": 1695384934,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1348054,
+        "num": 362869,
+        "word": "陈学冬车祸后第三次手术结束",
+        "onboard_time": 1695380671,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495586,
+        "num": 357826,
+        "word": "女子3次试管婴儿终于怀上却查出癌症",
+        "onboard_time": 1695387876,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235361,
+        "num": 355485,
+        "word": "98年小伙每天2小时开网店月入5万",
+        "onboard_time": 1695365912,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 10572,
+        "num": 351926,
+        "word": "马东嚯嚯嚯嚯嚯",
+        "onboard_time": 1695388657,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279674,
+        "num": 347481,
+        "word": "中美成立经济领域工作组",
+        "onboard_time": 1695385234,
+        "rank": 15,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 478652,
+        "num": 346357,
+        "word": "张韶涵造型师真的高手",
+        "onboard_time": 1695387033,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372010,
+        "num": 343122,
+        "word": "晚上两点睡早上10点起算熬夜吗",
+        "onboard_time": 1695385535,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339754,
+        "num": 339754,
+        "word": "Lisa晒BLACKPINK背影照",
+        "onboard_time": 1695374314,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329782,
+        "num": 329782,
+        "word": "Prada秀场抓到三个符",
+        "onboard_time": 1695382775,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 514176,
+        "num": 321074,
+        "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
+        "onboard_time": 1695374793,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 308147,
+        "num": 308147,
+        "word": "肖战没去哇唧唧哇演唱会",
+        "onboard_time": 1695378033,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199100,
+        "num": 306626,
+        "word": "遇隐翅虫第一反应要用力吹走",
+        "onboard_time": 1695375934,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306131,
+        "num": 306131,
+        "word": "为什么iPhone不支持通话录音",
+        "onboard_time": 1695388114,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 293094,
+        "num": 293094,
+        "word": "没有直男逃得过这条裙子",
+        "onboard_time": 1695376232,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 259581,
+        "num": 259581,
+        "word": "芝芙的饭被Amber一口吃了",
+        "onboard_time": 1695386975,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255711,
+        "num": 255711,
+        "word": "中国女足vs蒙古女足",
+        "onboard_time": 1695384634,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250312,
+        "num": 250312,
+        "word": "林俊杰北京演唱会",
+        "onboard_time": 1695382113,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246049,
+        "num": 246049,
+        "word": "异人之下",
+        "onboard_time": 1695384154,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212618,
+        "num": 212618,
+        "word": "王霜五子登科",
+        "onboard_time": 1695388235,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203035,
+        "num": 203035,
+        "word": "王霜帽子戏法",
+        "onboard_time": 1695388414,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200976,
+        "num": 200976,
+        "word": "张碧晨连吃三天小龙虾后普拉提",
+        "onboard_time": 1695384034,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186532,
+        "num": 186532,
+        "word": "小杨哥回应TheShy缺席直播",
+        "onboard_time": 1695382173,
+        "rank": 32,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 91964,
+        "num": 182902,
+        "word": "崩坏3第二部首曝",
+        "onboard_time": 1695387996,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180928,
+        "num": 180928,
+        "word": "泷泽秀明被曝性骚扰",
+        "onboard_time": 1695382833,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179804,
+        "num": 179804,
+        "word": "中国女足半场8比0蒙古女足",
+        "onboard_time": 1695387996,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177184,
+        "num": 177184,
+        "word": "不小心把雪莲果当成红薯蒸了",
+        "onboard_time": 1695383735,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175495,
+        "num": 175495,
+        "word": "中国女足8分钟两球领先",
+        "onboard_time": 1695387636,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173976,
+        "num": 173976,
+        "word": "中国女排vs荷兰女排",
+        "onboard_time": 1695384514,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172074,
+        "num": 172074,
+        "word": "薛之谦演唱会现场舞狮",
+        "onboard_time": 1695388535,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165815,
+        "num": 165815,
+        "word": "虞书欣身上好多链子",
+        "onboard_time": 1695379653,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151949,
+        "num": 151949,
+        "word": "沈梦辰当店长破中餐厅7营业额记录",
+        "onboard_time": 1695382654,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150462,
+        "num": 150462,
+        "word": "Uzi童锦程冒雨骑行",
+        "onboard_time": 1695386255,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 141714,
+        "num": 141714,
+        "word": "傅云深女儿奴",
+        "onboard_time": 1695381453,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140995,
+        "num": 140995,
+        "word": "苹果iPhone15Pro确认3274mAh电池",
+        "onboard_time": 1695374911,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136560,
+        "num": 136560,
+        "word": "陈好薛佳凝合照",
+        "onboard_time": 1695370174,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134143,
+        "num": 134143,
+        "word": "英语老师3天忘光所有单词查出痴呆症",
+        "onboard_time": 1695371314,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 131926,
+        "num": 131926,
+        "word": "自述牵狗进电梯被邻居殴打女生道歉",
+        "onboard_time": 1695385116,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130753,
+        "num": 130753,
+        "word": "田嘉瑞直播",
+        "onboard_time": 1695382234,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117968,
+        "num": 117968,
+        "word": "霍启刚说郭晶晶担任火炬手是骄傲",
+        "onboard_time": 1695374552,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大农民致以节日祝贺#"
+    }
+  }
+}
