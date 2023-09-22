@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695406901125,
+  "endTime": 1695407673766,
   "band_list": [
     {
       "raw_hot": 1451426,
@@ -459,12 +459,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38431,
+      "num": 43028,
+      "word": "周震南舞台气场",
+      "onboard_time": 1695407118,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 31220,
       "num": 47867,
       "word": "我们i人社交是这样的啦",
       "onboard_time": 1695392260,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23368,
+      "num": 42923,
+      "word": "张凌赫巴黎出发路透",
+      "onboard_time": 1695407058,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 18294,
+      "num": 42911,
+      "word": "英雄联盟国家集训队抵达亚运村",
+      "onboard_time": 1695407598,
+      "rank": 49,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 882,
