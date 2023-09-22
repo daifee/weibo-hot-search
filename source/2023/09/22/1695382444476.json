@@ -1,0 +1,410 @@
+{
+  "runTime": 1695382444476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256690,
+        "num": 1256690,
+        "word": "洞洞鞋和勃肯鞋哪个更丑",
+        "onboard_time": 1695378872,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 296817,
+        "num": 878155,
+        "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+        "onboard_time": 1695366090,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80257,
+        "num": 778703,
+        "word": "杭州亚运会开幕倒计时1天",
+        "onboard_time": 1695378695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772126,
+        "num": 772126,
+        "word": "吴磊 我有自己的路要走",
+        "onboard_time": 1695381814,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173399,
+        "num": 711350,
+        "word": "救人后着急上班的领带小哥是山东人",
+        "onboard_time": 1695373053,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 662044,
+        "num": 662044,
+        "word": "孟钰坐她爸爸的位置了",
+        "onboard_time": 1695375393,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150784,
+        "num": 554572,
+        "word": "民警下班吃饭顺便抓了个贼",
+        "onboard_time": 1695377013,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488454,
+        "num": 488454,
+        "word": "英语老师3天忘光所有单词查出痴呆症",
+        "onboard_time": 1695371314,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 402720,
+        "num": 402720,
+        "word": "98年小伙每天2小时开网店月入5万",
+        "onboard_time": 1695365912,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 387220,
+        "num": 387220,
+        "word": "婆婆弄丢孩子甩锅儿媳",
+        "onboard_time": 1695379711,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1988699,
+        "num": 387138,
+        "word": "陈学冬车祸后第三次手术结束",
+        "onboard_time": 1695380671,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723578,
+        "num": 385781,
+        "word": "没有直男逃得过这条裙子",
+        "onboard_time": 1695376232,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 223498,
+        "num": 385152,
+        "word": "遇隐翅虫第一反应要用力吹走",
+        "onboard_time": 1695375934,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130211,
+        "num": 384954,
+        "word": "大型演出应实行实名购票实名入场制度",
+        "onboard_time": 1695379953,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 57332,
+        "num": 384251,
+        "word": "女生藏在鞋柜里的秘密",
+        "onboard_time": 1695372155,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681060,
+        "num": 383050,
+        "word": "Lisa晒BLACKPINK背影照",
+        "onboard_time": 1695374314,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 493699,
+        "num": 382425,
+        "word": "C位妈妈这脸还能再战十年",
+        "onboard_time": 1695377853,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445819,
+        "num": 381907,
+        "word": "小杨哥回应TheShy缺席直播",
+        "onboard_time": 1695382173,
+        "rank": 17,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 417593,
+        "num": 381084,
+        "word": "三亚一女子诊所内被害",
+        "onboard_time": 1695372755,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396624,
+        "num": 379911,
+        "word": "腿姐直播",
+        "onboard_time": 1695377734,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 628902,
+        "num": 379831,
+        "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
+        "onboard_time": 1695374793,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 535913,
+        "num": 379076,
+        "word": "肖战没去哇唧唧哇演唱会",
+        "onboard_time": 1695378033,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378392,
+        "num": 378392,
+        "word": "华为充电线无法给iPhone15充电",
+        "onboard_time": 1695374793,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 372517,
+        "num": 372517,
+        "word": "陈好薛佳凝合照",
+        "onboard_time": 1695370174,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331945,
+        "num": 331945,
+        "word": "傅云深女儿奴",
+        "onboard_time": 1695381453,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290351,
+        "num": 290351,
+        "word": "长相思酷云播放量年冠",
+        "onboard_time": 1695379413,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275770,
+        "num": 275770,
+        "word": "多吃这些食物发量可增长",
+        "onboard_time": 1695380794,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248617,
+        "num": 248617,
+        "word": "虞书欣身上好多链子",
+        "onboard_time": 1695379653,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235764,
+        "num": 235764,
+        "word": "徐涛直播",
+        "onboard_time": 1695380610,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87954,
+        "num": 226151,
+        "word": "不致命但烦人的慢性病",
+        "onboard_time": 1695380794,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 819291,
+        "num": 226109,
+        "word": "把学历改成高中后收到几十个面试",
+        "onboard_time": 1695380733,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225095,
+        "num": 225095,
+        "word": "林俊杰北京演唱会",
+        "onboard_time": 1695382113,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216745,
+        "num": 216745,
+        "word": "苹果iPhone15Pro确认3274mAh电池",
+        "onboard_time": 1695374911,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212888,
+        "num": 212888,
+        "word": "离职后还收到了公司的中秋礼物",
+        "onboard_time": 1695366874,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208490,
+        "num": 208490,
+        "word": "孙颖莎11比0",
+        "onboard_time": 1695372454,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195361,
+        "num": 195361,
+        "word": "田嘉瑞直播",
+        "onboard_time": 1695382234,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52622,
+        "num": 194618,
+        "word": "欧莱雅中国新高层谈女性力量",
+        "onboard_time": 1695382053,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194550,
+        "num": 194550,
+        "word": "霍启刚说郭晶晶担任火炬手是骄傲",
+        "onboard_time": 1695374552,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155999,
+        "num": 155999,
+        "word": "男童被生母虐待致截肢案将开庭",
+        "onboard_time": 1695376652,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150364,
+        "num": 150364,
+        "word": "为什么孙悟空会被热米饭烫到",
+        "onboard_time": 1695370293,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148792,
+        "num": 148792,
+        "word": "夜色尚浅芭莎拍摄路透",
+        "onboard_time": 1695377553,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148287,
+        "num": 148287,
+        "word": "孙颖莎亚运会首秀",
+        "onboard_time": 1695372512,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144464,
+        "num": 144464,
+        "word": "官方回应游客手机掉落被梅兰啃咬",
+        "onboard_time": 1695379833,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 142015,
+        "num": 142015,
+        "word": "异人之下二壮居然是AI",
+        "onboard_time": 1695376595,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134921,
+        "num": 134921,
+        "word": "国乒女团vs哈萨克斯坦",
+        "onboard_time": 1695372333,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124904,
+        "num": 124904,
+        "word": "小学要求一至五年级军训引家长质疑",
+        "onboard_time": 1695378454,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121408,
+        "num": 121408,
+        "word": "亚运会LOL项目韩国队抵杭",
+        "onboard_time": 1695374734,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 117534,
+        "num": 117534,
+        "word": "五月天重庆演唱会",
+        "onboard_time": 1695379413,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109207,
+        "num": 109207,
+        "word": "黄子韬2023巡回演唱会官宣",
+        "onboard_time": 1695377371,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70389,
+        "num": 104092,
+        "word": "总有些夜晚难以入睡",
+        "onboard_time": 1695380013,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江绍兴考察调研#"
+    }
+  }
+}
