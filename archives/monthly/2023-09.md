@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 14:35:33
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 15:15:43
 </p>
 </blockquote>
 <p>
@@ -3429,6 +3429,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23" target="weibo">
+茶颜悦色回应点餐方式像智商税（热度：1327407）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾4.9级地震（热度：1325369）
 </a>
@@ -3683,12 +3689,6 @@ boss直聘崩了（热度：1252566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A4%9A%E5%90%8D%E7%99%BE%E4%B8%87%E7%BA%A7%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95%23" target="weibo">
 凉山多名百万级网红被捕（热度：1237158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23" target="weibo">
-茶颜悦色回应点餐方式像智商税（热度：1234696）
 </a>
 </li>
 

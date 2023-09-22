@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695364533216,
+  "endTime": 1695366943795,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -907,6 +907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1327407,
+      "num": 1327407,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324816,
       "num": 1324816,
       "word": "伍佰 25岁为什么听我的歌呢",
@@ -1040,14 +1048,6 @@
       "word": "知情人称母子坠楼案2孩子是被扔下楼",
       "onboard_time": 1694874942,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234696,
-      "num": 1234696,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2555,6 +2555,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 701795,
+      "num": 701795,
+      "word": "98年小伙每天2小时开网店月入5万",
+      "onboard_time": 1695365912,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 699997,
       "num": 699997,
       "word": "内娱现偶之光",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1694876439,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645512,
+      "num": 329017,
+      "word": "苹果称iPhone15Pro变色可恢复",
+      "onboard_time": 1695362675,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 644447,
@@ -5307,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399569,
+      "num": 399569,
+      "word": "张栋梁从鬼脚梁变成鸡脚梁了",
+      "onboard_time": 1695364474,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398838,
       "num": 398838,
       "word": "TFBOYS为王俊凯新电影打call",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1695292357,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390344,
+      "num": 324520,
+      "word": "张远拒绝陈楚生",
+      "onboard_time": 1695365129,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 389446,
@@ -6051,6 +6083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359338,
+      "num": 321337,
+      "word": "长时间玩手机真的会变丑吗",
+      "onboard_time": 1695364892,
+      "rank": 20,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 359094,
       "num": 359094,
       "word": "魏大勋先演黄子诚再演的孟宴臣",
@@ -6387,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340173,
+      "num": 322642,
+      "word": "老公是一种态度 老公是一种心情",
+      "onboard_time": 1695365430,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339494,
       "num": 339494,
       "word": "他从火光中走来今晚开播",
@@ -6561,6 +6609,14 @@
       "onboard_time": 1695262534,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329176,
+      "num": 329176,
+      "word": "SEVENTEEN新预告有北京",
+      "onboard_time": 1695364892,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 328001,
@@ -6745,6 +6801,14 @@
       "onboard_time": 1695119080,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 321097,
+      "num": 321097,
+      "word": "林孝埈1500FA",
+      "onboard_time": 1695365371,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 321028,
@@ -7441,14 +7505,6 @@
       "onboard_time": 1695181717,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287805,
-      "num": 287805,
-      "word": "苹果称iPhone15Pro变色可恢复",
-      "onboard_time": 1695362675,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 287788,
@@ -8211,6 +8267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260228,
+      "num": 260228,
+      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+      "onboard_time": 1695366090,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260047,
       "num": 260047,
       "word": "父亲陪女儿备战高考自己成功考研",
@@ -8809,6 +8873,14 @@
       "onboard_time": 1695240674,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238624,
+      "num": 238624,
+      "word": "丁仲礼院士预言成真",
+      "onboard_time": 1695363691,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 237869,
@@ -10883,6 +10955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193447,
+      "num": 184181,
+      "word": "1公斤黄金价格已达47万",
+      "onboard_time": 1695366874,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193233,
       "num": 193233,
       "word": "云之羽今日收官",
@@ -12851,6 +12931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151467,
+      "num": 151467,
+      "word": "假如甄嬛是网红来演",
+      "onboard_time": 1695364172,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150559,
       "num": 150559,
       "word": "夜色尚浅还有多少好东西",
@@ -12880,6 +12968,14 @@
       "word": "阴阳师中国航天十二天宫联动",
       "onboard_time": 1695117279,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149704,
+      "num": 149704,
+      "word": "铃鹿御前传说皮肤",
+      "onboard_time": 1695366812,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -13091,14 +13187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143602,
-      "num": 143602,
-      "word": "丁仲礼院士预言成真",
-      "onboard_time": 1695363691,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 143405,
       "num": 143405,
       "word": "奥特曼带着梅西来看薛之谦",
@@ -13283,6 +13371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138569,
+      "num": 138569,
+      "word": "离职后还收到了公司的中秋礼物",
+      "onboard_time": 1695366874,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138165,
       "num": 138165,
       "word": "如何看待粉丝为明星洗白",
@@ -13321,14 +13417,6 @@
       "onboard_time": 1695353614,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137323,
-      "num": 137323,
-      "word": "假如甄嬛是网红来演",
-      "onboard_time": 1695364172,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 137303,
@@ -13371,20 +13459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135774,
-      "num": 135774,
-      "word": "张栋梁从鬼脚梁变成鸡脚梁了",
-      "onboard_time": 1695364474,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135024,
       "num": 340373,
       "word": "小鹏 王炸",
       "onboard_time": 1695130722,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134779,
+      "num": 134779,
+      "word": "盛阳对简冰感情萌生的始末",
+      "onboard_time": 1695365010,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 134601,
@@ -14163,6 +14251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80469,
+      "num": 325046,
+      "word": "郭晶晶人生风浪中找到稳定核心",
+      "onboard_time": 1695365613,
+      "rank": 15,
+      "category": "体育,情感"
+    },
+    {
       "raw_hot": 80175,
       "num": 80175,
       "word": "当理解了女儿她就不再是孤军奋战",
@@ -14891,6 +14987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 18818,
+      "num": 326193,
+      "word": "许昕又要亮大招了",
+      "onboard_time": 1695366032,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15478,
       "num": 369179,
       "word": "2023黄河文化月",
@@ -14971,7 +15075,7 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 4389,
+      "raw_hot": 5130,
       "num": 903201,
       "word": "乌镇峰会十年寄语",
       "onboard_time": 1695300036,
