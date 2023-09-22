@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695422026223,
+  "endTime": 1695424574225,
   "band_list": [
     {
       "raw_hot": 1451426,
@@ -99,20 +99,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322327,
+      "num": 322327,
+      "word": "女子3次试管婴儿终于怀上却查出癌症",
+      "onboard_time": 1695387876,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317133,
       "num": 317133,
       "word": "国产剧女主终于长嘴了",
       "onboard_time": 1695390635,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311620,
-      "num": 311620,
-      "word": "女子3次试管婴儿终于怀上却查出癌症",
-      "onboard_time": 1695387876,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268149,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191061,
+      "num": 191061,
+      "word": "在整个乒乓球界都是相当炸裂的",
+      "onboard_time": 1695423863,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187845,
       "num": 307334,
       "word": "中国女排奥运资格赛两连败",
@@ -209,6 +217,14 @@
       "onboard_time": 1695365912,
       "rank": 25,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 180356,
+      "num": 180356,
+      "word": "新家被我改造成了住不起的样子",
+      "onboard_time": 1695402564,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 174297,
@@ -267,20 +283,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150654,
+      "num": 100928,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146830,
       "num": 146830,
       "word": "有时候在肯德基上班挺无助的",
       "onboard_time": 1695395257,
       "rank": 35,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 143963,
-      "num": 143963,
-      "word": "新家被我改造成了住不起的样子",
-      "onboard_time": 1695402564,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 142226,
@@ -315,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134184,
+      "num": 100345,
+      "word": "iPhone15ProMax最高加价2800",
+      "onboard_time": 1695418455,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129980,
       "num": 129980,
       "word": "杨乃文伍佰 说不出口",
       "onboard_time": 1695400048,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125743,
+      "num": 67237,
+      "word": "霍震霆谈霍启刚当团长",
+      "onboard_time": 1695423863,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 123440,
@@ -387,14 +419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99353,
-      "num": 59562,
-      "word": "iPhone15ProMax最高加价2800",
-      "onboard_time": 1695418455,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 98516,
       "num": 112788,
       "word": "王源大背头小揪揪",
@@ -443,16 +467,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82301,
-      "num": 59006,
-      "word": "男子潜入原单位摆放前上司遗像",
-      "onboard_time": 1695411254,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81777,
-      "num": 81777,
+      "raw_hot": 86819,
+      "num": 86819,
       "word": "那英说周迅带老花镜像88",
       "onboard_time": 1695388835,
       "rank": 39,
@@ -475,20 +491,60 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61591,
+      "num": 61591,
+      "word": "周杰伦朗朗最伟大的作品和夜曲现场",
+      "onboard_time": 1695423802,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 58957,
+      "num": 58957,
+      "word": "电影献王虫谷",
+      "onboard_time": 1695423802,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 55853,
+      "num": 59437,
+      "word": "吴磊 帅有这么大",
+      "onboard_time": 1695408556,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 52241,
+      "num": 52241,
+      "word": "大叔第3次考科目二合格彻底放飞",
+      "onboard_time": 1695422898,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49556,
+      "num": 49556,
+      "word": "杭州第19届亚运会今日开幕",
+      "onboard_time": 1695424403,
+      "rank": 43,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 38621,
+      "num": 47896,
+      "word": "好像也没那么热血沸腾为啥好看",
+      "onboard_time": 1695422540,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38431,
       "num": 43028,
       "word": "周震南舞台气场",
       "onboard_time": 1695407118,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38141,
-      "num": 38141,
-      "word": "吴磊 帅有这么大",
-      "onboard_time": 1695408556,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 34196,
