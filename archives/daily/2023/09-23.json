@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695400647019,
+  "endTime": 1695402907973,
   "band_list": [
     {
       "raw_hot": 1451426,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 264169,
+      "num": 264169,
+      "word": "日本东京涩谷中心街发生火灾",
+      "onboard_time": 1695398674,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 263453,
       "num": 263453,
       "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
@@ -131,12 +139,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 253710,
-      "num": 263768,
-      "word": "日本东京涩谷中心街发生火灾",
-      "onboard_time": 1695398674,
-      "rank": 19,
-      "category": "国外要闻"
+      "raw_hot": 244378,
+      "num": 244378,
+      "word": "快给张嘉倪陈牧驰递本子",
+      "onboard_time": 1695396695,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239622,
@@ -153,14 +161,6 @@
       "onboard_time": 1695394534,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 226746,
-      "num": 226746,
-      "word": "快给张嘉倪陈牧驰递本子",
-      "onboard_time": 1695396695,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202809,
@@ -267,6 +267,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 143963,
+      "num": 143963,
+      "word": "新家被我改造成了住不起的样子",
+      "onboard_time": 1695402564,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142226,
       "num": 142226,
       "word": "成毅曾舜晞肖顺尧合体采访",
@@ -347,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107171,
+      "num": 107171,
+      "word": "百个县城用方言为亚运送祝福",
+      "onboard_time": 1695401906,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 106650,
       "num": 112919,
       "word": "吴磊 我有自己的路要走",
@@ -411,12 +427,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81777,
+      "num": 81777,
+      "word": "那英说周迅带老花镜像88",
+      "onboard_time": 1695388835,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79591,
       "num": 390213,
       "word": "被亚运会的气氛燃到了",
       "onboard_time": 1695389978,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74279,
+      "num": 74279,
+      "word": "本科学生考研考公哪个更好",
+      "onboard_time": 1695402444,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 68920,
+      "num": 68920,
+      "word": "婆婆弄丢孩子甩锅儿媳",
+      "onboard_time": 1695379711,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 882,
+      "num": 179184,
+      "word": "马东嚯嚯嚯嚯嚯",
+      "onboard_time": 1695388657,
+      "rank": 14,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
