@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695382444476,
+  "endTime": 1695385941929,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -67,6 +67,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1572716,
+      "num": 1572716,
+      "word": "洞洞鞋和勃肯鞋哪个更丑",
+      "onboard_time": 1695378872,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 1538916,
+      "num": 340522,
+      "word": "把学历改成高中后收到几十个面试",
+      "onboard_time": 1695380733,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1519425,
       "num": 831086,
       "word": "我辞职后 我的猫压力巨大在家吐了",
@@ -105,14 +121,6 @@
       "onboard_time": 1695350732,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1256690,
-      "num": 1256690,
-      "word": "洞洞鞋和勃肯鞋哪个更丑",
-      "onboard_time": 1695378872,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 1215500,
@@ -275,14 +283,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 819291,
-      "num": 226109,
-      "word": "把学历改成高中后收到几十个面试",
-      "onboard_time": 1695380733,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 817118,
       "num": 562289,
       "word": "网红老婆爱吃巧乐兹发文道歉",
@@ -331,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 693043,
+      "num": 693043,
+      "word": "陈都灵 在横店进入快穿系统",
+      "onboard_time": 1695385296,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 686910,
       "num": 686910,
       "word": "他从火光中走来vs我的人间烟火",
@@ -345,6 +353,14 @@
       "onboard_time": 1695347313,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 683357,
+      "num": 683357,
+      "word": "邓紫棋林俊杰手心的蔷薇",
+      "onboard_time": 1695384574,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 680021,
@@ -467,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 591165,
+      "num": 329967,
+      "word": "Prada秀场抓到三个符",
+      "onboard_time": 1695382775,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 585433,
       "num": 379076,
       "word": "肖战没去哇唧唧哇演唱会",
@@ -497,6 +521,14 @@
       "onboard_time": 1695343295,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564535,
+      "num": 209019,
+      "word": "边缘性行为为什么是边缘的",
+      "onboard_time": 1695384934,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 563641,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 445819,
-      "num": 381907,
+      "num": 393152,
       "word": "小杨哥回应TheShy缺席直播",
       "onboard_time": 1695382173,
       "rank": 17,
@@ -835,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366086,
+      "num": 325175,
+      "word": "泷泽秀明被曝性骚扰",
+      "onboard_time": 1695382833,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359338,
       "num": 321337,
       "word": "长时间玩手机真的会变丑吗",
@@ -859,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 352424,
+      "num": 314134,
+      "word": "张碧晨连吃三天小龙虾后普拉提",
+      "onboard_time": 1695384034,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 348286,
       "num": 348286,
       "word": "黄景瑜张婧仪体型差",
@@ -875,6 +923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 345592,
+      "num": 345592,
+      "word": "中国女足vs蒙古女足",
+      "onboard_time": 1695384634,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345527,
       "num": 395894,
       "word": "建立中叙战略伙伴关系",
@@ -889,6 +945,14 @@
       "onboard_time": 1695350912,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342974,
+      "num": 342974,
+      "word": "王楚钦11比0",
+      "onboard_time": 1695385474,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 331945,
@@ -939,12 +1003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321964,
+      "num": 321964,
+      "word": "没有十年工龄背不出这款通勤包",
+      "onboard_time": 1695384992,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321097,
       "num": 321097,
       "word": "林孝埈1500FA",
       "onboard_time": 1695365371,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320809,
+      "num": 313973,
+      "word": "不小心把雪莲果当成红薯蒸了",
+      "onboard_time": 1695383735,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 320092,
@@ -1347,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224340,
+      "num": 337214,
+      "word": "中美成立经济领域工作组",
+      "onboard_time": 1695385234,
+      "rank": 12,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 224319,
       "num": 224319,
       "word": "卢昱晓新人美时期",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1695362733,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222692,
+      "num": 222692,
+      "word": "晚上两点睡早上10点起算熬夜吗",
+      "onboard_time": 1695385535,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 221618,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1695370832,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218263,
+      "num": 218263,
+      "word": "沈梦辰当店长破中餐厅7营业额记录",
+      "onboard_time": 1695382654,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 216923,
@@ -1451,6 +1555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209698,
+      "num": 209698,
+      "word": "肖秀荣直播",
+      "onboard_time": 1695383554,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209413,
       "num": 209413,
       "word": "他从火光中走来",
@@ -1465,6 +1577,14 @@
       "onboard_time": 1695338850,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206238,
+      "num": 206238,
+      "word": "乐队的夏天",
+      "onboard_time": 1695385354,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 203274,
@@ -1691,6 +1811,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185484,
+      "num": 185484,
+      "word": "孙颖莎演我下班",
+      "onboard_time": 1695383072,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184999,
+      "num": 184999,
+      "word": "中国女排vs荷兰女排",
+      "onboard_time": 1695384514,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184030,
       "num": 184030,
       "word": "何运晨加盟令人心动的offer5",
@@ -1745,6 +1881,14 @@
       "onboard_time": 1695354694,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173849,
+      "num": 173849,
+      "word": "异人之下",
+      "onboard_time": 1695384154,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 172029,
@@ -2043,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139560,
+      "num": 139560,
+      "word": "自述牵狗进电梯被邻居殴打女生道歉",
+      "onboard_time": 1695385116,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137962,
       "num": 137962,
       "word": "刘德华张涵予新片大佬即视感",
@@ -2113,6 +2265,14 @@
       "onboard_time": 1695372155,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128493,
+      "num": 128493,
+      "word": "薛之谦广州",
+      "onboard_time": 1695384274,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 126987,
@@ -2233,6 +2393,14 @@
       "onboard_time": 1695354934,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110577,
+      "num": 332263,
+      "word": "崩坏3七周年",
+      "onboard_time": 1695384034,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 108706,
