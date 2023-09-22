@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695392144209,
+  "endTime": 1695393242326,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -65,6 +65,14 @@
       "onboard_time": 1695384934,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1844866,
+      "num": 1844866,
+      "word": "中国女排2比3荷兰女排",
+      "onboard_time": 1695392436,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1799225,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790586,
+      "num": 790586,
+      "word": "中国女排奥运资格赛两连败",
+      "onboard_time": 1695392199,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 790493,
       "num": 790493,
       "word": "北京一公交车被水泥罐车追尾18人送医",
@@ -379,7 +395,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 722458,
+      "raw_hot": 737725,
+      "num": 737725,
+      "word": "国产剧女主终于长嘴了",
+      "onboard_time": 1695390635,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 723955,
       "num": 467367,
       "word": "张韶涵造型师真的高手",
       "onboard_time": 1695387033,
@@ -387,7 +411,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 688143,
+      "raw_hot": 701601,
       "num": 449314,
       "word": "未来婆婆说给买一千块钱的三金",
       "onboard_time": 1695391056,
@@ -641,14 +665,6 @@
       "onboard_time": 1695365430,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 504932,
-      "num": 504932,
-      "word": "国产剧女主终于长嘴了",
-      "onboard_time": 1695390635,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 498506,
@@ -1155,6 +1171,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312736,
+      "num": 312736,
+      "word": "IVE预告",
+      "onboard_time": 1695392917,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 310229,
+      "num": 310229,
+      "word": "iPhone15怎么充电",
+      "onboard_time": 1695389556,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 307982,
       "num": 307982,
       "word": "左叶 希望时间停留在那一刻",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1695346476,
       "rank": 26,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 296818,
-      "num": 296818,
-      "word": "iPhone15怎么充电",
-      "onboard_time": 1695389556,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 294601,
@@ -1523,6 +1547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228094,
+      "num": 228094,
+      "word": "巴黎奥运会女排资格赛",
+      "onboard_time": 1695392077,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227860,
       "num": 227860,
       "word": "薛之谦滁州",
@@ -1755,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205587,
+      "num": 205587,
+      "word": "我们i人社交是这样的啦",
+      "onboard_time": 1695392260,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203274,
       "num": 203274,
       "word": "光与夜之恋 复刻",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1695359794,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201505,
+      "num": 201505,
+      "word": "异人之下大结局",
+      "onboard_time": 1695393099,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 201303,
@@ -1953,6 +2001,14 @@
       "onboard_time": 1695313350,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189644,
+      "num": 189644,
+      "word": "仲慧发球",
+      "onboard_time": 1695392795,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 189643,
@@ -2284,7 +2340,7 @@
     },
     {
       "raw_hot": 152308,
-      "num": 146410,
+      "num": 152811,
       "word": "一首歌唱尽人的一生",
       "onboard_time": 1695383432,
       "rank": 40,
@@ -2388,7 +2444,7 @@
     },
     {
       "raw_hot": 147191,
-      "num": 147191,
+      "num": 152802,
       "word": "周迅感冒嗓音被唐老鸭夺舍",
       "onboard_time": 1695389380,
       "rank": 44,
@@ -2425,6 +2481,14 @@
       "onboard_time": 1695303457,
       "rank": 33,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 141807,
+      "num": 1269030,
+      "word": "被亚运会的气氛燃到了",
+      "onboard_time": 1695389978,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141057,
@@ -2531,14 +2595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127315,
-      "num": 127315,
-      "word": "巴黎奥运会女排资格赛",
-      "onboard_time": 1695392077,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126987,
       "num": 204680,
       "word": "梁朝伟治好了我的社交焦虑",
@@ -2619,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116541,
+      "num": 473026,
+      "word": "Gucci大秀",
+      "onboard_time": 1695391235,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 116432,
       "num": 223197,
       "word": "于适生活工作反差感",
@@ -2681,14 +2745,6 @@
       "onboard_time": 1695377013,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104243,
-      "num": 1269030,
-      "word": "被亚运会的气氛燃到了",
-      "onboard_time": 1695389978,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103282,
@@ -2865,14 +2921,6 @@
       "onboard_time": 1695373233,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 66616,
-      "num": 473026,
-      "word": "Gucci大秀",
-      "onboard_time": 1695391235,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 64761,
