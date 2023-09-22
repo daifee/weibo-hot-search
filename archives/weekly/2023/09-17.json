@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695346295985,
+  "endTime": 1695349387148,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -1515,6 +1515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 957084,
+      "num": 957084,
+      "word": "邓紫棋说承认自己不够也是一种勇气",
+      "onboard_time": 1695345874,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 953745,
       "num": 459418,
       "word": "赵露思机场扶起摔倒的路人",
@@ -2764,7 +2772,7 @@
     },
     {
       "raw_hot": 652443,
-      "num": 325412,
+      "num": 326845,
       "word": "虞书欣生图",
       "onboard_time": 1695339570,
       "rank": 21,
@@ -3139,6 +3147,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 595791,
+      "num": 595791,
+      "word": "冯宝宝和她三个没用的男人",
+      "onboard_time": 1695348515,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594487,
       "num": 594487,
       "word": "我们恋爱吧女1撞衫赵露思",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1695139954,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580285,
+      "num": 580285,
+      "word": "丫丫小毯子里找苹果",
+      "onboard_time": 1695348392,
+      "rank": 5,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 580256,
@@ -3947,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509552,
+      "num": 369672,
+      "word": "苹果回应iPhone15Pro沾指纹",
+      "onboard_time": 1695347313,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 507667,
       "num": 507667,
       "word": "迪丽热巴帮秦海璐戴麦",
@@ -4091,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492648,
+      "num": 492648,
+      "word": "花少5车内合照",
+      "onboard_time": 1695345994,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492581,
       "num": 492581,
       "word": "才知道蜜雪冰城曾经是个餐馆",
@@ -4105,6 +4145,14 @@
       "onboard_time": 1694959836,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 489129,
+      "num": 489129,
+      "word": "吕良被断双手",
+      "onboard_time": 1695345275,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 488246,
@@ -4481,14 +4529,6 @@
       "onboard_time": 1694917412,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447668,
-      "num": 424477,
-      "word": "吕良被断双手",
-      "onboard_time": 1695345275,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 447564,
@@ -5019,6 +5059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 404125,
+      "num": 366277,
+      "word": "儿子监狱服刑母亲骗领国家工资41万",
+      "onboard_time": 1695348753,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403634,
       "num": 403634,
       "word": "女生求职被拒后收到HR邮件教写简历",
@@ -5033,6 +5081,14 @@
       "onboard_time": 1695016056,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400357,
+      "num": 365279,
+      "word": "令人心动的offer5实习生出席官宣",
+      "onboard_time": 1695348874,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 398838,
@@ -5267,6 +5323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383176,
+      "num": 364622,
+      "word": "YG新女团将推迟出道",
+      "onboard_time": 1695348632,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382484,
       "num": 345781,
       "word": "原来牙线是这样用的",
@@ -5497,6 +5561,14 @@
       "onboard_time": 1695167857,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 369762,
+      "num": 369762,
+      "word": "山东师大回应博导被举报侵害青年女教师",
+      "onboard_time": 1695344976,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 369519,
@@ -6627,14 +6699,6 @@
       "category": "运动健身,网红"
     },
     {
-      "raw_hot": 308093,
-      "num": 308093,
-      "word": "山东师大回应博导被举报侵害青年女教师",
-      "onboard_time": 1695344976,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 307282,
       "num": 268441,
       "word": "好喜欢熬夜又好喜欢睡觉",
@@ -6833,6 +6897,14 @@
       "onboard_time": 1695203676,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 298201,
+      "num": 298201,
+      "word": "花花的大脸太招人稀罕啦",
+      "onboard_time": 1695346476,
+      "rank": 26,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 297868,
@@ -7065,6 +7137,22 @@
       "onboard_time": 1695181717,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287586,
+      "num": 287586,
+      "word": "宫本武藏惊梅引新皮肤",
+      "onboard_time": 1695348213,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 286875,
+      "num": 286875,
+      "word": "卢昱晓让我知道聪明是演出来的",
+      "onboard_time": 1695348454,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 286504,
@@ -7529,14 +7617,6 @@
       "onboard_time": 1694924858,
       "rank": 32,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 270810,
-      "num": 270810,
-      "word": "邓紫棋说承认自己不够也是一种勇气",
-      "onboard_time": 1695345874,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 270733,
@@ -8979,6 +9059,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 221618,
+      "num": 221618,
+      "word": "乐视网一审判决出炉",
+      "onboard_time": 1695348336,
+      "rank": 30,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 221578,
       "num": 221578,
       "word": "男生女寝楼下救火引全场尖叫",
@@ -9393,14 +9481,6 @@
       "onboard_time": 1694937156,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 211860,
-      "num": 211860,
-      "word": "花少5车内合照",
-      "onboard_time": 1695345994,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 211334,
@@ -9865,6 +9945,14 @@
       "onboard_time": 1695263315,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201303,
+      "num": 201303,
+      "word": "傅谨",
+      "onboard_time": 1695348213,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 201297,
@@ -10763,6 +10851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185258,
+      "num": 185258,
+      "word": "檀健次 祖玛珑",
+      "onboard_time": 1695349352,
+      "rank": 36,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 185207,
       "num": 185207,
       "word": "我只会心疼林双手疼不疼",
@@ -11249,6 +11345,14 @@
       "onboard_time": 1694916813,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174262,
+      "num": 368722,
+      "word": "警犬找回99岁老人被奖一盆鸡腿",
+      "onboard_time": 1695346714,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173630,
@@ -12019,6 +12123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153570,
+      "num": 153570,
+      "word": "今天星期五",
+      "onboard_time": 1695348454,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153316,
       "num": 153316,
       "word": "车窗里的赵今麦",
@@ -12497,6 +12609,14 @@
       "onboard_time": 1694916936,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141057,
+      "num": 141057,
+      "word": "深圳这家店是唐伯虎投的",
+      "onboard_time": 1695347014,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140945,
@@ -13497,6 +13617,14 @@
       "onboard_time": 1695121180,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68055,
+      "num": 367906,
+      "word": "首批天猫iPhone15已到货",
+      "onboard_time": 1695348032,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 67311,
