@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695402907973,
+  "endTime": 1695404035317,
   "band_list": [
     {
       "raw_hot": 1451426,
@@ -161,6 +161,14 @@
       "onboard_time": 1695394534,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206558,
+      "num": 206558,
+      "word": "本科学生考研考公哪个更好",
+      "onboard_time": 1695402444,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 202809,
@@ -441,14 +449,6 @@
       "onboard_time": 1695389978,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74279,
-      "num": 74279,
-      "word": "本科学生考研考公哪个更好",
-      "onboard_time": 1695402444,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 68920,
