@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695418435364,
+  "endTime": 1695420926181,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -55875,6 +55875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67818,
+      "num": 34896,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67732,
       "num": 75289,
       "word": "花360万开个露营地能赚多少钱",
@@ -55985,6 +55993,14 @@
       "onboard_time": 1694332831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65071,
+      "num": 34783,
+      "word": "iPhone15ProMax最高加价2800",
+      "onboard_time": 1695418455,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 64923,
@@ -56912,14 +56928,6 @@
       "word": "成功发射遥感三十九号卫星",
       "onboard_time": 1694939617,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41528,
-      "num": 30621,
-      "word": "男子潜入原单位摆放前上司遗像",
-      "onboard_time": 1695411254,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -58275,6 +58283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15090,
+      "num": 23310,
+      "word": "自来水造浪计划",
+      "onboard_time": 1695416895,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 14795,
       "num": 14795,
       "word": "袁文康身上有种儒雅感",
@@ -58313,14 +58329,6 @@
       "onboard_time": 1695103235,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13701,
-      "num": 19597,
-      "word": "自来水造浪计划",
-      "onboard_time": 1695416895,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 13671,

@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695418435364,
+  "endTime": 1695420926181,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -15771,6 +15771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67818,
+      "num": 34896,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67311,
       "num": 91063,
       "word": "一些无痛的学习大法",
@@ -15785,6 +15793,14 @@
       "onboard_time": 1695123216,
       "rank": 48,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 65071,
+      "num": 34783,
+      "word": "iPhone15ProMax最高加价2800",
+      "onboard_time": 1695418455,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 64761,
@@ -15984,14 +16000,6 @@
       "word": "成功发射遥感三十九号卫星",
       "onboard_time": 1694939617,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41528,
-      "num": 30621,
-      "word": "男子潜入原单位摆放前上司遗像",
-      "onboard_time": 1695411254,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -16387,6 +16395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15090,
+      "num": 23310,
+      "word": "自来水造浪计划",
+      "onboard_time": 1695416895,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 14470,
       "num": 810259,
       "word": "大国技能群英荟",
@@ -16409,14 +16425,6 @@
       "onboard_time": 1695103235,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13701,
-      "num": 19597,
-      "word": "自来水造浪计划",
-      "onboard_time": 1695416895,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 13671,

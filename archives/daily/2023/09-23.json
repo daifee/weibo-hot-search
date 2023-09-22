@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695418435364,
+  "endTime": 1695420926181,
   "band_list": [
     {
       "raw_hot": 1451426,
@@ -459,12 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41528,
-      "num": 30621,
+      "raw_hot": 67818,
+      "num": 34896,
       "word": "男子潜入原单位摆放前上司遗像",
       "onboard_time": 1695411254,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65071,
+      "num": 34783,
+      "word": "iPhone15ProMax最高加价2800",
+      "onboard_time": 1695418455,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 38431,
@@ -507,8 +515,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 13701,
-      "num": 19597,
+      "raw_hot": 15090,
+      "num": 23310,
       "word": "自来水造浪计划",
       "onboard_time": 1695416895,
       "rank": 41,
