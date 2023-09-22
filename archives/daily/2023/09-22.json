@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695374211758,
+  "endTime": 1695375249646,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1300065,
+      "num": 1300065,
+      "word": "英语老师3天忘光所有单词查出痴呆症",
+      "onboard_time": 1695371314,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1271357,
       "num": 1271357,
       "word": "俞灏明认证端木磊是大妈头",
@@ -113,14 +121,6 @@
       "onboard_time": 1695360934,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1153281,
-      "num": 1153281,
-      "word": "英语老师3天忘光所有单词查出痴呆症",
-      "onboard_time": 1695371314,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1036692,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885050,
+      "num": 885050,
+      "word": "三亚一女子诊所内被害",
+      "onboard_time": 1695372755,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862755,
       "num": 862755,
       "word": "张拿铁因东北口音被汪汪队婉拒",
@@ -251,20 +259,20 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 764316,
+      "num": 315830,
+      "word": "Lisa晒BLACKPINK背影照",
+      "onboard_time": 1695374314,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 761240,
       "num": 761240,
       "word": "法考 吃上主观题的苦",
       "onboard_time": 1695341315,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 694521,
-      "num": 374558,
-      "word": "三亚一女子诊所内被害",
-      "onboard_time": 1695372755,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686910,
@@ -619,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387826,
+      "num": 387826,
+      "word": "蚕蛹蛋糕受众是谁",
+      "onboard_time": 1695373170,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 386923,
       "num": 298243,
       "word": "太子奶",
@@ -723,6 +739,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 344879,
+      "num": 168479,
+      "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
+      "onboard_time": 1695374793,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 343123,
       "num": 292945,
       "word": "当把结婚邀请函发给自认为最好的朋友",
@@ -785,6 +809,22 @@
       "onboard_time": 1695355174,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312947,
+      "num": 312947,
+      "word": "进村民家大熊猫体重为正常熊猫的一半",
+      "onboard_time": 1695373053,
+      "rank": 23,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 309464,
+      "num": 309464,
+      "word": "华为充电线无法给iPhone15充电",
+      "onboard_time": 1695374793,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 307982,
@@ -923,14 +963,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 269627,
-      "num": 269627,
-      "word": "蚕蛹蛋糕受众是谁",
-      "onboard_time": 1695373170,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 269516,
       "num": 269516,
       "word": "梅西谈巴黎",
@@ -961,14 +993,6 @@
       "onboard_time": 1695355536,
       "rank": 25,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 257823,
-      "num": 257823,
-      "word": "进村民家大熊猫体重为正常熊猫的一半",
-      "onboard_time": 1695373053,
-      "rank": 23,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 250572,
@@ -1187,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211553,
+      "num": 211553,
+      "word": "亚运会LOL项目韩国队抵杭",
+      "onboard_time": 1695374734,
+      "rank": 25,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 211334,
       "num": 189759,
       "word": "内娱古偶白月光",
@@ -1299,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192961,
+      "num": 168269,
+      "word": "苹果iPhone15Pro确认3274mAh电池",
+      "onboard_time": 1695374911,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192960,
       "num": 192960,
       "word": "张柏芝把银河穿在身上",
@@ -1337,6 +1377,22 @@
       "onboard_time": 1695372512,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191190,
+      "num": 168226,
+      "word": "霍启刚说郭晶晶担任火炬手是骄傲",
+      "onboard_time": 1695374552,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190674,
+      "num": 190674,
+      "word": "黄景瑜张婧仪火光吻戏",
+      "onboard_time": 1695374372,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 190445,
@@ -1619,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151715,
+      "num": 151715,
+      "word": "把卧室改造成了屋子的显眼包",
+      "onboard_time": 1695374911,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "内娱宜古宜今的明星",
@@ -1699,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142984,
+      "num": 372516,
+      "word": "丰收的颜色都在我碗里",
+      "onboard_time": 1695371672,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142322,
       "num": 204680,
       "word": "徐璐素颜化妆全记录",
@@ -1769,14 +1841,6 @@
       "onboard_time": 1695372155,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129591,
-      "num": 372516,
-      "word": "丰收的颜色都在我碗里",
-      "onboard_time": 1695371672,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 126987,
@@ -2051,6 +2115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70003,
+      "num": 148111,
+      "word": "入职欧莱雅是种什么体验",
+      "onboard_time": 1695373233,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 64761,
+      "num": 373239,
+      "word": "何同学聊护肤黑科技",
+      "onboard_time": 1695372454,
+      "rank": 14,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 59644,
       "num": 74911,
       "word": "林茨1比3利物浦",
@@ -2065,22 +2145,6 @@
       "onboard_time": 1695369994,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57476,
-      "num": 148111,
-      "word": "入职欧莱雅是种什么体验",
-      "onboard_time": 1695373233,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 56847,
-      "num": 373239,
-      "word": "何同学聊护肤黑科技",
-      "onboard_time": 1695372454,
-      "rank": 14,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 49266,

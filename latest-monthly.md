@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 17:16:51
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 17:34:09
 </p>
 </blockquote>
 <p>
@@ -3507,6 +3507,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23" target="weibo">
+英语老师3天忘光所有单词查出痴呆症（热度：1300065）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23" target="weibo">
 12306建议没买到票的用户立即候补（热度：1293597）
 </a>
@@ -4103,12 +4109,6 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E5%86%8D%E5%8E%BB%E4%B9%9F%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE%23" target="weibo">
 吴昕再去也已是嘉宾（热度：1153516）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23" target="weibo">
-英语老师3天忘光所有单词查出痴呆症（热度：1153281）
 </a>
 </li>
 
@@ -5883,6 +5883,12 @@ iPhone15机型比例为3比1（热度：906244）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%AF%8A%E6%89%80%E5%86%85%E8%A2%AB%E5%AE%B3%23" target="weibo">
+三亚一女子诊所内被害（热度：885050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E9%AB%98%E4%BD%A3%E9%87%91%20%E5%9B%BD%E8%B4%A7%E7%94%9F%E6%80%81%23" target="weibo">
 头部主播高佣金 国货生态（热度：884832）
 </a>
@@ -6005,12 +6011,6 @@ aespa BLACKPINK演唱会（热度：881125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%A4%E5%B9%B4%E5%8D%8A%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
 关闭朋友圈两年半后的变化（热度：869569）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%E7%A9%BF%E4%BA%86%E9%98%B2%E9%A3%8E%E8%A2%AB%23" target="weibo">
-檀健次直播穿了防风被（热度：869457）
 </a>
 </li>
 

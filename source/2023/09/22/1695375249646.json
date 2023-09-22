@@ -1,0 +1,410 @@
+{
+  "runTime": 1695375249646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447371,
+        "num": 1447371,
+        "word": "98年小伙每天2小时开网店月入5万",
+        "onboard_time": 1695365912,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1300065,
+        "num": 1300065,
+        "word": "英语老师3天忘光所有单词查出痴呆症",
+        "onboard_time": 1695371314,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 56623,
+        "num": 1232910,
+        "word": "三次亚运会窗口透视中国33年变迁",
+        "onboard_time": 1695369994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196084,
+        "num": 1196084,
+        "word": "孙颖莎11比0",
+        "onboard_time": 1695372454,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 885050,
+        "num": 885050,
+        "word": "三亚一女子诊所内被害",
+        "onboard_time": 1695372755,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546211,
+        "num": 546211,
+        "word": "离职后还收到了公司的中秋礼物",
+        "onboard_time": 1695366874,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421981,
+        "num": 421981,
+        "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+        "onboard_time": 1695366090,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415688,
+        "num": 415688,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387826,
+        "num": 387826,
+        "word": "蚕蛹蛋糕受众是谁",
+        "onboard_time": 1695373170,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316565,
+        "num": 316565,
+        "word": "张小斐新剧 窒息的婚姻",
+        "onboard_time": 1695373352,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1049876,
+        "num": 316508,
+        "word": "陈好薛佳凝合照",
+        "onboard_time": 1695370174,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764316,
+        "num": 315830,
+        "word": "Lisa晒BLACKPINK背影照",
+        "onboard_time": 1695374314,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68958,
+        "num": 314949,
+        "word": "丫丫小毯子里找苹果",
+        "onboard_time": 1695348392,
+        "rank": 12,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 49240,
+        "num": 313844,
+        "word": "警犬找回99岁老人被奖一盆鸡腿",
+        "onboard_time": 1695346714,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64761,
+        "num": 313645,
+        "word": "何同学聊护肤黑科技",
+        "onboard_time": 1695372454,
+        "rank": 14,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 312947,
+        "num": 312947,
+        "word": "进村民家大熊猫体重为正常熊猫的一半",
+        "onboard_time": 1695373053,
+        "rank": 15,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 309464,
+        "num": 309464,
+        "word": "华为充电线无法给iPhone15充电",
+        "onboard_time": 1695374793,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287011,
+        "num": 287011,
+        "word": "新疆大闸蟹全网首卖",
+        "onboard_time": 1695368852,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274715,
+        "num": 274715,
+        "word": "姬发犯的是灭族的大罪",
+        "onboard_time": 1695370413,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252878,
+        "num": 252878,
+        "word": "1公斤黄金价格已达47万",
+        "onboard_time": 1695366874,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298275,
+        "num": 252348,
+        "word": "为什么孙悟空会被热米饭烫到",
+        "onboard_time": 1695370293,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248219,
+        "num": 248219,
+        "word": "左叶 希望时间停留在那一刻",
+        "onboard_time": 1695372394,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239972,
+        "num": 239972,
+        "word": "北京一公交车被水泥罐车追尾18人送医",
+        "onboard_time": 1695368852,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142984,
+        "num": 218637,
+        "word": "丰收的颜色都在我碗里",
+        "onboard_time": 1695371672,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214040,
+        "num": 214040,
+        "word": "茶颜悦色回应点餐方式像智商税",
+        "onboard_time": 1695356919,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211553,
+        "num": 211553,
+        "word": "亚运会LOL项目韩国队抵杭",
+        "onboard_time": 1695374734,
+        "rank": 25,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 205849,
+        "num": 205849,
+        "word": "爱吃猕猴桃的人都沉默了",
+        "onboard_time": 1695361054,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190674,
+        "num": 190674,
+        "word": "黄景瑜张婧仪火光吻戏",
+        "onboard_time": 1695374372,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185835,
+        "num": 185835,
+        "word": "丞磊片场画卢昱晓",
+        "onboard_time": 1695370832,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169309,
+        "num": 169309,
+        "word": "陈牧驰狼尾造型",
+        "onboard_time": 1695373834,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344879,
+        "num": 168479,
+        "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
+        "onboard_time": 1695374793,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 192961,
+        "num": 168269,
+        "word": "苹果iPhone15Pro确认3274mAh电池",
+        "onboard_time": 1695374911,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191190,
+        "num": 168226,
+        "word": "霍启刚说郭晶晶担任火炬手是骄傲",
+        "onboard_time": 1695374552,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167636,
+        "num": 167636,
+        "word": "黄明昊撤回了一个滑板出场",
+        "onboard_time": 1695369036,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161829,
+        "num": 161829,
+        "word": "宫远徵真切生活在另一个平行时空",
+        "onboard_time": 1695372933,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151715,
+        "num": 151715,
+        "word": "把卧室改造成了屋子的显眼包",
+        "onboard_time": 1695374911,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 148693,
+        "num": 148693,
+        "word": "救人后着急上班的领带小哥是山东人",
+        "onboard_time": 1695373053,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 141046,
+        "num": 141046,
+        "word": "孙颖莎亚运会首秀",
+        "onboard_time": 1695372512,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137032,
+        "num": 137032,
+        "word": "黄景瑜抽空敷衍我们",
+        "onboard_time": 1695371551,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70003,
+        "num": 135218,
+        "word": "入职欧莱雅是种什么体验",
+        "onboard_time": 1695373233,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133953,
+        "num": 133953,
+        "word": "苹果称iPhone15Pro变色可恢复",
+        "onboard_time": 1695362675,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130732,
+        "num": 130732,
+        "word": "张远拒绝陈楚生",
+        "onboard_time": 1695365129,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 129949,
+        "word": "胡兵1米3的腿长在此刻发挥了作用",
+        "onboard_time": 1695372212,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127725,
+        "num": 127725,
+        "word": "老公是一种态度 老公是一种心情",
+        "onboard_time": 1695365430,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126869,
+        "num": 126869,
+        "word": "五条悟被封印",
+        "onboard_time": 1695360697,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122904,
+        "num": 122904,
+        "word": "国乒女团vs哈萨克斯坦",
+        "onboard_time": 1695372333,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119207,
+        "num": 119207,
+        "word": "披荆斩棘的哥哥们集体跳甜妹舞",
+        "onboard_time": 1695370052,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115904,
+        "num": 115904,
+        "word": "哇唧唧哇暑假派对2023",
+        "onboard_time": 1695370174,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107485,
+        "num": 115896,
+        "word": "研究员石磊被查证是间谍",
+        "onboard_time": 1695359495,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107291,
+        "num": 115873,
+        "word": "披荆斩棘三公",
+        "onboard_time": 1695373651,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江考察调研#"
+    }
+  }
+}
