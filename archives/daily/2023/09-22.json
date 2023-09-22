@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695388836609,
+  "endTime": 1695389628173,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -59,6 +59,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1889322,
+      "num": 375233,
+      "word": "边缘性行为为什么是边缘的",
+      "onboard_time": 1695384934,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1799225,
       "num": 922356,
       "word": "任正非说不学英文农村孩子永远是农民",
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1781379,
-      "num": 374763,
-      "word": "边缘性行为为什么是边缘的",
-      "onboard_time": 1695384934,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1764193,
       "num": 1764193,
       "word": "英语老师3天忘光所有单词查出痴呆症",
       "onboard_time": 1695371314,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1761529,
+      "num": 1761529,
+      "word": "中国女足16比0蒙古女足",
+      "onboard_time": 1695389077,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1572716,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129829,
+      "num": 1129829,
+      "word": "黄子诚涉及间谍行为提出自首",
+      "onboard_time": 1695386135,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1036692,
       "num": 204714,
       "word": "青年女教师举报遭山东师范博导侵害",
@@ -233,6 +249,14 @@
       "onboard_time": 1695374793,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 952051,
+      "num": 952051,
+      "word": "女子3次试管婴儿终于怀上却查出癌症",
+      "onboard_time": 1695387876,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932885,
@@ -369,14 +393,6 @@
       "onboard_time": 1695384574,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 683319,
-      "num": 683319,
-      "word": "黄子诚涉及间谍行为提出自首",
-      "onboard_time": 1695386135,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 680021,
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529346,
+      "num": 349748,
+      "word": "张韶涵造型师真的高手",
+      "onboard_time": 1695387033,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 522579,
       "num": 522579,
       "word": "傅首尔 这段婚姻不是我憧憬的样子",
@@ -619,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495586,
-      "num": 357826,
-      "word": "女子3次试管婴儿终于怀上却查出癌症",
-      "onboard_time": 1695387876,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492648,
       "num": 492648,
       "word": "花少5车内合照",
@@ -641,14 +657,6 @@
       "onboard_time": 1695345275,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478652,
-      "num": 346357,
-      "word": "张韶涵造型师真的高手",
-      "onboard_time": 1695387033,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 478575,
@@ -721,6 +729,14 @@
       "onboard_time": 1695359617,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433016,
+      "num": 433016,
+      "word": "教育部称对预制菜进校园持审慎态度",
+      "onboard_time": 1695389140,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432066,
@@ -939,6 +955,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 356631,
+      "num": 342030,
+      "word": "为什么iPhone不支持通话录音",
+      "onboard_time": 1695388114,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 354062,
       "num": 322121,
       "word": "张碧晨连吃三天小龙虾后普拉提",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1695350912,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334092,
+      "num": 334092,
+      "word": "那英说周迅带老花镜像88",
+      "onboard_time": 1695388835,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 331945,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1695372394,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 306131,
-      "num": 306131,
-      "word": "为什么iPhone不支持通话录音",
-      "onboard_time": 1695388114,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 304710,
@@ -1243,6 +1267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273863,
+      "num": 273863,
+      "word": "王霜五子登科",
+      "onboard_time": 1695388235,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272847,
       "num": 711350,
       "word": "救人后着急上班的领带小哥是山东人",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1695382113,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247881,
+      "num": 247881,
+      "word": "中国女排vs荷兰女排",
+      "onboard_time": 1695384514,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 246049,
@@ -1579,14 +1619,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 212618,
-      "num": 212618,
-      "word": "王霜五子登科",
-      "onboard_time": 1695388235,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212331,
       "num": 212331,
       "word": "追求和性骚扰的边界感在哪",
@@ -1715,6 +1747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196989,
+      "num": 196989,
+      "word": "中国女足8分钟两球领先",
+      "onboard_time": 1695387636,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196003,
       "num": 184516,
       "word": "陈牧驰狼尾造型",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1695376595,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193941,
+      "num": 193941,
+      "word": "第一次见比头还大的石榴",
+      "onboard_time": 1695389556,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 193241,
@@ -1899,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184999,
-      "num": 184999,
-      "word": "中国女排vs荷兰女排",
-      "onboard_time": 1695384514,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184030,
       "num": 184030,
       "word": "何运晨加盟令人心动的offer5",
@@ -1961,14 +2001,6 @@
       "onboard_time": 1695353375,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 175495,
-      "num": 175495,
-      "word": "中国女足8分钟两球领先",
-      "onboard_time": 1695387636,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 174022,
@@ -2265,6 +2297,14 @@
       "onboard_time": 1695338670,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145223,
+      "num": 145223,
+      "word": "吴磊在马背上下腰躺倒",
+      "onboard_time": 1695389495,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 144210,
@@ -2564,7 +2604,7 @@
     },
     {
       "raw_hot": 91964,
-      "num": 182902,
+      "num": 360084,
       "word": "崩坏3第二部首曝",
       "onboard_time": 1695387996,
       "rank": 33,
@@ -2620,7 +2660,7 @@
     },
     {
       "raw_hot": 85949,
-      "num": 995014,
+      "num": 1022653,
       "word": "杭州亚运会开幕倒计时1天",
       "onboard_time": 1695378695,
       "rank": 40,
@@ -2755,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39204,
+      "num": 363157,
+      "word": "马东嚯嚯嚯嚯嚯",
+      "onboard_time": 1695388657,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38754,
       "num": 246472,
       "word": "叙利亚总统到访迎宾仪式",
@@ -2833,14 +2881,6 @@
       "onboard_time": 1695321676,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10572,
-      "num": 351926,
-      "word": "马东嚯嚯嚯嚯嚯",
-      "onboard_time": 1695388657,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 10340,
