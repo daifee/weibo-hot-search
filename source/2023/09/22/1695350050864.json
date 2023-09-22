@@ -1,0 +1,410 @@
+{
+  "runTime": 1695350050864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954337,
+        "num": 954337,
+        "word": "邓紫棋说承认自己不够也是一种勇气",
+        "onboard_time": 1695345874,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711776,
+        "num": 711776,
+        "word": "卢昱晓熬了一整晚等丞磊杀青",
+        "onboard_time": 1695344195,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30245,
+        "num": 600941,
+        "word": "来杭州看亚运吃什么",
+        "onboard_time": 1695300336,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1140827,
+        "num": 598754,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595656,
+        "num": 595656,
+        "word": "冯宝宝和她三个没用的男人",
+        "onboard_time": 1695348515,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569762,
+        "num": 569762,
+        "word": "丫丫小毯子里找苹果",
+        "onboard_time": 1695348392,
+        "rank": 5,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 521815,
+        "num": 521815,
+        "word": "令人心动的offer5实习生出席官宣",
+        "onboard_time": 1695348874,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456507,
+        "num": 456507,
+        "word": "花少5车内合照",
+        "onboard_time": 1695345994,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385347,
+        "num": 385347,
+        "word": "2岁幼儿随地小便家长被判赔11万",
+        "onboard_time": 1695342335,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367153,
+        "num": 367153,
+        "word": "山东师大回应博导被举报侵害青年女教师",
+        "onboard_time": 1695344976,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 833076,
+        "num": 366772,
+        "word": "儿子监狱服刑母亲骗领国家工资41万",
+        "onboard_time": 1695348753,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243415,
+        "num": 366272,
+        "word": "超1400万部老年机被木马控制自动花钱",
+        "onboard_time": 1695343295,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220169,
+        "num": 365290,
+        "word": "警犬找回99岁老人被奖一盆鸡腿",
+        "onboard_time": 1695346714,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173996,
+        "num": 364401,
+        "word": "韩国共同民主党国会院内领导层集体辞职",
+        "onboard_time": 1695337705,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 86351,
+        "num": 363332,
+        "word": "首批天猫iPhone15已到货",
+        "onboard_time": 1695348032,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 790146,
+        "num": 362858,
+        "word": "檀健次 祖玛珑",
+        "onboard_time": 1695349352,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 623053,
+        "num": 361714,
+        "word": "苹果回应iPhone15Pro沾指纹",
+        "onboard_time": 1695347313,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443349,
+        "num": 361052,
+        "word": "吕良被断双手",
+        "onboard_time": 1695345275,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360652,
+        "num": 360652,
+        "word": "婚姻成了很多人生失败的背锅侠",
+        "onboard_time": 1695341374,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360015,
+        "num": 360015,
+        "word": "YG新女团将推迟出道",
+        "onboard_time": 1695348632,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928038,
+        "num": 346535,
+        "word": "花西子代工厂被曝为日资",
+        "onboard_time": 1695337887,
+        "rank": 20,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 330513,
+        "num": 330513,
+        "word": "郭敬明 再漫长的黑夜都会过去",
+        "onboard_time": 1695343055,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319388,
+        "num": 319388,
+        "word": "俞灏明一个闹钟叫醒六个人",
+        "onboard_time": 1695349533,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316568,
+        "num": 316568,
+        "word": "虞书欣生图",
+        "onboard_time": 1695339570,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 301605,
+        "num": 301605,
+        "word": "网红老婆爱吃巧乐兹发文道歉",
+        "onboard_time": 1695297756,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 301584,
+        "num": 301584,
+        "word": "今天是iPhone15系列发售日",
+        "onboard_time": 1695343178,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 285656,
+        "num": 285656,
+        "word": "花花的大脸太招人稀罕啦",
+        "onboard_time": 1695346476,
+        "rank": 26,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 285622,
+        "num": 285622,
+        "word": "卢昱晓让我知道聪明是演出来的",
+        "onboard_time": 1695348454,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283713,
+        "num": 283713,
+        "word": "宫本武藏惊梅引新皮肤",
+        "onboard_time": 1695348213,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282606,
+        "num": 282606,
+        "word": "辞职后家里的猫吐了",
+        "onboard_time": 1695349533,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287788,
+        "num": 277846,
+        "word": "一手操办了对象的婚礼",
+        "onboard_time": 1695349411,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270029,
+        "num": 270029,
+        "word": "法考没过",
+        "onboard_time": 1695344078,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260251,
+        "num": 260251,
+        "word": "花西子销售额跌幅超九成",
+        "onboard_time": 1695345094,
+        "rank": 32,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 252988,
+        "num": 252988,
+        "word": "顾客吐槽茶颜悦色点餐方式像智商税",
+        "onboard_time": 1695308738,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 204847,
+        "num": 204847,
+        "word": "沪上阿姨 一诺",
+        "onboard_time": 1695349953,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189891,
+        "num": 189891,
+        "word": "电影坚如磐石同名主题曲MV",
+        "onboard_time": 1695349533,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177725,
+        "num": 177725,
+        "word": "唐朝诡事录之西行杀青",
+        "onboard_time": 1695347075,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173000,
+        "num": 173000,
+        "word": "倪妮红裙抵达米兰",
+        "onboard_time": 1695345637,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166827,
+        "num": 166827,
+        "word": "家长查17天监控发现儿子每日挨打",
+        "onboard_time": 1695337584,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163065,
+        "num": 163065,
+        "word": "乐视网一审判决出炉",
+        "onboard_time": 1695348336,
+        "rank": 39,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 157373,
+        "num": 157373,
+        "word": "傅谨",
+        "onboard_time": 1695348213,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148320,
+        "num": 148320,
+        "word": "薛之谦滁州",
+        "onboard_time": 1695343957,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147012,
+        "num": 147012,
+        "word": "法考 吃上主观题的苦",
+        "onboard_time": 1695341315,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143395,
+        "num": 143395,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1695341914,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142699,
+        "num": 142699,
+        "word": "路人拍的张雨绮",
+        "onboard_time": 1695349832,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142033,
+        "num": 142033,
+        "word": "3岁男孩对妈妈说车上坐不下交警一查是超员",
+        "onboard_time": 1695341075,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135708,
+        "num": 135708,
+        "word": "深圳这家店是唐伯虎投的",
+        "onboard_time": 1695347014,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134936,
+        "num": 134936,
+        "word": "成年人想见一面真的很难",
+        "onboard_time": 1695342815,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132074,
+        "num": 132074,
+        "word": "孙晨竣喊丞磊宫门浴王",
+        "onboard_time": 1695350012,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112942,
+        "num": 132072,
+        "word": "梅西想要个女儿",
+        "onboard_time": 1695343597,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席杭州亚运会开幕式#"
+    }
+  }
+}

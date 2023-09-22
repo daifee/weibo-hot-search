@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695349387148,
+  "endTime": 1695350050864,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -75,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 833076,
+      "num": 366772,
+      "word": "儿子监狱服刑母亲骗领国家工资41万",
+      "onboard_time": 1695348753,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817118,
       "num": 562289,
       "word": "网红老婆爱吃巧乐兹发文道歉",
       "onboard_time": 1695297756,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790146,
+      "num": 362858,
+      "word": "檀健次 祖玛珑",
+      "onboard_time": 1695349352,
+      "rank": 36,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 768003,
@@ -139,6 +155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 623053,
+      "num": 369672,
+      "word": "苹果回应iPhone15Pro沾指纹",
+      "onboard_time": 1695347313,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 615936,
       "num": 615936,
       "word": "港星张智霖到警署协助调查",
@@ -187,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509552,
-      "num": 369672,
-      "word": "苹果回应iPhone15Pro沾指纹",
-      "onboard_time": 1695347313,
-      "rank": 10,
-      "category": "数码"
+      "raw_hot": 521815,
+      "num": 521815,
+      "word": "令人心动的offer5实习生出席官宣",
+      "onboard_time": 1695348874,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 497932,
@@ -259,22 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404125,
-      "num": 366277,
-      "word": "儿子监狱服刑母亲骗领国家工资41万",
-      "onboard_time": 1695348753,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400357,
-      "num": 365279,
-      "word": "令人心动的offer5实习生出席官宣",
-      "onboard_time": 1695348874,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386923,
       "num": 298243,
       "word": "太子奶",
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319388,
+      "num": 319388,
+      "word": "俞灏明一个闹钟叫醒六个人",
+      "onboard_time": 1695349533,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298894,
       "num": 298894,
       "word": "他从火光中走来 孙梦",
@@ -353,6 +369,14 @@
       "onboard_time": 1695304419,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 287788,
+      "num": 277846,
+      "word": "一手操办了对象的婚礼",
+      "onboard_time": 1695349411,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 287586,
@@ -393,6 +417,14 @@
       "onboard_time": 1695344735,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 282606,
+      "num": 282606,
+      "word": "辞职后家里的猫吐了",
+      "onboard_time": 1695349533,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 282138,
@@ -491,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220169,
+      "num": 368722,
+      "word": "警犬找回99岁老人被奖一盆鸡腿",
+      "onboard_time": 1695346714,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212627,
       "num": 212627,
       "word": "薛之谦滁州",
@@ -529,6 +569,14 @@
       "onboard_time": 1695338850,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204847,
+      "num": 204847,
+      "word": "沪上阿姨 一诺",
+      "onboard_time": 1695349953,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 201303,
@@ -579,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189891,
+      "num": 189891,
+      "word": "电影坚如磐石同名主题曲MV",
+      "onboard_time": 1695349533,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189738,
       "num": 189738,
       "word": "李雪琴 自己的意愿才是最重要的",
@@ -595,14 +651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 185258,
-      "num": 185258,
-      "word": "檀健次 祖玛珑",
-      "onboard_time": 1695349352,
-      "rank": 36,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 181053,
       "num": 428563,
       "word": "外交部回应美商务部长对华为新机感到不悦",
@@ -617,14 +665,6 @@
       "onboard_time": 1695338909,
       "rank": 37,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 174262,
-      "num": 368722,
-      "word": "警犬找回99岁老人被奖一盆鸡腿",
-      "onboard_time": 1695346714,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172632,
@@ -747,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142699,
+      "num": 142699,
+      "word": "路人拍的张雨绮",
+      "onboard_time": 1695349832,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 142322,
       "num": 204680,
       "word": "徐璐素颜化妆全记录",
@@ -761,6 +809,14 @@
       "onboard_time": 1695347014,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132074,
+      "num": 132074,
+      "word": "孙晨竣喊丞磊宫门浴王",
+      "onboard_time": 1695350012,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126987,
@@ -875,6 +931,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 86351,
+      "num": 367906,
+      "word": "首批天猫iPhone15已到货",
+      "onboard_time": 1695348032,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84059,
       "num": 84059,
       "word": "难怪大张伟是才子",
@@ -921,14 +985,6 @@
       "onboard_time": 1695312572,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68055,
-      "num": 367906,
-      "word": "首批天猫iPhone15已到货",
-      "onboard_time": 1695348032,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 59644,
@@ -979,20 +1035,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30245,
+      "num": 600941,
+      "word": "来杭州看亚运吃什么",
+      "onboard_time": 1695300336,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 27960,
       "num": 72262,
       "word": "Jennie要出新专辑了",
       "onboard_time": 1695287436,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27547,
-      "num": 598566,
-      "word": "来杭州看亚运吃什么",
-      "onboard_time": 1695300336,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 25651,

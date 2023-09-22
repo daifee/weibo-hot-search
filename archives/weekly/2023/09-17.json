@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695349387148,
+  "endTime": 1695350050864,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -1851,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 833076,
+      "num": 366772,
+      "word": "儿子监狱服刑母亲骗领国家工资41万",
+      "onboard_time": 1695348753,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828968,
       "num": 828968,
       "word": "麻辣王子好吃",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1695198516,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790146,
+      "num": 362858,
+      "word": "檀健次 祖玛珑",
+      "onboard_time": 1695349352,
+      "rank": 36,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 787444,
@@ -2979,6 +2995,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 623053,
+      "num": 369672,
+      "word": "苹果回应iPhone15Pro沾指纹",
+      "onboard_time": 1695347313,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 622808,
       "num": 622808,
       "word": "发现我嗑的cp也在嗑自己cp",
@@ -3803,6 +3827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521815,
+      "num": 521815,
+      "word": "令人心动的offer5实习生出席官宣",
+      "onboard_time": 1695348874,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521273,
       "num": 521273,
       "word": "读研究生之后才会知道的真相",
@@ -3969,14 +4001,6 @@
       "onboard_time": 1694913755,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509552,
-      "num": 369672,
-      "word": "苹果回应iPhone15Pro沾指纹",
-      "onboard_time": 1695347313,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 507667,
@@ -5059,14 +5083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 404125,
-      "num": 366277,
-      "word": "儿子监狱服刑母亲骗领国家工资41万",
-      "onboard_time": 1695348753,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403634,
       "num": 403634,
       "word": "女生求职被拒后收到HR邮件教写简历",
@@ -5081,14 +5097,6 @@
       "onboard_time": 1695016056,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400357,
-      "num": 365279,
-      "word": "令人心动的offer5实习生出席官宣",
-      "onboard_time": 1695348874,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 398838,
@@ -6499,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319388,
+      "num": 319388,
+      "word": "俞灏明一个闹钟叫醒六个人",
+      "onboard_time": 1695349533,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319244,
       "num": 319244,
       "word": "彩票中奖百万怎么兑换",
@@ -7139,6 +7155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287788,
+      "num": 277846,
+      "word": "一手操办了对象的婚礼",
+      "onboard_time": 1695349411,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287586,
       "num": 287586,
       "word": "宫本武藏惊梅引新皮肤",
@@ -7273,6 +7297,14 @@
       "onboard_time": 1695128857,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282606,
+      "num": 282606,
+      "word": "辞职后家里的猫吐了",
+      "onboard_time": 1695349533,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 282138,
@@ -9123,6 +9155,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 220169,
+      "num": 368722,
+      "word": "警犬找回99岁老人被奖一盆鸡腿",
+      "onboard_time": 1695346714,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219849,
       "num": 219849,
       "word": "巴黎奥运女排资格赛",
@@ -9753,6 +9793,14 @@
       "onboard_time": 1694959836,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204847,
+      "num": 204847,
+      "word": "沪上阿姨 一诺",
+      "onboard_time": 1695349953,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 204726,
@@ -10611,6 +10659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189891,
+      "num": 189891,
+      "word": "电影坚如磐石同名主题曲MV",
+      "onboard_time": 1695349533,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189810,
       "num": 189810,
       "word": "异人之下F4男团",
@@ -10849,14 +10905,6 @@
       "onboard_time": 1695126635,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 185258,
-      "num": 185258,
-      "word": "檀健次 祖玛珑",
-      "onboard_time": 1695349352,
-      "rank": 36,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 185207,
@@ -11345,14 +11393,6 @@
       "onboard_time": 1694916813,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 174262,
-      "num": 368722,
-      "word": "警犬找回99岁老人被奖一盆鸡腿",
-      "onboard_time": 1695346714,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173630,
@@ -12539,6 +12579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142699,
+      "num": 142699,
+      "word": "路人拍的张雨绮",
+      "onboard_time": 1695349832,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 142632,
       "num": 142632,
       "word": "无锡太湖音乐节",
@@ -12793,6 +12841,14 @@
       "onboard_time": 1694941832,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132074,
+      "num": 132074,
+      "word": "孙晨竣喊丞磊宫门浴王",
+      "onboard_time": 1695350012,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 131809,
@@ -13363,6 +13419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86351,
+      "num": 367906,
+      "word": "首批天猫iPhone15已到货",
+      "onboard_time": 1695348032,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86039,
       "num": 86039,
       "word": "一只猴子来到了葬礼上伏地告别",
@@ -13617,14 +13681,6 @@
       "onboard_time": 1695121180,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68055,
-      "num": 367906,
-      "word": "首批天猫iPhone15已到货",
-      "onboard_time": 1695348032,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 67311,
