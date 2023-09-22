@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/22 00:21:12 ~ 2023/09/22 12:20:05
+本榜单时间：2023/09/22 00:21:12 ~ 2023/09/22 12:34:05
 </p>
 </blockquote>
 <p>
@@ -21,14 +21,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BB%A3%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%9B%9D%E4%B8%BA%E6%97%A5%E8%B5%84%23" target="weibo">
-花西子代工厂被曝为日资（热度：2105316）
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23" target="weibo">
+12306回应强制买长乘短（热度：2322630）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23" target="weibo">
-12306回应强制买长乘短（热度：2079686）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BB%A3%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%9B%9D%E4%B8%BA%E6%97%A5%E8%B5%84%23" target="weibo">
+花西子代工厂被曝为日资（热度：2105316）
 </a>
 </li>
 
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23" target="weibo">
 顾客吐槽茶颜悦色点餐方式像智商税（热度：1214679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%AF%B4%E4%B8%8D%E5%AD%A6%E8%8B%B1%E6%96%87%E5%86%9C%E6%9D%91%E5%AD%A9%E5%AD%90%E6%B0%B8%E8%BF%9C%E6%98%AF%E5%86%9C%E6%B0%91%23" target="weibo">
+任正非说不学英文农村孩子永远是农民（热度：1096081）
 </a>
 </li>
 
@@ -82,7 +88,7 @@ iPhone15和Plus破发（热度：972455）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23" target="weibo">
-约两成考生选择逆向考研（热度：961057）
+约两成考生选择逆向考研（热度：964732）
 </a>
 </li>
 
@@ -93,14 +99,14 @@ iPhone15和Plus破发（热度：972455）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23" target="weibo">
-2岁幼儿随地小便家长被判赔11万（热度：930235）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%88%B6%E5%86%85%E5%BC%80%E4%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9D%E5%A5%B6%E8%8C%B6%23" target="weibo">
+体制内开会为什么不喝奶茶（热度：932885）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%88%B6%E5%86%85%E5%BC%80%E4%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9D%E5%A5%B6%E8%8C%B6%23" target="weibo">
-体制内开会为什么不喝奶茶（热度：874758）
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23" target="weibo">
+2岁幼儿随地小便家长被判赔11万（热度：930235）
 </a>
 </li>
 
@@ -130,7 +136,13 @@ iPhone15和Plus破发（热度：972455）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E4%BA%BA%E4%BC%9A%E5%9C%A834%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%23" target="weibo">
-研究发现人会在34岁断崖式衰老（热度：744184）
+研究发现人会在34岁断崖式衰老（热度：754178）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5vs%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23" target="weibo">
+他从火光中走来vs我的人间烟火（热度：686910）
 </a>
 </li>
 
@@ -203,12 +215,6 @@ iPhone15和Plus破发（热度：972455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%851400%E4%B8%87%E9%83%A8%E8%80%81%E5%B9%B4%E6%9C%BA%E8%A2%AB%E6%9C%A8%E9%A9%AC%E6%8E%A7%E5%88%B6%E8%87%AA%E5%8A%A8%E8%8A%B1%E9%92%B1%23" target="weibo">
 超1400万部老年机被木马控制自动花钱（热度：571374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5vs%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23" target="weibo">
-他从火光中走来vs我的人间烟火（热度：541937）
 </a>
 </li>
 
@@ -309,12 +315,6 @@ YG新女团将推迟出道（热度：383176）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%AF%B4%E4%B8%8D%E5%AD%A6%E8%8B%B1%E6%96%87%E5%86%9C%E6%9D%91%E5%AD%A9%E5%AD%90%E6%B0%B8%E8%BF%9C%E6%98%AF%E5%86%9C%E6%B0%91%23" target="weibo">
-任正非说不学英文农村孩子永远是农民（热度：379551）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9E%E8%81%8C%E5%90%8E%E5%AE%B6%E9%87%8C%E7%9A%84%E7%8C%AB%E5%90%90%E4%BA%86%23" target="weibo">
 辞职后家里的猫吐了（热度：379441）
 </a>
@@ -359,6 +359,12 @@ YG新女团将推迟出道（热度：383176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E4%B8%80%E4%B8%AA%E9%97%B9%E9%92%9F%E5%8F%AB%E9%86%92%E5%85%AD%E4%B8%AA%E4%BA%BA%23" target="weibo">
 俞灏明一个闹钟叫醒六个人（热度：319388）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%96%E5%8D%96%E6%88%91%E5%8F%AF%E4%B8%8D%E6%95%A2%E6%94%BE%E9%97%A8%E5%8F%A3%23" target="weibo">
+这外卖我可不敢放门口（热度：318993）
 </a>
 </li>
 
@@ -465,12 +471,6 @@ WDCC2023易烊千玺配音宣传片发布（热度：262009）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%96%E5%8D%96%E6%88%91%E5%8F%AF%E4%B8%8D%E6%95%A2%E6%94%BE%E9%97%A8%E5%8F%A3%23" target="weibo">
-这外卖我可不敢放门口（热度：251062）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%A4%8D%E5%8F%A4%E8%95%BE%E4%B8%9D%E7%A9%BF%E6%90%AD%23" target="weibo">
 刘诗诗复古蕾丝穿搭（热度：245866）
 </a>
@@ -501,8 +501,20 @@ WDCC2023易烊千玺配音宣传片发布（热度：262009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23" target="weibo">
+茶颜悦色回应点餐方式像智商税（热度：234115）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%8E%BB%E7%9C%8BBLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 柳智敏去看BLACKPINK演唱会的原因（热度：232371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%81%E5%B7%9E%23" target="weibo">
+薛之谦滁州（热度：227860）
 </a>
 </li>
 
@@ -545,12 +557,6 @@ WDCC2023易烊千玺配音宣传片发布（热度：262009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%88%9D%E7%9C%9F%E6%98%AF%E5%8F%AF%E7%88%B1%E5%AE%9D%E5%AE%9D%23" target="weibo">
 南初真是可爱宝宝（热度：220862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%81%E5%B7%9E%23" target="weibo">
-薛之谦滁州（热度：217045）
 </a>
 </li>
 
@@ -693,6 +699,18 @@ WDCC2023易烊千玺配音宣传片发布（热度：262009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E5%92%8C%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E5%85%B1%E8%B5%B4%E6%9C%AA%E6%9D%A5%23" target="weibo">
+众星和我们亚洲共赴未来（热度：170740）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B0%E5%86%AC%E5%A4%A9%23" target="weibo">
+iPhone15订单排到冬天（热度：168562）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%BD%87%E7%8E%A5%E4%B8%BA%E6%B5%B7%E5%A4%96%E7%95%99%E5%AD%A6%E5%BD%93%E9%97%B4%E8%B0%8D%23" target="weibo">
 于潇玥为海外留学当间谍（热度：167811）
 </a>
@@ -719,6 +737,12 @@ WDCC2023易烊千玺配音宣传片发布（热度：262009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B2%BB%E9%83%85%E8%AF%B412%E5%9D%97%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E5%BE%88%E6%B2%89%23" target="weibo">
 王治郅说12块亚运金牌很沉（热度：158880）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%BA%E7%94%A8%E4%B8%8AiPhone15%E4%BA%86%23" target="weibo">
+已经有人用上iPhone15了（热度：157649）
 </a>
 </li>
 
@@ -881,12 +905,6 @@ WDCC2023易烊千玺配音宣传片发布（热度：262009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E6%B5%AA%E5%90%A7%E5%9B%BD%E5%BA%86%E6%A1%A3%23" target="weibo">
 造浪吧国庆档（热度：112491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%BA%E7%94%A8%E4%B8%8AiPhone15%E4%BA%86%23" target="weibo">
-已经有人用上iPhone15了（热度：112098）
 </a>
 </li>
 

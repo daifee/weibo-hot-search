@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695356405234,
+  "endTime": 1695357245054,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -243,6 +243,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2322630,
+      "num": 2322630,
+      "word": "12306回应强制买长乘短",
+      "onboard_time": 1695350732,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2273918,
       "num": 2273918,
       "word": "原来塞牙是牙齿在求救",
@@ -361,14 +369,6 @@
       "onboard_time": 1695288633,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2079686,
-      "num": 2079686,
-      "word": "12306回应强制买长乘短",
-      "onboard_time": 1695350732,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2076685,
@@ -1283,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1096081,
+      "num": 922356,
+      "word": "任正非说不学英文农村孩子永远是农民",
+      "onboard_time": 1695355596,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1094795,
       "num": 837773,
       "word": "陈坤 坦然接受生命中的一切",
@@ -1516,11 +1524,19 @@
     },
     {
       "raw_hot": 972455,
-      "num": 440267,
+      "num": 462312,
       "word": "iPhone15和Plus破发",
       "onboard_time": 1695351754,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 964732,
+      "num": 964732,
+      "word": "约两成考生选择逆向考研",
+      "onboard_time": 1695353314,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 961828,
@@ -1529,14 +1545,6 @@
       "onboard_time": 1694967870,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 961057,
-      "num": 961057,
-      "word": "约两成考生选择逆向考研",
-      "onboard_time": 1695353314,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 960917,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1695258396,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 932885,
+      "num": 296840,
+      "word": "体制内开会为什么不喝奶茶",
+      "onboard_time": 1695353735,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 930235,
@@ -1777,14 +1793,6 @@
       "onboard_time": 1695190596,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 874758,
-      "num": 296840,
-      "word": "体制内开会为什么不喝奶茶",
-      "onboard_time": 1695353735,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 874051,
@@ -2235,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 754178,
+      "num": 754178,
+      "word": "研究发现人会在34岁断崖式衰老",
+      "onboard_time": 1695354572,
+      "rank": 5,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 753622,
       "num": 753622,
       "word": "这是秋田 这是柴犬",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1694950111,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 744184,
-      "num": 744184,
-      "word": "研究发现人会在34岁断崖式衰老",
-      "onboard_time": 1695354572,
-      "rank": 5,
-      "category": "知识科普"
     },
     {
       "raw_hot": 742868,
@@ -2585,6 +2593,14 @@
       "onboard_time": 1694949691,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686910,
+      "num": 686910,
+      "word": "他从火光中走来vs我的人间烟火",
+      "onboard_time": 1695355295,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 686866,
@@ -3316,7 +3332,7 @@
     },
     {
       "raw_hot": 580285,
-      "num": 580285,
+      "num": 629915,
       "word": "丫丫小毯子里找苹果",
       "onboard_time": 1695348392,
       "rank": 5,
@@ -3705,14 +3721,6 @@
       "onboard_time": 1694909612,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 541937,
-      "num": 397342,
-      "word": "他从火光中走来vs我的人间烟火",
-      "onboard_time": 1695355295,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 541559,
@@ -5491,14 +5499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379551,
-      "num": 379551,
-      "word": "任正非说不学英文农村孩子永远是农民",
-      "onboard_time": 1695355596,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379452,
       "num": 379452,
       "word": "河南多地发现隐翅虫",
@@ -6643,6 +6643,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 318993,
+      "num": 251062,
+      "word": "这外卖我可不敢放门口",
+      "onboard_time": 1695355174,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318896,
       "num": 318896,
       "word": "世界八大污染事件 日本独占一半",
@@ -7412,7 +7420,7 @@
     },
     {
       "raw_hot": 283010,
-      "num": 438570,
+      "num": 573069,
       "word": "警犬找回99岁老人被奖一盆鸡腿",
       "onboard_time": 1695346714,
       "rank": 12,
@@ -8283,14 +8291,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 251062,
-      "num": 251062,
-      "word": "这外卖我可不敢放门口",
-      "onboard_time": 1695355174,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250384,
       "num": 203751,
       "word": "衣柜里衣服的两种风格",
@@ -8811,6 +8811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234115,
+      "num": 234115,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234112,
       "num": 234112,
       "word": "汪苏泷说芋圆cp还好着呢",
@@ -8993,6 +9001,14 @@
       "onboard_time": 1695106537,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227860,
+      "num": 227860,
+      "word": "薛之谦滁州",
+      "onboard_time": 1695343957,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 227855,
@@ -9505,14 +9521,6 @@
       "onboard_time": 1695265714,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217045,
-      "num": 217045,
-      "word": "薛之谦滁州",
-      "onboard_time": 1695343957,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 216613,
@@ -11492,7 +11500,7 @@
     },
     {
       "raw_hot": 177336,
-      "num": 426666,
+      "num": 546619,
       "word": "本周日考研预报名开始",
       "onboard_time": 1695353375,
       "rank": 19,
@@ -11684,7 +11692,7 @@
     },
     {
       "raw_hot": 172632,
-      "num": 425476,
+      "num": 490142,
       "word": "拼多多开了场很土的发布会",
       "onboard_time": 1695344614,
       "rank": 44,
@@ -11819,6 +11827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170740,
+      "num": 170740,
+      "word": "众星和我们亚洲共赴未来",
+      "onboard_time": 1695356796,
+      "rank": 39,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 170110,
       "num": 170110,
       "word": "傅云深从e人变emo人",
@@ -11873,6 +11889,14 @@
       "onboard_time": 1695117041,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168562,
+      "num": 168562,
+      "word": "iPhone15订单排到冬天",
+      "onboard_time": 1695356979,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 168356,
@@ -12289,6 +12313,14 @@
       "onboard_time": 1695116497,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157649,
+      "num": 610455,
+      "word": "已经有人用上iPhone15了",
+      "onboard_time": 1695355536,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 157392,
@@ -13300,7 +13332,7 @@
     },
     {
       "raw_hot": 121779,
-      "num": 176004,
+      "num": 221861,
       "word": "你的生活中有断奏时刻吗",
       "onboard_time": 1695355897,
       "rank": 39,
@@ -13425,14 +13457,6 @@
       "onboard_time": 1695354934,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112098,
-      "num": 404915,
-      "word": "已经有人用上iPhone15了",
-      "onboard_time": 1695355536,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 111157,

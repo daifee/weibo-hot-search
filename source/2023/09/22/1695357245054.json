@@ -1,0 +1,410 @@
+{
+  "runTime": 1695357245054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2322630,
+        "num": 2322630,
+        "word": "12306回应强制买长乘短",
+        "onboard_time": 1695350732,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964732,
+        "num": 964732,
+        "word": "约两成考生选择逆向考研",
+        "onboard_time": 1695353314,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22691,
+        "num": 925795,
+        "word": "来杭州看亚运吃什么",
+        "onboard_time": 1695300336,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1096081,
+        "num": 922356,
+        "word": "任正非说不学英文农村孩子永远是农民",
+        "onboard_time": 1695355596,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 891145,
+        "num": 891145,
+        "word": "俞灏明认证端木磊是大妈头",
+        "onboard_time": 1695350732,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1041107,
+        "num": 862064,
+        "word": "儿子监狱服刑母亲骗领国家工资41万",
+        "onboard_time": 1695348753,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754178,
+        "num": 754178,
+        "word": "研究发现人会在34岁断崖式衰老",
+        "onboard_time": 1695354572,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 686910,
+        "num": 686910,
+        "word": "他从火光中走来vs我的人间烟火",
+        "onboard_time": 1695355295,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641383,
+        "num": 641383,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284242,
+        "num": 629915,
+        "word": "丫丫小毯子里找苹果",
+        "onboard_time": 1695348392,
+        "rank": 9,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 157649,
+        "num": 610455,
+        "word": "已经有人用上iPhone15了",
+        "onboard_time": 1695355536,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212849,
+        "num": 573069,
+        "word": "警犬找回99岁老人被奖一盆鸡腿",
+        "onboard_time": 1695346714,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175659,
+        "num": 546619,
+        "word": "本周日考研预报名开始",
+        "onboard_time": 1695353375,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129090,
+        "num": 538833,
+        "word": "超1400万部老年机被木马控制自动花钱",
+        "onboard_time": 1695343295,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162673,
+        "num": 490142,
+        "word": "拼多多开了场很土的发布会",
+        "onboard_time": 1695344614,
+        "rank": 14,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 702931,
+        "num": 462312,
+        "word": "iPhone15和Plus破发",
+        "onboard_time": 1695351754,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 462225,
+        "num": 462225,
+        "word": "丞磊卢昱晓二搭想演公路文",
+        "onboard_time": 1695354992,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423492,
+        "num": 423492,
+        "word": "虞书欣叫郭敬明寒鸦四",
+        "onboard_time": 1695354394,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360410,
+        "num": 360410,
+        "word": "张智霖方声明",
+        "onboard_time": 1695352832,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272850,
+        "num": 272850,
+        "word": "考研大纲",
+        "onboard_time": 1695352653,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 932885,
+        "num": 269211,
+        "word": "体制内开会为什么不喝奶茶",
+        "onboard_time": 1695353735,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394616,
+        "num": 264286,
+        "word": "沪上阿姨 一诺",
+        "onboard_time": 1695349953,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338979,
+        "num": 256526,
+        "word": "辞职后家里的猫吐了",
+        "onboard_time": 1695349533,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318993,
+        "num": 250600,
+        "word": "这外卖我可不敢放门口",
+        "onboard_time": 1695355174,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288082,
+        "num": 245939,
+        "word": "当把结婚邀请函发给自认为最好的朋友",
+        "onboard_time": 1695350912,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288015,
+        "num": 237254,
+        "word": "卢昱晓熬了一整晚等丞磊杀青",
+        "onboard_time": 1695344195,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234115,
+        "num": 234115,
+        "word": "茶颜悦色回应点餐方式像智商税",
+        "onboard_time": 1695356919,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227860,
+        "num": 227860,
+        "word": "薛之谦滁州",
+        "onboard_time": 1695343957,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222703,
+        "num": 222703,
+        "word": "花西子销售额跌幅超九成",
+        "onboard_time": 1695345094,
+        "rank": 28,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 106282,
+        "num": 221861,
+        "word": "你的生活中有断奏时刻吗",
+        "onboard_time": 1695355897,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221071,
+        "num": 221071,
+        "word": "WDCC2023易烊千玺配音宣传片发布",
+        "onboard_time": 1695355536,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 219270,
+        "num": 219270,
+        "word": "令人心动的offer5实习生出席官宣",
+        "onboard_time": 1695348874,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201816,
+        "num": 201816,
+        "word": "苹果回应iPhone15Pro沾指纹",
+        "onboard_time": 1695347313,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199129,
+        "num": 199129,
+        "word": "艾玛沃森的翻包",
+        "onboard_time": 1695354214,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191225,
+        "num": 191225,
+        "word": "嫁给十年前喜欢的人是什么体验",
+        "onboard_time": 1695350732,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186882,
+        "num": 186882,
+        "word": "邓紫棋说承认自己不够也是一种勇气",
+        "onboard_time": 1695345874,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179297,
+        "num": 179297,
+        "word": "梅西谈巴黎",
+        "onboard_time": 1695352653,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175953,
+        "num": 175953,
+        "word": "虞书欣生图",
+        "onboard_time": 1695339570,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174616,
+        "num": 174616,
+        "word": "星穹铁道肯德基",
+        "onboard_time": 1695352293,
+        "rank": 38,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 170740,
+        "num": 170740,
+        "word": "众星和我们亚洲共赴未来",
+        "onboard_time": 1695356796,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 168562,
+        "num": 168562,
+        "word": "iPhone15订单排到冬天",
+        "onboard_time": 1695356979,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162501,
+        "num": 162501,
+        "word": "YG新女团将推迟出道",
+        "onboard_time": 1695348632,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158605,
+        "num": 158605,
+        "word": "王治郅说12块亚运金牌很沉",
+        "onboard_time": 1695355656,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157327,
+        "num": 157327,
+        "word": "2岁幼儿随地小便家长被判赔11万",
+        "onboard_time": 1695342335,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154961,
+        "num": 154961,
+        "word": "冯宝宝和她三个没用的男人",
+        "onboard_time": 1695348515,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151541,
+        "num": 151541,
+        "word": "花西子代工厂被曝为日资",
+        "onboard_time": 1695337887,
+        "rank": 45,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 149224,
+        "num": 149224,
+        "word": "婚姻成了很多人生失败的背锅侠",
+        "onboard_time": 1695341374,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129738,
+        "num": 149219,
+        "word": "未定事件簿",
+        "onboard_time": 1695353677,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 149208,
+        "word": "于和伟郭麒麟新片演父子",
+        "onboard_time": 1695354694,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112372,
+        "num": 149184,
+        "word": "造浪吧国庆档",
+        "onboard_time": 1695354934,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江考察调研#"
+    }
+  }
+}
