@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695385941929,
+  "endTime": 1695386907502,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1986830,
+      "num": 1986830,
+      "word": "把学历改成高中后收到几十个面试",
+      "onboard_time": 1695380733,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1799225,
       "num": 922356,
       "word": "任正非说不学英文农村孩子永远是农民",
@@ -73,14 +81,6 @@
       "onboard_time": 1695378872,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1538916,
-      "num": 340522,
-      "word": "把学历改成高中后收到几十个面试",
-      "onboard_time": 1695380733,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1519425,
@@ -153,6 +153,14 @@
       "onboard_time": 1695360934,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1099286,
+      "num": 374763,
+      "word": "边缘性行为为什么是边缘的",
+      "onboard_time": 1695384934,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1036692,
@@ -267,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 861607,
+      "num": 861607,
+      "word": "陈都灵 在横店进入快穿系统",
+      "onboard_time": 1695385296,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 841677,
       "num": 424243,
       "word": "华为充电线无法给iPhone15充电",
@@ -329,14 +345,6 @@
       "onboard_time": 1695341315,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 693043,
-      "num": 693043,
-      "word": "陈都灵 在横店进入快穿系统",
-      "onboard_time": 1695385296,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 686910,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 591165,
-      "num": 329967,
+      "num": 374366,
       "word": "Prada秀场抓到三个符",
       "onboard_time": 1695382775,
       "rank": 15,
@@ -523,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564535,
-      "num": 209019,
-      "word": "边缘性行为为什么是边缘的",
-      "onboard_time": 1695384934,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 563641,
       "num": 563641,
       "word": "婆婆弄丢孩子甩锅儿媳",
       "onboard_time": 1695379711,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539820,
+      "num": 539820,
+      "word": "王楚钦11比0",
+      "onboard_time": 1695385474,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 522579,
@@ -827,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378543,
+      "num": 378543,
+      "word": "中美成立经济领域工作组",
+      "onboard_time": 1695385234,
+      "rank": 12,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 377394,
       "num": 377394,
       "word": "异人之下二壮居然是Al",
@@ -841,6 +857,22 @@
       "onboard_time": 1695374911,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 374934,
+      "num": 374934,
+      "word": "晚上两点睡早上10点起算熬夜吗",
+      "onboard_time": 1695385535,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 374365,
+      "num": 374365,
+      "word": "没有十年工龄背不出这款通勤包",
+      "onboard_time": 1695384992,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 370136,
@@ -883,6 +915,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 354062,
+      "num": 322121,
+      "word": "张碧晨连吃三天小龙虾后普拉提",
+      "onboard_time": 1695384034,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 353649,
       "num": 353649,
       "word": "黄景瑜张凌赫张婧仪架一排",
@@ -897,14 +937,6 @@
       "onboard_time": 1695298535,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 352424,
-      "num": 314134,
-      "word": "张碧晨连吃三天小龙虾后普拉提",
-      "onboard_time": 1695384034,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 348286,
@@ -945,14 +977,6 @@
       "onboard_time": 1695350912,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 342974,
-      "num": 342974,
-      "word": "王楚钦11比0",
-      "onboard_time": 1695385474,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 331945,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1695374552,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321964,
-      "num": 321964,
-      "word": "没有十年工龄背不出这款通勤包",
-      "onboard_time": 1695384992,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 321097,
@@ -1323,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236907,
+      "num": 236907,
+      "word": "Uzi童锦程冒雨骑行",
+      "onboard_time": 1695386255,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 236179,
       "num": 236179,
       "word": "陈都灵到底救了多少场",
@@ -1427,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224340,
-      "num": 337214,
-      "word": "中美成立经济领域工作组",
-      "onboard_time": 1695385234,
-      "rank": 12,
-      "category": "国内要闻,财经"
-    },
-    {
       "raw_hot": 224319,
       "num": 224319,
       "word": "卢昱晓新人美时期",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1695362733,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222692,
-      "num": 222692,
-      "word": "晚上两点睡早上10点起算熬夜吗",
-      "onboard_time": 1695385535,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 221618,
@@ -1627,6 +1635,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 198550,
+      "num": 198550,
+      "word": "黄子诚涉及间谍行为提出自首",
+      "onboard_time": 1695386135,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198284,
       "num": 198284,
       "word": "法考客观题",
@@ -1672,6 +1688,14 @@
       "word": "发现我嗑的cp也在嗑自己cp",
       "onboard_time": 1695306220,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193195,
+      "num": 193195,
+      "word": "异人之下",
+      "onboard_time": 1695384154,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1779,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187088,
+      "num": 187088,
+      "word": "众星为乐队的夏天大梦打call",
+      "onboard_time": 1695386796,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186847,
       "num": 186847,
       "word": "网友问李嘉琦要荷叶帽链接",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1695354694,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173849,
-      "num": 173849,
-      "word": "异人之下",
-      "onboard_time": 1695384154,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 172029,
@@ -2075,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152308,
+      "num": 146410,
+      "word": "一首歌唱尽人的一生",
+      "onboard_time": 1695383432,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151715,
       "num": 151715,
       "word": "把卧室改造成了屋子的显眼包",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1695370052,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149904,
+      "num": 374491,
+      "word": "崩坏3七周年",
+      "onboard_time": 1695384034,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 149888,
@@ -2395,14 +2435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110577,
-      "num": 332263,
-      "word": "崩坏3七周年",
-      "onboard_time": 1695384034,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 108706,
       "num": 108706,
       "word": "坐杭州地铁得沙滩体验卡一张",
@@ -2508,7 +2540,7 @@
     },
     {
       "raw_hot": 85949,
-      "num": 778703,
+      "num": 995014,
       "word": "杭州亚运会开幕倒计时1天",
       "onboard_time": 1695378695,
       "rank": 40,
