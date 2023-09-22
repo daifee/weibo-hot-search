@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695359741532,
+  "endTime": 1695360841747,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -41,6 +41,14 @@
       "onboard_time": 1695355596,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356466,
+      "num": 1356466,
+      "word": "任正非谈农村学英文困难",
+      "onboard_time": 1695355596,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1271357,
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 831930,
+      "num": 831930,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826563,
       "num": 754178,
       "word": "研究发现人会在34岁断崖式衰老",
@@ -177,14 +193,6 @@
       "onboard_time": 1695341315,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 737445,
-      "num": 737445,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686910,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521468,
+      "num": 521468,
+      "word": "张杰9年前的一个ID",
+      "onboard_time": 1695358478,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 497932,
       "num": 204734,
       "word": "不要相信生理期前的大脑",
@@ -345,14 +361,6 @@
       "onboard_time": 1695345275,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487718,
-      "num": 416885,
-      "word": "张杰9年前的一个ID",
-      "onboard_time": 1695358478,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 478575,
@@ -387,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432066,
+      "num": 432066,
+      "word": "JYP美国女团出道",
+      "onboard_time": 1695359495,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426831,
       "num": 318893,
       "word": "花西子销售额跌幅超九成",
       "onboard_time": 1695345094,
       "rank": 22,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 419294,
+      "num": 306869,
+      "word": "研究员石磊被查证是间谍",
+      "onboard_time": 1695359495,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 419292,
@@ -449,6 +473,22 @@
       "onboard_time": 1695349533,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 375309,
+      "num": 375309,
+      "word": "蔡依林看熊猫像我们挤演唱会",
+      "onboard_time": 1695359617,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 370136,
+      "num": 370136,
+      "word": "为啥劳动人民患抑郁症少",
+      "onboard_time": 1695359079,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 369762,
@@ -513,14 +553,6 @@
       "onboard_time": 1695355174,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306869,
-      "num": 306869,
-      "word": "研究员石磊被查证是间谍",
-      "onboard_time": 1695359495,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 298894,
@@ -635,6 +667,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 270866,
+      "num": 270866,
+      "word": "亚运会电竞项目抽签",
+      "onboard_time": 1695360153,
+      "rank": 26,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 269516,
       "num": 269516,
       "word": "梅西谈巴黎",
@@ -707,20 +747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232517,
+      "num": 232517,
+      "word": "时光代理人",
+      "onboard_time": 1695360512,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 232371,
       "num": 232371,
       "word": "柳智敏去看BLACKPINK演唱会的原因",
       "onboard_time": 1695312751,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232315,
-      "num": 232315,
-      "word": "为啥劳动人民患抑郁症少",
-      "onboard_time": 1695359079,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 227860,
@@ -769,6 +809,14 @@
       "onboard_time": 1695344614,
       "rank": 44,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 224592,
+      "num": 224592,
+      "word": "兰闺喜事开播",
+      "onboard_time": 1695360276,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 224511,
@@ -851,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209413,
+      "num": 209413,
+      "word": "他从火光中走来",
+      "onboard_time": 1695360333,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207800,
       "num": 207800,
       "word": "2023年最后100天",
@@ -865,6 +921,14 @@
       "onboard_time": 1695358296,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201800,
+      "num": 201800,
+      "word": "披荆斩棘",
+      "onboard_time": 1695359794,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 201303,
@@ -889,14 +953,6 @@
       "onboard_time": 1695352353,
       "rank": 33,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 199088,
-      "num": 199088,
-      "word": "JYP美国女团出道",
-      "onboard_time": 1695359495,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 198035,
@@ -971,6 +1027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187647,
+      "num": 187647,
+      "word": "杭州亚运会",
+      "onboard_time": 1695359734,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186059,
       "num": 610455,
       "word": "已经有人用上iPhone15了",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1695323894,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 180331,
+      "num": 180331,
+      "word": "五条悟被封印",
+      "onboard_time": 1695360697,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 179105,
@@ -1065,14 +1137,6 @@
       "onboard_time": 1695358538,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162745,
-      "num": 162745,
-      "word": "蔡依林看熊猫像我们挤演唱会",
-      "onboard_time": 1695359617,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 161232,
@@ -1411,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80489,
+      "num": 219228,
+      "word": "淘宝上线国货超市",
+      "onboard_time": 1695359734,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 78770,
       "num": 204626,
       "word": "西安村民讲述熊猫进棚躲雨全过程",
@@ -1435,20 +1507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72567,
+      "num": 258613,
+      "word": "致敬中国冠军",
+      "onboard_time": 1695359255,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71803,
       "num": 204618,
       "word": "大江大河3首发预告",
       "onboard_time": 1695312572,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59813,
-      "num": 184745,
-      "word": "致敬中国冠军",
-      "onboard_time": 1695359255,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 59644,
@@ -1563,8 +1635,8 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 2172,
-      "num": 810597,
+      "raw_hot": 3393,
+      "num": 903201,
       "word": "乌镇峰会十年寄语",
       "onboard_time": 1695300036,
       "rank": 2,

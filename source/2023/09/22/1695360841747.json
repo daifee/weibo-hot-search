@@ -1,0 +1,410 @@
+{
+  "runTime": 1695360841747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356466,
+        "num": 1356466,
+        "word": "任正非谈农村学英文困难",
+        "onboard_time": 1695355596,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1036284,
+        "num": 1036284,
+        "word": "12306回应强制买长乘短",
+        "onboard_time": 1695350732,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3393,
+        "num": 903201,
+        "word": "乌镇峰会十年寄语",
+        "onboard_time": 1695300036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831930,
+        "num": 831930,
+        "word": "茶颜悦色回应点餐方式像智商税",
+        "onboard_time": 1695356919,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805321,
+        "num": 805321,
+        "word": "张拿铁因东北口音被汪汪队婉拒",
+        "onboard_time": 1695357939,
+        "rank": 4,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 620161,
+        "num": 620161,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614744,
+        "num": 614744,
+        "word": "儿子监狱服刑母亲骗领国家工资41万",
+        "onboard_time": 1695348753,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544461,
+        "num": 544461,
+        "word": "约两成考生选择逆向考研",
+        "onboard_time": 1695353314,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 522565,
+        "num": 522565,
+        "word": "杨幂晒关雪杀青照",
+        "onboard_time": 1695358238,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200405,
+        "num": 521605,
+        "word": "丫丫小毯子里找苹果",
+        "onboard_time": 1695348392,
+        "rank": 9,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 521468,
+        "num": 521468,
+        "word": "张杰9年前的一个ID",
+        "onboard_time": 1695358478,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432066,
+        "num": 432066,
+        "word": "JYP美国女团出道",
+        "onboard_time": 1695359495,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130914,
+        "num": 411873,
+        "word": "警犬找回99岁老人被奖一盆鸡腿",
+        "onboard_time": 1695346714,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104145,
+        "num": 409003,
+        "word": "超1400万部老年机被木马控制自动花钱",
+        "onboard_time": 1695343295,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76240,
+        "num": 407046,
+        "word": "本周日考研预报名开始",
+        "onboard_time": 1695353375,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 406381,
+        "num": 406381,
+        "word": "他从火光中走来vs我的人间烟火",
+        "onboard_time": 1695355295,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376441,
+        "num": 376441,
+        "word": "iPhone15和Plus破发",
+        "onboard_time": 1695351754,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 375309,
+        "num": 375309,
+        "word": "蔡依林看熊猫像我们挤演唱会",
+        "onboard_time": 1695359617,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370136,
+        "num": 370136,
+        "word": "为啥劳动人民患抑郁症少",
+        "onboard_time": 1695359079,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281262,
+        "num": 281262,
+        "word": "虞书欣叫郭敬明寒鸦四",
+        "onboard_time": 1695354394,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 624510,
+        "num": 280322,
+        "word": "体制内开会为什么不喝奶茶",
+        "onboard_time": 1695353735,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505952,
+        "num": 279093,
+        "word": "研究发现人会在34岁断崖式衰老",
+        "onboard_time": 1695354572,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 419294,
+        "num": 276009,
+        "word": "研究员石磊被查证是间谍",
+        "onboard_time": 1695359495,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299520,
+        "num": 273336,
+        "word": "沪上阿姨 一诺",
+        "onboard_time": 1695349953,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286060,
+        "num": 271894,
+        "word": "iPhone15订单排到冬天",
+        "onboard_time": 1695356979,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271351,
+        "num": 271351,
+        "word": "一念关山滤镜",
+        "onboard_time": 1695357880,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270866,
+        "num": 270866,
+        "word": "亚运会电竞项目抽签",
+        "onboard_time": 1695360153,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 72567,
+        "num": 258613,
+        "word": "致敬中国冠军",
+        "onboard_time": 1695359255,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249768,
+        "num": 249768,
+        "word": "俞灏明认证端木磊是大妈头",
+        "onboard_time": 1695350732,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248727,
+        "num": 248727,
+        "word": "辞职后家里的猫吐了",
+        "onboard_time": 1695349533,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232517,
+        "num": 232517,
+        "word": "时光代理人",
+        "onboard_time": 1695360512,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 224592,
+        "num": 224592,
+        "word": "兰闺喜事开播",
+        "onboard_time": 1695360276,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80489,
+        "num": 219228,
+        "word": "淘宝上线国货超市",
+        "onboard_time": 1695359734,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214745,
+        "num": 214745,
+        "word": "丞磊卢昱晓二搭想演公路文",
+        "onboard_time": 1695354992,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209413,
+        "num": 209413,
+        "word": "他从火光中走来",
+        "onboard_time": 1695360333,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202910,
+        "num": 202910,
+        "word": "这外卖我可不敢放门口",
+        "onboard_time": 1695355174,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201800,
+        "num": 201800,
+        "word": "披荆斩棘",
+        "onboard_time": 1695359794,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187647,
+        "num": 187647,
+        "word": "杭州亚运会",
+        "onboard_time": 1695359734,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190233,
+        "num": 186974,
+        "word": "卢昱晓熬了一整晚等丞磊杀青",
+        "onboard_time": 1695344195,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186122,
+        "num": 186122,
+        "word": "逆水寒",
+        "onboard_time": 1695359556,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180331,
+        "num": 180331,
+        "word": "五条悟被封印",
+        "onboard_time": 1695360697,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178998,
+        "num": 178998,
+        "word": "当把结婚邀请函发给自认为最好的朋友",
+        "onboard_time": 1695350912,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175510,
+        "num": 175510,
+        "word": "薛之谦滁州",
+        "onboard_time": 1695343957,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166833,
+        "num": 166833,
+        "word": "周杰伦演唱会版暗号",
+        "onboard_time": 1695357999,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163298,
+        "num": 163298,
+        "word": "光与夜之恋 复刻",
+        "onboard_time": 1695358296,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159192,
+        "num": 159192,
+        "word": "花西子销售额跌幅超九成",
+        "onboard_time": 1695345094,
+        "rank": 45,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 138183,
+        "num": 138183,
+        "word": "何运晨加盟令人心动的offer5",
+        "onboard_time": 1695357637,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135162,
+        "num": 135162,
+        "word": "已经有人用上iPhone15了",
+        "onboard_time": 1695355536,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132481,
+        "num": 132481,
+        "word": "WDCC2023易烊千玺配音宣传片发布",
+        "onboard_time": 1695355536,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 121973,
+        "num": 121973,
+        "word": "拼多多开了场很土的发布会",
+        "onboard_time": 1695344614,
+        "rank": 49,
+        "category": "互联网,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江考察调研#"
+    }
+  }
+}

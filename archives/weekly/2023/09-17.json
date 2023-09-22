@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695359741532,
+  "endTime": 1695360841747,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -873,6 +873,14 @@
       "onboard_time": 1695083920,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356466,
+      "num": 1356466,
+      "word": "任正非谈农村学英文困难",
+      "onboard_time": 1695355596,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1346489,
@@ -1915,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831930,
+      "num": 831930,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828968,
       "num": 828968,
       "word": "麻辣王子好吃",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1695096580,
       "rank": 18,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 737445,
-      "num": 737445,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736301,
@@ -3931,6 +3939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521468,
+      "num": 521468,
+      "word": "张杰9年前的一个ID",
+      "onboard_time": 1695358478,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 521273,
       "num": 521273,
       "word": "读研究生之后才会知道的真相",
@@ -4281,14 +4297,6 @@
       "onboard_time": 1695139536,
       "rank": 11,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 487718,
-      "num": 416885,
-      "word": "张杰9年前的一个ID",
-      "onboard_time": 1695358478,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 487618,
@@ -4819,6 +4827,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 432066,
+      "num": 432066,
+      "word": "JYP美国女团出道",
+      "onboard_time": 1695359495,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431982,
       "num": 431982,
       "word": "张杰家的女子足球加油小队",
@@ -5009,6 +5025,14 @@
       "onboard_time": 1695265655,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 419294,
+      "num": 306869,
+      "word": "研究员石磊被查证是间谍",
+      "onboard_time": 1695359495,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 419292,
@@ -5611,6 +5635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375309,
+      "num": 375309,
+      "word": "蔡依林看熊猫像我们挤演唱会",
+      "onboard_time": 1695359617,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375113,
       "num": 375113,
       "word": "吉克隽逸问麻辣王子好吃吗",
@@ -5705,6 +5737,14 @@
       "onboard_time": 1695194978,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370136,
+      "num": 370136,
+      "word": "为啥劳动人民患抑郁症少",
+      "onboard_time": 1695359079,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 369970,
@@ -6899,14 +6939,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 306869,
-      "num": 306869,
-      "word": "研究员石磊被查证是间谍",
-      "onboard_time": 1695359495,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305455,
       "num": 994914,
       "word": "妹妹犯错被批评哥哥暖心呵护",
@@ -7841,6 +7873,14 @@
       "onboard_time": 1694924858,
       "rank": 32,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 270866,
+      "num": 270866,
+      "word": "亚运会电竞项目抽签",
+      "onboard_time": 1695360153,
+      "rank": 26,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 270733,
@@ -8939,20 +8979,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232517,
+      "num": 232517,
+      "word": "时光代理人",
+      "onboard_time": 1695360512,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 232371,
       "num": 232371,
       "word": "柳智敏去看BLACKPINK演唱会的原因",
       "onboard_time": 1695312751,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232315,
-      "num": 232315,
-      "word": "为啥劳动人民患抑郁症少",
-      "onboard_time": 1695359079,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 232244,
@@ -9217,6 +9257,14 @@
       "onboard_time": 1695344614,
       "rank": 44,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 224592,
+      "num": 224592,
+      "word": "兰闺喜事开播",
+      "onboard_time": 1695360276,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 224511,
@@ -10267,6 +10315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201800,
+      "num": 201800,
+      "word": "披荆斩棘",
+      "onboard_time": 1695359794,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201494,
       "num": 204634,
       "word": "周杰伦太原演唱会",
@@ -10433,14 +10489,6 @@
       "onboard_time": 1694943270,
       "rank": 31,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 199088,
-      "num": 199088,
-      "word": "JYP美国女团出道",
-      "onboard_time": 1695359495,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 198847,
@@ -11131,6 +11179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187647,
+      "num": 187647,
+      "word": "杭州亚运会",
+      "onboard_time": 1695359734,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187551,
       "num": 187551,
       "word": "安宥真米兰时装周",
@@ -11457,6 +11513,14 @@
       "onboard_time": 1694910573,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180331,
+      "num": 180331,
+      "word": "五条悟被封印",
+      "onboard_time": 1695360697,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 180092,
@@ -12249,14 +12313,6 @@
       "onboard_time": 1695296133,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 162745,
-      "num": 162745,
-      "word": "蔡依林看熊猫像我们挤演唱会",
-      "onboard_time": 1695359617,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 162399,
@@ -13955,6 +14011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80489,
+      "num": 219228,
+      "word": "淘宝上线国货超市",
+      "onboard_time": 1695359734,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80175,
       "num": 80175,
       "word": "当理解了女儿她就不再是孤军奋战",
@@ -14057,6 +14121,14 @@
       "onboard_time": 1695103774,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72567,
+      "num": 258613,
+      "word": "致敬中国冠军",
+      "onboard_time": 1695359255,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 72490,
@@ -14177,14 +14249,6 @@
       "onboard_time": 1694906846,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 59813,
-      "num": 184745,
-      "word": "致敬中国冠军",
-      "onboard_time": 1695359255,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 59653,
@@ -14763,8 +14827,8 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 2172,
-      "num": 810597,
+      "raw_hot": 3393,
+      "num": 903201,
       "word": "乌镇峰会十年寄语",
       "onboard_time": 1695300036,
       "rank": 2,
