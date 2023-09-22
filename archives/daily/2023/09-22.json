@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695370885865,
+  "endTime": 1695371654036,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1519425,
+      "num": 831086,
+      "word": "我辞职后 我的猫压力巨大在家吐了",
+      "onboard_time": 1695368493,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1356466,
       "num": 1356466,
       "word": "任正非谈农村学英文困难",
@@ -81,14 +89,6 @@
       "onboard_time": 1695308738,
       "rank": 0,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1179049,
-      "num": 831086,
-      "word": "我辞职后 我的猫压力巨大在家吐了",
-      "onboard_time": 1695368493,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1164660,
@@ -185,6 +185,14 @@
       "onboard_time": 1695357939,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 836685,
+      "num": 292001,
+      "word": "陈好薛佳凝合照",
+      "onboard_time": 1695370174,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 826563,
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406765,
+      "num": 200734,
+      "word": "为什么孙悟空会被热米饭烫到",
+      "onboard_time": 1695370293,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406290,
       "num": 338130,
       "word": "爱吃猕猴桃的人都沉默了",
@@ -569,14 +585,6 @@
       "onboard_time": 1695364474,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399252,
-      "num": 270793,
-      "word": "陈好薛佳凝合照",
-      "onboard_time": 1695370174,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 390344,
@@ -667,14 +675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 349338,
-      "num": 200734,
-      "word": "为什么孙悟空会被热米饭烫到",
-      "onboard_time": 1695370293,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 348286,
       "num": 348286,
       "word": "黄景瑜张婧仪体型差",
@@ -705,6 +705,14 @@
       "onboard_time": 1695364892,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 328526,
+      "num": 228833,
+      "word": "姬发犯的是灭族的大罪",
+      "onboard_time": 1695370413,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 327550,
@@ -747,20 +755,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301091,
+      "num": 301091,
+      "word": "黄明昊撤回了一个滑板出场",
+      "onboard_time": 1695369036,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298894,
       "num": 298894,
       "word": "他从火光中走来 孙梦",
       "onboard_time": 1695308259,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298831,
-      "num": 167328,
-      "word": "姬发犯的是灭族的大罪",
-      "onboard_time": 1695370413,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 298232,
@@ -881,14 +889,6 @@
       "onboard_time": 1695343597,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268474,
-      "num": 268474,
-      "word": "黄明昊撤回了一个滑板出场",
-      "onboard_time": 1695369036,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 267068,
@@ -1187,6 +1187,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 201117,
+      "num": 201117,
+      "word": "丞磊片场画卢昱晓",
+      "onboard_time": 1695370832,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199568,
       "num": 199568,
       "word": "演员接力祝福杭州亚运会",
@@ -1291,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186847,
+      "num": 186847,
+      "word": "网友问李嘉琦要荷叶帽链接",
+      "onboard_time": 1695369751,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186059,
       "num": 610455,
       "word": "已经有人用上iPhone15了",
@@ -1363,6 +1379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176154,
+      "num": 161382,
+      "word": "英语老师3天忘光所有单词查出痴呆症",
+      "onboard_time": 1695371314,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 174022,
       "num": 174022,
       "word": "于和伟郭麒麟新片演父子",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1695350553,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165471,
-      "num": 165471,
-      "word": "网友问李嘉琦要荷叶帽链接",
-      "onboard_time": 1695369751,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 163424,
@@ -1611,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135497,
+      "num": 135497,
+      "word": "黄景瑜抽空敷衍我们",
+      "onboard_time": 1695371551,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134779,
       "num": 134779,
       "word": "盛阳对简冰感情萌生的始末",
@@ -1771,14 +1795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102905,
-      "num": 112677,
-      "word": "丞磊片场画卢昱晓",
-      "onboard_time": 1695370832,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102407,
       "num": 204644,
       "word": "林俊杰南京抢票",
@@ -1907,20 +1923,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70949,
+      "num": 289353,
+      "word": "崩铁 帮帮我肯德基爷爷",
+      "onboard_time": 1695369874,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59644,
       "num": 74911,
       "word": "林茨1比3利物浦",
       "onboard_time": 1695337946,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54509,
-      "num": 273879,
-      "word": "崩铁 帮帮我肯德基爷爷",
-      "onboard_time": 1695369874,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 49266,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1695290434,
       "rank": 14,
       "category": "国内要闻,体育"
+    },
+    {
+      "raw_hot": 38480,
+      "num": 843610,
+      "word": "三次亚运会窗口透视中国33年变迁",
+      "onboard_time": 1695369994,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35028,
@@ -1993,14 +2017,6 @@
       "onboard_time": 1695321377,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 22786,
-      "num": 843610,
-      "word": "三次亚运会窗口透视中国33年变迁",
-      "onboard_time": 1695369994,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21497,
