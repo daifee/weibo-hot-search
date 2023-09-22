@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695411237663,
+  "endTime": 1695413853367,
   "band_list": [
     {
       "raw_hot": 1451426,
@@ -489,6 +489,14 @@
       "onboard_time": 1695408556,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26466,
+      "num": 26466,
+      "word": "男子潜入原单位摆放前上司遗像",
+      "onboard_time": 1695411254,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23368,
