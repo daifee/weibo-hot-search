@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695366943795,
+  "endTime": 1695368042226,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -673,6 +673,14 @@
       "onboard_time": 1695040298,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1663025,
+      "num": 1663025,
+      "word": "98年小伙每天2小时开网店月入5万",
+      "onboard_time": 1695365912,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1657652,
@@ -2555,14 +2563,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 701795,
-      "num": 701795,
-      "word": "98年小伙每天2小时开网店月入5万",
-      "onboard_time": 1695365912,
-      "rank": 1,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 699997,
       "num": 699997,
       "word": "内娱现偶之光",
@@ -3459,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571749,
+      "num": 299662,
+      "word": "离职后还收到了公司的中秋礼物",
+      "onboard_time": 1695366874,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571374,
       "num": 427972,
       "word": "苹果高管称iPhone15Pro将成最好的游戏机",
@@ -3851,6 +3859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 534880,
+      "num": 185091,
+      "word": "1公斤黄金价格已达47万",
+      "onboard_time": 1695366874,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 534843,
       "num": 473924,
       "word": "iPhone15可使用安卓C口配件",
@@ -4241,6 +4257,14 @@
       "onboard_time": 1695313112,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494573,
+      "num": 322642,
+      "word": "老公是一种态度 老公是一种心情",
+      "onboard_time": 1695365430,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 494449,
@@ -5603,6 +5627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381256,
+      "num": 381256,
+      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+      "onboard_time": 1695366090,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380572,
       "num": 326414,
       "word": "周也撑住了贴头皮造型",
@@ -6425,14 +6457,6 @@
       "onboard_time": 1695191736,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340173,
-      "num": 322642,
-      "word": "老公是一种态度 老公是一种心情",
-      "onboard_time": 1695365430,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 339494,
@@ -8264,14 +8288,6 @@
       "word": "山东的桃子都是oversize的",
       "onboard_time": 1695269436,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260228,
-      "num": 260228,
-      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
-      "onboard_time": 1695366090,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -10955,14 +10971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193447,
-      "num": 184181,
-      "word": "1公斤黄金价格已达47万",
-      "onboard_time": 1695366874,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193233,
       "num": 193233,
       "word": "云之羽今日收官",
@@ -11473,6 +11481,14 @@
       "onboard_time": 1695359316,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185651,
+      "num": 185651,
+      "word": "微博音乐盛典第四日持续官宣阵容",
+      "onboard_time": 1695367174,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 185267,
@@ -13371,14 +13387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "离职后还收到了公司的中秋礼物",
-      "onboard_time": 1695366874,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138165,
       "num": 138165,
       "word": "如何看待粉丝为明星洗白",
@@ -13441,6 +13449,14 @@
       "onboard_time": 1695114757,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136391,
+      "num": 136391,
+      "word": "中秋见家长需要带什么",
+      "onboard_time": 1695367773,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 136202,
@@ -13827,6 +13843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117689,
+      "num": 125161,
+      "word": "安踏签欧文赢麻了",
+      "onboard_time": 1695367895,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116830,
       "num": 116830,
       "word": "陈奕迅清唱浮夸",
@@ -13921,6 +13945,14 @@
       "onboard_time": 1695021996,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108706,
+      "num": 108706,
+      "word": "坐杭州地铁得沙滩体验卡一张",
+      "onboard_time": 1695366571,
+      "rank": 48,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 108362,
@@ -14771,6 +14803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31006,
+      "num": 326193,
+      "word": "许昕又要亮大招了",
+      "onboard_time": 1695366032,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30590,
       "num": 38935,
       "word": "莲花楼小分队版天下",
@@ -14985,14 +15025,6 @@
       "onboard_time": 1695069732,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 18818,
-      "num": 326193,
-      "word": "许昕又要亮大招了",
-      "onboard_time": 1695366032,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 15478,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695366943795,
+  "endTime": 1695368042226,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -3273,6 +3273,14 @@
       "onboard_time": 1693555181,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1663025,
+      "num": 1663025,
+      "word": "98年小伙每天2小时开网店月入5万",
+      "onboard_time": 1695365912,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1657652,
@@ -10843,14 +10851,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 701795,
-      "num": 701795,
-      "word": "98年小伙每天2小时开网店月入5万",
-      "onboard_time": 1695365912,
-      "rank": 1,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 701754,
       "num": 701754,
       "word": "云之羽扫楼跳虞书欣ohmy",
@@ -14251,6 +14251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571749,
+      "num": 299662,
+      "word": "离职后还收到了公司的中秋礼物",
+      "onboard_time": 1695366874,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571475,
       "num": 571475,
       "word": "BLACKPINK获VMA最佳年度组合",
@@ -15689,6 +15697,14 @@
       "onboard_time": 1694927916,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 534880,
+      "num": 185091,
+      "word": "1公斤黄金价格已达47万",
+      "onboard_time": 1695366874,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 534843,
@@ -17265,6 +17281,14 @@
       "onboard_time": 1694828072,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494573,
+      "num": 322642,
+      "word": "老公是一种态度 老公是一种心情",
+      "onboard_time": 1695365430,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 494449,
@@ -22739,6 +22763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381256,
+      "num": 381256,
+      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+      "onboard_time": 1695366090,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381232,
       "num": 336320,
       "word": "呼市现大量哮喘患者急诊排长队",
@@ -25281,14 +25313,6 @@
       "onboard_time": 1694224893,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 340173,
-      "num": 322642,
-      "word": "老公是一种态度 老公是一种心情",
-      "onboard_time": 1695365430,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 340128,
@@ -32377,14 +32401,6 @@
       "onboard_time": 1694846675,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260228,
-      "num": 260228,
-      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
-      "onboard_time": 1695366090,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260063,
@@ -42323,14 +42339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193447,
-      "num": 184181,
-      "word": "1公斤黄金价格已达47万",
-      "onboard_time": 1695366874,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193387,
       "num": 193387,
       "word": "京都city walk",
@@ -44105,6 +44113,14 @@
       "onboard_time": 1695359316,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185651,
+      "num": 185651,
+      "word": "微博音乐盛典第四日持续官宣阵容",
+      "onboard_time": 1695367174,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 185609,
@@ -50675,14 +50691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "离职后还收到了公司的中秋礼物",
-      "onboard_time": 1695366874,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138475,
       "num": 138475,
       "word": "杭州亚运会10天倒计时",
@@ -50897,6 +50905,14 @@
       "onboard_time": 1693843233,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136391,
+      "num": 136391,
+      "word": "中秋见家长需要带什么",
+      "onboard_time": 1695367773,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 136378,
@@ -52315,6 +52331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 117689,
+      "num": 125161,
+      "word": "安踏签欧文赢麻了",
+      "onboard_time": 1695367895,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "华晨宇演唱会北京鸟巢歌单",
@@ -52761,6 +52785,14 @@
       "onboard_time": 1693760963,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108706,
+      "num": 108706,
+      "word": "坐杭州地铁得沙滩体验卡一张",
+      "onboard_time": 1695366571,
+      "rank": 48,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 108563,
@@ -56091,6 +56123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31006,
+      "num": 326193,
+      "word": "许昕又要亮大招了",
+      "onboard_time": 1695366032,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30785,
       "num": 437750,
       "word": "50岁民警飞身跳水勇救落水男子",
@@ -56799,14 +56839,6 @@
       "num": 481536,
       "word": "在雪如意遇见山海",
       "onboard_time": 1693648832,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 18818,
-      "num": 326193,
-      "word": "许昕又要亮大招了",
-      "onboard_time": 1695366032,
       "rank": 14,
       "category": "体育"
     },

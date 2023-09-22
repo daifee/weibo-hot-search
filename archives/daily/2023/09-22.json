@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695366943795,
+  "endTime": 1695368042226,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -41,6 +41,14 @@
       "onboard_time": 1695355596,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1663025,
+      "num": 1663025,
+      "word": "98年小伙每天2小时开网店月入5万",
+      "onboard_time": 1695365912,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1356466,
@@ -203,14 +211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 701795,
-      "num": 701795,
-      "word": "98年小伙每天2小时开网店月入5万",
-      "onboard_time": 1695365912,
-      "rank": 1,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 686910,
       "num": 686910,
       "word": "他从火光中走来vs我的人间烟火",
@@ -331,12 +331,28 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 571749,
+      "num": 299662,
+      "word": "离职后还收到了公司的中秋礼物",
+      "onboard_time": 1695366874,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571374,
       "num": 571374,
       "word": "超1400万部老年机被木马控制自动花钱",
       "onboard_time": 1695343295,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534880,
+      "num": 185091,
+      "word": "1公斤黄金价格已达47万",
+      "onboard_time": 1695366874,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 522579,
@@ -377,6 +393,14 @@
       "onboard_time": 1695313112,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494573,
+      "num": 322642,
+      "word": "老公是一种态度 老公是一种心情",
+      "onboard_time": 1695365430,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 492648,
@@ -547,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381256,
+      "num": 381256,
+      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+      "onboard_time": 1695366090,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379441,
       "num": 303583,
       "word": "辞职后家里的猫吐了",
@@ -624,14 +656,6 @@
       "word": "当把结婚邀请函发给自认为最好的朋友",
       "onboard_time": 1695350912,
       "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 340173,
-      "num": 322642,
-      "word": "老公是一种态度 老公是一种心情",
-      "onboard_time": 1695365430,
-      "rank": 18,
       "category": "情感"
     },
     {
@@ -825,14 +849,6 @@
       "onboard_time": 1695355536,
       "rank": 25,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 260228,
-      "num": 260228,
-      "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
-      "onboard_time": 1695366090,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250572,
@@ -1131,14 +1147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193447,
-      "num": 184181,
-      "word": "1公斤黄金价格已达47万",
-      "onboard_time": 1695366874,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193241,
       "num": 204717,
       "word": "发现我嗑的cp也在嗑自己cp",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1695359316,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185651,
+      "num": 185651,
+      "word": "微博音乐盛典第四日持续官宣阵容",
+      "onboard_time": 1695367174,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 184030,
@@ -1475,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "离职后还收到了公司的中秋礼物",
-      "onboard_time": 1695366874,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137962,
       "num": 137962,
       "word": "刘德华张涵予新片大佬即视感",
       "onboard_time": 1695353614,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136391,
+      "num": 136391,
+      "word": "中秋见家长需要带什么",
+      "onboard_time": 1695367773,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 136189,
@@ -1587,6 +1603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117689,
+      "num": 125161,
+      "word": "安踏签欧文赢麻了",
+      "onboard_time": 1695367895,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116432,
       "num": 223197,
       "word": "于适生活工作反差感",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1695354934,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108706,
+      "num": 108706,
+      "word": "坐杭州地铁得沙滩体验卡一张",
+      "onboard_time": 1695366571,
+      "rank": 48,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 103282,
@@ -1811,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31006,
+      "num": 326193,
+      "word": "许昕又要亮大招了",
+      "onboard_time": 1695366032,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30245,
       "num": 991660,
       "word": "来杭州看亚运吃什么",
@@ -1857,14 +1897,6 @@
       "onboard_time": 1695321676,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18818,
-      "num": 326193,
-      "word": "许昕又要亮大招了",
-      "onboard_time": 1695366032,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 10340,

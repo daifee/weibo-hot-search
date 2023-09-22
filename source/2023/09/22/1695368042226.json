@@ -1,0 +1,410 @@
+{
+  "runTime": 1695368042226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1663025,
+        "num": 1663025,
+        "word": "98年小伙每天2小时开网店月入5万",
+        "onboard_time": 1695365912,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1193793,
+        "num": 1193793,
+        "word": "茶颜悦色回应点餐方式像智商税",
+        "onboard_time": 1695356919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4529,
+        "num": 736565,
+        "word": "乌镇峰会十年寄语",
+        "onboard_time": 1695300036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454589,
+        "num": 454589,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433836,
+        "num": 433836,
+        "word": "张远俞灏明王栎鑫上不了春晚的原因",
+        "onboard_time": 1695361413,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381256,
+        "num": 381256,
+        "word": "新手爸爸没看住的孩子被陌生爷爷守护了",
+        "onboard_time": 1695366090,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370407,
+        "num": 370407,
+        "word": "张栋梁从鬼脚梁变成鸡脚梁了",
+        "onboard_time": 1695364474,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346400,
+        "num": 346400,
+        "word": "约两成考生选择逆向考研",
+        "onboard_time": 1695353314,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 338414,
+        "num": 338414,
+        "word": "儿子监狱服刑母亲骗领国家工资41万",
+        "onboard_time": 1695348753,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311190,
+        "num": 311190,
+        "word": "LOL中韩可能在半决赛交手",
+        "onboard_time": 1695362793,
+        "rank": 9,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 127535,
+        "num": 310342,
+        "word": "丫丫小毯子里找苹果",
+        "onboard_time": 1695348392,
+        "rank": 10,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 94472,
+        "num": 308709,
+        "word": "警犬找回99岁老人被奖一盆鸡腿",
+        "onboard_time": 1695346714,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59003,
+        "num": 304896,
+        "word": "超1400万部老年机被木马控制自动花钱",
+        "onboard_time": 1695343295,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77447,
+        "num": 304196,
+        "word": "郭晶晶人生风浪中找到稳定核心",
+        "onboard_time": 1695365613,
+        "rank": 13,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 31006,
+        "num": 301012,
+        "word": "许昕又要亮大招了",
+        "onboard_time": 1695366032,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571749,
+        "num": 299662,
+        "word": "离职后还收到了公司的中秋礼物",
+        "onboard_time": 1695366874,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 590701,
+        "num": 297980,
+        "word": "苹果称iPhone15Pro变色可恢复",
+        "onboard_time": 1695362675,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 494573,
+        "num": 294679,
+        "word": "老公是一种态度 老公是一种心情",
+        "onboard_time": 1695365430,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369145,
+        "num": 293559,
+        "word": "张远拒绝陈楚生",
+        "onboard_time": 1695365129,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292070,
+        "num": 292070,
+        "word": "蔡依林看熊猫像我们挤演唱会",
+        "onboard_time": 1695359617,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402269,
+        "num": 288479,
+        "word": "女教师举报遭教授性侵双方发声",
+        "onboard_time": 1695360934,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336675,
+        "num": 286737,
+        "word": "长时间玩手机真的会变丑吗",
+        "onboard_time": 1695364892,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 250352,
+        "num": 250352,
+        "word": "SEVENTEEN新预告有北京",
+        "onboard_time": 1695364892,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225306,
+        "num": 225306,
+        "word": "林孝埈1500FA",
+        "onboard_time": 1695365371,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221029,
+        "num": 221029,
+        "word": "体制内开会为什么不喝奶茶",
+        "onboard_time": 1695353735,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216987,
+        "num": 216987,
+        "word": "丁仲礼院士预言成真",
+        "onboard_time": 1695363691,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198993,
+        "num": 198993,
+        "word": "五条悟被封印",
+        "onboard_time": 1695360697,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187681,
+        "num": 187681,
+        "word": "爱吃猕猴桃的人都沉默了",
+        "onboard_time": 1695361054,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185651,
+        "num": 185651,
+        "word": "微博音乐盛典第四日持续官宣阵容",
+        "onboard_time": 1695367174,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185247,
+        "num": 185247,
+        "word": "帮帮我肯德基爷爷",
+        "onboard_time": 1695362733,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 534880,
+        "num": 185091,
+        "word": "1公斤黄金价格已达47万",
+        "onboard_time": 1695366874,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183996,
+        "num": 183996,
+        "word": "12306回应强制买长乘短",
+        "onboard_time": 1695350732,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163463,
+        "num": 163463,
+        "word": "沪上阿姨 一诺",
+        "onboard_time": 1695349953,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158804,
+        "num": 158804,
+        "word": "iPhone15和Plus破发",
+        "onboard_time": 1695351754,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158022,
+        "num": 158022,
+        "word": "研究发现人会在34岁断崖式衰老",
+        "onboard_time": 1695354572,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 145742,
+        "num": 145742,
+        "word": "张杰9年前的一个ID",
+        "onboard_time": 1695358478,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143095,
+        "num": 143095,
+        "word": "杨幂晒关雪杀青照",
+        "onboard_time": 1695358238,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140940,
+        "num": 140940,
+        "word": "黄景瑜张凌赫张婧仪架一排",
+        "onboard_time": 1695360992,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136426,
+        "num": 136426,
+        "word": "iPhone15订单排到冬天",
+        "onboard_time": 1695356979,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136391,
+        "num": 136391,
+        "word": "中秋见家长需要带什么",
+        "onboard_time": 1695367773,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133339,
+        "num": 133339,
+        "word": "假如甄嬛是网红来演",
+        "onboard_time": 1695364172,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125409,
+        "num": 125409,
+        "word": "买到了放不软的猕猴桃",
+        "onboard_time": 1695364231,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117689,
+        "num": 125161,
+        "word": "安踏签欧文赢麻了",
+        "onboard_time": 1695367895,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124932,
+        "num": 124932,
+        "word": "铃鹿御前传说皮肤",
+        "onboard_time": 1695366812,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122202,
+        "num": 122202,
+        "word": "辞职后家里的猫吐了",
+        "onboard_time": 1695349533,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121075,
+        "num": 121075,
+        "word": "梁靖崑11比0",
+        "onboard_time": 1695360876,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113753,
+        "num": 113753,
+        "word": "丞磊卢昱晓二搭想演公路文",
+        "onboard_time": 1695354992,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112265,
+        "num": 112265,
+        "word": "盛阳对简冰感情萌生的始末",
+        "onboard_time": 1695365010,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108706,
+        "num": 108706,
+        "word": "坐杭州地铁得沙滩体验卡一张",
+        "onboard_time": 1695366571,
+        "rank": 48,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 107555,
+        "num": 107555,
+        "word": "研究员石磊被查证是间谍",
+        "onboard_time": 1695359495,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江考察调研#"
+    }
+  }
+}
