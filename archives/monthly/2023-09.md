@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 13:34:01
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 14:22:38
 </p>
 </blockquote>
 <p>
@@ -3981,6 +3981,12 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23" target="weibo">
+茶颜悦色回应点餐方式像智商税（热度：1174133）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%8D%83%E9%87%8C%E4%B9%8B%E5%A4%96%23" target="weibo">
 成龙周杰伦 千里之外（热度：1172742）
 </a>
@@ -4007,6 +4013,12 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%89%8B%E6%9C%BA%23" target="weibo">
 白宫回应华为新手机（热度：1165866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%95%99%E6%8E%88%E6%80%A7%E4%BE%B5%E5%8F%8C%E6%96%B9%E5%8F%91%E5%A3%B0%23" target="weibo">
+女教师举报遭教授性侵双方发声（热度：1164660）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E6%94%B6%E5%88%B0100%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%A4%B9%E9%87%8C%E8%84%8A%23" target="weibo">
 李荣浩演唱会后台收到100个烧饼夹里脊（热度：866460）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%B0%B1%E6%B2%A1%E6%BC%94%E8%BF%87%E5%8F%97%E6%B0%94%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
-白百何就没演过受气的角色（热度：865742）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%83%8F%E8%B7%9F%E7%9D%80%E7%88%B6%E6%AF%8D%E5%BA%94%E9%85%AC%E7%9A%84%E6%88%91%23" target="weibo">
-王源像跟着父母应酬的我（热度：864964）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695360841747,
+  "endTime": 1695363758213,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -5291,6 +5291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1174133,
+      "num": 1174133,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172742,
       "num": 1172742,
       "word": "成龙周杰伦 千里之外",
@@ -5329,6 +5337,14 @@
       "onboard_time": 1693973496,
       "rank": 23,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1164660,
+      "num": 1164660,
+      "word": "女教师举报遭教授性侵双方发声",
+      "onboard_time": 1695360934,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1163485,
@@ -8401,14 +8417,6 @@
       "onboard_time": 1693905938,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 831930,
-      "num": 831930,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830864,
@@ -13113,6 +13121,14 @@
       "onboard_time": 1694616343,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611889,
+      "num": 611889,
+      "word": "张远俞灏明王栎鑫上不了春晚的原因",
+      "onboard_time": 1695361413,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 611506,
@@ -20267,6 +20283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427989,
+      "num": 381572,
+      "word": "蔡依林看熊猫像我们挤演唱会",
+      "onboard_time": 1695359617,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427832,
       "num": 427832,
       "word": "进京探亲遇暴雨失联女童遗体找到",
@@ -21499,6 +21523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406290,
+      "num": 338130,
+      "word": "爱吃猕猴桃的人都沉默了",
+      "onboard_time": 1695361054,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406259,
       "num": 255616,
       "word": "南风知我意预约人数破200万",
@@ -22451,6 +22483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385620,
+      "num": 385620,
+      "word": "亚运会电竞项目抽签",
+      "onboard_time": 1695360153,
+      "rank": 26,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 385351,
       "num": 385351,
       "word": "女子暴雨后突发哮喘面部肿胀睁不开眼",
@@ -23003,14 +23043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 375309,
-      "num": 375309,
-      "word": "蔡依林看熊猫像我们挤演唱会",
-      "onboard_time": 1695359617,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 375191,
       "num": 375191,
       "word": "杨千嬅演唱会官宣重庆武汉",
@@ -23385,6 +23417,14 @@
       "onboard_time": 1695116377,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369441,
+      "num": 369441,
+      "word": "梁靖崑11比0",
+      "onboard_time": 1695360876,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 369439,
@@ -23816,6 +23856,14 @@
       "word": "Ruler 我认为我们国家完全能夺冠",
       "onboard_time": 1694743535,
       "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 363455,
+      "num": 363455,
+      "word": "LOL中韩可能在半决赛交手",
+      "onboard_time": 1695362793,
+      "rank": 16,
       "category": "游戏"
     },
     {
@@ -24819,6 +24867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345767,
+      "num": 345767,
+      "word": "五条悟被封印",
+      "onboard_time": 1695360697,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 345611,
       "num": 345611,
       "word": "店家回应烤肉流出粉色液体被质疑",
@@ -25145,6 +25201,14 @@
       "onboard_time": 1693560100,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340543,
+      "num": 340543,
+      "word": "黄景瑜张凌赫张婧仪架一排",
+      "onboard_time": 1695360992,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 340468,
@@ -31163,14 +31227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270866,
-      "num": 270866,
-      "word": "亚运会电竞项目抽签",
-      "onboard_time": 1695360153,
-      "rank": 26,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 270864,
       "num": 270864,
       "word": "孙俪喊你做瑜伽了",
@@ -33177,6 +33233,14 @@
       "onboard_time": 1693561839,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250572,
+      "num": 250572,
+      "word": "凤凰传奇谢谢你",
+      "onboard_time": 1695361954,
+      "rank": 26,
+      "category": "知识科普,艺人"
     },
     {
       "raw_hot": 250448,
@@ -35761,6 +35825,14 @@
       "onboard_time": 1694764116,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229416,
+      "num": 229416,
+      "word": "苹果称iPhone15Pro变色可恢复",
+      "onboard_time": 1695362675,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 229336,
@@ -44139,6 +44211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184468,
+      "num": 184468,
+      "word": "张柏芝把银河穿在身上",
+      "onboard_time": 1695362493,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184467,
       "num": 184467,
       "word": "RIIZE空降成绩",
@@ -44153,6 +44233,14 @@
       "onboard_time": 1694352520,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184439,
+      "num": 184439,
+      "word": "法考客观题",
+      "onboard_time": 1695363392,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 184411,
@@ -44841,14 +44929,6 @@
       "onboard_time": 1694910573,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180331,
-      "num": 180331,
-      "word": "五条悟被封印",
-      "onboard_time": 1695360697,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 180247,
@@ -45771,6 +45851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174635,
+      "num": 174635,
+      "word": "帮帮我肯德基爷爷",
+      "onboard_time": 1695362733,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174539,
       "num": 174539,
       "word": "宋轶哎呀好身材5路透",
@@ -46585,6 +46673,14 @@
       "onboard_time": 1695117041,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168839,
+      "num": 168839,
+      "word": "云之羽豆瓣开分6.0",
+      "onboard_time": 1695361831,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 168601,
@@ -52019,6 +52115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118557,
+      "num": 219228,
+      "word": "淘宝上线国货超市",
+      "onboard_time": 1695359734,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118545,
       "num": 135469,
       "word": "汪苏泷郑州演唱会",
@@ -52137,6 +52241,14 @@
       "onboard_time": 1695358597,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116278,
+      "num": 116278,
+      "word": "时代少年团为贺峻霖新综艺打call",
+      "onboard_time": 1695360876,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 116175,
@@ -53091,6 +53203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95688,
+      "num": 95688,
+      "word": "丁仲礼院士预言成真",
+      "onboard_time": 1695363691,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 95395,
       "num": 299594,
       "word": "什么情况需要拔智齿",
@@ -53793,14 +53913,6 @@
       "onboard_time": 1693987234,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80489,
-      "num": 219228,
-      "word": "淘宝上线国货超市",
-      "onboard_time": 1695359734,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 80399,
@@ -56763,7 +56875,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3393,
+      "raw_hot": 3886,
       "num": 903201,
       "word": "乌镇峰会十年寄语",
       "onboard_time": 1695300036,

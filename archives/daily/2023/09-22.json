@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695360841747,
+  "endTime": 1695363758213,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -65,6 +65,22 @@
       "onboard_time": 1695308738,
       "rank": 0,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1174133,
+      "num": 1174133,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1164660,
+      "num": 1164660,
+      "word": "女教师举报遭教授性侵双方发声",
+      "onboard_time": 1695360934,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1036692,
@@ -145,14 +161,6 @@
       "onboard_time": 1695357939,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 831930,
-      "num": 831930,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 826563,
@@ -273,6 +281,14 @@
       "onboard_time": 1695300096,
       "rank": 4,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 611889,
+      "num": 611889,
+      "word": "张远俞灏明王栎鑫上不了春晚的原因",
+      "onboard_time": 1695361413,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 595845,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427989,
+      "num": 381572,
+      "word": "蔡依林看熊猫像我们挤演唱会",
+      "onboard_time": 1695359617,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426831,
       "num": 318893,
       "word": "花西子销售额跌幅超九成",
@@ -451,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406290,
+      "num": 338130,
+      "word": "爱吃猕猴桃的人都沉默了",
+      "onboard_time": 1695361054,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386923,
       "num": 298243,
       "word": "太子奶",
       "onboard_time": 1695275015,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385620,
+      "num": 385620,
+      "word": "亚运会电竞项目抽签",
+      "onboard_time": 1695360153,
+      "rank": 26,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 383176,
@@ -475,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 375309,
-      "num": 375309,
-      "word": "蔡依林看熊猫像我们挤演唱会",
-      "onboard_time": 1695359617,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370136,
       "num": 370136,
       "word": "为啥劳动人民患抑郁症少",
@@ -497,6 +529,22 @@
       "onboard_time": 1695344976,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 369441,
+      "num": 369441,
+      "word": "梁靖崑11比0",
+      "onboard_time": 1695360876,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 363455,
+      "num": 363455,
+      "word": "LOL中韩可能在半决赛交手",
+      "onboard_time": 1695362793,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 353164,
@@ -515,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345767,
+      "num": 345767,
+      "word": "五条悟被封印",
+      "onboard_time": 1695360697,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 343123,
       "num": 292945,
       "word": "当把结婚邀请函发给自认为最好的朋友",
       "onboard_time": 1695350912,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 340543,
+      "num": 340543,
+      "word": "黄景瑜张凌赫张婧仪架一排",
+      "onboard_time": 1695360992,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 327550,
@@ -667,14 +731,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 270866,
-      "num": 270866,
-      "word": "亚运会电竞项目抽签",
-      "onboard_time": 1695360153,
-      "rank": 26,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 269516,
       "num": 269516,
       "word": "梅西谈巴黎",
@@ -705,6 +761,14 @@
       "onboard_time": 1695355536,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 250572,
+      "num": 250572,
+      "word": "凤凰传奇谢谢你",
+      "onboard_time": 1695361954,
+      "rank": 26,
+      "category": "知识科普,艺人"
     },
     {
       "raw_hot": 245866,
@@ -761,6 +825,14 @@
       "onboard_time": 1695312751,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229416,
+      "num": 229416,
+      "word": "苹果称iPhone15Pro变色可恢复",
+      "onboard_time": 1695362675,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 227860,
@@ -1051,6 +1123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184468,
+      "num": 184468,
+      "word": "张柏芝把银河穿在身上",
+      "onboard_time": 1695362493,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 184439,
+      "num": 184439,
+      "word": "法考客观题",
+      "onboard_time": 1695363392,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184030,
       "num": 184030,
       "word": "何运晨加盟令人心动的offer5",
@@ -1067,14 +1155,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 180331,
-      "num": 180331,
-      "word": "五条悟被封印",
-      "onboard_time": 1695360697,
-      "rank": 40,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 179105,
       "num": 179105,
       "word": "欧洲芯片法案正式生效",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1695353375,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174635,
+      "num": 174635,
+      "word": "帮帮我肯德基爷爷",
+      "onboard_time": 1695362733,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 174022,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1695356796,
       "rank": 39,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 168839,
+      "num": 168839,
+      "word": "云之羽豆瓣开分6.0",
+      "onboard_time": 1695361831,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167811,
@@ -1347,12 +1443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118557,
+      "num": 219228,
+      "word": "淘宝上线国货超市",
+      "onboard_time": 1695359734,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116432,
       "num": 223197,
       "word": "于适生活工作反差感",
       "onboard_time": 1695358597,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116278,
+      "num": 116278,
+      "word": "时代少年团为贺峻霖新综艺打call",
+      "onboard_time": 1695360876,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 115891,
@@ -1401,6 +1513,14 @@
       "onboard_time": 1695291220,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95688,
+      "num": 95688,
+      "word": "丁仲礼院士预言成真",
+      "onboard_time": 1695363691,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 94818,
@@ -1473,14 +1593,6 @@
       "onboard_time": 1695319462,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80489,
-      "num": 219228,
-      "word": "淘宝上线国货超市",
-      "onboard_time": 1695359734,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 78770,
@@ -1635,7 +1747,7 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 3393,
+      "raw_hot": 3886,
       "num": 903201,
       "word": "乌镇峰会十年寄语",
       "onboard_time": 1695300036,
