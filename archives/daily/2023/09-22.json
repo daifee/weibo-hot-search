@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695393242326,
+  "endTime": 1695395853313,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -179,6 +179,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1193205,
+      "num": 384399,
+      "word": "台湾的卫生巾真的长这样吗",
+      "onboard_time": 1695394776,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1164660,
       "num": 1164660,
       "word": "女教师举报遭教授性侵双方发声",
@@ -313,6 +321,14 @@
       "onboard_time": 1695385296,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 853580,
+      "num": 853580,
+      "word": "正确的内衣晾晒方法",
+      "onboard_time": 1695393337,
+      "rank": 3,
+      "category": "知识科普"
     },
     {
       "raw_hot": 841677,
@@ -723,12 +739,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 471593,
+      "num": 471593,
+      "word": "郑恺票房破10亿要跳女团舞",
+      "onboard_time": 1695394534,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 467869,
       "num": 467869,
       "word": "覃海洋杨力维担任中国亚运旗手",
       "onboard_time": 1695352053,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 465808,
+      "num": 331200,
+      "word": "X玖少年团小分队合体",
+      "onboard_time": 1695393576,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464544,
@@ -1091,6 +1123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331567,
+      "num": 331567,
+      "word": "成毅曾舜晞肖顺尧合体采访",
+      "onboard_time": 1695393337,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330963,
+      "num": 330963,
+      "word": "IVE预告",
+      "onboard_time": 1695392917,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 329308,
       "num": 329308,
       "word": "进村民家大熊猫体重为正常熊猫的一半",
@@ -1155,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319726,
+      "num": 319726,
+      "word": "张馨予去看薛之谦演唱会了",
+      "onboard_time": 1695394776,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319388,
       "num": 319388,
       "word": "俞灏明一个闹钟叫醒六个人",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1695355174,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312736,
-      "num": 312736,
-      "word": "IVE预告",
-      "onboard_time": 1695392917,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 310229,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1695385354,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206067,
+      "num": 206067,
+      "word": "广东感染红眼病人数激增",
+      "onboard_time": 1695395318,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205587,
@@ -2531,6 +2587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137467,
+      "num": 137467,
+      "word": "李泽锋这段台词怎么敢说出口的",
+      "onboard_time": 1695395737,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136391,
       "num": 136391,
       "word": "中秋见家长需要带什么",
@@ -2561,6 +2625,22 @@
       "onboard_time": 1695353677,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132722,
+      "num": 132722,
+      "word": "有时候在肯德基上班挺无助的",
+      "onboard_time": 1695395257,
+      "rank": 43,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 132087,
+      "num": 132087,
+      "word": "李雪健封神杀青特辑",
+      "onboard_time": 1695393996,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 130988,
@@ -2737,6 +2817,14 @@
       "onboard_time": 1695366571,
       "rank": 48,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 105969,
+      "num": 121110,
+      "word": "计算机二级",
+      "onboard_time": 1695395796,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 104845,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 22:34:02
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 23:17:33
 </p>
 </blockquote>
 <p>
@@ -3987,6 +3987,12 @@ Lisa晒BLACKPINK背影照（热度：1215500）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9C%9F%E7%9A%84%E9%95%BF%E8%BF%99%E6%A0%B7%E5%90%97%23" target="weibo">
+台湾的卫生巾真的长这样吗（热度：1193205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周狗屎运最旺的星座（热度：1193202）
 </a>
@@ -6005,12 +6011,6 @@ THE9解散演唱会官宣了（热度：883365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23aespa%20BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 aespa BLACKPINK演唱会（热度：881125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E5%9B%A0%E4%B9%B0350%E5%85%83%E6%9F%9C%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%23" target="weibo">
-女子自曝因买350元柜子遭家暴（热度：880718）
 </a>
 </li>
 

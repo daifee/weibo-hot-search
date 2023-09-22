@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695393242326,
+  "endTime": 1695395853313,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -1243,6 +1243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1193205,
+      "num": 384399,
+      "word": "台湾的卫生巾真的长这样吗",
+      "onboard_time": 1695394776,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1186146,
       "num": 1186146,
       "word": "徐娇回归周星驰公司",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1695269797,
       "rank": 21,
       "category": "剧集,动漫"
+    },
+    {
+      "raw_hot": 853580,
+      "num": 853580,
+      "word": "正确的内衣晾晒方法",
+      "onboard_time": 1695393337,
+      "rank": 3,
+      "category": "知识科普"
     },
     {
       "raw_hot": 846219,
@@ -4803,6 +4819,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 471593,
+      "num": 471593,
+      "word": "郑恺票房破10亿要跳女团舞",
+      "onboard_time": 1695394534,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 471064,
       "num": 471064,
       "word": "蜂花你家纸箱被偷了",
@@ -4849,6 +4873,14 @@
       "onboard_time": 1695293136,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465808,
+      "num": 331200,
+      "word": "X玖少年团小分队合体",
+      "onboard_time": 1695393576,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 465646,
@@ -6995,6 +7027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331567,
+      "num": 331567,
+      "word": "成毅曾舜晞肖顺尧合体采访",
+      "onboard_time": 1695393337,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331496,
       "num": 331496,
       "word": "丈夫找回去世21年的岳父照片送妻子当礼物",
@@ -7025,6 +7065,14 @@
       "onboard_time": 1694909670,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 330963,
+      "num": 330963,
+      "word": "IVE预告",
+      "onboard_time": 1695392917,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 330855,
@@ -7323,6 +7371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319726,
+      "num": 319726,
+      "word": "张馨予去看薛之谦演唱会了",
+      "onboard_time": 1695394776,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319388,
       "num": 319388,
       "word": "俞灏明一个闹钟叫醒六个人",
@@ -7441,14 +7497,6 @@
       "onboard_time": 1695107973,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312736,
-      "num": 312736,
-      "word": "IVE预告",
-      "onboard_time": 1695392917,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 312544,
@@ -10929,6 +10977,14 @@
       "onboard_time": 1694927676,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206067,
+      "num": 206067,
+      "word": "广东感染红眼病人数激增",
+      "onboard_time": 1695395318,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206044,
@@ -14443,6 +14499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137467,
+      "num": 137467,
+      "word": "李泽锋这段台词怎么敢说出口的",
+      "onboard_time": 1695395737,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137303,
       "num": 137303,
       "word": "73岁大爷带脑梗老伴10年9次自驾进藏",
@@ -14547,6 +14611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132722,
+      "num": 132722,
+      "word": "有时候在肯德基上班挺无助的",
+      "onboard_time": 1695395257,
+      "rank": 43,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 132556,
       "num": 132556,
       "word": "莲花楼演唱会沉浸式体验",
@@ -14569,6 +14641,14 @@
       "onboard_time": 1694941832,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132087,
+      "num": 132087,
+      "word": "李雪健封神杀青特辑",
+      "onboard_time": 1695393996,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 131809,
@@ -15041,6 +15121,14 @@
       "onboard_time": 1695156192,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 105969,
+      "num": 121110,
+      "word": "计算机二级",
+      "onboard_time": 1695395796,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 105580,
