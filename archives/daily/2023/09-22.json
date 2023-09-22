@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695352643693,
+  "endTime": 1695353648026,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -25,6 +25,22 @@
       "onboard_time": 1695348753,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1488904,
+      "num": 1488904,
+      "word": "12306回应强制买长乘短",
+      "onboard_time": 1695350732,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1271357,
+      "num": 1271357,
+      "word": "俞灏明认证端木磊是大妈头",
+      "onboard_time": 1695350732,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1214679,
@@ -67,12 +83,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 958266,
-      "num": 958266,
-      "word": "12306回应强制买长乘短",
-      "onboard_time": 1695350732,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 972455,
+      "num": 396968,
+      "word": "iPhone15和Plus破发",
+      "onboard_time": 1695351754,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 957084,
@@ -89,14 +105,6 @@
       "onboard_time": 1695342335,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 879698,
-      "num": 879698,
-      "word": "俞灏明认证端木磊是大妈头",
-      "onboard_time": 1695350732,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 817118,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 669756,
-      "num": 240252,
+      "num": 258163,
       "word": "沪上阿姨 一诺",
       "onboard_time": 1695349953,
       "rank": 34,
@@ -299,12 +307,12 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 423286,
-      "num": 379709,
-      "word": "iPhone15和Plus破发",
-      "onboard_time": 1695351754,
-      "rank": 10,
-      "category": "数码"
+      "raw_hot": 419292,
+      "num": 419292,
+      "word": "张智霖方声明",
+      "onboard_time": 1695352832,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 418732,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 343123,
-      "num": 234551,
+      "num": 250437,
       "word": "当把结婚邀请函发给自认为最好的朋友",
       "onboard_time": 1695350912,
       "rank": 25,
@@ -424,6 +432,14 @@
       "word": "法考成绩",
       "onboard_time": 1695304419,
       "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 294157,
+      "num": 294157,
+      "word": "考研大纲",
+      "onboard_time": 1695352653,
+      "rank": 16,
       "category": "教育"
     },
     {
@@ -499,6 +515,22 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 270992,
+      "num": 227790,
+      "word": "约两成考生选择逆向考研",
+      "onboard_time": 1695353314,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 269516,
+      "num": 269516,
+      "word": "梅西谈巴黎",
+      "onboard_time": 1695352653,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269105,
       "num": 269105,
       "word": "梅西想要个女儿",
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 242728,
-      "num": 242728,
+      "num": 257319,
       "word": "景甜新综艺",
       "onboard_time": 1695352174,
       "rank": 18,
@@ -561,6 +593,14 @@
       "onboard_time": 1695312751,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227855,
+      "num": 227855,
+      "word": "星穹铁道肯德基",
+      "onboard_time": 1695352293,
+      "rank": 37,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 225794,
@@ -755,14 +795,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 179416,
-      "num": 179416,
-      "word": "星穹铁道肯德基",
-      "onboard_time": 1695352293,
-      "rank": 37,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 179105,
       "num": 179105,
       "word": "欧洲芯片法案正式生效",
@@ -923,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137962,
+      "num": 137962,
+      "word": "刘德华张涵予新片大佬即视感",
+      "onboard_time": 1695353614,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136189,
       "num": 136189,
       "word": "孙晨竣喊丞磊宫门浴王",
       "onboard_time": 1695350012,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132633,
+      "num": 262149,
+      "word": "本周日考研预报名开始",
+      "onboard_time": 1695353375,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 126987,
@@ -1035,12 +1083,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 89940,
+      "num": 156383,
+      "word": "中餐厅到底还有多少惊喜",
+      "onboard_time": 1695352593,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89367,
       "num": 248506,
       "word": "救4人00后战士一等功喜报送到家",
       "onboard_time": 1695300396,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 89171,
+      "num": 333324,
+      "word": "广州无人机烟花秀为亚运加油",
+      "onboard_time": 1695351635,
+      "rank": 14,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 86351,
@@ -1097,14 +1161,6 @@
       "onboard_time": 1695312572,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63318,
-      "num": 333324,
-      "word": "广州无人机烟花秀为亚运加油",
-      "onboard_time": 1695351635,
-      "rank": 14,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 59644,
@@ -1217,14 +1273,6 @@
       "onboard_time": 1695328452,
       "rank": 49,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 8050,
-      "num": 135633,
-      "word": "中餐厅到底还有多少惊喜",
-      "onboard_time": 1695352593,
-      "rank": 49,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

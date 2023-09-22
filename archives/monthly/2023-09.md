@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 11:17:23
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 11:34:08
 </p>
 </blockquote>
 <p>
@@ -2895,6 +2895,12 @@ iPhone14价格不降反涨（热度：1494110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23" target="weibo">
+12306回应强制买长乘短（热度：1488904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%23" target="weibo">
 李佳琦（热度：1488092）
 </a>
@@ -3521,6 +3527,12 @@ DFBOYS（热度：1371735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%A5%B9%E6%98%AF%E5%9B%BD%E6%B0%91%E5%88%9D%E6%81%8B%23" target="weibo">
 怪不得她是国民初恋（热度：1273798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E8%AE%A4%E8%AF%81%E7%AB%AF%E6%9C%A8%E7%A3%8A%E6%98%AF%E5%A4%A7%E5%A6%88%E5%A4%B4%23" target="weibo">
+俞灏明认证端木磊是大妈头（热度：1271357）
 </a>
 </li>
 
@@ -5091,6 +5103,12 @@ TTG金色雨（热度：976290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15%E5%92%8CPlus%E7%A0%B4%E5%8F%91%23" target="weibo">
+iPhone15和Plus破发（热度：972455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23CA403%E6%89%80%E6%9C%89%E4%BA%BA%E5%91%98%E5%9D%87%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%23" target="weibo">
 CA403所有人员均安全撤离（热度：972380）
 </a>
@@ -5213,12 +5231,6 @@ Mate60不会放过每一个逃单的人（热度：960766）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E7%A7%B0%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%23" target="weibo">
 交通局称北极鲶鱼炫富事件不予公开（热度：958338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23" target="weibo">
-12306回应强制买长乘短（热度：958266）
 </a>
 </li>
 
@@ -5859,12 +5871,6 @@ aespa BLACKPINK演唱会（热度：881125）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E8%AE%A4%E8%AF%81%E7%AB%AF%E6%9C%A8%E7%A3%8A%E6%98%AF%E5%A4%A7%E5%A6%88%E5%A4%B4%23" target="weibo">
-俞灏明认证端木磊是大妈头（热度：879698）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E5%88%B0UFO%23" target="weibo">
 多地网友称看到UFO（热度：877285）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23" target="weibo">
 王靖雯把KPL说成KPI（热度：862351）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%A2%AB%E4%BA%BA%E5%86%92%E9%A2%86%E9%A1%B6%E6%9B%BF30%E5%B9%B4%23" target="weibo">
-录取通知书被人冒领顶替30年（热度：859322）
 </a>
 </li>
 

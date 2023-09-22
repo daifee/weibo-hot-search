@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695352643693,
+  "endTime": 1695353648026,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -755,6 +755,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1488904,
+      "num": 1488904,
+      "word": "12306回应强制买长乘短",
+      "onboard_time": 1695350732,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1485931,
       "num": 1485931,
       "word": "为什么音乐节都是这种厕所",
@@ -913,6 +921,14 @@
       "onboard_time": 1695098620,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1271357,
+      "num": 1271357,
+      "word": "俞灏明认证端木磊是大妈头",
+      "onboard_time": 1695350732,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1271323,
@@ -1499,6 +1515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 972455,
+      "num": 396968,
+      "word": "iPhone15和Plus破发",
+      "onboard_time": 1695351754,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 961828,
       "num": 897865,
       "word": "新郎开迈巴赫扮猪八戒接新娘",
@@ -1521,14 +1545,6 @@
       "onboard_time": 1695267514,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 958266,
-      "num": 958266,
-      "word": "12306回应强制买长乘短",
-      "onboard_time": 1695350732,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 957084,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1694949753,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 879698,
-      "num": 879698,
-      "word": "俞灏明认证端木磊是大妈头",
-      "onboard_time": 1695350732,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 876551,
@@ -2700,7 +2708,7 @@
     },
     {
       "raw_hot": 669756,
-      "num": 240252,
+      "num": 258163,
       "word": "沪上阿姨 一诺",
       "onboard_time": 1695349953,
       "rank": 34,
@@ -4851,14 +4859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423286,
-      "num": 379709,
-      "word": "iPhone15和Plus破发",
-      "onboard_time": 1695351754,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 423208,
       "num": 423208,
       "word": "国产小说界的四大天王",
@@ -4921,6 +4921,14 @@
       "onboard_time": 1695265655,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 419292,
+      "num": 419292,
+      "word": "张智霖方声明",
+      "onboard_time": 1695352832,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 418860,
@@ -6092,7 +6100,7 @@
     },
     {
       "raw_hot": 343123,
-      "num": 234551,
+      "num": 250437,
       "word": "当把结婚邀请函发给自认为最好的朋友",
       "onboard_time": 1695350912,
       "rank": 25,
@@ -7059,6 +7067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294157,
+      "num": 294157,
+      "word": "考研大纲",
+      "onboard_time": 1695352653,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 293853,
       "num": 293853,
       "word": "为什么年轻人手机都不离身",
@@ -7707,6 +7723,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 270992,
+      "num": 227790,
+      "word": "约两成考生选择逆向考研",
+      "onboard_time": 1695353314,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 270733,
       "num": 270733,
       "word": "封神第二部概念设计图",
@@ -7737,6 +7761,14 @@
       "onboard_time": 1695267933,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269516,
+      "num": 269516,
+      "word": "梅西谈巴黎",
+      "onboard_time": 1695352653,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 269229,
@@ -8420,7 +8452,7 @@
     },
     {
       "raw_hot": 242728,
-      "num": 242728,
+      "num": 257319,
       "word": "景甜新综艺",
       "onboard_time": 1695352174,
       "rank": 18,
@@ -8897,6 +8929,14 @@
       "onboard_time": 1695106537,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227855,
+      "num": 227855,
+      "word": "星穹铁道肯德基",
+      "onboard_time": 1695352293,
+      "rank": 37,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 227473,
@@ -11291,14 +11331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179416,
-      "num": 179416,
-      "word": "星穹铁道肯德基",
-      "onboard_time": 1695352293,
-      "rank": 37,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 179410,
       "num": 161226,
       "word": "于适回应被称爱哭的小狗",
@@ -12859,6 +12891,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 137962,
+      "num": 137962,
+      "word": "刘德华张涵予新片大佬即视感",
+      "onboard_time": 1695353614,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137303,
       "num": 137303,
       "word": "73岁大爷带脑梗老伴10年9次自驾进藏",
@@ -12937,6 +12977,14 @@
       "onboard_time": 1694868337,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132633,
+      "num": 262149,
+      "word": "本周日考研预报名开始",
+      "onboard_time": 1695353375,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 132556,
@@ -13507,6 +13555,22 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 89940,
+      "num": 156383,
+      "word": "中餐厅到底还有多少惊喜",
+      "onboard_time": 1695352593,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89171,
+      "num": 333324,
+      "word": "广州无人机烟花秀为亚运加油",
+      "onboard_time": 1695351635,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 88027,
       "num": 1022739,
       "word": "彭清林重回跳桥救人地传火炬",
@@ -13817,14 +13881,6 @@
       "onboard_time": 1695189996,
       "rank": 30,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 63318,
-      "num": 333324,
-      "word": "广州无人机烟花秀为亚运加油",
-      "onboard_time": 1695351635,
-      "rank": 14,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 62114,
@@ -14417,14 +14473,6 @@
       "onboard_time": 1695328452,
       "rank": 49,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 8050,
-      "num": 135633,
-      "word": "中餐厅到底还有多少惊喜",
-      "onboard_time": 1695352593,
-      "rank": 49,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
