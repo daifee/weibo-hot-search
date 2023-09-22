@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 11:34:08
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 12:20:05
 </p>
 </blockquote>
 <p>
@@ -1461,6 +1461,12 @@ iPhone15国行售价曝光（热度：2123680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23" target="weibo">
+12306回应强制买长乘短（热度：2079686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%B9%B4%E8%96%AA63%E4%B8%87%E6%8B%9B%E5%85%AC%E5%85%B3%23" target="weibo">
 花西子年薪63万招公关（热度：2076685）
 </a>
@@ -2891,12 +2897,6 @@ iPhone14价格不降反涨（热度：1494110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8A%A0%E5%AE%B3%E8%80%85%E4%B8%8D%E8%AF%A5%E9%B8%A3%E5%86%A4%E5%8F%AB%E5%B1%88%23" target="weibo">
 日本是加害者不该鸣冤叫屈（热度：1489932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23" target="weibo">
-12306回应强制买长乘短（热度：1488904）
 </a>
 </li>
 
@@ -5205,6 +5205,12 @@ TF家族演唱会举办方被罚6万（热度：967033）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23" target="weibo">
+约两成考生选择逆向考研（热度：961057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%AE%A2%E4%BA%BA%E7%9D%A1%E5%A5%B3%E5%84%BF%E6%88%BF%E9%97%B4%E5%90%97%23" target="weibo">
 可以让客人睡女儿房间吗（热度：960917）
 </a>
@@ -5901,6 +5907,12 @@ aespa BLACKPINK演唱会（热度：881125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%88%B6%E5%86%85%E5%BC%80%E4%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9D%E5%A5%B6%E8%8C%B6%23" target="weibo">
+体制内开会为什么不喝奶茶（热度：874758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%23" target="weibo">
 一诺（热度：874111）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS为王源新综艺宣传（热度：867815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1%E9%81%AD%E6%95%99%E5%AE%98%E6%80%A7%E4%BE%B5%23" target="weibo">
 15岁女生在戒网瘾学校遭教官性侵（热度：862607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BA%B2%E4%B8%8D%E6%98%AF%E6%84%9F%E6%83%85%E5%8F%91%E7%94%9F%E7%9A%84%E8%BD%BD%E4%BD%93%23" target="weibo">
-相亲不是感情发生的载体（热度：862471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23" target="weibo">
-王靖雯把KPL说成KPI（热度：862351）
 </a>
 </li>
 
