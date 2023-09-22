@@ -1,6 +1,6 @@
 {
   "startTime": 1695313272487,
-  "endTime": 1695389628173,
+  "endTime": 1695392144209,
   "band_list": [
     {
       "raw_hot": 2395792,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1988699,
-      "num": 387138,
+      "num": 471519,
       "word": "陈学冬车祸后第三次手术结束",
       "onboard_time": 1695380671,
       "rank": 16,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1889322,
-      "num": 375233,
+      "num": 482581,
       "word": "边缘性行为为什么是边缘的",
       "onboard_time": 1695384934,
       "rank": 30,
@@ -89,6 +89,14 @@
       "onboard_time": 1695389077,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1685542,
+      "num": 1685542,
+      "word": "黄子诚涉及间谍行为提出自首",
+      "onboard_time": 1695386135,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 1572716,
@@ -171,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1129829,
-      "num": 1129829,
-      "word": "黄子诚涉及间谍行为提出自首",
-      "onboard_time": 1695386135,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 1106837,
+      "num": 1106837,
+      "word": "女子3次试管婴儿终于怀上却查出癌症",
+      "onboard_time": 1695387876,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1036692,
@@ -249,14 +257,6 @@
       "onboard_time": 1695374793,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 952051,
-      "num": 952051,
-      "word": "女子3次试管婴儿终于怀上却查出癌症",
-      "onboard_time": 1695387876,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932885,
@@ -369,6 +369,30 @@
       "onboard_time": 1695341315,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 755753,
+      "num": 755753,
+      "word": "中国女排vs荷兰女排",
+      "onboard_time": 1695384514,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 722458,
+      "num": 467367,
+      "word": "张韶涵造型师真的高手",
+      "onboard_time": 1695387033,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 688143,
+      "num": 449314,
+      "word": "未来婆婆说给买一千块钱的三金",
+      "onboard_time": 1695391056,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 686910,
@@ -491,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 622594,
+      "num": 622594,
+      "word": "教育部称对预制菜进校园持审慎态度",
+      "onboard_time": 1695389140,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615936,
       "num": 615936,
       "word": "港星张智霖到警署协助调查",
@@ -579,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529346,
-      "num": 349748,
-      "word": "张韶涵造型师真的高手",
-      "onboard_time": 1695387033,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 522579,
       "num": 522579,
       "word": "傅首尔 这段婚姻不是我憧憬的样子",
@@ -617,6 +641,14 @@
       "onboard_time": 1695365430,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 504932,
+      "num": 504932,
+      "word": "国产剧女主终于长嘴了",
+      "onboard_time": 1695390635,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 498506,
@@ -659,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485133,
+      "num": 466251,
+      "word": "王源大背头小揪揪",
+      "onboard_time": 1695389739,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 478575,
       "num": 478575,
       "word": "丞磊卢昱晓二搭想演公路文",
@@ -673,6 +713,14 @@
       "onboard_time": 1695352053,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 464544,
+      "num": 464544,
+      "word": "那英说周迅带老花镜像88",
+      "onboard_time": 1695388835,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 456946,
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 439449,
-      "num": 439449,
+      "num": 477434,
       "word": "遇隐翅虫第一反应要用力吹走",
       "onboard_time": 1695375934,
       "rank": 9,
@@ -729,14 +777,6 @@
       "onboard_time": 1695359617,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 433016,
-      "num": 433016,
-      "word": "教育部称对预制菜进校园持审慎态度",
-      "onboard_time": 1695389140,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432066,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 378543,
-      "num": 378543,
+      "num": 475211,
       "word": "中美成立经济领域工作组",
       "onboard_time": 1695385234,
       "rank": 12,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1695350912,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 334092,
-      "num": 334092,
-      "word": "那英说周迅带老花镜像88",
-      "onboard_time": 1695388835,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 331945,
@@ -1179,6 +1211,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 296818,
+      "num": 296818,
+      "word": "iPhone15怎么充电",
+      "onboard_time": 1695389556,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 294601,
       "num": 294601,
       "word": "法考成绩",
@@ -1323,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263645,
+      "num": 263645,
+      "word": "吴磊在马背上下腰躺倒",
+      "onboard_time": 1695389495,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262009,
       "num": 262009,
       "word": "WDCC2023易烊千玺配音宣传片发布",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1695382113,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 247881,
-      "num": 247881,
-      "word": "中国女排vs荷兰女排",
-      "onboard_time": 1695384514,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 246049,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1695386255,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 236685,
+      "num": 236685,
+      "word": "鹊刀门传奇格局太大了",
+      "onboard_time": 1695390635,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 236179,
@@ -1595,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215531,
+      "num": 215531,
+      "word": "预制菜",
+      "onboard_time": 1695391537,
+      "rank": 28,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 215512,
       "num": 215512,
       "word": "2023微博暑期剧综报告",
@@ -1667,12 +1723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208614,
+      "num": 208614,
+      "word": "陕西信达罢赛",
+      "onboard_time": 1695391299,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207800,
       "num": 207800,
       "word": "2023年最后100天",
       "onboard_time": 1695338850,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207130,
+      "num": 207130,
+      "word": "第一次见比头还大的石榴",
+      "onboard_time": 1695389556,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 206238,
@@ -1731,6 +1803,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 198651,
+      "num": 198651,
+      "word": "长春亚泰vs北京国安",
+      "onboard_time": 1695391658,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198284,
       "num": 198284,
       "word": "法考客观题",
@@ -1777,14 +1857,6 @@
       "onboard_time": 1695376595,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193941,
-      "num": 193941,
-      "word": "第一次见比头还大的石榴",
-      "onboard_time": 1695389556,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 193241,
@@ -1969,6 +2041,14 @@
       "onboard_time": 1695387996,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179545,
+      "num": 179545,
+      "word": "异人之下导演大结局发文",
+      "onboard_time": 1695391415,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 179105,
@@ -2235,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150910,
+      "num": 150910,
+      "word": "种地吧少年第一次过丰收节",
+      "onboard_time": 1695389739,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149953,
       "num": 149953,
       "word": "披荆斩棘的哥哥们集体跳甜妹舞",
@@ -2267,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148452,
+      "num": 148452,
+      "word": "GAI发新歌了",
+      "onboard_time": 1695390757,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148306,
       "num": 148306,
       "word": "经常请喝饮料的幂姐",
@@ -2291,20 +2387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147191,
+      "num": 147191,
+      "word": "周迅感冒嗓音被唐老鸭夺舍",
+      "onboard_time": 1695389380,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145809,
       "num": 132746,
       "word": "原来拜财神有专门的姿势",
       "onboard_time": 1695338670,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145223,
-      "num": 145223,
-      "word": "吴磊在马背上下腰躺倒",
-      "onboard_time": 1695389495,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 144210,
@@ -2353,6 +2449,14 @@
       "onboard_time": 1695353614,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137886,
+      "num": 360084,
+      "word": "崩坏3第二部首曝",
+      "onboard_time": 1695387996,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 137584,
@@ -2427,6 +2531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127315,
+      "num": 127315,
+      "word": "巴黎奥运会女排资格赛",
+      "onboard_time": 1695392077,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126987,
       "num": 204680,
       "word": "梁朝伟治好了我的社交焦虑",
@@ -2465,6 +2577,14 @@
       "onboard_time": 1695304961,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122755,
+      "num": 122755,
+      "word": "龙宽九段合体",
+      "onboard_time": 1695390157,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 121779,
@@ -2563,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104243,
+      "num": 1269030,
+      "word": "被亚运会的气氛燃到了",
+      "onboard_time": 1695389978,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103282,
       "num": 204647,
       "word": "国足亚运队4比0缅甸",
@@ -2601,14 +2729,6 @@
       "onboard_time": 1695306036,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91964,
-      "num": 360084,
-      "word": "崩坏3第二部首曝",
-      "onboard_time": 1695387996,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 90247,
@@ -2745,6 +2865,14 @@
       "onboard_time": 1695373233,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 66616,
+      "num": 473026,
+      "word": "Gucci大秀",
+      "onboard_time": 1695391235,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 64761,
