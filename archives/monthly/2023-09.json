@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695363758213,
+  "endTime": 1695364533216,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -4899,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234696,
+      "num": 1234696,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231262,
       "num": 515784,
       "word": "邓为 我不信了",
@@ -5289,14 +5297,6 @@
       "onboard_time": 1693910198,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1174133,
-      "num": 1174133,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172742,
@@ -12267,6 +12267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 644447,
+      "num": 644447,
+      "word": "张远俞灏明王栎鑫上不了春晚的原因",
+      "onboard_time": 1695361413,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643714,
       "num": 643714,
       "word": "老外觉得印个中文就挺潮的",
@@ -13121,14 +13129,6 @@
       "onboard_time": 1694616343,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 611889,
-      "num": 611889,
-      "word": "张远俞灏明王栎鑫上不了春晚的原因",
-      "onboard_time": 1695361413,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 611506,
@@ -19403,6 +19403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446990,
+      "num": 446990,
+      "word": "LOL中韩可能在半决赛交手",
+      "onboard_time": 1695362793,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 446315,
       "num": 446315,
       "word": "长沙一小学男教师打伤学生头骨",
@@ -19833,6 +19841,14 @@
       "onboard_time": 1695110257,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436715,
+      "num": 381572,
+      "word": "蔡依林看熊猫像我们挤演唱会",
+      "onboard_time": 1695359617,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 436624,
@@ -20281,14 +20297,6 @@
       "onboard_time": 1694929533,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427989,
-      "num": 381572,
-      "word": "蔡依林看熊猫像我们挤演唱会",
-      "onboard_time": 1695359617,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 427832,
@@ -23859,14 +23867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 363455,
-      "num": 363455,
-      "word": "LOL中韩可能在半决赛交手",
-      "onboard_time": 1695362793,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 363361,
       "num": 363361,
       "word": "2024爱奇艺青春片单",
@@ -24427,6 +24427,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 353649,
+      "num": 353649,
+      "word": "黄景瑜张凌赫张婧仪架一排",
+      "onboard_time": 1695360992,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353166,
       "num": 353166,
       "word": "工作后要不要用两个手机",
@@ -24819,6 +24827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347057,
+      "num": 347057,
+      "word": "五条悟被封印",
+      "onboard_time": 1695360697,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 346986,
       "num": 346986,
       "word": "白猫直播间的主播是一只白猫",
@@ -24865,14 +24881,6 @@
       "onboard_time": 1694774193,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 345767,
-      "num": 345767,
-      "word": "五条悟被封印",
-      "onboard_time": 1695360697,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 345611,
@@ -25201,14 +25209,6 @@
       "onboard_time": 1693560100,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340543,
-      "num": 340543,
-      "word": "黄景瑜张凌赫张婧仪架一排",
-      "onboard_time": 1695360992,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 340468,
@@ -29641,6 +29641,14 @@
       "onboard_time": 1695181717,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287805,
+      "num": 287805,
+      "word": "苹果称iPhone15Pro变色可恢复",
+      "onboard_time": 1695362675,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 287788,
@@ -35827,14 +35835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229416,
-      "num": 229416,
-      "word": "苹果称iPhone15Pro变色可恢复",
-      "onboard_time": 1695362675,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 229336,
       "num": 229336,
       "word": "外卖小哥爬泰山送外卖一趟500元",
@@ -35889,6 +35889,14 @@
       "onboard_time": 1694262216,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228874,
+      "num": 228874,
+      "word": "刘诗诗秋日林间大片",
+      "onboard_time": 1695363932,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228823,
@@ -36561,6 +36569,14 @@
       "onboard_time": 1695146298,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224052,
+      "num": 224052,
+      "word": "帮帮我肯德基爷爷",
+      "onboard_time": 1695362733,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 223842,
@@ -41131,6 +41147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198284,
+      "num": 198284,
+      "word": "法考客观题",
+      "onboard_time": 1695363392,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198279,
       "num": 198279,
       "word": "博士生汪顺报到",
@@ -42329,6 +42353,14 @@
       "onboard_time": 1694150137,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192960,
+      "num": 192960,
+      "word": "张柏芝把银河穿在身上",
+      "onboard_time": 1695362493,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192911,
@@ -44211,14 +44243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184468,
-      "num": 184468,
-      "word": "张柏芝把银河穿在身上",
-      "onboard_time": 1695362493,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 184467,
       "num": 184467,
       "word": "RIIZE空降成绩",
@@ -44233,14 +44257,6 @@
       "onboard_time": 1694352520,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184439,
-      "num": 184439,
-      "word": "法考客观题",
-      "onboard_time": 1695363392,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 184411,
@@ -45851,14 +45867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174635,
-      "num": 174635,
-      "word": "帮帮我肯德基爷爷",
-      "onboard_time": 1695362733,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174539,
       "num": 174539,
       "word": "宋轶哎呀好身材5路透",
@@ -46689,6 +46697,14 @@
       "onboard_time": 1694680957,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 168595,
+      "num": 168595,
+      "word": "买到了放不软的猕猴桃",
+      "onboard_time": 1695364231,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 168522,
@@ -49995,6 +50011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143602,
+      "num": 143602,
+      "word": "丁仲礼院士预言成真",
+      "onboard_time": 1695363691,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 143566,
       "num": 143566,
       "word": "仙策 我看谁敢把我p掉换成自己",
@@ -50691,6 +50715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137323,
+      "num": 137323,
+      "word": "假如甄嬛是网红来演",
+      "onboard_time": 1695364172,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137303,
       "num": 137303,
       "word": "73岁大爷带脑梗老伴10年9次自驾进藏",
@@ -50849,6 +50881,14 @@
       "onboard_time": 1694865637,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 135774,
+      "num": 135774,
+      "word": "张栋梁从鬼脚梁变成鸡脚梁了",
+      "onboard_time": 1695364474,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135764,
@@ -51265,6 +51305,14 @@
       "onboard_time": 1694087857,
       "rank": 44,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 130988,
+      "num": 130988,
+      "word": "时代少年团为贺峻霖新综艺打call",
+      "onboard_time": 1695360876,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 130821,
@@ -52243,14 +52291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116278,
-      "num": 116278,
-      "word": "时代少年团为贺峻霖新综艺打call",
-      "onboard_time": 1695360876,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116175,
       "num": 116175,
       "word": "刘亦菲霍建华新剧对戏路透",
@@ -53201,14 +53241,6 @@
       "onboard_time": 1693586371,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95688,
-      "num": 95688,
-      "word": "丁仲礼院士预言成真",
-      "onboard_time": 1695363691,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 95395,
@@ -56875,7 +56907,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3886,
+      "raw_hot": 4389,
       "num": 903201,
       "word": "乌镇峰会十年寄语",
       "onboard_time": 1695300036,

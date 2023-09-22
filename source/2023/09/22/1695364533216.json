@@ -1,0 +1,410 @@
+{
+  "runTime": 1695364533216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234696,
+        "num": 1234696,
+        "word": "茶颜悦色回应点餐方式像智商税",
+        "onboard_time": 1695356919,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644447,
+        "num": 644447,
+        "word": "张远俞灏明王栎鑫上不了春晚的原因",
+        "onboard_time": 1695361413,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4389,
+        "num": 577132,
+        "word": "乌镇峰会十年寄语",
+        "onboard_time": 1695300036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570757,
+        "num": 570757,
+        "word": "她被困在考研考编里的五年",
+        "onboard_time": 1695308980,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526033,
+        "num": 526033,
+        "word": "12306回应强制买长乘短",
+        "onboard_time": 1695350732,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492481,
+        "num": 492481,
+        "word": "儿子监狱服刑母亲骗领国家工资41万",
+        "onboard_time": 1695348753,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446990,
+        "num": 446990,
+        "word": "LOL中韩可能在半决赛交手",
+        "onboard_time": 1695362793,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 391341,
+        "num": 391341,
+        "word": "约两成考生选择逆向考研",
+        "onboard_time": 1695353314,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 353649,
+        "num": 353649,
+        "word": "黄景瑜张凌赫张婧仪架一排",
+        "onboard_time": 1695360992,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171279,
+        "num": 352560,
+        "word": "丫丫小毯子里找苹果",
+        "onboard_time": 1695348392,
+        "rank": 9,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 1147955,
+        "num": 352477,
+        "word": "女教师举报遭教授性侵双方发声",
+        "onboard_time": 1695360934,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436715,
+        "num": 351264,
+        "word": "蔡依林看熊猫像我们挤演唱会",
+        "onboard_time": 1695359617,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118792,
+        "num": 349444,
+        "word": "警犬找回99岁老人被奖一盆鸡腿",
+        "onboard_time": 1695346714,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86086,
+        "num": 348491,
+        "word": "超1400万部老年机被木马控制自动花钱",
+        "onboard_time": 1695343295,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56168,
+        "num": 347842,
+        "word": "本周日考研预报名开始",
+        "onboard_time": 1695353375,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 347057,
+        "num": 347057,
+        "word": "五条悟被封印",
+        "onboard_time": 1695360697,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 313588,
+        "num": 313588,
+        "word": "梁靖崑11比0",
+        "onboard_time": 1695360876,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310364,
+        "num": 310364,
+        "word": "亚运会电竞项目抽签",
+        "onboard_time": 1695360153,
+        "rank": 17,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 287805,
+        "num": 287805,
+        "word": "苹果称iPhone15Pro变色可恢复",
+        "onboard_time": 1695362675,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287254,
+        "num": 287254,
+        "word": "张拿铁因东北口音被汪汪队婉拒",
+        "onboard_time": 1695357939,
+        "rank": 19,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 333426,
+        "num": 285467,
+        "word": "爱吃猕猴桃的人都沉默了",
+        "onboard_time": 1695361054,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306810,
+        "num": 284915,
+        "word": "体制内开会为什么不喝奶茶",
+        "onboard_time": 1695353735,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281565,
+        "num": 281565,
+        "word": "杨幂晒关雪杀青照",
+        "onboard_time": 1695358238,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251167,
+        "num": 251167,
+        "word": "张杰9年前的一个ID",
+        "onboard_time": 1695358478,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231324,
+        "num": 231324,
+        "word": "iPhone15和Plus破发",
+        "onboard_time": 1695351754,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228874,
+        "num": 228874,
+        "word": "刘诗诗秋日林间大片",
+        "onboard_time": 1695363932,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224052,
+        "num": 224052,
+        "word": "帮帮我肯德基爷爷",
+        "onboard_time": 1695362733,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223386,
+        "num": 223386,
+        "word": "他从火光中走来vs我的人间烟火",
+        "onboard_time": 1695355295,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221772,
+        "num": 221772,
+        "word": "JYP美国女团出道",
+        "onboard_time": 1695359495,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210998,
+        "num": 210998,
+        "word": "沪上阿姨 一诺",
+        "onboard_time": 1695349953,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205937,
+        "num": 205937,
+        "word": "研究发现人会在34岁断崖式衰老",
+        "onboard_time": 1695354572,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 198284,
+        "num": 198284,
+        "word": "法考客观题",
+        "onboard_time": 1695363392,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198130,
+        "num": 198130,
+        "word": "凤凰传奇谢谢你",
+        "onboard_time": 1695361954,
+        "rank": 32,
+        "category": "知识科普,艺人"
+      },
+      {
+        "raw_hot": 192960,
+        "num": 192960,
+        "word": "张柏芝把银河穿在身上",
+        "onboard_time": 1695362493,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188418,
+        "num": 188418,
+        "word": "iPhone15订单排到冬天",
+        "onboard_time": 1695356979,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168595,
+        "num": 168595,
+        "word": "买到了放不软的猕猴桃",
+        "onboard_time": 1695364231,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164204,
+        "num": 164204,
+        "word": "辞职后家里的猫吐了",
+        "onboard_time": 1695349533,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148394,
+        "num": 148394,
+        "word": "云之羽豆瓣开分6.0",
+        "onboard_time": 1695361831,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146290,
+        "num": 146290,
+        "word": "研究员石磊被查证是间谍",
+        "onboard_time": 1695359495,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143602,
+        "num": 143602,
+        "word": "丁仲礼院士预言成真",
+        "onboard_time": 1695363691,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 137323,
+        "num": 137323,
+        "word": "假如甄嬛是网红来演",
+        "onboard_time": 1695364172,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135774,
+        "num": 135774,
+        "word": "张栋梁从鬼脚梁变成鸡脚梁了",
+        "onboard_time": 1695364474,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133706,
+        "num": 133706,
+        "word": "披荆斩棘",
+        "onboard_time": 1695359794,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130988,
+        "num": 130988,
+        "word": "时代少年团为贺峻霖新综艺打call",
+        "onboard_time": 1695360876,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122915,
+        "num": 122915,
+        "word": "逆水寒",
+        "onboard_time": 1695359556,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122449,
+        "num": 122449,
+        "word": "这外卖我可不敢放门口",
+        "onboard_time": 1695355174,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111945,
+        "num": 111945,
+        "word": "薛之谦滁州",
+        "onboard_time": 1695343957,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108385,
+        "num": 108385,
+        "word": "卢昱晓写给郭敬明的话",
+        "onboard_time": 1695358835,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103231,
+        "num": 103231,
+        "word": "何运晨加盟令人心动的offer5",
+        "onboard_time": 1695357637,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95155,
+        "num": 100759,
+        "word": "一念关山滤镜",
+        "onboard_time": 1695357880,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在浙江考察调研#"
+    }
+  }
+}

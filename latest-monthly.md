@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 14:22:38
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/22 14:35:33
 </p>
 </blockquote>
 <p>
@@ -3687,6 +3687,12 @@ boss直聘崩了（热度：1252566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23" target="weibo">
+茶颜悦色回应点餐方式像智商税（热度：1234696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%20%E6%88%91%E4%B8%8D%E4%BF%A1%E4%BA%86%23" target="weibo">
 邓为 我不信了（热度：1231262）
 </a>
@@ -3977,12 +3983,6 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B0%91%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%83%BD%E6%8F%90%E5%87%BA%E4%B8%80%E7%93%B6%E8%8C%85%E5%8F%B0%23" target="weibo">
 多少杯酱香拿铁能提出一瓶茅台（热度：1174886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23" target="weibo">
-茶颜悦色回应点餐方式像智商税（热度：1174133）
 </a>
 </li>
 

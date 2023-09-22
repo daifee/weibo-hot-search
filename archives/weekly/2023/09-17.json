@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695363758213,
+  "endTime": 1695364533216,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234696,
+      "num": 1234696,
+      "word": "茶颜悦色回应点餐方式像智商税",
+      "onboard_time": 1695356919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231174,
       "num": 1231174,
       "word": "第一次见男主纯情到接吻噘嘴的",
@@ -1152,14 +1160,6 @@
       "word": "女顾客被优衣库工作人员掐脖子拖回收银台",
       "onboard_time": 1695114280,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1174133,
-      "num": 1174133,
-      "word": "茶颜悦色回应点餐方式像智商税",
-      "onboard_time": 1695356919,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644447,
+      "num": 644447,
+      "word": "张远俞灏明王栎鑫上不了春晚的原因",
+      "onboard_time": 1695361413,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643714,
       "num": 643714,
       "word": "老外觉得印个中文就挺潮的",
@@ -3169,14 +3177,6 @@
       "onboard_time": 1695013603,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 611889,
-      "num": 611889,
-      "word": "张远俞灏明王栎鑫上不了春晚的原因",
-      "onboard_time": 1695361413,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 610492,
@@ -4723,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446990,
+      "num": 446990,
+      "word": "LOL中韩可能在半决赛交手",
+      "onboard_time": 1695362793,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 444528,
       "num": 444528,
       "word": "卢昱晓新人美时期",
@@ -4827,6 +4835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436715,
+      "num": 381572,
+      "word": "蔡依林看熊猫像我们挤演唱会",
+      "onboard_time": 1695359617,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434469,
       "num": 434469,
       "word": "奥本海默现实比电影更可怕",
@@ -4913,14 +4929,6 @@
       "onboard_time": 1695267036,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427989,
-      "num": 381572,
-      "word": "蔡依林看熊猫像我们挤演唱会",
-      "onboard_time": 1695359617,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 427198,
@@ -5979,14 +5987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363455,
-      "num": 363455,
-      "word": "LOL中韩可能在半决赛交手",
-      "onboard_time": 1695362793,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 363361,
       "num": 363361,
       "word": "2024爱奇艺青春片单",
@@ -6131,6 +6131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 353649,
+      "num": 353649,
+      "word": "黄景瑜张凌赫张婧仪架一排",
+      "onboard_time": 1695360992,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353166,
       "num": 353166,
       "word": "工作后要不要用两个手机",
@@ -6211,20 +6219,20 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 347057,
+      "num": 347057,
+      "word": "五条悟被封印",
+      "onboard_time": 1695360697,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 346751,
       "num": 346751,
       "word": "感觉大家都不管丞磊叔叔死活了",
       "onboard_time": 1695205958,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345767,
-      "num": 345767,
-      "word": "五条悟被封印",
-      "onboard_time": 1695360697,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 345596,
@@ -6368,14 +6376,6 @@
       "word": "王一博新剧造型梦回叶秘",
       "onboard_time": 1695293136,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 340543,
-      "num": 340543,
-      "word": "黄景瑜张凌赫张婧仪架一排",
-      "onboard_time": 1695360992,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -7441,6 +7441,14 @@
       "onboard_time": 1695181717,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287805,
+      "num": 287805,
+      "word": "苹果称iPhone15Pro变色可恢复",
+      "onboard_time": 1695362675,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 287788,
@@ -9115,20 +9123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229416,
-      "num": 229416,
-      "word": "苹果称iPhone15Pro变色可恢复",
-      "onboard_time": 1695362675,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 228948,
       "num": 228948,
       "word": "成毅前一秒深情下一秒幽默",
       "onboard_time": 1694909253,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228874,
+      "num": 228874,
+      "word": "刘诗诗秋日林间大片",
+      "onboard_time": 1695363932,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228681,
@@ -9385,6 +9393,14 @@
       "onboard_time": 1695146298,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224052,
+      "num": 224052,
+      "word": "帮帮我肯德基爷爷",
+      "onboard_time": 1695362733,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 223738,
@@ -10595,6 +10611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198284,
+      "num": 198284,
+      "word": "法考客观题",
+      "onboard_time": 1695363392,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198228,
       "num": 198228,
       "word": "菲律宾机场安检员偷中国乘客钱财",
@@ -10889,6 +10913,14 @@
       "onboard_time": 1695094234,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192960,
+      "num": 192960,
+      "word": "张柏芝把银河穿在身上",
+      "onboard_time": 1695362493,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192747,
@@ -11395,22 +11427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 184468,
-      "num": 184468,
-      "word": "张柏芝把银河穿在身上",
-      "onboard_time": 1695362493,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 184439,
-      "num": 184439,
-      "word": "法考客观题",
-      "onboard_time": 1695363392,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 184051,
       "num": 184051,
       "word": "亚运竞荣耀",
@@ -11891,14 +11907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174635,
-      "num": 174635,
-      "word": "帮帮我肯德基爷爷",
-      "onboard_time": 1695362733,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174022,
       "num": 174022,
       "word": "于和伟郭麒麟新片演父子",
@@ -12169,6 +12177,14 @@
       "onboard_time": 1695361831,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168595,
+      "num": 168595,
+      "word": "买到了放不软的猕猴桃",
+      "onboard_time": 1695364231,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 168356,
@@ -13075,6 +13091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143602,
+      "num": 143602,
+      "word": "丁仲礼院士预言成真",
+      "onboard_time": 1695363691,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 143405,
       "num": 143405,
       "word": "奥特曼带着梅西来看薛之谦",
@@ -13299,6 +13323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137323,
+      "num": 137323,
+      "word": "假如甄嬛是网红来演",
+      "onboard_time": 1695364172,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137303,
       "num": 137303,
       "word": "73岁大爷带脑梗老伴10年9次自驾进藏",
@@ -13337,6 +13369,14 @@
       "onboard_time": 1695350012,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135774,
+      "num": 135774,
+      "word": "张栋梁从鬼脚梁变成鸡脚梁了",
+      "onboard_time": 1695364474,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135024,
@@ -13433,6 +13473,14 @@
       "onboard_time": 1695117997,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130988,
+      "num": 130988,
+      "word": "时代少年团为贺峻霖新综艺打call",
+      "onboard_time": 1695360876,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 130692,
@@ -13715,14 +13763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116278,
-      "num": 116278,
-      "word": "时代少年团为贺峻霖新综艺打call",
-      "onboard_time": 1695360876,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114914,
       "num": 114914,
       "word": "课间10分钟",
@@ -13897,14 +13937,6 @@
       "onboard_time": 1695159253,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95688,
-      "num": 95688,
-      "word": "丁仲礼院士预言成真",
-      "onboard_time": 1695363691,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 95395,
@@ -14939,7 +14971,7 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 3886,
+      "raw_hot": 4389,
       "num": 903201,
       "word": "乌镇峰会十年寄语",
       "onboard_time": 1695300036,
