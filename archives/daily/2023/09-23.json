@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695453255363,
+  "endTime": 1695454440694,
   "band_list": [
     {
       "raw_hot": 2447912,
@@ -179,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 622660,
+      "num": 622660,
+      "word": "男子背几十杯冰柠檬水到沙漠山顶卖",
+      "onboard_time": 1695448709,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621879,
       "num": 338186,
       "word": "未婚女子夜跑被狗咬伤隐私部位",
@@ -195,20 +203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 594074,
-      "num": 594074,
-      "word": "男子背几十杯冰柠檬水到沙漠山顶卖",
-      "onboard_time": 1695448709,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563065,
-      "num": 563065,
+      "raw_hot": 595014,
+      "num": 595014,
       "word": "朱珠对着费翔说商务殷语",
       "onboard_time": 1695451410,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 570940,
+      "num": 570940,
+      "word": "把大学生活过成了高中",
+      "onboard_time": 1695452672,
+      "rank": 27,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 550245,
@@ -363,12 +371,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 418963,
+      "num": 418963,
+      "word": "Amber说我一直觉得我是女生",
+      "onboard_time": 1695451352,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412758,
       "num": 412758,
       "word": "继承者们当年的视觉盛宴",
       "onboard_time": 1695434254,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412004,
+      "num": 412004,
+      "word": "SEVENTEEN新预告用了长城",
+      "onboard_time": 1695453690,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 409010,
@@ -427,14 +451,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 377018,
-      "num": 377018,
-      "word": "Amber说我一直觉得我是女生",
-      "onboard_time": 1695451352,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369400,
       "num": 369400,
       "word": "蜜雪冰城又出新品了",
@@ -489,6 +505,14 @@
       "onboard_time": 1695391056,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 347593,
+      "num": 347593,
+      "word": "来姨妈前的8个征兆",
+      "onboard_time": 1695453934,
+      "rank": 15,
+      "category": "知识科普"
     },
     {
       "raw_hot": 344469,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302649,
+      "num": 370360,
+      "word": "杭州亚运会主火炬点燃方式",
+      "onboard_time": 1695451111,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 301332,
       "num": 246558,
       "word": "陈漫拍的龚俊",
@@ -585,14 +617,6 @@
       "onboard_time": 1695449553,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299998,
-      "num": 370360,
-      "word": "杭州亚运会主火炬点燃方式",
-      "onboard_time": 1695451111,
-      "rank": 12,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 297917,
@@ -771,12 +795,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 239115,
+      "num": 239115,
+      "word": "亚洲人民都来感受烟雨江南了",
+      "onboard_time": 1695453091,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236658,
       "num": 236658,
       "word": "吕彦良Blue",
       "onboard_time": 1695439773,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231575,
+      "num": 231575,
+      "word": "张婧仪叫黄景瑜温柔一点",
+      "onboard_time": 1695450690,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 231476,
@@ -817,14 +857,6 @@
       "onboard_time": 1695433412,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218163,
-      "num": 218163,
-      "word": "张婧仪叫黄景瑜温柔一点",
-      "onboard_time": 1695450690,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 216067,
@@ -873,14 +905,6 @@
       "onboard_time": 1695438153,
       "rank": 30,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 211140,
-      "num": 211140,
-      "word": "把大学生活过成了高中",
-      "onboard_time": 1695452672,
-      "rank": 27,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 208462,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1695426630,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 189193,
+      "num": 189193,
+      "word": "国产剧天花板级的渣男",
+      "onboard_time": 1695453934,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187845,
@@ -1243,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158733,
+      "num": 158733,
+      "word": "吴昕吃海肠捞饭",
+      "onboard_time": 1695452851,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158488,
       "num": 158488,
       "word": "夜色尚浅有自己的产粮大佬",
@@ -1281,14 +1321,6 @@
       "onboard_time": 1695427533,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148092,
-      "num": 148092,
-      "word": "吴昕吃海肠捞饭",
-      "onboard_time": 1695452851,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 146830,
@@ -1360,14 +1392,6 @@
       "word": "女排",
       "onboard_time": 1695432214,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 137863,
-      "num": 137863,
-      "word": "亚洲人民都来感受烟雨江南了",
-      "onboard_time": 1695453091,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -1523,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114482,
+      "num": 114482,
+      "word": "白鹿的四部不同类型待播剧",
+      "onboard_time": 1695454291,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114369,
       "num": 114369,
       "word": "计算机二级",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1695384992,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111083,
+      "num": 111083,
+      "word": "微博音乐盛典好多人啊",
+      "onboard_time": 1695454353,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 107171,
@@ -1683,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71534,
+      "num": 347681,
+      "word": "男生在公园表演花式单杠看呆众人",
+      "onboard_time": 1695453452,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70666,
       "num": 499930,
       "word": "杨紫琼状态",
@@ -1723,6 +1771,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 57487,
+      "num": 980531,
+      "word": "揭秘杭州亚运会开幕式亮点",
+      "onboard_time": 1695438932,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 57429,
       "num": 57429,
       "word": "大叔第3次考科目二合格彻底放飞",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1695434434,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45156,
-      "num": 980531,
-      "word": "揭秘杭州亚运会开幕式亮点",
-      "onboard_time": 1695438932,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 44754,
