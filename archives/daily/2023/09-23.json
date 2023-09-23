@@ -1,13 +1,21 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695473091768,
+  "endTime": 1695475050537,
   "band_list": [
     {
-      "raw_hot": 7166484,
-      "num": 8292226,
+      "raw_hot": 9785149,
+      "num": 9785149,
       "word": "亚运开幕式",
       "onboard_time": 1695469652,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2957056,
+      "num": 515280,
+      "word": "中国台北出场欢呼声响彻全场",
+      "onboard_time": 1695474034,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2162011,
-      "num": 347643,
+      "num": 467946,
       "word": "孟美岐坦言自己2年没有工作",
       "onboard_time": 1695465035,
       "rank": 31,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1895380,
+      "num": 1895380,
+      "word": "霍启刚笑得好开心",
+      "onboard_time": 1695472178,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1850986,
       "num": 1850986,
       "word": "李雪琴内耗好严重",
@@ -91,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1502072,
+      "num": 513145,
+      "word": "全场欢呼让巴基斯坦选手震惊了",
+      "onboard_time": 1695473861,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1451426,
       "num": 434066,
       "word": "台湾的卫生巾真的长这样吗",
       "onboard_time": 1695394776,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1435511,
+      "num": 1435511,
+      "word": "中国代表团",
+      "onboard_time": 1695473621,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1414197,
@@ -139,28 +171,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1175911,
+      "num": 1175911,
+      "word": "开幕式五星红旗入场",
+      "onboard_time": 1695471215,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1161151,
       "num": 448079,
       "word": "陈飞宇的食量",
       "onboard_time": 1695461972,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1134288,
-      "num": 1134288,
-      "word": "霍启刚笑得好开心",
-      "onboard_time": 1695472178,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1116897,
-      "num": 1116897,
-      "word": "开幕式五星红旗入场",
-      "onboard_time": 1695471215,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1052385,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 1047288,
-      "num": 344599,
+      "num": 484129,
       "word": "最近的马思纯",
       "onboard_time": 1695467671,
       "rank": 11,
@@ -211,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897815,
+      "num": 501854,
+      "word": "中国香港代表团入场全场欢呼",
+      "onboard_time": 1695473978,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 871162,
       "num": 871162,
       "word": "女生称因父母把年龄报大4岁影响就业",
       "onboard_time": 1695447633,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 840528,
+      "num": 499695,
+      "word": "陆川审美",
+      "onboard_time": 1695472599,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 808448,
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 804858,
-      "num": 343235,
+      "num": 391487,
       "word": "月薪一万能有多难",
       "onboard_time": 1695461552,
       "rank": 40,
@@ -275,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728453,
+      "num": 728453,
+      "word": "我们的亚细亚",
+      "onboard_time": 1695473317,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 693886,
       "num": 693886,
       "word": "迪丽热巴去了沙特音乐节",
@@ -299,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661801,
+      "num": 480513,
+      "word": "亚运会开幕式第一个显眼包出现了",
+      "onboard_time": 1695471634,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 660285,
       "num": 289284,
       "word": "把学历改成高中后收到几十个面试",
@@ -307,8 +363,16 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 652597,
+      "num": 475206,
+      "word": "中国女排vs多米尼加女排",
+      "onboard_time": 1695469832,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 634354,
-      "num": 269550,
+      "num": 419307,
       "word": "卢昱晓发的夜色尚浅合照",
       "onboard_time": 1695470254,
       "rank": 12,
@@ -355,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 585650,
+      "num": 465065,
+      "word": "Irene因健康原因不参加演唱会",
+      "onboard_time": 1695474409,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 582737,
       "num": 426702,
       "word": "苹果客服回应首批iPhone15品控问题",
@@ -395,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543265,
+      "num": 454705,
+      "word": "杨紫吴彦姝合照",
+      "onboard_time": 1695470915,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539356,
       "num": 539356,
       "word": "承欢记首发剧照",
@@ -409,14 +489,6 @@
       "onboard_time": 1695445711,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537830,
-      "num": 265831,
-      "word": "杨紫吴彦姝合照",
-      "onboard_time": 1695470915,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 534642,
@@ -440,6 +512,14 @@
       "word": "在整个乒乓球界都是相当炸裂的",
       "onboard_time": 1695423863,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 519281,
+      "num": 519281,
+      "word": "亚运开幕式 梅兰竹菊",
+      "onboard_time": 1695472897,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -484,7 +564,7 @@
     },
     {
       "raw_hot": 498456,
-      "num": 341540,
+      "num": 419598,
       "word": "亚运会主火炬21时28分许点燃",
       "onboard_time": 1695459392,
       "rank": 30,
@@ -496,14 +576,6 @@
       "word": "孙杨不相信杭州是美食荒漠",
       "onboard_time": 1695427594,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 491495,
-      "num": 265250,
-      "word": "亚运会开幕式第一个显眼包出现了",
-      "onboard_time": 1695471634,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -579,6 +651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 454685,
+      "num": 454685,
+      "word": "科威特盛装出席",
+      "onboard_time": 1695473379,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 448805,
+      "num": 448805,
+      "word": "范志毅四肢是刚认识吗",
+      "onboard_time": 1695471939,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443694,
       "num": 987223,
       "word": "浙江17岁学生贴瓷砖成全国冠军",
@@ -587,20 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440405,
-      "num": 440405,
-      "word": "中国女排vs多米尼加女排",
-      "onboard_time": 1695469832,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 435741,
       "num": 368333,
       "word": "王子文让围观小孩去写作业",
       "onboard_time": 1695433896,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435425,
+      "num": 435425,
+      "word": "前方记者灵儿",
+      "onboard_time": 1695473018,
+      "rank": 36,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 434942,
@@ -620,7 +708,7 @@
     },
     {
       "raw_hot": 431326,
-      "num": 265725,
+      "num": 330090,
       "word": "SMTOWN演唱会",
       "onboard_time": 1695471157,
       "rank": 17,
@@ -763,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358856,
-      "num": 265575,
-      "word": "陆川审美",
-      "onboard_time": 1695472599,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 357888,
       "num": 357888,
       "word": "12306回应乘客抱娃在座位上大便",
@@ -796,7 +876,7 @@
     },
     {
       "raw_hot": 349777,
-      "num": 264625,
+      "num": 274109,
       "word": "三个质子大团建",
       "onboard_time": 1695468753,
       "rank": 35,
@@ -828,7 +908,7 @@
     },
     {
       "raw_hot": 341701,
-      "num": 264812,
+      "num": 267519,
       "word": "林陆骁南初在一起了",
       "onboard_time": 1695469413,
       "rank": 19,
@@ -875,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333125,
+      "num": 333125,
+      "word": "亚运会王者荣耀选手亮相",
+      "onboard_time": 1695474826,
+      "rank": 27,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 327939,
       "num": 327939,
       "word": "现在杭州每个角落都腌入味儿了",
       "onboard_time": 1695457413,
       "rank": 30,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 327209,
+      "num": 327209,
+      "word": "最美中国红",
+      "onboard_time": 1695472779,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 326104,
@@ -979,14 +1075,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 289331,
-      "num": 264535,
-      "word": "范志毅四肢是刚认识吗",
-      "onboard_time": 1695471939,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289279,
       "num": 289279,
       "word": "有职业空窗期再就业有多难",
@@ -1033,14 +1121,6 @@
       "onboard_time": 1695424825,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274446,
-      "num": 274446,
-      "word": "最美中国红",
-      "onboard_time": 1695472779,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 273191,
@@ -1177,6 +1257,14 @@
       "onboard_time": 1695441033,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255009,
+      "num": 255009,
+      "word": "旗手说抬起的国旗是祖国的一角",
+      "onboard_time": 1695472178,
+      "rank": 37,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 252681,
@@ -1403,14 +1491,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 215862,
-      "num": 215862,
-      "word": "前方记者灵儿",
-      "onboard_time": 1695473018,
-      "rank": 36,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 215436,
       "num": 215436,
       "word": "上大学后得了消息恐惧症",
@@ -1425,6 +1505,14 @@
       "onboard_time": 1695444452,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213881,
+      "num": 213881,
+      "word": "中国队入场音乐一秒换歌唱祖国",
+      "onboard_time": 1695474949,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 213878,
@@ -1505,14 +1593,6 @@
       "onboard_time": 1695431375,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 201052,
-      "num": 201052,
-      "word": "旗手说抬起的国旗是祖国的一角",
-      "onboard_time": 1695472178,
-      "rank": 37,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 200743,
@@ -1624,14 +1704,6 @@
       "word": "詹俊说足球比网球费嗓子",
       "onboard_time": 1695466713,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190890,
-      "num": 190890,
-      "word": "亚运开幕式 梅兰竹菊",
-      "onboard_time": 1695472897,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -2019,6 +2091,14 @@
       "category": "剧集,读书作家"
     },
     {
+      "raw_hot": 140691,
+      "num": 491932,
+      "word": "亚运吉祥物在支付宝里活了",
+      "onboard_time": 1695474034,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 140564,
       "num": 140564,
       "word": "十个勤天丰收节直播",
@@ -2187,6 +2267,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 121782,
+      "num": 2018422,
+      "word": "六大亚运之城联动",
+      "onboard_time": 1695472779,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121596,
       "num": 195865,
       "word": "杨鸣杜锋解说亚运会",
@@ -2339,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101972,
+      "num": 289647,
+      "word": "亚运开幕莲花盛开",
+      "onboard_time": 1695472057,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101587,
       "num": 112816,
       "word": "陈都灵 在横店进入快穿系统",
@@ -2377,14 +2473,6 @@
       "onboard_time": 1695385234,
       "rank": 24,
       "category": "国内要闻,财经"
-    },
-    {
-      "raw_hot": 92667,
-      "num": 265078,
-      "word": "亚运开幕莲花盛开",
-      "onboard_time": 1695472057,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 92264,
@@ -2632,14 +2720,6 @@
       "word": "慕思助力中国游泳",
       "onboard_time": 1695459634,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23577,
-      "num": 1323824,
-      "word": "六大亚运之城联动",
-      "onboard_time": 1695472779,
-      "rank": 2,
       "category": "体育"
     },
     {

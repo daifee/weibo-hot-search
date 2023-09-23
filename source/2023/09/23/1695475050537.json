@@ -1,0 +1,410 @@
+{
+  "runTime": 1695475050537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9785149,
+        "num": 9785149,
+        "word": "亚运开幕式",
+        "onboard_time": 1695469652,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2206431,
+        "num": 2206431,
+        "word": "我爱你中国",
+        "onboard_time": 1695471215,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121782,
+        "num": 2018422,
+        "word": "六大亚运之城联动",
+        "onboard_time": 1695472779,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1895380,
+        "num": 1895380,
+        "word": "霍启刚笑得好开心",
+        "onboard_time": 1695472178,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1435511,
+        "num": 1435511,
+        "word": "中国代表团",
+        "onboard_time": 1695473621,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1418912,
+        "num": 1418912,
+        "word": "孙颖莎将用英语宣誓",
+        "onboard_time": 1695463651,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1175911,
+        "num": 1175911,
+        "word": "开幕式五星红旗入场",
+        "onboard_time": 1695471215,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1014547,
+        "num": 1014547,
+        "word": "看开幕式想哭",
+        "onboard_time": 1695471634,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728453,
+        "num": 728453,
+        "word": "我们的亚细亚",
+        "onboard_time": 1695473317,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519281,
+        "num": 519281,
+        "word": "亚运开幕式 梅兰竹菊",
+        "onboard_time": 1695472897,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2957056,
+        "num": 515280,
+        "word": "中国台北出场欢呼声响彻全场",
+        "onboard_time": 1695474034,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1502072,
+        "num": 513145,
+        "word": "全场欢呼让巴基斯坦选手震惊了",
+        "onboard_time": 1695473861,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 897815,
+        "num": 501854,
+        "word": "中国香港代表团入场全场欢呼",
+        "onboard_time": 1695473978,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840528,
+        "num": 499695,
+        "word": "陆川审美",
+        "onboard_time": 1695472599,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140691,
+        "num": 491932,
+        "word": "亚运吉祥物在支付宝里活了",
+        "onboard_time": 1695474034,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 746043,
+        "num": 484129,
+        "word": "最近的马思纯",
+        "onboard_time": 1695467671,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661801,
+        "num": 480513,
+        "word": "亚运会开幕式第一个显眼包出现了",
+        "onboard_time": 1695471634,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652597,
+        "num": 475206,
+        "word": "中国女排vs多米尼加女排",
+        "onboard_time": 1695469832,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1282545,
+        "num": 467946,
+        "word": "孟美岐坦言自己2年没有工作",
+        "onboard_time": 1695465035,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585650,
+        "num": 465065,
+        "word": "Irene因健康原因不参加演唱会",
+        "onboard_time": 1695474409,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 543265,
+        "num": 454705,
+        "word": "杨紫吴彦姝合照",
+        "onboard_time": 1695470915,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454685,
+        "num": 454685,
+        "word": "科威特盛装出席",
+        "onboard_time": 1695473379,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448805,
+        "num": 448805,
+        "word": "范志毅四肢是刚认识吗",
+        "onboard_time": 1695471939,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435425,
+        "num": 435425,
+        "word": "前方记者灵儿",
+        "onboard_time": 1695473018,
+        "rank": 23,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 419598,
+        "num": 419598,
+        "word": "亚运会主火炬21时28分许点燃",
+        "onboard_time": 1695459392,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419307,
+        "num": 419307,
+        "word": "卢昱晓发的夜色尚浅合照",
+        "onboard_time": 1695470254,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391487,
+        "num": 391487,
+        "word": "月薪一万能有多难",
+        "onboard_time": 1695461552,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333125,
+        "num": 333125,
+        "word": "亚运会王者荣耀选手亮相",
+        "onboard_time": 1695474826,
+        "rank": 27,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 330228,
+        "num": 330228,
+        "word": "樊振东开幕式第二棒火炬手",
+        "onboard_time": 1695461251,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330090,
+        "num": 330090,
+        "word": "SMTOWN演唱会",
+        "onboard_time": 1695471157,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327209,
+        "num": 327209,
+        "word": "最美中国红",
+        "onboard_time": 1695472779,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315439,
+        "num": 315439,
+        "word": "承欢记也信这个玄学了",
+        "onboard_time": 1695467313,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101972,
+        "num": 289647,
+        "word": "亚运开幕莲花盛开",
+        "onboard_time": 1695472057,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274109,
+        "num": 274109,
+        "word": "三个质子大团建",
+        "onboard_time": 1695468753,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267519,
+        "num": 267519,
+        "word": "林陆骁南初在一起了",
+        "onboard_time": 1695469413,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255009,
+        "num": 255009,
+        "word": "旗手说抬起的国旗是祖国的一角",
+        "onboard_time": 1695472178,
+        "rank": 35,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 235499,
+        "num": 235499,
+        "word": "SM让新人坐经济舱",
+        "onboard_time": 1695464735,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230615,
+        "num": 230615,
+        "word": "苏炳添的鞋跟不上他的脚",
+        "onboard_time": 1695464012,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226135,
+        "num": 226135,
+        "word": "敖子逸宣传刘耀文新歌",
+        "onboard_time": 1695466354,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223297,
+        "num": 223297,
+        "word": "文俊辉hi6飞行嘉宾",
+        "onboard_time": 1695469354,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221150,
+        "num": 221150,
+        "word": "校长主任外出考察被曝同间房过夜",
+        "onboard_time": 1695468272,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217334,
+        "num": 217334,
+        "word": "蔡依林成都演唱会",
+        "onboard_time": 1695468393,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213881,
+        "num": 213881,
+        "word": "中国队入场音乐一秒换歌唱祖国",
+        "onboard_time": 1695474949,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206935,
+        "num": 213879,
+        "word": "来姨妈前的8个征兆",
+        "onboard_time": 1695453934,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 199310,
+        "num": 213868,
+        "word": "刘惜君连发12个总会",
+        "onboard_time": 1695471157,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197574,
+        "num": 213850,
+        "word": "承欢记",
+        "onboard_time": 1695464073,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176401,
+        "num": 213845,
+        "word": "SEVENTEEN新预告用了长城",
+        "onboard_time": 1695453690,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170941,
+        "num": 213834,
+        "word": "一见钟情的对象是前男友",
+        "onboard_time": 1695461612,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167992,
+        "num": 213819,
+        "word": "杨幂今天直播状态",
+        "onboard_time": 1695466233,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160275,
+        "num": 213809,
+        "word": "你能接受男朋友问你借钱吗",
+        "onboard_time": 1695458252,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席杭州亚运会开幕式#"
+    }
+  }
+}
