@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695432538287,
+  "endTime": 1695434431261,
   "band_list": [
     {
       "raw_hot": 2330336,
@@ -11,8 +11,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1823432,
-      "num": 1823432,
+      "raw_hot": 1850986,
+      "num": 1850986,
       "word": "李雪琴内耗好严重",
       "onboard_time": 1695429156,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 919561,
+      "num": 919561,
+      "word": "官方通报男子赤身裸体趴在6楼外",
+      "onboard_time": 1695430596,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779168,
       "num": 779168,
       "word": "21岁专科毕业生拒绝当副教授",
@@ -73,14 +81,6 @@
       "onboard_time": 1695393337,
       "rank": 3,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 711046,
-      "num": 466683,
-      "word": "官方通报男子赤身裸体趴在6楼外",
-      "onboard_time": 1695430596,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 666324,
@@ -155,6 +155,14 @@
       "category": "知识科普,运动健身"
     },
     {
+      "raw_hot": 432128,
+      "num": 362119,
+      "word": "王子文让围观小孩去写作业",
+      "onboard_time": 1695433896,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420181,
       "num": 280468,
       "word": "洞洞鞋和勃肯鞋哪个更丑",
@@ -185,6 +193,22 @@
       "onboard_time": 1695425790,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 359721,
+      "num": 359721,
+      "word": "一盒月饼走遍所有人情",
+      "onboard_time": 1695432935,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 357888,
+      "num": 357888,
+      "word": "12306回应乘客抱娃在座位上大便",
+      "onboard_time": 1695431974,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349727,
@@ -225,6 +249,14 @@
       "onboard_time": 1695387876,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321508,
+      "num": 321508,
+      "word": "被俞灏明拒绝的王栎鑫",
+      "onboard_time": 1695433114,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 317133,
@@ -291,6 +323,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267075,
+      "num": 267075,
+      "word": "蔡国庆的初恋故事每次讲都不一样",
+      "onboard_time": 1695432874,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264693,
+      "num": 264693,
+      "word": "异人之下小孩上桌",
+      "onboard_time": 1695431853,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264169,
       "num": 264169,
       "word": "日本东京涩谷中心街发生火灾",
@@ -347,12 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232449,
-      "num": 232449,
-      "word": "12306回应乘客抱娃在座位上大便",
-      "onboard_time": 1695431974,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 231476,
+      "num": 231476,
+      "word": "胡兵兑现工作人员万元奖励承诺",
+      "onboard_time": 1695433354,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 229422,
@@ -369,6 +417,14 @@
       "onboard_time": 1695428312,
       "rank": 27,
       "category": "知识科普,美食"
+    },
+    {
+      "raw_hot": 219827,
+      "num": 219827,
+      "word": "亚运会",
+      "onboard_time": 1695433412,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 206199,
@@ -393,14 +449,6 @@
       "onboard_time": 1695431375,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 200409,
-      "num": 200409,
-      "word": "异人之下小孩上桌",
-      "onboard_time": 1695431853,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 197815,
@@ -459,20 +507,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181588,
+      "num": 181588,
+      "word": "盛阳父子俩承包了我的笑点",
+      "onboard_time": 1695433896,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181185,
+      "num": 427878,
+      "word": "杭州第19届亚运会今日开幕",
+      "onboard_time": 1695424403,
+      "rank": 43,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 181124,
       "num": 245136,
       "word": "98年小伙每天2小时开网店月入5万",
       "onboard_time": 1695365912,
       "rank": 25,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 178012,
-      "num": 427878,
-      "word": "杭州第19届亚运会今日开幕",
-      "onboard_time": 1695424403,
-      "rank": 43,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 177154,
@@ -489,6 +545,14 @@
       "onboard_time": 1695411254,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175093,
+      "num": 175093,
+      "word": "一个月不吃晚饭竟然瘦了10斤",
+      "onboard_time": 1695434315,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 174297,
@@ -553,6 +617,14 @@
       "onboard_time": 1695389556,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 156092,
+      "num": 156092,
+      "word": "关系户承包学校食堂比预制菜更可恨",
+      "onboard_time": 1695433896,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152795,
@@ -697,6 +769,14 @@
       "onboard_time": 1695431853,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120249,
+      "num": 120249,
+      "word": "继承者们当年的视觉盛宴",
+      "onboard_time": 1695434254,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 119008,
@@ -867,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59993,
+      "num": 1572791,
+      "word": "丰收连连看",
+      "onboard_time": 1695430894,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57429,
       "num": 57429,
       "word": "大叔第3次考科目二合格彻底放飞",
@@ -876,19 +964,11 @@
     },
     {
       "raw_hot": 51956,
-      "num": 127308,
+      "num": 247442,
       "word": "幼童街头走失热心大爷当保镖护送",
       "onboard_time": 1695430833,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 47648,
-      "num": 1572791,
-      "word": "丰收连连看",
-      "onboard_time": 1695430894,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38621,
