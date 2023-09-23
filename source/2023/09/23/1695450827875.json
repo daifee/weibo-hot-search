@@ -1,0 +1,410 @@
+{
+  "runTime": 1695450827875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2333299,
+        "num": 2333299,
+        "word": "李在明停止绝食",
+        "onboard_time": 1695446193,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1244210,
+        "num": 1244210,
+        "word": "蔡依林一眼就认出了花花",
+        "onboard_time": 1695444993,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38553,
+        "num": 1082960,
+        "word": "秋分丰收节亚运开幕同一天",
+        "onboard_time": 1695439232,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 925090,
+        "num": 925090,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 758331,
+        "num": 758331,
+        "word": "女生称因父母把年龄报大4岁影响就业",
+        "onboard_time": 1695447633,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 624991,
+        "num": 624991,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 618191,
+        "num": 618191,
+        "word": "张柏芝 顶级骨相",
+        "onboard_time": 1695442891,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480368,
+        "num": 480368,
+        "word": "孟非删好友",
+        "onboard_time": 1695442594,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413548,
+        "num": 413548,
+        "word": "警方回应网传大同小学生霸凌事件",
+        "onboard_time": 1695446493,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392269,
+        "num": 392269,
+        "word": "张雨绮的内搭是一根领带",
+        "onboard_time": 1695430654,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 483577,
+        "num": 390925,
+        "word": "原来香港超市门口还有停狗处",
+        "onboard_time": 1695447931,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388844,
+        "num": 388844,
+        "word": "杨紫许凯承欢记杀青",
+        "onboard_time": 1695448412,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89685,
+        "num": 387123,
+        "word": "杭州第19届亚运会今日开幕",
+        "onboard_time": 1695424403,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 86780,
+        "num": 381938,
+        "word": "小孩高烧抽搐家长求助铁骑开道送医",
+        "onboard_time": 1695443133,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59604,
+        "num": 377797,
+        "word": "亚运遇秋分",
+        "onboard_time": 1695425968,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 538740,
+        "num": 376172,
+        "word": "许家印身家缩水90%",
+        "onboard_time": 1695445711,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373620,
+        "num": 373620,
+        "word": "男子背几十杯冰柠檬水到沙漠山顶卖",
+        "onboard_time": 1695448709,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355204,
+        "num": 355204,
+        "word": "于适忘删文案前缀",
+        "onboard_time": 1695440613,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338280,
+        "num": 338280,
+        "word": "张杰加盟东方卫视中秋晚会",
+        "onboard_time": 1695450329,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315651,
+        "num": 315651,
+        "word": "买周杰伦黄牛票被骗警察霸气喊话",
+        "onboard_time": 1695445473,
+        "rank": 19,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 298714,
+        "num": 298714,
+        "word": "檀健次拍广告第三视角视频",
+        "onboard_time": 1695449553,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294929,
+        "num": 294929,
+        "word": "李雪琴内耗好严重",
+        "onboard_time": 1695429156,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248512,
+        "num": 248512,
+        "word": "继承者们当年的视觉盛宴",
+        "onboard_time": 1695434254,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229794,
+        "num": 229794,
+        "word": "帆帆 云婚礼",
+        "onboard_time": 1695447452,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224699,
+        "num": 224699,
+        "word": "盗版小说里男主身高被压缩了",
+        "onboard_time": 1695443313,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222071,
+        "num": 222071,
+        "word": "张老板是王丽坤",
+        "onboard_time": 1695449972,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197673,
+        "num": 197673,
+        "word": "赵露思外网生图",
+        "onboard_time": 1695434493,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196475,
+        "num": 196475,
+        "word": "苏大法学专业学生起诉上海迪士尼",
+        "onboard_time": 1695448352,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 185623,
+        "num": 185623,
+        "word": "王栎鑫魏哲鸣站中间",
+        "onboard_time": 1695450391,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180908,
+        "num": 180908,
+        "word": "张婧仪叫黄景瑜温柔一点",
+        "onboard_time": 1695450690,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239609,
+        "num": 179445,
+        "word": "网红黄油蟹一只2000元",
+        "onboard_time": 1695449791,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 176821,
+        "num": 176821,
+        "word": "起猛了韩庚魏大勋竟演出了父子感",
+        "onboard_time": 1695445775,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173895,
+        "num": 173895,
+        "word": "伍佰累坏了",
+        "onboard_time": 1695444274,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44754,
+        "num": 171072,
+        "word": "那些手机镜头下的亚运会故事",
+        "onboard_time": 1695446674,
+        "rank": 33,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 170483,
+        "num": 170483,
+        "word": "未婚女子夜跑被狗咬伤隐私部位",
+        "onboard_time": 1695440671,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166639,
+        "num": 166639,
+        "word": "迪丽热巴去了沙特音乐节",
+        "onboard_time": 1695441693,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166072,
+        "num": 166072,
+        "word": "种地吧官微更名",
+        "onboard_time": 1695449791,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159588,
+        "num": 159588,
+        "word": "苹果追加iPhone15ProMax订单",
+        "onboard_time": 1695441634,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157371,
+        "num": 157371,
+        "word": "刘雯 复古俏芭比",
+        "onboard_time": 1695444874,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143649,
+        "num": 143649,
+        "word": "于适走戏眼球被剑戳到",
+        "onboard_time": 1695447992,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142642,
+        "num": 142642,
+        "word": "丁程鑫说娜扎姐我来了",
+        "onboard_time": 1695447513,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140814,
+        "num": 140814,
+        "word": "韩庚插泡面姿势全国统一",
+        "onboard_time": 1695444993,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140054,
+        "num": 140054,
+        "word": "沈梦辰的衣服到底什么颜色",
+        "onboard_time": 1695438033,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138841,
+        "num": 138841,
+        "word": "一个月不吃晚饭竟然瘦了10斤",
+        "onboard_time": 1695434315,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131384,
+        "num": 131384,
+        "word": "封神第一部延长上映至11月19日",
+        "onboard_time": 1695448111,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125268,
+        "num": 125268,
+        "word": "吴磊素颜嘟嘟脸",
+        "onboard_time": 1695446554,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120773,
+        "num": 120773,
+        "word": "李一桐还了魏大勋一箱防晒",
+        "onboard_time": 1695440372,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116727,
+        "num": 116727,
+        "word": "保安被扇耳光后将女子猛摔在地",
+        "onboard_time": 1695442772,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113536,
+        "num": 113536,
+        "word": "上大学后得了消息恐惧症",
+        "onboard_time": 1695446432,
+        "rank": 48,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 110226,
+        "num": 110226,
+        "word": "没点本事还真做不成生意",
+        "onboard_time": 1695449311,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
