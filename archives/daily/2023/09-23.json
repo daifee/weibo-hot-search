@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695434431261,
+  "endTime": 1695435611473,
   "band_list": [
     {
       "raw_hot": 2330336,
@@ -27,8 +27,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1406923,
-      "num": 1406923,
+      "raw_hot": 1414197,
+      "num": 1414197,
       "word": "张雨绮的内搭是一根领带",
       "onboard_time": 1695430654,
       "rank": 12,
@@ -57,6 +57,14 @@
       "onboard_time": 1695430596,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826807,
+      "num": 826807,
+      "word": "赵露思外网生图",
+      "onboard_time": 1695434493,
+      "rank": 5,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 779168,
@@ -99,6 +107,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 587589,
+      "num": 187485,
+      "word": "给戚薇当了一天助理 我心态崩了",
+      "onboard_time": 1695434912,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550245,
       "num": 550245,
       "word": "毛不易 一点皮外伤感谢大家关心",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 516833,
-      "num": 277375,
+      "num": 289802,
       "word": "阿姨从女澡堂扫了一把头发",
       "onboard_time": 1695425365,
       "rank": 30,
@@ -147,6 +163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466867,
+      "num": 466867,
+      "word": "一盒月饼走遍所有人情",
+      "onboard_time": 1695432935,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 435741,
+      "num": 362119,
+      "word": "王子文让围观小孩去写作业",
+      "onboard_time": 1695433896,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434942,
       "num": 434942,
       "word": "熬夜伤身那熬夜健身呢",
@@ -155,20 +187,20 @@
       "category": "知识科普,运动健身"
     },
     {
-      "raw_hot": 432128,
-      "num": 362119,
-      "word": "王子文让围观小孩去写作业",
-      "onboard_time": 1695433896,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 420181,
       "num": 280468,
       "word": "洞洞鞋和勃肯鞋哪个更丑",
       "onboard_time": 1695378872,
       "rank": 15,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 410499,
+      "num": 296623,
+      "word": "一个月不吃晚饭竟然瘦了10斤",
+      "onboard_time": 1695434315,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 388567,
@@ -192,14 +224,6 @@
       "word": "蜜雪冰城又出新品了",
       "onboard_time": 1695425790,
       "rank": 8,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 359721,
-      "num": 359721,
-      "word": "一盒月饼走遍所有人情",
-      "onboard_time": 1695432935,
-      "rank": 15,
       "category": "美食"
     },
     {
@@ -227,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344469,
+      "num": 344469,
+      "word": "被俞灏明拒绝的王栎鑫",
+      "onboard_time": 1695433114,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335188,
       "num": 335188,
       "word": "丁霞 跑不动了",
@@ -249,14 +281,6 @@
       "onboard_time": 1695387876,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321508,
-      "num": 321508,
-      "word": "被俞灏明拒绝的王栎鑫",
-      "onboard_time": 1695433114,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 317133,
@@ -296,6 +320,14 @@
       "word": "黄子诚销号退网",
       "onboard_time": 1695427953,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287256,
+      "num": 287256,
+      "word": "继承者们当年的视觉盛宴",
+      "onboard_time": 1695434254,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -443,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202762,
+      "num": 202762,
+      "word": "关系户承包学校食堂比预制菜更可恨",
+      "onboard_time": 1695433896,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201682,
       "num": 201682,
       "word": "沈梦辰芭比粉看秀造型",
@@ -547,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175093,
-      "num": 175093,
-      "word": "一个月不吃晚饭竟然瘦了10斤",
-      "onboard_time": 1695434315,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174297,
       "num": 174297,
       "word": "晚上两点睡早上10点起算熬夜吗",
@@ -619,14 +651,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 156092,
-      "num": 156092,
-      "word": "关系户承包学校食堂比预制菜更可恨",
-      "onboard_time": 1695433896,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152795,
       "num": 149277,
       "word": "张馨予去看薛之谦演唱会了",
@@ -649,6 +673,14 @@
       "onboard_time": 1695427533,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148479,
+      "num": 148479,
+      "word": "徐睿知侧颜",
+      "onboard_time": 1695435573,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 146830,
@@ -771,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120249,
-      "num": 120249,
-      "word": "继承者们当年的视觉盛宴",
-      "onboard_time": 1695434254,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119008,
       "num": 119008,
       "word": "俄黑海舰队指挥部遭导弹袭击",
@@ -833,6 +857,14 @@
       "onboard_time": 1695381814,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102346,
+      "num": 102346,
+      "word": "我的秋天分你一半",
+      "onboard_time": 1695435573,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101587,
@@ -947,7 +979,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59993,
+      "raw_hot": 64837,
       "num": 1572791,
       "word": "丰收连连看",
       "onboard_time": 1695430894,
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 51956,
-      "num": 247442,
+      "num": 372668,
       "word": "幼童街头走失热心大爷当保镖护送",
       "onboard_time": 1695430833,
       "rank": 46,
@@ -1009,6 +1041,22 @@
       "onboard_time": 1695407058,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 22704,
+      "num": 131725,
+      "word": "Gucci马衔扣",
+      "onboard_time": 1695435213,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 21677,
+      "num": 367755,
+      "word": "饿了么请农民乐队担任秋分时令官",
+      "onboard_time": 1695434434,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16513,

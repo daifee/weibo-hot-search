@@ -1,0 +1,410 @@
+{
+  "runTime": 1695435611473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1790170,
+        "num": 1790170,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1626123,
+        "num": 1626123,
+        "word": "李雪琴内耗好严重",
+        "onboard_time": 1695429156,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64837,
+        "num": 1452750,
+        "word": "丰收连连看",
+        "onboard_time": 1695430894,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414197,
+        "num": 1414197,
+        "word": "张雨绮的内搭是一根领带",
+        "onboard_time": 1695430654,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 881616,
+        "num": 881616,
+        "word": "官方通报男子赤身裸体趴在6楼外",
+        "onboard_time": 1695430596,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826807,
+        "num": 826807,
+        "word": "赵露思外网生图",
+        "onboard_time": 1695434493,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 480396,
+        "num": 480396,
+        "word": "21岁专科毕业生拒绝当副教授",
+        "onboard_time": 1695426989,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 466867,
+        "num": 466867,
+        "word": "一盒月饼走遍所有人情",
+        "onboard_time": 1695432935,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390168,
+        "num": 390168,
+        "word": "毛不易 一点皮外伤感谢大家关心",
+        "onboard_time": 1695430654,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270818,
+        "num": 386958,
+        "word": "亚运遇秋分",
+        "onboard_time": 1695425968,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 916790,
+        "num": 382413,
+        "word": "贪官8年内向女儿转移现金近2千万",
+        "onboard_time": 1695425427,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169640,
+        "num": 380506,
+        "word": "杭州第19届亚运会今日开幕",
+        "onboard_time": 1695424403,
+        "rank": 11,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 62708,
+        "num": 373928,
+        "word": "杭州亚运会先导片",
+        "onboard_time": 1695429213,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45741,
+        "num": 372668,
+        "word": "幼童街头走失热心大爷当保镖护送",
+        "onboard_time": 1695430833,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 21677,
+        "num": 367755,
+        "word": "饿了么请农民乐队担任秋分时令官",
+        "onboard_time": 1695434434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561905,
+        "num": 364899,
+        "word": "台湾的卫生巾真的长这样吗",
+        "onboard_time": 1695394776,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435741,
+        "num": 359665,
+        "word": "王子文让围观小孩去写作业",
+        "onboard_time": 1695433896,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357154,
+        "num": 357154,
+        "word": "为什么小说写到结婚就完结了",
+        "onboard_time": 1695425968,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 344469,
+        "num": 344469,
+        "word": "被俞灏明拒绝的王栎鑫",
+        "onboard_time": 1695433114,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297193,
+        "num": 297193,
+        "word": "12306回应乘客抱娃在座位上大便",
+        "onboard_time": 1695431974,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410499,
+        "num": 296623,
+        "word": "一个月不吃晚饭竟然瘦了10斤",
+        "onboard_time": 1695434315,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289802,
+        "num": 289802,
+        "word": "阿姨从女澡堂扫了一把头发",
+        "onboard_time": 1695425365,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287256,
+        "num": 287256,
+        "word": "继承者们当年的视觉盛宴",
+        "onboard_time": 1695434254,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243527,
+        "num": 243527,
+        "word": "孙杨不相信杭州是美食荒漠",
+        "onboard_time": 1695427594,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232744,
+        "num": 232744,
+        "word": "边缘性行为为什么是边缘的",
+        "onboard_time": 1695384934,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230857,
+        "num": 230857,
+        "word": "中国人为什么越来越胖了",
+        "onboard_time": 1695430415,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202762,
+        "num": 202762,
+        "word": "关系户承包学校食堂比预制菜更可恨",
+        "onboard_time": 1695433896,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198776,
+        "num": 198776,
+        "word": "丈夫失业后沉默包揽家务引妻子心疼",
+        "onboard_time": 1695425790,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188903,
+        "num": 188903,
+        "word": "不敢想象大鹏现在有多积极阳光",
+        "onboard_time": 1695428612,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187526,
+        "num": 187526,
+        "word": "胡兵兑现工作人员万元奖励承诺",
+        "onboard_time": 1695433354,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587589,
+        "num": 187485,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187376,
+        "num": 187376,
+        "word": "时代少年团全员成年",
+        "onboard_time": 1695424825,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183996,
+        "num": 183996,
+        "word": "赵露思穿貂",
+        "onboard_time": 1695427832,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182988,
+        "num": 182988,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174008,
+        "num": 174008,
+        "word": "黄子诚销号退网",
+        "onboard_time": 1695427953,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 167192,
+        "word": "蔡国庆的初恋故事每次讲都不一样",
+        "onboard_time": 1695432874,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165252,
+        "num": 165252,
+        "word": "种地吧",
+        "onboard_time": 1695432093,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163510,
+        "num": 163510,
+        "word": "秋分",
+        "onboard_time": 1695424643,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 159625,
+        "num": 159625,
+        "word": "异人之下小孩上桌",
+        "onboard_time": 1695431853,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158935,
+        "num": 158935,
+        "word": "未来婆婆说给买一千块钱的三金",
+        "onboard_time": 1695391056,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148479,
+        "num": 148479,
+        "word": "徐睿知侧颜",
+        "onboard_time": 1695435573,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140204,
+        "num": 140204,
+        "word": "没想到整个小区都买了活力28",
+        "onboard_time": 1695426149,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22704,
+        "num": 131725,
+        "word": "Gucci马衔扣",
+        "onboard_time": 1695435213,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 131533,
+        "num": 131533,
+        "word": "盛阳父子俩承包了我的笑点",
+        "onboard_time": 1695433896,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130858,
+        "num": 130858,
+        "word": "熬夜伤身那熬夜健身呢",
+        "onboard_time": 1695425306,
+        "rank": 44,
+        "category": "知识科普,运动健身"
+      },
+      {
+        "raw_hot": 129468,
+        "num": 129468,
+        "word": "黄景瑜从宿舍中走来",
+        "onboard_time": 1695432093,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116562,
+        "num": 116562,
+        "word": "成毅禁不住一点撩",
+        "onboard_time": 1695429213,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112955,
+        "num": 112955,
+        "word": "沈梦辰芭比粉看秀造型",
+        "onboard_time": 1695431375,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104176,
+        "num": 104176,
+        "word": "和肖战一起为中国队加油",
+        "onboard_time": 1695426630,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 102346,
+        "num": 102346,
+        "word": "我的秋天分你一半",
+        "onboard_time": 1695435573,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见叙利亚总统#"
+    }
+  }
+}
