@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695494041421,
+  "endTime": 1695496346968,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -57323,6 +57323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93222,
+      "num": 93222,
+      "word": "核酸大王张核子进军预制菜",
+      "onboard_time": 1695494778,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92997,
       "num": 1572791,
       "word": "丰收连连看",
@@ -59035,6 +59043,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 55115,
+      "num": 55115,
+      "word": "巴黎偶遇张凌赫",
+      "onboard_time": 1695492918,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54996,
       "num": 59666,
       "word": "我与华晨宇的十年记忆",
@@ -59521,14 +59537,6 @@
       "onboard_time": 1695294034,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 44150,
-      "num": 47779,
-      "word": "巴黎偶遇张凌赫",
-      "onboard_time": 1695492918,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 43847,
@@ -60729,6 +60737,14 @@
       "onboard_time": 1695407058,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 23253,
+      "num": 34245,
+      "word": "异能",
+      "onboard_time": 1695496157,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 23246,
