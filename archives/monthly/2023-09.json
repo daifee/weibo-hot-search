@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695464165454,
+  "endTime": 1695465228590,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2441,6 +2441,14 @@
       "onboard_time": 1694532461,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1909293,
+      "num": 1909293,
+      "word": "孙颖莎将用英语宣誓",
+      "onboard_time": 1695463651,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1907496,
@@ -5579,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1161151,
+      "num": 448079,
+      "word": "陈飞宇的食量",
+      "onboard_time": 1695461972,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1160981,
       "num": 1160981,
       "word": "蜜雪冰城辟谣与五粮液出联名款饮品",
@@ -8299,14 +8315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 864586,
-      "num": 448079,
-      "word": "陈飞宇的食量",
-      "onboard_time": 1695461972,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 864015,
       "num": 864015,
       "word": "烘焙 我接触过的最大生活骗局",
@@ -9195,6 +9203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 804858,
+      "num": 343235,
+      "word": "月薪一万能有多难",
+      "onboard_time": 1695461552,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 803931,
       "num": 803931,
       "word": "王琳凯 欢迎大家再次来到小鬼的音乐世界",
@@ -9401,14 +9417,6 @@
       "onboard_time": 1693579962,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 794120,
-      "num": 794120,
-      "word": "孙颖莎将用英语宣誓",
-      "onboard_time": 1695463651,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 793120,
@@ -9873,14 +9881,6 @@
       "onboard_time": 1694680775,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766668,
-      "num": 303933,
-      "word": "月薪一万能有多难",
-      "onboard_time": 1695461552,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 766608,
@@ -12232,6 +12232,14 @@
       "word": "南风知我意破万",
       "onboard_time": 1695133605,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 660615,
+      "num": 660615,
+      "word": "承欢记",
+      "onboard_time": 1695464073,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -16065,6 +16073,14 @@
       "onboard_time": 1693533397,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539356,
+      "num": 539356,
+      "word": "承欢记首发剧照",
+      "onboard_time": 1695464373,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 539325,
@@ -22155,6 +22171,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 411954,
+      "num": 341540,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411794,
       "num": 411794,
       "word": "北京执行认房不认贷",
@@ -23313,6 +23337,14 @@
       "onboard_time": 1693560280,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388740,
+      "num": 226984,
+      "word": "SM让新人坐经济舱",
+      "onboard_time": 1695464735,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 388567,
@@ -26379,6 +26411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339644,
+      "num": 339644,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339628,
       "num": 339628,
       "word": "马伯骞问苏醒为什么没去披荆斩棘",
@@ -26425,14 +26465,6 @@
       "onboard_time": 1693886860,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338979,
-      "num": 293727,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 338913,
@@ -26612,7 +26644,7 @@
     },
     {
       "raw_hot": 335865,
-      "num": 293120,
+      "num": 294000,
       "word": "一见钟情的对象是前男友",
       "onboard_time": 1695461612,
       "rank": 23,
@@ -33243,6 +33275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265156,
+      "num": 265156,
+      "word": "动物内脏究竟是大补还是有毒",
+      "onboard_time": 1695464373,
+      "rank": 26,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 265106,
       "num": 265106,
       "word": "Doinb新贯口",
@@ -34761,6 +34801,14 @@
       "onboard_time": 1695361954,
       "rank": 26,
       "category": "知识科普,艺人"
+    },
+    {
+      "raw_hot": 250568,
+      "num": 995036,
+      "word": "常吃的果蔬离不开她们的付出",
+      "onboard_time": 1695461191,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250448,
@@ -38347,14 +38395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223584,
-      "num": 704976,
-      "word": "常吃的果蔬离不开她们的付出",
-      "onboard_time": 1695461191,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223526,
       "num": 223526,
       "word": "95岁爷爷跨省送23岁研究生孙女报到",
@@ -39065,6 +39105,14 @@
       "onboard_time": 1694701839,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 218984,
+      "num": 218984,
+      "word": "孟美岐坦言自己2年没有工作",
+      "onboard_time": 1695465035,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 218788,
@@ -39835,6 +39883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213582,
+      "num": 213582,
+      "word": "罗杰夫一句中文就把弹壳拿捏了",
+      "onboard_time": 1695464673,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213560,
       "num": 213560,
       "word": "舍不得星星今日开机",
@@ -40177,6 +40233,14 @@
       "onboard_time": 1695314127,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211332,
+      "num": 211332,
+      "word": "林双把诈骗公婆送进警局",
+      "onboard_time": 1695464673,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 211253,
@@ -41027,6 +41091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206784,
+      "num": 206784,
+      "word": "Feel Special发行4周年",
+      "onboard_time": 1695464673,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206739,
       "num": 206739,
       "word": "盛阳妈妈远比想象中了解孩子",
@@ -41251,6 +41323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205635,
+      "num": 205635,
+      "word": "从超市感受到反抗真的有用",
+      "onboard_time": 1695464973,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 205587,
       "num": 205587,
       "word": "我们i人社交是这样的啦",
@@ -41265,6 +41345,14 @@
       "onboard_time": 1695261754,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205553,
+      "num": 205553,
+      "word": "王俊凯牛仔套装机场路透",
+      "onboard_time": 1695464612,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205499,
@@ -45411,14 +45499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188882,
-      "num": 188882,
-      "word": "苏炳添的鞋跟不上他的脚",
-      "onboard_time": 1695464012,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188784,
       "num": 188784,
       "word": "台风苏拉风雨影响广州",
@@ -46393,6 +46473,14 @@
       "onboard_time": 1693838140,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184455,
+      "num": 587212,
+      "word": "绍兴父子拿下一项全国唯一",
+      "onboard_time": 1695461134,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184453,
@@ -47753,6 +47841,14 @@
       "onboard_time": 1694225553,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176821,
+      "num": 176821,
+      "word": "关晓彤清唱微微",
+      "onboard_time": 1695463952,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 176780,
@@ -51395,14 +51491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152199,
-      "num": 146728,
-      "word": "承欢记",
-      "onboard_time": 1695464073,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152197,
       "num": 152197,
       "word": "程靖淇的爱情好像泡沫",
@@ -51849,6 +51937,14 @@
       "onboard_time": 1694144799,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148771,
+      "num": 148771,
+      "word": "首批新疆大闸蟹1小时卖空",
+      "onboard_time": 1695464132,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148732,
@@ -53179,6 +53275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138731,
+      "num": 541078,
+      "word": "浙江17岁学生贴瓷砖成全国冠军",
+      "onboard_time": 1695464793,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138475,
       "num": 138475,
       "word": "杭州亚运会10天倒计时",
@@ -53625,14 +53729,6 @@
       "onboard_time": 1695195335,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134482,
-      "num": 134482,
-      "word": "关晓彤清唱微微",
-      "onboard_time": 1695463952,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 134443,
@@ -54137,14 +54233,6 @@
       "onboard_time": 1695285817,
       "rank": 45,
       "category": "动物萌宠,社会新闻"
-    },
-    {
-      "raw_hot": 129672,
-      "num": 554681,
-      "word": "绍兴父子拿下一项全国唯一",
-      "onboard_time": 1695461134,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129642,
@@ -55480,14 +55568,6 @@
       "word": "男子地铁内倒地休克他们接力抢救",
       "onboard_time": 1693638033,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110143,
-      "num": 110143,
-      "word": "首批新疆大闸蟹1小时卖空",
-      "onboard_time": 1695464132,
-      "rank": 46,
       "category": "社会新闻"
     },
     {

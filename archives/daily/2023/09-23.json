@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695464165454,
+  "endTime": 1695465228590,
   "band_list": [
     {
       "raw_hot": 2447912,
@@ -25,6 +25,14 @@
       "onboard_time": 1695434912,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1909293,
+      "num": 1909293,
+      "word": "孙颖莎将用英语宣誓",
+      "onboard_time": 1695463651,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1899379,
@@ -107,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1161151,
+      "num": 448079,
+      "word": "陈飞宇的食量",
+      "onboard_time": 1695461972,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1021706,
       "num": 375607,
       "word": "边缘性行为为什么是边缘的",
@@ -139,14 +155,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 864586,
-      "num": 448079,
-      "word": "陈飞宇的食量",
-      "onboard_time": 1695461972,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 808448,
       "num": 486316,
       "word": "19岁女子被骗缅甸获救时遍体鳞伤",
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794120,
-      "num": 794120,
-      "word": "孙颖莎将用英语宣誓",
-      "onboard_time": 1695463651,
-      "rank": 0,
-      "category": "体育"
+      "raw_hot": 804858,
+      "num": 343235,
+      "word": "月薪一万能有多难",
+      "onboard_time": 1695461552,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 779168,
@@ -187,14 +195,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 766668,
-      "num": 303933,
-      "word": "月薪一万能有多难",
-      "onboard_time": 1695461552,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 739030,
       "num": 739030,
       "word": "你好星期六全员emoji暗号",
@@ -217,6 +217,14 @@
       "onboard_time": 1695380671,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660615,
+      "num": 660615,
+      "word": "承欢记",
+      "onboard_time": 1695464073,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 660285,
@@ -305,6 +313,14 @@
       "onboard_time": 1695430654,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539356,
+      "num": 539356,
+      "word": "承欢记首发剧照",
+      "onboard_time": 1695464373,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 538740,
@@ -531,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411954,
+      "num": 341540,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409010,
       "num": 409010,
       "word": "沈梦辰的衣服到底什么颜色",
@@ -561,6 +585,14 @@
       "onboard_time": 1695452133,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 388740,
+      "num": 226984,
+      "word": "SM让新人坐经济舱",
+      "onboard_time": 1695464735,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 388567,
@@ -659,11 +691,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338979,
-      "num": 293727,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
+      "raw_hot": 339644,
+      "num": 339644,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 335865,
-      "num": 293120,
+      "num": 294000,
       "word": "一见钟情的对象是前男友",
       "onboard_time": 1695461612,
       "rank": 23,
@@ -859,6 +891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 265156,
+      "num": 265156,
+      "word": "动物内脏究竟是大补还是有毒",
+      "onboard_time": 1695464373,
+      "rank": 26,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 264693,
       "num": 264693,
       "word": "异人之下小孩上桌",
@@ -921,6 +961,14 @@
       "onboard_time": 1695456331,
       "rank": 30,
       "category": "幽默,体育"
+    },
+    {
+      "raw_hot": 250568,
+      "num": 995036,
+      "word": "常吃的果蔬离不开她们的付出",
+      "onboard_time": 1695461191,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248746,
@@ -1075,20 +1123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223584,
-      "num": 704976,
-      "word": "常吃的果蔬离不开她们的付出",
-      "onboard_time": 1695461191,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219827,
       "num": 219827,
       "word": "亚运会",
       "onboard_time": 1695433412,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218984,
+      "num": 218984,
+      "word": "孟美岐坦言自己2年没有工作",
+      "onboard_time": 1695465035,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 216067,
@@ -1131,12 +1179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213582,
+      "num": 213582,
+      "word": "罗杰夫一句中文就把弹壳拿捏了",
+      "onboard_time": 1695464673,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211545,
       "num": 196647,
       "word": "林大厨 一碗豆汁喝的我神清气爽",
       "onboard_time": 1695438153,
       "rank": 30,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 211332,
+      "num": 211332,
+      "word": "林双把诈骗公婆送进警局",
+      "onboard_time": 1695464673,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 208462,
@@ -1147,12 +1211,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206784,
+      "num": 206784,
+      "word": "Feel Special发行4周年",
+      "onboard_time": 1695464673,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206199,
       "num": 206199,
       "word": "新家被我改造成了住不起的样子",
       "onboard_time": 1695402564,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205635,
+      "num": 205635,
+      "word": "从超市感受到反抗真的有用",
+      "onboard_time": 1695464973,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 205553,
+      "num": 205553,
+      "word": "王俊凯牛仔套装机场路透",
+      "onboard_time": 1695464612,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205417,
@@ -1283,14 +1371,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 188882,
-      "num": 188882,
-      "word": "苏炳添的鞋跟不上他的脚",
-      "onboard_time": 1695464012,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187845,
       "num": 307334,
       "word": "中国女排奥运资格赛两连败",
@@ -1347,6 +1427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 184455,
+      "num": 587212,
+      "word": "绍兴父子拿下一项全国唯一",
+      "onboard_time": 1695461134,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184243,
       "num": 184243,
       "word": "白鹿的四部不同类型待播剧",
@@ -1401,6 +1489,14 @@
       "onboard_time": 1695429213,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176821,
+      "num": 176821,
+      "word": "关晓彤清唱微微",
+      "onboard_time": 1695463952,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 175363,
@@ -1587,14 +1683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152199,
-      "num": 146728,
-      "word": "承欢记",
-      "onboard_time": 1695464073,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151473,
       "num": 151473,
       "word": "为什么iPhone不支持通话录音",
@@ -1609,6 +1697,14 @@
       "onboard_time": 1695427533,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148771,
+      "num": 148771,
+      "word": "首批新疆大闸蟹1小时卖空",
+      "onboard_time": 1695464132,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146830,
@@ -1667,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138731,
+      "num": 541078,
+      "word": "浙江17岁学生贴瓷砖成全国冠军",
+      "onboard_time": 1695464793,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138632,
       "num": 138632,
       "word": "一首歌唱尽人的一生",
@@ -1723,14 +1827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134482,
-      "num": 134482,
-      "word": "关晓彤清唱微微",
-      "onboard_time": 1695463952,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 134184,
       "num": 100345,
       "word": "iPhone15ProMax最高加价2800",
@@ -1761,14 +1857,6 @@
       "onboard_time": 1695400048,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 129672,
-      "num": 554681,
-      "word": "绍兴父子拿下一项全国唯一",
-      "onboard_time": 1695461134,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127181,
@@ -1913,14 +2001,6 @@
       "onboard_time": 1695454353,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 110143,
-      "num": 110143,
-      "word": "首批新疆大闸蟹1小时卖空",
-      "onboard_time": 1695464132,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107171,
