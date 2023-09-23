@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695457147426,
+  "endTime": 1695458047024,
   "band_list": [
     {
       "raw_hot": 2447912,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244084,
+      "num": 432852,
+      "word": "来姨妈前的8个征兆",
+      "onboard_time": 1695453934,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1222580,
       "num": 1222580,
       "word": "张柏芝 顶级骨相",
       "onboard_time": 1695442891,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1171572,
-      "num": 432852,
-      "word": "来姨妈前的8个征兆",
-      "onboard_time": 1695453934,
-      "rank": 15,
-      "category": "知识科普"
     },
     {
       "raw_hot": 1021706,
@@ -225,6 +225,14 @@
       "onboard_time": 1695452672,
       "rank": 27,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 554970,
+      "num": 554970,
+      "word": "林孝埈500米PEN",
+      "onboard_time": 1695456450,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 550245,
@@ -435,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404476,
+      "num": 404476,
+      "word": "杨紫杀青请粉丝喝饮料",
+      "onboard_time": 1695457653,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403704,
       "num": 403704,
       "word": "焕羽官宣阵容",
       "onboard_time": 1695435813,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401709,
-      "num": 401709,
-      "word": "林孝埈500米PEN",
-      "onboard_time": 1695456450,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 399676,
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361247,
+      "num": 361247,
+      "word": "虞书欣经常给朋友寄衣服",
+      "onboard_time": 1695455791,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357888,
       "num": 357888,
       "word": "12306回应乘客抱娃在座位上大便",
@@ -521,14 +537,6 @@
       "onboard_time": 1695444274,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 355978,
-      "num": 355978,
-      "word": "虞书欣经常给朋友寄衣服",
-      "onboard_time": 1695455791,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 350978,
@@ -793,6 +801,14 @@
       "onboard_time": 1695402444,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 252240,
+      "num": 252240,
+      "word": "杭州地铁还是疏忽了",
+      "onboard_time": 1695456331,
+      "rank": 30,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 248746,
@@ -1163,6 +1179,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 178564,
+      "num": 177885,
+      "word": "现在杭州每个角落都腌入味儿了",
+      "onboard_time": 1695457413,
+      "rank": 30,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 178537,
       "num": 178537,
       "word": "大同大成双语学校",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1695447513,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170283,
-      "num": 170283,
-      "word": "杭州地铁还是疏忽了",
-      "onboard_time": 1695456331,
-      "rank": 30,
-      "category": "幽默,体育"
     },
     {
       "raw_hot": 168407,
@@ -1659,6 +1675,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 102514,
+      "num": 102514,
+      "word": "林陆骁南初撑伞双向奔赴",
+      "onboard_time": 1695456331,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102346,
       "num": 102346,
       "word": "我的秋天分你一半",
@@ -1747,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87654,
+      "num": 93644,
+      "word": "杭州亚运会直播",
+      "onboard_time": 1695457796,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86819,
       "num": 86819,
       "word": "那英说周迅带老花镜像88",
@@ -1795,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70991,
+      "num": 980531,
+      "word": "揭秘杭州亚运会开幕式亮点",
+      "onboard_time": 1695438932,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 70666,
       "num": 499930,
       "word": "杨紫琼状态",
@@ -1807,14 +1847,6 @@
       "num": 1242730,
       "word": "秋分丰收节亚运开幕同一天",
       "onboard_time": 1695439232,
-      "rank": 2,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 69501,
-      "num": 980531,
-      "word": "揭秘杭州亚运会开幕式亮点",
-      "onboard_time": 1695438932,
       "rank": 2,
       "category": "社会新闻,体育"
     },
@@ -1915,7 +1947,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 16563,
+      "raw_hot": 21425,
       "num": 442345,
       "word": "孙阳秋游plog",
       "onboard_time": 1695456032,
@@ -1954,6 +1986,9 @@
     },
     {
       "word": "#习近平会见亚奥理事会代理主席#"
+    },
+    {
+      "word": "#习近平会见柬埔寨国王#"
     }
   ]
 }
