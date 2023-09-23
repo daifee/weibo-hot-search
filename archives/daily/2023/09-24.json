@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695510934180,
+  "endTime": 1695512033111,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -43,20 +43,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 880921,
+      "num": 880921,
+      "word": "核酸大王张核子进军预制菜",
+      "onboard_time": 1695494778,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810195,
       "num": 441193,
       "word": "SEVENTEEN经纪公司道歉",
       "onboard_time": 1695485434,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 759970,
-      "num": 759970,
-      "word": "核酸大王张核子进军预制菜",
-      "onboard_time": 1695494778,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736472,
@@ -267,11 +267,27 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 199249,
+      "num": 107241,
+      "word": "交出你相册里的三小只",
+      "onboard_time": 1695511162,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195965,
       "num": 440064,
       "word": "数字人点燃主火炬",
       "onboard_time": 1695478075,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192605,
+      "num": 171033,
+      "word": "穿着100多斤的青绿山水裙跳舞是什么感觉",
+      "onboard_time": 1695510261,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -475,6 +491,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126994,
+      "num": 126994,
+      "word": "浙江男篮61分惨败",
+      "onboard_time": 1695510321,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120994,
+      "num": 120994,
+      "word": "郭晶晶雨中骑行夸赞西湖诗意美",
+      "onboard_time": 1695509540,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112261,
+      "num": 112261,
+      "word": "李荣浩在发模特前没想过能当歌手",
+      "onboard_time": 1695511583,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104301,
       "num": 104301,
       "word": "亚运开幕式越剧表演",
@@ -483,32 +523,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88378,
-      "num": 68421,
-      "word": "穿着100多斤的青绿山水裙跳舞是什么感觉",
-      "onboard_time": 1695510261,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 84256,
-      "num": 84256,
-      "word": "浙江男篮61分惨败",
-      "onboard_time": 1695510321,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 84160,
-      "num": 68378,
-      "word": "郭晶晶雨中骑行夸赞西湖诗意美",
-      "onboard_time": 1695509540,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 82594,
-      "num": 82594,
+      "raw_hot": 91529,
+      "num": 91529,
       "word": "给女朋友点了7斤的饭",
       "onboard_time": 1695497954,
       "rank": 22,
@@ -547,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74640,
+      "num": 74640,
+      "word": "傅云深活该有女朋友",
+      "onboard_time": 1695508157,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72421,
       "num": 72421,
       "word": "异能",
@@ -555,12 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63889,
-      "num": 63889,
-      "word": "傅云深活该有女朋友",
-      "onboard_time": 1695508157,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 67761,
+      "num": 67761,
+      "word": "绍兴的毛毯裹住了摩洛哥震区的孩子",
+      "onboard_time": 1695510442,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60509,
+      "num": 60509,
+      "word": "张含韵 没想到30加会这么好",
+      "onboard_time": 1695512003,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 56643,
@@ -571,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56380,
-      "num": 56380,
-      "word": "绍兴的毛毯裹住了摩洛哥震区的孩子",
-      "onboard_time": 1695510442,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55115,
       "num": 55115,
       "word": "巴黎偶遇张凌赫",
@@ -587,19 +611,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54068,
+      "num": 54068,
+      "word": "伯恩利0比1曼联",
+      "onboard_time": 1695510862,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51885,
       "num": 51885,
       "word": "亚运会开幕式穿越了五千年",
       "onboard_time": 1695493039,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 50340,
-      "num": 50340,
-      "word": "伯恩利0比1曼联",
-      "onboard_time": 1695510862,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -643,8 +667,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10872,
-      "num": 362607,
+      "raw_hot": 14117,
+      "num": 606580,
       "word": "五个维度解码杭州亚运会",
       "onboard_time": 1695456331,
       "rank": 2,
