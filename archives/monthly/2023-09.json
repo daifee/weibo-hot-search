@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695500153684,
+  "endTime": 1695501238780,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -59387,6 +59387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47293,
+      "num": 27279,
+      "word": "给女朋友点了7斤的饭",
+      "onboard_time": 1695497954,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47232,
       "num": 535230,
       "word": "路遇司机昏迷溜车5特警徒手拉停",
@@ -59601,14 +59609,6 @@
       "onboard_time": 1693681757,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43131,
-      "num": 27279,
-      "word": "给女朋友点了7斤的饭",
-      "onboard_time": 1695497954,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 42990,
