@@ -1,0 +1,410 @@
+{
+  "runTime": 1695468823235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419666,
+        "num": 1419666,
+        "word": "孙颖莎将用英语宣誓",
+        "onboard_time": 1695463651,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443694,
+        "num": 725516,
+        "word": "浙江17岁学生贴瓷砖成全国冠军",
+        "onboard_time": 1695464793,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30378,
+        "num": 717626,
+        "word": "秋分丰收节亚运开幕同一天",
+        "onboard_time": 1695439232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711628,
+        "num": 711628,
+        "word": "承欢记",
+        "onboard_time": 1695464073,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196942,
+        "num": 700425,
+        "word": "常吃的果蔬离不开她们的付出",
+        "onboard_time": 1695461191,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689992,
+        "num": 689992,
+        "word": "承欢记也信这个玄学了",
+        "onboard_time": 1695467313,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135725,
+        "num": 570715,
+        "word": "绍兴父子拿下一项全国唯一",
+        "onboard_time": 1695461134,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468149,
+        "num": 468149,
+        "word": "苏炳添的鞋跟不上他的脚",
+        "onboard_time": 1695464012,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345617,
+        "num": 345617,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 345530,
+        "num": 345530,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2162011,
+        "num": 345459,
+        "word": "孟美岐坦言自己2年没有工作",
+        "onboard_time": 1695465035,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1047288,
+        "num": 344599,
+        "word": "最近的马思纯",
+        "onboard_time": 1695467671,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234926,
+        "num": 344342,
+        "word": "杭州亚运会主火炬点燃方式",
+        "onboard_time": 1695451111,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 54160,
+        "num": 343852,
+        "word": "郑州街头花式表白中国",
+        "onboard_time": 1695462152,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74880,
+        "num": 343318,
+        "word": "淘宝为了亚运有多努力",
+        "onboard_time": 1695466833,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 933194,
+        "num": 343033,
+        "word": "SM让新人坐经济舱",
+        "onboard_time": 1695464735,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114296,
+        "num": 342538,
+        "word": "杭州一不小心入画了",
+        "onboard_time": 1695466653,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 644539,
+        "num": 342107,
+        "word": "你能接受男朋友问你借钱吗",
+        "onboard_time": 1695458252,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362582,
+        "num": 341357,
+        "word": "陈飞宇的食量",
+        "onboard_time": 1695461972,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341224,
+        "num": 341224,
+        "word": "敖子逸宣传刘耀文新歌",
+        "onboard_time": 1695466354,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 665572,
+        "num": 323039,
+        "word": "月薪一万能有多难",
+        "onboard_time": 1695461552,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498456,
+        "num": 314066,
+        "word": "亚运会主火炬21时28分许点燃",
+        "onboard_time": 1695459392,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285495,
+        "num": 285495,
+        "word": "有职业空窗期再就业有多难",
+        "onboard_time": 1695466771,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268250,
+        "num": 268250,
+        "word": "江喜恋情被传谣",
+        "onboard_time": 1695467912,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256638,
+        "num": 256638,
+        "word": "承欢记首发剧照",
+        "onboard_time": 1695464373,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255440,
+        "num": 255440,
+        "word": "杨幂今天直播状态",
+        "onboard_time": 1695466233,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255249,
+        "num": 255249,
+        "word": "来姨妈前的8个征兆",
+        "onboard_time": 1695453934,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 254952,
+        "num": 254952,
+        "word": "校长主任外出考察被曝同间房过夜",
+        "onboard_time": 1695468272,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262676,
+        "num": 254902,
+        "word": "张嘉倪在时装周丢了一只耳环",
+        "onboard_time": 1695468212,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253450,
+        "num": 253450,
+        "word": "从超市感受到反抗真的有用",
+        "onboard_time": 1695464973,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 251146,
+        "num": 251146,
+        "word": "蔡依林成都演唱会",
+        "onboard_time": 1695468393,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237301,
+        "num": 237301,
+        "word": "你好星期六",
+        "onboard_time": 1695465813,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229618,
+        "num": 229618,
+        "word": "男生看到Angelababy的表情",
+        "onboard_time": 1695463291,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229494,
+        "num": 229494,
+        "word": "王俊凯牛仔套装机场路透",
+        "onboard_time": 1695464612,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226399,
+        "num": 226399,
+        "word": "樊振东开幕式第二棒火炬手",
+        "onboard_time": 1695461251,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224876,
+        "num": 224876,
+        "word": "三个质子大团建",
+        "onboard_time": 1695468753,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207827,
+        "num": 207827,
+        "word": "林双把诈骗公婆送进警局",
+        "onboard_time": 1695464673,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205422,
+        "num": 205422,
+        "word": "李在明停止绝食",
+        "onboard_time": 1695446193,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198957,
+        "num": 198957,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196726,
+        "num": 196726,
+        "word": "苹果客服回应首批iPhone15品控问题",
+        "onboard_time": 1695459392,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205318,
+        "num": 196313,
+        "word": "虞书欣经常给朋友寄衣服",
+        "onboard_time": 1695455791,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194163,
+        "num": 194163,
+        "word": "SEVENTEEN新预告用了长城",
+        "onboard_time": 1695453690,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185572,
+        "num": 185572,
+        "word": "一见钟情的对象是前男友",
+        "onboard_time": 1695461612,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177848,
+        "num": 177848,
+        "word": "詹俊说足球比网球费嗓子",
+        "onboard_time": 1695466713,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173888,
+        "num": 173888,
+        "word": "动物内脏究竟是大补还是有毒",
+        "onboard_time": 1695464373,
+        "rank": 44,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 172425,
+        "num": 172425,
+        "word": "蔡依林一眼就认出了花花",
+        "onboard_time": 1695444993,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167250,
+        "num": 167250,
+        "word": "北京一麻辣烫店举办电竞比赛引围观",
+        "onboard_time": 1695462810,
+        "rank": 46,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 157586,
+        "num": 157586,
+        "word": "19岁女子被骗缅甸获救时遍体鳞伤",
+        "onboard_time": 1695458070,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134977,
+        "num": 134977,
+        "word": "采访一下猫中了500万是什么感觉",
+        "onboard_time": 1695463051,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 132681,
+        "num": 132681,
+        "word": "因做了四年家庭主妇林双找不到工作",
+        "onboard_time": 1695459392,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695467570881,
+  "endTime": 1695468823235,
   "band_list": [
     {
       "raw_hot": 2447912,
@@ -19,7 +19,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2118299,
+      "raw_hot": 2162011,
       "num": 347643,
       "word": "孟美岐坦言自己2年没有工作",
       "onboard_time": 1695465035,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1047288,
+      "num": 344599,
+      "word": "最近的马思纯",
+      "onboard_time": 1695467671,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1021706,
       "num": 375607,
       "word": "边缘性行为为什么是边缘的",
@@ -233,6 +241,14 @@
       "onboard_time": 1695441693,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 689992,
+      "num": 689992,
+      "word": "承欢记也信这个玄学了",
+      "onboard_time": 1695467313,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 666324,
@@ -411,6 +427,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 498456,
+      "num": 341540,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492051,
       "num": 492051,
       "word": "孙杨不相信杭州是美食荒漠",
@@ -459,12 +483,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 471482,
-      "num": 335719,
-      "word": "承欢记也信这个玄学了",
-      "onboard_time": 1695467313,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 468149,
+      "num": 468149,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 466867,
@@ -491,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 450445,
-      "num": 341540,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 443694,
+      "num": 987223,
+      "word": "浙江17岁学生贴瓷砖成全国冠军",
+      "onboard_time": 1695464793,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435741,
@@ -521,14 +545,6 @@
       "onboard_time": 1695453690,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431764,
-      "num": 431764,
-      "word": "苏炳添的鞋跟不上他的脚",
-      "onboard_time": 1695464012,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 427619,
@@ -617,14 +633,6 @@
       "onboard_time": 1695452133,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 398648,
-      "num": 987223,
-      "word": "浙江17岁学生贴瓷砖成全国冠军",
-      "onboard_time": 1695464793,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388567,
@@ -723,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341224,
+      "num": 341224,
+      "word": "敖子逸宣传刘耀文新歌",
+      "onboard_time": 1695466354,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338280,
       "num": 338280,
       "word": "张杰加盟东方卫视中秋晚会",
@@ -745,14 +761,6 @@
       "onboard_time": 1695398195,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334106,
-      "num": 334106,
-      "word": "敖子逸宣传刘耀文新歌",
-      "onboard_time": 1695466354,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 333825,
@@ -907,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268250,
+      "num": 268250,
+      "word": "江喜恋情被传谣",
+      "onboard_time": 1695467912,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268149,
       "num": 268149,
       "word": "张韶涵造型师真的高手",
@@ -971,6 +987,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 262676,
+      "num": 254902,
+      "word": "张嘉倪在时装周丢了一只耳环",
+      "onboard_time": 1695468212,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262117,
       "num": 262117,
       "word": "你好星期六",
@@ -1019,6 +1043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254952,
+      "num": 254952,
+      "word": "校长主任外出考察被曝同间房过夜",
+      "onboard_time": 1695468272,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252681,
       "num": 252681,
       "word": "本科学生考研考公哪个更好",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1695456331,
       "rank": 30,
       "category": "幽默,体育"
+    },
+    {
+      "raw_hot": 251146,
+      "num": 251146,
+      "word": "蔡依林成都演唱会",
+      "onboard_time": 1695468393,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 250568,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1695428312,
       "rank": 27,
       "category": "知识科普,美食"
+    },
+    {
+      "raw_hot": 224876,
+      "num": 224876,
+      "word": "三个质子大团建",
+      "onboard_time": 1695468753,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224599,
@@ -2043,6 +2091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114296,
+      "num": 342538,
+      "word": "杭州一不小心入画了",
+      "onboard_time": 1695466653,
+      "rank": 25,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 112946,
       "num": 112946,
       "word": "没有十年工龄背不出这款通勤包",
@@ -2203,14 +2259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86804,
-      "num": 274907,
-      "word": "杭州一不小心入画了",
-      "onboard_time": 1695466653,
-      "rank": 25,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 84810,
       "num": 84810,
       "word": "电影献王虫谷",
@@ -2241,6 +2289,14 @@
       "onboard_time": 1695389978,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74880,
+      "num": 343318,
+      "word": "淘宝为了亚运有多努力",
+      "onboard_time": 1695466833,
+      "rank": 14,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 71534,
@@ -2369,14 +2425,6 @@
       "onboard_time": 1695459634,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28574,
-      "num": 341085,
-      "word": "淘宝为了亚运有多努力",
-      "onboard_time": 1695466833,
-      "rank": 14,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 23368,

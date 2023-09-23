@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695467570881,
+  "endTime": 1695468823235,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2162011,
+      "num": 347643,
+      "word": "孟美岐坦言自己2年没有工作",
+      "onboard_time": 1695465035,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2155222,
       "num": 2155222,
       "word": "美腕回应李佳琦抖音认证消失",
@@ -361,14 +369,6 @@
       "onboard_time": 1695007716,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2118299,
-      "num": 347643,
-      "word": "孟美岐坦言自己2年没有工作",
-      "onboard_time": 1695465035,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 2109511,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1695042158,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1047288,
+      "num": 344599,
+      "word": "最近的马思纯",
+      "onboard_time": 1695467671,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1046214,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1695040958,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689992,
+      "num": 689992,
+      "word": "承欢记也信这个玄学了",
+      "onboard_time": 1695467313,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 689573,
@@ -4883,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498456,
+      "num": 341540,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498436,
       "num": 498436,
       "word": "黄健翔今晚国足应该是一场胜利",
@@ -5235,14 +5259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 471482,
-      "num": 335719,
-      "word": "承欢记也信这个玄学了",
-      "onboard_time": 1695467313,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 471064,
       "num": 471064,
       "word": "蜂花你家纸箱被偷了",
@@ -5265,6 +5281,14 @@
       "onboard_time": 1694913813,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 468149,
+      "num": 468149,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 467869,
@@ -5491,14 +5515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 450445,
-      "num": 341540,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 450199,
       "num": 450199,
       "word": "你有多久没有爱的感觉了",
@@ -5577,6 +5593,14 @@
       "onboard_time": 1695307299,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443694,
+      "num": 987223,
+      "word": "浙江17岁学生贴瓷砖成全国冠军",
+      "onboard_time": 1695464793,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443459,
@@ -5753,14 +5777,6 @@
       "onboard_time": 1694929655,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431764,
-      "num": 431764,
-      "word": "苏炳添的鞋跟不上他的脚",
-      "onboard_time": 1695464012,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 431675,
@@ -6297,14 +6313,6 @@
       "onboard_time": 1695269559,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 398648,
-      "num": 987223,
-      "word": "浙江17岁学生贴瓷砖成全国冠军",
-      "onboard_time": 1695464793,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397906,
@@ -7515,6 +7523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341224,
+      "num": 341224,
+      "word": "敖子逸宣传刘耀文新歌",
+      "onboard_time": 1695466354,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 341223,
       "num": 341223,
       "word": "相亲同时带了苹果和华为",
@@ -7665,14 +7681,6 @@
       "onboard_time": 1695279755,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 334106,
-      "num": 334106,
-      "word": "敖子逸宣传刘耀文新歌",
-      "onboard_time": 1695466354,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 333860,
@@ -9499,6 +9507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 268250,
+      "num": 268250,
+      "word": "江喜恋情被传谣",
+      "onboard_time": 1695467912,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268136,
       "num": 268136,
       "word": "被爱会长出新的血肉",
@@ -9673,6 +9689,14 @@
       "onboard_time": 1694946694,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 262676,
+      "num": 254902,
+      "word": "张嘉倪在时装周丢了一只耳环",
+      "onboard_time": 1695468212,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262398,
@@ -9963,6 +9987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 254952,
+      "num": 254952,
+      "word": "校长主任外出考察被曝同间房过夜",
+      "onboard_time": 1695468272,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254845,
       "num": 254845,
       "word": "封神第一部破26亿妲己唱甜蜜蜜了",
@@ -10073,6 +10105,14 @@
       "onboard_time": 1695088595,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 251146,
+      "num": 251146,
+      "word": "蔡依林成都演唱会",
+      "onboard_time": 1695468393,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 250572,
@@ -11161,6 +11201,14 @@
       "onboard_time": 1695104255,
       "rank": 45,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 224876,
+      "num": 224876,
+      "word": "三个质子大团建",
+      "onboard_time": 1695468753,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224810,
@@ -16795,6 +16843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114296,
+      "num": 342538,
+      "word": "杭州一不小心入画了",
+      "onboard_time": 1695466653,
+      "rank": 25,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 113915,
       "num": 124783,
       "word": "原来发质真的能养好",
@@ -17219,14 +17275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86804,
-      "num": 274907,
-      "word": "杭州一不小心入画了",
-      "onboard_time": 1695466653,
-      "rank": 25,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 86351,
       "num": 367906,
       "word": "首批天猫iPhone15已到货",
@@ -17377,6 +17425,14 @@
       "onboard_time": 1695078506,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74880,
+      "num": 343318,
+      "word": "淘宝为了亚运有多努力",
+      "onboard_time": 1695466833,
+      "rank": 14,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 74255,
@@ -18049,14 +18105,6 @@
       "onboard_time": 1694889675,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28574,
-      "num": 341085,
-      "word": "淘宝为了亚运有多努力",
-      "onboard_time": 1695466833,
-      "rank": 14,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 27465,
