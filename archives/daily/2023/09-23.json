@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695465228590,
+  "endTime": 1695467570881,
   "band_list": [
     {
       "raw_hot": 2447912,
@@ -17,6 +17,14 @@
       "onboard_time": 1695426088,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2118299,
+      "num": 347643,
+      "word": "孟美岐坦言自己2年没有工作",
+      "onboard_time": 1695465035,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 2107743,
@@ -131,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1015545,
+      "num": 345525,
+      "word": "SM让新人坐经济舱",
+      "onboard_time": 1695464735,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 977165,
       "num": 977165,
       "word": "赵露思外网生图",
@@ -169,6 +185,14 @@
       "onboard_time": 1695461552,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 783934,
+      "num": 783934,
+      "word": "承欢记",
+      "onboard_time": 1695464073,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 779168,
@@ -217,14 +241,6 @@
       "onboard_time": 1695380671,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 660615,
-      "num": 660615,
-      "word": "承欢记",
-      "onboard_time": 1695464073,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 660285,
@@ -443,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 471482,
+      "num": 335719,
+      "word": "承欢记也信这个玄学了",
+      "onboard_time": 1695467313,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466867,
       "num": 466867,
       "word": "一盒月饼走遍所有人情",
@@ -467,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450445,
+      "num": 341540,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435741,
       "num": 368333,
       "word": "王子文让围观小孩去写作业",
@@ -489,6 +521,14 @@
       "onboard_time": 1695453690,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431764,
+      "num": 431764,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 427619,
@@ -547,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 411954,
-      "num": 341540,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 409010,
       "num": 409010,
       "word": "沈梦辰的衣服到底什么颜色",
@@ -587,12 +619,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 388740,
-      "num": 226984,
-      "word": "SM让新人坐经济舱",
-      "onboard_time": 1695464735,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 398648,
+      "num": 987223,
+      "word": "浙江17岁学生贴瓷砖成全国冠军",
+      "onboard_time": 1695464793,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388567,
@@ -691,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339644,
-      "num": 339644,
-      "word": "苏炳添的鞋跟不上他的脚",
-      "onboard_time": 1695464012,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338280,
       "num": 338280,
       "word": "张杰加盟东方卫视中秋晚会",
@@ -721,6 +745,14 @@
       "onboard_time": 1695398195,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334106,
+      "num": 334106,
+      "word": "敖子逸宣传刘耀文新歌",
+      "onboard_time": 1695466354,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 333825,
@@ -819,6 +851,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 289279,
+      "num": 289279,
+      "word": "有职业空窗期再就业有多难",
+      "onboard_time": 1695466771,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287366,
       "num": 287366,
       "word": "黄子诚销号退网",
@@ -835,12 +875,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 279033,
+      "num": 279033,
+      "word": "从超市感受到反抗真的有用",
+      "onboard_time": 1695464973,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 278115,
       "num": 278115,
       "word": "时代少年团全员成年",
       "onboard_time": 1695424825,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273191,
+      "num": 273191,
+      "word": "王俊凯牛仔套装机场路透",
+      "onboard_time": 1695464612,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270428,
@@ -913,6 +969,22 @@
       "onboard_time": 1695398674,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 262117,
+      "num": 262117,
+      "word": "你好星期六",
+      "onboard_time": 1695465813,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261335,
+      "num": 261335,
+      "word": "杨幂今天直播状态",
+      "onboard_time": 1695466233,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 260007,
@@ -1027,6 +1099,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 240861,
+      "num": 240861,
+      "word": "林双把诈骗公婆送进警局",
+      "onboard_time": 1695464673,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239622,
       "num": 239622,
       "word": "X玖少年团小分队合体",
@@ -1131,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218984,
-      "num": 218984,
-      "word": "孟美岐坦言自己2年没有工作",
-      "onboard_time": 1695465035,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216067,
       "num": 216067,
       "word": "苏大法学专业学生起诉上海迪士尼",
@@ -1195,14 +1267,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 211332,
-      "num": 211332,
-      "word": "林双把诈骗公婆送进警局",
-      "onboard_time": 1695464673,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208462,
       "num": 208462,
       "word": "恋与制作人",
@@ -1225,22 +1289,6 @@
       "onboard_time": 1695402564,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205635,
-      "num": 205635,
-      "word": "从超市感受到反抗真的有用",
-      "onboard_time": 1695464973,
-      "rank": 39,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 205553,
-      "num": 205553,
-      "word": "王俊凯牛仔套装机场路透",
-      "onboard_time": 1695464612,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205417,
@@ -1331,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195553,
+      "num": 195553,
+      "word": "第六棒火炬手汪顺",
+      "onboard_time": 1695466653,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193627,
       "num": 193627,
       "word": "这事儿李斯丹妮可以吹一辈子的牛",
@@ -1360,6 +1416,14 @@
       "word": "中国女排2比3荷兰女排",
       "onboard_time": 1695392436,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192471,
+      "num": 192471,
+      "word": "詹俊说足球比网球费嗓子",
+      "onboard_time": 1695466713,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1492,7 +1556,7 @@
     },
     {
       "raw_hot": 176821,
-      "num": 176821,
+      "num": 192423,
       "word": "关晓彤清唱微微",
       "onboard_time": 1695463952,
       "rank": 39,
@@ -1761,14 +1825,6 @@
       "onboard_time": 1695389077,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138731,
-      "num": 541078,
-      "word": "浙江17岁学生贴瓷砖成全国冠军",
-      "onboard_time": 1695464793,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138632,
@@ -2147,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86804,
+      "num": 274907,
+      "word": "杭州一不小心入画了",
+      "onboard_time": 1695466653,
+      "rank": 25,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 84810,
       "num": 84810,
       "word": "电影献王虫谷",
@@ -2305,6 +2369,14 @@
       "onboard_time": 1695459634,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28574,
+      "num": 341085,
+      "word": "淘宝为了亚运有多努力",
+      "onboard_time": 1695466833,
+      "rank": 14,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 23368,

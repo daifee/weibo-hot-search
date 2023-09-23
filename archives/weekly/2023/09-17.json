@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695465228590,
+  "endTime": 1695467570881,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -361,6 +361,14 @@
       "onboard_time": 1695007716,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2118299,
+      "num": 347643,
+      "word": "孟美岐坦言自己2年没有工作",
+      "onboard_time": 1695465035,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 2109511,
@@ -1683,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1015545,
+      "num": 345525,
+      "word": "SM让新人坐经济舱",
+      "onboard_time": 1695464735,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013051,
       "num": 1013051,
       "word": "换回国货后发现工资够用了",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1695299076,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 783934,
+      "num": 783934,
+      "word": "承欢记",
+      "onboard_time": 1695464073,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 783398,
@@ -3272,14 +3296,6 @@
       "word": "南风知我意破万",
       "onboard_time": 1695133605,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 660615,
-      "num": 660615,
-      "word": "承欢记",
-      "onboard_time": 1695464073,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5219,6 +5235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 471482,
+      "num": 335719,
+      "word": "承欢记也信这个玄学了",
+      "onboard_time": 1695467313,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471064,
       "num": 471064,
       "word": "蜂花你家纸箱被偷了",
@@ -5465,6 +5489,14 @@
       "onboard_time": 1695105937,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 450445,
+      "num": 341540,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 450199,
@@ -5721,6 +5753,14 @@
       "onboard_time": 1694929655,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431764,
+      "num": 431764,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 431675,
@@ -6083,14 +6123,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 411954,
-      "num": 341540,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 411619,
       "num": 411619,
       "word": "GIDLE官宣上海签售会",
@@ -6267,6 +6299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 398648,
+      "num": 987223,
+      "word": "浙江17岁学生贴瓷砖成全国冠军",
+      "onboard_time": 1695464793,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397906,
       "num": 397906,
       "word": "印度新生儿被活埋伸手破土求救",
@@ -6385,14 +6425,6 @@
       "onboard_time": 1695298655,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388740,
-      "num": 226984,
-      "word": "SM让新人坐经济舱",
-      "onboard_time": 1695464735,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 388567,
@@ -7531,14 +7563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339644,
-      "num": 339644,
-      "word": "苏炳添的鞋跟不上他的脚",
-      "onboard_time": 1695464012,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 339494,
       "num": 339494,
       "word": "他从火光中走来今晚开播",
@@ -7641,6 +7665,14 @@
       "onboard_time": 1695279755,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 334106,
+      "num": 334106,
+      "word": "敖子逸宣传刘耀文新歌",
+      "onboard_time": 1695466354,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 333860,
@@ -8779,6 +8811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289279,
+      "num": 289279,
+      "word": "有职业空窗期再就业有多难",
+      "onboard_time": 1695466771,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288293,
       "num": 288293,
       "word": "何猷君这人没事就去蹦极",
@@ -9059,6 +9099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279033,
+      "num": 279033,
+      "word": "从超市感受到反抗真的有用",
+      "onboard_time": 1695464973,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 278667,
       "num": 278667,
       "word": "沈腾来自东北的水壶战神",
@@ -9281,6 +9329,14 @@
       "onboard_time": 1695020854,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 273191,
+      "num": 273191,
+      "word": "王俊凯牛仔套装机场路透",
+      "onboard_time": 1695464612,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272847,
@@ -9635,6 +9691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262117,
+      "num": 262117,
+      "word": "你好星期六",
+      "onboard_time": 1695465813,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262009,
       "num": 262009,
       "word": "WDCC2023易烊千玺配音宣传片发布",
@@ -9673,6 +9737,14 @@
       "onboard_time": 1694992648,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 261335,
+      "num": 261335,
+      "word": "杨幂今天直播状态",
+      "onboard_time": 1695466233,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 261043,
@@ -10376,6 +10448,14 @@
       "word": "大唐狄公案",
       "onboard_time": 1695186938,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240861,
+      "num": 240861,
+      "word": "林双把诈骗公婆送进警局",
+      "onboard_time": 1695464673,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -11411,14 +11491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218984,
-      "num": 218984,
-      "word": "孟美岐坦言自己2年没有工作",
-      "onboard_time": 1695465035,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218660,
       "num": 218660,
       "word": "此沙念炖冻豆腐好洗脑",
@@ -11811,14 +11883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211332,
-      "num": 211332,
-      "word": "林双把诈骗公婆送进警局",
-      "onboard_time": 1695464673,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210882,
       "num": 210882,
       "word": "为什么柚子里面好多硬芯",
@@ -12099,14 +12163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205635,
-      "num": 205635,
-      "word": "从超市感受到反抗真的有用",
-      "onboard_time": 1695464973,
-      "rank": 39,
-      "category": "其它"
-    },
-    {
       "raw_hot": 205587,
       "num": 205587,
       "word": "我们i人社交是这样的啦",
@@ -12121,14 +12177,6 @@
       "onboard_time": 1695261754,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205553,
-      "num": 205553,
-      "word": "王俊凯牛仔套装机场路透",
-      "onboard_time": 1695464612,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205499,
@@ -12843,6 +12891,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 195553,
+      "num": 195553,
+      "word": "第六棒火炬手汪顺",
+      "onboard_time": 1695466653,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195512,
       "num": 195512,
       "word": "2023年KPOP组合专辑总销量TOP9",
@@ -13081,6 +13137,14 @@
       "onboard_time": 1694952996,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192471,
+      "num": 192471,
+      "word": "詹俊说足球比网球费嗓子",
+      "onboard_time": 1695466713,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 192179,
@@ -14156,7 +14220,7 @@
     },
     {
       "raw_hot": 176821,
-      "num": 176821,
+      "num": 192423,
       "word": "关晓彤清唱微微",
       "onboard_time": 1695463952,
       "rank": 39,
@@ -15987,14 +16051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138731,
-      "num": 541078,
-      "word": "浙江17岁学生贴瓷砖成全国冠军",
-      "onboard_time": 1695464793,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138339,
       "num": 138339,
       "word": "女排",
@@ -17163,6 +17219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86804,
+      "num": 274907,
+      "word": "杭州一不小心入画了",
+      "onboard_time": 1695466653,
+      "rank": 25,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 86351,
       "num": 367906,
       "word": "首批天猫iPhone15已到货",
@@ -17985,6 +18049,14 @@
       "onboard_time": 1694889675,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28574,
+      "num": 341085,
+      "word": "淘宝为了亚运有多努力",
+      "onboard_time": 1695466833,
+      "rank": 14,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 27465,
