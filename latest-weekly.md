@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/24 00:19:33 ~ 2023/09/24 01:13:44
+本榜单时间：2023/09/24 00:19:33 ~ 2023/09/24 01:33:53
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ SMTOWN演唱会zoo舞台（热度：137749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E8%B6%8A%E5%89%A7%E8%A1%A8%E6%BC%94%23" target="weibo">
+亚运开幕式越剧表演（热度：104301）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 蔡依林成都演唱会（热度：78779）
 </a>
@@ -359,6 +365,12 @@ SMTOWN演唱会zoo舞台（热度：137749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E4%B9%9F%E4%BF%A1%E8%BF%99%E4%B8%AA%E7%8E%84%E5%AD%A6%E4%BA%86%23" target="weibo">
 承欢记也信这个玄学了（热度：75620）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E6%B2%B9%23" target="weibo">
+为中国加油（热度：56643）
 </a>
 </li>
 
