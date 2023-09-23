@@ -1,7 +1,15 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695468823235,
+  "endTime": 1695472162041,
   "band_list": [
+    {
+      "raw_hot": 7042226,
+      "num": 8292226,
+      "word": "亚运开幕式",
+      "onboard_time": 1695469652,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2447912,
       "num": 2447912,
@@ -17,6 +25,14 @@
       "onboard_time": 1695426088,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2280315,
+      "num": 2280315,
+      "word": "我爱你中国",
+      "onboard_time": 1695471215,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2162011,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1079346,
+      "num": 1079346,
+      "word": "开幕式五星红旗入场",
+      "onboard_time": 1695471215,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1047288,
       "num": 344599,
       "word": "最近的马思纯",
@@ -185,6 +209,14 @@
       "onboard_time": 1695458070,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808148,
+      "num": 808148,
+      "word": "看开幕式想哭",
+      "onboard_time": 1695471634,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 804858,
@@ -265,6 +297,14 @@
       "onboard_time": 1695380733,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 634354,
+      "num": 263942,
+      "word": "卢昱晓发的夜色尚浅合照",
+      "onboard_time": 1695470254,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 622660,
@@ -361,6 +401,14 @@
       "onboard_time": 1695445711,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537830,
+      "num": 258342,
+      "word": "杨紫吴彦姝合照",
+      "onboard_time": 1695470915,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 534642,
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440405,
+      "num": 440405,
+      "word": "中国女排vs多米尼加女排",
+      "onboard_time": 1695469832,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435741,
       "num": 368333,
       "word": "王子文让围观小孩去写作业",
@@ -545,6 +601,14 @@
       "onboard_time": 1695453690,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431326,
+      "num": 254589,
+      "word": "SMTOWN演唱会",
+      "onboard_time": 1695471157,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 427619,
@@ -707,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349777,
+      "num": 252898,
+      "word": "三个质子大团建",
+      "onboard_time": 1695468753,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349727,
       "num": 349727,
       "word": "不敢想象大鹏现在有多积极阳光",
@@ -729,6 +801,14 @@
       "onboard_time": 1695433114,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341701,
+      "num": 249763,
+      "word": "林陆骁南初在一起了",
+      "onboard_time": 1695469413,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 341224,
@@ -795,6 +875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 325310,
+      "num": 254952,
+      "word": "校长主任外出考察被曝同间房过夜",
+      "onboard_time": 1695468272,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322327,
       "num": 322327,
       "word": "女子3次试管婴儿终于怀上却查出癌症",
@@ -851,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298798,
+      "num": 254902,
+      "word": "张嘉倪在时装周丢了一只耳环",
+      "onboard_time": 1695468212,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297917,
       "num": 263453,
       "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
@@ -881,6 +977,14 @@
       "onboard_time": 1695425968,
       "rank": 9,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 280751,
+      "num": 239247,
+      "word": "文俊辉hi6飞行嘉宾",
+      "onboard_time": 1695469354,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 279033,
@@ -987,14 +1091,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 262676,
-      "num": 254902,
-      "word": "张嘉倪在时装周丢了一只耳环",
-      "onboard_time": 1695468212,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 262117,
       "num": 262117,
       "word": "你好星期六",
@@ -1019,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258967,
+      "num": 198940,
+      "word": "亚运会开幕式第一个显眼包出现了",
+      "onboard_time": 1695471634,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258902,
       "num": 258902,
       "word": "丈夫失业后沉默包揽家务引妻子心疼",
@@ -1041,14 +1145,6 @@
       "onboard_time": 1695441033,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254952,
-      "num": 254952,
-      "word": "校长主任外出考察被曝同间房过夜",
-      "onboard_time": 1695468272,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252681,
@@ -1235,14 +1331,6 @@
       "category": "知识科普,美食"
     },
     {
-      "raw_hot": 224876,
-      "num": 224876,
-      "word": "三个质子大团建",
-      "onboard_time": 1695468753,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224599,
       "num": 224599,
       "word": "林俊杰或将录制hi6",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1695446432,
       "rank": 31,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 215314,
+      "num": 197606,
+      "word": "刘惜君连发12个总会",
+      "onboard_time": 1695471157,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 214328,
@@ -1468,7 +1564,7 @@
     },
     {
       "raw_hot": 192471,
-      "num": 192471,
+      "num": 195841,
       "word": "詹俊说足球比网球费嗓子",
       "onboard_time": 1695466713,
       "rank": 43,
@@ -1707,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163553,
+      "num": 195978,
+      "word": "范志毅四肢是刚认识吗",
+      "onboard_time": 1695471939,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162605,
       "num": 162605,
       "word": "Lisa晒BLACKPINK背影照",
@@ -1825,6 +1929,14 @@
       "onboard_time": 1695395257,
       "rank": 35,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 145853,
+      "num": 195924,
+      "word": "田馥甄翻唱黑色柳丁",
+      "onboard_time": 1695469594,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 142226,
@@ -2009,6 +2121,14 @@
       "onboard_time": 1695436414,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 121596,
+      "num": 195865,
+      "word": "杨鸣杜锋解说亚运会",
+      "onboard_time": 1695471999,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 121419,
@@ -2355,12 +2475,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 58316,
+      "num": 195852,
+      "word": "亚运开幕莲花盛开",
+      "onboard_time": 1695472057,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57429,
       "num": 57429,
       "word": "大叔第3次考科目二合格彻底放飞",
       "onboard_time": 1695422898,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51712,
+      "num": 258865,
+      "word": "vivo亚运会宣传片细节太多了",
+      "onboard_time": 1695470431,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 49871,
@@ -2401,6 +2537,14 @@
       "onboard_time": 1695407118,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36699,
+      "num": 1649329,
+      "word": "五个维度解码杭州亚运会",
+      "onboard_time": 1695456331,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 34196,
@@ -2485,6 +2629,9 @@
     },
     {
       "word": "#习近平会见柬埔寨国王#"
+    },
+    {
+      "word": "#习近平出席杭州亚运会开幕式#"
     }
   ]
 }

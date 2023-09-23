@@ -1,0 +1,410 @@
+{
+  "runTime": 1695472162041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7042226,
+        "num": 8292226,
+        "word": "亚运开幕式",
+        "onboard_time": 1695469652,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2280315,
+        "num": 2280315,
+        "word": "我爱你中国",
+        "onboard_time": 1695471215,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36699,
+        "num": 1649329,
+        "word": "五个维度解码杭州亚运会",
+        "onboard_time": 1695456331,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1079346,
+        "num": 1079346,
+        "word": "开幕式五星红旗入场",
+        "onboard_time": 1695471215,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 954038,
+        "num": 954038,
+        "word": "孙颖莎将用英语宣誓",
+        "onboard_time": 1695463651,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 808148,
+        "num": 808148,
+        "word": "看开幕式想哭",
+        "onboard_time": 1695471634,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440405,
+        "num": 440405,
+        "word": "中国女排vs多米尼加女排",
+        "onboard_time": 1695469832,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426988,
+        "num": 426988,
+        "word": "承欢记也信这个玄学了",
+        "onboard_time": 1695467313,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269857,
+        "num": 269857,
+        "word": "苏炳添的鞋跟不上他的脚",
+        "onboard_time": 1695464012,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423436,
+        "num": 269026,
+        "word": "承欢记",
+        "onboard_time": 1695464073,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1232739,
+        "num": 266942,
+        "word": "孟美岐坦言自己2年没有工作",
+        "onboard_time": 1695465035,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 992037,
+        "num": 266096,
+        "word": "最近的马思纯",
+        "onboard_time": 1695467671,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634354,
+        "num": 263942,
+        "word": "卢昱晓发的夜色尚浅合照",
+        "onboard_time": 1695470254,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155730,
+        "num": 261031,
+        "word": "杭州亚运会主火炬点燃方式",
+        "onboard_time": 1695451111,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 51712,
+        "num": 258865,
+        "word": "vivo亚运会宣传片细节太多了",
+        "onboard_time": 1695470431,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537830,
+        "num": 258342,
+        "word": "杨紫吴彦姝合照",
+        "onboard_time": 1695470915,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445937,
+        "num": 256285,
+        "word": "SM让新人坐经济舱",
+        "onboard_time": 1695464735,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431326,
+        "num": 254589,
+        "word": "SMTOWN演唱会",
+        "onboard_time": 1695471157,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349777,
+        "num": 252898,
+        "word": "三个质子大团建",
+        "onboard_time": 1695468753,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341701,
+        "num": 249763,
+        "word": "林陆骁南初在一起了",
+        "onboard_time": 1695469413,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549742,
+        "num": 247736,
+        "word": "月薪一万能有多难",
+        "onboard_time": 1695461552,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449309,
+        "num": 246746,
+        "word": "亚运会主火炬21时28分许点燃",
+        "onboard_time": 1695459392,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325310,
+        "num": 244832,
+        "word": "校长主任外出考察被曝同间房过夜",
+        "onboard_time": 1695468272,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298798,
+        "num": 242614,
+        "word": "张嘉倪在时装周丢了一只耳环",
+        "onboard_time": 1695468212,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293031,
+        "num": 240709,
+        "word": "敖子逸宣传刘耀文新歌",
+        "onboard_time": 1695466354,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280751,
+        "num": 239247,
+        "word": "文俊辉hi6飞行嘉宾",
+        "onboard_time": 1695469354,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275442,
+        "num": 237622,
+        "word": "你能接受男朋友问你借钱吗",
+        "onboard_time": 1695458252,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236002,
+        "num": 236002,
+        "word": "你好星期六",
+        "onboard_time": 1695465813,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201228,
+        "num": 201228,
+        "word": "浙江17岁学生贴瓷砖成全国冠军",
+        "onboard_time": 1695464793,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199225,
+        "num": 199225,
+        "word": "樊振东开幕式第二棒火炬手",
+        "onboard_time": 1695461251,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258967,
+        "num": 198940,
+        "word": "亚运会开幕式第一个显眼包出现了",
+        "onboard_time": 1695471634,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215314,
+        "num": 197606,
+        "word": "刘惜君连发12个总会",
+        "onboard_time": 1695471157,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199569,
+        "num": 197382,
+        "word": "SEVENTEEN新预告用了长城",
+        "onboard_time": 1695453690,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196017,
+        "num": 196017,
+        "word": "有职业空窗期再就业有多难",
+        "onboard_time": 1695466771,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189063,
+        "num": 196005,
+        "word": "来姨妈前的8个征兆",
+        "onboard_time": 1695453934,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 189882,
+        "num": 196002,
+        "word": "蔡依林成都演唱会",
+        "onboard_time": 1695468393,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179649,
+        "num": 195992,
+        "word": "杨幂今天直播状态",
+        "onboard_time": 1695466233,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163553,
+        "num": 195978,
+        "word": "范志毅四肢是刚认识吗",
+        "onboard_time": 1695471939,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157123,
+        "num": 195961,
+        "word": "19岁女子被骗缅甸获救时遍体鳞伤",
+        "onboard_time": 1695458070,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151687,
+        "num": 195958,
+        "word": "一见钟情的对象是前男友",
+        "onboard_time": 1695461612,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176905,
+        "num": 195936,
+        "word": "江喜恋情被传谣",
+        "onboard_time": 1695467912,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145853,
+        "num": 195924,
+        "word": "田馥甄翻唱黑色柳丁",
+        "onboard_time": 1695469594,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137342,
+        "num": 195917,
+        "word": "王俊凯牛仔套装机场路透",
+        "onboard_time": 1695464612,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136974,
+        "num": 195901,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 133946,
+        "num": 195897,
+        "word": "李在明停止绝食",
+        "onboard_time": 1695446193,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 195877,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122330,
+        "num": 195873,
+        "word": "苹果客服回应首批iPhone15品控问题",
+        "onboard_time": 1695459392,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121596,
+        "num": 195865,
+        "word": "杨鸣杜锋解说亚运会",
+        "onboard_time": 1695471999,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58316,
+        "num": 195852,
+        "word": "亚运开幕莲花盛开",
+        "onboard_time": 1695472057,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119054,
+        "num": 195841,
+        "word": "詹俊说足球比网球费嗓子",
+        "onboard_time": 1695466713,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席杭州亚运会开幕式#"
+    }
+  }
+}
