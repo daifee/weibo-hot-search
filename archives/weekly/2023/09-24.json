@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695496346968,
+  "endTime": 1695497619941,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -251,6 +251,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 196967,
+      "num": 196967,
+      "word": "核酸大王张核子进军预制菜",
+      "onboard_time": 1695494778,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195965,
       "num": 440064,
       "word": "数字人点燃主火炬",
@@ -459,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93222,
-      "num": 93222,
-      "word": "核酸大王张核子进军预制菜",
-      "onboard_time": 1695494778,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78779,
       "num": 78779,
       "word": "蔡依林成都演唱会",
@@ -507,20 +507,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53766,
+      "num": 53766,
+      "word": "异能",
+      "onboard_time": 1695496157,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51885,
       "num": 51885,
       "word": "亚运会开幕式穿越了五千年",
       "onboard_time": 1695493039,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23253,
-      "num": 34245,
-      "word": "异能",
-      "onboard_time": 1695496157,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 5954,
