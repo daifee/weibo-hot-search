@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695454440694,
+  "endTime": 1695457147426,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -1353,6 +1353,14 @@
       "onboard_time": 1695114280,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171572,
+      "num": 432852,
+      "word": "来姨妈前的8个征兆",
+      "onboard_time": 1695453934,
+      "rank": 15,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1171385,
@@ -5091,6 +5099,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 471694,
+      "num": 471694,
+      "word": "五月天上海",
+      "onboard_time": 1695455911,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 471593,
       "num": 471593,
       "word": "郑恺票房破10亿要跳女团舞",
@@ -5145,6 +5161,14 @@
       "onboard_time": 1695432935,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 466081,
+      "num": 466081,
+      "word": "亚洲人民都来感受烟雨江南了",
+      "onboard_time": 1695453091,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 465821,
@@ -5547,6 +5571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 434205,
+      "num": 412004,
+      "word": "SEVENTEEN新预告用了长城",
+      "onboard_time": 1695453690,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433019,
       "num": 530680,
       "word": "这2项运动不利于孩子生长发育",
@@ -5633,6 +5665,14 @@
       "onboard_time": 1695267036,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427619,
+      "num": 427619,
+      "word": "周杰伦半岛铁盒2002年现场",
+      "onboard_time": 1695454890,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 427198,
@@ -5923,14 +5963,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 412004,
-      "num": 412004,
-      "word": "SEVENTEEN新预告用了长城",
-      "onboard_time": 1695453690,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 411619,
       "num": 411619,
       "word": "GIDLE官宣上海签售会",
@@ -6065,6 +6097,14 @@
       "onboard_time": 1695166955,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401709,
+      "num": 401709,
+      "word": "林孝埈500米PEN",
+      "onboard_time": 1695456450,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 400597,
@@ -7019,6 +7059,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 355978,
+      "num": 355978,
+      "word": "虞书欣经常给朋友寄衣服",
+      "onboard_time": 1695455791,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355630,
       "num": 355630,
       "word": "金智秀新电影造型",
@@ -7153,14 +7201,6 @@
       "onboard_time": 1695169178,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347593,
-      "num": 347593,
-      "word": "来姨妈前的8个征兆",
-      "onboard_time": 1695453934,
-      "rank": 15,
-      "category": "知识科普"
     },
     {
       "raw_hot": 347558,
@@ -8196,7 +8236,7 @@
     },
     {
       "raw_hot": 302649,
-      "num": 370360,
+      "num": 460187,
       "word": "杭州亚运会主火炬点燃方式",
       "onboard_time": 1695451111,
       "rank": 12,
@@ -8220,7 +8260,7 @@
     },
     {
       "raw_hot": 301332,
-      "num": 246558,
+      "num": 260873,
       "word": "陈漫拍的龚俊",
       "onboard_time": 1695451593,
       "rank": 21,
@@ -9523,6 +9563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260007,
+      "num": 260007,
+      "word": "被韩国卖的糖葫芦价格震惊到",
+      "onboard_time": 1695455791,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259897,
       "num": 259897,
       "word": "封神第一部豆瓣评分涨至8.0分",
@@ -10219,14 +10267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239115,
-      "num": 239115,
-      "word": "亚洲人民都来感受烟雨江南了",
-      "onboard_time": 1695453091,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 238624,
       "num": 238624,
       "word": "丁仲礼院士预言成真",
@@ -10585,6 +10625,14 @@
       "onboard_time": 1695084577,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229775,
+      "num": 229775,
+      "word": "国产剧天花板级的渣男",
+      "onboard_time": 1695453934,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 229107,
@@ -13051,14 +13099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189193,
-      "num": 189193,
-      "word": "国产剧天花板级的渣男",
-      "onboard_time": 1695453934,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188917,
       "num": 188917,
       "word": "短道速滑冠军来呼和浩特了",
@@ -13337,6 +13377,14 @@
       "onboard_time": 1695426027,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184243,
+      "num": 184243,
+      "word": "白鹿的四部不同类型待播剧",
+      "onboard_time": 1695454291,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 184051,
@@ -14169,6 +14217,14 @@
       "onboard_time": 1695372933,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170283,
+      "num": 170283,
+      "word": "杭州地铁还是疏忽了",
+      "onboard_time": 1695456331,
+      "rank": 30,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 170110,
@@ -15731,6 +15787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135706,
+      "num": 135706,
+      "word": "龙宽 田鹏",
+      "onboard_time": 1695454831,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135478,
       "num": 135478,
       "word": "林陆骁南初能不能多亲几秒",
@@ -16307,14 +16371,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 114482,
-      "num": 114482,
-      "word": "白鹿的四部不同类型待播剧",
-      "onboard_time": 1695454291,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113915,
       "num": 124783,
       "word": "原来发质真的能养好",
@@ -16521,6 +16577,14 @@
       "onboard_time": 1695282034,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98612,
+      "num": 436503,
+      "word": "柔软自有力量",
+      "onboard_time": 1695455132,
+      "rank": 15,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 98277,
@@ -17035,6 +17099,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 69501,
+      "num": 980531,
+      "word": "揭秘杭州亚运会开幕式亮点",
+      "onboard_time": 1695438932,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 69331,
       "num": 69331,
       "word": "张柏芝从香港坐高铁到郴州",
@@ -17161,14 +17233,6 @@
       "onboard_time": 1695124594,
       "rank": 31,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 57487,
-      "num": 980531,
-      "word": "揭秘杭州亚运会开幕式亮点",
-      "onboard_time": 1695438932,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 57429,
@@ -17697,6 +17761,14 @@
       "onboard_time": 1695069732,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 16563,
+      "num": 442345,
+      "word": "孙阳秋游plog",
+      "onboard_time": 1695456032,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 16513,

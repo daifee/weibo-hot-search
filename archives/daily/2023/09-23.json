@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695454440694,
+  "endTime": 1695457147426,
   "band_list": [
     {
       "raw_hot": 2447912,
@@ -89,6 +89,14 @@
       "onboard_time": 1695442891,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1171572,
+      "num": 432852,
+      "word": "来姨妈前的8个征兆",
+      "onboard_time": 1695453934,
+      "rank": 15,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1021706,
@@ -323,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471694,
+      "num": 471694,
+      "word": "五月天上海",
+      "onboard_time": 1695455911,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 466867,
       "num": 466867,
       "word": "一盒月饼走遍所有人情",
       "onboard_time": 1695432935,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 466081,
+      "num": 466081,
+      "word": "亚洲人民都来感受烟雨江南了",
+      "onboard_time": 1695453091,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 435741,
@@ -345,6 +369,22 @@
       "onboard_time": 1695425306,
       "rank": 33,
       "category": "知识科普,运动健身"
+    },
+    {
+      "raw_hot": 434205,
+      "num": 412004,
+      "word": "SEVENTEEN新预告用了长城",
+      "onboard_time": 1695453690,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 427619,
+      "num": 427619,
+      "word": "周杰伦半岛铁盒2002年现场",
+      "onboard_time": 1695454890,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 424906,
@@ -387,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 412004,
-      "num": 412004,
-      "word": "SEVENTEEN新预告用了长城",
-      "onboard_time": 1695453690,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409010,
       "num": 409010,
       "word": "沈梦辰的衣服到底什么颜色",
@@ -409,6 +441,14 @@
       "onboard_time": 1695435813,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401709,
+      "num": 401709,
+      "word": "林孝埈500米PEN",
+      "onboard_time": 1695456450,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 399676,
@@ -483,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355978,
+      "num": 355978,
+      "word": "虞书欣经常给朋友寄衣服",
+      "onboard_time": 1695455791,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350978,
       "num": 350978,
       "word": "徐睿知侧颜",
@@ -505,14 +553,6 @@
       "onboard_time": 1695391056,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 347593,
-      "num": 347593,
-      "word": "来姨妈前的8个征兆",
-      "onboard_time": 1695453934,
-      "rank": 15,
-      "category": "知识科普"
     },
     {
       "raw_hot": 344469,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 302649,
-      "num": 370360,
+      "num": 460187,
       "word": "杭州亚运会主火炬点燃方式",
       "onboard_time": 1695451111,
       "rank": 12,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 301332,
-      "num": 246558,
+      "num": 260873,
       "word": "陈漫拍的龚俊",
       "onboard_time": 1695451593,
       "rank": 21,
@@ -715,6 +755,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 260007,
+      "num": 260007,
+      "word": "被韩国卖的糖葫芦价格震惊到",
+      "onboard_time": 1695455791,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258902,
       "num": 258902,
       "word": "丈夫失业后沉默包揽家务引妻子心疼",
@@ -795,14 +843,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 239115,
-      "num": 239115,
-      "word": "亚洲人民都来感受烟雨江南了",
-      "onboard_time": 1695453091,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236658,
       "num": 236658,
       "word": "吕彦良Blue",
@@ -825,6 +865,14 @@
       "onboard_time": 1695433354,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229775,
+      "num": 229775,
+      "word": "国产剧天花板级的渣男",
+      "onboard_time": 1695453934,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 229422,
@@ -1027,14 +1075,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 189193,
-      "num": 189193,
-      "word": "国产剧天花板级的渣男",
-      "onboard_time": 1695453934,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187845,
       "num": 307334,
       "word": "中国女排奥运资格赛两连败",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1695426027,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184243,
+      "num": 184243,
+      "word": "白鹿的四部不同类型待播剧",
+      "onboard_time": 1695454291,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 181588,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1695447513,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170283,
+      "num": 170283,
+      "word": "杭州地铁还是疏忽了",
+      "onboard_time": 1695456331,
+      "rank": 30,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 168407,
@@ -1411,6 +1467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135706,
+      "num": 135706,
+      "word": "龙宽 田鹏",
+      "onboard_time": 1695454831,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135478,
       "num": 135478,
       "word": "林陆骁南初能不能多亲几秒",
@@ -1547,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114482,
-      "num": 114482,
-      "word": "白鹿的四部不同类型待播剧",
-      "onboard_time": 1695454291,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114369,
       "num": 114369,
       "word": "计算机二级",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1695385296,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98612,
+      "num": 436503,
+      "word": "柔软自有力量",
+      "onboard_time": 1695455132,
+      "rank": 15,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 98516,
@@ -1747,6 +1811,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 69501,
+      "num": 980531,
+      "word": "揭秘杭州亚运会开幕式亮点",
+      "onboard_time": 1695438932,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 68920,
       "num": 68920,
       "word": "婆婆弄丢孩子甩锅儿媳",
@@ -1768,14 +1840,6 @@
       "word": "大数据告诉你为何最忆是杭州",
       "onboard_time": 1695436414,
       "rank": 49,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 57487,
-      "num": 980531,
-      "word": "揭秘杭州亚运会开幕式亮点",
-      "onboard_time": 1695438932,
-      "rank": 2,
       "category": "社会新闻,体育"
     },
     {
@@ -1849,6 +1913,14 @@
       "onboard_time": 1695407058,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 16563,
+      "num": 442345,
+      "word": "孙阳秋游plog",
+      "onboard_time": 1695456032,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 16513,
