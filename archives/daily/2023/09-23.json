@@ -1,13 +1,21 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695472162041,
+  "endTime": 1695473091768,
   "band_list": [
     {
-      "raw_hot": 7042226,
+      "raw_hot": 7166484,
       "num": 8292226,
       "word": "亚运开幕式",
       "onboard_time": 1695469652,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2541713,
+      "num": 2541713,
+      "word": "我爱你中国",
+      "onboard_time": 1695471215,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1695426088,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2280315,
-      "num": 2280315,
-      "word": "我爱你中国",
-      "onboard_time": 1695471215,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2162011,
@@ -147,11 +147,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1079346,
-      "num": 1079346,
+      "raw_hot": 1134288,
+      "num": 1134288,
+      "word": "霍启刚笑得好开心",
+      "onboard_time": 1695472178,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1116897,
+      "num": 1116897,
       "word": "开幕式五星红旗入场",
       "onboard_time": 1695471215,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1052385,
+      "num": 1052385,
+      "word": "看开幕式想哭",
+      "onboard_time": 1695471634,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -209,14 +225,6 @@
       "onboard_time": 1695458070,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 808148,
-      "num": 808148,
-      "word": "看开幕式想哭",
-      "onboard_time": 1695471634,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 804858,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 634354,
-      "num": 263942,
+      "num": 269550,
       "word": "卢昱晓发的夜色尚浅合照",
       "onboard_time": 1695470254,
       "rank": 12,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 537830,
-      "num": 258342,
+      "num": 265831,
       "word": "杨紫吴彦姝合照",
       "onboard_time": 1695470915,
       "rank": 15,
@@ -488,6 +496,14 @@
       "word": "孙杨不相信杭州是美食荒漠",
       "onboard_time": 1695427594,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 491495,
+      "num": 265250,
+      "word": "亚运会开幕式第一个显眼包出现了",
+      "onboard_time": 1695471634,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 431326,
-      "num": 254589,
+      "num": 265725,
       "word": "SMTOWN演唱会",
       "onboard_time": 1695471157,
       "rank": 17,
@@ -747,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358856,
+      "num": 265575,
+      "word": "陆川审美",
+      "onboard_time": 1695472599,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357888,
       "num": 357888,
       "word": "12306回应乘客抱娃在座位上大便",
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 349777,
-      "num": 252898,
+      "num": 264625,
       "word": "三个质子大团建",
       "onboard_time": 1695468753,
       "rank": 35,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 341701,
-      "num": 249763,
+      "num": 264812,
       "word": "林陆骁南初在一起了",
       "onboard_time": 1695469413,
       "rank": 19,
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 325310,
-      "num": 254952,
+      "num": 264415,
       "word": "校长主任外出考察被曝同间房过夜",
       "onboard_time": 1695468272,
       "rank": 27,
@@ -955,6 +979,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 289331,
+      "num": 264535,
+      "word": "范志毅四肢是刚认识吗",
+      "onboard_time": 1695471939,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289279,
       "num": 289279,
       "word": "有职业空窗期再就业有多难",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1695424825,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274446,
+      "num": 274446,
+      "word": "最美中国红",
+      "onboard_time": 1695472779,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 273191,
@@ -1113,14 +1153,6 @@
       "onboard_time": 1695455791,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 258967,
-      "num": 198940,
-      "word": "亚运会开幕式第一个显眼包出现了",
-      "onboard_time": 1695471634,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 258902,
@@ -1283,6 +1315,14 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 233029,
+      "num": 233029,
+      "word": "好事成双",
+      "onboard_time": 1695472538,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231575,
       "num": 231575,
       "word": "张婧仪叫黄景瑜温柔一点",
@@ -1339,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222952,
+      "num": 222952,
+      "word": "刘惜君连发12个总会",
+      "onboard_time": 1695471157,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219827,
       "num": 219827,
       "word": "亚运会",
@@ -1355,20 +1403,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 215862,
+      "num": 215862,
+      "word": "前方记者灵儿",
+      "onboard_time": 1695473018,
+      "rank": 36,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 215436,
       "num": 215436,
       "word": "上大学后得了消息恐惧症",
       "onboard_time": 1695446432,
       "rank": 31,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 215314,
-      "num": 197606,
-      "word": "刘惜君连发12个总会",
-      "onboard_time": 1695471157,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 214328,
@@ -1457,6 +1505,14 @@
       "onboard_time": 1695431375,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201052,
+      "num": 201052,
+      "word": "旗手说抬起的国旗是祖国的一角",
+      "onboard_time": 1695472178,
+      "rank": 37,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 200743,
@@ -1568,6 +1624,14 @@
       "word": "詹俊说足球比网球费嗓子",
       "onboard_time": 1695466713,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190890,
+      "num": 190890,
+      "word": "亚运开幕式 梅兰竹菊",
+      "onboard_time": 1695472897,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1801,14 +1865,6 @@
       "onboard_time": 1695451712,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 163553,
-      "num": 195978,
-      "word": "范志毅四肢是刚认识吗",
-      "onboard_time": 1695471939,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 162605,
@@ -2056,6 +2112,14 @@
       "word": "原来运动员的房间长这样",
       "onboard_time": 1695429754,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131558,
+      "num": 190854,
+      "word": "一起看亚运",
+      "onboard_time": 1695472599,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2315,6 +2379,14 @@
       "category": "国内要闻,财经"
     },
     {
+      "raw_hot": 92667,
+      "num": 265078,
+      "word": "亚运开幕莲花盛开",
+      "onboard_time": 1695472057,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92264,
       "num": 112740,
       "word": "龙宽九段合体",
@@ -2459,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68866,
+      "num": 266360,
+      "word": "vivo亚运会宣传片细节太多了",
+      "onboard_time": 1695470431,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64837,
       "num": 1572791,
       "word": "丰收连连看",
@@ -2475,28 +2555,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 58316,
-      "num": 195852,
-      "word": "亚运开幕莲花盛开",
-      "onboard_time": 1695472057,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57429,
       "num": 57429,
       "word": "大叔第3次考科目二合格彻底放飞",
       "onboard_time": 1695422898,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51712,
-      "num": 258865,
-      "word": "vivo亚运会宣传片细节太多了",
-      "onboard_time": 1695470431,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 49871,
@@ -2568,6 +2632,14 @@
       "word": "慕思助力中国游泳",
       "onboard_time": 1695459634,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23577,
+      "num": 1323824,
+      "word": "六大亚运之城联动",
+      "onboard_time": 1695472779,
+      "rank": 2,
       "category": "体育"
     },
     {
