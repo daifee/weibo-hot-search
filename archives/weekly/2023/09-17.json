@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695438990546,
+  "endTime": 1695440038616,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -363,6 +363,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2107743,
+      "num": 980224,
+      "word": "给戚薇当了一天助理 我心态崩了",
+      "onboard_time": 1695434912,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2105316,
       "num": 805339,
       "word": "花西子代工厂被曝为日资",
@@ -489,14 +497,6 @@
       "onboard_time": 1695177334,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1951235,
-      "num": 980224,
-      "word": "给戚薇当了一天助理 我心态崩了",
-      "onboard_time": 1695434912,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1934814,
@@ -2611,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739030,
+      "num": 739030,
+      "word": "你好星期六全员emoji暗号",
+      "onboard_time": 1695435635,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738072,
       "num": 738072,
       "word": "赵丽颖是周放的宣传委员",
@@ -2913,14 +2921,6 @@
       "onboard_time": 1695200795,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 687011,
-      "num": 687011,
-      "word": "你好星期六全员emoji暗号",
-      "onboard_time": 1695435635,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 686933,
@@ -4257,6 +4257,14 @@
       "onboard_time": 1695216698,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534642,
+      "num": 534642,
+      "word": "小黑计算机二级",
+      "onboard_time": 1695438392,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 533328,
@@ -5596,7 +5604,7 @@
     },
     {
       "raw_hot": 420341,
-      "num": 314739,
+      "num": 326403,
       "word": "一个月不吃晚饭竟然瘦了10斤",
       "onboard_time": 1695434315,
       "rank": 37,
@@ -5865,6 +5873,14 @@
       "onboard_time": 1695046060,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 403704,
+      "num": 403704,
+      "word": "焕羽官宣阵容",
+      "onboard_time": 1695435813,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 403634,
@@ -7011,14 +7027,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 344157,
-      "num": 324045,
-      "word": "焕羽官宣阵容",
-      "onboard_time": 1695435813,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343794,
       "num": 343794,
       "word": "夜色尚浅靠演员缝缝补补",
@@ -7225,6 +7233,14 @@
       "onboard_time": 1694925516,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 333825,
+      "num": 404970,
+      "word": "关系户承包学校食堂比预制菜更可恨",
+      "onboard_time": 1695433896,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333122,
@@ -8179,14 +8195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293992,
-      "num": 293992,
-      "word": "小黑计算机二级",
-      "onboard_time": 1695438392,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 293881,
       "num": 293881,
       "word": "iPhone15订单排到冬天",
@@ -8785,6 +8793,14 @@
       "onboard_time": 1695263136,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 274290,
+      "num": 274290,
+      "word": "沈梦辰的衣服到底什么颜色",
+      "onboard_time": 1695438033,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 273863,
@@ -9819,14 +9835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240751,
-      "num": 404970,
-      "word": "关系户承包学校食堂比预制菜更可恨",
-      "onboard_time": 1695433896,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240621,
       "num": 240621,
       "word": "男子带抑郁症妻子送外卖疑似摆拍",
@@ -9995,6 +10003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236658,
+      "num": 236658,
+      "word": "吕彦良Blue",
+      "onboard_time": 1695439773,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236471,
       "num": 236471,
       "word": "光遇复刻",
@@ -10097,14 +10113,6 @@
       "onboard_time": 1695299856,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234244,
-      "num": 234244,
-      "word": "沈梦辰的衣服到底什么颜色",
-      "onboard_time": 1695438033,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 234112,
@@ -11059,6 +11067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213813,
+      "num": 213813,
+      "word": "邓超 最近歌单加一首大梦",
+      "onboard_time": 1695438810,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213715,
       "num": 213715,
       "word": "这通勤包是怎么做到全国统一的",
@@ -11265,6 +11281,14 @@
       "onboard_time": 1695391299,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208462,
+      "num": 208462,
+      "word": "恋与制作人",
+      "onboard_time": 1694906665,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 208304,
@@ -12017,6 +12041,14 @@
       "onboard_time": 1695387636,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196832,
+      "num": 191260,
+      "word": "这北极熊是在演五条悟吗",
+      "onboard_time": 1695439410,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 196681,
@@ -14115,6 +14147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160560,
+      "num": 160560,
+      "word": "兰闺喜事",
+      "onboard_time": 1695438810,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160146,
       "num": 160146,
       "word": "网红路牌一下子就顺眼了",
@@ -15459,6 +15499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126073,
+      "num": 126073,
+      "word": "五月天重庆演唱会基本每首歌都是大合唱",
+      "onboard_time": 1695438633,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125699,
       "num": 125699,
       "word": "宠物减肥瘦的是主人",
@@ -15505,14 +15553,6 @@
       "onboard_time": 1694929957,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 124356,
-      "num": 124356,
-      "word": "五月天重庆演唱会基本每首歌都是大合唱",
-      "onboard_time": 1695438633,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 122893,
@@ -15707,28 +15747,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 113863,
-      "num": 124005,
-      "word": "邓超 最近歌单加一首大梦",
-      "onboard_time": 1695438810,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113344,
       "num": 500199,
       "word": "杭州亚运会超全补课帖",
       "onboard_time": 1695217238,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113032,
-      "num": 123996,
-      "word": "兰闺喜事",
-      "onboard_time": 1695438810,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 112586,
@@ -15865,6 +15889,14 @@
       "onboard_time": 1695302197,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102568,
+      "num": 396946,
+      "word": "Gucci马衔扣",
+      "onboard_time": 1695435213,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 102346,
@@ -16171,14 +16203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83606,
-      "num": 83606,
-      "word": "恋与制作人",
-      "onboard_time": 1694906665,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 82993,
       "num": 404169,
       "word": "杭州亚运会先导片",
@@ -16371,6 +16395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70464,
+      "num": 825990,
+      "word": "秋分丰收节亚运开幕同一天",
+      "onboard_time": 1695439232,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 70151,
       "num": 70151,
       "word": "原来袋鼠这么可怕",
@@ -16449,14 +16481,6 @@
       "onboard_time": 1695189996,
       "rank": 30,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 64585,
-      "num": 396946,
-      "word": "Gucci马衔扣",
-      "onboard_time": 1695435213,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 62114,
@@ -17218,6 +17242,9 @@
     },
     {
       "word": "#习近平会见科威特王储#"
+    },
+    {
+      "word": "#习近平会见亚奥理事会代理主席#"
     }
   ]
 }

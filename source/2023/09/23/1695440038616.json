@@ -1,0 +1,410 @@
+{
+  "runTime": 1695440038616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647436,
+        "num": 1647436,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 965335,
+        "num": 965335,
+        "word": "李雪琴内耗好严重",
+        "onboard_time": 1695429156,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70464,
+        "num": 825990,
+        "word": "秋分丰收节亚运开幕同一天",
+        "onboard_time": 1695439232,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 2107743,
+        "num": 824631,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 815551,
+        "num": 815551,
+        "word": "赵露思外网生图",
+        "onboard_time": 1695434493,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 739030,
+        "num": 739030,
+        "word": "你好星期六全员emoji暗号",
+        "onboard_time": 1695435635,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656785,
+        "num": 656785,
+        "word": "张雨绮的内搭是一根领带",
+        "onboard_time": 1695430654,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 534642,
+        "num": 534642,
+        "word": "小黑计算机二级",
+        "onboard_time": 1695438392,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 504129,
+        "num": 504129,
+        "word": "官方通报男子赤身裸体趴在6楼外",
+        "onboard_time": 1695430596,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403704,
+        "num": 403704,
+        "word": "焕羽官宣阵容",
+        "onboard_time": 1695435813,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618162,
+        "num": 402973,
+        "word": "贪官8年内向女儿转移现金近2千万",
+        "onboard_time": 1695425427,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333825,
+        "num": 400579,
+        "word": "关系户承包学校食堂比预制菜更可恨",
+        "onboard_time": 1695433896,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200648,
+        "num": 394943,
+        "word": "亚运遇秋分",
+        "onboard_time": 1695425968,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 171356,
+        "num": 391766,
+        "word": "杭州第19届亚运会今日开幕",
+        "onboard_time": 1695424403,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 102568,
+        "num": 389898,
+        "word": "Gucci马衔扣",
+        "onboard_time": 1695435213,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 388745,
+        "num": 388745,
+        "word": "21岁专科毕业生拒绝当副教授",
+        "onboard_time": 1695426989,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 376814,
+        "num": 376814,
+        "word": "继承者们当年的视觉盛宴",
+        "onboard_time": 1695434254,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369442,
+        "num": 369442,
+        "word": "台湾的卫生巾真的长这样吗",
+        "onboard_time": 1695394776,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337775,
+        "num": 337775,
+        "word": "一盒月饼走遍所有人情",
+        "onboard_time": 1695432935,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248333,
+        "num": 330298,
+        "word": "徐睿知侧颜",
+        "onboard_time": 1695435573,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326403,
+        "num": 326403,
+        "word": "一个月不吃晚饭竟然瘦了10斤",
+        "onboard_time": 1695434315,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275678,
+        "num": 275678,
+        "word": "阿姨从女澡堂扫了一把头发",
+        "onboard_time": 1695425365,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274290,
+        "num": 274290,
+        "word": "沈梦辰的衣服到底什么颜色",
+        "onboard_time": 1695438033,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236658,
+        "num": 236658,
+        "word": "吕彦良Blue",
+        "onboard_time": 1695439773,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224892,
+        "num": 224892,
+        "word": "王子文让围观小孩去写作业",
+        "onboard_time": 1695433896,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223963,
+        "num": 223963,
+        "word": "为啥上班时间地铁上好多年轻人",
+        "onboard_time": 1695435932,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213813,
+        "num": 213813,
+        "word": "邓超 最近歌单加一首大梦",
+        "onboard_time": 1695438810,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208462,
+        "num": 208462,
+        "word": "恋与制作人",
+        "onboard_time": 1695439591,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197869,
+        "num": 197869,
+        "word": "丈夫失业后沉默包揽家务引妻子心疼",
+        "onboard_time": 1695425790,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194967,
+        "num": 194967,
+        "word": "毛晓彤玛丽猫",
+        "onboard_time": 1695436653,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196832,
+        "num": 191260,
+        "word": "这北极熊是在演五条悟吗",
+        "onboard_time": 1695439410,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175317,
+        "num": 175317,
+        "word": "林大厨 一碗豆汁喝的我神清气爽",
+        "onboard_time": 1695438153,
+        "rank": 31,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 170189,
+        "num": 170189,
+        "word": "12306回应乘客抱娃在座位上大便",
+        "onboard_time": 1695431974,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160560,
+        "num": 160560,
+        "word": "兰闺喜事",
+        "onboard_time": 1695438810,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157687,
+        "num": 157687,
+        "word": "被俞灏明拒绝的王栎鑫",
+        "onboard_time": 1695433114,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138540,
+        "num": 138540,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137905,
+        "num": 137905,
+        "word": "中国人为什么越来越胖了",
+        "onboard_time": 1695430415,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134543,
+        "num": 134543,
+        "word": "道诡异仙影视化",
+        "onboard_time": 1695436892,
+        "rank": 37,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 131218,
+        "num": 131218,
+        "word": "毛不易 一点皮外伤感谢大家关心",
+        "onboard_time": 1695430654,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130879,
+        "num": 130879,
+        "word": "为什么小说写到结婚就完结了",
+        "onboard_time": 1695425968,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 128016,
+        "num": 128016,
+        "word": "夜色尚浅有自己的产粮大佬",
+        "onboard_time": 1695436954,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127014,
+        "num": 127014,
+        "word": "时代少年团全员成年",
+        "onboard_time": 1695424825,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126073,
+        "num": 126073,
+        "word": "五月天重庆演唱会基本每首歌都是大合唱",
+        "onboard_time": 1695438633,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125501,
+        "num": 125501,
+        "word": "边缘性行为为什么是边缘的",
+        "onboard_time": 1695384934,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120598,
+        "num": 125501,
+        "word": "这事儿李斯丹妮可以吹一辈子的牛",
+        "onboard_time": 1695435932,
+        "rank": 44,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 109915,
+        "num": 125496,
+        "word": "秋分",
+        "onboard_time": 1695424643,
+        "rank": 45,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 108399,
+        "num": 125494,
+        "word": "黄子诚销号退网",
+        "onboard_time": 1695427953,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100207,
+        "num": 125492,
+        "word": "焕羽",
+        "onboard_time": 1695435932,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97403,
+        "num": 125492,
+        "word": "未来婆婆说给买一千块钱的三金",
+        "onboard_time": 1695391056,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94734,
+        "num": 125488,
+        "word": "种地吧",
+        "onboard_time": 1695432093,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见亚奥理事会代理主席#"
+    }
+  }
+}
