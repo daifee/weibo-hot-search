@@ -1,0 +1,410 @@
+{
+  "runTime": 1695479641956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3876550,
+        "num": 3876550,
+        "word": "亚运开幕式",
+        "onboard_time": 1695469652,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3153228,
+        "num": 3153228,
+        "word": "数字人点燃主火炬",
+        "onboard_time": 1695478075,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29151,
+        "num": 2211452,
+        "word": "五个维度解码杭州亚运会",
+        "onboard_time": 1695456331,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1649991,
+        "num": 1649991,
+        "word": "郭晶晶好美",
+        "onboard_time": 1695475722,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1570330,
+        "num": 1570330,
+        "word": "全场欢呼让巴基斯坦选手震惊了",
+        "onboard_time": 1695473861,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 899870,
+        "num": 899870,
+        "word": "亚运会宣传片男主是董浩然",
+        "onboard_time": 1695477701,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 896245,
+        "num": 896245,
+        "word": "李倩",
+        "onboard_time": 1695477764,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 799716,
+        "num": 799716,
+        "word": "叙利亚出场全场欢呼",
+        "onboard_time": 1695475781,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 795350,
+        "num": 795350,
+        "word": "第六棒火炬手汪顺",
+        "onboard_time": 1695466653,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764395,
+        "num": 764395,
+        "word": "中国女排1比3多米尼加女排",
+        "onboard_time": 1695476264,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1533567,
+        "num": 762463,
+        "word": "走太慢吉祥物都急了",
+        "onboard_time": 1695475483,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 991488,
+        "num": 761062,
+        "word": "林俊杰演唱会嘉宾周深",
+        "onboard_time": 1695477701,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 850154,
+        "num": 759708,
+        "word": "郭晶晶执旗霍启刚领队",
+        "onboard_time": 1695478136,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801772,
+        "num": 756276,
+        "word": "陆川审美",
+        "onboard_time": 1695472599,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157765,
+        "num": 755006,
+        "word": "开幕式总导演揭秘点火创意",
+        "onboard_time": 1695477640,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 754001,
+        "num": 754001,
+        "word": "中国队入场音乐一秒换歌唱祖国",
+        "onboard_time": 1695474949,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690695,
+        "num": 690695,
+        "word": "唱歌的四个帅哥是谁",
+        "onboard_time": 1695479261,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286361,
+        "num": 682579,
+        "word": "中国队入场全场欢呼",
+        "onboard_time": 1695475542,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740816,
+        "num": 681592,
+        "word": "霍启刚笑得好开心",
+        "onboard_time": 1695472178,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 678794,
+        "num": 678794,
+        "word": "中国台北出场欢呼声响彻全场",
+        "onboard_time": 1695474034,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613929,
+        "num": 613929,
+        "word": "找到Meiko啦",
+        "onboard_time": 1695475664,
+        "rank": 20,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 606477,
+        "num": 606477,
+        "word": "孙颖莎英语紧追马龙",
+        "onboard_time": 1695477408,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 585014,
+        "num": 585014,
+        "word": "我爱你中国",
+        "onboard_time": 1695471215,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506133,
+        "num": 506133,
+        "word": "樊振东开幕式第二棒火炬手",
+        "onboard_time": 1695461251,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95864,
+        "num": 476217,
+        "word": "谁说手机不能拍出完美开幕式",
+        "onboard_time": 1695478019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476174,
+        "num": 476174,
+        "word": "全世界找一诺",
+        "onboard_time": 1695478907,
+        "rank": 25,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 466591,
+        "num": 466591,
+        "word": "孙颖莎可爱",
+        "onboard_time": 1695476684,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446073,
+        "num": 446073,
+        "word": "罗雪娟好漂亮",
+        "onboard_time": 1695476387,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418826,
+        "num": 418826,
+        "word": "看开幕式想哭",
+        "onboard_time": 1695471634,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404858,
+        "num": 404858,
+        "word": "女舞者裙子上都是古建筑",
+        "onboard_time": 1695477108,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402542,
+        "num": 402542,
+        "word": "许海峰 教科书上的人",
+        "onboard_time": 1695475967,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383496,
+        "num": 383496,
+        "word": "叶诗文第一棒",
+        "onboard_time": 1695478966,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380306,
+        "num": 380306,
+        "word": "主火炬点燃仪式",
+        "onboard_time": 1695478019,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369591,
+        "num": 369591,
+        "word": "王者荣耀选手亮相",
+        "onboard_time": 1695474826,
+        "rank": 33,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 363284,
+        "num": 363284,
+        "word": "亚运会开幕式第一个显眼包出现了",
+        "onboard_time": 1695471634,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335853,
+        "num": 335853,
+        "word": "Irene因健康原因不参加演唱会",
+        "onboard_time": 1695474409,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332688,
+        "num": 332688,
+        "word": "英雄联盟队伍亮相",
+        "onboard_time": 1695477640,
+        "rank": 36,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 319949,
+        "num": 319949,
+        "word": "吴艳妮入场好兴奋",
+        "onboard_time": 1695476565,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309103,
+        "num": 309103,
+        "word": "IU演唱会跳Rover",
+        "onboard_time": 1695477284,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305938,
+        "num": 305938,
+        "word": "杨紫吴彦姝合照",
+        "onboard_time": 1695470915,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299846,
+        "num": 299846,
+        "word": "亚运会节目单",
+        "onboard_time": 1695476084,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283689,
+        "num": 283689,
+        "word": "月薪一万能有多难",
+        "onboard_time": 1695461552,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 996166,
+        "num": 280203,
+        "word": "数字火炬手",
+        "onboard_time": 1695477701,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272488,
+        "num": 272488,
+        "word": "开幕式舞蹈太顶了",
+        "onboard_time": 1695478727,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271172,
+        "num": 271172,
+        "word": "卢昱晓发的夜色尚浅合照",
+        "onboard_time": 1695470254,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255003,
+        "num": 255003,
+        "word": "蔡依林成都演唱会",
+        "onboard_time": 1695468393,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249824,
+        "num": 249824,
+        "word": "今夜钱塘江边人山人海",
+        "onboard_time": 1695479380,
+        "rank": 46,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 238306,
+        "num": 238306,
+        "word": "承欢记也信这个玄学了",
+        "onboard_time": 1695467313,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230329,
+        "num": 230329,
+        "word": "中国澳门代表团出场欢呼声超久",
+        "onboard_time": 1695476808,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220773,
+        "num": 220773,
+        "word": "承欢记",
+        "onboard_time": 1695464073,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见尼泊尔总理#"
+    }
+  }
+}
