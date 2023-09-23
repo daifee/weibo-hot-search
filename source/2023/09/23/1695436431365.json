@@ -1,0 +1,410 @@
+{
+  "runTime": 1695436431365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669190,
+        "num": 1669190,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1416316,
+        "num": 1416316,
+        "word": "李雪琴内耗好严重",
+        "onboard_time": 1695429156,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63159,
+        "num": 1278722,
+        "word": "丰收连连看",
+        "onboard_time": 1695430894,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240130,
+        "num": 1240130,
+        "word": "张雨绮的内搭是一根领带",
+        "onboard_time": 1695430654,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 771522,
+        "num": 771522,
+        "word": "官方通报男子赤身裸体趴在6楼外",
+        "onboard_time": 1695430596,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961973,
+        "num": 671209,
+        "word": "赵露思外网生图",
+        "onboard_time": 1695434493,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 448741,
+        "num": 448741,
+        "word": "一盒月饼走遍所有人情",
+        "onboard_time": 1695432935,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 445596,
+        "num": 445596,
+        "word": "21岁专科毕业生拒绝当副教授",
+        "onboard_time": 1695426989,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 412758,
+        "num": 412758,
+        "word": "继承者们当年的视觉盛宴",
+        "onboard_time": 1695434254,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248137,
+        "num": 411693,
+        "word": "亚运遇秋分",
+        "onboard_time": 1695425968,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1282139,
+        "num": 404569,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 920267,
+        "num": 395670,
+        "word": "贪官8年内向女儿转移现金近2千万",
+        "onboard_time": 1695425427,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153249,
+        "num": 389559,
+        "word": "杭州第19届亚运会今日开幕",
+        "onboard_time": 1695424403,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 89102,
+        "num": 382182,
+        "word": "幼童街头走失热心大爷当保镖护送",
+        "onboard_time": 1695430833,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 49871,
+        "num": 376981,
+        "word": "饿了么请农民乐队担任秋分时令官",
+        "onboard_time": 1695434434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509514,
+        "num": 370104,
+        "word": "台湾的卫生巾真的长这样吗",
+        "onboard_time": 1695394776,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368333,
+        "num": 368333,
+        "word": "王子文让围观小孩去写作业",
+        "onboard_time": 1695433896,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350978,
+        "num": 350978,
+        "word": "徐睿知侧颜",
+        "onboard_time": 1695435573,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309791,
+        "num": 309791,
+        "word": "毛不易 一点皮外伤感谢大家关心",
+        "onboard_time": 1695430654,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299409,
+        "num": 299409,
+        "word": "被俞灏明拒绝的王栎鑫",
+        "onboard_time": 1695433114,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420341,
+        "num": 296836,
+        "word": "一个月不吃晚饭竟然瘦了10斤",
+        "onboard_time": 1695434315,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344157,
+        "num": 295195,
+        "word": "焕羽官宣阵容",
+        "onboard_time": 1695435813,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317881,
+        "num": 294200,
+        "word": "你好星期六全员emoji暗号",
+        "onboard_time": 1695435635,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292701,
+        "num": 292701,
+        "word": "为什么小说写到结婚就完结了",
+        "onboard_time": 1695425968,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 273619,
+        "num": 273619,
+        "word": "阿姨从女澡堂扫了一把头发",
+        "onboard_time": 1695425365,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253993,
+        "num": 253993,
+        "word": "12306回应乘客抱娃在座位上大便",
+        "onboard_time": 1695431974,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245712,
+        "num": 245712,
+        "word": "中国人为什么越来越胖了",
+        "onboard_time": 1695430415,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196605,
+        "num": 196605,
+        "word": "焕羽",
+        "onboard_time": 1695435932,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190595,
+        "num": 190595,
+        "word": "边缘性行为为什么是边缘的",
+        "onboard_time": 1695384934,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55987,
+        "num": 188718,
+        "word": "杭州亚运会先导片",
+        "onboard_time": 1695429213,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245274,
+        "num": 188265,
+        "word": "这事儿李斯丹可以吹一辈子的牛",
+        "onboard_time": 1695435932,
+        "rank": 30,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 187286,
+        "num": 187286,
+        "word": "丈夫失业后沉默包揽家务引妻子心疼",
+        "onboard_time": 1695425790,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175800,
+        "num": 175800,
+        "word": "为啥上班时间地铁上好多年轻人",
+        "onboard_time": 1695435932,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166355,
+        "num": 166355,
+        "word": "孙杨不相信杭州是美食荒漠",
+        "onboard_time": 1695427594,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164034,
+        "num": 164034,
+        "word": "时代少年团全员成年",
+        "onboard_time": 1695424825,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160636,
+        "num": 160636,
+        "word": "关系户承包学校食堂比预制菜更可恨",
+        "onboard_time": 1695433896,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160052,
+        "num": 160052,
+        "word": "黄子诚销号退网",
+        "onboard_time": 1695427953,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155532,
+        "num": 155532,
+        "word": "胡兵兑现工作人员万元奖励承诺",
+        "onboard_time": 1695433354,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155338,
+        "num": 155338,
+        "word": "秋分",
+        "onboard_time": 1695424643,
+        "rank": 38,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 153057,
+        "num": 153057,
+        "word": "赵露思穿貂",
+        "onboard_time": 1695427832,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152300,
+        "num": 152300,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142278,
+        "num": 142278,
+        "word": "种地吧",
+        "onboard_time": 1695432093,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138090,
+        "num": 138090,
+        "word": "未来婆婆说给买一千块钱的三金",
+        "onboard_time": 1695391056,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135645,
+        "num": 135645,
+        "word": "异人之下小孩上桌",
+        "onboard_time": 1695431853,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129739,
+        "num": 129739,
+        "word": "黄景瑜从宿舍中走来",
+        "onboard_time": 1695432093,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129711,
+        "num": 129711,
+        "word": "不敢想象大鹏现在有多积极阳光",
+        "onboard_time": 1695428612,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128392,
+        "num": 128392,
+        "word": "蔡国庆的初恋故事每次讲都不一样",
+        "onboard_time": 1695432874,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122893,
+        "num": 122893,
+        "word": "杭州为了迎接亚运会有多拼",
+        "onboard_time": 1695436414,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 120609,
+        "num": 120609,
+        "word": "盛阳父子俩承包了我的笑点",
+        "onboard_time": 1695433896,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60128,
+        "num": 119164,
+        "word": "大数据告诉你为何最忆是杭州",
+        "onboard_time": 1695436414,
+        "rank": 49,
+        "category": "社会新闻,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见叙利亚总统#"
+    }
+  }
+}
