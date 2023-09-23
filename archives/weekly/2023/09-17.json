@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695461621399,
+  "endTime": 1695464165454,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1733829,
-      "num": 345690,
+      "num": 456476,
       "word": "你能接受男朋友问你借钱吗",
       "onboard_time": 1695458252,
       "rank": 10,
@@ -2115,6 +2115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 864586,
+      "num": 448079,
+      "word": "陈飞宇的食量",
+      "onboard_time": 1695461972,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862755,
       "num": 862755,
       "word": "张拿铁因东北口音被汪汪队婉拒",
@@ -2387,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 794120,
+      "num": 794120,
+      "word": "孙颖莎将用英语宣誓",
+      "onboard_time": 1695463651,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 791413,
       "num": 687311,
       "word": "中国经济崩溃论注定再度崩溃",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1695277475,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 766668,
+      "num": 303933,
+      "word": "月薪一万能有多难",
+      "onboard_time": 1695461552,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 764065,
@@ -3579,6 +3603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619835,
+      "num": 432469,
+      "word": "虞书欣经常给朋友寄衣服",
+      "onboard_time": 1695455791,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619521,
       "num": 439795,
       "word": "杜海涛亲沈梦辰不让妈妈看",
@@ -3841,6 +3873,14 @@
       "onboard_time": 1695221917,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 582737,
+      "num": 426702,
+      "word": "苹果客服回应首批iPhone15品控问题",
+      "onboard_time": 1695459392,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 581672,
@@ -4289,14 +4329,6 @@
       "onboard_time": 1695098800,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 544097,
-      "num": 361247,
-      "word": "虞书欣经常给朋友寄衣服",
-      "onboard_time": 1695455791,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 543362,
@@ -4779,6 +4811,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 505280,
+      "num": 505280,
+      "word": "张杰 我的面子是我自己冲破的",
+      "onboard_time": 1695460710,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501958,
       "num": 501958,
       "word": "开水冲鸡蛋",
@@ -4955,6 +4995,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 487854,
+      "num": 487854,
+      "word": "樊振东开幕式第二棒火炬手",
+      "onboard_time": 1695461251,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487618,
       "num": 436255,
       "word": "于适的26亿福利是开挖掘机",
@@ -5089,14 +5137,6 @@
       "onboard_time": 1695354992,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 478294,
-      "num": 322214,
-      "word": "苹果客服回应首批iPhone15品控问题",
-      "onboard_time": 1695459392,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 474499,
@@ -5307,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456660,
+      "num": 456660,
+      "word": "因做了四年家庭主妇林双找不到工作",
+      "onboard_time": 1695459392,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456484,
       "num": 324836,
       "word": "韩庚问魏大勋为啥叫宝宝",
@@ -5337,14 +5385,6 @@
       "onboard_time": 1695096820,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 453335,
-      "num": 453335,
-      "word": "因做了四年家庭主妇林双找不到工作",
-      "onboard_time": 1695459392,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 453258,
@@ -6201,14 +6241,6 @@
       "onboard_time": 1695269559,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 398286,
-      "num": 245635,
-      "word": "张杰 我的面子是我自己冲破的",
-      "onboard_time": 1695460710,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 397906,
@@ -7475,6 +7507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338979,
+      "num": 293727,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338739,
       "num": 338739,
       "word": "女子辞去十年工作带留守孩子读书",
@@ -7537,6 +7577,14 @@
       "onboard_time": 1695127896,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335865,
+      "num": 293120,
+      "word": "一见钟情的对象是前男友",
+      "onboard_time": 1695461612,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 335282,
@@ -7721,6 +7769,14 @@
       "onboard_time": 1694945792,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327939,
+      "num": 327939,
+      "word": "现在杭州每个角落都腌入味儿了",
+      "onboard_time": 1695457413,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 327550,
@@ -8489,14 +8545,6 @@
       "onboard_time": 1695054087,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 297131,
-      "num": 244214,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 296998,
@@ -9915,14 +9963,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 250920,
-      "num": 250920,
-      "word": "现在杭州每个角落都腌入味儿了",
-      "onboard_time": 1695457413,
-      "rank": 30,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 250572,
       "num": 250572,
       "word": "凤凰传奇谢谢你",
@@ -10041,6 +10081,14 @@
       "onboard_time": 1695289354,
       "rank": 27,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 247662,
+      "num": 247662,
+      "word": "苏炳添预判亚运会中国田径最少十金",
+      "onboard_time": 1695460353,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 246872,
@@ -10243,12 +10291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241669,
+      "num": 241669,
+      "word": "北京一麻辣烫店举办电竞比赛引围观",
+      "onboard_time": 1695462810,
+      "rank": 27,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 241294,
       "num": 241294,
       "word": "韩庚片场再也不教跳舞了",
       "onboard_time": 1694927375,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241234,
+      "num": 228045,
+      "word": "采访一下猫中了500万是什么感觉",
+      "onboard_time": 1695463051,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 241212,
@@ -10369,6 +10433,14 @@
       "onboard_time": 1695395318,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238180,
+      "num": 238180,
+      "word": "男生看到Angelababy的表情",
+      "onboard_time": 1695463291,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237869,
@@ -10505,6 +10577,14 @@
       "onboard_time": 1695032075,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235472,
+      "num": 235472,
+      "word": "博主拆多部iPhone15发现镜头有灰",
+      "onboard_time": 1695461013,
+      "rank": 30,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 235400,
@@ -11043,6 +11123,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 223584,
+      "num": 704976,
+      "word": "常吃的果蔬离不开她们的付出",
+      "onboard_time": 1695461191,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223378,
       "num": 223378,
       "word": "腹泻专用厕所有什么特别的吗",
@@ -11395,14 +11483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216624,
-      "num": 216624,
-      "word": "苏炳添预判亚运会中国田径最少十金",
-      "onboard_time": 1695460353,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216613,
       "num": 216613,
       "word": "被自己五天的掉发量惊到了",
@@ -11441,14 +11521,6 @@
       "onboard_time": 1695197075,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215544,
-      "num": 215544,
-      "word": "樊振东开幕式第二棒火炬手",
-      "onboard_time": 1695461251,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 215512,
@@ -12169,14 +12241,6 @@
       "onboard_time": 1694908226,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202480,
-      "num": 196963,
-      "word": "博主拆多部iPhone15发现镜头有灰",
-      "onboard_time": 1695461013,
-      "rank": 30,
-      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 202476,
@@ -13248,6 +13312,14 @@
       "word": "短道速滑冠军来呼和浩特了",
       "onboard_time": 1694945792,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188882,
+      "num": 188882,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -15211,6 +15283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152199,
+      "num": 146728,
+      "word": "承欢记",
+      "onboard_time": 1695464073,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152197,
       "num": 152197,
       "word": "程靖淇的爱情好像泡沫",
@@ -15441,14 +15521,6 @@
       "onboard_time": 1695389380,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146983,
-      "num": 146983,
-      "word": "月薪一万能有多难",
-      "onboard_time": 1695461552,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 146929,
@@ -15995,6 +16067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134482,
+      "num": 134482,
+      "word": "关晓彤清唱微微",
+      "onboard_time": 1695463952,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134229,
       "num": 359340,
       "word": "父亲目送儿子入伍泪流满面",
@@ -16188,7 +16268,7 @@
     },
     {
       "raw_hot": 129672,
-      "num": 129672,
+      "num": 554681,
       "word": "绍兴父子拿下一项全国唯一",
       "onboard_time": 1695461134,
       "rank": 43,
@@ -16459,6 +16539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120035,
+      "num": 120035,
+      "word": "魏如萱声音玩具合作舞台病娇感",
+      "onboard_time": 1695462212,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119841,
       "num": 119841,
       "word": "戚薇龙须辫看秀",
@@ -16513,14 +16601,6 @@
       "onboard_time": 1695367895,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116973,
-      "num": 224721,
-      "word": "常吃的果蔬离不开她们的付出",
-      "onboard_time": 1695461191,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116830,
@@ -16633,6 +16713,14 @@
       "onboard_time": 1695018034,
       "rank": 46,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 110143,
+      "num": 110143,
+      "word": "首批新疆大闸蟹1小时卖空",
+      "onboard_time": 1695464132,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109528,
@@ -16929,6 +17017,14 @@
       "onboard_time": 1695351635,
       "rank": 14,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 89145,
+      "num": 489768,
+      "word": "郑州街头花式表白中国",
+      "onboard_time": 1695462152,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89102,

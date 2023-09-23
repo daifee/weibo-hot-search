@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695461621399,
+  "endTime": 1695464165454,
   "band_list": [
     {
       "raw_hot": 2447912,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1733829,
-      "num": 345690,
+      "num": 456476,
       "word": "你能接受男朋友问你借钱吗",
       "onboard_time": 1695458252,
       "rank": 10,
@@ -139,12 +139,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 864586,
+      "num": 448079,
+      "word": "陈飞宇的食量",
+      "onboard_time": 1695461972,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808448,
       "num": 486316,
       "word": "19岁女子被骗缅甸获救时遍体鳞伤",
       "onboard_time": 1695458070,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794120,
+      "num": 794120,
+      "word": "孙颖莎将用英语宣誓",
+      "onboard_time": 1695463651,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 779168,
@@ -169,6 +185,14 @@
       "onboard_time": 1695393337,
       "rank": 3,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 766668,
+      "num": 303933,
+      "word": "月薪一万能有多难",
+      "onboard_time": 1695461552,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 739030,
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619835,
+      "num": 432469,
+      "word": "虞书欣经常给朋友寄衣服",
+      "onboard_time": 1695455791,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609223,
       "num": 609223,
       "word": "李一桐还了魏大勋一箱防晒",
@@ -233,6 +265,14 @@
       "onboard_time": 1695451410,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 582737,
+      "num": 426702,
+      "word": "苹果客服回应首批iPhone15品控问题",
+      "onboard_time": 1695459392,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 580080,
@@ -264,14 +304,6 @@
       "word": "毛不易 一点皮外伤感谢大家关心",
       "onboard_time": 1695430654,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 544097,
-      "num": 361247,
-      "word": "虞书欣经常给朋友寄衣服",
-      "onboard_time": 1695455791,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -331,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 505280,
+      "num": 505280,
+      "word": "张杰 我的面子是我自己冲破的",
+      "onboard_time": 1695460710,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500305,
       "num": 500305,
       "word": "为什么小说写到结婚就完结了",
@@ -344,6 +384,14 @@
       "word": "孙杨不相信杭州是美食荒漠",
       "onboard_time": 1695427594,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 487854,
+      "num": 487854,
+      "word": "樊振东开幕式第二棒火炬手",
+      "onboard_time": 1695461251,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -361,14 +409,6 @@
       "onboard_time": 1695446493,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478294,
-      "num": 322214,
-      "word": "苹果客服回应首批iPhone15品控问题",
-      "onboard_time": 1695459392,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 474499,
@@ -403,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453335,
-      "num": 453335,
+      "raw_hot": 456660,
+      "num": 456660,
       "word": "因做了四年家庭主妇林双找不到工作",
       "onboard_time": 1695459392,
       "rank": 9,
@@ -523,14 +563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398286,
-      "num": 245635,
-      "word": "张杰 我的面子是我自己冲破的",
-      "onboard_time": 1695460710,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 388567,
       "num": 388567,
       "word": "李泽锋这段台词怎么敢说出口的",
@@ -627,12 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338979,
+      "num": 293727,
+      "word": "亚运会主火炬21时28分许点燃",
+      "onboard_time": 1695459392,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338280,
       "num": 338280,
       "word": "张杰加盟东方卫视中秋晚会",
       "onboard_time": 1695450329,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335865,
+      "num": 293120,
+      "word": "一见钟情的对象是前男友",
+      "onboard_time": 1695461612,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 335188,
@@ -649,6 +697,14 @@
       "onboard_time": 1695433896,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327939,
+      "num": 327939,
+      "word": "现在杭州每个角落都腌入味儿了",
+      "onboard_time": 1695457413,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 326104,
@@ -729,14 +785,6 @@
       "onboard_time": 1695374793,
       "rank": 21,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 297131,
-      "num": 244214,
-      "word": "亚运会主火炬21时28分许点燃",
-      "onboard_time": 1695459392,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 287366,
@@ -875,20 +923,20 @@
       "category": "幽默,体育"
     },
     {
-      "raw_hot": 250920,
-      "num": 250920,
-      "word": "现在杭州每个角落都腌入味儿了",
-      "onboard_time": 1695457413,
-      "rank": 30,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 248746,
       "num": 248746,
       "word": "赵露思穿貂",
       "onboard_time": 1695427832,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 247662,
+      "num": 247662,
+      "word": "苏炳添预判亚运会中国田径最少十金",
+      "onboard_time": 1695460353,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 245978,
@@ -915,6 +963,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241669,
+      "num": 241669,
+      "word": "北京一麻辣烫店举办电竞比赛引围观",
+      "onboard_time": 1695462810,
+      "rank": 27,
+      "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 241234,
+      "num": 228045,
+      "word": "采访一下猫中了500万是什么感觉",
+      "onboard_time": 1695463051,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 239622,
       "num": 239622,
       "word": "X玖少年团小分队合体",
@@ -931,12 +995,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 238180,
+      "num": 238180,
+      "word": "男生看到Angelababy的表情",
+      "onboard_time": 1695463291,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236658,
       "num": 236658,
       "word": "吕彦良Blue",
       "onboard_time": 1695439773,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235472,
+      "num": 235472,
+      "word": "博主拆多部iPhone15发现镜头有灰",
+      "onboard_time": 1695461013,
+      "rank": 30,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 231575,
@@ -995,19 +1075,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223584,
+      "num": 704976,
+      "word": "常吃的果蔬离不开她们的付出",
+      "onboard_time": 1695461191,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219827,
       "num": 219827,
       "word": "亚运会",
       "onboard_time": 1695433412,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216624,
-      "num": 216624,
-      "word": "苏炳添预判亚运会中国田径最少十金",
-      "onboard_time": 1695460353,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1017,14 +1097,6 @@
       "onboard_time": 1695448352,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 215544,
-      "num": 215544,
-      "word": "樊振东开幕式第二棒火炬手",
-      "onboard_time": 1695461251,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 215436,
@@ -1097,14 +1169,6 @@
       "onboard_time": 1695399033,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202480,
-      "num": 196963,
-      "word": "博主拆多部iPhone15发现镜头有灰",
-      "onboard_time": 1695461013,
-      "rank": 30,
-      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 201682,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1695426630,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 188882,
+      "num": 188882,
+      "word": "苏炳添的鞋跟不上他的脚",
+      "onboard_time": 1695464012,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 187845,
@@ -1515,6 +1587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152199,
+      "num": 146728,
+      "word": "承欢记",
+      "onboard_time": 1695464073,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151473,
       "num": 151473,
       "word": "为什么iPhone不支持通话录音",
@@ -1529,14 +1609,6 @@
       "onboard_time": 1695427533,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146983,
-      "num": 146983,
-      "word": "月薪一万能有多难",
-      "onboard_time": 1695461552,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 146830,
@@ -1651,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134482,
+      "num": 134482,
+      "word": "关晓彤清唱微微",
+      "onboard_time": 1695463952,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134184,
       "num": 100345,
       "word": "iPhone15ProMax最高加价2800",
@@ -1684,7 +1764,7 @@
     },
     {
       "raw_hot": 129672,
-      "num": 129672,
+      "num": 554681,
       "word": "绍兴父子拿下一项全国唯一",
       "onboard_time": 1695461134,
       "rank": 43,
@@ -1755,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120035,
+      "num": 120035,
+      "word": "魏如萱声音玩具合作舞台病娇感",
+      "onboard_time": 1695462212,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119841,
       "num": 119841,
       "word": "戚薇龙须辫看秀",
@@ -1785,14 +1873,6 @@
       "onboard_time": 1695392917,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 116973,
-      "num": 224721,
-      "word": "常吃的果蔬离不开她们的付出",
-      "onboard_time": 1695461191,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116207,
@@ -1833,6 +1913,14 @@
       "onboard_time": 1695454353,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 110143,
+      "num": 110143,
+      "word": "首批新疆大闸蟹1小时卖空",
+      "onboard_time": 1695464132,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107171,
@@ -1921,6 +2009,14 @@
       "onboard_time": 1695390157,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89145,
+      "num": 489768,
+      "word": "郑州街头花式表白中国",
+      "onboard_time": 1695462152,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89102,

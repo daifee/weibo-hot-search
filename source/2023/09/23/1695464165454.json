@@ -1,0 +1,410 @@
+{
+  "runTime": 1695464165454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 794120,
+        "num": 794120,
+        "word": "孙颖莎将用英语宣誓",
+        "onboard_time": 1695463651,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223584,
+        "num": 704976,
+        "word": "常吃的果蔬离不开她们的付出",
+        "onboard_time": 1695461191,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21355,
+        "num": 677010,
+        "word": "秋分丰收节亚运开幕同一天",
+        "onboard_time": 1695439232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674078,
+        "num": 674078,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95497,
+        "num": 554681,
+        "word": "绍兴父子拿下一项全国唯一",
+        "onboard_time": 1695461134,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505280,
+        "num": 505280,
+        "word": "张杰 我的面子是我自己冲破的",
+        "onboard_time": 1695460710,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89145,
+        "num": 489768,
+        "word": "郑州街头花式表白中国",
+        "onboard_time": 1695462152,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487854,
+        "num": 487854,
+        "word": "樊振东开幕式第二棒火炬手",
+        "onboard_time": 1695461251,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474187,
+        "num": 474187,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 456660,
+        "num": 456660,
+        "word": "因做了四年家庭主妇林双找不到工作",
+        "onboard_time": 1695459392,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1582063,
+        "num": 456476,
+        "word": "你能接受男朋友问你借钱吗",
+        "onboard_time": 1695458252,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 864586,
+        "num": 448079,
+        "word": "陈飞宇的食量",
+        "onboard_time": 1695461972,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663326,
+        "num": 446473,
+        "word": "李在明停止绝食",
+        "onboard_time": 1695446193,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 193061,
+        "num": 440276,
+        "word": "杭州亚运会主火炬点燃方式",
+        "onboard_time": 1695451111,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 619835,
+        "num": 432469,
+        "word": "虞书欣经常给朋友寄衣服",
+        "onboard_time": 1695455791,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582737,
+        "num": 426702,
+        "word": "苹果客服回应首批iPhone15品控问题",
+        "onboard_time": 1695459392,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 426319,
+        "num": 426319,
+        "word": "郑思维孙颖莎将代表运动员宣誓",
+        "onboard_time": 1695458432,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410551,
+        "num": 410551,
+        "word": "来姨妈前的8个征兆",
+        "onboard_time": 1695453934,
+        "rank": 17,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 327939,
+        "num": 327939,
+        "word": "现在杭州每个角落都腌入味儿了",
+        "onboard_time": 1695457413,
+        "rank": 18,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 304751,
+        "num": 304751,
+        "word": "张柏芝 顶级骨相",
+        "onboard_time": 1695442891,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 766668,
+        "num": 303933,
+        "word": "月薪一万能有多难",
+        "onboard_time": 1695461552,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 510596,
+        "num": 297597,
+        "word": "19岁女子被骗缅甸获救时遍体鳞伤",
+        "onboard_time": 1695458070,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338979,
+        "num": 293727,
+        "word": "亚运会主火炬21时28分许点燃",
+        "onboard_time": 1695459392,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335865,
+        "num": 293120,
+        "word": "一见钟情的对象是前男友",
+        "onboard_time": 1695461612,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289972,
+        "num": 289972,
+        "word": "SEVENTEEN新预告用了长城",
+        "onboard_time": 1695453690,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255637,
+        "num": 255637,
+        "word": "蔡依林一眼就认出了花花",
+        "onboard_time": 1695444993,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247662,
+        "num": 247662,
+        "word": "苏炳添预判亚运会中国田径最少十金",
+        "onboard_time": 1695460353,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241669,
+        "num": 241669,
+        "word": "北京一麻辣烫店举办电竞比赛引围观",
+        "onboard_time": 1695462810,
+        "rank": 27,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 238180,
+        "num": 238180,
+        "word": "男生看到Angelababy的表情",
+        "onboard_time": 1695463291,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235472,
+        "num": 235472,
+        "word": "博主拆多部iPhone15发现镜头有灰",
+        "onboard_time": 1695461013,
+        "rank": 29,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 241234,
+        "num": 228045,
+        "word": "采访一下猫中了500万是什么感觉",
+        "onboard_time": 1695463051,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 198910,
+        "num": 198910,
+        "word": "五月天上海",
+        "onboard_time": 1695455911,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188882,
+        "num": 188882,
+        "word": "苏炳添的鞋跟不上他的脚",
+        "onboard_time": 1695464012,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185401,
+        "num": 185401,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166198,
+        "num": 166198,
+        "word": "林俊杰或将录制hi6",
+        "onboard_time": 1695460952,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161248,
+        "num": 161248,
+        "word": "杨紫杀青请粉丝喝饮料",
+        "onboard_time": 1695457653,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147893,
+        "num": 147893,
+        "word": "警方回应网传大同小学生霸凌事件",
+        "onboard_time": 1695446493,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152199,
+        "num": 146728,
+        "word": "承欢记",
+        "onboard_time": 1695464073,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140604,
+        "num": 140604,
+        "word": "周杰伦半岛铁盒2002年现场",
+        "onboard_time": 1695454890,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134482,
+        "num": 134482,
+        "word": "关晓彤清唱微微",
+        "onboard_time": 1695463952,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133219,
+        "num": 133219,
+        "word": "女生称因父母把年龄报大4岁影响就业",
+        "onboard_time": 1695447633,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132250,
+        "num": 132250,
+        "word": "陈漫拍的龚俊",
+        "onboard_time": 1695451593,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128858,
+        "num": 128858,
+        "word": "华晨宇演唱会登中国日报整版",
+        "onboard_time": 1695458070,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126731,
+        "num": 126731,
+        "word": "杭州地铁还是疏忽了",
+        "onboard_time": 1695456331,
+        "rank": 43,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 123745,
+        "num": 123745,
+        "word": "林孝埈500米PEN",
+        "onboard_time": 1695456450,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120035,
+        "num": 120035,
+        "word": "魏如萱声音玩具合作舞台病娇感",
+        "onboard_time": 1695462212,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110143,
+        "num": 110143,
+        "word": "首批新疆大闸蟹1小时卖空",
+        "onboard_time": 1695464132,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107568,
+        "num": 107568,
+        "word": "把大学生活过成了高中",
+        "onboard_time": 1695452672,
+        "rank": 47,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 106107,
+        "num": 106107,
+        "word": "孟非删好友",
+        "onboard_time": 1695442594,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105075,
+        "num": 105075,
+        "word": "亚洲人民都来感受烟雨江南了",
+        "onboard_time": 1695453091,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见亚奥理事会代理主席#"
+    }
+  }
+}
