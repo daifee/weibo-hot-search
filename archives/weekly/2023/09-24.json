@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695486880171,
+  "endTime": 1695489224104,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 686046,
+      "num": 686046,
+      "word": "第一次见有剧情的婚纱照",
+      "onboard_time": 1695484239,
+      "rank": 18,
+      "category": "其它"
+    },
+    {
       "raw_hot": 680975,
       "num": 680975,
       "word": "中国女排无缘直通巴黎",
@@ -97,14 +105,6 @@
       "onboard_time": 1695475781,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 596535,
-      "num": 402419,
-      "word": "第一次见有剧情的婚纱照",
-      "onboard_time": 1695484239,
-      "rank": 18,
-      "category": "其它"
     },
     {
       "raw_hot": 567083,
@@ -171,7 +171,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294601,
+      "raw_hot": 327432,
       "num": 294601,
       "word": "除了金繁还有一个人在默默发疯",
       "onboard_time": 1695486213,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187291,
+      "num": 173195,
+      "word": "赵又廷再用高圆圆威胁秦霄贤",
+      "onboard_time": 1695486871,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184921,
       "num": 184921,
       "word": "英雄联盟队伍亮相",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 180245,
-      "num": 180245,
+      "num": 211272,
       "word": "中国茶上拉花让巴赫直呼舍不得喝",
       "onboard_time": 1695482739,
       "rank": 35,
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142116,
+      "num": 142116,
+      "word": "上官浅这就是你离开宫家过的日子吗",
+      "onboard_time": 1695487649,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141770,
       "num": 141770,
       "word": "数字烟花",
@@ -425,6 +441,30 @@
       "onboard_time": 1695479923,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78779,
+      "num": 78779,
+      "word": "蔡依林成都演唱会",
+      "onboard_time": 1695468393,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 77153,
+      "num": 77153,
+      "word": "好事成双闹别扭的味太对了",
+      "onboard_time": 1695488368,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75620,
+      "num": 75620,
+      "word": "承欢记也信这个玄学了",
+      "onboard_time": 1695467313,
+      "rank": 44,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
