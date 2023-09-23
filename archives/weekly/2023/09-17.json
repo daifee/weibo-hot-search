@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695476044088,
+  "endTime": 1695478419828,
   "band_list": [
     {
       "raw_hot": 9785149,
@@ -67,6 +67,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 3467074,
+      "num": 3467074,
+      "word": "数字火炬手",
+      "onboard_time": 1695477701,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3458254,
       "num": 3458254,
       "word": "李在明绝食第19天健康恶化被送医",
@@ -112,6 +120,14 @@
       "word": "中国台北出场欢呼声响彻全场",
       "onboard_time": 1695474034,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2893123,
+      "num": 2893123,
+      "word": "郭晶晶好美",
+      "onboard_time": 1695475722,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2273263,
+      "num": 2273263,
+      "word": "全场欢呼让巴基斯坦选手震惊了",
+      "onboard_time": 1695473861,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2246936,
       "num": 1710119,
       "word": "偷税漏税再被罚袁冰妍的头到底有多铁",
@@ -465,6 +489,14 @@
       "onboard_time": 1695020374,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2044542,
+      "num": 1151995,
+      "word": "走太慢吉祥物都急了",
+      "onboard_time": 1695475483,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2026016,
@@ -699,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1812972,
-      "num": 1812972,
-      "word": "全场欢呼让巴基斯坦选手震惊了",
-      "onboard_time": 1695473861,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1799225,
       "num": 922356,
       "word": "任正非说不学英文农村孩子永远是农民",
@@ -769,6 +793,14 @@
       "onboard_time": 1694941233,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1750834,
+      "num": 1750834,
+      "word": "数字人点燃主火炬",
+      "onboard_time": 1695478075,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1733829,
@@ -1035,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1425023,
-      "num": 1425023,
-      "word": "郭晶晶好美",
-      "onboard_time": 1695475722,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1415823,
       "num": 954655,
       "word": "韩国是不是满大街都这种发型",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1695181777,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1338195,
+      "num": 1338195,
+      "word": "中国女排1比3多米尼加女排",
+      "onboard_time": 1695476264,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1333071,
@@ -1403,6 +1435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1209304,
+      "num": 1209304,
+      "word": "第六棒火炬手汪顺",
+      "onboard_time": 1695466653,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1208151,
       "num": 808950,
       "word": "原来何猷君也逃不过女儿奴",
@@ -1515,6 +1555,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1153771,
+      "num": 1153771,
+      "word": "叙利亚出场全场欢呼",
+      "onboard_time": 1695475781,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1149590,
+      "num": 1149590,
+      "word": "陆川审美",
+      "onboard_time": 1695472599,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1145357,
       "num": 1145357,
       "word": "警方介入女生称实习被安排为男宾洗澡",
@@ -1585,6 +1641,14 @@
       "onboard_time": 1695090873,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1111686,
+      "num": 1060151,
+      "word": "林俊杰演唱会嘉宾周深",
+      "onboard_time": 1695477701,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 1108912,
@@ -1675,6 +1739,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1057700,
+      "num": 1057700,
+      "word": "樊振东开幕式第二棒火炬手",
+      "onboard_time": 1695461251,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1053642,
       "num": 1053642,
       "word": "高度近视的人不要剧烈运动",
@@ -1763,12 +1835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1022166,
+      "num": 1022166,
+      "word": "主火炬点燃仪式",
+      "onboard_time": 1695478019,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1020454,
       "num": 588727,
       "word": "第一次看见存嫁妆是为了不嫁的",
       "onboard_time": 1695182318,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1018996,
+      "num": 1018996,
+      "word": "找到Meiko啦",
+      "onboard_time": 1695475664,
+      "rank": 27,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 1018310,
@@ -1883,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 977222,
+      "num": 977222,
+      "word": "孙颖莎可爱",
+      "onboard_time": 1695476684,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 977165,
       "num": 977165,
       "word": "赵露思外网生图",
@@ -1979,12 +2075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948787,
+      "num": 948787,
+      "word": "亚运会宣传片男主是董浩然",
+      "onboard_time": 1695477701,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 946251,
       "num": 946251,
       "word": "正确的内衣晾晒方法",
       "onboard_time": 1695393337,
       "rank": 3,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 943105,
+      "num": 943105,
+      "word": "罗雪娟好漂亮",
+      "onboard_time": 1695476387,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 943103,
@@ -2009,14 +2121,6 @@
       "onboard_time": 1695258396,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 935008,
-      "num": 622257,
-      "word": "走太慢吉祥物都急了",
-      "onboard_time": 1695475483,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 932885,
@@ -2251,14 +2355,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 865208,
-      "num": 617690,
-      "word": "陆川审美",
-      "onboard_time": 1695472599,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 862755,
       "num": 862755,
       "word": "张拿铁因东北口音被汪汪队婉拒",
@@ -2377,14 +2473,6 @@
       "onboard_time": 1695110441,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830808,
-      "num": 370753,
-      "word": "叙利亚出场全场欢呼",
-      "onboard_time": 1695475781,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 828968,
@@ -3843,6 +3931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 612473,
+      "num": 612473,
+      "word": "许海峰 教科书上的人",
+      "onboard_time": 1695475967,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 610492,
       "num": 1562520,
       "word": "躲雨的大熊猫已被送往救助站",
@@ -4033,6 +4129,14 @@
       "onboard_time": 1695092855,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 587852,
+      "num": 587852,
+      "word": "亚运会节目单",
+      "onboard_time": 1695476084,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 585650,
@@ -4731,6 +4835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526889,
+      "num": 526889,
+      "word": "王者荣耀选手亮相",
+      "onboard_time": 1695474826,
+      "rank": 26,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 526558,
       "num": 526558,
       "word": "赵露思受邀亮相Versace2024春夏大秀",
@@ -4939,6 +5051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 513808,
+      "num": 513808,
+      "word": "孙颖莎英语紧追马龙",
+      "onboard_time": 1695477408,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 513570,
       "num": 513570,
       "word": "于适 蓝翔系爱豆",
@@ -4985,6 +5105,14 @@
       "onboard_time": 1695297875,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 510335,
+      "num": 510335,
+      "word": "女舞者裙子上都是古建筑",
+      "onboard_time": 1695477108,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 510041,
@@ -5227,14 +5355,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 487854,
-      "num": 487854,
-      "word": "樊振东开幕式第二棒火炬手",
-      "onboard_time": 1695461251,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 487618,
       "num": 436255,
       "word": "于适的26亿福利是开挖掘机",
@@ -5347,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480678,
+      "num": 480678,
+      "word": "李倩",
+      "onboard_time": 1695477764,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480465,
       "num": 339204,
       "word": "原来刷牙是刷牙龈",
@@ -5409,6 +5537,14 @@
       "onboard_time": 1694999078,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 472335,
+      "num": 3069761,
+      "word": "中国队入场全场欢呼",
+      "onboard_time": 1695475542,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 471916,
@@ -5947,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433320,
+      "num": 433320,
+      "word": "郭晶晶执旗霍启刚领队",
+      "onboard_time": 1695478136,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433019,
       "num": 530680,
       "word": "这2项运动不利于孩子生长发育",
@@ -6041,6 +6185,14 @@
       "onboard_time": 1695267036,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427932,
+      "num": 427932,
+      "word": "吴艳妮入场好兴奋",
+      "onboard_time": 1695476565,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 427619,
@@ -6251,6 +6403,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 417691,
+      "num": 417691,
+      "word": "孙颖莎郑思维英文宣誓",
+      "onboard_time": 1695475967,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417661,
       "num": 417661,
       "word": "央视网文娱评流量反噬后的反思",
@@ -6265,14 +6425,6 @@
       "onboard_time": 1695133301,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416575,
-      "num": 416575,
-      "word": "找到Meiko啦",
-      "onboard_time": 1695475664,
-      "rank": 27,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 414714,
@@ -7507,6 +7659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353470,
+      "num": 353470,
+      "word": "英雄联盟队伍亮相",
+      "onboard_time": 1695477640,
+      "rank": 34,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 353166,
       "num": 353166,
       "word": "工作后要不要用两个手机",
@@ -8603,6 +8763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307168,
+      "num": 307168,
+      "word": "中国澳门代表团出场欢呼声超久",
+      "onboard_time": 1695476808,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306891,
       "num": 306891,
       "word": "爱吃排骨和雪梨的都沉默了",
@@ -9137,6 +9305,14 @@
       "onboard_time": 1695348213,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287370,
+      "num": 287370,
+      "word": "IU演唱会跳Rover",
+      "onboard_time": 1695477284,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 287366,
@@ -9691,20 +9867,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 271431,
+      "num": 271431,
+      "word": "蔡依林成都演唱会",
+      "onboard_time": 1695468393,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271419,
       "num": 271419,
       "word": "谭爷爷收花叶姐弟无奈抠脑壳",
       "onboard_time": 1694924858,
       "rank": 32,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 271120,
-      "num": 271120,
-      "word": "孙颖莎郑思维英文宣誓",
-      "onboard_time": 1695475967,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 270733,
@@ -10385,14 +10561,6 @@
       "onboard_time": 1695088595,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 251146,
-      "num": 251146,
-      "word": "蔡依林成都演唱会",
-      "onboard_time": 1695468393,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 250572,
@@ -12379,14 +12547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207664,
-      "num": 207664,
-      "word": "许海峰 教科书上的人",
-      "onboard_time": 1695475967,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207593,
       "num": 206624,
       "word": "没想到因为我的一句抱怨同事丢了工作",
@@ -13147,14 +13307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197120,
-      "num": 2020462,
-      "word": "中国队入场全场欢呼",
-      "onboard_time": 1695475542,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196989,
       "num": 196989,
       "word": "中国女足8分钟两球领先",
@@ -13249,14 +13401,6 @@
       "onboard_time": 1695117158,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 195553,
-      "num": 195553,
-      "word": "第六棒火炬手汪顺",
-      "onboard_time": 1695466653,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 195512,
@@ -17427,6 +17571,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 98380,
+      "num": 1061518,
+      "word": "开幕式总导演揭秘点火创意",
+      "onboard_time": 1695477640,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98277,
       "num": 98277,
       "word": "薛之谦反应慢半拍",
@@ -18025,6 +18177,14 @@
       "onboard_time": 1695189996,
       "rank": 30,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 62739,
+      "num": 311648,
+      "word": "谁说手机不能拍出完美开幕式",
+      "onboard_time": 1695478019,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 62114,
