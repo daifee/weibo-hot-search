@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695504851289,
+  "endTime": 1695507284348,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295276,
+      "num": 295276,
+      "word": "核酸大王张核子进军预制菜",
+      "onboard_time": 1695494778,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279669,
       "num": 279669,
       "word": "最好的男爱豆Smoke cha出现了",
@@ -233,14 +241,6 @@
       "onboard_time": 1695480639,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 219817,
-      "num": 219817,
-      "word": "核酸大王张核子进军预制菜",
-      "onboard_time": 1695494778,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210284,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92323,
+      "num": 74205,
+      "word": "门店称iPhone15用安卓充电线或会烧机",
+      "onboard_time": 1695504915,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78779,
       "num": 78779,
       "word": "蔡依林成都演唱会",
@@ -524,11 +532,27 @@
     },
     {
       "raw_hot": 50949,
-      "num": 27279,
+      "num": 35483,
       "word": "给女朋友点了7斤的饭",
       "onboard_time": 1695497954,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 32352,
+      "num": 32352,
+      "word": "贺铿称现有住房14亿人可能住不完",
+      "onboard_time": 1695505274,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28719,
+      "num": 28719,
+      "word": "看得出来陈牧驰和daddy见面很开心",
+      "onboard_time": 1695503535,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25983,
@@ -539,16 +563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22999,
-      "num": 22999,
-      "word": "看得出来陈牧驰和daddy见面很开心",
-      "onboard_time": 1695503535,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 17973,
-      "num": 22518,
+      "raw_hot": 21416,
+      "num": 23827,
       "word": "陆川审美",
       "onboard_time": 1695472599,
       "rank": 36,
