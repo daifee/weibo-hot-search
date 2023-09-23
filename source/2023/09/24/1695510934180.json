@@ -1,0 +1,410 @@
+{
+  "runTime": 1695510934180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 759970,
+        "num": 759970,
+        "word": "核酸大王张核子进军预制菜",
+        "onboard_time": 1695494778,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582809,
+        "num": 582809,
+        "word": "全场欢呼让巴基斯坦选手震惊了",
+        "onboard_time": 1695473861,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10872,
+        "num": 362607,
+        "word": "五个维度解码杭州亚运会",
+        "onboard_time": 1695456331,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330252,
+        "num": 330252,
+        "word": "李倩",
+        "onboard_time": 1695477764,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315953,
+        "num": 315953,
+        "word": "外国运动员在杭州疯狂买买买",
+        "onboard_time": 1695483519,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217625,
+        "num": 217625,
+        "word": "叙利亚出场全场欢呼",
+        "onboard_time": 1695475781,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210868,
+        "num": 210868,
+        "word": "第一次见有剧情的婚纱照",
+        "onboard_time": 1695484239,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 201992,
+        "num": 201992,
+        "word": "唱歌的四个帅哥是谁",
+        "onboard_time": 1695479261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193835,
+        "num": 193835,
+        "word": "郭晶晶执旗霍启刚领队",
+        "onboard_time": 1695478136,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167930,
+        "num": 167930,
+        "word": "中国台北出场欢呼声响彻全场",
+        "onboard_time": 1695474034,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355241,
+        "num": 167741,
+        "word": "走太慢吉祥物都急了",
+        "onboard_time": 1695475483,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262428,
+        "num": 167602,
+        "word": "除了金繁还有一个人在默默发疯",
+        "onboard_time": 1695486213,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217473,
+        "num": 167521,
+        "word": "门店称iPhone15用安卓充电线或会烧机",
+        "onboard_time": 1695504915,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91591,
+        "num": 167311,
+        "word": "中国茶上拉花让巴赫直呼舍不得喝",
+        "onboard_time": 1695482739,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 77488,
+        "num": 166945,
+        "word": "亚运开幕式",
+        "onboard_time": 1695469652,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183788,
+        "num": 166757,
+        "word": "黄景瑜回复张婧仪",
+        "onboard_time": 1695480344,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172655,
+        "num": 166572,
+        "word": "SEVENTEEN经纪公司道歉",
+        "onboard_time": 1695485434,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166512,
+        "num": 166512,
+        "word": "苏炳添臀围小了8公分",
+        "onboard_time": 1695481962,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152446,
+        "num": 152446,
+        "word": "张志磊KO乔伊斯",
+        "onboard_time": 1695510380,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110823,
+        "num": 110823,
+        "word": "亚运会宣传片男主是董浩然",
+        "onboard_time": 1695477701,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 930671,
+        "num": 108538,
+        "word": "官方通报小学生遭同学极端欺辱",
+        "onboard_time": 1695483339,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212313,
+        "num": 107323,
+        "word": "香港俩5旬兄弟在母亲住院后疑被饿死",
+        "onboard_time": 1695483636,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101005,
+        "num": 101005,
+        "word": "中国女排无缘直通巴黎",
+        "onboard_time": 1695481061,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94414,
+        "num": 94414,
+        "word": "房东的猫好妹妹终于同台了",
+        "onboard_time": 1695481304,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84256,
+        "num": 84256,
+        "word": "浙江男篮61分惨败",
+        "onboard_time": 1695510321,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82594,
+        "num": 82594,
+        "word": "给女朋友点了7斤的饭",
+        "onboard_time": 1695497954,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77034,
+        "num": 77034,
+        "word": "贺铿称现有住房14亿人可能住不完",
+        "onboard_time": 1695505274,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76499,
+        "num": 76499,
+        "word": "易烊千玺个人网站将亮相数字设计展",
+        "onboard_time": 1695481238,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76446,
+        "num": 76446,
+        "word": "杨幂这一帧真的好美",
+        "onboard_time": 1695481238,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68551,
+        "num": 68551,
+        "word": "赵又廷再用高圆圆威胁秦霄贤",
+        "onboard_time": 1695486871,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88378,
+        "num": 68421,
+        "word": "穿着100多斤的青绿山水裙跳舞是什么感觉",
+        "onboard_time": 1695510261,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84160,
+        "num": 68378,
+        "word": "郭晶晶雨中骑行夸赞西湖诗意美",
+        "onboard_time": 1695509540,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68202,
+        "num": 68202,
+        "word": "今夜钱塘江边人山人海",
+        "onboard_time": 1695479380,
+        "rank": 32,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 67483,
+        "num": 67483,
+        "word": "林俊杰演唱会嘉宾周深",
+        "onboard_time": 1695477701,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66704,
+        "num": 66704,
+        "word": "董宇辉去周杰伦演唱会圆青春的梦",
+        "onboard_time": 1695480639,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65670,
+        "num": 65670,
+        "word": "郭晶晶好美",
+        "onboard_time": 1695475722,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63889,
+        "num": 63889,
+        "word": "傅云深活该有女朋友",
+        "onboard_time": 1695508157,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59878,
+        "num": 59878,
+        "word": "我爱你中国",
+        "onboard_time": 1695471215,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59230,
+        "num": 59230,
+        "word": "承欢记也信这个玄学了",
+        "onboard_time": 1695467313,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58414,
+        "num": 58414,
+        "word": "杨紫吴彦姝合照",
+        "onboard_time": 1695470915,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56380,
+        "num": 56380,
+        "word": "绍兴的毛毯裹住了摩洛哥震区的孩子",
+        "onboard_time": 1695510442,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56263,
+        "num": 56263,
+        "word": "伍佰苏州这届带不动呀",
+        "onboard_time": 1695485854,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50914,
+        "num": 50914,
+        "word": "李盈莹称两连败主要是心态问题",
+        "onboard_time": 1695491241,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50340,
+        "num": 50340,
+        "word": "伯恩利0比1曼联",
+        "onboard_time": 1695510862,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49560,
+        "num": 49560,
+        "word": "英雄联盟队伍亮相",
+        "onboard_time": 1695477640,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 42464,
+        "num": 49557,
+        "word": "特工任务国安人员追击间谍被撞飞",
+        "onboard_time": 1695481419,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41601,
+        "num": 49556,
+        "word": "李荣浩回应被粉丝说大眼男神",
+        "onboard_time": 1695484239,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41546,
+        "num": 49550,
+        "word": "全世界找一诺",
+        "onboard_time": 1695478907,
+        "rank": 47,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 39270,
+        "num": 49545,
+        "word": "有职业空窗期再就业有多难",
+        "onboard_time": 1695466771,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36735,
+        "num": 49541,
+        "word": "看开幕式想哭",
+        "onboard_time": 1695471634,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席亚运会开幕式#"
+    }
+  }
+}
