@@ -1,7 +1,15 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695447234168,
+  "endTime": 1695450030553,
   "band_list": [
+    {
+      "raw_hot": 2447912,
+      "num": 2447912,
+      "word": "李在明停止绝食",
+      "onboard_time": 1695446193,
+      "rank": 10,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 2330336,
       "num": 2330336,
@@ -59,8 +67,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1270493,
-      "num": 1270493,
+      "raw_hot": 1305936,
+      "num": 1305936,
       "word": "蔡依林一眼就认出了花花",
       "onboard_time": 1695444993,
       "rank": 6,
@@ -81,14 +89,6 @@
       "onboard_time": 1695442891,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1178758,
-      "num": 489433,
-      "word": "李在明停止绝食",
-      "onboard_time": 1695446193,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1021706,
@@ -129,6 +129,14 @@
       "onboard_time": 1695386135,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 775662,
+      "num": 775662,
+      "word": "女生称因父母把年龄报大4岁影响就业",
+      "onboard_time": 1695447633,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 768866,
@@ -267,6 +275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481580,
+      "num": 481580,
+      "word": "警方回应网传大同小学生霸凌事件",
+      "onboard_time": 1695446493,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474499,
+      "num": 474499,
+      "word": "杨紫许凯承欢记杀青",
+      "onboard_time": 1695448412,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466867,
       "num": 466867,
       "word": "一盒月饼走遍所有人情",
@@ -321,6 +345,14 @@
       "onboard_time": 1695434254,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 409718,
+      "num": 409718,
+      "word": "原来香港超市门口还有停狗处",
+      "onboard_time": 1695447931,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 409010,
@@ -491,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300410,
+      "num": 300410,
+      "word": "檀健次拍广告第三视角视频",
+      "onboard_time": 1695449553,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297917,
       "num": 263453,
       "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
       "onboard_time": 1695374793,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 292553,
+      "num": 292553,
+      "word": "男子背几十杯冰柠檬水到沙漠山顶卖",
+      "onboard_time": 1695448709,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287366,
@@ -521,6 +569,14 @@
       "onboard_time": 1695424825,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270428,
+      "num": 270428,
+      "word": "帆帆 云婚礼",
+      "onboard_time": 1695447452,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 268149,
@@ -601,14 +657,6 @@
       "onboard_time": 1695441033,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 256136,
-      "num": 288218,
-      "word": "警方回应网传大同小学生霸凌事件",
-      "onboard_time": 1695446493,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252681,
@@ -705,6 +753,14 @@
       "onboard_time": 1695433412,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216067,
+      "num": 216067,
+      "word": "苏大法学专业学生起诉上海迪士尼",
+      "onboard_time": 1695448352,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 215436,
@@ -891,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185264,
+      "num": 185264,
+      "word": "黄轩用最温柔的语气说最狠的台词",
+      "onboard_time": 1695449131,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184801,
       "num": 184801,
       "word": "一盘凉拌黄瓜160的餐厅",
@@ -929,6 +993,14 @@
       "onboard_time": 1695446611,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 177716,
+      "num": 177716,
+      "word": "于适走戏眼球被剑戳到",
+      "onboard_time": 1695447992,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 177154,
@@ -971,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171815,
+      "num": 171815,
+      "word": "丁程鑫说娜扎姐我来了",
+      "onboard_time": 1695447513,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168407,
       "num": 168407,
       "word": "丞磊卢昱晓心动名场面排序",
@@ -985,6 +1065,14 @@
       "onboard_time": 1695423863,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167870,
+      "num": 167870,
+      "word": "封神第一部延长上映至11月19日",
+      "onboard_time": 1695448111,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 162605,
@@ -1099,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141566,
+      "num": 141566,
+      "word": "伍佰演唱会",
+      "onboard_time": 1695448772,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141536,
       "num": 141536,
       "word": "道诡异仙影视化",
@@ -1137,6 +1233,14 @@
       "onboard_time": 1695383432,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138444,
+      "num": 138444,
+      "word": "张老板是王丽坤",
+      "onboard_time": 1695449972,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 138339,
@@ -1179,12 +1283,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133946,
+      "num": 133946,
+      "word": "种地吧官微更名",
+      "onboard_time": 1695449791,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132700,
       "num": 132700,
       "word": "原来运动员的房间长这样",
       "onboard_time": 1695429754,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132532,
+      "num": 132532,
+      "word": "网红黄油蟹一只2000元",
+      "onboard_time": 1695449791,
+      "rank": 46,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 130994,
@@ -1225,6 +1345,14 @@
       "onboard_time": 1695438633,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124933,
+      "num": 124933,
+      "word": "没点本事还真做不成生意",
+      "onboard_time": 1695449311,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 123440,
@@ -1524,7 +1652,7 @@
     },
     {
       "raw_hot": 37996,
-      "num": 213612,
+      "num": 458844,
       "word": "那些手机镜头下的亚运会故事",
       "onboard_time": 1695446674,
       "rank": 33,

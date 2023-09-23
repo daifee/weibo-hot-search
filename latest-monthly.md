@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/23 13:33:54
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/23 14:20:30
 </p>
 </blockquote>
 <p>
@@ -947,6 +947,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23" target="weibo">
 你会花4300元买一支口红吗（热度：2451513）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%81%9C%E6%AD%A2%E7%BB%9D%E9%A3%9F%23" target="weibo">
+李在明停止绝食（热度：2447912）
 </a>
 </li>
 
@@ -3585,6 +3591,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%AE%A4%E5%87%BA%E4%BA%86%E8%8A%B1%E8%8A%B1%23" target="weibo">
+蔡依林一眼就认出了花花（热度：1305936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%205G%E8%A7%92%E6%A0%87%23" target="weibo">
 苹果 5G角标（热度：1302099）
 </a>
@@ -3671,12 +3683,6 @@ DFBOYS（热度：1371735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%20%E6%B2%99%E7%89%B9%23" target="weibo">
 花少5 沙特（热度：1271160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%AE%A4%E5%87%BA%E4%BA%86%E8%8A%B1%E8%8A%B1%23" target="weibo">
-蔡依林一眼就认出了花花（热度：1270493）
 </a>
 </li>
 
@@ -4109,12 +4115,6 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0%23" target="weibo">
 女顾客被优衣库工作人员掐脖子拖回收银台（热度：1178933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%81%9C%E6%AD%A2%E7%BB%9D%E9%A3%9F%23" target="weibo">
-李在明停止绝食（热度：1178758）
 </a>
 </li>
 
