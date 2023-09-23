@@ -1,0 +1,410 @@
+{
+  "runTime": 1695432538287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1829319,
+        "num": 1829319,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1823432,
+        "num": 1823432,
+        "word": "李雪琴内耗好严重",
+        "onboard_time": 1695429156,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47648,
+        "num": 1572791,
+        "word": "丰收连连看",
+        "onboard_time": 1695430894,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406923,
+        "num": 1406923,
+        "word": "张雨绮的内搭是一根领带",
+        "onboard_time": 1695430654,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 683345,
+        "num": 683345,
+        "word": "21岁专科毕业生拒绝当副教授",
+        "onboard_time": 1695426989,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1082616,
+        "num": 636922,
+        "word": "贪官8年内向女儿转移现金近2千万",
+        "onboard_time": 1695425427,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550245,
+        "num": 550245,
+        "word": "毛不易 一点皮外伤感谢大家关心",
+        "onboard_time": 1695430654,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494026,
+        "num": 494026,
+        "word": "为什么小说写到结婚就完结了",
+        "onboard_time": 1695425968,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 492051,
+        "num": 492051,
+        "word": "孙杨不相信杭州是美食荒漠",
+        "onboard_time": 1695427594,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283358,
+        "num": 489411,
+        "word": "亚运遇秋分",
+        "onboard_time": 1695425968,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 711046,
+        "num": 466683,
+        "word": "官方通报男子赤身裸体趴在6楼外",
+        "onboard_time": 1695430596,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644291,
+        "num": 434066,
+        "word": "台湾的卫生巾真的长这样吗",
+        "onboard_time": 1695394776,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178012,
+        "num": 427878,
+        "word": "杭州第19届亚运会今日开幕",
+        "onboard_time": 1695424403,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 82993,
+        "num": 404169,
+        "word": "杭州亚运会先导片",
+        "onboard_time": 1695429213,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56172,
+        "num": 385537,
+        "word": "被亚运会的气氛燃到了",
+        "onboard_time": 1695389978,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375607,
+        "num": 375607,
+        "word": "边缘性行为为什么是边缘的",
+        "onboard_time": 1695384934,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338854,
+        "num": 338854,
+        "word": "熬夜伤身那熬夜健身呢",
+        "onboard_time": 1695425306,
+        "rank": 16,
+        "category": "知识科普,运动健身"
+      },
+      {
+        "raw_hot": 322268,
+        "num": 322268,
+        "word": "蜜雪冰城又出新品了",
+        "onboard_time": 1695425790,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278652,
+        "num": 278652,
+        "word": "不敢想象大鹏现在有多积极阳光",
+        "onboard_time": 1695428612,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273997,
+        "num": 273997,
+        "word": "没想到整个小区都买了活力28",
+        "onboard_time": 1695426149,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404829,
+        "num": 273456,
+        "word": "阿姨从女澡堂扫了一把头发",
+        "onboard_time": 1695425365,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326104,
+        "num": 272862,
+        "word": "种地吧",
+        "onboard_time": 1695432093,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305050,
+        "num": 272715,
+        "word": "中国人为什么越来越胖了",
+        "onboard_time": 1695430415,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271978,
+        "num": 271978,
+        "word": "黄子诚销号退网",
+        "onboard_time": 1695427953,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258902,
+        "num": 258902,
+        "word": "丈夫失业后沉默包揽家务引妻子心疼",
+        "onboard_time": 1695425790,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248746,
+        "num": 248746,
+        "word": "赵露思穿貂",
+        "onboard_time": 1695427832,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244047,
+        "num": 244047,
+        "word": "时代少年团全员成年",
+        "onboard_time": 1695424825,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242050,
+        "num": 242050,
+        "word": "未来婆婆说给买一千块钱的三金",
+        "onboard_time": 1695391056,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232449,
+        "num": 232449,
+        "word": "12306回应乘客抱娃在座位上大便",
+        "onboard_time": 1695431974,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219868,
+        "num": 219868,
+        "word": "李泽锋这段台词怎么敢说出口的",
+        "onboard_time": 1695395737,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202208,
+        "num": 202208,
+        "word": "秋分",
+        "onboard_time": 1695424643,
+        "rank": 30,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 201682,
+        "num": 201682,
+        "word": "沈梦辰芭比粉看秀造型",
+        "onboard_time": 1695431375,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200409,
+        "num": 200409,
+        "word": "异人之下小孩上桌",
+        "onboard_time": 1695431853,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199074,
+        "num": 199074,
+        "word": "斑有可能是你吃出来的",
+        "onboard_time": 1695428312,
+        "rank": 33,
+        "category": "知识科普,美食"
+      },
+      {
+        "raw_hot": 195799,
+        "num": 195799,
+        "word": "黄景瑜从宿舍中走来",
+        "onboard_time": 1695432093,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177154,
+        "num": 177154,
+        "word": "成毅禁不住一点撩",
+        "onboard_time": 1695429213,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171664,
+        "num": 171664,
+        "word": "把学历改成高中后收到几十个面试",
+        "onboard_time": 1695380733,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156834,
+        "num": 156834,
+        "word": "和肖战一起为中国队加油",
+        "onboard_time": 1695426630,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151565,
+        "num": 151565,
+        "word": "一盘凉拌黄瓜160的餐厅",
+        "onboard_time": 1695426027,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145693,
+        "num": 145693,
+        "word": "2023年终于从你们口中再次听到团名了",
+        "onboard_time": 1695427651,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140564,
+        "num": 140564,
+        "word": "十个勤天丰收节直播",
+        "onboard_time": 1695431974,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138339,
+        "num": 138339,
+        "word": "女排",
+        "onboard_time": 1695432214,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131162,
+        "num": 131162,
+        "word": "正确的内衣晾晒方法",
+        "onboard_time": 1695393337,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 128590,
+        "num": 128590,
+        "word": "X玖少年团小分队合体",
+        "onboard_time": 1695393576,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124924,
+        "num": 124924,
+        "word": "陈学冬车祸后第三次手术结束",
+        "onboard_time": 1695380671,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124262,
+        "num": 124262,
+        "word": "孟宴臣孟钰连线开黑了",
+        "onboard_time": 1695427533,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122136,
+        "num": 122136,
+        "word": "夫妻备孕两年无子竟因男方儿时患过腮腺炎",
+        "onboard_time": 1695374793,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "NBL",
+        "onboard_time": 1695431853,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115703,
+        "num": 115703,
+        "word": "林陆骁南初能不能多亲几秒",
+        "onboard_time": 1695426812,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109993,
+        "num": 109993,
+        "word": "黄子诚涉及间谍行为提出自首",
+        "onboard_time": 1695386135,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
