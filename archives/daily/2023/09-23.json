@@ -1,6 +1,6 @@
 {
   "startTime": 1695399718514,
-  "endTime": 1695442743887,
+  "endTime": 1695443655096,
   "band_list": [
     {
       "raw_hot": 2330336,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1899379,
-      "num": 400039,
+      "num": 558469,
       "word": "于适忘删文案前缀",
       "onboard_time": 1695440613,
       "rank": 10,
@@ -32,6 +32,14 @@
       "word": "李雪琴内耗好严重",
       "onboard_time": 1695429156,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1569849,
+      "num": 1569849,
+      "word": "孟非删好友",
+      "onboard_time": 1695442594,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -115,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 737323,
-      "num": 378799,
-      "word": "孟非删好友",
-      "onboard_time": 1695442594,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 693886,
+      "num": 693886,
+      "word": "迪丽热巴去了沙特音乐节",
+      "onboard_time": 1695441693,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 666324,
@@ -147,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561601,
-      "num": 561601,
+      "raw_hot": 609223,
+      "num": 609223,
       "word": "李一桐还了魏大勋一箱防晒",
       "onboard_time": 1695440372,
       "rank": 5,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 534642,
-      "num": 534642,
+      "num": 601275,
       "word": "小黑计算机二级",
       "onboard_time": 1695438392,
       "rank": 22,
@@ -185,14 +193,6 @@
       "onboard_time": 1695423863,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 518752,
-      "num": 518752,
-      "word": "迪丽热巴去了沙特音乐节",
-      "onboard_time": 1695441693,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 516833,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409010,
+      "num": 409010,
+      "word": "沈梦辰的衣服到底什么颜色",
+      "onboard_time": 1695438033,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403704,
       "num": 403704,
       "word": "焕羽官宣阵容",
@@ -291,20 +299,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 374383,
-      "num": 374383,
-      "word": "沈梦辰的衣服到底什么颜色",
-      "onboard_time": 1695438033,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369400,
       "num": 369400,
       "word": "蜜雪冰城又出新品了",
       "onboard_time": 1695425790,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 368472,
+      "num": 368472,
+      "word": "张柏芝 顶级骨相",
+      "onboard_time": 1695442891,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357888,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 283358,
-      "num": 489411,
+      "num": 521750,
       "word": "亚运遇秋分",
       "onboard_time": 1695425968,
       "rank": 9,
@@ -433,6 +441,14 @@
       "onboard_time": 1695424825,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273631,
+      "num": 273631,
+      "word": "苹果追加iPhone15ProMax订单",
+      "onboard_time": 1695441634,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 268149,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265901,
+      "num": 265901,
+      "word": "于适风度十月刊",
+      "onboard_time": 1695442953,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 264693,
       "num": 264693,
       "word": "异人之下小孩上桌",
@@ -475,6 +499,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 262650,
+      "num": 262650,
+      "word": "丁程鑫防走光意识",
+      "onboard_time": 1695443553,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258902,
       "num": 258902,
       "word": "丈夫失业后沉默包揽家务引妻子心疼",
@@ -484,19 +516,19 @@
     },
     {
       "raw_hot": 256403,
-      "num": 190051,
+      "num": 194965,
       "word": "大爷 高低得让你在我这消费一下",
       "onboard_time": 1695441033,
       "rank": 30,
       "category": "幽默"
     },
     {
-      "raw_hot": 254161,
-      "num": 254161,
-      "word": "苹果追加iPhone15ProMax订单",
-      "onboard_time": 1695441634,
-      "rank": 22,
-      "category": "数码"
+      "raw_hot": 253296,
+      "num": 253296,
+      "word": "盗版小说里男主身高被压缩了",
+      "onboard_time": 1695443313,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 252681,
@@ -627,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "为什么当代人都爱逛展",
+      "onboard_time": 1695442355,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202809,
       "num": 219013,
       "word": "哇唧唧哇出去玩大合唱",
@@ -643,20 +683,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 199650,
-      "num": 199650,
-      "word": "为什么当代人都爱逛展",
-      "onboard_time": 1695442355,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199339,
       "num": 199339,
       "word": "赵又廷评论毛晓彤",
       "onboard_time": 1695440193,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199145,
+      "num": 199145,
+      "word": "张婧仪周翊然合作新剧",
+      "onboard_time": 1695442953,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 197815,
@@ -756,7 +796,7 @@
     },
     {
       "raw_hot": 181185,
-      "num": 427878,
+      "num": 546453,
       "word": "杭州第19届亚运会今日开幕",
       "onboard_time": 1695424403,
       "rank": 43,
@@ -769,6 +809,14 @@
       "onboard_time": 1695365912,
       "rank": 25,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 179272,
+      "num": 179272,
+      "word": "保安被扇耳光后将女子猛摔在地",
+      "onboard_time": 1695442772,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177154,
@@ -872,6 +920,14 @@
       "word": "夜色尚浅有自己的产粮大佬",
       "onboard_time": 1695436954,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153014,
+      "num": 153014,
+      "word": "张小斐在都市剧里渡劫",
+      "onboard_time": 1695442891,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1243,8 +1299,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70666,
+      "num": 499930,
+      "word": "杨紫琼状态",
+      "onboard_time": 1695441634,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70464,
-      "num": 825990,
+      "num": 912138,
       "word": "秋分丰收节亚运开幕同一天",
       "onboard_time": 1695439232,
       "rank": 2,
@@ -1283,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53123,
+      "num": 519137,
+      "word": "小孩高烧抽搐家长求助铁骑开道送医",
+      "onboard_time": 1695443133,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49871,
       "num": 376981,
       "word": "饿了么请农民乐队担任秋分时令官",
@@ -1299,16 +1371,8 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 44446,
-      "num": 383358,
-      "word": "杨紫琼状态",
-      "onboard_time": 1695441634,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39365,
-      "num": 192194,
+      "num": 195417,
       "word": "杭州接力广州",
       "onboard_time": 1695441331,
       "rank": 29,
