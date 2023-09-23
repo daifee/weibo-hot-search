@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695440038616,
+  "endTime": 1695442743887,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2481,6 +2481,14 @@
       "onboard_time": 1694516200,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1899379,
+      "num": 400039,
+      "word": "于适忘删文案前缀",
+      "onboard_time": 1695440613,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1896762,
@@ -10379,6 +10387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737323,
+      "num": 378799,
+      "word": "孟非删好友",
+      "onboard_time": 1695442594,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737142,
       "num": 595816,
       "word": "岸田文雄连续2天吃福岛海鲜遭网暴",
@@ -13171,6 +13187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 621879,
+      "num": 338186,
+      "word": "未婚女子夜跑被狗咬伤隐私部位",
+      "onboard_time": 1695440671,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621724,
       "num": 621724,
       "word": "日本6分钟两次4级以上地震",
@@ -15043,6 +15067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 561601,
+      "num": 561601,
+      "word": "李一桐还了魏大勋一箱防晒",
+      "onboard_time": 1695440372,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560570,
       "num": 560570,
       "word": "小伙一天走3万步吃10顿饭胖了30斤",
@@ -16745,6 +16777,14 @@
       "onboard_time": 1694478699,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518752,
+      "num": 518752,
+      "word": "迪丽热巴去了沙特音乐节",
+      "onboard_time": 1695441693,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 518589,
@@ -23777,6 +23817,14 @@
       "onboard_time": 1695298715,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374383,
+      "num": 374383,
+      "word": "沈梦辰的衣服到底什么颜色",
+      "onboard_time": 1695438033,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 374271,
@@ -31811,14 +31859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274290,
-      "num": 274290,
-      "word": "沈梦辰的衣服到底什么颜色",
-      "onboard_time": 1695438033,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274236,
       "num": 274236,
       "word": "王霏霏黄仁俊钟辰乐跳了热烈",
@@ -33835,6 +33875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256403,
+      "num": 190051,
+      "word": "大爷 高低得让你在我这消费一下",
+      "onboard_time": 1695441033,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256325,
       "num": 238321,
       "word": "第八个嫌疑人 真不像演的",
@@ -33977,6 +34025,14 @@
       "onboard_time": 1693613733,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254161,
+      "num": 254161,
+      "word": "苹果追加iPhone15ProMax订单",
+      "onboard_time": 1695441634,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 254103,
@@ -42171,6 +42227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199650,
+      "num": 199650,
+      "word": "为什么当代人都爱逛展",
+      "onboard_time": 1695442355,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199616,
       "num": 199616,
       "word": "女子反应过人秒按停自动扶梯救人",
@@ -42233,6 +42297,14 @@
       "onboard_time": 1695194799,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199339,
+      "num": 199339,
+      "word": "赵又廷评论毛晓彤",
+      "onboard_time": 1695440193,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 199221,
@@ -45411,6 +45483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185884,
+      "num": 185884,
+      "word": "种地吧 光明网",
+      "onboard_time": 1695441275,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185831,
       "num": 185831,
       "word": "封神演员生活照合集",
@@ -47417,6 +47497,14 @@
       "onboard_time": 1694052513,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174489,
+      "num": 174489,
+      "word": "于适的一天是不是有48个小时",
+      "onboard_time": 1695441992,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 174482,
@@ -53155,6 +53243,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 130994,
+      "num": 130994,
+      "word": "很羡慕金繁的精神状态",
+      "onboard_time": 1695441573,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130988,
       "num": 130988,
       "word": "时代少年团为贺峻霖新综艺打call",
@@ -53481,6 +53577,14 @@
       "onboard_time": 1695060078,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127181,
+      "num": 127181,
+      "word": "IVE主打曲预告公开",
+      "onboard_time": 1695440133,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 127164,
@@ -57427,6 +57531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44446,
+      "num": 383358,
+      "word": "杨紫琼状态",
+      "onboard_time": 1695441634,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44423,
       "num": 44423,
       "word": "妹妹给离家的姐姐塞了小纸条",
@@ -57713,6 +57825,14 @@
       "onboard_time": 1693506917,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39365,
+      "num": 192194,
+      "word": "杭州接力广州",
+      "onboard_time": 1695441331,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 39276,

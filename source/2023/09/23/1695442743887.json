@@ -1,0 +1,410 @@
+{
+  "runTime": 1695442743887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313029,
+        "num": 1313029,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 872957,
+        "num": 872957,
+        "word": "李雪琴内耗好严重",
+        "onboard_time": 1695429156,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59423,
+        "num": 713107,
+        "word": "秋分丰收节亚运开幕同一天",
+        "onboard_time": 1695439232,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1888099,
+        "num": 712549,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 583566,
+        "num": 583566,
+        "word": "张雨绮的内搭是一根领带",
+        "onboard_time": 1695430654,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 561601,
+        "num": 561601,
+        "word": "李一桐还了魏大勋一箱防晒",
+        "onboard_time": 1695440372,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545009,
+        "num": 545009,
+        "word": "赵露思外网生图",
+        "onboard_time": 1695434493,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 518752,
+        "num": 518752,
+        "word": "迪丽热巴去了沙特音乐节",
+        "onboard_time": 1695441693,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510150,
+        "num": 510150,
+        "word": "官方通报男子赤身裸体趴在6楼外",
+        "onboard_time": 1695430596,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401843,
+        "num": 401843,
+        "word": "小黑计算机二级",
+        "onboard_time": 1695438392,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1899379,
+        "num": 400039,
+        "word": "于适忘删文案前缀",
+        "onboard_time": 1695440613,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262022,
+        "num": 395329,
+        "word": "关系户承包学校食堂比预制菜更可恨",
+        "onboard_time": 1695433896,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179565,
+        "num": 391906,
+        "word": "杭州第19届亚运会今日开幕",
+        "onboard_time": 1695424403,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 149074,
+        "num": 386618,
+        "word": "亚运遇秋分",
+        "onboard_time": 1695425968,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 44446,
+        "num": 383358,
+        "word": "杨紫琼状态",
+        "onboard_time": 1695441634,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737323,
+        "num": 378799,
+        "word": "孟非删好友",
+        "onboard_time": 1695442594,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514769,
+        "num": 377127,
+        "word": "贪官8年内向女儿转移现金近2千万",
+        "onboard_time": 1695425427,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374383,
+        "num": 374383,
+        "word": "沈梦辰的衣服到底什么颜色",
+        "onboard_time": 1695438033,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374145,
+        "num": 374145,
+        "word": "你好星期六全员emoji暗号",
+        "onboard_time": 1695435635,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341487,
+        "num": 341487,
+        "word": "21岁专科毕业生拒绝当副教授",
+        "onboard_time": 1695426989,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 621879,
+        "num": 338186,
+        "word": "未婚女子夜跑被狗咬伤隐私部位",
+        "onboard_time": 1695440671,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333181,
+        "num": 333181,
+        "word": "继承者们当年的视觉盛宴",
+        "onboard_time": 1695434254,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254161,
+        "num": 254161,
+        "word": "苹果追加iPhone15ProMax订单",
+        "onboard_time": 1695441634,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243917,
+        "num": 243917,
+        "word": "一个月不吃晚饭竟然瘦了10斤",
+        "onboard_time": 1695434315,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242964,
+        "num": 242964,
+        "word": "焕羽官宣阵容",
+        "onboard_time": 1695435813,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227904,
+        "num": 227904,
+        "word": "台湾的卫生巾真的长这样吗",
+        "onboard_time": 1695394776,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223046,
+        "num": 223046,
+        "word": "阿姨从女澡堂扫了一把头发",
+        "onboard_time": 1695425365,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199650,
+        "num": 199650,
+        "word": "为什么当代人都爱逛展",
+        "onboard_time": 1695442355,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199339,
+        "num": 199339,
+        "word": "赵又廷评论毛晓彤",
+        "onboard_time": 1695440193,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39365,
+        "num": 192194,
+        "word": "杭州接力广州",
+        "onboard_time": 1695441331,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256403,
+        "num": 190051,
+        "word": "大爷 高低得让你在我这消费一下",
+        "onboard_time": 1695441033,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185884,
+        "num": 185884,
+        "word": "种地吧 光明网",
+        "onboard_time": 1695441275,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178703,
+        "num": 178703,
+        "word": "一盒月饼走遍所有人情",
+        "onboard_time": 1695432935,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174489,
+        "num": 174489,
+        "word": "于适的一天是不是有48个小时",
+        "onboard_time": 1695441992,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170296,
+        "num": 170296,
+        "word": "丈夫失业后沉默包揽家务引妻子心疼",
+        "onboard_time": 1695425790,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158274,
+        "num": 158274,
+        "word": "种地吧",
+        "onboard_time": 1695432093,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150544,
+        "num": 150544,
+        "word": "邓超 最近歌单加一首大梦",
+        "onboard_time": 1695438810,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149400,
+        "num": 149400,
+        "word": "为啥上班时间地铁上好多年轻人",
+        "onboard_time": 1695435932,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145392,
+        "num": 145392,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137696,
+        "num": 137696,
+        "word": "徐睿知侧颜",
+        "onboard_time": 1695435573,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130994,
+        "num": 130994,
+        "word": "很羡慕金繁的精神状态",
+        "onboard_time": 1695441573,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129918,
+        "num": 129918,
+        "word": "毛不易 一点皮外伤感谢大家关心",
+        "onboard_time": 1695430654,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127181,
+        "num": 127181,
+        "word": "IVE主打曲预告公开",
+        "onboard_time": 1695440133,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127084,
+        "num": 127084,
+        "word": "吕彦良Blue",
+        "onboard_time": 1695439773,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125974,
+        "num": 125974,
+        "word": "12306回应乘客抱娃在座位上大便",
+        "onboard_time": 1695431974,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123523,
+        "num": 123523,
+        "word": "中国人为什么越来越胖了",
+        "onboard_time": 1695430415,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121791,
+        "num": 121791,
+        "word": "时代少年团全员成年",
+        "onboard_time": 1695424825,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116266,
+        "num": 116266,
+        "word": "毛晓彤玛丽猫",
+        "onboard_time": 1695436653,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103468,
+        "num": 116266,
+        "word": "夜色尚浅有自己的产粮大佬",
+        "onboard_time": 1695436954,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100288,
+        "num": 116259,
+        "word": "道诡异仙影视化",
+        "onboard_time": 1695436892,
+        "rank": 49,
+        "category": "剧集,读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见亚奥理事会代理主席#"
+    }
+  }
+}
