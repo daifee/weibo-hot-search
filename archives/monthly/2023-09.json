@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695493193764,
+  "endTime": 1695494041421,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -59523,6 +59523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 44150,
+      "num": 47779,
+      "word": "巴黎偶遇张凌赫",
+      "onboard_time": 1695492918,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43847,
       "num": 1774850,
       "word": "感受2023服贸会风采",
@@ -59945,14 +59953,6 @@
       "onboard_time": 1693765877,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 36168,
-      "num": 47779,
-      "word": "巴黎偶遇张凌赫",
-      "onboard_time": 1695492918,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35946,
