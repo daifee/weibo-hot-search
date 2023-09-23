@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695497619941,
+  "endTime": 1695500153684,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -39763,6 +39763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219817,
+      "num": 219817,
+      "word": "核酸大王张核子进军预制菜",
+      "onboard_time": 1695494778,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219783,
       "num": 219783,
       "word": "刘宇郑乃馨豪门姐弟既视感",
@@ -44321,14 +44329,6 @@
       "onboard_time": 1694225613,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196967,
-      "num": 196967,
-      "word": "核酸大王张核子进军预制菜",
-      "onboard_time": 1695494778,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196941,
@@ -58395,6 +58395,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 72421,
+      "num": 72421,
+      "word": "异能",
+      "onboard_time": 1695496157,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72394,
       "num": 259628,
       "word": "你有放松困难症吗",
@@ -59115,14 +59123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53766,
-      "num": 53766,
-      "word": "异能",
-      "onboard_time": 1695496157,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 53636,
       "num": 998328,
       "word": "天舟五号圆满完成任务",
@@ -59601,6 +59601,14 @@
       "onboard_time": 1693681757,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 43131,
+      "num": 27279,
+      "word": "给女朋友点了7斤的饭",
+      "onboard_time": 1695497954,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 42990,
@@ -60585,6 +60593,14 @@
       "onboard_time": 1693692856,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25983,
+      "num": 25983,
+      "word": "骆文博亚运会开幕式独舞",
+      "onboard_time": 1695499574,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 25876,
