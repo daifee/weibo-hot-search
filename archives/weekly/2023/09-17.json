@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695443655096,
+  "endTime": 1695446086458,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1583617,
+      "num": 1583617,
+      "word": "孟非删好友",
+      "onboard_time": 1695442594,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1574563,
       "num": 1574563,
       "word": "电视剧长风破浪官宣",
@@ -849,14 +857,6 @@
       "onboard_time": 1695378872,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1569849,
-      "num": 1569849,
-      "word": "孟非删好友",
-      "onboard_time": 1695442594,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1547791,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1695250882,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1186163,
+      "num": 1186163,
+      "word": "张柏芝 顶级骨相",
+      "onboard_time": 1695442891,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1186146,
@@ -4043,6 +4051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 556147,
+      "num": 556147,
+      "word": "蔡依林一眼就认出了花花",
+      "onboard_time": 1695444993,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553671,
       "num": 553671,
       "word": "红卫董事长亲自吃肥皂",
@@ -4595,6 +4611,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 511972,
+      "num": 511972,
+      "word": "盗版小说里男主身高被压缩了",
+      "onboard_time": 1695443313,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 511219,
       "num": 322642,
       "word": "老公是一种态度 老公是一种心情",
@@ -4617,6 +4641,14 @@
       "onboard_time": 1694913755,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508225,
+      "num": 508225,
+      "word": "起猛了韩庚魏大勋竟演出了父子感",
+      "onboard_time": 1695445775,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 507667,
@@ -5563,6 +5595,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 424906,
+      "num": 325880,
+      "word": "保安被扇耳光后将女子猛摔在地",
+      "onboard_time": 1695442772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424335,
       "num": 424335,
       "word": "女子250万买飞机9年没到货",
@@ -6219,6 +6259,22 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 384393,
+      "num": 384393,
+      "word": "丁程鑫防走光意识",
+      "onboard_time": 1695443553,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 384318,
+      "num": 222493,
+      "word": "买周杰伦黄牛票被骗警察霸气喊话",
+      "onboard_time": 1695445473,
+      "rank": 30,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 383732,
       "num": 383732,
       "word": "骄阳伴我大结局",
@@ -6587,14 +6643,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 368472,
-      "num": 368472,
-      "word": "张柏芝 顶级骨相",
-      "onboard_time": 1695442891,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 368075,
       "num": 368075,
       "word": "魏大勋片场让李一桐V他50",
@@ -6841,6 +6889,14 @@
       "onboard_time": 1695002132,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356655,
+      "num": 356655,
+      "word": "伍佰累坏了",
+      "onboard_time": 1695444274,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 356631,
@@ -7505,6 +7561,14 @@
       "onboard_time": 1695050201,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326018,
+      "num": 326018,
+      "word": "苹果追加iPhone15ProMax订单",
+      "onboard_time": 1695441634,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 325889,
@@ -8867,14 +8931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273631,
-      "num": 273631,
-      "word": "苹果追加iPhone15ProMax订单",
-      "onboard_time": 1695441634,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 273601,
       "num": 273601,
       "word": "周冬雨张艺谋11年后再合作",
@@ -9139,6 +9195,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 266264,
+      "num": 266264,
+      "word": "韩庚插泡面姿势全国统一",
+      "onboard_time": 1695444993,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266094,
       "num": 266094,
       "word": "高校回应学院党委书记被曝不雅聊天",
@@ -9201,14 +9265,6 @@
       "onboard_time": 1694946694,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 262650,
-      "num": 262650,
-      "word": "丁程鑫防走光意识",
-      "onboard_time": 1695443553,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 262398,
@@ -9395,6 +9451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257939,
+      "num": 220411,
+      "word": "张婧仪周翊然合作新剧",
+      "onboard_time": 1695442953,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257468,
       "num": 257468,
       "word": "煤炭公司发的煤炭月饼",
@@ -9497,14 +9561,6 @@
       "onboard_time": 1695116557,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253296,
-      "num": 253296,
-      "word": "盗版小说里男主身高被压缩了",
-      "onboard_time": 1695443313,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 253208,
@@ -11147,6 +11203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 214328,
+      "num": 214328,
+      "word": "Ella 你没有办法去控制别人怎么去想你",
+      "onboard_time": 1695444452,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214012,
       "num": 214012,
       "word": "骄阳伴我央一定档",
@@ -11169,6 +11233,14 @@
       "onboard_time": 1695193415,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213523,
+      "num": 213523,
+      "word": "刘雯 复古俏芭比",
+      "onboard_time": 1695444874,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213272,
@@ -11352,6 +11424,14 @@
       "word": "胡锡进 我们正迎来火爆的十一黄金周",
       "onboard_time": 1694973801,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209122,
+      "num": 209122,
+      "word": "许家印身家缩水90%",
+      "onboard_time": 1695445711,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -11985,14 +12065,6 @@
       "onboard_time": 1695184180,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199145,
-      "num": 199145,
-      "word": "张婧仪周翊然合作新剧",
-      "onboard_time": 1695442953,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 199142,
@@ -12883,6 +12955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187174,
+      "num": 187174,
+      "word": "给人生下三天班",
+      "onboard_time": 1695445232,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187164,
       "num": 187164,
       "word": "C罗",
@@ -13355,14 +13435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179272,
-      "num": 179272,
-      "word": "保安被扇耳光后将女子猛摔在地",
-      "onboard_time": 1695442772,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179226,
       "num": 179226,
       "word": "美术联考挨得近不怕抄袭吗",
@@ -13601,6 +13673,14 @@
       "onboard_time": 1695354694,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173691,
+      "num": 519137,
+      "word": "小孩高烧抽搐家长求助铁骑开道送医",
+      "onboard_time": 1695443133,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173630,
@@ -14345,6 +14425,14 @@
       "onboard_time": 1695002073,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159442,
+      "num": 159442,
+      "word": "年轻人是如何参加亚运会的",
+      "onboard_time": 1695445354,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 159152,
@@ -15747,6 +15835,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 121891,
+      "num": 121891,
+      "word": "任素汐 把大梦送给你们",
+      "onboard_time": 1695445413,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121779,
       "num": 221861,
       "word": "你的生活中有断奏时刻吗",
@@ -16745,14 +16841,6 @@
       "onboard_time": 1694968469,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53123,
-      "num": 519137,
-      "word": "小孩高烧抽搐家长求助铁骑开道送医",
-      "onboard_time": 1695443133,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52622,
