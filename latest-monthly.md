@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/24 00:19:33
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/24 00:34:40
 </p>
 </blockquote>
 <p>
@@ -3531,6 +3531,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E6%9E%81%E7%AB%AF%E6%AC%BA%E8%BE%B1%23" target="weibo">
+官方通报小学生遭同学极端欺辱（热度：1361229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23" target="weibo">
 人民日报批明星偷逃税（热度：1360729）
 </a>
@@ -3670,7 +3676,7 @@ DFBOYS（热度：1371735）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%80%A9%23" target="weibo">
-李倩（热度：1319544）
+李倩（热度：1320099）
 </a>
 </li>
 
@@ -3707,12 +3713,6 @@ DFBOYS（热度：1371735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%205G%E8%A7%92%E6%A0%87%23" target="weibo">
 苹果 5G角标（热度：1302099）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E6%9E%81%E7%AB%AF%E6%AC%BA%E8%BE%B1%23" target="weibo">
-官方通报小学生遭同学极端欺辱（热度：1302054）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695485973922,
+  "endTime": 1695486880171,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -11,8 +11,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1319544,
-      "num": 1319544,
+      "raw_hot": 1361229,
+      "num": 366977,
+      "word": "官方通报小学生遭同学极端欺辱",
+      "onboard_time": 1695483339,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1320099,
+      "num": 1320099,
       "word": "李倩",
       "onboard_time": 1695477764,
       "rank": 1,
@@ -27,20 +35,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1302054,
-      "num": 337971,
-      "word": "官方通报小学生遭同学极端欺辱",
-      "onboard_time": 1695483339,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1128994,
       "num": 1128994,
       "word": "苏炳添臀围小了8公分",
       "onboard_time": 1695481962,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810195,
+      "num": 441193,
+      "word": "SEVENTEEN经纪公司道歉",
+      "onboard_time": 1695485434,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 736472,
@@ -83,14 +91,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 661667,
-      "num": 441193,
-      "word": "SEVENTEEN经纪公司道歉",
-      "onboard_time": 1695485434,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 646248,
       "num": 646248,
       "word": "叙利亚出场全场欢呼",
@@ -99,12 +99,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 596535,
+      "num": 402419,
+      "word": "第一次见有剧情的婚纱照",
+      "onboard_time": 1695484239,
+      "rank": 18,
+      "category": "其它"
+    },
+    {
       "raw_hot": 567083,
-      "num": 311939,
+      "num": 362512,
       "word": "SEVENTEEN删除长城预告",
       "onboard_time": 1695480282,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 539683,
+      "num": 539683,
+      "word": "外国运动员在杭州疯狂买买买",
+      "onboard_time": 1695483519,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 473956,
@@ -139,24 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 438069,
-      "num": 438069,
-      "word": "外国运动员在杭州疯狂买买买",
-      "onboard_time": 1695483519,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 402419,
-      "num": 402419,
-      "word": "第一次见有剧情的婚纱照",
-      "onboard_time": 1695484239,
-      "rank": 18,
-      "category": "其它"
-    },
-    {
       "raw_hot": 371861,
-      "num": 307442,
+      "num": 349376,
       "word": "香港俩5旬兄弟在母亲住院后疑被饿死",
       "onboard_time": 1695483636,
       "rank": 22,
@@ -169,6 +169,14 @@
       "onboard_time": 1695477701,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 294601,
+      "num": 294601,
+      "word": "除了金繁还有一个人在默默发疯",
+      "onboard_time": 1695486213,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 279669,
@@ -291,6 +299,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 162446,
+      "num": 162446,
+      "word": "李晓霞约王濛助威马龙",
+      "onboard_time": 1695486393,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162220,
       "num": 162220,
       "word": "看开幕式想哭",
@@ -313,6 +329,22 @@
       "onboard_time": 1695484715,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156515,
+      "num": 156515,
+      "word": "伍佰苏州这届带不动呀",
+      "onboard_time": 1695485854,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 152710,
+      "num": 152710,
+      "word": "姬发我该怎么办",
+      "onboard_time": 1695486272,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152448,
@@ -393,19 +425,14 @@
       "onboard_time": 1695479923,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130088,
-      "num": 130088,
-      "word": "伍佰苏州这届带不动呀",
-      "onboard_time": 1695485854,
-      "rank": 49,
-      "category": "演出"
     }
   ],
   "hotgov_list": [
     {
       "word": "#杭州亚运会开幕#"
+    },
+    {
+      "word": "#习近平出席亚运会开幕式#"
     }
   ]
 }
