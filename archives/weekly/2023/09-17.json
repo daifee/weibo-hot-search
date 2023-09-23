@@ -1,6 +1,6 @@
 {
   "startTime": 1694881186204,
-  "endTime": 1695460508558,
+  "endTime": 1695461621399,
   "band_list": [
     {
       "raw_hot": 9253666,
@@ -707,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1733829,
+      "num": 345690,
+      "word": "你能接受男朋友问你借钱吗",
+      "onboard_time": 1695458252,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1733698,
       "num": 1733698,
       "word": "刘亚仁强行让随行人员吸毒",
@@ -809,14 +817,6 @@
       "onboard_time": 1695394776,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1604436,
-      "num": 345690,
-      "word": "你能接受男朋友问你借钱吗",
-      "onboard_time": 1695458252,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 1604327,
@@ -4291,6 +4291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 544097,
+      "num": 361247,
+      "word": "虞书欣经常给朋友寄衣服",
+      "onboard_time": 1695455791,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543362,
       "num": 543362,
       "word": "李盈莹一人拿下30分",
@@ -5083,6 +5091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478294,
+      "num": 322214,
+      "word": "苹果客服回应首批iPhone15品控问题",
+      "onboard_time": 1695459392,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 474499,
       "num": 474499,
       "word": "杨紫许凯承欢记杀青",
@@ -5323,6 +5339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 453335,
+      "num": 453335,
+      "word": "因做了四年家庭主妇林双找不到工作",
+      "onboard_time": 1695459392,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453258,
       "num": 453258,
       "word": "新疆大闸蟹全网首卖",
@@ -5361,14 +5385,6 @@
       "onboard_time": 1695304961,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 451665,
-      "num": 361247,
-      "word": "虞书欣经常给朋友寄衣服",
-      "onboard_time": 1695455791,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 451470,
@@ -6185,6 +6201,14 @@
       "onboard_time": 1695269559,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 398286,
+      "num": 245635,
+      "word": "张杰 我的面子是我自己冲破的",
+      "onboard_time": 1695460710,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 397906,
@@ -7843,14 +7867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 324067,
-      "num": 346152,
-      "word": "因做了四年家庭主妇林双找不到工作",
-      "onboard_time": 1695459392,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323303,
       "num": 323303,
       "word": "心动的信号",
@@ -7881,14 +7897,6 @@
       "onboard_time": 1695194016,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 322214,
-      "num": 322214,
-      "word": "苹果客服回应首批iPhone15品控问题",
-      "onboard_time": 1695459392,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 321843,
@@ -8484,7 +8492,7 @@
     },
     {
       "raw_hot": 297131,
-      "num": 191581,
+      "num": 244214,
       "word": "亚运会主火炬21时28分许点燃",
       "onboard_time": 1695459392,
       "rank": 30,
@@ -9907,6 +9915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 250920,
+      "num": 250920,
+      "word": "现在杭州每个角落都腌入味儿了",
+      "onboard_time": 1695457413,
+      "rank": 30,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 250572,
       "num": 250572,
       "word": "凤凰传奇谢谢你",
@@ -10595,14 +10611,6 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 232962,
-      "num": 232962,
-      "word": "现在杭州每个角落都腌入味儿了",
-      "onboard_time": 1695457413,
-      "rank": 30,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 232575,
       "num": 144092,
       "word": "睡醒后发现我把上衣穿在了腿上",
@@ -10953,6 +10961,14 @@
       "onboard_time": 1695344614,
       "rank": 44,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 224599,
+      "num": 224599,
+      "word": "林俊杰或将录制hi6",
+      "onboard_time": 1695460952,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 224592,
@@ -11379,6 +11395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216624,
+      "num": 216624,
+      "word": "苏炳添预判亚运会中国田径最少十金",
+      "onboard_time": 1695460353,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216613,
       "num": 216613,
       "word": "被自己五天的掉发量惊到了",
@@ -11417,6 +11441,14 @@
       "onboard_time": 1695197075,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215544,
+      "num": 215544,
+      "word": "樊振东开幕式第二棒火炬手",
+      "onboard_time": 1695461251,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 215512,
@@ -12137,6 +12169,14 @@
       "onboard_time": 1694908226,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202480,
+      "num": 196963,
+      "word": "博主拆多部iPhone15发现镜头有灰",
+      "onboard_time": 1695461013,
+      "rank": 30,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 202476,
@@ -14099,6 +14139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173353,
+      "num": 173353,
+      "word": "Angelababy线下活动状态",
+      "onboard_time": 1695460353,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173102,
       "num": 173102,
       "word": "张彬彬不像是看秀的像是去走秀的",
@@ -15395,6 +15443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146983,
+      "num": 146983,
+      "word": "月薪一万能有多难",
+      "onboard_time": 1695461552,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146929,
       "num": 161361,
       "word": "6个动作缓解肩周炎",
@@ -15577,14 +15633,6 @@
       "onboard_time": 1695371672,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142860,
-      "num": 142860,
-      "word": "苏炳添预判亚运会中国田径最少十金",
-      "onboard_time": 1695460353,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 142838,
@@ -16139,6 +16187,14 @@
       "category": "动物萌宠,社会新闻"
     },
     {
+      "raw_hot": 129672,
+      "num": 129672,
+      "word": "绍兴父子拿下一项全国唯一",
+      "onboard_time": 1695461134,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129642,
       "num": 391348,
       "word": "女生藏在鞋柜里的秘密",
@@ -16427,6 +16483,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 118933,
+      "num": 118933,
+      "word": "今晚亚运开幕式万人同唱梦想天堂",
+      "onboard_time": 1695461072,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118557,
       "num": 219228,
       "word": "淘宝上线国货超市",
@@ -16449,6 +16513,14 @@
       "onboard_time": 1695367895,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116973,
+      "num": 224721,
+      "word": "常吃的果蔬离不开她们的付出",
+      "onboard_time": 1695461191,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116830,
@@ -16481,6 +16553,14 @@
       "onboard_time": 1695358597,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114979,
+      "num": 114979,
+      "word": "RIIZE素颜彩排",
+      "onboard_time": 1695460472,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 114914,
@@ -16641,14 +16721,6 @@
       "onboard_time": 1695046301,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103352,
-      "num": 103352,
-      "word": "RIIZE素颜彩排",
-      "onboard_time": 1695460472,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 102904,
@@ -17987,6 +18059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10932,
+      "num": 147194,
+      "word": "花滑天团梦幻秀",
+      "onboard_time": 1695459634,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10340,
       "num": 41474,
       "word": "广州TTG冠军战队签名",
@@ -18009,14 +18089,6 @@
       "onboard_time": 1695328452,
       "rank": 49,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 8923,
-      "num": 132102,
-      "word": "花滑天团梦幻秀",
-      "onboard_time": 1695459634,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 5130,

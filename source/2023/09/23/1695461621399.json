@@ -1,0 +1,410 @@
+{
+  "runTime": 1695461621399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 724295,
+        "num": 724295,
+        "word": "微信占用了我100多G的内存",
+        "onboard_time": 1695426088,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 508380,
+        "num": 508380,
+        "word": "郑思维孙颖莎将代表运动员宣誓",
+        "onboard_time": 1695458432,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23302,
+        "num": 474930,
+        "word": "秋分丰收节亚运开幕同一天",
+        "onboard_time": 1695439232,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598326,
+        "num": 474433,
+        "word": "给戚薇当了一天助理 我心态崩了",
+        "onboard_time": 1695434912,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 453335,
+        "num": 453335,
+        "word": "因做了四年家庭主妇林双找不到工作",
+        "onboard_time": 1695459392,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411986,
+        "num": 411986,
+        "word": "蔡依林一眼就认出了花花",
+        "onboard_time": 1695444993,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387997,
+        "num": 387997,
+        "word": "张柏芝 顶级骨相",
+        "onboard_time": 1695442891,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316031,
+        "num": 316031,
+        "word": "周杰伦半岛铁盒2002年现场",
+        "onboard_time": 1695454890,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291312,
+        "num": 291312,
+        "word": "林孝埈500米PEN",
+        "onboard_time": 1695456450,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250920,
+        "num": 250920,
+        "word": "现在杭州每个角落都腌入味儿了",
+        "onboard_time": 1695457413,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1733829,
+        "num": 250711,
+        "word": "你能接受男朋友问你借钱吗",
+        "onboard_time": 1695458252,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 744562,
+        "num": 250245,
+        "word": "李在明停止绝食",
+        "onboard_time": 1695446193,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 169980,
+        "num": 249451,
+        "word": "杭州亚运会主火炬点燃方式",
+        "onboard_time": 1695451111,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 73301,
+        "num": 249191,
+        "word": "小孩高烧抽搐家长求助铁骑开道送医",
+        "onboard_time": 1695443133,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20977,
+        "num": 248189,
+        "word": "慕思助力中国游泳",
+        "onboard_time": 1695459634,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587530,
+        "num": 247972,
+        "word": "来姨妈前的8个征兆",
+        "onboard_time": 1695453934,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 753083,
+        "num": 247098,
+        "word": "19岁女子被骗缅甸获救时遍体鳞伤",
+        "onboard_time": 1695458070,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544097,
+        "num": 246784,
+        "word": "虞书欣经常给朋友寄衣服",
+        "onboard_time": 1695455791,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478294,
+        "num": 246252,
+        "word": "苹果客服回应首批iPhone15品控问题",
+        "onboard_time": 1695459392,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 398286,
+        "num": 245635,
+        "word": "张杰 我的面子是我自己冲破的",
+        "onboard_time": 1695460710,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319078,
+        "num": 245198,
+        "word": "SEVENTEEN新预告用了长城",
+        "onboard_time": 1695453690,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273807,
+        "num": 244214,
+        "word": "亚运会主火炬21时28分许点燃",
+        "onboard_time": 1695459392,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244113,
+        "num": 244113,
+        "word": "女生称因父母把年龄报大4岁影响就业",
+        "onboard_time": 1695447633,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224850,
+        "num": 224850,
+        "word": "杨紫杀青请粉丝喝饮料",
+        "onboard_time": 1695457653,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116973,
+        "num": 224721,
+        "word": "常吃的果蔬离不开她们的付出",
+        "onboard_time": 1695461191,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224599,
+        "num": 224599,
+        "word": "林俊杰或将录制hi6",
+        "onboard_time": 1695460952,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216624,
+        "num": 216624,
+        "word": "苏炳添预判亚运会中国田径最少十金",
+        "onboard_time": 1695460353,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215544,
+        "num": 215544,
+        "word": "樊振东开幕式第二棒火炬手",
+        "onboard_time": 1695461251,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198675,
+        "num": 198675,
+        "word": "五月天上海",
+        "onboard_time": 1695455911,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197802,
+        "num": 197802,
+        "word": "杭州地铁还是疏忽了",
+        "onboard_time": 1695456331,
+        "rank": 29,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 202480,
+        "num": 196963,
+        "word": "博主拆多部iPhone15发现镜头有灰",
+        "onboard_time": 1695461013,
+        "rank": 30,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 195368,
+        "word": "亚洲人民都来感受烟雨江南了",
+        "onboard_time": 1695453091,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193649,
+        "num": 193649,
+        "word": "华晨宇演唱会登中国日报整版",
+        "onboard_time": 1695458070,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173353,
+        "num": 173353,
+        "word": "Angelababy线下活动状态",
+        "onboard_time": 1695460353,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158507,
+        "num": 158507,
+        "word": "亚运会",
+        "onboard_time": 1695433412,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156987,
+        "num": 156987,
+        "word": "被韩国卖的糖葫芦价格震惊到",
+        "onboard_time": 1695455791,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151918,
+        "num": 151918,
+        "word": "警方回应网传大同小学生霸凌事件",
+        "onboard_time": 1695446493,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150995,
+        "num": 150995,
+        "word": "蔡国庆好像王栎鑫的老父亲",
+        "onboard_time": 1695459273,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147486,
+        "num": 147486,
+        "word": "亚运会国乒地位难以撼动",
+        "onboard_time": 1695459511,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10932,
+        "num": 147194,
+        "word": "花滑天团梦幻秀",
+        "onboard_time": 1695459634,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146983,
+        "num": 146983,
+        "word": "月薪一万能有多难",
+        "onboard_time": 1695461552,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139580,
+        "num": 139580,
+        "word": "把大学生活过成了高中",
+        "onboard_time": 1695452672,
+        "rank": 41,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 137448,
+        "num": 137448,
+        "word": "陈漫拍的龚俊",
+        "onboard_time": 1695451593,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129672,
+        "num": 129672,
+        "word": "绍兴父子拿下一项全国唯一",
+        "onboard_time": 1695461134,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68390,
+        "num": 126355,
+        "word": "揭秘杭州亚运会开幕式亮点",
+        "onboard_time": 1695438932,
+        "rank": 44,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 124201,
+        "num": 124201,
+        "word": "倪妮红秀封面",
+        "onboard_time": 1695458912,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118933,
+        "num": 118933,
+        "word": "今晚亚运开幕式万人同唱梦想天堂",
+        "onboard_time": 1695461072,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114979,
+        "num": 114979,
+        "word": "RIIZE素颜彩排",
+        "onboard_time": 1695460472,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114240,
+        "num": 114240,
+        "word": "于适忘删文案前缀",
+        "onboard_time": 1695440613,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112596,
+        "num": 112596,
+        "word": "朱珠对着费翔说商务殷语",
+        "onboard_time": 1695451410,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见柬埔寨国王#"
+    }
+  }
+}
