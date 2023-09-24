@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695553973442,
+  "endTime": 1695555231704,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 671518,
-      "num": 258379,
+      "num": 332668,
       "word": "阿娇阿Sa追星成功",
       "onboard_time": 1695551912,
       "rank": 10,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 637089,
-      "num": 1067147,
+      "num": 1171951,
       "word": "女警一眼就认出吸毒人员一招擒拿",
       "onboard_time": 1695549272,
       "rank": 6,
@@ -507,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607492,
+      "num": 176405,
+      "word": "准大学生被骗9800元后自杀主犯被判无期",
+      "onboard_time": 1695552333,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602795,
+      "num": 602795,
+      "word": "丁克和独身者存多少钱够养老",
+      "onboard_time": 1695550233,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 594265,
       "num": 594265,
       "word": "男子欲买100张周杰伦演唱会门票被骗23万",
@@ -521,14 +537,6 @@
       "onboard_time": 1695521730,
       "rank": 13,
       "category": "知识科普,美妆"
-    },
-    {
-      "raw_hot": 580862,
-      "num": 580862,
-      "word": "丁克和独身者存多少钱够养老",
-      "onboard_time": 1695550233,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 577046,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 498431,
-      "num": 242114,
+      "num": 298428,
       "word": "日本记者报道亚运会400日元随便吃",
       "onboard_time": 1695551072,
       "rank": 30,
@@ -675,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 477046,
-      "num": 176405,
-      "word": "准大学生被骗9800元后自杀主犯被判无期",
-      "onboard_time": 1695552333,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 474241,
+      "num": 474241,
+      "word": "王者荣耀国家队登场",
+      "onboard_time": 1695554496,
+      "rank": 5,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 473956,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434893,
+      "num": 286626,
+      "word": "日本女团3比0中国台北女团",
+      "onboard_time": 1695552814,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434089,
       "num": 434089,
       "word": "我被假兵马俑骗哭了",
@@ -779,12 +795,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 402550,
-      "num": 176363,
-      "word": "日本女团3比0中国台北女团",
-      "onboard_time": 1695552814,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 402678,
+      "num": 402678,
+      "word": "王者荣耀项目",
+      "onboard_time": 1695540872,
+      "rank": 22,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 384966,
@@ -875,20 +891,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 334466,
+      "num": 334466,
+      "word": "王者项目中国对阵缅甸",
+      "onboard_time": 1695554673,
+      "rank": 9,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 334390,
       "num": 334390,
       "word": "杨幂同款圆脑壳棒球帽麻花辫",
       "onboard_time": 1695523350,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 333664,
-      "num": 333664,
-      "word": "王者荣耀项目",
-      "onboard_time": 1695540872,
-      "rank": 22,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 332013,
@@ -920,6 +936,14 @@
       "word": "除了金繁还有一个人在默默发疯",
       "onboard_time": 1695486213,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 321296,
+      "num": 232277,
+      "word": "李嘉琦说这个家没我可咋办",
+      "onboard_time": 1695551672,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -971,12 +995,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 300250,
-      "num": 194441,
-      "word": "李嘉琦说这个家没我可咋办",
-      "onboard_time": 1695551672,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 307037,
+      "num": 454522,
+      "word": "中国台北运动员夺金BGM我的未来不是梦",
+      "onboard_time": 1695552814,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 296071,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1695484000,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279059,
+      "num": 231880,
+      "word": "剃了胡子的胡歌",
+      "onboard_time": 1695553113,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 277357,
@@ -1211,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243618,
-      "num": 188155,
-      "word": "剃了胡子的胡歌",
-      "onboard_time": 1695553113,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 243457,
       "num": 242837,
       "word": "李纯妆造好漂亮",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1695543456,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238453,
+      "num": 238453,
+      "word": "成毅火龙果扒皮直接啃",
+      "onboard_time": 1695554614,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 238004,
@@ -1475,14 +1507,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202783,
-      "num": 202783,
-      "word": "中国台北运动员夺金BGM我的未来不是梦",
-      "onboard_time": 1695552814,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202143,
       "num": 202143,
       "word": "丞磊清唱终角浅",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1695478075,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192418,
+      "num": 192418,
+      "word": "谢娜官宣微博音乐盛典",
+      "onboard_time": 1695554496,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 192146,
@@ -2299,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48366,
+      "num": 279015,
+      "word": "淘宝为亚做E",
+      "onboard_time": 1695553234,
+      "rank": 14,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 39270,
       "num": 49545,
       "word": "有职业空窗期再就业有多难",
@@ -2363,12 +2403,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 19106,
-      "num": 219161,
-      "word": "淘宝为亚做E",
+      "raw_hot": 23151,
+      "num": 147686,
+      "word": "搜狐视频播主大会",
       "onboard_time": 1695553234,
-      "rank": 14,
-      "category": "互联网,体育"
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17348,
@@ -2385,14 +2425,6 @@
       "onboard_time": 1695502632,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13150,
-      "num": 147686,
-      "word": "搜狐视频播主大会",
-      "onboard_time": 1695553234,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
