@@ -1,0 +1,410 @@
+{
+  "runTime": 1695550572743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 949958,
+        "num": 949958,
+        "word": "陈梦11比0",
+        "onboard_time": 1695544834,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390747,
+        "num": 772792,
+        "word": "成都坐车到北京未来可能仅需90分钟",
+        "onboard_time": 1695538892,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73331,
+        "num": 772272,
+        "word": "AI修复49年前中国亚运首金画面",
+        "onboard_time": 1695543156,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772136,
+        "num": 772136,
+        "word": "专家谈李佳琦花西子眉笔争议",
+        "onboard_time": 1695547059,
+        "rank": 3,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 311181,
+        "num": 648920,
+        "word": "中国姑娘与叙利亚民众交换玫瑰",
+        "onboard_time": 1695539733,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608922,
+        "num": 608922,
+        "word": "王者荣耀项目 转播",
+        "onboard_time": 1695547477,
+        "rank": 5,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 276483,
+        "num": 516426,
+        "word": "女警一眼就认出吸毒人员一招擒拿",
+        "onboard_time": 1695549272,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477603,
+        "num": 477603,
+        "word": "日本将启动第二轮核污染水排海",
+        "onboard_time": 1695545134,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430940,
+        "num": 430940,
+        "word": "林孝埈内道一过三",
+        "onboard_time": 1695545676,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332776,
+        "num": 332776,
+        "word": "考研读研 人生选择",
+        "onboard_time": 1695543874,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 647428,
+        "num": 332629,
+        "word": "网传大同小学生遭霸凌教育局连夜调查",
+        "onboard_time": 1695539971,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 580128,
+        "num": 332394,
+        "word": "4米多长巨鳄被发现正在路边吃人",
+        "onboard_time": 1695541954,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554001,
+        "num": 332284,
+        "word": "女生误将自拍发工作群2分钟撤50张",
+        "onboard_time": 1695545014,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531321,
+        "num": 332134,
+        "word": "何猷君说杭州电竞馆很顶",
+        "onboard_time": 1695549457,
+        "rank": 13,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 138980,
+        "num": 331911,
+        "word": "58家国货在拼多多团建",
+        "onboard_time": 1695545796,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362060,
+        "num": 331770,
+        "word": "韩国首尔五天四夜吃什么",
+        "onboard_time": 1695542913,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361051,
+        "num": 331473,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 331413,
+        "num": 331413,
+        "word": "陕西男篮6个字回应官方处罚",
+        "onboard_time": 1695546755,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282251,
+        "num": 282251,
+        "word": "刘诗诗张云龙额头吻路透",
+        "onboard_time": 1695548671,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268647,
+        "num": 268647,
+        "word": "贺峻霖被实习生简历吓到",
+        "onboard_time": 1695540991,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800461,
+        "num": 259550,
+        "word": "韩国选手掌掴对手被罚下场",
+        "onboard_time": 1695542314,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351811,
+        "num": 259159,
+        "word": "邓为老头衫自拍",
+        "onboard_time": 1695548014,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 248515,
+        "num": 248515,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396267,
+        "num": 247684,
+        "word": "刘诗诗回应不上常驻综艺",
+        "onboard_time": 1695542194,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246294,
+        "num": 246294,
+        "word": "夫妻爬泰山将孩子独留车内4小时",
+        "onboard_time": 1695550055,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243240,
+        "num": 243240,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211697,
+        "num": 211697,
+        "word": "外卖迟到可能是去抓间谍了",
+        "onboard_time": 1695535172,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211155,
+        "num": 211155,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205589,
+        "num": 205589,
+        "word": "王源丹宁风",
+        "onboard_time": 1695550114,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202143,
+        "num": 202143,
+        "word": "丞磊清唱终角浅",
+        "onboard_time": 1695548973,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192572,
+        "num": 192572,
+        "word": "上东区的富家千金每天都穿什么出门",
+        "onboard_time": 1695540091,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 192146,
+        "num": 192146,
+        "word": "柯洁亚运会两连胜",
+        "onboard_time": 1695548614,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183101,
+        "num": 183101,
+        "word": "涂山暖暖",
+        "onboard_time": 1695530674,
+        "rank": 32,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 173656,
+        "num": 173656,
+        "word": "伍佰下次苏州这种大活别接了",
+        "onboard_time": 1695538411,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169525,
+        "num": 169525,
+        "word": "狗狗嗅到人类幼崽后急到跺脚",
+        "onboard_time": 1695545557,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161824,
+        "word": "叙利亚总统时隔19年再访华",
+        "onboard_time": 1695533733,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159893,
+        "num": 159893,
+        "word": "国乒女团晋级亚运会四强",
+        "onboard_time": 1695548192,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150201,
+        "num": 150201,
+        "word": "漫画张小斐",
+        "onboard_time": 1695536554,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142753,
+        "num": 142753,
+        "word": "吴易昺把网球牢牢的拿捏了",
+        "onboard_time": 1695550055,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141511,
+        "word": "我是殷郊 我的父王只跟小妈腻歪",
+        "onboard_time": 1695535172,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139427,
+        "num": 139427,
+        "word": "丁克和独身者存多少钱够养老",
+        "onboard_time": 1695550233,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133758,
+        "num": 133758,
+        "word": "黄景瑜雪场生图",
+        "onboard_time": 1695549334,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128858,
+        "num": 128858,
+        "word": "1岁半孙女午睡爷爷守3小时照顾",
+        "onboard_time": 1695525453,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126004,
+        "num": 126004,
+        "word": "基普乔格第五冠",
+        "onboard_time": 1695549034,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125478,
+        "num": 125478,
+        "word": "我被假兵马俑骗哭了",
+        "onboard_time": 1695540152,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 118632,
+        "num": 118632,
+        "word": "迪丽热巴启程巴黎时装周",
+        "onboard_time": 1695537992,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118619,
+        "num": 118619,
+        "word": "解药 不要试图摘月亮",
+        "onboard_time": 1695536013,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112778,
+        "num": 112778,
+        "word": "侯明昊 平行世界的爱豆人生",
+        "onboard_time": 1695543456,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110169,
+        "num": 110169,
+        "word": "专家称现有住房14亿人可能住不完",
+        "onboard_time": 1695531694,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 106615,
+        "num": 106615,
+        "word": "张杰疯狂刷26是什么意思",
+        "onboard_time": 1695540215,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会时光#"
+    }
+  }
+}
