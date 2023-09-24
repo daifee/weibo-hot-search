@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695580439651,
+  "endTime": 1695582752346,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -3257,6 +3257,14 @@
       "onboard_time": 1695575782,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36108,
+      "num": 36108,
+      "word": "胡彦斌看起来像是喝多了",
+      "onboard_time": 1695580936,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 31192,
