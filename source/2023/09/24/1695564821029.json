@@ -1,0 +1,410 @@
+{
+  "runTime": 1695564821029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1596369,
+        "num": 1596369,
+        "word": "林俊杰韩红掀翻我的天灵盖",
+        "onboard_time": 1695562475,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 960737,
+        "num": 960737,
+        "word": "国足亚运队0比0孟加拉国",
+        "onboard_time": 1695562475,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178412,
+        "num": 937530,
+        "word": "杭州亚运会开幕式刷新亚运史",
+        "onboard_time": 1695559417,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 932679,
+        "num": 932679,
+        "word": "日本免费发放滞销海鲜给学校供餐",
+        "onboard_time": 1695562898,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926888,
+        "num": 926888,
+        "word": "日本男团0比3伊朗男团",
+        "onboard_time": 1695563197,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725438,
+        "num": 725438,
+        "word": "宣璐爱情和事业果断选择事业",
+        "onboard_time": 1695559357,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465176,
+        "num": 465176,
+        "word": "王心凌演唱会嘉宾",
+        "onboard_time": 1695557616,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 457360,
+        "num": 457360,
+        "word": "张本智和2比3伊朗选手",
+        "onboard_time": 1695558037,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1035872,
+        "num": 455903,
+        "word": "官方通报校长和主任外出考察同房过夜",
+        "onboard_time": 1695559477,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 437976,
+        "num": 437976,
+        "word": "大梦",
+        "onboard_time": 1695561208,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1617313,
+        "num": 419631,
+        "word": "像吗 不像删了",
+        "onboard_time": 1695558575,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 747959,
+        "num": 411490,
+        "word": "韩红亲了林俊杰左脸",
+        "onboard_time": 1695563559,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 639367,
+        "num": 408088,
+        "word": "饿瘦与运动瘦的区别",
+        "onboard_time": 1695557253,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 378615,
+        "num": 378615,
+        "word": "男孩下网约车后找不到家人教科书式操作",
+        "onboard_time": 1695560679,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281863,
+        "num": 333600,
+        "word": "徐嘉余卫冕",
+        "onboard_time": 1695560319,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515186,
+        "num": 331817,
+        "word": "夫妻爬泰山将孩子独留车内4小时",
+        "onboard_time": 1695550055,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100690,
+        "num": 325748,
+        "word": "绘旅人三周年盛典",
+        "onboard_time": 1695561039,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321330,
+        "num": 321330,
+        "word": "汪顺破亚洲纪录",
+        "onboard_time": 1695557014,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319777,
+        "num": 319777,
+        "word": "中国女排vs塞尔维亚女排",
+        "onboard_time": 1695558395,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207194,
+        "num": 317291,
+        "word": "中国队金牌1个九宫格放不下",
+        "onboard_time": 1695563139,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336294,
+        "num": 316200,
+        "word": "白敬亭老约范丞丞打球",
+        "onboard_time": 1695563799,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321848,
+        "num": 315561,
+        "word": "白鹿白开水妆",
+        "onboard_time": 1695561099,
+        "rank": 21,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 314821,
+        "num": 314821,
+        "word": "IU演唱会边跳candy边提裤子",
+        "onboard_time": 1695555274,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303745,
+        "num": 303745,
+        "word": "34岁初中老师重新高考转学口腔医学",
+        "onboard_time": 1695563559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279297,
+        "num": 279297,
+        "word": "张萌行李丢了",
+        "onboard_time": 1695564098,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270996,
+        "num": 270996,
+        "word": "日本乒乓球男团无缘四强",
+        "onboard_time": 1695563380,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265761,
+        "num": 265761,
+        "word": "王者项目中国队晋级四强",
+        "onboard_time": 1695562178,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 259321,
+        "num": 259321,
+        "word": "养10年狗狗去世10岁男孩痛哭不已",
+        "onboard_time": 1695562539,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241158,
+        "num": 241158,
+        "word": "原神",
+        "onboard_time": 1695563078,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239100,
+        "num": 239100,
+        "word": "大妈洗衣服发现水池里有1只鳄鱼",
+        "onboard_time": 1695560197,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238079,
+        "num": 238079,
+        "word": "张远热到请求脱下鱼皮",
+        "onboard_time": 1695563857,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185679,
+        "num": 228872,
+        "word": "和王一博一起为亚运霹雳舞打call",
+        "onboard_time": 1695558275,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 224886,
+        "num": 224886,
+        "word": "阿娇阿Sa追星成功",
+        "onboard_time": 1695551912,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222718,
+        "num": 222718,
+        "word": "韩国选手掌掴对手被罚下场",
+        "onboard_time": 1695542314,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211253,
+        "num": 211253,
+        "word": "飞云之下",
+        "onboard_time": 1695564518,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206715,
+        "num": 206715,
+        "word": "剃了胡子的胡歌",
+        "onboard_time": 1695553113,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196261,
+        "num": 196261,
+        "word": "精神能量耗尽的表现",
+        "onboard_time": 1695564399,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193624,
+        "num": 196253,
+        "word": "胡兵 米兰时装周",
+        "onboard_time": 1695564161,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 509614,
+        "num": 196241,
+        "word": "贵州六盘水煤矿着火事故致16人遇难",
+        "onboard_time": 1695561039,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181316,
+        "num": 196229,
+        "word": "准大学生被骗9800元后自杀主犯被判无期",
+        "onboard_time": 1695552333,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179866,
+        "num": 196211,
+        "word": "4米多长巨鳄被发现正在路边吃人",
+        "onboard_time": 1695541954,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168046,
+        "num": 196199,
+        "word": "成毅火龙果扒皮直接啃",
+        "onboard_time": 1695554614,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165019,
+        "num": 196181,
+        "word": "肝气不舒的人多去KTV唱歌",
+        "onboard_time": 1695560016,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164663,
+        "num": 196168,
+        "word": "女生误将自拍发工作群2分钟撤50张",
+        "onboard_time": 1695545014,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158421,
+        "num": 196152,
+        "word": "徐必成的公孙离",
+        "onboard_time": 1695555456,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 157664,
+        "num": 196147,
+        "word": "体操男团金牌",
+        "onboard_time": 1695561580,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154324,
+        "num": 196138,
+        "word": "中国女排3比1塞尔维亚女排",
+        "onboard_time": 1695564760,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151235,
+        "num": 196114,
+        "word": "亚运会",
+        "onboard_time": 1695558696,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136448,
+        "num": 196098,
+        "word": "王者荣耀赛事",
+        "onboard_time": 1695562539,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 133229,
+        "num": 196094,
+        "word": "人的一生要和朋友告别两次",
+        "onboard_time": 1695558575,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的亚运会时间#"
+    }
+  }
+}
