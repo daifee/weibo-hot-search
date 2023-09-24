@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695572394695,
+  "endTime": 1695573293866,
   "band_list": [
     {
       "raw_hot": 1086355,
@@ -27,8 +27,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 647865,
-      "num": 647865,
+      "raw_hot": 683772,
+      "num": 683772,
       "word": "坚持半个月下来一身轻的健身动作",
       "onboard_time": 1695569198,
       "rank": 1,
@@ -67,12 +67,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 416709,
-      "num": 416709,
+      "raw_hot": 486684,
+      "num": 486684,
+      "word": "我没票但不妨碍我来听演唱会",
+      "onboard_time": 1695571056,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 463443,
+      "num": 463443,
       "word": "幼儿园手工作业主打一个卷死家长",
       "onboard_time": 1695570156,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 409992,
+      "num": 409992,
+      "word": "原神首冠诞生",
+      "onboard_time": 1695569736,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 401122,
@@ -83,28 +99,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 395156,
-      "num": 395156,
-      "word": "原神首冠诞生",
-      "onboard_time": 1695569736,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 376399,
-      "num": 376399,
+      "raw_hot": 376830,
+      "num": 376830,
       "word": "张小斐这剧除了原配全员好嗑",
       "onboard_time": 1695570454,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366790,
-      "num": 366790,
-      "word": "我没票但不妨碍我来听演唱会",
-      "onboard_time": 1695571056,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 360350,
@@ -131,20 +131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 301532,
+      "num": 282108,
+      "word": "吉娘娘31套绝美合集",
+      "onboard_time": 1695571355,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276903,
       "num": 365893,
       "word": "日本男团止步亚运会八强",
       "onboard_time": 1695566138,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276752,
-      "num": 276752,
-      "word": "吉娘娘31套绝美合集",
-      "onboard_time": 1695571355,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 258702,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115003,
+      "num": 115003,
+      "word": "IU演唱会边跳candy边提裤子",
+      "onboard_time": 1695555274,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110093,
       "num": 110093,
       "word": "谷爱凌 米兰时装展准备好了",
@@ -347,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105923,
-      "num": 105923,
-      "word": "IU演唱会边跳candy边提裤子",
-      "onboard_time": 1695555274,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 103262,
       "num": 103262,
       "word": "张杰扬州音乐节",
@@ -379,7 +379,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91228,
+      "raw_hot": 92296,
       "num": 99527,
       "word": "汪顺破亚洲纪录",
       "onboard_time": 1695557014,
@@ -395,7 +395,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13685,
+      "raw_hot": 69017,
+      "num": 80750,
+      "word": "大梦",
+      "onboard_time": 1695561208,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16381,
       "num": 512215,
       "word": "良渚之光照耀亚运之美",
       "onboard_time": 1695559236,
