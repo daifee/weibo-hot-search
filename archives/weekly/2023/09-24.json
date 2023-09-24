@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695537241419,
+  "endTime": 1695539659047,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 716866,
+      "num": 716866,
+      "word": "外卖迟到可能是去抓间谍了",
+      "onboard_time": 1695535172,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 706411,
       "num": 706411,
       "word": "郭晶晶执旗霍启刚领队",
@@ -313,6 +321,14 @@
       "onboard_time": 1695481238,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 661916,
+      "num": 661916,
+      "word": "迪丽热巴启程巴黎时装周",
+      "onboard_time": 1695537992,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 659007,
@@ -411,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 557587,
+      "num": 288945,
+      "word": "伍佰下次苏州这种大活别接了",
+      "onboard_time": 1695538411,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 545140,
       "num": 545140,
       "word": "殷商王室 笼",
@@ -435,20 +459,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 511583,
-      "num": 511583,
-      "word": "外卖迟到可能是去抓间谍了",
-      "onboard_time": 1695535172,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 504396,
       "num": 504396,
       "word": "脂肪最怕的15种碱性食物",
       "onboard_time": 1695513025,
       "rank": 7,
       "category": "知识科普,美食"
+    },
+    {
+      "raw_hot": 490340,
+      "num": 284612,
+      "word": "漫画张小斐",
+      "onboard_time": 1695536554,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 479403,
@@ -499,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 444713,
+      "num": 335683,
+      "word": "我是殷郊 我的父王只跟小妈腻歪",
+      "onboard_time": 1695535172,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 444709,
       "num": 444709,
       "word": "亚运开幕式",
@@ -507,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435358,
-      "num": 335683,
-      "word": "我是殷郊 我的父王只跟小妈腻歪",
-      "onboard_time": 1695535172,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 438411,
+      "num": 438411,
+      "word": "1岁半孙女午睡爷爷守3小时照顾",
+      "onboard_time": 1695525453,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415616,
@@ -521,6 +553,14 @@
       "onboard_time": 1695512967,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 412355,
+      "num": 307874,
+      "word": "解药 不要试图摘月亮",
+      "onboard_time": 1695536013,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 384966,
@@ -587,20 +627,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 356605,
-      "num": 420347,
-      "word": "1岁半孙女午睡爷爷守3小时照顾",
-      "onboard_time": 1695525453,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348433,
       "num": 241512,
       "word": "offer5实习生简历好丰富",
       "onboard_time": 1695532534,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335684,
+      "num": 269089,
+      "word": "婆婆抓儿媳林双出轨证据结果抓到儿子",
+      "onboard_time": 1695539314,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 334390,
@@ -643,6 +683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 316863,
+      "num": 262796,
+      "word": "田嘉瑞全网涨粉超200万",
+      "onboard_time": 1695535954,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314136,
       "num": 314136,
       "word": "惠英红捏张雨绮下巴",
@@ -651,12 +699,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 307874,
-      "num": 307874,
-      "word": "解药 不要试图摘月亮",
-      "onboard_time": 1695536013,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 313699,
+      "num": 340382,
+      "word": "带薪休假是菜鸟警察的天真与梦想",
+      "onboard_time": 1695531994,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307310,
@@ -731,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271887,
-      "num": 340382,
-      "word": "带薪休假是菜鸟警察的天真与梦想",
-      "onboard_time": 1695531994,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270961,
       "num": 270961,
       "word": "我爱你中国",
@@ -761,6 +801,14 @@
       "onboard_time": 1695526233,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266696,
+      "num": 266696,
+      "word": "数字人点火惊呆韩国网友",
+      "onboard_time": 1695538533,
+      "rank": 23,
+      "category": "体育,科技"
     },
     {
       "raw_hot": 265809,
@@ -811,12 +859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255160,
-      "num": 255160,
-      "word": "漫画张小斐",
-      "onboard_time": 1695536554,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 256581,
+      "num": 219228,
+      "word": "肚子里的脏器长什么样",
+      "onboard_time": 1695538171,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254425,
@@ -825,6 +873,14 @@
       "onboard_time": 1695475722,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253971,
+      "num": 253971,
+      "word": "德国国防军士兵在乌克兰被俘",
+      "onboard_time": 1695538411,
+      "rank": 27,
+      "category": "军事"
     },
     {
       "raw_hot": 253170,
@@ -899,6 +955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 238520,
+      "num": 238520,
+      "word": "成都坐车到北京未来可能仅需90分钟",
+      "onboard_time": 1695538892,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238004,
       "num": 238004,
       "word": "G社拍的费翔朱珠陈牧驰",
@@ -963,20 +1027,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227128,
-      "num": 227128,
-      "word": "田嘉瑞全网涨粉超200万",
-      "onboard_time": 1695535954,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224178,
       "num": 224178,
       "word": "情侣是最好的旅游饭搭子",
       "onboard_time": 1695535112,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 222704,
+      "num": 222704,
+      "word": "赵今麦出发巴黎时装周",
+      "onboard_time": 1695537333,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218376,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1695531815,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200048,
+      "num": 200048,
+      "word": "周杰伦太原",
+      "onboard_time": 1695538171,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 199249,
@@ -1235,6 +1307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 175644,
+      "num": 175644,
+      "word": "优家画报 于适",
+      "onboard_time": 1695538292,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175228,
       "num": 175228,
       "word": "张雨霏覃海洋汪顺今晚出战",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1695525574,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166674,
+      "num": 166674,
+      "word": "2023F1日本大奖赛",
+      "onboard_time": 1695539131,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 164630,
@@ -1547,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125826,
+      "num": 125826,
+      "word": "夜色尚浅文手画手正主顶了",
+      "onboard_time": 1695537873,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121186,
       "num": 1093850,
       "word": "亚运开幕式国风美学拉满",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1695509540,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116486,
+      "num": 116486,
+      "word": "萌娃喝药在一声声哇中迷失自我",
+      "onboard_time": 1695539612,
+      "rank": 48,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 112261,
@@ -1745,6 +1849,14 @@
       "onboard_time": 1695502632,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14146,
+      "num": 298776,
+      "word": "赴一场中国诗歌的浪漫",
+      "onboard_time": 1695538831,
+      "rank": 14,
+      "category": "读书作家"
     }
   ],
   "hotgov_list": [

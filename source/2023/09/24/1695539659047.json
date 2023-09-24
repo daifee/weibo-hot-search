@@ -1,0 +1,410 @@
+{
+  "runTime": 1695539659047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 949899,
+        "num": 949899,
+        "word": "叙利亚总统时隔19年再访华",
+        "onboard_time": 1695533733,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 906868,
+        "num": 906868,
+        "word": "涂山暖暖",
+        "onboard_time": 1695530674,
+        "rank": 1,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 90026,
+        "num": 805539,
+        "word": "亚运开幕式国风美学拉满",
+        "onboard_time": 1695527133,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716866,
+        "num": 716866,
+        "word": "外卖迟到可能是去抓间谍了",
+        "onboard_time": 1695535172,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661916,
+        "num": 661916,
+        "word": "迪丽热巴启程巴黎时装周",
+        "onboard_time": 1695537992,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 441769,
+        "num": 441769,
+        "word": "张国伟在亚运会馆外摊煎饼",
+        "onboard_time": 1695531694,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438411,
+        "num": 438411,
+        "word": "1岁半孙女午睡爷爷守3小时照顾",
+        "onboard_time": 1695525453,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357845,
+        "num": 357845,
+        "word": "杭州好像真的有一亿人",
+        "onboard_time": 1695526834,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 326912,
+        "num": 326912,
+        "word": "殷商王室 笼",
+        "onboard_time": 1695534331,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313699,
+        "num": 313699,
+        "word": "带薪休假是菜鸟警察的天真与梦想",
+        "onboard_time": 1695531994,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164533,
+        "num": 310681,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 880471,
+        "num": 308342,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 828217,
+        "num": 306322,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115245,
+        "num": 300928,
+        "word": "中国队亚运金牌九宫格",
+        "onboard_time": 1695530612,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14146,
+        "num": 298776,
+        "word": "赴一场中国诗歌的浪漫",
+        "onboard_time": 1695538831,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 760441,
+        "num": 293090,
+        "word": "专家称现有住房14亿人可能住不完",
+        "onboard_time": 1695531694,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 557587,
+        "num": 288945,
+        "word": "伍佰下次苏州这种大活别接了",
+        "onboard_time": 1695538411,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 553971,
+        "num": 286276,
+        "word": "上班微信发了啥老板可能知道",
+        "onboard_time": 1695514290,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490340,
+        "num": 284612,
+        "word": "漫画张小斐",
+        "onboard_time": 1695536554,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412355,
+        "num": 278319,
+        "word": "解药 不要试图摘月亮",
+        "onboard_time": 1695536013,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571782,
+        "num": 276901,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444713,
+        "num": 271442,
+        "word": "我是殷郊 我的父王只跟小妈腻歪",
+        "onboard_time": 1695535172,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335684,
+        "num": 269089,
+        "word": "婆婆抓儿媳林双出轨证据结果抓到儿子",
+        "onboard_time": 1695539314,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266696,
+        "num": 266696,
+        "word": "数字人点火惊呆韩国网友",
+        "onboard_time": 1695538533,
+        "rank": 23,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 263023,
+        "num": 263023,
+        "word": "旋风少女还是拍保守了",
+        "onboard_time": 1695518372,
+        "rank": 24,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 316863,
+        "num": 262796,
+        "word": "田嘉瑞全网涨粉超200万",
+        "onboard_time": 1695535954,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260547,
+        "num": 260547,
+        "word": "陕西信达被重罚100万取消成绩",
+        "onboard_time": 1695529653,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253971,
+        "num": 253971,
+        "word": "德国国防军士兵在乌克兰被俘",
+        "onboard_time": 1695538411,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 238520,
+        "num": 238520,
+        "word": "成都坐车到北京未来可能仅需90分钟",
+        "onboard_time": 1695538892,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222704,
+        "num": 222704,
+        "word": "赵今麦出发巴黎时装周",
+        "onboard_time": 1695537333,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256581,
+        "num": 219228,
+        "word": "肚子里的脏器长什么样",
+        "onboard_time": 1695538171,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200048,
+        "num": 200048,
+        "word": "周杰伦太原",
+        "onboard_time": 1695538171,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198713,
+        "num": 198713,
+        "word": "情侣是最好的旅游饭搭子",
+        "onboard_time": 1695535112,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 197788,
+        "num": 197788,
+        "word": "于文文说自己的歌都有点死了前男友的感觉",
+        "onboard_time": 1695526956,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191298,
+        "num": 191298,
+        "word": "offer5实习生简历好丰富",
+        "onboard_time": 1695532534,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188903,
+        "num": 188903,
+        "word": "虞书欣喻言合照",
+        "onboard_time": 1695529653,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180575,
+        "num": 180575,
+        "word": "不敢想象28号的我",
+        "onboard_time": 1695534331,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175644,
+        "num": 175644,
+        "word": "优家画报 于适",
+        "onboard_time": 1695538292,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174726,
+        "num": 174726,
+        "word": "赵露思新中式穿搭",
+        "onboard_time": 1695533373,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166674,
+        "num": 166674,
+        "word": "2023F1日本大奖赛",
+        "onboard_time": 1695539131,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170594,
+        "num": 165657,
+        "word": "舒淇拍刘雯",
+        "onboard_time": 1695533493,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149988,
+        "num": 149988,
+        "word": "女子就医发现五脏六腑全长反",
+        "onboard_time": 1695526292,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136224,
+        "num": 136224,
+        "word": "这么背下去考研要满分上岸了",
+        "onboard_time": 1695518133,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136101,
+        "num": 136101,
+        "word": "黄景瑜张婧仪火光芭莎路透",
+        "onboard_time": 1695533432,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135664,
+        "num": 135664,
+        "word": "这个公司离职率应该很低",
+        "onboard_time": 1695532832,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129003,
+        "num": 129003,
+        "word": "王源米兰看秀图",
+        "onboard_time": 1695535353,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125826,
+        "num": 125826,
+        "word": "夜色尚浅文手画手正主顶了",
+        "onboard_time": 1695537873,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120263,
+        "num": 120263,
+        "word": "王者荣耀敦煌第四季",
+        "onboard_time": 1695533312,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116486,
+        "num": 116486,
+        "word": "萌娃喝药在一声声哇中迷失自我",
+        "onboard_time": 1695539612,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 115287,
+        "num": 115287,
+        "word": "比预制菜更可恨的是承包学校食堂的关系户",
+        "onboard_time": 1695523171,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席亚运会开幕式#"
+    }
+  }
+}
