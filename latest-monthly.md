@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/24 16:19:13
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/24 16:34:34
 </p>
 </blockquote>
 <p>
@@ -963,6 +963,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E6%95%99%E8%82%B2%E5%B1%80%E8%BF%9E%E5%A4%9C%E8%B0%83%E6%9F%A5%23" target="weibo">
+网传大同小学生遭霸凌教育局连夜调查（热度：2498308）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
 七点以后禁食带给我的变化（热度：2484264）
 </a>
@@ -1091,6 +1097,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1%23" target="weibo">
 警方通报洛阳理工学院学生死亡（热度：2349796）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8E%8C%E6%8E%B4%E5%AF%B9%E6%89%8B%E8%A2%AB%E7%BD%9A%E4%B8%8B%E5%9C%BA%23" target="weibo">
+韩国选手掌掴对手被罚下场（热度：2346910）
 </a>
 </li>
 
@@ -2253,12 +2265,6 @@ iPhone15四款机型相机曝光（热度：1825898）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E6%95%99%E8%82%B2%E5%B1%80%E8%BF%9E%E5%A4%9C%E8%B0%83%E6%9F%A5%23" target="weibo">
-网传大同小学生遭霸凌教育局连夜调查（热度：1779600）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E8%A2%AB%E5%A4%A7%E5%A6%88%E4%B8%BE%E6%8A%A5%E6%AC%BA%E8%AF%8851%E4%B8%87%23" target="weibo">
 秀才曾被大妈举报欺诈51万（热度：1779007）
 </a>
@@ -2723,12 +2729,6 @@ THE9解散演唱会要来了（热度：1668390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83%23" target="weibo">
 小伙误把奶茶赠品雪花膏当雪糕吃（热度：1623236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8E%8C%E6%8E%B4%E5%AF%B9%E6%89%8B%E8%A2%AB%E7%BD%9A%E4%B8%8B%E5%9C%BA%23" target="weibo">
-韩国选手掌掴对手被罚下场（热度：1618445）
 </a>
 </li>
 

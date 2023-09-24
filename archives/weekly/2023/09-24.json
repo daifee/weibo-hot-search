@@ -1,12 +1,28 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695543553840,
+  "endTime": 1695544474197,
   "band_list": [
+    {
+      "raw_hot": 2498308,
+      "num": 1850030,
+      "word": "网传大同小学生遭霸凌教育局连夜调查",
+      "onboard_time": 1695539971,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 2406151,
       "num": 2406151,
       "word": "全场欢呼让巴基斯坦选手震惊了",
       "onboard_time": 1695473861,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2346910,
+      "num": 2346910,
+      "word": "韩国选手掌掴对手被罚下场",
+      "onboard_time": 1695542314,
       "rank": 0,
       "category": "体育"
     },
@@ -27,26 +43,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1779600,
-      "num": 1510253,
-      "word": "网传大同小学生遭霸凌教育局连夜调查",
-      "onboard_time": 1695539971,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1695506,
       "num": 1695506,
       "word": "马龙走了五分钟还在原地",
       "onboard_time": 1695513808,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1618445,
-      "num": 1618445,
-      "word": "韩国选手掌掴对手被罚下场",
-      "onboard_time": 1695542314,
       "rank": 0,
       "category": "体育"
     },
@@ -227,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 881789,
+      "num": 347900,
+      "word": "上东区的富家千金每天都穿什么出门",
+      "onboard_time": 1695540091,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 880921,
       "num": 880921,
       "word": "核酸大王张核子进军预制菜",
       "onboard_time": 1695494778,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849987,
-      "num": 347498,
-      "word": "上东区的富家千金每天都穿什么出门",
-      "onboard_time": 1695540091,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 810195,
@@ -284,11 +284,19 @@
     },
     {
       "raw_hot": 775203,
-      "num": 346332,
+      "num": 737243,
       "word": "何猷君 王者荣耀教练",
       "onboard_time": 1695541890,
       "rank": 11,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 768845,
+      "num": 768845,
+      "word": "刘诗诗回应不上常驻综艺",
+      "onboard_time": 1695542194,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 760565,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608659,
+      "num": 339796,
+      "word": "4米多长巨鳄被发现正在路边吃人",
+      "onboard_time": 1695541954,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594265,
       "num": 594265,
       "word": "男子欲买100张周杰伦演唱会门票被骗23万",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 567626,
-      "num": 346002,
+      "num": 347725,
       "word": "邓超等等四年前的对话",
       "onboard_time": 1695540513,
       "rank": 32,
@@ -515,12 +531,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 528541,
-      "num": 335082,
-      "word": "4米多长巨鳄被发现正在路边吃人",
-      "onboard_time": 1695541954,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 508537,
+      "num": 347527,
+      "word": "漫画张小斐",
+      "onboard_time": 1695536554,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 504396,
@@ -529,14 +545,6 @@
       "onboard_time": 1695513025,
       "rank": 7,
       "category": "知识科普,美食"
-    },
-    {
-      "raw_hot": 490340,
-      "num": 340760,
-      "word": "漫画张小斐",
-      "onboard_time": 1695536554,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 479403,
@@ -569,6 +577,14 @@
       "onboard_time": 1695474034,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469280,
+      "num": 469280,
+      "word": "韩国首尔五天四夜吃什么",
+      "onboard_time": 1695542913,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 468221,
@@ -649,14 +665,6 @@
       "onboard_time": 1695519511,
       "rank": 22,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 381953,
-      "num": 381953,
-      "word": "刘诗诗回应不上常驻综艺",
-      "onboard_time": 1695542194,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 374562,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 313699,
-      "num": 343054,
+      "num": 346977,
       "word": "带薪休假是菜鸟警察的天真与梦想",
       "onboard_time": 1695531994,
       "rank": 42,
@@ -1003,14 +1011,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 247182,
-      "num": 247182,
-      "word": "韩国首尔五天四夜吃什么",
-      "onboard_time": 1695542913,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "庆怜 也许有一天我不会再卡位",
@@ -1057,6 +1057,14 @@
       "onboard_time": 1695513205,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 238548,
+      "num": 238548,
+      "word": "侯明昊 平行世界的爱豆人生",
+      "onboard_time": 1695543456,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 238004,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1695504915,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 217376,
+      "num": 199604,
+      "word": "奚梦瑶替何猷君开心",
+      "onboard_time": 1695542913,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 216017,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1695538171,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199604,
-      "num": 199604,
-      "word": "奚梦瑶替何猷君开心",
-      "onboard_time": 1695542913,
-      "rank": 31,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 199249,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1695532956,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177255,
+      "num": 177255,
+      "word": "考研读研 人生选择",
+      "onboard_time": 1695543874,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 175644,
@@ -1795,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120196,
-      "num": 120196,
-      "word": "侯明昊 平行世界的爱豆人生",
-      "onboard_time": 1695543456,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118959,
       "num": 118959,
       "word": "野生大熊猫进村被救",
@@ -1833,6 +1841,30 @@
       "onboard_time": 1695489564,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99108,
+      "num": 1062714,
+      "word": "AI修复49年前中国亚运首金画面",
+      "onboard_time": 1695543156,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99060,
+      "num": 99060,
+      "word": "宝石 披哥的后台欢声笑语",
+      "onboard_time": 1695540991,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97346,
+      "num": 97346,
+      "word": "文科教授遇硬件问题把自己CPU烧了",
+      "onboard_time": 1695542792,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 91529,
@@ -1945,14 +1977,6 @@
       "onboard_time": 1695493039,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41474,
-      "num": 120253,
-      "word": "AI修复49年前中国亚运首金画面",
-      "onboard_time": 1695543156,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39270,
