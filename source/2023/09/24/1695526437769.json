@@ -1,0 +1,410 @@
+{
+  "runTime": 1695526437769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193678,
+        "num": 1193678,
+        "word": "中国队1小时5金",
+        "onboard_time": 1695522270,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1134432,
+        "num": 1134432,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12143,
+        "num": 1107775,
+        "word": "五个维度解码杭州亚运会",
+        "onboard_time": 1695456331,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1081121,
+        "num": 1081121,
+        "word": "旋风少女还是拍保守了",
+        "onboard_time": 1695518372,
+        "rank": 3,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 862134,
+        "num": 862134,
+        "word": "上班微信发了啥老板可能知道",
+        "onboard_time": 1695514290,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1036745,
+        "num": 782789,
+        "word": "比预制菜更可恨的是承包学校食堂的关系户",
+        "onboard_time": 1695523171,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 570068,
+        "num": 570068,
+        "word": "为什么吃番茄皮肤会变好",
+        "onboard_time": 1695521730,
+        "rank": 6,
+        "category": "知识科普,美妆"
+      },
+      {
+        "raw_hot": 560798,
+        "num": 560798,
+        "word": "12306回应压票再分批放票",
+        "onboard_time": 1695521791,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518777,
+        "num": 518777,
+        "word": "男子欲买100张周杰伦演唱会门票被骗23万",
+        "onboard_time": 1695523769,
+        "rank": 8,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 443564,
+        "num": 443564,
+        "word": "这么背下去考研要满分上岸了",
+        "onboard_time": 1695518133,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 754538,
+        "num": 442913,
+        "word": "一个月给儿子办3次婚宴收66万礼金",
+        "onboard_time": 1695516932,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440897,
+        "num": 440897,
+        "word": "张含韵 没想到30加会这么好",
+        "onboard_time": 1695512003,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341064,
+        "num": 425316,
+        "word": "孙培原连续三届夺金",
+        "onboard_time": 1695521431,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285661,
+        "num": 420347,
+        "word": "1岁半孙女午睡爷爷守3小时照顾",
+        "onboard_time": 1695525453,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207249,
+        "num": 416281,
+        "word": "亚运会开幕式观众离场干干净净",
+        "onboard_time": 1695523050,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 415847,
+        "num": 415847,
+        "word": "房东的猫演唱会上座率",
+        "onboard_time": 1695515489,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360550,
+        "num": 360550,
+        "word": "爸妈给拿下首金的邹佳琪准备了好多",
+        "onboard_time": 1695521730,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 318699,
+        "num": 318699,
+        "word": "用这些方法可快速拉臭臭",
+        "onboard_time": 1695525272,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293607,
+        "num": 293607,
+        "word": "研招网",
+        "onboard_time": 1695517531,
+        "rank": 18,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 292101,
+        "num": 292101,
+        "word": "杨幂同款圆脑壳棒球帽麻花辫",
+        "onboard_time": 1695523350,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1687240,
+        "num": 289316,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286028,
+        "num": 286028,
+        "word": "于适被道具划伤是费翔老师先提起的",
+        "onboard_time": 1695525992,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272648,
+        "num": 272648,
+        "word": "外卖小哥取餐时救3条命被奖励5000元",
+        "onboard_time": 1695525692,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250747,
+        "num": 250747,
+        "word": "当i人有一个e人女朋友",
+        "onboard_time": 1695515851,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243167,
+        "num": 243167,
+        "word": "卢昱晓变身移动比心景点",
+        "onboard_time": 1695525393,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241269,
+        "num": 241269,
+        "word": "汪苏泷把大雨唱来之后自己走了",
+        "onboard_time": 1695512967,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230757,
+        "num": 230757,
+        "word": "马龙走了五分钟还在原地",
+        "onboard_time": 1695513808,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222475,
+        "num": 222475,
+        "word": "发现丢失一年的猫在邻居家",
+        "onboard_time": 1695519511,
+        "rank": 27,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 216858,
+        "num": 216858,
+        "word": "亚运会",
+        "onboard_time": 1695513568,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211108,
+        "num": 211108,
+        "word": "侯明昊黄礼志e人合舞",
+        "onboard_time": 1695526233,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821220,
+        "num": 207518,
+        "word": "官方通报小学生遭同学极端欺辱",
+        "onboard_time": 1695483339,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203819,
+        "num": 203819,
+        "word": "米兰时装周上的沈梦辰",
+        "onboard_time": 1695525154,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172384,
+        "num": 172384,
+        "word": "王源李硕珉同框",
+        "onboard_time": 1695517650,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172336,
+        "num": 172336,
+        "word": "南方真的是这样吃月饼的吗",
+        "onboard_time": 1695521730,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171632,
+        "num": 171632,
+        "word": "中国赛艇队再得一金",
+        "onboard_time": 1695521431,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170379,
+        "num": 170379,
+        "word": "杭州西湖偶遇奥运体操冠军",
+        "onboard_time": 1695523350,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 167344,
+        "num": 167344,
+        "word": "张婧仪玩泡泡live图",
+        "onboard_time": 1695525574,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156694,
+        "num": 156694,
+        "word": "女子就医发现五脏六腑全长反",
+        "onboard_time": 1695526292,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156323,
+        "num": 156323,
+        "word": "大学生工作三个月的样子",
+        "onboard_time": 1695517831,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25189,
+        "num": 154261,
+        "word": "一起来做吃货冠军",
+        "onboard_time": 1695524430,
+        "rank": 39,
+        "category": "美食,体育"
+      },
+      {
+        "raw_hot": 153092,
+        "num": 153092,
+        "word": "亚运开幕式",
+        "onboard_time": 1695469652,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147746,
+        "num": 147746,
+        "word": "亚运志愿者全身湿透仍全力舞蹈",
+        "onboard_time": 1695525814,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 146513,
+        "num": 146513,
+        "word": "无意识减肥却能变瘦的习惯",
+        "onboard_time": 1695513627,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 144789,
+        "num": 144789,
+        "word": "科学家才是最该追的星",
+        "onboard_time": 1695526171,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 140146,
+        "word": "赵露思被鸽子吓到了",
+        "onboard_time": 1695512365,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139883,
+        "num": 139883,
+        "word": "SM家族演唱会上意志力超绝的圭贤",
+        "onboard_time": 1695520354,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131345,
+        "num": 131345,
+        "word": "王子文刺绣开衫出发巴黎",
+        "onboard_time": 1695519990,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128397,
+        "num": 128397,
+        "word": "林俊杰周深 直冲天灵盖组合",
+        "onboard_time": 1695513025,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124424,
+        "num": 124424,
+        "word": "李纯妆造好漂亮",
+        "onboard_time": 1695519329,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123118,
+        "num": 123118,
+        "word": "马龙打乒乓是带点功夫的",
+        "onboard_time": 1695519576,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕#"
+    }
+  }
+}
