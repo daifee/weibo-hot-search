@@ -1,0 +1,410 @@
+{
+  "runTime": 1695590030884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116172,
+        "num": 116172,
+        "word": "女生花7000元看周杰伦演唱会忘带票",
+        "onboard_time": 1695567037,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 70271,
+        "num": 70271,
+        "word": "张小斐这剧除了原配全员好嗑",
+        "onboard_time": 1695570454,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6594,
+        "num": 60844,
+        "word": "良渚之光照耀亚运之美",
+        "onboard_time": 1695559236,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59357,
+        "num": 59357,
+        "word": "幼儿园手工作业主打一个卷死家长",
+        "onboard_time": 1695570156,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54636,
+        "num": 54636,
+        "word": "日媒批男团耻辱出局",
+        "onboard_time": 1695568359,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50905,
+        "num": 50905,
+        "word": "坚持半个月下来一身轻的健身动作",
+        "onboard_time": 1695569198,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 43366,
+        "num": 43366,
+        "word": "34岁初中老师重新高考转学口腔医学",
+        "onboard_time": 1695563559,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30187,
+        "num": 30187,
+        "word": "我没票但不妨碍我来听演唱会",
+        "onboard_time": 1695571056,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29769,
+        "num": 29769,
+        "word": "范丞丞临时抱冰脚",
+        "onboard_time": 1695566620,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28244,
+        "num": 28244,
+        "word": "胡兵跑着跟谷爱凌合影",
+        "onboard_time": 1695567577,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79493,
+        "num": 28099,
+        "word": "官方通报校长和主任外出考察同房过夜",
+        "onboard_time": 1695559477,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 60862,
+        "num": 27318,
+        "word": "像吗 不像删了",
+        "onboard_time": 1695558575,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20505,
+        "num": 26878,
+        "word": "中国队金牌1个九宫格放不下",
+        "onboard_time": 1695563139,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16645,
+        "num": 26584,
+        "word": "今晚国歌是我的单曲循环",
+        "onboard_time": 1695566138,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15223,
+        "num": 25840,
+        "word": "中国游泳队1晚7金",
+        "onboard_time": 1695566436,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31904,
+        "num": 25345,
+        "word": "饿瘦与运动瘦的区别",
+        "onboard_time": 1695557253,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 25092,
+        "num": 25092,
+        "word": "胡彦斌看起来像是喝多了",
+        "onboard_time": 1695580936,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22229,
+        "num": 22229,
+        "word": "周杰伦太原演唱会",
+        "onboard_time": 1695569615,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21577,
+        "num": 21577,
+        "word": "预制菜",
+        "onboard_time": 1695567697,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20801,
+        "num": 20801,
+        "word": "林俊杰韩红掀翻我的天灵盖",
+        "onboard_time": 1695562475,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41746,
+        "num": 20274,
+        "word": "女生采耳才发现碎钻卡在耳内半个月",
+        "onboard_time": 1695569257,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23033,
+        "num": 20210,
+        "word": "张嘉倪拿捏小香风",
+        "onboard_time": 1695570396,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22412,
+        "num": 20127,
+        "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
+        "onboard_time": 1695577817,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19547,
+        "num": 19547,
+        "word": "女子结婚和亚运冠军同住一家酒店",
+        "onboard_time": 1695565000,
+        "rank": 23,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 19313,
+        "num": 19313,
+        "word": "吉娘娘31套绝美合集",
+        "onboard_time": 1695571355,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18906,
+        "num": 18906,
+        "word": "MOMO风头像",
+        "onboard_time": 1695574525,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 17292,
+        "num": 17292,
+        "word": "卢昱晓公式照",
+        "onboard_time": 1695567939,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17198,
+        "num": 17198,
+        "word": "切尔西 抽象",
+        "onboard_time": 1695568717,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16838,
+        "num": 16838,
+        "word": "张天爱张靓颖用体重打招呼",
+        "onboard_time": 1695565779,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16038,
+        "num": 16038,
+        "word": "原神首冠诞生",
+        "onboard_time": 1695569736,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30685,
+        "num": 15851,
+        "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
+        "onboard_time": 1695588253,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 15630,
+        "num": 15630,
+        "word": "亚运会",
+        "onboard_time": 1695558696,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14278,
+        "num": 15627,
+        "word": "IU演唱会边跳candy边提裤子",
+        "onboard_time": 1695555274,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13565,
+        "num": 15621,
+        "word": "国足亚运队0比0孟加拉国",
+        "onboard_time": 1695562475,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13090,
+        "num": 15608,
+        "word": "白敬亭老约范丞丞打球",
+        "onboard_time": 1695563799,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12916,
+        "num": 15608,
+        "word": "中国女排3比1塞尔维亚女排",
+        "onboard_time": 1695564760,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12638,
+        "num": 15594,
+        "word": "汪顺破亚洲纪录",
+        "onboard_time": 1695557014,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12627,
+        "num": 15587,
+        "word": "谷爱凌 米兰时装展准备好了",
+        "onboard_time": 1695570994,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12603,
+        "num": 15585,
+        "word": "大梦",
+        "onboard_time": 1695561208,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12379,
+        "num": 15577,
+        "word": "张元英金发预告照",
+        "onboard_time": 1695567577,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12268,
+        "num": 15568,
+        "word": "来自非洲的丽水媳妇点赞乡村音乐筑梦班",
+        "onboard_time": 1695575782,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12055,
+        "num": 15561,
+        "word": "吴奇隆黄子弘凡被牛赶了",
+        "onboard_time": 1695570454,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11947,
+        "num": 15553,
+        "word": "白鹿白开水妆",
+        "onboard_time": 1695561099,
+        "rank": 42,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 11886,
+        "num": 15549,
+        "word": "杨幂水波纹大片",
+        "onboard_time": 1695568538,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11757,
+        "num": 15538,
+        "word": "郑秀妍晒与王心凌的合照",
+        "onboard_time": 1695568717,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11645,
+        "num": 15536,
+        "word": "韩红亲了林俊杰左脸",
+        "onboard_time": 1695563559,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11610,
+        "num": 15527,
+        "word": "白桃星座",
+        "onboard_time": 1695568058,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10826,
+        "num": 15519,
+        "word": "张杰还原铲腿名场面",
+        "onboard_time": 1695587594,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10516,
+        "num": 15508,
+        "word": "海鲜商韩杰被间谍女友投毒",
+        "onboard_time": 1695569435,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10807,
+        "num": 15508,
+        "word": "王心凌演唱会嘉宾",
+        "onboard_time": 1695557616,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的亚运会时间#"
+    }
+  }
+}
