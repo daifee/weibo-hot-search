@@ -1,0 +1,410 @@
+{
+  "runTime": 1695597358836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 808020,
+        "num": 808020,
+        "word": "女生花7000元看周杰伦演唱会忘带票",
+        "onboard_time": 1695567037,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 725979,
+        "num": 725979,
+        "word": "宁泽涛",
+        "onboard_time": 1695596604,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26280,
+        "num": 595767,
+        "word": "良渚之光照耀亚运之美",
+        "onboard_time": 1695559236,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 812092,
+        "num": 574724,
+        "word": "日媒批男团耻辱出局",
+        "onboard_time": 1695568359,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497573,
+        "num": 497573,
+        "word": "张小斐这剧除了原配全员好嗑",
+        "onboard_time": 1695570454,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459745,
+        "num": 459745,
+        "word": "坚持半个月下来一身轻的健身动作",
+        "onboard_time": 1695569198,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 430032,
+        "num": 430032,
+        "word": "幼儿园手工作业主打一个卷死家长",
+        "onboard_time": 1695570156,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275531,
+        "num": 275531,
+        "word": "34岁初中老师重新高考转学口腔医学",
+        "onboard_time": 1695563559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222040,
+        "num": 222040,
+        "word": "女子结婚和亚运冠军同住一家酒店",
+        "onboard_time": 1695565000,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 196813,
+        "num": 196813,
+        "word": "我没票但不妨碍我来听演唱会",
+        "onboard_time": 1695571056,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 647937,
+        "num": 195425,
+        "word": "官方通报校长和主任外出考察同房过夜",
+        "onboard_time": 1695559477,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 315230,
+        "num": 191963,
+        "word": "像吗 不像删了",
+        "onboard_time": 1695558575,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111065,
+        "num": 189522,
+        "word": "中国队金牌1个九宫格放不下",
+        "onboard_time": 1695563139,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77449,
+        "num": 186805,
+        "word": "中国游泳队1晚7金",
+        "onboard_time": 1695566436,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55890,
+        "num": 185171,
+        "word": "今晚国歌是我的单曲循环",
+        "onboard_time": 1695566138,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289406,
+        "num": 183262,
+        "word": "饿瘦与运动瘦的区别",
+        "onboard_time": 1695557253,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198974,
+        "num": 179321,
+        "word": "王者荣耀中国代表队获胜采访",
+        "onboard_time": 1695590772,
+        "rank": 16,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 198027,
+        "num": 176357,
+        "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
+        "onboard_time": 1695588253,
+        "rank": 17,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 175393,
+        "num": 175393,
+        "word": "胡兵跑着跟谷爱凌合影",
+        "onboard_time": 1695567577,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126380,
+        "num": 174355,
+        "word": "张天爱张靓颖用体重打招呼",
+        "onboard_time": 1695565779,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174354,
+        "num": 174354,
+        "word": "当8岁的儿子旁观了一场校园霸凌",
+        "onboard_time": 1695596604,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159519,
+        "num": 159519,
+        "word": "女生采耳才发现碎钻卡在耳内半个月",
+        "onboard_time": 1695569257,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125025,
+        "num": 125025,
+        "word": "吉娘娘31套绝美合集",
+        "onboard_time": 1695571355,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104276,
+        "num": 104276,
+        "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
+        "onboard_time": 1695577817,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102355,
+        "num": 102355,
+        "word": "好事成双女主和情敌处成闺蜜了",
+        "onboard_time": 1695595158,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96827,
+        "num": 96827,
+        "word": "卢昱晓公式照",
+        "onboard_time": 1695567939,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80803,
+        "num": 80803,
+        "word": "原神首冠诞生",
+        "onboard_time": 1695569736,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79567,
+        "num": 79567,
+        "word": "林俊杰韩红掀翻我的天灵盖",
+        "onboard_time": 1695562475,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73258,
+        "num": 73258,
+        "word": "马 今天状态真好就跟身上没人似的",
+        "onboard_time": 1695595040,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75251,
+        "num": 72032,
+        "word": "张嘉倪拿捏小香风",
+        "onboard_time": 1695570396,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69116,
+        "num": 69116,
+        "word": "范丞丞临时抱冰脚",
+        "onboard_time": 1695566620,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64454,
+        "num": 64454,
+        "word": "吴奇隆黄子弘凡被牛赶了",
+        "onboard_time": 1695570454,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63728,
+        "num": 63728,
+        "word": "张本智和赛后揽责",
+        "onboard_time": 1695596541,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63158,
+        "num": 63158,
+        "word": "以为健康的方式其实不健康",
+        "onboard_time": 1695597323,
+        "rank": 33,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 62221,
+        "num": 62221,
+        "word": "预制菜",
+        "onboard_time": 1695567697,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61428,
+        "num": 61428,
+        "word": "白桃星座",
+        "onboard_time": 1695568058,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61308,
+        "num": 61308,
+        "word": "白敬亭老约范丞丞打球",
+        "onboard_time": 1695563799,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59892,
+        "num": 59892,
+        "word": "白鹿白开水妆",
+        "onboard_time": 1695561099,
+        "rank": 37,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 57672,
+        "num": 57672,
+        "word": "MOMO风头像",
+        "onboard_time": 1695574525,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 54743,
+        "num": 54743,
+        "word": "国足亚运队0比0孟加拉国",
+        "onboard_time": 1695562475,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54174,
+        "num": 54174,
+        "word": "切尔西 抽象",
+        "onboard_time": 1695568717,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51904,
+        "num": 51904,
+        "word": "这是含金量拉满的一周",
+        "onboard_time": 1695596785,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 50399,
+        "num": 50399,
+        "word": "中国游泳队太牛了",
+        "onboard_time": 1695597146,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50054,
+        "num": 50054,
+        "word": "周杰伦太原演唱会",
+        "onboard_time": 1695569615,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46577,
+        "num": 49839,
+        "word": "中国女排3比1塞尔维亚女排",
+        "onboard_time": 1695564760,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45896,
+        "num": 49602,
+        "word": "张杰说东方风云榜都是时代少年团粉丝",
+        "onboard_time": 1695568596,
+        "rank": 45,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 43720,
+        "num": 49379,
+        "word": "杨幂水波纹大片",
+        "onboard_time": 1695568538,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41978,
+        "num": 49148,
+        "word": "海鲜商韩杰被间谍女友投毒",
+        "onboard_time": 1695569435,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38432,
+        "num": 48774,
+        "word": "张元英金发预告照",
+        "onboard_time": 1695567577,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38050,
+        "num": 48608,
+        "word": "亚运会",
+        "onboard_time": 1695558696,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会时光#"
+    }
+  }
+}

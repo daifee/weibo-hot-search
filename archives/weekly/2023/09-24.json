@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695594829506,
+  "endTime": 1695597358836,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 725979,
+      "num": 725979,
+      "word": "宁泽涛",
+      "onboard_time": 1695596604,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 723984,
       "num": 723984,
       "word": "外卖迟到可能是去抓间谍了",
@@ -907,6 +915,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 497573,
+      "num": 497573,
+      "word": "张小斐这剧除了原配全员好嗑",
+      "onboard_time": 1695570454,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481008,
       "num": 772792,
       "word": "成都坐车到北京未来可能仅需90分钟",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1695560679,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376830,
-      "num": 376830,
-      "word": "张小斐这剧除了原配全员好嗑",
-      "onboard_time": 1695570454,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 374562,
@@ -2259,6 +2267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198974,
+      "num": 179321,
+      "word": "王者荣耀中国代表队获胜采访",
+      "onboard_time": 1695590772,
+      "rank": 27,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 198027,
+      "num": 176357,
+      "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
+      "onboard_time": 1695588253,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 197286,
       "num": 197286,
       "word": "赵今麦黄色雨靴",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1695517411,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174354,
+      "num": 174354,
+      "word": "当8岁的儿子旁观了一场校园霸凌",
+      "onboard_time": 1695596604,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171180,
@@ -3083,6 +3115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104276,
+      "num": 104276,
+      "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
+      "onboard_time": 1695577817,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102355,
+      "num": 102355,
+      "word": "好事成双女主和情敌处成闺蜜了",
+      "onboard_time": 1695595158,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101554,
       "num": 101554,
       "word": "多部杰尼斯艺人电视剧停止制作",
@@ -3105,22 +3153,6 @@
       "onboard_time": 1695542792,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 96664,
-      "num": 96664,
-      "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
-      "onboard_time": 1695588253,
-      "rank": 30,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 95572,
-      "num": 95572,
-      "word": "王者荣耀中国代表队获胜采访",
-      "onboard_time": 1695590772,
-      "rank": 27,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 92576,
@@ -3179,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73258,
+      "num": 73258,
+      "word": "马 今天状态真好就跟身上没人似的",
+      "onboard_time": 1695595040,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72421,
       "num": 72421,
       "word": "异能",
@@ -3211,12 +3251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57424,
-      "num": 57424,
-      "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
-      "onboard_time": 1695577817,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 63728,
+      "num": 63728,
+      "word": "张本智和赛后揽责",
+      "onboard_time": 1695596541,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63158,
+      "num": 63158,
+      "word": "以为健康的方式其实不健康",
+      "onboard_time": 1695597323,
+      "rank": 33,
+      "category": "知识科普"
     },
     {
       "raw_hot": 56643,
@@ -3243,11 +3291,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51904,
+      "num": 51904,
+      "word": "这是含金量拉满的一周",
+      "onboard_time": 1695596785,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 51885,
       "num": 51885,
       "word": "亚运会开幕式穿越了五千年",
       "onboard_time": 1695493039,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50399,
+      "num": 50399,
+      "word": "中国游泳队太牛了",
+      "onboard_time": 1695597146,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -3307,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26280,
+      "num": 595767,
+      "word": "良渚之光照耀亚运之美",
+      "onboard_time": 1695559236,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26118,
       "num": 328085,
       "word": "在郑州一起唱响黄河",
@@ -3360,14 +3432,6 @@
       "word": "五个维度解码杭州亚运会",
       "onboard_time": 1695456331,
       "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16381,
-      "num": 512215,
-      "word": "良渚之光照耀亚运之美",
-      "onboard_time": 1695559236,
-      "rank": 37,
       "category": "体育"
     },
     {
