@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695526437769,
+  "endTime": 1695529151320,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1126830,
+      "num": 1126830,
+      "word": "中国香港杭州亚运首金",
+      "onboard_time": 1695527133,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1087025,
       "num": 1081121,
       "word": "旋风少女还是拍保守了",
@@ -121,6 +129,14 @@
       "onboard_time": 1695523171,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1004835,
+      "num": 1004835,
+      "word": "柯洁亚运会开门红",
+      "onboard_time": 1695527252,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 957755,
@@ -177,6 +193,14 @@
       "onboard_time": 1695521431,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 760565,
+      "num": 278065,
+      "word": "于文文说自己的歌都有点死了前男友的感觉",
+      "onboard_time": 1695526956,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 736472,
@@ -307,6 +331,14 @@
       "category": "知识科普,美食"
     },
     {
+      "raw_hot": 503947,
+      "num": 310367,
+      "word": "杭州好像真的有一亿人",
+      "onboard_time": 1695526834,
+      "rank": 15,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 479403,
       "num": 443591,
       "word": "赵又廷再用高圆圆威胁秦霄贤",
@@ -339,12 +371,28 @@
       "category": "知识科普,美食"
     },
     {
+      "raw_hot": 468005,
+      "num": 468005,
+      "word": "田嘉瑞有工作室了",
+      "onboard_time": 1695526714,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459321,
       "num": 438609,
       "word": "房东的猫好妹妹终于同台了",
       "onboard_time": 1695481304,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 445317,
+      "num": 445317,
+      "word": "女子就医发现五脏六腑全长反",
+      "onboard_time": 1695526292,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444709,
@@ -369,6 +417,14 @@
       "onboard_time": 1695519511,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 374562,
+      "num": 276604,
+      "word": "曾黎的手腕可以遮住半张脸",
+      "onboard_time": 1695526774,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 371861,
@@ -443,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296121,
+      "num": 420347,
+      "word": "1岁半孙女午睡爷爷守3小时照顾",
+      "onboard_time": 1695525453,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296071,
       "num": 296071,
       "word": "中国队的第三金收入囊中",
@@ -473,14 +537,6 @@
       "onboard_time": 1695525992,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 285661,
-      "num": 420347,
-      "word": "1岁半孙女午睡爷爷守3小时照顾",
-      "onboard_time": 1695525453,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281952,
@@ -531,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270368,
+      "num": 270368,
+      "word": "侯明昊黄礼志e人合舞",
+      "onboard_time": 1695526233,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265809,
       "num": 265809,
       "word": "全世界找一诺",
@@ -553,6 +617,14 @@
       "onboard_time": 1695519576,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256989,
+      "num": 256989,
+      "word": "酱香拿铁会让星巴克慌吗",
+      "onboard_time": 1695528212,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 254425,
@@ -592,6 +664,14 @@
       "word": "庆怜 也许有一天我不会再卡位",
       "onboard_time": 1695521011,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245790,
+      "num": 245790,
+      "word": "陆虎老板5录制状态",
+      "onboard_time": 1695527492,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -635,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233960,
+      "num": 221440,
+      "word": "近500例胃转流手术后34名患者伤残",
+      "onboard_time": 1695528094,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232200,
       "num": 232200,
       "word": "中国射击队破亚洲纪录",
@@ -651,20 +739,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231665,
+      "num": 231665,
+      "word": "亚运会",
+      "onboard_time": 1695513568,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229127,
       "num": 229127,
       "word": "董宇辉去周杰伦演唱会圆青春的梦",
       "onboard_time": 1695480639,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 222660,
-      "num": 222660,
-      "word": "亚运会",
-      "onboard_time": 1695513568,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 218376,
@@ -691,20 +779,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 216017,
+      "num": 416281,
+      "word": "亚运会开幕式观众离场干干净净",
+      "onboard_time": 1695523050,
+      "rank": 24,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 213949,
       "num": 213949,
       "word": "田柾国3D",
       "onboard_time": 1695521911,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211108,
-      "num": 211108,
-      "word": "侯明昊黄礼志e人合舞",
-      "onboard_time": 1695526233,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 210284,
@@ -729,14 +817,6 @@
       "onboard_time": 1695518912,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207249,
-      "num": 416281,
-      "word": "亚运会开幕式观众离场干干净净",
-      "onboard_time": 1695523050,
-      "rank": 24,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 206850,
@@ -843,6 +923,22 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 184706,
+      "num": 184706,
+      "word": "黄雨婷夺10米气步枪金牌",
+      "onboard_time": 1695529053,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183837,
+      "num": 183837,
+      "word": "闪耀暖暖",
+      "onboard_time": 1695527431,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180245,
       "num": 211272,
       "word": "中国茶上拉花让巴赫直呼舍不得喝",
@@ -865,6 +961,14 @@
       "onboard_time": 1695519271,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167737,
+      "num": 167737,
+      "word": "曾黎三次欧洲封面妆造变化",
+      "onboard_time": 1695527912,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167344,
@@ -931,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156694,
-      "num": 156694,
-      "word": "女子就医发现五脏六腑全长反",
-      "onboard_time": 1695526292,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156515,
       "num": 156515,
       "word": "伍佰苏州这届带不动呀",
@@ -968,6 +1064,14 @@
       "word": "张志磊KO乔伊斯",
       "onboard_time": 1695510380,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150649,
+      "num": 322247,
+      "word": "不能遗忘的中国亚运历史首金",
+      "onboard_time": 1695528033,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -1123,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102171,
+      "num": 834700,
+      "word": "亚运开幕式国风美学拉满",
+      "onboard_time": 1695527133,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91529,
       "num": 91529,
       "word": "给女朋友点了7斤的饭",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1695496157,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70974,
+      "num": 187928,
+      "word": "今年时装周有哪些看点",
+      "onboard_time": 1695528629,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 67761,
@@ -1257,6 +1377,14 @@
       "onboard_time": 1695472599,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21724,
+      "num": 314970,
+      "word": "在郑州一起唱响黄河",
+      "onboard_time": 1695528033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17348,
