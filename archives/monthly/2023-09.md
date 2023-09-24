@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/24 23:34:05
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/25 00:19:54
 </p>
 </blockquote>
 <p>
@@ -5085,6 +5085,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%94%B7%E5%9B%A2%E8%80%BB%E8%BE%B1%E5%87%BA%E5%B1%80%23" target="weibo">
+日媒批男团耻辱出局（热度：1049567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%20%E6%88%91%E5%92%8C%E6%A2%85%E8%A5%BF%E5%9C%A8%E5%B7%B4%E9%BB%8E%E7%BB%8F%E5%8E%86%E4%BA%86%E5%9C%B0%E7%8B%B1%23" target="weibo">
 内马尔 我和梅西在巴黎经历了地狱（热度：1049419）
 </a>
@@ -6005,12 +6011,6 @@ TTG对战狼队（热度：943547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23" target="weibo">
 汪顺破亚洲纪录（热度：938946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E9%A2%86%E5%85%88%23" target="weibo">
-叙利亚领先（热度：938752）
 </a>
 </li>
 
