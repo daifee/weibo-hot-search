@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695564821029,
+  "endTime": 1695566026681,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -57,6 +57,14 @@
       "onboard_time": 1695519810,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1748888,
+      "num": 1748888,
+      "word": "日本免费发放滞销海鲜给学校供餐",
+      "onboard_time": 1695562898,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1695506,
@@ -296,14 +304,6 @@
       "word": "一个月给儿子办3次婚宴收66万礼金",
       "onboard_time": 1695516932,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 932679,
-      "num": 932679,
-      "word": "日本免费发放滞销海鲜给学校供餐",
-      "onboard_time": 1695562898,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527906,
+      "num": 527906,
+      "word": "女子结婚和亚运冠军同住一家酒店",
+      "onboard_time": 1695565000,
+      "rank": 5,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 508537,
       "num": 347527,
       "word": "漫画张小斐",
@@ -915,6 +923,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 446374,
+      "num": 446374,
+      "word": "34岁初中老师重新高考转学口腔医学",
+      "onboard_time": 1695563559,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444713,
       "num": 335683,
       "word": "我是殷郊 我的父王只跟小妈腻歪",
@@ -995,12 +1011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404249,
+      "num": 404249,
+      "word": "中国女排3比1塞尔维亚女排",
+      "onboard_time": 1695564760,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402678,
       "num": 402678,
       "word": "王者荣耀项目",
       "onboard_time": 1695540872,
       "rank": 22,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 402508,
+      "num": 402508,
+      "word": "丞磊去了西城男孩演唱会",
+      "onboard_time": 1695565061,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 386405,
@@ -1043,6 +1075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 371980,
+      "num": 371980,
+      "word": "张萌行李丢了",
+      "onboard_time": 1695564098,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371861,
       "num": 349376,
       "word": "香港俩5旬兄弟在母亲住院后疑被饿死",
@@ -1083,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 360660,
+      "num": 360660,
+      "word": "白敬亭老约范丞丞打球",
+      "onboard_time": 1695563799,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360550,
       "num": 360550,
       "word": "爸妈给拿下首金的邹佳琪准备了好多",
@@ -1115,6 +1163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 342890,
+      "num": 403408,
+      "word": "中国队金牌1个九宫格放不下",
+      "onboard_time": 1695563139,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337511,
       "num": 337511,
       "word": "李冰洁1500米自由泳夺金",
@@ -1123,12 +1179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 336294,
-      "num": 316200,
-      "word": "白敬亭老约范丞丞打球",
-      "onboard_time": 1695563799,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 336150,
+      "num": 336150,
+      "word": "张嘉倪这段台词替我怼职场不公平",
+      "onboard_time": 1695564818,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 334466,
@@ -1243,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303745,
-      "num": 303745,
-      "word": "34岁初中老师重新高考转学口腔医学",
-      "onboard_time": 1695563559,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301814,
       "num": 301814,
       "word": "亚洲飞鱼潘展乐",
@@ -1331,12 +1379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279297,
-      "num": 279297,
-      "word": "张萌行李丢了",
-      "onboard_time": 1695564098,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 278662,
+      "num": 278662,
+      "word": "飞云之下",
+      "onboard_time": 1695564518,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 277357,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1695525692,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271399,
+      "num": 271399,
+      "word": "张天爱张靓颖用体重打招呼",
+      "onboard_time": 1695565779,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 270996,
@@ -1595,20 +1651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239647,
+      "num": 239647,
+      "word": "张远热到请求脱下鱼皮",
+      "onboard_time": 1695563857,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238548,
       "num": 238548,
       "word": "侯明昊 平行世界的爱豆人生",
       "onboard_time": 1695543456,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238079,
-      "num": 238079,
-      "word": "张远热到请求脱下鱼皮",
-      "onboard_time": 1695563857,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 238004,
@@ -1715,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219212,
+      "num": 219212,
+      "word": "胡兵 米兰时装周",
+      "onboard_time": 1695564161,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 219018,
       "num": 219018,
       "word": "盘州市一煤矿发生事故致16人死亡",
@@ -1811,14 +1875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211253,
-      "num": 211253,
-      "word": "飞云之下",
-      "onboard_time": 1695564518,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 210284,
       "num": 210284,
       "word": "李荣浩回应被粉丝说大眼男神",
@@ -1840,14 +1896,6 @@
       "word": "邹佳琪邱秀萍断层优势夺首金",
       "onboard_time": 1695518912,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 207194,
-      "num": 317291,
-      "word": "中国队金牌1个九宫格放不下",
-      "onboard_time": 1695563139,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -1905,6 +1953,14 @@
       "onboard_time": 1695559417,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203932,
+      "num": 203932,
+      "word": "精神能量耗尽的表现",
+      "onboard_time": 1695564399,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 203819,
@@ -1979,28 +2035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196261,
-      "num": 196261,
-      "word": "精神能量耗尽的表现",
-      "onboard_time": 1695564399,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195965,
       "num": 440064,
       "word": "数字人点燃主火炬",
       "onboard_time": 1695478075,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193624,
-      "num": 196253,
-      "word": "胡兵 米兰时装周",
-      "onboard_time": 1695564161,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192418,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1695527431,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182183,
+      "num": 182183,
+      "word": "张远嘉宾巡回演唱会",
+      "onboard_time": 1695565541,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 180245,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1695485854,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154324,
-      "num": 196138,
-      "word": "中国女排3比1塞尔维亚女排",
-      "onboard_time": 1695564760,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 154178,
