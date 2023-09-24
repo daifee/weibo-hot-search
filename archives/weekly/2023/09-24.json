@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695544474197,
+  "endTime": 1695546883090,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -179,12 +179,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1054554,
+      "num": 339796,
+      "word": "4米多长巨鳄被发现正在路边吃人",
+      "onboard_time": 1695541954,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036745,
       "num": 782789,
       "word": "比预制菜更可恨的是承包学校食堂的关系户",
       "onboard_time": 1695523171,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1032439,
+      "num": 1032439,
+      "word": "陈梦11比0",
+      "onboard_time": 1695544834,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1004835,
@@ -225,6 +241,14 @@
       "onboard_time": 1695540215,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 888639,
+      "num": 888639,
+      "word": "女生误将自拍发工作群2分钟撤50张",
+      "onboard_time": 1695545014,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 881789,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692369,
+      "num": 692369,
+      "word": "韩国首尔五天四夜吃什么",
+      "onboard_time": 1695542913,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 686046,
       "num": 686046,
       "word": "第一次见有剧情的婚纱照",
@@ -353,6 +385,14 @@
       "onboard_time": 1695481061,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 680313,
+      "num": 680313,
+      "word": "日本将启动第二轮核污染水排海",
+      "onboard_time": 1695545134,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677585,
@@ -416,14 +456,6 @@
       "word": "12306回应压票再分批放票",
       "onboard_time": 1695521791,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608659,
-      "num": 339796,
-      "word": "4米多长巨鳄被发现正在路边吃人",
-      "onboard_time": 1695541954,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -531,6 +563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 510918,
+      "num": 510918,
+      "word": "林孝埈内道一过三",
+      "onboard_time": 1695545676,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508537,
       "num": 347527,
       "word": "漫画张小斐",
@@ -577,14 +617,6 @@
       "onboard_time": 1695474034,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 469280,
-      "num": 469280,
-      "word": "韩国首尔五天四夜吃什么",
-      "onboard_time": 1695542913,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 468221,
@@ -795,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313816,
+      "num": 313816,
+      "word": "考研读研 人生选择",
+      "onboard_time": 1695543874,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 313699,
       "num": 346977,
       "word": "带薪休假是菜鸟警察的天真与梦想",
@@ -945,6 +985,14 @@
       "onboard_time": 1695513025,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 259180,
+      "num": 194469,
+      "word": "狗狗嗅到人类幼崽后急到跺脚",
+      "onboard_time": 1695545557,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 259142,
@@ -1347,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187845,
+      "num": 187845,
+      "word": "孙颖莎3比0陈梅玉",
+      "onboard_time": 1695546755,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187834,
       "num": 187834,
       "word": "沈小婷跳拉丁舞",
@@ -1433,14 +1489,6 @@
       "onboard_time": 1695532956,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 177255,
-      "num": 177255,
-      "word": "考研读研 人生选择",
-      "onboard_time": 1695543874,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 175644,
@@ -1755,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135025,
+      "num": 307610,
+      "word": "58家国货在拼多多团建",
+      "onboard_time": 1695545796,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134919,
       "num": 134919,
       "word": "孙颖莎英语紧追马龙",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1695479923,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133708,
+      "num": 133708,
+      "word": "陕西男篮6个字回应官方处罚",
+      "onboard_time": 1695546755,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 129036,
@@ -1827,6 +1891,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 112351,
+      "num": 112351,
+      "word": "乐队就靠孩子撑场面了",
+      "onboard_time": 1695545315,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 112261,
       "num": 112261,
       "word": "李荣浩在发模特前没想过能当歌手",
@@ -1835,20 +1907,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106039,
+      "num": 1062714,
+      "word": "AI修复49年前中国亚运首金画面",
+      "onboard_time": 1695543156,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104301,
       "num": 104301,
       "word": "亚运开幕式越剧表演",
       "onboard_time": 1695489564,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99108,
-      "num": 1062714,
-      "word": "AI修复49年前中国亚运首金画面",
-      "onboard_time": 1695543156,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99060,
