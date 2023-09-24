@@ -1,0 +1,410 @@
+{
+  "runTime": 1695519302483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1589672,
+        "num": 1589672,
+        "word": "研招网崩了",
+        "onboard_time": 1695517531,
+        "rank": 0,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 1330832,
+        "num": 1330832,
+        "word": "中国赛艇队姑娘夺金",
+        "onboard_time": 1695518253,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17222,
+        "num": 1299316,
+        "word": "五个维度解码杭州亚运会",
+        "onboard_time": 1695456331,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1287991,
+        "num": 1287991,
+        "word": "马龙走了五分钟还在原地",
+        "onboard_time": 1695513808,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1234538,
+        "num": 1234538,
+        "word": "上班微信发了啥老板可能知道",
+        "onboard_time": 1695514290,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 934675,
+        "num": 934675,
+        "word": "一个月给儿子办3次婚宴收66万礼金",
+        "onboard_time": 1695516932,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892653,
+        "num": 892653,
+        "word": "房东的猫演唱会上座率",
+        "onboard_time": 1695515489,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 679034,
+        "num": 679034,
+        "word": "旋风少女还是拍保守了",
+        "onboard_time": 1695518372,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488105,
+        "num": 488105,
+        "word": "考研预报名",
+        "onboard_time": 1695516450,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 473081,
+        "num": 473081,
+        "word": "全场欢呼让巴基斯坦选手震惊了",
+        "onboard_time": 1695473861,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 937549,
+        "num": 466328,
+        "word": "张含韵 没想到30加会这么好",
+        "onboard_time": 1695512003,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443591,
+        "num": 443591,
+        "word": "赵又廷再用高圆圆威胁秦霄贤",
+        "onboard_time": 1695486871,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404883,
+        "num": 404883,
+        "word": "脂肪最怕的15种碱性食物",
+        "onboard_time": 1695513025,
+        "rank": 12,
+        "category": "知识科普,美食"
+      },
+      {
+        "raw_hot": 295046,
+        "num": 385911,
+        "word": "中国队杭州亚运首金",
+        "onboard_time": 1695518253,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251390,
+        "num": 383805,
+        "word": "亚运开幕式",
+        "onboard_time": 1695469652,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382659,
+        "num": 382659,
+        "word": "八种越吃越白的食物",
+        "onboard_time": 1695516513,
+        "rank": 15,
+        "category": "知识科普,美食"
+      },
+      {
+        "raw_hot": 321076,
+        "num": 321076,
+        "word": "汪苏泷把大雨唱来之后自己走了",
+        "onboard_time": 1695512967,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315652,
+        "num": 315652,
+        "word": "黄景瑜回复张婧仪",
+        "onboard_time": 1695480344,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290645,
+        "num": 290645,
+        "word": "铁路部门回应12306账号出现陌生人信息",
+        "onboard_time": 1695517171,
+        "rank": 18,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 285371,
+        "num": 285371,
+        "word": "走太慢吉祥物都急了",
+        "onboard_time": 1695475483,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1166533,
+        "num": 279699,
+        "word": "官方通报小学生遭同学极端欺辱",
+        "onboard_time": 1695483339,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354990,
+        "num": 275559,
+        "word": "当i人有一个e人女朋友",
+        "onboard_time": 1695515851,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327816,
+        "num": 274461,
+        "word": "王源李硕珉同框",
+        "onboard_time": 1695517650,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270389,
+        "num": 270389,
+        "word": "大学生工作三个月的样子",
+        "onboard_time": 1695517831,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277386,
+        "num": 267952,
+        "word": "惠英红捏张雨绮下巴",
+        "onboard_time": 1695515489,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254623,
+        "num": 254623,
+        "word": "毛晓彤泼水游戏好猛",
+        "onboard_time": 1695516513,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235991,
+        "num": 235991,
+        "word": "无意识减肥却能变瘦的习惯",
+        "onboard_time": 1695513627,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 599002,
+        "num": 232992,
+        "word": "核酸大王张核子进军预制菜",
+        "onboard_time": 1695494778,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226345,
+        "num": 226345,
+        "word": "林俊杰周深 直冲天灵盖组合",
+        "onboard_time": 1695513025,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222122,
+        "num": 222122,
+        "word": "杨幂这一帧真的好美",
+        "onboard_time": 1695481238,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482710,
+        "num": 222039,
+        "word": "这么背下去考研要满分上岸了",
+        "onboard_time": 1695518133,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232124,
+        "num": 221910,
+        "word": "五分钟就开席的极简婚礼",
+        "onboard_time": 1695518613,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221131,
+        "num": 221131,
+        "word": "叙利亚出场全场欢呼",
+        "onboard_time": 1695475781,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207645,
+        "num": 207645,
+        "word": "邹佳琪邱秀萍断层优势夺首金",
+        "onboard_time": 1695518912,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207242,
+        "num": 207242,
+        "word": "首批iPhone15品控",
+        "onboard_time": 1695513205,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196157,
+        "num": 196157,
+        "word": "赵露思被鸽子吓到了",
+        "onboard_time": 1695512365,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189595,
+        "num": 189595,
+        "word": "G社拍的费翔朱珠陈牧驰",
+        "onboard_time": 1695514468,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189552,
+        "num": 189552,
+        "word": "亚运会",
+        "onboard_time": 1695513568,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189092,
+        "num": 189092,
+        "word": "我爱你中国",
+        "onboard_time": 1695471215,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186776,
+        "num": 186776,
+        "word": "郭晶晶执旗霍启刚领队",
+        "onboard_time": 1695478136,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176905,
+        "num": 176905,
+        "word": "SEVENTEEN经纪公司道歉",
+        "onboard_time": 1695485434,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171978,
+        "num": 171978,
+        "word": "迎面走来的是雨刷器方队",
+        "onboard_time": 1695516150,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171180,
+        "num": 171180,
+        "word": "阿信鼓励梁静茹",
+        "onboard_time": 1695519271,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170551,
+        "num": 170551,
+        "word": "穿着100多斤的青绿山水裙跳舞是什么感觉",
+        "onboard_time": 1695510261,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166107,
+        "num": 166107,
+        "word": "外国运动员在杭州疯狂买买买",
+        "onboard_time": 1695483519,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158151,
+        "num": 158151,
+        "word": "张雨霏覃海洋汪顺今晚出战",
+        "onboard_time": 1695517411,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155979,
+        "num": 155979,
+        "word": "除了金繁还有一个人在默默发疯",
+        "onboard_time": 1695486213,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151128,
+        "num": 151128,
+        "word": "亚运开幕式有2个隐藏彩蛋",
+        "onboard_time": 1695517051,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146516,
+        "num": 146516,
+        "word": "李倩",
+        "onboard_time": 1695477764,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134481,
+        "num": 134481,
+        "word": "亚运会首个金牌日",
+        "onboard_time": 1695512245,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕#"
+    }
+  }
+}
