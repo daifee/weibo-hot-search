@@ -1,0 +1,410 @@
+{
+  "runTime": 1695536424667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430371,
+        "num": 1430371,
+        "word": "涂山暖暖",
+        "onboard_time": 1695530674,
+        "rank": 0,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 775326,
+        "num": 775326,
+        "word": "张国伟在亚运会馆外摊煎饼",
+        "onboard_time": 1695531694,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85901,
+        "num": 649597,
+        "word": "亚运开幕式国风美学拉满",
+        "onboard_time": 1695527133,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1129509,
+        "num": 603969,
+        "word": "专家称现有住房14亿人可能住不完",
+        "onboard_time": 1695531694,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 545140,
+        "num": 545140,
+        "word": "殷商王室 笼",
+        "onboard_time": 1695534331,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412815,
+        "num": 412815,
+        "word": "杭州好像真的有一亿人",
+        "onboard_time": 1695526834,
+        "rank": 5,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 387033,
+        "num": 387033,
+        "word": "陕西信达被重罚100万取消成绩",
+        "onboard_time": 1695529653,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373783,
+        "num": 373783,
+        "word": "酱香拿铁会让星巴克慌吗",
+        "onboard_time": 1695528212,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349164,
+        "num": 349164,
+        "word": "1岁半孙女午睡爷爷守3小时照顾",
+        "onboard_time": 1695525453,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858349,
+        "num": 348067,
+        "word": "上班微信发了啥老板可能知道",
+        "onboard_time": 1695514290,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1150124,
+        "num": 347052,
+        "word": "叙利亚总统时隔19年再访华",
+        "onboard_time": 1695533733,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973881,
+        "num": 343776,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 721426,
+        "num": 342570,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271887,
+        "num": 340382,
+        "word": "带薪休假是菜鸟警察的天真与梦想",
+        "onboard_time": 1695531994,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186442,
+        "num": 339568,
+        "word": "中国队亚运金牌九宫格",
+        "onboard_time": 1695530612,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676466,
+        "num": 337188,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 423560,
+        "num": 335683,
+        "word": "我是殷郊 我的父王只跟小妈腻歪",
+        "onboard_time": 1695535172,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409776,
+        "num": 333418,
+        "word": "外卖迟到可能是去抓间谍了",
+        "onboard_time": 1695535172,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372440,
+        "num": 331247,
+        "word": "舒淇拍刘雯",
+        "onboard_time": 1695533493,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366547,
+        "num": 329077,
+        "word": "旋风少女还是拍保守了",
+        "onboard_time": 1695518372,
+        "rank": 19,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 784125,
+        "num": 327633,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367128,
+        "num": 326492,
+        "word": "于文文说自己的歌都有点死了前男友的感觉",
+        "onboard_time": 1695526956,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325218,
+        "num": 325218,
+        "word": "女子就医发现五脏六腑全长反",
+        "onboard_time": 1695526292,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307310,
+        "num": 307310,
+        "word": "不敢想象28号的我",
+        "onboard_time": 1695534331,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301334,
+        "num": 301334,
+        "word": "虞书欣喻言合照",
+        "onboard_time": 1695529653,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262599,
+        "num": 262599,
+        "word": "王源米兰看秀图",
+        "onboard_time": 1695535353,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233892,
+        "num": 233892,
+        "word": "赵露思新中式穿搭",
+        "onboard_time": 1695533373,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224178,
+        "num": 224178,
+        "word": "情侣是最好的旅游饭搭子",
+        "onboard_time": 1695535112,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 221172,
+        "num": 221172,
+        "word": "offer5实习生简历好丰富",
+        "onboard_time": 1695532534,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214168,
+        "num": 214168,
+        "word": "黄景瑜张婧仪火光芭莎路透",
+        "onboard_time": 1695533432,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213386,
+        "num": 213386,
+        "word": "点餐点成了儿童套餐",
+        "onboard_time": 1695533915,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204168,
+        "num": 204168,
+        "word": "比预制菜更可恨的是承包学校食堂的关系户",
+        "onboard_time": 1695523171,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202623,
+        "num": 202623,
+        "word": "这个公司离职率应该很低",
+        "onboard_time": 1695532832,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200716,
+        "num": 200716,
+        "word": "杨倩解说",
+        "onboard_time": 1695531394,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187962,
+        "num": 187962,
+        "word": "解药 不要试图摘月亮",
+        "onboard_time": 1695536013,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185824,
+        "num": 185824,
+        "word": "侯明昊一句话创飞两个人",
+        "onboard_time": 1695533555,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179145,
+        "num": 179145,
+        "word": "李泽锋高低得渣出点名分来",
+        "onboard_time": 1695532715,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176935,
+        "num": 176935,
+        "word": "米兰时装周 女明星",
+        "onboard_time": 1695532956,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170571,
+        "num": 170571,
+        "word": "田嘉瑞有工作室了",
+        "onboard_time": 1695526714,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164259,
+        "num": 168496,
+        "word": "一个月给儿子办3次婚宴收66万礼金",
+        "onboard_time": 1695516932,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167733,
+        "num": 167733,
+        "word": "成毅出发巴黎时装周饭拍",
+        "onboard_time": 1695532297,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165885,
+        "num": 165885,
+        "word": "曾黎的手腕可以遮住半张脸",
+        "onboard_time": 1695526774,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158189,
+        "num": 158189,
+        "word": "丁程鑫这腿骑不了这车",
+        "onboard_time": 1695535653,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168603,
+        "num": 152366,
+        "word": "田嘉瑞全网涨粉超200万",
+        "onboard_time": 1695535954,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145222,
+        "num": 145222,
+        "word": "王者荣耀敦煌第四季",
+        "onboard_time": 1695533312,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142956,
+        "num": 142956,
+        "word": "这么背下去考研要满分上岸了",
+        "onboard_time": 1695518133,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140900,
+        "num": 140900,
+        "word": "于适被误伤却说追求真实",
+        "onboard_time": 1695535713,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120865,
+        "num": 137428,
+        "word": "王者项目小组赛",
+        "onboard_time": 1695528873,
+        "rank": 47,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 137293,
+        "num": 137293,
+        "word": "杭州外卖员迎首金的方式",
+        "onboard_time": 1695535292,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132068,
+        "num": 132068,
+        "word": "7旬父母连续8年给开公交儿子送饭",
+        "onboard_time": 1695536374,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席亚运会开幕式#"
+    }
+  }
+}
