@@ -1,0 +1,410 @@
+{
+  "runTime": 1695532531464,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2160028,
+        "num": 2160028,
+        "word": "涂山暖暖",
+        "onboard_time": 1695530674,
+        "rank": 0,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 718611,
+        "num": 718611,
+        "word": "酱香拿铁会让星巴克慌吗",
+        "onboard_time": 1695528212,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 710261,
+        "word": "亚运开幕式国风美学拉满",
+        "onboard_time": 1695527133,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 898346,
+        "num": 708617,
+        "word": "上班微信发了啥老板可能知道",
+        "onboard_time": 1695514290,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 702808,
+        "num": 702808,
+        "word": "女子就医发现五脏六腑全长反",
+        "onboard_time": 1695526292,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654457,
+        "num": 654457,
+        "word": "中国队亚运金牌九宫格",
+        "onboard_time": 1695530612,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577046,
+        "num": 577046,
+        "word": "杭州好像真的有一亿人",
+        "onboard_time": 1695526834,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 568314,
+        "num": 568314,
+        "word": "黄雨婷夺10米气步枪金牌",
+        "onboard_time": 1695529053,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554810,
+        "num": 554810,
+        "word": "陕西信达被重罚100万取消成绩",
+        "onboard_time": 1695529653,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410629,
+        "num": 410629,
+        "word": "比预制菜更可恨的是承包学校食堂的关系户",
+        "onboard_time": 1695523171,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1511289,
+        "num": 410364,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031495,
+        "num": 410255,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 603247,
+        "num": 409948,
+        "word": "旋风少女还是拍保守了",
+        "onboard_time": 1695518372,
+        "rank": 12,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 305266,
+        "num": 409586,
+        "word": "1岁半孙女午睡爷爷守3小时照顾",
+        "onboard_time": 1695525453,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183872,
+        "num": 409167,
+        "word": "周深繁花依旧告慰志愿军先烈",
+        "onboard_time": 1695532173,
+        "rank": 14,
+        "category": "电影,军事"
+      },
+      {
+        "raw_hot": 409047,
+        "num": 409047,
+        "word": "柯洁亚运会开门红",
+        "onboard_time": 1695527252,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529272,
+        "num": 405695,
+        "word": "虞书欣喻言合照",
+        "onboard_time": 1695529653,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394438,
+        "num": 394438,
+        "word": "张国伟在亚运会馆外摊煎饼",
+        "onboard_time": 1695531694,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368664,
+        "num": 368664,
+        "word": "中国香港杭州亚运首金",
+        "onboard_time": 1695527133,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326214,
+        "num": 326214,
+        "word": "田嘉瑞有工作室了",
+        "onboard_time": 1695526714,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123151,
+        "num": 316068,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529137,
+        "num": 308713,
+        "word": "于文文说自己的歌都有点死了前男友的感觉",
+        "onboard_time": 1695526956,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71275,
+        "num": 288219,
+        "word": "今年时装周有哪些看点",
+        "onboard_time": 1695528629,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270259,
+        "num": 270259,
+        "word": "房东的猫演唱会上座率",
+        "onboard_time": 1695515489,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266610,
+        "num": 266610,
+        "word": "曾黎的手腕可以遮住半张脸",
+        "onboard_time": 1695526774,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260031,
+        "num": 260031,
+        "word": "王者项目小组赛",
+        "onboard_time": 1695528873,
+        "rank": 25,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 235738,
+        "num": 235738,
+        "word": "张含韵 没想到30加会这么好",
+        "onboard_time": 1695512003,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225205,
+        "num": 225205,
+        "word": "这么背下去考研要满分上岸了",
+        "onboard_time": 1695518133,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221060,
+        "num": 221060,
+        "word": "一个月给儿子办3次婚宴收66万礼金",
+        "onboard_time": 1695516932,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216486,
+        "num": 216486,
+        "word": "专家称现有住房14亿人可能住不完",
+        "onboard_time": 1695531694,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 766099,
+        "num": 214291,
+        "word": "官方通报小学生遭同学极端欺辱",
+        "onboard_time": 1695483339,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331478,
+        "num": 212735,
+        "word": "杨倩解说",
+        "onboard_time": 1695531394,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201701,
+        "num": 201701,
+        "word": "以闪亮之名梦洲笙歌",
+        "onboard_time": 1695531815,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201261,
+        "num": 201261,
+        "word": "成毅出发巴黎时装周饭拍",
+        "onboard_time": 1695532297,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196809,
+        "num": 196809,
+        "word": "王濛曾在杭州包揽所有金牌",
+        "onboard_time": 1695530674,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186206,
+        "num": 186206,
+        "word": "亚运会",
+        "onboard_time": 1695513568,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182646,
+        "num": 182646,
+        "word": "发现丢失一年的猫在邻居家",
+        "onboard_time": 1695519511,
+        "rank": 36,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 174110,
+        "num": 174110,
+        "word": "侯明昊黄礼志e人合舞",
+        "onboard_time": 1695526233,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163963,
+        "num": 163963,
+        "word": "陆虎老板5录制状态",
+        "onboard_time": 1695527492,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162367,
+        "num": 162367,
+        "word": "为什么吃番茄皮肤会变好",
+        "onboard_time": 1695521730,
+        "rank": 39,
+        "category": "知识科普,美妆"
+      },
+      {
+        "raw_hot": 157124,
+        "num": 157124,
+        "word": "中国射击队包揽金银",
+        "onboard_time": 1695529532,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156203,
+        "num": 156203,
+        "word": "中国队1小时5金",
+        "onboard_time": 1695522270,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147186,
+        "num": 147186,
+        "word": "带薪休假是菜鸟警察的天真与梦想",
+        "onboard_time": 1695531994,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143365,
+        "num": 143365,
+        "word": "当i人有一个e人女朋友",
+        "onboard_time": 1695515851,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137614,
+        "num": 137614,
+        "word": "近500例胃转流手术后34名患者伤残",
+        "onboard_time": 1695528094,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134391,
+        "num": 134391,
+        "word": "12306回应压票再分批放票",
+        "onboard_time": 1695521791,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131727,
+        "num": 131727,
+        "word": "杨幂同款圆脑壳棒球帽麻花辫",
+        "onboard_time": 1695523350,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131168,
+        "num": 131168,
+        "word": "赵今麦黄色雨靴",
+        "onboard_time": 1695529653,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128321,
+        "num": 128321,
+        "word": "哈工大定制115000块专属月饼送学子",
+        "onboard_time": 1695529473,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 126567,
+        "word": "亚运会开幕式观众离场干干净净",
+        "onboard_time": 1695523050,
+        "rank": 49,
+        "category": "社会新闻,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕#"
+    }
+  }
+}

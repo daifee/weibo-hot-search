@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695530025187,
+  "endTime": 1695532531464,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -11,8 +11,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2160028,
+      "num": 2160028,
+      "word": "涂山暖暖",
+      "onboard_time": 1695530674,
+      "rank": 0,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 1796364,
-      "num": 297535,
+      "num": 316068,
       "word": "张杰谢娜公开恋情是临时决定",
       "onboard_time": 1695519810,
       "rank": 20,
@@ -41,6 +49,14 @@
       "onboard_time": 1695522270,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1511289,
+      "num": 410364,
+      "word": "张震岳49岁婚礼",
+      "onboard_time": 1695529891,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1361229,
@@ -81,14 +97,6 @@
       "onboard_time": 1695514290,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1184498,
-      "num": 219646,
-      "word": "张震岳49岁婚礼",
-      "onboard_time": 1695529891,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1162078,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 760565,
-      "num": 285107,
+      "num": 308713,
       "word": "于文文说自己的歌都有点死了前男友的感觉",
       "onboard_time": 1695526956,
       "rank": 21,
@@ -219,12 +227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 718611,
+      "num": 718611,
+      "word": "酱香拿铁会让星巴克慌吗",
+      "onboard_time": 1695528212,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 706411,
       "num": 706411,
       "word": "郭晶晶执旗霍启刚领队",
       "onboard_time": 1695478136,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 702808,
+      "num": 702808,
+      "word": "女子就医发现五脏六腑全长反",
+      "onboard_time": 1695526292,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686046,
@@ -275,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 654457,
+      "num": 654457,
+      "word": "中国队亚运金牌九宫格",
+      "onboard_time": 1695530612,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646248,
       "num": 646248,
       "word": "叙利亚出场全场欢呼",
@@ -307,11 +339,27 @@
       "category": "知识科普,美妆"
     },
     {
+      "raw_hot": 577046,
+      "num": 577046,
+      "word": "杭州好像真的有一亿人",
+      "onboard_time": 1695526834,
+      "rank": 15,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 569616,
       "num": 569616,
       "word": "中国赛艇队再得一金",
       "onboard_time": 1695521431,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 568314,
+      "num": 568314,
+      "word": "黄雨婷夺10米气步枪金牌",
+      "onboard_time": 1695529053,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -323,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 554810,
+      "num": 554810,
+      "word": "陕西信达被重罚100万取消成绩",
+      "onboard_time": 1695529653,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539683,
       "num": 539683,
       "word": "外国运动员在杭州疯狂买买买",
@@ -331,20 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 517616,
-      "num": 218961,
-      "word": "黄雨婷夺10米气步枪金牌",
-      "onboard_time": 1695529053,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 505724,
-      "num": 505724,
-      "word": "杭州好像真的有一亿人",
-      "onboard_time": 1695526834,
-      "rank": 15,
-      "category": "社会新闻,体育"
+      "raw_hot": 529272,
+      "num": 405695,
+      "word": "虞书欣喻言合照",
+      "onboard_time": 1695529653,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 504396,
@@ -395,28 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465160,
-      "num": 325417,
-      "word": "虞书欣喻言合照",
-      "onboard_time": 1695529653,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 459321,
       "num": 438609,
       "word": "房东的猫好妹妹终于同台了",
       "onboard_time": 1695481304,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 454872,
-      "num": 454872,
-      "word": "女子就医发现五脏六腑全长反",
-      "onboard_time": 1695526292,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444709,
@@ -435,12 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 394919,
-      "num": 394919,
-      "word": "酱香拿铁会让星巴克慌吗",
-      "onboard_time": 1695528212,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 394438,
+      "num": 394438,
+      "word": "张国伟在亚运会馆外摊煎饼",
+      "onboard_time": 1695531694,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 384966,
@@ -507,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331478,
+      "num": 212735,
+      "word": "杨倩解说",
+      "onboard_time": 1695531394,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327816,
       "num": 281843,
       "word": "王源李硕珉同框",
@@ -539,15 +579,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297727,
-      "num": 297727,
-      "word": "陕西信达被重罚100万取消成绩",
-      "onboard_time": 1695529653,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 296121,
+      "raw_hot": 305266,
       "num": 420347,
       "word": "1岁半孙女午睡爷爷守3小时照顾",
       "onboard_time": 1695525453,
@@ -648,6 +680,14 @@
       "word": "全世界找一诺",
       "onboard_time": 1695478907,
       "rank": 25,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 260031,
+      "num": 260031,
+      "word": "王者项目小组赛",
+      "onboard_time": 1695528873,
+      "rank": 43,
       "category": "游戏,体育"
     },
     {
@@ -819,6 +859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 216486,
+      "num": 216486,
+      "word": "专家称现有住房14亿人可能住不完",
+      "onboard_time": 1695531694,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 216017,
       "num": 416281,
       "word": "亚运会开幕式观众离场干干净净",
@@ -883,6 +931,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 201701,
+      "num": 201701,
+      "word": "以闪亮之名梦洲笙歌",
+      "onboard_time": 1695531815,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201261,
+      "num": 201261,
+      "word": "成毅出发巴黎时装周饭拍",
+      "onboard_time": 1695532297,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199249,
       "num": 107241,
       "word": "交出你相册里的三小只",
@@ -897,6 +961,14 @@
       "onboard_time": 1695529653,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196809,
+      "num": 196809,
+      "word": "王濛曾在杭州包揽所有金牌",
+      "onboard_time": 1695530674,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 195965,
@@ -971,6 +1043,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 183872,
+      "num": 409167,
+      "word": "周深繁花依旧告慰志愿军先烈",
+      "onboard_time": 1695532173,
+      "rank": 14,
+      "category": "电影,军事"
+    },
+    {
       "raw_hot": 183837,
       "num": 183837,
       "word": "闪耀暖暖",
@@ -1041,14 +1121,6 @@
       "onboard_time": 1695471634,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160296,
-      "num": 160296,
-      "word": "王者项目小组赛",
-      "onboard_time": 1695528873,
-      "rank": 43,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 159750,
@@ -1153,6 +1225,14 @@
       "onboard_time": 1695525814,
       "rank": 41,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 147186,
+      "num": 147186,
+      "word": "带薪休假是菜鸟警察的天真与梦想",
+      "onboard_time": 1695531994,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144980,
@@ -1267,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121186,
+      "num": 834700,
+      "word": "亚运开幕式国风美学拉满",
+      "onboard_time": 1695527133,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120994,
       "num": 120994,
       "word": "郭晶晶雨中骑行夸赞西湖诗意美",
@@ -1281,14 +1369,6 @@
       "onboard_time": 1695511583,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110597,
-      "num": 834700,
-      "word": "亚运开幕式国风美学拉满",
-      "onboard_time": 1695527133,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 104301,
@@ -1355,8 +1435,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70974,
-      "num": 233556,
+      "raw_hot": 71275,
+      "num": 288219,
       "word": "今年时装周有哪些看点",
       "onboard_time": 1695528629,
       "rank": 34,
