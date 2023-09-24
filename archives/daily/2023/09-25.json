@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695579588560,
+  "endTime": 1695580439651,
   "band_list": [
     {
       "raw_hot": 1086355,
@@ -457,6 +457,14 @@
       "onboard_time": 1695564818,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20318,
+      "num": 28053,
+      "word": "切尔西0比1阿斯顿维拉",
+      "onboard_time": 1695568480,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 16381,
