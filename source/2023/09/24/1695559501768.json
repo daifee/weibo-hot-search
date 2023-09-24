@@ -1,0 +1,410 @@
+{
+  "runTime": 1695559501768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882438,
+        "num": 882438,
+        "word": "汪顺破亚洲纪录",
+        "onboard_time": 1695557014,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1288463,
+        "num": 873592,
+        "word": "夫妻爬泰山将孩子独留车内4小时",
+        "onboard_time": 1695550055,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6621,
+        "num": 766848,
+        "word": "杭州亚运会开幕式刷新亚运史",
+        "onboard_time": 1695559417,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 965537,
+        "num": 762715,
+        "word": "像吗 不像删了",
+        "onboard_time": 1695558575,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 748894,
+        "num": 748894,
+        "word": "张本智和2比3伊朗选手",
+        "onboard_time": 1695558037,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745936,
+        "num": 745936,
+        "word": "王心凌演唱会嘉宾",
+        "onboard_time": 1695557616,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 647475,
+        "num": 647475,
+        "word": "准大学生被骗9800元后自杀主犯被判无期",
+        "onboard_time": 1695552333,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609553,
+        "num": 609553,
+        "word": "IU演唱会边跳candy边提裤子",
+        "onboard_time": 1695555274,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429361,
+        "num": 429361,
+        "word": "日本女团3比0中国台北女团",
+        "onboard_time": 1695552814,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424282,
+        "num": 424282,
+        "word": "和王一博一起为亚运霹雳舞打call",
+        "onboard_time": 1695558275,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 653397,
+        "num": 416966,
+        "word": "汪顺200米混金牌",
+        "onboard_time": 1695556117,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485000,
+        "num": 415422,
+        "word": "徐必成的公孙离",
+        "onboard_time": 1695555456,
+        "rank": 11,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 409487,
+        "num": 409487,
+        "word": "剃了胡子的胡歌",
+        "onboard_time": 1695553113,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394950,
+        "num": 394950,
+        "word": "张雨霏亚运首金",
+        "onboard_time": 1695555634,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369588,
+        "num": 369588,
+        "word": "亚运会",
+        "onboard_time": 1695558696,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348925,
+        "num": 348925,
+        "word": "中国女排vs塞尔维亚女排",
+        "onboard_time": 1695558395,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345220,
+        "num": 345220,
+        "word": "丁克和独身者存多少钱够养老",
+        "onboard_time": 1695550233,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337511,
+        "num": 337511,
+        "word": "李冰洁1500米自由泳夺金",
+        "onboard_time": 1695558095,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315785,
+        "num": 315785,
+        "word": "成都坐车到北京未来可能仅需90分钟",
+        "onboard_time": 1695538892,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302001,
+        "num": 302001,
+        "word": "成毅火龙果扒皮直接啃",
+        "onboard_time": 1695554614,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600173,
+        "num": 300881,
+        "word": "饿瘦与运动瘦的区别",
+        "onboard_time": 1695557253,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 328471,
+        "num": 297168,
+        "word": "韩国选手掌掴对手被罚下场",
+        "onboard_time": 1695542314,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291528,
+        "num": 291528,
+        "word": "同事在旅一种很新的游",
+        "onboard_time": 1695558395,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 285729,
+        "num": 285729,
+        "word": "女警一眼就认出吸毒人员一招擒拿",
+        "onboard_time": 1695549272,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281242,
+        "num": 281242,
+        "word": "阿娇阿Sa追星成功",
+        "onboard_time": 1695551912,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279521,
+        "num": 279521,
+        "word": "4米多长巨鳄被发现正在路边吃人",
+        "onboard_time": 1695541954,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234246,
+        "num": 234246,
+        "word": "人的一生要和朋友告别两次",
+        "onboard_time": 1695558575,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214626,
+        "num": 214626,
+        "word": "林恒登场",
+        "onboard_time": 1695558516,
+        "rank": 27,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 214528,
+        "num": 214528,
+        "word": "中国游泳队包揽金银",
+        "onboard_time": 1695557073,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206194,
+        "num": 206194,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134674,
+        "num": 204118,
+        "word": "全员泳动机",
+        "onboard_time": 1695557316,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202404,
+        "num": 202404,
+        "word": "女生误将自拍发工作群2分钟撤50张",
+        "onboard_time": 1695545014,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197290,
+        "num": 197290,
+        "word": "宣璐爱情和事业果断选择事业",
+        "onboard_time": 1695559357,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192436,
+        "num": 192436,
+        "word": "网传大同小学生遭霸凌教育局连夜调查",
+        "onboard_time": 1695539971,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184549,
+        "num": 184549,
+        "word": "宋亚轩王牌拍摄路透",
+        "onboard_time": 1695558335,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181599,
+        "num": 181599,
+        "word": "日本记者报道亚运会400日元随便吃",
+        "onboard_time": 1695551072,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 180075,
+        "num": 180075,
+        "word": "教育部称对预制菜进校园持审慎态度",
+        "onboard_time": 1695556117,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16333,
+        "num": 179930,
+        "word": "良渚之光照耀亚运之美",
+        "onboard_time": 1695559236,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179900,
+        "num": 179900,
+        "word": "i人和e人打游戏的区别",
+        "onboard_time": 1695555336,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170512,
+        "num": 170512,
+        "word": "张雨霏蝶后",
+        "onboard_time": 1695556654,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165744,
+        "num": 165744,
+        "word": "国足亚运队vs孟加拉国",
+        "onboard_time": 1695556474,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87175,
+        "num": 163242,
+        "word": "AI修复49年前中国亚运首金画面",
+        "onboard_time": 1695543156,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162482,
+        "num": 162482,
+        "word": "孙颖莎也没走成",
+        "onboard_time": 1695551134,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159608,
+        "num": 159608,
+        "word": "官方通报校长和主任外出考察同房过夜",
+        "onboard_time": 1695559477,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 158443,
+        "num": 158443,
+        "word": "郑秀妍王心凌合唱爱你",
+        "onboard_time": 1695558816,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156883,
+        "num": 156883,
+        "word": "为王者六人组花式打call",
+        "onboard_time": 1695558696,
+        "rank": 45,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 154865,
+        "num": 154865,
+        "word": "邓为老头衫自拍",
+        "onboard_time": 1695548014,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 148357,
+        "num": 148357,
+        "word": "谢娜官宣微博音乐盛典",
+        "onboard_time": 1695554496,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145521,
+        "num": 145521,
+        "word": "马龙为樊振东神仙球鼓掌",
+        "onboard_time": 1695557134,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132707,
+        "num": 132707,
+        "word": "潘展乐100自由泳金牌",
+        "onboard_time": 1695559477,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的亚运会时间#"
+    }
+  }
+}
