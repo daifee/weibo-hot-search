@@ -1,0 +1,410 @@
+{
+  "runTime": 1695553973442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2164362,
+        "num": 2164362,
+        "word": "夫妻爬泰山将孩子独留车内4小时",
+        "onboard_time": 1695550055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549883,
+        "num": 1067147,
+        "word": "女警一眼就认出吸毒人员一招擒拿",
+        "onboard_time": 1695549272,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84863,
+        "num": 792167,
+        "word": "AI修复49年前中国亚运首金画面",
+        "onboard_time": 1695543156,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580862,
+        "num": 580862,
+        "word": "丁克和独身者存多少钱够养老",
+        "onboard_time": 1695550233,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394580,
+        "num": 577460,
+        "word": "成都坐车到北京未来可能仅需90分钟",
+        "onboard_time": 1695538892,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575459,
+        "num": 575459,
+        "word": "孙颖莎也没走成",
+        "onboard_time": 1695551134,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279782,
+        "num": 436164,
+        "word": "中国姑娘与叙利亚民众交换玫瑰",
+        "onboard_time": 1695539733,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385800,
+        "num": 385800,
+        "word": "陈梦11比0",
+        "onboard_time": 1695544834,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325500,
+        "num": 325500,
+        "word": "王者荣耀项目",
+        "onboard_time": 1695540872,
+        "rank": 8,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 263619,
+        "num": 263619,
+        "word": "陕西男篮6个字回应官方处罚",
+        "onboard_time": 1695546755,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 671518,
+        "num": 258379,
+        "word": "阿娇阿Sa追星成功",
+        "onboard_time": 1695551912,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596831,
+        "num": 245950,
+        "word": "4米多长巨鳄被发现正在路边吃人",
+        "onboard_time": 1695541954,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498431,
+        "num": 242114,
+        "word": "日本记者报道亚运会400日元随便吃",
+        "onboard_time": 1695551072,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 286737,
+        "num": 232594,
+        "word": "女生误将自拍发工作群2分钟撤50张",
+        "onboard_time": 1695545014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19106,
+        "num": 219161,
+        "word": "淘宝为亚做E",
+        "onboard_time": 1695553234,
+        "rank": 14,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 351544,
+        "num": 207089,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205622,
+        "num": 205622,
+        "word": "光与夜之恋 主线卡",
+        "onboard_time": 1695552874,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204563,
+        "num": 204563,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202783,
+        "num": 202783,
+        "word": "中国台北运动员夺金BGM我的未来不是梦",
+        "onboard_time": 1695552814,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367699,
+        "num": 200764,
+        "word": "专家谈李佳琦花西子眉笔争议",
+        "onboard_time": 1695547059,
+        "rank": 19,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 493324,
+        "num": 198586,
+        "word": "韩国选手掌掴对手被罚下场",
+        "onboard_time": 1695542314,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300250,
+        "num": 194441,
+        "word": "李嘉琦说这个家没我可咋办",
+        "onboard_time": 1695551672,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290887,
+        "num": 191733,
+        "word": "网传大同小学生遭霸凌教育局连夜调查",
+        "onboard_time": 1695539971,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 243618,
+        "num": 188155,
+        "word": "剃了胡子的胡歌",
+        "onboard_time": 1695553113,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241845,
+        "num": 186777,
+        "word": "刘诗诗回应不上常驻综艺",
+        "onboard_time": 1695542194,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239665,
+        "num": 182685,
+        "word": "邓为老头衫自拍",
+        "onboard_time": 1695548014,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 181985,
+        "num": 181985,
+        "word": "考研读研 人生选择",
+        "onboard_time": 1695543874,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178216,
+        "num": 178216,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176548,
+        "num": 176548,
+        "word": "外卖迟到可能是去抓间谍了",
+        "onboard_time": 1695535172,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188605,
+        "num": 176477,
+        "word": "刘诗诗张云龙额头吻路透",
+        "onboard_time": 1695548671,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477046,
+        "num": 176405,
+        "word": "准大学生被骗9800元后自杀主犯被判无期",
+        "onboard_time": 1695552333,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402550,
+        "num": 176363,
+        "word": "日本女团3比0中国台北女团",
+        "onboard_time": 1695552814,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176285,
+        "num": 176285,
+        "word": "林孝埈内道一过三",
+        "onboard_time": 1695545676,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162708,
+        "num": 162708,
+        "word": "58家国货在拼多多团建",
+        "onboard_time": 1695545796,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160171,
+        "num": 160171,
+        "word": "跟父母坦白想离婚有多难",
+        "onboard_time": 1695551433,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154857,
+        "num": 154857,
+        "word": "韩国首尔五天四夜吃什么",
+        "onboard_time": 1695542913,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150687,
+        "num": 150687,
+        "word": "马龙这一幕我熟",
+        "onboard_time": 1695551256,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149222,
+        "num": 149222,
+        "word": "涂山暖暖",
+        "onboard_time": 1695530674,
+        "rank": 37,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 148984,
+        "num": 148984,
+        "word": "张雨绮米兰时装周7年妆造变化",
+        "onboard_time": 1695553774,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13150,
+        "num": 147686,
+        "word": "搜狐视频播主大会",
+        "onboard_time": 1695553234,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146984,
+        "num": 146984,
+        "word": "贺峻霖被实习生简历吓到",
+        "onboard_time": 1695540991,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146086,
+        "num": 146086,
+        "word": "王源丹宁风",
+        "onboard_time": 1695550114,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140899,
+        "num": 140899,
+        "word": "叙利亚总统时隔19年再访华",
+        "onboard_time": 1695533733,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 132951,
+        "num": 132951,
+        "word": "国乒女团晋级亚运会四强",
+        "onboard_time": 1695548192,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126981,
+        "num": 126981,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121056,
+        "num": 121056,
+        "word": "伍佰下次苏州这种大活别接了",
+        "onboard_time": 1695538411,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121002,
+        "num": 121002,
+        "word": "男子帮600人保存去世亲人记忆",
+        "onboard_time": 1695551013,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114024,
+        "num": 114024,
+        "word": "狗狗嗅到人类幼崽后急到跺脚",
+        "onboard_time": 1695545557,
+        "rank": 47,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 113644,
+        "num": 113644,
+        "word": "日本将启动第二轮核污染水排海",
+        "onboard_time": 1695545134,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107829,
+        "num": 107829,
+        "word": "丞磊清唱终角浅",
+        "onboard_time": 1695548973,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会时光#"
+    }
+  }
+}
