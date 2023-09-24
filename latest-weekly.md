@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/24 00:19:33 ~ 2023/09/25 04:16:26
+本榜单时间：2023/09/24 00:19:33 ~ 2023/09/25 04:33:52
 </p>
 </blockquote>
 <p>
@@ -2531,6 +2531,12 @@ AI修复49年前中国亚运首金画面（热度：106039）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8A%A9%E5%A8%81%E5%9B%A2%23" target="weibo">
 亚运会助威团（热度：15595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%BF%98%E5%8E%9F%E9%93%B2%E8%85%BF%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
+张杰还原铲腿名场面（热度：10438）
 </a>
 </li>
 
