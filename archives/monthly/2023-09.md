@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/24 23:15:30
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/24 23:34:05
 </p>
 </blockquote>
 <p>
@@ -4383,6 +4383,12 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%8A%B17000%E5%85%83%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%98%E5%B8%A6%E7%A5%A8%23" target="weibo">
+女生花7000元看周杰伦演唱会忘带票（热度：1170948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89%23" target="weibo">
 薛之谦跪着向歌迷道歉（热度：1170844）
 </a>
@@ -6005,12 +6011,6 @@ TTG对战狼队（热度：943547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E9%A2%86%E5%85%88%23" target="weibo">
 叙利亚领先（热度：938752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AE%9E%E6%96%BD5%E4%B8%AA%E6%9C%88%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23" target="weibo">
-泰国对中国实施5个月免签政策（热度：938736）
 </a>
 </li>
 
