@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695597358836,
+  "endTime": 1695598433726,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -41,6 +41,14 @@
       "onboard_time": 1695530674,
       "rank": 0,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 1970420,
+      "num": 1970420,
+      "word": "宁泽涛",
+      "onboard_time": 1695596604,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1932855,
@@ -491,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 725979,
-      "num": 725979,
-      "word": "宁泽涛",
-      "onboard_time": 1695596604,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 723984,
       "num": 723984,
       "word": "外卖迟到可能是去抓间谍了",
@@ -907,20 +907,20 @@
       "category": "知识科普,美食"
     },
     {
+      "raw_hot": 503218,
+      "num": 503218,
+      "word": "张小斐这剧除了原配全员好嗑",
+      "onboard_time": 1695570454,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498431,
       "num": 298428,
       "word": "日本记者报道亚运会400日元随便吃",
       "onboard_time": 1695551072,
       "rank": 30,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 497573,
-      "num": 497573,
-      "word": "张小斐这剧除了原配全员好嗑",
-      "onboard_time": 1695570454,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 481008,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 287976,
+      "num": 203242,
+      "word": "当8岁的儿子旁观了一场校园霸凌",
+      "onboard_time": 1695596604,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286028,
       "num": 286028,
       "word": "于适被道具划伤是费翔老师先提起的",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1695525692,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271358,
+      "num": 220445,
+      "word": "以为健康的方式其实不健康",
+      "onboard_time": 1695597323,
+      "rank": 33,
+      "category": "知识科普"
     },
     {
       "raw_hot": 271270,
@@ -1859,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238588,
+      "num": 190244,
+      "word": "薛之谦演唱会当场官宣清远站",
+      "onboard_time": 1695597386,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238548,
       "num": 238548,
       "word": "侯明昊 平行世界的爱豆人生",
@@ -1979,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219734,
+      "num": 219734,
+      "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
+      "onboard_time": 1695588253,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 219212,
       "num": 219212,
       "word": "胡兵 米兰时装周",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1695542913,
       "rank": 31,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 217129,
+      "num": 217129,
+      "word": "王者荣耀中国代表队获胜采访",
+      "onboard_time": 1695590772,
+      "rank": 27,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 216017,
@@ -2267,22 +2307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198974,
-      "num": 179321,
-      "word": "王者荣耀中国代表队获胜采访",
-      "onboard_time": 1695590772,
-      "rank": 27,
-      "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 198027,
-      "num": 176357,
-      "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
-      "onboard_time": 1695588253,
-      "rank": 30,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 197286,
       "num": 197286,
       "word": "赵今麦黄色雨靴",
@@ -2515,20 +2539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174354,
-      "num": 174354,
-      "word": "当8岁的儿子旁观了一场校园霸凌",
-      "onboard_time": 1695596604,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171180,
       "num": 171180,
       "word": "阿信鼓励梁静茹",
       "onboard_time": 1695519271,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168995,
+      "num": 108744,
+      "word": "沈腾吐槽金晨一步一亮相",
+      "onboard_time": 1695598287,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 167737,
@@ -2681,6 +2705,14 @@
       "onboard_time": 1695567518,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154910,
+      "num": 108603,
+      "word": "建议洗完衣服马上去晒",
+      "onboard_time": 1695597869,
+      "rank": 31,
+      "category": "知识科普"
     },
     {
       "raw_hot": 154178,
@@ -2971,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134686,
+      "num": 134686,
+      "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
+      "onboard_time": 1695577817,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133827,
       "num": 133827,
       "word": "柏林马拉松",
@@ -3067,6 +3107,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 114051,
+      "num": 114051,
+      "word": "好事成双女主和情敌处成闺蜜了",
+      "onboard_time": 1695595158,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112622,
       "num": 112622,
       "word": "中国游泳队杭州亚运第2金",
@@ -3091,12 +3139,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111049,
+      "num": 111049,
+      "word": "Nbl总决赛裁判报告",
+      "onboard_time": 1695598110,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110093,
       "num": 110093,
       "word": "谷爱凌 米兰时装展准备好了",
       "onboard_time": 1695570994,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108917,
+      "num": 108917,
+      "word": "马 今天状态真好就跟身上没人似的",
+      "onboard_time": 1695595040,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108329,
+      "num": 108329,
+      "word": "张本智和赛后揽责",
+      "onboard_time": 1695596541,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 106039,
@@ -3113,22 +3185,6 @@
       "onboard_time": 1695489564,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104276,
-      "num": 104276,
-      "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
-      "onboard_time": 1695577817,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102355,
-      "num": 102355,
-      "word": "好事成双女主和情敌处成闺蜜了",
-      "onboard_time": 1695595158,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 101554,
@@ -3171,6 +3227,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89302,
+      "num": 89302,
+      "word": "中国游泳队太牛了",
+      "onboard_time": 1695597146,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85789,
+      "num": 85789,
+      "word": "这是含金量拉满的一周",
+      "onboard_time": 1695596785,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 78779,
       "num": 78779,
       "word": "蔡依林成都演唱会",
@@ -3211,14 +3283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73258,
-      "num": 73258,
-      "word": "马 今天状态真好就跟身上没人似的",
-      "onboard_time": 1695595040,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72421,
       "num": 72421,
       "word": "异能",
@@ -3251,20 +3315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63728,
-      "num": 63728,
-      "word": "张本智和赛后揽责",
-      "onboard_time": 1695596541,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63158,
-      "num": 63158,
-      "word": "以为健康的方式其实不健康",
-      "onboard_time": 1695597323,
-      "rank": 33,
-      "category": "知识科普"
+      "raw_hot": 65247,
+      "num": 65247,
+      "word": "亚运首金邱秀萍说自己是王鹤棣的迷妹",
+      "onboard_time": 1695597507,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 56643,
@@ -3291,27 +3347,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51904,
-      "num": 51904,
-      "word": "这是含金量拉满的一周",
-      "onboard_time": 1695596785,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 51885,
       "num": 51885,
       "word": "亚运会开幕式穿越了五千年",
       "onboard_time": 1695493039,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 50399,
-      "num": 50399,
-      "word": "中国游泳队太牛了",
-      "onboard_time": 1695597146,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -3371,7 +3411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26280,
+      "raw_hot": 28854,
       "num": 595767,
       "word": "良渚之光照耀亚运之美",
       "onboard_time": 1695559236,

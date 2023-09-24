@@ -1,7 +1,15 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695597358836,
+  "endTime": 1695598433726,
   "band_list": [
+    {
+      "raw_hot": 1970420,
+      "num": 1970420,
+      "word": "宁泽涛",
+      "onboard_time": 1695596604,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 1086355,
       "num": 1086355,
@@ -19,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 728744,
+      "num": 346364,
+      "word": "官方通报校长和主任外出考察同房过夜",
+      "onboard_time": 1695559477,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 726578,
       "num": 365681,
       "word": "像吗 不像删了",
@@ -27,28 +43,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 725979,
-      "num": 725979,
-      "word": "宁泽涛",
-      "onboard_time": 1695596604,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 683772,
       "num": 683772,
       "word": "坚持半个月下来一身轻的健身动作",
       "onboard_time": 1695569198,
       "rank": 1,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 647937,
-      "num": 346364,
-      "word": "官方通报校长和主任外出考察同房过夜",
-      "onboard_time": 1695559477,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 623692,
@@ -91,8 +91,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 497573,
-      "num": 497573,
+      "raw_hot": 503218,
+      "num": 503218,
       "word": "张小斐这剧除了原配全员好嗑",
       "onboard_time": 1695570454,
       "rank": 7,
@@ -123,7 +123,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 340715,
+      "raw_hot": 356130,
       "num": 340715,
       "word": "饿瘦与运动瘦的区别",
       "onboard_time": 1695557253,
@@ -145,6 +145,14 @@
       "onboard_time": 1695571355,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 287976,
+      "num": 203242,
+      "word": "当8岁的儿子旁观了一场校园霸凌",
+      "onboard_time": 1695596604,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281675,
@@ -171,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271358,
+      "num": 220445,
+      "word": "以为健康的方式其实不健康",
+      "onboard_time": 1695597323,
+      "rank": 33,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 264416,
+      "num": 264416,
+      "word": "女子结婚和亚运冠军同住一家酒店",
+      "onboard_time": 1695565000,
+      "rank": 29,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 258702,
       "num": 258702,
       "word": "吴奇隆黄子弘凡被牛赶了",
@@ -187,12 +211,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222040,
-      "num": 222040,
-      "word": "女子结婚和亚运冠军同住一家酒店",
-      "onboard_time": 1695565000,
-      "rank": 29,
-      "category": "社会新闻,体育"
+      "raw_hot": 238588,
+      "num": 190244,
+      "word": "薛之谦演唱会当场官宣清远站",
+      "onboard_time": 1695597386,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 219734,
+      "num": 219734,
+      "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
+      "onboard_time": 1695588253,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 217129,
+      "num": 217129,
+      "word": "王者荣耀中国代表队获胜采访",
+      "onboard_time": 1695590772,
+      "rank": 27,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 210222,
@@ -227,22 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198974,
-      "num": 179321,
-      "word": "王者荣耀中国代表队获胜采访",
-      "onboard_time": 1695590772,
-      "rank": 27,
-      "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 198027,
-      "num": 176357,
-      "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
-      "onboard_time": 1695588253,
-      "rank": 30,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 183851,
       "num": 362967,
       "word": "中国游泳队1晚7金",
@@ -267,12 +291,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 174354,
-      "num": 174354,
-      "word": "当8岁的儿子旁观了一场校园霸凌",
-      "onboard_time": 1695596604,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 168995,
+      "num": 108744,
+      "word": "沈腾吐槽金晨一步一亮相",
+      "onboard_time": 1695598287,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 160882,
@@ -280,6 +304,22 @@
       "word": "郑秀妍晒与王心凌的合照",
       "onboard_time": 1695568717,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154910,
+      "num": 108603,
+      "word": "建议洗完衣服马上去晒",
+      "onboard_time": 1695597869,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 151990,
+      "num": 174355,
+      "word": "张天爱张靓颖用体重打招呼",
+      "onboard_time": 1695565779,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -331,12 +371,12 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 126380,
-      "num": 174355,
-      "word": "张天爱张靓颖用体重打招呼",
-      "onboard_time": 1695565779,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 134686,
+      "num": 134686,
+      "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
+      "onboard_time": 1695577817,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123048,
@@ -371,12 +411,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114051,
+      "num": 114051,
+      "word": "好事成双女主和情敌处成闺蜜了",
+      "onboard_time": 1695595158,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111049,
+      "num": 111049,
+      "word": "Nbl总决赛裁判报告",
+      "onboard_time": 1695598110,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110093,
       "num": 110093,
       "word": "谷爱凌 米兰时装展准备好了",
       "onboard_time": 1695570994,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108917,
+      "num": 108917,
+      "word": "马 今天状态真好就跟身上没人似的",
+      "onboard_time": 1695595040,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108329,
+      "num": 108329,
+      "word": "张本智和赛后揽责",
+      "onboard_time": 1695596541,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 106778,
@@ -395,28 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104276,
-      "num": 104276,
-      "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
-      "onboard_time": 1695577817,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103262,
       "num": 103262,
       "word": "张杰扬州音乐节",
       "onboard_time": 1695568657,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102355,
-      "num": 102355,
-      "word": "好事成双女主和情敌处成闺蜜了",
-      "onboard_time": 1695595158,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 102059,
@@ -451,12 +507,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73258,
-      "num": 73258,
-      "word": "马 今天状态真好就跟身上没人似的",
-      "onboard_time": 1695595040,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 89302,
+      "num": 89302,
+      "word": "中国游泳队太牛了",
+      "onboard_time": 1695597146,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85789,
+      "num": 85789,
+      "word": "这是含金量拉满的一周",
+      "onboard_time": 1695596785,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 69017,
@@ -467,36 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63728,
-      "num": 63728,
-      "word": "张本智和赛后揽责",
-      "onboard_time": 1695596541,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63158,
-      "num": 63158,
-      "word": "以为健康的方式其实不健康",
-      "onboard_time": 1695597323,
-      "rank": 33,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 51904,
-      "num": 51904,
-      "word": "这是含金量拉满的一周",
-      "onboard_time": 1695596785,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 50399,
-      "num": 50399,
-      "word": "中国游泳队太牛了",
-      "onboard_time": 1695597146,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 65247,
+      "num": 65247,
+      "word": "亚运首金邱秀萍说自己是王鹤棣的迷妹",
+      "onboard_time": 1695597507,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 44776,
@@ -539,7 +579,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26280,
+      "raw_hot": 28854,
       "num": 595767,
       "word": "良渚之光照耀亚运之美",
       "onboard_time": 1695559236,

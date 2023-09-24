@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/25 07:15:58
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/25 07:33:53
 </p>
 </blockquote>
 <p>
@@ -1787,6 +1787,12 @@ EXO 安踏（热度：2070313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E6%8C%91%E6%96%AD%E6%89%8B%E8%84%9A%E7%AD%8B%23" target="weibo">
 冯宝宝被人贩子拐卖挑断手脚筋（热度：1972503）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%BD%E6%B6%9B%23" target="weibo">
+宁泽涛（热度：1970420）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TTG对战狼队（热度：943547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 教师节（热度：939608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23" target="weibo">
-汪顺破亚洲纪录（热度：938946）
 </a>
 </li>
 
