@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695561453117,
+  "endTime": 1695562440704,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -43,7 +43,7 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 1817579,
+      "raw_hot": 1932855,
       "num": 762715,
       "word": "像吗 不像删了",
       "onboard_time": 1695558575,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1270826,
-      "num": 728514,
+      "num": 822402,
       "word": "官方通报校长和主任外出考察同房过夜",
       "onboard_time": 1695559477,
       "rank": 43,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 894761,
-      "num": 717784,
+      "num": 822402,
       "word": "宣璐爱情和事业果断选择事业",
       "onboard_time": 1695559357,
       "rank": 32,
@@ -313,6 +313,22 @@
       "onboard_time": 1695494778,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822677,
+      "num": 822677,
+      "word": "王心凌演唱会嘉宾",
+      "onboard_time": 1695557616,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 822387,
+      "num": 822387,
+      "word": "张本智和2比3伊朗选手",
+      "onboard_time": 1695558037,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 810195,
@@ -337,14 +353,6 @@
       "onboard_time": 1695549457,
       "rank": 13,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 787583,
-      "num": 787583,
-      "word": "王心凌演唱会嘉宾",
-      "onboard_time": 1695557616,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 783389,
@@ -395,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 761147,
+      "num": 628031,
+      "word": "饿瘦与运动瘦的区别",
+      "onboard_time": 1695557253,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 760565,
       "num": 326492,
       "word": "于文文说自己的歌都有点死了前男友的感觉",
@@ -411,28 +427,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 748894,
-      "num": 748894,
-      "word": "张本智和2比3伊朗选手",
-      "onboard_time": 1695558037,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 736472,
       "num": 444645,
       "word": "黄景瑜回复张婧仪",
       "onboard_time": 1695480344,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 733998,
-      "num": 369854,
-      "word": "饿瘦与运动瘦的区别",
-      "onboard_time": 1695557253,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 723984,
@@ -472,6 +472,14 @@
       "word": "女子就医发现五脏六腑全长反",
       "onboard_time": 1695526292,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691058,
+      "num": 691058,
+      "word": "贵州六盘水煤矿着火事故致16人遇难",
+      "onboard_time": 1695561039,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -531,6 +539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 660386,
+      "num": 660386,
+      "word": "日本男团0比2伊朗男团",
+      "onboard_time": 1695561279,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 659007,
       "num": 659007,
       "word": "中国队女子10米气步枪团体赛金牌",
@@ -552,6 +568,14 @@
       "word": "中国队亚运金牌九宫格",
       "onboard_time": 1695530612,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 652579,
+      "num": 652579,
+      "word": "中国女排vs塞尔维亚女排",
+      "onboard_time": 1695558395,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -587,8 +611,8 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 624126,
-      "num": 624126,
+      "raw_hot": 624985,
+      "num": 624985,
       "word": "徐嘉余卫冕",
       "onboard_time": 1695560319,
       "rank": 7,
@@ -844,19 +868,11 @@
     },
     {
       "raw_hot": 459072,
-      "num": 459072,
+      "num": 640781,
       "word": "和王一博一起为亚运霹雳舞打call",
       "onboard_time": 1695558275,
       "rank": 8,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 451144,
-      "num": 451144,
-      "word": "中国女排vs塞尔维亚女排",
-      "onboard_time": 1695558395,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 444713,
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 437092,
-      "num": 294883,
+      "num": 302483,
       "word": "大妈洗衣服发现水池里有1只鳄鱼",
       "onboard_time": 1695560197,
       "rank": 20,
@@ -937,6 +953,22 @@
       "onboard_time": 1695540872,
       "rank": 22,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 389837,
+      "num": 389837,
+      "word": "大梦",
+      "onboard_time": 1695561208,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386405,
+      "num": 297481,
+      "word": "白鹿白开水妆",
+      "onboard_time": 1695561099,
+      "rank": 22,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 384966,
@@ -1139,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309034,
-      "num": 285347,
-      "word": "白鹿白开水妆",
-      "onboard_time": 1695561099,
-      "rank": 22,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 307310,
       "num": 307310,
       "word": "不敢想象28号的我",
@@ -1307,12 +1331,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 263526,
+      "num": 263526,
+      "word": "体操男团金牌",
+      "onboard_time": 1695561580,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262599,
       "num": 262599,
       "word": "王源米兰看秀图",
       "onboard_time": 1695535353,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 261585,
+      "num": 261585,
+      "word": "国足亚运队半场0射正",
+      "onboard_time": 1695560679,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 260031,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1695477701,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 250645,
+      "num": 635002,
+      "word": "男孩下网约车后找不到家人教科书式操作",
+      "onboard_time": 1695560679,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247708,
@@ -1539,6 +1587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223892,
+      "num": 631919,
+      "word": "绘旅人的婚纱答案",
+      "onboard_time": 1695560435,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222704,
       "num": 222704,
       "word": "赵今麦出发巴黎时装周",
@@ -1683,14 +1739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207066,
-      "num": 207066,
-      "word": "国足亚运队半场0射正",
-      "onboard_time": 1695560679,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206850,
       "num": 206850,
       "word": "赵露思被鸽子吓到了",
@@ -1731,11 +1779,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 204077,
-      "num": 204077,
-      "word": "日本男团0比2伊朗男团",
-      "onboard_time": 1695561279,
-      "rank": 34,
+      "raw_hot": 204911,
+      "num": 822412,
+      "word": "杭州亚运会开幕式刷新亚运史",
+      "onboard_time": 1695559417,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -1777,14 +1825,6 @@
       "onboard_time": 1695538171,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200046,
-      "num": 200046,
-      "word": "大梦",
-      "onboard_time": 1695561208,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 199249,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1695522270,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189888,
-      "num": 189888,
-      "word": "男孩下网约车后找不到家人教科书式操作",
-      "onboard_time": 1695560679,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189244,
@@ -1969,14 +2001,6 @@
       "onboard_time": 1695482739,
       "rank": 35,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 179086,
-      "num": 778591,
-      "word": "杭州亚运会开幕式刷新亚运史",
-      "onboard_time": 1695559417,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 178156,
@@ -2219,6 +2243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149196,
+      "num": 149196,
+      "word": "王者项目中国队晋级四强",
+      "onboard_time": 1695562178,
+      "rank": 43,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 148984,
       "num": 148984,
       "word": "张雨绮米兰时装周7年妆造变化",
@@ -2340,11 +2372,19 @@
     },
     {
       "raw_hot": 138239,
-      "num": 275977,
+      "num": 651309,
       "word": "绘旅人三周年盛典",
       "onboard_time": 1695561039,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137850,
+      "num": 137850,
+      "word": "老人被卷旋耕机医生田里做手术",
+      "onboard_time": 1695561998,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137749,
@@ -2379,20 +2419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136192,
+      "num": 136192,
+      "word": "现在就出发线上复盘大会",
+      "onboard_time": 1695562297,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136119,
       "num": 136119,
       "word": "领舞小姐姐跳进了我心里",
       "onboard_time": 1695480582,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135981,
-      "num": 380067,
-      "word": "绘旅人的婚纱答案",
-      "onboard_time": 1695560435,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 134919,
