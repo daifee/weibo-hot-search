@@ -1,0 +1,410 @@
+{
+  "runTime": 1695543553840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1618445,
+        "num": 1618445,
+        "word": "韩国选手掌掴对手被罚下场",
+        "onboard_time": 1695542314,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1779600,
+        "num": 1510253,
+        "word": "网传大同小学生遭霸凌教育局连夜调查",
+        "onboard_time": 1695539971,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 29984,
+        "num": 717405,
+        "word": "被五谷丰登的丰收画面美到了",
+        "onboard_time": 1695543333,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558999,
+        "num": 558999,
+        "word": "外卖迟到可能是去抓间谍了",
+        "onboard_time": 1695535172,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470275,
+        "num": 470275,
+        "word": "贺峻霖被实习生简历吓到",
+        "onboard_time": 1695540991,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434089,
+        "num": 434089,
+        "word": "我被假兵马俑骗哭了",
+        "onboard_time": 1695540152,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 389590,
+        "num": 389590,
+        "word": "涂山暖暖",
+        "onboard_time": 1695530674,
+        "rank": 6,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 381953,
+        "num": 381953,
+        "word": "刘诗诗回应不上常驻综艺",
+        "onboard_time": 1695542194,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352748,
+        "num": 352748,
+        "word": "迪丽热巴启程巴黎时装周",
+        "onboard_time": 1695537992,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 348623,
+        "num": 348623,
+        "word": "伍佰下次苏州这种大活别接了",
+        "onboard_time": 1695538411,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 849987,
+        "num": 347498,
+        "word": "上东区的富家千金每天都穿什么出门",
+        "onboard_time": 1695540091,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 775203,
+        "num": 346332,
+        "word": "何猷君 王者荣耀教练",
+        "onboard_time": 1695541890,
+        "rank": 11,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 567626,
+        "num": 346002,
+        "word": "邓超等等四年前的对话",
+        "onboard_time": 1695540513,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213979,
+        "num": 343835,
+        "word": "1岁半孙女午睡爷爷守3小时照顾",
+        "onboard_time": 1695525453,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139628,
+        "num": 343054,
+        "word": "带薪休假是菜鸟警察的天真与梦想",
+        "onboard_time": 1695531994,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491753,
+        "num": 341445,
+        "word": "专家称现有住房14亿人可能住不完",
+        "onboard_time": 1695531694,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 478297,
+        "num": 340760,
+        "word": "漫画张小斐",
+        "onboard_time": 1695536554,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477307,
+        "num": 338955,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 440914,
+        "num": 337693,
+        "word": "张杰疯狂刷26是什么意思",
+        "onboard_time": 1695540215,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400524,
+        "num": 336371,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528541,
+        "num": 335082,
+        "word": "4米多长巨鳄被发现正在路边吃人",
+        "onboard_time": 1695541954,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393342,
+        "num": 333673,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333664,
+        "num": 333664,
+        "word": "王者荣耀项目",
+        "onboard_time": 1695540872,
+        "rank": 22,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 322906,
+        "num": 322906,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260816,
+        "num": 260816,
+        "word": "肚子里的脏器长什么样",
+        "onboard_time": 1695538171,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264978,
+        "num": 260810,
+        "word": "婆婆抓儿媳林双出轨证据结果抓到儿子",
+        "onboard_time": 1695539314,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260791,
+        "num": 260791,
+        "word": "我是殷郊 我的父王只跟小妈腻歪",
+        "onboard_time": 1695535172,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260520,
+        "num": 260520,
+        "word": "叙利亚总统时隔19年再访华",
+        "onboard_time": 1695533733,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 247182,
+        "num": 247182,
+        "word": "韩国首尔五天四夜吃什么",
+        "onboard_time": 1695542913,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212486,
+        "num": 219124,
+        "word": "杭州好像真的有一亿人",
+        "onboard_time": 1695526834,
+        "rank": 29,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 215956,
+        "num": 215956,
+        "word": "徐静雨锐评电竞选手",
+        "onboard_time": 1695540932,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199604,
+        "num": 199604,
+        "word": "奚梦瑶替何猷君开心",
+        "onboard_time": 1695542913,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 193080,
+        "num": 193080,
+        "word": "陕西信达被重罚100万取消成绩",
+        "onboard_time": 1695529653,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180397,
+        "num": 180397,
+        "word": "成都坐车到北京未来可能仅需90分钟",
+        "onboard_time": 1695538892,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175667,
+        "num": 175667,
+        "word": "张国伟在亚运会馆外摊煎饼",
+        "onboard_time": 1695531694,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173871,
+        "num": 173871,
+        "word": "上班微信发了啥老板可能知道",
+        "onboard_time": 1695514290,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157852,
+        "num": 157852,
+        "word": "德国国防军士兵在乌克兰被俘",
+        "onboard_time": 1695538411,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 141206,
+        "num": 141206,
+        "word": "数字人点火惊呆韩国网友",
+        "onboard_time": 1695538533,
+        "rank": 37,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 139616,
+        "num": 139616,
+        "word": "解药 不要试图摘月亮",
+        "onboard_time": 1695536013,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137628,
+        "num": 137628,
+        "word": "田嘉瑞全网涨粉超200万",
+        "onboard_time": 1695535954,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69408,
+        "num": 137142,
+        "word": "杭州亚运会首金属于中国队",
+        "onboard_time": 1695526956,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137091,
+        "num": 137091,
+        "word": "中国姑娘与叙利亚民众交换玫瑰",
+        "onboard_time": 1695539733,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126754,
+        "num": 126754,
+        "word": "虞书欣喻言合照",
+        "onboard_time": 1695529653,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121420,
+        "num": 121420,
+        "word": "赵今麦出发巴黎时装周",
+        "onboard_time": 1695537333,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120375,
+        "num": 120375,
+        "word": "offer5实习生简历好丰富",
+        "onboard_time": 1695532534,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41474,
+        "num": 120253,
+        "word": "AI修复49年前中国亚运首金画面",
+        "onboard_time": 1695543156,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120196,
+        "num": 120196,
+        "word": "侯明昊 平行世界的爱豆人生",
+        "onboard_time": 1695543456,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119963,
+        "num": 119963,
+        "word": "于文文说自己的歌都有点死了前男友的感觉",
+        "onboard_time": 1695526956,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112613,
+        "num": 112613,
+        "word": "旋风少女还是拍保守了",
+        "onboard_time": 1695518372,
+        "rank": 48,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 110603,
+        "num": 110603,
+        "word": "周杰伦太原",
+        "onboard_time": 1695538171,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695540835105,
+  "endTime": 1695543553840,
   "band_list": [
     {
       "raw_hot": 2406151,
@@ -27,10 +27,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1779600,
+      "num": 1510253,
+      "word": "网传大同小学生遭霸凌教育局连夜调查",
+      "onboard_time": 1695539971,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1695506,
       "num": 1695506,
       "word": "马龙走了五分钟还在原地",
       "onboard_time": 1695513808,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1618445,
+      "num": 1618445,
+      "word": "韩国选手掌掴对手被罚下场",
+      "onboard_time": 1695542314,
       "rank": 0,
       "category": "体育"
     },
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849987,
+      "num": 347498,
+      "word": "上东区的富家千金每天都穿什么出门",
+      "onboard_time": 1695540091,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 810195,
       "num": 441193,
       "word": "SEVENTEEN经纪公司道歉",
@@ -257,6 +281,14 @@
       "onboard_time": 1695531694,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 775203,
+      "num": 346332,
+      "word": "何猷君 王者荣耀教练",
+      "onboard_time": 1695541890,
+      "rank": 11,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 760565,
@@ -427,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 567626,
+      "num": 346002,
+      "word": "邓超等等四年前的对话",
+      "onboard_time": 1695540513,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567083,
       "num": 362512,
       "word": "SEVENTEEN删除长城预告",
@@ -475,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 528541,
+      "num": 335082,
+      "word": "4米多长巨鳄被发现正在路边吃人",
+      "onboard_time": 1695541954,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504396,
       "num": 504396,
       "word": "脂肪最怕的15种碱性食物",
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 490340,
-      "num": 309859,
+      "num": 340760,
       "word": "漫画张小斐",
       "onboard_time": 1695536554,
       "rank": 24,
@@ -505,6 +553,14 @@
       "onboard_time": 1695481238,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470275,
+      "num": 470275,
+      "word": "贺峻霖被实习生简历吓到",
+      "onboard_time": 1695540991,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 470044,
@@ -563,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433559,
-      "num": 433559,
-      "word": "网传大同小学生遭霸凌教育局连夜调查",
-      "onboard_time": 1695539971,
-      "rank": 6,
-      "category": "社会新闻,教育"
+      "raw_hot": 434089,
+      "num": 434089,
+      "word": "我被假兵马俑骗哭了",
+      "onboard_time": 1695540152,
+      "rank": 24,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 415616,
@@ -593,6 +649,14 @@
       "onboard_time": 1695519511,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 381953,
+      "num": 381953,
+      "word": "刘诗诗回应不上常驻综艺",
+      "onboard_time": 1695542194,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 374562,
@@ -667,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333664,
+      "num": 333664,
+      "word": "王者荣耀项目",
+      "onboard_time": 1695540872,
+      "rank": 22,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 332013,
       "num": 332013,
       "word": "中国射击队包揽金银",
@@ -681,14 +753,6 @@
       "onboard_time": 1695517650,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 327639,
-      "num": 244142,
-      "word": "上东区的富家千金每天都穿什么出门",
-      "onboard_time": 1695540091,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 327432,
@@ -724,7 +788,7 @@
     },
     {
       "raw_hot": 313699,
-      "num": 340382,
+      "num": 343054,
       "word": "带薪休假是菜鸟警察的天真与梦想",
       "onboard_time": 1695531994,
       "rank": 42,
@@ -809,14 +873,6 @@
       "onboard_time": 1695525692,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271087,
-      "num": 271087,
-      "word": "我被假兵马俑骗哭了",
-      "onboard_time": 1695540152,
-      "rank": 24,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 270961,
@@ -947,6 +1003,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 247182,
+      "num": 247182,
+      "word": "韩国首尔五天四夜吃什么",
+      "onboard_time": 1695542913,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "庆怜 也许有一天我不会再卡位",
@@ -1051,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230744,
-      "num": 230744,
-      "word": "邓超等等四年前的对话",
-      "onboard_time": 1695540513,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229127,
       "num": 229127,
       "word": "董宇辉去周杰伦演唱会圆青春的梦",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1695523050,
       "rank": 24,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 215956,
+      "num": 215956,
+      "word": "徐静雨锐评电竞选手",
+      "onboard_time": 1695540932,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 214168,
@@ -1209,6 +1273,14 @@
       "onboard_time": 1695538171,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199604,
+      "num": 199604,
+      "word": "奚梦瑶替何猷君开心",
+      "onboard_time": 1695542913,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 199249,
@@ -1723,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120196,
+      "num": 120196,
+      "word": "侯明昊 平行世界的爱豆人生",
+      "onboard_time": 1695543456,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118959,
       "num": 118959,
       "word": "野生大熊猫进村被救",
@@ -1819,6 +1899,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 69408,
+      "num": 137142,
+      "word": "杭州亚运会首金属于中国队",
+      "onboard_time": 1695526956,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67761,
       "num": 67761,
       "word": "绍兴的毛毯裹住了摩洛哥震区的孩子",
@@ -1859,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41474,
+      "num": 120253,
+      "word": "AI修复49年前中国亚运首金画面",
+      "onboard_time": 1695543156,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39270,
       "num": 49545,
       "word": "有职业空窗期再就业有多难",
@@ -1873,6 +1969,14 @@
       "onboard_time": 1695503535,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29984,
+      "num": 717405,
+      "word": "被五谷丰登的丰收画面美到了",
+      "onboard_time": 1695543333,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26118,
