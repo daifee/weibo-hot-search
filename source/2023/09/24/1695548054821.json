@@ -1,0 +1,410 @@
+{
+  "runTime": 1695548054821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1191008,
+        "num": 1191008,
+        "word": "陈梦11比0",
+        "onboard_time": 1695544834,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760367,
+        "num": 760367,
+        "word": "韩国首尔五天四夜吃什么",
+        "onboard_time": 1695542913,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93158,
+        "num": 705217,
+        "word": "AI修复49年前中国亚运首金画面",
+        "onboard_time": 1695543156,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676703,
+        "num": 676703,
+        "word": "日本将启动第二轮核污染水排海",
+        "onboard_time": 1695545134,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528065,
+        "num": 528065,
+        "word": "林孝埈内道一过三",
+        "onboard_time": 1695545676,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364745,
+        "num": 364745,
+        "word": "贺峻霖被实习生简历吓到",
+        "onboard_time": 1695540991,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346123,
+        "num": 346123,
+        "word": "考研读研 人生选择",
+        "onboard_time": 1695543874,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304894,
+        "num": 304894,
+        "word": "外卖迟到可能是去抓间谍了",
+        "onboard_time": 1695535172,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252549,
+        "num": 252549,
+        "word": "陕西男篮6个字回应官方处罚",
+        "onboard_time": 1695546755,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1503247,
+        "num": 252268,
+        "word": "韩国选手掌掴对手被罚下场",
+        "onboard_time": 1695542314,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132744,
+        "num": 251966,
+        "word": "58家国货在拼多多团建",
+        "onboard_time": 1695545796,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493568,
+        "num": 251832,
+        "word": "何猷君 王者荣耀教练",
+        "onboard_time": 1695541890,
+        "rank": 11,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1107342,
+        "num": 251525,
+        "word": "女生误将自拍发工作群2分钟撤50张",
+        "onboard_time": 1695545014,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800611,
+        "num": 251184,
+        "word": "网传大同小学生遭霸凌教育局连夜调查",
+        "onboard_time": 1695539971,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 136166,
+        "num": 250809,
+        "word": "1岁半孙女午睡爷爷守3小时照顾",
+        "onboard_time": 1695525453,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766652,
+        "num": 250581,
+        "word": "4米多长巨鳄被发现正在路边吃人",
+        "onboard_time": 1695541954,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566829,
+        "num": 250219,
+        "word": "刘诗诗回应不上常驻综艺",
+        "onboard_time": 1695542194,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409778,
+        "num": 249781,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 406246,
+        "num": 249544,
+        "word": "专家谈李佳琦花西子眉笔争议",
+        "onboard_time": 1695547059,
+        "rank": 18,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 401103,
+        "num": 249160,
+        "word": "上东区的富家千金每天都穿什么出门",
+        "onboard_time": 1695540091,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 307918,
+        "num": 249082,
+        "word": "邓为老头衫自拍",
+        "onboard_time": 1695548014,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 298992,
+        "num": 248618,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297681,
+        "num": 248508,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248210,
+        "num": 248210,
+        "word": "漫画张小斐",
+        "onboard_time": 1695536554,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233988,
+        "num": 233988,
+        "word": "狗狗嗅到人类幼崽后急到跺脚",
+        "onboard_time": 1695545557,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 216540,
+        "num": 216540,
+        "word": "邓超等等四年前的对话",
+        "onboard_time": 1695540513,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211590,
+        "num": 211590,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208365,
+        "num": 208365,
+        "word": "涂山暖暖",
+        "onboard_time": 1695530674,
+        "rank": 27,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 208136,
+        "num": 208136,
+        "word": "伍佰下次苏州这种大活别接了",
+        "onboard_time": 1695538411,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206539,
+        "num": 206539,
+        "word": "我被假兵马俑骗哭了",
+        "onboard_time": 1695540152,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 217893,
+        "num": 204533,
+        "word": "王者荣耀项目 转播",
+        "onboard_time": 1695547477,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 200837,
+        "num": 200837,
+        "word": "叙利亚总统时隔19年再访华",
+        "onboard_time": 1695533733,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 192789,
+        "num": 192789,
+        "word": "侯明昊 平行世界的爱豆人生",
+        "onboard_time": 1695543456,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177203,
+        "num": 177203,
+        "word": "奚梦瑶替何猷君开心",
+        "onboard_time": 1695542913,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 176045,
+        "num": 176045,
+        "word": "我是殷郊 我的父王只跟小妈腻歪",
+        "onboard_time": 1695535172,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168603,
+        "num": 168603,
+        "word": "成都坐车到北京未来可能仅需90分钟",
+        "onboard_time": 1695538892,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167258,
+        "num": 167258,
+        "word": "专家称现有住房14亿人可能住不完",
+        "onboard_time": 1695531694,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 150867,
+        "num": 150867,
+        "word": "王者荣耀项目",
+        "onboard_time": 1695540872,
+        "rank": 37,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 147771,
+        "word": "中国姑娘与叙利亚民众交换玫瑰",
+        "onboard_time": 1695539733,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147727,
+        "num": 147727,
+        "word": "解药 不要试图摘月亮",
+        "onboard_time": 1695536013,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145826,
+        "num": 145826,
+        "word": "迪丽热巴启程巴黎时装周",
+        "onboard_time": 1695537992,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145798,
+        "num": 145798,
+        "word": "张杰疯狂刷26是什么意思",
+        "onboard_time": 1695540215,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133827,
+        "num": 133827,
+        "word": "柏林马拉松",
+        "onboard_time": 1695547535,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125791,
+        "num": 125791,
+        "word": "陕西信达被重罚100万取消成绩",
+        "onboard_time": 1695529653,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125525,
+        "num": 125525,
+        "word": "孙颖莎3比0陈梅玉",
+        "onboard_time": 1695546755,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119622,
+        "num": 119622,
+        "word": "肚子里的脏器长什么样",
+        "onboard_time": 1695538171,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115418,
+        "num": 115418,
+        "word": "杭州好像真的有一亿人",
+        "onboard_time": 1695526834,
+        "rank": 46,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 101554,
+        "num": 101554,
+        "word": "多部杰尼斯艺人电视剧停止制作",
+        "onboard_time": 1695547657,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100492,
+        "num": 100492,
+        "word": "张国伟在亚运会馆外摊煎饼",
+        "onboard_time": 1695531694,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92576,
+        "num": 92576,
+        "word": "魏大勋玩轮滑好丝滑",
+        "onboard_time": 1695547956,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席亚运会开幕式#"
+    }
+  }
+}

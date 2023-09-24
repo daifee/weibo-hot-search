@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695546883090,
+  "endTime": 1695548054821,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -131,6 +131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1191008,
+      "num": 1191008,
+      "word": "陈梦11比0",
+      "onboard_time": 1695544834,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1162078,
       "num": 568508,
       "word": "张含韵 没想到30加会这么好",
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1107342,
+      "num": 888639,
+      "word": "女生误将自拍发工作群2分钟撤50张",
+      "onboard_time": 1695545014,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1087025,
       "num": 1081121,
       "word": "旋风少女还是拍保守了",
@@ -193,14 +209,6 @@
       "onboard_time": 1695523171,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1032439,
-      "num": 1032439,
-      "word": "陈梦11比0",
-      "onboard_time": 1695544834,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1004835,
@@ -241,14 +249,6 @@
       "onboard_time": 1695540215,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 888639,
-      "num": 888639,
-      "word": "女生误将自拍发工作群2分钟撤50张",
-      "onboard_time": 1695545014,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 881789,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760367,
+      "num": 760367,
+      "word": "韩国首尔五天四夜吃什么",
+      "onboard_time": 1695542913,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 736472,
       "num": 444645,
       "word": "黄景瑜回复张婧仪",
@@ -361,14 +369,6 @@
       "onboard_time": 1695526292,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692369,
-      "num": 692369,
-      "word": "韩国首尔五天四夜吃什么",
-      "onboard_time": 1695542913,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 686046,
@@ -563,8 +563,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 510918,
-      "num": 510918,
+      "raw_hot": 528065,
+      "num": 528065,
       "word": "林孝埈内道一过三",
       "onboard_time": 1695545676,
       "rank": 7,
@@ -691,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 406246,
+      "num": 249544,
+      "word": "专家谈李佳琦花西子眉笔争议",
+      "onboard_time": 1695547059,
+      "rank": 18,
+      "category": "财经,网红"
+    },
+    {
       "raw_hot": 384966,
       "num": 265155,
       "word": "发现丢失一年的猫在邻居家",
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346123,
+      "num": 346123,
+      "word": "考研读研 人生选择",
+      "onboard_time": 1695543874,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 334390,
       "num": 334390,
       "word": "杨幂同款圆脑壳棒球帽麻花辫",
@@ -827,20 +843,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 313816,
-      "num": 313816,
-      "word": "考研读研 人生选择",
-      "onboard_time": 1695543874,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 313699,
       "num": 346977,
       "word": "带薪休假是菜鸟警察的天真与梦想",
       "onboard_time": 1695531994,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307918,
+      "num": 249082,
+      "word": "邓为老头衫自拍",
+      "onboard_time": 1695548014,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 307310,
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 259180,
-      "num": 194469,
+      "num": 233988,
       "word": "狗狗嗅到人类幼崽后急到跺脚",
       "onboard_time": 1695545557,
       "rank": 30,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1695481419,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252549,
+      "num": 252549,
+      "word": "陕西男篮6个字回应官方处罚",
+      "onboard_time": 1695546755,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 252545,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1695519990,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217893,
+      "num": 204533,
+      "word": "王者荣耀项目 转播",
+      "onboard_time": 1695547477,
+      "rank": 30,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 217672,
@@ -1827,11 +1859,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133708,
-      "num": 133708,
-      "word": "陕西男篮6个字回应官方处罚",
-      "onboard_time": 1695546755,
-      "rank": 41,
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "柏林马拉松",
+      "onboard_time": 1695547535,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1923,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101554,
+      "num": 101554,
+      "word": "多部杰尼斯艺人电视剧停止制作",
+      "onboard_time": 1695547657,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99060,
       "num": 99060,
       "word": "宝石 披哥的后台欢声笑语",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1695542792,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 92576,
+      "num": 92576,
+      "word": "魏大勋玩轮滑好丝滑",
+      "onboard_time": 1695547956,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 91529,
