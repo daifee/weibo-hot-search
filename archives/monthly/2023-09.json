@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695582752346,
+  "endTime": 1695584043374,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -62307,6 +62307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42497,
+      "num": 37422,
+      "word": "胡彦斌看起来像是喝多了",
+      "onboard_time": 1695580936,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42205,
       "num": 35904,
       "word": "日本京阿尼纵火案首次庭审",
@@ -62633,14 +62641,6 @@
       "onboard_time": 1693765877,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 36108,
-      "num": 36108,
-      "word": "胡彦斌看起来像是喝多了",
-      "onboard_time": 1695580936,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 35946,

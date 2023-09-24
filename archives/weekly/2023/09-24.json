@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695582752346,
+  "endTime": 1695584043374,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -3243,6 +3243,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 42497,
+      "num": 37422,
+      "word": "胡彦斌看起来像是喝多了",
+      "onboard_time": 1695580936,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39270,
       "num": 49545,
       "word": "有职业空窗期再就业有多难",
@@ -3257,14 +3265,6 @@
       "onboard_time": 1695575782,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36108,
-      "num": 36108,
-      "word": "胡彦斌看起来像是喝多了",
-      "onboard_time": 1695580936,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 31192,
