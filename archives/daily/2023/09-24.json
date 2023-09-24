@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695559501768,
+  "endTime": 1695561453117,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -41,6 +41,14 @@
       "onboard_time": 1695530674,
       "rank": 0,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 1817579,
+      "num": 762715,
+      "word": "像吗 不像删了",
+      "onboard_time": 1695558575,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1796364,
@@ -121,6 +129,14 @@
       "onboard_time": 1695479261,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1270826,
+      "num": 728514,
+      "word": "官方通报校长和主任外出考察同房过夜",
+      "onboard_time": 1695559477,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1242955,
@@ -235,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 965537,
-      "num": 762715,
-      "word": "像吗 不像删了",
-      "onboard_time": 1695558575,
-      "rank": 3,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 957755,
       "num": 957755,
       "word": "考研预报名",
@@ -257,6 +265,14 @@
       "onboard_time": 1695515489,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 938946,
+      "num": 938946,
+      "word": "汪顺破亚洲纪录",
+      "onboard_time": 1695557014,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 934675,
@@ -275,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 882438,
-      "num": 882438,
-      "word": "汪顺破亚洲纪录",
-      "onboard_time": 1695557014,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 894761,
+      "num": 717784,
+      "word": "宣璐爱情和事业果断选择事业",
+      "onboard_time": 1695559357,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 881789,
@@ -321,6 +337,14 @@
       "onboard_time": 1695549457,
       "rank": 13,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 787583,
+      "num": 787583,
+      "word": "王心凌演唱会嘉宾",
+      "onboard_time": 1695557616,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 783389,
@@ -395,20 +419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 745936,
-      "num": 745936,
-      "word": "王心凌演唱会嘉宾",
-      "onboard_time": 1695557616,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 736472,
       "num": 444645,
       "word": "黄景瑜回复张婧仪",
       "onboard_time": 1695480344,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 733998,
+      "num": 369854,
+      "word": "饿瘦与运动瘦的区别",
+      "onboard_time": 1695557253,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 723984,
@@ -563,6 +587,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 624126,
+      "num": 624126,
+      "word": "徐嘉余卫冕",
+      "onboard_time": 1695560319,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616751,
       "num": 616751,
       "word": "12306回应压票再分批放票",
@@ -577,14 +609,6 @@
       "onboard_time": 1695550233,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 600173,
-      "num": 300881,
-      "word": "饿瘦与运动瘦的区别",
-      "onboard_time": 1695557253,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 594265,
@@ -827,6 +851,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 451144,
+      "num": 451144,
+      "word": "中国女排vs塞尔维亚女排",
+      "onboard_time": 1695558395,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444713,
       "num": 335683,
       "word": "我是殷郊 我的父王只跟小妈腻歪",
@@ -848,6 +880,14 @@
       "word": "1岁半孙女午睡爷爷守3小时照顾",
       "onboard_time": 1695525453,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437092,
+      "num": 294883,
+      "word": "大妈洗衣服发现水池里有1只鳄鱼",
+      "onboard_time": 1695560197,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -979,14 +1019,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 348925,
-      "num": 348925,
-      "word": "中国女排vs塞尔维亚女排",
-      "onboard_time": 1695558395,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 348433,
       "num": 241512,
       "word": "offer5实习生简历好丰富",
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309034,
+      "num": 285347,
+      "word": "白鹿白开水妆",
+      "onboard_time": 1695561099,
+      "rank": 22,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 307310,
       "num": 307310,
       "word": "不敢想象28号的我",
@@ -1120,6 +1160,14 @@
       "word": "中国台北运动员夺金BGM我的未来不是梦",
       "onboard_time": 1695552814,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301814,
+      "num": 301814,
+      "word": "亚洲飞鱼潘展乐",
+      "onboard_time": 1695559535,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1233,6 +1281,14 @@
       "onboard_time": 1695526233,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270173,
+      "num": 270173,
+      "word": "肝气不舒的人多去KTV唱歌",
+      "onboard_time": 1695560016,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 266696,
@@ -1443,6 +1499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 232670,
+      "num": 391765,
+      "word": "潘展乐100自由泳金牌",
+      "onboard_time": 1695559477,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232200,
       "num": 232200,
       "word": "中国射击队破亚洲纪录",
@@ -1488,6 +1552,14 @@
       "word": "教育部称对预制菜进校园持审慎态度",
       "onboard_time": 1695556117,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219018,
+      "num": 219018,
+      "word": "盘州市一煤矿发生事故致16人死亡",
+      "onboard_time": 1695561039,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1603,6 +1675,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207147,
+      "num": 207147,
+      "word": "绘旅人 上桌吃饭",
+      "onboard_time": 1695560259,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 207066,
+      "num": 207066,
+      "word": "国足亚运队半场0射正",
+      "onboard_time": 1695560679,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206850,
       "num": 206850,
       "word": "赵露思被鸽子吓到了",
@@ -1641,6 +1729,14 @@
       "onboard_time": 1695550114,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 204077,
+      "num": 204077,
+      "word": "日本男团0比2伊朗男团",
+      "onboard_time": 1695561279,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 203819,
@@ -1683,20 +1779,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200046,
+      "num": 200046,
+      "word": "大梦",
+      "onboard_time": 1695561208,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199249,
       "num": 107241,
       "word": "交出你相册里的三小只",
       "onboard_time": 1695511162,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197290,
-      "num": 197290,
-      "word": "宣璐爱情和事业果断选择事业",
-      "onboard_time": 1695559357,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197286,
@@ -1753,6 +1849,14 @@
       "onboard_time": 1695522270,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189888,
+      "num": 189888,
+      "word": "男孩下网约车后找不到家人教科书式操作",
+      "onboard_time": 1695560679,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189244,
@@ -1867,6 +1971,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 179086,
+      "num": 778591,
+      "word": "杭州亚运会开幕式刷新亚运史",
+      "onboard_time": 1695559417,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178156,
       "num": 178156,
       "word": "米兰时装周 女明星",
@@ -1955,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162314,
+      "num": 162314,
+      "word": "郑秀妍王心凌合唱爱你",
+      "onboard_time": 1695558816,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162220,
       "num": 162220,
       "word": "看开幕式想哭",
@@ -1995,28 +2115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159608,
-      "num": 159608,
-      "word": "官方通报校长和主任外出考察同房过夜",
-      "onboard_time": 1695559477,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 159399,
       "num": 159399,
       "word": "姬发放走殷郊",
       "onboard_time": 1695484598,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158443,
-      "num": 158443,
-      "word": "郑秀妍王心凌合唱爱你",
-      "onboard_time": 1695558816,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 157860,
@@ -2049,6 +2153,14 @@
       "onboard_time": 1695485854,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154178,
+      "num": 154178,
+      "word": "唐钱婷50米蛙金牌",
+      "onboard_time": 1695561160,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 152710,
@@ -2227,6 +2339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138239,
+      "num": 275977,
+      "word": "绘旅人三周年盛典",
+      "onboard_time": 1695561039,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137749,
       "num": 137749,
       "word": "SMTOWN演唱会zoo舞台",
@@ -2267,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135981,
+      "num": 380067,
+      "word": "绘旅人的婚纱答案",
+      "onboard_time": 1695560435,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134919,
       "num": 134919,
       "word": "孙颖莎英语紧追马龙",
@@ -2297,14 +2425,6 @@
       "onboard_time": 1695549334,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132707,
-      "num": 132707,
-      "word": "潘展乐100自由泳金牌",
-      "onboard_time": 1695559477,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 131669,
@@ -2672,14 +2792,6 @@
       "word": "亚运会助威团",
       "onboard_time": 1695502632,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6621,
-      "num": 766848,
-      "word": "杭州亚运会开幕式刷新亚运史",
-      "onboard_time": 1695559417,
-      "rank": 2,
       "category": "体育"
     }
   ],
