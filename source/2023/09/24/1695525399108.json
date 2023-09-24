@@ -1,0 +1,410 @@
+{
+  "runTime": 1695525399108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1548309,
+        "num": 1548309,
+        "word": "中国队1小时5金",
+        "onboard_time": 1695522270,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745989,
+        "num": 745989,
+        "word": "孙培原连续三届夺金",
+        "onboard_time": 1695521431,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11023,
+        "num": 645369,
+        "word": "五个维度解码杭州亚运会",
+        "onboard_time": 1695456331,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1087025,
+        "num": 645002,
+        "word": "旋风少女还是拍保守了",
+        "onboard_time": 1695518372,
+        "rank": 3,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 820067,
+        "num": 642768,
+        "word": "上班微信发了啥老板可能知道",
+        "onboard_time": 1695514290,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 639253,
+        "num": 639253,
+        "word": "比预制菜更可恨的是承包学校食堂的关系户",
+        "onboard_time": 1695523171,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 616751,
+        "num": 616751,
+        "word": "12306回应压票再分批放票",
+        "onboard_time": 1695521791,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594265,
+        "num": 594265,
+        "word": "男子欲买100张周杰伦演唱会门票被骗23万",
+        "onboard_time": 1695523769,
+        "rank": 7,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 583933,
+        "num": 583933,
+        "word": "为什么吃番茄皮肤会变好",
+        "onboard_time": 1695521730,
+        "rank": 8,
+        "category": "知识科普,美妆"
+      },
+      {
+        "raw_hot": 515102,
+        "num": 515102,
+        "word": "这韩剧怎么有点中国味",
+        "onboard_time": 1695524611,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 741406,
+        "num": 514834,
+        "word": "一个月给儿子办3次婚宴收66万礼金",
+        "onboard_time": 1695516932,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513350,
+        "num": 513350,
+        "word": "这么背下去考研要满分上岸了",
+        "onboard_time": 1695518133,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 510134,
+        "num": 510134,
+        "word": "房东的猫演唱会上座率",
+        "onboard_time": 1695515489,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340092,
+        "num": 491105,
+        "word": "中国赛艇队再得一金",
+        "onboard_time": 1695521431,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180967,
+        "num": 481301,
+        "word": "中国队女子10米气步枪团体赛金牌",
+        "onboard_time": 1695520293,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478844,
+        "num": 478844,
+        "word": "张含韵 没想到30加会这么好",
+        "onboard_time": 1695512003,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430142,
+        "num": 430142,
+        "word": "研招网",
+        "onboard_time": 1695517531,
+        "rank": 16,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 334390,
+        "num": 334390,
+        "word": "杨幂同款圆脑壳棒球帽麻花辫",
+        "onboard_time": 1695523350,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288549,
+        "num": 288549,
+        "word": "马龙走了五分钟还在原地",
+        "onboard_time": 1695513808,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287683,
+        "num": 287683,
+        "word": "爸妈给拿下首金的邹佳琪准备了好多",
+        "onboard_time": 1695521730,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1796364,
+        "num": 285592,
+        "word": "张杰谢娜公开恋情是临时决定",
+        "onboard_time": 1695519810,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275007,
+        "num": 275007,
+        "word": "当i人有一个e人女朋友",
+        "onboard_time": 1695515851,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270163,
+        "num": 270163,
+        "word": "汪苏泷把大雨唱来之后自己走了",
+        "onboard_time": 1695512967,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265155,
+        "num": 265155,
+        "word": "发现丢失一年的猫在邻居家",
+        "onboard_time": 1695519511,
+        "rank": 23,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 179315,
+        "num": 233705,
+        "word": "亚运会开幕式观众离场干干净净",
+        "onboard_time": 1695523050,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 222660,
+        "num": 222660,
+        "word": "亚运会",
+        "onboard_time": 1695513568,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217672,
+        "num": 217672,
+        "word": "南方真的是这样吃月饼的吗",
+        "onboard_time": 1695521730,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 943540,
+        "num": 214510,
+        "word": "官方通报小学生遭同学极端欺辱",
+        "onboard_time": 1695483339,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208817,
+        "num": 208817,
+        "word": "杭州西湖偶遇奥运体操冠军",
+        "onboard_time": 1695523350,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 182426,
+        "num": 182426,
+        "word": "王源李硕珉同框",
+        "onboard_time": 1695517650,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169288,
+        "num": 169288,
+        "word": "亚运开幕式",
+        "onboard_time": 1695469652,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176003,
+        "num": 169071,
+        "word": "李纯妆造好漂亮",
+        "onboard_time": 1695519329,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168842,
+        "num": 168842,
+        "word": "用这些方法可快速拉臭臭",
+        "onboard_time": 1695525272,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166010,
+        "num": 166010,
+        "word": "马龙打乒乓是带点功夫的",
+        "onboard_time": 1695519576,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161602,
+        "num": 161602,
+        "word": "大学生工作三个月的样子",
+        "onboard_time": 1695517831,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156993,
+        "num": 156993,
+        "word": "王子文刺绣开衫出发巴黎",
+        "onboard_time": 1695519990,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155817,
+        "num": 155817,
+        "word": "赵露思被鸽子吓到了",
+        "onboard_time": 1695512365,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154148,
+        "num": 154148,
+        "word": "林俊杰周深 直冲天灵盖组合",
+        "onboard_time": 1695513025,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151591,
+        "num": 151591,
+        "word": "庆怜 也许有一天我不会再卡位",
+        "onboard_time": 1695521011,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20356,
+        "num": 146791,
+        "word": "一起来做吃货冠军",
+        "onboard_time": 1695524430,
+        "rank": 39,
+        "category": "美食,体育"
+      },
+      {
+        "raw_hot": 145988,
+        "num": 145988,
+        "word": "杨幂这一帧真的好美",
+        "onboard_time": 1695481238,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141323,
+        "num": 141323,
+        "word": "无意识减肥却能变瘦的习惯",
+        "onboard_time": 1695513627,
+        "rank": 41,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 137544,
+        "num": 137544,
+        "word": "田柾国3D",
+        "onboard_time": 1695521911,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133946,
+        "num": 133946,
+        "word": "SM家族演唱会上意志力超绝的圭贤",
+        "onboard_time": 1695520354,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132416,
+        "num": 132416,
+        "word": "我爱你中国",
+        "onboard_time": 1695471215,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129267,
+        "num": 129267,
+        "word": "赵又廷再用高圆圆威胁秦霄贤",
+        "onboard_time": 1695486871,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126398,
+        "num": 126398,
+        "word": "五分钟就开席的极简婚礼",
+        "onboard_time": 1695518613,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 126210,
+        "word": "米兰时装周上的沈梦辰",
+        "onboard_time": 1695525154,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121913,
+        "num": 121913,
+        "word": "黄景瑜回复张婧仪",
+        "onboard_time": 1695480344,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116112,
+        "num": 116112,
+        "word": "除了金繁还有一个人在默默发疯",
+        "onboard_time": 1695486213,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕#"
+    }
+  }
+}
