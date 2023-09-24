@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695555231704,
+  "endTime": 1695558567194,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1054554,
-      "num": 339796,
+      "num": 358168,
       "word": "4米多长巨鳄被发现正在路边吃人",
       "onboard_time": 1695541954,
       "rank": 20,
@@ -217,6 +217,14 @@
       "onboard_time": 1695523171,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1029127,
+      "num": 1029127,
+      "word": "汪顺200米混金牌",
+      "onboard_time": 1695556117,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1004835,
@@ -273,6 +281,14 @@
       "onboard_time": 1695494778,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860348,
+      "num": 408840,
+      "word": "汪顺破亚洲纪录",
+      "onboard_time": 1695557014,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 810195,
@@ -379,6 +395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 719906,
+      "num": 719906,
+      "word": "准大学生被骗9800元后自杀主犯被判无期",
+      "onboard_time": 1695552333,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715558,
+      "num": 715558,
+      "word": "IU演唱会边跳candy边提裤子",
+      "onboard_time": 1695555274,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 706411,
       "num": 706411,
       "word": "郭晶晶执旗霍启刚领队",
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 671518,
-      "num": 332668,
+      "num": 347989,
       "word": "阿娇阿Sa追星成功",
       "onboard_time": 1695551912,
       "rank": 10,
@@ -483,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 643329,
+      "num": 643329,
+      "word": "张雨霏亚运首金",
+      "onboard_time": 1695555634,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637089,
       "num": 1171951,
       "word": "女警一眼就认出吸毒人员一招擒拿",
@@ -507,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 607492,
-      "num": 176405,
-      "word": "准大学生被骗9800元后自杀主犯被判无期",
-      "onboard_time": 1695552333,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 602795,
       "num": 602795,
       "word": "丁克和独身者存多少钱够养老",
@@ -529,6 +561,14 @@
       "onboard_time": 1695523769,
       "rank": 7,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 593354,
+      "num": 593354,
+      "word": "王心凌演唱会嘉宾",
+      "onboard_time": 1695557616,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 583933,
@@ -560,6 +600,22 @@
       "word": "陕西信达被重罚100万取消成绩",
       "onboard_time": 1695529653,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 570613,
+      "num": 408556,
+      "word": "徐必成的公孙离",
+      "onboard_time": 1695555456,
+      "rank": 11,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 570149,
+      "num": 570149,
+      "word": "日本女团3比0中国台北女团",
+      "onboard_time": 1695552814,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -731,12 +787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460238,
+      "num": 240003,
+      "word": "饿瘦与运动瘦的区别",
+      "onboard_time": 1695557253,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 459321,
       "num": 438609,
       "word": "房东的猫好妹妹终于同台了",
       "onboard_time": 1695481304,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 459072,
+      "num": 459072,
+      "word": "和王一博一起为亚运霹雳舞打call",
+      "onboard_time": 1695558275,
+      "rank": 8,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 444713,
@@ -763,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434893,
-      "num": 286626,
-      "word": "日本女团3比0中国台北女团",
-      "onboard_time": 1695552814,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 434089,
       "num": 434089,
       "word": "我被假兵马俑骗哭了",
@@ -793,6 +857,14 @@
       "onboard_time": 1695536013,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 409202,
+      "num": 409202,
+      "word": "成毅火龙果扒皮直接啃",
+      "onboard_time": 1695554614,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 402678,
@@ -833,6 +905,14 @@
       "onboard_time": 1695483636,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371426,
+      "num": 371426,
+      "word": "剃了胡子的胡歌",
+      "onboard_time": 1695553113,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 370388,
@@ -979,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311738,
+      "num": 311738,
+      "word": "张本智和2比3伊朗选手",
+      "onboard_time": 1695558037,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311181,
       "num": 648920,
       "word": "中国姑娘与叙利亚民众交换玫瑰",
@@ -1065,14 +1153,6 @@
       "onboard_time": 1695484000,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279059,
-      "num": 231880,
-      "word": "剃了胡子的胡歌",
-      "onboard_time": 1695553113,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 277357,
@@ -1267,20 +1347,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 240063,
+      "num": 240063,
+      "word": "李冰洁1500米自由泳夺金",
+      "onboard_time": 1695558095,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239793,
+      "num": 239793,
+      "word": "张雨霏蝶后",
+      "onboard_time": 1695556654,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238548,
       "num": 238548,
       "word": "侯明昊 平行世界的爱豆人生",
       "onboard_time": 1695543456,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238453,
-      "num": 238453,
-      "word": "成毅火龙果扒皮直接啃",
-      "onboard_time": 1695554614,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 238004,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1695537333,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 220363,
+      "num": 220363,
+      "word": "教育部称对预制菜进校园持审慎态度",
+      "onboard_time": 1695556117,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218376,
@@ -1499,6 +1595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205123,
+      "num": 205123,
+      "word": "中国游泳队包揽金银",
+      "onboard_time": 1695557073,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203819,
       "num": 203819,
       "word": "米兰时装周上的沈梦辰",
@@ -1523,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201428,
+      "num": 201428,
+      "word": "i人和e人打游戏的区别",
+      "onboard_time": 1695555336,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200048,
       "num": 200048,
       "word": "周杰伦太原",
@@ -1539,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197740,
+      "num": 197740,
+      "word": "同事在旅一种很新的游",
+      "onboard_time": 1695558395,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 197286,
       "num": 197286,
       "word": "赵今麦黄色雨靴",
@@ -1551,6 +1671,14 @@
       "num": 196809,
       "word": "王濛曾在杭州包揽所有金牌",
       "onboard_time": 1695530674,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196290,
+      "num": 196290,
+      "word": "国足亚运队vs孟加拉国",
+      "onboard_time": 1695556474,
       "rank": 34,
       "category": "体育"
     },
@@ -1587,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189524,
+      "num": 189524,
+      "word": "林恒登场",
+      "onboard_time": 1695558516,
+      "rank": 35,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 189244,
       "num": 189244,
       "word": "卢昱晓的逗号文学",
@@ -1617,6 +1753,14 @@
       "onboard_time": 1695480704,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187542,
+      "num": 187542,
+      "word": "马龙为樊振东神仙球鼓掌",
+      "onboard_time": 1695557134,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 186580,
@@ -1729,6 +1873,14 @@
       "onboard_time": 1695525574,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166824,
+      "num": 166824,
+      "word": "中国女排vs塞尔维亚女排",
+      "onboard_time": 1695558395,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 166674,
@@ -1963,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141864,
+      "num": 205668,
+      "word": "全员泳动机",
+      "onboard_time": 1695557316,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141770,
       "num": 141770,
       "word": "数字烟花",
@@ -2083,6 +2243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131669,
+      "num": 131669,
+      "word": "六公主播封神纪录片",
+      "onboard_time": 1695556175,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129036,
       "num": 129036,
       "word": "陈牧驰 封神小分队在米兰",
@@ -2097,6 +2265,14 @@
       "onboard_time": 1695510321,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126889,
+      "num": 126889,
+      "word": "宋亚轩王牌拍摄路透",
+      "onboard_time": 1695558335,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126004,
@@ -2153,6 +2329,14 @@
       "onboard_time": 1695539612,
       "rank": 48,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 112622,
+      "num": 112622,
+      "word": "中国游泳队杭州亚运第2金",
+      "onboard_time": 1695558516,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112351,

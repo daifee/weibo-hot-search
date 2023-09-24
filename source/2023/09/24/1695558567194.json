@@ -1,0 +1,410 @@
+{
+  "runTime": 1695558567194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029127,
+        "num": 1029127,
+        "word": "汪顺200米混金牌",
+        "onboard_time": 1695556117,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1500084,
+        "num": 898921,
+        "word": "夫妻爬泰山将孩子独留车内4小时",
+        "onboard_time": 1695550055,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89512,
+        "num": 792243,
+        "word": "AI修复49年前中国亚运首金画面",
+        "onboard_time": 1695543156,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719906,
+        "num": 719906,
+        "word": "准大学生被骗9800元后自杀主犯被判无期",
+        "onboard_time": 1695552333,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715558,
+        "num": 715558,
+        "word": "IU演唱会边跳candy边提裤子",
+        "onboard_time": 1695555274,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 643329,
+        "num": 643329,
+        "word": "张雨霏亚运首金",
+        "onboard_time": 1695555634,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593354,
+        "num": 593354,
+        "word": "王心凌演唱会嘉宾",
+        "onboard_time": 1695557616,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 570149,
+        "num": 570149,
+        "word": "日本女团3比0中国台北女团",
+        "onboard_time": 1695552814,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459072,
+        "num": 459072,
+        "word": "和王一博一起为亚运霹雳舞打call",
+        "onboard_time": 1695558275,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 409202,
+        "num": 409202,
+        "word": "成毅火龙果扒皮直接啃",
+        "onboard_time": 1695554614,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 860348,
+        "num": 408840,
+        "word": "汪顺破亚洲纪录",
+        "onboard_time": 1695557014,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570613,
+        "num": 408556,
+        "word": "徐必成的公孙离",
+        "onboard_time": 1695555456,
+        "rank": 11,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 408208,
+        "num": 408208,
+        "word": "丁克和独身者存多少钱够养老",
+        "onboard_time": 1695550233,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371426,
+        "num": 371426,
+        "word": "剃了胡子的胡歌",
+        "onboard_time": 1695553113,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358168,
+        "num": 358168,
+        "word": "4米多长巨鳄被发现正在路边吃人",
+        "onboard_time": 1695541954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355784,
+        "num": 355784,
+        "word": "女警一眼就认出吸毒人员一招擒拿",
+        "onboard_time": 1695549272,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354112,
+        "num": 354112,
+        "word": "成都坐车到北京未来可能仅需90分钟",
+        "onboard_time": 1695538892,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347989,
+        "num": 347989,
+        "word": "阿娇阿Sa追星成功",
+        "onboard_time": 1695551912,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311738,
+        "num": 311738,
+        "word": "张本智和2比3伊朗选手",
+        "onboard_time": 1695558037,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240063,
+        "num": 240063,
+        "word": "李冰洁1500米自由泳夺金",
+        "onboard_time": 1695558095,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460238,
+        "num": 240003,
+        "word": "饿瘦与运动瘦的区别",
+        "onboard_time": 1695557253,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 312483,
+        "num": 239981,
+        "word": "韩国选手掌掴对手被罚下场",
+        "onboard_time": 1695542314,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239793,
+        "num": 239793,
+        "word": "张雨霏蝶后",
+        "onboard_time": 1695556654,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234264,
+        "num": 234264,
+        "word": "孙颖莎也没走成",
+        "onboard_time": 1695551134,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231371,
+        "num": 231371,
+        "word": "日本记者报道亚运会400日元随便吃",
+        "onboard_time": 1695551072,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 228561,
+        "num": 228561,
+        "word": "女生误将自拍发工作群2分钟撤50张",
+        "onboard_time": 1695545014,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224157,
+        "num": 224157,
+        "word": "迪丽热巴金发芭比造型",
+        "onboard_time": 1695535831,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220363,
+        "num": 220363,
+        "word": "教育部称对预制菜进校园持审慎态度",
+        "onboard_time": 1695556117,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209441,
+        "num": 209441,
+        "word": "网传大同小学生遭霸凌教育局连夜调查",
+        "onboard_time": 1695539971,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 207262,
+        "num": 207262,
+        "word": "刘诗诗回应不上常驻综艺",
+        "onboard_time": 1695542194,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141864,
+        "num": 205668,
+        "word": "全员泳动机",
+        "onboard_time": 1695557316,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205123,
+        "num": 205123,
+        "word": "中国游泳队包揽金银",
+        "onboard_time": 1695557073,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201428,
+        "num": 201428,
+        "word": "i人和e人打游戏的区别",
+        "onboard_time": 1695555336,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197740,
+        "num": 197740,
+        "word": "同事在旅一种很新的游",
+        "onboard_time": 1695558395,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196290,
+        "num": 196290,
+        "word": "国足亚运队vs孟加拉国",
+        "onboard_time": 1695556474,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189524,
+        "num": 189524,
+        "word": "林恒登场",
+        "onboard_time": 1695558516,
+        "rank": 35,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 187542,
+        "num": 187542,
+        "word": "马龙为樊振东神仙球鼓掌",
+        "onboard_time": 1695557134,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169186,
+        "num": 169186,
+        "word": "谢娜官宣微博音乐盛典",
+        "onboard_time": 1695554496,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168722,
+        "num": 168722,
+        "word": "邓为老头衫自拍",
+        "onboard_time": 1695548014,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 166824,
+        "num": 166824,
+        "word": "中国女排vs塞尔维亚女排",
+        "onboard_time": 1695558395,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147933,
+        "num": 147933,
+        "word": "专家谈李佳琦花西子眉笔争议",
+        "onboard_time": 1695547059,
+        "rank": 40,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 146499,
+        "num": 146499,
+        "word": "中国姑娘与叙利亚民众交换玫瑰",
+        "onboard_time": 1695539733,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146421,
+        "num": 146421,
+        "word": "中国台北运动员夺金BGM我的未来不是梦",
+        "onboard_time": 1695552814,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140842,
+        "num": 140842,
+        "word": "张震岳49岁婚礼",
+        "onboard_time": 1695529891,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131669,
+        "num": 131669,
+        "word": "六公主播封神纪录片",
+        "onboard_time": 1695556175,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126889,
+        "num": 126889,
+        "word": "宋亚轩王牌拍摄路透",
+        "onboard_time": 1695558335,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118760,
+        "num": 118760,
+        "word": "陕西男篮6个字回应官方处罚",
+        "onboard_time": 1695546755,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113324,
+        "num": 113324,
+        "word": "叙利亚总统时隔19年再访华",
+        "onboard_time": 1695533733,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 112629,
+        "num": 112629,
+        "word": "刘诗诗张云龙额头吻路透",
+        "onboard_time": 1695548671,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112622,
+        "num": 112622,
+        "word": "中国游泳队杭州亚运第2金",
+        "onboard_time": 1695558516,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕#"
+    }
+  }
+}
