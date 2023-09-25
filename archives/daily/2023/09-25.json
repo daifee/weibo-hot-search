@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695637132954,
+  "endTime": 1695638130836,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -107,20 +107,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1311844,
+      "num": 702529,
+      "word": "大家真的要注意内裤卫生",
+      "onboard_time": 1695626619,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1211369,
       "num": 1211369,
       "word": "你的血管里流的不一定是血",
       "onboard_time": 1695601052,
       "rank": 3,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 1119202,
-      "num": 702529,
-      "word": "大家真的要注意内裤卫生",
-      "onboard_time": 1695626619,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1086355,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1026273,
+      "num": 1026273,
+      "word": "留学生 预制菜",
+      "onboard_time": 1695635254,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 989419,
       "num": 989419,
       "word": "华为发布会 不提手机",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 959823,
-      "num": 398629,
+      "num": 436515,
       "word": "九月的工资千万不要乱花",
       "onboard_time": 1695629558,
       "rank": 20,
@@ -251,6 +259,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 829165,
+      "num": 829165,
+      "word": "陈梦11比0国乒全员憋笑失败",
+      "onboard_time": 1695634597,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 824379,
       "num": 824379,
       "word": "B太回应删除花西子产品测评",
@@ -307,14 +323,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 781420,
-      "num": 781420,
-      "word": "陈梦11比0国乒全员憋笑失败",
-      "onboard_time": 1695634597,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 771363,
       "num": 771363,
       "word": "华为发布全球最轻薄无边大平板",
@@ -329,14 +337,6 @@
       "onboard_time": 1695598287,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 751945,
-      "num": 751945,
-      "word": "留学生 预制菜",
-      "onboard_time": 1695635254,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 728744,
@@ -467,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 602881,
+      "num": 602881,
+      "word": "周杰伦 看来我要一直唱下去了",
+      "onboard_time": 1695633277,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 586852,
       "num": 478381,
       "word": "余承东称mate60正紧急生产",
@@ -489,14 +497,6 @@
       "onboard_time": 1695611193,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 566010,
-      "num": 566010,
-      "word": "周杰伦 看来我要一直唱下去了",
-      "onboard_time": 1695633277,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 561628,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 502703,
+      "num": 502703,
+      "word": "IVE MBTI",
+      "onboard_time": 1695637173,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502647,
       "num": 465032,
       "word": "霍思燕佟丽娅董璇合照",
@@ -675,7 +683,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 432759,
+      "raw_hot": 453963,
       "num": 1629547,
       "word": "西湖边这碗面吸引了郭晶晶白岩松打卡",
       "onboard_time": 1695635556,
@@ -763,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 375166,
+      "num": 375166,
+      "word": "五月天广州",
+      "onboard_time": 1695637294,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367418,
       "num": 352452,
       "word": "王力宏方申请强制执行李靓蕾",
@@ -779,20 +795,20 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 363315,
+      "num": 363315,
+      "word": "汪顺颜值震惊韩网",
+      "onboard_time": 1695635374,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360350,
       "num": 360350,
       "word": "白桃星座",
       "onboard_time": 1695568058,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 359068,
-      "num": 359068,
-      "word": "汪顺颜值震惊韩网",
-      "onboard_time": 1695635374,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 359010,
@@ -1123,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260504,
+      "num": 260504,
+      "word": "韩国男团3比0伊朗男团",
+      "onboard_time": 1695637714,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259489,
       "num": 418160,
       "word": "叶诗文再次出战亚运会",
@@ -1195,20 +1219,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243414,
+      "num": 1123610,
+      "word": "加油声让男足中国台北队领队泪洒现场",
+      "onboard_time": 1695635436,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239199,
       "num": 239199,
       "word": "代号鸢 张角",
       "onboard_time": 1695630342,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235752,
-      "num": 1107072,
-      "word": "加油声让男足中国台北队领队泪洒现场",
-      "onboard_time": 1695635436,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 235091,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1695627098,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187671,
+      "num": 187671,
+      "word": "于文文说林佳太爱孟云了",
+      "onboard_time": 1695637654,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 186498,
@@ -1979,6 +2011,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 135340,
+      "num": 363985,
+      "word": "男版香妃",
+      "onboard_time": 1695638014,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134686,
       "num": 134686,
       "word": "爸爸喂出嫁女儿吃饺子父女俩都哭了",
@@ -2107,6 +2147,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 113207,
+      "num": 572470,
+      "word": "丘索维金娜再战亚运",
+      "onboard_time": 1695636995,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111870,
       "num": 111870,
       "word": "韩素希林珍娜梦幻联动",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1695568657,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103140,
-      "num": 389092,
-      "word": "丘索维金娜再战亚运",
-      "onboard_time": 1695636995,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 103116,
@@ -2256,6 +2296,14 @@
       "word": "李娃娃成为飞猪酒店试睡员",
       "onboard_time": 1695603633,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83147,
+      "num": 610913,
+      "word": "女交警指挥交通举手投足让人安全感满满",
+      "onboard_time": 1695637714,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2387,20 +2435,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30897,
+      "num": 396402,
+      "word": "华为发布全球首款柔性OLED平板",
+      "onboard_time": 1695636934,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23899,
       "num": 33066,
       "word": "张嘉倪这段台词替我怼职场不公平",
       "onboard_time": 1695564818,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22101,
-      "num": 172707,
-      "word": "华为发布全球首款柔性OLED平板",
-      "onboard_time": 1695636934,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 20318,
