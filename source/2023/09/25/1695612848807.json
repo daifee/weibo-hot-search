@@ -1,0 +1,410 @@
+{
+  "runTime": 1695612848807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1546342,
+        "num": 1546342,
+        "word": "Jennie金智秀成立个人工作室",
+        "onboard_time": 1695611611,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914061,
+        "num": 914061,
+        "word": "北京一火锅店销毁2吨临期羊蝎子",
+        "onboard_time": 1695607891,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40635,
+        "num": 656551,
+        "word": "北京网络视听艺术大会",
+        "onboard_time": 1695611071,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 979026,
+        "num": 629462,
+        "word": "很多女爱豆被大白脸韩妆耽误了",
+        "onboard_time": 1695608791,
+        "rank": 3,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 594261,
+        "num": 594261,
+        "word": "封神训练营定档",
+        "onboard_time": 1695610770,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588070,
+        "num": 588070,
+        "word": "你的血管里流的不一定是血",
+        "onboard_time": 1695601052,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 563171,
+        "num": 563171,
+        "word": "宁泽涛 第一个游进48秒的亚洲人",
+        "onboard_time": 1695608311,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515868,
+        "num": 515868,
+        "word": "低血糖发作时有多尴尬",
+        "onboard_time": 1695606269,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 388362,
+        "num": 388362,
+        "word": "怪不得共享单车减震那么差",
+        "onboard_time": 1695606693,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 256344,
+        "num": 383174,
+        "word": "中科大校长称科研不能只靠执着",
+        "onboard_time": 1695611010,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 791962,
+        "num": 375545,
+        "word": "为什么农村大席很少拉肚子",
+        "onboard_time": 1695608430,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1033906,
+        "num": 368529,
+        "word": "宁泽涛",
+        "onboard_time": 1695596604,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141712,
+        "num": 355715,
+        "word": "工人日报灵魂三问预制菜",
+        "onboard_time": 1695603216,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 107388,
+        "num": 348769,
+        "word": "樊振东比赛马龙等变身鼓掌机器",
+        "onboard_time": 1695604532,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101075,
+        "num": 335789,
+        "word": "男子守护病妻23年写10万字护理日记",
+        "onboard_time": 1695607171,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1483931,
+        "num": 331424,
+        "word": "韩国队战胜中国香港队",
+        "onboard_time": 1695608488,
+        "rank": 15,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 325440,
+        "num": 325440,
+        "word": "沈腾吐槽金晨一步一亮相",
+        "onboard_time": 1695598287,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707164,
+        "num": 325169,
+        "word": "实测苹果无法用华为充电器",
+        "onboard_time": 1695609031,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 349242,
+        "num": 324664,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1695612093,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324077,
+        "num": 324077,
+        "word": "田曦薇去看了周杰伦演唱会",
+        "onboard_time": 1695609092,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330218,
+        "num": 316918,
+        "word": "第一批iPhone要不要买",
+        "onboard_time": 1695611193,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 296889,
+        "num": 296889,
+        "word": "存量首套房贷利率今起下调",
+        "onboard_time": 1695608972,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 241860,
+        "num": 241860,
+        "word": "第一次在星期一露出笑容",
+        "onboard_time": 1695602734,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227082,
+        "num": 227082,
+        "word": "汪顺 说我不行的人看这个成绩还行吗",
+        "onboard_time": 1695598529,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224852,
+        "num": 224852,
+        "word": "这周只要上4天班",
+        "onboard_time": 1695609516,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210618,
+        "num": 210618,
+        "word": "王牌对王牌",
+        "onboard_time": 1695603274,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209549,
+        "num": 209549,
+        "word": "霹雳舞首次入亚",
+        "onboard_time": 1695612273,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206354,
+        "num": 206354,
+        "word": "五月天突然好想你雨中氛围感",
+        "onboard_time": 1695603874,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197695,
+        "num": 197695,
+        "word": "消防推荐官黄景瑜",
+        "onboard_time": 1695610892,
+        "rank": 28,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 191160,
+        "num": 191160,
+        "word": "巴黎抓牛大作战",
+        "onboard_time": 1695612392,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188670,
+        "num": 188670,
+        "word": "女生花7000元看周杰伦演唱会忘带票",
+        "onboard_time": 1695567037,
+        "rank": 30,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 176078,
+        "num": 176078,
+        "word": "退役军人33年在沙漠种出3万亩绿洲",
+        "onboard_time": 1695612392,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 176035,
+        "num": 176035,
+        "word": "凡人修仙传定妆花絮",
+        "onboard_time": 1695611372,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174686,
+        "num": 174686,
+        "word": "日媒批男团耻辱出局",
+        "onboard_time": 1695568359,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170970,
+        "num": 170970,
+        "word": "余华这到底是怎么写的",
+        "onboard_time": 1695606090,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 167155,
+        "num": 167155,
+        "word": "发现了一个延长国庆假期的方法",
+        "onboard_time": 1695606993,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158298,
+        "num": 158298,
+        "word": "张远王栎鑫同台飙高音",
+        "onboard_time": 1695611131,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146761,
+        "num": 146761,
+        "word": "A股",
+        "onboard_time": 1695608671,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140939,
+        "num": 140939,
+        "word": "乞讨老人手机内是偷拍的短裙女生",
+        "onboard_time": 1695603395,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137641,
+        "num": 137641,
+        "word": "我国顶尖科学家将冷门专业变热门",
+        "onboard_time": 1695605553,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135297,
+        "num": 135297,
+        "word": "凡人修仙传凡人不凡海报",
+        "onboard_time": 1695609810,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135040,
+        "num": 135040,
+        "word": "周杰伦说要成为太原演唱会的标杆",
+        "onboard_time": 1695608129,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120931,
+        "num": 120931,
+        "word": "杨丞琳成都",
+        "onboard_time": 1695611671,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119416,
+        "num": 119416,
+        "word": "虞书欣好大的耳环",
+        "onboard_time": 1695599553,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114466,
+        "num": 114466,
+        "word": "这才是轻舟已过万重山",
+        "onboard_time": 1695601475,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281797,
+        "num": 112783,
+        "word": "英雄联盟",
+        "onboard_time": 1695605011,
+        "rank": 45,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 108433,
+        "num": 108433,
+        "word": "马斯克不断公开恳求名人推特发帖",
+        "onboard_time": 1695602856,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104975,
+        "num": 104975,
+        "word": "杨丞琳把熊猫穿在身上",
+        "onboard_time": 1695608311,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102788,
+        "num": 102788,
+        "word": "张小斐这剧除了原配全员好嗑",
+        "onboard_time": 1695570454,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99522,
+        "num": 99522,
+        "word": "广汕高铁9月26日开通",
+        "onboard_time": 1695612813,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的亚运会时间#"
+    }
+  }
+}

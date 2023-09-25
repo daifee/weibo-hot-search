@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695611840310,
+  "endTime": 1695612848807,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1546342,
+      "num": 1546342,
+      "word": "Jennie金智秀成立个人工作室",
+      "onboard_time": 1695611611,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1511289,
       "num": 436916,
       "word": "张震岳49岁婚礼",
@@ -115,7 +123,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1449965,
+      "raw_hot": 1483931,
       "num": 1449965,
       "word": "韩国队战胜中国香港队",
       "onboard_time": 1695608488,
@@ -315,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 979026,
+      "num": 955938,
+      "word": "很多女爱豆被大白脸韩妆耽误了",
+      "onboard_time": 1695608791,
+      "rank": 30,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 960737,
       "num": 960737,
       "word": "国足亚运队0比0孟加拉国",
@@ -329,14 +345,6 @@
       "onboard_time": 1695516450,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 955938,
-      "num": 955938,
-      "word": "很多女爱豆被大白脸韩妆耽误了",
-      "onboard_time": 1695608791,
-      "rank": 30,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 950326,
@@ -377,6 +385,14 @@
       "onboard_time": 1695563197,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 914061,
+      "num": 914061,
+      "word": "北京一火锅店销毁2吨临期羊蝎子",
+      "onboard_time": 1695607891,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895762,
@@ -603,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 707164,
+      "num": 379034,
+      "word": "实测苹果无法用华为充电器",
+      "onboard_time": 1695609031,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 706411,
       "num": 706411,
       "word": "郭晶晶执旗霍启刚领队",
@@ -641,14 +665,6 @@
       "onboard_time": 1695567939,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 689123,
-      "num": 689123,
-      "word": "北京一火锅店销毁2吨临期羊蝎子",
-      "onboard_time": 1695607891,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688291,
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 647823,
-      "num": 460319,
+      "num": 563171,
       "word": "宁泽涛 第一个游进48秒的亚洲人",
       "onboard_time": 1695608311,
       "rank": 23,
@@ -825,14 +841,6 @@
       "onboard_time": 1695605011,
       "rank": 16,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 625825,
-      "num": 379034,
-      "word": "实测苹果无法用华为充电器",
-      "onboard_time": 1695609031,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 624985,
@@ -1451,6 +1459,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 349242,
+      "num": 324664,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1695612093,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 348433,
       "num": 241512,
       "word": "offer5实习生简历好丰富",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1695546755,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330218,
+      "num": 316918,
+      "word": "第一批iPhone要不要买",
+      "onboard_time": 1695611193,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 327900,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1695571355,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 296889,
+      "num": 296889,
+      "word": "存量首套房贷利率今起下调",
+      "onboard_time": 1695608972,
+      "rank": 33,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 296071,
@@ -1963,14 +1995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 262317,
-      "num": 262317,
-      "word": "存量首套房贷利率今起下调",
-      "onboard_time": 1695608972,
-      "rank": 33,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 261585,
       "num": 261585,
       "word": "国足亚运队半场0射正",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1695532832,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256344,
+      "num": 443105,
+      "word": "中科大校长称科研不能只靠执着",
+      "onboard_time": 1695611010,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 254758,
@@ -2451,20 +2483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210574,
-      "num": 210574,
-      "word": "第一批iPhone要不要买",
-      "onboard_time": 1695611193,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 210284,
       "num": 210284,
       "word": "李荣浩回应被粉丝说大眼男神",
       "onboard_time": 1695484239,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209549,
+      "num": 209549,
+      "word": "霹雳舞首次入亚",
+      "onboard_time": 1695612273,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 209042,
@@ -2659,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197695,
+      "num": 197695,
+      "word": "消防推荐官黄景瑜",
+      "onboard_time": 1695610892,
+      "rank": 30,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 197286,
       "num": 197286,
       "word": "赵今麦黄色雨靴",
@@ -2673,14 +2713,6 @@
       "onboard_time": 1695530674,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196589,
-      "num": 196589,
-      "word": "消防推荐官黄景瑜",
-      "onboard_time": 1695610892,
-      "rank": 30,
-      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 196290,
@@ -2721,6 +2753,14 @@
       "onboard_time": 1695548614,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191160,
+      "num": 191160,
+      "word": "巴黎抓牛大作战",
+      "onboard_time": 1695612392,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190928,
@@ -2851,14 +2891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183621,
-      "num": 183621,
-      "word": "Jennie金智秀成立个人工作室",
-      "onboard_time": 1695611611,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182183,
       "num": 182183,
       "word": "张远嘉宾巡回演唱会",
@@ -2889,6 +2921,22 @@
       "onboard_time": 1695532956,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 176078,
+      "num": 176078,
+      "word": "退役军人33年在沙漠种出3万亩绿洲",
+      "onboard_time": 1695612392,
+      "rank": 31,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 176035,
+      "num": 176035,
+      "word": "凡人修仙传定妆花絮",
+      "onboard_time": 1695611372,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 175644,
@@ -3147,14 +3195,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 154528,
-      "num": 150762,
-      "word": "凡人修仙传定妆花絮",
-      "onboard_time": 1695611372,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154178,
       "num": 154178,
       "word": "唐钱婷50米蛙金牌",
@@ -3249,14 +3289,6 @@
       "onboard_time": 1695470915,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148786,
-      "num": 443105,
-      "word": "中科大校长称科研不能只靠执着",
-      "onboard_time": 1695611010,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 147746,
@@ -3563,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120931,
+      "num": 120931,
+      "word": "杨丞琳成都",
+      "onboard_time": 1695611671,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119563,
       "num": 119563,
       "word": "赖美云王梓豪新剧在干什么",
@@ -3675,12 +3715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99822,
-      "num": 99822,
-      "word": "杨丞琳成都",
-      "onboard_time": 1695611671,
-      "rank": 48,
-      "category": "演出"
+      "raw_hot": 99522,
+      "num": 99522,
+      "word": "广汕高铁9月26日开通",
+      "onboard_time": 1695612813,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99060,
@@ -3859,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40635,
+      "num": 981678,
+      "word": "北京网络视听艺术大会",
+      "onboard_time": 1695611071,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 39270,
       "num": 49545,
       "word": "有职业空窗期再就业有多难",
@@ -3881,14 +3929,6 @@
       "onboard_time": 1695575782,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32544,
-      "num": 981678,
-      "word": "北京网络视听艺术大会",
-      "onboard_time": 1695611071,
-      "rank": 2,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 31192,
