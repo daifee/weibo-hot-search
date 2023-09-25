@@ -1,0 +1,410 @@
+{
+  "runTime": 1695616439670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1418061,
+        "num": 1418061,
+        "word": "黄子诚被女友卖给间谍组织",
+        "onboard_time": 1695612873,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 800296,
+        "num": 800296,
+        "word": "上半年A股股民人均盈利3.91万元",
+        "onboard_time": 1695613835,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44838,
+        "num": 756365,
+        "word": "北京网络视听艺术大会",
+        "onboard_time": 1695611071,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1044899,
+        "num": 751214,
+        "word": "Jennie金智秀成立个人工作室",
+        "onboard_time": 1695611611,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728363,
+        "num": 728363,
+        "word": "宁泽涛 第一个游进48秒的亚洲人",
+        "onboard_time": 1695608311,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607408,
+        "num": 607408,
+        "word": "很多女爱豆被大白脸韩妆耽误了",
+        "onboard_time": 1695608791,
+        "rank": 5,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 503990,
+        "num": 503990,
+        "word": "你的血管里流的不一定是血",
+        "onboard_time": 1695601052,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 473951,
+        "num": 473951,
+        "word": "中国赛艇队11金2银收官",
+        "onboard_time": 1695614437,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380589,
+        "num": 473857,
+        "word": "退休外交官夫妇山区支教9年",
+        "onboard_time": 1695613772,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 67861,
+        "num": 473567,
+        "word": "谷爱凌波司登走秀",
+        "onboard_time": 1695614735,
+        "rank": 9,
+        "category": "时尚,体育"
+      },
+      {
+        "raw_hot": 7159078,
+        "num": 473518,
+        "word": "周密周芯竹分手",
+        "onboard_time": 1695614977,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851954,
+        "num": 473261,
+        "word": "英雄联盟比赛转播于9月28日半决赛开始",
+        "onboard_time": 1695614610,
+        "rank": 11,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 254024,
+        "num": 473050,
+        "word": "这才是轻舟已过万重山",
+        "onboard_time": 1695601475,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194359,
+        "num": 472766,
+        "word": "中科大校长称科研不能只靠执着",
+        "onboard_time": 1695611010,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 58547,
+        "num": 472596,
+        "word": "跟淘宝学了点乒乓功夫",
+        "onboard_time": 1695614437,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 472492,
+        "num": 472492,
+        "word": "封神训练营定档",
+        "onboard_time": 1695610770,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 799138,
+        "num": 472304,
+        "word": "李现喂自己大屏喝饮料",
+        "onboard_time": 1695614015,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782868,
+        "num": 471274,
+        "word": "为什么农村大席很少拉肚子",
+        "onboard_time": 1695608430,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 699139,
+        "num": 469999,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1695612093,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 616948,
+        "num": 468694,
+        "word": "宁泽涛",
+        "onboard_time": 1695596604,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92483,
+        "num": 467659,
+        "word": "听说今年流行轻薄羽绒服",
+        "onboard_time": 1695614735,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 561411,
+        "num": 465907,
+        "word": "第一批iPhone要不要买",
+        "onboard_time": 1695611193,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 502647,
+        "num": 465032,
+        "word": "霍思燕佟丽娅董璇合照",
+        "onboard_time": 1695614134,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464676,
+        "num": 464676,
+        "word": "白敬亭高情商评沈腾的土豆丝",
+        "onboard_time": 1695615218,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389427,
+        "num": 389427,
+        "word": "实测苹果无法用华为充电器",
+        "onboard_time": 1695609031,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 388388,
+        "num": 388388,
+        "word": "英雄联盟韩国队晋级八强",
+        "onboard_time": 1695615338,
+        "rank": 25,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 337054,
+        "num": 337054,
+        "word": "北京一火锅店销毁2吨临期羊蝎子",
+        "onboard_time": 1695607891,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324088,
+        "num": 324088,
+        "word": "B太 国内外美妆产品会不会缺斤少两",
+        "onboard_time": 1695615459,
+        "rank": 27,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 300419,
+        "num": 300419,
+        "word": "低血糖发作时有多尴尬",
+        "onboard_time": 1695606269,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296829,
+        "num": 296829,
+        "word": "AVAVAV会搞事 没穿好衣服就走秀",
+        "onboard_time": 1695613956,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307923,
+        "num": 283667,
+        "word": "家长花费50万为自闭症儿子经络重构",
+        "onboard_time": 1695615939,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250061,
+        "num": 250061,
+        "word": "柯洁亚运会三连胜",
+        "onboard_time": 1695614853,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237332,
+        "num": 237332,
+        "word": "怪不得共享单车减震那么差",
+        "onboard_time": 1695606693,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 215017,
+        "num": 215017,
+        "word": "存量首套房贷利率今起下调",
+        "onboard_time": 1695608972,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 112531,
+        "num": 213624,
+        "word": "工人日报灵魂三问预制菜",
+        "onboard_time": 1695603216,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 213513,
+        "num": 213513,
+        "word": "田曦薇去看了周杰伦演唱会",
+        "onboard_time": 1695609092,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210829,
+        "num": 210829,
+        "word": "杨丞琳亲了李斯丹妮",
+        "onboard_time": 1695615277,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203159,
+        "num": 203159,
+        "word": "李松蔚",
+        "onboard_time": 1695615097,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 199009,
+        "num": 199009,
+        "word": "弹壳问魏哲鸣有什么实力",
+        "onboard_time": 1695614674,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88260,
+        "num": 197830,
+        "word": "国庆出行先看差评",
+        "onboard_time": 1695614437,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197600,
+        "num": 197600,
+        "word": "孙颖莎3比0萨维塔布特",
+        "onboard_time": 1695614375,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189698,
+        "num": 189698,
+        "word": "国乒女团vs泰国女团",
+        "onboard_time": 1695615699,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187660,
+        "num": 187660,
+        "word": "没有吉克隽逸不敢穿的颜色",
+        "onboard_time": 1695612991,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146333,
+        "num": 177897,
+        "word": "华为好戏即将开场",
+        "onboard_time": 1695612873,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176250,
+        "num": 176250,
+        "word": "汪顺 说我不行的人看这个成绩还行吗",
+        "onboard_time": 1695598529,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167924,
+        "num": 167924,
+        "word": "沈腾吐槽金晨一步一亮相",
+        "onboard_time": 1695598287,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161994,
+        "num": 161994,
+        "word": "五月天突然好想你雨中氛围感",
+        "onboard_time": 1695603874,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153151,
+        "num": 153151,
+        "word": "张远嘉宾舞台有好多新娘",
+        "onboard_time": 1695614317,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147026,
+        "num": 147026,
+        "word": "王牌对王牌",
+        "onboard_time": 1695603274,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145135,
+        "num": 145135,
+        "word": "这周只要上4天班",
+        "onboard_time": 1695609516,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的亚运会时间#"
+    }
+  }
+}
