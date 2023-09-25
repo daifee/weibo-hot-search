@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695627238732,
+  "endTime": 1695630150363,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 8441678,
-      "num": 511504,
+      "num": 522262,
       "word": "周密周芯竹分手",
       "onboard_time": 1695614977,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 4851573,
-      "num": 4851573,
+      "raw_hot": 8349348,
+      "num": 8349348,
       "word": "刘德华 非凡大师",
       "onboard_time": 1695626619,
       "rank": 1,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1947890,
-      "num": 511300,
+      "num": 517593,
       "word": "王力宏李靓蕾现身法庭正面交锋",
       "onboard_time": 1695616658,
       "rank": 12,
@@ -73,6 +73,14 @@
       "onboard_time": 1695608488,
       "rank": 30,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 1481376,
+      "num": 524215,
+      "word": "网曝校长与副校长不雅聊天记录",
+      "onboard_time": 1695626498,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1418061,
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1070503,
+      "num": 1070503,
+      "word": "华为首款黄金智能腕表",
+      "onboard_time": 1695626978,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1058852,
       "num": 1058852,
       "word": "18岁中国小将破世界纪录夺冠",
@@ -153,6 +169,14 @@
       "onboard_time": 1695607891,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912784,
+      "num": 912784,
+      "word": "张小斐看张嘉倪的眼神",
+      "onboard_time": 1695625897,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 895762,
@@ -195,6 +219,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 821853,
+      "num": 521863,
+      "word": "大家真的要注意内裤卫生",
+      "onboard_time": 1695626619,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 817570,
       "num": 817570,
       "word": "宁泽涛 第一个游进48秒的亚洲人",
@@ -233,6 +265,14 @@
       "onboard_time": 1695603274,
       "rank": 20,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 782005,
+      "num": 354068,
+      "word": "九月的工资千万不要乱花",
+      "onboard_time": 1695629558,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 771363,
@@ -387,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 557944,
+      "num": 517928,
+      "word": "B太回应删除花西子产品测评",
+      "onboard_time": 1695629439,
+      "rank": 15,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 543617,
       "num": 543617,
       "word": "王牌对王牌",
@@ -401,6 +449,14 @@
       "onboard_time": 1695567939,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 525006,
+      "num": 525006,
+      "word": "舒淇又轻轻地秒了",
+      "onboard_time": 1695628899,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 521812,
@@ -491,14 +547,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 476455,
-      "num": 271272,
-      "word": "大家真的要注意内裤卫生",
-      "onboard_time": 1695626619,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 475008,
       "num": 377450,
       "word": "韩国代表队经过混采区都直溜溜的走了",
@@ -513,6 +561,14 @@
       "onboard_time": 1695614437,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470312,
+      "num": 470312,
+      "word": "刘德华为什么很少演反派",
+      "onboard_time": 1695627996,
+      "rank": 17,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 464676,
@@ -531,12 +587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 441531,
-      "num": 441531,
-      "word": "网曝校长与副校长不雅聊天记录",
-      "onboard_time": 1695626498,
-      "rank": 19,
-      "category": "社会新闻,教育"
+      "raw_hot": 441609,
+      "num": 441609,
+      "word": "女生最无声的炫富",
+      "onboard_time": 1695628656,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 428522,
@@ -571,28 +627,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 397109,
-      "num": 397109,
-      "word": "华为首款黄金智能腕表",
-      "onboard_time": 1695626978,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 394026,
       "num": 473857,
       "word": "退休外交官夫妇山区支教9年",
       "onboard_time": 1695613772,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 393419,
-      "num": 393419,
-      "word": "张小斐看张嘉倪的眼神",
-      "onboard_time": 1695625897,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 389169,
@@ -617,6 +657,14 @@
       "onboard_time": 1695599553,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 367418,
+      "num": 352452,
+      "word": "王力宏方申请强制执行李靓蕾",
+      "onboard_time": 1695627938,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 364511,
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 327081,
-      "num": 480222,
+      "num": 518628,
       "word": "这才是轻舟已过万重山",
       "onboard_time": 1695601475,
       "rank": 23,
@@ -731,6 +779,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 317072,
+      "num": 317072,
+      "word": "孙艺洲回应爱情公寓全员黑化",
+      "onboard_time": 1695629801,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 314488,
       "num": 314488,
       "word": "农村男子租豪车装富豪诈骗40多名女性",
@@ -753,6 +809,14 @@
       "onboard_time": 1695604234,
       "rank": 48,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 309190,
+      "num": 309190,
+      "word": "华为发布全新超高端品牌",
+      "onboard_time": 1695627098,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 305714,
@@ -780,7 +844,7 @@
     },
     {
       "raw_hot": 295773,
-      "num": 481325,
+      "num": 520366,
       "word": "15岁中国小将滑板碗池摘金",
       "onboard_time": 1695622294,
       "rank": 13,
@@ -883,12 +947,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 271089,
+      "num": 271089,
+      "word": "谁来管管文韬啊",
+      "onboard_time": 1695628116,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270314,
       "num": 270314,
       "word": "余华这到底是怎么写的",
       "onboard_time": 1695606090,
       "rank": 22,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 266038,
+      "num": 266038,
+      "word": "去游泳才知道阿娇戴泳帽多好看",
+      "onboard_time": 1695627518,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 264416,
@@ -977,6 +1057,22 @@
       "onboard_time": 1695601294,
       "rank": 33,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 231107,
+      "num": 306707,
+      "word": "王一博亚运会霹雳舞宣传片领衔舞者",
+      "onboard_time": 1695629017,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 230211,
+      "num": 230211,
+      "word": "华为发布首款隔空触控电视",
+      "onboard_time": 1695628718,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 219734,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1695619836,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205291,
+      "num": 305228,
+      "word": "樊振东战术捂嘴",
+      "onboard_time": 1695628417,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 205136,
@@ -1195,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190517,
+      "num": 190517,
+      "word": "张靓颖成都演唱会预售",
+      "onboard_time": 1695629139,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190109,
       "num": 190109,
       "word": "没有吉克隽逸不敢穿的颜色",
@@ -1227,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186109,
+      "num": 186109,
+      "word": "依法惩治网络暴力指导意见出台",
+      "onboard_time": 1695629078,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 183851,
       "num": 362967,
       "word": "中国游泳队1晚7金",
@@ -1251,20 +1371,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179482,
+      "num": 179482,
+      "word": "华为再唱我的梦",
+      "onboard_time": 1695628958,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 177246,
       "num": 177246,
       "word": "盛李豪",
       "onboard_time": 1695619836,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176332,
-      "num": 176332,
-      "word": "华为发布全新超高端品牌",
-      "onboard_time": 1695627098,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 176078,
@@ -1299,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173324,
+      "num": 173324,
+      "word": "徐必成 五个len蹲我",
+      "onboard_time": 1695626377,
+      "rank": 41,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 170847,
       "num": 170847,
       "word": "寒武纪创投股东集体清仓套现逾40亿",
@@ -1321,6 +1449,14 @@
       "onboard_time": 1695611131,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167681,
+      "num": 167681,
+      "word": "华为新MatePad上手体验",
+      "onboard_time": 1695627819,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 167354,
@@ -1441,6 +1577,14 @@
       "onboard_time": 1695565779,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151536,
+      "num": 151536,
+      "word": "泡在水里的双开门冰箱",
+      "onboard_time": 1695628836,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 151478,
