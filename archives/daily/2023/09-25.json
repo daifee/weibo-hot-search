@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695605564416,
+  "endTime": 1695608632900,
   "band_list": [
     {
       "raw_hot": 2395978,
@@ -51,6 +51,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 808266,
+      "num": 808266,
+      "word": "低血糖发作时有多尴尬",
+      "onboard_time": 1695606269,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 792052,
+      "num": 512101,
+      "word": "马斯克怒赞iPhone15拍照功能",
+      "onboard_time": 1695603274,
+      "rank": 20,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 761282,
       "num": 761282,
       "word": "沈腾吐槽金晨一步一亮相",
@@ -67,12 +83,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 726754,
+      "num": 726754,
+      "word": "怪不得共享单车减震那么差",
+      "onboard_time": 1695606693,
+      "rank": 5,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 726578,
       "num": 365681,
       "word": "像吗 不像删了",
       "onboard_time": 1695558575,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 696756,
+      "num": 481449,
+      "word": "为什么农村大席很少拉肚子",
+      "onboard_time": 1695608430,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 688291,
@@ -99,6 +131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 632183,
+      "num": 632183,
+      "word": "英雄联盟",
+      "onboard_time": 1695605011,
+      "rank": 16,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 623692,
       "num": 306503,
       "word": "女生采耳才发现碎钻卡在耳内半个月",
@@ -123,28 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538415,
-      "num": 350687,
-      "word": "卢昱晓公式照",
-      "onboard_time": 1695567939,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 534582,
-      "num": 534582,
+      "raw_hot": 543617,
+      "num": 543617,
       "word": "王牌对王牌",
       "onboard_time": 1695603274,
       "rank": 9,
       "category": "综艺"
     },
     {
-      "raw_hot": 531993,
-      "num": 512101,
-      "word": "马斯克怒赞iPhone15拍照功能",
-      "onboard_time": 1695603274,
-      "rank": 20,
-      "category": "数码,互联网"
+      "raw_hot": 538415,
+      "num": 350687,
+      "word": "卢昱晓公式照",
+      "onboard_time": 1695567939,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518687,
@@ -211,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 371505,
-      "num": 371505,
-      "word": "英雄联盟",
-      "onboard_time": 1695605011,
-      "rank": 16,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 360350,
       "num": 360350,
       "word": "白桃星座",
@@ -241,6 +265,14 @@
       "onboard_time": 1695557253,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 354929,
+      "num": 354929,
+      "word": "我国顶尖科学家将冷门专业变热门",
+      "onboard_time": 1695605553,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 337559,
@@ -297,6 +329,14 @@
       "onboard_time": 1695571355,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 295183,
+      "num": 295183,
+      "word": "发现了一个延长国庆假期的方法",
+      "onboard_time": 1695606993,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 287976,
@@ -363,6 +403,22 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 271125,
+      "num": 271125,
+      "word": "北京一火锅店销毁2吨临期羊蝎子",
+      "onboard_time": 1695607891,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264887,
+      "num": 264887,
+      "word": "余华这到底是怎么写的",
+      "onboard_time": 1695606090,
+      "rank": 22,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 264416,
       "num": 264416,
       "word": "女子结婚和亚运冠军同住一家酒店",
@@ -387,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254758,
+      "num": 419862,
+      "word": "樊振东比赛马龙等变身鼓掌机器",
+      "onboard_time": 1695604532,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252761,
       "num": 252761,
       "word": "张嘉倪拿捏小香风",
@@ -395,11 +459,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238108,
-      "num": 238108,
-      "word": "樊振东比赛马龙等变身鼓掌机器",
-      "onboard_time": 1695604532,
-      "rank": 28,
+      "raw_hot": 233857,
+      "num": 233857,
+      "word": "宁泽涛 第一个游进48秒的亚洲人",
+      "onboard_time": 1695608311,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -433,6 +497,14 @@
       "onboard_time": 1695568538,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205136,
+      "num": 205136,
+      "word": "周杰伦说要成为太原演唱会的标杆",
+      "onboard_time": 1695608129,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 204767,
@@ -491,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181235,
+      "num": 181235,
+      "word": "韩国队战胜中国香港队",
+      "onboard_time": 1695608488,
+      "rank": 30,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 174957,
+      "num": 174957,
+      "word": "妻子10年不放弃陪重病丈夫换回一条命",
+      "onboard_time": 1695606571,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174456,
       "num": 174456,
       "word": "韩红亲了林俊杰左脸",
@@ -545,6 +633,14 @@
       "onboard_time": 1695596785,
       "rank": 41,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 153721,
+      "num": 412688,
+      "word": "男子守护病妻23年写10万字护理日记",
+      "onboard_time": 1695607171,
+      "rank": 14,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 151990,
@@ -603,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137712,
+      "num": 137712,
+      "word": "明星巴黎看秀行程",
+      "onboard_time": 1695606090,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136894,
       "num": 136894,
       "word": "白鹿白开水妆",
@@ -619,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133198,
+      "num": 133198,
+      "word": "杨丞琳把熊猫穿在身上",
+      "onboard_time": 1695608311,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126428,
       "num": 126428,
       "word": "TXT回归预告",
@@ -633,6 +745,14 @@
       "onboard_time": 1695564760,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119563,
+      "num": 119563,
+      "word": "赖美云王梓豪新剧在干什么",
+      "onboard_time": 1695607353,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 119206,
@@ -665,14 +785,6 @@
       "onboard_time": 1695595158,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111761,
-      "num": 111761,
-      "word": "我国顶尖科学家将冷门专业变热门",
-      "onboard_time": 1695605553,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 111049,
