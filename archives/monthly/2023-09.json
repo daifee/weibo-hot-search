@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695666140787,
+  "endTime": 1695666943528,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -64932,7 +64932,7 @@
     },
     {
       "raw_hot": 44940,
-      "num": 34910,
+      "num": 41045,
       "word": "男子在周杰伦演唱会看亚运开幕式",
       "onboard_time": 1695663739,
       "rank": 30,
@@ -64945,6 +64945,14 @@
       "onboard_time": 1694761235,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 44887,
+      "num": 46833,
+      "word": "许幻山pro max",
+      "onboard_time": 1695664398,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 44866,
@@ -65265,14 +65273,6 @@
       "onboard_time": 1694023404,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40009,
-      "num": 40009,
-      "word": "许幻山pro max",
-      "onboard_time": 1695664398,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 39608,
@@ -66012,7 +66012,7 @@
     },
     {
       "raw_hot": 28100,
-      "num": 28100,
+      "num": 41013,
       "word": "马龙六边形战士打乒乓球有多秀",
       "onboard_time": 1695664159,
       "rank": 39,
