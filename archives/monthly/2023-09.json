@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695648834147,
+  "endTime": 1695651409921,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -3083,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1773502,
+      "num": 439078,
+      "word": "韩素希颧骨钉",
+      "onboard_time": 1695646718,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1770691,
       "num": 1770691,
       "word": "徐家汇地铁站",
@@ -3441,14 +3449,6 @@
       "onboard_time": 1694504256,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1699299,
-      "num": 439078,
-      "word": "韩素希颧骨钉",
-      "onboard_time": 1695646718,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1699281,
@@ -17363,6 +17363,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 548925,
+      "num": 548925,
+      "word": "马立奥90％像妈妈",
+      "onboard_time": 1695648818,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548733,
       "num": 548733,
       "word": "你准备好抢票了吗",
@@ -17865,6 +17873,14 @@
       "onboard_time": 1695139054,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 537145,
+      "num": 537145,
+      "word": "丁程鑫不愧是拍过旋风少女的",
+      "onboard_time": 1695649297,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 537100,
@@ -19497,6 +19513,14 @@
       "onboard_time": 1693903896,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 500963,
+      "num": 500963,
+      "word": "中国剑客绝杀日本跪地怒吼",
+      "onboard_time": 1695649235,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 500863,
@@ -25019,6 +25043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400515,
+      "num": 301620,
+      "word": "这不比送月饼实在多了",
+      "onboard_time": 1695649179,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 400412,
       "num": 338911,
       "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
@@ -28067,6 +28099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352692,
+      "num": 336759,
+      "word": "吴磊都生不出这么像的",
+      "onboard_time": 1695647858,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 352688,
       "num": 352688,
       "word": "陈哲远白色橄榄树路透",
@@ -29177,14 +29217,6 @@
       "onboard_time": 1694967094,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336759,
-      "num": 336759,
-      "word": "吴磊都生不出这么像的",
-      "onboard_time": 1695647858,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 336507,
@@ -33611,6 +33643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291987,
+      "num": 309524,
+      "word": "学生刺杀操失误给领导吓一身汗",
+      "onboard_time": 1695650559,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291985,
       "num": 1667958,
       "word": "83岁老人候诊晕倒医护冲刺救人",
@@ -37411,6 +37451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259264,
+      "num": 259264,
+      "word": "王楚钦 教练没有错信你",
+      "onboard_time": 1695650918,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259252,
       "num": 259252,
       "word": "封神",
@@ -37961,6 +38009,14 @@
       "onboard_time": 1694004997,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254577,
+      "num": 304114,
+      "word": "亚运女花黄芊芊夺金",
+      "onboard_time": 1695649841,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 254429,
@@ -39323,6 +39379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 243329,
+      "num": 243329,
+      "word": "网剧我有一个朋友",
+      "onboard_time": 1695648458,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243167,
       "num": 243167,
       "word": "卢昱晓变身移动比心景点",
@@ -40291,6 +40355,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 236793,
+      "num": 236793,
+      "word": "白衬衫是张小斐的开关",
+      "onboard_time": 1695650620,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236776,
       "num": 236776,
       "word": "女打手宝儿姐揍人混剪",
@@ -40808,14 +40880,6 @@
       "word": "好事成双",
       "onboard_time": 1695472538,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 232934,
-      "num": 232934,
-      "word": "网剧我有一个朋友",
-      "onboard_time": 1695648458,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -44033,6 +44097,14 @@
       "onboard_time": 1694226394,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212541,
+      "num": 212541,
+      "word": "男子4X200自接中国队银牌",
+      "onboard_time": 1695649179,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 212528,
@@ -50611,6 +50683,14 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 186484,
+      "num": 186484,
+      "word": "唐茜靖 不容易",
+      "onboard_time": 1695650137,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186452,
       "num": 186452,
       "word": "王源米兰晚宴图",
@@ -51561,6 +51641,14 @@
       "onboard_time": 1694615082,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182191,
+      "num": 182191,
+      "word": "好事成双 太拉风了",
+      "onboard_time": 1695648998,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 182035,
@@ -52521,6 +52609,14 @@
       "onboard_time": 1694765493,
       "rank": 40,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 177003,
+      "num": 177003,
+      "word": "林双J人",
+      "onboard_time": 1695651036,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 176986,
@@ -56417,6 +56513,14 @@
       "onboard_time": 1694239419,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 153596,
+      "num": 153596,
+      "word": "网友晒图分享中图网加油包",
+      "onboard_time": 1695650437,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153570,
@@ -60553,14 +60657,6 @@
       "onboard_time": 1695200016,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120622,
-      "num": 120622,
-      "word": "马立奥90％像妈妈",
-      "onboard_time": 1695648818,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 120577,
@@ -66025,6 +66121,14 @@
       "onboard_time": 1695456032,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21382,
+      "num": 165396,
+      "word": "华为这波赢麻了",
+      "onboard_time": 1695651159,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 21246,
