@@ -1,0 +1,410 @@
+{
+  "runTime": 1695648084608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904978,
+        "num": 1904978,
+        "word": "许幻山真的永远失去自己名字了",
+        "onboard_time": 1695641793,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 730531,
+        "num": 730531,
+        "word": "洁柔写信感谢取消10元6箱订单顾客",
+        "onboard_time": 1695638675,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24932,
+        "num": 595529,
+        "word": "奋力谱写中国式现代化浙江新篇章",
+        "onboard_time": 1695636394,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554567,
+        "num": 554567,
+        "word": "offer5实习生竟然是港姐",
+        "onboard_time": 1695646657,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551264,
+        "num": 551264,
+        "word": "朝鲜宣布外国人可依照规定入境",
+        "onboard_time": 1695642093,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 546812,
+        "num": 546812,
+        "word": "叶诗文时隔9年再战亚运摘银",
+        "onboard_time": 1695646538,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545514,
+        "num": 545514,
+        "word": "陈凯歌又来拉朱一龙了",
+        "onboard_time": 1695645396,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 516136,
+        "num": 516136,
+        "word": "张凌赫直播 男友报备",
+        "onboard_time": 1695645814,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498297,
+        "num": 498297,
+        "word": "papi酱 月饼试吃大会又来了",
+        "onboard_time": 1695641670,
+        "rank": 8,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 439012,
+        "num": 439012,
+        "word": "张小斐看张嘉倪的眼神",
+        "onboard_time": 1695625897,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1622044,
+        "num": 438704,
+        "word": "韩素希颧骨钉",
+        "onboard_time": 1695646718,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730199,
+        "num": 437413,
+        "word": "大家真的要注意内裤卫生",
+        "onboard_time": 1695626619,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 564626,
+        "num": 436001,
+        "word": "周密周芯竹分手",
+        "onboard_time": 1695614977,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271050,
+        "num": 434755,
+        "word": "覃海洋100米蛙泳金牌",
+        "onboard_time": 1695644798,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245350,
+        "num": 434065,
+        "word": "伊朗记者说赢日本时汗毛都起来了",
+        "onboard_time": 1695640234,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433621,
+        "num": 433621,
+        "word": "华为发布会",
+        "onboard_time": 1695621575,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 400372,
+        "num": 400372,
+        "word": "魏大勋称清华学子未来的老板",
+        "onboard_time": 1695647136,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363630,
+        "num": 363630,
+        "word": "张拿铁的全英文面试",
+        "onboard_time": 1695641312,
+        "rank": 17,
+        "category": "网红,幽默"
+      },
+      {
+        "raw_hot": 351761,
+        "num": 351761,
+        "word": "韩国球员爆冷输球拒绝握手",
+        "onboard_time": 1695631778,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344459,
+        "num": 344459,
+        "word": "杨紫初秋烟熏仿妆",
+        "onboard_time": 1695644556,
+        "rank": 19,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 567979,
+        "num": 337734,
+        "word": "九月的工资千万不要乱花",
+        "onboard_time": 1695629558,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 499541,
+        "num": 336366,
+        "word": "网曝校长与副校长不雅聊天记录",
+        "onboard_time": 1695626498,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 380814,
+        "num": 333403,
+        "word": "舅舅染黄发接2年级外甥放学被嫌弃",
+        "onboard_time": 1695646596,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326810,
+        "num": 326810,
+        "word": "陈梦11比0国乒全员憋笑失败",
+        "onboard_time": 1695634597,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305302,
+        "num": 305302,
+        "word": "女生误捡福寿螺带回家产卵后立马扔",
+        "onboard_time": 1695643896,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291971,
+        "num": 291971,
+        "word": "刘德华 非凡大师",
+        "onboard_time": 1695626619,
+        "rank": 25,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 290438,
+        "num": 290438,
+        "word": "有些人活着可屁股已经死了",
+        "onboard_time": 1695632377,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289860,
+        "num": 289860,
+        "word": "体操",
+        "onboard_time": 1695646902,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275567,
+        "num": 275567,
+        "word": "吴磊都生不出这么像的",
+        "onboard_time": 1695647858,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254115,
+        "num": 254115,
+        "word": "中国男排vs日本男排",
+        "onboard_time": 1695644676,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250109,
+        "num": 250109,
+        "word": "中国男排3比0日本男排",
+        "onboard_time": 1695646056,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242372,
+        "num": 242372,
+        "word": "张杰 万物不如你",
+        "onboard_time": 1695644976,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209193,
+        "num": 209193,
+        "word": "周杰伦演唱会上男粉发言给我听哭了",
+        "onboard_time": 1695641073,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203543,
+        "num": 203543,
+        "word": "中国男排 倍儿爽",
+        "onboard_time": 1695645936,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201059,
+        "num": 201059,
+        "word": "汪顺颜值震惊韩网",
+        "onboard_time": 1695635374,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199438,
+        "num": 199438,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1695641374,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196825,
+        "num": 196825,
+        "word": "王俊凯娜扎机场同框",
+        "onboard_time": 1695641133,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187799,
+        "num": 187799,
+        "word": "于适娜然乌尔善芭莎男士封面预告",
+        "onboard_time": 1695647255,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185445,
+        "num": 185445,
+        "word": "石川佳纯在看男排",
+        "onboard_time": 1695644493,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185212,
+        "num": 185212,
+        "word": "地摊上发现一封几十年前的情书",
+        "onboard_time": 1695641733,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143464,
+        "num": 143464,
+        "word": "中国体操女团亚运13连冠",
+        "onboard_time": 1695647858,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141767,
+        "num": 141767,
+        "word": "倪妮刘亦菲什么时候演双女主",
+        "onboard_time": 1695634835,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137186,
+        "num": 137186,
+        "word": "Mate60RS 电子茅台",
+        "onboard_time": 1695639395,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137067,
+        "num": 137067,
+        "word": "亚运会游泳 精彩",
+        "onboard_time": 1695648038,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134958,
+        "num": 134958,
+        "word": "不敢想这风吹我脸上有多丑",
+        "onboard_time": 1695639516,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20395,
+        "num": 134601,
+        "word": "还得是华为",
+        "onboard_time": 1695647858,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134292,
+        "num": 134292,
+        "word": "华为发布会 不提手机",
+        "onboard_time": 1695630579,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133775,
+        "num": 133775,
+        "word": "亚运会 BGM",
+        "onboard_time": 1695646235,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132727,
+        "num": 132727,
+        "word": "IVE MBTI",
+        "onboard_time": 1695637173,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130381,
+        "num": 130381,
+        "word": "B太回应删除花西子产品测评",
+        "onboard_time": 1695629439,
+        "rank": 49,
+        "category": "美妆,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记考察#"
+    }
+  }
+}
