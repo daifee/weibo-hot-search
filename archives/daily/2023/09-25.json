@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695633471159,
+  "endTime": 1695634475320,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 8441678,
-      "num": 578234,
+      "num": 599856,
       "word": "周密周芯竹分手",
       "onboard_time": 1695614977,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1167134,
+      "num": 1167134,
+      "word": "韩国球员爆冷输球拒绝握手",
+      "onboard_time": 1695631778,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1086355,
       "num": 1086355,
       "word": "女生花7000元看周杰伦演唱会忘带票",
@@ -171,14 +179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 952426,
-      "num": 952426,
-      "word": "韩国球员爆冷输球拒绝握手",
-      "onboard_time": 1695631778,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 914061,
       "num": 914061,
       "word": "北京一火锅店销毁2吨临期羊蝎子",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 855110,
-      "num": 558931,
+      "num": 579313,
       "word": "大家真的要注意内裤卫生",
       "onboard_time": 1695626619,
       "rank": 30,
@@ -265,6 +265,14 @@
       "onboard_time": 1695614015,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 803010,
+      "num": 803010,
+      "word": "IVE先行曲公开",
+      "onboard_time": 1695633875,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 801730,
@@ -387,20 +395,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 655703,
+      "num": 655703,
+      "word": "舒淇又轻轻地秒了",
+      "onboard_time": 1695628899,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 644578,
       "num": 644578,
       "word": "封神训练营定档",
       "onboard_time": 1695610770,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632255,
-      "num": 632255,
-      "word": "舒淇又轻轻地秒了",
-      "onboard_time": 1695628899,
-      "rank": 7,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 632183,
@@ -627,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 443743,
+      "num": 443743,
+      "word": "周杰伦 看来我要一直唱下去了",
+      "onboard_time": 1695633277,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 428522,
       "num": 428522,
       "word": "五月天突然好想你雨中氛围感",
@@ -819,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 319656,
+      "num": 319656,
+      "word": "卢昱晓小香风外套搭凉鞋",
+      "onboard_time": 1695630998,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 318330,
       "num": 265739,
       "word": "Faker采访",
@@ -963,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276076,
+      "num": 632689,
+      "word": "不好意思我天生微笑唇",
+      "onboard_time": 1695630342,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275531,
       "num": 275531,
       "word": "34岁初中老师重新高考转学口腔医学",
@@ -1075,20 +1107,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251247,
-      "num": 251247,
-      "word": "卢昱晓小香风外套搭凉鞋",
-      "onboard_time": 1695630998,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 250078,
       "num": 250078,
       "word": "柯洁亚运会三连胜",
       "onboard_time": 1695614853,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249808,
+      "num": 249808,
+      "word": "刘雅瑟演的柳柳是孟云的药",
+      "onboard_time": 1695633875,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 248589,
+      "num": 248589,
+      "word": "电影志愿军全国首映典礼直播",
+      "onboard_time": 1695632795,
+      "rank": 44,
+      "category": "电影,军事"
     },
     {
       "raw_hot": 245891,
@@ -1099,12 +1139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245298,
-      "num": 245298,
-      "word": "不好意思我天生微笑唇",
+      "raw_hot": 239199,
+      "num": 239199,
+      "word": "代号鸢 张角",
       "onboard_time": 1695630342,
-      "rank": 38,
-      "category": "体育"
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 235091,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1695588253,
       "rank": 30,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 218790,
-      "num": 218790,
-      "word": "代号鸢 张角",
-      "onboard_time": 1695630342,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 218263,
@@ -1203,6 +1235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210557,
+      "num": 210557,
+      "word": "刘德华为在",
+      "onboard_time": 1695633577,
+      "rank": 32,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 210222,
       "num": 210222,
       "word": "杨幂水波纹大片",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1695619836,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205973,
-      "num": 205973,
-      "word": "周杰伦 看来我要一直唱下去了",
-      "onboard_time": 1695633277,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 205291,
@@ -1435,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186452,
+      "num": 186452,
+      "word": "王源米兰晚宴图",
+      "onboard_time": 1695633097,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186109,
       "num": 316797,
       "word": "依法惩治网络暴力指导意见出台",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1695628958,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 178620,
-      "num": 178620,
-      "word": "电影志愿军全国首映典礼直播",
-      "onboard_time": 1695632795,
-      "rank": 44,
-      "category": "电影,军事"
     },
     {
       "raw_hot": 177580,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1695622294,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167777,
-      "num": 167777,
-      "word": "王源米兰晚宴图",
-      "onboard_time": 1695633097,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167695,
@@ -1803,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140097,
+      "num": 150586,
+      "word": "丞磊卢昱晓分析夜色尚浅结局",
+      "onboard_time": 1695634414,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138239,
       "num": 138239,
       "word": "汪顺外公的加密通话把我CPU干烧了",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1695607353,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119209,
+      "num": 150575,
+      "word": "智界S7",
+      "onboard_time": 1695634115,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 119206,
@@ -2203,6 +2243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30151,
+      "num": 2003023,
+      "word": "亚运会今日看点",
+      "onboard_time": 1695633695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23899,
       "num": 33066,
       "word": "张嘉倪这段台词替我怼职场不公平",
@@ -2227,20 +2275,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14595,
+      "num": 196595,
+      "word": "中秋送礼抖音包了",
+      "onboard_time": 1695632855,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10826,
       "num": 15519,
       "word": "张杰还原铲腿名场面",
       "onboard_time": 1695587594,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8504,
-      "num": 196595,
-      "word": "中秋送礼抖音包了",
-      "onboard_time": 1695632855,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8216,
