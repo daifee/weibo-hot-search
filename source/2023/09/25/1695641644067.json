@@ -1,0 +1,410 @@
+{
+  "runTime": 1695641644067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1706671,
+        "num": 1706671,
+        "word": "洁柔写信感谢取消10元6箱订单顾客",
+        "onboard_time": 1695638675,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350158,
+        "num": 1231402,
+        "word": "西湖边这碗面吸引了郭晶晶白岩松打卡",
+        "onboard_time": 1695635556,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56471,
+        "num": 961859,
+        "word": "亚运会今日看点",
+        "onboard_time": 1695633695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873561,
+        "num": 873561,
+        "word": "华为发布会",
+        "onboard_time": 1695621575,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230466,
+        "num": 737734,
+        "word": "加油声让男足中国台北队领队泪洒现场",
+        "onboard_time": 1695635436,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724466,
+        "num": 724466,
+        "word": "男版香妃",
+        "onboard_time": 1695638014,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701986,
+        "num": 701986,
+        "word": "韩国球员爆冷输球拒绝握手",
+        "onboard_time": 1695631778,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602728,
+        "num": 602728,
+        "word": "张小斐看张嘉倪的眼神",
+        "onboard_time": 1695625897,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564104,
+        "num": 564104,
+        "word": "刘德华 非凡大师",
+        "onboard_time": 1695626619,
+        "rank": 8,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 523795,
+        "num": 523795,
+        "word": "陈梦11比0国乒全员憋笑失败",
+        "onboard_time": 1695634597,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1476185,
+        "num": 519456,
+        "word": "大家真的要注意内裤卫生",
+        "onboard_time": 1695626619,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 859069,
+        "num": 512267,
+        "word": "周密周芯竹分手",
+        "onboard_time": 1695614977,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179362,
+        "num": 492297,
+        "word": "中秋国庆有4天可发3倍工资",
+        "onboard_time": 1695620375,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 147170,
+        "num": 483472,
+        "word": "女交警指挥交通举手投足让人安全感满满",
+        "onboard_time": 1695637714,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63039,
+        "num": 472509,
+        "word": "华为新耳机搭载麒麟A2芯片",
+        "onboard_time": 1695639634,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 469286,
+        "num": 469286,
+        "word": "周杰伦 看来我要一直唱下去了",
+        "onboard_time": 1695633277,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 435760,
+        "num": 435760,
+        "word": "汪顺颜值震惊韩网",
+        "onboard_time": 1695635374,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373781,
+        "num": 373781,
+        "word": "不敢想这风吹我脸上有多丑",
+        "onboard_time": 1695639516,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346069,
+        "num": 346069,
+        "word": "IVE MBTI",
+        "onboard_time": 1695637173,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331277,
+        "num": 331277,
+        "word": "李松蔚否认性侵指控",
+        "onboard_time": 1695638856,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 766499,
+        "num": 316897,
+        "word": "留学生 预制菜",
+        "onboard_time": 1695635254,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 732630,
+        "num": 313898,
+        "word": "网曝校长与副校长不雅聊天记录",
+        "onboard_time": 1695626498,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 434936,
+        "num": 313445,
+        "word": "九月的工资千万不要乱花",
+        "onboard_time": 1695629558,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296402,
+        "num": 296402,
+        "word": "倪妮刘亦菲什么时候演双女主",
+        "onboard_time": 1695634835,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295100,
+        "num": 295100,
+        "word": "王俊凯娜扎机场同框",
+        "onboard_time": 1695641133,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284613,
+        "num": 284613,
+        "word": "华为发布会 不提手机",
+        "onboard_time": 1695630579,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 239258,
+        "num": 239258,
+        "word": "Mate60RS 电子茅台",
+        "onboard_time": 1695639395,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231192,
+        "num": 231192,
+        "word": "韩庚一口气吃了九两面",
+        "onboard_time": 1695634474,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67681,
+        "num": 230387,
+        "word": "18岁中国小将破世界纪录夺冠",
+        "onboard_time": 1695617624,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163783,
+        "num": 229675,
+        "word": "为什么这届亚运会非看不可",
+        "onboard_time": 1695641555,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315694,
+        "num": 228563,
+        "word": "周杰伦演唱会上男粉发言给我听哭了",
+        "onboard_time": 1695641073,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302680,
+        "num": 227845,
+        "word": "张拿铁的全英文面试",
+        "onboard_time": 1695641312,
+        "rank": 31,
+        "category": "网红,幽默"
+      },
+      {
+        "raw_hot": 227502,
+        "num": 227502,
+        "word": "韩国男乒突然理解了张本智和",
+        "onboard_time": 1695638374,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224932,
+        "num": 224932,
+        "word": "伊朗记者说赢日本时汗毛都起来了",
+        "onboard_time": 1695640234,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223586,
+        "num": 223586,
+        "word": "B太回应删除花西子产品测评",
+        "onboard_time": 1695629439,
+        "rank": 34,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 220335,
+        "num": 220335,
+        "word": "五月天广州",
+        "onboard_time": 1695637294,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216143,
+        "num": 216143,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1695641374,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194163,
+        "num": 194163,
+        "word": "樊振东3比0庄智渊",
+        "onboard_time": 1695641073,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182280,
+        "num": 182280,
+        "word": "有些人活着可屁股已经死了",
+        "onboard_time": 1695632377,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39148,
+        "num": 179242,
+        "word": "华为发布多款遥遥领先",
+        "onboard_time": 1695640356,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178706,
+        "num": 178706,
+        "word": "韩国男团3比0伊朗男团",
+        "onboard_time": 1695637714,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125773,
+        "num": 176483,
+        "word": "汪顺原来是个蛄蛹者",
+        "onboard_time": 1695640413,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176268,
+        "num": 176268,
+        "word": "龚俊罗云熙许凯檀健次入梦国风大片",
+        "onboard_time": 1695640173,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173899,
+        "num": 173899,
+        "word": "舒淇又轻轻地秒了",
+        "onboard_time": 1695628899,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164997,
+        "num": 164997,
+        "word": "IVE先行曲公开",
+        "onboard_time": 1695633875,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157124,
+        "num": 157124,
+        "word": "乒乓球还可以这么打",
+        "onboard_time": 1695641374,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157114,
+        "num": 157114,
+        "word": "iPhone16Pro将搭载实体侧屏按钮",
+        "onboard_time": 1695625775,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147155,
+        "num": 147155,
+        "word": "Mate60共有四款产品",
+        "onboard_time": 1695635496,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146477,
+        "num": 146477,
+        "word": "余承东和刘德华握手合照好紧张",
+        "onboard_time": 1695639634,
+        "rank": 48,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 144123,
+        "num": 144123,
+        "word": "王力宏李靓蕾现身法庭正面交锋",
+        "onboard_time": 1695616658,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
