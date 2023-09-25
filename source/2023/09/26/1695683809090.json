@@ -1,0 +1,410 @@
+{
+  "runTime": 1695683809090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679724,
+        "num": 679724,
+        "word": "辽宁阜新女子被碎尸案告破",
+        "onboard_time": 1695660803,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404931,
+        "num": 404931,
+        "word": "伊朗裁判员杭州扫货对半砍价",
+        "onboard_time": 1695656914,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23895,
+        "num": 301151,
+        "word": "一起看亚运",
+        "onboard_time": 1695645274,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 483604,
+        "num": 291933,
+        "word": "学生刺杀操失误给领导吓一身汗",
+        "onboard_time": 1695650559,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278181,
+        "num": 278181,
+        "word": "华为回应充电器不支持iPhone15",
+        "onboard_time": 1695655777,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 244000,
+        "num": 244000,
+        "word": "许幻山真的永远失去自己名字了",
+        "onboard_time": 1695641793,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210332,
+        "num": 210332,
+        "word": "张嘉倪每句台词都扎在恋爱脑心上",
+        "onboard_time": 1695657692,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197419,
+        "num": 197419,
+        "word": "女明星第一次去欧美时装周看秀造型图",
+        "onboard_time": 1695656017,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164019,
+        "num": 164019,
+        "word": "整场演唱会最该买票的是伍佰",
+        "onboard_time": 1695659069,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162272,
+        "num": 162272,
+        "word": "长相思第二季能预约了",
+        "onboard_time": 1695655896,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345731,
+        "num": 161787,
+        "word": "女子做手术1年暴瘦70斤成九级伤残",
+        "onboard_time": 1695657332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161214,
+        "num": 161214,
+        "word": "班主任没上课时是亚运会火炬手",
+        "onboard_time": 1695657271,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151796,
+        "num": 151796,
+        "word": "大家真的要注意内裤卫生",
+        "onboard_time": 1695626619,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138654,
+        "num": 138654,
+        "word": "韩素希颧骨钉",
+        "onboard_time": 1695646718,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86144,
+        "num": 133372,
+        "word": "叶诗文时隔9年再战亚运摘银",
+        "onboard_time": 1695646538,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131711,
+        "num": 131711,
+        "word": "官方通报长沙一小区发生液化气爆燃",
+        "onboard_time": 1695652959,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126372,
+        "num": 126372,
+        "word": "济南国资平台甩卖1341套现房",
+        "onboard_time": 1695671594,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122062,
+        "num": 122062,
+        "word": "汪顺回应自己颜值震惊全网",
+        "onboard_time": 1695652062,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110340,
+        "num": 110340,
+        "word": "国际版玉真公主",
+        "onboard_time": 1695658531,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105669,
+        "num": 105669,
+        "word": "想吃这棵树上的枣比中彩票还难",
+        "onboard_time": 1695683604,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038724,
+        "num": 104983,
+        "word": "韩女不生的原因找到了",
+        "onboard_time": 1695655655,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441479,
+        "num": 104161,
+        "word": "上班人跳绳一个月瘦了12斤",
+        "onboard_time": 1695656136,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 418820,
+        "num": 102158,
+        "word": "娱记喊话张鲁一",
+        "onboard_time": 1695656377,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224771,
+        "num": 101259,
+        "word": "网曝校长与副校长不雅聊天记录",
+        "onboard_time": 1695626498,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 81264,
+        "num": 99039,
+        "word": "伊朗记者说赢日本时汗毛都起来了",
+        "onboard_time": 1695640234,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168501,
+        "num": 98178,
+        "word": "建行回应房贷利率调整变成还款年限调整",
+        "onboard_time": 1695682883,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 158658,
+        "num": 97398,
+        "word": "舅舅染黄发接2年级外甥放学被嫌弃",
+        "onboard_time": 1695646596,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139454,
+        "num": 95783,
+        "word": "九月的工资千万不要乱花",
+        "onboard_time": 1695629558,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109027,
+        "num": 94635,
+        "word": "吴磊都生不出这么像的",
+        "onboard_time": 1695647858,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93409,
+        "num": 93409,
+        "word": "她站上赛场就是传奇",
+        "onboard_time": 1695683545,
+        "rank": 29,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 91111,
+        "num": 91111,
+        "word": "张晚意问长相思为什么会有演唱会",
+        "onboard_time": 1695656677,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89135,
+        "num": 89135,
+        "word": "女生误捡福寿螺带回家产卵后立马扔",
+        "onboard_time": 1695643896,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84793,
+        "num": 84793,
+        "word": "看过最炸裂的错别字",
+        "onboard_time": 1695655477,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82150,
+        "num": 82150,
+        "word": "这不比送月饼实在多了",
+        "onboard_time": 1695649179,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81711,
+        "num": 81711,
+        "word": "第一次见会骂人的月饼",
+        "onboard_time": 1695683305,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70349,
+        "num": 70349,
+        "word": "鞠婧祎三套造型反差感",
+        "onboard_time": 1695657092,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 68760,
+        "num": 68760,
+        "word": "陈梦11比0国乒全员憋笑失败",
+        "onboard_time": 1695634597,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68465,
+        "num": 68465,
+        "word": "马立奥90％像妈妈",
+        "onboard_time": 1695648818,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67371,
+        "num": 67371,
+        "word": "offer5实习生竟然是港姐",
+        "onboard_time": 1695646657,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63969,
+        "num": 63969,
+        "word": "洁柔写信感谢取消10元6箱订单顾客",
+        "onboard_time": 1695638675,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62038,
+        "num": 62038,
+        "word": "女足运动员回应男女足工资差距大",
+        "onboard_time": 1695656677,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57002,
+        "num": 57002,
+        "word": "郑恺回应把前任拍成铁饭碗",
+        "onboard_time": 1695654880,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56251,
+        "num": 56251,
+        "word": "女子停车礼让大爷优雅脱帽致谢",
+        "onboard_time": 1695682883,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55785,
+        "num": 55785,
+        "word": "丁程鑫不愧是拍过旋风少女的",
+        "onboard_time": 1695649297,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55730,
+        "num": 55730,
+        "word": "男子在周杰伦演唱会看亚运开幕式",
+        "onboard_time": 1695663739,
+        "rank": 44,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 54402,
+        "num": 54402,
+        "word": "韩东君 你们下班了我上班了",
+        "onboard_time": 1695662960,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53684,
+        "num": 53684,
+        "word": "这才是正确的洗澡顺序",
+        "onboard_time": 1695651940,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 51349,
+        "num": 51349,
+        "word": "初秋通勤怎么穿出松弛感",
+        "onboard_time": 1695683667,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 50012,
+        "num": 51337,
+        "word": "黄晓明说顾许没惹你们任何人",
+        "onboard_time": 1695661342,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48226,
+        "num": 51325,
+        "word": "周密周芯竹分手",
+        "onboard_time": 1695614977,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力发展智慧交通和智慧物流#"
+    }
+  }
+}

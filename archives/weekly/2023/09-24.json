@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695681241612,
+  "endTime": 1695683809090,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679724,
+      "num": 679724,
+      "word": "辽宁阜新女子被碎尸案告破",
+      "onboard_time": 1695660803,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677585,
       "num": 442844,
       "word": "走太慢吉祥物都急了",
@@ -1939,6 +1947,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 418820,
+      "num": 205092,
+      "word": "娱记喊话张鲁一",
+      "onboard_time": 1695656377,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417797,
       "num": 417797,
       "word": "张彬彬生图扛住了所有",
@@ -2000,6 +2016,14 @@
       "word": "不好意思我天生微笑唇",
       "onboard_time": 1695630342,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 404931,
+      "num": 404931,
+      "word": "伊朗裁判员杭州扫货对半砍价",
+      "onboard_time": 1695656914,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -2097,14 +2121,6 @@
       "onboard_time": 1695646596,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379950,
-      "num": 205092,
-      "word": "娱记喊话张鲁一",
-      "onboard_time": 1695656377,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 378615,
@@ -2267,14 +2283,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 349908,
-      "num": 196457,
-      "word": "伊朗裁判员杭州扫货对半砍价",
-      "onboard_time": 1695656914,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 348433,
       "num": 241512,
       "word": "offer5实习生简历好丰富",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1695543874,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 345731,
+      "num": 190463,
+      "word": "女子做手术1年暴瘦70斤成九级伤残",
+      "onboard_time": 1695657332,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345476,
@@ -2353,14 +2369,6 @@
       "onboard_time": 1695564818,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335647,
-      "num": 335647,
-      "word": "辽宁阜新女子被碎尸案告破",
-      "onboard_time": 1695660803,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334466,
@@ -2592,14 +2600,6 @@
       "word": "中国姑娘与叙利亚民众交换玫瑰",
       "onboard_time": 1695539733,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310336,
-      "num": 190463,
-      "word": "女子做手术1年暴瘦70斤成九级伤残",
-      "onboard_time": 1695657332,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4667,6 +4667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168501,
+      "num": 98178,
+      "word": "建行回应房贷利率调整变成还款年限调整",
+      "onboard_time": 1695682883,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 167809,
       "num": 382834,
       "word": "为什么运动员穿衣那么好看",
@@ -4825,6 +4833,14 @@
       "onboard_time": 1695635736,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161214,
+      "num": 218735,
+      "word": "班主任没上课时是亚运会火炬手",
+      "onboard_time": 1695657271,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 161074,
@@ -5539,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126372,
+      "num": 126372,
+      "word": "济南国资平台甩卖1341套现房",
+      "onboard_time": 1695671594,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126187,
       "num": 126187,
       "word": "73岁香港大爷来杭州看孙颖莎",
@@ -5755,12 +5779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106032,
-      "num": 218735,
-      "word": "班主任没上课时是亚运会火炬手",
-      "onboard_time": 1695657271,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 105669,
+      "num": 105669,
+      "word": "想吃这棵树上的枣比中彩票还难",
+      "onboard_time": 1695683604,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104301,
@@ -5809,6 +5833,14 @@
       "onboard_time": 1695542792,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 93409,
+      "num": 93409,
+      "word": "她站上赛场就是传奇",
+      "onboard_time": 1695683545,
+      "rank": 29,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 92576,
@@ -5873,6 +5905,14 @@
       "onboard_time": 1695658649,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81711,
+      "num": 81711,
+      "word": "第一次见会骂人的月饼",
+      "onboard_time": 1695683305,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 78779,
@@ -6003,14 +6043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60639,
-      "num": 60639,
-      "word": "济南国资平台甩卖1341套现房",
-      "onboard_time": 1695671594,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59439,
       "num": 59439,
       "word": "黄晓明说顾许没惹你们任何人",
@@ -6035,12 +6067,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56251,
+      "num": 56251,
+      "word": "女子停车礼让大爷优雅脱帽致谢",
+      "onboard_time": 1695682883,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55730,
+      "num": 55730,
+      "word": "男子在周杰伦演唱会看亚运开幕式",
+      "onboard_time": 1695663739,
+      "rank": 30,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 55115,
       "num": 55115,
       "word": "巴黎偶遇张凌赫",
       "onboard_time": 1695492918,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 54402,
+      "num": 54402,
+      "word": "韩东君 你们下班了我上班了",
+      "onboard_time": 1695662960,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 54068,
@@ -6075,6 +6131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51349,
+      "num": 51349,
+      "word": "初秋通勤怎么穿出松弛感",
+      "onboard_time": 1695683667,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 50179,
       "num": 52601,
       "word": "加油杭州亚运会",
@@ -6091,14 +6155,6 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 44940,
-      "num": 41045,
-      "word": "男子在周杰伦演唱会看亚运开幕式",
-      "onboard_time": 1695663739,
-      "rank": 30,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 44887,
       "num": 46833,
       "word": "许幻山pro max",
@@ -6113,14 +6169,6 @@
       "onboard_time": 1695611071,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 43388,
-      "num": 52756,
-      "word": "韩东君 你们下班了我上班了",
-      "onboard_time": 1695662960,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 42497,
@@ -6267,7 +6315,7 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 23500,
+      "raw_hot": 23895,
       "num": 658950,
       "word": "一起看亚运",
       "onboard_time": 1695645274,

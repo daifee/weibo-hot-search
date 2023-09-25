@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695681241612,
+  "endTime": 1695683809090,
   "band_list": [
     {
       "raw_hot": 1511374,
@@ -25,6 +25,14 @@
       "onboard_time": 1695641793,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 679724,
+      "num": 679724,
+      "word": "辽宁阜新女子被碎尸案告破",
+      "onboard_time": 1695660803,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639731,
@@ -75,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379950,
+      "raw_hot": 418820,
       "num": 205092,
       "word": "娱记喊话张鲁一",
       "onboard_time": 1695656377,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404931,
+      "num": 404931,
+      "word": "伊朗裁判员杭州扫货对半砍价",
+      "onboard_time": 1695656914,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 370929,
@@ -99,19 +115,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 349908,
-      "num": 196457,
-      "word": "伊朗裁判员杭州扫货对半砍价",
-      "onboard_time": 1695656914,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 335647,
-      "num": 335647,
-      "word": "辽宁阜新女子被碎尸案告破",
-      "onboard_time": 1695660803,
-      "rank": 26,
+      "raw_hot": 345731,
+      "num": 190463,
+      "word": "女子做手术1年暴瘦70斤成九级伤残",
+      "onboard_time": 1695657332,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -121,14 +129,6 @@
       "onboard_time": 1695626619,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 310336,
-      "num": 190463,
-      "word": "女子做手术1年暴瘦70斤成九级伤残",
-      "onboard_time": 1695657332,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308384,
@@ -219,12 +219,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168501,
+      "num": 98178,
+      "word": "建行回应房贷利率调整变成还款年限调整",
+      "onboard_time": 1695682883,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 161609,
       "num": 161609,
       "word": "丁程鑫不愧是拍过旋风少女的",
       "onboard_time": 1695649297,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161214,
+      "num": 218735,
+      "word": "班主任没上课时是亚运会火炬手",
+      "onboard_time": 1695657271,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158658,
+      "num": 107119,
+      "word": "舅舅染黄发接2年级外甥放学被嫌弃",
+      "onboard_time": 1695646596,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151952,
@@ -275,6 +299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126372,
+      "num": 126372,
+      "word": "济南国资平台甩卖1341套现房",
+      "onboard_time": 1695671594,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122044,
       "num": 122044,
       "word": "这才是正确的洗澡顺序",
@@ -323,28 +355,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107119,
-      "num": 107119,
-      "word": "舅舅染黄发接2年级外甥放学被嫌弃",
-      "onboard_time": 1695646596,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106032,
-      "num": 218735,
-      "word": "班主任没上课时是亚运会火炬手",
-      "onboard_time": 1695657271,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105683,
       "num": 105683,
       "word": "魏大勋称清华学子未来的老板",
       "onboard_time": 1695647136,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105669,
+      "num": 105669,
+      "word": "想吃这棵树上的枣比中彩票还难",
+      "onboard_time": 1695683604,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104810,
@@ -403,12 +427,28 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 93409,
+      "num": 93409,
+      "word": "她站上赛场就是传奇",
+      "onboard_time": 1695683545,
+      "rank": 29,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 84771,
       "num": 84771,
       "word": "承德公安罚remote程序员",
       "onboard_time": 1695658649,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81711,
+      "num": 81711,
+      "word": "第一次见会骂人的月饼",
+      "onboard_time": 1695683305,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 62687,
@@ -419,20 +459,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60639,
-      "num": 60639,
-      "word": "济南国资平台甩卖1341套现房",
-      "onboard_time": 1695671594,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59439,
       "num": 59439,
       "word": "黄晓明说顾许没惹你们任何人",
       "onboard_time": 1695661342,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56251,
+      "num": 56251,
+      "word": "女子停车礼让大爷优雅脱帽致谢",
+      "onboard_time": 1695682883,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55730,
+      "num": 55730,
+      "word": "男子在周杰伦演唱会看亚运开幕式",
+      "onboard_time": 1695663739,
+      "rank": 30,
+      "category": "演出,体育"
+    },
+    {
+      "raw_hot": 54402,
+      "num": 54402,
+      "word": "韩东君 你们下班了我上班了",
+      "onboard_time": 1695662960,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 52249,
@@ -443,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51349,
+      "num": 51349,
+      "word": "初秋通勤怎么穿出松弛感",
+      "onboard_time": 1695683667,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 50179,
       "num": 52601,
       "word": "加油杭州亚运会",
@@ -451,28 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44940,
-      "num": 41045,
-      "word": "男子在周杰伦演唱会看亚运开幕式",
-      "onboard_time": 1695663739,
-      "rank": 30,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 44887,
       "num": 46833,
       "word": "许幻山pro max",
       "onboard_time": 1695664398,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43388,
-      "num": 52756,
-      "word": "韩东君 你们下班了我上班了",
-      "onboard_time": 1695662960,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 36812,
@@ -491,7 +539,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23500,
+      "raw_hot": 23895,
       "num": 658950,
       "word": "一起看亚运",
       "onboard_time": 1695645274,
