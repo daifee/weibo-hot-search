@@ -1,0 +1,410 @@
+{
+  "runTime": 1695622983022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585188,
+        "num": 1585188,
+        "word": "杨紫综艺",
+        "onboard_time": 1695621757,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1543905,
+        "num": 1543905,
+        "word": "华为发布会",
+        "onboard_time": 1695621575,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92879,
+        "num": 902094,
+        "word": "稻花香里说丰年",
+        "onboard_time": 1695621275,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756417,
+        "num": 756417,
+        "word": "中秋国庆有4天可发3倍工资",
+        "onboard_time": 1695620375,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 645284,
+        "num": 645284,
+        "word": "突然间全场爆发欢呼给马龙都整懵了",
+        "onboard_time": 1695619536,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549062,
+        "num": 549062,
+        "word": "黄子诚被女友卖给间谍组织",
+        "onboard_time": 1695612873,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542239,
+        "num": 542239,
+        "word": "家长花费50万为自闭症儿子经络重构",
+        "onboard_time": 1695615939,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516754,
+        "num": 516754,
+        "word": "鹿晗演唱会线上宣传片",
+        "onboard_time": 1695622294,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 516514,
+        "num": 516514,
+        "word": "18岁中国小将破世界纪录夺冠",
+        "onboard_time": 1695617624,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384562,
+        "num": 511652,
+        "word": "Jennie金智秀成立个人工作室",
+        "onboard_time": 1695611611,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3728397,
+        "num": 511504,
+        "word": "周密周芯竹分手",
+        "onboard_time": 1695614977,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1947890,
+        "num": 511300,
+        "word": "王力宏李靓蕾现身法庭正面交锋",
+        "onboard_time": 1695616658,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510927,
+        "num": 510927,
+        "word": "顶级爱豆更适合开个人工作室",
+        "onboard_time": 1695622054,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198563,
+        "num": 469519,
+        "word": "15岁中国小将滑板碗池摘金",
+        "onboard_time": 1695622294,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127040,
+        "num": 469243,
+        "word": "这才是轻舟已过万重山",
+        "onboard_time": 1695601475,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469091,
+        "num": 469091,
+        "word": "为什么农村大席很少拉肚子",
+        "onboard_time": 1695608430,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 358084,
+        "num": 358084,
+        "word": "女子用筋膜枪抢到林俊杰演唱会门票",
+        "onboard_time": 1695617743,
+        "rank": 16,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 329410,
+        "num": 329410,
+        "word": "中国游泳1晚7金外媒气急败坏",
+        "onboard_time": 1695620615,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306466,
+        "num": 306466,
+        "word": "上半年A股股民人均盈利3.91万元",
+        "onboard_time": 1695613835,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265739,
+        "num": 265739,
+        "word": "Faker采访",
+        "onboard_time": 1695619296,
+        "rank": 19,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 398898,
+        "num": 265119,
+        "word": "北京一无业男子与俩同小区女子同居",
+        "onboard_time": 1695616967,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279807,
+        "num": 264953,
+        "word": "iPhone15Pro或没有上一代耐摔",
+        "onboard_time": 1695618342,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264098,
+        "num": 264098,
+        "word": "丞磊非过没丑过",
+        "onboard_time": 1695621633,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124480,
+        "num": 242979,
+        "word": "为什么运动员穿衣那么好看",
+        "onboard_time": 1695622294,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225781,
+        "num": 225781,
+        "word": "徐嘉余动情回应如何走出低谷",
+        "onboard_time": 1695619296,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222307,
+        "num": 222307,
+        "word": "很多女爱豆被大白脸韩妆耽误了",
+        "onboard_time": 1695608791,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 218198,
+        "num": 218198,
+        "word": "训练营有18个群而你只有1个",
+        "onboard_time": 1695620136,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207363,
+        "num": 207363,
+        "word": "你的血管里流的不一定是血",
+        "onboard_time": 1695601052,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 207294,
+        "num": 207294,
+        "word": "王俊凯出发巴黎",
+        "onboard_time": 1695618876,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199793,
+        "num": 199793,
+        "word": "哪个明星的演唱会门票最难抢",
+        "onboard_time": 1695620675,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 440316,
+        "num": 198448,
+        "word": "卫裤上的绳子原来这样系",
+        "onboard_time": 1695622114,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 425179,
+        "num": 197906,
+        "word": "韩国代表队经过混采区都直溜溜的走了",
+        "onboard_time": 1695619536,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 197007,
+        "num": 197007,
+        "word": "实测苹果无法用华为充电器",
+        "onboard_time": 1695609031,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193945,
+        "num": 193945,
+        "word": "前任4英年早婚北京首映",
+        "onboard_time": 1695622476,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182843,
+        "num": 182843,
+        "word": "王者荣耀比赛",
+        "onboard_time": 1695622833,
+        "rank": 34,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 181366,
+        "num": 181366,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1695612093,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161536,
+        "num": 161536,
+        "word": "AVAVAV会搞事 没穿好衣服就走秀",
+        "onboard_time": 1695613956,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163444,
+        "num": 159069,
+        "word": "英雄联盟韩国队晋级八强",
+        "onboard_time": 1695615338,
+        "rank": 37,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 154453,
+        "num": 154453,
+        "word": "8旬老人义务理发54年攒13万颗红豆",
+        "onboard_time": 1695622174,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153657,
+        "num": 153657,
+        "word": "白敬亭高情商评沈腾的土豆丝",
+        "onboard_time": 1695615218,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152560,
+        "num": 152560,
+        "word": "李现喂自己大屏喝饮料",
+        "onboard_time": 1695614015,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151182,
+        "num": 151182,
+        "word": "宁泽涛",
+        "onboard_time": 1695596604,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146266,
+        "num": 146266,
+        "word": "吕布敦煌皮肤CG",
+        "onboard_time": 1695622294,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143029,
+        "num": 143029,
+        "word": "时代少年团官宣湖南卫视中秋之夜",
+        "onboard_time": 1695618580,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138239,
+        "num": 138239,
+        "word": "汪顺外公的加密通话把我CPU干烧了",
+        "onboard_time": 1695622833,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129290,
+        "num": 129290,
+        "word": "低血糖发作时有多尴尬",
+        "onboard_time": 1695606269,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126187,
+        "num": 126187,
+        "word": "73岁香港大爷来杭州看孙颖莎",
+        "onboard_time": 1695621097,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124770,
+        "num": 124770,
+        "word": "田曦薇去看了周杰伦演唱会",
+        "onboard_time": 1695609092,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124407,
+        "num": 124407,
+        "word": "林允孟佳去看了林俊杰演唱会",
+        "onboard_time": 1695619474,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107913,
+        "num": 107913,
+        "word": "霍思燕佟丽娅董璇合照",
+        "onboard_time": 1695614134,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击杭州亚运会#"
+    }
+  }
+}
