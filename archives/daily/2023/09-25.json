@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695608632900,
+  "endTime": 1695609302659,
   "band_list": [
     {
       "raw_hot": 2395978,
@@ -43,20 +43,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 895762,
+      "num": 895762,
+      "word": "低血糖发作时有多尴尬",
+      "onboard_time": 1695606269,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 888932,
+      "num": 481449,
+      "word": "为什么农村大席很少拉肚子",
+      "onboard_time": 1695608430,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 879113,
       "num": 879113,
       "word": "第一次在星期一露出笑容",
       "onboard_time": 1695602734,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 808266,
-      "num": 808266,
-      "word": "低血糖发作时有多尴尬",
-      "onboard_time": 1695606269,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 792052,
@@ -99,14 +107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 696756,
-      "num": 481449,
-      "word": "为什么农村大席很少拉肚子",
-      "onboard_time": 1695608430,
-      "rank": 10,
-      "category": "美食"
-    },
-    {
       "raw_hot": 688291,
       "num": 528981,
       "word": "马斯克不断公开恳求名人推特发帖",
@@ -129,6 +129,14 @@
       "onboard_time": 1695601052,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 635522,
+      "num": 448671,
+      "word": "韩国队战胜中国香港队",
+      "onboard_time": 1695608488,
+      "rank": 30,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 632183,
@@ -203,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482466,
+      "num": 405856,
+      "word": "宁泽涛 第一个游进48秒的亚洲人",
+      "onboard_time": 1695608311,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463443,
       "num": 463443,
       "word": "幼儿园手工作业主打一个卷死家长",
       "onboard_time": 1695570156,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 456607,
+      "num": 180841,
+      "word": "很多女爱豆被大白脸韩妆耽误了",
+      "onboard_time": 1695608791,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 428522,
@@ -233,6 +257,14 @@
       "onboard_time": 1695569736,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 394329,
+      "num": 394329,
+      "word": "北京一火锅店销毁2吨临期羊蝎子",
+      "onboard_time": 1695607891,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385559,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 279546,
-      "num": 419242,
+      "num": 423994,
       "word": "工人日报灵魂三问预制菜",
       "onboard_time": 1695603216,
       "rank": 13,
@@ -403,16 +435,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 271125,
-      "num": 271125,
-      "word": "北京一火锅店销毁2吨临期羊蝎子",
-      "onboard_time": 1695607891,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264887,
-      "num": 264887,
+      "raw_hot": 270314,
+      "num": 270314,
       "word": "余华这到底是怎么写的",
       "onboard_time": 1695606090,
       "rank": 22,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 254758,
-      "num": 419862,
+      "num": 432634,
       "word": "樊振东比赛马龙等变身鼓掌机器",
       "onboard_time": 1695604532,
       "rank": 28,
@@ -459,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233857,
-      "num": 233857,
-      "word": "宁泽涛 第一个游进48秒的亚洲人",
-      "onboard_time": 1695608311,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232009,
       "num": 232009,
       "word": "别去有孩子的家庭做宠物",
       "onboard_time": 1695601294,
       "rank": 33,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 227383,
+      "num": 227383,
+      "word": "田曦薇去看了周杰伦演唱会",
+      "onboard_time": 1695609092,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 219734,
@@ -497,6 +521,14 @@
       "onboard_time": 1695568538,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209042,
+      "num": 209042,
+      "word": "A股",
+      "onboard_time": 1695608671,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 205136,
@@ -563,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181235,
-      "num": 181235,
-      "word": "韩国队战胜中国香港队",
-      "onboard_time": 1695608488,
-      "rank": 30,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 174957,
       "num": 174957,
       "word": "妻子10年不放弃陪重病丈夫换回一条命",
@@ -595,6 +619,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "存量首套房贷利率今起下调",
+      "onboard_time": 1695608972,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 161583,
+      "num": 161583,
+      "word": "杨丞琳把熊猫穿在身上",
+      "onboard_time": 1695608311,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161074,
       "num": 161074,
       "word": "我想连夜搬家和冠军汪顺做邻居",
@@ -603,12 +643,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 160990,
+      "num": 160990,
+      "word": "实测苹果无法用华为充电器",
+      "onboard_time": 1695609031,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160882,
       "num": 160882,
       "word": "郑秀妍晒与王心凌的合照",
       "onboard_time": 1695568717,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160474,
+      "num": 415079,
+      "word": "男子守护病妻23年写10万字护理日记",
+      "onboard_time": 1695607171,
+      "rank": 14,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 158174,
@@ -633,14 +689,6 @@
       "onboard_time": 1695596785,
       "rank": 41,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 153721,
-      "num": 412688,
-      "word": "男子守护病妻23年写10万字护理日记",
-      "onboard_time": 1695607171,
-      "rank": 14,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 151990,
@@ -721,14 +769,6 @@
       "onboard_time": 1695577817,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133198,
-      "num": 133198,
-      "word": "杨丞琳把熊猫穿在身上",
-      "onboard_time": 1695608311,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 126428,
