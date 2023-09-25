@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695656078154,
+  "endTime": 1695658969917,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -193,6 +193,14 @@
       "onboard_time": 1695611611,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1511374,
+      "num": 242239,
+      "word": "韩女不生的原因找到了",
+      "onboard_time": 1695655655,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1511289,
@@ -819,6 +827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 770554,
+      "num": 770554,
+      "word": "华为回应充电器不支持iPhone15",
+      "onboard_time": 1695655777,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 768845,
       "num": 768845,
       "word": "刘诗诗回应不上常驻综艺",
@@ -1315,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572028,
-      "num": 242239,
-      "word": "韩女不生的原因找到了",
-      "onboard_time": 1695655655,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 570613,
       "num": 415422,
       "word": "徐必成的公孙离",
@@ -1411,6 +1419,22 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 548137,
+      "num": 548137,
+      "word": "女明星第一次去欧美时装周看秀造型图",
+      "onboard_time": 1695656017,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 547517,
+      "num": 208240,
+      "word": "上班人跳绳一个月瘦了12斤",
+      "onboard_time": 1695656136,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 545514,
       "num": 545514,
       "word": "陈凯歌又来拉朱一龙了",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1695649235,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533954,
+      "num": 533954,
+      "word": "长相思第二季能预约了",
+      "onboard_time": 1695655896,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 533459,
@@ -1659,14 +1691,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 476551,
-      "num": 476551,
-      "word": "长相思第二季能预约了",
-      "onboard_time": 1695655896,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 475008,
       "num": 377450,
       "word": "韩国代表队经过混采区都直溜溜的走了",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1695644676,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446406,
+      "num": 370122,
+      "word": "官方通报长沙一小区发生液化气爆燃",
+      "onboard_time": 1695652959,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444713,
@@ -2065,6 +2097,14 @@
       "onboard_time": 1695646596,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379950,
+      "num": 205092,
+      "word": "娱记喊话张鲁一",
+      "onboard_time": 1695656377,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 378615,
@@ -2515,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313135,
+      "num": 150506,
+      "word": "伊朗裁判员杭州扫货对半砍价",
+      "onboard_time": 1695656914,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311820,
       "num": 205302,
       "word": "车窗边缘的小黑点是干嘛的",
@@ -2528,6 +2576,14 @@
       "word": "中国姑娘与叙利亚民众交换玫瑰",
       "onboard_time": 1695539733,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310336,
+      "num": 149668,
+      "word": "女子做手术1年暴瘦70斤成九级伤残",
+      "onboard_time": 1695657332,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2955,6 +3011,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 265386,
+      "num": 265386,
+      "word": "这么小的世界冠军头一次见",
+      "onboard_time": 1695654398,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265346,
       "num": 1123610,
       "word": "加油声让男足中国台北队领队泪洒现场",
@@ -3211,20 +3275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245771,
+      "num": 218375,
+      "word": "鞠婧祎三套造型反差感",
+      "onboard_time": 1695657092,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 245401,
       "num": 245401,
       "word": "李泽锋高低得渣出点名分来",
       "onboard_time": 1695532715,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243957,
-      "num": 243957,
-      "word": "这么小的世界冠军头一次见",
-      "onboard_time": 1695654398,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 243457,
@@ -3323,6 +3387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236382,
+      "num": 218283,
+      "word": "张晚意问长相思为什么会有演唱会",
+      "onboard_time": 1695656677,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235091,
       "num": 225781,
       "word": "徐嘉余动情回应如何走出低谷",
@@ -3409,14 +3481,6 @@
       "onboard_time": 1695480639,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 226135,
-      "num": 182615,
-      "word": "女明星第一次去欧美时装周看秀造型图",
-      "onboard_time": 1695656017,
-      "rank": 30,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 224178,
@@ -3569,6 +3633,14 @@
       "onboard_time": 1695540932,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215520,
+      "num": 215520,
+      "word": "张嘉倪每句台词都扎在恋爱脑心上",
+      "onboard_time": 1695657692,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 215220,
@@ -4065,14 +4137,6 @@
       "onboard_time": 1695478075,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194813,
-      "num": 194813,
-      "word": "华为回应充电器不支持iPhone15",
-      "onboard_time": 1695655777,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 194780,
@@ -5523,6 +5587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119693,
+      "num": 119693,
+      "word": "女足运动员回应男女足工资差距大",
+      "onboard_time": 1695656677,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119629,
       "num": 119629,
       "word": "90后宝妈晒公公事无巨细带娃日常",
@@ -5617,6 +5689,14 @@
       "onboard_time": 1695624758,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111404,
+      "num": 111404,
+      "word": "国际版玉真公主",
+      "onboard_time": 1695658531,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 111049,
@@ -5731,6 +5811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90926,
+      "num": 218735,
+      "word": "班主任没上课时是亚运会火炬手",
+      "onboard_time": 1695657271,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89302,
       "num": 89302,
       "word": "中国游泳队太牛了",
@@ -5759,6 +5847,14 @@
       "num": 449554,
       "word": "在云上过中秋是什么体验",
       "onboard_time": 1695638689,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79772,
+      "num": 79772,
+      "word": "承德公安罚remote程序员",
+      "onboard_time": 1695658649,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -6081,6 +6177,14 @@
       "onboard_time": 1695553234,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22366,
+      "num": 658950,
+      "word": "一起看亚运",
+      "onboard_time": 1695645274,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 17348,

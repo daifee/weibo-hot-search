@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695656078154,
+  "endTime": 1695658969917,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -4185,6 +4185,14 @@
       "onboard_time": 1693805380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1511374,
+      "num": 242239,
+      "word": "韩女不生的原因找到了",
+      "onboard_time": 1695655655,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1511289,
@@ -10899,6 +10907,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 770554,
+      "num": 770554,
+      "word": "华为回应充电器不支持iPhone15",
+      "onboard_time": 1695655777,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 769622,
       "num": 379073,
       "word": "离职后被要求退回奶茶钱",
@@ -16371,14 +16387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572028,
-      "num": 242239,
-      "word": "韩女不生的原因找到了",
-      "onboard_time": 1695655655,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 571475,
       "num": 571475,
       "word": "BLACKPINK获VMA最佳年度组合",
@@ -17435,6 +17443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 548137,
+      "num": 548137,
+      "word": "女明星第一次去欧美时装周看秀造型图",
+      "onboard_time": 1695656017,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 548100,
       "num": 548100,
       "word": "南阳理工给予虐猫学生开除学籍处分",
@@ -17465,6 +17481,14 @@
       "onboard_time": 1694517877,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547517,
+      "num": 208240,
+      "word": "上班人跳绳一个月瘦了12斤",
+      "onboard_time": 1695656136,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 546947,
@@ -18057,6 +18081,14 @@
       "onboard_time": 1694786320,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533954,
+      "num": 533954,
+      "word": "长相思第二季能预约了",
+      "onboard_time": 1695655896,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 533459,
@@ -20715,14 +20747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476551,
-      "num": 476551,
-      "word": "长相思第二季能预约了",
-      "onboard_time": 1695655896,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 476529,
       "num": 414099,
       "word": "品牌方向赵露思道歉",
@@ -22353,6 +22377,14 @@
       "onboard_time": 1695362793,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 446406,
+      "num": 370122,
+      "word": "官方通报长沙一小区发生液化气爆燃",
+      "onboard_time": 1695652959,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446315,
@@ -26209,6 +26241,14 @@
       "onboard_time": 1693881816,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379950,
+      "num": 205092,
+      "word": "娱记喊话张鲁一",
+      "onboard_time": 1695656377,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 379938,
@@ -31619,6 +31659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313135,
+      "num": 150506,
+      "word": "伊朗裁判员杭州扫货对半砍价",
+      "onboard_time": 1695656914,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313043,
       "num": 263744,
       "word": "马龙晋级亚锦赛决赛",
@@ -31873,6 +31921,14 @@
       "onboard_time": 1694960561,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310336,
+      "num": 149668,
+      "word": "女子做手术1年暴瘦70斤成九级伤残",
+      "onboard_time": 1695657332,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310331,
@@ -36715,6 +36771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265386,
+      "num": 265386,
+      "word": "这么小的世界冠军头一次见",
+      "onboard_time": 1695654398,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265346,
       "num": 1123610,
       "word": "加油声让男足中国台北队领队泪洒现场",
@@ -39131,6 +39195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245771,
+      "num": 218375,
+      "word": "鞠婧祎三套造型反差感",
+      "onboard_time": 1695657092,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 245670,
       "num": 245670,
       "word": "男生对不喜欢的人都很双标吗",
@@ -39345,14 +39417,6 @@
       "onboard_time": 1694751821,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243957,
-      "num": 243957,
-      "word": "这么小的世界冠军头一次见",
-      "onboard_time": 1695654398,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 243911,
@@ -40505,6 +40569,14 @@
       "onboard_time": 1695516150,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236382,
+      "num": 218283,
+      "word": "张晚意问长相思为什么会有演唱会",
+      "onboard_time": 1695656677,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236279,
@@ -41905,14 +41977,6 @@
       "onboard_time": 1695006754,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226135,
-      "num": 182615,
-      "word": "女明星第一次去欧美时装周看秀造型图",
-      "onboard_time": 1695656017,
-      "rank": 30,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 226048,
@@ -43649,6 +43713,14 @@
       "onboard_time": 1693927236,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215520,
+      "num": 215520,
+      "word": "张嘉倪每句台词都扎在恋爱脑心上",
+      "onboard_time": 1695657692,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 215512,
@@ -48561,14 +48633,6 @@
       "onboard_time": 1694686236,
       "rank": 34,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 194813,
-      "num": 194813,
-      "word": "华为回应充电器不支持iPhone15",
-      "onboard_time": 1695655777,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 194809,
@@ -59820,7 +59884,7 @@
     },
     {
       "raw_hot": 131558,
-      "num": 190854,
+      "num": 658950,
       "word": "一起看亚运",
       "onboard_time": 1695472599,
       "rank": 48,
@@ -60955,6 +61019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119693,
+      "num": 119693,
+      "word": "女足运动员回应男女足工资差距大",
+      "onboard_time": 1695656677,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119675,
       "num": 119675,
       "word": "i人语言翻译器",
@@ -61513,6 +61585,14 @@
       "onboard_time": 1694259155,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111404,
+      "num": 111404,
+      "word": "国际版玉真公主",
+      "onboard_time": 1695658531,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 111383,
@@ -62611,6 +62691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90926,
+      "num": 218735,
+      "word": "班主任没上课时是亚运会火炬手",
+      "onboard_time": 1695657271,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90900,
       "num": 902681,
       "word": "开学第1天爸爸蹲守校外担心女儿",
@@ -63240,6 +63328,14 @@
       "word": "退役搜救犬扒着训导员求抱抱",
       "onboard_time": 1693561002,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79772,
+      "num": 79772,
+      "word": "承德公安罚remote程序员",
+      "onboard_time": 1695658649,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
