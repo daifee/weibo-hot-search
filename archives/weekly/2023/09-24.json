@@ -1,7 +1,15 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695612848807,
+  "endTime": 1695615621665,
   "band_list": [
+    {
+      "raw_hot": 5991561,
+      "num": 439572,
+      "word": "周密周芯竹分手",
+      "onboard_time": 1695614977,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2498308,
       "num": 1850030,
@@ -459,11 +467,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 817570,
+      "num": 817570,
+      "word": "宁泽涛 第一个游进48秒的亚洲人",
+      "onboard_time": 1695608311,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 810195,
       "num": 441193,
       "word": "SEVENTEEN经纪公司道歉",
       "onboard_time": 1695485434,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 806361,
+      "num": 385849,
+      "word": "李现喂自己大屏喝饮料",
+      "onboard_time": 1695614015,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -505,6 +529,14 @@
       "onboard_time": 1695521431,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 781160,
+      "num": 781160,
+      "word": "黄子诚被女友卖给间谍组织",
+      "onboard_time": 1695612873,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 775326,
@@ -635,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 706378,
+      "num": 380046,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1695612093,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 706230,
       "num": 706230,
       "word": "日本男团止步亚运会八强",
@@ -747,6 +787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 661706,
+      "num": 245719,
+      "word": "英雄联盟比赛转播于9月28日半决赛开始",
+      "onboard_time": 1695614610,
+      "rank": 30,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 660386,
       "num": 660386,
       "word": "日本男团0比2伊朗男团",
@@ -787,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 647823,
-      "num": 563171,
-      "word": "宁泽涛 第一个游进48秒的亚洲人",
-      "onboard_time": 1695608311,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 646248,
       "num": 646248,
       "word": "叙利亚出场全场欢呼",
@@ -825,6 +865,14 @@
       "onboard_time": 1695549272,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635720,
+      "num": 635720,
+      "word": "上半年A股股民人均盈利3.91万元",
+      "onboard_time": 1695613835,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 634095,
@@ -905,6 +953,14 @@
       "onboard_time": 1695526834,
       "rank": 15,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 577032,
+      "num": 373850,
+      "word": "第一批iPhone要不要买",
+      "onboard_time": 1695611193,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 575459,
@@ -1203,6 +1259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453836,
+      "num": 453836,
+      "word": "中国赛艇队11金2银收官",
+      "onboard_time": 1695614437,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 448012,
+      "num": 365017,
+      "word": "霍思燕佟丽娅董璇合照",
+      "onboard_time": 1695614134,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444713,
       "num": 335683,
       "word": "我是殷郊 我的父王只跟小妈腻歪",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1695565061,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 394026,
+      "num": 394026,
+      "word": "退休外交官夫妇山区支教9年",
+      "onboard_time": 1695613772,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 386405,
@@ -1459,14 +1539,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 349242,
-      "num": 324664,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1695612093,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 348433,
       "num": 241512,
       "word": "offer5实习生简历好丰富",
@@ -1571,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330218,
-      "num": 316918,
-      "word": "第一批iPhone要不要买",
-      "onboard_time": 1695611193,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 327900,
       "num": 327900,
       "word": "杨幂水波纹大片",
@@ -1612,7 +1676,7 @@
     },
     {
       "raw_hot": 327081,
-      "num": 327081,
+      "num": 393358,
       "word": "这才是轻舟已过万重山",
       "onboard_time": 1695601475,
       "rank": 23,
@@ -1625,6 +1689,14 @@
       "onboard_time": 1695567697,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323034,
+      "num": 323034,
+      "word": "AVAVAV会搞事 没穿好衣服就走秀",
+      "onboard_time": 1695613956,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 321296,
@@ -1875,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272961,
+      "num": 236884,
+      "word": "白敬亭高情商评沈腾的土豆丝",
+      "onboard_time": 1695615218,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272665,
       "num": 272665,
       "word": "恒大公告称无法满足新票据发行资格",
@@ -2123,6 +2203,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 250078,
+      "num": 250078,
+      "word": "柯洁亚运会三连胜",
+      "onboard_time": 1695614853,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247708,
       "num": 247708,
       "word": "无意识减肥却能变瘦的习惯",
@@ -2217,6 +2305,14 @@
       "onboard_time": 1695563857,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238600,
+      "num": 222330,
+      "word": "英雄联盟韩国队晋级八强",
+      "onboard_time": 1695615338,
+      "rank": 33,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 238548,
@@ -2475,6 +2571,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 213077,
+      "num": 213077,
+      "word": "孙颖莎3比0萨维塔布特",
+      "onboard_time": 1695614375,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212720,
       "num": 212720,
       "word": "郑秀妍晒与王心凌的合照",
@@ -2619,6 +2723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 203755,
+      "num": 203755,
+      "word": "微观亚运",
+      "onboard_time": 1695614610,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202663,
       "num": 202663,
       "word": "NBL总决赛裁判报告",
@@ -2659,6 +2771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200534,
+      "num": 200534,
+      "word": "杨丞琳亲了李斯丹妮",
+      "onboard_time": 1695615277,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200455,
       "num": 200455,
       "word": "伯远伪素颜妆",
@@ -2689,6 +2809,14 @@
       "onboard_time": 1695511162,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199143,
+      "num": 199143,
+      "word": "李松蔚",
+      "onboard_time": 1695615097,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 197695,
@@ -2747,6 +2875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192291,
+      "num": 192291,
+      "word": "弹壳问魏哲鸣有什么实力",
+      "onboard_time": 1695614674,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192146,
       "num": 192146,
       "word": "柯洁亚运会两连胜",
@@ -2769,6 +2905,14 @@
       "onboard_time": 1695522270,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190109,
+      "num": 190109,
+      "word": "没有吉克隽逸不敢穿的颜色",
+      "onboard_time": 1695612991,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189526,
@@ -2921,6 +3065,14 @@
       "onboard_time": 1695532956,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177837,
+      "num": 177837,
+      "word": "B太 国内外美妆产品会不会缺斤少两",
+      "onboard_time": 1695615459,
+      "rank": 43,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 176078,
@@ -3147,6 +3299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157663,
+      "num": 157663,
+      "word": "张远嘉宾舞台有好多新娘",
+      "onboard_time": 1695614317,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157236,
       "num": 157236,
       "word": "特工任务国安人员跟踪间谍期间被察",
@@ -3273,6 +3433,14 @@
       "onboard_time": 1695567097,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149304,
+      "num": 149304,
+      "word": "于文文说在剧组没有被催婚",
+      "onboard_time": 1695613173,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148984,
@@ -3571,6 +3739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122844,
+      "num": 377113,
+      "word": "华为好戏即将开场",
+      "onboard_time": 1695612873,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121186,
       "num": 1093850,
       "word": "亚运开幕式国风美学拉满",
@@ -3771,6 +3947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81458,
+      "num": 371718,
+      "word": "谷爱凌波司登走秀",
+      "onboard_time": 1695614735,
+      "rank": 21,
+      "category": "时尚,体育"
+    },
+    {
       "raw_hot": 78779,
       "num": 78779,
       "word": "蔡依林成都演唱会",
@@ -3811,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73717,
+      "num": 193282,
+      "word": "国庆出行先看差评",
+      "onboard_time": 1695614437,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72421,
       "num": 72421,
       "word": "异能",
@@ -3824,6 +4016,14 @@
       "word": "今年时装周有哪些看点",
       "onboard_time": 1695528629,
       "rank": 34,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 70561,
+      "num": 364508,
+      "word": "听说今年流行轻薄羽绒服",
+      "onboard_time": 1695614735,
+      "rank": 24,
       "category": "时尚"
     },
     {
@@ -3891,20 +4091,20 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 43218,
+      "num": 981678,
+      "word": "北京网络视听艺术大会",
+      "onboard_time": 1695611071,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 42497,
       "num": 37827,
       "word": "胡彦斌看起来像是喝多了",
       "onboard_time": 1695580936,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40635,
-      "num": 981678,
-      "word": "北京网络视听艺术大会",
-      "onboard_time": 1695611071,
-      "rank": 2,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 39270,
@@ -3929,6 +4129,14 @@
       "onboard_time": 1695575782,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35366,
+      "num": 388973,
+      "word": "跟淘宝学了点乒乓功夫",
+      "onboard_time": 1695614437,
+      "rank": 14,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 31192,
