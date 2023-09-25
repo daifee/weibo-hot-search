@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695641644067,
+  "endTime": 1695645240615,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -57,6 +57,14 @@
       "onboard_time": 1695542314,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2170718,
+      "num": 2170718,
+      "word": "许幻山真的永远失去自己名字了",
+      "onboard_time": 1695641793,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2164362,
@@ -619,6 +627,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 831174,
+      "num": 831174,
+      "word": "朝鲜宣布外国人可依照规定入境",
+      "onboard_time": 1695642093,
+      "rank": 2,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 829165,
       "num": 829165,
       "word": "陈梦11比0国乒全员憋笑失败",
@@ -921,6 +937,14 @@
       "onboard_time": 1695602856,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 687484,
+      "num": 687484,
+      "word": "papi酱 月饼试吃大会又来了",
+      "onboard_time": 1695641670,
+      "rank": 3,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 686046,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1695483519,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533459,
+      "num": 533459,
+      "word": "张拿铁的全英文面试",
+      "onboard_time": 1695641312,
+      "rank": 31,
+      "category": "网红,幽默"
     },
     {
       "raw_hot": 531827,
@@ -1723,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415805,
+      "num": 415805,
+      "word": "杨紫初秋烟熏仿妆",
+      "onboard_time": 1695644556,
+      "rank": 8,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 415616,
       "num": 415616,
       "word": "汪苏泷把大雨唱来之后自己走了",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1695526774,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 373851,
+      "num": 303719,
+      "word": "女生误捡福寿螺带回家产卵后立马扔",
+      "onboard_time": 1695643896,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373781,
@@ -2027,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337773,
+      "num": 406041,
+      "word": "伊朗记者说赢日本时汗毛都起来了",
+      "onboard_time": 1695640234,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337559,
       "num": 337559,
       "word": "华晨宇王牌对王牌",
@@ -2113,6 +2169,14 @@
       "onboard_time": 1695632377,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329650,
+      "num": 415337,
+      "word": "覃海洋100米蛙泳金牌",
+      "onboard_time": 1695644798,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 329410,
@@ -2235,8 +2299,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316006,
+      "num": 316006,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1695644676,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315694,
-      "num": 228563,
+      "num": 302850,
       "word": "周杰伦演唱会上男粉发言给我听哭了",
       "onboard_time": 1695641073,
       "rank": 30,
@@ -2307,20 +2379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306498,
+      "num": 220775,
+      "word": "石川佳纯在看男排",
+      "onboard_time": 1695644493,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305714,
       "num": 305714,
       "word": "王俊凯出发巴黎",
       "onboard_time": 1695618876,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 302680,
-      "num": 227845,
-      "word": "张拿铁的全英文面试",
-      "onboard_time": 1695641312,
-      "rank": 31,
-      "category": "网红,幽默"
     },
     {
       "raw_hot": 301814,
@@ -2385,6 +2457,14 @@
       "onboard_time": 1695518253,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294820,
+      "num": 294820,
+      "word": "薛之谦 抢票",
+      "onboard_time": 1695641374,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 291528,
@@ -2667,6 +2747,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 265753,
+      "num": 265753,
+      "word": "张杰 万物不如你",
+      "onboard_time": 1695644976,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265346,
       "num": 1123610,
       "word": "加油声让男足中国台北队领队泪洒现场",
@@ -2688,6 +2776,14 @@
       "word": "体操男团金牌",
       "onboard_time": 1695561580,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263195,
+      "num": 403509,
+      "word": "国乒男团三局全胜晋级决赛",
+      "onboard_time": 1695643355,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -3083,14 +3179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 224932,
-      "num": 224932,
-      "word": "伊朗记者说赢日本时汗毛都起来了",
-      "onboard_time": 1695640234,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 224178,
       "num": 224178,
       "word": "情侣是最好的旅游饭搭子",
@@ -3195,20 +3283,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 217139,
+      "num": 217139,
+      "word": "地摊上发现一封几十年前的情书",
+      "onboard_time": 1695641733,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217129,
       "num": 217129,
       "word": "王者荣耀中国代表队获胜采访",
       "onboard_time": 1695590772,
       "rank": 27,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 216143,
-      "num": 216143,
-      "word": "薛之谦 抢票",
-      "onboard_time": 1695641374,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 216017,
@@ -3553,6 +3641,14 @@
       "onboard_time": 1695555336,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201112,
+      "num": 201112,
+      "word": "徐嘉余50仰夺金",
+      "onboard_time": 1695642814,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 200455,
@@ -3971,6 +4067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181285,
+      "num": 315266,
+      "word": "国乒男团决赛对阵韩国",
+      "onboard_time": 1695643595,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180935,
       "num": 180935,
       "word": "罗梅罗大战孙哥",
@@ -4025,6 +4129,14 @@
       "onboard_time": 1695619836,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176477,
+      "num": 176477,
+      "word": "造谣祖孙合照为老夫少妻者获刑1年",
+      "onboard_time": 1695641733,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176078,
@@ -4675,6 +4787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141192,
+      "num": 141192,
+      "word": "好事成双",
+      "onboard_time": 1695643714,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140900,
       "num": 140900,
       "word": "于适被误伤却说追求真实",
@@ -4737,6 +4857,14 @@
       "onboard_time": 1695481839,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137720,
+      "num": 137720,
+      "word": "原神芙宁娜",
+      "onboard_time": 1695641733,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 137712,
@@ -4875,6 +5003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128395,
+      "num": 128395,
+      "word": "王楚钦3比0林昀儒",
+      "onboard_time": 1695642814,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126994,
       "num": 126994,
       "word": "浙江男篮61分惨败",
@@ -4961,6 +5097,14 @@
       "onboard_time": 1695624516,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119629,
+      "num": 119629,
+      "word": "90后宝妈晒公公事无巨细带娃日常",
+      "onboard_time": 1695642755,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 119563,
@@ -5188,7 +5332,7 @@
     },
     {
       "raw_hot": 85836,
-      "num": 170775,
+      "num": 398435,
       "word": "在云上过中秋是什么体验",
       "onboard_time": 1695638689,
       "rank": 49,
@@ -5281,6 +5425,14 @@
       "onboard_time": 1695526956,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68402,
+      "num": 136963,
+      "word": "坦克400Hi4T上市",
+      "onboard_time": 1695643414,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 68283,
@@ -5565,6 +5717,9 @@
     },
     {
       "word": "#潮涌东方#"
+    },
+    {
+      "word": "#大力发展智慧交通和智慧物流#"
     }
   ]
 }
