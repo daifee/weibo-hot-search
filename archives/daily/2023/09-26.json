@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695683809090,
+  "endTime": 1695684848429,
   "band_list": [
     {
       "raw_hot": 1511374,
@@ -19,6 +19,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 724052,
+      "num": 639731,
+      "word": "学生刺杀操失误给领导吓一身汗",
+      "onboard_time": 1695650559,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693373,
       "num": 693373,
       "word": "许幻山真的永远失去自己名字了",
@@ -32,14 +40,6 @@
       "word": "辽宁阜新女子被碎尸案告破",
       "onboard_time": 1695660803,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 639731,
-      "num": 639731,
-      "word": "学生刺杀操失误给领导吓一身汗",
-      "onboard_time": 1695650559,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,15 +75,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446406,
-      "num": 370122,
-      "word": "官方通报长沙一小区发生液化气爆燃",
-      "onboard_time": 1695652959,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418820,
+      "raw_hot": 476290,
       "num": 205092,
       "word": "娱记喊话张鲁一",
       "onboard_time": 1695656377,
@@ -91,12 +83,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404931,
-      "num": 404931,
+      "raw_hot": 463177,
+      "num": 463177,
       "word": "伊朗裁判员杭州扫货对半砍价",
       "onboard_time": 1695656914,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 447762,
+      "num": 180699,
+      "word": "建行回应房贷利率调整变成还款年限调整",
+      "onboard_time": 1695682883,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 446406,
+      "num": 370122,
+      "word": "官方通报长沙一小区发生液化气爆燃",
+      "onboard_time": 1695652959,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370929,
@@ -187,6 +195,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227265,
+      "num": 179423,
+      "word": "想吃这棵树上的枣比中彩票还难",
+      "onboard_time": 1695683604,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221227,
+      "num": 177926,
+      "word": "第一次见会骂人的月饼",
+      "onboard_time": 1695683305,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219336,
       "num": 219336,
       "word": "王楚钦 教练没有错信你",
@@ -203,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195131,
+      "num": 218735,
+      "word": "班主任没上课时是亚运会火炬手",
+      "onboard_time": 1695657271,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190337,
       "num": 190337,
       "word": "汪顺回应自己颜值震惊全网",
       "onboard_time": 1695652062,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179890,
+      "num": 130675,
+      "word": "舅舅染黄发接2年级外甥放学被嫌弃",
+      "onboard_time": 1695646596,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173896,
@@ -219,36 +259,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168501,
-      "num": 98178,
-      "word": "建行回应房贷利率调整变成还款年限调整",
-      "onboard_time": 1695682883,
-      "rank": 25,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 161609,
       "num": 161609,
       "word": "丁程鑫不愧是拍过旋风少女的",
       "onboard_time": 1695649297,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161214,
-      "num": 218735,
-      "word": "班主任没上课时是亚运会火炬手",
-      "onboard_time": 1695657271,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158658,
-      "num": 107119,
-      "word": "舅舅染黄发接2年级外甥放学被嫌弃",
-      "onboard_time": 1695646596,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151952,
@@ -275,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143641,
+      "num": 143641,
+      "word": "济南国资平台甩卖1341套现房",
+      "onboard_time": 1695671594,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138922,
       "num": 138922,
       "word": "国际版玉真公主",
@@ -299,20 +323,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 126372,
-      "num": 126372,
-      "word": "济南国资平台甩卖1341套现房",
-      "onboard_time": 1695671594,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122044,
       "num": 122044,
       "word": "这才是正确的洗澡顺序",
       "onboard_time": 1695651940,
       "rank": 34,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 121059,
+      "num": 179319,
+      "word": "她站上赛场就是传奇",
+      "onboard_time": 1695683545,
+      "rank": 29,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 120674,
+      "num": 120674,
+      "word": "初秋通勤怎么穿出松弛感",
+      "onboard_time": 1695683667,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 119693,
@@ -363,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105669,
-      "num": 105669,
-      "word": "想吃这棵树上的枣比中彩票还难",
-      "onboard_time": 1695683604,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104810,
       "num": 104810,
       "word": "薛之谦 抢票",
@@ -395,8 +419,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99518,
-      "num": 99518,
+      "raw_hot": 100916,
+      "num": 100916,
+      "word": "58岁头婚新郎接亲42岁新娘",
+      "onboard_time": 1695684687,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99742,
+      "num": 99742,
       "word": "看过最炸裂的错别字",
       "onboard_time": 1695655477,
       "rank": 45,
@@ -427,14 +459,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 93409,
-      "num": 93409,
-      "word": "她站上赛场就是传奇",
-      "onboard_time": 1695683545,
-      "rank": 29,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 84771,
       "num": 84771,
       "word": "承德公安罚remote程序员",
@@ -443,12 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81711,
-      "num": 81711,
-      "word": "第一次见会骂人的月饼",
-      "onboard_time": 1695683305,
-      "rank": 34,
-      "category": "美食"
+      "raw_hot": 73779,
+      "num": 73779,
+      "word": "卫明不止有小三还有小四",
+      "onboard_time": 1695684687,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68048,
+      "num": 68048,
+      "word": "女子停车礼让大爷优雅脱帽致谢",
+      "onboard_time": 1695682883,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62687,
@@ -459,20 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59439,
-      "num": 59439,
+      "raw_hot": 60974,
+      "num": 60974,
+      "word": "韩东君 你们下班了我上班了",
+      "onboard_time": 1695662960,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60933,
+      "num": 60933,
       "word": "黄晓明说顾许没惹你们任何人",
       "onboard_time": 1695661342,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56251,
-      "num": 56251,
-      "word": "女子停车礼让大爷优雅脱帽致谢",
-      "onboard_time": 1695682883,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55730,
@@ -483,28 +515,12 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 54402,
-      "num": 54402,
-      "word": "韩东君 你们下班了我上班了",
-      "onboard_time": 1695662960,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52249,
       "num": 52249,
       "word": "被吉祥物江南忆可爱到了",
       "onboard_time": 1695661642,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51349,
-      "num": 51349,
-      "word": "初秋通勤怎么穿出松弛感",
-      "onboard_time": 1695683667,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 50179,
@@ -539,7 +555,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23895,
+      "raw_hot": 25127,
       "num": 658950,
       "word": "一起看亚运",
       "onboard_time": 1695645274,
