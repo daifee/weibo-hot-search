@@ -1,0 +1,410 @@
+{
+  "runTime": 1695620031175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058852,
+        "num": 1058852,
+        "word": "18岁中国小将破世界纪录夺冠",
+        "onboard_time": 1695617624,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 911589,
+        "num": 911589,
+        "word": "黄子诚被女友卖给间谍组织",
+        "onboard_time": 1695612873,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32365,
+        "num": 828878,
+        "word": "以新型工业化塑造新优势",
+        "onboard_time": 1695617803,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797094,
+        "num": 797094,
+        "word": "家长花费50万为自闭症儿子经络重构",
+        "onboard_time": 1695615939,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582933,
+        "num": 582933,
+        "word": "Jennie金智秀成立个人工作室",
+        "onboard_time": 1695611611,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407779,
+        "num": 407779,
+        "word": "上半年A股股民人均盈利3.91万元",
+        "onboard_time": 1695613835,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 397024,
+        "num": 397024,
+        "word": "很多女爱豆被大白脸韩妆耽误了",
+        "onboard_time": 1695608791,
+        "rank": 6,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 339844,
+        "num": 339844,
+        "word": "白敬亭高情商评沈腾的土豆丝",
+        "onboard_time": 1695615218,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77031,
+        "num": 328959,
+        "word": "波司登大秀",
+        "onboard_time": 1695616844,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 321908,
+        "num": 321908,
+        "word": "你的血管里流的不一定是血",
+        "onboard_time": 1695601052,
+        "rank": 9,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 7386484,
+        "num": 320598,
+        "word": "周密周芯竹分手",
+        "onboard_time": 1695614977,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1933585,
+        "num": 317657,
+        "word": "王力宏李靓蕾现身法庭正面交锋",
+        "onboard_time": 1695616658,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574992,
+        "num": 314158,
+        "word": "为什么农村大席很少拉肚子",
+        "onboard_time": 1695608430,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 340305,
+        "num": 312380,
+        "word": "李现喂自己大屏喝饮料",
+        "onboard_time": 1695614015,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157634,
+        "num": 310491,
+        "word": "中国赛艇队11金2银收官",
+        "onboard_time": 1695614437,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274609,
+        "num": 306104,
+        "word": "宁泽涛 第一个游进48秒的亚洲人",
+        "onboard_time": 1695608311,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305714,
+        "num": 305714,
+        "word": "王俊凯出发巴黎",
+        "onboard_time": 1695618876,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293899,
+        "num": 293899,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1695612093,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263550,
+        "num": 263550,
+        "word": "英雄联盟韩国队晋级八强",
+        "onboard_time": 1695615338,
+        "rank": 18,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 261009,
+        "num": 261009,
+        "word": "时代少年团官宣湖南卫视中秋之夜",
+        "onboard_time": 1695618580,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77116,
+        "num": 260003,
+        "word": "国货去米兰时装周炸场子了",
+        "onboard_time": 1695617921,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 405229,
+        "num": 258726,
+        "word": "北京一无业男子与俩同小区女子同居",
+        "onboard_time": 1695616967,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355937,
+        "num": 257622,
+        "word": "女子用筋膜枪抢到林俊杰演唱会门票",
+        "onboard_time": 1695617743,
+        "rank": 22,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 161589,
+        "num": 255285,
+        "word": "这才是轻舟已过万重山",
+        "onboard_time": 1695601475,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273315,
+        "num": 254070,
+        "word": "宁泽涛",
+        "onboard_time": 1695596604,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285533,
+        "num": 252989,
+        "word": "iPhone15Pro或没有上一代耐摔",
+        "onboard_time": 1695618342,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252181,
+        "num": 252181,
+        "word": "AVAVAV会搞事 没穿好衣服就走秀",
+        "onboard_time": 1695613956,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223046,
+        "num": 223046,
+        "word": "霍思燕佟丽娅董璇合照",
+        "onboard_time": 1695614134,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213254,
+        "num": 213254,
+        "word": "林允孟佳去看了林俊杰演唱会",
+        "onboard_time": 1695619474,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208683,
+        "num": 208683,
+        "word": "重庆银河方舟音乐节",
+        "onboard_time": 1695619836,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318330,
+        "num": 207945,
+        "word": "Faker采访",
+        "onboard_time": 1695619296,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 286133,
+        "num": 207027,
+        "word": "韩国代表队经过混采区都直溜溜的走了",
+        "onboard_time": 1695619536,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 277766,
+        "num": 206546,
+        "word": "突然间全场爆发欢呼给马龙都整懵了",
+        "onboard_time": 1695619536,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204365,
+        "num": 204365,
+        "word": "封神BE美学之巅",
+        "onboard_time": 1695618640,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235091,
+        "num": 202708,
+        "word": "徐嘉余动情回应如何走出低谷",
+        "onboard_time": 1695619296,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194147,
+        "num": 194147,
+        "word": "实测苹果无法用华为充电器",
+        "onboard_time": 1695609031,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189647,
+        "num": 189647,
+        "word": "B太 国内外美妆产品会不会缺斤少两",
+        "onboard_time": 1695615459,
+        "rank": 36,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 189249,
+        "num": 189249,
+        "word": "雷佳音说给大家添麻烦了回去上班吧",
+        "onboard_time": 1695618822,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184371,
+        "num": 184371,
+        "word": "田曦薇去看了周杰伦演唱会",
+        "onboard_time": 1695609092,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133981,
+        "num": 183822,
+        "word": "退休外交官夫妇山区支教9年",
+        "onboard_time": 1695613772,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183788,
+        "num": 183788,
+        "word": "低血糖发作时有多尴尬",
+        "onboard_time": 1695606269,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181761,
+        "num": 181761,
+        "word": "T加0会让散户亏钱概率更高",
+        "onboard_time": 1695619179,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177246,
+        "num": 177246,
+        "word": "盛李豪",
+        "onboard_time": 1695619836,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174277,
+        "num": 174277,
+        "word": "怪不得共享单车减震那么差",
+        "onboard_time": 1695606693,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 133450,
+        "num": 168907,
+        "word": "国乒女团三局全胜晋级决赛",
+        "onboard_time": 1695617681,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167636,
+        "num": 167636,
+        "word": "第一批iPhone要不要买",
+        "onboard_time": 1695611193,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139391,
+        "num": 139391,
+        "word": "弹壳问魏哲鸣有什么实力",
+        "onboard_time": 1695614674,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133607,
+        "num": 133607,
+        "word": "封神训练营定档",
+        "onboard_time": 1695610770,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133208,
+        "num": 133208,
+        "word": "李松蔚",
+        "onboard_time": 1695615097,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 126481,
+        "num": 126481,
+        "word": "没有吉克隽逸不敢穿的颜色",
+        "onboard_time": 1695612991,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击杭州亚运会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695618968653,
+  "endTime": 1695620031175,
   "band_list": [
     {
       "raw_hot": 8441678,
@@ -19,7 +19,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1687052,
+      "raw_hot": 1933585,
       "num": 375131,
       "word": "王力宏李靓蕾现身法庭正面交锋",
       "onboard_time": 1695616658,
@@ -75,6 +75,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1058852,
+      "num": 1058852,
+      "word": "18岁中国小将破世界纪录夺冠",
+      "onboard_time": 1695617624,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1049567,
       "num": 657141,
       "word": "日媒批男团耻辱出局",
@@ -89,14 +97,6 @@
       "onboard_time": 1695608791,
       "rank": 30,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 948017,
-      "num": 948017,
-      "word": "18岁中国小将破世界纪录夺冠",
-      "onboard_time": 1695617624,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 914061,
@@ -451,20 +451,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 355937,
+      "num": 284235,
+      "word": "女子用筋膜枪抢到林俊杰演唱会门票",
+      "onboard_time": 1695617743,
+      "rank": 22,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 354929,
       "num": 354929,
       "word": "我国顶尖科学家将冷门专业变热门",
       "onboard_time": 1695605553,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 353868,
-      "num": 284235,
-      "word": "女子用筋膜枪抢到林俊杰演唱会门票",
-      "onboard_time": 1695617743,
-      "rank": 22,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 337559,
@@ -515,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 318330,
+      "num": 207945,
+      "word": "Faker采访",
+      "onboard_time": 1695619296,
+      "rank": 30,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 314488,
       "num": 314488,
       "word": "农村男子租豪车装富豪诈骗40多名女性",
@@ -537,6 +545,14 @@
       "onboard_time": 1695604234,
       "rank": 48,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 305714,
+      "num": 305714,
+      "word": "王俊凯出发巴黎",
+      "onboard_time": 1695618876,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 301532,
@@ -571,7 +587,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284138,
+      "raw_hot": 286133,
+      "num": 207027,
+      "word": "韩国代表队经过混采区都直溜溜的走了",
+      "onboard_time": 1695619536,
+      "rank": 31,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 285533,
       "num": 284138,
       "word": "iPhone15Pro或没有上一代耐摔",
       "onboard_time": 1695618342,
@@ -601,6 +625,14 @@
       "onboard_time": 1695597386,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 277766,
+      "num": 206546,
+      "word": "突然间全场爆发欢呼给马龙都整懵了",
+      "onboard_time": 1695619536,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 276903,
@@ -715,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235091,
+      "num": 202708,
+      "word": "徐嘉余动情回应如何走出低谷",
+      "onboard_time": 1695619296,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232009,
       "num": 232009,
       "word": "别去有孩子的家庭做宠物",
@@ -737,6 +777,14 @@
       "onboard_time": 1695590772,
       "rank": 27,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 213254,
+      "num": 213254,
+      "word": "林允孟佳去看了林俊杰演唱会",
+      "onboard_time": 1695619474,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 213077,
@@ -779,6 +827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208683,
+      "num": 208683,
+      "word": "重庆银河方舟音乐节",
+      "onboard_time": 1695619836,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205136,
       "num": 205136,
       "word": "周杰伦说要成为太原演唱会的标杆",
@@ -793,6 +849,14 @@
       "onboard_time": 1695569615,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204365,
+      "num": 204365,
+      "word": "封神BE美学之巅",
+      "onboard_time": 1695618640,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 203755,
@@ -843,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200440,
-      "num": 200440,
-      "word": "王俊凯出发巴黎",
-      "onboard_time": 1695618876,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199009,
       "num": 199009,
       "word": "弹壳问魏哲鸣有什么实力",
@@ -891,12 +947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189249,
+      "num": 189249,
+      "word": "雷佳音说给大家添麻烦了回去上班吧",
+      "onboard_time": 1695618822,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183851,
       "num": 362967,
       "word": "中国游泳队1晚7金",
       "onboard_time": 1695566436,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181761,
+      "num": 181761,
+      "word": "T加0会让散户亏钱概率更高",
+      "onboard_time": 1695619179,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 181710,
@@ -907,12 +979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180942,
-      "num": 180942,
-      "word": "封神BE美学之巅",
-      "onboard_time": 1695618640,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 177246,
+      "num": 177246,
+      "word": "盛李豪",
+      "onboard_time": 1695619836,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 176078,
@@ -1097,14 +1169,6 @@
       "onboard_time": 1695616603,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148830,
-      "num": 148830,
-      "word": "雷佳音说给大家添麻烦了回去上班吧",
-      "onboard_time": 1695618822,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 146333,
@@ -1371,6 +1435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77116,
+      "num": 284405,
+      "word": "国货去米兰时装周炸场子了",
+      "onboard_time": 1695617921,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 77031,
+      "num": 380125,
+      "word": "波司登大秀",
+      "onboard_time": 1695616844,
+      "rank": 10,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 69017,
       "num": 80750,
       "word": "大梦",
@@ -1387,28 +1467,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 59848,
-      "num": 380125,
-      "word": "波司登大秀",
-      "onboard_time": 1695616844,
-      "rank": 10,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 58547,
       "num": 472596,
       "word": "跟淘宝学了点乒乓功夫",
       "onboard_time": 1695614437,
       "rank": 14,
       "category": "体育,互联网"
-    },
-    {
-      "raw_hot": 57919,
-      "num": 284405,
-      "word": "国货去米兰时装周炸场子了",
-      "onboard_time": 1695617921,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 44838,
@@ -1459,20 +1523,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32365,
+      "num": 862068,
+      "word": "以新型工业化塑造新优势",
+      "onboard_time": 1695617803,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31192,
       "num": 33139,
       "word": "梁静茹大连演唱会",
       "onboard_time": 1695578662,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25242,
-      "num": 862068,
-      "word": "以新型工业化塑造新优势",
-      "onboard_time": 1695617803,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23899,
