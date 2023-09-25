@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695604334289,
+  "endTime": 1695605564416,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -187,6 +187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1211369,
+      "num": 1211369,
+      "word": "你的血管里流的不一定是血",
+      "onboard_time": 1695601052,
+      "rank": 3,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1191008,
       "num": 1191008,
       "word": "陈梦11比0",
@@ -257,14 +265,6 @@
       "onboard_time": 1695518372,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1072985,
-      "num": 1072985,
-      "word": "你的血管里流的不一定是血",
-      "onboard_time": 1695601052,
-      "rank": 3,
-      "category": "知识科普"
     },
     {
       "raw_hot": 1054554,
@@ -385,6 +385,14 @@
       "onboard_time": 1695494778,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 879113,
+      "num": 879113,
+      "word": "第一次在星期一露出笑容",
+      "onboard_time": 1695602734,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 822677,
@@ -531,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 723979,
-      "num": 723979,
-      "word": "第一次在星期一露出笑容",
-      "onboard_time": 1695602734,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 719906,
       "num": 719906,
       "word": "准大学生被骗9800元后自杀主犯被判无期",
@@ -593,6 +593,14 @@
       "onboard_time": 1695567939,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 688291,
+      "num": 528981,
+      "word": "马斯克不断公开恳求名人推特发帖",
+      "onboard_time": 1695602856,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 686046,
@@ -899,8 +907,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534582,
+      "num": 534582,
+      "word": "王牌对王牌",
+      "onboard_time": 1695603274,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531993,
-      "num": 328449,
+      "num": 512101,
       "word": "马斯克怒赞iPhone15拍照功能",
       "onboard_time": 1695603274,
       "rank": 20,
@@ -1099,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454288,
-      "num": 418401,
-      "word": "马斯克不断公开恳求名人推特发帖",
-      "onboard_time": 1695602856,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 444713,
       "num": 335683,
       "word": "我是殷郊 我的父王只跟小妈腻歪",
@@ -1155,12 +1163,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 420262,
-      "num": 420262,
-      "word": "王牌对王牌",
-      "onboard_time": 1695603274,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 428522,
+      "num": 428522,
+      "word": "五月天突然好想你雨中氛围感",
+      "onboard_time": 1695603874,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 417797,
+      "num": 417797,
+      "word": "张彬彬生图扛住了所有",
+      "onboard_time": 1695600518,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415616,
@@ -1185,14 +1201,6 @@
       "onboard_time": 1695569736,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 409799,
-      "num": 409799,
-      "word": "张彬彬生图扛住了所有",
-      "onboard_time": 1695600518,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 409487,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1695483636,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371505,
+      "num": 371505,
+      "word": "英雄联盟",
+      "onboard_time": 1695605011,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 370388,
@@ -1435,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331852,
+      "num": 289939,
+      "word": "乞讨老人手机内是偷拍的短裙女生",
+      "onboard_time": 1695603395,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331413,
       "num": 331413,
       "word": "陕西男篮6个字回应官方处罚",
@@ -1515,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314488,
+      "num": 314488,
+      "word": "农村男子租豪车装富豪诈骗40多名女性",
+      "onboard_time": 1695601139,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314136,
       "num": 314136,
       "word": "惠英红捏张雨绮下巴",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1695531994,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311820,
+      "num": 205302,
+      "word": "车窗边缘的小黑点是干嘛的",
+      "onboard_time": 1695604234,
+      "rank": 48,
+      "category": "知识科普"
     },
     {
       "raw_hot": 311181,
@@ -1571,14 +1611,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 296616,
-      "num": 296616,
-      "word": "五月天突然好想你雨中氛围感",
-      "onboard_time": 1695603874,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 296071,
       "num": 296071,
       "word": "中国队的第三金收入囊中",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1695518253,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295040,
-      "num": 258134,
-      "word": "乞讨老人手机内是偷拍的短裙女生",
-      "onboard_time": 1695603395,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291528,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1695484000,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279546,
+      "num": 419242,
+      "word": "工人日报灵魂三问预制菜",
+      "onboard_time": 1695603216,
+      "rank": 13,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 278662,
@@ -1835,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260097,
-      "num": 260097,
-      "word": "农村男子租豪车装富豪诈骗40多名女性",
-      "onboard_time": 1695601139,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260031,
       "num": 260031,
       "word": "王者项目小组赛",
@@ -1852,7 +1876,7 @@
     },
     {
       "raw_hot": 259489,
-      "num": 412389,
+      "num": 418160,
       "word": "叶诗文再次出战亚运会",
       "onboard_time": 1695600994,
       "rank": 12,
@@ -2041,6 +2065,14 @@
       "onboard_time": 1695543456,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238108,
+      "num": 238108,
+      "word": "樊振东比赛马龙等变身鼓掌机器",
+      "onboard_time": 1695604532,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 238004,
@@ -2241,14 +2273,6 @@
       "onboard_time": 1695540932,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 215921,
-      "num": 410382,
-      "word": "工人日报灵魂三问预制菜",
-      "onboard_time": 1695603216,
-      "rank": 13,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 214626,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1695555336,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200455,
+      "num": 200455,
+      "word": "伯远伪素颜妆",
+      "onboard_time": 1695603994,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 200341,
@@ -2731,14 +2763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 167873,
-      "num": 167873,
-      "word": "伯远伪素颜妆",
-      "onboard_time": 1695603994,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167737,
       "num": 167737,
       "word": "曾黎三次欧洲封面妆造变化",
@@ -2819,6 +2843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161074,
+      "num": 161074,
+      "word": "我想连夜搬家和冠军汪顺做邻居",
+      "onboard_time": 1695604955,
+      "rank": 41,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 160171,
       "num": 160171,
       "word": "跟父母坦白想离婚有多难",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1695484598,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158174,
+      "num": 158174,
+      "word": "胡兵谷爱凌米兰同场走秀",
+      "onboard_time": 1695604717,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157860,
@@ -3051,14 +3091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142526,
-      "num": 142526,
-      "word": "车窗边缘的小黑点是干嘛的",
-      "onboard_time": 1695604234,
-      "rank": 48,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 142116,
       "num": 142116,
       "word": "上官浅这就是你离开宫家过的日子吗",
@@ -3259,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126428,
+      "num": 126428,
+      "word": "TXT回归预告",
+      "onboard_time": 1695605372,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126004,
       "num": 126004,
       "word": "基普乔格第五冠",
@@ -3345,6 +3385,14 @@
       "onboard_time": 1695511583,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111761,
+      "num": 111761,
+      "word": "我国顶尖科学家将冷门专业变热门",
+      "onboard_time": 1695605553,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 111049,
@@ -3441,6 +3489,14 @@
       "onboard_time": 1695597146,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86943,
+      "num": 168591,
+      "word": "李娃娃成为飞猪酒店试睡员",
+      "onboard_time": 1695603633,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78779,
@@ -3657,14 +3713,6 @@
       "onboard_time": 1695538831,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 23404,
-      "num": 168591,
-      "word": "李娃娃成为飞猪酒店试睡员",
-      "onboard_time": 1695603633,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23151,

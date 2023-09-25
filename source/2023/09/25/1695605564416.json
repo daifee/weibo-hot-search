@@ -1,0 +1,410 @@
+{
+  "runTime": 1695605564416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1931575,
+        "num": 1931575,
+        "word": "宁泽涛",
+        "onboard_time": 1695596604,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1211369,
+        "num": 1211369,
+        "word": "你的血管里流的不一定是血",
+        "onboard_time": 1695601052,
+        "rank": 1,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 32599,
+        "num": 1062539,
+        "word": "良渚之光照耀亚运之美",
+        "onboard_time": 1695559236,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1013330,
+        "num": 1013330,
+        "word": "汪顺 说我不行的人看这个成绩还行吗",
+        "onboard_time": 1695598529,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 879113,
+        "num": 879113,
+        "word": "第一次在星期一露出笑容",
+        "onboard_time": 1695602734,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596040,
+        "num": 596040,
+        "word": "沈腾吐槽金晨一步一亮相",
+        "onboard_time": 1695598287,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588903,
+        "num": 588903,
+        "word": "女生花7000元看周杰伦演唱会忘带票",
+        "onboard_time": 1695567037,
+        "rank": 6,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 581012,
+        "num": 581012,
+        "word": "迪丽热巴巴黎时装周",
+        "onboard_time": 1695601052,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 536151,
+        "num": 536151,
+        "word": "日媒批男团耻辱出局",
+        "onboard_time": 1695568359,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534582,
+        "num": 534582,
+        "word": "王牌对王牌",
+        "onboard_time": 1695603274,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688291,
+        "num": 528981,
+        "word": "马斯克不断公开恳求名人推特发帖",
+        "onboard_time": 1695602856,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 512101,
+        "num": 512101,
+        "word": "马斯克怒赞iPhone15拍照功能",
+        "onboard_time": 1695603274,
+        "rank": 11,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 428522,
+        "num": 428522,
+        "word": "五月天突然好想你雨中氛围感",
+        "onboard_time": 1695603874,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279546,
+        "num": 419242,
+        "word": "工人日报灵魂三问预制菜",
+        "onboard_time": 1695603216,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 195455,
+        "num": 418160,
+        "word": "叶诗文再次出战亚运会",
+        "onboard_time": 1695600994,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417797,
+        "num": 417797,
+        "word": "张彬彬生图扛住了所有",
+        "onboard_time": 1695600518,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371505,
+        "num": 371505,
+        "word": "英雄联盟",
+        "onboard_time": 1695605011,
+        "rank": 16,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 314488,
+        "num": 314488,
+        "word": "农村男子租豪车装富豪诈骗40多名女性",
+        "onboard_time": 1695601139,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314115,
+        "num": 314115,
+        "word": "虞书欣好大的耳环",
+        "onboard_time": 1695599553,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308733,
+        "num": 308733,
+        "word": "幼儿园手工作业主打一个卷死家长",
+        "onboard_time": 1695570156,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157358,
+        "num": 294030,
+        "word": "中国队金牌1个九宫格放不下",
+        "onboard_time": 1695563139,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361924,
+        "num": 291196,
+        "word": "建议洗完衣服马上去晒",
+        "onboard_time": 1695597869,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 331852,
+        "num": 289939,
+        "word": "乞讨老人手机内是偷拍的短裙女生",
+        "onboard_time": 1695603395,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285100,
+        "num": 285100,
+        "word": "都给水哥懂完了",
+        "onboard_time": 1695603575,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267847,
+        "num": 267847,
+        "word": "这才是轻舟已过万重山",
+        "onboard_time": 1695601475,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252145,
+        "num": 252145,
+        "word": "华晨宇王牌对王牌",
+        "onboard_time": 1695600334,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250322,
+        "num": 250322,
+        "word": "饿瘦与运动瘦的区别",
+        "onboard_time": 1695557253,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 239333,
+        "num": 239333,
+        "word": "张小斐这剧除了原配全员好嗑",
+        "onboard_time": 1695570454,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238108,
+        "num": 238108,
+        "word": "樊振东比赛马龙等变身鼓掌机器",
+        "onboard_time": 1695604532,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206372,
+        "num": 206372,
+        "word": "薛之谦演唱会当场官宣清远站",
+        "onboard_time": 1695597386,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311820,
+        "num": 205302,
+        "word": "车窗边缘的小黑点是干嘛的",
+        "onboard_time": 1695604234,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 203828,
+        "num": 203828,
+        "word": "以为健康的方式其实不健康",
+        "onboard_time": 1695597323,
+        "rank": 31,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 200455,
+        "num": 200455,
+        "word": "伯远伪素颜妆",
+        "onboard_time": 1695603994,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199659,
+        "num": 199659,
+        "word": "当8岁的儿子旁观了一场校园霸凌",
+        "onboard_time": 1695596604,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195649,
+        "num": 195649,
+        "word": "别去有孩子的家庭做宠物",
+        "onboard_time": 1695601294,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 187837,
+        "num": 187837,
+        "word": "我没票但不妨碍我来听演唱会",
+        "onboard_time": 1695571056,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184015,
+        "num": 184015,
+        "word": "坚持半个月下来一身轻的健身动作",
+        "onboard_time": 1695569198,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177136,
+        "num": 177136,
+        "word": "恒大公告称无法满足新票据发行资格",
+        "onboard_time": 1695600697,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164069,
+        "num": 164069,
+        "word": "女生采耳才发现碎钻卡在耳内半个月",
+        "onboard_time": 1695569257,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86943,
+        "num": 163505,
+        "word": "李娃娃成为飞猪酒店试睡员",
+        "onboard_time": 1695603633,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162999,
+        "num": 162999,
+        "word": "官方通报校长和主任外出考察同房过夜",
+        "onboard_time": 1695559477,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161074,
+        "num": 161074,
+        "word": "我想连夜搬家和冠军汪顺做邻居",
+        "onboard_time": 1695604955,
+        "rank": 41,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 158174,
+        "num": 158174,
+        "word": "胡兵谷爱凌米兰同场走秀",
+        "onboard_time": 1695604717,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158118,
+        "num": 158118,
+        "word": "NBL总决赛裁判报告",
+        "onboard_time": 1695598110,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148266,
+        "num": 148266,
+        "word": "张嘉倪拿捏小香风",
+        "onboard_time": 1695570396,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130489,
+        "num": 130489,
+        "word": "像吗 不像删了",
+        "onboard_time": 1695558575,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127000,
+        "num": 127000,
+        "word": "寒武纪创投股东集体清仓套现逾40亿",
+        "onboard_time": 1695599916,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126428,
+        "num": 126428,
+        "word": "TXT回归预告",
+        "onboard_time": 1695605372,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112089,
+        "num": 112089,
+        "word": "怀疑平行空间都没怀疑她",
+        "onboard_time": 1695600753,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111761,
+        "num": 111761,
+        "word": "我国顶尖科学家将冷门专业变热门",
+        "onboard_time": 1695605553,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的亚运会时间#"
+    }
+  }
+}
