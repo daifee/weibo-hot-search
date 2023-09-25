@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/25 16:35:24
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/25 17:17:51
 </p>
 </blockquote>
 <p>
@@ -5979,6 +5979,12 @@ Mate60不会放过每一个逃单的人（热度：960766）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%23" target="weibo">
+韩国球员爆冷输球拒绝握手（热度：952426）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E5%AE%9A%E6%A1%A3%23" target="weibo">
 他从火光中走来 定档（热度：951545）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15没往年那么难抢（热度：950496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%9C%9Dcp%E5%AE%98%E5%AE%A3%23" target="weibo">
 今朝cp官宣（热度：949513）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%A1%8C%E5%86%8D%E6%B7%BB%E9%93%81%E8%AF%81%23" target="weibo">
-日军侵华罪行再添铁证（热度：949429）
 </a>
 </li>
 
