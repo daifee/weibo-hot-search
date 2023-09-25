@@ -1,7 +1,15 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695626174105,
+  "endTime": 1695627238732,
   "band_list": [
+    {
+      "raw_hot": 9754032,
+      "num": 9754032,
+      "word": "华为发布会",
+      "onboard_time": 1695621575,
+      "rank": 1,
+      "category": "数码"
+    },
     {
       "raw_hot": 8441678,
       "num": 511504,
@@ -11,12 +19,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4551302,
-      "num": 4551302,
-      "word": "华为发布会",
-      "onboard_time": 1695621575,
+      "raw_hot": 4851573,
+      "num": 4851573,
+      "word": "刘德华 非凡大师",
+      "onboard_time": 1695626619,
       "rank": 1,
-      "category": "数码"
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 2498308,
@@ -97,6 +105,14 @@
       "onboard_time": 1695519810,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1767091,
+      "num": 1767091,
+      "word": "刘亦菲 阿布扎比",
+      "onboard_time": 1695625416,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1695506,
@@ -395,14 +411,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 961030,
-      "num": 961030,
-      "word": "刘亦菲 阿布扎比",
-      "onboard_time": 1695625416,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 960737,
       "num": 960737,
       "word": "国足亚运队0比0孟加拉国",
@@ -651,6 +659,14 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 771363,
+      "num": 771363,
+      "word": "华为发布全球最轻薄无边大平板",
+      "onboard_time": 1695626498,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 768845,
       "num": 768845,
       "word": "刘诗诗回应不上常驻综艺",
@@ -817,6 +833,14 @@
       "onboard_time": 1695569198,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 683380,
+      "num": 683380,
+      "word": "余承东 口才",
+      "onboard_time": 1695626195,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 680975,
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615048,
+      "num": 427149,
+      "word": "iPhone16Pro将搭载实体侧屏按钮",
+      "onboard_time": 1695625775,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 603356,
       "num": 603356,
       "word": "我没票但不妨碍我来听演唱会",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1695523769,
       "rank": 7,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 586852,
+      "num": 478381,
+      "word": "余承东称mate60正紧急生产",
+      "onboard_time": 1695626076,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 583933,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1695521431,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 569276,
-      "num": 351638,
-      "word": "iPhone16Pro将搭载实体侧屏按钮",
-      "onboard_time": 1695625775,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 568314,
@@ -1172,7 +1204,7 @@
     },
     {
       "raw_hot": 521812,
-      "num": 375467,
+      "num": 409310,
       "word": "卫裤上的绳子原来这样系",
       "onboard_time": 1695622114,
       "rank": 30,
@@ -1259,6 +1291,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 481916,
+      "num": 481916,
+      "word": "网传高中生入厕需带通行证",
+      "onboard_time": 1695624575,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481008,
       "num": 772792,
       "word": "成都坐车到北京未来可能仅需90分钟",
@@ -1283,12 +1323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477036,
-      "num": 477036,
-      "word": "网传高中生入厕需带通行证",
-      "onboard_time": 1695624575,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 478279,
+      "num": 478279,
+      "word": "遥遥领先",
+      "onboard_time": 1695625533,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 476455,
+      "num": 271272,
+      "word": "大家真的要注意内裤卫生",
+      "onboard_time": 1695626619,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 475008,
@@ -1435,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441531,
+      "num": 441531,
+      "word": "网曝校长与副校长不雅聊天记录",
+      "onboard_time": 1695626498,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 438411,
       "num": 438411,
       "word": "1岁半孙女午睡爷爷守3小时照顾",
@@ -1555,12 +1611,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 397109,
+      "num": 397109,
+      "word": "华为首款黄金智能腕表",
+      "onboard_time": 1695626978,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 394026,
       "num": 473857,
       "word": "退休外交官夫妇山区支教9年",
       "onboard_time": 1695613772,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 393419,
+      "num": 393419,
+      "word": "张小斐看张嘉倪的眼神",
+      "onboard_time": 1695625897,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 389169,
@@ -1673,6 +1745,14 @@
       "onboard_time": 1695515851,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 364511,
+      "num": 364511,
+      "word": "一诺 五个len蹲我",
+      "onboard_time": 1695626377,
+      "rank": 24,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 360550,
@@ -1860,7 +1940,7 @@
     },
     {
       "raw_hot": 327081,
-      "num": 473050,
+      "num": 480222,
       "word": "这才是轻舟已过万重山",
       "onboard_time": 1695601475,
       "rank": 23,
@@ -2020,7 +2100,7 @@
     },
     {
       "raw_hot": 295773,
-      "num": 469519,
+      "num": 481325,
       "word": "15岁中国小将滑板碗池摘金",
       "onboard_time": 1695622294,
       "rank": 13,
@@ -2185,14 +2265,6 @@
       "onboard_time": 1695618580,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272997,
-      "num": 272997,
-      "word": "遥遥领先",
-      "onboard_time": 1695625533,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 272665,
@@ -2723,6 +2795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218263,
+      "num": 218263,
+      "word": "前任4英年早婚北京首映",
+      "onboard_time": 1695622476,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218198,
       "num": 218198,
       "word": "训练营有18个群而你只有1个",
@@ -2849,14 +2929,6 @@
       "onboard_time": 1695614375,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213045,
-      "num": 213045,
-      "word": "前任4英年早婚北京首映",
-      "onboard_time": 1695622476,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 212720,
@@ -3203,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191909,
+      "num": 191909,
+      "word": "周兴哲上海演唱会",
+      "onboard_time": 1695626858,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191160,
       "num": 191160,
       "word": "巴黎抓牛大作战",
@@ -3265,6 +3345,14 @@
       "onboard_time": 1695475542,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188175,
+      "num": 188175,
+      "word": "微博音乐盛典是要召唤神龙吗",
+      "onboard_time": 1695627098,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187845,
@@ -3411,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176332,
+      "num": 176332,
+      "word": "华为发布全新超高端品牌",
+      "onboard_time": 1695627098,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176078,
       "num": 176078,
       "word": "退役军人33年在沙漠种出3万亩绿洲",
@@ -3489,14 +3585,6 @@
       "onboard_time": 1695611131,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167457,
-      "num": 167457,
-      "word": "张小斐看张嘉倪的眼神",
-      "onboard_time": 1695625897,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 167354,
@@ -3777,6 +3865,14 @@
       "onboard_time": 1695510380,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151478,
+      "num": 151478,
+      "word": "看出来了吴磊不会蹦迪",
+      "onboard_time": 1695626740,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 151281,
@@ -4108,7 +4204,7 @@
     },
     {
       "raw_hot": 134660,
-      "num": 962985,
+      "num": 1829524,
       "word": "稻花香里说丰年",
       "onboard_time": 1695621275,
       "rank": 2,
@@ -4145,14 +4241,6 @@
       "onboard_time": 1695539672,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128856,
-      "num": 128856,
-      "word": "余承东称mate60正紧急生产",
-      "onboard_time": 1695626076,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 126994,
@@ -4707,20 +4795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17250,
+      "num": 479785,
+      "word": "大秀直击",
+      "onboard_time": 1695625232,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 15595,
       "num": 22489,
       "word": "亚运会助威团",
       "onboard_time": 1695502632,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12182,
-      "num": 415597,
-      "word": "大秀直击",
-      "onboard_time": 1695625232,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 10826,
