@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695623763016,
+  "endTime": 1695626174105,
   "band_list": [
     {
       "raw_hot": 8441678,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2608534,
-      "num": 2608534,
+      "raw_hot": 4551302,
+      "num": 4551302,
       "word": "华为发布会",
       "onboard_time": 1695621575,
       "rank": 1,
@@ -323,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1073396,
+      "num": 796076,
+      "word": "突然间全场爆发欢呼给马龙都整懵了",
+      "onboard_time": 1695619536,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1058852,
       "num": 1058852,
       "word": "18岁中国小将破世界纪录夺冠",
@@ -377,6 +385,22 @@
       "onboard_time": 1695608791,
       "rank": 30,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 969519,
+      "num": 969519,
+      "word": "螺子黛",
+      "onboard_time": 1695624153,
+      "rank": 1,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 961030,
+      "num": 961030,
+      "word": "刘亦菲 阿布扎比",
+      "onboard_time": 1695625416,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 960737,
@@ -569,14 +593,6 @@
       "onboard_time": 1695613835,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 796076,
-      "num": 796076,
-      "word": "突然间全场爆发欢呼给马龙都整懵了",
-      "onboard_time": 1695619536,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 792052,
@@ -1059,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569276,
+      "num": 351638,
+      "word": "iPhone16Pro将搭载实体侧屏按钮",
+      "onboard_time": 1695625775,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 568314,
       "num": 568314,
       "word": "黄雨婷夺10米气步枪金牌",
@@ -1147,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 521812,
+      "num": 375467,
+      "word": "卫裤上的绳子原来这样系",
+      "onboard_time": 1695622114,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 518687,
       "num": 328414,
       "word": "建议洗完衣服马上去晒",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1695622294,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 514539,
-      "num": 375467,
-      "word": "卫裤上的绳子原来这样系",
-      "onboard_time": 1695622114,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 510927,
@@ -1219,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500366,
+      "num": 500366,
+      "word": "女子用筋膜枪抢到林俊杰演唱会门票",
+      "onboard_time": 1695617743,
+      "rank": 22,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 498431,
       "num": 298428,
       "word": "日本记者报道亚运会400日元随便吃",
@@ -1248,6 +1280,14 @@
       "word": "北京一无业男子与俩同小区女子同居",
       "onboard_time": 1695616967,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477036,
+      "num": 477036,
+      "word": "网传高中生入厕需带通行证",
+      "onboard_time": 1695624575,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1395,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 442226,
-      "num": 442226,
-      "word": "女子用筋膜枪抢到林俊杰演唱会门票",
-      "onboard_time": 1695617743,
-      "rank": 22,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 438411,
       "num": 438411,
       "word": "1岁半孙女午睡爷爷守3小时照顾",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1695613772,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 389169,
+      "num": 389169,
+      "word": "封神售后绝了",
+      "onboard_time": 1695625713,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 388388,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1695543874,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 345476,
+      "num": 345476,
+      "word": "曾舜晞南京开票",
+      "onboard_time": 1695624575,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 342890,
@@ -1971,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295773,
+      "num": 469519,
+      "word": "15岁中国小将滑板碗池摘金",
+      "onboard_time": 1695622294,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295183,
       "num": 295183,
       "word": "发现了一个延长国庆假期的方法",
@@ -2059,6 +2115,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 280646,
+      "num": 280646,
+      "word": "国乒打11比0是对竞技体育的尊重",
+      "onboard_time": 1695625114,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279672,
       "num": 279672,
       "word": "毛晓彤泼水游戏好猛",
@@ -2099,14 +2163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 278039,
-      "num": 469519,
-      "word": "15岁中国小将滑板碗池摘金",
-      "onboard_time": 1695622294,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277357,
       "num": 277357,
       "word": "肚子里的脏器长什么样",
@@ -2129,6 +2185,14 @@
       "onboard_time": 1695618580,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272997,
+      "num": 272997,
+      "word": "遥遥领先",
+      "onboard_time": 1695625533,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 272665,
@@ -2715,6 +2779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215220,
+      "num": 215220,
+      "word": "鬼切臻华皮肤",
+      "onboard_time": 1695625775,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214626,
       "num": 214626,
       "word": "林恒登场",
@@ -3075,6 +3147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197075,
+      "num": 197075,
+      "word": "于和伟你是我下部戏的男一号",
+      "onboard_time": 1695624215,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196809,
       "num": 196809,
       "word": "王濛曾在杭州包揽所有金牌",
@@ -3387,6 +3467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167809,
+      "num": 382834,
+      "word": "为什么运动员穿衣那么好看",
+      "onboard_time": 1695622294,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167737,
       "num": 167737,
       "word": "曾黎三次欧洲封面妆造变化",
@@ -3401,6 +3489,14 @@
       "onboard_time": 1695611131,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167457,
+      "num": 167457,
+      "word": "张小斐看张嘉倪的眼神",
+      "onboard_time": 1695625897,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167354,
@@ -3449,6 +3545,14 @@
       "onboard_time": 1695535653,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163750,
+      "num": 163750,
+      "word": "苹果客服回应无法用华为充电器",
+      "onboard_time": 1695625533,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 162708,
@@ -4003,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134660,
+      "num": 962985,
+      "word": "稻花香里说丰年",
+      "onboard_time": 1695621275,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133827,
       "num": 133827,
       "word": "柏林马拉松",
@@ -4033,6 +4145,14 @@
       "onboard_time": 1695539672,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128856,
+      "num": 128856,
+      "word": "余承东称mate60正紧急生产",
+      "onboard_time": 1695626076,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 126994,
@@ -4075,14 +4195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124480,
-      "num": 382834,
-      "word": "为什么运动员穿衣那么好看",
-      "onboard_time": 1695622294,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121186,
       "num": 1093850,
       "word": "亚运开幕式国风美学拉满",
@@ -4113,6 +4225,14 @@
       "onboard_time": 1695611671,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120885,
+      "num": 120885,
+      "word": "中国队破男子25米手枪速射团体世界纪录",
+      "onboard_time": 1695624516,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 119563,
@@ -4171,6 +4291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111870,
+      "num": 111870,
+      "word": "韩素希林珍娜梦幻联动",
+      "onboard_time": 1695624758,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111049,
       "num": 111049,
       "word": "Nbl总决赛裁判报告",
@@ -4219,6 +4347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103116,
+      "num": 103116,
+      "word": "蒲熠星街角人生",
+      "onboard_time": 1695626076,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101554,
       "num": 101554,
       "word": "多部杰尼斯艺人电视剧停止制作",
@@ -4241,14 +4377,6 @@
       "onboard_time": 1695540991,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98793,
-      "num": 935757,
-      "word": "稻花香里说丰年",
-      "onboard_time": 1695621275,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97346,
@@ -4585,6 +4713,14 @@
       "onboard_time": 1695502632,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12182,
+      "num": 415597,
+      "word": "大秀直击",
+      "onboard_time": 1695625232,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10826,
