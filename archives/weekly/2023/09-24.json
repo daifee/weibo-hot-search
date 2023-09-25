@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695622983022,
+  "endTime": 1695623763016,
   "band_list": [
     {
       "raw_hot": 8441678,
@@ -9,6 +9,14 @@
       "onboard_time": 1695614977,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2608534,
+      "num": 2608534,
+      "word": "华为发布会",
+      "onboard_time": 1695621575,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 2498308,
@@ -137,14 +145,6 @@
       "onboard_time": 1695611611,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1543905,
-      "num": 1543905,
-      "word": "华为发布会",
-      "onboard_time": 1695621575,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1511289,
@@ -499,6 +499,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 837870,
+      "num": 837870,
+      "word": "中秋国庆有4天可发3倍工资",
+      "onboard_time": 1695620375,
+      "rank": 3,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 822677,
       "num": 822677,
       "word": "王心凌演唱会嘉宾",
@@ -561,6 +569,14 @@
       "onboard_time": 1695613835,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 796076,
+      "num": 796076,
+      "word": "突然间全场爆发欢呼给马龙都整懵了",
+      "onboard_time": 1695619536,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 792052,
@@ -657,14 +673,6 @@
       "onboard_time": 1695542913,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 756417,
-      "num": 756417,
-      "word": "中秋国庆有4天可发3倍工资",
-      "onboard_time": 1695620375,
-      "rank": 3,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 747959,
@@ -896,14 +904,6 @@
       "word": "叙利亚出场全场欢呼",
       "onboard_time": 1695475781,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 645284,
-      "num": 645284,
-      "word": "突然间全场爆发欢呼给马龙都整懵了",
-      "onboard_time": 1695619536,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -1163,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 514539,
+      "num": 375467,
+      "word": "卫裤上的绳子原来这样系",
+      "onboard_time": 1695622114,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 510927,
       "num": 510927,
       "word": "顶级爱豆更适合开个人工作室",
@@ -1236,11 +1244,19 @@
     },
     {
       "raw_hot": 478446,
-      "num": 284284,
+      "num": 295811,
       "word": "北京一无业男子与俩同小区女子同居",
       "onboard_time": 1695616967,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475008,
+      "num": 377450,
+      "word": "韩国代表队经过混采区都直溜溜的走了",
+      "onboard_time": 1695619536,
+      "rank": 31,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 474241,
@@ -1379,12 +1395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 440316,
-      "num": 198448,
-      "word": "卫裤上的绳子原来这样系",
-      "onboard_time": 1695622114,
-      "rank": 30,
-      "category": "时尚"
+      "raw_hot": 442226,
+      "num": 442226,
+      "word": "女子用筋膜枪抢到林俊杰演唱会门票",
+      "onboard_time": 1695617743,
+      "rank": 22,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 438411,
@@ -1427,11 +1443,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 425179,
-      "num": 207027,
-      "word": "韩国代表队经过混采区都直溜溜的走了",
-      "onboard_time": 1695619536,
-      "rank": 31,
+      "raw_hot": 420068,
+      "num": 420068,
+      "word": "王者荣耀比赛",
+      "onboard_time": 1695622833,
+      "rank": 34,
       "category": "游戏,体育"
     },
     {
@@ -1633,14 +1649,6 @@
       "onboard_time": 1695603575,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358084,
-      "num": 358084,
-      "word": "女子用筋膜枪抢到林俊杰演唱会门票",
-      "onboard_time": 1695617743,
-      "rank": 22,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 354929,
@@ -2089,6 +2097,14 @@
       "onboard_time": 1695597386,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 278039,
+      "num": 469519,
+      "word": "15岁中国小将滑板碗池摘金",
+      "onboard_time": 1695622294,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 277357,
@@ -2763,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213045,
+      "num": 213045,
+      "word": "前任4英年早婚北京首映",
+      "onboard_time": 1695622476,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212720,
       "num": 212720,
       "word": "郑秀妍晒与王心凌的合照",
@@ -3035,14 +3059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198563,
-      "num": 469519,
-      "word": "15岁中国小将滑板碗池摘金",
-      "onboard_time": 1695622294,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197695,
       "num": 197695,
       "word": "消防推荐官黄景瑜",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1695478075,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193945,
-      "num": 193945,
-      "word": "前任4英年早婚北京首映",
-      "onboard_time": 1695622476,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 192441,
@@ -3273,14 +3281,6 @@
       "onboard_time": 1695527431,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182843,
-      "num": 182843,
-      "word": "王者荣耀比赛",
-      "onboard_time": 1695622833,
-      "rank": 34,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 182183,
@@ -3715,6 +3715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149892,
+      "num": 149892,
+      "word": "吕布敦煌皮肤CG",
+      "onboard_time": 1695622294,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149679,
       "num": 149679,
       "word": "何不与我们同修永享极乐",
@@ -3769,14 +3777,6 @@
       "onboard_time": 1695612873,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 146266,
-      "num": 146266,
-      "word": "吕布敦煌皮肤CG",
-      "onboard_time": 1695622294,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 144980,
@@ -4076,7 +4076,7 @@
     },
     {
       "raw_hot": 124480,
-      "num": 242979,
+      "num": 382834,
       "word": "为什么运动员穿衣那么好看",
       "onboard_time": 1695622294,
       "rank": 23,
@@ -4243,20 +4243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98793,
+      "num": 935757,
+      "word": "稻花香里说丰年",
+      "onboard_time": 1695621275,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97346,
       "num": 97346,
       "word": "文科教授遇硬件问题把自己CPU烧了",
       "onboard_time": 1695542792,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 92879,
-      "num": 902094,
-      "word": "稻花香里说丰年",
-      "onboard_time": 1695621275,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92576,
