@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695662142416,
+  "endTime": 1695663237969,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -61355,6 +61355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115306,
+      "num": 96702,
+      "word": "辽宁阜新女子被碎尸案告破",
+      "onboard_time": 1695660803,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115130,
       "num": 1556266,
       "word": "迎亚运的杭州好漂亮",
@@ -62465,14 +62473,6 @@
       "onboard_time": 1693586371,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96702,
-      "num": 96702,
-      "word": "辽宁阜新女子被碎尸案告破",
-      "onboard_time": 1695660803,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95864,
@@ -64724,7 +64724,7 @@
     },
     {
       "raw_hot": 50179,
-      "num": 52249,
+      "num": 52601,
       "word": "加油杭州亚运会",
       "onboard_time": 1695661762,
       "rank": 48,
@@ -65049,6 +65049,14 @@
       "onboard_time": 1694453299,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43388,
+      "num": 52756,
+      "word": "韩东君 你们下班了我上班了",
+      "onboard_time": 1695662960,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 43267,
@@ -65433,6 +65441,14 @@
       "onboard_time": 1694110517,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36812,
+      "num": 52564,
+      "word": "安宥真MV演技",
+      "onboard_time": 1695663021,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 36743,
