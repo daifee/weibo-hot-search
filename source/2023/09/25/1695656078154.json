@@ -1,0 +1,410 @@
+{
+  "runTime": 1695656078154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332385,
+        "num": 1332385,
+        "word": "许幻山真的永远失去自己名字了",
+        "onboard_time": 1695641793,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1274185,
+        "num": 1274185,
+        "word": "学生刺杀操失误给领导吓一身汗",
+        "onboard_time": 1695650559,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21483,
+        "num": 1121416,
+        "word": "奋力谱写中国式现代化浙江新篇章",
+        "onboard_time": 1695636394,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035295,
+        "num": 1035295,
+        "word": "长沙一小区疑发生液化气爆炸",
+        "onboard_time": 1695652959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722073,
+        "num": 722073,
+        "word": "郑恺回应把前任拍成铁饭碗",
+        "onboard_time": 1695654880,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 718886,
+        "num": 718886,
+        "word": "王楚钦 教练没有错信你",
+        "onboard_time": 1695650918,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476551,
+        "num": 476551,
+        "word": "长相思第二季能预约了",
+        "onboard_time": 1695655896,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399277,
+        "num": 399277,
+        "word": "马立奥90％像妈妈",
+        "onboard_time": 1695648818,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381366,
+        "num": 381366,
+        "word": "洁柔写信感谢取消10元6箱订单顾客",
+        "onboard_time": 1695638675,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332443,
+        "num": 332443,
+        "word": "丁程鑫不愧是拍过旋风少女的",
+        "onboard_time": 1695649297,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 780558,
+        "num": 328481,
+        "word": "韩素希颧骨钉",
+        "onboard_time": 1695646718,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495642,
+        "num": 322681,
+        "word": "大家真的要注意内裤卫生",
+        "onboard_time": 1695626619,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419131,
+        "num": 322144,
+        "word": "周密周芯竹分手",
+        "onboard_time": 1695614977,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198182,
+        "num": 316695,
+        "word": "叶诗文时隔9年再战亚运摘银",
+        "onboard_time": 1695646538,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183055,
+        "num": 307936,
+        "word": "伊朗记者说赢日本时汗毛都起来了",
+        "onboard_time": 1695640234,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398965,
+        "num": 305671,
+        "word": "汪顺回应自己颜值震惊全网",
+        "onboard_time": 1695652062,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301851,
+        "num": 301851,
+        "word": "中国剑客绝杀日本跪地怒吼",
+        "onboard_time": 1695649235,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267135,
+        "num": 267135,
+        "word": "开门大吉",
+        "onboard_time": 1695652480,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243957,
+        "num": 243957,
+        "word": "这么小的世界冠军头一次见",
+        "onboard_time": 1695654398,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222571,
+        "num": 243416,
+        "word": "魏大勋称清华学子未来的老板",
+        "onboard_time": 1695647136,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572028,
+        "num": 242239,
+        "word": "韩女不生的原因找到了",
+        "onboard_time": 1695655655,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379060,
+        "num": 241197,
+        "word": "九月的工资千万不要乱花",
+        "onboard_time": 1695629558,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364606,
+        "num": 240720,
+        "word": "网曝校长与副校长不雅聊天记录",
+        "onboard_time": 1695626498,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 267872,
+        "num": 239657,
+        "word": "这不比送月饼实在多了",
+        "onboard_time": 1695649179,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239201,
+        "num": 239201,
+        "word": "这才是正确的洗澡顺序",
+        "onboard_time": 1695651940,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 236993,
+        "num": 236993,
+        "word": "吴磊都生不出这么像的",
+        "onboard_time": 1695647858,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202133,
+        "num": 202133,
+        "word": "看过最炸裂的错别字",
+        "onboard_time": 1695655477,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196027,
+        "num": 196027,
+        "word": "华为发布会",
+        "onboard_time": 1695621575,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194813,
+        "num": 194813,
+        "word": "华为回应充电器不支持iPhone15",
+        "onboard_time": 1695655777,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183172,
+        "num": 183172,
+        "word": "江喜实锤卫明侵吞公款",
+        "onboard_time": 1695654999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226135,
+        "num": 182615,
+        "word": "女明星第一次去欧美时装周看秀造型图",
+        "onboard_time": 1695656017,
+        "rank": 30,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 203754,
+        "num": 182604,
+        "word": "孟佳看JJ演唱会偶遇林允",
+        "onboard_time": 1695655355,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181976,
+        "num": 181976,
+        "word": "舅舅染黄发接2年级外甥放学被嫌弃",
+        "onboard_time": 1695646596,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181117,
+        "num": 181117,
+        "word": "offer5实习生竟然是港姐",
+        "onboard_time": 1695646657,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170720,
+        "num": 170720,
+        "word": "白衬衫是张小斐的开关",
+        "onboard_time": 1695650620,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159819,
+        "num": 159819,
+        "word": "陈梦11比0国乒全员憋笑失败",
+        "onboard_time": 1695634597,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157120,
+        "num": 157120,
+        "word": "网剧我有一个朋友",
+        "onboard_time": 1695648458,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156656,
+        "num": 156656,
+        "word": "女生误捡福寿螺带回家产卵后立马扔",
+        "onboard_time": 1695643896,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142403,
+        "num": 142403,
+        "word": "丞磊跑步耳机丢了",
+        "onboard_time": 1695652182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168720,
+        "num": 142284,
+        "word": "张小斐看张嘉倪的眼神",
+        "onboard_time": 1695625897,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141065,
+        "num": 141065,
+        "word": "刘德华 非凡大师",
+        "onboard_time": 1695626619,
+        "rank": 40,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 140812,
+        "num": 140812,
+        "word": "杨紫初秋烟熏仿妆",
+        "onboard_time": 1695644556,
+        "rank": 41,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 139656,
+        "num": 139656,
+        "word": "奚梦瑶晒何猷君表情包",
+        "onboard_time": 1695648338,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 139355,
+        "num": 139355,
+        "word": "48岁丘索维金娜站上亚运舞台",
+        "onboard_time": 1695654700,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136500,
+        "num": 136500,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1695641374,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135367,
+        "num": 135367,
+        "word": "周杰伦 看来我要一直唱下去了",
+        "onboard_time": 1695633277,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155136,
+        "num": 133215,
+        "word": "九义人",
+        "onboard_time": 1695653382,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123107,
+        "num": 123107,
+        "word": "封神群名叫干就完了",
+        "onboard_time": 1695654160,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121867,
+        "num": 121867,
+        "word": "朝鲜宣布外国人可依照规定入境",
+        "onboard_time": 1695642093,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 118949,
+        "num": 118949,
+        "word": "倪妮刘亦菲什么时候演双女主",
+        "onboard_time": 1695634835,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力发展智慧交通和智慧物流#"
+    }
+  }
+}
