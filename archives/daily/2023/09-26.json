@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695677657983,
+  "endTime": 1695680147512,
   "band_list": [
     {
       "raw_hot": 1511374,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233791,
+      "num": 233791,
+      "word": "辽宁阜新女子被碎尸案告破",
+      "onboard_time": 1695660803,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219336,
       "num": 219336,
       "word": "王楚钦 教练没有错信你",
@@ -209,14 +217,6 @@
       "onboard_time": 1695647858,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163257,
-      "num": 96702,
-      "word": "辽宁阜新女子被碎尸案告破",
-      "onboard_time": 1695660803,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161609,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44843,
+      "num": 44843,
+      "word": "济南国资平台甩卖1341套现房",
+      "onboard_time": 1695671594,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43388,
       "num": 52756,
       "word": "韩东君 你们下班了我上班了",
@@ -473,14 +481,6 @@
       "onboard_time": 1695663021,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34796,
-      "num": 30189,
-      "word": "济南国资平台甩卖1341套现房",
-      "onboard_time": 1695671594,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28100,
@@ -515,7 +515,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13905,
+      "raw_hot": 17128,
       "num": 27033,
       "word": "马龙乒乓神操作看呆众人",
       "onboard_time": 1695668535,
