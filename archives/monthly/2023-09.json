@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695670434473,
+  "endTime": 1695673087290,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -66683,6 +66683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17171,
+      "num": 17171,
+      "word": "济南国资平台甩卖1341套现房",
+      "onboard_time": 1695671594,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17061,
       "num": 17590,
       "word": "姬发随时随地大小唱",
@@ -66825,6 +66833,14 @@
       "onboard_time": 1695069255,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11373,
+      "num": 16204,
+      "word": "Hero战队团建",
+      "onboard_time": 1695672493,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 11104,
