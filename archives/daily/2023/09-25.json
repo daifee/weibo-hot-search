@@ -1,6 +1,6 @@
 {
   "startTime": 1695572394695,
-  "endTime": 1695652485184,
+  "endTime": 1695655114505,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1488877,
+      "num": 1110707,
+      "word": "学生刺杀操失误给领导吓一身汗",
+      "onboard_time": 1695650559,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483931,
       "num": 1449965,
       "word": "韩国队战胜中国香港队",
@@ -147,11 +155,11 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1110707,
-      "num": 1110707,
-      "word": "学生刺杀操失误给领导吓一身汗",
-      "onboard_time": 1695650559,
-      "rank": 12,
+      "raw_hot": 1096229,
+      "num": 530289,
+      "word": "长沙一小区疑发生液化气爆炸",
+      "onboard_time": 1695652959,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -361,6 +369,14 @@
       "onboard_time": 1695613835,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 797298,
+      "num": 797298,
+      "word": "王楚钦 教练没有错信你",
+      "onboard_time": 1695650918,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 792052,
@@ -619,14 +635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 544749,
-      "num": 544749,
-      "word": "王楚钦 教练没有错信你",
-      "onboard_time": 1695650918,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 543617,
       "num": 543617,
       "word": "王牌对王牌",
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509649,
+      "num": 509649,
+      "word": "郑恺回应把前任拍成铁饭碗",
+      "onboard_time": 1695654880,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 508331,
       "num": 508331,
       "word": "胡兵跑着跟谷爱凌合影",
@@ -753,6 +769,14 @@
       "onboard_time": 1695617743,
       "rank": 22,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 483534,
+      "num": 354972,
+      "word": "汪顺回应自己颜值震惊全网",
+      "onboard_time": 1695652062,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 483497,
@@ -1243,6 +1267,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 296871,
+      "num": 232470,
+      "word": "这才是正确的洗澡顺序",
+      "onboard_time": 1695651940,
+      "rank": 29,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 295773,
       "num": 527977,
       "word": "15岁中国小将滑板碗池摘金",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1695618342,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285476,
+      "num": 285476,
+      "word": "开门大吉",
+      "onboard_time": 1695652480,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 281675,
@@ -1451,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261061,
-      "num": 232109,
-      "word": "汪顺回应自己颜值震惊全网",
-      "onboard_time": 1695652062,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 260504,
       "num": 260504,
       "word": "韩国男团3比0伊朗男团",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1695619296,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232470,
-      "num": 232470,
-      "word": "这才是正确的洗澡顺序",
-      "onboard_time": 1695651940,
-      "rank": 29,
-      "category": "知识科普"
     },
     {
       "raw_hot": 232009,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1695614674,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198659,
+      "num": 198659,
+      "word": "九义人",
+      "onboard_time": 1695653382,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 198304,
@@ -2283,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164656,
+      "num": 164656,
+      "word": "江喜实锤卫明侵吞公款",
+      "onboard_time": 1695654999,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163783,
       "num": 229675,
       "word": "为什么这届亚运会非看不可",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1695604717,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157906,
+      "num": 295781,
+      "word": "华为这波赢麻了",
+      "onboard_time": 1695651159,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 157663,
@@ -2483,12 +2531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149130,
+      "num": 149130,
+      "word": "48岁丘索维金娜站上亚运舞台",
+      "onboard_time": 1695654700,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147170,
       "num": 841244,
       "word": "女交警指挥交通举手投足让人安全感满满",
       "onboard_time": 1695637714,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146559,
+      "num": 146559,
+      "word": "封神群名叫干就完了",
+      "onboard_time": 1695654160,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 146477,
@@ -2553,6 +2617,14 @@
       "onboard_time": 1695643714,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140374,
+      "num": 140374,
+      "word": "这么小的世界冠军头一次见",
+      "onboard_time": 1695654398,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 140097,
@@ -3024,14 +3096,6 @@
       "word": "华为发布多款遥遥领先",
       "onboard_time": 1695640356,
       "rank": 39,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 37810,
-      "num": 295781,
-      "word": "华为这波赢麻了",
-      "onboard_time": 1695651159,
-      "rank": 41,
       "category": "数码"
     },
     {
