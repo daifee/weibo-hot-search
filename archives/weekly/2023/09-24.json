@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695609302659,
+  "endTime": 1695611840310,
   "band_list": [
     {
       "raw_hot": 2498308,
@@ -113,6 +113,14 @@
       "onboard_time": 1695529891,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1449965,
+      "num": 1449965,
+      "word": "韩国队战胜中国香港队",
+      "onboard_time": 1695608488,
+      "rank": 30,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 1436968,
@@ -321,6 +329,14 @@
       "onboard_time": 1695516450,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 955938,
+      "num": 955938,
+      "word": "很多女爱豆被大白脸韩妆耽误了",
+      "onboard_time": 1695608791,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 950326,
@@ -627,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 689123,
+      "num": 689123,
+      "word": "北京一火锅店销毁2吨临期羊蝎子",
+      "onboard_time": 1695607891,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688291,
       "num": 528981,
       "word": "马斯克不断公开恳求名人推特发帖",
@@ -747,12 +771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 647823,
+      "num": 460319,
+      "word": "宁泽涛 第一个游进48秒的亚洲人",
+      "onboard_time": 1695608311,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646248,
       "num": 646248,
       "word": "叙利亚出场全场欢呼",
       "onboard_time": 1695475781,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 644578,
+      "num": 644578,
+      "word": "封神训练营定档",
+      "onboard_time": 1695610770,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 643329,
@@ -771,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 635522,
-      "num": 448671,
-      "word": "韩国队战胜中国香港队",
-      "onboard_time": 1695608488,
-      "rank": 30,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 634095,
       "num": 608922,
       "word": "王者荣耀项目 转播",
@@ -793,6 +825,14 @@
       "onboard_time": 1695605011,
       "rank": 16,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 625825,
+      "num": 379034,
+      "word": "实测苹果无法用华为充电器",
+      "onboard_time": 1695609031,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 624985,
@@ -1035,14 +1075,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 482466,
-      "num": 405856,
-      "word": "宁泽涛 第一个游进48秒的亚洲人",
-      "onboard_time": 1695608311,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 481008,
       "num": 772792,
       "word": "成都坐车到北京未来可能仅需90分钟",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1695568058,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 456607,
-      "num": 180841,
-      "word": "很多女爱豆被大白脸韩妆耽误了",
-      "onboard_time": 1695608791,
-      "rank": 30,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 456271,
@@ -1297,14 +1321,6 @@
       "onboard_time": 1695565061,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 394329,
-      "num": 394329,
-      "word": "北京一火锅店销毁2吨临期羊蝎子",
-      "onboard_time": 1695607891,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386405,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1695558095,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336275,
+      "num": 336275,
+      "word": "田曦薇去看了周杰伦演唱会",
+      "onboard_time": 1695609092,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 336150,
@@ -1780,7 +1804,7 @@
     },
     {
       "raw_hot": 279546,
-      "num": 423994,
+      "num": 496784,
       "word": "工人日报灵魂三问预制菜",
       "onboard_time": 1695603216,
       "rank": 13,
@@ -1939,6 +1963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262317,
+      "num": 262317,
+      "word": "存量首套房贷利率今起下调",
+      "onboard_time": 1695608972,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 261585,
       "num": 261585,
       "word": "国足亚运队半场0射正",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1695521011,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245891,
+      "num": 245891,
+      "word": "这周只要上4天班",
+      "onboard_time": 1695609516,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 245790,
@@ -2240,14 +2280,6 @@
       "word": "董宇辉去周杰伦演唱会圆青春的梦",
       "onboard_time": 1695480639,
       "rank": 29,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 227383,
-      "num": 227383,
-      "word": "田曦薇去看了周杰伦演唱会",
-      "onboard_time": 1695609092,
-      "rank": 25,
       "category": "演出"
     },
     {
@@ -2417,6 +2449,14 @@
       "onboard_time": 1695568717,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210574,
+      "num": 210574,
+      "word": "第一批iPhone要不要买",
+      "onboard_time": 1695611193,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 210284,
@@ -2635,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196589,
+      "num": 196589,
+      "word": "消防推荐官黄景瑜",
+      "onboard_time": 1695610892,
+      "rank": 30,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 196290,
       "num": 196290,
       "word": "国足亚运队vs孟加拉国",
@@ -2803,6 +2851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183621,
+      "num": 183621,
+      "word": "Jennie金智秀成立个人工作室",
+      "onboard_time": 1695611611,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182183,
       "num": 182183,
       "word": "张远嘉宾巡回演唱会",
@@ -2875,20 +2931,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 168893,
-      "num": 168893,
-      "word": "存量首套房贷利率今起下调",
-      "onboard_time": 1695608972,
-      "rank": 33,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 167737,
       "num": 167737,
       "word": "曾黎三次欧洲封面妆造变化",
       "onboard_time": 1695527912,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167695,
+      "num": 167695,
+      "word": "张远王栎鑫同台飙高音",
+      "onboard_time": 1695611131,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 167344,
@@ -2905,6 +2961,14 @@
       "onboard_time": 1695539131,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165304,
+      "num": 165304,
+      "word": "凡人修仙传凡人不凡海报",
+      "onboard_time": 1695609810,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 164630,
@@ -2977,14 +3041,6 @@
       "onboard_time": 1695604955,
       "rank": 41,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 160990,
-      "num": 160990,
-      "word": "实测苹果无法用华为充电器",
-      "onboard_time": 1695609031,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 160474,
@@ -3091,6 +3147,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 154528,
+      "num": 150762,
+      "word": "凡人修仙传定妆花絮",
+      "onboard_time": 1695611372,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154178,
       "num": 154178,
       "word": "唐钱婷50米蛙金牌",
@@ -3185,6 +3249,14 @@
       "onboard_time": 1695470915,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148786,
+      "num": 443105,
+      "word": "中科大校长称科研不能只靠执着",
+      "onboard_time": 1695611010,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 147746,
@@ -3603,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99822,
+      "num": 99822,
+      "word": "杨丞琳成都",
+      "onboard_time": 1695611671,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99060,
       "num": 99060,
       "word": "宝石 披哥的后台欢声笑语",
@@ -3801,6 +3881,14 @@
       "onboard_time": 1695575782,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32544,
+      "num": 981678,
+      "word": "北京网络视听艺术大会",
+      "onboard_time": 1695611071,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 31192,
