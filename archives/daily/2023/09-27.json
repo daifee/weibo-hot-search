@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695762905964,
+  "endTime": 1695764044482,
   "band_list": [
     {
       "raw_hot": 2033790,
@@ -531,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27142,
+      "num": 27142,
+      "word": "住建局回应女子被保安踩脚下",
+      "onboard_time": 1695762553,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22390,
       "num": 22390,
       "word": "王哲林",
@@ -548,14 +556,14 @@
     },
     {
       "raw_hot": 13887,
-      "num": 15719,
+      "num": 15966,
       "word": "李鑫一看林俊杰演唱会哭了",
       "onboard_time": 1695760334,
       "rank": 45,
       "category": "演出"
     },
     {
-      "raw_hot": 12892,
+      "raw_hot": 13071,
       "num": 16920,
       "word": "王者项目拿下首金",
       "onboard_time": 1695731739,
