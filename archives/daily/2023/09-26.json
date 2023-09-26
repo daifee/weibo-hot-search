@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695710138173,
+  "endTime": 1695712561704,
   "band_list": [
     {
       "raw_hot": 7971090,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 893092,
+      "num": 893092,
+      "word": "被叙利亚第一夫人圈粉了",
+      "onboard_time": 1695709956,
+      "rank": 47,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 857652,
       "num": 857652,
       "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733926,
+      "num": 395037,
+      "word": "勇敢的姑娘 性教育",
+      "onboard_time": 1695709836,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 724052,
       "num": 639731,
       "word": "学生刺杀操失误给领导吓一身汗",
@@ -273,6 +289,14 @@
       "onboard_time": 1695695433,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 626068,
+      "num": 626068,
+      "word": "孙颖莎3比1早田希娜",
+      "onboard_time": 1695711515,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 621919,
@@ -404,11 +428,19 @@
     },
     {
       "raw_hot": 493754,
-      "num": 375745,
+      "num": 393095,
       "word": "龚俊穿了裙子",
       "onboard_time": 1695706955,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 493676,
+      "num": 493676,
+      "word": "害怕马琳的暂停",
+      "onboard_time": 1695712055,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 486794,
@@ -483,11 +515,27 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 426835,
+      "num": 426835,
+      "word": "许光汉要演韩剧了",
+      "onboard_time": 1695707559,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418527,
       "num": 418527,
       "word": "三倍工资你愿意加班吗",
       "onboard_time": 1695691713,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393029,
+      "num": 393029,
+      "word": "成都航空回应航班因一乘客消失清舱",
+      "onboard_time": 1695710254,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -553,14 +601,6 @@
       "onboard_time": 1695626619,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 331210,
-      "num": 331210,
-      "word": "许光汉要演韩剧了",
-      "onboard_time": 1695707559,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 330531,
@@ -675,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290589,
-      "num": 207210,
-      "word": "勇敢的姑娘 性教育",
-      "onboard_time": 1695709836,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289567,
       "num": 218375,
       "word": "鞠婧祎三套造型反差感",
@@ -731,20 +763,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 276360,
+      "num": 276360,
+      "word": "女子想见领导被3名保安踩在脚下",
+      "onboard_time": 1695708098,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274255,
       "num": 271531,
       "word": "白鹿巴黎时装周出发造型",
       "onboard_time": 1695704797,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 270528,
-      "num": 270528,
-      "word": "女子想见领导被3名保安踩在脚下",
-      "onboard_time": 1695708098,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267321,
@@ -875,12 +907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227109,
+      "num": 205953,
+      "word": "10岁男童将体温计插入尿道不慎折断",
+      "onboard_time": 1695712236,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226103,
       "num": 226103,
       "word": "比利时漫展外国女生cos异人之下",
       "onboard_time": 1695698737,
       "rank": 27,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 225405,
+      "num": 225405,
+      "word": "2.5亿年后所有的美好或都将结束",
+      "onboard_time": 1695711216,
+      "rank": 27,
+      "category": "知识科普"
     },
     {
       "raw_hot": 219336,
@@ -1051,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187486,
+      "num": 187486,
+      "word": "吴宣仪银丝虎纹国风裙",
+      "onboard_time": 1695711994,
+      "rank": 32,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 186564,
       "num": 186564,
       "word": "刘诗诗怼脸哭戏",
@@ -1163,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171182,
+      "num": 394657,
+      "word": "守边45年护边员离岗前亲吻界碑",
+      "onboard_time": 1695712175,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169640,
       "num": 169640,
       "word": "邓为智族GQ栏目我的十件",
@@ -1243,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157145,
+      "num": 157145,
+      "word": "贾一凡夺冠后想听汪苏泷演唱会",
+      "onboard_time": 1695712475,
+      "rank": 36,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 156377,
       "num": 156377,
       "word": "孙颖莎2比0领先",
@@ -1299,6 +1371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150340,
+      "num": 150340,
+      "word": "有点急事立马去趟杭州",
+      "onboard_time": 1695711937,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147619,
       "num": 147619,
       "word": "孟佳看JJ演唱会偶遇林允",
@@ -1315,6 +1395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144594,
+      "num": 144594,
+      "word": "上海关心你 沪cares you",
+      "onboard_time": 1695712475,
+      "rank": 40,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 143641,
       "num": 143641,
       "word": "济南国资平台甩卖1341套现房",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1695699754,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139671,
+      "num": 139671,
+      "word": "国乒女团决赛现场放周杰伦龙卷风",
+      "onboard_time": 1695711575,
+      "rank": 41,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 138922,
@@ -1348,11 +1444,19 @@
     },
     {
       "raw_hot": 136496,
-      "num": 207217,
+      "num": 394307,
       "word": "中国台北队的主场氛围感",
       "onboard_time": 1695709896,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134602,
+      "num": 134602,
+      "word": "张小斐又姐又狗",
+      "onboard_time": 1695712417,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 133931,
@@ -1387,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128343,
+      "num": 128343,
+      "word": "王者吕布敦煌新皮肤",
+      "onboard_time": 1695711816,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127690,
       "num": 127690,
       "word": "伊能静秦霄贤演我听八卦",
@@ -1401,14 +1513,6 @@
       "onboard_time": 1695708937,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122395,
-      "num": 122395,
-      "word": "被叙利亚第一夫人圈粉了",
-      "onboard_time": 1695709956,
-      "rank": 47,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 122234,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1695663739,
       "rank": 30,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 53635,
+      "num": 393971,
+      "word": "张之臻首进亚运会八强",
+      "onboard_time": 1695711636,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 52249,
