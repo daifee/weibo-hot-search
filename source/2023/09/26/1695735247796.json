@@ -1,0 +1,410 @@
+{
+  "runTime": 1695735247796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6943337,
+        "num": 6943337,
+        "word": "郑爽被判赔偿投资方6000万元",
+        "onboard_time": 1695732642,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2014140,
+        "num": 2014140,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57889,
+        "num": 1306479,
+        "word": "国庆大花篮祝福祖国繁荣昌盛",
+        "onboard_time": 1695715594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045555,
+        "num": 1045555,
+        "word": "国乒亚运会男团8连冠",
+        "onboard_time": 1695733724,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1026535,
+        "num": 1026535,
+        "word": "周深 握不完根本握不完",
+        "onboard_time": 1695731499,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 894393,
+        "num": 894393,
+        "word": "国乒男团完胜韩国队",
+        "onboard_time": 1695733424,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786470,
+        "num": 786470,
+        "word": "DIOR大秀",
+        "onboard_time": 1695733365,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 657700,
+        "num": 657700,
+        "word": "孙杨",
+        "onboard_time": 1695731258,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560666,
+        "num": 560666,
+        "word": "龙队巴黎见",
+        "onboard_time": 1695734384,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552264,
+        "num": 552264,
+        "word": "王者项目中国队零封马来队",
+        "onboard_time": 1695729517,
+        "rank": 9,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 184111,
+        "num": 552250,
+        "word": "王者项目拿下首金",
+        "onboard_time": 1695731739,
+        "rank": 10,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 2150558,
+        "num": 551007,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1571698,
+        "num": 549862,
+        "word": "张杰谢娜丝婚照",
+        "onboard_time": 1695724960,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288503,
+        "num": 549246,
+        "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+        "onboard_time": 1695719495,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 65688,
+        "num": 547999,
+        "word": "尼山到底是个什么山",
+        "onboard_time": 1695733247,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547955,
+        "num": 547955,
+        "word": "马龙 我是如此相信",
+        "onboard_time": 1695733664,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1396965,
+        "num": 545618,
+        "word": "金智秀造型",
+        "onboard_time": 1695733002,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 988467,
+        "num": 535417,
+        "word": "男子上班浏览色情网站被解雇索赔30万",
+        "onboard_time": 1695719795,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684197,
+        "num": 533111,
+        "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+        "onboard_time": 1695725017,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480594,
+        "num": 524342,
+        "word": "马龙vs朴康贤",
+        "onboard_time": 1695732700,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638352,
+        "num": 517036,
+        "word": "迪丽热巴烟熏妆",
+        "onboard_time": 1695727297,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515200,
+        "num": 515200,
+        "word": "韩国选手摔倒后全场送鼓励",
+        "onboard_time": 1695733482,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501334,
+        "num": 501334,
+        "word": "压力给到LOL",
+        "onboard_time": 1695733306,
+        "rank": 22,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 448704,
+        "num": 448704,
+        "word": "孙颖莎没有隔夜仇",
+        "onboard_time": 1695732457,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441787,
+        "num": 441787,
+        "word": "情侣租房跑路留满床血渍遍地垃圾",
+        "onboard_time": 1695730845,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 593618,
+        "num": 434486,
+        "word": "迪丽热巴捧花浅笑",
+        "onboard_time": 1695733002,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 426985,
+        "num": 426985,
+        "word": "樊振东vs安宰贤",
+        "onboard_time": 1695729579,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422382,
+        "num": 422382,
+        "word": "性缘脑比恋爱脑还可怕吗",
+        "onboard_time": 1695727116,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414267,
+        "num": 414267,
+        "word": "马龙3比0朴康贤",
+        "onboard_time": 1695733184,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401206,
+        "num": 401206,
+        "word": "中国队拿下亚运电竞项目首金",
+        "onboard_time": 1695730117,
+        "rank": 29,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 336474,
+        "num": 336474,
+        "word": "贺峻霖offer5认真得仿佛上课",
+        "onboard_time": 1695734503,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324100,
+        "num": 324100,
+        "word": "王俊凯巴黎时装周造型",
+        "onboard_time": 1695733783,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 321809,
+        "num": 321809,
+        "word": "躺着听时代少年团的躺着真舒服",
+        "onboard_time": 1695734924,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305207,
+        "num": 305207,
+        "word": "迪奥二零二四春夏成衣秀",
+        "onboard_time": 1695724960,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300844,
+        "num": 300844,
+        "word": "比许幻山还洪世贤的男人出现了",
+        "onboard_time": 1695723215,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298112,
+        "num": 298112,
+        "word": "王者项目颁奖仪式",
+        "onboard_time": 1695731618,
+        "rank": 35,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 316999,
+        "num": 295682,
+        "word": "王俊凯又当老板又当翻译",
+        "onboard_time": 1695728375,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290377,
+        "num": 290377,
+        "word": "谢娜新综艺",
+        "onboard_time": 1695729642,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286814,
+        "num": 286814,
+        "word": "中国男篮vs蒙古男篮",
+        "onboard_time": 1695732278,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275325,
+        "num": 275325,
+        "word": "中国男排vs伊朗男排",
+        "onboard_time": 1695730538,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261121,
+        "num": 261121,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239876,
+        "num": 239876,
+        "word": "林恒",
+        "onboard_time": 1695732945,
+        "rank": 41,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 238186,
+        "num": 238186,
+        "word": "巨蟹座真分手都是断崖式的",
+        "onboard_time": 1695726339,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 230273,
+        "num": 230273,
+        "word": "徐必成金牌射手",
+        "onboard_time": 1695729940,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219651,
+        "num": 219651,
+        "word": "微博音乐盛典",
+        "onboard_time": 1695721655,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208227,
+        "num": 208227,
+        "word": "黄明昊祝贺一诺亚运夺冠",
+        "onboard_time": 1695734627,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 206037,
+        "num": 206037,
+        "word": "罗思源金牌打野",
+        "onboard_time": 1695734565,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 202215,
+        "num": 202215,
+        "word": "永远可以相信中国乒乓",
+        "onboard_time": 1695735164,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198474,
+        "num": 198474,
+        "word": "微博音乐盛典荣誉名单",
+        "onboard_time": 1695733062,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188021,
+        "num": 188021,
+        "word": "打野的尽头是罗思源",
+        "onboard_time": 1695734203,
+        "rank": 49,
+        "category": "游戏,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#期待更多土特产为乡村发展赢得满堂彩#"
+    }
+  }
+}
