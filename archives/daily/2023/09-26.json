@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695717321291,
+  "endTime": 1695719833882,
   "band_list": [
     {
       "raw_hot": 7971090,
@@ -83,6 +83,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1545491,
+      "num": 1545491,
+      "word": "被叙利亚第一夫人圈粉了",
+      "onboard_time": 1695709956,
+      "rank": 47,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1523321,
+      "num": 1523321,
+      "word": "国乒女团横扫日本",
+      "onboard_time": 1695718776,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1511374,
       "num": 400300,
       "word": "韩女不生的原因找到了",
@@ -97,6 +113,30 @@
       "onboard_time": 1695700776,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1337308,
+      "num": 1337308,
+      "word": "袁记云饺被曝是预制菜",
+      "onboard_time": 1695717756,
+      "rank": 3,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1334032,
+      "num": 1334032,
+      "word": "RAIN被诉涉嫌85亿房产诈骗",
+      "onboard_time": 1695716555,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1244925,
+      "num": 1244925,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1695717036,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1098471,
@@ -115,20 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1048208,
-      "num": 1176738,
-      "word": "被叙利亚第一夫人圈粉了",
-      "onboard_time": 1695709956,
-      "rank": 47,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 1035324,
       "num": 1035324,
       "word": "我有一个朋友 不想让它糊的剧",
       "onboard_time": 1695692672,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 958969,
+      "num": 564914,
+      "word": "江西一国企领导称要取消周末",
+      "onboard_time": 1695714514,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 889155,
@@ -177,6 +217,14 @@
       "onboard_time": 1695703299,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807299,
+      "num": 562929,
+      "word": "张本美和才15岁",
+      "onboard_time": 1695718716,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 788741,
@@ -264,14 +312,6 @@
       "word": "学生刺杀操失误给领导吓一身汗",
       "onboard_time": 1695650559,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 721510,
-      "num": 475832,
-      "word": "江西一国企领导称要取消周末",
-      "onboard_time": 1695714514,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -379,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 612702,
-      "num": 465699,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1695717036,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 600470,
       "num": 600470,
       "word": "亚运女团决赛国乒vs日本",
@@ -403,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 569140,
-      "num": 459897,
-      "word": "RAIN被诉涉嫌85亿房产诈骗",
-      "onboard_time": 1695716555,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 568381,
+      "num": 568381,
+      "word": "陈梦3比2平野美宇",
+      "onboard_time": 1695715835,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 565214,
@@ -467,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532105,
+      "num": 532105,
+      "word": "微博音乐盛典红毯",
+      "onboard_time": 1695714935,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 514512,
       "num": 514512,
       "word": "夺3金的浙江姑娘黄雨婷还在读高二",
@@ -481,14 +521,6 @@
       "onboard_time": 1695696693,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 508860,
-      "num": 453205,
-      "word": "陈梦3比2平野美宇",
-      "onboard_time": 1695715835,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 506182,
@@ -515,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498032,
+      "num": 498032,
+      "word": "魏大勋WSJ",
+      "onboard_time": 1695718237,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 493754,
       "num": 393095,
       "word": "龚俊穿了裙子",
       "onboard_time": 1695706955,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 489840,
+      "num": 489840,
+      "word": "张本美和 张本智和",
+      "onboard_time": 1695718716,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 486794,
@@ -619,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398105,
+      "num": 398105,
+      "word": "李莎旻子主持功底",
+      "onboard_time": 1695717455,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397173,
       "num": 397173,
       "word": "吴易昺",
@@ -659,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 368581,
+      "num": 368581,
+      "word": "黄景瑜什么都夹只会害了你",
+      "onboard_time": 1695718114,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365495,
       "num": 365495,
       "word": "孙杨回应明年是否重返赛场",
@@ -683,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354936,
+      "num": 354936,
+      "word": "异人之下老人给小孩在家换血",
+      "onboard_time": 1695717636,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345731,
       "num": 190463,
       "word": "女子做手术1年暴瘦70斤成九级伤残",
       "onboard_time": 1695657332,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338796,
+      "num": 540403,
+      "word": "陈梦的圆梦项链",
+      "onboard_time": 1695717333,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 336732,
@@ -715,8 +795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323105,
-      "num": 323105,
+      "raw_hot": 327397,
+      "num": 327397,
       "word": "逆水寒",
       "onboard_time": 1695716195,
       "rank": 36,
@@ -737,6 +817,14 @@
       "onboard_time": 1695691053,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 315265,
+      "num": 315265,
+      "word": "王曼昱3比1张本美和",
+      "onboard_time": 1695719376,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 314276,
@@ -777,14 +865,6 @@
       "onboard_time": 1695614977,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307669,
-      "num": 307669,
-      "word": "微博音乐盛典红毯",
-      "onboard_time": 1695714935,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 306037,
@@ -923,6 +1003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 277709,
+      "num": 277709,
+      "word": "猫被鱼扇了一巴掌",
+      "onboard_time": 1695717333,
+      "rank": 26,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 274255,
       "num": 271531,
       "word": "白鹿巴黎时装周出发造型",
@@ -977,6 +1065,14 @@
       "onboard_time": 1695700296,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260619,
+      "num": 260619,
+      "word": "孙颖莎为队友加油撞脸花花",
+      "onboard_time": 1695719016,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 257122,
@@ -1043,6 +1139,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 234612,
+      "num": 234612,
+      "word": "芭莎拍的檀健次",
+      "onboard_time": 1695719136,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 233403,
       "num": 233403,
       "word": "白敬亭全新单曲",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1695692314,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231445,
+      "num": 231445,
+      "word": "希林娜依高红毯拔河",
+      "onboard_time": 1695719376,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229835,
@@ -1587,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154370,
+      "num": 154370,
+      "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+      "onboard_time": 1695719495,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 154171,
       "num": 154171,
       "word": "夜色尚浅采访不顾大家死活",
@@ -1747,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136167,
+      "num": 136167,
+      "word": "成都调整住房限购措施",
+      "onboard_time": 1695719673,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "美商务部将10家中企列入实体清单",
@@ -1777,6 +1905,14 @@
       "onboard_time": 1695695670,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130193,
+      "num": 130193,
+      "word": "男子上班浏览色情网站被解雇索赔30万",
+      "onboard_time": 1695719795,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129605,
@@ -2011,6 +2147,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 93107,
+      "num": 1425739,
+      "word": "国庆大花篮祝福祖国繁荣昌盛",
+      "onboard_time": 1695715594,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92398,
       "num": 442739,
       "word": "谷爱凌米兰大秀全纪录",
@@ -2024,14 +2168,6 @@
       "word": "男子悉心照顾病妻23年不言弃",
       "onboard_time": 1695709417,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89685,
-      "num": 1176691,
-      "word": "国庆大花篮祝福祖国繁荣昌盛",
-      "onboard_time": 1695715594,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2231,6 +2367,9 @@
     },
     {
       "word": "#期待更多土特产为乡村发展赢得满堂彩#"
+    },
+    {
+      "word": "#携手构建人类命运共同体白皮书#"
     }
   ]
 }
