@@ -1,0 +1,410 @@
+{
+  "runTime": 1695717321291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967591,
+        "num": 1176738,
+        "word": "被叙利亚第一夫人圈粉了",
+        "onboard_time": 1695709956,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1627067,
+        "num": 1100253,
+        "word": "挖呀挖黄老师开启直播带货",
+        "onboard_time": 1695705159,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89685,
+        "num": 983814,
+        "word": "国庆大花篮祝福祖国繁荣昌盛",
+        "onboard_time": 1695715594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2715494,
+        "num": 960992,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889155,
+        "num": 889155,
+        "word": "陈梦状态",
+        "onboard_time": 1695715594,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 843872,
+        "num": 843872,
+        "word": "陈梦平野美宇决胜局",
+        "onboard_time": 1695715054,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 807300,
+        "num": 807300,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748289,
+        "num": 748289,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638098,
+        "num": 638098,
+        "word": "2.5亿年后所有的美好或都将结束",
+        "onboard_time": 1695711216,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 479597,
+        "num": 479597,
+        "word": "冯宝宝与张楚岚",
+        "onboard_time": 1695713916,
+        "rank": 9,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 1561092,
+        "num": 478781,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721510,
+        "num": 475832,
+        "word": "江西一国企领导称要取消周末",
+        "onboard_time": 1695714514,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256527,
+        "num": 473057,
+        "word": "幼儿园老师给孩子们表演变脸",
+        "onboard_time": 1695714935,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224346,
+        "num": 472289,
+        "word": "陈戌源被提起公诉",
+        "onboard_time": 1695716195,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58112,
+        "num": 469962,
+        "word": "十一假期健康旅行家",
+        "onboard_time": 1695715234,
+        "rank": 14,
+        "category": "健康医疗,旅游"
+      },
+      {
+        "raw_hot": 684917,
+        "num": 467292,
+        "word": "勇敢的姑娘 性教育",
+        "onboard_time": 1695709836,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612702,
+        "num": 465699,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1695717036,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589355,
+        "num": 463433,
+        "word": "害怕马琳的暂停",
+        "onboard_time": 1695712055,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569140,
+        "num": 459897,
+        "word": "RAIN被诉涉嫌85亿房产诈骗",
+        "onboard_time": 1695716555,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533078,
+        "num": 457372,
+        "word": "男子要微信被拒殴打2女孩致流血",
+        "onboard_time": 1695703299,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512071,
+        "num": 455491,
+        "word": "10岁男童将体温计插入尿道不慎折断",
+        "onboard_time": 1695712236,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508860,
+        "num": 453205,
+        "word": "陈梦3比2平野美宇",
+        "onboard_time": 1695715835,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452052,
+        "num": 452052,
+        "word": "虞书欣否极泰来物极必反BGM",
+        "onboard_time": 1695715234,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397173,
+        "num": 397173,
+        "word": "吴易昺",
+        "onboard_time": 1695715234,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380925,
+        "num": 380925,
+        "word": "邓为GQ十月刊大片",
+        "onboard_time": 1695716555,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333996,
+        "num": 333996,
+        "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+        "onboard_time": 1695700776,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323105,
+        "num": 323105,
+        "word": "逆水寒",
+        "onboard_time": 1695716195,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311310,
+        "num": 311310,
+        "word": "关键分擦网",
+        "onboard_time": 1695715538,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310817,
+        "num": 310817,
+        "word": "龚俊穿了裙子",
+        "onboard_time": 1695706955,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302649,
+        "num": 302649,
+        "word": "王者项目决赛",
+        "onboard_time": 1695714514,
+        "rank": 29,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 293109,
+        "num": 293109,
+        "word": "袁记云饺回应被指是预制菜",
+        "onboard_time": 1695715417,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289824,
+        "num": 289824,
+        "word": "毛不易将缺席后续活动",
+        "onboard_time": 1695697113,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286270,
+        "num": 286270,
+        "word": "上海关心你 沪cares you",
+        "onboard_time": 1695712475,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 281482,
+        "num": 281482,
+        "word": "微博音乐盛典红毯",
+        "onboard_time": 1695714935,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270579,
+        "num": 270579,
+        "word": "离婚排不上号",
+        "onboard_time": 1695697474,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269834,
+        "num": 269834,
+        "word": "北京中考改革政策发布",
+        "onboard_time": 1695715899,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 239840,
+        "num": 239840,
+        "word": "许光汉要演韩剧了",
+        "onboard_time": 1695707559,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218357,
+        "num": 218357,
+        "word": "训诫不是处置小学生被极端欺辱终点",
+        "onboard_time": 1695716496,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190394,
+        "num": 190394,
+        "word": "王濛现场观战国乒女团",
+        "onboard_time": 1695716134,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186363,
+        "num": 186363,
+        "word": "亚运女团决赛国乒vs日本",
+        "onboard_time": 1695707800,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176246,
+        "num": 176246,
+        "word": "长大后就逐渐变成了你的样子",
+        "onboard_time": 1695716916,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173063,
+        "num": 173063,
+        "word": "成都航空回应航班因一乘客消失清舱",
+        "onboard_time": 1695710254,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172233,
+        "num": 172233,
+        "word": "邓亚萍回应女乒11比0",
+        "onboard_time": 1695713439,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169860,
+        "num": 169860,
+        "word": "前任4",
+        "onboard_time": 1695716794,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163708,
+        "num": 163708,
+        "word": "山西修订未成年人保护条例",
+        "onboard_time": 1695715054,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158731,
+        "num": 158731,
+        "word": "魏如萱上海 秒罄",
+        "onboard_time": 1695714815,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154171,
+        "num": 154171,
+        "word": "夜色尚浅采访不顾大家死活",
+        "onboard_time": 1695716436,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153710,
+        "num": 153710,
+        "word": "吴易昺无缘亚运会八强",
+        "onboard_time": 1695717214,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149004,
+        "num": 149004,
+        "word": "王乐君昔日采访聊摔倒视频",
+        "onboard_time": 1695716374,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144367,
+        "num": 144367,
+        "word": "孙颖莎3比1早田希娜",
+        "onboard_time": 1695711515,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

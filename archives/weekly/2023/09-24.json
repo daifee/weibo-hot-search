@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695716543684,
+  "endTime": 1695717321291,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -48,6 +48,14 @@
       "word": "调休不如适当增加和延长假期",
       "onboard_time": 1695687997,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2715494,
+      "num": 1453164,
+      "word": "性教育专家谈大同校园性欺凌事件",
+      "onboard_time": 1695704975,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1695530674,
       "rank": 0,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 2032143,
-      "num": 1453164,
-      "word": "性教育专家谈大同校园性欺凌事件",
-      "onboard_time": 1695704975,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2018860,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 1048208,
-      "num": 1048208,
+      "num": 1176738,
       "word": "被叙利亚第一夫人圈粉了",
       "onboard_time": 1695709956,
       "rank": 47,
@@ -721,6 +721,14 @@
       "onboard_time": 1695559357,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 889155,
+      "num": 889155,
+      "word": "陈梦状态",
+      "onboard_time": 1695715594,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 888932,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 780888,
-      "num": 358548,
+      "num": 455491,
       "word": "10岁男童将体温计插入尿道不慎折断",
       "onboard_time": 1695712236,
       "rank": 30,
@@ -1083,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 748289,
+      "num": 748289,
+      "word": "人民网评大同未成年人欺凌事件",
+      "onboard_time": 1695715715,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747959,
       "num": 411490,
       "word": "韩红亲了林俊杰左脸",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1695654880,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 721510,
+      "num": 475832,
+      "word": "江西一国企领导称要取消周末",
+      "onboard_time": 1695714514,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719906,
@@ -1547,6 +1571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 612702,
+      "num": 465699,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1695717036,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611790,
       "num": 611790,
       "word": "魏大勋称清华学子未来的老板",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1695521431,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569140,
+      "num": 459897,
+      "word": "RAIN被诉涉嫌85亿房产诈骗",
+      "onboard_time": 1695716555,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 568314,
@@ -1867,14 +1907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531124,
-      "num": 531124,
-      "word": "陈梦状态",
-      "onboard_time": 1695715594,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 529272,
       "num": 405695,
       "word": "虞书欣喻言合照",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1695622114,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 520435,
-      "num": 520435,
-      "word": "人民网评大同未成年人欺凌事件",
-      "onboard_time": 1695715715,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519706,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1695696693,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508860,
+      "num": 453205,
+      "word": "陈梦3比2平野美宇",
+      "onboard_time": 1695715835,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 508537,
@@ -2299,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452052,
+      "num": 452052,
+      "word": "虞书欣否极泰来物极必反BGM",
+      "onboard_time": 1695715234,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449113,
       "num": 449113,
       "word": "中国男排vs日本男排",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1695698253,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 448624,
-      "num": 448624,
-      "word": "虞书欣否极泰来物极必反BGM",
-      "onboard_time": 1695715234,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 447762,
@@ -2392,14 +2424,6 @@
       "word": "大妈洗衣服发现水池里有1只鳄鱼",
       "onboard_time": 1695560197,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436359,
-      "num": 436359,
-      "word": "江西一国企领导称要取消周末",
-      "onboard_time": 1695714514,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -2547,6 +2571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 397173,
+      "num": 397173,
+      "word": "吴易昺",
+      "onboard_time": 1695715234,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394026,
       "num": 473857,
       "word": "退休外交官夫妇山区支教9年",
@@ -2619,20 +2651,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 380925,
+      "num": 380925,
+      "word": "邓为GQ十月刊大片",
+      "onboard_time": 1695716555,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 380814,
       "num": 338451,
       "word": "舅舅染黄发接2年级外甥放学被嫌弃",
       "onboard_time": 1695646596,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378749,
-      "num": 378749,
-      "word": "吴易昺",
-      "onboard_time": 1695715234,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 378615,
@@ -3043,6 +3075,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 323105,
+      "num": 323105,
+      "word": "逆水寒",
+      "onboard_time": 1695716195,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323034,
       "num": 323034,
       "word": "AVAVAV会搞事 没穿好衣服就走秀",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1695704619,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311310,
+      "num": 311310,
+      "word": "关键分擦网",
+      "onboard_time": 1695715538,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 311181,
@@ -3371,6 +3419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 293109,
+      "num": 293109,
+      "word": "袁记云饺回应被指是预制菜",
+      "onboard_time": 1695715417,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292360,
       "num": 276360,
       "word": "女子想见领导被3名保安踩在脚下",
@@ -3435,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286270,
+      "num": 286270,
+      "word": "上海关心你 沪cares you",
+      "onboard_time": 1695712475,
+      "rank": 40,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 286028,
       "num": 286028,
       "word": "于适被道具划伤是费翔老师先提起的",
@@ -3465,14 +3529,6 @@
       "onboard_time": 1695652480,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285340,
-      "num": 285340,
-      "word": "上海关心你 沪cares you",
-      "onboard_time": 1695712475,
-      "rank": 40,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 283655,
@@ -3561,14 +3617,6 @@
       "onboard_time": 1695603216,
       "rank": 13,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 279389,
-      "num": 279389,
-      "word": "关键分擦网",
-      "onboard_time": 1695715538,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 278712,
@@ -3731,6 +3779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269834,
+      "num": 269834,
+      "word": "北京中考改革政策发布",
+      "onboard_time": 1695715899,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 267321,
       "num": 267321,
       "word": "我感觉他是个明星啊",
@@ -3843,14 +3899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260896,
-      "num": 260896,
-      "word": "袁记云饺回应被指是预制菜",
-      "onboard_time": 1695715417,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260504,
       "num": 260504,
       "word": "韩国男团3比0伊朗男团",
@@ -3921,14 +3969,6 @@
       "onboard_time": 1695532832,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 258076,
-      "num": 258076,
-      "word": "陈梦3比2平野美宇",
-      "onboard_time": 1695715835,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 256344,
@@ -4129,14 +4169,6 @@
       "onboard_time": 1695525393,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241902,
-      "num": 241902,
-      "word": "北京中考改革政策发布",
-      "onboard_time": 1695715899,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 241158,
@@ -4379,6 +4411,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 224346,
+      "num": 472289,
+      "word": "陈戌源被提起公诉",
+      "onboard_time": 1695716195,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224178,
       "num": 224178,
       "word": "情侣是最好的旅游饭搭子",
@@ -4456,6 +4496,14 @@
       "word": "晚高峰骑警开道护送断脚男子就医",
       "onboard_time": 1695651518,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218357,
+      "num": 218357,
+      "word": "训诫不是处置小学生被极端欺辱终点",
+      "onboard_time": 1695716496,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4699,28 +4747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209675,
-      "num": 209675,
-      "word": "逆水寒",
-      "onboard_time": 1695716195,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 209549,
       "num": 209549,
       "word": "霹雳舞首次入亚",
       "onboard_time": 1695612273,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209273,
-      "num": 361781,
-      "word": "陈戌源被提起公诉",
-      "onboard_time": 1695716195,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209042,
@@ -5739,6 +5771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176246,
+      "num": 176246,
+      "word": "长大后就逐渐变成了你的样子",
+      "onboard_time": 1695716916,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176078,
       "num": 176078,
       "word": "退役军人33年在沙漠种出3万亩绿洲",
@@ -5857,6 +5897,14 @@
       "onboard_time": 1695599916,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169860,
+      "num": 169860,
+      "word": "前任4",
+      "onboard_time": 1695716794,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 169640,
@@ -6299,12 +6347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154171,
+      "num": 154171,
+      "word": "夜色尚浅采访不顾大家死活",
+      "onboard_time": 1695716436,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153862,
       "num": 153862,
       "word": "卫明不止有小三还有小四",
       "onboard_time": 1695684687,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153710,
+      "num": 153710,
+      "word": "吴易昺无缘亚运会八强",
+      "onboard_time": 1695717214,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153596,
@@ -6377,14 +6441,6 @@
       "onboard_time": 1695626740,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151381,
-      "num": 151381,
-      "word": "夜色尚浅采访不顾大家死活",
-      "onboard_time": 1695716436,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151281,
@@ -6601,14 +6657,6 @@
       "onboard_time": 1695540033,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143548,
-      "num": 143548,
-      "word": "训诫不是处置小学生被极端欺辱终点",
-      "onboard_time": 1695716496,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143541,
@@ -7403,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89685,
+      "num": 1176691,
+      "word": "国庆大花篮祝福祖国繁荣昌盛",
+      "onboard_time": 1695715594,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89302,
       "num": 89302,
       "word": "中国游泳队太牛了",
@@ -7416,14 +7472,6 @@
       "word": "国庆出行先看差评",
       "onboard_time": 1695614437,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87350,
-      "num": 1176691,
-      "word": "国庆大花篮祝福祖国繁荣昌盛",
-      "onboard_time": 1695715594,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -7627,6 +7675,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 58112,
+      "num": 473150,
+      "word": "十一假期健康旅行家",
+      "onboard_time": 1695715234,
+      "rank": 14,
+      "category": "健康医疗,旅游"
+    },
+    {
       "raw_hot": 57425,
       "num": 369723,
       "word": "折叠屏的时尚感被荣耀拿捏了",
@@ -7729,14 +7785,6 @@
       "onboard_time": 1695580936,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40974,
-      "num": 473150,
-      "word": "十一假期健康旅行家",
-      "onboard_time": 1695715234,
-      "rank": 14,
-      "category": "健康医疗,旅游"
     },
     {
       "raw_hot": 39270,

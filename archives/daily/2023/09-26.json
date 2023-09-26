@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695716543684,
+  "endTime": 1695717321291,
   "band_list": [
     {
       "raw_hot": 7971090,
@@ -24,6 +24,14 @@
       "word": "调休不如适当增加和延长假期",
       "onboard_time": 1695687997,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2715494,
+      "num": 1453164,
+      "word": "性教育专家谈大同校园性欺凌事件",
+      "onboard_time": 1695704975,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1695705159,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2032143,
-      "num": 1453164,
-      "word": "性教育专家谈大同校园性欺凌事件",
-      "onboard_time": 1695704975,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2018860,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1048208,
-      "num": 1048208,
+      "num": 1176738,
       "word": "被叙利亚第一夫人圈粉了",
       "onboard_time": 1695709956,
       "rank": 47,
@@ -129,6 +129,14 @@
       "onboard_time": 1695692672,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 889155,
+      "num": 889155,
+      "word": "陈梦状态",
+      "onboard_time": 1695715594,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 857652,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 780888,
-      "num": 358548,
+      "num": 455491,
       "word": "10岁男童将体温计插入尿道不慎折断",
       "onboard_time": 1695712236,
       "rank": 30,
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 748289,
+      "num": 748289,
+      "word": "人民网评大同未成年人欺凌事件",
+      "onboard_time": 1695715715,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733926,
       "num": 498509,
       "word": "勇敢的姑娘 性教育",
@@ -248,6 +264,14 @@
       "word": "学生刺杀操失误给领导吓一身汗",
       "onboard_time": 1695650559,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721510,
+      "num": 475832,
+      "word": "江西一国企领导称要取消周末",
+      "onboard_time": 1695714514,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 612702,
+      "num": 465699,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1695717036,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600470,
       "num": 600470,
       "word": "亚运女团决赛国乒vs日本",
@@ -369,6 +401,14 @@
       "onboard_time": 1695691236,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 569140,
+      "num": 459897,
+      "word": "RAIN被诉涉嫌85亿房产诈骗",
+      "onboard_time": 1695716555,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 565214,
@@ -427,22 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531124,
-      "num": 531124,
-      "word": "陈梦状态",
-      "onboard_time": 1695715594,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 520435,
-      "num": 520435,
-      "word": "人民网评大同未成年人欺凌事件",
-      "onboard_time": 1695715715,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514512,
       "num": 514512,
       "word": "夺3金的浙江姑娘黄雨婷还在读高二",
@@ -457,6 +481,14 @@
       "onboard_time": 1695696693,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508860,
+      "num": 453205,
+      "word": "陈梦3比2平野美宇",
+      "onboard_time": 1695715835,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 506182,
@@ -531,20 +563,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452052,
+      "num": 452052,
+      "word": "虞书欣否极泰来物极必反BGM",
+      "onboard_time": 1695715234,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 448930,
       "num": 448930,
       "word": "虞书欣巴黎时装周造型",
       "onboard_time": 1695698253,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 448624,
-      "num": 448624,
-      "word": "虞书欣否极泰来物极必反BGM",
-      "onboard_time": 1695715234,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 447762,
@@ -579,20 +611,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 436359,
-      "num": 436359,
-      "word": "江西一国企领导称要取消周末",
-      "onboard_time": 1695714514,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418527,
       "num": 418527,
       "word": "三倍工资你愿意加班吗",
       "onboard_time": 1695691713,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397173,
+      "num": 397173,
+      "word": "吴易昺",
+      "onboard_time": 1695715234,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 393029,
@@ -611,12 +643,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 378749,
-      "num": 378749,
-      "word": "吴易昺",
-      "onboard_time": 1695715234,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 380925,
+      "num": 380925,
+      "word": "邓为GQ十月刊大片",
+      "onboard_time": 1695716555,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 370929,
@@ -683,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323105,
+      "num": 323105,
+      "word": "逆水寒",
+      "onboard_time": 1695716195,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317126,
       "num": 317126,
       "word": "ChatGPT王炸级别的更新 多模态功能",
@@ -721,6 +761,14 @@
       "onboard_time": 1695704619,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311310,
+      "num": 311310,
+      "word": "关键分擦网",
+      "onboard_time": 1695715538,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 308384,
@@ -803,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293109,
+      "num": 293109,
+      "word": "袁记云饺回应被指是预制菜",
+      "onboard_time": 1695715417,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292360,
       "num": 276360,
       "word": "女子想见领导被3名保安踩在脚下",
@@ -827,8 +883,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285340,
-      "num": 285340,
+      "raw_hot": 286270,
+      "num": 286270,
       "word": "上海关心你 沪cares you",
       "onboard_time": 1695712475,
       "rank": 40,
@@ -859,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279389,
-      "num": 279389,
-      "word": "关键分擦网",
-      "onboard_time": 1695715538,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278712,
       "num": 278712,
       "word": "第一次见会骂人的月饼",
@@ -881,6 +929,14 @@
       "onboard_time": 1695704797,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 269834,
+      "num": 269834,
+      "word": "北京中考改革政策发布",
+      "onboard_time": 1695715899,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 267321,
@@ -923,22 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260896,
-      "num": 260896,
-      "word": "袁记云饺回应被指是预制菜",
-      "onboard_time": 1695715417,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258076,
-      "num": 258076,
-      "word": "陈梦3比2平野美宇",
-      "onboard_time": 1695715835,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257122,
       "num": 212437,
       "word": "九月的工资千万不要乱花",
@@ -977,14 +1017,6 @@
       "onboard_time": 1695708219,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 241902,
-      "num": 241902,
-      "word": "北京中考改革政策发布",
-      "onboard_time": 1695715899,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 236735,
@@ -1067,6 +1099,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 224346,
+      "num": 472289,
+      "word": "陈戌源被提起公诉",
+      "onboard_time": 1695716195,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219336,
       "num": 219336,
       "word": "王楚钦 教练没有错信你",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1695707678,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218357,
+      "num": 218357,
+      "word": "训诫不是处置小学生被极端欺辱终点",
+      "onboard_time": 1695716496,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218157,
@@ -1129,22 +1177,6 @@
       "onboard_time": 1695690692,
       "rank": 49,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 209675,
-      "num": 209675,
-      "word": "逆水寒",
-      "onboard_time": 1695716195,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 209273,
-      "num": 361781,
-      "word": "陈戌源被提起公诉",
-      "onboard_time": 1695716195,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206894,
@@ -1379,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176246,
+      "num": 176246,
+      "word": "长大后就逐渐变成了你的样子",
+      "onboard_time": 1695716916,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174567,
       "num": 174567,
       "word": "敖子逸为亚运会中国国家队加油",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1695712175,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169860,
+      "num": 169860,
+      "word": "前任4",
+      "onboard_time": 1695716794,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 169640,
@@ -1539,12 +1587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154171,
+      "num": 154171,
+      "word": "夜色尚浅采访不顾大家死活",
+      "onboard_time": 1695716436,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153862,
       "num": 153862,
       "word": "卫明不止有小三还有小四",
       "onboard_time": 1695684687,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153710,
+      "num": 153710,
+      "word": "吴易昺无缘亚运会八强",
+      "onboard_time": 1695717214,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153394,
@@ -1585,14 +1649,6 @@
       "onboard_time": 1695649179,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 151381,
-      "num": 151381,
-      "word": "夜色尚浅采访不顾大家死活",
-      "onboard_time": 1695716436,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150977,
@@ -1648,14 +1704,6 @@
       "word": "济南国资平台甩卖1341套现房",
       "onboard_time": 1695671594,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143548,
-      "num": 143548,
-      "word": "训诫不是处置小学生被极端欺辱终点",
-      "onboard_time": 1695716496,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1979,7 +2027,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87350,
+      "raw_hot": 89685,
       "num": 1176691,
       "word": "国庆大花篮祝福祖国繁荣昌盛",
       "onboard_time": 1695715594,
@@ -2043,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58112,
+      "num": 473150,
+      "word": "十一假期健康旅行家",
+      "onboard_time": 1695715234,
+      "rank": 14,
+      "category": "健康医疗,旅游"
+    },
+    {
       "raw_hot": 57425,
       "num": 369723,
       "word": "折叠屏的时尚感被荣耀拿捏了",
@@ -2081,14 +2137,6 @@
       "onboard_time": 1695664398,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40974,
-      "num": 473150,
-      "word": "十一假期健康旅行家",
-      "onboard_time": 1695715234,
-      "rank": 14,
-      "category": "健康医疗,旅游"
     },
     {
       "raw_hot": 36812,
