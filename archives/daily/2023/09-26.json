@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695691958622,
+  "endTime": 1695695016519,
   "band_list": [
     {
       "raw_hot": 2724216,
@@ -8,6 +8,14 @@
       "word": "调休不如适当增加和延长假期",
       "onboard_time": 1695687997,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2434809,
+      "num": 2434809,
+      "word": "680元民宿被平台悄悄调成国庆2780",
+      "onboard_time": 1695688536,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -20,19 +28,11 @@
     },
     {
       "raw_hot": 1511374,
-      "num": 246538,
+      "num": 362837,
       "word": "韩女不生的原因找到了",
       "onboard_time": 1695655655,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1438746,
-      "num": 1438746,
-      "word": "680元民宿被平台悄悄调成国庆2780",
-      "onboard_time": 1695688536,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1055211,
@@ -41,6 +41,14 @@
       "onboard_time": 1695684687,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849256,
+      "num": 849256,
+      "word": "我有一个朋友 不想让它糊的剧",
+      "onboard_time": 1695692672,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 782776,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 763381,
-      "num": 336704,
+      "num": 427587,
       "word": "昆虫虫卵进入尿道结论有待商榷",
       "onboard_time": 1695688116,
       "rank": 10,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577753,
+      "num": 435782,
+      "word": "霍启刚 亚运会宿舍roomtour",
+      "onboard_time": 1695693094,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548137,
       "num": 548137,
       "word": "女明星第一次去欧美时装周看秀造型图",
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 547517,
-      "num": 244195,
+      "num": 250727,
       "word": "上班人跳绳一个月瘦了12斤",
       "onboard_time": 1695656136,
       "rank": 21,
@@ -115,11 +131,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538127,
+      "num": 538127,
+      "word": "女子未察觉蛋盒阴燃塞冰箱浓烟四起",
+      "onboard_time": 1695690275,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533954,
       "num": 533954,
       "word": "长相思第二季能预约了",
       "onboard_time": 1695655896,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 502851,
+      "num": 502851,
+      "word": "是慎儿下的毒吗",
+      "onboard_time": 1695691236,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -131,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486794,
+      "num": 486794,
+      "word": "一个饺子进嘴爸爸和女儿都泪崩了",
+      "onboard_time": 1695692314,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476290,
       "num": 205092,
       "word": "娱记喊话张鲁一",
       "onboard_time": 1695656377,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463445,
+      "num": 463445,
+      "word": "父母染上网瘾了怎么办",
+      "onboard_time": 1695692672,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463177,
@@ -163,6 +211,46 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445438,
+      "num": 445438,
+      "word": "魏大勋 我在十三年前扮演过岸青",
+      "onboard_time": 1695693573,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 439886,
+      "num": 439886,
+      "word": "这身材谁看了不迷糊",
+      "onboard_time": 1695693094,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 427473,
+      "num": 427473,
+      "word": "首批iPhone15Pro或有大量瑕疵机",
+      "onboard_time": 1695693753,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 412352,
+      "num": 359848,
+      "word": "三倍工资你愿意加班吗",
+      "onboard_time": 1695691713,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409224,
+      "num": 409224,
+      "word": "杨玏小时候一天吃十袋奶",
+      "onboard_time": 1695693934,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370929,
       "num": 370929,
       "word": "郑恺回应把前任拍成铁饭碗",
@@ -177,6 +265,14 @@
       "onboard_time": 1695659069,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 354026,
+      "num": 354026,
+      "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
+      "onboard_time": 1695694114,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 345731,
@@ -203,16 +299,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 329301,
-      "num": 307630,
-      "word": "女子未察觉蛋盒阴燃塞冰箱浓烟四起",
-      "onboard_time": 1695690275,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315911,
-      "num": 168746,
+      "num": 184777,
       "word": "封神妲己邓婵玉福州同框",
       "onboard_time": 1695691053,
       "rank": 30,
@@ -224,14 +312,6 @@
       "word": "张嘉倪每句台词都扎在恋爱脑心上",
       "onboard_time": 1695657692,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 312954,
-      "num": 307303,
-      "word": "是慎儿下的毒吗",
-      "onboard_time": 1695691236,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -273,6 +353,30 @@
       "onboard_time": 1695657092,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 283655,
+      "num": 283655,
+      "word": "大熊猫洗澡越洗越上头",
+      "onboard_time": 1695692372,
+      "rank": 24,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 282329,
+      "num": 433633,
+      "word": "李在明拄拐杖出庭受审",
+      "onboard_time": 1695692314,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 279586,
+      "num": 279586,
+      "word": "于和伟 今天这楼有点扫乱了",
+      "onboard_time": 1695693333,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 278712,
@@ -339,6 +443,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232730,
+      "num": 232730,
+      "word": "清华教授称消费不是刺激出来的",
+      "onboard_time": 1695692314,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229028,
+      "num": 229028,
+      "word": "有中国公民被骗至韩国济州",
+      "onboard_time": 1695694292,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227265,
       "num": 179423,
       "word": "想吃这棵树上的枣比中彩票还难",
@@ -377,6 +497,22 @@
       "onboard_time": 1695690692,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 206894,
+      "num": 206894,
+      "word": "iPhone15精织斜纹保护壳被吐槽一团糟",
+      "onboard_time": 1695692854,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 196486,
+      "num": 196486,
+      "word": "成毅 手控福利",
+      "onboard_time": 1695694232,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 195438,
@@ -547,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143149,
-      "num": 143149,
-      "word": "三倍工资你愿意加班吗",
-      "onboard_time": 1695691713,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138922,
       "num": 138922,
       "word": "国际版玉真公主",
@@ -577,6 +705,14 @@
       "onboard_time": 1695621575,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127690,
+      "num": 127690,
+      "word": "伊能静秦霄贤演我听八卦",
+      "onboard_time": 1695693633,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 122234,
@@ -619,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116734,
+      "num": 116734,
+      "word": "48岁丘妈稳稳落地跳进决赛",
+      "onboard_time": 1695692495,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115691,
       "num": 115691,
       "word": "女子拄拐登机所有乘客耐心等待",
@@ -657,6 +801,14 @@
       "onboard_time": 1695647136,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105090,
+      "num": 105090,
+      "word": "孙颖莎赢球观众欢呼队友波澜不惊",
+      "onboard_time": 1695693392,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 104810,
@@ -809,6 +961,14 @@
       "onboard_time": 1695645274,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 28277,
+      "num": 430639,
+      "word": "第九届尼山世界文明论坛",
+      "onboard_time": 1695693633,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28100,
