@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695702837633,
+  "endTime": 1695705360671,
   "band_list": [
     {
       "raw_hot": 3549026,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2285081,
+      "num": 2285081,
+      "word": "大同通报未成年人欺凌事件调查情况",
+      "onboard_time": 1695702399,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2018860,
       "num": 565929,
       "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
@@ -67,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1445073,
+      "num": 470025,
+      "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+      "onboard_time": 1695700776,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055211,
       "num": 1055211,
       "word": "58岁头婚新郎接亲42岁新娘",
@@ -83,14 +99,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 903438,
-      "num": 470025,
-      "word": "女子收6.6万彩礼不愿领证男方起诉退还",
-      "onboard_time": 1695700776,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 857652,
       "num": 857652,
       "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
@@ -99,8 +107,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841432,
+      "num": 841432,
+      "word": "蜜雪冰城部分饮品涨价1元",
+      "onboard_time": 1695702881,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 824581,
-      "num": 451900,
+      "num": 736015,
       "word": "霍震霆霍启刚霍启山现身亚运游泳赛场",
       "onboard_time": 1695700473,
       "rank": 16,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778765,
+      "num": 778765,
+      "word": "结婚和一辈子恋爱有什么区别",
+      "onboard_time": 1695700054,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 770554,
       "num": 770554,
       "word": "华为回应充电器不支持iPhone15",
@@ -155,11 +179,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 736597,
+      "num": 484189,
+      "word": "男子要微信被拒殴打2女孩致流血",
+      "onboard_time": 1695703299,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724052,
       "num": 639731,
       "word": "学生刺杀操失误给领导吓一身汗",
       "onboard_time": 1695650559,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717928,
+      "num": 717928,
+      "word": "大同2名小学生欺凌同学被训诫",
+      "onboard_time": 1695702999,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -169,14 +209,6 @@
       "onboard_time": 1695693094,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 695541,
-      "num": 695541,
-      "word": "结婚和一辈子恋爱有什么区别",
-      "onboard_time": 1695700054,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 695242,
@@ -233,6 +265,14 @@
       "onboard_time": 1695693934,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 618116,
+      "num": 618116,
+      "word": "00后盛李豪黄雨婷联手夺金",
+      "onboard_time": 1695703240,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 616361,
@@ -313,6 +353,14 @@
       "onboard_time": 1695646718,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498057,
+      "num": 498057,
+      "word": "解除大同大成双语学校校长职务",
+      "onboard_time": 1695702763,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486794,
@@ -587,6 +635,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 274255,
+      "num": 269637,
+      "word": "白鹿巴黎时装周出发造型",
+      "onboard_time": 1695704797,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266773,
+      "num": 266773,
+      "word": "offer首次引入KPI考核决定薪资",
+      "onboard_time": 1695702941,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265386,
       "num": 265386,
       "word": "这么小的世界冠军头一次见",
@@ -603,8 +667,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257403,
-      "num": 257403,
+      "raw_hot": 260433,
+      "num": 260433,
       "word": "我感觉他是个明星啊",
       "onboard_time": 1695701979,
       "rank": 49,
@@ -635,6 +699,14 @@
       "category": "国内要闻,动物萌宠"
     },
     {
+      "raw_hot": 236735,
+      "num": 236735,
+      "word": "女子嫌潜水不过瘾腰绑铅块沉海底",
+      "onboard_time": 1695702399,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236382,
       "num": 218283,
       "word": "张晚意问长相思为什么会有演唱会",
@@ -659,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233388,
+      "num": 233388,
+      "word": "夺3金的浙江姑娘黄雨婷还在读高二",
+      "onboard_time": 1695705159,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232730,
       "num": 232730,
       "word": "清华教授称消费不是刺激出来的",
@@ -673,6 +753,14 @@
       "onboard_time": 1695699274,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228183,
+      "num": 228183,
+      "word": "性教育专家谈大同校园性欺凌事件",
+      "onboard_time": 1695704975,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227265,
@@ -739,12 +827,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 209100,
+      "num": 209100,
+      "word": "乘客登机后不见人飞机全面清仓",
+      "onboard_time": 1695704619,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206894,
       "num": 206894,
       "word": "iPhone15精织斜纹保护壳被吐槽一团糟",
       "onboard_time": 1695692854,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 204566,
+      "num": 204566,
+      "word": "挖呀挖黄老师开启直播带货",
+      "onboard_time": 1695705159,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 202521,
@@ -819,12 +923,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187533,
-      "num": 187533,
-      "word": "解除大同大成双语学校校长职务",
-      "onboard_time": 1695702763,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 186564,
+      "num": 186564,
+      "word": "刘诗诗怼脸哭戏",
+      "onboard_time": 1695703417,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 186358,
@@ -833,6 +937,22 @@
       "onboard_time": 1695700895,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185795,
+      "num": 185795,
+      "word": "森林进化论",
+      "onboard_time": 1695703360,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183968,
+      "num": 189092,
+      "word": "星穹铁道藿藿",
+      "onboard_time": 1695704619,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 181892,
@@ -883,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174352,
+      "num": 174352,
+      "word": "樊振东王楚钦有多依赖马龙",
+      "onboard_time": 1695702339,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173896,
       "num": 173896,
       "word": "吴磊都生不出这么像的",
@@ -891,12 +1019,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173629,
-      "num": 173629,
-      "word": "樊振东王楚钦有多依赖马龙",
-      "onboard_time": 1695702339,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 173856,
+      "num": 173856,
+      "word": "宝宝被爸爸说脸圆后秒变脸",
+      "onboard_time": 1695704261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169640,
@@ -936,14 +1064,6 @@
       "word": "AI能把小白打造成网红博主吗",
       "onboard_time": 1695698796,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162849,
-      "num": 162849,
-      "word": "女子嫌潜水不过瘾腰绑铅块沉海底",
-      "onboard_time": 1695702399,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1387,20 +1507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26791,
+      "num": 989051,
+      "word": "推进交通互联互通促进可持续发展共赢",
+      "onboard_time": 1695699936,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22352,
       "num": 27403,
       "word": "马龙乒乓神操作看呆众人",
       "onboard_time": 1695668535,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20639,
-      "num": 989051,
-      "word": "推进交通互联互通促进可持续发展共赢",
-      "onboard_time": 1695699936,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20036,
