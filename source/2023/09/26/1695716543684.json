@@ -1,0 +1,410 @@
+{
+  "runTime": 1695716543684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769143,
+        "num": 1769143,
+        "word": "挖呀挖黄老师开启直播带货",
+        "onboard_time": 1695705159,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2032143,
+        "num": 1453164,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87350,
+        "num": 1176691,
+        "word": "国庆大花篮祝福祖国繁荣昌盛",
+        "onboard_time": 1695715594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098471,
+        "num": 1098471,
+        "word": "陈梦平野美宇决胜局",
+        "onboard_time": 1695715054,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1048208,
+        "num": 1048208,
+        "word": "被叙利亚第一夫人圈粉了",
+        "onboard_time": 1695709956,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 830141,
+        "num": 830141,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656383,
+        "num": 656383,
+        "word": "2.5亿年后所有的美好或都将结束",
+        "onboard_time": 1695711216,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 543048,
+        "num": 543048,
+        "word": "冯宝宝与张楚岚",
+        "onboard_time": 1695713916,
+        "rank": 7,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 531124,
+        "num": 531124,
+        "word": "陈梦状态",
+        "onboard_time": 1695715594,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520435,
+        "num": 520435,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2460573,
+        "num": 513971,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710845,
+        "num": 498509,
+        "word": "勇敢的姑娘 性教育",
+        "onboard_time": 1695709836,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590721,
+        "num": 496898,
+        "word": "害怕马琳的暂停",
+        "onboard_time": 1695712055,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265497,
+        "num": 478674,
+        "word": "幼儿园老师给孩子们表演变脸",
+        "onboard_time": 1695714935,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40974,
+        "num": 473150,
+        "word": "十一假期健康旅行家",
+        "onboard_time": 1695715234,
+        "rank": 14,
+        "category": "健康医疗,旅游"
+      },
+      {
+        "raw_hot": 464811,
+        "num": 464811,
+        "word": "男子要微信被拒殴打2女孩致流血",
+        "onboard_time": 1695703299,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448624,
+        "num": 448624,
+        "word": "虞书欣否极泰来物极必反BGM",
+        "onboard_time": 1695715234,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436359,
+        "num": 436359,
+        "word": "江西一国企领导称要取消周末",
+        "onboard_time": 1695714514,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378749,
+        "num": 378749,
+        "word": "吴易昺",
+        "onboard_time": 1695715234,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209273,
+        "num": 361781,
+        "word": "陈戌源被提起公诉",
+        "onboard_time": 1695716195,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581440,
+        "num": 358548,
+        "word": "10岁男童将体温计插入尿道不慎折断",
+        "onboard_time": 1695712236,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347656,
+        "num": 347656,
+        "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+        "onboard_time": 1695700776,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326635,
+        "num": 326635,
+        "word": "龚俊穿了裙子",
+        "onboard_time": 1695706955,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320002,
+        "num": 320002,
+        "word": "离婚排不上号",
+        "onboard_time": 1695697474,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311438,
+        "num": 311438,
+        "word": "许光汉要演韩剧了",
+        "onboard_time": 1695707559,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307669,
+        "num": 307669,
+        "word": "微博音乐盛典红毯",
+        "onboard_time": 1695714935,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303898,
+        "num": 303898,
+        "word": "王者项目决赛",
+        "onboard_time": 1695714514,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 285340,
+        "num": 285340,
+        "word": "上海关心你 沪cares you",
+        "onboard_time": 1695712475,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 279389,
+        "num": 279389,
+        "word": "关键分擦网",
+        "onboard_time": 1695715538,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278670,
+        "num": 278670,
+        "word": "毛不易将缺席后续活动",
+        "onboard_time": 1695697113,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260896,
+        "num": 260896,
+        "word": "袁记云饺回应被指是预制菜",
+        "onboard_time": 1695715417,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258076,
+        "num": 258076,
+        "word": "陈梦3比2平野美宇",
+        "onboard_time": 1695715835,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241902,
+        "num": 241902,
+        "word": "北京中考改革政策发布",
+        "onboard_time": 1695715899,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 233464,
+        "num": 233464,
+        "word": "成都航空回应航班因一乘客消失清舱",
+        "onboard_time": 1695710254,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229835,
+        "num": 229835,
+        "word": "魏如萱上海 秒罄",
+        "onboard_time": 1695714815,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211072,
+        "num": 211072,
+        "word": "亚运女团决赛国乒vs日本",
+        "onboard_time": 1695707800,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209675,
+        "num": 209675,
+        "word": "逆水寒",
+        "onboard_time": 1695716195,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204861,
+        "num": 204861,
+        "word": "王濛现场观战国乒女团",
+        "onboard_time": 1695716134,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200538,
+        "num": 200538,
+        "word": "孙颖莎3比1早田希娜",
+        "onboard_time": 1695711515,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191979,
+        "num": 191979,
+        "word": "微博音乐盛典直播",
+        "onboard_time": 1695715835,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150977,
+        "num": 187147,
+        "word": "中国台北队的主场氛围感",
+        "onboard_time": 1695709896,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183408,
+        "num": 183408,
+        "word": "李玫瑾谈遇到校园欺凌该怎么办",
+        "onboard_time": 1695715296,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179452,
+        "num": 179452,
+        "word": "山西修订未成年人保护条例",
+        "onboard_time": 1695715054,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176619,
+        "num": 176619,
+        "word": "邓亚萍回应女乒11比0",
+        "onboard_time": 1695713439,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174567,
+        "num": 174567,
+        "word": "敖子逸为亚运会中国国家队加油",
+        "onboard_time": 1695714995,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151381,
+        "num": 151381,
+        "word": "夜色尚浅采访不顾大家死活",
+        "onboard_time": 1695716436,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149632,
+        "num": 149632,
+        "word": "王乐君昔日采访聊摔倒视频",
+        "onboard_time": 1695716374,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143548,
+        "num": 143548,
+        "word": "训诫不是处置小学生被极端欺辱终点",
+        "onboard_time": 1695716496,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141609,
+        "num": 141609,
+        "word": "结婚和一辈子恋爱有什么区别",
+        "onboard_time": 1695700054,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137242,
+        "num": 137242,
+        "word": "江西建工回应设计院院长称要取消周末",
+        "onboard_time": 1695713495,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
