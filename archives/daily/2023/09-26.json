@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695737816059,
+  "endTime": 1695738934904,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -105,6 +105,14 @@
       "onboard_time": 1695688536,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2349904,
+      "num": 2349904,
+      "word": "蜜雪冰城涨价",
+      "onboard_time": 1695736305,
+      "rank": 1,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 2292258,
@@ -219,6 +227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1236554,
+      "num": 928038,
+      "word": "谁家恋综敢这么亲啊",
+      "onboard_time": 1695735583,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1220212,
+      "num": 393170,
+      "word": "迪丽热巴王俊凯同框",
+      "onboard_time": 1695738645,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1182814,
       "num": 1182814,
       "word": "中国队拿下亚运电竞项目首金",
@@ -235,14 +259,6 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 1144168,
-      "num": 928038,
-      "word": "谁家恋综敢这么亲啊",
-      "onboard_time": 1695735583,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1137273,
       "num": 620658,
       "word": "迪丽热巴烟熏妆",
@@ -257,14 +273,6 @@
       "onboard_time": 1695731499,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1113112,
-      "num": 1113112,
-      "word": "蜜雪冰城涨价",
-      "onboard_time": 1695736305,
-      "rank": 1,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 1098471,
@@ -425,6 +433,14 @@
       "onboard_time": 1695703299,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 796206,
+      "num": 458214,
+      "word": "黑长直是王子文的开关",
+      "onboard_time": 1695736602,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 788741,
@@ -755,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 551772,
-      "num": 458214,
-      "word": "黑长直是王子文的开关",
-      "onboard_time": 1695736602,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 548137,
       "num": 548137,
       "word": "女明星第一次去欧美时装周看秀造型图",
@@ -841,6 +849,14 @@
       "onboard_time": 1695720276,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 523548,
+      "num": 523548,
+      "word": "范丞丞怎么也没想到上个综艺还要赔钱",
+      "onboard_time": 1695737204,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 521401,
@@ -979,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475288,
-      "num": 475288,
-      "word": "范丞丞怎么也没想到上个综艺还要赔钱",
-      "onboard_time": 1695737204,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 471559,
       "num": 471559,
       "word": "徐必成 公孙诺来了",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1695736242,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 449270,
+      "num": 449270,
+      "word": "林高远",
+      "onboard_time": 1695736122,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 448930,
@@ -1171,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387789,
+      "num": 387789,
+      "word": "金智秀待遇",
+      "onboard_time": 1695738524,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 386817,
       "num": 386817,
       "word": "伍佰 难抢",
@@ -1187,12 +1211,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 373890,
-      "num": 373890,
-      "word": "林高远",
-      "onboard_time": 1695736122,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 379816,
+      "num": 379816,
+      "word": "徐必成",
+      "onboard_time": 1695737746,
+      "rank": 48,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 372048,
@@ -1611,6 +1635,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 283786,
+      "num": 283786,
+      "word": "孙红雷起诉游戏声音这瓜保熟吗侵权",
+      "onboard_time": 1695738105,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283655,
       "num": 283655,
       "word": "大熊猫洗澡越洗越上头",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1695720338,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259108,
+      "num": 259108,
+      "word": "王楚钦领奖台闻花",
+      "onboard_time": 1695737325,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 257122,
@@ -2043,20 +2083,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 213485,
+      "num": 213485,
+      "word": "马龙时隔9年再夺亚运金牌",
+      "onboard_time": 1695736906,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212332,
       "num": 212332,
       "word": "黄仁俊 紧张小猫",
       "onboard_time": 1695723640,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211540,
-      "num": 211540,
-      "word": "王楚钦领奖台闻花",
-      "onboard_time": 1695737325,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 208227,
@@ -2131,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201973,
+      "num": 201973,
+      "word": "许嵩年度创作人",
+      "onboard_time": 1695737807,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200486,
       "num": 200486,
       "word": "花卷梓墨太强了",
@@ -2139,20 +2187,20 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 199226,
+      "num": 378545,
+      "word": "国乒女团采访像极了被点名的我",
+      "onboard_time": 1695738645,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198944,
       "num": 198944,
       "word": "KPL",
       "onboard_time": 1695731560,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198643,
-      "num": 198643,
-      "word": "马龙时隔9年再夺亚运金牌",
-      "onboard_time": 1695736906,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 197882,
@@ -2179,12 +2227,12 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 196650,
-      "num": 196650,
-      "word": "徐必成",
+      "raw_hot": 196690,
+      "num": 196690,
+      "word": "王俊凯黑色摩登西装",
       "onboard_time": 1695737746,
-      "rank": 48,
-      "category": "游戏,体育"
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196509,
@@ -2273,14 +2321,6 @@
       "onboard_time": 1695715835,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191601,
-      "num": 191601,
-      "word": "王俊凯黑色摩登西装",
-      "onboard_time": 1695737746,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191372,
@@ -3067,19 +3107,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102000,
+      "num": 930341,
+      "word": "亚运会bgm唱进心坎里",
+      "onboard_time": 1695735704,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101242,
       "num": 101242,
       "word": "中国剑客绝杀日本跪地怒吼",
       "onboard_time": 1695649235,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 100795,
-      "num": 930341,
-      "word": "亚运会bgm唱进心坎里",
-      "onboard_time": 1695735704,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -3227,6 +3267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58506,
+      "num": 451592,
+      "word": "亚运电竞手机又拿下一枚金牌",
+      "onboard_time": 1695736423,
+      "rank": 20,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 58112,
       "num": 473150,
       "word": "十一假期健康旅行家",
@@ -3291,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37604,
+      "num": 453800,
+      "word": "iQOO手机亚运电竞最强辅助",
+      "onboard_time": 1695735466,
+      "rank": 19,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 36812,
       "num": 52564,
       "word": "安宥真MV演技",
@@ -3307,14 +3363,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 34246,
-      "num": 451592,
-      "word": "亚运电竞手机又拿下一枚金牌",
-      "onboard_time": 1695736423,
-      "rank": 20,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 34018,
       "num": 430639,
       "word": "第九届尼山世界文明论坛",
@@ -3329,14 +3377,6 @@
       "onboard_time": 1695726041,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 28176,
-      "num": 453800,
-      "word": "iQOO手机亚运电竞最强辅助",
-      "onboard_time": 1695735466,
-      "rank": 19,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 28100,
