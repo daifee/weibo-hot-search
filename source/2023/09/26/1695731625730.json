@@ -1,0 +1,410 @@
+{
+  "runTime": 1695731625730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2980643,
+        "num": 2980643,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1925952,
+        "num": 1925952,
+        "word": "王者项目中国队零封马来队",
+        "onboard_time": 1695729517,
+        "rank": 1,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 52987,
+        "num": 1649120,
+        "word": "国庆大花篮祝福祖国繁荣昌盛",
+        "onboard_time": 1695715594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1397591,
+        "num": 1397591,
+        "word": "樊振东vs安宰贤",
+        "onboard_time": 1695729579,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1182814,
+        "num": 1182814,
+        "word": "中国队拿下亚运电竞项目首金",
+        "onboard_time": 1695730117,
+        "rank": 4,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 947638,
+        "num": 947638,
+        "word": "徐必成金牌射手",
+        "onboard_time": 1695729940,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 904637,
+        "num": 904637,
+        "word": "性缘脑比恋爱脑还可怕吗",
+        "onboard_time": 1695727116,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 712075,
+        "num": 712075,
+        "word": "谢娜新综艺",
+        "onboard_time": 1695729642,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 683330,
+        "num": 683330,
+        "word": "王俊凯又当老板又当翻译",
+        "onboard_time": 1695728375,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 633880,
+        "num": 633880,
+        "word": "王者荣耀项目",
+        "onboard_time": 1695727239,
+        "rank": 9,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 2764335,
+        "num": 633282,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 405658,
+        "num": 631970,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355027,
+        "num": 630412,
+        "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+        "onboard_time": 1695719495,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 152306,
+        "num": 628140,
+        "word": "孙颖莎为队友加油撞脸花花",
+        "onboard_time": 1695719016,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34932,
+        "num": 626485,
+        "word": "享受来自世界尼山的声音",
+        "onboard_time": 1695729642,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2072035,
+        "num": 623870,
+        "word": "张杰谢娜丝婚照",
+        "onboard_time": 1695724960,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1391735,
+        "num": 622900,
+        "word": "男子上班浏览色情网站被解雇索赔30万",
+        "onboard_time": 1695719795,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130623,
+        "num": 620658,
+        "word": "迪丽热巴烟熏妆",
+        "onboard_time": 1695727297,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 823749,
+        "num": 619413,
+        "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+        "onboard_time": 1695725017,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618366,
+        "num": 618366,
+        "word": "迪奥二零二四春夏成衣秀",
+        "onboard_time": 1695724960,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 485620,
+        "num": 485620,
+        "word": "王楚钦这球太燃了",
+        "onboard_time": 1695728917,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471559,
+        "num": 471559,
+        "word": "徐必成 公孙诺来了",
+        "onboard_time": 1695729699,
+        "rank": 21,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 471510,
+        "num": 471510,
+        "word": "中国男篮",
+        "onboard_time": 1695729699,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458287,
+        "num": 458287,
+        "word": "巨蟹座真分手都是断崖式的",
+        "onboard_time": 1695726339,
+        "rank": 23,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 349297,
+        "num": 349297,
+        "word": "男团决赛",
+        "onboard_time": 1695726458,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325039,
+        "num": 325039,
+        "word": "比许幻山还洪世贤的男人出现了",
+        "onboard_time": 1695723215,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314044,
+        "num": 314044,
+        "word": "长歌行全新预告",
+        "onboard_time": 1695725740,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 286992,
+        "num": 286992,
+        "word": "中国男排vs伊朗男排",
+        "onboard_time": 1695730538,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282791,
+        "num": 282791,
+        "word": "为什么薯片都是弯的",
+        "onboard_time": 1695728442,
+        "rank": 28,
+        "category": "知识科普,美食"
+      },
+      {
+        "raw_hot": 274837,
+        "num": 274837,
+        "word": "布瑞吉说有一年没登上热搜了",
+        "onboard_time": 1695731499,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 441243,
+        "num": 273892,
+        "word": "情侣租房跑路留满床血渍遍地垃圾",
+        "onboard_time": 1695730845,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 270708,
+        "num": 270708,
+        "word": "孙杨",
+        "onboard_time": 1695731258,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267093,
+        "num": 267093,
+        "word": "王楚钦vs林钟勋",
+        "onboard_time": 1695727657,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260107,
+        "num": 260107,
+        "word": "微博音乐盛典",
+        "onboard_time": 1695721655,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253678,
+        "num": 253678,
+        "word": "女子喂猫发现有人投喂10多斤重冻鱼",
+        "onboard_time": 1695725740,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252367,
+        "num": 252367,
+        "word": "Capper带猪上班",
+        "onboard_time": 1695730000,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249119,
+        "num": 249119,
+        "word": "罗思源",
+        "onboard_time": 1695726101,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215036,
+        "num": 215036,
+        "word": "孟佳黑色美人鱼造型",
+        "onboard_time": 1695730716,
+        "rank": 37,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 120915,
+        "num": 212452,
+        "word": "金声玉振打开视听盛宴的文明盲盒",
+        "onboard_time": 1695729400,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212347,
+        "num": 212347,
+        "word": "黄绮珊瘦了26斤",
+        "onboard_time": 1695720276,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210206,
+        "num": 210206,
+        "word": "周深 握不完根本握不完",
+        "onboard_time": 1695731499,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197288,
+        "num": 197288,
+        "word": "孙麟威",
+        "onboard_time": 1695731318,
+        "rank": 41,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 195008,
+        "num": 195008,
+        "word": "亚运会游泳",
+        "onboard_time": 1695731379,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193059,
+        "num": 193059,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191372,
+        "num": 191372,
+        "word": "钟辰乐黄仁俊互相彩虹屁",
+        "onboard_time": 1695731078,
+        "rank": 44,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 191316,
+        "num": 191316,
+        "word": "袁记云饺被曝是预制菜",
+        "onboard_time": 1695717756,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 184243,
+        "num": 184243,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182551,
+        "num": 182551,
+        "word": "RAIN被诉涉嫌85亿房产诈骗",
+        "onboard_time": 1695716555,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178090,
+        "num": 178090,
+        "word": "微博音乐盛典红毯",
+        "onboard_time": 1695714935,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176292,
+        "num": 176292,
+        "word": "KPL",
+        "onboard_time": 1695731560,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#期待更多土特产为乡村发展赢得满堂彩#"
+    }
+  }
+}
