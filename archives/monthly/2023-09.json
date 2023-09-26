@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695752533265,
+  "endTime": 1695753324023,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -65555,6 +65555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93041,
+      "num": 69149,
+      "word": "芒果的后期是懂复仇学的",
+      "onboard_time": 1695751758,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92997,
       "num": 1572791,
       "word": "丰收连连看",
@@ -66737,14 +66745,6 @@
       "onboard_time": 1694109498,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72581,
-      "num": 69149,
-      "word": "芒果的后期是懂复仇学的",
-      "onboard_time": 1695751758,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 72567,
