@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695695721770,
+  "endTime": 1695698251667,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1697343,
+      "num": 1697343,
+      "word": "毛不易将缺席后续活动",
+      "onboard_time": 1695697113,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1695506,
       "num": 1695506,
       "word": "马龙走了五分钟还在原地",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 1511374,
-      "num": 362837,
+      "num": 400300,
       "word": "韩女不生的原因找到了",
       "onboard_time": 1695655655,
       "rank": 20,
@@ -499,6 +507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1035324,
+      "num": 1035324,
+      "word": "我有一个朋友 不想让它糊的剧",
+      "onboard_time": 1695692672,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1029127,
       "num": 1029127,
       "word": "汪顺200米混金牌",
@@ -616,14 +632,6 @@
       "word": "张小斐看张嘉倪的眼神",
       "onboard_time": 1695625897,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 902013,
-      "num": 902013,
-      "word": "我有一个朋友 不想让它糊的剧",
-      "onboard_time": 1695692672,
-      "rank": 1,
       "category": "剧集"
     },
     {
@@ -819,6 +827,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 788741,
+      "num": 788741,
+      "word": "霍启刚 亚运会宿舍roomtour",
+      "onboard_time": 1695693094,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 783389,
       "num": 783389,
       "word": "研招网",
@@ -987,14 +1003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 707449,
-      "num": 435782,
-      "word": "霍启刚 亚运会宿舍roomtour",
-      "onboard_time": 1695693094,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 707164,
       "num": 389427,
       "word": "实测苹果无法用华为充电器",
@@ -1033,6 +1041,22 @@
       "onboard_time": 1695526292,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697529,
+      "num": 697529,
+      "word": "这身材谁看了不迷糊",
+      "onboard_time": 1695693094,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 695242,
+      "num": 451623,
+      "word": "首批iPhone15Pro或有大量瑕疵机",
+      "onboard_time": 1695693753,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 691058,
@@ -1171,6 +1195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 661523,
+      "num": 450216,
+      "word": "任豪 什么都吃只会害了你",
+      "onboard_time": 1695697474,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660386,
       "num": 660386,
       "word": "日本男团0比2伊朗男团",
@@ -1243,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 638702,
+      "num": 638702,
+      "word": "准女婿是怎么中秋转正的",
+      "onboard_time": 1695695433,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 637089,
       "num": 1171951,
       "word": "女警一眼就认出吸毒人员一招擒拿",
@@ -1291,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621919,
+      "num": 440992,
+      "word": "杨玏小时候一天吃十袋奶",
+      "onboard_time": 1695693934,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 616751,
       "num": 616751,
       "word": "12306回应压票再分批放票",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1695647136,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 606223,
-      "num": 409224,
-      "word": "杨玏小时候一天吃十袋奶",
-      "onboard_time": 1695693934,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 603356,
@@ -1363,14 +1403,6 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 592388,
-      "num": 427473,
-      "word": "首批iPhone15Pro或有大量瑕疵机",
-      "onboard_time": 1695693753,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 586852,
       "num": 478381,
       "word": "余承东称mate60正紧急生产",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1695521730,
       "rank": 13,
       "category": "知识科普,美妆"
+    },
+    {
+      "raw_hot": 580947,
+      "num": 580947,
+      "word": "离婚排不上号",
+      "onboard_time": 1695697474,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 577046,
@@ -1627,14 +1667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 528612,
-      "num": 528612,
-      "word": "这身材谁看了不迷糊",
-      "onboard_time": 1695693094,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 528065,
       "num": 528065,
       "word": "林孝埈内道一过三",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1695622054,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509137,
+      "num": 509137,
+      "word": "体面之后是何必",
+      "onboard_time": 1695696693,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 508537,
@@ -2043,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439206,
+      "num": 439206,
+      "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
+      "onboard_time": 1695694114,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 438411,
       "num": 438411,
       "word": "1岁半孙女午睡爷爷守3小时照顾",
@@ -2107,6 +2155,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 418527,
+      "num": 418527,
+      "word": "三倍工资你愿意加班吗",
+      "onboard_time": 1695691713,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417797,
       "num": 417797,
       "word": "张彬彬生图扛住了所有",
@@ -2139,14 +2195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 412352,
-      "num": 359848,
-      "word": "三倍工资你愿意加班吗",
-      "onboard_time": 1695691713,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409992,
       "num": 409992,
       "word": "原神首冠诞生",
@@ -2177,14 +2225,6 @@
       "onboard_time": 1695630342,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 406496,
-      "num": 366766,
-      "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
-      "onboard_time": 1695694114,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 404249,
@@ -2595,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330531,
+      "num": 330531,
+      "word": "爸爸把1岁女儿可爱瞬间定格成动画",
+      "onboard_time": 1695696574,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329410,
       "num": 329410,
       "word": "中国游泳1晚7金外媒气急败坏",
@@ -2715,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316114,
+      "num": 445673,
+      "word": "有中国公民被骗至韩国济州",
+      "onboard_time": 1695694292,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315911,
       "num": 184777,
       "word": "封神妲己邓婵玉福州同框",
@@ -2745,6 +2801,14 @@
       "onboard_time": 1695601139,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314276,
+      "num": 314276,
+      "word": "双喜 双女主",
+      "onboard_time": 1695697955,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 314136,
@@ -2784,14 +2848,6 @@
       "word": "中国姑娘与叙利亚民众交换玫瑰",
       "onboard_time": 1695539733,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310354,
-      "num": 298008,
-      "word": "有中国公民被骗至韩国济州",
-      "onboard_time": 1695694292,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3467,6 +3523,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 250303,
+      "num": 250303,
+      "word": "ChatGPT王炸级别的更新 多模态功能",
+      "onboard_time": 1695697413,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 250109,
       "num": 250109,
       "word": "中国男排3比0日本男排",
@@ -3707,14 +3771,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 233590,
-      "num": 233590,
-      "word": "准女婿是怎么中秋转正的",
-      "onboard_time": 1695695433,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233403,
       "num": 233403,
       "word": "白敬亭全新单曲",
@@ -3792,6 +3848,14 @@
       "word": "想吃这棵树上的枣比中彩票还难",
       "onboard_time": 1695683604,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225497,
+      "num": 225497,
+      "word": "休8天上7天你怎么看",
+      "onboard_time": 1695697714,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3977,6 +4041,14 @@
       "onboard_time": 1695557073,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214185,
+      "num": 214185,
+      "word": "沈腾在范丞丞面前都显得内向了",
+      "onboard_time": 1695695972,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 214168,
@@ -5009,6 +5081,14 @@
       "onboard_time": 1695631120,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173523,
+      "num": 173523,
+      "word": "上班第一天收到同事请柬",
+      "onboard_time": 1695696932,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 173324,
@@ -6299,6 +6379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98807,
+      "num": 98807,
+      "word": "林双江喜极限拉扯互相救赎",
+      "onboard_time": 1695696332,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97346,
       "num": 97346,
       "word": "文科教授遇硬件问题把自己CPU烧了",
@@ -6323,20 +6411,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 92398,
+      "num": 442739,
+      "word": "谷爱凌米兰大秀全纪录",
+      "onboard_time": 1695695251,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91529,
       "num": 91529,
       "word": "给女朋友点了7斤的饭",
       "onboard_time": 1695497954,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89738,
-      "num": 132275,
-      "word": "谷爱凌米兰大秀全纪录",
-      "onboard_time": 1695695251,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 89302,
@@ -6361,6 +6449,14 @@
       "onboard_time": 1695603633,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86363,
+      "num": 86363,
+      "word": "48岁丘索维金娜今晚亮相",
+      "onboard_time": 1695697235,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85836,
