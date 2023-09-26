@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695755626213,
+  "endTime": 1695756862651,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -9545,6 +9545,14 @@
       "onboard_time": 1695668535,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20753,
+      "num": 20753,
+      "word": "15岁少年踩豪车炫耀车主拒绝和解",
+      "onboard_time": 1695756134,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20036,
