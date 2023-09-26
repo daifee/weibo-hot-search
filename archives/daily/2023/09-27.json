@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695759494520,
+  "endTime": 1695760459632,
   "band_list": [
     {
       "raw_hot": 2033790,
@@ -531,8 +531,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20140,
-      "num": 20140,
+      "raw_hot": 22390,
+      "num": 22390,
       "word": "王哲林",
       "onboard_time": 1695757694,
       "rank": 35,
@@ -545,6 +545,14 @@
       "onboard_time": 1695754096,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13418,
+      "num": 15465,
+      "word": "李鑫一看林俊杰演唱会哭了",
+      "onboard_time": 1695760334,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 12892,
