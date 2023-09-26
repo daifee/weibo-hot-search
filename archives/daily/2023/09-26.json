@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695720860761,
+  "endTime": 1695723529121,
   "band_list": [
     {
       "raw_hot": 7971090,
@@ -9,6 +9,22 @@
       "onboard_time": 1695702399,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5058194,
+      "num": 5058194,
+      "word": "花西子发疯",
+      "onboard_time": 1695721839,
+      "rank": 0,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 4856852,
+      "num": 897863,
+      "word": "花西子称想做高端品牌",
+      "onboard_time": 1695720814,
+      "rank": 39,
+      "category": "美妆,财经"
     },
     {
       "raw_hot": 3549026,
@@ -139,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1147278,
+      "num": 1147278,
+      "word": "花西子 好心态决定花西子一生",
+      "onboard_time": 1695721177,
+      "rank": 1,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 1098471,
       "num": 1098471,
       "word": "陈梦平野美宇决胜局",
@@ -203,6 +227,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 838000,
+      "num": 779079,
+      "word": "张本美和 张本智和",
+      "onboard_time": 1695718716,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 828311,
       "num": 828311,
       "word": "害怕马琳的暂停",
@@ -227,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821153,
+      "num": 821153,
+      "word": "花西子问真有人拿克重衡量眉笔价值吗",
+      "onboard_time": 1695721958,
+      "rank": 5,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 788741,
       "num": 788741,
       "word": "霍启刚 亚运会宿舍roomtour",
@@ -249,14 +289,6 @@
       "onboard_time": 1695687336,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 782313,
-      "num": 536389,
-      "word": "张本美和 张本智和",
-      "onboard_time": 1695718716,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 780888,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 689246,
-      "num": 233544,
+      "num": 359219,
       "word": "于鲁明被判11年",
       "onboard_time": 1695719856,
       "rank": 30,
@@ -393,6 +425,14 @@
       "onboard_time": 1695711216,
       "rank": 27,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 641670,
+      "num": 851557,
+      "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+      "onboard_time": 1695719495,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 638702,
@@ -435,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604963,
+      "num": 239385,
+      "word": "男子上班浏览色情网站被解雇索赔30万",
+      "onboard_time": 1695719795,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600470,
       "num": 600470,
       "word": "亚运女团决赛国乒vs日本",
@@ -457,14 +505,6 @@
       "onboard_time": 1695718237,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 577007,
-      "num": 577007,
-      "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
-      "onboard_time": 1695719495,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 568381,
@@ -544,6 +584,14 @@
       "word": "微博音乐盛典红毯",
       "onboard_time": 1695714935,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 530572,
+      "num": 530572,
+      "word": "黄绮珊瘦了26斤",
+      "onboard_time": 1695720276,
+      "rank": 34,
       "category": "音乐"
     },
     {
@@ -691,12 +739,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 436384,
+      "num": 436384,
+      "word": "王嘉尔 求你们看一下我的MV",
+      "onboard_time": 1695720876,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 418527,
       "num": 418527,
       "word": "三倍工资你愿意加班吗",
       "onboard_time": 1695691713,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399259,
+      "num": 399259,
+      "word": "微博音乐盛典",
+      "onboard_time": 1695721655,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 397173,
@@ -729,14 +793,6 @@
       "onboard_time": 1695716555,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 379553,
-      "num": 232918,
-      "word": "男子上班浏览色情网站被解雇索赔30万",
-      "onboard_time": 1695719795,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372048,
@@ -841,6 +897,14 @@
       "onboard_time": 1695697413,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 316656,
+      "num": 316656,
+      "word": "比许幻山还洪世贤的男人出现了",
+      "onboard_time": 1695723215,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 316585,
@@ -1116,11 +1180,19 @@
     },
     {
       "raw_hot": 260619,
-      "num": 260619,
+      "num": 789250,
       "word": "孙颖莎为队友加油撞脸花花",
       "onboard_time": 1695719016,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259595,
+      "num": 259595,
+      "word": "外国人怎么什么中文都往衣服上印",
+      "onboard_time": 1695720338,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 257122,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1695712417,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250144,
+      "num": 250144,
+      "word": "王者荣耀",
+      "onboard_time": 1695720216,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 245214,
@@ -1187,14 +1267,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 234604,
-      "num": 232238,
-      "word": "外国人怎么什么中文都往衣服上印",
-      "onboard_time": 1695720338,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233403,
       "num": 233403,
       "word": "白敬亭全新单曲",
@@ -1235,14 +1307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228490,
-      "num": 228490,
-      "word": "黄绮珊瘦了26斤",
-      "onboard_time": 1695720276,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 227265,
       "num": 179423,
       "word": "想吃这棵树上的枣比中彩票还难",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1695698737,
       "rank": 27,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 224962,
+      "num": 224962,
+      "word": "GAI回应被叫延延",
+      "onboard_time": 1695721896,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 224346,
@@ -1347,6 +1419,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206701,
+      "num": 206701,
+      "word": "张柏芝赫本风小黑裙",
+      "onboard_time": 1695722258,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204913,
+      "num": 204913,
+      "word": "孙颖莎小碎步好可爱",
+      "onboard_time": 1695722918,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204861,
       "num": 204861,
       "word": "王濛现场观战国乒女团",
@@ -1369,6 +1457,14 @@
       "onboard_time": 1695700413,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196509,
+      "num": 196509,
+      "word": "00后张博恒体操全能金牌",
+      "onboard_time": 1695721777,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 196486,
@@ -1395,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194636,
+      "num": 194636,
+      "word": "逆水寒 赶紧重画天赏头像",
+      "onboard_time": 1695723337,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194557,
       "num": 194557,
       "word": "成毅现偶也拿剑",
       "onboard_time": 1695690454,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194471,
+      "num": 195209,
+      "word": "花西子否认只会搞营销",
+      "onboard_time": 1695722557,
+      "rank": 38,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 194246,
@@ -1491,22 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185632,
-      "num": 185632,
-      "word": "花西子称想做高端品牌",
-      "onboard_time": 1695720814,
-      "rank": 39,
-      "category": "美妆,财经"
-    },
-    {
-      "raw_hot": 184132,
-      "num": 184132,
-      "word": "王者荣耀",
-      "onboard_time": 1695720216,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183968,
       "num": 189092,
       "word": "星穹铁道藿藿",
@@ -1520,6 +1616,14 @@
       "word": "李玫瑾谈遇到校园欺凌该怎么办",
       "onboard_time": 1695715296,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182299,
+      "num": 182299,
+      "word": "携程回应民宿老板称被悄悄涨价2100",
+      "onboard_time": 1695720638,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1633,6 +1737,14 @@
       "onboard_time": 1695706058,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171445,
+      "num": 171445,
+      "word": "黄仁俊红毯状态",
+      "onboard_time": 1695723097,
+      "rank": 45,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 171182,
@@ -1907,14 +2019,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 138974,
-      "num": 138974,
-      "word": "携程回应民宿老板称被悄悄涨价2100",
-      "onboard_time": 1695720638,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138922,
       "num": 138922,
       "word": "国际版玉真公主",
@@ -1977,6 +2081,14 @@
       "onboard_time": 1695711994,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128379,
+      "num": 359509,
+      "word": "张博恒全能王",
+      "onboard_time": 1695722497,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 127690,
