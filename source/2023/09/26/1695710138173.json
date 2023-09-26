@@ -1,0 +1,410 @@
+{
+  "runTime": 1695710138173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7948196,
+        "num": 8366750,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2292258,
+        "num": 2292258,
+        "word": "挖呀挖黄老师开启直播带货",
+        "onboard_time": 1695705159,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 1432223,
+        "word": "推进交通互联互通促进可持续发展共赢",
+        "onboard_time": 1695699936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117435,
+        "num": 1117435,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600470,
+        "num": 600470,
+        "word": "亚运女团决赛国乒vs日本",
+        "onboard_time": 1695707800,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512276,
+        "num": 512276,
+        "word": "孙杨说愿望是妻子现场看他比赛",
+        "onboard_time": 1695707498,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434881,
+        "num": 434881,
+        "word": "毛不易将缺席后续活动",
+        "onboard_time": 1695697113,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 432299,
+        "num": 432299,
+        "word": "蜜雪冰城部分饮品涨价1元",
+        "onboard_time": 1695702881,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 411769,
+        "num": 411769,
+        "word": "结婚和一辈子恋爱有什么区别",
+        "onboard_time": 1695700054,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378275,
+        "num": 378275,
+        "word": "夺3金的浙江姑娘黄雨婷还在读高二",
+        "onboard_time": 1695705159,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 960582,
+        "num": 377841,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493754,
+        "num": 375745,
+        "word": "龚俊穿了裙子",
+        "onboard_time": 1695706955,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 437220,
+        "num": 373546,
+        "word": "男子要微信被拒殴打2女孩致流血",
+        "onboard_time": 1695703299,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99748,
+        "num": 370225,
+        "word": "樊振东王楚钦有多依赖马龙",
+        "onboard_time": 1695702339,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57425,
+        "num": 369723,
+        "word": "折叠屏的时尚感被荣耀拿捏了",
+        "onboard_time": 1695708036,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 428061,
+        "num": 367406,
+        "word": "休8天上7天你怎么看",
+        "onboard_time": 1695697714,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365495,
+        "num": 365495,
+        "word": "孙杨回应明年是否重返赛场",
+        "onboard_time": 1695708639,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331210,
+        "num": 331210,
+        "word": "许光汉要演韩剧了",
+        "onboard_time": 1695707559,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303244,
+        "num": 303244,
+        "word": "训诫处罚 年龄一刀切",
+        "onboard_time": 1695708578,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302044,
+        "num": 302044,
+        "word": "物业费每平米只要5毛还给业主发中秋福利",
+        "onboard_time": 1695708277,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554895,
+        "num": 300877,
+        "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+        "onboard_time": 1695700776,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91095,
+        "num": 298036,
+        "word": "男子悉心照顾病妻23年不言弃",
+        "onboard_time": 1695709417,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498831,
+        "num": 297588,
+        "word": "离婚排不上号",
+        "onboard_time": 1695697474,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296597,
+        "num": 296597,
+        "word": "解除大同大成双语学校校长职务",
+        "onboard_time": 1695702763,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280343,
+        "num": 280343,
+        "word": "乘客登机后不见人飞机全面清仓",
+        "onboard_time": 1695704619,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270528,
+        "num": 270528,
+        "word": "女子想见领导被3名保安踩在脚下",
+        "onboard_time": 1695708098,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243604,
+        "num": 243604,
+        "word": "外星人或许真的存在",
+        "onboard_time": 1695708219,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 223120,
+        "num": 223120,
+        "word": "英雄联盟项目淘汰赛赛程",
+        "onboard_time": 1695706415,
+        "rank": 27,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 218999,
+        "num": 218999,
+        "word": "YG现在的状况",
+        "onboard_time": 1695707678,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136496,
+        "num": 207217,
+        "word": "中国台北队的主场氛围感",
+        "onboard_time": 1695709896,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290589,
+        "num": 207210,
+        "word": "勇敢的姑娘 性教育",
+        "onboard_time": 1695709836,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207168,
+        "num": 207168,
+        "word": "白鹿巴黎时装周出发造型",
+        "onboard_time": 1695704797,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203826,
+        "num": 203826,
+        "word": "张杰说的26原来是这么一回事儿",
+        "onboard_time": 1695706836,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201777,
+        "num": 201777,
+        "word": "张艺兴演唱会抢票",
+        "onboard_time": 1695708937,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189816,
+        "num": 189816,
+        "word": "女子嫌潜水不过瘾腰绑铅块沉海底",
+        "onboard_time": 1695702399,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183959,
+        "num": 183959,
+        "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
+        "onboard_time": 1695699995,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167868,
+        "num": 167868,
+        "word": "井柏然衣服反穿",
+        "onboard_time": 1695707738,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156377,
+        "num": 156377,
+        "word": "孙颖莎2比0领先",
+        "onboard_time": 1695710015,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155112,
+        "num": 155112,
+        "word": "我感觉他是个明星啊",
+        "onboard_time": 1695701979,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154875,
+        "num": 154875,
+        "word": "乌尔善于适娜然芭莎男士十月刊封面",
+        "onboard_time": 1695706237,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150353,
+        "num": 150353,
+        "word": "对霸凌的姑息无异于当帮凶",
+        "onboard_time": 1695707375,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145647,
+        "num": 145647,
+        "word": "大张伟 抢票",
+        "onboard_time": 1695701313,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143133,
+        "num": 143133,
+        "word": "虞书欣巴黎时装周造型",
+        "onboard_time": 1695698253,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138063,
+        "num": 138063,
+        "word": "觉得她慌乱的样子很可爱",
+        "onboard_time": 1695699633,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132245,
+        "num": 132245,
+        "word": "到底是惩罚角浅还是惩罚阿徵",
+        "onboard_time": 1695709537,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131131,
+        "num": 131131,
+        "word": "首批iPhone15Pro或有大量瑕疵机",
+        "onboard_time": 1695693753,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124685,
+        "num": 124685,
+        "word": "霍震霆霍启刚霍启山现身亚运游泳赛场",
+        "onboard_time": 1695700473,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122395,
+        "num": 122395,
+        "word": "被叙利亚第一夫人圈粉了",
+        "onboard_time": 1695709956,
+        "rank": 47,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 118028,
+        "num": 118028,
+        "word": "680元民宿被平台悄悄调成国庆2780",
+        "onboard_time": 1695688536,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112578,
+        "num": 112578,
+        "word": "王一博亚运变装视频",
+        "onboard_time": 1695706596,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695709353602,
+  "endTime": 1695710138173,
   "band_list": [
     {
       "raw_hot": 7971090,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2254245,
-      "num": 2254245,
+      "raw_hot": 2292258,
+      "num": 2292258,
       "word": "挖呀挖黄老师开启直播带货",
       "onboard_time": 1695705159,
       "rank": 32,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600470,
+      "num": 600470,
+      "word": "亚运女团决赛国乒vs日本",
+      "onboard_time": 1695707800,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600397,
       "num": 600397,
       "word": "是慎儿下的毒吗",
@@ -312,14 +320,6 @@
       "word": "孙杨说愿望是妻子现场看他比赛",
       "onboard_time": 1695707498,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 559875,
-      "num": 559875,
-      "word": "亚运女团决赛国乒vs日本",
-      "onboard_time": 1695707800,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -403,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493754,
+      "num": 375745,
+      "word": "龚俊穿了裙子",
+      "onboard_time": 1695706955,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 486794,
       "num": 526630,
       "word": "一个饺子进嘴爸爸和女儿都泪崩了",
       "onboard_time": 1695692314,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480501,
-      "num": 341371,
-      "word": "龚俊穿了裙子",
-      "onboard_time": 1695706955,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 476290,
@@ -507,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 365495,
+      "num": 365495,
+      "word": "孙杨回应明年是否重返赛场",
+      "onboard_time": 1695708639,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358755,
       "num": 197576,
       "word": "整场演唱会最该买票的是伍佰",
@@ -531,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337056,
-      "num": 337056,
-      "word": "孙杨回应明年是否重返赛场",
-      "onboard_time": 1695708639,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 336732,
       "num": 336732,
       "word": "新生想吃梭子蟹高校食堂次日安排",
@@ -553,6 +553,14 @@
       "onboard_time": 1695626619,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 331210,
+      "num": 331210,
+      "word": "许光汉要演韩剧了",
+      "onboard_time": 1695707559,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 330531,
@@ -611,19 +619,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308079,
-      "num": 308079,
-      "word": "许光汉要演韩剧了",
-      "onboard_time": 1695707559,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306037,
       "num": 306037,
       "word": "河南一服务区公厕现厕长和总厕长",
       "onboard_time": 1695698555,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303244,
+      "num": 303244,
+      "word": "训诫处罚 年龄一刀切",
+      "onboard_time": 1695708578,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302044,
+      "num": 302044,
+      "word": "物业费每平米只要5毛还给业主发中秋福利",
+      "onboard_time": 1695708277,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -656,6 +672,14 @@
       "word": "曾舜晞也走不出莲花楼",
       "onboard_time": 1695688836,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 290589,
+      "num": 207210,
+      "word": "勇敢的姑娘 性教育",
+      "onboard_time": 1695709836,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -715,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 270528,
+      "num": 270528,
+      "word": "女子想见领导被3名保安踩在脚下",
+      "onboard_time": 1695708098,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267321,
       "num": 267321,
       "word": "我感觉他是个明星啊",
@@ -739,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265080,
-      "num": 265080,
-      "word": "物业费每平米只要5毛还给业主发中秋福利",
-      "onboard_time": 1695708277,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264805,
       "num": 264805,
       "word": "披荆斩棘真是请对了蔡国庆",
@@ -761,14 +785,6 @@
       "onboard_time": 1695629558,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 246155,
-      "num": 246155,
-      "word": "女子想见领导被3名保安踩在脚下",
-      "onboard_time": 1695708098,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245214,
@@ -787,12 +803,12 @@
       "category": "国内要闻,动物萌宠"
     },
     {
-      "raw_hot": 243519,
-      "num": 243519,
-      "word": "训诫处罚 年龄一刀切",
-      "onboard_time": 1695708578,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 243604,
+      "num": 243604,
+      "word": "外星人或许真的存在",
+      "onboard_time": 1695708219,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 236735,
@@ -875,20 +891,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218999,
+      "num": 218999,
+      "word": "YG现在的状况",
+      "onboard_time": 1695707678,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218157,
       "num": 218157,
       "word": "洁柔写信感谢取消10元6箱订单顾客",
       "onboard_time": 1695638675,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216225,
-      "num": 216225,
-      "word": "YG现在的状况",
-      "onboard_time": 1695707678,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 215221,
@@ -1091,14 +1107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180271,
-      "num": 180271,
-      "word": "外星人或许真的存在",
-      "onboard_time": 1695708219,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 179890,
       "num": 130675,
       "word": "舅舅染黄发接2年级外甥放学被嫌弃",
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 174352,
-      "num": 364623,
+      "num": 370225,
       "word": "樊振东王楚钦有多依赖马龙",
       "onboard_time": 1695702339,
       "rank": 43,
@@ -1235,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156377,
+      "num": 156377,
+      "word": "孙颖莎2比0领先",
+      "onboard_time": 1695710015,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153862,
       "num": 153862,
       "word": "卫明不止有小三还有小四",
@@ -1331,12 +1347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136496,
+      "num": 207217,
+      "word": "中国台北队的主场氛围感",
+      "onboard_time": 1695709896,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "美商务部将10家中企列入实体清单",
       "onboard_time": 1695706415,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 132245,
+      "num": 132245,
+      "word": "到底是惩罚角浅还是惩罚阿徵",
+      "onboard_time": 1695709537,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 131056,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1695708937,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122395,
+      "num": 122395,
+      "word": "被叙利亚第一夫人圈粉了",
+      "onboard_time": 1695709956,
+      "rank": 47,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 122234,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1695709295,
       "rank": 49,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 112578,
+      "num": 112578,
+      "word": "王一博亚运变装视频",
+      "onboard_time": 1695706596,
+      "rank": 49,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 110582,
@@ -1579,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91095,
+      "num": 298036,
+      "word": "男子悉心照顾病妻23年不言弃",
+      "onboard_time": 1695709417,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86363,
       "num": 86363,
       "word": "48岁丘索维金娜今晚亮相",
@@ -1627,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57425,
+      "num": 369723,
+      "word": "折叠屏的时尚感被荣耀拿捏了",
+      "onboard_time": 1695708036,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55730,
       "num": 55730,
       "word": "男子在周杰伦演唱会看亚运开幕式",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1695664398,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44887,
-      "num": 351753,
-      "word": "折叠屏的时尚感被荣耀拿捏了",
-      "onboard_time": 1695708036,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 36812,
