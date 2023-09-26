@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695732611127,
+  "endTime": 1695734493055,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -113,6 +113,14 @@
       "onboard_time": 1695626619,
       "rank": 1,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 8026401,
+      "num": 8026401,
+      "word": "郑爽被判赔偿投资方6000万元",
+      "onboard_time": 1695732642,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 7971090,
@@ -828,7 +836,7 @@
     },
     {
       "raw_hot": 2833046,
-      "num": 623870,
+      "num": 661349,
       "word": "张杰谢娜丝婚照",
       "onboard_time": 1695724960,
       "rank": 10,
@@ -5771,6 +5779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1223632,
+      "num": 625913,
+      "word": "金智秀造型",
+      "onboard_time": 1695733002,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1223346,
       "num": 424129,
       "word": "保安宿舍猝死曾4次发朋友圈称执勤室好热",
@@ -6593,6 +6609,14 @@
       "onboard_time": 1694748699,
       "rank": 36,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1121846,
+      "num": 1121846,
+      "word": "周深 握不完根本握不完",
+      "onboard_time": 1695731499,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 1120430,
@@ -8299,14 +8323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 951478,
-      "num": 951478,
-      "word": "周深 握不完根本握不完",
-      "onboard_time": 1695731499,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 950496,
       "num": 542787,
       "word": "iPhone15没往年那么难抢",
@@ -9467,6 +9483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 865236,
+      "num": 865236,
+      "word": "DIOR大秀",
+      "onboard_time": 1695733365,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 864964,
       "num": 864964,
       "word": "王源像跟着父母应酬的我",
@@ -9721,6 +9745,14 @@
       "onboard_time": 1694526465,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 847471,
+      "num": 847471,
+      "word": "国乒亚运会男团8连冠",
+      "onboard_time": 1695733724,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 846441,
@@ -11547,6 +11579,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 759659,
+      "num": 759659,
+      "word": "孙杨",
+      "onboard_time": 1695731258,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 758692,
       "num": 758692,
       "word": "12306回应节假日火车票涨价",
@@ -12097,6 +12137,14 @@
       "onboard_time": 1693796736,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 734387,
+      "num": 734387,
+      "word": "马龙vs朴康贤",
+      "onboard_time": 1695732700,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 734332,
@@ -13179,14 +13227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 689736,
-      "num": 689736,
-      "word": "孙杨",
-      "onboard_time": 1695731258,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 689693,
       "num": 371119,
       "word": "卢昱晓公式照",
@@ -13585,6 +13625,14 @@
       "onboard_time": 1693915959,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678270,
+      "num": 678270,
+      "word": "国乒男团完胜韩国队",
+      "onboard_time": 1695733424,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 678267,
@@ -14081,6 +14129,14 @@
       "onboard_time": 1695561279,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 659945,
+      "num": 540421,
+      "word": "迪丽热巴捧花浅笑",
+      "onboard_time": 1695733002,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 659866,
@@ -17883,6 +17939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552116,
+      "num": 552116,
+      "word": "孙颖莎没有隔夜仇",
+      "onboard_time": 1695732457,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551913,
       "num": 551913,
       "word": "肖战相信能通过努力证明自己的价值",
@@ -19707,6 +19771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 513918,
+      "num": 513918,
+      "word": "马龙3比0朴康贤",
+      "onboard_time": 1695733184,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513884,
       "num": 513884,
       "word": "逆水寒 崩",
@@ -21235,6 +21307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481750,
+      "num": 378315,
+      "word": "韩国选手摔倒后全场送鼓励",
+      "onboard_time": 1695733482,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 481580,
       "num": 481580,
       "word": "警方回应网传大同小学生霸凌事件",
@@ -22219,6 +22299,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 464724,
+      "num": 464724,
+      "word": "压力给到LOL",
+      "onboard_time": 1695733306,
+      "rank": 25,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 464676,
       "num": 464676,
       "word": "白敬亭高情商评沈腾的土豆丝",
@@ -22409,6 +22497,14 @@
       "onboard_time": 1694321675,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 461903,
+      "num": 461903,
+      "word": "马龙 我是如此相信",
+      "onboard_time": 1695733664,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 461475,
@@ -29243,6 +29339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352107,
+      "num": 352107,
+      "word": "王俊凯巴黎时装周造型",
+      "onboard_time": 1695733783,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 352066,
       "num": 352066,
       "word": "爱宝双胞胎已经学走路了",
@@ -34028,7 +34132,7 @@
     },
     {
       "raw_hot": 300601,
-      "num": 362018,
+      "num": 666904,
       "word": "王者项目拿下首金",
       "onboard_time": 1695731739,
       "rank": 26,
@@ -36683,6 +36787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276552,
+      "num": 276552,
+      "word": "中国男篮vs蒙古男篮",
+      "onboard_time": 1695732278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276460,
       "num": 276460,
       "word": "Remember疑似重回LPL",
@@ -36737,6 +36849,14 @@
       "onboard_time": 1694187221,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275842,
+      "num": 275842,
+      "word": "龙队巴黎见",
+      "onboard_time": 1695734384,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 275724,
@@ -43083,6 +43203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228811,
+      "num": 228811,
+      "word": "林恒",
+      "onboard_time": 1695732945,
+      "rank": 42,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 228734,
       "num": 228734,
       "word": "云之羽终极预告片",
@@ -44171,14 +44299,6 @@
       "category": "财经,艺人"
     },
     {
-      "raw_hot": 221923,
-      "num": 221923,
-      "word": "中国男篮vs蒙古男篮",
-      "onboard_time": 1695732278,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221875,
       "num": 221875,
       "word": "有人自林中坠落",
@@ -44816,6 +44936,14 @@
       "word": "周杰伦的哥和歌",
       "onboard_time": 1694695536,
       "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 217975,
+      "num": 217975,
+      "word": "微博音乐盛典荣誉名单",
+      "onboard_time": 1695733062,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -45481,14 +45609,6 @@
       "onboard_time": 1695732520,
       "rank": 43,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 214218,
-      "num": 214218,
-      "word": "孙颖莎没有隔夜仇",
-      "onboard_time": 1695732457,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 214185,
@@ -53217,6 +53337,14 @@
       "onboard_time": 1693892494,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184286,
+      "num": 184286,
+      "word": "打野的尽头是罗思源",
+      "onboard_time": 1695734203,
+      "rank": 49,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 184285,
@@ -64067,6 +64195,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 108668,
+      "num": 324736,
+      "word": "亚运王者决赛用的是iQOO手机",
+      "onboard_time": 1695731799,
+      "rank": 29,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 108563,
       "num": 131201,
       "word": "天美要建乐园了",
@@ -64569,14 +64705,6 @@
       "onboard_time": 1693897298,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100830,
-      "num": 324736,
-      "word": "亚运王者决赛用的是iQOO手机",
-      "onboard_time": 1695731799,
-      "rank": 29,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 100817,
@@ -67027,6 +67155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52117,
+      "num": 647498,
+      "word": "尼山到底是个什么山",
+      "onboard_time": 1695733247,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52033,
       "num": 396402,
       "word": "华为发布全球首款柔性OLED平板",
@@ -67089,6 +67225,14 @@
       "onboard_time": 1694021181,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50680,
+      "num": 251670,
+      "word": "聆听震撼心灵的尼山礼乐",
+      "onboard_time": 1695733783,
+      "rank": 40,
+      "category": "知识科普"
     },
     {
       "raw_hot": 50581,
