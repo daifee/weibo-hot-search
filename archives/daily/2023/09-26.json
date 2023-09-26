@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695735247796,
+  "endTime": 1695737816059,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -235,6 +235,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 1144168,
+      "num": 928038,
+      "word": "谁家恋综敢这么亲啊",
+      "onboard_time": 1695735583,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1137273,
       "num": 620658,
       "word": "迪丽热巴烟熏妆",
@@ -251,6 +259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1113112,
+      "num": 1113112,
+      "word": "蜜雪冰城涨价",
+      "onboard_time": 1695736305,
+      "rank": 1,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 1098471,
       "num": 1098471,
       "word": "陈梦平野美宇决胜局",
@@ -265,6 +281,14 @@
       "onboard_time": 1695684687,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1049331,
+      "num": 470289,
+      "word": "迪丽热巴被太阳晒到wink",
+      "onboard_time": 1695736184,
+      "rank": 12,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 1045555,
@@ -523,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 710756,
+      "num": 710756,
+      "word": "中国队4×100米混接力金牌",
+      "onboard_time": 1695736724,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 697529,
       "num": 697529,
       "word": "这身材谁看了不迷糊",
@@ -721,6 +753,14 @@
       "onboard_time": 1695732457,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 551772,
+      "num": 458214,
+      "word": "黑长直是王子文的开关",
+      "onboard_time": 1695736602,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 548137,
@@ -939,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475288,
+      "num": 475288,
+      "word": "范丞丞怎么也没想到上个综艺还要赔钱",
+      "onboard_time": 1695737204,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471559,
       "num": 471559,
       "word": "徐必成 公孙诺来了",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1695715234,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449650,
+      "num": 449650,
+      "word": "没十年脑血栓问不出来的问题",
+      "onboard_time": 1695736242,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 448930,
@@ -1099,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395793,
+      "num": 395793,
+      "word": "第一次知道玩电竞的人这么帅啊",
+      "onboard_time": 1695736543,
+      "rank": 24,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 393029,
       "num": 393029,
       "word": "成都航空回应航班因一乘客消失清舱",
@@ -1121,6 +1185,14 @@
       "onboard_time": 1695716555,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 373890,
+      "num": 373890,
+      "word": "林高远",
+      "onboard_time": 1695736122,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 372048,
@@ -1211,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338711,
+      "num": 338711,
+      "word": "中国男排亚运会摘银",
+      "onboard_time": 1695736724,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336732,
       "num": 336732,
       "word": "新生想吃梭子蟹高校食堂次日安排",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1695734503,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336075,
+      "num": 336075,
+      "word": "排在马龙前面的只有车水了",
+      "onboard_time": 1695736602,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 333891,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1695726101,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317942,
+      "num": 317942,
+      "word": "张栋梁1分钟红毯点头鞠躬8次",
+      "onboard_time": 1695737024,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 317126,
@@ -1427,12 +1523,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 297350,
+      "num": 297350,
+      "word": "微博音乐盛典林俊杰",
+      "onboard_time": 1695735766,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 297009,
       "num": 297009,
       "word": "曾舜晞也走不出莲花楼",
       "onboard_time": 1695688836,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293482,
+      "num": 293482,
+      "word": "林恒",
+      "onboard_time": 1695732945,
+      "rank": 42,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 293109,
@@ -1715,12 +1827,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 239876,
-      "num": 239876,
-      "word": "林恒",
-      "onboard_time": 1695732945,
-      "rank": 42,
-      "category": "游戏,体育"
+      "raw_hot": 239739,
+      "num": 239739,
+      "word": "中国男排1比3伊朗男排",
+      "onboard_time": 1695737024,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 237731,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1695689075,
       "rank": 14,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 235346,
+      "num": 235346,
+      "word": "短短十秒包含了我一整天所有心情",
+      "onboard_time": 1695735822,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233403,
@@ -1931,6 +2051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211540,
+      "num": 211540,
+      "word": "王楚钦领奖台闻花",
+      "onboard_time": 1695737325,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208227,
       "num": 208227,
       "word": "黄明昊祝贺一诺亚运夺冠",
@@ -2019,6 +2147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198643,
+      "num": 198643,
+      "word": "马龙时隔9年再夺亚运金牌",
+      "onboard_time": 1695736906,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197882,
       "num": 197882,
       "word": "微博音乐盛典年度新锐歌手",
@@ -2040,6 +2176,14 @@
       "word": "孙麟威",
       "onboard_time": 1695731318,
       "rank": 41,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 196650,
+      "num": 196650,
+      "word": "徐必成",
+      "onboard_time": 1695737746,
+      "rank": 48,
       "category": "游戏,体育"
     },
     {
@@ -2129,6 +2273,14 @@
       "onboard_time": 1695715835,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191601,
+      "num": 191601,
+      "word": "王俊凯黑色摩登西装",
+      "onboard_time": 1695737746,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191372,
@@ -2923,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100795,
+      "num": 930341,
+      "word": "亚运会bgm唱进心坎里",
+      "onboard_time": 1695735704,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100704,
       "num": 208353,
       "word": "尼山版国潮流光映此夜",
@@ -3147,6 +3307,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 34246,
+      "num": 451592,
+      "word": "亚运电竞手机又拿下一枚金牌",
+      "onboard_time": 1695736423,
+      "rank": 20,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 34018,
       "num": 430639,
       "word": "第九届尼山世界文明论坛",
@@ -3163,6 +3331,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 28176,
+      "num": 453800,
+      "word": "iQOO手机亚运电竞最强辅助",
+      "onboard_time": 1695735466,
+      "rank": 19,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 28100,
       "num": 41013,
       "word": "马龙六边形战士打乒乓球有多秀",
@@ -3176,6 +3352,14 @@
       "word": "推进交通互联互通促进可持续发展共赢",
       "onboard_time": 1695699936,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22758,
+      "num": 206230,
+      "word": "沉浸式感受尼山国潮之美",
+      "onboard_time": 1695737626,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
