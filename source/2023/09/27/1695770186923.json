@@ -1,0 +1,410 @@
+{
+  "runTime": 1695770186923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 794368,
+        "num": 794368,
+        "word": "仅停4分钟的高铁上消防救人只用了9秒",
+        "onboard_time": 1695742360,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 728769,
+        "num": 728769,
+        "word": "猫和老鼠中女主人露过一次脸",
+        "onboard_time": 1695742180,
+        "rank": 1,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 37769,
+        "num": 446668,
+        "word": "亚运赛场闪闪发光的中国00后",
+        "onboard_time": 1695735583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1227893,
+        "num": 442522,
+        "word": "官方通报10岁男孩遭俩男生常年凌辱猥亵",
+        "onboard_time": 1695747923,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416927,
+        "num": 416927,
+        "word": "谁家恋综敢这么亲啊",
+        "onboard_time": 1695735583,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355986,
+        "num": 355986,
+        "word": "卫明出轨再添实锤",
+        "onboard_time": 1695740022,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281313,
+        "num": 281313,
+        "word": "住建局回应女子被保安踩脚下",
+        "onboard_time": 1695762553,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262630,
+        "num": 262630,
+        "word": "蜜雪冰城涨价",
+        "onboard_time": 1695736305,
+        "rank": 7,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 254482,
+        "num": 254482,
+        "word": "徐必成",
+        "onboard_time": 1695737746,
+        "rank": 8,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 185862,
+        "num": 185862,
+        "word": "律师建议引入恶意补足年龄制度",
+        "onboard_time": 1695742360,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090337,
+        "num": 185582,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 703700,
+        "num": 185091,
+        "word": "郑爽被判赔偿投资方6000万元",
+        "onboard_time": 1695732642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619015,
+        "num": 184928,
+        "word": "邓亚萍 一定要多加关注张本美和",
+        "onboard_time": 1695744991,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113679,
+        "num": 184597,
+        "word": "中国队4×100米混接力金牌",
+        "onboard_time": 1695736724,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68968,
+        "num": 184137,
+        "word": "这只大熊猫竟然会跳芭蕾",
+        "onboard_time": 1695769586,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 435025,
+        "num": 183678,
+        "word": "男子上班浏览色情网站被解雇索赔30万",
+        "onboard_time": 1695719795,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430971,
+        "num": 183474,
+        "word": "张婧仪真公主来了",
+        "onboard_time": 1695740082,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 364908,
+        "num": 182920,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 201069,
+        "num": 182357,
+        "word": "张杰谢娜丝婚照",
+        "onboard_time": 1695724960,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194590,
+        "num": 182111,
+        "word": "邓为提跨式走路",
+        "onboard_time": 1695743677,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324790,
+        "num": 181742,
+        "word": "妈妈带双胞胎儿子求医回来变1儿1女",
+        "onboard_time": 1695739664,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187012,
+        "num": 181317,
+        "word": "迪丽热巴王俊凯同框",
+        "onboard_time": 1695738645,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181167,
+        "num": 181167,
+        "word": "情侣租房跑路留满床血渍遍地垃圾",
+        "onboard_time": 1695730845,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 163221,
+        "num": 163221,
+        "word": "原来熬夜前后的心脏差别这么大",
+        "onboard_time": 1695745711,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137267,
+        "num": 137267,
+        "word": "孙颖莎领奖时唠嗑结果掉队了",
+        "onboard_time": 1695743976,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135376,
+        "num": 135376,
+        "word": "15岁少年踩豪车炫耀车主拒绝和解",
+        "onboard_time": 1695756134,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131286,
+        "num": 131286,
+        "word": "装桌面书立装的我厌蠢症犯了",
+        "onboard_time": 1695768985,
+        "rank": 26,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 131023,
+        "num": 131023,
+        "word": "张小斐剧里也有自己的何以琛",
+        "onboard_time": 1695747627,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125659,
+        "num": 125659,
+        "word": "黑长直是王子文的开关",
+        "onboard_time": 1695736602,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123287,
+        "num": 123287,
+        "word": "金智秀待遇",
+        "onboard_time": 1695738524,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123098,
+        "num": 123098,
+        "word": "性缘脑比恋爱脑还可怕吗",
+        "onboard_time": 1695727116,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115882,
+        "num": 115882,
+        "word": "迪丽热巴头发丝都在发光",
+        "onboard_time": 1695738045,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115574,
+        "num": 115574,
+        "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+        "onboard_time": 1695725017,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108441,
+        "num": 108441,
+        "word": "再就业男团又有新团综了",
+        "onboard_time": 1695767422,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100890,
+        "num": 100890,
+        "word": "王俊凯去了塞纳河畔",
+        "onboard_time": 1695741403,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97346,
+        "num": 97346,
+        "word": "许嵩戴帽子了",
+        "onboard_time": 1695742541,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94916,
+        "num": 94916,
+        "word": "俞灏明王栎鑫不是在斗嘴就在斗嘴的路上",
+        "onboard_time": 1695769646,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87629,
+        "num": 87629,
+        "word": "马龙说应该是最后一届亚运了",
+        "onboard_time": 1695741279,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86957,
+        "num": 86957,
+        "word": "杭州亚运会三大球首金产生",
+        "onboard_time": 1695765496,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86076,
+        "num": 86076,
+        "word": "周深 握不完根本握不完",
+        "onboard_time": 1695731499,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84636,
+        "num": 84636,
+        "word": "作为怪物",
+        "onboard_time": 1695742838,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82763,
+        "num": 82763,
+        "word": "马龙时隔9年再夺亚运金牌",
+        "onboard_time": 1695736906,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73245,
+        "num": 73245,
+        "word": "为什么老一辈人都说圆脸有福气",
+        "onboard_time": 1695769947,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65846,
+        "num": 65846,
+        "word": "Mate60遥遥领先",
+        "onboard_time": 1695749839,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65540,
+        "num": 65540,
+        "word": "王哲林",
+        "onboard_time": 1695757694,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65282,
+        "num": 65282,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64912,
+        "num": 64912,
+        "word": "张艺兴黄毛造型",
+        "onboard_time": 1695743558,
+        "rank": 46,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 62413,
+        "num": 62413,
+        "word": "健康体重别再只看BMI了",
+        "onboard_time": 1695770067,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62036,
+        "num": 62036,
+        "word": "芒果的后期是懂复仇学的",
+        "onboard_time": 1695751758,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55150,
+        "num": 61321,
+        "word": "猛兽派对介绍好有趣",
+        "onboard_time": 1695770008,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#期待更多土特产为乡村发展赢得满堂彩#"
+    }
+  }
+}

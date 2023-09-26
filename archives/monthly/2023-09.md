@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 06:33:54
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 07:16:26
 </p>
 </blockquote>
 <p>
@@ -4347,6 +4347,12 @@ boss直聘崩了（热度：1252566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A510%E5%B2%81%E7%94%B7%E5%AD%A9%E9%81%AD%E4%BF%A9%E7%94%B7%E7%94%9F%E5%B8%B8%E5%B9%B4%E5%87%8C%E8%BE%B1%E7%8C%A5%E4%BA%B5%23" target="weibo">
+官方通报10岁男孩遭俩男生常年凌辱猥亵（热度：1227893）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E9%B9%85%E5%8E%82%E7%89%87%E5%8D%95%23" target="weibo">
 2024鹅厂片单（热度：1227450）
 </a>
@@ -6005,12 +6011,6 @@ Jessi要来成都（热度：979258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E5%A5%B3%E7%88%B1%E8%B1%86%E8%A2%AB%E5%A4%A7%E7%99%BD%E8%84%B8%E9%9F%A9%E5%A6%86%E8%80%BD%E8%AF%AF%E4%BA%86%23" target="weibo">
 很多女爱豆被大白脸韩妆耽误了（热度：979026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B76%E6%88%90%E4%BA%86%E5%9B%9B%E5%AF%B9%23" target="weibo">
-心动的信号6成了四对（热度：978646）
 </a>
 </li>
 
