@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695738934904,
+  "endTime": 1695741513928,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2607775,
+      "num": 2607775,
+      "word": "蜜雪冰城涨价",
+      "onboard_time": 1695736305,
+      "rank": 1,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 2578608,
       "num": 2578608,
       "word": "毛不易将缺席后续活动",
@@ -153,14 +161,6 @@
       "onboard_time": 1695596604,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2349904,
-      "num": 2349904,
-      "word": "蜜雪冰城涨价",
-      "onboard_time": 1695736305,
-      "rank": 1,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 2346910,
@@ -851,6 +851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 955247,
+      "num": 458214,
+      "word": "黑长直是王子文的开关",
+      "onboard_time": 1695736602,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 950326,
       "num": 950326,
       "word": "房东的猫演唱会上座率",
@@ -1051,6 +1059,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 834508,
+      "num": 387789,
+      "word": "金智秀待遇",
+      "onboard_time": 1695738524,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 831174,
       "num": 831174,
       "word": "朝鲜宣布外国人可依照规定入境",
@@ -1147,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805246,
+      "num": 309863,
+      "word": "张婧仪生图",
+      "onboard_time": 1695739243,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 803010,
       "num": 803010,
       "word": "IVE先行曲公开",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1695650918,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 796206,
-      "num": 458214,
-      "word": "黑长直是王子文的开关",
-      "onboard_time": 1695736602,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 792052,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1695563559,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 743121,
+      "num": 282348,
+      "word": "张婧仪真公主来了",
+      "onboard_time": 1695740082,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 736472,
@@ -1995,6 +2019,14 @@
       "category": "知识科普,美妆"
     },
     {
+      "raw_hot": 582812,
+      "num": 582812,
+      "word": "徐必成",
+      "onboard_time": 1695737746,
+      "rank": 48,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 577046,
       "num": 577046,
       "word": "杭州好像真的有一亿人",
@@ -2211,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 540617,
+      "num": 281985,
+      "word": "卫明出轨再添实锤",
+      "onboard_time": 1695740022,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539683,
       "num": 539683,
       "word": "外国运动员在杭州疯狂买买买",
@@ -2369,6 +2409,14 @@
       "onboard_time": 1695622294,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 516644,
+      "num": 279462,
+      "word": "妈妈带双胞胎儿子求医回来变1儿1女",
+      "onboard_time": 1695739664,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515326,
@@ -2640,6 +2688,14 @@
       "word": "中国赛艇队11金2银收官",
       "onboard_time": 1695614437,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 473479,
+      "num": 312594,
+      "word": "马龙时隔9年再夺亚运金牌",
+      "onboard_time": 1695736906,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -3083,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407093,
+      "num": 407093,
+      "word": "孙红雷起诉游戏声音这瓜保熟吗侵权",
+      "onboard_time": 1695738105,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404249,
       "num": 404249,
       "word": "中国女排3比1塞尔维亚女排",
@@ -3155,14 +3219,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 387789,
-      "num": 387789,
-      "word": "金智秀待遇",
-      "onboard_time": 1695738524,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 386817,
       "num": 386817,
       "word": "伍佰 难抢",
@@ -3217,14 +3273,6 @@
       "onboard_time": 1695646596,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379816,
-      "num": 379816,
-      "word": "徐必成",
-      "onboard_time": 1695737746,
-      "rank": 48,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 378615,
@@ -3347,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366190,
+      "num": 280224,
+      "word": "被周深回座位姿势笑死",
+      "onboard_time": 1695740504,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 365495,
       "num": 365495,
       "word": "孙杨回应明年是否重返赛场",
@@ -3425,6 +3481,14 @@
       "onboard_time": 1695725740,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353660,
+      "num": 353660,
+      "word": "张杰 军训现场",
+      "onboard_time": 1695741222,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 352107,
@@ -4267,14 +4331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283786,
-      "num": 283786,
-      "word": "孙红雷起诉游戏声音这瓜保熟吗侵权",
-      "onboard_time": 1695738105,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283655,
       "num": 283655,
       "word": "大熊猫洗澡越洗越上头",
@@ -4355,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279667,
+      "num": 279667,
+      "word": "马上买票去杭州当志愿者",
+      "onboard_time": 1695738465,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279586,
       "num": 279586,
       "word": "于和伟 今天这楼有点扫乱了",
@@ -4385,6 +4449,14 @@
       "onboard_time": 1695564518,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278621,
+      "num": 278621,
+      "word": "解说柯基",
+      "onboard_time": 1695740262,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 278202,
@@ -4913,6 +4985,14 @@
       "onboard_time": 1695513627,
       "rank": 27,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 246703,
+      "num": 246703,
+      "word": "王俊凯去了塞纳河畔",
+      "onboard_time": 1695741403,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246540,
@@ -5563,14 +5643,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 213485,
-      "num": 213485,
-      "word": "马龙时隔9年再夺亚运金牌",
-      "onboard_time": 1695736906,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213386,
       "num": 213386,
       "word": "点餐点成了儿童套餐",
@@ -5891,6 +5963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203531,
+      "num": 203531,
+      "word": "五月天上海",
+      "onboard_time": 1695740384,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203159,
       "num": 203159,
       "word": "李松蔚",
@@ -5987,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200577,
+      "num": 200577,
+      "word": "国乒男团采访溜得一个比一个快",
+      "onboard_time": 1695740922,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200486,
       "num": 200486,
       "word": "花卷梓墨太强了",
@@ -6059,6 +6147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198892,
+      "num": 198892,
+      "word": "金智秀斜刘海",
+      "onboard_time": 1695741040,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 198659,
       "num": 198659,
       "word": "九义人",
@@ -6073,6 +6169,14 @@
       "onboard_time": 1695635136,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 198130,
+      "num": 198130,
+      "word": "马龙说应该是最后一届亚运了",
+      "onboard_time": 1695741279,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 197882,
@@ -6731,6 +6835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181336,
+      "num": 181336,
+      "word": "在巴黎的王子文",
+      "onboard_time": 1695738944,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181285,
       "num": 315266,
       "word": "国乒男团决赛对阵韩国",
@@ -6913,6 +7025,14 @@
       "onboard_time": 1695702339,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174238,
+      "num": 174238,
+      "word": "龙叔怎么会骗我呢",
+      "onboard_time": 1695739604,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173856,
@@ -8499,20 +8619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103415,
+      "num": 930341,
+      "word": "亚运会bgm唱进心坎里",
+      "onboard_time": 1695735704,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103116,
       "num": 103116,
       "word": "蒲熠星街角人生",
       "onboard_time": 1695626076,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102000,
-      "num": 930341,
-      "word": "亚运会bgm唱进心坎里",
-      "onboard_time": 1695735704,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 101554,
