@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695695016519,
+  "endTime": 1695695721770,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -619,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 902013,
+      "num": 902013,
+      "word": "我有一个朋友 不想让它糊的剧",
+      "onboard_time": 1695692672,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 895762,
       "num": 895762,
       "word": "低血糖发作时有多尴尬",
@@ -681,14 +689,6 @@
       "onboard_time": 1695614610,
       "rank": 30,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 849256,
-      "num": 849256,
-      "word": "我有一个朋友 不想让它糊的剧",
-      "onboard_time": 1695692672,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 837870,
@@ -985,6 +985,14 @@
       "onboard_time": 1695555274,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 707449,
+      "num": 435782,
+      "word": "霍启刚 亚运会宿舍roomtour",
+      "onboard_time": 1695693094,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 707164,
@@ -1307,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606223,
+      "num": 409224,
+      "word": "杨玏小时候一天吃十袋奶",
+      "onboard_time": 1695693934,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 603356,
       "num": 603356,
       "word": "我没票但不妨碍我来听演唱会",
@@ -1331,12 +1347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 600397,
+      "num": 600397,
+      "word": "是慎儿下的毒吗",
+      "onboard_time": 1695691236,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594265,
       "num": 594265,
       "word": "男子欲买100张周杰伦演唱会门票被骗23万",
       "onboard_time": 1695523769,
       "rank": 7,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 592388,
+      "num": 427473,
+      "word": "首批iPhone15Pro或有大量瑕疵机",
+      "onboard_time": 1695693753,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 586852,
@@ -1361,14 +1393,6 @@
       "onboard_time": 1695521730,
       "rank": 13,
       "category": "知识科普,美妆"
-    },
-    {
-      "raw_hot": 577753,
-      "num": 435782,
-      "word": "霍启刚 亚运会宿舍roomtour",
-      "onboard_time": 1695693094,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 577046,
@@ -1603,6 +1627,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 528612,
+      "num": 528612,
+      "word": "这身材谁看了不迷糊",
+      "onboard_time": 1695693094,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528065,
       "num": 528065,
       "word": "林孝埈内道一过三",
@@ -1675,6 +1707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 506182,
+      "num": 506182,
+      "word": "父母染上网瘾了怎么办",
+      "onboard_time": 1695692672,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504396,
       "num": 504396,
       "word": "脂肪最怕的15种碱性食物",
@@ -1688,14 +1728,6 @@
       "word": "张小斐这剧除了原配全员好嗑",
       "onboard_time": 1695570454,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 502851,
-      "num": 502851,
-      "word": "是慎儿下的毒吗",
-      "onboard_time": 1695691236,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -1899,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 463445,
-      "num": 463445,
-      "word": "父母染上网瘾了怎么办",
-      "onboard_time": 1695692672,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463443,
       "num": 463443,
       "word": "幼儿园手工作业主打一个卷死家长",
@@ -2019,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 439886,
-      "num": 439886,
-      "word": "这身材谁看了不迷糊",
-      "onboard_time": 1695693094,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 438411,
       "num": 438411,
       "word": "1岁半孙女午睡爷爷守3小时照顾",
@@ -2081,14 +2097,6 @@
       "onboard_time": 1695603874,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 427473,
-      "num": 427473,
-      "word": "首批iPhone15Pro或有大量瑕疵机",
-      "onboard_time": 1695693753,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 420068,
@@ -2155,14 +2163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 409224,
-      "num": 409224,
-      "word": "杨玏小时候一天吃十袋奶",
-      "onboard_time": 1695693934,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 409202,
       "num": 409202,
       "word": "成毅火龙果扒皮直接啃",
@@ -2177,6 +2177,14 @@
       "onboard_time": 1695630342,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406496,
+      "num": 366766,
+      "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
+      "onboard_time": 1695694114,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 404249,
@@ -2425,14 +2433,6 @@
       "onboard_time": 1695647858,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 354026,
-      "num": 354026,
-      "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
-      "onboard_time": 1695694114,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 351811,
@@ -2784,6 +2784,14 @@
       "word": "中国姑娘与叙利亚民众交换玫瑰",
       "onboard_time": 1695539733,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310354,
+      "num": 298008,
+      "word": "有中国公民被骗至韩国济州",
+      "onboard_time": 1695694292,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3699,6 +3707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233590,
+      "num": 233590,
+      "word": "准女婿是怎么中秋转正的",
+      "onboard_time": 1695695433,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233403,
       "num": 233403,
       "word": "白敬亭全新单曲",
@@ -3769,14 +3785,6 @@
       "onboard_time": 1695480639,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 229028,
-      "num": 229028,
-      "word": "有中国公民被骗至韩国济州",
-      "onboard_time": 1695694292,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227265,
@@ -5275,6 +5283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159394,
+      "num": 159394,
+      "word": "走近一线检察官",
+      "onboard_time": 1695695433,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158174,
       "num": 158174,
       "word": "胡兵谷爱凌米兰同场走秀",
@@ -5923,6 +5939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130974,
+      "num": 130974,
+      "word": "我有一个朋友",
+      "onboard_time": 1695695670,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129126,
       "num": 243370,
       "word": "华为智能手表美翻了",
@@ -6307,6 +6331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89738,
+      "num": 132275,
+      "word": "谷爱凌米兰大秀全纪录",
+      "onboard_time": 1695695251,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89302,
       "num": 89302,
       "word": "中国游泳队太牛了",
@@ -6659,6 +6691,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 34018,
+      "num": 430639,
+      "word": "第九届尼山世界文明论坛",
+      "onboard_time": 1695693633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32365,
       "num": 862068,
       "word": "以新型工业化塑造新优势",
@@ -6688,14 +6728,6 @@
       "word": "被五谷丰登的丰收画面美到了",
       "onboard_time": 1695543333,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28277,
-      "num": 430639,
-      "word": "第九届尼山世界文明论坛",
-      "onboard_time": 1695693633,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

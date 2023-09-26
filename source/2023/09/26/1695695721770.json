@@ -1,0 +1,410 @@
+{
+  "runTime": 1695695721770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2376988,
+        "num": 2376988,
+        "word": "680元民宿被平台悄悄调成国庆2780",
+        "onboard_time": 1695688536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902013,
+        "num": 902013,
+        "word": "我有一个朋友 不想让它糊的剧",
+        "onboard_time": 1695692672,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22100,
+        "num": 695985,
+        "word": "一起看亚运",
+        "onboard_time": 1695645274,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1074759,
+        "num": 660248,
+        "word": "调休不如适当增加和延长假期",
+        "onboard_time": 1695687997,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600397,
+        "num": 600397,
+        "word": "是慎儿下的毒吗",
+        "onboard_time": 1695691236,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528612,
+        "num": 528612,
+        "word": "这身材谁看了不迷糊",
+        "onboard_time": 1695693094,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521268,
+        "num": 521268,
+        "word": "女子未察觉蛋盒阴燃塞冰箱浓烟四起",
+        "onboard_time": 1695690275,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506182,
+        "num": 506182,
+        "word": "父母染上网瘾了怎么办",
+        "onboard_time": 1695692672,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460422,
+        "num": 460422,
+        "word": "一个饺子进嘴爸爸和女儿都泪崩了",
+        "onboard_time": 1695692314,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400608,
+        "num": 400608,
+        "word": "魏大勋 我在十三年前扮演过岸青",
+        "onboard_time": 1695693573,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 707449,
+        "num": 399079,
+        "word": "霍启刚 亚运会宿舍roomtour",
+        "onboard_time": 1695693094,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623351,
+        "num": 393028,
+        "word": "美国小费文化正在失控",
+        "onboard_time": 1695686613,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281973,
+        "num": 389121,
+        "word": "学生刺杀操失误给领导吓一身汗",
+        "onboard_time": 1695650559,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244351,
+        "num": 385473,
+        "word": "李在明拄拐杖出庭受审",
+        "onboard_time": 1695692314,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 34018,
+        "num": 378519,
+        "word": "第九届尼山世界文明论坛",
+        "onboard_time": 1695693633,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606223,
+        "num": 375228,
+        "word": "杨玏小时候一天吃十袋奶",
+        "onboard_time": 1695693934,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592388,
+        "num": 370127,
+        "word": "首批iPhone15Pro或有大量瑕疵机",
+        "onboard_time": 1695693753,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 406496,
+        "num": 366766,
+        "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
+        "onboard_time": 1695694114,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 364422,
+        "num": 364422,
+        "word": "昆虫虫卵进入尿道结论有待商榷",
+        "onboard_time": 1695688116,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303277,
+        "num": 303277,
+        "word": "58岁头婚新郎接亲42岁新娘",
+        "onboard_time": 1695684687,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613889,
+        "num": 301345,
+        "word": "韩女不生的原因找到了",
+        "onboard_time": 1695655655,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384286,
+        "num": 300131,
+        "word": "三倍工资你愿意加班吗",
+        "onboard_time": 1695691713,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310354,
+        "num": 298008,
+        "word": "有中国公民被骗至韩国济州",
+        "onboard_time": 1695694292,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294688,
+        "num": 294688,
+        "word": "韩媒谈BLACKPINK续约情况",
+        "onboard_time": 1695687336,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261841,
+        "num": 261841,
+        "word": "大熊猫洗澡越洗越上头",
+        "onboard_time": 1695692372,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 242930,
+        "num": 242930,
+        "word": "15岁少年踩他人超跑拍视频炫耀定损17万",
+        "onboard_time": 1695685892,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242501,
+        "num": 242501,
+        "word": "上班人跳绳一个月瘦了12斤",
+        "onboard_time": 1695656136,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 233590,
+        "num": 233590,
+        "word": "准女婿是怎么中秋转正的",
+        "onboard_time": 1695695433,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215670,
+        "num": 215670,
+        "word": "清华教授称消费不是刺激出来的",
+        "onboard_time": 1695692314,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208079,
+        "num": 208079,
+        "word": "于和伟 今天这楼有点扫乱了",
+        "onboard_time": 1695693333,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207679,
+        "num": 207679,
+        "word": "华为回应充电器不支持iPhone15",
+        "onboard_time": 1695655777,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194744,
+        "num": 194744,
+        "word": "iPhone15精织斜纹保护壳被吐槽一团糟",
+        "onboard_time": 1695692854,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194186,
+        "num": 194186,
+        "word": "成毅 手控福利",
+        "onboard_time": 1695694232,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174174,
+        "num": 174174,
+        "word": "封神妲己邓婵玉福州同框",
+        "onboard_time": 1695691053,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166141,
+        "num": 166141,
+        "word": "杨超越集齐了7种不同色调的绿",
+        "onboard_time": 1695690692,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 159394,
+        "num": 159394,
+        "word": "走近一线检察官",
+        "onboard_time": 1695695433,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134885,
+        "num": 134885,
+        "word": "曾舜晞也走不出莲花楼",
+        "onboard_time": 1695688836,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139862,
+        "num": 133645,
+        "word": "成毅现偶也拿剑",
+        "onboard_time": 1695690454,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89738,
+        "num": 132275,
+        "word": "谷爱凌米兰大秀全纪录",
+        "onboard_time": 1695695251,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130974,
+        "num": 130974,
+        "word": "我有一个朋友",
+        "onboard_time": 1695695670,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126473,
+        "num": 126473,
+        "word": "伊能静秦霄贤演我听八卦",
+        "onboard_time": 1695693633,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119438,
+        "num": 119438,
+        "word": "新生想吃梭子蟹高校食堂次日安排",
+        "onboard_time": 1695689256,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117934,
+        "num": 117934,
+        "word": "你会介意长辈染发吗",
+        "onboard_time": 1695690095,
+        "rank": 42,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 117570,
+        "num": 117570,
+        "word": "辽宁阜新女子被碎尸案告破",
+        "onboard_time": 1695660803,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117412,
+        "num": 117412,
+        "word": "为什么越来越多的客运站停运",
+        "onboard_time": 1695690756,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113175,
+        "num": 113175,
+        "word": "张嘉倪每句台词都扎在恋爱脑心上",
+        "onboard_time": 1695657692,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109328,
+        "num": 109328,
+        "word": "长相思第二季能预约了",
+        "onboard_time": 1695655896,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105633,
+        "num": 105633,
+        "word": "九月的工资千万不要乱花",
+        "onboard_time": 1695629558,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101448,
+        "num": 101448,
+        "word": "邓为智族GQ栏目我的十件",
+        "onboard_time": 1695688775,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 94760,
+        "num": 94760,
+        "word": "白敬亭全新单曲",
+        "onboard_time": 1695687573,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力发展智慧交通和智慧物流#"
+    }
+  }
+}
