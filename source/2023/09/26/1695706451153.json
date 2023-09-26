@@ -1,0 +1,410 @@
+{
+  "runTime": 1695706451153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3648121,
+        "num": 3796242,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491884,
+        "num": 1491884,
+        "word": "休8天上7天你怎么看",
+        "onboard_time": 1695697714,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21054,
+        "num": 1201577,
+        "word": "推进交通互联互通促进可持续发展共赢",
+        "onboard_time": 1695699936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133157,
+        "num": 1133157,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867140,
+        "num": 867140,
+        "word": "毛不易将缺席后续活动",
+        "onboard_time": 1695697113,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 837480,
+        "num": 837480,
+        "word": "蜜雪冰城部分饮品涨价1元",
+        "onboard_time": 1695702881,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 694801,
+        "num": 694801,
+        "word": "挖呀挖黄老师开启直播带货",
+        "onboard_time": 1695705159,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 641694,
+        "num": 641694,
+        "word": "结婚和一辈子恋爱有什么区别",
+        "onboard_time": 1695700054,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 607095,
+        "num": 607095,
+        "word": "大同2名小学生欺凌同学被训诫",
+        "onboard_time": 1695702999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542628,
+        "num": 542628,
+        "word": "00后盛李豪黄雨婷联手夺金",
+        "onboard_time": 1695703240,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1518050,
+        "num": 537337,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821724,
+        "num": 533293,
+        "word": "男子要微信被拒殴打2女孩致流血",
+        "onboard_time": 1695703299,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514512,
+        "num": 514512,
+        "word": "夺3金的浙江姑娘黄雨婷还在读高二",
+        "onboard_time": 1695705159,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487390,
+        "num": 487390,
+        "word": "霍震霆霍启刚霍启山现身亚运游泳赛场",
+        "onboard_time": 1695700473,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452597,
+        "num": 452597,
+        "word": "解除大同大成双语学校校长职务",
+        "onboard_time": 1695702763,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352169,
+        "num": 352169,
+        "word": "大张伟 抢票",
+        "onboard_time": 1695701313,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286628,
+        "num": 286628,
+        "word": "乘客登机后不见人飞机全面清仓",
+        "onboard_time": 1695704619,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271531,
+        "num": 271531,
+        "word": "白鹿巴黎时装周出发造型",
+        "onboard_time": 1695704797,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267321,
+        "num": 267321,
+        "word": "我感觉他是个明星啊",
+        "onboard_time": 1695701979,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259662,
+        "num": 259662,
+        "word": "680元民宿被平台悄悄调成国庆2780",
+        "onboard_time": 1695688536,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248585,
+        "num": 256416,
+        "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+        "onboard_time": 1695700776,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188885,
+        "num": 253896,
+        "word": "离婚排不上号",
+        "onboard_time": 1695697474,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 687981,
+        "num": 244188,
+        "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
+        "onboard_time": 1695699995,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226930,
+        "num": 226930,
+        "word": "女子嫌潜水不过瘾腰绑铅块沉海底",
+        "onboard_time": 1695702399,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223329,
+        "num": 223329,
+        "word": "虞书欣巴黎时装周造型",
+        "onboard_time": 1695698253,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222075,
+        "num": 222075,
+        "word": "offer首次引入KPI考核决定薪资",
+        "onboard_time": 1695702941,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212360,
+        "num": 212360,
+        "word": "任豪 什么都吃只会害了你",
+        "onboard_time": 1695697474,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198806,
+        "num": 198806,
+        "word": "觉得她慌乱的样子很可爱",
+        "onboard_time": 1695699633,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196653,
+        "num": 196653,
+        "word": "黄山人买不到回黄山的票了",
+        "onboard_time": 1695699514,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194128,
+        "num": 194128,
+        "word": "首批iPhone15Pro或有大量瑕疵机",
+        "onboard_time": 1695693753,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192935,
+        "num": 192935,
+        "word": "乌尔善于适娜然芭莎男士十月刊封面",
+        "onboard_time": 1695706237,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191306,
+        "num": 191306,
+        "word": "披荆斩棘真是请对了蔡国庆",
+        "onboard_time": 1695700296,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189541,
+        "num": 189541,
+        "word": "伍佰 难抢",
+        "onboard_time": 1695701675,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181304,
+        "num": 181304,
+        "word": "韩女不生的原因找到了",
+        "onboard_time": 1695655655,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179288,
+        "num": 179288,
+        "word": "刘诗诗怼脸哭戏",
+        "onboard_time": 1695703417,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178347,
+        "num": 178347,
+        "word": "准女婿是怎么中秋转正的",
+        "onboard_time": 1695695433,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172739,
+        "num": 172739,
+        "word": "原神那维莱特",
+        "onboard_time": 1695706058,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171900,
+        "num": 171900,
+        "word": "胡静心疼相柳",
+        "onboard_time": 1695701015,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171390,
+        "num": 171390,
+        "word": "樊振东王楚钦有多依赖马龙",
+        "onboard_time": 1695702339,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163873,
+        "num": 163873,
+        "word": "杨玏小时候一天吃十袋奶",
+        "onboard_time": 1695693934,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159284,
+        "num": 159284,
+        "word": "一个饺子进嘴爸爸和女儿都泪崩了",
+        "onboard_time": 1695692314,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156669,
+        "num": 156669,
+        "word": "森林进化论",
+        "onboard_time": 1695703360,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154358,
+        "num": 154358,
+        "word": "男生看到Angelababy的表情别太真实了",
+        "onboard_time": 1695698435,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153094,
+        "num": 153094,
+        "word": "被中式早餐征服后的外国人",
+        "onboard_time": 1695705456,
+        "rank": 43,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 152032,
+        "num": 152032,
+        "word": "再见爱人",
+        "onboard_time": 1695706176,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146395,
+        "num": 146395,
+        "word": "星同事 放饭",
+        "onboard_time": 1695700956,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143674,
+        "num": 143674,
+        "word": "英雄联盟项目淘汰赛赛程",
+        "onboard_time": 1695706415,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 136139,
+        "num": 136139,
+        "word": "魏大勋 我在十三年前扮演过岸青",
+        "onboard_time": 1695693573,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134660,
+        "num": 134660,
+        "word": "宝宝被爸爸说脸圆后秒变脸",
+        "onboard_time": 1695704261,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133931,
+        "num": 133931,
+        "word": "美商务部将10家中企列入实体清单",
+        "onboard_time": 1695706415,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
