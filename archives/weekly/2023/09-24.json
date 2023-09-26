@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695731625730,
+  "endTime": 1695732611127,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -395,6 +395,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1445809,
+      "num": 622900,
+      "word": "男子上班浏览色情网站被解雇索赔30万",
+      "onboard_time": 1695719795,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1445073,
       "num": 470025,
       "word": "女子收6.6万彩礼不愿领证男方起诉退还",
@@ -425,14 +433,6 @@
       "onboard_time": 1695729579,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1391735,
-      "num": 622900,
-      "word": "男子上班浏览色情网站被解雇索赔30万",
-      "onboard_time": 1695719795,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1379875,
@@ -563,19 +563,19 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 1137273,
+      "num": 620658,
+      "word": "迪丽热巴烟熏妆",
+      "onboard_time": 1695727297,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1134432,
       "num": 1134432,
       "word": "这韩剧怎么有点中国味",
       "onboard_time": 1695524611,
       "rank": 9,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1130623,
-      "num": 620658,
-      "word": "迪丽热巴烟熏妆",
-      "onboard_time": 1695727297,
-      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -787,6 +787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 951478,
+      "num": 951478,
+      "word": "周深 握不完根本握不完",
+      "onboard_time": 1695731499,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 950326,
       "num": 950326,
       "word": "房东的猫演唱会上座率",
@@ -915,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 876969,
+      "num": 790229,
+      "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+      "onboard_time": 1695725017,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862216,
       "num": 862216,
       "word": "男版香妃",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1695629439,
       "rank": 15,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 823749,
-      "num": 790229,
-      "word": "妻子患癌多次住院丈夫3次诉离婚获准",
-      "onboard_time": 1695725017,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 822677,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1695561039,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689736,
+      "num": 689736,
+      "word": "孙杨",
+      "onboard_time": 1695731258,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 689693,
@@ -2171,6 +2187,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 521401,
+      "num": 521401,
+      "word": "王者项目颁奖仪式",
+      "onboard_time": 1695731618,
+      "rank": 21,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 519706,
       "num": 519706,
       "word": "女生最无声的炫富",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1695597869,
       "rank": 31,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 517721,
+      "num": 517721,
+      "word": "情侣租房跑路留满床血渍遍地垃圾",
+      "onboard_time": 1695730845,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 516754,
@@ -2689,14 +2721,6 @@
       "onboard_time": 1695469652,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 441243,
-      "num": 273892,
-      "word": "情侣租房跑路留满床血渍遍地垃圾",
-      "onboard_time": 1695730845,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 439206,
@@ -3459,6 +3483,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 323544,
+      "num": 323544,
+      "word": "巴黎时装周",
+      "onboard_time": 1695731618,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323034,
       "num": 323034,
       "word": "AVAVAV会搞事 没穿好衣服就走秀",
@@ -3745,6 +3777,14 @@
       "onboard_time": 1695571355,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 300601,
+      "num": 362018,
+      "word": "王者项目拿下首金",
+      "onboard_time": 1695731739,
+      "rank": 26,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 300137,
@@ -4147,6 +4187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271816,
+      "num": 271816,
+      "word": "AG",
+      "onboard_time": 1695731679,
+      "rank": 34,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 271358,
       "num": 240423,
       "word": "以为健康的方式其实不健康",
@@ -4192,14 +4240,6 @@
       "word": "我爱你中国",
       "onboard_time": 1695471215,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 270708,
-      "num": 270708,
-      "word": "孙杨",
-      "onboard_time": 1695731258,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -4603,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246302,
+      "num": 246302,
+      "word": "孟佳黑色美人鱼造型",
+      "onboard_time": 1695730716,
+      "rank": 37,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 245891,
       "num": 245891,
       "word": "这周只要上4天班",
@@ -4737,6 +4785,14 @@
       "onboard_time": 1695514468,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 237731,
+      "num": 237731,
+      "word": "樊振东反手太丝滑了",
+      "onboard_time": 1695732397,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 236735,
@@ -4955,6 +5011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221923,
+      "num": 221923,
+      "word": "中国男篮vs蒙古男篮",
+      "onboard_time": 1695732278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220363,
       "num": 220363,
       "word": "教育部称对预制菜进校园持审慎态度",
@@ -5115,14 +5179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215036,
-      "num": 215036,
-      "word": "孟佳黑色美人鱼造型",
-      "onboard_time": 1695730716,
-      "rank": 37,
-      "category": "音乐,时尚"
-    },
-    {
       "raw_hot": 214732,
       "num": 214732,
       "word": "张杰说的26原来是这么一回事儿",
@@ -5144,6 +5200,22 @@
       "word": "中国游泳队包揽金银",
       "onboard_time": 1695557073,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214272,
+      "num": 214272,
+      "word": "林恒金牌打野",
+      "onboard_time": 1695732520,
+      "rank": 43,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 214218,
+      "num": 214218,
+      "word": "孙颖莎没有隔夜仇",
+      "onboard_time": 1695732457,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -5281,14 +5353,6 @@
       "onboard_time": 1695484239,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210206,
-      "num": 210206,
-      "word": "周深 握不完根本握不完",
-      "onboard_time": 1695731499,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 209549,
@@ -5641,6 +5705,14 @@
       "onboard_time": 1695614674,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198944,
+      "num": 198944,
+      "word": "KPL",
+      "onboard_time": 1695731560,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 198659,
@@ -6417,14 +6489,6 @@
       "onboard_time": 1695641733,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176292,
-      "num": 176292,
-      "word": "KPL",
-      "onboard_time": 1695731560,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 176246,
@@ -8083,6 +8147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100830,
+      "num": 324736,
+      "word": "亚运王者决赛用的是iQOO手机",
+      "onboard_time": 1695731799,
+      "rank": 29,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 100704,
       "num": 208353,
       "word": "尼山版国潮流光映此夜",
@@ -8523,6 +8595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39040,
+      "num": 626485,
+      "word": "享受来自世界尼山的声音",
+      "onboard_time": 1695729642,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37558,
       "num": 1081650,
       "word": "良渚之光照耀亚运之美",
@@ -8553,14 +8633,6 @@
       "onboard_time": 1695663021,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34932,
-      "num": 626485,
-      "word": "享受来自世界尼山的声音",
-      "onboard_time": 1695729642,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34773,

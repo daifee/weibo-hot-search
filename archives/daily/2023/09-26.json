@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695731625730,
+  "endTime": 1695732611127,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -163,6 +163,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1445809,
+      "num": 622900,
+      "word": "男子上班浏览色情网站被解雇索赔30万",
+      "onboard_time": 1695719795,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1445073,
       "num": 470025,
       "word": "女子收6.6万彩礼不愿领证男方起诉退还",
@@ -177,14 +185,6 @@
       "onboard_time": 1695729579,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1391735,
-      "num": 622900,
-      "word": "男子上班浏览色情网站被解雇索赔30万",
-      "onboard_time": 1695719795,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1334032,
@@ -219,7 +219,7 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 1130623,
+      "raw_hot": 1137273,
       "num": 620658,
       "word": "迪丽热巴烟熏妆",
       "onboard_time": 1695727297,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951478,
+      "num": 951478,
+      "word": "周深 握不完根本握不完",
+      "onboard_time": 1695731499,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 947638,
       "num": 947638,
       "word": "徐必成金牌射手",
@@ -289,6 +297,14 @@
       "onboard_time": 1695715594,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 876969,
+      "num": 790229,
+      "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+      "onboard_time": 1695725017,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 857652,
@@ -337,14 +353,6 @@
       "onboard_time": 1695700473,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 823749,
-      "num": 790229,
-      "word": "妻子患癌多次住院丈夫3次诉离婚获准",
-      "onboard_time": 1695725017,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 821724,
@@ -481,6 +489,14 @@
       "onboard_time": 1695641793,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 689736,
+      "num": 689736,
+      "word": "孙杨",
+      "onboard_time": 1695731258,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 689246,
@@ -707,12 +723,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 521401,
+      "num": 521401,
+      "word": "王者项目颁奖仪式",
+      "onboard_time": 1695731618,
+      "rank": 21,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 519653,
       "num": 519653,
       "word": "成都调整住房限购措施",
       "onboard_time": 1695719673,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517721,
+      "num": 517721,
+      "word": "情侣租房跑路留满床血渍遍地垃圾",
+      "onboard_time": 1695730845,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 515242,
@@ -897,14 +929,6 @@
       "onboard_time": 1695693573,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 441243,
-      "num": 273892,
-      "word": "情侣租房跑路留满床血渍遍地垃圾",
-      "onboard_time": 1695730845,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 439206,
@@ -1107,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 323544,
+      "num": 323544,
+      "word": "巴黎时装周",
+      "onboard_time": 1695731618,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320039,
       "num": 320039,
       "word": "罗思源",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1695701015,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300601,
+      "num": 362018,
+      "word": "王者项目拿下首金",
+      "onboard_time": 1695731739,
+      "rank": 26,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 300137,
@@ -1387,12 +1427,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 270708,
-      "num": 270708,
-      "word": "孙杨",
-      "onboard_time": 1695731258,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 271816,
+      "num": 271816,
+      "word": "AG",
+      "onboard_time": 1695731679,
+      "rank": 34,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 269834,
@@ -1507,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246302,
+      "num": 246302,
+      "word": "孟佳黑色美人鱼造型",
+      "onboard_time": 1695730716,
+      "rank": 37,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 245214,
       "num": 223513,
       "word": "你会介意长辈染发吗",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1695708219,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 237731,
+      "num": 237731,
+      "word": "樊振东反手太丝滑了",
+      "onboard_time": 1695732397,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 236735,
@@ -1627,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221923,
+      "num": 221923,
+      "word": "中国男篮vs蒙古男篮",
+      "onboard_time": 1695732278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219336,
       "num": 219336,
       "word": "王楚钦 教练没有错信你",
@@ -1667,20 +1731,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215036,
-      "num": 215036,
-      "word": "孟佳黑色美人鱼造型",
-      "onboard_time": 1695730716,
-      "rank": 37,
-      "category": "音乐,时尚"
-    },
-    {
       "raw_hot": 214732,
       "num": 214732,
       "word": "张杰说的26原来是这么一回事儿",
       "onboard_time": 1695706836,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214272,
+      "num": 214272,
+      "word": "林恒金牌打野",
+      "onboard_time": 1695732520,
+      "rank": 43,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 214218,
+      "num": 214218,
+      "word": "孙颖莎没有隔夜仇",
+      "onboard_time": 1695732457,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 214185,
@@ -1720,14 +1792,6 @@
       "word": "黄仁俊 紧张小猫",
       "onboard_time": 1695723640,
       "rank": 33,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 210206,
-      "num": 210206,
-      "word": "周深 握不完根本握不完",
-      "onboard_time": 1695731499,
-      "rank": 40,
       "category": "音乐"
     },
     {
@@ -1785,6 +1849,14 @@
       "onboard_time": 1695726578,
       "rank": 37,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 198944,
+      "num": 198944,
+      "word": "KPL",
+      "onboard_time": 1695731560,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 197882,
@@ -2065,14 +2137,6 @@
       "onboard_time": 1695713439,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176292,
-      "num": 176292,
-      "word": "KPL",
-      "onboard_time": 1695731560,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 176246,
@@ -2683,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100830,
+      "num": 324736,
+      "word": "亚运王者决赛用的是iQOO手机",
+      "onboard_time": 1695731799,
+      "rank": 29,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 100704,
       "num": 208353,
       "word": "尼山版国潮流光映此夜",
@@ -2867,20 +2939,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39040,
+      "num": 626485,
+      "word": "享受来自世界尼山的声音",
+      "onboard_time": 1695729642,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36812,
       "num": 52564,
       "word": "安宥真MV演技",
       "onboard_time": 1695663021,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34932,
-      "num": 626485,
-      "word": "享受来自世界尼山的声音",
-      "onboard_time": 1695729642,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34773,
