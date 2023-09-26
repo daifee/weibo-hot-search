@@ -1,7 +1,15 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695723529121,
+  "endTime": 1695724533166,
   "band_list": [
+    {
+      "raw_hot": 10926584,
+      "num": 10926584,
+      "word": "花西子发疯",
+      "onboard_time": 1695721839,
+      "rank": 0,
+      "category": "美妆"
+    },
     {
       "raw_hot": 9754032,
       "num": 9754032,
@@ -35,16 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5058194,
-      "num": 5058194,
-      "word": "花西子发疯",
-      "onboard_time": 1695721839,
-      "rank": 0,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 4856852,
-      "num": 897863,
+      "num": 3751697,
       "word": "花西子称想做高端品牌",
       "onboard_time": 1695720814,
       "rank": 39,
@@ -2595,6 +2595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 425837,
+      "num": 425837,
+      "word": "微博音乐盛典",
+      "onboard_time": 1695721655,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420068,
       "num": 420068,
       "word": "王者荣耀比赛",
@@ -2707,14 +2715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 399259,
-      "num": 399259,
-      "word": "微博音乐盛典",
-      "onboard_time": 1695721655,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 397173,
       "num": 397173,
       "word": "吴易昺",
@@ -2785,6 +2785,14 @@
       "onboard_time": 1695519511,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 383557,
+      "num": 383557,
+      "word": "比许幻山还洪世贤的男人出现了",
+      "onboard_time": 1695723215,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 381521,
@@ -3307,14 +3315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316656,
-      "num": 316656,
-      "word": "比许幻山还洪世贤的男人出现了",
-      "onboard_time": 1695723215,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 316585,
       "num": 316585,
       "word": "芭莎拍的檀健次",
@@ -3353,6 +3353,14 @@
       "onboard_time": 1695719376,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314847,
+      "num": 314847,
+      "word": "逆水寒 赶紧重画天赏头像",
+      "onboard_time": 1695723337,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 314488,
@@ -3425,6 +3433,14 @@
       "onboard_time": 1695539733,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310525,
+      "num": 310525,
+      "word": "六七岁是狗都嫌弃的年纪",
+      "onboard_time": 1695723817,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 309190,
@@ -4227,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254163,
+      "num": 254163,
+      "word": "张柏芝赫本风小黑裙",
+      "onboard_time": 1695722258,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253971,
       "num": 253971,
       "word": "德国国防军士兵在乌克兰被俘",
@@ -4955,6 +4979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212332,
+      "num": 212332,
+      "word": "黄仁俊 紧张小猫",
+      "onboard_time": 1695723640,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210829,
       "num": 210829,
       "word": "杨丞琳亲了李斯丹妮",
@@ -5048,14 +5080,6 @@
       "word": "赵露思被鸽子吓到了",
       "onboard_time": 1695512365,
       "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206701,
-      "num": 206701,
-      "word": "张柏芝赫本风小黑裙",
-      "onboard_time": 1695722258,
-      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -5347,6 +5371,14 @@
       "category": "社会新闻,剧集"
     },
     {
+      "raw_hot": 197330,
+      "num": 197330,
+      "word": "本周将迎来近年最堵十一",
+      "onboard_time": 1695723698,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197286,
       "num": 197286,
       "word": "赵今麦黄色雨靴",
@@ -5441,14 +5473,6 @@
       "onboard_time": 1695652182,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194636,
-      "num": 194636,
-      "word": "逆水寒 赶紧重画天赏头像",
-      "onboard_time": 1695723337,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 194575,
@@ -5665,6 +5689,14 @@
       "onboard_time": 1695475542,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188383,
+      "num": 188383,
+      "word": "凡人修仙传",
+      "onboard_time": 1695724297,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 188175,
@@ -6129,6 +6161,14 @@
       "onboard_time": 1695631120,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173769,
+      "num": 173769,
+      "word": "杭州亚运会中医馆成打卡点",
+      "onboard_time": 1695724362,
+      "rank": 41,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 173324,
@@ -7163,6 +7203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136467,
+      "num": 136467,
+      "word": "全红婵来杭州也带着乌龟玩偶",
+      "onboard_time": 1695721117,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136448,
       "num": 196098,
       "word": "王者荣耀赛事",
@@ -7316,7 +7364,7 @@
     },
     {
       "raw_hot": 128379,
-      "num": 359509,
+      "num": 398523,
       "word": "张博恒全能王",
       "onboard_time": 1695722497,
       "rank": 19,
