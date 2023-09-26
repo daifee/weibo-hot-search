@@ -1,0 +1,410 @@
+{
+  "runTime": 1695720860761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1807661,
+        "num": 1807661,
+        "word": "国乒女团横扫日本",
+        "onboard_time": 1695718776,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1477935,
+        "num": 1477935,
+        "word": "被叙利亚第一夫人圈粉了",
+        "onboard_time": 1695709956,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 119649,
+        "num": 1247561,
+        "word": "国庆大花篮祝福祖国繁荣昌盛",
+        "onboard_time": 1695715594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187960,
+        "num": 1187960,
+        "word": "RAIN被诉涉嫌85亿房产诈骗",
+        "onboard_time": 1695716555,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984470,
+        "num": 984470,
+        "word": "张本美和才15岁",
+        "onboard_time": 1695718716,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588766,
+        "num": 588766,
+        "word": "魏大勋WSJ",
+        "onboard_time": 1695718237,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 577007,
+        "num": 577007,
+        "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+        "onboard_time": 1695719495,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1848797,
+        "num": 574703,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568488,
+        "num": 568488,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540665,
+        "num": 540665,
+        "word": "李莎旻子主持功底",
+        "onboard_time": 1695717455,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 788554,
+        "num": 538406,
+        "word": "江西一国企领导称要取消周末",
+        "onboard_time": 1695714514,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782313,
+        "num": 536389,
+        "word": "张本美和 张本智和",
+        "onboard_time": 1695718716,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545069,
+        "num": 533247,
+        "word": "挖呀挖黄老师开启直播带货",
+        "onboard_time": 1695705159,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 530055,
+        "num": 530055,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1483859,
+        "num": 526217,
+        "word": "袁记云饺被曝是预制菜",
+        "onboard_time": 1695717756,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 519653,
+        "num": 519653,
+        "word": "成都调整住房限购措施",
+        "onboard_time": 1695719673,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446625,
+        "num": 446625,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372048,
+        "num": 372048,
+        "word": "陈梦的圆梦项链",
+        "onboard_time": 1695717333,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369433,
+        "num": 369433,
+        "word": "黄景瑜什么都夹只会害了你",
+        "onboard_time": 1695718114,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364906,
+        "num": 364906,
+        "word": "微博音乐盛典红毯",
+        "onboard_time": 1695714935,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316585,
+        "num": 316585,
+        "word": "芭莎拍的檀健次",
+        "onboard_time": 1695719136,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315834,
+        "num": 315834,
+        "word": "异人之下老人给小孩在家换血",
+        "onboard_time": 1695717636,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298946,
+        "num": 298946,
+        "word": "逆水寒",
+        "onboard_time": 1695716195,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295458,
+        "num": 295458,
+        "word": "勇敢的姑娘 性教育",
+        "onboard_time": 1695709836,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291610,
+        "num": 291610,
+        "word": "王曼昱3比1张本美和",
+        "onboard_time": 1695719376,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288904,
+        "num": 288904,
+        "word": "陈梦3比2平野美宇",
+        "onboard_time": 1695715835,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288142,
+        "num": 288142,
+        "word": "希林娜依高红毯拔河",
+        "onboard_time": 1695719376,
+        "rank": 26,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 252642,
+        "num": 252642,
+        "word": "虞书欣否极泰来物极必反BGM",
+        "onboard_time": 1695715234,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234288,
+        "num": 234288,
+        "word": "陈梦状态",
+        "onboard_time": 1695715594,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233707,
+        "num": 233707,
+        "word": "孙颖莎为队友加油撞脸花花",
+        "onboard_time": 1695719016,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689246,
+        "num": 233544,
+        "word": "于鲁明被判11年",
+        "onboard_time": 1695719856,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379553,
+        "num": 232918,
+        "word": "男子上班浏览色情网站被解雇索赔30万",
+        "onboard_time": 1695719795,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234604,
+        "num": 232238,
+        "word": "外国人怎么什么中文都往衣服上印",
+        "onboard_time": 1695720338,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229927,
+        "num": 229927,
+        "word": "邓为GQ十月刊大片",
+        "onboard_time": 1695716555,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228490,
+        "num": 228490,
+        "word": "黄绮珊瘦了26斤",
+        "onboard_time": 1695720276,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228045,
+        "num": 228045,
+        "word": "猫被鱼扇了一巴掌",
+        "onboard_time": 1695717333,
+        "rank": 35,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 223032,
+        "num": 223032,
+        "word": "10岁男童将体温计插入尿道不慎折断",
+        "onboard_time": 1695712236,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202200,
+        "num": 202200,
+        "word": "龚俊穿了裙子",
+        "onboard_time": 1695706955,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193905,
+        "num": 193905,
+        "word": "王者项目决赛",
+        "onboard_time": 1695714514,
+        "rank": 38,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 185632,
+        "num": 185632,
+        "word": "花西子称想做高端品牌",
+        "onboard_time": 1695720814,
+        "rank": 39,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 184132,
+        "num": 184132,
+        "word": "王者荣耀",
+        "onboard_time": 1695720216,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174356,
+        "num": 174356,
+        "word": "毛不易将缺席后续活动",
+        "onboard_time": 1695697113,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163953,
+        "num": 163953,
+        "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+        "onboard_time": 1695700776,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158262,
+        "num": 158262,
+        "word": "男子要微信被拒殴打2女孩致流血",
+        "onboard_time": 1695703299,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146833,
+        "num": 146833,
+        "word": "上海关心你 沪cares you",
+        "onboard_time": 1695712475,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 143373,
+        "num": 143373,
+        "word": "傅云深妈妈好窒息",
+        "onboard_time": 1695719915,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140038,
+        "num": 140038,
+        "word": "冯宝宝与张楚岚",
+        "onboard_time": 1695713916,
+        "rank": 46,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 138974,
+        "num": 138974,
+        "word": "携程回应民宿老板称被悄悄涨价2100",
+        "onboard_time": 1695720638,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135538,
+        "num": 135538,
+        "word": "害怕马琳的暂停",
+        "onboard_time": 1695712055,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120633,
+        "num": 120633,
+        "word": "结婚和一辈子恋爱有什么区别",
+        "onboard_time": 1695700054,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手构建人类命运共同体白皮书#"
+    }
+  }
+}

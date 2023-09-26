@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695719833882,
+  "endTime": 1695720860761,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1807661,
+      "num": 1807661,
+      "word": "国乒女团横扫日本",
+      "onboard_time": 1695718776,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1797449,
       "num": 1797449,
       "word": "美国小费文化正在失控",
@@ -283,14 +291,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 1523321,
-      "num": 1523321,
-      "word": "国乒女团横扫日本",
-      "onboard_time": 1695718776,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1511374,
       "num": 400300,
       "word": "韩女不生的原因找到了",
@@ -329,6 +329,14 @@
       "onboard_time": 1695608488,
       "rank": 30,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 1483859,
+      "num": 1337308,
+      "word": "袁记云饺被曝是预制菜",
+      "onboard_time": 1695717756,
+      "rank": 3,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1481376,
@@ -377,14 +385,6 @@
       "onboard_time": 1695483339,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1337308,
-      "num": 1337308,
-      "word": "袁记云饺被曝是预制菜",
-      "onboard_time": 1695717756,
-      "rank": 3,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1334032,
@@ -641,6 +641,14 @@
       "onboard_time": 1695630579,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 984470,
+      "num": 984470,
+      "word": "张本美和才15岁",
+      "onboard_time": 1695718716,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 979026,
@@ -923,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 807299,
-      "num": 562929,
-      "word": "张本美和才15岁",
-      "onboard_time": 1695718716,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 806361,
       "num": 472304,
       "word": "李现喂自己大屏喝饮料",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1695687336,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782313,
+      "num": 536389,
+      "word": "张本美和 张本智和",
+      "onboard_time": 1695718716,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 782048,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1695567939,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 689246,
+      "num": 233544,
+      "word": "于鲁明被判11年",
+      "onboard_time": 1695719856,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688291,
@@ -1667,6 +1683,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 588766,
+      "num": 588766,
+      "word": "魏大勋WSJ",
+      "onboard_time": 1695718237,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 586852,
       "num": 478381,
       "word": "余承东称mate60正紧急生产",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1695611193,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 577007,
+      "num": 577007,
+      "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+      "onboard_time": 1695719495,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 575459,
@@ -1875,6 +1907,14 @@
       "category": "剧集,动漫"
     },
     {
+      "raw_hot": 540665,
+      "num": 540665,
+      "word": "李莎旻子主持功底",
+      "onboard_time": 1695717455,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 539683,
       "num": 539683,
       "word": "外国运动员在杭州疯狂买买买",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1695628656,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 519653,
+      "num": 519653,
+      "word": "成都调整住房限购措施",
+      "onboard_time": 1695719673,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518687,
@@ -2107,28 +2155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498032,
-      "num": 498032,
-      "word": "魏大勋WSJ",
-      "onboard_time": 1695718237,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 493754,
       "num": 393095,
       "word": "龚俊穿了裙子",
       "onboard_time": 1695706955,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 489840,
-      "num": 489840,
-      "word": "张本美和 张本智和",
-      "onboard_time": 1695718716,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 486794,
@@ -2619,14 +2651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 398105,
-      "num": 398105,
-      "word": "李莎旻子主持功底",
-      "onboard_time": 1695717455,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 397173,
       "num": 397173,
       "word": "吴易昺",
@@ -2723,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379553,
+      "num": 232918,
+      "word": "男子上班浏览色情网站被解雇索赔30万",
+      "onboard_time": 1695719795,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378615,
       "num": 635002,
       "word": "男孩下网约车后找不到家人教科书式操作",
@@ -2771,6 +2803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 372048,
+      "num": 540403,
+      "word": "陈梦的圆梦项链",
+      "onboard_time": 1695717333,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371980,
       "num": 371980,
       "word": "张萌行李丢了",
@@ -2803,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369433,
+      "num": 369433,
+      "word": "黄景瑜什么都夹只会害了你",
+      "onboard_time": 1695718114,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368936,
       "num": 368936,
       "word": "杨倩解说",
@@ -2817,14 +2865,6 @@
       "onboard_time": 1695515851,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 368581,
-      "num": 368581,
-      "word": "黄景瑜什么都夹只会害了你",
-      "onboard_time": 1695718114,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 367418,
@@ -2960,14 +3000,6 @@
       "word": "中国队金牌1个九宫格放不下",
       "onboard_time": 1695563139,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 338796,
-      "num": 540403,
-      "word": "陈梦的圆梦项链",
-      "onboard_time": 1695717333,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -3217,6 +3249,14 @@
       "onboard_time": 1695535954,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316585,
+      "num": 316585,
+      "word": "芭莎拍的檀健次",
+      "onboard_time": 1695719136,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 315911,
@@ -3553,6 +3593,14 @@
       "onboard_time": 1695629017,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 288142,
+      "num": 288142,
+      "word": "希林娜依高红毯拔河",
+      "onboard_time": 1695719376,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 287976,
@@ -4371,12 +4419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234612,
-      "num": 234612,
-      "word": "芭莎拍的檀健次",
-      "onboard_time": 1695719136,
+      "raw_hot": 234604,
+      "num": 232238,
+      "word": "外国人怎么什么中文都往衣服上印",
+      "onboard_time": 1695720338,
       "rank": 32,
-      "category": "作品衍生,时尚"
+      "category": "幽默"
     },
     {
       "raw_hot": 234246,
@@ -4459,14 +4507,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 231445,
-      "num": 231445,
-      "word": "希林娜依高红毯拔河",
-      "onboard_time": 1695719376,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 230211,
       "num": 230211,
       "word": "华为发布首款隔空触控电视",
@@ -4505,6 +4545,14 @@
       "onboard_time": 1695699274,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228490,
+      "num": 228490,
+      "word": "黄绮珊瘦了26斤",
+      "onboard_time": 1695720276,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 227265,
@@ -5659,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185632,
+      "num": 185632,
+      "word": "花西子称想做高端品牌",
+      "onboard_time": 1695720814,
+      "rank": 39,
+      "category": "美妆,财经"
+    },
+    {
       "raw_hot": 184921,
       "num": 184921,
       "word": "英雄联盟队伍亮相",
@@ -5673,6 +5729,14 @@
       "onboard_time": 1695558335,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184132,
+      "num": 184132,
+      "word": "王者荣耀",
+      "onboard_time": 1695720216,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 184036,
@@ -6451,14 +6515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154370,
-      "num": 154370,
-      "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
-      "onboard_time": 1695719495,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 154178,
       "num": 154178,
       "word": "唐钱婷50米蛙金牌",
@@ -6795,6 +6851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143373,
+      "num": 143373,
+      "word": "傅云深妈妈好窒息",
+      "onboard_time": 1695719915,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142753,
       "num": 142753,
       "word": "吴易昺把网球牢牢的拿捏了",
@@ -6897,6 +6961,14 @@
       "onboard_time": 1695711575,
       "rank": 41,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 138974,
+      "num": 138974,
+      "word": "携程回应民宿老板称被悄悄涨价2100",
+      "onboard_time": 1695720638,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138922,
@@ -7003,14 +7075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136167,
-      "num": 136167,
-      "word": "成都调整住房限购措施",
-      "onboard_time": 1695719673,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136119,
       "num": 136119,
       "word": "领舞小姐姐跳进了我心里",
@@ -7113,14 +7177,6 @@
       "onboard_time": 1695695670,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130193,
-      "num": 130193,
-      "word": "男子上班浏览色情网站被解雇索赔30万",
-      "onboard_time": 1695719795,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129605,
@@ -7281,6 +7337,14 @@
       "onboard_time": 1695656677,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119649,
+      "num": 1425739,
+      "word": "国庆大花篮祝福祖国繁荣昌盛",
+      "onboard_time": 1695715594,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119629,
@@ -7545,14 +7609,6 @@
       "onboard_time": 1695542792,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 93107,
-      "num": 1425739,
-      "word": "国庆大花篮祝福祖国繁荣昌盛",
-      "onboard_time": 1695715594,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92576,
