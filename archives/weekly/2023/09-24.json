@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695749647529,
+  "endTime": 1695752533265,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1695512967,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 413372,
+      "num": 124409,
+      "word": "官方通报10岁男孩遭俩男生常年凌辱猥亵",
+      "onboard_time": 1695747923,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412355,
@@ -6547,14 +6555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191432,
-      "num": 124409,
-      "word": "官方通报10岁男孩遭俩男生常年凌辱猥亵",
-      "onboard_time": 1695747923,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191372,
       "num": 191372,
       "word": "钟辰乐黄仁俊互相彩虹屁",
@@ -9035,6 +9035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72581,
+      "num": 69149,
+      "word": "芒果的后期是懂复仇学的",
+      "onboard_time": 1695751758,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 72421,
       "num": 72421,
       "word": "异能",
@@ -9307,6 +9315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39977,
+      "num": 39977,
+      "word": "Mate60遥遥领先",
+      "onboard_time": 1695749839,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39270,
       "num": 49545,
       "word": "有职业空窗期再就业有多难",
@@ -9433,6 +9449,14 @@
       "onboard_time": 1695543333,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29707,
+      "num": 30930,
+      "word": "王嘉尔刘宇宁花式互动",
+      "onboard_time": 1695750379,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 28204,
