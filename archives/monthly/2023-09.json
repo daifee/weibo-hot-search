@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695756862651,
+  "endTime": 1695759494520,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -68731,6 +68731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34323,
+      "num": 31259,
+      "word": "15岁少年踩豪车炫耀车主拒绝和解",
+      "onboard_time": 1695756134,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34196,
       "num": 42911,
       "word": "英雄联盟国家集训队抵达亚运村",
@@ -69699,14 +69707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20753,
-      "num": 20753,
-      "word": "15岁少年踩豪车炫耀车主拒绝和解",
-      "onboard_time": 1695756134,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20553,
       "num": 27279,
       "word": "Apex英雄",
@@ -69719,6 +69719,14 @@
       "num": 200287,
       "word": "亚运火炬手有了不起的榜样",
       "onboard_time": 1694249493,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20140,
+      "num": 20140,
+      "word": "王哲林",
+      "onboard_time": 1695757694,
       "rank": 35,
       "category": "体育"
     },
@@ -70009,6 +70017,14 @@
       "onboard_time": 1695069255,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12309,
+      "num": 16911,
+      "word": "周深一直在升key",
+      "onboard_time": 1695759074,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 11373,
