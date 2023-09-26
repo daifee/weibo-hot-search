@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695712561704,
+  "endTime": 1695713653215,
   "band_list": [
     {
       "raw_hot": 7971090,
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047162,
+      "num": 1047162,
+      "word": "被叙利亚第一夫人圈粉了",
+      "onboard_time": 1695709956,
+      "rank": 47,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1035324,
       "num": 1035324,
       "word": "我有一个朋友 不想让它糊的剧",
       "onboard_time": 1695692672,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 893092,
-      "num": 893092,
-      "word": "被叙利亚第一夫人圈粉了",
-      "onboard_time": 1695709956,
-      "rank": 47,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 857652,
@@ -137,6 +137,14 @@
       "onboard_time": 1695702881,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 828311,
+      "num": 828311,
+      "word": "害怕马琳的暂停",
+      "onboard_time": 1695712055,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 824581,
@@ -177,6 +185,14 @@
       "onboard_time": 1695687336,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 780888,
+      "num": 257430,
+      "word": "10岁男童将体温计插入尿道不慎折断",
+      "onboard_time": 1695712236,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778765,
@@ -435,14 +451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 493676,
-      "num": 493676,
-      "word": "害怕马琳的暂停",
-      "onboard_time": 1695712055,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 486794,
       "num": 526630,
       "word": "一个饺子进嘴爸爸和女儿都泪崩了",
@@ -473,6 +481,14 @@
       "onboard_time": 1695656914,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 457366,
+      "num": 457366,
+      "word": "许光汉要演韩剧了",
+      "onboard_time": 1695707559,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 448930,
@@ -513,14 +529,6 @@
       "onboard_time": 1695694114,
       "rank": 22,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 426835,
-      "num": 426835,
-      "word": "许光汉要演韩剧了",
-      "onboard_time": 1695707559,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 418527,
@@ -715,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292360,
+      "num": 276360,
+      "word": "女子想见领导被3名保安踩在脚下",
+      "onboard_time": 1695708098,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289567,
       "num": 218375,
       "word": "鞠婧祎三套造型反差感",
@@ -763,12 +779,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 276360,
-      "num": 276360,
-      "word": "女子想见领导被3名保安踩在脚下",
-      "onboard_time": 1695708098,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 278457,
+      "num": 278457,
+      "word": "上海关心你 沪cares you",
+      "onboard_time": 1695712475,
+      "rank": 40,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 274255,
@@ -819,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256255,
+      "num": 256255,
+      "word": "张小斐又姐又狗",
+      "onboard_time": 1695712417,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245214,
       "num": 223513,
       "word": "你会介意长辈染发吗",
@@ -841,6 +865,14 @@
       "onboard_time": 1695708219,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 238334,
+      "num": 238334,
+      "word": "2.5亿年后所有的美好或都将结束",
+      "onboard_time": 1695711216,
+      "rank": 27,
+      "category": "知识科普"
     },
     {
       "raw_hot": 236735,
@@ -907,28 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227109,
-      "num": 205953,
-      "word": "10岁男童将体温计插入尿道不慎折断",
-      "onboard_time": 1695712236,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226103,
       "num": 226103,
       "word": "比利时漫展外国女生cos异人之下",
       "onboard_time": 1695698737,
       "rank": 27,
       "category": "社会新闻,动漫"
-    },
-    {
-      "raw_hot": 225405,
-      "num": 225405,
-      "word": "2.5亿年后所有的美好或都将结束",
-      "onboard_time": 1695711216,
-      "rank": 27,
-      "category": "知识科普"
     },
     {
       "raw_hot": 219336,
@@ -1243,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168204,
+      "num": 168204,
+      "word": "邻居说很心疼汪顺",
+      "onboard_time": 1695712958,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167388,
       "num": 167388,
       "word": "初秋通勤怎么穿出松弛感",
@@ -1291,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159776,
+      "num": 159776,
+      "word": "邓亚萍回应女乒11比0",
+      "onboard_time": 1695713439,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159394,
       "num": 159394,
       "word": "走近一线检察官",
@@ -1319,6 +1351,14 @@
       "num": 156377,
       "word": "孙颖莎2比0领先",
       "onboard_time": 1695710015,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155443,
+      "num": 155443,
+      "word": "亚运会乒乓球",
+      "onboard_time": 1695713556,
       "rank": 37,
       "category": "体育"
     },
@@ -1379,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148313,
+      "num": 148313,
+      "word": "王者吕布敦煌新皮肤",
+      "onboard_time": 1695711816,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147619,
       "num": 147619,
       "word": "孟佳看JJ演唱会偶遇林允",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1695699452,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 144594,
-      "num": 144594,
-      "word": "上海关心你 沪cares you",
-      "onboard_time": 1695712475,
-      "rank": 40,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 143641,
@@ -1451,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134602,
-      "num": 134602,
-      "word": "张小斐又姐又狗",
-      "onboard_time": 1695712417,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "美商务部将10家中企列入实体清单",
@@ -1491,12 +1523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128343,
-      "num": 128343,
-      "word": "王者吕布敦煌新皮肤",
-      "onboard_time": 1695711816,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 129605,
+      "num": 129605,
+      "word": "我的妈妈今年夏天做了子宫摘除手术",
+      "onboard_time": 1695711994,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 127690,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1695640234,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107235,
+      "num": 107235,
+      "word": "江西建工回应设计院院长称要取消周末",
+      "onboard_time": 1695713495,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105683,
@@ -1763,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67540,
+      "num": 393971,
+      "word": "张之臻首进亚运会八强",
+      "onboard_time": 1695711636,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62687,
       "num": 62687,
       "word": "放在整个露营界都是相当炸裂",
@@ -1801,14 +1849,6 @@
       "onboard_time": 1695663739,
       "rank": 30,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 53635,
-      "num": 393971,
-      "word": "张之臻首进亚运会八强",
-      "onboard_time": 1695711636,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 52249,
