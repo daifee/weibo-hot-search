@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695698251667,
+  "endTime": 1695699236228,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -33,6 +33,14 @@
       "onboard_time": 1695687997,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2578608,
+      "num": 2578608,
+      "word": "毛不易将缺席后续活动",
+      "onboard_time": 1695697113,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2498308,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1861612,
+      "num": 580947,
+      "word": "离婚排不上号",
+      "onboard_time": 1695697474,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1797449,
       "num": 1797449,
       "word": "美国小费文化正在失控",
@@ -161,14 +177,6 @@
       "onboard_time": 1695638675,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1697343,
-      "num": 1697343,
-      "word": "毛不易将缺席后续活动",
-      "onboard_time": 1695697113,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1695506,
@@ -659,6 +667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 886923,
+      "num": 886923,
+      "word": "休8天上7天你怎么看",
+      "onboard_time": 1695697714,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881789,
       "num": 347900,
       "word": "上东区的富家千金每天都穿什么出门",
@@ -947,6 +963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 755601,
+      "num": 450216,
+      "word": "任豪 什么都吃只会害了你",
+      "onboard_time": 1695697474,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 747959,
       "num": 411490,
       "word": "韩红亲了林俊杰左脸",
@@ -1195,14 +1219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 661523,
-      "num": 450216,
-      "word": "任豪 什么都吃只会害了你",
-      "onboard_time": 1695697474,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 660386,
       "num": 660386,
       "word": "日本男团0比2伊朗男团",
@@ -1425,14 +1441,6 @@
       "onboard_time": 1695521730,
       "rank": 13,
       "category": "知识科普,美妆"
-    },
-    {
-      "raw_hot": 580947,
-      "num": 580947,
-      "word": "离婚排不上号",
-      "onboard_time": 1695697474,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 577046,
@@ -2139,6 +2147,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 432327,
+      "num": 445673,
+      "word": "有中国公民被骗至韩国济州",
+      "onboard_time": 1695694292,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428522,
       "num": 428522,
       "word": "五月天突然好想你雨中氛围感",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1695565061,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 398131,
+      "num": 398131,
+      "word": "虞书欣巴黎时装周造型",
+      "onboard_time": 1695698253,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394026,
@@ -2755,20 +2779,20 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 317126,
+      "num": 317126,
+      "word": "ChatGPT王炸级别的更新 多模态功能",
+      "onboard_time": 1695697413,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 316863,
       "num": 262796,
       "word": "田嘉瑞全网涨粉超200万",
       "onboard_time": 1695535954,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316114,
-      "num": 445673,
-      "word": "有中国公民被骗至韩国济州",
-      "onboard_time": 1695694292,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315911,
@@ -3515,20 +3539,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252661,
+      "num": 182545,
+      "word": "男生看到Angelababy的表情别太真实了",
+      "onboard_time": 1695698435,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252545,
       "num": 252545,
       "word": "亚运会宣传片男主是董浩然",
       "onboard_time": 1695477701,
       "rank": 28,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 250303,
-      "num": 250303,
-      "word": "ChatGPT王炸级别的更新 多模态功能",
-      "onboard_time": 1695697413,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 250109,
@@ -3851,14 +3875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225497,
-      "num": 225497,
-      "word": "休8天上7天你怎么看",
-      "onboard_time": 1695697714,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224178,
       "num": 224178,
       "word": "情侣是最好的旅游饭搭子",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1695537333,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222391,
+      "num": 222391,
+      "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+      "onboard_time": 1695699095,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 220363,
@@ -4395,6 +4419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201515,
+      "num": 201515,
+      "word": "比利时漫展外国女生cos异人之下",
+      "onboard_time": 1695698737,
+      "rank": 27,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 201428,
       "num": 201428,
       "word": "i人和e人打游戏的区别",
@@ -4585,6 +4617,14 @@
       "onboard_time": 1695690454,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194246,
+      "num": 181977,
+      "word": "1至8月全国缴毒16.5吨",
+      "onboard_time": 1695698796,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 194163,
@@ -4971,6 +5011,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 180529,
+      "num": 180529,
+      "word": "上班第一天收到同事请柬",
+      "onboard_time": 1695696932,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180245,
       "num": 211272,
       "word": "中国茶上拉花让巴赫直呼舍不得喝",
@@ -4985,6 +5033,14 @@
       "onboard_time": 1695628958,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179444,
+      "num": 179444,
+      "word": "河南一服务区公厕现厕长和总厕长",
+      "onboard_time": 1695698555,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178404,
@@ -5081,14 +5137,6 @@
       "onboard_time": 1695631120,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173523,
-      "num": 173523,
-      "word": "上班第一天收到同事请柬",
-      "onboard_time": 1695696932,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 173324,
@@ -5209,6 +5257,14 @@
       "onboard_time": 1695645575,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165881,
+      "num": 165881,
+      "word": "AI能把小白打造成网红博主吗",
+      "onboard_time": 1695698796,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165304,
@@ -5385,6 +5441,14 @@
       "onboard_time": 1695651159,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 157882,
+      "num": 157882,
+      "word": "张学友南京抢票",
+      "onboard_time": 1695699155,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 157860,
@@ -6369,6 +6433,14 @@
       "onboard_time": 1695612813,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99418,
+      "num": 99418,
+      "word": "多想让您看看万家灯火国泰民安",
+      "onboard_time": 1695699214,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 99060,

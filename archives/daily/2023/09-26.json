@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695698251667,
+  "endTime": 1695699236228,
   "band_list": [
     {
       "raw_hot": 2724216,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2578608,
+      "num": 2578608,
+      "word": "毛不易将缺席后续活动",
+      "onboard_time": 1695697113,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2434809,
       "num": 2434809,
       "word": "680元民宿被平台悄悄调成国庆2780",
@@ -19,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1861612,
+      "num": 580947,
+      "word": "离婚排不上号",
+      "onboard_time": 1695697474,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1797449,
       "num": 1797449,
       "word": "美国小费文化正在失控",
       "onboard_time": 1695686613,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1697343,
-      "num": 1697343,
-      "word": "毛不易将缺席后续活动",
-      "onboard_time": 1695697113,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1511374,
@@ -57,6 +65,14 @@
       "onboard_time": 1695692672,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 886923,
+      "num": 886923,
+      "word": "休8天上7天你怎么看",
+      "onboard_time": 1695697714,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 788741,
@@ -89,6 +105,14 @@
       "onboard_time": 1695688116,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 755601,
+      "num": 450216,
+      "word": "任豪 什么都吃只会害了你",
+      "onboard_time": 1695697474,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 724052,
@@ -131,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661523,
-      "num": 450216,
-      "word": "任豪 什么都吃只会害了你",
-      "onboard_time": 1695697474,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 638702,
       "num": 638702,
       "word": "准女婿是怎么中秋转正的",
@@ -161,14 +177,6 @@
       "onboard_time": 1695691236,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 580947,
-      "num": 580947,
-      "word": "离婚排不上号",
-      "onboard_time": 1695697474,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 548137,
@@ -291,12 +299,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 432327,
+      "num": 445673,
+      "word": "有中国公民被骗至韩国济州",
+      "onboard_time": 1695694292,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418527,
       "num": 418527,
       "word": "三倍工资你愿意加班吗",
       "onboard_time": 1695691713,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398131,
+      "num": 398131,
+      "word": "虞书欣巴黎时装周造型",
+      "onboard_time": 1695698253,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 370929,
@@ -347,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316114,
-      "num": 445673,
-      "word": "有中国公民被骗至韩国济州",
-      "onboard_time": 1695694292,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 317126,
+      "num": 317126,
+      "word": "ChatGPT王炸级别的更新 多模态功能",
+      "onboard_time": 1695697413,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 315911,
@@ -467,12 +491,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250303,
-      "num": 250303,
-      "word": "ChatGPT王炸级别的更新 多模态功能",
-      "onboard_time": 1695697413,
-      "rank": 26,
-      "category": "互联网"
+      "raw_hot": 252661,
+      "num": 182545,
+      "word": "男生看到Angelababy的表情别太真实了",
+      "onboard_time": 1695698435,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 245214,
@@ -531,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225497,
-      "num": 225497,
-      "word": "休8天上7天你怎么看",
-      "onboard_time": 1695697714,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 222391,
+      "num": 222391,
+      "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+      "onboard_time": 1695699095,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 219336,
@@ -587,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201515,
+      "num": 201515,
+      "word": "比利时漫展外国女生cos异人之下",
+      "onboard_time": 1695698737,
+      "rank": 27,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 196486,
       "num": 196486,
       "word": "成毅 手控福利",
@@ -617,6 +649,14 @@
       "onboard_time": 1695690454,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194246,
+      "num": 181977,
+      "word": "1至8月全国缴毒16.5吨",
+      "onboard_time": 1695698796,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 191082,
@@ -651,11 +691,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180529,
+      "num": 180529,
+      "word": "上班第一天收到同事请柬",
+      "onboard_time": 1695696932,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179890,
       "num": 130675,
       "word": "舅舅染黄发接2年级外甥放学被嫌弃",
       "onboard_time": 1695646596,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179444,
+      "num": 179444,
+      "word": "河南一服务区公厕现厕长和总厕长",
+      "onboard_time": 1695698555,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -673,14 +729,6 @@
       "onboard_time": 1695647858,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173523,
-      "num": 173523,
-      "word": "上班第一天收到同事请柬",
-      "onboard_time": 1695696932,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 169640,
@@ -707,6 +755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165881,
+      "num": 165881,
+      "word": "AI能把小白打造成网红博主吗",
+      "onboard_time": 1695698796,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161760,
       "num": 161760,
       "word": "姐姐婚礼现场军人弟弟捧花惊喜现身",
@@ -729,6 +785,14 @@
       "onboard_time": 1695695433,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157882,
+      "num": 157882,
+      "word": "张学友南京抢票",
+      "onboard_time": 1695699155,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 153862,
@@ -953,6 +1017,14 @@
       "onboard_time": 1695655477,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99418,
+      "num": 99418,
+      "word": "多想让您看看万家灯火国泰民安",
+      "onboard_time": 1695699214,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 98807,

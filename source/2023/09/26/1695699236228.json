@@ -1,0 +1,410 @@
+{
+  "runTime": 1695699236228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2578608,
+        "num": 2578608,
+        "word": "毛不易将缺席后续活动",
+        "onboard_time": 1695697113,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1623617,
+        "num": 1623617,
+        "word": "680元民宿被平台悄悄调成国庆2780",
+        "onboard_time": 1695688536,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27712,
+        "num": 1067495,
+        "word": "一起看亚运",
+        "onboard_time": 1695645274,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 886923,
+        "num": 886923,
+        "word": "休8天上7天你怎么看",
+        "onboard_time": 1695697714,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786945,
+        "num": 786945,
+        "word": "我有一个朋友 不想让它糊的剧",
+        "onboard_time": 1695692672,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 609123,
+        "num": 609123,
+        "word": "这身材谁看了不迷糊",
+        "onboard_time": 1695693094,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600530,
+        "num": 600530,
+        "word": "霍启刚 亚运会宿舍roomtour",
+        "onboard_time": 1695693094,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522177,
+        "num": 522177,
+        "word": "准女婿是怎么中秋转正的",
+        "onboard_time": 1695695433,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432327,
+        "num": 432327,
+        "word": "有中国公民被骗至韩国济州",
+        "onboard_time": 1695694292,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398131,
+        "num": 398131,
+        "word": "虞书欣巴黎时装周造型",
+        "onboard_time": 1695698253,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1861612,
+        "num": 397609,
+        "word": "离婚排不上号",
+        "onboard_time": 1695697474,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 755601,
+        "num": 396965,
+        "word": "任豪 什么都吃只会害了你",
+        "onboard_time": 1695697474,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320225,
+        "num": 396016,
+        "word": "一个饺子进嘴爸爸和女儿都泪崩了",
+        "onboard_time": 1695692314,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320102,
+        "num": 395484,
+        "word": "父母染上网瘾了怎么办",
+        "onboard_time": 1695692672,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204180,
+        "num": 394495,
+        "word": "学生刺杀操失误给领导吓一身汗",
+        "onboard_time": 1695650559,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393990,
+        "num": 393990,
+        "word": "体面之后是何必",
+        "onboard_time": 1695696693,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 614020,
+        "num": 386701,
+        "word": "首批iPhone15Pro或有大量瑕疵机",
+        "onboard_time": 1695693753,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 480452,
+        "num": 383646,
+        "word": "杨玏小时候一天吃十袋奶",
+        "onboard_time": 1695693934,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367374,
+        "num": 367374,
+        "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
+        "onboard_time": 1695694114,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 346745,
+        "num": 346745,
+        "word": "调休不如适当增加和延长假期",
+        "onboard_time": 1695687997,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363698,
+        "num": 346542,
+        "word": "韩女不生的原因找到了",
+        "onboard_time": 1695655655,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344134,
+        "num": 344134,
+        "word": "三倍工资你愿意加班吗",
+        "onboard_time": 1695691713,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317126,
+        "num": 317126,
+        "word": "ChatGPT王炸级别的更新 多模态功能",
+        "onboard_time": 1695697413,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 288925,
+        "num": 288925,
+        "word": "爸爸把1岁女儿可爱瞬间定格成动画",
+        "onboard_time": 1695696574,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269731,
+        "num": 269731,
+        "word": "魏大勋 我在十三年前扮演过岸青",
+        "onboard_time": 1695693573,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239056,
+        "num": 239056,
+        "word": "美国小费文化正在失控",
+        "onboard_time": 1695686613,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222391,
+        "num": 222391,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201515,
+        "num": 201515,
+        "word": "比利时漫展外国女生cos异人之下",
+        "onboard_time": 1695698737,
+        "rank": 27,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 188165,
+        "num": 188165,
+        "word": "是慎儿下的毒吗",
+        "onboard_time": 1695691236,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183448,
+        "num": 183448,
+        "word": "双喜 双女主",
+        "onboard_time": 1695697955,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252661,
+        "num": 182545,
+        "word": "男生看到Angelababy的表情别太真实了",
+        "onboard_time": 1695698435,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194246,
+        "num": 181977,
+        "word": "1至8月全国缴毒16.5吨",
+        "onboard_time": 1695698796,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180529,
+        "num": 180529,
+        "word": "上班第一天收到同事请柬",
+        "onboard_time": 1695696932,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179444,
+        "num": 179444,
+        "word": "河南一服务区公厕现厕长和总厕长",
+        "onboard_time": 1695698555,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174682,
+        "num": 174682,
+        "word": "上班人跳绳一个月瘦了12斤",
+        "onboard_time": 1695656136,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 170292,
+        "num": 170292,
+        "word": "昆虫虫卵进入尿道结论有待商榷",
+        "onboard_time": 1695688116,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169363,
+        "num": 169363,
+        "word": "于和伟 今天这楼有点扫乱了",
+        "onboard_time": 1695693333,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165881,
+        "num": 165881,
+        "word": "AI能把小白打造成网红博主吗",
+        "onboard_time": 1695698796,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163618,
+        "num": 163618,
+        "word": "沈腾在范丞丞面前都显得内向了",
+        "onboard_time": 1695695972,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157882,
+        "num": 157882,
+        "word": "张学友南京抢票",
+        "onboard_time": 1695699155,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157814,
+        "num": 157814,
+        "word": "女子未察觉蛋盒阴燃塞冰箱浓烟四起",
+        "onboard_time": 1695690275,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150896,
+        "num": 150896,
+        "word": "韩媒谈BLACKPINK续约情况",
+        "onboard_time": 1695687336,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133974,
+        "num": 133974,
+        "word": "大熊猫洗澡越洗越上头",
+        "onboard_time": 1695692372,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 131415,
+        "num": 131415,
+        "word": "15岁少年踩他人超跑拍视频炫耀定损17万",
+        "onboard_time": 1695685892,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130614,
+        "num": 130614,
+        "word": "成毅 手控福利",
+        "onboard_time": 1695694232,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122634,
+        "num": 122634,
+        "word": "清华教授称消费不是刺激出来的",
+        "onboard_time": 1695692314,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118120,
+        "num": 118120,
+        "word": "iPhone15精织斜纹保护壳被吐槽一团糟",
+        "onboard_time": 1695692854,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103539,
+        "num": 103539,
+        "word": "58岁头婚新郎接亲42岁新娘",
+        "onboard_time": 1695684687,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102777,
+        "num": 102777,
+        "word": "华为回应充电器不支持iPhone15",
+        "onboard_time": 1695655777,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99418,
+        "num": 99418,
+        "word": "多想让您看看万家灯火国泰民安",
+        "onboard_time": 1695699214,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力发展智慧交通和智慧物流#"
+    }
+  }
+}
