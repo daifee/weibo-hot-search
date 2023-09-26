@@ -1,14 +1,54 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695684848429,
+  "endTime": 1695690734242,
   "band_list": [
     {
+      "raw_hot": 2621950,
+      "num": 2621950,
+      "word": "调休不如适当增加和延长假期",
+      "onboard_time": 1695687997,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1671385,
+      "num": 1671385,
+      "word": "美国小费文化正在失控",
+      "onboard_time": 1695686613,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1511374,
-      "num": 211028,
+      "num": 246538,
       "word": "韩女不生的原因找到了",
       "onboard_time": 1695655655,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1438746,
+      "num": 1438746,
+      "word": "680元民宿被平台悄悄调成国庆2780",
+      "onboard_time": 1695688536,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1055211,
+      "num": 1055211,
+      "word": "58岁头婚新郎接亲42岁新娘",
+      "onboard_time": 1695684687,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782776,
+      "num": 782776,
+      "word": "韩媒谈BLACKPINK续约情况",
+      "onboard_time": 1695687336,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 770554,
@@ -17,6 +57,14 @@
       "onboard_time": 1695655777,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 726194,
+      "num": 336704,
+      "word": "昆虫虫卵进入尿道结论有待商榷",
+      "onboard_time": 1695688116,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 724052,
@@ -52,11 +100,19 @@
     },
     {
       "raw_hot": 547517,
-      "num": 208240,
+      "num": 244195,
       "word": "上班人跳绳一个月瘦了12斤",
       "onboard_time": 1695656136,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 539475,
+      "num": 539475,
+      "word": "15岁少年踩他人超跑拍视频炫耀定损17万",
+      "onboard_time": 1695685892,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533954,
@@ -68,7 +124,7 @@
     },
     {
       "raw_hot": 502611,
-      "num": 219236,
+      "num": 227488,
       "word": "韩素希颧骨钉",
       "onboard_time": 1695646718,
       "rank": 10,
@@ -92,7 +148,7 @@
     },
     {
       "raw_hot": 447762,
-      "num": 180699,
+      "num": 325877,
       "word": "建行回应房贷利率调整变成还款年限调整",
       "onboard_time": 1695682883,
       "rank": 25,
@@ -131,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336732,
+      "num": 336732,
+      "word": "新生想吃梭子蟹高校食堂次日安排",
+      "onboard_time": 1695689256,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333891,
       "num": 219095,
       "word": "大家真的要注意内裤卫生",
       "onboard_time": 1695626619,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 313309,
+      "num": 313309,
+      "word": "张嘉倪每句台词都扎在恋爱脑心上",
+      "onboard_time": 1695657692,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 308384,
@@ -147,20 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303637,
-      "num": 303637,
-      "word": "张嘉倪每句台词都扎在恋爱脑心上",
-      "onboard_time": 1695657692,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 299809,
       "num": 199028,
       "word": "网曝校长与副校长不雅聊天记录",
       "onboard_time": 1695626498,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 293784,
+      "num": 293784,
+      "word": "曾舜晞也走不出莲花楼",
+      "onboard_time": 1695688836,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 289567,
@@ -171,6 +243,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 278712,
+      "num": 278712,
+      "word": "第一次见会骂人的月饼",
+      "onboard_time": 1695683305,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 265386,
       "num": 265386,
       "word": "这么小的世界冠军头一次见",
@@ -179,12 +259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257900,
+      "num": 257900,
+      "word": "我目睹了领导最脆弱的时刻",
+      "onboard_time": 1695690155,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257122,
-      "num": 191897,
+      "num": 212437,
       "word": "九月的工资千万不要乱花",
       "onboard_time": 1695629558,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244220,
+      "num": 317345,
+      "word": "美香一家12月7日回国",
+      "onboard_time": 1695687705,
+      "rank": 13,
+      "category": "国内要闻,动物萌宠"
     },
     {
       "raw_hot": 236382,
@@ -195,20 +291,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236092,
+      "num": 315040,
+      "word": "俄黑海舰队总部坍塌建筑被爆破拆除",
+      "onboard_time": 1695689075,
+      "rank": 14,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 233403,
+      "num": 233403,
+      "word": "白敬亭全新单曲",
+      "onboard_time": 1695687573,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227265,
       "num": 179423,
       "word": "想吃这棵树上的枣比中彩票还难",
       "onboard_time": 1695683604,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221227,
-      "num": 177926,
-      "word": "第一次见会骂人的月饼",
-      "onboard_time": 1695683305,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 219336,
@@ -227,6 +331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215221,
+      "num": 215221,
+      "word": "这届年轻人在看一种很新的川剧",
+      "onboard_time": 1695689739,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195438,
+      "num": 195438,
+      "word": "为什么撞衫会觉得尴尬",
+      "onboard_time": 1695689617,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195131,
       "num": 218735,
       "word": "班主任没上课时是亚运会火炬手",
@@ -235,12 +355,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191082,
+      "num": 181892,
+      "word": "英雄联盟魔女2023皮肤",
+      "onboard_time": 1695687095,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190337,
       "num": 190337,
       "word": "汪顺回应自己颜值震惊全网",
       "onboard_time": 1695652062,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186664,
+      "num": 186664,
+      "word": "你会介意长辈染发吗",
+      "onboard_time": 1695690095,
+      "rank": 27,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 181892,
+      "num": 181892,
+      "word": "餐饮人谈为什么用预制菜",
+      "onboard_time": 1695688896,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181887,
+      "num": 181887,
+      "word": "侯明昊偷走了我的敬业福",
+      "onboard_time": 1695688596,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 179890,
@@ -259,12 +411,76 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169640,
+      "num": 169640,
+      "word": "邓为智族GQ栏目我的十件",
+      "onboard_time": 1695688775,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167388,
+      "num": 167388,
+      "word": "初秋通勤怎么穿出松弛感",
+      "onboard_time": 1695683667,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 167355,
+      "num": 167355,
+      "word": "蔡文静一天两套造型",
+      "onboard_time": 1695688474,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165961,
+      "num": 165961,
+      "word": "女子未察觉蛋盒阴燃塞冰箱浓烟四起",
+      "onboard_time": 1695690275,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161760,
+      "num": 161760,
+      "word": "姐姐婚礼现场军人弟弟捧花惊喜现身",
+      "onboard_time": 1695686012,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161609,
       "num": 161609,
       "word": "丁程鑫不愧是拍过旋风少女的",
       "onboard_time": 1695649297,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157122,
+      "num": 157122,
+      "word": "成毅现偶也拿剑",
+      "onboard_time": 1695690454,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153862,
+      "num": 153862,
+      "word": "卫明不止有小三还有小四",
+      "onboard_time": 1695684687,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153394,
+      "num": 153394,
+      "word": "亚运金牌榜中国断层领先",
+      "onboard_time": 1695687154,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 151952,
@@ -323,6 +539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122234,
+      "num": 122234,
+      "word": "懒人瘦腿的正确打开方式",
+      "onboard_time": 1695685289,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 122044,
       "num": 122044,
       "word": "这才是正确的洗澡顺序",
@@ -337,14 +561,6 @@
       "onboard_time": 1695683545,
       "rank": 29,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 120674,
-      "num": 120674,
-      "word": "初秋通勤怎么穿出松弛感",
-      "onboard_time": 1695683667,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 119693,
@@ -363,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115691,
+      "num": 115691,
+      "word": "女子拄拐登机所有乘客耐心等待",
+      "onboard_time": 1695688234,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114735,
       "num": 114735,
       "word": "女生误捡福寿螺带回家产卵后立马扔",
       "onboard_time": 1695643896,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113910,
+      "num": 113910,
+      "word": "杨超越集齐了7种不同色调的绿",
+      "onboard_time": 1695690692,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 110582,
@@ -419,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100916,
-      "num": 100916,
-      "word": "58岁头婚新郎接亲42岁新娘",
-      "onboard_time": 1695684687,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99742,
       "num": 99742,
       "word": "看过最炸裂的错别字",
@@ -465,14 +689,6 @@
       "onboard_time": 1695658649,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73779,
-      "num": 73779,
-      "word": "卫明不止有小三还有小四",
-      "onboard_time": 1695684687,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 68048,
@@ -547,20 +763,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34773,
+      "num": 1504207,
+      "word": "一起看亚运",
+      "onboard_time": 1695645274,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 28100,
       "num": 41013,
       "word": "马龙六边形战士打乒乓球有多秀",
       "onboard_time": 1695664159,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25127,
-      "num": 658950,
-      "word": "一起看亚运",
-      "onboard_time": 1695645274,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 22352,
