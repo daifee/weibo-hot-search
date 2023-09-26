@@ -1,0 +1,410 @@
+{
+  "runTime": 1695726871548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8872222,
+        "num": 8872222,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 575508,
+        "num": 575508,
+        "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+        "onboard_time": 1695719495,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 77036,
+        "num": 502462,
+        "word": "国庆大花篮祝福祖国繁荣昌盛",
+        "onboard_time": 1695715594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1673184,
+        "num": 501112,
+        "word": "花西子回应发疯",
+        "onboard_time": 1695726278,
+        "rank": 3,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 226409,
+        "num": 495704,
+        "word": "孙颖莎为队友加油撞脸花花",
+        "onboard_time": 1695719016,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494487,
+        "num": 494487,
+        "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+        "onboard_time": 1695725017,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145889,
+        "num": 477406,
+        "word": "杭州亚运会中医馆成打卡点",
+        "onboard_time": 1695724362,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1155431,
+        "num": 476948,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 475412,
+        "num": 475412,
+        "word": "长歌行全新预告",
+        "onboard_time": 1695725740,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 433668,
+        "num": 433668,
+        "word": "六七岁是狗都嫌弃的年纪",
+        "onboard_time": 1695723817,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 2833046,
+        "num": 425611,
+        "word": "张杰谢娜丝婚照",
+        "onboard_time": 1695724960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1267841,
+        "num": 420960,
+        "word": "花西子称想做高端品牌",
+        "onboard_time": 1695720814,
+        "rank": 11,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 834147,
+        "num": 409105,
+        "word": "男子上班浏览色情网站被解雇索赔30万",
+        "onboard_time": 1695719795,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310818,
+        "num": 406091,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48140,
+        "num": 389345,
+        "word": "什么是尼山",
+        "onboard_time": 1695726041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388048,
+        "num": 388048,
+        "word": "比许幻山还洪世贤的男人出现了",
+        "onboard_time": 1695723215,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384241,
+        "num": 384241,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351448,
+        "num": 351448,
+        "word": "王者项目打野首发林恒",
+        "onboard_time": 1695725444,
+        "rank": 17,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 323039,
+        "num": 323039,
+        "word": "被叙利亚第一夫人圈粉了",
+        "onboard_time": 1695709956,
+        "rank": 18,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 315414,
+        "num": 315414,
+        "word": "黄绮珊瘦了26斤",
+        "onboard_time": 1695720276,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 572490,
+        "num": 313352,
+        "word": "袁记云饺被曝是预制菜",
+        "onboard_time": 1695717756,
+        "rank": 20,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 373999,
+        "num": 312729,
+        "word": "张本美和 张本智和",
+        "onboard_time": 1695718716,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310867,
+        "num": 310867,
+        "word": "RAIN被诉涉嫌85亿房产诈骗",
+        "onboard_time": 1695716555,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305156,
+        "num": 305156,
+        "word": "微博音乐盛典",
+        "onboard_time": 1695721655,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291547,
+        "num": 291547,
+        "word": "莫文蔚开场好炸",
+        "onboard_time": 1695725317,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286855,
+        "num": 286855,
+        "word": "巨蟹座真分手都是断崖式的",
+        "onboard_time": 1695726339,
+        "rank": 25,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 281353,
+        "num": 281353,
+        "word": "男团决赛",
+        "onboard_time": 1695726458,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280336,
+        "num": 280336,
+        "word": "王者项目中国vs马来西亚",
+        "onboard_time": 1695726339,
+        "rank": 27,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 259823,
+        "num": 259823,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255627,
+        "num": 255627,
+        "word": "张柏芝赫本风小黑裙",
+        "onboard_time": 1695722258,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353738,
+        "num": 255393,
+        "word": "女子喂猫发现有人投喂10多斤重冻鱼",
+        "onboard_time": 1695725740,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234778,
+        "num": 234778,
+        "word": "罗思源",
+        "onboard_time": 1695726101,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226813,
+        "num": 226813,
+        "word": "江西一国企领导称要取消周末",
+        "onboard_time": 1695714514,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216605,
+        "num": 216605,
+        "word": "迪奥二零二四春夏成衣秀",
+        "onboard_time": 1695724960,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213030,
+        "num": 213030,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569880,
+        "num": 212997,
+        "word": "花西子 好心态决定花西子一生",
+        "onboard_time": 1695721177,
+        "rank": 35,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 212128,
+        "num": 212128,
+        "word": "李莎旻子主持功底",
+        "onboard_time": 1695717455,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200486,
+        "num": 200486,
+        "word": "花卷梓墨太强了",
+        "onboard_time": 1695726578,
+        "rank": 37,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 172090,
+        "num": 199435,
+        "word": "花西子否认只会搞营销",
+        "onboard_time": 1695722557,
+        "rank": 38,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 12841,
+        "num": 199168,
+        "word": "孙阳自制在场证明",
+        "onboard_time": 1695726041,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 199133,
+        "num": 199133,
+        "word": "王者荣耀",
+        "onboard_time": 1695720216,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192435,
+        "num": 192435,
+        "word": "逆水寒 赶紧重画天赏头像",
+        "onboard_time": 1695723337,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79232,
+        "num": 191492,
+        "word": "张博恒全能王",
+        "onboard_time": 1695722497,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190957,
+        "num": 190957,
+        "word": "严浩翔微博音乐盛典秋日look",
+        "onboard_time": 1695724659,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175919,
+        "num": 175919,
+        "word": "国乒女团横扫日本",
+        "onboard_time": 1695718776,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828193,
+        "num": 175831,
+        "word": "花西子问真有人拿克重衡量眉笔价值吗",
+        "onboard_time": 1695721958,
+        "rank": 45,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 175709,
+        "num": 175709,
+        "word": "异人之下老人给小孩在家换血",
+        "onboard_time": 1695717636,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170397,
+        "num": 170397,
+        "word": "王嘉尔 求你们看一下我的MV",
+        "onboard_time": 1695720876,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169507,
+        "num": 169507,
+        "word": "外国人怎么什么中文都往衣服上印",
+        "onboard_time": 1695720338,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165695,
+        "num": 165695,
+        "word": "微博音乐盛典年度新锐歌手",
+        "onboard_time": 1695726817,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手构建人类命运共同体白皮书#"
+    }
+  }
+}
