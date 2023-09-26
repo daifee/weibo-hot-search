@@ -1,6 +1,6 @@
 {
   "startTime": 1695658969917,
-  "endTime": 1695726871548,
+  "endTime": 1695728049589,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -17,6 +17,14 @@
       "onboard_time": 1695702399,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5917785,
+      "num": 510117,
+      "word": "花西子回应发疯",
+      "onboard_time": 1695726278,
+      "rank": 3,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 4856852,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2833046,
-      "num": 425611,
+      "num": 504494,
       "word": "张杰谢娜丝婚照",
       "onboard_time": 1695724960,
       "rank": 10,
@@ -115,12 +123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1673184,
-      "num": 501112,
-      "word": "花西子回应发疯",
-      "onboard_time": 1695726278,
-      "rank": 3,
-      "category": "美妆,社会新闻"
+      "raw_hot": 1773822,
+      "num": 1773822,
+      "word": "花西子称要和香奈儿门对门",
+      "onboard_time": 1695724599,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 1545491,
@@ -171,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1155431,
-      "num": 476948,
-      "word": "花西子称要和香奈儿门对门",
-      "onboard_time": 1695724599,
-      "rank": 7,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 1147278,
       "num": 1147278,
       "word": "花西子 好心态决定花西子一生",
@@ -211,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1027106,
+      "num": 484804,
+      "word": "迪丽热巴烟熏妆",
+      "onboard_time": 1695727297,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 984470,
       "num": 984470,
       "word": "张本美和才15岁",
       "onboard_time": 1695718716,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 959077,
+      "num": 455837,
+      "word": "男子上班浏览色情网站被解雇索赔30万",
+      "onboard_time": 1695719795,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 958969,
@@ -259,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 834147,
-      "num": 409105,
-      "word": "男子上班浏览色情网站被解雇索赔30万",
-      "onboard_time": 1695719795,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 828311,
       "num": 828311,
       "word": "害怕马琳的暂停",
@@ -296,6 +304,14 @@
       "word": "男子要微信被拒殴打2女孩致流血",
       "onboard_time": 1695703299,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790229,
+      "num": 790229,
+      "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+      "onboard_time": 1695725017,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 641670,
-      "num": 851557,
+      "num": 1086710,
       "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
       "onboard_time": 1695719495,
       "rank": 42,
@@ -529,6 +545,14 @@
       "onboard_time": 1695718237,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 582870,
+      "num": 582870,
+      "word": "王者荣耀项目",
+      "onboard_time": 1695727239,
+      "rank": 5,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 568381,
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515242,
+      "num": 515242,
+      "word": "长歌行全新预告",
+      "onboard_time": 1695725740,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 514512,
       "num": 514512,
       "word": "夺3金的浙江姑娘黄雨婷还在读高二",
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504682,
+      "num": 504682,
+      "word": "男团决赛",
+      "onboard_time": 1695726458,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502611,
       "num": 227488,
       "word": "韩素希颧骨钉",
@@ -664,14 +704,6 @@
       "word": "解除大同大成双语学校校长职务",
       "onboard_time": 1695702763,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494487,
-      "num": 494487,
-      "word": "妻子患癌多次住院丈夫3次诉离婚获准",
-      "onboard_time": 1695725017,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -699,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475412,
-      "num": 475412,
-      "word": "长歌行全新预告",
-      "onboard_time": 1695725740,
-      "rank": 8,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 464592,
       "num": 548149,
       "word": "有中国公民被骗至韩国济州",
@@ -728,6 +752,14 @@
       "word": "许光汉要演韩剧了",
       "onboard_time": 1695707559,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 453922,
+      "num": 453922,
+      "word": "比许幻山还洪世贤的男人出现了",
+      "onboard_time": 1695723215,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -755,6 +787,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 447638,
+      "num": 447638,
+      "word": "巨蟹座真分手都是断崖式的",
+      "onboard_time": 1695726339,
+      "rank": 25,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 446406,
       "num": 370122,
       "word": "官方通报长沙一小区发生液化气爆燃",
@@ -779,12 +819,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 436397,
+      "num": 436397,
+      "word": "王楚钦vs林钟勋",
+      "onboard_time": 1695727657,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436384,
       "num": 436384,
       "word": "王嘉尔 求你们看一下我的MV",
       "onboard_time": 1695720876,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 435251,
+      "num": 435251,
+      "word": "王者项目中国vs马来西亚",
+      "onboard_time": 1695726339,
+      "rank": 27,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 433668,
@@ -825,14 +881,6 @@
       "onboard_time": 1695710254,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388048,
-      "num": 388048,
-      "word": "比许幻山还洪世贤的男人出现了",
-      "onboard_time": 1695723215,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 386817,
@@ -908,7 +956,7 @@
     },
     {
       "raw_hot": 353738,
-      "num": 255393,
+      "num": 304452,
       "word": "女子喂猫发现有人投喂10多斤重冻鱼",
       "onboard_time": 1695725740,
       "rank": 30,
@@ -960,6 +1008,22 @@
       "word": "逆水寒",
       "onboard_time": 1695716195,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 326934,
+      "num": 272954,
+      "word": "性缘脑比恋爱脑还可怕吗",
+      "onboard_time": 1695727116,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 320039,
+      "num": 320039,
+      "word": "罗思源",
+      "onboard_time": 1695726101,
+      "rank": 31,
       "category": "游戏"
     },
     {
@@ -1067,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303009,
+      "num": 303009,
+      "word": "莫文蔚开场好炸",
+      "onboard_time": 1695725317,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302044,
       "num": 302044,
       "word": "物业费每平米只要5毛还给业主发中秋福利",
@@ -1123,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291547,
-      "num": 291547,
-      "word": "莫文蔚开场好炸",
-      "onboard_time": 1695725317,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 289567,
       "num": 218375,
       "word": "鞠婧祎三套造型反差感",
@@ -1155,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286855,
-      "num": 286855,
-      "word": "巨蟹座真分手都是断崖式的",
-      "onboard_time": 1695726339,
-      "rank": 25,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 286270,
       "num": 286270,
       "word": "上海关心你 沪cares you",
@@ -1185,22 +1241,6 @@
       "onboard_time": 1695692314,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 281353,
-      "num": 281353,
-      "word": "男团决赛",
-      "onboard_time": 1695726458,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 280336,
-      "num": 280336,
-      "word": "王者项目中国vs马来西亚",
-      "onboard_time": 1695726339,
-      "rank": 27,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 279586,
@@ -1323,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250367,
+      "num": 250367,
+      "word": "卢昱晓画的loopy版丞磊",
+      "onboard_time": 1695727357,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250144,
       "num": 250144,
       "word": "王者荣耀",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1695689075,
       "rank": 14,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 234778,
-      "num": 234778,
-      "word": "罗思源",
-      "onboard_time": 1695726101,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 233403,
@@ -1531,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213992,
+      "num": 213992,
+      "word": "周深红毯吼了一嗓子",
+      "onboard_time": 1695726758,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213665,
       "num": 213665,
       "word": "杨超越集齐了7种不同色调的绿",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1695692854,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 205024,
+      "num": 205024,
+      "word": "华晨宇新歌风之海",
+      "onboard_time": 1695727959,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 204913,
@@ -1593,6 +1649,14 @@
       "onboard_time": 1695726578,
       "rank": 37,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 197882,
+      "num": 197882,
+      "word": "微博音乐盛典年度新锐歌手",
+      "onboard_time": 1695726817,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 197330,
@@ -1884,7 +1948,7 @@
     },
     {
       "raw_hot": 173769,
-      "num": 477406,
+      "num": 526064,
       "word": "杭州亚运会中医馆成打卡点",
       "onboard_time": 1695724362,
       "rank": 41,
@@ -1969,14 +2033,6 @@
       "onboard_time": 1695698796,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165695,
-      "num": 165695,
-      "word": "微博音乐盛典年度新锐歌手",
-      "onboard_time": 1695726817,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 162153,
@@ -2451,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100704,
+      "num": 208353,
+      "word": "尼山版国潮流光映此夜",
+      "onboard_time": 1695727595,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99742,
       "num": 99742,
       "word": "看过最炸裂的错别字",
@@ -2528,6 +2592,14 @@
       "word": "承德公安罚remote程序员",
       "onboard_time": 1695658649,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76413,
+      "num": 468183,
+      "word": "什么是尼山",
+      "onboard_time": 1695726041,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2611,14 +2683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48140,
-      "num": 389345,
-      "word": "什么是尼山",
-      "onboard_time": 1695726041,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44887,
       "num": 46833,
       "word": "许幻山pro max",
@@ -2649,6 +2713,14 @@
       "onboard_time": 1695693633,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33102,
+      "num": 204865,
+      "word": "孙阳自制在场证明",
+      "onboard_time": 1695726041,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 28100,
@@ -2689,14 +2761,6 @@
       "onboard_time": 1695633277,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12841,
-      "num": 199168,
-      "word": "孙阳自制在场证明",
-      "onboard_time": 1695726041,
-      "rank": 39,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 11373,

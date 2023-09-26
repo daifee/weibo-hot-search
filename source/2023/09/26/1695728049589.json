@@ -1,0 +1,410 @@
+{
+  "runTime": 1695728049589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773822,
+        "num": 1773822,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 551530,
+        "num": 1086710,
+        "word": "8名用被子接坠楼女孩邻居被认定见义勇为",
+        "onboard_time": 1695719495,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 67308,
+        "num": 914808,
+        "word": "国庆大花篮祝福祖国繁荣昌盛",
+        "onboard_time": 1695715594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790229,
+        "num": 790229,
+        "word": "妻子患癌多次住院丈夫3次诉离婚获准",
+        "onboard_time": 1695725017,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224778,
+        "num": 684204,
+        "word": "孙颖莎为队友加油撞脸花花",
+        "onboard_time": 1695719016,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582870,
+        "num": 582870,
+        "word": "王者荣耀项目",
+        "onboard_time": 1695727239,
+        "rank": 5,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 109124,
+        "num": 526064,
+        "word": "杭州亚运会中医馆成打卡点",
+        "onboard_time": 1695724362,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 515242,
+        "num": 515242,
+        "word": "长歌行全新预告",
+        "onboard_time": 1695725740,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 5917785,
+        "num": 510117,
+        "word": "花西子回应发疯",
+        "onboard_time": 1695726278,
+        "rank": 8,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 504682,
+        "num": 504682,
+        "word": "男团决赛",
+        "onboard_time": 1695726458,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2568867,
+        "num": 504494,
+        "word": "张杰谢娜丝婚照",
+        "onboard_time": 1695724960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4570176,
+        "num": 493919,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1027106,
+        "num": 484804,
+        "word": "迪丽热巴烟熏妆",
+        "onboard_time": 1695727297,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354816,
+        "num": 476440,
+        "word": "人民网评大同未成年人欺凌事件",
+        "onboard_time": 1695715715,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76413,
+        "num": 468183,
+        "word": "什么是尼山",
+        "onboard_time": 1695726041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959077,
+        "num": 455837,
+        "word": "男子上班浏览色情网站被解雇索赔30万",
+        "onboard_time": 1695719795,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453922,
+        "num": 453922,
+        "word": "比许幻山还洪世贤的男人出现了",
+        "onboard_time": 1695723215,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447638,
+        "num": 447638,
+        "word": "巨蟹座真分手都是断崖式的",
+        "onboard_time": 1695726339,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 436397,
+        "num": 436397,
+        "word": "王楚钦vs林钟勋",
+        "onboard_time": 1695727657,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435251,
+        "num": 435251,
+        "word": "王者项目中国vs马来西亚",
+        "onboard_time": 1695726339,
+        "rank": 19,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 541671,
+        "num": 412040,
+        "word": "袁记云饺被曝是预制菜",
+        "onboard_time": 1695717756,
+        "rank": 20,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 340621,
+        "num": 340621,
+        "word": "性教育专家谈大同校园性欺凌事件",
+        "onboard_time": 1695704975,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320039,
+        "num": 320039,
+        "word": "罗思源",
+        "onboard_time": 1695726101,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311897,
+        "num": 311897,
+        "word": "黄绮珊瘦了26斤",
+        "onboard_time": 1695720276,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304452,
+        "num": 304452,
+        "word": "女子喂猫发现有人投喂10多斤重冻鱼",
+        "onboard_time": 1695725740,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605900,
+        "num": 304236,
+        "word": "花西子称想做高端品牌",
+        "onboard_time": 1695720814,
+        "rank": 25,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 307448,
+        "num": 303702,
+        "word": "王者项目打野首发林恒",
+        "onboard_time": 1695725444,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 303009,
+        "num": 303009,
+        "word": "莫文蔚开场好炸",
+        "onboard_time": 1695725317,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277145,
+        "num": 277145,
+        "word": "微博音乐盛典",
+        "onboard_time": 1695721655,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273124,
+        "num": 273124,
+        "word": "张本美和 张本智和",
+        "onboard_time": 1695718716,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326934,
+        "num": 272954,
+        "word": "性缘脑比恋爱脑还可怕吗",
+        "onboard_time": 1695727116,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270536,
+        "num": 270536,
+        "word": "RAIN被诉涉嫌85亿房产诈骗",
+        "onboard_time": 1695716555,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250367,
+        "num": 250367,
+        "word": "卢昱晓画的loopy版丞磊",
+        "onboard_time": 1695727357,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240272,
+        "num": 240272,
+        "word": "大同通报未成年人欺凌事件调查情况",
+        "onboard_time": 1695702399,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238646,
+        "num": 238646,
+        "word": "王者荣耀",
+        "onboard_time": 1695720216,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223919,
+        "num": 223919,
+        "word": "被叙利亚第一夫人圈粉了",
+        "onboard_time": 1695709956,
+        "rank": 35,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 213992,
+        "num": 213992,
+        "word": "周深红毯吼了一嗓子",
+        "onboard_time": 1695726758,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100704,
+        "num": 208353,
+        "word": "尼山版国潮流光映此夜",
+        "onboard_time": 1695727595,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205024,
+        "num": 205024,
+        "word": "华晨宇新歌风之海",
+        "onboard_time": 1695727959,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33102,
+        "num": 204865,
+        "word": "孙阳自制在场证明",
+        "onboard_time": 1695726041,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 153121,
+        "num": 204844,
+        "word": "国乒女团横扫日本",
+        "onboard_time": 1695718776,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204825,
+        "num": 204825,
+        "word": "张柏芝赫本风小黑裙",
+        "onboard_time": 1695722258,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383568,
+        "num": 201642,
+        "word": "花西子 好心态决定花西子一生",
+        "onboard_time": 1695721177,
+        "rank": 42,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 109409,
+        "num": 198435,
+        "word": "花西子否认只会搞营销",
+        "onboard_time": 1695722557,
+        "rank": 43,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 197882,
+        "num": 197882,
+        "word": "微博音乐盛典年度新锐歌手",
+        "onboard_time": 1695726817,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196133,
+        "num": 196133,
+        "word": "微博音乐盛典红毯",
+        "onboard_time": 1695714935,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193913,
+        "num": 193913,
+        "word": "江西一国企领导称要取消周末",
+        "onboard_time": 1695714514,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193281,
+        "num": 193281,
+        "word": "迪奥二零二四春夏成衣秀",
+        "onboard_time": 1695724960,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164972,
+        "num": 164972,
+        "word": "勇敢的姑娘 性教育",
+        "onboard_time": 1695709836,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163186,
+        "num": 163186,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
