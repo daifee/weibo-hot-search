@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695702000039,
+  "endTime": 1695702837633,
   "band_list": [
     {
       "raw_hot": 9754032,
@@ -27,8 +27,8 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 3453439,
-      "num": 3453439,
+      "raw_hot": 3549026,
+      "num": 3549026,
       "word": "休8天上7天你怎么看",
       "onboard_time": 1695697714,
       "rank": 27,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2568062,
-      "num": 580947,
+      "num": 588952,
       "word": "离婚排不上号",
       "onboard_time": 1695697474,
       "rank": 7,
@@ -123,8 +123,8 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 2018001,
-      "num": 432747,
+      "raw_hot": 2018860,
+      "num": 565929,
       "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
       "onboard_time": 1695699095,
       "rank": 26,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1361229,
-      "num": 366977,
+      "num": 783884,
       "word": "官方通报小学生遭同学极端欺辱",
       "onboard_time": 1695483339,
       "rank": 20,
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 903438,
+      "num": 470025,
+      "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+      "onboard_time": 1695700776,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895762,
       "num": 895762,
       "word": "低血糖发作时有多尴尬",
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857652,
+      "num": 857652,
+      "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
+      "onboard_time": 1695699995,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 851954,
       "num": 473261,
       "word": "英雄联盟比赛转播于9月28日半决赛开始",
@@ -744,6 +760,14 @@
       "word": "陈梦11比0国乒全员憋笑失败",
       "onboard_time": 1695634597,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 824581,
+      "num": 451900,
+      "word": "霍震霆霍启刚霍启山现身亚运游泳赛场",
+      "onboard_time": 1695700473,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -793,14 +817,6 @@
       "onboard_time": 1695614015,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803220,
-      "num": 419043,
-      "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
-      "onboard_time": 1695699995,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803010,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 695541,
+      "num": 695541,
+      "word": "结婚和一辈子恋爱有什么区别",
+      "onboard_time": 1695700054,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 695242,
       "num": 451623,
       "word": "首批iPhone15Pro或有大量瑕疵机",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1695481238,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 662839,
+      "num": 662839,
+      "word": "大张伟 抢票",
+      "onboard_time": 1695701313,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 661916,
@@ -1387,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616361,
+      "num": 616361,
+      "word": "中国香港队夺得首枚亚运游泳金牌",
+      "onboard_time": 1695700413,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 615048,
       "num": 427149,
       "word": "iPhone16Pro将搭载实体侧屏按钮",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1695647136,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 605708,
-      "num": 413939,
-      "word": "霍震霆霍启刚霍启山现身亚运游泳赛场",
-      "onboard_time": 1695700473,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 603356,
@@ -1449,14 +1481,6 @@
       "onboard_time": 1695523769,
       "rank": 7,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 588860,
-      "num": 588860,
-      "word": "中国香港队夺得首枚亚运游泳金牌",
-      "onboard_time": 1695700413,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 586852,
@@ -1617,14 +1641,6 @@
       "onboard_time": 1695656136,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 547105,
-      "num": 547105,
-      "word": "结婚和一辈子恋爱有什么区别",
-      "onboard_time": 1695700054,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 545514,
@@ -1860,7 +1876,7 @@
     },
     {
       "raw_hot": 486794,
-      "num": 486794,
+      "num": 526630,
       "word": "一个饺子进嘴爸爸和女儿都泪崩了",
       "onboard_time": 1695692314,
       "rank": 6,
@@ -2028,7 +2044,7 @@
     },
     {
       "raw_hot": 464592,
-      "num": 464592,
+      "num": 548149,
       "word": "有中国公民被骗至韩国济州",
       "onboard_time": 1695694292,
       "rank": 29,
@@ -2275,14 +2291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 409858,
-      "num": 409858,
-      "word": "女子收6.6万彩礼不愿领证男方起诉退还",
-      "onboard_time": 1695700776,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409487,
       "num": 409487,
       "word": "剃了胡子的胡歌",
@@ -2363,6 +2371,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 386817,
+      "num": 386817,
+      "word": "伍佰 难抢",
+      "onboard_time": 1695701675,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 386405,
       "num": 315561,
       "word": "白鹿白开水妆",
@@ -2409,14 +2425,6 @@
       "onboard_time": 1695560679,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377650,
-      "num": 377650,
-      "word": "大张伟 抢票",
-      "onboard_time": 1695701313,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 375166,
@@ -3467,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264805,
+      "num": 264805,
+      "word": "披荆斩棘真是请对了蔡国庆",
+      "onboard_time": 1695700296,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264098,
       "num": 264098,
       "word": "丞磊非过没丑过",
@@ -3497,14 +3513,6 @@
       "onboard_time": 1695535353,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 262379,
-      "num": 262379,
-      "word": "披荆斩棘真是请对了蔡国庆",
-      "onboard_time": 1695700296,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 261585,
@@ -3584,6 +3592,14 @@
       "word": "这个公司离职率应该很低",
       "onboard_time": 1695532832,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 257403,
+      "num": 257403,
+      "word": "我感觉他是个明星啊",
+      "onboard_time": 1695701979,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -3979,12 +3995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224751,
-      "num": 224751,
-      "word": "伍佰 难抢",
-      "onboard_time": 1695701675,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 226103,
+      "num": 226103,
+      "word": "比利时漫展外国女生cos异人之下",
+      "onboard_time": 1695698737,
+      "rank": 27,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 224178,
@@ -4009,14 +4025,6 @@
       "onboard_time": 1695537333,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 220471,
-      "num": 220471,
-      "word": "比利时漫展外国女生cos异人之下",
-      "onboard_time": 1695698737,
-      "rank": 27,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 220363,
@@ -4193,6 +4201,14 @@
       "onboard_time": 1695533432,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214070,
+      "num": 214070,
+      "word": "星同事 放饭",
+      "onboard_time": 1695700956,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 213949,
@@ -4499,6 +4515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202521,
+      "num": 202521,
+      "word": "节奏大师 爷青回",
+      "onboard_time": 1695700413,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202369,
       "num": 202369,
       "word": "被全国各地的物价震撼到了",
@@ -4547,28 +4571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200932,
-      "num": 200932,
-      "word": "星同事 放饭",
-      "onboard_time": 1695700956,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200455,
       "num": 200455,
       "word": "伯远伪素颜妆",
       "onboard_time": 1695603994,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200374,
-      "num": 200374,
-      "word": "节奏大师 爷青回",
-      "onboard_time": 1695700413,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 200341,
@@ -4843,6 +4851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190016,
+      "num": 186157,
+      "word": "钮祜禄黄轩已黑化",
+      "onboard_time": 1695699274,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189698,
       "num": 189698,
       "word": "国乒女团vs泰国女团",
@@ -4945,6 +4961,14 @@
       "onboard_time": 1695557134,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187533,
+      "num": 187533,
+      "word": "解除大同大成双语学校校长职务",
+      "onboard_time": 1695702763,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186580,
@@ -5267,6 +5291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173629,
+      "num": 173629,
+      "word": "樊振东王楚钦有多依赖马龙",
+      "onboard_time": 1695702339,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173324,
       "num": 173324,
       "word": "徐必成 五个len蹲我",
@@ -5305,6 +5337,14 @@
       "onboard_time": 1695688775,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 168950,
+      "num": 168950,
+      "word": "三星堆青铜鸟形器首次公布",
+      "onboard_time": 1695701015,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167809,
@@ -5433,6 +5473,14 @@
       "onboard_time": 1695625533,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162849,
+      "num": 162849,
+      "word": "女子嫌潜水不过瘾腰绑铅块沉海底",
+      "onboard_time": 1695702399,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162708,
@@ -6217,14 +6265,6 @@
       "onboard_time": 1695630817,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 132238,
-      "num": 132238,
-      "word": "我感觉他是个明星啊",
-      "onboard_time": 1695701979,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 131669,
@@ -7131,6 +7171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20639,
+      "num": 989051,
+      "word": "推进交通互联互通促进可持续发展共赢",
+      "onboard_time": 1695699936,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20036,
       "num": 27413,
       "word": "为中国亚运健儿加油",
@@ -7180,7 +7228,7 @@
     },
     {
       "raw_hot": 11018,
-      "num": 423013,
+      "num": 501395,
       "word": "HPV疫苗需要纠结几价吗",
       "onboard_time": 1695695850,
       "rank": 14,
@@ -7193,14 +7241,6 @@
       "onboard_time": 1695587594,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9168,
-      "num": 989051,
-      "word": "推进交通互联互通促进可持续发展共赢",
-      "onboard_time": 1695699936,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8216,

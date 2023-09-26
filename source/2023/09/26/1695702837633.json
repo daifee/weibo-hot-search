@@ -1,0 +1,410 @@
+{
+  "runTime": 1695702837633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3549026,
+        "num": 3549026,
+        "word": "休8天上7天你怎么看",
+        "onboard_time": 1695697714,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246709,
+        "num": 1246709,
+        "word": "毛不易将缺席后续活动",
+        "onboard_time": 1695697113,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20639,
+        "num": 966682,
+        "word": "推进交通互联互通促进可持续发展共赢",
+        "onboard_time": 1695699936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857652,
+        "num": 857652,
+        "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
+        "onboard_time": 1695699995,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783884,
+        "num": 783884,
+        "word": "官方通报小学生遭同学极端欺辱",
+        "onboard_time": 1695702399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695541,
+        "num": 695541,
+        "word": "结婚和一辈子恋爱有什么区别",
+        "onboard_time": 1695700054,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 662839,
+        "num": 662839,
+        "word": "大张伟 抢票",
+        "onboard_time": 1695701313,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 616361,
+        "num": 616361,
+        "word": "中国香港队夺得首枚亚运游泳金牌",
+        "onboard_time": 1695700413,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598530,
+        "num": 598530,
+        "word": "680元民宿被平台悄悄调成国庆2780",
+        "onboard_time": 1695688536,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596471,
+        "num": 596471,
+        "word": "黄山人买不到回黄山的票了",
+        "onboard_time": 1695699514,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2443928,
+        "num": 588952,
+        "word": "离婚排不上号",
+        "onboard_time": 1695697474,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2018860,
+        "num": 565929,
+        "word": "王乐君说拍伪装者时被胡歌砸断锁骨",
+        "onboard_time": 1695699095,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395197,
+        "num": 548149,
+        "word": "有中国公民被骗至韩国济州",
+        "onboard_time": 1695694292,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301310,
+        "num": 526630,
+        "word": "一个饺子进嘴爸爸和女儿都泪崩了",
+        "onboard_time": 1695692314,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3267,
+        "num": 501395,
+        "word": "HPV疫苗需要纠结几价吗",
+        "onboard_time": 1695695850,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 903438,
+        "num": 470025,
+        "word": "女子收6.6万彩礼不愿领证男方起诉退还",
+        "onboard_time": 1695700776,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824581,
+        "num": 451900,
+        "word": "霍震霆霍启刚霍启山现身亚运游泳赛场",
+        "onboard_time": 1695700473,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439467,
+        "num": 439467,
+        "word": "虞书欣巴黎时装周造型",
+        "onboard_time": 1695698253,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 433903,
+        "num": 433903,
+        "word": "任豪 什么都吃只会害了你",
+        "onboard_time": 1695697474,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386817,
+        "num": 386817,
+        "word": "伍佰 难抢",
+        "onboard_time": 1695701675,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332388,
+        "num": 332388,
+        "word": "我有一个朋友 不想让它糊的剧",
+        "onboard_time": 1695692672,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162650,
+        "num": 323073,
+        "word": "父母染上网瘾了怎么办",
+        "onboard_time": 1695692672,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322798,
+        "num": 322798,
+        "word": "觉得她慌乱的样子很可爱",
+        "onboard_time": 1695699633,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304598,
+        "num": 304598,
+        "word": "准女婿是怎么中秋转正的",
+        "onboard_time": 1695695433,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298871,
+        "num": 298871,
+        "word": "韩女不生的原因找到了",
+        "onboard_time": 1695655655,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287543,
+        "num": 287543,
+        "word": "首批iPhone15Pro或有大量瑕疵机",
+        "onboard_time": 1695693753,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 285223,
+        "num": 285223,
+        "word": "男生看到Angelababy的表情别太真实了",
+        "onboard_time": 1695698435,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267852,
+        "num": 267852,
+        "word": "胡静心疼相柳",
+        "onboard_time": 1695701015,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264805,
+        "num": 264805,
+        "word": "披荆斩棘真是请对了蔡国庆",
+        "onboard_time": 1695700296,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264497,
+        "num": 264497,
+        "word": "河南一服务区公厕现厕长和总厕长",
+        "onboard_time": 1695698555,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257403,
+        "num": 257403,
+        "word": "我感觉他是个明星啊",
+        "onboard_time": 1695701979,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248695,
+        "num": 248695,
+        "word": "杨玏小时候一天吃十袋奶",
+        "onboard_time": 1695693934,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232896,
+        "num": 232896,
+        "word": "三倍工资你愿意加班吗",
+        "onboard_time": 1695691713,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226423,
+        "num": 226423,
+        "word": "这身材谁看了不迷糊",
+        "onboard_time": 1695693094,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226103,
+        "num": 226103,
+        "word": "比利时漫展外国女生cos异人之下",
+        "onboard_time": 1695698737,
+        "rank": 34,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 214070,
+        "num": 214070,
+        "word": "星同事 放饭",
+        "onboard_time": 1695700956,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202521,
+        "num": 202521,
+        "word": "节奏大师 爷青回",
+        "onboard_time": 1695700413,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199554,
+        "num": 199554,
+        "word": "ChatGPT王炸级别的更新 多模态功能",
+        "onboard_time": 1695697413,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192652,
+        "num": 192652,
+        "word": "美国小费文化正在失控",
+        "onboard_time": 1695686613,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187533,
+        "num": 187533,
+        "word": "解除大同大成双语学校校长职务",
+        "onboard_time": 1695702763,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190016,
+        "num": 186157,
+        "word": "钮祜禄黄轩已黑化",
+        "onboard_time": 1695699274,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177770,
+        "num": 177770,
+        "word": "魏大勋 我在十三年前扮演过岸青",
+        "onboard_time": 1695693573,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176656,
+        "num": 176656,
+        "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
+        "onboard_time": 1695694114,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173629,
+        "num": 173629,
+        "word": "樊振东王楚钦有多依赖马龙",
+        "onboard_time": 1695702339,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168950,
+        "num": 168950,
+        "word": "三星堆青铜鸟形器首次公布",
+        "onboard_time": 1695701015,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162849,
+        "num": 162849,
+        "word": "女子嫌潜水不过瘾腰绑铅块沉海底",
+        "onboard_time": 1695702399,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154534,
+        "num": 154534,
+        "word": "爸爸把1岁女儿可爱瞬间定格成动画",
+        "onboard_time": 1695696574,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148912,
+        "num": 148912,
+        "word": "体面之后是何必",
+        "onboard_time": 1695696693,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143518,
+        "num": 143518,
+        "word": "大爷81岁考出驾照1年飙2万公里",
+        "onboard_time": 1695700655,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133194,
+        "num": 133194,
+        "word": "微博音乐盛典全阵容官宣",
+        "onboard_time": 1695699452,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记考察#"
+    }
+  }
+}
