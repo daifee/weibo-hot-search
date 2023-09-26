@@ -1,0 +1,410 @@
+{
+  "runTime": 1695691958622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1797449,
+        "num": 1797449,
+        "word": "美国小费文化正在失控",
+        "onboard_time": 1695686613,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1290964,
+        "num": 1290964,
+        "word": "680元民宿被平台悄悄调成国庆2780",
+        "onboard_time": 1695688536,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30923,
+        "num": 832071,
+        "word": "一起看亚运",
+        "onboard_time": 1695645274,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 2724216,
+        "num": 827704,
+        "word": "调休不如适当增加和延长假期",
+        "onboard_time": 1695687997,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782925,
+        "num": 782925,
+        "word": "58岁头婚新郎接亲42岁新娘",
+        "onboard_time": 1695684687,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660267,
+        "num": 660267,
+        "word": "韩媒谈BLACKPINK续约情况",
+        "onboard_time": 1695687336,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464461,
+        "num": 464461,
+        "word": "15岁少年踩他人超跑拍视频炫耀定损17万",
+        "onboard_time": 1695685892,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456815,
+        "num": 456815,
+        "word": "学生刺杀操失误给领导吓一身汗",
+        "onboard_time": 1695650559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365941,
+        "num": 365941,
+        "word": "华为回应充电器不支持iPhone15",
+        "onboard_time": 1695655777,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 312199,
+        "num": 312199,
+        "word": "新生想吃梭子蟹高校食堂次日安排",
+        "onboard_time": 1695689256,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763381,
+        "num": 309811,
+        "word": "昆虫虫卵进入尿道结论有待商榷",
+        "onboard_time": 1695688116,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329301,
+        "num": 307630,
+        "word": "女子未察觉蛋盒阴燃塞冰箱浓烟四起",
+        "onboard_time": 1695690275,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312954,
+        "num": 307303,
+        "word": "是慎儿下的毒吗",
+        "onboard_time": 1695691236,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227889,
+        "num": 303284,
+        "word": "美香一家12月7日回国",
+        "onboard_time": 1695687705,
+        "rank": 13,
+        "category": "国内要闻,动物萌宠"
+      },
+      {
+        "raw_hot": 208445,
+        "num": 301839,
+        "word": "俄黑海舰队总部坍塌建筑被爆破拆除",
+        "onboard_time": 1695689075,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 300137,
+        "num": 300137,
+        "word": "我目睹了领导最脆弱的时刻",
+        "onboard_time": 1695690155,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297009,
+        "num": 297009,
+        "word": "曾舜晞也走不出莲花楼",
+        "onboard_time": 1695688836,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268233,
+        "num": 268233,
+        "word": "张嘉倪每句台词都扎在恋爱脑心上",
+        "onboard_time": 1695657692,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264583,
+        "num": 264583,
+        "word": "许幻山真的永远失去自己名字了",
+        "onboard_time": 1695641793,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224846,
+        "num": 224846,
+        "word": "第一次见会骂人的月饼",
+        "onboard_time": 1695683305,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 876155,
+        "num": 224778,
+        "word": "韩女不生的原因找到了",
+        "onboard_time": 1695655655,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389395,
+        "num": 223966,
+        "word": "上班人跳绳一个月瘦了12斤",
+        "onboard_time": 1695656136,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 245214,
+        "num": 223513,
+        "word": "你会介意长辈染发吗",
+        "onboard_time": 1695690095,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 221942,
+        "num": 221942,
+        "word": "辽宁阜新女子被碎尸案告破",
+        "onboard_time": 1695660803,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213665,
+        "num": 213665,
+        "word": "杨超越集齐了7种不同色调的绿",
+        "onboard_time": 1695690692,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 202453,
+        "num": 202453,
+        "word": "建行回应房贷利率调整变成还款年限调整",
+        "onboard_time": 1695682883,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 194557,
+        "num": 194557,
+        "word": "成毅现偶也拿剑",
+        "onboard_time": 1695690454,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181103,
+        "num": 181103,
+        "word": "为什么撞衫会觉得尴尬",
+        "onboard_time": 1695689617,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178998,
+        "num": 178998,
+        "word": "白敬亭全新单曲",
+        "onboard_time": 1695687573,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169551,
+        "num": 169551,
+        "word": "九月的工资千万不要乱花",
+        "onboard_time": 1695629558,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315911,
+        "num": 168746,
+        "word": "封神妲己邓婵玉福州同框",
+        "onboard_time": 1695691053,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178404,
+        "num": 168150,
+        "word": "为什么越来越多的客运站停运",
+        "onboard_time": 1695690756,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167336,
+        "num": 167336,
+        "word": "韩素希颧骨钉",
+        "onboard_time": 1695646718,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154994,
+        "num": 154994,
+        "word": "侯明昊偷走了我的敬业福",
+        "onboard_time": 1695688596,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153912,
+        "num": 153912,
+        "word": "邓为智族GQ栏目我的十件",
+        "onboard_time": 1695688775,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "女子做手术1年暴瘦70斤成九级伤残",
+        "onboard_time": 1695657332,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143149,
+        "num": 143149,
+        "word": "三倍工资你愿意加班吗",
+        "onboard_time": 1695691713,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141794,
+        "num": 141794,
+        "word": "这届年轻人在看一种很新的川剧",
+        "onboard_time": 1695689739,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138833,
+        "num": 138833,
+        "word": "长相思第二季能预约了",
+        "onboard_time": 1695655896,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135696,
+        "num": 135696,
+        "word": "亚运金牌榜中国断层领先",
+        "onboard_time": 1695687154,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134703,
+        "num": 134703,
+        "word": "英雄联盟魔女2023皮肤",
+        "onboard_time": 1695687095,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131055,
+        "num": 131055,
+        "word": "娱记喊话张鲁一",
+        "onboard_time": 1695656377,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126533,
+        "num": 126533,
+        "word": "餐饮人谈为什么用预制菜",
+        "onboard_time": 1695688896,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119595,
+        "num": 119595,
+        "word": "伊朗裁判员杭州扫货对半砍价",
+        "onboard_time": 1695656914,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112157,
+        "num": 112157,
+        "word": "初秋通勤怎么穿出松弛感",
+        "onboard_time": 1695683667,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 111106,
+        "num": 111106,
+        "word": "卫明不止有小三还有小四",
+        "onboard_time": 1695684687,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104170,
+        "num": 104170,
+        "word": "小姐姐斑马线礼让遇到可爱老baby",
+        "onboard_time": 1695688714,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101676,
+        "num": 101676,
+        "word": "姐姐婚礼现场军人弟弟捧花惊喜现身",
+        "onboard_time": 1695686012,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101637,
+        "num": 101637,
+        "word": "吴磊都生不出这么像的",
+        "onboard_time": 1695647858,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91059,
+        "num": 91059,
+        "word": "马立奥90％像妈妈",
+        "onboard_time": 1695648818,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
