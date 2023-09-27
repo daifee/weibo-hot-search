@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 06:33:58
+本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 07:16:47
 </p>
 </blockquote>
 <p>
@@ -51,8 +51,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23" target="weibo">
+母亲去世女子想推迟结婚被判退彩礼（热度：510552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E6%80%A5%E5%BE%97%E6%8B%8D%E5%A4%A7%E8%85%BF%23" target="weibo">
 姚明急得拍大腿（热度：445592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23" target="weibo">
+张小斐首部主演电视剧收视率破2（热度：445272）
 </a>
 </li>
 
@@ -63,14 +75,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23" target="weibo">
-张小斐首部主演电视剧收视率破2（热度：417878）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%8B%89%E5%BE%B7%E8%A2%AB%E4%BA%A4%E6%98%93%E5%88%B0%E9%9B%84%E9%B9%BF%23" target="weibo">
+利拉德被交易到雄鹿（热度：412763）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23" target="weibo">
-母亲去世女子想推迟结婚被判退彩礼（热度：379519）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%9014%E4%BA%BF%E4%BA%BA%E4%BD%8F%E4%B8%8D%E5%AE%8C%E4%B8%8D%E7%AE%80%E5%8D%95%E7%AD%89%E4%BA%8E%E6%88%BF%E4%BA%A7%E8%BF%87%E5%89%A9%23" target="weibo">
+房子14亿人住不完不简单等于房产过剩（热度：401538）
 </a>
 </li>
 
@@ -105,8 +117,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%861%E5%A4%A9%E8%B5%B0%E4%B8%A23%E6%AC%A1%E6%B0%91%E8%AD%A6%E7%86%9F%E7%BB%83%E9%80%81%E5%9B%9E%23" target="weibo">
+婆婆1天走丢3次民警熟练送回（热度：274212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E9%A6%96%E6%98%A0%E7%A4%BC%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%95%8A%23" target="weibo">
 坚如磐石首映礼好多人啊（热度：263420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E8%85%B9%E9%83%A8%E9%95%BF%E8%B5%98%E8%82%89%23" target="weibo">
+五个习惯可能导致腹部长赘肉（热度：251329）
 </a>
 </li>
 
@@ -141,14 +165,32 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%9A%E4%B8%BB%E4%B8%8E%E5%86%99%E5%AD%97%E6%A5%BC%E7%94%B7%E5%91%98%E5%B7%A5%E5%95%86%E8%B0%88%E7%AA%81%E7%84%B6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+女业主与写字楼男员工商谈突然被扇耳光（热度：211325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8E%E5%8F%B0%E7%8B%82%E7%82%AB%E5%B0%8F%E9%9B%B6%E9%A3%9F%23" target="weibo">
 王鹤棣后台狂炫小零食（热度：209893）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E6%97%A0%E8%AF%AD%23" target="weibo">
+第一次在大熊猫脸上看到无语（热度：208033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E7%88%B6%E4%BA%B2600%E5%9D%97%E4%B9%B0%E7%9A%84%E6%95%B4%E5%8F%AA%E7%89%9B%E5%A4%B4%E5%81%9A%E7%81%AB%E9%94%85%23" target="weibo">
 女儿用父亲600块买的整只牛头做火锅（热度：186110）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA%E5%BD%93%E7%9D%80%E8%80%81%E4%BC%B4%E9%9D%A2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+街道办回应老人当着老伴面坠楼身亡（热度：178592）
 </a>
 </li>
 
@@ -171,8 +213,20 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A5%96%E4%BC%A0%E8%BA%B2%E9%9B%A8%E5%A7%BF%E5%8A%BF%23" target="weibo">
+大熊猫祖传躲雨姿势（热度：158553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 华晨宇演唱会（热度：155717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E8%AE%A4%E8%AF%86%E7%9A%84%E5%9B%BD%E8%B6%B3%E5%90%97%23" target="weibo">
+这是我认识的国足吗（热度：155120）
 </a>
 </li>
 
@@ -195,18 +249,6 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%861%E5%A4%A9%E8%B5%B0%E4%B8%A23%E6%AC%A1%E6%B0%91%E8%AD%A6%E7%86%9F%E7%BB%83%E9%80%81%E5%9B%9E%23" target="weibo">
-婆婆1天走丢3次民警熟练送回（热度：138067）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E8%AE%A4%E8%AF%86%E7%9A%84%E5%9B%BD%E8%B6%B3%E5%90%97%23" target="weibo">
-这是我认识的国足吗（热度：134162）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86%23" target="weibo">
 沈梦辰 我不行我婚嫁了（热度：133647）
 </a>
@@ -214,19 +256,7 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E8%AF%B4%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E5%87%BA%E4%BA%863%E5%88%86%E7%9C%9F7%E5%88%86%E5%81%87%23" target="weibo">
-导演说刘诗诗演出了3分真7分假（热度：127769）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%9A%E4%B8%BB%E4%B8%8E%E5%86%99%E5%AD%97%E6%A5%BC%E7%94%B7%E5%91%98%E5%B7%A5%E5%95%86%E8%B0%88%E7%AA%81%E7%84%B6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-女业主与写字楼男员工商谈突然被扇耳光（热度：124377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A5%96%E4%BC%A0%E8%BA%B2%E9%9B%A8%E5%A7%BF%E5%8A%BF%23" target="weibo">
-大熊猫祖传躲雨姿势（热度：122913）
+导演说刘诗诗演出了3分真7分假（热度：131213）
 </a>
 </li>
 
@@ -243,8 +273,20 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E8%85%B9%E9%83%A8%E9%95%BF%E8%B5%98%E8%82%89%23" target="weibo">
-五个习惯可能导致腹部长赘肉（热度：115191）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E7%94%B7%E7%94%9F%E8%B7%91%E6%AD%A5%E6%97%B6%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%80%92%E5%9C%B0%23" target="weibo">
+广东一男生跑步时心脏骤停倒地（热度：114220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A00%E5%90%8E%E6%89%9B%E8%B5%B7%E4%BA%86%E5%A4%A7%E6%A2%81%23" target="weibo">
+这届00后扛起了大梁（热度：113883）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E8%AD%A6%E5%AF%9F%E5%BD%93%E5%8F%97%E5%AE%B3%E4%BA%BA%E9%9D%A2%E6%80%92%E6%80%BC%E5%81%87%E8%AD%A6%E5%AF%9F%23" target="weibo">
+真警察当受害人面怒怼假警察（热度：112175）
 </a>
 </li>
 
@@ -273,12 +315,6 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA%E5%BD%93%E7%9D%80%E8%80%81%E4%BC%B4%E9%9D%A2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
-街道办回应老人当着老伴面坠楼身亡（热度：105333）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%8E%8B%E5%AD%90%E5%A5%87%E5%8D%81%E6%8C%87%E7%B4%A7%E6%89%A3%23" target="weibo">
 黄景瑜王子奇十指紧扣（热度：105003）
 </a>
@@ -287,6 +323,12 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23CS2%23" target="weibo">
 CS2（热度：102290）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%9C%89%E6%9B%BF%E7%88%B6%E4%BB%8E%E5%86%9B%20%E4%BB%8A%E6%9C%89%E6%9B%BF%E7%88%B6%E8%BF%BD%E6%98%9F%23" target="weibo">
+古有替父从军 今有替父追星（热度：102194）
 </a>
 </li>
 
@@ -321,12 +363,6 @@ CS2（热度：102290）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E6%97%A0%E8%AF%AD%23" target="weibo">
-第一次在大熊猫脸上看到无语（热度：96011）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E7%89%B9%E5%BE%81%E8%BF%99%E4%B9%88%E6%98%8E%E6%98%BE%E5%90%97%23" target="weibo">
 大一新生特征这么明显吗（热度：95677）
 </a>
@@ -339,8 +375,20 @@ CS2（热度：102290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%B0%8F%E5%93%A5%E6%BC%94%E6%88%91%E9%81%87%E5%88%B0%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
+外国小哥演我遇到迪丽热巴（热度：89384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%B6%B3%E4%B8%BB%E5%8A%9B%E5%81%9C%E8%B5%9B%23" target="weibo">
 男足主力停赛（热度：82917）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E5%9C%BA%E9%A6%86%E6%98%AF%E6%87%82%E6%94%BE%E6%AD%8C%E7%9A%84%23" target="weibo">
+游泳场馆是懂放歌的（热度：80222）
 </a>
 </li>
 
@@ -351,14 +399,8 @@ CS2（热度：102290）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%9C%89%E6%9B%BF%E7%88%B6%E4%BB%8E%E5%86%9B%20%E4%BB%8A%E6%9C%89%E6%9B%BF%E7%88%B6%E8%BF%BD%E6%98%9F%23" target="weibo">
-古有替父从军 今有替父追星（热度：69216）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%B0%8F%E5%93%A5%E6%BC%94%E6%88%91%E9%81%87%E5%88%B0%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-外国小哥演我遇到迪丽热巴（热度：63505）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E4%B8%8EVOGUE%E4%B8%BB%E7%BC%96%E5%90%88%E5%BD%B1%23" target="weibo">
+周冬雨与VOGUE主编合影（热度：64023）
 </a>
 </li>
 
@@ -369,26 +411,20 @@ CS2（热度：102290）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A00%E5%90%8E%E6%89%9B%E8%B5%B7%E4%BA%86%E5%A4%A7%E6%A2%81%23" target="weibo">
-这届00后扛起了大梁（热度：48499）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%20%E8%AE%A9%E9%A2%86%E5%AF%BC%E5%A4%B1%E5%8E%BB%E6%B2%9F%E9%80%9A%E6%AC%B2%E7%9A%84%E5%A4%B4%E5%83%8F%23" target="weibo">
+吾皇巴扎黑 让领导失去沟通欲的头像（热度：60048）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E4%B8%8EVOGUE%E4%B8%BB%E7%BC%96%E5%90%88%E5%BD%B1%23" target="weibo">
-周冬雨与VOGUE主编合影（热度：37777）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%88%97%E8%BD%A6%E8%8E%B7%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E7%82%B9%E8%B5%9E%23" target="weibo">
+中国造列车获土耳其总统点赞（热度：49654）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E4%B8%8D%E8%A3%85%E4%BA%86%23" target="weibo">
 卫明不装了（热度：36380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%88%97%E8%BD%A6%E8%8E%B7%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E7%82%B9%E8%B5%9E%23" target="weibo">
-中国造列车获土耳其总统点赞（热度：33793）
 </a>
 </li>
 
