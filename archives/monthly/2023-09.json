@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695821651992,
+  "endTime": 1695824180284,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1673,6 +1673,14 @@
       "onboard_time": 1694840135,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2335827,
+      "num": 3105985,
+      "word": "中国男足晋级八强",
+      "onboard_time": 1695821921,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2332075,
@@ -4377,6 +4385,14 @@
       "onboard_time": 1694226812,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1534074,
+      "num": 1534074,
+      "word": "徐嘉余 51.91",
+      "onboard_time": 1695821199,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1533086,
@@ -9963,6 +9979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 858009,
+      "num": 264659,
+      "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+      "onboard_time": 1695819333,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857652,
       "num": 857652,
       "word": "马来西亚4岁女童溺亡26岁继兄冷眼旁观",
@@ -11065,14 +11089,6 @@
       "onboard_time": 1693625133,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 800626,
-      "num": 264659,
-      "word": "英国鳄鱼专家性侵42只狗致39只死亡",
-      "onboard_time": 1695819333,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 800296,
@@ -21571,6 +21587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494234,
+      "num": 494234,
+      "word": "徐嘉余杀疯了",
+      "onboard_time": 1695821980,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494040,
       "num": 494040,
       "word": "千颂伊这精神状态领先我十年",
@@ -26275,6 +26299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415106,
+      "num": 415106,
+      "word": "YG新女团成员的Smoke舞蹈",
+      "onboard_time": 1695821321,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 414854,
       "num": 480415,
       "word": "大学生请假捐造血干细胞救助患者",
@@ -28387,14 +28419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378953,
-      "num": 263451,
-      "word": "YG新女团成员的Smoke舞蹈",
-      "onboard_time": 1695821321,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 378913,
       "num": 378913,
       "word": "吴昕说恋爱没百分百确定别骚扰家长",
@@ -28433,6 +28457,14 @@
       "onboard_time": 1694309792,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378752,
+      "num": 378752,
+      "word": "白鹿及腰麻花辫",
+      "onboard_time": 1695820836,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 378674,
@@ -28825,14 +28857,6 @@
       "onboard_time": 1694533835,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373173,
-      "num": 373173,
-      "word": "白鹿及腰麻花辫",
-      "onboard_time": 1695820836,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 373149,
@@ -29329,6 +29353,14 @@
       "onboard_time": 1694439469,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368173,
+      "num": 368173,
+      "word": "王鹤棣拒绝给自己歌声打分",
+      "onboard_time": 1695822100,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 368161,
@@ -34579,6 +34611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308884,
+      "num": 308884,
+      "word": "张嘉倪长筒靴适配度",
+      "onboard_time": 1695822758,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308763,
       "num": 308763,
       "word": "敖子逸四杀",
@@ -35041,6 +35081,14 @@
       "onboard_time": 1694941053,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 304408,
+      "num": 304408,
+      "word": "王嘉尔创造营亚洲泰国季发起人",
+      "onboard_time": 1695823118,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 304313,
@@ -38035,6 +38083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278587,
+      "num": 278587,
+      "word": "中国女篮55分大胜蒙古女篮",
+      "onboard_time": 1695822876,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278577,
       "num": 278577,
       "word": "杨玏跟他爸双向辜负",
@@ -38859,6 +38915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271729,
+      "num": 271729,
+      "word": "打工人假期专属头像",
+      "onboard_time": 1695823835,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271699,
       "num": 225571,
       "word": "真实存在于南极冰层下的死亡冰柱",
@@ -38913,6 +38977,14 @@
       "onboard_time": 1694947232,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 271439,
+      "num": 271439,
+      "word": "樊振东现场观战游泳比赛",
+      "onboard_time": 1695822519,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 271431,
@@ -44859,6 +44931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229249,
+      "num": 354691,
+      "word": "中国队男女4×100米混接力金牌",
+      "onboard_time": 1695822342,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229164,
       "num": 209761,
       "word": "想把马杨的这句话送给领导",
@@ -45081,6 +45161,14 @@
       "onboard_time": 1694425599,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227646,
+      "num": 227646,
+      "word": "国足亚运队下场对韩国",
+      "onboard_time": 1695823656,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 227620,
@@ -47819,6 +47907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212263,
+      "num": 212263,
+      "word": "蒋圣龙红牌",
+      "onboard_time": 1695822278,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212256,
       "num": 212256,
       "word": "向日葵远程",
@@ -49321,6 +49417,14 @@
       "onboard_time": 1695291220,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205499,
+      "num": 205499,
+      "word": "大一新生特征这么明显吗",
+      "onboard_time": 1695823538,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 205483,
@@ -51665,6 +51769,14 @@
       "onboard_time": 1693755578,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197847,
+      "num": 197847,
+      "word": "迪奥二零二四春夏成衣系列发布秀",
+      "onboard_time": 1695823958,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 197841,
@@ -54371,6 +54483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188844,
+      "num": 188844,
+      "word": "卫明真气人",
+      "onboard_time": 1695823175,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188784,
       "num": 188784,
       "word": "台风苏拉风雨影响广州",
@@ -54545,6 +54665,14 @@
       "onboard_time": 1695734203,
       "rank": 49,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 187979,
+      "num": 187979,
+      "word": "母亲去世女子想推迟结婚被判退彩礼",
+      "onboard_time": 1695823538,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187960,
@@ -58019,6 +58147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172261,
+      "num": 172261,
+      "word": "85岁潘展乐爷爷拄拐到现场为孙子加油",
+      "onboard_time": 1695823538,
+      "rank": 43,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 172243,
       "num": 172243,
       "word": "夭柳现代跨越时空重遇",
@@ -60537,6 +60673,14 @@
       "onboard_time": 1694929354,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158893,
+      "num": 158893,
+      "word": "坚如磐石北京首映礼",
+      "onboard_time": 1695824076,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 158880,
@@ -67659,6 +67803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96737,
+      "num": 1544401,
+      "word": "中国造列车获土耳其总统点赞",
+      "onboard_time": 1695820474,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95864,
       "num": 476217,
       "word": "谁说手机不能拍出完美开幕式",
@@ -69705,14 +69857,6 @@
       "onboard_time": 1694625443,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58691,
-      "num": 1249783,
-      "word": "中国造列车获土耳其总统点赞",
-      "onboard_time": 1695820474,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58547,

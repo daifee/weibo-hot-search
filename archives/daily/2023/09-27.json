@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695821651992,
+  "endTime": 1695824180284,
   "band_list": [
     {
       "raw_hot": 3125145,
@@ -57,6 +57,14 @@
       "onboard_time": 1695788797,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2335827,
+      "num": 3105985,
+      "word": "中国男足晋级八强",
+      "onboard_time": 1695821921,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2325118,
@@ -160,6 +168,14 @@
       "word": "上海成功申办奥运会资格系列赛",
       "onboard_time": 1695770550,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1534074,
+      "num": 1534074,
+      "word": "徐嘉余 51.91",
+      "onboard_time": 1695821199,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -363,6 +379,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 858009,
+      "num": 264659,
+      "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+      "onboard_time": 1695819333,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 839978,
       "num": 839978,
       "word": "仅停4分钟的高铁上消防救人只用了9秒",
@@ -393,14 +417,6 @@
       "onboard_time": 1695772535,
       "rank": 20,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 800626,
-      "num": 264659,
-      "word": "英国鳄鱼专家性侵42只狗致39只死亡",
-      "onboard_time": 1695819333,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 791690,
@@ -819,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 494234,
+      "num": 494234,
+      "word": "徐嘉余杀疯了",
+      "onboard_time": 1695821980,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491888,
       "num": 491888,
       "word": "英雄联盟S13主题曲",
@@ -963,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415106,
+      "num": 415106,
+      "word": "YG新女团成员的Smoke舞蹈",
+      "onboard_time": 1695821321,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 413967,
       "num": 413967,
       "word": "五个习惯可能导致腹部长赘肉",
@@ -1011,12 +1043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378953,
-      "num": 263451,
-      "word": "YG新女团成员的Smoke舞蹈",
-      "onboard_time": 1695821321,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 378752,
+      "num": 378752,
+      "word": "白鹿及腰麻花辫",
+      "onboard_time": 1695820836,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 377927,
@@ -1035,14 +1067,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 373173,
-      "num": 373173,
-      "word": "白鹿及腰麻花辫",
-      "onboard_time": 1695820836,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 370181,
       "num": 282620,
       "word": "封神训练营主持人是吴昕",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1695795275,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368173,
+      "num": 368173,
+      "word": "王鹤棣拒绝给自己歌声打分",
+      "onboard_time": 1695822100,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 365990,
@@ -1243,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308884,
+      "num": 308884,
+      "word": "张嘉倪长筒靴适配度",
+      "onboard_time": 1695822758,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308587,
       "num": 308587,
       "word": "张凌赫张婧仪背影同框",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1695762553,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304408,
+      "num": 304408,
+      "word": "王嘉尔创造营亚洲泰国季发起人",
+      "onboard_time": 1695823118,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 303455,
@@ -1371,6 +1419,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 278587,
+      "num": 278587,
+      "word": "中国女篮55分大胜蒙古女篮",
+      "onboard_time": 1695822876,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276045,
       "num": 250836,
       "word": "内娱有AI演员了",
@@ -1393,6 +1449,22 @@
       "onboard_time": 1695777873,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 271729,
+      "num": 271729,
+      "word": "打工人假期专属头像",
+      "onboard_time": 1695823835,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 271439,
+      "num": 271439,
+      "word": "樊振东现场观战游泳比赛",
+      "onboard_time": 1695822519,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 264841,
@@ -1595,12 +1667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229249,
+      "num": 354691,
+      "word": "中国队男女4×100米混接力金牌",
+      "onboard_time": 1695822342,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228099,
       "num": 228099,
       "word": "文咏珊跑厅跑到袜子都破了",
       "onboard_time": 1695798216,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227646,
+      "num": 227646,
+      "word": "国足亚运队下场对韩国",
+      "onboard_time": 1695823656,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 227199,
@@ -1723,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212263,
+      "num": 212263,
+      "word": "蒋圣龙红牌",
+      "onboard_time": 1695822278,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211976,
       "num": 211976,
       "word": "鹿晗演唱会线上首播",
@@ -1811,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205499,
+      "num": 205499,
+      "word": "大一新生特征这么明显吗",
+      "onboard_time": 1695823538,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205443,
       "num": 205443,
       "word": "薛之谦石家庄 抢票",
@@ -1897,6 +2001,14 @@
       "onboard_time": 1695791079,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197847,
+      "num": 197847,
+      "word": "迪奥二零二四春夏成衣系列发布秀",
+      "onboard_time": 1695823958,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 197594,
@@ -2043,12 +2155,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188844,
+      "num": 188844,
+      "word": "卫明真气人",
+      "onboard_time": 1695823175,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188237,
       "num": 188237,
       "word": "周杰伦上海演唱会",
       "onboard_time": 1695809191,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187979,
+      "num": 187979,
+      "word": "母亲去世女子想推迟结婚被判退彩礼",
+      "onboard_time": 1695823538,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187863,
@@ -2203,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172261,
+      "num": 172261,
+      "word": "85岁潘展乐爷爷拄拐到现场为孙子加油",
+      "onboard_time": 1695823538,
+      "rank": 43,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 172243,
       "num": 172243,
       "word": "夭柳现代跨越时空重遇",
@@ -2289,6 +2425,14 @@
       "onboard_time": 1695804693,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158893,
+      "num": 158893,
+      "word": "坚如磐石北京首映礼",
+      "onboard_time": 1695824076,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 158857,
@@ -2691,6 +2835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96737,
+      "num": 1544401,
+      "word": "中国造列车获土耳其总统点赞",
+      "onboard_time": 1695820474,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96458,
       "num": 96458,
       "word": "金智秀斜刘海",
@@ -2833,14 +2985,6 @@
       "onboard_time": 1695791378,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58691,
-      "num": 1249783,
-      "word": "中国造列车获土耳其总统点赞",
-      "onboard_time": 1695820474,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57570,

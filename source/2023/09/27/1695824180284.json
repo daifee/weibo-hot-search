@@ -1,0 +1,410 @@
+{
+  "runTime": 1695824180284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2335827,
+        "num": 3105985,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1571420,
+        "num": 1571420,
+        "word": "华晨宇演唱会穿婚纱",
+        "onboard_time": 1695820173,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96737,
+        "num": 1544401,
+        "word": "中国造列车获土耳其总统点赞",
+        "onboard_time": 1695820474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1534074,
+        "num": 1534074,
+        "word": "徐嘉余 51.91",
+        "onboard_time": 1695821199,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 976642,
+        "num": 976642,
+        "word": "女儿用父亲600块买的整只牛头做火锅",
+        "onboard_time": 1695817412,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563347,
+        "num": 563347,
+        "word": "黄凯连续五年考研上岸清华",
+        "onboard_time": 1695820898,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526257,
+        "num": 526257,
+        "word": "顺丰错转周杰伦演唱会门票致过期",
+        "onboard_time": 1695810215,
+        "rank": 6,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 494234,
+        "num": 494234,
+        "word": "徐嘉余杀疯了",
+        "onboard_time": 1695821980,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426754,
+        "num": 426754,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415106,
+        "num": 415106,
+        "word": "YG新女团成员的Smoke舞蹈",
+        "onboard_time": 1695821321,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394562,
+        "num": 394562,
+        "word": "219元裙子穿90分钟便烂应该谁负责",
+        "onboard_time": 1695818132,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378752,
+        "num": 378752,
+        "word": "白鹿及腰麻花辫",
+        "onboard_time": 1695820836,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368173,
+        "num": 368173,
+        "word": "王鹤棣拒绝给自己歌声打分",
+        "onboard_time": 1695822100,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229249,
+        "num": 354691,
+        "word": "中国队男女4×100米混接力金牌",
+        "onboard_time": 1695822342,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202952,
+        "num": 348204,
+        "word": "大熊猫祖传躲雨姿势",
+        "onboard_time": 1695812132,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 343277,
+        "num": 343277,
+        "word": "古有替父从军 今有替父追星",
+        "onboard_time": 1695816451,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327640,
+        "num": 327640,
+        "word": "卢昱晓直播 有求必应",
+        "onboard_time": 1695820836,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313232,
+        "num": 313232,
+        "word": "男足 梦幻开局",
+        "onboard_time": 1695816871,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309584,
+        "num": 309584,
+        "word": "吴昕是穿了睡裤去巴黎吗",
+        "onboard_time": 1695799716,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 308884,
+        "num": 308884,
+        "word": "张嘉倪长筒靴适配度",
+        "onboard_time": 1695822758,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304408,
+        "num": 304408,
+        "word": "王嘉尔创造营亚洲泰国季发起人",
+        "onboard_time": 1695823118,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303146,
+        "num": 303146,
+        "word": "导演说刘诗诗演出了3分真7分假",
+        "onboard_time": 1695813932,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283835,
+        "num": 283835,
+        "word": "谢兴阳 头一次当上男主了",
+        "onboard_time": 1695820053,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278587,
+        "num": 278587,
+        "word": "中国女篮55分大胜蒙古女篮",
+        "onboard_time": 1695822876,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271729,
+        "num": 271729,
+        "word": "打工人假期专属头像",
+        "onboard_time": 1695823835,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271439,
+        "num": 271439,
+        "word": "樊振东现场观战游泳比赛",
+        "onboard_time": 1695822519,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230950,
+        "num": 230950,
+        "word": "分手后男生发给我的所有账单",
+        "onboard_time": 1695817832,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227646,
+        "num": 227646,
+        "word": "国足亚运队下场对韩国",
+        "onboard_time": 1695823656,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215513,
+        "num": 215513,
+        "word": "封神训练营主持人是吴昕",
+        "onboard_time": 1695818432,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215328,
+        "num": 215328,
+        "word": "黄景瑜王子奇十指紧扣",
+        "onboard_time": 1695819274,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 858009,
+        "num": 215277,
+        "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+        "onboard_time": 1695819333,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215069,
+        "num": 215069,
+        "word": "王鹤棣哄小女孩",
+        "onboard_time": 1695818852,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214937,
+        "num": 214937,
+        "word": "女子称质疑公司发假月饼后被解雇",
+        "onboard_time": 1695812913,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212263,
+        "num": 212263,
+        "word": "蒋圣龙红牌",
+        "onboard_time": 1695822278,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205499,
+        "num": 205499,
+        "word": "大一新生特征这么明显吗",
+        "onboard_time": 1695823538,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204199,
+        "num": 204199,
+        "word": "华为上架1999元手机壳",
+        "onboard_time": 1695803074,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199467,
+        "num": 199467,
+        "word": "日本阳光玫瑰价格大跌",
+        "onboard_time": 1695813272,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197847,
+        "num": 197847,
+        "word": "迪奥二零二四春夏成衣系列发布秀",
+        "onboard_time": 1695823958,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196572,
+        "num": 196572,
+        "word": "外国小哥演我遇到迪丽热巴",
+        "onboard_time": 1695819274,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194053,
+        "num": 194053,
+        "word": "内娱有AI演员了",
+        "onboard_time": 1695819214,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188844,
+        "num": 188844,
+        "word": "卫明真气人",
+        "onboard_time": 1695823175,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192167,
+        "num": 188705,
+        "word": "好事成双",
+        "onboard_time": 1695816573,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187979,
+        "num": 187979,
+        "word": "母亲去世女子想推迟结婚被判退彩礼",
+        "onboard_time": 1695823538,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172261,
+        "num": 172261,
+        "word": "85岁潘展乐爷爷拄拐到现场为孙子加油",
+        "onboard_time": 1695823538,
+        "rank": 43,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 167426,
+        "num": 167426,
+        "word": "潘展乐 尽力了",
+        "onboard_time": 1695818555,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160721,
+        "num": 160721,
+        "word": "offer5 8点下班的工作没人做",
+        "onboard_time": 1695805115,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159210,
+        "num": 159210,
+        "word": "papi酱 步入中年的前奏",
+        "onboard_time": 1695811412,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158893,
+        "num": 158893,
+        "word": "坚如磐石北京首映礼",
+        "onboard_time": 1695824076,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156622,
+        "num": 156622,
+        "word": "张雨霏亚运第四金",
+        "onboard_time": 1695821078,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154324,
+        "num": 154324,
+        "word": "五个习惯可能导致腹部长赘肉",
+        "onboard_time": 1695809551,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
