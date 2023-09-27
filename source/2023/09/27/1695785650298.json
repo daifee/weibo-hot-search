@@ -1,0 +1,410 @@
+{
+  "runTime": 1695785650298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3125145,
+        "num": 3125145,
+        "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+        "onboard_time": 1695778715,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1899298,
+        "num": 1899298,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22315,
+        "num": 1191101,
+        "word": "亚运赛场闪闪发光的中国00后",
+        "onboard_time": 1695735583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1057017,
+        "num": 1057017,
+        "word": "空气炸锅为什么不火了",
+        "onboard_time": 1695776439,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 744056,
+        "num": 744056,
+        "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
+        "onboard_time": 1695781532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653282,
+        "num": 653282,
+        "word": "胡彦斌问孙怡Melody被求婚的经历",
+        "onboard_time": 1695782131,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582625,
+        "num": 582625,
+        "word": "董宇辉回应周杰伦演唱会门票来源",
+        "onboard_time": 1695776439,
+        "rank": 6,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 541736,
+        "num": 541736,
+        "word": "迪丽热巴王俊凯金智秀G社生图",
+        "onboard_time": 1695782131,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 514549,
+        "num": 514549,
+        "word": "温柔处理打不疼欺凌者",
+        "onboard_time": 1695780032,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471207,
+        "num": 471207,
+        "word": "华晨宇希望通过创作给予他人帮助",
+        "onboard_time": 1695784653,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 789004,
+        "num": 465985,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 742369,
+        "num": 462150,
+        "word": "Angelababy养的阿黄",
+        "onboard_time": 1695778833,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433155,
+        "num": 433155,
+        "word": "叙利亚总统夫妇用中文道别",
+        "onboard_time": 1695784054,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338169,
+        "num": 429204,
+        "word": "央视中秋晚会嘉宾阵容",
+        "onboard_time": 1695785074,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43333,
+        "num": 424719,
+        "word": "是谁复活了尼山的璀璨文明",
+        "onboard_time": 1695783637,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97960,
+        "num": 411323,
+        "word": "许海峰说冠军是玩出来的",
+        "onboard_time": 1695783211,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466495,
+        "num": 403902,
+        "word": "郑爽被判赔偿投资方6000万元",
+        "onboard_time": 1695732642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403210,
+        "num": 403210,
+        "word": "花花不久就能和大家见面啦",
+        "onboard_time": 1695777636,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380432,
+        "num": 380432,
+        "word": "CoCo 周边要钱",
+        "onboard_time": 1695784712,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362190,
+        "num": 362190,
+        "word": "研究表明人类或将在2.5亿年后灭绝",
+        "onboard_time": 1695783515,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 820520,
+        "num": 356222,
+        "word": "娜扎外网生图",
+        "onboard_time": 1695784173,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370854,
+        "num": 350333,
+        "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
+        "onboard_time": 1695781174,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327944,
+        "num": 327944,
+        "word": "上海成功申办奥运会资格系列赛",
+        "onboard_time": 1695770550,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281144,
+        "num": 281144,
+        "word": "新人结婚隔壁幼儿园小朋友全体出动",
+        "onboard_time": 1695778955,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280600,
+        "num": 280600,
+        "word": "傅首尔逼疯i人的e人",
+        "onboard_time": 1695782672,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272145,
+        "num": 272145,
+        "word": "林俊杰拍张杰",
+        "onboard_time": 1695785074,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264775,
+        "num": 264775,
+        "word": "韩国球员为输球后拒绝握手道歉",
+        "onboard_time": 1695776077,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263486,
+        "num": 263486,
+        "word": "Newjeans将演唱英雄联盟主题曲",
+        "onboard_time": 1695779137,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 262262,
+        "num": 262262,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 251582,
+        "num": 251582,
+        "word": "迪丽热巴听到过来的反应",
+        "onboard_time": 1695779433,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87879,
+        "num": 243233,
+        "word": "当一座山泛起哲学的波光",
+        "onboard_time": 1695782731,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238930,
+        "num": 238930,
+        "word": "黄晓明微信名叫黄晓明",
+        "onboard_time": 1695773979,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227610,
+        "num": 227610,
+        "word": "为什么男生的屁股翘",
+        "onboard_time": 1695772535,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 221467,
+        "num": 221467,
+        "word": "美国编剧工会罢工结束",
+        "onboard_time": 1695784900,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218603,
+        "num": 218603,
+        "word": "13岁少女成中国最年轻亚运冠军",
+        "onboard_time": 1695785374,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214022,
+        "num": 214022,
+        "word": "黄牛花36元叫网约车收旅客100",
+        "onboard_time": 1695780755,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210960,
+        "num": 210960,
+        "word": "周冬雨冷艳风",
+        "onboard_time": 1695783992,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198092,
+        "num": 198092,
+        "word": "弟弟觉得夜色尚浅公开了",
+        "onboard_time": 1695770968,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187339,
+        "num": 187339,
+        "word": "那维莱特 不要歪",
+        "onboard_time": 1695784355,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179914,
+        "num": 179914,
+        "word": "iPhone15Pro过热或是散热问题",
+        "onboard_time": 1695777873,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170334,
+        "num": 170334,
+        "word": "拍照时发现后面路人是乌尔善",
+        "onboard_time": 1695783572,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165988,
+        "num": 165988,
+        "word": "卫明出轨再添实锤",
+        "onboard_time": 1695740022,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156482,
+        "num": 156482,
+        "word": "封神训练营大预告",
+        "onboard_time": 1695784173,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155391,
+        "num": 155391,
+        "word": "原神",
+        "onboard_time": 1695772174,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155345,
+        "num": 155345,
+        "word": "43名兵哥哥接亲遇战友盾牌挡门",
+        "onboard_time": 1695785496,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154281,
+        "num": 154281,
+        "word": "周杰伦一路向北4K现场",
+        "onboard_time": 1695782553,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149031,
+        "num": 149031,
+        "word": "仙剑消侠传之西南F4正式出道",
+        "onboard_time": 1695785315,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562651,
+        "num": 147385,
+        "word": "茶百道TheShy联名",
+        "onboard_time": 1695784233,
+        "rank": 47,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 144357,
+        "num": 144357,
+        "word": "张凌赫张婧仪背影同框",
+        "onboard_time": 1695778115,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137986,
+        "num": 137986,
+        "word": "马嘉祺说在准备见面机会了",
+        "onboard_time": 1695785612,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#期待更多土特产为乡村发展赢得满堂彩#"
+    }
+  }
+}

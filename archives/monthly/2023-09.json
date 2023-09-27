@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695784670971,
+  "endTime": 1695785650298,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -641,6 +641,14 @@
       "onboard_time": 1694494665,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3125145,
+      "num": 3125145,
+      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+      "onboard_time": 1695778715,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3104486,
@@ -1745,14 +1753,6 @@
       "onboard_time": 1694663321,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2278333,
-      "num": 2278333,
-      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
-      "onboard_time": 1695778715,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2274476,
@@ -10363,6 +10363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 820520,
+      "num": 367115,
+      "word": "娜扎外网生图",
+      "onboard_time": 1695784173,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 820049,
       "num": 820049,
       "word": "蜂花年销售额已破10亿",
@@ -12107,6 +12115,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 742369,
+      "num": 462150,
+      "word": "Angelababy养的阿黄",
+      "onboard_time": 1695778833,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 742264,
       "num": 352562,
       "word": "高考时被关禁闭网红狗去世",
@@ -12393,14 +12409,6 @@
       "onboard_time": 1693754922,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732751,
-      "num": 367115,
-      "word": "娜扎外网生图",
-      "onboard_time": 1695784173,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 732428,
@@ -13707,14 +13715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 682095,
-      "num": 401723,
-      "word": "Angelababy养的阿黄",
-      "onboard_time": 1695778833,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 682090,
       "num": 682090,
       "word": "广州TTG重回总决赛",
@@ -14601,6 +14601,14 @@
       "onboard_time": 1694004758,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 653282,
+      "num": 653282,
+      "word": "胡彦斌问孙怡Melody被求婚的经历",
+      "onboard_time": 1695782131,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 653280,
@@ -16275,14 +16283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 603650,
-      "num": 603650,
-      "word": "胡彦斌问孙怡Melody被求婚的经历",
-      "onboard_time": 1695782131,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 603480,
       "num": 1559742,
       "word": "渔民放生300斤海龟后收获3000斤鲳鱼",
@@ -17769,6 +17769,14 @@
       "onboard_time": 1694070994,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 562651,
+      "num": 219746,
+      "word": "茶百道TheShy联名",
+      "onboard_time": 1695784233,
+      "rank": 29,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 562418,
@@ -20059,6 +20067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 514549,
+      "num": 514549,
+      "word": "温柔处理打不疼欺凌者",
+      "onboard_time": 1695780032,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514512,
       "num": 514512,
       "word": "夺3金的浙江姑娘黄雨婷还在读高二",
@@ -22299,6 +22315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471207,
+      "num": 471207,
+      "word": "华晨宇希望通过创作给予他人帮助",
+      "onboard_time": 1695784653,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 471064,
       "num": 471064,
       "word": "蜂花你家纸箱被偷了",
@@ -24443,6 +24467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433155,
+      "num": 433155,
+      "word": "叙利亚总统夫妇用中文道别",
+      "onboard_time": 1695784054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433019,
       "num": 530680,
       "word": "这2项运动不利于孩子生长发育",
@@ -26547,14 +26579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400496,
-      "num": 400496,
-      "word": "华晨宇希望通过创作给予他人帮助",
-      "onboard_time": 1695784653,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 400412,
       "num": 338911,
       "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
@@ -27673,6 +27697,14 @@
       "onboard_time": 1695088955,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380432,
+      "num": 380432,
+      "word": "CoCo 周边要钱",
+      "onboard_time": 1695784712,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 380351,
@@ -29091,6 +29123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362190,
+      "num": 362190,
+      "word": "研究表明人类或将在2.5亿年后灭绝",
+      "onboard_time": 1695783515,
+      "rank": 22,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 362077,
       "num": 362077,
       "word": "敖子逸打着石膏参加决赛",
@@ -30123,14 +30163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 347364,
-      "num": 347364,
-      "word": "研究表明人类或将在2.5亿年后灭绝",
-      "onboard_time": 1695783515,
-      "rank": 22,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 347356,
       "num": 347356,
       "word": "坂田银时吸入白砂糖",
@@ -30800,6 +30832,14 @@
       "word": "张杰加盟东方卫视中秋晚会",
       "onboard_time": 1695450329,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 338169,
+      "num": 429204,
+      "word": "央视中秋晚会嘉宾阵容",
+      "onboard_time": 1695785074,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -37955,6 +37995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272145,
+      "num": 272145,
+      "word": "林俊杰拍张杰",
+      "onboard_time": 1695785074,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 272121,
       "num": 383469,
       "word": "逃出大英博物馆的隐藏彩蛋",
@@ -38521,14 +38569,6 @@
       "onboard_time": 1695032676,
       "rank": 30,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 267615,
-      "num": 485353,
-      "word": "温柔处理打不疼欺凌者",
-      "onboard_time": 1695780032,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267558,
@@ -43883,14 +43923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228923,
-      "num": 213661,
-      "word": "叙利亚总统夫妇用中文道别",
-      "onboard_time": 1695784054,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228912,
       "num": 228912,
       "word": "詹青云 年轻就是选择权的巅峰",
@@ -45075,6 +45107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221467,
+      "num": 221467,
+      "word": "美国编剧工会罢工结束",
+      "onboard_time": 1695784900,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221423,
       "num": 221423,
       "word": "装腔启示录",
@@ -45339,14 +45379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 219746,
-      "num": 219746,
-      "word": "茶百道TheShy联名",
-      "onboard_time": 1695784233,
-      "rank": 29,
-      "category": "美食,游戏"
-    },
-    {
       "raw_hot": 219734,
       "num": 219734,
       "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
@@ -45513,6 +45545,14 @@
       "onboard_time": 1695119260,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218603,
+      "num": 218603,
+      "word": "13岁少女成中国最年轻亚运冠军",
+      "onboard_time": 1695785374,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 218596,
@@ -46937,6 +46977,14 @@
       "onboard_time": 1693925201,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210960,
+      "num": 210960,
+      "word": "周冬雨冷艳风",
+      "onboard_time": 1695783992,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 210951,
@@ -51737,14 +51785,6 @@
       "onboard_time": 1695279817,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193161,
-      "num": 193161,
-      "word": "周冬雨冷艳风",
-      "onboard_time": 1695783992,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193134,
@@ -59595,6 +59635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156482,
+      "num": 156482,
+      "word": "封神训练营大预告",
+      "onboard_time": 1695784173,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156464,
       "num": 156464,
       "word": "武汉三镇2比2浦和红钻",
@@ -59763,6 +59811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155345,
+      "num": 155345,
+      "word": "43名兵哥哥接亲遇战友盾牌挡门",
+      "onboard_time": 1695785496,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155324,
       "num": 155324,
       "word": "这是含金量拉满的一周",
@@ -59865,14 +59921,6 @@
       "onboard_time": 1694829754,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154340,
-      "num": 154340,
-      "word": "封神训练营大预告",
-      "onboard_time": 1695784173,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 154283,
@@ -60777,6 +60825,14 @@
       "onboard_time": 1693807894,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149031,
+      "num": 149031,
+      "word": "仙剑消侠传之西南F4正式出道",
+      "onboard_time": 1695785315,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148984,
@@ -62449,6 +62505,14 @@
       "onboard_time": 1695259178,
       "rank": 46,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 137986,
+      "num": 137986,
+      "word": "马嘉祺说在准备见面机会了",
+      "onboard_time": 1695785612,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137962,
@@ -64924,7 +64988,7 @@
     },
     {
       "raw_hot": 114339,
-      "num": 215511,
+      "num": 243233,
       "word": "当一座山泛起哲学的波光",
       "onboard_time": 1695782731,
       "rank": 30,
@@ -66017,6 +66081,14 @@
       "onboard_time": 1694042908,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97960,
+      "num": 411323,
+      "word": "许海峰说冠军是玩出来的",
+      "onboard_time": 1695783211,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 97543,
@@ -67137,14 +67209,6 @@
       "onboard_time": 1695164966,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77455,
-      "num": 400571,
-      "word": "许海峰说冠军是玩出来的",
-      "onboard_time": 1695783211,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 77362,
@@ -68883,6 +68947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43333,
+      "num": 424719,
+      "word": "是谁复活了尼山的璀璨文明",
+      "onboard_time": 1695783637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43267,
       "num": 1148953,
       "word": "一带一路全球行",
@@ -70425,14 +70497,6 @@
       "onboard_time": 1694249493,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20381,
-      "num": 402249,
-      "word": "是谁复活了尼山的璀璨文明",
-      "onboard_time": 1695783637,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20041,
