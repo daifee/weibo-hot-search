@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695814438460,
+  "endTime": 1695818029080,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -5387,6 +5387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1339144,
+      "num": 1339144,
+      "word": "日本阳光玫瑰价格大跌",
+      "onboard_time": 1695813272,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1338195,
       "num": 1338195,
       "word": "中国女排1比3多米尼加女排",
@@ -8689,6 +8697,14 @@
       "onboard_time": 1695729940,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 946541,
+      "num": 946541,
+      "word": "古有替父从军 今有替父追星",
+      "onboard_time": 1695816451,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 946251,
@@ -12337,6 +12353,14 @@
       "onboard_time": 1694231732,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 742938,
+      "num": 742938,
+      "word": "张雨霏100蝶冠军",
+      "onboard_time": 1695815434,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 742868,
@@ -16075,6 +16099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616307,
+      "num": 616307,
+      "word": "男子出差前为妻女做2大锅火锅备餐",
+      "onboard_time": 1695815252,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616023,
       "num": 398912,
       "word": "萧敬腾 求雨",
@@ -16929,6 +16961,14 @@
       "onboard_time": 1695348515,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595601,
+      "num": 595601,
+      "word": "导演说刘诗诗演出了3分真7分假",
+      "onboard_time": 1695813932,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 595127,
@@ -23369,6 +23409,14 @@
       "onboard_time": 1694162556,
       "rank": 8,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 459777,
+      "num": 406595,
+      "word": "男足 梦幻开局",
+      "onboard_time": 1695816871,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 459746,
@@ -29897,14 +29945,6 @@
       "onboard_time": 1694145699,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357379,
-      "num": 357379,
-      "word": "日本阳光玫瑰价格大跌",
-      "onboard_time": 1695813272,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357268,
@@ -36539,6 +36579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289247,
+      "num": 214764,
+      "word": "女儿用父亲600块买的整只牛头做火锅",
+      "onboard_time": 1695817412,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289218,
       "num": 289218,
       "word": "不然哭了",
@@ -36993,6 +37041,14 @@
       "onboard_time": 1694049455,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285700,
+      "num": 285700,
+      "word": "女子称质疑公司发假月饼后被解雇",
+      "onboard_time": 1695812913,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285618,
@@ -39059,14 +39115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268662,
-      "num": 268662,
-      "word": "女子称质疑公司发假月饼后被解雇",
-      "onboard_time": 1695812913,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268616,
       "num": 268616,
       "word": "蜂花会成为下一个鸿星尔克吗",
@@ -39609,6 +39657,14 @@
       "onboard_time": 1695798877,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264510,
+      "num": 264510,
+      "word": "国足亚运队vs卡塔尔首发",
+      "onboard_time": 1695815134,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 264469,
@@ -40617,6 +40673,14 @@
       "onboard_time": 1695811895,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257963,
+      "num": 257963,
+      "word": "新人租公交车当婚车低碳结婚",
+      "onboard_time": 1695817291,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257962,
@@ -41721,14 +41785,6 @@
       "onboard_time": 1695292234,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248316,
-      "num": 248316,
-      "word": "导演说刘诗诗演出了3分真7分假",
-      "onboard_time": 1695813932,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 248286,
@@ -45571,6 +45627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223232,
+      "num": 223232,
+      "word": "中国女篮亚运会首战",
+      "onboard_time": 1695817593,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223202,
       "num": 223202,
       "word": "南风知我意十指相扣好欲",
@@ -46747,6 +46811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216917,
+      "num": 216917,
+      "word": "揭秘杭州亚运数字火炬手原型",
+      "onboard_time": 1695817651,
+      "rank": 28,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 216760,
       "num": 216760,
       "word": "颠覆三观的儿童零食冷知识",
@@ -46769,6 +46841,14 @@
       "onboard_time": 1695175357,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216603,
+      "num": 216603,
+      "word": "亚运会中国队手里的保温杯",
+      "onboard_time": 1695817053,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 216508,
@@ -47993,6 +48073,14 @@
       "onboard_time": 1694575179,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209950,
+      "num": 209950,
+      "word": "锈湖",
+      "onboard_time": 1695815853,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 209901,
@@ -52841,6 +52929,14 @@
       "onboard_time": 1693839457,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192820,
+      "num": 192820,
+      "word": "Loopy和街头女战士们的舞蹈挑战",
+      "onboard_time": 1695815554,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 192797,
@@ -61251,6 +61347,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 153019,
+      "num": 153019,
+      "word": "张雨霏一破再破",
+      "onboard_time": 1695816451,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153014,
       "num": 153014,
       "word": "张小斐在都市剧里渡劫",
@@ -62929,6 +63033,14 @@
       "onboard_time": 1694068834,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142985,
+      "num": 142985,
+      "word": "分手后男生发给我的所有账单",
+      "onboard_time": 1695817832,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 142984,
@@ -68707,6 +68819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 72123,
+      "num": 249462,
+      "word": "巴黎经典秀场",
+      "onboard_time": 1695816451,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 72077,
       "num": 2436330,
       "word": "杭州亚运会颁奖物资背后满是祝福",
@@ -70027,6 +70147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 46147,
+      "num": 394754,
+      "word": "英雄联盟高光时刻盘点",
+      "onboard_time": 1695813812,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 45461,
       "num": 260214,
       "word": "这么多年终于有了人生第一套房",
@@ -71025,6 +71153,14 @@
       "onboard_time": 1694973200,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30568,
+      "num": 149796,
+      "word": "美团跑腿跑到广寒宫了",
+      "onboard_time": 1695816031,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 30520,

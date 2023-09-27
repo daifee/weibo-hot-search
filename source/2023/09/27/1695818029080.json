@@ -1,0 +1,410 @@
+{
+  "runTime": 1695818029080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607303,
+        "num": 1607303,
+        "word": "顺丰错转周杰伦演唱会门票致过期",
+        "onboard_time": 1695810215,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 1339144,
+        "num": 1339144,
+        "word": "日本阳光玫瑰价格大跌",
+        "onboard_time": 1695813272,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4055,
+        "num": 978510,
+        "word": "亚运赛场上这些00后真棒",
+        "onboard_time": 1695786034,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946541,
+        "num": 946541,
+        "word": "古有替父从军 今有替父追星",
+        "onboard_time": 1695816451,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 742938,
+        "num": 742938,
+        "word": "张雨霏100蝶冠军",
+        "onboard_time": 1695815434,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616307,
+        "num": 616307,
+        "word": "男子出差前为妻女做2大锅火锅备餐",
+        "onboard_time": 1695815252,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607096,
+        "num": 607096,
+        "word": "papi酱 步入中年的前奏",
+        "onboard_time": 1695811412,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 595601,
+        "num": 595601,
+        "word": "导演说刘诗诗演出了3分真7分假",
+        "onboard_time": 1695813932,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 512735,
+        "num": 512735,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407831,
+        "num": 407831,
+        "word": "华为上架1999元手机壳",
+        "onboard_time": 1695803074,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 459777,
+        "num": 406595,
+        "word": "男足 梦幻开局",
+        "onboard_time": 1695816871,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440018,
+        "num": 401842,
+        "word": "吴昕是穿了睡裤去巴黎吗",
+        "onboard_time": 1695799716,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 312615,
+        "num": 401074,
+        "word": "朝鲜决定驱逐非法入境美士兵",
+        "onboard_time": 1695812492,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 234853,
+        "num": 396282,
+        "word": "大熊猫祖传躲雨姿势",
+        "onboard_time": 1695812132,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 46147,
+        "num": 394754,
+        "word": "英雄联盟高光时刻盘点",
+        "onboard_time": 1695813812,
+        "rank": 14,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 43678,
+        "num": 390014,
+        "word": "网络中国节",
+        "onboard_time": 1695803793,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388671,
+        "num": 388671,
+        "word": "为什么劝留学生出国要带筷子",
+        "onboard_time": 1695811772,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311909,
+        "num": 311909,
+        "word": "offer5 8点下班的工作没人做",
+        "onboard_time": 1695805115,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285700,
+        "num": 285700,
+        "word": "女子称质疑公司发假月饼后被解雇",
+        "onboard_time": 1695812913,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120919,
+        "num": 264826,
+        "word": "从羞于说父亲是兽医到为父亲拍视频",
+        "onboard_time": 1695798277,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264510,
+        "num": 264510,
+        "word": "国足亚运队vs卡塔尔首发",
+        "onboard_time": 1695815134,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257963,
+        "num": 257963,
+        "word": "新人租公交车当婚车低碳结婚",
+        "onboard_time": 1695817291,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72123,
+        "num": 249462,
+        "word": "巴黎经典秀场",
+        "onboard_time": 1695816451,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 247408,
+        "num": 247408,
+        "word": "CoCo奶茶道歉",
+        "onboard_time": 1695797435,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 232245,
+        "num": 232245,
+        "word": "五个习惯可能导致腹部长赘肉",
+        "onboard_time": 1695809551,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 230274,
+        "num": 230274,
+        "word": "周杰伦上海 二次抢票",
+        "onboard_time": 1695809191,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226701,
+        "num": 226701,
+        "word": "好事成双",
+        "onboard_time": 1695816573,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223232,
+        "num": 223232,
+        "word": "中国女篮亚运会首战",
+        "onboard_time": 1695817593,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216917,
+        "num": 216917,
+        "word": "揭秘杭州亚运数字火炬手原型",
+        "onboard_time": 1695817651,
+        "rank": 28,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 216603,
+        "num": 216603,
+        "word": "亚运会中国队手里的保温杯",
+        "onboard_time": 1695817053,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289247,
+        "num": 214764,
+        "word": "女儿用父亲600块买的整只牛头做火锅",
+        "onboard_time": 1695817412,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209950,
+        "num": 209950,
+        "word": "锈湖",
+        "onboard_time": 1695815853,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203095,
+        "num": 203095,
+        "word": "郭晶晶霍启刚太好磕了",
+        "onboard_time": 1695803616,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192820,
+        "num": 192820,
+        "word": "Loopy和街头女战士们的舞蹈挑战",
+        "onboard_time": 1695815554,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180789,
+        "num": 180789,
+        "word": "迪丽热巴法国明信片",
+        "onboard_time": 1695811590,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 163978,
+        "num": 163978,
+        "word": "王楚钦孙颖莎混双开门红",
+        "onboard_time": 1695810032,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155950,
+        "num": 155950,
+        "word": "恋综史上最令人窒息男嘉宾",
+        "onboard_time": 1695790420,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153019,
+        "num": 153019,
+        "word": "张雨霏一破再破",
+        "onboard_time": 1695816451,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150331,
+        "num": 150331,
+        "word": "黄景瑜用肩膀为张婧仪挡烫水",
+        "onboard_time": 1695811895,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30568,
+        "num": 149796,
+        "word": "美团跑腿跑到广寒宫了",
+        "onboard_time": 1695816031,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149447,
+        "num": 149447,
+        "word": "花西子 公关",
+        "onboard_time": 1695795101,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142985,
+        "num": 142985,
+        "word": "分手后男生发给我的所有账单",
+        "onboard_time": 1695817832,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140899,
+        "num": 140899,
+        "word": "张嘉倪演江喜暴瘦",
+        "onboard_time": 1695800376,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 140146,
+        "word": "无根门没了",
+        "onboard_time": 1695807033,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132618,
+        "num": 132618,
+        "word": "刘亦菲阿布扎比旅拍",
+        "onboard_time": 1695808113,
+        "rank": 44,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 130526,
+        "num": 130526,
+        "word": "五月天谁抢到了 我要闹了",
+        "onboard_time": 1695798037,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126612,
+        "num": 126612,
+        "word": "王鹤棣丝绸电影节路透",
+        "onboard_time": 1695810572,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118817,
+        "num": 118817,
+        "word": "现实中叫网名有多社死",
+        "onboard_time": 1695812194,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118381,
+        "num": 118381,
+        "word": "刘德华回应为什么很少演反派",
+        "onboard_time": 1695812252,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117342,
+        "num": 117342,
+        "word": "郑爽上诉被驳回",
+        "onboard_time": 1695795275,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国自贸区已从试验田建成高产田#"
+    }
+  }
+}

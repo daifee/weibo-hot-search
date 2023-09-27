@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695814438460,
+  "endTime": 1695818029080,
   "band_list": [
     {
       "raw_hot": 3125145,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1339144,
+      "num": 1339144,
+      "word": "日本阳光玫瑰价格大跌",
+      "onboard_time": 1695813272,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1326101,
       "num": 1326101,
       "word": "CoCo道歉",
@@ -273,6 +281,14 @@
       "onboard_time": 1695802055,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946541,
+      "num": 946541,
+      "word": "古有替父从军 今有替父追星",
+      "onboard_time": 1695816451,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 927192,
@@ -399,6 +415,14 @@
       "num": 751879,
       "word": "韩国球员为输球后拒绝握手道歉",
       "onboard_time": 1695776077,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 742938,
+      "num": 742938,
+      "word": "张雨霏100蝶冠军",
+      "onboard_time": 1695815434,
       "rank": 4,
       "category": "体育"
     },
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616307,
+      "num": 616307,
+      "word": "男子出差前为妻女做2大锅火锅备餐",
+      "onboard_time": 1695815252,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615865,
       "num": 454211,
       "word": "秦霄贤表白周扬青自己先脸红",
@@ -577,6 +609,14 @@
       "onboard_time": 1695795275,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595601,
+      "num": 595601,
+      "word": "导演说刘诗诗演出了3分真7分假",
+      "onboard_time": 1695813932,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 594328,
@@ -779,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459777,
+      "num": 406595,
+      "word": "男足 梦幻开局",
+      "onboard_time": 1695816871,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457287,
       "num": 366245,
       "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
@@ -936,14 +984,6 @@
       "word": "女子脚被钉子扎伤医生用蚂蟥吸锈毒",
       "onboard_time": 1695809371,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357379,
-      "num": 357379,
-      "word": "日本阳光玫瑰价格大跌",
-      "onboard_time": 1695813272,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1115,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289247,
+      "num": 214764,
+      "word": "女儿用父亲600块买的整只牛头做火锅",
+      "onboard_time": 1695817412,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289068,
       "num": 289068,
       "word": "丞磊深V",
@@ -1137,6 +1185,14 @@
       "onboard_time": 1695773798,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285700,
+      "num": 285700,
+      "word": "女子称质疑公司发假月饼后被解雇",
+      "onboard_time": 1695812913,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284394,
@@ -1171,14 +1227,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 268662,
-      "num": 268662,
-      "word": "女子称质疑公司发假月饼后被解雇",
-      "onboard_time": 1695812913,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264841,
       "num": 264841,
       "word": "消防员买奶茶店员悄悄藏起收款码",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1695798877,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264510,
+      "num": 264510,
+      "word": "国足亚运队vs卡塔尔首发",
+      "onboard_time": 1695815134,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 262976,
@@ -1259,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257963,
+      "num": 257963,
+      "word": "新人租公交车当婚车低碳结婚",
+      "onboard_time": 1695817291,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256467,
       "num": 256467,
       "word": "李健巡回演唱会官宣",
@@ -1281,14 +1345,6 @@
       "onboard_time": 1695786875,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 248316,
-      "num": 248316,
-      "word": "导演说刘诗诗演出了3分真7分假",
-      "onboard_time": 1695813932,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 245984,
@@ -1379,12 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226701,
+      "num": 226701,
+      "word": "好事成双",
+      "onboard_time": 1695816573,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224359,
       "num": 224359,
       "word": "刘德华回应为什么很少演反派",
       "onboard_time": 1695812252,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223232,
+      "num": 223232,
+      "word": "中国女篮亚运会首战",
+      "onboard_time": 1695817593,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 221780,
@@ -1443,6 +1515,22 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 216917,
+      "num": 216917,
+      "word": "揭秘杭州亚运数字火炬手原型",
+      "onboard_time": 1695817651,
+      "rank": 28,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 216603,
+      "num": 216603,
+      "word": "亚运会中国队手里的保温杯",
+      "onboard_time": 1695817053,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216447,
       "num": 216447,
       "word": "朴彩英亮相巴黎时装周",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1695783992,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209950,
+      "num": 209950,
+      "word": "锈湖",
+      "onboard_time": 1695815853,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 209901,
@@ -1689,6 +1785,14 @@
       "onboard_time": 1695799475,
       "rank": 45,
       "category": "美食,体育"
+    },
+    {
+      "raw_hot": 192820,
+      "num": 192820,
+      "word": "Loopy和街头女战士们的舞蹈挑战",
+      "onboard_time": 1695815554,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 192055,
@@ -2075,6 +2179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153019,
+      "num": 153019,
+      "word": "张雨霏一破再破",
+      "onboard_time": 1695816451,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152112,
       "num": 152112,
       "word": "翟志刚首次太空漫步差点回不来",
@@ -2129,6 +2241,14 @@
       "onboard_time": 1695796299,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142985,
+      "num": 142985,
+      "word": "分手后男生发给我的所有账单",
+      "onboard_time": 1695817832,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 142099,
@@ -2435,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72123,
+      "num": 249462,
+      "word": "巴黎经典秀场",
+      "onboard_time": 1695816451,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 71617,
       "num": 532136,
       "word": "微博音乐盛典原生大片",
@@ -2555,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46147,
+      "num": 394754,
+      "word": "英雄联盟高光时刻盘点",
+      "onboard_time": 1695813812,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 43333,
       "num": 424719,
       "word": "是谁复活了尼山的璀璨文明",
@@ -2577,6 +2713,14 @@
       "onboard_time": 1695785791,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30568,
+      "num": 149796,
+      "word": "美团跑腿跑到广寒宫了",
+      "onboard_time": 1695816031,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 30509,
