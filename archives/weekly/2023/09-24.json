@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695831749283,
+  "endTime": 1695832691396,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1336220,
+      "num": 1336220,
+      "word": "同居生子分手女子起诉每月给1元抚养费",
+      "onboard_time": 1695828935,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334032,
       "num": 1334032,
       "word": "RAIN被诉涉嫌85亿房产诈骗",
@@ -817,14 +825,6 @@
       "onboard_time": 1695544834,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1187078,
-      "num": 1187078,
-      "word": "同居生子分手女子起诉每月给1元抚养费",
-      "onboard_time": 1695828935,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1182814,
@@ -2883,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553572,
+      "num": 306767,
+      "word": "卡塔尔球员围攻裁判",
+      "onboard_time": 1695828517,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552335,
       "num": 552335,
       "word": "权志龙疑签约华纳唱片",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1695614134,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501925,
-      "num": 306767,
-      "word": "卡塔尔球员围攻裁判",
-      "onboard_time": 1695828517,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 501334,
@@ -7403,6 +7403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215262,
+      "num": 167376,
+      "word": "G社拍的金智秀朴彩英",
+      "onboard_time": 1695830373,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 215221,
       "num": 215221,
       "word": "这届年轻人在看一种很新的川剧",
@@ -8073,14 +8081,6 @@
       "onboard_time": 1695642814,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200972,
-      "num": 167376,
-      "word": "G社拍的金智秀朴彩英",
-      "onboard_time": 1695830373,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 200577,
@@ -11883,20 +11883,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 63456,
+      "num": 299043,
+      "word": "萌娃被困3楼外平台民警翻窗救下",
+      "onboard_time": 1695830135,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63087,
       "num": 399632,
       "word": "原神4.1版本更新 那维莱特",
       "onboard_time": 1695790840,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 62725,
-      "num": 299043,
-      "word": "萌娃被困3楼外平台民警翻窗救下",
-      "onboard_time": 1695830135,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62687,
