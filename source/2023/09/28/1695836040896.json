@@ -1,0 +1,410 @@
+{
+  "runTime": 1695836040896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 728670,
+        "num": 728670,
+        "word": "同居生子分手女子起诉每月给1元抚养费",
+        "onboard_time": 1695828935,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594367,
+        "num": 594367,
+        "word": "多家医院关闭产科",
+        "onboard_time": 1695826837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17210,
+        "num": 336403,
+        "word": "中国造列车获土耳其总统点赞",
+        "onboard_time": 1695820474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236612,
+        "num": 236612,
+        "word": "卡塔尔球员围攻裁判",
+        "onboard_time": 1695828517,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218308,
+        "num": 218308,
+        "word": "母亲去世女子想推迟结婚被判退彩礼",
+        "onboard_time": 1695823538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149183,
+        "num": 149183,
+        "word": "黄凯连续五年考研上岸清华",
+        "onboard_time": 1695820898,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143467,
+        "num": 143467,
+        "word": "张小斐首部主演电视剧收视率破2",
+        "onboard_time": 1695828040,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134557,
+        "num": 134557,
+        "word": "姚明急得拍大腿",
+        "onboard_time": 1695828395,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108044,
+        "num": 129652,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111967,
+        "num": 111967,
+        "word": "虞书欣 饿晕噜",
+        "onboard_time": 1695826236,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294838,
+        "num": 111537,
+        "word": "张嘉倪和素人合照",
+        "onboard_time": 1695826477,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110571,
+        "num": 110571,
+        "word": "坚如磐石首映礼好多人啊",
+        "onboard_time": 1695826962,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104075,
+        "num": 104075,
+        "word": "徐嘉余 51.91",
+        "onboard_time": 1695821199,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69144,
+        "num": 101438,
+        "word": "大熊猫祖传躲雨姿势",
+        "onboard_time": 1695812132,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 42728,
+        "num": 101287,
+        "word": "萌娃被困3楼外平台民警翻窗救下",
+        "onboard_time": 1695830135,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101214,
+        "num": 101214,
+        "word": "白鹿喻言同场看秀",
+        "onboard_time": 1695827319,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95650,
+        "num": 95650,
+        "word": "出轨男卫明提离婚独吞家产",
+        "onboard_time": 1695827377,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95033,
+        "num": 95033,
+        "word": "女儿用父亲600块买的整只牛头做火锅",
+        "onboard_time": 1695817412,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91884,
+        "num": 91884,
+        "word": "YG新女团成员的Smoke舞蹈",
+        "onboard_time": 1695821321,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85138,
+        "num": 85138,
+        "word": "邓紫棋 巡演",
+        "onboard_time": 1695826962,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148692,
+        "num": 84930,
+        "word": "明天下午发的朋友圈",
+        "onboard_time": 1695824619,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109592,
+        "num": 84843,
+        "word": "G社拍的金智秀朴彩英",
+        "onboard_time": 1695830373,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 84182,
+        "num": 84182,
+        "word": "娜扎水原希子合照",
+        "onboard_time": 1695825578,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82511,
+        "num": 83160,
+        "word": "权志龙疑签约华纳唱片",
+        "onboard_time": 1695825939,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82673,
+        "num": 82673,
+        "word": "五个习惯可能导致腹部长赘肉",
+        "onboard_time": 1695809551,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 79742,
+        "num": 79742,
+        "word": "宁波一医院产科关闭",
+        "onboard_time": 1695833487,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75048,
+        "num": 75048,
+        "word": "好事成双",
+        "onboard_time": 1695816573,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71045,
+        "num": 71045,
+        "word": "CS2",
+        "onboard_time": 1695834683,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71007,
+        "num": 71007,
+        "word": "这是我认识的国足吗",
+        "onboard_time": 1695829415,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69924,
+        "num": 69924,
+        "word": "原神三周年",
+        "onboard_time": 1695833366,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266329,
+        "num": 69604,
+        "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+        "onboard_time": 1695819333,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65498,
+        "num": 65498,
+        "word": "谢兴阳 头一次当上男主了",
+        "onboard_time": 1695820053,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65228,
+        "num": 65228,
+        "word": "分手后男生发给我的所有账单",
+        "onboard_time": 1695817832,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64838,
+        "num": 64838,
+        "word": "胡彦斌什么都敢问",
+        "onboard_time": 1695828695,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62292,
+        "num": 62292,
+        "word": "导演说刘诗诗演出了3分真7分假",
+        "onboard_time": 1695813932,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62254,
+        "num": 62254,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61325,
+        "num": 61325,
+        "word": "封神训练营主持人是吴昕",
+        "onboard_time": 1695818432,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60047,
+        "num": 60047,
+        "word": "陈乔恩晒老公视角美照",
+        "onboard_time": 1695828096,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59048,
+        "num": 59048,
+        "word": "古有替父从军 今有替父追星",
+        "onboard_time": 1695816451,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56974,
+        "num": 56974,
+        "word": "顺丰错转周杰伦演唱会门票致过期",
+        "onboard_time": 1695810215,
+        "rank": 39,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 54697,
+        "num": 54697,
+        "word": "张艺兴张鲁一同框",
+        "onboard_time": 1695827196,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53821,
+        "num": 53821,
+        "word": "婆婆1天走丢3次民警熟练送回",
+        "onboard_time": 1695828456,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52957,
+        "num": 52957,
+        "word": "外国小哥演我遇到迪丽热巴",
+        "onboard_time": 1695819274,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52772,
+        "num": 52772,
+        "word": "王鹤棣后台狂炫小零食",
+        "onboard_time": 1695828517,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52545,
+        "num": 52545,
+        "word": "王嘉尔创造营亚洲泰国季发起人",
+        "onboard_time": 1695823118,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51725,
+        "num": 51725,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1695820173,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49736,
+        "num": 49736,
+        "word": "华为上架1999元手机壳",
+        "onboard_time": 1695803074,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46514,
+        "num": 49589,
+        "word": "河南一小区连续10年举办百家宴",
+        "onboard_time": 1695829115,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43939,
+        "num": 49301,
+        "word": "大一新生特征这么明显吗",
+        "onboard_time": 1695823538,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34439,
+        "num": 49117,
+        "word": "中国队4天已收获140枚奖牌",
+        "onboard_time": 1695826118,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

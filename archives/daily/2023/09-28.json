@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695834955536,
+  "endTime": 1695836040896,
   "band_list": [
     {
       "raw_hot": 2089727,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71045,
+      "num": 71045,
+      "word": "CS2",
+      "onboard_time": 1695834683,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69216,
       "num": 69216,
       "word": "古有替父从军 今有替父追星",
@@ -441,14 +449,6 @@
       "onboard_time": 1695830135,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47362,
-      "num": 56064,
-      "word": "CS2",
-      "onboard_time": 1695834683,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 33793,

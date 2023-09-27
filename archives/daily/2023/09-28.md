@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 01:15:55
+本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 01:34:00
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23CS2%23" target="weibo">
+CS2（热度：71045）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%9C%89%E6%9B%BF%E7%88%B6%E4%BB%8E%E5%86%9B%20%E4%BB%8A%E6%9C%89%E6%9B%BF%E7%88%B6%E8%BF%BD%E6%98%9F%23" target="weibo">
 古有替父从军 今有替父追星（热度：69216）
 </a>
@@ -341,12 +347,6 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E8%A2%AB%E5%9B%B03%E6%A5%BC%E5%A4%96%E5%B9%B3%E5%8F%B0%E6%B0%91%E8%AD%A6%E7%BF%BB%E7%AA%97%E6%95%91%E4%B8%8B%23" target="weibo">
 萌娃被困3楼外平台民警翻窗救下（热度：63456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23CS2%23" target="weibo">
-CS2（热度：47362）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695834955536,
+  "endTime": 1695836040896,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -69539,6 +69539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71045,
+      "num": 71045,
+      "word": "CS2",
+      "onboard_time": 1695834683,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71027,
       "num": 174491,
       "word": "成都地铁早高峰换乘小技巧",
@@ -70737,14 +70745,6 @@
       "onboard_time": 1694250095,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47362,
-      "num": 56064,
-      "word": "CS2",
-      "onboard_time": 1695834683,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 47232,
