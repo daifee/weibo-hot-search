@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 12:34:02
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 13:15:58
 </p>
 </blockquote>
 <p>
@@ -717,6 +717,12 @@ jjxx 歹毒（热度：2999775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E5%8F%91%E6%96%87%E6%89%B9%E8%AF%84%E6%BC%94%E5%94%B1%E4%BC%9A%E6%89%8B%E6%9C%BA%E6%B5%B7%23" target="weibo">
+吴青峰发文批评演唱会手机海（热度：2778699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BB%8D%E6%9C%89%E5%8D%83%E4%B8%87%E8%A7%82%E7%9C%8B%23" target="weibo">
 李佳琦直播间仍有千万观看（热度：2773051）
 </a>
@@ -903,12 +909,6 @@ iPhone15取消静音拨片（热度：2651422）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E5%8F%91%E6%96%87%E6%89%B9%E8%AF%84%E6%BC%94%E5%94%B1%E4%BC%9A%E6%89%8B%E6%9C%BA%E6%B5%B7%23" target="weibo">
-吴青峰发文批评演唱会手机海（热度：2645181）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%85%92%E5%90%8E%E6%AC%B2%E5%BC%BA%E6%9A%B4%E5%A5%B3%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%AE%BE%E9%A6%86%E8%80%81%E6%9D%BF%E5%88%B6%E6%AD%A2%23" target="weibo">
 大学生酒后欲强暴女同学被宾馆老板制止（热度：2643469）
 </a>
@@ -953,6 +953,12 @@ iPhone15取消静音拨片（热度：2651422）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%B7%B2%E6%94%B6%E5%88%B0%E7%A7%80%E6%89%8D%E4%B8%BE%E6%8A%A5%E6%9D%90%E6%96%99%23" target="weibo">
 税务局已收到秀才举报材料（热度：2588897）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86%23" target="weibo">
+沈梦辰 我不行我婚嫁了（热度：2585614）
 </a>
 </li>
 
@@ -1217,6 +1223,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3%23" target="weibo">
 上官浅故意不穿里衣（热度：2355008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%94%9F%E9%99%8D%E8%96%AA%23" target="weibo">
+多地医生降薪（热度：2351094）
 </a>
 </li>
 
@@ -5289,6 +5301,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%AA%92%E6%81%AF%E7%94%B7%E5%98%89%E5%AE%BE%23" target="weibo">
+恋综史上最令人窒息男嘉宾（热度：1089111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 王楚钦（热度：1087518）
 </a>
@@ -5993,24 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80NewJeans%E8%B7%B3%E4%BA%86supershy%23" target="weibo">
 林一NewJeans跳了supershy（热度：989861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%20%E4%B8%8D%E6%8F%90%E6%89%8B%E6%9C%BA%23" target="weibo">
-华为发布会 不提手机（热度：989419）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E6%8C%89%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E5%90%91%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%94%AF%E4%BB%98IP%E8%B4%B9%23" target="weibo">
-奈雪按销售情况向周杰伦支付IP费（热度：989241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E7%9C%8B%E5%88%B0%E8%82%96%E6%88%98%E5%9C%A8%E7%BA%A2%E6%AF%AF%E4%B8%8A%E8%BF%99%E4%B9%88%E6%8B%98%E8%B0%A8%23" target="weibo">
-很难看到肖战在红毯上这么拘谨（热度：987342）
 </a>
 </li>
 
