@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695777130076,
+  "endTime": 1695778359596,
   "band_list": [
     {
       "raw_hot": 2033790,
@@ -27,6 +27,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1635293,
+      "num": 1635293,
+      "word": "幼师吃完席拆现场装饰拉回幼儿园",
+      "onboard_time": 1695772777,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1634923,
+      "num": 1634923,
+      "word": "上海成功申办奥运会资格系列赛",
+      "onboard_time": 1695770550,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1487786,
       "num": 876664,
       "word": "花西子发疯",
@@ -43,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1266403,
+      "num": 1266403,
+      "word": "空气炸锅为什么不火了",
+      "onboard_time": 1695776439,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1209605,
       "num": 1209605,
       "word": "猫和老鼠中女主人露过一次脸",
@@ -57,6 +81,14 @@
       "onboard_time": 1695740082,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 958680,
+      "num": 481900,
+      "word": "董宇辉回应周杰伦演唱会门票来源",
+      "onboard_time": 1695776439,
+      "rank": 11,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 891025,
@@ -83,6 +115,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 801767,
+      "num": 412342,
+      "word": "为什么男生的屁股翘",
+      "onboard_time": 1695772535,
+      "rank": 20,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 751879,
+      "num": 751879,
+      "word": "韩国球员为输球后拒绝握手道歉",
+      "onboard_time": 1695776077,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 665513,
       "num": 665513,
       "word": "张杰谢娜丝婚照",
@@ -97,6 +145,14 @@
       "onboard_time": 1695724599,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 631850,
+      "num": 447988,
+      "word": "黄晓明微信名叫黄晓明",
+      "onboard_time": 1695773979,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 619015,
@@ -123,6 +179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 594328,
+      "num": 594328,
+      "word": "弟弟觉得夜色尚浅公开了",
+      "onboard_time": 1695770968,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 576093,
       "num": 887470,
       "word": "卫明出轨再添实锤",
@@ -131,20 +195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 505813,
+      "num": 505813,
+      "word": "幼年版刘嘉玲和梁朝伟",
+      "onboard_time": 1695772236,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 491888,
+      "num": 491888,
+      "word": "英雄联盟S13主题曲",
+      "onboard_time": 1695774939,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 489772,
       "num": 489772,
       "word": "邓为提跨式走路",
       "onboard_time": 1695743677,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474379,
-      "num": 142950,
-      "word": "上海成功申办奥运会资格系列赛",
-      "onboard_time": 1695770550,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 468788,
@@ -185,6 +257,14 @@
       "onboard_time": 1695742838,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396907,
+      "num": 396907,
+      "word": "警方通报女子被住建局保安踩脚下",
+      "onboard_time": 1695774579,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360281,
@@ -228,7 +308,7 @@
     },
     {
       "raw_hot": 303388,
-      "num": 179192,
+      "num": 231671,
       "word": "原来熬夜前后的心脏差别这么大",
       "onboard_time": 1695745711,
       "rank": 33,
@@ -243,12 +323,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299641,
+      "num": 299641,
+      "word": "Angelababy出发巴黎造型",
+      "onboard_time": 1695775119,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 290347,
+      "num": 290347,
+      "word": "张智霖袁咏仪儿子ins道歉",
+      "onboard_time": 1695778238,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288696,
+      "num": 288696,
+      "word": "徐嘉余 感谢我顺",
+      "onboard_time": 1695776857,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286089,
+      "num": 286089,
+      "word": "终于知道为什么中秋要送大闸蟹",
+      "onboard_time": 1695773798,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281728,
       "num": 281728,
       "word": "情侣租房跑路留满床血渍遍地垃圾",
       "onboard_time": 1695730845,
       "rank": 26,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 266847,
+      "num": 266847,
+      "word": "花花不久就能和大家见面啦",
+      "onboard_time": 1695777636,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262644,
+      "num": 464543,
+      "word": "丘索维金娜48岁站上赛场的原因",
+      "onboard_time": 1695775237,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 261983,
@@ -259,6 +387,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 233838,
+      "num": 456097,
+      "word": "樊振东赛后和教练队友击掌太可爱",
+      "onboard_time": 1695775119,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227199,
       "num": 227199,
       "word": "马龙说应该是最后一届亚运了",
@@ -267,12 +403,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220797,
+      "num": 220797,
+      "word": "原神",
+      "onboard_time": 1695772174,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 215529,
+      "num": 215529,
+      "word": "奇迹暖暖 回档",
+      "onboard_time": 1695777818,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 215425,
+      "num": 215425,
+      "word": "iPhone15Pro过热或是散热问题",
+      "onboard_time": 1695777873,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209319,
       "num": 209319,
       "word": "周深 握不完根本握不完",
       "onboard_time": 1695731499,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204996,
+      "num": 204996,
+      "word": "英雄联盟项目",
+      "onboard_time": 1695777993,
+      "rank": 35,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 202336,
+      "num": 202336,
+      "word": "阴阳师 开门",
+      "onboard_time": 1695777516,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 201787,
@@ -289,6 +465,22 @@
       "onboard_time": 1695743976,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192026,
+      "num": 192026,
+      "word": "iPhone15ProMax影像分数排第二",
+      "onboard_time": 1695771874,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 191325,
+      "num": 191325,
+      "word": "解说柯基被永劫无间官方处罚",
+      "onboard_time": 1695772898,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 189644,
@@ -315,6 +507,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 185196,
+      "num": 185196,
+      "word": "张凌赫张婧仪背影同框",
+      "onboard_time": 1695778115,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182783,
       "num": 182783,
       "word": "张婧仪生图",
@@ -323,12 +523,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181638,
+      "num": 177152,
+      "word": "赵今麦闪钻镂空礼服",
+      "onboard_time": 1695774638,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181533,
       "num": 869372,
       "word": "中国队4×100米混接力金牌",
       "onboard_time": 1695736724,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177275,
+      "num": 177275,
+      "word": "曾黎白色褶皱旗袍",
+      "onboard_time": 1695775838,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 177025,
+      "num": 177025,
+      "word": "被大熊猫的小龙女睡姿惊呆了",
+      "onboard_time": 1695778173,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176668,
@@ -345,6 +569,38 @@
       "onboard_time": 1695769646,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173134,
+      "num": 173134,
+      "word": "90后女博士为讲好课和学生聊MBTI",
+      "onboard_time": 1695775780,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 172243,
+      "num": 172243,
+      "word": "夭柳现代跨越时空重遇",
+      "onboard_time": 1695777575,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171071,
+      "num": 171071,
+      "word": "韩媒直播闯进四个显眼包",
+      "onboard_time": 1695771753,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166154,
+      "num": 166154,
+      "word": "黄子诚监听女友和前任",
+      "onboard_time": 1695775539,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 156479,
@@ -395,20 +651,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154189,
+      "num": 154189,
+      "word": "江西建工通报一领导要取消周末",
+      "onboard_time": 1695778003,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152112,
+      "num": 152112,
+      "word": "翟志刚首次太空漫步差点回不来",
+      "onboard_time": 1695777274,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 151996,
       "num": 151996,
       "word": "为什么老一辈人都说圆脸有福气",
       "onboard_time": 1695769947,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149654,
-      "num": 149654,
-      "word": "弟弟觉得夜色尚浅公开了",
-      "onboard_time": 1695770968,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 146271,
@@ -644,7 +908,7 @@
     },
     {
       "raw_hot": 47077,
-      "num": 1070021,
+      "num": 1426005,
       "word": "亚运赛场闪闪发光的中国00后",
       "onboard_time": 1695735583,
       "rank": 2,
