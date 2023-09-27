@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695782061163,
+  "endTime": 1695784670971,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -193,6 +193,14 @@
       "onboard_time": 1695641793,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2278333,
+      "num": 2278333,
+      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+      "onboard_time": 1695778715,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2164362,
@@ -1339,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 783430,
+      "num": 783430,
+      "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
+      "onboard_time": 1695781532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783389,
       "num": 783389,
       "word": "研招网",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1695700054,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 775492,
-      "num": 775492,
-      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
-      "onboard_time": 1695778715,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 775326,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1695709836,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732751,
+      "num": 367115,
+      "word": "娜扎外网生图",
+      "onboard_time": 1695784173,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 726754,
@@ -1761,6 +1777,14 @@
       "onboard_time": 1695728375,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 682095,
+      "num": 401723,
+      "word": "Angelababy养的阿黄",
+      "onboard_time": 1695778833,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 680975,
@@ -2083,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 603650,
+      "num": 603650,
+      "word": "胡彦斌问孙怡Melody被求婚的经历",
+      "onboard_time": 1695782131,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603356,
       "num": 603356,
       "word": "我没票但不妨碍我来听演唱会",
@@ -2169,6 +2201,14 @@
       "onboard_time": 1695645814,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 584144,
+      "num": 584144,
+      "word": "迪丽热巴王俊凯金智秀G社生图",
+      "onboard_time": 1695782131,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 583933,
@@ -2681,6 +2721,14 @@
       "onboard_time": 1695513025,
       "rank": 7,
       "category": "知识科普,美食"
+    },
+    {
+      "raw_hot": 503602,
+      "num": 280125,
+      "word": "英雄联盟中国队晋级半决赛",
+      "onboard_time": 1695781713,
+      "rank": 27,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 503218,
@@ -3252,7 +3300,7 @@
     },
     {
       "raw_hot": 428806,
-      "num": 254589,
+      "num": 366245,
       "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
       "onboard_time": 1695781174,
       "rank": 34,
@@ -3395,6 +3443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 400496,
+      "num": 400496,
+      "word": "华晨宇希望通过创作给予他人帮助",
+      "onboard_time": 1695784653,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 397173,
       "num": 397173,
       "word": "吴易昺",
@@ -3512,14 +3568,6 @@
       "word": "舅舅染黄发接2年级外甥放学被嫌弃",
       "onboard_time": 1695646596,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380627,
-      "num": 380627,
-      "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
-      "onboard_time": 1695781532,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3769,6 +3817,14 @@
       "onboard_time": 1695532534,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347364,
+      "num": 347364,
+      "word": "研究表明人类或将在2.5亿年后灭绝",
+      "onboard_time": 1695783515,
+      "rank": 22,
+      "category": "知识科普"
     },
     {
       "raw_hot": 346718,
@@ -4331,14 +4387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 303326,
-      "num": 303326,
-      "word": "Angelababy养的阿黄",
-      "onboard_time": 1695778833,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303244,
       "num": 303244,
       "word": "训诫处罚 年龄一刀切",
@@ -4417,6 +4465,14 @@
       "onboard_time": 1695775119,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 299111,
+      "num": 299111,
+      "word": "傅首尔逼疯i人的e人",
+      "onboard_time": 1695782672,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 297350,
@@ -4721,14 +4777,6 @@
       "onboard_time": 1695650620,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280125,
-      "num": 280125,
-      "word": "英雄联盟中国队晋级半决赛",
-      "onboard_time": 1695781713,
-      "rank": 27,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 279672,
@@ -5731,6 +5779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228923,
+      "num": 213661,
+      "word": "叙利亚总统夫妇用中文道别",
+      "onboard_time": 1695784054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228618,
       "num": 228618,
       "word": "钮钴禄黄轩已黑化",
@@ -5801,6 +5857,14 @@
       "onboard_time": 1695556117,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219746,
+      "num": 219746,
+      "word": "茶百道TheShy联名",
+      "onboard_time": 1695784233,
+      "rank": 29,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 219734,
@@ -6643,6 +6707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197219,
+      "num": 197219,
+      "word": "封神训练营",
+      "onboard_time": 1695784111,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197075,
       "num": 197075,
       "word": "于和伟你是我下部戏的男一号",
@@ -6697,6 +6769,14 @@
       "onboard_time": 1695694232,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196482,
+      "num": 196482,
+      "word": "周杰伦一路向北4K现场",
+      "onboard_time": 1695782553,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 196290,
@@ -6811,6 +6891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193161,
+      "num": 193161,
+      "word": "周冬雨冷艳风",
+      "onboard_time": 1695783992,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192997,
       "num": 192997,
       "word": "井柏然衣服反穿",
@@ -6881,6 +6969,14 @@
       "onboard_time": 1695651639,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191751,
+      "num": 191751,
+      "word": "那维莱特 不要歪",
+      "onboard_time": 1695784355,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 191372,
@@ -7363,6 +7459,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 180673,
+      "num": 180673,
+      "word": "中国女子50米步枪3种姿势团体金牌",
+      "onboard_time": 1695783694,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180529,
       "num": 180529,
       "word": "上班第一天收到同事请柬",
@@ -7563,6 +7667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174208,
+      "num": 174208,
+      "word": "拍照时发现后面路人是乌尔善",
+      "onboard_time": 1695783572,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174123,
       "num": 174123,
       "word": "小男孩还店主钱还送上一个月饼",
@@ -7609,6 +7721,14 @@
       "onboard_time": 1695775780,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 173097,
+      "num": 173097,
+      "word": "承欢记杀青特辑",
+      "onboard_time": 1695782192,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 172739,
@@ -8145,6 +8265,14 @@
       "onboard_time": 1695622174,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154340,
+      "num": 154340,
+      "word": "封神训练营大预告",
+      "onboard_time": 1695784173,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 154178,
@@ -9131,6 +9259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114339,
+      "num": 215511,
+      "word": "当一座山泛起哲学的波光",
+      "onboard_time": 1695782731,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114051,
       "num": 114051,
       "word": "好事成双女主和情敌处成闺蜜了",
@@ -9513,6 +9649,14 @@
       "onboard_time": 1695468393,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77455,
+      "num": 400571,
+      "word": "许海峰说冠军是玩出来的",
+      "onboard_time": 1695783211,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 77153,
@@ -10113,6 +10257,14 @@
       "onboard_time": 1695668535,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20381,
+      "num": 402249,
+      "word": "是谁复活了尼山的璀璨文明",
+      "onboard_time": 1695783637,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20036,

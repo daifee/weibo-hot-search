@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695782061163,
+  "endTime": 1695784670971,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1745,6 +1745,14 @@
       "onboard_time": 1694663321,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2278333,
+      "num": 2278333,
+      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+      "onboard_time": 1695778715,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2274476,
@@ -11171,6 +11179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783430,
+      "num": 783430,
+      "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
+      "onboard_time": 1695781532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783398,
       "num": 783398,
       "word": "海马体无痛学习法",
@@ -11344,14 +11360,6 @@
       "word": "折断兵马俑手指的美国男子向中国道歉",
       "onboard_time": 1694228251,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775492,
-      "num": 775492,
-      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
-      "onboard_time": 1695778715,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -12385,6 +12393,14 @@
       "onboard_time": 1693754922,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732751,
+      "num": 367115,
+      "word": "娜扎外网生图",
+      "onboard_time": 1695784173,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 732428,
@@ -13689,6 +13705,14 @@
       "onboard_time": 1694133518,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 682095,
+      "num": 401723,
+      "word": "Angelababy养的阿黄",
+      "onboard_time": 1695778833,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 682090,
@@ -16251,6 +16275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 603650,
+      "num": 603650,
+      "word": "胡彦斌问孙怡Melody被求婚的经历",
+      "onboard_time": 1695782131,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603480,
       "num": 1559742,
       "word": "渔民放生300斤海龟后收获3000斤鲳鱼",
@@ -16881,6 +16913,14 @@
       "onboard_time": 1694565404,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584144,
+      "num": 584144,
+      "word": "迪丽热巴王俊凯金智秀G社生图",
+      "onboard_time": 1695782131,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 584068,
@@ -20569,6 +20609,14 @@
       "onboard_time": 1694534016,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 503602,
+      "num": 280125,
+      "word": "英雄联盟中国队晋级半决赛",
+      "onboard_time": 1695781713,
+      "rank": 27,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 503463,
@@ -24692,7 +24740,7 @@
     },
     {
       "raw_hot": 428806,
-      "num": 254589,
+      "num": 366245,
       "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
       "onboard_time": 1695781174,
       "rank": 34,
@@ -26499,6 +26547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400496,
+      "num": 400496,
+      "word": "华晨宇希望通过创作给予他人帮助",
+      "onboard_time": 1695784653,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400412,
       "num": 338911,
       "word": "TikTok违反儿童隐私保护法被罚3.45亿欧元",
@@ -27608,14 +27664,6 @@
       "word": "舅舅染黄发接2年级外甥放学被嫌弃",
       "onboard_time": 1695646596,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380627,
-      "num": 380627,
-      "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
-      "onboard_time": 1695781532,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -30073,6 +30121,14 @@
       "onboard_time": 1694244875,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347364,
+      "num": 347364,
+      "word": "研究表明人类或将在2.5亿年后灭绝",
+      "onboard_time": 1695783515,
+      "rank": 22,
+      "category": "知识科普"
     },
     {
       "raw_hot": 347356,
@@ -34299,14 +34355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 303326,
-      "num": 303326,
-      "word": "Angelababy养的阿黄",
-      "onboard_time": 1695778833,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303244,
       "num": 303244,
       "word": "训诫处罚 年龄一刀切",
@@ -34817,6 +34865,14 @@
       "onboard_time": 1694571095,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299111,
+      "num": 299111,
+      "word": "傅首尔逼疯i人的e人",
+      "onboard_time": 1695782672,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 299104,
@@ -36937,14 +36993,6 @@
       "onboard_time": 1695650620,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280125,
-      "num": 280125,
-      "word": "英雄联盟中国队晋级半决赛",
-      "onboard_time": 1695781713,
-      "rank": 27,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 280049,
@@ -43835,6 +43883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228923,
+      "num": 213661,
+      "word": "叙利亚总统夫妇用中文道别",
+      "onboard_time": 1695784054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228912,
       "num": 228912,
       "word": "詹青云 年轻就是选择权的巅峰",
@@ -45281,6 +45337,14 @@
       "onboard_time": 1694503298,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219746,
+      "num": 219746,
+      "word": "茶百道TheShy联名",
+      "onboard_time": 1695784233,
+      "rank": 29,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 219734,
@@ -50539,6 +50603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 197219,
+      "num": 197219,
+      "word": "封神训练营",
+      "onboard_time": 1695784111,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "亚运会轮椅上的火炬手",
@@ -50801,6 +50873,14 @@
       "onboard_time": 1695694232,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196482,
+      "num": 196482,
+      "word": "周杰伦一路向北4K现场",
+      "onboard_time": 1695782553,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 196416,
@@ -51659,6 +51739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193161,
+      "num": 193161,
+      "word": "周冬雨冷艳风",
+      "onboard_time": 1695783992,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193134,
       "num": 193134,
       "word": "中国队消防世锦赛首金",
@@ -52153,6 +52241,14 @@
       "onboard_time": 1694838033,
       "rank": 33,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 191751,
+      "num": 191751,
+      "word": "那维莱特 不要歪",
+      "onboard_time": 1695784355,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 191706,
@@ -54915,6 +55011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180673,
+      "num": 180673,
+      "word": "中国女子50米步枪3种姿势团体金牌",
+      "onboard_time": 1695783694,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180664,
       "num": 180664,
       "word": "利物浦vs阿斯顿维拉",
@@ -56243,6 +56347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174208,
+      "num": 174208,
+      "word": "拍照时发现后面路人是乌尔善",
+      "onboard_time": 1695783572,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174183,
       "num": 174183,
       "word": "相声演员玉浩买房遭遇维权难",
@@ -56417,6 +56529,14 @@
       "onboard_time": 1695173379,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 173097,
+      "num": 173097,
+      "word": "承欢记杀青特辑",
+      "onboard_time": 1695782192,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 173076,
@@ -59745,6 +59865,14 @@
       "onboard_time": 1694829754,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154340,
+      "num": 154340,
+      "word": "封神训练营大预告",
+      "onboard_time": 1695784173,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 154283,
@@ -64795,6 +64923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114339,
+      "num": 215511,
+      "word": "当一座山泛起哲学的波光",
+      "onboard_time": 1695782731,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114296,
       "num": 342538,
       "word": "杭州一不小心入画了",
@@ -67001,6 +67137,14 @@
       "onboard_time": 1695164966,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77455,
+      "num": 400571,
+      "word": "许海峰说冠军是玩出来的",
+      "onboard_time": 1695783211,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 77362,
@@ -70281,6 +70425,14 @@
       "onboard_time": 1694249493,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20381,
+      "num": 402249,
+      "word": "是谁复活了尼山的璀璨文明",
+      "onboard_time": 1695783637,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20041,
