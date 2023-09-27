@@ -1,0 +1,410 @@
+{
+  "runTime": 1695809915964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2259960,
+        "num": 2259960,
+        "word": "周杰伦上海 二次抢票",
+        "onboard_time": 1695809191,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 553137,
+        "num": 1955690,
+        "word": "郭晶晶霍启刚太好磕了",
+        "onboard_time": 1695803616,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50066,
+        "num": 1790458,
+        "word": "网络中国节",
+        "onboard_time": 1695803793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1723581,
+        "num": 1723581,
+        "word": "华为上架1999元手机壳",
+        "onboard_time": 1695803074,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 305190,
+        "num": 1617825,
+        "word": "从羞于说父亲是兽医到为父亲拍视频",
+        "onboard_time": 1695798277,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1533086,
+        "num": 1533086,
+        "word": "offer5 8点下班的工作没人做",
+        "onboard_time": 1695805115,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203978,
+        "num": 1003182,
+        "word": "歼20飞行员亲述逼退外机经历",
+        "onboard_time": 1695808231,
+        "rank": 6,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 868325,
+        "num": 868325,
+        "word": "吃一块月饼相当于吃3碗米饭",
+        "onboard_time": 1695804454,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 786722,
+        "num": 786722,
+        "word": "无根门没了",
+        "onboard_time": 1695807033,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 717328,
+        "num": 717328,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741225,
+        "num": 714215,
+        "word": "吴昕是穿了睡裤去巴黎吗",
+        "onboard_time": 1695799716,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 676884,
+        "num": 676884,
+        "word": "CoCo奶茶道歉",
+        "onboard_time": 1695797435,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 430972,
+        "num": 670352,
+        "word": "张杰亚运金牌",
+        "onboard_time": 1695804394,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179539,
+        "num": 668220,
+        "word": "你以后还会买花西子吗",
+        "onboard_time": 1695799138,
+        "rank": 13,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 18539,
+        "num": 666846,
+        "word": "蛋仔双节新版本",
+        "onboard_time": 1695808835,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 666706,
+        "num": 666706,
+        "word": "上海平均招聘月薪达13492元",
+        "onboard_time": 1695805176,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 600834,
+        "num": 600834,
+        "word": "晨光文具主播卖铅笔把不贵写脸上",
+        "onboard_time": 1695802055,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375756,
+        "num": 375756,
+        "word": "左彤体操全能金牌",
+        "onboard_time": 1695806257,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365828,
+        "num": 365828,
+        "word": "张馨予要消失一下",
+        "onboard_time": 1695799837,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348743,
+        "num": 348743,
+        "word": "中秋礼物已经那么卷了吗",
+        "onboard_time": 1695803494,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346105,
+        "num": 346105,
+        "word": "西安巨响",
+        "onboard_time": 1695795101,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302402,
+        "num": 302402,
+        "word": "花西子 公关",
+        "onboard_time": 1695795101,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 294357,
+        "num": 294357,
+        "word": "张稀哲停赛7场罚款7万",
+        "onboard_time": 1695807033,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288574,
+        "num": 288574,
+        "word": "恋综史上最令人窒息男嘉宾",
+        "onboard_time": 1695790420,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257326,
+        "num": 257326,
+        "word": "吴青峰发文批评演唱会手机海",
+        "onboard_time": 1695785736,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249227,
+        "num": 249227,
+        "word": "论文太干净了我舍不得碰",
+        "onboard_time": 1695799716,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243190,
+        "num": 243190,
+        "word": "郑爽上诉被驳回",
+        "onboard_time": 1695795275,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228043,
+        "num": 228043,
+        "word": "刘亦菲阿布扎比旅拍",
+        "onboard_time": 1695808113,
+        "rank": 27,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 227332,
+        "num": 227332,
+        "word": "五月天谁抢到了 我要闹了",
+        "onboard_time": 1695798037,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111406,
+        "num": 214309,
+        "word": "网球男单中国晋级四强",
+        "onboard_time": 1695809671,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259089,
+        "num": 213370,
+        "word": "五个习惯可能导致腹部长赘肉",
+        "onboard_time": 1695809551,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211445,
+        "num": 211445,
+        "word": "柯洁亚运会七连胜",
+        "onboard_time": 1695808891,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210507,
+        "num": 210507,
+        "word": "林俊杰张艺兴合照",
+        "onboard_time": 1695806312,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27945,
+        "num": 205124,
+        "word": "今年中秋放过月饼",
+        "onboard_time": 1695809072,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201419,
+        "num": 201419,
+        "word": "张小斐离了跟我行不行",
+        "onboard_time": 1695803735,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199881,
+        "num": 199881,
+        "word": "offer5",
+        "onboard_time": 1695809432,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188237,
+        "num": 188237,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1695809191,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191506,
+        "num": 185332,
+        "word": "张俪说自己是弹簧身材",
+        "onboard_time": 1695809671,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195573,
+        "num": 184917,
+        "word": "女子脚被钉子扎伤医生用蚂蟥吸锈毒",
+        "onboard_time": 1695809371,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181943,
+        "num": 181943,
+        "word": "英雄联盟",
+        "onboard_time": 1695801516,
+        "rank": 39,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 181280,
+        "num": 181280,
+        "word": "六公主国庆片单赢麻了",
+        "onboard_time": 1695797136,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178603,
+        "num": 178603,
+        "word": "赵丽颖申请强制黑粉道歉",
+        "onboard_time": 1695792457,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170980,
+        "num": 170980,
+        "word": "白敬亭公交车侧颜",
+        "onboard_time": 1695808053,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 164123,
+        "num": 164123,
+        "word": "阿迪达斯回应宣传图将文物踩在脚下",
+        "onboard_time": 1695804274,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162205,
+        "num": 162205,
+        "word": "刘德华新浪扫楼",
+        "onboard_time": 1695808113,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135000,
+        "num": 135000,
+        "word": "爱宝记得福宝",
+        "onboard_time": 1695797676,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 132407,
+        "num": 132407,
+        "word": "田嘉瑞录hi6是综艺首秀",
+        "onboard_time": 1695802835,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129277,
+        "num": 129277,
+        "word": "王乐君否认做手术医院是胡歌找的",
+        "onboard_time": 1695794616,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115363,
+        "num": 115363,
+        "word": "咒术回战 宿傩回战",
+        "onboard_time": 1695793956,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111473,
+        "num": 111473,
+        "word": "薛之谦石家庄 抢票",
+        "onboard_time": 1695806733,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国自贸区已从试验田建成高产田#"
+    }
+  }
+}
