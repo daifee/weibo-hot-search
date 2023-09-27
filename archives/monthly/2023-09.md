@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 18:18:35
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 18:35:26
 </p>
 </blockquote>
 <p>
@@ -5733,6 +5733,12 @@ bibi（热度：1033611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E9%94%99%E8%BD%AC%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%87%B4%E8%BF%87%E6%9C%9F%23" target="weibo">
+顺丰错转周杰伦演唱会门票致过期（热度：1030681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA200%E7%B1%B3%E6%B7%B7%E9%87%91%E7%89%8C%23" target="weibo">
 汪顺200米混金牌（热度：1029127）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%B4%AB%E8%96%87%20%E7%A6%BB%E8%81%8C%23" target="weibo">
 宋紫薇 离职（热度：1001283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0%23" target="weibo">
-胡兵一公排名倒数（热度：999101）
 </a>
 </li>
 
