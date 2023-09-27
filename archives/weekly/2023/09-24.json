@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695791758312,
+  "endTime": 1695792842679,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3111905,
+      "num": 3111905,
+      "word": "沈梦辰 我不行我婚嫁了",
+      "onboard_time": 1695790420,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2980643,
       "num": 2980643,
       "word": "花西子称要和香奈儿门对门",
@@ -129,14 +137,6 @@
       "onboard_time": 1695736305,
       "rank": 1,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 2585614,
-      "num": 2585614,
-      "word": "沈梦辰 我不行我婚嫁了",
-      "onboard_time": 1695790420,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2578608,
@@ -449,6 +449,14 @@
       "onboard_time": 1695529891,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1508535,
+      "num": 1508535,
+      "word": "恋综史上最令人窒息男嘉宾",
+      "onboard_time": 1695790420,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1498504,
@@ -787,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1089111,
-      "num": 1089111,
-      "word": "恋综史上最令人窒息男嘉宾",
-      "onboard_time": 1695790420,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1087025,
       "num": 1081121,
       "word": "旋风少女还是拍保守了",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1695557014,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 937818,
+      "num": 937818,
+      "word": "赵丽颖申请强制黑粉道歉",
+      "onboard_time": 1695792457,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 934675,
@@ -3147,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463768,
+      "num": 359477,
+      "word": "国台办回应马斯克称是美国阻止中国统一",
+      "onboard_time": 1695791738,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 463443,
       "num": 463443,
       "word": "幼儿园手工作业主打一个卷死家长",
@@ -3867,6 +3883,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 360548,
+      "num": 360548,
+      "word": "莎头",
+      "onboard_time": 1695790301,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359010,
       "num": 359010,
       "word": "都给水哥懂完了",
@@ -3993,6 +4017,14 @@
       "onboard_time": 1695624575,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343699,
+      "num": 289137,
+      "word": "杨幂启程巴黎时装周",
+      "onboard_time": 1695791258,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 342890,
@@ -4217,14 +4249,6 @@
       "onboard_time": 1695601475,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326550,
-      "num": 326550,
-      "word": "莎头",
-      "onboard_time": 1695790301,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 325917,
@@ -5147,6 +5171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270713,
+      "num": 270713,
+      "word": "李村",
+      "onboard_time": 1695791917,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 270389,
       "num": 270389,
       "word": "大学生工作三个月的样子",
@@ -5593,6 +5625,14 @@
       "onboard_time": 1695741279,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246570,
+      "num": 246570,
+      "word": "五月天广州 抢票",
+      "onboard_time": 1695791200,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 246540,
@@ -6155,6 +6195,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 217350,
+      "num": 217350,
+      "word": "专家认为大同欺凌事件属于性强暴",
+      "onboard_time": 1695792517,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217219,
       "num": 217219,
       "word": "地摊上发现一封几十年前的情书",
@@ -6339,14 +6387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213026,
-      "num": 213026,
-      "word": "杨幂启程巴黎时装周",
-      "onboard_time": 1695791258,
-      "rank": 32,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 212994,
       "num": 212994,
       "word": "马龙3比0廖振珽",
@@ -6379,6 +6419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211976,
+      "num": 211976,
+      "word": "鹿晗演唱会线上首播",
+      "onboard_time": 1695791738,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210960,
       "num": 210960,
       "word": "周冬雨冷艳风",
@@ -6392,14 +6440,6 @@
       "word": "杨丞琳亲了李斯丹妮",
       "onboard_time": 1695615277,
       "rank": 37,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 210720,
-      "num": 210720,
-      "word": "鹿晗演唱会线上首播",
-      "onboard_time": 1695791738,
-      "rank": 33,
       "category": "演出"
     },
     {
@@ -6907,14 +6947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197997,
-      "num": 197997,
-      "word": "五月天广州 抢票",
-      "onboard_time": 1695791200,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 197882,
       "num": 197882,
       "word": "微博音乐盛典年度新锐歌手",
@@ -7187,6 +7219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192026,
+      "num": 192026,
+      "word": "吴磊演我上班",
+      "onboard_time": 1695789578,
+      "rank": 46,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 191979,
       "num": 191979,
       "word": "微博音乐盛典直播",
@@ -7417,6 +7457,14 @@
       "onboard_time": 1695480704,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187800,
+      "num": 187800,
+      "word": "背了一堆小乌龟的全红婵相当显眼",
+      "onboard_time": 1695792636,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 187799,
@@ -8219,14 +8267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 163365,
-      "num": 163365,
-      "word": "吴磊演我上班",
-      "onboard_time": 1695789578,
-      "rank": 46,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 162708,
       "num": 331911,
       "word": "58家国货在拼多多团建",
@@ -8633,14 +8673,6 @@
       "onboard_time": 1695510380,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152144,
-      "num": 152144,
-      "word": "国台办回应马斯克称是美国阻止中国统一",
-      "onboard_time": 1695791738,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 152112,
@@ -10139,11 +10171,27 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 63087,
+      "num": 399632,
+      "word": "原神4.1版本更新 那维莱特",
+      "onboard_time": 1695790840,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62687,
       "num": 62687,
       "word": "放在整个露营界都是相当炸裂",
       "onboard_time": 1695661762,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61185,
+      "num": 289184,
+      "word": "这才是中秋礼物天花板",
+      "onboard_time": 1695791378,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -10283,6 +10331,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 50444,
+      "num": 148201,
+      "word": "中国摘金你想分享给谁",
+      "onboard_time": 1695792277,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50179,
       "num": 52601,
       "word": "加油杭州亚运会",
@@ -10305,14 +10361,6 @@
       "onboard_time": 1695553234,
       "rank": 14,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 48142,
-      "num": 399632,
-      "word": "原神4.1版本更新 那维莱特",
-      "onboard_time": 1695790840,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 47077,
@@ -10529,14 +10577,6 @@
       "onboard_time": 1695528033,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26050,
-      "num": 164947,
-      "word": "这才是中秋礼物天花板",
-      "onboard_time": 1695791378,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 25983,

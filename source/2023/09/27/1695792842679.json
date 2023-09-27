@@ -1,0 +1,410 @@
+{
+  "runTime": 1695792842679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3111905,
+        "num": 3111905,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2019763,
+        "num": 2019763,
+        "word": "吴青峰发文批评演唱会手机海",
+        "onboard_time": 1695785736,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58503,
+        "num": 1920780,
+        "word": "亚运赛场上这些00后真棒",
+        "onboard_time": 1695786034,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1897350,
+        "num": 1897350,
+        "word": "多地医生降薪",
+        "onboard_time": 1695788797,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1508535,
+        "num": 1508535,
+        "word": "恋综史上最令人窒息男嘉宾",
+        "onboard_time": 1695790420,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 945158,
+        "num": 945158,
+        "word": "空气炸锅为什么不火了",
+        "onboard_time": 1695776439,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 937818,
+        "num": 937818,
+        "word": "赵丽颖申请强制黑粉道歉",
+        "onboard_time": 1695792457,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734801,
+        "num": 734801,
+        "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+        "onboard_time": 1695778715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089179,
+        "num": 618528,
+        "word": "郑爽仍有千万欠款未履行",
+        "onboard_time": 1695785736,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360548,
+        "num": 360548,
+        "word": "莎头",
+        "onboard_time": 1695790301,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 815708,
+        "num": 360022,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463768,
+        "num": 359477,
+        "word": "国台办回应马斯克称是美国阻止中国统一",
+        "onboard_time": 1695791738,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 428401,
+        "num": 358926,
+        "word": "张柏芝L型腮红",
+        "onboard_time": 1695786213,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 296675,
+        "num": 358678,
+        "word": "13岁少女成中国最年轻亚运冠军",
+        "onboard_time": 1695785374,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63087,
+        "num": 358263,
+        "word": "原神4.1版本更新 那维莱特",
+        "onboard_time": 1695790840,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357745,
+        "num": 357745,
+        "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
+        "onboard_time": 1695781532,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392218,
+        "num": 345452,
+        "word": "封神集体跳科目一",
+        "onboard_time": 1695788559,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321625,
+        "num": 321625,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 296435,
+        "num": 296435,
+        "word": "CoCo 周边要钱",
+        "onboard_time": 1695784712,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293505,
+        "num": 293505,
+        "word": "表志勋退伍",
+        "onboard_time": 1695789878,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61185,
+        "num": 289184,
+        "word": "这才是中秋礼物天花板",
+        "onboard_time": 1695791378,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452639,
+        "num": 289144,
+        "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
+        "onboard_time": 1695781174,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343699,
+        "num": 289137,
+        "word": "杨幂启程巴黎时装周",
+        "onboard_time": 1695791258,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 288887,
+        "num": 288887,
+        "word": "林俊杰拍张杰",
+        "onboard_time": 1695785074,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333963,
+        "num": 285427,
+        "word": "娜扎外网生图",
+        "onboard_time": 1695784173,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216171,
+        "num": 277388,
+        "word": "叙利亚总统夫妇用中文道别",
+        "onboard_time": 1695784054,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270713,
+        "num": 270713,
+        "word": "李村",
+        "onboard_time": 1695791917,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267951,
+        "num": 267951,
+        "word": "迪丽热巴王俊凯金智秀G社生图",
+        "onboard_time": 1695782131,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255312,
+        "num": 255312,
+        "word": "领导好像对茶水很满意",
+        "onboard_time": 1695787297,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249987,
+        "num": 249987,
+        "word": "丞磊深V",
+        "onboard_time": 1695789938,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246570,
+        "num": 246570,
+        "word": "五月天广州 抢票",
+        "onboard_time": 1695791200,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240951,
+        "num": 240951,
+        "word": "胡彦斌问孙怡Melody被求婚的经历",
+        "onboard_time": 1695782131,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235453,
+        "num": 235453,
+        "word": "央视中秋晚会嘉宾阵容",
+        "onboard_time": 1695785074,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223187,
+        "num": 223187,
+        "word": "大爷收到与陌生女子裸照被要封口费",
+        "onboard_time": 1695786816,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217350,
+        "num": 217350,
+        "word": "专家认为大同欺凌事件属于性强暴",
+        "onboard_time": 1695792517,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211976,
+        "num": 211976,
+        "word": "鹿晗演唱会线上首播",
+        "onboard_time": 1695791738,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193606,
+        "num": 193606,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192026,
+        "num": 192026,
+        "word": "吴磊演我上班",
+        "onboard_time": 1695789578,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 190921,
+        "num": 190921,
+        "word": "研究表明人类或将在2.5亿年后灭绝",
+        "onboard_time": 1695783515,
+        "rank": 38,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 187800,
+        "num": 187800,
+        "word": "背了一堆小乌龟的全红婵相当显眼",
+        "onboard_time": 1695792636,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183952,
+        "num": 183952,
+        "word": "张婧仪26秒绝美他拍",
+        "onboard_time": 1695787900,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175575,
+        "num": 175575,
+        "word": "张博恒的89.299分究竟有多牛",
+        "onboard_time": 1695789218,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175352,
+        "num": 175352,
+        "word": "董宇辉回应周杰伦演唱会门票来源",
+        "onboard_time": 1695776439,
+        "rank": 42,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 170863,
+        "num": 170863,
+        "word": "黄晓明微信名叫黄晓明",
+        "onboard_time": 1695773979,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166888,
+        "num": 166888,
+        "word": "Angelababy养的阿黄",
+        "onboard_time": 1695778833,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165602,
+        "num": 165602,
+        "word": "月饼最好大家分着吃",
+        "onboard_time": 1695786875,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164787,
+        "num": 164787,
+        "word": "为什么男生的屁股翘",
+        "onboard_time": 1695772535,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 164108,
+        "num": 164108,
+        "word": "我们恋爱吧",
+        "onboard_time": 1695790301,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152356,
+        "num": 152356,
+        "word": "花花不久就能和大家见面啦",
+        "onboard_time": 1695777636,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50444,
+        "num": 148201,
+        "word": "中国摘金你想分享给谁",
+        "onboard_time": 1695792277,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
