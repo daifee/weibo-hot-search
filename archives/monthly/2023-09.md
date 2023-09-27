@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 15:34:06
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 16:21:58
 </p>
 </blockquote>
 <p>
@@ -2091,6 +2091,12 @@ Lisa演唱会哭了（热度：1923896）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23" target="weibo">
+CoCo奶茶道歉（热度：1916939）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%B8%80%E7%A7%92%E6%8D%A2%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23" target="weibo">
 中国队入场音乐一秒换歌唱祖国（热度：1913719）
 </a>
@@ -3257,12 +3263,6 @@ Jennie金智秀成立个人工作室（热度：1546342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A7%B0%E5%8F%91%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E6%98%AF%E4%B8%BA%E4%BA%A4%E6%9C%8B%E5%8F%8B%23" target="weibo">
 9岁女孩称发私密视频是为交朋友（热度：1541985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23" target="weibo">
-CoCo奶茶道歉（热度：1537758）
 </a>
 </li>
 
@@ -5061,6 +5061,12 @@ Angelababy敦煌飞天妆（热度：1139421）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E6%98%AF%E7%A9%BF%E4%BA%86%E7%9D%A1%E8%A3%A4%E5%8E%BB%E5%B7%B4%E9%BB%8E%E5%90%97%23" target="weibo">
+吴昕是穿了睡裤去巴黎吗（热度：1130600）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93%23" target="weibo">
 夫妻偷渡到缅北后因业绩太差被打（热度：1130597）
 </a>
@@ -5613,6 +5619,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%BA%E6%96%87%E5%A4%AA%E5%B9%B2%E5%87%80%E4%BA%86%E6%88%91%E8%88%8D%E4%B8%8D%E5%BE%97%E7%A2%B0%23" target="weibo">
+论文太干净了我舍不得碰（热度：1047014）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%86%9C%E5%A6%87%E9%81%97%E4%B9%A6%E9%97%AE%E6%8E%A8%E4%BB%96%E7%AE%97%E4%B8%8D%E7%AE%97%E5%8F%8D%E6%8A%97%23" target="weibo">
 疑被强奸农妇遗书问推他算不算反抗（热度：1046214）
 </a>
@@ -5999,18 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23" target="weibo">
 4名男孩溺亡其中3人亲兄弟（热度：995887）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%23" target="weibo">
-奥本海默（热度：995522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%BB%B4%E6%98%AF%E8%80%81%E4%BA%86%E4%B8%8D%E6%98%AF%E5%8F%98%E9%87%8E%E4%BA%BA%E4%BA%86%23" target="weibo">
-李子维是老了不是变野人了（热度：994495）
 </a>
 </li>
 
