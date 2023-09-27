@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695781394283,
+  "endTime": 1695782061163,
   "band_list": [
     {
       "raw_hot": 2557864,
@@ -139,12 +139,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 775492,
+      "num": 775492,
+      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+      "onboard_time": 1695778715,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751879,
       "num": 751879,
       "word": "韩国球员为输球后拒绝握手道歉",
       "onboard_time": 1695776077,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 739080,
+      "num": 739080,
+      "word": "英雄联盟中国队vs中国澳门队",
+      "onboard_time": 1695778715,
+      "rank": 7,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 665513,
@@ -203,24 +219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 593348,
-      "num": 588510,
-      "word": "英雄联盟中国队vs中国澳门队",
-      "onboard_time": 1695778715,
-      "rank": 7,
-      "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 588781,
-      "num": 588781,
-      "word": "央媒称年龄不应是违法犯罪的挡箭牌",
-      "onboard_time": 1695778715,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587279,
-      "num": 587279,
+      "raw_hot": 589765,
+      "num": 589765,
       "word": "花花不久就能和大家见面啦",
       "onboard_time": 1695777636,
       "rank": 29,
@@ -315,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 428806,
+      "num": 254589,
+      "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
+      "onboard_time": 1695781174,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417731,
       "num": 881295,
       "word": "作为怪物",
@@ -328,6 +336,14 @@
       "word": "警方通报女子被住建局保安踩脚下",
       "onboard_time": 1695774579,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380627,
+      "num": 380627,
+      "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
+      "onboard_time": 1695781532,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -347,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339863,
+      "num": 339863,
+      "word": "黄牛花36元叫网约车收旅客100",
+      "onboard_time": 1695780755,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322961,
       "num": 322961,
       "word": "性缘脑比恋爱脑还可怕吗",
@@ -361,6 +385,14 @@
       "onboard_time": 1695738045,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 308587,
+      "num": 308587,
+      "word": "张凌赫张婧仪背影同框",
+      "onboard_time": 1695778115,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307441,
@@ -379,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 303326,
+      "num": 303326,
+      "word": "Angelababy养的阿黄",
+      "onboard_time": 1695778833,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301454,
       "num": 301454,
       "word": "4岁宝宝带着炸裂蟑螂灯笼上学去",
@@ -393,14 +433,6 @@
       "onboard_time": 1695775119,
       "rank": 24,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 299163,
-      "num": 299163,
-      "word": "Angelababy养的阿黄",
-      "onboard_time": 1695778833,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 288696,
@@ -427,6 +459,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 280125,
+      "num": 280125,
+      "word": "英雄联盟中国队晋级半决赛",
+      "onboard_time": 1695781713,
+      "rank": 27,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 274916,
       "num": 274916,
       "word": "iPhone15Pro过热或是散热问题",
@@ -435,12 +475,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 273477,
-      "num": 234999,
-      "word": "张凌赫张婧仪背影同框",
-      "onboard_time": 1695778115,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 267615,
+      "num": 485353,
+      "word": "温柔处理打不疼欺凌者",
+      "onboard_time": 1695780032,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262644,
@@ -467,14 +507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245638,
-      "num": 485353,
-      "word": "温柔处理打不疼欺凌者",
-      "onboard_time": 1695780032,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237005,
       "num": 237005,
       "word": "好事成双原著中的卫明",
@@ -499,28 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217393,
-      "num": 217393,
-      "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
-      "onboard_time": 1695781174,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215529,
       "num": 215529,
       "word": "奇迹暖暖 回档",
       "onboard_time": 1695777818,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210957,
-      "num": 210957,
-      "word": "黄牛花36元叫网约车收旅客100",
-      "onboard_time": 1695780755,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209319,
@@ -713,6 +729,14 @@
       "onboard_time": 1695771753,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170633,
+      "num": 170633,
+      "word": "可给田嘉瑞忙晕了",
+      "onboard_time": 1695779013,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 166154,
@@ -963,7 +987,7 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 81979,
+      "raw_hot": 84852,
       "num": 181040,
       "word": "心梗黄金2小时有多重要",
       "onboard_time": 1695779613,
@@ -977,6 +1001,14 @@
       "onboard_time": 1695744933,
       "rank": 49,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 71261,
+      "num": 473136,
+      "word": "山东尼山",
+      "onboard_time": 1695780032,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70657,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1695749121,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 55432,
-      "num": 473136,
-      "word": "山东尼山",
-      "onboard_time": 1695780032,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55150,

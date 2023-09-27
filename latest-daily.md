@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/27 00:22:32 ~ 2023/09/27 10:23:14
+本榜单时间：2023/09/27 00:22:32 ~ 2023/09/27 10:34:21
 </p>
 </blockquote>
 <p>
@@ -117,8 +117,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%AA%92%E7%A7%B0%E5%B9%B4%E9%BE%84%E4%B8%8D%E5%BA%94%E6%98%AF%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23" target="weibo">
+央媒称年龄不应是违法犯罪的挡箭牌（热度：775492）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E4%B8%BA%E8%BE%93%E7%90%83%E5%90%8E%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%E9%81%93%E6%AD%89%23" target="weibo">
 韩国球员为输球后拒绝握手道歉（热度：751879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8%E9%98%9F%23" target="weibo">
+英雄联盟中国队vs中国澳门队（热度：739080）
 </a>
 </li>
 
@@ -165,20 +177,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8%E9%98%9F%23" target="weibo">
-英雄联盟中国队vs中国澳门队（热度：593348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%AA%92%E7%A7%B0%E5%B9%B4%E9%BE%84%E4%B8%8D%E5%BA%94%E6%98%AF%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23" target="weibo">
-央媒称年龄不应是违法犯罪的挡箭牌（热度：588781）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E4%B8%8D%E4%B9%85%E5%B0%B1%E8%83%BD%E5%92%8C%E5%A4%A7%E5%AE%B6%E8%A7%81%E9%9D%A2%E5%95%A6%23" target="weibo">
-花花不久就能和大家见面啦（热度：587279）
+花花不久就能和大家见面啦（热度：589765）
 </a>
 </li>
 
@@ -249,6 +249,12 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%B3%84%E9%B1%BC%E4%B8%93%E5%AE%B68%E5%B9%B4%E6%80%A7%E4%BE%B5%E8%99%90%E6%9D%80%E6%95%B0%E5%8D%81%E5%8F%AA%E5%B0%8F%E7%8B%97%23" target="weibo">
+英鳄鱼专家8年性侵虐杀数十只小狗（热度：428806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9C%E4%B8%BA%E6%80%AA%E7%89%A9%23" target="weibo">
 作为怪物（热度：417731）
 </a>
@@ -257,6 +263,12 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BD%8F%E5%BB%BA%E5%B1%80%E4%BF%9D%E5%AE%89%E8%B8%A9%E8%84%9A%E4%B8%8B%23" target="weibo">
 警方通报女子被住建局保安踩脚下（热度：396907）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A8%E5%81%B7%E5%81%B7%E9%80%81%E5%AD%99%E5%AD%90%E5%85%A5%E4%BC%8D%E7%9A%84%E7%88%B7%E7%88%B7%E6%98%AF%E7%83%88%E5%A3%AB%E5%90%8E%E4%BA%BA%23" target="weibo">
+凌晨偷偷送孙子入伍的爷爷是烈士后人（热度：380627）
 </a>
 </li>
 
@@ -273,6 +285,12 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E8%8A%B136%E5%85%83%E5%8F%AB%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%94%B6%E6%97%85%E5%AE%A2100%23" target="weibo">
+黄牛花36元叫网约车收旅客100（热度：339863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%A7%E7%BC%98%E8%84%91%E6%AF%94%E6%81%8B%E7%88%B1%E8%84%91%E8%BF%98%E5%8F%AF%E6%80%95%E5%90%97%23" target="weibo">
 性缘脑比恋爱脑还可怕吗（热度：322961）
 </a>
@@ -281,6 +299,12 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%B4%E5%8F%91%E4%B8%9D%E9%83%BD%E5%9C%A8%E5%8F%91%E5%85%89%23" target="weibo">
 迪丽热巴头发丝都在发光（热度：311096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BC%A0%E5%A9%A7%E4%BB%AA%E8%83%8C%E5%BD%B1%E5%90%8C%E6%A1%86%23" target="weibo">
+张凌赫张婧仪背影同框（热度：308587）
 </a>
 </li>
 
@@ -297,6 +321,12 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%85%BB%E7%9A%84%E9%98%BF%E9%BB%84%23" target="weibo">
+Angelababy养的阿黄（热度：303326）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%B8%A6%E7%9D%80%E7%82%B8%E8%A3%82%E8%9F%91%E8%9E%82%E7%81%AF%E7%AC%BC%E4%B8%8A%E5%AD%A6%E5%8E%BB%23" target="weibo">
 4岁宝宝带着炸裂蟑螂灯笼上学去（热度：301454）
 </a>
@@ -305,12 +335,6 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%E9%80%A0%E5%9E%8B%23" target="weibo">
 Angelababy出发巴黎造型（热度：299641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%85%BB%E7%9A%84%E9%98%BF%E9%BB%84%23" target="weibo">
-Angelababy养的阿黄（热度：299163）
 </a>
 </li>
 
@@ -333,14 +357,20 @@ Angelababy养的阿黄（热度：299163）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+英雄联盟中国队晋级半决赛（热度：280125）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%BF%87%E7%83%AD%E6%88%96%E6%98%AF%E6%95%A3%E7%83%AD%E9%97%AE%E9%A2%98%23" target="weibo">
 iPhone15Pro过热或是散热问题（热度：274916）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BC%A0%E5%A9%A7%E4%BB%AA%E8%83%8C%E5%BD%B1%E5%90%8C%E6%A1%86%23" target="weibo">
-张凌赫张婧仪背影同框（热度：273477）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E6%9F%94%E5%A4%84%E7%90%86%E6%89%93%E4%B8%8D%E7%96%BC%E6%AC%BA%E5%87%8C%E8%80%85%23" target="weibo">
+温柔处理打不疼欺凌者（热度：267615）
 </a>
 </li>
 
@@ -363,12 +393,6 @@ iPhone15Pro过热或是散热问题（热度：274916）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E6%9F%94%E5%A4%84%E7%90%86%E6%89%93%E4%B8%8D%E7%96%BC%E6%AC%BA%E5%87%8C%E8%80%85%23" target="weibo">
-温柔处理打不疼欺凌者（热度：245638）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E4%BA%8B%E6%88%90%E5%8F%8C%E5%8E%9F%E8%91%97%E4%B8%AD%E7%9A%84%E5%8D%AB%E6%98%8E%23" target="weibo">
 好事成双原著中的卫明（热度：237005）
 </a>
@@ -387,20 +411,8 @@ iPhone15Pro过热或是散热问题（热度：274916）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%B3%84%E9%B1%BC%E4%B8%93%E5%AE%B68%E5%B9%B4%E6%80%A7%E4%BE%B5%E8%99%90%E6%9D%80%E6%95%B0%E5%8D%81%E5%8F%AA%E5%B0%8F%E7%8B%97%23" target="weibo">
-英鳄鱼专家8年性侵虐杀数十只小狗（热度：217393）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%BF%B9%E6%9A%96%E6%9A%96%20%E5%9B%9E%E6%A1%A3%23" target="weibo">
 奇迹暖暖 回档（热度：215529）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E8%8A%B136%E5%85%83%E5%8F%AB%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%94%B6%E6%97%85%E5%AE%A2100%23" target="weibo">
-黄牛花36元叫网约车收旅客100（热度：210957）
 </a>
 </li>
 
@@ -545,6 +557,12 @@ iPhone15ProMax影像分数排第二（热度：192026）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E7%9B%B4%E6%92%AD%E9%97%AF%E8%BF%9B%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%23" target="weibo">
 韩媒直播闯进四个显眼包（热度：171071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E7%BB%99%E7%94%B0%E5%98%89%E7%91%9E%E5%BF%99%E6%99%95%E4%BA%86%23" target="weibo">
+可给田嘉瑞忙晕了（热度：170633）
 </a>
 </li>
 
@@ -736,13 +754,19 @@ iPhone15ProMax影像分数排第二（热度：192026）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%A2%97%E9%BB%84%E9%87%912%E5%B0%8F%E6%97%B6%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23" target="weibo">
-心梗黄金2小时有多重要（热度：81979）
+心梗黄金2小时有多重要（热度：84852）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E7%91%BE%E5%9C%A8%E9%80%83%E5%85%AC%E4%B8%BB%E9%A3%8E%E9%95%BF%E8%A3%99%23" target="weibo">
 王艺瑾在逃公主风长裙（热度：81619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B0%BC%E5%B1%B1%23" target="weibo">
+山东尼山（热度：71261）
 </a>
 </li>
 
@@ -767,12 +791,6 @@ Mate60遥遥领先（热度：65846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BA%91%E7%9B%B8%E4%BA%B2%E7%A2%B0%E5%88%B0%E4%B8%AA%E9%80%8F%E8%A7%86%E6%8C%82%23" target="weibo">
 孟云相亲碰到个透视挂（热度：57570）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B0%BC%E5%B1%B1%23" target="weibo">
-山东尼山（热度：55432）
 </a>
 </li>
 
