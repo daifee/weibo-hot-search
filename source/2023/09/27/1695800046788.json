@@ -1,0 +1,410 @@
+{
+  "runTime": 1695800046788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728177,
+        "num": 1728177,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1537758,
+        "num": 1537758,
+        "word": "CoCo奶茶道歉",
+        "onboard_time": 1695797435,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 56924,
+        "num": 1179113,
+        "word": "亚运赛场上这些00后真棒",
+        "onboard_time": 1695786034,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1156568,
+        "num": 1156568,
+        "word": "知情人士称许家印已被监视居住于北京",
+        "onboard_time": 1695798700,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993715,
+        "num": 993715,
+        "word": "赵丽颖申请强制黑粉道歉",
+        "onboard_time": 1695792457,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 963201,
+        "num": 963201,
+        "word": "花西子 公关",
+        "onboard_time": 1695795101,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 953701,
+        "num": 953701,
+        "word": "吴青峰发文批评演唱会手机海",
+        "onboard_time": 1695785736,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 927192,
+        "num": 927192,
+        "word": "豆瓣崩了",
+        "onboard_time": 1695798997,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 634717,
+        "num": 634717,
+        "word": "恋综史上最令人窒息男嘉宾",
+        "onboard_time": 1695790420,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620673,
+        "num": 620673,
+        "word": "五月天谁抢到了 我要闹了",
+        "onboard_time": 1695798037,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2333586,
+        "num": 618984,
+        "word": "西安巨响",
+        "onboard_time": 1695795101,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483776,
+        "num": 612096,
+        "word": "从羞于说父亲是兽医到为父亲拍视频",
+        "onboard_time": 1695798277,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197917,
+        "num": 609184,
+        "word": "国台办回应马斯克称是美国阻止中国统一",
+        "onboard_time": 1695791738,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159538,
+        "num": 604167,
+        "word": "13岁少女成中国最年轻亚运冠军",
+        "onboard_time": 1695785374,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53292,
+        "num": 597709,
+        "word": "儒家思想和奥林匹克精神天然契合",
+        "onboard_time": 1695798037,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965681,
+        "num": 592147,
+        "word": "音爆",
+        "onboard_time": 1695796238,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591793,
+        "num": 591793,
+        "word": "王乐君否认做手术医院是胡歌找的",
+        "onboard_time": 1695794616,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547888,
+        "num": 547888,
+        "word": "郑爽上诉被驳回",
+        "onboard_time": 1695795275,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533468,
+        "num": 533468,
+        "word": "绵阳巨响",
+        "onboard_time": 1695794135,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405011,
+        "num": 405011,
+        "word": "爱宝记得福宝",
+        "onboard_time": 1695797676,
+        "rank": 19,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 398121,
+        "num": 398121,
+        "word": "秦霄贤表白周扬青自己先脸红",
+        "onboard_time": 1695796059,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396795,
+        "num": 396795,
+        "word": "井胧井迪离婚风穿搭",
+        "onboard_time": 1695799298,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394657,
+        "num": 394657,
+        "word": "专家认为大同欺凌事件属于性强暴",
+        "onboard_time": 1695792517,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384689,
+        "num": 384689,
+        "word": "空气炸锅为什么不火了",
+        "onboard_time": 1695776439,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353404,
+        "num": 353404,
+        "word": "吴昕是穿了睡裤去巴黎吗",
+        "onboard_time": 1695799716,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 343917,
+        "num": 348654,
+        "word": "多地医生降薪",
+        "onboard_time": 1695788797,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347545,
+        "num": 347545,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344036,
+        "num": 344036,
+        "word": "原来午睡都进化成这样了",
+        "onboard_time": 1695796358,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327645,
+        "num": 327645,
+        "word": "论文太干净了我舍不得碰",
+        "onboard_time": 1695799716,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316016,
+        "num": 316016,
+        "word": "LEEHAN回应跟张凌赫长得像",
+        "onboard_time": 1695798877,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368893,
+        "num": 304530,
+        "word": "你以后还会买花西子吗",
+        "onboard_time": 1695799138,
+        "rank": 30,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 291808,
+        "num": 291808,
+        "word": "六公主国庆片单赢麻了",
+        "onboard_time": 1695797136,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287172,
+        "num": 287172,
+        "word": "郑爽仍有千万欠款未履行",
+        "onboard_time": 1695785736,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264841,
+        "num": 264841,
+        "word": "消防员买奶茶店员悄悄藏起收款码",
+        "onboard_time": 1695799115,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264581,
+        "num": 264581,
+        "word": "十位导演眼中的华晨宇",
+        "onboard_time": 1695798877,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260316,
+        "num": 260316,
+        "word": "全红婵赛前训练表演炸鱼",
+        "onboard_time": 1695799057,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245984,
+        "num": 245984,
+        "word": "杨幂说能不能飞关键在我不在翅膀",
+        "onboard_time": 1695798758,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242377,
+        "num": 242377,
+        "word": "咒术回战 宿傩回战",
+        "onboard_time": 1695793956,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 233605,
+        "num": 233605,
+        "word": "第一眼美女发型",
+        "onboard_time": 1695797676,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 224844,
+        "num": 224844,
+        "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
+        "onboard_time": 1695795216,
+        "rank": 39,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 220306,
+        "num": 220306,
+        "word": "专家称作恶儿童父母须承担赔偿责任",
+        "onboard_time": 1695796358,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211225,
+        "num": 211225,
+        "word": "五月天广州 抢票",
+        "onboard_time": 1695791200,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205969,
+        "num": 205969,
+        "word": "张馨予要消失一下",
+        "onboard_time": 1695799837,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200149,
+        "num": 200149,
+        "word": "杨幂睡衣美神降临",
+        "onboard_time": 1695796175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193041,
+        "num": 193041,
+        "word": "刘耀文美拉德西装",
+        "onboard_time": 1695798877,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193009,
+        "num": 193009,
+        "word": "亚运期间最受欢迎的杭帮菜榜单来了",
+        "onboard_time": 1695799475,
+        "rank": 45,
+        "category": "美食,体育"
+      },
+      {
+        "raw_hot": 185038,
+        "num": 185038,
+        "word": "吴磊蒋勤勤新片入围东京电影节",
+        "onboard_time": 1695797737,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179950,
+        "num": 179950,
+        "word": "文咏珊跑厅跑到袜子都破了",
+        "onboard_time": 1695798216,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170014,
+        "num": 170014,
+        "word": "董宇辉回应周杰伦演唱会门票来源",
+        "onboard_time": 1695776439,
+        "rank": 48,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 162040,
+        "num": 162040,
+        "word": "萌娃夸郭晶晶超厉害霍启刚说她是我太太",
+        "onboard_time": 1695795516,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 15:15:58
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 15:34:06
 </p>
 </blockquote>
 <p>
@@ -3261,6 +3261,12 @@ Jennie金智秀成立个人工作室（热度：1546342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23" target="weibo">
+CoCo奶茶道歉（热度：1537758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84VIP%E7%97%85%E6%88%BF%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 原来小说里的VIP病房是真的（热度：1536170）
 </a>
@@ -4869,6 +4875,12 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E8%A2%AB%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F%E4%BA%8E%E5%8C%97%E4%BA%AC%23" target="weibo">
+知情人士称许家印已被监视居住于北京（热度：1156568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8D%97%E4%BA%AC%E6%8A%A2%E7%A5%A8%23" target="weibo">
 林俊杰南京抢票（热度：1156543）
 </a>
@@ -5999,18 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%BB%B4%E6%98%AF%E8%80%81%E4%BA%86%E4%B8%8D%E6%98%AF%E5%8F%98%E9%87%8E%E4%BA%BA%E4%BA%86%23" target="weibo">
 李子维是老了不是变野人了（热度：994495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%95%BE%E6%96%AF%E8%BE%9F%E8%B0%A3%E4%B8%8E%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%23" target="weibo">
-杜蕾斯辟谣与茅台联名（热度：994471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%90%8C%E6%AC%BE%E7%9C%89%E7%AC%94%E6%88%90%E6%9C%AC%E4%BB%B7%E4%B8%8D%E8%B6%8510%E5%85%83%23" target="weibo">
-花西子同款眉笔成本价不超10元（热度：992842）
 </a>
 </li>
 
