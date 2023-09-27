@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 21:21:08
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 21:34:11
 </p>
 </blockquote>
 <p>
@@ -2745,6 +2745,12 @@ iPhone信号太差或将解决（热度：1716894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E5%A9%9A%E7%BA%B1%23" target="weibo">
+华晨宇演唱会穿婚纱（热度：1715448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%A7%91%E6%96%B0%E9%97%BB%E5%AD%A6%E9%99%A2%E9%99%A2%E9%95%BF%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%23" target="weibo">
 华科新闻学院院长回应张雪峰（热度：1712419）
 </a>
@@ -5387,12 +5393,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%A9%AC%E5%8D%AB%E5%86%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
 演员马卫军去世（热度：1091673）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E5%A9%9A%E7%BA%B1%23" target="weibo">
-华晨宇演唱会穿婚纱（热度：1091354）
 </a>
 </li>
 

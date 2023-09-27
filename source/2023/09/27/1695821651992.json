@@ -1,0 +1,410 @@
+{
+  "runTime": 1695821651992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1715448,
+        "num": 1715448,
+        "word": "华晨宇演唱会穿婚纱",
+        "onboard_time": 1695820173,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1303876,
+        "num": 1303876,
+        "word": "女儿用父亲600块买的整只牛头做火锅",
+        "onboard_time": 1695817412,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58691,
+        "num": 1249783,
+        "word": "中国造列车获土耳其总统点赞",
+        "onboard_time": 1695820474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220244,
+        "num": 1220244,
+        "word": "顺丰错转周杰伦演唱会门票致过期",
+        "onboard_time": 1695810215,
+        "rank": 3,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 897192,
+        "num": 897192,
+        "word": "徐嘉余  51.91",
+        "onboard_time": 1695821199,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 778875,
+        "num": 778875,
+        "word": "男足 梦幻开局",
+        "onboard_time": 1695816871,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652238,
+        "num": 652238,
+        "word": "黄凯连续五年考研上岸清华",
+        "onboard_time": 1695820898,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605597,
+        "num": 605597,
+        "word": "古有替父从军 今有替父追星",
+        "onboard_time": 1695816451,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 591402,
+        "num": 591402,
+        "word": "卢昱晓直播 有求必应",
+        "onboard_time": 1695820836,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576500,
+        "num": 576500,
+        "word": "谢兴阳 头一次当上男主了",
+        "onboard_time": 1695820053,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544092,
+        "num": 544092,
+        "word": "219元裙子穿90分钟便烂应该谁负责",
+        "onboard_time": 1695818132,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527147,
+        "num": 527147,
+        "word": "日本阳光玫瑰价格大跌",
+        "onboard_time": 1695813272,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265978,
+        "num": 467516,
+        "word": "余依婷400米个人混合泳冠军",
+        "onboard_time": 1695819936,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197160,
+        "num": 438228,
+        "word": "大熊猫祖传躲雨姿势",
+        "onboard_time": 1695812132,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 195825,
+        "num": 427018,
+        "word": "张雨霏100蝶冠军",
+        "onboard_time": 1695815434,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421175,
+        "num": 421175,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416065,
+        "num": 416065,
+        "word": "女子称质疑公司发假月饼后被解雇",
+        "onboard_time": 1695812913,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373173,
+        "num": 373173,
+        "word": "白鹿及腰麻花辫",
+        "onboard_time": 1695820836,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368522,
+        "num": 368522,
+        "word": "导演说刘诗诗演出了3分真7分假",
+        "onboard_time": 1695813932,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356313,
+        "num": 356313,
+        "word": "张雨霏亚运第四金",
+        "onboard_time": 1695821078,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345714,
+        "num": 345714,
+        "word": "男女4x100混接中国队阵容太强了",
+        "onboard_time": 1695821017,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342195,
+        "num": 342195,
+        "word": "吴昕是穿了睡裤去巴黎吗",
+        "onboard_time": 1695799716,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 325024,
+        "num": 325024,
+        "word": "王鹤棣哄小女孩",
+        "onboard_time": 1695818852,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302113,
+        "num": 302113,
+        "word": "黄景瑜王子奇十指紧扣",
+        "onboard_time": 1695819274,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301724,
+        "num": 301724,
+        "word": "男子出差前为妻女做2大锅火锅备餐",
+        "onboard_time": 1695815252,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293703,
+        "num": 293703,
+        "word": "分手后男生发给我的所有账单",
+        "onboard_time": 1695817832,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285311,
+        "num": 285311,
+        "word": "潘展乐 尽力了",
+        "onboard_time": 1695818555,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274983,
+        "num": 274983,
+        "word": "封神训练营主持人是吴昕",
+        "onboard_time": 1695818432,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274486,
+        "num": 274486,
+        "word": "好事成双",
+        "onboard_time": 1695816573,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267538,
+        "num": 267538,
+        "word": "吴京在王鹤棣背后搞怪",
+        "onboard_time": 1695820295,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 800626,
+        "num": 264659,
+        "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+        "onboard_time": 1695819333,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378953,
+        "num": 263451,
+        "word": "YG新女团成员的Smoke舞蹈",
+        "onboard_time": 1695821321,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302034,
+        "num": 261851,
+        "word": "徐嘉余杭州亚运第三金",
+        "onboard_time": 1695820960,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260126,
+        "num": 260126,
+        "word": "华为上架1999元手机壳",
+        "onboard_time": 1695803074,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255519,
+        "num": 255519,
+        "word": "offer5 8点下班的工作没人做",
+        "onboard_time": 1695805115,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250836,
+        "num": 250836,
+        "word": "内娱有AI演员了",
+        "onboard_time": 1695819214,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243389,
+        "num": 243389,
+        "word": "国足亚运队vs卡塔尔首发",
+        "onboard_time": 1695815134,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222186,
+        "num": 222186,
+        "word": "外国小哥演我遇到迪丽热巴",
+        "onboard_time": 1695819274,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188731,
+        "num": 188731,
+        "word": "papi酱 步入中年的前奏",
+        "onboard_time": 1695811412,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174180,
+        "num": 174180,
+        "word": "CoCo奶茶道歉",
+        "onboard_time": 1695797435,
+        "rank": 39,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 172239,
+        "num": 172239,
+        "word": "为什么劝留学生出国要带筷子",
+        "onboard_time": 1695811772,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160227,
+        "num": 160227,
+        "word": "五个习惯可能导致腹部长赘肉",
+        "onboard_time": 1695809551,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155971,
+        "num": 155971,
+        "word": "老人坐公交强要小学生让座大哥霸气制止",
+        "onboard_time": 1695818494,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153234,
+        "num": 153234,
+        "word": "萌兰在里面吃大家在外面拍",
+        "onboard_time": 1695819094,
+        "rank": 43,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 149235,
+        "num": 149235,
+        "word": "周杰伦上海 二次抢票",
+        "onboard_time": 1695809191,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136058,
+        "num": 136058,
+        "word": "朝鲜决定驱逐非法入境美士兵",
+        "onboard_time": 1695812492,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135122,
+        "num": 135122,
+        "word": "张予曦直播风格",
+        "onboard_time": 1695818312,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133981,
+        "num": 133981,
+        "word": "亚运会中国队手里的保温杯",
+        "onboard_time": 1695817053,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115272,
+        "num": 115272,
+        "word": "锈湖",
+        "onboard_time": 1695815853,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105646,
+        "num": 105646,
+        "word": "泰山之巅消防员民警收到鲜花快递",
+        "onboard_time": 1695820234,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国自贸区已从试验田建成高产田#"
+    }
+  }
+}
