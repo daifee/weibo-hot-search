@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695846858953,
+  "endTime": 1695849298649,
   "band_list": [
     {
       "raw_hot": 2089727,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84420,
+      "num": 35362,
+      "word": "女业主与写字楼男员工商谈突然被扇耳光",
+      "onboard_time": 1695845053,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82917,
       "num": 95610,
       "word": "男足主力停赛",
@@ -483,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31563,
-      "num": 31563,
-      "word": "女业主与写字楼男员工商谈突然被扇耳光",
-      "onboard_time": 1695845053,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25366,
-      "num": 25366,
+      "raw_hot": 32843,
+      "num": 32843,
       "word": "卫明不装了",
       "onboard_time": 1695845354,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13699,
+      "num": 33436,
+      "word": "这届00后扛起了大梁",
+      "onboard_time": 1695812012,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
