@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 13:34:02
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 14:22:54
 </p>
 </blockquote>
 <p>
@@ -2211,6 +2211,12 @@ Lisa演唱会哭了（热度：1923896）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E9%BB%91%E7%B2%89%E9%81%93%E6%AD%89%23" target="weibo">
+赵丽颖申请强制黑粉道歉（热度：1874419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%AF%8D%E5%AD%90%E5%9D%A0%E6%A5%BC%E6%A1%882%E5%AD%A9%E5%AD%90%E6%98%AF%E8%A2%AB%E6%89%94%E4%B8%8B%E6%A5%BC%23" target="weibo">
 知情人称母子坠楼案2孩子是被扔下楼（热度：1874350）
 </a>
@@ -2969,6 +2975,12 @@ THE9解散演唱会要来了（热度：1668390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83%23" target="weibo">
 小伙误把奶茶赠品雪花膏当雪糕吃（热度：1623236）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E5%B7%A8%E5%93%8D%23" target="weibo">
+绵阳巨响（热度：1618039）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%8F%98%E5%8C%96%23" target="weibo">
 欧阳娜娜变化（热度：991455）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%903%E6%AC%A1%E7%8C%A5%E4%BA%B5%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%80%81%E5%A9%86%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-男子3次猥亵邻座女子被老婆狂扇耳光（热度：990874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80NewJeans%E8%B7%B3%E4%BA%86supershy%23" target="weibo">
-林一NewJeans跳了supershy（热度：989861）
 </a>
 </li>
 

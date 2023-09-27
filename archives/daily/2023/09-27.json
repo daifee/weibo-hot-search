@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695792842679,
+  "endTime": 1695795774802,
   "band_list": [
     {
       "raw_hot": 3125145,
@@ -51,6 +51,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 1874419,
+      "num": 1874419,
+      "word": "赵丽颖申请强制黑粉道歉",
+      "onboard_time": 1695792457,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1855025,
       "num": 1855025,
       "word": "郑爽仍有千万欠款未履行",
@@ -97,6 +105,14 @@
       "onboard_time": 1695770550,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1618039,
+      "num": 629976,
+      "word": "绵阳巨响",
+      "onboard_time": 1695794135,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1508535,
@@ -147,12 +163,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 937818,
-      "num": 937818,
-      "word": "赵丽颖申请强制黑粉道歉",
-      "onboard_time": 1695792457,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 966699,
+      "num": 613440,
+      "word": "西安巨响",
+      "onboard_time": 1695795101,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891025,
@@ -161,6 +177,14 @@
       "onboard_time": 1695742180,
       "rank": 3,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 869563,
+      "num": 869563,
+      "word": "专家认为大同欺凌事件属于性强暴",
+      "onboard_time": 1695792517,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 868626,
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 767598,
+      "num": 767598,
+      "word": "王乐君否认做手术医院是胡歌找的",
+      "onboard_time": 1695794616,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751879,
       "num": 751879,
       "word": "韩国球员为输球后拒绝握手道歉",
@@ -251,6 +283,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 700209,
+      "num": 570383,
+      "word": "五月天广州 抢票",
+      "onboard_time": 1695791200,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 665513,
       "num": 665513,
       "word": "张杰谢娜丝婚照",
@@ -273,6 +313,14 @@
       "onboard_time": 1695724599,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 636501,
+      "num": 636501,
+      "word": "咒术回战 宿傩回战",
+      "onboard_time": 1695793956,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 631850,
@@ -379,6 +427,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 525283,
+      "num": 608346,
+      "word": "国台办回应马斯克称是美国阻止中国统一",
+      "onboard_time": 1695791738,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 514549,
       "num": 514549,
       "word": "温柔处理打不疼欺凌者",
@@ -409,6 +465,14 @@
       "onboard_time": 1695781713,
       "rank": 27,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 496148,
+      "num": 496148,
+      "word": "花西子 公关",
+      "onboard_time": 1695795101,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 491888,
@@ -451,14 +515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 463768,
-      "num": 359477,
-      "word": "国台办回应马斯克称是美国阻止中国统一",
-      "onboard_time": 1695791738,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 463052,
       "num": 463052,
       "word": "央视中秋晚会嘉宾阵容",
@@ -484,7 +540,7 @@
     },
     {
       "raw_hot": 444116,
-      "num": 444116,
+      "num": 599150,
       "word": "13岁少女成中国最年轻亚运冠军",
       "onboard_time": 1695785374,
       "rank": 34,
@@ -515,6 +571,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 431928,
+      "num": 350961,
+      "word": "郑爽上诉被驳回",
+      "onboard_time": 1695795275,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 425786,
+      "num": 425786,
+      "word": "李村",
+      "onboard_time": 1695791917,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 417731,
       "num": 881295,
       "word": "作为怪物",
@@ -537,6 +609,14 @@
       "onboard_time": 1695789878,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370075,
+      "num": 370075,
+      "word": "黄景瑜像回消防站串门的",
+      "onboard_time": 1695795275,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 365990,
@@ -580,7 +660,7 @@
     },
     {
       "raw_hot": 343699,
-      "num": 289137,
+      "num": 328069,
       "word": "杨幂启程巴黎时装周",
       "onboard_time": 1695791258,
       "rank": 32,
@@ -601,6 +681,14 @@
       "onboard_time": 1695727116,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321209,
+      "num": 321209,
+      "word": "于文文 林佳已经向前看了",
+      "onboard_time": 1695795275,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 311096,
@@ -707,14 +795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 270713,
-      "num": 270713,
-      "word": "李村",
-      "onboard_time": 1695791917,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 262644,
       "num": 464543,
       "word": "丘索维金娜48岁站上赛场的原因",
@@ -737,6 +817,14 @@
       "onboard_time": 1695743558,
       "rank": 27,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 259981,
+      "num": 259981,
+      "word": "萌娃夸郭晶晶超厉害霍启刚说她是我太太",
+      "onboard_time": 1695795516,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 256467,
@@ -763,12 +851,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 246570,
-      "num": 246570,
-      "word": "五月天广州 抢票",
-      "onboard_time": 1695791200,
-      "rank": 39,
-      "category": "演出"
+      "raw_hot": 245426,
+      "num": 245426,
+      "word": "咒术回战",
+      "onboard_time": 1695794736,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 237005,
@@ -788,7 +876,7 @@
     },
     {
       "raw_hot": 231106,
-      "num": 231106,
+      "num": 585569,
       "word": "张博恒的89.299分究竟有多牛",
       "onboard_time": 1695789218,
       "rank": 39,
@@ -811,20 +899,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221662,
+      "num": 221662,
+      "word": "西安一中学备2400块汉瓦当月饼送学生",
+      "onboard_time": 1695792877,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 221467,
       "num": 221467,
       "word": "美国编剧工会罢工结束",
       "onboard_time": 1695784900,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217350,
-      "num": 217350,
-      "word": "专家认为大同欺凌事件属于性强暴",
-      "onboard_time": 1695792517,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216447,
@@ -857,6 +945,14 @@
       "onboard_time": 1695783992,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209901,
+      "num": 209901,
+      "word": "背了一堆小乌龟的全红婵相当显眼",
+      "onboard_time": 1695792636,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 209319,
@@ -995,14 +1091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187800,
-      "num": 187800,
-      "word": "背了一堆小乌龟的全红婵相当显眼",
-      "onboard_time": 1695792636,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186284,
       "num": 186284,
       "word": "江西建工通报一领导要取消周末",
@@ -1059,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180072,
+      "num": 180072,
+      "word": "张雨绮人脉扩展到AI界",
+      "onboard_time": 1695793475,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177275,
       "num": 177275,
       "word": "曾黎白色褶皱旗袍",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1695778955,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 175627,
+      "num": 175627,
+      "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
+      "onboard_time": 1695795216,
+      "rank": 38,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 174208,
@@ -1163,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163602,
+      "num": 163602,
+      "word": "中国奇谭2",
+      "onboard_time": 1695794076,
+      "rank": 40,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 158839,
       "num": 158839,
       "word": "江苏95后男兽医做家政月入60万",
@@ -1192,6 +1304,14 @@
       "word": "马龙 我是如此相信",
       "onboard_time": 1695733664,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156260,
+      "num": 156260,
+      "word": "杭州街头偶遇亚运冠军拿快递",
+      "onboard_time": 1695793301,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1257,6 +1377,14 @@
       "onboard_time": 1695769947,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149774,
+      "num": 149774,
+      "word": "我恋5黑色9分钟",
+      "onboard_time": 1695793357,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 149031,
@@ -1473,6 +1601,14 @@
       "onboard_time": 1695744933,
       "rank": 49,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 80476,
+      "num": 224809,
+      "word": "刘德华说时代需要敢于非凡的人",
+      "onboard_time": 1695794736,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 75810,
