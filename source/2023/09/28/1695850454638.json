@@ -1,0 +1,410 @@
+{
+  "runTime": 1695850454638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 222470,
+        "num": 222470,
+        "word": "多家医院关闭产科",
+        "onboard_time": 1695826837,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214027,
+        "num": 214027,
+        "word": "同居生子分手女子起诉每月给1元抚养费",
+        "onboard_time": 1695828935,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10875,
+        "num": 104193,
+        "word": "中国造列车获土耳其总统点赞",
+        "onboard_time": 1695820474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99144,
+        "num": 99144,
+        "word": "女业主与写字楼男员工商谈突然被扇耳光",
+        "onboard_time": 1695845053,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74516,
+        "num": 74516,
+        "word": "张小斐首部主演电视剧收视率破2",
+        "onboard_time": 1695828040,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58291,
+        "num": 58291,
+        "word": "母亲去世女子想推迟结婚被判退彩礼",
+        "onboard_time": 1695823538,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55661,
+        "num": 55661,
+        "word": "卡塔尔球员围攻裁判",
+        "onboard_time": 1695828517,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51772,
+        "num": 51772,
+        "word": "姚明急得拍大腿",
+        "onboard_time": 1695828395,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35480,
+        "num": 42576,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42271,
+        "num": 42271,
+        "word": "这是我认识的国足吗",
+        "onboard_time": 1695829415,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61582,
+        "num": 42206,
+        "word": "张嘉倪和素人合照",
+        "onboard_time": 1695826477,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45551,
+        "num": 41893,
+        "word": "街道办回应老人当着老伴面坠楼身亡",
+        "onboard_time": 1695841935,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41029,
+        "num": 41029,
+        "word": "第一次在大熊猫脸上看到无语",
+        "onboard_time": 1695839056,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 25888,
+        "num": 36866,
+        "word": "大熊猫祖传躲雨姿势",
+        "onboard_time": 1695812132,
+        "rank": 13,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 19024,
+        "num": 35489,
+        "word": "这届00后扛起了大梁",
+        "onboard_time": 1695812012,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35469,
+        "num": 35469,
+        "word": "出轨男卫明提离婚独吞家产",
+        "onboard_time": 1695827377,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35201,
+        "num": 35201,
+        "word": "CS2",
+        "onboard_time": 1695834683,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33633,
+        "num": 33633,
+        "word": "卫明不装了",
+        "onboard_time": 1695845354,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32647,
+        "num": 32647,
+        "word": "五个习惯可能导致腹部长赘肉",
+        "onboard_time": 1695809551,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 30400,
+        "num": 30400,
+        "word": "黄凯连续五年考研上岸清华",
+        "onboard_time": 1695820898,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41930,
+        "num": 30400,
+        "word": "明天下午发的朋友圈",
+        "onboard_time": 1695824619,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30382,
+        "num": 30382,
+        "word": "导演说刘诗诗演出了3分真7分假",
+        "onboard_time": 1695813932,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26862,
+        "num": 26862,
+        "word": "黄景瑜王子奇十指紧扣",
+        "onboard_time": 1695819274,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26236,
+        "num": 26236,
+        "word": "女儿用父亲600块买的整只牛头做火锅",
+        "onboard_time": 1695817412,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25983,
+        "num": 25983,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1695820173,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25557,
+        "num": 25557,
+        "word": "虞书欣 饿晕噜",
+        "onboard_time": 1695826236,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25103,
+        "num": 25103,
+        "word": "婆婆1天走丢3次民警熟练送回",
+        "onboard_time": 1695828456,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24042,
+        "num": 24042,
+        "word": "娜扎水原希子合照",
+        "onboard_time": 1695825578,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23704,
+        "num": 23704,
+        "word": "好事成双",
+        "onboard_time": 1695816573,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22704,
+        "num": 22704,
+        "word": "宁波一医院产科关闭",
+        "onboard_time": 1695833487,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68978,
+        "num": 22478,
+        "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+        "onboard_time": 1695819333,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22143,
+        "num": 22143,
+        "word": "古有替父从军 今有替父追星",
+        "onboard_time": 1695816451,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21863,
+        "num": 21863,
+        "word": "胡彦斌什么都敢问",
+        "onboard_time": 1695828695,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21586,
+        "num": 21586,
+        "word": "张艺兴张鲁一同框",
+        "onboard_time": 1695827196,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20919,
+        "num": 20919,
+        "word": "封神训练营主持人是吴昕",
+        "onboard_time": 1695818432,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20601,
+        "num": 20601,
+        "word": "分手后男生发给我的所有账单",
+        "onboard_time": 1695817832,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20471,
+        "num": 20471,
+        "word": "徐嘉余 51.91",
+        "onboard_time": 1695821199,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20228,
+        "num": 20228,
+        "word": "原神三周年",
+        "onboard_time": 1695833366,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19738,
+        "num": 19738,
+        "word": "周冬雨与VOGUE主编合影",
+        "onboard_time": 1695840017,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19469,
+        "num": 19469,
+        "word": "河南一小区连续10年举办百家宴",
+        "onboard_time": 1695829115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19384,
+        "num": 19384,
+        "word": "陈乔恩晒老公视角美照",
+        "onboard_time": 1695828096,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18185,
+        "num": 18185,
+        "word": "外国小哥演我遇到迪丽热巴",
+        "onboard_time": 1695819274,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18042,
+        "num": 18042,
+        "word": "YG新女团成员的Smoke舞蹈",
+        "onboard_time": 1695821321,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16555,
+        "num": 18033,
+        "word": "谢兴阳 头一次当上男主了",
+        "onboard_time": 1695820053,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15794,
+        "num": 17933,
+        "word": "G社拍的金智秀朴彩英",
+        "onboard_time": 1695830373,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 15449,
+        "num": 17882,
+        "word": "顺丰错转周杰伦演唱会门票致过期",
+        "onboard_time": 1695810215,
+        "rank": 45,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 15370,
+        "num": 17809,
+        "word": "白鹿喻言同场看秀",
+        "onboard_time": 1695827319,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15202,
+        "num": 17750,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14743,
+        "num": 17726,
+        "word": "王鹤棣拒绝给自己歌声打分",
+        "onboard_time": 1695822100,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14244,
+        "num": 17666,
+        "word": "权志龙疑签约华纳唱片",
+        "onboard_time": 1695825939,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国自贸区已从试验田建成高产田#"
+    }
+  }
+}
