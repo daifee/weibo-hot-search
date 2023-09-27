@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695819008922,
+  "endTime": 1695820868520,
   "band_list": [
     {
       "raw_hot": 3125145,
@@ -203,6 +203,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1314737,
+      "num": 1314737,
+      "word": "女儿用父亲600块买的整只牛头做火锅",
+      "onboard_time": 1695817412,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1227797,
       "num": 1227797,
       "word": "董宇辉回应周杰伦演唱会门票来源",
@@ -257,6 +265,14 @@
       "onboard_time": 1695811412,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1091354,
+      "num": 1091354,
+      "word": "华晨宇演唱会穿婚纱",
+      "onboard_time": 1695820173,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1085862,
@@ -443,6 +459,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 725750,
+      "num": 189953,
+      "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+      "onboard_time": 1695819333,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721507,
       "num": 532659,
       "word": "张馨予要消失一下",
@@ -507,20 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 640590,
-      "num": 214764,
-      "word": "女儿用父亲600块买的整只牛头做火锅",
-      "onboard_time": 1695817412,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636501,
       "num": 636501,
       "word": "咒术回战 宿傩回战",
       "onboard_time": 1695793956,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 635108,
+      "num": 635108,
+      "word": "谢兴阳 头一次当上男主了",
+      "onboard_time": 1695820053,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 631850,
@@ -595,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 607999,
+      "num": 607999,
+      "word": "男足 梦幻开局",
+      "onboard_time": 1695816871,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606989,
       "num": 1955690,
       "word": "郭晶晶霍启刚太好磕了",
@@ -667,14 +699,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 577768,
-      "num": 577768,
-      "word": "男足 梦幻开局",
-      "onboard_time": 1695816871,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 576093,
       "num": 887470,
       "word": "卫明出轨再添实锤",
@@ -737,6 +761,14 @@
       "onboard_time": 1695772236,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 504526,
+      "num": 189724,
+      "word": "卢昱晓直播 有求必应",
+      "onboard_time": 1695820836,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 503602,
@@ -811,6 +843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 466430,
+      "num": 445414,
+      "word": "219元裙子穿90分钟便烂应该谁负责",
+      "onboard_time": 1695818132,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463052,
       "num": 463052,
       "word": "央视中秋晚会嘉宾阵容",
@@ -883,6 +923,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 418952,
+      "num": 418952,
+      "word": "王鹤棣哄小女孩",
+      "onboard_time": 1695818852,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417731,
       "num": 881295,
       "word": "作为怪物",
@@ -915,6 +963,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 403280,
+      "num": 397924,
+      "word": "吴京在王鹤棣背后搞怪",
+      "onboard_time": 1695820295,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396907,
       "num": 396907,
       "word": "警方通报女子被住建局保安踩脚下",
@@ -931,12 +987,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377927,
+      "num": 189971,
+      "word": "潘展乐 尽力了",
+      "onboard_time": 1695818555,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373545,
       "num": 668220,
       "word": "你以后还会买花西子吗",
       "onboard_time": 1695799138,
       "rank": 30,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 370181,
+      "num": 282620,
+      "word": "封神训练营主持人是吴昕",
+      "onboard_time": 1695818432,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 370075,
@@ -1027,12 +1099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339367,
+      "num": 405287,
+      "word": "余依婷400米个人混合泳冠军",
+      "onboard_time": 1695819936,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334871,
       "num": 334871,
       "word": "六公主国庆片单赢麻了",
       "onboard_time": 1695797136,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 328147,
+      "num": 328147,
+      "word": "好事成双",
+      "onboard_time": 1695816573,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 327399,
@@ -1065,6 +1153,14 @@
       "onboard_time": 1695795275,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 319402,
+      "num": 285948,
+      "word": "黄景瑜王子奇十指紧扣",
+      "onboard_time": 1695819274,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 316016,
@@ -1155,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296306,
+      "num": 284104,
+      "word": "分手后男生发给我的所有账单",
+      "onboard_time": 1695817832,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294357,
       "num": 294357,
       "word": "张稀哲停赛7场罚款7万",
@@ -1177,14 +1281,6 @@
       "onboard_time": 1695776857,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286645,
-      "num": 286645,
-      "word": "王鹤棣哄小女孩",
-      "onboard_time": 1695818852,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 286089,
@@ -1211,20 +1307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283934,
-      "num": 234023,
-      "word": "分手后男生发给我的所有账单",
-      "onboard_time": 1695817832,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 281728,
       "num": 281728,
       "word": "情侣租房跑路留满床血渍遍地垃圾",
       "onboard_time": 1695730845,
       "rank": 26,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 276045,
+      "num": 210879,
+      "word": "内娱有AI演员了",
+      "onboard_time": 1695819214,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 275048,
@@ -1323,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259174,
-      "num": 189971,
-      "word": "潘展乐 尽力了",
-      "onboard_time": 1695818555,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258028,
       "num": 258028,
       "word": "黄景瑜用肩膀为张婧仪挡烫水",
@@ -1419,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234224,
-      "num": 234224,
-      "word": "好事成双",
-      "onboard_time": 1695816573,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233838,
       "num": 456097,
       "word": "樊振东赛后和教练队友击掌太可爱",
@@ -1491,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222998,
+      "num": 205725,
+      "word": "外国小哥演我遇到迪丽热巴",
+      "onboard_time": 1695819274,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221780,
       "num": 221780,
       "word": "迪丽热巴夜景大片",
@@ -1539,14 +1627,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 218011,
-      "num": 218011,
-      "word": "封神训练营主持人是吴昕",
-      "onboard_time": 1695818432,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217747,
       "num": 217747,
       "word": "英雄联盟中国队vs韩国队",
@@ -1577,14 +1657,6 @@
       "onboard_time": 1695786335,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 215764,
-      "num": 189171,
-      "word": "219元裙子穿90分钟便烂应该谁负责",
-      "onboard_time": 1695818132,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215529,
@@ -1827,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193539,
+      "num": 193539,
+      "word": "泰山之巅消防员民警收到鲜花快递",
+      "onboard_time": 1695820234,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193085,
       "num": 218164,
       "word": "打工人张雨霏",
@@ -1905,6 +1985,14 @@
       "onboard_time": 1695745292,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189367,
+      "num": 189367,
+      "word": "白鹿及腰麻花辫",
+      "onboard_time": 1695820836,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188237,
@@ -2139,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162084,
+      "num": 162084,
+      "word": "萌兰在里面吃大家在外面拍",
+      "onboard_time": 1695819094,
+      "rank": 36,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 159486,
       "num": 159486,
       "word": "只有选角超级完美才敢这样拍海报",
@@ -2364,7 +2460,7 @@
     },
     {
       "raw_hot": 136130,
-      "num": 136130,
+      "num": 143898,
       "word": "这届00后扛起了大梁",
       "onboard_time": 1695812012,
       "rank": 42,
@@ -2441,6 +2537,14 @@
       "onboard_time": 1695804693,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118956,
+      "num": 118956,
+      "word": "DOTA2蓝字了",
+      "onboard_time": 1695819995,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 117339,
@@ -2777,6 +2881,14 @@
       "onboard_time": 1695809072,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 35659,
+      "num": 1122798,
+      "word": "中国造列车获土耳其总统点赞",
+      "onboard_time": 1695820474,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31385,
