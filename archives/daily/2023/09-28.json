@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695852938586,
+  "endTime": 1695854038426,
   "band_list": [
     {
       "raw_hot": 2089727,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124377,
+      "num": 124377,
+      "word": "女业主与写字楼男员工商谈突然被扇耳光",
+      "onboard_time": 1695845053,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122913,
       "num": 302774,
       "word": "大熊猫祖传躲雨姿势",
@@ -299,12 +307,12 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 112342,
-      "num": 112342,
-      "word": "女业主与写字楼男员工商谈突然被扇耳光",
-      "onboard_time": 1695845053,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 115191,
+      "num": 115191,
+      "word": "五个习惯可能导致腹部长赘肉",
+      "onboard_time": 1695809551,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 111210,
@@ -331,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108271,
-      "num": 108271,
-      "word": "五个习惯可能导致腹部长赘肉",
-      "onboard_time": 1695809551,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "原神三周年",
       "onboard_time": 1695833366,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105333,
+      "num": 105333,
+      "word": "街道办回应老人当着老伴面坠楼身亡",
+      "onboard_time": 1695841935,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105003,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96011,
+      "num": 96011,
+      "word": "第一次在大熊猫脸上看到无语",
+      "onboard_time": 1695839056,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 95677,
       "num": 98883,
       "word": "大一新生特征这么明显吗",
@@ -425,22 +441,6 @@
       "onboard_time": 1695824316,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78869,
-      "num": 66547,
-      "word": "第一次在大熊猫脸上看到无语",
-      "onboard_time": 1695839056,
-      "rank": 40,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 77917,
-      "num": 71903,
-      "word": "街道办回应老人当着老伴面坠楼身亡",
-      "onboard_time": 1695841935,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72164,
@@ -475,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40454,
-      "num": 71626,
+      "raw_hot": 48499,
+      "num": 105373,
       "word": "这届00后扛起了大梁",
       "onboard_time": 1695812012,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37777,
+      "num": 37777,
+      "word": "周冬雨与VOGUE主编合影",
+      "onboard_time": 1695840017,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 36380,
@@ -489,14 +497,6 @@
       "onboard_time": 1695845354,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33838,
-      "num": 33838,
-      "word": "周冬雨与VOGUE主编合影",
-      "onboard_time": 1695840017,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 33793,
