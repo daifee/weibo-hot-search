@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695838934189,
+  "endTime": 1695839723337,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -71977,6 +71977,14 @@
       "onboard_time": 1695767239,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28840,
+      "num": 28840,
+      "word": "第一次在大熊猫脸上看到无语",
+      "onboard_time": 1695839056,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 28758,
